@@ -7,9 +7,9 @@ from math import ceil
 API_KEY = os.environ['OPENALEX_API_KEY']
 
 today = datetime.date.today()
-week_ago = (today - datetime.timedelta(weeks=2)).strftime("%Y-%m-%d")
+week_ago = (today - datetime.timedelta(weeks=6)).strftime("%Y-%m-%d")
 
-url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A5054680242,from_created_date:{week_ago}&api_key={API_KEY}'
+url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A5003442464,from_created_date:{week_ago}&api_key={API_KEY}'
 
 data = requests.get(url).json()
 count = data['meta']['count']
@@ -40,5 +40,7 @@ for i in range(1, npages):
         s += process_result(result)
   
     
-with open('results.dat', 'wa') as f:
+with open('results.dat', 'a') as f:
     f.write(s)
+
+print(s)
