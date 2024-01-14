@@ -8,3 +8,19 @@ jobs:
     steps:
       - name: Every time
         run: echo "This step was run at `date`"
+
+
+  build_artifact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Create a file
+        run: |
+          date >> results.dat
+          git add results.dat
+          git commit results.dat -m "adding to results.dat"
+          git push
+
+
+        
