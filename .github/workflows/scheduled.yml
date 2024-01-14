@@ -27,6 +27,9 @@ jobs:
   openalex:
     runs-on: ubuntu-latest
     steps:
+      - name: Install dependencies
+        run: pip install requests
+        
       - name: Use API key
         env:
           MYSECRET=${{ secrets.MYSECRET }}
