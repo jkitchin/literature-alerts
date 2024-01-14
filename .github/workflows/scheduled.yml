@@ -13,7 +13,7 @@ jobs:
   build_artifact:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Create a file
         run: |
@@ -32,10 +32,12 @@ jobs:
         
       - name: Use API key
         env:
-          MYSECRET: ${{ secrets.MYSECRET }}
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |            
-            echo "My secret: $MYSECRET"
-             
+            python script.py
+            git add results.dat
+            git commit results.dat -m "adding new results to results.dat"
+            git push
           
 
         
