@@ -18,6 +18,8 @@ jobs:
       - name: Create a file
         run: |
           date >> results.dat
+          git config --global user.email "jkitchin@andrew.cmu.edu"
+          git config --global user.name "John Kitchin"
           git add results.dat
           git commit results.dat -m "adding to results.dat"
           git push
