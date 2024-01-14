@@ -32,7 +32,7 @@ jobs:
         
       - name: Use API key
         env:
-          MYSECRET=${{ secrets.MYSECRET }}
+          MYSECRET: ${{ secrets.MYSECRET }}
         run: |            
             echo "My secret: $MYSECRET"
              
