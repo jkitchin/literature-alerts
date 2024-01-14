@@ -22,5 +22,15 @@ jobs:
           git commit results.dat -m "adding to results.dat"
           git push
 
+  openalex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Use API key
+        env:
+          MYSECRET = ${{ secrets.MYSECRET }}
+        run: |            
+            echo "My secret: $MYSECRET"
+             
+          
 
         
