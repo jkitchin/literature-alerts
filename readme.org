@@ -2,14 +2,143 @@
 
 Eventually this will do something on a schedule to pull new alerts from openalex.org
 
+See results in [[./results.org]]
+
 But first:
 
-* TODO Figure out how to run an action on a schedule
+* Run an action on a schedule
 
-* TODO Figure out how to have an action create an artifact
+See [[./.github/workflows/scheduled.yml]]. Adapted from https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
+
+This runs every 15 min. That might be the smallest interval
+#+BEGIN_EXAMPLE
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+#+END_EXAMPLE
+
+
+* Have an action create an artifact
 
 probably a file, and maybe also a GH issue
 
-* TODO Figure out how to have an OpenAlex API key as a GH secret used in a script
+Go to https://github.com/jkitchin/literature-alerts/settings/actions and give actions read/write permissions at the bottom.
+
+You can commit results in an action. The downside of this is you have to pull before you can push again. That is probably ok
+
+#+BEGIN_EXAMPLE
+  build_artifact:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create a file
+        run: |
+          date >> results.dat
+          git config --global user.email "jkitchin@andrew.cmu.edu"
+          git config --global user.name "John Kitchin"
+          git add results.dat
+          git commit results.dat -m "adding to results.dat"
+          git push
+#+END_EXAMPLE
+
+
+* Use a GH secret to save the API key
+
+The api key is secret, and you add it to an environment like this. Then in the script.py load it from the environment.
+
+#+BEGIN_EXAMPLE
+  openalex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: pip install requests
+        
+      - name: Use API key
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: |            
+            python script.py
+            git add results.dat
+            git commit results.dat -m "adding new results to results.dat"
+            git push
+#+END_EXAMPLE
+
+
 
 * TODO write a Python script using OpenAlex to get new articles
+
+Locally I have a .env file (not part of the repository), and I load it here.
+
+#+BEGIN_SRC jupyter-python
+from dotenv import load_dotenv
+
+load_dotenv()
+#+END_SRC
+
+#+RESULTS:
+:RESULTS:
+True
+:END:
+
+This script gets new items from the last two weeks.
+
+#+BEGIN_SRC jupyter-python :tangle script.py :shebang #!/usr/bin/env python
+import os
+import requests
+import datetime
+from math import ceil
+
+API_KEY = os.environ['OPENALEX_API_KEY']
+
+today = datetime.date.today()
+week_ago = (today - datetime.timedelta(weeks=6)).strftime("%Y-%m-%d")
+
+url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A5003442464,from_created_date:{week_ago}&api_key={API_KEY}'
+
+data = requests.get(url).json()
+count = data['meta']['count']
+perpage = data['meta']['per_page']
+npages = ceil(count / perpage)
+
+def process_result(result):
+    authors = ', '.join([au['author']['display_name'] for au in result['authorships'] ])
+    return f'''** {result['title']}
+:PROPERTIES:
+:ID: {result['id']}
+:DOI: {result['doi']}
+:AUTHORS: {authors}
+:HOST: {result['primary_location']['source']['display_name']}    
+:END:
+
+'''
+
+# Process page 1
+s = ''
+for result in data['results']:
+    s += process_result(result)
+
+for i in range(1, npages):
+    purl = url + f'&page={i}'
+    data = requests.get(url).json()
+    for result in data['results']:
+        s += process_result(result)
+  
+    
+with open('results.org', 'a') as f:
+    f.write(s)
+
+print(s)    
+#+END_SRC
+
+#+RESULTS:
+:RESULTS:
+** Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set
+:PROPERTIES:
+:ID: https://openalex.org/W4389340622
+:DOI: https://doi.org/10.1021/acs.jcim.3c01226
+:AUTHORS: Aaron Garrison, Javier Heras-Domingo, John R. Kitchin, Gabriel Gomes, Zachary W. Ulissi, Samuel M. Blau
+:HOST: Journal of Chemical Information and Modeling    
+:END:
+:END:
+

@@ -35,8 +35,8 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
         run: |            
             python script.py
-            git add results.dat
-            git commit results.dat -m "adding new results to results.dat"
+            git add results.org
+            git commit results.org -m "adding new results to results.dat"
             git push
           
 
