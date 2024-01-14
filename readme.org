@@ -1,0 +1,15 @@
+#+title: Literature alerts
+
+Eventually this will do something on a schedule to pull new alerts from openalex.org
+
+But first:
+
+* TODO Figure out how to run an action on a schedule
+
+* TODO Figure out how to have an action create an artifact
+
+probably a file, and maybe also a GH issue
+
+* TODO Figure out how to have an OpenAlex API key as a GH secret used in a script
+
+* TODO write a Python script using OpenAlex to get new articles

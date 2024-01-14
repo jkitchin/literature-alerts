@@ -1,0 +1,10 @@
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  test_schedule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Every time
+        run: echo "This step was run at `date`"
