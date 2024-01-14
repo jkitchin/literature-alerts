@@ -38,6 +38,10 @@ jobs:
             git add results.org
             git commit results.org -m "adding new results to results.dat"
             git push
+
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}            
           
 
         
