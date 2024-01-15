@@ -14,7 +14,8 @@
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636146"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636146"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390636146    
+OpenAlex: https://openalex.org/W4390636146
+    
 Zhi-Jia Sun, J. Chen, Xiao‐Man Cao, Hao Ge, Daliang Liu, Qiong Wu, Xi‐Ming Song, Applied Surface Science. https://doi.org/10.1016/j.apsusc.2024.159331
     
 As promising electrode materials, hollow-structured metallic oxides/hydroxides have attracted extensive attention for their significantly enhanced catalyst and electrochemical performances. In practice, however, it is still challenging to construct well-dispersed hollow structures using facile and versatile template-free methods. And, as a result of the weak conductivity of most metallic oxides/hydroxides, it is a particularly effective means to integrate metallic oxides/hydroxides with carbon-based conductive substrates or introduce oxygen vacancies for further promoting reaction kinetics and achieving boosted electrochemical performance. Herein, a novel composite material consisting of oxygen-rich vacancy β-Ni(OH)2 coupled with oxidized multi-wall carbon nanotubes (Ov-Nβ/Cm) was synthesized using a one-step hydrothermal technique without the need for templates. The hierarchical hollow microsphere structure was achieved by utilizing oxidized multi-wall carbon nanotubes (MWCNTs) as an alternative to conventional surfactants or templates. The uniform distribution of multistage pores in the newly designed Ov-Nβ/Cm composite facilitates the transportation of electrolyte ions, thereby endowing it with outstanding electrochemical performance. A straightforward technique for producing high-quality Ni(OH)2-based electrode materials is presented in this investigation, along with fresh perspectives on the formation mechanism of hollow-structured composites. Developing MWCNT-based hollow nanostructured composites with oxygen vacancies-enriched will offer an essential novel avenue to exploit excellent electrode materials for supercapacitors and other energy storage systems.    
@@ -34,7 +35,8 @@ As promising electrode materials, hollow-structured metallic oxides/hydroxides h
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637294"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637294"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390637294    
+OpenAlex: https://openalex.org/W4390637294
+    
 Jiamin Wei, Jiali Lou, Wei-Wen Hu, Xiaokai Song, Haifeng Wang, Yang Yang, Yaqi Zhang, Zi-Ru Jiang, Bingbao Mei, Liangbiao Wang, Ting‐Hai Yang, Qing Wang, Xiaopeng Li, Small. https://doi.org/10.1002/smll.202308956
     
 Abstract The present study proposes a novel engineering concept for the customization of functionality and construction of superstructure to fabricate 2D monolayered N‐doped carbon superstructure electrocatalysts decorated with Co single atoms or Co 2 P nanoparticles derived from 2D bimetallic ZnCo‐ZIF superstructure precursors. The hierarchically porous carbon superstructure maximizes the exposure of accessible active sites, enhances electron/mass transport efficiency, and accelerates reaction kinetics simultaneously. Consequently, the Co single atoms embedded N‐doped carbon superstructure (Co‐NCS) exhibits remarkable catalytic activity toward oxygen reduction reaction, achieving a half‐wave potential of 0.886 V versus RHE. Additionally, the Co 2 P nanoparticles embedded N‐doped carbon superstructure (Co 2 P‐NCS) demonstrates high activity for both oxygen evolution reaction and hydrogen evolution reaction, delivering low overpotentials of 292 mV at 10 mA cm −2 and 193 mV at 10 mA cm −2 respectively. Impressively, when employed in an assembled rechargeable Zn‐air battery, the as‐prepared 2D carbon superstructure electrocatalysts exhibit exceptional performance with a peak power density of 219 mW cm −2 and a minimal charge/discharge voltage gap of only 1.16 V at 100 mA cm −2 . Moreover, the cell voltage required to drive an overall water‐splitting electrolyzer at a current density of 10 mA cm −2 is merely 1.69 V using these catalysts as electrodes.    
@@ -54,7 +56,8 @@ Abstract The present study proposes a novel engineering concept for the customiz
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637300"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637300"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390637300    
+OpenAlex: https://openalex.org/W4390637300
+    
 Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. https://doi.org/10.1002/smll.202310318
     
 Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal–air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen‐doped porous carbon hollow sphere (Fe x Co 1‐x /N‐C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP‐derived metal oxides and metal‐organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe‐N x /Co‐N x ) guarantees the Fe 0.2 Co 0.8 /N‐C catalyst exhibiting an excellent half‐wave potential ( E 1/2 ═ 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn–air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g −1 , peak power density of 159.08 mW cm −2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.    
@@ -74,7 +77,8 @@ Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen re
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640025"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640025"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640025    
+OpenAlex: https://openalex.org/W4390640025
+    
 Jingting Hou, Yi Sheng, Da Bi, Ningning Chen, Qingxue Lai, Yanyu Liang, Journal of Alloys and Compounds. https://doi.org/10.1016/j.jallcom.2024.173447
     
 The rational design of high-active, stable, and inexpensive bifunctional transition-metal-based electrocatalysts for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) is a crucial challenge to achieve efficient hydrogen production via overall water splitting. Herein, we fabricate core-shell heterostructure nanoparticles by electrodepositing ultrathin amorphous CoFe hydroxides on crystalline Mo-doped Ni3S2 with nickel foam as substrate (Mo-Ni3S2/CoFeOH/NF). The results of physical characterizations and electrochemical measurements show the unique Mo-Ni3S2/CoFeOH/NF heterostructure material contributes to optimized electron structure, low charge transfer resistance, and high electrochemical active surface area. Finally, the Mo-Ni3S2/CoFeOH/NF displays excellent performance to achieve 10 mA/cm2 with a low overpotential of 109 mV for HER and 246 mV for OER, and only needs 1.51 V for overall water splitting. This work provides a new perspective for interface engineering of superior electrocatalysts toward hydrogen production.    
@@ -94,7 +98,8 @@ The rational design of high-active, stable, and inexpensive bifunctional transit
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640029"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640029"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640029    
+OpenAlex: https://openalex.org/W4390640029
+    
 Yuqiu Wu, Hongqin Luo, Chao Li, Lihua Xiao, Mingliang Du, Hairen Wang, Jun‐e Qu, Journal of Electroanalytical Chemistry. https://doi.org/10.1016/j.jelechem.2024.118029
     
 Developing free-standing electrode based on cost-effective industrial substrate materials is a promising way for efficient water splitting applications. The common stainless steel (S S) consistingof catalytic active transition metal components (e.g. Ni,Fe, etc.) has the potential to be an ideal substrate to prepare free-standing electrodes. In this work, a acile hydrothermal oxidization treatment was proposed to oxidize three types of SS substrates (i.e. 304, 316L and 310S) to prep are efficient free-standing electrodes for water electrolysis. Compared with the 316L and 310S, the relatively low content of Mo and Cr in 304 SS make it easier to be oxidized by alkaline hydrogen peroxide to produce a well-confined doublelayer heterostructured catalytic film with Fe-rich microcrystals at the top and Nirich nanocrystals at the bottom. Consequently, the as-obtained 304-SSO27 sample exhibits low overpotentials of 136 mV and 285 mV at the current density of 10 mA·cm-2 towards hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), respectively. Moreover, the bifunctional 304-SS-O27 electrode displays a low cell voltage of 1.67 V to realize overall water splitting at 10 mA·cm-2. These results provide a convincing demonstration of fabricating cost-effective and frees-standing electrodes via a facile onestep hydrothermal oxidization for water splitting applications.    
@@ -114,7 +119,8 @@ Developing free-standing electrode based on cost-effective industrial substrate 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640397"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640397"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640397    
+OpenAlex: https://openalex.org/W4390640397
+    
 Miao Xie, Wentian Zheng, Meng Sun, Shijie You, Yanbiao Liu, Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123708
     
 Here, we demonstrate an integrated fluidic sequential electrochemical system for effective water decontamination. The system consists of a Ti mesh anode deposited with nanoscale IrO2 and a CNT filter functionalized with nanoconfined Fe2O3. By conducting anodic oxygen evolution reaction (OER) and 2e– oxygen reduction reaction (ORR) sequential electrolysis, our system enables sustainable O2 generation at the anode, followed by transformation of O2 into H2O2 at the cathode, which then led to the production of 1O2 in the presence of nanoconfined Fe2O3. No chemical inputs were needed nor side products occurred during the whole sequential electrochemical processes. The effectiveness of the system was evaluated using tetracycline as a model emerging contaminant. Recirculating at 3 mL min–1, the system exhibited negligible iron and iridium leaching (≤0.01 mg L–1) and high tetracycline degradation efficiency (≥95%). Such excellent efficacy can be maintained across a wide pH range and in complicated water matrices.    
@@ -134,7 +140,8 @@ Here, we demonstrate an integrated fluidic sequential electrochemical system for
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390645052"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390645052"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390645052    
+OpenAlex: https://openalex.org/W4390645052
+    
 Neelam Zaman, Naseem Iqbal, Tayyaba Nооr, Nadia Shahzad, Junkuo Gao, Fuel. https://doi.org/10.1016/j.fuel.2023.130813
     
 In this paper, an effective method for synthesizing three different catalysts Mo-MOF, MO/NPC, and MO-MS/NPC by solvothermal preparation and pyrolysis processes has been described. The structural and compositional characteristics of these catalysts have been thoroughly analyzed using SEM, XRD, XPS, FTIR, and TEM characterization techniques. It is noteworthy that MO-MS/NPC has proven to have remarkable electrocatalytic capabilities, exhibiting high current density i.e., 354.3 mA/cm2 and stability in methanol oxidation as well as superior electrocatalytic activity for oxygen reduction reactions Because of these qualities, MO-MS/NPC, MO/NPC, and Mo-MOF might be an attractive option as cathodic and anodic materials in direct methanol fuel cells (DMFCs). Their higher oxygen reduction abilities as cathode materials can boost the cathodic reaction's effectiveness and encourage the conversion of oxygen and protons into water, and also help methanol to oxidize into carbon dioxide at the anode, liberating electrons that can be used to produce electricity.    
@@ -154,7 +161,8 @@ In this paper, an effective method for synthesizing three different catalysts Mo
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390646239"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390646239"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390646239    
+OpenAlex: https://openalex.org/W4390646239
+    
 Pijush K. Gan, Arnab Pal, Syed S.H. Rizvi, Neetu Kumari, Manoranjan Kar, Kuntal Chatterjee, Materials Today Communications. https://doi.org/10.1016/j.mtcomm.2024.108063
     
 Meticulous tuning of nonprecious catalysts for overall water splitting is highly challenging but it is one of the most promising routes toward the future hydrogen economy. Here, we present a highly active, robust and earth abundant NiCoP electrocatalyst with a tuning capacity to excel in both oxygen and hydrogen evolution reactions. The composition of Ni and Co has been varied in a facile two-step method to produce coral-like NiCoP. The variant Ni0.25Co0.75 P has shown remarkable OER activity with overpotential as low as 240 mV at 10 mA cm-2 current density and Tafel slope of 68 mVdec-1 in alkaline medium. On the other hand, Ni0.75Co0.25P exhibited commendable HER performance with an overpotential of 120 mV and a Tafel slope of 123 mVdec-1 in an acid medium. Long-term durability and minimal loading of the catalyst ascertain the significance of the present catalyst. Moreover, our theoretical study finds that NiCoP provides a much higher electron density of d-states near the Fermi level compared to the individual metal phosphide and the low-index surface (100) of composite phosphide has a moderate level of desorption energy of oxygen and hydrogen compared to that of NiP2 & CoP corroborating the superiority of NiCoP in OER/HER performance.    
@@ -174,7 +182,8 @@ Meticulous tuning of nonprecious catalysts for overall water splitting is highly
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390646239"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390646239"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390646239    
+OpenAlex: https://openalex.org/W4390646239
+    
 Pijush K. Gan, Arnab Pal, Syed S.H. Rizvi, Neetu Kumari, Manoranjan Kar, Kuntal Chatterjee, Materials Today Communications. https://doi.org/10.1016/j.mtcomm.2024.108063
     
 Meticulous tuning of nonprecious catalysts for overall water splitting is highly challenging but it is one of the most promising routes toward the future hydrogen economy. Here, we present a highly active, robust and earth abundant NiCoP electrocatalyst with a tuning capacity to excel in both oxygen and hydrogen evolution reactions. The composition of Ni and Co has been varied in a facile two-step method to produce coral-like NiCoP. The variant Ni0.25Co0.75 P has shown remarkable OER activity with overpotential as low as 240 mV at 10 mA cm-2 current density and Tafel slope of 68 mVdec-1 in alkaline medium. On the other hand, Ni0.75Co0.25P exhibited commendable HER performance with an overpotential of 120 mV and a Tafel slope of 123 mVdec-1 in an acid medium. Long-term durability and minimal loading of the catalyst ascertain the significance of the present catalyst. Moreover, our theoretical study finds that NiCoP provides a much higher electron density of d-states near the Fermi level compared to the individual metal phosphide and the low-index surface (100) of composite phosphide has a moderate level of desorption energy of oxygen and hydrogen compared to that of NiP2 & CoP corroborating the superiority of NiCoP in OER/HER performance.    
@@ -194,7 +203,8 @@ Meticulous tuning of nonprecious catalysts for overall water splitting is highly
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640023"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640023"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640023    
+OpenAlex: https://openalex.org/W4390640023
+    
 Yujing Ren, Jinyong Wang, Mingyue Zhang, Yuqing Wang, Yuan Chen, Dong Ha Kim, Yan Liu, Zhiqun Lin, Small. https://doi.org/10.1002/smll.202308213
     
 Abstract Single‐atom catalysts (SACs) hold immense promise in facilitating the rational use of metal resources and achieving atomic economy due to their exceptional atom‐utilization efficiency and distinct characteristics. Despite the growing interest in SACs, only limited reviews have holistically summarized their advancements centering on performance metrics. In this review, first, a thorough overview on the research progress in SACs is presented from a performance perspective and the strategies, advancements, and intriguing approaches employed to enhance the critical attributes in SACs are discussed. Subsequently, a comprehensive summary and critical analysis of the electrochemical applications of SACs are provided, with a particular focus on their efficacy in the oxygen reduction reaction , oxygen evolution reaction, hydrogen evolution reaction , CO 2 reduction reaction, and N 2 reduction reaction . Finally, the outline future research directions on SACs by concentrating on performance‐driven investigation, where potential areas for improvement are identified and promising avenues for further study are highlighted, addressing challenges to unlock the full potential of SACs as high‐performance catalysts.    
@@ -214,7 +224,8 @@ Abstract Single‐atom catalysts (SACs) hold immense promise in facilitating the
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640397"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640397"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640397    
+OpenAlex: https://openalex.org/W4390640397
+    
 Miao Xie, Wentian Zheng, Meng Sun, Shijie You, Yanbiao Liu, Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123708
     
 Here, we demonstrate an integrated fluidic sequential electrochemical system for effective water decontamination. The system consists of a Ti mesh anode deposited with nanoscale IrO2 and a CNT filter functionalized with nanoconfined Fe2O3. By conducting anodic oxygen evolution reaction (OER) and 2e– oxygen reduction reaction (ORR) sequential electrolysis, our system enables sustainable O2 generation at the anode, followed by transformation of O2 into H2O2 at the cathode, which then led to the production of 1O2 in the presence of nanoconfined Fe2O3. No chemical inputs were needed nor side products occurred during the whole sequential electrochemical processes. The effectiveness of the system was evaluated using tetracycline as a model emerging contaminant. Recirculating at 3 mL min–1, the system exhibited negligible iron and iridium leaching (≤0.01 mg L–1) and high tetracycline degradation efficiency (≥95%). Such excellent efficacy can be maintained across a wide pH range and in complicated water matrices.    
@@ -234,7 +245,8 @@ Here, we demonstrate an integrated fluidic sequential electrochemical system for
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640025"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640025"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640025    
+OpenAlex: https://openalex.org/W4390640025
+    
 Jingting Hou, Yi Sheng, Da Bi, Ningning Chen, Qingxue Lai, Yanyu Liang, Journal of Alloys and Compounds. https://doi.org/10.1016/j.jallcom.2024.173447
     
 The rational design of high-active, stable, and inexpensive bifunctional transition-metal-based electrocatalysts for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) is a crucial challenge to achieve efficient hydrogen production via overall water splitting. Herein, we fabricate core-shell heterostructure nanoparticles by electrodepositing ultrathin amorphous CoFe hydroxides on crystalline Mo-doped Ni3S2 with nickel foam as substrate (Mo-Ni3S2/CoFeOH/NF). The results of physical characterizations and electrochemical measurements show the unique Mo-Ni3S2/CoFeOH/NF heterostructure material contributes to optimized electron structure, low charge transfer resistance, and high electrochemical active surface area. Finally, the Mo-Ni3S2/CoFeOH/NF displays excellent performance to achieve 10 mA/cm2 with a low overpotential of 109 mV for HER and 246 mV for OER, and only needs 1.51 V for overall water splitting. This work provides a new perspective for interface engineering of superior electrocatalysts toward hydrogen production.    
@@ -254,7 +266,8 @@ The rational design of high-active, stable, and inexpensive bifunctional transit
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637294"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637294"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390637294    
+OpenAlex: https://openalex.org/W4390637294
+    
 Jiamin Wei, Jiali Lou, Wei-Wen Hu, Xiaokai Song, Haifeng Wang, Yang Yang, Yaqi Zhang, Zi-Ru Jiang, Bingbao Mei, Liangbiao Wang, Ting‐Hai Yang, Qing Wang, Xiaopeng Li, Small. https://doi.org/10.1002/smll.202308956
     
 Abstract The present study proposes a novel engineering concept for the customization of functionality and construction of superstructure to fabricate 2D monolayered N‐doped carbon superstructure electrocatalysts decorated with Co single atoms or Co 2 P nanoparticles derived from 2D bimetallic ZnCo‐ZIF superstructure precursors. The hierarchically porous carbon superstructure maximizes the exposure of accessible active sites, enhances electron/mass transport efficiency, and accelerates reaction kinetics simultaneously. Consequently, the Co single atoms embedded N‐doped carbon superstructure (Co‐NCS) exhibits remarkable catalytic activity toward oxygen reduction reaction, achieving a half‐wave potential of 0.886 V versus RHE. Additionally, the Co 2 P nanoparticles embedded N‐doped carbon superstructure (Co 2 P‐NCS) demonstrates high activity for both oxygen evolution reaction and hydrogen evolution reaction, delivering low overpotentials of 292 mV at 10 mA cm −2 and 193 mV at 10 mA cm −2 respectively. Impressively, when employed in an assembled rechargeable Zn‐air battery, the as‐prepared 2D carbon superstructure electrocatalysts exhibit exceptional performance with a peak power density of 219 mW cm −2 and a minimal charge/discharge voltage gap of only 1.16 V at 100 mA cm −2 . Moreover, the cell voltage required to drive an overall water‐splitting electrolyzer at a current density of 10 mA cm −2 is merely 1.69 V using these catalysts as electrodes.    
@@ -274,7 +287,8 @@ Abstract The present study proposes a novel engineering concept for the customiz
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640029"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640029"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390640029    
+OpenAlex: https://openalex.org/W4390640029
+    
 Yuqiu Wu, Hongqin Luo, Chao Li, Lihua Xiao, Mingliang Du, Hairen Wang, Jun‐e Qu, Journal of Electroanalytical Chemistry. https://doi.org/10.1016/j.jelechem.2024.118029
     
 Developing free-standing electrode based on cost-effective industrial substrate materials is a promising way for efficient water splitting applications. The common stainless steel (S S) consistingof catalytic active transition metal components (e.g. Ni,Fe, etc.) has the potential to be an ideal substrate to prepare free-standing electrodes. In this work, a acile hydrothermal oxidization treatment was proposed to oxidize three types of SS substrates (i.e. 304, 316L and 310S) to prep are efficient free-standing electrodes for water electrolysis. Compared with the 316L and 310S, the relatively low content of Mo and Cr in 304 SS make it easier to be oxidized by alkaline hydrogen peroxide to produce a well-confined doublelayer heterostructured catalytic film with Fe-rich microcrystals at the top and Nirich nanocrystals at the bottom. Consequently, the as-obtained 304-SSO27 sample exhibits low overpotentials of 136 mV and 285 mV at the current density of 10 mA·cm-2 towards hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), respectively. Moreover, the bifunctional 304-SS-O27 electrode displays a low cell voltage of 1.67 V to realize overall water splitting at 10 mA·cm-2. These results provide a convincing demonstration of fabricating cost-effective and frees-standing electrodes via a facile onestep hydrothermal oxidization for water splitting applications.    
@@ -294,7 +308,8 @@ Developing free-standing electrode based on cost-effective industrial substrate 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637300"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637300"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390637300    
+OpenAlex: https://openalex.org/W4390637300
+    
 Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. https://doi.org/10.1002/smll.202310318
     
 Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal–air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen‐doped porous carbon hollow sphere (Fe x Co 1‐x /N‐C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP‐derived metal oxides and metal‐organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe‐N x /Co‐N x ) guarantees the Fe 0.2 Co 0.8 /N‐C catalyst exhibiting an excellent half‐wave potential ( E 1/2 ═ 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn–air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g −1 , peak power density of 159.08 mW cm −2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.    
@@ -314,7 +329,8 @@ Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen re
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390646463"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390646463"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390646463    
+OpenAlex: https://openalex.org/W4390646463
+    
 Arun Mahesh, Gaurav Kumar, I. N. Jawahar, Vasudevanpillai Biju, Chemical Physics Impact. https://doi.org/10.1016/j.chphi.2023.100456
     
 Nanocrystalline zinc oxide (ZnO) with crystallite size in the range 85 -89 nm are prepared by the thermal decomposition of carbonate precursor under three different atmospheres, viz., in air ambiance, under nitrogen flow, and in vacuum. O 1s X-ray photoelectron spectra indicate that the atomic percentage of oxygen vacancies is more in the sample prepared under vacuum while adsorbed oxygen is more in the sample prepared in air ambience. Optical band gaps for the samples are in the range 3.17-3.20 eV. Room temperature photoluminescence spectra of the samples reveal band edge emission in the UV range (⁓3.18 eV) and broad defect mediated visible emission (⁓1.60 – 2.70 eV). Emission profile of excitonic emission at 80K can be resolved to two free excitonic peaks at 3.42 eV (FX-A) and 3.46 (FX-B), donor bound excitonic peaks (D0X), peak due to transition of free electrons to acceptor levels (FA) donor-acceptor pair (DAP) emission and phonon replicas. D0X peak at ⁓3.35 eV has contribution from oxygen vacancies (Vo) and Zn interstitials (Zni). The most intense peak in the case of all the three samples is the FA peak at ⁓ 3.31 eV which has contribution from zinc vacancies (VZn). Temperature dependent variation of the dominant D0X and FA peaks in the range 80 – 400K are analyzed using modified Varshni model which considers contributions from electron-phonon scattering and lattice thermal expansion. Defect dependent emission intensity is maximum at 80K due to freeze-out of phonons and decreases with increase in temperature. The evolution of the colour of luminescence with temperature is studied using CIE plot method.    
@@ -334,7 +350,8 @@ Nanocrystalline zinc oxide (ZnO) with crystallite size in the range 85 -89 nm ar
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390639887"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390639887"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390639887    
+OpenAlex: https://openalex.org/W4390639887
+    
 Chayene Gonçalves Anchieta, Bruno A. B. Francisco, Julia P. O. Júlio, Pavel Trtik, Anne Bonnin, Gustavo Doubek, Darío Ferreira Sánchez, Small Methods. https://doi.org/10.1002/smtd.202301749
     
 Abstract Li‐air batteries attract significant attention due to their highest theoretical energy density among all existing energy storage technologies. Currently, challenges related to extending lifetime and long‐term stability limit their practical application. To overcome these issues and enhance the total capacity of Li‐air batteries, this study introduces an innovative approach with NiO/ZrO 2 catalysts. Operando advanced chemical imaging with micrometer spatial resolution unveils that NiO/ZrO 2 catalysts substantially change the kinetics of crystalline lithium hydroxide (LiOH) formation and facilitate its rapid decomposition with heterogeneous distribution. Moreover, ex situ combined neutron and X‐ray computed tomography (CT) analysis, provide evidence of distinct lithium phases homogeneously distributed in the presence of NiO/ZrO 2 . These findings underscore the material's superior physico‐chemical and electronic properties, with more efficient oxygen diffusion and indications of lower obstruction to its active sites, avoiding clogging in the active electrode, a common cause of capacity loss. Electrochemical tests conducted at high current density demonstrated a significant kinetic enhancement of the oxygen reduction and evolution reactions, resulting in improved charge and discharge processes with low overpotential. This pioneering approach using NiO/ZrO 2 catalysts represents a step toward on developing the full potential of Li‐air batteries as high‐energy‐density energy storage systems.    
@@ -354,7 +371,8 @@ Abstract Li‐air batteries attract significant attention due to their highest t
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390646461"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390646461"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390646461    
+OpenAlex: https://openalex.org/W4390646461
+    
 Xiaoyuan Lian, Zhong Zheng, Ming Zhu, Xuejin Gao, Computers & Industrial Engineering. https://doi.org/10.1016/j.cie.2024.109890
     
 This paper deals with the steel plant proactive scheduling problem with unrelated parallel machines and time uncertainty to enhance the rationality of machine assignment and processing path and improve the schedule robustness and guarantee capability of energy. First, a scheduling model is formulated with the objectives of average process time, matching degree and oxygen consumption fluctuation. Then, an improved preference-based NSGA-II is designed to solve the problem. The algorithm introduces the preference information into the optimization process and designs an individual sorting method based on the technique for order preference by similarity to ideal solution (TOPSIS) to guide the evolution direction. Besides, to improve the local search ability, variable neighborhood search is incorporated to generate new solutions with high quality. Computational experiments prove that the algorithm can effectively address the proactive scheduling problem. The sensitivity analysis and results of different scheduling models verify the robustness and superiority in machine matching and energy synergy of the model.    
@@ -374,7 +392,8 @@ This paper deals with the steel plant proactive scheduling problem with unrelate
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390645486"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390645486"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390645486    
+OpenAlex: https://openalex.org/W4390645486
+    
 Hong Wang, Zhongming Wang, Zizhong Zhang, Yaming Fan, Xianzhi Fu, Wenxin Dai, Fuel. https://doi.org/10.1016/j.fuel.2024.130865
     
 A prepared p-type PdO/n-type TiO2 junction was prepared as the catalyst for photocatalytic hydrogen evolution from formic acid (FA). It was found that PdO/TiO2 exhibited 1298-fold higher activity than TiO2 under ultraviolet and visible light irradiation at room temperature. Multiple characterization techniques were utilized to demonstrate that doping PdO into TiO2 can regulate the Fermi level of the sample and the adsorption behavior of FA, resulting in different electron transfer behavior between FA and PdO/TiO2 compared to that between FA and TiO2. Oxygen vacancies acted as electron donors to deliver photogenerated electrons from TiO2 to the adsorbed bidentate FA, which increased the electron density on the O atom of FA and led to the formation of activated monodentate FA. This activated FA was more easily oxidized by the holes in PdO generated by visible light, leading to the production of H2 and CO2. The mode of adsorption associated with the Pd2+ site is the key factor in driving this reaction and leading to the reversible electron transfer phenomenon. This study provides a new promising route for the design of photocatalysts for self-decomposition reactions.    
@@ -394,7 +413,8 @@ A prepared p-type PdO/n-type TiO2 junction was prepared as the catalyst for phot
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636005"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636005"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390636005    
+OpenAlex: https://openalex.org/W4390636005
+    
 Hao Zhang, Xueying Liu, Chao Tang, Shouzheng Lv, Shaoling Zhang, Juyou Wu, Peng Wang, Plant Physiology and Biochemistry. https://doi.org/10.1016/j.plaphy.2024.108342
     
 Respiratory burst oxidase homolog (Rboh) family genes play crucial functions in development and growth. However, comprehensive and systematic investigation of Rboh family members in Rosaceae and their specific functions during pear pollen development are still limited. In the study, 63 Rboh genes were identified from eight Rosaceae genomes (Malus domestica, Pyrus bretschneideri, Pyrus communis, Prunus persica, Rubus occidentalis, Fragaria vesca, Prunus mume and Prunus avium) and divided into seven main subfamilies (I-VII) according to phylogenetic and structural features. Different modes of gene duplication led to the expansion of Rboh family, with purifying selection playing a vital role in the evolution of Rboh genes. In addition, RNA sequencing and qRT-PCR results indicated that PbRbohH and PbRbohJ were specifically high-expressed in pear pollen. Subsequently, subcellular localization revealed that PbRbohH/J distributed at the plasma membrane. Furthermore, by pharmacological analysis and antisense oligodeoxynucleotide assay, PbRbohH/J were demonstrated to mediate the formation of reactive oxygen species (ROS) to manage pollen tube growth. In conclusion, our results provide useful insights into the functions, expression patterns, evolutionary history of the Rboh genes in pear and other Rosaceae species.    

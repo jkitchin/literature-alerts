@@ -61,7 +61,8 @@ def process_result(result):
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "{result['id']}"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "{result['id']}"))][Get cited by]]
 
-OpenAlex: {result['id']}    
+OpenAlex: {result['id']}
+    
 {authors}, {host}. {result['doi']}
     
 {abstract}    
@@ -108,6 +109,7 @@ RSS_ITEMS = []
 
 for topic in queries['queries']:
     for _filter in topic['filter']:
+        print(f'Running {_filter}')
         url = (API + urllib.parse.quote(_filter)
                + f',from_created_date:{day_ago}&api_key={API_KEY}')
 
@@ -116,6 +118,8 @@ for topic in queries['queries']:
         count = data['meta']['count']
         perpage = data['meta']['per_page']
         npages = ceil(count / perpage)
+
+        print(f"  Found {len(data['results'])} results")
         
         for result in data['results']:
             s += process_result(result)

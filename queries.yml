@@ -12,3 +12,4 @@ queries:
     filter:
       # Electrochemical reduction of carbon dioxide"
       - concepts.id:https://openalex.org/C24596552
+      - title-and-abstract.search:carbon dioxide reduction
