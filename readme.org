@@ -17,6 +17,8 @@ How do you use this?
 3. Clone the repo and open   [[./results.org]]  in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical.
 
 
+Something not working? Feature requests? Post an issue at https://github.com/jkitchin/literature-alerts/issues.
+
 * Development notes
 
 ** Run an action on a schedule
