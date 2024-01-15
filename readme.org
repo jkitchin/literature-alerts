@@ -1,8 +1,8 @@
-#+title: Literature alerts
+#+title: Literature alerts with OpenAlex
 #+author: John Kitchin
 #+date: [2024-01-15 Mon]
 
-This is a project to use https://openalex.org to create literature alerts.
+This is a project to use https://openalex.org to create literature alerts. It creates an RSS feed and a results file with recently created entries. It also creates a GitHUB issue assigned to me, which notifies me when new entries are added.
 
 You specify queries in this yaml file: [[./queries.yml]]
 
@@ -10,18 +10,32 @@ This [[./script.py]] is run on a schedule set by [[./.github/workflows/scheduled
 
 The results are written to  [[./results.org]] and it generates an RSS feed at https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml
 
-How do you use this?
+How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
 
-1. In your browser go to https://github.com/jkitchin/literature-alerts/blob/main/results.org and see if you want to do anything with the results. They get replaced every time the script runs. Maybe one day I will explore keeping version, or writing to time-stamped files.
-2. Subscribe to the rss feed and consume it as you see fit.
-3. Clone the repo and open   [[./results.org]]  in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical.
+1. You could probably subscribe to the repo and get notified of updates.
+2. In your browser go to https://github.com/jkitchin/literature-alerts/blob/main/results.org and see if you want to do anything with the results. They get replaced every time the script runs. Maybe one day I will explore keeping version, or writing to time-stamped files.
+3. Subscribe to the rss feed and consume it as you see fit.
+4. Clone the repo and open   [[./results.org]]  in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical.
 
 
 Something not working? Feature requests? Post an issue at https://github.com/jkitchin/literature-alerts/issues.
 
+
+* How does it work?
+
+I use GitHUB Actions to run [[./script.py]] on a schedule. This script iterates through [[./queries.yml]] to construct URLs to query https://openalex.org. I use ~from_created_date~ in the filter which requires an OpenAlex premium API key. See https://openalex.org/pricing. OpenAlex gave me a premium API key for academic research. Thanks for that!
+
+The API key is stored as a GitHUB secret so it is accessible to the Action script [[./.github/workflows/scheduled.yml]], but secure. This usually works, but apparently scheduled workflows are not always run on time (https://upptime.js.org/blog/2021/01/22/github-actions-schedule-not-working/). TBD if that is an issue. You can manually trigger the workflow at https://github.com/jkitchin/literature-alerts/actions/workflows/scheduled.yml.
+
+The script generates some files, and I commit them to the repository so it is easy to access them. I might consider an alternative approach based on https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts
+
+If you want to do this yourself, you will need an OpenAlex premium API key. See https://openalex.org/pricing. 
+
+
 * Development notes
 
-** Run an action on a schedule
+** DONE Run an action on a schedule
+CLOSED: [2024-01-15 Mon 11:20]
 
 See [[./.github/workflows/scheduled.yml]]. Adapted from https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
 
@@ -33,7 +47,8 @@ on:
 #+END_EXAMPLE
 
 
-** Have an action create an artifact
+** DONE Have an action create an artifact
+CLOSED: [2024-01-15 Mon 11:20]
 
 probably a file, and maybe also a GH issue
 
@@ -58,7 +73,8 @@ You can commit results in an action. The downside of this is you have to pull be
 #+END_EXAMPLE
 
 
-** Use a GH secret to save the API key
+** DONE Use a GH secret to save the API key
+CLOSED: [2024-01-15 Mon 11:20]
 
 The api key is secret, and you add it to an environment like this. Then in the script.py load it from the environment.
 
@@ -81,12 +97,14 @@ The api key is secret, and you add it to an environment like this. Then in the s
 
 
 
-** write a Python script using OpenAlex to get new articles
+** DONE write a Python script using OpenAlex to get new articles
+CLOSED: [2024-01-15 Mon 11:20]
 
 See [[./script.py]]
 
 
-** Create a new issue when new things are found
+** DONE Create a new issue when new things are found
+CLOSED: [2024-01-15 Mon 11:20]
 
 This would alert you that there is something to do.
 
@@ -123,7 +141,12 @@ In emacs you can now set up elfeed:
 
 This works!
 
-** Separate the script logic
+*** TODO how to update the feed?
+
+Right now the feed is replaced each time you run it. Should there be some logic to add to the feed, and push older things off? I never know how many entries there will be so, I can't really have a fixed length. Maybe it is ok to only get the current entries. The RSS reader should be able to handle this. The only downside is maybe you miss a week if you don't check.
+
+** DONE Separate the script logic
+CLOSED: [2024-01-15 Mon 11:20]
 
 There should be some simple yaml file maybe of queries to run, one line per query. The script could run and write results to some label?
 
@@ -156,7 +179,7 @@ running title-and-abstract.search:oxygen%20evolution, saving results to water sp
 running author.id:https%3A%2F%2Fopenalex.org%2FA5003442464, saving results to authors.xml
 :END:
 
-Should these be written to separate feeds?
+*** TODO Should these be written to separate feeds?
 
 ** TODO Advanced queries
 
@@ -171,7 +194,8 @@ Maybe this is just getting the paper, checking the citations/related, and seeing
 
 Eventually I want to use sentence_transformers for similarity checks.
 
-** What are the best formats?
+** DONE What are the best formats?
+CLOSED: [2024-01-15 Mon 11:20]
 
 - [X] RSS great for consumption in elfeed
 - [X] org great for consumption in Emacs
