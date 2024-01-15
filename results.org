@@ -420,3 +420,129 @@ Hao Zhang, Xueying Liu, Chao Tang, Shouzheng Lv, Shaoling Zhang, Juyou Wu, Peng 
 Respiratory burst oxidase homolog (Rboh) family genes play crucial functions in development and growth. However, comprehensive and systematic investigation of Rboh family members in Rosaceae and their specific functions during pear pollen development are still limited. In the study, 63 Rboh genes were identified from eight Rosaceae genomes (Malus domestica, Pyrus bretschneideri, Pyrus communis, Prunus persica, Rubus occidentalis, Fragaria vesca, Prunus mume and Prunus avium) and divided into seven main subfamilies (I-VII) according to phylogenetic and structural features. Different modes of gene duplication led to the expansion of Rboh family, with purifying selection playing a vital role in the evolution of Rboh genes. In addition, RNA sequencing and qRT-PCR results indicated that PbRbohH and PbRbohJ were specifically high-expressed in pear pollen. Subsequently, subcellular localization revealed that PbRbohH/J distributed at the plasma membrane. Furthermore, by pharmacological analysis and antisense oligodeoxynucleotide assay, PbRbohH/J were demonstrated to mediate the formation of reactive oxygen species (ROS) to manage pollen tube growth. In conclusion, our results provide useful insights into the functions, expression patterns, evolutionary history of the Rboh genes in pear and other Rosaceae species.    
 
     
+** [CO2RR] Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction
+:PROPERTIES:
+:ID: https://openalex.org/W4390640110
+:DOI: https://doi.org/10.1016/j.apsusc.2023.159243
+:AUTHORS: Youming Dong, Xingcheng Ma, Zhaoyong Jin, Xin Xu, Tianyi Xu, Dantong Zhang, Xiaoqiang Cui
+:HOST: Applied Surface Science
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2023.159243")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390640110"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640110"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640110"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390640110
+    
+Youming Dong, Xingcheng Ma, Zhaoyong Jin, Xin Xu, Tianyi Xu, Dantong Zhang, Xiaoqiang Cui, Applied Surface Science. https://doi.org/10.1016/j.apsusc.2023.159243
+    
+Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction reaction (ECO2RR). However, the mechanism behind the formation of different final products from Cu2O nanostructures remains a challenge. In this study, we combine theoretical and experimental approaches to demonstrate that the full-exposed Cu sites in Cu2O (1 0 0) microcubes contribute to superior C2H4 selectivity compared to other microstructures such as Cu2O (1 1 1), (1 1 0), and (3 1 1) facets. Density functional theoretical (DFT) calculations reveal that the stronger orbital splitting between Cu 3d and O 2p orbital of Cu2O (1 0 0) facet facilitates the formation of neighboring and low valence state Cu active site, thereby enhancing *CO adsorption and C2H4 formation. These DFT results are supported by the synthesis of four kinds of Cu2O microparticles (MPs) with different exposed facets, where cubic-Cu2O with the (1 0 0) facet exhibits the highest Faradaic efficiency (61.3 %). This study has significant implications for the structural design and mechanism analysis of innovative catalysts used in ECO2RR.    
+
+    
+** [CO2RR] Multi-objective genetic algorithm optimization of energy efficiency and biomass concentration of Synechococcus HS-9 cultivation for third-generation biodiesel feedstock
+:PROPERTIES:
+:ID: https://openalex.org/W4390637025
+:DOI: https://doi.org/10.1016/j.cscee.2024.100614
+:AUTHORS: Arif Rahman, Kania Dyah Nastiti, Nining Betawati Prihantini, M.A.M. Oktaufik, Surat Indrijarso, Alfred Kampira Levison, Ridho Irwansyah, Nasruddin Nasruddin
+:HOST: Case Studies in Chemical and Environmental Engineering
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cscee.2024.100614")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637025"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637025"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637025"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390637025
+    
+Arif Rahman, Kania Dyah Nastiti, Nining Betawati Prihantini, M.A.M. Oktaufik, Surat Indrijarso, Alfred Kampira Levison, Ridho Irwansyah, Nasruddin Nasruddin, Case Studies in Chemical and Environmental Engineering. https://doi.org/10.1016/j.cscee.2024.100614
+    
+Microalgae is a sustainable biological resource since it can be used in biodiesel production, pharmaceutical development, nutritional supplements, carbon dioxide sequestration, and wastewater remediation. Due to its high lipid content and low carbon dioxide emissions, microalgae-derived biodiesel can replace fossil fuels. Microalgae biomass production involves cultivation, harvesting, and drying. To develop microalgae and produce high-quality biomass, culture procedures must be optimized. Microalgae cultivation is affected by a range of physical and chemical parameters, including light intensity (I), temperature (T), carbon dioxide (CO2), pH, dissolved oxygen (DO), and oxidation reduction potential (ORP). The objective of this study is to examine the impact of physico-chemical factors on the cultivation process of Synechococcus HS-9 in order to generate dry biomass. ANN and multi-objective genetic algorithms will also be used to optimize cultivation. The five main procedures of this study are: 1) preparation of the cultivation medium; 2) Synechococcus HS-9 inoculum and utilization of a photobioreactor; 3) inoculation; 4) cultivation and physical-chemical parameter data collection; and 5) prediction and optimization. The physico-chemical properties of Synechococcus HS-9 were measured during cultivation. The average values of these parameters were found to be 439 to 325 7 μmol m−2s−1 for light conditions and 190–200 μmol m−2s−1 for dark conditions. During cultivation, T ranged from 29 to 32 °C and CO2 from 82 to 84 ppm. Most pH levels are between 8 and 7.5. The dissolved oxygen (DO) concentration drops from 15 to 3 mg/l. The ORP also fluctuates, dropping from 170 mV to 155 mV and then rising to 180 mV. Based on multi-objective optimization, the optimal values for energy efficiency (ղ) and biomass concentration (C) are 0.043 % and 4.61 × 10−5 mg/ml, respectively. The optimal condition is achieved when the light intensity (I): 254.7 μmol m−2s−1, temperature (T): 29.7 °C, CO2 concentration: 83.4 ppm, pH: 8.6, dissolved oxygen (DO): 6.0 mg/l, and ORP: 149.1 mV.    
+
+    
+** [CO2RR] Sulfide-based Mo-MOF derived bifunctional electrocatalysts for direct methanol fuel cells
+:PROPERTIES:
+:ID: https://openalex.org/W4390645052
+:DOI: https://doi.org/10.1016/j.fuel.2023.130813
+:AUTHORS: Neelam Zaman, Naseem Iqbal, Tayyaba Nооr, Nadia Shahzad, Junkuo Gao
+:HOST: Fuel
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2023.130813")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390645052"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390645052"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390645052"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390645052
+    
+Neelam Zaman, Naseem Iqbal, Tayyaba Nооr, Nadia Shahzad, Junkuo Gao, Fuel. https://doi.org/10.1016/j.fuel.2023.130813
+    
+In this paper, an effective method for synthesizing three different catalysts Mo-MOF, MO/NPC, and MO-MS/NPC by solvothermal preparation and pyrolysis processes has been described. The structural and compositional characteristics of these catalysts have been thoroughly analyzed using SEM, XRD, XPS, FTIR, and TEM characterization techniques. It is noteworthy that MO-MS/NPC has proven to have remarkable electrocatalytic capabilities, exhibiting high current density i.e., 354.3 mA/cm2 and stability in methanol oxidation as well as superior electrocatalytic activity for oxygen reduction reactions Because of these qualities, MO-MS/NPC, MO/NPC, and Mo-MOF might be an attractive option as cathodic and anodic materials in direct methanol fuel cells (DMFCs). Their higher oxygen reduction abilities as cathode materials can boost the cathodic reaction's effectiveness and encourage the conversion of oxygen and protons into water, and also help methanol to oxidize into carbon dioxide at the anode, liberating electrons that can be used to produce electricity.    
+
+    
+** [CO2RR] Simulating and predicting the development trends of the water–energy–food–ecology system in Henan Province, China
+:PROPERTIES:
+:ID: https://openalex.org/W4390640919
+:DOI: https://doi.org/10.1016/j.ecolind.2023.111513
+:AUTHORS: Minhua Ling, Tianxin Qi, Wei Li, Lili Yu, Qinyuan Xia
+:HOST: Ecological Indicators
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ecolind.2023.111513")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390640919"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640919"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640919"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390640919
+    
+Minhua Ling, Tianxin Qi, Wei Li, Lili Yu, Qinyuan Xia, Ecological Indicators. https://doi.org/10.1016/j.ecolind.2023.111513
+    
+The intricate interplay among water, energy, food, and ecology underscores the paramount importance of investigating water–energy–food–ecology (WEFE) systems to foster regional sustainable development. In this study, a dynamic simulation model for the WEFE system was formulated using system dynamics, probing alterations in resource supply, demand dynamics, and ecosystem responses to resource shifts. Utilizing Henan Province as a case study and factoring in resource scarcity and environmental pollution, five scenarios were crafted to forecast WEFE system developmental trajectories from 2005 to 2035. The findings revealed the following key insights: (1) Within each subsystem, the food supply–demand balance ratio maintained a robust level of approximately 4.0. Conversely, the water and energy supply–demand balance ratio remained below 1.0 throughout the study period, indicating a worsening trend in the annual misalignment between supply and demand. Carbon dioxide (CO2) emissions are projected to surge by 103%, posing challenges for future CO2 emission reduction efforts. (2) Among the various scenarios, the Green Development (GD) scenario emerged as pivotal for fostering a coordinated development of the WEFE system. Implementation of the GD scenario showcased a notable 38.1% improvement in the resource supply–demand ratio and a 26% reduction in CO2 emissions. (3) Addressing ecosystem feedback, the reduction of carbon emissions emerges as a focal point for future ecological environment enhancement initiatives in Henan Province. Strategic emphasis should be placed on adjusting energy consumption and its structure to propel the healthy development of the ecological environment. This study serves as a guide for managing regional WEFE systems effectively.    
+
+    
+** [CO2RR] A probe into acid deposition mitigation path in China over the last four decades and beyond
+:PROPERTIES:
+:ID: https://openalex.org/W4390639502
+:DOI: https://doi.org/10.1093/nsr/nwae007
+:AUTHORS: Qian Yu, Xiaodong Ge, Haotian Zheng, Jia Xing, Lei Duan, Dongwei Lv, Dian Ding, Zhaoxin Dong, Yi Sun, Posch Maximilian, Di Xie, Yu Zhao, Bin Zhao, Shuxiao Wang, Jan Mulder, Thorjørn Larssen, Jiming Hao
+:HOST: National Science Review
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/nsr/nwae007")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390639502"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390639502"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390639502"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390639502
+    
+Qian Yu, Xiaodong Ge, Haotian Zheng, Jia Xing, Lei Duan, Dongwei Lv, Dian Ding, Zhaoxin Dong, Yi Sun, Posch Maximilian, Di Xie, Yu Zhao, Bin Zhao, Shuxiao Wang, Jan Mulder, Thorjørn Larssen, Jiming Hao, National Science Review. https://doi.org/10.1093/nsr/nwae007
+    
+Abstract China currently has the globally highest acid deposition, yet research on its status, impacts, causes, and controls is lacking. Here, we compiled data and calculated critical loads regarding acid deposition. The results showed that the abatement measures in China have achieved a sharp decline in the emissions of acidifying pollutants and a continuous recovery of precipitation pH, despite the drastic growth of the economy and energy consumption. However, the risk of ecological acidification and eutrophication showed no significant decrease. With similar emission reductions, the decline in areas at risk of acidification in China (7.0%) lags behind Europe (20%) or the USA (15%). This was because, unlike Europe and the USA, China's abatement strategies primarily target air quality improvement rather than mitigating ecological impacts. Given that the area with the risk of eutrophication induced by nitrogen deposition remained at 13% of the country even under the scenario of achieving the dual targets of air quality and carbon dioxide mitigation in 2035, we explored an enhanced ammonia abatement pathway. With a further 27% reduction in ammonia by 2035, China could largely eliminate the impacts of acid deposition. This research serves as a valuable reference for China's future acid deposition control and for other nations facing similar challenge.    
+
+    
+** [CO2RR] Promoting carbon neutrality and green growth through cultural industry financing
+:PROPERTIES:
+:ID: https://openalex.org/W4390638611
+:DOI: https://doi.org/10.1057/s41599-023-02554-5
+:AUTHORS: Hanzhi Zhang, Jingfeng Zhang, Chih-Hung Pai
+:HOST: Humanities and Social Sciences Communications
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1057/s41599-023-02554-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390638611"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390638611"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390638611"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390638611
+    
+Hanzhi Zhang, Jingfeng Zhang, Chih-Hung Pai, Humanities and Social Sciences Communications. https://doi.org/10.1057/s41599-023-02554-5
+    
+Abstract This study delves into the influence of green financing within the cultural industry on the green growth trajectories of China’s 32 provinces spanning the years 2010 to 2021. Employing the Common Correlated Effects Mean Group (CCEMG) estimator, the research comprehensively assesses the impact of various independent variables on green growth. The findings indicate that a 1% rise in cultural sustainability investment correlates with a 0.63% upswing in green growth, whereas a 1% increase in carbon dioxide emissions corresponds to a 0.14% decline in green growth. Additionally, the study posits that shifts in the scale of the financial market do not exert a significant influence on green growth. Moreover, the negative coefficient of −0.25% for the variable “ICT diffusion index” suggests that heightened use of ICT devices is associated with a reduction in green growth. Given these insights, proposed strategies involve advancing the digitalization of the cultural industry through fintech and big data, establishing supportive regulatory frameworks, and fostering collaborations between financial institutions and cultural organizations.    
+
+    
