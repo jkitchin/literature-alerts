@@ -152,22 +152,6 @@ it is, I can do it with the gh cli.
 
 I can make an rss feed for this. See https://github.com/svpino/rfeed.
 
-In emacs you can now set up elfeed:
-
-#+BEGIN_SRC emacs-lisp
-(require 'elfeed)
-(setq elfeed-feeds '("https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml"))
-#+END_SRC
-
-#+RESULTS:
-| https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml |
-
-This works!
-
-*** TODO how to update the feed?
-
-Right now the feed is replaced each time you run it. Should there be some logic to add to the feed, and push older things off? I never know how many entries there will be so, I can't really have a fixed length. Maybe it is ok to only get the current entries. The RSS reader should be able to handle this. The only downside is maybe you miss a week if you don't check.
-
 ** DONE Separate the script logic
 CLOSED: [2024-01-15 Mon 11:20]
 
