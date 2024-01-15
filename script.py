@@ -50,14 +50,15 @@ def process_result(result):
 :AUTHORS: {authors}
 :HOST: {host}
 :END:
-
     
-[[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]]
+[[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "{result['id']}"))][Get references]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "{result['id']}"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "{result['id']}"))][Get cited by]]
 
+{authors}, {host}. {result['doi']}
+    
 {abstract}    
 
     

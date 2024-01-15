@@ -91,6 +91,9 @@ import sys
 import requests
 import datetime
 from math import ceil
+import datetime
+from rfeed import Item, Feed, Guid
+
 
 API_KEY = os.environ['OPENALEX_API_KEY']
 
@@ -134,36 +137,79 @@ def process_result(result):
 :AUTHORS: {authors}
 :HOST: {host}
 :END:
-
     
-[[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]]
+[[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "{result['id']}"))][Get references]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "{result['id']}"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "{result['id']}"))][Get cited by]]
 
+{authors}, {host}. {result['doi']}
+    
 {abstract}    
 
     
 '''
 
+def get_rss_item(result):
+    authors = ', '.join([au['author']['display_name'] for au in result['authorships'] ])
+    word_index = []
+
+    aii = result.get('abstract_inverted_index', None)
+
+    if aii:
+        for k,v in aii.items():
+            for index in v:
+                word_index.append([k, index])
+
+        word_index = sorted(word_index,key = lambda x : x[1])
+        abstract = ' '.join([x[0] for x in word_index])
+    else:
+        abstract = 'No abstract'
+    return Item(title = result['title'],
+                description=abstract,
+                author=authors,
+                link=result['doi'],
+                guid=Guid(result['doi']),
+                pubDate=datetime.datetime.strptime(result['publication_date'], "%Y-%m-%d"))
+
+    
+
 # Process page 1
 s = ''
+RSS_ITEMS = []
 for result in data['results']:
     s += process_result(result)
+    RSS_ITEMS += [get_rss_item(result)]
 
 for i in range(1, npages):
     purl = url + f'&page={i}'
     data = requests.get(url).json()
     for result in data['results']:
         s += process_result(result)
-  
-    
+        RSS_ITEMS += [get_rss_item(result)]
+        
+     
 with open('results.org', 'w') as f:
     f.write(f'* Results for {day_ago}\n\n')
     f.write(s)
 
 
+feed = Feed(title='OA literature alerts',
+            link='https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml',
+            description='Proof of concept RSS feed',
+            language='en-US',
+            lastBuildDate = datetime.datetime.now(),
+            items=RSS_ITEMS)
+
+with open('rss.xml', 'w') as f:
+    f.write(feed.rss())
+
+import lxml.etree as etree
+
+x = etree.parse('rss.xml')
+with open('rss.xml', 'w') as f:
+    f.write(etree.tostring(x, pretty_print=True).decode('utf-8'))
 #+END_SRC
 
 #+RESULTS:
@@ -189,3 +235,73 @@ It would be useful if it only did this when new entries are found. That would re
 It is possible it would be easier to do this in the script?
 
 it is, I can do it with the gh cli.
+
+* RSS feed
+
+I can make an rss feed for this. See https://github.com/svpino/rfeed.
+
+In emacs you can now set up elfeed:
+
+#+BEGIN_SRC emacs-lisp
+(require 'elfeed)
+(setq elfeed-feeds '("https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml"))
+#+END_SRC
+
+#+RESULTS:
+| https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml |
+
+This works!
+
+* TODO Separate the script logic
+
+There should be some simple yaml file maybe of queries to run, one line per query. The script could run and write results to some label?
+
+something like this maybe? Each category could have more than one filter.
+
+#+BEGIN_SRC jupyter-python
+from yaml import load, Loader
+
+doc = '''queries:
+  - label: water splitting
+    filter: 
+      - concepts.id:https%3A%2F%2Fopenalex.org%2FC135473242
+      - title-and-abstract.search:oxygen%20evolution
+  - label: authors
+    filter:
+      - author.id:https%3A%2F%2Fopenalex.org%2FA5003442464'''
+
+d = load(doc, Loader=Loader)
+for topic in d['queries']:
+    for filter in topic['filter']:
+        print(f'running {filter}, saving results to {topic["label"]}.xml')
+
+#+END_SRC
+
+#+RESULTS:
+:RESULTS:
+running concepts.id:https%3A%2F%2Fopenalex.org%2FC135473242, saving results to water splitting.xml
+running title-and-abstract.search:oxygen%20evolution, saving results to water splitting.xml
+running author.id:https%3A%2F%2Fopenalex.org%2FA5003442464, saving results to authors.xml
+:END:
+
+
+* TODO Advanced queries
+
+It would be nice to make queries for these
+
+- new citations of a paper
+- new related paper
+
+Maybe this is just getting the paper, checking the citations/related, and seeing if any are newer than the last time we checked.
+
+** Semantic similarities
+
+Eventually I want to use sentence_transformers for similarity checks.
+
+* What are the best formats?
+
+- [X] RSS great for consumption in elfeed
+- [X] org great for consumption in Emacs
+- [ ] html/md great for consumption from GitHUB/browser
+
+If I make the org format right, it will also render fine I think.
