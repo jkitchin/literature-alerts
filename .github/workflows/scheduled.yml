@@ -10,13 +10,11 @@ jobs:
       - name: Install dependencies
         run: pip install requests
         
-      - name: Use API key
-        env:
-          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+      - name: Get new results with OPENALEX_API_KEY           
         run: |
             pwd
             ls
-            python script.py
+            OPENALEX_API_KEY=${{ secrets.OPENALEX_API_KEY }} python script.py
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
             git add results.org
