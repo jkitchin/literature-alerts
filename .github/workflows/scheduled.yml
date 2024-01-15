@@ -26,12 +26,11 @@ jobs:
             python script.py            
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
-            git add results.org            
-            git add rss.xml
-            git commit results.org rss.xml -m "adding new results"            
+            git add rss results
+            git commit rss results -m "adding new results"            
             git push
             if [ -f MAKEISSUE ]; then
-                gh issue create --label "new references" --assignee jkitchin --title "New references found: `date`" --body "New references to look at. See [results.org](../blob/main/results.org)."
+                gh issue create --label "new references" --assignee jkitchin --title "New references found: `date`" --body "New references to look at. See [results](../blob/main/results)."
             fi
           
           
