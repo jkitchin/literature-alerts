@@ -10,7 +10,8 @@ jobs:
       - name: Install dependencies
         run: pip install requests
         
-      - name: Get new results with OPENALEX_API_KEY
+      - shell: bash
+        
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           MYSECRET: ${{ secrets.MYSECRET }}
