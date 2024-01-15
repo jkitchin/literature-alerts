@@ -27,6 +27,8 @@ In Emacs you can set up elfeed like this with these RSS feeds:
 		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/authors.xml"))
 #+END_SRC
 
+Or go to some site like https://rssviewer.app/, paste in one of those urls, and click on view feed.
+
 This is still a work in progress. Something not working? Feature requests? Post an issue at https://github.com/jkitchin/literature-alerts/issues.
 
 
