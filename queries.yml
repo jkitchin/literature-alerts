@@ -1,14 +1,17 @@
 queries:
   - label: water splitting
+    description: water splitting papers
     filter:
       # this concept is Oxygen Evolution
       - concepts.id:https://openalex.org/C135473242
       - title-and-abstract.search:oxygen evolution
   - label: authors
+    description: List of authors
     filter:
       # John Kitchin
       - author.id:https://openalex.org/A5003442464
   - label: CO2RR
+    description: Electrochemical reduction of carbon dioxide
     filter:
       # Electrochemical reduction of carbon dioxide"
       - concepts.id:https://openalex.org/C24596552

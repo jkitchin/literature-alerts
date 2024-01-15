@@ -11,8 +11,11 @@ from yaml import load, Loader
 import urllib.parse
 import hashlib
 from pathlib import Path
+import lxml.etree as etree
 
-# This does nothing if there is no .env
+
+# This does nothing if there is no .env. It is useful locally, but doesn't do
+# anything in the GitHUB action.
 load_dotenv() 
 
 API_KEY = os.environ['OPENALEX_API_KEY']
@@ -105,13 +108,14 @@ def get_rss_item(result):
 
     
 
-# Process page 1
-s = ''
-RSS_ITEMS = []
-
 for topic in queries['queries']:
     for _filter in topic['filter']:
         print(f'Running {_filter}')
+        base = '-'.join(topic['label'].split())
+
+        s = ''
+        RSS_ITEMS = []
+        
         url = (API + urllib.parse.quote(_filter)
                + f',from_created_date:{day_ago}&api_key={API_KEY}')
 
@@ -135,27 +139,34 @@ for topic in queries['queries']:
                 RSS_ITEMS += [get_rss_item(result)]
 
 
-# Touch a flagfile for making an issue.                
-if s != '':
-    Path('MAKEISSUE').touch()
-
-with open('results.org', 'w') as f:
-    f.write(f'* Results for {day_ago}\n\n')
-    f.write(s)
+        # Touch a flagfile for making an issue.                
+        if s != '':
+            Path('MAKEISSUE').touch()
 
 
-feed = Feed(title='OA literature alerts',
-            link='https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml',
-            description='Proof of concept RSS feed',
-            language='en-US',
-            lastBuildDate = datetime.datetime.now(),
-            items=RSS_ITEMS)
+        orgfile = Path('results') / (base + '.org')
 
-with open('rss.xml', 'w') as f:
-    f.write(feed.rss())
+        with open(orgfile, 'w') as f:
+            f.write(f'* Results for {day_ago}\n\n')
+            f.write(s)
 
-import lxml.etree as etree
 
-x = etree.parse('rss.xml')
-with open('rss.xml', 'w') as f:
-    f.write(etree.tostring(x, pretty_print=True).decode('utf-8'))
+        rssfile = Path('rss') / (base + '.xml')
+        feed = Feed(title=topic['label'],
+                    link=f'https://raw.githubusercontent.com/jkitchin/literature-alerts/main/{rssfile}',
+                    description=topic.get('description', 'no description'),
+                    language='en-US',
+                    lastBuildDate = datetime.datetime.now(),
+                    items=RSS_ITEMS)
+
+        
+            
+        with open(rssfile, 'w') as f:
+            f.write(feed.rss())
+
+            
+        # this just pretty prints the file
+        xml = etree.parse(rssfile)
+        with open(rssfile, 'w') as f:
+            f.write(etree.tostring(xml,
+                                   pretty_print=True).decode('utf-8'))
