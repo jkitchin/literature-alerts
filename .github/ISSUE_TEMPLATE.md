@@ -1,6 +1,7 @@
 ---
 title: New references to review
-assignees: johnkitchin
+assignees: jkitchin
+labels: new references
 ---
 New references to look at. See [results.org](./results.org).
 
