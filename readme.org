@@ -29,7 +29,18 @@ The API key is stored as a GitHUB secret so it is accessible to the Action scrip
 
 The script generates some files, and I commit them to the repository so it is easy to access them. I might consider an alternative approach based on https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts
 
-If you want to do this yourself, you will need an OpenAlex premium API key. See https://openalex.org/pricing. 
+* Want to do it yourself?
+
+You can use this repo as a template: https://github.com/new?template_name=literature-alerts&template_owner=jkitchin
+
+You will want to modify these files:
+- [[./queries.yml]] (for the queries you want)
+- [[./.github/workflows/scheduled.yml]] (for the schedule you want)
+
+
+If you want to do this yourself, you will need an OpenAlex premium API key. See https://openalex.org/pricing. Then, you will have to setup a repository secret for ~OPENALEX_API_KEY~ with the key they give you.
+
+In your repo, go to something like  https://github.com/jkitchin/literature-alerts/settings/actions and give actions "Read and write permissions" under "Workflow permissions".
 
 
 * Development notes
