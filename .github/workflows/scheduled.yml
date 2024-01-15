@@ -25,7 +25,9 @@ jobs:
             git add rss.xml
             git commit results.org rss.xml -m "adding new results"            
             git push
-            gh issue create --label "new references" --assignee jkitchin --title "New references found" --body "New references to look at. See [results.org](../blob/main/results.org)."
+            if [ -f MAKEISSUE ]; then
+                gh issue create --label "new references" --assignee jkitchin --title "New references found" --body "New references to look at. See [results.org](../blob/main/results.org)."
+            fi
           
           
 

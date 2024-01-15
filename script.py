@@ -9,6 +9,8 @@ from rfeed import Item, Feed, Guid
 from dotenv import load_dotenv
 from yaml import load, Loader
 import urllib.parse
+import hashlib
+from pathlib import Path
 
 # This does nothing if there is no .env
 load_dotenv() 
@@ -131,8 +133,12 @@ for topic in queries['queries']:
             for result in data['results']:
                 s += process_result(result)
                 RSS_ITEMS += [get_rss_item(result)]
-        
-     
+
+
+# Touch a flagfile for making an issue.                
+if s != '':
+    Path('MAKEISSUE').touch()
+
 with open('results.org', 'w') as f:
     f.write(f'* Results for {day_ago}\n\n')
     f.write(s)
