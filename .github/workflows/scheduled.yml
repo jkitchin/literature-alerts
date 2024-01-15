@@ -12,9 +12,10 @@ jobs:
         
       - name: Get new results with OPENALEX_API_KEY
         env:
-          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}          
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          MYSECRET: ${{ secrets.MYSECRET }}
         run: |
-            python script.py $OPENALEX_API_KEY
+            python script.py $MYSECRET
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
             git add results.org
