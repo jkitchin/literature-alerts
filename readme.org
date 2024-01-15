@@ -97,6 +97,9 @@ week_ago = (today - datetime.timedelta(weeks=6)).strftime("%Y-%m-%d")
 url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A5003442464,from_created_date:{week_ago}&api_key={API_KEY}'
 
 data = requests.get(url).json()
+
+print(data)
+
 count = data['meta']['count']
 perpage = data['meta']['per_page']
 npages = ceil(count / perpage)

@@ -14,9 +14,8 @@ jobs:
         
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
-          MYSECRET: ${{ secrets.MYSECRET }}
         run: |
-            python script.py "$MYSECRET"
+            python script.py 
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
             git add results.org
