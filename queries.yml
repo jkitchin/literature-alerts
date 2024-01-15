@@ -8,3 +8,7 @@ queries:
     filter:
       # John Kitchin
       - author.id:https://openalex.org/A5003442464
+  - label: CO2RR
+    filter:
+      # Electrochemical reduction of carbon dioxide"
+      - concepts.id:https://openalex.org/C24596552
