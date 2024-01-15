@@ -40,7 +40,7 @@ for i in range(1, npages):
         s += process_result(result)
   
     
-with open('results.dat', 'a') as f:
+with open('results.org', 'a') as f:
     f.write(s)
 
 print(s)
