@@ -31,7 +31,7 @@ jobs:
             git commit results.org rss.xml -m "adding new results"            
             git push
             if [ -f MAKEISSUE ]; then
-                gh issue create --label "new references" --assignee jkitchin --title "New references found" --body "New references to look at. See [results.org](../blob/main/results.org)."
+                gh issue create --label "new references" --assignee jkitchin --title "New references found: `date`" --body "New references to look at. See [results.org](../blob/main/results.org)."
             fi
           
           
