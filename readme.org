@@ -1,12 +1,25 @@
 #+title: Literature alerts
+#+author: John Kitchin
+#+date: [2024-01-15 Mon]
 
-Eventually this will do something on a schedule to pull new alerts from openalex.org
+This is a project to use https://openalex.org to create literature alerts.
 
-See results in [[./results.org]]
+You specify queries in this yaml file: [[./queries.yml]]
 
-But first:
+This [[./script.py]] is run on a schedule set by [[./.github/workflows/scheduled.yml]].
 
-* Run an action on a schedule
+The results are written to  [[./results.org]] and it generates an RSS feed at https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss.xml
+
+How do you use this?
+
+1. In your browser go to https://github.com/jkitchin/literature-alerts/blob/main/results.org and see if you want to do anything with the results. They get replaced every time the script runs. Maybe one day I will explore keeping version, or writing to time-stamped files.
+2. Subscribe to the rss feed and consume it as you see fit.
+3. Clone the repo and open   [[./results.org]]  in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical.
+
+
+* Development notes
+
+** Run an action on a schedule
 
 See [[./.github/workflows/scheduled.yml]]. Adapted from https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
 
@@ -18,7 +31,7 @@ on:
 #+END_EXAMPLE
 
 
-* Have an action create an artifact
+** Have an action create an artifact
 
 probably a file, and maybe also a GH issue
 
@@ -43,7 +56,7 @@ You can commit results in an action. The downside of this is you have to pull be
 #+END_EXAMPLE
 
 
-* Use a GH secret to save the API key
+** Use a GH secret to save the API key
 
 The api key is secret, and you add it to an environment like this. Then in the script.py load it from the environment.
 
@@ -66,12 +79,12 @@ The api key is secret, and you add it to an environment like this. Then in the s
 
 
 
-* write a Python script using OpenAlex to get new articles
+** write a Python script using OpenAlex to get new articles
 
 See [[./script.py]]
 
 
-* Create a new issue when new things are found
+** Create a new issue when new things are found
 
 This would alert you that there is something to do.
 
@@ -92,7 +105,7 @@ It is possible it would be easier to do this in the script?
 
 it is, I can do it with the gh cli.
 
-* RSS feed
+** RSS feed
 
 I can make an rss feed for this. See https://github.com/svpino/rfeed.
 
@@ -108,7 +121,7 @@ In emacs you can now set up elfeed:
 
 This works!
 
-* TODO Separate the script logic
+** Separate the script logic
 
 There should be some simple yaml file maybe of queries to run, one line per query. The script could run and write results to some label?
 
@@ -141,8 +154,9 @@ running title-and-abstract.search:oxygen%20evolution, saving results to water sp
 running author.id:https%3A%2F%2Fopenalex.org%2FA5003442464, saving results to authors.xml
 :END:
 
+Should these be written to separate feeds?
 
-* TODO Advanced queries
+** TODO Advanced queries
 
 It would be nice to make queries for these
 
@@ -151,11 +165,11 @@ It would be nice to make queries for these
 
 Maybe this is just getting the paper, checking the citations/related, and seeing if any are newer than the last time we checked.
 
-** Semantic similarities
+*** Semantic similarities
 
 Eventually I want to use sentence_transformers for similarity checks.
 
-* What are the best formats?
+** What are the best formats?
 
 - [X] RSS great for consumption in elfeed
 - [X] org great for consumption in Emacs
@@ -163,4 +177,4 @@ Eventually I want to use sentence_transformers for similarity checks.
 
 If I make the org format right, it will also render fine I think.
 
-Should I publish it to gh-pages?
+Should I publish it to gh-pages? Hard to say what the benefit would be, you can already read the results at https://github.com/jkitchin/literature-alerts/blob/main/results.org

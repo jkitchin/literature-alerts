@@ -1,7 +1,7 @@
 #on: push
-
-# every day at 8am: 0 8 * * *
-# On sunday: 0 0 * * SUN
+# at the beginning of every hour: '0 * * * *'
+# every day at 8am: '0 8 * * *'
+# On sunday: '0 0 * * SUN'
 on:
   schedule:
     - cron: '0 * * * *'
