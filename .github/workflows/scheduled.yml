@@ -22,9 +22,7 @@ jobs:
             git commit results.org -m "adding new results to results.org"
             git push
 
-      - uses: JasonEtco/create-an-issue@v2        
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            gh issue create --label "new references" --assignee jkitchin --title "New references found"
           
           
 
