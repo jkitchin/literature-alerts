@@ -20,7 +20,7 @@ jobs:
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
             git add results.org
-            git commit results.org -m "adding new results to results.dat"
+            git commit results.org -m "adding new results to results.org"
             git push
 
       - uses: JasonEtco/create-an-issue@v2
