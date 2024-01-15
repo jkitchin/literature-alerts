@@ -27,13 +27,17 @@ jobs:
   openalex:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        
       - name: Install dependencies
         run: pip install requests
         
       - name: Use API key
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
-        run: |            
+        run: |
+            pwd
+            ls
             python script.py
             git add results.org
             git commit results.org -m "adding new results to results.dat"
