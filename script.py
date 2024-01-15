@@ -60,7 +60,8 @@ def process_result(result):
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "{result['id']}"))][Get references]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "{result['id']}"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "{result['id']}"))][Get cited by]]
-    
+
+OpenAlex: {result['id']}    
 {authors}, {host}. {result['doi']}
     
 {abstract}    
