@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 import os
+import sys
 import requests
 import datetime
 from math import ceil
 
-API_KEY = os.environ['OPENALEX_API_KEY']
+API_KEY = sys.argv[1]
 
 today = datetime.date.today()
 week_ago = (today - datetime.timedelta(weeks=6)).strftime("%Y-%m-%d")
