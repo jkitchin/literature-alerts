@@ -1,0 +1,10 @@
+queries:
+  - label: water splitting
+    filter:
+      # this concept is Oxygen Evolution
+      - concepts.id:https://openalex.org/C135473242
+      - title-and-abstract.search:oxygen evolution
+  - label: authors
+    filter:
+      # John Kitchin
+      - author.id:https://openalex.org/A5003442464
