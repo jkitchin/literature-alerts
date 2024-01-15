@@ -101,8 +101,6 @@ url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A50
 
 data = requests.get(url).json()
 
-print(data)
-
 count = data['meta']['count']
 perpage = data['meta']['per_page']
 npages = ceil(count / perpage)
@@ -157,3 +155,5 @@ there is not a lot of control, but it is ok.
 It would be useful if it only did this when new entries are found. That would require some logic to see if the results.org file changed maybe, or some flag file.
 
 It is possible it would be easier to do this in the script?
+
+it is, I can do it with the gh cli.

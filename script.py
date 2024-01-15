@@ -14,8 +14,6 @@ url = f'https://api.openalex.org/works?filter=author.id:https://openalex.org/A50
 
 data = requests.get(url).json()
 
-print(data)
-
 count = data['meta']['count']
 perpage = data['meta']['per_page']
 npages = ceil(count / perpage)
