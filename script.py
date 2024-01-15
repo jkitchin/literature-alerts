@@ -116,3 +116,9 @@ feed = Feed(title='OA literature alerts',
 
 with open('rss.xml', 'w') as f:
     f.write(feed.rss())
+
+import lxml.etree as etree
+
+x = etree.parse('rss.xml')
+with open('rss.xml', 'w') as f:
+    f.write(etree.tostring(x, pretty_print=True).decode('utf-8'))
