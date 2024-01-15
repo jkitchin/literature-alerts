@@ -4,7 +4,7 @@ import sys
 import requests
 import datetime
 from math import ceil
-
+print('argv: ', sys.argv)
 API_KEY = sys.argv[1]
 
 today = datetime.date.today()
