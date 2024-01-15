@@ -66,7 +66,7 @@ The api key is secret, and you add it to an environment like this. Then in the s
 
 
 
-* TODO write a Python script using OpenAlex to get new articles
+* write a Python script using OpenAlex to get new articles
 
 Locally I have a .env file (not part of the repository), and I load it here.
 
@@ -81,10 +81,13 @@ load_dotenv()
 True
 :END:
 
-This script gets new items from the last two weeks.
+This script gets new items from the last six weeks. Eventually I need to make this be aligned with the scheduled frequency, but it gets a paper for testing.
+
+
 
 #+BEGIN_SRC jupyter-python :tangle script.py :shebang #!/usr/bin/env python
 import os
+import sys
 import requests
 import datetime
 from math import ceil
@@ -134,14 +137,23 @@ with open('results.org', 'a') as f:
 print(s)    
 #+END_SRC
 
-#+RESULTS:
-:RESULTS:
-** Applying Large Graph Neural Networks to Predict Transition Metal Complex Energies Using the tmQM_wB97MV Data Set
-:PROPERTIES:
-:ID: https://openalex.org/W4389340622
-:DOI: https://doi.org/10.1021/acs.jcim.3c01226
-:AUTHORS: Aaron Garrison, Javier Heras-Domingo, John R. Kitchin, Gabriel Gomes, Zachary W. Ulissi, Samuel M. Blau
-:HOST: Journal of Chemical Information and Modeling    
-:END:
-:END:
 
+
+* Create a new issue when new things are found
+
+This would alert you that there is something to do.
+
+https://github.com/marketplace/actions/create-an-issue
+
+
+#+BEGIN_EXAMPLE
+      - uses: JasonEtco/create-an-issue@v2        
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#+END_EXAMPLE
+
+there is not a lot of control, but it is ok.
+
+It would be useful if it only did this when new entries are found. That would require some logic to see if the results.org file changed maybe, or some flag file.
+
+It is possible it would be easier to do this in the script?
