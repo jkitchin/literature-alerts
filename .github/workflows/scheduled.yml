@@ -24,6 +24,8 @@ jobs:
             git push
 
       - uses: JasonEtco/create-an-issue@v2
+        run: |
+            RESULTS=`cat results.org`
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
