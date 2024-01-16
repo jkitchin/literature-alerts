@@ -20,3 +20,7 @@ queries:
     description: low temperature liquid metals
     filter:
       - title-and-abstract.search:liquid metal catalyst
+  - label: high-entropy-oxides
+    description: high entropy oxides in catalysis
+    filter:
+      - title-and-abstract.search:high entropy oxide catalysis

@@ -8,8 +8,7 @@ You specify queries in this yaml file: [[./queries.yml]]
 
 This [[./script.py]] is run on a schedule set by [[./.github/workflows/scheduled.yml]].
 
-The results are written to  [[./results]] as org-files and it generates RSS feeds at [[./rss]].
-
+The results are written to [[./results]] as org-files and it generates RSS feeds at [[./rss]].
 
 How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
 
@@ -54,6 +53,11 @@ If you want to do this yourself, you will need an OpenAlex premium API key. See 
 
 In your repo, go to something like  https://github.com/jkitchin/literature-alerts/settings/actions and give actions "Read and write permissions" under "Workflow permissions".
 
+
+* Wishlist
+
+- Figure out how to assign issues to specific users that are indicated in the queries.yml file. Maybe make an actions.sh file and then execute it later.
+- Consider pull-requests for other people to make their own queries? Would some constraints be needed? 
 
 * Development notes
 
@@ -211,3 +215,34 @@ CLOSED: [2024-01-15 Mon 11:20]
 If I make the org format right, it will also render fine I think.
 
 Should I publish it to gh-pages? Hard to say what the benefit would be, you can already read the results at https://github.com/jkitchin/literature-alerts/blob/main/results.org
+
+** Rotating logs
+
+It could be nice to have a rotating log
+
+#+BEGIN_SRC jupyter-python
+import logging
+import time
+from logging.handlers import TimedRotatingFileHandler
+#----------------------------------------------------------------------
+def create_timed_rotating_log(path):
+    """"""
+    logger = logging.getLogger("Rotating Log")
+    logger.setLevel(logging.INFO)
+    
+    handler = TimedRotatingFileHandler(path,
+                                       when="m",
+                                       interval=1,
+                                       backupCount=5)
+    logger.addHandler(handler)
+    
+    for i in range(6):
+        logger.info("This is a test!")
+        time.sleep(75)
+#----------------------------------------------------------------------
+
+log_file = "timed_test.log"
+create_timed_rotating_log(log_file)
+#+END_SRC
+
+#+RESULTS:

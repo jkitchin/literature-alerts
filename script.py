@@ -12,7 +12,9 @@ import urllib.parse
 import hashlib
 from pathlib import Path
 import lxml.etree as etree
-
+from io import BytesIO
+import logging
+from logging.handlers import TimedRotatingFileHandler
 
 # This does nothing if there is no .env. It is useful locally, but doesn't do
 # anything in the GitHUB action.
@@ -21,7 +23,7 @@ load_dotenv()
 API_KEY = os.environ['OPENALEX_API_KEY']
 
 today = datetime.date.today()
-day_ago = (today - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
+day_ago = (today - datetime.timedelta(days=14)).strftime("%Y-%m-%d")
 
 with open('queries.yml', 'r') as f:
     queries = load(f.read(), Loader=Loader)
@@ -148,9 +150,14 @@ for topic in queries['queries']:
 
         orgfile = Path('results') / (base + '.org')
 
-        with open(orgfile, 'w') as f:
-            f.write(f'* Results for {day_ago}\n\n')
-            f.write(s)
+        logger1 = logging.getLogger("Rotating Log")
+        logger1.setLevel(logging.INFO)
+        handler1 = TimedRotatingFileHandler(orgfile,
+                                           when="w0",
+                                           interval=1)
+        logger1.addHandler(handler1)
+        logger1.info(f'* Results for {day_ago}\n\n')
+        logger1.info(s)
 
 
         rssfile = Path('rss') / (base + '.xml')
@@ -161,14 +168,16 @@ for topic in queries['queries']:
                     lastBuildDate = datetime.datetime.now(),
                     items=RSS_ITEMS)
 
-        
-            
-        with open(rssfile, 'w') as f:
-            f.write(feed.rss())
 
-            
+        logger1 = logging.getLogger("Rotating Log")
+        logger1.setLevel(logging.INFO)
+        handler1 = TimedRotatingFileHandler(rssfile,
+                                           when="w0",
+                                           interval=1)
+        logger1.addHandler(handler1)
+        
         # this just pretty prints the file
-        xml = etree.parse(rssfile)
-        with open(rssfile, 'w') as f:
-            f.write(etree.tostring(xml,
-                                   pretty_print=True).decode('utf-8'))
+        xml = etree.parse(BytesIO(f"{feed.rss()}".encode('utf-8')))
+        pxml = etree.tostring(xml,
+                              pretty_print=True).decode('utf-8')
+        logger1.info(pxml)   
