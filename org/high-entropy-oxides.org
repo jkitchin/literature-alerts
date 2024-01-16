@@ -149,3 +149,9 @@ The discovery of high-entropy oxides (HEOs) in 2015 has provided a family of pot
 
 
 
+#+TITLE: high-entropy-oxides
+
+Created at Tue Jan 16 22:40:12 2024
+
+
+
