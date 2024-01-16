@@ -57,8 +57,7 @@ def write_rss(topic, results):
                 description=topic.get('description', 'no description'),
                 language='en-US',
                 lastBuildDate = datetime.datetime.now(),
-                items=[get_rss_item(topic, result) for result in items])
-
+                items=items)
 
     rlogger = logging.getLogger("RSS Log")
     rlogger.setLevel(logging.INFO)
