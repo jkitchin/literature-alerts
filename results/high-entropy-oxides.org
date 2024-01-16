@@ -90,3 +90,79 @@ The discovery of high-entropy oxides (HEOs) in 2015 has provided a family of pot
   </channel>
 </rss>
 
+* Results for 2024-01-02
+
+
+** [high-entropy-oxides] Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides
+:PROPERTIES:
+:ID: https://openalex.org/W4390587030
+:DOI: https://doi.org/10.1038/s41467-023-44587-z
+:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
+:HOST: Nature Communications
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587030"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587030"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587030"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587030
+    
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
+    
+Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
+
+    
+** [high-entropy-oxides] General Synthesis of High-Entropy Oxide Nanofibers
+:PROPERTIES:
+:ID: https://openalex.org/W4390579245
+:DOI: https://doi.org/10.1021/acsnano.3c07506
+:AUTHORS: Mengyuan Zhang, Jian Ye, Ying Gao, Xiaolan Duan, Jiahua Zhao, Shuangshuang Zhang, Xingxu Lu, Kai Luo, Qiongqiong Wang, Qiang Niu, Pengfei Zhang, Sheng Dai
+:HOST: ACS Nano
+:END:
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.3c07506")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390579245"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390579245"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390579245"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390579245
+    
+Mengyuan Zhang, Jian Ye, Ying Gao, Xiaolan Duan, Jiahua Zhao, Shuangshuang Zhang, Xingxu Lu, Kai Luo, Qiongqiong Wang, Qiang Niu, Pengfei Zhang, Sheng Dai, ACS Nano. https://doi.org/10.1021/acsnano.3c07506
+    
+The discovery of high-entropy oxides (HEOs) in 2015 has provided a family of potential solid catalysts, due to their tunable components, abundant defects or lattice distorts, excellent thermal stability (ΔG↓ = ΔH – TΔS↑), and so on. When facing the heterogeneous catalysis by HEOs, the micrometer bulky morphology and low surface areas (e.g., <10 m2 g–1) by traditional synthesis methods obstructed their way. In this work, an electrospinning method to fabricate HEO nanofibers with diameters of 50–100 nm was demonstrated. The key point lay in the formation of one-dimensional filamentous precursors, during which the uniform dispersion of five metal species with disordered configuration would help to crystallize into single-phase HEOs at lower temperatures: inverse spinel (Cr0.2Mn0.2Co0.2Ni0.2Fe0.2)3O4 (400 °C), perovskite La(Mn0.2Cu0.2Co0.2Ni0.2Fe0.2)O3 (500 °C), spinel Ni0.2Mg0.2Cu0.2Mn0.2Co0.2)Al2O4 (550 °C), and cubic Ni0.2Mg0.2Cu0.2Zn0.2Co0.2O (750 °C). As a proof-of-concept, (Ni3MoCoZn)Al12O24 nanofiber exhibited good activity (CH4 Conv. > 96%, CO2 Conv. > 99%, H2/CO ≈ 0.98), long-time stability (>100 h) for the dry reforming of methane (DRM) at 700 °C without coke deposition, better than control samples (Ni3MoCoZn)Al12O24-Coprecipitation-700 (CH4 Conv. < 3%, CO2 Conv. < 7%). The reaction mechanism of DRM was studied by in situ infrared spectroscopy, CO2-TPD, and CO2/CH4-TPSR. This electrospinning method provides a synthetic route for HEO nanofibers for target applications.    
+
+    
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>high-entropy-oxides</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/high-entropy-oxides.xml</link>
+    <description>high entropy oxides in catalysis</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 16:13:37 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>[high-entropy-oxides] Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides</title>
+      <link>https://doi.org/10.1038/s41467-023-44587-z</link>
+      <description>Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung&#8722;Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
+Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.</description>
+      <author>Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung&#8722;Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh</author>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-44587-z</guid>
+    </item>
+    <item>
+      <title>[high-entropy-oxides] General Synthesis of High-Entropy Oxide Nanofibers</title>
+      <link>https://doi.org/10.1021/acsnano.3c07506</link>
+      <description>Mengyuan Zhang, Jian Ye, Ying Gao, Xiaolan Duan, Jiahua Zhao, Shuangshuang Zhang, Xingxu Lu, Kai Luo, Qiongqiong Wang, Qiang Niu, Pengfei Zhang, Sheng Dai, ACS Nano. None(None)] 2024.
+The discovery of high-entropy oxides (HEOs) in 2015 has provided a family of potential solid catalysts, due to their tunable components, abundant defects or lattice distorts, excellent thermal stability (&#916;G&#8595; = &#916;H &#8211; T&#916;S&#8593;), and so on. When facing the heterogeneous catalysis by HEOs, the micrometer bulky morphology and low surface areas (e.g., &lt;10 m2 g&#8211;1) by traditional synthesis methods obstructed their way. In this work, an electrospinning method to fabricate HEO nanofibers with diameters of 50&#8211;100 nm was demonstrated. The key point lay in the formation of one-dimensional filamentous precursors, during which the uniform dispersion of five metal species with disordered configuration would help to crystallize into single-phase HEOs at lower temperatures: inverse spinel (Cr0.2Mn0.2Co0.2Ni0.2Fe0.2)3O4 (400 &#176;C), perovskite La(Mn0.2Cu0.2Co0.2Ni0.2Fe0.2)O3 (500 &#176;C), spinel Ni0.2Mg0.2Cu0.2Mn0.2Co0.2)Al2O4 (550 &#176;C), and cubic Ni0.2Mg0.2Cu0.2Zn0.2Co0.2O (750 &#176;C). As a proof-of-concept, (Ni3MoCoZn)Al12O24 nanofiber exhibited good activity (CH4 Conv. &gt; 96%, CO2 Conv. &gt; 99%, H2/CO &#8776; 0.98), long-time stability (&gt;100 h) for the dry reforming of methane (DRM) at 700 &#176;C without coke deposition, better than control samples (Ni3MoCoZn)Al12O24-Coprecipitation-700 (CH4 Conv. &lt; 3%, CO2 Conv. &lt; 7%). The reaction mechanism of DRM was studied by in situ infrared spectroscopy, CO2-TPD, and CO2/CH4-TPSR. This electrospinning method provides a synthetic route for HEO nanofibers for target applications.</description>
+      <author>Mengyuan Zhang, Jian Ye, Ying Gao, Xiaolan Duan, Jiahua Zhao, Shuangshuang Zhang, Xingxu Lu, Kai Luo, Qiongqiong Wang, Qiang Niu, Pengfei Zhang, Sheng Dai</author>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c07506</guid>
+    </item>
+  </channel>
+</rss>
+
