@@ -2257,3 +2257,15 @@ In the present situation, steel-making industries have turned their attention to
   </channel>
 </rss>
 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>CO2RR</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
+    <description>Electrochemical reduction of carbon dioxide</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 23:41:01 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+

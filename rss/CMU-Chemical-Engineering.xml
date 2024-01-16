@@ -1,0 +1,12 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>CMU Chemical Engineering</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
+    <description>Papers by people in the Department of Chemical Engineering at CMU</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 23:41:03 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+
