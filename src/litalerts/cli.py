@@ -12,12 +12,15 @@ from .rss import write_rss
 def cli(fname, since):
 
     today = datetime.date.today()
-    day_ago = (today - datetime.timedelta(days=since)).strftime("%Y-%m-%d")
+    _since = (today - datetime.timedelta(days=since)).strftime("%Y-%m-%d")
 
     with open(fname, 'r') as f:
         queries = load(f.read(), Loader=Loader)
 
     for topic in queries['queries']:
-        results = run_query(topic, day_ago)
+        topic['today'] = today
+        topic['since'] = _since
+        
+        results = run_query(topic, _since)
         write_org(topic, results)
         write_rss(topic, results)

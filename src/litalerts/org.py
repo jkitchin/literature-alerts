@@ -57,4 +57,5 @@ def write_org(topic, results):
     ologger.addHandler(ohandler)
     ologger.info(f'#+TITLE: {topic["label"]}\n')
     ologger.info(f'Created at {time.asctime()}\n\n')
+    ologger.info(f'Results from {topic["since"]} to {topic["today"]}\n')
     ologger.info(s)

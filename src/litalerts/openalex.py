@@ -73,6 +73,7 @@ def get_host(result):
         host = 'No host'
     return host
 
+
 def get_citation(result):
     """Return a lightly formatted citation for RESULT.
     """
