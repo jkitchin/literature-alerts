@@ -14399,3 +14399,9 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
     
 
 
+#+TITLE: water splitting
+
+#+DATE: Tue Jan 16 22:38:34 2024
+
+
+
