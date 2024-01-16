@@ -59,7 +59,7 @@ def write_rss(topic, results):
                 lastBuildDate = datetime.datetime.now(),
                 items=items)
 
-    rlogger = logging.getLogger(topic['label'])
+    rlogger = logging.getLogger("RSS +" + topic['label'])
     rlogger.setLevel(logging.INFO)
     rhandler = TimedRotatingFileHandler(rssfile,
                                        when="w0",
