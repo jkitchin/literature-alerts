@@ -6,7 +6,7 @@ This is a project to use https://openalex.org to create literature alerts. It cr
 
 You specify queries in this yaml file: [[./queries.yml]]
 
-This [[./script.py]] is run on a schedule set by [[./.github/workflows/scheduled.yml]].
+There is a Python package in [[./src/litalerts/]] that provides a CLI called ~litalerts~. That script is run a schedule set by [[./.github/workflows/scheduled.yml]].
 
 The results are written to [[./results]] as org-files and it generates RSS feeds at [[./rss]].
 
@@ -57,6 +57,7 @@ In your repo, go to something like  https://github.com/jkitchin/literature-alert
 * Wishlist
 
 - Figure out how to assign issues to specific users that are indicated in the queries.yml file. Maybe make an actions.sh file and then execute it later.
+- Add delivery methods to yml, email, rss, org, etc.
 - Consider pull-requests for other people to make their own queries? Would some constraints be needed? 
 
 * Development notes
@@ -66,7 +67,8 @@ CLOSED: [2024-01-15 Mon 11:20]
 
 See [[./.github/workflows/scheduled.yml]]. Adapted from https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#schedule
 
-This runs every 15 min. That might be the smallest interval
+This runs every 15 min. That might be the smallest interval supported by GitHUB.
+
 #+BEGIN_EXAMPLE
 on:
   schedule:
@@ -246,3 +248,10 @@ create_timed_rotating_log(log_file)
 #+END_SRC
 
 #+RESULTS:
+
+
+#+BEGIN_EXAMPLE    
+            if [ -f MAKEISSUE ]; then
+                gh issue create --label "new references" --assignee jkitchin --title "New references found: `date`" --body "New references to look at. See [results](../blob/main/results)."
+            fi
+#+END_EXAMPLE
