@@ -1,4 +1,5 @@
 """Create org files."""
+import time
 from pathlib import Path
 import logging
 from logging.handlers import TimedRotatingFileHandler
@@ -71,4 +72,6 @@ def write_org(topic, results):
                                        when="w0",
                                        interval=1)
     ologger.addHandler(ohandler)
+    ologger.info(f'#+TITLE: {topic["label"]}\n')
+    ologger.info(f'#+DATE: {time.asctime()}\n\n')
     ologger.info(s)
