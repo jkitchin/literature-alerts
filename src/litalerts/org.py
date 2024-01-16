@@ -60,12 +60,12 @@ OpenAlex: {result['id']}
 def write_org(topic, results):
     """Given a TOPIC and RESULTS, write them out to an org-file.
     """
-    
+
     s = '\n'.join([get_org_item(topic, result) for result in results])
     base = '-'.join(topic['label'].split())
     orgfile = Path('org') / (base + '.org')
 
-    ologger = logging.getLogger("Org Log")
+    ologger = logging.getLogger(topic['label'])
     ologger.setLevel(logging.INFO)
     ohandler = TimedRotatingFileHandler(orgfile,
                                        when="w0",
