@@ -53,7 +53,7 @@ def write_rss(topic, results):
     base = '-'.join(topic['label'].split())    
     rssfile = Path('rss') / (base + '.xml')
     feed = Feed(title=topic['label'],
-                link=f'https://raw.githubusercontent.com/jkitchin/literature-alerts/main/{rssfile}',
+                link=f'https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/{rssfile}',
                 description=topic.get('description', 'no description'),
                 language='en-US',
                 lastBuildDate = datetime.datetime.now(),
