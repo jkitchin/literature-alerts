@@ -4,33 +4,16 @@ from pathlib import Path
 import logging
 from logging.handlers import TimedRotatingFileHandler
 
+from .openalex import get_authors, get_abstract, get_host, get_citation
 
 def get_org_item(topic, result):
     """Get an org string for RESULT.
     RESULT will be a json item for a Work.
     """
-    authors = ', '.join([au['author']['display_name'] for au in result['authorships'] ])
-    word_index = []
-
-    aii = result.get('abstract_inverted_index', None)
-
-    if aii:
-        for k,v in aii.items():
-            for index in v:
-                word_index.append([k, index])
-
-        word_index = sorted(word_index,key = lambda x : x[1])
-        abstract = ' '.join([x[0] for x in word_index])
-    else:
-        abstract = 'No abstract'
-
-    source = result.get('primary_location', {}).get('source', {})
-    if source:
-        host = source.get('display_name', 'No host')
-    else:
-        host = 'No host'
-
-    citation = f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."        
+    authors = get_authors(result)
+    host = get_host(result)
+    abstract = get_abstract(result)
+    citation = get_citation(result)       
 
     return f'''** [{topic["label"]}] {result['title']}
 :PROPERTIES:

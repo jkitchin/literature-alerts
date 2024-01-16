@@ -37,3 +37,45 @@ def run_query(topic, since):
                 
     print('oa: ', len(results))
     return results
+
+
+def get_abstract(result):
+    """Retrun a rendered abstract for RESULT.
+    """
+    aii = result.get('abstract_inverted_index', None)
+    word_index = []
+    
+    if aii:
+        for k,v in aii.items():
+            for index in v:
+                word_index.append([k, index])
+
+        word_index = sorted(word_index,key = lambda x : x[1])
+        abstract = ' '.join([x[0] for x in word_index])
+    else:
+        abstract = 'No abstract'
+
+    return abstract
+
+
+def get_authors(result):
+    return ', '.join([au['author']['display_name'] for au in result['authorships'] ])
+
+
+def get_host(result):
+    """Get the host for RESULT.
+    This is usually a journal name.
+    """
+    source = result.get('primary_location', {}).get('source', {})
+    if source:
+        host = source.get('display_name', 'No host')
+    else:
+        host = 'No host'
+    return host
+
+def get_citation(result):
+    """Return a lightly formatted citation for RESULT.
+    """
+    authors = get_authors(result)
+    host = get_host(result)
+    return f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}." 
