@@ -18168,3 +18168,54 @@ The discovery of high-entropy oxides (HEOs) in 2015 has provided a family of pot
   </channel>
 </rss>
 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>authors</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/authors.xml</link>
+    <description>List of authors</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 20:14:11 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>CO2RR</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/CO2RR.xml</link>
+    <description>Electrochemical reduction of carbon dioxide</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 20:14:11 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>liquid-metal</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/liquid-metal.xml</link>
+    <description>low temperature liquid metals</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 20:14:12 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+
+
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>high-entropy-oxides</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/high-entropy-oxides.xml</link>
+    <description>high entropy oxides in catalysis</description>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Jan 2024 20:14:12 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+  </channel>
+</rss>
+
