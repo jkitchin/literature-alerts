@@ -43,7 +43,7 @@ def get_rss_item(topic, result):
 
 
 def write_rss(topic, results):
-    print('rss:' topic, results)
+    print('rss:', topic, results)
 
     items = [get_rss_item(topic, result) for result in results]
     
