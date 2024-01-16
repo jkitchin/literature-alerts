@@ -64,10 +64,10 @@ def write_org(topic, results):
     base = '-'.join(topic['label'].split())
     orgfile = Path('org') / (base + '.org')
 
-    logger = logging.getLogger("Rotating Log")
-    logger.setLevel(logging.INFO)
-    handler = TimedRotatingFileHandler(orgfile,
+    ologger = logging.getLogger("Org Log")
+    ologger.setLevel(logging.INFO)
+    ohandler = TimedRotatingFileHandler(orgfile,
                                        when="w0",
                                        interval=1)
-    logger.addHandler(handler)
-    logger.info(s)
+    ologger.addHandler(ohandler)
+    ologger.info(s)
