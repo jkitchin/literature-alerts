@@ -16,3 +16,7 @@ queries:
       # Electrochemical reduction of carbon dioxide"
       - concepts.id:https://openalex.org/C24596552
       - title-and-abstract.search:carbon dioxide reduction
+  - label: liquid-metal
+    description: low temperature liquid metals
+    filter:
+      - title-and-abstract.search:liquid metal catalyst
