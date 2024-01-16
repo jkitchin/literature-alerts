@@ -24,3 +24,7 @@ queries:
     description: high entropy oxides in catalysis
     filter:
       - title-and-abstract.search:high entropy oxide catalysis
+  - label: ACS Catalysis
+    description: Articles from ACS Catalysis
+    filter:
+      - primary_location.source.id:https://openalex.org/S37391459
