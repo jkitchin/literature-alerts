@@ -18,8 +18,6 @@ def cli(fname, since):
         queries = load(f.read(), Loader=Loader)
 
     for topic in queries['queries']:
-
         results = run_query(topic, day_ago)
-
         write_org(topic, results)
         write_rss(topic, results)

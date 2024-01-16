@@ -42,9 +42,12 @@ def get_rss_item(topic, result):
                 pubDate=datetime.datetime.strptime(result['publication_date'], "%Y-%m-%d"))
 
 
-def write_rss(topic, items):
-    base = '-'.join(topic['label'].split())
+def write_rss(topic, results):
+    print('rss:' topic, results)
+
+    items = [get_rss_item(topic, result) for result in results]
     
+    base = '-'.join(topic['label'].split())    
     rssfile = Path('rss') / (base + '.xml')
     feed = Feed(title=topic['label'],
                 link=f'https://raw.githubusercontent.com/jkitchin/literature-alerts/main/{rssfile}',
