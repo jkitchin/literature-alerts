@@ -8,7 +8,7 @@ from .rss import write_rss
 
 
 
-@click.command
+@click.command()
 @click.option('-f', '--fname', default='queries.yml', help='yml file with queries')              
 @click.option('-s', '--since', default=7, help='days since')
 def cli(fname, since):
