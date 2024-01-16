@@ -8,14 +8,14 @@ You specify queries in this yaml file: [[./queries.yml]]
 
 There is a Python package in [[./src/litalerts/]] that provides a CLI called ~litalerts~. That script is run a schedule set by [[./.github/workflows/scheduled.yml]].
 
-The results are written to [[./results]] as org-files and it generates RSS feeds at [[./rss]].
+The results are written to the [[./org]] director as org-files and it generates RSS feeds at [[./rss]].
 
 How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
 
 1. You could probably subscribe to the repo and get notified of updates.
-2. In your browser go to https://github.com/jkitchin/literature-alerts/blob/main/results.org and see if you want to do anything with the results. They get replaced every time the script runs. Maybe one day I will explore keeping version, or writing to time-stamped files.
+2. In your browser go to one of the org-files, e.g. https://github.com/jkitchin/literature-alerts/blob/main/org/water-splitting.org, and see if you want to do anything with the results. They get replaced every time the script runs. 
 3. Subscribe to the rss feed and consume it as you see fit.
-4. Clone the repo and open   [[./results.org]]  in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical.
+4. Clone the repo and open [[./org/water-splitting.org]] in Emacs. Interact with it as you see fit, e.g. refile entries, etc. It might be tricky to add notes, keep it running etc. There might be some git-fu, e.g. branching, etc. that makes it practical. I am still working out these kinds of details.
 
 In Emacs you can set up elfeed like this with these RSS feeds:
 
@@ -23,13 +23,14 @@ In Emacs you can set up elfeed like this with these RSS feeds:
 (require 'elfeed)
 (setq elfeed-feeds '("https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/water-splitting.xml"
 		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/CO2RR.xml"
-		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/authors.xml"))
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/authors.xml"
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/high-entropy-oxides.xml"
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/liquid-metal.xml"))
 #+END_SRC
 
 Or go to some site like https://rssviewer.app/, paste in one of those urls, and click on view feed.
 
 This is still a work in progress. Something not working? Feature requests? Post an issue at https://github.com/jkitchin/literature-alerts/issues.
-
 
 * How does it work?
 
