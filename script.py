@@ -117,7 +117,9 @@ for topic in queries['queries']:
         RSS_ITEMS = []
         
         url = (API + urllib.parse.quote(_filter)
-               + f',from_created_date:{day_ago}&api_key={API_KEY}')
+               + f',from_created_date:{day_ago}')
+        print(url)
+        url += f'&api_key={API_KEY}'
 
         data = requests.get(url).json()
 
