@@ -54,16 +54,16 @@ def write_rss(topic, items):
                 items=[get_rss_item(topic, result) for result in items])
 
 
-    logger = logging.getLogger("Rotating Log")
-    logger.setLevel(logging.INFO)
-    handler = TimedRotatingFileHandler(rssfile,
+    rlogger = logging.getLogger("RSS Log")
+    rlogger.setLevel(logging.INFO)
+    rhandler = TimedRotatingFileHandler(rssfile,
                                        when="w0",
                                        interval=1)
-    logger.addHandler(handler)
+    rlogger.addHandler(rhandler)
         
     # this just pretty prints the file
     xml = etree.parse(BytesIO(f"{feed.rss()}".encode('utf-8')))
     pxml = etree.tostring(xml,
                           pretty_print=True).decode('utf-8')
-    logger.info(pxml)   
+    rlogger.info(pxml)   
     
