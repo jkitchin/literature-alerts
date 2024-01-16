@@ -60,7 +60,7 @@ OpenAlex: {result['id']}
 def write_org(topic, results):
     """Given a TOPIC and RESULTS, write them out to an org-file.
     """
-    print('org:', topic, results)
+    
     s = '\n'.join([get_org_item(topic, result) for result in results])
     base = '-'.join(topic['label'].split())
     orgfile = Path('org') / (base + '.org')

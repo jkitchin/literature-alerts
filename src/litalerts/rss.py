@@ -43,8 +43,11 @@ def get_rss_item(topic, result):
 
 
 def write_rss(topic, results):
-    print('rss:', topic, results)
-
+    """Write the RSS feed for TOPIC and RESULTS.
+    TOPIC comes from the query yaml file.
+    RESULTS will be json from an openalex query.
+    """
+    
     items = [get_rss_item(topic, result) for result in results]
     
     base = '-'.join(topic['label'].split())    

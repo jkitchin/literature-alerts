@@ -35,5 +35,5 @@ def run_query(topic, since):
             results += data['results']
 
                 
-    print('oa: ', results)
+    print('oa: ', len(results))
     return results
