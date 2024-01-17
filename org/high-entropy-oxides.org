@@ -1,8 +1,9 @@
+#+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
-Created on Wed Jan 17 00:41:46 2024
+Created on Wed Jan 17 13:18:12 2024
 
 Results from 2024-01-03 to 2024-01-17
-** [high-entropy-oxides] Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides
+** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587030
 :DOI: https://doi.org/10.1038/s41467-023-44587-z
@@ -26,7 +27,7 @@ Abstract The electrochemical conversion of nitrate to ammonia is a way to elimin
 
     
 
-** [high-entropy-oxides] General Synthesis of High-Entropy Oxide Nanofibers
+** General Synthesis of High-Entropy Oxide Nanofibers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390579245
 :DOI: https://doi.org/10.1021/acsnano.3c07506

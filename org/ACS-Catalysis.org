@@ -1,8 +1,9 @@
+#+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
-Created on Wed Jan 17 00:41:47 2024
+Created on Wed Jan 17 13:18:14 2024
 
 Results from 2024-01-03 to 2024-01-17
-** [ACS Catalysis] Metal Phosphide: An Atypical Catalytic Site
+** Metal Phosphide: An Atypical Catalytic Site   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497430
 :DOI: https://doi.org/10.1021/acscatal.3c05160
@@ -26,7 +27,7 @@ The studies of metal phosphides (MPs) have flourished in the past decades due to
 
     
 
-** [ACS Catalysis] Acid-Catalyzed Oxy-aminomethylation of Styrenes
+** Acid-Catalyzed Oxy-aminomethylation of Styrenes   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497439
 :DOI: https://doi.org/10.1021/acscatal.3c05342
@@ -50,7 +51,7 @@ We report a strong Brønsted acid-catalyzed three-component oxy-aminomethylation
 
     
 
-** [ACS Catalysis] Switching the Symmetry of a Trinuclear Copper Cluster Catalyst for Electroreducing CO<sub>2</sub> to an Asymmetric C<sub>2</sub> Product in an Acidic Electrolyte
+** Switching the Symmetry of a Trinuclear Copper Cluster Catalyst for Electroreducing CO<sub>2</sub> to an Asymmetric C<sub>2</sub> Product in an Acidic Electrolyte   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497469
 :DOI: https://doi.org/10.1021/acscatal.3c03755
@@ -74,7 +75,7 @@ Achieving CO2 electroreduction in an acidic electrolyte to obtain high-value pro
 
     
 
-** [ACS Catalysis] Aerobic Oxidation of Methyl Glycolate by α-Fe<sub>2</sub>O<sub>3</sub> for the Eco-Friendly Synthesis of Methyl Glyoxylate
+** Aerobic Oxidation of Methyl Glycolate by α-Fe<sub>2</sub>O<sub>3</sub> for the Eco-Friendly Synthesis of Methyl Glyoxylate   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499850
 :DOI: https://doi.org/10.1021/acscatal.3c05587
@@ -98,7 +99,7 @@ Methyl glyoxylate (MGO) is an important reagent for value-added chemical and pha
 
     
 
-** [ACS Catalysis] Mechanistic Insights into Hydrodeoxygenation of Lignin Derivatives over Ni Single Atoms Supported on Mo<sub>2</sub>C
+** Mechanistic Insights into Hydrodeoxygenation of Lignin Derivatives over Ni Single Atoms Supported on Mo<sub>2</sub>C   
 :PROPERTIES:
 :ID: https://openalex.org/W4390500284
 :DOI: https://doi.org/10.1021/acscatal.3c04555
@@ -122,7 +123,7 @@ Lignin derivatives are one class of attractive alternative feedstocks for the pr
 
     
 
-** [ACS Catalysis] Unveiling the Bifunctional Photo/Electrocatalytic Activity of In Situ Grown CdSe QDs on g-C<sub>3</sub>N<sub>4</sub> Nanosheet Z-Scheme Heterostructures for Efficient Hydrogen Generation
+** Unveiling the Bifunctional Photo/Electrocatalytic Activity of In Situ Grown CdSe QDs on g-C<sub>3</sub>N<sub>4</sub> Nanosheet Z-Scheme Heterostructures for Efficient Hydrogen Generation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390500984
 :DOI: https://doi.org/10.1021/acscatal.3c03632
@@ -146,7 +147,7 @@ The successive ionic layer adsorption and reaction (SILAR) method was used to de
 
     
 
-** [ACS Catalysis] Factors Affecting the Generation and Catalytic Activity of Extra-Framework Aluminum Lewis Acid Sites in Aluminum-Exchanged Zeolites
+** Factors Affecting the Generation and Catalytic Activity of Extra-Framework Aluminum Lewis Acid Sites in Aluminum-Exchanged Zeolites   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502405
 :DOI: https://doi.org/10.1021/acscatal.3c04195
@@ -170,7 +171,7 @@ Aluminum ion exchange was employed to introduce Lewis acidity into zeolites BEA,
 
     
 
-** [ACS Catalysis] <i>N</i>-Heterocyclic Carbene Moiety in Highly Porous Organic Hollow Nanofibers for Efficient CO<sub>2</sub> Conversions: A Comparative Experimental and Theoretical Study
+** <i>N</i>-Heterocyclic Carbene Moiety in Highly Porous Organic Hollow Nanofibers for Efficient CO<sub>2</sub> Conversions: A Comparative Experimental and Theoretical Study   
 :PROPERTIES:
 :ID: https://openalex.org/W4390509460
 :DOI: https://doi.org/10.1021/acscatal.3c05576
@@ -194,7 +195,7 @@ Global warming and climate change are two severe environmental dangers brought o
 
     
 
-** [ACS Catalysis] Structural Insights into a Side Chain Cross-Linking Biarylitide P450 from RiPP Biosynthesis
+** Structural Insights into a Side Chain Cross-Linking Biarylitide P450 from RiPP Biosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390537464
 :DOI: https://doi.org/10.1021/acscatal.3c05417
@@ -218,7 +219,7 @@ Peptide side chain cross-linking is an important feature of many natural product
 
     
 
-** [ACS Catalysis] Surface-Modified S═O Microenvironment Boosts Catalyzed Oxidation of Alcohol <i>via</i> Hydrogen Bond Interactions
+** Surface-Modified S═O Microenvironment Boosts Catalyzed Oxidation of Alcohol <i>via</i> Hydrogen Bond Interactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539334
 :DOI: https://doi.org/10.1021/acscatal.3c04779
@@ -242,7 +243,7 @@ Enzymes have unique structures, with various amino acid residues encapsulating m
 
     
 
-** [ACS Catalysis] Mechanistic Investigation on C–C Bond Cleavage of Anthraquinone Catalyzed by an Atypical Nonheme Iron-Dependent Dioxygenase BTG13
+** Mechanistic Investigation on C–C Bond Cleavage of Anthraquinone Catalyzed by an Atypical Nonheme Iron-Dependent Dioxygenase BTG13   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539809
 :DOI: https://doi.org/10.1021/acscatal.3c04053
@@ -266,7 +267,7 @@ An atypical nonheme iron-dependent dioxygenase BTG13 with a rare iron coordinati
 
     
 
-** [ACS Catalysis] Pulsing the Applied Potential in Electrochemical CO<sub>2</sub> Reduction Enhances the C<sub>2</sub> Activity by Modulating the Dynamic Competitive Binding of *CO and *H
+** Pulsing the Applied Potential in Electrochemical CO<sub>2</sub> Reduction Enhances the C<sub>2</sub> Activity by Modulating the Dynamic Competitive Binding of *CO and *H   
 :PROPERTIES:
 :ID: https://openalex.org/W4390543597
 :DOI: https://doi.org/10.1021/acscatal.3c04224
@@ -290,7 +291,7 @@ We explore dynamic electrocatalysis by pulsing the applied potential to modulate
 
     
 
-** [ACS Catalysis] Synergy of Single-Atom Fe<sub>1</sub> and Ce–O<sub>v</sub> Sites on Mesoporous CeO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub> for Efficient Selective Catalytic Reduction of NO with CO
+** Synergy of Single-Atom Fe<sub>1</sub> and Ce–O<sub>v</sub> Sites on Mesoporous CeO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub> for Efficient Selective Catalytic Reduction of NO with CO   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545888
 :DOI: https://doi.org/10.1021/acscatal.3c04682
@@ -314,7 +315,7 @@ Nonprecious transition-metal oxides, especially Fe-, Cu-, Co-, and Mn-containing
 
     
 
-** [ACS Catalysis] Substrate-Specific Evolution of Amine Dehydrogenases for Accessing Structurally Diverse Enantiopure (<i>R</i>)-β-Amino Alcohols
+** Substrate-Specific Evolution of Amine Dehydrogenases for Accessing Structurally Diverse Enantiopure (<i>R</i>)-β-Amino Alcohols   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546864
 :DOI: https://doi.org/10.1021/acscatal.3c04995
@@ -338,7 +339,7 @@ The biocatalytic oxidative deamination of β-amino alcohols holds significant pr
 
     
 
-** [ACS Catalysis] Anode Engineering for Proton Exchange Membrane Water Electrolyzers
+** Anode Engineering for Proton Exchange Membrane Water Electrolyzers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578014
 :DOI: https://doi.org/10.1021/acscatal.3c05162
@@ -362,7 +363,7 @@ Sustainable hydrogen (H2) production via water electrolysis is one of the most c
 
     
 
-** [ACS Catalysis] Investigating the Potency of a Phenalenyl-Based Photocatalyst under the Photoelectrochemical Condition for Intramolecular C–S Bond Formation
+** Investigating the Potency of a Phenalenyl-Based Photocatalyst under the Photoelectrochemical Condition for Intramolecular C–S Bond Formation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390579743
 :DOI: https://doi.org/10.1021/acscatal.3c05500
@@ -386,7 +387,7 @@ Implementation of an organic molecular photocatalyst for photoelectrochemical (P
 
     
 
-** [ACS Catalysis] A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts
+** A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580294
 :DOI: https://doi.org/10.1021/acscatal.3c04337
@@ -410,7 +411,7 @@ The study of multimetallic alloys and the multitude of possible surface composit
 
     
 
-** [ACS Catalysis] Modulation of the Phase Transformation of Fe<sub>2</sub>O<sub>3</sub> for Enhanced Water Oxidation under a Magnetic Field
+** Modulation of the Phase Transformation of Fe<sub>2</sub>O<sub>3</sub> for Enhanced Water Oxidation under a Magnetic Field   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582441
 :DOI: https://doi.org/10.1021/acscatal.3c05032
@@ -434,7 +435,7 @@ Ferromagnetic catalysts in the presence of an external magnetic field can promot
 
     
 
-** [ACS Catalysis] Highly Efficient Hydrogenation of α,β-Unsaturated Aldehydes to Unsaturated Alcohols over Defective MOF-808 with Constructed Frustrated Lewis Pairs
+** Highly Efficient Hydrogenation of α,β-Unsaturated Aldehydes to Unsaturated Alcohols over Defective MOF-808 with Constructed Frustrated Lewis Pairs   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588887
 :DOI: https://doi.org/10.1021/acscatal.3c03624
@@ -458,7 +459,7 @@ Solid frustrated Lewis pair (FLP) catalysts have received much attention. In thi
 
     
 
-** [ACS Catalysis] Insights into CeO<sub>2</sub> Particle Size Dependent Selectivity Control for CO<sub>2</sub> Hydrogenation Using Co/CeO<sub>2</sub> Catalysts
+** Insights into CeO<sub>2</sub> Particle Size Dependent Selectivity Control for CO<sub>2</sub> Hydrogenation Using Co/CeO<sub>2</sub> Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390589350
 :DOI: https://doi.org/10.1021/acscatal.3c05139
@@ -482,7 +483,7 @@ The particle size of CeO2 was controlled to study the selectivity toward CO prod
 
     
 
-** [ACS Catalysis] Theoretical Insights into H<sub>2</sub> Activation over Anatase TiO<sub>2</sub> Supported Metal Adatoms
+** Theoretical Insights into H<sub>2</sub> Activation over Anatase TiO<sub>2</sub> Supported Metal Adatoms   
 :PROPERTIES:
 :ID: https://openalex.org/W4390589917
 :DOI: https://doi.org/10.1021/acscatal.3c04201
@@ -506,7 +507,7 @@ H2 activation is fundamental in catalysis. Single-atom catalysts (SACs) can be h
 
     
 
-** [ACS Catalysis] Metal-Mediated Catalytic Polarization Transfer from <i>para</i> Hydrogen to 3,5-Dihalogenated Pyridines
+** Metal-Mediated Catalytic Polarization Transfer from <i>para</i> Hydrogen to 3,5-Dihalogenated Pyridines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390603393
 :DOI: https://doi.org/10.1021/acscatal.3c05378
@@ -530,7 +531,7 @@ The neutral catalysts [IrCl(H)2(NHC)(substrate)2] or [IrCl(H)2(NHC)(substrate)(s
 
     
 
-** [ACS Catalysis] Organocatalytic Asymmetric Synthesis of Si-Stereogenic Siloxanols
+** Organocatalytic Asymmetric Synthesis of Si-Stereogenic Siloxanols   
 :PROPERTIES:
 :ID: https://openalex.org/W4390605731
 :DOI: https://doi.org/10.1021/acscatal.3c03932
@@ -554,7 +555,7 @@ We report the organocatalytic synthesis of Si-stereogenic compounds via desymmet
 
     
 
-** [ACS Catalysis] Issue Editorial Masthead
+** Issue Editorial Masthead   
 :PROPERTIES:
 :ID: https://openalex.org/W4390608796
 :DOI: https://doi.org/10.1021/csv014i001_1756349
@@ -578,7 +579,7 @@ ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTIssue Editorial MastheadCite this: A
 
     
 
-** [ACS Catalysis] Issue Publication Information
+** Issue Publication Information   
 :PROPERTIES:
 :ID: https://openalex.org/W4390612348
 :DOI: https://doi.org/10.1021/csv014i001_1756348
@@ -602,7 +603,7 @@ ADVERTISEMENT RETURN TO ISSUEPREVArticleIssue Publication InformationCite this: 
 
     
 
-** [ACS Catalysis] Metal Phosphide: An Atypical Catalytic Site
+** Metal Phosphide: An Atypical Catalytic Site   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497430
 :DOI: https://doi.org/10.1021/acscatal.3c05160
@@ -626,7 +627,7 @@ The studies of metal phosphides (MPs) have flourished in the past decades due to
 
     
 
-** [ACS Catalysis] Acid-Catalyzed Oxy-aminomethylation of Styrenes
+** Acid-Catalyzed Oxy-aminomethylation of Styrenes   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497439
 :DOI: https://doi.org/10.1021/acscatal.3c05342
@@ -650,7 +651,7 @@ We report a strong Brønsted acid-catalyzed three-component oxy-aminomethylation
 
     
 
-** [ACS Catalysis] Switching the Symmetry of a Trinuclear Copper Cluster Catalyst for Electroreducing CO<sub>2</sub> to an Asymmetric C<sub>2</sub> Product in an Acidic Electrolyte
+** Switching the Symmetry of a Trinuclear Copper Cluster Catalyst for Electroreducing CO<sub>2</sub> to an Asymmetric C<sub>2</sub> Product in an Acidic Electrolyte   
 :PROPERTIES:
 :ID: https://openalex.org/W4390497469
 :DOI: https://doi.org/10.1021/acscatal.3c03755
@@ -674,7 +675,7 @@ Achieving CO2 electroreduction in an acidic electrolyte to obtain high-value pro
 
     
 
-** [ACS Catalysis] Aerobic Oxidation of Methyl Glycolate by α-Fe<sub>2</sub>O<sub>3</sub> for the Eco-Friendly Synthesis of Methyl Glyoxylate
+** Aerobic Oxidation of Methyl Glycolate by α-Fe<sub>2</sub>O<sub>3</sub> for the Eco-Friendly Synthesis of Methyl Glyoxylate   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499850
 :DOI: https://doi.org/10.1021/acscatal.3c05587
@@ -698,7 +699,7 @@ Methyl glyoxylate (MGO) is an important reagent for value-added chemical and pha
 
     
 
-** [ACS Catalysis] Mechanistic Insights into Hydrodeoxygenation of Lignin Derivatives over Ni Single Atoms Supported on Mo<sub>2</sub>C
+** Mechanistic Insights into Hydrodeoxygenation of Lignin Derivatives over Ni Single Atoms Supported on Mo<sub>2</sub>C   
 :PROPERTIES:
 :ID: https://openalex.org/W4390500284
 :DOI: https://doi.org/10.1021/acscatal.3c04555
@@ -722,7 +723,7 @@ Lignin derivatives are one class of attractive alternative feedstocks for the pr
 
     
 
-** [ACS Catalysis] Unveiling the Bifunctional Photo/Electrocatalytic Activity of In Situ Grown CdSe QDs on g-C<sub>3</sub>N<sub>4</sub> Nanosheet Z-Scheme Heterostructures for Efficient Hydrogen Generation
+** Unveiling the Bifunctional Photo/Electrocatalytic Activity of In Situ Grown CdSe QDs on g-C<sub>3</sub>N<sub>4</sub> Nanosheet Z-Scheme Heterostructures for Efficient Hydrogen Generation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390500984
 :DOI: https://doi.org/10.1021/acscatal.3c03632
@@ -746,7 +747,7 @@ The successive ionic layer adsorption and reaction (SILAR) method was used to de
 
     
 
-** [ACS Catalysis] Factors Affecting the Generation and Catalytic Activity of Extra-Framework Aluminum Lewis Acid Sites in Aluminum-Exchanged Zeolites
+** Factors Affecting the Generation and Catalytic Activity of Extra-Framework Aluminum Lewis Acid Sites in Aluminum-Exchanged Zeolites   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502405
 :DOI: https://doi.org/10.1021/acscatal.3c04195
@@ -770,7 +771,7 @@ Aluminum ion exchange was employed to introduce Lewis acidity into zeolites BEA,
 
     
 
-** [ACS Catalysis] <i>N</i>-Heterocyclic Carbene Moiety in Highly Porous Organic Hollow Nanofibers for Efficient CO<sub>2</sub> Conversions: A Comparative Experimental and Theoretical Study
+** <i>N</i>-Heterocyclic Carbene Moiety in Highly Porous Organic Hollow Nanofibers for Efficient CO<sub>2</sub> Conversions: A Comparative Experimental and Theoretical Study   
 :PROPERTIES:
 :ID: https://openalex.org/W4390509460
 :DOI: https://doi.org/10.1021/acscatal.3c05576
@@ -794,7 +795,7 @@ Global warming and climate change are two severe environmental dangers brought o
 
     
 
-** [ACS Catalysis] Structural Insights into a Side Chain Cross-Linking Biarylitide P450 from RiPP Biosynthesis
+** Structural Insights into a Side Chain Cross-Linking Biarylitide P450 from RiPP Biosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390537464
 :DOI: https://doi.org/10.1021/acscatal.3c05417
@@ -818,7 +819,7 @@ Peptide side chain cross-linking is an important feature of many natural product
 
     
 
-** [ACS Catalysis] Surface-Modified S═O Microenvironment Boosts Catalyzed Oxidation of Alcohol <i>via</i> Hydrogen Bond Interactions
+** Surface-Modified S═O Microenvironment Boosts Catalyzed Oxidation of Alcohol <i>via</i> Hydrogen Bond Interactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539334
 :DOI: https://doi.org/10.1021/acscatal.3c04779
@@ -842,7 +843,7 @@ Enzymes have unique structures, with various amino acid residues encapsulating m
 
     
 
-** [ACS Catalysis] Mechanistic Investigation on C–C Bond Cleavage of Anthraquinone Catalyzed by an Atypical Nonheme Iron-Dependent Dioxygenase BTG13
+** Mechanistic Investigation on C–C Bond Cleavage of Anthraquinone Catalyzed by an Atypical Nonheme Iron-Dependent Dioxygenase BTG13   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539809
 :DOI: https://doi.org/10.1021/acscatal.3c04053
@@ -866,7 +867,7 @@ An atypical nonheme iron-dependent dioxygenase BTG13 with a rare iron coordinati
 
     
 
-** [ACS Catalysis] Pulsing the Applied Potential in Electrochemical CO<sub>2</sub> Reduction Enhances the C<sub>2</sub> Activity by Modulating the Dynamic Competitive Binding of *CO and *H
+** Pulsing the Applied Potential in Electrochemical CO<sub>2</sub> Reduction Enhances the C<sub>2</sub> Activity by Modulating the Dynamic Competitive Binding of *CO and *H   
 :PROPERTIES:
 :ID: https://openalex.org/W4390543597
 :DOI: https://doi.org/10.1021/acscatal.3c04224
@@ -890,7 +891,7 @@ We explore dynamic electrocatalysis by pulsing the applied potential to modulate
 
     
 
-** [ACS Catalysis] Synergy of Single-Atom Fe<sub>1</sub> and Ce–O<sub>v</sub> Sites on Mesoporous CeO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub> for Efficient Selective Catalytic Reduction of NO with CO
+** Synergy of Single-Atom Fe<sub>1</sub> and Ce–O<sub>v</sub> Sites on Mesoporous CeO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub> for Efficient Selective Catalytic Reduction of NO with CO   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545888
 :DOI: https://doi.org/10.1021/acscatal.3c04682
@@ -914,7 +915,7 @@ Nonprecious transition-metal oxides, especially Fe-, Cu-, Co-, and Mn-containing
 
     
 
-** [ACS Catalysis] Substrate-Specific Evolution of Amine Dehydrogenases for Accessing Structurally Diverse Enantiopure (<i>R</i>)-β-Amino Alcohols
+** Substrate-Specific Evolution of Amine Dehydrogenases for Accessing Structurally Diverse Enantiopure (<i>R</i>)-β-Amino Alcohols   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546864
 :DOI: https://doi.org/10.1021/acscatal.3c04995
@@ -938,7 +939,7 @@ The biocatalytic oxidative deamination of β-amino alcohols holds significant pr
 
     
 
-** [ACS Catalysis] Anode Engineering for Proton Exchange Membrane Water Electrolyzers
+** Anode Engineering for Proton Exchange Membrane Water Electrolyzers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578014
 :DOI: https://doi.org/10.1021/acscatal.3c05162
@@ -962,7 +963,7 @@ Sustainable hydrogen (H2) production via water electrolysis is one of the most c
 
     
 
-** [ACS Catalysis] Investigating the Potency of a Phenalenyl-Based Photocatalyst under the Photoelectrochemical Condition for Intramolecular C–S Bond Formation
+** Investigating the Potency of a Phenalenyl-Based Photocatalyst under the Photoelectrochemical Condition for Intramolecular C–S Bond Formation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390579743
 :DOI: https://doi.org/10.1021/acscatal.3c05500
@@ -986,7 +987,7 @@ Implementation of an organic molecular photocatalyst for photoelectrochemical (P
 
     
 
-** [ACS Catalysis] A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts
+** A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580294
 :DOI: https://doi.org/10.1021/acscatal.3c04337
@@ -1010,7 +1011,7 @@ The study of multimetallic alloys and the multitude of possible surface composit
 
     
 
-** [ACS Catalysis] Modulation of the Phase Transformation of Fe<sub>2</sub>O<sub>3</sub> for Enhanced Water Oxidation under a Magnetic Field
+** Modulation of the Phase Transformation of Fe<sub>2</sub>O<sub>3</sub> for Enhanced Water Oxidation under a Magnetic Field   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582441
 :DOI: https://doi.org/10.1021/acscatal.3c05032
@@ -1034,7 +1035,7 @@ Ferromagnetic catalysts in the presence of an external magnetic field can promot
 
     
 
-** [ACS Catalysis] Highly Efficient Hydrogenation of α,β-Unsaturated Aldehydes to Unsaturated Alcohols over Defective MOF-808 with Constructed Frustrated Lewis Pairs
+** Highly Efficient Hydrogenation of α,β-Unsaturated Aldehydes to Unsaturated Alcohols over Defective MOF-808 with Constructed Frustrated Lewis Pairs   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588887
 :DOI: https://doi.org/10.1021/acscatal.3c03624
@@ -1058,7 +1059,7 @@ Solid frustrated Lewis pair (FLP) catalysts have received much attention. In thi
 
     
 
-** [ACS Catalysis] Insights into CeO<sub>2</sub> Particle Size Dependent Selectivity Control for CO<sub>2</sub> Hydrogenation Using Co/CeO<sub>2</sub> Catalysts
+** Insights into CeO<sub>2</sub> Particle Size Dependent Selectivity Control for CO<sub>2</sub> Hydrogenation Using Co/CeO<sub>2</sub> Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390589350
 :DOI: https://doi.org/10.1021/acscatal.3c05139
@@ -1082,7 +1083,7 @@ The particle size of CeO2 was controlled to study the selectivity toward CO prod
 
     
 
-** [ACS Catalysis] Theoretical Insights into H<sub>2</sub> Activation over Anatase TiO<sub>2</sub> Supported Metal Adatoms
+** Theoretical Insights into H<sub>2</sub> Activation over Anatase TiO<sub>2</sub> Supported Metal Adatoms   
 :PROPERTIES:
 :ID: https://openalex.org/W4390589917
 :DOI: https://doi.org/10.1021/acscatal.3c04201
@@ -1106,7 +1107,7 @@ H2 activation is fundamental in catalysis. Single-atom catalysts (SACs) can be h
 
     
 
-** [ACS Catalysis] Metal-Mediated Catalytic Polarization Transfer from <i>para</i> Hydrogen to 3,5-Dihalogenated Pyridines
+** Metal-Mediated Catalytic Polarization Transfer from <i>para</i> Hydrogen to 3,5-Dihalogenated Pyridines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390603393
 :DOI: https://doi.org/10.1021/acscatal.3c05378
@@ -1130,7 +1131,7 @@ The neutral catalysts [IrCl(H)2(NHC)(substrate)2] or [IrCl(H)2(NHC)(substrate)(s
 
     
 
-** [ACS Catalysis] Organocatalytic Asymmetric Synthesis of Si-Stereogenic Siloxanols
+** Organocatalytic Asymmetric Synthesis of Si-Stereogenic Siloxanols   
 :PROPERTIES:
 :ID: https://openalex.org/W4390605731
 :DOI: https://doi.org/10.1021/acscatal.3c03932
@@ -1154,7 +1155,7 @@ We report the organocatalytic synthesis of Si-stereogenic compounds via desymmet
 
     
 
-** [ACS Catalysis] Issue Editorial Masthead
+** Issue Editorial Masthead   
 :PROPERTIES:
 :ID: https://openalex.org/W4390608796
 :DOI: https://doi.org/10.1021/csv014i001_1756349
@@ -1178,7 +1179,7 @@ ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTIssue Editorial MastheadCite this: A
 
     
 
-** [ACS Catalysis] Issue Publication Information
+** Issue Publication Information   
 :PROPERTIES:
 :ID: https://openalex.org/W4390612348
 :DOI: https://doi.org/10.1021/csv014i001_1756348
