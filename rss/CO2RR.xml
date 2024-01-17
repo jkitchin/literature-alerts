@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Jan 2024 13:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 15:47:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -260,15 +260,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
-      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
-      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
-This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
-      <author>Irina Kirpichnikova, Sergey Shipilov</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
-    </item>
-    <item>
       <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
       <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
       <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
@@ -276,6 +267,15 @@ The steady increase in transport needs worldwide, especially in areas with dense
       <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
+    </item>
+    <item>
+      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
+      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
+      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
+This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
+      <author>Irina Kirpichnikova, Sergey Shipilov</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>
@@ -485,15 +485,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
-      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
-      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
-This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
-      <author>Irina Kirpichnikova, Sergey Shipilov</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
-    </item>
-    <item>
       <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
       <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
       <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
@@ -501,6 +492,15 @@ The steady increase in transport needs worldwide, especially in areas with dense
       <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
+    </item>
+    <item>
+      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
+      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
+      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
+This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
+      <author>Irina Kirpichnikova, Sergey Shipilov</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>
@@ -710,15 +710,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
-      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
-      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
-This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
-      <author>Irina Kirpichnikova, Sergey Shipilov</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
-    </item>
-    <item>
       <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
       <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
       <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
@@ -726,6 +717,15 @@ The steady increase in transport needs worldwide, especially in areas with dense
       <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
       <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
+    </item>
+    <item>
+      <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
+      <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
+      <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
+This article describes the objects of the first category of power supply in the example of maternity hospital of the clinic of the Medical University of Chelyabinsk. There is a current power Supply Scheme and a group of electric consumers. The costs are calculated for electricity consumption under various schemes of power supply of the facility. It is also shown how the reduction in electricity consumption is associated with a reduction of carbon dioxide emissions into the atmosphere. It was suggested to use renewable energy sources as a way of power supply of the objects of the first category, such as wind turbines and Solar power plants. The cost of the equipment was calculated based on technical characteristics. It was also calculated the cost of savings on electricity consumptions from centralized sources. The benefits and the possibility of application of the renewable energy sources for objects of the first category are shown.</description>
+      <author>Irina Kirpichnikova, Sergey Shipilov</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>
