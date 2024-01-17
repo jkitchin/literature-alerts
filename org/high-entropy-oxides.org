@@ -1,5 +1,5 @@
 #+TITLE: high-entropy-oxides
-Created on Wed Jan 17 00:20:11 2024
+Created on Wed Jan 17 00:41:46 2024
 
 Results from 2024-01-03 to 2024-01-17
 ** [high-entropy-oxides] Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides
