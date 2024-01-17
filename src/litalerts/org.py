@@ -48,7 +48,7 @@ def write_org(topic, results):
     base = '-'.join(topic['label'].split())
     orgfile = Path('org') / (base + '.org')
 
-    with open(orgfile, 'w'): as f:
+    with open(orgfile, 'w') as f:
         f.write(f'#+TITLE: {topic["label"]}\n')
         f.write(f'Created at {time.asctime()}\n\n')
         f.write(f'Results from {topic["since"]} to {topic["today"]}\n')
