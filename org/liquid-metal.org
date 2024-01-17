@@ -1,8 +1,8 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
-Created on Wed Jan 17 15:47:19 2024
+Created on Wed Jan 17 17:07:57 2024
 
-Results from 2024-01-03 to 2024-01-17
+Found 14 results from 2024-01-03 to 2024-01-17
 ** Liquid Metal Catalysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390621338

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Jan 2024 15:47:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jan 2024 17:07:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -260,15 +260,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
-      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
-      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
-The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
-      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
-    </item>
-    <item>
       <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
       <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
       <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
@@ -276,6 +267,15 @@ This article describes the objects of the first category of power supply in the 
       <author>Irina Kirpichnikova, Sergey Shipilov</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
+    </item>
+    <item>
+      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
+      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
+      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
+The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
+      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>
@@ -485,15 +485,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
-      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
-      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
-The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
-      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
-    </item>
-    <item>
       <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
       <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
       <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
@@ -501,6 +492,15 @@ This article describes the objects of the first category of power supply in the 
       <author>Irina Kirpichnikova, Sergey Shipilov</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
+    </item>
+    <item>
+      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
+      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
+      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
+The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
+      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>
@@ -710,15 +710,6 @@ Recently, policies such as expansion of distributed power sources, and transitio
       <guid isPermaLink="true">https://doi.org/10.5207/jieie.2023.37.6.043</guid>
     </item>
     <item>
-      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
-      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
-      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
-The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
-      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
-    </item>
-    <item>
       <title>Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources</title>
       <link>https://doi.org/10.1007/978-3-031-51127-1_46</link>
       <description>Irina Kirpichnikova, Sergey Shipilov, Lecture notes in electrical engineering. None(None)] 2024.
@@ -726,6 +717,15 @@ This article describes the objects of the first category of power supply in the 
       <author>Irina Kirpichnikova, Sergey Shipilov</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-51127-1_46</guid>
+    </item>
+    <item>
+      <title>Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines</title>
+      <link>https://doi.org/10.1109/ciees58940.2023.10378725</link>
+      <description>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev, No host. None(None)] 2023.
+The steady increase in transport needs worldwide, especially in areas with dense populations, makes it necessary to seek methods and means of using sustainable alternatives to conventional fuels to reduce the use of fossil fuels and significantly reduce environmental pollution. This study investigated the effectiveness of Isopropanol as a blend with gasoline to improve the environmental performance of internal combustion engines. Besides, as an alternative fuel isopropyl alcohol can also be considered as a renewable source of energy. Alcohols, as an alternative energy source, are considered with priority, building on their characteristics. Isopropanol, as part of the group of alcohols, has been investigated with regard to its potential to improve the mixing and combustion process and also to influence the laminar flame speed as well as the combustion rate compared to conventional gasoline in internal combustion engines. The study focused on its impact on emissions, specifically hydrocarbons, carbon monoxide, carbon dioxide and nitrogen oxides. The study was carried out in a laboratory environment, on a 4-cylinder gasoline engine, for the purpose of the study gasoline and gasoline-Isopropanol mixtures were used in the ratio as follows: 95% gasoline and 5% Isopropanol (IP5), 90% gasoline and 10% Isopropanol (IP10), 85% gasoline and 15% Isopropanol (IP15) and 80% gasoline and 20% Isopropanol (IP20). Due to the properties of Isopropanol there is a reduction of HC, CO, CO2 and NOx emissions, the most favorable for this engine is the fuel mixture with Isopropanol content between 10%-15%.</description>
+      <author>Elitsa Nakova, Simeon Iliev, Kiril Hadjiev</author>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/ciees58940.2023.10378725</guid>
     </item>
     <item>
       <title>A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery</title>

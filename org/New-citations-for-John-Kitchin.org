@@ -1,8 +1,8 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
-Created on Wed Jan 17 15:47:25 2024
+Created on Wed Jan 17 17:08:06 2024
 
-Results from 2024-01-03 to 2024-01-17
+Found 53 results from 2024-01-03 to 2024-01-17
 ** Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing   
 :PROPERTIES:
 :ID: https://openalex.org/W4390617556
