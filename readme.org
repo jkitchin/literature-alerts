@@ -6,9 +6,9 @@ This is a project to use https://openalex.org to create literature alerts. It cr
 
 You specify queries in this yaml file: [[./queries.yml]]
 
-There is a Python package in [[./src/litalerts/]] that provides a CLI called ~litalerts~. That script is run a schedule set by [[./.github/workflows/scheduled.yml]].
+There is a Python package in [[./src/litalerts/]] that provides a CLI called ~litalerts~. That script is run on a schedule set by [[./.github/workflows/scheduled.yml]].
 
-The results are written to the [[./org]] director as org-files and it generates RSS feeds at [[./rss]].
+The results are written to the [[./org]] directory as org-files and it generates RSS feeds at [[./rss]].
 
 How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
 
@@ -25,7 +25,12 @@ In Emacs you can set up elfeed like this with these RSS feeds:
 		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/CO2RR.xml"
 		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/authors.xml"
 		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/high-entropy-oxides.xml"
-		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/liquid-metal.xml"))
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/liquid-metal.xml"
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/ACS-Catalysis.xml"
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/CMU-Chemical-Engineering.xml"
+		     "https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/New-citations-for-John-Kitchin.xml"))
+(elfeed-update)
+(elfeed)
 #+END_SRC
 
 Or go to some site like https://rssviewer.app/, paste in one of those urls, and click on view feed.
@@ -48,7 +53,6 @@ You can use this repo as a template: https://github.com/new?template_name=litera
 You will want to modify these files:
 - [[./queries.yml]] (for the queries you want)
 - [[./.github/workflows/scheduled.yml]] (for the schedule you want)
-
 
 If you want to do this yourself, you will need an OpenAlex premium API key. See https://openalex.org/pricing. Then, you will have to setup a repository secret for ~OPENALEX_API_KEY~ with the key they give you.
 
