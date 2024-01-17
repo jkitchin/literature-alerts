@@ -1,8 +1,9 @@
+#+filetags: CO2RR
 #+TITLE: CO2RR
-Created on Wed Jan 17 00:41:45 2024
+Created on Wed Jan 17 13:18:11 2024
 
 Results from 2024-01-03 to 2024-01-17
-** [CO2RR] A general and facile calcination method to synthesize single-site catalysts for highly efficient electrochemical CO2 reduction
+** A general and facile calcination method to synthesize single-site catalysts for highly efficient electrochemical CO2 reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390495193
 :DOI: https://doi.org/10.1007/s12274-023-6378-3
@@ -26,7 +27,7 @@ No abstract
 
     
 
-** [CO2RR] Electrochemical Redox Conversion of Formate to CO via Coupling Fe‐Co Layered Double Hydroxides and Au Catalysts
+** Electrochemical Redox Conversion of Formate to CO via Coupling Fe‐Co Layered Double Hydroxides and Au Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390506848
 :DOI: https://doi.org/10.1002/chem.202303383
@@ -50,7 +51,7 @@ Formate has been considered an inactive molecule and thus cannot be further redu
 
     
 
-** [CO2RR] Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis
+** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511855
 :DOI: https://doi.org/10.1038/s41467-023-44131-z
@@ -74,7 +75,7 @@ Abstract Despite the recent achievements in urea electrosynthesis from co-reduct
 
     
 
-** [CO2RR] Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide
+** Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546350
 :DOI: https://doi.org/10.1016/j.jelechem.2023.118007
@@ -98,7 +99,7 @@ Electrochemical CO2 reduction is considered a promising solution to mitigate the
 
     
 
-** [CO2RR] Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction
+** Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561417
 :DOI: https://doi.org/10.1002/adfm.202312589
@@ -122,7 +123,7 @@ Abstract Single‐atom catalysts possess great potential for applications in ele
 
     
 
-** [CO2RR] Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects
+** Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588938
 :DOI: https://doi.org/10.1007/s40820-023-01276-2
@@ -146,7 +147,7 @@ Abstract Carbon dioxide conversion into valuable products using photocatalysis a
 
     
 
-** [CO2RR] Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor
+** Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor   
 :PROPERTIES:
 :ID: https://openalex.org/W4390574119
 :DOI: https://doi.org/10.1088/1361-6439/ad1b1c
@@ -170,7 +171,7 @@ Abstract The rising concerns about CO 2 levels in the atmosphere and energy depe
 
     
 
-** [CO2RR] Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction
+** Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390640110
 :DOI: https://doi.org/10.1016/j.apsusc.2023.159243
@@ -194,7 +195,7 @@ Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction r
 
     
 
-** [CO2RR] Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide
+** Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546350
 :DOI: https://doi.org/10.1016/j.jelechem.2023.118007
@@ -218,7 +219,7 @@ Electrochemical CO2 reduction is considered a promising solution to mitigate the
 
     
 
-** [CO2RR] Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis
+** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511855
 :DOI: https://doi.org/10.1038/s41467-023-44131-z
@@ -242,7 +243,7 @@ Abstract Despite the recent achievements in urea electrosynthesis from co-reduct
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390498837
 :DOI: https://doi.org/10.1002/anie.202317828
@@ -266,7 +267,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390510987
 :DOI: https://doi.org/10.1002/ange.202317828
@@ -290,7 +291,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles
+** Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587795
 :DOI: https://doi.org/10.1016/j.cej.2023.148497
@@ -314,7 +315,7 @@ Tailoring catalytic reaction pathways by using reduced graphene oxide (rGO) to t
 
     
 
-** [CO2RR] Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction
+** Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561417
 :DOI: https://doi.org/10.1002/adfm.202312589
@@ -338,7 +339,7 @@ Abstract Single‐atom catalysts possess great potential for applications in ele
 
     
 
-** [CO2RR] Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs
+** Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs   
 :PROPERTIES:
 :ID: https://openalex.org/W4390516009
 :DOI: https://doi.org/10.1007/978-3-031-46109-5_11
@@ -362,7 +363,7 @@ The utilization of biochar is often heralded as a salient approach to curtailing
 
     
 
-** [CO2RR] Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time
+** Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time   
 :PROPERTIES:
 :ID: https://openalex.org/W4390628599
 :DOI: https://doi.org/10.21273/hortsci17522-23
@@ -386,7 +387,7 @@ Compared with the ambient Earth carbon dioxide concentration (≈415 μmol⋅mol
 
     
 
-** [CO2RR] Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study
+** Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study   
 :PROPERTIES:
 :ID: https://openalex.org/W4390616016
 :DOI: https://doi.org/10.52843/cassyni.z0lx6v
@@ -410,7 +411,7 @@ The increasing global demand for renewable energy sources underscores the signif
 
     
 
-** [CO2RR] Influence of tillage methods on carbon dioxide emissions in spring wheat crops
+** Influence of tillage methods on carbon dioxide emissions in spring wheat crops   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539980
 :DOI: https://doi.org/10.1051/bioconf/20248206006
@@ -434,7 +435,7 @@ The agriculture intensification is associated with an increase in anthropogenic 
 
     
 
-** [CO2RR] Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry
+** Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629371
 :DOI: https://doi.org/10.1016/j.esd.2023.101373
@@ -458,7 +459,7 @@ The coal-based energy consumption structure has led to high coal consumption and
 
     
 
-** [CO2RR] Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan
+** Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390493887
 :DOI: https://doi.org/10.1109/itecasia-pacific59272.2023.10372344
@@ -482,7 +483,7 @@ In recent years, achieving a decarbonized society has necessitated reducing gree
 
     
 
-** [CO2RR] Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake
+** Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549867
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378724
@@ -506,7 +507,7 @@ The development of floating photovoltaic systems in Romania can help to the shar
 
     
 
-** [CO2RR] Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling
+** Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling   
 :PROPERTIES:
 :ID: https://openalex.org/W4390496277
 :DOI: https://doi.org/10.1021/acsagscitech.3c00281
@@ -530,7 +531,7 @@ Traditional cooling strategies for greenhouses commonly result in significant el
 
     
 
-** [CO2RR] Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan
+** Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390592971
 :DOI: https://doi.org/10.3390/asec2023-15503
@@ -554,7 +555,7 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** [CO2RR] Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects
+** Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588938
 :DOI: https://doi.org/10.1007/s40820-023-01276-2
@@ -578,7 +579,7 @@ Abstract Carbon dioxide conversion into valuable products using photocatalysis a
 
     
 
-** [CO2RR] Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food
+** Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502557
 :DOI: https://doi.org/10.20909/kopast.2023.29.3.181
@@ -602,7 +603,7 @@ In this study, we conducted a comparative life cycle assessment (LCA) of two dif
 
     
 
-** [CO2RR] Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine
+** Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine   
 :PROPERTIES:
 :ID: https://openalex.org/W4390495820
 :DOI: https://doi.org/10.15276/ej.03.2023.9
@@ -626,7 +627,7 @@ Reducing food losses and waste is of significant importance in a world where the
 
     
 
-** [CO2RR] ASTM Method for Inclusion Analysis of Prepared Green Steel
+** ASTM Method for Inclusion Analysis of Prepared Green Steel   
 :PROPERTIES:
 :ID: https://openalex.org/W4390606734
 :DOI: https://doi.org/10.1109/icmeas58693.2023.10379397
@@ -650,7 +651,7 @@ In the present situation, steel-making industries have turned their attention to
 
     
 
-** [CO2RR] Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground
+** Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563820
 :DOI: https://doi.org/10.5207/jieie.2023.37.6.043
@@ -674,7 +675,7 @@ Recently, policies such as expansion of distributed power sources, and transitio
 
     
 
-** [CO2RR] Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources
+** Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541888
 :DOI: https://doi.org/10.1007/978-3-031-51127-1_46
@@ -698,7 +699,7 @@ This article describes the objects of the first category of power supply in the 
 
     
 
-** [CO2RR] Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines
+** Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549811
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378725
@@ -722,7 +723,7 @@ The steady increase in transport needs worldwide, especially in areas with dense
 
     
 
-** [CO2RR] A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery
+** A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561537
 :DOI: https://doi.org/10.20944/preprints202401.0200.v1
@@ -746,7 +747,7 @@ Exploring effective oxygen reduction reaction (ORR) electrocatalysts is crucial 
 
     
 
-** [CO2RR] Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor
+** Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor   
 :PROPERTIES:
 :ID: https://openalex.org/W4390574119
 :DOI: https://doi.org/10.1088/1361-6439/ad1b1c
@@ -770,7 +771,7 @@ Abstract The rising concerns about CO 2 levels in the atmosphere and energy depe
 
     
 
-** [CO2RR] Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction
+** Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390640110
 :DOI: https://doi.org/10.1016/j.apsusc.2023.159243
@@ -794,7 +795,7 @@ Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction r
 
     
 
-** [CO2RR] Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide
+** Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546350
 :DOI: https://doi.org/10.1016/j.jelechem.2023.118007
@@ -818,7 +819,7 @@ Electrochemical CO2 reduction is considered a promising solution to mitigate the
 
     
 
-** [CO2RR] Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis
+** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511855
 :DOI: https://doi.org/10.1038/s41467-023-44131-z
@@ -842,7 +843,7 @@ Abstract Despite the recent achievements in urea electrosynthesis from co-reduct
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390498837
 :DOI: https://doi.org/10.1002/anie.202317828
@@ -866,7 +867,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390510987
 :DOI: https://doi.org/10.1002/ange.202317828
@@ -890,7 +891,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles
+** Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587795
 :DOI: https://doi.org/10.1016/j.cej.2023.148497
@@ -914,7 +915,7 @@ Tailoring catalytic reaction pathways by using reduced graphene oxide (rGO) to t
 
     
 
-** [CO2RR] Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction
+** Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561417
 :DOI: https://doi.org/10.1002/adfm.202312589
@@ -938,7 +939,7 @@ Abstract Single‐atom catalysts possess great potential for applications in ele
 
     
 
-** [CO2RR] Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs
+** Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs   
 :PROPERTIES:
 :ID: https://openalex.org/W4390516009
 :DOI: https://doi.org/10.1007/978-3-031-46109-5_11
@@ -962,7 +963,7 @@ The utilization of biochar is often heralded as a salient approach to curtailing
 
     
 
-** [CO2RR] Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time
+** Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time   
 :PROPERTIES:
 :ID: https://openalex.org/W4390628599
 :DOI: https://doi.org/10.21273/hortsci17522-23
@@ -986,7 +987,7 @@ Compared with the ambient Earth carbon dioxide concentration (≈415 μmol⋅mol
 
     
 
-** [CO2RR] Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study
+** Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study   
 :PROPERTIES:
 :ID: https://openalex.org/W4390616016
 :DOI: https://doi.org/10.52843/cassyni.z0lx6v
@@ -1010,7 +1011,7 @@ The increasing global demand for renewable energy sources underscores the signif
 
     
 
-** [CO2RR] Influence of tillage methods on carbon dioxide emissions in spring wheat crops
+** Influence of tillage methods on carbon dioxide emissions in spring wheat crops   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539980
 :DOI: https://doi.org/10.1051/bioconf/20248206006
@@ -1034,7 +1035,7 @@ The agriculture intensification is associated with an increase in anthropogenic 
 
     
 
-** [CO2RR] Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry
+** Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629371
 :DOI: https://doi.org/10.1016/j.esd.2023.101373
@@ -1058,7 +1059,7 @@ The coal-based energy consumption structure has led to high coal consumption and
 
     
 
-** [CO2RR] Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan
+** Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390493887
 :DOI: https://doi.org/10.1109/itecasia-pacific59272.2023.10372344
@@ -1082,7 +1083,7 @@ In recent years, achieving a decarbonized society has necessitated reducing gree
 
     
 
-** [CO2RR] Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake
+** Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549867
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378724
@@ -1106,7 +1107,7 @@ The development of floating photovoltaic systems in Romania can help to the shar
 
     
 
-** [CO2RR] Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling
+** Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling   
 :PROPERTIES:
 :ID: https://openalex.org/W4390496277
 :DOI: https://doi.org/10.1021/acsagscitech.3c00281
@@ -1130,7 +1131,7 @@ Traditional cooling strategies for greenhouses commonly result in significant el
 
     
 
-** [CO2RR] Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan
+** Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390592971
 :DOI: https://doi.org/10.3390/asec2023-15503
@@ -1154,7 +1155,7 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** [CO2RR] Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects
+** Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588938
 :DOI: https://doi.org/10.1007/s40820-023-01276-2
@@ -1178,7 +1179,7 @@ Abstract Carbon dioxide conversion into valuable products using photocatalysis a
 
     
 
-** [CO2RR] Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food
+** Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502557
 :DOI: https://doi.org/10.20909/kopast.2023.29.3.181
@@ -1202,7 +1203,7 @@ In this study, we conducted a comparative life cycle assessment (LCA) of two dif
 
     
 
-** [CO2RR] Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine
+** Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine   
 :PROPERTIES:
 :ID: https://openalex.org/W4390495820
 :DOI: https://doi.org/10.15276/ej.03.2023.9
@@ -1226,7 +1227,7 @@ Reducing food losses and waste is of significant importance in a world where the
 
     
 
-** [CO2RR] ASTM Method for Inclusion Analysis of Prepared Green Steel
+** ASTM Method for Inclusion Analysis of Prepared Green Steel   
 :PROPERTIES:
 :ID: https://openalex.org/W4390606734
 :DOI: https://doi.org/10.1109/icmeas58693.2023.10379397
@@ -1250,7 +1251,7 @@ In the present situation, steel-making industries have turned their attention to
 
     
 
-** [CO2RR] Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground
+** Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563820
 :DOI: https://doi.org/10.5207/jieie.2023.37.6.043
@@ -1274,7 +1275,7 @@ Recently, policies such as expansion of distributed power sources, and transitio
 
     
 
-** [CO2RR] Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources
+** Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541888
 :DOI: https://doi.org/10.1007/978-3-031-51127-1_46
@@ -1298,7 +1299,7 @@ This article describes the objects of the first category of power supply in the 
 
     
 
-** [CO2RR] Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines
+** Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549811
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378725
@@ -1322,7 +1323,7 @@ The steady increase in transport needs worldwide, especially in areas with dense
 
     
 
-** [CO2RR] A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery
+** A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561537
 :DOI: https://doi.org/10.20944/preprints202401.0200.v1
@@ -1346,7 +1347,7 @@ Exploring effective oxygen reduction reaction (ORR) electrocatalysts is crucial 
 
     
 
-** [CO2RR] Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor
+** Carbon dioxide reduction utilizing a bismuth halide perovskite as immobilized photocatalyst in a 3D printed microreactor   
 :PROPERTIES:
 :ID: https://openalex.org/W4390574119
 :DOI: https://doi.org/10.1088/1361-6439/ad1b1c
@@ -1370,7 +1371,7 @@ Abstract The rising concerns about CO 2 levels in the atmosphere and energy depe
 
     
 
-** [CO2RR] Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction
+** Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390640110
 :DOI: https://doi.org/10.1016/j.apsusc.2023.159243
@@ -1394,7 +1395,7 @@ Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction r
 
     
 
-** [CO2RR] Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide
+** Pd–Mo bimetallic catalysts for electrochemical reduction of carbon dioxide to carbon monoxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390546350
 :DOI: https://doi.org/10.1016/j.jelechem.2023.118007
@@ -1418,7 +1419,7 @@ Electrochemical CO2 reduction is considered a promising solution to mitigate the
 
     
 
-** [CO2RR] Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis
+** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511855
 :DOI: https://doi.org/10.1038/s41467-023-44131-z
@@ -1442,7 +1443,7 @@ Abstract Despite the recent achievements in urea electrosynthesis from co-reduct
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390498837
 :DOI: https://doi.org/10.1002/anie.202317828
@@ -1466,7 +1467,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water
+** Immobilized Tetraalkylammonium Cations Enable Metal‐free CO2 Electroreduction in Acid and Pure Water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390510987
 :DOI: https://doi.org/10.1002/ange.202317828
@@ -1490,7 +1491,7 @@ Carbon dioxide reduction reaction (CO2RR) provides an efficient pathway to conve
 
     
 
-** [CO2RR] Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles
+** Regulating CHO* intermediate pathway towards the significant acceleration of photocatalytic CO2 reduction to CH4 through rGO-coated ultrafine Pd nanoparticles   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587795
 :DOI: https://doi.org/10.1016/j.cej.2023.148497
@@ -1514,7 +1515,7 @@ Tailoring catalytic reaction pathways by using reduced graphene oxide (rGO) to t
 
     
 
-** [CO2RR] Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction
+** Ultra‐Fast Pulsed Discharge Preparation of Coordinatively Unsaturated Asymmetric Copper Single‐Atom Catalysts for CO<sub>2</sub> Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561417
 :DOI: https://doi.org/10.1002/adfm.202312589
@@ -1538,7 +1539,7 @@ Abstract Single‐atom catalysts possess great potential for applications in ele
 
     
 
-** [CO2RR] Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs
+** Investigating the Impacts of Biochar Addition to Substrate on Mitigating Carbon Dioxide Emissions in Green Roofs   
 :PROPERTIES:
 :ID: https://openalex.org/W4390516009
 :DOI: https://doi.org/10.1007/978-3-031-46109-5_11
@@ -1562,7 +1563,7 @@ The utilization of biochar is often heralded as a salient approach to curtailing
 
     
 
-** [CO2RR] Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time
+** Mustard ‘Amara’ Benefits from Superelevated CO2 While Adapting to Far-red Light Over Time   
 :PROPERTIES:
 :ID: https://openalex.org/W4390628599
 :DOI: https://doi.org/10.21273/hortsci17522-23
@@ -1586,7 +1587,7 @@ Compared with the ambient Earth carbon dioxide concentration (≈415 μmol⋅mol
 
     
 
-** [CO2RR] Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study
+** Solar Water Heating: Comprehensive Review, Critical Analysis and Case Study   
 :PROPERTIES:
 :ID: https://openalex.org/W4390616016
 :DOI: https://doi.org/10.52843/cassyni.z0lx6v
@@ -1610,7 +1611,7 @@ The increasing global demand for renewable energy sources underscores the signif
 
     
 
-** [CO2RR] Influence of tillage methods on carbon dioxide emissions in spring wheat crops
+** Influence of tillage methods on carbon dioxide emissions in spring wheat crops   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539980
 :DOI: https://doi.org/10.1051/bioconf/20248206006
@@ -1634,7 +1635,7 @@ The agriculture intensification is associated with an increase in anthropogenic 
 
     
 
-** [CO2RR] Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry
+** Research on the coal saving and emission reduction potential of advanced technologies in China's iron and steel industry   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629371
 :DOI: https://doi.org/10.1016/j.esd.2023.101373
@@ -1658,7 +1659,7 @@ The coal-based energy consumption structure has led to high coal consumption and
 
     
 
-** [CO2RR] Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan
+** Optimal Operation of On-Grid Park &amp; Ride EV Parking Station Considering Dynamic Pricing in Japan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390493887
 :DOI: https://doi.org/10.1109/itecasia-pacific59272.2023.10372344
@@ -1682,7 +1683,7 @@ In recent years, achieving a decarbonized society has necessitated reducing gree
 
     
 
-** [CO2RR] Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake
+** Ecological Impact versus Energy Generation by Floating Photovoltaic Power Plant for a Small Romanian Lake   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549867
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378724
@@ -1706,7 +1707,7 @@ The development of floating photovoltaic systems in Romania can help to the shar
 
     
 
-** [CO2RR] Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling
+** Near-Infrared Reflective Greenhouse Covering: A Novel Strategy for Electricity-Free Cooling   
 :PROPERTIES:
 :ID: https://openalex.org/W4390496277
 :DOI: https://doi.org/10.1021/acsagscitech.3c00281
@@ -1730,7 +1731,7 @@ Traditional cooling strategies for greenhouses commonly result in significant el
 
     
 
-** [CO2RR] Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan
+** Evaluation of Potential Carbon Dioxide Utilization Pathways in Uzbekistan   
 :PROPERTIES:
 :ID: https://openalex.org/W4390592971
 :DOI: https://doi.org/10.3390/asec2023-15503
@@ -1754,7 +1755,7 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** [CO2RR] Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects
+** Cu-Based Materials for Enhanced C2+ Product Selectivity in Photo-/Electro-Catalytic CO2 Reduction: Challenges and Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390588938
 :DOI: https://doi.org/10.1007/s40820-023-01276-2
@@ -1778,7 +1779,7 @@ Abstract Carbon dioxide conversion into valuable products using photocatalysis a
 
     
 
-** [CO2RR] Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food
+** Comparative Life Cycle Assessment of Reusable and Disposable Distribution Packaging for Fresh Food   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502557
 :DOI: https://doi.org/10.20909/kopast.2023.29.3.181
@@ -1802,7 +1803,7 @@ In this study, we conducted a comparative life cycle assessment (LCA) of two dif
 
     
 
-** [CO2RR] Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine
+** Analysis of the Current Situation and Measures to Prevent Food Loss and Food Waste in Ukraine   
 :PROPERTIES:
 :ID: https://openalex.org/W4390495820
 :DOI: https://doi.org/10.15276/ej.03.2023.9
@@ -1826,7 +1827,7 @@ Reducing food losses and waste is of significant importance in a world where the
 
     
 
-** [CO2RR] ASTM Method for Inclusion Analysis of Prepared Green Steel
+** ASTM Method for Inclusion Analysis of Prepared Green Steel   
 :PROPERTIES:
 :ID: https://openalex.org/W4390606734
 :DOI: https://doi.org/10.1109/icmeas58693.2023.10379397
@@ -1850,7 +1851,7 @@ In the present situation, steel-making industries have turned their attention to
 
     
 
-** [CO2RR] Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground
+** Pole to Ground Fault Detection Using Leakage Current for DC Distribution System with IT ground   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563820
 :DOI: https://doi.org/10.5207/jieie.2023.37.6.043
@@ -1874,7 +1875,7 @@ Recently, policies such as expansion of distributed power sources, and transitio
 
     
 
-** [CO2RR] Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources
+** Provision of Reliable Power Supply for the First Category of Consumers Because of Renewable Energy Sources   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541888
 :DOI: https://doi.org/10.1007/978-3-031-51127-1_46
@@ -1898,7 +1899,7 @@ This article describes the objects of the first category of power supply in the 
 
     
 
-** [CO2RR] Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines
+** Effects of Isopropanol Additive on Exhaust Emissions in Gasoline Engines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390549811
 :DOI: https://doi.org/10.1109/ciees58940.2023.10378725
@@ -1922,7 +1923,7 @@ The steady increase in transport needs worldwide, especially in areas with dense
 
     
 
-** [CO2RR] A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery
+** A Synergistic Dual-Functional Silver-Manganese Dioxide-CNTs Ternary Composite Electrocatalyst for Solid-State Zinc-Air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390561537
 :DOI: https://doi.org/10.20944/preprints202401.0200.v1

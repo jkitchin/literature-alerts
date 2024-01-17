@@ -1,8 +1,9 @@
+#+filetags: liquid-metal
 #+TITLE: liquid-metal
-Created on Wed Jan 17 00:41:46 2024
+Created on Wed Jan 17 13:18:12 2024
 
 Results from 2024-01-03 to 2024-01-17
-** [liquid-metal] Liquid Metal Catalysis
+** Liquid Metal Catalysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390621338
 :DOI: https://doi.org/10.1007/978-981-19-2797-3_48-1
@@ -26,7 +27,7 @@ With the rapid growth of the world population and the continuous shortage of res
 
     
 
-** [liquid-metal] Intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite for catalytic liquid-phase oxidation of phenol using H2O2
+** Intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite for catalytic liquid-phase oxidation of phenol using H2O2   
 :PROPERTIES:
 :ID: https://openalex.org/W4390605526
 :DOI: https://doi.org/10.55730/1300-0527.3630
@@ -50,7 +51,7 @@ The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmori
 
     
 
-** [liquid-metal] Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters
+** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
 :PROPERTIES:
 :ID: https://openalex.org/W4390637146
 :DOI: https://doi.org/10.1002/anie.202317594
@@ -74,7 +75,7 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 
     
 
-** [liquid-metal] Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters
+** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
 :PROPERTIES:
 :ID: https://openalex.org/W4390637288
 :DOI: https://doi.org/10.1002/ange.202317594
@@ -98,7 +99,7 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 
     
 
-** [liquid-metal] CuNiZn vs CuZn Electrodes: Electrochemical CO<sub>2</sub> Reduction, Role of Metal Elements, and Insights for C–C Coupling Chemistry
+** CuNiZn vs CuZn Electrodes: Electrochemical CO<sub>2</sub> Reduction, Role of Metal Elements, and Insights for C–C Coupling Chemistry   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563376
 :DOI: https://doi.org/10.1021/acsaem.3c02550
@@ -122,7 +123,7 @@ Exploring bi- and trimetallic catalysts in electrochemical CO2 reduction (EC CO2
 
     
 
-** [liquid-metal] Nickel Carbide Nanoparticle Catalyst for Selective Hydrogenation of Nitriles to Primary Amines
+** Nickel Carbide Nanoparticle Catalyst for Selective Hydrogenation of Nitriles to Primary Amines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615119
 :DOI: https://doi.org/10.1002/chem.202303573
@@ -146,7 +147,7 @@ Despite its unique physicochemical properties, the catalytic application of nick
 
     
 
-** [liquid-metal] Ionic liquid dopant induced 3D hierarchical CuO nanostructures with doped heteroatoms and highly dispersed Ag for electrochemical upgrading of 5-hydroxymethylfurfural
+** Ionic liquid dopant induced 3D hierarchical CuO nanostructures with doped heteroatoms and highly dispersed Ag for electrochemical upgrading of 5-hydroxymethylfurfural   
 :PROPERTIES:
 :ID: https://openalex.org/W4390636084
 :DOI: https://doi.org/10.1016/j.cej.2024.148580
@@ -170,7 +171,7 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
 
     
 
-** [liquid-metal] Plasma-Catalyzed One-Step Synthesis of Alcohols from CO<sub>2</sub> over Cu/γ-Al<sub>2</sub>O<sub>3</sub> Catalyst
+** Plasma-Catalyzed One-Step Synthesis of Alcohols from CO<sub>2</sub> over Cu/γ-Al<sub>2</sub>O<sub>3</sub> Catalyst   
 :PROPERTIES:
 :ID: https://openalex.org/W4390512127
 :DOI: https://doi.org/10.1021/acs.iecr.3c03600
@@ -194,7 +195,7 @@ The direct conversion of CO2 and CH4 into value-added chemicals at room temperat
 
     
 
-** [liquid-metal] Uncovering the Synergy between Gold and Sodium on ZrO2 for Boosting the Reverse Water Gas Shift Reaction: In-Situ Spectroscopic Investigations
+** Uncovering the Synergy between Gold and Sodium on ZrO2 for Boosting the Reverse Water Gas Shift Reaction: In-Situ Spectroscopic Investigations   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570953
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123685
@@ -218,7 +219,7 @@ CO2 conversion to CO via the reverse water-gas shift (RWGS) reaction is a promis
 
     
 
-** [liquid-metal] Construction of novel surfactant-modified metal-organic framework adenine-UiO-66 with enhanced piezocatalytic degradation of diclofenac sodium
+** Construction of novel surfactant-modified metal-organic framework adenine-UiO-66 with enhanced piezocatalytic degradation of diclofenac sodium   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511654
 :DOI: https://doi.org/10.1016/j.solidstatesciences.2024.107436
@@ -242,7 +243,7 @@ Piezoelectric materials can harvest mechanical energy and convert it into electr
 
     
 
-** [liquid-metal] A heterogeneously activated peroxymonosulfate with a Co and Cu codoped bimetallic metal-organic framework efficiently degrades tetracycline in water
+** A heterogeneously activated peroxymonosulfate with a Co and Cu codoped bimetallic metal-organic framework efficiently degrades tetracycline in water   
 :PROPERTIES:
 :ID: https://openalex.org/W4390495200
 :DOI: https://doi.org/10.1016/j.mcat.2023.113817
@@ -266,7 +267,7 @@ In the study presented in this paper, a cobalt and copper codoped bimetallic met
 
     
 
-** [liquid-metal] The role of added oxidising agents in assisting the photocatalytic treatment of olive mill wastewater using a metal-free g-C3N4 optical semiconductor
+** The role of added oxidising agents in assisting the photocatalytic treatment of olive mill wastewater using a metal-free g-C3N4 optical semiconductor   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629322
 :DOI: https://doi.org/10.1016/j.jwpe.2023.104722
@@ -290,7 +291,7 @@ Olive mill wastewaters (OMW) consist of high organic contents and are harmful to
 
     
 
-** [liquid-metal] Solid-state <sup>13</sup>C-NMR spectroscopic determination of side-chain mobilities in zirconium-based metal–organic frameworks
+** Solid-state <sup>13</sup>C-NMR spectroscopic determination of side-chain mobilities in zirconium-based metal–organic frameworks   
 :PROPERTIES:
 :ID: https://openalex.org/W4390612169
 :DOI: https://doi.org/10.5194/mr-5-1-2024
@@ -314,7 +315,7 @@ Abstract. Porous interpenetrated zirconium–organic frameworks (PIZOFs) are a c
 
     
 
-** [liquid-metal] Organic Peroxides
+** Organic Peroxides   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499589
 :DOI: https://doi.org/10.1002/0471125474.tox084.pub3

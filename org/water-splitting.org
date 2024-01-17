@@ -1,8 +1,9 @@
+#+filetags: water_splitting
 #+TITLE: water splitting
-Created on Wed Jan 17 00:41:42 2024
+Created on Wed Jan 17 13:18:09 2024
 
 Results from 2024-01-03 to 2024-01-17
-** [water splitting] The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities
+** The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490151
 :DOI: https://doi.org/10.1021/acs.jpclett.3c02938
@@ -26,7 +27,7 @@ The oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are 
 
     
 
-** [water splitting] Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency
+** Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490585
 :DOI: https://doi.org/10.2139/ssrn.4682210
@@ -50,7 +51,7 @@ No abstract
 
     
 
-** [water splitting] Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers
+** Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499484
 :DOI: https://doi.org/10.1038/s41467-023-44483-6
@@ -74,7 +75,7 @@ Abstract Although the acidic oxygen evolution reaction (OER) plays a crucial rol
 
     
 
-** [water splitting] TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION
+** TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION   
 :PROPERTIES:
 :ID: https://openalex.org/W4390501168
 :DOI: https://doi.org/10.6036/10907
@@ -98,7 +99,7 @@ Electrolysis is a chemical process that uses electric current to carry out chemi
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -122,7 +123,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -146,7 +147,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -170,7 +171,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting
+** Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390504049
 :DOI: https://doi.org/10.1002/cnl2.105
@@ -194,7 +195,7 @@ Abstract The development of advanced technology for producing high‐purity and 
 
     
 
-** [water splitting] Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery
+** Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390507518
 :DOI: https://doi.org/10.1002/smll.202310660
@@ -218,7 +219,7 @@ Designing an efficient, durable, and inexpensive bifunctional electrocatalyst to
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -242,7 +243,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting
+** Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390512221
 :DOI: https://doi.org/10.1021/acsami.3c15769
@@ -266,7 +267,7 @@ It remains a tremendous challenge to achieve high-efficiency bifunctional electr
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521279
 :DOI: https://doi.org/10.1002/ange.202316029
@@ -290,7 +291,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -314,7 +315,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution
+** Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521563
 :DOI: https://doi.org/10.1039/d3dt04104b
@@ -338,7 +339,7 @@ Strengthening the separation of photogenerated charge carriers is crucial for im
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521670
 :DOI: https://doi.org/10.1002/anie.202316029
@@ -362,7 +363,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis
+** Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390532166
 :DOI: https://doi.org/10.1016/j.apsusc.2024.159296
@@ -386,7 +387,7 @@ High oxygen evolution overpotential and low corrosion resistance are regarded as
 
     
 
-** [water splitting] Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting
+** Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390535943
 :DOI: https://doi.org/10.1039/d3cc05444f
@@ -410,7 +411,7 @@ S-doped nickel molybdate nanorods grown on nickel foam (S-NiMoO4/NF) was fabrica
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -434,7 +435,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting
+** A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390537696
 :DOI: https://doi.org/10.1039/d3nj04536f
@@ -458,7 +459,7 @@ Highly efficient MoO x /Fe 2 O 3 photoanodes are constructed with rich vacancies
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -482,7 +483,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects
+** Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539667
 :DOI: https://doi.org/10.1002/cctc.202301241
@@ -506,7 +507,7 @@ Hydrogen production by electrochemical water splitting is a very potential techn
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -530,7 +531,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation
+** Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390543671
 :DOI: https://doi.org/10.1021/acssuschemeng.3c07364
@@ -554,7 +555,7 @@ Rational construction of efficient and stable transition-metal (TM)-based electr
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -578,7 +579,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -602,7 +603,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities
+** The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490151
 :DOI: https://doi.org/10.1021/acs.jpclett.3c02938
@@ -626,7 +627,7 @@ The oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are 
 
     
 
-** [water splitting] Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency
+** Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490585
 :DOI: https://doi.org/10.2139/ssrn.4682210
@@ -650,7 +651,7 @@ No abstract
 
     
 
-** [water splitting] Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers
+** Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499484
 :DOI: https://doi.org/10.1038/s41467-023-44483-6
@@ -674,7 +675,7 @@ Abstract Although the acidic oxygen evolution reaction (OER) plays a crucial rol
 
     
 
-** [water splitting] TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION
+** TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION   
 :PROPERTIES:
 :ID: https://openalex.org/W4390501168
 :DOI: https://doi.org/10.6036/10907
@@ -698,7 +699,7 @@ Electrolysis is a chemical process that uses electric current to carry out chemi
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -722,7 +723,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -746,7 +747,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -770,7 +771,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting
+** Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390504049
 :DOI: https://doi.org/10.1002/cnl2.105
@@ -794,7 +795,7 @@ Abstract The development of advanced technology for producing high‐purity and 
 
     
 
-** [water splitting] Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery
+** Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390507518
 :DOI: https://doi.org/10.1002/smll.202310660
@@ -818,7 +819,7 @@ Designing an efficient, durable, and inexpensive bifunctional electrocatalyst to
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -842,7 +843,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting
+** Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390512221
 :DOI: https://doi.org/10.1021/acsami.3c15769
@@ -866,7 +867,7 @@ It remains a tremendous challenge to achieve high-efficiency bifunctional electr
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521279
 :DOI: https://doi.org/10.1002/ange.202316029
@@ -890,7 +891,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -914,7 +915,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution
+** Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521563
 :DOI: https://doi.org/10.1039/d3dt04104b
@@ -938,7 +939,7 @@ Strengthening the separation of photogenerated charge carriers is crucial for im
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521670
 :DOI: https://doi.org/10.1002/anie.202316029
@@ -962,7 +963,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis
+** Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390532166
 :DOI: https://doi.org/10.1016/j.apsusc.2024.159296
@@ -986,7 +987,7 @@ High oxygen evolution overpotential and low corrosion resistance are regarded as
 
     
 
-** [water splitting] Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting
+** Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390535943
 :DOI: https://doi.org/10.1039/d3cc05444f
@@ -1010,7 +1011,7 @@ S-doped nickel molybdate nanorods grown on nickel foam (S-NiMoO4/NF) was fabrica
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -1034,7 +1035,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting
+** A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390537696
 :DOI: https://doi.org/10.1039/d3nj04536f
@@ -1058,7 +1059,7 @@ Highly efficient MoO x /Fe 2 O 3 photoanodes are constructed with rich vacancies
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -1082,7 +1083,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects
+** Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539667
 :DOI: https://doi.org/10.1002/cctc.202301241
@@ -1106,7 +1107,7 @@ Hydrogen production by electrochemical water splitting is a very potential techn
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -1130,7 +1131,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation
+** Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390543671
 :DOI: https://doi.org/10.1021/acssuschemeng.3c07364
@@ -1154,7 +1155,7 @@ Rational construction of efficient and stable transition-metal (TM)-based electr
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -1178,7 +1179,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -1202,7 +1203,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities
+** The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490151
 :DOI: https://doi.org/10.1021/acs.jpclett.3c02938
@@ -1226,7 +1227,7 @@ The oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are 
 
     
 
-** [water splitting] Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency
+** Electrochemical Waste Salty Water Treatment with Sodium Hypochlorite By-Product and Oxygen Cathode to Reinforce Energy Efficiency   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490585
 :DOI: https://doi.org/10.2139/ssrn.4682210
@@ -1250,7 +1251,7 @@ No abstract
 
     
 
-** [water splitting] Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers
+** Tensile straining of iridium sites in manganese oxides for proton-exchange membrane water electrolysers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390499484
 :DOI: https://doi.org/10.1038/s41467-023-44483-6
@@ -1274,7 +1275,7 @@ Abstract Although the acidic oxygen evolution reaction (OER) plays a crucial rol
 
     
 
-** [water splitting] TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION
+** TECHNOLOGICAL EVOLUTION OF ELECTROLIZERS FOR HYDROGEN PRODUCTION   
 :PROPERTIES:
 :ID: https://openalex.org/W4390501168
 :DOI: https://doi.org/10.6036/10907
@@ -1298,7 +1299,7 @@ Electrolysis is a chemical process that uses electric current to carry out chemi
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -1322,7 +1323,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -1346,7 +1347,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -1370,7 +1371,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting
+** Recent advances and perspective on transition metal heterogeneous catalysts for efficient electrochemical water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390504049
 :DOI: https://doi.org/10.1002/cnl2.105
@@ -1394,7 +1395,7 @@ Abstract The development of advanced technology for producing high‐purity and 
 
     
 
-** [water splitting] Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery
+** Plasma‐Engineering of Oxygen Vacancies on NiCo<sub>2</sub>O<sub>4</sub> Nanowires with Enhanced Bifunctional Electrocatalytic Performance for Rechargeable Zinc‐air Battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390507518
 :DOI: https://doi.org/10.1002/smll.202310660
@@ -1418,7 +1419,7 @@ Designing an efficient, durable, and inexpensive bifunctional electrocatalyst to
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -1442,7 +1443,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting
+** Nickel Nanoparticles Protruding from Molybdenum Carbide Micropillars with Carbon Layer-Protected Biphasic 0D/1D Heterostructures for Efficient Water Splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390512221
 :DOI: https://doi.org/10.1021/acsami.3c15769
@@ -1466,7 +1467,7 @@ It remains a tremendous challenge to achieve high-efficiency bifunctional electr
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521279
 :DOI: https://doi.org/10.1002/ange.202316029
@@ -1490,7 +1491,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -1514,7 +1515,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution
+** Synergistic optimization of triple phase junctions and oxygen vacancies over Mn<sub>x</sub>Cd<sub>1-x</sub>S/Ov-WO<sub>3</sub> for boosting photocatalytic hydrogen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521563
 :DOI: https://doi.org/10.1039/d3dt04104b
@@ -1538,7 +1539,7 @@ Strengthening the separation of photogenerated charge carriers is crucial for im
 
     
 
-** [water splitting] Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution
+** Strain‐Modulated Ru‐O Covalency in Ru‐Sn Oxide Enabling Efficient and Stable Water Oxidation in Acidic Solution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521670
 :DOI: https://doi.org/10.1002/anie.202316029
@@ -1562,7 +1563,7 @@ RuO2 is one of the benchmark electrocatalysts used as the anode material in prot
 
     
 
-** [water splitting] Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis
+** Fabrication of a highly active β-PbO2-Co3O4 electrode for zinc electrowinning by pulse electrodeposition: Characterization and catalytic performance analysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390532166
 :DOI: https://doi.org/10.1016/j.apsusc.2024.159296
@@ -1586,7 +1587,7 @@ High oxygen evolution overpotential and low corrosion resistance are regarded as
 
     
 
-** [water splitting] Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting
+** Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390535943
 :DOI: https://doi.org/10.1039/d3cc05444f
@@ -1610,7 +1611,7 @@ S-doped nickel molybdate nanorods grown on nickel foam (S-NiMoO4/NF) was fabrica
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -1634,7 +1635,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting
+** A highly efficient MoO<sub><i>x</i></sub>/Fe<sub>2</sub>O<sub>3</sub> photoanode with rich vacancies for photoelectrochemical O<sub>2</sub> evolution from water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390537696
 :DOI: https://doi.org/10.1039/d3nj04536f
@@ -1658,7 +1659,7 @@ Highly efficient MoO x /Fe 2 O 3 photoanodes are constructed with rich vacancies
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -1682,7 +1683,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects
+** Iron‐group Metal Compound Electrocatalysts for Efficient Hydrogen Production: Recent Advances and Future Prospects   
 :PROPERTIES:
 :ID: https://openalex.org/W4390539667
 :DOI: https://doi.org/10.1002/cctc.202301241
@@ -1706,7 +1707,7 @@ Hydrogen production by electrochemical water splitting is a very potential techn
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -1730,7 +1731,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation
+** Interfacial Electronic Redistribution via Anionic Modulator for Superb and Highly Stable Water/Seawater Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390543671
 :DOI: https://doi.org/10.1021/acssuschemeng.3c07364
@@ -1754,7 +1755,7 @@ Rational construction of efficient and stable transition-metal (TM)-based electr
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -1778,7 +1779,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -1802,7 +1803,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction
+** Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581925
 :DOI: https://doi.org/10.2139/ssrn.4683573
@@ -1826,7 +1827,7 @@ Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. https://doi.o
 
     
 
-** [water splitting] Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction
+** Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578149
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123682
@@ -1850,7 +1851,7 @@ Oxygen vacancy (VO) on semiconductor photoanode plays an important role in enhan
 
     
 
-** [water splitting] Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide
+** Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563400
 :DOI: https://doi.org/10.1016/j.rinma.2024.100527
@@ -1874,7 +1875,7 @@ In this research, due to the importance of oxygen evolution reactions (OER) in t
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -1898,7 +1899,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system
+** Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system   
 :PROPERTIES:
 :ID: https://openalex.org/W4390585721
 :DOI: https://doi.org/10.1016/j.jmst.2023.11.020
@@ -1922,7 +1923,7 @@ Seawater electrolysis is one most promising development directions for future hy
 
     
 
-** [water splitting] Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction
+** Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580498
 :DOI: https://doi.org/10.1016/j.ijhydene.2023.12.278
@@ -1946,7 +1947,7 @@ No abstract
 
     
 
-** [water splitting] Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance
+** Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615127
 :DOI: https://doi.org/10.1002/cctc.202301222
@@ -1970,7 +1971,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -1994,7 +1995,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -2018,7 +2019,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction
+** Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581550
 :DOI: https://doi.org/10.1016/j.jelechem.2024.118025
@@ -2042,7 +2043,7 @@ No abstract
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -2066,7 +2067,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance
+** Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629226
 :DOI: https://doi.org/10.1016/j.ijhydene.2024.01.012
@@ -2090,7 +2091,7 @@ Comprehensive previous studies on electrocatalysts have found that increasing th
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -2114,7 +2115,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution
+** Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577928
 :DOI: https://doi.org/10.1016/j.isci.2024.108788
@@ -2138,7 +2139,7 @@ No abstract
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -2162,7 +2163,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution
+** CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390618047
 :DOI: https://doi.org/10.1002/cssc.202301703
@@ -2186,7 +2187,7 @@ Exploration of greatly efficient and steady non‐noble oxygen evolution reactio
 
     
 
-** [water splitting] Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions
+** Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490605
 :DOI: https://doi.org/10.2139/ssrn.4682213
@@ -2210,7 +2211,7 @@ No abstract
 
     
 
-** [water splitting] Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism
+** Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism   
 :PROPERTIES:
 :ID: https://openalex.org/W4390604654
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100023
@@ -2234,7 +2235,7 @@ Electrochemical water splitting driven by renewable energy is a sustainable and 
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -2258,7 +2259,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -2282,7 +2283,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -2306,7 +2307,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)
+** Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582915
 :DOI: https://doi.org/10.1002/adma.202470001
@@ -2330,7 +2331,7 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
 
     
 
-** [water splitting] Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution
+** Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570762
 :DOI: https://doi.org/10.1016/j.jpowsour.2023.233903
@@ -2354,7 +2355,7 @@ Highly active and durable electrocatalysts for acidic oxygen evolution reaction 
 
     
 
-** [water splitting] A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide
+** A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577487
 :DOI: https://doi.org/10.1021/acs.energyfuels.3c04545
@@ -2378,7 +2379,7 @@ Binder-free nickel sulfide material grown on NF (NiS/NF) by a basic thermal sulf
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -2402,7 +2403,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction
+** Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581925
 :DOI: https://doi.org/10.2139/ssrn.4683573
@@ -2426,7 +2427,7 @@ Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. https://doi.o
 
     
 
-** [water splitting] Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction
+** Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578149
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123682
@@ -2450,7 +2451,7 @@ Oxygen vacancy (VO) on semiconductor photoanode plays an important role in enhan
 
     
 
-** [water splitting] Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide
+** Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563400
 :DOI: https://doi.org/10.1016/j.rinma.2024.100527
@@ -2474,7 +2475,7 @@ In this research, due to the importance of oxygen evolution reactions (OER) in t
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -2498,7 +2499,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system
+** Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system   
 :PROPERTIES:
 :ID: https://openalex.org/W4390585721
 :DOI: https://doi.org/10.1016/j.jmst.2023.11.020
@@ -2522,7 +2523,7 @@ Seawater electrolysis is one most promising development directions for future hy
 
     
 
-** [water splitting] Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction
+** Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580498
 :DOI: https://doi.org/10.1016/j.ijhydene.2023.12.278
@@ -2546,7 +2547,7 @@ No abstract
 
     
 
-** [water splitting] Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance
+** Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615127
 :DOI: https://doi.org/10.1002/cctc.202301222
@@ -2570,7 +2571,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -2594,7 +2595,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -2618,7 +2619,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction
+** Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581550
 :DOI: https://doi.org/10.1016/j.jelechem.2024.118025
@@ -2642,7 +2643,7 @@ No abstract
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -2666,7 +2667,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance
+** Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629226
 :DOI: https://doi.org/10.1016/j.ijhydene.2024.01.012
@@ -2690,7 +2691,7 @@ Comprehensive previous studies on electrocatalysts have found that increasing th
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -2714,7 +2715,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution
+** Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577928
 :DOI: https://doi.org/10.1016/j.isci.2024.108788
@@ -2738,7 +2739,7 @@ No abstract
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -2762,7 +2763,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution
+** CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390618047
 :DOI: https://doi.org/10.1002/cssc.202301703
@@ -2786,7 +2787,7 @@ Exploration of greatly efficient and steady non‐noble oxygen evolution reactio
 
     
 
-** [water splitting] Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions
+** Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490605
 :DOI: https://doi.org/10.2139/ssrn.4682213
@@ -2810,7 +2811,7 @@ No abstract
 
     
 
-** [water splitting] Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism
+** Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism   
 :PROPERTIES:
 :ID: https://openalex.org/W4390604654
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100023
@@ -2834,7 +2835,7 @@ Electrochemical water splitting driven by renewable energy is a sustainable and 
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -2858,7 +2859,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -2882,7 +2883,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -2906,7 +2907,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)
+** Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582915
 :DOI: https://doi.org/10.1002/adma.202470001
@@ -2930,7 +2931,7 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
 
     
 
-** [water splitting] Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution
+** Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570762
 :DOI: https://doi.org/10.1016/j.jpowsour.2023.233903
@@ -2954,7 +2955,7 @@ Highly active and durable electrocatalysts for acidic oxygen evolution reaction 
 
     
 
-** [water splitting] A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide
+** A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577487
 :DOI: https://doi.org/10.1021/acs.energyfuels.3c04545
@@ -2978,7 +2979,7 @@ Binder-free nickel sulfide material grown on NF (NiS/NF) by a basic thermal sulf
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -3002,7 +3003,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction
+** Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581925
 :DOI: https://doi.org/10.2139/ssrn.4683573
@@ -3026,7 +3027,7 @@ Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. https://doi.o
 
     
 
-** [water splitting] Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction
+** Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578149
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123682
@@ -3050,7 +3051,7 @@ Oxygen vacancy (VO) on semiconductor photoanode plays an important role in enhan
 
     
 
-** [water splitting] Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide
+** Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563400
 :DOI: https://doi.org/10.1016/j.rinma.2024.100527
@@ -3074,7 +3075,7 @@ In this research, due to the importance of oxygen evolution reactions (OER) in t
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -3098,7 +3099,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system
+** Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system   
 :PROPERTIES:
 :ID: https://openalex.org/W4390585721
 :DOI: https://doi.org/10.1016/j.jmst.2023.11.020
@@ -3122,7 +3123,7 @@ Seawater electrolysis is one most promising development directions for future hy
 
     
 
-** [water splitting] Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction
+** Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580498
 :DOI: https://doi.org/10.1016/j.ijhydene.2023.12.278
@@ -3146,7 +3147,7 @@ No abstract
 
     
 
-** [water splitting] Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance
+** Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615127
 :DOI: https://doi.org/10.1002/cctc.202301222
@@ -3170,7 +3171,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -3194,7 +3195,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -3218,7 +3219,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction
+** Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581550
 :DOI: https://doi.org/10.1016/j.jelechem.2024.118025
@@ -3242,7 +3243,7 @@ No abstract
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -3266,7 +3267,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance
+** Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629226
 :DOI: https://doi.org/10.1016/j.ijhydene.2024.01.012
@@ -3290,7 +3291,7 @@ Comprehensive previous studies on electrocatalysts have found that increasing th
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -3314,7 +3315,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution
+** Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577928
 :DOI: https://doi.org/10.1016/j.isci.2024.108788
@@ -3338,7 +3339,7 @@ No abstract
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -3362,7 +3363,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution
+** CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390618047
 :DOI: https://doi.org/10.1002/cssc.202301703
@@ -3386,7 +3387,7 @@ Exploration of greatly efficient and steady non‐noble oxygen evolution reactio
 
     
 
-** [water splitting] Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions
+** Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490605
 :DOI: https://doi.org/10.2139/ssrn.4682213
@@ -3410,7 +3411,7 @@ No abstract
 
     
 
-** [water splitting] Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism
+** Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism   
 :PROPERTIES:
 :ID: https://openalex.org/W4390604654
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100023
@@ -3434,7 +3435,7 @@ Electrochemical water splitting driven by renewable energy is a sustainable and 
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -3458,7 +3459,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -3482,7 +3483,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -3506,7 +3507,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)
+** Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582915
 :DOI: https://doi.org/10.1002/adma.202470001
@@ -3530,7 +3531,7 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
 
     
 
-** [water splitting] Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution
+** Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570762
 :DOI: https://doi.org/10.1016/j.jpowsour.2023.233903
@@ -3554,7 +3555,7 @@ Highly active and durable electrocatalysts for acidic oxygen evolution reaction 
 
     
 
-** [water splitting] A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide
+** A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577487
 :DOI: https://doi.org/10.1021/acs.energyfuels.3c04545
@@ -3578,7 +3579,7 @@ Binder-free nickel sulfide material grown on NF (NiS/NF) by a basic thermal sulf
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -3602,7 +3603,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction
+** Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581925
 :DOI: https://doi.org/10.2139/ssrn.4683573
@@ -3626,7 +3627,7 @@ Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. https://doi.o
 
     
 
-** [water splitting] Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction
+** Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578149
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123682
@@ -3650,7 +3651,7 @@ Oxygen vacancy (VO) on semiconductor photoanode plays an important role in enhan
 
     
 
-** [water splitting] Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide
+** Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563400
 :DOI: https://doi.org/10.1016/j.rinma.2024.100527
@@ -3674,7 +3675,7 @@ In this research, due to the importance of oxygen evolution reactions (OER) in t
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -3698,7 +3699,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system
+** Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system   
 :PROPERTIES:
 :ID: https://openalex.org/W4390585721
 :DOI: https://doi.org/10.1016/j.jmst.2023.11.020
@@ -3722,7 +3723,7 @@ Seawater electrolysis is one most promising development directions for future hy
 
     
 
-** [water splitting] Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction
+** Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580498
 :DOI: https://doi.org/10.1016/j.ijhydene.2023.12.278
@@ -3746,7 +3747,7 @@ No abstract
 
     
 
-** [water splitting] Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance
+** Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615127
 :DOI: https://doi.org/10.1002/cctc.202301222
@@ -3770,7 +3771,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -3794,7 +3795,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -3818,7 +3819,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction
+** Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581550
 :DOI: https://doi.org/10.1016/j.jelechem.2024.118025
@@ -3842,7 +3843,7 @@ No abstract
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -3866,7 +3867,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance
+** Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629226
 :DOI: https://doi.org/10.1016/j.ijhydene.2024.01.012
@@ -3890,7 +3891,7 @@ Comprehensive previous studies on electrocatalysts have found that increasing th
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -3914,7 +3915,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution
+** Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577928
 :DOI: https://doi.org/10.1016/j.isci.2024.108788
@@ -3938,7 +3939,7 @@ No abstract
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -3962,7 +3963,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution
+** CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390618047
 :DOI: https://doi.org/10.1002/cssc.202301703
@@ -3986,7 +3987,7 @@ Exploration of greatly efficient and steady non‐noble oxygen evolution reactio
 
     
 
-** [water splitting] Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions
+** Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490605
 :DOI: https://doi.org/10.2139/ssrn.4682213
@@ -4010,7 +4011,7 @@ No abstract
 
     
 
-** [water splitting] Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism
+** Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism   
 :PROPERTIES:
 :ID: https://openalex.org/W4390604654
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100023
@@ -4034,7 +4035,7 @@ Electrochemical water splitting driven by renewable energy is a sustainable and 
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -4058,7 +4059,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -4082,7 +4083,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -4106,7 +4107,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)
+** Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582915
 :DOI: https://doi.org/10.1002/adma.202470001
@@ -4130,7 +4131,7 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
 
     
 
-** [water splitting] Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution
+** Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570762
 :DOI: https://doi.org/10.1016/j.jpowsour.2023.233903
@@ -4154,7 +4155,7 @@ Highly active and durable electrocatalysts for acidic oxygen evolution reaction 
 
     
 
-** [water splitting] A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide
+** A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577487
 :DOI: https://doi.org/10.1021/acs.energyfuels.3c04545
@@ -4178,7 +4179,7 @@ Binder-free nickel sulfide material grown on NF (NiS/NF) by a basic thermal sulf
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
@@ -4202,7 +4203,7 @@ Abstract Enhancing both the number of active sites available and the intrinsic a
 
     
 
-** [water splitting] Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction
+** Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581925
 :DOI: https://doi.org/10.2139/ssrn.4683573
@@ -4226,7 +4227,7 @@ Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. https://doi.o
 
     
 
-** [water splitting] Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction
+** Unraveling oxygen vacancy changes of WO3 photoanodes for promoting oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390578149
 :DOI: https://doi.org/10.1016/j.apcatb.2023.123682
@@ -4250,7 +4251,7 @@ Oxygen vacancy (VO) on semiconductor photoanode plays an important role in enhan
 
     
 
-** [water splitting] Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide
+** Investigation of the effects of solvent on oxygen evolution reactions on the surface of magnesium oxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390563400
 :DOI: https://doi.org/10.1016/j.rinma.2024.100527
@@ -4274,7 +4275,7 @@ In this research, due to the importance of oxygen evolution reactions (OER) in t
 
     
 
-** [water splitting] Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts
+** Observing Long-lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390503850
 :DOI: https://doi.org/10.26434/chemrxiv-2024-14dr7
@@ -4298,7 +4299,7 @@ Steady-state and time-resolved spectroelectrochemical optical absorption techniq
 
     
 
-** [water splitting] Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system
+** Research and strategies for efficient electrocatalysts towards anodic oxygen evolution reaction in seawater electrolysis system   
 :PROPERTIES:
 :ID: https://openalex.org/W4390585721
 :DOI: https://doi.org/10.1016/j.jmst.2023.11.020
@@ -4322,7 +4323,7 @@ Seawater electrolysis is one most promising development directions for future hy
 
     
 
-** [water splitting] Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction
+** Cobalt-based CoSe/CoO heterostructure: A catalyst for efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580498
 :DOI: https://doi.org/10.1016/j.ijhydene.2023.12.278
@@ -4346,7 +4347,7 @@ No abstract
 
     
 
-** [water splitting] Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance
+** Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390615127
 :DOI: https://doi.org/10.1002/cctc.202301222
@@ -4370,7 +4371,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** [water splitting] Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting
+** Heterostructured NiTe/Ni2P nanoarrays as high-activity electrocatalysts for the oxygen evolution reaction in seawater splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390521444
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100018
@@ -4394,7 +4395,7 @@ Scale-up hydrogen production from natural seawater presents a promising avenue t
 
     
 
-** [water splitting] Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts
+** Synthesis of 3D CC/NCNF/NiFe LDH composites as highly active oxygen evolution reaction electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390511590
 :DOI: https://doi.org/10.1016/j.matlet.2024.135868
@@ -4418,7 +4419,7 @@ Nitrogen doped carbon nanofibers (NCNFs), which are grown on carbon cloth (CC) a
 
     
 
-** [water splitting] Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction
+** Facile fabrication of bismuth vanadate grafted carbon nanotubes composite for enhanced oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390581550
 :DOI: https://doi.org/10.1016/j.jelechem.2024.118025
@@ -4442,7 +4443,7 @@ No abstract
 
     
 
-** [water splitting] The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction
+** The electrocatalytic self-reconstruction of ultrathin 2D MOF nanoarrays supported on alloy foam improves the oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502892
 :DOI: https://doi.org/10.1016/j.colsurfa.2023.133136
@@ -4466,7 +4467,7 @@ Investigating the self-reconstruction process of MOF-supported electrodes is of 
 
     
 
-** [water splitting] Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance
+** Heterojunction construction via Fe-doped Ni0.85Se coupled with g-C3N4 for enhancing oxygen evolution reaction performance   
 :PROPERTIES:
 :ID: https://openalex.org/W4390629226
 :DOI: https://doi.org/10.1016/j.ijhydene.2024.01.012
@@ -4490,7 +4491,7 @@ Comprehensive previous studies on electrocatalysts have found that increasing th
 
     
 
-** [water splitting] A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution
+** A motif for B/O-site modulation in LaFeO<sub>3</sub> towards boosted oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390544116
 :DOI: https://doi.org/10.1039/d3nr05259a
@@ -4514,7 +4515,7 @@ Here, a series of transition metal (Ni) doped iron-based perovskite oxides LaFe 
 
     
 
-** [water splitting] Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution
+** Single-Atom Catalysts Supported on Two-Dimensional Tetragonal Transition Metal Chalcogenides for Hydrogen and Oxygen Evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577928
 :DOI: https://doi.org/10.1016/j.isci.2024.108788
@@ -4538,7 +4539,7 @@ No abstract
 
     
 
-** [water splitting] <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions
+** <i>In‐situ</i> Reconstruction of High‐Entropy Heterostructure Catalysts for Stable Oxygen Evolution Electrocatalysis Under Industrial Conditions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390545783
 :DOI: https://doi.org/10.1002/adma.202310918
@@ -4562,7 +4563,7 @@ Abstract Despite of urgent needs for highly stable and efficient electrochemical
 
     
 
-** [water splitting] CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution
+** CoO supported NiFe layered double hydroxide sandwich‐like nanosheets on hierarchical carbon framework for efficient electrocatalytic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390618047
 :DOI: https://doi.org/10.1002/cssc.202301703
@@ -4586,7 +4587,7 @@ Exploration of greatly efficient and steady non‐noble oxygen evolution reactio
 
     
 
-** [water splitting] Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions
+** Co-Ni Co-Sputter Deposited Bimetallic Thin Film Catalysts for Alkaline Hydrogen and Oxygen Evolution Reactions   
 :PROPERTIES:
 :ID: https://openalex.org/W4390490605
 :DOI: https://doi.org/10.2139/ssrn.4682213
@@ -4610,7 +4611,7 @@ No abstract
 
     
 
-** [water splitting] Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism
+** Atomically dispersed catalysts toward the oxygen evolution reaction in electrochemical water splitting: from catalyst design, performance to catalytic mechanism   
 :PROPERTIES:
 :ID: https://openalex.org/W4390604654
 :DOI: https://doi.org/10.1016/j.nxsust.2023.100023
@@ -4634,7 +4635,7 @@ Electrochemical water splitting driven by renewable energy is a sustainable and 
 
     
 
-** [water splitting] Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction
+** Immobilization of ferrocene and its derivatives within metal–organic frameworks with high loadings toward efficient oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390502506
 :DOI: https://doi.org/10.1039/d3dt02763e
@@ -4658,7 +4659,7 @@ The use of an appropriate preparation route is the key to immobilize active mole
 
     
 
-** [water splitting] In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts
+** In Situ Raman Study of Surface Reconstruction of FeOOH/Ni<sub>3</sub>S<sub>2</sub> Oxygen Evolution Reaction Electrocatalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390541310
 :DOI: https://doi.org/10.1002/smll.202309371
@@ -4682,7 +4683,7 @@ Abstract Construction of heterojunctions is an effective strategy to enhanced el
 
     
 
-** [water splitting] Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence
+** Synthesis of NiFe-layered double hydroxides using triethanolamine-complexed precursors as oxygen evolution reaction catalysts: effects of Fe valence   
 :PROPERTIES:
 :ID: https://openalex.org/W4390538157
 :DOI: https://doi.org/10.1039/d3dt03373b
@@ -4706,7 +4707,7 @@ The OER performance of NiFe-LDH-based electrocatalysts prepared using triethanol
 
     
 
-** [water splitting] Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)
+** Dynamically Adaptive Bubbling for Upgrading Oxygen Evolution Reaction Using Lamellar Fern‐Like Alloy Aerogel Self‐Standing Electrodes (Adv. Mater. 1/2024)   
 :PROPERTIES:
 :ID: https://openalex.org/W4390582915
 :DOI: https://doi.org/10.1002/adma.202470001
@@ -4730,7 +4731,7 @@ Oxygen Evolution Reaction In article number 2307925, Cheng Yang and co-workers d
 
     
 
-** [water splitting] Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution
+** Co3(hexaamino dipyrazinoquinoxaline)2: Highly conductive and robust two-dimensional Aza-based cobalt metal-organic framework as an efficient electrocatalyst for acidic oxygen evolution   
 :PROPERTIES:
 :ID: https://openalex.org/W4390570762
 :DOI: https://doi.org/10.1016/j.jpowsour.2023.233903
@@ -4754,7 +4755,7 @@ Highly active and durable electrocatalysts for acidic oxygen evolution reaction 
 
     
 
-** [water splitting] A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide
+** A Self-Supporting Electrode Material (NiS/NF) as a Stable and Efficient Electrocatalyst for Oxygen Evolution: <i>In Situ</i> Surface Activation of Nickel Sulfide to Nickel Oxide/(Oxy)hydroxide   
 :PROPERTIES:
 :ID: https://openalex.org/W4390577487
 :DOI: https://doi.org/10.1021/acs.energyfuels.3c04545
@@ -4778,7 +4779,7 @@ Binder-free nickel sulfide material grown on NF (NiS/NF) by a basic thermal sulf
 
     
 
-** [water splitting] Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation
+** Nano‐Au‐decorated hierarchical porous cobalt sulfide derived from ZIF‐67 toward optimized oxygen evolution catalysis: Important roles of microstructures and electronic modulation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390536130
 :DOI: https://doi.org/10.1002/cey2.432
