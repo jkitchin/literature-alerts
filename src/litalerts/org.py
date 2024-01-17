@@ -52,7 +52,7 @@ def write_org(topic, results):
         f.write(f'#+filetags: {topic["label"].replace(" ", "_")}\n')
         f.write(f'#+TITLE: {topic["label"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
-        f.write(f'Results from {topic["since"]} to {topic["today"]}\n')
+        f.write(f'Found {len(results)} results from {topic["since"]} to {topic["today"]}\n')
         f.write(s)
         
 
