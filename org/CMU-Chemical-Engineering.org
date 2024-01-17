@@ -1,14 +1,7 @@
 #+TITLE: CMU Chemical Engineering
+Created on Wed Jan 17 00:41:48 2024
 
-Created at Tue Jan 16 23:42:35 2024
-
-
-
-#+TITLE: CMU Chemical Engineering
-
-Created at Tue Jan 16 23:46:58 2024
-
-
+Results from 2024-01-03 to 2024-01-17
 ** [CMU Chemical Engineering] Multiscale analysis for the utilization of CO2 towards the production of chemicals at the country level: Case study of Spain
 :PROPERTIES:
 :ID: https://openalex.org/W4390500044
@@ -32,35 +25,3 @@ Guillermo Galán, Mariano Martín, Ignacio E. Grossmann, Journal of Cleaner Prod
 This work evaluates a systematic comparison between the production of methanol and methane using CO2 and renewable hydrogen. CO2 is captured from point and dilute sources using aqueous MEA solutions and a conventional DAC process. Hydrogen is obtained through water electrolysis, powered by PV panels and wind turbines. First, a techno-economic evaluation is developed to detail the characteristics of the production facilities and the renewable energy systems. Finally, a Facility Location Problem (FLP) is developed to determine the centralized and decentralized CO2 use in Spain. This supply network is formulated as a mixed-integer linear programming (MILP) problem, selecting the optimal amount of CO2 to capture, the number and location of the facilities, the distribution of the PV panels for a fixed available area in the territory, and the number of wind turbines across the 47 Spanish peninsular provinces. Methanol is the selected product, with prices between 1000–2600 €/tMethanol. MEA solutions are preferred over DAC. Methane production is also considered through decentralized CO2 capture due to abundant CO2 availability and high transportation costs. A sensitivity analysis was performed, obtaining prices from 18.97 to 20.36 €/MMBTU to 8.90–9.09 €/MMBTU in the years 2022 and 2050, covering 5 times the methane production for that period. The implementation of carbon taxes could lower methane prices to around 2–3 €/MMBTU by 2050, aligning closely with natural gas prices.    
 
     
-
-#+TITLE: CMU Chemical Engineering
-
-Created at Tue Jan 16 23:51:12 2024
-
-
-Results from 2024-01-02 to 2024-01-16
-
-** [CMU Chemical Engineering] Multiscale analysis for the utilization of CO2 towards the production of chemicals at the country level: Case study of Spain
-:PROPERTIES:
-:ID: https://openalex.org/W4390500044
-:DOI: https://doi.org/10.1016/j.jclepro.2023.140551
-:AUTHORS: Guillermo Galán, Mariano Martín, Ignacio E. Grossmann
-:HOST: Journal of Cleaner Production
-:END:
-
-Guillermo Galán, Mariano Martín, Ignacio E. Grossmann, Journal of Cleaner Production. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jclepro.2023.140551")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390500044"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390500044"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390500044"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390500044
-    
-Guillermo Galán, Mariano Martín, Ignacio E. Grossmann, Journal of Cleaner Production. https://doi.org/10.1016/j.jclepro.2023.140551
-    
-This work evaluates a systematic comparison between the production of methanol and methane using CO2 and renewable hydrogen. CO2 is captured from point and dilute sources using aqueous MEA solutions and a conventional DAC process. Hydrogen is obtained through water electrolysis, powered by PV panels and wind turbines. First, a techno-economic evaluation is developed to detail the characteristics of the production facilities and the renewable energy systems. Finally, a Facility Location Problem (FLP) is developed to determine the centralized and decentralized CO2 use in Spain. This supply network is formulated as a mixed-integer linear programming (MILP) problem, selecting the optimal amount of CO2 to capture, the number and location of the facilities, the distribution of the PV panels for a fixed available area in the territory, and the number of wind turbines across the 47 Spanish peninsular provinces. Methanol is the selected product, with prices between 1000–2600 €/tMethanol. MEA solutions are preferred over DAC. Methane production is also considered through decentralized CO2 capture due to abundant CO2 availability and high transportation costs. A sensitivity analysis was performed, obtaining prices from 18.97 to 20.36 €/MMBTU to 8.90–9.09 €/MMBTU in the years 2022 and 2050, covering 5 times the methane production for that period. The implementation of carbon taxes could lower methane prices to around 2–3 €/MMBTU by 2050, aligning closely with natural gas prices.    
-
-    
-
