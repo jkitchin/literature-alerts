@@ -3,8 +3,6 @@ from pathlib import Path
 import lxml.etree as etree
 from io import BytesIO
 import datetime
-import logging
-from logging.handlers import TimedRotatingFileHandler
 
 from .openalex import get_authors, get_abstract, get_host, get_citation
 
@@ -42,16 +40,10 @@ def write_rss(topic, results):
                 lastBuildDate = datetime.datetime.now(),
                 items=items)
 
-    rlogger = logging.getLogger("RSS +" + topic['label'])
-    rlogger.setLevel(logging.INFO)
-    rhandler = TimedRotatingFileHandler(rssfile,
-                                       when="w0",
-                                       interval=1)
-    rlogger.addHandler(rhandler)
-        
-    # this just pretty prints the file
     xml = etree.parse(BytesIO(f"{feed.rss()}".encode('utf-8')))
     pxml = etree.tostring(xml,
                           pretty_print=True).decode('utf-8')
-    rlogger.info(pxml)   
+    
+    with open(rssfile, 'w') as f:
+        f.write(pxml))   
     

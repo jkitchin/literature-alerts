@@ -1,10 +1,9 @@
 """Create org files."""
 import time
 from pathlib import Path
-import logging
-from logging.handlers import TimedRotatingFileHandler
 
 from .openalex import get_authors, get_abstract, get_host, get_citation
+
 
 def get_org_item(topic, result):
     """Get an org string for RESULT.
@@ -49,13 +48,11 @@ def write_org(topic, results):
     base = '-'.join(topic['label'].split())
     orgfile = Path('org') / (base + '.org')
 
-    ologger = logging.getLogger("ORG + " + topic['label'])
-    ologger.setLevel(logging.INFO)
-    ohandler = TimedRotatingFileHandler(orgfile,
-                                       when="w0",
-                                       interval=1)
-    ologger.addHandler(ohandler)
-    ologger.info(f'#+TITLE: {topic["label"]}\n')
-    ologger.info(f'Created at {time.asctime()}\n\n')
-    ologger.info(f'Results from {topic["since"]} to {topic["today"]}\n')
-    ologger.info(s)
+    with open(orgfile, 'w'): as f:
+        f.write(f'#+TITLE: {topic["label"]}\n')
+        f.write(f'Created at {time.asctime()}\n\n')
+        f.write(f'Results from {topic["since"]} to {topic["today"]}\n')
+        f.write(s)
+        
+
+    
