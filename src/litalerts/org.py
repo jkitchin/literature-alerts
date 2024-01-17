@@ -14,7 +14,7 @@ def get_org_item(topic, result):
     abstract = get_abstract(result)
     citation = get_citation(result)       
 
-    return f'''** [{topic["label"]}] {result['title']}
+    return f'''** {result['title']}   
 :PROPERTIES:
 :ID: {result['id']}
 :DOI: {result['doi']}
@@ -49,6 +49,7 @@ def write_org(topic, results):
     orgfile = Path('org') / (base + '.org')
 
     with open(orgfile, 'w') as f:
+        f.write(f'#+filetags: {{topic["label"]}.replace(" ", "_")}\n')
         f.write(f'#+TITLE: {topic["label"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
         f.write(f'Results from {topic["since"]} to {topic["today"]}\n')
