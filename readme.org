@@ -10,6 +10,13 @@ There is a Python package in [[./src/litalerts/]] that provides a CLI called ~li
 
 The results are written to the [[./org]] directory as org-files and it generates RSS feeds at [[./rss]].
 
+Here are some examples of what you might do with this:
+
+1. Replace Google/Scopus/Pubmed alerts (see https://github.com/jkitchin/literature-alerts/blob/main/org/CO2RR.org)
+2. Replace the Web Of Science report on citations to your work (see https://github.com/jkitchin/literature-alerts/blob/main/org/New-citations-for-John-Kitchin.org)
+3. Find out when a group of people publish something new (e.g. the CMU Chemical Engineering Department https://github.com/jkitchin/literature-alerts/blob/main/org/CMU-Chemical-Engineering.org)
+4. Get all new articles from a specific journal (see https://github.com/jkitchin/literature-alerts/blob/main/org/ACS-Catalysis.org)
+
 How do you use this? I have not developed the best way to use this myself yet. Here are some ways I think you could do it. 
 
 1. You could probably subscribe to the repo and get notified of updates.
