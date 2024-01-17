@@ -45,5 +45,5 @@ def write_rss(topic, results):
                           pretty_print=True).decode('utf-8')
     
     with open(rssfile, 'w') as f:
-        f.write(pxml))   
+        f.write(pxml)   
     
