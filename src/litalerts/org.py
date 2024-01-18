@@ -1,6 +1,7 @@
 """Create org files."""
 import time
 from pathlib import Path
+import urllib.parse
 
 from .openalex import get_authors, get_abstract, get_host, get_citation
 
@@ -56,7 +57,7 @@ def write_org(topic, results):
         f.write(f'Found {len(results)} results from {topic["since"]} to {topic["today"]}\n')
         f.write('OpenAlex URLS (not including from_created_date or the API key)\n')
         for _filter in topic['filter']:
-            f.write(f'- [[https://api.openalex.org/works?filter={_filter}]]\n')
+            f.write(f'- [[https://api.openalex.org/works?filter={urllib.parse.quote(_filter)}]]\n')
         f.write(s)
         
 
