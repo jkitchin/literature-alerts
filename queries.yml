@@ -1,3 +1,8 @@
+# queries.yml
+#
+# Each entry in queries should have a label and decription. These are used for
+# filenames and feed descriptions. The filter is a list of queries to perform.
+
 queries:
   - label: water splitting
     description: water splitting papers
@@ -55,4 +60,4 @@ queries:
   - label: Related papers for John Kitchin
     description: Related papers to my work
     filter:
-     - related_to:https://openalex.org/works/w4386602600|https://openalex.org/works/w4366983532|https://openalex.org/works/w4290659046
+     - related_to:https://openalex.org/works/w4386602600|https://openalex.org/works/w4366983532|https://openalex.org/works/w4290659046|https://openalex.org/works/w2167035995
