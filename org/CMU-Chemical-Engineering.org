@@ -1,11 +1,11 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jan 18 13:34:55 2024
+Created on Thu Jan 18 22:15:30 2024
 
-Found 3 results from 2024-01-04 to 2024-01-18
+Found 5 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)
-- https://api.openalex.org/works?filter=author.id:https://openalex.org/A5063320716|https://openalex.org/A5052825722|https://openalex.org/A5010387303|https://openalex.org/A5041685684|https://openalex.org/A5040842816|https://openalex.org/A5048633127|https://openalex.org/A5048485981|https://openalex.org/A5086004922|https://openalex.org/A5056017028|https://openalex.org/A5018420940|https://openalex.org/A5003442464|https://openalex.org/A5055700187|https://openalex.org/A5030631754|https://openalex.org/A5044695139|https://openalex.org/A5028498558|https://openalex.org/A5053252662|https://openalex.org/A5028147543|https://openalex.org/A5037506064|https://openalex.org/A5027983186|https://openalex.org/A5010666650
+- [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 ** Nitrate Radicals Suppress Biogenic New Particle Formation from Monoterpene Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390668739
@@ -30,6 +30,30 @@ Highly oxygenated organic molecules (HOMs) are a major source of new particles t
 
     
 
+** <i>Environmental Science: Atmospheres</i> is four and so much more   
+:PROPERTIES:
+:ID: https://openalex.org/W4390701128
+:DOI: https://doi.org/10.1039/d3ea90050a
+:AUTHORS: Neil M. Donahue
+:HOST: No host
+:END:
+
+Neil M. Donahue, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ea90050a")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390701128"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390701128"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390701128"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390701128
+    
+Neil M. Donahue, No host. https://doi.org/10.1039/d3ea90050a
+    
+Editor-in-Chief Neil Donahue reflects on the third year of Environmental Science: Atmospheres and looks ahead at the plans for year 4.    
+
+    
+
 ** Formation of secondary organic aerosol from wildfire emissions enhanced by long-time ageing   
 :PROPERTIES:
 :ID: https://openalex.org/W4390735401
@@ -49,6 +73,30 @@ Yuhong He, Bin Zhao, Yafei Wang, Richard Valorso, Xing Chang, Dejia Yin, Bo Feng
 OpenAlex: https://openalex.org/W4390735401
     
 Yuhong He, Bin Zhao, Yafei Wang, Richard Valorso, Xing Chang, Dejia Yin, Bo Feng, M. Camredon, Bernard Aumont, Abraham Dearden, Shantanu H. Jathar, Manish Shrivastava, Z. J. Jiang, C. D. Cappa, L. D. Yee, John H. Seinfeld, Jiming Hao, Neil M. Donahue, Nature Geoscience. https://doi.org/10.1038/s41561-023-01355-4
+    
+No abstract    
+
+    
+
+** A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture   
+:PROPERTIES:
+:ID: https://openalex.org/W4390833787
+:DOI: None
+:AUTHORS: Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui‐Kang, Héctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos
+:HOST: OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)
+:END:
+
+Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui‐Kang, Héctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.
+    
+[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390833787"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390833787"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390833787"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390833787
+    
+Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui‐Kang, Héctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None
     
 No abstract    
 

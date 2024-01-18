@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 13:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 22:15:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -15,7 +15,15 @@
                 Highly oxygenated organic molecules (HOMs) are a major source of new particles that affect the Earth&#8217;s climate. HOM production from the oxidation of volatile organic compounds (VOCs) occurs during both the day and night and can lead to new particle formation (NPF). However, NPF involving organic vapors has been reported much more often during the daytime than during nighttime. Here, we show that the nitrate radicals (NO3), which arise predominantly at night, inhibit NPF during the oxidation of monoterpenes based on three lines of observational evidence: NPF experiments in the CLOUD (Cosmics Leaving OUtdoor Droplets) chamber at CERN (European Organization for Nuclear Research), radical chemistry experiments using an oxidation flow reactor, and field observations in a wetland that occasionally exhibits nocturnal NPF. Nitrooxy-peroxy radicals formed from NO3 chemistry suppress the production of ultralow-volatility organic compounds (ULVOCs) responsible for biogenic NPF, which are covalently bound peroxy radical (RO2) dimer association products. The ULVOC yield of &#945;-pinene in the presence of NO3 is one-fifth of that resulting from ozone chemistry alone. Even trace amounts of NO3 radicals, at sub-parts per trillion level, suppress the NPF rate by a factor of 4. Ambient observations further confirm that when NO3 chemistry is involved, monoterpene NPF is completely turned off. Our results explain the frequent absence of nocturnal biogenic NPF in monoterpene (&#945;-pinene)-rich environments.</description>
       <author>Dandan Li, Wei Huang, Dongyu Wang, Mingyi Wang, Joel A. Thornton, Luc&#237;a Caudillo, Birte R&#246;rup, Ruby Marten, Wiebke Scholz, Henning Finkenzeller, Guillaume Marie, Urs Baltensperger, David M. Bell, Zo&#233; Brasseur, Joachim Curtius, Lubna Dada, Jonathan Duplissy, X. Gong, Armin Hansel, Xu&#8208;Cheng He, Victoria Hofbauer, Heikki Junninen, Jordan E. Krechmer, Andreas K&#252;rten, Houssni Lamkaddam, Katrianne Lehtipalo, Brandon Lopez, Yingge Ma, Naser G. A. Mahfouz, Hanna E. Manninen, Bernhard Mentler, S. Perrier, Tuukka Pet&#228;j&#776;&#228;, Joschka Pfeifer, Maxim Philippov, Meredith Schervish, Siegfried Schobesberger, Jiali Shen, Mihnea Surdu, Sophie Tomaz, Rainer Volkamer, Xinke Wang, Stefan K. Weber, Andr&#233; Welti, Douglas R. Worsnop, Yusheng Wu, Chao Yan, Marcel Zauner-Wieczorek, Markku Kulmala, J. Kirkby, Neil M. Donahue, Christian George, Imad El Haddad, Federico Bianchi, Matthieu Riva</author>
       <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.3c07958</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;Environmental Science: Atmospheres&lt;/i&gt; is four and so much more</title>
+      <link>https://doi.org/10.1039/d3ea90050a</link>
+      <description>Neil M. Donahue, No host. None(None)] 2024. https://openalex.org/W4390701128
+
+                Editor-in-Chief Neil Donahue reflects on the third year of Environmental Science: Atmospheres and looks ahead at the plans for year 4.</description>
+      <author>Neil M. Donahue</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Formation of secondary organic aerosol from wildfire emissions enhanced by long-time ageing</title>
@@ -25,7 +33,15 @@
                 No abstract</description>
       <author>Yuhong He, Bin Zhao, Yafei Wang, Richard Valorso, Xing Chang, Dejia Yin, Bo Feng, M. Camredon, Bernard Aumont, Abraham Dearden, Shantanu H. Jathar, Manish Shrivastava, Z. J. Jiang, C. D. Cappa, L. D. Yee, John H. Seinfeld, Jiming Hao, Neil M. Donahue</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41561-023-01355-4</guid>
+    </item>
+    <item>
+      <title>A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture</title>
+      <link>https://openalex.org/W4390833787</link>
+      <description>Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui&#8208;Kang, H&#233;ctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4390833787
+
+                No abstract</description>
+      <author>Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui&#8208;Kang, H&#233;ctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>IDAES-PSE 1.13.0 Release</title>
@@ -35,7 +51,6 @@
                 No abstract</description>
       <author>Andrew Lee, Dan Gunter, K. Beattie, Miguel Zamarripa, Timothy V. Bartholomew, Douglas Allan, Bethany L. Nicholson, Adam Atia, John Eslick, John Daniel Siirola, Brandon Paul, Alexander W. Dowling, Anca Ostace, Alejandro R. Garciadiego, Radhakrishna Tumbalam Gooty, Ludovico Bianchi, Anuja Deshpande, Jaffer Ghouse, Robert B. Parker, P. Yang, Carl D. Laird, Makayla Shepherd, Gao Xian, Quang Minh Le, Oluwamayowa Amusat, Marissa R Engle, Andres J Calderon</author>
       <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.18141/2278834</guid>
     </item>
   </channel>
 </rss>

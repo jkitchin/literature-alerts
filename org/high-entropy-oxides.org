@@ -1,11 +1,11 @@
 #+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu Jan 18 13:34:54 2024
+Created on Thu Jan 18 22:15:28 2024
 
-Found 3 results from 2024-01-04 to 2024-01-18
+Found 4 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)
-- https://api.openalex.org/works?filter=title-and-abstract.search:high entropy oxide catalysis
+- [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 ** Strain‐rich high‐entropy perovskite oxide of (La<sub>0.8</sub>Sr<sub>0.2</sub>)(Mn<sub>0.2</sub>Fe<sub>0.2</sub>Cr<sub>0.2</sub>Co<sub>0.2</sub>Ni<sub>0.2</sub>)O<sub>3</sub> for durable and effective catalysis of oxygen redox reactions in lithium‐oxygen battery   
 :PROPERTIES:
 :ID: https://openalex.org/W4390738391
@@ -30,15 +30,39 @@ Abstract Despite their great promise as high‐energy‐density alternatives to 
 
     
 
+** The selective aerobic oxidative C-C bond cleavage with the high-entropy oxide-derived multimetallic catalyst   
+:PROPERTIES:
+:ID: https://openalex.org/W4390720071
+:DOI: https://doi.org/10.1039/d3re00525a
+:AUTHORS: Shaoyuan Guo, Xinli Tong, Jipeng Wang, Honggang Tang
+:HOST: No host
+:END:
+
+Shaoyuan Guo, Xinli Tong, Jipeng Wang, Honggang Tang, No host. None(None)] 2023.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3re00525a")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390720071"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390720071"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390720071"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390720071
+    
+Shaoyuan Guo, Xinli Tong, Jipeng Wang, Honggang Tang, No host. https://doi.org/10.1039/d3re00525a
+    
+The use of high-entropy oxides (HEOs) in the heterogeneous catalysis is a fascinating research orientation in the chemical field. In this work, a highly selective aerobic oxidative C-C bond cleavage...    
+
+    
+
 ** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587030
 :DOI: https://doi.org/10.1038/s41467-023-44587-z
-:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
+:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
 :HOST: Nature Communications
 :END:
 
-Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
 
@@ -48,7 +72,7 @@ Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Ch
 
 OpenAlex: https://openalex.org/W4390587030
     
-Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
     
 Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
 
