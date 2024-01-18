@@ -40,7 +40,7 @@ def run_query(topic, since):
     for result in results:
         d[result['id']] = result
 
-    results = d.values()
+    results = list(d.values())
     print(results[0])
     print('oa: ', len(results))
     return results
