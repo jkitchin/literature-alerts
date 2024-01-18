@@ -34,7 +34,11 @@ def run_query(topic, since):
             data = requests.get(url).json()
             results += data['results']
 
-    results = list(set(results))   
+    d = {}
+    for result in results:
+        d[result['id']] = result
+
+    results = d.values()
     print('oa: ', len(results))
     return results
 
