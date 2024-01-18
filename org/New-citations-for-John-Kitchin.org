@@ -1,7 +1,7 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Thu Jan 18 22:15:38 2024
+Created on Thu Jan 18 22:16:51 2024
 
 Found 131 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)

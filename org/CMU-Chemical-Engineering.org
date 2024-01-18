@@ -1,7 +1,7 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jan 18 22:15:30 2024
+Created on Thu Jan 18 22:16:46 2024
 
 Found 5 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)

@@ -1,7 +1,7 @@
 #+filetags: water_splitting
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Thu Jan 18 22:15:23 2024
+Created on Thu Jan 18 22:16:40 2024
 
 Found 525 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)
