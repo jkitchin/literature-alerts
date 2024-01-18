@@ -1,6 +1,6 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
-Created on Thu Jan 18 12:35:14 2024
+Created on Thu Jan 18 12:50:20 2024
 
 Found 50 results from 2024-01-04 to 2024-01-18
 ** Synergy of Single-Atom Fe<sub>1</sub> and Ce–O<sub>v</sub> Sites on Mesoporous CeO<sub>2</sub>–Al<sub>2</sub>O<sub>3</sub> for Efficient Selective Catalytic Reduction of NO with CO   

@@ -1,6 +1,6 @@
 #+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
-Created on Thu Jan 18 12:35:14 2024
+Created on Thu Jan 18 12:50:19 2024
 
 Found 3 results from 2024-01-04 to 2024-01-18
 ** Strain‐rich high‐entropy perovskite oxide of (La<sub>0.8</sub>Sr<sub>0.2</sub>)(Mn<sub>0.2</sub>Fe<sub>0.2</sub>Cr<sub>0.2</sub>Co<sub>0.2</sub>Ni<sub>0.2</sub>)O<sub>3</sub> for durable and effective catalysis of oxygen redox reactions in lithium‐oxygen battery   

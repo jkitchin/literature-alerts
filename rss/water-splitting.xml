@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 12:50:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -48,6 +48,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
     <item>
+      <title>Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen&#8211;Doped Carbon Hollow Spheres Boost the Performance of Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202310318</link>
+      <description>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. None(None)] 2024. https://openalex.org/W4390637300
+
+                Abstract Low&#8208;cost and high&#8208;efficiency non&#8208;precious metal&#8208;based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal&#8211;air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen&#8208;doped porous carbon hollow sphere (Fe x Co 1&#8208;x /N&#8208;C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP&#8208;derived metal oxides and metal&#8208;organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe&#8208;N x /Co&#8208;N x ) guarantees the Fe 0.2 Co 0.8 /N&#8208;C catalyst exhibiting an excellent half&#8208;wave potential ( E 1/2 &#9552; 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn&#8211;air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g &#8722;1 , peak power density of 159.08 mW cm &#8722;2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.</description>
+      <author>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310318</guid>
+    </item>
+    <item>
       <title>Constructing delocalized electronic structures to motivate the oxygen reduction activity of zinc selenide for high-performance zinc-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2024.148598</link>
       <description>Lei Yang, Xiuyun Yao, Changliang Du, Zhanli Han, Mingwei Jin, Shichao Peng, Xiaoqing Ma, Youqi Zhu, Meishuai Zou, Chuanbao Cao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390651045
@@ -246,16 +256,6 @@
       <author>Patrick Guggenberger, Tatiana Priamushko, Prathamesh Patil, Justyna Florek, Daniel Garstenauer, Andreas Mautner, Jae Won Shin, Ryong Ryoo, Christian M. Pichler, Freddy Kleitz</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.056</guid>
-    </item>
-    <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting</title>
@@ -298,6 +298,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
     <item>
+      <title>Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen&#8211;Doped Carbon Hollow Spheres Boost the Performance of Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202310318</link>
+      <description>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. None(None)] 2024. https://openalex.org/W4390637300
+
+                Abstract Low&#8208;cost and high&#8208;efficiency non&#8208;precious metal&#8208;based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal&#8211;air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen&#8208;doped porous carbon hollow sphere (Fe x Co 1&#8208;x /N&#8208;C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP&#8208;derived metal oxides and metal&#8208;organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe&#8208;N x /Co&#8208;N x ) guarantees the Fe 0.2 Co 0.8 /N&#8208;C catalyst exhibiting an excellent half&#8208;wave potential ( E 1/2 &#9552; 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn&#8211;air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g &#8722;1 , peak power density of 159.08 mW cm &#8722;2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.</description>
+      <author>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310318</guid>
+    </item>
+    <item>
       <title>Constructing delocalized electronic structures to motivate the oxygen reduction activity of zinc selenide for high-performance zinc-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2024.148598</link>
       <description>Lei Yang, Xiuyun Yao, Changliang Du, Zhanli Han, Mingwei Jin, Shichao Peng, Xiaoqing Ma, Youqi Zhu, Meishuai Zou, Chuanbao Cao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390651045
@@ -496,16 +506,6 @@
       <author>Patrick Guggenberger, Tatiana Priamushko, Prathamesh Patil, Justyna Florek, Daniel Garstenauer, Andreas Mautner, Jae Won Shin, Ryong Ryoo, Christian M. Pichler, Freddy Kleitz</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.056</guid>
-    </item>
-    <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting</title>
@@ -548,6 +548,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
     <item>
+      <title>Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen&#8211;Doped Carbon Hollow Spheres Boost the Performance of Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202310318</link>
+      <description>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. None(None)] 2024. https://openalex.org/W4390637300
+
+                Abstract Low&#8208;cost and high&#8208;efficiency non&#8208;precious metal&#8208;based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal&#8211;air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen&#8208;doped porous carbon hollow sphere (Fe x Co 1&#8208;x /N&#8208;C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP&#8208;derived metal oxides and metal&#8208;organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe&#8208;N x /Co&#8208;N x ) guarantees the Fe 0.2 Co 0.8 /N&#8208;C catalyst exhibiting an excellent half&#8208;wave potential ( E 1/2 &#9552; 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn&#8211;air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g &#8722;1 , peak power density of 159.08 mW cm &#8722;2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.</description>
+      <author>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310318</guid>
+    </item>
+    <item>
       <title>Constructing delocalized electronic structures to motivate the oxygen reduction activity of zinc selenide for high-performance zinc-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2024.148598</link>
       <description>Lei Yang, Xiuyun Yao, Changliang Du, Zhanli Han, Mingwei Jin, Shichao Peng, Xiaoqing Ma, Youqi Zhu, Meishuai Zou, Chuanbao Cao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390651045
@@ -746,16 +756,6 @@
       <author>Patrick Guggenberger, Tatiana Priamushko, Prathamesh Patil, Justyna Florek, Daniel Garstenauer, Andreas Mautner, Jae Won Shin, Ryong Ryoo, Christian M. Pichler, Freddy Kleitz</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.056</guid>
-    </item>
-    <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting</title>
@@ -798,6 +798,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
     <item>
+      <title>Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen&#8211;Doped Carbon Hollow Spheres Boost the Performance of Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202310318</link>
+      <description>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. None(None)] 2024. https://openalex.org/W4390637300
+
+                Abstract Low&#8208;cost and high&#8208;efficiency non&#8208;precious metal&#8208;based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal&#8211;air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen&#8208;doped porous carbon hollow sphere (Fe x Co 1&#8208;x /N&#8208;C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP&#8208;derived metal oxides and metal&#8208;organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe&#8208;N x /Co&#8208;N x ) guarantees the Fe 0.2 Co 0.8 /N&#8208;C catalyst exhibiting an excellent half&#8208;wave potential ( E 1/2 &#9552; 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn&#8211;air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g &#8722;1 , peak power density of 159.08 mW cm &#8722;2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.</description>
+      <author>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310318</guid>
+    </item>
+    <item>
       <title>Constructing delocalized electronic structures to motivate the oxygen reduction activity of zinc selenide for high-performance zinc-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2024.148598</link>
       <description>Lei Yang, Xiuyun Yao, Changliang Du, Zhanli Han, Mingwei Jin, Shichao Peng, Xiaoqing Ma, Youqi Zhu, Meishuai Zou, Chuanbao Cao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390651045
@@ -996,16 +1006,6 @@
       <author>Patrick Guggenberger, Tatiana Priamushko, Prathamesh Patil, Justyna Florek, Daniel Garstenauer, Andreas Mautner, Jae Won Shin, Ryong Ryoo, Christian M. Pichler, Freddy Kleitz</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.056</guid>
-    </item>
-    <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting</title>
@@ -1048,6 +1048,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
     <item>
+      <title>Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen&#8211;Doped Carbon Hollow Spheres Boost the Performance of Zinc&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202310318</link>
+      <description>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang, Small. None(None)] 2024. https://openalex.org/W4390637300
+
+                Abstract Low&#8208;cost and high&#8208;efficiency non&#8208;precious metal&#8208;based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal&#8211;air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen&#8208;doped porous carbon hollow sphere (Fe x Co 1&#8208;x /N&#8208;C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP&#8208;derived metal oxides and metal&#8208;organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe&#8208;N x /Co&#8208;N x ) guarantees the Fe 0.2 Co 0.8 /N&#8208;C catalyst exhibiting an excellent half&#8208;wave potential ( E 1/2 &#9552; 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn&#8211;air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g &#8722;1 , peak power density of 159.08 mW cm &#8722;2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.</description>
+      <author>Hong-Rui Huang, Qianqian Liang, Huajun Guo, Zhixing Wang, Guochun Yan, Feixiang Wu, Jiexi Wang</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310318</guid>
+    </item>
+    <item>
       <title>Constructing delocalized electronic structures to motivate the oxygen reduction activity of zinc selenide for high-performance zinc-air battery</title>
       <link>https://doi.org/10.1016/j.cej.2024.148598</link>
       <description>Lei Yang, Xiuyun Yao, Changliang Du, Zhanli Han, Mingwei Jin, Shichao Peng, Xiaoqing Ma, Youqi Zhu, Meishuai Zou, Chuanbao Cao, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390651045
@@ -1248,16 +1258,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.056</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Interface Effect of Mxene@Cop2 on Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4683573</link>
       <description>Xiongming Du, Yan Wang, Zicong Ye, Wei Wang, Yuqiao Wang, No host. None(None)] 2024. https://openalex.org/W4390581925
@@ -1408,16 +1408,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -1426,6 +1416,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -1658,16 +1658,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -1676,6 +1666,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -1908,16 +1908,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -1926,6 +1916,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2158,16 +2158,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -2176,6 +2166,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2408,16 +2408,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -2426,6 +2416,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2658,16 +2658,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -2676,6 +2666,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2908,16 +2908,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
-      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
-
-                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
-      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
-    </item>
-    <item>
       <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
       <link>https://doi.org/10.1039/d3ta05566c</link>
       <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
@@ -2926,6 +2916,16 @@
       <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
+    </item>
+    <item>
+      <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1038/s41598-023-50361-4</link>
+      <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
+
+                Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr&#8211;FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr&#8211;FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm &#8722;2 and achieves a Tafel slope of 44 mV dec &#8722;1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.</description>
+      <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
