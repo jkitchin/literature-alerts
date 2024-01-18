@@ -1,8 +1,32 @@
 #+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
-Created on Thu Jan 18 00:41:16 2024
+Created on Thu Jan 18 12:35:14 2024
 
-Found 2 results from 2024-01-04 to 2024-01-18
+Found 3 results from 2024-01-04 to 2024-01-18
+** Strain‐rich high‐entropy perovskite oxide of (La<sub>0.8</sub>Sr<sub>0.2</sub>)(Mn<sub>0.2</sub>Fe<sub>0.2</sub>Cr<sub>0.2</sub>Co<sub>0.2</sub>Ni<sub>0.2</sub>)O<sub>3</sub> for durable and effective catalysis of oxygen redox reactions in lithium‐oxygen battery   
+:PROPERTIES:
+:ID: https://openalex.org/W4390738391
+:DOI: https://doi.org/10.1002/bte2.20230053
+:AUTHORS: Zhanpeng Liu, Haoyang Xu, Xinxiang Wang, Guilei Tian, Dongxing Du, Chaozhu Shu
+:HOST: No host
+:END:
+
+Zhanpeng Liu, Haoyang Xu, Xinxiang Wang, Guilei Tian, Dongxing Du, Chaozhu Shu, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/bte2.20230053")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390738391"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390738391"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390738391"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390738391
+    
+Zhanpeng Liu, Haoyang Xu, Xinxiang Wang, Guilei Tian, Dongxing Du, Chaozhu Shu, No host. https://doi.org/10.1002/bte2.20230053
+    
+Abstract Despite their great promise as high‐energy‐density alternatives to Li‐ion batteries, the extensive use of lithium‐oxygen (Li‐O 2 ) batteries is constrained by the slow kinetics of both the oxygen evolution reaction and oxygen reduction reaction. To increase the overall performance of Li‐O 2 batteries, it is essential to increase the efficiency of oxygen electrode reactions by constructing effective electrocatalysts. As a high‐efficiency catalyst for Li‐O 2 batteries, high entropy perovskite oxide (La 0.8 Sr 0.2 )(Mn 0.2 Fe 0.2 Cr 0.2 Co 0.2 Ni 0.2 )O 3 (referred to as LS(MFCCN)O 3 ) is designed and investigated in this article. The introduction of dissimilar metals in LS(MFCCN)O 3 has the potential to cause lattice deformation, thereby enhancing electron transfer between transition metal ions and facilitating the formation of numerous oxygen vacancies. This feature is advantageous for the reversible production and breakdown of discharge product Li 2 O 2 . Consequently, the Li‐O 2 battery utilizing LS(MFCCN)O 3 as a catalyst achieves an impressive discharge capacity of 17,078.2 mAh g −1 and exhibits an extended cycling life of 435 cycles. This study offers a useful method for adjusting the catalytic performance of perovskite oxides toward oxygen redox reactions in Li‐O 2 batteries.    
+
+    
+
 ** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
 :PROPERTIES:
 :ID: https://openalex.org/W4390587030
