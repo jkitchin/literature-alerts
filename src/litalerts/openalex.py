@@ -34,7 +34,7 @@ def run_query(topic, since):
             data = requests.get(url).json()
             results += data['results']
 
-                
+    results = list(set(results))   
     print('oa: ', len(results))
     return results
 
