@@ -21,7 +21,7 @@ def get_rss_item(topic, result):
                 {abstract}''', 
                 author=authors,
                 link=result.get('doi', None) or result.get('id', "No ID"),
-                guid=result['doi'],
+                guid=Guid(result['doi']),
                 #guid=Guid(result.get('doi', time.asctime())),
                 pubDate=datetime.datetime.strptime(result['publication_date'], "%Y-%m-%d"))
 
