@@ -1,9 +1,9 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Thu Jan 18 18:34:23 2024
+Created on Thu Jan 18 23:35:21 2024
 
-Found 27 results from 2024-01-11 to 2024-01-18
+Found 30 results from 2024-01-04 to 2024-01-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -13,6 +13,102 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022]]
+** Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing   
+:PROPERTIES:
+:ID: https://openalex.org/W4390617556
+:DOI: https://doi.org/10.1038/s41467-023-43720-2
+:AUTHORS: Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu
+:HOST: Nature Communications
+:END:
+
+Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu, Nature Communications. 15(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-43720-2")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390617556"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390617556"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390617556"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390617556
+    
+Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu, Nature Communications. https://doi.org/10.1038/s41467-023-43720-2
+    
+Abstract Geometric deep learning has been revolutionizing the molecular modeling field. Despite the state-of-the-art neural network models are approaching ab initio accuracy for molecular property prediction, their applications, such as drug discovery and molecular dynamics (MD) simulation, have been hindered by insufficient utilization of geometric information and high computational costs. Here we propose an equivariant geometry-enhanced graph neural network called ViSNet, which elegantly extracts geometric features and efficiently models molecular structures with low computational costs. Our proposed ViSNet outperforms state-of-the-art approaches on multiple MD benchmarks, including MD17, revised MD17 and MD22, and achieves excellent chemical property prediction on QM9 and Molecule3D datasets. Furthermore, through a series of simulations and case studies, ViSNet can efficiently explore the conformational space and provide reasonable interpretability to map geometric representations to molecular structures.    
+
+    
+
+** NiCS3: A cocatalyst surpassing Pt for photocatalytic hydrogen production   
+:PROPERTIES:
+:ID: https://openalex.org/W4390533552
+:DOI: https://doi.org/10.1016/j.jcis.2023.12.183
+:AUTHORS: Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang
+:HOST: Journal of Colloid and Interface Science
+:END:
+
+Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2023.12.183")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390533552"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390533552"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390533552"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390533552
+    
+Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. https://doi.org/10.1016/j.jcis.2023.12.183
+    
+Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g-1·h-1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
+
+    
+
+** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
+:PROPERTIES:
+:ID: https://openalex.org/W4390587030
+:DOI: https://doi.org/10.1038/s41467-023-44587-z
+:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
+:HOST: Nature Communications
+:END:
+
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587030"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587030"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587030"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587030
+    
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
+    
+Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
+
+    
+
+** Applied Voltage‐Activated Fe─N─C Catalysts for Pem Fuel Cells   
+:PROPERTIES:
+:ID: https://openalex.org/W4390637284
+:DOI: https://doi.org/10.1002/adsu.202300573
+:AUTHORS: Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui
+:HOST: Advanced Sustainable Systems
+:END:
+
+Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui, Advanced Sustainable Systems. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adsu.202300573")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637284"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637284"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637284"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390637284
+    
+Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui, Advanced Sustainable Systems. https://doi.org/10.1002/adsu.202300573
+    
+Abstract The practical application of non‐precious Fe─N─C catalysts in proton exchange membrane fuel cells (PEMFCs) continues to remain one of the major challenges due to their relatively poor oxygen reduction reaction (ORR) performance in acid. In this work, a fast and facilely performance enhancement strategy is first proposed for various Fe─N─C catalysts by supplying different direct‐current voltages to achieve a rapid solid‐state activation at room temperature. The voltage‐activated state‐of‐the‐art Fe─N─C catalyst has demonstrated a peak power density of 1.1 W cm −2 for PEMFC and remarkably increased long‐term durability for ORR. The substantially improved performance can be attributed to the formation of highly active ketone‐decorated (edge‐hosted) FeN 4 sites and substantially boosts coupled proton−electron transfer (CPET) by improving the conductivity of the as‐synthesized Fe─N─C with an interpenetrating network structure. The interconnected micro‐nodes within the interpenetrating network are the main active regions for the ORR, evidenced by an optimized structural model based on the above typical morphology. Therefore, this finding provides an innovative and facile idea for solving the activity and stability deficiency for promising Fe─N─C for commercial PEMFC.    
+
+    
+
 ** Screening of Cu-Mn-Ni-Zn high-entropy alloy catalysts for CO2 reduction reaction by machine-learning-accelerated density functional theory   
 :PROPERTIES:
 :ID: https://openalex.org/W4390653010
@@ -517,102 +613,6 @@ Understanding the size-dependent behavior of nanoparticles is crucial for optimi
 
     
 
-** Machine Learning Prediction of Oer Activity for Pnma Perovskite Via Minimal Structure Relaxation   
-:PROPERTIES:
-:ID: https://openalex.org/W4390701865
-:DOI: https://doi.org/10.2139/ssrn.4690003
-:AUTHORS: Chanseok Kim, Mina Yoon, Jun Hee Lee
-:HOST: No host
-:END:
-
-Chanseok Kim, Mina Yoon, Jun Hee Lee, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690003")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390701865"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390701865"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390701865"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390701865
-    
-Chanseok Kim, Mina Yoon, Jun Hee Lee, No host. https://doi.org/10.2139/ssrn.4690003
-    
-This study focuses on exploring alternative catalysts for the oxygen evolution reaction (OER) in renewable fuel production, emphasizing the potential of multi-metal oxides derived from Earth-abundant metals and perovskites. The research integrates traditional experiments with machine learning and theoretical investigations, utilizing descriptors like oxygen p-band center (Op) and metal d-band center (Md). Through high-throughput calculations and crystal graph convolutional neural networks (CGCNN), the study screens a large compositional space of perovskites and predicts Op/Md for 149,952 perovskites, highlighting elemental ratios around Op/Md=0.48 as promising for OER active materials. Notably, an analysis of the elemental ratios around Op/Md=0.48 revealed higher proportions of Ca, Sr, and Ba on the A-site, and Mo, Ni, and Fe on the B-site. This descriptor-based machine learning approach demonstrates its power for predicting promising perovskite OER candidates.    
-
-    
-
-** Screening Cu-Zeolites for Methane Activation Using Curriculum-Based Training   
-:PROPERTIES:
-:ID: https://openalex.org/W4390703624
-:DOI: https://doi.org/10.1021/acscatal.3c05275
-:AUTHORS: Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni
-:HOST: ACS Catalysis
-:END:
-
-Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni, ACS Catalysis. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05275")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390703624"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390703624"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390703624"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390703624
-    
-Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni, ACS Catalysis. https://doi.org/10.1021/acscatal.3c05275
-    
-Machine learning (ML), when used synergistically with atomistic simulations, has recently emerged as a powerful tool for accelerated catalyst discovery. However, the application of these techniques has been limited by the lack of interpretable and transferable ML models. In this work, we propose a curriculum-based training (CBT) philosophy to systematically develop reactive machine learning potentials (rMLPs) for high-throughput screening of zeolite catalysts. Our CBT approach combines several different types of calculations to gradually teach the ML model about the relevant regions of the reactive potential energy surface. The resulting rMLPs are accurate, transferable, and interpretable. We further demonstrate the effectiveness of this approach by exhaustively screening thousands of [CuOCu]2+ sites across hundreds of Cu-zeolites for the industrially relevant methane activation reaction. Specifically, this large-scale analysis of the entire International Zeolite Association (IZA) database identifies a set of previously unexplored zeolites (i.e., MEI, ATN, EWO, and CAS) that show the highest ensemble-averaged rates for [CuOCu]2+-catalyzed methane activation. We believe that this CBT philosophy can be generally applied to other zeolite-catalyzed reactions and, subsequently, to other types of heterogeneous catalysts. Thus, this represents an important step toward overcoming the long-standing barriers within the computational heterogeneous catalysis community.    
-
-    
-
-** Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation   
-:PROPERTIES:
-:ID: https://openalex.org/W4390703678
-:DOI: https://doi.org/10.2139/ssrn.4690198
-:AUTHORS: Silvia Gutiérrez‐Tarriño, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazarío, Lidia E. Chinchilla, Giovanni Agostini, José J. Calvino, Juan P. Holgado, E. Rodrı́guez Castellón, Alberto Roldán, Pascual Oña‐Burgos
-:HOST: No host
-:END:
-
-Silvia Gutiérrez‐Tarriño, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazarío, Lidia E. Chinchilla, Giovanni Agostini, José J. Calvino, Juan P. Holgado, E. Rodrı́guez Castellón, Alberto Roldán, Pascual Oña‐Burgos, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690198")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390703678"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390703678"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390703678"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390703678
-    
-Silvia Gutiérrez‐Tarriño, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazarío, Lidia E. Chinchilla, Giovanni Agostini, José J. Calvino, Juan P. Holgado, E. Rodrı́guez Castellón, Alberto Roldán, Pascual Oña‐Burgos, No host. https://doi.org/10.2139/ssrn.4690198
-    
-The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.    
-
-    
-
-** Linking CO to Urea Production from CO<sub>2</sub> and NO<sub>3</sub><sup>–</sup>/NO<sub>2</sub><sup>–</sup> Co-Electrolysis on Transition Metals   
-:PROPERTIES:
-:ID: https://openalex.org/W4390704331
-:DOI: https://doi.org/10.1021/acs.jpcc.3c06279
-:AUTHORS: Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu‐Jeng Cheng
-:HOST: The Journal of Physical Chemistry C
-:END:
-
-Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu‐Jeng Cheng, The Journal of Physical Chemistry C. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.3c06279")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390704331"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390704331"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390704331"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390704331
-    
-Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu‐Jeng Cheng, The Journal of Physical Chemistry C. https://doi.org/10.1021/acs.jpcc.3c06279
-    
-Electrochemical reduction of CO2 (CO2ER) has the potential to advance carbon neutrality and renewable energy storage. Advanced CO2ER catalysts can selectively produce a wide array of products. Their importance is amplified when coreducing CO2 with nitrate/nitrite ions (NO3–/NO2–) to generate organic compounds containing C–N bonds, enhancing product diversity and value. Some transition metals effectively catalyze the coreduction of CO2 and NO3–/NO2– to yield urea. However, a disparity exists between the experimental observations that underscore the significance of CO production in urea synthesis and the theoretical perspectives that dismiss the role of CO in C–N bond creation. To reconcile this disparity, we utilized density functional theory combined with a constant electrode potential model to investigate four facile CO2 + *N1 (the intermediates from NO3–/NO2– reduction to NH3) couplings─representing the primary C–N formation pathways on a range of transition metal surfaces. Our comprehensive study elucidates the relationships among C–N coupling barriers, *N1, and CO adsorption energies. Notably, we found that while CO is not involved in C–N formation, a catalyst’s proficiency in generating CO from CO2ER is indicative of its reduced adsorption strength. This result indicates a heightened reactivity in forming C–N bonds via the CO2 + *N1 couplings. Our theoretical exploration adeptly bridges the discrepancies observed between earlier experimental and theoretical studies.    
-
-    
-
 ** Invariant Molecular Representations for Heterogeneous Catalysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390703549
@@ -658,5 +658,77 @@ OpenAlex: https://openalex.org/W4390840023
 Ning Kang, Lingwen Liao, Xue Zhang, Zhen He, Bing Yu, Jiahong Wang, Yongquan Qu, Paul K. Chu, Seeram Ramakrishna, Xue‐Feng Yu, Xin Wang, Licheng Bai, Nano Research. https://doi.org/10.1007/s12274-024-6411-1
     
 No abstract    
+
+    
+
+** A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts   
+:PROPERTIES:
+:ID: https://openalex.org/W4390580294
+:DOI: https://doi.org/10.1021/acscatal.3c04337
+:AUTHORS: Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen
+:HOST: ACS Catalysis
+:END:
+
+Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen, ACS Catalysis. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04337")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390580294"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390580294"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390580294"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390580294
+    
+Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen, ACS Catalysis. https://doi.org/10.1021/acscatal.3c04337
+    
+The study of multimetallic alloys and the multitude of possible surface compositions have sparked a tremendous interest in engineering low-cost materials with high activity and selectivity in heterogeneous catalysis. Multimetallic systems provide complementary functionalities and an unprecedented tunability when designing catalyst formulations. However, due to their immense structural and compositional complexity, the investigation and identification of an optimal catalyst is a tedious and time-consuming process, both experimentally and theoretically. Therefore, theoretical design principles are highly desirable to accelerate the screening of catalyst structures across the vast compositional space. In this paper, we introduce a simple and general model for predicting the site stability of multimetallic surfaces and nanoparticles, which is based on physical principles. The model requires only a small set of density functional theory (DFT) calculations of metal atom binding energies on monometallic and dilute alloy surface slabs to optimize the parameters in the simple model. The resulting model allows for the quantification of the stability of any particular atom site in any conceivable chemical environment across a wide range of morphologies, sizes, and arrangements by interpolating the derived parameters from a monometallic system to a completely diluted alloyed system. Herein, we demonstrate the robustness of the model across an extensive data set of transition metal alloy surfaces and 147-atoms cuboctahedral nanoparticles (NPs) composed of IrRhRu and PtPdRu. Our approach yields mean absolute errors of ≈0.15 (IrRhRu), 0.20 (PtPdRu), 0.19 (IrRhRu NP), and 0.26 (PtPdRu NP) eV relative to site binding energies calculated using DFT.    
+
+    
+
+** Toward Next-Generation Heterogeneous Catalysts: Empowering Surface Reactivity Prediction with Machine Learning   
+:PROPERTIES:
+:ID: https://openalex.org/W4390619178
+:DOI: https://doi.org/10.1016/j.eng.2023.07.021
+:AUTHORS: Xinyan Li, Hong‐Jie Peng
+:HOST: Engineering
+:END:
+
+Xinyan Li, Hong‐Jie Peng, Engineering. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.eng.2023.07.021")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390619178"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390619178"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390619178"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390619178
+    
+Xinyan Li, Hong‐Jie Peng, Engineering. https://doi.org/10.1016/j.eng.2023.07.021
+    
+Heterogeneous catalysis remains at the core of various bulk chemical manufacturing and energy conversion processes, and its revolution necessitates the hunt for new materials with ideal catalytic activities and economic feasibility. Computational high-throughput screening presents a viable solution to this challenge, as machine learning (ML) has demonstrated its great potential in accelerating such processes by providing satisfactory estimations of surface reactivity with relatively low-cost information. This review focuses on recent progress in applying ML in adsorption energy prediction, which predominantly quantifies the catalytic potential of a solid catalyst. ML models that leverage inputs from different categories and exhibit various levels of complexity are classified and discussed. At the end of the review, an outlook on the current challenges and future opportunities of ML-assisted catalyst screening is supplied. We believe that this review summarizes major achievements in accelerating catalyst discovery through ML and can inspire researchers to further devise novel strategies to accelerate materials design and, ultimately, reshape the chemical industry and energy landscape.    
+
+    
+
+** A deep-neural network potential to study transformation-induced plasticity in zirconia   
+:PROPERTIES:
+:ID: https://openalex.org/W4390630271
+:DOI: https://doi.org/10.1016/j.jeurceramsoc.2024.01.007
+:AUTHORS: Jin-Yu Zhang, Gaël Huynh, Fu‐Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney
+:HOST: Journal of the European Ceramic Society
+:END:
+
+Jin-Yu Zhang, Gaël Huynh, Fu‐Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney, Journal of the European Ceramic Society. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jeurceramsoc.2024.01.007")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390630271"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390630271"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390630271"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390630271
+    
+Jin-Yu Zhang, Gaël Huynh, Fu‐Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney, Journal of the European Ceramic Society. https://doi.org/10.1016/j.jeurceramsoc.2024.01.007
+    
+Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, allowing plastic deformation prior to failure, setting them apart from most other ceramics. However, our understanding of ZrO2 plasticity is hindered by the challenge of simulating stress-induced atomic-scale phase transformations, owing to lack of an efficient interatomic potential accurately representing polymorphism and phase changes in ZrO2. In this work, we introduce a novel deep neural network interatomic potential, DP-ZrO2, constructed using a concurrent-learning approach. DP-ZrO2 reproduces properties of various ZrO2 phases, matching their phase diagrams as well as transformation pathways with accuracy comparable to ab initio density functional theory. Leveraging DP-ZrO2, we conducted molecular dynamics simulations of temperature-induced interphase boundary migration and nanocompression. These simulations demonstrate the potential’s efficiency and applicability in studying deformation microstructures involving phase transformations in ZrO2. Our approach opens the door to large-scale simulations under complex loading conditions, which will shed light on the conditions favouring ZrO2 transformation-induced plasticity.    
 
     

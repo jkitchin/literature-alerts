@@ -4,9 +4,49 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 18:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 23:35:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing</title>
+      <link>https://doi.org/10.1038/s41467-023-43720-2</link>
+      <description>Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu, Nature Communications. 15(1)] 2024. https://openalex.org/W4390617556
+
+                Abstract Geometric deep learning has been revolutionizing the molecular modeling field. Despite the state-of-the-art neural network models are approaching ab initio accuracy for molecular property prediction, their applications, such as drug discovery and molecular dynamics (MD) simulation, have been hindered by insufficient utilization of geometric information and high computational costs. Here we propose an equivariant geometry-enhanced graph neural network called ViSNet, which elegantly extracts geometric features and efficiently models molecular structures with low computational costs. Our proposed ViSNet outperforms state-of-the-art approaches on multiple MD benchmarks, including MD17, revised MD17 and MD22, and achieves excellent chemical property prediction on QM9 and Molecule3D datasets. Furthermore, through a series of simulations and case studies, ViSNet can efficiently explore the conformational space and provide reasonable interpretability to map geometric representations to molecular structures.</description>
+      <author>Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu</author>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-43720-2</guid>
+    </item>
+    <item>
+      <title>NiCS3: A cocatalyst surpassing Pt for photocatalytic hydrogen production</title>
+      <link>https://doi.org/10.1016/j.jcis.2023.12.183</link>
+      <description>Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4390533552
+
+                Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol&#183;g-1&#183;h-1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy &#916;GH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.</description>
+      <author>Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2023.12.183</guid>
+    </item>
+    <item>
+      <title>Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides</title>
+      <link>https://doi.org/10.1038/s41467-023-44587-z</link>
+      <description>Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung&#8208;Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024. https://openalex.org/W4390587030
+
+                Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.</description>
+      <author>Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung&#8208;Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh</author>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-44587-z</guid>
+    </item>
+    <item>
+      <title>Applied Voltage&#8208;Activated Fe&#9472;N&#9472;C Catalysts for Pem Fuel Cells</title>
+      <link>https://doi.org/10.1002/adsu.202300573</link>
+      <description>Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4390637284
+
+                Abstract The practical application of non&#8208;precious Fe&#9472;N&#9472;C catalysts in proton exchange membrane fuel cells (PEMFCs) continues to remain one of the major challenges due to their relatively poor oxygen reduction reaction (ORR) performance in acid. In this work, a fast and facilely performance enhancement strategy is first proposed for various Fe&#9472;N&#9472;C catalysts by supplying different direct&#8208;current voltages to achieve a rapid solid&#8208;state activation at room temperature. The voltage&#8208;activated state&#8208;of&#8208;the&#8208;art Fe&#9472;N&#9472;C catalyst has demonstrated a peak power density of 1.1 W cm &#8722;2 for PEMFC and remarkably increased long&#8208;term durability for ORR. The substantially improved performance can be attributed to the formation of highly active ketone&#8208;decorated (edge&#8208;hosted) FeN 4 sites and substantially boosts coupled proton&#8722;electron transfer (CPET) by improving the conductivity of the as&#8208;synthesized Fe&#9472;N&#9472;C with an interpenetrating network structure. The interconnected micro&#8208;nodes within the interpenetrating network are the main active regions for the ORR, evidenced by an optimized structural model based on the above typical morphology. Therefore, this finding provides an innovative and facile idea for solving the activity and stability deficiency for promising Fe&#9472;N&#9472;C for commercial PEMFC.</description>
+      <author>Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202300573</guid>
+    </item>
     <item>
       <title>Screening of Cu-Mn-Ni-Zn high-entropy alloy catalysts for CO2 reduction reaction by machine-learning-accelerated density functional theory</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.159297</link>
@@ -218,46 +258,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c10610</guid>
     </item>
     <item>
-      <title>Machine Learning Prediction of Oer Activity for Pnma Perovskite Via Minimal Structure Relaxation</title>
-      <link>https://doi.org/10.2139/ssrn.4690003</link>
-      <description>Chanseok Kim, Mina Yoon, Jun Hee Lee, No host. None(None)] 2024. https://openalex.org/W4390701865
-
-                This study focuses on exploring alternative catalysts for the oxygen evolution reaction (OER) in renewable fuel production, emphasizing the potential of multi-metal oxides derived from Earth-abundant metals and perovskites. The research integrates traditional experiments with machine learning and theoretical investigations, utilizing descriptors like oxygen p-band center (Op) and metal d-band center (Md). Through high-throughput calculations and crystal graph convolutional neural networks (CGCNN), the study screens a large compositional space of perovskites and predicts Op/Md for 149,952 perovskites, highlighting elemental ratios around Op/Md=0.48 as promising for OER active materials. Notably, an analysis of the elemental ratios around Op/Md=0.48 revealed higher proportions of Ca, Sr, and Ba on the A-site, and Mo, Ni, and Fe on the B-site. This descriptor-based machine learning approach demonstrates its power for predicting promising perovskite OER candidates.</description>
-      <author>Chanseok Kim, Mina Yoon, Jun Hee Lee</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690003</guid>
-    </item>
-    <item>
-      <title>Screening Cu-Zeolites for Methane Activation Using Curriculum-Based Training</title>
-      <link>https://doi.org/10.1021/acscatal.3c05275</link>
-      <description>Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390703624
-
-                Machine learning (ML), when used synergistically with atomistic simulations, has recently emerged as a powerful tool for accelerated catalyst discovery. However, the application of these techniques has been limited by the lack of interpretable and transferable ML models. In this work, we propose a curriculum-based training (CBT) philosophy to systematically develop reactive machine learning potentials (rMLPs) for high-throughput screening of zeolite catalysts. Our CBT approach combines several different types of calculations to gradually teach the ML model about the relevant regions of the reactive potential energy surface. The resulting rMLPs are accurate, transferable, and interpretable. We further demonstrate the effectiveness of this approach by exhaustively screening thousands of [CuOCu]2+ sites across hundreds of Cu-zeolites for the industrially relevant methane activation reaction. Specifically, this large-scale analysis of the entire International Zeolite Association (IZA) database identifies a set of previously unexplored zeolites (i.e., MEI, ATN, EWO, and CAS) that show the highest ensemble-averaged rates for [CuOCu]2+-catalyzed methane activation. We believe that this CBT philosophy can be generally applied to other zeolite-catalyzed reactions and, subsequently, to other types of heterogeneous catalysts. Thus, this represents an important step toward overcoming the long-standing barriers within the computational heterogeneous catalysis community.</description>
-      <author>Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni</author>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05275</guid>
-    </item>
-    <item>
-      <title>Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation</title>
-      <link>https://doi.org/10.2139/ssrn.4690198</link>
-      <description>Silvia Guti&#233;rrez&#8208;Tarri&#241;o, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazar&#237;o, Lidia E. Chinchilla, Giovanni Agostini, Jos&#233; J. Calvino, Juan P. Holgado, E. Rodr&#305;&#769;guez Castell&#243;n, Alberto Rold&#225;n, Pascual O&#241;a&#8208;Burgos, No host. None(None)] 2024. https://openalex.org/W4390703678
-
-                The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.</description>
-      <author>Silvia Guti&#233;rrez&#8208;Tarri&#241;o, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazar&#237;o, Lidia E. Chinchilla, Giovanni Agostini, Jos&#233; J. Calvino, Juan P. Holgado, E. Rodr&#305;&#769;guez Castell&#243;n, Alberto Rold&#225;n, Pascual O&#241;a&#8208;Burgos</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690198</guid>
-    </item>
-    <item>
-      <title>Linking CO to Urea Production from CO&lt;sub&gt;2&lt;/sub&gt; and NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;&#8211;&lt;/sup&gt;/NO&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&#8211;&lt;/sup&gt; Co-Electrolysis on Transition Metals</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06279</link>
-      <description>Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu&#8208;Jeng Cheng, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4390704331
-
-                Electrochemical reduction of CO2 (CO2ER) has the potential to advance carbon neutrality and renewable energy storage. Advanced CO2ER catalysts can selectively produce a wide array of products. Their importance is amplified when coreducing CO2 with nitrate/nitrite ions (NO3&#8211;/NO2&#8211;) to generate organic compounds containing C&#8211;N bonds, enhancing product diversity and value. Some transition metals effectively catalyze the coreduction of CO2 and NO3&#8211;/NO2&#8211; to yield urea. However, a disparity exists between the experimental observations that underscore the significance of CO production in urea synthesis and the theoretical perspectives that dismiss the role of CO in C&#8211;N bond creation. To reconcile this disparity, we utilized density functional theory combined with a constant electrode potential model to investigate four facile CO2 + *N1 (the intermediates from NO3&#8211;/NO2&#8211; reduction to NH3) couplings&#9472;representing the primary C&#8211;N formation pathways on a range of transition metal surfaces. Our comprehensive study elucidates the relationships among C&#8211;N coupling barriers, *N1, and CO adsorption energies. Notably, we found that while CO is not involved in C&#8211;N formation, a catalyst&#8217;s proficiency in generating CO from CO2ER is indicative of its reduced adsorption strength. This result indicates a heightened reactivity in forming C&#8211;N bonds via the CO2 + *N1 couplings. Our theoretical exploration adeptly bridges the discrepancies observed between earlier experimental and theoretical studies.</description>
-      <author>Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu&#8208;Jeng Cheng</author>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06279</guid>
-    </item>
-    <item>
       <title>Invariant Molecular Representations for Heterogeneous Catalysis</title>
       <link>https://doi.org/10.1021/acs.jcim.3c00594</link>
       <description>Jawad Chowdhury, Charles Fricke, Olajide H. Bamidele, Mubarak Bello, Wen&#8208;Bin Yang, Andreas Heyden, Gabriel Terejanu, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4390703549
@@ -276,6 +276,36 @@
       <author>Ning Kang, Lingwen Liao, Xue Zhang, Zhen He, Bing Yu, Jiahong Wang, Yongquan Qu, Paul K. Chu, Seeram Ramakrishna, Xue&#8208;Feng Yu, Xin Wang, Licheng Bai</author>
       <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6411-1</guid>
+    </item>
+    <item>
+      <title>A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c04337</link>
+      <description>Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Ple&#223;ow, Frank Abild&#8208;Pedersen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390580294
+
+                The study of multimetallic alloys and the multitude of possible surface compositions have sparked a tremendous interest in engineering low-cost materials with high activity and selectivity in heterogeneous catalysis. Multimetallic systems provide complementary functionalities and an unprecedented tunability when designing catalyst formulations. However, due to their immense structural and compositional complexity, the investigation and identification of an optimal catalyst is a tedious and time-consuming process, both experimentally and theoretically. Therefore, theoretical design principles are highly desirable to accelerate the screening of catalyst structures across the vast compositional space. In this paper, we introduce a simple and general model for predicting the site stability of multimetallic surfaces and nanoparticles, which is based on physical principles. The model requires only a small set of density functional theory (DFT) calculations of metal atom binding energies on monometallic and dilute alloy surface slabs to optimize the parameters in the simple model. The resulting model allows for the quantification of the stability of any particular atom site in any conceivable chemical environment across a wide range of morphologies, sizes, and arrangements by interpolating the derived parameters from a monometallic system to a completely diluted alloyed system. Herein, we demonstrate the robustness of the model across an extensive data set of transition metal alloy surfaces and 147-atoms cuboctahedral nanoparticles (NPs) composed of IrRhRu and PtPdRu. Our approach yields mean absolute errors of &#8776;0.15 (IrRhRu), 0.20 (PtPdRu), 0.19 (IrRhRu NP), and 0.26 (PtPdRu NP) eV relative to site binding energies calculated using DFT.</description>
+      <author>Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Ple&#223;ow, Frank Abild&#8208;Pedersen</author>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04337</guid>
+    </item>
+    <item>
+      <title>Toward Next-Generation Heterogeneous Catalysts: Empowering Surface Reactivity Prediction with Machine Learning</title>
+      <link>https://doi.org/10.1016/j.eng.2023.07.021</link>
+      <description>Xinyan Li, Hong&#8208;Jie Peng, Engineering. None(None)] 2024. https://openalex.org/W4390619178
+
+                Heterogeneous catalysis remains at the core of various bulk chemical manufacturing and energy conversion processes, and its revolution necessitates the hunt for new materials with ideal catalytic activities and economic feasibility. Computational high-throughput screening presents a viable solution to this challenge, as machine learning (ML) has demonstrated its great potential in accelerating such processes by providing satisfactory estimations of surface reactivity with relatively low-cost information. This review focuses on recent progress in applying ML in adsorption energy prediction, which predominantly quantifies the catalytic potential of a solid catalyst. ML models that leverage inputs from different categories and exhibit various levels of complexity are classified and discussed. At the end of the review, an outlook on the current challenges and future opportunities of ML-assisted catalyst screening is supplied. We believe that this review summarizes major achievements in accelerating catalyst discovery through ML and can inspire researchers to further devise novel strategies to accelerate materials design and, ultimately, reshape the chemical industry and energy landscape.</description>
+      <author>Xinyan Li, Hong&#8208;Jie Peng</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.eng.2023.07.021</guid>
+    </item>
+    <item>
+      <title>A deep-neural network potential to study transformation-induced plasticity in zirconia</title>
+      <link>https://doi.org/10.1016/j.jeurceramsoc.2024.01.007</link>
+      <description>Jin-Yu Zhang, Ga&#235;l Huynh, Fu&#8208;Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney, Journal of the European Ceramic Society. None(None)] 2024. https://openalex.org/W4390630271
+
+                Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, allowing plastic deformation prior to failure, setting them apart from most other ceramics. However, our understanding of ZrO2 plasticity is hindered by the challenge of simulating stress-induced atomic-scale phase transformations, owing to lack of an efficient interatomic potential accurately representing polymorphism and phase changes in ZrO2. In this work, we introduce a novel deep neural network interatomic potential, DP-ZrO2, constructed using a concurrent-learning approach. DP-ZrO2 reproduces properties of various ZrO2 phases, matching their phase diagrams as well as transformation pathways with accuracy comparable to ab initio density functional theory. Leveraging DP-ZrO2, we conducted molecular dynamics simulations of temperature-induced interphase boundary migration and nanocompression. These simulations demonstrate the potential&#8217;s efficiency and applicability in studying deformation microstructures involving phase transformations in ZrO2. Our approach opens the door to large-scale simulations under complex loading conditions, which will shed light on the conditions favouring ZrO2 transformation-induced plasticity.</description>
+      <author>Jin-Yu Zhang, Ga&#235;l Huynh, Fu&#8208;Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jeurceramsoc.2024.01.007</guid>
     </item>
   </channel>
 </rss>
