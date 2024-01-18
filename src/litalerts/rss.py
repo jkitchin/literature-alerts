@@ -14,7 +14,7 @@ def get_rss_item(topic, result):
     abstract = get_abstract(result)
     host = get_host(result)
     citation = get_citation(result)
-        
+    print("GUID: ", Guid(result.get('doi', time.asctime())))
     return Item(title = f'{result["title"]}',
                 description=f'''{citation} {result['id']}
 
