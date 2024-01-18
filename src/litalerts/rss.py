@@ -3,7 +3,7 @@ from pathlib import Path
 import lxml.etree as etree
 from io import BytesIO
 import datetime
-
+import time
 from .openalex import get_authors, get_abstract, get_host, get_citation
 
 def get_rss_item(topic, result):
@@ -20,8 +20,8 @@ def get_rss_item(topic, result):
 
                 {abstract}''', 
                 author=authors,
-                link=result['doi'],
-                guid=Guid(result['doi']),
+                link=result.get('doi', None) or result.get('id', "No ID"),
+                guid=Guid(result.get('doi', time.asctime())),
                 pubDate=datetime.datetime.strptime(result['publication_date'], "%Y-%m-%d"))
 
 
