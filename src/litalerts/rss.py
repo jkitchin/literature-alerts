@@ -16,7 +16,9 @@ def get_rss_item(topic, result):
     citation = get_citation(result)
         
     return Item(title = f'{result["title"]}',
-                description=citation + '\n' + abstract,
+                description=f'''{citation} {result['id']}
+
+                {abstract}''', 
                 author=authors,
                 link=result['doi'],
                 guid=Guid(result['doi']),
