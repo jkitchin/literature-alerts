@@ -54,8 +54,8 @@ def write_org(topic, results):
         f.write(f'Description: {topic["description"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
         f.write(f'Found {len(results)} results from {topic["since"]} to {topic["today"]}\n')
-        f.write('OpenAlex URLS (not including created_from or the API key\n')
-        for _filter in topic['filters']:
+        f.write('OpenAlex URLS (not including from_created_date or the API key)\n')
+        for _filter in topic['filter']:
             f.write(f'- https://api.openalex.org/works?filter={_filter}\n')
         f.write(s)
         
