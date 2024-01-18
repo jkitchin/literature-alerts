@@ -33,7 +33,9 @@ queries:
     filter:
       - author.id:https://openalex.org/A5063320716|https://openalex.org/A5052825722|https://openalex.org/A5010387303|https://openalex.org/A5041685684|https://openalex.org/A5040842816|https://openalex.org/A5048633127|https://openalex.org/A5048485981|https://openalex.org/A5086004922|https://openalex.org/A5056017028|https://openalex.org/A5018420940|https://openalex.org/A5003442464|https://openalex.org/A5055700187|https://openalex.org/A5030631754|https://openalex.org/A5044695139|https://openalex.org/A5028498558|https://openalex.org/A5053252662|https://openalex.org/A5028147543|https://openalex.org/A5037506064|https://openalex.org/A5027983186|https://openalex.org/A5010666650
 
-# This is like a WebOfScience email I get with new citations to my work      
+# This is like a WebOfScience email I get with new citations to my work. You
+# have to generate this set of filters, and you can only put 50 entities per
+# query. I chose 20 here.
   - label: New citations for John Kitchin
     description: New citations for my papers
     # Note you have to update this with new papers when they have openalex ids.
