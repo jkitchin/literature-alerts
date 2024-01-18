@@ -1,8 +1,12 @@
 #+filetags: water_splitting
 #+TITLE: water splitting
-Created on Thu Jan 18 12:50:16 2024
+Description: water splitting papers
+Created on Thu Jan 18 13:34:51 2024
 
 Found 300 results from 2024-01-04 to 2024-01-18
+OpenAlex URLS (not including from_created_date or the API key)
+- https://api.openalex.org/works?filter=concepts.id:https://openalex.org/C135473242
+- https://api.openalex.org/works?filter=title-and-abstract.search:oxygen evolution
 ** Oxygen vacancies modulated bifunctional S-NiMoO4 electrocatalyst for efficient alkaline overall water splitting   
 :PROPERTIES:
 :ID: https://openalex.org/W4390535943
@@ -3363,30 +3367,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -3408,6 +3388,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -3963,30 +3967,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -4008,6 +3988,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -4563,30 +4567,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -4608,6 +4588,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -5163,30 +5167,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -5208,6 +5188,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -5763,30 +5767,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -5808,6 +5788,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -6363,30 +6367,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -6408,6 +6388,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 
@@ -6963,30 +6967,6 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
     
 
-** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
-:PROPERTIES:
-:ID: https://openalex.org/W4390796596
-:DOI: https://doi.org/10.1039/d3ta05566c
-:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
-:HOST: No host
-:END:
-
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390796596
-    
-Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
-    
-The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
-
-    
-
 ** In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390758015
@@ -7008,6 +6988,30 @@ OpenAlex: https://openalex.org/W4390758015
 Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. https://doi.org/10.1038/s41598-023-50361-4
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+
+    
+
+** Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive   
+:PROPERTIES:
+:ID: https://openalex.org/W4390796596
+:DOI: https://doi.org/10.1039/d3ta05566c
+:AUTHORS: Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe
+:HOST: No host
+:END:
+
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta05566c")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390796596"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390796596"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390796596"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390796596
+    
+Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. https://doi.org/10.1039/d3ta05566c
+    
+The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl − .    
 
     
 

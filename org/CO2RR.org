@@ -1,8 +1,12 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
-Created on Thu Jan 18 12:50:18 2024
+Description: Electrochemical reduction of carbon dioxide
+Created on Thu Jan 18 13:34:53 2024
 
 Found 108 results from 2024-01-04 to 2024-01-18
+OpenAlex URLS (not including from_created_date or the API key)
+- https://api.openalex.org/works?filter=concepts.id:https://openalex.org/C24596552
+- https://api.openalex.org/works?filter=title-and-abstract.search:carbon dioxide reduction
 ** A Sulfur‐Doped Copper Catalyst with Efficient Electrocatalytic Formate Generation during the Electrochemical Carbon Dioxide Reduction Reaction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390656131
@@ -723,30 +727,6 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
-:PROPERTIES:
-:ID: https://openalex.org/W4390821611
-:DOI: https://doi.org/10.1038/s43247-023-01168-8
-:AUTHORS: Joeri Rogelj, Robin Lamboll
-:HOST: No host
-:END:
-
-Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390821611
-    
-Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
-    
-Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
-
-    
-
 ** Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390737202
@@ -768,6 +748,30 @@ OpenAlex: https://openalex.org/W4390737202
 A. S. Jacob, Vinod Kumar, S. Metre, No host. https://doi.org/10.1049/icp.2023.3106
     
 The global carbon dioxide emissions from fossil fuels continue to rise, driven by rising energy use. Rooftop photovoltaic (RTPV) systems are an effective way to reduce emissions and, consequently, the carbon footprint for residential consumers. The use of behind-the-meter (BTM) energy storage with RTPV is a flexible and dependable method for generating electricity as it provides power to the customer even if there is an outage from the utility grid. It also reduces reliance on the utility through savings in the electricity bill and reducing CO2 emissions. In this paper, we analyse the economics and emissions along with the sizing of BTM battery storage co-located with RTPV for residential customers in India. Based on the power flow interactions between RTPV, grid, and battery storage, a techno-economic framework is built to compute the system&apos;s life cycle costing. The life cycle cost of energy for BTM battery storage with RTPV to meet a 14-kWh energy demand is INR 11/kWh. We observe a 75% decrease in utility costs and a 58% reduction in CO2 emissions for the same system. The findings of this study can help policymakers, utilities, and homeowners make informed decisions regarding the adoption and integration of energy storage systems with residential solar PV installations.    
+
+    
+
+** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
+:PROPERTIES:
+:ID: https://openalex.org/W4390821611
+:DOI: https://doi.org/10.1038/s43247-023-01168-8
+:AUTHORS: Joeri Rogelj, Robin Lamboll
+:HOST: No host
+:END:
+
+Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390821611
+    
+Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
+    
+Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
 
     
 
@@ -1323,30 +1327,6 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
-:PROPERTIES:
-:ID: https://openalex.org/W4390821611
-:DOI: https://doi.org/10.1038/s43247-023-01168-8
-:AUTHORS: Joeri Rogelj, Robin Lamboll
-:HOST: No host
-:END:
-
-Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390821611
-    
-Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
-    
-Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
-
-    
-
 ** Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390737202
@@ -1368,6 +1348,30 @@ OpenAlex: https://openalex.org/W4390737202
 A. S. Jacob, Vinod Kumar, S. Metre, No host. https://doi.org/10.1049/icp.2023.3106
     
 The global carbon dioxide emissions from fossil fuels continue to rise, driven by rising energy use. Rooftop photovoltaic (RTPV) systems are an effective way to reduce emissions and, consequently, the carbon footprint for residential consumers. The use of behind-the-meter (BTM) energy storage with RTPV is a flexible and dependable method for generating electricity as it provides power to the customer even if there is an outage from the utility grid. It also reduces reliance on the utility through savings in the electricity bill and reducing CO2 emissions. In this paper, we analyse the economics and emissions along with the sizing of BTM battery storage co-located with RTPV for residential customers in India. Based on the power flow interactions between RTPV, grid, and battery storage, a techno-economic framework is built to compute the system&apos;s life cycle costing. The life cycle cost of energy for BTM battery storage with RTPV to meet a 14-kWh energy demand is INR 11/kWh. We observe a 75% decrease in utility costs and a 58% reduction in CO2 emissions for the same system. The findings of this study can help policymakers, utilities, and homeowners make informed decisions regarding the adoption and integration of energy storage systems with residential solar PV installations.    
+
+    
+
+** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
+:PROPERTIES:
+:ID: https://openalex.org/W4390821611
+:DOI: https://doi.org/10.1038/s43247-023-01168-8
+:AUTHORS: Joeri Rogelj, Robin Lamboll
+:HOST: No host
+:END:
+
+Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390821611
+    
+Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
+    
+Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
 
     
 
@@ -1923,30 +1927,6 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
-:PROPERTIES:
-:ID: https://openalex.org/W4390821611
-:DOI: https://doi.org/10.1038/s43247-023-01168-8
-:AUTHORS: Joeri Rogelj, Robin Lamboll
-:HOST: No host
-:END:
-
-Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390821611
-    
-Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
-    
-Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
-
-    
-
 ** Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390737202
@@ -1968,6 +1948,30 @@ OpenAlex: https://openalex.org/W4390737202
 A. S. Jacob, Vinod Kumar, S. Metre, No host. https://doi.org/10.1049/icp.2023.3106
     
 The global carbon dioxide emissions from fossil fuels continue to rise, driven by rising energy use. Rooftop photovoltaic (RTPV) systems are an effective way to reduce emissions and, consequently, the carbon footprint for residential consumers. The use of behind-the-meter (BTM) energy storage with RTPV is a flexible and dependable method for generating electricity as it provides power to the customer even if there is an outage from the utility grid. It also reduces reliance on the utility through savings in the electricity bill and reducing CO2 emissions. In this paper, we analyse the economics and emissions along with the sizing of BTM battery storage co-located with RTPV for residential customers in India. Based on the power flow interactions between RTPV, grid, and battery storage, a techno-economic framework is built to compute the system&apos;s life cycle costing. The life cycle cost of energy for BTM battery storage with RTPV to meet a 14-kWh energy demand is INR 11/kWh. We observe a 75% decrease in utility costs and a 58% reduction in CO2 emissions for the same system. The findings of this study can help policymakers, utilities, and homeowners make informed decisions regarding the adoption and integration of energy storage systems with residential solar PV installations.    
+
+    
+
+** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
+:PROPERTIES:
+:ID: https://openalex.org/W4390821611
+:DOI: https://doi.org/10.1038/s43247-023-01168-8
+:AUTHORS: Joeri Rogelj, Robin Lamboll
+:HOST: No host
+:END:
+
+Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390821611
+    
+Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
+    
+Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
 
     
 
@@ -2523,30 +2527,6 @@ Reaching net-zero emissions by the middle of this century requires the implement
 
     
 
-** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
-:PROPERTIES:
-:ID: https://openalex.org/W4390821611
-:DOI: https://doi.org/10.1038/s43247-023-01168-8
-:AUTHORS: Joeri Rogelj, Robin Lamboll
-:HOST: No host
-:END:
-
-Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390821611
-    
-Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
-    
-Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
-
-    
-
 ** Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers   
 :PROPERTIES:
 :ID: https://openalex.org/W4390737202
@@ -2568,6 +2548,30 @@ OpenAlex: https://openalex.org/W4390737202
 A. S. Jacob, Vinod Kumar, S. Metre, No host. https://doi.org/10.1049/icp.2023.3106
     
 The global carbon dioxide emissions from fossil fuels continue to rise, driven by rising energy use. Rooftop photovoltaic (RTPV) systems are an effective way to reduce emissions and, consequently, the carbon footprint for residential consumers. The use of behind-the-meter (BTM) energy storage with RTPV is a flexible and dependable method for generating electricity as it provides power to the customer even if there is an outage from the utility grid. It also reduces reliance on the utility through savings in the electricity bill and reducing CO2 emissions. In this paper, we analyse the economics and emissions along with the sizing of BTM battery storage co-located with RTPV for residential customers in India. Based on the power flow interactions between RTPV, grid, and battery storage, a techno-economic framework is built to compute the system&apos;s life cycle costing. The life cycle cost of energy for BTM battery storage with RTPV to meet a 14-kWh energy demand is INR 11/kWh. We observe a 75% decrease in utility costs and a 58% reduction in CO2 emissions for the same system. The findings of this study can help policymakers, utilities, and homeowners make informed decisions regarding the adoption and integration of energy storage systems with residential solar PV installations.    
+
+    
+
+** Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget   
+:PROPERTIES:
+:ID: https://openalex.org/W4390821611
+:DOI: https://doi.org/10.1038/s43247-023-01168-8
+:AUTHORS: Joeri Rogelj, Robin Lamboll
+:HOST: No host
+:END:
+
+Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s43247-023-01168-8")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390821611"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390821611"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390821611"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390821611
+    
+Joeri Rogelj, Robin Lamboll, No host. https://doi.org/10.1038/s43247-023-01168-8
+    
+Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 °C and well-below 2 °C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.    
 
     
 

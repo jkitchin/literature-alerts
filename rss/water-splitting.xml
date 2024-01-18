@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 13:34:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -1408,16 +1408,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -1426,6 +1416,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -1658,16 +1658,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -1676,6 +1666,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -1908,16 +1908,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -1926,6 +1916,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2158,16 +2158,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -2176,6 +2166,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2408,16 +2408,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -2426,6 +2416,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2658,16 +2658,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -2676,6 +2666,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>
@@ -2908,16 +2908,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301222</guid>
     </item>
     <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
-    </item>
-    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -2926,6 +2916,16 @@
       <author>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41598-023-50361-4</guid>
+    </item>
+    <item>
+      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
+      <link>https://doi.org/10.1039/d3ta05566c</link>
+      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
+
+                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
+      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
     <item>
       <title>Anodic leaching plus chronopotentiometric aging of Ni2Fe ingot for sustainable oxygen evolution and urea oxidation reactions</title>

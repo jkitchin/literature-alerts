@@ -1,8 +1,11 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
-Created on Thu Jan 18 12:50:20 2024
+Description: Papers by people in the Department of Chemical Engineering at CMU
+Created on Thu Jan 18 13:34:55 2024
 
 Found 3 results from 2024-01-04 to 2024-01-18
+OpenAlex URLS (not including from_created_date or the API key)
+- https://api.openalex.org/works?filter=author.id:https://openalex.org/A5063320716|https://openalex.org/A5052825722|https://openalex.org/A5010387303|https://openalex.org/A5041685684|https://openalex.org/A5040842816|https://openalex.org/A5048633127|https://openalex.org/A5048485981|https://openalex.org/A5086004922|https://openalex.org/A5056017028|https://openalex.org/A5018420940|https://openalex.org/A5003442464|https://openalex.org/A5055700187|https://openalex.org/A5030631754|https://openalex.org/A5044695139|https://openalex.org/A5028498558|https://openalex.org/A5053252662|https://openalex.org/A5028147543|https://openalex.org/A5037506064|https://openalex.org/A5027983186|https://openalex.org/A5010666650
 ** Nitrate Radicals Suppress Biogenic New Particle Formation from Monoterpene Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390668739

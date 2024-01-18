@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:50:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 13:34:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -308,16 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/asec2023-15503</guid>
     </item>
     <item>
-      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
-      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
-      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
-
-                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
-      <author>Joeri Rogelj, Robin Lamboll</author>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
-    </item>
-    <item>
       <title>Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers</title>
       <link>https://doi.org/10.1049/icp.2023.3106</link>
       <description>A. S. Jacob, Vinod Kumar, S. Metre, No host. None(None)] 2023. https://openalex.org/W4390737202
@@ -326,6 +316,16 @@
       <author>A. S. Jacob, Vinod Kumar, S. Metre</author>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1049/icp.2023.3106</guid>
+    </item>
+    <item>
+      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
+      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
+      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
+
+                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
+      <author>Joeri Rogelj, Robin Lamboll</author>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
     </item>
     <item>
       <title>Design a Reducing Co2 Emission System Using Nonfermentable Substrates for Carbon-Economic Biosynthesis of Poly-2-Hydrobutanedioic Acid</title>
@@ -558,16 +558,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/asec2023-15503</guid>
     </item>
     <item>
-      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
-      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
-      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
-
-                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
-      <author>Joeri Rogelj, Robin Lamboll</author>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
-    </item>
-    <item>
       <title>Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers</title>
       <link>https://doi.org/10.1049/icp.2023.3106</link>
       <description>A. S. Jacob, Vinod Kumar, S. Metre, No host. None(None)] 2023. https://openalex.org/W4390737202
@@ -576,6 +566,16 @@
       <author>A. S. Jacob, Vinod Kumar, S. Metre</author>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1049/icp.2023.3106</guid>
+    </item>
+    <item>
+      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
+      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
+      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
+
+                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
+      <author>Joeri Rogelj, Robin Lamboll</author>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
     </item>
     <item>
       <title>Design a Reducing Co2 Emission System Using Nonfermentable Substrates for Carbon-Economic Biosynthesis of Poly-2-Hydrobutanedioic Acid</title>
@@ -808,16 +808,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/asec2023-15503</guid>
     </item>
     <item>
-      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
-      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
-      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
-
-                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
-      <author>Joeri Rogelj, Robin Lamboll</author>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
-    </item>
-    <item>
       <title>Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers</title>
       <link>https://doi.org/10.1049/icp.2023.3106</link>
       <description>A. S. Jacob, Vinod Kumar, S. Metre, No host. None(None)] 2023. https://openalex.org/W4390737202
@@ -826,6 +816,16 @@
       <author>A. S. Jacob, Vinod Kumar, S. Metre</author>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1049/icp.2023.3106</guid>
+    </item>
+    <item>
+      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
+      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
+      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
+
+                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
+      <author>Joeri Rogelj, Robin Lamboll</author>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
     </item>
     <item>
       <title>Design a Reducing Co2 Emission System Using Nonfermentable Substrates for Carbon-Economic Biosynthesis of Poly-2-Hydrobutanedioic Acid</title>
@@ -1058,16 +1058,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/asec2023-15503</guid>
     </item>
     <item>
-      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
-      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
-      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
-
-                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
-      <author>Joeri Rogelj, Robin Lamboll</author>
-      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
-    </item>
-    <item>
       <title>Economic and emissions analysis of behind-the-meter energy storage with rooftop solar: a case study for Indian residential consumers</title>
       <link>https://doi.org/10.1049/icp.2023.3106</link>
       <description>A. S. Jacob, Vinod Kumar, S. Metre, No host. None(None)] 2023. https://openalex.org/W4390737202
@@ -1076,6 +1066,16 @@
       <author>A. S. Jacob, Vinod Kumar, S. Metre</author>
       <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1049/icp.2023.3106</guid>
+    </item>
+    <item>
+      <title>Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
+      <link>https://doi.org/10.1038/s43247-023-01168-8</link>
+      <description>Joeri Rogelj, Robin Lamboll, No host. 5(1)] 2024. https://openalex.org/W4390821611
+
+                Abstract Carbon budgets are quantifications of the total amount of carbon dioxide that can ever be emitted while keeping global warming below specific temperature limits. However, estimates of these budgets for limiting warming to 1.5 &#176;C and well-below 2 &#176;C include assumptions about how much warming can be expected from non-CO 2 emissions. Here, we uncover the non-CO 2 emissions assumptions that underlie the latest remaining carbon budget estimates by the Intergovernmental Panel on Climate Change and quantify the implication of the world pursuing alternative higher or lower emissions. We consider contributions of methane, nitrous oxide, fluorinated gases, and aerosols and show how pursuing inadequate methane emission reductions causes remaining carbon budgets compatible with the Paris Agreement temperature limits to be exhausted today, effectively putting achievement of the Paris Agreement out of reach.</description>
+      <author>Joeri Rogelj, Robin Lamboll</author>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s43247-023-01168-8</guid>
     </item>
     <item>
       <title>Design a Reducing Co2 Emission System Using Nonfermentable Substrates for Carbon-Economic Biosynthesis of Poly-2-Hydrobutanedioic Acid</title>
