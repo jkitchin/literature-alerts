@@ -51,8 +51,12 @@ def write_org(topic, results):
     with open(orgfile, 'w') as f:
         f.write(f'#+filetags: {topic["label"].replace(" ", "_")}\n')
         f.write(f'#+TITLE: {topic["label"]}\n')
+        f.write(f'Description: {topic["description"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
         f.write(f'Found {len(results)} results from {topic["since"]} to {topic["today"]}\n')
+        for _filter in topic['filters']:
+            f.write(f'- https://api.openalex.org/works?filter={_filter}\n')
+        f.write(
         f.write(s)
         
 
