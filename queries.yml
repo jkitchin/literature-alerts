@@ -54,6 +54,5 @@ queries:
 # articles on
   - label: Related papers for John Kitchin
     description: Related papers to my work
-    # Note you have to update this with new papers when they have openalex ids.
     filter:
-     - related_to:https://doi.org/10.1021/acs.iecr.3c02362|https://doi.org/10.1002/aic.18119|https://doi.org/10.1021/acs.iecr.1c04706
+     - related_to:https://openalex.org/works/w4386602600|https://openalex.org/works/w4366983532|https://openalex.org/works/w4290659046
