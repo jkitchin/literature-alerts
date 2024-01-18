@@ -1,8 +1,8 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
-Created on Wed Jan 17 17:08:06 2024
+Created on Thu Jan 18 00:41:23 2024
 
-Found 53 results from 2024-01-03 to 2024-01-17
+Found 53 results from 2024-01-04 to 2024-01-18
 ** Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing   
 :PROPERTIES:
 :ID: https://openalex.org/W4390617556
@@ -27,126 +27,6 @@ Abstract Geometric deep learning has been revolutionizing the molecular modeling
 
     
 
-** The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities   
-:PROPERTIES:
-:ID: https://openalex.org/W4390490151
-:DOI: https://doi.org/10.1021/acs.jpclett.3c02938
-:AUTHORS: Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun
-:HOST: The Journal of Physical Chemistry Letters
-:END:
-
-Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun, The Journal of Physical Chemistry Letters. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c02938")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390490151"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390490151"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390490151"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390490151
-    
-Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun, The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c02938
-    
-The oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are crucial for the conversion of clean energy. Recently, dual-metal-site catalysts (DMSCs) have gained much attention due to their high atom utilization, stronger stability, and better catalytic performance. An advanced method that combines density functional theory (DFT) and machine learning (ML) has been employed in this study to investigate the adsorption free energies of adsorbates on hundreds of potential catalysts, with the aim of screening for catalysts that are highly active for the ORR and OER. The result of this study is that 30 DMSCs with ORR activity superior to Pt, 10 DMSCs with OER activity superior to RuO2, and 4 bifunctional catalysts for the OER and ORR are identified. This work provides guidance for the rational selection of metals on DMSCs to prepare catalysts with a high electrocatalytic performance for renewable energy applications.    
-
-    
-
-** Constructing sulfur and oxygen super-coordinated main-group electrocatalysts for selective and cumulative H2O2 production   
-:PROPERTIES:
-:ID: https://openalex.org/W4390495263
-:DOI: https://doi.org/10.1038/s41467-023-44585-1
-:AUTHORS: Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu
-:HOST: Nature Communications
-:END:
-
-Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44585-1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390495263"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390495263"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390495263"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390495263
-    
-Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu, Nature Communications. https://doi.org/10.1038/s41467-023-44585-1
-    
-Abstract Direct electrosynthesis of hydrogen peroxide (H 2 O 2 ) via the two-electron oxygen reduction reaction presents a burgeoning alternative to the conventional energy-intensive anthraquinone process for on-site applications. Nevertheless, its adoption is currently hindered by inferior H 2 O 2 selectivity and diminished H 2 O 2 yield induced by consecutive H 2 O 2 reduction or Fenton reactions. Herein, guided by theoretical calculations, we endeavor to overcome this challenge by activating a main-group Pb single-atom catalyst via a local micro-environment engineering strategy employing a sulfur and oxygen super-coordinated structure. The main-group catalyst, synthesized using a carbon dot-assisted pyrolysis technique, displays an industrial current density reaching 400 mA cm −2 and elevated accumulated H 2 O 2 concentrations (1358 mM) with remarkable Faradaic efficiencies. Both experimental results and theoretical simulations elucidate that S and O super-coordination directs a fraction of electrons from the main-group Pb sites to the coordinated oxygen atoms, consequently optimizing the *OOH binding energy and augmenting the 2e − oxygen reduction activity. This work unveils novel avenues for mitigating the production-depletion challenge in H 2 O 2 electrosynthesis through the rational design of main-group catalysts.    
-
-    
-
-** Vitamin C-induced CO2 capture enables high-rate ethylene production in CO2 electroreduction   
-:PROPERTIES:
-:ID: https://openalex.org/W4390496360
-:DOI: https://doi.org/10.1038/s41467-023-44586-0
-:AUTHORS: Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam
-:HOST: Nature Communications
-:END:
-
-Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44586-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390496360"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390496360"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390496360"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390496360
-    
-Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam, Nature Communications. https://doi.org/10.1038/s41467-023-44586-0
-    
-Abstract High-rate production of multicarbon chemicals via the electrochemical CO 2 reduction can be achieved by efficient CO 2 mass transport. A key challenge for C−C coupling in high-current-density CO 2 reduction is how to promote *CO formation and dimerization. Here, we report molecularly enhanced CO 2 -to-*CO conversion and *CO dimerization for high-rate ethylene production. Nanoconfinement of ascorbic acid by graphene quantum dots enables immobilization and redox reversibility of ascorbic acid in heterogeneous electrocatalysts. Cu nanowire with ascorbic acid nanoconfined by graphene quantum dots (cAA-CuNW) demonstrates high-rate ethylene production with a Faradaic efficiency of 60.7% and a partial current density of 539 mA/cm 2 , a 2.9-fold improvement over that of pristine CuNW. Furthermore, under low CO 2 ratio of 33%, cAA-CuNW still exhibits efficient ethylene production with a Faradaic efficiency of 41.8%. We find that cAA-CuNW increases *CO coverage and optimizes the *CO binding mode ensemble between atop and bridge for efficient C−C coupling. A mechanistic study reveals that ascorbic acid can facilitate *CO formation and dimerization by favorable electron and proton transfer with strong hydrogen bonding.    
-
-    
-
-** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
-:PROPERTIES:
-:ID: https://openalex.org/W4390511855
-:DOI: https://doi.org/10.1038/s41467-023-44131-z
-:AUTHORS: Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li
-:HOST: Nature Communications
-:END:
-
-Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44131-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390511855"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390511855"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390511855"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390511855
-    
-Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li, Nature Communications. https://doi.org/10.1038/s41467-023-44131-z
-    
-Abstract Despite the recent achievements in urea electrosynthesis from co-reduction of nitrogen wastes (such as NO 3 − ) and CO 2 , the product selectivity remains fairly mediocre due to the competing nature of the two parallel reduction reactions. Here we report a catalyst design that affords high selectivity to urea by sequentially reducing NO 3 − and CO 2 at a dynamic catalytic centre, which not only alleviates the competition issue but also facilitates C−N coupling. We exemplify this strategy on a nitrogen-doped carbon catalyst, where a spontaneous switch between NO 3 − and CO 2 reduction paths is enabled by reversible hydrogenation on the nitrogen functional groups. A high urea yield rate of 596.1 µg mg −1 h −1 with a promising Faradaic efficiency of 62% is obtained. These findings, rationalized by in situ spectroscopic techniques and theoretical calculations, are rooted in the proton-involved dynamic catalyst evolution that mitigates overwhelming reduction of reactants and thereby minimizes the formation of side products.    
-
-    
-
-** Arrayed Pt Single Atoms via Phosphotungstic Acids Intercalated in Silicate Nanochannels for Efficient Hydrogen Evolution Reactions   
-:PROPERTIES:
-:ID: https://openalex.org/W4390519439
-:DOI: https://doi.org/10.1021/acsnano.3c09656
-:AUTHORS: Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng
-:HOST: ACS Nano
-:END:
-
-Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng, ACS Nano. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.3c09656")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390519439"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390519439"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390519439"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390519439
-    
-Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng, ACS Nano. https://doi.org/10.1021/acsnano.3c09656
-    
-Single-atom catalysts, known for their high activity, have garnered significant interest. Currently, single-atom catalysts were prepared mainly on 2D substrates with random distribution. Here, we report a strategy for preparing arrayed single Pt (Pt1) atoms, which are templated through coordination with phosphotungstic acids (PTA) intercalated inside hexagonally packed silicate nanochannels for a high single Pt-atom loading of ca. 3.0 wt %. X-ray absorption spectroscopy, high-angle annular dark-field scanning transmission electron microscopy, and energy-dispersive X-ray spectroscopy, in conjunction with the density-functional theory calculation, collectively indicate that the Pt single atoms are stabilized via a four-oxygen coordination on the PTA within the nanochannels' inner walls. The critical reduction in the Pt-adsorption energy to nearly the cohesive energy of Pt clustering is attributed to the interaction between PTA and the silicate substrate. Consequently, the transition from single-atom dispersion to clustering of Pt atoms can be controlled by adjusting the number density of PTA intercalated within the silicate nanochannels, specifically when the number ratio of Pt atoms to PTA changes from 3.7 to 18. The 3D organized Pt1-PTA pairs, facilitated by the arrayed silicate nanochannels, demonstrate high and stable efficiency with a hydrogen production rate of ca. 300 mmol/h/gPt─approximately twice that of the best-reported Pt efficiency in polyoxometalate-based photocatalytic systems.    
-
-    
-
 ** NiCS3: A cocatalyst surpassing Pt for photocatalytic hydrogen production   
 :PROPERTIES:
 :ID: https://openalex.org/W4390533552
@@ -167,7 +47,7 @@ OpenAlex: https://openalex.org/W4390533552
     
 Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. https://doi.org/10.1016/j.jcis.2023.12.183
     
-Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g−1·h−1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
+Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g-1·h-1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
 
     
 
@@ -603,6 +483,126 @@ Ferromagnetic catalysts in the presence of an external magnetic field can promot
 
     
 
+** The emergence of machine learning force fields in drug design   
+:PROPERTIES:
+:ID: https://openalex.org/W4390583404
+:DOI: https://doi.org/10.1002/med.22008
+:AUTHORS: Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng
+:HOST: Medicinal Research Reviews
+:END:
+
+Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng, Medicinal Research Reviews. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/med.22008")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390583404"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390583404"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390583404"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390583404
+    
+Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng, Medicinal Research Reviews. https://doi.org/10.1002/med.22008
+    
+Abstract In the field of molecular simulation for drug design, traditional molecular mechanic force fields and quantum chemical theories have been instrumental but limited in terms of scalability and computational efficiency. To overcome these limitations, machine learning force fields (MLFFs) have emerged as a powerful tool capable of balancing accuracy with efficiency. MLFFs rely on the relationship between molecular structures and potential energy, bypassing the need for a preconceived notion of interaction representations. Their accuracy depends on the machine learning models used, and the quality and volume of training data sets. With recent advances in equivariant neural networks and high‐quality datasets, MLFFs have significantly improved their performance. This review explores MLFFs, emphasizing their potential in drug design. It elucidates MLFF principles, provides development and validation guidelines, and highlights successful MLFF implementations. It also addresses potential challenges in developing and applying MLFFs. The review concludes by illuminating the path ahead for MLFFs, outlining the challenges to be overcome and the opportunities to be harnessed. This inspires researchers to embrace MLFFs in their investigations as a new tool to perform molecular simulations in drug design.    
+
+    
+
+** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
+:PROPERTIES:
+:ID: https://openalex.org/W4390587030
+:DOI: https://doi.org/10.1038/s41467-023-44587-z
+:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
+:HOST: Nature Communications
+:END:
+
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587030"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587030"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587030"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587030
+    
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
+    
+Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
+
+    
+
+** Competition between Mononuclear and Binuclear Copper Sites across Different Zeolite Topologies   
+:PROPERTIES:
+:ID: https://openalex.org/W4390587835
+:DOI: https://doi.org/10.1021/jacsau.3c00632
+:AUTHORS: Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci
+:HOST: JACS Au
+:END:
+
+Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci, JACS Au. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacsau.3c00632")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587835"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587835"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587835"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587835
+    
+Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci, JACS Au. https://doi.org/10.1021/jacsau.3c00632
+    
+A key challenge for metal-exchanged zeolites is the determination of metal cation speciation and nuclearity under synthesis and reaction conditions. Copper-exchanged zeolites, which are widely used in automotive emissions control and potential catalysts for partial methane oxidation, have in particular evidenced a wide variety of Cu structures that are observed to change with exposure conditions, zeolite composition, and topology. Here, we develop predictive models for Cu cation speciation and nuclearity in CHA, MOR, BEA, AFX, and FER zeolite topologies using interatomic potentials, quantum chemical calculations, and Monte Carlo simulations to interrogate this vast configurational and compositional space. Model predictions are used to rationalize experimentally observed differences between Cu-zeolites in a wide-body of literature, including nuclearity populations, structural variations, and methanol per Cu yields. Our results show that both topological features and commonly observed Al-siting biases in MOR zeolites increase the population of binuclear Cu sites, explaining the small population of mononuclear Cu sites observed in these materials relative to other zeolites such as CHA and BEA. Finally, we used a machine learning classification model to determine the preference to form mononuclear or binuclear Cu sites at different Al configurations in 200 zeolites in the international zeolite database. Model results reveal several zeolite topologies at extreme ends of the mononuclear vs binuclear spectrum, highlighting synthetic options for realization of zeolites with strong Cu nuclearity preferences.    
+
+    
+
+** Controlling the Superconductivity of Nb<sub>2</sub>Pd<sub><i>x</i></sub>S<sub>5</sub> via Reversible Li Intercalation   
+:PROPERTIES:
+:ID: https://openalex.org/W4390588094
+:DOI: https://doi.org/10.1021/acs.inorgchem.3c03524
+:AUTHORS: Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke
+:HOST: Inorganic Chemistry
+:END:
+
+Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke, Inorganic Chemistry. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.inorgchem.3c03524")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390588094"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390588094"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390588094"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390588094
+    
+Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke, Inorganic Chemistry. https://doi.org/10.1021/acs.inorgchem.3c03524
+    
+The Nb2PdxS5 (x ≈ 0.74) superconductor with a Tc of 6.5 K is reduced by the intercalation of lithium in ammonia solution or electrochemically to produce an intercalated phase with expanded lattice parameters. The structure expands by 2% in volume and maintains the C2/m symmetry and rigidity due to the PdS4 units linking the layers. Experimental and computational analysis of the chemically synthesized bulk sample shows that Li occupies triangular prismatic sites between the layers with an occupancy of 0.33(4). This level of intercalation suppresses the superconductivity, with the injection of electrons into the metallic system observed to also reduce the Pauli paramagnetism by ∼40% as the bands are filled to a Fermi level with a lower density of states than in the host material. Deintercalation using iodine partially restores the superconductivity, albeit at a lower Tc of ∼5.5 K and with a smaller volume fraction than in fresh Nb2PdxS5. Electrochemical intercalation reproduces the chemical intercalation product at low Li content (<0.4) and also enables greater reduction, but at higher Li contents (≥0.4) accessed by this route, phase separation occurs with the indication that Li occupies another site.    
+
+    
+
+** A Multiple-Fidelity Method for Accurate Simulation of MoS<sub>2</sub> Properties Using JAX-ReaxFF and Neural Network Potentials   
+:PROPERTIES:
+:ID: https://openalex.org/W4390589697
+:DOI: https://doi.org/10.1021/acs.jpclett.3c03080
+:AUTHORS: K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma
+:HOST: The Journal of Physical Chemistry Letters
+:END:
+
+K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma, The Journal of Physical Chemistry Letters. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c03080")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390589697"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390589697"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390589697"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390589697
+    
+K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma, The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03080
+    
+Reactive force field (ReaxFF) is a commonly used force field for modeling chemical reactions at the atomic level. Recently, JAX-ReaxFF, combined with automatic differentiation, has been used to efficiently parametrize ReaxFF. However, its analytical formula may lead to inaccurate predictions. While neural network-based potentials (NNPs) trained on density functional theory-labeled data offer a more accurate method, it requires a large amount of training data to be trained from scratch. To overcome these issues, we present a multiple-fidelity method that combines JAX-ReaxFF and NNP and apply the method on MoS2, a promising two-dimensional semiconductor for flexible electronics. By incorporating implicit prior physical information, ReaxFF can serve as a cost-effective way to generate pretraining data, facilitating more accurate simulations of MoS2. Moreover, in the Mo–S–H system, the pretraining strategy can reduce root-mean-square errors of energy by 20%. This approach can be extended to a wide variety of material systems, accelerating their computational research.    
+
+    
+
 ** Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing   
 :PROPERTIES:
 :ID: https://openalex.org/W4390617556
@@ -627,126 +627,6 @@ Abstract Geometric deep learning has been revolutionizing the molecular modeling
 
     
 
-** The DFT and Machine Learning Method Accelerated the Discovery of DMSCs with High ORR and OER Catalytic Activities   
-:PROPERTIES:
-:ID: https://openalex.org/W4390490151
-:DOI: https://doi.org/10.1021/acs.jpclett.3c02938
-:AUTHORS: Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun
-:HOST: The Journal of Physical Chemistry Letters
-:END:
-
-Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun, The Journal of Physical Chemistry Letters. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c02938")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390490151"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390490151"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390490151"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390490151
-    
-Zhaolin Fang, Shuyuan Li, Yunjiang Zhang, Yaxin Wang, Min Kong, Chenyu Huang, Shiqi Sun, The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c02938
-    
-The oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are crucial for the conversion of clean energy. Recently, dual-metal-site catalysts (DMSCs) have gained much attention due to their high atom utilization, stronger stability, and better catalytic performance. An advanced method that combines density functional theory (DFT) and machine learning (ML) has been employed in this study to investigate the adsorption free energies of adsorbates on hundreds of potential catalysts, with the aim of screening for catalysts that are highly active for the ORR and OER. The result of this study is that 30 DMSCs with ORR activity superior to Pt, 10 DMSCs with OER activity superior to RuO2, and 4 bifunctional catalysts for the OER and ORR are identified. This work provides guidance for the rational selection of metals on DMSCs to prepare catalysts with a high electrocatalytic performance for renewable energy applications.    
-
-    
-
-** Constructing sulfur and oxygen super-coordinated main-group electrocatalysts for selective and cumulative H2O2 production   
-:PROPERTIES:
-:ID: https://openalex.org/W4390495263
-:DOI: https://doi.org/10.1038/s41467-023-44585-1
-:AUTHORS: Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu
-:HOST: Nature Communications
-:END:
-
-Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44585-1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390495263"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390495263"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390495263"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390495263
-    
-Xiao Zhou, Min Yuan, Changming Zhao, Cai Chen, Ming‐Kun Ke, Shan Xu, Jie-Jie Chen, Yuen Wu, Han‐Qing Yu, Nature Communications. https://doi.org/10.1038/s41467-023-44585-1
-    
-Abstract Direct electrosynthesis of hydrogen peroxide (H 2 O 2 ) via the two-electron oxygen reduction reaction presents a burgeoning alternative to the conventional energy-intensive anthraquinone process for on-site applications. Nevertheless, its adoption is currently hindered by inferior H 2 O 2 selectivity and diminished H 2 O 2 yield induced by consecutive H 2 O 2 reduction or Fenton reactions. Herein, guided by theoretical calculations, we endeavor to overcome this challenge by activating a main-group Pb single-atom catalyst via a local micro-environment engineering strategy employing a sulfur and oxygen super-coordinated structure. The main-group catalyst, synthesized using a carbon dot-assisted pyrolysis technique, displays an industrial current density reaching 400 mA cm −2 and elevated accumulated H 2 O 2 concentrations (1358 mM) with remarkable Faradaic efficiencies. Both experimental results and theoretical simulations elucidate that S and O super-coordination directs a fraction of electrons from the main-group Pb sites to the coordinated oxygen atoms, consequently optimizing the *OOH binding energy and augmenting the 2e − oxygen reduction activity. This work unveils novel avenues for mitigating the production-depletion challenge in H 2 O 2 electrosynthesis through the rational design of main-group catalysts.    
-
-    
-
-** Vitamin C-induced CO2 capture enables high-rate ethylene production in CO2 electroreduction   
-:PROPERTIES:
-:ID: https://openalex.org/W4390496360
-:DOI: https://doi.org/10.1038/s41467-023-44586-0
-:AUTHORS: Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam
-:HOST: Nature Communications
-:END:
-
-Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44586-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390496360"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390496360"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390496360"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390496360
-    
-Jong Youn Kim, T.-L. Lee, Hyun Dong Jung, Minkyoung Kim, Jungsu Eo, Byeongjae Kang, Hyeonwoo Jung, Jaehyoung Park, D.H. Bae, Yujin Lee, Sojung Park, Wooyul Kim, Seoin Back, Youngu Lee, Dae‐Hyun Nam, Nature Communications. https://doi.org/10.1038/s41467-023-44586-0
-    
-Abstract High-rate production of multicarbon chemicals via the electrochemical CO 2 reduction can be achieved by efficient CO 2 mass transport. A key challenge for C−C coupling in high-current-density CO 2 reduction is how to promote *CO formation and dimerization. Here, we report molecularly enhanced CO 2 -to-*CO conversion and *CO dimerization for high-rate ethylene production. Nanoconfinement of ascorbic acid by graphene quantum dots enables immobilization and redox reversibility of ascorbic acid in heterogeneous electrocatalysts. Cu nanowire with ascorbic acid nanoconfined by graphene quantum dots (cAA-CuNW) demonstrates high-rate ethylene production with a Faradaic efficiency of 60.7% and a partial current density of 539 mA/cm 2 , a 2.9-fold improvement over that of pristine CuNW. Furthermore, under low CO 2 ratio of 33%, cAA-CuNW still exhibits efficient ethylene production with a Faradaic efficiency of 41.8%. We find that cAA-CuNW increases *CO coverage and optimizes the *CO binding mode ensemble between atop and bridge for efficient C−C coupling. A mechanistic study reveals that ascorbic acid can facilitate *CO formation and dimerization by favorable electron and proton transfer with strong hydrogen bonding.    
-
-    
-
-** Sequential co-reduction of nitrate and carbon dioxide enables selective urea electrosynthesis   
-:PROPERTIES:
-:ID: https://openalex.org/W4390511855
-:DOI: https://doi.org/10.1038/s41467-023-44131-z
-:AUTHORS: Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li
-:HOST: Nature Communications
-:END:
-
-Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44131-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390511855"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390511855"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390511855"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390511855
-    
-Yang Li, Shu Guo Zheng, Hao Líu, Qi Xiong, Haocong Yi, Haibin Yang, Zongwei Mei, Qinghe Zhao, Zhoulan Yin, Ming Huang, Yuan Lin, Wei‐Hong Lai, Shi Xue Dou, Feng Pan, Shunning Li, Nature Communications. https://doi.org/10.1038/s41467-023-44131-z
-    
-Abstract Despite the recent achievements in urea electrosynthesis from co-reduction of nitrogen wastes (such as NO 3 − ) and CO 2 , the product selectivity remains fairly mediocre due to the competing nature of the two parallel reduction reactions. Here we report a catalyst design that affords high selectivity to urea by sequentially reducing NO 3 − and CO 2 at a dynamic catalytic centre, which not only alleviates the competition issue but also facilitates C−N coupling. We exemplify this strategy on a nitrogen-doped carbon catalyst, where a spontaneous switch between NO 3 − and CO 2 reduction paths is enabled by reversible hydrogenation on the nitrogen functional groups. A high urea yield rate of 596.1 µg mg −1 h −1 with a promising Faradaic efficiency of 62% is obtained. These findings, rationalized by in situ spectroscopic techniques and theoretical calculations, are rooted in the proton-involved dynamic catalyst evolution that mitigates overwhelming reduction of reactants and thereby minimizes the formation of side products.    
-
-    
-
-** Arrayed Pt Single Atoms via Phosphotungstic Acids Intercalated in Silicate Nanochannels for Efficient Hydrogen Evolution Reactions   
-:PROPERTIES:
-:ID: https://openalex.org/W4390519439
-:DOI: https://doi.org/10.1021/acsnano.3c09656
-:AUTHORS: Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng
-:HOST: ACS Nano
-:END:
-
-Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng, ACS Nano. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.3c09656")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390519439"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390519439"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390519439"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390519439
-    
-Je‐Wei Chang, Kuan‐Hsuan Su, Chih‐Wen Pao, Jih Jin Tsai, Chun‐Jen Su, Jeng-Lung Chen, Lian‐Ming Lyu, Chun Hong Kuo, An‐Chung Su, Meihua Yang, Ying‐Huang Lai, U‐Ser Jeng, ACS Nano. https://doi.org/10.1021/acsnano.3c09656
-    
-Single-atom catalysts, known for their high activity, have garnered significant interest. Currently, single-atom catalysts were prepared mainly on 2D substrates with random distribution. Here, we report a strategy for preparing arrayed single Pt (Pt1) atoms, which are templated through coordination with phosphotungstic acids (PTA) intercalated inside hexagonally packed silicate nanochannels for a high single Pt-atom loading of ca. 3.0 wt %. X-ray absorption spectroscopy, high-angle annular dark-field scanning transmission electron microscopy, and energy-dispersive X-ray spectroscopy, in conjunction with the density-functional theory calculation, collectively indicate that the Pt single atoms are stabilized via a four-oxygen coordination on the PTA within the nanochannels' inner walls. The critical reduction in the Pt-adsorption energy to nearly the cohesive energy of Pt clustering is attributed to the interaction between PTA and the silicate substrate. Consequently, the transition from single-atom dispersion to clustering of Pt atoms can be controlled by adjusting the number density of PTA intercalated within the silicate nanochannels, specifically when the number ratio of Pt atoms to PTA changes from 3.7 to 18. The 3D organized Pt1-PTA pairs, facilitated by the arrayed silicate nanochannels, demonstrate high and stable efficiency with a hydrogen production rate of ca. 300 mmol/h/gPt─approximately twice that of the best-reported Pt efficiency in polyoxometalate-based photocatalytic systems.    
-
-    
-
 ** NiCS3: A cocatalyst surpassing Pt for photocatalytic hydrogen production   
 :PROPERTIES:
 :ID: https://openalex.org/W4390533552
@@ -767,7 +647,7 @@ OpenAlex: https://openalex.org/W4390533552
     
 Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. https://doi.org/10.1016/j.jcis.2023.12.183
     
-Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g−1·h−1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
+Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g-1·h-1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
 
     
 
@@ -1200,6 +1080,126 @@ OpenAlex: https://openalex.org/W4390582441
 Guangjian Song, Wei Mao, Jing Zhou, Liuhua Mu, Sanzhao Song, ACS Catalysis. https://doi.org/10.1021/acscatal.3c05032
     
 Ferromagnetic catalysts in the presence of an external magnetic field can promote the reaction kinetics of the oxygen evolution reaction (OER) by enhancing spin-selective electron transfer as intermediates and products confer spin-dependent behavior. It has been found that γ-Fe2O3 with ferromagnetism exhibits an enhanced performance for the OER activity, but its preparation is limited. Herein, we report an adsorption-pyrolysis process in air in which the transformation of α-Fe2O3 into γ-Fe2O3 is precisely regulated by controlling the content of Co ions. Interestingly, a small, constant external magnetic field (∼200 mT) was applied at the anode, resulting in a significant impact on the OER performance of the obtained series of catalysts with different contents of γ-Fe2O3 under alkaline conditions. Theoretical results reveal that the same spin configuration of Fe and O atoms in γ-Fe2O3 provides a spin conduction channel, which enhances the ability to selectively remove spin-oriented electrons from the reactants and accelerates the accumulation of triplet oxygen molecules during the OER process, thereby promoting the OER. These findings provide a strategy toward the controllable phase transformation of Fe2O3 and deep insights for understanding the OER behavior of Fe-based electrocatalysts under magnetic fields.    
+
+    
+
+** The emergence of machine learning force fields in drug design   
+:PROPERTIES:
+:ID: https://openalex.org/W4390583404
+:DOI: https://doi.org/10.1002/med.22008
+:AUTHORS: Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng
+:HOST: Medicinal Research Reviews
+:END:
+
+Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng, Medicinal Research Reviews. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/med.22008")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390583404"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390583404"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390583404"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390583404
+    
+Mingan Chen, Xinyu Jiang, Lehan Zhang, Xiaoxu Chen, Wen Yan, Zhiyong Gu, Xutong Li, Mingyue Zheng, Medicinal Research Reviews. https://doi.org/10.1002/med.22008
+    
+Abstract In the field of molecular simulation for drug design, traditional molecular mechanic force fields and quantum chemical theories have been instrumental but limited in terms of scalability and computational efficiency. To overcome these limitations, machine learning force fields (MLFFs) have emerged as a powerful tool capable of balancing accuracy with efficiency. MLFFs rely on the relationship between molecular structures and potential energy, bypassing the need for a preconceived notion of interaction representations. Their accuracy depends on the machine learning models used, and the quality and volume of training data sets. With recent advances in equivariant neural networks and high‐quality datasets, MLFFs have significantly improved their performance. This review explores MLFFs, emphasizing their potential in drug design. It elucidates MLFF principles, provides development and validation guidelines, and highlights successful MLFF implementations. It also addresses potential challenges in developing and applying MLFFs. The review concludes by illuminating the path ahead for MLFFs, outlining the challenges to be overcome and the opportunities to be harnessed. This inspires researchers to embrace MLFFs in their investigations as a new tool to perform molecular simulations in drug design.    
+
+    
+
+** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
+:PROPERTIES:
+:ID: https://openalex.org/W4390587030
+:DOI: https://doi.org/10.1038/s41467-023-44587-z
+:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
+:HOST: Nature Communications
+:END:
+
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587030"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587030"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587030"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587030
+    
+Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung−Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
+    
+Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
+
+    
+
+** Competition between Mononuclear and Binuclear Copper Sites across Different Zeolite Topologies   
+:PROPERTIES:
+:ID: https://openalex.org/W4390587835
+:DOI: https://doi.org/10.1021/jacsau.3c00632
+:AUTHORS: Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci
+:HOST: JACS Au
+:END:
+
+Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci, JACS Au. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacsau.3c00632")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587835"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587835"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587835"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390587835
+    
+Asanka Wijerathne, Allison M. Sawyer, Rohil Daya, Christopher Paolucci, JACS Au. https://doi.org/10.1021/jacsau.3c00632
+    
+A key challenge for metal-exchanged zeolites is the determination of metal cation speciation and nuclearity under synthesis and reaction conditions. Copper-exchanged zeolites, which are widely used in automotive emissions control and potential catalysts for partial methane oxidation, have in particular evidenced a wide variety of Cu structures that are observed to change with exposure conditions, zeolite composition, and topology. Here, we develop predictive models for Cu cation speciation and nuclearity in CHA, MOR, BEA, AFX, and FER zeolite topologies using interatomic potentials, quantum chemical calculations, and Monte Carlo simulations to interrogate this vast configurational and compositional space. Model predictions are used to rationalize experimentally observed differences between Cu-zeolites in a wide-body of literature, including nuclearity populations, structural variations, and methanol per Cu yields. Our results show that both topological features and commonly observed Al-siting biases in MOR zeolites increase the population of binuclear Cu sites, explaining the small population of mononuclear Cu sites observed in these materials relative to other zeolites such as CHA and BEA. Finally, we used a machine learning classification model to determine the preference to form mononuclear or binuclear Cu sites at different Al configurations in 200 zeolites in the international zeolite database. Model results reveal several zeolite topologies at extreme ends of the mononuclear vs binuclear spectrum, highlighting synthetic options for realization of zeolites with strong Cu nuclearity preferences.    
+
+    
+
+** Controlling the Superconductivity of Nb<sub>2</sub>Pd<sub><i>x</i></sub>S<sub>5</sub> via Reversible Li Intercalation   
+:PROPERTIES:
+:ID: https://openalex.org/W4390588094
+:DOI: https://doi.org/10.1021/acs.inorgchem.3c03524
+:AUTHORS: Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke
+:HOST: Inorganic Chemistry
+:END:
+
+Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke, Inorganic Chemistry. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.inorgchem.3c03524")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390588094"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390588094"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390588094"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390588094
+    
+Mahmoud Elgaml, Sunita Dey, Jiayi Cen, Maxim Avdeev, David O. Scanlon, Clare P. Grey, Simon J. Clarke, Inorganic Chemistry. https://doi.org/10.1021/acs.inorgchem.3c03524
+    
+The Nb2PdxS5 (x ≈ 0.74) superconductor with a Tc of 6.5 K is reduced by the intercalation of lithium in ammonia solution or electrochemically to produce an intercalated phase with expanded lattice parameters. The structure expands by 2% in volume and maintains the C2/m symmetry and rigidity due to the PdS4 units linking the layers. Experimental and computational analysis of the chemically synthesized bulk sample shows that Li occupies triangular prismatic sites between the layers with an occupancy of 0.33(4). This level of intercalation suppresses the superconductivity, with the injection of electrons into the metallic system observed to also reduce the Pauli paramagnetism by ∼40% as the bands are filled to a Fermi level with a lower density of states than in the host material. Deintercalation using iodine partially restores the superconductivity, albeit at a lower Tc of ∼5.5 K and with a smaller volume fraction than in fresh Nb2PdxS5. Electrochemical intercalation reproduces the chemical intercalation product at low Li content (<0.4) and also enables greater reduction, but at higher Li contents (≥0.4) accessed by this route, phase separation occurs with the indication that Li occupies another site.    
+
+    
+
+** A Multiple-Fidelity Method for Accurate Simulation of MoS<sub>2</sub> Properties Using JAX-ReaxFF and Neural Network Potentials   
+:PROPERTIES:
+:ID: https://openalex.org/W4390589697
+:DOI: https://doi.org/10.1021/acs.jpclett.3c03080
+:AUTHORS: K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma
+:HOST: The Journal of Physical Chemistry Letters
+:END:
+
+K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma, The Journal of Physical Chemistry Letters. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c03080")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390589697"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390589697"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390589697"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390589697
+    
+K. G. Wang, Longkun Xu, Wei Shao, Haishun Jin, Qiang Wang, Ming Ma, The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03080
+    
+Reactive force field (ReaxFF) is a commonly used force field for modeling chemical reactions at the atomic level. Recently, JAX-ReaxFF, combined with automatic differentiation, has been used to efficiently parametrize ReaxFF. However, its analytical formula may lead to inaccurate predictions. While neural network-based potentials (NNPs) trained on density functional theory-labeled data offer a more accurate method, it requires a large amount of training data to be trained from scratch. To overcome these issues, we present a multiple-fidelity method that combines JAX-ReaxFF and NNP and apply the method on MoS2, a promising two-dimensional semiconductor for flexible electronics. By incorporating implicit prior physical information, ReaxFF can serve as a cost-effective way to generate pretraining data, facilitating more accurate simulations of MoS2. Moreover, in the Mo–S–H system, the pretraining strategy can reduce root-mean-square errors of energy by 20%. This approach can be extended to a wide variety of material systems, accelerating their computational research.    
 
     
 

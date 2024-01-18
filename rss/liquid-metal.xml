@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Jan 2024 17:07:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 00:41:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -71,15 +71,6 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148580</guid>
     </item>
     <item>
-      <title>Plasma-Catalyzed One-Step Synthesis of Alcohols from CO&lt;sub&gt;2&lt;/sub&gt; over Cu/&#947;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyst</title>
-      <link>https://doi.org/10.1021/acs.iecr.3c03600</link>
-      <description>Xiaolin Liu, Peizhuang Si, Yupeng Zhang, Lixin Cui, Yifei Feng, Tiantian Wang, Zhao Min, Fang Liu, Feng-ying. Han, Industrial &amp; Engineering Chemistry Research. None(None)] 2024.
-The direct conversion of CO2 and CH4 into value-added chemicals at room temperature and atmospheric pressure poses a significant challenge in the chemical field. Nonthermal plasma (NTP) exhibits unique properties, enabling the provision of energy up to 10 eV at room temperature. However, the active species in NTP are complex, making the control of liquid products difficult. To address this, Cu can be introduced into &#947;-Al2O3 through the solid ion exchange method, followed by secondary calcination to obtain a nonprecious metal catalyst (Cu/&#947;-Al2O3) characterized by high activity, high stability, and exclusive Cu2+ species. Combining 10% Cu/&#947;-Al2O3 with plasma resulted in CO2 and CH4 conversions of 34.7 and 30.2%, respectively, with a liquid product selectivity of 55%. The presence of abundant Cu2+ species led to alcohol products reaching 38.3%, with methanol being the main product (29.6%), surpassing the reported 20.5%.</description>
-      <author>Xiaolin Liu, Peizhuang Si, Yupeng Zhang, Lixin Cui, Yifei Feng, Tiantian Wang, Zhao Min, Fang Liu, Feng-ying. Han</author>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.3c03600</guid>
-    </item>
-    <item>
       <title>Uncovering the Synergy between Gold and Sodium on ZrO2 for Boosting the Reverse Water Gas Shift Reaction: In-Situ Spectroscopic Investigations</title>
       <link>https://doi.org/10.1016/j.apcatb.2023.123685</link>
       <description>Abdallah I.M. Rabee, Sebasti&#225;n Cisneros, Dan Zhao, Carsten Kreyenschulte, Stephan Bartling, Vita A. Kondratenko, Christoph Kubis, Evgenii V. Kondratenko, Angelika Br&#252;ckner, Jabor Rabeah, Applied Catalysis B: Environmental. None(None)] 2024.
@@ -87,24 +78,6 @@ CO2 conversion to CO via the reverse water-gas shift (RWGS) reaction is a promis
       <author>Abdallah I.M. Rabee, Sebasti&#225;n Cisneros, Dan Zhao, Carsten Kreyenschulte, Stephan Bartling, Vita A. Kondratenko, Christoph Kubis, Evgenii V. Kondratenko, Angelika Br&#252;ckner, Jabor Rabeah</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2023.123685</guid>
-    </item>
-    <item>
-      <title>Construction of novel surfactant-modified metal-organic framework adenine-UiO-66 with enhanced piezocatalytic degradation of diclofenac sodium</title>
-      <link>https://doi.org/10.1016/j.solidstatesciences.2024.107436</link>
-      <description>Nan Li, Mianmian Wu, Zenghui Guo, Qingfei Li, Guifang Sun, Wenjing Shen, Minghao Shi, Jiangquan Ma, Solid State Sciences. None(None)] 2024.
-Piezoelectric materials can harvest mechanical energy and convert it into electrical energy, which have lately become highly effective catalysts to sustainable eliminate pollutants. Here, by adding different surfactants to metal-organic framework adenine-UiO-66 (AD-U) materials, the metal-organic framework adenine-UiO-66 (AD-U-S) modified by sodium dodecyl benzene sulfonate (SDBS) and the metal-organic framework adenine-UiO-66 (AD-U-C) modified by cetyltrimethylammonium bromide (CTAB) were prepared for the first time. With the antibiotic diclofenac sodium (DCF) as the target pollutant, the degradation efficiencies of AD-U-S (0.30) and AD-U-C (0.30) were 98 % and 78 % in 30 min, respectively. Specially, the reaction rate constant of AD-U-S (0.30) is 3.5 times that of AD-U-C (0.30). The performance improvement is due to the larger specific surface area, stronger ferroelectric properties, enhanced oxidation capability and higher charge transfer efficiency of AD-U-S (0.30) than that of AD-U-C (0.30). The capture experiments showed that &#8231;OH and h+ were the main active species on AD-U-S (0.30) and AD-U-C (0.30) during the removal of DCF. In addition, possible pathways for DCF piezodegradation were obtained by liquid-phase mass spectrometry and DFT calculations. This study is benefit to promote the development of piezocatalytic technology for wastewater treatment.</description>
-      <author>Nan Li, Mianmian Wu, Zenghui Guo, Qingfei Li, Guifang Sun, Wenjing Shen, Minghao Shi, Jiangquan Ma</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.solidstatesciences.2024.107436</guid>
-    </item>
-    <item>
-      <title>A heterogeneously activated peroxymonosulfate with a Co and Cu codoped bimetallic metal-organic framework efficiently degrades tetracycline in water</title>
-      <link>https://doi.org/10.1016/j.mcat.2023.113817</link>
-      <description>Qianyuan Mo, Haoyuan Zheng, Guishang Sheng, Molecular Catalysis. 553(None)] 2024.
-In the study presented in this paper, a cobalt and copper codoped bimetallic metal-organic framework (CoCu&#8211;MOF) was synthesized by a solvothermal method. The CoCu&#8211;MOF was then utilized to activate peroxymonosulfate (PMS) to degrade the tetracycline (TC) present in water. When the concentration of organic pollutants was 20 mg/L, the degradation efficiency of TC by the Co1Cu1&#8211;MOF/PMS system reached 98.17 % within 30 min, which was better than that of the PMS and Cu-MOF/PMS systems alone. The effects of catalyst addition, PMS usage, initial pH, temperature, coexisting ions and initial TC concentration on the degradation of TC by Co1Cu1&#8211;MOF were investigated. The sulfate radical (SO4&#8226;&#8722;), hydroxyl radical (&#8226;OH), superoxide radical (O2&#8226;&#8722;), and nonradical singlet oxygen (1O2) were identified as the primary reactive species through quenching experiments and electron paramagnetic resonance (EPR) analyses. Moreover, linear sweep voltammetry (LSV) analysis was used to determine the occurrence of an electron transfer-mediated nonradical pathway in the reaction system in addition to 1O2. The concentrations of the TC intermediates were determined using liquid chromatography&#8210;mass spectrometry (LC&#8210;MS), and potential degradation processes were proposed. This study showed that CoCu&#8211;MOF is a heterogeneous catalyst that activates PMS for efficient TC degradation.</description>
-      <author>Qianyuan Mo, Haoyuan Zheng, Guishang Sheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2023.113817</guid>
     </item>
     <item>
       <title>The role of added oxidising agents in assisting the photocatalytic treatment of olive mill wastewater using a metal-free g-C3N4 optical semiconductor</title>
@@ -123,15 +96,6 @@ Abstract. Porous interpenetrated zirconium&#8211;organic frameworks (PIZOFs) are
       <author>G&#252;nter Hempel, Ricardo Kurz, Silvia Paasch, Kay Saalw&#228;chter, Eike Brunner</author>
       <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/mr-5-1-2024</guid>
-    </item>
-    <item>
-      <title>Organic Peroxides</title>
-      <link>https://doi.org/10.1002/0471125474.tox084.pub3</link>
-      <description>Custodio V. Muianga, Steven Lasee, Patty's Toxicology. None(None)] 2024.
-Abstract Organic peroxides (R&#63743;O&#63743;O&#63743;R&#8242;), solid or liquid with the bivalent &#63743;O&#63743;O&#63743; structure. Relatively unstable and highly reactive molecules due to the presence of an oxygen&#8211;oxygen linkage. The oxygen&#8211;oxygen bond may be cleaved to form highly reactive free radicals and react with many substances (e.g., metals, acids, and bases). ROORs are used in plastics, rubbers, and many industries as initiators, accelerators, promoters, catalysts, activators, and more. Major concerns with ROORs are associated with fires, explosions, and corrosiveness. Reactive oxygen species and free radicals may lead to DNA damage and mutagenesis. Recent work from government agents, academic research laboratories, and manufacturing organizations have focused on physical hazards classification and categorization; and producing best practice protocols for safe handling and storage, control of temperatures, self&#8208;accelerating decomposition temperatures, spills cleaning, disposal, and treatment of ROORs residues. These efforts allow compliance with countries and international regulations. Potential health hazards are associated with eye and skin contact, inhalation, and ingestion. Acute exposure may lead to irritation, allergic response, and potential damage to the eye and skin. As with any irritant or corrosive, dose is a critical consideration with respect to understanding the risk. Chronic exposures, mostly understood in animals but there are human data, can cause a myriad of effects. These may range from respiratory illnesses, to liver, kidney damage, and cancer. The manufacturer's SDS of individual chemical may provide toxicity information. This chapter summarizes chemical&#8208;specific toxicity information on 77 organic peroxide compounds grouped in eight physical hazard categories. NIOSH has fully validated the method for benzoyl peroxide. NTP has released a report on the toxic effects of t &#8208;butyl perbenzoate and it deserves to be considered. Exposure assessment methods when available were presented. Future research needs to focus on epidemiological and toxicological studies of ROORs.</description>
-      <author>Custodio V. Muianga, Steven Lasee</author>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/0471125474.tox084.pub3</guid>
     </item>
   </channel>
 </rss>
