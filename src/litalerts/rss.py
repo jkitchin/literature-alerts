@@ -14,14 +14,18 @@ def get_rss_item(topic, result):
     abstract = get_abstract(result)
     host = get_host(result)
     citation = get_citation(result)
-    print("GUID: ", result.get('doi', time.asctime()), Guid(result.get('doi', time.asctime())))
+    try:
+        guid = Guid(result['doi'])
+    except:
+        guid = Guid(result['id'])
+        print("GUID failed on: ", result['id'])
     return Item(title = f'{result["title"]}',
                 description=f'''{citation} {result['id']}
 
                 {abstract}''', 
                 author=authors,
                 link=result.get('doi', None) or result.get('id', "No ID"),
-                guid=Guid(result.get('doi', time.asctime())),
+                guid=guid,
                 pubDate=datetime.datetime.strptime(result['publication_date'], "%Y-%m-%d"))
 
 
