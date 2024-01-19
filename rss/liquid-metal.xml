@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Jan 2024 23:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 00:41:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -148,16 +148,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4693252</guid>
     </item>
     <item>
-      <title>CuNiZn vs CuZn Electrodes: Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction, Role of Metal Elements, and Insights for C&#8211;C Coupling Chemistry</title>
-      <link>https://doi.org/10.1021/acsaem.3c02550</link>
-      <description>Yunji Gwon, Seon Young Hwang, Go Eun Park, Sang-Eun Bae, Gak-Won Yun, Choong Kyun Rhee, Youngku Sohn, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4390563376
-
-                Exploring bi- and trimetallic catalysts in electrochemical CO2 reduction (EC CO2R) has been a focal point for discovering reduction products. This study investigates the distinct roles of metal elements in the CO2R using CuNiZn and CuZn electrodes. Bimetallic CuZn exhibits superior electrochemical activity, yielding substantial amounts of CO, CH4, C2H4, and various liquid products, including formate, ethanol, acetate, propanol, and isopropanol. The study on trimetallic CuNiZn suggests potential connections to Fischer&#8211;Tropsch (FT) synthesis, indicating their capability to produce long-chain hydrocarbons (CnH2n and CnH2n+2, n = 2&#8211;7) from CO2. EC CO reduction validated the FT process over the bi- and trimetallic catalysts. The discussion explores mechanisms for the formation of CO, CH4, and C&#8211;C coupled C2+ products, considering potential- and concentration-dependent Faradaic efficiencies (FEs). Recycling tests emphasize the influence of metal composition on FEs. Surface analyses reveal oxidation states and compositional changes, while the dissolution of metals during electrochemistry highlights dynamic surface characteristics. This work provides insights into the metal composition of bi- and trimetallic catalysts, surface states, and electrochemical conditions, advancing our understanding of these electrodes and their role in CO2 recycling through electrochemistry.</description>
-      <author>Yunji Gwon, Seon Young Hwang, Go Eun Park, Sang-Eun Bae, Gak-Won Yun, Choong Kyun Rhee, Youngku Sohn</author>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c02550</guid>
-    </item>
-    <item>
       <title>A magnetic pore-confined catalyst with ionic liquids supported on MOFs for the synthesis of aryl-oxazolidinones: design, performance, and recyclability</title>
       <link>https://doi.org/10.1016/j.cej.2024.148678</link>
       <description>Siying Chong, Jiaoyan Li, Shuang Zhao, G. Huang, Yajing Zhang, Rui Rui Liu, Kangjun Wang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390748587
@@ -256,6 +246,16 @@
       <author>Liangliang Cheng, Shaonan Tian, Dong Liang, Jing Gu, Ruizhe Chen, Xueru Chen, Haoran Yuan, Yong Chen</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4697149</guid>
+    </item>
+    <item>
+      <title>Saccharide formation by sustainable formose reaction using heterogeneous zeolite catalysts</title>
+      <link>https://doi.org/10.1039/d3dt02321d</link>
+      <description>Minoru Waki, Soichi Shirai, Yoko Hase, Dalton Transactions. None(None)] 2024. https://openalex.org/W4390768301
+
+                The formose reaction is a unique chemical reaction for the preparation of saccharides from formaldehyde, a single carbon compound. We applied zeolite materials as heterogeneous catalysts to the formose reaction. The simple addition of Linde type A zeolite containing calcium ions (Ca-LTA) to an aqueous solution of formaldehyde and glycolaldehyde produced saccharides at room temperature. A quantitative analysis performed by high-performance liquid chromatography revealed that triose, tetrose, pentose, and hexose saccharides were produced with few byproducts. Ca-LTA was recovered from the reaction mixture by filtration, and the retrieved zeolite was found to be reusable under the same conditions. The catalytic activity of Ca-LTA was higher than those of conventional calcium catalysts and other solid materials such as silica, alumina, and hydroxyapatite. Several other types of zeolites with different crystal structures and alkali/alkali-earth metal ions also showed catalytic activity for saccharide formation. Based on the analytical results obtained by infrared spectroscopy, temperature-programmed desorption profiles and NMR measurements, we propose a reaction mechanism in which C-C bond formation is promoted by the mild basicity of the oxygen atoms and acidity on the metal ions of the aluminosilicate on the zeolite surfaces with low SiO2/Al2O3 ratios.</description>
+      <author>Minoru Waki, Soichi Shirai, Yoko Hase</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3dt02321d</guid>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Thu Jan 18 23:35:21 2024
+Created on Fri Jan 19 00:41:58 2024
 
-Found 30 results from 2024-01-04 to 2024-01-18
+Found 30 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -34,30 +34,6 @@ OpenAlex: https://openalex.org/W4390617556
 Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu, Nature Communications. https://doi.org/10.1038/s41467-023-43720-2
     
 Abstract Geometric deep learning has been revolutionizing the molecular modeling field. Despite the state-of-the-art neural network models are approaching ab initio accuracy for molecular property prediction, their applications, such as drug discovery and molecular dynamics (MD) simulation, have been hindered by insufficient utilization of geometric information and high computational costs. Here we propose an equivariant geometry-enhanced graph neural network called ViSNet, which elegantly extracts geometric features and efficiently models molecular structures with low computational costs. Our proposed ViSNet outperforms state-of-the-art approaches on multiple MD benchmarks, including MD17, revised MD17 and MD22, and achieves excellent chemical property prediction on QM9 and Molecule3D datasets. Furthermore, through a series of simulations and case studies, ViSNet can efficiently explore the conformational space and provide reasonable interpretability to map geometric representations to molecular structures.    
-
-    
-
-** NiCS3: A cocatalyst surpassing Pt for photocatalytic hydrogen production   
-:PROPERTIES:
-:ID: https://openalex.org/W4390533552
-:DOI: https://doi.org/10.1016/j.jcis.2023.12.183
-:AUTHORS: Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang
-:HOST: Journal of Colloid and Interface Science
-:END:
-
-Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2023.12.183")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390533552"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390533552"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390533552"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390533552
-    
-Hongbo Shi, Bo Yan, Hao Xu, Haiyuan Li, Yan He, Dingxin Liu, Gongzheng Yang, Journal of Colloid and Interface Science. https://doi.org/10.1016/j.jcis.2023.12.183
-    
-Cocatalysts play a key role in improving photocatalytic performance by enhancing conductivity and providing an enormous number of active sites simultaneously. However, cocatalysts are usually made of noble metals such as Pt, which are expensive and rare. Therefore, cocatalysts derived from cheap and abundant elements are highly desirable. Here, for the first time, we demonstrate that NiCS3, which is made from nickel that is abundant and costs less than 0.04 % of Pt, is an effective substitute for Pt cocatalysts for the photocatalytic activity of CdS nanorods in hydrogen evolution reaction (HER). Under visible light, the NiCS3/CdS composite with NiCS3 as the cocatalyst achieved an astonishing H2 production of 61.9 mmol·g-1·h-1 while maintaining high stability, which is 14 times higher than that observed when using CdS alone and nearly 2 times higher than that of Pt/CdS. We also established that the metallicity of NiCS3 results in good carrier conductivity, which promotes the electron transfer and the separation of photo-induced carriers. Due to the appropriate adsorption energy ΔGH*, NiCS3 more readily adsorbs hydrogen protons and desorbs molecular hydrogen during the photocatalytic process compared with Pt. Additionally, NiCS3 can effectively inhibit the photo-corrosion effect of CdS itself, ensuring a good stability of HER. These results suggest that NiCS3 is a promising substitute for Pt cocatalysts.    
 
     
 
@@ -610,6 +586,30 @@ OpenAlex: https://openalex.org/W4390701643
 Esperanza Sedano Varo, Rikke Plougmann, Joakim Kryger-Baggesen, Joerg R. Jinschek, Stig Helveg, Ib Chorkendorff, Christian Danvad Damsgaard, Jakob Kibsgaard, Journal of the American Chemical Society. https://doi.org/10.1021/jacs.3c10610
     
 Understanding the size-dependent behavior of nanoparticles is crucial for optimizing catalytic performance. We investigate the differences in selectivity of size-selected gold nanoparticles for CO2 electroreduction with sizes ranging from 1.5 to 6.5 nm. Our findings reveal an optimal size of approximately 3 nm that maximizes selectivity toward CO, exhibiting up to 60% Faradaic efficiency at low potentials. High-resolution transmission electron microscopy reveals different shapes for the particles and suggests that multiply twinned nanoparticles are favorable for CO2 reduction to CO. Our analysis shows that twin boundaries pin 8-fold coordinated surface sites and in turn suggests that a variation of size and shape to optimize the abundance of 8-fold coordinated sites is a viable path for optimizing the CO2 electrocatalytic reduction to CO. This work contributes to the advancement of nanocatalyst design for achieving tunable selectivity for CO2 conversion into valuable products.    
+
+    
+
+** Machine Learning Prediction of Oer Activity for Pnma Perovskite Via Minimal Structure Relaxation   
+:PROPERTIES:
+:ID: https://openalex.org/W4390701865
+:DOI: https://doi.org/10.2139/ssrn.4690003
+:AUTHORS: Chanseok Kim, Mina Yoon, Jun Hee Lee
+:HOST: No host
+:END:
+
+Chanseok Kim, Mina Yoon, Jun Hee Lee, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690003")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390701865"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390701865"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390701865"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390701865
+    
+Chanseok Kim, Mina Yoon, Jun Hee Lee, No host. https://doi.org/10.2139/ssrn.4690003
+    
+This study focuses on exploring alternative catalysts for the oxygen evolution reaction (OER) in renewable fuel production, emphasizing the potential of multi-metal oxides derived from Earth-abundant metals and perovskites. The research integrates traditional experiments with machine learning and theoretical investigations, utilizing descriptors like oxygen p-band center (Op) and metal d-band center (Md). Through high-throughput calculations and crystal graph convolutional neural networks (CGCNN), the study screens a large compositional space of perovskites and predicts Op/Md for 149,952 perovskites, highlighting elemental ratios around Op/Md=0.48 as promising for OER active materials. Notably, an analysis of the elemental ratios around Op/Md=0.48 revealed higher proportions of Ca, Sr, and Ba on the A-site, and Mo, Ni, and Fe on the B-site. This descriptor-based machine learning approach demonstrates its power for predicting promising perovskite OER candidates.    
 
     
 

@@ -1,9 +1,9 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Thu Jan 18 23:35:18 2024
+Created on Fri Jan 19 00:41:51 2024
 
-Found 25 results from 2024-01-04 to 2024-01-18
+Found 25 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst]]
 ** Controlling Oxide Promoter Coverage and Microstructure on Metals of Inverse Catalysts: Application to Liquid Phase Tetrahydrofurfuryl Alcohol Conversion to 1,5-Pentanediol   
@@ -342,30 +342,6 @@ This study investigates the catalytic reduction of CO2 using various ratios of G
 
     
 
-** CuNiZn vs CuZn Electrodes: Electrochemical CO<sub>2</sub> Reduction, Role of Metal Elements, and Insights for C–C Coupling Chemistry   
-:PROPERTIES:
-:ID: https://openalex.org/W4390563376
-:DOI: https://doi.org/10.1021/acsaem.3c02550
-:AUTHORS: Yunji Gwon, Seon Young Hwang, Go Eun Park, Sang-Eun Bae, Gak-Won Yun, Choong Kyun Rhee, Youngku Sohn
-:HOST: ACS Applied Energy Materials
-:END:
-
-Yunji Gwon, Seon Young Hwang, Go Eun Park, Sang-Eun Bae, Gak-Won Yun, Choong Kyun Rhee, Youngku Sohn, ACS Applied Energy Materials. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.3c02550")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390563376"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390563376"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390563376"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390563376
-    
-Yunji Gwon, Seon Young Hwang, Go Eun Park, Sang-Eun Bae, Gak-Won Yun, Choong Kyun Rhee, Youngku Sohn, ACS Applied Energy Materials. https://doi.org/10.1021/acsaem.3c02550
-    
-Exploring bi- and trimetallic catalysts in electrochemical CO2 reduction (EC CO2R) has been a focal point for discovering reduction products. This study investigates the distinct roles of metal elements in the CO2R using CuNiZn and CuZn electrodes. Bimetallic CuZn exhibits superior electrochemical activity, yielding substantial amounts of CO, CH4, C2H4, and various liquid products, including formate, ethanol, acetate, propanol, and isopropanol. The study on trimetallic CuNiZn suggests potential connections to Fischer–Tropsch (FT) synthesis, indicating their capability to produce long-chain hydrocarbons (CnH2n and CnH2n+2, n = 2–7) from CO2. EC CO reduction validated the FT process over the bi- and trimetallic catalysts. The discussion explores mechanisms for the formation of CO, CH4, and C–C coupled C2+ products, considering potential- and concentration-dependent Faradaic efficiencies (FEs). Recycling tests emphasize the influence of metal composition on FEs. Surface analyses reveal oxidation states and compositional changes, while the dissolution of metals during electrochemistry highlights dynamic surface characteristics. This work provides insights into the metal composition of bi- and trimetallic catalysts, surface states, and electrochemical conditions, advancing our understanding of these electrodes and their role in CO2 recycling through electrochemistry.    
-
-    
-
 ** A magnetic pore-confined catalyst with ionic liquids supported on MOFs for the synthesis of aryl-oxazolidinones: design, performance, and recyclability   
 :PROPERTIES:
 :ID: https://openalex.org/W4390748587
@@ -603,5 +579,29 @@ OpenAlex: https://openalex.org/W4390904224
 Liangliang Cheng, Shaonan Tian, Dong Liang, Jing Gu, Ruizhe Chen, Xueru Chen, Haoran Yuan, Yong Chen, No host. https://doi.org/10.2139/ssrn.4697149
     
 The low-temperature hydroconversion of polyethylene is a subject of extensive research, where the one-step synthesis of iso-alkanes via metal-acid bifunctional catalysis emerges as a promising strategy. Zeolites, favored for their superior compatibility with prevalent petrochemical equipment, are typically utilized as acidic supports. Herein, we loaded Ru nanoparticles onto ZSM-22, known for its pore-mouth catalysis. Mechanical ball milling was employed to augment the pore-mouth area and proximity of metal-acid sites, markedly fostering the hydrocracking reaction. Additionally, by employing various Ru precursors and adjusting load quantities, we modified Ru's electronic properties. In-situ infrared observations revealed that the detachment of olefin intermediates from Ru sites is instrumental in regulating hydrocracking and terminal hydrogenolysis reactions. Incorporating catalyst characterization with DFT-generated reaction barrier computations, we discovered that oxidized Ru species facilitate the release of olefin intermediates, thereby enabling subsequent Brønsted acid-driven β-scission and isomerization reactions. Utilizing commercially accessible catalysts, this study achieved a liquid-phase yield exceeding 82 wt.% and an iso/n ratio surpassing 60% under conditions of low energy consumption.    
+
+    
+
+** Saccharide formation by sustainable formose reaction using heterogeneous zeolite catalysts   
+:PROPERTIES:
+:ID: https://openalex.org/W4390768301
+:DOI: https://doi.org/10.1039/d3dt02321d
+:AUTHORS: Minoru Waki, Soichi Shirai, Yoko Hase
+:HOST: Dalton Transactions
+:END:
+
+Minoru Waki, Soichi Shirai, Yoko Hase, Dalton Transactions. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3dt02321d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390768301"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390768301"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390768301"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390768301
+    
+Minoru Waki, Soichi Shirai, Yoko Hase, Dalton Transactions. https://doi.org/10.1039/d3dt02321d
+    
+The formose reaction is a unique chemical reaction for the preparation of saccharides from formaldehyde, a single carbon compound. We applied zeolite materials as heterogeneous catalysts to the formose reaction. The simple addition of Linde type A zeolite containing calcium ions (Ca-LTA) to an aqueous solution of formaldehyde and glycolaldehyde produced saccharides at room temperature. A quantitative analysis performed by high-performance liquid chromatography revealed that triose, tetrose, pentose, and hexose saccharides were produced with few byproducts. Ca-LTA was recovered from the reaction mixture by filtration, and the retrieved zeolite was found to be reusable under the same conditions. The catalytic activity of Ca-LTA was higher than those of conventional calcium catalysts and other solid materials such as silica, alumina, and hydroxyapatite. Several other types of zeolites with different crystal structures and alkali/alkali-earth metal ions also showed catalytic activity for saccharide formation. Based on the analytical results obtained by infrared spectroscopy, temperature-programmed desorption profiles and NMR measurements, we propose a reaction mechanism in which C-C bond formation is promoted by the mild basicity of the oxygen atoms and acidity on the metal ions of the aluminosilicate on the zeolite surfaces with low SiO2/Al2O3 ratios.    
 
     
