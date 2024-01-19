@@ -62,3 +62,9 @@ queries:
     description: Related papers to my work
     filter:
      - related_to:https://openalex.org/works/w4386602600|https://openalex.org/works/w4366983532|https://openalex.org/works/w4290659046|https://openalex.org/works/w2167035995
+
+  - label: Dynamic catalysis - citing and related
+    description: papers related to dynamic catalysis
+    filter:
+      - related_to:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595
+      - cites:https://openalex.org/W2945032606|https://openalex.org/W2969923410|https://openalex.org/W3010067097|https://openalex.org/W3041061357|https://openalex.org/W3093929595      
