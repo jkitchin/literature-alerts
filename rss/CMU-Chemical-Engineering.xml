@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jan 2024 00:41:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2024 13:03:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Yuhong He, Bin Zhao, Yafei Wang, Richard Valorso, Xing Chang, Dejia Yin, Bo Feng, M. Camredon, Bernard Aumont, Abraham Dearden, Shantanu H. Jathar, Manish Shrivastava, Z. J. Jiang, C. D. Cappa, L. D. Yee, John H. Seinfeld, Jiming Hao, Neil M. Donahue</author>
       <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41561-023-01355-4</guid>
+    </item>
+    <item>
+      <title>Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo&lt;sub&gt;2&lt;/sub&gt;N Model Surfaces and Powder Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c04700</link>
+      <description>William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390939862
+
+                Biomass valorization can be used to produce value-added chemicals and fuels from renewable biomass resources by upgrading them via selective bond scission while retaining certain functional groups. Specifically, upgrading biomass through the dehydrogenation of alcohols to carbonyl compounds has gained interest as a method of utilizing biomass-derived alcohols while additionally producing H2. In this work, isopropanol was used as a probe molecule to control bond scission selectivity over Fe- and Pt-modified molybdenum nitride (Mo2N) model surfaces and powder catalysts. Trends in the selectivity toward dehydration and dehydrogenation were dependent on both the type and coverage of the metal overlayer on model surfaces. These results were then extended to the corresponding powder catalysts to demonstrate how model surface studies can inform the design of supported catalysts. Density functional theory calculations provided insights into controlling the dehydration and dehydrogenation pathways. This work shows that a fundamental understanding of the reactivity and intermediates on Mo2N-based model surfaces can be applied to understand the catalytic performance of metal-modified Mo2N powder catalysts, and also demonstrates that Mo2N-based catalysts are potentially promising materials for upgrading biomass-derived oxygenates.</description>
+      <author>William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen</author>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04700</guid>
     </item>
     <item>
       <title>A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture</title>

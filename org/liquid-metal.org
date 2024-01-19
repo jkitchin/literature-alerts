@@ -1,11 +1,35 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Fri Jan 19 00:41:51 2024
+Created on Fri Jan 19 13:03:18 2024
 
 Found 25 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst]]
+** Engineering Noble Metal-Free Nickel Catalysts for Highly Efficient Liquid Fuel Production from Waste Polyolefins Under Mild Conditions   
+:PROPERTIES:
+:ID: https://openalex.org/W4390945091
+:DOI: https://doi.org/10.2139/ssrn.4698288
+:AUTHORS: Xinlei Han, Jiuxuan Zhang, Zhengyan Qu, Feng Zeng, Hong Jiang, Jun Huang, Zhenchen Tang, Rizhi Chen
+:HOST: No host
+:END:
+
+Xinlei Han, Jiuxuan Zhang, Zhengyan Qu, Feng Zeng, Hong Jiang, Jun Huang, Zhenchen Tang, Rizhi Chen, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4698288")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390945091"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390945091"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390945091"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390945091
+    
+Xinlei Han, Jiuxuan Zhang, Zhengyan Qu, Feng Zeng, Hong Jiang, Jun Huang, Zhenchen Tang, Rizhi Chen, No host. https://doi.org/10.2139/ssrn.4698288
+    
+Polyolefin wastes, while posing environmental threats, also offer potential as carbon feedstocks. Hydroconversion techniques show promise in direct transforming polyolefin wastes into liquid fuels, yet practicality is impeded by the prohibitive cost of noble metal-based catalysts or the inferior performance of base metal alternatives. This study introduces the bifunctional 0.5Ni/Beta catalyst, featuring fine nickel nanoparticles (c.a. 3 nm, 0.5 wt% loading) on Beta zeolite, as a highly efficient catalyst for liquid fuel production from diverse polyolefins. This catalyst achieves a notable production rate of 7.39 gliquid∙gcat-1∙h-1 and over 86.1% selectivity to C5-20, surpassing the performance of state-of-the-art catalysts. Nickel particle size controlled by various chelators and metal-acid balance were identified as pivotal performance descriptors. The specific topology of zeolite Beta enhances coke tolerance, ensuring superior stability. This noble metal-free Ni/Beta thus represents an evolving generation of catalyst, propelling sustainable liquid fuel production from plastic wastes towards practical scalability.    
+
+    
+
 ** Controlling Oxide Promoter Coverage and Microstructure on Metals of Inverse Catalysts: Application to Liquid Phase Tetrahydrofurfuryl Alcohol Conversion to 1,5-Pentanediol   
 :PROPERTIES:
 :ID: https://openalex.org/W4390694088
@@ -174,54 +198,6 @@ A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthaloc
 
     
 
-** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
-:PROPERTIES:
-:ID: https://openalex.org/W4390637146
-:DOI: https://doi.org/10.1002/anie.202317594
-:AUTHORS: Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang
-:HOST: Angewandte Chemie International Edition
-:END:
-
-Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie International Edition. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202317594")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637146"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637146"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637146"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390637146
-    
-Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie International Edition. https://doi.org/10.1002/anie.202317594
-    
-Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
-
-    
-
-** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
-:PROPERTIES:
-:ID: https://openalex.org/W4390637288
-:DOI: https://doi.org/10.1002/ange.202317594
-:AUTHORS: Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang
-:HOST: Angewandte Chemie
-:END:
-
-Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202317594")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637288"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637288"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637288"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390637288
-    
-Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie. https://doi.org/10.1002/ange.202317594
-    
-Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
-
-    
-
 ** Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390910649
@@ -270,27 +246,51 @@ The ultimate target in heterogeneous catalysis is the achievement of robust, res
 
     
 
-** Review of electrocatalytic reduction of CO2 on carbon supported films   
+** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
 :PROPERTIES:
-:ID: https://openalex.org/W4390721078
-:DOI: https://doi.org/10.1016/j.ijhydene.2024.01.022
-:AUTHORS: Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian
-:HOST: International Journal of Hydrogen Energy
+:ID: https://openalex.org/W4390637146
+:DOI: https://doi.org/10.1002/anie.202317594
+:AUTHORS: Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang
+:HOST: Angewandte Chemie International Edition
 :END:
 
-Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian, International Journal of Hydrogen Energy. 57(None)] 2024.
+Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie International Edition. None(None)] 2024.
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.022")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202317594")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390721078"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390721078"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390721078"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637146"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637146"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637146"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390721078
+OpenAlex: https://openalex.org/W4390637146
     
-Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian, International Journal of Hydrogen Energy. https://doi.org/10.1016/j.ijhydene.2024.01.022
+Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie International Edition. https://doi.org/10.1002/anie.202317594
     
-Carbon capture and conversion are becoming increasingly important as atmospheric CO2 concentrations rise and their adverse effects become increasingly evident. CO2 conversion/utilization-related research has gained renewed interest on a variety of platforms, including thermal, solar, biological, photochemical, and electrochemical conversions. Electrochemical routes, using suitable catalysts, are potentially suitable for commercial purposes owing to ease of integration with solvent-based carbon capture processes. This paper summarizes and evaluates the studies conducted within the past decade regarding the feasibility of carbon-based supports utilized in electrocatalytic carbon dioxide reduction. CO2 conversion has been reviewed in a number of reports, focusing on specific sections, such as metallic/bimetallic catalysts, CO2 solubility, and the fabrication of electrodes and electrochemical cells. The number of publications addressing various carbon-based electrocatalysts is increasing, but these materials have not yet been reviewed. Herein, we are focused on three types of electrocatalyst materials: metals, metal-oxides, non-oxides, and combinations thereof with carbon. The scope of this study includes the following: i) carbon-based materials and how they are characterized by distinctive properties, ii) electrocatalytic CO2 conversion techniques, and iii) research cases for carbon allotrope-supported composites used in CO2 reduction. The advancement in analytical tools that provide insight into liquid-phase reactions will benefit the development of catalysts and electrodes that will be effective in converting CO2 into the desired products. Such developments will also be applicable to other systems involving liquid electrolytes or solvents for performing reactions on catalyst surfaces.    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
+
+    
+
+** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
+:PROPERTIES:
+:ID: https://openalex.org/W4390637288
+:DOI: https://doi.org/10.1002/ange.202317594
+:AUTHORS: Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang
+:HOST: Angewandte Chemie
+:END:
+
+Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202317594")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390637288"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390637288"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390637288"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390637288
+    
+Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie. https://doi.org/10.1002/ange.202317594
+    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
 
     
 
@@ -318,6 +318,30 @@ Platinum group metal-free catalysts (e.g., Fe–N–C and Co–N–C) are used a
 
     
 
+** Review of electrocatalytic reduction of CO2 on carbon supported films   
+:PROPERTIES:
+:ID: https://openalex.org/W4390721078
+:DOI: https://doi.org/10.1016/j.ijhydene.2024.01.022
+:AUTHORS: Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian
+:HOST: International Journal of Hydrogen Energy
+:END:
+
+Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian, International Journal of Hydrogen Energy. 57(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.022")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390721078"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390721078"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390721078"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390721078
+    
+Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian, International Journal of Hydrogen Energy. https://doi.org/10.1016/j.ijhydene.2024.01.022
+    
+Carbon capture and conversion are becoming increasingly important as atmospheric CO2 concentrations rise and their adverse effects become increasingly evident. CO2 conversion/utilization-related research has gained renewed interest on a variety of platforms, including thermal, solar, biological, photochemical, and electrochemical conversions. Electrochemical routes, using suitable catalysts, are potentially suitable for commercial purposes owing to ease of integration with solvent-based carbon capture processes. This paper summarizes and evaluates the studies conducted within the past decade regarding the feasibility of carbon-based supports utilized in electrocatalytic carbon dioxide reduction. CO2 conversion has been reviewed in a number of reports, focusing on specific sections, such as metallic/bimetallic catalysts, CO2 solubility, and the fabrication of electrodes and electrochemical cells. The number of publications addressing various carbon-based electrocatalysts is increasing, but these materials have not yet been reviewed. Herein, we are focused on three types of electrocatalyst materials: metals, metal-oxides, non-oxides, and combinations thereof with carbon. The scope of this study includes the following: i) carbon-based materials and how they are characterized by distinctive properties, ii) electrocatalytic CO2 conversion techniques, and iii) research cases for carbon allotrope-supported composites used in CO2 reduction. The advancement in analytical tools that provide insight into liquid-phase reactions will benefit the development of catalysts and electrodes that will be effective in converting CO2 into the desired products. Such developments will also be applicable to other systems involving liquid electrolytes or solvents for performing reactions on catalyst surfaces.    
+
+    
+
 ** Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys   
 :PROPERTIES:
 :ID: https://openalex.org/W4390796939
@@ -342,6 +366,30 @@ This study investigates the catalytic reduction of CO2 using various ratios of G
 
     
 
+** Process intensification of separation and synthesis pathways using deep eutectic solvents   
+:PROPERTIES:
+:ID: https://openalex.org/W4390966484
+:DOI: https://doi.org/10.1016/b978-0-323-95177-7.00005-9
+:AUTHORS: Satyawan Singh, Saurabh C. Patankar
+:HOST: No host
+:END:
+
+Satyawan Singh, Saurabh C. Patankar, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-323-95177-7.00005-9")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390966484"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390966484"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390966484"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390966484
+    
+Satyawan Singh, Saurabh C. Patankar, No host. https://doi.org/10.1016/b978-0-323-95177-7.00005-9
+    
+With the commencement of the 21st centennial era, the researchers discovered that a mixture of quaternary ammonium and metal halide, when mixed in a specific proportion, results in the delocalization of charge through hydrogen bonding between the quaternary ammonium halide and metal halide. The resulting admixture formed a viscous fluid at room temperature and atmospheric pressure that was insensitive to moisture and much cheaper than the ionic liquids (ILs) being explored for various applications as greener solvents or catalysts. This finding gave an impetus to investigate the formation of such fluids with varied compositions as cheaper and reusable ILs. Since these liquid eutectic mixtures developed as ILs, the term “deep eutectic solvents” (herein referred to as DESs) was coined in 2003 by A.P. Abbott to differentiate it from conventional ILs. The deep eutectic mixtures got popular applications as solvents owing to their low melting temperatures and similar properties to solvents/electrolytes.    
+
+    
+
 ** A magnetic pore-confined catalyst with ionic liquids supported on MOFs for the synthesis of aryl-oxazolidinones: design, performance, and recyclability   
 :PROPERTIES:
 :ID: https://openalex.org/W4390748587
@@ -363,6 +411,30 @@ OpenAlex: https://openalex.org/W4390748587
 Siying Chong, Jiaoyan Li, Shuang Zhao, G. Huang, Yajing Zhang, Rui Rui Liu, Kangjun Wang, Chemical Engineering Journal. https://doi.org/10.1016/j.cej.2024.148678
     
 Various methods have been explored for preparing heterogeneous catalysts using metal-organic framework (MOF) supported ionic liquids (ILs); however, it is challenging to develop such a synergistic catalyst that combines high efficiency, stability, the capability of maintaining immobilized ILs and active components, and high recovery efficiency. In this study, we successfully developed a magnetic MOF sub-nanostructured carrier by integrating organic UiO-66 with magnetic nanoparticles (MNPs). The resulting magnetic pore-confined catalyst, named MAG-UiO-66-IL(OAc), was prepared by in-situ self-assembly of pore-confining [C4mim] [OAc] within the nano-cavities of the magnetic MOF carrier. The morphology, structure, and thermal properties of the magnetic pore-confined catalyst were comprehensively characterized using various techniques. The novel catalyst MAG-UiO-66-IL(OAc) demonstrated remarkable catalytic efficiency in transforming cyclic carbonates and aryl amines to aryl-oxazolidinones, achieving yields up to 95% under mild solvent-free conditions. Furthermore, the catalyst showed exceptional recyclability, retaining its catalytic activity after ten successive reuses. Notably, the catalyst displayed excellent performance for reactions involving large-size reactants, expanding the range of substrate usability beyond previously reported solid-loading catalysts. Theoretical calculations were also conducted to complement the experimental results, providing valuable insights into the structure–activity relationship between the magnetic MOF carrier and the ionic liquid. These findings emphasize the significance of molecular-scale confinement on reactant diffusion and the overall reaction process, offering valuable guidance for the design of catalyst microstructures and the modulation of reaction performance.    
+
+    
+
+** Reversible hydrogenation and dehydrogenation of benzene for hydrogen storage on highly dispersed Pd/γ-Al2O3 catalyst   
+:PROPERTIES:
+:ID: https://openalex.org/W4390724268
+:DOI: https://doi.org/10.1016/j.jiec.2024.01.018
+:AUTHORS: Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie
+:HOST: Journal of Industrial and Engineering Chemistry
+:END:
+
+Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie, Journal of Industrial and Engineering Chemistry. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jiec.2024.01.018")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390724268"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390724268"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390724268"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390724268
+    
+Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie, Journal of Industrial and Engineering Chemistry. https://doi.org/10.1016/j.jiec.2024.01.018
+    
+The research and development of efficient catalyst is the key to achieving high-capacity hydrogen storage in liquid organic hydrogen carriers (LOHCs). The highly dispersed Pd/γ-Al2O3 catalysts with few-atom Pd were prepared by impregnation method using HNO3 as promoter. The hydrogen storage capacity of the benzene/cyclohexane hydrogen carriers was further investigated by vapor phase benzene hydrogenation and cyclohexane dehydrogenation reactions over the studied Pd/γ-Al2O3 catalysts. The results showed that the metal Pd was the active centers for the benzene hydrogenation/cyclohexane dehydrogenation reactions. The addition of HNO3 can effectively promote the metal Pd to be highly dispersed, thus improving the Pd atoms utilization and reducing the Pd dosage. Meanwhile, the strongly electronic effects between the highly dispersed Pd species and the Al2O3 support promoted the electron-deficient Pdδ+ sites to be formed, which enhanced the adsorption and activation ability for the reactants molecules. The benzene conversion on the Pd/γ-Al2O3 catalyst with a metallic Pd loading of 1.0 wt.% reached 97.51 % at 200 °C. While the cyclohexane conversion reached 90.94 % at 400 °C with the actual hydrogen storage capacity of 6.54 wt.%, which provided an effective idea for large-scale storage and transportation of H2 based on LOHCs.    
 
     
 
@@ -414,30 +486,6 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
 
     
 
-** Reversible hydrogenation and dehydrogenation of benzene for hydrogen storage on highly dispersed Pd/γ-Al2O3 catalyst   
-:PROPERTIES:
-:ID: https://openalex.org/W4390724268
-:DOI: https://doi.org/10.1016/j.jiec.2024.01.018
-:AUTHORS: Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie
-:HOST: Journal of Industrial and Engineering Chemistry
-:END:
-
-Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie, Journal of Industrial and Engineering Chemistry. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jiec.2024.01.018")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390724268"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390724268"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390724268"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390724268
-    
-Guilin Zhou, Wenjing Liu, Yue Zhao, Xiaoping Wang, Shuang Chen, Aiping Jia, Hongmei Xie, Journal of Industrial and Engineering Chemistry. https://doi.org/10.1016/j.jiec.2024.01.018
-    
-The research and development of efficient catalyst is the key to achieving high-capacity hydrogen storage in liquid organic hydrogen carriers (LOHCs). The highly dispersed Pd/γ-Al2O3 catalysts with few-atom Pd were prepared by impregnation method using HNO3 as promoter. The hydrogen storage capacity of the benzene/cyclohexane hydrogen carriers was further investigated by vapor phase benzene hydrogenation and cyclohexane dehydrogenation reactions over the studied Pd/γ-Al2O3 catalysts. The results showed that the metal Pd was the active centers for the benzene hydrogenation/cyclohexane dehydrogenation reactions. The addition of HNO3 can effectively promote the metal Pd to be highly dispersed, thus improving the Pd atoms utilization and reducing the Pd dosage. Meanwhile, the strongly electronic effects between the highly dispersed Pd species and the Al2O3 support promoted the electron-deficient Pdδ+ sites to be formed, which enhanced the adsorption and activation ability for the reactants molecules. The benzene conversion on the Pd/γ-Al2O3 catalyst with a metallic Pd loading of 1.0 wt.% reached 97.51 % at 200 °C. While the cyclohexane conversion reached 90.94 % at 400 °C with the actual hydrogen storage capacity of 6.54 wt.%, which provided an effective idea for large-scale storage and transportation of H2 based on LOHCs.    
-
-    
-
 ** Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
 :PROPERTIES:
 :ID: https://openalex.org/W4390718253
@@ -459,30 +507,6 @@ OpenAlex: https://openalex.org/W4390718253
 Qibo Deng, Shuang Chen, Weitai Wu, Shuyu Zhang, Hassanien Gomaa, Cuihua An, Ning Hu, Xiaopeng Han, ChemPlusChem. https://doi.org/10.1002/cplu.202300688
     
 With the advancement of scientific research, the introduction of external physical methods not only adds extra freedom to the design of electro‐catalytical processes for green technologies but also effectively improves the reactivity of materials. Physical methods can adjust the intrinsic activity of materials and modulate the local environment at the solid‐liquid interface. In particular, this approach holds great promise in the field of electrocatalysis. Among them, the ultrasonic waves have shown reasonable control over the preparation of materials and the electrocatalytic process. However, the research on coupling ultrasonic waves and electrocatalysis is still early. The understanding of their mechanisms needs to be more comprehensive and deep enough. Firstly, this article extensively discusses the adhibition of the ultrasonic‐assisted preparation of metal‐based catalysts and their catalytic performance as electrocatalysts. The obtained metal‐based catalysts exhibit improved electrocatalytic performances due to their high surface area and more exposed active sites. Additionally, this article also points out some urgent unresolved issues in the synthesis of materials using ultrasonic waves and the regulation of electrocatalytic performance. Lastly, the challenges and opportunities in this field are discussed, providing new insights for improving the catalytic performance of transition metal‐based electrocatalysts.    
-
-    
-
-** Functionalized palm biomass-derived activated carbon for the removal of Pt(IV) from a simulated leachate   
-:PROPERTIES:
-:ID: https://openalex.org/W4390848579
-:DOI: https://doi.org/10.1016/j.biombioe.2024.107055
-:AUTHORS: M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil
-:HOST: Biomass and Bioenergy
-:END:
-
-M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil, Biomass and Bioenergy. 181(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.biombioe.2024.107055")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848579"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848579"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848579"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390848579
-    
-M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil, Biomass and Bioenergy. https://doi.org/10.1016/j.biombioe.2024.107055
-    
-Over the years, demand for Platinum Group Metals (PGMs) has grown steadily due to increased production of various advanced technologies, such as automotive and electronic products. PGMs are predominantly used in automotive catalysts in the automotive industry. Along with the increase in automotive production, deactivated automotive catalysts pose environmental and health hazards. These wastes are excellent alternative sources of PGMs, which can be exploited to bridge the gap between the demand and supply of PGMs. Adsorption is one of the most popular metal removal/recovery methods due to its various advantages, such as ease of use and cost-effectiveness. In consideration of this method, developing an inexpensive and efficient adsorbent is a crucial point. Thus, activated carbon (AC), derived from a palm kernel shell that is abundantly available in Indonesia, was functionalized using ionic liquid (ACIL) and used for Pt(IV) removal from a simulated automotive catalyst waste leachate. The functionalized AC showed a high adsorption capacity (178.6 mg g−1), in which the adsorption of Pt(IV) followed a chemisorption route, fitting with the monolayer model. The functionalized adsorbent also showed excellent performance during continuous Pt(IV) adsorption from simulated leachate. Recovery of precious metals, such as Pt(IV) and Pd(II), from the simulated leachate containing other metals was possible by maintaining the high hydrochloric acid concentration. Furthermore, targeted separation of Pt(IV) was achieved through sequential desorption using NaClO4. In addition, ACIL showed remarkable reusability after being used for three cycles without showing a noticeable decrease in performance. Thus, this study highlights the capability of a functionalized adsorbent from palm oil industry biomass to recover precious metals from simulated leachate of automotive waste.    
 
     
 
@@ -510,30 +534,6 @@ In this study, three types of hydrothermal char-supported metal nanoparticle com
 
     
 
-** A switchable hydrogenation chemoselectivity of biomass platform compounds based on solvent regulation   
-:PROPERTIES:
-:ID: https://openalex.org/W4390697547
-:DOI: https://doi.org/10.1016/j.apcatb.2024.123719
-:AUTHORS: Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei
-:HOST: Applied Catalysis B: Environmental
-:END:
-
-Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei, Applied Catalysis B: Environmental. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123719")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390697547"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390697547"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390697547"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390697547
-    
-Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei, Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123719
-    
-Selective catalytic conversion of biomass-derived compounds to fuels and fine chemicals serves as a renewable energy pathway for the partial substitution of fossil resources, in which reaction pathway and selectivity control are key issues. Herein, we report a fully exposed Pt clusters immobilized on CoAl mixed metal oxides catalyst (denoted as Ptn/CoAl-MMOs), which exhibits prominent catalytic performance towards liquid phase hydrogenation reaction of furfural (FAL). Noteworthily, the hydrogenation chemoselectivity can be switched among four products via using four different solvents: tetrahydrofurfuryl alcohol (THFA; yield: 91.4%), furfuryl alcohol (FA; yield: 97.7%), 2-methylfuran (2-MF; yield: 92.1%) and furan (FU; yield: 90.8%) are obtained in ethanol, dioxane, isopropanol and n-hexane solvent, respectively. Experimental studies (in situ FT-IR and TPSR-Mass) combined with theoretical calculations (DFT) reveal that solvent molecules exert an essential influence on the adsorption configuration of FAL via changing the solvent-catalyst and/or substrate-catalyst interaction, which ultimately determines the hydrogenation pathway, key intermediate and final product. This work demonstrates a facile solvent-dependent product-switching strategy within one catalytic system, which opens up potential opportunities for tailoring hydrogenation selectivity in liquid-solid catalytic reactions towards biomass upgrading.    
-
-    
-
 ** Mercury removal performance of sulfated MnCe catalyst prepared by tobacco waste combustion synthesis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390848176
@@ -558,50 +558,50 @@ MnOx-CeO2 is a promising catalyst for Hg0 removal from coal flue gas at ∼150 �
 
     
 
-** Enhanced Hydroconversion of Polyethylene Via Dual-Functional Catalysis: Exploiting Zsm-22 Pore-Mouth Catalysis and Ru Electronic Effect   
+** Functionalized palm biomass-derived activated carbon for the removal of Pt(IV) from a simulated leachate   
 :PROPERTIES:
-:ID: https://openalex.org/W4390904224
-:DOI: https://doi.org/10.2139/ssrn.4697149
-:AUTHORS: Liangliang Cheng, Shaonan Tian, Dong Liang, Jing Gu, Ruizhe Chen, Xueru Chen, Haoran Yuan, Yong Chen
-:HOST: No host
+:ID: https://openalex.org/W4390848579
+:DOI: https://doi.org/10.1016/j.biombioe.2024.107055
+:AUTHORS: M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil
+:HOST: Biomass and Bioenergy
 :END:
 
-Liangliang Cheng, Shaonan Tian, Dong Liang, Jing Gu, Ruizhe Chen, Xueru Chen, Haoran Yuan, Yong Chen, No host. None(None)] 2024.
+M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil, Biomass and Bioenergy. 181(None)] 2024.
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4697149")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.biombioe.2024.107055")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390904224"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390904224"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390904224"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848579"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848579"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848579"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390904224
+OpenAlex: https://openalex.org/W4390848579
     
-Liangliang Cheng, Shaonan Tian, Dong Liang, Jing Gu, Ruizhe Chen, Xueru Chen, Haoran Yuan, Yong Chen, No host. https://doi.org/10.2139/ssrn.4697149
+M.L. Firmansyah, Natalia I. Wulan, Alifya P. Nurisca, Karthickeyan Viswanathan, Aishah Abdul Jalil, Biomass and Bioenergy. https://doi.org/10.1016/j.biombioe.2024.107055
     
-The low-temperature hydroconversion of polyethylene is a subject of extensive research, where the one-step synthesis of iso-alkanes via metal-acid bifunctional catalysis emerges as a promising strategy. Zeolites, favored for their superior compatibility with prevalent petrochemical equipment, are typically utilized as acidic supports. Herein, we loaded Ru nanoparticles onto ZSM-22, known for its pore-mouth catalysis. Mechanical ball milling was employed to augment the pore-mouth area and proximity of metal-acid sites, markedly fostering the hydrocracking reaction. Additionally, by employing various Ru precursors and adjusting load quantities, we modified Ru's electronic properties. In-situ infrared observations revealed that the detachment of olefin intermediates from Ru sites is instrumental in regulating hydrocracking and terminal hydrogenolysis reactions. Incorporating catalyst characterization with DFT-generated reaction barrier computations, we discovered that oxidized Ru species facilitate the release of olefin intermediates, thereby enabling subsequent Brønsted acid-driven β-scission and isomerization reactions. Utilizing commercially accessible catalysts, this study achieved a liquid-phase yield exceeding 82 wt.% and an iso/n ratio surpassing 60% under conditions of low energy consumption.    
+Over the years, demand for Platinum Group Metals (PGMs) has grown steadily due to increased production of various advanced technologies, such as automotive and electronic products. PGMs are predominantly used in automotive catalysts in the automotive industry. Along with the increase in automotive production, deactivated automotive catalysts pose environmental and health hazards. These wastes are excellent alternative sources of PGMs, which can be exploited to bridge the gap between the demand and supply of PGMs. Adsorption is one of the most popular metal removal/recovery methods due to its various advantages, such as ease of use and cost-effectiveness. In consideration of this method, developing an inexpensive and efficient adsorbent is a crucial point. Thus, activated carbon (AC), derived from a palm kernel shell that is abundantly available in Indonesia, was functionalized using ionic liquid (ACIL) and used for Pt(IV) removal from a simulated automotive catalyst waste leachate. The functionalized AC showed a high adsorption capacity (178.6 mg g−1), in which the adsorption of Pt(IV) followed a chemisorption route, fitting with the monolayer model. The functionalized adsorbent also showed excellent performance during continuous Pt(IV) adsorption from simulated leachate. Recovery of precious metals, such as Pt(IV) and Pd(II), from the simulated leachate containing other metals was possible by maintaining the high hydrochloric acid concentration. Furthermore, targeted separation of Pt(IV) was achieved through sequential desorption using NaClO4. In addition, ACIL showed remarkable reusability after being used for three cycles without showing a noticeable decrease in performance. Thus, this study highlights the capability of a functionalized adsorbent from palm oil industry biomass to recover precious metals from simulated leachate of automotive waste.    
 
     
 
-** Saccharide formation by sustainable formose reaction using heterogeneous zeolite catalysts   
+** A switchable hydrogenation chemoselectivity of biomass platform compounds based on solvent regulation   
 :PROPERTIES:
-:ID: https://openalex.org/W4390768301
-:DOI: https://doi.org/10.1039/d3dt02321d
-:AUTHORS: Minoru Waki, Soichi Shirai, Yoko Hase
-:HOST: Dalton Transactions
+:ID: https://openalex.org/W4390697547
+:DOI: https://doi.org/10.1016/j.apcatb.2024.123719
+:AUTHORS: Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei
+:HOST: Applied Catalysis B: Environmental
 :END:
 
-Minoru Waki, Soichi Shirai, Yoko Hase, Dalton Transactions. None(None)] 2024.
+Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei, Applied Catalysis B: Environmental. None(None)] 2024.
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3dt02321d")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123719")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390768301"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390768301"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390768301"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390697547"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390697547"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390697547"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390768301
+OpenAlex: https://openalex.org/W4390697547
     
-Minoru Waki, Soichi Shirai, Yoko Hase, Dalton Transactions. https://doi.org/10.1039/d3dt02321d
+Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei, Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123719
     
-The formose reaction is a unique chemical reaction for the preparation of saccharides from formaldehyde, a single carbon compound. We applied zeolite materials as heterogeneous catalysts to the formose reaction. The simple addition of Linde type A zeolite containing calcium ions (Ca-LTA) to an aqueous solution of formaldehyde and glycolaldehyde produced saccharides at room temperature. A quantitative analysis performed by high-performance liquid chromatography revealed that triose, tetrose, pentose, and hexose saccharides were produced with few byproducts. Ca-LTA was recovered from the reaction mixture by filtration, and the retrieved zeolite was found to be reusable under the same conditions. The catalytic activity of Ca-LTA was higher than those of conventional calcium catalysts and other solid materials such as silica, alumina, and hydroxyapatite. Several other types of zeolites with different crystal structures and alkali/alkali-earth metal ions also showed catalytic activity for saccharide formation. Based on the analytical results obtained by infrared spectroscopy, temperature-programmed desorption profiles and NMR measurements, we propose a reaction mechanism in which C-C bond formation is promoted by the mild basicity of the oxygen atoms and acidity on the metal ions of the aluminosilicate on the zeolite surfaces with low SiO2/Al2O3 ratios.    
+Selective catalytic conversion of biomass-derived compounds to fuels and fine chemicals serves as a renewable energy pathway for the partial substitution of fossil resources, in which reaction pathway and selectivity control are key issues. Herein, we report a fully exposed Pt clusters immobilized on CoAl mixed metal oxides catalyst (denoted as Ptn/CoAl-MMOs), which exhibits prominent catalytic performance towards liquid phase hydrogenation reaction of furfural (FAL). Noteworthily, the hydrogenation chemoselectivity can be switched among four products via using four different solvents: tetrahydrofurfuryl alcohol (THFA; yield: 91.4%), furfuryl alcohol (FA; yield: 97.7%), 2-methylfuran (2-MF; yield: 92.1%) and furan (FU; yield: 90.8%) are obtained in ethanol, dioxane, isopropanol and n-hexane solvent, respectively. Experimental studies (in situ FT-IR and TPSR-Mass) combined with theoretical calculations (DFT) reveal that solvent molecules exert an essential influence on the adsorption configuration of FAL via changing the solvent-catalyst and/or substrate-catalyst interaction, which ultimately determines the hydrogenation pathway, key intermediate and final product. This work demonstrates a facile solvent-dependent product-switching strategy within one catalytic system, which opens up potential opportunities for tailoring hydrogenation selectivity in liquid-solid catalytic reactions towards biomass upgrading.    
 
     

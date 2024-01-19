@@ -1,8 +1,31 @@
 #+filetags: authors
 #+TITLE: authors
 Description: List of authors
-Created on Fri Jan 19 00:41:46 2024
+Created on Fri Jan 19 13:03:04 2024
 
-Found 0 results from 2024-01-05 to 2024-01-19
+Found 1 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464]]
+** Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo<sub>2</sub>N Model Surfaces and Powder Catalysts   
+:PROPERTIES:
+:ID: https://openalex.org/W4390939862
+:DOI: https://doi.org/10.1021/acscatal.3c04700
+:AUTHORS: William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen
+:HOST: ACS Catalysis
+:END:
+
+William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04700")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390939862"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390939862"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390939862"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390939862
+    
+William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. https://doi.org/10.1021/acscatal.3c04700
+    
+Biomass valorization can be used to produce value-added chemicals and fuels from renewable biomass resources by upgrading them via selective bond scission while retaining certain functional groups. Specifically, upgrading biomass through the dehydrogenation of alcohols to carbonyl compounds has gained interest as a method of utilizing biomass-derived alcohols while additionally producing H2. In this work, isopropanol was used as a probe molecule to control bond scission selectivity over Fe- and Pt-modified molybdenum nitride (Mo2N) model surfaces and powder catalysts. Trends in the selectivity toward dehydration and dehydrogenation were dependent on both the type and coverage of the metal overlayer on model surfaces. These results were then extended to the corresponding powder catalysts to demonstrate how model surface studies can inform the design of supported catalysts. Density functional theory calculations provided insights into controlling the dehydration and dehydrogenation pathways. This work shows that a fundamental understanding of the reactivity and intermediates on Mo2N-based model surfaces can be applied to understand the catalytic performance of metal-modified Mo2N powder catalysts, and also demonstrates that Mo2N-based catalysts are potentially promising materials for upgrading biomass-derived oxygenates.    
+
+    

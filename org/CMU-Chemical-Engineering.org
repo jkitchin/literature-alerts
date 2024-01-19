@@ -1,9 +1,9 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jan 19 00:41:52 2024
+Created on Fri Jan 19 13:03:22 2024
 
-Found 5 results from 2024-01-05 to 2024-01-19
+Found 6 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 ** Nitrate Radicals Suppress Biogenic New Particle Formation from Monoterpene Oxidation   
@@ -75,6 +75,30 @@ OpenAlex: https://openalex.org/W4390735401
 Yuhong He, Bin Zhao, Yafei Wang, Richard Valorso, Xing Chang, Dejia Yin, Bo Feng, M. Camredon, Bernard Aumont, Abraham Dearden, Shantanu H. Jathar, Manish Shrivastava, Z. J. Jiang, C. D. Cappa, L. D. Yee, John H. Seinfeld, Jiming Hao, Neil M. Donahue, Nature Geoscience. https://doi.org/10.1038/s41561-023-01355-4
     
 No abstract    
+
+    
+
+** Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo<sub>2</sub>N Model Surfaces and Powder Catalysts   
+:PROPERTIES:
+:ID: https://openalex.org/W4390939862
+:DOI: https://doi.org/10.1021/acscatal.3c04700
+:AUTHORS: William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen
+:HOST: ACS Catalysis
+:END:
+
+William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04700")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390939862"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390939862"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390939862"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390939862
+    
+William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. https://doi.org/10.1021/acscatal.3c04700
+    
+Biomass valorization can be used to produce value-added chemicals and fuels from renewable biomass resources by upgrading them via selective bond scission while retaining certain functional groups. Specifically, upgrading biomass through the dehydrogenation of alcohols to carbonyl compounds has gained interest as a method of utilizing biomass-derived alcohols while additionally producing H2. In this work, isopropanol was used as a probe molecule to control bond scission selectivity over Fe- and Pt-modified molybdenum nitride (Mo2N) model surfaces and powder catalysts. Trends in the selectivity toward dehydration and dehydrogenation were dependent on both the type and coverage of the metal overlayer on model surfaces. These results were then extended to the corresponding powder catalysts to demonstrate how model surface studies can inform the design of supported catalysts. Density functional theory calculations provided insights into controlling the dehydration and dehydrogenation pathways. This work shows that a fundamental understanding of the reactivity and intermediates on Mo2N-based model surfaces can be applied to understand the catalytic performance of metal-modified Mo2N powder catalysts, and also demonstrates that Mo2N-based catalysts are potentially promising materials for upgrading biomass-derived oxygenates.    
 
     
 

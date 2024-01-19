@@ -1,0 +1,21 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Dynamic catalysis - citing and related</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
+    <description>papers related to dynamic catalysis</description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Jan 2024 13:03:32 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>The forefront of chemical engineering research</title>
+      <link>https://doi.org/10.1038/s44286-023-00017-x</link>
+      <description>Laura Torrente&#8208;Murciano, Jennifer B. Dunn, Panagiotis D. Christofides, Jay D. Keasling, Sharon C. Glotzer, Sang Yup Lee, Kevin Van Geem, Jean W. Tom, Gaohong He, No host. 1(1)] 2024. https://openalex.org/W4390754968
+
+                To mark the inaugural issue of Nature Chemical Engineering, we asked a collection of scientists working in different branches of chemical engineering to share their perspectives on the challenges and opportunities that lie ahead for their respective fields.</description>
+      <author>Laura Torrente&#8208;Murciano, Jennifer B. Dunn, Panagiotis D. Christofides, Jay D. Keasling, Sharon C. Glotzer, Sang Yup Lee, Kevin Van Geem, Jean W. Tom, Gaohong He</author>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s44286-023-00017-x</guid>
+    </item>
+  </channel>
+</rss>

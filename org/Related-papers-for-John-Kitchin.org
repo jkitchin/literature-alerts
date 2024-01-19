@@ -1,7 +1,7 @@
 #+filetags: Related_papers_for_John_Kitchin
 #+TITLE: Related papers for John Kitchin
 Description: Related papers to my work
-Created on Fri Jan 19 00:41:58 2024
+Created on Fri Jan 19 13:03:30 2024
 
 Found 0 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)

@@ -1,9 +1,9 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Fri Jan 19 00:41:58 2024
+Created on Fri Jan 19 13:03:30 2024
 
-Found 30 results from 2024-01-05 to 2024-01-19
+Found 32 results from 2024-01-05 to 2024-01-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -661,6 +661,30 @@ No abstract
 
     
 
+** Performance prediction of gas turbine blade with multi-source random factors using active learning-based neural network   
+:PROPERTIES:
+:ID: https://openalex.org/W4390948931
+:DOI: https://doi.org/10.1016/j.applthermaleng.2024.122481
+:AUTHORS: Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang
+:HOST: Applied Thermal Engineering
+:END:
+
+Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang, Applied Thermal Engineering. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.applthermaleng.2024.122481")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390948931"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390948931"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390948931"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390948931
+    
+Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang, Applied Thermal Engineering. https://doi.org/10.1016/j.applthermaleng.2024.122481
+    
+Rapid and accurate performance acquisition of high-temperature gas turbine blades is fundamental to energy system design, analysis, and evaluation. Data-driven surrogate models are a popular alternative to complex and expensive numerical methods, but they require numerous labeled data and are often inaccurate when influenced by multi-source random factors. In this paper, a data-driven framework is proposed based on neural networks and active learning. Gas turbine blade performance with multi-source random factors can be quickly and accurately predicted. Two active learning-based sampling strategies, the Bayesian Sampling strategy (BS) and the Combined Sampling strategy (CS), are proposed to improve the efficiency of dataset building. The established prediction model is called active learning-based neural network (ALNN), which significantly improves the prediction accuracy with small samples. Compared with the artificial neural network using traditional Latin hypercube sampling, the prediction accuracy for the maximum stress of the blade is improved by 31.9%, and the prediction accuracy for the maximum deformation is improved by 47.6%. In addition, based on the ALNN, the low cycle fatigue probabilistic life of the gas turbine blade with multi-source random factors is evaluated. When the material and processing parameters and operating condition parameters are varied randomly, the minimum value of the low cycle fatigue life is 7000 cycles.    
+
+    
+
 ** A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390580294
@@ -706,6 +730,30 @@ OpenAlex: https://openalex.org/W4390619178
 Xinyan Li, Hong‐Jie Peng, Engineering. https://doi.org/10.1016/j.eng.2023.07.021
     
 Heterogeneous catalysis remains at the core of various bulk chemical manufacturing and energy conversion processes, and its revolution necessitates the hunt for new materials with ideal catalytic activities and economic feasibility. Computational high-throughput screening presents a viable solution to this challenge, as machine learning (ML) has demonstrated its great potential in accelerating such processes by providing satisfactory estimations of surface reactivity with relatively low-cost information. This review focuses on recent progress in applying ML in adsorption energy prediction, which predominantly quantifies the catalytic potential of a solid catalyst. ML models that leverage inputs from different categories and exhibit various levels of complexity are classified and discussed. At the end of the review, an outlook on the current challenges and future opportunities of ML-assisted catalyst screening is supplied. We believe that this review summarizes major achievements in accelerating catalyst discovery through ML and can inspire researchers to further devise novel strategies to accelerate materials design and, ultimately, reshape the chemical industry and energy landscape.    
+
+    
+
+** Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba<sub>0.6</sub>Sr<sub>0.4</sub>MnO<sub>3</sub>   
+:PROPERTIES:
+:ID: https://openalex.org/W4390939574
+:DOI: https://doi.org/10.1021/acsami.3c11934
+:AUTHORS: Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador
+:HOST: No host
+:END:
+
+Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador, No host. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.3c11934")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390939574"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390939574"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390939574"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390939574
+    
+Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador, No host. https://doi.org/10.1021/acsami.3c11934
+    
+Ba-rich compositions in the BaxSr1-xMnO3 (BSMO) cubic perovskite (3C) system are magnetic ferroelectrics and are of interest for their strong magnetoelectric coupling. Beyond x = 0.5, they only form in hexagonal polymorphs. Here, the 3C phase boundary is pushed to Ba0.6Sr0.4MnO3 for the thin films. Using regular pulsed laser deposition (rPLD), 3C Ba0.6Sr0.4MnO3 could be epitaxially stabilized on DyScO3 (101)o substrates by using a 0.1% O2/99.9% N2 gas mixture. However, the 3C phase was mixed with the 4H polymorph for films 24 nm thick and above, and the films were relatively rough. To improve flatness and phase purity, changes in growth kinetics were investigated and interval PLD (iPLD) was especially effective. In iPLD, deposition is interrupted after completion of approximately one monolayer, and the deposit is annealed for a specific period of time before repeating. Both film flatness and, more importantly, the volume of the 3C polymorph improved with iPLD, resulting in 40 nm single-phase films. The results imply that iPLD improves the persistent nucleation of highly metastable phases and offers a new approach to epitaxial stabilization of novel materials, including more Ba-rich BSMO compositions in the 3C structure.    
 
     
 
