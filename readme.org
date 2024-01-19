@@ -123,3 +123,46 @@ Whenever you have new papers that OpenAlex knows about, just rerun this to gener
      - cites:https://openalex.org/W2593159564|https://openalex.org/W2616197370|https://openalex.org/W2736400892|https://openalex.org/W2737400761|https://openalex.org/W4242085932|https://openalex.org/W2050074768|https://openalex.org/W2287679227|https://openalex.org/W4220985611|https://openalex.org/W4281680351|https://openalex.org/W4283023483|https://openalex.org/W4285900276|https://openalex.org/W2005197721|https://openalex.org/W2514424001|https://openalex.org/W338058020|https://openalex.org/W4237590291|https://openalex.org/W2023154463|https://openalex.org/W2795250219|https://openalex.org/W2992838914|https://openalex.org/W2993324324|https://openalex.org/W3080131370|https://openalex.org/W4244843289|https://openalex.org/W4246990943|https://openalex.org/W4247545658|https://openalex.org/W4253478322|https://openalex.org/W4255008889
      - cites:https://openalex.org/W4255519766|https://openalex.org/W2087480586|https://openalex.org/W1931953664|https://openalex.org/W3040748958|https://openalex.org/W4205946618|https://openalex.org/W4239600023|https://openalex.org/W2333373047|https://openalex.org/W2605616508|https://openalex.org/W4232690322|https://openalex.org/W4232865630|https://openalex.org/W4247596616|https://openalex.org/W4254421699|https://openalex.org/W1964467038|https://openalex.org/W2796291287|https://openalex.org/W2949887176|https://openalex.org/W4244960257|https://openalex.org/W2441997026|https://openalex.org/W2578323605|https://openalex.org/W2951632357|https://openalex.org/W4245313022
 #+end_src
+
+Another way to generate features from org-ref citations. Say you want papers that cite or are related to these:
+
+[[cite:&ardagh-2019-princ-dynam;&ardagh-2019-catal-reson-theor;&ardagh-2020-catal-reson-theor;&gopeesingh-2020-reson-promot;&shetty-2020-elect-field]]
+
+First highlight the region, then run the function below. That will copy the necessary ids to the clipboard, and then you can paste them somewhere.
+
+
+#+BEGIN_SRC emacs-lisp
+(defun oa-generate-cites-filter (r1 r2)
+  (interactive "r")
+  (save-restriction
+    (narrow-to-region r1 r2)
+    (let* ((links (org-ref-get-cite-links))
+	   path
+	   references
+	   entry
+	   (dois '())
+	   (oa-ids '())
+	   s)
+      (cl-loop for link in links do
+	       (setq path (org-element-property :path link)
+		     data (org-ref-parse-cite-path path)
+		     references (plist-get data :references))
+	       (cl-loop for reference in references do
+			(setq entry (bibtex-completion-get-entry (plist-get reference :key)))
+			(pushnew (concat "https://doi.org/" (cdr (assoc "doi" entry))) dois))
+	       (cl-loop for doi in dois do
+			(let* ((url (concat "https://api.openalex.org/works/" doi))
+			       (data (request-response-data
+				      (request url
+					:sync t
+					:parser 'oa--response-parser))))
+			  (pushnew (plist-get data :id) oa-ids))))
+     
+      (setq s (kill-new (string-join oa-ids "|")))
+      (message s))))
+#+END_SRC
+
+#+RESULTS:
+: oa-generate-cites-filter
+
+
