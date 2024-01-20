@@ -1,7 +1,7 @@
 #+filetags: water_splitting
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Sat Jan 20 17:29:05 2024
+Created on Sat Jan 20 17:39:33 2024
 
 Found 48 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -17,7 +17,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 Open access: False
     
-[[https://openalex.org/A5051756286][Ziqiang Wang]], [[https://openalex.org/A5052024256][Min Li]], [[https://openalex.org/A5060144924][Shan Xu]], [[https://openalex.org/A5011020397][Heng-Qing Ye]], [[https://openalex.org/A5047495310][Kai Deng]], [[https://openalex.org/A5078327202][You Xu]], [[https://openalex.org/A5070260840][Hongjing Wang]], [[https://openalex.org/A5086664647][Liang Wang]], Materials Today Energy. None(None)] 2024. 
+[[https://openalex.org/A5051756286][Ziqiang Wang]], [[https://openalex.org/A5052024256][Min Li]], [[https://openalex.org/A5060144924][Shan Xu]], [[https://openalex.org/A5011020397][Heng-Qing Ye]], [[https://openalex.org/A5047495310][Kai Deng]], [[https://openalex.org/A5078327202][You Xu]], [[https://openalex.org/A5070260840][Hongjing Wang]], [[https://openalex.org/A5086664647][Liang Wang]], Materials Today Energy. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mtener.2024.101493")][Get bibtex entry]] 
 
@@ -43,7 +43,7 @@ The replacement of sluggish oxygen evolution reaction by more thermodynamically 
 
 Open access: False
     
-[[https://openalex.org/A5077814179][Zhi-Jia Sun]], [[https://openalex.org/A5018156906][J. Chen]], [[https://openalex.org/A5059785141][Xiao‐Man Cao]], [[https://openalex.org/A5036154095][Hao Ge]], [[https://openalex.org/A5031884742][Daliang Liu]], [[https://openalex.org/A5020902145][Qiong Wu]], [[https://openalex.org/A5003795651][Xi‐Ming Song]], Applied Surface Science. None(None)] 2024. 
+[[https://openalex.org/A5077814179][Zhi-Jia Sun]], [[https://openalex.org/A5018156906][J. Chen]], [[https://openalex.org/A5059785141][Xiao‐Man Cao]], [[https://openalex.org/A5036154095][Hao Ge]], [[https://openalex.org/A5031884742][Daliang Liu]], [[https://openalex.org/A5020902145][Qiong Wu]], [[https://openalex.org/A5003795651][Xi‐Ming Song]], Applied Surface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159331")][Get bibtex entry]] 
 
@@ -69,7 +69,7 @@ As promising electrode materials, hollow-structured metallic oxides/hydroxides h
 
 Open access: False
     
-[[https://openalex.org/A5057499176][Hong-Rui Huang]], [[https://openalex.org/A5085920655][Qianqian Liang]], [[https://openalex.org/A5046555928][Huajun Guo]], [[https://openalex.org/A5084604342][Zhixing Wang]], [[https://openalex.org/A5026741397][Guochun Yan]], [[https://openalex.org/A5089699624][Feixiang Wu]], [[https://openalex.org/A5002801475][Jiexi Wang]], Small. None(None)] 2024. 
+[[https://openalex.org/A5057499176][Hong-Rui Huang]], [[https://openalex.org/A5085920655][Qianqian Liang]], [[https://openalex.org/A5046555928][Huajun Guo]], [[https://openalex.org/A5084604342][Zhixing Wang]], [[https://openalex.org/A5026741397][Guochun Yan]], [[https://openalex.org/A5089699624][Feixiang Wu]], [[https://openalex.org/A5002801475][Jiexi Wang]], Small. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202310318")][Get bibtex entry]] 
 
@@ -95,7 +95,7 @@ Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen re
 
 Open access: False
     
-[[https://openalex.org/A5008928380][Arumugam Sudalai]], [[https://openalex.org/A5015697700][K. Vinoth Kumar]], [[https://openalex.org/A5000452393][A. Aseema Banu]], [[https://openalex.org/A5072379832][Sujin P. Jose]], Materials Letters. None(None)] 2024. 
+[[https://openalex.org/A5008928380][Arumugam Sudalai]], [[https://openalex.org/A5015697700][K. Vinoth Kumar]], [[https://openalex.org/A5000452393][A. Aseema Banu]], [[https://openalex.org/A5072379832][Sujin P. Jose]], Materials Letters. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.matlet.2024.135892")][Get bibtex entry]] 
 
@@ -121,7 +121,7 @@ Manganese molybdenum oxide (MnMoO4) has recently garnered significant attention 
 
 Open access: False
     
-[[https://openalex.org/A5015710034][Yufan Mo]], [[https://openalex.org/A5041312878][Dongdong Du]], [[https://openalex.org/A5032950983][Yiyun Du]], [[https://openalex.org/A5028441112][Yongjun Feng]], [[https://openalex.org/A5067881229][Pinggui Tang]], [[https://openalex.org/A5011895543][Dianqing Li]], Journal of Colloid and Interface Science. None(None)] 2024. 
+[[https://openalex.org/A5015710034][Yufan Mo]], [[https://openalex.org/A5041312878][Dongdong Du]], [[https://openalex.org/A5032950983][Yiyun Du]], [[https://openalex.org/A5028441112][Yongjun Feng]], [[https://openalex.org/A5067881229][Pinggui Tang]], [[https://openalex.org/A5011895543][Dianqing Li]], Journal of Colloid and Interface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.018")][Get bibtex entry]] 
 
@@ -147,7 +147,7 @@ Developing highly active electrocatalysts for overall water splitting is of rema
 
 Open access: False
     
-[[https://openalex.org/A5066466833][Haijiao Lu]], [[https://openalex.org/A5042282225][Luyao Wang]], Applied Catalysis B: Environmental. None(None)] 2024. 
+[[https://openalex.org/A5066466833][Haijiao Lu]], [[https://openalex.org/A5042282225][Luyao Wang]], Applied Catalysis B: Environmental. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123707")][Get bibtex entry]] 
 
@@ -173,7 +173,7 @@ As atmospheric carbon dioxide (CO2) levels surge due to human activities, addres
 
 Open access: False
     
-[[https://openalex.org/A5020670810][Lei Yang]], [[https://openalex.org/A5002551951][Xiuyun Yao]], [[https://openalex.org/A5048336838][Changliang Du]], [[https://openalex.org/A5002128488][Zhanli Han]], [[https://openalex.org/A5054712138][Mingwei Jin]], [[https://openalex.org/A5009304062][Shichao Peng]], [[https://openalex.org/A5051882290][Xiaoqing Ma]], [[https://openalex.org/A5062178429][Youqi Zhu]], [[https://openalex.org/A5053538627][Meishuai Zou]], [[https://openalex.org/A5030808469][Chuanbao Cao]], Chemical Engineering Journal. None(None)] 2024. 
+[[https://openalex.org/A5020670810][Lei Yang]], [[https://openalex.org/A5002551951][Xiuyun Yao]], [[https://openalex.org/A5048336838][Changliang Du]], [[https://openalex.org/A5002128488][Zhanli Han]], [[https://openalex.org/A5054712138][Mingwei Jin]], [[https://openalex.org/A5009304062][Shichao Peng]], [[https://openalex.org/A5051882290][Xiaoqing Ma]], [[https://openalex.org/A5062178429][Youqi Zhu]], [[https://openalex.org/A5053538627][Meishuai Zou]], [[https://openalex.org/A5030808469][Chuanbao Cao]], Chemical Engineering Journal. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148598")][Get bibtex entry]] 
 
@@ -199,7 +199,7 @@ Rechargeable zinc-air battery (ZAB) typically necessitates highly efficient, dur
 
 Open access: False
     
-[[https://openalex.org/A5018675466][Jinjuan Dong]], [[https://openalex.org/A5065504878][Ning Lv]], [[https://openalex.org/A5019585295][Xiaoning Kang]], [[https://openalex.org/A5027992561][Xianrui Liu]], [[https://openalex.org/A5034970553][H. Li]], [[https://openalex.org/A5029756519][Tianbao Li]], [[https://openalex.org/A5091755182][Zhen Guo]], [[https://openalex.org/A5073770524][Jun Luo]], Materials Research Bulletin. None(None)] 2024. 
+[[https://openalex.org/A5018675466][Jinjuan Dong]], [[https://openalex.org/A5065504878][Ning Lv]], [[https://openalex.org/A5019585295][Xiaoning Kang]], [[https://openalex.org/A5027992561][Xianrui Liu]], [[https://openalex.org/A5034970553][H. Li]], [[https://openalex.org/A5029756519][Tianbao Li]], [[https://openalex.org/A5091755182][Zhen Guo]], [[https://openalex.org/A5073770524][Jun Luo]], Materials Research Bulletin. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.materresbull.2024.112681")][Get bibtex entry]] 
 
@@ -225,7 +225,7 @@ This work reports the preparation of NiCoMn medium-entropy alloys and Ag-Bi bime
 
 Open access: False
     
-[[https://openalex.org/A5011535526][Chulei Zhao]], [[https://openalex.org/A5074092526][Chaoyun Ma]], [[https://openalex.org/A5041256730][Fuping Zhang]], [[https://openalex.org/A5080121245][Wenjun Li]], [[https://openalex.org/A5085823213][Chenglin Hong]], [[https://openalex.org/A5018045574][Fuxi Bao]], Journal of Colloid and Interface Science. None(None)] 2024. 
+[[https://openalex.org/A5011535526][Chulei Zhao]], [[https://openalex.org/A5074092526][Chaoyun Ma]], [[https://openalex.org/A5041256730][Fuping Zhang]], [[https://openalex.org/A5080121245][Wenjun Li]], [[https://openalex.org/A5085823213][Chenglin Hong]], [[https://openalex.org/A5018045574][Fuxi Bao]], Journal of Colloid and Interface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.015")][Get bibtex entry]] 
 
@@ -251,7 +251,7 @@ Luminol has garnered significant attention from analysts as one of the most effe
 
 Open access: False
     
-[[https://openalex.org/A5081619070][Tengteng Gu]], [[https://openalex.org/A5045440126][Jiadong Shen]], [[https://openalex.org/A5017015335][Zhaoyu Sun]], [[https://openalex.org/A5050020430][Fangkun Li]], [[https://openalex.org/A5037609171][Chunyi Zhi]], [[https://openalex.org/A5015978493][Min Zhu]], [[https://openalex.org/A5062432067][Jiangwen Liu]], Small. None(None)] 2024. 
+[[https://openalex.org/A5081619070][Tengteng Gu]], [[https://openalex.org/A5045440126][Jiadong Shen]], [[https://openalex.org/A5017015335][Zhaoyu Sun]], [[https://openalex.org/A5050020430][Fangkun Li]], [[https://openalex.org/A5037609171][Chunyi Zhi]], [[https://openalex.org/A5015978493][Min Zhu]], [[https://openalex.org/A5062432067][Jiangwen Liu]], Small. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202308355")][Get bibtex entry]] 
 
@@ -277,7 +277,7 @@ Abstract Developing efficient, robust, and cost‐effective trifunctional cataly
 
 Open access: False
     
-[[https://openalex.org/A5083846581][Taotao Gao]], [[https://openalex.org/A5061624898][Yuqing Zhou]], [[https://openalex.org/A5030663922][Xiao‐Jun Zhao]], [[https://openalex.org/A5077328036][Zhi‐Hong Liu]], [[https://openalex.org/A5016086224][Juan Bai]], Advanced Functional Materials. None(None)] 2024. 
+[[https://openalex.org/A5083846581][Taotao Gao]], [[https://openalex.org/A5061624898][Yuqing Zhou]], [[https://openalex.org/A5030663922][Xiao‐Jun Zhao]], [[https://openalex.org/A5077328036][Zhi‐Hong Liu]], [[https://openalex.org/A5016086224][Juan Bai]], Advanced Functional Materials. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202315949")][Get bibtex entry]] 
 
@@ -303,7 +303,7 @@ Abstract Resourceful and inexpensive seawater direct splitting omits the desalin
 
 Open access: False
     
-[[https://openalex.org/A5023654926][Wentao Bao]], [[https://openalex.org/A5020683156][Ying Tang]], [[https://openalex.org/A5017565393][Jie Yu]], [[https://openalex.org/A5089561602][Wenxia Yan]], [[https://openalex.org/A5086186752][Chenxu Wang]], [[https://openalex.org/A5023578647][Yangyang Li]], [[https://openalex.org/A5062268741][Zhimou Wang]], [[https://openalex.org/A5055022979][Jinfeng Yang]], [[https://openalex.org/A5086700947][Li Li Zhang]], [[https://openalex.org/A5050311492][Feng Ye]], Applied Catalysis B: Environmental. None(None)] 2024. 
+[[https://openalex.org/A5023654926][Wentao Bao]], [[https://openalex.org/A5020683156][Ying Tang]], [[https://openalex.org/A5017565393][Jie Yu]], [[https://openalex.org/A5089561602][Wenxia Yan]], [[https://openalex.org/A5086186752][Chenxu Wang]], [[https://openalex.org/A5023578647][Yangyang Li]], [[https://openalex.org/A5062268741][Zhimou Wang]], [[https://openalex.org/A5055022979][Jinfeng Yang]], [[https://openalex.org/A5086700947][Li Li Zhang]], [[https://openalex.org/A5050311492][Feng Ye]], Applied Catalysis B: Environmental. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123706")][Get bibtex entry]] 
 
@@ -329,7 +329,7 @@ A highly efficient Si-doped ZnAl-LDH (denoted as Si-ZnAl-LDH nanosheet) catalyst
 
 Open access: False
     
-[[https://openalex.org/A5062068884][Tongya Tian]], [[https://openalex.org/A5028508059][Sen Zhang]], [[https://openalex.org/A5046824126][Song Yang]], [[https://openalex.org/A5046867711][Chang Ming Li]], [[https://openalex.org/A5006375563][Xi Zhou]], [[https://openalex.org/A5008435796][Zhenghua Yang]], [[https://openalex.org/A5016801402][Qizhe Ji]], [[https://openalex.org/A5061544261][Xianglong Zhao]], [[https://openalex.org/A5064124661][Feiyong Chen]], No host. None(None)] 2024. 
+[[https://openalex.org/A5062068884][Tongya Tian]], [[https://openalex.org/A5028508059][Sen Zhang]], [[https://openalex.org/A5046824126][Song Yang]], [[https://openalex.org/A5046867711][Chang Ming Li]], [[https://openalex.org/A5006375563][Xi Zhou]], [[https://openalex.org/A5008435796][Zhenghua Yang]], [[https://openalex.org/A5016801402][Qizhe Ji]], [[https://openalex.org/A5061544261][Xianglong Zhao]], [[https://openalex.org/A5064124661][Feiyong Chen]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4687449")][Get bibtex entry]] 
 
@@ -355,7 +355,7 @@ Ruthenium (Ru) and cobalt oxides (CoxOy) nanoparticles are uniformly decorated o
 
 Open access: False
     
-[[https://openalex.org/A5019513718][Duc‐Viet Nguyen]], [[https://openalex.org/A5021860321][Ravi Nivetha]], [[https://openalex.org/A5054243944][Nam Le]], [[https://openalex.org/A5084387078][Jin Suk Chung]], [[https://openalex.org/A5091692196][Won Mook Choi]], [[https://openalex.org/A5070127163][Seung Hyun Hur]], ACS Applied Nano Materials. None(None)] 2024. 
+[[https://openalex.org/A5019513718][Duc‐Viet Nguyen]], [[https://openalex.org/A5021860321][Ravi Nivetha]], [[https://openalex.org/A5054243944][Nam Le]], [[https://openalex.org/A5084387078][Jin Suk Chung]], [[https://openalex.org/A5091692196][Won Mook Choi]], [[https://openalex.org/A5070127163][Seung Hyun Hur]], ACS Applied Nano Materials. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsanm.3c05011")][Get bibtex entry]] 
 
@@ -381,7 +381,7 @@ Recently, the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER
 
 Open access: True
     
-[[https://openalex.org/A5025861092][Omeshwari Yadorao Bisen]], [[https://openalex.org/A5081601530][Max Baumung]], [[https://openalex.org/A5081241050][Michael Tatzel]], [[https://openalex.org/A5031668333][Cynthia A. Volkert]], [[https://openalex.org/A5068195942][Marcel Risch]], No host. None(None)] 2024. https://pubs.rsc.org/en/content/articlepdf/2024/ya/d3ya00434a
+[[https://openalex.org/A5025861092][Omeshwari Yadorao Bisen]], [[https://openalex.org/A5081601530][Max Baumung]], [[https://openalex.org/A5081241050][Michael Tatzel]], [[https://openalex.org/A5031668333][Cynthia A. Volkert]], [[https://openalex.org/A5068195942][Marcel Risch]], No host. None(None)] 2024. ([[https://pubs.rsc.org/en/content/articlepdf/2024/ya/d3ya00434a][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ya00434a")][Get bibtex entry]] 
 
@@ -407,7 +407,7 @@ Manganese dissolution during the oxygen evolution reaction (OER) has been a pers
 
 Open access: True
     
-[[https://openalex.org/A5037360068][Yu-Ming Su]], [[https://openalex.org/A5013159664][Shuo-En Yu]], [[https://openalex.org/A5013647327][I‐Chih Ni]], [[https://openalex.org/A5004605327][Chih-I Wu]], [[https://openalex.org/A5089952383][Yong-Song Chen]], [[https://openalex.org/A5031385445][Yi-Cheng Chuang]], [[https://openalex.org/A5037535777][I-Chun Cheng]], [[https://openalex.org/A5081165207][Jian-Zhang Chen]], No host. 8(1)] 2024. https://www.mdpi.com/2504-477X/8/1/19/pdf?version=1704682505
+[[https://openalex.org/A5037360068][Yu-Ming Su]], [[https://openalex.org/A5013159664][Shuo-En Yu]], [[https://openalex.org/A5013647327][I‐Chih Ni]], [[https://openalex.org/A5004605327][Chih-I Wu]], [[https://openalex.org/A5089952383][Yong-Song Chen]], [[https://openalex.org/A5031385445][Yi-Cheng Chuang]], [[https://openalex.org/A5037535777][I-Chun Cheng]], [[https://openalex.org/A5081165207][Jian-Zhang Chen]], No host. 8(1)] 2024. ([[https://www.mdpi.com/2504-477X/8/1/19/pdf?version=1704682505][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/jcs8010019")][Get bibtex entry]] 
 
@@ -433,7 +433,7 @@ Ar, Ar/H2 (95:5), and Ar/O2 (95:5) plasmas are used for treating the NiCo metal�
 
 Open access: True
     
-[[https://openalex.org/A5025363897][X.-F. Wang]], [[https://openalex.org/A5051188877][Yuanyuan Guo]], [[https://openalex.org/A5061745492][Yanqiong Shen]], [[https://openalex.org/A5054473752][Jinjie Qian]], The Journal of Chemical Physics. 160(2)] 2024. https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0185031/18290184/024701_1_5.0185031.pdf
+[[https://openalex.org/A5025363897][X.-F. Wang]], [[https://openalex.org/A5051188877][Yuanyuan Guo]], [[https://openalex.org/A5061745492][Yanqiong Shen]], [[https://openalex.org/A5054473752][Jinjie Qian]], The Journal of Chemical Physics. 160(2)] 2024. ([[https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0185031/18290184/024701_1_5.0185031.pdf][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0185031")][Get bibtex entry]] 
 
@@ -459,7 +459,7 @@ The sluggish oxygen evolution reaction (OER) in overall electrocatalytic water s
 
 Open access: False
     
-[[https://openalex.org/A5084226477][Qian Chen]], [[https://openalex.org/A5036839953][Peisheng Cao]], [[https://openalex.org/A5018286530][Yanying Wang]], [[https://openalex.org/A5035709701][Jinying Yuan]], [[https://openalex.org/A5042367706][Peng Wu]], Small. None(None)] 2024. 
+[[https://openalex.org/A5084226477][Qian Chen]], [[https://openalex.org/A5036839953][Peisheng Cao]], [[https://openalex.org/A5018286530][Yanying Wang]], [[https://openalex.org/A5035709701][Jinying Yuan]], [[https://openalex.org/A5042367706][Peng Wu]], Small. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202310380")][Get bibtex entry]] 
 
@@ -485,7 +485,7 @@ Supported noble metal nanoparticles (NMNPs) are appealing for energy and environ
 
 Open access: False
     
-[[https://openalex.org/A5041338449][Hong He]], [[https://openalex.org/A5077808503][Takeshi Matsuda]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5008190903][Masanori Nagao]], [[https://openalex.org/A5082617477][Jeevan Kumar Padarti]], [[https://openalex.org/A5060980991][Tomoya Ohno]], [[https://openalex.org/A5036570962][Shigeto Hirai]], No host. None(None)] 2024. 
+[[https://openalex.org/A5041338449][Hong He]], [[https://openalex.org/A5077808503][Takeshi Matsuda]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5008190903][Masanori Nagao]], [[https://openalex.org/A5082617477][Jeevan Kumar Padarti]], [[https://openalex.org/A5060980991][Tomoya Ohno]], [[https://openalex.org/A5036570962][Shigeto Hirai]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3se01398g")][Get bibtex entry]] 
 
@@ -511,7 +511,7 @@ Oxygen evolution and oxygen reduction catalysts play a crucial role in energy co
 
 Open access: False
     
-[[https://openalex.org/A5045407304][Xinqi Wang]], [[https://openalex.org/A5090391117][Zhaoyuan Wang]], [[https://openalex.org/A5066787423][Yuanyuan Cao]], [[https://openalex.org/A5038097386][Xinxin Liu]], [[https://openalex.org/A5040710158][Liping Zhou]], [[https://openalex.org/A5040219441][Jianjun Shi]], [[https://openalex.org/A5047539121][Bao‐Zhu Guo]], [[https://openalex.org/A5080141140][Di Li]], [[https://openalex.org/A5006326919][Rongrong Ye]], [[https://openalex.org/A5065361552][Zhao Zhang]], Journal of Solid State Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5045407304][Xinqi Wang]], [[https://openalex.org/A5090391117][Zhaoyuan Wang]], [[https://openalex.org/A5066787423][Yuanyuan Cao]], [[https://openalex.org/A5038097386][Xinxin Liu]], [[https://openalex.org/A5040710158][Liping Zhou]], [[https://openalex.org/A5040219441][Jianjun Shi]], [[https://openalex.org/A5047539121][Bao‐Zhu Guo]], [[https://openalex.org/A5080141140][Di Li]], [[https://openalex.org/A5006326919][Rongrong Ye]], [[https://openalex.org/A5065361552][Zhao Zhang]], Journal of Solid State Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jssc.2024.124553")][Get bibtex entry]] 
 
@@ -537,7 +537,7 @@ It is of great significance to develop electrocatalysts that are abundant in Ear
 
 Open access: False
     
-[[https://openalex.org/A5064034677][Venkatesan Jayaraman]], [[https://openalex.org/A5058779653][Ganghyun Jang]], [[https://openalex.org/A5018707438][Do‐Heyoung Kim]], Applied Surface Science. None(None)] 2024. 
+[[https://openalex.org/A5064034677][Venkatesan Jayaraman]], [[https://openalex.org/A5058779653][Ganghyun Jang]], [[https://openalex.org/A5018707438][Do‐Heyoung Kim]], Applied Surface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159336")][Get bibtex entry]] 
 
@@ -563,7 +563,7 @@ Problems faced in water electrolysis, such as sluggish reaction kinetics and poo
 
 Open access: False
     
-[[https://openalex.org/A5050531754][Dimple K. Bora]], [[https://openalex.org/A5039581699][Priyanka P. Bavdane]], [[https://openalex.org/A5076938960][Bhavana Bhatt]], [[https://openalex.org/A5018905785][Devendra Y. Nikumbe]], [[https://openalex.org/A5084510580][Govind Sethia]], [[https://openalex.org/A5049205979][Rajaram K. Nagarale]], Journal of Electroanalytical Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5050531754][Dimple K. Bora]], [[https://openalex.org/A5039581699][Priyanka P. Bavdane]], [[https://openalex.org/A5076938960][Bhavana Bhatt]], [[https://openalex.org/A5018905785][Devendra Y. Nikumbe]], [[https://openalex.org/A5084510580][Govind Sethia]], [[https://openalex.org/A5049205979][Rajaram K. Nagarale]], Journal of Electroanalytical Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jelechem.2024.118027")][Get bibtex entry]] 
 
@@ -589,7 +589,7 @@ Here, we present a ruthenium-anchored aminated multi-walled carbon nanotube-base
 
 Open access: False
     
-[[https://openalex.org/A5040182777][Hyeyeon Lee]], [[https://openalex.org/A5075691160][Jayaraman Theerthagiri]], [[https://openalex.org/A5012728280][M.L. Aruna Kumari]], [[https://openalex.org/A5000061857][Ahreum Min]], [[https://openalex.org/A5011667598][Cheol Joo Moon]], [[https://openalex.org/A5029148207][V. Anbazhagan]], [[https://openalex.org/A5000409467][Richard L. Brutchey]], [[https://openalex.org/A5067975222][Myong Yong Choi]], International Journal of Hydrogen Energy. 57(None)] 2024. 
+[[https://openalex.org/A5040182777][Hyeyeon Lee]], [[https://openalex.org/A5075691160][Jayaraman Theerthagiri]], [[https://openalex.org/A5012728280][M.L. Aruna Kumari]], [[https://openalex.org/A5000061857][Ahreum Min]], [[https://openalex.org/A5011667598][Cheol Joo Moon]], [[https://openalex.org/A5029148207][V. Anbazhagan]], [[https://openalex.org/A5000409467][Richard L. Brutchey]], [[https://openalex.org/A5067975222][Myong Yong Choi]], International Journal of Hydrogen Energy. 57(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.029")][Get bibtex entry]] 
 
@@ -615,7 +615,7 @@ By driving the electrooxidation of small molecules instead of relying on sluggis
 
 Open access: True
     
-[[https://openalex.org/A5077307847][Tomáš Hrbek]], [[https://openalex.org/A5008838002][Peter Kúš]], [[https://openalex.org/A5006021426][Miquel Gamón Rodríguez]], [[https://openalex.org/A5038596029][Vladimı́r Matolín]], [[https://openalex.org/A5073666601][Serhiy Cherevko]], International Journal of Hydrogen Energy. 57(None)] 2024. 
+[[https://openalex.org/A5077307847][Tomáš Hrbek]], [[https://openalex.org/A5008838002][Peter Kúš]], [[https://openalex.org/A5006021426][Miquel Gamón Rodríguez]], [[https://openalex.org/A5038596029][Vladimı́r Matolín]], [[https://openalex.org/A5073666601][Serhiy Cherevko]], International Journal of Hydrogen Energy. 57(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2023.12.216")][Get bibtex entry]] 
 
@@ -641,7 +641,7 @@ Operando investigations are crucial for understanding various catalytical proces
 
 Open access: False
     
-[[https://openalex.org/A5016388276][Fusheng Wen]], [[https://openalex.org/A5007009060][Le Pang]], [[https://openalex.org/A5035701638][Tao Zhang]], [[https://openalex.org/A5039072431][Xiaoli Huang]], [[https://openalex.org/A5023354146][Changdi Li]], [[https://openalex.org/A5003459479][Hailong Liu]], International Journal of Hydrogen Energy. 57(None)] 2024. 
+[[https://openalex.org/A5016388276][Fusheng Wen]], [[https://openalex.org/A5007009060][Le Pang]], [[https://openalex.org/A5035701638][Tao Zhang]], [[https://openalex.org/A5039072431][Xiaoli Huang]], [[https://openalex.org/A5023354146][Changdi Li]], [[https://openalex.org/A5003459479][Hailong Liu]], International Journal of Hydrogen Energy. 57(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.006")][Get bibtex entry]] 
 
@@ -667,7 +667,7 @@ Developing clean energy sources is vital amid the global energy crisis. Hydrogen
 
 Open access: True
     
-[[https://openalex.org/A5083865054][Liping Liu]], [[https://openalex.org/A5047424183][Siwen Wang]], [[https://openalex.org/A5013986686][Chen Ling]], [[https://openalex.org/A5040429065][Hongliang Xin]], Chem Catalysis. 4(1)] 2024. 
+[[https://openalex.org/A5083865054][Liping Liu]], [[https://openalex.org/A5047424183][Siwen Wang]], [[https://openalex.org/A5013986686][Chen Ling]], [[https://openalex.org/A5040429065][Hongliang Xin]], Chem Catalysis. 4(1)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.checat.2023.100868")][Get bibtex entry]] 
 
@@ -693,7 +693,7 @@ In this article, Hongliang Xin (associate professor at Virginia Tech), Chen Ling
 
 Open access: False
     
-[[https://openalex.org/A5087438347][Yusong Niu]], [[https://openalex.org/A5014609476][Xin Chang]], [[https://openalex.org/A5052582378][Mingyi Zhang]], [[https://openalex.org/A5031140913][Jingbo Mu]], Ceramics International. None(None)] 2024. 
+[[https://openalex.org/A5087438347][Yusong Niu]], [[https://openalex.org/A5014609476][Xin Chang]], [[https://openalex.org/A5052582378][Mingyi Zhang]], [[https://openalex.org/A5031140913][Jingbo Mu]], Ceramics International. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ceramint.2024.01.211")][Get bibtex entry]] 
 
@@ -719,7 +719,7 @@ Perovskites have become promising alternatives to precious metal-catalyzed oxyge
 
 Open access: False
     
-[[https://openalex.org/A5060422737][Junan Pan]], [[https://openalex.org/A5069311365][Xin-Yi Liu]], [[https://openalex.org/A5042294194][Hangjie Ji]], [[https://openalex.org/A5010212242][Yi Zhu]], [[https://openalex.org/A5047321119][Yanling Zhuang]], [[https://openalex.org/A5080684297][Kang Chen]], [[https://openalex.org/A5011089092][Ning Sun]], [[https://openalex.org/A5013959664][Yongqi Liu]], [[https://openalex.org/A5085134307][Yongquan Lei]], [[https://openalex.org/A5030691366][Kun Wang]], [[https://openalex.org/A5063535058][Bowen Zang]], [[https://openalex.org/A5038067619][Longlu Wang]], Chinese Chemical Letters. None(None)] 2024. 
+[[https://openalex.org/A5060422737][Junan Pan]], [[https://openalex.org/A5069311365][Xin-Yi Liu]], [[https://openalex.org/A5042294194][Hangjie Ji]], [[https://openalex.org/A5010212242][Yi Zhu]], [[https://openalex.org/A5047321119][Yanling Zhuang]], [[https://openalex.org/A5080684297][Kang Chen]], [[https://openalex.org/A5011089092][Ning Sun]], [[https://openalex.org/A5013959664][Yongqi Liu]], [[https://openalex.org/A5085134307][Yongquan Lei]], [[https://openalex.org/A5030691366][Kun Wang]], [[https://openalex.org/A5063535058][Bowen Zang]], [[https://openalex.org/A5038067619][Longlu Wang]], Chinese Chemical Letters. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cclet.2024.109515")][Get bibtex entry]] 
 
@@ -745,7 +745,7 @@ The hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) ar
 
 Open access: False
     
-[[https://openalex.org/A5063247720][Chi Xie]], [[https://openalex.org/A5039204587][Kaili Zhang]], [[https://openalex.org/A5087830054][Yongyong Lai]], [[https://openalex.org/A5075927340][Lili Du]], [[https://openalex.org/A5090283553][Jing Ma]], [[https://openalex.org/A5089339474][Shouwu Xu]], [[https://openalex.org/A5061092581][Ping Qiu]], ACS Applied Nano Materials. None(None)] 2024. 
+[[https://openalex.org/A5063247720][Chi Xie]], [[https://openalex.org/A5039204587][Kaili Zhang]], [[https://openalex.org/A5087830054][Yongyong Lai]], [[https://openalex.org/A5075927340][Lili Du]], [[https://openalex.org/A5090283553][Jing Ma]], [[https://openalex.org/A5089339474][Shouwu Xu]], [[https://openalex.org/A5061092581][Ping Qiu]], ACS Applied Nano Materials. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsanm.3c05313")][Get bibtex entry]] 
 
@@ -771,7 +771,7 @@ In water splitting processes, the oxygen evolution reaction (OER) is one of the 
 
 Open access: False
     
-[[https://openalex.org/A5014692849][Ruihan Li]], [[https://openalex.org/A5015462149][Dennis Nordlund]], [[https://openalex.org/A5037183181][Linsey C. Seitz]], Chemistry of Materials. None(None)] 2024. 
+[[https://openalex.org/A5014692849][Ruihan Li]], [[https://openalex.org/A5015462149][Dennis Nordlund]], [[https://openalex.org/A5037183181][Linsey C. Seitz]], Chemistry of Materials. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.chemmater.3c02362")][Get bibtex entry]] 
 
@@ -797,7 +797,7 @@ Earth-abundant manganese-based oxides have emerged as promising alternatives to 
 
 Open access: False
     
-[[https://openalex.org/A5078081844][Xiaohui Zhao]], [[https://openalex.org/A5015718651][Rui Zhao]], [[https://openalex.org/A5000510528][Qian Liu]], [[https://openalex.org/A5016236117][H.R. Chen]], [[https://openalex.org/A5037677450][Jing Wang]], [[https://openalex.org/A5024517164][Yongfeng Hu]], [[https://openalex.org/A5008481486][Yan Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5083410596][John S. Tse]], Chinese Chemical Letters. None(None)] 2024. 
+[[https://openalex.org/A5078081844][Xiaohui Zhao]], [[https://openalex.org/A5015718651][Rui Zhao]], [[https://openalex.org/A5000510528][Qian Liu]], [[https://openalex.org/A5016236117][H.R. Chen]], [[https://openalex.org/A5037677450][Jing Wang]], [[https://openalex.org/A5024517164][Yongfeng Hu]], [[https://openalex.org/A5008481486][Yan Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5083410596][John S. Tse]], Chinese Chemical Letters. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cclet.2024.109496")][Get bibtex entry]] 
 
@@ -823,7 +823,7 @@ Oxygen evolution reaction (OER), occurring at the anode of electrochemical water
 
 Open access: False
     
-[[https://openalex.org/A5033079754][Menghe Jiang]], [[https://openalex.org/A5002866940][Zhicong Hu]], [[https://openalex.org/A5011014716][Yongjin Zou]], [[https://openalex.org/A5039089320][Cuili Xiang]], [[https://openalex.org/A5075617147][Fen Xu]], [[https://openalex.org/A5048853021][Lin Sun]], [[https://openalex.org/A5050750924][Xiaoyun Hu]], Journal of Alloys and Compounds. None(None)] 2024. 
+[[https://openalex.org/A5033079754][Menghe Jiang]], [[https://openalex.org/A5002866940][Zhicong Hu]], [[https://openalex.org/A5011014716][Yongjin Zou]], [[https://openalex.org/A5039089320][Cuili Xiang]], [[https://openalex.org/A5075617147][Fen Xu]], [[https://openalex.org/A5048853021][Lin Sun]], [[https://openalex.org/A5050750924][Xiaoyun Hu]], Journal of Alloys and Compounds. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.173495")][Get bibtex entry]] 
 
@@ -849,7 +849,7 @@ Selecting self-supporting substrates with large specific surface areas is an eff
 
 Open access: False
     
-[[https://openalex.org/A5062120914][Tingyue Gu]], [[https://openalex.org/A5076776353][Zhiyuan Jing]], [[https://openalex.org/A5008386681][Fang Miao]], [[https://openalex.org/A5045957625][Wei Wu]], [[https://openalex.org/A5051631402][Yuhong Zhao]], [[https://openalex.org/A5015549095][Hua Hou]], [[https://openalex.org/A5071481252][Xiubing Liang]], International Journal of Hydrogen Energy. 56(None)] 2024. 
+[[https://openalex.org/A5062120914][Tingyue Gu]], [[https://openalex.org/A5076776353][Zhiyuan Jing]], [[https://openalex.org/A5008386681][Fang Miao]], [[https://openalex.org/A5045957625][Wei Wu]], [[https://openalex.org/A5051631402][Yuhong Zhao]], [[https://openalex.org/A5015549095][Hua Hou]], [[https://openalex.org/A5071481252][Xiubing Liang]], International Journal of Hydrogen Energy. 56(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2023.12.082")][Get bibtex entry]] 
 
@@ -875,7 +875,7 @@ Innovative methods for producing catalytic nanomaterials are crucial for advanci
 
 Open access: False
     
-[[https://openalex.org/A5035158055][Yongwen Sun]], [[https://openalex.org/A5048543156][Hong Lv]], [[https://openalex.org/A5060018262][Gao Da]], [[https://openalex.org/A5078891674][Cunman Zhang]], No host. None(None)] 2024. 
+[[https://openalex.org/A5035158055][Yongwen Sun]], [[https://openalex.org/A5048543156][Hong Lv]], [[https://openalex.org/A5060018262][Gao Da]], [[https://openalex.org/A5078891674][Cunman Zhang]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-981-99-8581-4_11")][Get bibtex entry]] 
 
@@ -901,7 +901,7 @@ The development of efficient and durable bifunctional electrocatalysts for oxyge
 
 Open access: False
     
-[[https://openalex.org/A5012056564][Alessandra Patrícia de Araújo Dantas]], [[https://openalex.org/A5001528670][Rafael A. Raimundo]], [[https://openalex.org/A5011364392][Pedro de Lima Neto]], [[https://openalex.org/A5013176757][Caio M. S. Lopes]], [[https://openalex.org/A5075400591][Jakeline R.D. Santos]], [[https://openalex.org/A5090398034][Francisco J.A. Loureiro]], [[https://openalex.org/A5029685103][Tatiany Barata Pereira]], [[https://openalex.org/A5088882865][Marco A. Morales]], [[https://openalex.org/A5061360133][Eliton S. Medeiros]], [[https://openalex.org/A5069774051][Daniel A. Macedo]], Ceramics International. None(None)] 2024. 
+[[https://openalex.org/A5012056564][Alessandra Patrícia de Araújo Dantas]], [[https://openalex.org/A5001528670][Rafael A. Raimundo]], [[https://openalex.org/A5011364392][Pedro de Lima Neto]], [[https://openalex.org/A5013176757][Caio M. S. Lopes]], [[https://openalex.org/A5075400591][Jakeline R.D. Santos]], [[https://openalex.org/A5090398034][Francisco J.A. Loureiro]], [[https://openalex.org/A5029685103][Tatiany Barata Pereira]], [[https://openalex.org/A5088882865][Marco A. Morales]], [[https://openalex.org/A5061360133][Eliton S. Medeiros]], [[https://openalex.org/A5069774051][Daniel A. Macedo]], Ceramics International. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ceramint.2024.01.213")][Get bibtex entry]] 
 
@@ -927,7 +927,7 @@ In this work, we report copper oxide nanofibers (CuO – N) synthesized by Solut
 
 Open access: False
     
-[[https://openalex.org/A5032682915][Changshui Wang]], [[https://openalex.org/A5052441498][Qian Zhang]], [[https://openalex.org/A5032329469][B. Li]], [[https://openalex.org/A5046394019][Zhenlu Liu]], [[https://openalex.org/A5078529434][Cenlin He]], [[https://openalex.org/A5055132064][Guangli Yang]], [[https://openalex.org/A5058796075][Longjun Jiang]], [[https://openalex.org/A5081868992][Chunmei Zhang]], [[https://openalex.org/A5025549103][Kunming Liu]], [[https://openalex.org/A5067600007][Shuijian He]], Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. 
+[[https://openalex.org/A5032682915][Changshui Wang]], [[https://openalex.org/A5052441498][Qian Zhang]], [[https://openalex.org/A5032329469][B. Li]], [[https://openalex.org/A5046394019][Zhenlu Liu]], [[https://openalex.org/A5078529434][Cenlin He]], [[https://openalex.org/A5055132064][Guangli Yang]], [[https://openalex.org/A5058796075][Longjun Jiang]], [[https://openalex.org/A5081868992][Chunmei Zhang]], [[https://openalex.org/A5025549103][Kunming Liu]], [[https://openalex.org/A5067600007][Shuijian He]], Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.colsurfa.2024.133228")][Get bibtex entry]] 
 
@@ -953,7 +953,7 @@ Hierarchical carbon skeletons derived from natural wood can be employed as the s
 
 Open access: False
     
-[[https://openalex.org/A5008293406][Fu‐Rong Chen]], [[https://openalex.org/A5038349950][Shen Chen]], [[https://openalex.org/A5011010025][Yujun Zhu]], [[https://openalex.org/A5071666780][Yidan Liu]], [[https://openalex.org/A5068893733][Difan Zhou]], [[https://openalex.org/A5041982864][Lei Huang]], [[https://openalex.org/A5027606496][Liyi Shi]], [[https://openalex.org/A5076990289][Hongbin Zhang]], [[https://openalex.org/A5041608462][Shixun Cao]], [[https://openalex.org/A5003626878][Rongrong Jia]], Applied Surface Science. None(None)] 2024. 
+[[https://openalex.org/A5008293406][Fu‐Rong Chen]], [[https://openalex.org/A5038349950][Shen Chen]], [[https://openalex.org/A5011010025][Yujun Zhu]], [[https://openalex.org/A5071666780][Yidan Liu]], [[https://openalex.org/A5068893733][Difan Zhou]], [[https://openalex.org/A5041982864][Lei Huang]], [[https://openalex.org/A5027606496][Liyi Shi]], [[https://openalex.org/A5076990289][Hongbin Zhang]], [[https://openalex.org/A5041608462][Shixun Cao]], [[https://openalex.org/A5003626878][Rongrong Jia]], Applied Surface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159357")][Get bibtex entry]] 
 
@@ -979,7 +979,7 @@ In recent years, the utilization of magnetic fields to enhance the oxygen evolut
 
 Open access: False
     
-[[https://openalex.org/A5076134997][Huating Liu]], [[https://openalex.org/A5045760868][Zongyu Huang]], [[https://openalex.org/A5048122582][Hui Qiao]], [[https://openalex.org/A5047513706][Xiang Qi]], No host. None(None)] 2024. 
+[[https://openalex.org/A5076134997][Huating Liu]], [[https://openalex.org/A5045760868][Zongyu Huang]], [[https://openalex.org/A5048122582][Hui Qiao]], [[https://openalex.org/A5047513706][Xiang Qi]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4694215")][Get bibtex entry]] 
 
@@ -1005,7 +1005,7 @@ Layered black phosphorus (BP) has unique electronic structure, which makes it an
 
 Open access: False
     
-[[https://openalex.org/A5074183217][Hong Liang]], [[https://openalex.org/A5034995105][Bo Li]], [[https://openalex.org/A5068555749][Chenchen Jing]], [[https://openalex.org/A5068996325][Zihan Zhuang]], [[https://openalex.org/A5000223629][Yuji Zhang]], [[https://openalex.org/A5045615778][Huajie Huang]], [[https://openalex.org/A5050661386][Qianqian Jiang]], [[https://openalex.org/A5014288383][Jianguo Tang]], Journal of Environmental Chemical Engineering. None(None)] 2024. 
+[[https://openalex.org/A5074183217][Hong Liang]], [[https://openalex.org/A5034995105][Bo Li]], [[https://openalex.org/A5068555749][Chenchen Jing]], [[https://openalex.org/A5068996325][Zihan Zhuang]], [[https://openalex.org/A5000223629][Yuji Zhang]], [[https://openalex.org/A5045615778][Huajie Huang]], [[https://openalex.org/A5050661386][Qianqian Jiang]], [[https://openalex.org/A5014288383][Jianguo Tang]], Journal of Environmental Chemical Engineering. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jece.2024.111946")][Get bibtex entry]] 
 
@@ -1031,7 +1031,7 @@ Seawater oxygen evolution reaction (OER) is a kind of feasible method to solve e
 
 Open access: False
     
-[[https://openalex.org/A5000876286][Hao Wang]], [[https://openalex.org/A5033077758][Xueya Deng]], [[https://openalex.org/A5049111806][A.R. Bari]], [[https://openalex.org/A5043473206][Mingzheng Gu]], [[https://openalex.org/A5015612666][Man Lin]], [[https://openalex.org/A5054342134][Gaoyun An]], [[https://openalex.org/A5033675523][Xiaomin Huang]], [[https://openalex.org/A5028179790][Xiaojun Zhang]], Journal of Colloid and Interface Science. None(None)] 2024. 
+[[https://openalex.org/A5000876286][Hao Wang]], [[https://openalex.org/A5033077758][Xueya Deng]], [[https://openalex.org/A5049111806][A.R. Bari]], [[https://openalex.org/A5043473206][Mingzheng Gu]], [[https://openalex.org/A5015612666][Man Lin]], [[https://openalex.org/A5054342134][Gaoyun An]], [[https://openalex.org/A5033675523][Xiaomin Huang]], [[https://openalex.org/A5028179790][Xiaojun Zhang]], Journal of Colloid and Interface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.026")][Get bibtex entry]] 
 
@@ -1057,7 +1057,7 @@ In order to enhance the energy efficiency of water electrolysis, it is imperativ
 
 Open access: False
     
-[[https://openalex.org/A5071842308][Snehadrinarayan Khatua]], [[https://openalex.org/A5058986428][Monosh Rabha]], [[https://openalex.org/A5047379472][Sreenivasan Nagappan]], [[https://openalex.org/A5029602773][Bhaskar Sen]], [[https://openalex.org/A5031222788][Khanindram Baruah]], [[https://openalex.org/A5067628877][Subrata Kundu]], No host. None(None)] 2024. 
+[[https://openalex.org/A5071842308][Snehadrinarayan Khatua]], [[https://openalex.org/A5058986428][Monosh Rabha]], [[https://openalex.org/A5047379472][Sreenivasan Nagappan]], [[https://openalex.org/A5029602773][Bhaskar Sen]], [[https://openalex.org/A5031222788][Khanindram Baruah]], [[https://openalex.org/A5067628877][Subrata Kundu]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3qi02380j")][Get bibtex entry]] 
 
@@ -1083,7 +1083,7 @@ Ruthenium polypyridyl complexes are known for their excellent photophysical prop
 
 Open access: False
     
-[[https://openalex.org/A5019389546][Yi-Ting Chen]], [[https://openalex.org/A5015792001][Wu H]], [[https://openalex.org/A5056540688][Ning Tang]], [[https://openalex.org/A5051439492][Mengjie Zhang]], [[https://openalex.org/A5067124076][Yuqiao Wang]], Chemical Communications. None(None)] 2024. 
+[[https://openalex.org/A5019389546][Yi-Ting Chen]], [[https://openalex.org/A5015792001][Wu H]], [[https://openalex.org/A5056540688][Ning Tang]], [[https://openalex.org/A5051439492][Mengjie Zhang]], [[https://openalex.org/A5067124076][Yuqiao Wang]], Chemical Communications. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cc06171j")][Get bibtex entry]] 
 
@@ -1109,7 +1109,7 @@ Transition metals with similar atomic radius were used to doping spinel NiCo2S4 
 
 Open access: False
     
-[[https://openalex.org/A5005245760][Min Zhu]], [[https://openalex.org/A5072946813][Zong‐Qiang Sheng]], [[https://openalex.org/A5019261932][Zhifen Fu]], [[https://openalex.org/A5075847376][Yang Li]], [[https://openalex.org/A5001017073][Juan Gao]], [[https://openalex.org/A5089966579][Chao Zhang]], Electrochimica Acta. None(None)] 2024. 
+[[https://openalex.org/A5005245760][Min Zhu]], [[https://openalex.org/A5072946813][Zong‐Qiang Sheng]], [[https://openalex.org/A5019261932][Zhifen Fu]], [[https://openalex.org/A5075847376][Yang Li]], [[https://openalex.org/A5001017073][Juan Gao]], [[https://openalex.org/A5089966579][Chao Zhang]], Electrochimica Acta. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.143841")][Get bibtex entry]] 
 
@@ -1135,7 +1135,7 @@ Exploring cost-effective non-noble metal-based catalysts with high activity and 
 
 Open access: True
     
-[[https://openalex.org/A5050404049][Yanhong Lv]], [[https://openalex.org/A5033542967][Xiangquan Deng]], [[https://openalex.org/A5068736605][Jingjing Ding]], [[https://openalex.org/A5047757729][Zhaohui Yang]], Scientific Reports. 14(1)] 2024. https://www.nature.com/articles/s41598-023-50361-4.pdf
+[[https://openalex.org/A5050404049][Yanhong Lv]], [[https://openalex.org/A5033542967][Xiangquan Deng]], [[https://openalex.org/A5068736605][Jingjing Ding]], [[https://openalex.org/A5047757729][Zhaohui Yang]], Scientific Reports. 14(1)] 2024. ([[https://www.nature.com/articles/s41598-023-50361-4.pdf][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41598-023-50361-4")][Get bibtex entry]] 
 
@@ -1161,7 +1161,7 @@ Abstract Commercial stainless steel has attracted increasing interest due to the
 
 Open access: False
     
-[[https://openalex.org/A5063929881][Siru Chen]], [[https://openalex.org/A5037978560][Yingying Yao]], [[https://openalex.org/A5014152340][Jing Xu]], [[https://openalex.org/A5085864513][Junyan Chen]], [[https://openalex.org/A5080268249][Zhuo Wang]], [[https://openalex.org/A5077406586][Pengyu Li]], [[https://openalex.org/A5081312558][Yanqiang Li]], Journal of Colloid and Interface Science. None(None)] 2024. 
+[[https://openalex.org/A5063929881][Siru Chen]], [[https://openalex.org/A5037978560][Yingying Yao]], [[https://openalex.org/A5014152340][Jing Xu]], [[https://openalex.org/A5085864513][Junyan Chen]], [[https://openalex.org/A5080268249][Zhuo Wang]], [[https://openalex.org/A5077406586][Pengyu Li]], [[https://openalex.org/A5081312558][Yanqiang Li]], Journal of Colloid and Interface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.073")][Get bibtex entry]] 
 
@@ -1187,7 +1187,7 @@ Developing high-active and inexpensive electrocatalysts for oxygen evolution rea
 
 Open access: False
     
-[[https://openalex.org/A5061901532][Jing Mei]], [[https://openalex.org/A5040333789][Yu Deng]], [[https://openalex.org/A5018704481][Xiaohong Cheng]], [[https://openalex.org/A5024723041][Qi Wu]], Journal of Colloid and Interface Science. None(None)] 2024. 
+[[https://openalex.org/A5061901532][Jing Mei]], [[https://openalex.org/A5040333789][Yu Deng]], [[https://openalex.org/A5018704481][Xiaohong Cheng]], [[https://openalex.org/A5024723041][Qi Wu]], Journal of Colloid and Interface Science. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.072")][Get bibtex entry]] 
 
@@ -1213,7 +1213,7 @@ This study employed a one-step hydrothermal process to synthesize Ni3S2/Fe3O4 na
 
 Open access: False
     
-[[https://openalex.org/A5041442978][Jianxin Zeng]], [[https://openalex.org/A5024235028][Zhengxin Qian]], [[https://openalex.org/A5085235719][Qing-Na Zheng]], [[https://openalex.org/A5003092023][Jing‐Hua Tian]], [[https://openalex.org/A5056450584][Hua Zhang]], [[https://openalex.org/A5090949378][Jianfeng Li]], ChemCatChem. None(None)] 2024. 
+[[https://openalex.org/A5041442978][Jianxin Zeng]], [[https://openalex.org/A5024235028][Zhengxin Qian]], [[https://openalex.org/A5085235719][Qing-Na Zheng]], [[https://openalex.org/A5003092023][Jing‐Hua Tian]], [[https://openalex.org/A5056450584][Hua Zhang]], [[https://openalex.org/A5090949378][Jianfeng Li]], ChemCatChem. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202301222")][Get bibtex entry]] 
 
@@ -1239,7 +1239,7 @@ Highly active and stable oxygen evolution reaction (OER) catalysts are crucial f
 
 Open access: False
     
-[[https://openalex.org/A5007655622][Yuhang Wu]], [[https://openalex.org/A5010145000][Yuwen Li]], [[https://openalex.org/A5043084585][Ling Shen]], [[https://openalex.org/A5067737099][Quanwen Pan]], [[https://openalex.org/A5058826825][Ye Tao]], [[https://openalex.org/A5086455686][Junkuo Gao]], Journal of Solid State Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5007655622][Yuhang Wu]], [[https://openalex.org/A5010145000][Yuwen Li]], [[https://openalex.org/A5043084585][Ling Shen]], [[https://openalex.org/A5067737099][Quanwen Pan]], [[https://openalex.org/A5058826825][Ye Tao]], [[https://openalex.org/A5086455686][Junkuo Gao]], Journal of Solid State Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jssc.2024.124559")][Get bibtex entry]] 
 

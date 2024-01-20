@@ -1,7 +1,7 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sat Jan 20 17:29:12 2024
+Created on Sat Jan 20 17:39:46 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -16,7 +16,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 Open access: False
     
-[[https://openalex.org/A5072263092][Xinlei Han]], [[https://openalex.org/A5083898046][Jiuxuan Zhang]], [[https://openalex.org/A5056805527][Zhengyan Qu]], [[https://openalex.org/A5014026680][Feng Zeng]], [[https://openalex.org/A5074997400][Hong Jiang]], [[https://openalex.org/A5043843386][Jun Huang]], [[https://openalex.org/A5056618062][Zhenchen Tang]], [[https://openalex.org/A5013913370][Rizhi Chen]], No host. None(None)] 2024. 
+[[https://openalex.org/A5072263092][Xinlei Han]], [[https://openalex.org/A5083898046][Jiuxuan Zhang]], [[https://openalex.org/A5056805527][Zhengyan Qu]], [[https://openalex.org/A5014026680][Feng Zeng]], [[https://openalex.org/A5074997400][Hong Jiang]], [[https://openalex.org/A5043843386][Jun Huang]], [[https://openalex.org/A5056618062][Zhenchen Tang]], [[https://openalex.org/A5013913370][Rizhi Chen]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4698288")][Get bibtex entry]] 
 
@@ -42,7 +42,7 @@ Polyolefin wastes, while posing environmental threats, also offer potential as c
 
 Open access: False
     
-[[https://openalex.org/A5042829086][Jiahua Zhou]], [[https://openalex.org/A5026278267][Jiayi Fu]], [[https://openalex.org/A5086955828][Ping Yang]], [[https://openalex.org/A5067490405][Kewei Yu]], [[https://openalex.org/A5093697312][Stavros Carazoulas]], [[https://openalex.org/A5015640857][Weiqing Zheng]], [[https://openalex.org/A5066110304][Dionisios G. Vlachos]], Applied Catalysis B: Environmental. None(None)] 2024. 
+[[https://openalex.org/A5042829086][Jiahua Zhou]], [[https://openalex.org/A5026278267][Jiayi Fu]], [[https://openalex.org/A5086955828][Ping Yang]], [[https://openalex.org/A5067490405][Kewei Yu]], [[https://openalex.org/A5093697312][Stavros Carazoulas]], [[https://openalex.org/A5015640857][Weiqing Zheng]], [[https://openalex.org/A5066110304][Dionisios G. Vlachos]], Applied Catalysis B: Environmental. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123724")][Get bibtex entry]] 
 
@@ -68,7 +68,7 @@ Metal M1/metal oxide M2Ox (M1M2Ox) inverse catalysts, where the oxide layer rest
 
 Open access: False
     
-[[https://openalex.org/A5064649819][Shuting Liang]], No host. None(None)] 2023. 
+[[https://openalex.org/A5064649819][Shuting Liang]], No host. None(None)] 2023. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-981-19-2797-3_48-1")][Get bibtex entry]] 
 
@@ -94,7 +94,7 @@ With the rapid growth of the world population and the continuous shortage of res
 
 Open access: True
     
-[[https://openalex.org/A5015928403][Serhat Uzan]], [[https://openalex.org/A5072932384][Eyüp Başaran]], Turkish Journal of Chemistry. 47(6)] 2023. https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem
+[[https://openalex.org/A5015928403][Serhat Uzan]], [[https://openalex.org/A5072932384][Eyüp Başaran]], Turkish Journal of Chemistry. 47(6)] 2023. ([[https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.55730/1300-0527.3630")][Get bibtex entry]] 
 
@@ -120,7 +120,7 @@ The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmori
 
 Open access: True
     
-[[https://openalex.org/A5093713093][Ya. M. Naghiev]], [[https://openalex.org/A5093713094][R. R. Apayeva]], [[https://openalex.org/A5025825721][Nazilya Salmanova]], [[https://openalex.org/A5010490706][M. I. Nadiri]], [[https://openalex.org/A5020206046][Asgar Huseynov]], Elmi əsərlər. None(3)] 2023. 
+[[https://openalex.org/A5093713093][Ya. M. Naghiev]], [[https://openalex.org/A5093713094][R. R. Apayeva]], [[https://openalex.org/A5025825721][Nazilya Salmanova]], [[https://openalex.org/A5010490706][M. I. Nadiri]], [[https://openalex.org/A5020206046][Asgar Huseynov]], Elmi əsərlər. None(3)] 2023. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.5510/ogp20230300900")][Get bibtex entry]] 
 
@@ -146,7 +146,7 @@ Liquid-phase aerobic oxidation of petroleum hydrocarbons catalyzed by carbon nan
 
 Open access: False
     
-[[https://openalex.org/A5055374370][Yumei Chen]], [[https://openalex.org/A5017262173][LI Ming-bin]], [[https://openalex.org/A5082953115][Shuyan Guan]], [[https://openalex.org/A5053780153][Qing Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5033843507][Shumin Han]], [[https://openalex.org/A5017134396][Bao-Zhong Liu]], European Journal of Inorganic Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5055374370][Yumei Chen]], [[https://openalex.org/A5017262173][LI Ming-bin]], [[https://openalex.org/A5082953115][Shuyan Guan]], [[https://openalex.org/A5053780153][Qing Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5033843507][Shumin Han]], [[https://openalex.org/A5017134396][Bao-Zhong Liu]], European Journal of Inorganic Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ejic.202300677")][Get bibtex entry]] 
 
@@ -172,7 +172,7 @@ Clean and sustainable hydrogen production through liquid hydrogen storage materi
 
 Open access: True
     
-[[https://openalex.org/A5020114413][Iman Mohammadi Dehcheshmeh]], [[https://openalex.org/A5008902301][Ahmad Poursattar Marjani]], [[https://openalex.org/A5058378526][Fatemeh Sadegh]], [[https://openalex.org/A5076479889][Mohammad Ebrahim Soltani]], No host. None(None)] 2024. https://www.intechopen.com/citation-pdf-url/1172117
+[[https://openalex.org/A5020114413][Iman Mohammadi Dehcheshmeh]], [[https://openalex.org/A5008902301][Ahmad Poursattar Marjani]], [[https://openalex.org/A5058378526][Fatemeh Sadegh]], [[https://openalex.org/A5076479889][Mohammad Ebrahim Soltani]], No host. None(None)] 2024. ([[https://www.intechopen.com/citation-pdf-url/1172117][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.5772/intechopen.1004068")][Get bibtex entry]] 
 
@@ -198,7 +198,7 @@ Copper metal is a natural element found in soil, water, and rocks. This metal is
 
 Open access: False
     
-[[https://openalex.org/A5010653867][Patrícia Pereira]], [[https://openalex.org/A5001247658][P.E. Savage]], [[https://openalex.org/A5072719681][Christian W. Pester]], Green Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5010653867][Patrícia Pereira]], [[https://openalex.org/A5001247658][P.E. Savage]], [[https://openalex.org/A5072719681][Christian W. Pester]], Green Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3gc03906d")][Get bibtex entry]] 
 
@@ -224,7 +224,7 @@ We screen various acid catalysts (mineral, carboxylic, carbonic acids, zeolites,
 
 Open access: True
     
-[[https://openalex.org/A5034386711][Fei Du]], [[https://openalex.org/A5029548291][Xue-Quan Xian]], [[https://openalex.org/A5073160336][Peiduo Tang]], [[https://openalex.org/A5047160347][Yanming Liu]], Molecules. 29(2)] 2024. https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551
+[[https://openalex.org/A5034386711][Fei Du]], [[https://openalex.org/A5029548291][Xue-Quan Xian]], [[https://openalex.org/A5073160336][Peiduo Tang]], [[https://openalex.org/A5047160347][Yanming Liu]], Molecules. 29(2)] 2024. ([[https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29020347")][Get bibtex entry]] 
 
@@ -250,7 +250,7 @@ A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthaloc
 
 Open access: False
     
-[[https://openalex.org/A5014265119][Qiuju Wang]], [[https://openalex.org/A5071831009][Tian Zhou]], [[https://openalex.org/A5036124105][Chunhui Wang]], [[https://openalex.org/A5011044374][Longwei Li]], [[https://openalex.org/A5032704479][Lianli Zou]], No host. None(None)] 2024. 
+[[https://openalex.org/A5014265119][Qiuju Wang]], [[https://openalex.org/A5071831009][Tian Zhou]], [[https://openalex.org/A5036124105][Chunhui Wang]], [[https://openalex.org/A5011044374][Longwei Li]], [[https://openalex.org/A5032704479][Lianli Zou]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4696668")][Get bibtex entry]] 
 
@@ -276,7 +276,7 @@ Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts 
 
 Open access: False
     
-[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. None(None)] 2024. 
+[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690198")][Get bibtex entry]] 
 
@@ -302,7 +302,7 @@ The ultimate target in heterogeneous catalysis is the achievement of robust, res
 
 Open access: False
     
-[[https://openalex.org/A5036014654][Xueting Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie International Edition. None(None)] 2024. 
+[[https://openalex.org/A5036014654][Xueting Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie International Edition. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202317594")][Get bibtex entry]] 
 
@@ -328,7 +328,7 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 
 Open access: False
     
-[[https://openalex.org/A5007297993][Xia Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie. None(None)] 2024. 
+[[https://openalex.org/A5007297993][Xia Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202317594")][Get bibtex entry]] 
 
@@ -354,7 +354,7 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 
 Open access: False
     
-[[https://openalex.org/A5088577552][Youngdon Ko]], [[https://openalex.org/A5005726642][Junkil Park]], [[https://openalex.org/A5076988030][Xiong Zhang]], [[https://openalex.org/A5003033013][Liqun Kang]], [[https://openalex.org/A5045667730][Thi Ha My Pham]], [[https://openalex.org/A5004507719][Victor Boureau]], [[https://openalex.org/A5011167912][Cuong Pham‐Huu]], [[https://openalex.org/A5018605846][Jihan Kim]], [[https://openalex.org/A5001168753][Liping Zhong]], [[https://openalex.org/A5005895018][Andreas Züttel]], ACS Applied Energy Materials. None(None)] 2024. 
+[[https://openalex.org/A5088577552][Youngdon Ko]], [[https://openalex.org/A5005726642][Junkil Park]], [[https://openalex.org/A5076988030][Xiong Zhang]], [[https://openalex.org/A5003033013][Liqun Kang]], [[https://openalex.org/A5045667730][Thi Ha My Pham]], [[https://openalex.org/A5004507719][Victor Boureau]], [[https://openalex.org/A5011167912][Cuong Pham‐Huu]], [[https://openalex.org/A5018605846][Jihan Kim]], [[https://openalex.org/A5001168753][Liping Zhong]], [[https://openalex.org/A5005895018][Andreas Züttel]], ACS Applied Energy Materials. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.3c02578")][Get bibtex entry]] 
 
@@ -380,7 +380,7 @@ Platinum group metal-free catalysts (e.g., Fe–N–C and Co–N–C) are used a
 
 Open access: False
     
-[[https://openalex.org/A5085309756][Xiaohai Zhou]], [[https://openalex.org/A5016341553][Ruipeng Li]], [[https://openalex.org/A5079563573][Zhiyong Li]], [[https://openalex.org/A5043082502][Yanfei Zhao]], [[https://openalex.org/A5003932410][Zhengang Ke]], [[https://openalex.org/A5088406552][Xiaochen Zhang]], [[https://openalex.org/A5027696701][Jianji Wang]], Journal of Molecular Liquids. None(None)] 2024. 
+[[https://openalex.org/A5085309756][Xiaohai Zhou]], [[https://openalex.org/A5016341553][Ruipeng Li]], [[https://openalex.org/A5079563573][Zhiyong Li]], [[https://openalex.org/A5043082502][Yanfei Zhao]], [[https://openalex.org/A5003932410][Zhengang Ke]], [[https://openalex.org/A5088406552][Xiaochen Zhang]], [[https://openalex.org/A5027696701][Jianji Wang]], Journal of Molecular Liquids. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.molliq.2024.124060")][Get bibtex entry]] 
 
@@ -406,7 +406,7 @@ Acceptorless dehydrogenation of alcohols is a promising pathway for biomass reso
 
 Open access: False
     
-[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024. 
+[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.022")][Get bibtex entry]] 
 
@@ -432,7 +432,7 @@ Carbon capture and conversion are becoming increasingly important as atmospheric
 
 Open access: False
     
-[[https://openalex.org/A5040301865][Xin Cao]], [[https://openalex.org/A5090459753][Yong-Kui Chang]], [[https://openalex.org/A5007540882][Yang-Yang Yang]], [[https://openalex.org/A5061179226][Hongfang Ma]], [[https://openalex.org/A5048902046][Weiming Liu]], [[https://openalex.org/A5066554626][Yixin Lü]], [[https://openalex.org/A5012785198][Shyue-Yen Yao]], No host. None(None)] 2024. 
+[[https://openalex.org/A5040301865][Xin Cao]], [[https://openalex.org/A5090459753][Yong-Kui Chang]], [[https://openalex.org/A5007540882][Yang-Yang Yang]], [[https://openalex.org/A5061179226][Hongfang Ma]], [[https://openalex.org/A5048902046][Weiming Liu]], [[https://openalex.org/A5066554626][Yixin Lü]], [[https://openalex.org/A5012785198][Shyue-Yen Yao]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4693252")][Get bibtex entry]] 
 
@@ -458,7 +458,7 @@ This study investigates the catalytic reduction of CO2 using various ratios of G
 
 Open access: False
     
-[[https://openalex.org/A5061876144][Satyawan Singh]], [[https://openalex.org/A5006808433][Saurabh C. Patankar]], No host. None(None)] 2024. 
+[[https://openalex.org/A5061876144][Satyawan Singh]], [[https://openalex.org/A5006808433][Saurabh C. Patankar]], No host. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-323-95177-7.00005-9")][Get bibtex entry]] 
 
@@ -484,7 +484,7 @@ With the commencement of the 21st centennial era, the researchers discovered tha
 
 Open access: False
     
-[[https://openalex.org/A5059764834][Siying Chong]], [[https://openalex.org/A5002497448][Jiaoyan Li]], [[https://openalex.org/A5070132910][Shuang Zhao]], [[https://openalex.org/A5040454618][G. Huang]], [[https://openalex.org/A5088445624][Yajing Zhang]], [[https://openalex.org/A5016795494][Rui Rui Liu]], [[https://openalex.org/A5055374805][Kangjun Wang]], Chemical Engineering Journal. None(None)] 2024. 
+[[https://openalex.org/A5059764834][Siying Chong]], [[https://openalex.org/A5002497448][Jiaoyan Li]], [[https://openalex.org/A5070132910][Shuang Zhao]], [[https://openalex.org/A5040454618][G. Huang]], [[https://openalex.org/A5088445624][Yajing Zhang]], [[https://openalex.org/A5016795494][Rui Rui Liu]], [[https://openalex.org/A5055374805][Kangjun Wang]], Chemical Engineering Journal. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148678")][Get bibtex entry]] 
 
@@ -510,7 +510,7 @@ Various methods have been explored for preparing heterogeneous catalysts using m
 
 Open access: False
     
-[[https://openalex.org/A5004439081][Guilin Zhou]], [[https://openalex.org/A5037634210][Wenjing Liu]], [[https://openalex.org/A5085237912][Yue Zhao]], [[https://openalex.org/A5089812226][Xiaoping Wang]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5017364023][Aiping Jia]], [[https://openalex.org/A5048668242][Hongmei Xie]], Journal of Industrial and Engineering Chemistry. None(None)] 2024. 
+[[https://openalex.org/A5004439081][Guilin Zhou]], [[https://openalex.org/A5037634210][Wenjing Liu]], [[https://openalex.org/A5085237912][Yue Zhao]], [[https://openalex.org/A5089812226][Xiaoping Wang]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5017364023][Aiping Jia]], [[https://openalex.org/A5048668242][Hongmei Xie]], Journal of Industrial and Engineering Chemistry. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jiec.2024.01.018")][Get bibtex entry]] 
 
@@ -536,7 +536,7 @@ The research and development of efficient catalyst is the key to achieving high-
 
 Open access: False
     
-[[https://openalex.org/A5081649730][Sho Yamaguchi]], [[https://openalex.org/A5093661952][Daiki Kiyohira]], [[https://openalex.org/A5013506973][Kohei Tada]], [[https://openalex.org/A5067480489][Taiki Kawakami]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5064171498][Takato Mitsudome]], [[https://openalex.org/A5068048324][Tomoo Mizugaki]], Chemistry - A European Journal. None(None)] 2024. 
+[[https://openalex.org/A5081649730][Sho Yamaguchi]], [[https://openalex.org/A5093661952][Daiki Kiyohira]], [[https://openalex.org/A5013506973][Kohei Tada]], [[https://openalex.org/A5067480489][Taiki Kawakami]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5064171498][Takato Mitsudome]], [[https://openalex.org/A5068048324][Tomoo Mizugaki]], Chemistry - A European Journal. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202303573")][Get bibtex entry]] 
 
@@ -562,7 +562,7 @@ Despite its unique physicochemical properties, the catalytic application of nick
 
 Open access: False
     
-[[https://openalex.org/A5008868985][Chaofan Li]], [[https://openalex.org/A5051476281][Fengke Wang]], [[https://openalex.org/A5035540456][Yi Nie]], [[https://openalex.org/A5084216806][Leilei Wang]], [[https://openalex.org/A5027792053][Zhihao Zhang]], [[https://openalex.org/A5072350017][Tianhao Liu]], [[https://openalex.org/A5071568123][Binghui He]], [[https://openalex.org/A5025885659][Yunqian Ma]], [[https://openalex.org/A5086281065][Lihua Zang]], Chemical Engineering Journal. None(None)] 2024. 
+[[https://openalex.org/A5008868985][Chaofan Li]], [[https://openalex.org/A5051476281][Fengke Wang]], [[https://openalex.org/A5035540456][Yi Nie]], [[https://openalex.org/A5084216806][Leilei Wang]], [[https://openalex.org/A5027792053][Zhihao Zhang]], [[https://openalex.org/A5072350017][Tianhao Liu]], [[https://openalex.org/A5071568123][Binghui He]], [[https://openalex.org/A5025885659][Yunqian Ma]], [[https://openalex.org/A5086281065][Lihua Zang]], Chemical Engineering Journal. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148580")][Get bibtex entry]] 
 
@@ -588,7 +588,7 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
 
 Open access: False
     
-[[https://openalex.org/A5058502784][Qibo Deng]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5013563049][Weitai Wu]], [[https://openalex.org/A5017401077][Shuyu Zhang]], [[https://openalex.org/A5014881567][Hassanien Gomaa]], [[https://openalex.org/A5048675576][Cuihua An]], [[https://openalex.org/A5090597551][Ning Hu]], [[https://openalex.org/A5025874763][Xiaopeng Han]], ChemPlusChem. None(None)] 2024. 
+[[https://openalex.org/A5058502784][Qibo Deng]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5013563049][Weitai Wu]], [[https://openalex.org/A5017401077][Shuyu Zhang]], [[https://openalex.org/A5014881567][Hassanien Gomaa]], [[https://openalex.org/A5048675576][Cuihua An]], [[https://openalex.org/A5090597551][Ning Hu]], [[https://openalex.org/A5025874763][Xiaopeng Han]], ChemPlusChem. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cplu.202300688")][Get bibtex entry]] 
 
@@ -614,7 +614,7 @@ With the advancement of scientific research, the introduction of external physic
 
 Open access: True
     
-[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. 14(1)] 2024. https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459
+[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. 14(1)] 2024. ([[https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14010081")][Get bibtex entry]] 
 
@@ -640,7 +640,7 @@ In electrocatalytic processes, traditional powder/film electrodes inevitably suf
 
 Open access: False
     
-[[https://openalex.org/A5011443720][Haixiao Wei]], [[https://openalex.org/A5088942597][Kaiming Dong]], [[https://openalex.org/A5024631271][Xiaoyong Men]], [[https://openalex.org/A5040141041][Feiqiang Guo]], [[https://openalex.org/A5015370419][Zhenjie Sun]], [[https://openalex.org/A5050400639][Lingwei Kong]], [[https://openalex.org/A5076596821][Ning Zhao]], [[https://openalex.org/A5065665210][Roger Ruan]], [[https://openalex.org/A5025273762][Yonghui Bai]], Fuel. 363(None)] 2024. 
+[[https://openalex.org/A5011443720][Haixiao Wei]], [[https://openalex.org/A5088942597][Kaiming Dong]], [[https://openalex.org/A5024631271][Xiaoyong Men]], [[https://openalex.org/A5040141041][Feiqiang Guo]], [[https://openalex.org/A5015370419][Zhenjie Sun]], [[https://openalex.org/A5050400639][Lingwei Kong]], [[https://openalex.org/A5076596821][Ning Zhao]], [[https://openalex.org/A5065665210][Roger Ruan]], [[https://openalex.org/A5025273762][Yonghui Bai]], Fuel. 363(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.130872")][Get bibtex entry]] 
 

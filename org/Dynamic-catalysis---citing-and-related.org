@@ -1,7 +1,7 @@
 #+filetags: Dynamic_catalysis_-_citing_and_related
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Sat Jan 20 17:29:16 2024
+Created on Sat Jan 20 17:39:54 2024
 
 Found 1 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -17,7 +17,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 Open access: False
     
-[[https://openalex.org/A5077667949][Laura Torrente‐Murciano]], [[https://openalex.org/A5031525338][Jennifer B. Dunn]], [[https://openalex.org/A5002367171][Panagiotis D. Christofides]], [[https://openalex.org/A5008264427][Jay D. Keasling]], [[https://openalex.org/A5045900230][Sharon C. Glotzer]], [[https://openalex.org/A5008430104][Sang Yup Lee]], [[https://openalex.org/A5004577558][Kevin Van Geem]], [[https://openalex.org/A5074982734][Jean W. Tom]], [[https://openalex.org/A5087071952][Gaohong He]], No host. 1(1)] 2024. 
+[[https://openalex.org/A5077667949][Laura Torrente‐Murciano]], [[https://openalex.org/A5031525338][Jennifer B. Dunn]], [[https://openalex.org/A5002367171][Panagiotis D. Christofides]], [[https://openalex.org/A5008264427][Jay D. Keasling]], [[https://openalex.org/A5045900230][Sharon C. Glotzer]], [[https://openalex.org/A5008430104][Sang Yup Lee]], [[https://openalex.org/A5004577558][Kevin Van Geem]], [[https://openalex.org/A5074982734][Jean W. Tom]], [[https://openalex.org/A5087071952][Gaohong He]], No host. 1(1)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s44286-023-00017-x")][Get bibtex entry]] 
 

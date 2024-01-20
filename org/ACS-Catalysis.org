@@ -1,7 +1,7 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jan 20 17:29:13 2024
+Created on Sat Jan 20 17:39:48 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -16,7 +16,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 Open access: False
     
-[[https://openalex.org/A5039837606][Qiang Zhang]], [[https://openalex.org/A5005323067][Xiaojie Tan]], [[https://openalex.org/A5021984184][Xinyu Wang]], [[https://openalex.org/A5052585046][Qinhua Zhang]], [[https://openalex.org/A5074680349][Chong Qi]], [[https://openalex.org/A5033655227][Hao Yang]], [[https://openalex.org/A5021213936][Zhengqiu He]], [[https://openalex.org/A5022433710][Tao Xing]], [[https://openalex.org/A5080772741][Mingqing Wang]], [[https://openalex.org/A5063554744][Mingbo Wu]], [[https://openalex.org/A5080124839][Wenting Wu]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5039837606][Qiang Zhang]], [[https://openalex.org/A5005323067][Xiaojie Tan]], [[https://openalex.org/A5021984184][Xinyu Wang]], [[https://openalex.org/A5052585046][Qinhua Zhang]], [[https://openalex.org/A5074680349][Chong Qi]], [[https://openalex.org/A5033655227][Hao Yang]], [[https://openalex.org/A5021213936][Zhengqiu He]], [[https://openalex.org/A5022433710][Tao Xing]], [[https://openalex.org/A5080772741][Mingqing Wang]], [[https://openalex.org/A5063554744][Mingbo Wu]], [[https://openalex.org/A5080124839][Wenting Wu]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04374")][Get bibtex entry]] 
 
@@ -42,7 +42,7 @@ Photocatalytic oxidation of methane to methanol is an attractive process under m
 
 Open access: False
     
-[[https://openalex.org/A5082079051][M. J. Huang]], [[https://openalex.org/A5001689889][Xiaoming Hu]], [[https://openalex.org/A5043708498][Duotian Chen]], [[https://openalex.org/A5020850381][Zen Maeno]], [[https://openalex.org/A5075550298][Nao Tsunoji]], [[https://openalex.org/A5018260723][Takashi Toyao]], [[https://openalex.org/A5020214710][Ken‐ichi Shimizu]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5082079051][M. J. Huang]], [[https://openalex.org/A5001689889][Xiaoming Hu]], [[https://openalex.org/A5043708498][Duotian Chen]], [[https://openalex.org/A5020850381][Zen Maeno]], [[https://openalex.org/A5075550298][Nao Tsunoji]], [[https://openalex.org/A5018260723][Takashi Toyao]], [[https://openalex.org/A5020214710][Ken‐ichi Shimizu]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05286")][Get bibtex entry]] 
 
@@ -68,7 +68,7 @@ A reaction of ethane (C2H6) with ammonia (NH3) over metal-loaded zeolites to yie
 
 Open access: True
     
-[[https://openalex.org/A5084770879][Daniel Winkler]], [[https://openalex.org/A5071472676][Matthias Leitner]], [[https://openalex.org/A5043597723][Andrea Auer]], [[https://openalex.org/A5021025452][Julia Kunze‐Liebhäuser]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c02700
+[[https://openalex.org/A5084770879][Daniel Winkler]], [[https://openalex.org/A5071472676][Matthias Leitner]], [[https://openalex.org/A5043597723][Andrea Auer]], [[https://openalex.org/A5021025452][Julia Kunze‐Liebhäuser]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c02700][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c02700")][Get bibtex entry]] 
 
@@ -94,7 +94,7 @@ The electrochemical reduction of CO2 is an important electrolysis reaction that 
 
 Open access: False
     
-[[https://openalex.org/A5000389661][Vasyl Marchuk]], [[https://openalex.org/A5029193865][Dmitry I. Sharapa]], [[https://openalex.org/A5070286324][Jan‐Dierk Grunwaldt]], [[https://openalex.org/A5057633647][Dmitry E. Doronkin]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5000389661][Vasyl Marchuk]], [[https://openalex.org/A5029193865][Dmitry I. Sharapa]], [[https://openalex.org/A5070286324][Jan‐Dierk Grunwaldt]], [[https://openalex.org/A5057633647][Dmitry E. Doronkin]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05019")][Get bibtex entry]] 
 
@@ -120,7 +120,7 @@ Selective oxidation of ammonia to nitrogen over Pt/Al2O3 was studied in order to
 
 Open access: False
     
-[[https://openalex.org/A5025751238][Xing Li]], [[https://openalex.org/A5068787993][Lei Xing]], [[https://openalex.org/A5056749071][Guo‐Dong Zhan]], [[https://openalex.org/A5058283563][Zhoulan Huang]], [[https://openalex.org/A5063533213][Zhen Chen]], [[https://openalex.org/A5016595386][Huazhen Chang]], [[https://openalex.org/A5044717730][Junhua Li]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5025751238][Xing Li]], [[https://openalex.org/A5068787993][Lei Xing]], [[https://openalex.org/A5056749071][Guo‐Dong Zhan]], [[https://openalex.org/A5058283563][Zhoulan Huang]], [[https://openalex.org/A5063533213][Zhen Chen]], [[https://openalex.org/A5016595386][Huazhen Chang]], [[https://openalex.org/A5044717730][Junhua Li]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c03852")][Get bibtex entry]] 
 
@@ -146,7 +146,7 @@ Catalytic carbamate decomposition is a feasible option for reducing the heat dut
 
 Open access: False
     
-[[https://openalex.org/A5018485851][Jiasui Zhan]], [[https://openalex.org/A5059976201][Yuliang Cao]], [[https://openalex.org/A5082432593][Junwen Lai]], [[https://openalex.org/A5085386208][Jiangxu Li]], [[https://openalex.org/A5002378444][Hui Ma]], [[https://openalex.org/A5049515638][Song Li]], [[https://openalex.org/A5079359634][Peitao Liu]], [[https://openalex.org/A5023498466][Xing‐Qiu Chen]], [[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5018485851][Jiasui Zhan]], [[https://openalex.org/A5059976201][Yuliang Cao]], [[https://openalex.org/A5082432593][Junwen Lai]], [[https://openalex.org/A5085386208][Jiangxu Li]], [[https://openalex.org/A5002378444][Hui Ma]], [[https://openalex.org/A5049515638][Song Li]], [[https://openalex.org/A5079359634][Peitao Liu]], [[https://openalex.org/A5023498466][Xing‐Qiu Chen]], [[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c03086")][Get bibtex entry]] 
 
@@ -172,7 +172,7 @@ The design of highly efficient hydrogen evolution reaction (HER) catalysts is on
 
 Open access: False
     
-[[https://openalex.org/A5018873247][B. N. Ghosh]], [[https://openalex.org/A5093694078][Adam Alber]], [[https://openalex.org/A5053415105][Chance Lander]], [[https://openalex.org/A5004651618][Yihan Shao]], [[https://openalex.org/A5074458555][Kenneth M. Nicholas]], [[https://openalex.org/A5080892892][Indrajeet Sharma]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5018873247][B. N. Ghosh]], [[https://openalex.org/A5093694078][Adam Alber]], [[https://openalex.org/A5053415105][Chance Lander]], [[https://openalex.org/A5004651618][Yihan Shao]], [[https://openalex.org/A5074458555][Kenneth M. Nicholas]], [[https://openalex.org/A5080892892][Indrajeet Sharma]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05237")][Get bibtex entry]] 
 
@@ -198,7 +198,7 @@ OpenAlex: https://openalex.org/W4390670725
 
 Open access: True
     
-[[https://openalex.org/A5003206241][Utku Yolsal]], [[https://openalex.org/A5039815288][Peter J. Shaw]], [[https://openalex.org/A5058221883][Phoebe A. Lowy]], [[https://openalex.org/A5071990143][Raju Chambenahalli]], [[https://openalex.org/A5040386584][Jennifer A. Garden]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05103
+[[https://openalex.org/A5003206241][Utku Yolsal]], [[https://openalex.org/A5039815288][Peter J. Shaw]], [[https://openalex.org/A5058221883][Phoebe A. Lowy]], [[https://openalex.org/A5071990143][Raju Chambenahalli]], [[https://openalex.org/A5040386584][Jennifer A. Garden]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05103][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05103")][Get bibtex entry]] 
 
@@ -224,7 +224,7 @@ The use of multimetallic complexes is a rapidly advancing route to enhance catal
 
 Open access: False
     
-[[https://openalex.org/A5045142605][Yang-Oujie Bao]], [[https://openalex.org/A5062866912][Meng Zhang]], [[https://openalex.org/A5006794114][Haoran Li]], [[https://openalex.org/A5085232711][Zilong Wang]], [[https://openalex.org/A5063439639][Jiajing Zhou]], [[https://openalex.org/A5034864584][Yi Yang]], [[https://openalex.org/A5026935413][Fudong Li]], [[https://openalex.org/A5007123441][Lei Ye]], [[https://openalex.org/A5055863664][Hongye Li]], [[https://openalex.org/A5050950821][Hongwei Jin]], [[https://openalex.org/A5003174336][Chao He]], [[https://openalex.org/A5064868650][Min Ye]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5045142605][Yang-Oujie Bao]], [[https://openalex.org/A5062866912][Meng Zhang]], [[https://openalex.org/A5006794114][Haoran Li]], [[https://openalex.org/A5085232711][Zilong Wang]], [[https://openalex.org/A5063439639][Jiajing Zhou]], [[https://openalex.org/A5034864584][Yi Yang]], [[https://openalex.org/A5026935413][Fudong Li]], [[https://openalex.org/A5007123441][Lei Ye]], [[https://openalex.org/A5055863664][Hongye Li]], [[https://openalex.org/A5050950821][Hongwei Jin]], [[https://openalex.org/A5003174336][Chao He]], [[https://openalex.org/A5064868650][Min Ye]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05252")][Get bibtex entry]] 
 
@@ -250,7 +250,7 @@ Herein, we discovered an efficient flavone 6-C-glycosyltransferase GcCGT from th
 
 Open access: False
     
-[[https://openalex.org/A5042378479][Xiaqing Wang]], [[https://openalex.org/A5089136886][Xiujuan Gao]], [[https://openalex.org/A5033509977][Faen Song]], [[https://openalex.org/A5015060334][Xiaoxing Wang]], [[https://openalex.org/A5016893182][Guozhong Cao]], [[https://openalex.org/A5045632834][Junfeng Zhang]], [[https://openalex.org/A5029594618][Yizhuo Han]], [[https://openalex.org/A5000557854][Qingde Zhang]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5042378479][Xiaqing Wang]], [[https://openalex.org/A5089136886][Xiujuan Gao]], [[https://openalex.org/A5033509977][Faen Song]], [[https://openalex.org/A5015060334][Xiaoxing Wang]], [[https://openalex.org/A5016893182][Guozhong Cao]], [[https://openalex.org/A5045632834][Junfeng Zhang]], [[https://openalex.org/A5029594618][Yizhuo Han]], [[https://openalex.org/A5000557854][Qingde Zhang]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04941")][Get bibtex entry]] 
 
@@ -276,7 +276,7 @@ Direct oxidation of methanol to polyoxymethylene dimethyl ethers (PODEn) with lo
 
 Open access: False
     
-[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]], [[https://openalex.org/A5051414179][Alexander J. Nielsen]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]], [[https://openalex.org/A5051414179][Alexander J. Nielsen]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05000")][Get bibtex entry]] 
 
@@ -302,7 +302,7 @@ Dual and triple atom catalysts (DACs and TACs) are an emerging field of heteroge
 
 Open access: False
     
-[[https://openalex.org/A5009445287][Zaili Xiong]], [[https://openalex.org/A5058409580][Jijun Guo]], [[https://openalex.org/A5031511287][Yuwen Deng]], [[https://openalex.org/A5072528068][Bingzhi Liu]], [[https://openalex.org/A5069200027][Hao Lou]], [[https://openalex.org/A5047804167][Meirong Zeng]], [[https://openalex.org/A5091457062][Zhandong Wang]], [[https://openalex.org/A5020994953][Zhongyue Zhou]], [[https://openalex.org/A5077491308][Wenhao Yuan]], [[https://openalex.org/A5076375120][Fei Qi]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5009445287][Zaili Xiong]], [[https://openalex.org/A5058409580][Jijun Guo]], [[https://openalex.org/A5031511287][Yuwen Deng]], [[https://openalex.org/A5072528068][Bingzhi Liu]], [[https://openalex.org/A5069200027][Hao Lou]], [[https://openalex.org/A5047804167][Meirong Zeng]], [[https://openalex.org/A5091457062][Zhandong Wang]], [[https://openalex.org/A5020994953][Zhongyue Zhou]], [[https://openalex.org/A5077491308][Wenhao Yuan]], [[https://openalex.org/A5076375120][Fei Qi]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04714")][Get bibtex entry]] 
 
@@ -328,7 +328,7 @@ Oxidative coupling of methane (OCM) has been widely proposed to be one of the mo
 
 Open access: True
     
-[[https://openalex.org/A5029881631][Lorenz Schwaiger]], [[https://openalex.org/A5011056508][Florian Csarman]], [[https://openalex.org/A5091597527][Hui S. Chang]], [[https://openalex.org/A5059869324][Ole Golten]], [[https://openalex.org/A5016227194][Vincent G. H. Eijsink]], [[https://openalex.org/A5044352119][Roland Ludwig]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05194
+[[https://openalex.org/A5029881631][Lorenz Schwaiger]], [[https://openalex.org/A5011056508][Florian Csarman]], [[https://openalex.org/A5091597527][Hui S. Chang]], [[https://openalex.org/A5059869324][Ole Golten]], [[https://openalex.org/A5016227194][Vincent G. H. Eijsink]], [[https://openalex.org/A5044352119][Roland Ludwig]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05194][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05194")][Get bibtex entry]] 
 
@@ -354,7 +354,7 @@ Biological conversion of plant biomass depends on peroxygenases and peroxidases 
 
 Open access: True
     
-[[https://openalex.org/A5070033732][Haliey Balcom]], [[https://openalex.org/A5002799648][Alexander J. Hoffman]], [[https://openalex.org/A5046354128][Huston Locht]], [[https://openalex.org/A5002779860][David Hibbitts]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06041
+[[https://openalex.org/A5070033732][Haliey Balcom]], [[https://openalex.org/A5002799648][Alexander J. Hoffman]], [[https://openalex.org/A5046354128][Huston Locht]], [[https://openalex.org/A5002779860][David Hibbitts]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06041][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06041")][Get bibtex entry]] 
 
@@ -380,7 +380,7 @@ ADVERTISEMENT RETURN TO ARTICLES ASAPPREVCorrectionNEXTORIGINAL ARTICLEThis noti
 
 Open access: False
     
-[[https://openalex.org/A5091955075][Jiayi Wang]], [[https://openalex.org/A5062678004][Haoxiang Xu]], [[https://openalex.org/A5062636173][Jian Wu]], [[https://openalex.org/A5025730223][Fengyu Zhang]], [[https://openalex.org/A5061184494][Chi‐Ming Che]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5031411023][Junting Feng]], [[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5091955075][Jiayi Wang]], [[https://openalex.org/A5062678004][Haoxiang Xu]], [[https://openalex.org/A5062636173][Jian Wu]], [[https://openalex.org/A5025730223][Fengyu Zhang]], [[https://openalex.org/A5061184494][Chi‐Ming Che]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5031411023][Junting Feng]], [[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c02398")][Get bibtex entry]] 
 
@@ -406,7 +406,7 @@ Although alloying is a common approach to developing catalysts for alkyne select
 
 Open access: False
     
-[[https://openalex.org/A5040964650][Altman Yuzhu Peng]], [[https://openalex.org/A5086979603][Yujing Wang]], [[https://openalex.org/A5023986772][Kaifeng Wang]], [[https://openalex.org/A5067518142][Qi Sun]], [[https://openalex.org/A5061720627][Xiaoguang Bao]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5040964650][Altman Yuzhu Peng]], [[https://openalex.org/A5086979603][Yujing Wang]], [[https://openalex.org/A5023986772][Kaifeng Wang]], [[https://openalex.org/A5067518142][Qi Sun]], [[https://openalex.org/A5061720627][Xiaoguang Bao]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04729")][Get bibtex entry]] 
 
@@ -432,7 +432,7 @@ Herein, the C3–H alkylation of 2H-indazoles and indoles with sulfoxonium ylide
 
 Open access: False
     
-[[https://openalex.org/A5015768223][Francesco Mambretti]], [[https://openalex.org/A5058606943][Umberto Raucci]], [[https://openalex.org/A5062273988][Manyi Yang]], [[https://openalex.org/A5023487560][Michele Parrinello]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5015768223][Francesco Mambretti]], [[https://openalex.org/A5058606943][Umberto Raucci]], [[https://openalex.org/A5062273988][Manyi Yang]], [[https://openalex.org/A5023487560][Michele Parrinello]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05376")][Get bibtex entry]] 
 
@@ -458,7 +458,7 @@ Among the many catalysts suggested for ammonia decomposition, Li2NH has been sho
 
 Open access: True
     
-[[https://openalex.org/A5024583086][Jiawei Guo]], [[https://openalex.org/A5034455896][Tyler Sours]], [[https://openalex.org/A5007140207][Sam Holton]], [[https://openalex.org/A5036346150][Chenghan Sun]], [[https://openalex.org/A5042039275][Ambarish Kulkarni]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05275
+[[https://openalex.org/A5024583086][Jiawei Guo]], [[https://openalex.org/A5034455896][Tyler Sours]], [[https://openalex.org/A5007140207][Sam Holton]], [[https://openalex.org/A5036346150][Chenghan Sun]], [[https://openalex.org/A5042039275][Ambarish Kulkarni]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05275][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05275")][Get bibtex entry]] 
 
@@ -484,7 +484,7 @@ Machine learning (ML), when used synergistically with atomistic simulations, has
 
 Open access: True
     
-[[https://openalex.org/A5082174925][Amit Singh]], [[https://openalex.org/A5068238818][Nakia Polidori]], [[https://openalex.org/A5009412615][Wolfgang Kroutil]], [[https://openalex.org/A5027940353][Karl Gruber]], ACS Catalysis. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04362
+[[https://openalex.org/A5082174925][Amit Singh]], [[https://openalex.org/A5068238818][Nakia Polidori]], [[https://openalex.org/A5009412615][Wolfgang Kroutil]], [[https://openalex.org/A5027940353][Karl Gruber]], ACS Catalysis. None(None)] 2024. ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04362][pdf]]).
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04362")][Get bibtex entry]] 
 
@@ -510,7 +510,7 @@ The reduction of C═X (X = N, O) bonds is a cornerstone in both synthetic organ
 
 Open access: False
     
-[[https://openalex.org/A5040900330][Jun Yu]], [[https://openalex.org/A5017313282][Yusen Yang]], [[https://openalex.org/A5074140059][Meng Zhang]], [[https://openalex.org/A5062584673][Boyu Song]], [[https://openalex.org/A5091448543][Yu Han]], [[https://openalex.org/A5025818509][Si Wang]], [[https://openalex.org/A5047316270][Zhihao Ren]], [[https://openalex.org/A5073216396][Lei Wang]], [[https://openalex.org/A5025337125][Ping Yin]], [[https://openalex.org/A5024591419][Lirong Zheng]], [[https://openalex.org/A5010723453][Xin Zhang]], [[https://openalex.org/A5084055697][Min Wei]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5040900330][Jun Yu]], [[https://openalex.org/A5017313282][Yusen Yang]], [[https://openalex.org/A5074140059][Meng Zhang]], [[https://openalex.org/A5062584673][Boyu Song]], [[https://openalex.org/A5091448543][Yu Han]], [[https://openalex.org/A5025818509][Si Wang]], [[https://openalex.org/A5047316270][Zhihao Ren]], [[https://openalex.org/A5073216396][Lei Wang]], [[https://openalex.org/A5025337125][Ping Yin]], [[https://openalex.org/A5024591419][Lirong Zheng]], [[https://openalex.org/A5010723453][Xin Zhang]], [[https://openalex.org/A5084055697][Min Wei]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04654")][Get bibtex entry]] 
 
@@ -536,7 +536,7 @@ Preferential oxidation of CO (CO-PROX) is an efficient method to eliminate resid
 
 Open access: False
     
-[[https://openalex.org/A5093672940][Prakash Kafle]], [[https://openalex.org/A5018873247][B. N. Ghosh]], [[https://openalex.org/A5044793221][Arianne C. Hunter]], [[https://openalex.org/A5027157893][Rishav Mukherjee]], [[https://openalex.org/A5074458555][Kenneth M. Nicholas]], [[https://openalex.org/A5080892892][Indrajeet Sharma]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5093672940][Prakash Kafle]], [[https://openalex.org/A5018873247][B. N. Ghosh]], [[https://openalex.org/A5044793221][Arianne C. Hunter]], [[https://openalex.org/A5027157893][Rishav Mukherjee]], [[https://openalex.org/A5074458555][Kenneth M. Nicholas]], [[https://openalex.org/A5080892892][Indrajeet Sharma]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05040")][Get bibtex entry]] 
 
@@ -562,7 +562,7 @@ Given its earth abundance, cost-effectiveness, and ecofriendly qualities, iron s
 
 Open access: False
     
-[[https://openalex.org/A5073003760][Wei Lin]], [[https://openalex.org/A5068799381][Yuanhu Shao]], [[https://openalex.org/A5026505633][Zeyang Hao]], [[https://openalex.org/A5024555205][Zhe Huang]], [[https://openalex.org/A5002534655][Zhiyuan Ren]], [[https://openalex.org/A5020228805][Li Chen]], [[https://openalex.org/A5005815311][Xin Li]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5073003760][Wei Lin]], [[https://openalex.org/A5068799381][Yuanhu Shao]], [[https://openalex.org/A5026505633][Zeyang Hao]], [[https://openalex.org/A5024555205][Zhe Huang]], [[https://openalex.org/A5002534655][Zhiyuan Ren]], [[https://openalex.org/A5020228805][Li Chen]], [[https://openalex.org/A5005815311][Xin Li]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04775")][Get bibtex entry]] 
 
@@ -588,7 +588,7 @@ Herein, N-nucleophilic tandem oxidation–N-arylation–oxidation reaction and C
 
 Open access: False
     
-[[https://openalex.org/A5034374201][Jingyan Guan]], [[https://openalex.org/A5085824780][Kazuma Koizumi]], [[https://openalex.org/A5018787061][Naoya Fukui]], [[https://openalex.org/A5059902329][Hajime Suzuki]], [[https://openalex.org/A5085396861][Kantaro Murayama]], [[https://openalex.org/A5030480718][Ryojun Toyoda]], [[https://openalex.org/A5026224138][Hiroaki Maeda]], [[https://openalex.org/A5023298202][Kazuhide Kamiya]], [[https://openalex.org/A5084799857][Keitaro Ohashi]], [[https://openalex.org/A5084974181][Shinya Takaishi]], [[https://openalex.org/A5070633589][Osamu Tomita]], [[https://openalex.org/A5010588406][Akinori Saeki]], [[https://openalex.org/A5089786787][Hiroshi Nishihara]], [[https://openalex.org/A5069143554][Hiroshi Kageyama]], [[https://openalex.org/A5087849116][Ryu Abe]], [[https://openalex.org/A5079498516][Ryota Sakamoto]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5034374201][Jingyan Guan]], [[https://openalex.org/A5085824780][Kazuma Koizumi]], [[https://openalex.org/A5018787061][Naoya Fukui]], [[https://openalex.org/A5059902329][Hajime Suzuki]], [[https://openalex.org/A5085396861][Kantaro Murayama]], [[https://openalex.org/A5030480718][Ryojun Toyoda]], [[https://openalex.org/A5026224138][Hiroaki Maeda]], [[https://openalex.org/A5023298202][Kazuhide Kamiya]], [[https://openalex.org/A5084799857][Keitaro Ohashi]], [[https://openalex.org/A5084974181][Shinya Takaishi]], [[https://openalex.org/A5070633589][Osamu Tomita]], [[https://openalex.org/A5010588406][Akinori Saeki]], [[https://openalex.org/A5089786787][Hiroshi Nishihara]], [[https://openalex.org/A5069143554][Hiroshi Kageyama]], [[https://openalex.org/A5087849116][Ryu Abe]], [[https://openalex.org/A5079498516][Ryota Sakamoto]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04389")][Get bibtex entry]] 
 
@@ -614,7 +614,7 @@ To achieve efficacious photocatalytic overall water splitting, surface modificat
 
 Open access: False
     
-[[https://openalex.org/A5071084855][Chao Mu]], [[https://openalex.org/A5065701235][Junhao Sun]], [[https://openalex.org/A5032167321][Chuang Xie]], [[https://openalex.org/A5076565763][Jianming Bao]], [[https://openalex.org/A5078254274][Xuan Guo]], [[https://openalex.org/A5054289381][Haozhe Zhang]], [[https://openalex.org/A5081576318][Yujun Zhao]], [[https://openalex.org/A5026063784][Shengping Wang]], [[https://openalex.org/A5043956105][Xinbin Ma]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5071084855][Chao Mu]], [[https://openalex.org/A5065701235][Junhao Sun]], [[https://openalex.org/A5032167321][Chuang Xie]], [[https://openalex.org/A5076565763][Jianming Bao]], [[https://openalex.org/A5078254274][Xuan Guo]], [[https://openalex.org/A5054289381][Haozhe Zhang]], [[https://openalex.org/A5081576318][Yujun Zhao]], [[https://openalex.org/A5026063784][Shengping Wang]], [[https://openalex.org/A5043956105][Xinbin Ma]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04465")][Get bibtex entry]] 
 
@@ -640,7 +640,7 @@ Hydrocracking of long-chain n-alkanes from hydrotreating of vegetable oil is cri
 
 Open access: False
     
-[[https://openalex.org/A5077036585][Zong-Heng Wang]], [[https://openalex.org/A5055431890][Brian N. DiMarco]], [[https://openalex.org/A5034872527][Mehmed Z. Ertem]], [[https://openalex.org/A5006832213][Renato N. Sampaio]], [[https://openalex.org/A5059646806][Gerald F. Manbeck]], ACS Catalysis. None(None)] 2024. 
+[[https://openalex.org/A5077036585][Zong-Heng Wang]], [[https://openalex.org/A5055431890][Brian N. DiMarco]], [[https://openalex.org/A5034872527][Mehmed Z. Ertem]], [[https://openalex.org/A5006832213][Renato N. Sampaio]], [[https://openalex.org/A5059646806][Gerald F. Manbeck]], ACS Catalysis. None(None)] 2024. .
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04589")][Get bibtex entry]] 
 
