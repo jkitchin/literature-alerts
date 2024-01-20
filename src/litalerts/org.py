@@ -4,7 +4,8 @@ from pathlib import Path
 import urllib.parse
 
 from .openalex import (get_authors, get_org_authors, get_abstract, get_host,
-                       get_citation, get_org_citation)
+                       get_citation, get_org_citation,
+                       html_to_text)
 
 
 def get_org_item(topic, result):
@@ -16,7 +17,7 @@ def get_org_item(topic, result):
     abstract = get_abstract(result)
     citation = get_org_citation(result)       
 
-    return f'''** {result['title']}   
+    return f'''** {html_to_text(result['title'])}   
 :PROPERTIES:
 :ID: {result['id']}
 :DOI: {result['doi']}

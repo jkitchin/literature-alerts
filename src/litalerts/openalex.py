@@ -3,6 +3,12 @@ import urllib.parse
 from math import ceil
 from dotenv import load_dotenv
 import os
+from bs4 import BeautifulSoup
+
+
+def html_to_text(html_string):
+    soup = BeautifulSoup(html_string, 'html.parser')
+    return soup.get_text()
 
 
 def run_query(topic, since):
@@ -59,7 +65,7 @@ def get_abstract(result):
     else:
         abstract = 'No abstract'
 
-    return abstract
+    return html_to_text(abstract)
 
 
 def get_org_authors(result):
@@ -93,7 +99,8 @@ def get_org_citation(result):
     """
     authors = get_org_authors(result)
     host = get_host(result)
-    return f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."
+    citation = f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."
+    return html_to_text(citation)
 
 
 def get_citation(result):
@@ -101,4 +108,5 @@ def get_citation(result):
     """
     authors = get_authors(result)
     host = get_host(result)
-    return f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}." 
+    citation = f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."
+    return html_to_text(citation)

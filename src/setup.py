@@ -10,7 +10,8 @@ setup(
         'rfeed',
         'python-dotenv',
         'lxml',
-        'pyyaml'
+        'pyyaml',
+        'beautifulsoup4'
     ],
     entry_points={
         'console_scripts': [
