@@ -1,7 +1,7 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Jan 20 17:25:25 2024
+Created on Sat Jan 20 17:29:11 2024
 
 Found 56 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
