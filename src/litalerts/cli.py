@@ -23,4 +23,5 @@ def cli(fname, since):
         
         results = run_query(topic, _since)
         write_org(topic, results)
+        write_md(topic, results)
         write_rss(topic, results)
