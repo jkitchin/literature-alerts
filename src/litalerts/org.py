@@ -48,6 +48,7 @@ def write_org(topic, results):
 
     s = '\n'.join([get_org_item(topic, result) for result in results])
     base = '-'.join(topic['label'].split())
+    Path('org').mkdir(exist_ok=True)
     orgfile = Path('org') / (base + '.org')
 
     with open(orgfile, 'w') as f:
