@@ -1,11 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sat Jan 20 18:53:43 2024
+Created on Sat Jan 20 18:57:16 2024
 
 Found 48 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
+- [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
 
 ## PdOs bimetallene for energy-saving hydrogen production coupled with ethanol electro-oxidation   
 

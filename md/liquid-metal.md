@@ -1,10 +1,10 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Sat Jan 20 18:53:47 2024
+Created on Sat Jan 20 18:57:29 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst](https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst)
 
 ## Engineering Noble Metal-Free Nickel Catalysts for Highly Efficient Liquid Fuel Production from Waste Polyolefins Under Mild Conditions   
 

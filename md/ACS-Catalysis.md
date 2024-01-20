@@ -1,10 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jan 20 18:53:48 2024
+Created on Sat Jan 20 18:57:32 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
+- [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
 ## Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O2 Conversion Pathway over Au–Pd/ZnO   
 
