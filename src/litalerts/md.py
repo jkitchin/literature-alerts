@@ -41,7 +41,7 @@ def write_md(topic, results):
     """Given a TOPIC and RESULTS, write them out to a Markdown file.
     """
 
-    s = '\n'.join([get_org_item(topic, result) for result in results])
+    s = '\n'.join([get_md_item(topic, result) for result in results])
     base = '-'.join(topic['label'].split())
     Path('md').mkdir(exist_ok=True)
     mdfile = Path('md') / (base + '.md')
