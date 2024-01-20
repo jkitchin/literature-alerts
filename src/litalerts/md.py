@@ -45,9 +45,8 @@ def write_md(topic, results):
     base = '-'.join(topic['label'].split())
     Path('md').mkdir(exist_ok=True)
     mdfile = Path('md') / (base + '.md')
-
-    with open(mdfile, 'w') as f:
-        
+    print(f'writing to {mdfile}')
+    with open(mdfile, 'w') as f:        
         f.write(f'# {topic["label"]}\n')
         f.write(f'Description: {topic["description"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
