@@ -1,7 +1,7 @@
 #+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sat Jan 20 16:33:47 2024
+Created on Sat Jan 20 17:25:26 2024
 
 Found 2 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -14,7 +14,9 @@ OpenAlex URLS (not including from_created_date or the API key)
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5011426914][Zhanpeng Liu]], [[https://openalex.org/A5024495280][Haoyang Xu]], [[https://openalex.org/A5055053389][Xinxiang Wang]], [[https://openalex.org/A5075176253][Guilei Tian]], [[https://openalex.org/A5027390507][Dongxing Du]], [[https://openalex.org/A5046532572][Chaozhu Shu]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5011426914][Zhanpeng Liu]], [[https://openalex.org/A5024495280][Haoyang Xu]], [[https://openalex.org/A5055053389][Xinxiang Wang]], [[https://openalex.org/A5075176253][Guilei Tian]], [[https://openalex.org/A5027390507][Dongxing Du]], [[https://openalex.org/A5046532572][Chaozhu Shu]], No host. None(None)] 2024. https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bte2.20230053
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/bte2.20230053")][Get bibtex entry]] 
 
@@ -38,7 +40,9 @@ Abstract Despite their great promise as high‐energy‐density alternatives to 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5057493561][Shaoyuan Guo]], [[https://openalex.org/A5052971906][Xinli Tong]], [[https://openalex.org/A5000561318][Jipeng Wang]], [[https://openalex.org/A5024821664][Honggang Tang]], No host. None(None)] 2023.
+Open access: False
+    
+[[https://openalex.org/A5057493561][Shaoyuan Guo]], [[https://openalex.org/A5052971906][Xinli Tong]], [[https://openalex.org/A5000561318][Jipeng Wang]], [[https://openalex.org/A5024821664][Honggang Tang]], No host. None(None)] 2023. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3re00525a")][Get bibtex entry]] 
 

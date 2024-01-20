@@ -1,7 +1,7 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sat Jan 20 16:33:47 2024
+Created on Sat Jan 20 17:25:26 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -14,7 +14,9 @@ OpenAlex URLS (not including from_created_date or the API key)
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5072263092][Xinlei Han]], [[https://openalex.org/A5083898046][Jiuxuan Zhang]], [[https://openalex.org/A5056805527][Zhengyan Qu]], [[https://openalex.org/A5014026680][Feng Zeng]], [[https://openalex.org/A5074997400][Hong Jiang]], [[https://openalex.org/A5043843386][Jun Huang]], [[https://openalex.org/A5056618062][Zhenchen Tang]], [[https://openalex.org/A5013913370][Rizhi Chen]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5072263092][Xinlei Han]], [[https://openalex.org/A5083898046][Jiuxuan Zhang]], [[https://openalex.org/A5056805527][Zhengyan Qu]], [[https://openalex.org/A5014026680][Feng Zeng]], [[https://openalex.org/A5074997400][Hong Jiang]], [[https://openalex.org/A5043843386][Jun Huang]], [[https://openalex.org/A5056618062][Zhenchen Tang]], [[https://openalex.org/A5013913370][Rizhi Chen]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4698288")][Get bibtex entry]] 
 
@@ -38,7 +40,9 @@ Polyolefin wastes, while posing environmental threats, also offer potential as c
 :HOST: Applied Catalysis B: Environmental
 :END:
 
-[[https://openalex.org/A5042829086][Jiahua Zhou]], [[https://openalex.org/A5026278267][Jiayi Fu]], [[https://openalex.org/A5086955828][Ping Yang]], [[https://openalex.org/A5067490405][Kewei Yu]], [[https://openalex.org/A5093697312][Stavros Carazoulas]], [[https://openalex.org/A5015640857][Weiqing Zheng]], [[https://openalex.org/A5066110304][Dionisios G. Vlachos]], Applied Catalysis B: Environmental. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5042829086][Jiahua Zhou]], [[https://openalex.org/A5026278267][Jiayi Fu]], [[https://openalex.org/A5086955828][Ping Yang]], [[https://openalex.org/A5067490405][Kewei Yu]], [[https://openalex.org/A5093697312][Stavros Carazoulas]], [[https://openalex.org/A5015640857][Weiqing Zheng]], [[https://openalex.org/A5066110304][Dionisios G. Vlachos]], Applied Catalysis B: Environmental. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123724")][Get bibtex entry]] 
 
@@ -62,7 +66,9 @@ Metal M1/metal oxide M2Ox (M1M2Ox) inverse catalysts, where the oxide layer rest
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5064649819][Shuting Liang]], No host. None(None)] 2023.
+Open access: False
+    
+[[https://openalex.org/A5064649819][Shuting Liang]], No host. None(None)] 2023. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-981-19-2797-3_48-1")][Get bibtex entry]] 
 
@@ -86,7 +92,9 @@ With the rapid growth of the world population and the continuous shortage of res
 :HOST: Turkish Journal of Chemistry
 :END:
 
-[[https://openalex.org/A5015928403][Serhat Uzan]], [[https://openalex.org/A5072932384][Eyüp Başaran]], Turkish Journal of Chemistry. 47(6)] 2023.
+Open access: True
+    
+[[https://openalex.org/A5015928403][Serhat Uzan]], [[https://openalex.org/A5072932384][Eyüp Başaran]], Turkish Journal of Chemistry. 47(6)] 2023. https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.55730/1300-0527.3630")][Get bibtex entry]] 
 
@@ -110,7 +118,9 @@ The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmori
 :HOST: Elmi əsərlər
 :END:
 
-[[https://openalex.org/A5093713093][Ya. M. Naghiev]], [[https://openalex.org/A5093713094][R. R. Apayeva]], [[https://openalex.org/A5025825721][Nazilya Salmanova]], [[https://openalex.org/A5010490706][M. I. Nadiri]], [[https://openalex.org/A5020206046][Asgar Huseynov]], Elmi əsərlər. None(3)] 2023.
+Open access: True
+    
+[[https://openalex.org/A5093713093][Ya. M. Naghiev]], [[https://openalex.org/A5093713094][R. R. Apayeva]], [[https://openalex.org/A5025825721][Nazilya Salmanova]], [[https://openalex.org/A5010490706][M. I. Nadiri]], [[https://openalex.org/A5020206046][Asgar Huseynov]], Elmi əsərlər. None(3)] 2023. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.5510/ogp20230300900")][Get bibtex entry]] 
 
@@ -134,7 +144,9 @@ Liquid-phase aerobic oxidation of petroleum hydrocarbons catalyzed by carbon nan
 :HOST: European Journal of Inorganic Chemistry
 :END:
 
-[[https://openalex.org/A5055374370][Yumei Chen]], [[https://openalex.org/A5017262173][LI Ming-bin]], [[https://openalex.org/A5082953115][Shuyan Guan]], [[https://openalex.org/A5053780153][Qing Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5033843507][Shumin Han]], [[https://openalex.org/A5017134396][Bao-Zhong Liu]], European Journal of Inorganic Chemistry. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5055374370][Yumei Chen]], [[https://openalex.org/A5017262173][LI Ming-bin]], [[https://openalex.org/A5082953115][Shuyan Guan]], [[https://openalex.org/A5053780153][Qing Li]], [[https://openalex.org/A5085765430][Qiuming Peng]], [[https://openalex.org/A5033843507][Shumin Han]], [[https://openalex.org/A5017134396][Bao-Zhong Liu]], European Journal of Inorganic Chemistry. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ejic.202300677")][Get bibtex entry]] 
 
@@ -150,6 +162,32 @@ Clean and sustainable hydrogen production through liquid hydrogen storage materi
 
     
 
+** Copper Application and Copper Nanoparticles in Chemistry   
+:PROPERTIES:
+:ID: https://openalex.org/W4391035044
+:DOI: https://doi.org/10.5772/intechopen.1004068
+:AUTHORS: [[https://openalex.org/A5020114413][Iman Mohammadi Dehcheshmeh]], [[https://openalex.org/A5008902301][Ahmad Poursattar Marjani]], [[https://openalex.org/A5058378526][Fatemeh Sadegh]], [[https://openalex.org/A5076479889][Mohammad Ebrahim Soltani]]
+:HOST: No host
+:END:
+
+Open access: True
+    
+[[https://openalex.org/A5020114413][Iman Mohammadi Dehcheshmeh]], [[https://openalex.org/A5008902301][Ahmad Poursattar Marjani]], [[https://openalex.org/A5058378526][Fatemeh Sadegh]], [[https://openalex.org/A5076479889][Mohammad Ebrahim Soltani]], No host. None(None)] 2024. https://www.intechopen.com/citation-pdf-url/1172117
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5772/intechopen.1004068")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391035044"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391035044"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391035044"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391035044
+    
+[[https://openalex.org/A5020114413][Iman Mohammadi Dehcheshmeh]], [[https://openalex.org/A5008902301][Ahmad Poursattar Marjani]], [[https://openalex.org/A5058378526][Fatemeh Sadegh]], [[https://openalex.org/A5076479889][Mohammad Ebrahim Soltani]], No host. https://doi.org/10.5772/intechopen.1004068
+    
+Copper metal is a natural element found in soil, water, and rocks. This metal is one of those functional metals that have significantly improved the quality of human life. In the agricultural industry, copper plays an essential role as a primary nutrient required for the optimal growth of living tissues in plants and other organisms. Additionally, it is used to control fungal diseases; copper sulfate, one of the most widely used derivatives of copper metal, is employed for this purpose. Hence, the use of copper in agriculture is crucial. Another advanced and innovative application of copper is in chemical processes within the petrochemical industry as a catalyst. Copper catalysts exhibit a more favorable hydrogenation activity compared to nickel catalysts. The copper catalyst is designed in three forms: extruded and tablet forms for fixed-bed reactions and powder for liquid-bed reactions.    
+
+    
+
 ** Acid catalyst screening for hydrolysis of post-consumer PET waste and exploration of acidolysis   
 :PROPERTIES:
 :ID: https://openalex.org/W4390668766
@@ -158,7 +196,9 @@ Clean and sustainable hydrogen production through liquid hydrogen storage materi
 :HOST: Green Chemistry
 :END:
 
-[[https://openalex.org/A5010653867][Patrícia Pereira]], [[https://openalex.org/A5001247658][P.E. Savage]], [[https://openalex.org/A5072719681][Christian W. Pester]], Green Chemistry. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5010653867][Patrícia Pereira]], [[https://openalex.org/A5001247658][P.E. Savage]], [[https://openalex.org/A5072719681][Christian W. Pester]], Green Chemistry. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3gc03906d")][Get bibtex entry]] 
 
@@ -182,7 +222,9 @@ We screen various acid catalysts (mineral, carboxylic, carbonic acids, zeolites,
 :HOST: Molecules
 :END:
 
-[[https://openalex.org/A5034386711][Fei Du]], [[https://openalex.org/A5029548291][Xue-Quan Xian]], [[https://openalex.org/A5073160336][Peiduo Tang]], [[https://openalex.org/A5047160347][Yanming Liu]], Molecules. 29(2)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5034386711][Fei Du]], [[https://openalex.org/A5029548291][Xue-Quan Xian]], [[https://openalex.org/A5073160336][Peiduo Tang]], [[https://openalex.org/A5047160347][Yanming Liu]], Molecules. 29(2)] 2024. https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29020347")][Get bibtex entry]] 
 
@@ -198,30 +240,6 @@ A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthaloc
 
     
 
-** Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation   
-:PROPERTIES:
-:ID: https://openalex.org/W4390703678
-:DOI: https://doi.org/10.2139/ssrn.4690198
-:AUTHORS: [[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]]
-:HOST: No host
-:END:
-
-[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690198")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390703678"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390703678"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390703678"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390703678
-    
-[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. https://doi.org/10.2139/ssrn.4690198
-    
-The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.    
-
-    
-
 ** Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390910649
@@ -230,7 +248,9 @@ The ultimate target in heterogeneous catalysis is the achievement of robust, res
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5014265119][Qiuju Wang]], [[https://openalex.org/A5071831009][Tian Zhou]], [[https://openalex.org/A5036124105][Chunhui Wang]], [[https://openalex.org/A5011044374][Longwei Li]], [[https://openalex.org/A5032704479][Lianli Zou]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5014265119][Qiuju Wang]], [[https://openalex.org/A5071831009][Tian Zhou]], [[https://openalex.org/A5036124105][Chunhui Wang]], [[https://openalex.org/A5011044374][Longwei Li]], [[https://openalex.org/A5032704479][Lianli Zou]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4696668")][Get bibtex entry]] 
 
@@ -246,6 +266,32 @@ Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts 
 
     
 
+** Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation   
+:PROPERTIES:
+:ID: https://openalex.org/W4390703678
+:DOI: https://doi.org/10.2139/ssrn.4690198
+:AUTHORS: [[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]]
+:HOST: No host
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. None(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690198")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390703678"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390703678"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390703678"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390703678
+    
+[[https://openalex.org/A5082281753][Silvia Gutiérrez‐Tarriño]], [[https://openalex.org/A5013554434][Carmen Galdeano-Ruano]], [[https://openalex.org/A5066683833][Christian Wittee Lopes]], [[https://openalex.org/A5046780829][Jaime Mazarío]], [[https://openalex.org/A5081303199][Lidia E. Chinchilla]], [[https://openalex.org/A5086042043][Giovanni Agostini]], [[https://openalex.org/A5071740493][José J. Calvino]], [[https://openalex.org/A5023721186][Juan P. Holgado]], [[https://openalex.org/A5091810010][E. Rodrı́guez Castellón]], [[https://openalex.org/A5085004954][Alberto Roldán]], [[https://openalex.org/A5018654878][Pascual Oña‐Burgos]], No host. https://doi.org/10.2139/ssrn.4690198
+    
+The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.    
+
+    
+
 ** Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
 :PROPERTIES:
 :ID: https://openalex.org/W4390637146
@@ -254,7 +300,9 @@ Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts 
 :HOST: Angewandte Chemie International Edition
 :END:
 
-[[https://openalex.org/A5036014654][Xueting Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie International Edition. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5036014654][Xueting Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie International Edition. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202317594")][Get bibtex entry]] 
 
@@ -278,7 +326,9 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 :HOST: Angewandte Chemie
 :END:
 
-[[https://openalex.org/A5007297993][Xia Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5007297993][Xia Wu]], [[https://openalex.org/A5058010200][Xiao Wang]], [[https://openalex.org/A5041880317][Lingling Zhang]], [[https://openalex.org/A5016348832][Xiaomei Wang]], [[https://openalex.org/A5013100135][Shuyan Song]], [[https://openalex.org/A5082373596][Hongjie Zhang]], Angewandte Chemie. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202317594")][Get bibtex entry]] 
 
@@ -302,7 +352,9 @@ Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid 
 :HOST: ACS Applied Energy Materials
 :END:
 
-[[https://openalex.org/A5088577552][Youngdon Ko]], [[https://openalex.org/A5005726642][Junkil Park]], [[https://openalex.org/A5076988030][Xiong Zhang]], [[https://openalex.org/A5003033013][Liqun Kang]], [[https://openalex.org/A5045667730][Thi Ha My Pham]], [[https://openalex.org/A5004507719][Victor Boureau]], [[https://openalex.org/A5011167912][Cuong Pham‐Huu]], [[https://openalex.org/A5018605846][Jihan Kim]], [[https://openalex.org/A5001168753][Liping Zhong]], [[https://openalex.org/A5005895018][Andreas Züttel]], ACS Applied Energy Materials. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5088577552][Youngdon Ko]], [[https://openalex.org/A5005726642][Junkil Park]], [[https://openalex.org/A5076988030][Xiong Zhang]], [[https://openalex.org/A5003033013][Liqun Kang]], [[https://openalex.org/A5045667730][Thi Ha My Pham]], [[https://openalex.org/A5004507719][Victor Boureau]], [[https://openalex.org/A5011167912][Cuong Pham‐Huu]], [[https://openalex.org/A5018605846][Jihan Kim]], [[https://openalex.org/A5001168753][Liping Zhong]], [[https://openalex.org/A5005895018][Andreas Züttel]], ACS Applied Energy Materials. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.3c02578")][Get bibtex entry]] 
 
@@ -318,6 +370,32 @@ Platinum group metal-free catalysts (e.g., Fe–N–C and Co–N–C) are used a
 
     
 
+** Acceptorless dehydrogenation of biomass-derived aromatic alcohols to aromatic ketones synergistically catalysed by Pd/C and ionic liquids   
+:PROPERTIES:
+:ID: https://openalex.org/W4391036584
+:DOI: https://doi.org/10.1016/j.molliq.2024.124060
+:AUTHORS: [[https://openalex.org/A5085309756][Xiaohai Zhou]], [[https://openalex.org/A5016341553][Ruipeng Li]], [[https://openalex.org/A5079563573][Zhiyong Li]], [[https://openalex.org/A5043082502][Yanfei Zhao]], [[https://openalex.org/A5003932410][Zhengang Ke]], [[https://openalex.org/A5088406552][Xiaochen Zhang]], [[https://openalex.org/A5027696701][Jianji Wang]]
+:HOST: Journal of Molecular Liquids
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5085309756][Xiaohai Zhou]], [[https://openalex.org/A5016341553][Ruipeng Li]], [[https://openalex.org/A5079563573][Zhiyong Li]], [[https://openalex.org/A5043082502][Yanfei Zhao]], [[https://openalex.org/A5003932410][Zhengang Ke]], [[https://openalex.org/A5088406552][Xiaochen Zhang]], [[https://openalex.org/A5027696701][Jianji Wang]], Journal of Molecular Liquids. None(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.molliq.2024.124060")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391036584"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391036584"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391036584"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391036584
+    
+[[https://openalex.org/A5085309756][Xiaohai Zhou]], [[https://openalex.org/A5016341553][Ruipeng Li]], [[https://openalex.org/A5079563573][Zhiyong Li]], [[https://openalex.org/A5043082502][Yanfei Zhao]], [[https://openalex.org/A5003932410][Zhengang Ke]], [[https://openalex.org/A5088406552][Xiaochen Zhang]], [[https://openalex.org/A5027696701][Jianji Wang]], Journal of Molecular Liquids. https://doi.org/10.1016/j.molliq.2024.124060
+    
+Acceptorless dehydrogenation of alcohols is a promising pathway for biomass resource utilization and hydrogen supply, but still lacking for simple and effective catalysts. Herein, we report a metal-ionic liquids (ILs) catalyst for synergistical catalytic dehydrogenation of aromatic alcohols to aromatic ketones under mild conditions without any acid/base additives. It is found that the combination of Pd/C with 1-butyl-3-methylimidazolium tetrafluoroborate ([BMIm][BF4]) displays high activity for the dehydrogenation of biomass-derived alcohols including 1-phenyl-1-ethanol, 1-phenyl-1-propanol and 1-(4-methoxyphenyl)ethanol. Mechanistic studies reveal that the Pd/C can be anchored and stabilized by the IL via interacting with [BMIm]+ cation, and the [BF4]- anion plays vital role in the activation of hydroxyl-H and α-H protons via hydrogen bonding interactions. These interactions create an effective microenvironmental for Pd/C catalyzing the cleavage of the hydroxyl-H and α-CH bonds of α-hydroxyl aromatic alcohols to generate aromatic ketones and H2. Moreover, the Pd/C-[BMIm][BF4] catalyst could be recovered and reused for 5 runs without obvious activity loss. This strategy provides more evidences for the synergetic catalysis of metal and ionic liquids and exhibits potential application prospects for hydrogen supply from renewable biomass-derived alcohols.    
+
+    
+
 ** Review of electrocatalytic reduction of CO2 on carbon supported films   
 :PROPERTIES:
 :ID: https://openalex.org/W4390721078
@@ -326,7 +404,9 @@ Platinum group metal-free catalysts (e.g., Fe–N–C and Co–N–C) are used a
 :HOST: International Journal of Hydrogen Energy
 :END:
 
-[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.022")][Get bibtex entry]] 
 
@@ -350,7 +430,9 @@ Carbon capture and conversion are becoming increasingly important as atmospheric
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5040301865][Xin Cao]], [[https://openalex.org/A5090459753][Yong-Kui Chang]], [[https://openalex.org/A5007540882][Yang-Yang Yang]], [[https://openalex.org/A5061179226][Hongfang Ma]], [[https://openalex.org/A5048902046][Weiming Liu]], [[https://openalex.org/A5066554626][Yixin Lü]], [[https://openalex.org/A5012785198][Shyue-Yen Yao]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5040301865][Xin Cao]], [[https://openalex.org/A5090459753][Yong-Kui Chang]], [[https://openalex.org/A5007540882][Yang-Yang Yang]], [[https://openalex.org/A5061179226][Hongfang Ma]], [[https://openalex.org/A5048902046][Weiming Liu]], [[https://openalex.org/A5066554626][Yixin Lü]], [[https://openalex.org/A5012785198][Shyue-Yen Yao]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4693252")][Get bibtex entry]] 
 
@@ -374,7 +456,9 @@ This study investigates the catalytic reduction of CO2 using various ratios of G
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5061876144][Satyawan Singh]], [[https://openalex.org/A5006808433][Saurabh C. Patankar]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5061876144][Satyawan Singh]], [[https://openalex.org/A5006808433][Saurabh C. Patankar]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-323-95177-7.00005-9")][Get bibtex entry]] 
 
@@ -398,7 +482,9 @@ With the commencement of the 21st centennial era, the researchers discovered tha
 :HOST: Chemical Engineering Journal
 :END:
 
-[[https://openalex.org/A5059764834][Siying Chong]], [[https://openalex.org/A5002497448][Jiaoyan Li]], [[https://openalex.org/A5070132910][Shuang Zhao]], [[https://openalex.org/A5040454618][G. Huang]], [[https://openalex.org/A5088445624][Yajing Zhang]], [[https://openalex.org/A5016795494][Rui Rui Liu]], [[https://openalex.org/A5055374805][Kangjun Wang]], Chemical Engineering Journal. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5059764834][Siying Chong]], [[https://openalex.org/A5002497448][Jiaoyan Li]], [[https://openalex.org/A5070132910][Shuang Zhao]], [[https://openalex.org/A5040454618][G. Huang]], [[https://openalex.org/A5088445624][Yajing Zhang]], [[https://openalex.org/A5016795494][Rui Rui Liu]], [[https://openalex.org/A5055374805][Kangjun Wang]], Chemical Engineering Journal. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148678")][Get bibtex entry]] 
 
@@ -422,7 +508,9 @@ Various methods have been explored for preparing heterogeneous catalysts using m
 :HOST: Journal of Industrial and Engineering Chemistry
 :END:
 
-[[https://openalex.org/A5004439081][Guilin Zhou]], [[https://openalex.org/A5037634210][Wenjing Liu]], [[https://openalex.org/A5085237912][Yue Zhao]], [[https://openalex.org/A5089812226][Xiaoping Wang]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5017364023][Aiping Jia]], [[https://openalex.org/A5048668242][Hongmei Xie]], Journal of Industrial and Engineering Chemistry. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5004439081][Guilin Zhou]], [[https://openalex.org/A5037634210][Wenjing Liu]], [[https://openalex.org/A5085237912][Yue Zhao]], [[https://openalex.org/A5089812226][Xiaoping Wang]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5017364023][Aiping Jia]], [[https://openalex.org/A5048668242][Hongmei Xie]], Journal of Industrial and Engineering Chemistry. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jiec.2024.01.018")][Get bibtex entry]] 
 
@@ -446,7 +534,9 @@ The research and development of efficient catalyst is the key to achieving high-
 :HOST: Chemistry - A European Journal
 :END:
 
-[[https://openalex.org/A5081649730][Sho Yamaguchi]], [[https://openalex.org/A5093661952][Daiki Kiyohira]], [[https://openalex.org/A5013506973][Kohei Tada]], [[https://openalex.org/A5067480489][Taiki Kawakami]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5064171498][Takato Mitsudome]], [[https://openalex.org/A5068048324][Tomoo Mizugaki]], Chemistry - A European Journal. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5081649730][Sho Yamaguchi]], [[https://openalex.org/A5093661952][Daiki Kiyohira]], [[https://openalex.org/A5013506973][Kohei Tada]], [[https://openalex.org/A5067480489][Taiki Kawakami]], [[https://openalex.org/A5038408960][Akira Miura]], [[https://openalex.org/A5064171498][Takato Mitsudome]], [[https://openalex.org/A5068048324][Tomoo Mizugaki]], Chemistry - A European Journal. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202303573")][Get bibtex entry]] 
 
@@ -470,7 +560,9 @@ Despite its unique physicochemical properties, the catalytic application of nick
 :HOST: Chemical Engineering Journal
 :END:
 
-[[https://openalex.org/A5008868985][Chaofan Li]], [[https://openalex.org/A5051476281][Fengke Wang]], [[https://openalex.org/A5035540456][Yi Nie]], [[https://openalex.org/A5084216806][Leilei Wang]], [[https://openalex.org/A5027792053][Zhihao Zhang]], [[https://openalex.org/A5072350017][Tianhao Liu]], [[https://openalex.org/A5071568123][Binghui He]], [[https://openalex.org/A5025885659][Yunqian Ma]], [[https://openalex.org/A5086281065][Lihua Zang]], Chemical Engineering Journal. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5008868985][Chaofan Li]], [[https://openalex.org/A5051476281][Fengke Wang]], [[https://openalex.org/A5035540456][Yi Nie]], [[https://openalex.org/A5084216806][Leilei Wang]], [[https://openalex.org/A5027792053][Zhihao Zhang]], [[https://openalex.org/A5072350017][Tianhao Liu]], [[https://openalex.org/A5071568123][Binghui He]], [[https://openalex.org/A5025885659][Yunqian Ma]], [[https://openalex.org/A5086281065][Lihua Zang]], Chemical Engineering Journal. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148580")][Get bibtex entry]] 
 
@@ -486,30 +578,6 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
 
     
 
-** A Cluster-Type Self-Healing Catalyst for Stable Saline–Alkali Water Splitting   
-:PROPERTIES:
-:ID: https://openalex.org/W4390986406
-:DOI: https://doi.org/10.3390/catal14010081
-:AUTHORS: [[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]]
-:HOST: Catalysts
-:END:
-
-[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. 14(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14010081")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390986406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390986406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390986406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390986406
-    
-[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. https://doi.org/10.3390/catal14010081
-    
-In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
-
-    
-
 ** Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
 :PROPERTIES:
 :ID: https://openalex.org/W4390718253
@@ -518,7 +586,9 @@ In electrocatalytic processes, traditional powder/film electrodes inevitably suf
 :HOST: ChemPlusChem
 :END:
 
-[[https://openalex.org/A5058502784][Qibo Deng]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5013563049][Weitai Wu]], [[https://openalex.org/A5017401077][Shuyu Zhang]], [[https://openalex.org/A5014881567][Hassanien Gomaa]], [[https://openalex.org/A5048675576][Cuihua An]], [[https://openalex.org/A5090597551][Ning Hu]], [[https://openalex.org/A5025874763][Xiaopeng Han]], ChemPlusChem. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5058502784][Qibo Deng]], [[https://openalex.org/A5078024000][Shuang Chen]], [[https://openalex.org/A5013563049][Weitai Wu]], [[https://openalex.org/A5017401077][Shuyu Zhang]], [[https://openalex.org/A5014881567][Hassanien Gomaa]], [[https://openalex.org/A5048675576][Cuihua An]], [[https://openalex.org/A5090597551][Ning Hu]], [[https://openalex.org/A5025874763][Xiaopeng Han]], ChemPlusChem. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cplu.202300688")][Get bibtex entry]] 
 
@@ -534,6 +604,32 @@ With the advancement of scientific research, the introduction of external physic
 
     
 
+** A Cluster-Type Self-Healing Catalyst for Stable Saline–Alkali Water Splitting   
+:PROPERTIES:
+:ID: https://openalex.org/W4390986406
+:DOI: https://doi.org/10.3390/catal14010081
+:AUTHORS: [[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]]
+:HOST: Catalysts
+:END:
+
+Open access: True
+    
+[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. 14(1)] 2024. https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14010081")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390986406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390986406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390986406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390986406
+    
+[[https://openalex.org/A5002285545][Haiming Wang]], [[https://openalex.org/A5039744969][Sheng Chen]], Catalysts. https://doi.org/10.3390/catal14010081
+    
+In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
+
+    
+
 ** Microwave-induced biomass pyrolysis coupled with hydrothermal char composites catalysis to selectively prepare phenols-rich liquid products   
 :PROPERTIES:
 :ID: https://openalex.org/W4390849946
@@ -542,7 +638,9 @@ With the advancement of scientific research, the introduction of external physic
 :HOST: Fuel
 :END:
 
-[[https://openalex.org/A5011443720][Haixiao Wei]], [[https://openalex.org/A5088942597][Kaiming Dong]], [[https://openalex.org/A5024631271][Xiaoyong Men]], [[https://openalex.org/A5040141041][Feiqiang Guo]], [[https://openalex.org/A5015370419][Zhenjie Sun]], [[https://openalex.org/A5050400639][Lingwei Kong]], [[https://openalex.org/A5076596821][Ning Zhao]], [[https://openalex.org/A5065665210][Roger Ruan]], [[https://openalex.org/A5025273762][Yonghui Bai]], Fuel. 363(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5011443720][Haixiao Wei]], [[https://openalex.org/A5088942597][Kaiming Dong]], [[https://openalex.org/A5024631271][Xiaoyong Men]], [[https://openalex.org/A5040141041][Feiqiang Guo]], [[https://openalex.org/A5015370419][Zhenjie Sun]], [[https://openalex.org/A5050400639][Lingwei Kong]], [[https://openalex.org/A5076596821][Ning Zhao]], [[https://openalex.org/A5065665210][Roger Ruan]], [[https://openalex.org/A5025273762][Yonghui Bai]], Fuel. 363(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.130872")][Get bibtex entry]] 
 
@@ -555,53 +653,5 @@ OpenAlex: https://openalex.org/W4390849946
 [[https://openalex.org/A5011443720][Haixiao Wei]], [[https://openalex.org/A5088942597][Kaiming Dong]], [[https://openalex.org/A5024631271][Xiaoyong Men]], [[https://openalex.org/A5040141041][Feiqiang Guo]], [[https://openalex.org/A5015370419][Zhenjie Sun]], [[https://openalex.org/A5050400639][Lingwei Kong]], [[https://openalex.org/A5076596821][Ning Zhao]], [[https://openalex.org/A5065665210][Roger Ruan]], [[https://openalex.org/A5025273762][Yonghui Bai]], Fuel. https://doi.org/10.1016/j.fuel.2024.130872
     
 In this study, three types of hydrothermal char-supported metal nanoparticle composites (HCM-Fe, HCM-Co, and HCM-Ni) were prepared using pinewood as the raw material via an ion hydrothermal pretreatment followed by microwave heating method, which were then served as both catalysts and microwave absorbers to enhance the rapid pyrolysis of pine wood particles for the selective preparation of phenols-rich bio-oil. The combined effects of hydrothermal carbonization and microwave heating enriched the pore structure of the composite surface, yielding ordered carbon structures such as carbon microspheres, carbon nanotubes, and graphite layers. Also, metal nanoparticles were generated and uniformly anchored on the hydrothermal char matrix by the graphite layers. The three types of hydrothermal carbon-based catalysts exhibit excellent microwave absorption performance, facilitating rapid heating of pine particles at a rate as fast as 5.49 °C/s. Among these catalysts, HCM-Co demonstrates the best catalytic performance, efficiently promoting the cleavage of the β-O-4 bond in lignin and achieving a liquid product yield of 38.4 % at 500 °C. The resulting bio-oil is characterized by its richness in phenolic compounds, accounting for 54.9 % of its composition, and partial mitigation of acidity.    
-
-    
-
-** Mercury removal performance of sulfated MnCe catalyst prepared by tobacco waste combustion synthesis   
-:PROPERTIES:
-:ID: https://openalex.org/W4390848176
-:DOI: https://doi.org/10.1016/j.fuel.2024.130894
-:AUTHORS: [[https://openalex.org/A5001032759][Dejun Peng]], [[https://openalex.org/A5091622818][Zijian Zhou]], [[https://openalex.org/A5050774387][Yue Zhou]], [[https://openalex.org/A5087762384][Qi Guo]], [[https://openalex.org/A5013834047][Siyi Peng]], [[https://openalex.org/A5046174386][Xiaowei Liu]], [[https://openalex.org/A5078157881][Minghou Xu]]
-:HOST: Fuel
-:END:
-
-[[https://openalex.org/A5001032759][Dejun Peng]], [[https://openalex.org/A5091622818][Zijian Zhou]], [[https://openalex.org/A5050774387][Yue Zhou]], [[https://openalex.org/A5087762384][Qi Guo]], [[https://openalex.org/A5013834047][Siyi Peng]], [[https://openalex.org/A5046174386][Xiaowei Liu]], [[https://openalex.org/A5078157881][Minghou Xu]], Fuel. 363(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.130894")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848176"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848176"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848176"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390848176
-    
-[[https://openalex.org/A5001032759][Dejun Peng]], [[https://openalex.org/A5091622818][Zijian Zhou]], [[https://openalex.org/A5050774387][Yue Zhou]], [[https://openalex.org/A5087762384][Qi Guo]], [[https://openalex.org/A5013834047][Siyi Peng]], [[https://openalex.org/A5046174386][Xiaowei Liu]], [[https://openalex.org/A5078157881][Minghou Xu]], Fuel. https://doi.org/10.1016/j.fuel.2024.130894
-    
-MnOx-CeO2 is a promising catalyst for Hg0 removal from coal flue gas at ∼150 °C but exhibits insufficient catalytic activity. Even though sulfation enhances the catalytic activity of MnOx-CeO2, gas-phase sulfation leads to SO2 poisoning and catalyst deactivation. In this study, we developed a liquid-phase sulfation strategy involving the direct combustion of cigarette butts soaked in a solution of sulfate and metal precursors to directly synthesize sulfated MnCe catalyst (SMC). SMC was characterized via N2 adsorption–desorption isotherms, SEM-EDS, XRD, XPS, and Hg-TPD. Both the MnCe catalyst and SMC exhibited good Hg0 oxidation efficiencies (66.46 % and 88.76 %, respectively) at 150 °C. The enhanced performance of SMC was attributed to the generation of abundant chemically adsorbed oxygen species on the SMC surface during sulfation. Moreover, the synergistic effect between the Ce4+ and Mn4+ species contributed to the improved catalytic performance of SMC. This strategy not only provides a one-step synthesis of sulfated catalysts but also has potential applications in Hg0 removal from coal flue gas in coal-fired power plants.    
-
-    
-
-** Functionalized palm biomass-derived activated carbon for the removal of Pt(IV) from a simulated leachate   
-:PROPERTIES:
-:ID: https://openalex.org/W4390848579
-:DOI: https://doi.org/10.1016/j.biombioe.2024.107055
-:AUTHORS: [[https://openalex.org/A5037608299][M.L. Firmansyah]], [[https://openalex.org/A5093683814][Natalia I. Wulan]], [[https://openalex.org/A5093683815][Alifya P. Nurisca]], [[https://openalex.org/A5055560979][Karthickeyan Viswanathan]], [[https://openalex.org/A5022181476][Aishah Abdul Jalil]]
-:HOST: Biomass and Bioenergy
-:END:
-
-[[https://openalex.org/A5037608299][M.L. Firmansyah]], [[https://openalex.org/A5093683814][Natalia I. Wulan]], [[https://openalex.org/A5093683815][Alifya P. Nurisca]], [[https://openalex.org/A5055560979][Karthickeyan Viswanathan]], [[https://openalex.org/A5022181476][Aishah Abdul Jalil]], Biomass and Bioenergy. 181(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.biombioe.2024.107055")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848579"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848579"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848579"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390848579
-    
-[[https://openalex.org/A5037608299][M.L. Firmansyah]], [[https://openalex.org/A5093683814][Natalia I. Wulan]], [[https://openalex.org/A5093683815][Alifya P. Nurisca]], [[https://openalex.org/A5055560979][Karthickeyan Viswanathan]], [[https://openalex.org/A5022181476][Aishah Abdul Jalil]], Biomass and Bioenergy. https://doi.org/10.1016/j.biombioe.2024.107055
-    
-Over the years, demand for Platinum Group Metals (PGMs) has grown steadily due to increased production of various advanced technologies, such as automotive and electronic products. PGMs are predominantly used in automotive catalysts in the automotive industry. Along with the increase in automotive production, deactivated automotive catalysts pose environmental and health hazards. These wastes are excellent alternative sources of PGMs, which can be exploited to bridge the gap between the demand and supply of PGMs. Adsorption is one of the most popular metal removal/recovery methods due to its various advantages, such as ease of use and cost-effectiveness. In consideration of this method, developing an inexpensive and efficient adsorbent is a crucial point. Thus, activated carbon (AC), derived from a palm kernel shell that is abundantly available in Indonesia, was functionalized using ionic liquid (ACIL) and used for Pt(IV) removal from a simulated automotive catalyst waste leachate. The functionalized AC showed a high adsorption capacity (178.6 mg g−1), in which the adsorption of Pt(IV) followed a chemisorption route, fitting with the monolayer model. The functionalized adsorbent also showed excellent performance during continuous Pt(IV) adsorption from simulated leachate. Recovery of precious metals, such as Pt(IV) and Pd(II), from the simulated leachate containing other metals was possible by maintaining the high hydrochloric acid concentration. Furthermore, targeted separation of Pt(IV) was achieved through sequential desorption using NaClO4. In addition, ACIL showed remarkable reusability after being used for three cycles without showing a noticeable decrease in performance. Thus, this study highlights the capability of a functionalized adsorbent from palm oil industry biomass to recover precious metals from simulated leachate of automotive waste.    
 
     

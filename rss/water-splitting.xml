@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 16:33:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 17:25:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -20,10 +20,10 @@
     <item>
       <title>Reinforced electrochemical energy storage through controlled construction of hierarchical hollow &#946;-Ni(OH)2 microspheres enriched with oxygen vacancies induced by functionalized MWCNTs</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.159331</link>
-      <description>Zhi-Jia Sun, J. Chen, Xiao&#8208;Man Cao, Hao Ge, Daliang Liu, Qiong Wu, Xi&#8211;Ming Song, Applied Surface Science. None(None)] 2024. https://openalex.org/W4390636146
+      <description>Zhi-Jia Sun, J. Chen, Xiao&#8208;Man Cao, Hao Ge, Daliang Liu, Qiong Wu, Xi&#8208;Ming Song, Applied Surface Science. None(None)] 2024. https://openalex.org/W4390636146
 
                 As promising electrode materials, hollow-structured metallic oxides/hydroxides have attracted extensive attention for their significantly enhanced catalyst and electrochemical performances. In practice, however, it is still challenging to construct well-dispersed hollow structures using facile and versatile template-free methods. And, as a result of the weak conductivity of most metallic oxides/hydroxides, it is a particularly effective means to integrate metallic oxides/hydroxides with carbon-based conductive substrates or introduce oxygen vacancies for further promoting reaction kinetics and achieving boosted electrochemical performance. Herein, a novel composite material consisting of oxygen-rich vacancy &#946;-Ni(OH)2 coupled with oxidized multi-wall carbon nanotubes (Ov-N&#946;/Cm) was synthesized using a one-step hydrothermal technique without the need for templates. The hierarchical hollow microsphere structure was achieved by utilizing oxidized multi-wall carbon nanotubes (MWCNTs) as an alternative to conventional surfactants or templates. The uniform distribution of multistage pores in the newly designed Ov-N&#946;/Cm composite facilitates the transportation of electrolyte ions, thereby endowing it with outstanding electrochemical performance. A straightforward technique for producing high-quality Ni(OH)2-based electrode materials is presented in this investigation, along with fresh perspectives on the formation mechanism of hollow-structured composites. Developing MWCNT-based hollow nanostructured composites with oxygen vacancies-enriched will offer an essential novel avenue to exploit excellent electrode materials for supercapacitors and other energy storage systems.</description>
-      <author>Zhi-Jia Sun, J. Chen, Xiao&#8208;Man Cao, Hao Ge, Daliang Liu, Qiong Wu, Xi&#8211;Ming Song</author>
+      <author>Zhi-Jia Sun, J. Chen, Xiao&#8208;Man Cao, Hao Ge, Daliang Liu, Qiong Wu, Xi&#8208;Ming Song</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159331</guid>
     </item>
@@ -258,6 +258,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.006</guid>
     </item>
     <item>
+      <title>Advancing oxygen evolution electrocatalysis with human-machine intelligence</title>
+      <link>https://doi.org/10.1016/j.checat.2023.100868</link>
+      <description>Liping Liu, Siwen Wang, Chen Ling, Hongliang Xin, Chem Catalysis. 4(1)] 2024. https://openalex.org/W4391043168
+
+                In this article, Hongliang Xin (associate professor at Virginia Tech), Chen Ling (senior principal research scientist at Toyota), and their colleagues discuss the critical challenges in developing high-performance electrocatalysts for the oxygen evolution reaction (OER), particularly by emphasizing the role of artificial intelligence (AI) in materials exploration and discovery. They highlight the necessity of a collaborative human-machine intelligence approach to overcome the complexities of OER catalysis and accelerate the advancement of sustainable energy solutions.</description>
+      <author>Liping Liu, Siwen Wang, Chen Ling, Hongliang Xin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2023.100868</guid>
+    </item>
+    <item>
       <title>Surface reconstruction of La0.6Sr0.4Co0.8Ni0.2O3- perovskite nanofibers for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ceramint.2024.01.211</link>
       <description>Yusong Niu, Xin Chang, Mingyi Zhang, Jingbo Mu, Ceramics International. None(None)] 2024. https://openalex.org/W4390942237
@@ -418,6 +428,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3cc06171j</guid>
     </item>
     <item>
+      <title>Laser assisted oxygen vacancy engineering on Fe doped CoO nanoparticles for oxygen evolution at large current density</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.143841</link>
+      <description>Min Zhu, Zong&#8208;Qiang Sheng, Zhifen Fu, Yang Li, Juan Gao, Chao Zhang, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4391037653
+
+                Exploring cost-effective non-noble metal-based catalysts with high activity and stability is of great significance for energy conversion and storage involving oxygen evolution reaction (OER). Here, we employed a laser irradiation technique to synthesis Fe doped CoO nanoparticles with ultrafine size (&#8776; 5.4 nm) and abundant oxygen vacancies (Fe-Ov-CoO). The ultrafine size of Fe-Ov-CoO nanoparticles provides more active sites to be exposed. Fe doping and oxygen vacancy promote the intrinsic activity and electron transfer rates of Fe-Ov-CoO, giving rise to high activity and stability catalyst for OER. Fe-Ov-CoO delivers a large current density of 1000 mA cm&#8722;2 at an overpotential of 548 mV, which is much better than commercial RuO2. Moreover, Fe-Ov-CoO presents a remarkable long-term stability with negligible degeneration at a high current density of 500 mA cm&#8722;2 for 120 h. This work provides a new route to develop OER electrocatalyst with high activity and stability.</description>
+      <author>Min Zhu, Zong&#8208;Qiang Sheng, Zhifen Fu, Yang Li, Juan Gao, Chao Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.143841</guid>
+    </item>
+    <item>
       <title>In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction</title>
       <link>https://doi.org/10.1038/s41598-023-50361-4</link>
       <description>Yanhong Lv, Xiangquan Deng, Jingjing Ding, Zhaohui Yang, Scientific Reports. 14(1)] 2024. https://openalex.org/W4390758015
@@ -466,26 +486,6 @@
       <author>Yuhang Wu, Yuwen Li, Ling Shen, Quanwen Pan, Ye Tao, Junkuo Gao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jssc.2024.124559</guid>
-    </item>
-    <item>
-      <title>Benchmarking Stability of Iridium Oxide in Acidic Media under Oxygen Evolution Conditions: A Review: Part II</title>
-      <link>https://doi.org/10.1595/205651324x17055018154113</link>
-      <description>James Murawski, S&#248;ren B. Scott, Reshma R. Rao, Katie Rigg, Christopher Mark Zalitis, James Stevens, Jonathan Sharman, Gareth Hinds, Ifan E. L. Stephens, Johnson Matthey Technology Review. None(None)] 2024. https://openalex.org/W4390987310
-
-                Part I (1) introduced state-of-the-art proton exchange membrane (PEM) electrolysers with iridium-based catalysts for oxygen evolution at the anode in green hydrogen applications. Aqueous model systems and full cell testing were discussed along with proton exchange membrane water electrolyser (PEMWE) catalyst degradation mechanisms, types of iridium oxide, mechanisms of iridium dissolution and stability studies. In Part II, we highlight considerations and best practices for the investigation of activity and stability of oxygen evolution catalysts via short term testing.</description>
-      <author>James Murawski, S&#248;ren B. Scott, Reshma R. Rao, Katie Rigg, Christopher Mark Zalitis, James Stevens, Jonathan Sharman, Gareth Hinds, Ifan E. L. Stephens</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1595/205651324x17055018154113</guid>
-    </item>
-    <item>
-      <title>Dynamic stabilization of nickel-based oxygen evolution electrocatalysts in the presence of chloride ions using a phosphate additive</title>
-      <link>https://doi.org/10.1039/d3ta05566c</link>
-      <description>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe, No host. None(None)] 2024. https://openalex.org/W4390796596
-
-                The phosphate stabilizes Ni and borate maintains an appropriate pH for durable oxygen evolution, even with Cl &#8722; .</description>
-      <author>Hiroki Komiya, Keisuke Obata, Tetsuo Honma, Kazuhiro Takanabe</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05566c</guid>
     </item>
   </channel>
 </rss>

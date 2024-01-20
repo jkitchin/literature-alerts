@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 16:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 17:25:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -198,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202303512</guid>
     </item>
     <item>
+      <title>A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition</title>
+      <link>https://doi.org/10.1016/j.cjche.2023.12.017</link>
+      <description>Peng Jiang, Hao Zhang, Guanhan Zhao, Lin Li, Tuo Ji, Liwen Mu, Xiaohua L&#252;, Jiahua Zhu, Chinese Journal of Chemical Engineering. None(None)] 2024. https://openalex.org/W4391037978
+
+                In the carbonate industry, deep decarbonization strategies are necessary to effectively remediate CO2. These strategies mainly include both sustainable energy supplies and the conversion of CO2 in downstream processes. This study developed a coupled process of biomass chemical looping H2 production and reductive calcination of CaCO3. Firstly, a mass and energy balance of the coupled process was established in Aspen Plus. Following this, process optimization and energy integration were implemented to provide optimized operation conditions. Lastly, a life cycle assessment was carried out to assess the carbon footprint of the coupled process. Results reveal that the decomposition temperature of CaCO3 in an H2 atmosphere can be reduced to 780 oC (generally around 900 oC), and the conversion of CO2 from CaCO3 decomposition reached 81.33% with an H2:CO ratio of 2.49 in gaseous products. By optimizing systemic energy through heat integration, an energy efficiency of 86.30% was achieved. Additionally, the carbon footprint analysis revealed that the process with energy integration had a low GWP of -2.624 kgCO2-eq&#183;kg-CaO-1. Conclusively, this work performed a systematic analysis of introducing biomass-derived H2 into CaCO3 calcination and demonstrated the positive role of reductive calcination using green H2 in mitigating CO2 emissions within the carbonate industry.</description>
+      <author>Peng Jiang, Hao Zhang, Guanhan Zhao, Lin Li, Tuo Ji, Liwen Mu, Xiaohua L&#252;, Jiahua Zhu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cjche.2023.12.017</guid>
+    </item>
+    <item>
       <title>Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction</title>
       <link>https://doi.org/10.1016/j.apsusc.2023.159243</link>
       <description>Youming Dong, Xingcheng Ma, Zhaoyong Jin, Xin Xu, Tianyi Xu, Dantong Zhang, Xiaoqiang Cui, Applied Surface Science. None(None)] 2024. https://openalex.org/W4390640110
@@ -328,6 +338,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mb7hn</guid>
     </item>
     <item>
+      <title>Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface</title>
+      <link>https://doi.org/10.1038/s41467-024-44896-x</link>
+      <description>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4391022908
+
+                Abstract Molecular understanding of the solid&#8211;liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M + ), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO 2 RR) on coinage metals, and the activity and selectivity of CO 2 RR could be further enhanced with the cation changing from Li + to Cs + , while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M + in CO 2 RR on Cu surface. A monotonically decreasing CO 2 activation barrier is obtained from Li + to Cs + , which is attributed to the different coordination abilities of M + with *CO 2 . Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO 2 RR on Cu surfaces, where H + is repelled from the interface and constrained by M + . Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO 2 RR.</description>
+      <author>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-44896-x</guid>
+    </item>
+    <item>
       <title>Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-lckq9</link>
       <description>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano, No host. None(None)] 2024. https://openalex.org/W4390953941
@@ -336,26 +356,6 @@
       <author>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano</author>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-lckq9</guid>
-    </item>
-    <item>
-      <title>A global synthesis of reported urban tree carbon production rates and approaches</title>
-      <link>https://doi.org/10.3389/fevo.2023.1244418</link>
-      <description>G. Darrel Jenerette, Dustin L. Herrmann, Frontiers in Ecology and Evolution. 11(None)] 2024. https://openalex.org/W4390695934
-
-                Trees are a prominent feature of urban ecosystems. Urban tree productivity is a key component of urban ecosystem energetics and has been identified as a possible pathway for reducing global greenhouse gas concentrations. Recently, extensive research has been directed to evaluating the carbon dynamics of urban trees in cities throughout the world. Here, we synthesize this research, using results from previous studies from 154 cities to identify the distribution of urban tree productivity globally and the basis for generating urban tree productivity estimates. Reported urban tree productivity shows a strong relationship with estimated tree carbon content and exhibits increases with both temperature and precipitation, with land cover differences influencing the degree of climate sensitivity. Compared with a reference productivity estimate, urban trees showed greatly reduced estimated rates of productivity and the magnitude of reduced productivity was inversely correlated with precipitation but was independent of temperature. Reported rates of productivity across all studies suggest climate restrictions that are more important with less intensively managed land covers. Scaling these results globally suggests a limited opportunity for urban trees to contribute to atmospheric carbon dioxide reductions, especially in the absence of major carbon emission reductions. We found that the majority of results are derived from tree inventories from a single period with rates of productivity estimate through quasi-empirical or allometric models. The majority of studies have been conducted in temperate biomes and North America. These results show that existing urban tree assessments have substantial methodological restrictions and regional biases. Future research of urban tree productivity should look toward improved methods and can use this synthesis as a baseline for comparisons and improvement.</description>
-      <author>G. Darrel Jenerette, Dustin L. Herrmann</author>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fevo.2023.1244418</guid>
-    </item>
-    <item>
-      <title>Challenges and opportunities of atomic-scales reactive sites in thriving electrochemical CO2 reduction reaction</title>
-      <link>https://doi.org/10.1016/j.nantod.2024.102152</link>
-      <description>Pengliang Sun, Sailin Liu, Xiong Zheng, Guangzhi Hu, Qingran Zhang, Xinchao Liu, Guoxiang Zheng, Yinguang Chen, Nano Today. 55(None)] 2024. https://openalex.org/W4390848392
-
-                Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into value-added chemicals or fuels to realize carbon recycling as means to solve the problems of renewable energy shortage and environmental pollution. The development of cost-effective CO2RR catalysts with high activity, stability and selectivity is the key that enables efficient conversion from CO2 to valuable products. It is also important to understand intrinsic mechanisms of the underlying active-site that affect the performances of catalysts, which can, in turn, facilitate the rational design of more active electrocatalysts. In this context, it is particularly important to understand the structure-activity relationship of catalyst active sites during the CO2RR process from different atomic-scales, which inspires to organize this review. Specifically, we focus on the atomic-level construction of active sites from single atoms, dual-site metal, clusters, or/and graphitic carbon materials: key approaches for tailoring coordination configurations to enhance target product selectivity, i.e., optimizing the interplay between the catalytic active center and reactants or intermediates, disrupting the linear correlation of intermediate adsorption energies, and promoting intricate cascading reactions involving multiple intermediates. Highlight the intricate correlation between the structure-activity of CO2RR catalysts, which govern the discerning refinement of catalysts and propel advances in their practical application. Then, the electrocatalytic reactors for ECO2R reactions are critically reviewed. The acquisition of key metrics, the challenges faced, and the most suitable solutions for electrocatalytic CO2RR are proposed. Finally, future research directions and strategies are anticipated to inspire revolutionary advancements.</description>
-      <author>Pengliang Sun, Sailin Liu, Xiong Zheng, Guangzhi Hu, Qingran Zhang, Xinchao Liu, Guoxiang Zheng, Yinguang Chen</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nantod.2024.102152</guid>
     </item>
     <item>
       <title>Unconventional and Emerging Approaches to CO2 Reduction</title>
@@ -376,6 +376,16 @@
       <author>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e</guid>
+    </item>
+    <item>
+      <title>Progress in design and preparation of multi-atom catalysts for photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1007/s40843-023-2698-5</link>
+      <description>Zhonghao Wang, Guojun Zou, Jae Hyung Park, Kan Zhang, Science China Materials. None(None)] 2024. https://openalex.org/W4391035964
+
+                Photocatalytic CO2 reduction towards various fuels is of significant interest under the background of mitigating the global warming induced by CO2 emission and lowering the depletion of fossil fuels. However, state-of-the-art photocatalysts still suffer from sluggish reaction dynamics and frustrated product selectivity, especially for C2+ generations, which are of great interest for industrial applications. Over the past decades, comprehensive research on solar-driven CO2 reduction has consistently unveiled some encouraging results in meaningful pathways and architectural design of active sites over photocatalysts. This review highlights the recent advances in boosting photocatalytic CO2 reduction of atomically dispersed catalysts via engineered active sites, including two separated active sites, paired dual-active sites, and nanoclusters based on the configuration of active sites. Both the mechanism of CO2 activation over active sites and advanced characterization methods are discussed in detail. Particularly, in consideration of the wide gap between fundamental research and practical applications, the integrations of experimental and theoretical results are analyzed to realize the underlying structure-activity relationships as well as promising selectivity toward target products. Finally, the remaining challenges in the field are outlined, and inquisitive perspectives with a focus on the rational design of active sites and mechanistic investigation are proposed.</description>
+      <author>Zhonghao Wang, Guojun Zou, Jae Hyung Park, Kan Zhang</author>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-023-2698-5</guid>
     </item>
     <item>
       <title>Boosting effect of encapsulated polyoxometalates in the photocatalytic CO2 reduction activity of MOF-545</title>
@@ -438,6 +448,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.coche.2023.100999</guid>
     </item>
     <item>
+      <title>Electrocatalytic activity of CO2 reduction to CO on cadmium sulfide enhanced by chloride anion doping</title>
+      <link>https://doi.org/10.1002/chem.202303422</link>
+      <description>Mingyan Wang, Weiqi Cao, Jingkun Yu, Dexin Yang, Kongsheng Qi, Yang Zhao, Zhixin Hua, Hongping Li, Siyu Lu, No host. None(None)] 2024. https://openalex.org/W4391034523
+
+                The electrocatalytic CO2 reduction (ECR) to produce valuable fuel is a promising process for addressing atmospheric CO2 emissions and energy shortages. In this study, Cl&#8208;anion doped cadmium sulfide structures were directly fabricated on a nickel foam surface (Cl/CdS&#8208;NF) using an in situ hydrothermal method. The Cl&#8208;anion doping could significantly improve ECR activity for CO production in ionic liquid and acetonitrile mixed solution, compared to pristine CdS. The highest Faradaic efficiency of CO is 98.1% on a Cl/CdS&#8208;NF&#8208;2 cathode with an excellent current density of 137.0 mA cm&#8722;2 at &#8722;2.25 V versus ferrocene/ferrocenium (Fc/Fc+, all potentials are versus Fc/Fc+ in this study). In particular, CO Faradaic efficiencies remained above 80% in a wide potential range of &#8722;2.05 V to &#8722;2.45 V and a maximum partial current density (192.6 mA cm&#8722;2) was achieved at &#8722;2.35 V. The Cl/CdS&#8208;NF&#8208;2, with appropriate Cl anions, displayed abundant active sites and a suitable electronic structure, resulting in outstanding ECR activity. Density functional theory calculations further demonstrated that Cl/CdS is beneficial for increasing the adsorption capacities of *COOH and *H, which can enhance the activity of the ECR toward CO and suppress the hydrogen evolution reaction.</description>
+      <author>Mingyan Wang, Weiqi Cao, Jingkun Yu, Dexin Yang, Kongsheng Qi, Yang Zhao, Zhixin Hua, Hongping Li, Siyu Lu</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202303422</guid>
+    </item>
+    <item>
       <title>Facile Construction of Metal&#8211;Organic Framework/Topological Insulator Heterostructure for Photothermal Catalytic CO2 Reduction</title>
       <link>https://doi.org/10.1039/d3tc04332k</link>
       <description>Jing Sun, Xunfeng Yuan, Baoying Liu, Songde Ma, Chengfang Qiao, Journal of Materials Chemistry C. None(None)] 2024. https://openalex.org/W4390685478
@@ -456,6 +476,26 @@
       <author>Liam Banerji, Hansaem Jang, Adrian M. Gardner, Alexander J. Cowan</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3sc05295h</guid>
+    </item>
+    <item>
+      <title>Challenges and opportunities of atomic-scales reactive sites in thriving electrochemical CO2 reduction reaction</title>
+      <link>https://doi.org/10.1016/j.nantod.2024.102152</link>
+      <description>Pengliang Sun, Sailin Liu, Xiong Zheng, Guangzhi Hu, Qingran Zhang, Xinchao Liu, Guoxiang Zheng, Yinguang Chen, Nano Today. 55(None)] 2024. https://openalex.org/W4390848392
+
+                Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into value-added chemicals or fuels to realize carbon recycling as means to solve the problems of renewable energy shortage and environmental pollution. The development of cost-effective CO2RR catalysts with high activity, stability and selectivity is the key that enables efficient conversion from CO2 to valuable products. It is also important to understand intrinsic mechanisms of the underlying active-site that affect the performances of catalysts, which can, in turn, facilitate the rational design of more active electrocatalysts. In this context, it is particularly important to understand the structure-activity relationship of catalyst active sites during the CO2RR process from different atomic-scales, which inspires to organize this review. Specifically, we focus on the atomic-level construction of active sites from single atoms, dual-site metal, clusters, or/and graphitic carbon materials: key approaches for tailoring coordination configurations to enhance target product selectivity, i.e., optimizing the interplay between the catalytic active center and reactants or intermediates, disrupting the linear correlation of intermediate adsorption energies, and promoting intricate cascading reactions involving multiple intermediates. Highlight the intricate correlation between the structure-activity of CO2RR catalysts, which govern the discerning refinement of catalysts and propel advances in their practical application. Then, the electrocatalytic reactors for ECO2R reactions are critically reviewed. The acquisition of key metrics, the challenges faced, and the most suitable solutions for electrocatalytic CO2RR are proposed. Finally, future research directions and strategies are anticipated to inspire revolutionary advancements.</description>
+      <author>Pengliang Sun, Sailin Liu, Xiong Zheng, Guangzhi Hu, Qingran Zhang, Xinchao Liu, Guoxiang Zheng, Yinguang Chen</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nantod.2024.102152</guid>
+    </item>
+    <item>
+      <title>Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.123703</link>
+      <description>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li, Applied Catalysis B: Environmental. 345(None)] 2024. https://openalex.org/W4390636108
+
+                Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.</description>
+      <author>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123703</guid>
     </item>
     <item>
       <title>Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4</title>
@@ -478,24 +518,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.086</guid>
     </item>
     <item>
-      <title>Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.123703</link>
-      <description>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li, Applied Catalysis B: Environmental. 345(None)] 2024. https://openalex.org/W4390636108
+      <title>Facile synthesis of self-nitrogen-doped carbon spheres for high-efficient photocatalytic CO2 reduction to CO</title>
+      <link>https://doi.org/10.1016/j.matlet.2024.135887</link>
+      <description>Zhiyan Dong, Yudong Wang, Xiaochao Zhang, Xiushuai Guan, Changming Zhang, Wensheng Wu, Caimei Fan, Materials Letters. None(None)] 2024. https://openalex.org/W4390651239
 
-                Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.</description>
-      <author>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123703</guid>
-    </item>
-    <item>
-      <title>Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction</title>
-      <link>https://openalex.org/W4391010815</link>
-      <description>Youven Benseghir, Albert Sol&#233;-Daur&#225;, Mathis Duguet, Pierre Mialane, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Anne Dolbecq, Caroline Mellot&#8208;Draznieks, No host. None(None)] 2021. https://openalex.org/W4391010815
-
-                No abstract</description>
-      <author>Youven Benseghir, Albert Sol&#233;-Daur&#225;, Mathis Duguet, Pierre Mialane, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Anne Dolbecq, Caroline Mellot&#8208;Draznieks</author>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4391010815</guid>
+                In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepared by hydrothermal and carbonation pyrolysis with first application in photocatalytic CO2 reduction. Coupled with relevant characterization, nitrogen-doped carbon microspheres were successfully prepared and the introduction of nitrogen significantly improved the photogenerated charge separation efficiency and CO2 photoreduction to CO activity, leading to the highest photocatalytic reduction activity with a CO yield of 185.71 &#956;mol g&#8722;1 (9 h) under simulated sunlight irradiation. More importantly, its performance remains at about 98 % after ten consecutive cycle tests, indicating the excellent active stability of self-nitrogen-doped carbon spheres. Possible mechanisms for photocatalytic reduction and the role of nitrogen in photocatalytic adsorption and reduction processes are analyzed and proposed. The research provides novel strategies for the design of bifunctional catalysts that offer robust adsorption and efficient reduction, enabling the sustainable conversion of CO2.</description>
+      <author>Zhiyan Dong, Yudong Wang, Xiaochao Zhang, Xiushuai Guan, Changming Zhang, Wensheng Wu, Caimei Fan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.135887</guid>
     </item>
     <item>
       <title>Facilely Tunable Dodecahedral POM Framework Loaded with Mono- or Bimetallic Sites for Efficient Photocatalytic CO2 Reduction</title>
@@ -508,14 +538,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123733</guid>
     </item>
     <item>
-      <title>Facile synthesis of self-nitrogen-doped carbon spheres for high-efficient photocatalytic CO2 reduction to CO</title>
-      <link>https://doi.org/10.1016/j.matlet.2024.135887</link>
-      <description>Zhiyan Dong, Yudong Wang, Xiaochao Zhang, Xiushuai Guan, Changming Zhang, Wensheng Wu, Caimei Fan, Materials Letters. None(None)] 2024. https://openalex.org/W4390651239
+      <title>Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction</title>
+      <link>https://openalex.org/W4391010815</link>
+      <description>Youven Benseghir, Albert Sol&#233;-Daur&#225;, Mathis Duguet, Pierre Mialane, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Anne Dolbecq, Caroline Mellot&#8208;Draznieks, No host. None(None)] 2021. https://openalex.org/W4391010815
 
-                In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepared by hydrothermal and carbonation pyrolysis with first application in photocatalytic CO2 reduction. Coupled with relevant characterization, nitrogen-doped carbon microspheres were successfully prepared and the introduction of nitrogen significantly improved the photogenerated charge separation efficiency and CO2 photoreduction to CO activity, leading to the highest photocatalytic reduction activity with a CO yield of 185.71 &#956;mol g&#8722;1 (9 h) under simulated sunlight irradiation. More importantly, its performance remains at about 98 % after ten consecutive cycle tests, indicating the excellent active stability of self-nitrogen-doped carbon spheres. Possible mechanisms for photocatalytic reduction and the role of nitrogen in photocatalytic adsorption and reduction processes are analyzed and proposed. The research provides novel strategies for the design of bifunctional catalysts that offer robust adsorption and efficient reduction, enabling the sustainable conversion of CO2.</description>
-      <author>Zhiyan Dong, Yudong Wang, Xiaochao Zhang, Xiushuai Guan, Changming Zhang, Wensheng Wu, Caimei Fan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.135887</guid>
+                No abstract</description>
+      <author>Youven Benseghir, Albert Sol&#233;-Daur&#225;, Mathis Duguet, Pierre Mialane, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Anne Dolbecq, Caroline Mellot&#8208;Draznieks</author>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4391010815</guid>
     </item>
     <item>
       <title>Binary Junctions Enhance Electron Storage and Potential Difference for Photo-Assisted Electrocatalytic Co2 Reduction to Hcooh</title>
@@ -536,26 +566,6 @@
       <author>Xiang-Da Zhang, Jian-Mei Huang, Xiaorong Zhu, Chang Liu, Yue Yin, Jiayi Huang, Ming Xu, Yafei Li, Zhi&#8208;Yuan Gu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690201</guid>
-    </item>
-    <item>
-      <title>Promoted Selectivity of Photocatalytic CO2 reduction to C2H4 via Hybrid CuxCoSy Possessing Dual Unsaturated Sites</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.123704</link>
-      <description>Yu Nie, Yanfang Li, Chen An, Xin Tan, Zhuofeng Hu, Jinhua Ye, Tao Yu, Applied Catalysis B: Environmental. None(None)] 2024. https://openalex.org/W4390781704
-
-                Ethylene production by CO2 reduction is sluggish because the repulsive dipole-dipole interaction and 12 proton-coupled electron-transfer steps consecutively. Amorphous structured photocatalysts possess few grain boundaries and abundant unsaturated sites, accelerating the reaction efficiency from the angle of dynamics and thermodynamics, which still not yet be used in PCR to C2 products currently. Herein, an amorphous CuxCoSy composed of the minority crystalline CuCo2S4 is fabricated to realize an excellent C2H4 selectivity in terms of Relectron (94.9%). Unsaturated Co and S play the key roles in the improved efficiency of C2H4 generation. C-C coupling is achieved via shortening Co-S bonds distance, and &#8270;CO-&#8270;CO coupling barrier is decreased by more electrons accumulated on unsaturated S. Water is adsorbed on Co adjacent to S and provide protons for &#8270;COCO to form &#8270;CH2=C. This work paves a new way for broadening the efficient of C2H4 photocatalytic evolution using amorphous photocatalyst.</description>
-      <author>Yu Nie, Yanfang Li, Chen An, Xin Tan, Zhuofeng Hu, Jinhua Ye, Tao Yu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123704</guid>
-    </item>
-    <item>
-      <title>In situ constructed B-CdS/Cd Schottky junctions for efficient photocatalytic CO2 reduction under visible light</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.103926</link>
-      <description>R. Li, Zhenhua Dai, Tim Hui-Ming Huang, Qianqian Zhang, Xunfu Zhou, Zhongli Peng, Zuotao Liu, Yueping Fang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4390987589
-
-                CdS with a visible light response and energy band location suitable for CO2 photoreduction has received extensive attention. However, low product selectivity and photocatalytic efficiency limit its application. Here, NaBH4 is used as a reducing agent to generate Cd metal on the surface of CdS nanorods in situ. This leads to the construction of a B-CdS/Cd metal cocatalyst/semiconductor structure. This configuration significantly enhanced the CdS's activity of photocatalytic CO2 reduction. The Cd metal which is on the surface of CdS nanorods promoted the separation and transfer of photogenerated charges and increased both light photosensitivity and CO2 adsorption capabilities. The improved B-CdS/Cd catalyst shows excellent CO2 reduction capabilities by generating CO at a rate of 323.39 &#956;mol g&#8722;1 h&#8722;1, which is 2.01 times more than pure CdS, owing to the synergistic enhancements. Simultaneously, Cd acts as an active site inhibiting H2 production during the CO2 reduction reaction. This work demonstrates the potential of Cd metal as a metal cocatalyst in photocatalytic CO2 reduction.</description>
-      <author>R. Li, Zhenhua Dai, Tim Hui-Ming Huang, Qianqian Zhang, Xunfu Zhou, Zhongli Peng, Zuotao Liu, Yueping Fang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.103926</guid>
     </item>
   </channel>
 </rss>

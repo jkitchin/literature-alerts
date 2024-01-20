@@ -1,9 +1,9 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Jan 20 16:33:46 2024
+Created on Sat Jan 20 17:25:25 2024
 
-Found 55 results from 2024-01-06 to 2024-01-20
+Found 56 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction]]
@@ -16,7 +16,9 @@ OpenAlex URLS (not including from_created_date or the API key)
 :HOST: Applied Catalysis B: Environmental
 :END:
 
-[[https://openalex.org/A5066466833][Haijiao Lu]], [[https://openalex.org/A5042282225][Luyao Wang]], Applied Catalysis B: Environmental. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5066466833][Haijiao Lu]], [[https://openalex.org/A5042282225][Luyao Wang]], Applied Catalysis B: Environmental. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123707")][Get bibtex entry]] 
 
@@ -40,7 +42,9 @@ As atmospheric carbon dioxide (CO2) levels surge due to human activities, addres
 :HOST: Angewandte Chemie
 :END:
 
-[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5042932900][Yu‐Shen Liu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5018366822][Qinglan Zhao]], [[https://openalex.org/A5018528154][Ping Gao]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5042932900][Yu‐Shen Liu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5018366822][Qinglan Zhao]], [[https://openalex.org/A5018528154][Ping Gao]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202313858")][Get bibtex entry]] 
 
@@ -64,7 +68,9 @@ Catalysts involving post‐transition metals have shown almost invincible perfor
 :HOST: Angewandte Chemie International Edition
 :END:
 
-[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5042932900][Yu‐Shen Liu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5018366822][Qinglan Zhao]], [[https://openalex.org/A5056167840][Ping Gao]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie International Edition. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5042932900][Yu‐Shen Liu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5018366822][Qinglan Zhao]], [[https://openalex.org/A5056167840][Ping Gao]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie International Edition. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202313858")][Get bibtex entry]] 
 
@@ -88,7 +94,9 @@ Catalysts involving post‐transition metals have shown almost invincible perfor
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5031914965][Taekeun Yoo]], [[https://openalex.org/A5065903349][Y.H. Yoo]], [[https://openalex.org/A5067611739][Seon-Woo Byun]], [[https://openalex.org/A5013952223][A-Ram You]], [[https://openalex.org/A5061924691][Changhee Park]], [[https://openalex.org/A5091770039][Dae-Hyun Choi]], [[https://openalex.org/A5041867415][Woo-Seung Lee]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5031914965][Taekeun Yoo]], [[https://openalex.org/A5065903349][Y.H. Yoo]], [[https://openalex.org/A5067611739][Seon-Woo Byun]], [[https://openalex.org/A5013952223][A-Ram You]], [[https://openalex.org/A5061924691][Changhee Park]], [[https://openalex.org/A5091770039][Dae-Hyun Choi]], [[https://openalex.org/A5041867415][Woo-Seung Lee]], No host. None(None)] 2024. https://www.researchsquare.com/article/rs-3836511/latest.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-3836511/v1")][Get bibtex entry]] 
 
@@ -112,7 +120,9 @@ Abstract To prevent global warming, various technologies are being developed to 
 :HOST: Chemical Communications
 :END:
 
-[[https://openalex.org/A5032418340][Hua Jiang]], [[https://openalex.org/A5068411634][Yajing Di]], [[https://openalex.org/A5033886161][Yunle Gu]], [[https://openalex.org/A5035727547][Yu Chen]], [[https://openalex.org/A5033783993][Meiling Dou]], [[https://openalex.org/A5085462947][Zhengping Zhang]], [[https://openalex.org/A5016670960][Feng Wang]], Chemical Communications. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5032418340][Hua Jiang]], [[https://openalex.org/A5068411634][Yajing Di]], [[https://openalex.org/A5033886161][Yunle Gu]], [[https://openalex.org/A5035727547][Yu Chen]], [[https://openalex.org/A5033783993][Meiling Dou]], [[https://openalex.org/A5085462947][Zhengping Zhang]], [[https://openalex.org/A5016670960][Feng Wang]], Chemical Communications. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cc05844a")][Get bibtex entry]] 
 
@@ -136,7 +146,9 @@ One type of carbonyl-linked cobalt polyphthalocyanine (CL-CoPPc) is synthesised 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5044283271][Xiquan Fu]], [[https://openalex.org/A5049562781][Ziyu Ma]], [[https://openalex.org/A5006328735][L.L. Liu]], [[https://openalex.org/A5027906141][Sajjad Hussain]], [[https://openalex.org/A5067813768][Dongwei Ma]], [[https://openalex.org/A5080944639][Shilong Jiao]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5044283271][Xiquan Fu]], [[https://openalex.org/A5049562781][Ziyu Ma]], [[https://openalex.org/A5006328735][L.L. Liu]], [[https://openalex.org/A5027906141][Sajjad Hussain]], [[https://openalex.org/A5067813768][Dongwei Ma]], [[https://openalex.org/A5080944639][Shilong Jiao]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4689859")][Get bibtex entry]] 
 
@@ -160,7 +172,9 @@ Electrochemical conversion of carbon dioxide into formic acid has been demonstra
 :HOST: International Journal of Hydrogen Energy
 :END:
 
-[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5091844504][Afdhal Yuda]], [[https://openalex.org/A5042313856][Parisa Ebrahimi]], [[https://openalex.org/A5083118237][Josephine Selvaraj]], [[https://openalex.org/A5034418975][Anand Kumar]], [[https://openalex.org/A5009923215][Vaidyanathan Subramanian]], International Journal of Hydrogen Energy. 57(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.01.022")][Get bibtex entry]] 
 
@@ -184,7 +198,9 @@ Carbon capture and conversion are becoming increasingly important as atmospheric
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5037389256][Michael Edward Lev Massen-Hane]], [[https://openalex.org/A5019447853][Kyle M. Diederichsen]], [[https://openalex.org/A5046348268][T. Alan Hatton]], No host. 1(1)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5037389256][Michael Edward Lev Massen-Hane]], [[https://openalex.org/A5019447853][Kyle M. Diederichsen]], [[https://openalex.org/A5046348268][T. Alan Hatton]], No host. 1(1)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s44286-023-00003-3")][Get bibtex entry]] 
 
@@ -208,7 +224,9 @@ With ever-increasing atmospheric carbon dioxide concentrations and commitments t
 :HOST: Journal of Colloid and Interface Science
 :END:
 
-[[https://openalex.org/A5046345736][Meiling Liu]], [[https://openalex.org/A5015144181][Jayaraman Balamurugan]], [[https://openalex.org/A5035654478][Tongxiang Liang]], [[https://openalex.org/A5044538497][Chao Liu]], Journal of Colloid and Interface Science. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5046345736][Meiling Liu]], [[https://openalex.org/A5015144181][Jayaraman Balamurugan]], [[https://openalex.org/A5035654478][Tongxiang Liang]], [[https://openalex.org/A5044538497][Chao Liu]], Journal of Colloid and Interface Science. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.051")][Get bibtex entry]] 
 
@@ -232,7 +250,9 @@ Bimetal atom catalysts (BACs) hold significant potential for various application
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5054432850][Tengyi Liu]], [[https://openalex.org/A5045153170][Hiroshi Yabu]], No host. 5(1)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5054432850][Tengyi Liu]], [[https://openalex.org/A5045153170][Hiroshi Yabu]], No host. 5(1)] 2024. https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aesr.202470001
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aesr.202470001")][Get bibtex entry]] 
 
@@ -256,7 +276,9 @@ Biomass-Derived Electrocatalysts In article number 2300168, Tengyi Liu, and Hiro
 :HOST: Journal of Cleaner Production
 :END:
 
-[[https://openalex.org/A5013690081][Yang Liu]], [[https://openalex.org/A5046853311][Chunbao Zhou]], [[https://openalex.org/A5076999164][Asif Ali Siyal]], [[https://openalex.org/A5072331448][Chenglong Liu]], [[https://openalex.org/A5077293966][Yingwen Zhang]], [[https://openalex.org/A5004325054][Jie Fu]], [[https://openalex.org/A5054765827][Huimin Yun]], [[https://openalex.org/A5065911244][Jianjun Dai]], [[https://openalex.org/A5090354103][Xiaotao Bi]], Journal of Cleaner Production. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5013690081][Yang Liu]], [[https://openalex.org/A5046853311][Chunbao Zhou]], [[https://openalex.org/A5076999164][Asif Ali Siyal]], [[https://openalex.org/A5072331448][Chenglong Liu]], [[https://openalex.org/A5077293966][Yingwen Zhang]], [[https://openalex.org/A5004325054][Jie Fu]], [[https://openalex.org/A5054765827][Huimin Yun]], [[https://openalex.org/A5065911244][Jianjun Dai]], [[https://openalex.org/A5090354103][Xiaotao Bi]], Journal of Cleaner Production. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jclepro.2024.140750")][Get bibtex entry]] 
 
@@ -280,7 +302,9 @@ In this paper, a cleaner pyrolysis strategy combining microwave heating, catalys
 :HOST: ChemSusChem
 :END:
 
-[[https://openalex.org/A5032506444][Saswati Santra]], [[https://openalex.org/A5009979031][Verena Streibel]], [[https://openalex.org/A5044703500][Laura I. Wagner]], [[https://openalex.org/A5021692036][Ningyan Cheng]], [[https://openalex.org/A5038169912][Ding Pan]], [[https://openalex.org/A5004164166][Guanda Zhou]], [[https://openalex.org/A5052076422][Elise Sirotti]], [[https://openalex.org/A5036243978][Ryan Kisslinger]], [[https://openalex.org/A5074605033][Tim Rieth]], [[https://openalex.org/A5026066949][Siyuan Zhang]], [[https://openalex.org/A5067422150][Ian D. Sharp]], ChemSusChem. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5032506444][Saswati Santra]], [[https://openalex.org/A5009979031][Verena Streibel]], [[https://openalex.org/A5044703500][Laura I. Wagner]], [[https://openalex.org/A5021692036][Ningyan Cheng]], [[https://openalex.org/A5038169912][Ding Pan]], [[https://openalex.org/A5004164166][Guanda Zhou]], [[https://openalex.org/A5052076422][Elise Sirotti]], [[https://openalex.org/A5036243978][Ryan Kisslinger]], [[https://openalex.org/A5074605033][Tim Rieth]], [[https://openalex.org/A5026066949][Siyuan Zhang]], [[https://openalex.org/A5067422150][Ian D. Sharp]], ChemSusChem. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202301452")][Get bibtex entry]] 
 
@@ -304,7 +328,9 @@ Control over product selectivity of the electrocatalytic CO2 reduction reaction 
 :HOST: Proceedings of the National Academy of Sciences of the United States of America
 :END:
 
-[[https://openalex.org/A5089077705][Qingzhen Wang]], [[https://openalex.org/A5010234675][Bin Liu]], [[https://openalex.org/A5001426883][Shujie Wang]], [[https://openalex.org/A5069848293][Peng Zhang]], [[https://openalex.org/A5066370833][Tuo Wang]], [[https://openalex.org/A5047030779][Jinlong Gong]], Proceedings of the National Academy of Sciences of the United States of America. 121(4)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5089077705][Qingzhen Wang]], [[https://openalex.org/A5010234675][Bin Liu]], [[https://openalex.org/A5001426883][Shujie Wang]], [[https://openalex.org/A5069848293][Peng Zhang]], [[https://openalex.org/A5066370833][Tuo Wang]], [[https://openalex.org/A5047030779][Jinlong Gong]], Proceedings of the National Academy of Sciences of the United States of America. 121(4)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1073/pnas.2316724121")][Get bibtex entry]] 
 
@@ -328,7 +354,9 @@ Photoelectrochemical (PEC) carbon dioxide (CO2) reduction (CO2R) holds the poten
 :HOST: Precision Chemistry
 :END:
 
-[[https://openalex.org/A5062278897][Guangfu Liao]], [[https://openalex.org/A5083749310][Guixiang Ding]], [[https://openalex.org/A5055594201][Bin Yang]], [[https://openalex.org/A5088434794][Chunxue Li]], Precision Chemistry. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5062278897][Guangfu Liao]], [[https://openalex.org/A5083749310][Guixiang Ding]], [[https://openalex.org/A5055594201][Bin Yang]], [[https://openalex.org/A5088434794][Chunxue Li]], Precision Chemistry. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/prechem.3c00112
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/prechem.3c00112")][Get bibtex entry]] 
 
@@ -352,7 +380,9 @@ An energy crisis and significant anthropogenic CO2 emissions as a result of risi
 :HOST: Nano Letters
 :END:
 
-[[https://openalex.org/A5034872224][Aisulu Aitbekova]], [[https://openalex.org/A5079861547][Nicholas B. Watkins]], [[https://openalex.org/A5072433173][Matthias H. Richter]], [[https://openalex.org/A5042520017][Phillip Jahelka]], [[https://openalex.org/A5057055428][Jonas C. Peters]], [[https://openalex.org/A5004911977][Theodor Agapie]], [[https://openalex.org/A5082887836][Harry A. Atwater]], Nano Letters. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5034872224][Aisulu Aitbekova]], [[https://openalex.org/A5079861547][Nicholas B. Watkins]], [[https://openalex.org/A5072433173][Matthias H. Richter]], [[https://openalex.org/A5042520017][Phillip Jahelka]], [[https://openalex.org/A5057055428][Jonas C. Peters]], [[https://openalex.org/A5004911977][Theodor Agapie]], [[https://openalex.org/A5082887836][Harry A. Atwater]], Nano Letters. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.nanolett.3c03590")][Get bibtex entry]] 
 
@@ -376,7 +406,9 @@ Photoelectrochemical CO2 reduction (CO2R) is an appealing solution for convertin
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5001934074][Elena Plaza-Mayoral]], [[https://openalex.org/A5018856830][Valery Okatenko]], [[https://openalex.org/A5026251278][Kim N. Dalby]], [[https://openalex.org/A5091012326][Hanne Falsig]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5079498717][Paula Sebastián‐Pascual]], [[https://openalex.org/A5026837841][María Escudero‐Escribano]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5001934074][Elena Plaza-Mayoral]], [[https://openalex.org/A5018856830][Valery Okatenko]], [[https://openalex.org/A5026251278][Kim N. Dalby]], [[https://openalex.org/A5091012326][Hanne Falsig]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5079498717][Paula Sebastián‐Pascual]], [[https://openalex.org/A5026837841][María Escudero‐Escribano]], No host. None(None)] 2024. https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65a796cf9138d231611c2449/original/composition-effects-of-electrodeposited-cu-ag-nanostructured-electrocatalysts-for-co2-reduction.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-tfkhh")][Get bibtex entry]] 
 
@@ -400,7 +432,9 @@ The electrochemical reduction of carbon dioxide (CO2RR) to valuable C2+ liquid f
 :HOST: Nano Research Energy
 :END:
 
-[[https://openalex.org/A5025855204][Rongrong Li]], [[https://openalex.org/A5058501731][Hehe Wei]], [[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5071574675][Zixiang Su]], [[https://openalex.org/A5062523981][X. G. Gong]], Nano Research Energy. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5025855204][Rongrong Li]], [[https://openalex.org/A5058501731][Hehe Wei]], [[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5071574675][Zixiang Su]], [[https://openalex.org/A5062523981][X. G. Gong]], Nano Research Energy. None(None)] 2024. https://file.sciopen.com/sciopen_public/1747873898448973825.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.26599/nre.2024.9120112")][Get bibtex entry]] 
 
@@ -424,7 +458,9 @@ Electrocatalytic carbon dioxide reduction reaction (CO2RR) holds the promise of 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5049709719][Mazhar Khan]], [[https://openalex.org/A5003303773][Zeeshan Akmal]], [[https://openalex.org/A5003238643][Muhammad Tayyab]], [[https://openalex.org/A5070908155][Seemal Mansoor]], [[https://openalex.org/A5086947282][Adnan Zeb]], [[https://openalex.org/A5068766141][Ziwei Ye]], [[https://openalex.org/A5001457544][Jinlong Zhang]], [[https://openalex.org/A5067320385][Shiqun Wu]], [[https://openalex.org/A5050352409][Lingzhi Wang]], No host. 11(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5049709719][Mazhar Khan]], [[https://openalex.org/A5003303773][Zeeshan Akmal]], [[https://openalex.org/A5003238643][Muhammad Tayyab]], [[https://openalex.org/A5070908155][Seemal Mansoor]], [[https://openalex.org/A5086947282][Adnan Zeb]], [[https://openalex.org/A5068766141][Ziwei Ye]], [[https://openalex.org/A5001457544][Jinlong Zhang]], [[https://openalex.org/A5067320385][Shiqun Wu]], [[https://openalex.org/A5050352409][Lingzhi Wang]], No host. 11(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ccst.2024.100191")][Get bibtex entry]] 
 
@@ -448,7 +484,9 @@ Photocatalytic reduction of carbon dioxide (CO2) presents a pivotal solution to 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5019871772][Elisa Rossi]], [[https://openalex.org/A5082611443][Diego Sorbelli]], [[https://openalex.org/A5052163219][Paola Belanzoni]], [[https://openalex.org/A5058779678][Leonardo Belpassi]], [[https://openalex.org/A5000460535][Gianluca Ciancaleoni]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5019871772][Elisa Rossi]], [[https://openalex.org/A5082611443][Diego Sorbelli]], [[https://openalex.org/A5052163219][Paola Belanzoni]], [[https://openalex.org/A5058779678][Leonardo Belpassi]], [[https://openalex.org/A5000460535][Gianluca Ciancaleoni]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202303512")][Get bibtex entry]] 
 
@@ -464,6 +502,32 @@ We analyzed the ligand electronic effect in the reaction between a [LAu(I)H]0/�
 
     
 
+** A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition   
+:PROPERTIES:
+:ID: https://openalex.org/W4391037978
+:DOI: https://doi.org/10.1016/j.cjche.2023.12.017
+:AUTHORS: [[https://openalex.org/A5017430213][Peng Jiang]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5089446069][Guanhan Zhao]], [[https://openalex.org/A5058965019][Lin Li]], [[https://openalex.org/A5022762913][Tuo Ji]], [[https://openalex.org/A5066372594][Liwen Mu]], [[https://openalex.org/A5048052547][Xiaohua Lü]], [[https://openalex.org/A5024790419][Jiahua Zhu]]
+:HOST: Chinese Journal of Chemical Engineering
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5017430213][Peng Jiang]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5089446069][Guanhan Zhao]], [[https://openalex.org/A5058965019][Lin Li]], [[https://openalex.org/A5022762913][Tuo Ji]], [[https://openalex.org/A5066372594][Liwen Mu]], [[https://openalex.org/A5048052547][Xiaohua Lü]], [[https://openalex.org/A5024790419][Jiahua Zhu]], Chinese Journal of Chemical Engineering. None(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cjche.2023.12.017")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391037978"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391037978"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391037978"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391037978
+    
+[[https://openalex.org/A5017430213][Peng Jiang]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5089446069][Guanhan Zhao]], [[https://openalex.org/A5058965019][Lin Li]], [[https://openalex.org/A5022762913][Tuo Ji]], [[https://openalex.org/A5066372594][Liwen Mu]], [[https://openalex.org/A5048052547][Xiaohua Lü]], [[https://openalex.org/A5024790419][Jiahua Zhu]], Chinese Journal of Chemical Engineering. https://doi.org/10.1016/j.cjche.2023.12.017
+    
+In the carbonate industry, deep decarbonization strategies are necessary to effectively remediate CO2. These strategies mainly include both sustainable energy supplies and the conversion of CO2 in downstream processes. This study developed a coupled process of biomass chemical looping H2 production and reductive calcination of CaCO3. Firstly, a mass and energy balance of the coupled process was established in Aspen Plus. Following this, process optimization and energy integration were implemented to provide optimized operation conditions. Lastly, a life cycle assessment was carried out to assess the carbon footprint of the coupled process. Results reveal that the decomposition temperature of CaCO3 in an H2 atmosphere can be reduced to 780 oC (generally around 900 oC), and the conversion of CO2 from CaCO3 decomposition reached 81.33% with an H2:CO ratio of 2.49 in gaseous products. By optimizing systemic energy through heat integration, an energy efficiency of 86.30% was achieved. Additionally, the carbon footprint analysis revealed that the process with energy integration had a low GWP of -2.624 kgCO2-eq·kg-CaO-1. Conclusively, this work performed a systematic analysis of introducing biomass-derived H2 into CaCO3 calcination and demonstrated the positive role of reductive calcination using green H2 in mitigating CO2 emissions within the carbonate industry.    
+
+    
+
 ** Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390640110
@@ -472,7 +536,9 @@ We analyzed the ligand electronic effect in the reaction between a [LAu(I)H]0/�
 :HOST: Applied Surface Science
 :END:
 
-[[https://openalex.org/A5008457124][Youming Dong]], [[https://openalex.org/A5043593230][Xingcheng Ma]], [[https://openalex.org/A5045710217][Zhaoyong Jin]], [[https://openalex.org/A5036163052][Xin Xu]], [[https://openalex.org/A5051440813][Tianyi Xu]], [[https://openalex.org/A5043123102][Dantong Zhang]], [[https://openalex.org/A5086736710][Xiaoqiang Cui]], Applied Surface Science. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5008457124][Youming Dong]], [[https://openalex.org/A5043593230][Xingcheng Ma]], [[https://openalex.org/A5045710217][Zhaoyong Jin]], [[https://openalex.org/A5036163052][Xin Xu]], [[https://openalex.org/A5051440813][Tianyi Xu]], [[https://openalex.org/A5043123102][Dantong Zhang]], [[https://openalex.org/A5086736710][Xiaoqiang Cui]], Applied Surface Science. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2023.159243")][Get bibtex entry]] 
 
@@ -496,7 +562,9 @@ Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction r
 :HOST: Chemical Engineering Science
 :END:
 
-[[https://openalex.org/A5093694460][Kannie Winston Kuttin]], [[https://openalex.org/A5021859077][Asma Leghari]], [[https://openalex.org/A5078348179][Hai Yu]], [[https://openalex.org/A5071640024][Zihong Xia]], [[https://openalex.org/A5083721182][Lu Ding]], [[https://openalex.org/A5003907985][Guangsuo Yu]], Chemical Engineering Science. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5093694460][Kannie Winston Kuttin]], [[https://openalex.org/A5021859077][Asma Leghari]], [[https://openalex.org/A5078348179][Hai Yu]], [[https://openalex.org/A5071640024][Zihong Xia]], [[https://openalex.org/A5083721182][Lu Ding]], [[https://openalex.org/A5003907985][Guangsuo Yu]], Chemical Engineering Science. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ces.2024.119716")][Get bibtex entry]] 
 
@@ -520,7 +588,9 @@ Experimental and numerical evaluation of steam and carbon dioxide gasification o
 :HOST: Journal of Alloys and Compounds
 :END:
 
-[[https://openalex.org/A5044804439][Wenda Zhang]], [[https://openalex.org/A5007515159][Yizhong Zou]], [[https://openalex.org/A5071785481][Ming Chen]], [[https://openalex.org/A5057775896][Wen Jiang]], [[https://openalex.org/A5052882772][Xiaodong Yan]], Journal of Alloys and Compounds. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5044804439][Wenda Zhang]], [[https://openalex.org/A5007515159][Yizhong Zou]], [[https://openalex.org/A5071785481][Ming Chen]], [[https://openalex.org/A5057775896][Wen Jiang]], [[https://openalex.org/A5052882772][Xiaodong Yan]], Journal of Alloys and Compounds. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.173488")][Get bibtex entry]] 
 
@@ -544,7 +614,9 @@ Controlling the valence states of copper is pivotal in determining the selectivi
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5015863205][Haihui Liu]], [[https://openalex.org/A5074378034][Xiaowen Zhou]], [[https://openalex.org/A5032032704][Kangli Xu]], [[https://openalex.org/A5054743377][Heng Zhang]], [[https://openalex.org/A5036723504][Huan Wang]], [[https://openalex.org/A5059995305][Hongqing Zhou]], [[https://openalex.org/A5013084576][Hangrong Chen]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5015863205][Haihui Liu]], [[https://openalex.org/A5074378034][Xiaowen Zhou]], [[https://openalex.org/A5032032704][Kangli Xu]], [[https://openalex.org/A5054743377][Heng Zhang]], [[https://openalex.org/A5036723504][Huan Wang]], [[https://openalex.org/A5059995305][Hongqing Zhou]], [[https://openalex.org/A5013084576][Hangrong Chen]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4697343")][Get bibtex entry]] 
 
@@ -568,7 +640,9 @@ Excessive CO2 emission has caused serious environmental problems, and converting
 :HOST: Modeling Earth Systems and Environment
 :END:
 
-[[https://openalex.org/A5002219158][I. Haque]], [[https://openalex.org/A5036003023][Mohammad Moshiur Rahman]], [[https://openalex.org/A5011709319][Md. Sahil Rafiq]], [[https://openalex.org/A5093693771][Mohammad Shakhawat Hosen Apurba]], [[https://openalex.org/A5057007396][Nadim Reza Khandaker]], Modeling Earth Systems and Environment. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5002219158][I. Haque]], [[https://openalex.org/A5036003023][Mohammad Moshiur Rahman]], [[https://openalex.org/A5011709319][Md. Sahil Rafiq]], [[https://openalex.org/A5093693771][Mohammad Shakhawat Hosen Apurba]], [[https://openalex.org/A5057007396][Nadim Reza Khandaker]], Modeling Earth Systems and Environment. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40808-023-01933-w")][Get bibtex entry]] 
 
@@ -592,7 +666,9 @@ No abstract
 :HOST: Journal of Colloid and Interface Science
 :END:
 
-[[https://openalex.org/A5019450682][Qiming Zhang]], [[https://openalex.org/A5038889077][Linhao Liu]], [[https://openalex.org/A5059632641][Tong‐Qi Yuan]], [[https://openalex.org/A5050215551][Juan Hou]], [[https://openalex.org/A5035504703][Xiaodong Yang]], Journal of Colloid and Interface Science. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5019450682][Qiming Zhang]], [[https://openalex.org/A5038889077][Linhao Liu]], [[https://openalex.org/A5059632641][Tong‐Qi Yuan]], [[https://openalex.org/A5050215551][Juan Hou]], [[https://openalex.org/A5035504703][Xiaodong Yang]], Journal of Colloid and Interface Science. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.030")][Get bibtex entry]] 
 
@@ -616,7 +692,9 @@ Finding efficient photocatalytic carbon dioxide reduction catalysts is one of th
 :HOST: Small
 :END:
 
-[[https://openalex.org/A5000836661][Yongteng Qian]], [[https://openalex.org/A5066738004][Fangfang Zhang]], [[https://openalex.org/A5026571332][Xingguang Luο]], [[https://openalex.org/A5037880072][Yijun Zhong]], [[https://openalex.org/A5061505485][Dae Joon Kang]], [[https://openalex.org/A5004880276][Yong Hu]], Small. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5000836661][Yongteng Qian]], [[https://openalex.org/A5066738004][Fangfang Zhang]], [[https://openalex.org/A5026571332][Xingguang Luο]], [[https://openalex.org/A5037880072][Yijun Zhong]], [[https://openalex.org/A5061505485][Dae Joon Kang]], [[https://openalex.org/A5004880276][Yong Hu]], Small. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202310526")][Get bibtex entry]] 
 
@@ -640,7 +718,9 @@ Abstract Featured with the attractive properties such as large surface area, uni
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5057281614][Xianwen Zhang]], [[https://openalex.org/A5000197949][Feiyue Cao]], [[https://openalex.org/A5088116668][Peng Hao]], [[https://openalex.org/A5051158759][Yang Cao]], [[https://openalex.org/A5002419717][Taotao Zhou]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5057281614][Xianwen Zhang]], [[https://openalex.org/A5000197949][Feiyue Cao]], [[https://openalex.org/A5088116668][Peng Hao]], [[https://openalex.org/A5051158759][Yang Cao]], [[https://openalex.org/A5002419717][Taotao Zhou]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4695651")][Get bibtex entry]] 
 
@@ -664,7 +744,9 @@ To mitigate greenhouse effects, carbon dioxide reduction reaction (CO2RR) has be
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5068041035][Jichen Bao]], [[https://openalex.org/A5093472391][Tejas Somvanshi]], [[https://openalex.org/A5045432123][Ying Tian]], [[https://openalex.org/A5093032219][Maxime Gabriel Laird]], [[https://openalex.org/A5014625536][Pierre Garcia]], [[https://openalex.org/A5041347017][Christian Schöne]], [[https://openalex.org/A5072152901][Michael Rother]], [[https://openalex.org/A5025882044][Guillaume Borrel]], [[https://openalex.org/A5052318836][Silvan Scheller]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5068041035][Jichen Bao]], [[https://openalex.org/A5093472391][Tejas Somvanshi]], [[https://openalex.org/A5045432123][Ying Tian]], [[https://openalex.org/A5093032219][Maxime Gabriel Laird]], [[https://openalex.org/A5014625536][Pierre Garcia]], [[https://openalex.org/A5041347017][Christian Schöne]], [[https://openalex.org/A5072152901][Michael Rother]], [[https://openalex.org/A5025882044][Guillaume Borrel]], [[https://openalex.org/A5052318836][Silvan Scheller]], No host. None(None)] 2024. https://www.biorxiv.org/content/biorxiv/early/2024/01/09/2024.01.08.574737.full.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1101/2024.01.08.574737")][Get bibtex entry]] 
 
@@ -688,7 +770,9 @@ Methanogens are essential players in the global carbon cycle. Methanosarcinales 
 :HOST: Molecular Physics
 :END:
 
-[[https://openalex.org/A5073754209][Xuelian She]], [[https://openalex.org/A5022808269][Lin Cheng]], [[https://openalex.org/A5018863416][Ying Wang]], [[https://openalex.org/A5051363890][Kai Li]], [[https://openalex.org/A5037586164][Zhijian Wu]], Molecular Physics. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5073754209][Xuelian She]], [[https://openalex.org/A5022808269][Lin Cheng]], [[https://openalex.org/A5018863416][Ying Wang]], [[https://openalex.org/A5051363890][Kai Li]], [[https://openalex.org/A5037586164][Zhijian Wu]], Molecular Physics. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1080/00268976.2024.2303394")][Get bibtex entry]] 
 
@@ -712,7 +796,9 @@ Developing highly efficient catalysts for carbon dioxide reduction reaction (CO2
 :HOST: Journal of the American Chemical Society
 :END:
 
-[[https://openalex.org/A5030114701][Giulia Dall’Osto]], [[https://openalex.org/A5034214423][Margherita Marsili]], [[https://openalex.org/A5038585202][Mirko Vanzan]], [[https://openalex.org/A5049528343][Daniele Toffoli]], [[https://openalex.org/A5084612398][Mauro Stener]], [[https://openalex.org/A5078141074][Stefano Corni]], [[https://openalex.org/A5037684430][Emanuele Coccia]], Journal of the American Chemical Society. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5030114701][Giulia Dall’Osto]], [[https://openalex.org/A5034214423][Margherita Marsili]], [[https://openalex.org/A5038585202][Mirko Vanzan]], [[https://openalex.org/A5049528343][Daniele Toffoli]], [[https://openalex.org/A5084612398][Mauro Stener]], [[https://openalex.org/A5078141074][Stefano Corni]], [[https://openalex.org/A5037684430][Emanuele Coccia]], Journal of the American Chemical Society. None(None)] 2024. https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12470
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.3c12470")][Get bibtex entry]] 
 
@@ -736,7 +822,9 @@ Plasmonic-driven photocatalysis may lead to reaction selectivity that cannot be 
 :HOST: ChemElectroChem
 :END:
 
-[[https://openalex.org/A5080818001][Ling Peng Meng]], [[https://openalex.org/A5013714174][Ebrahim Tayyebi]], [[https://openalex.org/A5004991965][Kai S. Exner]], [[https://openalex.org/A5092197857][Francesc Viñes]], [[https://openalex.org/A5012273051][Francesc Illas]], ChemElectroChem. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5080818001][Ling Peng Meng]], [[https://openalex.org/A5013714174][Ebrahim Tayyebi]], [[https://openalex.org/A5004991965][Kai S. Exner]], [[https://openalex.org/A5092197857][Francesc Viñes]], [[https://openalex.org/A5012273051][Francesc Illas]], ChemElectroChem. None(None)] 2024. https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202300598
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/celc.202300598")][Get bibtex entry]] 
 
@@ -760,7 +848,9 @@ Abstract Electrochemical carbon dioxide reduction (CO 2 RR) is gaining momentum 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5027766501][Elizabeth R. Corson]], [[https://openalex.org/A5065034148][Jinyu Guo]], [[https://openalex.org/A5064386118][William A. Tarpeh]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5027766501][Elizabeth R. Corson]], [[https://openalex.org/A5065034148][Jinyu Guo]], [[https://openalex.org/A5064386118][William A. Tarpeh]], No host. None(None)] 2024. https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/659ef6939138d23161a0e248/original/atr-seiras-method-to-measure-interfacial-p-h-during-electrocatalytic-nitrate-reduction-on-cu.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-mb7hn")][Get bibtex entry]] 
 
@@ -776,6 +866,32 @@ This study reports the accuracy and applications of an attenuated total reflecta
 
     
 
+** Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface   
+:PROPERTIES:
+:ID: https://openalex.org/W4391022908
+:DOI: https://doi.org/10.1038/s41467-024-44896-x
+:AUTHORS: [[https://openalex.org/A5032631479][Zhichao Zhang]], [[https://openalex.org/A5088591085][Hengyu Li]], [[https://openalex.org/A5038226323][Yangfan Shao]], [[https://openalex.org/A5051784756][Lin Gan]], [[https://openalex.org/A5055954152][Feiyu Kang]], [[https://openalex.org/A5080132089][Wenhui Duan]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], [[https://openalex.org/A5070982282][Jianbao Li]]
+:HOST: Nature Communications
+:END:
+
+Open access: True
+    
+[[https://openalex.org/A5032631479][Zhichao Zhang]], [[https://openalex.org/A5088591085][Hengyu Li]], [[https://openalex.org/A5038226323][Yangfan Shao]], [[https://openalex.org/A5051784756][Lin Gan]], [[https://openalex.org/A5055954152][Feiyu Kang]], [[https://openalex.org/A5080132089][Wenhui Duan]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], [[https://openalex.org/A5070982282][Jianbao Li]], Nature Communications. 15(1)] 2024. https://www.nature.com/articles/s41467-024-44896-x.pdf
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-44896-x")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391022908"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391022908"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391022908"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391022908
+    
+[[https://openalex.org/A5032631479][Zhichao Zhang]], [[https://openalex.org/A5088591085][Hengyu Li]], [[https://openalex.org/A5038226323][Yangfan Shao]], [[https://openalex.org/A5051784756][Lin Gan]], [[https://openalex.org/A5055954152][Feiyu Kang]], [[https://openalex.org/A5080132089][Wenhui Duan]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], [[https://openalex.org/A5070982282][Jianbao Li]], Nature Communications. https://doi.org/10.1038/s41467-024-44896-x
+    
+Abstract Molecular understanding of the solid–liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M + ), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO 2 RR) on coinage metals, and the activity and selectivity of CO 2 RR could be further enhanced with the cation changing from Li + to Cs + , while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M + in CO 2 RR on Cu surface. A monotonically decreasing CO 2 activation barrier is obtained from Li + to Cs + , which is attributed to the different coordination abilities of M + with *CO 2 . Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO 2 RR on Cu surfaces, where H + is repelled from the interface and constrained by M + . Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO 2 RR.    
+
+    
+
 ** Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent   
 :PROPERTIES:
 :ID: https://openalex.org/W4390953941
@@ -784,7 +900,9 @@ This study reports the accuracy and applications of an attenuated total reflecta
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5001934074][Elena Plaza-Mayoral]], [[https://openalex.org/A5026251278][Kim N. Dalby]], [[https://openalex.org/A5091012326][Hanne Falsig]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5079498717][Paula Sebastián‐Pascual]], [[https://openalex.org/A5026837841][María Escudero‐Escribano]], No host. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5001934074][Elena Plaza-Mayoral]], [[https://openalex.org/A5026251278][Kim N. Dalby]], [[https://openalex.org/A5091012326][Hanne Falsig]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5079498717][Paula Sebastián‐Pascual]], [[https://openalex.org/A5026837841][María Escudero‐Escribano]], No host. None(None)] 2024. https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65a173f7e9ebbb4db904762a/original/electrodeposition-of-tuneable-cu-ag-nanostructures-in-a-deep-eutectic-solvent.pdf
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-lckq9")][Get bibtex entry]] 
 
@@ -800,54 +918,6 @@ The green transition requires the preparation of clean, inexpensive, and sustain
 
     
 
-** A global synthesis of reported urban tree carbon production rates and approaches   
-:PROPERTIES:
-:ID: https://openalex.org/W4390695934
-:DOI: https://doi.org/10.3389/fevo.2023.1244418
-:AUTHORS: [[https://openalex.org/A5028237873][G. Darrel Jenerette]], [[https://openalex.org/A5009121790][Dustin L. Herrmann]]
-:HOST: Frontiers in Ecology and Evolution
-:END:
-
-[[https://openalex.org/A5028237873][G. Darrel Jenerette]], [[https://openalex.org/A5009121790][Dustin L. Herrmann]], Frontiers in Ecology and Evolution. 11(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fevo.2023.1244418")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390695934"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390695934"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390695934"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390695934
-    
-[[https://openalex.org/A5028237873][G. Darrel Jenerette]], [[https://openalex.org/A5009121790][Dustin L. Herrmann]], Frontiers in Ecology and Evolution. https://doi.org/10.3389/fevo.2023.1244418
-    
-Trees are a prominent feature of urban ecosystems. Urban tree productivity is a key component of urban ecosystem energetics and has been identified as a possible pathway for reducing global greenhouse gas concentrations. Recently, extensive research has been directed to evaluating the carbon dynamics of urban trees in cities throughout the world. Here, we synthesize this research, using results from previous studies from 154 cities to identify the distribution of urban tree productivity globally and the basis for generating urban tree productivity estimates. Reported urban tree productivity shows a strong relationship with estimated tree carbon content and exhibits increases with both temperature and precipitation, with land cover differences influencing the degree of climate sensitivity. Compared with a reference productivity estimate, urban trees showed greatly reduced estimated rates of productivity and the magnitude of reduced productivity was inversely correlated with precipitation but was independent of temperature. Reported rates of productivity across all studies suggest climate restrictions that are more important with less intensively managed land covers. Scaling these results globally suggests a limited opportunity for urban trees to contribute to atmospheric carbon dioxide reductions, especially in the absence of major carbon emission reductions. We found that the majority of results are derived from tree inventories from a single period with rates of productivity estimate through quasi-empirical or allometric models. The majority of studies have been conducted in temperate biomes and North America. These results show that existing urban tree assessments have substantial methodological restrictions and regional biases. Future research of urban tree productivity should look toward improved methods and can use this synthesis as a baseline for comparisons and improvement.    
-
-    
-
-** Challenges and opportunities of atomic-scales reactive sites in thriving electrochemical CO2 reduction reaction   
-:PROPERTIES:
-:ID: https://openalex.org/W4390848392
-:DOI: https://doi.org/10.1016/j.nantod.2024.102152
-:AUTHORS: [[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]]
-:HOST: Nano Today
-:END:
-
-[[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]], Nano Today. 55(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nantod.2024.102152")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848392"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848392"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848392"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390848392
-    
-[[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]], Nano Today. https://doi.org/10.1016/j.nantod.2024.102152
-    
-Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into value-added chemicals or fuels to realize carbon recycling as means to solve the problems of renewable energy shortage and environmental pollution. The development of cost-effective CO2RR catalysts with high activity, stability and selectivity is the key that enables efficient conversion from CO2 to valuable products. It is also important to understand intrinsic mechanisms of the underlying active-site that affect the performances of catalysts, which can, in turn, facilitate the rational design of more active electrocatalysts. In this context, it is particularly important to understand the structure-activity relationship of catalyst active sites during the CO2RR process from different atomic-scales, which inspires to organize this review. Specifically, we focus on the atomic-level construction of active sites from single atoms, dual-site metal, clusters, or/and graphitic carbon materials: key approaches for tailoring coordination configurations to enhance target product selectivity, i.e., optimizing the interplay between the catalytic active center and reactants or intermediates, disrupting the linear correlation of intermediate adsorption energies, and promoting intricate cascading reactions involving multiple intermediates. Highlight the intricate correlation between the structure-activity of CO2RR catalysts, which govern the discerning refinement of catalysts and propel advances in their practical application. Then, the electrocatalytic reactors for ECO2R reactions are critically reviewed. The acquisition of key metrics, the challenges faced, and the most suitable solutions for electrocatalytic CO2RR are proposed. Finally, future research directions and strategies are anticipated to inspire revolutionary advancements.    
-
-    
-
 ** Unconventional and Emerging Approaches to CO2 Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390878076
@@ -856,7 +926,9 @@ Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into val
 :HOST: Sustainability
 :END:
 
-[[https://openalex.org/A5031060981][Jeffrey G. Bell]], [[https://openalex.org/A5069625825][Thomas Underwood]], Sustainability. 16(2)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5031060981][Jeffrey G. Bell]], [[https://openalex.org/A5069625825][Thomas Underwood]], Sustainability. 16(2)] 2024. https://www.mdpi.com/2071-1050/16/2/713/pdf?version=1705288994
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/su16020713")][Get bibtex entry]] 
 
@@ -880,7 +952,9 @@ This perspective highlights unconventional and emerging approaches to CO2 reduct
 :HOST: EES Catalysis
 :END:
 
-[[https://openalex.org/A5013522313][John Cruz]], [[https://openalex.org/A5043425264][Anna Balog]], [[https://openalex.org/A5030958308][Péter S. Tóth]], [[https://openalex.org/A5090655937][Gábor Bencsik]], [[https://openalex.org/A5001143524][Gergely F. Samu]], [[https://openalex.org/A5075233752][Csaba Janáky]], EES Catalysis. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5013522313][John Cruz]], [[https://openalex.org/A5043425264][Anna Balog]], [[https://openalex.org/A5030958308][Péter S. Tóth]], [[https://openalex.org/A5090655937][Gábor Bencsik]], [[https://openalex.org/A5001143524][Gergely F. Samu]], [[https://openalex.org/A5075233752][Csaba Janáky]], EES Catalysis. None(None)] 2024. https://pubs.rsc.org/en/content/articlepdf/2024/ey/d3ey00222e
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e")][Get bibtex entry]] 
 
@@ -896,6 +970,32 @@ Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the phot
 
     
 
+** Progress in design and preparation of multi-atom catalysts for photocatalytic CO2 reduction   
+:PROPERTIES:
+:ID: https://openalex.org/W4391035964
+:DOI: https://doi.org/10.1007/s40843-023-2698-5
+:AUTHORS: [[https://openalex.org/A5034762794][Zhonghao Wang]], [[https://openalex.org/A5078365590][Guojun Zou]], [[https://openalex.org/A5017792494][Jae Hyung Park]], [[https://openalex.org/A5072000825][Kan Zhang]]
+:HOST: Science China Materials
+:END:
+
+Open access: True
+    
+[[https://openalex.org/A5034762794][Zhonghao Wang]], [[https://openalex.org/A5078365590][Guojun Zou]], [[https://openalex.org/A5017792494][Jae Hyung Park]], [[https://openalex.org/A5072000825][Kan Zhang]], Science China Materials. None(None)] 2024. https://link.springer.com/content/pdf/10.1007/s40843-023-2698-5.pdf
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40843-023-2698-5")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391035964"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391035964"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391035964"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391035964
+    
+[[https://openalex.org/A5034762794][Zhonghao Wang]], [[https://openalex.org/A5078365590][Guojun Zou]], [[https://openalex.org/A5017792494][Jae Hyung Park]], [[https://openalex.org/A5072000825][Kan Zhang]], Science China Materials. https://doi.org/10.1007/s40843-023-2698-5
+    
+Photocatalytic CO2 reduction towards various fuels is of significant interest under the background of mitigating the global warming induced by CO2 emission and lowering the depletion of fossil fuels. However, state-of-the-art photocatalysts still suffer from sluggish reaction dynamics and frustrated product selectivity, especially for C2+ generations, which are of great interest for industrial applications. Over the past decades, comprehensive research on solar-driven CO2 reduction has consistently unveiled some encouraging results in meaningful pathways and architectural design of active sites over photocatalysts. This review highlights the recent advances in boosting photocatalytic CO2 reduction of atomically dispersed catalysts via engineered active sites, including two separated active sites, paired dual-active sites, and nanoclusters based on the configuration of active sites. Both the mechanism of CO2 activation over active sites and advanced characterization methods are discussed in detail. Particularly, in consideration of the wide gap between fundamental research and practical applications, the integrations of experimental and theoretical results are analyzed to realize the underlying structure-activity relationships as well as promising selectivity toward target products. Finally, the remaining challenges in the field are outlined, and inquisitive perspectives with a focus on the rational design of active sites and mechanistic investigation are proposed.    
+
+    
+
 ** Boosting effect of encapsulated polyoxometalates in the photocatalytic CO2 reduction activity of MOF-545   
 :PROPERTIES:
 :ID: https://openalex.org/W4391010819
@@ -904,7 +1004,9 @@ Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the phot
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5007162321][Khouloud Talbi]], [[https://openalex.org/A5088937428][Amanda L. Robinson]], [[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], [[https://openalex.org/A5064073246][Anne Dolbecq]], No host. None(None)] 2023.
+Open access: False
+    
+[[https://openalex.org/A5007162321][Khouloud Talbi]], [[https://openalex.org/A5088937428][Amanda L. Robinson]], [[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], [[https://openalex.org/A5064073246][Anne Dolbecq]], No host. None(None)] 2023. 
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
 
@@ -928,7 +1030,9 @@ No abstract
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5023679657][Zhijun Huang]], [[https://openalex.org/A5075877965][Jie Wang]], [[https://openalex.org/A5009841454][Chunliang Yang]], [[https://openalex.org/A5008434514][Fengqin Yan]], [[https://openalex.org/A5052701690][Guoqing Yuan]], No host. None(None)] 2023.
+Open access: False
+    
+[[https://openalex.org/A5023679657][Zhijun Huang]], [[https://openalex.org/A5075877965][Jie Wang]], [[https://openalex.org/A5009841454][Chunliang Yang]], [[https://openalex.org/A5008434514][Fengqin Yan]], [[https://openalex.org/A5052701690][Guoqing Yuan]], No host. None(None)] 2023. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cy01623d")][Get bibtex entry]] 
 
@@ -952,7 +1056,9 @@ Two-dimensional (2D) photocatalysts loaded with metal nanosheets, posessing enha
 :HOST: Chemical Engineering Journal
 :END:
 
-[[https://openalex.org/A5037308715][Chen Qiao]], [[https://openalex.org/A5080102032][Hao Wang]], [[https://openalex.org/A5043473206][Mingzheng Gu]], [[https://openalex.org/A5037272101][Xiaojun Zhang]], [[https://openalex.org/A5041561377][Guangfeng Wang]], Chemical Engineering Journal. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5037308715][Chen Qiao]], [[https://openalex.org/A5080102032][Hao Wang]], [[https://openalex.org/A5043473206][Mingzheng Gu]], [[https://openalex.org/A5037272101][Xiaojun Zhang]], [[https://openalex.org/A5041561377][Guangfeng Wang]], Chemical Engineering Journal. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148656")][Get bibtex entry]] 
 
@@ -976,7 +1082,9 @@ Inspired by the photosynthesis of green plants in nature, an artificial photosyn
 :HOST: Chemical Engineering Journal
 :END:
 
-[[https://openalex.org/A5039768705][Yong‐Xing He]], [[https://openalex.org/A5072741411][Lin Yin]], [[https://openalex.org/A5085683068][Nanci Yuan]], [[https://openalex.org/A5091370242][Gaoke Zhang]], Chemical Engineering Journal. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5039768705][Yong‐Xing He]], [[https://openalex.org/A5072741411][Lin Yin]], [[https://openalex.org/A5085683068][Nanci Yuan]], [[https://openalex.org/A5091370242][Gaoke Zhang]], Chemical Engineering Journal. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148754")][Get bibtex entry]] 
 
@@ -1000,7 +1108,9 @@ Photocatalytic CO2 reduction (PCR) technology is one of the potential strategies
 :HOST: Journal of Materials Science
 :END:
 
-[[https://openalex.org/A5045398749][Yawen Zhang]], [[https://openalex.org/A5059820183][Njemuwa Nwaji]], [[https://openalex.org/A5019581469][Longmin Wu]], [[https://openalex.org/A5090982721][Mingliang Jin]], [[https://openalex.org/A5006337656][Lemma Teshome Tufa]], [[https://openalex.org/A5064263084][Guofu Zhou]], [[https://openalex.org/A5056628685][Michael Giersig]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5035571884][Tengfei Qiu]], [[https://openalex.org/A5019038885][Eser Metin Akinoglu]], Journal of Materials Science. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5045398749][Yawen Zhang]], [[https://openalex.org/A5059820183][Njemuwa Nwaji]], [[https://openalex.org/A5019581469][Longmin Wu]], [[https://openalex.org/A5090982721][Mingliang Jin]], [[https://openalex.org/A5006337656][Lemma Teshome Tufa]], [[https://openalex.org/A5064263084][Guofu Zhou]], [[https://openalex.org/A5056628685][Michael Giersig]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5035571884][Tengfei Qiu]], [[https://openalex.org/A5019038885][Eser Metin Akinoglu]], Journal of Materials Science. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10853-023-09220-w")][Get bibtex entry]] 
 
@@ -1024,7 +1134,9 @@ No abstract
 :HOST: Current Opinion in Chemical Engineering
 :END:
 
-[[https://openalex.org/A5083596784][Yu Qiao]], [[https://openalex.org/A5082009908][Brian Seger]], Current Opinion in Chemical Engineering. 43(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5083596784][Yu Qiao]], [[https://openalex.org/A5082009908][Brian Seger]], Current Opinion in Chemical Engineering. 43(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.coche.2023.100999")][Get bibtex entry]] 
 
@@ -1040,6 +1152,32 @@ Investigations on electrochemical CO2 reduction reaction (eCO2RR) on copper (Cu)
 
     
 
+** Electrocatalytic activity of CO2 reduction to CO on cadmium sulfide enhanced by chloride anion doping   
+:PROPERTIES:
+:ID: https://openalex.org/W4391034523
+:DOI: https://doi.org/10.1002/chem.202303422
+:AUTHORS: [[https://openalex.org/A5076156463][Mingyan Wang]], [[https://openalex.org/A5090306043][Weiqi Cao]], [[https://openalex.org/A5000696036][Jingkun Yu]], [[https://openalex.org/A5043126719][Dexin Yang]], [[https://openalex.org/A5080528733][Kongsheng Qi]], [[https://openalex.org/A5082445301][Yang Zhao]], [[https://openalex.org/A5088438669][Zhixin Hua]], [[https://openalex.org/A5087742625][Hongping Li]], [[https://openalex.org/A5085836074][Siyu Lu]]
+:HOST: No host
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5076156463][Mingyan Wang]], [[https://openalex.org/A5090306043][Weiqi Cao]], [[https://openalex.org/A5000696036][Jingkun Yu]], [[https://openalex.org/A5043126719][Dexin Yang]], [[https://openalex.org/A5080528733][Kongsheng Qi]], [[https://openalex.org/A5082445301][Yang Zhao]], [[https://openalex.org/A5088438669][Zhixin Hua]], [[https://openalex.org/A5087742625][Hongping Li]], [[https://openalex.org/A5085836074][Siyu Lu]], No host. None(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202303422")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391034523"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391034523"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391034523"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391034523
+    
+[[https://openalex.org/A5076156463][Mingyan Wang]], [[https://openalex.org/A5090306043][Weiqi Cao]], [[https://openalex.org/A5000696036][Jingkun Yu]], [[https://openalex.org/A5043126719][Dexin Yang]], [[https://openalex.org/A5080528733][Kongsheng Qi]], [[https://openalex.org/A5082445301][Yang Zhao]], [[https://openalex.org/A5088438669][Zhixin Hua]], [[https://openalex.org/A5087742625][Hongping Li]], [[https://openalex.org/A5085836074][Siyu Lu]], No host. https://doi.org/10.1002/chem.202303422
+    
+The electrocatalytic CO2 reduction (ECR) to produce valuable fuel is a promising process for addressing atmospheric CO2 emissions and energy shortages. In this study, Cl‐anion doped cadmium sulfide structures were directly fabricated on a nickel foam surface (Cl/CdS‐NF) using an in situ hydrothermal method. The Cl‐anion doping could significantly improve ECR activity for CO production in ionic liquid and acetonitrile mixed solution, compared to pristine CdS. The highest Faradaic efficiency of CO is 98.1% on a Cl/CdS‐NF‐2 cathode with an excellent current density of 137.0 mA cm−2 at −2.25 V versus ferrocene/ferrocenium (Fc/Fc+, all potentials are versus Fc/Fc+ in this study). In particular, CO Faradaic efficiencies remained above 80% in a wide potential range of −2.05 V to −2.45 V and a maximum partial current density (192.6 mA cm−2) was achieved at −2.35 V. The Cl/CdS‐NF‐2, with appropriate Cl anions, displayed abundant active sites and a suitable electronic structure, resulting in outstanding ECR activity. Density functional theory calculations further demonstrated that Cl/CdS is beneficial for increasing the adsorption capacities of *COOH and *H, which can enhance the activity of the ECR toward CO and suppress the hydrogen evolution reaction.    
+
+    
+
 ** Facile Construction of Metal–Organic Framework/Topological Insulator Heterostructure for Photothermal Catalytic CO2 Reduction   
 :PROPERTIES:
 :ID: https://openalex.org/W4390685478
@@ -1048,7 +1186,9 @@ Investigations on electrochemical CO2 reduction reaction (eCO2RR) on copper (Cu)
 :HOST: Journal of Materials Chemistry C
 :END:
 
-[[https://openalex.org/A5071478549][Jing Sun]], [[https://openalex.org/A5000856133][Xunfeng Yuan]], [[https://openalex.org/A5061735109][Baoying Liu]], [[https://openalex.org/A5068927949][Songde Ma]], [[https://openalex.org/A5037037793][Chengfang Qiao]], Journal of Materials Chemistry C. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5071478549][Jing Sun]], [[https://openalex.org/A5000856133][Xunfeng Yuan]], [[https://openalex.org/A5061735109][Baoying Liu]], [[https://openalex.org/A5068927949][Songde Ma]], [[https://openalex.org/A5037037793][Chengfang Qiao]], Journal of Materials Chemistry C. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3tc04332k")][Get bibtex entry]] 
 
@@ -1072,7 +1212,9 @@ Photothermal catalytic CO2 reduction, which combines the advantages of photocata
 :HOST: Chemical Science
 :END:
 
-[[https://openalex.org/A5067148398][Liam Banerji]], [[https://openalex.org/A5070399861][Hansaem Jang]], [[https://openalex.org/A5007746313][Adrian M. Gardner]], [[https://openalex.org/A5081021911][Alexander J. Cowan]], Chemical Science. None(None)] 2024.
+Open access: True
+    
+[[https://openalex.org/A5067148398][Liam Banerji]], [[https://openalex.org/A5070399861][Hansaem Jang]], [[https://openalex.org/A5007746313][Adrian M. Gardner]], [[https://openalex.org/A5081021911][Alexander J. Cowan]], Chemical Science. None(None)] 2024. https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc05295h
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3sc05295h")][Get bibtex entry]] 
 
@@ -1088,6 +1230,58 @@ The nature of the electrolyte cation is known to have a significant impact on el
 
     
 
+** Challenges and opportunities of atomic-scales reactive sites in thriving electrochemical CO2 reduction reaction   
+:PROPERTIES:
+:ID: https://openalex.org/W4390848392
+:DOI: https://doi.org/10.1016/j.nantod.2024.102152
+:AUTHORS: [[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]]
+:HOST: Nano Today
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]], Nano Today. 55(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nantod.2024.102152")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390848392"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390848392"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390848392"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390848392
+    
+[[https://openalex.org/A5011857784][Pengliang Sun]], [[https://openalex.org/A5010032339][Sailin Liu]], [[https://openalex.org/A5028108437][Xiong Zheng]], [[https://openalex.org/A5053355651][Guangzhi Hu]], [[https://openalex.org/A5022142811][Qingran Zhang]], [[https://openalex.org/A5068156145][Xinchao Liu]], [[https://openalex.org/A5039966691][Guoxiang Zheng]], [[https://openalex.org/A5028931040][Yinguang Chen]], Nano Today. https://doi.org/10.1016/j.nantod.2024.102152
+    
+Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into value-added chemicals or fuels to realize carbon recycling as means to solve the problems of renewable energy shortage and environmental pollution. The development of cost-effective CO2RR catalysts with high activity, stability and selectivity is the key that enables efficient conversion from CO2 to valuable products. It is also important to understand intrinsic mechanisms of the underlying active-site that affect the performances of catalysts, which can, in turn, facilitate the rational design of more active electrocatalysts. In this context, it is particularly important to understand the structure-activity relationship of catalyst active sites during the CO2RR process from different atomic-scales, which inspires to organize this review. Specifically, we focus on the atomic-level construction of active sites from single atoms, dual-site metal, clusters, or/and graphitic carbon materials: key approaches for tailoring coordination configurations to enhance target product selectivity, i.e., optimizing the interplay between the catalytic active center and reactants or intermediates, disrupting the linear correlation of intermediate adsorption energies, and promoting intricate cascading reactions involving multiple intermediates. Highlight the intricate correlation between the structure-activity of CO2RR catalysts, which govern the discerning refinement of catalysts and propel advances in their practical application. Then, the electrocatalytic reactors for ECO2R reactions are critically reviewed. The acquisition of key metrics, the challenges faced, and the most suitable solutions for electrocatalytic CO2RR are proposed. Finally, future research directions and strategies are anticipated to inspire revolutionary advancements.    
+
+    
+
+** Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction   
+:PROPERTIES:
+:ID: https://openalex.org/W4390636108
+:DOI: https://doi.org/10.1016/j.apcatb.2024.123703
+:AUTHORS: [[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]]
+:HOST: Applied Catalysis B: Environmental
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. 345(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123703")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390636108"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636108"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636108"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390636108
+    
+[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123703
+    
+Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.    
+
+    
+
 ** Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4   
 :PROPERTIES:
 :ID: https://openalex.org/W4390910665
@@ -1096,7 +1290,9 @@ The nature of the electrolyte cation is known to have a significant impact on el
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5040875463][Mingming Sun]], [[https://openalex.org/A5001713310][Xin Xu]], [[https://openalex.org/A5023534256][Shihao Min]], [[https://openalex.org/A5041722972][Jie He]], [[https://openalex.org/A5061431843][K. Li]], [[https://openalex.org/A5046241877][Longtian Kang]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5040875463][Mingming Sun]], [[https://openalex.org/A5001713310][Xin Xu]], [[https://openalex.org/A5023534256][Shihao Min]], [[https://openalex.org/A5041722972][Jie He]], [[https://openalex.org/A5061431843][K. Li]], [[https://openalex.org/A5046241877][Longtian Kang]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4696662")][Get bibtex entry]] 
 
@@ -1120,7 +1316,9 @@ Copper-based metal-organic framework (Cu-MOF) materials with multiple active sit
 :HOST: Journal of Colloid and Interface Science
 :END:
 
-[[https://openalex.org/A5005436632][Feifei You]], [[https://openalex.org/A5071497962][Tianhao Zhou]], [[https://openalex.org/A5017061461][Jiaxin Li]], [[https://openalex.org/A5053355958][Siqi Huang]], [[https://openalex.org/A5025752853][Chuntao Chang]], [[https://openalex.org/A5086743235][Xiaoyu Fan]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5043956105][Xinbin Ma]], [[https://openalex.org/A5055623679][Dawei Gao]], [[https://openalex.org/A5082699212][Jian Qi]], [[https://openalex.org/A5085296684][Danyang Li]], Journal of Colloid and Interface Science. 660(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5005436632][Feifei You]], [[https://openalex.org/A5071497962][Tianhao Zhou]], [[https://openalex.org/A5017061461][Jiaxin Li]], [[https://openalex.org/A5053355958][Siqi Huang]], [[https://openalex.org/A5025752853][Chuntao Chang]], [[https://openalex.org/A5086743235][Xiaoyu Fan]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5043956105][Xinbin Ma]], [[https://openalex.org/A5055623679][Dawei Gao]], [[https://openalex.org/A5082699212][Jian Qi]], [[https://openalex.org/A5085296684][Danyang Li]], Journal of Colloid and Interface Science. 660(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.086")][Get bibtex entry]] 
 
@@ -1136,78 +1334,6 @@ Solar energy driving CO2 reduction is a potential strategy that not only mitigat
 
     
 
-** Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction   
-:PROPERTIES:
-:ID: https://openalex.org/W4390636108
-:DOI: https://doi.org/10.1016/j.apcatb.2024.123703
-:AUTHORS: [[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]]
-:HOST: Applied Catalysis B: Environmental
-:END:
-
-[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. 345(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123703")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390636108"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636108"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636108"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390636108
-    
-[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123703
-    
-Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.    
-
-    
-
-** Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction   
-:PROPERTIES:
-:ID: https://openalex.org/W4391010815
-:DOI: None
-:AUTHORS: [[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]]
-:HOST: No host
-:END:
-
-[[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], No host. None(None)] 2021.
-    
-[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391010815"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391010815"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391010815"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391010815
-    
-[[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], No host. None
-    
-No abstract    
-
-    
-
-** Facilely Tunable Dodecahedral POM Framework Loaded with Mono- or Bimetallic Sites for Efficient Photocatalytic CO2 Reduction   
-:PROPERTIES:
-:ID: https://openalex.org/W4390858455
-:DOI: https://doi.org/10.1016/j.apcatb.2024.123733
-:AUTHORS: [[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]]
-:HOST: Applied Catalysis B: Environmental
-:END:
-
-[[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]], Applied Catalysis B: Environmental. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123733")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390858455"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390858455"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390858455"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390858455
-    
-[[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]], Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123733
-    
-Utilizing solar energy to drive the conversion of CO2 into high-value chemicals emerged as a promising approach to decrease CO2 emission. Yolk-shell or hollow structure have drawn much attention for photocatalytic CO2 reduction, owing to their efficient CO2 trapping and more active sites exposing. In this study, we employed a simple method to regulate the morphological evolution of K3PW12O40 dodecahedra. After annealing, mono-/bimetallic active species are homogeneously dispersed on K3PW12O40 framework forming PW12@Co and PW12@CoNi, which exhibit good CO production rates of 11.2 and 15.1 μmol/h, respectively, with selectivity of 90.7% and 92.6%. The differences in the activity and selectivity of CO2RR are attributed to the morphology variations of POM and the influence of mono-/bimetallic species. These results are confirmed through the analysis of SEM, TEM, N2 and CO2 adsorption/desorption, PL, EIS and SPV characterizations. In-situ DRIFTS and DFT provide further support for the formation and transformation of intermediate products.    
-
-    
-
 ** Facile synthesis of self-nitrogen-doped carbon spheres for high-efficient photocatalytic CO2 reduction to CO   
 :PROPERTIES:
 :ID: https://openalex.org/W4390651239
@@ -1216,7 +1342,9 @@ Utilizing solar energy to drive the conversion of CO2 into high-value chemicals 
 :HOST: Materials Letters
 :END:
 
-[[https://openalex.org/A5067808391][Zhiyan Dong]], [[https://openalex.org/A5022950764][Yudong Wang]], [[https://openalex.org/A5082266931][Xiaochao Zhang]], [[https://openalex.org/A5002509420][Xiushuai Guan]], [[https://openalex.org/A5006960343][Changming Zhang]], [[https://openalex.org/A5061069727][Wensheng Wu]], [[https://openalex.org/A5051941911][Caimei Fan]], Materials Letters. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5067808391][Zhiyan Dong]], [[https://openalex.org/A5022950764][Yudong Wang]], [[https://openalex.org/A5082266931][Xiaochao Zhang]], [[https://openalex.org/A5002509420][Xiushuai Guan]], [[https://openalex.org/A5006960343][Changming Zhang]], [[https://openalex.org/A5061069727][Wensheng Wu]], [[https://openalex.org/A5051941911][Caimei Fan]], Materials Letters. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.matlet.2024.135887")][Get bibtex entry]] 
 
@@ -1232,6 +1360,58 @@ In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepare
 
     
 
+** Facilely Tunable Dodecahedral POM Framework Loaded with Mono- or Bimetallic Sites for Efficient Photocatalytic CO2 Reduction   
+:PROPERTIES:
+:ID: https://openalex.org/W4390858455
+:DOI: https://doi.org/10.1016/j.apcatb.2024.123733
+:AUTHORS: [[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]]
+:HOST: Applied Catalysis B: Environmental
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]], Applied Catalysis B: Environmental. None(None)] 2024. 
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123733")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390858455"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390858455"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390858455"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390858455
+    
+[[https://openalex.org/A5087343432][Bonan Li]], [[https://openalex.org/A5076156197][Mengxue Chen]], [[https://openalex.org/A5051874318][Qiyu Hu]], [[https://openalex.org/A5084324182][Jiaqi Zhu]], [[https://openalex.org/A5055313658][Xu Yang]], [[https://openalex.org/A5010201433][Zijing Li]], [[https://openalex.org/A5080592339][Chunlian Hu]], [[https://openalex.org/A5015145045][Yuanyuan Li]], [[https://openalex.org/A5077347142][Peihong Ni]], [[https://openalex.org/A5074556294][Yong Ding]], Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123733
+    
+Utilizing solar energy to drive the conversion of CO2 into high-value chemicals emerged as a promising approach to decrease CO2 emission. Yolk-shell or hollow structure have drawn much attention for photocatalytic CO2 reduction, owing to their efficient CO2 trapping and more active sites exposing. In this study, we employed a simple method to regulate the morphological evolution of K3PW12O40 dodecahedra. After annealing, mono-/bimetallic active species are homogeneously dispersed on K3PW12O40 framework forming PW12@Co and PW12@CoNi, which exhibit good CO production rates of 11.2 and 15.1 μmol/h, respectively, with selectivity of 90.7% and 92.6%. The differences in the activity and selectivity of CO2RR are attributed to the morphology variations of POM and the influence of mono-/bimetallic species. These results are confirmed through the analysis of SEM, TEM, N2 and CO2 adsorption/desorption, PL, EIS and SPV characterizations. In-situ DRIFTS and DFT provide further support for the formation and transformation of intermediate products.    
+
+    
+
+** Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction   
+:PROPERTIES:
+:ID: https://openalex.org/W4391010815
+:DOI: None
+:AUTHORS: [[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]]
+:HOST: No host
+:END:
+
+Open access: False
+    
+[[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], No host. None(None)] 2021. 
+    
+[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391010815"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391010815"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391010815"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391010815
+    
+[[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], No host. None
+    
+No abstract    
+
+    
+
 ** Binary Junctions Enhance Electron Storage and Potential Difference for Photo-Assisted Electrocatalytic Co2 Reduction to Hcooh   
 :PROPERTIES:
 :ID: https://openalex.org/W4390696832
@@ -1240,7 +1420,9 @@ In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepare
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5024964837][Yingnan Cao]], [[https://openalex.org/A5062755510][Qianqian Wang]], [[https://openalex.org/A5026275424][Yunni Liu]], [[https://openalex.org/A5000187214][Ying Tao]], [[https://openalex.org/A5011581422][Jinchen Fan]], [[https://openalex.org/A5065482772][Ming Chen]], [[https://openalex.org/A5082278440][Dieqing Zhang]], [[https://openalex.org/A5082278440][Dieqing Zhang]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5024964837][Yingnan Cao]], [[https://openalex.org/A5062755510][Qianqian Wang]], [[https://openalex.org/A5026275424][Yunni Liu]], [[https://openalex.org/A5000187214][Ying Tao]], [[https://openalex.org/A5011581422][Jinchen Fan]], [[https://openalex.org/A5065482772][Ming Chen]], [[https://openalex.org/A5082278440][Dieqing Zhang]], [[https://openalex.org/A5082278440][Dieqing Zhang]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4689861")][Get bibtex entry]] 
 
@@ -1264,7 +1446,9 @@ Photo-assisted electrocatalytic (PAEC) CO2 conversion is a crucial approach for 
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5025614175][Xiang-Da Zhang]], [[https://openalex.org/A5036914815][Jian-Mei Huang]], [[https://openalex.org/A5024839012][Xiaorong Zhu]], [[https://openalex.org/A5022256556][Chang Liu]], [[https://openalex.org/A5068336878][Yue Yin]], [[https://openalex.org/A5067239284][Jiayi Huang]], [[https://openalex.org/A5082041084][Ming Xu]], [[https://openalex.org/A5076118607][Yafei Li]], [[https://openalex.org/A5001990602][Zhi‐Yuan Gu]], No host. None(None)] 2024.
+Open access: False
+    
+[[https://openalex.org/A5025614175][Xiang-Da Zhang]], [[https://openalex.org/A5036914815][Jian-Mei Huang]], [[https://openalex.org/A5024839012][Xiaorong Zhu]], [[https://openalex.org/A5022256556][Chang Liu]], [[https://openalex.org/A5068336878][Yue Yin]], [[https://openalex.org/A5067239284][Jiayi Huang]], [[https://openalex.org/A5082041084][Ming Xu]], [[https://openalex.org/A5076118607][Yafei Li]], [[https://openalex.org/A5001990602][Zhi‐Yuan Gu]], No host. None(None)] 2024. 
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690201")][Get bibtex entry]] 
 
@@ -1277,53 +1461,5 @@ OpenAlex: https://openalex.org/W4390695033
 [[https://openalex.org/A5025614175][Xiang-Da Zhang]], [[https://openalex.org/A5036914815][Jian-Mei Huang]], [[https://openalex.org/A5024839012][Xiaorong Zhu]], [[https://openalex.org/A5022256556][Chang Liu]], [[https://openalex.org/A5068336878][Yue Yin]], [[https://openalex.org/A5067239284][Jiayi Huang]], [[https://openalex.org/A5082041084][Ming Xu]], [[https://openalex.org/A5076118607][Yafei Li]], [[https://openalex.org/A5001990602][Zhi‐Yuan Gu]], No host. https://doi.org/10.2139/ssrn.4690201
     
 Cu-based metal-organic frameworks (MOFs) are widely employed in CO2 reduction reactions (CO2RR) because of their unique advantages to convert CO2 into C2+ products. Mostly, Cu-based MOFs are in-situ reconstructed to Cu-based derivatives such as Cu or Cu oxides during CO2RR, which is regarded as the catalytic active center. However, the key role of pristine MOFs and the coordination environment is often ignored in the process of revealing the catalytic mechanism. Here, we propose an auto-tandem mechanism for in-situ reconstructed Cu imidazole framework isomers, namely CuN2 and Cu2N4. During the auto-tandem catalysis process, pristine Cu(imidazole) served to convert CO2 into CO, while the Cu-based derivatives, in this case, Cu(111) sequentially convert the CO to C2+ products. This auto-tandem catalytic mechanism is supported by electrocatalytic performance, TPD-CO, HRTEM, SAED, XPS, in-situ XANES and XES. Besides, in-situ ATR-SEIRAS and DFT computation illustrate that the coordination environment of pristine Cu(imidazole) affects the selectivity of CO and thus determines the selectivity of C2+ products. The auto-tandem catalytic mechanism provides a new route to design Cu-based MOF electrocatalysts for high product selectivity in CO2RR.    
-
-    
-
-** Promoted Selectivity of Photocatalytic CO2 reduction to C2H4 via Hybrid CuxCoSy Possessing Dual Unsaturated Sites   
-:PROPERTIES:
-:ID: https://openalex.org/W4390781704
-:DOI: https://doi.org/10.1016/j.apcatb.2024.123704
-:AUTHORS: [[https://openalex.org/A5000779588][Yu Nie]], [[https://openalex.org/A5068242622][Yanfang Li]], [[https://openalex.org/A5067362172][Chen An]], [[https://openalex.org/A5006282859][Xin Tan]], [[https://openalex.org/A5086231149][Zhuofeng Hu]], [[https://openalex.org/A5034469896][Jinhua Ye]], [[https://openalex.org/A5004732871][Tao Yu]]
-:HOST: Applied Catalysis B: Environmental
-:END:
-
-[[https://openalex.org/A5000779588][Yu Nie]], [[https://openalex.org/A5068242622][Yanfang Li]], [[https://openalex.org/A5067362172][Chen An]], [[https://openalex.org/A5006282859][Xin Tan]], [[https://openalex.org/A5086231149][Zhuofeng Hu]], [[https://openalex.org/A5034469896][Jinhua Ye]], [[https://openalex.org/A5004732871][Tao Yu]], Applied Catalysis B: Environmental. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123704")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390781704"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390781704"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390781704"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390781704
-    
-[[https://openalex.org/A5000779588][Yu Nie]], [[https://openalex.org/A5068242622][Yanfang Li]], [[https://openalex.org/A5067362172][Chen An]], [[https://openalex.org/A5006282859][Xin Tan]], [[https://openalex.org/A5086231149][Zhuofeng Hu]], [[https://openalex.org/A5034469896][Jinhua Ye]], [[https://openalex.org/A5004732871][Tao Yu]], Applied Catalysis B: Environmental. https://doi.org/10.1016/j.apcatb.2024.123704
-    
-Ethylene production by CO2 reduction is sluggish because the repulsive dipole-dipole interaction and 12 proton-coupled electron-transfer steps consecutively. Amorphous structured photocatalysts possess few grain boundaries and abundant unsaturated sites, accelerating the reaction efficiency from the angle of dynamics and thermodynamics, which still not yet be used in PCR to C2 products currently. Herein, an amorphous CuxCoSy composed of the minority crystalline CuCo2S4 is fabricated to realize an excellent C2H4 selectivity in terms of Relectron (94.9%). Unsaturated Co and S play the key roles in the improved efficiency of C2H4 generation. C-C coupling is achieved via shortening Co-S bonds distance, and ⁎CO-⁎CO coupling barrier is decreased by more electrons accumulated on unsaturated S. Water is adsorbed on Co adjacent to S and provide protons for ⁎COCO to form ⁎CH2=C. This work paves a new way for broadening the efficient of C2H4 photocatalytic evolution using amorphous photocatalyst.    
-
-    
-
-** In situ constructed B-CdS/Cd Schottky junctions for efficient photocatalytic CO2 reduction under visible light   
-:PROPERTIES:
-:ID: https://openalex.org/W4390987589
-:DOI: https://doi.org/10.1016/j.surfin.2024.103926
-:AUTHORS: [[https://openalex.org/A5059273355][R. Li]], [[https://openalex.org/A5024123604][Zhenhua Dai]], [[https://openalex.org/A5049119185][Tim Hui-Ming Huang]], [[https://openalex.org/A5019858998][Qianqian Zhang]], [[https://openalex.org/A5002474804][Xunfu Zhou]], [[https://openalex.org/A5060946876][Zhongli Peng]], [[https://openalex.org/A5010021609][Zuotao Liu]], [[https://openalex.org/A5076015543][Yueping Fang]]
-:HOST: Surfaces and Interfaces
-:END:
-
-[[https://openalex.org/A5059273355][R. Li]], [[https://openalex.org/A5024123604][Zhenhua Dai]], [[https://openalex.org/A5049119185][Tim Hui-Ming Huang]], [[https://openalex.org/A5019858998][Qianqian Zhang]], [[https://openalex.org/A5002474804][Xunfu Zhou]], [[https://openalex.org/A5060946876][Zhongli Peng]], [[https://openalex.org/A5010021609][Zuotao Liu]], [[https://openalex.org/A5076015543][Yueping Fang]], Surfaces and Interfaces. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.surfin.2024.103926")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390987589"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390987589"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390987589"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390987589
-    
-[[https://openalex.org/A5059273355][R. Li]], [[https://openalex.org/A5024123604][Zhenhua Dai]], [[https://openalex.org/A5049119185][Tim Hui-Ming Huang]], [[https://openalex.org/A5019858998][Qianqian Zhang]], [[https://openalex.org/A5002474804][Xunfu Zhou]], [[https://openalex.org/A5060946876][Zhongli Peng]], [[https://openalex.org/A5010021609][Zuotao Liu]], [[https://openalex.org/A5076015543][Yueping Fang]], Surfaces and Interfaces. https://doi.org/10.1016/j.surfin.2024.103926
-    
-CdS with a visible light response and energy band location suitable for CO2 photoreduction has received extensive attention. However, low product selectivity and photocatalytic efficiency limit its application. Here, NaBH4 is used as a reducing agent to generate Cd metal on the surface of CdS nanorods in situ. This leads to the construction of a B-CdS/Cd metal cocatalyst/semiconductor structure. This configuration significantly enhanced the CdS's activity of photocatalytic CO2 reduction. The Cd metal which is on the surface of CdS nanorods promoted the separation and transfer of photogenerated charges and increased both light photosensitivity and CO2 adsorption capabilities. The improved B-CdS/Cd catalyst shows excellent CO2 reduction capabilities by generating CO at a rate of 323.39 μmol g−1 h−1, which is 2.01 times more than pure CdS, owing to the synergistic enhancements. Simultaneously, Cd acts as an active site inhibiting H2 production during the CO2 reduction reaction. This work demonstrates the potential of Cd metal as a metal cocatalyst in photocatalytic CO2 reduction.    
 
     
