@@ -3,7 +3,8 @@ import time
 from pathlib import Path
 import urllib.parse
 
-from .openalex import get_authors, get_abstract, get_host, get_citation
+from .openalex import (get_authors, get_org_authors, get_abstract, get_host,
+                       get_citation, get_org_citation)
 
 
 def get_org_item(topic, result):
