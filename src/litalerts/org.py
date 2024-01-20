@@ -13,7 +13,7 @@ def get_org_item(topic, result):
     authors = get_authors(result)
     host = get_host(result)
     abstract = get_abstract(result)
-    citation = get_citation(result)       
+    citation = get_org_citation(result)       
 
     return f'''** {result['title']}   
 :PROPERTIES:

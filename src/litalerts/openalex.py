@@ -62,7 +62,17 @@ def get_abstract(result):
     return abstract
 
 
+def get_org_authors(result):
+    """Return an author string for org-mode.
+    Each author is linked to their id.
+    """
+    authors = [f"[[{au['id']}][{au['author']['display_name']}]]"
+               for au in result['authorships']]
+    return ','.join(authors)
+    
 def get_authors(result):
+    """Return a simple author string.
+    """
     return ', '.join([au['author']['display_name'] for au in result['authorships'] ])
 
 
@@ -76,6 +86,14 @@ def get_host(result):
     else:
         host = 'No host'
     return host
+
+
+def get_org_citation(result):
+    """Return a lightly formatted citation for RESULT.
+    """
+    authors = get_org_authors(result)
+    host = get_host(result)
+    return f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."
 
 
 def get_citation(result):
