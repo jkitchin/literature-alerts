@@ -66,7 +66,7 @@ def get_org_authors(result):
     """Return an author string for org-mode.
     Each author is linked to their id.
     """
-    authors = [f"[[{au['id']}][{au['author']['display_name']}]]"
+    authors = [f"[[{au['author']['id']}][{au['author']['display_name']}]]"
                for au in result['authorships']]
     return ','.join(authors)
     
