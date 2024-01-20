@@ -10,7 +10,7 @@ def get_org_item(topic, result):
     """Get an org string for RESULT.
     RESULT will be a json item for a Work.
     """
-    authors = get_authors(result)
+    authors = get_org_authors(result)
     host = get_host(result)
     abstract = get_abstract(result)
     citation = get_org_citation(result)       
