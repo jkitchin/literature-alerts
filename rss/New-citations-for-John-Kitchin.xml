@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 16:23:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -316,6 +316,16 @@
       <author>Jin-Yu Zhang, Ga&#235;l Huynh, Fu&#8208;Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jeurceramsoc.2024.01.007</guid>
+    </item>
+    <item>
+      <title>Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy</title>
+      <link>https://doi.org/10.1021/acs.jpclett.3c03216</link>
+      <description>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391014304
+
+                Alkaline water electrolysis is a sustainable way to produce green hydrogen using renewable electricity. Even though the rates of the cathodic hydrogen evolution reaction (HER) are 2&#8211;3 orders of magnitude less under alkaline conditions than under acidic conditions, the possibility of using non-precious metal catalysts makes alkaline HER appealing. We identify a novel and facile route for substantially improving HER performance via the use of commercially available NiTi shape memory alloys, which upon heating undergo a phase transformation from the monoclinic martensite to the cubic austenite structure. While the room-temperature performance is modest, austenitic NiTi outperforms Pt (which is the state-of-the-art HER electrocatalyst) in terms of current density by &#8804;50% at 80 &#176;C. Surface ensembles presented by the austenite phase are computed with density functional theory to bind hydrogen more weakly than either metallic Ni or Ti and to have binding energies ideally suited for HER.</description>
+      <author>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03216</guid>
     </item>
   </channel>
 </rss>

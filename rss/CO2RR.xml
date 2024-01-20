@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 00:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 16:23:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,16 @@
       <author>Taekeun Yoo, Y.H. Yoo, Seon-Woo Byun, A-Ram You, Changhee Park, Dae-Hyun Choi, Woo-Seung Lee</author>
       <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3836511/v1</guid>
+    </item>
+    <item>
+      <title>Carbonyl-Linked Cobalt Polyphthalocyanines as High-Selectivity Catalyst for Electrochemical CO2 Reduction</title>
+      <link>https://doi.org/10.1039/d3cc05844a</link>
+      <description>Hua Jiang, Yajing Di, Yunle Gu, Yu Chen, Meiling Dou, Zhengping Zhang, Feng Wang, Chemical Communications. None(None)] 2024. https://openalex.org/W4390687040
+
+                One type of carbonyl-linked cobalt polyphthalocyanine (CL-CoPPc) is synthesised as catalysts for use in electrochemical carbon dioxide (CO2) reduction (ECR). Carbonyl linkages can decrease the intermolecular &#960;-&#960; stacking, and serve as intramolecular "gullies" to impede proton transfer and the hydrogen evolution reaction (HER). Therefore, the CL-CoPPc exhibits highly active and selective CO2 reduction to carbon monoxide (CO).</description>
+      <author>Hua Jiang, Yajing Di, Yunle Gu, Yu Chen, Meiling Dou, Zhengping Zhang, Feng Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cc05844a</guid>
     </item>
     <item>
       <title>Atomic-Disorder-Induced Mass Transport and Charge Transfer Enhancement Effect Boost the Intrinsic Activity of the Electrocatalyst Towards Electrochemical Co2 Reduction</title>
@@ -166,6 +176,16 @@
       <author>Rongrong Li, Hehe Wei, Ping Liu, Zixiang Su, X. G. Gong</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26599/nre.2024.9120112</guid>
+    </item>
+    <item>
+      <title>MOFs materials as photocatalysts for CO2 reduction: Progress, challenges and perspectives</title>
+      <link>https://doi.org/10.1016/j.ccst.2024.100191</link>
+      <description>Mazhar Khan, Zeeshan Akmal, Muhammad Tayyab, Seemal Mansoor, Adnan Zeb, Ziwei Ye, Jinlong Zhang, Shiqun Wu, Lingzhi Wang, No host. 11(None)] 2024. https://openalex.org/W4391019430
+
+                Photocatalytic reduction of carbon dioxide (CO2) presents a pivotal solution to address meteorological and ecological challenges. Currently, metal-organic frameworks (MOFs) with their crystalline porosity, adjustable structures, and diverse chemical functionalities have garnered significant attention in the realm of photocatalytic CO2 reduction. This review provides a brief introduction to CO2 reduction and MOF material and their applications in CO2 reduction. Then, it undertakes a comprehensive examination of MOFs, summarizing their key attributes, including porosity, large surface area, structural multifunctionalities, and responsiveness to visible light, along with an analysis of heterojunctions and their methods of preparation. Additionally, it elucidates the fundamental principle of photocatalysis and CO2 reduction, encompassing both half and overall reactions. Furthermore, the classification of MOF-based materials is explored, along with the proposed mechanism for CO2 reduction and an update on recent developments in this field. Finally, this review outlines the challenges and potential opportunities for utilizing MOFs in CO2 reduction, offering valuable insights to scholars seeking innovative approaches not only to enhance CO2 reduction but also to advance other photocatalytic processes.</description>
+      <author>Mazhar Khan, Zeeshan Akmal, Muhammad Tayyab, Seemal Mansoor, Adnan Zeb, Ziwei Ye, Jinlong Zhang, Shiqun Wu, Lingzhi Wang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccst.2024.100191</guid>
     </item>
     <item>
       <title>Monomeric gold hydrides for carbon dioxide reduction: ligand effect on the reactivity</title>
@@ -368,16 +388,6 @@
       <guid isPermaLink="true">https://openalex.org/W4391010819</guid>
     </item>
     <item>
-      <title>Carbonyl-Linked Cobalt Polyphthalocyanines as High-Selectivity Catalyst for Electrochemical CO2 Reduction</title>
-      <link>https://doi.org/10.1039/d3cc05844a</link>
-      <description>Hua Jiang, Yajing Di, Yunle Gu, Yu Chen, Meiling Dou, Zhengping Zhang, Feng Wang, Chemical Communications. None(None)] 2024. https://openalex.org/W4390687040
-
-                One kind of carbonyl-linked cobalt polyphthalocyanine (CL-CoPPc) is synthsized as catalysts for electrochemical CO2 reduction (ECR). Carbonyl linkages can decrease the intermolecular &#960;-&#960; stacking, and serve as intramolecular &#8220;gullies&#8221; to...</description>
-      <author>Hua Jiang, Yajing Di, Yunle Gu, Yu Chen, Meiling Dou, Zhengping Zhang, Feng Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cc05844a</guid>
-    </item>
-    <item>
       <title>Surfactant-free 2D/2D Pd/g-C3N4 for enhanced photocatalytic CO2 reduction</title>
       <link>https://doi.org/10.1039/d3cy01623d</link>
       <description>Zhijun Huang, Jie Wang, Chunliang Yang, Fengqin Yan, Guoqing Yuan, No host. None(None)] 2023. https://openalex.org/W4390760438
@@ -448,16 +458,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3sc05295h</guid>
     </item>
     <item>
-      <title>Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.123703</link>
-      <description>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li, Applied Catalysis B: Environmental. 345(None)] 2024. https://openalex.org/W4390636108
-
-                Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.</description>
-      <author>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123703</guid>
-    </item>
-    <item>
       <title>Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4</title>
       <link>https://doi.org/10.2139/ssrn.4696662</link>
       <description>Mingming Sun, Xin Xu, Shihao Min, Jie He, K. Li, Longtian Kang, No host. None(None)] 2024. https://openalex.org/W4390910665
@@ -476,6 +476,16 @@
       <author>Feifei You, Tianhao Zhou, Jiaxin Li, Siqi Huang, Chuntao Chang, Xiaoyu Fan, Hao Zhang, Xinbin Ma, Dawei Gao, Jian Qi, Danyang Li</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.086</guid>
+    </item>
+    <item>
+      <title>Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.123703</link>
+      <description>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li, Applied Catalysis B: Environmental. 345(None)] 2024. https://openalex.org/W4390636108
+
+                Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.</description>
+      <author>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123703</guid>
     </item>
     <item>
       <title>Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction</title>
@@ -546,16 +556,6 @@
       <author>R. Li, Zhenhua Dai, Tim Hui-Ming Huang, Qianqian Zhang, Xunfu Zhou, Zhongli Peng, Zuotao Liu, Yueping Fang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.103926</guid>
-    </item>
-    <item>
-      <title>Stabilizing *CO2 Intermediates at the Acidic Interface using Molecularly Dispersed Cobalt Phthalocyanine as Catalysts for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/anie.202317942</link>
-      <description>Shijia Feng, Xiaojun Wang, Dongfang Cheng, Yanhong Luo, Mengxin Shen, Jiemin Wang, Wenpeng Zhao, Shu Fang, Hongzhi Zheng, Lianze Ji, Xing Zhang, Weigao Xu, Yongye Liang, Philippe Sautet, Jing Zhu, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4390614569
-
-                CO2 electroreduction (CO2R) operating in acidic media circumvents the problems of carbonate formation and CO2 crossover in neutral/alkaline electrolyzers. Alkali cations have been universally recognized as indispensable components for acidic CO2R, while they cause the inevitable issue of salt precipitation. It is therefore desirable to realize alkali&#8208;cation&#8208;free CO2R in pure acid. However, without alkali cations, stabilizing *CO2 intermediates by catalyst itself at the acidic interface poses as a challenge. Herein, we first demonstrate that a carbon nanotube&#8208;supported molecularly dispersed cobalt phthalocyanine (CoPc@CNT) catalyst provides the Co single&#8208;atom active site with energetically localized d states to strengthen the adsorbate&#8208;surface interactions, which stabilizes *CO2 intermediates at the acidic interface (pH = 1). As a result, we realize CO2 conversion to CO in pure acid with a faradaic efficiency of 60% at pH = 2 in flow cell. Furthermore, CO2 is successfully converted in cation exchanged membrane&#8208;based electrode assembly with a faradaic efficiency of 73%. For CoPc@CNT, acidic conditions also promote the intrinsic activity of CO2R compared to alkaline conditions, since the potential&#8208;limiting step, *CO2 to *COOH, is pH&#8208;dependent. This work provides a new understanding for the stabilization of reaction intermediates and facilitates the designs of catalysts and devices for acidic CO2R.</description>
-      <author>Shijia Feng, Xiaojun Wang, Dongfang Cheng, Yanhong Luo, Mengxin Shen, Jiemin Wang, Wenpeng Zhao, Shu Fang, Hongzhi Zheng, Lianze Ji, Xing Zhang, Weigao Xu, Yongye Liang, Philippe Sautet, Jing Zhu</author>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202317942</guid>
     </item>
   </channel>
 </rss>
