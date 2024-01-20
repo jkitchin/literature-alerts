@@ -4,6 +4,7 @@ from yaml import load, Loader
 
 from .openalex import run_query
 from .org import write_org
+from .md import write_md
 from .rss import write_rss
 
 @click.command()
