@@ -17,7 +17,11 @@ def get_org_item(topic, result):
     abstract = get_abstract(result)
     citation = get_org_citation(result)
 
-    pdf = result['primary_location'].get('pdf_url', None)
+    _pdf = result['primary_location'].get('pdf_url', None)
+    if pdf:
+        pdf = f'([[{_pdf}][pdf]])'
+    else:
+        pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
 
     return f'''** {html_to_text(result['title'])}   
@@ -30,7 +34,7 @@ def get_org_item(topic, result):
 
 Open access: {isoa}
     
-{citation} {pdf if pdf else ""}
+{citation} {pdf}.
     
 [[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
