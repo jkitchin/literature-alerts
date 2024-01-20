@@ -68,7 +68,7 @@ def get_org_authors(result):
     """
     authors = [f"[[{au['author']['id']}][{au['author']['display_name']}]]"
                for au in result['authorships']]
-    return ','.join(authors)
+    return ', '.join(authors)
     
 def get_authors(result):
     """Return a simple author string.
