@@ -1,0 +1,282 @@
+# liquid-metal
+Description: low temperature liquid metals
+Created on Sat Jan 20 18:53:47 2024
+
+Found 25 results from 2024-01-06 to 2024-01-20
+OpenAlex URLS (not including from_created_date or the API key)
+- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst)
+
+## Engineering Noble Metal-Free Nickel Catalysts for Highly Efficient Liquid Fuel Production from Waste Polyolefins Under Mild Conditions   
+
+OpenAlex: https://openalex.org/W4390945091    
+Open access: False
+    
+[Xinlei Han](https://openalex.org/A5072263092), [Jiuxuan Zhang](https://openalex.org/A5083898046), [Zhengyan Qu](https://openalex.org/A5056805527), [Feng Zeng](https://openalex.org/A5014026680), [Hong Jiang](https://openalex.org/A5074997400), [Jun Huang](https://openalex.org/A5043843386), [Zhenchen Tang](https://openalex.org/A5056618062), [Rizhi Chen](https://openalex.org/A5013913370), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4698288.
+    
+Polyolefin wastes, while posing environmental threats, also offer potential as carbon feedstocks. Hydroconversion techniques show promise in direct transforming polyolefin wastes into liquid fuels, yet practicality is impeded by the prohibitive cost of noble metal-based catalysts or the inferior performance of base metal alternatives. This study introduces the bifunctional 0.5Ni/Beta catalyst, featuring fine nickel nanoparticles (c.a. 3 nm, 0.5 wt% loading) on Beta zeolite, as a highly efficient catalyst for liquid fuel production from diverse polyolefins. This catalyst achieves a notable production rate of 7.39 gliquid∙gcat-1∙h-1 and over 86.1% selectivity to C5-20, surpassing the performance of state-of-the-art catalysts. Nickel particle size controlled by various chelators and metal-acid balance were identified as pivotal performance descriptors. The specific topology of zeolite Beta enhances coke tolerance, ensuring superior stability. This noble metal-free Ni/Beta thus represents an evolving generation of catalyst, propelling sustainable liquid fuel production from plastic wastes towards practical scalability.    
+
+    
+
+## Controlling Oxide Promoter Coverage and Microstructure on Metals of Inverse Catalysts: Application to Liquid Phase Tetrahydrofurfuryl Alcohol Conversion to 1,5-Pentanediol   
+
+OpenAlex: https://openalex.org/W4390694088    
+Open access: False
+    
+[Jiahua Zhou](https://openalex.org/A5042829086), [Jiayi Fu](https://openalex.org/A5026278267), [Ping Yang](https://openalex.org/A5086955828), [Kewei Yu](https://openalex.org/A5067490405), [Stavros Carazoulas](https://openalex.org/A5093697312), [Weiqing Zheng](https://openalex.org/A5015640857), [Dionisios G. Vlachos](https://openalex.org/A5066110304), Applied Catalysis B: Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.123724.
+    
+Metal M1/metal oxide M2Ox (M1M2Ox) inverse catalysts, where the oxide layer rests atop metal, have gained attention for their distinct catalytic performance. They are intensively studied in biomass upgrading, e.g., the hydrogenolysis of tetrahydrofurfuryl alcohol to produce 1,5-pentanediol. Pt and MOx (M = W, Mo, Re, Nb) exhibit remarkable synergism in activity and selectivity, but the active sites remain poorly understood. Here, we examine the influence of oxide loading on PtMOx inverse catalysts and introduce a high-pressure wash treatment to leach the excess oxide from carbon and optimize their structure. The findings reveal a saturation sub-monolayer MOx coverage with 2D atomic structure on Pt that is crucial for performance; excessive loading leads to nanocrystalline of lower activity, and low loading exposes unselective metal sites. Wash treatment selectively removes MOx from carbon, enhances their dispersion on Pt, and improves, in most cases, the performance. Tuning the inverse structure advances structure-reactivity understanding.    
+
+    
+
+## Liquid Metal Catalysis   
+
+OpenAlex: https://openalex.org/W4390621338    
+Open access: False
+    
+[Shuting Liang](https://openalex.org/A5064649819), No host. None(None)] 2023.https://doi.org/10.1007/978-981-19-2797-3_48-1.
+    
+With the rapid growth of the world population and the continuous shortage of resources and energy, the research on liquid metal catalyst has gradually come into view. In recent years, the development of liquid metal and its alloys as new catalysts has made a great leap forward. Liquid metals as flow catalysts offer new research and development opportunities. Applications of liquid metal systems include the catalytic controlled growth of graphene, the catalytic growth of 2D materials (MoO2, MoS2, SnOx, etc.), the catalytic reduction of CO2 to achieve carbon neutrality, the catalytic organic and inorganic reactions (including propane dehydrogenation, methane dehydrogenation, polyphenol self-polymerization, free radical polymerization, etc.), and the catalytic production of hydrogen. Liquid metal catalysts also include photocatalysts, electrocatalysts, bimetallic catalysts, LM/MO frame catalysts, and heterogeneous catalysts. The classification, application, and related catalytic mechanism of different liquid metal catalysts at home and abroad were reviewed in this chapter. Liquid metal catalysts could be used as revolutionary materials in the new century, and their application in the field of catalysis presents new challenges.    
+
+    
+
+## Intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite for catalytic liquid-phase oxidation of phenol using H2O2   
+
+OpenAlex: https://openalex.org/W4390605526    
+Open access: True
+    
+[Serhat Uzan](https://openalex.org/A5015928403), [Eyüp Başaran](https://openalex.org/A5072932384), Turkish Journal of Chemistry. 47(6)] 2023.https://doi.org/10.55730/1300-0527.3630 ([pdf](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem).
+    
+The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite (Na-MMT) for catalytic liquid-phase oxidation of phenol using H2O2 was undertaken by a flexible ligand method using metal ions including Mn(II), Zn(II), and Sn(II). First, the metal ions were exchanged with the sodium ions of Na-MMT, and then these metal ions were complexed with a new pyrazolone-based oxalamide ligand. The intercalated metal complexes were characterized by Fourier transform infrared spectroscopy, X-ray diffraction, scanning electron microscopy, energy-dispersive X-ray spectroscopy, elemental analysis, and thermogravimetric analysis. Phenol was successfully oxidized by heterogeneous catalysts based on Mn(II), Zn(II), and Sn(II) pyrazolone-based oxalamide complexes intercalated into Na-MMT. These heterogeneous catalysts catalyze the liquid-phase oxidation of phenol using H2O2 to catechol as the major product and hydroquinone and benzoquinone as the minor products. The Mn(II) and Zn(II) complexes intercalated into Na-MMT showed better activity than the Sn(II) complex intercalated into Na-MMT and the reaction without the catalyst. It has been shown that some metal ion complexes intercalated into Na-MMT are active catalysts for liquid-phase oxidation of phenol with hydrogen peroxide.    
+
+    
+
+## Catalytic activity of iron-containing carbon nanotubes in the oxidation reaction of the diesel fuel fraction   
+
+OpenAlex: https://openalex.org/W4390825865    
+Open access: True
+    
+[Ya. M. Naghiev](https://openalex.org/A5093713093), [R. R. Apayeva](https://openalex.org/A5093713094), [Nazilya Salmanova](https://openalex.org/A5025825721), [M. I. Nadiri](https://openalex.org/A5010490706), [Asgar Huseynov](https://openalex.org/A5020206046), Elmi əsərlər. None(3)] 2023.https://doi.org/10.5510/ogp20230300900.
+    
+Liquid-phase aerobic oxidation of petroleum hydrocarbons catalyzed by carbon nanoparticles is focused on the real practical implementation over the rational processing of multicomponent petroleum feedstock. The use of metal-containing carbon nanostructures as catalysts allows known oxidation processes to be considered in the most modern strapping and simultaneously raises related questions about kinetics and mechanism of the process. This paper describes the formal kinetic regularities of the liquid-phase aerobic oxidation of the diesel fuel paraffin-naphthenic fraction in the presence of iron-containing multiwalled carbon nanotubes Fe@MWCNT. The purpose of the work is to determine the activity of the catalyst and the mechanism of its action. The reaction was carried out at 80°C, at which thermal decomposition of hydroperoxides is known to be almost non-existent and the reaction does not initiate. The induction period, the profile of the kinetic curves, and the oxygen uptake rate were taken as criteria for catalyst activity. As a result, it was shown that Fe@MWCNT additives have a significant ability to increase the rate of aerobic oxidation of diesel fractions. A general scheme of catalytic oxidation of hydrocarbons of the petroleum fraction in which the catalyst on a nanocarbon carrier reduces the dissociation energy of the C-H bond and activates the decomposition of hydroperoxides into active reactive particles has been proposed. Keywords: metal-containing carbon nanotubes; petroleum hydrocarbons; diesel fuel; paraffin-naphthenic fraction; oxidation induction period; catalytic hydroperoxide decomposition; oxygen uptake rate.    
+
+    
+
+## Amorphous Nickel Nanofilms for Efficient Hydrogen Generation from ammonia borane   
+
+OpenAlex: https://openalex.org/W4390656188    
+Open access: False
+    
+[Yumei Chen](https://openalex.org/A5055374370), [LI Ming-bin](https://openalex.org/A5017262173), [Shuyan Guan](https://openalex.org/A5082953115), [Qing Li](https://openalex.org/A5053780153), [Qiuming Peng](https://openalex.org/A5085765430), [Shumin Han](https://openalex.org/A5033843507), [Bao-Zhong Liu](https://openalex.org/A5017134396), European Journal of Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1002/ejic.202300677.
+    
+Clean and sustainable hydrogen production through liquid hydrogen storage material requires highly active and stable earth‐abundant non‐noble metal to replace expensive and rare noble metals. Herein, nickel nanofilms (Ni/NiO‐NFs) were prepared by the ionic liquid/water interface route. The cationic carbon chain length of the ionic liquid affects the phase composition of the nickel nanofilm, and the ionic liquid with [OMIm][PF6] as the anion has good thermal stability during the synthesis process. The efficiency of Ni/NiO‐NFs catalysts was tested by comparative kinetic analysis of the AB hydrolysis for hydrogen production. The as‐preparedNi/NiO‐NFs catalyst exhibits excellent hydrogen generation performances, including a hydrogen production rate (2917 ml min‐1 gNi‐1), and a low activation energy (48.1 kJ/mol). The transition of nickel oxide to metallic nickel and the destruction of the catalyst structure is responsible for the decreased durability. This work highlights the significance of amorphous nanofilms catalysts via the ionic interface method on the regulation of activity for AB hydrolysis.    
+
+    
+
+## Copper Application and Copper Nanoparticles in Chemistry   
+
+OpenAlex: https://openalex.org/W4391035044    
+Open access: True
+    
+[Iman Mohammadi Dehcheshmeh](https://openalex.org/A5020114413), [Ahmad Poursattar Marjani](https://openalex.org/A5008902301), [Fatemeh Sadegh](https://openalex.org/A5058378526), [Mohammad Ebrahim Soltani](https://openalex.org/A5076479889), No host. None(None)] 2024.https://doi.org/10.5772/intechopen.1004068 ([pdf](https://www.intechopen.com/citation-pdf-url/1172117).
+    
+Copper metal is a natural element found in soil, water, and rocks. This metal is one of those functional metals that have significantly improved the quality of human life. In the agricultural industry, copper plays an essential role as a primary nutrient required for the optimal growth of living tissues in plants and other organisms. Additionally, it is used to control fungal diseases; copper sulfate, one of the most widely used derivatives of copper metal, is employed for this purpose. Hence, the use of copper in agriculture is crucial. Another advanced and innovative application of copper is in chemical processes within the petrochemical industry as a catalyst. Copper catalysts exhibit a more favorable hydrogenation activity compared to nickel catalysts. The copper catalyst is designed in three forms: extruded and tablet forms for fixed-bed reactions and powder for liquid-bed reactions.    
+
+    
+
+## Acid catalyst screening for hydrolysis of post-consumer PET waste and exploration of acidolysis   
+
+OpenAlex: https://openalex.org/W4390668766    
+Open access: False
+    
+[Patrícia Pereira](https://openalex.org/A5010653867), [P.E. Savage](https://openalex.org/A5001247658), [Christian W. Pester](https://openalex.org/A5072719681), Green Chemistry. None(None)] 2024.https://doi.org/10.1039/d3gc03906d.
+    
+We screen various acid catalysts (mineral, carboxylic, carbonic acids, zeolites, ionic liquids, and metal salts) for PET hydrolysis.    
+
+    
+
+## Catalytic Degradation of Lignin over Sulfonyl-Chloride-Modified Lignin-Based Porous Carbon-Supported Metal Phthalocyanine: Effect of Catalyst Concentrations   
+
+OpenAlex: https://openalex.org/W4390702062    
+Open access: True
+    
+[Fei Du](https://openalex.org/A5034386711), [Xue-Quan Xian](https://openalex.org/A5029548291), [Peiduo Tang](https://openalex.org/A5073160336), [Yanming Liu](https://openalex.org/A5047160347), Molecules. 29(2)] 2024.https://doi.org/10.3390/molecules29020347 ([pdf](https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551).
+    
+A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthalocyanine catalyst was prepared and used to replace the traditional Fenton’s reagent for lignin degradation. The catalyst underwent a detailed characterization analysis in terms of functional group distributions, surface area, morphological structure, via FT-IR, XPS, BET, and SEM. The catalyst possessed a specific surface area of 638.98 m2/g and a pore volume of 0.291 cm3/g. The prepared catalyst was studied for its ability of oxidative degradation of lignin under different reaction conditions. By optimizing the reaction conditions, a maximum liquid product yield of 38.94% was obtained at 135 °C with 3.5 wt% of catalyst and 15 × 10−2 mol/L H2O2; at the same time, a maximum phenols selectivity of 32.58% was achieved. The compositions and properties of liquid products obtained from lignin degradation using different catalyst concentrations were studied comparatively via GC-MS, FT-IR, 1H-NMR, and EA. Furthermore, the structure changes of solid residues are also discussed.    
+
+    
+
+## Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation   
+
+OpenAlex: https://openalex.org/W4390910649    
+Open access: False
+    
+[Qiuju Wang](https://openalex.org/A5014265119), [Tian Zhou](https://openalex.org/A5071831009), [Chunhui Wang](https://openalex.org/A5036124105), [Longwei Li](https://openalex.org/A5011044374), [Lianli Zou](https://openalex.org/A5032704479), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4696668.
+    
+Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts to generate green hydrogen at room temperature, is a promising chemical hydrogen storage technology that can replace fossil fuels in energy-related devices. In this work, a novel nanocatalyst with ultrafine palladium nanoparticles immobilized on transition metal atom-decorated carbon supports was synthesized for the dehydrogenation of liquid FA. Via a hydrothermal of glucose and carbonitride with a following Co doping through a heat treatment process, porous carbons with evenly dispersed Co-sites on them were strategically achieved, which could be used as a support for immobilizing Pd nanoparticles. The obtained Pd/NC-Co1% catalyst exhibited much superior catalytic activities to those samples without Co doping on the support (Pd/NC and PdCo1%/NC), showing an impressive turnover frequency of 3045 h−1 at 50 °C for FA dehydrogenation. Other transition metal species such as Fe- and Ni-decorated carbon nanocatalysts also showed an improved catalytic activity for FA dehydrogenation. This work not only provide an efficient method to synthesize nanocatalysts with ultrafine metal nanoparticles but also demonstrate that highly dispersed metal atoms on the support can effectively affect the immobilized nanoparticles, resulting in an enhancement of catalytic performance.    
+
+    
+
+## Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation   
+
+OpenAlex: https://openalex.org/W4390703678    
+Open access: False
+    
+[Silvia Gutiérrez‐Tarriño](https://openalex.org/A5082281753), [Carmen Galdeano-Ruano](https://openalex.org/A5013554434), [Christian Wittee Lopes](https://openalex.org/A5066683833), [Jaime Mazarío](https://openalex.org/A5046780829), [Lidia E. Chinchilla](https://openalex.org/A5081303199), [Giovanni Agostini](https://openalex.org/A5086042043), [José J. Calvino](https://openalex.org/A5071740493), [Juan P. Holgado](https://openalex.org/A5023721186), [E. Rodrı́guez Castellón](https://openalex.org/A5091810010), [Alberto Roldán](https://openalex.org/A5085004954), [Pascual Oña‐Burgos](https://openalex.org/A5018654878), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4690198.
+    
+The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.    
+
+    
+
+## Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
+
+OpenAlex: https://openalex.org/W4390637146    
+Open access: False
+    
+[Xueting Wu](https://openalex.org/A5036014654), [Xiao Wang](https://openalex.org/A5058010200), [Lingling Zhang](https://openalex.org/A5041880317), [Xiaomei Wang](https://openalex.org/A5016348832), [Shuyan Song](https://openalex.org/A5013100135), [Hongjie Zhang](https://openalex.org/A5082373596), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202317594.
+    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
+
+    
+
+## Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
+
+OpenAlex: https://openalex.org/W4390637288    
+Open access: False
+    
+[Xia Wu](https://openalex.org/A5007297993), [Xiao Wang](https://openalex.org/A5058010200), [Lingling Zhang](https://openalex.org/A5041880317), [Xiaomei Wang](https://openalex.org/A5016348832), [Shuyan Song](https://openalex.org/A5013100135), [Hongjie Zhang](https://openalex.org/A5082373596), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317594.
+    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
+
+    
+
+## All Platinum Group Metal-Free and Durable Catalysts for Direct Borohydride Fuel Cells   
+
+OpenAlex: https://openalex.org/W4390722093    
+Open access: False
+    
+[Youngdon Ko](https://openalex.org/A5088577552), [Junkil Park](https://openalex.org/A5005726642), [Xiong Zhang](https://openalex.org/A5076988030), [Liqun Kang](https://openalex.org/A5003033013), [Thi Ha My Pham](https://openalex.org/A5045667730), [Victor Boureau](https://openalex.org/A5004507719), [Cuong Pham‐Huu](https://openalex.org/A5011167912), [Jihan Kim](https://openalex.org/A5018605846), [Liping Zhong](https://openalex.org/A5001168753), [Andreas Züttel](https://openalex.org/A5005895018), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c02578.
+    
+Platinum group metal-free catalysts (e.g., Fe–N–C and Co–N–C) are used as hydrogen peroxide reduction reaction (PRR) catalysts in direct borohydride fuel cells (DBFCs). Fe–N–C is more active in the PRR and demonstrates high performance at the beginning of the DBFC test, whereas Co–N–C exhibits more stability in long-term operation. In the DBFC-accelerated durability test, Fe–N–C displays an activity decline of 18.6%, whereas Co–N–C exhibits a more stable performance, with an activity decrease of only 6.7%. In addition, the active site of Fe–N–C degrades more rapidly than that of Co–N–C in terms of demetalation of the central atom, as revealed by X-ray photoelectron spectroscopy. Furthermore, density functional theory simulations indicate that Co–N–C is more stable than Fe–N–C in both O2 and H2O2 environments. Overall, this study demonstrates that non-noble transition metal catalysts can fully replace platinum group metal catalysts at the cathode and anode in liquid-fuel-powered DBFC systems.    
+
+    
+
+## Acceptorless dehydrogenation of biomass-derived aromatic alcohols to aromatic ketones synergistically catalysed by Pd/C and ionic liquids   
+
+OpenAlex: https://openalex.org/W4391036584    
+Open access: False
+    
+[Xiaohai Zhou](https://openalex.org/A5085309756), [Ruipeng Li](https://openalex.org/A5016341553), [Zhiyong Li](https://openalex.org/A5079563573), [Yanfei Zhao](https://openalex.org/A5043082502), [Zhengang Ke](https://openalex.org/A5003932410), [Xiaochen Zhang](https://openalex.org/A5088406552), [Jianji Wang](https://openalex.org/A5027696701), Journal of Molecular Liquids. None(None)] 2024.https://doi.org/10.1016/j.molliq.2024.124060.
+    
+Acceptorless dehydrogenation of alcohols is a promising pathway for biomass resource utilization and hydrogen supply, but still lacking for simple and effective catalysts. Herein, we report a metal-ionic liquids (ILs) catalyst for synergistical catalytic dehydrogenation of aromatic alcohols to aromatic ketones under mild conditions without any acid/base additives. It is found that the combination of Pd/C with 1-butyl-3-methylimidazolium tetrafluoroborate ([BMIm][BF4]) displays high activity for the dehydrogenation of biomass-derived alcohols including 1-phenyl-1-ethanol, 1-phenyl-1-propanol and 1-(4-methoxyphenyl)ethanol. Mechanistic studies reveal that the Pd/C can be anchored and stabilized by the IL via interacting with [BMIm]+ cation, and the [BF4]- anion plays vital role in the activation of hydroxyl-H and α-H protons via hydrogen bonding interactions. These interactions create an effective microenvironmental for Pd/C catalyzing the cleavage of the hydroxyl-H and α-CH bonds of α-hydroxyl aromatic alcohols to generate aromatic ketones and H2. Moreover, the Pd/C-[BMIm][BF4] catalyst could be recovered and reused for 5 runs without obvious activity loss. This strategy provides more evidences for the synergetic catalysis of metal and ionic liquids and exhibits potential application prospects for hydrogen supply from renewable biomass-derived alcohols.    
+
+    
+
+## Review of electrocatalytic reduction of CO2 on carbon supported films   
+
+OpenAlex: https://openalex.org/W4390721078    
+Open access: False
+    
+[Afdhal Yuda](https://openalex.org/A5091844504), [Parisa Ebrahimi](https://openalex.org/A5042313856), [Josephine Selvaraj](https://openalex.org/A5083118237), [Anand Kumar](https://openalex.org/A5034418975), [Vaidyanathan Subramanian](https://openalex.org/A5009923215), International Journal of Hydrogen Energy. 57(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.01.022.
+    
+Carbon capture and conversion are becoming increasingly important as atmospheric CO2 concentrations rise and their adverse effects become increasingly evident. CO2 conversion/utilization-related research has gained renewed interest on a variety of platforms, including thermal, solar, biological, photochemical, and electrochemical conversions. Electrochemical routes, using suitable catalysts, are potentially suitable for commercial purposes owing to ease of integration with solvent-based carbon capture processes. This paper summarizes and evaluates the studies conducted within the past decade regarding the feasibility of carbon-based supports utilized in electrocatalytic carbon dioxide reduction. CO2 conversion has been reviewed in a number of reports, focusing on specific sections, such as metallic/bimetallic catalysts, CO2 solubility, and the fabrication of electrodes and electrochemical cells. The number of publications addressing various carbon-based electrocatalysts is increasing, but these materials have not yet been reviewed. Herein, we are focused on three types of electrocatalyst materials: metals, metal-oxides, non-oxides, and combinations thereof with carbon. The scope of this study includes the following: i) carbon-based materials and how they are characterized by distinctive properties, ii) electrocatalytic CO2 conversion techniques, and iii) research cases for carbon allotrope-supported composites used in CO2 reduction. The advancement in analytical tools that provide insight into liquid-phase reactions will benefit the development of catalysts and electrodes that will be effective in converting CO2 into the desired products. Such developments will also be applicable to other systems involving liquid electrolytes or solvents for performing reactions on catalyst surfaces.    
+
+    
+
+## Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys   
+
+OpenAlex: https://openalex.org/W4390796939    
+Open access: False
+    
+[Xin Cao](https://openalex.org/A5040301865), [Yong-Kui Chang](https://openalex.org/A5090459753), [Yang-Yang Yang](https://openalex.org/A5007540882), [Hongfang Ma](https://openalex.org/A5061179226), [Weiming Liu](https://openalex.org/A5048902046), [Yixin Lü](https://openalex.org/A5066554626), [Shyue-Yen Yao](https://openalex.org/A5012785198), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4693252.
+    
+This study investigates the catalytic reduction of CO2 using various ratios of Ga-based liquid alloys under different conditions. We explored the doping of liquid gallium with metals like indium (In) and magnesium (Mg) through mechanical stirring and heating. The alloys, once prepared, were exposed to CO2 in a reactor, with the Ga-In-Mg alloy demonstrating optimal reaction effects. In an exemplary synthesis, 1g of Ga was combined with 30wt.% In and 7wt.% Mg, yielding a 7wt.% Ga-In-Mg alloy. This alloy, when reacted with CO2 for 10 hours, exhibited a maximum weight gain of 445 mg. Elemental analysis showed a carbon content increase from 4.56% to 72.56% post-reaction. The reacted alloy, post-acid washing and electron microscopy examination, revealed the production of carbon fibers approximately 7 μm wide. The primary objectives of this research were to identify the optimal temperature for CO2 reduction by the alloy and to determine the most efficient alloy catalyst using orthogonal experimental methods. Furthermore, we aimed to elucidate the catalytic mechanism of gallium-based liquid metal in CO2 reduction. The study also involved analyzing the adsorption and reaction processes by fitting the adsorption and reaction kinetic curves of the liquid metal with CO2. Achieving these objectives could enable the conversion of CO2 into solid carbon products, aligning with current environmental and sustainable development goals. This research offers new insights and innovative approaches to tackling energy-related challenges, highlighting the potential of liquid metal alloys in carbon capture and reduction applications.    
+
+    
+
+## Process intensification of separation and synthesis pathways using deep eutectic solvents   
+
+OpenAlex: https://openalex.org/W4390966484    
+Open access: False
+    
+[Satyawan Singh](https://openalex.org/A5061876144), [Saurabh C. Patankar](https://openalex.org/A5006808433), No host. None(None)] 2024.https://doi.org/10.1016/b978-0-323-95177-7.00005-9.
+    
+With the commencement of the 21st centennial era, the researchers discovered that a mixture of quaternary ammonium and metal halide, when mixed in a specific proportion, results in the delocalization of charge through hydrogen bonding between the quaternary ammonium halide and metal halide. The resulting admixture formed a viscous fluid at room temperature and atmospheric pressure that was insensitive to moisture and much cheaper than the ionic liquids (ILs) being explored for various applications as greener solvents or catalysts. This finding gave an impetus to investigate the formation of such fluids with varied compositions as cheaper and reusable ILs. Since these liquid eutectic mixtures developed as ILs, the term “deep eutectic solvents” (herein referred to as DESs) was coined in 2003 by A.P. Abbott to differentiate it from conventional ILs. The deep eutectic mixtures got popular applications as solvents owing to their low melting temperatures and similar properties to solvents/electrolytes.    
+
+    
+
+## A magnetic pore-confined catalyst with ionic liquids supported on MOFs for the synthesis of aryl-oxazolidinones: design, performance, and recyclability   
+
+OpenAlex: https://openalex.org/W4390748587    
+Open access: False
+    
+[Siying Chong](https://openalex.org/A5059764834), [Jiaoyan Li](https://openalex.org/A5002497448), [Shuang Zhao](https://openalex.org/A5070132910), [G. Huang](https://openalex.org/A5040454618), [Yajing Zhang](https://openalex.org/A5088445624), [Rui Rui Liu](https://openalex.org/A5016795494), [Kangjun Wang](https://openalex.org/A5055374805), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148678.
+    
+Various methods have been explored for preparing heterogeneous catalysts using metal-organic framework (MOF) supported ionic liquids (ILs); however, it is challenging to develop such a synergistic catalyst that combines high efficiency, stability, the capability of maintaining immobilized ILs and active components, and high recovery efficiency. In this study, we successfully developed a magnetic MOF sub-nanostructured carrier by integrating organic UiO-66 with magnetic nanoparticles (MNPs). The resulting magnetic pore-confined catalyst, named MAG-UiO-66-IL(OAc), was prepared by in-situ self-assembly of pore-confining [C4mim] [OAc] within the nano-cavities of the magnetic MOF carrier. The morphology, structure, and thermal properties of the magnetic pore-confined catalyst were comprehensively characterized using various techniques. The novel catalyst MAG-UiO-66-IL(OAc) demonstrated remarkable catalytic efficiency in transforming cyclic carbonates and aryl amines to aryl-oxazolidinones, achieving yields up to 95% under mild solvent-free conditions. Furthermore, the catalyst showed exceptional recyclability, retaining its catalytic activity after ten successive reuses. Notably, the catalyst displayed excellent performance for reactions involving large-size reactants, expanding the range of substrate usability beyond previously reported solid-loading catalysts. Theoretical calculations were also conducted to complement the experimental results, providing valuable insights into the structure–activity relationship between the magnetic MOF carrier and the ionic liquid. These findings emphasize the significance of molecular-scale confinement on reactant diffusion and the overall reaction process, offering valuable guidance for the design of catalyst microstructures and the modulation of reaction performance.    
+
+    
+
+## Reversible hydrogenation and dehydrogenation of benzene for hydrogen storage on highly dispersed Pd/γ-Al2O3 catalyst   
+
+OpenAlex: https://openalex.org/W4390724268    
+Open access: False
+    
+[Guilin Zhou](https://openalex.org/A5004439081), [Wenjing Liu](https://openalex.org/A5037634210), [Yue Zhao](https://openalex.org/A5085237912), [Xiaoping Wang](https://openalex.org/A5089812226), [Shuang Chen](https://openalex.org/A5078024000), [Aiping Jia](https://openalex.org/A5017364023), [Hongmei Xie](https://openalex.org/A5048668242), Journal of Industrial and Engineering Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jiec.2024.01.018.
+    
+The research and development of efficient catalyst is the key to achieving high-capacity hydrogen storage in liquid organic hydrogen carriers (LOHCs). The highly dispersed Pd/γ-Al2O3 catalysts with few-atom Pd were prepared by impregnation method using HNO3 as promoter. The hydrogen storage capacity of the benzene/cyclohexane hydrogen carriers was further investigated by vapor phase benzene hydrogenation and cyclohexane dehydrogenation reactions over the studied Pd/γ-Al2O3 catalysts. The results showed that the metal Pd was the active centers for the benzene hydrogenation/cyclohexane dehydrogenation reactions. The addition of HNO3 can effectively promote the metal Pd to be highly dispersed, thus improving the Pd atoms utilization and reducing the Pd dosage. Meanwhile, the strongly electronic effects between the highly dispersed Pd species and the Al2O3 support promoted the electron-deficient Pdδ+ sites to be formed, which enhanced the adsorption and activation ability for the reactants molecules. The benzene conversion on the Pd/γ-Al2O3 catalyst with a metallic Pd loading of 1.0 wt.% reached 97.51 % at 200 °C. While the cyclohexane conversion reached 90.94 % at 400 °C with the actual hydrogen storage capacity of 6.54 wt.%, which provided an effective idea for large-scale storage and transportation of H2 based on LOHCs.    
+
+    
+
+## Nickel Carbide Nanoparticle Catalyst for Selective Hydrogenation of Nitriles to Primary Amines   
+
+OpenAlex: https://openalex.org/W4390615119    
+Open access: False
+    
+[Sho Yamaguchi](https://openalex.org/A5081649730), [Daiki Kiyohira](https://openalex.org/A5093661952), [Kohei Tada](https://openalex.org/A5013506973), [Taiki Kawakami](https://openalex.org/A5067480489), [Akira Miura](https://openalex.org/A5038408960), [Takato Mitsudome](https://openalex.org/A5064171498), [Tomoo Mizugaki](https://openalex.org/A5068048324), Chemistry - A European Journal. None(None)] 2024.https://doi.org/10.1002/chem.202303573.
+    
+Despite its unique physicochemical properties, the catalytic application of nickel carbide (Ni3C) in organic synthesis is rare. In this study, we report well‐defined nanocrystalline Ni3C (nano‐Ni3C) as a highly active catalyst for the selective hydrogenation of nitriles to primary amines. The activity of the aluminum‐oxide‐supported nano‐Ni3C (nano‐Ni3C/Al2O3) catalyst surpasses that of Ni nanoparticles. Various aromatic and aliphatic nitriles and dinitriles were successfully converted to the corresponding primary amines under mild conditions (1 bar H2 pressure). Furthermore, the nano‐Ni3C/Al2O3 catalyst was reusable and applicable to gram‐scale experiments. Density functional theory calculations suggest the formation of polar hydrogen species on the nano‐Ni3C surface, which were attributed to the high activity of nano‐Ni3C towards nitrile hydrogenation. This study demonstrates the utility of metal carbides as a new class of catalysts for liquid‐phase organic reactions.    
+
+    
+
+## Ionic liquid dopant induced 3D hierarchical CuO nanostructures with doped heteroatoms and highly dispersed Ag for electrochemical upgrading of 5-hydroxymethylfurfural   
+
+OpenAlex: https://openalex.org/W4390636084    
+Open access: False
+    
+[Chaofan Li](https://openalex.org/A5008868985), [Fengke Wang](https://openalex.org/A5051476281), [Yi Nie](https://openalex.org/A5035540456), [Leilei Wang](https://openalex.org/A5084216806), [Zhihao Zhang](https://openalex.org/A5027792053), [Tianhao Liu](https://openalex.org/A5072350017), [Binghui He](https://openalex.org/A5071568123), [Yunqian Ma](https://openalex.org/A5025885659), [Lihua Zang](https://openalex.org/A5086281065), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148580.
+    
+The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has received increasing attention due to its carbon–neutral and value-added chemical properties, and the development of electrocatalyst with highly active and selective is crucial. Highly dispersing metal atoms throughout the catalyst can maximize the catalytic efficiency. Here, we synthesized a 3D hierarchical CuO nanostructure induced by ionic liquid with heteroatoms doping and Ag dispersing (Ag-CuO@IL), and this self-supported catalyst can reach 10 mA cm−2 at only 1.33 V vs RHE and achieved HMF conversion of 98.5 %, FDCA yield of 97.1 % and Faraday efficiency of 92.2 %. The excellent catalytic performance of Ag-CuO@IL for HMFOR is attributed to the doped heteroatoms derived from ILs to promote electron redistribution and the generated oxygen vacancies induced by IL anions to highly disperse Ag. Also, the catalyst was the nanosheet-assembled spherical clusters with 3D nanostructure, which exposed a large number of active sites. Density functional theory calculations showed that Ag-CuO@IL possessed moderate adsorption strengths of HMF and OH–, thus facilitating the desorption of the products in the reaction process. The design that induced by ionic liquid dopant not only provides an effective and green mean for HMFOR, but also has the large potential to guide the synthesis of other catalysts with improved performances in various applications.    
+
+    
+
+## A Cluster-Type Self-Healing Catalyst for Stable Saline–Alkali Water Splitting   
+
+OpenAlex: https://openalex.org/W4390986406    
+Open access: True
+    
+[Haiming Wang](https://openalex.org/A5002285545), [Sheng Chen](https://openalex.org/A5039744969), Catalysts. 14(1)] 2024.https://doi.org/10.3390/catal14010081 ([pdf](https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459).
+    
+In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
+
+    
+
+## Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
+
+OpenAlex: https://openalex.org/W4390718253    
+Open access: False
+    
+[Qibo Deng](https://openalex.org/A5058502784), [Shuang Chen](https://openalex.org/A5078024000), [Weitai Wu](https://openalex.org/A5013563049), [Shuyu Zhang](https://openalex.org/A5017401077), [Hassanien Gomaa](https://openalex.org/A5014881567), [Cuihua An](https://openalex.org/A5048675576), [Ning Hu](https://openalex.org/A5090597551), [Xiaopeng Han](https://openalex.org/A5025874763), ChemPlusChem. None(None)] 2024.https://doi.org/10.1002/cplu.202300688.
+    
+With the advancement of scientific research, the introduction of external physical methods not only adds extra freedom to the design of electro‐catalytical processes for green technologies but also effectively improves the reactivity of materials. Physical methods can adjust the intrinsic activity of materials and modulate the local environment at the solid‐liquid interface. In particular, this approach holds great promise in the field of electrocatalysis. Among them, the ultrasonic waves have shown reasonable control over the preparation of materials and the electrocatalytic process. However, the research on coupling ultrasonic waves and electrocatalysis is still early. The understanding of their mechanisms needs to be more comprehensive and deep enough. Firstly, this article extensively discusses the adhibition of the ultrasonic‐assisted preparation of metal‐based catalysts and their catalytic performance as electrocatalysts. The obtained metal‐based catalysts exhibit improved electrocatalytic performances due to their high surface area and more exposed active sites. Additionally, this article also points out some urgent unresolved issues in the synthesis of materials using ultrasonic waves and the regulation of electrocatalytic performance. Lastly, the challenges and opportunities in this field are discussed, providing new insights for improving the catalytic performance of transition metal‐based electrocatalysts.    
+
+    
+
+## Microwave-induced biomass pyrolysis coupled with hydrothermal char composites catalysis to selectively prepare phenols-rich liquid products   
+
+OpenAlex: https://openalex.org/W4390849946    
+Open access: False
+    
+[Haixiao Wei](https://openalex.org/A5011443720), [Kaiming Dong](https://openalex.org/A5088942597), [Xiaoyong Men](https://openalex.org/A5024631271), [Feiqiang Guo](https://openalex.org/A5040141041), [Zhenjie Sun](https://openalex.org/A5015370419), [Lingwei Kong](https://openalex.org/A5050400639), [Ning Zhao](https://openalex.org/A5076596821), [Roger Ruan](https://openalex.org/A5065665210), [Yonghui Bai](https://openalex.org/A5025273762), Fuel. 363(None)] 2024.https://doi.org/10.1016/j.fuel.2024.130872.
+    
+In this study, three types of hydrothermal char-supported metal nanoparticle composites (HCM-Fe, HCM-Co, and HCM-Ni) were prepared using pinewood as the raw material via an ion hydrothermal pretreatment followed by microwave heating method, which were then served as both catalysts and microwave absorbers to enhance the rapid pyrolysis of pine wood particles for the selective preparation of phenols-rich bio-oil. The combined effects of hydrothermal carbonization and microwave heating enriched the pore structure of the composite surface, yielding ordered carbon structures such as carbon microspheres, carbon nanotubes, and graphite layers. Also, metal nanoparticles were generated and uniformly anchored on the hydrothermal char matrix by the graphite layers. The three types of hydrothermal carbon-based catalysts exhibit excellent microwave absorption performance, facilitating rapid heating of pine particles at a rate as fast as 5.49 °C/s. Among these catalysts, HCM-Co demonstrates the best catalytic performance, efficiently promoting the cleavage of the β-O-4 bond in lignin and achieving a liquid product yield of 38.4 % at 500 °C. The resulting bio-oil is characterized by its richness in phenolic compounds, accounting for 54.9 % of its composition, and partial mitigation of acidity.    
+
+    
