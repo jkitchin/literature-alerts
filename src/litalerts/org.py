@@ -15,7 +15,10 @@ def get_org_item(topic, result):
     authors = get_org_authors(result)
     host = get_host(result)
     abstract = get_abstract(result)
-    citation = get_org_citation(result)       
+    citation = get_org_citation(result)
+
+    pdf = result['primary_location'].get('pdf_url', None)
+    isoa = result['primary_location'].get('is_oa', False)
 
     return f'''** {html_to_text(result['title'])}   
 :PROPERTIES:
@@ -25,7 +28,9 @@ def get_org_item(topic, result):
 :HOST: {host}
 :END:
 
-{citation}
+Open access: {isoa}
+    
+{citation} {pdf if pdf else ""}
     
 [[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
