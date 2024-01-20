@@ -3,8 +3,9 @@ import time
 from pathlib import Path
 import urllib.parse
 
-from .openalex import (get_authors, get_org_authors, get_abstract, get_host,
-                       get_citation,
+from .openalex import (get_authors,  get_md_authors,
+                       get_abstract, get_host,
+                       get_citation, get_md_citation,
                        html_to_text)
 
 
@@ -12,14 +13,14 @@ def get_md_item(topic, result):
     """Get a Markdown string for RESULT.
     RESULT will be a json item for a Work.
     """
-    authors = get_org_authors(result)
+    authors = get_md_authors(result)
     host = get_host(result)
     abstract = get_abstract(result)
-    citation = get_citation(result)
+    citation = get_md_citation(result)
 
     _pdf = result['primary_location'].get('pdf_url', None)
     if _pdf:
-        pdf = f'([pdf]({_pdf})'
+        pdf = f' ([pdf]({_pdf})'
     else:
         pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
@@ -29,7 +30,7 @@ def get_md_item(topic, result):
 OpenAlex: {result['id']}    
 Open access: {isoa}
     
-{citation} {result['doi']} {pdf}.
+{citation}{result['doi']}{pdf}.
     
 {abstract}    
 
@@ -46,6 +47,7 @@ def write_md(topic, results):
     Path('md').mkdir(exist_ok=True)
     mdfile = Path('md') / (base + '.md')
     print(f'writing to {mdfile}')
+    
     with open(mdfile, 'w') as f:        
         f.write(f'# {topic["label"]}\n')
         f.write(f'Description: {topic["description"]}\n')
@@ -54,6 +56,7 @@ def write_md(topic, results):
         f.write('OpenAlex URLS (not including from_created_date or the API key)\n')
         for _filter in topic['filter']:
             f.write(f'- [](https://api.openalex.org/works?filter={urllib.parse.quote(_filter)})\n')
+        f.write('\n')
         f.write(s)
         
 

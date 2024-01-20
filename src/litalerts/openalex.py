@@ -75,7 +75,17 @@ def get_org_authors(result):
     authors = [f"[[{au['author']['id']}][{au['author']['display_name']}]]"
                for au in result['authorships']]
     return ', '.join(authors)
-    
+
+
+def get_md_authors(result):
+    """Return an author string for org-mode.
+    Each author is linked to their id.
+    """
+    authors = [f"[{au['author']['display_name']}]({au['author']['id']})"
+               for au in result['authorships']]
+    return ', '.join(authors)
+
+
 def get_authors(result):
     """Return a simple author string.
     """
@@ -92,6 +102,15 @@ def get_host(result):
     else:
         host = 'No host'
     return host
+
+
+def get_md_citation(result):
+    """Return a lightly formatted citation for RESULT.
+    """
+    authors = get_md_authors(result)
+    host = get_host(result)
+    citation = f"{authors}, {host}. {result.get('biblio', {}).get('volume', 0)}({result.get('biblio', {}).get('issue', 0)})] {result['publication_year']}."
+    return html_to_text(citation)
 
 
 def get_org_citation(result):
