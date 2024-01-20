@@ -18,7 +18,7 @@ def get_org_item(topic, result):
     citation = get_org_citation(result)
 
     _pdf = result['primary_location'].get('pdf_url', None)
-    if pdf:
+    if _pdf:
         pdf = f'([[{_pdf}][pdf]])'
     else:
         pdf = ''
