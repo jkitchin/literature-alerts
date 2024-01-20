@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 18:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jan 2024 14:10:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -208,16 +208,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjche.2023.12.017</guid>
     </item>
     <item>
-      <title>Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2023.159243</link>
-      <description>Youming Dong, Xingcheng Ma, Zhaoyong Jin, Xin Xu, Tianyi Xu, Dantong Zhang, Xiaoqiang Cui, Applied Surface Science. None(None)] 2024. https://openalex.org/W4390640110
-
-                Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction reaction (ECO2RR). However, the mechanism behind the formation of different final products from Cu2O nanostructures remains a challenge. In this study, we combine theoretical and experimental approaches to demonstrate that the full-exposed Cu sites in Cu2O (1 0 0) microcubes contribute to superior C2H4 selectivity compared to other microstructures such as Cu2O (1 1 1), (1 1 0), and (3 1 1) facets. Density functional theoretical (DFT) calculations reveal that the stronger orbital splitting between Cu 3d and O 2p orbital of Cu2O (1 0 0) facet facilitates the formation of neighboring and low valence state Cu active site, thereby enhancing *CO adsorption and C2H4 formation. These DFT results are supported by the synthesis of four kinds of Cu2O microparticles (MPs) with different exposed facets, where cubic-Cu2O with the (1 0 0) facet exhibits the highest Faradaic efficiency (61.3 %). This study has significant implications for the structural design and mechanism analysis of innovative catalysts used in ECO2RR.</description>
-      <author>Youming Dong, Xingcheng Ma, Zhaoyong Jin, Xin Xu, Tianyi Xu, Dantong Zhang, Xiaoqiang Cui</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2023.159243</guid>
-    </item>
-    <item>
       <title>Carbon dioxide-steam reforming gasification of carbonized biomass pellet for high syngas yield and TAR reduction through CFD modeling</title>
       <link>https://doi.org/10.1016/j.ces.2024.119716</link>
       <description>Kannie Winston Kuttin, Asma Leghari, Hai Yu, Zihong Xia, Lu Ding, Guangsuo Yu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4390673968
@@ -358,6 +348,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-lckq9</guid>
     </item>
     <item>
+      <title>A global synthesis of reported urban tree carbon production rates and approaches</title>
+      <link>https://doi.org/10.3389/fevo.2023.1244418</link>
+      <description>G. Darrel Jenerette, Dustin L. Herrmann, Frontiers in Ecology and Evolution. 11(None)] 2024. https://openalex.org/W4390695934
+
+                Trees are a prominent feature of urban ecosystems. Urban tree productivity is a key component of urban ecosystem energetics and has been identified as a possible pathway for reducing global greenhouse gas concentrations. Recently, extensive research has been directed to evaluating the carbon dynamics of urban trees in cities throughout the world. Here, we synthesize this research, using results from previous studies from 154 cities to identify the distribution of urban tree productivity globally and the basis for generating urban tree productivity estimates. Reported urban tree productivity shows a strong relationship with estimated tree carbon content and exhibits increases with both temperature and precipitation, with land cover differences influencing the degree of climate sensitivity. Compared with a reference productivity estimate, urban trees showed greatly reduced estimated rates of productivity and the magnitude of reduced productivity was inversely correlated with precipitation but was independent of temperature. Reported rates of productivity across all studies suggest climate restrictions that are more important with less intensively managed land covers. Scaling these results globally suggests a limited opportunity for urban trees to contribute to atmospheric carbon dioxide reductions, especially in the absence of major carbon emission reductions. We found that the majority of results are derived from tree inventories from a single period with rates of productivity estimate through quasi-empirical or allometric models. The majority of studies have been conducted in temperate biomes and North America. These results show that existing urban tree assessments have substantial methodological restrictions and regional biases. Future research of urban tree productivity should look toward improved methods and can use this synthesis as a baseline for comparisons and improvement.</description>
+      <author>G. Darrel Jenerette, Dustin L. Herrmann</author>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fevo.2023.1244418</guid>
+    </item>
+    <item>
       <title>Unconventional and Emerging Approaches to CO2 Reduction</title>
       <link>https://doi.org/10.3390/su16020713</link>
       <description>Jeffrey G. Bell, Thomas Underwood, Sustainability. 16(2)] 2024. https://openalex.org/W4390878076
@@ -488,16 +488,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.nantod.2024.102152</guid>
     </item>
     <item>
-      <title>Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.123703</link>
-      <description>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li, Applied Catalysis B: Environmental. 345(None)] 2024. https://openalex.org/W4390636108
-
-                Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.</description>
-      <author>Shaoqiang Li, Yilei Li, H. Y. Bai, Dong-ying Zhou, Ying Liu, Ruihong Liu, Bao&#8208;Hang Han, Xinying Liu, Fa-tang Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123703</guid>
-    </item>
-    <item>
       <title>Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4</title>
       <link>https://doi.org/10.2139/ssrn.4696662</link>
       <description>Mingming Sun, Xin Xu, Shihao Min, Jie He, K. Li, Longtian Kang, No host. None(None)] 2024. https://openalex.org/W4390910665
@@ -566,6 +556,16 @@
       <author>Xiang-Da Zhang, Jian-Mei Huang, Xiaorong Zhu, Chang Liu, Yue Yin, Jiayi Huang, Ming Xu, Yafei Li, Zhi&#8208;Yuan Gu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690201</guid>
+    </item>
+    <item>
+      <title>In situ constructed B-CdS/Cd Schottky junctions for efficient photocatalytic CO2 reduction under visible light</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.103926</link>
+      <description>R. Li, Zhenhua Dai, Tim Hui-Ming Huang, Qianqian Zhang, Xunfu Zhou, Zhongli Peng, Zuotao Liu, Yueping Fang, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4390987589
+
+                CdS with a visible light response and energy band location suitable for CO2 photoreduction has received extensive attention. However, low product selectivity and photocatalytic efficiency limit its application. Here, NaBH4 is used as a reducing agent to generate Cd metal on the surface of CdS nanorods in situ. This leads to the construction of a B-CdS/Cd metal cocatalyst/semiconductor structure. This configuration significantly enhanced the CdS's activity of photocatalytic CO2 reduction. The Cd metal which is on the surface of CdS nanorods promoted the separation and transfer of photogenerated charges and increased both light photosensitivity and CO2 adsorption capabilities. The improved B-CdS/Cd catalyst shows excellent CO2 reduction capabilities by generating CO at a rate of 323.39 &#956;mol g&#8722;1 h&#8722;1, which is 2.01 times more than pure CdS, owing to the synergistic enhancements. Simultaneously, Cd acts as an active site inhibiting H2 production during the CO2 reduction reaction. This work demonstrates the potential of Cd metal as a metal cocatalyst in photocatalytic CO2 reduction.</description>
+      <author>R. Li, Zhenhua Dai, Tim Hui-Ming Huang, Qianqian Zhang, Xunfu Zhou, Zhongli Peng, Zuotao Liu, Yueping Fang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.103926</guid>
     </item>
   </channel>
 </rss>

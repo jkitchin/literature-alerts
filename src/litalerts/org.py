@@ -19,22 +19,12 @@ def get_org_item(topic, result):
 
     _pdf = result['primary_location'].get('pdf_url', None)
     if _pdf:
-        pdf = f'([[{_pdf}][pdf]])'
+        pdf = f' ([[{_pdf}][pdf]])'
     else:
         pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
 
     return f'''** {html_to_text(result['title'])}   
-:PROPERTIES:
-:ID: {result['id']}
-:DOI: {result['doi']}
-:AUTHORS: {authors}
-:HOST: {host}
-:END:
-
-Open access: {isoa}
-    
-{citation} {pdf}.
     
 [[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
@@ -42,10 +32,10 @@ Open access: {isoa}
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "{result['id']}"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "{result['id']}"))][Get cited by]]
 
-OpenAlex: {result['id']}
+OpenAlex: {result['id']} (Open access: {isoa})
     
-{authors}, {host}. {result['doi']}
-    
+{citation} {result['doi']} {pdf}
+     
 {abstract}    
 
     
@@ -69,6 +59,7 @@ def write_org(topic, results):
         f.write('OpenAlex URLS (not including from_created_date or the API key)\n')
         for _filter in topic['filter']:
             f.write(f'- [[https://api.openalex.org/works?filter={urllib.parse.quote(_filter)}]]\n')
+        f.write('\n')
         f.write(s)
         
 

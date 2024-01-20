@@ -1,44 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sat Jan 20 18:53:43 2024
+Created on Sat Jan 20 14:10:53 2024
 
-Found 48 results from 2024-01-06 to 2024-01-20
+Found 48 results from 2024-01-13 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## PdOs bimetallene for energy-saving hydrogen production coupled with ethanol electro-oxidation   
-
-OpenAlex: https://openalex.org/W4390630246    
-Open access: False
-    
-[Ziqiang Wang](https://openalex.org/A5051756286), [Min Li](https://openalex.org/A5052024256), [Shan Xu](https://openalex.org/A5060144924), [Heng-Qing Ye](https://openalex.org/A5011020397), [Kai Deng](https://openalex.org/A5047495310), [You Xu](https://openalex.org/A5078327202), [Hongjing Wang](https://openalex.org/A5070260840), [Liang Wang](https://openalex.org/A5086664647), Materials Today Energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101493.
-    
-The replacement of sluggish oxygen evolution reaction by more thermodynamically favorable ethanol oxidation reaction (EOR) is a promising strategy for co-production of hydrogen and valuable chemicals in energy-saving mode. Here, we propose the synthesis of highly curved PdOs bimetallene, which possesses high active sites atomic utilization and conductivity. Furthermore, alloy effect can regulate electronic structure and optimize adsorption energy of reactants. Therefore, PdOs bimetallene exhibits superior performance for hydrogen evolution reaction (HER) and EOR under basic solutions, with overpotential of 36 mV at 10 mA cm-2 and mass activity of 1.51 mA μg-1Pd, respectively. In the EOR-HER co-electrolysis system, PdOs bimetallene requires low voltage of 0.801 V for concurrent production of hydrogen and acetate at 50 mA cm−2, which greatly reduces energy consumption compared to conventional water electrolysis (1.976 V). This method provides a promising strategy for designing bimetallic electrocatalysts towards simultaneous energy-saving generation of hydrogen and high-value chemicals by replacing sluggish OER with more favorable ethanol oxidation reaction.    
-
-    
-
-## Reinforced electrochemical energy storage through controlled construction of hierarchical hollow β-Ni(OH)2 microspheres enriched with oxygen vacancies induced by functionalized MWCNTs   
-
-OpenAlex: https://openalex.org/W4390636146    
-Open access: False
-    
-[Zhi-Jia Sun](https://openalex.org/A5077814179), [J. Chen](https://openalex.org/A5018156906), [Xiao‐Man Cao](https://openalex.org/A5059785141), [Hao Ge](https://openalex.org/A5036154095), [Daliang Liu](https://openalex.org/A5031884742), [Qiong Wu](https://openalex.org/A5020902145), [Xi‐Ming Song](https://openalex.org/A5003795651), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159331.
-    
-As promising electrode materials, hollow-structured metallic oxides/hydroxides have attracted extensive attention for their significantly enhanced catalyst and electrochemical performances. In practice, however, it is still challenging to construct well-dispersed hollow structures using facile and versatile template-free methods. And, as a result of the weak conductivity of most metallic oxides/hydroxides, it is a particularly effective means to integrate metallic oxides/hydroxides with carbon-based conductive substrates or introduce oxygen vacancies for further promoting reaction kinetics and achieving boosted electrochemical performance. Herein, a novel composite material consisting of oxygen-rich vacancy β-Ni(OH)2 coupled with oxidized multi-wall carbon nanotubes (Ov-Nβ/Cm) was synthesized using a one-step hydrothermal technique without the need for templates. The hierarchical hollow microsphere structure was achieved by utilizing oxidized multi-wall carbon nanotubes (MWCNTs) as an alternative to conventional surfactants or templates. The uniform distribution of multistage pores in the newly designed Ov-Nβ/Cm composite facilitates the transportation of electrolyte ions, thereby endowing it with outstanding electrochemical performance. A straightforward technique for producing high-quality Ni(OH)2-based electrode materials is presented in this investigation, along with fresh perspectives on the formation mechanism of hollow-structured composites. Developing MWCNT-based hollow nanostructured composites with oxygen vacancies-enriched will offer an essential novel avenue to exploit excellent electrode materials for supercapacitors and other energy storage systems.    
-
-    
-
-## Spray Pyrolysis Regulated FeCo Alloy Anchoring on Nitrogen–Doped Carbon Hollow Spheres Boost the Performance of Zinc–Air Batteries   
-
-OpenAlex: https://openalex.org/W4390637300    
-Open access: False
-    
-[Hong-Rui Huang](https://openalex.org/A5057499176), [Qianqian Liang](https://openalex.org/A5085920655), [Huajun Guo](https://openalex.org/A5046555928), [Zhixing Wang](https://openalex.org/A5084604342), [Guochun Yan](https://openalex.org/A5026741397), [Feixiang Wu](https://openalex.org/A5089699624), [Jiexi Wang](https://openalex.org/A5002801475), Small. None(None)] 2024.https://doi.org/10.1002/smll.202310318.
-    
-Abstract Low‐cost and high‐efficiency non‐precious metal‐based oxygen reduction reaction (ORR)/oxygen evolution reaction (OER) bifunctional catalysts are the key to promoting the commercial application of metal–air batteries. Herein, a highly efficient catalyst of Fe 0.18 Co 0.82 alloy anchoring on the nitrogen‐doped porous carbon hollow sphere (Fe x Co 1‐x /N‐C) is intelligently designed by spray pyrolysis (SP). The zinc in the SP‐derived metal oxides and metal‐organic framework volatilize at high temperature to construct a hierarchical porous structure with abundant defects and fully exposes the FeCo nanoparticles which uniformly anchor on the carbon substrate. In this structure, the coexistence of Fe 0.18 Co 0.82 alloy and binary metal active sites (Fe‐N x /Co‐N x ) guarantees the Fe 0.2 Co 0.8 /N‐C catalyst exhibiting an excellent half‐wave potential ( E 1/2 ═ 0.84 V) superior to 20% Pt/C for ORR and a suppressed overpotential (280 mV) than RuO 2 for OER. Assembled rechargeable Zn–air battery (RZAB) demonstrates a promising specific capacity of 807.02 mAh g −1 , peak power density of 159.08 mW cm −2 and durability without electrolyte circulation (550 h). This work proposes the design concept of utilizing an oxide core to in situ consume the porous carbon shell for anchoring metal active sites and construct defects, which benefits from spray pyrolysis in achieving precise control of the alloy structure and mass preparation.    
-
-    
+- [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
 
 ## Electrochemical properties and kinetic studies of sulphur-induced oxygen vacancies in hydrothermally synthesized manganese molybdenum oxide   
 
@@ -282,6 +249,39 @@ Developing clean energy sources is vital amid the global energy crisis. Hydrogen
 
     
 
+## High‐Performance Reversible Oxygen Reduction/Evolution Gas Diffusion Electrodes with Multivalent Cation Doped Core‐Shell Mn/Mn3O4 Catalysts   
+
+OpenAlex: https://openalex.org/W4390685247    
+Open access: True
+    
+[Yu Pei](https://openalex.org/A5044910731), [Wen Yu Wu](https://openalex.org/A5083904238), [David P. Wilkinson](https://openalex.org/A5020311496), [Előd Gyenge](https://openalex.org/A5006488989), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202300558 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202300558).
+    
+Abstract The development of precious‐metal‐free catalysts with bifunctional activities for both oxygen reduction and evolution reactions (ORR/OER) is crucial for the advancement of regenerative fuel cells and rechargeable metal−air batteries. Manganese oxides (MnO x ) have emerged as promising bifunctional catalysts. However, MnO x electrodes typically exhibit poor ORR/OER cycling stability owing to polarization‐induced MnO x redox reactions and phase transition. To address this issue, we developed metallic cation (i. e., Co 2+ , Ni 2+ , Cu 2+ , or Bi 3+ ) doped MnO x /carbon electrodes using potentiodynamic, potentiostatic and galvanostatic methods. Among the explored dopant cations Ni 2+ intercalated into MnO x under acidic conditions using a slow‐scan cyclic voltammetry method, significantly enhanced the ORR/OER activity and stability of MnO x . Alongside electrochemical doping, MnO x also underwent redox reactions leading to changes in Mn valence and phase transitions. The Ni‐incorporated MnO x gas diffusion electrode (GDE) demonstrated exceptional stability for over 120 accelerated OER and ORR cycles at ±10 mA cm −2 in 5 M KOH, surpassing the performance of the Pt/C−IrO 2 benchmark. Furthermore, it achieved OER current densities of approximately 22 mA cm −2 at 1.65 V RHE , which was twice as high as that of Pt/C−IrO 2 .    
+
+    
+
+## Enhanced Electrochemical Performance of MnCo1.5Fe0.5O4Spinel for Oxygen Evolution Reaction through Heat Treatment   
+
+OpenAlex: https://openalex.org/W4390686168    
+Open access: True
+    
+[Krystian Lankauf](https://openalex.org/A5024091733), [Bartłomiej Lemieszek](https://openalex.org/A5043781565), [Karolina Górnicka](https://openalex.org/A5020685730), [Patryk Błaszczak](https://openalex.org/A5091715285), [M. Zając](https://openalex.org/A5035818523), [Piotr Jasiński](https://openalex.org/A5045178373), [Sebastian Molin](https://openalex.org/A5054576908), No host. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.3c02875 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.3c02875).
+    
+MnCo1.5Fe0.5O4 spinel oxide was synthesized using the sol–gel technique, followed by heat treatment at various temperatures (400, 600, 800, and 1000 °C). The prepared materials were examined as anode electrocatalysts for water-splitting systems in alkaline environments. Solid-state characterization methods, such as powder X-ray diffraction and X-ray absorption spectroscopy (XAS), were used to analyze the materials’ crystallographic structure and surface characteristics. The intrinsic activity of the MnCo1.5Fe0.5O4 was fine-tuned by altering the electronic structure by controlling the calcination temperature, and the highest activity was observed for the sample treated at 800 °C. A shift in the valence state of surface cations under oxidative conditions in an alkaline solution during the oxygen evolution reaction was detected through ex situ XAS measurements. Moreover, the influence of the experimental conditions on the electrocatalytic performance of the material, including the pH of the electrolyte and the temperature, was demonstrated.    
+
+    
+
+## Ru Single Atoms Integrated into Cobalt Oxide Spinel Structure with Interstitial Carbon for Enhanced Electrocatalytic Water Oxidation   
+
+OpenAlex: https://openalex.org/W4390699007    
+Open access: False
+    
+[G.J. Wang](https://openalex.org/A5017626919), [Guikai Zhang](https://openalex.org/A5031145995), [Chen Xu](https://openalex.org/A5087346287), Small. None(None)] 2024.https://doi.org/10.1002/smll.202310372.
+    
+Oxygen evolution reaction (OER) plays a critical role in energy conversion technologies. Significant progress has been made in alkaline conditions. In contrast, it remains a challenge to develop stable OER electrocatalysts in acidic conditions. Herein, a new strategy is reported to stabilize single atoms integrated into cobalt oxide spinel structure with interstitial carbon (Ru0.27 Co2.73 O4 ), where the optimized Ru0.27 Co2.73 O4 exhibits a low overpotential of 265, 326, and 367 mV to reach a current density of 10, 50, and 100 mA cm2 , respectively. More importantly, Ru0.27 Co2.73 O4 has long-term stability of up to 100 h, representing one of the most stable OER electrocatalysts. X-ray adsorption spectroscopy (XAS) characterization and density functional theory (DFT) calculations jointly demonstrate that the significant catalytic performance of Ru0.27 Co2.73 O4 is due to the synergistic effect between the Ru and Co sites and the bridging O ligands, as well as the significant reduction of the OER energy barrier. This work provides a new perspective for designing and constructing efficient non-noble metal-based electrocatalysts for water splitting.    
+
+    
+
 ## Advancing oxygen evolution electrocatalysis with human-machine intelligence   
 
 OpenAlex: https://openalex.org/W4391043168    
@@ -513,17 +513,6 @@ This study employed a one-step hydrothermal process to synthesize Ni3S2/Fe3O4 na
 
     
 
-## Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
-
-OpenAlex: https://openalex.org/W4390615127    
-Open access: False
-    
-[Jianxin Zeng](https://openalex.org/A5041442978), [Zhengxin Qian](https://openalex.org/A5024235028), [Qing-Na Zheng](https://openalex.org/A5085235719), [Jing‐Hua Tian](https://openalex.org/A5003092023), [Hua Zhang](https://openalex.org/A5056450584), [Jianfeng Li](https://openalex.org/A5090949378), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301222.
-    
-Highly active and stable oxygen evolution reaction (OER) catalysts are crucial for the large‐scale application of proton exchange membrane water electrolyzers. However, the dynamic reconfiguration of the catalyst surface structure and active centers is still undefined, which greatly hinders the development and application of efficient OER catalysts. Herein, we report an IrRuOx/C catalyst with a facile low‐temperature synthesis route, which can reach 10 mA cm‐2 at an overpotential of 217 mV with a Tafel slope as low as 39.4 mV dec‐1, and yields a mass activity 61 times that of commercial IrO2/C at an overpotential of 300 mV. The lattice oxygen structure of RuOx is stabilized by the introduction of Ir species, thus greatly promoting the OER activity and durability. Further in situ Raman reveals that RuOx emerges as the active species at high potentials, and Ru‐O bonding interactions are enhanced with Ir regulation, stabilizing the solvation of Ru at high potentials and accelerating the nucleophilic attack of water molecules, leading to the improved OER performance. This work deepens the fundamental understanding of OER and offers an effective way to advance the utilization of Ru‐based OER catalysts.    
-
-    
-
 ## Polypyrrole-wrapped Hofmann type metal–organic framework nanoflowers to boost oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4390843720    
@@ -532,5 +521,16 @@ Open access: False
 [Yuhang Wu](https://openalex.org/A5007655622), [Yuwen Li](https://openalex.org/A5010145000), [Ling Shen](https://openalex.org/A5043084585), [Quanwen Pan](https://openalex.org/A5067737099), [Ye Tao](https://openalex.org/A5058826825), [Junkuo Gao](https://openalex.org/A5086455686), Journal of Solid State Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jssc.2024.124559.
     
 The exploration of efficient and stable metal-organic frameworks (MOFs) for electrocatalytic oxygen evolution reaction (OER) has received increasing attention. However, the limited electronic conductivity of MOFs hinders the electron transfer rate. Herein, we report the preparation of conducting polypyrrole (PPy)-modified MOF nanoflowers (MOF-NFs@PPy) as promising electrocatalysts for OER. The PPy layer significantly increases the electrical conductivity and modulates the ionic transmittance between MOF-NFs and the electrolyte. The interaction of PPy with the MOF-NFs modifies the electronic structure and improves the reaction efficiency at the active sites. The obtained MOF-NFs@PPy exhibits excellent electrocatalytic activity with an OER overpotential of only 218 mV@10 mA cm−2 and small Tafel slope of 47.4 mV dec−1. In addition, the MOF-NFs@PPy exhibited excellent long-term stability (>24 h). This work may provide a new idea and a novel construction strategy for MOFs to improve OER performance.    
+
+    
+
+## Benchmarking Stability of Iridium Oxide in Acidic Media under Oxygen Evolution Conditions: A Review: Part II   
+
+OpenAlex: https://openalex.org/W4390987310    
+Open access: True
+    
+[James Murawski](https://openalex.org/A5028610474), [Søren B. Scott](https://openalex.org/A5004372016), [Reshma R. Rao](https://openalex.org/A5027366818), [Katie Rigg](https://openalex.org/A5040293372), [Christopher Mark Zalitis](https://openalex.org/A5030674093), [James Stevens](https://openalex.org/A5015505628), [Jonathan Sharman](https://openalex.org/A5007586547), [Gareth Hinds](https://openalex.org/A5055131883), [Ifan E. L. Stephens](https://openalex.org/A5039064548), Johnson Matthey Technology Review. None(None)] 2024.https://doi.org/10.1595/205651324x17055018154113.
+    
+Part I (1) introduced state-of-the-art proton exchange membrane (PEM) electrolysers with iridium-based catalysts for oxygen evolution at the anode in green hydrogen applications. Aqueous model systems and full cell testing were discussed along with proton exchange membrane water electrolyser (PEMWE) catalyst degradation mechanisms, types of iridium oxide, mechanisms of iridium dissolution and stability studies. In Part II, we highlight considerations and best practices for the investigation of activity and stability of oxygen evolution catalysts via short term testing.    
 
     

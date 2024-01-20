@@ -1,10 +1,10 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sat Jan 20 18:53:47 2024
+Created on Sat Jan 20 14:11:00 2024
 
-Found 2 results from 2024-01-06 to 2024-01-20
+Found 2 results from 2024-01-13 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
 ## Strain‐rich high‐entropy perovskite oxide of (La0.8Sr0.2)(Mn0.2Fe0.2Cr0.2Co0.2Ni0.2)O3 for durable and effective catalysis of oxygen redox reactions in lithium‐oxygen battery   
 

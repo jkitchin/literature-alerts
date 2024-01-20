@@ -1,12 +1,12 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Jan 20 18:53:47 2024
+Created on Sat Jan 20 14:10:59 2024
 
-Found 56 results from 2024-01-06 to 2024-01-20
+Found 56 results from 2024-01-13 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
-- [](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
-- [](https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction)
+- [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
+- [https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction)
 
 ## Unbiased Photoelectrochemical Carbon Dioxide Reduction Shaping the Future of Solar Fuels   
 
@@ -228,17 +228,6 @@ In the carbonate industry, deep decarbonization strategies are necessary to effe
 
     
 
-## Full-exposed Cu site of Cu2O-(1 0 0) driven high ethylene selectivity of carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4390640110    
-Open access: False
-    
-[Youming Dong](https://openalex.org/A5008457124), [Xingcheng Ma](https://openalex.org/A5043593230), [Zhaoyong Jin](https://openalex.org/A5045710217), [Xin Xu](https://openalex.org/A5036163052), [Tianyi Xu](https://openalex.org/A5051440813), [Dantong Zhang](https://openalex.org/A5043123102), [Xiaoqiang Cui](https://openalex.org/A5086736710), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2023.159243.
-    
-Cu2O shows great potential as a catalyst for the electrochemical CO2 reduction reaction (ECO2RR). However, the mechanism behind the formation of different final products from Cu2O nanostructures remains a challenge. In this study, we combine theoretical and experimental approaches to demonstrate that the full-exposed Cu sites in Cu2O (1 0 0) microcubes contribute to superior C2H4 selectivity compared to other microstructures such as Cu2O (1 1 1), (1 1 0), and (3 1 1) facets. Density functional theoretical (DFT) calculations reveal that the stronger orbital splitting between Cu 3d and O 2p orbital of Cu2O (1 0 0) facet facilitates the formation of neighboring and low valence state Cu active site, thereby enhancing *CO adsorption and C2H4 formation. These DFT results are supported by the synthesis of four kinds of Cu2O microparticles (MPs) with different exposed facets, where cubic-Cu2O with the (1 0 0) facet exhibits the highest Faradaic efficiency (61.3 %). This study has significant implications for the structural design and mechanism analysis of innovative catalysts used in ECO2RR.    
-
-    
-
 ## Carbon dioxide-steam reforming gasification of carbonized biomass pellet for high syngas yield and TAR reduction through CFD modeling   
 
 OpenAlex: https://openalex.org/W4390673968    
@@ -393,6 +382,17 @@ The green transition requires the preparation of clean, inexpensive, and sustain
 
     
 
+## A global synthesis of reported urban tree carbon production rates and approaches   
+
+OpenAlex: https://openalex.org/W4390695934    
+Open access: True
+    
+[G. Darrel Jenerette](https://openalex.org/A5028237873), [Dustin L. Herrmann](https://openalex.org/A5009121790), Frontiers in Ecology and Evolution. 11(None)] 2024.https://doi.org/10.3389/fevo.2023.1244418 ([pdf](https://www.frontiersin.org/articles/10.3389/fevo.2023.1244418/pdf?isPublishedV2=False).
+    
+Trees are a prominent feature of urban ecosystems. Urban tree productivity is a key component of urban ecosystem energetics and has been identified as a possible pathway for reducing global greenhouse gas concentrations. Recently, extensive research has been directed to evaluating the carbon dynamics of urban trees in cities throughout the world. Here, we synthesize this research, using results from previous studies from 154 cities to identify the distribution of urban tree productivity globally and the basis for generating urban tree productivity estimates. Reported urban tree productivity shows a strong relationship with estimated tree carbon content and exhibits increases with both temperature and precipitation, with land cover differences influencing the degree of climate sensitivity. Compared with a reference productivity estimate, urban trees showed greatly reduced estimated rates of productivity and the magnitude of reduced productivity was inversely correlated with precipitation but was independent of temperature. Reported rates of productivity across all studies suggest climate restrictions that are more important with less intensively managed land covers. Scaling these results globally suggests a limited opportunity for urban trees to contribute to atmospheric carbon dioxide reductions, especially in the absence of major carbon emission reductions. We found that the majority of results are derived from tree inventories from a single period with rates of productivity estimate through quasi-empirical or allometric models. The majority of studies have been conducted in temperate biomes and North America. These results show that existing urban tree assessments have substantial methodological restrictions and regional biases. Future research of urban tree productivity should look toward improved methods and can use this synthesis as a baseline for comparisons and improvement.    
+
+    
+
 ## Unconventional and Emerging Approaches to CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4390878076    
@@ -536,17 +536,6 @@ Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into val
 
     
 
-## Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4390636108    
-Open access: False
-    
-[Shaoqiang Li](https://openalex.org/A5086689166), [Yilei Li](https://openalex.org/A5050487933), [H. Y. Bai](https://openalex.org/A5058705350), [Dong-ying Zhou](https://openalex.org/A5001937731), [Ying Liu](https://openalex.org/A5060002817), [Ruihong Liu](https://openalex.org/A5076283955), [Bao‐Hang Han](https://openalex.org/A5056836026), [Xinying Liu](https://openalex.org/A5063388127), [Fa-tang Li](https://openalex.org/A5071904923), Applied Catalysis B: Environmental. 345(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.123703.
-    
-Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.    
-
-    
-
 ## Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4   
 
 OpenAlex: https://openalex.org/W4390910665    
@@ -621,5 +610,16 @@ Open access: False
 [Xiang-Da Zhang](https://openalex.org/A5025614175), [Jian-Mei Huang](https://openalex.org/A5036914815), [Xiaorong Zhu](https://openalex.org/A5024839012), [Chang Liu](https://openalex.org/A5022256556), [Yue Yin](https://openalex.org/A5068336878), [Jiayi Huang](https://openalex.org/A5067239284), [Ming Xu](https://openalex.org/A5082041084), [Yafei Li](https://openalex.org/A5076118607), [Zhi‐Yuan Gu](https://openalex.org/A5001990602), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4690201.
     
 Cu-based metal-organic frameworks (MOFs) are widely employed in CO2 reduction reactions (CO2RR) because of their unique advantages to convert CO2 into C2+ products. Mostly, Cu-based MOFs are in-situ reconstructed to Cu-based derivatives such as Cu or Cu oxides during CO2RR, which is regarded as the catalytic active center. However, the key role of pristine MOFs and the coordination environment is often ignored in the process of revealing the catalytic mechanism. Here, we propose an auto-tandem mechanism for in-situ reconstructed Cu imidazole framework isomers, namely CuN2 and Cu2N4. During the auto-tandem catalysis process, pristine Cu(imidazole) served to convert CO2 into CO, while the Cu-based derivatives, in this case, Cu(111) sequentially convert the CO to C2+ products. This auto-tandem catalytic mechanism is supported by electrocatalytic performance, TPD-CO, HRTEM, SAED, XPS, in-situ XANES and XES. Besides, in-situ ATR-SEIRAS and DFT computation illustrate that the coordination environment of pristine Cu(imidazole) affects the selectivity of CO and thus determines the selectivity of C2+ products. The auto-tandem catalytic mechanism provides a new route to design Cu-based MOF electrocatalysts for high product selectivity in CO2RR.    
+
+    
+
+## In situ constructed B-CdS/Cd Schottky junctions for efficient photocatalytic CO2 reduction under visible light   
+
+OpenAlex: https://openalex.org/W4390987589    
+Open access: False
+    
+[R. Li](https://openalex.org/A5059273355), [Zhenhua Dai](https://openalex.org/A5024123604), [Tim Hui-Ming Huang](https://openalex.org/A5049119185), [Qianqian Zhang](https://openalex.org/A5019858998), [Xunfu Zhou](https://openalex.org/A5002474804), [Zhongli Peng](https://openalex.org/A5060946876), [Zuotao Liu](https://openalex.org/A5010021609), [Yueping Fang](https://openalex.org/A5076015543), Surfaces and Interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.103926.
+    
+CdS with a visible light response and energy band location suitable for CO2 photoreduction has received extensive attention. However, low product selectivity and photocatalytic efficiency limit its application. Here, NaBH4 is used as a reducing agent to generate Cd metal on the surface of CdS nanorods in situ. This leads to the construction of a B-CdS/Cd metal cocatalyst/semiconductor structure. This configuration significantly enhanced the CdS's activity of photocatalytic CO2 reduction. The Cd metal which is on the surface of CdS nanorods promoted the separation and transfer of photogenerated charges and increased both light photosensitivity and CO2 adsorption capabilities. The improved B-CdS/Cd catalyst shows excellent CO2 reduction capabilities by generating CO at a rate of 323.39 μmol g−1 h−1, which is 2.01 times more than pure CdS, owing to the synergistic enhancements. Simultaneously, Cd acts as an active site inhibiting H2 production during the CO2 reduction reaction. This work demonstrates the potential of Cd metal as a metal cocatalyst in photocatalytic CO2 reduction.    
 
     
