@@ -27,7 +27,7 @@ jobs:
             litalerts -s 14
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
-            git add rss org
+            git add rss org md
             git commit rss org -m "adding new results"            
             git push
           
