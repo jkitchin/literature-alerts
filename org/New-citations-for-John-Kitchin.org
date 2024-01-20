@@ -1,9 +1,9 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Fri Jan 19 13:03:30 2024
+Created on Sat Jan 20 00:41:21 2024
 
-Found 32 results from 2024-01-05 to 2024-01-19
+Found 31 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -37,30 +37,6 @@ Abstract Geometric deep learning has been revolutionizing the molecular modeling
 
     
 
-** Spin-related Cu-Co pair to increase electrochemical ammonia generation on high-entropy oxides   
-:PROPERTIES:
-:ID: https://openalex.org/W4390587030
-:DOI: https://doi.org/10.1038/s41467-023-44587-z
-:AUTHORS: Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh
-:HOST: Nature Communications
-:END:
-
-Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. 15(1)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44587-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390587030"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390587030"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390587030"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390587030
-    
-Shengnan Sun, Chencheng Dai, Peng Zhao, Shibo Xi, Yushan Ren, Hui Ru Tan, Poh Chong Lim, Ming Lin, Caozheng Diao, Danwei Zhang, Chao Wu, A Filimonov Yu., Jung‐Hyuk Koh, Wei Ying Lieu, Debbie Hwee Leng Seng, Libo Sun, Yuke Li, Teck Leong Tan, Jia Zhang, Zhichuan J. Xu, Zhi Wei Seh, Nature Communications. https://doi.org/10.1038/s41467-023-44587-z
-    
-Abstract The electrochemical conversion of nitrate to ammonia is a way to eliminate nitrate pollutant in water. Cu-Co synergistic effect was found to produce excellent performance in ammonia generation. However, few studies have focused on this effect in high-entropy oxides. Here, we report the spin-related Cu-Co synergistic effect on electrochemical nitrate-to-ammonia conversion using high-entropy oxide Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O. In contrast, the Li-incorporated MgCoNiCuZnO exhibits inferior performance. By correlating the electronic structure, we found that the Co spin states are crucial for the Cu-Co synergistic effect for ammonia generation. The Cu-Co pair with a high spin Co in Mg 0.2 Co 0.2 Ni 0.2 Cu 0.2 Zn 0.2 O can facilitate ammonia generation, while a low spin Co in Li-incorporated MgCoNiCuZnO decreases the Cu-Co synergistic effect on ammonia generation. These findings offer important insights in employing the synergistic effect and spin states inside for selective catalysis. It also indicates the generality of the magnetic effect in ammonia synthesis between electrocatalysis and thermal catalysis.    
-
-    
-
 ** Applied Voltage‐Activated Fe─N─C Catalysts for Pem Fuel Cells   
 :PROPERTIES:
 :ID: https://openalex.org/W4390637284
@@ -82,6 +58,30 @@ OpenAlex: https://openalex.org/W4390637284
 Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui, Advanced Sustainable Systems. https://doi.org/10.1002/adsu.202300573
     
 Abstract The practical application of non‐precious Fe─N─C catalysts in proton exchange membrane fuel cells (PEMFCs) continues to remain one of the major challenges due to their relatively poor oxygen reduction reaction (ORR) performance in acid. In this work, a fast and facilely performance enhancement strategy is first proposed for various Fe─N─C catalysts by supplying different direct‐current voltages to achieve a rapid solid‐state activation at room temperature. The voltage‐activated state‐of‐the‐art Fe─N─C catalyst has demonstrated a peak power density of 1.1 W cm −2 for PEMFC and remarkably increased long‐term durability for ORR. The substantially improved performance can be attributed to the formation of highly active ketone‐decorated (edge‐hosted) FeN 4 sites and substantially boosts coupled proton−electron transfer (CPET) by improving the conductivity of the as‐synthesized Fe─N─C with an interpenetrating network structure. The interconnected micro‐nodes within the interpenetrating network are the main active regions for the ORR, evidenced by an optimized structural model based on the above typical morphology. Therefore, this finding provides an innovative and facile idea for solving the activity and stability deficiency for promising Fe─N─C for commercial PEMFC.    
+
+    
+
+** Structure transformation induced bi-component Co–Mo/A-Co(OH)2 as highly efficient hydrogen evolution catalyst in alkaline media   
+:PROPERTIES:
+:ID: https://openalex.org/W4390639783
+:DOI: https://doi.org/10.1016/j.nanoms.2023.11.006
+:AUTHORS: Yingqing Ou, Lu Lu, Peng Xiao, Lili Zhang, Zhongwen Ou, Wendong Zhang, Yunhuai Zhang
+:HOST: Nano Materials Science
+:END:
+
+Yingqing Ou, Lu Lu, Peng Xiao, Lili Zhang, Zhongwen Ou, Wendong Zhang, Yunhuai Zhang, Nano Materials Science. None(None)] 2024.
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoms.2023.11.006")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390639783"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390639783"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390639783"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390639783
+    
+Yingqing Ou, Lu Lu, Peng Xiao, Lili Zhang, Zhongwen Ou, Wendong Zhang, Yunhuai Zhang, Nano Materials Science. https://doi.org/10.1016/j.nanoms.2023.11.006
+    
+Elucidating the inherent origins of the sluggish hydrogen evolution reaction (HER) kinetics in alkaline media and developing high-performance electrocatalysts are fundamental for the advances of conventional alkaline water electrolyzers and emerging anion exchange membrane (AEM) electrolyzers. Here we present a facile electrochemical modification strategy for the synthesis of bi-component Co–Mo(18%)/A-Co(OH)2 catalyst toward efficient HER catalysis in alkaline media. Porous Co–Mo alloys with adjustable Mo/Co atomic ratio are first prepared by H2-assisted cathodic electrodeposition. By virtue of the appropriate electronic structure and hydrogen binding energy, Co–Mo(18%) is the most HER active among the alloys and is further activated by a constant-current electrochemical modification process. Physical characterizations reveal the formation of amorphous Co(OH)2 nanoparticles on the surface. Electrokinetic analysis combined with theoretical calculations reveal that the in-situ formed Co(OH)2 can efficiently promote the water dissociation, resulting in accelerated Volmer-step kinetics. As a result, the Co–Mo(18%)/A-Co(OH)2 simultaneously achieves the optimization of the two factors dominating alkaline HER activity, i.e., water dissociation and hydrogen adsorption/desorption via the bifunctional synergy of the bi-components. The high HER activity (η10 of 47 ​mV at 10 ​mA ​cm−2) of Co–Mo(18%)/A-Co(OH)2 is close to benchmark Pt/C catalyst and comparable or superior to the most active non-noble metal catalysts.    
 
     
 
@@ -682,30 +682,6 @@ OpenAlex: https://openalex.org/W4390948931
 Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang, Applied Thermal Engineering. https://doi.org/10.1016/j.applthermaleng.2024.122481
     
 Rapid and accurate performance acquisition of high-temperature gas turbine blades is fundamental to energy system design, analysis, and evaluation. Data-driven surrogate models are a popular alternative to complex and expensive numerical methods, but they require numerous labeled data and are often inaccurate when influenced by multi-source random factors. In this paper, a data-driven framework is proposed based on neural networks and active learning. Gas turbine blade performance with multi-source random factors can be quickly and accurately predicted. Two active learning-based sampling strategies, the Bayesian Sampling strategy (BS) and the Combined Sampling strategy (CS), are proposed to improve the efficiency of dataset building. The established prediction model is called active learning-based neural network (ALNN), which significantly improves the prediction accuracy with small samples. Compared with the artificial neural network using traditional Latin hypercube sampling, the prediction accuracy for the maximum stress of the blade is improved by 31.9%, and the prediction accuracy for the maximum deformation is improved by 47.6%. In addition, based on the ALNN, the low cycle fatigue probabilistic life of the gas turbine blade with multi-source random factors is evaluated. When the material and processing parameters and operating condition parameters are varied randomly, the minimum value of the low cycle fatigue life is 7000 cycles.    
-
-    
-
-** A First-Principles Approach to Modeling Surface Site Stabilities on Multimetallic Catalysts   
-:PROPERTIES:
-:ID: https://openalex.org/W4390580294
-:DOI: https://doi.org/10.1021/acscatal.3c04337
-:AUTHORS: Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen
-:HOST: ACS Catalysis
-:END:
-
-Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen, ACS Catalysis. None(None)] 2024.
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04337")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390580294"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390580294"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390580294"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390580294
-    
-Shikha Saini, Joakim Halldin Stenlid, Shyam Deo, Philipp N. Pleßow, Frank Abild‐Pedersen, ACS Catalysis. https://doi.org/10.1021/acscatal.3c04337
-    
-The study of multimetallic alloys and the multitude of possible surface compositions have sparked a tremendous interest in engineering low-cost materials with high activity and selectivity in heterogeneous catalysis. Multimetallic systems provide complementary functionalities and an unprecedented tunability when designing catalyst formulations. However, due to their immense structural and compositional complexity, the investigation and identification of an optimal catalyst is a tedious and time-consuming process, both experimentally and theoretically. Therefore, theoretical design principles are highly desirable to accelerate the screening of catalyst structures across the vast compositional space. In this paper, we introduce a simple and general model for predicting the site stability of multimetallic surfaces and nanoparticles, which is based on physical principles. The model requires only a small set of density functional theory (DFT) calculations of metal atom binding energies on monometallic and dilute alloy surface slabs to optimize the parameters in the simple model. The resulting model allows for the quantification of the stability of any particular atom site in any conceivable chemical environment across a wide range of morphologies, sizes, and arrangements by interpolating the derived parameters from a monometallic system to a completely diluted alloyed system. Herein, we demonstrate the robustness of the model across an extensive data set of transition metal alloy surfaces and 147-atoms cuboctahedral nanoparticles (NPs) composed of IrRhRu and PtPdRu. Our approach yields mean absolute errors of ≈0.15 (IrRhRu), 0.20 (PtPdRu), 0.19 (IrRhRu NP), and 0.26 (PtPdRu NP) eV relative to site binding energies calculated using DFT.    
 
     
 
