@@ -1,7 +1,7 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Jan 20 16:26:14 2024
+Created on Sat Jan 20 16:33:48 2024
 
 Found 6 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -30,7 +30,7 @@ Highly oxygenated organic molecules (HOMs) are a major source of new particles t
 
     
 
-** <i>Environmental Science: Atmospheres</i> is four and so much more   
+** Environmental Science: Atmospheres is four and so much more   
 :PROPERTIES:
 :ID: https://openalex.org/W4390701128
 :DOI: https://doi.org/10.1039/d3ea90050a
@@ -78,7 +78,7 @@ No abstract
 
     
 
-** Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo<sub>2</sub>N Model Surfaces and Powder Catalysts   
+** Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo2N Model Surfaces and Powder Catalysts   
 :PROPERTIES:
 :ID: https://openalex.org/W4390939862
 :DOI: https://doi.org/10.1021/acscatal.3c04700

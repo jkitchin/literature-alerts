@@ -1,12 +1,12 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jan 20 16:26:14 2024
+Created on Sat Jan 20 16:33:48 2024
 
 Found 25 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-** Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O<sub>2</sub> Conversion Pathway over Au–Pd/ZnO   
+** Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O2 Conversion Pathway over Au–Pd/ZnO   
 :PROPERTIES:
 :ID: https://openalex.org/W4390614279
 :DOI: https://doi.org/10.1021/acscatal.3c04374
@@ -150,7 +150,7 @@ The design of highly efficient hydrogen evolution reaction (HER) catalysts is on
 
     
 
-** Catalytic Stereoselective 1,2-<i>cis</i>-Furanosylations Enabled by Enynal-Derived Copper Carbenes   
+** Catalytic Stereoselective 1,2-cis-Furanosylations Enabled by Enynal-Derived Copper Carbenes   
 :PROPERTIES:
 :ID: https://openalex.org/W4390670725
 :DOI: https://doi.org/10.1021/acscatal.3c05237
@@ -198,7 +198,7 @@ The use of multimetallic complexes is a rapidly advancing route to enhance catal
 
     
 
-** Functional Characterization and Protein Engineering of a Glycosyltransferase GcCGT to Produce Flavone 6,8-Di-<i>C</i>- and 6-<i>C</i>-4′-<i>O</i>-Glycosides   
+** Functional Characterization and Protein Engineering of a Glycosyltransferase GcCGT to Produce Flavone 6,8-Di-C- and 6-C-4′-O-Glycosides   
 :PROPERTIES:
 :ID: https://openalex.org/W4390674506
 :DOI: https://doi.org/10.1021/acscatal.3c05252
@@ -246,7 +246,7 @@ Direct oxidation of methanol to polyoxymethylene dimethyl ethers (PODEn) with lo
 
     
 
-** Dual and Triple Atom Electrocatalysts for Energy Conversion (CO<sub>2</sub>RR, NRR, ORR, OER, and HER): Synthesis, Characterization, and Activity Evaluation   
+** Dual and Triple Atom Electrocatalysts for Energy Conversion (CO2RR, NRR, ORR, OER, and HER): Synthesis, Characterization, and Activity Evaluation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390685826
 :DOI: https://doi.org/10.1021/acscatal.3c05000
@@ -270,7 +270,7 @@ Dual and triple atom catalysts (DACs and TACs) are an emerging field of heteroge
 
     
 
-** Elucidating the Mechanism for Oxidative Coupling of Methane Catalyzed by La<sub>2</sub>O<sub>3</sub>: Experimental and Microkinetic Modeling Studies   
+** Elucidating the Mechanism for Oxidative Coupling of Methane Catalyzed by La2O3: Experimental and Microkinetic Modeling Studies   
 :PROPERTIES:
 :ID: https://openalex.org/W4390694581
 :DOI: https://doi.org/10.1021/acscatal.3c04714
@@ -366,7 +366,7 @@ Although alloying is a common approach to developing catalysts for alkyne select
 
     
 
-** Visible-Light Photocatalyzed C3–H Alkylation of 2<i>H</i>-Indazoles/Indoles with Sulfoxonium Ylides via Diversified Mechanistic Pathways   
+** Visible-Light Photocatalyzed C3–H Alkylation of 2H-Indazoles/Indoles with Sulfoxonium Ylides via Diversified Mechanistic Pathways   
 :PROPERTIES:
 :ID: https://openalex.org/W4390701516
 :DOI: https://doi.org/10.1021/acscatal.3c04729
@@ -462,7 +462,7 @@ The reduction of C═X (X = N, O) bonds is a cornerstone in both synthetic organ
 
     
 
-** Highly Active MnCoO<sub><i>x</i></sub> Catalyst toward CO Preferential Oxidation   
+** Highly Active MnCoOx Catalyst toward CO Preferential Oxidation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390704389
 :DOI: https://doi.org/10.1021/acscatal.3c04654
@@ -510,7 +510,7 @@ Given its earth abundance, cost-effectiveness, and ecofriendly qualities, iron s
 
     
 
-** Enantioselective Synthesis of “NO<sub>2</sub>···NH” Hydrogen Bond-Stabilized C–N Axially Chiral Diarylamines   
+** Enantioselective Synthesis of “NO2···NH” Hydrogen Bond-Stabilized C–N Axially Chiral Diarylamines   
 :PROPERTIES:
 :ID: https://openalex.org/W4390724252
 :DOI: https://doi.org/10.1021/acscatal.3c04775
@@ -558,7 +558,7 @@ To achieve efficacious photocatalytic overall water splitting, surface modificat
 
     
 
-** Shape Selectivity of AEL Channels for Anomalously Facilitating Biojet Fuel Production from Long-Chain <i>n</i>-Alkane Hydrocracking   
+** Shape Selectivity of AEL Channels for Anomalously Facilitating Biojet Fuel Production from Long-Chain n-Alkane Hydrocracking   
 :PROPERTIES:
 :ID: https://openalex.org/W4390732536
 :DOI: https://doi.org/10.1021/acscatal.3c04465

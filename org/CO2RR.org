@@ -1,7 +1,7 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Jan 20 16:26:12 2024
+Created on Sat Jan 20 16:33:46 2024
 
 Found 55 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -296,7 +296,7 @@ Control over product selectivity of the electrocatalytic CO2 reduction reaction 
 
     
 
-** Highly selective photoelectrochemical CO <sub>2</sub> reduction by crystal phase-modulated nanocrystals without parasitic absorption   
+** Highly selective photoelectrochemical CO 2 reduction by crystal phase-modulated nanocrystals without parasitic absorption   
 :PROPERTIES:
 :ID: https://openalex.org/W4390935731
 :DOI: https://doi.org/10.1073/pnas.2316724121
@@ -344,7 +344,7 @@ An energy crisis and significant anthropogenic CO2 emissions as a result of risi
 
     
 
-** Molecular Additives Improve the Selectivity of CO<sub>2</sub> Photoelectrochemical Reduction over Gold Nanoparticles on Gallium Nitride   
+** Molecular Additives Improve the Selectivity of CO2 Photoelectrochemical Reduction over Gold Nanoparticles on Gallium Nitride   
 :PROPERTIES:
 :ID: https://openalex.org/W4390943227
 :DOI: https://doi.org/10.1021/acs.nanolett.3c03590
@@ -392,7 +392,7 @@ The electrochemical reduction of carbon dioxide (CO2RR) to valuable C2+ liquid f
 
     
 
-** Recent advances in copper-based catalysts for electrocatalytic CO <sub>2</sub> reduction toward multi-carbon products   
+** Recent advances in copper-based catalysts for electrocatalytic CO 2 reduction toward multi-carbon products   
 :PROPERTIES:
 :ID: https://openalex.org/W4390987371
 :DOI: https://doi.org/10.26599/nre.2024.9120112
@@ -412,7 +412,7 @@ OpenAlex: https://openalex.org/W4390987371
     
 [[https://openalex.org/A5025855204][Rongrong Li]], [[https://openalex.org/A5058501731][Hehe Wei]], [[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5071574675][Zixiang Su]], [[https://openalex.org/A5062523981][X. G. Gong]], Nano Research Energy. https://doi.org/10.26599/nre.2024.9120112
     
-Electrocatalytic carbon dioxide reduction reaction (CO<sub>2</sub>RR) holds the promise of both overcoming the greenhouse effect and synthesizing a wealth of chemicals. Electrocatalytic CO<sub>2</sub> reduction toward carbon-containing products, including C<sub>1</sub> products (carbon monoxide, formic acid, etc), C<sub>2</sub> products (ethylene, ethanol, etc.) and multi-carbon products (e.g., npropanol), provides beneficial fuel and chemicals for industrial production. The complexity of the multi-proton transfer processes and difficulties of C-C coupling in electrochemical CO<sub>2</sub> reduction toward multi-carbon(C<sub>2+</sub>) products have attracted increasing concerns on the design of catalysts in comparison with those of C<sub>1</sub> products. In this paper, we review the main advances in the syntheses of multi-carbon products through electrocatalytic carbon dioxide reduction in recent years, introduce the basic principles of electrocatalytic CO<sub>2</sub>RR, and detailly elucidate two widely accepted mechanisms of C-C coupling reactions. Among abundant nanomaterials, copper-based catalysts are outstanding catalysts for the preparation of multi-carbon chemicals in electrochemical CO<sub>2</sub>RR attributing to effective C-C coupling reactions. Regarding the different selectivity of multi-carbon chemicals but extensively applied copper-based catalysts, we classify and summarize various Cu-based catalysts through separating diverse multi-carbon products, where the modification of spatial and electronic structures is beneficial to increase the coverage of CO or lower the activation energy barrier for forming CC bond to form the key intermediates and increase the production of multi-carbon products. Challenges and prospects involving the fundamental and development of copper-based catalysts in electrochemical CO<sub>2</sub> reduction reaction are also proposed.    
+Electrocatalytic carbon dioxide reduction reaction (CO2RR) holds the promise of both overcoming the greenhouse effect and synthesizing a wealth of chemicals. Electrocatalytic CO2 reduction toward carbon-containing products, including C1 products (carbon monoxide, formic acid, etc), C2 products (ethylene, ethanol, etc.) and multi-carbon products (e.g., npropanol), provides beneficial fuel and chemicals for industrial production. The complexity of the multi-proton transfer processes and difficulties of C-C coupling in electrochemical CO2 reduction toward multi-carbon(C2+) products have attracted increasing concerns on the design of catalysts in comparison with those of C1 products. In this paper, we review the main advances in the syntheses of multi-carbon products through electrocatalytic carbon dioxide reduction in recent years, introduce the basic principles of electrocatalytic CO2RR, and detailly elucidate two widely accepted mechanisms of C-C coupling reactions. Among abundant nanomaterials, copper-based catalysts are outstanding catalysts for the preparation of multi-carbon chemicals in electrochemical CO2RR attributing to effective C-C coupling reactions. Regarding the different selectivity of multi-carbon chemicals but extensively applied copper-based catalysts, we classify and summarize various Cu-based catalysts through separating diverse multi-carbon products, where the modification of spatial and electronic structures is beneficial to increase the coverage of CO or lower the activation energy barrier for forming CC bond to form the key intermediates and increase the production of multi-carbon products. Challenges and prospects involving the fundamental and development of copper-based catalysts in electrochemical CO2 reduction reaction are also proposed.    
 
     
 
@@ -680,7 +680,7 @@ Methanogens are essential players in the global carbon cycle. Methanosarcinales 
 
     
 
-** CO <sub>2</sub> electroreduction on two-dimensional transition metal 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene frameworks: a theoretical investigation   
+** CO 2 electroreduction on two-dimensional transition metal 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene frameworks: a theoretical investigation   
 :PROPERTIES:
 :ID: https://openalex.org/W4390909288
 :DOI: https://doi.org/10.1080/00268976.2024.2303394
@@ -728,7 +728,7 @@ Plasmonic-driven photocatalysis may lead to reaction selectivity that cannot be 
 
     
 
-** MXenes as Electrocatalysts for the CO<sub>2</sub> Reduction Reaction: Recent Advances and Future Challenges   
+** MXenes as Electrocatalysts for the CO2 Reduction Reaction: Recent Advances and Future Challenges   
 :PROPERTIES:
 :ID: https://openalex.org/W4390829428
 :DOI: https://doi.org/10.1002/celc.202300598
