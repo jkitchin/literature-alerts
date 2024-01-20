@@ -1,7 +1,7 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Sat Jan 20 16:23:48 2024
+Created on Sat Jan 20 16:26:16 2024
 
 Found 32 results from 2024-01-06 to 2024-01-20
 OpenAlex URLS (not including from_created_date or the API key)
@@ -17,11 +17,11 @@ OpenAlex URLS (not including from_created_date or the API key)
 :PROPERTIES:
 :ID: https://openalex.org/W4390617556
 :DOI: https://doi.org/10.1038/s41467-023-43720-2
-:AUTHORS: [[https://openalex.org/A5052150871][Yusong Wang]],[[https://openalex.org/A5086619480][Tong Wang]],[[https://openalex.org/A5001798950][Shaoning Li]],[[https://openalex.org/A5037530308][Xinheng He]],[[https://openalex.org/A5012009678][Mingyu Li]],[[https://openalex.org/A5014577476][Zun Wang]],[[https://openalex.org/A5047405956][Nanning Zheng]],[[https://openalex.org/A5011617819][Borong Shao]],[[https://openalex.org/A5050600579][Tie-Yan Liu]]
+:AUTHORS: [[https://openalex.org/A5052150871][Yusong Wang]], [[https://openalex.org/A5086619480][Tong Wang]], [[https://openalex.org/A5001798950][Shaoning Li]], [[https://openalex.org/A5037530308][Xinheng He]], [[https://openalex.org/A5012009678][Mingyu Li]], [[https://openalex.org/A5014577476][Zun Wang]], [[https://openalex.org/A5047405956][Nanning Zheng]], [[https://openalex.org/A5011617819][Borong Shao]], [[https://openalex.org/A5050600579][Tie-Yan Liu]]
 :HOST: Nature Communications
 :END:
 
-[[https://openalex.org/A5052150871][Yusong Wang]],[[https://openalex.org/A5086619480][Tong Wang]],[[https://openalex.org/A5001798950][Shaoning Li]],[[https://openalex.org/A5037530308][Xinheng He]],[[https://openalex.org/A5012009678][Mingyu Li]],[[https://openalex.org/A5014577476][Zun Wang]],[[https://openalex.org/A5047405956][Nanning Zheng]],[[https://openalex.org/A5011617819][Borong Shao]],[[https://openalex.org/A5050600579][Tie-Yan Liu]], Nature Communications. 15(1)] 2024.
+[[https://openalex.org/A5052150871][Yusong Wang]], [[https://openalex.org/A5086619480][Tong Wang]], [[https://openalex.org/A5001798950][Shaoning Li]], [[https://openalex.org/A5037530308][Xinheng He]], [[https://openalex.org/A5012009678][Mingyu Li]], [[https://openalex.org/A5014577476][Zun Wang]], [[https://openalex.org/A5047405956][Nanning Zheng]], [[https://openalex.org/A5011617819][Borong Shao]], [[https://openalex.org/A5050600579][Tie-Yan Liu]], Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-43720-2")][Get bibtex entry]] 
 
@@ -31,7 +31,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 OpenAlex: https://openalex.org/W4390617556
     
-[[https://openalex.org/A5052150871][Yusong Wang]],[[https://openalex.org/A5086619480][Tong Wang]],[[https://openalex.org/A5001798950][Shaoning Li]],[[https://openalex.org/A5037530308][Xinheng He]],[[https://openalex.org/A5012009678][Mingyu Li]],[[https://openalex.org/A5014577476][Zun Wang]],[[https://openalex.org/A5047405956][Nanning Zheng]],[[https://openalex.org/A5011617819][Borong Shao]],[[https://openalex.org/A5050600579][Tie-Yan Liu]], Nature Communications. https://doi.org/10.1038/s41467-023-43720-2
+[[https://openalex.org/A5052150871][Yusong Wang]], [[https://openalex.org/A5086619480][Tong Wang]], [[https://openalex.org/A5001798950][Shaoning Li]], [[https://openalex.org/A5037530308][Xinheng He]], [[https://openalex.org/A5012009678][Mingyu Li]], [[https://openalex.org/A5014577476][Zun Wang]], [[https://openalex.org/A5047405956][Nanning Zheng]], [[https://openalex.org/A5011617819][Borong Shao]], [[https://openalex.org/A5050600579][Tie-Yan Liu]], Nature Communications. https://doi.org/10.1038/s41467-023-43720-2
     
 Abstract Geometric deep learning has been revolutionizing the molecular modeling field. Despite the state-of-the-art neural network models are approaching ab initio accuracy for molecular property prediction, their applications, such as drug discovery and molecular dynamics (MD) simulation, have been hindered by insufficient utilization of geometric information and high computational costs. Here we propose an equivariant geometry-enhanced graph neural network called ViSNet, which elegantly extracts geometric features and efficiently models molecular structures with low computational costs. Our proposed ViSNet outperforms state-of-the-art approaches on multiple MD benchmarks, including MD17, revised MD17 and MD22, and achieves excellent chemical property prediction on QM9 and Molecule3D datasets. Furthermore, through a series of simulations and case studies, ViSNet can efficiently explore the conformational space and provide reasonable interpretability to map geometric representations to molecular structures.    
 
@@ -41,11 +41,11 @@ Abstract Geometric deep learning has been revolutionizing the molecular modeling
 :PROPERTIES:
 :ID: https://openalex.org/W4390637284
 :DOI: https://doi.org/10.1002/adsu.202300573
-:AUTHORS: [[https://openalex.org/A5052253948][Qiheng Wang]],[[https://openalex.org/A5079391601][Jin Zhang]],[[https://openalex.org/A5000910994][Xingdong Wang]],[[https://openalex.org/A5073031418][Qingtao Liu]],[[https://openalex.org/A5011453447][Jingjun Liu]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]],[[https://openalex.org/A5017390855][Jianglan Shui]]
+:AUTHORS: [[https://openalex.org/A5052253948][Qiheng Wang]], [[https://openalex.org/A5079391601][Jin Zhang]], [[https://openalex.org/A5000910994][Xingdong Wang]], [[https://openalex.org/A5073031418][Qingtao Liu]], [[https://openalex.org/A5011453447][Jingjun Liu]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], [[https://openalex.org/A5017390855][Jianglan Shui]]
 :HOST: Advanced Sustainable Systems
 :END:
 
-[[https://openalex.org/A5052253948][Qiheng Wang]],[[https://openalex.org/A5079391601][Jin Zhang]],[[https://openalex.org/A5000910994][Xingdong Wang]],[[https://openalex.org/A5073031418][Qingtao Liu]],[[https://openalex.org/A5011453447][Jingjun Liu]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]],[[https://openalex.org/A5017390855][Jianglan Shui]], Advanced Sustainable Systems. None(None)] 2024.
+[[https://openalex.org/A5052253948][Qiheng Wang]], [[https://openalex.org/A5079391601][Jin Zhang]], [[https://openalex.org/A5000910994][Xingdong Wang]], [[https://openalex.org/A5073031418][Qingtao Liu]], [[https://openalex.org/A5011453447][Jingjun Liu]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], [[https://openalex.org/A5017390855][Jianglan Shui]], Advanced Sustainable Systems. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adsu.202300573")][Get bibtex entry]] 
 
@@ -55,7 +55,7 @@ Abstract Geometric deep learning has been revolutionizing the molecular modeling
 
 OpenAlex: https://openalex.org/W4390637284
     
-[[https://openalex.org/A5052253948][Qiheng Wang]],[[https://openalex.org/A5079391601][Jin Zhang]],[[https://openalex.org/A5000910994][Xingdong Wang]],[[https://openalex.org/A5073031418][Qingtao Liu]],[[https://openalex.org/A5011453447][Jingjun Liu]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]],[[https://openalex.org/A5017390855][Jianglan Shui]], Advanced Sustainable Systems. https://doi.org/10.1002/adsu.202300573
+[[https://openalex.org/A5052253948][Qiheng Wang]], [[https://openalex.org/A5079391601][Jin Zhang]], [[https://openalex.org/A5000910994][Xingdong Wang]], [[https://openalex.org/A5073031418][Qingtao Liu]], [[https://openalex.org/A5011453447][Jingjun Liu]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], [[https://openalex.org/A5017390855][Jianglan Shui]], Advanced Sustainable Systems. https://doi.org/10.1002/adsu.202300573
     
 Abstract The practical application of non‐precious Fe─N─C catalysts in proton exchange membrane fuel cells (PEMFCs) continues to remain one of the major challenges due to their relatively poor oxygen reduction reaction (ORR) performance in acid. In this work, a fast and facilely performance enhancement strategy is first proposed for various Fe─N─C catalysts by supplying different direct‐current voltages to achieve a rapid solid‐state activation at room temperature. The voltage‐activated state‐of‐the‐art Fe─N─C catalyst has demonstrated a peak power density of 1.1 W cm −2 for PEMFC and remarkably increased long‐term durability for ORR. The substantially improved performance can be attributed to the formation of highly active ketone‐decorated (edge‐hosted) FeN 4 sites and substantially boosts coupled proton−electron transfer (CPET) by improving the conductivity of the as‐synthesized Fe─N─C with an interpenetrating network structure. The interconnected micro‐nodes within the interpenetrating network are the main active regions for the ORR, evidenced by an optimized structural model based on the above typical morphology. Therefore, this finding provides an innovative and facile idea for solving the activity and stability deficiency for promising Fe─N─C for commercial PEMFC.    
 
@@ -65,11 +65,11 @@ Abstract The practical application of non‐precious Fe─N─C catalysts in pro
 :PROPERTIES:
 :ID: https://openalex.org/W4390639783
 :DOI: https://doi.org/10.1016/j.nanoms.2023.11.006
-:AUTHORS: [[https://openalex.org/A5014526265][Yingqing Ou]],[[https://openalex.org/A5030429211][Lu Lu]],[[https://openalex.org/A5027499088][Peng Xiao]],[[https://openalex.org/A5090606294][Lili Zhang]],[[https://openalex.org/A5019138281][Zhongwen Ou]],[[https://openalex.org/A5068293265][Wendong Zhang]],[[https://openalex.org/A5054809539][Yunhuai Zhang]]
+:AUTHORS: [[https://openalex.org/A5014526265][Yingqing Ou]], [[https://openalex.org/A5030429211][Lu Lu]], [[https://openalex.org/A5027499088][Peng Xiao]], [[https://openalex.org/A5090606294][Lili Zhang]], [[https://openalex.org/A5019138281][Zhongwen Ou]], [[https://openalex.org/A5068293265][Wendong Zhang]], [[https://openalex.org/A5054809539][Yunhuai Zhang]]
 :HOST: Nano Materials Science
 :END:
 
-[[https://openalex.org/A5014526265][Yingqing Ou]],[[https://openalex.org/A5030429211][Lu Lu]],[[https://openalex.org/A5027499088][Peng Xiao]],[[https://openalex.org/A5090606294][Lili Zhang]],[[https://openalex.org/A5019138281][Zhongwen Ou]],[[https://openalex.org/A5068293265][Wendong Zhang]],[[https://openalex.org/A5054809539][Yunhuai Zhang]], Nano Materials Science. None(None)] 2024.
+[[https://openalex.org/A5014526265][Yingqing Ou]], [[https://openalex.org/A5030429211][Lu Lu]], [[https://openalex.org/A5027499088][Peng Xiao]], [[https://openalex.org/A5090606294][Lili Zhang]], [[https://openalex.org/A5019138281][Zhongwen Ou]], [[https://openalex.org/A5068293265][Wendong Zhang]], [[https://openalex.org/A5054809539][Yunhuai Zhang]], Nano Materials Science. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoms.2023.11.006")][Get bibtex entry]] 
 
@@ -79,7 +79,7 @@ Abstract The practical application of non‐precious Fe─N─C catalysts in pro
 
 OpenAlex: https://openalex.org/W4390639783
     
-[[https://openalex.org/A5014526265][Yingqing Ou]],[[https://openalex.org/A5030429211][Lu Lu]],[[https://openalex.org/A5027499088][Peng Xiao]],[[https://openalex.org/A5090606294][Lili Zhang]],[[https://openalex.org/A5019138281][Zhongwen Ou]],[[https://openalex.org/A5068293265][Wendong Zhang]],[[https://openalex.org/A5054809539][Yunhuai Zhang]], Nano Materials Science. https://doi.org/10.1016/j.nanoms.2023.11.006
+[[https://openalex.org/A5014526265][Yingqing Ou]], [[https://openalex.org/A5030429211][Lu Lu]], [[https://openalex.org/A5027499088][Peng Xiao]], [[https://openalex.org/A5090606294][Lili Zhang]], [[https://openalex.org/A5019138281][Zhongwen Ou]], [[https://openalex.org/A5068293265][Wendong Zhang]], [[https://openalex.org/A5054809539][Yunhuai Zhang]], Nano Materials Science. https://doi.org/10.1016/j.nanoms.2023.11.006
     
 Elucidating the inherent origins of the sluggish hydrogen evolution reaction (HER) kinetics in alkaline media and developing high-performance electrocatalysts are fundamental for the advances of conventional alkaline water electrolyzers and emerging anion exchange membrane (AEM) electrolyzers. Here we present a facile electrochemical modification strategy for the synthesis of bi-component Co–Mo(18%)/A-Co(OH)2 catalyst toward efficient HER catalysis in alkaline media. Porous Co–Mo alloys with adjustable Mo/Co atomic ratio are first prepared by H2-assisted cathodic electrodeposition. By virtue of the appropriate electronic structure and hydrogen binding energy, Co–Mo(18%) is the most HER active among the alloys and is further activated by a constant-current electrochemical modification process. Physical characterizations reveal the formation of amorphous Co(OH)2 nanoparticles on the surface. Electrokinetic analysis combined with theoretical calculations reveal that the in-situ formed Co(OH)2 can efficiently promote the water dissociation, resulting in accelerated Volmer-step kinetics. As a result, the Co–Mo(18%)/A-Co(OH)2 simultaneously achieves the optimization of the two factors dominating alkaline HER activity, i.e., water dissociation and hydrogen adsorption/desorption via the bifunctional synergy of the bi-components. The high HER activity (η10 of 47 ​mV at 10 ​mA ​cm−2) of Co–Mo(18%)/A-Co(OH)2 is close to benchmark Pt/C catalyst and comparable or superior to the most active non-noble metal catalysts.    
 
@@ -89,11 +89,11 @@ Elucidating the inherent origins of the sluggish hydrogen evolution reaction (HE
 :PROPERTIES:
 :ID: https://openalex.org/W4390653010
 :DOI: https://doi.org/10.1016/j.apsusc.2024.159297
-:AUTHORS: [[https://openalex.org/A5000448228][Meena Rittiruam]],[[https://openalex.org/A5003663831][Pisit Khamloet]],[[https://openalex.org/A5064691939][Annop Ektarawong]],[[https://openalex.org/A5083251227][Chayanon Atthapak]],[[https://openalex.org/A5054768027][Tinnakorn Saelee]],[[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]],[[https://openalex.org/A5072294019][Björn Alling]],[[https://openalex.org/A5036226683][Supareak Praserthdam]],[[https://openalex.org/A5001087403][Piyasan Praserthdam]]
+:AUTHORS: [[https://openalex.org/A5000448228][Meena Rittiruam]], [[https://openalex.org/A5003663831][Pisit Khamloet]], [[https://openalex.org/A5064691939][Annop Ektarawong]], [[https://openalex.org/A5083251227][Chayanon Atthapak]], [[https://openalex.org/A5054768027][Tinnakorn Saelee]], [[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]], [[https://openalex.org/A5072294019][Björn Alling]], [[https://openalex.org/A5036226683][Supareak Praserthdam]], [[https://openalex.org/A5001087403][Piyasan Praserthdam]]
 :HOST: Applied Surface Science
 :END:
 
-[[https://openalex.org/A5000448228][Meena Rittiruam]],[[https://openalex.org/A5003663831][Pisit Khamloet]],[[https://openalex.org/A5064691939][Annop Ektarawong]],[[https://openalex.org/A5083251227][Chayanon Atthapak]],[[https://openalex.org/A5054768027][Tinnakorn Saelee]],[[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]],[[https://openalex.org/A5072294019][Björn Alling]],[[https://openalex.org/A5036226683][Supareak Praserthdam]],[[https://openalex.org/A5001087403][Piyasan Praserthdam]], Applied Surface Science. None(None)] 2024.
+[[https://openalex.org/A5000448228][Meena Rittiruam]], [[https://openalex.org/A5003663831][Pisit Khamloet]], [[https://openalex.org/A5064691939][Annop Ektarawong]], [[https://openalex.org/A5083251227][Chayanon Atthapak]], [[https://openalex.org/A5054768027][Tinnakorn Saelee]], [[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]], [[https://openalex.org/A5072294019][Björn Alling]], [[https://openalex.org/A5036226683][Supareak Praserthdam]], [[https://openalex.org/A5001087403][Piyasan Praserthdam]], Applied Surface Science. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159297")][Get bibtex entry]] 
 
@@ -103,7 +103,7 @@ Elucidating the inherent origins of the sluggish hydrogen evolution reaction (HE
 
 OpenAlex: https://openalex.org/W4390653010
     
-[[https://openalex.org/A5000448228][Meena Rittiruam]],[[https://openalex.org/A5003663831][Pisit Khamloet]],[[https://openalex.org/A5064691939][Annop Ektarawong]],[[https://openalex.org/A5083251227][Chayanon Atthapak]],[[https://openalex.org/A5054768027][Tinnakorn Saelee]],[[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]],[[https://openalex.org/A5072294019][Björn Alling]],[[https://openalex.org/A5036226683][Supareak Praserthdam]],[[https://openalex.org/A5001087403][Piyasan Praserthdam]], Applied Surface Science. https://doi.org/10.1016/j.apsusc.2024.159297
+[[https://openalex.org/A5000448228][Meena Rittiruam]], [[https://openalex.org/A5003663831][Pisit Khamloet]], [[https://openalex.org/A5064691939][Annop Ektarawong]], [[https://openalex.org/A5083251227][Chayanon Atthapak]], [[https://openalex.org/A5054768027][Tinnakorn Saelee]], [[https://openalex.org/A5015354344][Patcharaporn Khajondetchairit]], [[https://openalex.org/A5072294019][Björn Alling]], [[https://openalex.org/A5036226683][Supareak Praserthdam]], [[https://openalex.org/A5001087403][Piyasan Praserthdam]], Applied Surface Science. https://doi.org/10.1016/j.apsusc.2024.159297
     
 High-entropy-alloy (HEA) catalysts have been used in many challenging electrocatalytic reactions, e.g., CO2 reduction reaction (CO2RR) due to their promising properties. For CO2RR catalysts, tuning metal compositions in Cu-based catalysts is one of the techniques to control the desired products. Thus, this work investigated the optimal composition of Cu-Mn-Ni-Zn HEA catalysts using high-throughput screening (HTS) for CO2RR targeting on two competing routes toward CH4 and CH3OH products. The screening protocol evaluates catalytic activity through adsorption energy (Eads) of *CO2, *CO, *COOH, and *H. At the same time, the selectivity is represented by Eads of *COH, *CH4, *CHO, and *CH3OH, using density functional theory (DFT) accelerated by machine learning techniques. The screening result from 11,920 data revealed 259 candidates for CH4-selective and 4,214 for CH3OH-selective catalysts. Interestingly, the Cu-Mn-Ni-Zn excellently prevented competitive hydrogen evolution reaction by up to 90%. Optimal composition for each route are Cu0.1Mn0.4Ni0.2Zn0.3 and Cu0.2Mn0.4Ni0.1Zn0.3 in CH4-selective route and Cu0.3Mn0.3Ni0.2Zn0.2, Cu0.3Mn0.2Ni0.3Zn0.2, Cu0.3Mn0.2Ni0.2Zn0.3, and Cu0.2Mn0.3Ni0.3Zn0.2 in CH3OH-selective route. The optimal catalyst structure with high CO2RR activity in both routes was revealed to have the Mn atom as an active site, while Cu, Ni, and Zn as neighboring atoms. Hence, the Cu-Mn-Ni-Zn HEA catalyst is the promising electrocatalyst for CO2RR.    
 
@@ -113,11 +113,11 @@ High-entropy-alloy (HEA) catalysts have been used in many challenging electrocat
 :PROPERTIES:
 :ID: https://openalex.org/W4390659500
 :DOI: https://doi.org/10.1002/metm.11
-:AUTHORS: [[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]],[[https://openalex.org/A5024845093][Meng Chen]],[[https://openalex.org/A5030081625][Changrui Feng]],[[https://openalex.org/A5035752387][Shasha Li]],[[https://openalex.org/A5035539982][Abuliti Abudula]],[[https://openalex.org/A5014658095][Guoqing Guan]]
+:AUTHORS: [[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]], [[https://openalex.org/A5024845093][Meng Chen]], [[https://openalex.org/A5030081625][Changrui Feng]], [[https://openalex.org/A5035752387][Shasha Li]], [[https://openalex.org/A5035539982][Abuliti Abudula]], [[https://openalex.org/A5014658095][Guoqing Guan]]
 :HOST: MetalMat
 :END:
 
-[[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]],[[https://openalex.org/A5024845093][Meng Chen]],[[https://openalex.org/A5030081625][Changrui Feng]],[[https://openalex.org/A5035752387][Shasha Li]],[[https://openalex.org/A5035539982][Abuliti Abudula]],[[https://openalex.org/A5014658095][Guoqing Guan]], MetalMat. None(None)] 2024.
+[[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]], [[https://openalex.org/A5024845093][Meng Chen]], [[https://openalex.org/A5030081625][Changrui Feng]], [[https://openalex.org/A5035752387][Shasha Li]], [[https://openalex.org/A5035539982][Abuliti Abudula]], [[https://openalex.org/A5014658095][Guoqing Guan]], MetalMat. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/metm.11")][Get bibtex entry]] 
 
@@ -127,7 +127,7 @@ High-entropy-alloy (HEA) catalysts have been used in many challenging electrocat
 
 OpenAlex: https://openalex.org/W4390659500
     
-[[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]],[[https://openalex.org/A5024845093][Meng Chen]],[[https://openalex.org/A5030081625][Changrui Feng]],[[https://openalex.org/A5035752387][Shasha Li]],[[https://openalex.org/A5035539982][Abuliti Abudula]],[[https://openalex.org/A5014658095][Guoqing Guan]], MetalMat. https://doi.org/10.1002/metm.11
+[[https://openalex.org/A5056676628][Nutthaphak Kitiphatpiboon]], [[https://openalex.org/A5024845093][Meng Chen]], [[https://openalex.org/A5030081625][Changrui Feng]], [[https://openalex.org/A5035752387][Shasha Li]], [[https://openalex.org/A5035539982][Abuliti Abudula]], [[https://openalex.org/A5014658095][Guoqing Guan]], MetalMat. https://doi.org/10.1002/metm.11
     
 Abstract According to the International Energy Agency (IEA) strategy, water electrolysis will be a second priority for hydrogen production by 2030, which can support sustainable development goals (SDGs). However, for the large‐scale application, especially seawater electrolysis at a high current density, cost and durability of the electrocatalytic system need to be taken into account. Herein, fundamental mechanisms of seawater electrolysis in a wide range of pH values, potential electrocatalysts for overall water splitting, recent progress on synthesis electrocatalysts and basic principles for the evaluation of electrocatalysts are reviewed. Subsequently, critical parameters and issues for scaling‐up of seawater electrolyzers are critically discussed. Finally, future prospects for completing sustainable hydrogen production from seawater for sustainable development are outlooked. It is anticipated to offer guidelines for the design and production of innovative electrocatalysts with high electrocatalytic activity and durability for the industrial scale application.    
 
@@ -137,11 +137,11 @@ Abstract According to the International Energy Agency (IEA) strategy, water elec
 :PROPERTIES:
 :ID: https://openalex.org/W4390662432
 :DOI: https://doi.org/10.1002/smll.202309067
-:AUTHORS: [[https://openalex.org/A5065585539][Qijun Pan]],[[https://openalex.org/A5040331939][Yuguang Wang]],[[https://openalex.org/A5011893427][Bin Chen]],[[https://openalex.org/A5031804038][Xiang Zhang]],[[https://openalex.org/A5022961931][Dou Lin]],[[https://openalex.org/A5027823171][Sisi Yan]],[[https://openalex.org/A5041287876][Fangming Han]],[[https://openalex.org/A5030154270][Huijun Zhao]],[[https://openalex.org/A5002743238][Guowen Meng]]
+:AUTHORS: [[https://openalex.org/A5065585539][Qijun Pan]], [[https://openalex.org/A5040331939][Yuguang Wang]], [[https://openalex.org/A5011893427][Bin Chen]], [[https://openalex.org/A5031804038][Xiang Zhang]], [[https://openalex.org/A5022961931][Dou Lin]], [[https://openalex.org/A5027823171][Sisi Yan]], [[https://openalex.org/A5041287876][Fangming Han]], [[https://openalex.org/A5030154270][Huijun Zhao]], [[https://openalex.org/A5002743238][Guowen Meng]]
 :HOST: Small
 :END:
 
-[[https://openalex.org/A5065585539][Qijun Pan]],[[https://openalex.org/A5040331939][Yuguang Wang]],[[https://openalex.org/A5011893427][Bin Chen]],[[https://openalex.org/A5031804038][Xiang Zhang]],[[https://openalex.org/A5022961931][Dou Lin]],[[https://openalex.org/A5027823171][Sisi Yan]],[[https://openalex.org/A5041287876][Fangming Han]],[[https://openalex.org/A5030154270][Huijun Zhao]],[[https://openalex.org/A5002743238][Guowen Meng]], Small. None(None)] 2024.
+[[https://openalex.org/A5065585539][Qijun Pan]], [[https://openalex.org/A5040331939][Yuguang Wang]], [[https://openalex.org/A5011893427][Bin Chen]], [[https://openalex.org/A5031804038][Xiang Zhang]], [[https://openalex.org/A5022961931][Dou Lin]], [[https://openalex.org/A5027823171][Sisi Yan]], [[https://openalex.org/A5041287876][Fangming Han]], [[https://openalex.org/A5030154270][Huijun Zhao]], [[https://openalex.org/A5002743238][Guowen Meng]], Small. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202309067")][Get bibtex entry]] 
 
@@ -151,7 +151,7 @@ Abstract According to the International Energy Agency (IEA) strategy, water elec
 
 OpenAlex: https://openalex.org/W4390662432
     
-[[https://openalex.org/A5065585539][Qijun Pan]],[[https://openalex.org/A5040331939][Yuguang Wang]],[[https://openalex.org/A5011893427][Bin Chen]],[[https://openalex.org/A5031804038][Xiang Zhang]],[[https://openalex.org/A5022961931][Dou Lin]],[[https://openalex.org/A5027823171][Sisi Yan]],[[https://openalex.org/A5041287876][Fangming Han]],[[https://openalex.org/A5030154270][Huijun Zhao]],[[https://openalex.org/A5002743238][Guowen Meng]], Small. https://doi.org/10.1002/smll.202309067
+[[https://openalex.org/A5065585539][Qijun Pan]], [[https://openalex.org/A5040331939][Yuguang Wang]], [[https://openalex.org/A5011893427][Bin Chen]], [[https://openalex.org/A5031804038][Xiang Zhang]], [[https://openalex.org/A5022961931][Dou Lin]], [[https://openalex.org/A5027823171][Sisi Yan]], [[https://openalex.org/A5041287876][Fangming Han]], [[https://openalex.org/A5030154270][Huijun Zhao]], [[https://openalex.org/A5002743238][Guowen Meng]], Small. https://doi.org/10.1002/smll.202309067
     
 Abstract To date, the excellent mass‐catalytic activities of Pt single‐atoms catalysts (Pt‐SACs) toward hydrogen evolution reaction (HER) are categorically confirmed; however, their high current density performance remains a challenge for practical applications. Here, a binder‐free approach is exemplified to fabricate self‐standing superhydrophilic‐superaerphobic Pt‐SACs cathodes by directly anchoring Pt‐SAs via Pt‐N x C 4‐x coordination bonds to the structurally‐integrated 3D nitrogen‐doped carbon tubes (N‐CTs) array grid (denoted as Pt@N‐CTs). The 3D Pt@N‐CTs cathode with optimal Pt‐SACs loading is capable of operating at a high current density of 1000 mA cm −2 with an ultralow overpotential of 157.9 mV with remarkable long‐term stability over 11 days at 500 mA cm −2 . The 3D super‐wettable free‐standing Pt@N‐CTs possess interconnected vertical and lateral N‐CTs with hierarchical‐sized open channels, which facilitates the mass transfer. The binder‐free immobilization adding to the large surface area and 3D‐interconnected open channels endow Pt@N‐CTs cathodes with high accessible active sites, electrical conductivity, and structural stability that maximize the utilization efficiency of Pt‐SAs to achieve ampere‐level current density HER at low overpotentials.    
 
@@ -161,11 +161,11 @@ Abstract To date, the excellent mass‐catalytic activities of Pt single‐atoms
 :PROPERTIES:
 :ID: https://openalex.org/W4390663619
 :DOI: https://doi.org/10.1021/acscatal.3c03086
-:AUTHORS: [[https://openalex.org/A5018485851][Jiasui Zhan]],[[https://openalex.org/A5059976201][Yuliang Cao]],[[https://openalex.org/A5082432593][Junwen Lai]],[[https://openalex.org/A5085386208][Jiangxu Li]],[[https://openalex.org/A5002378444][Hui Ma]],[[https://openalex.org/A5049515638][Song Li]],[[https://openalex.org/A5079359634][Peitao Liu]],[[https://openalex.org/A5023498466][Xing‐Qiu Chen]],[[https://openalex.org/A5063003463][Yan Sun]]
+:AUTHORS: [[https://openalex.org/A5018485851][Jiasui Zhan]], [[https://openalex.org/A5059976201][Yuliang Cao]], [[https://openalex.org/A5082432593][Junwen Lai]], [[https://openalex.org/A5085386208][Jiangxu Li]], [[https://openalex.org/A5002378444][Hui Ma]], [[https://openalex.org/A5049515638][Song Li]], [[https://openalex.org/A5079359634][Peitao Liu]], [[https://openalex.org/A5023498466][Xing‐Qiu Chen]], [[https://openalex.org/A5063003463][Yan Sun]]
 :HOST: ACS Catalysis
 :END:
 
-[[https://openalex.org/A5018485851][Jiasui Zhan]],[[https://openalex.org/A5059976201][Yuliang Cao]],[[https://openalex.org/A5082432593][Junwen Lai]],[[https://openalex.org/A5085386208][Jiangxu Li]],[[https://openalex.org/A5002378444][Hui Ma]],[[https://openalex.org/A5049515638][Song Li]],[[https://openalex.org/A5079359634][Peitao Liu]],[[https://openalex.org/A5023498466][Xing‐Qiu Chen]],[[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. None(None)] 2024.
+[[https://openalex.org/A5018485851][Jiasui Zhan]], [[https://openalex.org/A5059976201][Yuliang Cao]], [[https://openalex.org/A5082432593][Junwen Lai]], [[https://openalex.org/A5085386208][Jiangxu Li]], [[https://openalex.org/A5002378444][Hui Ma]], [[https://openalex.org/A5049515638][Song Li]], [[https://openalex.org/A5079359634][Peitao Liu]], [[https://openalex.org/A5023498466][Xing‐Qiu Chen]], [[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c03086")][Get bibtex entry]] 
 
@@ -175,7 +175,7 @@ Abstract To date, the excellent mass‐catalytic activities of Pt single‐atoms
 
 OpenAlex: https://openalex.org/W4390663619
     
-[[https://openalex.org/A5018485851][Jiasui Zhan]],[[https://openalex.org/A5059976201][Yuliang Cao]],[[https://openalex.org/A5082432593][Junwen Lai]],[[https://openalex.org/A5085386208][Jiangxu Li]],[[https://openalex.org/A5002378444][Hui Ma]],[[https://openalex.org/A5049515638][Song Li]],[[https://openalex.org/A5079359634][Peitao Liu]],[[https://openalex.org/A5023498466][Xing‐Qiu Chen]],[[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c03086
+[[https://openalex.org/A5018485851][Jiasui Zhan]], [[https://openalex.org/A5059976201][Yuliang Cao]], [[https://openalex.org/A5082432593][Junwen Lai]], [[https://openalex.org/A5085386208][Jiangxu Li]], [[https://openalex.org/A5002378444][Hui Ma]], [[https://openalex.org/A5049515638][Song Li]], [[https://openalex.org/A5079359634][Peitao Liu]], [[https://openalex.org/A5023498466][Xing‐Qiu Chen]], [[https://openalex.org/A5063003463][Yan Sun]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c03086
     
 The design of highly efficient hydrogen evolution reaction (HER) catalysts is one of the most important tasks for electrochemical water splitting in the field of renewable energy resources. In this work, via an effective combination of topologically trivial electronic intensity and the topologically nontrivial energy window, we predicted high catalytic performance in chiral material SiTc, with a close-to-zero hydrogen adsorption Gibbs free energy (−0.062 eV). With both a large intrinsic projected Berry phase and close-to-zero Gibbs free energy, SiTc provides a promising candidate for the HER catalysis reaction. In addition, this work offers an effective strategy for designing more potentially high activity topological electrocatalysts via the combination of topological states and high electronic intensity in metals.    
 
@@ -185,11 +185,11 @@ The design of highly efficient hydrogen evolution reaction (HER) catalysts is on
 :PROPERTIES:
 :ID: https://openalex.org/W4390664173
 :DOI: https://doi.org/10.1007/s10462-023-10637-7
-:AUTHORS: [[https://openalex.org/A5022241695][Hyeon-Seon Yi]],[[https://openalex.org/A5090945343][Ting Liu]],[[https://openalex.org/A5091376805][Gongjin Lan]]
+:AUTHORS: [[https://openalex.org/A5022241695][Hyeon-Seon Yi]], [[https://openalex.org/A5090945343][Ting Liu]], [[https://openalex.org/A5091376805][Gongjin Lan]]
 :HOST: Artificial Intelligence Review
 :END:
 
-[[https://openalex.org/A5022241695][Hyeon-Seon Yi]],[[https://openalex.org/A5090945343][Ting Liu]],[[https://openalex.org/A5091376805][Gongjin Lan]], Artificial Intelligence Review. 57(1)] 2024.
+[[https://openalex.org/A5022241695][Hyeon-Seon Yi]], [[https://openalex.org/A5090945343][Ting Liu]], [[https://openalex.org/A5091376805][Gongjin Lan]], Artificial Intelligence Review. 57(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10462-023-10637-7")][Get bibtex entry]] 
 
@@ -199,7 +199,7 @@ The design of highly efficient hydrogen evolution reaction (HER) catalysts is on
 
 OpenAlex: https://openalex.org/W4390664173
     
-[[https://openalex.org/A5022241695][Hyeon-Seon Yi]],[[https://openalex.org/A5090945343][Ting Liu]],[[https://openalex.org/A5091376805][Gongjin Lan]], Artificial Intelligence Review. https://doi.org/10.1007/s10462-023-10637-7
+[[https://openalex.org/A5022241695][Hyeon-Seon Yi]], [[https://openalex.org/A5090945343][Ting Liu]], [[https://openalex.org/A5091376805][Gongjin Lan]], Artificial Intelligence Review. https://doi.org/10.1007/s10462-023-10637-7
     
 No abstract    
 
@@ -209,11 +209,11 @@ No abstract
 :PROPERTIES:
 :ID: https://openalex.org/W4390664298
 :DOI: https://doi.org/10.1016/j.electacta.2024.143794
-:AUTHORS: [[https://openalex.org/A5021361489][İlknur Baldan Işık]],[[https://openalex.org/A5073773493][Doğan Kaya]],[[https://openalex.org/A5061508087][Ahmet Ekicibil]],[[https://openalex.org/A5061410537][Faruk Karadağ]]
+:AUTHORS: [[https://openalex.org/A5021361489][İlknur Baldan Işık]], [[https://openalex.org/A5073773493][Doğan Kaya]], [[https://openalex.org/A5061508087][Ahmet Ekicibil]], [[https://openalex.org/A5061410537][Faruk Karadağ]]
 :HOST: Electrochimica Acta
 :END:
 
-[[https://openalex.org/A5021361489][İlknur Baldan Işık]],[[https://openalex.org/A5073773493][Doğan Kaya]],[[https://openalex.org/A5061508087][Ahmet Ekicibil]],[[https://openalex.org/A5061410537][Faruk Karadağ]], Electrochimica Acta. None(None)] 2024.
+[[https://openalex.org/A5021361489][İlknur Baldan Işık]], [[https://openalex.org/A5073773493][Doğan Kaya]], [[https://openalex.org/A5061508087][Ahmet Ekicibil]], [[https://openalex.org/A5061410537][Faruk Karadağ]], Electrochimica Acta. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.143794")][Get bibtex entry]] 
 
@@ -223,7 +223,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4390664298
     
-[[https://openalex.org/A5021361489][İlknur Baldan Işık]],[[https://openalex.org/A5073773493][Doğan Kaya]],[[https://openalex.org/A5061508087][Ahmet Ekicibil]],[[https://openalex.org/A5061410537][Faruk Karadağ]], Electrochimica Acta. https://doi.org/10.1016/j.electacta.2024.143794
+[[https://openalex.org/A5021361489][İlknur Baldan Işık]], [[https://openalex.org/A5073773493][Doğan Kaya]], [[https://openalex.org/A5061508087][Ahmet Ekicibil]], [[https://openalex.org/A5061410537][Faruk Karadağ]], Electrochimica Acta. https://doi.org/10.1016/j.electacta.2024.143794
     
 The development of efficient, recyclable and low-cost electrocatalysts represents a formidable challenge in the production of hydrogen gas for fuel cell technologies. Herein, we reported the catalytic and magnetic properties of multifunctional, low Pt-content ternary Pt21Cu55Ni24, Pt39Cu24Ni37, and Pt45Cu32Ni23 catalysts nanoparticles (NPs), which were synthesized using modified polyol process. X-ray diffraction and Rietveld refinement analysis confirmed the fcc-Fm3¯m space group, with the (111) facets being the most preferred planes and the Pt39Cu24Ni37 catalyst exhibiting the smallest crystal size of 1.75 ± 0.36 nm, the largest dislocation density of 356.16 nm−2 and micro strain of 43.21 × 10−3 a.u. for Pt39Cu24Ni37 catalyst. All NPs exhibited a uniform particle size distribution with an average size ranging between 2 nm and 4 nm. The Pt39Cu24Ni37 catalyst demonstrated excellent HER activity in 1 M KOH alkaline media at room temperature, with the lowest onset potential of 30.3 mV (vs. RHE), an overpotential value of -71.30 mV to achieve a current density of 10 mA cm−2, and the highest electrochemically active surface area of 39.45 m2 gPt−1. Stability tests conducted at a potential of 93.3 mV (vs. RHE) exhibited good stability for all samples. Additionally, Pt21Cu55Ni24, Pt39Cu24Ni37, and Pt45Cu32Ni23 catalysts followed the Volmer–Tafel HER mechanism with Tafel slopes of 49 mV dec−1, 50 mV dec−1 and 42 mV dec−1, respectively. The magnetic results obtained from M-H and M-T curves revealed that all three materials exhibit strong paramagnetic properties.    
 
@@ -233,11 +233,11 @@ The development of efficient, recyclable and low-cost electrocatalysts represent
 :PROPERTIES:
 :ID: https://openalex.org/W4390669404
 :DOI: https://doi.org/10.1038/s41524-023-01183-5
-:AUTHORS: [[https://openalex.org/A5038584437][Blake Duschatko]],[[https://openalex.org/A5029276098][Jonathan Vandermause]],[[https://openalex.org/A5010660375][Nicola Molinari]],[[https://openalex.org/A5075010416][Boris Kozinsky]]
+:AUTHORS: [[https://openalex.org/A5038584437][Blake Duschatko]], [[https://openalex.org/A5029276098][Jonathan Vandermause]], [[https://openalex.org/A5010660375][Nicola Molinari]], [[https://openalex.org/A5075010416][Boris Kozinsky]]
 :HOST: npj Computational Materials
 :END:
 
-[[https://openalex.org/A5038584437][Blake Duschatko]],[[https://openalex.org/A5029276098][Jonathan Vandermause]],[[https://openalex.org/A5010660375][Nicola Molinari]],[[https://openalex.org/A5075010416][Boris Kozinsky]], npj Computational Materials. 10(1)] 2024.
+[[https://openalex.org/A5038584437][Blake Duschatko]], [[https://openalex.org/A5029276098][Jonathan Vandermause]], [[https://openalex.org/A5010660375][Nicola Molinari]], [[https://openalex.org/A5075010416][Boris Kozinsky]], npj Computational Materials. 10(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41524-023-01183-5")][Get bibtex entry]] 
 
@@ -247,7 +247,7 @@ The development of efficient, recyclable and low-cost electrocatalysts represent
 
 OpenAlex: https://openalex.org/W4390669404
     
-[[https://openalex.org/A5038584437][Blake Duschatko]],[[https://openalex.org/A5029276098][Jonathan Vandermause]],[[https://openalex.org/A5010660375][Nicola Molinari]],[[https://openalex.org/A5075010416][Boris Kozinsky]], npj Computational Materials. https://doi.org/10.1038/s41524-023-01183-5
+[[https://openalex.org/A5038584437][Blake Duschatko]], [[https://openalex.org/A5029276098][Jonathan Vandermause]], [[https://openalex.org/A5010660375][Nicola Molinari]], [[https://openalex.org/A5075010416][Boris Kozinsky]], npj Computational Materials. https://doi.org/10.1038/s41524-023-01183-5
     
 Abstract Coarse graining techniques play an essential role in accelerating molecular simulations of systems with large length and time scales. Theoretically grounded bottom-up models are appealing due to their thermodynamic consistency with the underlying all-atom models. In this direction, machine learning approaches hold great promise to fitting complex many-body data. However, training models may require collection of large amounts of expensive data. Moreover, quantifying trained model accuracy is challenging, especially in cases of non-trivial free energy configurations, where training data may be sparse. We demonstrate a path towards uncertainty-aware models of coarse grained free energy surfaces. Specifically, we show that principled Bayesian model uncertainty allows for efficient data collection through an on-the-fly active learning framework and opens the possibility of adaptive transfer of models across different chemical systems. Uncertainties also characterize models’ accuracy of free energy predictions, even when training is performed only on forces. This work helps pave the way towards efficient autonomous training of reliable and uncertainty aware many-body machine learned coarse grain models.    
 
@@ -257,11 +257,11 @@ Abstract Coarse graining techniques play an essential role in accelerating molec
 :PROPERTIES:
 :ID: https://openalex.org/W4390670670
 :DOI: https://doi.org/10.1038/s41467-023-44261-4
-:AUTHORS: [[https://openalex.org/A5048740895][Zhi Wen Chen]],[[https://openalex.org/A5052883326][Jian Li]],[[https://openalex.org/A5023196725][Pengfei Ou]],[[https://openalex.org/A5029170892][Jianan Erick Huang]],[[https://openalex.org/A5055543764][Zi Wen]],[[https://openalex.org/A5010466371][Lixin Chen]],[[https://openalex.org/A5085860736][Xue Yao]],[[https://openalex.org/A5067244216][Guangming Cai]],[[https://openalex.org/A5084694561][Chun Cheng Yang]],[[https://openalex.org/A5077238261][Chandra Veer Singh]],[[https://openalex.org/A5020445890][Q. Jiang]]
+:AUTHORS: [[https://openalex.org/A5048740895][Zhi Wen Chen]], [[https://openalex.org/A5052883326][Jian Li]], [[https://openalex.org/A5023196725][Pengfei Ou]], [[https://openalex.org/A5029170892][Jianan Erick Huang]], [[https://openalex.org/A5055543764][Zi Wen]], [[https://openalex.org/A5010466371][Lixin Chen]], [[https://openalex.org/A5085860736][Xue Yao]], [[https://openalex.org/A5067244216][Guangming Cai]], [[https://openalex.org/A5084694561][Chun Cheng Yang]], [[https://openalex.org/A5077238261][Chandra Veer Singh]], [[https://openalex.org/A5020445890][Q. Jiang]]
 :HOST: Nature Communications
 :END:
 
-[[https://openalex.org/A5048740895][Zhi Wen Chen]],[[https://openalex.org/A5052883326][Jian Li]],[[https://openalex.org/A5023196725][Pengfei Ou]],[[https://openalex.org/A5029170892][Jianan Erick Huang]],[[https://openalex.org/A5055543764][Zi Wen]],[[https://openalex.org/A5010466371][Lixin Chen]],[[https://openalex.org/A5085860736][Xue Yao]],[[https://openalex.org/A5067244216][Guangming Cai]],[[https://openalex.org/A5084694561][Chun Cheng Yang]],[[https://openalex.org/A5077238261][Chandra Veer Singh]],[[https://openalex.org/A5020445890][Q. Jiang]], Nature Communications. 15(1)] 2024.
+[[https://openalex.org/A5048740895][Zhi Wen Chen]], [[https://openalex.org/A5052883326][Jian Li]], [[https://openalex.org/A5023196725][Pengfei Ou]], [[https://openalex.org/A5029170892][Jianan Erick Huang]], [[https://openalex.org/A5055543764][Zi Wen]], [[https://openalex.org/A5010466371][Lixin Chen]], [[https://openalex.org/A5085860736][Xue Yao]], [[https://openalex.org/A5067244216][Guangming Cai]], [[https://openalex.org/A5084694561][Chun Cheng Yang]], [[https://openalex.org/A5077238261][Chandra Veer Singh]], [[https://openalex.org/A5020445890][Q. Jiang]], Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44261-4")][Get bibtex entry]] 
 
@@ -271,7 +271,7 @@ Abstract Coarse graining techniques play an essential role in accelerating molec
 
 OpenAlex: https://openalex.org/W4390670670
     
-[[https://openalex.org/A5048740895][Zhi Wen Chen]],[[https://openalex.org/A5052883326][Jian Li]],[[https://openalex.org/A5023196725][Pengfei Ou]],[[https://openalex.org/A5029170892][Jianan Erick Huang]],[[https://openalex.org/A5055543764][Zi Wen]],[[https://openalex.org/A5010466371][Lixin Chen]],[[https://openalex.org/A5085860736][Xue Yao]],[[https://openalex.org/A5067244216][Guangming Cai]],[[https://openalex.org/A5084694561][Chun Cheng Yang]],[[https://openalex.org/A5077238261][Chandra Veer Singh]],[[https://openalex.org/A5020445890][Q. Jiang]], Nature Communications. https://doi.org/10.1038/s41467-023-44261-4
+[[https://openalex.org/A5048740895][Zhi Wen Chen]], [[https://openalex.org/A5052883326][Jian Li]], [[https://openalex.org/A5023196725][Pengfei Ou]], [[https://openalex.org/A5029170892][Jianan Erick Huang]], [[https://openalex.org/A5055543764][Zi Wen]], [[https://openalex.org/A5010466371][Lixin Chen]], [[https://openalex.org/A5085860736][Xue Yao]], [[https://openalex.org/A5067244216][Guangming Cai]], [[https://openalex.org/A5084694561][Chun Cheng Yang]], [[https://openalex.org/A5077238261][Chandra Veer Singh]], [[https://openalex.org/A5020445890][Q. Jiang]], Nature Communications. https://doi.org/10.1038/s41467-023-44261-4
     
 The Sabatier principle is widely explored in heterogeneous catalysis, graphically depicted in volcano plots. The most desirable activity is located at the peak of the volcano, and further advances in activity past this optimum are possible by designing a catalyst that circumvents the limitation entailed by the Sabatier principle. Herein, by density functional theory calculations, we discovered an unusual Sabatier principle on high entropy alloy (HEA) surface, distinguishing the "just right" (ΔGH* = 0 eV) in the Sabatier principle of hydrogen evolution reaction (HER). A new descriptor was proposed to design HEA catalysts for HER. As a proof-of-concept, the synthesized PtFeCoNiCu HEA catalyst endows a high catalytic performance for HER with an overpotential of 10.8 mV at -10 mA cm-2 and 4.6 times higher intrinsic activity over the state-of-the-art Pt/C. Moreover, the unusual Sabatier principle on HEA catalysts can be extended to other catalytic reactions.    
 
@@ -281,11 +281,11 @@ The Sabatier principle is widely explored in heterogeneous catalysis, graphicall
 :PROPERTIES:
 :ID: https://openalex.org/W4390674849
 :DOI: https://doi.org/10.1021/acs.jpclett.3c03209
-:AUTHORS: [[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]],[[https://openalex.org/A5067113324][Ariel Friedman]],[[https://openalex.org/A5018154686][Lior Elbaz]],[[https://openalex.org/A5013587381][Ilya Grinberg]]
+:AUTHORS: [[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]], [[https://openalex.org/A5067113324][Ariel Friedman]], [[https://openalex.org/A5018154686][Lior Elbaz]], [[https://openalex.org/A5013587381][Ilya Grinberg]]
 :HOST: The Journal of Physical Chemistry Letters
 :END:
 
-[[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]],[[https://openalex.org/A5067113324][Ariel Friedman]],[[https://openalex.org/A5018154686][Lior Elbaz]],[[https://openalex.org/A5013587381][Ilya Grinberg]], The Journal of Physical Chemistry Letters. None(None)] 2024.
+[[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]], [[https://openalex.org/A5067113324][Ariel Friedman]], [[https://openalex.org/A5018154686][Lior Elbaz]], [[https://openalex.org/A5013587381][Ilya Grinberg]], The Journal of Physical Chemistry Letters. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c03209")][Get bibtex entry]] 
 
@@ -295,7 +295,7 @@ The Sabatier principle is widely explored in heterogeneous catalysis, graphicall
 
 OpenAlex: https://openalex.org/W4390674849
     
-[[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]],[[https://openalex.org/A5067113324][Ariel Friedman]],[[https://openalex.org/A5018154686][Lior Elbaz]],[[https://openalex.org/A5013587381][Ilya Grinberg]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03209
+[[https://openalex.org/A5002833235][Nagaprasad Reddy Samala]], [[https://openalex.org/A5067113324][Ariel Friedman]], [[https://openalex.org/A5018154686][Lior Elbaz]], [[https://openalex.org/A5013587381][Ilya Grinberg]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03209
     
 The development of durable platinum-group-metal-free oxygen reduction reaction (ORR) catalysts is a key research direction for enabling the wide use of fuel cells. Here, we use a combination of experimental measurements and density functional theory calculations to study the activity and durability of seven iron-based metallophthalocyanine (MPc) ORR catalysts that differ only in the identity of the substituent groups on the MPcs. While the MPcs show similar ORR activity, their durabilities as measured by the current decay half-life differ greatly. We find that the energy difference between the hydrogenated intermediate structure and the final demetalated structure (ΔEdemetalation) of the MPcs is linearly related to the degradation reaction barrier energy. Comparison to the degradation data for the previously studied metallocorrole systems suggested that ΔEdemetalation also serves as a descriptor for the corrole systems and that the high availability of protons at the active site due to the COOH group of the o-corrole decreases the durability.    
 
@@ -305,11 +305,11 @@ The development of durable platinum-group-metal-free oxygen reduction reaction (
 :PROPERTIES:
 :ID: https://openalex.org/W4390675699
 :DOI: https://doi.org/10.1016/b978-0-443-15740-0.00012-4
-:AUTHORS: [[https://openalex.org/A5024660259][Leila Samiee]],[[https://openalex.org/A5082347539][Nejat Rahmanian]]
+:AUTHORS: [[https://openalex.org/A5024660259][Leila Samiee]], [[https://openalex.org/A5082347539][Nejat Rahmanian]]
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5024660259][Leila Samiee]],[[https://openalex.org/A5082347539][Nejat Rahmanian]], No host. None(None)] 2024.
+[[https://openalex.org/A5024660259][Leila Samiee]], [[https://openalex.org/A5082347539][Nejat Rahmanian]], No host. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/b978-0-443-15740-0.00012-4")][Get bibtex entry]] 
 
@@ -319,7 +319,7 @@ The development of durable platinum-group-metal-free oxygen reduction reaction (
 
 OpenAlex: https://openalex.org/W4390675699
     
-[[https://openalex.org/A5024660259][Leila Samiee]],[[https://openalex.org/A5082347539][Nejat Rahmanian]], No host. https://doi.org/10.1016/b978-0-443-15740-0.00012-4
+[[https://openalex.org/A5024660259][Leila Samiee]], [[https://openalex.org/A5082347539][Nejat Rahmanian]], No host. https://doi.org/10.1016/b978-0-443-15740-0.00012-4
     
 The emission of greenhouse gases on a global scale is predominantly caused by the utilization of fossil fuels. Various methods have been explored to address the recycling of CO2, which among, the CO2 conversion into high-value chemicals become so promising. The purpose of this book chapter evaluation is CO2 reduction and H2 evolution reactions for producing syngas. A comprehensive analysis shall highlight (i) the technical advantages and impediments of various reactor classifications, (ii) the effect of electrolytes on electrolyzers in the liquid phase, and (iv) the catalysts that are viable for the creation of important products such as CO.    
 
@@ -329,11 +329,11 @@ The emission of greenhouse gases on a global scale is predominantly caused by th
 :PROPERTIES:
 :ID: https://openalex.org/W4390684609
 :DOI: https://doi.org/10.1016/j.commatsci.2023.112778
-:AUTHORS: [[https://openalex.org/A5035766996][Pengyan Xue]],[[https://openalex.org/A5047850201][Xiuyun Zhao]],[[https://openalex.org/A5016833284][Desheng Zheng]],[[https://openalex.org/A5059700536][Qingrui Zhao]],[[https://openalex.org/A5082664273][Jing Feng]],[[https://openalex.org/A5019670440][Yingjie Feng]],[[https://openalex.org/A5024977426][Xin Chen]]
+:AUTHORS: [[https://openalex.org/A5035766996][Pengyan Xue]], [[https://openalex.org/A5047850201][Xiuyun Zhao]], [[https://openalex.org/A5016833284][Desheng Zheng]], [[https://openalex.org/A5059700536][Qingrui Zhao]], [[https://openalex.org/A5082664273][Jing Feng]], [[https://openalex.org/A5019670440][Yingjie Feng]], [[https://openalex.org/A5024977426][Xin Chen]]
 :HOST: Computational Materials Science
 :END:
 
-[[https://openalex.org/A5035766996][Pengyan Xue]],[[https://openalex.org/A5047850201][Xiuyun Zhao]],[[https://openalex.org/A5016833284][Desheng Zheng]],[[https://openalex.org/A5059700536][Qingrui Zhao]],[[https://openalex.org/A5082664273][Jing Feng]],[[https://openalex.org/A5019670440][Yingjie Feng]],[[https://openalex.org/A5024977426][Xin Chen]], Computational Materials Science. 234(None)] 2024.
+[[https://openalex.org/A5035766996][Pengyan Xue]], [[https://openalex.org/A5047850201][Xiuyun Zhao]], [[https://openalex.org/A5016833284][Desheng Zheng]], [[https://openalex.org/A5059700536][Qingrui Zhao]], [[https://openalex.org/A5082664273][Jing Feng]], [[https://openalex.org/A5019670440][Yingjie Feng]], [[https://openalex.org/A5024977426][Xin Chen]], Computational Materials Science. 234(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.commatsci.2023.112778")][Get bibtex entry]] 
 
@@ -343,7 +343,7 @@ The emission of greenhouse gases on a global scale is predominantly caused by th
 
 OpenAlex: https://openalex.org/W4390684609
     
-[[https://openalex.org/A5035766996][Pengyan Xue]],[[https://openalex.org/A5047850201][Xiuyun Zhao]],[[https://openalex.org/A5016833284][Desheng Zheng]],[[https://openalex.org/A5059700536][Qingrui Zhao]],[[https://openalex.org/A5082664273][Jing Feng]],[[https://openalex.org/A5019670440][Yingjie Feng]],[[https://openalex.org/A5024977426][Xin Chen]], Computational Materials Science. https://doi.org/10.1016/j.commatsci.2023.112778
+[[https://openalex.org/A5035766996][Pengyan Xue]], [[https://openalex.org/A5047850201][Xiuyun Zhao]], [[https://openalex.org/A5016833284][Desheng Zheng]], [[https://openalex.org/A5059700536][Qingrui Zhao]], [[https://openalex.org/A5082664273][Jing Feng]], [[https://openalex.org/A5019670440][Yingjie Feng]], [[https://openalex.org/A5024977426][Xin Chen]], Computational Materials Science. https://doi.org/10.1016/j.commatsci.2023.112778
     
 Hydrogen evolution reaction (HER) is a vital half-reaction for water splitting to produce H2. Exploring efficient, affordably priced, and environmentally sustainable HER catalysts is necessary for the development of renewable energy conversion and storage technologies. Here, the HER catalytic activity of hexagonal NiSb(0 1 0), hexagonal NiSb(0 0 1), hexagonal NiSb(1 0 1), cubic Ni3Sb(1 0 0), cubic Ni3Sb(0 1 0), cubic Ni3Sb(1 0 1), orthorhombic Ni3Sb(0 1 0), and orthorhombic Ni3Sb(1 0 1), is systematically investigated by density functional theory methods. Based on the calculated surface energy, all the studied surfaces are stable. Subsequently, we further evaluate their HER activity by calculating Gibbs free energy of hydrogen adsorption (ΔG*H) and exchange current density (i0). The results show that hexagonal NiSb and orthorhombic Ni3Sb are expected to be promising HER catalysts in Ni-Sb alloys because their ΔG*H values are respectively −0.03 and 0.03 eV, and they have larger i0 values. The synergistic interaction between the metal atoms of Ni and Sb can effectively promote electron transfer between the catalyst and reaction species, which is clearly demonstrated by the electronic structure analysis, which also illustrates that such high catalytic activity can be attributed to it. This work is conducive to guiding the design of this kind of alloy electrocatalysts for HER.    
 
@@ -353,11 +353,11 @@ Hydrogen evolution reaction (HER) is a vital half-reaction for water splitting t
 :PROPERTIES:
 :ID: https://openalex.org/W4390685826
 :DOI: https://doi.org/10.1021/acscatal.3c05000
-:AUTHORS: [[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]],[[https://openalex.org/A5051414179][Alexander J. Nielsen]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]]
+:AUTHORS: [[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]], [[https://openalex.org/A5051414179][Alexander J. Nielsen]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]]
 :HOST: ACS Catalysis
 :END:
 
-[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]],[[https://openalex.org/A5051414179][Alexander J. Nielsen]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. None(None)] 2024.
+[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]], [[https://openalex.org/A5051414179][Alexander J. Nielsen]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05000")][Get bibtex entry]] 
 
@@ -367,7 +367,7 @@ Hydrogen evolution reaction (HER) is a vital half-reaction for water splitting t
 
 OpenAlex: https://openalex.org/W4390685826
     
-[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]],[[https://openalex.org/A5051414179][Alexander J. Nielsen]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c05000
+[[https://openalex.org/A5093696276][Adam M. Roth-Zawadzki]], [[https://openalex.org/A5051414179][Alexander J. Nielsen]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c05000
     
 Dual and triple atom catalysts (DACs and TACs) are an emerging field of heterogeneous catalysis research. They share properties with single atom catalysts (SACs), such as maximizing dispersion of metals and the ability to circumvent the traditional scaling relations that limit extended surfaces. DACs and TACs additionally provide adjacent sites that are necessary for certain reaction mechanisms and add to the tunability of the electronic structure and binding energies. DACs and TACs are, however, inherently difficult to selectively synthesize and characterize. Characterization and activity evaluation are prone to misinterpretation, adding confusion to the already complex field. In this review, we investigate the current progress of DACs for important electrochemical reactions in energy conversion and storage. We further discuss current and future synthesis methods for DACs and TACs and focus on common pitfalls in characterization and activity evaluation.    
 
@@ -377,11 +377,11 @@ Dual and triple atom catalysts (DACs and TACs) are an emerging field of heteroge
 :PROPERTIES:
 :ID: https://openalex.org/W4390690975
 :DOI: https://doi.org/10.1021/acs.jcim.3c01649
-:AUTHORS: [[https://openalex.org/A5091351477][Marco Foscato]],[[https://openalex.org/A5066344973][Giovanni Occhipinti]],[[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]],[[https://openalex.org/A5048565832][Vidar R. Jensen]]
+:AUTHORS: [[https://openalex.org/A5091351477][Marco Foscato]], [[https://openalex.org/A5066344973][Giovanni Occhipinti]], [[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]], [[https://openalex.org/A5048565832][Vidar R. Jensen]]
 :HOST: Journal of Chemical Information and Modeling
 :END:
 
-[[https://openalex.org/A5091351477][Marco Foscato]],[[https://openalex.org/A5066344973][Giovanni Occhipinti]],[[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]],[[https://openalex.org/A5048565832][Vidar R. Jensen]], Journal of Chemical Information and Modeling. None(None)] 2024.
+[[https://openalex.org/A5091351477][Marco Foscato]], [[https://openalex.org/A5066344973][Giovanni Occhipinti]], [[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]], [[https://openalex.org/A5048565832][Vidar R. Jensen]], Journal of Chemical Information and Modeling. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.3c01649")][Get bibtex entry]] 
 
@@ -391,7 +391,7 @@ Dual and triple atom catalysts (DACs and TACs) are an emerging field of heteroge
 
 OpenAlex: https://openalex.org/W4390690975
     
-[[https://openalex.org/A5091351477][Marco Foscato]],[[https://openalex.org/A5066344973][Giovanni Occhipinti]],[[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]],[[https://openalex.org/A5048565832][Vidar R. Jensen]], Journal of Chemical Information and Modeling. https://doi.org/10.1021/acs.jcim.3c01649
+[[https://openalex.org/A5091351477][Marco Foscato]], [[https://openalex.org/A5066344973][Giovanni Occhipinti]], [[https://openalex.org/A5056882561][Sondre H. Hopen Eliasson]], [[https://openalex.org/A5048565832][Vidar R. Jensen]], Journal of Chemical Information and Modeling. https://doi.org/10.1021/acs.jcim.3c01649
     
 Methods for computational de novo design of inorganic molecules have paved the way for automated design of homogeneous catalysts. Such studies have so far relied on correlation-based prediction models as fitness functions (figures of merit), but the soundness of these approaches has yet to be tested by experimental verification of de novo-designed catalysts. Here, a previously developed criterion for the optimization of dative ligands L in ruthenium-based olefin metathesis catalysts RuCl2(L)(L′)(═CHAr), where Ar is an aryl group and L′ is a phosphine ligand dissociating to activate the catalyst, was used in de novo design experiments. These experiments predicted catalysts bearing an N-heterocyclic carbene (L = 9) substituted by two N-bound mesityls and two tert-butyl groups at the imidazolidin-2-ylidene backbone to be promising. Whereas the phosphine-stabilized precursor assumed by the prediction model could not be made, a pyridine-stabilized ruthenium alkylidene complex (17) bearing carbene 9 was less active than a known leading pyridine-stabilized Grubbs-type catalyst (18, L = H2IMes). A density functional theory-based analysis showed that the unsubstituted metallacyclobutane (MCB) intermediate generated in the presence of ethylene is the likely resting state of both 17 and 18. Whereas the design criterion via its correlation between the stability of the MCB and the rate-determining barrier indeed seeks to stabilize the MCB, it relies on RuCl2(L)(L′)(═CH2) adducts as resting states. The change in resting state explains the discrepancy between the prediction and the actual performance of catalyst 17. To avoid such discrepancies and better address the multifaceted challenges of predicting catalytic performance, future de novo catalyst design studies should explore and test design criteria incorporating information from more than a single relative energy or intermediate.    
 
@@ -401,11 +401,11 @@ Methods for computational de novo design of inorganic molecules have paved the w
 :PROPERTIES:
 :ID: https://openalex.org/W4390691552
 :DOI: https://doi.org/10.1021/acs.jpclett.3c02807
-:AUTHORS: [[https://openalex.org/A5068201603][Jie Huang]],[[https://openalex.org/A5058659834][Bowen Wang]],[[https://openalex.org/A5065648316][Hejin Yan]],[[https://openalex.org/A5000856811][Yongqing Cai]]
+:AUTHORS: [[https://openalex.org/A5068201603][Jie Huang]], [[https://openalex.org/A5058659834][Bowen Wang]], [[https://openalex.org/A5065648316][Hejin Yan]], [[https://openalex.org/A5000856811][Yongqing Cai]]
 :HOST: The Journal of Physical Chemistry Letters
 :END:
 
-[[https://openalex.org/A5068201603][Jie Huang]],[[https://openalex.org/A5058659834][Bowen Wang]],[[https://openalex.org/A5065648316][Hejin Yan]],[[https://openalex.org/A5000856811][Yongqing Cai]], The Journal of Physical Chemistry Letters. None(None)] 2024.
+[[https://openalex.org/A5068201603][Jie Huang]], [[https://openalex.org/A5058659834][Bowen Wang]], [[https://openalex.org/A5065648316][Hejin Yan]], [[https://openalex.org/A5000856811][Yongqing Cai]], The Journal of Physical Chemistry Letters. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c02807")][Get bibtex entry]] 
 
@@ -415,7 +415,7 @@ Methods for computational de novo design of inorganic molecules have paved the w
 
 OpenAlex: https://openalex.org/W4390691552
     
-[[https://openalex.org/A5068201603][Jie Huang]],[[https://openalex.org/A5058659834][Bowen Wang]],[[https://openalex.org/A5065648316][Hejin Yan]],[[https://openalex.org/A5000856811][Yongqing Cai]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c02807
+[[https://openalex.org/A5068201603][Jie Huang]], [[https://openalex.org/A5058659834][Bowen Wang]], [[https://openalex.org/A5065648316][Hejin Yan]], [[https://openalex.org/A5000856811][Yongqing Cai]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c02807
     
 Water is often viewed as detrimental to organic halide perovskite stability. However, evidence highlights its efficacy as a solvent during organic perovskite liquid synthesis. This paradox prompts an investigation into water's influence on perovskite nanoclusters. Employing first principle calculations and ab initio molecular dynamics simulations, surprisingly, we discover some subsurface layers of methylammonium lead iodide (MAPbI3) nanoclusters exhibit stronger relaxation than surface layers. Moreover, a strong quantum confinement effect enhances the band gap of MAPbI3 as the nanocluster size decreases. Notably, the water molecules above MAPbI3 nanoclusters induce rich localized defect states, generating low-lying shallow states above the valence band for the small amounts of surface water molecules and band-like deep states across the whole gap for large nanoclusters. This work provides insights into water's role in the electronic structure and structural evolution of perovskite nanoclusters, aiding the design of water-resistant layers to protect perovskite quantum dots from ambient humidity.    
 
@@ -425,11 +425,11 @@ Water is often viewed as detrimental to organic halide perovskite stability. How
 :PROPERTIES:
 :ID: https://openalex.org/W4390691982
 :DOI: https://doi.org/10.1038/s41467-024-44721-5
-:AUTHORS: [[https://openalex.org/A5052009653][Fengyi Shen]],[[https://openalex.org/A5040889248][Zhihao Zhang]],[[https://openalex.org/A5056053058][Zhe Wang]],[[https://openalex.org/A5041301033][Hao Ren]],[[https://openalex.org/A5009239986][Xinhu Liang]],[[https://openalex.org/A5090662024][Zengjian Cai]],[[https://openalex.org/A5077042841][Shitu Yang]],[[https://openalex.org/A5043523556][Guodong Sun]],[[https://openalex.org/A5002260375][Yanan Cao]],[[https://openalex.org/A5033874532][Xiaoxin Yang]],[[https://openalex.org/A5070461193][Mingzhen Hu]],[[https://openalex.org/A5051288817][Zhengping Hao]],[[https://openalex.org/A5066880665][Kebin Zhou]]
+:AUTHORS: [[https://openalex.org/A5052009653][Fengyi Shen]], [[https://openalex.org/A5040889248][Zhihao Zhang]], [[https://openalex.org/A5056053058][Zhe Wang]], [[https://openalex.org/A5041301033][Hao Ren]], [[https://openalex.org/A5009239986][Xinhu Liang]], [[https://openalex.org/A5090662024][Zengjian Cai]], [[https://openalex.org/A5077042841][Shitu Yang]], [[https://openalex.org/A5043523556][Guodong Sun]], [[https://openalex.org/A5002260375][Yanan Cao]], [[https://openalex.org/A5033874532][Xiaoxin Yang]], [[https://openalex.org/A5070461193][Mingzhen Hu]], [[https://openalex.org/A5051288817][Zhengping Hao]], [[https://openalex.org/A5066880665][Kebin Zhou]]
 :HOST: Nature Communications
 :END:
 
-[[https://openalex.org/A5052009653][Fengyi Shen]],[[https://openalex.org/A5040889248][Zhihao Zhang]],[[https://openalex.org/A5056053058][Zhe Wang]],[[https://openalex.org/A5041301033][Hao Ren]],[[https://openalex.org/A5009239986][Xinhu Liang]],[[https://openalex.org/A5090662024][Zengjian Cai]],[[https://openalex.org/A5077042841][Shitu Yang]],[[https://openalex.org/A5043523556][Guodong Sun]],[[https://openalex.org/A5002260375][Yanan Cao]],[[https://openalex.org/A5033874532][Xiaoxin Yang]],[[https://openalex.org/A5070461193][Mingzhen Hu]],[[https://openalex.org/A5051288817][Zhengping Hao]],[[https://openalex.org/A5066880665][Kebin Zhou]], Nature Communications. 15(1)] 2024.
+[[https://openalex.org/A5052009653][Fengyi Shen]], [[https://openalex.org/A5040889248][Zhihao Zhang]], [[https://openalex.org/A5056053058][Zhe Wang]], [[https://openalex.org/A5041301033][Hao Ren]], [[https://openalex.org/A5009239986][Xinhu Liang]], [[https://openalex.org/A5090662024][Zengjian Cai]], [[https://openalex.org/A5077042841][Shitu Yang]], [[https://openalex.org/A5043523556][Guodong Sun]], [[https://openalex.org/A5002260375][Yanan Cao]], [[https://openalex.org/A5033874532][Xiaoxin Yang]], [[https://openalex.org/A5070461193][Mingzhen Hu]], [[https://openalex.org/A5051288817][Zhengping Hao]], [[https://openalex.org/A5066880665][Kebin Zhou]], Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-44721-5")][Get bibtex entry]] 
 
@@ -439,7 +439,7 @@ Water is often viewed as detrimental to organic halide perovskite stability. How
 
 OpenAlex: https://openalex.org/W4390691982
     
-[[https://openalex.org/A5052009653][Fengyi Shen]],[[https://openalex.org/A5040889248][Zhihao Zhang]],[[https://openalex.org/A5056053058][Zhe Wang]],[[https://openalex.org/A5041301033][Hao Ren]],[[https://openalex.org/A5009239986][Xinhu Liang]],[[https://openalex.org/A5090662024][Zengjian Cai]],[[https://openalex.org/A5077042841][Shitu Yang]],[[https://openalex.org/A5043523556][Guodong Sun]],[[https://openalex.org/A5002260375][Yanan Cao]],[[https://openalex.org/A5033874532][Xiaoxin Yang]],[[https://openalex.org/A5070461193][Mingzhen Hu]],[[https://openalex.org/A5051288817][Zhengping Hao]],[[https://openalex.org/A5066880665][Kebin Zhou]], Nature Communications. https://doi.org/10.1038/s41467-024-44721-5
+[[https://openalex.org/A5052009653][Fengyi Shen]], [[https://openalex.org/A5040889248][Zhihao Zhang]], [[https://openalex.org/A5056053058][Zhe Wang]], [[https://openalex.org/A5041301033][Hao Ren]], [[https://openalex.org/A5009239986][Xinhu Liang]], [[https://openalex.org/A5090662024][Zengjian Cai]], [[https://openalex.org/A5077042841][Shitu Yang]], [[https://openalex.org/A5043523556][Guodong Sun]], [[https://openalex.org/A5002260375][Yanan Cao]], [[https://openalex.org/A5033874532][Xiaoxin Yang]], [[https://openalex.org/A5070461193][Mingzhen Hu]], [[https://openalex.org/A5051288817][Zhengping Hao]], [[https://openalex.org/A5066880665][Kebin Zhou]], Nature Communications. https://doi.org/10.1038/s41467-024-44721-5
     
 The state-of-the-art alkaline hydrogen evolution catalyst of united ruthenium single atoms and small ruthenium nanoparticles has sparked considerable research interest. However, it remains a serious problem that hydrogen evolution primarily proceeds on the less active ruthenium single atoms instead of the more efficient small ruthenium nanoparticles in the catalyst, hence largely falling short of its full activity potential. Here, we report that by combining highly oxophilic cerium single atoms and fully-exposed ruthenium nanoclusters on a nitrogen functionalized carbon support, the alkaline hydrogen evolution centers are facilely reversed to the more active ruthenium nanoclusters driven by the strong oxophilicity of cerium, which significantly improves the hydrogen evolution activity of the catalyst with its mass activity up to -10.1 A mg-1 at -0.05 V. This finding is expected to shed new light on developing more efficient alkaline hydrogen evolution catalyst by rational regulation of the active centers for hydrogen evolution.    
 
@@ -449,11 +449,11 @@ The state-of-the-art alkaline hydrogen evolution catalyst of united ruthenium si
 :PROPERTIES:
 :ID: https://openalex.org/W4390694969
 :DOI: https://doi.org/10.1002/cey2.484
-:AUTHORS: [[https://openalex.org/A5010788326][Guoyu Zhong]],[[https://openalex.org/A5011636200][Liuyong Zou]],[[https://openalex.org/A5080348844][Xiao Chi]],[[https://openalex.org/A5009519419][Zhen Meng]],[[https://openalex.org/A5056307475][Zehong Chen]],[[https://openalex.org/A5085645057][Tingzhen Li]],[[https://openalex.org/A5005855877][Yongfa Huang]],[[https://openalex.org/A5026849138][Xiaobo Fu]],[[https://openalex.org/A5048250776][Wenbo Liao]],[[https://openalex.org/A5069461476][Shaona Zheng]],[[https://openalex.org/A5080471087][Yongjun Xu]],[[https://openalex.org/A5083421031][Feng Peng]],[[https://openalex.org/A5031711983][Xinwen Peng]]
+:AUTHORS: [[https://openalex.org/A5010788326][Guoyu Zhong]], [[https://openalex.org/A5011636200][Liuyong Zou]], [[https://openalex.org/A5080348844][Xiao Chi]], [[https://openalex.org/A5009519419][Zhen Meng]], [[https://openalex.org/A5056307475][Zehong Chen]], [[https://openalex.org/A5085645057][Tingzhen Li]], [[https://openalex.org/A5005855877][Yongfa Huang]], [[https://openalex.org/A5026849138][Xiaobo Fu]], [[https://openalex.org/A5048250776][Wenbo Liao]], [[https://openalex.org/A5069461476][Shaona Zheng]], [[https://openalex.org/A5080471087][Yongjun Xu]], [[https://openalex.org/A5083421031][Feng Peng]], [[https://openalex.org/A5031711983][Xinwen Peng]]
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5010788326][Guoyu Zhong]],[[https://openalex.org/A5011636200][Liuyong Zou]],[[https://openalex.org/A5080348844][Xiao Chi]],[[https://openalex.org/A5009519419][Zhen Meng]],[[https://openalex.org/A5056307475][Zehong Chen]],[[https://openalex.org/A5085645057][Tingzhen Li]],[[https://openalex.org/A5005855877][Yongfa Huang]],[[https://openalex.org/A5026849138][Xiaobo Fu]],[[https://openalex.org/A5048250776][Wenbo Liao]],[[https://openalex.org/A5069461476][Shaona Zheng]],[[https://openalex.org/A5080471087][Yongjun Xu]],[[https://openalex.org/A5083421031][Feng Peng]],[[https://openalex.org/A5031711983][Xinwen Peng]], No host. None(None)] 2024.
+[[https://openalex.org/A5010788326][Guoyu Zhong]], [[https://openalex.org/A5011636200][Liuyong Zou]], [[https://openalex.org/A5080348844][Xiao Chi]], [[https://openalex.org/A5009519419][Zhen Meng]], [[https://openalex.org/A5056307475][Zehong Chen]], [[https://openalex.org/A5085645057][Tingzhen Li]], [[https://openalex.org/A5005855877][Yongfa Huang]], [[https://openalex.org/A5026849138][Xiaobo Fu]], [[https://openalex.org/A5048250776][Wenbo Liao]], [[https://openalex.org/A5069461476][Shaona Zheng]], [[https://openalex.org/A5080471087][Yongjun Xu]], [[https://openalex.org/A5083421031][Feng Peng]], [[https://openalex.org/A5031711983][Xinwen Peng]], No host. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cey2.484")][Get bibtex entry]] 
 
@@ -463,7 +463,7 @@ The state-of-the-art alkaline hydrogen evolution catalyst of united ruthenium si
 
 OpenAlex: https://openalex.org/W4390694969
     
-[[https://openalex.org/A5010788326][Guoyu Zhong]],[[https://openalex.org/A5011636200][Liuyong Zou]],[[https://openalex.org/A5080348844][Xiao Chi]],[[https://openalex.org/A5009519419][Zhen Meng]],[[https://openalex.org/A5056307475][Zehong Chen]],[[https://openalex.org/A5085645057][Tingzhen Li]],[[https://openalex.org/A5005855877][Yongfa Huang]],[[https://openalex.org/A5026849138][Xiaobo Fu]],[[https://openalex.org/A5048250776][Wenbo Liao]],[[https://openalex.org/A5069461476][Shaona Zheng]],[[https://openalex.org/A5080471087][Yongjun Xu]],[[https://openalex.org/A5083421031][Feng Peng]],[[https://openalex.org/A5031711983][Xinwen Peng]], No host. https://doi.org/10.1002/cey2.484
+[[https://openalex.org/A5010788326][Guoyu Zhong]], [[https://openalex.org/A5011636200][Liuyong Zou]], [[https://openalex.org/A5080348844][Xiao Chi]], [[https://openalex.org/A5009519419][Zhen Meng]], [[https://openalex.org/A5056307475][Zehong Chen]], [[https://openalex.org/A5085645057][Tingzhen Li]], [[https://openalex.org/A5005855877][Yongfa Huang]], [[https://openalex.org/A5026849138][Xiaobo Fu]], [[https://openalex.org/A5048250776][Wenbo Liao]], [[https://openalex.org/A5069461476][Shaona Zheng]], [[https://openalex.org/A5080471087][Yongjun Xu]], [[https://openalex.org/A5083421031][Feng Peng]], [[https://openalex.org/A5031711983][Xinwen Peng]], No host. https://doi.org/10.1002/cey2.484
     
 Abstract Metal‐organic frameworks recently have been burgeoning and used as precursors to obtain various metal–nitrogen–carbon catalysts for oxygen reduction reaction (ORR). Although rarely studied, Mn–N–C is a promising catalyst for ORR due to its weak Fenton reaction activity and strong graphitization catalysis. Here, we developed a facile strategy for anchoring the atomically dispersed nitrogen‐coordinated single Mn sites on carbon nanosheets (MnNCS) from an Mn‐hexamine coordination framework. The atomically dispersed Mn–N 4 sites were dispersed on ultrathin carbon nanosheets with a hierarchically porous structure. The optimized MnNCS displayed an excellent ORR performance in half‐cells (0.89 V vs. reversible hydrogen electrode (RHE) in base and 0.76 V vs. RHE in acid in half‐wave potential) and Zn–air batteries (233 mW cm −2 in peak power density), along with significantly enhanced stability. Density functional theory calculations further corroborated that the Mn–N 4 –C 12 site has favorable adsorption of *OH as the rate‐determining step. These findings demonstrate that the metal‐hexamine coordination framework can be used as a model system for the rational design of highly active atomic metal catalysts for energy applications.    
 
@@ -473,11 +473,11 @@ Abstract Metal‐organic frameworks recently have been burgeoning and used as pr
 :PROPERTIES:
 :ID: https://openalex.org/W4390696847
 :DOI: https://doi.org/10.1038/s41598-023-50978-5
-:AUTHORS: [[https://openalex.org/A5050808562][Paolo de Angelis]],[[https://openalex.org/A5056215072][Roberta Cappabianca]],[[https://openalex.org/A5051308540][Matteo Fasano]],[[https://openalex.org/A5035336795][Pietro Asinari]],[[https://openalex.org/A5071497805][Eliodoro Chiavazzo]]
+:AUTHORS: [[https://openalex.org/A5050808562][Paolo de Angelis]], [[https://openalex.org/A5056215072][Roberta Cappabianca]], [[https://openalex.org/A5051308540][Matteo Fasano]], [[https://openalex.org/A5035336795][Pietro Asinari]], [[https://openalex.org/A5071497805][Eliodoro Chiavazzo]]
 :HOST: Scientific Reports
 :END:
 
-[[https://openalex.org/A5050808562][Paolo de Angelis]],[[https://openalex.org/A5056215072][Roberta Cappabianca]],[[https://openalex.org/A5051308540][Matteo Fasano]],[[https://openalex.org/A5035336795][Pietro Asinari]],[[https://openalex.org/A5071497805][Eliodoro Chiavazzo]], Scientific Reports. 14(1)] 2024.
+[[https://openalex.org/A5050808562][Paolo de Angelis]], [[https://openalex.org/A5056215072][Roberta Cappabianca]], [[https://openalex.org/A5051308540][Matteo Fasano]], [[https://openalex.org/A5035336795][Pietro Asinari]], [[https://openalex.org/A5071497805][Eliodoro Chiavazzo]], Scientific Reports. 14(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41598-023-50978-5")][Get bibtex entry]] 
 
@@ -487,7 +487,7 @@ Abstract Metal‐organic frameworks recently have been burgeoning and used as pr
 
 OpenAlex: https://openalex.org/W4390696847
     
-[[https://openalex.org/A5050808562][Paolo de Angelis]],[[https://openalex.org/A5056215072][Roberta Cappabianca]],[[https://openalex.org/A5051308540][Matteo Fasano]],[[https://openalex.org/A5035336795][Pietro Asinari]],[[https://openalex.org/A5071497805][Eliodoro Chiavazzo]], Scientific Reports. https://doi.org/10.1038/s41598-023-50978-5
+[[https://openalex.org/A5050808562][Paolo de Angelis]], [[https://openalex.org/A5056215072][Roberta Cappabianca]], [[https://openalex.org/A5051308540][Matteo Fasano]], [[https://openalex.org/A5035336795][Pietro Asinari]], [[https://openalex.org/A5071497805][Eliodoro Chiavazzo]], Scientific Reports. https://doi.org/10.1038/s41598-023-50978-5
     
 Abstract Lithium-ion batteries (LIBs) have become an essential technology for the green economy transition, as they are widely used in portable electronics, electric vehicles, and renewable energy systems. The solid-electrolyte interphase (SEI) is a key component for the correct operation, performance, and safety of LIBs. The SEI arises from the initial thermal metastability of the anode-electrolyte interface, and the resulting electrolyte reduction products stabilize the interface by forming an electrochemical buffer window. This article aims to make a first—but important—step towards enhancing the parametrization of a widely-used reactive force field (ReaxFF) for accurate molecular dynamics (MD) simulations of SEI components in LIBs. To this end, we focus on Lithium Fluoride (LiF), an inorganic salt of great interest due to its beneficial properties in the passivation layer. The protocol relies heavily on various Python libraries designed to work with atomistic simulations allowing robust automation of all the reparameterization steps. The proposed set of configurations, and the resulting dataset, allow the new ReaxFF to recover the solid nature of the inorganic salt and improve the mass transport properties prediction from MD simulation. The optimized ReaxFF surpasses the previously available force field by accurately adjusting the diffusivity of lithium in the solid lattice, resulting in a two-order-of-magnitude improvement in its prediction at room temperature. However, our comprehensive investigation of the simulation shows the strong sensitivity of the ReaxFF to the training set, making its ability to interpolate the potential energy surface challenging. Consequently, the current formulation of ReaxFF can be effectively employed to model specific and well-defined phenomena by utilizing the proposed interactive reparameterization protocol to construct the dataset. Overall, this work represents a significant initial step towards refining ReaxFF for precise reactive MD simulations, shedding light on the challenges and limitations of ReaxFF force field parametrization. The demonstrated limitations emphasize the potential for developing more versatile and advanced force fields to upscale ab initio simulation through our interactive reparameterization protocol, enabling more accurate and comprehensive MD simulations in the future.    
 
@@ -497,11 +497,11 @@ Abstract Lithium-ion batteries (LIBs) have become an essential technology for th
 :PROPERTIES:
 :ID: https://openalex.org/W4390699021
 :DOI: https://doi.org/10.1038/s41467-023-44674-1
-:AUTHORS: [[https://openalex.org/A5071148884][Pengfei Yin]],[[https://openalex.org/A5059224981][Xiangfu Niu]],[[https://openalex.org/A5063780490][S.T. Li]],[[https://openalex.org/A5074339191][Kai Chen]],[[https://openalex.org/A5070538645][Xi Zhang]],[[https://openalex.org/A5043676611][Ming J. Zuo]],[[https://openalex.org/A5011667239][Liang Zhang]],[[https://openalex.org/A5026669428][Hai‐Wei Liang]]
+:AUTHORS: [[https://openalex.org/A5071148884][Pengfei Yin]], [[https://openalex.org/A5059224981][Xiangfu Niu]], [[https://openalex.org/A5063780490][S.T. Li]], [[https://openalex.org/A5074339191][Kai Chen]], [[https://openalex.org/A5070538645][Xi Zhang]], [[https://openalex.org/A5043676611][Ming J. Zuo]], [[https://openalex.org/A5011667239][Liang Zhang]], [[https://openalex.org/A5026669428][Hai‐Wei Liang]]
 :HOST: Nature Communications
 :END:
 
-[[https://openalex.org/A5071148884][Pengfei Yin]],[[https://openalex.org/A5059224981][Xiangfu Niu]],[[https://openalex.org/A5063780490][S.T. Li]],[[https://openalex.org/A5074339191][Kai Chen]],[[https://openalex.org/A5070538645][Xi Zhang]],[[https://openalex.org/A5043676611][Ming J. Zuo]],[[https://openalex.org/A5011667239][Liang Zhang]],[[https://openalex.org/A5026669428][Hai‐Wei Liang]], Nature Communications. 15(1)] 2024.
+[[https://openalex.org/A5071148884][Pengfei Yin]], [[https://openalex.org/A5059224981][Xiangfu Niu]], [[https://openalex.org/A5063780490][S.T. Li]], [[https://openalex.org/A5074339191][Kai Chen]], [[https://openalex.org/A5070538645][Xi Zhang]], [[https://openalex.org/A5043676611][Ming J. Zuo]], [[https://openalex.org/A5011667239][Liang Zhang]], [[https://openalex.org/A5026669428][Hai‐Wei Liang]], Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44674-1")][Get bibtex entry]] 
 
@@ -511,7 +511,7 @@ Abstract Lithium-ion batteries (LIBs) have become an essential technology for th
 
 OpenAlex: https://openalex.org/W4390699021
     
-[[https://openalex.org/A5071148884][Pengfei Yin]],[[https://openalex.org/A5059224981][Xiangfu Niu]],[[https://openalex.org/A5063780490][S.T. Li]],[[https://openalex.org/A5074339191][Kai Chen]],[[https://openalex.org/A5070538645][Xi Zhang]],[[https://openalex.org/A5043676611][Ming J. Zuo]],[[https://openalex.org/A5011667239][Liang Zhang]],[[https://openalex.org/A5026669428][Hai‐Wei Liang]], Nature Communications. https://doi.org/10.1038/s41467-023-44674-1
+[[https://openalex.org/A5071148884][Pengfei Yin]], [[https://openalex.org/A5059224981][Xiangfu Niu]], [[https://openalex.org/A5063780490][S.T. Li]], [[https://openalex.org/A5074339191][Kai Chen]], [[https://openalex.org/A5070538645][Xi Zhang]], [[https://openalex.org/A5043676611][Ming J. Zuo]], [[https://openalex.org/A5011667239][Liang Zhang]], [[https://openalex.org/A5026669428][Hai‐Wei Liang]], Nature Communications. https://doi.org/10.1038/s41467-023-44674-1
     
 Abstract Carbon supported PtCo intermetallic alloys are known to be one of the most promising candidates as low-platinum oxygen reduction reaction electrocatalysts for proton-exchange-membrane fuel cells. Nevertheless, the intrinsic trade-off between particle size and ordering degree of PtCo makes it challenging to simultaneously achieve a high specific activity and a large active surface area. Here, by machine-learning-accelerated screenings from the immense configuration space, we are able to statistically quantify the impact of chemical ordering on thermodynamic stability. We find that introducing of Cu/Ni into PtCo can provide additional stabilization energy by inducing Co-Cu/Ni disorder, thus facilitating the ordering process and achieveing an improved tradeoff between specific activity and active surface area. Guided by the theoretical prediction, the small sized and highly ordered ternary Pt 2 CoCu and Pt 2 CoNi catalysts are experimentally prepared, showing a large electrochemically active surface area of ~90 m 2 g Pt ‒1 and a high specific activity of ~3.5 mA cm ‒2 .    
 
@@ -521,11 +521,11 @@ Abstract Carbon supported PtCo intermetallic alloys are known to be one of the m
 :PROPERTIES:
 :ID: https://openalex.org/W4390699058
 :DOI: https://doi.org/10.1038/s41467-023-44652-7
-:AUTHORS: [[https://openalex.org/A5023582351][Jiajing Pei]],[[https://openalex.org/A5017689028][Huishan Shang]],[[https://openalex.org/A5004992808][Junjie Mao]],[[https://openalex.org/A5016201639][Zhe Chen]],[[https://openalex.org/A5087976551][Rui Sui]],[[https://openalex.org/A5037935397][Xuejiang Zhang]],[[https://openalex.org/A5031768657][Danni Zhou]],[[https://openalex.org/A5020098503][Yu Wang]],[[https://openalex.org/A5030908494][Fang Zhang]],[[https://openalex.org/A5068308955][Wei Zhu]],[[https://openalex.org/A5062351268][Tao Wang]],[[https://openalex.org/A5014698348][Wenxing Chen]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]]
+:AUTHORS: [[https://openalex.org/A5023582351][Jiajing Pei]], [[https://openalex.org/A5017689028][Huishan Shang]], [[https://openalex.org/A5004992808][Junjie Mao]], [[https://openalex.org/A5016201639][Zhe Chen]], [[https://openalex.org/A5087976551][Rui Sui]], [[https://openalex.org/A5037935397][Xuejiang Zhang]], [[https://openalex.org/A5031768657][Danni Zhou]], [[https://openalex.org/A5020098503][Yu Wang]], [[https://openalex.org/A5030908494][Fang Zhang]], [[https://openalex.org/A5068308955][Wei Zhu]], [[https://openalex.org/A5062351268][Tao Wang]], [[https://openalex.org/A5014698348][Wenxing Chen]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]]
 :HOST: Nature Communications
 :END:
 
-[[https://openalex.org/A5023582351][Jiajing Pei]],[[https://openalex.org/A5017689028][Huishan Shang]],[[https://openalex.org/A5004992808][Junjie Mao]],[[https://openalex.org/A5016201639][Zhe Chen]],[[https://openalex.org/A5087976551][Rui Sui]],[[https://openalex.org/A5037935397][Xuejiang Zhang]],[[https://openalex.org/A5031768657][Danni Zhou]],[[https://openalex.org/A5020098503][Yu Wang]],[[https://openalex.org/A5030908494][Fang Zhang]],[[https://openalex.org/A5068308955][Wei Zhu]],[[https://openalex.org/A5062351268][Tao Wang]],[[https://openalex.org/A5014698348][Wenxing Chen]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]], Nature Communications. 15(1)] 2024.
+[[https://openalex.org/A5023582351][Jiajing Pei]], [[https://openalex.org/A5017689028][Huishan Shang]], [[https://openalex.org/A5004992808][Junjie Mao]], [[https://openalex.org/A5016201639][Zhe Chen]], [[https://openalex.org/A5087976551][Rui Sui]], [[https://openalex.org/A5037935397][Xuejiang Zhang]], [[https://openalex.org/A5031768657][Danni Zhou]], [[https://openalex.org/A5020098503][Yu Wang]], [[https://openalex.org/A5030908494][Fang Zhang]], [[https://openalex.org/A5068308955][Wei Zhu]], [[https://openalex.org/A5062351268][Tao Wang]], [[https://openalex.org/A5014698348][Wenxing Chen]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], Nature Communications. 15(1)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-023-44652-7")][Get bibtex entry]] 
 
@@ -535,7 +535,7 @@ Abstract Carbon supported PtCo intermetallic alloys are known to be one of the m
 
 OpenAlex: https://openalex.org/W4390699058
     
-[[https://openalex.org/A5023582351][Jiajing Pei]],[[https://openalex.org/A5017689028][Huishan Shang]],[[https://openalex.org/A5004992808][Junjie Mao]],[[https://openalex.org/A5016201639][Zhe Chen]],[[https://openalex.org/A5087976551][Rui Sui]],[[https://openalex.org/A5037935397][Xuejiang Zhang]],[[https://openalex.org/A5031768657][Danni Zhou]],[[https://openalex.org/A5020098503][Yu Wang]],[[https://openalex.org/A5030908494][Fang Zhang]],[[https://openalex.org/A5068308955][Wei Zhu]],[[https://openalex.org/A5062351268][Tao Wang]],[[https://openalex.org/A5014698348][Wenxing Chen]],[[https://openalex.org/A5076411026][Zhongbin Zhuang]], Nature Communications. https://doi.org/10.1038/s41467-023-44652-7
+[[https://openalex.org/A5023582351][Jiajing Pei]], [[https://openalex.org/A5017689028][Huishan Shang]], [[https://openalex.org/A5004992808][Junjie Mao]], [[https://openalex.org/A5016201639][Zhe Chen]], [[https://openalex.org/A5087976551][Rui Sui]], [[https://openalex.org/A5037935397][Xuejiang Zhang]], [[https://openalex.org/A5031768657][Danni Zhou]], [[https://openalex.org/A5020098503][Yu Wang]], [[https://openalex.org/A5030908494][Fang Zhang]], [[https://openalex.org/A5068308955][Wei Zhu]], [[https://openalex.org/A5062351268][Tao Wang]], [[https://openalex.org/A5014698348][Wenxing Chen]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], Nature Communications. https://doi.org/10.1038/s41467-023-44652-7
     
 Abstract The performances of single-atom catalysts are governed by their local coordination environments. Here, a thermal replacement strategy is developed for the synthesis of single-atom catalysts with precisely controlled and adjustable local coordination environments. A series of Co-S x N 4−x ( x = 0, 1, 2, 3) single-atom catalysts are successfully synthesized by thermally replacing coordinated N with S at elevated temperature, and a volcano relationship between coordinations and catalytic performances toward electrochemical CO 2 reduction is observed. The Co-S 1 N 3 catalyst has the balanced COOH*and CO* bindings, and thus locates at the apex of the volcano with the highest performance toward electrochemical CO 2 reduction to CO, with the maximum CO Faradaic efficiency of 98 ± 1.8% and high turnover frequency of 4564 h −1 at an overpotential of 410 mV tested in H-cell with CO 2 -saturated 0.5 M KHCO 3 , surpassing most of the reported single-atom catalysts. This work provides a rational approach to control the local coordination environment of the single-atom catalysts, which is important for further fine-tuning the catalytic performance.    
 
@@ -545,11 +545,11 @@ Abstract The performances of single-atom catalysts are governed by their local c
 :PROPERTIES:
 :ID: https://openalex.org/W4390701504
 :DOI: https://doi.org/10.1021/acscatal.3c02398
-:AUTHORS: [[https://openalex.org/A5091955075][Jiayi Wang]],[[https://openalex.org/A5062678004][Haoxiang Xu]],[[https://openalex.org/A5062636173][Jian Wu]],[[https://openalex.org/A5025730223][Fengyu Zhang]],[[https://openalex.org/A5061184494][Chi‐Ming Che]],[[https://openalex.org/A5000128804][Jing Zhu]],[[https://openalex.org/A5031411023][Junting Feng]],[[https://openalex.org/A5006520119][Daojian Cheng]]
+:AUTHORS: [[https://openalex.org/A5091955075][Jiayi Wang]], [[https://openalex.org/A5062678004][Haoxiang Xu]], [[https://openalex.org/A5062636173][Jian Wu]], [[https://openalex.org/A5025730223][Fengyu Zhang]], [[https://openalex.org/A5061184494][Chi‐Ming Che]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5031411023][Junting Feng]], [[https://openalex.org/A5006520119][Daojian Cheng]]
 :HOST: ACS Catalysis
 :END:
 
-[[https://openalex.org/A5091955075][Jiayi Wang]],[[https://openalex.org/A5062678004][Haoxiang Xu]],[[https://openalex.org/A5062636173][Jian Wu]],[[https://openalex.org/A5025730223][Fengyu Zhang]],[[https://openalex.org/A5061184494][Chi‐Ming Che]],[[https://openalex.org/A5000128804][Jing Zhu]],[[https://openalex.org/A5031411023][Junting Feng]],[[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. None(None)] 2024.
+[[https://openalex.org/A5091955075][Jiayi Wang]], [[https://openalex.org/A5062678004][Haoxiang Xu]], [[https://openalex.org/A5062636173][Jian Wu]], [[https://openalex.org/A5025730223][Fengyu Zhang]], [[https://openalex.org/A5061184494][Chi‐Ming Che]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5031411023][Junting Feng]], [[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c02398")][Get bibtex entry]] 
 
@@ -559,7 +559,7 @@ Abstract The performances of single-atom catalysts are governed by their local c
 
 OpenAlex: https://openalex.org/W4390701504
     
-[[https://openalex.org/A5091955075][Jiayi Wang]],[[https://openalex.org/A5062678004][Haoxiang Xu]],[[https://openalex.org/A5062636173][Jian Wu]],[[https://openalex.org/A5025730223][Fengyu Zhang]],[[https://openalex.org/A5061184494][Chi‐Ming Che]],[[https://openalex.org/A5000128804][Jing Zhu]],[[https://openalex.org/A5031411023][Junting Feng]],[[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c02398
+[[https://openalex.org/A5091955075][Jiayi Wang]], [[https://openalex.org/A5062678004][Haoxiang Xu]], [[https://openalex.org/A5062636173][Jian Wu]], [[https://openalex.org/A5025730223][Fengyu Zhang]], [[https://openalex.org/A5061184494][Chi‐Ming Che]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5031411023][Junting Feng]], [[https://openalex.org/A5006520119][Daojian Cheng]], ACS Catalysis. https://doi.org/10.1021/acscatal.3c02398
     
 Although alloying is a common approach to developing catalysts for alkyne selective hydrogenation, the geometric and electronic effects of active sites on the kinetics of alkyne selective hydrogenation are still ambiguous, hindering rational design of alloy catalysts. Herein, we construct structural descriptors to categorize and reorganize the roles of electronic and geometric factors in the kinetics of acetylene semihydrogenation. The prediction model based on our proposed structural descriptors successfully elucidates the activity and selectivity trends among Pd-based alloys and can also be extended to rationalize the kinetics trend among single-atom alloys and Ni-based alloys for semihydrogenation of acetylene and even other alkynes, in good agreement with available experimental references. Aided by thermodynamic stability analysis and structural descriptors, 489 Pd-based bimetallic alloys via a high-throughput screening protocol were evaluated, and finally, Pd1Nb3 and Pd1Hf3 were identified with a high yield of ethylene and inexpensive cost and validated by our experimental studies.    
 
@@ -569,11 +569,11 @@ Although alloying is a common approach to developing catalysts for alkyne select
 :PROPERTIES:
 :ID: https://openalex.org/W4390701643
 :DOI: https://doi.org/10.1021/jacs.3c10610
-:AUTHORS: [[https://openalex.org/A5093671475][Esperanza Sedano Varo]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]],[[https://openalex.org/A5046477219][Joerg R. Jinschek]],[[https://openalex.org/A5064393646][Stig Helveg]],[[https://openalex.org/A5090008029][Ib Chorkendorff]],[[https://openalex.org/A5027682734][Christian Danvad Damsgaard]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]]
+:AUTHORS: [[https://openalex.org/A5093671475][Esperanza Sedano Varo]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]], [[https://openalex.org/A5046477219][Joerg R. Jinschek]], [[https://openalex.org/A5064393646][Stig Helveg]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5027682734][Christian Danvad Damsgaard]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]]
 :HOST: Journal of the American Chemical Society
 :END:
 
-[[https://openalex.org/A5093671475][Esperanza Sedano Varo]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]],[[https://openalex.org/A5046477219][Joerg R. Jinschek]],[[https://openalex.org/A5064393646][Stig Helveg]],[[https://openalex.org/A5090008029][Ib Chorkendorff]],[[https://openalex.org/A5027682734][Christian Danvad Damsgaard]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]], Journal of the American Chemical Society. None(None)] 2024.
+[[https://openalex.org/A5093671475][Esperanza Sedano Varo]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]], [[https://openalex.org/A5046477219][Joerg R. Jinschek]], [[https://openalex.org/A5064393646][Stig Helveg]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5027682734][Christian Danvad Damsgaard]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], Journal of the American Chemical Society. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.3c10610")][Get bibtex entry]] 
 
@@ -583,7 +583,7 @@ Although alloying is a common approach to developing catalysts for alkyne select
 
 OpenAlex: https://openalex.org/W4390701643
     
-[[https://openalex.org/A5093671475][Esperanza Sedano Varo]],[[https://openalex.org/A5060201797][Rikke Plougmann]],[[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]],[[https://openalex.org/A5046477219][Joerg R. Jinschek]],[[https://openalex.org/A5064393646][Stig Helveg]],[[https://openalex.org/A5090008029][Ib Chorkendorff]],[[https://openalex.org/A5027682734][Christian Danvad Damsgaard]],[[https://openalex.org/A5047292046][Jakob Kibsgaard]], Journal of the American Chemical Society. https://doi.org/10.1021/jacs.3c10610
+[[https://openalex.org/A5093671475][Esperanza Sedano Varo]], [[https://openalex.org/A5060201797][Rikke Plougmann]], [[https://openalex.org/A5093671476][Joakim Kryger-Baggesen]], [[https://openalex.org/A5046477219][Joerg R. Jinschek]], [[https://openalex.org/A5064393646][Stig Helveg]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5027682734][Christian Danvad Damsgaard]], [[https://openalex.org/A5047292046][Jakob Kibsgaard]], Journal of the American Chemical Society. https://doi.org/10.1021/jacs.3c10610
     
 Understanding the size-dependent behavior of nanoparticles is crucial for optimizing catalytic performance. We investigate the differences in selectivity of size-selected gold nanoparticles for CO2 electroreduction with sizes ranging from 1.5 to 6.5 nm. Our findings reveal an optimal size of approximately 3 nm that maximizes selectivity toward CO, exhibiting up to 60% Faradaic efficiency at low potentials. High-resolution transmission electron microscopy reveals different shapes for the particles and suggests that multiply twinned nanoparticles are favorable for CO2 reduction to CO. Our analysis shows that twin boundaries pin 8-fold coordinated surface sites and in turn suggests that a variation of size and shape to optimize the abundance of 8-fold coordinated sites is a viable path for optimizing the CO2 electrocatalytic reduction to CO. This work contributes to the advancement of nanocatalyst design for achieving tunable selectivity for CO2 conversion into valuable products.    
 
@@ -593,11 +593,11 @@ Understanding the size-dependent behavior of nanoparticles is crucial for optimi
 :PROPERTIES:
 :ID: https://openalex.org/W4390701865
 :DOI: https://doi.org/10.2139/ssrn.4690003
-:AUTHORS: [[https://openalex.org/A5083886424][Chanseok Kim]],[[https://openalex.org/A5013510462][Mina Yoon]],[[https://openalex.org/A5048925751][Jun Hee Lee]]
+:AUTHORS: [[https://openalex.org/A5083886424][Chanseok Kim]], [[https://openalex.org/A5013510462][Mina Yoon]], [[https://openalex.org/A5048925751][Jun Hee Lee]]
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5083886424][Chanseok Kim]],[[https://openalex.org/A5013510462][Mina Yoon]],[[https://openalex.org/A5048925751][Jun Hee Lee]], No host. None(None)] 2024.
+[[https://openalex.org/A5083886424][Chanseok Kim]], [[https://openalex.org/A5013510462][Mina Yoon]], [[https://openalex.org/A5048925751][Jun Hee Lee]], No host. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690003")][Get bibtex entry]] 
 
@@ -607,7 +607,7 @@ Understanding the size-dependent behavior of nanoparticles is crucial for optimi
 
 OpenAlex: https://openalex.org/W4390701865
     
-[[https://openalex.org/A5083886424][Chanseok Kim]],[[https://openalex.org/A5013510462][Mina Yoon]],[[https://openalex.org/A5048925751][Jun Hee Lee]], No host. https://doi.org/10.2139/ssrn.4690003
+[[https://openalex.org/A5083886424][Chanseok Kim]], [[https://openalex.org/A5013510462][Mina Yoon]], [[https://openalex.org/A5048925751][Jun Hee Lee]], No host. https://doi.org/10.2139/ssrn.4690003
     
 This study focuses on exploring alternative catalysts for the oxygen evolution reaction (OER) in renewable fuel production, emphasizing the potential of multi-metal oxides derived from Earth-abundant metals and perovskites. The research integrates traditional experiments with machine learning and theoretical investigations, utilizing descriptors like oxygen p-band center (Op) and metal d-band center (Md). Through high-throughput calculations and crystal graph convolutional neural networks (CGCNN), the study screens a large compositional space of perovskites and predicts Op/Md for 149,952 perovskites, highlighting elemental ratios around Op/Md=0.48 as promising for OER active materials. Notably, an analysis of the elemental ratios around Op/Md=0.48 revealed higher proportions of Ca, Sr, and Ba on the A-site, and Mo, Ni, and Fe on the B-site. This descriptor-based machine learning approach demonstrates its power for predicting promising perovskite OER candidates.    
 
@@ -617,11 +617,11 @@ This study focuses on exploring alternative catalysts for the oxygen evolution r
 :PROPERTIES:
 :ID: https://openalex.org/W4390703549
 :DOI: https://doi.org/10.1021/acs.jcim.3c00594
-:AUTHORS: [[https://openalex.org/A5010248417][Jawad Chowdhury]],[[https://openalex.org/A5047464044][Charles Fricke]],[[https://openalex.org/A5092779409][Olajide H. Bamidele]],[[https://openalex.org/A5047635209][Mubarak Bello]],[[https://openalex.org/A5029181893][Wen‐Bin Yang]],[[https://openalex.org/A5063674208][Andreas Heyden]],[[https://openalex.org/A5012528456][Gabriel Terejanu]]
+:AUTHORS: [[https://openalex.org/A5010248417][Jawad Chowdhury]], [[https://openalex.org/A5047464044][Charles Fricke]], [[https://openalex.org/A5092779409][Olajide H. Bamidele]], [[https://openalex.org/A5047635209][Mubarak Bello]], [[https://openalex.org/A5029181893][Wen‐Bin Yang]], [[https://openalex.org/A5063674208][Andreas Heyden]], [[https://openalex.org/A5012528456][Gabriel Terejanu]]
 :HOST: Journal of Chemical Information and Modeling
 :END:
 
-[[https://openalex.org/A5010248417][Jawad Chowdhury]],[[https://openalex.org/A5047464044][Charles Fricke]],[[https://openalex.org/A5092779409][Olajide H. Bamidele]],[[https://openalex.org/A5047635209][Mubarak Bello]],[[https://openalex.org/A5029181893][Wen‐Bin Yang]],[[https://openalex.org/A5063674208][Andreas Heyden]],[[https://openalex.org/A5012528456][Gabriel Terejanu]], Journal of Chemical Information and Modeling. None(None)] 2024.
+[[https://openalex.org/A5010248417][Jawad Chowdhury]], [[https://openalex.org/A5047464044][Charles Fricke]], [[https://openalex.org/A5092779409][Olajide H. Bamidele]], [[https://openalex.org/A5047635209][Mubarak Bello]], [[https://openalex.org/A5029181893][Wen‐Bin Yang]], [[https://openalex.org/A5063674208][Andreas Heyden]], [[https://openalex.org/A5012528456][Gabriel Terejanu]], Journal of Chemical Information and Modeling. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jcim.3c00594")][Get bibtex entry]] 
 
@@ -631,7 +631,7 @@ This study focuses on exploring alternative catalysts for the oxygen evolution r
 
 OpenAlex: https://openalex.org/W4390703549
     
-[[https://openalex.org/A5010248417][Jawad Chowdhury]],[[https://openalex.org/A5047464044][Charles Fricke]],[[https://openalex.org/A5092779409][Olajide H. Bamidele]],[[https://openalex.org/A5047635209][Mubarak Bello]],[[https://openalex.org/A5029181893][Wen‐Bin Yang]],[[https://openalex.org/A5063674208][Andreas Heyden]],[[https://openalex.org/A5012528456][Gabriel Terejanu]], Journal of Chemical Information and Modeling. https://doi.org/10.1021/acs.jcim.3c00594
+[[https://openalex.org/A5010248417][Jawad Chowdhury]], [[https://openalex.org/A5047464044][Charles Fricke]], [[https://openalex.org/A5092779409][Olajide H. Bamidele]], [[https://openalex.org/A5047635209][Mubarak Bello]], [[https://openalex.org/A5029181893][Wen‐Bin Yang]], [[https://openalex.org/A5063674208][Andreas Heyden]], [[https://openalex.org/A5012528456][Gabriel Terejanu]], Journal of Chemical Information and Modeling. https://doi.org/10.1021/acs.jcim.3c00594
     
 Catalyst screening is a critical step in the discovery and development of heterogeneous catalysts, which are vital for a wide range of chemical processes. In recent years, computational catalyst screening, primarily through density functional theory (DFT), has gained significant attention as a method for identifying promising catalysts. However, the computation of adsorption energies for all likely chemical intermediates present in complex surface chemistries is computationally intensive and costly due to the expensive nature of these calculations and the intrinsic idiosyncrasies of the methods or data sets used. This study introduces a novel machine learning (ML) method to learn adsorption energies from multiple DFT functionals by using invariant molecular representations (IMRs). To do this, we first extract molecular fingerprints for the reaction intermediates and later use a Siamese-neural-network-based training strategy to learn invariant molecular representations or the IMR across all available functionals. Our Siamese network-based representations demonstrate superior performance in predicting adsorption energies compared with other molecular representations. Notably, when considering mean absolute values of adsorption energies as 0.43 eV (PBE-D3), 0.46 eV (BEEF-vdW), 0.81 eV (RPBE), and 0.37 eV (scan+rVV10), our IMR method has achieved the lowest mean absolute errors (MAEs) of 0.18 0.10, 0.16, and 0.18 eV, respectively. These results emphasize the superior predictive capacity of our Siamese network-based representations. The empirical findings in this study illuminate the efficacy, robustness, and dependability of our proposed ML paradigm in predicting adsorption energies, specifically for propane dehydrogenation on a platinum catalyst surface.    
 
@@ -641,11 +641,11 @@ Catalyst screening is a critical step in the discovery and development of hetero
 :PROPERTIES:
 :ID: https://openalex.org/W4390840023
 :DOI: https://doi.org/10.1007/s12274-024-6411-1
-:AUTHORS: [[https://openalex.org/A5021363217][Ning Kang]],[[https://openalex.org/A5010168002][Lingwen Liao]],[[https://openalex.org/A5079974007][Xue Zhang]],[[https://openalex.org/A5067911307][Zhen He]],[[https://openalex.org/A5087490597][Bing Yu]],[[https://openalex.org/A5041575984][Jiahong Wang]],[[https://openalex.org/A5029146931][Yongquan Qu]],[[https://openalex.org/A5082656873][Paul K. Chu]],[[https://openalex.org/A5034165453][Seeram Ramakrishna]],[[https://openalex.org/A5021886180][Xue‐Feng Yu]],[[https://openalex.org/A5006822602][Xin Wang]],[[https://openalex.org/A5087547019][Licheng Bai]]
+:AUTHORS: [[https://openalex.org/A5021363217][Ning Kang]], [[https://openalex.org/A5010168002][Lingwen Liao]], [[https://openalex.org/A5079974007][Xue Zhang]], [[https://openalex.org/A5067911307][Zhen He]], [[https://openalex.org/A5087490597][Bing Yu]], [[https://openalex.org/A5041575984][Jiahong Wang]], [[https://openalex.org/A5029146931][Yongquan Qu]], [[https://openalex.org/A5082656873][Paul K. Chu]], [[https://openalex.org/A5034165453][Seeram Ramakrishna]], [[https://openalex.org/A5021886180][Xue‐Feng Yu]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5087547019][Licheng Bai]]
 :HOST: Nano Research
 :END:
 
-[[https://openalex.org/A5021363217][Ning Kang]],[[https://openalex.org/A5010168002][Lingwen Liao]],[[https://openalex.org/A5079974007][Xue Zhang]],[[https://openalex.org/A5067911307][Zhen He]],[[https://openalex.org/A5087490597][Bing Yu]],[[https://openalex.org/A5041575984][Jiahong Wang]],[[https://openalex.org/A5029146931][Yongquan Qu]],[[https://openalex.org/A5082656873][Paul K. Chu]],[[https://openalex.org/A5034165453][Seeram Ramakrishna]],[[https://openalex.org/A5021886180][Xue‐Feng Yu]],[[https://openalex.org/A5006822602][Xin Wang]],[[https://openalex.org/A5087547019][Licheng Bai]], Nano Research. None(None)] 2024.
+[[https://openalex.org/A5021363217][Ning Kang]], [[https://openalex.org/A5010168002][Lingwen Liao]], [[https://openalex.org/A5079974007][Xue Zhang]], [[https://openalex.org/A5067911307][Zhen He]], [[https://openalex.org/A5087490597][Bing Yu]], [[https://openalex.org/A5041575984][Jiahong Wang]], [[https://openalex.org/A5029146931][Yongquan Qu]], [[https://openalex.org/A5082656873][Paul K. Chu]], [[https://openalex.org/A5034165453][Seeram Ramakrishna]], [[https://openalex.org/A5021886180][Xue‐Feng Yu]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5087547019][Licheng Bai]], Nano Research. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s12274-024-6411-1")][Get bibtex entry]] 
 
@@ -655,7 +655,7 @@ Catalyst screening is a critical step in the discovery and development of hetero
 
 OpenAlex: https://openalex.org/W4390840023
     
-[[https://openalex.org/A5021363217][Ning Kang]],[[https://openalex.org/A5010168002][Lingwen Liao]],[[https://openalex.org/A5079974007][Xue Zhang]],[[https://openalex.org/A5067911307][Zhen He]],[[https://openalex.org/A5087490597][Bing Yu]],[[https://openalex.org/A5041575984][Jiahong Wang]],[[https://openalex.org/A5029146931][Yongquan Qu]],[[https://openalex.org/A5082656873][Paul K. Chu]],[[https://openalex.org/A5034165453][Seeram Ramakrishna]],[[https://openalex.org/A5021886180][Xue‐Feng Yu]],[[https://openalex.org/A5006822602][Xin Wang]],[[https://openalex.org/A5087547019][Licheng Bai]], Nano Research. https://doi.org/10.1007/s12274-024-6411-1
+[[https://openalex.org/A5021363217][Ning Kang]], [[https://openalex.org/A5010168002][Lingwen Liao]], [[https://openalex.org/A5079974007][Xue Zhang]], [[https://openalex.org/A5067911307][Zhen He]], [[https://openalex.org/A5087490597][Bing Yu]], [[https://openalex.org/A5041575984][Jiahong Wang]], [[https://openalex.org/A5029146931][Yongquan Qu]], [[https://openalex.org/A5082656873][Paul K. Chu]], [[https://openalex.org/A5034165453][Seeram Ramakrishna]], [[https://openalex.org/A5021886180][Xue‐Feng Yu]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5087547019][Licheng Bai]], Nano Research. https://doi.org/10.1007/s12274-024-6411-1
     
 No abstract    
 
@@ -665,11 +665,11 @@ No abstract
 :PROPERTIES:
 :ID: https://openalex.org/W4390948931
 :DOI: https://doi.org/10.1016/j.applthermaleng.2024.122481
-:AUTHORS: [[https://openalex.org/A5066670998][Zicheng Qiu]],[[https://openalex.org/A5083869508][Yuqi Wang]],[[https://openalex.org/A5075496043][Jinxing Li]],[[https://openalex.org/A5014071718][Yonghui Xie]],[[https://openalex.org/A5030611214][Di Zhang]]
+:AUTHORS: [[https://openalex.org/A5066670998][Zicheng Qiu]], [[https://openalex.org/A5083869508][Yuqi Wang]], [[https://openalex.org/A5075496043][Jinxing Li]], [[https://openalex.org/A5014071718][Yonghui Xie]], [[https://openalex.org/A5030611214][Di Zhang]]
 :HOST: Applied Thermal Engineering
 :END:
 
-[[https://openalex.org/A5066670998][Zicheng Qiu]],[[https://openalex.org/A5083869508][Yuqi Wang]],[[https://openalex.org/A5075496043][Jinxing Li]],[[https://openalex.org/A5014071718][Yonghui Xie]],[[https://openalex.org/A5030611214][Di Zhang]], Applied Thermal Engineering. None(None)] 2024.
+[[https://openalex.org/A5066670998][Zicheng Qiu]], [[https://openalex.org/A5083869508][Yuqi Wang]], [[https://openalex.org/A5075496043][Jinxing Li]], [[https://openalex.org/A5014071718][Yonghui Xie]], [[https://openalex.org/A5030611214][Di Zhang]], Applied Thermal Engineering. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.applthermaleng.2024.122481")][Get bibtex entry]] 
 
@@ -679,7 +679,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4390948931
     
-[[https://openalex.org/A5066670998][Zicheng Qiu]],[[https://openalex.org/A5083869508][Yuqi Wang]],[[https://openalex.org/A5075496043][Jinxing Li]],[[https://openalex.org/A5014071718][Yonghui Xie]],[[https://openalex.org/A5030611214][Di Zhang]], Applied Thermal Engineering. https://doi.org/10.1016/j.applthermaleng.2024.122481
+[[https://openalex.org/A5066670998][Zicheng Qiu]], [[https://openalex.org/A5083869508][Yuqi Wang]], [[https://openalex.org/A5075496043][Jinxing Li]], [[https://openalex.org/A5014071718][Yonghui Xie]], [[https://openalex.org/A5030611214][Di Zhang]], Applied Thermal Engineering. https://doi.org/10.1016/j.applthermaleng.2024.122481
     
 Rapid and accurate performance acquisition of high-temperature gas turbine blades is fundamental to energy system design, analysis, and evaluation. Data-driven surrogate models are a popular alternative to complex and expensive numerical methods, but they require numerous labeled data and are often inaccurate when influenced by multi-source random factors. In this paper, a data-driven framework is proposed based on neural networks and active learning. Gas turbine blade performance with multi-source random factors can be quickly and accurately predicted. Two active learning-based sampling strategies, the Bayesian Sampling strategy (BS) and the Combined Sampling strategy (CS), are proposed to improve the efficiency of dataset building. The established prediction model is called active learning-based neural network (ALNN), which significantly improves the prediction accuracy with small samples. Compared with the artificial neural network using traditional Latin hypercube sampling, the prediction accuracy for the maximum stress of the blade is improved by 31.9%, and the prediction accuracy for the maximum deformation is improved by 47.6%. In addition, based on the ALNN, the low cycle fatigue probabilistic life of the gas turbine blade with multi-source random factors is evaluated. When the material and processing parameters and operating condition parameters are varied randomly, the minimum value of the low cycle fatigue life is 7000 cycles.    
 
@@ -689,11 +689,11 @@ Rapid and accurate performance acquisition of high-temperature gas turbine blade
 :PROPERTIES:
 :ID: https://openalex.org/W4390619178
 :DOI: https://doi.org/10.1016/j.eng.2023.07.021
-:AUTHORS: [[https://openalex.org/A5075448214][Xinyan Li]],[[https://openalex.org/A5062965071][Hong‐Jie Peng]]
+:AUTHORS: [[https://openalex.org/A5075448214][Xinyan Li]], [[https://openalex.org/A5062965071][Hong‐Jie Peng]]
 :HOST: Engineering
 :END:
 
-[[https://openalex.org/A5075448214][Xinyan Li]],[[https://openalex.org/A5062965071][Hong‐Jie Peng]], Engineering. None(None)] 2024.
+[[https://openalex.org/A5075448214][Xinyan Li]], [[https://openalex.org/A5062965071][Hong‐Jie Peng]], Engineering. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.eng.2023.07.021")][Get bibtex entry]] 
 
@@ -703,7 +703,7 @@ Rapid and accurate performance acquisition of high-temperature gas turbine blade
 
 OpenAlex: https://openalex.org/W4390619178
     
-[[https://openalex.org/A5075448214][Xinyan Li]],[[https://openalex.org/A5062965071][Hong‐Jie Peng]], Engineering. https://doi.org/10.1016/j.eng.2023.07.021
+[[https://openalex.org/A5075448214][Xinyan Li]], [[https://openalex.org/A5062965071][Hong‐Jie Peng]], Engineering. https://doi.org/10.1016/j.eng.2023.07.021
     
 Heterogeneous catalysis remains at the core of various bulk chemical manufacturing and energy conversion processes, and its revolution necessitates the hunt for new materials with ideal catalytic activities and economic feasibility. Computational high-throughput screening presents a viable solution to this challenge, as machine learning (ML) has demonstrated its great potential in accelerating such processes by providing satisfactory estimations of surface reactivity with relatively low-cost information. This review focuses on recent progress in applying ML in adsorption energy prediction, which predominantly quantifies the catalytic potential of a solid catalyst. ML models that leverage inputs from different categories and exhibit various levels of complexity are classified and discussed. At the end of the review, an outlook on the current challenges and future opportunities of ML-assisted catalyst screening is supplied. We believe that this review summarizes major achievements in accelerating catalyst discovery through ML and can inspire researchers to further devise novel strategies to accelerate materials design and, ultimately, reshape the chemical industry and energy landscape.    
 
@@ -713,11 +713,11 @@ Heterogeneous catalysis remains at the core of various bulk chemical manufacturi
 :PROPERTIES:
 :ID: https://openalex.org/W4390939574
 :DOI: https://doi.org/10.1021/acsami.3c11934
-:AUTHORS: [[https://openalex.org/A5056335839][Catherine Zhou]],[[https://openalex.org/A5006964403][Charles L. Evans]],[[https://openalex.org/A5018132118][Elizabeth C. Dickey]],[[https://openalex.org/A5029524832][Gregory S. Rohrer]],[[https://openalex.org/A5011571372][Paul A. Salvador]]
+:AUTHORS: [[https://openalex.org/A5056335839][Catherine Zhou]], [[https://openalex.org/A5006964403][Charles L. Evans]], [[https://openalex.org/A5018132118][Elizabeth C. Dickey]], [[https://openalex.org/A5029524832][Gregory S. Rohrer]], [[https://openalex.org/A5011571372][Paul A. Salvador]]
 :HOST: No host
 :END:
 
-[[https://openalex.org/A5056335839][Catherine Zhou]],[[https://openalex.org/A5006964403][Charles L. Evans]],[[https://openalex.org/A5018132118][Elizabeth C. Dickey]],[[https://openalex.org/A5029524832][Gregory S. Rohrer]],[[https://openalex.org/A5011571372][Paul A. Salvador]], No host. None(None)] 2024.
+[[https://openalex.org/A5056335839][Catherine Zhou]], [[https://openalex.org/A5006964403][Charles L. Evans]], [[https://openalex.org/A5018132118][Elizabeth C. Dickey]], [[https://openalex.org/A5029524832][Gregory S. Rohrer]], [[https://openalex.org/A5011571372][Paul A. Salvador]], No host. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.3c11934")][Get bibtex entry]] 
 
@@ -727,7 +727,7 @@ Heterogeneous catalysis remains at the core of various bulk chemical manufacturi
 
 OpenAlex: https://openalex.org/W4390939574
     
-[[https://openalex.org/A5056335839][Catherine Zhou]],[[https://openalex.org/A5006964403][Charles L. Evans]],[[https://openalex.org/A5018132118][Elizabeth C. Dickey]],[[https://openalex.org/A5029524832][Gregory S. Rohrer]],[[https://openalex.org/A5011571372][Paul A. Salvador]], No host. https://doi.org/10.1021/acsami.3c11934
+[[https://openalex.org/A5056335839][Catherine Zhou]], [[https://openalex.org/A5006964403][Charles L. Evans]], [[https://openalex.org/A5018132118][Elizabeth C. Dickey]], [[https://openalex.org/A5029524832][Gregory S. Rohrer]], [[https://openalex.org/A5011571372][Paul A. Salvador]], No host. https://doi.org/10.1021/acsami.3c11934
     
 Ba-rich compositions in the BaxSr1-xMnO3 (BSMO) cubic perovskite (3C) system are magnetic ferroelectrics and are of interest for their strong magnetoelectric coupling. Beyond x = 0.5, they only form in hexagonal polymorphs. Here, the 3C phase boundary is pushed to Ba0.6Sr0.4MnO3 for the thin films. Using regular pulsed laser deposition (rPLD), 3C Ba0.6Sr0.4MnO3 could be epitaxially stabilized on DyScO3 (101)o substrates by using a 0.1% O2/99.9% N2 gas mixture. However, the 3C phase was mixed with the 4H polymorph for films 24 nm thick and above, and the films were relatively rough. To improve flatness and phase purity, changes in growth kinetics were investigated and interval PLD (iPLD) was especially effective. In iPLD, deposition is interrupted after completion of approximately one monolayer, and the deposit is annealed for a specific period of time before repeating. Both film flatness and, more importantly, the volume of the 3C polymorph improved with iPLD, resulting in 40 nm single-phase films. The results imply that iPLD improves the persistent nucleation of highly metastable phases and offers a new approach to epitaxial stabilization of novel materials, including more Ba-rich BSMO compositions in the 3C structure.    
 
@@ -737,11 +737,11 @@ Ba-rich compositions in the BaxSr1-xMnO3 (BSMO) cubic perovskite (3C) system are
 :PROPERTIES:
 :ID: https://openalex.org/W4390630271
 :DOI: https://doi.org/10.1016/j.jeurceramsoc.2024.01.007
-:AUTHORS: [[https://openalex.org/A5053232126][Jin-Yu Zhang]],[[https://openalex.org/A5092720602][Gaël Huynh]],[[https://openalex.org/A5004503876][Fu‐Zhi Dai]],[[https://openalex.org/A5057351636][Tristan Albaret]],[[https://openalex.org/A5018800556][Shi-Hao Zhang]],[[https://openalex.org/A5039073384][Shigenobu Ogata]],[[https://openalex.org/A5034155486][David Rodney]]
+:AUTHORS: [[https://openalex.org/A5053232126][Jin-Yu Zhang]], [[https://openalex.org/A5092720602][Gaël Huynh]], [[https://openalex.org/A5004503876][Fu‐Zhi Dai]], [[https://openalex.org/A5057351636][Tristan Albaret]], [[https://openalex.org/A5018800556][Shi-Hao Zhang]], [[https://openalex.org/A5039073384][Shigenobu Ogata]], [[https://openalex.org/A5034155486][David Rodney]]
 :HOST: Journal of the European Ceramic Society
 :END:
 
-[[https://openalex.org/A5053232126][Jin-Yu Zhang]],[[https://openalex.org/A5092720602][Gaël Huynh]],[[https://openalex.org/A5004503876][Fu‐Zhi Dai]],[[https://openalex.org/A5057351636][Tristan Albaret]],[[https://openalex.org/A5018800556][Shi-Hao Zhang]],[[https://openalex.org/A5039073384][Shigenobu Ogata]],[[https://openalex.org/A5034155486][David Rodney]], Journal of the European Ceramic Society. None(None)] 2024.
+[[https://openalex.org/A5053232126][Jin-Yu Zhang]], [[https://openalex.org/A5092720602][Gaël Huynh]], [[https://openalex.org/A5004503876][Fu‐Zhi Dai]], [[https://openalex.org/A5057351636][Tristan Albaret]], [[https://openalex.org/A5018800556][Shi-Hao Zhang]], [[https://openalex.org/A5039073384][Shigenobu Ogata]], [[https://openalex.org/A5034155486][David Rodney]], Journal of the European Ceramic Society. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jeurceramsoc.2024.01.007")][Get bibtex entry]] 
 
@@ -751,7 +751,7 @@ Ba-rich compositions in the BaxSr1-xMnO3 (BSMO) cubic perovskite (3C) system are
 
 OpenAlex: https://openalex.org/W4390630271
     
-[[https://openalex.org/A5053232126][Jin-Yu Zhang]],[[https://openalex.org/A5092720602][Gaël Huynh]],[[https://openalex.org/A5004503876][Fu‐Zhi Dai]],[[https://openalex.org/A5057351636][Tristan Albaret]],[[https://openalex.org/A5018800556][Shi-Hao Zhang]],[[https://openalex.org/A5039073384][Shigenobu Ogata]],[[https://openalex.org/A5034155486][David Rodney]], Journal of the European Ceramic Society. https://doi.org/10.1016/j.jeurceramsoc.2024.01.007
+[[https://openalex.org/A5053232126][Jin-Yu Zhang]], [[https://openalex.org/A5092720602][Gaël Huynh]], [[https://openalex.org/A5004503876][Fu‐Zhi Dai]], [[https://openalex.org/A5057351636][Tristan Albaret]], [[https://openalex.org/A5018800556][Shi-Hao Zhang]], [[https://openalex.org/A5039073384][Shigenobu Ogata]], [[https://openalex.org/A5034155486][David Rodney]], Journal of the European Ceramic Society. https://doi.org/10.1016/j.jeurceramsoc.2024.01.007
     
 Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, allowing plastic deformation prior to failure, setting them apart from most other ceramics. However, our understanding of ZrO2 plasticity is hindered by the challenge of simulating stress-induced atomic-scale phase transformations, owing to lack of an efficient interatomic potential accurately representing polymorphism and phase changes in ZrO2. In this work, we introduce a novel deep neural network interatomic potential, DP-ZrO2, constructed using a concurrent-learning approach. DP-ZrO2 reproduces properties of various ZrO2 phases, matching their phase diagrams as well as transformation pathways with accuracy comparable to ab initio density functional theory. Leveraging DP-ZrO2, we conducted molecular dynamics simulations of temperature-induced interphase boundary migration and nanocompression. These simulations demonstrate the potential’s efficiency and applicability in studying deformation microstructures involving phase transformations in ZrO2. Our approach opens the door to large-scale simulations under complex loading conditions, which will shed light on the conditions favouring ZrO2 transformation-induced plasticity.    
 
@@ -761,11 +761,11 @@ Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, all
 :PROPERTIES:
 :ID: https://openalex.org/W4391014304
 :DOI: https://doi.org/10.1021/acs.jpclett.3c03216
-:AUTHORS: [[https://openalex.org/A5022412058][Sreetama Ghosh]],[[https://openalex.org/A5007090767][Denver Haycock]],[[https://openalex.org/A5046495382][N. C. Mehra]],[[https://openalex.org/A5066645403][Susanta Bera]],[[https://openalex.org/A5088250417][Hannah Johnson]],[[https://openalex.org/A5062011127][Lucian Roiban]],[[https://openalex.org/A5040224847][M. Aouine]],[[https://openalex.org/A5056690555][P. Vernoux]],[[https://openalex.org/A5014956592][Peter C. Thüne]],[[https://openalex.org/A5062009633][William F. Schneider]],[[https://openalex.org/A5052330817][Mihalis N. Tsampas]]
+:AUTHORS: [[https://openalex.org/A5022412058][Sreetama Ghosh]], [[https://openalex.org/A5007090767][Denver Haycock]], [[https://openalex.org/A5046495382][N. C. Mehra]], [[https://openalex.org/A5066645403][Susanta Bera]], [[https://openalex.org/A5088250417][Hannah Johnson]], [[https://openalex.org/A5062011127][Lucian Roiban]], [[https://openalex.org/A5040224847][M. Aouine]], [[https://openalex.org/A5056690555][P. Vernoux]], [[https://openalex.org/A5014956592][Peter C. Thüne]], [[https://openalex.org/A5062009633][William F. Schneider]], [[https://openalex.org/A5052330817][Mihalis N. Tsampas]]
 :HOST: The Journal of Physical Chemistry Letters
 :END:
 
-[[https://openalex.org/A5022412058][Sreetama Ghosh]],[[https://openalex.org/A5007090767][Denver Haycock]],[[https://openalex.org/A5046495382][N. C. Mehra]],[[https://openalex.org/A5066645403][Susanta Bera]],[[https://openalex.org/A5088250417][Hannah Johnson]],[[https://openalex.org/A5062011127][Lucian Roiban]],[[https://openalex.org/A5040224847][M. Aouine]],[[https://openalex.org/A5056690555][P. Vernoux]],[[https://openalex.org/A5014956592][Peter C. Thüne]],[[https://openalex.org/A5062009633][William F. Schneider]],[[https://openalex.org/A5052330817][Mihalis N. Tsampas]], The Journal of Physical Chemistry Letters. None(None)] 2024.
+[[https://openalex.org/A5022412058][Sreetama Ghosh]], [[https://openalex.org/A5007090767][Denver Haycock]], [[https://openalex.org/A5046495382][N. C. Mehra]], [[https://openalex.org/A5066645403][Susanta Bera]], [[https://openalex.org/A5088250417][Hannah Johnson]], [[https://openalex.org/A5062011127][Lucian Roiban]], [[https://openalex.org/A5040224847][M. Aouine]], [[https://openalex.org/A5056690555][P. Vernoux]], [[https://openalex.org/A5014956592][Peter C. Thüne]], [[https://openalex.org/A5062009633][William F. Schneider]], [[https://openalex.org/A5052330817][Mihalis N. Tsampas]], The Journal of Physical Chemistry Letters. None(None)] 2024.
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpclett.3c03216")][Get bibtex entry]] 
 
@@ -775,7 +775,7 @@ Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, all
 
 OpenAlex: https://openalex.org/W4391014304
     
-[[https://openalex.org/A5022412058][Sreetama Ghosh]],[[https://openalex.org/A5007090767][Denver Haycock]],[[https://openalex.org/A5046495382][N. C. Mehra]],[[https://openalex.org/A5066645403][Susanta Bera]],[[https://openalex.org/A5088250417][Hannah Johnson]],[[https://openalex.org/A5062011127][Lucian Roiban]],[[https://openalex.org/A5040224847][M. Aouine]],[[https://openalex.org/A5056690555][P. Vernoux]],[[https://openalex.org/A5014956592][Peter C. Thüne]],[[https://openalex.org/A5062009633][William F. Schneider]],[[https://openalex.org/A5052330817][Mihalis N. Tsampas]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03216
+[[https://openalex.org/A5022412058][Sreetama Ghosh]], [[https://openalex.org/A5007090767][Denver Haycock]], [[https://openalex.org/A5046495382][N. C. Mehra]], [[https://openalex.org/A5066645403][Susanta Bera]], [[https://openalex.org/A5088250417][Hannah Johnson]], [[https://openalex.org/A5062011127][Lucian Roiban]], [[https://openalex.org/A5040224847][M. Aouine]], [[https://openalex.org/A5056690555][P. Vernoux]], [[https://openalex.org/A5014956592][Peter C. Thüne]], [[https://openalex.org/A5062009633][William F. Schneider]], [[https://openalex.org/A5052330817][Mihalis N. Tsampas]], The Journal of Physical Chemistry Letters. https://doi.org/10.1021/acs.jpclett.3c03216
     
 Alkaline water electrolysis is a sustainable way to produce green hydrogen using renewable electricity. Even though the rates of the cathodic hydrogen evolution reaction (HER) are 2–3 orders of magnitude less under alkaline conditions than under acidic conditions, the possibility of using non-precious metal catalysts makes alkaline HER appealing. We identify a novel and facile route for substantially improving HER performance via the use of commercially available NiTi shape memory alloys, which upon heating undergo a phase transformation from the monoclinic martensite to the cubic austenite structure. While the room-temperature performance is modest, austenitic NiTi outperforms Pt (which is the state-of-the-art HER electrocatalyst) in terms of current density by ≤50% at 80 °C. Surface ensembles presented by the austenite phase are computed with density functional theory to bind hydrogen more weakly than either metallic Ni or Ti and to have binding energies ideally suited for HER.    
 
