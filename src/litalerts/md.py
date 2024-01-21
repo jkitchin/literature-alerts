@@ -20,7 +20,7 @@ def get_md_item(topic, result):
 
     _pdf = result['primary_location'].get('pdf_url', None)
     if _pdf:
-        pdf = f' ([pdf]({_pdf})'
+        pdf = f' ([pdf]({_pdf}))'
     else:
         pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
