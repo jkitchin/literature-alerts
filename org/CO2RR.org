@@ -1,7 +1,7 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Jan 21 00:45:18 2024
+Created on Sun Jan 21 01:17:15 2024
 
 Found 56 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)
@@ -777,22 +777,6 @@ Electrochemical carbon dioxide reduction reaction (ECO2RR) converts CO2 into val
 
     
 
-** Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123703")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390636108"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636108"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636108"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390636108 (Open access: False)
-    
-[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. 345(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.123703 
-     
-Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.    
-
-    
-
 ** Controllable Preparation of Cu2o/Cu-Cutcpp Mof Heterojunction for Enhanced Electrocatalytic Co2 Reduction to C2h4   
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4696662")][Get bibtex entry]] 
@@ -825,6 +809,22 @@ Solar energy driving CO2 reduction is a potential strategy that not only mitigat
 
     
 
+** Penta-coordinated aluminum species: Anchoring Au single atoms for photocatalytic CO2 reduction   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123703")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390636108"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390636108"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390636108"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390636108 (Open access: False)
+    
+[[https://openalex.org/A5086689166][Shaoqiang Li]], [[https://openalex.org/A5050487933][Yilei Li]], [[https://openalex.org/A5058705350][H. Y. Bai]], [[https://openalex.org/A5001937731][Dong-ying Zhou]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076283955][Ruihong Liu]], [[https://openalex.org/A5056836026][Bao‐Hang Han]], [[https://openalex.org/A5063388127][Xinying Liu]], [[https://openalex.org/A5071904923][Fa-tang Li]], Applied Catalysis B: Environmental. 345(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.123703 
+     
+Searching substrate materials having inherent photocatalytic activity and interaction with single atoms remains challenge. Herein, amorphous Al2O3 containing penta-coordinated aluminum (AlV) species is synthesized using the solvothermal method and the Au single atom is anchored by AlV via the self-reduction strategy. The Al-O bond energy is weakened by introducing amorphous components, which benefits the release of oxygen atoms and the resultant change of Al coordination environment to a AlV species. The electron transfer between AlV and Au stabilizes the Au single atom. The introduction of the Au single atom occupying the position of O vacancy and anchored by AlV strengthened the chemical absorption abilities for CO2, lowered the energy barrier of CO generation and promoted the charge separation efficiency. The CO generation rate of the Au single atom anchored obtains extraordinary promotion in comparison with pristine Al2O3, resulting in an approximately 6-fold enhancement and 98% product CO selectivity.    
+
+    
+
 ** Co-immobilization of a Rh catalyst and a Keggin polyoxometalate in the UiO-67 metal-organic framework: photocatalytic properties for CO2 reduction   
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
@@ -838,22 +838,6 @@ OpenAlex: https://openalex.org/W4391010815 (Open access: False)
 [[https://openalex.org/A5025771580][Youven Benseghir]], [[https://openalex.org/A5086372340][Albert Solé‐Daura]], [[https://openalex.org/A5085164470][Mathis Duguet]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5024792637][María Gómez-Mingot]], [[https://openalex.org/A5062221634][Marc Fontecave]], [[https://openalex.org/A5064073246][Anne Dolbecq]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], No host. None(None)] 2021. None 
      
 No abstract    
-
-    
-
-** Facile synthesis of self-nitrogen-doped carbon spheres for high-efficient photocatalytic CO2 reduction to CO   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.matlet.2024.135887")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390651239"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390651239"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390651239"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390651239 (Open access: False)
-    
-[[https://openalex.org/A5067808391][Zhiyan Dong]], [[https://openalex.org/A5022950764][Yudong Wang]], [[https://openalex.org/A5082266931][Xiaochao Zhang]], [[https://openalex.org/A5002509420][Xiushuai Guan]], [[https://openalex.org/A5006960343][Changming Zhang]], [[https://openalex.org/A5061069727][Wensheng Wu]], [[https://openalex.org/A5051941911][Caimei Fan]], Materials Letters. None(None)] 2024. https://doi.org/10.1016/j.matlet.2024.135887 
-     
-In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepared by hydrothermal and carbonation pyrolysis with first application in photocatalytic CO2 reduction. Coupled with relevant characterization, nitrogen-doped carbon microspheres were successfully prepared and the introduction of nitrogen significantly improved the photogenerated charge separation efficiency and CO2 photoreduction to CO activity, leading to the highest photocatalytic reduction activity with a CO yield of 185.71 μmol g−1 (9 h) under simulated sunlight irradiation. More importantly, its performance remains at about 98 % after ten consecutive cycle tests, indicating the excellent active stability of self-nitrogen-doped carbon spheres. Possible mechanisms for photocatalytic reduction and the role of nitrogen in photocatalytic adsorption and reduction processes are analyzed and proposed. The research provides novel strategies for the design of bifunctional catalysts that offer robust adsorption and efficient reduction, enabling the sustainable conversion of CO2.    
 
     
 
@@ -873,6 +857,22 @@ Utilizing solar energy to drive the conversion of CO2 into high-value chemicals 
 
     
 
+** Facile synthesis of self-nitrogen-doped carbon spheres for high-efficient photocatalytic CO2 reduction to CO   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.matlet.2024.135887")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390651239"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390651239"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390651239"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390651239 (Open access: False)
+    
+[[https://openalex.org/A5067808391][Zhiyan Dong]], [[https://openalex.org/A5022950764][Yudong Wang]], [[https://openalex.org/A5082266931][Xiaochao Zhang]], [[https://openalex.org/A5002509420][Xiushuai Guan]], [[https://openalex.org/A5006960343][Changming Zhang]], [[https://openalex.org/A5061069727][Wensheng Wu]], [[https://openalex.org/A5051941911][Caimei Fan]], Materials Letters. None(None)] 2024. https://doi.org/10.1016/j.matlet.2024.135887 
+     
+In this work, self-nitrogen-doped carbon microsphere photocatalysts were prepared by hydrothermal and carbonation pyrolysis with first application in photocatalytic CO2 reduction. Coupled with relevant characterization, nitrogen-doped carbon microspheres were successfully prepared and the introduction of nitrogen significantly improved the photogenerated charge separation efficiency and CO2 photoreduction to CO activity, leading to the highest photocatalytic reduction activity with a CO yield of 185.71 μmol g−1 (9 h) under simulated sunlight irradiation. More importantly, its performance remains at about 98 % after ten consecutive cycle tests, indicating the excellent active stability of self-nitrogen-doped carbon spheres. Possible mechanisms for photocatalytic reduction and the role of nitrogen in photocatalytic adsorption and reduction processes are analyzed and proposed. The research provides novel strategies for the design of bifunctional catalysts that offer robust adsorption and efficient reduction, enabling the sustainable conversion of CO2.    
+
+    
+
 ** Binary Junctions Enhance Electron Storage and Potential Difference for Photo-Assisted Electrocatalytic Co2 Reduction to Hcooh   
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4689861")][Get bibtex entry]] 
@@ -889,18 +889,18 @@ Photo-assisted electrocatalytic (PAEC) CO2 conversion is a crucial approach for 
 
     
 
-** Auto-Tandem Co2 Reduction by Reconstructed Cu Imidazole Framework Isomers: Unveiling Pristine Mof-Mediated Co2 Activation   
+** Promoted Selectivity of Photocatalytic CO2 reduction to C2H4 via Hybrid CuxCoSy Possessing Dual Unsaturated Sites   
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4690201")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.123704")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390695033"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390695033"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390695033"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390781704"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390781704"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390781704"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390695033 (Open access: False)
+OpenAlex: https://openalex.org/W4390781704 (Open access: False)
     
-[[https://openalex.org/A5025614175][Xiang-Da Zhang]], [[https://openalex.org/A5036914815][Jian-Mei Huang]], [[https://openalex.org/A5024839012][Xiaorong Zhu]], [[https://openalex.org/A5022256556][Chang Liu]], [[https://openalex.org/A5068336878][Yue Yin]], [[https://openalex.org/A5067239284][Jiayi Huang]], [[https://openalex.org/A5082041084][Ming Xu]], [[https://openalex.org/A5076118607][Yafei Li]], [[https://openalex.org/A5001990602][Zhi‐Yuan Gu]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4690201 
+[[https://openalex.org/A5000779588][Yu Nie]], [[https://openalex.org/A5068242622][Yanfang Li]], [[https://openalex.org/A5067362172][Chen An]], [[https://openalex.org/A5006282859][Xin Tan]], [[https://openalex.org/A5086231149][Zhuofeng Hu]], [[https://openalex.org/A5034469896][Jinhua Ye]], [[https://openalex.org/A5004732871][Tao Yu]], Applied Catalysis B: Environmental. None(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.123704 
      
-Cu-based metal-organic frameworks (MOFs) are widely employed in CO2 reduction reactions (CO2RR) because of their unique advantages to convert CO2 into C2+ products. Mostly, Cu-based MOFs are in-situ reconstructed to Cu-based derivatives such as Cu or Cu oxides during CO2RR, which is regarded as the catalytic active center. However, the key role of pristine MOFs and the coordination environment is often ignored in the process of revealing the catalytic mechanism. Here, we propose an auto-tandem mechanism for in-situ reconstructed Cu imidazole framework isomers, namely CuN2 and Cu2N4. During the auto-tandem catalysis process, pristine Cu(imidazole) served to convert CO2 into CO, while the Cu-based derivatives, in this case, Cu(111) sequentially convert the CO to C2+ products. This auto-tandem catalytic mechanism is supported by electrocatalytic performance, TPD-CO, HRTEM, SAED, XPS, in-situ XANES and XES. Besides, in-situ ATR-SEIRAS and DFT computation illustrate that the coordination environment of pristine Cu(imidazole) affects the selectivity of CO and thus determines the selectivity of C2+ products. The auto-tandem catalytic mechanism provides a new route to design Cu-based MOF electrocatalysts for high product selectivity in CO2RR.    
+Ethylene production by CO2 reduction is sluggish because the repulsive dipole-dipole interaction and 12 proton-coupled electron-transfer steps consecutively. Amorphous structured photocatalysts possess few grain boundaries and abundant unsaturated sites, accelerating the reaction efficiency from the angle of dynamics and thermodynamics, which still not yet be used in PCR to C2 products currently. Herein, an amorphous CuxCoSy composed of the minority crystalline CuCo2S4 is fabricated to realize an excellent C2H4 selectivity in terms of Relectron (94.9%). Unsaturated Co and S play the key roles in the improved efficiency of C2H4 generation. C-C coupling is achieved via shortening Co-S bonds distance, and ⁎CO-⁎CO coupling barrier is decreased by more electrons accumulated on unsaturated S. Water is adsorbed on Co adjacent to S and provide protons for ⁎COCO to form ⁎CH2=C. This work paves a new way for broadening the efficient of C2H4 photocatalytic evolution using amorphous photocatalyst.    
 
     

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jan 2024 00:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 01:17:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -288,16 +288,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.109515</guid>
     </item>
     <item>
-      <title>Elucidating the Mechanism of Oxygen Evolution Reaction on Nanostructured Copper-Based Catalysts</title>
-      <link>https://doi.org/10.1021/acsanm.3c05313</link>
-      <description>Chi Xie, Kaili Zhang, Yongyong Lai, Lili Du, Jing Ma, Shouwu Xu, Ping Qiu, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4390806435
-
-                In water splitting processes, the oxygen evolution reaction (OER) is one of the main kinetic control steps that should be triggered by high-efficiency catalysts. A series of Cu-based catalysts are considered potential candidates. This work provides a simple and effective strategy for fabricating large-scale copper-based catalysts by anodization on a copper foil at room temperature in a KOH solution. The representative petal-shaped CuO and Cu(OH)2 nanorods are obtained. The corresponding surface areas are 0.0197 and 1.966 m2/g, respectively. The surface wettability of Cu(OH)2 is lower than that of CuO. The catalytic performance is studied by linear sweep voltammetry (LSV). The results show that the potential of the OER for CuO at 10 mA/cm2 is 1.67 V, which reduces by 130 mV compared to Cu(OH)2. The CuO could keep 10 mA/cm2 after a 1 h chronoamperometry test, which is about 3 times higher than that of Cu(OH)2. To verify the distinguishing catalytic difference between CuO and Cu(OH)2, in situ Raman spectra have been recorded. Inspiringly, the CuIII active specie at 603 cm&#8211;1 is captured during the OER process on CuO instead of Cu(OH)2. The related mechanism has been discussed in detail.</description>
-      <author>Chi Xie, Kaili Zhang, Yongyong Lai, Lili Du, Jing Ma, Shouwu Xu, Ping Qiu</author>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05313</guid>
-    </item>
-    <item>
       <title>Material Dynamics of Manganese-Based Oxychlorides for Oxygen Evolution Reaction in Acid</title>
       <link>https://doi.org/10.1021/acs.chemmater.3c02362</link>
       <description>Ruihan Li, Dennis Nordlund, Linsey C. Seitz, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4390918522
@@ -306,6 +296,16 @@
       <author>Ruihan Li, Dennis Nordlund, Linsey C. Seitz</author>
       <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c02362</guid>
+    </item>
+    <item>
+      <title>Elucidating the Mechanism of Oxygen Evolution Reaction on Nanostructured Copper-Based Catalysts</title>
+      <link>https://doi.org/10.1021/acsanm.3c05313</link>
+      <description>Chi Xie, Kaili Zhang, Yongyong Lai, Lili Du, Jing Ma, Shouwu Xu, Ping Qiu, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4390806435
+
+                In water splitting processes, the oxygen evolution reaction (OER) is one of the main kinetic control steps that should be triggered by high-efficiency catalysts. A series of Cu-based catalysts are considered potential candidates. This work provides a simple and effective strategy for fabricating large-scale copper-based catalysts by anodization on a copper foil at room temperature in a KOH solution. The representative petal-shaped CuO and Cu(OH)2 nanorods are obtained. The corresponding surface areas are 0.0197 and 1.966 m2/g, respectively. The surface wettability of Cu(OH)2 is lower than that of CuO. The catalytic performance is studied by linear sweep voltammetry (LSV). The results show that the potential of the OER for CuO at 10 mA/cm2 is 1.67 V, which reduces by 130 mV compared to Cu(OH)2. The CuO could keep 10 mA/cm2 after a 1 h chronoamperometry test, which is about 3 times higher than that of Cu(OH)2. To verify the distinguishing catalytic difference between CuO and Cu(OH)2, in situ Raman spectra have been recorded. Inspiringly, the CuIII active specie at 603 cm&#8211;1 is captured during the OER process on CuO instead of Cu(OH)2. The related mechanism has been discussed in detail.</description>
+      <author>Chi Xie, Kaili Zhang, Yongyong Lai, Lili Du, Jing Ma, Shouwu Xu, Ping Qiu</author>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05313</guid>
     </item>
     <item>
       <title>A p-d block synergistic effect enables robust electrocatalytic oxygen evolution</title>

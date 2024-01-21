@@ -1,6 +1,6 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Jan 21 00:45:21 2024
+Created on Sun Jan 21 01:17:20 2024
 
 Found 6 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)
@@ -22,7 +22,7 @@ Highly oxygenated organic molecules (HOMs) are a major source of new particles t
 OpenAlex: https://openalex.org/W4390701128    
 Open access: True
     
-[Neil M. Donahue](https://openalex.org/A5041685684), No host. None(None)] 2024.https://doi.org/10.1039/d3ea90050a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ea/d3ea90050a).
+[Neil M. Donahue](https://openalex.org/A5041685684), No host. None(None)] 2024.https://doi.org/10.1039/d3ea90050a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ea/d3ea90050a)).
     
 Editor-in-Chief Neil Donahue reflects on the third year of Environmental Science: Atmospheres and looks ahead at the plans for year 4.    
 

@@ -1,6 +1,6 @@
 # Related papers for John Kitchin
 Description: Related papers to my work
-Created on Sun Jan 21 00:45:27 2024
+Created on Sun Jan 21 01:17:26 2024
 
 Found 0 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)

@@ -1,6 +1,6 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Jan 21 00:45:13 2024
+Created on Sun Jan 21 01:17:02 2024
 
 Found 48 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)
@@ -166,7 +166,7 @@ Recently, the oxygen reduction reaction (ORR) and oxygen evolution reaction (OER
 OpenAlex: https://openalex.org/W4390667978    
 Open access: True
     
-[Omeshwari Yadorao Bisen](https://openalex.org/A5025861092), [Max Baumung](https://openalex.org/A5081601530), [Michael Tatzel](https://openalex.org/A5081241050), [Cynthia A. Volkert](https://openalex.org/A5031668333), [Marcel Risch](https://openalex.org/A5068195942), No host. None(None)] 2024.https://doi.org/10.1039/d3ya00434a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ya/d3ya00434a).
+[Omeshwari Yadorao Bisen](https://openalex.org/A5025861092), [Max Baumung](https://openalex.org/A5081601530), [Michael Tatzel](https://openalex.org/A5081241050), [Cynthia A. Volkert](https://openalex.org/A5031668333), [Marcel Risch](https://openalex.org/A5068195942), No host. None(None)] 2024.https://doi.org/10.1039/d3ya00434a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ya/d3ya00434a)).
     
 Manganese dissolution during the oxygen evolution reaction (OER) has been a persistent challenge that impedes the practical implementation of Mn-based electrocatalysts including the Li x Mn 2 O 4 system in aqueous alkaline electrolyte. The...    
 
@@ -177,7 +177,7 @@ Manganese dissolution during the oxygen evolution reaction (OER) has been a pers
 OpenAlex: https://openalex.org/W4390670435    
 Open access: True
     
-[Yu-Ming Su](https://openalex.org/A5037360068), [Shuo-En Yu](https://openalex.org/A5013159664), [I‐Chih Ni](https://openalex.org/A5013647327), [Chih-I Wu](https://openalex.org/A5004605327), [Yong-Song Chen](https://openalex.org/A5089952383), [Yi-Cheng Chuang](https://openalex.org/A5031385445), [I-Chun Cheng](https://openalex.org/A5037535777), [Jian-Zhang Chen](https://openalex.org/A5081165207), No host. 8(1)] 2024.https://doi.org/10.3390/jcs8010019 ([pdf](https://www.mdpi.com/2504-477X/8/1/19/pdf?version=1704682505).
+[Yu-Ming Su](https://openalex.org/A5037360068), [Shuo-En Yu](https://openalex.org/A5013159664), [I‐Chih Ni](https://openalex.org/A5013647327), [Chih-I Wu](https://openalex.org/A5004605327), [Yong-Song Chen](https://openalex.org/A5089952383), [Yi-Cheng Chuang](https://openalex.org/A5031385445), [I-Chun Cheng](https://openalex.org/A5037535777), [Jian-Zhang Chen](https://openalex.org/A5081165207), No host. 8(1)] 2024.https://doi.org/10.3390/jcs8010019 ([pdf](https://www.mdpi.com/2504-477X/8/1/19/pdf?version=1704682505)).
     
 Ar, Ar/H2 (95:5), and Ar/O2 (95:5) plasmas are used for treating the NiCo metal–organic framework (MOF), and the plasma-processed NiCo MOF is applied for catalyzing the oxygen evolution reaction (OER) in a 1 M KOH electrolyte. Linear sweep voltammetry measurements show that after plasma treatment with Ar/H2 (95:5) and Ar gases, the overpotential reaches 552 and 540 mV, respectively, at a current density of 100 mA/cm2. The increase in the double-layer capacitance further confirms the enhanced oxygen production activity. We test the Ar plasma-treated NiCo MOF as an electrocatalyst at the OER electrode and Ru as an electrocatalyst at the hydrogen evolution reaction (HER) electrode in the alkaline water electrolysis module. The energy efficiency of the electrolyzer with the Ar plasma-processed NiCo-MOF catalyst increases from 54.7% to 62.5% at a current density of 500 mA/cm2 at 25 °C. The alkaline water electrolysis module with the Ar plasma-processed catalyst also exhibits a specific energy consumption of 5.20 kWh/m3 and 4.69 kWh/m3 at 25 °C and 70 °C, respectively. The alkaline water electrolysis module performance parameters such as the hydrogen production rate, specific energy consumption, and energy efficiency are characterized at temperatures between 25 °C and 70 °C. Our experimental results show that the NiCo MOF is an efficient OER electrocatalyst for the alkaline water electrolysis module.    
 
@@ -188,7 +188,7 @@ Ar, Ar/H2 (95:5), and Ar/O2 (95:5) plasmas are used for treating the NiCo metal�
 OpenAlex: https://openalex.org/W4390670646    
 Open access: True
     
-[X.-F. Wang](https://openalex.org/A5025363897), [Yuanyuan Guo](https://openalex.org/A5051188877), [Yanqiong Shen](https://openalex.org/A5061745492), [Jinjie Qian](https://openalex.org/A5054473752), The Journal of Chemical Physics. 160(2)] 2024.https://doi.org/10.1063/5.0185031 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0185031/18290184/024701_1_5.0185031.pdf).
+[X.-F. Wang](https://openalex.org/A5025363897), [Yuanyuan Guo](https://openalex.org/A5051188877), [Yanqiong Shen](https://openalex.org/A5061745492), [Jinjie Qian](https://openalex.org/A5054473752), The Journal of Chemical Physics. 160(2)] 2024.https://doi.org/10.1063/5.0185031 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0185031/18290184/024701_1_5.0185031.pdf)).
     
 The sluggish oxygen evolution reaction (OER) in overall electrocatalytic water splitting poses a significant challenge in hydrogen production. A series of transition metal phosphides are emerging as promising electrocatalysts, effectively modulating the charge distribution of surrounding atoms for OER. In this study, a highly efficient OER electrocatalyst (CoP-CNR-CNT) was successfully synthesized through the pyrolysis and phosphatization of a Co-doped In-based coordination polymer, specifically InOF-25. This process resulted in evenly dispersed CoP nanoparticles encapsulated in coordination polymer-derived carbon nanoribbons. The synthesized CoP-CNR-CNT demonstrated a competitive OER activity with a smaller overpotential (η10) of 295.7 mV at 10 mA cm-2 and a satisfactory long-term stability compared to the state-of-the-art RuO2 (η10 = 353.7 mV). The high OER activity and stability can be attributed to the high conductivity of the carbon network, the abundance of CoP particles, and the intricate nanostructure of nanoribbons/nanotubes. This work provides valuable insights into the rational design and facile preparation of efficient non-precious metal-based OER electrocatalysts from inorganic-organic coordination polymers, with potential applications in various energy conversion and storage systems.    
 
@@ -315,17 +315,6 @@ The hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) ar
 
     
 
-## Elucidating the Mechanism of Oxygen Evolution Reaction on Nanostructured Copper-Based Catalysts   
-
-OpenAlex: https://openalex.org/W4390806435    
-Open access: False
-    
-[Chi Xie](https://openalex.org/A5063247720), [Kaili Zhang](https://openalex.org/A5039204587), [Yongyong Lai](https://openalex.org/A5087830054), [Lili Du](https://openalex.org/A5075927340), [Jing Ma](https://openalex.org/A5090283553), [Shouwu Xu](https://openalex.org/A5089339474), [Ping Qiu](https://openalex.org/A5061092581), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05313.
-    
-In water splitting processes, the oxygen evolution reaction (OER) is one of the main kinetic control steps that should be triggered by high-efficiency catalysts. A series of Cu-based catalysts are considered potential candidates. This work provides a simple and effective strategy for fabricating large-scale copper-based catalysts by anodization on a copper foil at room temperature in a KOH solution. The representative petal-shaped CuO and Cu(OH)2 nanorods are obtained. The corresponding surface areas are 0.0197 and 1.966 m2/g, respectively. The surface wettability of Cu(OH)2 is lower than that of CuO. The catalytic performance is studied by linear sweep voltammetry (LSV). The results show that the potential of the OER for CuO at 10 mA/cm2 is 1.67 V, which reduces by 130 mV compared to Cu(OH)2. The CuO could keep 10 mA/cm2 after a 1 h chronoamperometry test, which is about 3 times higher than that of Cu(OH)2. To verify the distinguishing catalytic difference between CuO and Cu(OH)2, in situ Raman spectra have been recorded. Inspiringly, the CuIII active specie at 603 cm–1 is captured during the OER process on CuO instead of Cu(OH)2. The related mechanism has been discussed in detail.    
-
-    
-
 ## Material Dynamics of Manganese-Based Oxychlorides for Oxygen Evolution Reaction in Acid   
 
 OpenAlex: https://openalex.org/W4390918522    
@@ -334,6 +323,17 @@ Open access: False
 [Ruihan Li](https://openalex.org/A5014692849), [Dennis Nordlund](https://openalex.org/A5015462149), [Linsey C. Seitz](https://openalex.org/A5037183181), Chemistry of Materials. None(None)] 2024.https://doi.org/10.1021/acs.chemmater.3c02362.
     
 Earth-abundant manganese-based oxides have emerged as promising alternatives to noble-metal-based catalysts for the oxygen evolution reaction (OER) in acidic conditions; however, their inferior activity and stability present critical challenges for the sustainable production of hydrogen via water electrolysis. Moving beyond oxides, heteroanionic materials, which incorporate anions with lower electronegativity than oxygen, have shown potential for improving the OER performance, but a detailed understanding of the underlying mechanisms is lacking. Here, we investigate manganese-based oxychlorides (Mn8O10Cl3 and FeMn7O10Cl3) that exhibit excellent activity and stability for acidic OER to elucidate material property dynamics and correlate them with OER behaviors. Our rigorous electrochemical stability testing reveals that the high operating potential mitigates Mn dissolution over prolonged exposure to the OER conditions. Through a combination of ex situ and in situ surface and bulk-sensitive X-ray spectroscopy analyses, we observe a trade-off between increasing Mn valence and maintaining structural integrity, which results in dynamic bond length changes within the [MnCl6] octahedra during the activation and degradation processes of these oxychloride catalysts. This study provides insights into the fundamental relationships between the chemical, electronic, and geometric properties of the catalysts and their electrocatalytic outcomes.    
+
+    
+
+## Elucidating the Mechanism of Oxygen Evolution Reaction on Nanostructured Copper-Based Catalysts   
+
+OpenAlex: https://openalex.org/W4390806435    
+Open access: False
+    
+[Chi Xie](https://openalex.org/A5063247720), [Kaili Zhang](https://openalex.org/A5039204587), [Yongyong Lai](https://openalex.org/A5087830054), [Lili Du](https://openalex.org/A5075927340), [Jing Ma](https://openalex.org/A5090283553), [Shouwu Xu](https://openalex.org/A5089339474), [Ping Qiu](https://openalex.org/A5061092581), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05313.
+    
+In water splitting processes, the oxygen evolution reaction (OER) is one of the main kinetic control steps that should be triggered by high-efficiency catalysts. A series of Cu-based catalysts are considered potential candidates. This work provides a simple and effective strategy for fabricating large-scale copper-based catalysts by anodization on a copper foil at room temperature in a KOH solution. The representative petal-shaped CuO and Cu(OH)2 nanorods are obtained. The corresponding surface areas are 0.0197 and 1.966 m2/g, respectively. The surface wettability of Cu(OH)2 is lower than that of CuO. The catalytic performance is studied by linear sweep voltammetry (LSV). The results show that the potential of the OER for CuO at 10 mA/cm2 is 1.67 V, which reduces by 130 mV compared to Cu(OH)2. The CuO could keep 10 mA/cm2 after a 1 h chronoamperometry test, which is about 3 times higher than that of Cu(OH)2. To verify the distinguishing catalytic difference between CuO and Cu(OH)2, in situ Raman spectra have been recorded. Inspiringly, the CuIII active specie at 603 cm–1 is captured during the OER process on CuO instead of Cu(OH)2. The related mechanism has been discussed in detail.    
 
     
 
@@ -485,7 +485,7 @@ Exploring cost-effective non-noble metal-based catalysts with high activity and 
 OpenAlex: https://openalex.org/W4390758015    
 Open access: True
     
-[Yanhong Lv](https://openalex.org/A5050404049), [Xiangquan Deng](https://openalex.org/A5033542967), [Jingjing Ding](https://openalex.org/A5068736605), [Zhaohui Yang](https://openalex.org/A5047757729), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-023-50361-4 ([pdf](https://www.nature.com/articles/s41598-023-50361-4.pdf).
+[Yanhong Lv](https://openalex.org/A5050404049), [Xiangquan Deng](https://openalex.org/A5033542967), [Jingjing Ding](https://openalex.org/A5068736605), [Zhaohui Yang](https://openalex.org/A5047757729), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-023-50361-4 ([pdf](https://www.nature.com/articles/s41598-023-50361-4.pdf)).
     
 Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
 

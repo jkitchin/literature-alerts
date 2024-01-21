@@ -1,6 +1,6 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Sun Jan 21 00:45:19 2024
+Created on Sun Jan 21 01:17:17 2024
 
 Found 25 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)
@@ -44,7 +44,7 @@ With the rapid growth of the world population and the continuous shortage of res
 OpenAlex: https://openalex.org/W4390605526    
 Open access: True
     
-[Serhat Uzan](https://openalex.org/A5015928403), [Eyüp Başaran](https://openalex.org/A5072932384), Turkish Journal of Chemistry. 47(6)] 2023.https://doi.org/10.55730/1300-0527.3630 ([pdf](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem).
+[Serhat Uzan](https://openalex.org/A5015928403), [Eyüp Başaran](https://openalex.org/A5072932384), Turkish Journal of Chemistry. 47(6)] 2023.https://doi.org/10.55730/1300-0527.3630 ([pdf](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem)).
     
 The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite (Na-MMT) for catalytic liquid-phase oxidation of phenol using H2O2 was undertaken by a flexible ligand method using metal ions including Mn(II), Zn(II), and Sn(II). First, the metal ions were exchanged with the sodium ions of Na-MMT, and then these metal ions were complexed with a new pyrazolone-based oxalamide ligand. The intercalated metal complexes were characterized by Fourier transform infrared spectroscopy, X-ray diffraction, scanning electron microscopy, energy-dispersive X-ray spectroscopy, elemental analysis, and thermogravimetric analysis. Phenol was successfully oxidized by heterogeneous catalysts based on Mn(II), Zn(II), and Sn(II) pyrazolone-based oxalamide complexes intercalated into Na-MMT. These heterogeneous catalysts catalyze the liquid-phase oxidation of phenol using H2O2 to catechol as the major product and hydroquinone and benzoquinone as the minor products. The Mn(II) and Zn(II) complexes intercalated into Na-MMT showed better activity than the Sn(II) complex intercalated into Na-MMT and the reaction without the catalyst. It has been shown that some metal ion complexes intercalated into Na-MMT are active catalysts for liquid-phase oxidation of phenol with hydrogen peroxide.    
 
@@ -77,7 +77,7 @@ Clean and sustainable hydrogen production through liquid hydrogen storage materi
 OpenAlex: https://openalex.org/W4391035044    
 Open access: True
     
-[Iman Mohammadi Dehcheshmeh](https://openalex.org/A5020114413), [Ahmad Poursattar Marjani](https://openalex.org/A5008902301), [Fatemeh Sadegh](https://openalex.org/A5058378526), [Mohammad Ebrahim Soltani](https://openalex.org/A5076479889), No host. None(None)] 2024.https://doi.org/10.5772/intechopen.1004068 ([pdf](https://www.intechopen.com/citation-pdf-url/1172117).
+[Iman Mohammadi Dehcheshmeh](https://openalex.org/A5020114413), [Ahmad Poursattar Marjani](https://openalex.org/A5008902301), [Fatemeh Sadegh](https://openalex.org/A5058378526), [Mohammad Ebrahim Soltani](https://openalex.org/A5076479889), No host. None(None)] 2024.https://doi.org/10.5772/intechopen.1004068 ([pdf](https://www.intechopen.com/citation-pdf-url/1172117)).
     
 Copper metal is a natural element found in soil, water, and rocks. This metal is one of those functional metals that have significantly improved the quality of human life. In the agricultural industry, copper plays an essential role as a primary nutrient required for the optimal growth of living tissues in plants and other organisms. Additionally, it is used to control fungal diseases; copper sulfate, one of the most widely used derivatives of copper metal, is employed for this purpose. Hence, the use of copper in agriculture is crucial. Another advanced and innovative application of copper is in chemical processes within the petrochemical industry as a catalyst. Copper catalysts exhibit a more favorable hydrogenation activity compared to nickel catalysts. The copper catalyst is designed in three forms: extruded and tablet forms for fixed-bed reactions and powder for liquid-bed reactions.    
 
@@ -99,7 +99,7 @@ We screen various acid catalysts (mineral, carboxylic, carbonic acids, zeolites,
 OpenAlex: https://openalex.org/W4390702062    
 Open access: True
     
-[Fei Du](https://openalex.org/A5034386711), [Xue-Quan Xian](https://openalex.org/A5029548291), [Peiduo Tang](https://openalex.org/A5073160336), [Yanming Liu](https://openalex.org/A5047160347), Molecules. 29(2)] 2024.https://doi.org/10.3390/molecules29020347 ([pdf](https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551).
+[Fei Du](https://openalex.org/A5034386711), [Xue-Quan Xian](https://openalex.org/A5029548291), [Peiduo Tang](https://openalex.org/A5073160336), [Yanming Liu](https://openalex.org/A5047160347), Molecules. 29(2)] 2024.https://doi.org/10.3390/molecules29020347 ([pdf](https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551)).
     
 A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthalocyanine catalyst was prepared and used to replace the traditional Fenton’s reagent for lignin degradation. The catalyst underwent a detailed characterization analysis in terms of functional group distributions, surface area, morphological structure, via FT-IR, XPS, BET, and SEM. The catalyst possessed a specific surface area of 638.98 m2/g and a pore volume of 0.291 cm3/g. The prepared catalyst was studied for its ability of oxidative degradation of lignin under different reaction conditions. By optimizing the reaction conditions, a maximum liquid product yield of 38.94% was obtained at 135 °C with 3.5 wt% of catalyst and 15 × 10−2 mol/L H2O2; at the same time, a maximum phenols selectivity of 32.58% was achieved. The compositions and properties of liquid products obtained from lignin degradation using different catalyst concentrations were studied comparatively via GC-MS, FT-IR, 1H-NMR, and EA. Furthermore, the structure changes of solid residues are also discussed.    
 
@@ -253,7 +253,7 @@ The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has rece
 OpenAlex: https://openalex.org/W4390986406    
 Open access: True
     
-[Haiming Wang](https://openalex.org/A5002285545), [Sheng Chen](https://openalex.org/A5039744969), Catalysts. 14(1)] 2024.https://doi.org/10.3390/catal14010081 ([pdf](https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459).
+[Haiming Wang](https://openalex.org/A5002285545), [Sheng Chen](https://openalex.org/A5039744969), Catalysts. 14(1)] 2024.https://doi.org/10.3390/catal14010081 ([pdf](https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459)).
     
 In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
 
