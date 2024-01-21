@@ -4,9 +4,29 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 14:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:45:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O&lt;sub&gt;2&lt;/sub&gt; Conversion Pathway over Au&#8211;Pd/ZnO</title>
+      <link>https://doi.org/10.1021/acscatal.3c04374</link>
+      <description>Qiang Zhang, Xiaojie Tan, Xinyu Wang, Qinhua Zhang, Chong Qi, Hao Yang, Zhengqiu He, Tao Xing, Mingqing Wang, Mingbo Wu, Wenting Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390614279
+
+                Photocatalytic oxidation of methane to methanol is an attractive process under mild conditions, nevertheless confronting significant challenges in achieving high conversion and selectivity simultaneously. Herein, we propose a strategy for the direct and rapid generation of hydroxyl radicals (&#8226;OH) from O2 (O2 &#8594; *OOH &#8594; &#8226;OH) by rational design of Au&#8211;Pd/ZnO photocatalyst, skipping water-soluble H2O2 and avoiding H2O2 diffusion. For photocatalytic methane oxidation at ambient temperature, the yield and selectivity of CH3OH over the optimized 1.0% AuPd0.5/ZnO catalyst were as high as 81.0 &#956;mol&#183;h&#8211;1 and 88.2%, respectively, exceeding that of most reported systems. The formation of Au&#8211;Pd alloys could improve the O2 adsorption and the cleavage of the O&#8211;O bond in *OOH, facilitating the efficient direct formation of &#8226;OH and increasing the CH3OH yield and selectivity. This work provides some guidance for the delicate design of composite photocatalysts for efficient selective photocatalytic methane oxidation and O2 utilization.</description>
+      <author>Qiang Zhang, Xiaojie Tan, Xinyu Wang, Qinhua Zhang, Chong Qi, Hao Yang, Zhengqiu He, Tao Xing, Mingqing Wang, Mingbo Wu, Wenting Wu</author>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04374</guid>
+    </item>
+    <item>
+      <title>Anaerobic Ammodehydrogenation of Ethane to Acetonitrile over Ga-Loaded H-FER Zeolite Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c05286</link>
+      <description>M. J. Huang, Xiaoming Hu, Duotian Chen, Zen Maeno, Nao Tsunoji, Takashi Toyao, Ken&#8208;ichi Shimizu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390640476
+
+                A reaction of ethane (C2H6) with ammonia (NH3) over metal-loaded zeolites to yield acetonitrile (CH3CN) under the O2-free conditions was studied. Among the various metal-loaded zeolites, Ga/HFER with a Ga/Al ratio of 1.0 afforded the highest CH3CN yield. A Ga-free HFER and a Ga-loaded K-exchanged FER (Ga/KFER) were nearly inactive for the ammodehydrogenation of C2H6, indicating that both Ga and Br&#248;nsted acid sites are indispensable. Extended X-ray absorption fine structure (EXAFS) results show that the Ga2O3 species in the as-prepared Ga/HFER catalyst are converted to isolated Ga cations after C2H6 ammodehydrogenation at 650 &#176;C, while the Ga2O3 species in Ga/KFER remained unchanged after the reaction. The results indicate that the Br&#248;nsted acid sites (exchangeable H+ sites) of HFER act as the anchoring site of the isolated Ga cations, possibly formed by reductive solid-state ion exchange during the reaction, and the isolated Ga sites act as active sites for C2H6 ammodehydrogenation. Kinetic analysis suggests that CH3CN is produced via a consecutive reaction pathway: the dehydrogenation of C2H6 to ethylene (C2H4), which reacts with NH3 to give CH3CN. The co-feeding of O2 to C2H6 + NH3 significantly decreased the CH3CN yield and formation of CO2 and CO as the main products, suggesting the importance of reductive conditions in the current catalytic system.</description>
+      <author>M. J. Huang, Xiaoming Hu, Duotian Chen, Zen Maeno, Nao Tsunoji, Takashi Toyao, Ken&#8208;ichi Shimizu</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05286</guid>
+    </item>
     <item>
       <title>The Relevance of the Interfacial Water Reactivity for Electrochemical CO Reduction on Copper Single Crystals</title>
       <link>https://doi.org/10.1021/acscatal.3c02700</link>
@@ -236,26 +256,6 @@
       <author>Zong-Heng Wang, Brian N. DiMarco, Mehmed Z. Ertem, Renato N. Sampaio, Gerald F. Manbeck</author>
       <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04589</guid>
-    </item>
-    <item>
-      <title>Insight into the Structure of Mn-NiS&lt;sub&gt;2&lt;/sub&gt; during Urea Oxidation Using Combined In Situ X-ray Absorption Spectroscopy and Attenuated Total Reflectance Surface-Enhanced Infrared Absorption Spectroscopy</title>
-      <link>https://doi.org/10.1021/acscatal.3c05369</link>
-      <description>Niangao Duan, Tianxin Hou, Wei Zheng, Yafei Qu, Peichen Wang, Jun Yang, Yang Yang, Dongdong Wang, Jitang Chen, Qianwang Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390734560
-
-                The urea electrocatalytic oxidation reaction (UOR) has enormous potential as an ideal alternative anode reaction for water splitting owing to its lower thermodynamic equilibrium potential of 0.37 V versus reversible hydrogen electrode (vs RHE). Nickel-based materials, especially NiOOH, are considered to be one of the most promising non-noble metal catalysts for UOR due to their inexpensive cost and rich abundance. However, NiOOH displays a high overpotential and poor long-term stability. Herein, our density functional theory calculations show that the rate-determining step for UOR is desorption of CO2 on NiOOH, and Mn-doped NiOOH has the lowest energy for CO2 desorption. Hence, we prepared a Mn-NiS2 precatalyst that would transform into the active form of Mn-NiOOH during the electrochemical process. The catalyst exhibits good performance for UOR, achieving 100 mA cm&#8211;2 at 1.426 V (vs RHE, without IR correction) for 200 h with no significant voltage change, which is rarely reported for nonprecious-metal UOR catalysts. X-ray absorption near-edge spectroscopy and X-ray diffraction characterization show the transformation from sulfide to oxyhydroxide when a voltage is applied, while in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) proves that Mn-NiOOH accelerates the desorption of CO2 compared to NiOOH.</description>
-      <author>Niangao Duan, Tianxin Hou, Wei Zheng, Yafei Qu, Peichen Wang, Jun Yang, Yang Yang, Dongdong Wang, Jitang Chen, Qianwang Chen</author>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05369</guid>
-    </item>
-    <item>
-      <title>Iron-Catalyzed 5-Endo-Dig Synthetic Approach to Indenes and Its Bidirectional Extension to Narrow Bandgap &#960;-Systems</title>
-      <link>https://doi.org/10.1021/acscatal.3c04961</link>
-      <description>Mengqing Chen, Yuki Itabashi, Shota Fukuma, Rui Shang, Eiichi Nakamura, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390734752
-
-                The indene skeleton is a key structure in a variety of compounds, with applications in medicinal and materials science. Traditional syntheses often require harsh conditions or reactive intermediates due to the temporary disruption of the aromaticity of the developing indene ring. To circumvent this problem, we have investigated iron-catalyzed 5-endo-dig cyclization for the construction of the five-membered carbocycle component of indene, which does not interrupt the benzene ring&#8217;s aromaticity. A reduced iron reactive species generated by the reduction of FeCl2 with metallic magnesium is a key reactive species that effectively cleaves the C&#8211;O bond in the starting material to generate a dormant radical-stabilized iron, which smoothly undergoes the 5-endo-dig closure of an indene ring. The synthetic conditions are so mild that we synthesized a high highest occupied molecular orbital (HOMO), narrow bandgap conjugated compound that has a HOMO level as high as &#8722;4.59 eV and an optical bandgap of 1.50 eV; hence, it is unstable even under air.</description>
-      <author>Mengqing Chen, Yuki Itabashi, Shota Fukuma, Rui Shang, Eiichi Nakamura</author>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04961</guid>
     </item>
   </channel>
 </rss>

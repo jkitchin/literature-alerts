@@ -4,9 +4,39 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Jan 2024 14:13:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jan 2024 00:45:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhancing geometric representations for molecules with equivariant vector-scalar interactive message passing</title>
+      <link>https://doi.org/10.1038/s41467-023-43720-2</link>
+      <description>Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu, Nature Communications. 15(1)] 2024. https://openalex.org/W4390617556
+
+                Abstract Geometric deep learning has been revolutionizing the molecular modeling field. Despite the state-of-the-art neural network models are approaching ab initio accuracy for molecular property prediction, their applications, such as drug discovery and molecular dynamics (MD) simulation, have been hindered by insufficient utilization of geometric information and high computational costs. Here we propose an equivariant geometry-enhanced graph neural network called ViSNet, which elegantly extracts geometric features and efficiently models molecular structures with low computational costs. Our proposed ViSNet outperforms state-of-the-art approaches on multiple MD benchmarks, including MD17, revised MD17 and MD22, and achieves excellent chemical property prediction on QM9 and Molecule3D datasets. Furthermore, through a series of simulations and case studies, ViSNet can efficiently explore the conformational space and provide reasonable interpretability to map geometric representations to molecular structures.</description>
+      <author>Yusong Wang, Tong Wang, Shaoning Li, Xinheng He, Mingyu Li, Zun Wang, Nanning Zheng, Borong Shao, Tie-Yan Liu</author>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-43720-2</guid>
+    </item>
+    <item>
+      <title>Applied Voltage&#8208;Activated Fe&#9472;N&#9472;C Catalysts for Pem Fuel Cells</title>
+      <link>https://doi.org/10.1002/adsu.202300573</link>
+      <description>Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4390637284
+
+                Abstract The practical application of non&#8208;precious Fe&#9472;N&#9472;C catalysts in proton exchange membrane fuel cells (PEMFCs) continues to remain one of the major challenges due to their relatively poor oxygen reduction reaction (ORR) performance in acid. In this work, a fast and facilely performance enhancement strategy is first proposed for various Fe&#9472;N&#9472;C catalysts by supplying different direct&#8208;current voltages to achieve a rapid solid&#8208;state activation at room temperature. The voltage&#8208;activated state&#8208;of&#8208;the&#8208;art Fe&#9472;N&#9472;C catalyst has demonstrated a peak power density of 1.1 W cm &#8722;2 for PEMFC and remarkably increased long&#8208;term durability for ORR. The substantially improved performance can be attributed to the formation of highly active ketone&#8208;decorated (edge&#8208;hosted) FeN 4 sites and substantially boosts coupled proton&#8722;electron transfer (CPET) by improving the conductivity of the as&#8208;synthesized Fe&#9472;N&#9472;C with an interpenetrating network structure. The interconnected micro&#8208;nodes within the interpenetrating network are the main active regions for the ORR, evidenced by an optimized structural model based on the above typical morphology. Therefore, this finding provides an innovative and facile idea for solving the activity and stability deficiency for promising Fe&#9472;N&#9472;C for commercial PEMFC.</description>
+      <author>Qiheng Wang, Jin Zhang, Xingdong Wang, Qingtao Liu, Jingjun Liu, Zhongbin Zhuang, Jianglan Shui</author>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202300573</guid>
+    </item>
+    <item>
+      <title>Structure transformation induced bi-component Co&#8211;Mo/A-Co(OH)2 as highly efficient hydrogen evolution catalyst in alkaline media</title>
+      <link>https://doi.org/10.1016/j.nanoms.2023.11.006</link>
+      <description>Yingqing Ou, Lu Lu, Peng Xiao, Lili Zhang, Zhongwen Ou, Wendong Zhang, Yunhuai Zhang, Nano Materials Science. None(None)] 2024. https://openalex.org/W4390639783
+
+                Elucidating the inherent origins of the sluggish hydrogen evolution reaction (HER) kinetics in alkaline media and developing high-performance electrocatalysts are fundamental for the advances of conventional alkaline water electrolyzers and emerging anion exchange membrane (AEM) electrolyzers. Here we present a facile electrochemical modification strategy for the synthesis of bi-component Co&#8211;Mo(18%)/A-Co(OH)2 catalyst toward efficient HER catalysis in alkaline media. Porous Co&#8211;Mo alloys with adjustable Mo/Co atomic ratio are first prepared by H2-assisted cathodic electrodeposition. By virtue of the appropriate electronic structure and hydrogen binding energy, Co&#8211;Mo(18%) is the most HER active among the alloys and is further activated by a constant-current electrochemical modification process. Physical characterizations reveal the formation of amorphous Co(OH)2 nanoparticles on the surface. Electrokinetic analysis combined with theoretical calculations reveal that the in-situ formed Co(OH)2 can efficiently promote the water dissociation, resulting in accelerated Volmer-step kinetics. As a result, the Co&#8211;Mo(18%)/A-Co(OH)2 simultaneously achieves the optimization of the two factors dominating alkaline HER activity, i.e., water dissociation and hydrogen adsorption/desorption via the bifunctional synergy of the bi-components. The high HER activity (&#951;10 of 47 &#8203;mV at 10 &#8203;mA &#8203;cm&#8722;2) of Co&#8211;Mo(18%)/A-Co(OH)2 is close to benchmark Pt/C catalyst and comparable or superior to the most active non-noble metal catalysts.</description>
+      <author>Yingqing Ou, Lu Lu, Peng Xiao, Lili Zhang, Zhongwen Ou, Wendong Zhang, Yunhuai Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoms.2023.11.006</guid>
+    </item>
     <item>
       <title>Screening of Cu-Mn-Ni-Zn high-entropy alloy catalysts for CO2 reduction reaction by machine-learning-accelerated density functional theory</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.159297</link>
@@ -228,36 +258,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690003</guid>
     </item>
     <item>
-      <title>Screening Cu-Zeolites for Methane Activation Using Curriculum-Based Training</title>
-      <link>https://doi.org/10.1021/acscatal.3c05275</link>
-      <description>Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390703624
-
-                Machine learning (ML), when used synergistically with atomistic simulations, has recently emerged as a powerful tool for accelerated catalyst discovery. However, the application of these techniques has been limited by the lack of interpretable and transferable ML models. In this work, we propose a curriculum-based training (CBT) philosophy to systematically develop reactive machine learning potentials (rMLPs) for high-throughput screening of zeolite catalysts. Our CBT approach combines several different types of calculations to gradually teach the ML model about the relevant regions of the reactive potential energy surface. The resulting rMLPs are accurate, transferable, and interpretable. We further demonstrate the effectiveness of this approach by exhaustively screening thousands of [CuOCu]2+ sites across hundreds of Cu-zeolites for the industrially relevant methane activation reaction. Specifically, this large-scale analysis of the entire International Zeolite Association (IZA) database identifies a set of previously unexplored zeolites (i.e., MEI, ATN, EWO, and CAS) that show the highest ensemble-averaged rates for [CuOCu]2+-catalyzed methane activation. We believe that this CBT philosophy can be generally applied to other zeolite-catalyzed reactions and, subsequently, to other types of heterogeneous catalysts. Thus, this represents an important step toward overcoming the long-standing barriers within the computational heterogeneous catalysis community.</description>
-      <author>Jiawei Guo, Tyler Sours, Sam Holton, Chenghan Sun, Ambarish Kulkarni</author>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05275</guid>
-    </item>
-    <item>
-      <title>Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation</title>
-      <link>https://doi.org/10.2139/ssrn.4690198</link>
-      <description>Silvia Guti&#233;rrez&#8208;Tarri&#241;o, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazar&#237;o, Lidia E. Chinchilla, Giovanni Agostini, Jos&#233; J. Calvino, Juan P. Holgado, E. Rodr&#305;&#769;guez Castell&#243;n, Alberto Rold&#225;n, Pascual O&#241;a&#8208;Burgos, No host. None(None)] 2024. https://openalex.org/W4390703678
-
-                The ultimate target in heterogeneous catalysis is the achievement of robust, resilient and highly efficient materials capable of resisting industrial reaction conditions. Pursuing that goal in liquid-phase hydroformylation poses a unique challenge due to carbon monoxide-induced metal carbonyl species formation, which is directly related to the formation of active homogeneous catalysts by metal leaching. Herein, supported heteroatom-incorporated Co nanoparticles were developed to enhance the resistance. The samples underwent characterization using operando XPS, XAS and HR electron microscopy. Overall, P- and N-doped catalysts increased reusability and suppressed leaching. Among the studied catalysts, CoNx@NC presents excellent catalytic results for a Co-based catalyst, with a 94% conversion and a selectivity to aldehydes of 80%. Even under milder conditions, this catalyst outperformed existing benchmarks in Turnover Numbers (TON) and productivity. In addition, computational simulations provided atomistic insights, shedding light on the remarkable resistance of small Co clusters interacting with N-doped carbon patches.</description>
-      <author>Silvia Guti&#233;rrez&#8208;Tarri&#241;o, Carmen Galdeano-Ruano, Christian Wittee Lopes, Jaime Mazar&#237;o, Lidia E. Chinchilla, Giovanni Agostini, Jos&#233; J. Calvino, Juan P. Holgado, E. Rodr&#305;&#769;guez Castell&#243;n, Alberto Rold&#225;n, Pascual O&#241;a&#8208;Burgos</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690198</guid>
-    </item>
-    <item>
-      <title>Linking CO to Urea Production from CO&lt;sub&gt;2&lt;/sub&gt; and NO&lt;sub&gt;3&lt;/sub&gt;&lt;sup&gt;&#8211;&lt;/sup&gt;/NO&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;&#8211;&lt;/sup&gt; Co-Electrolysis on Transition Metals</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06279</link>
-      <description>Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu&#8208;Jeng Cheng, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4390704331
-
-                Electrochemical reduction of CO2 (CO2ER) has the potential to advance carbon neutrality and renewable energy storage. Advanced CO2ER catalysts can selectively produce a wide array of products. Their importance is amplified when coreducing CO2 with nitrate/nitrite ions (NO3&#8211;/NO2&#8211;) to generate organic compounds containing C&#8211;N bonds, enhancing product diversity and value. Some transition metals effectively catalyze the coreduction of CO2 and NO3&#8211;/NO2&#8211; to yield urea. However, a disparity exists between the experimental observations that underscore the significance of CO production in urea synthesis and the theoretical perspectives that dismiss the role of CO in C&#8211;N bond creation. To reconcile this disparity, we utilized density functional theory combined with a constant electrode potential model to investigate four facile CO2 + *N1 (the intermediates from NO3&#8211;/NO2&#8211; reduction to NH3) couplings&#9472;representing the primary C&#8211;N formation pathways on a range of transition metal surfaces. Our comprehensive study elucidates the relationships among C&#8211;N coupling barriers, *N1, and CO adsorption energies. Notably, we found that while CO is not involved in C&#8211;N formation, a catalyst&#8217;s proficiency in generating CO from CO2ER is indicative of its reduced adsorption strength. This result indicates a heightened reactivity in forming C&#8211;N bonds via the CO2 + *N1 couplings. Our theoretical exploration adeptly bridges the discrepancies observed between earlier experimental and theoretical studies.</description>
-      <author>Hsien-Chin Li, Yeu-Shiuan Ho, Guo-Lin Yang, Ren-Han Li, Tung-Chun Kuo, Chi-Tien Hsieh, Young-Hyuk Kwon, Mu&#8208;Jeng Cheng</author>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06279</guid>
-    </item>
-    <item>
       <title>Invariant Molecular Representations for Heterogeneous Catalysis</title>
       <link>https://doi.org/10.1021/acs.jcim.3c00594</link>
       <description>Jawad Chowdhury, Charles Fricke, Olajide H. Bamidele, Mubarak Bello, Wen&#8208;Bin Yang, Andreas Heyden, Gabriel Terejanu, Journal of Chemical Information and Modeling. None(None)] 2024. https://openalex.org/W4390703549
@@ -288,6 +288,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.applthermaleng.2024.122481</guid>
     </item>
     <item>
+      <title>Toward Next-Generation Heterogeneous Catalysts: Empowering Surface Reactivity Prediction with Machine Learning</title>
+      <link>https://doi.org/10.1016/j.eng.2023.07.021</link>
+      <description>Xinyan Li, Hong&#8208;Jie Peng, Engineering. None(None)] 2024. https://openalex.org/W4390619178
+
+                Heterogeneous catalysis remains at the core of various bulk chemical manufacturing and energy conversion processes, and its revolution necessitates the hunt for new materials with ideal catalytic activities and economic feasibility. Computational high-throughput screening presents a viable solution to this challenge, as machine learning (ML) has demonstrated its great potential in accelerating such processes by providing satisfactory estimations of surface reactivity with relatively low-cost information. This review focuses on recent progress in applying ML in adsorption energy prediction, which predominantly quantifies the catalytic potential of a solid catalyst. ML models that leverage inputs from different categories and exhibit various levels of complexity are classified and discussed. At the end of the review, an outlook on the current challenges and future opportunities of ML-assisted catalyst screening is supplied. We believe that this review summarizes major achievements in accelerating catalyst discovery through ML and can inspire researchers to further devise novel strategies to accelerate materials design and, ultimately, reshape the chemical industry and energy landscape.</description>
+      <author>Xinyan Li, Hong&#8208;Jie Peng</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.eng.2023.07.021</guid>
+    </item>
+    <item>
       <title>Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba&lt;sub&gt;0.6&lt;/sub&gt;Sr&lt;sub&gt;0.4&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acsami.3c11934</link>
       <description>Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador, No host. None(None)] 2024. https://openalex.org/W4390939574
@@ -296,6 +306,16 @@
       <author>Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador</author>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c11934</guid>
+    </item>
+    <item>
+      <title>A deep-neural network potential to study transformation-induced plasticity in zirconia</title>
+      <link>https://doi.org/10.1016/j.jeurceramsoc.2024.01.007</link>
+      <description>Jin-Yu Zhang, Ga&#235;l Huynh, Fu&#8208;Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney, Journal of the European Ceramic Society. None(None)] 2024. https://openalex.org/W4390630271
+
+                Zirconia (ZrO2) ceramics uniquely exhibit transformation-induced plasticity, allowing plastic deformation prior to failure, setting them apart from most other ceramics. However, our understanding of ZrO2 plasticity is hindered by the challenge of simulating stress-induced atomic-scale phase transformations, owing to lack of an efficient interatomic potential accurately representing polymorphism and phase changes in ZrO2. In this work, we introduce a novel deep neural network interatomic potential, DP-ZrO2, constructed using a concurrent-learning approach. DP-ZrO2 reproduces properties of various ZrO2 phases, matching their phase diagrams as well as transformation pathways with accuracy comparable to ab initio density functional theory. Leveraging DP-ZrO2, we conducted molecular dynamics simulations of temperature-induced interphase boundary migration and nanocompression. These simulations demonstrate the potential&#8217;s efficiency and applicability in studying deformation microstructures involving phase transformations in ZrO2. Our approach opens the door to large-scale simulations under complex loading conditions, which will shed light on the conditions favouring ZrO2 transformation-induced plasticity.</description>
+      <author>Jin-Yu Zhang, Ga&#235;l Huynh, Fu&#8208;Zhi Dai, Tristan Albaret, Shi-Hao Zhang, Shigenobu Ogata, David Rodney</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jeurceramsoc.2024.01.007</guid>
     </item>
     <item>
       <title>Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy</title>

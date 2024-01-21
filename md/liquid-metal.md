@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Sat Jan 20 14:13:37 2024
+Created on Sun Jan 21 00:45:19 2024
 
-Found 25 results from 2024-01-13 to 2024-01-20
+Found 25 results from 2024-01-07 to 2024-01-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst](https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst)
 
@@ -25,6 +25,28 @@ Open access: False
 [Jiahua Zhou](https://openalex.org/A5042829086), [Jiayi Fu](https://openalex.org/A5026278267), [Ping Yang](https://openalex.org/A5086955828), [Kewei Yu](https://openalex.org/A5067490405), [Stavros Carazoulas](https://openalex.org/A5093697312), [Weiqing Zheng](https://openalex.org/A5015640857), [Dionisios G. Vlachos](https://openalex.org/A5066110304), Applied Catalysis B: Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.123724.
     
 Metal M1/metal oxide M2Ox (M1M2Ox) inverse catalysts, where the oxide layer rests atop metal, have gained attention for their distinct catalytic performance. They are intensively studied in biomass upgrading, e.g., the hydrogenolysis of tetrahydrofurfuryl alcohol to produce 1,5-pentanediol. Pt and MOx (M = W, Mo, Re, Nb) exhibit remarkable synergism in activity and selectivity, but the active sites remain poorly understood. Here, we examine the influence of oxide loading on PtMOx inverse catalysts and introduce a high-pressure wash treatment to leach the excess oxide from carbon and optimize their structure. The findings reveal a saturation sub-monolayer MOx coverage with 2D atomic structure on Pt that is crucial for performance; excessive loading leads to nanocrystalline of lower activity, and low loading exposes unselective metal sites. Wash treatment selectively removes MOx from carbon, enhances their dispersion on Pt, and improves, in most cases, the performance. Tuning the inverse structure advances structure-reactivity understanding.    
+
+    
+
+## Liquid Metal Catalysis   
+
+OpenAlex: https://openalex.org/W4390621338    
+Open access: False
+    
+[Shuting Liang](https://openalex.org/A5064649819), No host. None(None)] 2023.https://doi.org/10.1007/978-981-19-2797-3_48-1.
+    
+With the rapid growth of the world population and the continuous shortage of resources and energy, the research on liquid metal catalyst has gradually come into view. In recent years, the development of liquid metal and its alloys as new catalysts has made a great leap forward. Liquid metals as flow catalysts offer new research and development opportunities. Applications of liquid metal systems include the catalytic controlled growth of graphene, the catalytic growth of 2D materials (MoO2, MoS2, SnOx, etc.), the catalytic reduction of CO2 to achieve carbon neutrality, the catalytic organic and inorganic reactions (including propane dehydrogenation, methane dehydrogenation, polyphenol self-polymerization, free radical polymerization, etc.), and the catalytic production of hydrogen. Liquid metal catalysts also include photocatalysts, electrocatalysts, bimetallic catalysts, LM/MO frame catalysts, and heterogeneous catalysts. The classification, application, and related catalytic mechanism of different liquid metal catalysts at home and abroad were reviewed in this chapter. Liquid metal catalysts could be used as revolutionary materials in the new century, and their application in the field of catalysis presents new challenges.    
+
+    
+
+## Intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite for catalytic liquid-phase oxidation of phenol using H2O2   
+
+OpenAlex: https://openalex.org/W4390605526    
+Open access: True
+    
+[Serhat Uzan](https://openalex.org/A5015928403), [Eyüp Başaran](https://openalex.org/A5072932384), Turkish Journal of Chemistry. 47(6)] 2023.https://doi.org/10.55730/1300-0527.3630 ([pdf](https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=3630&context=chem).
+    
+The intercalation of pyrazolone-based oxalamide metal complexes into Na-montmorillonite (Na-MMT) for catalytic liquid-phase oxidation of phenol using H2O2 was undertaken by a flexible ligand method using metal ions including Mn(II), Zn(II), and Sn(II). First, the metal ions were exchanged with the sodium ions of Na-MMT, and then these metal ions were complexed with a new pyrazolone-based oxalamide ligand. The intercalated metal complexes were characterized by Fourier transform infrared spectroscopy, X-ray diffraction, scanning electron microscopy, energy-dispersive X-ray spectroscopy, elemental analysis, and thermogravimetric analysis. Phenol was successfully oxidized by heterogeneous catalysts based on Mn(II), Zn(II), and Sn(II) pyrazolone-based oxalamide complexes intercalated into Na-MMT. These heterogeneous catalysts catalyze the liquid-phase oxidation of phenol using H2O2 to catechol as the major product and hydroquinone and benzoquinone as the minor products. The Mn(II) and Zn(II) complexes intercalated into Na-MMT showed better activity than the Sn(II) complex intercalated into Na-MMT and the reaction without the catalyst. It has been shown that some metal ion complexes intercalated into Na-MMT are active catalysts for liquid-phase oxidation of phenol with hydrogen peroxide.    
 
     
 
@@ -72,14 +94,14 @@ We screen various acid catalysts (mineral, carboxylic, carbonic acids, zeolites,
 
     
 
-## Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation   
+## Catalytic Degradation of Lignin over Sulfonyl-Chloride-Modified Lignin-Based Porous Carbon-Supported Metal Phthalocyanine: Effect of Catalyst Concentrations   
 
-OpenAlex: https://openalex.org/W4390910649    
-Open access: False
+OpenAlex: https://openalex.org/W4390702062    
+Open access: True
     
-[Qiuju Wang](https://openalex.org/A5014265119), [Tian Zhou](https://openalex.org/A5071831009), [Chunhui Wang](https://openalex.org/A5036124105), [Longwei Li](https://openalex.org/A5011044374), [Lianli Zou](https://openalex.org/A5032704479), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4696668.
+[Fei Du](https://openalex.org/A5034386711), [Xue-Quan Xian](https://openalex.org/A5029548291), [Peiduo Tang](https://openalex.org/A5073160336), [Yanming Liu](https://openalex.org/A5047160347), Molecules. 29(2)] 2024.https://doi.org/10.3390/molecules29020347 ([pdf](https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551).
     
-Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts to generate green hydrogen at room temperature, is a promising chemical hydrogen storage technology that can replace fossil fuels in energy-related devices. In this work, a novel nanocatalyst with ultrafine palladium nanoparticles immobilized on transition metal atom-decorated carbon supports was synthesized for the dehydrogenation of liquid FA. Via a hydrothermal of glucose and carbonitride with a following Co doping through a heat treatment process, porous carbons with evenly dispersed Co-sites on them were strategically achieved, which could be used as a support for immobilizing Pd nanoparticles. The obtained Pd/NC-Co1% catalyst exhibited much superior catalytic activities to those samples without Co doping on the support (Pd/NC and PdCo1%/NC), showing an impressive turnover frequency of 3045 h−1 at 50 °C for FA dehydrogenation. Other transition metal species such as Fe- and Ni-decorated carbon nanocatalysts also showed an improved catalytic activity for FA dehydrogenation. This work not only provide an efficient method to synthesize nanocatalysts with ultrafine metal nanoparticles but also demonstrate that highly dispersed metal atoms on the support can effectively affect the immobilized nanoparticles, resulting in an enhancement of catalytic performance.    
+A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthalocyanine catalyst was prepared and used to replace the traditional Fenton’s reagent for lignin degradation. The catalyst underwent a detailed characterization analysis in terms of functional group distributions, surface area, morphological structure, via FT-IR, XPS, BET, and SEM. The catalyst possessed a specific surface area of 638.98 m2/g and a pore volume of 0.291 cm3/g. The prepared catalyst was studied for its ability of oxidative degradation of lignin under different reaction conditions. By optimizing the reaction conditions, a maximum liquid product yield of 38.94% was obtained at 135 °C with 3.5 wt% of catalyst and 15 × 10−2 mol/L H2O2; at the same time, a maximum phenols selectivity of 32.58% was achieved. The compositions and properties of liquid products obtained from lignin degradation using different catalyst concentrations were studied comparatively via GC-MS, FT-IR, 1H-NMR, and EA. Furthermore, the structure changes of solid residues are also discussed.    
 
     
 
@@ -94,14 +116,36 @@ The ultimate target in heterogeneous catalysis is the achievement of robust, res
 
     
 
-## Catalytic Degradation of Lignin over Sulfonyl-Chloride-Modified Lignin-Based Porous Carbon-Supported Metal Phthalocyanine: Effect of Catalyst Concentrations   
+## Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation   
 
-OpenAlex: https://openalex.org/W4390702062    
-Open access: True
+OpenAlex: https://openalex.org/W4390910649    
+Open access: False
     
-[Fei Du](https://openalex.org/A5034386711), [Xue-Quan Xian](https://openalex.org/A5029548291), [Peiduo Tang](https://openalex.org/A5073160336), [Yanming Liu](https://openalex.org/A5047160347), Molecules. 29(2)] 2024.https://doi.org/10.3390/molecules29020347 ([pdf](https://www.mdpi.com/1420-3049/29/2/347/pdf?version=1704877551).
+[Qiuju Wang](https://openalex.org/A5014265119), [Tian Zhou](https://openalex.org/A5071831009), [Chunhui Wang](https://openalex.org/A5036124105), [Longwei Li](https://openalex.org/A5011044374), [Lianli Zou](https://openalex.org/A5032704479), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4696668.
     
-A sulfonyl-chloride-modified lignin-based porous carbon-supported metal phthalocyanine catalyst was prepared and used to replace the traditional Fenton’s reagent for lignin degradation. The catalyst underwent a detailed characterization analysis in terms of functional group distributions, surface area, morphological structure, via FT-IR, XPS, BET, and SEM. The catalyst possessed a specific surface area of 638.98 m2/g and a pore volume of 0.291 cm3/g. The prepared catalyst was studied for its ability of oxidative degradation of lignin under different reaction conditions. By optimizing the reaction conditions, a maximum liquid product yield of 38.94% was obtained at 135 °C with 3.5 wt% of catalyst and 15 × 10−2 mol/L H2O2; at the same time, a maximum phenols selectivity of 32.58% was achieved. The compositions and properties of liquid products obtained from lignin degradation using different catalyst concentrations were studied comparatively via GC-MS, FT-IR, 1H-NMR, and EA. Furthermore, the structure changes of solid residues are also discussed.    
+Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts to generate green hydrogen at room temperature, is a promising chemical hydrogen storage technology that can replace fossil fuels in energy-related devices. In this work, a novel nanocatalyst with ultrafine palladium nanoparticles immobilized on transition metal atom-decorated carbon supports was synthesized for the dehydrogenation of liquid FA. Via a hydrothermal of glucose and carbonitride with a following Co doping through a heat treatment process, porous carbons with evenly dispersed Co-sites on them were strategically achieved, which could be used as a support for immobilizing Pd nanoparticles. The obtained Pd/NC-Co1% catalyst exhibited much superior catalytic activities to those samples without Co doping on the support (Pd/NC and PdCo1%/NC), showing an impressive turnover frequency of 3045 h−1 at 50 °C for FA dehydrogenation. Other transition metal species such as Fe- and Ni-decorated carbon nanocatalysts also showed an improved catalytic activity for FA dehydrogenation. This work not only provide an efficient method to synthesize nanocatalysts with ultrafine metal nanoparticles but also demonstrate that highly dispersed metal atoms on the support can effectively affect the immobilized nanoparticles, resulting in an enhancement of catalytic performance.    
+
+    
+
+## Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
+
+OpenAlex: https://openalex.org/W4390637146    
+Open access: False
+    
+[Xueting Wu](https://openalex.org/A5036014654), [Xiao Wang](https://openalex.org/A5058010200), [Lingling Zhang](https://openalex.org/A5041880317), [Xiaomei Wang](https://openalex.org/A5016348832), [Shuyan Song](https://openalex.org/A5013100135), [Hongjie Zhang](https://openalex.org/A5082373596), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202317594.
+    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
+
+    
+
+## Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters   
+
+OpenAlex: https://openalex.org/W4390637288    
+Open access: False
+    
+[Xia Wu](https://openalex.org/A5007297993), [Xiao Wang](https://openalex.org/A5058010200), [Lingling Zhang](https://openalex.org/A5041880317), [Xiaomei Wang](https://openalex.org/A5016348832), [Shuyan Song](https://openalex.org/A5013100135), [Hongjie Zhang](https://openalex.org/A5082373596), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317594.
+    
+Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site‐driven C‐C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal‐acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce‐HY catalysts at 300 °C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure‐performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably‐improved adsorption capability towards short‐chain intermediates.    
 
     
 
@@ -127,17 +171,6 @@ Acceptorless dehydrogenation of alcohols is a promising pathway for biomass reso
 
     
 
-## Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys   
-
-OpenAlex: https://openalex.org/W4390796939    
-Open access: False
-    
-[Xin Cao](https://openalex.org/A5040301865), [Yong-Kui Chang](https://openalex.org/A5090459753), [Yang-Yang Yang](https://openalex.org/A5007540882), [Hongfang Ma](https://openalex.org/A5061179226), [Weiming Liu](https://openalex.org/A5048902046), [Yixin Lü](https://openalex.org/A5066554626), [Shyue-Yen Yao](https://openalex.org/A5012785198), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4693252.
-    
-This study investigates the catalytic reduction of CO2 using various ratios of Ga-based liquid alloys under different conditions. We explored the doping of liquid gallium with metals like indium (In) and magnesium (Mg) through mechanical stirring and heating. The alloys, once prepared, were exposed to CO2 in a reactor, with the Ga-In-Mg alloy demonstrating optimal reaction effects. In an exemplary synthesis, 1g of Ga was combined with 30wt.% In and 7wt.% Mg, yielding a 7wt.% Ga-In-Mg alloy. This alloy, when reacted with CO2 for 10 hours, exhibited a maximum weight gain of 445 mg. Elemental analysis showed a carbon content increase from 4.56% to 72.56% post-reaction. The reacted alloy, post-acid washing and electron microscopy examination, revealed the production of carbon fibers approximately 7 μm wide. The primary objectives of this research were to identify the optimal temperature for CO2 reduction by the alloy and to determine the most efficient alloy catalyst using orthogonal experimental methods. Furthermore, we aimed to elucidate the catalytic mechanism of gallium-based liquid metal in CO2 reduction. The study also involved analyzing the adsorption and reaction processes by fitting the adsorption and reaction kinetic curves of the liquid metal with CO2. Achieving these objectives could enable the conversion of CO2 into solid carbon products, aligning with current environmental and sustainable development goals. This research offers new insights and innovative approaches to tackling energy-related challenges, highlighting the potential of liquid metal alloys in carbon capture and reduction applications.    
-
-    
-
 ## Review of electrocatalytic reduction of CO2 on carbon supported films   
 
 OpenAlex: https://openalex.org/W4390721078    
@@ -146,6 +179,17 @@ Open access: False
 [Afdhal Yuda](https://openalex.org/A5091844504), [Parisa Ebrahimi](https://openalex.org/A5042313856), [Josephine Selvaraj](https://openalex.org/A5083118237), [Anand Kumar](https://openalex.org/A5034418975), [Vaidyanathan Subramanian](https://openalex.org/A5009923215), International Journal of Hydrogen Energy. 57(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.01.022.
     
 Carbon capture and conversion are becoming increasingly important as atmospheric CO2 concentrations rise and their adverse effects become increasingly evident. CO2 conversion/utilization-related research has gained renewed interest on a variety of platforms, including thermal, solar, biological, photochemical, and electrochemical conversions. Electrochemical routes, using suitable catalysts, are potentially suitable for commercial purposes owing to ease of integration with solvent-based carbon capture processes. This paper summarizes and evaluates the studies conducted within the past decade regarding the feasibility of carbon-based supports utilized in electrocatalytic carbon dioxide reduction. CO2 conversion has been reviewed in a number of reports, focusing on specific sections, such as metallic/bimetallic catalysts, CO2 solubility, and the fabrication of electrodes and electrochemical cells. The number of publications addressing various carbon-based electrocatalysts is increasing, but these materials have not yet been reviewed. Herein, we are focused on three types of electrocatalyst materials: metals, metal-oxides, non-oxides, and combinations thereof with carbon. The scope of this study includes the following: i) carbon-based materials and how they are characterized by distinctive properties, ii) electrocatalytic CO2 conversion techniques, and iii) research cases for carbon allotrope-supported composites used in CO2 reduction. The advancement in analytical tools that provide insight into liquid-phase reactions will benefit the development of catalysts and electrodes that will be effective in converting CO2 into the desired products. Such developments will also be applicable to other systems involving liquid electrolytes or solvents for performing reactions on catalyst surfaces.    
+
+    
+
+## Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys   
+
+OpenAlex: https://openalex.org/W4390796939    
+Open access: False
+    
+[Xin Cao](https://openalex.org/A5040301865), [Yong-Kui Chang](https://openalex.org/A5090459753), [Yang-Yang Yang](https://openalex.org/A5007540882), [Hongfang Ma](https://openalex.org/A5061179226), [Weiming Liu](https://openalex.org/A5048902046), [Yixin Lü](https://openalex.org/A5066554626), [Shyue-Yen Yao](https://openalex.org/A5012785198), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4693252.
+    
+This study investigates the catalytic reduction of CO2 using various ratios of Ga-based liquid alloys under different conditions. We explored the doping of liquid gallium with metals like indium (In) and magnesium (Mg) through mechanical stirring and heating. The alloys, once prepared, were exposed to CO2 in a reactor, with the Ga-In-Mg alloy demonstrating optimal reaction effects. In an exemplary synthesis, 1g of Ga was combined with 30wt.% In and 7wt.% Mg, yielding a 7wt.% Ga-In-Mg alloy. This alloy, when reacted with CO2 for 10 hours, exhibited a maximum weight gain of 445 mg. Elemental analysis showed a carbon content increase from 4.56% to 72.56% post-reaction. The reacted alloy, post-acid washing and electron microscopy examination, revealed the production of carbon fibers approximately 7 μm wide. The primary objectives of this research were to identify the optimal temperature for CO2 reduction by the alloy and to determine the most efficient alloy catalyst using orthogonal experimental methods. Furthermore, we aimed to elucidate the catalytic mechanism of gallium-based liquid metal in CO2 reduction. The study also involved analyzing the adsorption and reaction processes by fitting the adsorption and reaction kinetic curves of the liquid metal with CO2. Achieving these objectives could enable the conversion of CO2 into solid carbon products, aligning with current environmental and sustainable development goals. This research offers new insights and innovative approaches to tackling energy-related challenges, highlighting the potential of liquid metal alloys in carbon capture and reduction applications.    
 
     
 
@@ -182,14 +226,25 @@ The research and development of efficient catalyst is the key to achieving high-
 
     
 
-## Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
+## Nickel Carbide Nanoparticle Catalyst for Selective Hydrogenation of Nitriles to Primary Amines   
 
-OpenAlex: https://openalex.org/W4390718253    
+OpenAlex: https://openalex.org/W4390615119    
 Open access: False
     
-[Qibo Deng](https://openalex.org/A5058502784), [Shuang Chen](https://openalex.org/A5078024000), [Weitai Wu](https://openalex.org/A5013563049), [Shuyu Zhang](https://openalex.org/A5017401077), [Hassanien Gomaa](https://openalex.org/A5014881567), [Cuihua An](https://openalex.org/A5048675576), [Ning Hu](https://openalex.org/A5090597551), [Xiaopeng Han](https://openalex.org/A5025874763), ChemPlusChem. None(None)] 2024.https://doi.org/10.1002/cplu.202300688.
+[Sho Yamaguchi](https://openalex.org/A5081649730), [Daiki Kiyohira](https://openalex.org/A5093661952), [Kohei Tada](https://openalex.org/A5013506973), [Taiki Kawakami](https://openalex.org/A5067480489), [Akira Miura](https://openalex.org/A5038408960), [Takato Mitsudome](https://openalex.org/A5064171498), [Tomoo Mizugaki](https://openalex.org/A5068048324), Chemistry - A European Journal. None(None)] 2024.https://doi.org/10.1002/chem.202303573.
     
-With the advancement of scientific research, the introduction of external physical methods not only adds extra freedom to the design of electro‐catalytical processes for green technologies but also effectively improves the reactivity of materials. Physical methods can adjust the intrinsic activity of materials and modulate the local environment at the solid‐liquid interface. In particular, this approach holds great promise in the field of electrocatalysis. Among them, the ultrasonic waves have shown reasonable control over the preparation of materials and the electrocatalytic process. However, the research on coupling ultrasonic waves and electrocatalysis is still early. The understanding of their mechanisms needs to be more comprehensive and deep enough. Firstly, this article extensively discusses the adhibition of the ultrasonic‐assisted preparation of metal‐based catalysts and their catalytic performance as electrocatalysts. The obtained metal‐based catalysts exhibit improved electrocatalytic performances due to their high surface area and more exposed active sites. Additionally, this article also points out some urgent unresolved issues in the synthesis of materials using ultrasonic waves and the regulation of electrocatalytic performance. Lastly, the challenges and opportunities in this field are discussed, providing new insights for improving the catalytic performance of transition metal‐based electrocatalysts.    
+Despite its unique physicochemical properties, the catalytic application of nickel carbide (Ni3C) in organic synthesis is rare. In this study, we report well‐defined nanocrystalline Ni3C (nano‐Ni3C) as a highly active catalyst for the selective hydrogenation of nitriles to primary amines. The activity of the aluminum‐oxide‐supported nano‐Ni3C (nano‐Ni3C/Al2O3) catalyst surpasses that of Ni nanoparticles. Various aromatic and aliphatic nitriles and dinitriles were successfully converted to the corresponding primary amines under mild conditions (1 bar H2 pressure). Furthermore, the nano‐Ni3C/Al2O3 catalyst was reusable and applicable to gram‐scale experiments. Density functional theory calculations suggest the formation of polar hydrogen species on the nano‐Ni3C surface, which were attributed to the high activity of nano‐Ni3C towards nitrile hydrogenation. This study demonstrates the utility of metal carbides as a new class of catalysts for liquid‐phase organic reactions.    
+
+    
+
+## Ionic liquid dopant induced 3D hierarchical CuO nanostructures with doped heteroatoms and highly dispersed Ag for electrochemical upgrading of 5-hydroxymethylfurfural   
+
+OpenAlex: https://openalex.org/W4390636084    
+Open access: False
+    
+[Chaofan Li](https://openalex.org/A5008868985), [Fengke Wang](https://openalex.org/A5051476281), [Yi Nie](https://openalex.org/A5035540456), [Leilei Wang](https://openalex.org/A5084216806), [Zhihao Zhang](https://openalex.org/A5027792053), [Tianhao Liu](https://openalex.org/A5072350017), [Binghui He](https://openalex.org/A5071568123), [Yunqian Ma](https://openalex.org/A5025885659), [Lihua Zang](https://openalex.org/A5086281065), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148580.
+    
+The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has received increasing attention due to its carbon–neutral and value-added chemical properties, and the development of electrocatalyst with highly active and selective is crucial. Highly dispersing metal atoms throughout the catalyst can maximize the catalytic efficiency. Here, we synthesized a 3D hierarchical CuO nanostructure induced by ionic liquid with heteroatoms doping and Ag dispersing (Ag-CuO@IL), and this self-supported catalyst can reach 10 mA cm−2 at only 1.33 V vs RHE and achieved HMF conversion of 98.5 %, FDCA yield of 97.1 % and Faraday efficiency of 92.2 %. The excellent catalytic performance of Ag-CuO@IL for HMFOR is attributed to the doped heteroatoms derived from ILs to promote electron redistribution and the generated oxygen vacancies induced by IL anions to highly disperse Ag. Also, the catalyst was the nanosheet-assembled spherical clusters with 3D nanostructure, which exposed a large number of active sites. Density functional theory calculations showed that Ag-CuO@IL possessed moderate adsorption strengths of HMF and OH–, thus facilitating the desorption of the products in the reaction process. The design that induced by ionic liquid dopant not only provides an effective and green mean for HMFOR, but also has the large potential to guide the synthesis of other catalysts with improved performances in various applications.    
 
     
 
@@ -204,6 +259,17 @@ In electrocatalytic processes, traditional powder/film electrodes inevitably suf
 
     
 
+## Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
+
+OpenAlex: https://openalex.org/W4390718253    
+Open access: False
+    
+[Qibo Deng](https://openalex.org/A5058502784), [Shuang Chen](https://openalex.org/A5078024000), [Weitai Wu](https://openalex.org/A5013563049), [Shuyu Zhang](https://openalex.org/A5017401077), [Hassanien Gomaa](https://openalex.org/A5014881567), [Cuihua An](https://openalex.org/A5048675576), [Ning Hu](https://openalex.org/A5090597551), [Xiaopeng Han](https://openalex.org/A5025874763), ChemPlusChem. None(None)] 2024.https://doi.org/10.1002/cplu.202300688.
+    
+With the advancement of scientific research, the introduction of external physical methods not only adds extra freedom to the design of electro‐catalytical processes for green technologies but also effectively improves the reactivity of materials. Physical methods can adjust the intrinsic activity of materials and modulate the local environment at the solid‐liquid interface. In particular, this approach holds great promise in the field of electrocatalysis. Among them, the ultrasonic waves have shown reasonable control over the preparation of materials and the electrocatalytic process. However, the research on coupling ultrasonic waves and electrocatalysis is still early. The understanding of their mechanisms needs to be more comprehensive and deep enough. Firstly, this article extensively discusses the adhibition of the ultrasonic‐assisted preparation of metal‐based catalysts and their catalytic performance as electrocatalysts. The obtained metal‐based catalysts exhibit improved electrocatalytic performances due to their high surface area and more exposed active sites. Additionally, this article also points out some urgent unresolved issues in the synthesis of materials using ultrasonic waves and the regulation of electrocatalytic performance. Lastly, the challenges and opportunities in this field are discussed, providing new insights for improving the catalytic performance of transition metal‐based electrocatalysts.    
+
+    
+
 ## Microwave-induced biomass pyrolysis coupled with hydrothermal char composites catalysis to selectively prepare phenols-rich liquid products   
 
 OpenAlex: https://openalex.org/W4390849946    
@@ -212,71 +278,5 @@ Open access: False
 [Haixiao Wei](https://openalex.org/A5011443720), [Kaiming Dong](https://openalex.org/A5088942597), [Xiaoyong Men](https://openalex.org/A5024631271), [Feiqiang Guo](https://openalex.org/A5040141041), [Zhenjie Sun](https://openalex.org/A5015370419), [Lingwei Kong](https://openalex.org/A5050400639), [Ning Zhao](https://openalex.org/A5076596821), [Roger Ruan](https://openalex.org/A5065665210), [Yonghui Bai](https://openalex.org/A5025273762), Fuel. 363(None)] 2024.https://doi.org/10.1016/j.fuel.2024.130872.
     
 In this study, three types of hydrothermal char-supported metal nanoparticle composites (HCM-Fe, HCM-Co, and HCM-Ni) were prepared using pinewood as the raw material via an ion hydrothermal pretreatment followed by microwave heating method, which were then served as both catalysts and microwave absorbers to enhance the rapid pyrolysis of pine wood particles for the selective preparation of phenols-rich bio-oil. The combined effects of hydrothermal carbonization and microwave heating enriched the pore structure of the composite surface, yielding ordered carbon structures such as carbon microspheres, carbon nanotubes, and graphite layers. Also, metal nanoparticles were generated and uniformly anchored on the hydrothermal char matrix by the graphite layers. The three types of hydrothermal carbon-based catalysts exhibit excellent microwave absorption performance, facilitating rapid heating of pine particles at a rate as fast as 5.49 °C/s. Among these catalysts, HCM-Co demonstrates the best catalytic performance, efficiently promoting the cleavage of the β-O-4 bond in lignin and achieving a liquid product yield of 38.4 % at 500 °C. The resulting bio-oil is characterized by its richness in phenolic compounds, accounting for 54.9 % of its composition, and partial mitigation of acidity.    
-
-    
-
-## Mercury removal performance of sulfated MnCe catalyst prepared by tobacco waste combustion synthesis   
-
-OpenAlex: https://openalex.org/W4390848176    
-Open access: False
-    
-[Dejun Peng](https://openalex.org/A5001032759), [Zijian Zhou](https://openalex.org/A5091622818), [Yue Zhou](https://openalex.org/A5050774387), [Qi Guo](https://openalex.org/A5087762384), [Siyi Peng](https://openalex.org/A5013834047), [Xiaowei Liu](https://openalex.org/A5046174386), [Minghou Xu](https://openalex.org/A5078157881), Fuel. 363(None)] 2024.https://doi.org/10.1016/j.fuel.2024.130894.
-    
-MnOx-CeO2 is a promising catalyst for Hg0 removal from coal flue gas at ∼150 °C but exhibits insufficient catalytic activity. Even though sulfation enhances the catalytic activity of MnOx-CeO2, gas-phase sulfation leads to SO2 poisoning and catalyst deactivation. In this study, we developed a liquid-phase sulfation strategy involving the direct combustion of cigarette butts soaked in a solution of sulfate and metal precursors to directly synthesize sulfated MnCe catalyst (SMC). SMC was characterized via N2 adsorption–desorption isotherms, SEM-EDS, XRD, XPS, and Hg-TPD. Both the MnCe catalyst and SMC exhibited good Hg0 oxidation efficiencies (66.46 % and 88.76 %, respectively) at 150 °C. The enhanced performance of SMC was attributed to the generation of abundant chemically adsorbed oxygen species on the SMC surface during sulfation. Moreover, the synergistic effect between the Ce4+ and Mn4+ species contributed to the improved catalytic performance of SMC. This strategy not only provides a one-step synthesis of sulfated catalysts but also has potential applications in Hg0 removal from coal flue gas in coal-fired power plants.    
-
-    
-
-## Functionalized palm biomass-derived activated carbon for the removal of Pt(IV) from a simulated leachate   
-
-OpenAlex: https://openalex.org/W4390848579    
-Open access: False
-    
-[M.L. Firmansyah](https://openalex.org/A5037608299), [Natalia I. Wulan](https://openalex.org/A5093683814), [Alifya P. Nurisca](https://openalex.org/A5093683815), [Karthickeyan Viswanathan](https://openalex.org/A5055560979), [Aishah Abdul Jalil](https://openalex.org/A5022181476), Biomass and Bioenergy. 181(None)] 2024.https://doi.org/10.1016/j.biombioe.2024.107055.
-    
-Over the years, demand for Platinum Group Metals (PGMs) has grown steadily due to increased production of various advanced technologies, such as automotive and electronic products. PGMs are predominantly used in automotive catalysts in the automotive industry. Along with the increase in automotive production, deactivated automotive catalysts pose environmental and health hazards. These wastes are excellent alternative sources of PGMs, which can be exploited to bridge the gap between the demand and supply of PGMs. Adsorption is one of the most popular metal removal/recovery methods due to its various advantages, such as ease of use and cost-effectiveness. In consideration of this method, developing an inexpensive and efficient adsorbent is a crucial point. Thus, activated carbon (AC), derived from a palm kernel shell that is abundantly available in Indonesia, was functionalized using ionic liquid (ACIL) and used for Pt(IV) removal from a simulated automotive catalyst waste leachate. The functionalized AC showed a high adsorption capacity (178.6 mg g−1), in which the adsorption of Pt(IV) followed a chemisorption route, fitting with the monolayer model. The functionalized adsorbent also showed excellent performance during continuous Pt(IV) adsorption from simulated leachate. Recovery of precious metals, such as Pt(IV) and Pd(II), from the simulated leachate containing other metals was possible by maintaining the high hydrochloric acid concentration. Furthermore, targeted separation of Pt(IV) was achieved through sequential desorption using NaClO4. In addition, ACIL showed remarkable reusability after being used for three cycles without showing a noticeable decrease in performance. Thus, this study highlights the capability of a functionalized adsorbent from palm oil industry biomass to recover precious metals from simulated leachate of automotive waste.    
-
-    
-
-## A switchable hydrogenation chemoselectivity of biomass platform compounds based on solvent regulation   
-
-OpenAlex: https://openalex.org/W4390697547    
-Open access: False
-    
-[Yuanjing Zhang](https://openalex.org/A5030854987), [Si Wang](https://openalex.org/A5025818509), [Yusen Yang](https://openalex.org/A5017313282), [Lei Wang](https://openalex.org/A5073216396), [Enze Xu](https://openalex.org/A5023534280), [Quandong Hou](https://openalex.org/A5036334968), [Sylvia Zhao](https://openalex.org/A5044492107), [Tianyong Liu](https://openalex.org/A5007836409), [Song Hong](https://openalex.org/A5043289439), [Lirong Zheng](https://openalex.org/A5024591419), [Feng Li](https://openalex.org/A5081844561), [Xin Zhang](https://openalex.org/A5010723453), [Min Wei](https://openalex.org/A5084055697), Applied Catalysis B: Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.123719.
-    
-Selective catalytic conversion of biomass-derived compounds to fuels and fine chemicals serves as a renewable energy pathway for the partial substitution of fossil resources, in which reaction pathway and selectivity control are key issues. Herein, we report a fully exposed Pt clusters immobilized on CoAl mixed metal oxides catalyst (denoted as Ptn/CoAl-MMOs), which exhibits prominent catalytic performance towards liquid phase hydrogenation reaction of furfural (FAL). Noteworthily, the hydrogenation chemoselectivity can be switched among four products via using four different solvents: tetrahydrofurfuryl alcohol (THFA; yield: 91.4%), furfuryl alcohol (FA; yield: 97.7%), 2-methylfuran (2-MF; yield: 92.1%) and furan (FU; yield: 90.8%) are obtained in ethanol, dioxane, isopropanol and n-hexane solvent, respectively. Experimental studies (in situ FT-IR and TPSR-Mass) combined with theoretical calculations (DFT) reveal that solvent molecules exert an essential influence on the adsorption configuration of FAL via changing the solvent-catalyst and/or substrate-catalyst interaction, which ultimately determines the hydrogenation pathway, key intermediate and final product. This work demonstrates a facile solvent-dependent product-switching strategy within one catalytic system, which opens up potential opportunities for tailoring hydrogenation selectivity in liquid-solid catalytic reactions towards biomass upgrading.    
-
-    
-
-## Impact of the Support Material on the Phosphorus Poisoning on Co-Based Catalysts for Fischer-Tropsch   
-
-OpenAlex: https://openalex.org/W4390938307    
-Open access: False
-    
-[Oscar Ivanez](https://openalex.org/A5004073015), [Albert Miró i Rovira](https://openalex.org/A5030841866), [Edd A. Blekkan](https://openalex.org/A5043935908), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4698356.
-    
-The role of the support on the poisoning by phosphorus of cobalt-based catalyst for Fischer-Tropsch synthesis was investigated. Four different supports were used in this study, γ-alumina, titania and two silica gel with different pore sizes and surface areas. The deactivation varies in intensity depending on the type of support. The trend follows the strength of the metal-support interactions, being γ-alumina the least affected, while both SiO2 were the most affected. These results suggest that in the first case, P interacts mainly with the support while with less interacting supports, P will interact more with the cobalt particles. The addition of different loadings of P was done after the preparation of the catalysts simulating the possible behaviour of a Biomass to Liquids process. The P loading resulted in a decrease in intrinsic activity and a higher hydrogenation activity leading to a reduced production of value products. Conventional characterization of the catalysts showed two different deactivation mechanisms, including site blocking and electronic effects. The addition of phosphorus decreased the metallic dispersion and reducibility of the catalysts, inhibited the hydrogen desorption, and reduced the CO adsorption. Phosphorus species might be altering the catalyst surface, yielding a higher H2/CO ratio adsorbed in the catalyst by the modification of the bonding strength between the cobalt and CO, and preventing the desorption of H2.    
-
-    
-
-## Amide‐Engineered Metal–Organic Porous Liquids Toward Enhanced CO2 Photoreduction Performance   
-
-OpenAlex: https://openalex.org/W4390984299    
-Open access: False
-    
-[Yangrui Xu](https://openalex.org/A5019109699), [Yewei Ren](https://openalex.org/A5078931487), [Guosheng Zhou](https://openalex.org/A5002045375), [Sheng Feng](https://openalex.org/A5017935162), [Zhenzhen Yang](https://openalex.org/A5007353066), [Sheng Dai](https://openalex.org/A5018814519), [Ziyang Lu](https://openalex.org/A5051793007), [Tianhua Zhou](https://openalex.org/A5008135183), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202313695.
-    
-Abstract The development of alternative catalytic systems toward high‐performance CO 2 photoreduction is considered to be a promising approach to address the future energy demand and reduce the CO 2 emissions. However, CO 2 molecules are thermodynamically stable in nature, and thus the adsorption and activation of CO 2 on the surface of catalysts are the key factors to determine the conversion efficiency. Herein, a porous liquid (NH 2 ‐UIO‐66 PL) is demonstrated for efficiently facilitating the adsorption and activation of CO 2 by modification of metal–organic framework (NH 2 ‐UIO‐66) with ionic liquid via amide bonds. CdS/NH 2 ‐UIO‐66 PL exhibits high‐performance CO 2 ‐to‐CO photoreduction with CO yield of 71.37 µmol g −1 h −1 and selectivity of 100%. Experiments and theoretical calculations show that the introduced amide moieties not only enriched the electron density at Zr 4+ active sites but also stabilize * COOH intermediate. The achievements provide an effective strategy for the development of metal–organic frameworks for energy catalysis.    
-
-    
-
-## Study on free radical mechanism and experimental verification in biomass hydropyrolysis conversion to liquid fuels   
-
-OpenAlex: https://openalex.org/W4390963744    
-Open access: True
-    
-[Qingguo Zhou](https://openalex.org/A5084072202), [Zhongyang Luo](https://openalex.org/A5035118503), [Feiting Miao](https://openalex.org/A5044127726), [Guanqun Luo](https://openalex.org/A5017000192), [Liwen Du](https://openalex.org/A5058328144), [Qian Qian](https://openalex.org/A5063092970), Journal of Analytical and Applied Pyrolysis. 177(None)] 2024.https://doi.org/10.1016/j.jaap.2024.106362.
-    
-For the biomass hydropyrolysis vapor upgrading (HPVU) route to be widely adopted, comprehensive and in-depth research on the free radical mechanism involved and the catalysts' performance is essential. Nine kinds of doped catalysts based on Al2O3-TiO2-SiO2(ATS) as composite supports with different Co, Ni and Mo metal loadings were prepared. Changes in the content of free radicals during the pyrolysis of poplar wood under different sources of hydrogen have been observed by the use of electron paramagnetic resonance. The doped catalysts with high conversion efficiency and carbon deposition resistance were screened out. To validate the findings, product analysis and experimental verification under three different poplar pyrolysis routes(i.e., catalytic hydropyrolysis, hydropyrolysis vapor upgrading, and catalytic hydropyrolysis vapor upgrading) were conducted using a long-term continuous lab-scale HPVU system under different pressures. The study reported a carbon deposition of only 1.56 wt% on the catalyst，and the highest yield of C4 + hydrocarbons achieved was 23.81 wt%daf. Based on the observations, the evolution mechanism in the hydrogenation conversion of biomass to liquid fuels was analyzed.    
 
     
