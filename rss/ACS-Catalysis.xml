@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Jan 2024 01:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jan 2024 00:44:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O&lt;sub&gt;2&lt;/sub&gt; Conversion Pathway over Au&#8211;Pd/ZnO</title>
-      <link>https://doi.org/10.1021/acscatal.3c04374</link>
-      <description>Qiang Zhang, Xiaojie Tan, Xinyu Wang, Qinhua Zhang, Chong Qi, Hao Yang, Zhengqiu He, Tao Xing, Mingqing Wang, Mingbo Wu, Wenting Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390614279
-
-                Photocatalytic oxidation of methane to methanol is an attractive process under mild conditions, nevertheless confronting significant challenges in achieving high conversion and selectivity simultaneously. Herein, we propose a strategy for the direct and rapid generation of hydroxyl radicals (&#8226;OH) from O2 (O2 &#8594; *OOH &#8594; &#8226;OH) by rational design of Au&#8211;Pd/ZnO photocatalyst, skipping water-soluble H2O2 and avoiding H2O2 diffusion. For photocatalytic methane oxidation at ambient temperature, the yield and selectivity of CH3OH over the optimized 1.0% AuPd0.5/ZnO catalyst were as high as 81.0 &#956;mol&#183;h&#8211;1 and 88.2%, respectively, exceeding that of most reported systems. The formation of Au&#8211;Pd alloys could improve the O2 adsorption and the cleavage of the O&#8211;O bond in *OOH, facilitating the efficient direct formation of &#8226;OH and increasing the CH3OH yield and selectivity. This work provides some guidance for the delicate design of composite photocatalysts for efficient selective photocatalytic methane oxidation and O2 utilization.</description>
-      <author>Qiang Zhang, Xiaojie Tan, Xinyu Wang, Qinhua Zhang, Chong Qi, Hao Yang, Zhengqiu He, Tao Xing, Mingqing Wang, Mingbo Wu, Wenting Wu</author>
-      <pubDate>Fri, 05 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04374</guid>
-    </item>
     <item>
       <title>Anaerobic Ammodehydrogenation of Ethane to Acetonitrile over Ga-Loaded H-FER Zeolite Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.3c05286</link>
@@ -256,6 +246,16 @@
       <author>Zong-Heng Wang, Brian N. DiMarco, Mehmed Z. Ertem, Renato N. Sampaio, Gerald F. Manbeck</author>
       <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04589</guid>
+    </item>
+    <item>
+      <title>Insight into the Structure of Mn-NiS&lt;sub&gt;2&lt;/sub&gt; during Urea Oxidation Using Combined In Situ X-ray Absorption Spectroscopy and Attenuated Total Reflectance Surface-Enhanced Infrared Absorption Spectroscopy</title>
+      <link>https://doi.org/10.1021/acscatal.3c05369</link>
+      <description>Niangao Duan, Tianxin Hou, Wei Zheng, Yafei Qu, Peichen Wang, Jun Yang, Yang Yang, Dongdong Wang, Jitang Chen, Qianwang Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390734560
+
+                The urea electrocatalytic oxidation reaction (UOR) has enormous potential as an ideal alternative anode reaction for water splitting owing to its lower thermodynamic equilibrium potential of 0.37 V versus reversible hydrogen electrode (vs RHE). Nickel-based materials, especially NiOOH, are considered to be one of the most promising non-noble metal catalysts for UOR due to their inexpensive cost and rich abundance. However, NiOOH displays a high overpotential and poor long-term stability. Herein, our density functional theory calculations show that the rate-determining step for UOR is desorption of CO2 on NiOOH, and Mn-doped NiOOH has the lowest energy for CO2 desorption. Hence, we prepared a Mn-NiS2 precatalyst that would transform into the active form of Mn-NiOOH during the electrochemical process. The catalyst exhibits good performance for UOR, achieving 100 mA cm&#8211;2 at 1.426 V (vs RHE, without IR correction) for 200 h with no significant voltage change, which is rarely reported for nonprecious-metal UOR catalysts. X-ray absorption near-edge spectroscopy and X-ray diffraction characterization show the transformation from sulfide to oxyhydroxide when a voltage is applied, while in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) proves that Mn-NiOOH accelerates the desorption of CO2 compared to NiOOH.</description>
+      <author>Niangao Duan, Tianxin Hou, Wei Zheng, Yafei Qu, Peichen Wang, Jun Yang, Yang Yang, Dongdong Wang, Jitang Chen, Qianwang Chen</author>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05369</guid>
     </item>
   </channel>
 </rss>

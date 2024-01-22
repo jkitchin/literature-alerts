@@ -1,22 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Jan 21 01:17:02 2024
+Created on Mon Jan 22 00:43:45 2024
 
-Found 48 results from 2024-01-07 to 2024-01-21
+Found 48 results from 2024-01-08 to 2024-01-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## PdOs bimetallene for energy-saving hydrogen production coupled with ethanol electro-oxidation   
-
-OpenAlex: https://openalex.org/W4390630246    
-Open access: False
-    
-[Ziqiang Wang](https://openalex.org/A5051756286), [Min Li](https://openalex.org/A5052024256), [Shan Xu](https://openalex.org/A5060144924), [Heng-Qing Ye](https://openalex.org/A5011020397), [Kai Deng](https://openalex.org/A5047495310), [You Xu](https://openalex.org/A5078327202), [Hongjing Wang](https://openalex.org/A5070260840), [Liang Wang](https://openalex.org/A5086664647), Materials Today Energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101493.
-    
-The replacement of sluggish oxygen evolution reaction by more thermodynamically favorable ethanol oxidation reaction (EOR) is a promising strategy for co-production of hydrogen and valuable chemicals in energy-saving mode. Here, we propose the synthesis of highly curved PdOs bimetallene, which possesses high active sites atomic utilization and conductivity. Furthermore, alloy effect can regulate electronic structure and optimize adsorption energy of reactants. Therefore, PdOs bimetallene exhibits superior performance for hydrogen evolution reaction (HER) and EOR under basic solutions, with overpotential of 36 mV at 10 mA cm-2 and mass activity of 1.51 mA μg-1Pd, respectively. In the EOR-HER co-electrolysis system, PdOs bimetallene requires low voltage of 0.801 V for concurrent production of hydrogen and acetate at 50 mA cm−2, which greatly reduces energy consumption compared to conventional water electrolysis (1.976 V). This method provides a promising strategy for designing bimetallic electrocatalysts towards simultaneous energy-saving generation of hydrogen and high-value chemicals by replacing sluggish OER with more favorable ethanol oxidation reaction.    
-
-    
 
 ## Reinforced electrochemical energy storage through controlled construction of hierarchical hollow β-Ni(OH)2 microspheres enriched with oxygen vacancies induced by functionalized MWCNTs   
 
@@ -282,6 +271,17 @@ Developing clean energy sources is vital amid the global energy crisis. Hydrogen
 
     
 
+## High‐Performance Reversible Oxygen Reduction/Evolution Gas Diffusion Electrodes with Multivalent Cation Doped Core‐Shell Mn/Mn3O4 Catalysts   
+
+OpenAlex: https://openalex.org/W4390685247    
+Open access: True
+    
+[Yu Pei](https://openalex.org/A5044910731), [Wen Yu Wu](https://openalex.org/A5083904238), [David P. Wilkinson](https://openalex.org/A5020311496), [Előd Gyenge](https://openalex.org/A5006488989), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202300558 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202300558)).
+    
+Abstract The development of precious‐metal‐free catalysts with bifunctional activities for both oxygen reduction and evolution reactions (ORR/OER) is crucial for the advancement of regenerative fuel cells and rechargeable metal−air batteries. Manganese oxides (MnO x ) have emerged as promising bifunctional catalysts. However, MnO x electrodes typically exhibit poor ORR/OER cycling stability owing to polarization‐induced MnO x redox reactions and phase transition. To address this issue, we developed metallic cation (i. e., Co 2+ , Ni 2+ , Cu 2+ , or Bi 3+ ) doped MnO x /carbon electrodes using potentiodynamic, potentiostatic and galvanostatic methods. Among the explored dopant cations Ni 2+ intercalated into MnO x under acidic conditions using a slow‐scan cyclic voltammetry method, significantly enhanced the ORR/OER activity and stability of MnO x . Alongside electrochemical doping, MnO x also underwent redox reactions leading to changes in Mn valence and phase transitions. The Ni‐incorporated MnO x gas diffusion electrode (GDE) demonstrated exceptional stability for over 120 accelerated OER and ORR cycles at ±10 mA cm −2 in 5 M KOH, surpassing the performance of the Pt/C−IrO 2 benchmark. Furthermore, it achieved OER current densities of approximately 22 mA cm −2 at 1.65 V RHE , which was twice as high as that of Pt/C−IrO 2 .    
+
+    
+
 ## Advancing oxygen evolution electrocatalysis with human-machine intelligence   
 
 OpenAlex: https://openalex.org/W4391043168    
@@ -315,17 +315,6 @@ The hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) ar
 
     
 
-## Material Dynamics of Manganese-Based Oxychlorides for Oxygen Evolution Reaction in Acid   
-
-OpenAlex: https://openalex.org/W4390918522    
-Open access: False
-    
-[Ruihan Li](https://openalex.org/A5014692849), [Dennis Nordlund](https://openalex.org/A5015462149), [Linsey C. Seitz](https://openalex.org/A5037183181), Chemistry of Materials. None(None)] 2024.https://doi.org/10.1021/acs.chemmater.3c02362.
-    
-Earth-abundant manganese-based oxides have emerged as promising alternatives to noble-metal-based catalysts for the oxygen evolution reaction (OER) in acidic conditions; however, their inferior activity and stability present critical challenges for the sustainable production of hydrogen via water electrolysis. Moving beyond oxides, heteroanionic materials, which incorporate anions with lower electronegativity than oxygen, have shown potential for improving the OER performance, but a detailed understanding of the underlying mechanisms is lacking. Here, we investigate manganese-based oxychlorides (Mn8O10Cl3 and FeMn7O10Cl3) that exhibit excellent activity and stability for acidic OER to elucidate material property dynamics and correlate them with OER behaviors. Our rigorous electrochemical stability testing reveals that the high operating potential mitigates Mn dissolution over prolonged exposure to the OER conditions. Through a combination of ex situ and in situ surface and bulk-sensitive X-ray spectroscopy analyses, we observe a trade-off between increasing Mn valence and maintaining structural integrity, which results in dynamic bond length changes within the [MnCl6] octahedra during the activation and degradation processes of these oxychloride catalysts. This study provides insights into the fundamental relationships between the chemical, electronic, and geometric properties of the catalysts and their electrocatalytic outcomes.    
-
-    
-
 ## Elucidating the Mechanism of Oxygen Evolution Reaction on Nanostructured Copper-Based Catalysts   
 
 OpenAlex: https://openalex.org/W4390806435    
@@ -334,6 +323,17 @@ Open access: False
 [Chi Xie](https://openalex.org/A5063247720), [Kaili Zhang](https://openalex.org/A5039204587), [Yongyong Lai](https://openalex.org/A5087830054), [Lili Du](https://openalex.org/A5075927340), [Jing Ma](https://openalex.org/A5090283553), [Shouwu Xu](https://openalex.org/A5089339474), [Ping Qiu](https://openalex.org/A5061092581), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05313.
     
 In water splitting processes, the oxygen evolution reaction (OER) is one of the main kinetic control steps that should be triggered by high-efficiency catalysts. A series of Cu-based catalysts are considered potential candidates. This work provides a simple and effective strategy for fabricating large-scale copper-based catalysts by anodization on a copper foil at room temperature in a KOH solution. The representative petal-shaped CuO and Cu(OH)2 nanorods are obtained. The corresponding surface areas are 0.0197 and 1.966 m2/g, respectively. The surface wettability of Cu(OH)2 is lower than that of CuO. The catalytic performance is studied by linear sweep voltammetry (LSV). The results show that the potential of the OER for CuO at 10 mA/cm2 is 1.67 V, which reduces by 130 mV compared to Cu(OH)2. The CuO could keep 10 mA/cm2 after a 1 h chronoamperometry test, which is about 3 times higher than that of Cu(OH)2. To verify the distinguishing catalytic difference between CuO and Cu(OH)2, in situ Raman spectra have been recorded. Inspiringly, the CuIII active specie at 603 cm–1 is captured during the OER process on CuO instead of Cu(OH)2. The related mechanism has been discussed in detail.    
+
+    
+
+## Material Dynamics of Manganese-Based Oxychlorides for Oxygen Evolution Reaction in Acid   
+
+OpenAlex: https://openalex.org/W4390918522    
+Open access: False
+    
+[Ruihan Li](https://openalex.org/A5014692849), [Dennis Nordlund](https://openalex.org/A5015462149), [Linsey C. Seitz](https://openalex.org/A5037183181), Chemistry of Materials. None(None)] 2024.https://doi.org/10.1021/acs.chemmater.3c02362.
+    
+Earth-abundant manganese-based oxides have emerged as promising alternatives to noble-metal-based catalysts for the oxygen evolution reaction (OER) in acidic conditions; however, their inferior activity and stability present critical challenges for the sustainable production of hydrogen via water electrolysis. Moving beyond oxides, heteroanionic materials, which incorporate anions with lower electronegativity than oxygen, have shown potential for improving the OER performance, but a detailed understanding of the underlying mechanisms is lacking. Here, we investigate manganese-based oxychlorides (Mn8O10Cl3 and FeMn7O10Cl3) that exhibit excellent activity and stability for acidic OER to elucidate material property dynamics and correlate them with OER behaviors. Our rigorous electrochemical stability testing reveals that the high operating potential mitigates Mn dissolution over prolonged exposure to the OER conditions. Through a combination of ex situ and in situ surface and bulk-sensitive X-ray spectroscopy analyses, we observe a trade-off between increasing Mn valence and maintaining structural integrity, which results in dynamic bond length changes within the [MnCl6] octahedra during the activation and degradation processes of these oxychloride catalysts. This study provides insights into the fundamental relationships between the chemical, electronic, and geometric properties of the catalysts and their electrocatalytic outcomes.    
 
     
 
@@ -513,17 +513,6 @@ This study employed a one-step hydrothermal process to synthesize Ni3S2/Fe3O4 na
 
     
 
-## Regulating Ru‐O Bonding Interactions by Ir Doping Boosts the Acid Oxygen Evolution Performance   
-
-OpenAlex: https://openalex.org/W4390615127    
-Open access: False
-    
-[Jianxin Zeng](https://openalex.org/A5041442978), [Zhengxin Qian](https://openalex.org/A5024235028), [Qing-Na Zheng](https://openalex.org/A5085235719), [Jing‐Hua Tian](https://openalex.org/A5003092023), [Hua Zhang](https://openalex.org/A5056450584), [Jianfeng Li](https://openalex.org/A5090949378), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301222.
-    
-Highly active and stable oxygen evolution reaction (OER) catalysts are crucial for the large‐scale application of proton exchange membrane water electrolyzers. However, the dynamic reconfiguration of the catalyst surface structure and active centers is still undefined, which greatly hinders the development and application of efficient OER catalysts. Herein, we report an IrRuOx/C catalyst with a facile low‐temperature synthesis route, which can reach 10 mA cm‐2 at an overpotential of 217 mV with a Tafel slope as low as 39.4 mV dec‐1, and yields a mass activity 61 times that of commercial IrO2/C at an overpotential of 300 mV. The lattice oxygen structure of RuOx is stabilized by the introduction of Ir species, thus greatly promoting the OER activity and durability. Further in situ Raman reveals that RuOx emerges as the active species at high potentials, and Ru‐O bonding interactions are enhanced with Ir regulation, stabilizing the solvation of Ru at high potentials and accelerating the nucleophilic attack of water molecules, leading to the improved OER performance. This work deepens the fundamental understanding of OER and offers an effective way to advance the utilization of Ru‐based OER catalysts.    
-
-    
-
 ## Polypyrrole-wrapped Hofmann type metal–organic framework nanoflowers to boost oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4390843720    
@@ -532,5 +521,16 @@ Open access: False
 [Yuhang Wu](https://openalex.org/A5007655622), [Yuwen Li](https://openalex.org/A5010145000), [Ling Shen](https://openalex.org/A5043084585), [Quanwen Pan](https://openalex.org/A5067737099), [Ye Tao](https://openalex.org/A5058826825), [Junkuo Gao](https://openalex.org/A5086455686), Journal of Solid State Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jssc.2024.124559.
     
 The exploration of efficient and stable metal-organic frameworks (MOFs) for electrocatalytic oxygen evolution reaction (OER) has received increasing attention. However, the limited electronic conductivity of MOFs hinders the electron transfer rate. Herein, we report the preparation of conducting polypyrrole (PPy)-modified MOF nanoflowers (MOF-NFs@PPy) as promising electrocatalysts for OER. The PPy layer significantly increases the electrical conductivity and modulates the ionic transmittance between MOF-NFs and the electrolyte. The interaction of PPy with the MOF-NFs modifies the electronic structure and improves the reaction efficiency at the active sites. The obtained MOF-NFs@PPy exhibits excellent electrocatalytic activity with an OER overpotential of only 218 mV@10 mA cm−2 and small Tafel slope of 47.4 mV dec−1. In addition, the MOF-NFs@PPy exhibited excellent long-term stability (>24 h). This work may provide a new idea and a novel construction strategy for MOFs to improve OER performance.    
+
+    
+
+## Benchmarking Stability of Iridium Oxide in Acidic Media under Oxygen Evolution Conditions: A Review: Part II   
+
+OpenAlex: https://openalex.org/W4390987310    
+Open access: True
+    
+[James Murawski](https://openalex.org/A5028610474), [Søren B. Scott](https://openalex.org/A5004372016), [Reshma R. Rao](https://openalex.org/A5027366818), [Katie Rigg](https://openalex.org/A5040293372), [Christopher Mark Zalitis](https://openalex.org/A5030674093), [James Stevens](https://openalex.org/A5015505628), [Jonathan Sharman](https://openalex.org/A5007586547), [Gareth Hinds](https://openalex.org/A5055131883), [Ifan E. L. Stephens](https://openalex.org/A5039064548), Johnson Matthey Technology Review. None(None)] 2024.https://doi.org/10.1595/205651324x17055018154113.
+    
+Part I (1) introduced state-of-the-art proton exchange membrane (PEM) electrolysers with iridium-based catalysts for oxygen evolution at the anode in green hydrogen applications. Aqueous model systems and full cell testing were discussed along with proton exchange membrane water electrolyser (PEMWE) catalyst degradation mechanisms, types of iridium oxide, mechanisms of iridium dissolution and stability studies. In Part II, we highlight considerations and best practices for the investigation of activity and stability of oxygen evolution catalysts via short term testing.    
 
     

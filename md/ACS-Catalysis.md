@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jan 21 01:17:19 2024
+Created on Mon Jan 22 00:44:03 2024
 
-Found 25 results from 2024-01-07 to 2024-01-21
+Found 25 results from 2024-01-08 to 2024-01-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Photocatalytic Oxidation of Methane to Methanol by Constructing a Rapid O2 Conversion Pathway over Au–Pd/ZnO   
-
-OpenAlex: https://openalex.org/W4390614279    
-Open access: False
-    
-[Qiang Zhang](https://openalex.org/A5039837606), [Xiaojie Tan](https://openalex.org/A5005323067), [Xinyu Wang](https://openalex.org/A5021984184), [Qinhua Zhang](https://openalex.org/A5052585046), [Chong Qi](https://openalex.org/A5074680349), [Hao Yang](https://openalex.org/A5033655227), [Zhengqiu He](https://openalex.org/A5021213936), [Tao Xing](https://openalex.org/A5022433710), [Mingqing Wang](https://openalex.org/A5080772741), [Mingbo Wu](https://openalex.org/A5063554744), [Wenting Wu](https://openalex.org/A5080124839), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04374.
-    
-Photocatalytic oxidation of methane to methanol is an attractive process under mild conditions, nevertheless confronting significant challenges in achieving high conversion and selectivity simultaneously. Herein, we propose a strategy for the direct and rapid generation of hydroxyl radicals (•OH) from O2 (O2 → *OOH → •OH) by rational design of Au–Pd/ZnO photocatalyst, skipping water-soluble H2O2 and avoiding H2O2 diffusion. For photocatalytic methane oxidation at ambient temperature, the yield and selectivity of CH3OH over the optimized 1.0% AuPd0.5/ZnO catalyst were as high as 81.0 μmol·h–1 and 88.2%, respectively, exceeding that of most reported systems. The formation of Au–Pd alloys could improve the O2 adsorption and the cleavage of the O–O bond in *OOH, facilitating the efficient direct formation of •OH and increasing the CH3OH yield and selectivity. This work provides some guidance for the delicate design of composite photocatalysts for efficient selective photocatalytic methane oxidation and O2 utilization.    
-
-    
 
 ## Anaerobic Ammodehydrogenation of Ethane to Acetonitrile over Ga-Loaded H-FER Zeolite Catalysts   
 
@@ -278,5 +267,16 @@ Open access: False
 [Zong-Heng Wang](https://openalex.org/A5077036585), [Brian N. DiMarco](https://openalex.org/A5055431890), [Mehmed Z. Ertem](https://openalex.org/A5034872527), [Renato N. Sampaio](https://openalex.org/A5006832213), [Gerald F. Manbeck](https://openalex.org/A5059646806), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04589.
     
 Electronic tuning of metal hydrides enables precise control over potentials, mechanisms, selectivity, and rates of electrocatalytic reactions by regulating bond dissociation free energies such as the hydricity (ΔGH–°) and pKa of the catalyst. Here, we investigate a series of electronically tuned ruthenium hydrido complexes that are isostructural at the metal center: [Ru(4,4′-R2-bpy)2(CO)H]+ (R = CF3, Cl, H, CH3, and CH3O; bpy = 2,2′-bipyridine) (denoted as (R)Ru–H+). A substantial 22 kcal mol–1 hydricity range is available across five complexes in three stable oxidation states: (R)Ru–H+, (R)Ru–H0, and (R)Ru–H–. Thermodynamic and mechanistic predictions of electrocatalytic proton reduction were tested experimentally by reducing protons from weak acids to H2. Two mechanisms are observed, depending on the acid strength and the catalyst hydricity. The rate constants for hydride transfer and protonation of the catalyst were, in some cases, extracted from the analysis of cyclic voltammetry data. A key finding is a 400 mV decrease in the catalytic overpotential for H2 production by using a doubly reduced electron-poor metal hydride instead of a singly reduced electron-rich metal hydride. The former also exhibits a higher rate constant for hydride transfer, representing a strategy to disconnect rate and free energy relationships.    
+
+    
+
+## Insight into the Structure of Mn-NiS2 during Urea Oxidation Using Combined In Situ X-ray Absorption Spectroscopy and Attenuated Total Reflectance Surface-Enhanced Infrared Absorption Spectroscopy   
+
+OpenAlex: https://openalex.org/W4390734560    
+Open access: False
+    
+[Niangao Duan](https://openalex.org/A5000810066), [Tianxin Hou](https://openalex.org/A5052619326), [Wei Zheng](https://openalex.org/A5043800415), [Yafei Qu](https://openalex.org/A5042856845), [Peichen Wang](https://openalex.org/A5008620166), [Jun Yang](https://openalex.org/A5087731077), [Yang Yang](https://openalex.org/A5050709202), [Dongdong Wang](https://openalex.org/A5052077971), [Jitang Chen](https://openalex.org/A5034646167), [Qianwang Chen](https://openalex.org/A5014087781), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05369.
+    
+The urea electrocatalytic oxidation reaction (UOR) has enormous potential as an ideal alternative anode reaction for water splitting owing to its lower thermodynamic equilibrium potential of 0.37 V versus reversible hydrogen electrode (vs RHE). Nickel-based materials, especially NiOOH, are considered to be one of the most promising non-noble metal catalysts for UOR due to their inexpensive cost and rich abundance. However, NiOOH displays a high overpotential and poor long-term stability. Herein, our density functional theory calculations show that the rate-determining step for UOR is desorption of CO2 on NiOOH, and Mn-doped NiOOH has the lowest energy for CO2 desorption. Hence, we prepared a Mn-NiS2 precatalyst that would transform into the active form of Mn-NiOOH during the electrochemical process. The catalyst exhibits good performance for UOR, achieving 100 mA cm–2 at 1.426 V (vs RHE, without IR correction) for 200 h with no significant voltage change, which is rarely reported for nonprecious-metal UOR catalysts. X-ray absorption near-edge spectroscopy and X-ray diffraction characterization show the transformation from sulfide to oxyhydroxide when a voltage is applied, while in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) proves that Mn-NiOOH accelerates the desorption of CO2 compared to NiOOH.    
 
     
