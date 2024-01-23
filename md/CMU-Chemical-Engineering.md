@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Jan 22 00:44:04 2024
+Created on Tue Jan 23 00:42:51 2024
 
-Found 6 results from 2024-01-08 to 2024-01-22
+Found 7 results from 2024-01-09 to 2024-01-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -67,6 +67,17 @@ OpenAlex: https://openalex.org/W4390690350
 Open access: False
     
 [Andrew Lee](https://openalex.org/A5084085179), [Dan Gunter](https://openalex.org/A5027568646), [K. Beattie](https://openalex.org/A5056812433), [Miguel Zamarripa](https://openalex.org/A5015881602), [Timothy V. Bartholomew](https://openalex.org/A5001807730), [Douglas Allan](https://openalex.org/A5070732014), [Bethany L. Nicholson](https://openalex.org/A5071938321), [Adam Atia](https://openalex.org/A5075333104), [John Eslick](https://openalex.org/A5054865843), [John Daniel Siirola](https://openalex.org/A5047681120), [Brandon Paul](https://openalex.org/A5056743346), [Alexander W. Dowling](https://openalex.org/A5017631366), [Anca Ostace](https://openalex.org/A5016290678), [Alejandro R. Garciadiego](https://openalex.org/A5006316725), [Radhakrishna Tumbalam Gooty](https://openalex.org/A5081197362), [Ludovico Bianchi](https://openalex.org/A5067042879), [Anuja Deshpande](https://openalex.org/A5020453592), [Jaffer Ghouse](https://openalex.org/A5028388078), [Robert B. Parker](https://openalex.org/A5068954371), [P. Yang](https://openalex.org/A5006493031), [Carl D. Laird](https://openalex.org/A5030631754), [Makayla Shepherd](https://openalex.org/A5050358306), [Gao Xian](https://openalex.org/A5071061007), [Quang Minh Le](https://openalex.org/A5049947112), [Oluwamayowa Amusat](https://openalex.org/A5047606322), [Marissa R Engle](https://openalex.org/A5093670577), [Andres J Calderon](https://openalex.org/A5010059922), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022.https://doi.org/10.18141/2278834.
+    
+No abstract    
+
+    
+
+## Pyomo v6.2   
+
+OpenAlex: https://openalex.org/W4391048254    
+Open access: False
+    
+[David L. Woodruff](https://openalex.org/A5071131174), [Gabe Hackebeil](https://openalex.org/A5066371313), [Carl D. Laird](https://openalex.org/A5030631754), [Bethany L. Nicholson](https://openalex.org/A5071938321), [William E. Hart](https://openalex.org/A5021830817), [John Daniel Siirola](https://openalex.org/A5047681120), [Jean‐Paul Watson](https://openalex.org/A5027375769), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022.https://doi.org/10.11578/dc.20221016.1.
     
 No abstract    
 

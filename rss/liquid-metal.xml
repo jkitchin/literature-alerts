@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Jan 2024 00:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 00:42:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -68,6 +68,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3gc03906d</guid>
     </item>
     <item>
+      <title>Friedel-Crafts Acylation of Aromatics with Acetic Anhydrideover Nano-Sized Rare Earth Cation Exchanged ZSM-5 Catalysts</title>
+      <link>https://doi.org/10.1166/sam.2023.4570</link>
+      <description>Walaa Alharbi, L. Selva Roselin, Science of Advanced Materials. 15(12)] 2023. https://openalex.org/W4391054723
+
+                Friedel-crafts acylation of aromatic compounds used to synthesize aromatic ketones and significance has commercial importance in diverse areas of fine chemical synthesis and pharmaceutical manufacturing industry. Conventionally, acylation reactions are catalysed by corrosive metal halides or mineral acids. The present work reports on the catalytic activity of nanocrystalline ZSM-5 and rare earth metal cation such as La 3+ , Ce 3+ and Nd 3+ exchanged ZSM-5 in the liquid phase acylation of veratrole with acetic anhydride. The catalyst was thoroughly characterized for its structure. The nanocrystalline Ce-ZSM-5 displayed highest activity towards the acylation of veratrole. The catalytic performance of Ce-ZSM-5 was used to compare its activity for the acylation of other aromatics; such as toluene, anisole and veratrole. The nanocrystalline Ce-ZSM-5 shows highest activity over nanocrystalline ZSM-5 in acylation reactions of aromatics. It was established that smaller size crystal of Ce-ZSM-5showed superior activity, which is due to the enhanced density of acidic sites along with increased external surface area of smaller crystal which facilitate the activity of the acylation reaction. The catalysts used in this study are reusable without any loss of activity.</description>
+      <author>Walaa Alharbi, L. Selva Roselin</author>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1166/sam.2023.4570</guid>
+    </item>
+    <item>
       <title>Catalytic Degradation of Lignin over Sulfonyl-Chloride-Modified Lignin-Based Porous Carbon-Supported Metal Phthalocyanine: Effect of Catalyst Concentrations</title>
       <link>https://doi.org/10.3390/molecules29020347</link>
       <description>Fei Du, Xue-Quan Xian, Peiduo Tang, Yanming Liu, Molecules. 29(2)] 2024. https://openalex.org/W4390702062
@@ -76,16 +86,6 @@
       <author>Fei Du, Xue-Quan Xian, Peiduo Tang, Yanming Liu</author>
       <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/molecules29020347</guid>
-    </item>
-    <item>
-      <title>Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation</title>
-      <link>https://doi.org/10.2139/ssrn.4696668</link>
-      <description>Qiuju Wang, Tian Zhou, Chunhui Wang, Longwei Li, Lianli Zou, No host. None(None)] 2024. https://openalex.org/W4390910649
-
-                Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts to generate green hydrogen at room temperature, is a promising chemical hydrogen storage technology that can replace fossil fuels in energy-related devices. In this work, a novel nanocatalyst with ultrafine palladium nanoparticles immobilized on transition metal atom-decorated carbon supports was synthesized for the dehydrogenation of liquid FA. Via a hydrothermal of glucose and carbonitride with a following Co doping through a heat treatment process, porous carbons with evenly dispersed Co-sites on them were strategically achieved, which could be used as a support for immobilizing Pd nanoparticles. The obtained Pd/NC-Co1% catalyst exhibited much superior catalytic activities to those samples without Co doping on the support (Pd/NC and PdCo1%/NC), showing an impressive turnover frequency of 3045 h&#8722;1 at 50 &#176;C for FA dehydrogenation. Other transition metal species such as Fe- and Ni-decorated carbon nanocatalysts also showed an improved catalytic activity for FA dehydrogenation. This work not only provide an efficient method to synthesize nanocatalysts with ultrafine metal nanoparticles but also demonstrate that highly dispersed metal atoms on the support can effectively affect the immobilized nanoparticles, resulting in an enhancement of catalytic performance.</description>
-      <author>Qiuju Wang, Tian Zhou, Chunhui Wang, Longwei Li, Lianli Zou</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4696668</guid>
     </item>
     <item>
       <title>Developing and Understanding Leaching-Resistant Cobalt Nanoparticles Via N/P Incorporation for Liquid Phase Hydroformylation</title>
@@ -98,24 +98,14 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4690198</guid>
     </item>
     <item>
-      <title>Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters</title>
-      <link>https://doi.org/10.1002/anie.202317594</link>
-      <description>Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4390637146
+      <title>Boosting the Catalytic Activity of Pd-Nanocatalysts by Anchoring Transition Metal Atoms on Carbon Supports for Formic Acid Dehydrogenation</title>
+      <link>https://doi.org/10.2139/ssrn.4696668</link>
+      <description>Qiuju Wang, Tian Zhou, Chunhui Wang, Longwei Li, Lianli Zou, No host. None(None)] 2024. https://openalex.org/W4390910649
 
-                Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site&#8208;driven C&#8208;C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal&#8208;acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce&#8208;HY catalysts at 300 &#176;C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure&#8208;performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably&#8208;improved adsorption capability towards short&#8208;chain intermediates.</description>
-      <author>Xueting Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang</author>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202317594</guid>
-    </item>
-    <item>
-      <title>Polyethylene Upgrading to Liquid Fuels Boosted by Atomic Ce Promoters</title>
-      <link>https://doi.org/10.1002/ange.202317594</link>
-      <description>Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4390637288
-
-                Hydrocracking catalysis is a key route to plastic waste upgrading, but the acid site&#8208;driven C&#8208;C cleavage step is relatively sluggish in conventional bifunctional catalysts, dramatically effecting the overall efficiency. We demonstrate here a facile and efficient way to boost the reactivity of acid sites by introducing Ce promoters into Pt/HY catalysts, thus achieving a better metal&#8208;acid balance. Remarkably, 100 % of LDPE can be converted with 80.9 % selectivity of liquid fuels over the obtained Pt/5Ce&#8208;HY catalysts at 300 &#176;C in 2 h. For comparison, Pt/HY only gives 38.8% of LDPE conversion with 21.3% selectivity of liquid fuels. Through multiple experimental studies on the structure&#8208;performance relationship, the Ce species occupied in the supercage are identified as the actual active sites, which possess remarkably&#8208;improved adsorption capability towards short&#8208;chain intermediates.</description>
-      <author>Xia Wu, Xiao Wang, Lingling Zhang, Xiaomei Wang, Shuyan Song, Hongjie Zhang</author>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202317594</guid>
+                Liquid formic acid (FA) dehydrogenation, which needs high-performance catalysts to generate green hydrogen at room temperature, is a promising chemical hydrogen storage technology that can replace fossil fuels in energy-related devices. In this work, a novel nanocatalyst with ultrafine palladium nanoparticles immobilized on transition metal atom-decorated carbon supports was synthesized for the dehydrogenation of liquid FA. Via a hydrothermal of glucose and carbonitride with a following Co doping through a heat treatment process, porous carbons with evenly dispersed Co-sites on them were strategically achieved, which could be used as a support for immobilizing Pd nanoparticles. The obtained Pd/NC-Co1% catalyst exhibited much superior catalytic activities to those samples without Co doping on the support (Pd/NC and PdCo1%/NC), showing an impressive turnover frequency of 3045 h&#8722;1 at 50 &#176;C for FA dehydrogenation. Other transition metal species such as Fe- and Ni-decorated carbon nanocatalysts also showed an improved catalytic activity for FA dehydrogenation. This work not only provide an efficient method to synthesize nanocatalysts with ultrafine metal nanoparticles but also demonstrate that highly dispersed metal atoms on the support can effectively affect the immobilized nanoparticles, resulting in an enhancement of catalytic performance.</description>
+      <author>Qiuju Wang, Tian Zhou, Chunhui Wang, Longwei Li, Lianli Zou</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4696668</guid>
     </item>
     <item>
       <title>All Platinum Group Metal-Free and Durable Catalysts for Direct Borohydride Fuel Cells</title>
@@ -138,16 +128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.molliq.2024.124060</guid>
     </item>
     <item>
-      <title>Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys</title>
-      <link>https://doi.org/10.2139/ssrn.4693252</link>
-      <description>Xin Cao, Yong-Kui Chang, Yang-Yang Yang, Hongfang Ma, Weiming Liu, Yixin L&#252;, Shyue-Yen Yao, No host. None(None)] 2024. https://openalex.org/W4390796939
-
-                This study investigates the catalytic reduction of CO2 using various ratios of Ga-based liquid alloys under different conditions. We explored the doping of liquid gallium with metals like indium (In) and magnesium (Mg) through mechanical stirring and heating. The alloys, once prepared, were exposed to CO2 in a reactor, with the Ga-In-Mg alloy demonstrating optimal reaction effects. In an exemplary synthesis, 1g of Ga was combined with 30wt.% In and 7wt.% Mg, yielding a 7wt.% Ga-In-Mg alloy. This alloy, when reacted with CO2 for 10 hours, exhibited a maximum weight gain of 445 mg. Elemental analysis showed a carbon content increase from 4.56% to 72.56% post-reaction. The reacted alloy, post-acid washing and electron microscopy examination, revealed the production of carbon fibers approximately 7 &#956;m wide. The primary objectives of this research were to identify the optimal temperature for CO2 reduction by the alloy and to determine the most efficient alloy catalyst using orthogonal experimental methods. Furthermore, we aimed to elucidate the catalytic mechanism of gallium-based liquid metal in CO2 reduction. The study also involved analyzing the adsorption and reaction processes by fitting the adsorption and reaction kinetic curves of the liquid metal with CO2. Achieving these objectives could enable the conversion of CO2 into solid carbon products, aligning with current environmental and sustainable development goals. This research offers new insights and innovative approaches to tackling energy-related challenges, highlighting the potential of liquid metal alloys in carbon capture and reduction applications.</description>
-      <author>Xin Cao, Yong-Kui Chang, Yang-Yang Yang, Hongfang Ma, Weiming Liu, Yixin L&#252;, Shyue-Yen Yao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4693252</guid>
-    </item>
-    <item>
       <title>Review of electrocatalytic reduction of CO2 on carbon supported films</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.01.022</link>
       <description>Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian, International Journal of Hydrogen Energy. 57(None)] 2024. https://openalex.org/W4390721078
@@ -156,6 +136,16 @@
       <author>Afdhal Yuda, Parisa Ebrahimi, Josephine Selvaraj, Anand Kumar, Vaidyanathan Subramanian</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.022</guid>
+    </item>
+    <item>
+      <title>Conversion of Co2 into Carbon Fiber Using Ga-Based Liquid Alloys</title>
+      <link>https://doi.org/10.2139/ssrn.4693252</link>
+      <description>Xin Cao, Yong-Kui Chang, Yang-Yang Yang, Hongfang Ma, Weiming Liu, Yixin L&#252;, Shyue-Yen Yao, No host. None(None)] 2024. https://openalex.org/W4390796939
+
+                This study investigates the catalytic reduction of CO2 using various ratios of Ga-based liquid alloys under different conditions. We explored the doping of liquid gallium with metals like indium (In) and magnesium (Mg) through mechanical stirring and heating. The alloys, once prepared, were exposed to CO2 in a reactor, with the Ga-In-Mg alloy demonstrating optimal reaction effects. In an exemplary synthesis, 1g of Ga was combined with 30wt.% In and 7wt.% Mg, yielding a 7wt.% Ga-In-Mg alloy. This alloy, when reacted with CO2 for 10 hours, exhibited a maximum weight gain of 445 mg. Elemental analysis showed a carbon content increase from 4.56% to 72.56% post-reaction. The reacted alloy, post-acid washing and electron microscopy examination, revealed the production of carbon fibers approximately 7 &#956;m wide. The primary objectives of this research were to identify the optimal temperature for CO2 reduction by the alloy and to determine the most efficient alloy catalyst using orthogonal experimental methods. Furthermore, we aimed to elucidate the catalytic mechanism of gallium-based liquid metal in CO2 reduction. The study also involved analyzing the adsorption and reaction processes by fitting the adsorption and reaction kinetic curves of the liquid metal with CO2. Achieving these objectives could enable the conversion of CO2 into solid carbon products, aligning with current environmental and sustainable development goals. This research offers new insights and innovative approaches to tackling energy-related challenges, highlighting the potential of liquid metal alloys in carbon capture and reduction applications.</description>
+      <author>Xin Cao, Yong-Kui Chang, Yang-Yang Yang, Hongfang Ma, Weiming Liu, Yixin L&#252;, Shyue-Yen Yao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4693252</guid>
     </item>
     <item>
       <title>Process intensification of separation and synthesis pathways using deep eutectic solvents</title>
@@ -196,16 +186,6 @@
       <author>Qibo Deng, Shuang Chen, Weitai Wu, Shuyu Zhang, Hassanien Gomaa, Cuihua An, Ning Hu, Xiaopeng Han</author>
       <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cplu.202300688</guid>
-    </item>
-    <item>
-      <title>Ionic liquid dopant induced 3D hierarchical CuO nanostructures with doped heteroatoms and highly dispersed Ag for electrochemical upgrading of 5-hydroxymethylfurfural</title>
-      <link>https://doi.org/10.1016/j.cej.2024.148580</link>
-      <description>Chaofan Li, Fengke Wang, Yi Nie, Leilei Wang, Zhihao Zhang, Tianhao Liu, Binghui He, Yunqian Ma, Lihua Zang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390636084
-
-                The electrocatalytic 5-hydroxymethylfurfural oxidation reaction (HMFOR) has received increasing attention due to its carbon&#8211;neutral and value-added chemical properties, and the development of electrocatalyst with highly active and selective is crucial. Highly dispersing metal atoms throughout the catalyst can maximize the catalytic efficiency. Here, we synthesized a 3D hierarchical CuO nanostructure induced by ionic liquid with heteroatoms doping and Ag dispersing (Ag-CuO@IL), and this self-supported catalyst can reach 10 mA cm&#8722;2 at only 1.33 V vs RHE and achieved HMF conversion of 98.5 %, FDCA yield of 97.1 % and Faraday efficiency of 92.2 %. The excellent catalytic performance of Ag-CuO@IL for HMFOR is attributed to the doped heteroatoms derived from ILs to promote electron redistribution and the generated oxygen vacancies induced by IL anions to highly disperse Ag. Also, the catalyst was the nanosheet-assembled spherical clusters with 3D nanostructure, which exposed a large number of active sites. Density functional theory calculations showed that Ag-CuO@IL possessed moderate adsorption strengths of HMF and OH&#8211;, thus facilitating the desorption of the products in the reaction process. The design that induced by ionic liquid dopant not only provides an effective and green mean for HMFOR, but also has the large potential to guide the synthesis of other catalysts with improved performances in various applications.</description>
-      <author>Chaofan Li, Fengke Wang, Yi Nie, Leilei Wang, Zhihao Zhang, Tianhao Liu, Binghui He, Yunqian Ma, Lihua Zang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148580</guid>
     </item>
     <item>
       <title>A Cluster-Type Self-Healing Catalyst for Stable Saline&#8211;Alkali Water Splitting</title>
@@ -256,6 +236,26 @@
       <author>Yuanjing Zhang, Si Wang, Yusen Yang, Lei Wang, Enze Xu, Quandong Hou, Sylvia Zhao, Tianyong Liu, Song Hong, Lirong Zheng, Feng Li, Xin Zhang, Min Wei</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123719</guid>
+    </item>
+    <item>
+      <title>Amide&#8208;Engineered Metal&#8211;Organic Porous Liquids Toward Enhanced CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction Performance</title>
+      <link>https://doi.org/10.1002/adfm.202313695</link>
+      <description>Yangrui Xu, Yewei Ren, Guosheng Zhou, Sheng Feng, Zhenzhen Yang, Sheng Dai, Ziyang Lu, Tianhua Zhou, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4390984299
+
+                Abstract The development of alternative catalytic systems toward high&#8208;performance CO 2 photoreduction is considered to be a promising approach to address the future energy demand and reduce the CO 2 emissions. However, CO 2 molecules are thermodynamically stable in nature, and thus the adsorption and activation of CO 2 on the surface of catalysts are the key factors to determine the conversion efficiency. Herein, a porous liquid (NH 2 &#8208;UIO&#8208;66 PL) is demonstrated for efficiently facilitating the adsorption and activation of CO 2 by modification of metal&#8211;organic framework (NH 2 &#8208;UIO&#8208;66) with ionic liquid via amide bonds. CdS/NH 2 &#8208;UIO&#8208;66 PL exhibits high&#8208;performance CO 2 &#8208;to&#8208;CO photoreduction with CO yield of 71.37 &#181;mol g &#8722;1 h &#8722;1 and selectivity of 100%. Experiments and theoretical calculations show that the introduced amide moieties not only enriched the electron density at Zr 4+ active sites but also stabilize * COOH intermediate. The achievements provide an effective strategy for the development of metal&#8211;organic frameworks for energy catalysis.</description>
+      <author>Yangrui Xu, Yewei Ren, Guosheng Zhou, Sheng Feng, Zhenzhen Yang, Sheng Dai, Ziyang Lu, Tianhua Zhou</author>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202313695</guid>
+    </item>
+    <item>
+      <title>Impact of the Support Material on the Phosphorus Poisoning on Co-Based Catalysts for Fischer-Tropsch</title>
+      <link>https://doi.org/10.2139/ssrn.4698356</link>
+      <description>Oscar Ivanez, Albert Mir&#243; i Rovira, Edd A. Blekkan, No host. None(None)] 2024. https://openalex.org/W4390938307
+
+                The role of the support on the poisoning by phosphorus of cobalt-based catalyst for Fischer-Tropsch synthesis was investigated. Four different supports were used in this study, &#947;-alumina, titania and two silica gel with different pore sizes and surface areas. The deactivation varies in intensity depending on the type of support. The trend follows the strength of the metal-support interactions, being &#947;-alumina the least affected, while both SiO2 were the most affected. These results suggest that in the first case, P interacts mainly with the support while with less interacting supports, P will interact more with the cobalt particles. The addition of different loadings of P was done after the preparation of the catalysts simulating the possible behaviour of a Biomass to Liquids process. The P loading resulted in a decrease in intrinsic activity and a higher hydrogenation activity leading to a reduced production of value products. Conventional characterization of the catalysts showed two different deactivation mechanisms, including site blocking and electronic effects. The addition of phosphorus decreased the metallic dispersion and reducibility of the catalysts, inhibited the hydrogen desorption, and reduced the CO adsorption. Phosphorus species might be altering the catalyst surface, yielding a higher H2/CO ratio adsorbed in the catalyst by the modification of the bonding strength between the cobalt and CO, and preventing the desorption of H2.</description>
+      <author>Oscar Ivanez, Albert Mir&#243; i Rovira, Edd A. Blekkan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4698356</guid>
     </item>
   </channel>
 </rss>

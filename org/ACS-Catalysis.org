@@ -1,27 +1,11 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jan 22 00:44:03 2024
+Created on Tue Jan 23 00:42:50 2024
 
-Found 25 results from 2024-01-08 to 2024-01-22
+Found 25 results from 2024-01-09 to 2024-01-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-** Anaerobic Ammodehydrogenation of Ethane to Acetonitrile over Ga-Loaded H-FER Zeolite Catalysts   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05286")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390640476"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390640476"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390640476"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390640476 (Open access: False)
-    
-[[https://openalex.org/A5082079051][M. J. Huang]], [[https://openalex.org/A5001689889][Xiaoming Hu]], [[https://openalex.org/A5043708498][Duotian Chen]], [[https://openalex.org/A5020850381][Zen Maeno]], [[https://openalex.org/A5075550298][Nao Tsunoji]], [[https://openalex.org/A5018260723][Takashi Toyao]], [[https://openalex.org/A5020214710][Ken‐ichi Shimizu]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05286 
-     
-A reaction of ethane (C2H6) with ammonia (NH3) over metal-loaded zeolites to yield acetonitrile (CH3CN) under the O2-free conditions was studied. Among the various metal-loaded zeolites, Ga/HFER with a Ga/Al ratio of 1.0 afforded the highest CH3CN yield. A Ga-free HFER and a Ga-loaded K-exchanged FER (Ga/KFER) were nearly inactive for the ammodehydrogenation of C2H6, indicating that both Ga and Brønsted acid sites are indispensable. Extended X-ray absorption fine structure (EXAFS) results show that the Ga2O3 species in the as-prepared Ga/HFER catalyst are converted to isolated Ga cations after C2H6 ammodehydrogenation at 650 °C, while the Ga2O3 species in Ga/KFER remained unchanged after the reaction. The results indicate that the Brønsted acid sites (exchangeable H+ sites) of HFER act as the anchoring site of the isolated Ga cations, possibly formed by reductive solid-state ion exchange during the reaction, and the isolated Ga sites act as active sites for C2H6 ammodehydrogenation. Kinetic analysis suggests that CH3CN is produced via a consecutive reaction pathway: the dehydrogenation of C2H6 to ethylene (C2H4), which reacts with NH3 to give CH3CN. The co-feeding of O2 to C2H6 + NH3 significantly decreased the CH3CN yield and formation of CO2 and CO as the main products, suggesting the importance of reductive conditions in the current catalytic system.    
-
-    
 
 ** The Relevance of the Interfacial Water Reactivity for Electrochemical CO Reduction on Copper Single Crystals   
     
@@ -404,5 +388,21 @@ OpenAlex: https://openalex.org/W4390734560 (Open access: False)
 [[https://openalex.org/A5000810066][Niangao Duan]], [[https://openalex.org/A5052619326][Tianxin Hou]], [[https://openalex.org/A5043800415][Wei Zheng]], [[https://openalex.org/A5042856845][Yafei Qu]], [[https://openalex.org/A5008620166][Peichen Wang]], [[https://openalex.org/A5087731077][Jun Yang]], [[https://openalex.org/A5050709202][Yang Yang]], [[https://openalex.org/A5052077971][Dongdong Wang]], [[https://openalex.org/A5034646167][Jitang Chen]], [[https://openalex.org/A5014087781][Qianwang Chen]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05369 
      
 The urea electrocatalytic oxidation reaction (UOR) has enormous potential as an ideal alternative anode reaction for water splitting owing to its lower thermodynamic equilibrium potential of 0.37 V versus reversible hydrogen electrode (vs RHE). Nickel-based materials, especially NiOOH, are considered to be one of the most promising non-noble metal catalysts for UOR due to their inexpensive cost and rich abundance. However, NiOOH displays a high overpotential and poor long-term stability. Herein, our density functional theory calculations show that the rate-determining step for UOR is desorption of CO2 on NiOOH, and Mn-doped NiOOH has the lowest energy for CO2 desorption. Hence, we prepared a Mn-NiS2 precatalyst that would transform into the active form of Mn-NiOOH during the electrochemical process. The catalyst exhibits good performance for UOR, achieving 100 mA cm–2 at 1.426 V (vs RHE, without IR correction) for 200 h with no significant voltage change, which is rarely reported for nonprecious-metal UOR catalysts. X-ray absorption near-edge spectroscopy and X-ray diffraction characterization show the transformation from sulfide to oxyhydroxide when a voltage is applied, while in situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS) proves that Mn-NiOOH accelerates the desorption of CO2 compared to NiOOH.    
+
+    
+
+** Iron-Catalyzed 5-Endo-Dig Synthetic Approach to Indenes and Its Bidirectional Extension to Narrow Bandgap π-Systems   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04961")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390734752"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390734752"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390734752"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390734752 (Open access: False)
+    
+[[https://openalex.org/A5069412749][Mengqing Chen]], [[https://openalex.org/A5057697166][Yuki Itabashi]], [[https://openalex.org/A5025376645][Shota Fukuma]], [[https://openalex.org/A5064660226][Rui Shang]], [[https://openalex.org/A5014946319][Eiichi Nakamura]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c04961 
+     
+The indene skeleton is a key structure in a variety of compounds, with applications in medicinal and materials science. Traditional syntheses often require harsh conditions or reactive intermediates due to the temporary disruption of the aromaticity of the developing indene ring. To circumvent this problem, we have investigated iron-catalyzed 5-endo-dig cyclization for the construction of the five-membered carbocycle component of indene, which does not interrupt the benzene ring’s aromaticity. A reduced iron reactive species generated by the reduction of FeCl2 with metallic magnesium is a key reactive species that effectively cleaves the C–O bond in the starting material to generate a dormant radical-stabilized iron, which smoothly undergoes the 5-endo-dig closure of an indene ring. The synthetic conditions are so mild that we synthesized a high highest occupied molecular orbital (HOMO), narrow bandgap conjugated compound that has a HOMO level as high as −4.59 eV and an optical bandgap of 1.50 eV; hence, it is unstable even under air.    
 
     
