@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Jan 23 00:42:47 2024
+Created on Wed Jan 24 00:42:24 2024
 
-Found 56 results from 2024-01-09 to 2024-01-23
+Found 56 results from 2024-01-10 to 2024-01-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
@@ -206,6 +206,17 @@ We analyzed the ligand electronic effect in the reaction between a [LAu(I)H]0/�
 
     
 
+## Carbon dioxide reduction to methane and ethanol by using boron carbide monolayer as a suitable photocatalyst   
+
+OpenAlex: https://openalex.org/W4391089745    
+Open access: False
+    
+[Mohamed J. Saadh](https://openalex.org/A5016779284), [Saade Abdalkareem Jasim](https://openalex.org/A5084593121), [Linda Mariuxi Flores Fiallos](https://openalex.org/A5010958862), [Anupam Yadav](https://openalex.org/A5005025571), [Louay Saleh](https://openalex.org/A5040948370), [Edwin Jácome](https://openalex.org/A5047607461), [César Gerardo Mejía Gallegos](https://openalex.org/A5043976657), [Yazen M. Alawaideh](https://openalex.org/A5015561046), [Yasser Elmasry](https://openalex.org/A5051339559), Diamond and Related Materials. None(None)] 2024.https://doi.org/10.1016/j.diamond.2024.110849.
+    
+A new-type boron carbide material has been used, as an electrocatalyst for the reduction of CO2 to C2 and C1 based on the computational study. Within the current research, DFT was adopted to investigate the BC3 nanoflake as an electrocatalyst for the reduction of CO2. The optoelectronic attributes of the BC3 nanoflake indicated that BC3 nanoflake had a longer visible-light region and its band gap was 2.25 eV. Based on the spatial distribution of the LUMO and the HOMO, the introduction of boron extended the π network of BC3 nanoflake, thereby dramatically increasing the photocatalytic efficiency. Additionally, we estimated the Gibbs free energy of each potential CO2 reaction path onto BC3 nanoflake. Based on the findings, CO2 could reduce into CH4 and CH3CH2OH with low limiting potentials of −0.41 V and −0.53 V, respectively. The current study can provide useful insights into the application of BC3 nanoflake as an encouraging photocatalyst for the reduction reaction CO2.    
+
+    
+
 ## A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition   
 
 OpenAlex: https://openalex.org/W4391037978    
@@ -368,17 +379,6 @@ Open access: True
 [Elizabeth R. Corson](https://openalex.org/A5027766501), [Jinyu Guo](https://openalex.org/A5065034148), [William A. Tarpeh](https://openalex.org/A5064386118), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-mb7hn ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/659ef6939138d23161a0e248/original/atr-seiras-method-to-measure-interfacial-p-h-during-electrocatalytic-nitrate-reduction-on-cu.pdf)).
     
 This study reports the accuracy and applications of an attenuated total reflectance–surface-enhanced infrared absorption spectroscopy (ATR–SEIRAS) technique to indirectly measure the interfacial pH of the electrolyte using the ratio of phosphate species within 10 nm of the electrocatalyst surface. This technique can be used in situ to study aqueous electrochemical reactions with a calibration range from pH 1–13, time resolution down to 4 s, and an average 95% confidence interval of 14% that varies depending on the pH region (acidic, neutral, or basic). The method is applied in this study to electrochemical nitrate reduction at a copper cathode to demonstrate its capabilities, but is broadly applicable to any aqueous electrochemical reaction (such as hydrogen evolution, carbon dioxide reduction, or oxygen evolution) and the electrocatalyst may be any SEIRAS-active thin film (e.g., silver, gold, or copper). The time-resolved results show a dramatic increase in the interfacial pH from pH 2–7 in the first minute of operation during both constant current and pulsed current experiments where the bulk pH is unchanged. Attempts to control the pH polarization at the surface by altering the electrochemical operating conditions—lowering the current or increasing the pulse frequency—showed no significant change, demonstrating the challenge of controlling the interfacial pH.    
-
-    
-
-## Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent   
-
-OpenAlex: https://openalex.org/W4390953941    
-Open access: True
-    
-[Elena Plaza-Mayoral](https://openalex.org/A5001934074), [Kim N. Dalby](https://openalex.org/A5026251278), [Hanne Falsig](https://openalex.org/A5091012326), [Ib Chorkendorff](https://openalex.org/A5090008029), [Paula Sebastián‐Pascual](https://openalex.org/A5079498717), [María Escudero‐Escribano](https://openalex.org/A5026837841), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-lckq9 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65a173f7e9ebbb4db904762a/original/electrodeposition-of-tuneable-cu-ag-nanostructures-in-a-deep-eutectic-solvent.pdf)).
-    
-The green transition requires the preparation of clean, inexpensive, and sustainable strategies to prepare controllable bimetallic and multimetallic nanostructures. Cu-Ag nanostructures, for example, are promising bimetallic catalysts for different electrocatalytic reactions such as carbon monoxide and carbon dioxide reduction. In this work, we present the one-step preparation method of electrodeposited Cu-Ag with tunable composition and morphology from choline chloride plus urea deep eutectic solvent (DES), a non-toxic and green DES. We have assessed how different electrodeposition parameters affect the morphology and composition of our nanostructures. We combine electrochemical methods with ex-situ scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and X-ray photoelectron spectroscopy (XPS) to characterize the nanostructures. We have estimated the electrochemically active surface area (ECSA) and roughness factor (R) by lead underpotential deposition (UPD). The copper/silver ratio in the electrodeposited nanostructures is highly sensitive to the applied potential, bath composition, and loading. We observed that silver-rich nanostructures were less adherent whereas the increase in copper content led to more stable and homogenous films with disperse rounded nanostructures with tiny spikes. These spikes were more stable when the deposition rate was fast enough and the molar ratio of Cu and Ag no greater than approximately two to one.    
 
     
 

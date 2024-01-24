@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Tue Jan 23 00:42:40 2024
+Created on Wed Jan 24 00:42:17 2024
 
-Found 48 results from 2024-01-09 to 2024-01-23
+Found 48 results from 2024-01-10 to 2024-01-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -414,17 +414,6 @@ Seawater oxygen evolution reaction (OER) is a kind of feasible method to solve e
 
     
 
-## Magnetic field enhanced surface reconstruction of Fe2P and the promotional effect in electrochemical oxygen evolution   
-
-OpenAlex: https://openalex.org/W4390755203    
-Open access: False
-    
-[Fu‐Rong Chen](https://openalex.org/A5008293406), [Shen Chen](https://openalex.org/A5038349950), [Yujun Zhu](https://openalex.org/A5011010025), [Yidan Liu](https://openalex.org/A5071666780), [Difan Zhou](https://openalex.org/A5068893733), [Lei Huang](https://openalex.org/A5041982864), [Liyi Shi](https://openalex.org/A5027606496), [Hongbin Zhang](https://openalex.org/A5076990289), [Shixun Cao](https://openalex.org/A5041608462), [Rongrong Jia](https://openalex.org/A5003626878), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159357.
-    
-In recent years, the utilization of magnetic fields to enhance the oxygen evolution reaction (OER) performance of catalysts has emerged as an effective approach. However, current research primarily focusing on the impact on magnetic transition metal oxides, and the relevant mechanisms are still worth further exploration. Here, the OER performance of Fe2P loaded on carbon paper (Fe2P/CP) and nickel foam (Fe2P/NF) substrates under in situ magnetic field was investigated. It is revealed that magnetic fields can substantially enhance the OER performance of Fe2P/CP and Fe2P/NF. With a magnetic field of 1.0 T, the current density of 75–Fe2P/CP increases by 28 times (1.8 V vs. RHE), leading to a maximum magnetic current density percentage of 2770%. According to our results, the magnetic enhancement effect is highly correlated with the surface reconstruction of Fe2P to α-FeOOH with lower OER energy barriers. Additionally, the spin pinning effect is observed on the α-FeOOH/ Fe2P interfaces, which leads to the rapid alignment of spin electrons on the surface of catalysts under magnetic field, lowering the O–O coupling energy barrier, and therefore improve OER kinetics. These discoveries have the potential to contribute to a fundamental and comprehensive understanding of electrochemical reactions involving magnetic fields.    
-
-    
-
 ## Constructing highly efficient bifunctional catalysts for oxygen reduction and oxygen evolution by modifying MXene with transition metal   
 
 OpenAlex: https://openalex.org/W4391063505    
@@ -433,6 +422,17 @@ Open access: False
 [Dai Yu](https://openalex.org/A5061630253), [Xiuyun Zhao](https://openalex.org/A5047850201), [Desheng Zheng](https://openalex.org/A5016833284), [Qingrui Zhao](https://openalex.org/A5059700536), [Jing Feng](https://openalex.org/A5082664273), [Yingjie Feng](https://openalex.org/A5019670440), [Xingbo Ge](https://openalex.org/A5063446819), [Xin Chen](https://openalex.org/A5024977426), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.01.089.
     
 Exploring highly active electrocatalysts for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) has become a growing interest in recent years. Herein, an efficient pathway for designing MXene-based ORR/OER catalysts is proposed. It involves introducing non-noble metals into Vo (vacancy site), H1 and H2 (the hollow sites on top of C and the metal atom, respectively) sites on M2CO2 surfaces, named TM-VO/H1/H2-M2CO2 (TM = Fe, Co, Ni, M = V, Nb, Ta). Among these recombination catalysts, Co-H1-V2CO2 and Ni-H1-V2CO2 exhibit the most promising ORR catalytic activities, with low overpotential values of 0.35 and 0.37 V, respectively. Similarly, Fe-H1-V2CO2, Co-VO-Nb2CO2, and Ni-H2-Nb2CO2 possess low OER overpotential values of 0.29, 0.39, and 0.44 V, respectively, suggesting they have enormous potential as effective catalysts for OER. Notably, Co-H2-Ta2CO2 possesses the lowest potential gap value of 0.53 V, demonstrating it has an extraordinary bifunctional catalytic activity. The excellent catalytic performance of these recombination catalysts can be elucidated through an electronic structure analysis, which primarily relies on the electron-donating capacity and synergistic effects between transition metals and sub-metals. These results provide theoretical guidance for designing new ORR and OER catalysts using 2D MXene materials.    
+
+    
+
+## Magnetic field enhanced surface reconstruction of Fe2P and the promotional effect in electrochemical oxygen evolution   
+
+OpenAlex: https://openalex.org/W4390755203    
+Open access: False
+    
+[Fu‐Rong Chen](https://openalex.org/A5008293406), [Shen Chen](https://openalex.org/A5038349950), [Yujun Zhu](https://openalex.org/A5011010025), [Yidan Liu](https://openalex.org/A5071666780), [Difan Zhou](https://openalex.org/A5068893733), [Lei Huang](https://openalex.org/A5041982864), [Liyi Shi](https://openalex.org/A5027606496), [Hongbin Zhang](https://openalex.org/A5076990289), [Shixun Cao](https://openalex.org/A5041608462), [Rongrong Jia](https://openalex.org/A5003626878), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159357.
+    
+In recent years, the utilization of magnetic fields to enhance the oxygen evolution reaction (OER) performance of catalysts has emerged as an effective approach. However, current research primarily focusing on the impact on magnetic transition metal oxides, and the relevant mechanisms are still worth further exploration. Here, the OER performance of Fe2P loaded on carbon paper (Fe2P/CP) and nickel foam (Fe2P/NF) substrates under in situ magnetic field was investigated. It is revealed that magnetic fields can substantially enhance the OER performance of Fe2P/CP and Fe2P/NF. With a magnetic field of 1.0 T, the current density of 75–Fe2P/CP increases by 28 times (1.8 V vs. RHE), leading to a maximum magnetic current density percentage of 2770%. According to our results, the magnetic enhancement effect is highly correlated with the surface reconstruction of Fe2P to α-FeOOH with lower OER energy barriers. Additionally, the spin pinning effect is observed on the α-FeOOH/ Fe2P interfaces, which leads to the rapid alignment of spin electrons on the surface of catalysts under magnetic field, lowering the O–O coupling energy barrier, and therefore improve OER kinetics. These discoveries have the potential to contribute to a fundamental and comprehensive understanding of electrochemical reactions involving magnetic fields.    
 
     
 
@@ -458,17 +458,6 @@ In order to enhance the energy efficiency of water electrolysis, it is imperativ
 
     
 
-## Efficient Oxygen Evolution Reaction by Ru(II) Polypyridyl Complex based AIEgen   
-
-OpenAlex: https://openalex.org/W4390987133    
-Open access: False
-    
-[Snehadrinarayan Khatua](https://openalex.org/A5071842308), [Monosh Rabha](https://openalex.org/A5058986428), [Sreenivasan Nagappan](https://openalex.org/A5047379472), [Bhaskar Sen](https://openalex.org/A5029602773), [Khanindram Baruah](https://openalex.org/A5031222788), [Subrata Kundu](https://openalex.org/A5067628877), No host. None(None)] 2024.https://doi.org/10.1039/d3qi02380j.
-    
-Ruthenium polypyridyl complexes are known for their excellent photophysical properties and rich electrochemical behavior. Thus, developing complexes with multifunctional behavior showing potential applications in multiple fields is of great importance....    
-
-    
-
 ## NiCo2S4 octahedral configuration doped by Mn, Zn and Cu for oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4390883323    
@@ -477,6 +466,17 @@ Open access: False
 [Yi-Ting Chen](https://openalex.org/A5019389546), [Wu H](https://openalex.org/A5015792001), [Ning Tang](https://openalex.org/A5056540688), [Mengjie Zhang](https://openalex.org/A5051439492), [Yuqiao Wang](https://openalex.org/A5067124076), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d3cc06171j.
     
 Transition metals with similar atomic radius were used to doping spinel NiCo2S4 to adjust octahedral configuration. Mn dopants adjusted the morphology and surface charge distribution, optimized the electron transport and...    
+
+    
+
+## Efficient Oxygen Evolution Reaction by Ru(II) Polypyridyl Complex based AIEgen   
+
+OpenAlex: https://openalex.org/W4390987133    
+Open access: False
+    
+[Snehadrinarayan Khatua](https://openalex.org/A5071842308), [Monosh Rabha](https://openalex.org/A5058986428), [Sreenivasan Nagappan](https://openalex.org/A5047379472), [Bhaskar Sen](https://openalex.org/A5029602773), [Khanindram Baruah](https://openalex.org/A5031222788), [Subrata Kundu](https://openalex.org/A5067628877), No host. None(None)] 2024.https://doi.org/10.1039/d3qi02380j.
+    
+Ruthenium polypyridyl complexes are known for their excellent photophysical properties and rich electrochemical behavior. Thus, developing complexes with multifunctional behavior showing potential applications in multiple fields is of great importance....    
 
     
 
@@ -524,13 +524,13 @@ The exploration of efficient and stable metal-organic frameworks (MOFs) for elec
 
     
 
-## In-situ fabrication of Cr doped FeNi LDH on commercial stainless steel for oxygen evolution reaction   
+## Benchmarking Stability of Iridium Oxide in Acidic Media under Oxygen Evolution Conditions: A Review: Part II   
 
-OpenAlex: https://openalex.org/W4390758015    
+OpenAlex: https://openalex.org/W4390987310    
 Open access: True
     
-[Yanhong Lv](https://openalex.org/A5050404049), [Xiangquan Deng](https://openalex.org/A5033542967), [Jingjing Ding](https://openalex.org/A5068736605), [Zhaohui Yang](https://openalex.org/A5047757729), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-023-50361-4 ([pdf](https://www.nature.com/articles/s41598-023-50361-4.pdf)).
+[James Murawski](https://openalex.org/A5028610474), [Søren B. Scott](https://openalex.org/A5004372016), [Reshma R. Rao](https://openalex.org/A5027366818), [Katie Rigg](https://openalex.org/A5040293372), [Christopher Mark Zalitis](https://openalex.org/A5030674093), [James Stevens](https://openalex.org/A5015505628), [Jonathan Sharman](https://openalex.org/A5007586547), [Gareth Hinds](https://openalex.org/A5055131883), [Ifan E. L. Stephens](https://openalex.org/A5039064548), Johnson Matthey Technology Review. None(None)] 2024.https://doi.org/10.1595/205651324x17055018154113.
     
-Abstract Commercial stainless steel has attracted increasing interest due to their rich content in transition metal elements and corrosion resistance properties. In this work, we design a facile and rapid route to in-situ fabricate the Cr doped FeNi layered double hydroxides nanosheets (LDHs) on modified stainless steel (Cr–FeNi LDH @ ESS) under ambient condition.The ultra small scaled 2D structure only around 20 nm diameter and metal ions with multivalent oxidation state were observed on the in situ fabricated LDHs, which provides high active area and active sites and thus promote excellent oxygen evolution reaction (OER). The Cr–FeNi LDH @ESS electrocatalysts exhibit an over potential of 280 mV at 10 mA cm −2 and achieves a Tafel slope of 44 mV dec −1 for OER in the 1.0 M KOH aqueous solution. We anticipate that the operating strategy of our system may promote the development of commercial non-precious productions as the efficient electrocatalysts for energy storage and conversion.    
+Part I (1) introduced state-of-the-art proton exchange membrane (PEM) electrolysers with iridium-based catalysts for oxygen evolution at the anode in green hydrogen applications. Aqueous model systems and full cell testing were discussed along with proton exchange membrane water electrolyser (PEMWE) catalyst degradation mechanisms, types of iridium oxide, mechanisms of iridium dissolution and stability studies. In Part II, we highlight considerations and best practices for the investigation of activity and stability of oxygen evolution catalysts via short term testing.    
 
     

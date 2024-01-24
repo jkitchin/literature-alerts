@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:42:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 00:42:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -188,6 +188,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202303512</guid>
     </item>
     <item>
+      <title>Carbon dioxide reduction to methane and ethanol by using boron carbide monolayer as a suitable photocatalyst</title>
+      <link>https://doi.org/10.1016/j.diamond.2024.110849</link>
+      <description>Mohamed J. Saadh, Saade Abdalkareem Jasim, Linda Mariuxi Flores Fiallos, Anupam Yadav, Louay Saleh, Edwin J&#225;come, C&#233;sar Gerardo Mej&#237;a Gallegos, Yazen M. Alawaideh, Yasser Elmasry, Diamond and Related Materials. None(None)] 2024. https://openalex.org/W4391089745
+
+                A new-type boron carbide material has been used, as an electrocatalyst for the reduction of CO2 to C2 and C1 based on the computational study. Within the current research, DFT was adopted to investigate the BC3 nanoflake as an electrocatalyst for the reduction of CO2. The optoelectronic attributes of the BC3 nanoflake indicated that BC3 nanoflake had a longer visible-light region and its band gap was 2.25 eV. Based on the spatial distribution of the LUMO and the HOMO, the introduction of boron extended the &#960; network of BC3 nanoflake, thereby dramatically increasing the photocatalytic efficiency. Additionally, we estimated the Gibbs free energy of each potential CO2 reaction path onto BC3 nanoflake. Based on the findings, CO2 could reduce into CH4 and CH3CH2OH with low limiting potentials of &#8722;0.41 V and &#8722;0.53 V, respectively. The current study can provide useful insights into the application of BC3 nanoflake as an encouraging photocatalyst for the reduction reaction CO2.</description>
+      <author>Mohamed J. Saadh, Saade Abdalkareem Jasim, Linda Mariuxi Flores Fiallos, Anupam Yadav, Louay Saleh, Edwin J&#225;come, C&#233;sar Gerardo Mej&#237;a Gallegos, Yazen M. Alawaideh, Yasser Elmasry</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110849</guid>
+    </item>
+    <item>
       <title>A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition</title>
       <link>https://doi.org/10.1016/j.cjche.2023.12.017</link>
       <description>Peng Jiang, Hao Zhang, Guanhan Zhao, Lin Li, Tuo Ji, Liwen Mu, Xiaohua L&#252;, Jiahua Zhu, Chinese Journal of Chemical Engineering. None(None)] 2024. https://openalex.org/W4391037978
@@ -336,16 +346,6 @@
       <author>Elizabeth R. Corson, Jinyu Guo, William A. Tarpeh</author>
       <pubDate>Thu, 11 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mb7hn</guid>
-    </item>
-    <item>
-      <title>Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-lckq9</link>
-      <description>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano, No host. None(None)] 2024. https://openalex.org/W4390953941
-
-                The green transition requires the preparation of clean, inexpensive, and sustainable strategies to prepare controllable bimetallic and multimetallic nanostructures. Cu-Ag nanostructures, for example, are promising bimetallic catalysts for different electrocatalytic reactions such as carbon monoxide and carbon dioxide reduction. In this work, we present the one-step preparation method of electrodeposited Cu-Ag with tunable composition and morphology from choline chloride plus urea deep eutectic solvent (DES), a non-toxic and green DES. We have assessed how different electrodeposition parameters affect the morphology and composition of our nanostructures. We combine electrochemical methods with ex-situ scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and X-ray photoelectron spectroscopy (XPS) to characterize the nanostructures. We have estimated the electrochemically active surface area (ECSA) and roughness factor (R) by lead underpotential deposition (UPD). The copper/silver ratio in the electrodeposited nanostructures is highly sensitive to the applied potential, bath composition, and loading. We observed that silver-rich nanostructures were less adherent whereas the increase in copper content led to more stable and homogenous films with disperse rounded nanostructures with tiny spikes. These spikes were more stable when the deposition rate was fast enough and the molar ratio of Cu and Ag no greater than approximately two to one.</description>
-      <author>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-lckq9</guid>
     </item>
     <item>
       <title>Unconventional and Emerging Approaches to CO2 Reduction</title>
