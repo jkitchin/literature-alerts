@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Wed Jan 24 00:42:24 2024
+Created on Thu Jan 25 00:42:21 2024
 
-Found 56 results from 2024-01-10 to 2024-01-24
+Found 58 results from 2024-01-11 to 2024-01-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
@@ -195,6 +195,39 @@ Photocatalytic reduction of carbon dioxide (CO2) presents a pivotal solution to 
 
     
 
+## Tuning the CO2 Reduction Activity of Graphitic Carbon Nitride via the Capping-Agent-Free Involvement of Ag Nanocrystals   
+
+OpenAlex: https://openalex.org/W4391111388    
+Open access: False
+    
+[Liang Ma](https://openalex.org/A5028735627), [Xiaoyan Cai](https://openalex.org/A5044598955), [Zhiqiang Liang](https://openalex.org/A5009420754), [Shun Lu](https://openalex.org/A5081903932), [Pengxuan Wu](https://openalex.org/A5007181087), [Songbai Qiu](https://openalex.org/A5091240034), [Qian Zhang](https://openalex.org/A5034261218), [Tiejun Wang](https://openalex.org/A5085293433), No host. None(None)] 2024.https://doi.org/10.1021/acs.iecr.3c03841.
+    
+In this work, a facile method to tune the carbon dioxide (CO2) reduction reaction (CRR) activities of graphitic carbon nitride (GCN) was developed via the capping-agent-free involvement of a trace amount of Ag nanocrystals with a decreased size. After the optimization of experimental conditions, the CRR performance investigation confirms that Ag-GCN-0.2 exhibited a superior CRR performance, achieving a faradaic efficiency (FE) of more than 72 ± 1% for CO in a wide potential range from −0.6 to −1.1 V (vs reversible hydrogen electrode (RHE)) and a max FE of 89 ± 1% at an overpotential of 0.9 V with a constant current density and a well-maintained microstructure even after 12 h of electrolysis. This work provides a new route to tune the catalytical performance of GCN and pave the way for the rational design, synthesis, and accurate estimation of the GCN-based catalysts, which will be synthesized on a large scale and utilized in industries.    
+
+    
+
+## Mechanism of electrochemical carbon dioxide reduction to formate on tin electrode   
+
+OpenAlex: https://openalex.org/W4391112540    
+Open access: False
+    
+[Anoop Naikkath](https://openalex.org/A5093764007), [Nikhil George Mohan](https://openalex.org/A5062981183), [Kothandaraman Ramanujam](https://openalex.org/A5041030856), [Surash Ramanathan](https://openalex.org/A5042539944), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148972.
+    
+Carbon dioxide can be electrochemically reduced to formate on tin electrodes. Formate is one of the most economically viable products of CO2 reduction reaction (CO2RR). While CO2 is reduced to formate, hydrogen evolution reaction (HER) occurs concomitantly. The kinetics of CO2RR and HER on the tin electrode was investigated. Potentiodynamic polarization studies were conducted in CO2 saturated and N2 saturated 0.1 M KHCO3 solutions, in the potential range from −0.014 V to −1.59 V vs. RHE. A faradaic efficiency of 93.95 % towards formate production was obtained at −1.09 V vs. RHE. The mass transfer effects and bicarbonate dissociation equilibrium were used to estimate the concentration of the reactants at the electrode surface. Density functional theory calculations indicate that –OCHO intermediate species is thermodynamically favoured, and a four-step reaction with two intermediates is proposed. The proposed mechanism captures the major features of the polarization data. CO2 reduction occurs via two intermediate species, viz. adsorbed H and OCHO species, while HER occurs via Volmer-Heyrovsky steps. The model predicts that in N2 saturated solutions, the fractional surface coverage of adsorbed H reaches a maximum of ∼0.48 at a potential of −0.82 V vs. RHE while in CO2 saturated solutions, the corresponding value is ∼0.29. In addition, the maximum fractional surface coverage of adsorbed OCHO is predicted to be ∼0.12 in CO2 saturated solutions.    
+
+    
+
+## Recent advances in novel materials for photocatalytic carbon dioxide reduction   
+
+OpenAlex: https://openalex.org/W4391102665    
+Open access: True
+    
+[Suye Lü](https://openalex.org/A5015173933), [Shengwei Zhang](https://openalex.org/A5070268195), [Qi Liu](https://openalex.org/A5055411333), [Wen Wang](https://openalex.org/A5061520391), [Nanjing Hao](https://openalex.org/A5058768613), [Yajun Wang](https://openalex.org/A5085963164), [Zhou Li](https://openalex.org/A5084541609), [Dan Luo](https://openalex.org/A5060967626), Carbon Neutralization. None(None)] 2024.https://doi.org/10.1002/cnl2.107 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cnl2.107)).
+    
+Abstract The conversion of CO 2 into chemical fuels, which can be stored and utilized through photocatalysis, represents an effective, environmentally friendly, and sustainable means to address both environmental concerns and energy shortages. CO 2 , as a stable oxidation product, poses challenges for reduction through light energy alone, necessitating the use of catalysts. Thus, a crucial aspect of CO 2 photocatalytic reduction technology lies in the development of effective photocatalysts. Based on the basic principle of PCRR (photocatalytic CO 2 reduction reaction), the review provides a detailed introduction to the core issues in PCRR process, including the relationship between band gap and catalyst reduction performance, effective utilization of photogenerated carriers, product selectivity, and methods for product analysis. Then, the recent research progresses of various photocatalysts are reviewed in the form of research examples combined with the above basic principles. Finally, this review summarizes and provides insights into the effective techniques for enhancing the photocatalytic activity of CO 2 , while also offering future prospects in this field.    
+
+    
+
 ## Monomeric gold hydrides for carbon dioxide reduction: ligand effect on the reactivity   
 
 OpenAlex: https://openalex.org/W4390674634    
@@ -203,6 +236,17 @@ Open access: False
 [Elisa Rossi](https://openalex.org/A5019871772), [Diego Sorbelli](https://openalex.org/A5082611443), [Paola Belanzoni](https://openalex.org/A5052163219), [Leonardo Belpassi](https://openalex.org/A5058779678), [Gianluca Ciancaleoni](https://openalex.org/A5000460535), No host. None(None)] 2024.https://doi.org/10.1002/chem.202303512.
     
 We analyzed the ligand electronic effect in the reaction between a [LAu(I)H]0/‐ hydride species and CO2, leading to a coordinated formate [LAu(HCOO)]0/‐. We explored 20 different ligands, such as carbenes, phosphines and others, carefully selected to cover a wide range of electron‐donor and ‐acceptor properties. We included in the study the only ligand, an NHC‐coordinated diphosphene, that, thus far, experimentally demonstrated facile and reversible reaction between the monomeric gold(I) hydride and carbon dioxide. We elucidated the previously unknown reaction mechanism, which resulted to be concerted and common to all the ligands: the gold‐hydrogen bond attacks the carbon atom of CO2 with one oxygen atom coordinating to the gold center. A correlation between the ligand σ donor ability, which affects the electron density at the reactive site, and the kinetic activation barriers of the reaction has been found. This systematic study offers useful guidelines for the rational design of new ligands for this reaction, while suggesting a few promising and experimentally accessible potential candidates for the stoichiometric or catalytic CO2 activation.    
+
+    
+
+## Determining kinetics of electrochemical carbon dioxide reduction to carbon monoxide with scanning electrochemical microscopy   
+
+OpenAlex: https://openalex.org/W4391116059    
+Open access: False
+    
+[Qikang Huang](https://openalex.org/A5045371783), [Peize Li](https://openalex.org/A5014441532), [Mingkui Wang](https://openalex.org/A5041280820), [Yan Shen](https://openalex.org/A5003395657), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118061.
+    
+This study reports on determining kinetics of electrochemical reduction CO2 to CO on Au catalysts using the substrate generation/tip collection (SG/TC) mode of scanning electrochemical microscopy (SECM). We introduced a simple but effective method based on transient technique to obtain a series of apparent heterogeneous rate constants k based on Fick’s second law by controlling the tip-substrate distance and the voltage of the substrate electrode within the SECM framework. By analysis the transient current recorded during the chronoamperometric characterization, we can successfully determine the apparent rate constant k for the simplified total conversion process of CO2 + 2H+ + 2e- → CO + H2O onto Au catalyst electrode serving as an example, which increases from 5.02 × 10–2 cm⋅s−1 to 7.16 × 10–2 cm⋅s−1 in the low potential range of −2.2 to −2.6 V (vs. Pt/PPy) and decreases to 6.54 × 10-2 cm⋅s−1 at –2.8 V (vs. Pt/PPy). The method proposed here can be applied to quantitatively analyze the kinetic of CO2 electrochemical reduction reaction, and thus provide a useful tool to guide the synthesis of catalyst as well as in-situ performance evaluation.    
 
     
 
@@ -294,6 +338,17 @@ Finding efficient photocatalytic carbon dioxide reduction catalysts is one of th
 
     
 
+## Thermodynamic Analysis of Exhaust Gas Waste Heat Recovery with Organic Rankine Cycle for Container Ship   
+
+OpenAlex: https://openalex.org/W4391097601    
+Open access: False
+    
+[Merve Gül Civgin](https://openalex.org/A5061457454), [Cengiz Deniz](https://openalex.org/A5039497906), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4703037.
+    
+Highlights• Thermodynamic analysis of organic rankine cycle using exhaust gas as a heat source was done.• The amount of carbon dioxide reduction obtained using the organic rankine cycle was shown.• The cases where the exhaust gas has different thermal values such as boiler outlet, turbocharger outlet were analyzed.• The selection of working fluid was evaluated according to exhaust gas specifications as a heat source.• The effect of evaporation temperature of working fluid and degree of superheating on the ORC system performance was analyzed.    
+
+    
+
 ## Synthesis and Electrocatalytic Applications of Layer‐Structured Metal Chalcogenides Composites   
 
 OpenAlex: https://openalex.org/W4390884831    
@@ -346,39 +401,6 @@ Open access: True
 [Ling Peng Meng](https://openalex.org/A5080818001), [Ebrahim Tayyebi](https://openalex.org/A5013714174), [Kai S. Exner](https://openalex.org/A5004991965), [Francesc Viñes](https://openalex.org/A5092197857), [Francesc Illas](https://openalex.org/A5012273051), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202300598 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202300598)).
     
 Abstract Electrochemical carbon dioxide reduction (CO 2 RR) is gaining momentum as an effective process to capture and convert CO 2 into valuable chemicals and fuels, as well as to contribute reducing greenhouse gas emissions. Two‐dimensional transition metal carbides and/or nitrides (MXenes) are increasingly attracting attention as CO 2 RR electrocatalysts due to their enhanced chemical activity and selectivity, overcoming limitations of traditional metal CO 2 RR electrocatalysts, and likely breaking the scaling relations of reaction intermediates toward the desired product. The present concept reviews the state‐of‐the‐art in the computational description of CO 2 RR on MXenes, going from CO 2 activation on pristine models to different surface terminations, and discuss possible ways to tune the catalytic activity and selectivity, including doping, defects, supported single metal atoms, solvent effects, and electric field effects, while putting in the spotlight prospects by including kinetic aspects.    
-
-    
-
-## Efficient photocatalytic overall water splitting for hydrogen evolution and CO2 reduction with SiCP4 allotrope monolayers   
-
-OpenAlex: https://openalex.org/W4391064993    
-Open access: False
-    
-[Yi-tong Yin](https://openalex.org/A5051449133), [Chuan‐Lu Yang](https://openalex.org/A5083167888), [Xiaohu Li](https://openalex.org/A5015983532), [Yu‐Liang Liu](https://openalex.org/A5053333192), [Wenkai Zhao](https://openalex.org/A5067960438), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159440.
-    
-Two-dimensional metal-free photocatalysts are catching the attention of researchers. Here, we present several allotrope SiCP4 monolayers with high stability, high carrier mobility, and excellent photocatalytic performance. Using a searching method based on the universal structure predictor evolutionary xtallography, together with assessing the energy and thermodynamic stabilities, and matching the potentials of band edges with the photocatalytic conditions for achieving overall water splitting, we successfully identify 5 highly favorable configurations (including the previously reported one) from a pool of 1056 allotrope SiCP4 monolayers. The results show that the largest solar-to-hydrogen efficiency of the considered monolayers can reach 21.89 %, while a high mobility of 2.7677 × 105 cm2 V−1 s−1 is observed, both are superior to those of the previously reported one. The Gibbs free energies for hydrogen or oxygen evolutions, and CO2 reduction reactions indicate they are thermodynamically feasible. Moreover, the hydrogen evolution reaction can proceed spontaneously with two allotrope SiCP4 monolayers. Therefore, the newfound allotrope SiCP4 monolayers are expected to have potential applications in the field of photocatalytic water splitting for hydrogen generation and carbon dioxide reduction.    
-
-    
-
-## Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface   
-
-OpenAlex: https://openalex.org/W4391022908    
-Open access: True
-    
-[Zhichao Zhang](https://openalex.org/A5032631479), [Hengyu Li](https://openalex.org/A5088591085), [Yangfan Shao](https://openalex.org/A5038226323), [Lin Gan](https://openalex.org/A5051784756), [Feiyu Kang](https://openalex.org/A5055954152), [Wenhui Duan](https://openalex.org/A5080132089), [Heine Anton Hansen](https://openalex.org/A5015539284), [Jianbao Li](https://openalex.org/A5070982282), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-44896-x ([pdf](https://www.nature.com/articles/s41467-024-44896-x.pdf)).
-    
-Molecular understanding of the solid-liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M+), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO2RR) on coinage metals, and the activity and selectivity of CO2RR could be further enhanced with the cation changing from Li+ to Cs+, while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M+ in CO2RR on Cu surface. A monotonically decreasing CO2 activation barrier is obtained from Li+ to Cs+, which is attributed to the different coordination abilities of M+ with *CO2. Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO2RR on Cu surfaces, where H+ is repelled from the interface and constrained by M+. Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO2RR.    
-
-    
-
-## ATR–SEIRAS Method to Measure Interfacial pH during Electrocatalytic Nitrate Reduction on Cu   
-
-OpenAlex: https://openalex.org/W4390805684    
-Open access: True
-    
-[Elizabeth R. Corson](https://openalex.org/A5027766501), [Jinyu Guo](https://openalex.org/A5065034148), [William A. Tarpeh](https://openalex.org/A5064386118), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-mb7hn ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/659ef6939138d23161a0e248/original/atr-seiras-method-to-measure-interfacial-p-h-during-electrocatalytic-nitrate-reduction-on-cu.pdf)).
-    
-This study reports the accuracy and applications of an attenuated total reflectance–surface-enhanced infrared absorption spectroscopy (ATR–SEIRAS) technique to indirectly measure the interfacial pH of the electrolyte using the ratio of phosphate species within 10 nm of the electrocatalyst surface. This technique can be used in situ to study aqueous electrochemical reactions with a calibration range from pH 1–13, time resolution down to 4 s, and an average 95% confidence interval of 14% that varies depending on the pH region (acidic, neutral, or basic). The method is applied in this study to electrochemical nitrate reduction at a copper cathode to demonstrate its capabilities, but is broadly applicable to any aqueous electrochemical reaction (such as hydrogen evolution, carbon dioxide reduction, or oxygen evolution) and the electrocatalyst may be any SEIRAS-active thin film (e.g., silver, gold, or copper). The time-resolved results show a dramatic increase in the interfacial pH from pH 2–7 in the first minute of operation during both constant current and pulsed current experiments where the bulk pH is unchanged. Attempts to control the pH polarization at the surface by altering the electrochemical operating conditions—lowering the current or increasing the pulse frequency—showed no significant change, demonstrating the challenge of controlling the interfacial pH.    
 
     
 
