@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 00:39:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -196,6 +196,16 @@
       <author>Anoop Naikkath, Nikhil George Mohan, Kothandaraman Ramanujam, Surash Ramanathan</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148972</guid>
+    </item>
+    <item>
+      <title>Exploring Carbon Monoxide and Carbon Dioxide Adsorption on (5,5) Aluminum Nitride Nanotubes for Enhanced Sensor Applications: A DFT Study</title>
+      <link>https://doi.org/10.3390/molecules29030557</link>
+      <description>Nafiu Suleiman, Vitus A. Apalangya, Bismark Mensah, Kwabena Kan-Dapaah, Abu Yaya, Molecules. 29(3)] 2024. https://openalex.org/W4391136623
+
+                This study examined the sensitivity of single-walled (5,5) aluminium nitride nanotubes ((5,5) AlNNTs) to carbon monoxide (CO) and carbon dioxide (CO2) gas molecules by performing DFT calculations using a hybrid functional, specifically, B3LYP (Becke&#8217;s three-parameter, Lee-Yang-Parr) exchange-correlation functional at a 6&#8211;31G* basis set. This research investigates the adsorption behavior of CO2 and CO molecules on pristine and silicon-doped aluminum nitride nanotubes (AlNNTs) and examines their implications for sensor applications. The study assesses each system&#8217;s adsorption energy, sensing potential, and recovery time to gain insights into their binding strength and practical viability. For CO2 adsorption on (5,5) AlNNT, significant adsorption energy of &#8722;24.36 kcal/mol was observed, indicating a strong binding to the nanotube surface, with a sensing potential of 8.95%. However, the slow recovery time of approximately 4.964 days may limit its real-time application. Si-(5,5) AlNNT exhibited a CO2 adsorption energy of &#8722;19.69 kcal/mol, a sensing potential of 5.40%, and a relatively short recovery time of approximately 2.978 min, making it a promising candidate for CO2 sensing. CO adsorption on (5,5) AlNNT showed an adsorption energy of &#8722;25.20 kcal/mol, a sensing potential of 9.095%, but a longer recovery time of approximately 20.130 days. Si-(5,5) AlNNT displayed a high CO adsorption energy of &#8722;20.78 kcal/mol, a sensing potential of 4.29%, and a recovery time of approximately 18.320 min. These findings provide insights into the adsorption characteristics of carbon molecules on AlNNTs, highlighting their potential for CO2 and CO sensing applications.</description>
+      <author>Nafiu Suleiman, Vitus A. Apalangya, Bismark Mensah, Kwabena Kan-Dapaah, Abu Yaya</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29030557</guid>
     </item>
     <item>
       <title>Recent advances in novel materials for photocatalytic carbon dioxide reduction</title>
@@ -550,10 +560,10 @@
     <item>
       <title>Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites</title>
       <link>https://openalex.org/W4391077147</link>
-      <description>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;&#8208;Daura, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391077147
+      <description>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391077147
 
                 No abstract</description>
-      <author>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;&#8208;Daura, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
+      <author>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
       <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openalex.org/W4391077147</guid>
     </item>
@@ -576,6 +586,16 @@
       <author>Yong&#8208;Xing He, Lin Yin, Nanci Yuan, Gaoke Zhang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148754</guid>
+    </item>
+    <item>
+      <title>Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159501</link>
+      <description>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391151075
+
+                No abstract</description>
+      <author>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159501</guid>
     </item>
     <item>
       <title>MAPbBr3/Bi2WO6 Z-scheme-heterojunction photocatalysts for photocatalytic CO2 reduction</title>

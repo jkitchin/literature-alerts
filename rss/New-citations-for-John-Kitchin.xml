@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Jan 2024 00:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jan 2024 00:39:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -296,6 +296,16 @@
       <author>Ali Behrad Vakylabad, Mohammad Amin Makarem, Zohre Moravvej, Mohammad Reza Rahimpour</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-88503-4.00003-x</guid>
+    </item>
+    <item>
+      <title>Comparative Performance Evaluation of Absorbents for the Electrowinning-Coupled Competitive Separation CO&lt;sub&gt;2&lt;/sub&gt; Capture Process</title>
+      <link>https://doi.org/10.1021/acssuschemeng.3c07594</link>
+      <description>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang, No host. None(None)] 2024. https://openalex.org/W4391157027
+
+                Electrowinning-coupled competitive separation (ECCS) CO2 capture technology, utilizing renewable electricity as the energy input, is regarded as a promising electrochemically mediated CO2 capture approach to substitute for the traditional solvent-based CO2 scrubbing method. However, this technology is still distant from practical application due to its energy-intensive property, sensitivity to oxygen, amine degradation, and system complexity. The selection of a suitable solvent plays a crucial role in enhancing the overall performance and scalability of the ECCS system. To address an efficient solvent screening method, this paper proposed a systematic comparison of solvents in terms of thermodynamics, electrochemistry, absorption, and desorption performance. The proposed solvent screening method undergoes a critical evaluation through the development of a thermodynamic model and experimentation. Using MEA, EDA, and NH3 as examples (solvents extensively discussed in the ECCS system), the paper provides a comprehensive discussion of the solvent screening method. Results indicate that EDA exhibits superior CO2 absorption and thermodynamic performance. NH3 solvent demonstrates better CO2 desorption and electrochemical performance. However, there is an antithetical relationship between the thermodynamic and electrochemical performance. This phenomenon arises because the Cu2+&#8211;solvent complex, characterized by a stronger coupling performance, is more stable, necessitating a higher potential to reduce the Cu2+&#8211;solvent complex. This leads to increased energy consumption during the solvent regeneration process. Therefore, when solvent screening is conducted, it is essential to categorize and thoroughly consider thermodynamics, electrochemistry, and absorption and desorption performance.</description>
+      <author>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang</author>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07594</guid>
     </item>
     <item>
       <title>Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba&lt;sub&gt;0.6&lt;/sub&gt;Sr&lt;sub&gt;0.4&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt;</title>

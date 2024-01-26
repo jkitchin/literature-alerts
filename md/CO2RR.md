@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Jan 25 00:42:21 2024
+Created on Fri Jan 26 00:39:24 2024
 
-Found 58 results from 2024-01-11 to 2024-01-25
+Found 60 results from 2024-01-12 to 2024-01-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
@@ -214,6 +214,17 @@ Open access: False
 [Anoop Naikkath](https://openalex.org/A5093764007), [Nikhil George Mohan](https://openalex.org/A5062981183), [Kothandaraman Ramanujam](https://openalex.org/A5041030856), [Surash Ramanathan](https://openalex.org/A5042539944), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148972.
     
 Carbon dioxide can be electrochemically reduced to formate on tin electrodes. Formate is one of the most economically viable products of CO2 reduction reaction (CO2RR). While CO2 is reduced to formate, hydrogen evolution reaction (HER) occurs concomitantly. The kinetics of CO2RR and HER on the tin electrode was investigated. Potentiodynamic polarization studies were conducted in CO2 saturated and N2 saturated 0.1 M KHCO3 solutions, in the potential range from −0.014 V to −1.59 V vs. RHE. A faradaic efficiency of 93.95 % towards formate production was obtained at −1.09 V vs. RHE. The mass transfer effects and bicarbonate dissociation equilibrium were used to estimate the concentration of the reactants at the electrode surface. Density functional theory calculations indicate that –OCHO intermediate species is thermodynamically favoured, and a four-step reaction with two intermediates is proposed. The proposed mechanism captures the major features of the polarization data. CO2 reduction occurs via two intermediate species, viz. adsorbed H and OCHO species, while HER occurs via Volmer-Heyrovsky steps. The model predicts that in N2 saturated solutions, the fractional surface coverage of adsorbed H reaches a maximum of ∼0.48 at a potential of −0.82 V vs. RHE while in CO2 saturated solutions, the corresponding value is ∼0.29. In addition, the maximum fractional surface coverage of adsorbed OCHO is predicted to be ∼0.12 in CO2 saturated solutions.    
+
+    
+
+## Exploring Carbon Monoxide and Carbon Dioxide Adsorption on (5,5) Aluminum Nitride Nanotubes for Enhanced Sensor Applications: A DFT Study   
+
+OpenAlex: https://openalex.org/W4391136623    
+Open access: True
+    
+[Nafiu Suleiman](https://openalex.org/A5038227907), [Vitus A. Apalangya](https://openalex.org/A5079033541), [Bismark Mensah](https://openalex.org/A5078135160), [Kwabena Kan-Dapaah](https://openalex.org/A5054039917), [Abu Yaya](https://openalex.org/A5033891258), Molecules. 29(3)] 2024.https://doi.org/10.3390/molecules29030557 ([pdf](https://www.mdpi.com/1420-3049/29/3/557/pdf?version=1706009200)).
+    
+This study examined the sensitivity of single-walled (5,5) aluminium nitride nanotubes ((5,5) AlNNTs) to carbon monoxide (CO) and carbon dioxide (CO2) gas molecules by performing DFT calculations using a hybrid functional, specifically, B3LYP (Becke’s three-parameter, Lee-Yang-Parr) exchange-correlation functional at a 6–31G* basis set. This research investigates the adsorption behavior of CO2 and CO molecules on pristine and silicon-doped aluminum nitride nanotubes (AlNNTs) and examines their implications for sensor applications. The study assesses each system’s adsorption energy, sensing potential, and recovery time to gain insights into their binding strength and practical viability. For CO2 adsorption on (5,5) AlNNT, significant adsorption energy of −24.36 kcal/mol was observed, indicating a strong binding to the nanotube surface, with a sensing potential of 8.95%. However, the slow recovery time of approximately 4.964 days may limit its real-time application. Si-(5,5) AlNNT exhibited a CO2 adsorption energy of −19.69 kcal/mol, a sensing potential of 5.40%, and a relatively short recovery time of approximately 2.978 min, making it a promising candidate for CO2 sensing. CO adsorption on (5,5) AlNNT showed an adsorption energy of −25.20 kcal/mol, a sensing potential of 9.095%, but a longer recovery time of approximately 20.130 days. Si-(5,5) AlNNT displayed a high CO adsorption energy of −20.78 kcal/mol, a sensing potential of 4.29%, and a recovery time of approximately 18.320 min. These findings provide insights into the adsorption characteristics of carbon molecules on AlNNTs, highlighting their potential for CO2 and CO sensing applications.    
 
     
 
@@ -607,7 +618,7 @@ Two-dimensional (2D) photocatalysts loaded with metal nanosheets, posessing enha
 OpenAlex: https://openalex.org/W4391077147    
 Open access: False
     
-[K. Talbi](https://openalex.org/A5007162321), [Pierre Mialane](https://openalex.org/A5039753949), [F. Simón Hidalgo](https://openalex.org/A5042493681), [Albert Solé‐Daura](https://openalex.org/A5086372340), [Caroline Mellot‐Draznieks](https://openalex.org/A5032549164), [Anne Dolbecq](https://openalex.org/A5064073246), No host. None(None)] 2023.None.
+[K. Talbi](https://openalex.org/A5007162321), [Pierre Mialane](https://openalex.org/A5039753949), [F. Simón Hidalgo](https://openalex.org/A5042493681), [Albert Solé-Daurá](https://openalex.org/A5086372340), [Caroline Mellot‐Draznieks](https://openalex.org/A5032549164), [Anne Dolbecq](https://openalex.org/A5064073246), No host. None(None)] 2023.None.
     
 No abstract    
 
@@ -632,6 +643,17 @@ Open access: False
 [Yong‐Xing He](https://openalex.org/A5039768705), [Lin Yin](https://openalex.org/A5072741411), [Nanci Yuan](https://openalex.org/A5085683068), [Gaoke Zhang](https://openalex.org/A5091370242), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148754.
     
 Photocatalytic CO2 reduction (PCR) technology is one of the potential strategies to mitigate the greenhouse effect, solve the energy crisis and achieve goals of carbon dioxide emissions peak and carbon neutrality. However, it is extremely difficult to adsorb and activate CO2 due to the high dissociation energy of C = O bond in CO2 molecule (750 kJ·mol−1), resulting in poor performance of PCR. In addition, in the heterogeneous reaction process, adsorbing and activating CO2 are closely related to the active sites on the surface of photocatalyst. Therefore, in-depth and detailed exploration of the adsorption and activation of CO2 on active sites is critical to developing high-performance photocatalysts. Herein, this review firstly explores adsorption modes of CO2 on the active sites of photocatalyst, including physisorption and chemisorption, where chemisorption includes oxygen, carbon and mixed adsorption. Secondly, reaction pathways for the formation of different high value-added chemical products are introduced, including formaldehyde, carbene, glyoxal and mixed pathways. Then, strategies for enhancing the adsorption and activation of CO2 are briefly summarized. Finally, the future prospects and challenges of PCR development are discussed. This work provides insights and references for further designing photocatalysts that can enhance the adsorption and activation of CO2 and improve the performance of PCR.    
+
+    
+
+## Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4391151075    
+Open access: False
+    
+[Dongyue Gao](https://openalex.org/A5047060524), [Yue Xu](https://openalex.org/A5043595651), [Zhe Li](https://openalex.org/A5023826377), [Yadong Yu](https://openalex.org/A5016142397), [Caiyan Yu](https://openalex.org/A5084234940), [Yi Fang](https://openalex.org/A5054091259), [Yang Huang](https://openalex.org/A5023704274), [Chengchun Tang](https://openalex.org/A5022913125), [Zhonglu Guo](https://openalex.org/A5069736534), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159501.
+    
+No abstract    
 
     
 

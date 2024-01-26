@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Thu Jan 25 00:42:22 2024
+Created on Fri Jan 26 00:39:25 2024
 
-Found 25 results from 2024-01-11 to 2024-01-25
+Found 25 results from 2024-01-12 to 2024-01-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst](https://api.openalex.org/works?filter=title-and-abstract.search%3Aliquid%20metal%20catalyst)
 
@@ -226,17 +226,6 @@ The research and development of efficient catalyst is the key to achieving high-
 
     
 
-## A Cluster-Type Self-Healing Catalyst for Stable Saline–Alkali Water Splitting   
-
-OpenAlex: https://openalex.org/W4390986406    
-Open access: True
-    
-[Haiming Wang](https://openalex.org/A5002285545), [Sheng Chen](https://openalex.org/A5039744969), Catalysts. 14(1)] 2024.https://doi.org/10.3390/catal14010081 ([pdf](https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459)).
-    
-In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
-
-    
-
 ## Ultrasound‐Assisted Preparation and Performance Regulation of Electrocatalytic Materials   
 
 OpenAlex: https://openalex.org/W4390718253    
@@ -245,6 +234,17 @@ Open access: False
 [Qibo Deng](https://openalex.org/A5058502784), [Shuang Chen](https://openalex.org/A5078024000), [Weitai Wu](https://openalex.org/A5013563049), [Shuyu Zhang](https://openalex.org/A5017401077), [Hassanien Gomaa](https://openalex.org/A5014881567), [Cuihua An](https://openalex.org/A5048675576), [Ning Hu](https://openalex.org/A5090597551), [Xiaopeng Han](https://openalex.org/A5025874763), ChemPlusChem. None(None)] 2024.https://doi.org/10.1002/cplu.202300688.
     
 With the advancement of scientific research, the introduction of external physical methods not only adds extra freedom to the design of electro‐catalytical processes for green technologies but also effectively improves the reactivity of materials. Physical methods can adjust the intrinsic activity of materials and modulate the local environment at the solid‐liquid interface. In particular, this approach holds great promise in the field of electrocatalysis. Among them, the ultrasonic waves have shown reasonable control over the preparation of materials and the electrocatalytic process. However, the research on coupling ultrasonic waves and electrocatalysis is still early. The understanding of their mechanisms needs to be more comprehensive and deep enough. Firstly, this article extensively discusses the adhibition of the ultrasonic‐assisted preparation of metal‐based catalysts and their catalytic performance as electrocatalysts. The obtained metal‐based catalysts exhibit improved electrocatalytic performances due to their high surface area and more exposed active sites. Additionally, this article also points out some urgent unresolved issues in the synthesis of materials using ultrasonic waves and the regulation of electrocatalytic performance. Lastly, the challenges and opportunities in this field are discussed, providing new insights for improving the catalytic performance of transition metal‐based electrocatalysts.    
+
+    
+
+## A Cluster-Type Self-Healing Catalyst for Stable Saline–Alkali Water Splitting   
+
+OpenAlex: https://openalex.org/W4390986406    
+Open access: True
+    
+[Haiming Wang](https://openalex.org/A5002285545), [Sheng Chen](https://openalex.org/A5039744969), Catalysts. 14(1)] 2024.https://doi.org/10.3390/catal14010081 ([pdf](https://www.mdpi.com/2073-4344/14/1/81/pdf?version=1705587459)).
+    
+In electrocatalytic processes, traditional powder/film electrodes inevitably suffer from damage or deactivation, reducing their catalytic performance and stability. In contrast, self-healing electrocatalysts, through special structural design or composition methods, can automatically repair at the damaged sites, restoring their electrocatalytic activity. Here, guided by Pourbaix diagrams, foam metal was activated by a simple cyclic voltammetry method to synthesize metal clusters dispersion solution (MC/KOH). The metal clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (MC/NixFeyOOH) by a facile Ni-Fe metal–organic framework-reconstructed strategy, exhibiting superior performance toward the oxygen evolution reaction (OER) in the mixture of MC/KOH and saline–alkali water (MC/KOH+SAW). Specifically, using a nickel clusters-modified hydroxylated Ni-Fe oxyhydroxide electrode (NC/NixFeyOOH) for OER, the NC/NixFeyOOH catalyst has an ultra-low overpotential of 149 mV@10 mA cm−2, and durable stability of 100 h at 500 mA cm−2. By coupling this OER catalyst with an efficient hydrogen evolution reaction catalyst, high activity and durability in overall SAW splitting is exhibited. What is more, benefiting from the excellent fluidity, flexibility, and enhanced catalytic activity effect of the liquid NC, we demonstrate a self-healing electrocatalysis system for OER operated in the flowing NC/(KOH+SAW). This strategy provides innovative solutions for the fields of sustainable energy and environmental protection.    
 
     
 

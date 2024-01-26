@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jan 25 00:42:24 2024
+Created on Fri Jan 26 00:39:27 2024
 
-Found 7 results from 2024-01-11 to 2024-01-25
+Found 8 results from 2024-01-12 to 2024-01-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -47,6 +47,17 @@ Open access: False
 [William N. Porter](https://openalex.org/A5060526552), [Hilda Mera](https://openalex.org/A5012436789), [Wenjie Liao](https://openalex.org/A5050541240), [Zhexi Lin](https://openalex.org/A5005584952), [Ping Liu](https://openalex.org/A5064944001), [John R. Kitchin](https://openalex.org/A5003442464), [Jingguang G. Chen](https://openalex.org/A5034358731), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04700.
     
 Biomass valorization can be used to produce value-added chemicals and fuels from renewable biomass resources by upgrading them via selective bond scission while retaining certain functional groups. Specifically, upgrading biomass through the dehydrogenation of alcohols to carbonyl compounds has gained interest as a method of utilizing biomass-derived alcohols while additionally producing H2. In this work, isopropanol was used as a probe molecule to control bond scission selectivity over Fe- and Pt-modified molybdenum nitride (Mo2N) model surfaces and powder catalysts. Trends in the selectivity toward dehydration and dehydrogenation were dependent on both the type and coverage of the metal overlayer on model surfaces. These results were then extended to the corresponding powder catalysts to demonstrate how model surface studies can inform the design of supported catalysts. Density functional theory calculations provided insights into controlling the dehydration and dehydrogenation pathways. This work shows that a fundamental understanding of the reactivity and intermediates on Mo2N-based model surfaces can be applied to understand the catalytic performance of metal-modified Mo2N powder catalysts, and also demonstrates that Mo2N-based catalysts are potentially promising materials for upgrading biomass-derived oxygenates.    
+
+    
+
+## Routing and scheduling of platform supply vessels in offshore oil and gas logistics   
+
+OpenAlex: https://openalex.org/W4391147858    
+Open access: False
+    
+[Victor A. Silva](https://openalex.org/A5000328818), [Akang Wang](https://openalex.org/A5048285644), [Virgílio José Martins Ferreira Filho](https://openalex.org/A5066953689), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.1016/j.cor.2024.106556.
+    
+In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm’s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.    
 
     
 
