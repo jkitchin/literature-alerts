@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Jan 26 00:39:24 2024
+Created on Sat Jan 27 00:38:57 2024
 
-Found 60 results from 2024-01-12 to 2024-01-26
+Found 62 results from 2024-01-13 to 2024-01-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
@@ -11,7 +11,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 ## Unbiased Photoelectrochemical Carbon Dioxide Reduction Shaping the Future of Solar Fuels   
 
 OpenAlex: https://openalex.org/W4390650933    
-Open access: False
+Open access: True
     
 [Haijiao Lu](https://openalex.org/A5066466833), [Luyao Wang](https://openalex.org/A5042282225), Applied Catalysis B: Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.123707.
     
@@ -22,7 +22,7 @@ As atmospheric carbon dioxide (CO2) levels surge due to human activities, addres
 ## A Sulfur‐Doped Copper Catalyst with Efficient Electrocatalytic Formate Generation during the Electrochemical Carbon Dioxide Reduction Reaction   
 
 OpenAlex: https://openalex.org/W4390656131    
-Open access: False
+Open access: True
     
 [Yinuo Wang](https://openalex.org/A5087349574), [Hongming Xu](https://openalex.org/A5022951375), [Yu‐Shen Liu](https://openalex.org/A5042932900), [Juhee Jang](https://openalex.org/A5043436936), [Xiaoyi Qiu](https://openalex.org/A5089516306), [Ernest Pahuyo Delmo](https://openalex.org/A5078369945), [Qinglan Zhao](https://openalex.org/A5018366822), [Ping Gao](https://openalex.org/A5018528154), [Minhua Shao](https://openalex.org/A5069700804), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202313858.
     
@@ -33,7 +33,7 @@ Catalysts involving post‐transition metals have shown almost invincible perfor
 ## A Sulfur‐Doped Copper Catalyst with Efficient Electrocatalytic Formate Generation during the Electrochemical Carbon Dioxide Reduction Reaction   
 
 OpenAlex: https://openalex.org/W4390656198    
-Open access: False
+Open access: True
     
 [Yinuo Wang](https://openalex.org/A5087349574), [Hongming Xu](https://openalex.org/A5022951375), [Yu‐Shen Liu](https://openalex.org/A5042932900), [Juhee Jang](https://openalex.org/A5043436936), [Xiaoyi Qiu](https://openalex.org/A5089516306), [Ernest Pahuyo Delmo](https://openalex.org/A5078369945), [Qinglan Zhao](https://openalex.org/A5018366822), [Ping Gao](https://openalex.org/A5056167840), [Minhua Shao](https://openalex.org/A5069700804), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202313858.
     
@@ -79,7 +79,7 @@ Carbon capture and conversion are becoming increasingly important as atmospheric
 OpenAlex: https://openalex.org/W4390754419    
 Open access: False
     
-[Michael Edward Lev Massen-Hane](https://openalex.org/A5037389256), [Kyle M. Diederichsen](https://openalex.org/A5019447853), [T. Alan Hatton](https://openalex.org/A5046348268), No host. 1(1)] 2024.https://doi.org/10.1038/s44286-023-00003-3.
+[Michael Edward Lev Massen-Hane](https://openalex.org/A5037389256), [Kyle M. Diederichsen](https://openalex.org/A5019447853), [T. Alan Hatton](https://openalex.org/A5046348268), Nature Chemical Engineering. 1(1)] 2024.https://doi.org/10.1038/s44286-023-00003-3.
     
 With ever-increasing atmospheric carbon dioxide concentrations and commitments to limit global temperatures to less than 1.5 °C above pre-industrial levels, the need for versatile, low-cost carbon dioxide capture technologies is paramount. Electrochemically mediated carbon dioxide separation systems promise low energetics, modular scalability and ease of implementation, with direct integration to renewable energy for net-negative carbon dioxide operations. For these systems to be cost-competitive, key factors around their operation, stability and scaling need to be addressed. Energy penalties associated with redox-active species transport, gas transport and bubble formation limit the volumetric productivity and scaling potential due to their cost and footprint. Here we highlight the importance of engineering approaches towards enhancing the performance of redox-active electrochemically mediated carbon dioxide capture systems to enable their widespread implementation. This Perspective discusses electrochemically mediated carbon dioxide capture systems, which can offer lower energetics than standard thermal methods, with modular scalability. New integrated configurations can further reduce costs and improve unit productivity, while further engineering of existing cell designs will enable more rapid implementation.    
 
@@ -228,6 +228,28 @@ This study examined the sensitivity of single-walled (5,5) aluminium nitride nan
 
     
 
+## Steering the Selectivity of Carbon Dioxide Electroreduction from Single-Carbon to Multicarbon Products on Metal–Organic Frameworks via Facet Engineering   
+
+OpenAlex: https://openalex.org/W4391160753    
+Open access: False
+    
+[Pengyi Lu](https://openalex.org/A5087588830), [Jia Lv](https://openalex.org/A5005078963), [Yu Chen](https://openalex.org/A5052676364), [Yangbo Ma](https://openalex.org/A5085300962), [Yunhao Wang](https://openalex.org/A5055096182), [Wei Lyu](https://openalex.org/A5066831596), [Jinli Yu](https://openalex.org/A5039185984), [Jingwen Zhou](https://openalex.org/A5025709244), [Jinwen Yin](https://openalex.org/A5082799977), [Yi Xiong](https://openalex.org/A5011847790), [Guozhi Wang](https://openalex.org/A5081825149), [Chongyi Ling](https://openalex.org/A5007388482), [Shibo Xi](https://openalex.org/A5031292832), [Daliang Zhang](https://openalex.org/A5010844416), [Zhanxi Fan](https://openalex.org/A5065739319), Nano Letters. None(None)] 2024.https://doi.org/10.1021/acs.nanolett.3c04092.
+    
+Although metal–organic frameworks (MOFs) have attracted more attention for the electrocatalytic CO2 reduction reaction (CO2RR), obtaining multicarbon products with a high Faradaic efficiency (FE) remains challenging, especially under neutral conditions. Here, we report the controlled synthesis of stable Cu(I) 5-mercapto-1-methyltetrazole framework (Cu-MMT) nanostructures with different facets by rationally modulating the reaction solvents. Significantly, Cu-MMT nanostructures with (001) facets are acquired using isopropanol as a solvent, which favor multicarbon production with an FE of 73.75% and a multicarbon:single-carbon ratio of 3.93 for CO2RR in a neutral electrolyte. In sharp contrast, Cu-MMT nanostructures with (100) facets are obtained utilizing water, promoting single-carbon generation with an FE of 63.98% and a multicarbon: single-carbon ratio of only 0.18. Furthermore, this method can be extended to other Cu-MMT nanostructures with different facets in tuning the CO2 reduction selectivity. This work opens up new opportunities for the highly selective and efficient CO2 electroreduction to multicarbon products on MOFs via facet engineering.    
+
+    
+
+## Selectively Adsorbed Mercaptoethanesulfonic Acid on Au/TiO2 Enhances the Yield and Selectivity of Photocatalytic Reduction of Carbon Dioxide   
+
+OpenAlex: https://openalex.org/W4391239090    
+Open access: False
+    
+[Mengdan Guan](https://openalex.org/A5054525040), [Junjie Wang](https://openalex.org/A5048989648), [Zhongyan Gong](https://openalex.org/A5075682753), [Kun Gao](https://openalex.org/A5038210442), [Xing Kang](https://openalex.org/A5001997986), [Yulong Zhang](https://openalex.org/A5017795751), [Chengcheng Zhu](https://openalex.org/A5004494857), [Zhihao Lü](https://openalex.org/A5035535613), [Xinya Chen](https://openalex.org/A5032903415), [Jianguo Lü](https://openalex.org/A5029884880), [Qinghua Liu](https://openalex.org/A5060177975), [Haonan Chen](https://openalex.org/A5082636639), [Liuyingzi Yu](https://openalex.org/A5034590754), [Kaili Wang](https://openalex.org/A5077289752), [Zhuoyao Li](https://openalex.org/A5078980502), [Gang Lü](https://openalex.org/A5020760319), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c03093.
+    
+No abstract    
+
+    
+
 ## Recent advances in novel materials for photocatalytic carbon dioxide reduction   
 
 OpenAlex: https://openalex.org/W4391102665    
@@ -338,6 +360,17 @@ No abstract
 
     
 
+## The need for radical climate interventions: six years to secure humanity's ‘liveable future’   
+
+OpenAlex: https://openalex.org/W4390743472    
+Open access: True
+    
+[Stuart White](https://openalex.org/A5029074402), [Hugh Montgomery](https://openalex.org/A5086453071), Anaesthesia. None(None)] 2024.https://doi.org/10.1111/anae.16160 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/anae.16160)).
+    
+‘If you're not part of the solution, you're part of the problem’. (attrib.) Harry Emerson Fosdick/Eldridge Cleaver Manmade global heating is occurring more rapidly and intensively than forecast by the Intergovernmental Panel on Climate Change (IPCC) in 2018 [1]. In July 2023, the Earth experienced its highest mean monthly land and sea surface temperatures since records began [2], global mean surface temperature twice breaching 1.5°C above pre-industrial levels (the sustained target identified in the 2015 Paris climate agreement) [1]. Moreover, there is ‘no credible pathway to 1.5°C in place’ today [3]. Indeed, several researchers have forecast rises of 2°C (or even as high as 2.4°C) by 2045–2050 [4-9], highlighting problems in the IPCC's use of pooled models, publication lags, its under-appreciation of positive climate feedback loops and natural conservatism in achieving global consensus (‘erring on the side of least drama’). Heating ≥ 2°C would bring ‘numerous risks to natural and human systems’ (at ‘multiple times (the rates) currently observed’ [10]), including biodiversity loss; food and water shortages; extreme weather events; outbreaks of infectious disease; mass migration; and geopolitical crises [3]. Any further delay in radically reducing so-called greenhouse gas emissions will risk missing ‘a brief and rapidly closing window to secure a liveable future’ [10]. Events may accelerate even faster than this. Occurring slowly, and then very rapidly once ‘climate tipping points’ are exceeded, self-perpetuating positive feedback loops can interact in ‘climate tipping cascades’, amplifying global heating. Five of nine core global tipping elements and their climate tipping points have already been breached, increasing the likelihood of further breaches, and potentially accelerating global heating towards 2–3°C by 2050 [11]. For example, thawing carbon-rich polar ice shelves and permafrost drives the release of methane (83 times as powerful a greenhouse gas as carbon dioxide over the first 20 years after its release), reduces reflection of solar energy back into space and increases the loss of winter sea ice (contributing to sea level rises and altered ocean currents). Some tropical forests have become net carbon dioxide emitters because of heating-related deforestation and altered local weather patterns. The shift of multiple weather systems into new and dangerous states (for instance, through the collapse of major ocean circulations and movement of the northerly jet stream) are likely to precipitate extreme weather events, and thus food and water shortages. Individual and compound cascade effects increase the likelihood of high-consequence (‘fat tail’) geopolitical and economic threats to humanity and could plausibly precipitate the collapse of human civilisation within 30 years (360 months, c. 2050) [6, 9]. Humanity has always faced seemingly insoluble existential crises. Virtually all previous civilisations have collapsed, including several after ecological disasters [12], but this will be the first time that humanity has caused a global collapse knowingly and whilst documenting it. The predicted 30-year time horizon should shake humanity's collective complacency: ‘it won't happen in my lifetime’ becomes redundant as any justification for continuing the current rate of personal or societal contributions to climate change. The collapse of global civilisation is not inevitable, but all of us need to act quickly and decisively to avoid breaching the 1.5°C threshold identified by the IPCC. Manmade carbon dioxide emissions need to halve by 2030 compared with 2010 levels and reach net zero by 2050 [1] to limit global heating ≤ 1.5°C, or 45% by 2030 and reach net zero by 2070 to remain ≤ 2°C. Net zero does not mandate cessation of manmade carbon dioxide emissions, merely that they occur at the same rate as their ‘draw down’ (removal) from the atmosphere. Many have called for radical decarbonisation and further research. Radical decarbonisation needs to proceed urgently according to actions based on current knowledge and informed opinion. Certainly, research should be performed (e.g. into carbon capture and storage technologies) but should not delay immediate action to reduce emissions. However, we cannot wait for certainty, or rely on innovation and technology to engineer us out of imminent climate collapse. Even if the IPCC 1.5°C and 2°C target horizons remain valid, we will need to reduce greenhouse gas emissions by over 10% year-on-year to 2030 (i.e. approximately double the 5.4% annual emissions reduction measured during the COVID-19 pandemic ‘anthropause’ of 2020). This applies as much to anaesthesia as other fields of human endeavour. We need to commit immediately to radically decarbonising our personal lives (Fig. 1 and online Supporting Information Figure S1) and engage professionally and politically in implementing similar strategies at the institutions in which we work and, more broadly, throughout the societies in which we live [13]. Recent controversy about the relative contribution of inhalational anaesthetic agents to radiative forcing (global heating) has prompted calls for further research. Although this might improve data accuracy and the refinement of volatile capture technologies, it would not change the necessary action of abandoning the global use of these potent chlorofluorocarbons [14]. As leaders and opinion formers, anaesthetists need to become vocal public advocates of ‘green’ healthcare strategies extrapolated from the limited research already published [15]. This concurs that radical reductions in healthcare have positive effects on the triple bottom line of climate accountability (planet/people/profit) by decreasing direct (polluting) and indirect (life cycle) emissions to a far greater degree than reuse, recycling or re-engineering strategies [16]. Traditionally, such reductions are delivered by improving public health as well as healthcare efficacy and efficiencies. Morrison et al. define more ‘radical’ interventions for climate-impacted systems (including healthcare) as ‘those that ultimately address the root causes of climate change along structurally transformative and systemic pathways’ (i.e. capitalism, materialism, asymmetric power relations and the ‘lock-in’ of exploitative and extractive systems), in contrast to more ‘symptomatic’ interventions that maintain the status quo [17]. Understandably, effecting radical systemic change within globalised capitalist societies to bring about climate rescue within the timeframe needed can produce the kind of existential paralysis individuals experience in the face of the enormity of that task. As well as countering allegations of negative alarmism and extremism, Morrison et al. go on to consider ‘the art of the possible’ by defining six ‘shades of radical’, each reflecting the extent to which that intervention disrupts the status quo to address the root drivers of climate change (Table 1). Theatre waste recycling ‘green theatre’ Rationing To deliver the magnitude of climate rescue necessary (45% reduction in carbon dioxide emissions) within the time horizon allotted (six years, 2030), it is worth considering the deep radical interventions listed in in further depth. No country will be able to insulate itself from future climate-related insecurities, regardless of its relative wealth [3]. To date, governments in higher-income countries have relied on outsourcing climate change solutions to industry, rather than using their own powers to address the root drivers of climate change through deeply radical societal change. Although technological solutions will play an important part in emission reduction and carbon drawdown, none currently exist at scale for this purpose. Therefore, active participation in local and national democratic elections remains the most potent and immediate driver of deep radical change available to individuals for influencing national and international climate agendas. Voters can change climate policies by communicating their demands for climate action and voting accordingly. Healthcare's climate footprint is equivalent to 4% of global net carbon dioxide emissions. Healthcare in the UK contributes approximately 4% of the national total, in Australia 7% and in the USA 10%. If the healthcare system in the USA were a country, it would rank 13th in the world for greenhouse gas emissions [20]. Nearly 12% of global gross domestic product is spent on healthcare. No publicly or privately funded economic model of healthcare worldwide currently incorporates environmental costs but redistributing this enormous sum of money – almost £10 trillion ($12.3, €11.5 trillion) – to low-carbon activity could fund very significant climate change mitigation. Some authors have insisted that healthcare's outsize environmental footprint can be reduced without compromising quality [21]. Although there are many moral difficulties inherent in rationing something normally considered critical to human continuance, the intensity and breadth of healthcare as currently provided is unsustainable and needs to be re-assessed urgently, before rationing becomes a crisis of necessity rather than of choice [22]. How might countries reduce the environmental impact of specific healthcare interventions? Fractional taxation of the estimated financial cost of an intervention might enable redistributive investment in sustainability and should be relatively straightforward to administer. More specific national initiatives (e.g. Getting it Right First Time [19], Choosing Wisely [23] and the Intercollegiate Green Theatre Checklist [24]) invite healthcare systems to think about reducing financial, and therefore environmental costs but may have limited global applicability. Regardless of their shortcomings, it is inevitable that unpopular ways of reducing the environmental impact of healthcare by limiting its supply will need to be debated soon, e.g. re-evaluating ‘futility’ and ‘success’ thresholds; repeated procedures; value (numbers needed to treat); and the utility of routine investigations. Greater environmental benefits would accrue from radically reducing the demand for clinical services, and more acceptably than rationing their supply. Currently, models of healthcare provided in high-income countries are necessarily ‘disease-care’ models, which react very successfully to acute clinical problems but have proven far less effective at preventing chronic ill health. New paradigms are needed to interrupt the common pathways of chronic disease, reducing the need for future clinical treatment and therefore the financial costs and environmental impacts of medicine [25]. In practice, this might involve motivated anaesthetists broadening the scope of pre- and postoperative assessment clinics towards preventative/non-operative management or retraining to become specialists in preventative medicine/public health or adopting health management/political roles. Manmade climate change is accelerating towards the collapse of human civilisation within a plausible and palpable 30-year time horizon. Humanity has too few years – six – to avert this climate endgame without radically reducing carbon dioxide emissions. Even at this late stage, existential pessimism can be defeated by collective personal, professional and societal change if all of us do all that we can all of the time. The alternative – an ‘unliveable future’ – is unthinkable. The views expressed are those of the authors. SW was convenor of the World Federation of Societies of Anesthesiologists consensus principles of environmentally sustainable anaesthesia. HM has received a grant from the Oak Foundation to support health service decarbonisation and is partly funded by the UK NIHR Comprehensive Biomedical Research Centre at University College Hospitals, London. The authors encourage readers to watch this video to learn more about the views expressed in this editorial https://www.youtube.com/watch?v=i2a-6KCAuKs&list=PL3DB2dmXdc7aKdVmseHqW2tlhV2hdrGbo&index=4&pp=gAQBiAQB. No external funding or other competing interests declared. Figure S1. The green anaesthesia manifesto. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.    
+
+    
+
 ## Design of highly selective and stable CsPbI3 perovskite catalyst for photocatalytic reduction of CO2 to C1 product   
 
 OpenAlex: https://openalex.org/W4390753904    
@@ -354,9 +387,20 @@ Finding efficient photocatalytic carbon dioxide reduction catalysts is one of th
 OpenAlex: https://openalex.org/W4391097601    
 Open access: False
     
-[Merve Gül Civgin](https://openalex.org/A5061457454), [Cengiz Deniz](https://openalex.org/A5039497906), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4703037.
+[Merve GÜL ÇIVGIN](https://openalex.org/A5061457454), [Cengiz Deniz](https://openalex.org/A5039497906), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4703037.
     
 Highlights• Thermodynamic analysis of organic rankine cycle using exhaust gas as a heat source was done.• The amount of carbon dioxide reduction obtained using the organic rankine cycle was shown.• The cases where the exhaust gas has different thermal values such as boiler outlet, turbocharger outlet were analyzed.• The selection of working fluid was evaluated according to exhaust gas specifications as a heat source.• The effect of evaporation temperature of working fluid and degree of superheating on the ORC system performance was analyzed.    
+
+    
+
+## プラズマ触媒作用を用いた二酸化炭素還元反応の促進に関する基礎研究   
+
+OpenAlex: https://openalex.org/W4391161005    
+Open access: True
+    
+[Susumu Toko](https://openalex.org/A5083610808), [Takamasa Okumura](https://openalex.org/A5065406931), [Kunihiro Kamataki](https://openalex.org/A5079413858), [Kosuke Takenaka](https://openalex.org/A5065576212), [Kazunori KOGA](https://openalex.org/A5074854741), [Masaharu Shiratani](https://openalex.org/A5026098035), [Yuichi Setsuhara](https://openalex.org/A5067792196), No host. 13(1)] 2024.https://doi.org/10.7791/jspmee.13.31 ([pdf](https://www.jstage.jst.go.jp/article/jspmee/13/1/13_31/_pdf)).
+    
+Carbon dioxide reduction is one of the key technologies for achieving a sustainable society. In this study, plasma catalysis were used to hydrogenate carbon dioxide to produce methane. Plasma catalysis have attracted attention in recent years as a technology promoting a reaction at lower temperatures by various synergistic effects between plasma and catalysts. In this study, molecular sieve with a pore diameter of 3 Å was used as a catalyst and its role was investigated. The results showed that: 1. molecular and atomic adsorption functions of molecular sieves are useful to inhibit reverse reactions; 2. the influence of molecular sieves becomes stronger at higher pressures, resulting in higher methane production; 3. energetic reactive particles derived from hydrogen deactivate molecular sieves; 4. molecules adsorbed on molecular sieve can be recycled by hydrogen plasma irradiation.    
 
     
 
@@ -382,39 +426,6 @@ To mitigate greenhouse effects, carbon dioxide reduction reaction (CO2RR) has be
 
     
 
-## Nature AND Nurture: Enabling formate-dependent growth in Methanosarcina acetivorans   
-
-OpenAlex: https://openalex.org/W4390697828    
-Open access: True
-    
-[Jichen Bao](https://openalex.org/A5068041035), [Tejas Somvanshi](https://openalex.org/A5093472391), [Ying Tian](https://openalex.org/A5045432123), [Maxime Gabriel Laird](https://openalex.org/A5093032219), [Pierre Garcia](https://openalex.org/A5014625536), [Christian Schöne](https://openalex.org/A5041347017), [Michael Rother](https://openalex.org/A5072152901), [Guillaume Borrel](https://openalex.org/A5025882044), [Silvan Scheller](https://openalex.org/A5052318836), No host. None(None)] 2024.https://doi.org/10.1101/2024.01.08.574737 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/01/09/2024.01.08.574737.full.pdf)).
-    
-Methanogens are essential players in the global carbon cycle. Methanosarcinales possess one of the most diverse metabolic repertoires for methanogenesis, but they have never been observed to utilize formate as a substrate. We successfully reprogrammed the primary metabolism of Methanosarcina acetivorans by introducing an exogenous formate dehydrogenase derived from a closely related species. The engineered strains acquired the capacity to harness energy from formate-dependent methanogenesis pathways, including formate-dependent methyl reduction and formate-dependent carbon dioxide reduction. The ability of M. acetivorans to thrive on formate suggests the existence of essential accessory machinery and metabolic redundancy for generating reduced ferredoxins from F420H2. This remarkable plasticity in energy metabolism raises the possibility that an ancestral lineage of Methanosarcinales may have possessed the capacity to utilize formate. By combining this genetically modified strain with a disruption in methyl disproportionation, we have created a novel tool for investigating and manipulating the components of the F420 reduction and methanogenesis pathways independently.    
-
-    
-
-## Peeking into the Femtosecond Hot-Carrier Dynamics Reveals Unexpected Mechanisms in Plasmonic Photocatalysis   
-
-OpenAlex: https://openalex.org/W4390743905    
-Open access: True
-    
-[Giulia Dall’Osto](https://openalex.org/A5030114701), [Margherita Marsili](https://openalex.org/A5034214423), [Mirko Vanzan](https://openalex.org/A5038585202), [Daniele Toffoli](https://openalex.org/A5049528343), [Mauro Stener](https://openalex.org/A5084612398), [Stefano Corni](https://openalex.org/A5078141074), [Emanuele Coccia](https://openalex.org/A5037684430), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c12470 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12470)).
-    
-Plasmonic-driven photocatalysis may lead to reaction selectivity that cannot be otherwise achieved. A fundamental role is played by hot carriers, i.e., electrons and holes generated upon plasmonic decay within the metal nanostructure interacting with molecular species. Understanding the elusive microscopic mechanism behind such selectivity is a key step in the rational design of hot-carrier reactions. To accomplish that, we present state-of-the-art multiscale simulations, going beyond density functional theory, of hot-carrier injections for the rate-determining step of a photocatalytic reaction. We focus on carbon dioxide reduction, for which it was experimentally shown that the presence of a rhodium nanocube under illumination leads to the selective production of methane against carbon monoxide. We show that selectivity is due to a (predominantly) direct hole injection from rhodium to the reaction intermediate CHO. Unexpectedly, such an injection does not promote the selective reaction path by favoring proper bond breaking but rather by promoting bonding of the proper molecular fragment to the surface.    
-
-    
-
-## MXenes as Electrocatalysts for the CO2 Reduction Reaction: Recent Advances and Future Challenges   
-
-OpenAlex: https://openalex.org/W4390829428    
-Open access: True
-    
-[Ling Peng Meng](https://openalex.org/A5080818001), [Ebrahim Tayyebi](https://openalex.org/A5013714174), [Kai S. Exner](https://openalex.org/A5004991965), [Francesc Viñes](https://openalex.org/A5092197857), [Francesc Illas](https://openalex.org/A5012273051), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202300598 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202300598)).
-    
-Abstract Electrochemical carbon dioxide reduction (CO 2 RR) is gaining momentum as an effective process to capture and convert CO 2 into valuable chemicals and fuels, as well as to contribute reducing greenhouse gas emissions. Two‐dimensional transition metal carbides and/or nitrides (MXenes) are increasingly attracting attention as CO 2 RR electrocatalysts due to their enhanced chemical activity and selectivity, overcoming limitations of traditional metal CO 2 RR electrocatalysts, and likely breaking the scaling relations of reaction intermediates toward the desired product. The present concept reviews the state‐of‐the‐art in the computational description of CO 2 RR on MXenes, going from CO 2 activation on pristine models to different surface terminations, and discuss possible ways to tune the catalytic activity and selectivity, including doping, defects, supported single metal atoms, solvent effects, and electric field effects, while putting in the spotlight prospects by including kinetic aspects.    
-
-    
-
 ## Unconventional and Emerging Approaches to CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4390878076    
@@ -423,6 +434,39 @@ Open access: True
 [Jeffrey G. Bell](https://openalex.org/A5031060981), [Thomas Underwood](https://openalex.org/A5069625825), Sustainability. 16(2)] 2024.https://doi.org/10.3390/su16020713 ([pdf](https://www.mdpi.com/2071-1050/16/2/713/pdf?version=1705288994)).
     
 This perspective highlights unconventional and emerging approaches to CO2 reduction. These methods encompass the use of topological materials and 3D printing in electrochemistry and the broader fields of plasma- and magneto-electrochemistry. Sustainability in these methods offers a way to convert CO2 into value-added fuels in a circular energy economy. We identify challenges of reducing CO2 along sustainable pathways and detail ways that unconventional approaches can address these challenges. These include achieving high product selectivity toward desirable chemicals, high catalytic durability, high energy efficiency, and high conversion rates of CO2. Finally, we describe emerging impacts and opportunities of these unconventional approaches and key challenges.    
+
+    
+
+## Photocatalytic CO2 reduction co‐catalyzed by ionic liquids   
+
+OpenAlex: https://openalex.org/W4391218414    
+Open access: False
+    
+[Lisa Eisele](https://openalex.org/A5093785956), [Wilaiwan Chaikhan](https://openalex.org/A5093785957), [Samar Batool](https://openalex.org/A5034473563), [Alexey Cherevan](https://openalex.org/A5022928359), [Dominik Eder](https://openalex.org/A5011010095), [Katharina Bica-Schröder](https://openalex.org/A5067964483), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301454.
+    
+Efficiently generating C1 building blocks from environmentally friendly carbon sources, such as through photocatalytic CO2 reduction, is essential for fostering a sustainable circular economy. The pursuit of gentle catalytic activation methods has yielded powerful catalysts that can be synergistically employed alongside various reaction media to enhance overall performance. Herein, we elucidate the influence of diverse imidazolium‐based ionic liquids as additives for visible‐light‐driven CO2reduction with ruthenium(II)‐ and rhenium(I)‐bipyridine complexes. Our investigation reveals that incorporating ionic liquids into traditional solvents at concentrations below 10% can markedly boost CO production while suppressing H2 generation. The best results were obtained for the highly basic ionic liquid [C2mim][OAc], resulting in a substantial rise in CO formation from 0.3 µmol/h to 5.4 µmol/h and an increase in turnover number from 3 to 59. This study underscores the cooperative influence of imidazolium‐based ionic liquids on CO2 photoreduction while circumventing their use as primary solvents, thus offering a promising avenue for sustainable chemical synthesis.    
+
+    
+
+## Electrochemical Water Oxidation and CO2 Reduction with a Nickel Molecular Catalyst   
+
+OpenAlex: https://openalex.org/W4391175526    
+Open access: True
+    
+[Hengxin Jian](https://openalex.org/A5034075774), [Mengyu Lu](https://openalex.org/A5009739042), [Zheng Haowen](https://openalex.org/A5053269877), [Shuai Yan](https://openalex.org/A5035054349), [M. Wang](https://openalex.org/A5017467760), Molecules. 29(3)] 2024.https://doi.org/10.3390/molecules29030578 ([pdf](https://www.mdpi.com/1420-3049/29/3/578/pdf?version=1706102395)).
+    
+Mimicking the photosynthesis of green plants to combine water oxidation with CO2 reduction is of great significance for solving energy and environmental crises. In this context, a trinuclear nickel complex, [NiII3(paoH)6(PhPO3)2]·2ClO4 (1), with a novel structure has been constructed with PhPO32− (phenylphosphonate) and paoH (2-pyridine formaldehyde oxime) ligands and possesses a reflection symmetry with a mirror plane revealed by single-crystal X-ray diffraction. Bulk electrocatalysis demonstrates that complex 1 can homogeneously catalyze water oxidation and CO2 reduction simultaneously. It can catalyze water oxidation at a near-neutral condition of pH = 7.45 with a high TOF of 12.2 s−1, and the Faraday efficiency is as high as 95%. Meanwhile, it also exhibits high electrocatalytic activity for CO2 reduction towards CO with a TOF of 7.84 s−1 in DMF solution. The excellent electrocatalytic performance of the water oxidation and CO2 reduction of complex 1 could be attributed to the two unique µ3-PhPO32− bridges as the crucial factor for stabilizing the trinuclear molecule as well as the proton transformation during the catalytic process, while the oxime groups modulate the electronic structure of the metal centers via π back-bonding. Therefore, apart from the cooperation effect of the three Ni centers for catalysis, simultaneously, the two kinds of ligands in complex 1 can also synergistically coordinate the central metal, thereby significantly promoting its catalytic performance. Complex 1 represents the first nickel molecular electrocatalyst for both water oxidation and CO2 reduction. The findings in this work open an avenue for designing efficient molecular electrocatalysts with peculiar ligands.    
+
+    
+
+## Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction   
+
+OpenAlex: https://openalex.org/W4390920767    
+Open access: True
+    
+[John Cruz](https://openalex.org/A5013522313), [Anna Balog](https://openalex.org/A5043425264), [Péter S. Tóth](https://openalex.org/A5030958308), [Gábor Bencsik](https://openalex.org/A5090655937), [Gergely F. Samu](https://openalex.org/A5001143524), [Csaba Janáky](https://openalex.org/A5075233752), EES Catalysis. None(None)] 2024.https://doi.org/10.1039/d3ey00222e ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ey/d3ey00222e)).
+    
+Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the photoelectrochemical CO2 reduction reaction (PEC CO2RR). The preparation is based on a simple spin-coating technique, where nanorod-like structures were obtained for Sb2Se3,...    
 
     
 
@@ -492,14 +536,14 @@ No abstract
 
     
 
-## Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction   
+## Electrochemical CO2 reduction properties of boron-doped diamond powder   
 
-OpenAlex: https://openalex.org/W4390920767    
-Open access: True
+OpenAlex: https://openalex.org/W4391074415    
+Open access: False
     
-[John Cruz](https://openalex.org/A5013522313), [Anna Balog](https://openalex.org/A5043425264), [Péter S. Tóth](https://openalex.org/A5030958308), [Gábor Bencsik](https://openalex.org/A5090655937), [Gergely F. Samu](https://openalex.org/A5001143524), [Csaba Janáky](https://openalex.org/A5075233752), EES Catalysis. None(None)] 2024.https://doi.org/10.1039/d3ey00222e ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ey/d3ey00222e)).
+[Yudai Miyake](https://openalex.org/A5087328578), [Takeshi Kondo](https://openalex.org/A5011491287), [Atsushi Otake](https://openalex.org/A5025835486), [Yasuaki Einaga](https://openalex.org/A5054069544), [Takeo Tojo](https://openalex.org/A5035857145), [Makoto Yuasa](https://openalex.org/A5058873695), Diamond and Related Materials. 142(None)] 2024.https://doi.org/10.1016/j.diamond.2024.110821.
     
-Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the photoelectrochemical CO2 reduction reaction (PEC CO2RR). The preparation is based on a simple spin-coating technique, where nanorod-like structures were obtained for Sb2Se3,...    
+The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at −1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.    
 
     
 
@@ -522,17 +566,6 @@ Open access: False
 , No host. None(None)] 2023.https://doi.org/10.1039/d3ey00222e/v2/review2.
     
 No abstract    
-
-    
-
-## Electrochemical CO2 reduction properties of boron-doped diamond powder   
-
-OpenAlex: https://openalex.org/W4391074415    
-Open access: False
-    
-[Yudai Miyake](https://openalex.org/A5087328578), [Takeshi Kondo](https://openalex.org/A5011491287), [Atsushi Otake](https://openalex.org/A5025835486), [Yasuaki Einaga](https://openalex.org/A5054069544), [Takeo Tojo](https://openalex.org/A5035857145), [Makoto Yuasa](https://openalex.org/A5058873695), Diamond and Related Materials. 142(None)] 2024.https://doi.org/10.1016/j.diamond.2024.110821.
-    
-The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at −1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.    
 
     
 
@@ -624,6 +657,17 @@ No abstract
 
     
 
+## Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4391188424    
+Open access: False
+    
+[Xiaowan Mu](https://openalex.org/A5015387098), [Qiuhua Xu](https://openalex.org/A5059899541), [Yu Xie](https://openalex.org/A5025372320), [Yongcun Ma](https://openalex.org/A5091156984), [Zhiqi Zhang](https://openalex.org/A5081194034), [Zhen Shen](https://openalex.org/A5057296315), [Yue Guo](https://openalex.org/A5077857374), [Jian Yu](https://openalex.org/A5002529301), [Saira Ajmal](https://openalex.org/A5033369944), [Wei Zhang](https://openalex.org/A5060396142), [Jie Zhao](https://openalex.org/A5070902056), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.173589.
+    
+A simple photodeposition method is used to prepare Cu and Au nanoparticles modified TiO2 nanocomposites. The phase composition of the catalyst is determined by x-ray diffraction. The mutual synergistic effects of Cu and Au are analyzed using x-ray photoelectron spectroscopy, photoluminescence spectroscopy and UV diffuse reflectance spectroscopy. The results indicate that the TiO2 is anatase structure with hollow cubic morphology, which enhances the utilization of visible light and improves the photocatalytic performance compared with P25. The Cu0.7Au0.3/TiO2 has the highest carrier separation efficiency and the best photocatalytic performance with a CO yield of 6.08 umol g-1 h-1, which is about four times higher than that of TiO2 (1.56 umol g-1 h-1). The aforementioned results indicate that the photocatalytic activity for CO2 reduction is greatly enhanced by the addition of modest quantities of Cu and Au NPs. During the photocatalytic process, the presence of Au NPs absorbs visible light and modulates the surface structure of electrons, while Cu serves as an electron sink, hence promoting efficient separation of electron-hole pairs. Utilizing the distinct benefits of bimetal and their robust interactions is a viable and efficacious approach for boosting the photocatalytic activity.    
+
+    
+
 ## Reasonable design pentamerous artificial photosynthesis system for efficient overall CO2 reduction   
 
 OpenAlex: https://openalex.org/W4390674665    
@@ -643,27 +687,5 @@ Open access: False
 [Yong‐Xing He](https://openalex.org/A5039768705), [Lin Yin](https://openalex.org/A5072741411), [Nanci Yuan](https://openalex.org/A5085683068), [Gaoke Zhang](https://openalex.org/A5091370242), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.148754.
     
 Photocatalytic CO2 reduction (PCR) technology is one of the potential strategies to mitigate the greenhouse effect, solve the energy crisis and achieve goals of carbon dioxide emissions peak and carbon neutrality. However, it is extremely difficult to adsorb and activate CO2 due to the high dissociation energy of C = O bond in CO2 molecule (750 kJ·mol−1), resulting in poor performance of PCR. In addition, in the heterogeneous reaction process, adsorbing and activating CO2 are closely related to the active sites on the surface of photocatalyst. Therefore, in-depth and detailed exploration of the adsorption and activation of CO2 on active sites is critical to developing high-performance photocatalysts. Herein, this review firstly explores adsorption modes of CO2 on the active sites of photocatalyst, including physisorption and chemisorption, where chemisorption includes oxygen, carbon and mixed adsorption. Secondly, reaction pathways for the formation of different high value-added chemical products are introduced, including formaldehyde, carbene, glyoxal and mixed pathways. Then, strategies for enhancing the adsorption and activation of CO2 are briefly summarized. Finally, the future prospects and challenges of PCR development are discussed. This work provides insights and references for further designing photocatalysts that can enhance the adsorption and activation of CO2 and improve the performance of PCR.    
-
-    
-
-## Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4391151075    
-Open access: False
-    
-[Dongyue Gao](https://openalex.org/A5047060524), [Yue Xu](https://openalex.org/A5043595651), [Zhe Li](https://openalex.org/A5023826377), [Yadong Yu](https://openalex.org/A5016142397), [Caiyan Yu](https://openalex.org/A5084234940), [Yi Fang](https://openalex.org/A5054091259), [Yang Huang](https://openalex.org/A5023704274), [Chengchun Tang](https://openalex.org/A5022913125), [Zhonglu Guo](https://openalex.org/A5069736534), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159501.
-    
-No abstract    
-
-    
-
-## MAPbBr3/Bi2WO6 Z-scheme-heterojunction photocatalysts for photocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4390813250    
-Open access: False
-    
-[Yawen Zhang](https://openalex.org/A5045398749), [Njemuwa Nwaji](https://openalex.org/A5059820183), [Longmin Wu](https://openalex.org/A5019581469), [Mingliang Jin](https://openalex.org/A5090982721), [Lemma Teshome Tufa](https://openalex.org/A5006337656), [Guofu Zhou](https://openalex.org/A5064263084), [Michael Giersig](https://openalex.org/A5056628685), [Xin Wang](https://openalex.org/A5006822602), [Tengfei Qiu](https://openalex.org/A5035571884), [Eser Metin Akinoglu](https://openalex.org/A5019038885), Journal of Materials Science. None(None)] 2024.https://doi.org/10.1007/s10853-023-09220-w.
-    
-No abstract    
 
     

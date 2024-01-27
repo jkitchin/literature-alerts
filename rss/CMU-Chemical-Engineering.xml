@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:39:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -38,6 +38,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41561-023-01355-4</guid>
     </item>
     <item>
+      <title>Altering the interfacial rheology of Pseudomonas aeruginosa and Staphylococcus aureus with N-acetyl cysteine and cysteamine</title>
+      <link>https://doi.org/10.3389/fcimb.2023.1338477</link>
+      <description>Sricharani Rao Balmuri, Sena Noaman, Huda Usman, Tagbo H. R. Niepa, Frontiers in Cellular and Infection Microbiology. 13(None)] 2024. https://openalex.org/W4390917391
+
+                Introduction Chronic lung infection due to bacterial biofilms is one of the leading causes of mortality in cystic fibrosis (CF) patients. Among many species colonizing the lung airways, Pseudomonas aeruginosa and Staphylococcus aureus are two virulent pathogens involved in mechanically robust biofilms that are difficult to eradicate using airway clearance techniques like lung lavage. To remove such biological materials, glycoside hydrolase-based compounds are commonly employed for targeting and breaking down the biofilm matrix, and subsequently increasing cell susceptibility to antibiotics. Materials and methods In this study, we evaluate the effects of N-acetyl cysteine (NAC) and Cysteamine (CYST) in disrupting interfacial bacterial films, targeting different components of the extracellular polymeric substances (EPS). We characterize the mechanics and structural integrity of the interfacial bacterial films using pendant drop elastometry and scanning electron microscopy. Results and discussion Our results show that the film architectures are compromised by treatment with disrupting agents for 6 h, which reduces film elasticity significantly. These effects are profound in the wild type and mucoid P. aeruginosa , compared to S. aureus . We further assess the effects of competition and cooperation between S. aureus and P. aeruginosa on the mechanics of composite interfacial films. Films of S. aureus and wild-type P. aeruginosa cocultures lose mechanical strength while those of S. aureus and mucoid P. aeruginosa exhibit improved storage modulus. Treatment with NAC and CYST reduces the elastic property of both composite films, owing to the drugs&#8217; ability to disintegrate their EPS matrix. Overall, our results provide new insights into methods for assessing the efficacy of mucolytic agents against interfacial biofilms relevant to cystic fibrosis infection.</description>
+      <author>Sricharani Rao Balmuri, Sena Noaman, Huda Usman, Tagbo H. R. Niepa</author>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fcimb.2023.1338477</guid>
+    </item>
+    <item>
       <title>Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo&lt;sub&gt;2&lt;/sub&gt;N Model Surfaces and Powder Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.3c04700</link>
       <description>William N. Porter, Hilda Mera, Wenjie Liao, Zhexi Lin, Ping Liu, John R. Kitchin, Jingguang G. Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390939862
@@ -58,6 +68,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106556</guid>
     </item>
     <item>
+      <title>Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer</title>
+      <link>https://doi.org/10.1039/d3ea00001j</link>
+      <description>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, A. Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad, Environmental science. None(None)] 2024. https://openalex.org/W4391225134
+
+                Inhomogeneities in temperature and ammonia concentrations can cause rapid growth of nanoparticles in polluted environments.</description>
+      <author>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, A. Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ea00001j</guid>
+    </item>
+    <item>
       <title>A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture</title>
       <link>https://openalex.org/W4390833787</link>
       <description>Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, David Hui&#8208;Kang, H&#233;ctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4390833787
@@ -68,16 +88,6 @@
       <guid isPermaLink="true">https://openalex.org/W4390833787</guid>
     </item>
     <item>
-      <title>IDAES-PSE 1.13.0 Release</title>
-      <link>https://doi.org/10.18141/2278834</link>
-      <description>Andrew Lee, Dan Gunter, K. Beattie, Miguel Zamarripa, Timothy V. Bartholomew, Douglas Allan, Bethany L. Nicholson, Adam Atia, John Eslick, John Daniel Siirola, Brandon Paul, Alexander W. Dowling, Anca Ostace, Alejandro R. Garciadiego, Radhakrishna Tumbalam Gooty, Ludovico Bianchi, Anuja Deshpande, Jaffer Ghouse, Robert B. Parker, P. Yang, Carl D. Laird, Makayla Shepherd, Gao Xian, Quang Minh Le, Oluwamayowa Amusat, Marissa R Engle, Andres J Calderon, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022. https://openalex.org/W4390690350
-
-                No abstract</description>
-      <author>Andrew Lee, Dan Gunter, K. Beattie, Miguel Zamarripa, Timothy V. Bartholomew, Douglas Allan, Bethany L. Nicholson, Adam Atia, John Eslick, John Daniel Siirola, Brandon Paul, Alexander W. Dowling, Anca Ostace, Alejandro R. Garciadiego, Radhakrishna Tumbalam Gooty, Ludovico Bianchi, Anuja Deshpande, Jaffer Ghouse, Robert B. Parker, P. Yang, Carl D. Laird, Makayla Shepherd, Gao Xian, Quang Minh Le, Oluwamayowa Amusat, Marissa R Engle, Andres J Calderon</author>
-      <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.18141/2278834</guid>
-    </item>
-    <item>
       <title>Pyomo v6.2</title>
       <link>https://doi.org/10.11578/dc.20221016.1</link>
       <description>David L. Woodruff, Gabe Hackebeil, Carl D. Laird, Bethany L. Nicholson, William E. Hart, John Daniel Siirola, Jean&#8208;Paul Watson, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022. https://openalex.org/W4391048254
@@ -86,6 +96,16 @@
       <author>David L. Woodruff, Gabe Hackebeil, Carl D. Laird, Bethany L. Nicholson, William E. Hart, John Daniel Siirola, Jean&#8208;Paul Watson</author>
       <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.11578/dc.20221016.1</guid>
+    </item>
+    <item>
+      <title>IDAES-PSE 1.13.0 Release</title>
+      <link>https://doi.org/10.18141/2278834</link>
+      <description>Andrew Lee, Dan Gunter, K. Beattie, Miguel Zamarripa, Timothy V. Bartholomew, Douglas Allan, Bethany L. Nicholson, Adam Atia, John Eslick, John Daniel Siirola, Brandon Paul, Alexander W. Dowling, Anca Ostace, Alejandro R. Garciadiego, Radhakrishna Tumbalam Gooty, Ludovico Bianchi, Anuja Deshpande, Jaffer Ghouse, Robert B. Parker, P. Yang, Carl D. Laird, Makayla Shepherd, Gao Xian, Quang Minh Le, Oluwamayowa Amusat, Marissa R Engle, Andres J Calderon, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022. https://openalex.org/W4390690350
+
+                No abstract</description>
+      <author>Andrew Lee, Dan Gunter, K. Beattie, Miguel Zamarripa, Timothy V. Bartholomew, Douglas Allan, Bethany L. Nicholson, Adam Atia, John Eslick, John Daniel Siirola, Brandon Paul, Alexander W. Dowling, Anca Ostace, Alejandro R. Garciadiego, Radhakrishna Tumbalam Gooty, Ludovico Bianchi, Anuja Deshpande, Jaffer Ghouse, Robert B. Parker, P. Yang, Carl D. Laird, Makayla Shepherd, Gao Xian, Quang Minh Le, Oluwamayowa Amusat, Marissa R Engle, Andres J Calderon</author>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.18141/2278834</guid>
     </item>
   </channel>
 </rss>

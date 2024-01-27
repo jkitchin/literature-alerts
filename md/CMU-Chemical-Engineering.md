@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jan 26 00:39:27 2024
+Created on Sat Jan 27 00:39:01 2024
 
-Found 8 results from 2024-01-12 to 2024-01-26
+Found 10 results from 2024-01-13 to 2024-01-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -39,6 +39,17 @@ No abstract
 
     
 
+## Altering the interfacial rheology of Pseudomonas aeruginosa and Staphylococcus aureus with N-acetyl cysteine and cysteamine   
+
+OpenAlex: https://openalex.org/W4390917391    
+Open access: True
+    
+[Sricharani Rao Balmuri](https://openalex.org/A5042360668), [Sena Noaman](https://openalex.org/A5093725482), [Huda Usman](https://openalex.org/A5006410485), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), Frontiers in Cellular and Infection Microbiology. 13(None)] 2024.https://doi.org/10.3389/fcimb.2023.1338477 ([pdf](https://www.frontiersin.org/articles/10.3389/fcimb.2023.1338477/pdf?isPublishedV2=False)).
+    
+Introduction Chronic lung infection due to bacterial biofilms is one of the leading causes of mortality in cystic fibrosis (CF) patients. Among many species colonizing the lung airways, Pseudomonas aeruginosa and Staphylococcus aureus are two virulent pathogens involved in mechanically robust biofilms that are difficult to eradicate using airway clearance techniques like lung lavage. To remove such biological materials, glycoside hydrolase-based compounds are commonly employed for targeting and breaking down the biofilm matrix, and subsequently increasing cell susceptibility to antibiotics. Materials and methods In this study, we evaluate the effects of N-acetyl cysteine (NAC) and Cysteamine (CYST) in disrupting interfacial bacterial films, targeting different components of the extracellular polymeric substances (EPS). We characterize the mechanics and structural integrity of the interfacial bacterial films using pendant drop elastometry and scanning electron microscopy. Results and discussion Our results show that the film architectures are compromised by treatment with disrupting agents for 6 h, which reduces film elasticity significantly. These effects are profound in the wild type and mucoid P. aeruginosa , compared to S. aureus . We further assess the effects of competition and cooperation between S. aureus and P. aeruginosa on the mechanics of composite interfacial films. Films of S. aureus and wild-type P. aeruginosa cocultures lose mechanical strength while those of S. aureus and mucoid P. aeruginosa exhibit improved storage modulus. Treatment with NAC and CYST reduces the elastic property of both composite films, owing to the drugs’ ability to disintegrate their EPS matrix. Overall, our results provide new insights into methods for assessing the efficacy of mucolytic agents against interfacial biofilms relevant to cystic fibrosis infection.    
+
+    
+
 ## Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo2N Model Surfaces and Powder Catalysts   
 
 OpenAlex: https://openalex.org/W4390939862    
@@ -61,6 +72,17 @@ In this work, we focus on an operational logistics problem that arises in the of
 
     
 
+## Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer   
+
+OpenAlex: https://openalex.org/W4391225134    
+Open access: True
+    
+[Ruby Marten](https://openalex.org/A5076543442), [Mao Xiao](https://openalex.org/A5085897081), [Mingyi Wang](https://openalex.org/A5083213632), [Weimeng Kong](https://openalex.org/A5046351966), [Xu‐Cheng He](https://openalex.org/A5043129752), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Joschka Pfeifer](https://openalex.org/A5043381937), [Guillaume Marie](https://openalex.org/A5032794723), [Dongyu Wang](https://openalex.org/A5080825458), [Miriam Elser](https://openalex.org/A5067113239), [Andrea Baccarini](https://openalex.org/A5083781753), [Chuan Ping Lee](https://openalex.org/A5060127472), [A. Amorim](https://openalex.org/A5062064925), [Rima Baalbaki](https://openalex.org/A5055362390), [David M. Bell](https://openalex.org/A5049526503), [Barbara Bertozzi](https://openalex.org/A5048802141), [Lucía Caudillo](https://openalex.org/A5079509898), [Lubna Dada](https://openalex.org/A5049539173), [Jonathan Duplissy](https://openalex.org/A5088633919), [Henning Finkenzeller](https://openalex.org/A5081639490), [Martin Heinritzi](https://openalex.org/A5037408007), [Markus Lampimäki](https://openalex.org/A5074631406), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Hanna E. Manninen](https://openalex.org/A5022377744), [Bernhard Mentler](https://openalex.org/A5090590782), [A. Onnela](https://openalex.org/A5089192083), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Maxim Philippov](https://openalex.org/A5090585494), [Birte Rörup](https://openalex.org/A5022780485), [Wiebke Scholz](https://openalex.org/A5076482580), [Jiali Shen](https://openalex.org/A5049005695), [Yee Jun Tham](https://openalex.org/A5058887080), [António Tomé](https://openalex.org/A5021102823), [Andrea C. Wagner](https://openalex.org/A5024532344), [Stefan K. Weber](https://openalex.org/A5041814082), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Joachim Curtius](https://openalex.org/A5031780924), [Markku Kulmala](https://openalex.org/A5000471665), [Rainer Volkamer](https://openalex.org/A5018521569), [Douglas R. Worsnop](https://openalex.org/A5026978286), [Josef Dommen](https://openalex.org/A5038983887), [Richard C. Flagan](https://openalex.org/A5012711441), [J. Kirkby](https://openalex.org/A5009274507), [Neil M. Donahue](https://openalex.org/A5041685684), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Urs Baltensperger](https://openalex.org/A5044025292), [Imad El Haddad](https://openalex.org/A5080319960), Environmental science. None(None)] 2024.https://doi.org/10.1039/d3ea00001j ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ea/d3ea00001j)).
+    
+Inhomogeneities in temperature and ammonia concentrations can cause rapid growth of nanoparticles in polluted environments.    
+
+    
+
 ## A computational investigation of high-flux plate-and-frame membrane stacks for post-combustion carbon capture   
 
 OpenAlex: https://openalex.org/W4390833787    
@@ -72,23 +94,23 @@ No abstract
 
     
 
-## IDAES-PSE 1.13.0 Release   
-
-OpenAlex: https://openalex.org/W4390690350    
-Open access: False
-    
-[Andrew Lee](https://openalex.org/A5084085179), [Dan Gunter](https://openalex.org/A5027568646), [K. Beattie](https://openalex.org/A5056812433), [Miguel Zamarripa](https://openalex.org/A5015881602), [Timothy V. Bartholomew](https://openalex.org/A5001807730), [Douglas Allan](https://openalex.org/A5070732014), [Bethany L. Nicholson](https://openalex.org/A5071938321), [Adam Atia](https://openalex.org/A5075333104), [John Eslick](https://openalex.org/A5054865843), [John Daniel Siirola](https://openalex.org/A5047681120), [Brandon Paul](https://openalex.org/A5056743346), [Alexander W. Dowling](https://openalex.org/A5017631366), [Anca Ostace](https://openalex.org/A5016290678), [Alejandro R. Garciadiego](https://openalex.org/A5006316725), [Radhakrishna Tumbalam Gooty](https://openalex.org/A5081197362), [Ludovico Bianchi](https://openalex.org/A5067042879), [Anuja Deshpande](https://openalex.org/A5020453592), [Jaffer Ghouse](https://openalex.org/A5028388078), [Robert B. Parker](https://openalex.org/A5068954371), [P. Yang](https://openalex.org/A5006493031), [Carl D. Laird](https://openalex.org/A5030631754), [Makayla Shepherd](https://openalex.org/A5050358306), [Gao Xian](https://openalex.org/A5071061007), [Quang Minh Le](https://openalex.org/A5049947112), [Oluwamayowa Amusat](https://openalex.org/A5047606322), [Marissa R Engle](https://openalex.org/A5093670577), [Andres J Calderon](https://openalex.org/A5010059922), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022.https://doi.org/10.18141/2278834.
-    
-No abstract    
-
-    
-
 ## Pyomo v6.2   
 
 OpenAlex: https://openalex.org/W4391048254    
 Open access: False
     
 [David L. Woodruff](https://openalex.org/A5071131174), [Gabe Hackebeil](https://openalex.org/A5066371313), [Carl D. Laird](https://openalex.org/A5030631754), [Bethany L. Nicholson](https://openalex.org/A5071938321), [William E. Hart](https://openalex.org/A5021830817), [John Daniel Siirola](https://openalex.org/A5047681120), [Jean‐Paul Watson](https://openalex.org/A5027375769), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022.https://doi.org/10.11578/dc.20221016.1.
+    
+No abstract    
+
+    
+
+## IDAES-PSE 1.13.0 Release   
+
+OpenAlex: https://openalex.org/W4390690350    
+Open access: False
+    
+[Andrew Lee](https://openalex.org/A5084085179), [Dan Gunter](https://openalex.org/A5027568646), [K. Beattie](https://openalex.org/A5056812433), [Miguel Zamarripa](https://openalex.org/A5015881602), [Timothy V. Bartholomew](https://openalex.org/A5001807730), [Douglas Allan](https://openalex.org/A5070732014), [Bethany L. Nicholson](https://openalex.org/A5071938321), [Adam Atia](https://openalex.org/A5075333104), [John Eslick](https://openalex.org/A5054865843), [John Daniel Siirola](https://openalex.org/A5047681120), [Brandon Paul](https://openalex.org/A5056743346), [Alexander W. Dowling](https://openalex.org/A5017631366), [Anca Ostace](https://openalex.org/A5016290678), [Alejandro R. Garciadiego](https://openalex.org/A5006316725), [Radhakrishna Tumbalam Gooty](https://openalex.org/A5081197362), [Ludovico Bianchi](https://openalex.org/A5067042879), [Anuja Deshpande](https://openalex.org/A5020453592), [Jaffer Ghouse](https://openalex.org/A5028388078), [Robert B. Parker](https://openalex.org/A5068954371), [P. Yang](https://openalex.org/A5006493031), [Carl D. Laird](https://openalex.org/A5030631754), [Makayla Shepherd](https://openalex.org/A5050358306), [Gao Xian](https://openalex.org/A5071061007), [Quang Minh Le](https://openalex.org/A5049947112), [Oluwamayowa Amusat](https://openalex.org/A5047606322), [Marissa R Engle](https://openalex.org/A5093670577), [Andres J Calderon](https://openalex.org/A5010059922), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022.https://doi.org/10.18141/2278834.
     
 No abstract    
 

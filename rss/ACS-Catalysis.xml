@@ -4,13 +4,13 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:39:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>The Relevance of the Interfacial Water Reactivity for Electrochemical CO Reduction on Copper Single Crystals</title>
       <link>https://doi.org/10.1021/acscatal.3c02700</link>
-      <description>Daniel Winkler, Matthias Leitner, Andrea Auer, Julia Kunze&#8208;Liebh&#228;user, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390659412
+      <description>Daniel Winkler, Matthias Leitner, Andrea Auer, Julia Kunze&#8208;Liebh&#228;user, ACS Catalysis. 14(2)] 2024. https://openalex.org/W4390659412
 
                 The electrochemical reduction of CO2 is an important electrolysis reaction that enables the conversion of a waste gas to fuels or value-added chemicals. To make this reaction viable, a profound understanding of central intermediate steps, such as the CO electroreduction, is required. On Cu, the CO reduction reaction (CORR) is intimately linked to the hydrogen evolution reaction (HER) that proceeds via the reduction of water in alkaline or neutral electrolytes. Here, we demonstrate that the interaction of water or more specifically the water reduction kinetics on differently smooth Cu(100) and Cu(111) surfaces during the CORR in alkaline media significantly governs the CORR. On Cu(111), faster HER kinetics and the highest CORR activity are observed, even though HER and CORR onsets are more negative. While on Cu(100) small Cu ad-island clusters form in the cathodic potential range only when CO is present, structural changes appear on a larger length scale on Cu(111) both under CORR conditions and when no CO is present. These differences in the reconstruction characteristics may be attributed to the dominance of either the CORR and its intermediates or the HER on the different Cu surfaces. Therefore, the interfacial water reactivity is considered an essential activity descriptor for the CORR on Cu in alkaline media.</description>
       <author>Daniel Winkler, Matthias Leitner, Andrea Auer, Julia Kunze&#8208;Liebh&#228;user</author>
@@ -60,9 +60,9 @@
     <item>
       <title>Exploiting Multimetallic Cooperativity in the Ring-Opening Polymerization of Cyclic Esters and Ethers</title>
       <link>https://doi.org/10.1021/acscatal.3c05103</link>
-      <description>Utku Yolsal, Peter J. Shaw, Phoebe A. Lowy, Raju Chambenahalli, Jennifer A. Garden, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390673532
+      <description>Utku Yolsal, Peter J. Shaw, Phoebe A. Lowy, Raju Chambenahalli, Jennifer A. Garden, ACS Catalysis. 14(2)] 2024. https://openalex.org/W4390673532
 
-                The use of multimetallic complexes is a rapidly advancing route to enhance catalyst performance in the ring-opening polymerization of cyclic esters and ethers. Multimetallic catalysts often outperform their monometallic analogues in terms of reactivity and/or polymerization control, and these improvements are typically attributed to &#8220;multimetallic cooperativity&#8221;. Yet the origins of multimetallic cooperativity often remain unclear. This review explores the key factors underpinning multimetallic cooperativity, including metal&#8211;metal distances, the flexibility, electronics and conformation of the ligand framework, and the coordination environment of the metal centers. Emerging trends are discussed to provide insights into why cooperativity occurs and how to harness cooperativity for the development of highly efficient multimetallic catalysts.</description>
+                The use of multimetallic complexes is a rapidly advancing route to enhance catalyst performance in the ring-opening polymerization of cyclic esters and ethers. Multimetallic catalysts often outperform their monometallic analogues in terms of reactivity and/or polymerization control, and these improvements are typically attributed to "multimetallic cooperativity". Yet the origins of multimetallic cooperativity often remain unclear. This review explores the key factors underpinning multimetallic cooperativity, including metal-metal distances, the flexibility, electronics and conformation of the ligand framework, and the coordination environment of the metal centers. Emerging trends are discussed to provide insights into why cooperativity occurs and how to harness cooperativity for the development of highly efficient multimetallic catalysts.</description>
       <author>Utku Yolsal, Peter J. Shaw, Phoebe A. Lowy, Raju Chambenahalli, Jennifer A. Garden</author>
       <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05103</guid>
@@ -110,11 +110,11 @@
     <item>
       <title>Electrochemical Monitoring of Heterogeneous Peroxygenase Reactions Unravels LPMO Kinetics</title>
       <link>https://doi.org/10.1021/acscatal.3c05194</link>
-      <description>Lorenz Schwaiger, Florian Csarman, Hui S. Chang, Ole Golten, Vincent G. H. Eijsink, Roland Ludwig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390697114
+      <description>Lorenz Schwaiger, Florian Csarman, Hui S. Chang, Ole Golten, Vincent G. H. Eijsink, Roland Ludwig, ACS Catalysis. 14(2)] 2024. https://openalex.org/W4390697114
 
                 Biological conversion of plant biomass depends on peroxygenases and peroxidases acting on insoluble polysaccharides and lignin. Among these are cellulose- and hemicellulose-degrading lytic polysaccharide monooxygenases (LPMOs), which have revolutionized our concept of biomass degradation. Major obstacles limiting mechanistic and functional understanding of these unique peroxygenases are their complex and insoluble substrates and the hard-to-measure H2O2 consumption, resulting in the lack of suitable kinetic assays. We report a versatile and robust electrochemical method for real-time monitoring and kinetic characterization of LPMOs and other H2O2-dependent interfacial enzymes based on a rotating disc electrode for the sensitive and selective quantitation of H2O2 at biologically relevant concentrations. The H2O2 sensor works in suspensions of insoluble substrates as well as in homogeneous solutions. Our characterization of multiple LPMOs provides unprecedented insights into the substrate specificity, kinetics, and stability of these enzymes. High turnover and total turnover numbers demonstrate that LPMOs are fast and durable biocatalysts.</description>
       <author>Lorenz Schwaiger, Florian Csarman, Hui S. Chang, Ole Golten, Vincent G. H. Eijsink, Roland Ludwig</author>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05194</guid>
     </item>
     <item>

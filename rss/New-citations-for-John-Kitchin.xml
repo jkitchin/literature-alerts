@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jan 2024 00:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jan 2024 00:39:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -326,6 +326,16 @@
       <author>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas</author>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03216</guid>
+    </item>
+    <item>
+      <title>Artificial intelligence in catalysis</title>
+      <link>https://doi.org/10.1016/b978-0-323-99135-3.00002-6</link>
+      <description>Srinivas Rangarajan, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391223759
+
+                No abstract</description>
+      <author>Srinivas Rangarajan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-99135-3.00002-6</guid>
     </item>
   </channel>
 </rss>

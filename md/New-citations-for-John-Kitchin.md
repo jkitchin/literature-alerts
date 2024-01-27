@@ -1,8 +1,8 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Fri Jan 26 00:39:34 2024
+Created on Sat Jan 27 00:39:08 2024
 
-Found 32 results from 2024-01-12 to 2024-01-26
+Found 33 results from 2024-01-13 to 2024-01-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370)
@@ -159,7 +159,7 @@ Methods for computational de novo design of inorganic molecules have paved the w
 ## Mechanism of Interaction of Water above the Methylammonium Lead Iodide Perovskite Nanocluster: Size Effect and Water-Induced Defective States   
 
 OpenAlex: https://openalex.org/W4390691552    
-Open access: False
+Open access: True
     
 [Jie Huang](https://openalex.org/A5068201603), [Bowen Wang](https://openalex.org/A5058659834), [Hejin Yan](https://openalex.org/A5065648316), [Yongqing Cai](https://openalex.org/A5000856811), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.3c02807.
     
@@ -362,5 +362,16 @@ Open access: False
 [Sreetama Ghosh](https://openalex.org/A5022412058), [Denver Haycock](https://openalex.org/A5007090767), [N. C. Mehra](https://openalex.org/A5046495382), [Susanta Bera](https://openalex.org/A5066645403), [Hannah Johnson](https://openalex.org/A5088250417), [Lucian Roiban](https://openalex.org/A5062011127), [M. Aouine](https://openalex.org/A5040224847), [P. Vernoux](https://openalex.org/A5056690555), [Peter C. Thüne](https://openalex.org/A5014956592), [William F. Schneider](https://openalex.org/A5062009633), [Mihalis N. Tsampas](https://openalex.org/A5052330817), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.3c03216.
     
 Alkaline water electrolysis is a sustainable way to produce green hydrogen using renewable electricity. Even though the rates of the cathodic hydrogen evolution reaction (HER) are 2-3 orders of magnitude less under alkaline conditions than under acidic conditions, the possibility of using non-precious metal catalysts makes alkaline HER appealing. We identify a novel and facile route for substantially improving HER performance via the use of commercially available NiTi shape memory alloys, which upon heating undergo a phase transformation from the monoclinic martensite to the cubic austenite structure. While the room-temperature performance is modest, austenitic NiTi outperforms Pt (which is the state-of-the-art HER electrocatalyst) in terms of current density by ≤50% at 80 °C. Surface ensembles presented by the austenite phase are computed with density functional theory to bind hydrogen more weakly than either metallic Ni or Ti and to have binding energies ideally suited for HER.    
+
+    
+
+## Artificial intelligence in catalysis   
+
+OpenAlex: https://openalex.org/W4391223759    
+Open access: False
+    
+[Srinivas Rangarajan](https://openalex.org/A5070042353), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-323-99135-3.00002-6.
+    
+No abstract    
 
     
