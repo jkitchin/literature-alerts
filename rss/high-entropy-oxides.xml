@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Jan 2024 00:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 00:41:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Strain&#8208;rich high&#8208;entropy perovskite oxide of (La&lt;sub&gt;0.8&lt;/sub&gt;Sr&lt;sub&gt;0.2&lt;/sub&gt;)(Mn&lt;sub&gt;0.2&lt;/sub&gt;Fe&lt;sub&gt;0.2&lt;/sub&gt;Cr&lt;sub&gt;0.2&lt;/sub&gt;Co&lt;sub&gt;0.2&lt;/sub&gt;Ni&lt;sub&gt;0.2&lt;/sub&gt;)O&lt;sub&gt;3&lt;/sub&gt; for durable and effective catalysis of oxygen redox reactions in lithium&#8208;oxygen battery</title>
-      <link>https://doi.org/10.1002/bte2.20230053</link>
-      <description>Zhanpeng Liu, Haoyang Xu, Xinxiang Wang, Guilei Tian, Dongxing Du, Chaozhu Shu, No host. None(None)] 2024. https://openalex.org/W4390738391
-
-                Abstract Despite their great promise as high&#8208;energy&#8208;density alternatives to Li&#8208;ion batteries, the extensive use of lithium&#8208;oxygen (Li&#8208;O 2 ) batteries is constrained by the slow kinetics of both the oxygen evolution reaction and oxygen reduction reaction. To increase the overall performance of Li&#8208;O 2 batteries, it is essential to increase the efficiency of oxygen electrode reactions by constructing effective electrocatalysts. As a high&#8208;efficiency catalyst for Li&#8208;O 2 batteries, high entropy perovskite oxide (La 0.8 Sr 0.2 )(Mn 0.2 Fe 0.2 Cr 0.2 Co 0.2 Ni 0.2 )O 3 (referred to as LS(MFCCN)O 3 ) is designed and investigated in this article. The introduction of dissimilar metals in LS(MFCCN)O 3 has the potential to cause lattice deformation, thereby enhancing electron transfer between transition metal ions and facilitating the formation of numerous oxygen vacancies. This feature is advantageous for the reversible production and breakdown of discharge product Li 2 O 2 . Consequently, the Li&#8208;O 2 battery utilizing LS(MFCCN)O 3 as a catalyst achieves an impressive discharge capacity of 17,078.2 mAh g &#8722;1 and exhibits an extended cycling life of 435 cycles. This study offers a useful method for adjusting the catalytic performance of perovskite oxides toward oxygen redox reactions in Li&#8208;O 2 batteries.</description>
-      <author>Zhanpeng Liu, Haoyang Xu, Xinxiang Wang, Guilei Tian, Dongxing Du, Chaozhu Shu</author>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/bte2.20230053</guid>
-    </item>
-    <item>
-      <title>The selective aerobic oxidative C-C bond cleavage with the high-entropy oxide-derived multimetallic catalyst</title>
-      <link>https://doi.org/10.1039/d3re00525a</link>
-      <description>Shaoyuan Guo, Xinli Tong, Jipeng Wang, Honggang Tang, No host. None(None)] 2023. https://openalex.org/W4390720071
-
-                The use of high-entropy oxides (HEOs) in the heterogeneous catalysis is a fascinating research orientation in the chemical field. In this work, a highly selective aerobic oxidative C-C bond cleavage...</description>
-      <author>Shaoyuan Guo, Xinli Tong, Jipeng Wang, Honggang Tang</author>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3re00525a</guid>
-    </item>
   </channel>
 </rss>
