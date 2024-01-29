@@ -1,9 +1,9 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Sun Jan 28 00:41:39 2024
+Created on Mon Jan 29 11:38:30 2024
 
-Found 32 results from 2024-01-14 to 2024-01-28
+Found 32 results from 2024-01-15 to 2024-01-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -13,38 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022]]
-
-** Identifying the distinct roles of dual dopants in stabilizing the platinum-nickel nanowire catalyst for durable fuel cell   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-44788-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390841334"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390841334"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390841334"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390841334 (Open access: True)
-    
-[[https://openalex.org/A5031552839][Lei Gao]], [[https://openalex.org/A5002491870][Tulai Sun]], [[https://openalex.org/A5051650889][Xuli Chen]], [[https://openalex.org/A5062087012][Zhilong Yang]], [[https://openalex.org/A5055620948][Mengfan Li]], [[https://openalex.org/A5003323354][Wenchuan Lai]], [[https://openalex.org/A5019110446][Wenhua Zhang]], [[https://openalex.org/A5001940565][Quan Yuan]], [[https://openalex.org/A5022403889][Hongwen Huang]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-44788-0  ([[https://www.nature.com/articles/s41467-024-44788-0.pdf][pdf]])
-     
-Stabilizing active PtNi alloy catalyst toward oxygen reduction reaction is essential for fuel cell. Doping of specific metals is an empirical strategy, however, the atomistic insight into how dopant boosts the stability of PtNi catalyst still remains elusive. Here, with typical examples of Mo and Au dopants, we identify the distinct roles of Mo and Au in stabilizing PtNi nanowires catalysts. Specifically, due to the stronger interaction between atomic orbital for Ni-Mo and Pt-Au, the Mo dopant mainly suppresses the outward diffusion of Ni atoms while the Au dopant contributes to the stabilization of surface Pt overlayer. Inspired by this atomistic understanding, we rationally construct the PtNiMoAu nanowires by integrating the different functions of Mo and Au into one entity. Such catalyst assembled in fuel cell cathode thus presents both remarkable activity and durability, even surpassing the United States Department of Energy technical targets for 2025.    
-
-    
-
-** Engineered oxidation states in NiCo2O4@CeO2 nanourchin architectures with abundant oxygen vacancies for enhanced oxygen evolution reaction performance   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148787")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390849521"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390849521"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390849521"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390849521 (Open access: False)
-    
-[[https://openalex.org/A5041625330][Shiyu Xu]], [[https://openalex.org/A5029360035][Peng Zhang]], [[https://openalex.org/A5018624131][Ruiqing Zhao]], [[https://openalex.org/A5036910845][Jong Wook Bae]], [[https://openalex.org/A5019560977][Hao Li]], [[https://openalex.org/A5007054443][Jin Yong Lee]], [[https://openalex.org/A5008459970][Pil J. Yoo]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.148787 
-     
-Sluggish oxygen evolution reaction (OER) as the half reaction of water electrolysis hindered the production of clean hydrogen, necessitates a cost-effective electrocatalyst. Spinel nickel cobaltite (NiCo2O4), characterized by its lower cost, flexibility in oxidation states of cations, and stable spinel structure, holds promise as an OER electrocatalyst. However, there is still room for improvement in terms of its intrinsic electrochemical activity, conductivity, and active surface area. Inspired by the flexible valence states of Ni and Co, in this study, CeO2 was introduced into NiCo2O4 for further electronic structure adjustment. The result was the synthesis of an urchin-like NiCo2O4@CeO2 (NCOC), and the elucidation of its formation mechanisms, expressed conclusively through reaction formulas. NCOC, characterized by an open architecture and a rough surface, ensures rapid mass transportation and charge diffusion. Within NCOC, numerous oxophilic Ce3+ sites with oxygen vacancies construct electron transport pathways, accelerating charge-transfer. This simultaneously induces an increase in the oxidation states and proportions of Ni3+ and Co3+ in NCOC, reinforcing the covalence of Ni–O and Co–O bonds, expediting the ad/desorption of intermediates during OER. The electronic structure variations of NCOC were further verified through density functional theory (DFT) analyses, revealing alterations in adsorption configurations of intermediates and a decrease in adsorption free energies for intermediates on NCOC during OER. In practical terms, NCOC demonstrated a low overpotential of 228 mV at a current density of 10 mA cm−2 under 1 M KOH, maintaining long-term electrochemical stability for 100 h. Overall, this study provides a universal approach for designing highly cost-efficient electrocatalysts for OER.    
-
-    
 
 ** First-principles study of the effects of Vo on the magnetic and photocatalytic properties of bilayer anatase TiO2(001): C/N/S   
     
@@ -219,6 +187,22 @@ OpenAlex: https://openalex.org/W4390904335 (Open access: True)
 [[https://openalex.org/A5013382299][Jie Wei]], [[https://openalex.org/A5044601163][Hengjing Tang]], [[https://openalex.org/A5010634879][Li Sheng]], [[https://openalex.org/A5033862876][Ruyang Wang]], [[https://openalex.org/A5074130931][Minghui Fan]], [[https://openalex.org/A5018898375][Jin Wan]], [[https://openalex.org/A5091026913][Yaoguo Wu]], [[https://openalex.org/A5000151255][Z. D. Zhang]], [[https://openalex.org/A5039567536][Shiming Zhou]], [[https://openalex.org/A5075571728][Jie Zeng]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-44815-0  ([[https://www.nature.com/articles/s41467-024-44815-0.pdf][pdf]])
      
 Abstract The metal-support interactions (MSI) could greatly determine the electronic properties of single-atom catalysts, thus affecting the catalytic performance. However, the typical approach to regulating MSI usually suffers from interference of the variation of supports or sacrificing the stability of catalysts. Here, we effectively regulate the site-specific MSI of Ir single atoms anchored on Ni layered double hydroxide through an electrochemical deposition strategy. Cathodic deposition drives Ir atoms to locate at three-fold facial center cubic hollow sites with strong MSI, while anodic deposition drives Ir atoms to deposit onto oxygen vacancy sites with weak MSI. The mass activity and intrinsic activity of Ir single-atom catalysts with strong MSI towards oxygen evolution reaction are 19.5 and 5.2 times that with weak MSI, respectively. Mechanism study reveals that the strong MSI between Ir atoms and the support stimulates the activity of Ir sites by inducing the switch of active sites from Ni sites to Ir sites and optimizes the adsorption strength of intermediates, thereby enhancing the activity.    
+
+    
+
+** CO 2 electroreduction on two-dimensional transition metal 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene frameworks: a theoretical investigation   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1080/00268976.2024.2303394")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390909288"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390909288"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390909288"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390909288 (Open access: False)
+    
+[[https://openalex.org/A5073754209][Xuelian She]], [[https://openalex.org/A5022808269][Lin Cheng]], [[https://openalex.org/A5018863416][Ying Wang]], [[https://openalex.org/A5051363890][Kai Li]], [[https://openalex.org/A5037586164][Zhijian Wu]], Molecular Physics. None(None)] 2024. https://doi.org/10.1080/00268976.2024.2303394 
+     
+Developing highly efficient catalysts for carbon dioxide reduction reaction (CO2RR) is significant in producing useful chemicals and alleviating environmental pollution. Herein, a series of two-dimensional TM-PTC (TM = Sc-Zn, PTC = 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene) frameworks as CO2RR electrocatalysts are investigated based on the density functional method. The calculated results showed that the main product is CH4 for TM-PTC (TM = Sc-Mn). However, these catalysts can be poisoned by water molecules due to its strong adsorption on the catalyst surface. To solve the problem, we modified these catalysts by adding axial oxygen (TM-O-PTC). Our study showed that TM-O-PTC (TM = V, Cr) are good catalysts for CO2RR to produce CH4. We expected that this work could provide a useful strategy for developing high-performance CO2RR electrocatalysts.    
 
     
 
@@ -414,19 +398,19 @@ Oxygen evolution reaction (OER) is a key half-reaction in fields including water
 
     
 
-** Engineering the axial coordination of cobalt single atom catalysts for efficient photocatalytic hydrogen evolution   
+** Atomically Dispersed Zn/Co–N–C as ORR Electrocatalysts for Alkaline Fuel Cells   
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s12274-024-6411-1")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.3c11355")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390840023"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390840023"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390840023"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390976238"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390976238"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390976238"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390840023 (Open access: False)
+OpenAlex: https://openalex.org/W4390976238 (Open access: False)
     
-[[https://openalex.org/A5021363217][Ning Kang]], [[https://openalex.org/A5010168002][Lingwen Liao]], [[https://openalex.org/A5079974007][Xue Zhang]], [[https://openalex.org/A5067911307][Zhen He]], [[https://openalex.org/A5087490597][Bing Yu]], [[https://openalex.org/A5041575984][Jiahong Wang]], [[https://openalex.org/A5029146931][Yongquan Qu]], [[https://openalex.org/A5082656873][Paul K. Chu]], [[https://openalex.org/A5034165453][Seeram Ramakrishna]], [[https://openalex.org/A5021886180][Xue‐Feng Yu]], [[https://openalex.org/A5006822602][Xin Wang]], [[https://openalex.org/A5087547019][Licheng Bai]], Nano Research. None(None)] 2024. https://doi.org/10.1007/s12274-024-6411-1 
+[[https://openalex.org/A5014510879][Weixuan Xu]], [[https://openalex.org/A5005365457][Rui Zeng]], [[https://openalex.org/A5007577703][Michael Rebarchik]], [[https://openalex.org/A5054587748][Alvaro Posada-Borbón]], [[https://openalex.org/A5026395915][Huiqi Li]], [[https://openalex.org/A5020585665][Christopher J. Pollock]], [[https://openalex.org/A5031683423][Manos Mavrikakis]], [[https://openalex.org/A5042053197][Héctor D. Abruña]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.3c11355 
      
-No abstract    
+Hydrogen fuel cells have drawn increasing attention as one of the most promising next-generation power sources for future automotive transportation. Developing efficient, durable, and low-cost electrocatalysts, to accelerate the sluggish oxygen reduction reaction (ORR) kinetics, is urgently needed to advance fuel cell technologies. Herein, we report on metal–organic frameworks-derived nonprecious dual metal single-atom catalysts (SACs) (Zn/Co–N–C), consisting of Co–N4 and Zn–N4 local structures. These catalysts exhibited superior ORR activity with a half-wave potential (E1/2) of 0.938 V versus RHE (reversible hydrogen electrode) and robust stability (ΔE1/2 = −8.5 mV) after 50k electrochemical cycles. Moreover, this remarkable performance was validated under realistic fuel cell working conditions, achieving a record-high peak power density of ∼1 W cm–2 among the reported SACs for alkaline fuel cells. Operando X-ray absorption spectroscopy was conducted to identify the active sites and reveal catalytic mechanistic insights. The results indicated that the Co atom in the Co–N4 structure was the main catalytically active center, where one axial oxygenated species binds to form an Oads–Co–N4 moiety during the ORR. In addition, theoretical studies, based on a potential-dependent microkinetic model and core-level shift calculations, showed good agreement with the experimental results and provided insights into the bonding of oxygen species on Co–N4 centers during the ORR. This work provides a comprehensive mechanistic understanding of the active sites in the Zn/Co–N–C catalysts and will pave the way for the future design and advancement of high-performance single-site electrocatalysts for fuel cells and other energy applications.    
 
     
 
@@ -475,6 +459,22 @@ OpenAlex: https://openalex.org/W4391157027 (Open access: False)
 [[https://openalex.org/A5087264224][Xiaomei Wang]], [[https://openalex.org/A5060799713][Huifeng Fan]], [[https://openalex.org/A5047575599][Yuanhao Mao]], [[https://openalex.org/A5033785543][Teng Zhang]], [[https://openalex.org/A5020396788][Sayd Sultan]], [[https://openalex.org/A5058002965][Yunsong Yu]], [[https://openalex.org/A5057035777][Zaoxiao Zhang]], No host. None(None)] 2024. https://doi.org/10.1021/acssuschemeng.3c07594 
      
 Electrowinning-coupled competitive separation (ECCS) CO2 capture technology, utilizing renewable electricity as the energy input, is regarded as a promising electrochemically mediated CO2 capture approach to substitute for the traditional solvent-based CO2 scrubbing method. However, this technology is still distant from practical application due to its energy-intensive property, sensitivity to oxygen, amine degradation, and system complexity. The selection of a suitable solvent plays a crucial role in enhancing the overall performance and scalability of the ECCS system. To address an efficient solvent screening method, this paper proposed a systematic comparison of solvents in terms of thermodynamics, electrochemistry, absorption, and desorption performance. The proposed solvent screening method undergoes a critical evaluation through the development of a thermodynamic model and experimentation. Using MEA, EDA, and NH3 as examples (solvents extensively discussed in the ECCS system), the paper provides a comprehensive discussion of the solvent screening method. Results indicate that EDA exhibits superior CO2 absorption and thermodynamic performance. NH3 solvent demonstrates better CO2 desorption and electrochemical performance. However, there is an antithetical relationship between the thermodynamic and electrochemical performance. This phenomenon arises because the Cu2+–solvent complex, characterized by a stronger coupling performance, is more stable, necessitating a higher potential to reduce the Cu2+–solvent complex. This leads to increased energy consumption during the solvent regeneration process. Therefore, when solvent screening is conducted, it is essential to categorize and thoroughly consider thermodynamics, electrochemistry, and absorption and desorption performance.    
+
+    
+
+** Self-Assembled FeIII-TAML-Based Magnetic Nanostructures for Rapid and Sustainable Destruction of Bisphenol A   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s00128-023-03834-1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391294140"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391294140"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391294140"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391294140 (Open access: False)
+    
+[[https://openalex.org/A5007737126][Ruochen Dong]], [[https://openalex.org/A5041204913][Lihua Bai]], [[https://openalex.org/A5039345775][Sijia Liang]], [[https://openalex.org/A5067653970][Shuo Xu]], [[https://openalex.org/A5020111889][Song Gao]], [[https://openalex.org/A5046863635][Hongjian Li]], [[https://openalex.org/A5038524965][Ran Hong]], [[https://openalex.org/A5055838753][Chao Wang]], [[https://openalex.org/A5064042293][Cheng Gu]], Bulletin of Environmental Contamination and Toxicology. 112(2)] 2024. https://doi.org/10.1007/s00128-023-03834-1 
+     
+No abstract    
 
     
 

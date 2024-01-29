@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 11:38:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -148,6 +148,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03093</guid>
     </item>
     <item>
+      <title>Cadmium sulfide nanoparticles compositing with chitosan and metal-organic framework: Enhanced photostability and increased carbon dioxide reduction</title>
+      <link>https://doi.org/10.1007/s42114-024-00837-2</link>
+      <description>Ying Zhang, Hao Liang, Advanced Composites and Hybrid Materials. 7(1)] 2024. https://openalex.org/W4391276659
+
+                No abstract</description>
+      <author>Ying Zhang, Hao Liang</author>
+      <pubDate>Sat, 27 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s42114-024-00837-2</guid>
+    </item>
+    <item>
+      <title>Free&#8208;standing Stanene for High Selectivity of Formate in Electrocatalytic Carbon Dioxide Reduction Reaction</title>
+      <link>https://doi.org/10.1002/aenm.202303889</link>
+      <description>Xuanhao Mei, Cong Liu, Dezheng Zhang, Jing Cao, Rile Ge, Junhu Wang, Weilin Xu, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4391280930
+
+                Abstract As well&#8208;known electrocatalysts with good catalytic efficiency for carbon dioxide reduction reaction (CO 2 RR) towards the production of formate, tin (Sn)&#8208;based catalysts have aroused broad concern. Here, free&#8208;standing porous stanene is synthesized for the first time by a facile wet chemical method, and its excellent electrocatalytic performance for formate (HCOO &#8722; ) formation in CO 2 RR is demonstrated. High Faradaic efficiency (F.E., 93% at &#8722;930 mV versus reversible hydrogen electrode (RHE)) can be achieved in the CO 2 RR catalyzed by stanene in 0.5 m KHCO 3 aqueous solution. The in situ M&#246;ssbauer spectra reveal that zero&#8208;valent Sn aids in improving the selectivity of formate production. Furthermore, density functional theory calculations suggest that the high selectivity of HCOO &#8722; of CO 2 RR on stanene mainly originates from the edge sites on Sn (100). To further explore the practicability of the stanene&#8208;based catalysts for CO 2 RR, stanene decorated by 3 wt% BP&#8208;2000 is prepared, showing an excellent F.E. of 98% at &#8722;930 mV versus RHE due to the higher exposure of catalytic active sites. These new findings of the activity origination and reaction mechanism of stanene contribute to the deeper understanding of Sn&#8208;based catalysts for CO 2 RR, which is beneficial for the future designation of highly efficient CO 2 RR catalysts.</description>
+      <author>Xuanhao Mei, Cong Liu, Dezheng Zhang, Jing Cao, Rile Ge, Junhu Wang, Weilin Xu</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202303889</guid>
+    </item>
+    <item>
       <title>Recent advances in novel materials for photocatalytic carbon dioxide reduction</title>
       <link>https://doi.org/10.1002/cnl2.107</link>
       <description>Suye L&#252;, Shengwei Zhang, Qi Liu, Wen Wang, Nanjing Hao, Yajun Wang, Zhou Li, Dan Luo, Carbon Neutralization. None(None)] 2024. https://openalex.org/W4391102665
@@ -278,6 +298,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102690</guid>
     </item>
     <item>
+      <title>CO &lt;sub&gt;2&lt;/sub&gt; electroreduction on two-dimensional transition metal 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene frameworks: a theoretical investigation</title>
+      <link>https://doi.org/10.1080/00268976.2024.2303394</link>
+      <description>Xuelian She, Lin Cheng, Ying Wang, Kai Li, Zhijian Wu, Molecular Physics. None(None)] 2024. https://openalex.org/W4390909288
+
+                Developing highly efficient catalysts for carbon dioxide reduction reaction (CO2RR) is significant in producing useful chemicals and alleviating environmental pollution. Herein, a series of two-dimensional TM-PTC (TM = Sc-Zn, PTC = 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene) frameworks as CO2RR electrocatalysts are investigated based on the density functional method. The calculated results showed that the main product is CH4 for TM-PTC (TM = Sc-Mn). However, these catalysts can be poisoned by water molecules due to its strong adsorption on the catalyst surface. To solve the problem, we modified these catalysts by adding axial oxygen (TM-O-PTC). Our study showed that TM-O-PTC (TM = V, Cr) are good catalysts for CO2RR to produce CH4. We expected that this work could provide a useful strategy for developing high-performance CO2RR electrocatalysts.</description>
+      <author>Xuelian She, Lin Cheng, Ying Wang, Kai Li, Zhijian Wu</author>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/00268976.2024.2303394</guid>
+    </item>
+    <item>
       <title>Interface Engineering of Cu2o/In(Oh)3 for Efficient Solar-Driven Co2 Electrochemical Reduction to Syngas</title>
       <link>https://doi.org/10.2139/ssrn.4704994</link>
       <description>Juan Wang, Jinglian Huang, Siyuan Dong, Shuangyan Li, Bingna Zheng, Yun Yang, Shun Wang, Dajie Lin, Tingjie Mao, Huile Jin, No host. None(None)] 2024. https://openalex.org/W4391178525
@@ -306,36 +336,6 @@
       <author>Yi-tong Yin, Chuan&#8208;Lu Yang, Xiaohu Li, Yu&#8208;Liang Liu, Wenkai Zhao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159440</guid>
-    </item>
-    <item>
-      <title>Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface</title>
-      <link>https://doi.org/10.1038/s41467-024-44896-x</link>
-      <description>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4391022908
-
-                Molecular understanding of the solid-liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M+), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO2RR) on coinage metals, and the activity and selectivity of CO2RR could be further enhanced with the cation changing from Li+ to Cs+, while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M+ in CO2RR on Cu surface. A monotonically decreasing CO2 activation barrier is obtained from Li+ to Cs+, which is attributed to the different coordination abilities of M+ with *CO2. Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO2RR on Cu surfaces, where H+ is repelled from the interface and constrained by M+. Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO2RR.</description>
-      <author>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-44896-x</guid>
-    </item>
-    <item>
-      <title>Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-lckq9</link>
-      <description>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano, No host. None(None)] 2024. https://openalex.org/W4390953941
-
-                The green transition requires the preparation of clean, inexpensive, and sustainable strategies to prepare controllable bimetallic and multimetallic nanostructures. Cu-Ag nanostructures, for example, are promising bimetallic catalysts for different electrocatalytic reactions such as carbon monoxide and carbon dioxide reduction. In this work, we present the one-step preparation method of electrodeposited Cu-Ag with tunable composition and morphology from choline chloride plus urea deep eutectic solvent (DES), a non-toxic and green DES. We have assessed how different electrodeposition parameters affect the morphology and composition of our nanostructures. We combine electrochemical methods with ex-situ scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and X-ray photoelectron spectroscopy (XPS) to characterize the nanostructures. We have estimated the electrochemically active surface area (ECSA) and roughness factor (R) by lead underpotential deposition (UPD). The copper/silver ratio in the electrodeposited nanostructures is highly sensitive to the applied potential, bath composition, and loading. We observed that silver-rich nanostructures were less adherent whereas the increase in copper content led to more stable and homogenous films with disperse rounded nanostructures with tiny spikes. These spikes were more stable when the deposition rate was fast enough and the molar ratio of Cu and Ag no greater than approximately two to one.</description>
-      <author>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-lckq9</guid>
-    </item>
-    <item>
-      <title>Prediction of M3B4&#8208;type MBenes as Promising Catalysts for CO2 Capture and Reduction</title>
-      <link>https://doi.org/10.1002/cphc.202300837</link>
-      <description>Mingxia Li, Yaoyu Zhang, Dongyue Gao, Ying Liu, Chao Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo, ChemPhysChem. None(None)] 2024. https://openalex.org/W4390916846
-
-                The rational design of novel catalysts with high activity and selectivity for carbon dioxide reduction reaction (CO2RR) is highly desired. In this work, we have extensive investigations on the properties of two&#8208;dimensional transition metal borides (MBenes) to achieve efficient CO2 capture and reduction through first&#8208;principles calculations. The results show that all the investigated M3B4&#8208;type MBene exhibit remarkable CO2 capture and activation abilities, which proved to be derived from the lone pair of electrons on the MBene surface. Then, we emphasize that the investigated MBenes can further selectively reduce activated CO2 to CH4. Moreover, a new linear scaling relationship of the adsorption energies of potential&#8208;determining intermediates (*OCH2O and *HOCH2O) versus &#916;G(*OCHO) has been established, where the CO2RR limiting potentials on MBenes are determined by the different fitting slopes of &#916;G(*OCH2O) and &#916;G(*HOCHO), allowing significantly lower limiting potentials to be achieved compared to transition metals. Especially, two promising CO2RR catalysts (Mo3B4 and Cr3B4 MBene) exist quite low limiting potentials of &#8208;0.48 V and &#8208;0.66 V, as well as competitive selectivity concerning hydrogen evolution reactions have been identified. Our research results make future advances in CO2 capture by MBenes easier and exploit the applications of Mo3B4 and Cr3B4 MBenes as novel CO2RR catalysts.</description>
-      <author>Mingxia Li, Yaoyu Zhang, Dongyue Gao, Ying Liu, Chao Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202300837</guid>
     </item>
     <item>
       <title>Unconventional and Emerging Approaches to CO2 Reduction</title>
@@ -378,6 +378,26 @@
       <guid isPermaLink="true">https://doi.org/10.3390/molecules29030578</guid>
     </item>
     <item>
+      <title>Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction</title>
+      <link>https://doi.org/10.1039/d3ey00222e</link>
+      <description>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky, EES Catalysis. None(None)] 2024. https://openalex.org/W4390920767
+
+                Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the photoelectrochemical CO2 reduction reaction (PEC CO2RR). The preparation is based on a simple spin-coating technique, where nanorod-like structures were obtained for Sb2Se3,...</description>
+      <author>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e</guid>
+    </item>
+    <item>
+      <title>Electrochemical CO2 reduction properties of boron-doped diamond powder</title>
+      <link>https://doi.org/10.1016/j.diamond.2024.110821</link>
+      <description>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa, Diamond and Related Materials. 142(None)] 2024. https://openalex.org/W4391074415
+
+                The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at &#8722;1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.</description>
+      <author>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110821</guid>
+    </item>
+    <item>
       <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
       <link>https://doi.org/10.1039/d3ey00222e/v1/review3</link>
       <description>, No host. None(None)] 2023. https://openalex.org/W4391057005
@@ -418,16 +438,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/review3</guid>
     </item>
     <item>
-      <title>Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction</title>
-      <link>https://doi.org/10.1039/d3ey00222e</link>
-      <description>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky, EES Catalysis. None(None)] 2024. https://openalex.org/W4390920767
-
-                Photoelectrodes with FTO/Au/Sb2Se3/TiO2/Au architecture were studied in the photoelectrochemical CO2 reduction reaction (PEC CO2RR). The preparation is based on a simple spin-coating technique, where nanorod-like structures were obtained for Sb2Se3,...</description>
-      <author>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e</guid>
-    </item>
-    <item>
       <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
       <link>https://doi.org/10.1039/d3ey00222e/v1/review2</link>
       <description>, No host. None(None)] 2023. https://openalex.org/W4391057123
@@ -446,16 +456,6 @@
       <author/>
       <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v1/review4</guid>
-    </item>
-    <item>
-      <title>Electrochemical CO2 reduction properties of boron-doped diamond powder</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.110821</link>
-      <description>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa, Diamond and Related Materials. 142(None)] 2024. https://openalex.org/W4391074415
-
-                The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at &#8722;1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.</description>
-      <author>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110821</guid>
     </item>
     <item>
       <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
@@ -528,16 +528,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/decision1</guid>
     </item>
     <item>
-      <title>Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites</title>
-      <link>https://openalex.org/W4391077147</link>
-      <description>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391077147
-
-                No abstract</description>
-      <author>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4391077147</guid>
-    </item>
-    <item>
       <title>Adsorption and activation, active site and reaction pathway of photocatalytic CO2 reduction: A review</title>
       <link>https://doi.org/10.1016/j.cej.2024.148754</link>
       <description>Yong&#8208;Xing He, Lin Yin, Nanci Yuan, Gaoke Zhang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390858622
@@ -546,6 +536,16 @@
       <author>Yong&#8208;Xing He, Lin Yin, Nanci Yuan, Gaoke Zhang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148754</guid>
+    </item>
+    <item>
+      <title>Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites</title>
+      <link>https://openalex.org/W4391077147</link>
+      <description>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391077147
+
+                No abstract</description>
+      <author>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;-Daur&#225;, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4391077147</guid>
     </item>
     <item>
       <title>Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction</title>
@@ -566,6 +566,16 @@
       <author>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159501</guid>
+    </item>
+    <item>
+      <title>Boosting the photocatalytic CO2 reduction activity of g-C3N4 by acid modification</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.126577</link>
+      <description>Licheng Zhou, Jianping Ao, Zhi Wang, Zhenhong Huang, Zhaoyi Xu, Xiaofeng Wu, Zhenmin Cheng, Kangle Lv, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391293841
+
+                No abstract</description>
+      <author>Licheng Zhou, Jianping Ao, Zhi Wang, Zhenhong Huang, Zhaoyi Xu, Xiaofeng Wu, Zhenmin Cheng, Kangle Lv</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126577</guid>
     </item>
   </channel>
 </rss>

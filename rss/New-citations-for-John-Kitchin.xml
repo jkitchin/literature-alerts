@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:41:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 11:38:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Identifying the distinct roles of dual dopants in stabilizing the platinum-nickel nanowire catalyst for durable fuel cell</title>
-      <link>https://doi.org/10.1038/s41467-024-44788-0</link>
-      <description>Lei Gao, Tulai Sun, Xuli Chen, Zhilong Yang, Mengfan Li, Wenchuan Lai, Wenhua Zhang, Quan Yuan, Hongwen Huang, Nature Communications. 15(1)] 2024. https://openalex.org/W4390841334
-
-                Stabilizing active PtNi alloy catalyst toward oxygen reduction reaction is essential for fuel cell. Doping of specific metals is an empirical strategy, however, the atomistic insight into how dopant boosts the stability of PtNi catalyst still remains elusive. Here, with typical examples of Mo and Au dopants, we identify the distinct roles of Mo and Au in stabilizing PtNi nanowires catalysts. Specifically, due to the stronger interaction between atomic orbital for Ni-Mo and Pt-Au, the Mo dopant mainly suppresses the outward diffusion of Ni atoms while the Au dopant contributes to the stabilization of surface Pt overlayer. Inspired by this atomistic understanding, we rationally construct the PtNiMoAu nanowires by integrating the different functions of Mo and Au into one entity. Such catalyst assembled in fuel cell cathode thus presents both remarkable activity and durability, even surpassing the United States Department of Energy technical targets for 2025.</description>
-      <author>Lei Gao, Tulai Sun, Xuli Chen, Zhilong Yang, Mengfan Li, Wenchuan Lai, Wenhua Zhang, Quan Yuan, Hongwen Huang</author>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-44788-0</guid>
-    </item>
-    <item>
-      <title>Engineered oxidation states in NiCo2O4@CeO2 nanourchin architectures with abundant oxygen vacancies for enhanced oxygen evolution reaction performance</title>
-      <link>https://doi.org/10.1016/j.cej.2024.148787</link>
-      <description>Shiyu Xu, Peng Zhang, Ruiqing Zhao, Jong Wook Bae, Hao Li, Jin Yong Lee, Pil J. Yoo, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390849521
-
-                Sluggish oxygen evolution reaction (OER) as the half reaction of water electrolysis hindered the production of clean hydrogen, necessitates a cost-effective electrocatalyst. Spinel nickel cobaltite (NiCo2O4), characterized by its lower cost, flexibility in oxidation states of cations, and stable spinel structure, holds promise as an OER electrocatalyst. However, there is still room for improvement in terms of its intrinsic electrochemical activity, conductivity, and active surface area. Inspired by the flexible valence states of Ni and Co, in this study, CeO2 was introduced into NiCo2O4 for further electronic structure adjustment. The result was the synthesis of an urchin-like NiCo2O4@CeO2 (NCOC), and the elucidation of its formation mechanisms, expressed conclusively through reaction formulas. NCOC, characterized by an open architecture and a rough surface, ensures rapid mass transportation and charge diffusion. Within NCOC, numerous oxophilic Ce3+ sites with oxygen vacancies construct electron transport pathways, accelerating charge-transfer. This simultaneously induces an increase in the oxidation states and proportions of Ni3+ and Co3+ in NCOC, reinforcing the covalence of Ni&#8211;O and Co&#8211;O bonds, expediting the ad/desorption of intermediates during OER. The electronic structure variations of NCOC were further verified through density functional theory (DFT) analyses, revealing alterations in adsorption configurations of intermediates and a decrease in adsorption free energies for intermediates on NCOC during OER. In practical terms, NCOC demonstrated a low overpotential of 228 mV at a current density of 10 mA cm&#8722;2 under 1 M KOH, maintaining long-term electrochemical stability for 100 h. Overall, this study provides a universal approach for designing highly cost-efficient electrocatalysts for OER.</description>
-      <author>Shiyu Xu, Peng Zhang, Ruiqing Zhao, Jong Wook Bae, Hao Li, Jin Yong Lee, Pil J. Yoo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148787</guid>
-    </item>
     <item>
       <title>First-principles study of the effects of Vo on the magnetic and photocatalytic properties of bilayer anatase TiO2(001): C/N/S</title>
       <link>https://doi.org/10.1016/j.vacuum.2024.112986</link>
@@ -136,6 +116,16 @@
       <author>Jie Wei, Hengjing Tang, Li Sheng, Ruyang Wang, Minghui Fan, Jin Wan, Yaoguo Wu, Z. D. Zhang, Shiming Zhou, Jie Zeng</author>
       <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-44815-0</guid>
+    </item>
+    <item>
+      <title>CO &lt;sub&gt;2&lt;/sub&gt; electroreduction on two-dimensional transition metal 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene frameworks: a theoretical investigation</title>
+      <link>https://doi.org/10.1080/00268976.2024.2303394</link>
+      <description>Xuelian She, Lin Cheng, Ying Wang, Kai Li, Zhijian Wu, Molecular Physics. None(None)] 2024. https://openalex.org/W4390909288
+
+                Developing highly efficient catalysts for carbon dioxide reduction reaction (CO2RR) is significant in producing useful chemicals and alleviating environmental pollution. Herein, a series of two-dimensional TM-PTC (TM = Sc-Zn, PTC = 1,2,3,4,5,6,7,8,9,10,11,12-perthiolated coronene) frameworks as CO2RR electrocatalysts are investigated based on the density functional method. The calculated results showed that the main product is CH4 for TM-PTC (TM = Sc-Mn). However, these catalysts can be poisoned by water molecules due to its strong adsorption on the catalyst surface. To solve the problem, we modified these catalysts by adding axial oxygen (TM-O-PTC). Our study showed that TM-O-PTC (TM = V, Cr) are good catalysts for CO2RR to produce CH4. We expected that this work could provide a useful strategy for developing high-performance CO2RR electrocatalysts.</description>
+      <author>Xuelian She, Lin Cheng, Ying Wang, Kai Li, Zhijian Wu</author>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/00268976.2024.2303394</guid>
     </item>
     <item>
       <title>3D printed electrically conductive amine based sorbent for CO2 capture</title>
@@ -258,14 +248,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173576</guid>
     </item>
     <item>
-      <title>Engineering the axial coordination of cobalt single atom catalysts for efficient photocatalytic hydrogen evolution</title>
-      <link>https://doi.org/10.1007/s12274-024-6411-1</link>
-      <description>Ning Kang, Lingwen Liao, Xue Zhang, Zhen He, Bing Yu, Jiahong Wang, Yongquan Qu, Paul K. Chu, Seeram Ramakrishna, Xue&#8208;Feng Yu, Xin Wang, Licheng Bai, Nano Research. None(None)] 2024. https://openalex.org/W4390840023
+      <title>Atomically Dispersed Zn/Co&#8211;N&#8211;C as ORR Electrocatalysts for Alkaline Fuel Cells</title>
+      <link>https://doi.org/10.1021/jacs.3c11355</link>
+      <description>Weixuan Xu, Rui Zeng, Michael Rebarchik, Alvaro Posada-Borb&#243;n, Huiqi Li, Christopher J. Pollock, Manos Mavrikakis, H&#233;ctor D. Abru&#241;a, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4390976238
 
-                No abstract</description>
-      <author>Ning Kang, Lingwen Liao, Xue Zhang, Zhen He, Bing Yu, Jiahong Wang, Yongquan Qu, Paul K. Chu, Seeram Ramakrishna, Xue&#8208;Feng Yu, Xin Wang, Licheng Bai</author>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6411-1</guid>
+                Hydrogen fuel cells have drawn increasing attention as one of the most promising next-generation power sources for future automotive transportation. Developing efficient, durable, and low-cost electrocatalysts, to accelerate the sluggish oxygen reduction reaction (ORR) kinetics, is urgently needed to advance fuel cell technologies. Herein, we report on metal&#8211;organic frameworks-derived nonprecious dual metal single-atom catalysts (SACs) (Zn/Co&#8211;N&#8211;C), consisting of Co&#8211;N4 and Zn&#8211;N4 local structures. These catalysts exhibited superior ORR activity with a half-wave potential (E1/2) of 0.938 V versus RHE (reversible hydrogen electrode) and robust stability (&#916;E1/2 = &#8722;8.5 mV) after 50k electrochemical cycles. Moreover, this remarkable performance was validated under realistic fuel cell working conditions, achieving a record-high peak power density of &#8764;1 W cm&#8211;2 among the reported SACs for alkaline fuel cells. Operando X-ray absorption spectroscopy was conducted to identify the active sites and reveal catalytic mechanistic insights. The results indicated that the Co atom in the Co&#8211;N4 structure was the main catalytically active center, where one axial oxygenated species binds to form an Oads&#8211;Co&#8211;N4 moiety during the ORR. In addition, theoretical studies, based on a potential-dependent microkinetic model and core-level shift calculations, showed good agreement with the experimental results and provided insights into the bonding of oxygen species on Co&#8211;N4 centers during the ORR. This work provides a comprehensive mechanistic understanding of the active sites in the Zn/Co&#8211;N&#8211;C catalysts and will pave the way for the future design and advancement of high-performance single-site electrocatalysts for fuel cells and other energy applications.</description>
+      <author>Weixuan Xu, Rui Zeng, Michael Rebarchik, Alvaro Posada-Borb&#243;n, Huiqi Li, Christopher J. Pollock, Manos Mavrikakis, H&#233;ctor D. Abru&#241;a</author>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c11355</guid>
     </item>
     <item>
       <title>Performance prediction of gas turbine blade with multi-source random factors using active learning-based neural network</title>
@@ -296,6 +286,16 @@
       <author>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang</author>
       <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07594</guid>
+    </item>
+    <item>
+      <title>Self-Assembled FeIII-TAML-Based Magnetic Nanostructures for Rapid and Sustainable Destruction of Bisphenol A</title>
+      <link>https://doi.org/10.1007/s00128-023-03834-1</link>
+      <description>Ruochen Dong, Lihua Bai, Sijia Liang, Shuo Xu, Song Gao, Hongjian Li, Ran Hong, Chao Wang, Cheng Gu, Bulletin of Environmental Contamination and Toxicology. 112(2)] 2024. https://openalex.org/W4391294140
+
+                No abstract</description>
+      <author>Ruochen Dong, Lihua Bai, Sijia Liang, Shuo Xu, Song Gao, Hongjian Li, Ran Hong, Chao Wang, Cheng Gu</author>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00128-023-03834-1</guid>
     </item>
     <item>
       <title>Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba&lt;sub&gt;0.6&lt;/sub&gt;Sr&lt;sub&gt;0.4&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt;</title>

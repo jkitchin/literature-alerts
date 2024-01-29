@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jan 28 00:41:33 2024
+Created on Mon Jan 29 11:38:19 2024
 
-Found 25 results from 2024-01-14 to 2024-01-28
+Found 25 results from 2024-01-15 to 2024-01-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Isolated Cu Sites in CdS Hollow Nanocubes with Doping-Location-Dependent Performance for Photocatalytic CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4390841416    
-Open access: False
-    
-[Yong Ma](https://openalex.org/A5085082937), [Jintao Zhang](https://openalex.org/A5058932447), [Guanshun Xie](https://openalex.org/A5075813493), [Zhaohui Huang](https://openalex.org/A5001679891), [Linfen Peng](https://openalex.org/A5032051006), [Changqiang Yu](https://openalex.org/A5066278842), [Xiuqiang Xie](https://openalex.org/A5008324192), [Shuanglin Qu](https://openalex.org/A5057553497), [Nan Zhang](https://openalex.org/A5028247613), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05412.
-    
-Doping engineering has enabled the construction of homogeneous and abundant atomic-level catalytic sites for photocatalytic CO2 reduction with improved selectivity for the target product. However, little is known about the effect of the spatial position of the heteroatoms on the photocatalytic activity of the semiconductors toward CO2 reduction. Herein, uniform Cu doping into the bulk phase of hollow CdS cubes (HCC) and Cu doping onto the surface of HCC, denoted as Cu/HCC and HCC@Cu, respectively, are prepared by tuning the introduction order of Cu sources. Experimental analysis shows that the introduction of Cu by both methods can promote the separation and migration of photoinduced charge carriers in CdS. Notably, Cu doping onto the surface of CdS in HCC@Cu leads to much better proton reduction to H2 production performance but lower CO2 reduction efficiency as compared to bare CdS. In sharp contrast, Cu doping into the bulk phase of CdS enhances the CO2-to-CO conversion while mitigating H2 evolution. This should be ascribed to the smaller overpotential of Cu/HCC in the CO2 saturated system than that in the Ar system. In addition, doping Cu atoms into the bulk phase of CdS shifts the d band center of Cu/HCC upward to near the Fermi energy level, which promotes the adsorption and activation of CO2 on CdS. These results indicate that the photoelectrons with a prolonged lifetime in Cu/HCC preferably reduce CO2 molecules rather than protons. The density functional theory (DFT) calculation results show that the introduction of Cu heteroatoms can promote the desorption of CO*, and the adaptable sulfur vacancies (Vs) produced by in situ doping techniques can stimulate the formation of CO* intermediates, resulting in the high performance of photocatalytic CO2 reduction to CO. This work reveals the effect of different heteroatom doping locations on the catalytic activity and will provide a reference for the design of efficient photocatalysts with atomic-level fine structure.    
-
-    
-
-## Synergistic Effects of Co–Fe Boosts the Transformation of CO2 into C6+ Dicarboxylic Acids up to Gram-Scale under Mild Conditions   
-
-OpenAlex: https://openalex.org/W4390841453    
-Open access: False
-    
-[Ying Zhang](https://openalex.org/A5047629524), [Junjun Mao](https://openalex.org/A5016114882), [Bo Zhang](https://openalex.org/A5011877804), [Dan Wang](https://openalex.org/A5058380236), [Chenchen Zhang](https://openalex.org/A5056489746), [Yang Lou](https://openalex.org/A5012006645), [Chengsi Pan](https://openalex.org/A5065654129), [Yongfa Zhu](https://openalex.org/A5022296873), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05395.
-    
-Electrochemical carboxylation of 1,3-dienes with carbon dioxide (CO2) is a feasible method to obtain dicarboxylic derivatives, which are important synthetic intermediates of polymers and pharmaceuticals. However, due to unavoidable byproducts and unfriendly conditions, the formation of pure dicarboxylic acids has been limited. In this work, we report that a bimetallic phosphating CoFeP catalyst on nickel foam (CoFeP/NF) served as a remarkable electrode, which transforms CO2 into multicarbon (C6+) dicarboxylic acids. The synergistic effects of CoFeP catalyst between Co and Fe allow activation of 1,3-dienes mainly, in which electron transfer easier to the 1,3-dienes proceeded to afford radical anion of the diene, pursuant carboxylation with CO2 and further electron transfer formed the ultimate carboxylated products. The reaction can occur in a commercial flow cell with gram-scale amplification. The dicarboxylic acid obtained was up to 1.08 g at a 5 mmol scale of 1,3-dienes, illustrating high electrocatalytic activity and practical application of CoFeP/NF.    
-
-    
 
 ## Insights into the Palladium(II)-Catalyzed Wacker-Type Oxidation of Styrene with Hydrogen Peroxide and tert-Butyl Hydroperoxide   
 
@@ -91,6 +69,17 @@ Open access: False
 [Yuting Sun](https://openalex.org/A5025489995), [Pan Gao](https://openalex.org/A5036873735), [Yi Ji](https://openalex.org/A5054267512), [Kuizhi Chen](https://openalex.org/A5017178424), [Guangjin Hou](https://openalex.org/A5005414489), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04494.
     
 Pyridine modified Mordenite (Py-MOR) has been successfully applied in multiple methanol-related catalytic reactions, e.g., carbonylation and methanol-to-hydrocarbon conversions, etc.; however, the fundamental insights into the methanol molecules within its interconnected micropores remain elusive. Herein, we comprehensively studied the adsorption and evolution of methanol on Py-MOR under thermal treatment by employing solid-state NMR spectroscopy. An interesting evolution route of methanol (8-MR) → dimethyl ether → methanol (12-MR) is observed when increasing the reaction temperature up to 573 K, while no carbon–carbon bond can be formed in the 8-MR and 12-MR channels, possibly due to the confinement effect on methanol either from the narrow 8-MR pores or pyridine partially occupied 12-MR channels. More importantly, the vigorous competitive adsorption on the Bro̷nsted acid site for methanol versus pyridine is experimentally verified by 1H MAS NMR and two-dimensional hetero- and homonuclear correlation NMR spectra. The pyridine-H+ bond of the pyridinium ions in the 8-MR side pockets easily breaks upon methanol adsorption, even at room temperature, while the strongly bonded pyridine-H+ moiety in the 12-MR channel breaks only at elevated temperatures up to 523–573 K, due to the competitive adsorption of methanol. We further show that the CO carbonylation reaction occurs for methanol residing in 8-MR pores of Py-MOR, while the methanol within the 12-MR is “locked” by the pyridine molecules. These fundamental findings are critical for a more comprehensive understanding of the methanol-related reactions on Py-MOR.    
+
+    
+
+## Poisoning of Pt/γ-Al2O3 Aqueous Phase Reforming Catalysts by Ketone and Diketone-Derived Surface Species   
+
+OpenAlex: https://openalex.org/W4390910531    
+Open access: True
+    
+[Bryan J. Hare](https://openalex.org/A5029376991), [Ricardo A. García Cárcamo](https://openalex.org/A5057662539), [Luke L. Daemen](https://openalex.org/A5049941485), [Yongqiang Cheng](https://openalex.org/A5033156106), [Rachel B. Getman](https://openalex.org/A5085121177), [Carsten Sievers](https://openalex.org/A5088976109), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04774 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04774)).
+    
+Strong adsorption of ketone and diketone byproducts and their fragmentation products during the aqueous phase reforming of biomass derived oxygenates is believed to be responsible for the deactivation of supported Pt catalysts. This study involves a combined experimental and theoretical approach to demonstrate the interactions of several model di/ketone poisons with Pt/γ-Al2O3 catalysts. Particular di/ketones were selected to reveal the effects of hydroxyl groups (acetone, hydroxyacetone), conjugation with C═C bonds (mesityl oxide), intramolecular distance between carbonyls in diketones (2,3-butanedione, 2,4-pentanedione), and length of terminal alkyl chains (3,4-hexanedione). The formation of adsorbed carbon monoxide (1900–2100 cm–1) as a decarbonylation product was probed using infrared spectroscopy and to calculate the extent of poisoning during subsequent methanol dehydrogenation based on the reduction of the ν(C≡O) band integral relative to experiments in which only methanol was dosed. Small Pt particles appeared less active in decarbonylation and were perhaps poisoned by strongly adsorbed di/ketones on undercoordinated metal sites and bulky conjugated species formed on the γ-Al2O3 support from aldol self-condensation. Larger Pt particles were more resistant to di/ketone poisoning due to higher decarbonylation activity yet still fell short of the expected yield of adsorbed CO from subsequent methanol activity. Vibrational spectra acquired using inelastic neutron scattering showed evidence for strongly binding methyl and acyl groups resulting from di/ketone decarbonylation on a Pt sponge at 250 °C. Adsorption energies and molecular configurations were obtained for di/ketones on a Pt(111) slab using density functional theory, revealing potential descriptors for predicting decarbonylation activity on highly coordinated metal sites. Calculated reaction energies suggest it is energetically favorable to reform surface methyl groups into adsorbed CO and H. However, the rate of this surface reaction is limited by a high activation barrier indicating that either improved APR catalyst designs or regeneration procedures may be necessary.    
 
     
 
@@ -278,5 +267,16 @@ Open access: False
 [Huanhuan Li](https://openalex.org/A5011068248), [Pei-Gao Duan](https://openalex.org/A5008785904), [Yue Huang](https://openalex.org/A5085129889), [Chengsen Cui](https://openalex.org/A5060836006), [Frank Hollmann](https://openalex.org/A5039285985), [Yunjian Ma](https://openalex.org/A5035240739), [Yonghua Wang](https://openalex.org/A5070629226), [Jie Zhang](https://openalex.org/A5073501391), [Weidong Liu](https://openalex.org/A5010058813), [Wuyuan Zhang](https://openalex.org/A5054052897), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05333.
     
 The downstream product transformation of lignin depolymerization is of great interest in the production of high-value aromatic chemicals. However, this transformation is often impeded by chemical oxidation under harsh reaction conditions. In this study, we demonstrate that hypohalites generated in situ by the vanadium-containing chloroperoxidase from Curvularia inaequalis (CiVCPO) can halogenate various electron-rich and electron-poor phenol and phenolic acid substrates. Specifically, CiVCPO enabled decarboxylative halogenation, deformylative halogenation, halogenation, and direct oxidation reactions. The versatile transformation routes for the valorization of phenolic compounds showed up to 99% conversion and 99% selectivity, with a turnover number of 60,700 and a turnover frequency of 60 s–1 for CiVCPO. This study potentially expands the biocatalytic toolbox for lignin valorization.    
+
+    
+
+## Single Pd Atom–In2O3 Catalyzes Production of CH3CH2OH from Atom-Economic C–C Coupling of HCHO and CH4   
+
+OpenAlex: https://openalex.org/W4390974718    
+Open access: False
+    
+[Yuntao Zhao](https://openalex.org/A5046089711), [Natalie Fontillas](https://openalex.org/A5093736625), [Hua Wang](https://openalex.org/A5054863233), [Xinli Zhu](https://openalex.org/A5036620975), [Donghai Mei](https://openalex.org/A5051658453), [Qingfeng Ge](https://openalex.org/A5011150326), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05163.
+    
+Using methane as a reagent to synthesize high-value chemicals and high-energy density fuels through C–C coupling has attracted intense attention in recent decades, as it avoids completely breaking all C–H bonds in CH4. In the present study, we demonstrated that the coupling of HCHO with the CH3 species from CH4 activation to produce ethanol can be accomplished on the single Pd atom–In2O3 catalyst based on the results of density functional theory (DFT) calculations. The results show that the supported single Pd atom stabilizes the CH3 species following the activation of one C–H bond of CH4, while HCHO adsorbs on the neighboring In site. Facile C–C coupling of HCHO with the methyl species is achieved with an activation barrier of 0.56 eV. We further examined the C–C coupling on other single metal atoms, including Ni, Rh, Pt, and Ag, supported on In2O3 by following a similar pathway and found that a balance of the three key steps for ethanol formation, i.e., CH4 activation, C–C coupling, and ethoxy hydrogenation, was achieved on Pd/In2O3. Taking the production of acetaldehyde and ethylene on the Pd/In2O3 catalyst into consideration, the DFT-based microkinetic analysis indicates that ethanol is the dominant product on the Pd/In2O3 catalyst. The facile C–C coupling between HCHO and dissociated CH4 makes formaldehyde a potential C1 source in the conversion and utilization of methane through an energy- and atom-efficient process.    
 
     

@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Jan 2024 00:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2024 11:38:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Isolated Cu Sites in CdS Hollow Nanocubes with Doping-Location-Dependent Performance for Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.3c05412</link>
-      <description>Yong Ma, Jintao Zhang, Guanshun Xie, Zhaohui Huang, Linfen Peng, Changqiang Yu, Xiuqiang Xie, Shuanglin Qu, Nan Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390841416
-
-                Doping engineering has enabled the construction of homogeneous and abundant atomic-level catalytic sites for photocatalytic CO2 reduction with improved selectivity for the target product. However, little is known about the effect of the spatial position of the heteroatoms on the photocatalytic activity of the semiconductors toward CO2 reduction. Herein, uniform Cu doping into the bulk phase of hollow CdS cubes (HCC) and Cu doping onto the surface of HCC, denoted as Cu/HCC and HCC@Cu, respectively, are prepared by tuning the introduction order of Cu sources. Experimental analysis shows that the introduction of Cu by both methods can promote the separation and migration of photoinduced charge carriers in CdS. Notably, Cu doping onto the surface of CdS in HCC@Cu leads to much better proton reduction to H2 production performance but lower CO2 reduction efficiency as compared to bare CdS. In sharp contrast, Cu doping into the bulk phase of CdS enhances the CO2-to-CO conversion while mitigating H2 evolution. This should be ascribed to the smaller overpotential of Cu/HCC in the CO2 saturated system than that in the Ar system. In addition, doping Cu atoms into the bulk phase of CdS shifts the d band center of Cu/HCC upward to near the Fermi energy level, which promotes the adsorption and activation of CO2 on CdS. These results indicate that the photoelectrons with a prolonged lifetime in Cu/HCC preferably reduce CO2 molecules rather than protons. The density functional theory (DFT) calculation results show that the introduction of Cu heteroatoms can promote the desorption of CO*, and the adaptable sulfur vacancies (Vs) produced by in situ doping techniques can stimulate the formation of CO* intermediates, resulting in the high performance of photocatalytic CO2 reduction to CO. This work reveals the effect of different heteroatom doping locations on the catalytic activity and will provide a reference for the design of efficient photocatalysts with atomic-level fine structure.</description>
-      <author>Yong Ma, Jintao Zhang, Guanshun Xie, Zhaohui Huang, Linfen Peng, Changqiang Yu, Xiuqiang Xie, Shuanglin Qu, Nan Zhang</author>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05412</guid>
-    </item>
-    <item>
-      <title>Synergistic Effects of Co&#8211;Fe Boosts the Transformation of CO&lt;sub&gt;2&lt;/sub&gt; into C&lt;sub&gt;6+&lt;/sub&gt; Dicarboxylic Acids up to Gram-Scale under Mild Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.3c05395</link>
-      <description>Ying Zhang, Junjun Mao, Bo Zhang, Dan Wang, Chenchen Zhang, Yang Lou, Chengsi Pan, Yongfa Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390841453
-
-                Electrochemical carboxylation of 1,3-dienes with carbon dioxide (CO2) is a feasible method to obtain dicarboxylic derivatives, which are important synthetic intermediates of polymers and pharmaceuticals. However, due to unavoidable byproducts and unfriendly conditions, the formation of pure dicarboxylic acids has been limited. In this work, we report that a bimetallic phosphating CoFeP catalyst on nickel foam (CoFeP/NF) served as a remarkable electrode, which transforms CO2 into multicarbon (C6+) dicarboxylic acids. The synergistic effects of CoFeP catalyst between Co and Fe allow activation of 1,3-dienes mainly, in which electron transfer easier to the 1,3-dienes proceeded to afford radical anion of the diene, pursuant carboxylation with CO2 and further electron transfer formed the ultimate carboxylated products. The reaction can occur in a commercial flow cell with gram-scale amplification. The dicarboxylic acid obtained was up to 1.08 g at a 5 mmol scale of 1,3-dienes, illustrating high electrocatalytic activity and practical application of CoFeP/NF.</description>
-      <author>Ying Zhang, Junjun Mao, Bo Zhang, Dan Wang, Chenchen Zhang, Yang Lou, Chengsi Pan, Yongfa Zhu</author>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05395</guid>
-    </item>
     <item>
       <title>Insights into the Palladium(II)-Catalyzed Wacker-Type Oxidation of Styrene with Hydrogen Peroxide and &lt;i&gt;tert&lt;/i&gt;-Butyl Hydroperoxide</title>
       <link>https://doi.org/10.1021/acscatal.3c05630</link>
@@ -86,6 +66,16 @@
       <author>Yuting Sun, Pan Gao, Yi Ji, Kuizhi Chen, Guangjin Hou</author>
       <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04494</guid>
+    </item>
+    <item>
+      <title>Poisoning of Pt/&#947;-Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Aqueous Phase Reforming Catalysts by Ketone and Diketone-Derived Surface Species</title>
+      <link>https://doi.org/10.1021/acscatal.3c04774</link>
+      <description>Bryan J. Hare, Ricardo A. Garc&#237;a C&#225;rcamo, Luke L. Daemen, Yongqiang Cheng, Rachel B. Getman, Carsten Sievers, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390910531
+
+                Strong adsorption of ketone and diketone byproducts and their fragmentation products during the aqueous phase reforming of biomass derived oxygenates is believed to be responsible for the deactivation of supported Pt catalysts. This study involves a combined experimental and theoretical approach to demonstrate the interactions of several model di/ketone poisons with Pt/&#947;-Al2O3 catalysts. Particular di/ketones were selected to reveal the effects of hydroxyl groups (acetone, hydroxyacetone), conjugation with C&#9552;C bonds (mesityl oxide), intramolecular distance between carbonyls in diketones (2,3-butanedione, 2,4-pentanedione), and length of terminal alkyl chains (3,4-hexanedione). The formation of adsorbed carbon monoxide (1900&#8211;2100 cm&#8211;1) as a decarbonylation product was probed using infrared spectroscopy and to calculate the extent of poisoning during subsequent methanol dehydrogenation based on the reduction of the &#957;(C&#8801;O) band integral relative to experiments in which only methanol was dosed. Small Pt particles appeared less active in decarbonylation and were perhaps poisoned by strongly adsorbed di/ketones on undercoordinated metal sites and bulky conjugated species formed on the &#947;-Al2O3 support from aldol self-condensation. Larger Pt particles were more resistant to di/ketone poisoning due to higher decarbonylation activity yet still fell short of the expected yield of adsorbed CO from subsequent methanol activity. Vibrational spectra acquired using inelastic neutron scattering showed evidence for strongly binding methyl and acyl groups resulting from di/ketone decarbonylation on a Pt sponge at 250 &#176;C. Adsorption energies and molecular configurations were obtained for di/ketones on a Pt(111) slab using density functional theory, revealing potential descriptors for predicting decarbonylation activity on highly coordinated metal sites. Calculated reaction energies suggest it is energetically favorable to reform surface methyl groups into adsorbed CO and H. However, the rate of this surface reaction is limited by a high activation barrier indicating that either improved APR catalyst designs or regeneration procedures may be necessary.</description>
+      <author>Bryan J. Hare, Ricardo A. Garc&#237;a C&#225;rcamo, Luke L. Daemen, Yongqiang Cheng, Rachel B. Getman, Carsten Sievers</author>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04774</guid>
     </item>
     <item>
       <title>Iron-Catalyzed Regioselective Reductive Fluoroalkylalkenylation of Unactivated Alkenes</title>
@@ -256,6 +246,16 @@
       <author>Huanhuan Li, Pei-Gao Duan, Yue Huang, Chengsen Cui, Frank Hollmann, Yunjian Ma, Yonghua Wang, Jie Zhang, Weidong Liu, Wuyuan Zhang</author>
       <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05333</guid>
+    </item>
+    <item>
+      <title>Single Pd Atom&#8211;In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyzes Production of CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OH from Atom-Economic C&#8211;C Coupling of HCHO and CH&lt;sub&gt;4&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.3c05163</link>
+      <description>Yuntao Zhao, Natalie Fontillas, Hua Wang, Xinli Zhu, Donghai Mei, Qingfeng Ge, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974718
+
+                Using methane as a reagent to synthesize high-value chemicals and high-energy density fuels through C&#8211;C coupling has attracted intense attention in recent decades, as it avoids completely breaking all C&#8211;H bonds in CH4. In the present study, we demonstrated that the coupling of HCHO with the CH3 species from CH4 activation to produce ethanol can be accomplished on the single Pd atom&#8211;In2O3 catalyst based on the results of density functional theory (DFT) calculations. The results show that the supported single Pd atom stabilizes the CH3 species following the activation of one C&#8211;H bond of CH4, while HCHO adsorbs on the neighboring In site. Facile C&#8211;C coupling of HCHO with the methyl species is achieved with an activation barrier of 0.56 eV. We further examined the C&#8211;C coupling on other single metal atoms, including Ni, Rh, Pt, and Ag, supported on In2O3 by following a similar pathway and found that a balance of the three key steps for ethanol formation, i.e., CH4 activation, C&#8211;C coupling, and ethoxy hydrogenation, was achieved on Pd/In2O3. Taking the production of acetaldehyde and ethylene on the Pd/In2O3 catalyst into consideration, the DFT-based microkinetic analysis indicates that ethanol is the dominant product on the Pd/In2O3 catalyst. The facile C&#8211;C coupling between HCHO and dissociated CH4 makes formaldehyde a potential C1 source in the conversion and utilization of methane through an energy- and atom-efficient process.</description>
+      <author>Yuntao Zhao, Natalie Fontillas, Hua Wang, Xinli Zhu, Donghai Mei, Qingfeng Ge</author>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05163</guid>
     </item>
   </channel>
 </rss>
