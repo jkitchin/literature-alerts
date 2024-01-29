@@ -7,8 +7,11 @@ from bs4 import BeautifulSoup
 
 
 def html_to_text(html_string):
-    soup = BeautifulSoup(html_string, 'html.parser')
-    return soup.get_text()
+    if html_string:
+        soup = BeautifulSoup(html_string, 'html.parser')
+        return soup.get_text()
+    else:
+        return html_string
 
 
 def run_query(topic, since):
