@@ -1,29 +1,13 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jan 29 11:38:16 2024
+Created on Tue Jan 30 00:38:48 2024
 
-Found 57 results from 2024-01-15 to 2024-01-29
+Found 55 results from 2024-01-16 to 2024-01-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction]]
-
-** Comparative microwave catalytic pyrolysis of cellulose and lignin in nitrogen and carbon dioxide atmospheres   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jclepro.2024.140750")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390859703"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390859703"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390859703"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390859703 (Open access: False)
-    
-[[https://openalex.org/A5013690081][Yang Liu]], [[https://openalex.org/A5046853311][Chunbao Zhou]], [[https://openalex.org/A5076999164][Asif Ali Siyal]], [[https://openalex.org/A5072331448][Chenglong Liu]], [[https://openalex.org/A5077293966][Yingwen Zhang]], [[https://openalex.org/A5004325054][Jie Fu]], [[https://openalex.org/A5054765827][Huimin Yun]], [[https://openalex.org/A5065911244][Jianjun Dai]], [[https://openalex.org/A5090354103][Xiaotao Bi]], Journal of Cleaner Production. None(None)] 2024. https://doi.org/10.1016/j.jclepro.2024.140750 
-     
-In this paper, a cleaner pyrolysis strategy combining microwave heating, catalyst and carbon dioxide was explored for converting biomass components into higher quality products. Catalytic pyrolysis was more favorable for the decomposition and conversion of complex biomass structures. For furfural residue pyrolysis, potassium sulfate contained in sample served as the main catalytic component. Potassium sulfate promoted the increase of phenols in bio-oil. Notably, carbon dioxide atmosphere promoted the decomposition of substances and exerted a significant effect on biomass pyrolysis, which increased bio-oil yield and declined gas yield. When the pyrolysis atmosphere was changed from nitrogen to carbon dioxide, the ID/IG ratio decreased from 1.07 to 0.74, indicating that carbon dioxide decreased defect structure in biochar. Carbon dioxide enriched the porous structure and surface roughness of biochar. Also, carbon dioxide as a carrier gas was found to be more effective than nitrogen in improving the heating values of biochar and the acidity of bio-oil under carbon dioxide was lower than that under nitrogen, which was conducive to the subsequent utilization of biochar and bio-oil. Carbon dioxide promoted the production of alcohols, alkenes, and alkanes in bio-oil. Beneficially, the interaction of cellulose and lignin inhibited the release of hydrogen chloride. At last, this study also provides insights into the mechanism of catalyst and CO2 on biomass microwave pyrolysis.    
-
-    
 
 ** Tuning Carbon Dioxide Reduction Reaction Selectivity of Bi Single‐Atom Electrocatalysts with Controlled Coordination Environments   
     
@@ -841,22 +825,6 @@ No abstract
 
     
 
-** Adsorption and activation, active site and reaction pathway of photocatalytic CO2 reduction: A review   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148754")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390858622"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390858622"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390858622"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390858622 (Open access: False)
-    
-[[https://openalex.org/A5039768705][Yong‐Xing He]], [[https://openalex.org/A5072741411][Lin Yin]], [[https://openalex.org/A5085683068][Nanci Yuan]], [[https://openalex.org/A5091370242][Gaoke Zhang]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.148754 
-     
-Photocatalytic CO2 reduction (PCR) technology is one of the potential strategies to mitigate the greenhouse effect, solve the energy crisis and achieve goals of carbon dioxide emissions peak and carbon neutrality. However, it is extremely difficult to adsorb and activate CO2 due to the high dissociation energy of C = O bond in CO2 molecule (750 kJ·mol−1), resulting in poor performance of PCR. In addition, in the heterogeneous reaction process, adsorbing and activating CO2 are closely related to the active sites on the surface of photocatalyst. Therefore, in-depth and detailed exploration of the adsorption and activation of CO2 on active sites is critical to developing high-performance photocatalysts. Herein, this review firstly explores adsorption modes of CO2 on the active sites of photocatalyst, including physisorption and chemisorption, where chemisorption includes oxygen, carbon and mixed adsorption. Secondly, reaction pathways for the formation of different high value-added chemical products are introduced, including formaldehyde, carbene, glyoxal and mixed pathways. Then, strategies for enhancing the adsorption and activation of CO2 are briefly summarized. Finally, the future prospects and challenges of PCR development are discussed. This work provides insights and references for further designing photocatalysts that can enhance the adsorption and activation of CO2 and improve the performance of PCR.    
-
-    
-
 ** Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites   
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
@@ -867,7 +835,7 @@ Photocatalytic CO2 reduction (PCR) technology is one of the potential strategies
 
 OpenAlex: https://openalex.org/W4391077147 (Open access: False)
     
-[[https://openalex.org/A5007162321][K. Talbi]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5042493681][F. Simón Hidalgo]], [[https://openalex.org/A5086372340][Albert Solé-Daurá]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], [[https://openalex.org/A5064073246][Anne Dolbecq]], No host. None(None)] 2023. None 
+[[https://openalex.org/A5007162321][K. Talbi]], [[https://openalex.org/A5039753949][Pierre Mialane]], [[https://openalex.org/A5042493681][F. Simón Hidalgo]], [[https://openalex.org/A5086372340][Albert Solé‐Daura]], [[https://openalex.org/A5032549164][Caroline Mellot‐Draznieks]], [[https://openalex.org/A5064073246][Anne Dolbecq]], No host. None(None)] 2023. None 
      
 No abstract    
 

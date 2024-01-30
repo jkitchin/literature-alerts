@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Jan 2024 11:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 00:38:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-principles study of the effects of Vo on the magnetic and photocatalytic properties of bilayer anatase TiO2(001): C/N/S</title>
-      <link>https://doi.org/10.1016/j.vacuum.2024.112986</link>
-      <description>Wenxing Wang, Qingyu Hou, Vacuum. None(None)] 2024. https://openalex.org/W4390863853
-
-                In this study, we investigated the effect of Vo on the magnetic and photocatalytic properties of bilayer anatase TiO2 (001): C/N/S using first principles within the density functional theory framework. Through research, it has been discovered that the stability and electronic structure of oxygen vacancies can vary depending on their positions, ultimately resulting in diverse photocatalytic performances. When the distance between N and Vo is relatively close, bilayer TiO2(001) system exhibited a relatively low formation energy under Ti-rich conditions, a high cohesive energy, and no virtual frequency formed in the phonon spectrum. Thus, it has good stability. The bilayer Ti24O46N (001) system displayed the most evident red shift in the absorption spectrum, the largest electric dipole moment, the smallest work function, relatively high carrier activity, a notable difference in mobility between electrons and holes, reduced recombination of electrons and holes, an extended carrier lifetime, and superior oxidation reaction capability. Consequently, the bilayer Ti24O46N (001) surface system emerged as the most suitable catalyst for the photo-degradation of water to produce oxygen.</description>
-      <author>Wenxing Wang, Qingyu Hou</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.vacuum.2024.112986</guid>
-    </item>
     <item>
       <title>An efficient cathode electrocatalyst for anion exchange membrane water electrolyzers</title>
       <link>https://doi.org/10.1016/j.carbon.2024.118816</link>
@@ -256,6 +246,16 @@
       <author>Weixuan Xu, Rui Zeng, Michael Rebarchik, Alvaro Posada-Borb&#243;n, Huiqi Li, Christopher J. Pollock, Manos Mavrikakis, H&#233;ctor D. Abru&#241;a</author>
       <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c11355</guid>
+    </item>
+    <item>
+      <title>Single-Atom Pt&#8211;N4 Active Sites Anchored on Porous C3N4 Nanosheet for Boosting the Photocatalytic CO2 Reduction with Nearly 100% CO Selectivity</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.123737</link>
+      <description>Song Hu, Panzhe Qiao, Longzhou Xiao, Guiming Ba, Xiaolong Zu, Huilin Hu, Jinhua Ye, Defa Wang, Applied Catalysis B: Environmental. None(None)] 2024. https://openalex.org/W4390987109
+
+                Photoreduction of CO2 and H2O into fuels and value-added chemicals is a promising green technology for solar-to-chemical conversion. However, improving the conversion efficiency with regulated product selectivity is a big challenge due to the sluggish dynamic transfer and insufficient active sites. Herein, we report on Pt single atoms anchored porous C3N4 nanosheet photocatalyst (Pt1@CN) with Pt&#8211;N4 coordination for stable and efficient CO2 photoreduction using H2O as reductant. The Pt1@CN exhibits an evolution rate of 84.8 &#956;mol g&#8722;1 h&#8722;1 with nearly 100% CO selectivity, outperforming most previous C3N4-based single-atom photocatalysts. Experimental and DFT calculation results reveal that the Pt&#8211;N4 coordinated active sites promote the photogenerated electron transfer, CO2 adsorption/activation, *COOH generation, and *CO desorption, thus accounting for the significantly improved CO2 photoreduction activity with &#8764;100% CO selectivity. This study provides a deep insight into the significant roles of single-atom active sites in enhancing the CO2 photoreduction activity and regulating the product selectivity.</description>
+      <author>Song Hu, Panzhe Qiao, Longzhou Xiao, Guiming Ba, Xiaolong Zu, Huilin Hu, Jinhua Ye, Defa Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123737</guid>
     </item>
     <item>
       <title>Performance prediction of gas turbine blade with multi-source random factors using active learning-based neural network</title>

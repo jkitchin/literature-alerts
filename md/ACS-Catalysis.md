@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jan 29 11:38:19 2024
+Created on Tue Jan 30 00:38:49 2024
 
-Found 25 results from 2024-01-15 to 2024-01-29
+Found 25 results from 2024-01-16 to 2024-01-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -253,7 +253,7 @@ We synthesized PtNi alloy nanowires (PtNi NWs) at three different temperatures o
 OpenAlex: https://openalex.org/W4390974006    
 Open access: False
     
-[Dan Liŭ](https://openalex.org/A5006012404), [Zhen‐Cao Shu](https://openalex.org/A5003415923), [Zhihan Zhang](https://openalex.org/A5018409196), [Ze-Tian Wang](https://openalex.org/A5087045090), [Liang Wang](https://openalex.org/A5060310187), [Ming‐Sheng Xie](https://openalex.org/A5081137661), [Hai‐Ming Guo](https://openalex.org/A5089663065), [Liang‐Qiu Lu](https://openalex.org/A5029146832), [Wen‐Jing Xiao](https://openalex.org/A5044960680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05731.
+[Dan Liú](https://openalex.org/A5006012404), [Zhen‐Cao Shu](https://openalex.org/A5003415923), [Zhihan Zhang](https://openalex.org/A5018409196), [Ze-Tian Wang](https://openalex.org/A5087045090), [Liang Wang](https://openalex.org/A5060310187), [Ming‐Sheng Xie](https://openalex.org/A5081137661), [Hai‐Ming Guo](https://openalex.org/A5089663065), [Liang‐Qiu Lu](https://openalex.org/A5029146832), [Wen‐Jing Xiao](https://openalex.org/A5044960680), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05731.
     
 An asymmetric cascade cyclization of enynamides and α-diazoketones to produce chiral bicyclic lactams bearing chiral all-carbon quaternary stereocenters is realized with up to 95% yield, 98% ee, and >19:1 dr. The combination of visible light photoactivation and the relay of gold and N-oxide catalysis in a cascade process enabled the facile generation and controlled assembly of two reactive intermediates, ketene and aza-o-quinone methide. Theoretical calculations revealed a stepwise [4 + 2] cycloaddition mechanism, with the stereochemistry controlled by the amide group of the catalyst. Remarkably, this study presents the first example of chiral N-oxides serving as catalysts for asymmetric ketene cycloaddition and illustrates how a cascade strategy could be a promising means to access significant chiral heterocyclic scaffolds.    
 
