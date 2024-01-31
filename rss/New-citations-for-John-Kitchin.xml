@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 00:39:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>An efficient cathode electrocatalyst for anion exchange membrane water electrolyzers</title>
-      <link>https://doi.org/10.1016/j.carbon.2024.118816</link>
-      <description>S. Ramakrishnan, Subramanian Vijayapradeep, S. Selvaraj, Jian Huang, S.C. Karthikeyan, Gutru Rambabu, Natarajan Logeshwaran, Tsuyoshi Miyazaki, Mohamed Mamlouk, Dong Jin Yoo, Carbon. None(None)] 2024. https://openalex.org/W4390878679
-
-                A high performance and durable electrocatalyst for the cathodic hydrogen evolution reaction (HER) in anion exchange membrane (AEM) water electrolyzers is crucial for the emerging hydrogen economy. Herein, we synthesized Pt&#8211;C core-shell nanoparticles (core: Pt nanoparticles, shell: N-containing carbon) were uniformly coated on hierarchical MoS2/GNF using pyrolysis of h-MoS2/GNF with a Pt-aniline complex. The synthesized Pt&#8211;C core-shell@h-MoS2/GNF (with 11.3 % Pt loading) showed HER activity with a lower overpotential of 30 mV at 10 mA cm&#8722;2 as compared to the benchmark catalyst 20 % Pt&#8211;C (41 mV at 10 mA cm&#8722;2) with improved durability over 94 h at 10 mA cm&#8722;2. Furthermore, we investigated the structural stability and hydrogen adsorption energy for Pt13 cluster, C90 molecule, h-MoS2 sheet, Pt13&#8211;C90 core-shell, and Pt13&#8211;C90 core-shell deposited h-MoS2 sheets using density functional theory (DFT) simulations. We investigated the Pt&#8211;C core-shell@h-MoS2/GNF catalyst active sites during HER performance using in-situ Raman analysis as well as DFT. We fabricated anion exchange membrane (AEM) water electrolyzers with cathode catalysts of Pt&#8211;C core-shell@h-MoS2/GNF and evaluated device performance with 0.1 and 1.0 M KOH at 20 and 60 &#176;C. Our work provides a new pathway to design core-shell electrocatalysts for use in AEM water electrolyzers to generate green hydrogen.</description>
-      <author>S. Ramakrishnan, Subramanian Vijayapradeep, S. Selvaraj, Jian Huang, S.C. Karthikeyan, Gutru Rambabu, Natarajan Logeshwaran, Tsuyoshi Miyazaki, Mohamed Mamlouk, Dong Jin Yoo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.118816</guid>
-    </item>
-    <item>
-      <title>Predictive Minisci late stage functionalization with transfer learning</title>
-      <link>https://doi.org/10.1038/s41467-023-42145-1</link>
-      <description>Emma King-Smith, Felix A. Faber, Usa Reilly, Anton V. Sinitskiy, Qingyi Yang, Bo Liu, Dennis Hyek, Alpha A. Lee, Nature Communications. 15(1)] 2024. https://openalex.org/W4390880657
-
-                Structural diversification of lead molecules is a key component of drug discovery to explore chemical space. Late-stage functionalizations (LSFs) are versatile methodologies capable of installing functional handles on richly decorated intermediates to deliver numerous diverse products in a single reaction. Predicting the regioselectivity of LSF is still an open challenge in the field. Numerous efforts from chemoinformatics and machine learning (ML) groups have made strides in this area. However, it is arduous to isolate and characterize the multitude of LSF products generated, limiting available data and hindering pure ML approaches. We report the development of an approach that combines a message passing neural network and 13C NMR-based transfer learning to predict the atom-wise probabilities of functionalization for Minisci and P450-based functionalizations. We validated our model both retrospectively and with a series of prospective experiments, showing that it accurately predicts the outcomes of Minisci-type and P450 transformations and outperforms the well-established Fukui-based reactivity indices and other machine learning reactivity-based algorithms.</description>
-      <author>Emma King-Smith, Felix A. Faber, Usa Reilly, Anton V. Sinitskiy, Qingyi Yang, Bo Liu, Dennis Hyek, Alpha A. Lee</author>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-42145-1</guid>
-    </item>
-    <item>
-      <title>High Selectivity toward Electrochemical Ozone Production of Sb&#8208;SnO&lt;sub&gt;2&lt;/sub&gt; with Cu and Ni Co&#8208;doped</title>
-      <link>https://doi.org/10.1002/adfm.202314144</link>
-      <description>Beichen Jin, Shaoan Cheng, Yi Sun, Pengfei Xie, Longxin Li, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4390883842
-
-                Abstract Ni&#8208;Sb&#8208;SnO 2 (Ni&#8208;ATO) can generate ozone electrochemically which compensates the energy efficiency. However, the selectivity of electrochemical ozone production (EOP) on Ni&#8208;ATO surface is yet insufficient for practical application. In this study, ATO with Cu and Ni co&#8208;doped (CuNi&#8208;ATO) is prepared to enhance the electrochemical performance and stability of ozone generation. CuNi&#8208;ATO achieves the highest known current efficiency of 71% for EOP under acidic conditions, which is 2.4 times higher than that of Ni&#8208;ATO. Efficient EOP is maintained with diverse pH, temperature, and electrolytes. Notably, the service lifetime of CuNi&#8208;ATO is 2.7 times longer than that of Ni&#8208;ATO. DFT calculations further reveal that ATO with Cu and Ni co&#8208;doped presents weakened adsorption toward O*, O 2 *, and O 3 *. The spontaneous combination of O* and O 2 * is the main reason for enhanced EOP capacity on CuNi&#8208;ATO. This work provides a novel insight into designing materials for efficient ozone production.</description>
-      <author>Beichen Jin, Shaoan Cheng, Yi Sun, Pengfei Xie, Longxin Li</author>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202314144</guid>
-    </item>
-    <item>
-      <title>Boosting electrocatalytic hydrogen evolution over a Mo&lt;sub&gt;2&lt;/sub&gt;C&#8211;W&lt;sub&gt;2&lt;/sub&gt;C heterostructure by interface-induced electron modulation</title>
-      <link>https://doi.org/10.1039/d3ta07373d</link>
-      <description>Lijuan Jiang, Ruijing Wang, Huimin Zhou, Guannan Wei, Xuefeng Wang, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4390884460
-
-                The Mo 2 C&#8211;W 2 C interface induces electron modulation which promotes hydrogen desorption and enhances HER activity.</description>
-      <author>Lijuan Jiang, Ruijing Wang, Huimin Zhou, Guannan Wei, Xuefeng Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta07373d</guid>
-    </item>
-    <item>
-      <title>Progress on Bifunctional Carbon&#8208;Based Electrocatalysts for Rechargeable Zinc&#8211;Air Batteries Based on Voltage Difference Performance</title>
-      <link>https://doi.org/10.1002/aenm.202303352</link>
-      <description>Yubin Song, Weijie Li, Kai Zhang, Chao Han, Anqiang Pan, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4390884699
-
-                Abstract Zinc&#8211;air batteries (ZABs) hold potential as clean, cost&#8208;effective, and sustainable energy storage system for the next generation. However, the application of ZABs remains challenging because of their poor rechargeability and low efficiency . The design of efficient bifunctional catalysts toward oxygen reduction reaction (ORR) during discharging and the oxygen evolution reaction (OER) during charging is essential to developing rechargeable ZABs. Transition metal (TM)&#8208;doped carbon (TM&#8208;C) materials stand out from all the available bifunctional catalysts due to the excellent specific surface area, diverse morphological structures , and the multiple metal active sites formed after TM doping. This paper, therefore, focuses on the synthesis, electrochemical properties, and potential mechanism of TM&#8208;C catalysts. To make a novelty and logical statement, the voltage difference (&#916; E = E i = 10 &#8722; E 1/2 ) between the ORR/OER catalytic process is employed to categorize different TM&#8208;C catalysts reported in recent years, which are divided into two groups: I (&#916; E = 0.7 &#8722; 0.9 V) and II (&#916; E = 0.5 &#8722; 0.7 V). The catalytic mechanisms of bifunctional catalysts are clarified. More ways and ideas for synthesizing high&#8208;performance bifunctional TM&#8208;C catalysts are also provided. Finally, the current problem and prospects of this group materials are presented.</description>
-      <author>Yubin Song, Weijie Li, Kai Zhang, Chao Han, Anqiang Pan</author>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202303352</guid>
-    </item>
-    <item>
-      <title>Geometrical Stabilities and Electronic Structures of Rh5 Nanoclusters on Rutile TiO2 (110) for Green Hydrogen Production</title>
-      <link>https://doi.org/10.3390/nano14020191</link>
-      <description>Moteb Alotaibi, Nanomaterials. 14(2)] 2024. https://openalex.org/W4390885678
-
-                Addressing the urgent need for sustainable energy sources, this study investigates the intricate relationship between rhodium (Rh5) nanoclusters and TiO2 rutile (110) surfaces, aiming to advance photocatalytic water splitting for green hydrogen production. Motivated by the imperative to transition from conventional fossil fuels, this study employs density functional theory (DFT) with DFT-D3 and HSE06 hybrid functionals to analyse the geometrical stabilities and electronic structures of Rh5 nanoclusters on TiO2 rutile (110). TiO2, a prominent photocatalyst, faces challenges such as limited visible light absorption, leading researchers to explore noble metals like Rh as cocatalysts. Our results show that bipyramidal Rh5 nanoclusters exhibit enhanced stability and charge transfer when adsorbed on TiO2 rutile (110) compared to trapezoidal configurations. The most stable adsorption induces the oxidation of the nanocluster, altering the electronic structure of TiO2. Extending the analysis to defective TiO2 surfaces, this study explores the impact of Rh5 nanoclusters on oxygen vacancy formation, revealing the stabilisation of TiO2 and increased oxygen vacancy formation energy. This theoretical exploration contributes insights into the potential of Rh5 nanoclusters as efficient cocatalysts for TiO2-based photocatalytic systems, laying the foundation for experimental validations and the rational design of highly efficient photocatalysts for sustainable hydrogen production. The observed effects on electronic structures and oxygen vacancy formation emphasize the complex interactions between Rh5 nanoclusters and the TiO2 surface, guiding future research in the quest for clean energy alternatives.</description>
-      <author>Moteb Alotaibi</author>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/nano14020191</guid>
-    </item>
-    <item>
-      <title>Carbon dioxide conversion to methanol on a PdCo bimetallic catalyst</title>
-      <link>https://doi.org/10.1039/d3cp05146c</link>
-      <description>Huynh Tat Thanh, Ong Kim Le, Viorel Chihaia, Do Ngoc Son, Physical Chemistry Chemical Physics. None(None)] 2024. https://openalex.org/W4390886568
-
-                We elucidated the mechanisms of the CO 2 to CH 3 OH conversion on the PdCo catalyst and the physical nature of the interaction between the reaction intermediates and the substrate.</description>
-      <author>Huynh Tat Thanh, Ong Kim Le, Viorel Chihaia, Do Ngoc Son</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cp05146c</guid>
-    </item>
-    <item>
-      <title>Rh@Au Core&#8211;Shell Nanocrystals with the Core in Tensile Strain and the Shell in Compressive Strain</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06793</link>
-      <description>Veronica Pawlik, Annemieke Janssen, Y. Ding, Younan Xia, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4390898239
-
-                No abstract</description>
-      <author>Veronica Pawlik, Annemieke Janssen, Y. Ding, Younan Xia</author>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06793</guid>
-    </item>
     <item>
       <title>A Study on the Role of Electric Field in Low-Temperature Plasma Catalytic Ammonia Synthesis via Integrated Density Functional Theory and Microkinetic Modeling</title>
       <link>https://doi.org/10.1021/jacsau.3c00654</link>
@@ -258,6 +178,86 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123737</guid>
     </item>
     <item>
+      <title>Elucidating the impact of oxygen functional groups on the catalytic activity of M-N&lt;sub&gt;4&lt;/sub&gt;-C catalysts for oxygen reduction reaction: A density functional theory and machine learning approach</title>
+      <link>https://doi.org/10.1039/d3mh02115g</link>
+      <description>Liang Xie, Wei Zhou, Yuming Huang, Zhibin Qu, Longhao Li, Chaowei Yang, Yani Ding, Junfeng Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao, Yukun Qin, No host. None(None)] 2024. https://openalex.org/W4390987145
+
+                While current experimental and computational studies often concentrate on introducing external structures or idealized MN 4 models, we emphasize the often-overlooked impact of inherent OGs within the carbon structure of MN 4 materials, presenting a new perspective on their catalytic activity origin.</description>
+      <author>Liang Xie, Wei Zhou, Yuming Huang, Zhibin Qu, Longhao Li, Chaowei Yang, Yani Ding, Junfeng Li, Xiaoxiao Meng, Fei Sun, Jihui Gao, Guangbo Zhao, Yukun Qin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3mh02115g</guid>
+    </item>
+    <item>
+      <title>Rapid synthesis of active Pt single atoms and Ru clusters on carbon black &lt;i&gt;via&lt;/i&gt; a highly efficient microwave strategy for the hydrogen evolution reaction in acidic and alkaline media</title>
+      <link>https://doi.org/10.1039/d3ta05396b</link>
+      <description>Xinyu Zhu, Minghao Fang, Bozhi Yang, Manjun Zhan, Shaorou Ke, Yang Fan, Xiaowen Wu, Yicen Liu, Zhaohui Huang, Xin Min, No host. None(None)] 2024. https://openalex.org/W4390988147
+
+                Using a highly efficient microwave reduction strategy, we successfully designed a novel synergistic electrocatalyst, Pt 1 Ru x @C, which was synthesized in an impressively short time of only 50 seconds.</description>
+      <author>Xinyu Zhu, Minghao Fang, Bozhi Yang, Manjun Zhan, Shaorou Ke, Yang Fan, Xiaowen Wu, Yicen Liu, Zhaohui Huang, Xin Min</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta05396b</guid>
+    </item>
+    <item>
+      <title>MOFs coupled transition metals, graphene, and MXenes: Emerging electrocatalysts for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.148776</link>
+      <description>Abdul Hanan, Muhammad Nazim Lakhan, Faiza Bibi, Amjad Ali Khan, Irfan Ali Soomro, Altaf Hussain, Umair Aftab, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4390990449
+
+                Development of effective transition metal catalyst to alternate precious metal platinum (Pt) based catalyst for hydrogen evolution reaction (HER) has attracted wide interest recently. HER through electrochemical water splitting (EWS) is a green pathway to generate hydrogen (H2) fuel without any carbon dioxide (CO2) emission. However, this technology has been restricted dependency on platinum (Pt)-based catalyst to achieve optimum performance. At present, Pt based catalyst serves as a benchmark material in electrochemical H2 production. Extensive studies have been conducted on new type of porous materials metal&#8211;organic frameworks (MOFs) due to the Pt-based catalysts scarcity and cost. In this review, we have discussed the latest advancements of MOFs, which encompass transition metals (TMs), graphene, and MXenes. MOF-based electrocatalysts synthesis methods and electrochemical characteristics are also briefly summarized. Scientists can embark on further exploration of the capabilities offered by MOF-based catalysts by expanding the progress achieved and acknowledging the hurdles that remain. Consequently, their efforts can significantly contribute to the advancement of next-generation technologies for energy storage and conversion.</description>
+      <author>Abdul Hanan, Muhammad Nazim Lakhan, Faiza Bibi, Amjad Ali Khan, Irfan Ali Soomro, Altaf Hussain, Umair Aftab</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148776</guid>
+    </item>
+    <item>
+      <title>CoxPy monolayers as ideal materials for electrochemical applications</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159412</link>
+      <description>Li Xue, Baolei Li, Chaozheng He, Haizhong Guo, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391004056
+
+                Exploring high-performance and cost-effective materials for electrochemical applications to meet eco-friendly and sustainable energy demands remain as an urgent need all the time. Large specific surface area and robust chemical activity endow two-dimensional (2D) materials with the potential as excellent candidates for electrochemical applications. Herein, we systematically study the 2D morphology for the Co-P system via advanced structural search and identify a series of stable monolayers, such as CoP, Co2P, and Co3P2. Detailed first-principle calculations reveal that these monolayers showcase inherent metallicity which benefits boosting the electrochemical process. For hydrogen evolution reactions (HER), the activity of CoP could reach 54 meV, which is comparable to that of Pt. As anode material potassium-ion batteries, CoP exhibits a suitable open circuit voltage and high capacity to store metal ion. This work disclosed the possible multifunctional applications for CoxPy monolayers and provided some theoretical guidance in designing electrocatalysts and anode materials from 2D transition-metal materials used in electrochemical processes.</description>
+      <author>Li Xue, Baolei Li, Chaozheng He, Haizhong Guo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159412</guid>
+    </item>
+    <item>
+      <title>Pt Single Atoms Supported on Defect Ceria as an Active and Stable Dual-Site Catalyst for Alkaline Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acs.nanolett.3c04237</link>
+      <description>Dung Van Dao, Giovanni Di Liberto, Sunny Yadav, Periyayya Uthirakumar, Kai Chen, Gianfranco Pacchioni, In&#8722;Hwan Lee, Nano Letters. None(None)] 2024. https://openalex.org/W4391014224
+
+                This work evaluates the feasibility of alkaline hydrogen evolution reaction (HER) using Pt single-atoms (1.0 wt %) on defect-rich ceria (Pt1/CeOx) as an active and stable dual-site catalyst. The catalyst displayed a low overpotential and a small Tafel slope in an alkaline medium. Moreover, Pt1/CeOx presented a high mass activity and excellent durability, competing with those of the commercial Pt/C (20 wt %). In this picture, the defective CeOx is active for water adsorption and dissociation to create H* intermediates, providing the first site where the reaction occurs. The H* intermediate species then migrate to adsorb and react on the Pt2+ isolated atoms, the site where H2 is formed and released. DFT calculations were also performed to obtain mechanistic insight on the Pt1/CeOx catalyst for the HER. The results indicate a new possibility to improve the state-of-the-art alkaline HER catalysts via a combined effect of the O vacancies on the ceria support and Pt2+ single atoms.</description>
+      <author>Dung Van Dao, Giovanni Di Liberto, Sunny Yadav, Periyayya Uthirakumar, Kai Chen, Gianfranco Pacchioni, In&#8722;Hwan Lee</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.3c04237</guid>
+    </item>
+    <item>
+      <title>Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy</title>
+      <link>https://doi.org/10.1021/acs.jpclett.3c03216</link>
+      <description>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391014304
+
+                Alkaline water electrolysis is a sustainable way to produce green hydrogen using renewable electricity. Even though the rates of the cathodic hydrogen evolution reaction (HER) are 2-3 orders of magnitude less under alkaline conditions than under acidic conditions, the possibility of using non-precious metal catalysts makes alkaline HER appealing. We identify a novel and facile route for substantially improving HER performance via the use of commercially available NiTi shape memory alloys, which upon heating undergo a phase transformation from the monoclinic martensite to the cubic austenite structure. While the room-temperature performance is modest, austenitic NiTi outperforms Pt (which is the state-of-the-art HER electrocatalyst) in terms of current density by &#8804;50% at 80 &#176;C. Surface ensembles presented by the austenite phase are computed with density functional theory to bind hydrogen more weakly than either metallic Ni or Ti and to have binding energies ideally suited for HER.</description>
+      <author>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03216</guid>
+    </item>
+    <item>
+      <title>Universal electronic descriptors for optimizing hydrogen evolution in transition metal-doped MXenes</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159329</link>
+      <description>Jisong Hu, Jiaying Mo, Chengpeng Yu, Dongsheng Li, Rui Zhang, Ling Miao, Xiao Ji, Jianjun Jiang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391018225
+
+                The integration of transition metal (TM) atoms into two-dimensional (2D) transition metal carbides and nitrides (MXenes) has been identified as a promising strategy for enhancing hydrogen evolution reaction (HER) performance. However, the vast combinatorial space presents challenges for rapid catalyst screening. In response, high-throughput calculations were conducted on Ti2CO2 and Zr2CO2 doped with a wide array of TM single atoms. The local structural and corresponding electronic structural changes were analyzed, with an emphasis on their implications for HER performance. Furthermore, universal electronic descriptors were developed using the Sure Independence Screening and Sparsifying Operator (SISSO) method, harmonizing the Gibbs free energy of hydrogen adsorption (&#916;GH*) trends across different MXenes substrates doped with TM atoms. These descriptors enabled the prediction of Cr, Fe, Ru, Pd, Os, and Ir as effective dopants for optimizing the &#916;GH* of Hf2CO2, resulting in a reduction of &#916;GH* from 1.082 eV to within &#177; 0.2 eV. Our work not only highlights the potential of these TM dopants in significantly enhancing the catalytic activity of MXenes but also underscores the value of universal electronic structure descriptors in rapidly identifying and developing high-performance HER catalysts.</description>
+      <author>Jisong Hu, Jiaying Mo, Chengpeng Yu, Dongsheng Li, Rui Zhang, Ling Miao, Xiao Ji, Jianjun Jiang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159329</guid>
+    </item>
+    <item>
+      <title>Integrated anode with 3D electron/ion conductive network for stable lithium metal batteries</title>
+      <link>https://doi.org/10.1016/j.ensm.2024.103201</link>
+      <description>Ziqiang Liu, Xiao Fu, Zhendong Li, Dingcheng Guo, Zh&#233; Peng, Ruijuan Xiao, Xiayin Yao, Energy Storage Materials. 66(None)] 2024. https://openalex.org/W4391018604
+
+                Lithium metal anode has attracted increasing attention due to its ultra-high theoretical specific capacity and low redox potential. However, the severe interface problems caused by the parasitic reactions at the anode/separator interface greatly hinder its applications. Herein we design a 3D lithium&#8722;boron (LiB) fiber integrated lithium anode with polypropylene separator through the interfacial adhesive strategy with poly(vinylidene fluoride-co-hexafluoropropylene)-based polymer electrolyte. The 3D Li/LiB anode after chemical etching can increase the exchange current density to 36.8 mA cm&#8722;2, which is about 14 times the value of the pristine anode with 2.6 mA cm&#8722;2. Meanwhile, the poly(vinylidene fluoride-co-hexafluoropropylene)-based polymer electrolyte ensures high ionic conductivity and interfacial stability. Thus, the integrated anode with 3D electron/ion conductive network can guide Li deposition away from the unsafe anode/separator interface, and directly suppress the growth of lithium dendrites. As a result, the integrated anode with LiNi0.83Mn0.06Co0.11O2 cathode exhibits an excellent discharge capacity of 168.3 mAh g &#8722;1 at a high current density of 5 C. Besides, the rigid LiB skeleton coupling with flexible PVDF-HFP-based polymer electrolyte can effectively prevent the pulverization of lithium anode during long-term cycling, showing superior cycling stability of 1000 cycles at 1 C with a capacity retention of 76 %. This work provides a promising integrated anode for stable lithium metal batteries without lithium dendrite growth.</description>
+      <author>Ziqiang Liu, Xiao Fu, Zhendong Li, Dingcheng Guo, Zh&#233; Peng, Ruijuan Xiao, Xiayin Yao</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103201</guid>
+    </item>
+    <item>
       <title>Performance prediction of gas turbine blade with multi-source random factors using active learning-based neural network</title>
       <link>https://doi.org/10.1016/j.applthermaleng.2024.122481</link>
       <description>Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang, Applied Thermal Engineering. None(None)] 2024. https://openalex.org/W4390948931
@@ -306,16 +306,6 @@
       <author>Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador</author>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c11934</guid>
-    </item>
-    <item>
-      <title>Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy</title>
-      <link>https://doi.org/10.1021/acs.jpclett.3c03216</link>
-      <description>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391014304
-
-                Alkaline water electrolysis is a sustainable way to produce green hydrogen using renewable electricity. Even though the rates of the cathodic hydrogen evolution reaction (HER) are 2-3 orders of magnitude less under alkaline conditions than under acidic conditions, the possibility of using non-precious metal catalysts makes alkaline HER appealing. We identify a novel and facile route for substantially improving HER performance via the use of commercially available NiTi shape memory alloys, which upon heating undergo a phase transformation from the monoclinic martensite to the cubic austenite structure. While the room-temperature performance is modest, austenitic NiTi outperforms Pt (which is the state-of-the-art HER electrocatalyst) in terms of current density by &#8804;50% at 80 &#176;C. Surface ensembles presented by the austenite phase are computed with density functional theory to bind hydrogen more weakly than either metallic Ni or Ti and to have binding energies ideally suited for HER.</description>
-      <author>Sreetama Ghosh, Denver Haycock, N. C. Mehra, Susanta Bera, Hannah Johnson, Lucian Roiban, M. Aouine, P. Vernoux, Peter C. Th&#252;ne, William F. Schneider, Mihalis N. Tsampas</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03216</guid>
     </item>
     <item>
       <title>Artificial intelligence in catalysis</title>

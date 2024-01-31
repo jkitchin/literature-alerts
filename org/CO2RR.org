@@ -1,29 +1,13 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Jan 30 00:38:48 2024
+Created on Wed Jan 31 00:38:57 2024
 
-Found 55 results from 2024-01-16 to 2024-01-30
+Found 55 results from 2024-01-17 to 2024-01-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction]]
-
-** Tuning Carbon Dioxide Reduction Reaction Selectivity of Bi Single‐Atom Electrocatalysts with Controlled Coordination Environments   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cssc.202301452")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390886115"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390886115"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390886115"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390886115 (Open access: False)
-    
-[[https://openalex.org/A5032506444][Saswati Santra]], [[https://openalex.org/A5009979031][Verena Streibel]], [[https://openalex.org/A5044703500][Laura I. Wagner]], [[https://openalex.org/A5021692036][Ningyan Cheng]], [[https://openalex.org/A5038169912][Ding Pan]], [[https://openalex.org/A5004164166][Guanda Zhou]], [[https://openalex.org/A5052076422][Elise Sirotti]], [[https://openalex.org/A5036243978][Ryan Kisslinger]], [[https://openalex.org/A5074605033][Tim Rieth]], [[https://openalex.org/A5026066949][Siyuan Zhang]], [[https://openalex.org/A5067422150][Ian D. Sharp]], ChemSusChem. None(None)] 2024. https://doi.org/10.1002/cssc.202301452 
-     
-Control over product selectivity of the electrocatalytic CO2 reduction reaction (CO2RR) is a crucial challenge for the sustainable production of carbon-based chemical feedstocks. In this regard, single-atom catalysts (SACs) are promising materials due to their tunable coordination environments, which could enable tailored catalytic activities and selectivities, as well as new insights into structure-activity relationships. However, direct evidence for selectivity control via systematic tuning of the SAC coordination environment is scarce. In this work, we have synthesized two differently coordinated Bi SACs anchored to the same host material (carbon black) and characterized their CO2RR activities and selectivities. We find that oxophilic, oxygen-coordinated Bi atoms produce HCOOH, while nitrogen-coordinated Bi atoms generate CO. Importantly, use of the same support material assured that alternation of the coordination environment is the dominant factor for controlling the CO2RR product selectivity. Overall, this work demonstrates the structure-activity relationship of Bi SACs, which can be utilized to establish control over CO2RR product distributions, and highlights the promise for engineering atomic coordination environments of SACs to tune reaction pathways.    
-
-    
 
 ** Highly selective photoelectrochemical CO 2 reduction by crystal phase-modulated nanocrystals without parasitic absorption   
     
@@ -393,38 +377,6 @@ Carbon dioxide reduction is one of the key technologies for achieving a sustaina
 
     
 
-** Effect of Co2 Shortage on the Performance of Membrane Electrode Co2 Electrolyzer   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4695651")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390872406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390872406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390872406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390872406 (Open access: False)
-    
-[[https://openalex.org/A5057281614][Xianwen Zhang]], [[https://openalex.org/A5000197949][Feiyue Cao]], [[https://openalex.org/A5088116668][Peng Hao]], [[https://openalex.org/A5051158759][Yang Cao]], [[https://openalex.org/A5002419717][Taotao Zhou]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4695651 
-     
-To mitigate greenhouse effects, carbon dioxide reduction reaction (CO2RR) has been used as an efficient means of carbon reduction. In CO2 electrolyzer, CO2 shortage can happen and degrade the reaction efficiency. Herein, an efficient and long-lived formic acid three-cell electrolyzer is used to study the effect of CO2 shortage, by operating the electrolyzer from full CO2 supply to CO2 shortage. In addition, the effects of various CO2 fluxes and concentrations on the electrolyzer current, acid concentration and lifetime are investigated. The results demonstrated that the electrolyzer current and the CO to H2 ratio both decreases from full CO2 to CO2 shortage, indicating that the reactivity of converting CO2 into formic acid ions is weakened. On the contrary, the hydrogen evolution reaction is intensified. Long-term CO2 shortage also cause the catalyst to detach and agglomerate in the cathode catalyst layer, reducing its active surface area and overall performance. Compared with the CO2 flux, the CO2 concentration exerts a more pronounced influence. To ensure the electrolysis efficiency, the carbon dioxide concentration should not be less than 80 %.    
-
-    
-
-** Synthesis and Electrocatalytic Applications of Layer‐Structured Metal Chalcogenides Composites   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202310526")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390884831"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390884831"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390884831"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390884831 (Open access: False)
-    
-[[https://openalex.org/A5000836661][Yongteng Qian]], [[https://openalex.org/A5066738004][Fangfang Zhang]], [[https://openalex.org/A5026571332][Xingguang Luο]], [[https://openalex.org/A5037880072][Yijun Zhong]], [[https://openalex.org/A5061505485][Dae Joon Kang]], [[https://openalex.org/A5004880276][Yong Hu]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202310526 
-     
-Abstract Featured with the attractive properties such as large surface area, unique atomic layer thickness, excellent electronic conductivity, and superior catalytic activity, layered metal chalcogenides (LMCs) have received considerable research attention in electrocatalytic applications. In this review, the approaches developed to synthesize LMCs‐based electrocatalysts are summarized. Recent progress in LMCs‐based composites for electrochemical energy conversion applications including oxygen reduction reaction, carbon dioxide reduction reaction, oxygen evolution reaction, hydrogen evolution reaction, overall water splitting, and nitrogen reduction reaction is reviewed, and the potential opportunities and practical obstacles for the development of LMCs‐based composites as high‐performing active substances for electrocatalytic applications are also discussed. This review may provide an inspiring guidance for developing high‐performance LMCs for electrochemical energy conversion applications.    
-
-    
-
 ** Plasmonic‐assisted Electrocatalysis for CO2 Reduction Reaction   
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/celc.202300805")][Get bibtex entry]] 
@@ -521,19 +473,51 @@ Two-dimensional metal-free photocatalysts are catching the attention of research
 
     
 
-** Unconventional and Emerging Approaches to CO2 Reduction   
+** Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface   
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/su16020713")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-44896-x")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390878076"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390878076"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390878076"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391022908"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391022908"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391022908"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4390878076 (Open access: True)
+OpenAlex: https://openalex.org/W4391022908 (Open access: True)
     
-[[https://openalex.org/A5031060981][Jeffrey G. Bell]], [[https://openalex.org/A5069625825][Thomas Underwood]], Sustainability. 16(2)] 2024. https://doi.org/10.3390/su16020713  ([[https://www.mdpi.com/2071-1050/16/2/713/pdf?version=1705288994][pdf]])
+[[https://openalex.org/A5032631479][Zhichao Zhang]], [[https://openalex.org/A5088591085][Hengyu Li]], [[https://openalex.org/A5038226323][Yangfan Shao]], [[https://openalex.org/A5051784756][Lin Gan]], [[https://openalex.org/A5055954152][Feiyu Kang]], [[https://openalex.org/A5080132089][Wenhui Duan]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], [[https://openalex.org/A5070982282][Jianbao Li]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-44896-x  ([[https://www.nature.com/articles/s41467-024-44896-x.pdf][pdf]])
      
-This perspective highlights unconventional and emerging approaches to CO2 reduction. These methods encompass the use of topological materials and 3D printing in electrochemistry and the broader fields of plasma- and magneto-electrochemistry. Sustainability in these methods offers a way to convert CO2 into value-added fuels in a circular energy economy. We identify challenges of reducing CO2 along sustainable pathways and detail ways that unconventional approaches can address these challenges. These include achieving high product selectivity toward desirable chemicals, high catalytic durability, high energy efficiency, and high conversion rates of CO2. Finally, we describe emerging impacts and opportunities of these unconventional approaches and key challenges.    
+Molecular understanding of the solid-liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M+), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO2RR) on coinage metals, and the activity and selectivity of CO2RR could be further enhanced with the cation changing from Li+ to Cs+, while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M+ in CO2RR on Cu surface. A monotonically decreasing CO2 activation barrier is obtained from Li+ to Cs+, which is attributed to the different coordination abilities of M+ with *CO2. Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO2RR on Cu surfaces, where H+ is repelled from the interface and constrained by M+. Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO2RR.    
+
+    
+
+** Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-lckq9")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390953941"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390953941"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390953941"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390953941 (Open access: True)
+    
+[[https://openalex.org/A5001934074][Elena Plaza-Mayoral]], [[https://openalex.org/A5026251278][Kim N. Dalby]], [[https://openalex.org/A5091012326][Hanne Falsig]], [[https://openalex.org/A5090008029][Ib Chorkendorff]], [[https://openalex.org/A5079498717][Paula Sebastián‐Pascual]], [[https://openalex.org/A5026837841][María Escudero‐Escribano]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-lckq9  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65a173f7e9ebbb4db904762a/original/electrodeposition-of-tuneable-cu-ag-nanostructures-in-a-deep-eutectic-solvent.pdf][pdf]])
+     
+The green transition requires the preparation of clean, inexpensive, and sustainable strategies to prepare controllable bimetallic and multimetallic nanostructures. Cu-Ag nanostructures, for example, are promising bimetallic catalysts for different electrocatalytic reactions such as carbon monoxide and carbon dioxide reduction. In this work, we present the one-step preparation method of electrodeposited Cu-Ag with tunable composition and morphology from choline chloride plus urea deep eutectic solvent (DES), a non-toxic and green DES. We have assessed how different electrodeposition parameters affect the morphology and composition of our nanostructures. We combine electrochemical methods with ex-situ scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and X-ray photoelectron spectroscopy (XPS) to characterize the nanostructures. We have estimated the electrochemically active surface area (ECSA) and roughness factor (R) by lead underpotential deposition (UPD). The copper/silver ratio in the electrodeposited nanostructures is highly sensitive to the applied potential, bath composition, and loading. We observed that silver-rich nanostructures were less adherent whereas the increase in copper content led to more stable and homogenous films with disperse rounded nanostructures with tiny spikes. These spikes were more stable when the deposition rate was fast enough and the molar ratio of Cu and Ag no greater than approximately two to one.    
+
+    
+
+** Prediction of M3B4‐type MBenes as Promising Catalysts for CO2 Capture and Reduction   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cphc.202300837")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390916846"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390916846"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390916846"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390916846 (Open access: False)
+    
+[[https://openalex.org/A5028976297][Mingxia Li]], [[https://openalex.org/A5039481707][Yaoyu Zhang]], [[https://openalex.org/A5047060524][Dongyue Gao]], [[https://openalex.org/A5060002817][Ying Liu]], [[https://openalex.org/A5076272314][Chao Yu]], [[https://openalex.org/A5054091259][Yi Fang]], [[https://openalex.org/A5023704274][Yang Huang]], [[https://openalex.org/A5022913125][Chengchun Tang]], [[https://openalex.org/A5069736534][Zhonglu Guo]], ChemPhysChem. None(None)] 2024. https://doi.org/10.1002/cphc.202300837 
+     
+The rational design of novel catalysts with high activity and selectivity for carbon dioxide reduction reaction (CO2RR) is highly desired. In this work, we have extensive investigations on the properties of two‐dimensional transition metal borides (MBenes) to achieve efficient CO2 capture and reduction through first‐principles calculations. The results show that all the investigated M3B4‐type MBene exhibit remarkable CO2 capture and activation abilities, which proved to be derived from the lone pair of electrons on the MBene surface. Then, we emphasize that the investigated MBenes can further selectively reduce activated CO2 to CH4. Moreover, a new linear scaling relationship of the adsorption energies of potential‐determining intermediates (*OCH2O and *HOCH2O) versus ΔG(*OCHO) has been established, where the CO2RR limiting potentials on MBenes are determined by the different fitting slopes of ΔG(*OCH2O) and ΔG(*HOCHO), allowing significantly lower limiting potentials to be achieved compared to transition metals. Especially, two promising CO2RR catalysts (Mo3B4 and Cr3B4 MBene) exist quite low limiting potentials of ‐0.48 V and ‐0.66 V, as well as competitive selectivity concerning hydrogen evolution reactions have been identified. Our research results make future advances in CO2 capture by MBenes easier and exploit the applications of Mo3B4 and Cr3B4 MBenes as novel CO2RR catalysts.    
 
     
 
@@ -804,6 +788,22 @@ No abstract
 OpenAlex: https://openalex.org/W4391057087 (Open access: False)
     
 , No host. None(None)] 2023. https://doi.org/10.1039/d3ey00222e/v1/decision1 
+     
+No abstract    
+
+    
+
+** Author response for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/response1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391057062"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391057062"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391057062"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391057062 (Open access: False)
+    
+[[https://openalex.org/A5013522313][John Cruz]], [[https://openalex.org/A5043425264][Anna Balog]], [[https://openalex.org/A5030958308][Péter S. Tóth]], [[https://openalex.org/A5090655937][Gábor Bencsik]], [[https://openalex.org/A5001143524][Gergely F. Samu]], [[https://openalex.org/A5075233752][Csaba Janáky]], No host. None(None)] 2023. https://doi.org/10.1039/d3ey00222e/v2/response1 
      
 No abstract    
 

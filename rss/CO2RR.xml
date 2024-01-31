@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Jan 2024 00:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 00:38:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tuning Carbon Dioxide Reduction Reaction Selectivity of Bi Single&#8208;Atom Electrocatalysts with Controlled Coordination Environments</title>
-      <link>https://doi.org/10.1002/cssc.202301452</link>
-      <description>Saswati Santra, Verena Streibel, Laura I. Wagner, Ningyan Cheng, Ding Pan, Guanda Zhou, Elise Sirotti, Ryan Kisslinger, Tim Rieth, Siyuan Zhang, Ian D. Sharp, ChemSusChem. None(None)] 2024. https://openalex.org/W4390886115
-
-                Control over product selectivity of the electrocatalytic CO2 reduction reaction (CO2RR) is a crucial challenge for the sustainable production of carbon-based chemical feedstocks. In this regard, single-atom catalysts (SACs) are promising materials due to their tunable coordination environments, which could enable tailored catalytic activities and selectivities, as well as new insights into structure-activity relationships. However, direct evidence for selectivity control via systematic tuning of the SAC coordination environment is scarce. In this work, we have synthesized two differently coordinated Bi SACs anchored to the same host material (carbon black) and characterized their CO2RR activities and selectivities. We find that oxophilic, oxygen-coordinated Bi atoms produce HCOOH, while nitrogen-coordinated Bi atoms generate CO. Importantly, use of the same support material assured that alternation of the coordination environment is the dominant factor for controlling the CO2RR product selectivity. Overall, this work demonstrates the structure-activity relationship of Bi SACs, which can be utilized to establish control over CO2RR product distributions, and highlights the promise for engineering atomic coordination environments of SACs to tune reaction pathways.</description>
-      <author>Saswati Santra, Verena Streibel, Laura I. Wagner, Ningyan Cheng, Ding Pan, Guanda Zhou, Elise Sirotti, Ryan Kisslinger, Tim Rieth, Siyuan Zhang, Ian D. Sharp</author>
-      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301452</guid>
-    </item>
     <item>
       <title>Highly selective photoelectrochemical CO &lt;sub&gt;2&lt;/sub&gt; reduction by crystal phase-modulated nanocrystals without parasitic absorption</title>
       <link>https://doi.org/10.1073/pnas.2316724121</link>
@@ -248,26 +238,6 @@
       <guid isPermaLink="true">https://doi.org/10.7791/jspmee.13.31</guid>
     </item>
     <item>
-      <title>Effect of Co2 Shortage on the Performance of Membrane Electrode Co2 Electrolyzer</title>
-      <link>https://doi.org/10.2139/ssrn.4695651</link>
-      <description>Xianwen Zhang, Feiyue Cao, Peng Hao, Yang Cao, Taotao Zhou, No host. None(None)] 2024. https://openalex.org/W4390872406
-
-                To mitigate greenhouse effects, carbon dioxide reduction reaction (CO2RR) has been used as an efficient means of carbon reduction. In CO2 electrolyzer, CO2 shortage can happen and degrade the reaction efficiency. Herein, an efficient and long-lived formic acid three-cell electrolyzer is used to study the effect of CO2 shortage, by operating the electrolyzer from full CO2 supply to CO2 shortage. In addition, the effects of various CO2 fluxes and concentrations on the electrolyzer current, acid concentration and lifetime are investigated. The results demonstrated that the electrolyzer current and the CO to H2 ratio both decreases from full CO2 to CO2 shortage, indicating that the reactivity of converting CO2 into formic acid ions is weakened. On the contrary, the hydrogen evolution reaction is intensified. Long-term CO2 shortage also cause the catalyst to detach and agglomerate in the cathode catalyst layer, reducing its active surface area and overall performance. Compared with the CO2 flux, the CO2 concentration exerts a more pronounced influence. To ensure the electrolysis efficiency, the carbon dioxide concentration should not be less than 80 %.</description>
-      <author>Xianwen Zhang, Feiyue Cao, Peng Hao, Yang Cao, Taotao Zhou</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4695651</guid>
-    </item>
-    <item>
-      <title>Synthesis and Electrocatalytic Applications of Layer&#8208;Structured Metal Chalcogenides Composites</title>
-      <link>https://doi.org/10.1002/smll.202310526</link>
-      <description>Yongteng Qian, Fangfang Zhang, Xingguang Lu&#959;, Yijun Zhong, Dae Joon Kang, Yong Hu, Small. None(None)] 2024. https://openalex.org/W4390884831
-
-                Abstract Featured with the attractive properties such as large surface area, unique atomic layer thickness, excellent electronic conductivity, and superior catalytic activity, layered metal chalcogenides (LMCs) have received considerable research attention in electrocatalytic applications. In this review, the approaches developed to synthesize LMCs&#8208;based electrocatalysts are summarized. Recent progress in LMCs&#8208;based composites for electrochemical energy conversion applications including oxygen reduction reaction, carbon dioxide reduction reaction, oxygen evolution reaction, hydrogen evolution reaction, overall water splitting, and nitrogen reduction reaction is reviewed, and the potential opportunities and practical obstacles for the development of LMCs&#8208;based composites as high&#8208;performing active substances for electrocatalytic applications are also discussed. This review may provide an inspiring guidance for developing high&#8208;performance LMCs for electrochemical energy conversion applications.</description>
-      <author>Yongteng Qian, Fangfang Zhang, Xingguang Lu&#959;, Yijun Zhong, Dae Joon Kang, Yong Hu</author>
-      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310526</guid>
-    </item>
-    <item>
       <title>Plasmonic&#8208;assisted Electrocatalysis for CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
       <link>https://doi.org/10.1002/celc.202300805</link>
       <description>Xiu Wang, Miao Yu, Ziyun Wang, ChemElectroChem. None(None)] 2024. https://openalex.org/W4391173783
@@ -328,14 +298,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159440</guid>
     </item>
     <item>
-      <title>Unconventional and Emerging Approaches to CO2 Reduction</title>
-      <link>https://doi.org/10.3390/su16020713</link>
-      <description>Jeffrey G. Bell, Thomas Underwood, Sustainability. 16(2)] 2024. https://openalex.org/W4390878076
+      <title>Molecular understanding of the critical role of alkali metal cations in initiating CO2 electroreduction on Cu(100) surface</title>
+      <link>https://doi.org/10.1038/s41467-024-44896-x</link>
+      <description>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li, Nature Communications. 15(1)] 2024. https://openalex.org/W4391022908
 
-                This perspective highlights unconventional and emerging approaches to CO2 reduction. These methods encompass the use of topological materials and 3D printing in electrochemistry and the broader fields of plasma- and magneto-electrochemistry. Sustainability in these methods offers a way to convert CO2 into value-added fuels in a circular energy economy. We identify challenges of reducing CO2 along sustainable pathways and detail ways that unconventional approaches can address these challenges. These include achieving high product selectivity toward desirable chemicals, high catalytic durability, high energy efficiency, and high conversion rates of CO2. Finally, we describe emerging impacts and opportunities of these unconventional approaches and key challenges.</description>
-      <author>Jeffrey G. Bell, Thomas Underwood</author>
-      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16020713</guid>
+                Molecular understanding of the solid-liquid interface is challenging but essential to elucidate the role of the environment on the kinetics of electrochemical reactions. Alkali metal cations (M+), as a vital component at the interface, are found to be necessary for the initiation of carbon dioxide reduction reaction (CO2RR) on coinage metals, and the activity and selectivity of CO2RR could be further enhanced with the cation changing from Li+ to Cs+, while the underlying mechanisms are not well understood. Herein, using ab initio molecular dynamics simulations with explicit solvation and enhanced sampling methods, we systematically investigate the role of M+ in CO2RR on Cu surface. A monotonically decreasing CO2 activation barrier is obtained from Li+ to Cs+, which is attributed to the different coordination abilities of M+ with *CO2. Furthermore, we show that the competing hydrogen evolution reaction must be considered simultaneously to understand the crucial role of alkali metal cations in CO2RR on Cu surfaces, where H+ is repelled from the interface and constrained by M+. Our results provide significant insights into the design of electrochemical environments and highlight the importance of explicitly including the solvation and competing reactions in theoretical simulations of CO2RR.</description>
+      <author>Zhichao Zhang, Hengyu Li, Yangfan Shao, Lin Gan, Feiyu Kang, Wenhui Duan, Heine Anton Hansen, Jianbao Li</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-44896-x</guid>
+    </item>
+    <item>
+      <title>Electrodeposition of tuneable Cu-Ag nanostructures in a deep eutectic solvent</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-lckq9</link>
+      <description>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano, No host. None(None)] 2024. https://openalex.org/W4390953941
+
+                The green transition requires the preparation of clean, inexpensive, and sustainable strategies to prepare controllable bimetallic and multimetallic nanostructures. Cu-Ag nanostructures, for example, are promising bimetallic catalysts for different electrocatalytic reactions such as carbon monoxide and carbon dioxide reduction. In this work, we present the one-step preparation method of electrodeposited Cu-Ag with tunable composition and morphology from choline chloride plus urea deep eutectic solvent (DES), a non-toxic and green DES. We have assessed how different electrodeposition parameters affect the morphology and composition of our nanostructures. We combine electrochemical methods with ex-situ scanning electron microscopy (SEM), energy dispersive X-ray spectroscopy (EDS) and X-ray photoelectron spectroscopy (XPS) to characterize the nanostructures. We have estimated the electrochemically active surface area (ECSA) and roughness factor (R) by lead underpotential deposition (UPD). The copper/silver ratio in the electrodeposited nanostructures is highly sensitive to the applied potential, bath composition, and loading. We observed that silver-rich nanostructures were less adherent whereas the increase in copper content led to more stable and homogenous films with disperse rounded nanostructures with tiny spikes. These spikes were more stable when the deposition rate was fast enough and the molar ratio of Cu and Ag no greater than approximately two to one.</description>
+      <author>Elena Plaza-Mayoral, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano</author>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-lckq9</guid>
+    </item>
+    <item>
+      <title>Prediction of M3B4&#8208;type MBenes as Promising Catalysts for CO2 Capture and Reduction</title>
+      <link>https://doi.org/10.1002/cphc.202300837</link>
+      <description>Mingxia Li, Yaoyu Zhang, Dongyue Gao, Ying Liu, Chao Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo, ChemPhysChem. None(None)] 2024. https://openalex.org/W4390916846
+
+                The rational design of novel catalysts with high activity and selectivity for carbon dioxide reduction reaction (CO2RR) is highly desired. In this work, we have extensive investigations on the properties of two&#8208;dimensional transition metal borides (MBenes) to achieve efficient CO2 capture and reduction through first&#8208;principles calculations. The results show that all the investigated M3B4&#8208;type MBene exhibit remarkable CO2 capture and activation abilities, which proved to be derived from the lone pair of electrons on the MBene surface. Then, we emphasize that the investigated MBenes can further selectively reduce activated CO2 to CH4. Moreover, a new linear scaling relationship of the adsorption energies of potential&#8208;determining intermediates (*OCH2O and *HOCH2O) versus &#916;G(*OCHO) has been established, where the CO2RR limiting potentials on MBenes are determined by the different fitting slopes of &#916;G(*OCH2O) and &#916;G(*HOCHO), allowing significantly lower limiting potentials to be achieved compared to transition metals. Especially, two promising CO2RR catalysts (Mo3B4 and Cr3B4 MBene) exist quite low limiting potentials of &#8208;0.48 V and &#8208;0.66 V, as well as competitive selectivity concerning hydrogen evolution reactions have been identified. Our research results make future advances in CO2 capture by MBenes easier and exploit the applications of Mo3B4 and Cr3B4 MBenes as novel CO2RR catalysts.</description>
+      <author>Mingxia Li, Yaoyu Zhang, Dongyue Gao, Ying Liu, Chao Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202300837</guid>
     </item>
     <item>
       <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
@@ -506,6 +496,16 @@
       <author/>
       <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v1/decision1</guid>
+    </item>
+    <item>
+      <title>Author response for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
+      <link>https://doi.org/10.1039/d3ey00222e/v2/response1</link>
+      <description>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky, No host. None(None)] 2023. https://openalex.org/W4391057062
+
+                No abstract</description>
+      <author>John Cruz, Anna Balog, P&#233;ter S. T&#243;th, G&#225;bor Bencsik, Gergely F. Samu, Csaba Jan&#225;ky</author>
+      <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/response1</guid>
     </item>
     <item>
       <title>Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
