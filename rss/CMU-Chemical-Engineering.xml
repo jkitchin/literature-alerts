@@ -4,18 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 31 Jan 2024 00:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 00:40:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Altering the interfacial rheology of Pseudomonas aeruginosa and Staphylococcus aureus with N-acetyl cysteine and cysteamine</title>
-      <link>https://doi.org/10.3389/fcimb.2023.1338477</link>
-      <description>Sricharani Rao Balmuri, Sena Noaman, Huda Usman, Tagbo H. R. Niepa, Frontiers in Cellular and Infection Microbiology. 13(None)] 2024. https://openalex.org/W4390917391
+      <title>Optimal retrofitting of conventional oil refinery into sustainable bio&#8208;refinery under uncertainty</title>
+      <link>https://doi.org/10.1002/aic.18371</link>
+      <description>L. Zhang, Ana I. Torres, Bingzhen Chen, Zhihong Yuan, Ignacio E. Grossmann, AIChE Journal. None(None)] 2024. https://openalex.org/W4391308369
 
-                Introduction Chronic lung infection due to bacterial biofilms is one of the leading causes of mortality in cystic fibrosis (CF) patients. Among many species colonizing the lung airways, Pseudomonas aeruginosa and Staphylococcus aureus are two virulent pathogens involved in mechanically robust biofilms that are difficult to eradicate using airway clearance techniques like lung lavage. To remove such biological materials, glycoside hydrolase-based compounds are commonly employed for targeting and breaking down the biofilm matrix, and subsequently increasing cell susceptibility to antibiotics. Materials and methods In this study, we evaluate the effects of N-acetyl cysteine (NAC) and Cysteamine (CYST) in disrupting interfacial bacterial films, targeting different components of the extracellular polymeric substances (EPS). We characterize the mechanics and structural integrity of the interfacial bacterial films using pendant drop elastometry and scanning electron microscopy. Results and discussion Our results show that the film architectures are compromised by treatment with disrupting agents for 6 h, which reduces film elasticity significantly. These effects are profound in the wild type and mucoid P. aeruginosa , compared to S. aureus . We further assess the effects of competition and cooperation between S. aureus and P. aeruginosa on the mechanics of composite interfacial films. Films of S. aureus and wild-type P. aeruginosa cocultures lose mechanical strength while those of S. aureus and mucoid P. aeruginosa exhibit improved storage modulus. Treatment with NAC and CYST reduces the elastic property of both composite films, owing to the drugs&#8217; ability to disintegrate their EPS matrix. Overall, our results provide new insights into methods for assessing the efficacy of mucolytic agents against interfacial biofilms relevant to cystic fibrosis infection.</description>
-      <author>Sricharani Rao Balmuri, Sena Noaman, Huda Usman, Tagbo H. R. Niepa</author>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fcimb.2023.1338477</guid>
+                Abstract This article focuses on a novel optimization problem to retrofit a conventional fossil&#8208;based refinery into a hybrid biomass&#8208;based refinery. A mixed&#8208;integer linear programming model, which considers a 10&#8208;year&#8208;long retrofit planning along with operational constraints in each year, is formulated. The problem is extended to a multistage stochastic programming model to handle both endogenous and exogenous uncertainties, and solved through a series of two&#8208;stage stochastic programming subproblems. Furthermore, a Lagrangean decomposition algorithm is implemented to solve such a problem. By determining whether to add new units or retrofit existing units to the selected biomass&#8208;based technologies, the results provide flexible design alternatives with consideration of operational constraints for each year. The results show the advantages of the selected biomass&#8208;based technologies and enhance the performance of the final solution under uncertainty.</description>
+      <author>L. Zhang, Ana I. Torres, Bingzhen Chen, Zhihong Yuan, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18371</guid>
+    </item>
+    <item>
+      <title>Circumventing Data Imbalance in Magnetic Ground State Data for Magnetic Moment Predictions</title>
+      <link>https://doi.org/10.1088/2632-2153/ad23fb</link>
+      <description>Rohan Yuri Sanspeur, John R. Kitchin, Machine Learning: Science and Technology. None(None)] 2024. https://openalex.org/W4391338155
+
+                Abstract Magnetic materials play a crucial role in the transition to more sustainable forms of energy and electric vehicles. There is an anticipated shortage in magnetic materials in the future, and as a result there is an urgent need to discover and design new magnetic materials. Computational magnetic material design using density functional theory is daunting because of the challenge in identifying magnetic ground states from a combinatorially large set of possibilities. Machine learning offers a path forward by enabling efficient surrogate models that can more readily enumerate these states, but there is a dearth of training data available, and what is available tends to be imbalanced with too much non-magnetic data. In this work we show that the discrete and previously tackled data imbalance that exists at the level of the magnetic ordering leads to an imbalanced continuous distribution with many zeros when the data is unraveled at the atomic magnetic moment level, which subsequently leads to models with low accuracy for magnetic properties. We mitigate this by using a two-part model framework. Our scheme is able to classify atoms into magnetic and non-magnetic with an F1 score and Matthew's Correlation Coefficient (MCC) of $\sim$ 91 \% and then to provide an implicit embedding representation that maps directly onto the magnitude of the magnetic moment with a Mean Absolute Error (MAE) of 0.1 $\mu_{\text{B}}$. Beyond screening for new magnetic materials, we demonstrate an additional practical use case of our scheme: the provision of good initial guesses for magnetic moments in first-principles electronic relaxations. Such initialization is shown to lead to faster convergence to configurations that lie closer to the ground state.</description>
+      <author>Rohan Yuri Sanspeur, John R. Kitchin</author>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/2632-2153/ad23fb</guid>
     </item>
     <item>
       <title>Controlling Bond Scission Pathways of Isopropanol on Fe- and Pt-Modified Mo&lt;sub&gt;2&lt;/sub&gt;N Model Surfaces and Powder Catalysts</title>
