@@ -24,7 +24,7 @@ def get_org_item(topic, result):
         pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
 
-    tags = {topic['label']}.replace(' ', '_')
+    tags = topic['label'].replace(' ', '_')
     tags = tags.replace('-', '_')
 
     topics = ', '.join([topic['display_name'] for topic
