@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Feb 2024 00:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 22:23:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -28,26 +28,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04709</guid>
     </item>
     <item>
-      <title>Asymmetric Cascade Cyclization of Enynamides with Photogenerated Ketenes via Relay Gold and &lt;i&gt;N&lt;/i&gt;-Oxide Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c05731</link>
-      <description>Dan Li&#365;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974006
-
-                An asymmetric cascade cyclization of enynamides and &#945;-diazoketones to produce chiral bicyclic lactams bearing chiral all-carbon quaternary stereocenters is realized with up to 95% yield, 98% ee, and &gt;19:1 dr. The combination of visible light photoactivation and the relay of gold and N-oxide catalysis in a cascade process enabled the facile generation and controlled assembly of two reactive intermediates, ketene and aza-o-quinone methide. Theoretical calculations revealed a stepwise [4 + 2] cycloaddition mechanism, with the stereochemistry controlled by the amide group of the catalyst. Remarkably, this study presents the first example of chiral N-oxides serving as catalysts for asymmetric ketene cycloaddition and illustrates how a cascade strategy could be a promising means to access significant chiral heterocyclic scaffolds.</description>
-      <author>Dan Li&#365;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05731</guid>
-    </item>
-    <item>
-      <title>Vanadium-Containing Chloroperoxidase-Catalyzed Versatile Valorization of Phenols and Phenolic Acids</title>
-      <link>https://doi.org/10.1021/acscatal.3c05333</link>
-      <description>Huanhuan Li, Pei-Gao Duan, Yue Huang, Chengsen Cui, Frank Hollmann, Yunjian Ma, Yonghua Wang, Jie Zhang, Weidong Liu, Wuyuan Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974179
-
-                The downstream product transformation of lignin depolymerization is of great interest in the production of high-value aromatic chemicals. However, this transformation is often impeded by chemical oxidation under harsh reaction conditions. In this study, we demonstrate that hypohalites generated in situ by the vanadium-containing chloroperoxidase from Curvularia inaequalis (CiVCPO) can halogenate various electron-rich and electron-poor phenol and phenolic acid substrates. Specifically, CiVCPO enabled decarboxylative halogenation, deformylative halogenation, halogenation, and direct oxidation reactions. The versatile transformation routes for the valorization of phenolic compounds showed up to 99% conversion and 99% selectivity, with a turnover number of 60,700 and a turnover frequency of 60 s&#8211;1 for CiVCPO. This study potentially expands the biocatalytic toolbox for lignin valorization.</description>
-      <author>Huanhuan Li, Pei-Gao Duan, Yue Huang, Chengsen Cui, Frank Hollmann, Yunjian Ma, Yonghua Wang, Jie Zhang, Weidong Liu, Wuyuan Zhang</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05333</guid>
-    </item>
-    <item>
       <title>Single Pd Atom&#8211;In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyzes Production of CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OH from Atom-Economic C&#8211;C Coupling of HCHO and CH&lt;sub&gt;4&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acscatal.3c05163</link>
       <description>Yuntao Zhao, Natalie Fontillas, Hua Wang, Xinli Zhu, Donghai Mei, Qingfeng Ge, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974718
@@ -58,16 +38,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05163</guid>
     </item>
     <item>
-      <title>Efficiently Enhanced Selectivity of Electrocatalyzing Ethanol to High Value-Added Acetaldehyde Through Tuning the Cobalt Valence State</title>
-      <link>https://doi.org/10.1021/acscatal.3c03326</link>
-      <description>Yintong Zhang, Junhao Wu, Tao Li, H.J. Li, Yongcai Zhang, Xuepeng Wu, Yong Zhou, Zhigang Zou, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390975321
-
-                Using electrochemical oxidation of alcohols to substitute the oxygen evolution reaction is beneficial to reduce the energy consumption of hydrogen production. Converting alcohols into high value-added products with high efficiency and selectivity by designing a proper electrocatalyst is economical and has promising applications. In this work, two types of spinel cubic phase Co3O4 with different contents of oxygen vacancies were obtained by annealing the same precursor in air and argon gas atmosphere, respectively. The results of X-ray photoelectron spectroscopy and in situ Raman spectra reveal that abundant Co4+ sites were formed on the surface of Co3O4&#8211;air under the electrocatalysis condition, while main Co3+ sites were formed on the surface of Co3O4&#8211;Ar. The electrocatalytic ethanol oxidation tests and density functional theory calculation reveal that the Co4+ sites exhibit more proper adsorption energy to the O&#9552;*CCH3 intermediate, which benefits the formation of high-value-added acetaldehyde products instead of common acetic acid products with a higher degree of oxidation. The Faradaic efficiency of the Co3O4&#8211;air catalyst to acetaldehyde achieves 60.02%, and the selectivity to acetaldehyde reaches 79.63% at an oxidation overpotential of 1.46 V. This work provides the possibility and guidance for electrochemical oxidation of alcohols into high value-added products.</description>
-      <author>Yintong Zhang, Junhao Wu, Tao Li, H.J. Li, Yongcai Zhang, Xuepeng Wu, Yong Zhou, Zhigang Zou</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c03326</guid>
-    </item>
-    <item>
       <title>Photocatalytic Conversion of Lipid to Diesel and Syngas via Engineering the Surface Proton Transfer</title>
       <link>https://doi.org/10.1021/acscatal.3c04818</link>
       <description>Zhiwei Chen, Hongru Zhou, Fangfang Kong, Zhaolin Dou, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390977302
@@ -76,26 +46,6 @@
       <author>Zhiwei Chen, Hongru Zhou, Fangfang Kong, Zhaolin Dou, Min Wang</author>
       <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04818</guid>
-    </item>
-    <item>
-      <title>Copper-Catalyzed General and Selective &#945;-C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Silylation of Amides via 1,5-Hydrogen Atom Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.3c05651</link>
-      <description>Zheng Ji, Zhimin He, Sunwoo Kong, Ma Yin, Qianqian Du, Bao Lian Yi, Guozhu Zhang, R.T. Guo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390984822
-
-                The development of a general and selective method for &#945;-C(sp3)&#8211;H silylation of feedstock amines has been a long-standing challenge. In this paper, we disclose a mild, general, practical, and highly regio- and diastereoselective &#945;-C(sp3)&#8211;H silylation of various readily available acyclic, cyclic, and aromatic amines with silylboranes through a copper-catalyzed intramolecular 1,5-hydrogen atom transfer (HAT) strategy. The mild activation of 2-iodobenzamide to generate an aryl radical enabled by a ligand-coordinated silyl copper complex without additional heating or photoinduced conditions, as well as the intramolecular selective 1,5-HAT process to produce the crucial &#945;-aminoalkyl radical species, is the key to the success of this chemistry. This silylation protocol has demonstrated its potential utility in the late-stage modification of structurally complex drugs and bioactive molecules. Therefore, it is expected that this method will find applications in synthetic chemistry and drug discovery.</description>
-      <author>Zheng Ji, Zhimin He, Sunwoo Kong, Ma Yin, Qianqian Du, Bao Lian Yi, Guozhu Zhang, R.T. Guo</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05651</guid>
-    </item>
-    <item>
-      <title>Highly Selective Photocatalytic Methane Coupling by Au-Modified Bi&lt;sub&gt;2&lt;/sub&gt;WO&lt;sub&gt;6&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.3c05534</link>
-      <description>Muchun Fei, Benjamin P. Williams, Lizhuo Wang, Haoyi Li, Yucheng Yuan, James R. Wilkes, Tianying Liu, Yu Mu, Jier Huang, James Nyakuchena, Jun Huang, Wei Li, Dunwei Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391014312
-
-                Photocatalytic oxidative coupling of methane (OCM) to ethane promises a route to value-added C2 products from an abundant and low-cost feedstock. However, selective activation of the C&#8211;H bond of CH4 without overoxidation to CO2 has been a major challenge. In this work, we present the use of Au-modified Bi2WO6 as a prototypical photocatalyst, demonstrating a high performance of OCM through photocatalysis. A C2H6 production rate at 1.69 &#215; 103 &#956;mol&#183;g&#8211;1&#183;h&#8211;1 with approximately 85% selectivity was achieved, which ranks among the top-performing photocatalytic OCM systems. Efforts were also made in establishing a correlation between improved OCM performance and the photocatalyst system by examining the nature of the oxide photocatalyst. Our findings indicated that oxygen within the oxide surface, likely from adsorbed and subsequently dissociated oxygen at the vacancy sites, afforded a desired reactivity to selectively activate the C&#8211;H bond without significant overoxidation. Surprisingly, it was revealed that the Au cocatalyst plays dual roles of activating the oxide photocatalyst for enhanced CH4 activation and promoting C&#8211;C coupling to yield C2H6 as the main product.</description>
-      <author>Muchun Fei, Benjamin P. Williams, Lizhuo Wang, Haoyi Li, Yucheng Yuan, James R. Wilkes, Tianying Liu, Yu Mu, Jier Huang, James Nyakuchena, Jun Huang, Wei Li, Dunwei Wang</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05534</guid>
     </item>
     <item>
       <title>One-Pot Sequential Two-Step Photo-Biocatalytic Deracemization of &lt;i&gt;sec&lt;/i&gt;-Alcohols Combining Photocatalytic Oxidation and Bioreduction</title>
@@ -146,16 +96,6 @@
       <author/>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i002_1761788</guid>
-    </item>
-    <item>
-      <title>Unveiling the Full Dynamical and Reactivity Profiles of Acetylcholinesterase: A Comprehensive All-Atom Investigation</title>
-      <link>https://doi.org/10.1021/acscatal.3c05560</link>
-      <description>Fr&#233;d&#233;ric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391030933
-
-                Acetylcholinesterase is one of the most significant known serine hydrolases that governs the mammalian nervous system. Its high-rate speed, operating at the diffusion limit, combined with its buried active site feature, has made it a subject of extensive research over the last decades. Despite several studies focused on atomistic details of the different steps, a comprehensive theoretical investigation of the entire catalytic cycle has not yet been reported. In this work, we present an intuitive workflow aiming at describing the full dynamical and reactive profiles of AChE by coupling extensive steered molecular dynamics simulations for ligand diffusion and hybrid quantum mechanics/molecular mechanics computations to decipher the complete reactivity of the substrate within the enzyme. This comprehensive approach provides a broader view of the interconnections between each step that would not be readily accessible if the two steps were studied independently. Our simulations reveal that although individual steps do not indicate any strong limiting step, a solvent water molecule reorganization between the acylation and deacylation processes through the reactivity results in an energy cost of 20 kcal/mol. The observed barrier surpasses all others and discloses insights into a strong polarization effect acting on water molecules near the active site. An AMOEBA polarizable molecular dynamics simulation tends to confirm this assumption by capturing a substantial dipole moment (3.10 D) on the water molecule closest to the reaction site. These results shed light on the crucial correlation between this high-energy water reorganization and the polarization of confined water molecules. Consequently, carefully considering and modeling buried (polarizable) water molecules are of paramount importance when modeling full enzymatic activity. Therefore, this work will also provide valuable insights for future research on related enzymes with buried active sites.</description>
-      <author>Fr&#233;d&#233;ric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05560</guid>
     </item>
     <item>
       <title>Issue Publication Information</title>
@@ -256,6 +196,66 @@
       <author>Daowei Gao, Daowei Gao, Yipin Lv, Changxu Wang, Jianyu Ren, Peng Zheng, Lianghao Song, Aijun Duan, Xilong Wang, Guozhu Chen, Xu Chen</author>
       <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05175</guid>
+    </item>
+    <item>
+      <title>Vacancy Optimized Coordination on Nickel Oxide for Selective Electrocatalytic Oxidation of Glycerol</title>
+      <link>https://doi.org/10.1021/acscatal.3c04568</link>
+      <description>Zhongcheng Xia, Chongyang Ma, Yun Fan, Yuxuan Lu, Yu&#8208;Cheng Huang, Yuping Pan, Yandong Wu, Qingyu Luo, Yuanqing He, Chung&#8208;Li Dong, Shuangyin Wang, Yuqin Zou, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391101830
+
+                The production of high-value-added organics by the glycerol oxidation reaction (GOR) holds significant research importance for addressing the surplus production of glycerol and mitigating the energy crisis. In this study, we report a vacancy optimized coordination on nickel oxide for the selective electrocatalytic oxidation of glycerol. Using in situ Raman and electron paramagnetic resonance spectroscopy, the formation of vacancies was traced during the cationic leaching process. Subsequently, in situ attenuated total reflection surface-enhanced IR absorption spectroscopy and density functional theory calculations revealed a significantly enhanced adsorption capacity and optimized co-adsorption process of OH&#8211; and organics. Consequently, NiCrO with vacancies (NiCrO-VCr,O) exhibited GOR performance with conversion, formic acid selectivity, and faradaic efficiency values of 99%, 98%, and 96%, respectively. Notably, the conversion and selectivity in the flow electrolyzer remained above 90% during long-time continuous electrolysis, highlighting its industrial applicability. This study provides constructive guidance for the design of electrocatalysts, the optimization of the catalyst ligand environment, and the development of high-performance, metal-based catalysts for glycerol electro-oxidation.</description>
+      <author>Zhongcheng Xia, Chongyang Ma, Yun Fan, Yuxuan Lu, Yu&#8208;Cheng Huang, Yuping Pan, Yandong Wu, Qingyu Luo, Yuanqing He, Chung&#8208;Li Dong, Shuangyin Wang, Yuqin Zou</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04568</guid>
+    </item>
+    <item>
+      <title>In Situ Restructuring of ZnCr&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Spinel Catalyst Alters Elementary Surface Reaction Kinetics and Catalytic Selectivity in CO Hydrogenation Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c05739</link>
+      <description>Qiulin Nie, Jieqiong Ding, Dongdong Wang, Yang Liu, Wei Xiong, Yong Yang, Weixin Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391102226
+
+                The CO hydrogenation reaction catalyzed by the ZnCr2O4 catalyst is studied using quasi-in situ XPS, temperature-programmed reaction spectroscopy, and temporal in situ diffuse reflectance Fourier transform infrared spectroscopy. At 573 K, the ZnCr2O4 catalyst selectively catalyzes the CH3OH formation reaction, in which the hydrogenation reaction of monodentate formate species is the rate-limiting step with an activation energy of approximately 60.5 kJ/mol. As the temperature increases to 673 K, CO2 and CH4 are produced at the expense of CH3OH, which can be attributed to in situ partial reduction of the ZnCr2O4 catalyst into metallic Zn. On one hand, the CO disproportionation reaction into CO2 and atomic carbon species occurs on the resulting metallic Zn, and the atomic carbon species is subsequently hydrogenated predominantly into CH4; on the other hand, the rate-limiting step of methanol synthesis on the resulting partially reduced ZnCr2O4 catalyst becomes the hydrogenation of the methoxy group with an activation energy of approximately 120.3 kJ/mol, considerably reducing the CH3OH formation rate. These results unveil that the changes in the elementary surface reaction network and the kinetics induced by in situ restructuring of the ZnCr2O4 catalyst in the CO hydrogenation reaction lead to the changes in catalytic selectivity.</description>
+      <author>Qiulin Nie, Jieqiong Ding, Dongdong Wang, Yang Liu, Wei Xiong, Yong Yang, Weixin Huang</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05739</guid>
+    </item>
+    <item>
+      <title>Amorphous Ruthenium&#8211;Selenium Nanoparticles as a pH-Universal Catalyst for Enhanced Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c04498</link>
+      <description>Ting Zhu, Junnan Han, Teng Sun, Junhua Zhao, Xiaodong Pi, Jun Xu, Kunji Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391105420
+
+                In order to broaden the applications of water splitting for hydrogen production, it is highly desired to develop an ideal catalyst, which can operate in a wide pH range. In this work, we proposed amorphous RuSex nanoparticles (NPs) with a highly disordered structure to introduce abundant surface defects, which contribute to the enhanced HER activity. The optimized RuSe1.5 NPs exhibited the pH-universal activity, which only require an overpotential of 24, 30, and 12 mV to reach a current density of 10 mA cm&#8211;2 in 0.5 M H2SO4 (pH = 0), 1 M PBS (pH = 7), and 1 M KOH (pH = 14), respectively. By capitalizing on the synergistic effect between Ru and Se, we have successfully achieved a balance in the strong adsorption of reaction intermediates on Ru sites and significantly improved the performance of HER. This work highlights the crucial role of understanding and harnessing the elemental synergies in the development of optimized HER catalysts and paves the way for the advancement of hydrogen production.</description>
+      <author>Ting Zhu, Junnan Han, Teng Sun, Junhua Zhao, Xiaodong Pi, Jun Xu, Kunji Chen</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04498</guid>
+    </item>
+    <item>
+      <title>A Comprehensive Analysis of the Overpotential Losses in Polymer Electrolyte Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.3c04797</link>
+      <description>Meriem Fikry, &#193;lvaro Garc&#237;a-Padilla, Juan Herranz, Pavel Khavlyuk, Alexander Eychm&#252;ller, Thomas J. Schmidt, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391106654
+
+                Polymer electrolyte fuel cells (PEFCs) are expected to play a pivotal role in heavy-duty transportation, but careful benchmarking of the kinetics of the O2-reduction reaction (ORR) and mass transport properties dictating their performance is needed to render them market-competitive. This assessment generally relies on the extrapolation of the kinetic behavior observed at low current densities to the high currents at which mass transport limitations become significant. However, this kinetic regime is generally assumed to obey a simple Tafel law that does not consider the impact of the relative humidity (RH) on the availability of ORR-active sites. To shed light on the implications of this simplified approach, in this study, we compare the ORR parameters and mass transport losses derived from it with those computed using a more complex kinetic model that incorporates site-availability effects. Our results provide an original insight on the impact of the relative humidity on the ORR-performance of catalysts with different active site distributions and show that the mass transport resistances derived by these two quantification procedures are essentially identical as long as the slope of the kinetic Tafel line is adjusted according to the RH.</description>
+      <author>Meriem Fikry, &#193;lvaro Garc&#237;a-Padilla, Juan Herranz, Pavel Khavlyuk, Alexander Eychm&#252;ller, Thomas J. Schmidt</author>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04797</guid>
+    </item>
+    <item>
+      <title>Cobalt/Organophotoredox Dual-Catalysis-Enabled Cyclization of 1,5,10-Enediynes Involving Metallole-Mediated Remote C(&lt;i&gt;sp&lt;/i&gt;&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Bond Activation Leading to Axially Chiral Aryl Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.3c05848</link>
+      <description>Keiji Yamada, Nobuaki Koga, Takeshi Yasui, Yoshihiko Yamamoto, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391127033
+
+                Transition-metal-catalyzed C(sp3)&#8211;H functionalization has been much less investigated compared to C(sp2)&#8211;H functionalization because the site-selectivity control in C(sp3)&#8211;H bond activation is much more challenging than that in C(sp2)&#8211;H bond activation. Site-selective C(sp3)&#8211;H functionalization without the assistance of directing groups is highly desirable, because the installation and removal of directing groups are not required. Hence, cycloaddition through a site-selective C&#8211;H bond activation triggered by the formation of metallacycles, such as metalloles, is a highly atom- and step-economical method for synthesizing complex carbo- and heterocycles from simple unsaturated substrates. Herein, we report the cobalt/photoredox dual-catalysis-enabled cyclization of 1,5,10-enediynes via remote C(sp3)&#8211;H bond activation triggered by metallole formation, affording axially chiral aryl alkenes. Several control experiments and theoretical calculations suggest that the C(sp3)&#8211;H bond cleavage proceeds through &#963;-complex-assisted metathesis (&#963;-CAM) in the metallole intermediate.</description>
+      <author>Keiji Yamada, Nobuaki Koga, Takeshi Yasui, Yoshihiko Yamamoto</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05848</guid>
+    </item>
+    <item>
+      <title>Cooperative Interplay of Micropores/Mesopores of Hierarchical Zeolite in Chemical Production</title>
+      <link>https://doi.org/10.1021/acscatal.3c05170</link>
+      <description>Susung Lee, Younghwan Park, Minkee Choi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391131566
+
+                Zeolites are crystalline microporous aluminosilicates that play a crucial role as solid acid catalysts in refinery and petrochemical processes. Over the past decades, hierarchical zeolites containing secondary mesopores in addition to micropores have been extensively investigated to mitigate the mass transfer limitations of conventional zeolites and improve the catalytic activity, selectivity, and longevity. The hierarchical structuring of zeolites not only improves mass transfer but also changes the distribution of acid sites and adsorption of reaction intermediates, which collectively affect the final catalytic properties of zeolites. In this Perspective, we will discuss the distinctive structural features of hierarchical zeolites compared to conventional ones, as well as their catalytic consequences in industrially relevant reactions for efficient fuel and chemical production.</description>
+      <author>Susung Lee, Younghwan Park, Minkee Choi</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05170</guid>
     </item>
   </channel>
 </rss>

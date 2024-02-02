@@ -1,13 +1,17 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Fri Feb  2 00:39:03 2024
+Created on Fri Feb  2 22:23:37 2024
 
 Found 1 results from 2024-01-19 to 2024-02-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20catalyst]]
 
-** Beyond Lithium‐Ion Batteries   
+** Beyond Lithium‐Ion Batteries  :liquid_metal:
+:PROPERTIES:
+:ID: https://openalex.org/W4391330429
+:TOPICS: Lithium-ion Battery Technology, Lithium Battery Technologies, Lithium-ion Battery Management in Electric Vehicles
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202308001")][Get bibtex entry]] 
 

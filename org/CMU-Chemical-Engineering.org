@@ -1,13 +1,17 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Feb  2 00:39:06 2024
+Created on Fri Feb  2 22:23:40 2024
 
 Found 8 results from 2024-01-19 to 2024-02-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
-** Routing and scheduling of platform supply vessels in offshore oil and gas logistics   
+** Routing and scheduling of platform supply vessels in offshore oil and gas logistics  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391147858
+:TOPICS: Vehicle Routing Problem and Variants, Optimization of Container Terminal Operations and Logistics, Optimization of Cutting and Packing Problems
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cor.2024.106556")][Get bibtex entry]] 
 
@@ -23,7 +27,11 @@ In this work, we focus on an operational logistics problem that arises in the of
 
     
 
-** Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer   
+** Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391225134
+:TOPICS: Atmospheric Aerosols and their Impacts, Health Effects of Air Pollution, Impact of COVID-19 on Global Environment
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ea00001j")][Get bibtex entry]] 
 
@@ -39,7 +47,11 @@ Inhomogeneities in temperature and ammonia concentrations can cause rapid growth
 
     
 
-** Optimal retrofitting of conventional oil refinery into sustainable bio‐refinery under uncertainty   
+** Optimal retrofitting of conventional oil refinery into sustainable bio‐refinery under uncertainty  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391308369
+:TOPICS: Technologies for Biofuel Production from Biomass, State-of-the-Art in Process Optimization under Uncertainty, Technical Aspects of Biodiesel Production
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aic.18371")][Get bibtex entry]] 
 
@@ -55,7 +67,11 @@ Abstract This article focuses on a novel optimization problem to retrofit a conv
 
     
 
-** Circumventing Data Imbalance in Magnetic Ground State Data for Magnetic Moment Predictions   
+** Circumventing Data Imbalance in Magnetic Ground State Data for Magnetic Moment Predictions  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391338155
+:TOPICS: Accelerating Materials Innovation through Informatics, Natural Language Processing, Advancements in Density Functional Theory
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1088/2632-2153/ad23fb")][Get bibtex entry]] 
 
@@ -71,7 +87,11 @@ Abstract Magnetic materials play a crucial role in the transition to more sustai
 
     
 
-** Characterization and comparison of human and mouse milk cells   
+** Characterization and comparison of human and mouse milk cells  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391381333
+:TOPICS: Composition and Health Effects of Human Milk, Immunological Mechanisms in Pregnancy and Fetal-Maternal Interface, MicroRNA Regulation in Cancer and Development
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1371/journal.pone.0297821")][Get bibtex entry]] 
 
@@ -87,7 +107,11 @@ Recent data has characterized human milk cells with unprecedented detail and pro
 
     
 
-** Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow   
+** Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391418533
+:TOPICS: Physics-Informed Neural Networks for Scientific Computing, Power System Stability and Control Analysis, Real-Time Simulation Technologies for Power Systems
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijepes.2023.109741")][Get bibtex entry]] 
 
@@ -103,7 +127,11 @@ This manuscript presents a complete framework for the development and verificati
 
     
 
-** Does Kaizen Programming need a physic-informed mechanism to improve the search?   
+** Does Kaizen Programming need a physic-informed mechanism to improve the search?  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391249853
+:TOPICS: Game Artificial Intelligence Research, Swarm Intelligence Optimization Algorithms
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1109/la-cci58595.2023.10409360")][Get bibtex entry]] 
 
@@ -119,7 +147,11 @@ In recent years, the study of physics-informed machine learning has increased. W
 
     
 
-** Pyomo v6.2   
+** Pyomo v6.2  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:ID: https://openalex.org/W4391048254
+:TOPICS: Classification and Treatment of Vascular Anomalies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.11578/dc.20221016.1")][Get bibtex entry]] 
 

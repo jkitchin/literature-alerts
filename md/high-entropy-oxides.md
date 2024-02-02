@@ -1,6 +1,6 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Fri Feb  2 00:39:04 2024
+Created on Fri Feb  2 22:23:37 2024
 
 Found 0 results from 2024-01-19 to 2024-02-02
 OpenAlex URLS (not including from_created_date or the API key)

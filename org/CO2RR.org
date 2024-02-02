@@ -1,7 +1,7 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Feb  2 00:39:03 2024
+Created on Fri Feb  2 22:23:36 2024
 
 Found 54 results from 2024-01-19 to 2024-02-02
 OpenAlex URLS (not including from_created_date or the API key)
@@ -9,7 +9,11 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aco2%20reduction]]
 
-** Composition effects of electrodeposited Cu-Ag nanostructured electrocatalysts for CO2 reduction   
+** Composition effects of electrodeposited Cu-Ag nanostructured electrocatalysts for CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4390979173
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Nanomaterials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-tfkhh")][Get bibtex entry]] 
 
@@ -25,23 +29,11 @@ The electrochemical reduction of carbon dioxide (CO2RR) to valuable C2+ liquid f
 
     
 
-** Recent advances in copper-based catalysts for electrocatalytic CO 2 reduction toward multi-carbon products   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26599/nre.2024.9120112")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390987371"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390987371"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390987371"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4390987371 (Open access: True)
-    
-[[https://openalex.org/A5025855204][Rongrong Li]], [[https://openalex.org/A5058501731][Hehe Wei]], [[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5071574675][Zixiang Su]], [[https://openalex.org/A5062523981][X. G. Gong]], Nano Research Energy. None(None)] 2024. https://doi.org/10.26599/nre.2024.9120112  ([[https://file.sciopen.com/sciopen_public/1747873898448973825.pdf][pdf]])
-     
-Electrocatalytic carbon dioxide reduction reaction (CO2RR) holds the promise of both overcoming the greenhouse effect and synthesizing a wealth of chemicals. Electrocatalytic CO2 reduction toward carbon-containing products, including C1 products (carbon monoxide, formic acid, etc), C2 products (ethylene, ethanol, etc.) and multi-carbon products (e.g., npropanol), provides beneficial fuel and chemicals for industrial production. The complexity of the multi-proton transfer processes and difficulties of C-C coupling in electrochemical CO2 reduction toward multi-carbon(C2+) products have attracted increasing concerns on the design of catalysts in comparison with those of C1 products. In this paper, we review the main advances in the syntheses of multi-carbon products through electrocatalytic carbon dioxide reduction in recent years, introduce the basic principles of electrocatalytic CO2RR, and detailly elucidate two widely accepted mechanisms of C-C coupling reactions. Among abundant nanomaterials, copper-based catalysts are outstanding catalysts for the preparation of multi-carbon chemicals in electrochemical CO2RR attributing to effective C-C coupling reactions. Regarding the different selectivity of multi-carbon chemicals but extensively applied copper-based catalysts, we classify and summarize various Cu-based catalysts through separating diverse multi-carbon products, where the modification of spatial and electronic structures is beneficial to increase the coverage of CO or lower the activation energy barrier for forming CC bond to form the key intermediates and increase the production of multi-carbon products. Challenges and prospects involving the fundamental and development of copper-based catalysts in electrochemical CO2 reduction reaction are also proposed.    
-
-    
-
-** Tuning the CO2 Reduction Activity of Graphitic Carbon Nitride via the Capping-Agent-Free Involvement of Ag Nanocrystals   
+** Tuning the CO2 Reduction Activity of Graphitic Carbon Nitride via the Capping-Agent-Free Involvement of Ag Nanocrystals  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391111388
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.iecr.3c03841")][Get bibtex entry]] 
 
@@ -57,7 +49,11 @@ In this work, a facile method to tune the carbon dioxide (CO2) reduction reactio
 
     
 
-** Mechanism of electrochemical carbon dioxide reduction to formate on tin electrode   
+** Mechanism of electrochemical carbon dioxide reduction to formate on tin electrode  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391112540
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148972")][Get bibtex entry]] 
 
@@ -73,7 +69,11 @@ Carbon dioxide can be electrochemically reduced to formate on tin electrodes. Fo
 
     
 
-** Steering CO2 Electroreduction to C2+ Products via Enhancing Localized *Co Coverage And Local Pressure in Conical Cavity   
+** Steering CO2 Electroreduction to C2+ Products via Enhancing Localized *Co Coverage And Local Pressure in Conical Cavity  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391212986
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Advancements in Density Functional Theory, Molecular Electronic Devices and Systems
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adma.202312204")][Get bibtex entry]] 
 
@@ -89,7 +89,11 @@ The electrochemical carbon dioxide reduction reaction (CO2 RR) involves a multis
 
     
 
-** Cadmium sulfide nanoparticles compositing with chitosan and metal-organic framework: Enhanced photostability and increased carbon dioxide reduction   
+** Cadmium sulfide nanoparticles compositing with chitosan and metal-organic framework: Enhanced photostability and increased carbon dioxide reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391276659
+:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s42114-024-00837-2")][Get bibtex entry]] 
 
@@ -105,7 +109,11 @@ No abstract
 
     
 
-** Free‐standing Stanene for High Selectivity of Formate in Electrocatalytic Carbon Dioxide Reduction Reaction   
+** Free‐standing Stanene for High Selectivity of Formate in Electrocatalytic Carbon Dioxide Reduction Reaction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391280930
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Carbon Dioxide Utilization for Chemical Synthesis
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aenm.202303889")][Get bibtex entry]] 
 
@@ -121,7 +129,11 @@ Abstract As well‐known electrocatalysts with good catalytic efficiency for car
 
     
 
-** Surface gallium oxide hydroxide species adsorbing carbon dioxide to enhance the photocatalytic activity of a silver-loaded calcium titanate for carbon dioxide reduction with water   
+** Surface gallium oxide hydroxide species adsorbing carbon dioxide to enhance the photocatalytic activity of a silver-loaded calcium titanate for carbon dioxide reduction with water  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391319608
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Electrochemical Reduction of CO2 to Fuels
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3se01390a")][Get bibtex entry]] 
 
@@ -137,7 +149,31 @@ Photocatalytic conversion of carbon dioxide (CO 2 ) has attracted considerable a
 
     
 
-** MOFs materials as photocatalysts for CO2 reduction: Progress, challenges and perspectives   
+** Recent advances in copper-based catalysts for electrocatalytic CO 2 reduction toward multi-carbon products  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4390987371
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26599/nre.2024.9120112")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4390987371"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4390987371"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4390987371"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4390987371 (Open access: True)
+    
+[[https://openalex.org/A5025855204][Rongrong Li]], [[https://openalex.org/A5058501731][Hehe Wei]], [[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5071574675][Zixiang Su]], [[https://openalex.org/A5062523981][X. G. Gong]], Nano Research Energy. None(None)] 2024. https://doi.org/10.26599/nre.2024.9120112  ([[https://file.sciopen.com/sciopen_public/1747873898448973825.pdf][pdf]])
+     
+Electrocatalytic carbon dioxide reduction reaction (CO2RR) holds the promise of both overcoming the greenhouse effect and synthesizing a wealth of chemicals. Electrocatalytic CO2 reduction toward carbon-containing products, including C1 products (carbon monoxide, formic acid, etc), C2 products (ethylene, ethanol, etc.) and multi-carbon products (e.g., npropanol), provides beneficial fuel and chemicals for industrial production. The complexity of the multi-proton transfer processes and difficulties of C-C coupling in electrochemical CO2 reduction toward multi-carbon(C2+) products have attracted increasing concerns on the design of catalysts in comparison with those of C1 products. In this paper, we review the main advances in the syntheses of multi-carbon products through electrocatalytic carbon dioxide reduction in recent years, introduce the basic principles of electrocatalytic CO2RR, and detailly elucidate two widely accepted mechanisms of C-C coupling reactions. Among abundant nanomaterials, copper-based catalysts are outstanding catalysts for the preparation of multi-carbon chemicals in electrochemical CO2RR attributing to effective C-C coupling reactions. Regarding the different selectivity of multi-carbon chemicals but extensively applied copper-based catalysts, we classify and summarize various Cu-based catalysts through separating diverse multi-carbon products, where the modification of spatial and electronic structures is beneficial to increase the coverage of CO or lower the activation energy barrier for forming CC bond to form the key intermediates and increase the production of multi-carbon products. Challenges and prospects involving the fundamental and development of copper-based catalysts in electrochemical CO2 reduction reaction are also proposed.    
+
+    
+
+** MOFs materials as photocatalysts for CO2 reduction: Progress, challenges and perspectives  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391019430
+:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Photocatalytic Materials for Solar Energy Conversion, Porous Crystalline Organic Frameworks for Energy and Separation Applications
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ccst.2024.100191")][Get bibtex entry]] 
 
@@ -153,7 +189,11 @@ Photocatalytic reduction of carbon dioxide (CO2) presents a pivotal solution to 
 
     
 
-** Exploring Carbon Monoxide and Carbon Dioxide Adsorption on (5,5) Aluminum Nitride Nanotubes for Enhanced Sensor Applications: A DFT Study   
+** Exploring Carbon Monoxide and Carbon Dioxide Adsorption on (5,5) Aluminum Nitride Nanotubes for Enhanced Sensor Applications: A DFT Study  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391136623
+:TOPICS: Synthesis and Properties of Boron-based Materials, First-Principles Calculations for III-Nitride Semiconductors, Gas Sensing Technology and Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29030557")][Get bibtex entry]] 
 
@@ -169,7 +209,11 @@ This study examined the sensitivity of single-walled (5,5) aluminium nitride nan
 
     
 
-** Steering the Selectivity of Carbon Dioxide Electroreduction from Single-Carbon to Multicarbon Products on Metal–Organic Frameworks via Facet Engineering   
+** Steering the Selectivity of Carbon Dioxide Electroreduction from Single-Carbon to Multicarbon Products on Metal–Organic Frameworks via Facet Engineering  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391160753
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.nanolett.3c04092")][Get bibtex entry]] 
 
@@ -185,7 +229,11 @@ Although metal–organic frameworks (MOFs) have attracted more attention for the
 
     
 
-** Selectively Adsorbed Mercaptoethanesulfonic Acid on Au/TiO2 Enhances the Yield and Selectivity of Photocatalytic Reduction of Carbon Dioxide   
+** Selectively Adsorbed Mercaptoethanesulfonic Acid on Au/TiO2 Enhances the Yield and Selectivity of Photocatalytic Reduction of Carbon Dioxide  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391239090
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Electrochemical Reduction of CO2 to Fuels
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.3c03093")][Get bibtex entry]] 
 
@@ -197,11 +245,15 @@ OpenAlex: https://openalex.org/W4391239090 (Open access: False)
     
 [[https://openalex.org/A5054525040][Mengdan Guan]], [[https://openalex.org/A5048989648][Junjie Wang]], [[https://openalex.org/A5075682753][Zhongyan Gong]], [[https://openalex.org/A5038210442][Kun Gao]], [[https://openalex.org/A5001997986][Xing Kang]], [[https://openalex.org/A5017795751][Yulong Zhang]], [[https://openalex.org/A5004494857][Chengcheng Zhu]], [[https://openalex.org/A5035535613][Zhihao Lü]], [[https://openalex.org/A5032903415][Xinya Chen]], [[https://openalex.org/A5029884880][Jianguo Lü]], [[https://openalex.org/A5060177975][Qinghua Liu]], [[https://openalex.org/A5082636639][Haonan Chen]], [[https://openalex.org/A5034590754][Liuyingzi Yu]], [[https://openalex.org/A5077289752][Kaili Wang]], [[https://openalex.org/A5078980502][Zhuoyao Li]], [[https://openalex.org/A5020760319][Gang Lü]], ACS Applied Energy Materials. None(None)] 2024. https://doi.org/10.1021/acsaem.3c03093 
      
-No abstract    
+The photocatalytic reduction of carbon dioxide (CO2RR) is of paramount importance in the energy industry and environmental protection. Developing highly efficient catalysts plays a central role in advancing CO2RR for practical applications, and a Au/TiO2 heterostructure has emerged as a prominent photocatalyst in CO2RR. However, there is still a need to improve the reaction efficiency and selectivity of this heterostructure to realize its full potential in practical applications. Herein, a significant enhancement in the total gas-production rate on the Au/TiO2 heterostructure is achieved by selectively adsorbing thiol molecules, specifically mercaptoethanesulfonic acid, onto the gold surface. Remarkably, the selectivity toward carbon monoxide has also improved from 62.3 to 79.3%. Notably, the reaction rate and selectivity are strongly influenced by the choice of thiol molecules, their concentration, and the wavelength of light used for illumination. The improved reaction efficiency and selectivity can be attributed to the promotion of charge transfer at the Au–TiO2 interface induced by molecular adsorption of thiols. This phenomenon leads to enhanced performance in the photocatalytic CO2RR process. Importantly, this work presents a simple, convenient, cost-effective, and controllable strategy to improve the reaction efficiency and selectivity of photocatalytic CO2RR on the Au/TiO2 heterostructure. Furthermore, this strategy holds promise for application in various other heterogeneous photocatalytic systems in the near future.    
 
     
 
-** Solvation of oxygen, carbon dioxide, carbon monoxide and nitrous oxide in fluorinated liquids   
+** Solvation of oxygen, carbon dioxide, carbon monoxide and nitrous oxide in fluorinated liquids  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391327398
+:TOPICS: Mathematical Topics in Collisional Kinetic Theory, Carbon Dioxide Capture and Storage Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
 
@@ -217,7 +269,11 @@ No abstract
 
     
 
-** Recent advances in novel materials for photocatalytic carbon dioxide reduction   
+** Recent advances in novel materials for photocatalytic carbon dioxide reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391102665
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cnl2.107")][Get bibtex entry]] 
 
@@ -233,7 +289,11 @@ Abstract The conversion of CO 2 into chemical fuels, which can be stored and uti
 
     
 
-** Determining kinetics of electrochemical carbon dioxide reduction to carbon monoxide with scanning electrochemical microscopy   
+** Determining kinetics of electrochemical carbon dioxide reduction to carbon monoxide with scanning electrochemical microscopy  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391116059
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrochemical Detection of Heavy Metal Ions, Applications of Ionic Liquids
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jelechem.2024.118061")][Get bibtex entry]] 
 
@@ -249,7 +309,11 @@ This study reports on determining kinetics of electrochemical reduction CO2 to C
 
     
 
-** Carbon dioxide reduction to methane and ethanol by using boron carbide monolayer as a suitable photocatalyst   
+** Carbon dioxide reduction to methane and ethanol by using boron carbide monolayer as a suitable photocatalyst  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391089745
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Photocatalytic Materials for Solar Energy Conversion
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.diamond.2024.110849")][Get bibtex entry]] 
 
@@ -259,13 +323,17 @@ This study reports on determining kinetics of electrochemical reduction CO2 to C
 
 OpenAlex: https://openalex.org/W4391089745 (Open access: False)
     
-[[https://openalex.org/A5016779284][Mohamed J. Saadh]], [[https://openalex.org/A5084593121][Saade Abdalkareem Jasim]], [[https://openalex.org/A5010958862][Linda Mariuxi Flores Fiallos]], [[https://openalex.org/A5005025571][Anupam Yadav]], [[https://openalex.org/A5040948370][Louay Saleh]], [[https://openalex.org/A5047607461][Edwin Jácome]], [[https://openalex.org/A5043976657][César Gerardo Mejía Gallegos]], [[https://openalex.org/A5015561046][Yazen M. Alawaideh]], [[https://openalex.org/A5051339559][Yasser Elmasry]], Diamond and Related Materials. None(None)] 2024. https://doi.org/10.1016/j.diamond.2024.110849 
+[[https://openalex.org/A5016779284][Mohamed J. Saadh]], [[https://openalex.org/A5084593121][Saade Abdalkareem Jasim]], [[https://openalex.org/A5010958862][Linda Mariuxi Flores Fiallos]], [[https://openalex.org/A5005025571][Anupam Yadav]], [[https://openalex.org/A5040948370][Louay Saleh]], [[https://openalex.org/A5047607461][Edwin Jácome]], [[https://openalex.org/A5043976657][César Gerardo Mejía Gallegos]], [[https://openalex.org/A5015561046][Yazen M. Alawaideh]], [[https://openalex.org/A5051339559][Yasser Elmasry]], Diamond and Related Materials. 142(None)] 2024. https://doi.org/10.1016/j.diamond.2024.110849 
      
 A new-type boron carbide material has been used, as an electrocatalyst for the reduction of CO2 to C2 and C1 based on the computational study. Within the current research, DFT was adopted to investigate the BC3 nanoflake as an electrocatalyst for the reduction of CO2. The optoelectronic attributes of the BC3 nanoflake indicated that BC3 nanoflake had a longer visible-light region and its band gap was 2.25 eV. Based on the spatial distribution of the LUMO and the HOMO, the introduction of boron extended the π network of BC3 nanoflake, thereby dramatically increasing the photocatalytic efficiency. Additionally, we estimated the Gibbs free energy of each potential CO2 reaction path onto BC3 nanoflake. Based on the findings, CO2 could reduce into CH4 and CH3CH2OH with low limiting potentials of −0.41 V and −0.53 V, respectively. The current study can provide useful insights into the application of BC3 nanoflake as an encouraging photocatalyst for the reduction reaction CO2.    
 
     
 
-** A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition   
+** A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391037978
+:TOPICS: Chemical-Looping Technologies, Carbon Dioxide Capture and Storage Technologies, Carbon Dioxide Sequestration in Geological Formations
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cjche.2023.12.017")][Get bibtex entry]] 
 
@@ -281,7 +349,11 @@ In the carbonate industry, deep decarbonization strategies are necessary to effe
 
     
 
-** Oxygen vacancies synergistic cobalt phosphide electron bridge modulated bismuth oxychloride/carbon nitride Z-scheme junction for efficient carbon dioxide reduction coupled with tetracycline oxidation   
+** Oxygen vacancies synergistic cobalt phosphide electron bridge modulated bismuth oxychloride/carbon nitride Z-scheme junction for efficient carbon dioxide reduction coupled with tetracycline oxidation  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391264958
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion, Perovskite Solar Cell Technology
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.01.149")][Get bibtex entry]] 
 
@@ -297,7 +369,11 @@ Although great progress has been made with respect to electron bridges, the elec
 
     
 
-** The synergistic role of carbon dioxide removal and emission reductions in achieving the Paris Agreement goal   
+** The synergistic role of carbon dioxide removal and emission reductions in achieving the Paris Agreement goal  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391071426
+:TOPICS: Economic Implications of Climate Change Policies, Carbon Dioxide Capture and Storage Technologies, Life Cycle Assessment and Environmental Impact Analysis
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.spc.2024.01.004")][Get bibtex entry]] 
 
@@ -313,7 +389,11 @@ The limiting global carbon budget underscores the urgent need for effective and 
 
     
 
-** Green steel from red mud through climate-neutral hydrogen plasma reduction   
+** Green steel from red mud through climate-neutral hydrogen plasma reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391166907
+:TOPICS: Management and Utilization of Bauxite Residue, Battery Recycling and Rare Earth Recovery, Metal Matrix Composites: Science and Applications
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41586-023-06901-z")][Get bibtex entry]] 
 
@@ -329,7 +409,11 @@ Abstract Red mud is the waste of bauxite refinement into alumina, the feedstock 
 
     
 
-** Thermodynamic Analysis of Exhaust Gas Waste Heat Recovery with Organic Rankine Cycle for Container Ship   
+** Thermodynamic Analysis of Exhaust Gas Waste Heat Recovery with Organic Rankine Cycle for Container Ship  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391097601
+:TOPICS: Waste Heat Recovery for Power Generation and Cogeneration, State-of-the-Art in Process Optimization under Uncertainty, Refrigeration Systems and Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4703037")][Get bibtex entry]] 
 
@@ -345,7 +429,11 @@ Highlights• Thermodynamic analysis of organic rankine cycle using exhaust gas 
 
     
 
-** プラズマ触媒作用を用いた二酸化炭素還元反応の促進に関する基礎研究   
+** プラズマ触媒作用を用いた二酸化炭素還元反応の促進に関する基礎研究  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391161005
+:TOPICS: Catalytic Nanomaterials, Sulfur Compounds Removal Technologies, Materials and Methods for Hydrogen Storage
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.7791/jspmee.13.31")][Get bibtex entry]] 
 
@@ -361,7 +449,11 @@ Carbon dioxide reduction is one of the key technologies for achieving a sustaina
 
     
 
-** Plasmonic‐assisted Electrocatalysis for CO2 Reduction Reaction   
+** Plasmonic‐assisted Electrocatalysis for CO2 Reduction Reaction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391173783
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Applications of Quantum Dots in Nanotechnology
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/celc.202300805")][Get bibtex entry]] 
 
@@ -377,7 +469,11 @@ Abstract Integrating plasmonic features as an emerging strategy for enhancing el
 
     
 
-** Recent progress of 3d transition metal as single-atom catalysts for electrochemical CO2 reduction to CO   
+** Recent progress of 3d transition metal as single-atom catalysts for electrochemical CO2 reduction to CO  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391243406
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcou.2024.102690")][Get bibtex entry]] 
 
@@ -393,7 +489,11 @@ Electrochemical carbon dioxide reduction (ECR) presents a promising technology t
 
     
 
-** Interface Engineering of Cu2o/In(Oh)3 for Efficient Solar-Driven Co2 Electrochemical Reduction to Syngas   
+** Interface Engineering of Cu2o/In(Oh)3 for Efficient Solar-Driven Co2 Electrochemical Reduction to Syngas  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391178525
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4704994")][Get bibtex entry]] 
 
@@ -409,7 +509,11 @@ Electrochemical carbon dioxide reduction reaction (CO2RR) holds greater promise 
 
     
 
-** Operando Identification of Carbon-confined SnOx Nanodots Dynamics during CO2-to-formate Electrolysis   
+** Operando Identification of Carbon-confined SnOx Nanodots Dynamics during CO2-to-formate Electrolysis  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391227764
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Thermoelectric Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-3853964/v1")][Get bibtex entry]] 
 
@@ -425,7 +529,11 @@ Abstract Electrocatalytic carbon dioxide reduction reaction (CO2RR) using tin ox
 
     
 
-** Efficient photocatalytic overall water splitting for hydrogen evolution and CO2 reduction with SiCP4 allotrope monolayers   
+** Efficient photocatalytic overall water splitting for hydrogen evolution and CO2 reduction with SiCP4 allotrope monolayers  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391064993
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology, Two-Dimensional Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159440")][Get bibtex entry]] 
 
@@ -435,13 +543,17 @@ Abstract Electrocatalytic carbon dioxide reduction reaction (CO2RR) using tin ox
 
 OpenAlex: https://openalex.org/W4391064993 (Open access: False)
     
-[[https://openalex.org/A5051449133][Yi-tong Yin]], [[https://openalex.org/A5083167888][Chuan‐Lu Yang]], [[https://openalex.org/A5015983532][Xiaohu Li]], [[https://openalex.org/A5053333192][Yu‐Liang Liu]], [[https://openalex.org/A5067960438][Wenkai Zhao]], Applied Surface Science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.159440 
+[[https://openalex.org/A5051449133][Yi-tong Yin]], [[https://openalex.org/A5083167888][Chuan‐Lu Yang]], [[https://openalex.org/A5015983532][Xiaohu Li]], [[https://openalex.org/A5053333192][Yu‐Liang Liu]], [[https://openalex.org/A5067960438][Wenkai Zhao]], Applied Surface Science. 654(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.159440 
      
 Two-dimensional metal-free photocatalysts are catching the attention of researchers. Here, we present several allotrope SiCP4 monolayers with high stability, high carrier mobility, and excellent photocatalytic performance. Using a searching method based on the universal structure predictor evolutionary xtallography, together with assessing the energy and thermodynamic stabilities, and matching the potentials of band edges with the photocatalytic conditions for achieving overall water splitting, we successfully identify 5 highly favorable configurations (including the previously reported one) from a pool of 1056 allotrope SiCP4 monolayers. The results show that the largest solar-to-hydrogen efficiency of the considered monolayers can reach 21.89 %, while a high mobility of 2.7677 × 105 cm2 V−1 s−1 is observed, both are superior to those of the previously reported one. The Gibbs free energies for hydrogen or oxygen evolutions, and CO2 reduction reactions indicate they are thermodynamically feasible. Moreover, the hydrogen evolution reaction can proceed spontaneously with two allotrope SiCP4 monolayers. Therefore, the newfound allotrope SiCP4 monolayers are expected to have potential applications in the field of photocatalytic water splitting for hydrogen generation and carbon dioxide reduction.    
 
     
 
-** Redox Processes Involving Oxygen: The Surprising Influence of Redox-Inactive Lewis Acids   
+** Redox Processes Involving Oxygen: The Surprising Influence of Redox-Inactive Lewis Acids  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391100399
+:TOPICS: Dioxygen Activation at Metalloenzyme Active Sites, Molecular Mechanisms of Photosynthesis and Photoprotection, Role of Porphyrins and Phthalocyanines in Materials Chemistry
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacsau.3c00675")][Get bibtex entry]] 
 
@@ -457,23 +569,11 @@ Metalloenzymes with heteromultimetallic active sites perform chemical reactions 
 
     
 
-** Pulse Electrolysis Turns on CO2 Methanation through N‐Confused Cupric Porphyrin   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202315922")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391358933"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391358933"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391358933"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391358933 (Open access: False)
-    
-[[https://openalex.org/A5088850707][Han‐Xun Wei]], [[https://openalex.org/A5073096623][Xiao Feng Li]], [[https://openalex.org/A5042955462][Zhendong Zheng]], [[https://openalex.org/A5052313810][Huadong Yuan]], [[https://openalex.org/A5005852469][Long Xiao]], [[https://openalex.org/A5019954363][Kun Feng]], [[https://openalex.org/A5018047125][Jingshu Hui]], [[https://openalex.org/A5032261407][Zhao Deng]], [[https://openalex.org/A5038560095][Mutian Ma]], [[https://openalex.org/A5039059630][Jian Cheng]], [[https://openalex.org/A5032562076][Daqi Song]], [[https://openalex.org/A5020812796][Fenglei Lyu]], [[https://openalex.org/A5010968064][Jun Zhong]], [[https://openalex.org/A5089647465][Yang Peng]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202315922 
-     
-Breaking the D4h symmetry in the square‐planar M‐N4 configuration of macrocycle molecular catalysts has witnessed enhanced electrocatalytic activity, but at the expense of electrochemical stability. Herein, we hypothesize that the lability of the active Cu‐N3 motifs in the N‐confused copper (II) tetraphenylporphyrin (CuNCP) could be overcome by applying pulsed potential electrolysis (PPE) during electrocatalytic carbon dioxide reduction. We find that applying PPE can indeed enhance the CH4 selectivity on CuNCP by 3 folds to reach the partial current density of 170 mA cm‐2 at >60% Faradaic efficiency (FE) in flow cell. However, combined ex‐situ X‐ray diffraction (XRD), transmission electron microscope (TEM), and in‐situ X‐ray absorption spectroscopy (XAS), infrared (IR), Raman, scanning electrochemical microscopy (SECM) characterizations reveal that, in a prolonged time scale, the decomplexation of CuNCP is unavoidable, and the promoted water dissociation under high anodic bias with lowered pH and enriched protons facilitates successive hydrogenation of *CO on the irreversibly reduced Cu nanoparticles, leading to the improved CH4 selectivity. As a key note, this study signifies the adaption of electrolytic protocol to the catalyst structure for tailoring local chemical environment towards efficient CO2 reduction.    
-
-    
-
-** Improved Production of Astaxanthin from Haematococcus pluvialis Using a Hybrid Open–Closed Cultivation System   
+** Improved Production of Astaxanthin from Haematococcus pluvialis Using a Hybrid Open–Closed Cultivation System  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391316403
+:TOPICS: Microalgae as a Source for Biofuels Production, Eutrophication and Harmful Algal Blooms
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/app14031104")][Get bibtex entry]] 
 
@@ -489,7 +589,11 @@ Haematococcus species are rich sources of the antioxidant astaxanthin and have g
 
     
 
-** Pulse Electrolysis Turns on CO2 Methanation through N‐Confused Cupric Porphyrin   
+** Pulse Electrolysis Turns on CO2 Methanation through N‐Confused Cupric Porphyrin  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391359092
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Applications of Ionic Liquids
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202315922")][Get bibtex entry]] 
 
@@ -505,7 +609,31 @@ Breaking the D4h symmetry in the square‐planar M‐N4 configuration of macrocy
 
     
 
-** Interfacial microenvironment effects on electrochemical CO2 reduction   
+** Pulse Electrolysis Turns on CO2 Methanation through N‐Confused Cupric Porphyrin  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391358933
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Applications of Ionic Liquids
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202315922")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391358933"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391358933"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391358933"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391358933 (Open access: False)
+    
+[[https://openalex.org/A5088850707][Han‐Xun Wei]], [[https://openalex.org/A5073096623][Xiao Feng Li]], [[https://openalex.org/A5042955462][Zhendong Zheng]], [[https://openalex.org/A5052313810][Huadong Yuan]], [[https://openalex.org/A5005852469][Long Xiao]], [[https://openalex.org/A5019954363][Kun Feng]], [[https://openalex.org/A5018047125][Jingshu Hui]], [[https://openalex.org/A5032261407][Zhao Deng]], [[https://openalex.org/A5038560095][Mutian Ma]], [[https://openalex.org/A5039059630][Jian Cheng]], [[https://openalex.org/A5032562076][Daqi Song]], [[https://openalex.org/A5020812796][Fenglei Lyu]], [[https://openalex.org/A5010968064][Jun Zhong]], [[https://openalex.org/A5089647465][Yang Peng]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202315922 
+     
+Breaking the D4h symmetry in the square‐planar M‐N4 configuration of macrocycle molecular catalysts has witnessed enhanced electrocatalytic activity, but at the expense of electrochemical stability. Herein, we hypothesize that the lability of the active Cu‐N3 motifs in the N‐confused copper (II) tetraphenylporphyrin (CuNCP) could be overcome by applying pulsed potential electrolysis (PPE) during electrocatalytic carbon dioxide reduction. We find that applying PPE can indeed enhance the CH4 selectivity on CuNCP by 3 folds to reach the partial current density of 170 mA cm‐2 at >60% Faradaic efficiency (FE) in flow cell. However, combined ex‐situ X‐ray diffraction (XRD), transmission electron microscope (TEM), and in‐situ X‐ray absorption spectroscopy (XAS), infrared (IR), Raman, scanning electrochemical microscopy (SECM) characterizations reveal that, in a prolonged time scale, the decomplexation of CuNCP is unavoidable, and the promoted water dissociation under high anodic bias with lowered pH and enriched protons facilitates successive hydrogenation of *CO on the irreversibly reduced Cu nanoparticles, leading to the improved CH4 selectivity. As a key note, this study signifies the adaption of electrolytic protocol to the catalyst structure for tailoring local chemical environment towards efficient CO2 reduction.    
+
+    
+
+** Interfacial microenvironment effects on electrochemical CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057924
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Applications of Ionic Liquids
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.148944")][Get bibtex entry]] 
 
@@ -521,7 +649,11 @@ Electrochemical reduction of carbon dioxide (ECR) powered by renewable energy ha
 
     
 
-** Photocatalytic CO2 reduction co‐catalyzed by ionic liquids   
+** Photocatalytic CO2 reduction co‐catalyzed by ionic liquids  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391218414
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Photocatalytic Materials for Solar Energy Conversion
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cctc.202301454")][Get bibtex entry]] 
 
@@ -537,7 +669,11 @@ Efficiently generating C1 building blocks from environmentally friendly carbon s
 
     
 
-** Electrochemical Water Oxidation and CO2 Reduction with a Nickel Molecular Catalyst   
+** Electrochemical Water Oxidation and CO2 Reduction with a Nickel Molecular Catalyst  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391175526
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/molecules29030578")][Get bibtex entry]] 
 
@@ -553,23 +689,11 @@ Mimicking the photosynthesis of green plants to combine water oxidation with CO2
 
     
 
-** Electrochemical CO2 reduction properties of boron-doped diamond powder   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.diamond.2024.110821")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391074415"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391074415"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391074415"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391074415 (Open access: False)
-    
-[[https://openalex.org/A5087328578][Yudai Miyake]], [[https://openalex.org/A5011491287][Takeshi Kondo]], [[https://openalex.org/A5025835486][Atsushi Otake]], [[https://openalex.org/A5054069544][Yasuaki Einaga]], [[https://openalex.org/A5035857145][Takeo Tojo]], [[https://openalex.org/A5058873695][Makoto Yuasa]], Diamond and Related Materials. 142(None)] 2024. https://doi.org/10.1016/j.diamond.2024.110821 
-     
-The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at −1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.    
-
-    
-
-** Recent Progress in Electrochemical CO2 Reduction at Different Electrocatalyst Materials   
+** Recent Progress in Electrochemical CO2 Reduction at Different Electrocatalyst Materials  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391384166
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/pr12020303")][Get bibtex entry]] 
 
@@ -585,7 +709,31 @@ Given the environmental problems caused by burning fossil fuels, it is believed 
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Electrochemical CO2 reduction properties of boron-doped diamond powder  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391074415
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.diamond.2024.110821")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391074415"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391074415"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391074415"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391074415 (Open access: False)
+    
+[[https://openalex.org/A5087328578][Yudai Miyake]], [[https://openalex.org/A5011491287][Takeshi Kondo]], [[https://openalex.org/A5025835486][Atsushi Otake]], [[https://openalex.org/A5054069544][Yasuaki Einaga]], [[https://openalex.org/A5035857145][Takeo Tojo]], [[https://openalex.org/A5058873695][Makoto Yuasa]], Diamond and Related Materials. 142(None)] 2024. https://doi.org/10.1016/j.diamond.2024.110821 
+     
+The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at −1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.    
+
+    
+
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057005
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/review3")][Get bibtex entry]] 
 
@@ -601,7 +749,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057105
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/review5")][Get bibtex entry]] 
 
@@ -617,7 +769,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057004
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/review1")][Get bibtex entry]] 
 
@@ -633,7 +789,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057130
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/review3")][Get bibtex entry]] 
 
@@ -649,7 +809,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057123
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/review2")][Get bibtex entry]] 
 
@@ -665,7 +829,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057107
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/review4")][Get bibtex entry]] 
 
@@ -681,7 +849,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391056983
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/review1")][Get bibtex entry]] 
 
@@ -697,7 +869,11 @@ No abstract
 
     
 
-** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057020
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Infrared Detector Technologies
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/review2")][Get bibtex entry]] 
 
@@ -713,23 +889,11 @@ No abstract
 
     
 
-** Progress in design and preparation of multi-atom catalysts for photocatalytic CO2 reduction   
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40843-023-2698-5")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391035964"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391035964"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391035964"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391035964 (Open access: True)
-    
-[[https://openalex.org/A5034762794][Zhonghao Wang]], [[https://openalex.org/A5078365590][Guojun Zou]], [[https://openalex.org/A5017792494][Jae Hyung Park]], [[https://openalex.org/A5072000825][Kan Zhang]], Science China Materials. None(None)] 2024. https://doi.org/10.1007/s40843-023-2698-5  ([[https://link.springer.com/content/pdf/10.1007/s40843-023-2698-5.pdf][pdf]])
-     
-Photocatalytic CO2 reduction towards various fuels is of significant interest under the background of mitigating the global warming induced by CO2 emission and lowering the depletion of fossil fuels. However, state-of-the-art photocatalysts still suffer from sluggish reaction dynamics and frustrated product selectivity, especially for C2+ generations, which are of great interest for industrial applications. Over the past decades, comprehensive research on solar-driven CO2 reduction has consistently unveiled some encouraging results in meaningful pathways and architectural design of active sites over photocatalysts. This review highlights the recent advances in boosting photocatalytic CO2 reduction of atomically dispersed catalysts via engineered active sites, including two separated active sites, paired dual-active sites, and nanoclusters based on the configuration of active sites. Both the mechanism of CO2 activation over active sites and advanced characterization methods are discussed in detail. Particularly, in consideration of the wide gap between fundamental research and practical applications, the integrations of experimental and theoretical results are analyzed to realize the underlying structure-activity relationships as well as promising selectivity toward target products. Finally, the remaining challenges in the field are outlined, and inquisitive perspectives with a focus on the rational design of active sites and mechanistic investigation are proposed.    
-
-    
-
-** Boosting the photocatalytic CO2 reduction activity of g-C3N4 by acid modification   
+** Boosting the photocatalytic CO2 reduction activity of g-C3N4 by acid modification  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391293841
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes)
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.seppur.2024.126577")][Get bibtex entry]] 
 
@@ -745,7 +909,11 @@ Graphitic carbon nitride (g-C3N4 denoted as CN) is a typical organic polymeric s
 
     
 
-** Carbon nitride based nanoarchitectonics for nature-inspired photocatalytic CO2 reduction   
+** Carbon nitride based nanoarchitectonics for nature-inspired photocatalytic CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391065107
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology, Emergent Phenomena at Oxide Interfaces
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.pmatsci.2024.101242")][Get bibtex entry]] 
 
@@ -761,23 +929,31 @@ Drawing inspiration from the natural process of photosynthesis found in plant le
 
     
 
-** Author response for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Progress in design and preparation of multi-atom catalysts for photocatalytic CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391035964
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Carbon Dioxide Utilization for Chemical Synthesis
+:END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/response1")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40843-023-2698-5")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391057062"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391057062"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391057062"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391035964"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391035964"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391035964"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391057062 (Open access: False)
+OpenAlex: https://openalex.org/W4391035964 (Open access: True)
     
-[[https://openalex.org/A5013522313][John Cruz]], [[https://openalex.org/A5043425264][Anna Balog]], [[https://openalex.org/A5030958308][Péter S. Tóth]], [[https://openalex.org/A5090655937][Gábor Bencsik]], [[https://openalex.org/A5001143524][Gergely F. Samu]], [[https://openalex.org/A5075233752][Csaba Janáky]], No host. None(None)] 2023. https://doi.org/10.1039/d3ey00222e/v2/response1 
+[[https://openalex.org/A5034762794][Zhonghao Wang]], [[https://openalex.org/A5078365590][Guojun Zou]], [[https://openalex.org/A5017792494][Jae Hyung Park]], [[https://openalex.org/A5072000825][Kan Zhang]], Science China Materials. None(None)] 2024. https://doi.org/10.1007/s40843-023-2698-5  ([[https://link.springer.com/content/pdf/10.1007/s40843-023-2698-5.pdf][pdf]])
      
-No abstract    
+Photocatalytic CO2 reduction towards various fuels is of significant interest under the background of mitigating the global warming induced by CO2 emission and lowering the depletion of fossil fuels. However, state-of-the-art photocatalysts still suffer from sluggish reaction dynamics and frustrated product selectivity, especially for C2+ generations, which are of great interest for industrial applications. Over the past decades, comprehensive research on solar-driven CO2 reduction has consistently unveiled some encouraging results in meaningful pathways and architectural design of active sites over photocatalysts. This review highlights the recent advances in boosting photocatalytic CO2 reduction of atomically dispersed catalysts via engineered active sites, including two separated active sites, paired dual-active sites, and nanoclusters based on the configuration of active sites. Both the mechanism of CO2 activation over active sites and advanced characterization methods are discussed in detail. Particularly, in consideration of the wide gap between fundamental research and practical applications, the integrations of experimental and theoretical results are analyzed to realize the underlying structure-activity relationships as well as promising selectivity toward target products. Finally, the remaining challenges in the field are outlined, and inquisitive perspectives with a focus on the rational design of active sites and mechanistic investigation are proposed.    
 
     
 
-** Boosting effect of encapsulated polyoxometalates in the photocatalytic CO2 reduction activity of MOF-545   
+** Boosting effect of encapsulated polyoxometalates in the photocatalytic CO2 reduction activity of MOF-545  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391010819
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Chemistry and Applications of Metal-Organic Frameworks, Polyoxometalate Clusters and Materials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
 
@@ -793,7 +969,11 @@ No abstract
 
     
 
-** Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057087
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v1/decision1")][Get bibtex entry]] 
 
@@ -809,7 +989,31 @@ No abstract
 
     
 
-** Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"   
+** Author response for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057062
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/response1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391057062"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391057062"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391057062"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391057062 (Open access: False)
+    
+[[https://openalex.org/A5013522313][John Cruz]], [[https://openalex.org/A5043425264][Anna Balog]], [[https://openalex.org/A5030958308][Péter S. Tóth]], [[https://openalex.org/A5090655937][Gábor Bencsik]], [[https://openalex.org/A5001143524][Gergely F. Samu]], [[https://openalex.org/A5075233752][Csaba Janáky]], No host. None(None)] 2023. https://doi.org/10.1039/d3ey00222e/v2/response1 
+     
+No abstract    
+
+    
+
+** Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391057006
+:TOPICS: Thin-Film Solar Cell Technology, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ey00222e/v2/decision1")][Get bibtex entry]] 
 
@@ -825,7 +1029,11 @@ No abstract
 
     
 
-** Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction   
+** Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391151075
+:TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.159501")][Get bibtex entry]] 
 
@@ -841,7 +1049,11 @@ Strain engineering is a powerful approach to tuning the electrocatalytic propert
 
     
 
-** Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction   
+** Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391188424
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Catalytic Nanomaterials
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.173589")][Get bibtex entry]] 
 
@@ -857,7 +1069,11 @@ A simple photodeposition method is used to prepare Cu and Au nanoparticles modif
 
     
 
-** Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites   
+** Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391077147
+:TOPICS: Polyoxometalate Clusters and Materials, Photocatalytic Materials for Solar Energy Conversion, Nanomaterials with Enzyme-Like Characteristics
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
 
