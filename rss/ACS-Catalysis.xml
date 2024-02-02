@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:39:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Indole Synthesis by Cobalt-Catalyzed Intramolecular Amidation via the Oxidatively Induced Reductive Elimination Pathway</title>
-      <link>https://doi.org/10.1021/acscatal.3c05706</link>
-      <description>Aleksandrs Cizikovs, Emils E. Basens, Paula A. Zagorska, Artis Kin&#275;ns, Liene Grigorjeva, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390938469
-
-                C&#8211;H bond activation and functionalization using high-valent cobalt catalysis typically involves a Co(III)/Co(I) catalytic cycle. Because of the lack of evidence and challenges associated with the high reactivity and instability of Co(IV) intermediates, reports on the C&#8211;H functionalization mechanism investigation involving Co(IV) intermediacy are still underexplored. Herein, we report an efficient synthesis of indole-2-carboxylic esters via intramolecular amidation of &#945;-amidoacrylates and experimental and computational studies of the reaction mechanism, which involves oxidatively induced reductive elimination from Co(IV) species.</description>
-      <author>Aleksandrs Cizikovs, Emils E. Basens, Paula A. Zagorska, Artis Kin&#275;ns, Liene Grigorjeva</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05706</guid>
-    </item>
-    <item>
-      <title>Understanding the Hydrothermal Stability of Potential NH&lt;sub&gt;3&lt;/sub&gt;-SCR Catalyst Cu-KFI Zeolite</title>
-      <link>https://doi.org/10.1021/acscatal.3c05155</link>
-      <description>Zhongqi Liu, Yu Fu, Yulong Shan, Tongliang Zhang, Yingjie Wang, Junjie Du, Yangyang Sun, Guo&#8208;Zhong He, Hong He, Yunbo Yu, Hong He, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390938490
-
-                Al-rich Cu-KFI was found to withstand hydrothermal aging (HTA) at 800 &#176;C, while Cu-CHA with a similar Si/Al ratio was deactivated since a much higher energy barrier was required to transform Cu2+ ions to CuOx during HTA in KFI. Specifically, the rate-determining step is the hydrolysis of Cu2+ in KFI but the cross-cage migration of Cu(OH)2 in CHA. Therefore, the inclusion of two Cu2+ ions in one repeat unit of KFI does not significantly promote CuOx production. However, the accumulated CuOx cannot be completely avoided under such severe hydrothermal aging. It may originate from Cu2+ in the same cage or adjacent cages. This shorter diffusion effectively mitigated the structural integrity deterioration of KFI in comparison to CHA. Nevertheless, HTA reduced the number as well as the reactivity of residual Cu2+ ions in Cu-KFI zeolite catalysts. Quantitative results determined that the activity and stability of the catalyst were maximized when the average lta cage contained about 1.4 Cu2+ ions.</description>
-      <author>Zhongqi Liu, Yu Fu, Yulong Shan, Tongliang Zhang, Yingjie Wang, Junjie Du, Yangyang Sun, Guo&#8208;Zhong He, Hong He, Yunbo Yu, Hong He</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05155</guid>
-    </item>
     <item>
       <title>Iron(I) and Iron(II) Amido-imidazolin-2-imine Complexes as Catalysts for H/D Exchange in Hydrosilanes</title>
       <link>https://doi.org/10.1021/acscatal.3c05355</link>
@@ -50,10 +30,10 @@
     <item>
       <title>Asymmetric Cascade Cyclization of Enynamides with Photogenerated Ketenes via Relay Gold and &lt;i&gt;N&lt;/i&gt;-Oxide Catalysis</title>
       <link>https://doi.org/10.1021/acscatal.3c05731</link>
-      <description>Dan Li&#250;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974006
+      <description>Dan Li&#365;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974006
 
                 An asymmetric cascade cyclization of enynamides and &#945;-diazoketones to produce chiral bicyclic lactams bearing chiral all-carbon quaternary stereocenters is realized with up to 95% yield, 98% ee, and &gt;19:1 dr. The combination of visible light photoactivation and the relay of gold and N-oxide catalysis in a cascade process enabled the facile generation and controlled assembly of two reactive intermediates, ketene and aza-o-quinone methide. Theoretical calculations revealed a stepwise [4 + 2] cycloaddition mechanism, with the stereochemistry controlled by the amide group of the catalyst. Remarkably, this study presents the first example of chiral N-oxides serving as catalysts for asymmetric ketene cycloaddition and illustrates how a cascade strategy could be a promising means to access significant chiral heterocyclic scaffolds.</description>
-      <author>Dan Li&#250;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao</author>
+      <author>Dan Li&#365;, Zhen&#8208;Cao Shu, Zhihan Zhang, Ze-Tian Wang, Liang Wang, Ming&#8208;Sheng Xie, Hai&#8208;Ming Guo, Liang&#8208;Qiu Lu, Wen&#8208;Jing Xiao</author>
       <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05731</guid>
     </item>
@@ -122,7 +102,7 @@
       <link>https://doi.org/10.1021/acscatal.3c05100</link>
       <description>Aleksandra Rudzka, Natalia Antos, Tamara Reiter, Wolfgang Kroutil, Pawe&#322; Borowiecki, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391025463
 
-                No abstract</description>
+                Chiral alcohols are versatile building blocks and are of particular interest in the asymmetric synthesis of nonracemic active pharmaceutical ingredients, agrochemicals, fragrances, flavors, natural products, etc. Herein, we report on a &#8220;one-pot sequential two-step&#8221; concurrent oxidation&#8211;reduction photobiocatalytic process to synthesize enantiomerically enriched alcohols. In this regard, an efficient photocatalytic system based on irradiation with 440 nm blue LEDs in the presence of 9-fluorenone as a metal-free photocatalyst and molecular oxygen as the terminal oxidant in dry DMSO as the hydrogen peroxide-neutralizing agent was used to oxidize a broad range of racemic (hetero)benzylic alcohols into prochiral ketones quantitively (&gt;99% conv.). The in situ formed carbonyl compounds were subsequently converted into the corresponding chiral alcohols via a sequential biocatalytic transhydrogenation catalyzed by lyophilized E. coli cells overexpressing highly stereoselective and stereocomplementary recombinant alcohol dehydrogenases (ADHs) originated from Rhodococcus ruber (E. coli/ADH-A) or Rhodococcus erythropolis (E. coli/ReADH) to obtain (S)-alcohols and Lactobacillus kefir (E. coli/Lk-ADH) or KRED-110 to obtain (R)-alcohols, respectively. Overall, the elaborated photobiocatalytic deracemization of racemic alcohols using a 9-fluorenone-O2-blue LED-DMSO-E. coli/ADH system carried out on a semipreparative scale (0.25 mmol; 63 mM final conc. in 4 mL) at room temperature yielded nonracemic aryl alcohols with 82&#8211;99.9% conv., in up to 92% isolated yield, with 97&#8211;99.9% ee and complementary chirality.</description>
       <author>Aleksandra Rudzka, Natalia Antos, Tamara Reiter, Wolfgang Kroutil, Pawe&#322; Borowiecki</author>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05100</guid>
@@ -138,21 +118,11 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04480</guid>
     </item>
     <item>
-      <title>The Impact of Oxygen Surface Coverage and Carbidic Carbon on the Activity and Selectivity of Two-Dimensional Molybdenum Carbide (2D-Mo&lt;sub&gt;2&lt;/sub&gt;C) in Fischer&#8211;Tropsch Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.3c03956</link>
-      <description>Evgenia Kountoupi, Alan J. Barrios, Zixuan Chen, Christoph R. M&#252;ller, Vitaly V. Ordomsky, Aleix Comas&#8208;Vives, Alexey Fedorov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391025708
-
-                Transformations of oxygenates (CO2, CO, H2O, etc.) via Mo2C-based catalysts are facilitated by the high oxophilicity of the material; however, this can lead to the formation of oxycarbides and complicate the identification of the (most) active catalyst state and active sites. In this context, the two-dimensional (2D) MXene molybdenum carbide Mo2CTx (Tx are passivating surface groups) contains only surface Mo sites and is therefore a highly suitable model catalyst for structure&#8211;activity studies. Here, we report that the catalytic activity of Mo2CTx in Fischer&#8211;Tropsch (FT) synthesis increases with a decreasing coverage of surface passivating groups (mostly O*). The in situ removal of Tx species and its consequence on CO conversion is highlighted by the observation of a very pronounced activation of Mo2CTx (pretreated in H2 at 400 &#176;C) under FT conditions. This activation process is ascribed to the in situ reductive defunctionalization of Tx groups reaching a catalyst state that is close to 2D-Mo2C (i.e., a material containing no passivating surface groups). Under steady-state FT conditions, 2D-Mo2C yields higher hydrocarbons (C5+ alkanes) with 55% selectivity. Alkanes up to the kerosine range form, with value of &#945; = 0.87, which is ca. twice higher than the &#945; value reported for 3D-Mo2C catalysts. The steady-state productivity of 2D-Mo2C to C5+ hydrocarbons is ca. 2 orders of magnitude higher relative to a reference &#946;-&#924;o2C catalyst that shows no in situ activation under identical FT conditions. The passivating Tx groups of Mo2CTx can be reductively defunctionalized also by using a higher H2 pretreatment temperature of 500 &#176;C. Yet, this approach leads to a removal of carbidic carbon (as methane), resulting in a 2D-Mo2C1&#8211;x catalyst that converts CO to CH4 with 61% selectivity in preference to C5+ hydrocarbons that are formed with only 2% selectivity. Density functional theory (DFT) results attribute the observed selectivity of 2D-Mo2C to C5+ alkanes to a higher energy barrier for the hydrogenation of surface alkyl species relative to the energy barriers for C&#8211;C coupling. The removal of O* is the rate-determining step in the FT reaction over 2D-Mo2C, and O* is favorably removed in the form of CO2 relative to H2O, consistent with the observation of a high CO2 selectivity (ca. 50%). The absence of other carbon oxygenates is explained by the energetic favoring of the direct over the hydrogen-assisted dissociative adsorption of CO.</description>
-      <author>Evgenia Kountoupi, Alan J. Barrios, Zixuan Chen, Christoph R. M&#252;ller, Vitaly V. Ordomsky, Aleix Comas&#8208;Vives, Alexey Fedorov</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c03956</guid>
-    </item>
-    <item>
       <title>Partially Bonded Aluminum Site on the External Surface of Post-treated Au/ZSM-5 Enhances Methane Oxidation to Oxygenates</title>
       <link>https://doi.org/10.1021/acscatal.3c05030</link>
       <description>Jun Cao, Guodong Qi, Bingqing Yao, Qian He, Richard J. Lewis, Lu Xu, Feng Deng, Jun Xu, Graham J. Hutchings, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391026262
 
-                No abstract</description>
+                Au nanoparticles supported on the exterior surface of the ZSM-5 zeolite (Au/ZSM-5) have shown the ability to partially oxidize methane to methanol and acetic acid. However, further improvements to the catalyst activity are required. This study investigates the effect of modifying the acidic properties of the ZSM-5 support through a desilication&#8211;recrystallization (DR) process on the activity of Au/ZSM-5 catalysts toward methane oxidation. A DR treatment of 24 h leads to a 50% higher oxygenate yield compared to the analogous catalyst prepared using the untreated support. Characterization using solid-state 27Al NMR and FTIR adsorption of pyridine and 2,4,6-trimethylpyridine reveals that DR induces framework dealumination and redistribution of Br&#248;nsted acid sites to the zeolite external surface. Two-dimensional 27Al MQMAS NMR further identifies partially coordinated framework Al sites on the zeolite surface, correlating with a higher oxygenate yield. These external acid sites help stabilize the Au nanoparticles, enhancing catalyst stability for methane partial oxidation.</description>
       <author>Jun Cao, Guodong Qi, Bingqing Yao, Qian He, Richard J. Lewis, Lu Xu, Feng Deng, Jun Xu, Graham J. Hutchings</author>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05030</guid>
@@ -180,10 +150,10 @@
     <item>
       <title>Unveiling the Full Dynamical and Reactivity Profiles of Acetylcholinesterase: A Comprehensive All-Atom Investigation</title>
       <link>https://doi.org/10.1021/acscatal.3c05560</link>
-      <description>Fr&#233;deric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391030933
+      <description>Fr&#233;d&#233;ric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391030933
 
                 Acetylcholinesterase is one of the most significant known serine hydrolases that governs the mammalian nervous system. Its high-rate speed, operating at the diffusion limit, combined with its buried active site feature, has made it a subject of extensive research over the last decades. Despite several studies focused on atomistic details of the different steps, a comprehensive theoretical investigation of the entire catalytic cycle has not yet been reported. In this work, we present an intuitive workflow aiming at describing the full dynamical and reactive profiles of AChE by coupling extensive steered molecular dynamics simulations for ligand diffusion and hybrid quantum mechanics/molecular mechanics computations to decipher the complete reactivity of the substrate within the enzyme. This comprehensive approach provides a broader view of the interconnections between each step that would not be readily accessible if the two steps were studied independently. Our simulations reveal that although individual steps do not indicate any strong limiting step, a solvent water molecule reorganization between the acylation and deacylation processes through the reactivity results in an energy cost of 20 kcal/mol. The observed barrier surpasses all others and discloses insights into a strong polarization effect acting on water molecules near the active site. An AMOEBA polarizable molecular dynamics simulation tends to confirm this assumption by capturing a substantial dipole moment (3.10 D) on the water molecule closest to the reaction site. These results shed light on the crucial correlation between this high-energy water reorganization and the polarization of confined water molecules. Consequently, carefully considering and modeling buried (polarizable) water molecules are of paramount importance when modeling full enzymatic activity. Therefore, this work will also provide valuable insights for future research on related enzymes with buried active sites.</description>
-      <author>Fr&#233;deric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat</author>
+      <author>Fr&#233;d&#233;ric C&#233;lerse, Louis Lagard&#232;re, Yasmine Bouchibti, Florian Nachon, Laurent Verdier, Jean&#8208;Philip Piquemal, &#201;tienne Derat</author>
       <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05560</guid>
     </item>
@@ -228,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05094</guid>
     </item>
     <item>
+      <title>Photoexcited Nickel-Catalyzed Carbohalogenation</title>
+      <link>https://doi.org/10.1021/acscatal.3c05994</link>
+      <description>Ramon Arora, Mark Lautens, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391096631
+
+                A nickel/blue light-catalyzed carbohalogenation reaction is reported. A nickel catalyst and an inexpensive phosphine ligand promote the reaction of aryl iodides and aryl bromides with &#960; systems to enable the construction of a library of halogenated heterocyclic scaffolds. Mechanistic studies provide insight regarding fundamental steps of the catalytic cycle, including the reversible C&#8211;X bond formation via deuterium labeling and EPR experiments, while preliminary enantioselective results suggest a two-electron migratory insertion.</description>
+      <author>Ramon Arora, Mark Lautens</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05994</guid>
+    </item>
+    <item>
       <title>Atomic Single-Layer Ir Clusters Enabling 100% Selective Chlorine Evolution Reaction</title>
       <link>https://doi.org/10.1021/acscatal.3c05738</link>
       <description>Shuang Li, Xu Guo, Xiaofang Liu, Jianglan Shui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391096719
@@ -236,6 +216,26 @@
       <author>Shuang Li, Xu Guo, Xiaofang Liu, Jianglan Shui</author>
       <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05738</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Iterative Dual-Metal and Energy Transfer Catalysis Enables Stereodivergence in Alkyne Difunctionalization: Carboboration as Case Study&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c00200</link>
+      <description>Javier Corpas, Miguel Gomez&#8208;Mendoza, Enrique M. Arpa, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Bo Durbeej, Juan C. Carretero, Pablo Maule&#243;n, Ram&#243;n Gom&#233;z Array&#225;s, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391096721
+
+                ADVERTISEMENT RETURN TO ARTICLES ASAPPREVCorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to &#8220;Iterative Dual-Metal and Energy Transfer Catalysis Enables Stereodivergence in Alkyne Difunctionalization: Carboboration as Case Study&#8221;Javier CorpasJavier CorpasMore by Javier Corpashttps://orcid.org/0000-0002-8598-578X, Miguel Gomez-MendozaMiguel Gomez-MendozaMore by Miguel Gomez-Mendoza, Enrique M. ArpaEnrique M. ArpaMore by Enrique M. Arpahttps://orcid.org/0000-0003-1288-6059, V&#237;ctor A. de la Pe&#241;a O&#8217;SheaV&#237;ctor A. de la Pe&#241;a O&#8217;SheaMore by V&#237;ctor A. de la Pe&#241;a O&#8217;Sheahttps://orcid.org/0000-0001-5762-4787, Bo DurbeejBo DurbeejMore by Bo Durbeejhttps://orcid.org/0000-0001-5847-1196, Juan C. CarreteroJuan C. CarreteroMore by Juan C. Carreterohttps://orcid.org/0000-0003-4822-5447, Pablo Maule&#243;n*Pablo Maule&#243;nMore by Pablo Maule&#243;nhttps://orcid.org/0000-0002-3116-2534, and Ram&#243;n G&#243;mez Array&#225;s*Ram&#243;n G&#243;mez Array&#225;sMore by Ram&#243;n G&#243;mez Array&#225;shttps://orcid.org/0000-0002-5665-0905Cite this: ACS Catal. 2024, 14, XXX, 1976Publication Date (Web):January 22, 2024Publication History Received10 January 2024Published online22 January 2024https://doi.org/10.1021/acscatal.4c00200&#169; 2024 The Authors. Published by American Chemical Society. This publication is licensed under CC-BY 4.0. License Summary*You are free to share (copy and redistribute) this article in any medium or format and to adapt (remix, transform, and build upon) the material for any purpose, even commercially within the parameters below:Creative Commons (CC): This is a Creative Commons license.Attribution (BY): Credit must be given to the creator.View full license*DisclaimerThis summary highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. Carefully review the actual license before using these materials. This publication is Open Access under the license indicated. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InReddit PDF (567 KB) Get e-AlertscloseSUBJECTS:Catalysis,Energy transfer,Hydrocarbons,Stereodivergence Get e-Alerts</description>
+      <author>Javier Corpas, Miguel Gomez&#8208;Mendoza, Enrique M. Arpa, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Bo Durbeej, Juan C. Carretero, Pablo Maule&#243;n, Ram&#243;n Gom&#233;z Array&#225;s</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00200</guid>
+    </item>
+    <item>
+      <title>Subsurface Mo Vacancy in Bismuth Molybdate Promotes Photocatalytic Oxidation of Lactate to Pyruvate</title>
+      <link>https://doi.org/10.1021/acscatal.3c05263</link>
+      <description>Haijun Chen, Ruohan Xu, Dan Chen, Tianliang Lu, H. Li, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391096818
+
+                Disclosing the role of subsurface metal defects in photocatalysts remains challenging, although defect engineering has been a fundamental method for manipulating the photocatalytic transformation performance. Herein, the subsurface Mo vacancy-rich Bi2MoO6 was prepared and the role of its effects on photocatalysis was revealed. The presence of metal vacancy enhances the separation efficiency of photogenerated carriers through both the holes captured by the oxygen atoms neighboring the Mo vacancy and the generation of an internal electric field, which is revealed by experimental results and density functional theory calculations. The boosted separation efficiency of electron&#8211;hole pairs improves the generation of 1O2, which is the final active species for photocatalytic oxidation of ethyl lactate. The conversion of ethyl lactate reaches to &gt;99% over the subsurface Mo vacancy-rich Bi2MoO6 after 3 h of illumination, much higher than that of bulk Bi2MoO6, which gives only 28.6%. Meanwhile, the yield of ethyl pyruvate is 90.2%, which is the highest value in heterogeneous systems using molecular oxygen as oxidant. Moreover, the catalyst is rather stable and can be applied for the selective oxidation of other hydroxyl compounds. This work unveils the role of metal defects engineering in affecting electron&#8211;hole separation, highlighting possible opportunities for highly efficient photocatalytic organic transformation.</description>
+      <author>Haijun Chen, Ruohan Xu, Dan Chen, Tianliang Lu, H. Li, Min Wang</author>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05263</guid>
     </item>
     <item>
       <title>Boosting Artificial Photosynthesis: CO&lt;sub&gt;2&lt;/sub&gt; Chemisorption and S-Scheme Charge Separation via Anchoring Inorganic QDs on COFs</title>
@@ -248,14 +248,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00026</guid>
     </item>
     <item>
-      <title>In Situ Restructuring of ZnCr&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Spinel Catalyst Alters Elementary Surface Reaction Kinetics and Catalytic Selectivity in CO Hydrogenation Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c05739</link>
-      <description>Qiulin Nie, Jieqiong Ding, Dongdong Wang, Yang Liu, Wei Xiong, Yong Yang, Weixin Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391102226
+      <title>Unraveling Hydrogenation Kinetic Behavior of Transition Metal Oxides via Decoupling Dihydrogen Dissociation and Substrate Activation</title>
+      <link>https://doi.org/10.1021/acscatal.3c05175</link>
+      <description>Daowei Gao, Daowei Gao, Yipin Lv, Changxu Wang, Jianyu Ren, Peng Zheng, Lianghao Song, Aijun Duan, Xilong Wang, Guozhu Chen, Xu Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391101416
 
-                The CO hydrogenation reaction catalyzed by the ZnCr2O4 catalyst is studied using quasi-in situ XPS, temperature-programmed reaction spectroscopy, and temporal in situ diffuse reflectance Fourier transform infrared spectroscopy. At 573 K, the ZnCr2O4 catalyst selectively catalyzes the CH3OH formation reaction, in which the hydrogenation reaction of monodentate formate species is the rate-limiting step with an activation energy of approximately 60.5 kJ/mol. As the temperature increases to 673 K, CO2 and CH4 are produced at the expense of CH3OH, which can be attributed to in situ partial reduction of the ZnCr2O4 catalyst into metallic Zn. On one hand, the CO disproportionation reaction into CO2 and atomic carbon species occurs on the resulting metallic Zn, and the atomic carbon species is subsequently hydrogenated predominantly into CH4; on the other hand, the rate-limiting step of methanol synthesis on the resulting partially reduced ZnCr2O4 catalyst becomes the hydrogenation of the methoxy group with an activation energy of approximately 120.3 kJ/mol, considerably reducing the CH3OH formation rate. These results unveil that the changes in the elementary surface reaction network and the kinetics induced by in situ restructuring of the ZnCr2O4 catalyst in the CO hydrogenation reaction lead to the changes in catalytic selectivity.</description>
-      <author>Qiulin Nie, Jieqiong Ding, Dongdong Wang, Yang Liu, Wei Xiong, Yong Yang, Weixin Huang</author>
+                Both noble metals and transition metal oxides are recognized as active centers for alkyne hydrogenation. However, it is still a &#8220;black box&#8221; how the catalytic behavior of oxides evolves upon the catalytic intervention of noble metals. Herein, we report a modularized strategy to track the hydrogenation mechanism of oxides (e.g., TiO2, CeO2, and ZrO2) using a core&#8211;shell micromesoporous zeolite as a structure model, in which the oxide and noble metal (Pt) are functionally separated within a mesopore shell and a micropore core (TS-1 zeolite), respectively. The Pt species are atomically distributed and stabilized by the oxygen atoms of five-membered rings in TS-1 zeolite, which facilitates the heterolytic activation of dihydrogen over Pt&#948;+&#183;&#183;&#183;O2&#8211; units. The active hydrogen species, i.e., H+ and H&#948;&#8722;, migrate to the oxide surface, where the adsorbed reactants are activated for hydrogenation. Mechanistic studies reveal that TiO2, CeO2, and ZrO2 possess efficient hydrogenation properties at near-room temperature with the assistance of spillover hydrogen species, demonstrating dihydrogen dissociation as the main rate-limiting step for pure oxide. Impressively, the adsorbed H2O molecule on TiO2, ZrO2, and CeO2 not only acts as a bridge of hydrogen spillover in reducing the proton diffusion barrier but also forms H3O+ species on the TiO2 (100) surface and endows TiO2 with extraordinary hydrogenation properties. This work opens the &#8220;black box&#8221; for the hydrogenation behavior of transition metal oxides and develops a molecule-assisted strategy for the rational design of hydrogenation catalysts.</description>
+      <author>Daowei Gao, Daowei Gao, Yipin Lv, Changxu Wang, Jianyu Ren, Peng Zheng, Lianghao Song, Aijun Duan, Xilong Wang, Guozhu Chen, Xu Chen</author>
       <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05739</guid>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05175</guid>
     </item>
   </channel>
 </rss>

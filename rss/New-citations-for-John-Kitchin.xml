@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Feb 2024 00:39:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Data driven computational design of stable oxygen evolution catalysts by DFT and machine learning: Promising electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.jechem.2023.12.048</link>
-      <description>Hwanyeol Park, Yunseok Kim, Sang&#8208;Hoon Choi, Ho Jun Kim, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4390937419
-
-                The revolutionary development of machine learning (ML), data science, and analytics, coupled with its application in material science, stands as a significant milestone of the scientific community over the last decade. Investigating active, stable, and cost-efficient catalysts is crucial for oxygen evolution reaction owing to the significance in a range of electrochemical energy conversion processes. In this work, we have demonstrated an efficient approach of high-throughput screening to find stable transition metal oxides under acid condition for high-performance oxygen evolution reaction (OER) catalysts through density functional theory (DFT) calculation and a machine learning algorithm. A methodology utilizing both the Materials Project database and DFT calculations was introduced to assess the acid stability under specific reaction conditions. Building upon this, OER catalytic activity of acid-stable materials was examined, highlighting potential OER catalysts that meet the required properties. We identified IrO2, Fe(SbO3)2, Co(SbO3)2, Ni(SbO3)2, FeSbO4, Fe(SbO3)4, MoWO6, TiSnO4, CoSbO4, and Ti(WO4)2 as promising catalysts, several of which have already been experimentally discovered for their robust OER performance, while others are novel for experimental exploration, thereby broadening the chemical scope for efficient OER electrocatalysts. Descriptors of the bond length of TM&#8211;O and the first ionization energy were used to unveil the OER activity origin. From the calculated results, guidance has been derived to effectively execute advanced high-throughput screenings for the discovery of catalysts with favorable properties. Furthermore, the intrinsic correlation between catalytic performance and various atomic and structural factors was elucidated using the ML algorithm. Through these approaches, we not only streamline the choice of the promising electrocatalysts but also offer insights for the design of varied catalyst models and the discovery of superior catalysts.</description>
-      <author>Hwanyeol Park, Yunseok Kim, Sang&#8208;Hoon Choi, Ho Jun Kim</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2023.12.048</guid>
-    </item>
     <item>
       <title>Solvation Enthalpy Determination for Aqueous-Phase Reaction Adsorbates Using Ab Initio Molecular Dynamics-Based Structure Sampling</title>
       <link>https://doi.org/10.1021/acs.jpcc.3c06870</link>
@@ -40,11 +30,11 @@
     <item>
       <title>Review of acidic titanium-based oxygen evolution anode catalyst design: mechanistic, compositional design, and research status</title>
       <link>https://doi.org/10.1016/j.jallcom.2024.173576</link>
-      <description>Chuanbin Li, Tao Lin, Xiaotian Yuan, Hongzhou Jiang, Zhifang Hu, Yanxi Yin, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4390967206
+      <description>Chuanbin Li, Tao Lin, Xiaotian Yuan, Hongzhou Jiang, Zhifang Hu, Yanxi Yin, Journal of Alloys and Compounds. 979(None)] 2024. https://openalex.org/W4390967206
 
                 Oxygen evolution reaction (OER) is a key half-reaction in fields including water electrolysis, organic synthesis, and water treatment. With the development of the industry, research into highly active and stable oxygen evolution anodes in an acidic environment is essential. DSA is the dimensionally stable anode. Widespread attention has been paid to titanium-based DSAs in the field of acidic oxygen precipitation due to their low overpotential and high acid resistance. The titanium-based anode mainly consists of two parts: catalyst and titanium substrate, where the design of the catalyst is the key to the anode design. The factors affecting the catalytic activity and durability of the titanium-based DSA were heterogeneous and rarely reported. In this paper, the influence of catalytic mechanism and composition design on the catalytic activity and service life of anode is reviewed from the perspective of the catalyst. Then, the current situation related to anode preparation is summarized, and an improvement strategy to enhance the activity and stability of anode is proposed based on the failure mode of titanium-based DSA.</description>
       <author>Chuanbin Li, Tao Lin, Xiaotian Yuan, Hongzhou Jiang, Zhifang Hu, Yanxi Yin</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173576</guid>
     </item>
     <item>
@@ -60,11 +50,11 @@
     <item>
       <title>Single-Atom Pt&#8211;N4 Active Sites Anchored on Porous C3N4 Nanosheet for Boosting the Photocatalytic CO2 Reduction with Nearly 100% CO Selectivity</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.123737</link>
-      <description>Song Hu, Panzhe Qiao, Longzhou Xiao, Guiming Ba, Xiaolong Zu, Huilin Hu, Jinhua Ye, Defa Wang, Applied Catalysis B: Environmental. None(None)] 2024. https://openalex.org/W4390987109
+      <description>Song Hu, Panzhe Qiao, Longzhou Xiao, Guiming Ba, Xiaolong Zu, Huilin Hu, Jinhua Ye, Defa Wang, Applied Catalysis B: Environmental. 346(None)] 2024. https://openalex.org/W4390987109
 
                 Photoreduction of CO2 and H2O into fuels and value-added chemicals is a promising green technology for solar-to-chemical conversion. However, improving the conversion efficiency with regulated product selectivity is a big challenge due to the sluggish dynamic transfer and insufficient active sites. Herein, we report on Pt single atoms anchored porous C3N4 nanosheet photocatalyst (Pt1@CN) with Pt&#8211;N4 coordination for stable and efficient CO2 photoreduction using H2O as reductant. The Pt1@CN exhibits an evolution rate of 84.8 &#956;mol g&#8722;1 h&#8722;1 with nearly 100% CO selectivity, outperforming most previous C3N4-based single-atom photocatalysts. Experimental and DFT calculation results reveal that the Pt&#8211;N4 coordinated active sites promote the photogenerated electron transfer, CO2 adsorption/activation, *COOH generation, and *CO desorption, thus accounting for the significantly improved CO2 photoreduction activity with &#8764;100% CO selectivity. This study provides a deep insight into the significant roles of single-atom active sites in enhancing the CO2 photoreduction activity and regulating the product selectivity.</description>
       <author>Song Hu, Panzhe Qiao, Longzhou Xiao, Guiming Ba, Xiaolong Zu, Huilin Hu, Jinhua Ye, Defa Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123737</guid>
     </item>
     <item>
@@ -128,16 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159329</guid>
     </item>
     <item>
-      <title>Integrated anode with 3D electron/ion conductive network for stable lithium metal batteries</title>
-      <link>https://doi.org/10.1016/j.ensm.2024.103201</link>
-      <description>Ziqiang Liu, Xiao Fu, Zhendong Li, Dingcheng Guo, Zh&#233; Peng, Ruijuan Xiao, Xiayin Yao, Energy Storage Materials. 66(None)] 2024. https://openalex.org/W4391018604
-
-                Lithium metal anode has attracted increasing attention due to its ultra-high theoretical specific capacity and low redox potential. However, the severe interface problems caused by the parasitic reactions at the anode/separator interface greatly hinder its applications. Herein we design a 3D lithium&#8722;boron (LiB) fiber integrated lithium anode with polypropylene separator through the interfacial adhesive strategy with poly(vinylidene fluoride-co-hexafluoropropylene)-based polymer electrolyte. The 3D Li/LiB anode after chemical etching can increase the exchange current density to 36.8 mA cm&#8722;2, which is about 14 times the value of the pristine anode with 2.6 mA cm&#8722;2. Meanwhile, the poly(vinylidene fluoride-co-hexafluoropropylene)-based polymer electrolyte ensures high ionic conductivity and interfacial stability. Thus, the integrated anode with 3D electron/ion conductive network can guide Li deposition away from the unsafe anode/separator interface, and directly suppress the growth of lithium dendrites. As a result, the integrated anode with LiNi0.83Mn0.06Co0.11O2 cathode exhibits an excellent discharge capacity of 168.3 mAh g &#8722;1 at a high current density of 5 C. Besides, the rigid LiB skeleton coupling with flexible PVDF-HFP-based polymer electrolyte can effectively prevent the pulverization of lithium anode during long-term cycling, showing superior cycling stability of 1000 cycles at 1 C with a capacity retention of 76 %. This work provides a promising integrated anode for stable lithium metal batteries without lithium dendrite growth.</description>
-      <author>Ziqiang Liu, Xiao Fu, Zhendong Li, Dingcheng Guo, Zh&#233; Peng, Ruijuan Xiao, Xiayin Yao</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103201</guid>
-    </item>
-    <item>
       <title>Electrochemical water oxidation for hydrogen peroxide production: Focus on catalyst and reaction medium design</title>
       <link>https://doi.org/10.1016/j.jece.2024.111960</link>
       <description>Zhimin Gao, Ye Cao, Qiuzi Zhu, Cunshi Wang, Wangjun Bai, Jianzhong Zhu, Journal of Environmental Chemical Engineering. 12(2)] 2024. https://openalex.org/W4391018661
@@ -172,7 +152,7 @@
       <link>https://doi.org/10.1016/j.jechem.2024.01.016</link>
       <description>Mingyue Xiao, Xu Wang, Rongchao Li, Yanhui Sun, Jingjun Liu, Feng Li, Jianying Gan, Shixin Gao, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4391023139
 
-                No abstract</description>
+                Achieving composition tunability and structure editability of nanoalloys with high level strain may be an efficient strategy to remarkably boost catalytic performance toward oxygen evolution reaction (OER) in acidic water oxidation. Herein, lotus root-like RuIr alloys with native micro-strain were constructed by an epitaxial growth of Ru-richened hcp-(0001) branches on Ir-richened fcc-(111) seeds using a polyol thermal synthesis strategy. The resultant Ru60Ir40 alloy shows an OER overpotential of 197 mV at 10 mA cm&#8722;2 and a Tafel slope of 46.59 mV dec&#8722;1, showing no obvious activity decay for 80 h continuous chronopotentiometry test in 0.5 M H2SO4. The related characterizations including X-ray absorption fine structure (XAFS) spectroscopy and density functional theory (DFT) calculations show that that the remarkably improved activity of the lotus root-like alloy can be attributed to the (0001) facet-triggered strain, which can efficiently optimize the electronic band structure of the active metal and the weakening of the chemisorption of oxygen-containing substances to boost OER electrocatalysis. Therefore, this work provides a new strategy to designing a class of advanced electrocatalysts with high strain using diverse nanostructures as building materials for carbon-free clean energy conversion systems.</description>
       <author>Mingyue Xiao, Xu Wang, Rongchao Li, Yanhui Sun, Jingjun Liu, Feng Li, Jianying Gan, Shixin Gao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.01.016</guid>
@@ -258,6 +238,26 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s12598-023-02531-6</guid>
     </item>
     <item>
+      <title>Controlled doping of ultralow amounts Ru on Ni cathode for PEMWE: Experimental and theoretical elucidation of enhanced performance</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.123738</link>
+      <description>Kyeong-Rim Yeo, Ho-Young Kim, Kug&#8208;Seung Lee, Seongbeen Kim, Jinwoo Lee, Haesun Park, Soo&#8208;Kil Kim, Applied Catalysis B: Environmental. 346(None)] 2024. https://openalex.org/W4391055438
+
+                Proton exchange membrane water electrolysis (PEMWE) is an environmentally benign technology for large-scale hydrogen production. Despite many catalysts being developed to replace Pt, successful development of low-cost catalysts that meet the balance of performance and durability is limited. In this work, atomically dispersed Ru on Ni catalyst-integrated porous transport electrodes were fabricated by a simple electrodeposition. With a trace amount of Ru (&lt; 0.05 mgRu&#183;cm&#8722;2), the Ni98.1Ru1.9 cathode catalyst exhibited an overpotential of 35 mV at &#8211;10 mA&#183;cm&#8722;2 with excellent stability. Density functional theory calculation revealed that the high performance was driven by optimized adsorption strength and improved mobility of hydrogen on the catalyst surface. The Ni98.1Ru1.9 electrode was further verified in a PEMWE cell and resulting performance (6.0 A&#183;cm&#8722;2 at 2.25 Vcell) and stability (0.13 mV&#183;h&#8722;1 decay rate at 1 A&#183;cm&#8722;2) surpassed previously reported non-Pt and even Pt electrodes, demonstrating its readiness as an advanced cathode to replace Pt.</description>
+      <author>Kyeong-Rim Yeo, Ho-Young Kim, Kug&#8208;Seung Lee, Seongbeen Kim, Jinwoo Lee, Haesun Park, Soo&#8208;Kil Kim</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123738</guid>
+    </item>
+    <item>
+      <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.148944</link>
+      <description>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391057924
+
+                Electrochemical reduction of carbon dioxide (ECR) powered by renewable energy has the potential to utilize the intermittent renewable electric energy, alleviate the problem of excessive CO2 emissions and yield high value-added chemicals. Despite the intrinsic activity of the well-designed catalysts, subtle changes in the electrode&#8211;electrolyte interface will have a significant impact on the overall reaction. The electrode and its microenvironment together determine the ECR performance. Revealing the relationship between the microenvironment of the catalyst-electrolyte interface and the ECR performance is critical for explaining the reaction mechanism and controlling the reaction process accurately. To maximize the catalytic performance includes the activity, selectivity and stability, the fundamental understanding of the interfacial microenvironment should be clarified as important as the intrinsic properties of the catalyst. Researches on the microenvironment in ECR have been gradually launched while the comprehensive discussion is scarcely. In this review, the interfacial microenvironment changes affected by multiple influence factors including the electrolyte effects (cation effect, anion effect, local pH, electrolyte type and concentration), morphological effects (tip effect, confinement effect), catalyst surface modification (surface hydrophobicity, chemical and electronic state) and electrolyzers improvement (gas diffusion electrode, membrane electrode reaction microenvironment control) are illustrated. Finally, some perspectives are offered on the basis of understanding the connection of catalytic activity and the interfacial microenvironment, these insights obtained can be applied for better control the CO2 reduction and rational design reactors.</description>
+      <author>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148944</guid>
+    </item>
+    <item>
       <title>NH3 decomposition in autothermal microchannel reactors</title>
       <link>https://doi.org/10.1016/b978-0-323-88503-4.00003-x</link>
       <description>Ali Behrad Vakylabad, Mohammad Amin Makarem, Zohre Moravvej, Mohammad Reza Rahimpour, No host. None(None)] 2024. https://openalex.org/W4391064792
@@ -266,26 +266,6 @@
       <author>Ali Behrad Vakylabad, Mohammad Amin Makarem, Zohre Moravvej, Mohammad Reza Rahimpour</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-88503-4.00003-x</guid>
-    </item>
-    <item>
-      <title>Performance prediction of gas turbine blade with multi-source random factors using active learning-based neural network</title>
-      <link>https://doi.org/10.1016/j.applthermaleng.2024.122481</link>
-      <description>Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang, Applied Thermal Engineering. None(None)] 2024. https://openalex.org/W4390948931
-
-                Rapid and accurate performance acquisition of high-temperature gas turbine blades is fundamental to energy system design, analysis, and evaluation. Data-driven surrogate models are a popular alternative to complex and expensive numerical methods, but they require numerous labeled data and are often inaccurate when influenced by multi-source random factors. In this paper, a data-driven framework is proposed based on neural networks and active learning. Gas turbine blade performance with multi-source random factors can be quickly and accurately predicted. Two active learning-based sampling strategies, the Bayesian Sampling strategy (BS) and the Combined Sampling strategy (CS), are proposed to improve the efficiency of dataset building. The established prediction model is called active learning-based neural network (ALNN), which significantly improves the prediction accuracy with small samples. Compared with the artificial neural network using traditional Latin hypercube sampling, the prediction accuracy for the maximum stress of the blade is improved by 31.9%, and the prediction accuracy for the maximum deformation is improved by 47.6%. In addition, based on the ALNN, the low cycle fatigue probabilistic life of the gas turbine blade with multi-source random factors is evaluated. When the material and processing parameters and operating condition parameters are varied randomly, the minimum value of the low cycle fatigue life is 7000 cycles.</description>
-      <author>Zicheng Qiu, Yuqi Wang, Jinxing Li, Yonghui Xie, Di Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.applthermaleng.2024.122481</guid>
-    </item>
-    <item>
-      <title>Comparative Performance Evaluation of Absorbents for the Electrowinning-Coupled Competitive Separation CO&lt;sub&gt;2&lt;/sub&gt; Capture Process</title>
-      <link>https://doi.org/10.1021/acssuschemeng.3c07594</link>
-      <description>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang, No host. None(None)] 2024. https://openalex.org/W4391157027
-
-                Electrowinning-coupled competitive separation (ECCS) CO2 capture technology, utilizing renewable electricity as the energy input, is regarded as a promising electrochemically mediated CO2 capture approach to substitute for the traditional solvent-based CO2 scrubbing method. However, this technology is still distant from practical application due to its energy-intensive property, sensitivity to oxygen, amine degradation, and system complexity. The selection of a suitable solvent plays a crucial role in enhancing the overall performance and scalability of the ECCS system. To address an efficient solvent screening method, this paper proposed a systematic comparison of solvents in terms of thermodynamics, electrochemistry, absorption, and desorption performance. The proposed solvent screening method undergoes a critical evaluation through the development of a thermodynamic model and experimentation. Using MEA, EDA, and NH3 as examples (solvents extensively discussed in the ECCS system), the paper provides a comprehensive discussion of the solvent screening method. Results indicate that EDA exhibits superior CO2 absorption and thermodynamic performance. NH3 solvent demonstrates better CO2 desorption and electrochemical performance. However, there is an antithetical relationship between the thermodynamic and electrochemical performance. This phenomenon arises because the Cu2+&#8211;solvent complex, characterized by a stronger coupling performance, is more stable, necessitating a higher potential to reduce the Cu2+&#8211;solvent complex. This leads to increased energy consumption during the solvent regeneration process. Therefore, when solvent screening is conducted, it is essential to categorize and thoroughly consider thermodynamics, electrochemistry, and absorption and desorption performance.</description>
-      <author>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang</author>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07594</guid>
     </item>
     <item>
       <title>Self-Assembled FeIII-TAML-Based Magnetic Nanostructures for Rapid and Sustainable Destruction of Bisphenol A</title>
@@ -298,14 +278,14 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s00128-023-03834-1</guid>
     </item>
     <item>
-      <title>Epitaxial Stabilization and Persistent Nucleation of the 3C Polymorph of Ba&lt;sub&gt;0.6&lt;/sub&gt;Sr&lt;sub&gt;0.4&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acsami.3c11934</link>
-      <description>Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador, No host. None(None)] 2024. https://openalex.org/W4390939574
+      <title>Comparative Performance Evaluation of Absorbents for the Electrowinning-Coupled Competitive Separation CO&lt;sub&gt;2&lt;/sub&gt; Capture Process</title>
+      <link>https://doi.org/10.1021/acssuschemeng.3c07594</link>
+      <description>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang, No host. None(None)] 2024. https://openalex.org/W4391157027
 
-                Ba-rich compositions in the BaxSr1-xMnO3 (BSMO) cubic perovskite (3C) system are magnetic ferroelectrics and are of interest for their strong magnetoelectric coupling. Beyond x = 0.5, they only form in hexagonal polymorphs. Here, the 3C phase boundary is pushed to Ba0.6Sr0.4MnO3 for the thin films. Using regular pulsed laser deposition (rPLD), 3C Ba0.6Sr0.4MnO3 could be epitaxially stabilized on DyScO3 (101)o substrates by using a 0.1% O2/99.9% N2 gas mixture. However, the 3C phase was mixed with the 4H polymorph for films 24 nm thick and above, and the films were relatively rough. To improve flatness and phase purity, changes in growth kinetics were investigated and interval PLD (iPLD) was especially effective. In iPLD, deposition is interrupted after completion of approximately one monolayer, and the deposit is annealed for a specific period of time before repeating. Both film flatness and, more importantly, the volume of the 3C polymorph improved with iPLD, resulting in 40 nm single-phase films. The results imply that iPLD improves the persistent nucleation of highly metastable phases and offers a new approach to epitaxial stabilization of novel materials, including more Ba-rich BSMO compositions in the 3C structure.</description>
-      <author>Catherine Zhou, Charles L. Evans, Elizabeth C. Dickey, Gregory S. Rohrer, Paul A. Salvador</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c11934</guid>
+                Electrowinning-coupled competitive separation (ECCS) CO2 capture technology, utilizing renewable electricity as the energy input, is regarded as a promising electrochemically mediated CO2 capture approach to substitute for the traditional solvent-based CO2 scrubbing method. However, this technology is still distant from practical application due to its energy-intensive property, sensitivity to oxygen, amine degradation, and system complexity. The selection of a suitable solvent plays a crucial role in enhancing the overall performance and scalability of the ECCS system. To address an efficient solvent screening method, this paper proposed a systematic comparison of solvents in terms of thermodynamics, electrochemistry, absorption, and desorption performance. The proposed solvent screening method undergoes a critical evaluation through the development of a thermodynamic model and experimentation. Using MEA, EDA, and NH3 as examples (solvents extensively discussed in the ECCS system), the paper provides a comprehensive discussion of the solvent screening method. Results indicate that EDA exhibits superior CO2 absorption and thermodynamic performance. NH3 solvent demonstrates better CO2 desorption and electrochemical performance. However, there is an antithetical relationship between the thermodynamic and electrochemical performance. This phenomenon arises because the Cu2+&#8211;solvent complex, characterized by a stronger coupling performance, is more stable, necessitating a higher potential to reduce the Cu2+&#8211;solvent complex. This leads to increased energy consumption during the solvent regeneration process. Therefore, when solvent screening is conducted, it is essential to categorize and thoroughly consider thermodynamics, electrochemistry, and absorption and desorption performance.</description>
+      <author>Xiaomei Wang, Huifeng Fan, Yuanhao Mao, Teng Zhang, Sayd Sultan, Yunsong Yu, Zaoxiao Zhang</author>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07594</guid>
     </item>
     <item>
       <title>Artificial intelligence in catalysis</title>
