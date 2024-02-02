@@ -24,7 +24,17 @@ def get_org_item(topic, result):
         pdf = ''
     isoa = result['primary_location'].get('is_oa', False)
 
-    return f'''** {html_to_text(result['title'])}   
+    tags = {topic['label']}.replace(' ', '_')
+    tags = tags.replace('-', '_')
+
+    topics = ', '.join([topic['display_name'] for topic
+                        in result['topics']])
+
+    return f'''** {html_to_text(result['title'])}  :{tags}:
+:PROPERTIES:
+:ID: {result['id']}
+:TOPICS: {topics}
+:END:    
     
 [[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
 
