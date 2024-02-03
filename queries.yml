@@ -7,7 +7,7 @@ queries:
   - label: Emacs and org-mode
     description: Emacs and org-mode
     filter:
-      - default.search:emacs|orgmode|org-mode
+      - default.search:("emacs" OR "orgmode" OR "org-mode") NOT "emac"
   - label: water splitting
     description: water splitting papers
     filter:
