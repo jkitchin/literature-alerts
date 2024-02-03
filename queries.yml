@@ -61,7 +61,7 @@ queries:
 
 # This is another kind of Google Scholar alert I get for papers related to some
 # set of papers. These are three of my papers that I want to see new related
-# articles on
+# articles on. I should find some way to link this to code that generates these.
   - label: Related papers for John Kitchin
     description: Related papers to my work
     filter:
