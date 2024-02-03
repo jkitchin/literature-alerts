@@ -4,6 +4,10 @@
 # filenames and feed descriptions. The filter is a list of queries to perform.
 
 queries:
+  - label: Emacs and org-mode
+    description: Emacs and org-mode
+    filter:
+      - default.search:emacs|orgmode|org-mode
   - label: water splitting
     description: water splitting papers
     filter:
