@@ -30,7 +30,7 @@ def get_org_item(topic, result):
     topics = ', '.join([topic['display_name'] for topic
                         in result['topics']])
 
-    return f'''** {html_to_text(result['title'])}  :{tags}:
+    return f'''* {html_to_text(result['title'])}  :{tags}:
 :PROPERTIES:
 :ID: {result['id']}
 :TOPICS: {topics}
