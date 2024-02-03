@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Feb 2024 22:23:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 00:38:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Routing and scheduling of platform supply vessels in offshore oil and gas logistics</title>
-      <link>https://doi.org/10.1016/j.cor.2024.106556</link>
-      <description>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4391147858
-
-                In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm&#8217;s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.</description>
-      <author>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106556</guid>
-    </item>
     <item>
       <title>Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer</title>
       <link>https://doi.org/10.1039/d3ea00001j</link>
@@ -56,6 +46,16 @@
       <author>Rose Doerfler, Saigopalakrishna S. Yerneni, Alexandra N. Newby, Namit Chaudhary, Ashley Shu, Katherine C. Fein, Juliana H. Azambuja, Kathryn A. Whitehead</author>
       <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0297821</guid>
+    </item>
+    <item>
+      <title>Routing and scheduling of platform supply vessels in offshore oil and gas logistics</title>
+      <link>https://doi.org/10.1016/j.cor.2024.106556</link>
+      <description>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris, Computers &amp; Operations Research. None(None)] 2024. https://openalex.org/W4391147858
+
+                In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm&#8217;s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.</description>
+      <author>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106556</guid>
     </item>
     <item>
       <title>Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow</title>

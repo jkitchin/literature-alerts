@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Feb  2 22:23:40 2024
+Created on Sat Feb  3 00:38:43 2024
 
-Found 8 results from 2024-01-19 to 2024-02-02
+Found 8 results from 2024-01-20 to 2024-02-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Routing and scheduling of platform supply vessels in offshore oil and gas logistics   
-
-OpenAlex: https://openalex.org/W4391147858    
-Open access: False
-    
-[Victor A. Silva](https://openalex.org/A5000328818), [Akang Wang](https://openalex.org/A5048285644), [Virgílio José Martins Ferreira Filho](https://openalex.org/A5066953689), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.1016/j.cor.2024.106556.
-    
-In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm’s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.    
-
-    
 
 ## Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer   
 
@@ -58,6 +47,17 @@ Open access: True
 [Rose Doerfler](https://openalex.org/A5050347382), [Saigopalakrishna S. Yerneni](https://openalex.org/A5075263409), [Alexandra N. Newby](https://openalex.org/A5080909957), [Namit Chaudhary](https://openalex.org/A5073121497), [Ashley Shu](https://openalex.org/A5080914057), [Katherine C. Fein](https://openalex.org/A5087199847), [Juliana H. Azambuja](https://openalex.org/A5040413965), [Kathryn A. Whitehead](https://openalex.org/A5010666650), PLOS ONE. 19(1)] 2024.https://doi.org/10.1371/journal.pone.0297821 ([pdf](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0297821&type=printable)).
     
 Recent data has characterized human milk cells with unprecedented detail and provided insight into cell populations. While such analysis of freshly expressed human milk has been possible, studies of cell functionality within the infant have been limited to animal models. One commonly used animal model for milk research is the mouse; however, limited data are available describing the composition of mouse milk. In particular, the maternal cells of mouse milk have not been previously characterized in detail, in part due to the difficulty in collecting sufficient volumes of mouse milk. In this study, we have established a method to collect high volumes of mouse milk, isolate cells, and compare the cell counts and types to human milk. Surprisingly, we found that mouse milk cell density is three orders of magnitude higher than human milk. The cell types present in the milk of mice and humans are similar, broadly consisting of mammary epithelial cells and immune cells. These results provide a basis of comparison for mouse and human milk cells and will inform the most appropriate uses of mouse models for the study of human phenomena.    
+
+    
+
+## Routing and scheduling of platform supply vessels in offshore oil and gas logistics   
+
+OpenAlex: https://openalex.org/W4391147858    
+Open access: False
+    
+[Victor A. Silva](https://openalex.org/A5000328818), [Akang Wang](https://openalex.org/A5048285644), [Virgílio José Martins Ferreira Filho](https://openalex.org/A5066953689), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), Computers & Operations Research. None(None)] 2024.https://doi.org/10.1016/j.cor.2024.106556.
+    
+In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm’s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.    
 
     
 

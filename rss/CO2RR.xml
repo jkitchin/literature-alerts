@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Feb 2024 22:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 00:38:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Composition effects of electrodeposited Cu-Ag nanostructured electrocatalysts for CO2 reduction</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-tfkhh</link>
-      <description>Elena Plaza-Mayoral, Valery Okatenko, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano, No host. None(None)] 2024. https://openalex.org/W4390979173
-
-                The electrochemical reduction of carbon dioxide (CO2RR) to valuable C2+ liquid fuels and oxygenates, such as ethanol and propanol, is a promising strategy to minimize the carbon footprint and store renewable electricity. In this study, we investigate the CO2RR on electrodeposited Cu-Ag nanostructures obtained using a green choline chloride and urea deep eutectic solvent (DES). We show that Cu-Ag nanostructured electrocatalysts with tunable composition, loadings, and size can be simply prepared in one step, without adding other additives or surfactant agents. We investigate the intrinsic activity and selectivity of the CO2RR by determining the electrochemically active surface area (ECSA) using lead underpotential deposition (UPD). The analysis of the partial current densities normalized by the ECSA shows that the addition of Ag on electrodeposited Cu primarily suppresses the production of hydrogen and methane with respect to Cu nanostructures. At the same time, the production of carbon monoxide (CO) slightly increases but, the partial current of the total C2+ products does not considerably increase. Despite that the production rate of C2+ is similar on Cu and CuAg, the addition of Ag enhances the formation of alcohols and oxygenates over ethylene, in line with previous reports. We highlight the potential of metal electrodeposition from DES as a sustainable and inexpensive strategy for the development of bimetallic Cu-based nanocatalysts towards CO2RR.</description>
-      <author>Elena Plaza-Mayoral, Valery Okatenko, Kim N. Dalby, Hanne Falsig, Ib Chorkendorff, Paula Sebasti&#225;n&#8208;Pascual, Mar&#237;a Escudero&#8208;Escribano</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-tfkhh</guid>
-    </item>
     <item>
       <title>Tuning the CO&lt;sub&gt;2&lt;/sub&gt; Reduction Activity of Graphitic Carbon Nitride via the Capping-Agent-Free Involvement of Ag Nanocrystals</title>
       <link>https://doi.org/10.1021/acs.iecr.3c03841</link>
@@ -78,16 +68,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3se01390a</guid>
     </item>
     <item>
-      <title>Recent advances in copper-based catalysts for electrocatalytic CO &lt;sub&gt;2&lt;/sub&gt; reduction toward multi-carbon products</title>
-      <link>https://doi.org/10.26599/nre.2024.9120112</link>
-      <description>Rongrong Li, Hehe Wei, Ping Liu, Zixiang Su, X. G. Gong, Nano Research Energy. None(None)] 2024. https://openalex.org/W4390987371
-
-                Electrocatalytic carbon dioxide reduction reaction (CO2RR) holds the promise of both overcoming the greenhouse effect and synthesizing a wealth of chemicals. Electrocatalytic CO2 reduction toward carbon-containing products, including C1 products (carbon monoxide, formic acid, etc), C2 products (ethylene, ethanol, etc.) and multi-carbon products (e.g., npropanol), provides beneficial fuel and chemicals for industrial production. The complexity of the multi-proton transfer processes and difficulties of C-C coupling in electrochemical CO2 reduction toward multi-carbon(C2+) products have attracted increasing concerns on the design of catalysts in comparison with those of C1 products. In this paper, we review the main advances in the syntheses of multi-carbon products through electrocatalytic carbon dioxide reduction in recent years, introduce the basic principles of electrocatalytic CO2RR, and detailly elucidate two widely accepted mechanisms of C-C coupling reactions. Among abundant nanomaterials, copper-based catalysts are outstanding catalysts for the preparation of multi-carbon chemicals in electrochemical CO2RR attributing to effective C-C coupling reactions. Regarding the different selectivity of multi-carbon chemicals but extensively applied copper-based catalysts, we classify and summarize various Cu-based catalysts through separating diverse multi-carbon products, where the modification of spatial and electronic structures is beneficial to increase the coverage of CO or lower the activation energy barrier for forming CC bond to form the key intermediates and increase the production of multi-carbon products. Challenges and prospects involving the fundamental and development of copper-based catalysts in electrochemical CO2 reduction reaction are also proposed.</description>
-      <author>Rongrong Li, Hehe Wei, Ping Liu, Zixiang Su, X. G. Gong</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26599/nre.2024.9120112</guid>
-    </item>
-    <item>
       <title>MOFs materials as photocatalysts for CO2 reduction: Progress, challenges and perspectives</title>
       <link>https://doi.org/10.1016/j.ccst.2024.100191</link>
       <description>Mazhar Khan, Zeeshan Akmal, Muhammad Tayyab, Seemal Mansoor, Adnan Zeb, Ziwei Ye, Jinlong Zhang, Shiqun Wu, Lingzhi Wang, Carbon Capture Science &amp; Technology. 11(None)] 2024. https://openalex.org/W4391019430
@@ -126,6 +106,16 @@
       <author>Mengdan Guan, Junjie Wang, Zhongyan Gong, Kun Gao, Xing Kang, Yulong Zhang, Chengcheng Zhu, Zhihao L&#252;, Xinya Chen, Jianguo L&#252;, Qinghua Liu, Haonan Chen, Liuyingzi Yu, Kaili Wang, Zhuoyao Li, Gang L&#252;</author>
       <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03093</guid>
+    </item>
+    <item>
+      <title>Effective reduction on flame soot via plasma coupled with carbon dioxide</title>
+      <link>https://doi.org/10.1016/j.jhazmat.2024.133669</link>
+      <description>Dandan Qi, Mingxiao Chen, Kaixuan Yang, Tianjiao Li, Yaoyao Ying, Dong Liu, Journal of Hazardous Materials. None(None)] 2024. https://openalex.org/W4391451084
+
+                This study explored the impact of non-thermal plasma and CO2 on the flame soot characteristics within the diffusion flames. We analyzed on flame structures that were diluted with either CO2 or N2, temperature distributions, and soot characteristics, both in the presence and absence of plasma. Due to the higher specific heat capacity of CO2 compared to N2, the optical observations consistently showed lower temperatures in flames diluted with CO2 as compared to those diluted with N2. The inclusion of plasma and carbon dioxide resulted in the lowest soot concentration, indicating that plasma coupled with CO2 has a synergistic inhibitory effect on soot emissions. The findings revealed that when CO2 was used to dilute the flames and the oxygen concentration was low, the soot nanostructure appeared amorphous. Raman results showed that the level of graphitization observed in soot particles from CO2 dilution flames was lower than that from N2 dilution flames. In the presence of plasma and CO2, the soot obtained exhibited the shortest fringe length and the highest fringe tortuosity. Significant correlations were observed between the nanostructure of soot and its reactivity. The combined application of plasma and CO2 proved to be effective in reducing the soot carbonization degree. Soot particles produced during incomplete combustion not only reduce the performance of the combustion system but also cause significant environmental pollution and health problems. Oxygen-fuel combustion integrated with O2/CO2 as an oxidant instead of O2/N2 has drawn extensive attention due to its unique advantages in reducing soot and NOx generation and combining with CO2 recycling technologies. This topic provides a detailed and profound understanding of the mechanisms behind soot suppression through the combined effects of CO2 addition and plasma activation.</description>
+      <author>Dandan Qi, Mingxiao Chen, Kaixuan Yang, Tianjiao Li, Yaoyao Ying, Dong Liu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jhazmat.2024.133669</guid>
     </item>
     <item>
       <title>Solvation of oxygen, carbon dioxide, carbon monoxide and nitrous oxide in fluorinated liquids</title>
@@ -196,6 +186,16 @@
       <author>Humphrey Adun, Jeffrey Dankwa Ampah, Olusola Bamisile, Yihua Hu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.spc.2024.01.004</guid>
+    </item>
+    <item>
+      <title>Role of Flexible Operation of a Wastewater Treatment Plant in the Reduction of Its Indirect Carbon Dioxide Emissions&#8212;A Case Study</title>
+      <link>https://doi.org/10.3390/w16030483</link>
+      <description>Nil&#252;fer Topuz, Frank Alsmeyer, Hasancan Okutan, Hermann-Josef Roos, Water. 16(3)] 2024. https://openalex.org/W4391432666
+
+                The increasing share of renewables in electricity grids comes with a challenge of energy surpluses and deficits, which needs be handled by demand side management (DSM) and storage options. Within this approach, wastewater treatment plants (WWTPs), with flexible energy consumption and production processes and storage units, can contribute to stabilizing the grids and integrating more renewables. In this study, the operation of a real WWTP was optimized by mixed integer linear programming (MILP) to minimize its indirect carbon dioxide (CO2) emissions. The operation of the WWTP was shown to be flexible in following the CO2 emission factor of the electricity grid, which was possible with the utilization of the WWTP&#8217;s storage units and flexible co-substrate feeding. As a result, by changing only the operational behavior of the WWTP, its indirect CO2 emissions decreased by 4.8% due to the higher share of renewables in the electricity grid. The CO2 emissions were shown to decrease further up to 6.9% by adding virtual storage units.</description>
+      <author>Nil&#252;fer Topuz, Frank Alsmeyer, Hasancan Okutan, Hermann-Josef Roos</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/w16030483</guid>
     </item>
     <item>
       <title>Green steel from red mud through climate-neutral hydrogen plasma reduction</title>
@@ -306,16 +306,6 @@
       <author>Han&#8208;Xun Wei, Xiao Feng Li, Zhendong Zheng, Huadong Yuan, Long Xiao, Kun Feng, Jingshu Hui, Zhao Deng, Mutian Ma, Jian Cheng, Daqi Song, Fenglei Lyu, Jun Zhong, Yang Peng</author>
       <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202315922</guid>
-    </item>
-    <item>
-      <title>Pulse Electrolysis Turns on CO2 Methanation through N&#8208;Confused Cupric Porphyrin</title>
-      <link>https://doi.org/10.1002/anie.202315922</link>
-      <description>Han&#8208;Xun Wei, Xiao Feng Li, Zhendong Zheng, Huadong Yuan, Long Xiao, Kun Feng, Jingshu Hui, Zhao Deng, Mutian Ma, Jian Cheng, Daqi Song, Fenglei Lyu, Jun Zhong, Yang Peng, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391358933
-
-                Breaking the D4h symmetry in the square&#8208;planar M&#8208;N4 configuration of macrocycle molecular catalysts has witnessed enhanced electrocatalytic activity, but at the expense of electrochemical stability. Herein, we hypothesize that the lability of the active Cu&#8208;N3 motifs in the N&#8208;confused copper (II) tetraphenylporphyrin (CuNCP) could be overcome by applying pulsed potential electrolysis (PPE) during electrocatalytic carbon dioxide reduction. We find that applying PPE can indeed enhance the CH4 selectivity on CuNCP by 3 folds to reach the partial current density of 170 mA cm&#8208;2 at &gt;60% Faradaic efficiency (FE) in flow cell. However, combined ex&#8208;situ X&#8208;ray diffraction (XRD), transmission electron microscope (TEM), and in&#8208;situ X&#8208;ray absorption spectroscopy (XAS), infrared (IR), Raman, scanning electrochemical microscopy (SECM) characterizations reveal that, in a prolonged time scale, the decomplexation of CuNCP is unavoidable, and the promoted water dissociation under high anodic bias with lowered pH and enriched protons facilitates successive hydrogenation of *CO on the irreversibly reduced Cu nanoparticles, leading to the improved CH4 selectivity. As a key note, this study signifies the adaption of electrolytic protocol to the catalyst structure for tailoring local chemical environment towards efficient CO2 reduction.</description>
-      <author>Han&#8208;Xun Wei, Xiao Feng Li, Zhendong Zheng, Huadong Yuan, Long Xiao, Kun Feng, Jingshu Hui, Zhao Deng, Mutian Ma, Jian Cheng, Daqi Song, Fenglei Lyu, Jun Zhong, Yang Peng</author>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202315922</guid>
     </item>
     <item>
       <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
@@ -478,14 +468,14 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s40843-023-2698-5</guid>
     </item>
     <item>
-      <title>Boosting effect of encapsulated polyoxometalates in the photocatalytic CO2 reduction activity of MOF-545</title>
-      <link>https://openalex.org/W4391010819</link>
-      <description>K. Talbi, Amanda L. Robinson, Youven Benseghir, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Pierre Mialane, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391010819
+      <title>Analysis of photocatalytic CO2 reduction over MOFs using machine learning</title>
+      <link>https://doi.org/10.1039/d3ta07001h</link>
+      <description>Simay &#214;zsoysal, Burcu Oral, Ramazan Y&#305;ld&#305;r&#305;m, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4391453336
 
-                No abstract</description>
-      <author>K. Talbi, Amanda L. Robinson, Youven Benseghir, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Pierre Mialane, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4391010819</guid>
+                Photocatalytic CO2 reduction over metal-organic frameworks (MOFs) is investigated by constructing a database from published articles and analyzed using machine learning tools to predict the total gas product yield (random...</description>
+      <author>Simay &#214;zsoysal, Burcu Oral, Ramazan Y&#305;ld&#305;r&#305;m</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta07001h</guid>
     </item>
     <item>
       <title>Decision letter for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
@@ -516,6 +506,16 @@
       <author/>
       <pubDate>Thu, 21 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Systematic screening of transition-metal-doped hydroxyapatite for efficient photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.jcou.2024.102692</link>
+      <description>Yuting Li, Daniel Baham&#243;n, Josep Albero, N&#250;ria L&#243;pez, Lourdes F. Vega, Journal of CO2 Utilization. 80(None)] 2024. https://openalex.org/W4391448738
+
+                We present the first comprehensive investigation of transition metal-substituted Hydroxyapatite (TM-HAP) materials for photocatalytic CO2 reduction (CO2RR). Density functional theory (DFT) was used to study in a systematic manner the stability of 3d, 4d, 5d transition metal dopants on the HAP (000&#773;1) surface, analyzing their stability, activity, and selectivity for photocatalytic CO2RR. DFT results allowed to narrow down the selection to three transition metal elements (Co, Ni, Mo) based on their structural stability, band structure and performance. A selective analysis of product formation for carbon monoxide and formate was made, showing that TM dopants facilitate the initial protonation step in the CO2 reduction by adsorbing H2 molecule on TM atoms and then dissociating it into two hydrogen atoms. The performance of Ni- and Co-HAP towards the reaction activity is consistent with experimental results. Mo-HAP stands as a new and attractive photocatalyst for further investigation, given its excellent predicted performance.</description>
+      <author>Yuting Li, Daniel Baham&#243;n, Josep Albero, N&#250;ria L&#243;pez, Lourdes F. Vega</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102692</guid>
     </item>
     <item>
       <title>Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction</title>

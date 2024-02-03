@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 02 Feb 2024 22:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 00:38:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Iron(I) and Iron(II) Amido-imidazolin-2-imine Complexes as Catalysts for H/D Exchange in Hydrosilanes</title>
-      <link>https://doi.org/10.1021/acscatal.3c05355</link>
-      <description>Noor U Din Reshi, Dirk Bockfeld, Dirk Baabe, Lars Denker, Jos&#233; Luis Garc&#237;a Mart&#237;nez, Bartosz Trzaskowski, Ren&#233; Frank, Matthias Tamm, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390966679
-
-                The unsymmetrical amino-imidazolin-2-imine ligand [HAmIm, 1,2-(DippNH)&#8211;C6H4&#8211;N=C(NiPrCMe)2] is employed in the synthesis of the iron(I) arene complex [(AmIm)Fe(&#951;6-C6H6)] and the iron(II) neosilyl complex [(AmIm)Fe(CH2SiMe3)]. These compounds are highly efficient precatalysts in H/D exchange reactions with deuterium (D2) in hydrosilanes. The scope comprises primary to tertiary silanes at a catalyst loading of 1 mol % at ambient temperature. In-depth mechanistic studies including various control experiments and the syntheses of isolated iron-hydride and iron-silyl compounds are performed. These studies reveal that the activation of both Fe(I) and Fe(II) complexes generates Fe&#8211;H/D species as key catalytic intermediates. An alternative catalytic pathway involving an iron-silyl intermediate, although shown to be less feasible by DFT calculations, may also be operative.</description>
-      <author>Noor U Din Reshi, Dirk Bockfeld, Dirk Baabe, Lars Denker, Jos&#233; Luis Garc&#237;a Mart&#237;nez, Bartosz Trzaskowski, Ren&#233; Frank, Matthias Tamm</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05355</guid>
-    </item>
-    <item>
-      <title>Platinum&#8211;Nickel Alloy Nanowire Electrocatalysts Transform into Pt-Skin Beads-on-Nanowires Keeping Oxygen Reduction Reaction Activity During Potential Cycling</title>
-      <link>https://doi.org/10.1021/acscatal.3c04709</link>
-      <description>Yu Zhou, Yoshimi Iguchi, Tianchi Li, Masaru Kato, Yasir Arafat Hutapea, Akari Hayashi, Takeshi Watanabe, Ichizo Yagi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390966737
-
-                We synthesized PtNi alloy nanowires (PtNi NWs) at three different temperatures of 433, 494, and 533 K (NW433 K, NW494 K, and NW533 K, respectively) and then investigated their catalytic activity and durability for the oxygen reduction reaction (ORR) in acidic media. Ni contents in the PtNi NWs increase as the synthesis temperatures increase from below 5 at. % for NW433 K up to about 15 at. % for NW493 K and NW553 K. PtNi nanoparticles (PtNi NPs), which are the unconsumed intermediate during the NW growth, also coexist for NW433 K and NW494 K but not for NW533 K. NW494 K and NW533 K show similar initial activity for the ORR but higher than NW433 K, suggesting that higher Ni contents are critical to achieving higher initial ORR activity. Accelerated durability tests (ADTs) show that NW493 K is the most durable, suggesting that the copresence of PtNi NPs is critical to durability. Only NW493 K, with a high Ni content of 15 at. % and coexisting PtNi NPs, gave better results in both cases. Scanning transmission electron microscopy and energy dispersive X-ray spectroscopy of PtNi NWs reveal a structural transformation of NW493 K into Pt-skin beads-on-nanowires, involving the Ostwald ripening of coexisting PtNi NPs. This structural transformation is coupled with changes in surface composition and surface electronic structure, as confirmed by the CO stripping voltammogram and in situ X-ray absorption spectroscopy, resulting in high durability and suppression of Pt and Ni dissolution. Understanding such structural transformation during potential cycling will help us to design and develop highly active and durable Pt-based electrocatalysts.</description>
-      <author>Yu Zhou, Yoshimi Iguchi, Tianchi Li, Masaru Kato, Yasir Arafat Hutapea, Akari Hayashi, Takeshi Watanabe, Ichizo Yagi</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04709</guid>
-    </item>
-    <item>
-      <title>Single Pd Atom&#8211;In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyzes Production of CH&lt;sub&gt;3&lt;/sub&gt;CH&lt;sub&gt;2&lt;/sub&gt;OH from Atom-Economic C&#8211;C Coupling of HCHO and CH&lt;sub&gt;4&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.3c05163</link>
-      <description>Yuntao Zhao, Natalie Fontillas, Hua Wang, Xinli Zhu, Donghai Mei, Qingfeng Ge, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390974718
-
-                Using methane as a reagent to synthesize high-value chemicals and high-energy density fuels through C&#8211;C coupling has attracted intense attention in recent decades, as it avoids completely breaking all C&#8211;H bonds in CH4. In the present study, we demonstrated that the coupling of HCHO with the CH3 species from CH4 activation to produce ethanol can be accomplished on the single Pd atom&#8211;In2O3 catalyst based on the results of density functional theory (DFT) calculations. The results show that the supported single Pd atom stabilizes the CH3 species following the activation of one C&#8211;H bond of CH4, while HCHO adsorbs on the neighboring In site. Facile C&#8211;C coupling of HCHO with the methyl species is achieved with an activation barrier of 0.56 eV. We further examined the C&#8211;C coupling on other single metal atoms, including Ni, Rh, Pt, and Ag, supported on In2O3 by following a similar pathway and found that a balance of the three key steps for ethanol formation, i.e., CH4 activation, C&#8211;C coupling, and ethoxy hydrogenation, was achieved on Pd/In2O3. Taking the production of acetaldehyde and ethylene on the Pd/In2O3 catalyst into consideration, the DFT-based microkinetic analysis indicates that ethanol is the dominant product on the Pd/In2O3 catalyst. The facile C&#8211;C coupling between HCHO and dissociated CH4 makes formaldehyde a potential C1 source in the conversion and utilization of methane through an energy- and atom-efficient process.</description>
-      <author>Yuntao Zhao, Natalie Fontillas, Hua Wang, Xinli Zhu, Donghai Mei, Qingfeng Ge</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05163</guid>
-    </item>
-    <item>
-      <title>Photocatalytic Conversion of Lipid to Diesel and Syngas via Engineering the Surface Proton Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.3c04818</link>
-      <description>Zhiwei Chen, Hongru Zhou, Fangfang Kong, Zhaolin Dou, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4390977302
-
-                Photocatalysis provides a promising pathway for the production of fuels and chemicals from biomass, where the slow proton reduction by surface-confined photoinduced electrons limits the efficiency. Herein, we propose to engineer the surface structure to facilitate the proton transfer on the catalyst surface and thus promote the proton reduction by the confined photoinduced electrons. We found introducing NH4+ on TiO2 (NH4&#8211;TiO2) could improve the proton conductivity. The NH4+ group effectively minimizes the proton transfer distance and promotes proton transfer by forming hydrogen-bond networks. Consequently, NH4&#8211;TiO2 shows a high yield of (&#8805;80%) alkanes from bio-derived fatty acids which is about 3.8 times that of pristine TiO2. Glycerol can be reformed to syngas with a generation rate [CO (0.69 mmol g&#8211;1 h&#8211;1)/H2 (0.21 mmol g&#8211;1 h&#8211;1)]. Moreover, industrial palm oil can be converted into 59% alkanes and syngas [4% CO and H2 (0.04 mmol g&#8211;1 h&#8211;1)] via a hydrolysis-photocatalysis two-step process. This work provides an efficient approach for biomass upgrading via a rationally controlled proton transfer process.</description>
-      <author>Zhiwei Chen, Hongru Zhou, Fangfang Kong, Zhaolin Dou, Min Wang</author>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04818</guid>
-    </item>
     <item>
       <title>One-Pot Sequential Two-Step Photo-Biocatalytic Deracemization of &lt;i&gt;sec&lt;/i&gt;-Alcohols Combining Photocatalytic Oxidation and Bioreduction</title>
       <link>https://doi.org/10.1021/acscatal.3c05100</link>
@@ -256,6 +216,46 @@
       <author>Susung Lee, Younghwan Park, Minkee Choi</author>
       <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05170</guid>
+    </item>
+    <item>
+      <title>Deep Insight into Characterizing the Metal&#8211;Support Interface in Heterogeneous Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c04930</link>
+      <description>Junhong Liu, Liwei Chen, Xi Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391136449
+
+                Supported metal species are widely used as catalysts in heterogeneous catalysis. Apart from the extended metal surfaces, metal&#8211;support interfaces also play a crucial role in catalytic performance due to their distinct electronic and geometric structures. However, the complexity and diversity of the metal&#8211;support interfaces hinder further understanding of the nature of the active sites for catalytic reactions. Fortunately, recent advancements in characterization techniques have uncovered deeper insights. This Perspective aims to comprehensively summarize recent breakthroughs in characterizing metal&#8211;support interfaces in heterogeneous catalysts. This summary facilitates the interpretation of these interfaces from both macroscopic and microscopic aspects, ultimately contributing to a fundamental understanding of the structure&#8211;activity relationship.</description>
+      <author>Junhong Liu, Liwei Chen, Xi Liu</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04930</guid>
+    </item>
+    <item>
+      <title>Modular Synthesis of Complex Benzoxaboraheterocycles through Chelation-Assisted Rh-Catalyzed [2 + 2 + 2] Cycloaddition</title>
+      <link>https://doi.org/10.1021/acscatal.3c05766</link>
+      <description>John M. Halford-McGuff, Marek Varga, David B. Cordes, Aidan P. McKay, Allan J. B. Watson, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391157080
+
+                Benzoxaboraheterocycles (BOBs) are moieties of increasing interest in the pharmaceutical industry; however, the synthesis of these compounds is often difficult or impractical due to the sensitivity of the boron moiety, the requirement for metalation&#8211;borylation protocols, and lengthy syntheses. We report a straightforward, modular approach that enables access to complex examples of the BOB framework through a Rh-catalyzed [2 + 2 + 2] cycloaddition using MIDA-protected alkyne boronic acids. The key to the development of this methodology was overcoming the steric barrier to catalysis by leveraging chelation assistance. We show the utility of the method through synthesis of a broad range of BOB scaffolds, mechanistic information on the chelation effect, intramolecular alcohol-assisted BMIDA hydrolysis, and linear/cyclic BOB limits as well as comparative binding affinities of the product BOB frameworks for ribose-derived biomolecules.</description>
+      <author>John M. Halford-McGuff, Marek Varga, David B. Cordes, Aidan P. McKay, Allan J. B. Watson</author>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05766</guid>
+    </item>
+    <item>
+      <title>Switching the Oxygen Reduction Route on Pt Using S through d&#8211;p Hybridization</title>
+      <link>https://doi.org/10.1021/acscatal.3c05362</link>
+      <description>Maosong Huang, Zipei Cui, Zhuo Li, Wenchao Sheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391166858
+
+                The development of electrocatalysts capable of selective two-electron oxygen reduction reactions (ORRs) has become a major obstacle in the electrochemical synthesis of H2O2. Herein, a series of platinum sulfide catalysts with different sulfur contents were synthesized by a chemical vapor deposition method. The two-electron ORR performance exhibited a &#8220;volcano&#8221; plot relationship with the sulfur content of the catalysts. The PtS1.38/C catalyst with optimal sulfur content achieved a two-electron ORR selectivity of 92% at near zero overpotential and a mass activity of 70.5 A gPt&#8211;1 [0.65 V vs reversible hydrogen electrode (RHE)]. Combined spectroscopic studies and density functional theory calculations showed that the introduction of sulfur changed the d band structure of the Pt surface and in turn the binding energy of oxygen-containing species. The PtS1.38/C catalyst was capable of stable batch electrosynthesis of hydrogen peroxide in an H-cell, maintaining a high productivity of 992 mmolH2O2 g&#8211;1cat h&#8211;1 (0.2 V vs RHE), which has great potential for practical applications.</description>
+      <author>Maosong Huang, Zipei Cui, Zhuo Li, Wenchao Sheng</author>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05362</guid>
+    </item>
+    <item>
+      <title>Steric Effects on CO&lt;sub&gt;2&lt;/sub&gt; Reduction with Substituted Mn(bpy)(CO)&lt;sub&gt;3&lt;/sub&gt;X-Type Catalysts on Multiwalled Carbon Nanotubes Reveal Critical Mechanistic Details</title>
+      <link>https://doi.org/10.1021/acscatal.3c05771</link>
+      <description>Emile E. DeLuca, Thomas C. K. Chan, James M. Taylor, Byunghoon Lee, Rajiv Ramanujam Prabhakar, Clifford P. Kubiak, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391166871
+
+                A series of Mn(bpy-R)(CO)3Br (bpy-R = 4,4&#8242;-R-2,2&#8242;-bipyridine) complexes with systematic substituent variations (R = H, &#8211;Me, &#8211;Et, tBu, and &#8211;Ph) are immobilized on multiwalled carbon nanotubes (MWCNTs) and investigated as electrocatalysts for CO2 reduction to study substituent effects on heterogenized molecular electrocatalysis. The electrochemical response and catalytic activity of each heterogenized complex are characterized, unveiling clear trends across the series investigated. Mn(bpy-Ph)(CO)3Br/MWCNT exhibited the best catalytic performance, producing CO with a Faradaic efficiency of 72% and a current density (JCO) of 7.0 mA/cm2 at low overpotential (&#951; = 0.65 V). Adding steric bulk to the bpy ligands is shown to restrict Mn0&#8211;Mn0 dimerization and cause a shift to two-electron reduction occurring at less negative potentials. The apparent quantity of electroactive catalyst scales inversely with steric bulk, where Mn(bpy-Ph)(CO)3Br exhibits no distinguishable Faradaic features in CV under normal conditions. These results indicate that catalytic performance is optimized by the confinement of electroactive species to the MWCNT interface.</description>
+      <author>Emile E. DeLuca, Thomas C. K. Chan, James M. Taylor, Byunghoon Lee, Rajiv Ramanujam Prabhakar, Clifford P. Kubiak</author>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05771</guid>
     </item>
   </channel>
 </rss>
