@@ -1,6 +1,6 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Sat Feb  3 18:29:14 2024
+Created on Sat Feb  3 18:49:47 2024
 
 Found 32 results from 2024-01-20 to 2024-02-03
 OpenAlex URLS (not including from_created_date or the API key)

@@ -1,6 +1,6 @@
 # water splitting
 Description: water splitting papers
-Created on Sat Feb  3 18:28:59 2024
+Created on Sat Feb  3 18:49:26 2024
 
 Found 49 results from 2024-01-20 to 2024-02-03
 OpenAlex URLS (not including from_created_date or the API key)
