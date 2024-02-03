@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 18:29:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -128,16 +128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.123738</guid>
     </item>
     <item>
-      <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.148944</link>
-      <description>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391057924
-
-                Electrochemical reduction of carbon dioxide (ECR) powered by renewable energy has the potential to utilize the intermittent renewable electric energy, alleviate the problem of excessive CO2 emissions and yield high value-added chemicals. Despite the intrinsic activity of the well-designed catalysts, subtle changes in the electrode&#8211;electrolyte interface will have a significant impact on the overall reaction. The electrode and its microenvironment together determine the ECR performance. Revealing the relationship between the microenvironment of the catalyst-electrolyte interface and the ECR performance is critical for explaining the reaction mechanism and controlling the reaction process accurately. To maximize the catalytic performance includes the activity, selectivity and stability, the fundamental understanding of the interfacial microenvironment should be clarified as important as the intrinsic properties of the catalyst. Researches on the microenvironment in ECR have been gradually launched while the comprehensive discussion is scarcely. In this review, the interfacial microenvironment changes affected by multiple influence factors including the electrolyte effects (cation effect, anion effect, local pH, electrolyte type and concentration), morphological effects (tip effect, confinement effect), catalyst surface modification (surface hydrophobicity, chemical and electronic state) and electrolyzers improvement (gas diffusion electrode, membrane electrode reaction microenvironment control) are illustrated. Finally, some perspectives are offered on the basis of understanding the connection of catalytic activity and the interfacial microenvironment, these insights obtained can be applied for better control the CO2 reduction and rational design reactors.</description>
-      <author>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148944</guid>
-    </item>
-    <item>
       <title>Constructing highly efficient bifunctional catalysts for oxygen reduction and oxygen evolution by modifying MXene with transition metal</title>
       <link>https://doi.org/10.1016/j.jcis.2024.01.089</link>
       <description>Dai Yu, Xiuyun Zhao, Desheng Zheng, Qingrui Zhao, Jing Feng, Yingjie Feng, Xingbo Ge, Xin Chen, Journal of Colloid and Interface Science. 660(None)] 2024. https://openalex.org/W4391063505
@@ -258,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c02219</guid>
     </item>
     <item>
+      <title>P&#8208;Incorporation Induced Enhancement of Lattice Oxygen Participation in Double Perovskite Oxides to Boost Water Oxidation</title>
+      <link>https://doi.org/10.1002/smll.202309091</link>
+      <description>Gaoliang Fu, Leilei Zhang, Ruixue Wei, Huili Liu, Ruipeng Hou, Yue Zhang, Kun Yang, Shouren Zhang, Small. None(None)] 2024. https://openalex.org/W4391108255
+
+                Abstract Activating the lattice oxygen in the catalysts to participate in the oxygen evolution reaction (OER), which can break the scaling relation&#8211;induced overpotential limitation (&gt; 0.37 V) of the adsorbate evolution mechanism, has emerged as a new and highly effective guide to accelerate the OER. However, how to increase the lattice oxygen participation of catalysts during OER remains a major challenge. Herein, P&#8208;incorporation induced enhancement of lattice oxygen participation in double perovskite LaNi 0.58 Fe 0.38 P 0.07 O 3&#8208;&#963; (PLNFO) is studied. P&#8208;incorporation is found to be crucial for enhancing the OER activity. The current density reaches 1.35 mA cm ECSA &#8722;2 at 1.63 V (vs RHE), achieving a sixfold increase in intrinsic activity. Experimental evidences confirm the dominant lattice oxygen participation mechanism (LOM) for OER pathway on PLNFO. Further electronic structures reveal that P&#8208;incorporation shifts the O p &#8208;band center by 0.7 eV toward the Fermi level, making the states near the Fermi level more O p character, thus facilitating LOM and fast OER kinetics. This work offers a possible method to develop high&#8208;performance double perovskite OER catalysts for electrochemical water splitting.</description>
+      <author>Gaoliang Fu, Leilei Zhang, Ruixue Wei, Huili Liu, Ruipeng Hou, Yue Zhang, Kun Yang, Shouren Zhang</author>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202309091</guid>
+    </item>
+    <item>
       <title>NH3 decomposition in autothermal microchannel reactors</title>
       <link>https://doi.org/10.1016/b978-0-323-88503-4.00003-x</link>
       <description>Ali Behrad Vakylabad, Mohammad Amin Makarem, Zohre Moravvej, Mohammad Reza Rahimpour, No host. None(None)] 2024. https://openalex.org/W4391064792
@@ -296,6 +296,16 @@
       <author>Yuting Li, Daniel Baham&#243;n, Josep Albero, N&#250;ria L&#243;pez, Lourdes F. Vega</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102692</guid>
+    </item>
+    <item>
+      <title>Production of chemicals and energy</title>
+      <link>https://doi.org/10.1016/b978-0-443-14005-1.00009-x</link>
+      <description>Adewale Giwa, Ahmed Yusuf, Hammed Abiodun Balogun, B. Anand, Setareh Heidari, David M. Warsinger, Hanifa Taher, Sulaiman Al&#8208;Zuhair, Bismah Shaikh, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391490678
+
+                Electrochemical membrane technology has been identified as a promising technology for sustainable chemical and energy production due to its potential to address several challenges in the production of chemicals and energy, including energy consumption, greenhouse gas emissions, and waste generation. Electrochemical membrane processes can be applied to produce a wide range of feedstocks, including gases, liquids, and solids. This versatility can enable the coproduction of multiple chemicals and energy products from various feedstocks. In this chapter, the production of chemicals and energy, including bioelectricity, biomethane, biohydrogen, bioethanol, hydrogen peroxide, biodegradable electronics and biosensors, dry air from humid air, air separation into nitrogen and oxygen gases, organic solvent extraction, CO2 and H2 separation from gas mixtures, plasma generation, dewatered microalgae biomass, and purified microalgae-based products, are discussed. Electrochemical membrane processes can offer environmental benefits, such as CO2 reduction, leading to more sustainable and socially responsible production practices. The electrochemical conversion of CO2 can lead to the production of valuable chemicals, such as ethanol. With continued research and development, electrochemical membrane technology is expected to play an increasingly important role in chemical and energy production.</description>
+      <author>Adewale Giwa, Ahmed Yusuf, Hammed Abiodun Balogun, B. Anand, Setareh Heidari, David M. Warsinger, Hanifa Taher, Sulaiman Al&#8208;Zuhair, Bismah Shaikh</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-443-14005-1.00009-x</guid>
     </item>
     <item>
       <title>Climbing the Hydrogen Evolution Volcano with a NiTi Shape Memory Alloy</title>

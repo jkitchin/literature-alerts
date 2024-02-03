@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 18:29:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -118,6 +118,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jhazmat.2024.133669</guid>
     </item>
     <item>
+      <title>Understanding the Interplay of the Br&#248;nsted Acidity of Catalyst Ancillary Groups and the Solution Components in Iron-porphyrin-Mediated Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1021/jacs.3c10127</link>
+      <description>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4391464343
+
+                The rapid and efficient conversion of carbon dioxide (CO2) to carbon monoxide (CO) is an ongoing challenge. Catalysts based on iron-porphyrin cores have emerged as excellent electrochemical mediators of the two proton + two electron reduction of CO2 to CO, and many of the design features that promote function are known. Of those design features, the incorporation of Br&#248;nsted acids in the second coordination sphere of the iron ion has a significant impact on catalyst turnover kinetics. The Br&#248;nsted acids are often in the form of hydroxyphenyl groups. Herein, we explore how the acidity of an ancillary 2-hydroxyphenyl group affects the performance of CO2 reduction electrocatalysts. A series of meso-5,10,15,20-tetraaryl porphyrins were prepared where only the functional group at the 5-meso position has an ionizable proton. A series of cyclic voltammetry (CV) experiments reveal that the complex with &#8722;OMe positioned para to the ionizable &#8722;OH shows the largest CO2 reduction rate constants in acetonitrile solvent. This is the least acidic &#8722;OH of the compounds surveyed. The turnover frequency of the &#8722;OMe derivative can be further improved with the addition of 4-trifluoromethylphenol to the solution. In contrast, the iron-porphyrin complex with &#8722;CF3 positioned opposite the ionizable &#8722;OH shows the smallest CO2 reduction rate constants, and its turnover frequency is less enhanced with the addition of phenols to the reaction solutions. The origin of this effect is rationalized based on kinetic isotope effect experiments and density functional calculations. We conclude that catalysts with weaker internal acids coupled with stronger external acid additives provide superior CO2 reduction kinetics.</description>
+      <author>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c10127</guid>
+    </item>
+    <item>
+      <title>Single-atom catalysts for electrocatalytic carbon dioxide reduction</title>
+      <link>https://doi.org/10.1016/b978-0-323-95237-8.00003-3</link>
+      <description>Subhash Chandra Shit, Indranil Mondal, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488466
+
+                The electrochemical CO2 reduction reaction carries tremendous significance to tackle the exponential rising of CO2 level in the atmosphere. The development of different classes of electrocatalyst materials emerged with more understanding of the catalyst features, reaction mechanism, catalytic efficiency, and product selectivity using modern analytical tools (such as in situ techniques). Single-atom catalysts (SACs) are a new class of material that allows atom-by-atom utilization in the catalytic process, thereby influencing the CO2 reduction efficiency and product selectivity in more precise manner. In this chapter, we highlight the fundamental of CO2 electroreduction, including general mechanism for varied product formation, electrolyzer component, operational parameter, and development of SACs electrode material for CO2 reduction.</description>
+      <author>Subhash Chandra Shit, Indranil Mondal</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95237-8.00003-3</guid>
+    </item>
+    <item>
       <title>Solvation of oxygen, carbon dioxide, carbon monoxide and nitrous oxide in fluorinated liquids</title>
       <link>https://openalex.org/W4391327398</link>
       <description>Margarida F Costa Gomes, A.A.H. Padua J. Deschamps D.-H. Menz, No host. None(None)] 2005. https://openalex.org/W4391327398
@@ -208,6 +228,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41586-023-06901-z</guid>
     </item>
     <item>
+      <title>None</title>
+      <link>https://doi.org/10.1002/aesr.v5.1</link>
+      <description>, Advanced energy and sustainability research. 5(1)] 2024. https://openalex.org/W4391491858
+
+                Biomass-Derived Electrocatalysts In article number 2300168, Tengyi Liu, and Hiroshi Yabu summarize the latest reports on synthesizing oxygen reduction reaction, oxygen evolution reaction, carbon dioxide reduction reaction, and other electrochemical catalysts from biomass-derived materials. The review provides guidelines for the design and synthesis of electrocatalysts that form catalytic active sites and realize high conductivity, either individually or both, using biomass-derived materials.</description>
+      <author/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aesr.v5.1</guid>
+    </item>
+    <item>
       <title>Thermodynamic Analysis of Exhaust Gas Waste Heat Recovery with Organic Rankine Cycle for Container Ship</title>
       <link>https://doi.org/10.2139/ssrn.4703037</link>
       <description>Merve G&#220;L &#199;IVGIN, Cengiz Deniz, No host. None(None)] 2024. https://openalex.org/W4391097601
@@ -226,6 +256,16 @@
       <author>Susumu Toko, Takamasa Okumura, Kunihiro Kamataki, Kosuke Takenaka, Kazunori KOGA, Masaharu Shiratani, Yuichi Setsuhara</author>
       <pubDate>Wed, 10 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.7791/jspmee.13.31</guid>
+    </item>
+    <item>
+      <title>MXene-based hybrid nanomaterials in photocatalysis</title>
+      <link>https://doi.org/10.1016/b978-0-323-95515-7.00008-x</link>
+      <description>Attia shaheen, Waseem Raza, Hajera Gul, Nadeem Raza, Arshad Hussain, Andleeb Mehmood, Munir Ahmad, Muhammad Mushtaq, Ghulam Yasin, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488942
+
+                MXenes possess unique properties, such as high electrical conductivity and suitable bandgap, due to which they are very useful in a large number of applications, such as, optoelectronic, energy storage, communications, biomedical, and environmental sectors. Because of their distinctive characteristics, the number of research articles and patents published has been growing quickly. Therefore, owing to its huge research interest, in this chapter we have discussed MXene-based hybrid nanomaterials and focused on their role in photocatalysis and discussed theoretical aspects describing the mechanism of photocatalysis to avoid redundancy. This chapter covers the role of MXenes in the photodegradation of dyes, water splitting, nitrogen fixation or reduction, carbon dioxide reduction, and organic synthesis. Moreover, it includes a detailed discussion on the advantages of MXenes for these applications, and the main challenges that limit their utilization and prospects are outlined.</description>
+      <author>Attia shaheen, Waseem Raza, Hajera Gul, Nadeem Raza, Arshad Hussain, Andleeb Mehmood, Munir Ahmad, Muhammad Mushtaq, Ghulam Yasin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95515-7.00008-x</guid>
     </item>
     <item>
       <title>Plasmonic&#8208;assisted Electrocatalysis for CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction</title>
@@ -268,46 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3853964/v1</guid>
     </item>
     <item>
-      <title>Efficient photocatalytic overall water splitting for hydrogen evolution and CO2 reduction with SiCP4 allotrope monolayers</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159440</link>
-      <description>Yi-tong Yin, Chuan&#8208;Lu Yang, Xiaohu Li, Yu&#8208;Liang Liu, Wenkai Zhao, Applied Surface Science. 654(None)] 2024. https://openalex.org/W4391064993
-
-                Two-dimensional metal-free photocatalysts are catching the attention of researchers. Here, we present several allotrope SiCP4 monolayers with high stability, high carrier mobility, and excellent photocatalytic performance. Using a searching method based on the universal structure predictor evolutionary xtallography, together with assessing the energy and thermodynamic stabilities, and matching the potentials of band edges with the photocatalytic conditions for achieving overall water splitting, we successfully identify 5 highly favorable configurations (including the previously reported one) from a pool of 1056 allotrope SiCP4 monolayers. The results show that the largest solar-to-hydrogen efficiency of the considered monolayers can reach 21.89 %, while a high mobility of 2.7677 &#215; 105 cm2 V&#8722;1 s&#8722;1 is observed, both are superior to those of the previously reported one. The Gibbs free energies for hydrogen or oxygen evolutions, and CO2 reduction reactions indicate they are thermodynamically feasible. Moreover, the hydrogen evolution reaction can proceed spontaneously with two allotrope SiCP4 monolayers. Therefore, the newfound allotrope SiCP4 monolayers are expected to have potential applications in the field of photocatalytic water splitting for hydrogen generation and carbon dioxide reduction.</description>
-      <author>Yi-tong Yin, Chuan&#8208;Lu Yang, Xiaohu Li, Yu&#8208;Liang Liu, Wenkai Zhao</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159440</guid>
-    </item>
-    <item>
-      <title>Redox Processes Involving Oxygen: The Surprising Influence of Redox-Inactive Lewis Acids</title>
-      <link>https://doi.org/10.1021/jacsau.3c00675</link>
-      <description>Davide Lionetti, Sandy Suseno, Angela A. Shiau, Graham de Ruiter, Theodor Agapie, JACS Au. None(None)] 2024. https://openalex.org/W4391100399
-
-                Metalloenzymes with heteromultimetallic active sites perform chemical reactions that control several biogeochemical cycles. Transformations catalyzed by such enzymes include dioxygen generation and reduction, dinitrogen reduction, and carbon dioxide reduction&#8211;instrumental transformations for progress in the context of artificial photosynthesis and sustainable fertilizer production. While the roles of the respective metals are of interest in all these enzymatic transformations, they share a common factor in the transfer of one or multiple redox equivalents. In light of this feature, it is surprising to find that incorporation of redox-inactive metals into the active site of such an enzyme is critical to its function. To illustrate, the presence of a redox-inactive Ca2+ center is crucial in the Oxygen Evolving Complex, and yet particularly intriguing given that the transformation catalyzed by this cluster is a redox process involving four electrons. Therefore, the effects of redox inactive metals on redox processes&#8211;electron transfer, oxygen- and hydrogen-atom transfer, and O&#8211;O bond cleavage and formation reactions&#8211;mediated by transition metals have been studied extensively. Significant effects of redox inactive metals have been observed on these redox transformations; linear free energy correlations between Lewis acidity and the redox properties of synthetic model complexes are observed for several reactions. In this Perspective, these effects and their relevance to multielectron processes will be discussed.</description>
-      <author>Davide Lionetti, Sandy Suseno, Angela A. Shiau, Graham de Ruiter, Theodor Agapie</author>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacsau.3c00675</guid>
-    </item>
-    <item>
-      <title>Improved Production of Astaxanthin from Haematococcus pluvialis Using a Hybrid Open&#8211;Closed Cultivation System</title>
-      <link>https://doi.org/10.3390/app14031104</link>
-      <description>Young-Il An, T.H. Kim, Hwa-Kun Byeon, Vijay Rayamajhi, Ji&#8208;Hyun Lee, Sang-Mok Jung, Hyun Woung Shin, Applied sciences. 14(3)] 2024. https://openalex.org/W4391316403
-
-                Haematococcus species are rich sources of the antioxidant astaxanthin and have good potential for carbon dioxide reduction. A variety of culture systems for these microalgae are currently in development, but clearly profitable approaches have yet to be reported. Open outdoor culture is currently the only feasible culture system for producing large amounts of biomass. In this study, based on laboratory results, the cultivation of Haematococcus was divided into two stages: a green stage characterised by cell growth, and a red stage characterised by astaxanthin accumulation. For mass culture, we adopted a hybrid open&#8211;closed pond system for astaxanthin production. The open culture system was shown to produce approximately 50 kg (dry weight) of biomass per culture at an average rate of 0.51 g L&#8722;1, with 0.52 &#956;g mL&#8722;1 of astaxanthin content in a 12 -m3 water tank. As large amounts of microalgal bioproducts are in high demand, inexpensive open outdoor culture methods should be adopted as an alternative to costly closed photobioreactors. Although the levels of biomass and astaxanthin production were found to be 30% lower in the field than in the laboratory in this study, the basic data obtained in this research may be useful for lowering astaxanthin production costs.</description>
-      <author>Young-Il An, T.H. Kim, Hwa-Kun Byeon, Vijay Rayamajhi, Ji&#8208;Hyun Lee, Sang-Mok Jung, Hyun Woung Shin</author>
-      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/app14031104</guid>
-    </item>
-    <item>
-      <title>Pulse Electrolysis Turns on CO2 Methanation through N&#8208;Confused Cupric Porphyrin</title>
-      <link>https://doi.org/10.1002/ange.202315922</link>
-      <description>Han&#8208;Xun Wei, Xiao Feng Li, Zhendong Zheng, Huadong Yuan, Long Xiao, Kun Feng, Jingshu Hui, Zhao Deng, Mutian Ma, Jian Cheng, Daqi Song, Fenglei Lyu, Jun Zhong, Yang Peng, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391359092
-
-                Breaking the D4h symmetry in the square&#8208;planar M&#8208;N4 configuration of macrocycle molecular catalysts has witnessed enhanced electrocatalytic activity, but at the expense of electrochemical stability. Herein, we hypothesize that the lability of the active Cu&#8208;N3 motifs in the N&#8208;confused copper (II) tetraphenylporphyrin (CuNCP) could be overcome by applying pulsed potential electrolysis (PPE) during electrocatalytic carbon dioxide reduction. We find that applying PPE can indeed enhance the CH4 selectivity on CuNCP by 3 folds to reach the partial current density of 170 mA cm&#8208;2 at &gt;60% Faradaic efficiency (FE) in flow cell. However, combined ex&#8208;situ X&#8208;ray diffraction (XRD), transmission electron microscope (TEM), and in&#8208;situ X&#8208;ray absorption spectroscopy (XAS), infrared (IR), Raman, scanning electrochemical microscopy (SECM) characterizations reveal that, in a prolonged time scale, the decomplexation of CuNCP is unavoidable, and the promoted water dissociation under high anodic bias with lowered pH and enriched protons facilitates successive hydrogenation of *CO on the irreversibly reduced Cu nanoparticles, leading to the improved CH4 selectivity. As a key note, this study signifies the adaption of electrolytic protocol to the catalyst structure for tailoring local chemical environment towards efficient CO2 reduction.</description>
-      <author>Han&#8208;Xun Wei, Xiao Feng Li, Zhendong Zheng, Huadong Yuan, Long Xiao, Kun Feng, Jingshu Hui, Zhao Deng, Mutian Ma, Jian Cheng, Daqi Song, Fenglei Lyu, Jun Zhong, Yang Peng</author>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202315922</guid>
-    </item>
-    <item>
       <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
       <link>https://doi.org/10.1016/j.cej.2024.148944</link>
       <description>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391057924
@@ -316,6 +316,16 @@
       <author>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148944</guid>
+    </item>
+    <item>
+      <title>MXenes for CO2 reduction: a promising choice</title>
+      <link>https://doi.org/10.1016/b978-0-323-95515-7.00011-x</link>
+      <description>Saira Ajmal, Anuj Kumar, Tuan Anh Nguyen, Ghulam Yasin, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488885
+
+                Fast industrialization and urban growth emit significant amounts of hazardous CO2, which not only produces environmental problems but also causes illness all over the world. Several technologies for purifying air and water have been developed over the last two decades, but they have all failed due to high costs, poor effectiveness, and the creation of secondary contaminants. The photochemical and electrochemical conversion of CO2 into energy-rich molecules is a novel method that can aid in environmental rehabilitation while also meeting the world&#8217;s expanding energy demands. These techniques, however, necessitate extremely selective, energetic, and long-lasting catalysts. Scientists have investigated numerous keen and multifunctional materials for the conversion of CO2 pollution into useful compounds in this area. MXenes, a type of two-dimensional (2D) material made of transition metal nitrides, carbides, and carbonitrides, have engrossed attention because of their extraordinary physicochemical, mechanical, and electrochemical properties. This chapter focuses on CO2 conversion by photochemical and electrochemical methods to valuable products, emphasizing MXene-based materials and their catalytic activity, as well as future prospects.</description>
+      <author>Saira Ajmal, Anuj Kumar, Tuan Anh Nguyen, Ghulam Yasin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95515-7.00011-x</guid>
     </item>
     <item>
       <title>Photocatalytic CO2 reduction co&#8208;catalyzed by ionic liquids</title>
@@ -438,6 +448,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/review2</guid>
     </item>
     <item>
+      <title>The enhancement effect of oxygen vacancy on photocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1039/d3ta07981c</link>
+      <description>Qiang Yang, Yunyi Wang, Qingwen Tian, Xiang Li, Aixiang Pan, Mingshan Zhao, Yanan Zhu, Tao Wu, Guigan Fang, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4391488490
+
+                BiOBr with various concentrations of oxygen vacancies was manufactured via a solvothermal method using various alcohols as reducing agents. The reductive alcohol resulted in the fracture of the Bi-O bond,...</description>
+      <author>Qiang Yang, Yunyi Wang, Qingwen Tian, Xiang Li, Aixiang Pan, Mingshan Zhao, Yanan Zhu, Tao Wu, Guigan Fang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta07981c</guid>
+    </item>
+    <item>
       <title>Boosting the photocatalytic CO2 reduction activity of g-C3N4 by acid modification</title>
       <link>https://doi.org/10.1016/j.seppur.2024.126577</link>
       <description>Licheng Zhou, Jianping Ao, Zhi Wang, Zhenhong Huang, Zhaoyi Xu, Xiaofeng Wu, Zhenmin Cheng, Kangle Lv, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391293841
@@ -526,26 +546,6 @@
       <author>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159501</guid>
-    </item>
-    <item>
-      <title>Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.173589</link>
-      <description>Xiaowan Mu, Qiuhua Xu, Yu Xie, Yongcun Ma, Zhiqi Zhang, Zhen Shen, Yue Guo, Jian Yu, Saira Ajmal, Wei Zhang, Jie Zhao, Journal of Alloys and Compounds. 980(None)] 2024. https://openalex.org/W4391188424
-
-                A simple photodeposition method is used to prepare Cu and Au nanoparticles modified TiO2 nanocomposites. The phase composition of the catalyst is determined by x-ray diffraction. The mutual synergistic effects of Cu and Au are analyzed using x-ray photoelectron spectroscopy, photoluminescence spectroscopy and UV diffuse reflectance spectroscopy. The results indicate that the TiO2 is anatase structure with hollow cubic morphology, which enhances the utilization of visible light and improves the photocatalytic performance compared with P25. The Cu0.7Au0.3/TiO2 has the highest carrier separation efficiency and the best photocatalytic performance with a CO yield of 6.08 umol g-1 h-1, which is about four times higher than that of TiO2 (1.56 umol g-1 h-1). The aforementioned results indicate that the photocatalytic activity for CO2 reduction is greatly enhanced by the addition of modest quantities of Cu and Au NPs. During the photocatalytic process, the presence of Au NPs absorbs visible light and modulates the surface structure of electrons, while Cu serves as an electron sink, hence promoting efficient separation of electron-hole pairs. Utilizing the distinct benefits of bimetal and their robust interactions is a viable and efficacious approach for boosting the photocatalytic activity.</description>
-      <author>Xiaowan Mu, Qiuhua Xu, Yu Xie, Yongcun Ma, Zhiqi Zhang, Zhen Shen, Yue Guo, Jian Yu, Saira Ajmal, Wei Zhang, Jie Zhao</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173589</guid>
-    </item>
-    <item>
-      <title>Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites</title>
-      <link>https://openalex.org/W4391077147</link>
-      <description>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;&#8208;Daura, Caroline Mellot&#8208;Draznieks, Anne Dolbecq, No host. None(None)] 2023. https://openalex.org/W4391077147
-
-                No abstract</description>
-      <author>K. Talbi, Pierre Mialane, F. Sim&#243;n Hidalgo, Albert Sol&#233;&#8208;Daura, Caroline Mellot&#8208;Draznieks, Anne Dolbecq</author>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4391077147</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 18:28:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Amorphous MnO&lt;sub&gt;2&lt;/sub&gt; Lamellae Encapsulated Covalent Triazine Polymer&#8208;Derived Multi&#8208;Heteroatoms&#8208;Doped Carbon for Orr/Oer Bifunctional Electrocatalysis</title>
-      <link>https://doi.org/10.1002/adma.202312868</link>
-      <description>Liping Huo, Mei Lv, Mingjin Li, Xuepeng Ni, Jingyu Guan, Jian Liu, Shuxing Mei, Yu&#8208;Ting Yang, Miaomiao Zhu, Qichun Feng, Ping Geng, Jianhua Hou, Niu Huang, Wei Liu, Xin Ying Kong, Yong Zheng, Liqun Ye, Advanced Materials. None(None)] 2024. https://openalex.org/W4391014747
-
-                The intelligent construction of non-noble metal materials that exhibit reversible oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) with bifunctional electrocatalytic performance is greatly coveted in the realm of zinc-air batteries (ZABs). Herein, a crafted structure-amorphous MnO2 lamellae encapsulated covalent triazine polymer-derived N, S, P co-doped carbon sphere (A-MnO2 /NSPC) is designed using a self-doped pyrolysis coupled with an in situ encapsulation strategy. The customized A-MnO2 /NSPC-2 demonstrates a superior bifunctional electrocatalytic performance, confirmed by a small &#916;E index of 0.64 V for ORR/OER. Experimental investigations, along with density functional theory calculations validate that predesigned amorphous MnO2 surface defects and abundant heteroatom catalytic active sites collectively enhance the oxygen electrocatalytic performance. Impressively, the A-MnO2 /NSPC-based rechargeable liquid ZABs show a large open-circuit potential of 1.54 V, an ultrahigh peak power density of 181 mW cm-2 , an enormous capacity of 816 mAh g-1 , and a remarkable stability for more than 1720 discharging/charging cycles. Additionally, the assembled flexible all-solid-state ZABs also demonstrate outstanding cycle stability, surpassing 140 discharging/charging cycles. Therefore, this highly operable synthetic strategy offers substantial understanding in the development of magnificent bifunctional electrocatalysts for various sustainable energy conversions and beyond.</description>
-      <author>Liping Huo, Mei Lv, Mingjin Li, Xuepeng Ni, Jingyu Guan, Jian Liu, Shuxing Mei, Yu&#8208;Ting Yang, Miaomiao Zhu, Qichun Feng, Ping Geng, Jianhua Hou, Niu Huang, Wei Liu, Xin Ying Kong, Yong Zheng, Liqun Ye</author>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202312868</guid>
-    </item>
     <item>
       <title>Excellent Bifunctional Oxygen Evolution and Reduction Electrocatalysts (5A&lt;sub&gt;1/5&lt;/sub&gt;)Co&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; and Their Tunability</title>
       <link>https://doi.org/10.1021/acsmaterialsau.3c00088</link>
@@ -258,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2023.11.067</guid>
     </item>
     <item>
+      <title>Functionality Modulation Towards Thianthrene&#8208;based Metal&#8208;Free Electrocatalysts for Water Splitting</title>
+      <link>https://doi.org/10.1002/adma.202310938</link>
+      <description>Arnab Sadhukhan, Arun Karmakar, Kalipada Koner, Shayan Karak, Rahul Kumar Sharma, Avishek Roy, Prince Sen, Krishna Kishor Dey, Venkataramanan Mahalingam, Biswarup Pathak, Subrata Kundu, Rahul Banerjee, Advanced Materials. None(None)] 2024. https://openalex.org/W4391064426
+
+                The development of metal-free bifunctional electrocatalysts for hydrogen and oxygen evolution reactions (HER and OER) is of significant importance but has been rarely demonstrated. Porous organic polymers (POPs) with well-defined electroactive functionalities show superior performance in HER and OER. Precise control of the active sites' local environment requires careful modulation of linkers through the judicious selection of building units. Here, we have introduced a systematic strategy for modulating functionality to design and synthesize a series of thianthrene-based bifunctional sp2 C = C bonded POPs with hollow spherical morphologies exhibiting superior electrocatalytic activity. This precise structural tuning allowed us to gain insight into the effects of heteroatom incorporation, hydrophilicity, and variations in linker length on electrocatalytic activity. The most efficient bifunctional electrocatalyst THT-PyDAN achieved a current density of 10 mAcm&#9472;2 at an overpotential (&#951;10 ) of approximately 65 mV (in 0.5 M H2 SO4 ) and around 283 mV (in 1 M KOH) for HER and OER, respectively. THT-PyDAN exhibited superior activity to all previously reported metal-free bifunctional electrocatalysts in the literature. Furthermore, our investigations demonstrated that THT-PyDAN maintains its performance even after 36 hours of chronoamperometry and 1000 CV cycling. Post-catalytic characterization using FT-IR, XPS, and microscopic imaging techniques underscores the long-term durability of THT-PyDAN. This article is protected by copyright. All rights reserved.</description>
+      <author>Arnab Sadhukhan, Arun Karmakar, Kalipada Koner, Shayan Karak, Rahul Kumar Sharma, Avishek Roy, Prince Sen, Krishna Kishor Dey, Venkataramanan Mahalingam, Biswarup Pathak, Subrata Kundu, Rahul Banerjee</author>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202310938</guid>
+    </item>
+    <item>
       <title>Advancing oxygen evolution electrocatalysis with human-machine intelligence</title>
       <link>https://doi.org/10.1016/j.checat.2023.100868</link>
       <description>Liping Liu, Siwen Wang, Chen Ling, Hongliang Xin, Chem Catalysis. 4(1)] 2024. https://openalex.org/W4391043168
@@ -266,6 +266,16 @@
       <author>Liping Liu, Siwen Wang, Chen Ling, Hongliang Xin</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2023.100868</guid>
+    </item>
+    <item>
+      <title>Single-atom catalysts for electrocatalytic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/b978-0-323-95237-8.00012-4</link>
+      <description>Ajit Singh, B. N. Singh, Arindam Indra, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488890
+
+                In recent years, a series of noble metals and transition metal-based single-atom catalysts (SACs) have been explored for electrochemical oxygen evolution reaction (OER). The unique structural and electronic features of the SACs facilitate the OER with maximum atomic utilization. As a result, a high turnover frequency is achieved with SACs. In this chapter, we have summarized the fundamentals of the SACs and their design strategies for electrochemical OER. The detailed characterization of the SACs and its utilization in OER has been discussed with suitable examples. The principles and reaction mechanism of electrochemical OER with SACs have been discussed looking at the structure of the active catalyst and reaction intermediates.</description>
+      <author>Ajit Singh, B. N. Singh, Arindam Indra</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95237-8.00012-4</guid>
     </item>
     <item>
       <title>Interface effect of MXene/CoP2 on oxygen evolution reaction</title>
@@ -378,6 +388,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202301250</guid>
     </item>
     <item>
+      <title>Tailoring Metal-Ion-Doped Carbon Nitrides for Photocatalytic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c05961</link>
+      <description>Shanping Liu, Valentin Diez&#8208;Cabanes, Dong Fan, Peixiang Lu, Yuanxing Fang, Markus Antonietti, Guillaume Maurin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391486029
+
+                Poly(heptazine imides) (PHIs) have emerged as prominent layered carbon nitride-based materials with potential oxygen evolution reaction (OER) catalytic activity owing to their strong VIS light absorption, long excited-state lifetimes, high surface-to-volume ratios, and the possibility of tuning their properties via hosting different metal ions in their pores. A series of metal-ion-doped PHI-M (M = K+, Rb+, Mg2+, Zn2+, Mn2+, and Co2+) were first systematically explored using density functional theory calculations. These simulations led an in-depth understanding of the microscopic OER mechanism in these systems and identified PHI-Co2+ as the best OER catalyst of this family of PHIs, whereas PHI-Mn2+ can be an alternative promising OER catalyst. This level of performance was attributed to a thermodynamically favorable formation of the reaction intermediates as well as its red-shifted absorption in the VIS region involving the population of long-lived states, as revealed by time-dependent density functional theory calculations. We further demonstrated that the electronic properties of the *OH intermediates (Bader population, crystal orbital Hamilton population analysis, and adsorption energies) are reliable descriptors to anticipate the OER activity of this family of PHIs. This rational analysis paved the way toward the prediction of the OER performance of another PHI-M derivative, i.e., PHI-Fe2+. The computationally explored PHI-Fe2+, PHI-Mn2+, and PHI-Co2+ systems were then synthesized alongside PHI-K+, and their photocatalytic OER activities were assessed. These experimental findings confirmed the best photocatalytic OER performance for PHI-Co2+ with an oxygen production of 31.2 &#956;mol&#183;h&#8211;1 that is 60 times higher than the pristine g-C3N4 (0.5 &#956;mol&#183;h&#8211;1), whereas PHI-Fe2+ and PHI-Mn2+ are seen as alternative OER catalysts with attractive oxygen production of 11.20 and 4.69 &#956;mol&#183;h&#8211;1, respectively. Decisively, this joint experimental&#8211;computational study reveals PHI-Co2+ to be among the best of the OER catalysts so far reported in the literature including some perovskites.</description>
+      <author>Shanping Liu, Valentin Diez&#8208;Cabanes, Dong Fan, Peixiang Lu, Yuanxing Fang, Markus Antonietti, Guillaume Maurin</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05961</guid>
+    </item>
+    <item>
       <title>Spinel-type high-entropy oxide nanotubes for efficient oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.colsurfa.2024.133315</link>
       <description>Yanbin Zhu, Qing Xiang, Guo Le, Shuanglong Lu, Fang Duan, Mingliang Du, Han Zhu, Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4391177777
@@ -416,6 +436,16 @@
       <author>Et al. Jagannath Jijaba Kadam</author>
       <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.17762/ijritcc.v11i9.9214</guid>
+    </item>
+    <item>
+      <title>Medium-Entropy Co&#8211;Fe&#8211;Cr&#8211;Mo Spinel Nanoflowers as Electrocatalysts for Oxygen Evolution</title>
+      <link>https://doi.org/10.1021/acsanm.3c05568</link>
+      <description>Yuhang Sun, Tianmi Tang, Liyuan Xiao, Jingyi Han, Xue Bai, Mingyuan Shi, Siyu Chen, Jingru Sun, Yuanyuan Ma, Jingqi Guan, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4391464648
+
+                Oxygen evolution reaction (OER) plays an important role in many electrocatalysis-related fields. However, the slow kinetics of the OER seriously hinders energy efficiency. Here, we synthesize flower-like Co&#8211;Fe&#8211;Cr&#8211;Mo medium-entropy spinel (MES) nanosheets on nickel foam (NF) using one-step solvothermal method for the OER. Due to high stability and compositional diversity, the CoFeCrMoOx/NF catalyst exhibits excellent electrocatalytic OER performance with an overpotential of only 196 mV at 10 mA cm&#8211;2 in 1.0 M KOH solution, much lower than CoFeCrMnOx/NF, CoFeCrCeOx/NF, CoFeCrSnOx/NF, CoFeCrAlOx/NF, and commercial IrO2 catalysts, reflecting that the formation of flower-like MES has a positive effect on the improvement of OER performance. The introduction of Mo increases active sites, promotes electron transfer, accelerates the adsorption and desorption of the OER intermediates, reduces the energy barrier, and thus improves the performance of the OER. In situ Raman spectra indicate that the surface CoOOH and FeOOH species are important active components for the OER.</description>
+      <author>Yuhang Sun, Tianmi Tang, Liyuan Xiao, Jingyi Han, Xue Bai, Mingyuan Shi, Siyu Chen, Jingru Sun, Yuanyuan Ma, Jingqi Guan</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05568</guid>
     </item>
     <item>
       <title>Tungsten-doped cobalt-iron bimetallic phosphide nanoparticles for enhanced oxygen evolution reaction</title>
@@ -466,26 +496,6 @@
       <author>Linfeng Yang, Shuang Yu, Feng Luo, Yang Liu, Xiaoqiang Wu, Xiao&#8208;Nan Liu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.133360</guid>
-    </item>
-    <item>
-      <title>Novel two-dimensional boron-centered graphdiyne analogue as multifunctional electrocatalyst for hydrogen evolution, oxygen evolution, and oxygen reduction reactions</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.01.278</link>
-      <description>Cong Wang, Xin Wang, Donglai Han, Jing Song, Zhong&#8208;Min Su, Min Zhang, International Journal of Hydrogen Energy. 58(None)] 2024. https://openalex.org/W4391301139
-
-                Seeking multifunctional electrocatalysts capable of driving the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR) is becoming increasingly crucial in the realm of sustainable energy development. Herein, the multifunctional electrocatalytic activities of HER, OER, and ORR in two-dimensional (2D) boron-centered graphdiyne analogue (B-GDY) are identified by first-principles computations, and its low overpotentials of HER/OER/ORR (0.02/0.55/0.52 V) are comparable to, or even surpasses, well-developed noble-metal-based catalysts. The remarkable multifunctional electrocatalytic activity of B-GDY can be attributed to the unique orbital distribution of the 2D framework as evidenced by its highest occupied molecular orbitals (HOMO), and synergistic interplay of boron-centered carbocycles and diacetylene linkages in its unique 2D framework. More importantly, the data confirm our motivation by replacing the central C in small aromatic groups with the adjacent element of B can realize/create multi-active sites in the original aromatic functional groups (the simplest boron-centered triangulene-like units). Hence, this study not only provides cost-effective alternatives to metal-based catalysts but also paves the way for designing and developing novel, multifunctional electrocatalysts.</description>
-      <author>Cong Wang, Xin Wang, Donglai Han, Jing Song, Zhong&#8208;Min Su, Min Zhang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.278</guid>
-    </item>
-    <item>
-      <title>Sputter&#8208;Deposited La&#8211;Co&#8211;Mn&#8211;O Nanocolumns as Stable Electrocatalyst for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/sstr.202300415</link>
-      <description>Tobias Horst Piotrowiak, Olga A. Krysiak, Ellen Suhr, Jian Zhang, Rico Zehl, Aleksander Kostka, Wolfgang Schuhmann, Alfred Ludwig, No host. None(None)] 2024. https://openalex.org/W4391328293
-
-                A thin&#8208;film materials library (ML) of the La&#8211;Co&#8211;Mn&#8211;O system is fabricated by hot reactive combinatorial cosputter deposition and screened for its electrocatalytic activity for the oxygen evolution reaction. Within this ML, an area with superior catalytic activity is identified. In&#8208;depth characterization of this region reveals a unique columnar&#8208;grown microstructure showing a large catalytic surface and excellent stability during electrocatalytic measurements. A zoom&#8208;in into these structures shows that the columns are compositionally and structurally not homogeneous but are composed of a mixture of the perovskite phase LaCoMnO 3 and Co&#8211;Mn&#8211;O oxide. Nanoelectrochemistry using the particle on a nanoelectrode approach confirms the high activity as well as stability of the single columns.</description>
-      <author>Tobias Horst Piotrowiak, Olga A. Krysiak, Ellen Suhr, Jian Zhang, Rico Zehl, Aleksander Kostka, Wolfgang Schuhmann, Alfred Ludwig</author>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/sstr.202300415</guid>
     </item>
   </channel>
 </rss>

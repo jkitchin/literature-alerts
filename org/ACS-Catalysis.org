@@ -1,13 +1,13 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Feb  3 00:38:43 2024
+Created on Sat Feb  3 18:29:07 2024
 
 Found 25 results from 2024-01-20 to 2024-02-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
-** One-Pot Sequential Two-Step Photo-Biocatalytic Deracemization of sec-Alcohols Combining Photocatalytic Oxidation and Bioreduction  :ACS_Catalysis:
+* One-Pot Sequential Two-Step Photo-Biocatalytic Deracemization of sec-Alcohols Combining Photocatalytic Oxidation and Bioreduction  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391025463
 :TOPICS: Principles and Applications of Green Chemistry, Droplet Microfluidics Technology, Antibiotic Resistance in Aquatic Environments and Wastewater
@@ -27,7 +27,7 @@ Chiral alcohols are versatile building blocks and are of particular interest in 
 
     
 
-** CO2 Hydrogenation with High Selectivity by Single Bi Atoms on MXenes Enabled by a Concerted Mechanism  :ACS_Catalysis:
+* CO2 Hydrogenation with High Selectivity by Single Bi Atoms on MXenes Enabled by a Concerted Mechanism  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391025688
 :TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Electrochemical Reduction of CO2 to Fuels
@@ -47,7 +47,7 @@ Developing efficient catalysts for the capture and direct conversion of CO2 into
 
     
 
-** Partially Bonded Aluminum Site on the External Surface of Post-treated Au/ZSM-5 Enhances Methane Oxidation to Oxygenates  :ACS_Catalysis:
+* Partially Bonded Aluminum Site on the External Surface of Post-treated Au/ZSM-5 Enhances Methane Oxidation to Oxygenates  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391026262
 :TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Chemistry and Applications of Metal-Organic Frameworks
@@ -67,7 +67,7 @@ Au nanoparticles supported on the exterior surface of the ZSM-5 zeolite (Au/ZSM-
 
     
 
-** Cu/Au(111) Surfaces and AuCu Intermetallics for Electrocatalytic Reduction of CO2 in Ionic Liquid Electrolytes  :ACS_Catalysis:
+* Cu/Au(111) Surfaces and AuCu Intermetallics for Electrocatalytic Reduction of CO2 in Ionic Liquid Electrolytes  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391029986
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Dehydrogenation of Light Alkanes
@@ -87,7 +87,7 @@ Room-temperature ionic liquids (RTIL) are important alternatives to aqueous elec
 
     
 
-** Issue Editorial Masthead  :ACS_Catalysis:
+* Issue Editorial Masthead  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391030911
 :TOPICS: Application of Partially Ordered Sets in Chemistry Research
@@ -107,7 +107,7 @@ ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTIssue Editorial MastheadCite this: A
 
     
 
-** Issue Publication Information  :ACS_Catalysis:
+* Issue Publication Information  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391034308
 :TOPICS: Bibliometric Analysis and Research Evaluation, Application of Partially Ordered Sets in Chemistry Research, Scientific Writing and Publication Practices
@@ -127,7 +127,7 @@ ADVERTISEMENT RETURN TO ISSUEPREVArticleIssue Publication InformationCite this: 
 
     
 
-** Strongly Electron-Interacting Ru–Ce Pair Sites in RuOx/CeO2–HAP for Efficient Oxidation of MMF to FDCA  :ACS_Catalysis:
+* Strongly Electron-Interacting Ru–Ce Pair Sites in RuOx/CeO2–HAP for Efficient Oxidation of MMF to FDCA  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391042081
 :TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Polyoxometalate Clusters and Materials, Desulfurization Technologies for Fuels
@@ -147,7 +147,7 @@ As a potential alternative to petroleum-derived terephthalic acid (TPA), the gen
 
     
 
-** Promotion of Anatase/Rutile Junction to Direct Conversion of Syngas to Ethanol on the Rh/TiO2 Catalysts  :ACS_Catalysis:
+* Promotion of Anatase/Rutile Junction to Direct Conversion of Syngas to Ethanol on the Rh/TiO2 Catalysts  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391044381
 :TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Electrochemical Reduction of CO2 to Fuels
@@ -167,7 +167,7 @@ Although significant efforts have been made for the direct syngas conversion to 
 
     
 
-** Surface Oxygen Vacancies Induced by Calcium Substitution in Macroporous La2Ce2–xCaxO7−δ Catalysts for Boosting Low-Temperature Oxidative Coupling of Methane  :ACS_Catalysis:
+* Surface Oxygen Vacancies Induced by Calcium Substitution in Macroporous La2Ce2–xCaxO7−δ Catalysts for Boosting Low-Temperature Oxidative Coupling of Methane  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391044395
 :TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Mesoporous Materials
@@ -187,7 +187,7 @@ Surface oxygen vacancies in the catalysts play a key role in improving the catal
 
     
 
-** Photoexcited Nickel-Catalyzed Carbohalogenation  :ACS_Catalysis:
+* Photoexcited Nickel-Catalyzed Carbohalogenation  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391096631
 :TOPICS: Applications of Photoredox Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization, Role of Fluorine in Medicinal Chemistry and Pharmaceuticals
@@ -207,7 +207,7 @@ A nickel/blue light-catalyzed carbohalogenation reaction is reported. A nickel c
 
     
 
-** Atomic Single-Layer Ir Clusters Enabling 100% Selective Chlorine Evolution Reaction  :ACS_Catalysis:
+* Atomic Single-Layer Ir Clusters Enabling 100% Selective Chlorine Evolution Reaction  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391096719
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
@@ -227,7 +227,7 @@ The exclusive selectivity of the chlorine evolution reaction (CER) is crucial fo
 
     
 
-** Correction to “Iterative Dual-Metal and Energy Transfer Catalysis Enables Stereodivergence in Alkyne Difunctionalization: Carboboration as Case Study”  :ACS_Catalysis:
+* Correction to “Iterative Dual-Metal and Energy Transfer Catalysis Enables Stereodivergence in Alkyne Difunctionalization: Carboboration as Case Study”  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391096721
 :TOPICS: Frustrated Lewis Pairs Chemistry, Accelerating Materials Innovation through Informatics, Peptide Synthesis and Drug Discovery
@@ -247,7 +247,7 @@ ADVERTISEMENT RETURN TO ARTICLES ASAPPREVCorrectionNEXTORIGINAL ARTICLEThis noti
 
     
 
-** Subsurface Mo Vacancy in Bismuth Molybdate Promotes Photocatalytic Oxidation of Lactate to Pyruvate  :ACS_Catalysis:
+* Subsurface Mo Vacancy in Bismuth Molybdate Promotes Photocatalytic Oxidation of Lactate to Pyruvate  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391096818
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials, Porous Crystalline Organic Frameworks for Energy and Separation Applications
@@ -267,7 +267,7 @@ Disclosing the role of subsurface metal defects in photocatalysts remains challe
 
     
 
-** Boosting Artificial Photosynthesis: CO2 Chemisorption and S-Scheme Charge Separation via Anchoring Inorganic QDs on COFs  :ACS_Catalysis:
+* Boosting Artificial Photosynthesis: CO2 Chemisorption and S-Scheme Charge Separation via Anchoring Inorganic QDs on COFs  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391101394
 :TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion
@@ -287,7 +287,7 @@ Photocatalytic conversion of CO2 into valuable hydrocarbon fuels holds great pro
 
     
 
-** Unraveling Hydrogenation Kinetic Behavior of Transition Metal Oxides via Decoupling Dihydrogen Dissociation and Substrate Activation  :ACS_Catalysis:
+* Unraveling Hydrogenation Kinetic Behavior of Transition Metal Oxides via Decoupling Dihydrogen Dissociation and Substrate Activation  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391101416
 :TOPICS: Catalytic Reduction of Nitro Compounds, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
@@ -307,7 +307,7 @@ Both noble metals and transition metal oxides are recognized as active centers f
 
     
 
-** Vacancy Optimized Coordination on Nickel Oxide for Selective Electrocatalytic Oxidation of Glycerol  :ACS_Catalysis:
+* Vacancy Optimized Coordination on Nickel Oxide for Selective Electrocatalytic Oxidation of Glycerol  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391101830
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Aqueous Zinc-Ion Battery Technology
@@ -327,7 +327,7 @@ The production of high-value-added organics by the glycerol oxidation reaction (
 
     
 
-** In Situ Restructuring of ZnCr2O4 Spinel Catalyst Alters Elementary Surface Reaction Kinetics and Catalytic Selectivity in CO Hydrogenation Reaction  :ACS_Catalysis:
+* In Situ Restructuring of ZnCr2O4 Spinel Catalyst Alters Elementary Surface Reaction Kinetics and Catalytic Selectivity in CO Hydrogenation Reaction  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391102226
 :TOPICS: Catalytic Carbon Dioxide Hydrogenation, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
@@ -347,7 +347,7 @@ The CO hydrogenation reaction catalyzed by the ZnCr2O4 catalyst is studied using
 
     
 
-** Amorphous Ruthenium–Selenium Nanoparticles as a pH-Universal Catalyst for Enhanced Hydrogen Evolution Reaction  :ACS_Catalysis:
+* Amorphous Ruthenium–Selenium Nanoparticles as a pH-Universal Catalyst for Enhanced Hydrogen Evolution Reaction  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391105420
 :TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
@@ -367,7 +367,7 @@ In order to broaden the applications of water splitting for hydrogen production,
 
     
 
-** A Comprehensive Analysis of the Overpotential Losses in Polymer Electrolyte Fuel Cells  :ACS_Catalysis:
+* A Comprehensive Analysis of the Overpotential Losses in Polymer Electrolyte Fuel Cells  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391106654
 :TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
@@ -387,7 +387,7 @@ Polymer electrolyte fuel cells (PEFCs) are expected to play a pivotal role in he
 
     
 
-** Cobalt/Organophotoredox Dual-Catalysis-Enabled Cyclization of 1,5,10-Enediynes Involving Metallole-Mediated Remote C(sp3)–H Bond Activation Leading to Axially Chiral Aryl Alkenes  :ACS_Catalysis:
+* Cobalt/Organophotoredox Dual-Catalysis-Enabled Cyclization of 1,5,10-Enediynes Involving Metallole-Mediated Remote C(sp3)–H Bond Activation Leading to Axially Chiral Aryl Alkenes  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391127033
 :TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Atroposelective Synthesis of Axially Chiral Compounds, Gold Catalysis in Organic Synthesis
@@ -407,7 +407,7 @@ Transition-metal-catalyzed C(sp3)–H functionalization has been much less inves
 
     
 
-** Cooperative Interplay of Micropores/Mesopores of Hierarchical Zeolite in Chemical Production  :ACS_Catalysis:
+* Cooperative Interplay of Micropores/Mesopores of Hierarchical Zeolite in Chemical Production  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391131566
 :TOPICS: Zeolite Chemistry and Catalysis, Mesoporous Materials, Catalytic Nanomaterials
@@ -427,7 +427,7 @@ Zeolites are crystalline microporous aluminosilicates that play a crucial role a
 
     
 
-** Deep Insight into Characterizing the Metal–Support Interface in Heterogeneous Catalysis  :ACS_Catalysis:
+* Deep Insight into Characterizing the Metal–Support Interface in Heterogeneous Catalysis  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391136449
 :TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Catalytic Reduction of Nitro Compounds
@@ -447,7 +447,7 @@ Supported metal species are widely used as catalysts in heterogeneous catalysis.
 
     
 
-** Modular Synthesis of Complex Benzoxaboraheterocycles through Chelation-Assisted Rh-Catalyzed [2 + 2 + 2] Cycloaddition  :ACS_Catalysis:
+* Modular Synthesis of Complex Benzoxaboraheterocycles through Chelation-Assisted Rh-Catalyzed [2 + 2 + 2] Cycloaddition  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391157080
 :TOPICS: Frustrated Lewis Pairs Chemistry, Transition-Metal-Catalyzed C–H Bond Functionalization, Applications of Photoredox Catalysis in Organic Synthesis
@@ -467,7 +467,7 @@ Benzoxaboraheterocycles (BOBs) are moieties of increasing interest in the pharma
 
     
 
-** Switching the Oxygen Reduction Route on Pt Using S through d–p Hybridization  :ACS_Catalysis:
+* Switching the Oxygen Reduction Route on Pt Using S through d–p Hybridization  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391166858
 :TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Perovskite Solar Cell Technology
@@ -487,7 +487,7 @@ The development of electrocatalysts capable of selective two-electron oxygen red
 
     
 
-** Steric Effects on CO2 Reduction with Substituted Mn(bpy)(CO)3X-Type Catalysts on Multiwalled Carbon Nanotubes Reveal Critical Mechanistic Details  :ACS_Catalysis:
+* Steric Effects on CO2 Reduction with Substituted Mn(bpy)(CO)3X-Type Catalysts on Multiwalled Carbon Nanotubes Reveal Critical Mechanistic Details  :ACS_Catalysis:
 :PROPERTIES:
 :ID: https://openalex.org/W4391166871
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion

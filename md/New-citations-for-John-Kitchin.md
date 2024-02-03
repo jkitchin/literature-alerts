@@ -1,8 +1,8 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Sat Feb  3 00:38:51 2024
+Created on Sat Feb  3 18:29:14 2024
 
-Found 31 results from 2024-01-20 to 2024-02-03
+Found 32 results from 2024-01-20 to 2024-02-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370)
@@ -145,17 +145,6 @@ Proton exchange membrane water electrolysis (PEMWE) is an environmentally benign
 
     
 
-## Interfacial microenvironment effects on electrochemical CO2 reduction   
-
-OpenAlex: https://openalex.org/W4391057924    
-Open access: False
-    
-[Xianlang Chen](https://openalex.org/A5034321189), [Chunhua Chen](https://openalex.org/A5033098099), [Yuyao Wang](https://openalex.org/A5058091201), [Zhengyu Pan](https://openalex.org/A5038379970), [Junjie Chen](https://openalex.org/A5029892501), [Yuyang Xu](https://openalex.org/A5074623897), [Liehuang Zhu](https://openalex.org/A5017195907), [Tongyang Song](https://openalex.org/A5064322695), [Rongrong Li](https://openalex.org/A5025855204), [Liang Chen](https://openalex.org/A5092477785), [Ji-Qing Lu](https://openalex.org/A5046377738), Chemical Engineering Journal. 482(None)] 2024.https://doi.org/10.1016/j.cej.2024.148944.
-    
-Electrochemical reduction of carbon dioxide (ECR) powered by renewable energy has the potential to utilize the intermittent renewable electric energy, alleviate the problem of excessive CO2 emissions and yield high value-added chemicals. Despite the intrinsic activity of the well-designed catalysts, subtle changes in the electrode–electrolyte interface will have a significant impact on the overall reaction. The electrode and its microenvironment together determine the ECR performance. Revealing the relationship between the microenvironment of the catalyst-electrolyte interface and the ECR performance is critical for explaining the reaction mechanism and controlling the reaction process accurately. To maximize the catalytic performance includes the activity, selectivity and stability, the fundamental understanding of the interfacial microenvironment should be clarified as important as the intrinsic properties of the catalyst. Researches on the microenvironment in ECR have been gradually launched while the comprehensive discussion is scarcely. In this review, the interfacial microenvironment changes affected by multiple influence factors including the electrolyte effects (cation effect, anion effect, local pH, electrolyte type and concentration), morphological effects (tip effect, confinement effect), catalyst surface modification (surface hydrophobicity, chemical and electronic state) and electrolyzers improvement (gas diffusion electrode, membrane electrode reaction microenvironment control) are illustrated. Finally, some perspectives are offered on the basis of understanding the connection of catalytic activity and the interfacial microenvironment, these insights obtained can be applied for better control the CO2 reduction and rational design reactors.    
-
-    
-
 ## Constructing highly efficient bifunctional catalysts for oxygen reduction and oxygen evolution by modifying MXene with transition metal   
 
 OpenAlex: https://openalex.org/W4391063505    
@@ -288,6 +277,17 @@ Unraveling the underlying thermodynamic principles governing the sustainable con
 
     
 
+## P‐Incorporation Induced Enhancement of Lattice Oxygen Participation in Double Perovskite Oxides to Boost Water Oxidation   
+
+OpenAlex: https://openalex.org/W4391108255    
+Open access: False
+    
+[Gaoliang Fu](https://openalex.org/A5064379315), [Leilei Zhang](https://openalex.org/A5041308193), [Ruixue Wei](https://openalex.org/A5038016779), [Huili Liu](https://openalex.org/A5091194552), [Ruipeng Hou](https://openalex.org/A5053413075), [Yue Zhang](https://openalex.org/A5033669929), [Kun Yang](https://openalex.org/A5038424932), [Shouren Zhang](https://openalex.org/A5084707037), Small. None(None)] 2024.https://doi.org/10.1002/smll.202309091.
+    
+Abstract Activating the lattice oxygen in the catalysts to participate in the oxygen evolution reaction (OER), which can break the scaling relation–induced overpotential limitation (> 0.37 V) of the adsorbate evolution mechanism, has emerged as a new and highly effective guide to accelerate the OER. However, how to increase the lattice oxygen participation of catalysts during OER remains a major challenge. Herein, P‐incorporation induced enhancement of lattice oxygen participation in double perovskite LaNi 0.58 Fe 0.38 P 0.07 O 3‐σ (PLNFO) is studied. P‐incorporation is found to be crucial for enhancing the OER activity. The current density reaches 1.35 mA cm ECSA −2 at 1.63 V (vs RHE), achieving a sixfold increase in intrinsic activity. Experimental evidences confirm the dominant lattice oxygen participation mechanism (LOM) for OER pathway on PLNFO. Further electronic structures reveal that P‐incorporation shifts the O p ‐band center by 0.7 eV toward the Fermi level, making the states near the Fermi level more O p character, thus facilitating LOM and fast OER kinetics. This work offers a possible method to develop high‐performance double perovskite OER catalysts for electrochemical water splitting.    
+
+    
+
 ## NH3 decomposition in autothermal microchannel reactors   
 
 OpenAlex: https://openalex.org/W4391064792    
@@ -329,6 +329,17 @@ Open access: True
 [Yuting Li](https://openalex.org/A5037192036), [Daniel Bahamón](https://openalex.org/A5008587112), [Josep Albero](https://openalex.org/A5035200677), [Núria López](https://openalex.org/A5003113483), [Lourdes F. Vega](https://openalex.org/A5024375429), Journal of CO2 Utilization. 80(None)] 2024.https://doi.org/10.1016/j.jcou.2024.102692.
     
 We present the first comprehensive investigation of transition metal-substituted Hydroxyapatite (TM-HAP) materials for photocatalytic CO2 reduction (CO2RR). Density functional theory (DFT) was used to study in a systematic manner the stability of 3d, 4d, 5d transition metal dopants on the HAP (000̅1) surface, analyzing their stability, activity, and selectivity for photocatalytic CO2RR. DFT results allowed to narrow down the selection to three transition metal elements (Co, Ni, Mo) based on their structural stability, band structure and performance. A selective analysis of product formation for carbon monoxide and formate was made, showing that TM dopants facilitate the initial protonation step in the CO2 reduction by adsorbing H2 molecule on TM atoms and then dissociating it into two hydrogen atoms. The performance of Ni- and Co-HAP towards the reaction activity is consistent with experimental results. Mo-HAP stands as a new and attractive photocatalyst for further investigation, given its excellent predicted performance.    
+
+    
+
+## Production of chemicals and energy   
+
+OpenAlex: https://openalex.org/W4391490678    
+Open access: False
+    
+[Adewale Giwa](https://openalex.org/A5090237092), [Ahmed Yusuf](https://openalex.org/A5058039764), [Hammed Abiodun Balogun](https://openalex.org/A5085290744), [B. Anand](https://openalex.org/A5004218958), [Setareh Heidari](https://openalex.org/A5009249283), [David M. Warsinger](https://openalex.org/A5086834992), [Hanifa Taher](https://openalex.org/A5064479882), [Sulaiman Al‐Zuhair](https://openalex.org/A5024490919), [Bismah Shaikh](https://openalex.org/A5003419976), Elsevier eBooks. None(None)] 2024.https://doi.org/10.1016/b978-0-443-14005-1.00009-x.
+    
+Electrochemical membrane technology has been identified as a promising technology for sustainable chemical and energy production due to its potential to address several challenges in the production of chemicals and energy, including energy consumption, greenhouse gas emissions, and waste generation. Electrochemical membrane processes can be applied to produce a wide range of feedstocks, including gases, liquids, and solids. This versatility can enable the coproduction of multiple chemicals and energy products from various feedstocks. In this chapter, the production of chemicals and energy, including bioelectricity, biomethane, biohydrogen, bioethanol, hydrogen peroxide, biodegradable electronics and biosensors, dry air from humid air, air separation into nitrogen and oxygen gases, organic solvent extraction, CO2 and H2 separation from gas mixtures, plasma generation, dewatered microalgae biomass, and purified microalgae-based products, are discussed. Electrochemical membrane processes can offer environmental benefits, such as CO2 reduction, leading to more sustainable and socially responsible production practices. The electrochemical conversion of CO2 can lead to the production of valuable chemicals, such as ethanol. With continued research and development, electrochemical membrane technology is expected to play an increasingly important role in chemical and energy production.    
 
     
 
