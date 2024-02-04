@@ -1,6 +1,6 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Feb  4 00:42:03 2024
+Created on Sun Feb  4 14:23:14 2024
 
 Found 49 results from 2024-01-21 to 2024-02-04
 OpenAlex URLS (not including from_created_date or the API key)
@@ -447,17 +447,6 @@ An efficient oxygen evolution reaction (OER) electrocatalysts are widely require
 
     
 
-## Novel Amorphous Feooh-Modified Co9s8 Nanosheets with Enhanced Oxygen Evolution Reaction Activity   
-
-OpenAlex: https://openalex.org/W4391405828    
-Open access: False
-    
-[Chong Wang](https://openalex.org/A5007803202), [Huanlu Tu](https://openalex.org/A5036746330), [Zeyu Hao](https://openalex.org/A5071814351), [Yaxin Li](https://openalex.org/A5037742951), [Jing Xu](https://openalex.org/A5038906848), [Xiaoying Hu](https://openalex.org/A5016312685), [Shansheng Yu](https://openalex.org/A5020651129), [Hongwei Tian](https://openalex.org/A5037428389), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4711575.
-    
-Efficient oxygen evolution reaction (OER) is important for water electrolysis and advanced hydrogen production energy. However, the sluggish kinetics of this reaction require significant overpotentials, leading to high energy consumption. Therefore, developing OER electrocatalysts with exceptional performance and long-term durability is crucial for enhancing the energy efficiency and cost-effectiveness of the hydrogen production process. In this paper, novel FeOOH/Co9S8 catalysts were prepared through a two-step hydrothermal reaction followed by one-step electrodeposition on nickel foam substrates for an alkaline oxygen evolution reaction (OER). The as-obtained catalysts possessed abundant non-homogeneous interfaces between FeOOH and Co9S8 nanosheets, conducive to optimized coordination environments of Fe and Co sites through the redistribution of interfacial charges. This strengthened the chemisorption of oxygenated intermediates, leading to accelerated reaction kinetics, abundant active sites, and enhanced OER properties. The optimized electrocatalyst FeOOH/Co9S8 achieved a current density of 10 mA cm-2 at an overpotential of 248 mV coupled with good stability for over 140 h. Overall, a novel approach for producing effective and durable alkaline dielectric OER electrocatalysts was proposed, useful for future manufacturing of advanced energy devices.    
-
-    
-
 ## Machine Learning-Based Optimization Method for the Oxygen Evolution and Reduction Reaction of the High-Entropy Alloy Catalysts   
 
 OpenAlex: https://openalex.org/W4391330920    
@@ -466,6 +455,17 @@ Open access: True
 [Et al. Jagannath Jijaba Kadam](https://openalex.org/A5093816237), International Journal on Recent and Innovation Trends in Computing and Communication. 11(9)] 2023.https://doi.org/10.17762/ijritcc.v11i9.9214.
     
 In recent times, high-entropy alloys (HEAs) have found application in heterogeneous catalysis, capitalizing on their vast chemical potential. Yet, this extensive chemical landscape presents significant challenges when attempting a comprehensive exploration of HEAs through traditional trial-and-error approaches. Therefore, the machine learning (ML) approach is offered to appearance into the catalytic activity (CA) of countless sensitive sites on HEA surfaces in the oxygen-lessening response (ORR) and oxygen evolution reactions (OER). In this research, a Density Functional Theory (DFT) with a supervised ML model is assembled and founded on the gradient boosting regression (GBR) algorithm that predicted the O2 adsorption energies with a high overpotential of all surface sites on the two HEAs. Initially, the HEAs Co-Fe-Ga-Ni-Zn and Al-Cu-Pd-Pt offer a framework for adjusting the composition of disordered multi-metallic alloys to regulate the activity and selectivity of the reduction of oxygen to extremely reduced compounds. This attains generalizability, high accuracy and simplicity with the proposed technique. For fine-tuning such features, HEAs provide a huge compositional space. Consequently, the research reports the custom of the Bayesian optimization model based on HEA active compositions to suppress the formation of Oxygen (O2) and with strong O2 adsorption to favour the lessening of O2. The GBR approach is applied to build a highly accurate, easily generalizable, and effective ML model. The proposed work is analysed using Python software. The findings show that the separate charities of correlated metal atoms close to the responsive site are mixed to form the adsorption energy, which is clear from a thorough analysis of the data. It is suggested that a highly effective HEA catalyst composed of Co-Fe-Ga-Ni-Zn and Al-Cu-Pd-Pt be exploited, which is an effective method for further enhancing the ORR CA of potential HEA catalysts. An instruction manual for the logical design and synthesis of HEA catalysts' nanostructures is provided by the proposed research.    
+
+    
+
+## Novel Amorphous Feooh-Modified Co9s8 Nanosheets with Enhanced Oxygen Evolution Reaction Activity   
+
+OpenAlex: https://openalex.org/W4391405828    
+Open access: False
+    
+[Chong Wang](https://openalex.org/A5007803202), [Huanlu Tu](https://openalex.org/A5036746330), [Zeyu Hao](https://openalex.org/A5071814351), [Yaxin Li](https://openalex.org/A5037742951), [Jing Xu](https://openalex.org/A5038906848), [Xiaoying Hu](https://openalex.org/A5016312685), [Shansheng Yu](https://openalex.org/A5020651129), [Hongwei Tian](https://openalex.org/A5037428389), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4711575.
+    
+Efficient oxygen evolution reaction (OER) is important for water electrolysis and advanced hydrogen production energy. However, the sluggish kinetics of this reaction require significant overpotentials, leading to high energy consumption. Therefore, developing OER electrocatalysts with exceptional performance and long-term durability is crucial for enhancing the energy efficiency and cost-effectiveness of the hydrogen production process. In this paper, novel FeOOH/Co9S8 catalysts were prepared through a two-step hydrothermal reaction followed by one-step electrodeposition on nickel foam substrates for an alkaline oxygen evolution reaction (OER). The as-obtained catalysts possessed abundant non-homogeneous interfaces between FeOOH and Co9S8 nanosheets, conducive to optimized coordination environments of Fe and Co sites through the redistribution of interfacial charges. This strengthened the chemisorption of oxygenated intermediates, leading to accelerated reaction kinetics, abundant active sites, and enhanced OER properties. The optimized electrocatalyst FeOOH/Co9S8 achieved a current density of 10 mA cm-2 at an overpotential of 248 mV coupled with good stability for over 140 h. Overall, a novel approach for producing effective and durable alkaline dielectric OER electrocatalysts was proposed, useful for future manufacturing of advanced energy devices.    
 
     
 
@@ -502,12 +502,23 @@ Developing efficient, low-cost, non-precious and stable electrocatalyst is neces
 
     
 
+## Mesoporous hydrogel electrodes with flexible framework exhibiting enhanced mass transport for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4391509597    
+Open access: False
+    
+[Ritsuki Nakajima](https://openalex.org/A5078670038), [Hiroki Wago](https://openalex.org/A5093855209), [Tatsuya Taniguchi](https://openalex.org/A5067573679), [Yuta Sasaki](https://openalex.org/A5061217758), [Yoshinori Nishiki](https://openalex.org/A5065223963), [Zaenal Awaludin](https://openalex.org/A5054248011), [Takaaki Nakai](https://openalex.org/A5031262649), [Akihisa Kato](https://openalex.org/A5005243857), [Mitsushima Mitsushima](https://openalex.org/A5093855210), [Yoshiyuki Kuroda](https://openalex.org/A5090206527), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d3cc04632j.
+    
+Mesoporous hydrogel electrodes with unique flexible mesopores surrounded by CoOOH nanosheets were prepared via the electrochemical deposition of hybrid cobalt hydroxide nanosheets, exhibiting high oxygen evolution reaction activity at a...    
+
+    
+
 ## Co atom-doped NiMoO4 Hierarchical hollow nanosheet-based-nanosphere for oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4391343114    
 Open access: False
     
-[Zhuoxun Yin](https://openalex.org/A5012770110), [Min Zhou](https://openalex.org/A5045073916), [Xinping Li](https://openalex.org/A5018077554), [Xiangcun Liu](https://openalex.org/A5057117758), [Xinzhi Ma](https://openalex.org/A5070267350), [Yang Zhou](https://openalex.org/A5020624661), [Wei Chen](https://openalex.org/A5017541508), [Jinlong Li](https://openalex.org/A5086155499), No host. None(None)] 2024.https://doi.org/10.22541/au.170664116.61933326/v1.
+[Zhuoxun Yin](https://openalex.org/A5012770110), [Min Zhou](https://openalex.org/A5045073916), [Xinping Li](https://openalex.org/A5018077554), [Xiangcun Liu](https://openalex.org/A5057117758), [Xinzhi Ma](https://openalex.org/A5070267350), [Yang Zhou](https://openalex.org/A5020624661), [Wei Chen](https://openalex.org/A5017541508), [Jinlong Li](https://openalex.org/A5086155499), Authorea (Authorea). None(None)] 2024.https://doi.org/10.22541/au.170664116.61933326/v1.
     
 Hollow structures with hierarchical architecture and multi-composition have attracted extensive interest because of their fascinating physicochemical properties as well as wide applications. to improve the efficiency of overall water splitting, highly active and stable electrocatalysts are highly desirable. A novel high-efficiency Hierarchical hollow nanosheet-based-nanosphere Co-NiMoO4-HNS electrocatalyst for oxygen evolution was arranged by doping Co on Ni-MoEG yolk/shelll nanosphere. Remarkably, the hierarchical hollow Co2-NiMoO4-HNS catalyst exhibits favorable catalytic performance toward the oxygen evolution reaction (OER) with a receivable overpotential of 270 mV achieving a current density of 10 mA cm−2 and a Tafel slope of 65 mV dec−1. In expansion, as a electrocatalyst, Co2-NiMo4-HNS appeared to have great long-term steadiness in the electrolyte. This work may give broad hypothetical and specialized back for the plan of cost-effective bifunctional electrocatalysts.    
 
@@ -532,16 +543,5 @@ Open access: False
 [Linfeng Yang](https://openalex.org/A5081751519), [Shuang Yu](https://openalex.org/A5007024868), [Feng Luo](https://openalex.org/A5040998948), [Yang Liu](https://openalex.org/A5052053894), [Xiaoqiang Wu](https://openalex.org/A5017761703), [Xiao‐Nan Liu](https://openalex.org/A5000124572), Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024.https://doi.org/10.1016/j.colsurfa.2024.133360.
     
 Oxygen evolution reaction (OER) catalyzed by non-precious metals and their compounds in alkaline environments are regarded as a key research topic for the use of water for hydrogen production to alleviate the global energy crisis. Cobalt-iron layered double hydroxide (CoFe-LDH) has attracted much attention as a potential high-performance oxygen evolution reaction catalyst. In this paper, we report a strategy to introduce metal elements M (M = Cu, K, Al, Cr and Zn) into CoFe-LDH to further enhance the OER performance. The experimental results show that CoFeK-15 exhibits the lowest overpotential (203 mV to reach 10 mA cm-2) and Tafel slope (77.1 mV dec-1) and maintains excellent catalytic activity after 50 h i-t test. Through the introduction of potassium ions, the electronic structure inside the catalyst underwent lattice distortion, resulting in a larger active surface area and exposure of more oxygen vacancies, which in turn accelerated the OER reaction. This study reveals the important influence of potassium doping on the electronic structure modification strategy to enhance the performance of OER and provides new ideas for the development of more efficient catalysts in the future.    
-
-    
-
-## Novel two-dimensional boron-centered graphdiyne analogue as multifunctional electrocatalyst for hydrogen evolution, oxygen evolution, and oxygen reduction reactions   
-
-OpenAlex: https://openalex.org/W4391301139    
-Open access: False
-    
-[Cong Wang](https://openalex.org/A5046078938), [Xin Wang](https://openalex.org/A5006822602), [Donglai Han](https://openalex.org/A5072373593), [Jing Song](https://openalex.org/A5042379128), [Zhong‐Min Su](https://openalex.org/A5054852294), [Min Zhang](https://openalex.org/A5060649823), International Journal of Hydrogen Energy. 58(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.01.278.
-    
-Seeking multifunctional electrocatalysts capable of driving the hydrogen evolution reaction (HER), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR) is becoming increasingly crucial in the realm of sustainable energy development. Herein, the multifunctional electrocatalytic activities of HER, OER, and ORR in two-dimensional (2D) boron-centered graphdiyne analogue (B-GDY) are identified by first-principles computations, and its low overpotentials of HER/OER/ORR (0.02/0.55/0.52 V) are comparable to, or even surpasses, well-developed noble-metal-based catalysts. The remarkable multifunctional electrocatalytic activity of B-GDY can be attributed to the unique orbital distribution of the 2D framework as evidenced by its highest occupied molecular orbitals (HOMO), and synergistic interplay of boron-centered carbocycles and diacetylene linkages in its unique 2D framework. More importantly, the data confirm our motivation by replacing the central C in small aromatic groups with the adjacent element of B can realize/create multi-active sites in the original aromatic functional groups (the simplest boron-centered triangulene-like units). Hence, this study not only provides cost-effective alternatives to metal-based catalysts but also paves the way for designing and developing novel, multifunctional electrocatalysts.    
 
     

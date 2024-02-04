@@ -1,6 +1,6 @@
 # authors
 Description: List of authors
-Created on Sun Feb  4 00:42:03 2024
+Created on Sun Feb  4 14:23:14 2024
 
 Found 1 results from 2024-01-21 to 2024-02-04
 OpenAlex URLS (not including from_created_date or the API key)
