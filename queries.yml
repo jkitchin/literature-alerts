@@ -24,8 +24,7 @@ queries:
     filter:
       # Electrochemical reduction of carbon dioxide"
       - concepts.id:https://openalex.org/C24596552
-      - title-and-abstract.search:carbon dioxide reduction
-      - title-and-abstract.search:co2 reduction
+      - title-and-abstract.search:((carbon dioxide reduction) OR (co2 reduction)) NOT (photocatalysis OR photocatalytic)
   - label: liquid-metal
     description: low temperature liquid metals
     filter:
