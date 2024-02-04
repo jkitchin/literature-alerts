@@ -4,9 +4,29 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 18:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:42:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Surface Enrichment in Gallium&#8208;Indium Liquid Alloys: Applied to CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
+      <link>https://doi.org/10.1002/adfm.202316435</link>
+      <description>Fahimeh Gholampoursaadi, Zhi Xing, Shirin Nour, Jefferson Zhe Liu, Gang Kevin Li, Mohannad Mayyas, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4391296276
+
+                Abstract Liquid metal alloys can accumulate specific solute metal atoms on their surface, creating distinct quasi&#8208;ordered atomic layers. Such atomic layers can be tuned by varying the alloy composition to form catalytic interfaces suited for multi&#8208;step reactions. Here, the surface enrichment in gallium&#8208;indium alloys is studied and utilized for carbon dioxide (CO 2 ) electrochemical reduction. The results show that adding a small amount of indium (16.8 at%) to gallium leads to a significant indium enrichment of &gt;83 at% on the topmost layer of the alloy. This enrichment dictates the CO 2 conversion pathway, leading to 98% faradaic efficiency toward formate at &#8722;1.90 V vs reversible hydrogen electrode (RHE). This study produces unprecedented insights into key interfacial processes and lays the foundation for significant further work within the areas of catalysis and liquid metals.</description>
+      <author>Fahimeh Gholampoursaadi, Zhi Xing, Shirin Nour, Jefferson Zhe Liu, Gang Kevin Li, Mohannad Mayyas</author>
+      <pubDate>Sun, 28 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202316435</guid>
+    </item>
+    <item>
+      <title>Deformation Behavior of Eutectic Gallium&#8211;Indium under Electric Fields</title>
+      <link>https://doi.org/10.1021/acs.jchemed.3c00687</link>
+      <description>Hai Bo Zhang, Qiong Ding, Ruohan Li, Weihong Chen, Qianqian Wang, Journal of Chemical Education. None(None)] 2024. https://openalex.org/W4391388405
+
+                Liquid metals are widely applied in various fields, including chemistry, catalysis, energy storage, chemical sensing, and stretchable electronics, due to their unique deformabilities. However, their behavior under a rod or ring electrode has never been analyzed. Furthermore, research on the deformation behavior of eutectic Ga&#8211;In (EGaIn), the most commonly used Ga-based liquid metal, under electric fields of varying intensities and shapes is lacking. Therefore, investigating the deformation behavior of liquid metals under electric fields is expected to contribute to the accurate regulation of their morphologies. To this end, herein, an electrochemical device was fabricated using EGaIn, and experiments were conducted by adjusting the potential and the cathode shape. Further, the mechanism of the deformation was analyzed in detail. When a potential was applied, EGaIn droplets deformed into fractal dendrites under circular, polygonal, and nonpolygonal electric fields. Dendrite symmetry was influenced by the cathode shape, as the resulting electric fields varied in shape. The results of this study will aid in precisely controlling the behaviors of LMs and their alloys using electric fields. This topic is suitable for upper-division undergraduates who possess a basic understanding of electrochemistry. Through these experiments, students may explore the effects of potential on the morphology of EGaIn and analyze experimental phenomena such as electrowetting, dendrite formation, and surface oxidation, thereby developing a preliminary understanding of interfacial tension and electrocapillarity. Additionally, these experiments encourage undergraduates to actively participate in laboratory work, which helps foster their enthusiasm for chemistry.</description>
+      <author>Hai Bo Zhang, Qiong Ding, Ruohan Li, Weihong Chen, Qianqian Wang</author>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jchemed.3c00687</guid>
+    </item>
     <item>
       <title>Beyond Lithium&#8208;Ion Batteries</title>
       <link>https://doi.org/10.1002/adfm.202308001</link>

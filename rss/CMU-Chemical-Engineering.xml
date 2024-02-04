@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 18:49:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:42:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -76,16 +76,6 @@
       <author>Jimena Ferreira, Ana I. Torres, Mart&#237;n Pedemonte</author>
       <pubDate>Sun, 29 Oct 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1109/la-cci58595.2023.10409360</guid>
-    </item>
-    <item>
-      <title>Pyomo v6.2</title>
-      <link>https://doi.org/10.11578/dc.20221016.1</link>
-      <description>David L. Woodruff, Gabe Hackebeil, Carl D. Laird, Bethany L. Nicholson, William E. Hart, John Daniel Siirola, Jean&#8208;Paul Watson, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022. https://openalex.org/W4391048254
-
-                No abstract</description>
-      <author>David L. Woodruff, Gabe Hackebeil, Carl D. Laird, Bethany L. Nicholson, William E. Hart, John Daniel Siirola, Jean&#8208;Paul Watson</author>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.11578/dc.20221016.1</guid>
     </item>
   </channel>
 </rss>

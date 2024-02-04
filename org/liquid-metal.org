@@ -1,11 +1,51 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sat Feb  3 18:49:39 2024
+Created on Sun Feb  4 00:42:09 2024
 
-Found 1 results from 2024-01-20 to 2024-02-03
+Found 3 results from 2024-01-21 to 2024-02-04
 OpenAlex URLS (not including from_created_date or the API key)
-- [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20catalyst]]
+- [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
+
+* Surface Enrichment in Gallium‐Indium Liquid Alloys: Applied to CO2 Conversion  :liquid_metal:
+:PROPERTIES:
+:ID: https://openalex.org/W4391296276
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Electrocatalysis for Energy Conversion
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202316435")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391296276"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391296276"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391296276"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391296276 (Open access: True)
+    
+[[https://openalex.org/A5093807087][Fahimeh Gholampoursaadi]], [[https://openalex.org/A5090095249][Zhi Xing]], [[https://openalex.org/A5033850143][Shirin Nour]], [[https://openalex.org/A5023896908][Jefferson Zhe Liu]], [[https://openalex.org/A5055340435][Gang Kevin Li]], [[https://openalex.org/A5079363222][Mohannad Mayyas]], Advanced Functional Materials. None(None)] 2024. https://doi.org/10.1002/adfm.202316435  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202316435][pdf]])
+     
+Abstract Liquid metal alloys can accumulate specific solute metal atoms on their surface, creating distinct quasi‐ordered atomic layers. Such atomic layers can be tuned by varying the alloy composition to form catalytic interfaces suited for multi‐step reactions. Here, the surface enrichment in gallium‐indium alloys is studied and utilized for carbon dioxide (CO 2 ) electrochemical reduction. The results show that adding a small amount of indium (16.8 at%) to gallium leads to a significant indium enrichment of >83 at% on the topmost layer of the alloy. This enrichment dictates the CO 2 conversion pathway, leading to 98% faradaic efficiency toward formate at −1.90 V vs reversible hydrogen electrode (RHE). This study produces unprecedented insights into key interfacial processes and lays the foundation for significant further work within the areas of catalysis and liquid metals.    
+
+    
+
+* Deformation Behavior of Eutectic Gallium–Indium under Electric Fields  :liquid_metal:
+:PROPERTIES:
+:ID: https://openalex.org/W4391388405
+:TOPICS: Atomic Force Microscopy Techniques, Plasmonics for Photovoltaic Devices, Nanowire Nanosensors for Biomedical and Energy Applications
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jchemed.3c00687")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391388405"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391388405"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391388405"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391388405 (Open access: False)
+    
+[[https://openalex.org/A5039480955][Hai Bo Zhang]], [[https://openalex.org/A5037897379][Qiong Ding]], [[https://openalex.org/A5066726224][Ruohan Li]], [[https://openalex.org/A5039144070][Weihong Chen]], [[https://openalex.org/A5062755510][Qianqian Wang]], Journal of Chemical Education. None(None)] 2024. https://doi.org/10.1021/acs.jchemed.3c00687 
+     
+Liquid metals are widely applied in various fields, including chemistry, catalysis, energy storage, chemical sensing, and stretchable electronics, due to their unique deformabilities. However, their behavior under a rod or ring electrode has never been analyzed. Furthermore, research on the deformation behavior of eutectic Ga–In (EGaIn), the most commonly used Ga-based liquid metal, under electric fields of varying intensities and shapes is lacking. Therefore, investigating the deformation behavior of liquid metals under electric fields is expected to contribute to the accurate regulation of their morphologies. To this end, herein, an electrochemical device was fabricated using EGaIn, and experiments were conducted by adjusting the potential and the cathode shape. Further, the mechanism of the deformation was analyzed in detail. When a potential was applied, EGaIn droplets deformed into fractal dendrites under circular, polygonal, and nonpolygonal electric fields. Dendrite symmetry was influenced by the cathode shape, as the resulting electric fields varied in shape. The results of this study will aid in precisely controlling the behaviors of LMs and their alloys using electric fields. This topic is suitable for upper-division undergraduates who possess a basic understanding of electrochemistry. Through these experiments, students may explore the effects of potential on the morphology of EGaIn and analyze experimental phenomena such as electrowetting, dendrite formation, and surface oxidation, thereby developing a preliminary understanding of interfacial tension and electrocapillarity. Additionally, these experiments encourage undergraduates to actively participate in laboratory work, which helps foster their enthusiasm for chemistry.    
+
+    
 
 * Beyond Lithium‐Ion Batteries  :liquid_metal:
 :PROPERTIES:

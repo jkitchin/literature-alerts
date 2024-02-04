@@ -1,9 +1,9 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Feb  3 18:49:42 2024
+Created on Sun Feb  4 00:42:11 2024
 
-Found 8 results from 2024-01-20 to 2024-02-03
+Found 7 results from 2024-01-21 to 2024-02-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -110,7 +110,7 @@ In this work, we focus on an operational logistics problem that arises in the of
 * Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :ID: https://openalex.org/W4391418533
-:TOPICS: Physics-Informed Neural Networks for Scientific Computing, Power System Stability and Control Analysis, Real-Time Simulation Technologies for Power Systems
+:TOPICS: Physics-Informed Neural Networks for Scientific Computing, Power System Stability and Control Analysis, Vortex-Induced Vibrations in Fluid Flow
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijepes.2023.109741")][Get bibtex entry]] 
@@ -144,25 +144,5 @@ OpenAlex: https://openalex.org/W4391249853 (Open access: False)
 [[https://openalex.org/A5073891151][Jimena Ferreira]], [[https://openalex.org/A5027983186][Ana I. Torres]], [[https://openalex.org/A5091770128][Martín Pedemonte]], No host. None(None)] 2023. https://doi.org/10.1109/la-cci58595.2023.10409360 
      
 In recent years, the study of physics-informed machine learning has increased. Works that use information about the shape or some characteristic of the expected function, have been used with genetic programming and neural networks. In those studies, it was found that including information about the expected model makes the resulting models better.Motivated by these studies, the goal of this work is the evaluation of the inclusion of information about the shape of the function in Kaizen Programming using a penalty function. In order to answer if the inclusion of this information in the search results in better models. In order to answer that we worked with 13 benchmark functions. The functions have between 2 and 9 input variables, and all have different types of shapes.We found that there is no significant difference in the performance of the models obtained using plain Kazan Programming and the shape-constrained approach.    
-
-    
-
-* Pyomo v6.2  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:ID: https://openalex.org/W4391048254
-:TOPICS: Classification and Treatment of Vascular Anomalies
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.11578/dc.20221016.1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391048254"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391048254"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391048254"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391048254 (Open access: False)
-    
-[[https://openalex.org/A5071131174][David L. Woodruff]], [[https://openalex.org/A5066371313][Gabe Hackebeil]], [[https://openalex.org/A5030631754][Carl D. Laird]], [[https://openalex.org/A5071938321][Bethany L. Nicholson]], [[https://openalex.org/A5021830817][William E. Hart]], [[https://openalex.org/A5047681120][John Daniel Siirola]], [[https://openalex.org/A5027375769][Jean‐Paul Watson]], OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2022. https://doi.org/10.11578/dc.20221016.1 
-     
-No abstract    
 
     

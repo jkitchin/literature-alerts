@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Feb  3 18:49:39 2024
+Created on Sun Feb  4 00:42:09 2024
 
-Found 54 results from 2024-01-20 to 2024-02-03
+Found 54 results from 2024-01-21 to 2024-02-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction](https://api.openalex.org/works?filter=title-and-abstract.search%3Acarbon%20dioxide%20reduction)
@@ -71,17 +71,6 @@ Open access: True
 [Hongxuan Qiu](https://openalex.org/A5080636617), [Akira Yamamoto](https://openalex.org/A5021171836), [Hisao Yoshida](https://openalex.org/A5057290198), No host. None(None)] 2024.https://doi.org/10.1039/d3se01390a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/se/d3se01390a)).
     
 Photocatalytic conversion of carbon dioxide (CO 2 ) has attracted considerable attention as a new method to build a carbon cycle. Particularly, photocatalytic reduction of CO 2 using water as an electron and...    
-
-    
-
-## MOFs materials as photocatalysts for CO2 reduction: Progress, challenges and perspectives   
-
-OpenAlex: https://openalex.org/W4391019430    
-Open access: True
-    
-[Mazhar Khan](https://openalex.org/A5049709719), [Zeeshan Akmal](https://openalex.org/A5003303773), [Muhammad Tayyab](https://openalex.org/A5003238643), [Seemal Mansoor](https://openalex.org/A5070908155), [Adnan Zeb](https://openalex.org/A5086947282), [Ziwei Ye](https://openalex.org/A5068766141), [Jinlong Zhang](https://openalex.org/A5001457544), [Shiqun Wu](https://openalex.org/A5067320385), [Lingzhi Wang](https://openalex.org/A5050352409), Carbon Capture Science & Technology. 11(None)] 2024.https://doi.org/10.1016/j.ccst.2024.100191.
-    
-Photocatalytic reduction of carbon dioxide (CO2) presents a pivotal solution to address meteorological and ecological challenges. Currently, metal-organic frameworks (MOFs) with their crystalline porosity, adjustable structures, and diverse chemical functionalities have garnered significant attention in the realm of photocatalytic CO2 reduction. This review provides a brief introduction to CO2 reduction and MOF material and their applications in CO2 reduction. Then, it undertakes a comprehensive examination of MOFs, summarizing their key attributes, including porosity, large surface area, structural multifunctionalities, and responsiveness to visible light, along with an analysis of heterojunctions and their methods of preparation. Additionally, it elucidates the fundamental principle of photocatalysis and CO2 reduction, encompassing both half and overall reactions. Furthermore, the classification of MOF-based materials is explored, along with the proposed mechanism for CO2 reduction and an update on recent developments in this field. Finally, this review outlines the challenges and potential opportunities for utilizing MOFs in CO2 reduction, offering valuable insights to scholars seeking innovative approaches not only to enhance CO2 reduction but also to advance other photocatalytic processes.    
 
     
 
@@ -192,17 +181,6 @@ Open access: False
 [Mohamed J. Saadh](https://openalex.org/A5016779284), [Saade Abdalkareem Jasim](https://openalex.org/A5084593121), [Linda Mariuxi Flores Fiallos](https://openalex.org/A5010958862), [Anupam Yadav](https://openalex.org/A5005025571), [Louay Saleh](https://openalex.org/A5040948370), [Edwin Jácome](https://openalex.org/A5047607461), [César Gerardo Mejía Gallegos](https://openalex.org/A5043976657), [Yazen M. Alawaideh](https://openalex.org/A5015561046), [Yasser Elmasry](https://openalex.org/A5051339559), Diamond and Related Materials. 142(None)] 2024.https://doi.org/10.1016/j.diamond.2024.110849.
     
 A new-type boron carbide material has been used, as an electrocatalyst for the reduction of CO2 to C2 and C1 based on the computational study. Within the current research, DFT was adopted to investigate the BC3 nanoflake as an electrocatalyst for the reduction of CO2. The optoelectronic attributes of the BC3 nanoflake indicated that BC3 nanoflake had a longer visible-light region and its band gap was 2.25 eV. Based on the spatial distribution of the LUMO and the HOMO, the introduction of boron extended the π network of BC3 nanoflake, thereby dramatically increasing the photocatalytic efficiency. Additionally, we estimated the Gibbs free energy of each potential CO2 reaction path onto BC3 nanoflake. Based on the findings, CO2 could reduce into CH4 and CH3CH2OH with low limiting potentials of −0.41 V and −0.53 V, respectively. The current study can provide useful insights into the application of BC3 nanoflake as an encouraging photocatalyst for the reduction reaction CO2.    
-
-    
-
-## A Thermodynamic View on the In-situ Carbon Dioxide Reduction by Biomass-derived Hydrogen during Calcium Carbonate Decomposition   
-
-OpenAlex: https://openalex.org/W4391037978    
-Open access: False
-    
-[Peng Jiang](https://openalex.org/A5017430213), [Hao Zhang](https://openalex.org/A5049341927), [Guanhan Zhao](https://openalex.org/A5089446069), [Lin Li](https://openalex.org/A5058965019), [Tuo Ji](https://openalex.org/A5022762913), [Liwen Mu](https://openalex.org/A5066372594), [Xiaohua Lü](https://openalex.org/A5048052547), [Jiahua Zhu](https://openalex.org/A5024790419), Chinese Journal of Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.cjche.2023.12.017.
-    
-In the carbonate industry, deep decarbonization strategies are necessary to effectively remediate CO2. These strategies mainly include both sustainable energy supplies and the conversion of CO2 in downstream processes. This study developed a coupled process of biomass chemical looping H2 production and reductive calcination of CaCO3. Firstly, a mass and energy balance of the coupled process was established in Aspen Plus. Following this, process optimization and energy integration were implemented to provide optimized operation conditions. Lastly, a life cycle assessment was carried out to assess the carbon footprint of the coupled process. Results reveal that the decomposition temperature of CaCO3 in an H2 atmosphere can be reduced to 780 oC (generally around 900 oC), and the conversion of CO2 from CaCO3 decomposition reached 81.33% with an H2:CO ratio of 2.49 in gaseous products. By optimizing systemic energy through heat integration, an energy efficiency of 86.30% was achieved. Additionally, the carbon footprint analysis revealed that the process with energy integration had a low GWP of -2.624 kgCO2-eq·kg-CaO-1. Conclusively, this work performed a systematic analysis of introducing biomass-derived H2 into CaCO3 calcination and demonstrated the positive role of reductive calcination using green H2 in mitigating CO2 emissions within the carbonate industry.    
 
     
 
@@ -335,6 +313,17 @@ Open access: True
 [Zheng Jiang](https://openalex.org/A5038741162), [Jianing Mao](https://openalex.org/A5018878652), [Bingbao Mei](https://openalex.org/A5032925772), [Shuai Yang](https://openalex.org/A5090717104), [Jianrong Zeng](https://openalex.org/A5068006098), [Fanfei Sun](https://openalex.org/A5073162955), [Wei Chen](https://openalex.org/A5081501159), [Fei Song](https://openalex.org/A5010194502), No host. None(None)] 2024.https://doi.org/10.21203/rs.3.rs-3853964/v1 ([pdf](https://www.researchsquare.com/article/rs-3853964/latest.pdf)).
     
 Abstract Electrocatalytic carbon dioxide reduction reaction (CO2RR) using tin oxide-based catalysts holds significant potential for producing formate products from renewable energy, while obscurely quantification of structure changes in local configuration hinders the development of highly active and robust electrocatalysts. Herein, the operando spectroscopy revealed the quantitatively oxygen-released behavior in tin oxide nanostructure of the graphene confined SnOx nanodots (rGO@SnO x ND) under the reduction potentials, which promotes the SnOx lattice modulation by the Sn cluster and the adsorption of *OCHO intermediate by increasing the charge density. The controllable reduction degree in rGO@SnO x ND among CO2RR facilitates the excellent exceptional performance of the maximum formate partial current density of 567 mA cm −2 with 96.5 % selectivity and a 50 h long-term stability in flow-cell. These findings show that the controllable oxygen vacancies regulation determines the yield of formate, further emphasizing the importance of operando spectrosopy characterization to understand the dynamic surface structure-performance relationship.    
+
+    
+
+## Efficient photocatalytic overall water splitting for hydrogen evolution and CO2 reduction with SiCP4 allotrope monolayers   
+
+OpenAlex: https://openalex.org/W4391064993    
+Open access: False
+    
+[Yi-tong Yin](https://openalex.org/A5051449133), [Chuan‐Lu Yang](https://openalex.org/A5083167888), [Xiaohu Li](https://openalex.org/A5015983532), [Yu‐Liang Liu](https://openalex.org/A5053333192), [Wenkai Zhao](https://openalex.org/A5067960438), Applied Surface Science. 654(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159440.
+    
+Two-dimensional metal-free photocatalysts are catching the attention of researchers. Here, we present several allotrope SiCP4 monolayers with high stability, high carrier mobility, and excellent photocatalytic performance. Using a searching method based on the universal structure predictor evolutionary xtallography, together with assessing the energy and thermodynamic stabilities, and matching the potentials of band edges with the photocatalytic conditions for achieving overall water splitting, we successfully identify 5 highly favorable configurations (including the previously reported one) from a pool of 1056 allotrope SiCP4 monolayers. The results show that the largest solar-to-hydrogen efficiency of the considered monolayers can reach 21.89 %, while a high mobility of 2.7677 × 105 cm2 V−1 s−1 is observed, both are superior to those of the previously reported one. The Gibbs free energies for hydrogen or oxygen evolutions, and CO2 reduction reactions indicate they are thermodynamically feasible. Moreover, the hydrogen evolution reaction can proceed spontaneously with two allotrope SiCP4 monolayers. Therefore, the newfound allotrope SiCP4 monolayers are expected to have potential applications in the field of photocatalytic water splitting for hydrogen generation and carbon dioxide reduction.    
 
     
 
@@ -525,17 +514,6 @@ Drawing inspiration from the natural process of photosynthesis found in plant le
 
     
 
-## Progress in design and preparation of multi-atom catalysts for photocatalytic CO2 reduction   
-
-OpenAlex: https://openalex.org/W4391035964    
-Open access: True
-    
-[Zhonghao Wang](https://openalex.org/A5034762794), [Guojun Zou](https://openalex.org/A5078365590), [Jae Hyung Park](https://openalex.org/A5017792494), [Kan Zhang](https://openalex.org/A5072000825), Science China Materials. None(None)] 2024.https://doi.org/10.1007/s40843-023-2698-5 ([pdf](https://link.springer.com/content/pdf/10.1007/s40843-023-2698-5.pdf)).
-    
-Photocatalytic CO2 reduction towards various fuels is of significant interest under the background of mitigating the global warming induced by CO2 emission and lowering the depletion of fossil fuels. However, state-of-the-art photocatalysts still suffer from sluggish reaction dynamics and frustrated product selectivity, especially for C2+ generations, which are of great interest for industrial applications. Over the past decades, comprehensive research on solar-driven CO2 reduction has consistently unveiled some encouraging results in meaningful pathways and architectural design of active sites over photocatalysts. This review highlights the recent advances in boosting photocatalytic CO2 reduction of atomically dispersed catalysts via engineered active sites, including two separated active sites, paired dual-active sites, and nanoclusters based on the configuration of active sites. Both the mechanism of CO2 activation over active sites and advanced characterization methods are discussed in detail. Particularly, in consideration of the wide gap between fundamental research and practical applications, the integrations of experimental and theoretical results are analyzed to realize the underlying structure-activity relationships as well as promising selectivity toward target products. Finally, the remaining challenges in the field are outlined, and inquisitive perspectives with a focus on the rational design of active sites and mechanistic investigation are proposed.    
-
-    
-
 ## Analysis of photocatalytic CO2 reduction over MOFs using machine learning   
 
 OpenAlex: https://openalex.org/W4391453336    
@@ -599,5 +577,27 @@ Open access: False
 [Dongyue Gao](https://openalex.org/A5047060524), [Yue Xu](https://openalex.org/A5043595651), [Zhe Li](https://openalex.org/A5023826377), [Yadong Yu](https://openalex.org/A5016142397), [Caiyan Yu](https://openalex.org/A5084234940), [Yi Fang](https://openalex.org/A5054091259), [Yang Huang](https://openalex.org/A5023704274), [Chengchun Tang](https://openalex.org/A5022913125), [Zhonglu Guo](https://openalex.org/A5069736534), Applied Surface Science. 654(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159501.
     
 Strain engineering is a powerful approach to tuning the electrocatalytic properties, but the systematic understanding of the strain effect in electrochemical reduction of carbon dioxide (CO2RR) is still lacking. Here, we have extensively investigated the impact of strain on the catalytic selectivity and activity of Mo-based MXenes towards CO2RR. Our calculations suggest that strain can effectively tune the CO2 activation and reduction processes on MXenes, endowing great potential to obtain enhanced electrocatalytic performance. Notably, the activated CO2 can be selectively reduced to methane (CH4) on all electrocatalysts, which is conducive to restricting the production of HCOOH, H2CO, CH3OH and H2 (HER). Then, we highlight that compressive strains can reduce the limiting potential (UL) of CO2RR on Mo2C and Mo3C2 from −0.68 and −0.66 V to −0.49 and −0.38 V at the strain of −4%@Mo2C and −6%@Mo3C2, respectively, which are superior to benchmark Cu (2 1 1) (−0.67 V). Further mechanism analysis illuminates that the strain can significantly modify the d-band center of MXene, which endows the selective modulation of the adsorption strength of OCH2O* and HOCH2O* to achieve promoted catalytic activity. Our results provide an in-depth understanding of the strain effect and rational design principles for enhanced electrocatalytic CO2RR.    
+
+    
+
+## Hollow cubic TiO2 loaded with copper and gold nanoparticles for photocatalytic CO2 reduction   
+
+OpenAlex: https://openalex.org/W4391188424    
+Open access: False
+    
+[Xiaowan Mu](https://openalex.org/A5015387098), [Qiuhua Xu](https://openalex.org/A5059899541), [Yu Xie](https://openalex.org/A5025372320), [Yongcun Ma](https://openalex.org/A5091156984), [Zhiqi Zhang](https://openalex.org/A5081194034), [Zhen Shen](https://openalex.org/A5057296315), [Yue Guo](https://openalex.org/A5077857374), [Jian Yu](https://openalex.org/A5002529301), [Saira Ajmal](https://openalex.org/A5033369944), [Wei Zhang](https://openalex.org/A5060396142), [Jie Zhao](https://openalex.org/A5070902056), Journal of Alloys and Compounds. 980(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.173589.
+    
+A simple photodeposition method is used to prepare Cu and Au nanoparticles modified TiO2 nanocomposites. The phase composition of the catalyst is determined by x-ray diffraction. The mutual synergistic effects of Cu and Au are analyzed using x-ray photoelectron spectroscopy, photoluminescence spectroscopy and UV diffuse reflectance spectroscopy. The results indicate that the TiO2 is anatase structure with hollow cubic morphology, which enhances the utilization of visible light and improves the photocatalytic performance compared with P25. The Cu0.7Au0.3/TiO2 has the highest carrier separation efficiency and the best photocatalytic performance with a CO yield of 6.08 umol g-1 h-1, which is about four times higher than that of TiO2 (1.56 umol g-1 h-1). The aforementioned results indicate that the photocatalytic activity for CO2 reduction is greatly enhanced by the addition of modest quantities of Cu and Au NPs. During the photocatalytic process, the presence of Au NPs absorbs visible light and modulates the surface structure of electrons, while Cu serves as an electron sink, hence promoting efficient separation of electron-hole pairs. Utilizing the distinct benefits of bimetal and their robust interactions is a viable and efficacious approach for boosting the photocatalytic activity.    
+
+    
+
+## Photocatalytic CO2 reduction activity of nickel-based polyoxometalates and POM@MOF-545 composites   
+
+OpenAlex: https://openalex.org/W4391077147    
+Open access: False
+    
+[K. Talbi](https://openalex.org/A5007162321), [Pierre Mialane](https://openalex.org/A5039753949), [F. Simón Hidalgo](https://openalex.org/A5042493681), [Albert Solé-Daurá](https://openalex.org/A5086372340), [Caroline Mellot‐Draznieks](https://openalex.org/A5032549164), [Anne Dolbecq](https://openalex.org/A5064073246), No host. None(None)] 2023.None.
+    
+No abstract    
 
     

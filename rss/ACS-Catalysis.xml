@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 03 Feb 2024 18:49:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 00:42:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>One-Pot Sequential Two-Step Photo-Biocatalytic Deracemization of &lt;i&gt;sec&lt;/i&gt;-Alcohols Combining Photocatalytic Oxidation and Bioreduction</title>
-      <link>https://doi.org/10.1021/acscatal.3c05100</link>
-      <description>Aleksandra Rudzka, Natalia Antos, Tamara Reiter, Wolfgang Kroutil, Pawe&#322; Borowiecki, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391025463
-
-                Chiral alcohols are versatile building blocks and are of particular interest in the asymmetric synthesis of nonracemic active pharmaceutical ingredients, agrochemicals, fragrances, flavors, natural products, etc. Herein, we report on a &#8220;one-pot sequential two-step&#8221; concurrent oxidation&#8211;reduction photobiocatalytic process to synthesize enantiomerically enriched alcohols. In this regard, an efficient photocatalytic system based on irradiation with 440 nm blue LEDs in the presence of 9-fluorenone as a metal-free photocatalyst and molecular oxygen as the terminal oxidant in dry DMSO as the hydrogen peroxide-neutralizing agent was used to oxidize a broad range of racemic (hetero)benzylic alcohols into prochiral ketones quantitively (&gt;99% conv.). The in situ formed carbonyl compounds were subsequently converted into the corresponding chiral alcohols via a sequential biocatalytic transhydrogenation catalyzed by lyophilized E. coli cells overexpressing highly stereoselective and stereocomplementary recombinant alcohol dehydrogenases (ADHs) originated from Rhodococcus ruber (E. coli/ADH-A) or Rhodococcus erythropolis (E. coli/ReADH) to obtain (S)-alcohols and Lactobacillus kefir (E. coli/Lk-ADH) or KRED-110 to obtain (R)-alcohols, respectively. Overall, the elaborated photobiocatalytic deracemization of racemic alcohols using a 9-fluorenone-O2-blue LED-DMSO-E. coli/ADH system carried out on a semipreparative scale (0.25 mmol; 63 mM final conc. in 4 mL) at room temperature yielded nonracemic aryl alcohols with 82&#8211;99.9% conv., in up to 92% isolated yield, with 97&#8211;99.9% ee and complementary chirality.</description>
-      <author>Aleksandra Rudzka, Natalia Antos, Tamara Reiter, Wolfgang Kroutil, Pawe&#322; Borowiecki</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05100</guid>
-    </item>
-    <item>
-      <title>CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation with High Selectivity by Single Bi Atoms on MXenes Enabled by a Concerted Mechanism</title>
-      <link>https://doi.org/10.1021/acscatal.3c04480</link>
-      <description>Kaifeng Niu, Lin Chen, Johanna Ros&#233;n, Jonas Bj&#246;rk, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391025688
-
-                Developing efficient catalysts for the capture and direct conversion of CO2 into various chemicals is essential to alleviate CO2 emissions and minimize the negative environmental effects of fossil fuels. Combining density functional theory calculations and microkinetic analysis, we propose that single Bi atoms supported on V2CO2 MXenes (Bi@V2CO2) are promising single-atom catalysts (SAC) for CO2 hydrogenation. The catalytic performance of Bi SACs is ensured by the stable single-atom dispersion of Bi atoms on V2CO2 and enhanced adsorption of CO2. Of importance, Bi@V2CO2 exhibits remarkable selectivity toward the synthesis of formic acid (HCOOH), in which the main competing reaction, namely, the reverse water gas shift (RWGS) and the formation of CO, is strictly prohibited. In contrast to conventional Cu or In2O3 catalysts, CO2 hydrogenation exhibits a unique mechanism on Bi@V2CO2, in which the formic acid is directly generated via a concerted pathway. As a result, the formation of both intermediate HCOO and COOH is prevented, leading to high selectivity (nearly 100%) toward HCOOH on Bi@V2CO2. Moreover, analysis of the kinetic behavior suggests that the stabilization of HCOOH adsorption would be an effective approach to promote catalyst performance toward methanol synthesis.</description>
-      <author>Kaifeng Niu, Lin Chen, Johanna Ros&#233;n, Jonas Bj&#246;rk</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04480</guid>
-    </item>
-    <item>
-      <title>Partially Bonded Aluminum Site on the External Surface of Post-treated Au/ZSM-5 Enhances Methane Oxidation to Oxygenates</title>
-      <link>https://doi.org/10.1021/acscatal.3c05030</link>
-      <description>Jun Cao, Guodong Qi, Bingqing Yao, Qian He, Richard J. Lewis, Lu Xu, Feng Deng, Jun Xu, Graham J. Hutchings, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391026262
-
-                Au nanoparticles supported on the exterior surface of the ZSM-5 zeolite (Au/ZSM-5) have shown the ability to partially oxidize methane to methanol and acetic acid. However, further improvements to the catalyst activity are required. This study investigates the effect of modifying the acidic properties of the ZSM-5 support through a desilication&#8211;recrystallization (DR) process on the activity of Au/ZSM-5 catalysts toward methane oxidation. A DR treatment of 24 h leads to a 50% higher oxygenate yield compared to the analogous catalyst prepared using the untreated support. Characterization using solid-state 27Al NMR and FTIR adsorption of pyridine and 2,4,6-trimethylpyridine reveals that DR induces framework dealumination and redistribution of Br&#248;nsted acid sites to the zeolite external surface. Two-dimensional 27Al MQMAS NMR further identifies partially coordinated framework Al sites on the zeolite surface, correlating with a higher oxygenate yield. These external acid sites help stabilize the Au nanoparticles, enhancing catalyst stability for methane partial oxidation.</description>
-      <author>Jun Cao, Guodong Qi, Bingqing Yao, Qian He, Richard J. Lewis, Lu Xu, Feng Deng, Jun Xu, Graham J. Hutchings</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05030</guid>
-    </item>
-    <item>
-      <title>Cu/Au(111) Surfaces and AuCu Intermetallics for Electrocatalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt; in Ionic Liquid Electrolytes</title>
-      <link>https://doi.org/10.1021/acscatal.3c04592</link>
-      <description>Bj&#246;rn Ratschmeier, Christian Paulsen, Klaus Stallberg, Gina Ro&#223;, W. Daum, Rainer P&#246;ttgen, Bj&#246;rn Braunschweig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391029986
-
-                Room-temperature ionic liquids (RTIL) are important alternatives to aqueous electrolytes in electrocatalytic reactions, batteries, and fuel cells. They are known to reduce existing high overpotentials and increase CO2 solubility as well as product selectivity in CO2 reduction reactions (CO2RR). In our work, we have studied the activity for CO2RR of Au(111), Cu(111), and Cu-modified Au(111) electrodes with 1/3, 2/3, and 3/3 Cu monolayers, as well as of AuCu and AuCu3 intermetallics in contact with 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide [BMIM][NTf2] electrolytes with 1.5 M H2O. Using offline gas chromatography (GC), we demonstrate the formation of H2 and mainly CO as the only reduction products at Au(111), while exclusively H2 is formed at Cu(111). Synergistic electronic and geometric effects lead to higher levels of CO formation at Cu-modified Au(111) electrodes in comparison to neat Au(111). Operando IR absorption spectroscopy (IRAS) of the bulk electrolyte shows the formation of a 2-imidazolium carboxylic acid intermediate that can lower the overpotential for CO2 reduction and does not require stabilization of a CO2&#8211; radical anion as an alternative intermediate at the interface. Systematic variation of the copper content at the catalysts&#8217; surfaces enables us to adjust the H2/CO syngas ratio to a maximum of 1.8 for Cu-modified Au(111) electrodes and &#8764;3.2 for AuCu3 catalysts at electrolysis times of 20 min, demonstrating a large tunability of the syngas ratio with electrode potential. The observed range of H2/CO ratios includes the ideal ratio of 2 for the Fischer&#8211;Tropsch process to produce hydrocarbons and the ratio of 3 needed for methanation.</description>
-      <author>Bj&#246;rn Ratschmeier, Christian Paulsen, Klaus Stallberg, Gina Ro&#223;, W. Daum, Rainer P&#246;ttgen, Bj&#246;rn Braunschweig</author>
-      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04592</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i002_1761788</link>
-      <description>, ACS Catalysis. 14(2)] 2024. https://openalex.org/W4391030911
-
-                ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTIssue Editorial MastheadCite this: ACS Catal. 2024, 14, 2, XXX-XXXPublication Date (Web):January 19, 2024Publication History Published online19 January 2024Published inissue 19 January 2024https://doi.org/10.1021/csv014i002_1761788Copyright &#169; 2024 American Chemical SocietyRequest reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InReddit PDF (198 KB) Get e-Alertsclose Get e-Alerts</description>
-      <author/>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i002_1761788</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i002_1761787</link>
-      <description>, ACS Catalysis. 14(2)] 2024. https://openalex.org/W4391034308
-
-                ADVERTISEMENT RETURN TO ISSUEPREVArticleIssue Publication InformationCite this: ACS Catal. 2024, 14, 2, XXX-XXXPublication Date (Web):January 19, 2024Publication History Published online19 January 2024Published inissue 19 January 2024https://doi.org/10.1021/csv014i002_1761787Copyright &#169; 2024 American Chemical SocietyRequest reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InReddit PDF (153 KB) Get e-Alertsclose Get e-Alerts</description>
-      <author/>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i002_1761787</guid>
-    </item>
-    <item>
-      <title>Strongly Electron-Interacting Ru&#8211;Ce Pair Sites in RuO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/CeO&lt;sub&gt;2&lt;/sub&gt;&#8211;HAP for Efficient Oxidation of MMF to FDCA</title>
-      <link>https://doi.org/10.1021/acscatal.3c04329</link>
-      <description>Gaobo Lin, Haoan Fan, Yiqiang Zhan, Chao Chen, Xing&#8208;Ming Zhao, Wenwen Lin, Bolong Li, Jianghao Wang, Jing Li, Weiyu Song, Jie Fu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391042081
-
-                As a potential alternative to petroleum-derived terephthalic acid (TPA), the general production of 2,5-furandicarboxylic acid (FDCA) through 5-hydroxymethylfurfural (HMF) oxidation has fallen short of industrial expectations due to HMF&#8217;s storage instability and cost. Here, we propose a strategy involving Ru cation coordination manipulation to achieve efficient oxidation of 5-methoxymethylfurfural (MMF) to FDCA by constructing a Ru&#8211;Ce paired site on a CeO2-doped hydroxyapatite precursor (CeO2&#8211;HAP). By optimizing reaction conditions, the RuOx/CeO2&#8211;HAP catalyst demonstrated a complete MMF conversion of 100% and a high FDCA yield of 83.7% under base-free conditions (130 &#176;C, 5 bar O2 pressure, 15 h). Hydrogen temperature-programmed reduction (H2-TPR) and X-ray photoelectron spectroscopy (XPS) revealed a strong interaction between Ru and Ce with electron transfer from Ce to Ru. Density functional theory (DFT) computations indicated that the strong d&#8211;d &#960; and &#963; orbital interactions between Ru and Ce provided sufficient electrons for the vacant orbitals of Ru, dispersing the density of states (DOS) of orbitals around the low energy level to facilitate MMF and FDCA adsorption with appropriate strength, thereby enhancing the MMF oxidation process. This study not only provides an MMF oxidation catalyst with high activity but also conducts a comprehensive investigation into the impact of the Ru&#8211;Ce interaction on MMF oxidation, offering insights into the subsequent production of high-value-added products such as FDCA.</description>
-      <author>Gaobo Lin, Haoan Fan, Yiqiang Zhan, Chao Chen, Xing&#8208;Ming Zhao, Wenwen Lin, Bolong Li, Jianghao Wang, Jing Li, Weiyu Song, Jie Fu</author>
-      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04329</guid>
-    </item>
-    <item>
-      <title>Promotion of Anatase/Rutile Junction to Direct Conversion of Syngas to Ethanol on the Rh/TiO&lt;sub&gt;2&lt;/sub&gt; Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c05351</link>
-      <description>Yang Feng, Yang Zhang, Jungang Wang, Lixia Ling, Riguang Zhang, Maohong Fan, Bo Hou, Debao Li, Baojun Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391044381
-
-                Although significant efforts have been made for the direct syngas conversion to ethanol, ethanol yield remains low. Herein, we studied syngas conversion on the Rh/TiO2 catalysts with different TiO2 phase compositions. The ethanol selectivity and yield reached 34.9 and 19.4%, respectively, at a 55.7% CO conversion on the Rh/P25 catalyst. Among the supported single Rh catalysts, this is currently the highest reported ethanol yield. The catalyst also shows good stability. The mixture of anatase&#8211;rutile phases in the P25 promotes the electron transfer from P25 to Rh species because of the strong metal&#8211;support interaction. It boosts the Rh0 active site generation, the CO dissociation, and CHx species formation, which is the significant intermediate for ethanol formation. In contrast, the Rh supported on the pure phase anatase or rutile TiO2 presents poor ethanol yield, which mainly produces the Rh+ species. This study provides an effective method to improve the ethanol yield for direct syngas conversion.</description>
-      <author>Yang Feng, Yang Zhang, Jungang Wang, Lixia Ling, Riguang Zhang, Maohong Fan, Bo Hou, Debao Li, Baojun Wang</author>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05351</guid>
-    </item>
-    <item>
-      <title>Surface Oxygen Vacancies Induced by Calcium Substitution in Macroporous La&lt;sub&gt;2&lt;/sub&gt;Ce&lt;sub&gt;2&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ca&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;7&#8722;&#948;&lt;/sub&gt; Catalysts for Boosting Low-Temperature Oxidative Coupling of Methane</title>
-      <link>https://doi.org/10.1021/acscatal.3c05094</link>
-      <description>Tongtong Wu, Peng Zhang, Yuechang Wei, Jing Xiong, Dawei Han, Tao Li, Yitao Yang, Zhao Zhang, Jian Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391044395
-
-                Surface oxygen vacancies in the catalysts play a key role in improving the catalytic performances for low-temperature oxidative coupling of methane (OCM). Herein, macroporous La2Ce2&#8211;xCaxO7&#8722;&#948; (A2B2O7-type) catalysts with a disordered defective cubic fluorite phased structure were prepared by a citric acid sol&#8211;gel method. The macroporous structure improved the accessibility of the reactants (O2 and CH4) to the active sites. The partial substitution of the B site (Ce) with low-valence calcium (Ca) ions in La2Ce2&#8211;xCaxO7&#8722;&#948; catalysts induced the formation of surface oxygen vacancies, which facilitated the adsorption and activation of O2 molecules to generate the active oxygen species (O2&#8211; species). The O2&#8211; species can boost the activation of CH4 and govern the following step of the oxidative dehydrogenation of C2H6 to C2H4. La2Ce2&#8211;xCaxO7&#8722;&#948; catalysts have high catalytic activity for low-temperature OCM, and the La2Ce1.3Ca0.7O7&#8722;&#948; catalyst with the highest density of O2&#8211; species exhibits the highest catalytic activity during low-temperature OCM into C2H4 and C2H6 (C2) products, i.e., its CH4 conversion, selectivity, and yield of C2 products at 600 &#176;C are 31.0, 65.6, and 20.3%, respectively. Based on the results of multiple experimental characterizations and density functional theory calculations, the mechanism of La2Ce2&#8211;xCaxO7&#8722;&#948; catalysts for the OCM reaction is proposed: surface oxygen vacancies induced by the substitution of the Ce site with Ca ions significantly promote the critical steps of C&#8211;H bond breaking and C&#8211;C bond coupling during the low-temperature OCM reaction. It is important for the design of low-temperature and high-efficiency catalysts for practical applications.</description>
-      <author>Tongtong Wu, Peng Zhang, Yuechang Wei, Jing Xiong, Dawei Han, Tao Li, Yitao Yang, Zhao Zhang, Jian Liu</author>
-      <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05094</guid>
-    </item>
     <item>
       <title>Photoexcited Nickel-Catalyzed Carbohalogenation</title>
       <link>https://doi.org/10.1021/acscatal.3c05994</link>
@@ -256,6 +166,96 @@
       <author>Emile E. DeLuca, Thomas C. K. Chan, James M. Taylor, Byunghoon Lee, Rajiv Ramanujam Prabhakar, Clifford P. Kubiak</author>
       <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05771</guid>
+    </item>
+    <item>
+      <title>[Fe]-Hydrogenase-Inspired Proton-Shuttle Installation in a Molecular Cobalt Complex for High-Efficiency H&lt;sub&gt;2&lt;/sub&gt; Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c04879</link>
+      <description>Sanajit Kumar Mandal, Chandana Sunil, Joyanta Choudhury, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391170584
+
+                Developing efficient H2-evolution artificial electrocatalysts often takes inspiration from the active sites of [FeFe]/[NiFe]-hydrogenases to incorporate smartly designed amine/thiolato-based proton-shuttle motifs. Interestingly, [Fe]-hydrogenase (the third type of hydrogenases) consists of an Fe-bound adjacent pyridinol/pyridinone proton shuttle, which assists in reversible heterolytic H2-cleavage during its operation. However, so far, this type of proton-shuttle functionality has not been exploited to develop H2-evolution electrocatalysts. We reckoned that installing such a proton-shuttle motif in a suitable redox-active transition-metal-based complex can facilitate electrocatalytic H2 generation via easy hydride/proton coupling, through proper positioning of the electrochemically generated metal-hydride and the &#8220;protonated&#8221; pyridinol form of the proton shuttle. To demonstrate this idea, a rationally designed Co-based complex Co&#8211;NHCU, containing an anionic uracil nucleobase, connected with a strong sigma-donor N-heterocyclic carbene (NHC) ligand, has been developed, wherein the anionic uracil motif offers a pyridinone-type proton-responsive site adjacent to the Co center. Gratifyingly, Co&#8211;NHCU acts as a high-efficiency H2-generation electrocatalyst with variable proton sources, achieving maximum turnover frequency (TOFmax) values in the range of 5000&#8211;13 700 s&#8211;1 (from cyclic voltammetry) or &#8764;2200&#8211;7360 s&#8211;1 (from controlled potential electrolysis) with Faradaic efficiencies of 93%&#8211;98%, at the overpotential range of 0.50&#8211;0.78 V. This system delivered the highest TOFmax values achieved to date by any cobalt electrocatalyst in a nonaqueous medium: 10 200&#8211;13 700 s&#8211;1 with CF3COOH and Et3NHBF4 as proton sources. This work could provide insights into the future design principles of homogeneous HER catalysts via capitalizing the power of pyridinone/pyridinol-based proton shuttle motifs coupled with Earth-abundant transition metals.</description>
+      <author>Sanajit Kumar Mandal, Chandana Sunil, Joyanta Choudhury</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04879</guid>
+    </item>
+    <item>
+      <title>Nickel-Catalyzed Modular Four-Component 1,4-Alkylcarbonylation of 1,3-Enynes to Tetra-Substituted CF&lt;sub&gt;3&lt;/sub&gt;&#8211;Allenyl Ketones</title>
+      <link>https://doi.org/10.1021/acscatal.3c05776</link>
+      <description>Qi-Chao Shan, Yan Zhao, Shutao Wang, Hongfei Liu, Xin&#8208;Hua Duan, Li Guo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391214823
+
+                The modular four-component carbonylation of unsaturated hydrocarbons represents an elegant strategy for the one-pot synthesis of complex carbonyl compounds. However, this strategy is currently focused on the 1,2-difunctionalization of olefins or alkynes, and the 1,4-alkylcarbonylation of 1,3-enynes remains unexplored. In this study, we report a Ni-catalyzed 1,4-alkylcarbonylation of CF3-containing 1,3-enynes under 1 atm of CO, which affords the tetra-substituted CF3-allenyl ketones with good yields and selectivity. This protocol features mild conditions, broad substrate scope, and acceptable functional group compatibility. Control experiments revealed that the reactivity of oxime esters (regulated by leaving groups) and polarity matching are crucial for the success of this four-component cascade. Preliminary mechanistic studies suggest that the acyl nickel complex is a key intermediate in this transformation.</description>
+      <author>Qi-Chao Shan, Yan Zhao, Shutao Wang, Hongfei Liu, Xin&#8208;Hua Duan, Li Guo</author>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05776</guid>
+    </item>
+    <item>
+      <title>Unlocking Birch Lignin Hydrocracking through Tandem Catalysis: Unraveling the Role of Moderate Hydrogen Spillover</title>
+      <link>https://doi.org/10.1021/acscatal.3c04721</link>
+      <description>Zhongqiu Liu, Yuanyuan Yu, Yujing Liu, Anguo Ying, Xiaolong Zhang, Ye Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391231402
+
+                The trade-off between intensity of hydrogen spillover and efficient production of aromatics poses an insurmountable obstacle to the depolymerization of lignin into monomeric phenols (MPs), as effectively harnessing hydrogen spillover for degradating lignin into MPs while avoiding excessive hydrogenation of aromatic rings remains a formidable challenge. Herein, a Ni&#8211;Cu/Nb2O5@Fe3O4 composite with Ni&#8211;Cu alloy and oxygen vacancies (OVs) has been fabricated for birch lignin valorization. The interspecies electron transfer within the alloy significantly improves intrinsic catalytic inertness of Cu species while simultaneously reducing intrinsic catalytic activity of Ni species toward moderate hydrogen spillover. Moreover, the mutual alloying of Ni and Cu generates moderately strong Lewis acidic sites (LASs). This resulting moderate hydrogen spillover and LASs collaboratively promote the depolymerization of lignin into crude MPs with varying degrees of methoxy substituents. Subsequently, the coupling of O atom-specific OVs recognition with LASs profoundly facilitates Ph&#8211;OMe bond dissociation, ultimately leading to the one-step generation of MPs. The tandem catalysis of moderate hydrogen spillover and specific recognition results in a high yield of MPs (up to 58 wt %) in birch lignin depolymerization, which is approximately twice as high as the reported optimum heterogeneous catalysts. Both experimental and calculation results suggest that the presence of Cu species induces an unusual electron-donating ability of Ni species during the alloying process, which successively reconstitutes their intrinsic catalytic performance and Lewis acid property, and the specific recognition of OVs is mediated by an O atom electron-effect, giving rise to a rare tandem catalysis for harvesting lignin based-MPs.</description>
+      <author>Zhongqiu Liu, Yuanyuan Yu, Yujing Liu, Anguo Ying, Xiaolong Zhang, Ye Wang</author>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04721</guid>
+    </item>
+    <item>
+      <title>Theoretical Insights into H&lt;sub&gt;2&lt;/sub&gt; Activation and Hydrogen Spillover on Near-Surface Alloys with Embedded Single Pt Atoms</title>
+      <link>https://doi.org/10.1021/acscatal.3c05660</link>
+      <description>Zefu Tan, Jun Chen, Sen Lin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391253549
+
+                Despite extensive studies of hydrogen spillover on single-atom alloy surfaces, a thorough understanding of the structure&#8211;activity relationship is still lacking. Here, we investigate H2 dissociation and diffusion of the dissociated H species on the near-surface alloys embedded with single Pt atoms using density functional theory (DFT) calculations and ab initio molecular dynamics (AIMD) simulations. The DFT results indicate that subsurface alloying with early transition metals (X) (Pt1-X/Cu(111)) can generally promote the initial hydrogen spillover but suppress the H2 dissociation process, showing an intractable trade-off effect. While the DFT-calculated H2 dissociation barrier on Pt1-Co/Cu(111) is higher than that on Pt1-Ni/Cu(111), the AIMD results show that the H2 dissociation probability on the Pt1-Co/Cu(111) surface is much higher than that on Pt1-Ni/Cu(111). The trajectory analysis shows that H2 molecules on Pt1-Co/Cu(111) can adopt a more convenient conformation for dissociation when approaching the so-called close-range physisorption zone (CPZ) due to the relatively flat topography of the potential energy surface, thus increasing the H2 dissociation probability compared to the case on Pt1-Ni/Cu(111). This work provides a clear picture for understanding the structure&#8211;activity relationships of H2 activation and hydrogen spillover over single-atom catalysts. More importantly, it highlights an overlooked but essential role of the dynamic orientation of the reactant in heterogeneous catalysis.</description>
+      <author>Zefu Tan, Jun Chen, Sen Lin</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05660</guid>
+    </item>
+    <item>
+      <title>Aerobic Alcohol Oxidation with a Cerium&#8211;Phenanthrolinedione Complex: A Mimic of Lanthanide-Based Methanol Dehydrogenase</title>
+      <link>https://doi.org/10.1021/acscatal.3c05428</link>
+      <description>Duyi Shen, Ting Ren, Haixing Zhang, Mianran Chao, Cheng Sun, Peiwei Gong, Shumiao Zhang, Yong Min Lee, Shunichi Fukuzumi, Wonwoo Nam, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391254069
+
+                No abstract</description>
+      <author>Duyi Shen, Ting Ren, Haixing Zhang, Mianran Chao, Cheng Sun, Peiwei Gong, Shumiao Zhang, Yong Min Lee, Shunichi Fukuzumi, Wonwoo Nam</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05428</guid>
+    </item>
+    <item>
+      <title>The Missing Link for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction: Classification of CO vs HCOOH Selectivity via PCA, Reaction Pathways, and Coverage Analysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c04851</link>
+      <description>Oliver Christensen, Alexander Bagger, Jan Rossmeisl, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391255963
+
+                No abstract</description>
+      <author>Oliver Christensen, Alexander Bagger, Jan Rossmeisl</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04851</guid>
+    </item>
+    <item>
+      <title>Hydrazine Oxidation Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c05657</link>
+      <description>Tomer Y. Burshtein, Yakov Yasman, Lisa Mu&#241;oz-Moene, Jos&#233; H. Zagal, David Eisenberg, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391310056
+
+                The electro-oxidation of hydrazine is important for direct hydrazine fuel cells and for fundamental understanding of electrocatalysis in the nitrogen cycle. In this Review, we discuss electrocatalysis of the hydrazine oxidation reaction (HzOR), spanning a vast range of metal surfaces, nanoparticles, atomically dispersed ions, organometallic macrocycles, and enzymes. Emphasis is given to structure&#8211;activity correlations and reactivity descriptors, including the formulation of the Zagal principle, an electrochemical corollary of the Sabatier principle. In addition, we identify overarching themes that span the different subfields of HzOR electrocatalysis, hoping to inspire cross-disciplinary research avenues.</description>
+      <author>Tomer Y. Burshtein, Yakov Yasman, Lisa Mu&#241;oz-Moene, Jos&#233; H. Zagal, David Eisenberg</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05657</guid>
+    </item>
+    <item>
+      <title>Harnessing the &#8220;Methyl Effect&#8221; in the Development of Novel &lt;i&gt;meta-&lt;/i&gt;Directing Template for C&#8211;H Cyanation</title>
+      <link>https://doi.org/10.1021/acscatal.3c04953</link>
+      <description>Trisha Bhattacharya, Chitrala Teja, Nikunj Kumar, Kanhaiya Kumar Bhagat, Goutam Kumar Lahiri, Puneet Gupta, Sameer Tyagi, Debabrata Maiti, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391318030
+
+                The significance of chelation-assisted C&#8211;H functionalization stands upon the superior site-selectivity, easy synthesis, and diverse product utility. In this work, we design a meta-directing scaffold by tuning the side chain of a pyrimidine-based template to attain unconventional site-selectivity in anilines. A simple methyl substitution at the side chain enhances the directing group (DG) efficacy significantly, leading to an almost exclusive meta-selectivity. The current DG further enables a meta-selective cyanation of aniline and its higher homologues irrespective of the substrate electronic bias. The synthetic impact of the methodology is further highlighted with late-stage functionalizations of two very popular local anesthetics butamben and benzocaine. A thorough experimental and in silico study further unfolds the importance of the substitution effect in attaining superior site-selectivity and the role of silver carbonate in the mechanistic cycle.</description>
+      <author>Trisha Bhattacharya, Chitrala Teja, Nikunj Kumar, Kanhaiya Kumar Bhagat, Goutam Kumar Lahiri, Puneet Gupta, Sameer Tyagi, Debabrata Maiti</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04953</guid>
+    </item>
+    <item>
+      <title>Mechanistic Insights into Enantiocontrolling of Styrene Monooxygenase-Catalyzed Epoxidation of Olefins</title>
+      <link>https://doi.org/10.1021/acscatal.3c06328</link>
+      <description>Hui Lin, Shunyan Fang, Hang Gao, Zhi-lie QIN, Donglin Fan, Na Li, Zhong&#8208;Liu Wu, Hongge Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391322724
+
+                Although styrene monooxygenases (SMOs) are widely used in the production of (S)- or (R)-enantiopure epoxides, the underlying enantiocontrol mechanism of SMO-catalyzed epoxidation remains elusive. Herein, we observed that the substrate-binding pose in the catalytic center, which was codetermined by the residues in the catalytic center and size of the alkyl moiety in the substrates, governed the enantioselectivity of the StyA-catalyzed epoxidation. The mutagenesis of the aromatic residue at site 73 into a nonaromatic residue or that of the nonaromatic residue at site 211 into aromatic residues resulted in the inversion of the enantioselectivity. The variants Y73V, V211F, V211Y, Y73V/V211F, and Y73V/V211Y of the (S)-selective StyA exhibited reversible enantioselectivity during the catalyzed epoxidation of 1-phenylcyclohexene derivatives, yielding the corresponding (R)-epoxides with high enantioselectivity (68&#8211;85% ee). Moreover, the (R)-selective variants catalyzed the olefins that harbored large hydrophobic groups, such as 1-phenylcyclohexene derivatives, into their corresponding (R)-epoxides with high enantioselectivity (up to &gt;99% ee). However, these (R)-selective variants retained (S)-selectivity for the epoxidation of styrene, trans-&#946;-methylstyrene, and trans-&#946;-ethylstyrene. The elucidation of the enantiocontrolling mechanism of SMOs would thus be valuable for creating efficient styrene monooxygenases with different enantioselectivities.</description>
+      <author>Hui Lin, Shunyan Fang, Hang Gao, Zhi-lie QIN, Donglin Fan, Na Li, Zhong&#8208;Liu Wu, Hongge Chen</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06328</guid>
     </item>
   </channel>
 </rss>
