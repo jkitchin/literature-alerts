@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Feb 2024 14:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 23:59:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tuning the CO&lt;sub&gt;2&lt;/sub&gt; Reduction Activity of Graphitic Carbon Nitride via the Capping-Agent-Free Involvement of Ag Nanocrystals</title>
-      <link>https://doi.org/10.1021/acs.iecr.3c03841</link>
-      <description>Liang Ma, Xiaoyan Cai, Zhiqiang Liang, Shun Lu, Pengxuan Wu, Songbai Qiu, Qian Zhang, Tiejun Wang, No host. None(None)] 2024. https://openalex.org/W4391111388
-
-                In this work, a facile method to tune the carbon dioxide (CO2) reduction reaction (CRR) activities of graphitic carbon nitride (GCN) was developed via the capping-agent-free involvement of a trace amount of Ag nanocrystals with a decreased size. After the optimization of experimental conditions, the CRR performance investigation confirms that Ag-GCN-0.2 exhibited a superior CRR performance, achieving a faradaic efficiency (FE) of more than 72 &#177; 1% for CO in a wide potential range from &#8722;0.6 to &#8722;1.1 V (vs reversible hydrogen electrode (RHE)) and a max FE of 89 &#177; 1% at an overpotential of 0.9 V with a constant current density and a well-maintained microstructure even after 12 h of electrolysis. This work provides a new route to tune the catalytical performance of GCN and pave the way for the rational design, synthesis, and accurate estimation of the GCN-based catalysts, which will be synthesized on a large scale and utilized in industries.</description>
-      <author>Liang Ma, Xiaoyan Cai, Zhiqiang Liang, Shun Lu, Pengxuan Wu, Songbai Qiu, Qian Zhang, Tiejun Wang</author>
-      <pubDate>Mon, 22 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.3c03841</guid>
-    </item>
-    <item>
-      <title>Mechanism of electrochemical carbon dioxide reduction to formate on tin electrode</title>
-      <link>https://doi.org/10.1016/j.cej.2024.148972</link>
-      <description>Anoop Naikkath, Nikhil George Mohan, Kothandaraman Ramanujam, Surash Ramanathan, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391112540
-
-                Carbon dioxide can be electrochemically reduced to formate on tin electrodes. Formate is one of the most economically viable products of CO2 reduction reaction (CO2RR). While CO2 is reduced to formate, hydrogen evolution reaction (HER) occurs concomitantly. The kinetics of CO2RR and HER on the tin electrode was investigated. Potentiodynamic polarization studies were conducted in CO2 saturated and N2 saturated 0.1 M KHCO3 solutions, in the potential range from &#8722;0.014 V to &#8722;1.59 V vs. RHE. A faradaic efficiency of 93.95 % towards formate production was obtained at &#8722;1.09 V vs. RHE. The mass transfer effects and bicarbonate dissociation equilibrium were used to estimate the concentration of the reactants at the electrode surface. Density functional theory calculations indicate that &#8211;OCHO intermediate species is thermodynamically favoured, and a four-step reaction with two intermediates is proposed. The proposed mechanism captures the major features of the polarization data. CO2 reduction occurs via two intermediate species, viz. adsorbed H and OCHO species, while HER occurs via Volmer-Heyrovsky steps. The model predicts that in N2 saturated solutions, the fractional surface coverage of adsorbed H reaches a maximum of &#8764;0.48 at a potential of &#8722;0.82 V vs. RHE while in CO2 saturated solutions, the corresponding value is &#8764;0.29. In addition, the maximum fractional surface coverage of adsorbed OCHO is predicted to be &#8764;0.12 in CO2 saturated solutions.</description>
-      <author>Anoop Naikkath, Nikhil George Mohan, Kothandaraman Ramanujam, Surash Ramanathan</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148972</guid>
-    </item>
-    <item>
-      <title>Steering CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to C&lt;sub&gt;2+&lt;/sub&gt; Products via Enhancing Localized *Co Coverage And Local Pressure in Conical Cavity</title>
-      <link>https://doi.org/10.1002/adma.202312204</link>
-      <description>Chunzhong Li, Tingting Zhang, Heng Liu, Zhongyuan Guo, Zhongliang Liu, Huancong Shi, Jialin Cui, Hao Li, Huihui Li, Chunzhong Li, Advanced Materials. None(None)] 2024. https://openalex.org/W4391212986
-
-                The electrochemical carbon dioxide reduction reaction (CO2 RR) involves a multistep proton-coupled electron transfer (PCET) process that generates a variety of intermediates, making it challenging to transform them into target products with high activity and selectivity. Here, we report a catalyst featuring a nanosheets-stacked sphere structure with numerous open and deep conical cavities (OD-CCs). Under the guidance of finite-element method (FEM) simulations and theoretical analysis, we showed that exerting control over the confinement space resulted in diffusion limitation of the carbon intermediates, thereby increasing local pressure and subsequently enhancing localized *CO coverage for dimerization. The nanocavities exhibited a structure-driven shift in selectivity of multi-carbon (C2+ ) product from 41.8% to 81.7% during the CO2 RR process. This article is protected by copyright. All rights reserved.</description>
-      <author>Chunzhong Li, Tingting Zhang, Heng Liu, Zhongyuan Guo, Zhongliang Liu, Huancong Shi, Jialin Cui, Hao Li, Huihui Li, Chunzhong Li</author>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adma.202312204</guid>
-    </item>
     <item>
       <title>Cadmium sulfide nanoparticles compositing with chitosan and metal-organic framework: Enhanced photostability and increased carbon dioxide reduction</title>
       <link>https://doi.org/10.1007/s42114-024-00837-2</link>
@@ -66,36 +36,6 @@
       <author>Hongxuan Qiu, Akira Yamamoto, Hisao Yoshida</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3se01390a</guid>
-    </item>
-    <item>
-      <title>Exploring Carbon Monoxide and Carbon Dioxide Adsorption on (5,5) Aluminum Nitride Nanotubes for Enhanced Sensor Applications: A DFT Study</title>
-      <link>https://doi.org/10.3390/molecules29030557</link>
-      <description>Nafiu Suleiman, Vitus A. Apalangya, Bismark Mensah, Kwabena Kan-Dapaah, Abu Yaya, Molecules. 29(3)] 2024. https://openalex.org/W4391136623
-
-                This study examined the sensitivity of single-walled (5,5) aluminium nitride nanotubes ((5,5) AlNNTs) to carbon monoxide (CO) and carbon dioxide (CO2) gas molecules by performing DFT calculations using a hybrid functional, specifically, B3LYP (Becke&#8217;s three-parameter, Lee-Yang-Parr) exchange-correlation functional at a 6&#8211;31G* basis set. This research investigates the adsorption behavior of CO2 and CO molecules on pristine and silicon-doped aluminum nitride nanotubes (AlNNTs) and examines their implications for sensor applications. The study assesses each system&#8217;s adsorption energy, sensing potential, and recovery time to gain insights into their binding strength and practical viability. For CO2 adsorption on (5,5) AlNNT, significant adsorption energy of &#8722;24.36 kcal/mol was observed, indicating a strong binding to the nanotube surface, with a sensing potential of 8.95%. However, the slow recovery time of approximately 4.964 days may limit its real-time application. Si-(5,5) AlNNT exhibited a CO2 adsorption energy of &#8722;19.69 kcal/mol, a sensing potential of 5.40%, and a relatively short recovery time of approximately 2.978 min, making it a promising candidate for CO2 sensing. CO adsorption on (5,5) AlNNT showed an adsorption energy of &#8722;25.20 kcal/mol, a sensing potential of 9.095%, but a longer recovery time of approximately 20.130 days. Si-(5,5) AlNNT displayed a high CO adsorption energy of &#8722;20.78 kcal/mol, a sensing potential of 4.29%, and a recovery time of approximately 18.320 min. These findings provide insights into the adsorption characteristics of carbon molecules on AlNNTs, highlighting their potential for CO2 and CO sensing applications.</description>
-      <author>Nafiu Suleiman, Vitus A. Apalangya, Bismark Mensah, Kwabena Kan-Dapaah, Abu Yaya</author>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules29030557</guid>
-    </item>
-    <item>
-      <title>Steering the Selectivity of Carbon Dioxide Electroreduction from Single-Carbon to Multicarbon Products on Metal&#8211;Organic Frameworks via Facet Engineering</title>
-      <link>https://doi.org/10.1021/acs.nanolett.3c04092</link>
-      <description>Pengyi Lu, Jia Lv, Yu Chen, Yangbo Ma, Yunhao Wang, Wei Lyu, Jinli Yu, Jingwen Zhou, Jinwen Yin, Yi Xiong, Guozhi Wang, Chongyi Ling, Shibo Xi, Daliang Zhang, Zhanxi Fan, Nano Letters. None(None)] 2024. https://openalex.org/W4391160753
-
-                Although metal&#8211;organic frameworks (MOFs) have attracted more attention for the electrocatalytic CO2 reduction reaction (CO2RR), obtaining multicarbon products with a high Faradaic efficiency (FE) remains challenging, especially under neutral conditions. Here, we report the controlled synthesis of stable Cu(I) 5-mercapto-1-methyltetrazole framework (Cu-MMT) nanostructures with different facets by rationally modulating the reaction solvents. Significantly, Cu-MMT nanostructures with (001) facets are acquired using isopropanol as a solvent, which favor multicarbon production with an FE of 73.75% and a multicarbon:single-carbon ratio of 3.93 for CO2RR in a neutral electrolyte. In sharp contrast, Cu-MMT nanostructures with (100) facets are obtained utilizing water, promoting single-carbon generation with an FE of 63.98% and a multicarbon: single-carbon ratio of only 0.18. Furthermore, this method can be extended to other Cu-MMT nanostructures with different facets in tuning the CO2 reduction selectivity. This work opens up new opportunities for the highly selective and efficient CO2 electroreduction to multicarbon products on MOFs via facet engineering.</description>
-      <author>Pengyi Lu, Jia Lv, Yu Chen, Yangbo Ma, Yunhao Wang, Wei Lyu, Jinli Yu, Jingwen Zhou, Jinwen Yin, Yi Xiong, Guozhi Wang, Chongyi Ling, Shibo Xi, Daliang Zhang, Zhanxi Fan</author>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.3c04092</guid>
-    </item>
-    <item>
-      <title>Selectively Adsorbed Mercaptoethanesulfonic Acid on Au/TiO&lt;sub&gt;2&lt;/sub&gt; Enhances the Yield and Selectivity of Photocatalytic Reduction of Carbon Dioxide</title>
-      <link>https://doi.org/10.1021/acsaem.3c03093</link>
-      <description>Mengdan Guan, Junjie Wang, Zhongyan Gong, Kun Gao, Xing Kang, Yulong Zhang, Chengcheng Zhu, Zhihao L&#252;, Xinya Chen, Jianguo L&#252;, Qinghua Liu, Haonan Chen, Liuyingzi Yu, Kaili Wang, Zhuoyao Li, Gang L&#252;, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4391239090
-
-                The photocatalytic reduction of carbon dioxide (CO2RR) is of paramount importance in the energy industry and environmental protection. Developing highly efficient catalysts plays a central role in advancing CO2RR for practical applications, and a Au/TiO2 heterostructure has emerged as a prominent photocatalyst in CO2RR. However, there is still a need to improve the reaction efficiency and selectivity of this heterostructure to realize its full potential in practical applications. Herein, a significant enhancement in the total gas-production rate on the Au/TiO2 heterostructure is achieved by selectively adsorbing thiol molecules, specifically mercaptoethanesulfonic acid, onto the gold surface. Remarkably, the selectivity toward carbon monoxide has also improved from 62.3 to 79.3%. Notably, the reaction rate and selectivity are strongly influenced by the choice of thiol molecules, their concentration, and the wavelength of light used for illumination. The improved reaction efficiency and selectivity can be attributed to the promotion of charge transfer at the Au&#8211;TiO2 interface induced by molecular adsorption of thiols. This phenomenon leads to enhanced performance in the photocatalytic CO2RR process. Importantly, this work presents a simple, convenient, cost-effective, and controllable strategy to improve the reaction efficiency and selectivity of photocatalytic CO2RR on the Au/TiO2 heterostructure. Furthermore, this strategy holds promise for application in various other heterogeneous photocatalytic systems in the near future.</description>
-      <author>Mengdan Guan, Junjie Wang, Zhongyan Gong, Kun Gao, Xing Kang, Yulong Zhang, Chengcheng Zhu, Zhihao L&#252;, Xinya Chen, Jianguo L&#252;, Qinghua Liu, Haonan Chen, Liuyingzi Yu, Kaili Wang, Zhuoyao Li, Gang L&#252;</author>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03093</guid>
     </item>
     <item>
       <title>Effective reduction on flame soot via plasma coupled with carbon dioxide</title>
@@ -138,56 +78,6 @@
       <guid isPermaLink="true">https://openalex.org/W4391327398</guid>
     </item>
     <item>
-      <title>Determining kinetics of electrochemical carbon dioxide reduction to carbon monoxide with scanning electrochemical microscopy</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118061</link>
-      <description>Qikang Huang, Peize Li, Mingkui Wang, Yan Shen, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4391116059
-
-                This study reports on determining kinetics of electrochemical reduction CO2 to CO on Au catalysts using the substrate generation/tip collection (SG/TC) mode of scanning electrochemical microscopy (SECM). We introduced a simple but effective method based on transient technique to obtain a series of apparent heterogeneous rate constants k based on Fick&#8217;s second law by controlling the tip-substrate distance and the voltage of the substrate electrode within the SECM framework. By analysis the transient current recorded during the chronoamperometric characterization, we can successfully determine the apparent rate constant k for the simplified total conversion process of CO2 + 2H+ + 2e- &#8594; CO + H2O onto Au catalyst electrode serving as an example, which increases from 5.02 &#215; 10&#8211;2 cm&#8901;s&#8722;1 to 7.16 &#215; 10&#8211;2 cm&#8901;s&#8722;1 in the low potential range of &#8722;2.2 to &#8722;2.6 V (vs. Pt/PPy) and decreases to 6.54 &#215; 10-2 cm&#8901;s&#8722;1 at &#8211;2.8 V (vs. Pt/PPy). The method proposed here can be applied to quantitatively analyze the kinetic of CO2 electrochemical reduction reaction, and thus provide a useful tool to guide the synthesis of catalyst as well as in-situ performance evaluation.</description>
-      <author>Qikang Huang, Peize Li, Mingkui Wang, Yan Shen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118061</guid>
-    </item>
-    <item>
-      <title>The synergistic role of carbon dioxide removal and emission reductions in achieving the Paris Agreement goal</title>
-      <link>https://doi.org/10.1016/j.spc.2024.01.004</link>
-      <description>Humphrey Adun, Jeffrey Dankwa Ampah, Olusola Bamisile, Yihua Hu, Sustainable Production and Consumption. None(None)] 2024. https://openalex.org/W4391071426
-
-                The limiting global carbon budget underscores the urgent need for effective and ambitious climate mitigation measures across diverse sectors to curb greenhouse gas emissions and prevent further exacerbation of global warming, aligning with international agreements such as the Paris Agreement. The role of carbon dioxide removal (CDR) becomes increasingly crucial in this context, though the extent to which this applies as a complementary measure to mitigation actions still requires careful examination and quantitative analysis. In this study, we carry out an assessment contingent upon the intertwined roles of mitigation actions and the levels of CDR deployment using the Energy-Rapid Overview and Decision-Support (En-ROADS) simulation tool. We develop sectoral emission reduction assumptions and a broad portfolio of CDR archetypes and deployment levels to evaluate their impacts on the intricate climate-land-energy nexus, and global warming temperature. We find that high levels of CDR permit the continual consumption of fossil fuels, though driving substantial renewable energy consumption post-mid-century. We also observe that high levels of CDR negatively impact sustainability factors, such as reduction in agricultural farmland, which is pronounced under high mitigation actions. We observe that the largest share of CDR is in agricultural soil carbon, with its proportion ranging from 27.4 % to 31.3 % across all scenarios. In conclusion, though CDRs are what put the &#8216;net&#8217; in the &#8216;net-zero emissions&#8217; goal, they are not a silver bullet but rather a crucial piece in the complex puzzle of climate action. We recommend that CDR should be strategically deployed as complementary options to vigorous emission reduction efforts, as this paves the way towards a sustainable and balanced approach to achieving our global climate objectives.</description>
-      <author>Humphrey Adun, Jeffrey Dankwa Ampah, Olusola Bamisile, Yihua Hu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.spc.2024.01.004</guid>
-    </item>
-    <item>
-      <title>Carbon dioxide reduction to methane and ethanol by using boron carbide monolayer as a suitable photocatalyst</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.110849</link>
-      <description>Mohamed J. Saadh, Saade Abdalkareem Jasim, Linda Mariuxi Flores Fiallos, Anupam Yadav, Louay Saleh, Edwin J&#225;come, C&#233;sar Gerardo Mej&#237;a Gallegos, Yazen M. Alawaideh, Yasser Elmasry, Diamond and Related Materials. 142(None)] 2024. https://openalex.org/W4391089745
-
-                A new-type boron carbide material has been used, as an electrocatalyst for the reduction of CO2 to C2 and C1 based on the computational study. Within the current research, DFT was adopted to investigate the BC3 nanoflake as an electrocatalyst for the reduction of CO2. The optoelectronic attributes of the BC3 nanoflake indicated that BC3 nanoflake had a longer visible-light region and its band gap was 2.25 eV. Based on the spatial distribution of the LUMO and the HOMO, the introduction of boron extended the &#960; network of BC3 nanoflake, thereby dramatically increasing the photocatalytic efficiency. Additionally, we estimated the Gibbs free energy of each potential CO2 reaction path onto BC3 nanoflake. Based on the findings, CO2 could reduce into CH4 and CH3CH2OH with low limiting potentials of &#8722;0.41 V and &#8722;0.53 V, respectively. The current study can provide useful insights into the application of BC3 nanoflake as an encouraging photocatalyst for the reduction reaction CO2.</description>
-      <author>Mohamed J. Saadh, Saade Abdalkareem Jasim, Linda Mariuxi Flores Fiallos, Anupam Yadav, Louay Saleh, Edwin J&#225;come, C&#233;sar Gerardo Mej&#237;a Gallegos, Yazen M. Alawaideh, Yasser Elmasry</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110849</guid>
-    </item>
-    <item>
-      <title>Single electron reduction of NHC-CO2-borane compounds</title>
-      <link>https://doi.org/10.1039/d3sc06325a</link>
-      <description>Agustin Morales, Caroline Gon&#231;alves, Alix Sournia&#8208;Saquet, Laure Vendier, Agust&#305;&#769; Lled&#243;s, Olivier Basl&#233;, S&#233;bastien Bontemps, Chemical Science. None(None)] 2024. https://openalex.org/W4391054054
-
-                Carbon dioxide radical anion [CO2&#8226;&#61485;] is a highly reactive species of fundamental and synthetic interest. However, the direct one-electron reduction of CO2 to generate [CO2&#8226;&#61485;] occurs at very negative reduction...</description>
-      <author>Agustin Morales, Caroline Gon&#231;alves, Alix Sournia&#8208;Saquet, Laure Vendier, Agust&#305;&#769; Lled&#243;s, Olivier Basl&#233;, S&#233;bastien Bontemps</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3sc06325a</guid>
-    </item>
-    <item>
-      <title>Interfacial microenvironment effects on electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.cej.2024.148944</link>
-      <description>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391057924
-
-                Electrochemical reduction of carbon dioxide (ECR) powered by renewable energy has the potential to utilize the intermittent renewable electric energy, alleviate the problem of excessive CO2 emissions and yield high value-added chemicals. Despite the intrinsic activity of the well-designed catalysts, subtle changes in the electrode&#8211;electrolyte interface will have a significant impact on the overall reaction. The electrode and its microenvironment together determine the ECR performance. Revealing the relationship between the microenvironment of the catalyst-electrolyte interface and the ECR performance is critical for explaining the reaction mechanism and controlling the reaction process accurately. To maximize the catalytic performance includes the activity, selectivity and stability, the fundamental understanding of the interfacial microenvironment should be clarified as important as the intrinsic properties of the catalyst. Researches on the microenvironment in ECR have been gradually launched while the comprehensive discussion is scarcely. In this review, the interfacial microenvironment changes affected by multiple influence factors including the electrolyte effects (cation effect, anion effect, local pH, electrolyte type and concentration), morphological effects (tip effect, confinement effect), catalyst surface modification (surface hydrophobicity, chemical and electronic state) and electrolyzers improvement (gas diffusion electrode, membrane electrode reaction microenvironment control) are illustrated. Finally, some perspectives are offered on the basis of understanding the connection of catalytic activity and the interfacial microenvironment, these insights obtained can be applied for better control the CO2 reduction and rational design reactors.</description>
-      <author>Xianlang Chen, Chunhua Chen, Yuyao Wang, Zhengyu Pan, Junjie Chen, Yuyang Xu, Liehuang Zhu, Tongyang Song, Rongrong Li, Liang Chen, Ji-Qing Lu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.148944</guid>
-    </item>
-    <item>
       <title>Recent Progress in Electrochemical CO2 Reduction at Different Electrocatalyst Materials</title>
       <link>https://doi.org/10.3390/pr12020303</link>
       <description>Marcela Miranda Barcelos, Maria de Lourdes Soprani Vasconcellos, Josimar Ribeiro, Processes. 12(2)] 2024. https://openalex.org/W4391384166
@@ -208,14 +98,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/w16030483</guid>
     </item>
     <item>
-      <title>Understanding of strain effect on Mo-based MXenes for electrocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159501</link>
-      <description>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo, Applied Surface Science. 654(None)] 2024. https://openalex.org/W4391151075
+      <title>Metal-organic framework composites for electrochemical CO2 reduction reaction</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.126532</link>
+      <description>Kayode Adesina Adegoke, Joshua O. Ighalo, Jeanet Conradie, Chinemerem Ruth Ohoro, James F. Amaku, Kabir O. Oyedotun, Nobanathi Wendy Maxakato, Kovo G. Akpomie, Emmanuel Sunday Okeke, Chijioke Olisah, Alhadji Malloum, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391515522
 
-                Strain engineering is a powerful approach to tuning the electrocatalytic properties, but the systematic understanding of the strain effect in electrochemical reduction of carbon dioxide (CO2RR) is still lacking. Here, we have extensively investigated the impact of strain on the catalytic selectivity and activity of Mo-based MXenes towards CO2RR. Our calculations suggest that strain can effectively tune the CO2 activation and reduction processes on MXenes, endowing great potential to obtain enhanced electrocatalytic performance. Notably, the activated CO2 can be selectively reduced to methane (CH4) on all electrocatalysts, which is conducive to restricting the production of HCOOH, H2CO, CH3OH and H2 (HER). Then, we highlight that compressive strains can reduce the limiting potential (UL) of CO2RR on Mo2C and Mo3C2 from &#8722;0.68 and &#8722;0.66 V to &#8722;0.49 and &#8722;0.38 V at the strain of &#8722;4%@Mo2C and &#8722;6%@Mo3C2, respectively, which are superior to benchmark Cu (2 1 1) (&#8722;0.67 V). Further mechanism analysis illuminates that the strain can significantly modify the d-band center of MXene, which endows the selective modulation of the adsorption strength of OCH2O* and HOCH2O* to achieve promoted catalytic activity. Our results provide an in-depth understanding of the strain effect and rational design principles for enhanced electrocatalytic CO2RR.</description>
-      <author>Dongyue Gao, Yue Xu, Zhe Li, Yadong Yu, Caiyan Yu, Yi Fang, Yang Huang, Chengchun Tang, Zhonglu Guo</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159501</guid>
+                Carbon dioxide (CO2) levels in the atmosphere are quickly increasing as a consequence of anthropogenic activities, which present grave hazards and dangerous circumstances to not only humanity but also the ecosystem. Currently, electrochemical CO2 conversion to chemical/fuels remains one of the best methods for minimizing CO2 concentrations. Metal-organic frameworks (MOFs) composite materials have been considered as new class of highly-performed electrocatalysts for CO2 reduction reaction (CO2RR) due to their wide surface area, higher porosity, chemical tunability and excellent stability. This article presents major approaches for electrochemical CO2RR to value-added product. These were followed by discussing the recent advancements in MOF composite electrocatalysts for CO2RR including active sites MOF-supported electrocatalysts, metal-nanoparticles-supported MOFs, conductive supported MOFs composites, and polyoxometalate-based MOF composites. Lastly, some challenges currently facing MOF composites for CO2RR as well as anticipated future advances were discussed. Research hotspot lies in the creation of highly effective CO2RR electrocatalyst such as ligand engineering in MOFs. It is believed that the current study will contribute to accelerating the fabrication of efficient MOF composite materials for abating the CO2 emission in the ecosystem and to highlight the necessity for further research to address significant environmental sustainability concerns.</description>
+      <author>Kayode Adesina Adegoke, Joshua O. Ighalo, Jeanet Conradie, Chinemerem Ruth Ohoro, James F. Amaku, Kabir O. Oyedotun, Nobanathi Wendy Maxakato, Kovo G. Akpomie, Emmanuel Sunday Okeke, Chijioke Olisah, Alhadji Malloum</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126532</guid>
     </item>
     <item>
       <title>MXenes for CO2 reduction: a promising choice</title>
@@ -228,56 +118,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95515-7.00011-x</guid>
     </item>
     <item>
-      <title>Review for "Single electron reduction of NHC-CO2-borane compounds"</title>
-      <link>https://doi.org/10.1039/d3sc06325a/v1/review2</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391062118
-
-                No abstract</description>
-      <author/>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3sc06325a/v1/review2</guid>
-    </item>
-    <item>
-      <title>Review for "Single electron reduction of NHC-CO2-borane compounds"</title>
-      <link>https://doi.org/10.1039/d3sc06325a/v1/review3</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391062092
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3sc06325a/v1/review3</guid>
-    </item>
-    <item>
-      <title>Review for "Single electron reduction of NHC-CO2-borane compounds"</title>
-      <link>https://doi.org/10.1039/d3sc06325a/v1/review1</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391062091
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sat, 09 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3sc06325a/v1/review1</guid>
-    </item>
-    <item>
-      <title>Electrochemical Water Oxidation and CO2 Reduction with a Nickel Molecular Catalyst</title>
-      <link>https://doi.org/10.3390/molecules29030578</link>
-      <description>Hengxin Jian, Mengyu Lu, Zheng Haowen, Shuai Yan, M. Wang, Molecules. 29(3)] 2024. https://openalex.org/W4391175526
-
-                Mimicking the photosynthesis of green plants to combine water oxidation with CO2 reduction is of great significance for solving energy and environmental crises. In this context, a trinuclear nickel complex, [NiII3(paoH)6(PhPO3)2]&#183;2ClO4 (1), with a novel structure has been constructed with PhPO32&#8722; (phenylphosphonate) and paoH (2-pyridine formaldehyde oxime) ligands and possesses a reflection symmetry with a mirror plane revealed by single-crystal X-ray diffraction. Bulk electrocatalysis demonstrates that complex 1 can homogeneously catalyze water oxidation and CO2 reduction simultaneously. It can catalyze water oxidation at a near-neutral condition of pH = 7.45 with a high TOF of 12.2 s&#8722;1, and the Faraday efficiency is as high as 95%. Meanwhile, it also exhibits high electrocatalytic activity for CO2 reduction towards CO with a TOF of 7.84 s&#8722;1 in DMF solution. The excellent electrocatalytic performance of the water oxidation and CO2 reduction of complex 1 could be attributed to the two unique &#181;3-PhPO32&#8722; bridges as the crucial factor for stabilizing the trinuclear molecule as well as the proton transformation during the catalytic process, while the oxime groups modulate the electronic structure of the metal centers via &#960; back-bonding. Therefore, apart from the cooperation effect of the three Ni centers for catalysis, simultaneously, the two kinds of ligands in complex 1 can also synergistically coordinate the central metal, thereby significantly promoting its catalytic performance. Complex 1 represents the first nickel molecular electrocatalyst for both water oxidation and CO2 reduction. The findings in this work open an avenue for designing efficient molecular electrocatalysts with peculiar ligands.</description>
-      <author>Hengxin Jian, Mengyu Lu, Zheng Haowen, Shuai Yan, M. Wang</author>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules29030578</guid>
-    </item>
-    <item>
-      <title>Electrochemical CO2 reduction properties of boron-doped diamond powder</title>
-      <link>https://doi.org/10.1016/j.diamond.2024.110821</link>
-      <description>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa, Diamond and Related Materials. 142(None)] 2024. https://openalex.org/W4391074415
-
-                The electrochemical CO2 reduction reaction (CO2RR) properties of boron-doped diamond powder (BDDP) were investigated. A BDDP-painted electrode was prepared by casting BDDP ink on the surface of a BDD thin-film electrode as a current collector. The CO2RR properties of the BDDP-painted electrode were compared to those of conventional BDD thin-film electrodes, which were prepared directly on a conductive silicon wafer substrate by the microwave plasma-assisted chemical vapor deposition method. The result of the electrolysis at &#8722;1.8 V vs. Ag/AgCl in 0.5 M KCl catholyte showed that the BDDP-painted electrode was superior to the BDD thin-film electrode because it produced a large amount of products (formic acid and carbon monoxide) at a low overpotential. The highest performance of the CO2RR in the BDDP-painted electrode was achieved with the BDDP with high boron doping and high sp2 carbon content. We considered that structural defects, boron doping level, and sp2 carbon content influenced the reactivity for CO2 reduction. Therefore, the BDDP-painted electrodes should be useful not only for the production of a large-size electrode but also for efficient CO2RR.</description>
-      <author>Yudai Miyake, Takeshi Kondo, Atsushi Otake, Yasuaki Einaga, Takeo Tojo, Makoto Yuasa</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110821</guid>
-    </item>
-    <item>
       <title>Haeckelite mediated reduction of CO2 by molecular hydrogen. A DFT study</title>
       <link>https://doi.org/10.1016/j.comptc.2024.114499</link>
       <description>Wilmer Esteban Vallejo Narv&#225;ez, C&#233;sar Gabriel Vera de la Garza, Serguei Fomine, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4391487109
@@ -288,44 +128,154 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114499</guid>
     </item>
     <item>
-      <title>Photoredox-catalyzed coupling of CO2 reduction and amines oxidation by Cu doped CdS quantum dots</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.113858</link>
-      <description>Long&#8208;Hui Gao, Wei Xiao, Ming&#8208;Yu Qi, Jing-Yu Li, Changlong Tan, Zi&#8208;Rong Tang, Molecular Catalysis. 554(None)] 2024. https://openalex.org/W4391055370
+      <title>Oxygen vacancies synergistic cobalt phosphide electron bridge modulated bismuth oxychloride/carbon nitride Z-scheme junction for efficient carbon dioxide reduction coupled with tetracycline oxidation</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.01.149</link>
+      <description>Haoyu Sun, Xuemei Jia, Jing Cao, Shifu Chen, Yong Chen, Haili Lin, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4391264958
 
-                Solar-driven carbon dioxide (CO2) reduction integrated with selective organic synthesis proposes a sustainable paradigm to achieve carbon neutrality concomitantly with value-added fuels and chemicals production. Here, we report the synergistic coupling reaction of CO2 reduction and amines oxidation to syngas and secondary amines over Cu doped CdS quantum dots (Cu:CdS QDs) under visible light. This system is compatible with various amines to afford the corresponding secondary amines with outstanding selectivity. Notably, the syngas CO/H2 ratio can be obtained in a window from 1:2 to 2:1 by altering the Cu doping content. Mechanistic studies unveil that doped Cu not only improves the charge separation efficiency, but also serves as active sites for the adsorption/activation of CO2, thus adjusting the syngas ratio. This work is envisaged to enable a viable strategy for the rational design of transition metal-doped semiconductor QDs toward the co-production of syngas and high-value chemicals in one photoredox cycle.</description>
-      <author>Long&#8208;Hui Gao, Wei Xiao, Ming&#8208;Yu Qi, Jing-Yu Li, Changlong Tan, Zi&#8208;Rong Tang</author>
+                Although great progress has been made with respect to electron bridges, the electron mobility of the state-of-the-art electron bridges is far from satisfactory because of weak electrical conductivity. To overcome the above issue, cobalt phosphide (CoP), as a model electron bridge, was modified with superficial oxygen vacancies (OVs) and embedded into a defective bismuth oxychloride/carbon nitride (BiO1-xCl/g-C3N4) Z-scheme heterojunction to obtain atomic-level insights into the effect of surface OVs on CoP electron bridges. Compared to BiO1-xCl/g-C3N4 and bismuth oxychloride/cobalt phosphide/carbon nitride (BiOCl/CoP/g-C3N4) composites, the defective bismuth oxychloride/cobalt phosphide/carbon nitride (BiO1-xCl/CoP/g-C3N4) heterojunction exhibited remarkable photocatalytic redox performance, indicating that the surface OVs-assisted CoP electron bridge effectively boosted electrical conductivity and yielded ultrafast electron transfer rates. The theoretical and experimental results demonstrate that the surface OVs play a critical role in improving the electrical conductivity of the CoP electron bridge, thereby accelerating electron mobility. This research provides insights into interfacial OVs-modified transition metal phosphide (TMP) electron bridges and their potential application in heterojunctions for energy crisis mitigation and environmental remediation.</description>
+      <author>Haoyu Sun, Xuemei Jia, Jing Cao, Shifu Chen, Yong Chen, Haili Lin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.149</guid>
+    </item>
+    <item>
+      <title>Self-supported copper-based gas diffusion electrodes improve the local CO2 concentration for efficient electrochemical CO2 reduction</title>
+      <link>https://doi.org/10.1007/s11705-024-2392-6</link>
+      <description>Azeem Mustafa, Bachirou Guene Lougou, Yong Shuai, Zhijiang Wang, Haseeb-ur-Rehman, Samia Razzaq, Wei Wang, Ruming Pan, Jiupeng Zhao, Frontiers of Chemical Science and Engineering. 18(3)] 2024. https://openalex.org/W4391439692
+
+                No abstract</description>
+      <author>Azeem Mustafa, Bachirou Guene Lougou, Yong Shuai, Zhijiang Wang, Haseeb-ur-Rehman, Samia Razzaq, Wei Wang, Ruming Pan, Jiupeng Zhao</author>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11705-024-2392-6</guid>
+    </item>
+    <item>
+      <title>Designing Surface and Interface Structures of Copper-Based Catalysts for Enhanced Electrochemical Reduction of CO2 to Alcohols</title>
+      <link>https://doi.org/10.3390/ma17030600</link>
+      <description>Yanbo Hua, Chiwei Zhu, Liming Zhang, Fan Dong, Materials. 17(3)] 2024. https://openalex.org/W4391253799
+
+                Electrochemical CO2 reduction (ECR) has emerged as a promising solution to address both the greenhouse effect caused by CO2 emissions and the energy shortage resulting from the depletion of nonrenewable fossil fuels. The production of multicarbon (C2+) products via ECR, especially high-energy-density alcohols, is highly desirable for industrial applications. Copper (Cu) is the only metal that produces alcohols with appreciable efficiency and kinetic viability in aqueous solutions. However, poor product selectivity is the main technical problem for applying the ECR technology in alcohol production. Extensive research has resulted in the rational design of electrocatalyst architectures using various strategies. This design significantly affects the adsorption energetics of intermediates and the reaction pathways for alcohol production. In this review, we focus on the design of effective catalysts for ECR to alcohols, discussing fundamental principles, innovative strategies, and mechanism understanding. Furthermore, the challenges and prospects in utilizing Cu-based materials for alcohol production via ECR are discussed.</description>
+      <author>Yanbo Hua, Chiwei Zhu, Liming Zhang, Fan Dong</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ma17030600</guid>
+    </item>
+    <item>
+      <title>Unveiling the Activity and Mechanism Alterations by Pyrene Decoration on a Co(II) Macrocyclic Catalyst for CO2 Reduction</title>
+      <link>https://doi.org/10.1002/cssc.202301113</link>
+      <description>Weilu Zhang, Hai&#8208;Hua Huang, Zhi&#8208;Mei Luo, Fan Ma, Sergio Gonell, Zhuofeng Ke, Liang Tan, Jia&#8208;Wei Wang, ChemSusChem. None(None)] 2024. https://openalex.org/W4391359187
+
+                Mechanistic studies involving characterization of crucial intermediates are desirable for rational optimization of molecular catalysts toward CO2 reduction, while fundamental challenges are associated with such studies. Herein we present the systematic mechanistic investigations on a pyrene&#8208;appended CoII macrocyclic catalyst in comparison with its pyrene&#8208;free prototype. The comparative results also verify the reasons of the higher catalytic activity of the pyrene&#8208;tethered catalyst in noble&#8208;metal&#8208;free CO2 photoreduction with various photosensitizers, where a remarkable apparent quantum yield of 36&#177;3% at 425 nm can be obtained for selective CO production. Electrochemical and spectroelectrochemical studies in conjunction with DFT calculations between the two catalysts have characterized the key CO&#8208;bound intermediates and revealed their different CO&#8208;binding behavior, demonstrating that the pyrene group endows the corresponding CoII catalyst a lower catalytic potential, a higher stability, and a greater ease in CO release, all of which contribute to its better performance.</description>
+      <author>Weilu Zhang, Hai&#8208;Hua Huang, Zhi&#8208;Mei Luo, Fan Ma, Sergio Gonell, Zhuofeng Ke, Liang Tan, Jia&#8208;Wei Wang</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301113</guid>
+    </item>
+    <item>
+      <title>SmartPrioGIS - A Concept for Recording, Holding and Evaluating Data as a Contribution to CO2 Reduction for the Kassel University Campus</title>
+      <link>https://doi.org/10.18086/eurosun.2022.10.06</link>
+      <description>Swen Klau&#223;, Rolf L. Gross, Lukas Lohse, Anton Maas, No host. None(None)] 2022. https://openalex.org/W4391288199
+
+                No abstract</description>
+      <author>Swen Klau&#223;, Rolf L. Gross, Lukas Lohse, Anton Maas</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.18086/eurosun.2022.10.06</guid>
+    </item>
+    <item>
+      <title>Highly-exposed copper and ZIF-8 interface enables synthesis of hydrocarbons by electrocatalytic reduction of CO2</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.01.205</link>
+      <description>Bo Sun, Hao Hu, Hangchen Liu, Jun Guan, Kexing Song, Changrui Shi, Haoyan Cheng, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4391515357
+
+                Electrochemical reduction of CO2 (CO2RR) to fuels and chemicals is a promising route to close the anthropogenic carbon cycle for sustainable society. The Cu-based catalysts in producing high-value hydrocarbons feature unique superiorities, yet challenges remain in achieving high selectivity. In this work, Cu@ZIF-8 NWs with highly-exposed Cu nanowires (Cu NWs) and ZIF-8 interface are synthesized via a surfactant-assisted method. Impressively, Cu@ZIF-8 NWs exhibit excellent stability and a high Faradaic efficiency of 57.5% toward hydrocarbons (CH4 and C2H4) at a potential of -0.7 V versus reversible hydrogen electrode. Computational calculations combining with experiments reveal the formation of Cu and ZIF-8 interface optimizes the adsorption of reaction intermediates, particularly stabilizing the formation of *CHO, thereby enabling efficient preference for hydrocarbons. This work highlights the potential of constructing metals and MOFs heterogeneous interfaces to enhance catalytic properties and offers valuable insights for the design of highly efficient CO2RR catalysts.</description>
+      <author>Bo Sun, Hao Hu, Hangchen Liu, Jun Guan, Kexing Song, Changrui Shi, Haoyan Cheng</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.113858</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.205</guid>
     </item>
     <item>
-      <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
-      <link>https://doi.org/10.1039/d3ey00222e/v1/review3</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391057005
+      <title>Enhancing microbial CO2 electrocatalysis for multicarbon reduction in a wet amine&#8208;based catholyte</title>
+      <link>https://doi.org/10.1002/cssc.202301342</link>
+      <description>Hui Su Kim, Sang&#8208;Min Lee, Myounghoon Moon, Hyun June Jung, Jiye Lee, Young-Hwan Chu, Eun Jung Kim, Danbee Kim, Gwon Woo Park, Chang Hyun Ko, Soo-Youn Lee, ChemSusChem. None(None)] 2024. https://openalex.org/W4391358979
 
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v1/review3</guid>
+                Microbial CO2 electroreduction (mCO2ER) offers a promising approach for producing high&#8208;value multicarbon reductants from CO2 by combining CO2 fixing microorganisms with conducting materials (i.e., cathodes). However, the solubility and availability of CO2 in an aqueous electrolyte pose significant limitations in this system. This study demonstrates the efficient production of long&#8208;chain multicarbon reductants, specifically carotenoids (~C40), within a wet amine&#8208;based catholyte medium during mCO2ER. Optimizing the concentration of the biocompatible CO2 absorbent, monoethanolamine (MEA), led to enhanced CO2 fixation in the electroautotroph bacteria. Molecular biological analyses revealed that MEA in the catholyte medium redirected the carbon flux towards carotenoid biosynthesis during mCO2ER. The faradaic efficiency of mCO2ER with MEA for carotenoid production was 4.5&#8208;fold higher than that of the control condition. These results suggest the mass transport bottleneck in bioelectrochemical systems could be effectively addressed by MEA&#8208;assissted mCO2ER, enabling highly efficient production of valuable products from CO2.</description>
+      <author>Hui Su Kim, Sang&#8208;Min Lee, Myounghoon Moon, Hyun June Jung, Jiye Lee, Young-Hwan Chu, Eun Jung Kim, Danbee Kim, Gwon Woo Park, Chang Hyun Ko, Soo-Youn Lee</author>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301342</guid>
     </item>
     <item>
-      <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
-      <link>https://doi.org/10.1039/d3ey00222e/v1/review5</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391057105
+      <title>CoTCPP integrates with BiOBr microspheres for improved solar-driven CO2 reduction performance</title>
+      <link>https://doi.org/10.1016/j.gee.2024.01.008</link>
+      <description>Lina Li, Yi Zhang, Gaopeng Liu, Tiange Wei, Junze Zhao, Bin Wang, Mengxia Ji, Yuanbin She, Jiexiang Xia, Huaming Li, Green Energy &amp; Environment. None(None)] 2024. https://openalex.org/W4391482249
 
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v1/review5</guid>
+                CO2 photoreduction into carbon-based chemicals has been considered as an appropriate way to alleviate the energy issue and greenhouse effect. Herein, the 5, 10, 15, 20-tetra (4-carboxyphenyl) porphyrin cobalt(II) (CoTCPP) has been integrated with BiOBr microspheres and formed the CoTCPP/BiOBr composite. The as-prepared CoTCPP/BiOBr-2 shows optimized photocatalytic performance for CO2 conversion into CO and CH4 upon irradiation with 300 W Xe lamp, which is 2.03 and 2.58 times compared to that of BiOBr, respectively. The introduced CoTCPP significantly enhanced light absorption properties, promoted rapid separation of photogenerated carriers and boosted the chemisorption of CO2 molecules. The metal Co2+ at the center of the porphyrin molecules also acts as adsorption center for CO2 molecules, boosting the CO2 convert into CO and CH4. The possible mechanism of CO2 photoreduction was explored by in-situ FT-IR spectra. This work offers a new possibility for the preparation of advance photocatalysts.</description>
+      <author>Lina Li, Yi Zhang, Gaopeng Liu, Tiange Wei, Junze Zhao, Bin Wang, Mengxia Ji, Yuanbin She, Jiexiang Xia, Huaming Li</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.gee.2024.01.008</guid>
     </item>
     <item>
-      <title>Review for "Au-decorated Sb2Se3 photocathodes for solar-driven CO2 reduction"</title>
-      <link>https://doi.org/10.1039/d3ey00222e/v2/review1</link>
-      <description>, No host. None(None)] 2023. https://openalex.org/W4391057004
+      <title>Reduction of CO2 emissions in oil pipelines through conversion of hydraulic energy into electrical energy using an HPRT</title>
+      <link>https://doi.org/10.48072/2447-2069.rpc.2023.066</link>
+      <description>Jhon Ussa, Heidy Monroy, Ricardo Oicat, Walter Gastelbondo, No host. None(None)] 2023. https://openalex.org/W4391473709
 
                 No abstract</description>
-      <author/>
-      <pubDate>Thu, 14 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ey00222e/v2/review1</guid>
+      <author>Jhon Ussa, Heidy Monroy, Ricardo Oicat, Walter Gastelbondo</author>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48072/2447-2069.rpc.2023.066</guid>
+    </item>
+    <item>
+      <title>Modulating interfacial charges in CTF-based metal-insulator-semiconductor promotes selective CO2 reduction to CH4</title>
+      <link>https://doi.org/10.1016/j.cej.2024.149027</link>
+      <description>Qiaoshan Chen, Yueling Chen, Mingfei Yu, Bin Xu, Hongbin Wu, Liuyi Li, Jinhong Bi, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391344528
+
+                A metal&#8211;insulator-semiconductor (MIS) ternary photo-system was intricately crafted through precise amalgamation polyvinylpyrrolidone (PVP)-capped metal Cu with typical covalent triazine framework CTF-1 via electrostatic self-assembly. The 2 % Cu-PVP-CTF exhibited an impressive CH4 yield of 80.7 &#956;mol&#183;g&#8722;1&#183;h&#8722;1 with selectivity of 96.8 % under visible light, representing a 2.3-fold and 112-fold improvement over Schottky-type Cu-CTF and pristine CTF-1, respectively. In-situ XPS and VASP-diff calculations unfolded that the ultrathin PVP insulating layer significantly expedited interfacial charges tunneling, corroborated by smaller lifetime &#964;2 determined via femtosecond transient absorption spectroscopy. The intermediates of paramount importance in CO2 reduction like *COOH and *HCHO were meticulously monitored by in-situ Fourier infrared spectroscopy. DFT calculations elucidated that Cu-PVP-CTF was notably more adept at facillitating the rate-determining step (*COOH &#8594; *CO) to produce CH4 than Cu-CTF. This work tamps the groundwork for conceptional roadmap in designing novel MIS photo-system for CO2 conversion.</description>
+      <author>Qiaoshan Chen, Yueling Chen, Mingfei Yu, Bin Xu, Hongbin Wu, Liuyi Li, Jinhong Bi</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149027</guid>
+    </item>
+    <item>
+      <title>Enhanced reduction of CO2 to CH4 by novel mesoporous Ru-Fe3O4/CeOx-SiO2 catalyst in a fixed bed reactor</title>
+      <link>https://doi.org/10.22541/au.170669628.88839658/v1</link>
+      <description>Swarnil Roy, Dilip Kumar Mondal, No host. None(None)] 2024. https://openalex.org/W4391401348
+
+                A novel mesoporous Ru-Fe3O4/CeOx-SiO2 (Ce3+/Ce4+, x=1.64) catalyst was synthesized via excess solution impregnation of Ru and Fe3O4 nanoparticles (NPs) on ceria-loaded mesoporous SBA-15. The reduction of CO2 to methane was performed in the presence of H2 over the catalyst in a fixed bed reactor. CO2 reduction was found to be 82% at 0.25 wt% ruthenium loading, 2.5 wt% iron loading, 573 K temperature, 20 bar pressure, 3000 mL.g.-1. h-1 gas hour space velocity and H2 to CO2 mole ratio of 5:1. The close contact between ruthenium and Fe3O4 nanoparticles facilitated the reduction of CO2 through hydrogen spill-over effect and ceria NPs acted as a promoter for reduction reaction. The catalysts were characterized thoroughly using CO chemisorption, BET, TPR, TPD, XRD, SEM, HR TEM, ICP-AES and XPS techniques. Optimal process conditions could render much higher CO2 conversion efficacy for selective methane synthesis in comparison with previous scientific investigations.</description>
+      <author>Swarnil Roy, Dilip Kumar Mondal</author>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22541/au.170669628.88839658/v1</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic CO2 reduction enhanced by Sb doping in MOF-derived carbon-supported Bi-based materials</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.126520</link>
+      <description>Shuangchen Ma, Kai Wu, Shuaijun Fan, Ying Liu, Chen Ju, Jing Ma, Lijuan Yang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391470101
+
+                Amidst the myriad catalysts employed in the electrochemical reduction of CO2, bimetallic materials stand out for their augmented catalytic activity and product selectivity. Bismuth (Bi), recognized for its marked selectivity towards formic acid along with attributes of low toxicity, cost-effectiveness, and widespread accessibility, emerges as a highly promising candidate with extensive research underway. Nonetheless, the catalytic attributes of Sb/Bi bimetallic composite materials incorporating antimony (Sb) elements have received limited attention. This study presents a successful synthesis of carbon-supported Sb/Bi bimetallic composite materials via the MOF templating approach, followed by a comprehensive exploration of their electrocatalytic properties for CO2 reduction. The investigation underscores the predominant integration of Sb elements in alloy configuration within the catalytic matrix. Trace Sb doping (&#8804;3.1 %) emerges as a means to effectively suppress the formation of *H species while concurrently promoting *OCHO species, leading to a substantial elevation in the formate selectivity of Bi-based materials. In contrast, excessive Sb doping, by exacerbating *H formation, inadvertently intensifies the HER process, thereby unfavorably influencing formate generation. Promisingly, in comparison to Bi@C materials, Sb/Bi@C materials doped with minute quantities of Sb showcase enhanced electrode stability and an extended catalytic lifespan within the context of electrochemical operating conditions, which can be attributed to the fact that the introduction of Sb can significantly strengthen the spherical physical structure of carbon-borne nanomaterials on the surface of Bi@C materials. Through an amalgamation of empirical characterization and DFT calculations, this inquiry elucidates the pivotal role assumed by Sb incorporation in Bi materials, consequently advancing the realm of CO2RR. The research emphasizes a strategy of phase and structure engineering, which can provide valuable insights for the development of high-performance electrocatalysts not only in CO2RR but also in other fields.</description>
+      <author>Shuangchen Ma, Kai Wu, Shuaijun Fan, Ying Liu, Chen Ju, Jing Ma, Lijuan Yang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126520</guid>
+    </item>
+    <item>
+      <title>CO2 reduction and the production of high-value biomaterials using waste medium by Rhodobacter sphaeroides</title>
+      <link>https://doi.org/10.22541/au.170668064.45726075/v1</link>
+      <description>Juyong Park, Jaeyoung Yu, Ngoc Nguyen, Yang&#8208;Hoon Kim, Jiho Min, No host. None(None)] 2024. https://openalex.org/W4391392848
+
+                The purple non-sulfur photosynthetic bacteria, Rhodobacter sphaeroides, are capable of growing under a variety of environmental conditions. R. sphaeroides wastewater treatment has received considerable attention, since it can simultaneously realize wastewater purification and biomass recycling. In addition, poly-&#946;-Hydroxybutyrate (PHB), a biopolymer that can be used as a biodegradable thermoplastic material for waste management strategies, and other polyhydroxyalkanoates (PHAs) are accumulated by many bacteria as energy and carbon reserve material. In this study, the used culture media of Escherichia coli and Saccharomyces cerevisiae were reutilized to grow R. sphaeroides to produce PHB and reduce carbon dioxide. Moreover when using used media, photopigments, such as bacteriochlorophyll and carotenoid, was also synthesized. Finally, the co-fermentation of R. sphaeroides and S. cerevisiae showed the potential of enhancing ethanol production with higher yield than the single use of S. cerevisiae. Therefore, this approach provides a low-cost and eco-friendly process that uses waste media to fix carbon dioxide, and produce high-value biomaterials.</description>
+      <author>Juyong Park, Jaeyoung Yu, Ngoc Nguyen, Yang&#8208;Hoon Kim, Jiho Min</author>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22541/au.170668064.45726075/v1</guid>
+    </item>
+    <item>
+      <title>Harnessing deep transient testing for reservoir characterization and CO2 emission reduction in challenging geological settings</title>
+      <link>https://doi.org/10.1016/j.ptlrs.2024.01.014</link>
+      <description>Eghbal Motaei, Tarek Al-Arbi Omar Ganat, Khairul Azhar, Hamoud Al-Hadrami, Petroleum Research. None(None)] 2024. https://openalex.org/W4391383558
+
+                No abstract</description>
+      <author>Eghbal Motaei, Tarek Al-Arbi Omar Ganat, Khairul Azhar, Hamoud Al-Hadrami</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ptlrs.2024.01.014</guid>
+    </item>
+    <item>
+      <title>Boosting CO2 piezo-reduction via metal-support interactions in Au/ZnO based catalysts</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.01.169</link>
+      <description>Rundong Zhou, Di Wu, Jing Ma, Lujie Ruan, Yajie Feng, Chaogang Ban, Kai Zhou, Shuangyang Cai, Li&#8208;Yong Gan, Xiaoyuan Zhou, Journal of Colloid and Interface Science. 661(None)] 2024. https://openalex.org/W4391467379
+
+                No abstract</description>
+      <author>Rundong Zhou, Di Wu, Jing Ma, Lujie Ruan, Yajie Feng, Chaogang Ban, Kai Zhou, Shuangyang Cai, Li&#8208;Yong Gan, Xiaoyuan Zhou</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.169</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 04 Feb 2024 14:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Feb 2024 23:59:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Assessing the importance of nitric acid and ammonia for particle growth in the polluted boundary layer</title>
-      <link>https://doi.org/10.1039/d3ea00001j</link>
-      <description>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, A. Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad, No host. None(None)] 2024. https://openalex.org/W4391225134
-
-                Inhomogeneities in temperature and ammonia concentrations can cause rapid growth of nanoparticles in polluted environments.</description>
-      <author>Ruby Marten, Mao Xiao, Mingyi Wang, Weimeng Kong, Xu&#8208;Cheng He, Dominik Stolzenburg, Joschka Pfeifer, Guillaume Marie, Dongyu Wang, Miriam Elser, Andrea Baccarini, Chuan Ping Lee, A. Amorim, Rima Baalbaki, David M. Bell, Barbara Bertozzi, Luc&#237;a Caudillo, Lubna Dada, Jonathan Duplissy, Henning Finkenzeller, Martin Heinritzi, Markus Lampim&#228;ki, Katrianne Lehtipalo, Hanna E. Manninen, Bernhard Mentler, A. Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Stefan K. Weber, Marcel Zauner-Wieczorek, Joachim Curtius, Markku Kulmala, Rainer Volkamer, Douglas R. Worsnop, Josef Dommen, Richard C. Flagan, J. Kirkby, Neil M. Donahue, Houssni Lamkaddam, Urs Baltensperger, Imad El Haddad</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ea00001j</guid>
-    </item>
     <item>
       <title>Optimal retrofitting of conventional oil refinery into sustainable bio&#8208;refinery under uncertainty</title>
       <link>https://doi.org/10.1002/aic.18371</link>
@@ -46,16 +36,6 @@
       <author>Rose Doerfler, Saigopalakrishna S. Yerneni, Alexandra N. Newby, Namit Chaudhary, Ashley Shu, Katherine C. Fein, Juliana H. Azambuja, Kathryn A. Whitehead</author>
       <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0297821</guid>
-    </item>
-    <item>
-      <title>Routing and scheduling of platform supply vessels in offshore oil and gas logistics</title>
-      <link>https://doi.org/10.1016/j.cor.2024.106556</link>
-      <description>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris, Computers &amp; Operations Research. None(None)] 2024. https://openalex.org/W4391147858
-
-                In this work, we focus on an operational logistics problem that arises in the offshore oil and gas exploration and production industry. In particular, we aim to design cost-effective routes and schedules for platform supply vessels, which are routinely employed to deliver necessary supplies to the platforms as well as to collect from those platforms used materials that need to be transported back to the onshore base for maintenance, reuse, or discarding. To address the rich-featured routing problem that arises in this offshore logistics application, we introduce a novel mixed-integer linear programming formulation and propose a specialized branch-and-cut algorithm to solve such a model. Furthermore, in order to evaluate our proposed algorithm&#8217;s performance, we conduct an extensive computational study using representative benchmark instances inspired by real operational data. The computational results show that our algorithm solved the majority of those instances to optimality, demonstrating its potential for practical use in offshore oil and gas logistics operations.</description>
-      <author>Victor A. Silva, Akang Wang, Virg&#237;lio Jos&#233; Martins Ferreira Filho, Chrysanthos E. Gounaris</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cor.2024.106556</guid>
     </item>
     <item>
       <title>Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow</title>
