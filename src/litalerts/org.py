@@ -34,6 +34,7 @@ def get_org_item(topic, result):
 :PROPERTIES:
 :ID: {result['id']}
 :TOPICS: {topics}
+:PUBLICATION_DATE: {result.get('publication_date', None)}
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "{result['doi']}")][Get bibtex entry]] 
