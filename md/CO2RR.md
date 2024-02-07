@@ -1,44 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb  4 23:59:50 2024
+Created on Wed Feb  7 00:42:05 2024
 
-Found 27 results from 2024-01-27 to 2024-02-04
+Found 26 results from 2024-01-31 to 2024-02-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Cadmium sulfide nanoparticles compositing with chitosan and metal-organic framework: Enhanced photostability and increased carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4391276659    
-Open access: False
-    
-[Ying Zhang](https://openalex.org/A5042973046), [Hao Liang](https://openalex.org/A5009620553), Advanced Composites and Hybrid Materials. 7(1)] 2024.https://doi.org/10.1007/s42114-024-00837-2.
-    
-No abstract    
-
-    
-
-## Free‐standing Stanene for High Selectivity of Formate in Electrocatalytic Carbon Dioxide Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4391280930    
-Open access: False
-    
-[Xuanhao Mei](https://openalex.org/A5072252699), [Cong Liu](https://openalex.org/A5081573284), [Dezheng Zhang](https://openalex.org/A5024869142), [Jing Cao](https://openalex.org/A5030817316), [Rile Ge](https://openalex.org/A5040745256), [Junhu Wang](https://openalex.org/A5055663516), [Weilin Xu](https://openalex.org/A5057597603), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202303889.
-    
-Abstract As well‐known electrocatalysts with good catalytic efficiency for carbon dioxide reduction reaction (CO 2 RR) towards the production of formate, tin (Sn)‐based catalysts have aroused broad concern. Here, free‐standing porous stanene is synthesized for the first time by a facile wet chemical method, and its excellent electrocatalytic performance for formate (HCOO − ) formation in CO 2 RR is demonstrated. High Faradaic efficiency (F.E., 93% at −930 mV versus reversible hydrogen electrode (RHE)) can be achieved in the CO 2 RR catalyzed by stanene in 0.5 m KHCO 3 aqueous solution. The in situ Mössbauer spectra reveal that zero‐valent Sn aids in improving the selectivity of formate production. Furthermore, density functional theory calculations suggest that the high selectivity of HCOO − of CO 2 RR on stanene mainly originates from the edge sites on Sn (100). To further explore the practicability of the stanene‐based catalysts for CO 2 RR, stanene decorated by 3 wt% BP‐2000 is prepared, showing an excellent F.E. of 98% at −930 mV versus RHE due to the higher exposure of catalytic active sites. These new findings of the activity origination and reaction mechanism of stanene contribute to the deeper understanding of Sn‐based catalysts for CO 2 RR, which is beneficial for the future designation of highly efficient CO 2 RR catalysts.    
-
-    
-
-## Surface gallium oxide hydroxide species adsorbing carbon dioxide to enhance the photocatalytic activity of a silver-loaded calcium titanate for carbon dioxide reduction with water   
-
-OpenAlex: https://openalex.org/W4391319608    
-Open access: True
-    
-[Hongxuan Qiu](https://openalex.org/A5080636617), [Akira Yamamoto](https://openalex.org/A5021171836), [Hisao Yoshida](https://openalex.org/A5057290198), No host. None(None)] 2024.https://doi.org/10.1039/d3se01390a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/se/d3se01390a)).
-    
-Photocatalytic conversion of carbon dioxide (CO 2 ) has attracted considerable attention as a new method to build a carbon cycle. Particularly, photocatalytic reduction of CO 2 using water as an electron and...    
-
-    
 
 ## Effective reduction on flame soot via plasma coupled with carbon dioxide   
 
@@ -73,12 +40,23 @@ The electrochemical CO2 reduction reaction carries tremendous significance to ta
 
     
 
-## Solvation of oxygen, carbon dioxide, carbon monoxide and nitrous oxide in fluorinated liquids   
+## Modulation of active center distance of hybrid perovskite for boosting photocatalytic reduction of carbon dioxide to ethylene   
 
-OpenAlex: https://openalex.org/W4391327398    
+OpenAlex: https://openalex.org/W4391527790    
 Open access: False
     
-[Margarida F Costa Gomes](https://openalex.org/A5084109499), [A.A.H. Padua J. Deschamps D.-H. Menz](https://openalex.org/A5014671418), No host. None(None)] 2005.None.
+[Linjuan Li](https://openalex.org/A5060340851), [Dong Xu](https://openalex.org/A5018013187), [Xiankui Xu](https://openalex.org/A5042815155), [Zheng Tian](https://openalex.org/A5085521958), [Xue Zhou](https://openalex.org/A5069616452), [Shenbo Yang](https://openalex.org/A5077769841), [Zhonghai Zhang](https://openalex.org/A5011328145), Proceedings of the National Academy of Sciences of the United States of America. 121(7)] 2024.https://doi.org/10.1073/pnas.2318970121.
+    
+Solar-driven photocatalytic CO 2 reduction is an energy-efficient and sustainable strategy to mitigate CO 2 levels in the atmosphere. However, efficient and selective conversion of CO 2 into multi-carbon products, like C 2 H 4 , remains a great challenge due to slow multi-electron-proton transfer and sluggish C–C coupling. Herein, a two-dimensional thin-layered hybrid perovskite is fabricated through filling of oxygen into iodine vacancy in pristine DMASnI 3 (DMA = dimethylammonium). The rational-designed DMASnI 3 (O) induces shrinkage of active sites distance and facilitates dimerization of C–C coupling of intermediates. Upon simulated solar irradiation, the DMASnI 3 (O) photocatalyst achieves a high selectivity of 74.5%, corresponding to an impressive electron selectivity of 94.6%, for CO 2 to C 2 H 4 conversion and an effective C 2 H 4 yield of 11.2 μmol g −1 h −1 . In addition, the DMASnI 3 (O) inherits excellent water stability and implements long-term photocatalytic CO 2 reduction to C 2 H 4 in a water medium. This work establishes a unique paradigm to convert CO 2 to C 2+ hydrocarbons in a perovskite-based photocatalytic system.    
+
+    
+
+## Applications of X-ray Spectroscopy in Carbon Dioxide Reduction   
+
+OpenAlex: https://openalex.org/W4391537296    
+Open access: False
+    
+[Indrajit Shown](https://openalex.org/A5055601807), [Wei-Fu Chen](https://openalex.org/A5064071602), [Kuei‐Hsien Chen](https://openalex.org/A5059407034), [Li‐Chyong Chen](https://openalex.org/A5061993606), World scientific series in nanoscience and nanotechnology. None(None)] 2024.https://doi.org/10.1142/9789811284649_0005.
     
 No abstract    
 
@@ -128,6 +106,17 @@ Fast industrialization and urban growth emit significant amounts of hazardous CO
 
     
 
+## Efficient reduction of CO2 to CO by CdAl-LDHs nanostructured electrocatalysts in ionic liquids   
+
+OpenAlex: https://openalex.org/W4391543242    
+Open access: False
+    
+[Fang Tan](https://openalex.org/A5029837106), [Tianxia Liu](https://openalex.org/A5031213658), [Jian Ping Zhang](https://openalex.org/A5088260235), Journal of Photochemistry and Photobiology A: Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jphotochem.2024.115518.
+    
+Layered bimetallic hydroxides are at the forefront of current research in electrocatalytic materials. Although there is considerable research on various bimetallic hydroxides, the study of bimetallic hydroxides for electrocatalytic reduction of carbon dioxide is limited. In this paper, cadmium-aluminum layered bimetallic hydroxide nanoparticles (CdAl-LDHs) were prepared using a simple electrochemical deposition method. The prepared CdAl-LDHs was characterized in detail, and its potential application as an electrocatalyst was discussed. CdAl-LDHs prepared using different methods showed different selectivity in the electrocatalytic reduction of CO2 to CO. The nanomaterial exhibits excellent CO selectivity in a reaction chamber using 2 %-BMIM(PF6)(1-butyl-3-methylimidazolium hexafluorophosphate)/DMF(N-N dimethyl formamide) as the electrolyte. The CdAl-LDHs prepared by electrochemical deposition exhibited a maximum CO partial current density of 22.13 mA cm−2 with a remarkable CO Faraday efficiency (FE) of 99.71 %, which is comparable to or even higher than that of noble metal catalysts. This high selectivity for CO indicates its potential as an alternative to expensive noble metal catalysts. Moreover, the catalyst demonstrated high stability over 30 h of continuous operation with stable FE of around 99 % and a current density of around 10.5 mA cm−2, with minimal degradation during the entire reaction cycle. In addition, the catalyst showed a low HER current density of less than 0.1 mA cm−2 at all tested potentials, indicating that the catalyst maintains a high level of CO2 conversion over the entire range of tested potentials. This suggests its great potential for industrial applications.    
+
+    
+
 ## Haeckelite mediated reduction of CO2 by molecular hydrogen. A DFT study   
 
 OpenAlex: https://openalex.org/W4391487109    
@@ -139,14 +128,36 @@ In this study, we conducted a theoretical exploration of haeckelite-mediated CO2
 
     
 
-## Oxygen vacancies synergistic cobalt phosphide electron bridge modulated bismuth oxychloride/carbon nitride Z-scheme junction for efficient carbon dioxide reduction coupled with tetracycline oxidation   
+## Boosting photochemical reduction of CO2 to formic acid catalyzed by porphyrinic MOF-545   
 
-OpenAlex: https://openalex.org/W4391264958    
+OpenAlex: https://openalex.org/W4391554925    
 Open access: False
     
-[Haoyu Sun](https://openalex.org/A5040035723), [Xuemei Jia](https://openalex.org/A5003221894), [Jing Cao](https://openalex.org/A5066617829), [Shifu Chen](https://openalex.org/A5002901852), [Yong Chen](https://openalex.org/A5085462851), [Haili Lin](https://openalex.org/A5090567072), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.01.149.
+[Youven Benseghir](https://openalex.org/A5025771580), [Albert Solé‐Daura](https://openalex.org/A5086372340), [Mathis Duguet](https://openalex.org/A5085164470), [Pierre Mialane](https://openalex.org/A5039753949), [María Gómez-Mingot](https://openalex.org/A5024792637), [Marc Fontecave](https://openalex.org/A5062221634), [Anne Dolbecq](https://openalex.org/A5064073246), [Caroline Mellot‐Draznieks](https://openalex.org/A5032549164), No host. None(None)] 2021.None.
     
-Although great progress has been made with respect to electron bridges, the electron mobility of the state-of-the-art electron bridges is far from satisfactory because of weak electrical conductivity. To overcome the above issue, cobalt phosphide (CoP), as a model electron bridge, was modified with superficial oxygen vacancies (OVs) and embedded into a defective bismuth oxychloride/carbon nitride (BiO1-xCl/g-C3N4) Z-scheme heterojunction to obtain atomic-level insights into the effect of surface OVs on CoP electron bridges. Compared to BiO1-xCl/g-C3N4 and bismuth oxychloride/cobalt phosphide/carbon nitride (BiOCl/CoP/g-C3N4) composites, the defective bismuth oxychloride/cobalt phosphide/carbon nitride (BiO1-xCl/CoP/g-C3N4) heterojunction exhibited remarkable photocatalytic redox performance, indicating that the surface OVs-assisted CoP electron bridge effectively boosted electrical conductivity and yielded ultrafast electron transfer rates. The theoretical and experimental results demonstrate that the surface OVs play a critical role in improving the electrical conductivity of the CoP electron bridge, thereby accelerating electron mobility. This research provides insights into interfacial OVs-modified transition metal phosphide (TMP) electron bridges and their potential application in heterojunctions for energy crisis mitigation and environmental remediation.    
+No abstract    
+
+    
+
+## A Bio‐Inspired Bimetallic Fe‐M Catalyst for Electro‐ and Photochemical CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4391537560    
+Open access: False
+    
+[Yuhang Yao](https://openalex.org/A5071052075), [Jiahui Wu](https://openalex.org/A5065282041), [Guiyu Liu](https://openalex.org/A5055399722), [Ruijing Zhang](https://openalex.org/A5041022925), [Zi‐Shu Yang](https://openalex.org/A5085810240), [Song Gao](https://openalex.org/A5039657597), [Tai‐Chu Lau](https://openalex.org/A5071430741), [Junlong Zhang](https://openalex.org/A5083162509), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301705.
+    
+The conversion of CO2 into fuels or commodity chemicals by electrochemical or photochemical reduction is a promising strategy to relieve the ongoing energy crisis and increasing environmental pollution. Inspired by naturally occurring bimetalloenzymes, we have designed hetero‐bimetallic CO2 reduction catalysts (FeM) that involve linking an iron tetraphenylporphyrin (FeP) with a tripyridylamine (TPA) moiety, which provides a distal chelating site for Cu2+ or Zn2+. We found that the introduction of Cu2+ or Zn2+ to FeP greatly enhances its efficiency as a catalyst for the electrochemical reduction of CO2. To gain insights into the observed synergistic effect, we performed mechanistic studies together with density functional theory (DFT) calculations. Our results show that Cu2+ or Zn2+ activates CO2 towards reduction due to its Lewis acidity; it also functions as an oxo acceptor from CO2. FeM also functions as an efficient catalyst for the visible‐light‐driven reduction of CO2 using either [Ru(bpy)3]Cl2 or fac‐Ir(ppy)3 (where bpy = 2,2’‐bipyridine, ppy = 2‐phenylpyridine) as photosensitizer and 1,3‐dimethyl‐2‐phenyl‐2,3‐dihydro‐1H‐benzo[d]imidazole (BIH) as sacrificial reductant. Again, the catalytic efficiency is enhanced by the presence Cu2+ or Zn2+. Our results provide a general strategy for the design of a series of hetero‐bimetallic catalysts for the reduction of CO2.    
+
+    
+
+## Coupled Electrochemical Reduction of CO2 and H+ in the Presence of Substituted 2,2'-Bipyridinium Salts   
+
+OpenAlex: https://openalex.org/W4391550662    
+Open access: False
+    
+[E. V. Okina](https://openalex.org/A5048834107), [L. A. Klimaeva](https://openalex.org/A5083682754), [Д. Б. Чугунов](https://openalex.org/A5075408705), [S. G. Kostryukov](https://openalex.org/A5049624623), [A. S. Kozlov](https://openalex.org/A5087234431), [O. V. Tarasova](https://openalex.org/A5067767641), [A. D. Yudina](https://openalex.org/A5023314423), Russian Journal of Organic Chemistry. 59(11)] 2023.https://doi.org/10.1134/s107042802311009x.
+    
+No abstract    
 
     
 
@@ -161,17 +172,6 @@ No abstract
 
     
 
-## Designing Surface and Interface Structures of Copper-Based Catalysts for Enhanced Electrochemical Reduction of CO2 to Alcohols   
-
-OpenAlex: https://openalex.org/W4391253799    
-Open access: True
-    
-[Yanbo Hua](https://openalex.org/A5045189148), [Chiwei Zhu](https://openalex.org/A5021929123), [Liming Zhang](https://openalex.org/A5023271899), [Fan Dong](https://openalex.org/A5065938824), Materials. 17(3)] 2024.https://doi.org/10.3390/ma17030600 ([pdf](https://www.mdpi.com/1996-1944/17/3/600/pdf?version=1706259926)).
-    
-Electrochemical CO2 reduction (ECR) has emerged as a promising solution to address both the greenhouse effect caused by CO2 emissions and the energy shortage resulting from the depletion of nonrenewable fossil fuels. The production of multicarbon (C2+) products via ECR, especially high-energy-density alcohols, is highly desirable for industrial applications. Copper (Cu) is the only metal that produces alcohols with appreciable efficiency and kinetic viability in aqueous solutions. However, poor product selectivity is the main technical problem for applying the ECR technology in alcohol production. Extensive research has resulted in the rational design of electrocatalyst architectures using various strategies. This design significantly affects the adsorption energetics of intermediates and the reaction pathways for alcohol production. In this review, we focus on the design of effective catalysts for ECR to alcohols, discussing fundamental principles, innovative strategies, and mechanism understanding. Furthermore, the challenges and prospects in utilizing Cu-based materials for alcohol production via ECR are discussed.    
-
-    
-
 ## Unveiling the Activity and Mechanism Alterations by Pyrene Decoration on a Co(II) Macrocyclic Catalyst for CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4391359187    
@@ -183,14 +183,14 @@ Mechanistic studies involving characterization of crucial intermediates are desi
 
     
 
-## SmartPrioGIS - A Concept for Recording, Holding and Evaluating Data as a Contribution to CO2 Reduction for the Kassel University Campus   
+## Highly selective electrocatalytic reduction of CO2 to HCOOH over an in-situ derived Ag-loaded Bi2O2CO3 electrocatalyst   
 
-OpenAlex: https://openalex.org/W4391288199    
-Open access: False
+OpenAlex: https://openalex.org/W4391546693    
+Open access: True
     
-[Swen Klauß](https://openalex.org/A5093805077), [Rolf L. Gross](https://openalex.org/A5072352710), [Lukas Lohse](https://openalex.org/A5093805078), [Anton Maas](https://openalex.org/A5021183874), No host. None(None)] 2022.https://doi.org/10.18086/eurosun.2022.10.06.
+[Wei Zheng](https://openalex.org/A5091351871), [Changlai Wang](https://openalex.org/A5084793778), [Jing Chen](https://openalex.org/A5048379858), [Chen Shi](https://openalex.org/A5005901099), [Zhiyu Lin](https://openalex.org/A5069028297), [Minxue Huang](https://openalex.org/A5022809443), [Hao Huang](https://openalex.org/A5079879393), [Yafei Qu](https://openalex.org/A5042856845), [Peichen Wang](https://openalex.org/A5008620166), [Haibo Lin](https://openalex.org/A5077163216), [Qianwang Chen](https://openalex.org/A5014087781), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d3dt04342h ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/dt/d3dt04342h)).
     
-No abstract    
+The electrochemical reduction of CO2 to HCOOH is considered as one of the most appealing routes to alleviate the energy crisis and close the anthropogenic CO2 cycle. However, it remains...    
 
     
 
@@ -282,24 +282,13 @@ The purple non-sulfur photosynthetic bacteria, Rhodobacter sphaeroides, are capa
 
     
 
-## Harnessing deep transient testing for reservoir characterization and CO2 emission reduction in challenging geological settings   
+## Defect and Nanostructure Engineering of Polymeric Carbon Nitride for Visible-Light-Driven CO2 Reduction   
 
-OpenAlex: https://openalex.org/W4391383558    
-Open access: True
-    
-[Eghbal Motaei](https://openalex.org/A5088653693), [Tarek Al-Arbi Omar Ganat](https://openalex.org/A5054946215), [Khairul Azhar](https://openalex.org/A5093828346), [Hamoud Al-Hadrami](https://openalex.org/A5067559759), Petroleum Research. None(None)] 2024.https://doi.org/10.1016/j.ptlrs.2024.01.014.
-    
-No abstract    
-
-    
-
-## Boosting CO2 piezo-reduction via metal-support interactions in Au/ZnO based catalysts   
-
-OpenAlex: https://openalex.org/W4391467379    
+OpenAlex: https://openalex.org/W4391537483    
 Open access: False
     
-[Rundong Zhou](https://openalex.org/A5074296321), [Di Wu](https://openalex.org/A5076319676), [Jing Ma](https://openalex.org/A5090283553), [Lujie Ruan](https://openalex.org/A5036816822), [Yajie Feng](https://openalex.org/A5030577415), [Chaogang Ban](https://openalex.org/A5008307722), [Kai Zhou](https://openalex.org/A5068573258), [Shuangyang Cai](https://openalex.org/A5010999672), [Li‐Yong Gan](https://openalex.org/A5006186991), [Xiaoyuan Zhou](https://openalex.org/A5008717200), Journal of Colloid and Interface Science. 661(None)] 2024.https://doi.org/10.1016/j.jcis.2024.01.169.
+[Ziruo Zhou](https://openalex.org/A5014381445), [Wei Guo](https://openalex.org/A5061195656), [Tingyu Yang](https://openalex.org/A5012152145), [Dandan Zheng](https://openalex.org/A5051769353), [Yuanxing Fang](https://openalex.org/A5027738164), [Xiahui Lin](https://openalex.org/A5049356478), [Yidong Hou](https://openalex.org/A5061785514), [Guigang Zhang](https://openalex.org/A5043430188), [Sibo Wang](https://openalex.org/A5080757684), Chinese Journal of Structural Chemistry. None(None)] 2024.https://doi.org/10.1016/j.cjsc.2024.100245.
     
-No abstract    
+Sunlight-induced photocatalytic carbon dioxide (CO2) reduction to energy-rich chemicals by metal-free polymeric carbon nitride (CN) semiconductor is a promising tactic for sustained solar fuel production. However, the reaction efficiency of CO2 photoreduction is restrained seriously by the rapid recombination of photogenerated carriers on CN polymer. Herein, we incorporate the 2-aminopyridine molecule with strong electron-withdrawing group into the skeleton edge of CN layers through a facile one-pot thermal polymerization strategy using urea as the precursor, which renders the modified carbon nitride (ACN) with extended optical harvesting, abundant nitrogen defects and ultrathin nanosheet structure. Consequently, the ACN photocatalyst with desirable structural features attains enhanced separation and migration of photoexcited charge carriers. Under visible light irradiation with Co(bpy)32+ as a cocatalyst, the optimized ACN sample manifests a high CO2 deoxygnative reduction activity and high stability, providing a CO yielding rate of 17 μmol·h-1, which is significantly higher than that of pristine CN. The key intermediates engaged in CO2 photoreduction reaction are determined by the in situ diffuse reflectance infrared Fourier transform spectroscopy, which sponsors the construction of the possible photocatalytic CO2 reduction mechanism on the ACN nanosheets.    
 
     

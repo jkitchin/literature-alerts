@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Feb  4 23:59:52 2024
+Created on Wed Feb  7 00:42:07 2024
 
-Found 5 results from 2024-01-27 to 2024-02-04
+Found 4 results from 2024-01-31 to 2024-02-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Optimal retrofitting of conventional oil refinery into sustainable bio‐refinery under uncertainty   
-
-OpenAlex: https://openalex.org/W4391308369    
-Open access: False
-    
-[L. Zhang](https://openalex.org/A5081847658), [Ana I. Torres](https://openalex.org/A5027983186), [Bingzhen Chen](https://openalex.org/A5032499618), [Zhihong Yuan](https://openalex.org/A5082928023), [Ignacio E. Grossmann](https://openalex.org/A5056017028), AIChE Journal. None(None)] 2024.https://doi.org/10.1002/aic.18371.
-    
-Abstract This article focuses on a novel optimization problem to retrofit a conventional fossil‐based refinery into a hybrid biomass‐based refinery. A mixed‐integer linear programming model, which considers a 10‐year‐long retrofit planning along with operational constraints in each year, is formulated. The problem is extended to a multistage stochastic programming model to handle both endogenous and exogenous uncertainties, and solved through a series of two‐stage stochastic programming subproblems. Furthermore, a Lagrangean decomposition algorithm is implemented to solve such a problem. By determining whether to add new units or retrofit existing units to the selected biomass‐based technologies, the results provide flexible design alternatives with consideration of operational constraints for each year. The results show the advantages of the selected biomass‐based technologies and enhance the performance of the final solution under uncertainty.    
-
-    
 
 ## Circumventing Data Imbalance in Magnetic Ground State Data for Magnetic Moment Predictions   
 
@@ -50,13 +39,13 @@ This manuscript presents a complete framework for the development and verificati
 
     
 
-## Does Kaizen Programming need a physic-informed mechanism to improve the search?   
+## A mixed integer linear programming approach for the design of chemical process families   
 
-OpenAlex: https://openalex.org/W4391249853    
+OpenAlex: https://openalex.org/W4391543039    
 Open access: False
     
-[Jimena Ferreira](https://openalex.org/A5073891151), [Ana I. Torres](https://openalex.org/A5027983186), [Martín Pedemonte](https://openalex.org/A5091770128), No host. None(None)] 2023.https://doi.org/10.1109/la-cci58595.2023.10409360.
+[Georgia Stinchfield](https://openalex.org/A5007541692), [Josh Morgan](https://openalex.org/A5086695747), [Sakshi Naik](https://openalex.org/A5054628015), [Lorenz T. Biegler](https://openalex.org/A5052825722), [John Eslick](https://openalex.org/A5054865843), [C.A. Jacobson](https://openalex.org/A5045412845), [David C. Miller](https://openalex.org/A5061592458), [John Daniel Siirola](https://openalex.org/A5047681120), [Miguel Zamarripa](https://openalex.org/A5015881602), [Chen Zhang](https://openalex.org/A5034855502), [Qi Zhang](https://openalex.org/A5026984704), [Carl D. Laird](https://openalex.org/A5030631754), Computers & Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108620.
     
-In recent years, the study of physics-informed machine learning has increased. Works that use information about the shape or some characteristic of the expected function, have been used with genetic programming and neural networks. In those studies, it was found that including information about the expected model makes the resulting models better.Motivated by these studies, the goal of this work is the evaluation of the inclusion of information about the shape of the function in Kaizen Programming using a penalty function. In order to answer if the inclusion of this information in the search results in better models. In order to answer that we worked with 13 benchmark functions. The functions have between 2 and 9 input variables, and all have different types of shapes.We found that there is no significant difference in the performance of the models obtained using plain Kazan Programming and the shape-constrained approach.    
+The need for rapid and widespread deployment of new technologies to address climate change goals (e.g., deep, economy-wide decarbonization) presents new opportunities for advancing modular design strategies. Conventional engineering approaches focus on unique designs for each installation, while missing opportunities for manufacturing standardization. Extending insights from the automotive industry, we optimize a platform of common unit module designs while simultaneously designing an entire family of process variants that make use of that platform. This reduces engineering effort, deployment timelines, and manufacturing costs. We propose a nonlinear generalized disjunctive programming formulation and convert this to an efficient mixed-integer linear programming (MILP) formulation through discretization of the design space. We formulate our optimization in Pyomo with costing from IDAES, and we demonstrate the computational performance and solution quality on a water treatment desalination system from the PARETO framework and a carbon capture system built in Aspen Plus® as part of CCSI2.    
 
     
