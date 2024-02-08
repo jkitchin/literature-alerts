@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Wed Feb  7 00:42:05 2024
+Created on Thu Feb  8 00:43:07 2024
 
-Found 26 results from 2024-01-31 to 2024-02-07
+Found 26 results from 2024-02-01 to 2024-02-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -48,6 +48,17 @@ Open access: False
 [Linjuan Li](https://openalex.org/A5060340851), [Dong Xu](https://openalex.org/A5018013187), [Xiankui Xu](https://openalex.org/A5042815155), [Zheng Tian](https://openalex.org/A5085521958), [Xue Zhou](https://openalex.org/A5069616452), [Shenbo Yang](https://openalex.org/A5077769841), [Zhonghai Zhang](https://openalex.org/A5011328145), Proceedings of the National Academy of Sciences of the United States of America. 121(7)] 2024.https://doi.org/10.1073/pnas.2318970121.
     
 Solar-driven photocatalytic CO 2 reduction is an energy-efficient and sustainable strategy to mitigate CO 2 levels in the atmosphere. However, efficient and selective conversion of CO 2 into multi-carbon products, like C 2 H 4 , remains a great challenge due to slow multi-electron-proton transfer and sluggish C–C coupling. Herein, a two-dimensional thin-layered hybrid perovskite is fabricated through filling of oxygen into iodine vacancy in pristine DMASnI 3 (DMA = dimethylammonium). The rational-designed DMASnI 3 (O) induces shrinkage of active sites distance and facilitates dimerization of C–C coupling of intermediates. Upon simulated solar irradiation, the DMASnI 3 (O) photocatalyst achieves a high selectivity of 74.5%, corresponding to an impressive electron selectivity of 94.6%, for CO 2 to C 2 H 4 conversion and an effective C 2 H 4 yield of 11.2 μmol g −1 h −1 . In addition, the DMASnI 3 (O) inherits excellent water stability and implements long-term photocatalytic CO 2 reduction to C 2 H 4 in a water medium. This work establishes a unique paradigm to convert CO 2 to C 2+ hydrocarbons in a perovskite-based photocatalytic system.    
+
+    
+
+## Electrochemical reduction of carbon dioxide to produce formic acid coupled with oxidative conversion of biomass   
+
+OpenAlex: https://openalex.org/W4391560295    
+Open access: False
+    
+[Jiashuai Liu](https://openalex.org/A5075320040), [Yifan Wang](https://openalex.org/A5025761344), [Zhiwei Dai](https://openalex.org/A5040497392), [Daihong Gao](https://openalex.org/A5014377577), [Xuebing Zhao](https://openalex.org/A5013713303), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.01.062.
+    
+Electrochemical reduction of CO2 (CO2RR) has become a research hot spot in recent years in the context of carbon neutrality. HCOOH is one of the most promising products obtained by electrochemical reduction of CO2 due to its high energy value as estimated by market price per energy unit and wide application in chemical industry. Biomass is the most abundant renewable resource in the natural world. Coupling biomass oxidative conversion with CO2RR driven by renewable electricity would well achieve carbon negativity. In this work, we comprehensively reviewed the current research progress on CO2RR to produce HCOOH and coupled system for conversion of biomass and its derivatives to produce value-added products. Sn- and Bi-based electrocatalysts are discussed for CO2RR with regards to the structure of the catalyst and reaction mechanisms. Electro-oxidation reactions of biomass derived sugars, alcohols, furan aldehydes and even polymeric components of lignocellulose were reviewed as alternatives to replace oxygen evolution reaction (OER) in the conventional electrolysis process. It was recommended that to further improve the efficiency of the coupled system, future work should be focused on the development of more efficient and stable catalysts, careful design of the electrolytic cells for improving the mass transfer and development of environment-friendly processes for recovering the formed formate and biomass oxidation products.    
 
     
 
@@ -161,6 +172,17 @@ No abstract
 
     
 
+## Analysis of the effects of EEDI and EEXI implementation on CO2 emissions reduction in ships   
+
+OpenAlex: https://openalex.org/W4391559475    
+Open access: False
+    
+[S. H. Lee](https://openalex.org/A5029682509), Ocean Engineering. 295(None)] 2024.https://doi.org/10.1016/j.oceaneng.2024.116877.
+    
+No abstract    
+
+    
+
 ## Self-supported copper-based gas diffusion electrodes improve the local CO2 concentration for efficient electrochemical CO2 reduction   
 
 OpenAlex: https://openalex.org/W4391439692    
@@ -169,17 +191,6 @@ Open access: False
 [Azeem Mustafa](https://openalex.org/A5044830523), [Bachirou Guene Lougou](https://openalex.org/A5002560306), [Yong Shuai](https://openalex.org/A5049375655), [Zhijiang Wang](https://openalex.org/A5026704658), [Haseeb-ur-Rehman](https://openalex.org/A5049094441), [Samia Razzaq](https://openalex.org/A5020400471), [Wei Wang](https://openalex.org/A5084139753), [Ruming Pan](https://openalex.org/A5061893306), [Jiupeng Zhao](https://openalex.org/A5014738262), Frontiers of Chemical Science and Engineering. 18(3)] 2024.https://doi.org/10.1007/s11705-024-2392-6.
     
 No abstract    
-
-    
-
-## Unveiling the Activity and Mechanism Alterations by Pyrene Decoration on a Co(II) Macrocyclic Catalyst for CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4391359187    
-Open access: False
-    
-[Weilu Zhang](https://openalex.org/A5039657331), [Hai‐Hua Huang](https://openalex.org/A5075717772), [Zhi‐Mei Luo](https://openalex.org/A5005468144), [Fan Ma](https://openalex.org/A5012082751), [Sergio Gonell](https://openalex.org/A5070291492), [Zhuofeng Ke](https://openalex.org/A5022393729), [Liang Tan](https://openalex.org/A5051205966), [Jia‐Wei Wang](https://openalex.org/A5071508117), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202301113.
-    
-Mechanistic studies involving characterization of crucial intermediates are desirable for rational optimization of molecular catalysts toward CO2 reduction, while fundamental challenges are associated with such studies. Herein we present the systematic mechanistic investigations on a pyrene‐appended CoII macrocyclic catalyst in comparison with its pyrene‐free prototype. The comparative results also verify the reasons of the higher catalytic activity of the pyrene‐tethered catalyst in noble‐metal‐free CO2 photoreduction with various photosensitizers, where a remarkable apparent quantum yield of 36±3% at 425 nm can be obtained for selective CO production. Electrochemical and spectroelectrochemical studies in conjunction with DFT calculations between the two catalysts have characterized the key CO‐bound intermediates and revealed their different CO‐binding behavior, demonstrating that the pyrene group endows the corresponding CoII catalyst a lower catalytic potential, a higher stability, and a greater ease in CO release, all of which contribute to its better performance.    
 
     
 
@@ -205,17 +216,6 @@ Electrochemical reduction of CO2 (CO2RR) to fuels and chemicals is a promising r
 
     
 
-## Enhancing microbial CO2 electrocatalysis for multicarbon reduction in a wet amine‐based catholyte   
-
-OpenAlex: https://openalex.org/W4391358979    
-Open access: False
-    
-[Hui Su Kim](https://openalex.org/A5075278344), [Sang‐Min Lee](https://openalex.org/A5001550074), [Myounghoon Moon](https://openalex.org/A5069333187), [Hyun June Jung](https://openalex.org/A5083677177), [Jiye Lee](https://openalex.org/A5007481970), [Young-Hwan Chu](https://openalex.org/A5057304792), [Eun Jung Kim](https://openalex.org/A5022918002), [Danbee Kim](https://openalex.org/A5076514435), [Gwon Woo Park](https://openalex.org/A5015688601), [Chang Hyun Ko](https://openalex.org/A5012814042), [Soo-Youn Lee](https://openalex.org/A5075462954), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202301342.
-    
-Microbial CO2 electroreduction (mCO2ER) offers a promising approach for producing high‐value multicarbon reductants from CO2 by combining CO2 fixing microorganisms with conducting materials (i.e., cathodes). However, the solubility and availability of CO2 in an aqueous electrolyte pose significant limitations in this system. This study demonstrates the efficient production of long‐chain multicarbon reductants, specifically carotenoids (~C40), within a wet amine‐based catholyte medium during mCO2ER. Optimizing the concentration of the biocompatible CO2 absorbent, monoethanolamine (MEA), led to enhanced CO2 fixation in the electroautotroph bacteria. Molecular biological analyses revealed that MEA in the catholyte medium redirected the carbon flux towards carotenoid biosynthesis during mCO2ER. The faradaic efficiency of mCO2ER with MEA for carotenoid production was 4.5‐fold higher than that of the control condition. These results suggest the mass transport bottleneck in bioelectrochemical systems could be effectively addressed by MEA‐assissted mCO2ER, enabling highly efficient production of valuable products from CO2.    
-
-    
-
 ## CoTCPP integrates with BiOBr microspheres for improved solar-driven CO2 reduction performance   
 
 OpenAlex: https://openalex.org/W4391482249    
@@ -235,17 +235,6 @@ Open access: False
 [Jhon Ussa](https://openalex.org/A5093847985), [Heidy Monroy](https://openalex.org/A5093847986), [Ricardo Oicat](https://openalex.org/A5093847987), [Walter Gastelbondo](https://openalex.org/A5093847988), No host. None(None)] 2023.https://doi.org/10.48072/2447-2069.rpc.2023.066.
     
 No abstract    
-
-    
-
-## Modulating interfacial charges in CTF-based metal-insulator-semiconductor promotes selective CO2 reduction to CH4   
-
-OpenAlex: https://openalex.org/W4391344528    
-Open access: False
-    
-[Qiaoshan Chen](https://openalex.org/A5011978148), [Yueling Chen](https://openalex.org/A5086237038), [Mingfei Yu](https://openalex.org/A5005471947), [Bin Xu](https://openalex.org/A5021670886), [Hongbin Wu](https://openalex.org/A5033053753), [Liuyi Li](https://openalex.org/A5088226428), [Jinhong Bi](https://openalex.org/A5005665234), Chemical Engineering Journal. 482(None)] 2024.https://doi.org/10.1016/j.cej.2024.149027.
-    
-A metal–insulator-semiconductor (MIS) ternary photo-system was intricately crafted through precise amalgamation polyvinylpyrrolidone (PVP)-capped metal Cu with typical covalent triazine framework CTF-1 via electrostatic self-assembly. The 2 % Cu-PVP-CTF exhibited an impressive CH4 yield of 80.7 μmol·g−1·h−1 with selectivity of 96.8 % under visible light, representing a 2.3-fold and 112-fold improvement over Schottky-type Cu-CTF and pristine CTF-1, respectively. In-situ XPS and VASP-diff calculations unfolded that the ultrathin PVP insulating layer significantly expedited interfacial charges tunneling, corroborated by smaller lifetime τ2 determined via femtosecond transient absorption spectroscopy. The intermediates of paramount importance in CO2 reduction like *COOH and *HCHO were meticulously monitored by in-situ Fourier infrared spectroscopy. DFT calculations elucidated that Cu-PVP-CTF was notably more adept at facillitating the rate-determining step (*COOH → *CO) to produce CH4 than Cu-CTF. This work tamps the groundwork for conceptional roadmap in designing novel MIS photo-system for CO2 conversion.    
 
     
 
@@ -290,5 +279,16 @@ Open access: False
 [Ziruo Zhou](https://openalex.org/A5014381445), [Wei Guo](https://openalex.org/A5061195656), [Tingyu Yang](https://openalex.org/A5012152145), [Dandan Zheng](https://openalex.org/A5051769353), [Yuanxing Fang](https://openalex.org/A5027738164), [Xiahui Lin](https://openalex.org/A5049356478), [Yidong Hou](https://openalex.org/A5061785514), [Guigang Zhang](https://openalex.org/A5043430188), [Sibo Wang](https://openalex.org/A5080757684), Chinese Journal of Structural Chemistry. None(None)] 2024.https://doi.org/10.1016/j.cjsc.2024.100245.
     
 Sunlight-induced photocatalytic carbon dioxide (CO2) reduction to energy-rich chemicals by metal-free polymeric carbon nitride (CN) semiconductor is a promising tactic for sustained solar fuel production. However, the reaction efficiency of CO2 photoreduction is restrained seriously by the rapid recombination of photogenerated carriers on CN polymer. Herein, we incorporate the 2-aminopyridine molecule with strong electron-withdrawing group into the skeleton edge of CN layers through a facile one-pot thermal polymerization strategy using urea as the precursor, which renders the modified carbon nitride (ACN) with extended optical harvesting, abundant nitrogen defects and ultrathin nanosheet structure. Consequently, the ACN photocatalyst with desirable structural features attains enhanced separation and migration of photoexcited charge carriers. Under visible light irradiation with Co(bpy)32+ as a cocatalyst, the optimized ACN sample manifests a high CO2 deoxygnative reduction activity and high stability, providing a CO yielding rate of 17 μmol·h-1, which is significantly higher than that of pristine CN. The key intermediates engaged in CO2 photoreduction reaction are determined by the in situ diffuse reflectance infrared Fourier transform spectroscopy, which sponsors the construction of the possible photocatalytic CO2 reduction mechanism on the ACN nanosheets.    
+
+    
+
+## Harnessing deep transient testing for reservoir characterization and CO2 emission reduction in challenging geological settings   
+
+OpenAlex: https://openalex.org/W4391383558    
+Open access: True
+    
+[Eghbal Motaei](https://openalex.org/A5088653693), [Tarek Al-Arbi Omar Ganat](https://openalex.org/A5054946215), [Khairul Azhar](https://openalex.org/A5093828346), [Hamoud Al-Hadrami](https://openalex.org/A5067559759), Petroleum Research. None(None)] 2024.https://doi.org/10.1016/j.ptlrs.2024.01.014.
+    
+No abstract    
 
     

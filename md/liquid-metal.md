@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Wed Feb  7 00:42:05 2024
+Created on Thu Feb  8 00:43:08 2024
 
-Found 1 results from 2024-01-31 to 2024-02-07
+Found 1 results from 2024-02-01 to 2024-02-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 

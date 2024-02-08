@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Feb 2024 00:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:43:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,16 @@
       <author>Linjuan Li, Dong Xu, Xiankui Xu, Zheng Tian, Xue Zhou, Shenbo Yang, Zhonghai Zhang</author>
       <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1073/pnas.2318970121</guid>
+    </item>
+    <item>
+      <title>Electrochemical reduction of carbon dioxide to produce formic acid coupled with oxidative conversion of biomass</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.01.062</link>
+      <description>Jiashuai Liu, Yifan Wang, Zhiwei Dai, Daihong Gao, Xuebing Zhao, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4391560295
+
+                Electrochemical reduction of CO2 (CO2RR) has become a research hot spot in recent years in the context of carbon neutrality. HCOOH is one of the most promising products obtained by electrochemical reduction of CO2 due to its high energy value as estimated by market price per energy unit and wide application in chemical industry. Biomass is the most abundant renewable resource in the natural world. Coupling biomass oxidative conversion with CO2RR driven by renewable electricity would well achieve carbon negativity. In this work, we comprehensively reviewed the current research progress on CO2RR to produce HCOOH and coupled system for conversion of biomass and its derivatives to produce value-added products. Sn- and Bi-based electrocatalysts are discussed for CO2RR with regards to the structure of the catalyst and reaction mechanisms. Electro-oxidation reactions of biomass derived sugars, alcohols, furan aldehydes and even polymeric components of lignocellulose were reviewed as alternatives to replace oxygen evolution reaction (OER) in the conventional electrolysis process. It was recommended that to further improve the efficiency of the coupled system, future work should be focused on the development of more efficient and stable catalysts, careful design of the electrolytic cells for improving the mass transfer and development of environment-friendly processes for recovering the formed formate and biomass oxidation products.</description>
+      <author>Jiashuai Liu, Yifan Wang, Zhiwei Dai, Daihong Gao, Xuebing Zhao</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.01.062</guid>
     </item>
     <item>
       <title>Applications of X-ray Spectroscopy in Carbon Dioxide Reduction</title>
@@ -148,6 +158,16 @@
       <guid isPermaLink="true">https://doi.org/10.1134/s107042802311009x</guid>
     </item>
     <item>
+      <title>Analysis of the effects of EEDI and EEXI implementation on CO2 emissions reduction in ships</title>
+      <link>https://doi.org/10.1016/j.oceaneng.2024.116877</link>
+      <description>S. H. Lee, Ocean Engineering. 295(None)] 2024. https://openalex.org/W4391559475
+
+                No abstract</description>
+      <author>S. H. Lee</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.oceaneng.2024.116877</guid>
+    </item>
+    <item>
       <title>Self-supported copper-based gas diffusion electrodes improve the local CO2 concentration for efficient electrochemical CO2 reduction</title>
       <link>https://doi.org/10.1007/s11705-024-2392-6</link>
       <description>Azeem Mustafa, Bachirou Guene Lougou, Yong Shuai, Zhijiang Wang, Haseeb-ur-Rehman, Samia Razzaq, Wei Wang, Ruming Pan, Jiupeng Zhao, Frontiers of Chemical Science and Engineering. 18(3)] 2024. https://openalex.org/W4391439692
@@ -156,16 +176,6 @@
       <author>Azeem Mustafa, Bachirou Guene Lougou, Yong Shuai, Zhijiang Wang, Haseeb-ur-Rehman, Samia Razzaq, Wei Wang, Ruming Pan, Jiupeng Zhao</author>
       <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11705-024-2392-6</guid>
-    </item>
-    <item>
-      <title>Unveiling the Activity and Mechanism Alterations by Pyrene Decoration on a Co(II) Macrocyclic Catalyst for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/cssc.202301113</link>
-      <description>Weilu Zhang, Hai&#8208;Hua Huang, Zhi&#8208;Mei Luo, Fan Ma, Sergio Gonell, Zhuofeng Ke, Liang Tan, Jia&#8208;Wei Wang, ChemSusChem. None(None)] 2024. https://openalex.org/W4391359187
-
-                Mechanistic studies involving characterization of crucial intermediates are desirable for rational optimization of molecular catalysts toward CO2 reduction, while fundamental challenges are associated with such studies. Herein we present the systematic mechanistic investigations on a pyrene&#8208;appended CoII macrocyclic catalyst in comparison with its pyrene&#8208;free prototype. The comparative results also verify the reasons of the higher catalytic activity of the pyrene&#8208;tethered catalyst in noble&#8208;metal&#8208;free CO2 photoreduction with various photosensitizers, where a remarkable apparent quantum yield of 36&#177;3% at 425 nm can be obtained for selective CO production. Electrochemical and spectroelectrochemical studies in conjunction with DFT calculations between the two catalysts have characterized the key CO&#8208;bound intermediates and revealed their different CO&#8208;binding behavior, demonstrating that the pyrene group endows the corresponding CoII catalyst a lower catalytic potential, a higher stability, and a greater ease in CO release, all of which contribute to its better performance.</description>
-      <author>Weilu Zhang, Hai&#8208;Hua Huang, Zhi&#8208;Mei Luo, Fan Ma, Sergio Gonell, Zhuofeng Ke, Liang Tan, Jia&#8208;Wei Wang</author>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301113</guid>
     </item>
     <item>
       <title>Highly selective electrocatalytic reduction of CO2 to HCOOH over an in-situ derived Ag-loaded Bi2O2CO3 electrocatalyst</title>
@@ -188,16 +198,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.205</guid>
     </item>
     <item>
-      <title>Enhancing microbial CO2 electrocatalysis for multicarbon reduction in a wet amine&#8208;based catholyte</title>
-      <link>https://doi.org/10.1002/cssc.202301342</link>
-      <description>Hui Su Kim, Sang&#8208;Min Lee, Myounghoon Moon, Hyun June Jung, Jiye Lee, Young-Hwan Chu, Eun Jung Kim, Danbee Kim, Gwon Woo Park, Chang Hyun Ko, Soo-Youn Lee, ChemSusChem. None(None)] 2024. https://openalex.org/W4391358979
-
-                Microbial CO2 electroreduction (mCO2ER) offers a promising approach for producing high&#8208;value multicarbon reductants from CO2 by combining CO2 fixing microorganisms with conducting materials (i.e., cathodes). However, the solubility and availability of CO2 in an aqueous electrolyte pose significant limitations in this system. This study demonstrates the efficient production of long&#8208;chain multicarbon reductants, specifically carotenoids (~C40), within a wet amine&#8208;based catholyte medium during mCO2ER. Optimizing the concentration of the biocompatible CO2 absorbent, monoethanolamine (MEA), led to enhanced CO2 fixation in the electroautotroph bacteria. Molecular biological analyses revealed that MEA in the catholyte medium redirected the carbon flux towards carotenoid biosynthesis during mCO2ER. The faradaic efficiency of mCO2ER with MEA for carotenoid production was 4.5&#8208;fold higher than that of the control condition. These results suggest the mass transport bottleneck in bioelectrochemical systems could be effectively addressed by MEA&#8208;assissted mCO2ER, enabling highly efficient production of valuable products from CO2.</description>
-      <author>Hui Su Kim, Sang&#8208;Min Lee, Myounghoon Moon, Hyun June Jung, Jiye Lee, Young-Hwan Chu, Eun Jung Kim, Danbee Kim, Gwon Woo Park, Chang Hyun Ko, Soo-Youn Lee</author>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301342</guid>
-    </item>
-    <item>
       <title>CoTCPP integrates with BiOBr microspheres for improved solar-driven CO2 reduction performance</title>
       <link>https://doi.org/10.1016/j.gee.2024.01.008</link>
       <description>Lina Li, Yi Zhang, Gaopeng Liu, Tiange Wei, Junze Zhao, Bin Wang, Mengxia Ji, Yuanbin She, Jiexiang Xia, Huaming Li, Green Energy &amp; Environment. None(None)] 2024. https://openalex.org/W4391482249
@@ -216,16 +216,6 @@
       <author>Jhon Ussa, Heidy Monroy, Ricardo Oicat, Walter Gastelbondo</author>
       <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48072/2447-2069.rpc.2023.066</guid>
-    </item>
-    <item>
-      <title>Modulating interfacial charges in CTF-based metal-insulator-semiconductor promotes selective CO2 reduction to CH4</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149027</link>
-      <description>Qiaoshan Chen, Yueling Chen, Mingfei Yu, Bin Xu, Hongbin Wu, Liuyi Li, Jinhong Bi, Chemical Engineering Journal. 482(None)] 2024. https://openalex.org/W4391344528
-
-                A metal&#8211;insulator-semiconductor (MIS) ternary photo-system was intricately crafted through precise amalgamation polyvinylpyrrolidone (PVP)-capped metal Cu with typical covalent triazine framework CTF-1 via electrostatic self-assembly. The 2 % Cu-PVP-CTF exhibited an impressive CH4 yield of 80.7 &#956;mol&#183;g&#8722;1&#183;h&#8722;1 with selectivity of 96.8 % under visible light, representing a 2.3-fold and 112-fold improvement over Schottky-type Cu-CTF and pristine CTF-1, respectively. In-situ XPS and VASP-diff calculations unfolded that the ultrathin PVP insulating layer significantly expedited interfacial charges tunneling, corroborated by smaller lifetime &#964;2 determined via femtosecond transient absorption spectroscopy. The intermediates of paramount importance in CO2 reduction like *COOH and *HCHO were meticulously monitored by in-situ Fourier infrared spectroscopy. DFT calculations elucidated that Cu-PVP-CTF was notably more adept at facillitating the rate-determining step (*COOH &#8594; *CO) to produce CH4 than Cu-CTF. This work tamps the groundwork for conceptional roadmap in designing novel MIS photo-system for CO2 conversion.</description>
-      <author>Qiaoshan Chen, Yueling Chen, Mingfei Yu, Bin Xu, Hongbin Wu, Liuyi Li, Jinhong Bi</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149027</guid>
     </item>
     <item>
       <title>Enhanced reduction of CO2 to CH4 by novel mesoporous Ru-Fe3O4/CeOx-SiO2 catalyst in a fixed bed reactor</title>
@@ -266,6 +256,16 @@
       <author>Ziruo Zhou, Wei Guo, Tingyu Yang, Dandan Zheng, Yuanxing Fang, Xiahui Lin, Yidong Hou, Guigang Zhang, Sibo Wang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100245</guid>
+    </item>
+    <item>
+      <title>Harnessing deep transient testing for reservoir characterization and CO2 emission reduction in challenging geological settings</title>
+      <link>https://doi.org/10.1016/j.ptlrs.2024.01.014</link>
+      <description>Eghbal Motaei, Tarek Al-Arbi Omar Ganat, Khairul Azhar, Hamoud Al-Hadrami, Petroleum Research. None(None)] 2024. https://openalex.org/W4391383558
+
+                No abstract</description>
+      <author>Eghbal Motaei, Tarek Al-Arbi Omar Ganat, Khairul Azhar, Hamoud Al-Hadrami</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ptlrs.2024.01.014</guid>
     </item>
   </channel>
 </rss>

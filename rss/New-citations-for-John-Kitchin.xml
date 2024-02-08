@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Feb 2024 00:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Feb 2024 00:43:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing Metallicity and Basal Plane Reactivity of 2D Materials via Self-Intercalation</title>
-      <link>https://doi.org/10.1021/acsnano.3c08117</link>
-      <description>Stefano Americo, Sahar Pakdel, Kristian Sommer Thygesen, ACS Nano. None(None)] 2024. https://openalex.org/W4391337184
-
-                Intercalation (ic) of metal atoms into the van der Waals (vdW) gap of layered materials constitutes a facile strategy to create materials whose properties can be tuned via the concentration of the intercalated atoms. Here we perform systematic density functional theory calculations to explore various properties of an emergent class of crystalline 2D materials (ic-2D materials) comprising vdW homobilayers with native metal atoms on a sublattice of intercalation sites. From an initial set of 1348 ic-2D materials, generated from 77 vdW homobilayers, we find 95 structures with good thermodynamic stability (formation energy within 200 meV/atom of the convex hull). A significant fraction of the semiconducting host materials are found to undergo an insulator to metal transition upon self-intercalation, with only PdS2, PdSe2, and GeS2 maintaining a finite electronic gap. In five cases, self-intercalation introduces magnetism. In general, self-intercalation is found to promote metallicity and enhance the chemical reactivity on the basal plane. Based on the calculated H binding energy, we find that self-intercalated SnS2 and Hf3Te2 are promising candidates for hydrogen evolution catalysis. All the stable ic-2D structures and their calculated properties can be explored in the open C2DB database.</description>
-      <author>Stefano Americo, Sahar Pakdel, Kristian Sommer Thygesen</author>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c08117</guid>
-    </item>
-    <item>
-      <title>Exploring Synergistic Effect on the Stability of Ni-, Pd-, Ir-Doped TiN (N = 1&#8211;15) Nanoparticles</title>
-      <link>https://doi.org/10.3390/alloys3010002</link>
-      <description>Tshegofatso M. Phaahla, Phuti E. Ngoepe, Hasani Chauke, Alloys. 3(1)] 2024. https://openalex.org/W4391340928
-
-                Bimetallic nanoclusters have attracted great interest due to their ability to enhance the catalytic properties of nanoclusters through synergetic effects that emerge from the combination of the metal nanocluster with different transition metal (TM) species. However, their indefinite composition and broad distribution hinder the insightful understanding of the interaction between these invasive metals in bimetallic doped nanoalloys. In this study, we report a density functional theory calculation with the PBEsol exchange-correlation functional for 16-atom TiN&#8722;1TM (TM = Ni, Ir, Pd) nanoalloys, which provides new insights into the synergetic effect of these invasive metals. The probe into the effect of these metal impurities revealed that the replacement of a Ti atom with Ni, Ir and Pd enhances the relative stability of the nanoalloys, and the maximum stability for a lower bimetallic composition is reached for Ti4Ir, Ti5Pd and Ti7Ni. The most stable nanoalloy is reached for the Ti12Ir cluster in comparison with the Ti12Pd and Ti12Ni clusters and pure Ti13 monoatomic nanocluster. This stability trend is as revealed well by both the binding energy and the dissociation energy. The average HOMO-LUMO gap for the bigger clusters revealed that the valence electrons in the HOMO can absorb lower energy, which is indicatory of a higher reactivity and lower stability. The quantum confinement is higher for the smaller clusters, which illustrates a higher stability and lower reactivity for those systems.</description>
-      <author>Tshegofatso M. Phaahla, Phuti E. Ngoepe, Hasani Chauke</author>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/alloys3010002</guid>
-    </item>
-    <item>
-      <title>Insights into the Confinement Effect of NiMo Catalysts toward Alkaline Hydrogen Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.3c06058</link>
-      <description>Fulin Yang, Shouci Lu, Y. Feng, Luhong Fu, Ligang Feng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391348864
-
-                Replacing platinum-group metals by Ni-based catalysts for the alkaline hydrogen oxidation reaction (HOR) is highly desired for anion-exchange membrane fuel cells (AEMFCs), while huge challenges still exist due to the sluggish kinetics and oxidative deactivation of the Ni active centers. Herein, we report an ingenious design of the microstructured Ni-based electrocatalysts featured by nanoparticulate NiMo alloy cores encapsulated by N-doped carbon layer shells (NiMo-5%@NC) to address these problems. Electrochemical experiments and theoretical calculations confirm that the confinement effect can rationally weaken the binding energy to oxygenated species through direct interactions with the carbon layers rather than relying on the traditionally regulated electronic structures of NiMo surfaces. This ultimately reduces the energy barrier for water formation, the potential-determining step for the alkaline HOR undergoing the bifunctional path. Moreover, the incorporation of carbon layers not only enhances the passivation resistance of Ni-based surfaces but also alleviates the oxidative dissolution of the alloyed Mo-species, resulting in obviously improved stability. As a result, NiMo-5%@NC exhibits significantly improved HOR activity and stability compared to the counterpart without the protection of the shells (NiMo-5%). This work shows comprehensive insights into the confinement effect exerted by carbon layer shells, providing a different light on the guidelines to deal with the sluggish kinetics and oxidative deactivation of the Ni active centers for AEMFCs.</description>
-      <author>Fulin Yang, Shouci Lu, Y. Feng, Luhong Fu, Ligang Feng</author>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06058</guid>
-    </item>
-    <item>
-      <title>Comprehensive Density Functional and Kinetic Monte Carlo Study of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation on a Well-Defined Ni/CeO&lt;sub&gt;2&lt;/sub&gt; Model Catalyst: Role of Eley&#8211;Rideal Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.3c05336</link>
-      <description>Pablo Lozano-Reis, Pablo Gamallo, R. Say&#243;s, Francesc Illas, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391361162
-
-                A detailed multiscale study of the mechanism of CO2 hydrogenation on a well-defined Ni/CeO2 model catalyst is reported that couples periodic density functional theory (DFT) calculations with kinetic Monte Carlo (kMC) simulations. The study includes an analysis of the role of Eley&#8211;Rideal elementary steps for the water formation step, which are usually neglected on the overall picture of the mechanism, catalytic activity, and selectivity. The DFT calculations for the chosen model consisting of a Ni4 cluster supported on CeO2 (111) show large enough adsorption energies along with low energy barriers that suggest this catalyst to be a good option for high selective CO2 methanation. The kMC simulations results show a synergic effect between the two 3-fold hollow sites of the supported Ni4 cluster with some elementary reactions dominant in one site, while other reactions prefer the another, nearly equivalent site. This effect is even more evident for the simulations explicitly including Eley&#8211;Rideal steps. The kMC simulations reveal that CO is formed via the dissociative pathway of the reverse water&#8211;gas shift reaction, while methane is formed via a CO2 &#8594; CO &#8594; HCO &#8594; CH &#8594; CH2 &#8594; CH3 &#8594; CH4 mechanism. Overall, our results show the importance of including the Eley&#8211;Rideal reactions and point to small Ni clusters supported on the CeO2 (111) surface as potential good catalysts for high selective CO2 methanation under mild conditions, while very active and selective toward CO formation at higher temperatures.</description>
-      <author>Pablo Lozano-Reis, Pablo Gamallo, R. Say&#243;s, Francesc Illas</author>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05336</guid>
-    </item>
-    <item>
-      <title>Grain boundaries in polycrystalline materials for energy applications: First principles modeling and electron microscopy</title>
-      <link>https://doi.org/10.1063/5.0175150</link>
-      <description>James A. Quirk, Mathias Uller Rothmann, Wei Li, Daniel Abou&#8208;Ras, Keith P. McKenna, Applied Physics Reviews. 11(1)] 2024. https://openalex.org/W4391361598
-
-                Polycrystalline materials are ubiquitous in technology, and grain boundaries have long been known to affect materials properties and performance. First principles materials modeling and electron microscopy methods are powerful and highly complementary for investigating the atomic scale structure and properties of grain boundaries. In this review, we provide an introduction to key concepts and approaches for investigating grain boundaries using these methods. We also provide a number of case studies providing examples of their application to understand the impact of grain boundaries for a range of energy materials. Most of the materials presented are of interest for photovoltaic and photoelectrochemical applications and so we include a more in depth discussion of how modeling and electron microscopy can be employed to understand the impact of grain boundaries on the behavior of photoexcited electrons and holes (including carrier transport and recombination). However, we also include discussion of materials relevant to rechargeable batteries as another important class of materials for energy applications. We conclude the review with a discussion of outstanding challenges in the field and the exciting prospects for progress in the coming years.</description>
-      <author>James A. Quirk, Mathias Uller Rothmann, Wei Li, Daniel Abou&#8208;Ras, Keith P. McKenna</author>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0175150</guid>
-    </item>
-    <item>
-      <title>Construction of thiazolo[5,4-d]thiazole based covalent triazine framework/g-C3N4 heterojunction catalysts for highly efficient photocatalytic H2 evolution</title>
-      <link>https://doi.org/10.1016/j.ces.2024.119827</link>
-      <description>Miao Liu, Fei Zhao, Ya Chu, Jinsheng Zhao, Fanpeng Meng, Yinfeng Han, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391363417
-
-                Herein, the covalent triazine framework (CTF) named Tz-TA was synthesized by Schiff base reaction between 4,4&#8242;-(thiazolo[5,4-d]thiazole-2,5-diyl)dibenzaldehyde (TzDA) and terephthalimidamide (TA). The polymer based heterojunctions (PHJs) Tz-TA/g-C3N4-x (x refers to mass percentage of Tz-TA) were constructed by combining g-C3N4 and Tz-TA through physical ball milling. Tz-TA/g-C3N4-x catalysts all showed considerably enhanced hydrogen evolution rates (HER) than each of the separate photocatalyst, and among which, Tz-TA/g-C3N4-50 exhibited the highest HER of 5426.28 &#956;mol g-1h&#8722;1 with a 3 wt% Pt as the co-catalyst under visible light irradiation, which is 4.7 and 2.5 times of g-C3N4 and Tz-TA, respectively. The optoelectronic measurements revealed that the formation of the PHJs enhanced the separation and transport efficiency of photo-generated excitons, and delayed the recombination rates of the electron-hole couples. Coupling with the results from density functional theory (DFT) calculations and free radical analyses, a type II configuration of the PHJs was confirmed, which is accountable for their enhanced photocatalytic hydrogen production (PHP) performance.</description>
-      <author>Miao Liu, Fei Zhao, Ya Chu, Jinsheng Zhao, Fanpeng Meng, Yinfeng Han</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119827</guid>
-    </item>
-    <item>
-      <title>Transition metal doped into defective boron nitride nanotubes for CO2RR: Regulation of catalytic activity and mechanism by curvature effect</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.126552</link>
-      <description>Qigang Chen, Qiang Ke, Xiuyun Zhao, Yingjie Feng, Qingrui Zhao, Jing Feng, Xingbo Ge, Xin Chen, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391364339
-
-                Utilizing electrochemical CO2 reduction reaction (CO2RR) to synthesize chemical fuels is an effective strategy to alleviate environmental pollution and energy crisis. In this work, a series of single transition metal atoms (TM = Mn, Fe, Co, Ni, Cu, Ru, Rh, Pd) are doped into boron nitride nanotubes (BNNTs) of BN divacancy defect with different curvature parameters, which are named as TM-DVBNNT(n, n), and their CO2RR catalytic performance is systematically studied by density functional theory (DFT) methods. To begin with, the calculation results of formation energy and dissolution potential show that all TM-DVBNNT(n, n) have good thermodynamic and electrochemical stability. Secondly, after calculation of Gibbs free energy, Mn-, Fe-, Ru, and Rh-DVBNNT(5, 5) have good catalytic performance with the corresponding limiting potential (UL) values of &#8722; 0.43, &#8722;0.40, &#8722;0.27, and &#8722; 0.50 V, respectively. Based on this, we further investigate the influence of curvature on the stability, activity, and mechanism of Ru-DVBNNT(n, n) with the highest activity. It is worth noting that as the diameter of Ru-DVBNNT(n, n) continues to increase, their stability and activity also continue to enhance, and Ru-DVBNNT(8, 8) with the largest diameter is expected to become the best performing CO2RR electrocatalyst with the UL value of &#8722; 0.16 V. Besides, for Ru-DVBNNT(3, 3) and Ru-DVBNNT(4, 4), their final product is HCOOH. In contrast, the CH4 product is more inclined to form on Ru-DVBNNTs with chiral indexes of (5, 5), (6, 6), (7, 7), and (8, 8). In summary, this work has laid a solid theoretical foundation for future experimental design of nanotube structures.</description>
-      <author>Qigang Chen, Qiang Ke, Xiuyun Zhao, Yingjie Feng, Qingrui Zhao, Jing Feng, Xingbo Ge, Xin Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126552</guid>
-    </item>
     <item>
       <title>Growth, Crystal Structure, and Photoluminescent Properties of Dilute Nitride InAsN Nanowires on Silicon for Infrared Optoelectronics</title>
       <link>https://doi.org/10.1021/acsanm.3c06295</link>
@@ -198,36 +128,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.101791</guid>
     </item>
     <item>
-      <title>High Research Productivity During Orthopaedic Surgery Residency May Be Predicted by Number of Publications as a Medical Student</title>
-      <link>https://doi.org/10.2106/jbjs.oa.23.00105</link>
-      <description>Connor Donley, Matthew McCrosson, Srihari R. Prahad, Collier Campbell, Fei Zhao, Narcy Amireddy, Michael D. Johnson, JB &amp; JS Open Access. 9(1)] 2024. https://openalex.org/W4391340993
-
-                Introduction: Orthopaedic applicants have increased the average number of publications on their residency application to compete with the growing competitiveness of the field. The purpose of this study was to assess whether research productivity before orthopaedic residency and caliber of one's institution is correlated with academic productivity during residency. Methods: Scopus was used to extract publication metrics. Quantity and quality (how often the publications were cited) were analyzed at 2 different time periods: before and during residency. All subjects in the study had graduated an ACGME-accredited orthopaedic surgery residency in 2021. Military residents, international medical graduates, and residents not listed on their department's website were excluded. Residents were categorized as both high (&#8805;2 publications) or low (&lt;2 publications) publishers according to their pre-residency publications. They were also categorized based on their program's Jones et al. research productivity ranking. Results: For the 758 residents, the median number of publications was 0 (Interquartile Range [IQR]: 0-2) and 3 (IQR: 1-6) before and during residency, respectively. High publishing medical students had more publications during training than low publishers (6 [IQR: 3-14] and 2 [IQR: 1-4], p &lt; 0.001). Residents at higher ranked programs also had more publications (4 [IQR: 2-9] and 2 [IQR: 0-4], p &lt; 0.001). High publishing students now training at lower ranked institutions had more publications during residency than low publishers who trained at more productive institutions (4 [IQR: 1-9] and 3 [IQR: 1-6], p &lt; 0.001). Conclusion: Having 2 or more publications before residency is correlated with an increased number of publications during residency. While attending a higher academically productive program is associated with increased resident publications, a high publishing medical student would be expected to have more publications during residency than a low publishing student, regardless of program rank. Notably, most matched applicants continue to have zero publications before matriculation.</description>
-      <author>Connor Donley, Matthew McCrosson, Srihari R. Prahad, Collier Campbell, Fei Zhao, Narcy Amireddy, Michael D. Johnson</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2106/jbjs.oa.23.00105</guid>
-    </item>
-    <item>
-      <title>Covalent Organic Framework-Based Photocatalyst for Activation of Peroxymonosulfate: Implications for Degradation of Organic Pollutants</title>
-      <link>https://doi.org/10.1021/acsanm.3c05372</link>
-      <description>Haocheng Xu, Yang Xu, Yandong Wang, Qiaomu Wang, Yiying Zhang, Qiaobo Liao, Kai Xi, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4391362408
-
-                Advanced oxidation processes (AOPs), especially high-efficiency activation of peroxymonosulfate (PMS), have aroused great attention based on their excellent performance along with low toxicity in the degradation of organic pollutants. Although covalent organic frameworks (COFs) have been explored for PMS-activated AOPs, their intrinsic photocatalytic properties are rarely studied in this field. Herein, we designed and prepared a fully conjugated carbon covalent organic framework (TFPT-TCPB COF), which features sp2 C&#9552;C linkages, triazine units, and nitrile groups, showing great photocatalytic potential to activation of PMS as an intrinsic photocatalyst. Olefin-linked TFPT-TCPB COF showed much higher removal efficiency (k = 0.048 min&#8211;1), 3.5 times the value of rate constant k of TFPT-TAPB COF (k = 0.014 min&#8211;1). Meanwhile, the photoactive triazine units endowed the TFPT-TCPB COF with 2.5 times enhancement of the k value than TFPB-TCPB COF embedding only benzene rings (k = 0.013 min&#8211;1). Furthermore, the reaction constant k for TFPT-TCPB COF-COOH reached 0.081 min&#8211;1, which was 69% higher than that of TFPT-TCPB COF and 27 times higher than that of g-C3N4, proving the positive effects of introducing the hydrophilic carboxyl groups. Also, high chemical stability, reusability, and low biotoxicity offered it an opportunity as a marvelous metal-free photocatalyst for environment remediation.</description>
-      <author>Haocheng Xu, Yang Xu, Yandong Wang, Qiaomu Wang, Yiying Zhang, Qiaobo Liao, Kai Xi</author>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05372</guid>
-    </item>
-    <item>
-      <title>Plasma-induced vacancies in CoS2 electrocatalysts to activate sulfur sites for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.01.320</link>
-      <description>Fang Liu, Fangqing Wang, Xinyu Sun, Ying Wang, Yang Liu, Shiqing Zhang, Ying Liu, Yanming Xue, Jun Zhang, Chengchun Tang, International Journal of Hydrogen Energy. 58(None)] 2024. https://openalex.org/W4391374448
-
-                Exploring efficient non-precious metal sulfides as electrocatalysts for the hydrogen evolution reaction (HER) is crucial. Cobalt disulfide (CoS2) has gained attention for its favorable intrinsic activity, impressive metal conductivity, and cost-effectiveness. However, the weak adsorption of H* at the sulfur (S) sites on the surface of CoS2 leaves room for enhancing its HER intrinsic activity. Vacancy engineering emerges as a valuable strategy to modulate the local charge density, optimizing hydrogen adsorption free energy and catalytic performance in HER. Taking advantage of plasma technology, known for its rapid and efficient defect creation, we synthesized porous CoS2 nanowire arrays enriched with S vacancies (Vs-CoS2/CC) through Ar plasma treatment. Notably, at a current density of 10 mA cm&#8722;2, Vs-CoS2/CC exhibits a lower overpotential (170 mV) compared to pure CoS2/CC (236 mV). Furthermore, Vs-CoS2/CC demonstrates exceptional electrochemical stability. Experimental data and density functional theory calculations jointly reveal that introducing S vacancies reduces local charge density around S atoms, activating inert sulfur sites and enhancing the intrinsic activity of CoS2 for HER. This study introduces a novel concept of defect-engineered activation in metal compound catalysts, employing a plasma approach to advance HER performance.</description>
-      <author>Fang Liu, Fangqing Wang, Xinyu Sun, Ying Wang, Yang Liu, Shiqing Zhang, Ying Liu, Yanming Xue, Jun Zhang, Chengchun Tang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.320</guid>
-    </item>
-    <item>
       <title>Advantages of Bimetallic Electrocatalysts for Cathodes in a Proton Exchange Membrane Fuel Cell</title>
       <link>https://doi.org/10.1007/978-3-031-52239-0_3</link>
       <description>Angelina Pavlets, Ekaterina Kozhokar, Yana Astravukh, Ilya Pankov, Alexey S. Nikulin, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;, Springer Proceedings in Materials. None(None)] 2024. https://openalex.org/W4391425240
@@ -256,6 +156,106 @@
       <author>Baoji Miao, Yange Cao, Imran Khan, Qiuling Chen, Salman Ali Khan, Amir Zada, Muhammad Shahyan, Sharafat Ali, Rizwan Ullah, Jinbo Bai, Muhammad Rizwan, Abdullah M. S. Alhuthali</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.01.168</guid>
+    </item>
+    <item>
+      <title>Integrated energy storage and CO2 conversion using an aqueous battery with tamed asymmetric reactions</title>
+      <link>https://doi.org/10.1038/s41467-023-44283-y</link>
+      <description>Yumei Liu, Yun An, Jiexin Zhu, Lujun Zhu, Xiaomei Li, Peng Gao, Guanjie He, Quanquan Pang, Nature Communications. 15(1)] 2024. https://openalex.org/W4391428670
+
+                Abstract Developing a CO 2 -utilization and energy-storage integrated system possesses great advantages for carbon- and energy-intensive industries. Efforts have been made to developing the Zn-CO 2 batteries, but access to long cycling life and low charging voltage remains a grand challenge. Here we unambiguously show such inefficiencies originate from the high-barrier oxygen evolution reaction on charge, and by recharging the battery via oxidation of reducing molecules, Faradaic efficiency-enhanced CO 2 reduction and low-overpotential battery regeneration can be simultaneously achieved. Showcased by using hydrazine oxidation, our battery demonstrates a long life over 1000 hours with a charging voltage as low as 1.2 V. The low charging voltage and formation of gaseous product upon hydrazine oxidation are the key to stabilize the catalyst over cycling. Our findings suggest that by fundamentally taming the asymmetric reactions, aqueous batteries are viable tools to achieve integrated energy storage and CO 2 conversion that is economical, highly energy efficient, and scalable.</description>
+      <author>Yumei Liu, Yun An, Jiexin Zhu, Lujun Zhu, Xiaomei Li, Peng Gao, Guanjie He, Quanquan Pang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-023-44283-y</guid>
+    </item>
+    <item>
+      <title>Controllable synthesis of Au-rich core/PtNi rich shell nanoparticles with strain effect for enhanced hydrogen evolution</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2024.133353</link>
+      <description>Chunling Qin, Chao Wang, Peng Fei Li, Chuanjin Huang, Hassanien Gomaa, Cuihua An, Qibo Deng, Ning Hu, Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4391430357
+
+                No abstract</description>
+      <author>Chunling Qin, Chao Wang, Peng Fei Li, Chuanjin Huang, Hassanien Gomaa, Cuihua An, Qibo Deng, Ning Hu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.133353</guid>
+    </item>
+    <item>
+      <title>Porous nitrogen-doped carbon nanocages decorated with bimetallic iron/cobalt sites as superior oxygen catalysts for liquid and all-solid-state Zn&#8211;air batteries</title>
+      <link>https://doi.org/10.1016/j.est.2024.110660</link>
+      <description>Xiaobing Ren, Pengfei Zhang, Xinxin Tang, He&#8208;Gen Zheng, Zhongmin Wan, Journal of Energy Storage. 83(None)] 2024. https://openalex.org/W4391434426
+
+                No abstract</description>
+      <author>Xiaobing Ren, Pengfei Zhang, Xinxin Tang, He&#8208;Gen Zheng, Zhongmin Wan</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.est.2024.110660</guid>
+    </item>
+    <item>
+      <title>Recent Development and Future Frontiers of Oxygen Reduction Reaction in Neutral Media and Seawater</title>
+      <link>https://doi.org/10.1002/adfm.202314282</link>
+      <description>Truong&#8208;Giang Vo, Jiajian Gao, Yan Liu, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4391437432
+
+                Abstract The oxygen reduction reaction (ORR) in neutral media is of great importance due to its potential to optimize energy generation and storage application. With the increasing urgency for sustainable and efficient energy solutions, comprehensively understanding and enhancing ORR performance in such media have become crucial. This review aims to shed light on this critical yet challenging area. This review encapsulates the fundamental principle of ORR and the latest breakthrough in the field of electrocatalysts, with a distinct focus on innovative synthesis strategies for creating novel, efficient, and robust electrocatalysts. A succinct evaluation of the strengths, limitations, performance, and reaction mechanism is presented. The essential findings are analyzed and their implications for future research directions. Finally, an outlook on current advances, challenges, and future research recommendations is provided. This review serves as a stepping&#8208;stone toward harnessing the underutilizing energy potential within the extensive aquatic environment.</description>
+      <author>Truong&#8208;Giang Vo, Jiajian Gao, Yan Liu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202314282</guid>
+    </item>
+    <item>
+      <title>Chestnut-like Molybdenum-Doped Nickel Cobaltite Spinel Oxide Nanoparticles Grown on Ni Foam as the Electrocatalyst for the Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsanm.3c05156</link>
+      <description>Refah Saad Alkhaldi, Abbas Saeed Hakeem, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, S. &#199;al&#305;&#351;kan, Y. Slimani, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4391447078
+
+                The 3D NiMoxCo2&#8211;xO4 (x &#8804; 0.06) chestnut-like spinel oxide nanoparticles (CNSPs) grown on Ni foam were effectively prepared hydrothermally. The formation of Ni&#8211;Co CNSPs was confirmed by the XRD powder pattern, which exhibited a pure cubic spinel oxide structure without undesired phases. All ratios revealed a broadened peak representing a small crystal size (12.8&#8211;17.5 nm) range. The chestnut-like CNSPs were presented by FE-SEM, SEM, TEM, and HR-TEM analysis. The chemical composition of the products was confirmed by EDX. The 3D NiMoxCo2&#8211;xO4 (x = 0.04) CNSP electrocatalyst exhibited hydrogen evolution reaction (HER) activity as evidenced by 0.224 V overpotential, Tafel slope 61.9 mV/dec, and high stability for 36 h of chronopotentiometry techniques. The surface and electrochemical characterization revealed that 4.0% Mo-doped exhibits improved HER activity due to significantly higher electrochemical surface area and accelerated charge-transfer kinetics at the semiconductor electrolyte interface. Density functional theory is employed to investigate the impact of Mo dopants on the HER performance. This study shows how both hydrogen and water molecules adhere to the surface of Mo-doped NiCo2O4 slab structures. The findings indicate that introducing Mo dopants leads to an augmentation of chemical activity through water adsorption, resulting in an enhanced electrocatalytic process and improved HER activity up to a specific Mo concentration, and their impact on spin-dependent electronic structure characteristics is revealed by the density of states spectra. This work not only gives insights into low-metal-cost materials for efficient and durable HER electrocatalysts, but it also provides a successful showcase model catalyst for in-depth mechanistic insights into electrochemical HER processes and their industrial applications in the future.</description>
+      <author>Refah Saad Alkhaldi, Abbas Saeed Hakeem, Mohamed Jaffer Sadiq Mohamed, M.A. Almessiere, A. Baykal, S. &#199;al&#305;&#351;kan, Y. Slimani</author>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05156</guid>
+    </item>
+    <item>
+      <title>Machine Learning Potentials with the Iterative Boltzmann Inversion: Training to Experiment</title>
+      <link>https://doi.org/10.1021/acs.jctc.3c01051</link>
+      <description>Sakib Matin, Alice Allen, Justin S. Smith, Nicholas Lubbers, Ryan B. Jadrich, Richard A. Messerly, Benjamin Nebgen, Ying Wai Li, Sergei Tretiak, Kipton Barros, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4391464120
+
+                Methodologies for training machine learning potentials (MLPs) with quantum-mechanical simulation data have recently seen tremendous progress. Experimental data have a very different character than simulated data, and most MLP training procedures cannot be easily adapted to incorporate both types of data into the training process. We investigate a training procedure based on iterative Boltzmann inversion that produces a pair potential correction to an existing MLP using equilibrium radial distribution function data. By applying these corrections to an MLP for pure aluminum based on density functional theory, we observe that the resulting model largely addresses previous overstructuring in the melt phase. Interestingly, the corrected MLP also exhibits improved performance in predicting experimental diffusion constants, which are not included in the training procedure. The presented method does not require autodifferentiating through a molecular dynamics solver and does not make assumptions about the MLP architecture. Our results suggest a practical framework for incorporating experimental data into machine learning models to improve the accuracy of molecular dynamics simulations.</description>
+      <author>Sakib Matin, Alice Allen, Justin S. Smith, Nicholas Lubbers, Ryan B. Jadrich, Richard A. Messerly, Benjamin Nebgen, Ying Wai Li, Sergei Tretiak, Kipton Barros</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01051</guid>
+    </item>
+    <item>
+      <title>Understanding the Interplay of the Br&#248;nsted Acidity of Catalyst Ancillary Groups and the Solution Components in Iron-porphyrin-Mediated Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1021/jacs.3c10127</link>
+      <description>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4391464343
+
+                The rapid and efficient conversion of carbon dioxide (CO2) to carbon monoxide (CO) is an ongoing challenge. Catalysts based on iron-porphyrin cores have emerged as excellent electrochemical mediators of the two proton + two electron reduction of CO2 to CO, and many of the design features that promote function are known. Of those design features, the incorporation of Br&#248;nsted acids in the second coordination sphere of the iron ion has a significant impact on catalyst turnover kinetics. The Br&#248;nsted acids are often in the form of hydroxyphenyl groups. Herein, we explore how the acidity of an ancillary 2-hydroxyphenyl group affects the performance of CO2 reduction electrocatalysts. A series of meso-5,10,15,20-tetraaryl porphyrins were prepared where only the functional group at the 5-meso position has an ionizable proton. A series of cyclic voltammetry (CV) experiments reveal that the complex with &#8722;OMe positioned para to the ionizable &#8722;OH shows the largest CO2 reduction rate constants in acetonitrile solvent. This is the least acidic &#8722;OH of the compounds surveyed. The turnover frequency of the &#8722;OMe derivative can be further improved with the addition of 4-trifluoromethylphenol to the solution. In contrast, the iron-porphyrin complex with &#8722;CF3 positioned opposite the ionizable &#8722;OH shows the smallest CO2 reduction rate constants, and its turnover frequency is less enhanced with the addition of phenols to the reaction solutions. The origin of this effect is rationalized based on kinetic isotope effect experiments and density functional calculations. We conclude that catalysts with weaker internal acids coupled with stronger external acid additives provide superior CO2 reduction kinetics.</description>
+      <author>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c10127</guid>
+    </item>
+    <item>
+      <title>Computational Screening of Suitable Adatom to Enhance CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction on Noble-Metal Based Dual-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c05794</link>
+      <description>Sourav Ghoshal, Pranab Sarkar, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4391469208
+
+                In this work, we have employed first-principles density functional theory (DFT) to account for the comparative efficiency of TiO2 and g-CN supported Ru2 and Rh2 dual-atom catalysts (DACs) for electrochemical CO2 reduction reactions (CO2RRs). Based on DFT calculations, g-CN supported DACs were found to have superior stability and CO2 reduction activity than that of TiO2 supported DACs. However, Ru2@g-CN and Rh2@g-CN double atom catalysts suffer from poor selectivity, as the competitive hydrogen evolution reaction (HER) is likely to occur more favorably than that of CO2RR. Here, we have revealed that the replacement of one noble metal by an earth-abundant transition metal can boost the selectivity of CO2RRs, while inhibiting the HER. In search of a highly selective and low-cost noble-metal based CO2 reduction catalyst, we have designed a series of g-CN supported heteronuclear MRu (M = Sc&#8211;Zn) dimers and performed a systematic computational screening to identify a suitable adatom (M), which drastically improves the selectivity. Based on the evaluation of stability, activity, and selectivity, VRu@g-CN is finally identified as the best candidate, with the lowest limiting potential of &#8722;0.11 V and a high theoretical Faradaic efficiency of 99.57%.</description>
+      <author>Sourav Ghoshal, Pranab Sarkar</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c05794</guid>
+    </item>
+    <item>
+      <title>Double&#8208;Walled Tubular Heusler&#8208;Type Platinum&#8211;Ruthenium Phosphide as All&#8208;pH Hydrogen Evolution Reaction Catalyst Outperforming Platinum and Ruthenium</title>
+      <link>https://doi.org/10.1002/aenm.202304269</link>
+      <description>Yong-Ju Hong, Seong Chan Cho, S.H. Kim, Haneul Jin, Jae Hun Seol, Tae Kyung Lee, Jungho Ryu, Gracita M. Tomboc, Taekyung Kim, Hionsuck Baik, Changhyeok Choi, Jinhyoung Jo, Sangyeon Jeong, Eunsoo Lee, Yousung Jung, Docheon Ahn, Yong&#8208;Tae Kim, Sung Jong Yoo, Sang Uck Lee, Kwangyeol Lee, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4391476925
+
+                Abstract Nanostructured ionic compounds have driven major technological advancements in displays, photovoltaics, and catalysis. Current research focuses on refining the chemical composition of such compounds. In this study, a strategy for creating stoichiometrically well&#8208;defined nanoscale multiple&#8208;cation systems, where the atomically precise structure maximizes the synergistic cooperation between cations at the atomic scale is reported. The unprecedented construction of Heusler&#8208;type PtRuP 2 double&#8208;walled nanotubes through sequential anion/cation exchange reactions is demonstrated. The PtRuP 2 catalyst exhibits record&#8208;high catalytic performance and durability for the hydrogen evolution reaction (HER) in alkaline electrolytes and anion&#8208;exchange membrane water electrolyzers. The investigations highlight the crucial role of Pt/Ru dual centers, providing multiple active sites that accelerate the HER kinetics within a single phosphide material, in the sequential operation of H 2 O activation/dissociation at Ru and H 2 production at adjacent Pt sites. These findings open new avenues for optimizing ionic compound&#8208;based HER electrocatalysts, offering platinum&#8208;metal alternatives in acidic and alkaline media.</description>
+      <author>Yong-Ju Hong, Seong Chan Cho, S.H. Kim, Haneul Jin, Jae Hun Seol, Tae Kyung Lee, Jungho Ryu, Gracita M. Tomboc, Taekyung Kim, Hionsuck Baik, Changhyeok Choi, Jinhyoung Jo, Sangyeon Jeong, Eunsoo Lee, Yousung Jung, Docheon Ahn, Yong&#8208;Tae Kim, Sung Jong Yoo, Sang Uck Lee, Kwangyeol Lee</author>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304269</guid>
+    </item>
+    <item>
+      <title>Insight into Selectivity Differences of Glycerol Electro-Oxidation on Pt(111) and Ag(111)</title>
+      <link>https://doi.org/10.1021/acscatal.3c05551</link>
+      <description>Zhongjie Meng, David Tran, Johan Hjelm, Henrik H. Kristoffersen, Jan Rossmeisl, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391484173
+
+                Electro-oxidation is a way to utilize glycerol, a byproduct of biodiesel production, to produce fuels and feedstock chemicals for the chemical industry. A significant challenge is to get products with high selectivity, so it is desirable to understand the glycerol oxidation mechanisms in further detail. Using density functional theory calculations, we investigated possible glycerol oxidation intermediates on Pt(111) and Ag(111). We find that the different adsorption preferences of the intermediates on Pt (adsorption via carbon atoms) and Ag (adsorption via oxygen atoms) lead to different preferred reaction pathways, resulting in different products. The reaction pathways on both surfaces involve glyceraldehyde as a key intermediate; however, upon further oxidation, Pt(111) preferentially produces glyceric acid (CH2OH&#8211;CHOH&#8211;COOH), while on Ag(111) C&#8211;C bonds are broken, which leads to the production of glycolaldehyde and formic acid (CH2OH&#8211;CHO and HCOOH). These predictions agree well with the experimental outcome of the electro-oxidation of glycerol on Pt and Ag surfaces. Our study therefore provides useful insights for optimizing the selectivity of glycerol oxidation and improving the utilization of glycerol.</description>
+      <author>Zhongjie Meng, David Tran, Johan Hjelm, Henrik H. Kristoffersen, Jan Rossmeisl</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05551</guid>
     </item>
     <item>
       <title>Systematic screening of transition-metal-doped hydroxyapatite for efficient photocatalytic CO2 reduction</title>
