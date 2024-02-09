@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Feb 2024 00:43:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 00:42:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Characterization and comparison of human and mouse milk cells</title>
-      <link>https://doi.org/10.1371/journal.pone.0297821</link>
-      <description>Rose Doerfler, Saigopalakrishna S. Yerneni, Alexandra N. Newby, Namit Chaudhary, Ashley Shu, Katherine C. Fein, Juliana H. Azambuja, Kathryn A. Whitehead, PLOS ONE. 19(1)] 2024. https://openalex.org/W4391381333
-
-                Recent data has characterized human milk cells with unprecedented detail and provided insight into cell populations. While such analysis of freshly expressed human milk has been possible, studies of cell functionality within the infant have been limited to animal models. One commonly used animal model for milk research is the mouse; however, limited data are available describing the composition of mouse milk. In particular, the maternal cells of mouse milk have not been previously characterized in detail, in part due to the difficulty in collecting sufficient volumes of mouse milk. In this study, we have established a method to collect high volumes of mouse milk, isolate cells, and compare the cell counts and types to human milk. Surprisingly, we found that mouse milk cell density is three orders of magnitude higher than human milk. The cell types present in the milk of mice and humans are similar, broadly consisting of mammary epithelial cells and immune cells. These results provide a basis of comparison for mouse and human milk cells and will inform the most appropriate uses of mouse models for the study of human phenomena.</description>
-      <author>Rose Doerfler, Saigopalakrishna S. Yerneni, Alexandra N. Newby, Namit Chaudhary, Ashley Shu, Katherine C. Fein, Juliana H. Azambuja, Kathryn A. Whitehead</author>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0297821</guid>
-    </item>
-    <item>
-      <title>Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow</title>
-      <link>https://doi.org/10.1016/j.ijepes.2023.109741</link>
-      <description>Jordan Jalving, Michael Eydenberg, Logan Blakely, Anya Castillo, Zachary Kilwein, J. Kyle Skolfield, Fani Boukouvala, Carl D. Laird, International Journal of Electrical Power &amp; Energy Systems. 157(None)] 2024. https://openalex.org/W4391418533
-
-                This manuscript presents a complete framework for the development and verification of physics-informed neural networks with application to the alternating-current power flow (ACPF) equations. Physics-informed neural networks (PINN)s have received considerable interest within power systems communities for their ability to harness underlying physical equations to produce simple neural network architectures that achieve high accuracy using limited training data. The methodology developed in this work builds on existing methods and explores new important aspects around the implementation of PINNs including: (i) obtaining operationally relevant training data, (ii) efficiently training PINNs and using pruning techniques to reduce their complexity, and (iii) globally verifying the worst-case predictions given known physical constraints. The methodology is applied to the IEEE-14 and 118 bus systems where PINNs show substantially improved accuracy in a data-limited setting and attain better guarantees with respect to worst-case predictions.</description>
-      <author>Jordan Jalving, Michael Eydenberg, Logan Blakely, Anya Castillo, Zachary Kilwein, J. Kyle Skolfield, Fani Boukouvala, Carl D. Laird</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijepes.2023.109741</guid>
-    </item>
     <item>
       <title>A mixed integer linear programming approach for the design of chemical process families</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108620</link>

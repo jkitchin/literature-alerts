@@ -1,53 +1,11 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Feb  8 00:43:10 2024
+Created on Fri Feb  9 00:42:52 2024
 
-Found 4 results from 2024-02-01 to 2024-02-08
+Found 2 results from 2024-02-02 to 2024-02-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Characterization and comparison of human and mouse milk cells  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:ID: https://openalex.org/W4391381333
-:TOPICS: Composition and Health Effects of Human Milk, Immunological Mechanisms in Pregnancy and Fetal-Maternal Interface, MicroRNA Regulation in Cancer and Development
-:PUBLICATION_DATE: 2024-01-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1371/journal.pone.0297821")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391381333"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391381333"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391381333"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391381333 (Open access: True)
-    
-[[https://openalex.org/A5050347382][Rose Doerfler]], [[https://openalex.org/A5075263409][Saigopalakrishna S. Yerneni]], [[https://openalex.org/A5080909957][Alexandra N. Newby]], [[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5080914057][Ashley Shu]], [[https://openalex.org/A5087199847][Katherine C. Fein]], [[https://openalex.org/A5040413965][Juliana H. Azambuja]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], PLOS ONE. 19(1)] 2024. https://doi.org/10.1371/journal.pone.0297821  ([[https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0297821&type=printable][pdf]])
-     
-Recent data has characterized human milk cells with unprecedented detail and provided insight into cell populations. While such analysis of freshly expressed human milk has been possible, studies of cell functionality within the infant have been limited to animal models. One commonly used animal model for milk research is the mouse; however, limited data are available describing the composition of mouse milk. In particular, the maternal cells of mouse milk have not been previously characterized in detail, in part due to the difficulty in collecting sufficient volumes of mouse milk. In this study, we have established a method to collect high volumes of mouse milk, isolate cells, and compare the cell counts and types to human milk. Surprisingly, we found that mouse milk cell density is three orders of magnitude higher than human milk. The cell types present in the milk of mice and humans are similar, broadly consisting of mammary epithelial cells and immune cells. These results provide a basis of comparison for mouse and human milk cells and will inform the most appropriate uses of mouse models for the study of human phenomena.    
-
-    
-
-* Physics-informed machine learning with optimization-based guarantees: Applications to AC power flow  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:ID: https://openalex.org/W4391418533
-:TOPICS: Physics-Informed Neural Networks for Scientific Computing, Power System Stability and Control Analysis, Vortex-Induced Vibrations in Fluid Flow
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijepes.2023.109741")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391418533"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391418533"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391418533"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391418533 (Open access: True)
-    
-[[https://openalex.org/A5029553393][Jordan Jalving]], [[https://openalex.org/A5061248955][Michael Eydenberg]], [[https://openalex.org/A5017102691][Logan Blakely]], [[https://openalex.org/A5007259749][Anya Castillo]], [[https://openalex.org/A5078112906][Zachary Kilwein]], [[https://openalex.org/A5077996853][J. Kyle Skolfield]], [[https://openalex.org/A5075167781][Fani Boukouvala]], [[https://openalex.org/A5030631754][Carl D. Laird]], International Journal of Electrical Power & Energy Systems. 157(None)] 2024. https://doi.org/10.1016/j.ijepes.2023.109741 
-     
-This manuscript presents a complete framework for the development and verification of physics-informed neural networks with application to the alternating-current power flow (ACPF) equations. Physics-informed neural networks (PINN)s have received considerable interest within power systems communities for their ability to harness underlying physical equations to produce simple neural network architectures that achieve high accuracy using limited training data. The methodology developed in this work builds on existing methods and explores new important aspects around the implementation of PINNs including: (i) obtaining operationally relevant training data, (ii) efficiently training PINNs and using pruning techniques to reduce their complexity, and (iii) globally verifying the worst-case predictions given known physical constraints. The methodology is applied to the IEEE-14 and 118 bus systems where PINNs show substantially improved accuracy in a data-limited setting and attain better guarantees with respect to worst-case predictions.    
-
-    
 
 * A mixed integer linear programming approach for the design of chemical process families  :CMU_Chemical_Engineering:
 :PROPERTIES:
