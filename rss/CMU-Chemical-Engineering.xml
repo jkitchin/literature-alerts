@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:42:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Victor Alves, San Dinh, John R. Kitchin, Vitor Gazzaneo, Juan C. Carrasco, Fernando V. Lima</author>
       <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21105/joss.05966</guid>
+    </item>
+    <item>
+      <title>Ligand binding kinetics of A2AR nanodiscs using fluorescence anisotropy</title>
+      <link>https://doi.org/10.1016/j.bpj.2023.11.2084</link>
+      <description>John M. Pettersen, Anne S. Robinson, Biophysical Journal. 123(3)] 2024. https://openalex.org/W4391636753
+
+                G-protein-coupled receptors (GPCRs) make up the largest group of membrane proteins in the human body. Due to their favorable location in the cell membrane, GPCRs are extremely important drug targets, making up around 35% of all FDA-approved drugs. When a ligand binds to the extracellular portion of the GPCR, the protein undergoes a conformational change leading to a downstream signaling cascade that ultimately leads to a physiological change within the cell. Designing ligands to bind to a specific receptor, while also causing the desired physiological changes to occur, is an extremely challenging process. It has been suggested that early determination of ligand binding kinetics, such as, kon, koff, and drug-target residence time (RT) can aid in this design process over just equilibrium measurements. In this work we aimed to determine binding kinetics for labeled and unlabeled ligands using fluorescent anisotropy for the adenosine receptor (A2AR) that had been purified into nanodiscs, a lipid bilayer mimic, while also aiming to characterize nanodiscs as an improved method for evaluating membrane proteins. We determined fluorescent anisotropy serves as an easy and excellent method for determining ligand binding kinetics. We also determined nanodiscs improved the accuracy of ligand binding kinetics for both tracer and unlabeled ligands, increased receptor thermo- and kinetic stability compared to traditional micelle purification. These findings should facilitate further drug development for this class of receptors.</description>
+      <author>John M. Pettersen, Anne S. Robinson</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.bpj.2023.11.2084</guid>
     </item>
   </channel>
 </rss>

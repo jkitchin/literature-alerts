@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:42:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Zhuanzhuan Zhai, Lifen Long, Xinpeng Che, Bailang Zhang, Ting Wang, Mingjie Li, Chaoxu Li</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149402</guid>
+    </item>
+    <item>
+      <title>Carbon Dioxide Reduction on Alloyed Galinstan</title>
+      <link>https://doi.org/10.1149/ma2023-02472400mtgabs</link>
+      <description>Aya Gomaa Abdelkader Mohamed, Peter Bogdanoff, ECS Meeting Abstracts. MA2023-02(47)] 2023. https://openalex.org/W4391663508
+
+                Solar powered electrochemical CO&#8322; reduction to disposable products is presently being developed as one of negative carbon emission technologies 1 . State-of-the-art electrocatalysts are mainly developed for the CO 2 reduction to hydrogen rich products or chemical feedstock materials while for the above-mentioned application solid carbon-rich products are desired (best pure carbon). Even though the formation of solid products is sometimes observed on catalysts (coking effect), this usually leads to an undesirable irreversible deactivation of their solid interfaces. Thus, the development of next generation CO 2 electrocatalysts is demanded based on liquid metal alloys such as galinstan (GaInSn). The advantage of using liquid phase electrodes is to eliminate coking and coarsening limitations that are associated with solid catalysts. For example, it has been reported that ceria-supported liquid galinstan can electrochemically produce carbonaceous materials from CO 2 gas 2 . This shows, that doping with additional active elements can change the CO 2 reduction activity of GaInSn in the direction of other desired products. Our work investigates the activity of galinstan for the electroreduction of CO 2 depending on alloying with additional metals (such as Ce, Ag, Pb). While pure GaInSn shows a predominant activity for the formation of C1 products (CO, HCOOH) in DMF/H 2 O electrolyte, we are mainly interested in the formation of solid carbon or oxalate. Therefore, our investigations aim at finding suitable modifications of GaInSn that achieve high selectivity for these products. Electrochemical analysis coupled with in-line gas chromatography and in-line mass spectroscopy are used to characterize the reactivity. Furthermore, the influence of the water content of the organic electrolyte on the product selectivity will be investigated. In particular, to suppress the observed low hydrogen evolution as a by-product even more efficiently. May, M. M.; Rehfeld, K., Negative Emissions as the New Frontier of Photoelectrochemical CO 2 Reduction. Advanced Energy Materials 2022, 2103801. Esrafilzadeh, D.; Zavabeti, A.; Jalili, R.; Atkin, P.; Choi, J.; Carey, B. J.; Brklja&#269;a, R.; O&#8217;Mullane, A. P.; Dickey, M. D.; Officer, D. L.; MacFarlane, D. R.; Daeneke, T.; Kalantar-Zadeh, K., Room Temperature CO 2 Reduction to Solid Carbon Species on Liquid Metals Featuring Atomically Thin Ceria Interfaces. Nature Communications 2019, 10 (1), 865. Figure 1</description>
+      <author>Aya Gomaa Abdelkader Mohamed, Peter Bogdanoff</author>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02472400mtgabs</guid>
     </item>
     <item>
       <title>Reflections in search of faculty positions in China</title>

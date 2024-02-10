@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Fri Feb  9 00:42:50 2024
+Created on Sat Feb 10 00:42:25 2024
 
-Found 3 results from 2024-02-02 to 2024-02-09
+Found 4 results from 2024-02-03 to 2024-02-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
@@ -25,6 +25,17 @@ Open access: False
 [Zhuanzhuan Zhai](https://openalex.org/A5044168364), [Lifen Long](https://openalex.org/A5075382752), [Xinpeng Che](https://openalex.org/A5007919285), [Bailang Zhang](https://openalex.org/A5077866958), [Ting Wang](https://openalex.org/A5068080767), [Mingjie Li](https://openalex.org/A5061288330), [Chaoxu Li](https://openalex.org/A5037967189), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149402.
     
 Extraction of aqueous uranium element for practical applications has drawn growing attention due to its significance for both green energy acquirement and ecological environment remediation. Herein, the liquid metal droplets produced by a facile ultra-sonication process are found to be able to capture aqueous uranyl ions with a maximal adsorption capacity up to 237 mg g−1 (1483 mg cm−3), and further to reduce them into insoluble UO2 nanoparticles (2–5 nm in diameter). With the homogeneous immobilization of UO2 nanoparticles, the ultra-thin shell of liquid metal droplets exhibits a high catalytic activity towards electrochemical reductions e.g., CO2 reduction. The liquid metal core, when supporting on the electrodes, also offers the efficient electro-transporting pathway for electrochemical reaction. With a high formate selectivity, a faradaic efficiency ≥91.4 % and a generation rate as high as 988.9 mmol g−1h−1 of C1 products (i.e., CO and formate) are achieved in the CO2 reduction. Thus, this study may offer not only a unique platform of liquid metal nanodroplets for extracting uranium from water, but also a novel route of fabricating high-efficiency electrochemical catalysts for CO2 conversion.    
+
+    
+
+## Carbon Dioxide Reduction on Alloyed Galinstan   
+
+OpenAlex: https://openalex.org/W4391663508    
+Open access: False
+    
+[Aya Gomaa Abdelkader Mohamed](https://openalex.org/A5059375955), [Peter Bogdanoff](https://openalex.org/A5017548688), ECS Meeting Abstracts. MA2023-02(47)] 2023.https://doi.org/10.1149/ma2023-02472400mtgabs.
+    
+Solar powered electrochemical CO₂ reduction to disposable products is presently being developed as one of negative carbon emission technologies 1 . State-of-the-art electrocatalysts are mainly developed for the CO 2 reduction to hydrogen rich products or chemical feedstock materials while for the above-mentioned application solid carbon-rich products are desired (best pure carbon). Even though the formation of solid products is sometimes observed on catalysts (coking effect), this usually leads to an undesirable irreversible deactivation of their solid interfaces. Thus, the development of next generation CO 2 electrocatalysts is demanded based on liquid metal alloys such as galinstan (GaInSn). The advantage of using liquid phase electrodes is to eliminate coking and coarsening limitations that are associated with solid catalysts. For example, it has been reported that ceria-supported liquid galinstan can electrochemically produce carbonaceous materials from CO 2 gas 2 . This shows, that doping with additional active elements can change the CO 2 reduction activity of GaInSn in the direction of other desired products. Our work investigates the activity of galinstan for the electroreduction of CO 2 depending on alloying with additional metals (such as Ce, Ag, Pb). While pure GaInSn shows a predominant activity for the formation of C1 products (CO, HCOOH) in DMF/H 2 O electrolyte, we are mainly interested in the formation of solid carbon or oxalate. Therefore, our investigations aim at finding suitable modifications of GaInSn that achieve high selectivity for these products. Electrochemical analysis coupled with in-line gas chromatography and in-line mass spectroscopy are used to characterize the reactivity. Furthermore, the influence of the water content of the organic electrolyte on the product selectivity will be investigated. In particular, to suppress the observed low hydrogen evolution as a by-product even more efficiently. May, M. M.; Rehfeld, K., Negative Emissions as the New Frontier of Photoelectrochemical CO 2 Reduction. Advanced Energy Materials 2022, 2103801. Esrafilzadeh, D.; Zavabeti, A.; Jalili, R.; Atkin, P.; Choi, J.; Carey, B. J.; Brkljača, R.; O’Mullane, A. P.; Dickey, M. D.; Officer, D. L.; MacFarlane, D. R.; Daeneke, T.; Kalantar-Zadeh, K., Room Temperature CO 2 Reduction to Solid Carbon Species on Liquid Metals Featuring Atomically Thin Ceria Interfaces. Nature Communications 2019, 10 (1), 865. Figure 1    
 
     
 

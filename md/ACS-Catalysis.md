@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Feb  9 00:42:51 2024
+Created on Sat Feb 10 00:42:27 2024
 
-Found 25 results from 2024-02-02 to 2024-02-09
+Found 25 results from 2024-02-03 to 2024-02-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Catalytic Reduction of CO2 to CO by a Single-Site Heterobimetallic Iron–Potassium Complex Supported on Alumina   
-
-OpenAlex: https://openalex.org/W4391449260    
-Open access: False
-    
-[A. A. Isah](https://openalex.org/A5062083258), [Oluwatosin A Ohiro](https://openalex.org/A5090881499), [Li Li](https://openalex.org/A5027475930), [Y. Nasiru](https://openalex.org/A5013535790), [Kaï C. Szeto](https://openalex.org/A5019349020), [Pierre‐Yves Dugas](https://openalex.org/A5052522375), [Anass Benayad](https://openalex.org/A5039985056), [Aimery De Mallmann](https://openalex.org/A5024002693), [Susannah L. Scott](https://openalex.org/A5029871622), [Bryan R. Goldsmith](https://openalex.org/A5026770434), [Mostafa Taoufik](https://openalex.org/A5032643129), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04989.
-    
-CO2 has attracted much attention as a C1 feedstock for synthetic fuels via its selective catalytic hydrogenation to liquid hydrocarbons. One strategy is the catalytic reduction of CO2 to CO through the reverse water–gas shift (RWGS) reaction, followed by the hydrogenation of CO. In this work, potassium tris(tert-butoxy)ferrate, [{(THF)2KFe(OtBu)3}2], was supported on alumina that had been partially dehydroxylated at 500 °C (Al2O3–500), and the resulting catalyst was investigated in the selective reduction of CO2 to CO. The active site precursor was identified as [(THF)K(AlsO)Fe(OtBu)2(OHAl)] (i.e., [(THF)KFe(OtBu)2]/Al2O3–500), denoted 2-K, based on elemental analysis, diffuse reflectance infrared Fourier transform (DRIFT) spectroscopy, scanning electron microscopy with energy-dispersive X-ray spectroscopy (high-resolution transmission electron microscopy (HRTEM) and EDS), X-ray photoelectron spectroscopy, and X-ray absorption spectroscopy. Under the reaction conditions, the precursor becomes an active, stable, and selective RWGS catalyst (100% selectivity to CO at 22.5% CO2 conversion). The reaction mechanism was studied by operando DRIFT spectroscopy and density functional theory (DFT) modeling. The results are consistent with a mechanism involving H2 activation by K[(AlsO)2FeOH], leading to K[(AlsO)2FeH]. CO2 insertion gives hydroxycarbonyl intermediate K[(AlsO)2FeCOOH], followed by liberation of CO to regenerate K[(AlsO)2FeOH].    
-
-    
-
-## Overturning CO2 Hydrogenation Selectivity via Strong Metal–Support Interaction   
-
-OpenAlex: https://openalex.org/W4391449336    
-Open access: False
-    
-[Wenzhe Zhang](https://openalex.org/A5068495374), [Hui Lin](https://openalex.org/A5073828443), [Wei Yao](https://openalex.org/A5087759183), [Xuan Zhou](https://openalex.org/A5057214714), [Yunlei An](https://openalex.org/A5016992819), [Yuanyuan Dai](https://openalex.org/A5029828499), [Qiang Niu](https://openalex.org/A5072202821), [Tiejun Lin](https://openalex.org/A5090614196), [Liangshu Zhong](https://openalex.org/A5022840101), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05527.
-    
-Strong metal–support interaction (SMSI) is commonly observed for platinum-group metals on reducible oxide supports upon a high-temperature reduction (≥500 °C). Herein, we show that the SMSI state can be constructed over a Ru/anatase-TiO2 catalyst using the CO2 hydrogenation reaction gas at a low temperature of ∼210 °C, which could overturn the CO2 hydrogenation selectivity from 100% CH4 to >99% CO. It is revealed that the exposed metallic Ru nanoparticles promote CH4 formation via formate intermediates at temperatures <200 °C. Elevating the temperature under a H2-containing atmosphere causes the evolution of active TiOx suboxide to form an encapsulated structure of Ru@TiOx, which changes the surface intermediate from formate to carboxy species during CO2 hydrogenation, thus leading to exclusive CO formation with long-term catalytic stability. The O2-containing gas treatment of encapsulated Ru@TiOx could achieve the cyclic switch of product selectivity between CO and CH4. This work provides an effective strategy to modulate the SMSI state at a very low temperature.    
-
-    
-
-## Recent Advances in Theoretical Studies on Cu-Mediated Bond Formation Mechanisms Involving Radicals   
-
-OpenAlex: https://openalex.org/W4391451464    
-Open access: False
-    
-[Ji-Ren Liu](https://openalex.org/A5088854097), [Guo-Xiong Xu](https://openalex.org/A5022942675), [Li-Gao Liu](https://openalex.org/A5076035934), [Shuo‐Qing Zhang](https://openalex.org/A5049010282), [Xin Hong](https://openalex.org/A5009790777), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06042.
-    
-Copper-catalyzed radical transformations establish a powerful toolkit to construct versatile complex organic compounds. The copper-mediated bond formation step of radicals plays a critical role in controlling chemo- and stereoselectivity of copper-catalyzed radical transformation reactions. This bond formation step involves three possible pathways: ion-type bond formation, radical substitution, and reductive elimination. This review highlights the recent advances in theoretical studies on mechanisms and controlling models on the selectivity of Cu-mediated radical-involved bond formation, providing a general mechanistic comprehension of this key elementary step in copper catalysis.    
-
-    
 
 ## Unlocking the Potential of 5-Hydroxy-2(5H)-furanone as a Platform for Bio-Based Four Carbon Chemicals   
 
@@ -278,5 +245,38 @@ Open access: False
 [Soroush Almassi](https://openalex.org/A5013585682), [Changxu Ren](https://openalex.org/A5049156632), [Naveen Dandu](https://openalex.org/A5043270824), [Anh T. Ngo](https://openalex.org/A5038104182), [Jinyong Liu](https://openalex.org/A5037074212), [Brian P. Chaplin](https://openalex.org/A5074898160), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05680.
     
 Developing a stable and active catalyst for ClO4– reduction at nonacidic pH has presented a significant challenge to the catalysis field. Previous research has demonstrated that by depositing an organometallic Re catalyst onto a Ti4O7 support (Re/Ti4O7), it was possible to stabilize the catalyst and obtain active electrocatalytic ClO4– reduction at circumneutral pH. Thus, the focus of this work was on elucidating the mechanisms of electrocatalytic ClO4– reduction in water with the Re/Ti4O7 system. Density functional theory (DFT) simulations indicated that the adsorption of the Re catalyst was exothermic on Ti4O7, and X-ray photoelectron spectroscopy (XPS) characterization indicated that Re adsorption caused a net reduction of the Ti oxidation state on the Ti4O7 surface. After ClO4– reduction experiments, XPS results indicated the presence of Ti(0)/Ti(II) surface sites. Cyclic voltammetry experiments in an acetonitrile solvent provided supporting evidence that these surface sites were electroactive and likely participated in the ClO4– reduction reaction. Analysis of batch reduction experiments in acetonitrile via kinetic modeling estimated a catalyst turnover number of 332 ± 23, which provided further evidence that the reduced Ti sites could regenerate the Re catalyst. However, these reduced Ti sites were finite in number and required the production of adsorbed hydrogen via water reduction to facilitate continuous ClO4– reduction. DFT results indicated that the reduction of ClO4– to Cl– was exothermic and that reduced Ti sites participated in the reduction reaction. The experimental and DFT results allowed a preliminary mechanism for ClO4– reduction on Re/Ti4O7 to be proposed.    
+
+    
+
+## Red-Light-Based Effective Photocatalysis of a Photosensitive Covalent Organic Framework Triggered Singlet Oxygen   
+
+OpenAlex: https://openalex.org/W4391576893    
+Open access: False
+    
+[Kaijun Niu](https://openalex.org/A5019310869), [Tian‐Xiang Luan](https://openalex.org/A5024278129), [Jing Chen](https://openalex.org/A5040232281), [Hui Liu](https://openalex.org/A5044301848), [Ling‐Bao Xing](https://openalex.org/A5011669276), [Pei‐Zhou Li](https://openalex.org/A5056554030), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05454.
+    
+The direct application of low-energy red light for photochemical transformations is synthetically appealing but practically challenging. Covalent organic frameworks (COFs) exhibit significant potential within this domain, owing to their broad spectrum of absorption and their prevalence in photochemical reactions, despite the fact that these photocatalysts are now mainly focused on using ultraviolet (UV) and blue light. In this study, an imidazole-linked porphyrin-based COF, PyPor-COF, which exhibits a wide absorption band ranging from 200 to 700 nm, especially strong red light absorption from 630 to 700 nm, is expected to be applied in red light photocatalytic reactions. PyPor-COF possesses the capacity to selectively generate singlet oxygen (1O2) with a high efficiency, which renders it an efficient photosensitizer for photocatalytic reactions of olefin cleavages and thioanisole photooxidation under red light. The present study demonstrates the intriguing prospect of photoactive COFs with red light absorption as a type II photosensitizer with high potential for utilization in red light photocatalyses.    
+
+    
+
+## Mechanochemical Coupling of Catalysis and Motion in a Cellulose-Degrading Multienzyme Nanomachine   
+
+OpenAlex: https://openalex.org/W4391578933    
+Open access: True
+    
+[Krisztina Zajki-Zechmeister](https://openalex.org/A5006514846), [Manuel Eibinger](https://openalex.org/A5083353886), [Gaurav Singh Kaira](https://openalex.org/A5004942064), [Bernd Nidetzky](https://openalex.org/A5051203357), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05653 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05653)).
+    
+The cellulosome is a megadalton-size protein complex that functions as a biological nanomachine of cellulosic fiber degradation. We show that the cellulosome behaves as a Brownian ratchet that rectifies protein motions on the cellulose surface into a propulsion mechanism by coupling to the hydrolysis of cellulose chains. Movement on cellulose fibrils is unidirectional and results from “macromolecular crawl” composed of dynamic switches between elongated and compact spatial arrangements of enzyme subunits. Deletion of the main exocellulase Cel48S eliminates conformational bias for aligning the subunits to the long fibril axis, which we reveal as crucial for optimum coupling between directional movement and substrate degradation. Implications of the cellulosome acting as a mechanochemical motor suggest a distinct mechanism of enzymatic machinery in the deconstruction of cellulose assemblies.    
+
+    
+
+## Mechanism and Kinetics of Propane and n-Butane Dehydrogenation over Isolated and Nested ≡SiOZn–OH Sites Grafted onto Silanol Nests of Dealuminated Beta Zeolite   
+
+OpenAlex: https://openalex.org/W4391593970    
+Open access: False
+    
+[Y. Zhang](https://openalex.org/A5054856418), [Liang Qi](https://openalex.org/A5071668095), [Danna Nozik](https://openalex.org/A5000365597), [Chaochao Dun](https://openalex.org/A5062045086), [Jeffrey J. Urban](https://openalex.org/A5007458786), [Alexis T. Bell](https://openalex.org/A5087957929), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05605.
+    
+No abstract    
 
     

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 00:42:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Catalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt; to CO by a Single-Site Heterobimetallic Iron&#8211;Potassium Complex Supported on Alumina</title>
-      <link>https://doi.org/10.1021/acscatal.3c04989</link>
-      <description>A. A. Isah, Oluwatosin A Ohiro, Li Li, Y. Nasiru, Ka&#239; C. Szeto, Pierre&#8208;Yves Dugas, Anass Benayad, Aimery De Mallmann, Susannah L. Scott, Bryan R. Goldsmith, Mostafa Taoufik, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391449260
-
-                CO2 has attracted much attention as a C1 feedstock for synthetic fuels via its selective catalytic hydrogenation to liquid hydrocarbons. One strategy is the catalytic reduction of CO2 to CO through the reverse water&#8211;gas shift (RWGS) reaction, followed by the hydrogenation of CO. In this work, potassium tris(tert-butoxy)ferrate, [{(THF)2KFe(OtBu)3}2], was supported on alumina that had been partially dehydroxylated at 500 &#176;C (Al2O3&#8211;500), and the resulting catalyst was investigated in the selective reduction of CO2 to CO. The active site precursor was identified as [(THF)K(AlsO)Fe(OtBu)2(OHAl)] (i.e., [(THF)KFe(OtBu)2]/Al2O3&#8211;500), denoted 2-K, based on elemental analysis, diffuse reflectance infrared Fourier transform (DRIFT) spectroscopy, scanning electron microscopy with energy-dispersive X-ray spectroscopy (high-resolution transmission electron microscopy (HRTEM) and EDS), X-ray photoelectron spectroscopy, and X-ray absorption spectroscopy. Under the reaction conditions, the precursor becomes an active, stable, and selective RWGS catalyst (100% selectivity to CO at 22.5% CO2 conversion). The reaction mechanism was studied by operando DRIFT spectroscopy and density functional theory (DFT) modeling. The results are consistent with a mechanism involving H2 activation by K[(AlsO)2FeOH], leading to K[(AlsO)2FeH]. CO2 insertion gives hydroxycarbonyl intermediate K[(AlsO)2FeCOOH], followed by liberation of CO to regenerate K[(AlsO)2FeOH].</description>
-      <author>A. A. Isah, Oluwatosin A Ohiro, Li Li, Y. Nasiru, Ka&#239; C. Szeto, Pierre&#8208;Yves Dugas, Anass Benayad, Aimery De Mallmann, Susannah L. Scott, Bryan R. Goldsmith, Mostafa Taoufik</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04989</guid>
-    </item>
-    <item>
-      <title>Overturning CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Selectivity via Strong Metal&#8211;Support Interaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c05527</link>
-      <description>Wenzhe Zhang, Hui Lin, Wei Yao, Xuan Zhou, Yunlei An, Yuanyuan Dai, Qiang Niu, Tiejun Lin, Liangshu Zhong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391449336
-
-                Strong metal&#8211;support interaction (SMSI) is commonly observed for platinum-group metals on reducible oxide supports upon a high-temperature reduction (&#8805;500 &#176;C). Herein, we show that the SMSI state can be constructed over a Ru/anatase-TiO2 catalyst using the CO2 hydrogenation reaction gas at a low temperature of &#8764;210 &#176;C, which could overturn the CO2 hydrogenation selectivity from 100% CH4 to &gt;99% CO. It is revealed that the exposed metallic Ru nanoparticles promote CH4 formation via formate intermediates at temperatures &lt;200 &#176;C. Elevating the temperature under a H2-containing atmosphere causes the evolution of active TiOx suboxide to form an encapsulated structure of Ru@TiOx, which changes the surface intermediate from formate to carboxy species during CO2 hydrogenation, thus leading to exclusive CO formation with long-term catalytic stability. The O2-containing gas treatment of encapsulated Ru@TiOx could achieve the cyclic switch of product selectivity between CO and CH4. This work provides an effective strategy to modulate the SMSI state at a very low temperature.</description>
-      <author>Wenzhe Zhang, Hui Lin, Wei Yao, Xuan Zhou, Yunlei An, Yuanyuan Dai, Qiang Niu, Tiejun Lin, Liangshu Zhong</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05527</guid>
-    </item>
-    <item>
-      <title>Recent Advances in Theoretical Studies on Cu-Mediated Bond Formation Mechanisms Involving Radicals</title>
-      <link>https://doi.org/10.1021/acscatal.3c06042</link>
-      <description>Ji-Ren Liu, Guo-Xiong Xu, Li-Gao Liu, Shuo&#8208;Qing Zhang, Xin Hong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391451464
-
-                Copper-catalyzed radical transformations establish a powerful toolkit to construct versatile complex organic compounds. The copper-mediated bond formation step of radicals plays a critical role in controlling chemo- and stereoselectivity of copper-catalyzed radical transformation reactions. This bond formation step involves three possible pathways: ion-type bond formation, radical substitution, and reductive elimination. This review highlights the recent advances in theoretical studies on mechanisms and controlling models on the selectivity of Cu-mediated radical-involved bond formation, providing a general mechanistic comprehension of this key elementary step in copper catalysis.</description>
-      <author>Ji-Ren Liu, Guo-Xiong Xu, Li-Gao Liu, Shuo&#8208;Qing Zhang, Xin Hong</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06042</guid>
-    </item>
     <item>
       <title>Unlocking the Potential of 5-Hydroxy-2(5H)-furanone as a Platform for Bio-Based Four Carbon Chemicals</title>
       <link>https://doi.org/10.1021/acscatal.3c04872</link>
@@ -256,6 +226,36 @@
       <author>Soroush Almassi, Changxu Ren, Naveen Dandu, Anh T. Ngo, Jinyong Liu, Brian P. Chaplin</author>
       <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05680</guid>
+    </item>
+    <item>
+      <title>Red-Light-Based Effective Photocatalysis of a Photosensitive Covalent Organic Framework Triggered Singlet Oxygen</title>
+      <link>https://doi.org/10.1021/acscatal.3c05454</link>
+      <description>Kaijun Niu, Tian&#8208;Xiang Luan, Jing Chen, Hui Liu, Ling&#8208;Bao Xing, Pei&#8208;Zhou Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391576893
+
+                The direct application of low-energy red light for photochemical transformations is synthetically appealing but practically challenging. Covalent organic frameworks (COFs) exhibit significant potential within this domain, owing to their broad spectrum of absorption and their prevalence in photochemical reactions, despite the fact that these photocatalysts are now mainly focused on using ultraviolet (UV) and blue light. In this study, an imidazole-linked porphyrin-based COF, PyPor-COF, which exhibits a wide absorption band ranging from 200 to 700 nm, especially strong red light absorption from 630 to 700 nm, is expected to be applied in red light photocatalytic reactions. PyPor-COF possesses the capacity to selectively generate singlet oxygen (1O2) with a high efficiency, which renders it an efficient photosensitizer for photocatalytic reactions of olefin cleavages and thioanisole photooxidation under red light. The present study demonstrates the intriguing prospect of photoactive COFs with red light absorption as a type II photosensitizer with high potential for utilization in red light photocatalyses.</description>
+      <author>Kaijun Niu, Tian&#8208;Xiang Luan, Jing Chen, Hui Liu, Ling&#8208;Bao Xing, Pei&#8208;Zhou Li</author>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05454</guid>
+    </item>
+    <item>
+      <title>Mechanochemical Coupling of Catalysis and Motion in a Cellulose-Degrading Multienzyme Nanomachine</title>
+      <link>https://doi.org/10.1021/acscatal.3c05653</link>
+      <description>Krisztina Zajki-Zechmeister, Manuel Eibinger, Gaurav Singh Kaira, Bernd Nidetzky, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391578933
+
+                The cellulosome is a megadalton-size protein complex that functions as a biological nanomachine of cellulosic fiber degradation. We show that the cellulosome behaves as a Brownian ratchet that rectifies protein motions on the cellulose surface into a propulsion mechanism by coupling to the hydrolysis of cellulose chains. Movement on cellulose fibrils is unidirectional and results from &#8220;macromolecular crawl&#8221; composed of dynamic switches between elongated and compact spatial arrangements of enzyme subunits. Deletion of the main exocellulase Cel48S eliminates conformational bias for aligning the subunits to the long fibril axis, which we reveal as crucial for optimum coupling between directional movement and substrate degradation. Implications of the cellulosome acting as a mechanochemical motor suggest a distinct mechanism of enzymatic machinery in the deconstruction of cellulose assemblies.</description>
+      <author>Krisztina Zajki-Zechmeister, Manuel Eibinger, Gaurav Singh Kaira, Bernd Nidetzky</author>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05653</guid>
+    </item>
+    <item>
+      <title>Mechanism and Kinetics of Propane and &lt;i&gt;n&lt;/i&gt;-Butane Dehydrogenation over Isolated and Nested &#8801;SiOZn&#8211;OH Sites Grafted onto Silanol Nests of Dealuminated Beta Zeolite</title>
+      <link>https://doi.org/10.1021/acscatal.3c05605</link>
+      <description>Y. Zhang, Liang Qi, Danna Nozik, Chaochao Dun, Jeffrey J. Urban, Alexis T. Bell, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391593970
+
+                No abstract</description>
+      <author>Y. Zhang, Liang Qi, Danna Nozik, Chaochao Dun, Jeffrey J. Urban, Alexis T. Bell</author>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05605</guid>
     </item>
   </channel>
 </rss>
