@@ -1,153 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Feb 10 00:42:27 2024
+Created on Sun Feb 11 00:48:03 2024
 
-Found 25 results from 2024-02-03 to 2024-02-10
+Found 25 results from 2024-02-04 to 2024-02-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Unlocking the Potential of 5-Hydroxy-2(5H)-furanone as a Platform for Bio-Based Four Carbon Chemicals   
-
-OpenAlex: https://openalex.org/W4391472682    
-Open access: False
-    
-[Yayati Naresh Palai](https://openalex.org/A5077107342), [Atsushi Fukuoka](https://openalex.org/A5051687801), [Abhijit Shrotri](https://openalex.org/A5090337296), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04872.
-    
-No abstract    
-
-    
-
-## Revealing the Size Effect of Ceria Nanocube-Supported Platinum Nanoparticles in Complete Propane Oxidation   
-
-OpenAlex: https://openalex.org/W4391473249    
-Open access: False
-    
-[Shasha Ge](https://openalex.org/A5085640519), [Wei Fan](https://openalex.org/A5041535237), [Xiaoping Tang](https://openalex.org/A5064104167), [Yao Cui](https://openalex.org/A5027626134), [Dong Wang](https://openalex.org/A5033936824), [Xue‐Qing Gong](https://openalex.org/A5085852346), [Sheng Dai](https://openalex.org/A5031493683), [Yang Lou](https://openalex.org/A5012006645), [Jie Tang](https://openalex.org/A5034676524), [Yanglong Guo](https://openalex.org/A5080435466), [Zhan Wang](https://openalex.org/A5058391979), [Li Wang](https://openalex.org/A5059830462), [Yun Guo](https://openalex.org/A5032176049), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06139.
-    
-The elimination of propane is one of the key tasks in reducing volatile organic compounds (VOCs) and automotive exhaust emissions. The platinum nanoparticle (NP) is a promising catalyst for propane oxidation, while the study of its structural characteristics and functionality remains in its infancy. In this work, we synthesized the nanocubes CeO2 with a well-defined (100) facet supporting Pt NPs with various sizes, from 1.3 to 7 nm, and systematically investigated the effect of the Pt size on complete propane oxidation efficiency. In particular, CeO2(100) supported Pt NPs smaller than 4 nm promote the formation of positively charged Pt sites, which hinder the adsorption and activation of propane and reduce the intrinsic activity for propane oxidation. Consequently, within this size range, the catalytic performance is primarily influenced by the electronic state of the Pt species, with metallic Pt being identified as the active site for the reaction. Conversely, as the particle size exceeds 4 nm, metallic Pt particles become dominant and the geometric structure starts to influence the activity as well. Such entanglement of electronic and geometric factors gives rise to a volcano relationship between reaction rates and Pt particle sizes ranging from 1.3 to 7 nm, while an increased correlation can be observed between the turnover frequencies and the particle sizes in this range. This knowledge can guide the synthesis of highly active catalysts, enabling the efficient oxidation of VOCs with reduced precious metal loadings.    
-
-    
-
-## N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Betaines as Organocatalysts for β-Butyrolactone Polymerization: Synthesis of Green PHB Plasticizers with Tailored Molecular Weights   
-
-OpenAlex: https://openalex.org/W4391473810    
-Open access: True
-    
-[David Sánchez-Roa](https://openalex.org/A5046769905), [Valentina Sessini](https://openalex.org/A5044974820), [Marta E. G. Mosquera](https://openalex.org/A5011679409), [Juan Cámpora](https://openalex.org/A5041336405), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05357 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05357)).
-    
-The manufacture of poly(3-hydroxybutyrate) (PHB) stands out as a promising alternative to traditional plastics. This polymer is usually produced by bacteria-based biotechnology or metal-catalyzed ring-opening polymerization (ROP) of β-butyrolactone (β-BL). Nevertheless, commercial PHB suffers from different issues, from poor processability to high production costs. Herein, we report the chemical synthesis of PHB from the ROP of rac-β-butyrolactone promoted by a zwitterionic organocatalyst, an N-heterocyclic carbene-carbodiimide (NHC-CDI) betaine adduct. This reaction has been investigated by a combination of experimental and computational methods. The catalyst cleaves the β-BL via nucleophilic displacement of the C–O(carboxyl) bond followed by intramolecular elimination to give protonated betaine–crotonate ion pairs, the active polymerization initiators. Polymer growth is propagated and controlled by these betaine ion pairs, which render amorphous low-molecular-weight PHBs by an unusual mechanism with rapid chain transfer to the monomer regime, analogous to the well-known mechanism of ethylene oligomerization with late transition-metal catalysts. The resulting material is suitable as a biodegradable and biocompatible plasticizer for commercial bacterial or synthetic PHB. Perfect compatibility between the matrix and the additive and a significant reduction of the crystallinity resulted in a more flexible and resilient material.    
-
-    
-
-## Assembled Quantum Dot Porous Clusters for Enhanced Photocatalytic Reduction of Quinone to Hydroquinone   
-
-OpenAlex: https://openalex.org/W4391475441    
-Open access: False
-    
-[Yufeng Qin](https://openalex.org/A5005132094), [Xiang Cheng](https://openalex.org/A5041477172), [Zhuo Zhao](https://openalex.org/A5009441078), [Chaodan Pu](https://openalex.org/A5080850908), ACS Catalysis. 14(3)] 2024.https://doi.org/10.1021/acscatal.3c04492.
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4391476187    
-Open access: True
-    
-, ACS Catalysis. 14(3)] 2024.https://doi.org/10.1021/csv014i003_1766342 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i003_1766342)).
-    
-ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTIssue Editorial MastheadCite this: ACS Catal. 2024, 14, 3, XXX-XXXPublication Date (Web):February 2, 2024Publication History Published online2 February 2024Published inissue 2 February 2024https://doi.org/10.1021/csv014i003_1766342Copyright © 2024 American Chemical SocietyRequest reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (198 KB) Get e-Alertsclose Get e-Alerts    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4391476423    
-Open access: True
-    
-, ACS Catalysis. 14(3)] 2024.https://doi.org/10.1021/csv014i003_1766341 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i003_1766341)).
-    
-ADVERTISEMENT RETURN TO ISSUEPREVArticleIssue Publication InformationCite this: ACS Catal. 2024, 14, 3, XXX-XXXPublication Date (Web):February 2, 2024Publication History Published online2 February 2024Published inissue 2 February 2024https://doi.org/10.1021/csv014i003_1766341Copyright © 2024 American Chemical SocietyRequest reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (153 KB) Get e-Alertsclose Get e-Alerts    
-
-    
-
-## Insight into Selectivity Differences of Glycerol Electro-Oxidation on Pt(111) and Ag(111)   
-
-OpenAlex: https://openalex.org/W4391484173    
-Open access: False
-    
-[Zhongjie Meng](https://openalex.org/A5061862591), [David Tran](https://openalex.org/A5011352251), [Johan Hjelm](https://openalex.org/A5074226300), [Henrik H. Kristoffersen](https://openalex.org/A5028337707), [Jan Rossmeisl](https://openalex.org/A5083668074), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05551.
-    
-Electro-oxidation is a way to utilize glycerol, a byproduct of biodiesel production, to produce fuels and feedstock chemicals for the chemical industry. A significant challenge is to get products with high selectivity, so it is desirable to understand the glycerol oxidation mechanisms in further detail. Using density functional theory calculations, we investigated possible glycerol oxidation intermediates on Pt(111) and Ag(111). We find that the different adsorption preferences of the intermediates on Pt (adsorption via carbon atoms) and Ag (adsorption via oxygen atoms) lead to different preferred reaction pathways, resulting in different products. The reaction pathways on both surfaces involve glyceraldehyde as a key intermediate; however, upon further oxidation, Pt(111) preferentially produces glyceric acid (CH2OH–CHOH–COOH), while on Ag(111) C–C bonds are broken, which leads to the production of glycolaldehyde and formic acid (CH2OH–CHO and HCOOH). These predictions agree well with the experimental outcome of the electro-oxidation of glycerol on Pt and Ag surfaces. Our study therefore provides useful insights for optimizing the selectivity of glycerol oxidation and improving the utilization of glycerol.    
-
-    
-
-## Metal–Support Interaction between Titanium Oxynitride and Pt Nanoparticles Enables Efficient Low-Pt-Loaded High-Performance Electrodes at Relevant Oxygen Reduction Reaction Current Densities   
-
-OpenAlex: https://openalex.org/W4391484257    
-Open access: True
-    
-[Armin Hrnjić](https://openalex.org/A5035921159), [Ana Rebeka Kamšek](https://openalex.org/A5026019396), [Lazar Bijelić](https://openalex.org/A5093435006), [Anja Lončar](https://openalex.org/A5067506046), [Nik Maselj](https://openalex.org/A5002824921), [Milutin Smiljanić](https://openalex.org/A5023655269), [Jan Trputec](https://openalex.org/A5025812387), [Nikolay Vovk](https://openalex.org/A5053380398), [Luka Pavko](https://openalex.org/A5057907379), [Francisco Ruiz-Zepeda](https://openalex.org/A5035475331), [Marjan Bele](https://openalex.org/A5059203752), [Primož Jovanovič](https://openalex.org/A5079953428), [Nejc Hodnik](https://openalex.org/A5065843632), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c03883 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c03883)).
-    
-In the present work, we report on a synergistic relationship between platinum nanoparticles and a titanium oxynitride support (TiOxNy/C) in the context of oxygen reduction reaction (ORR) catalysis. As demonstrated herein, this composite configuration results in significantly improved electrocatalytic activity toward the ORR relative to platinum dispersed on carbon support (Pt/C) at high overpotentials. Specifically, the ORR performance was assessed under an elevated mass transport regime using the modified floating electrode configuration, which enabled us to pursue the reaction closer to PEMFC-relevant current densities. A comprehensive investigation attributes the ORR performance increase to a strong interaction between platinum and the TiOxNy/C support. In particular, according to the generated strain maps obtained via scanning transmission electron microscopy (STEM), the Pt-TiOxNy/C analogue exhibits a more localized strain in Pt nanoparticles in comparison to that in the Pt/C sample. The altered Pt structure could explain the measured ORR activity trend via the d-band theory, which lowers the platinum surface coverage with ORR intermediates. In terms of the Pt particle size effect, our observation presents an anomaly as the Pt-TiOxNy/C analogue, despite having almost two times smaller nanoparticles (2.9 nm) compared to the Pt/C benchmark (4.8 nm), manifests higher specific activity. This provides a promising strategy to further lower the Pt loading and increase the ECSA without sacrificing the catalytic activity under fuel cell-relevant potentials. Apart from the ORR, the platinum-TiOxNy/C interaction is of a sufficient magnitude not to follow the typical particle size effect also in the context of other reactions such as CO stripping, hydrogen oxidation reaction, and water discharge. The trend for the latter is ascribed to the lower oxophilicity of Pt-based on electrochemical surface coverage analysis. Namely, a lower surface coverage with oxygenated species is found for the Pt-TiOxNy/C analogue. Further insights were provided by performing a detailed STEM characterization via the identical location mode (IL-STEM) in particular, via 4DSTEM acquisition. This disclosed that Pt particles are partially encapsulated within a thin layer of TiOxNy origin.    
-
-    
-
-## Selective Hydrogenation of Alkyne by Atomically Precise Pd6 Nanocluster Catalysts: Accurate Construction of the Coplanar and Specific Active Sites   
-
-OpenAlex: https://openalex.org/W4391484269    
-Open access: False
-    
-[Jie Tang](https://openalex.org/A5034676524), [Kun Jia](https://openalex.org/A5060107836), [Ruiqi Zhang](https://openalex.org/A5091816086), [Chao Liu](https://openalex.org/A5055920244), [Xinzhang Lin](https://openalex.org/A5086193630), [Tingting Ge](https://openalex.org/A5065838284), [Xiaorui Liu](https://openalex.org/A5011085153), [Qiao Zhao](https://openalex.org/A5070736386), [Wei Liu](https://openalex.org/A5013434268), [Ding Ma](https://openalex.org/A5055822249), [Hongjun Fan](https://openalex.org/A5081854327), [Jiahui Huang](https://openalex.org/A5066309957), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05833.
-    
-Atomically precise nanoclusters are promising model catalysts to understand the relationship between structure and catalytic activity. However, designing efficient active sites remains challenging because the highly covered ligands obscure the metal sites. Herein, we reported a Pd6(S-Adm)6(PPh3)(PPh) nanocluster, which shows high selectivity in the semihydrogenation of aromatic alkyne. The Pd6 nanocluster has a unique chair structure, where the pan is composed of the coplanar Pd atoms, the back is composed of two S-Adm ligands, and the legs are composed of four S-Adm, one PPh3, and one PPh ligands. Experiments reveal that the high selectivity of intact Pd6 nanocluster is attributed to the synergistic effect of thiols and phosphines, modulating the electron properties and benefiting the proper hydrogen dissociation ability and desorption of product. Interestingly, it was found that the exposed coplanar Pd atoms could provide specific active sites for the adsorption of C≡C and benzene ring. DFT calculations show that phenylacetylene and styrene adsorb on the coplanar Pd6 much weaker than on the Pd(111) surface, allowing the styrene to be desorbed before further hydrogenation. The phenyl adsorption constrains that the hydrogenation can occur only on the coplanar Pd6, which is more facile for phenylacetylene than for styrene, and results in semihydrogenation.    
-
-    
-
-## Tailoring the Olefin Selectivity in Catalytic Oxidative Dehydrogenation of Light Alkane by the Isolation Strategy   
-
-OpenAlex: https://openalex.org/W4391485473    
-Open access: False
-    
-[Yicong Chai](https://openalex.org/A5042063600), [Yanliang Zhou](https://openalex.org/A5074446754), [Sen Lin](https://openalex.org/A5016546361), [Xiaodong Wang](https://openalex.org/A5068754344), [Jin Lin](https://openalex.org/A5047617959), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05419.
-    
-Olefins are important building blocks that have been extensively used to produce diverse consumer products in petrochemical industry. Owing to the requirement of low-carbon-footprint processes and the increasing use of light alkanes sourced from shale gas, an environmentally friendly and economic route alternative to the state-of-the-art steam cracking of crude oil has been investigated for olefin production. The oxidative dehydrogenation (ODH) of alkanes to olefins has attracted wide attention due to the absence of thermodynamic limitations and coke formation. However, excessive oxidation of olefin is prone to occur in this process. Developing a suitable ODH catalyst with high performance, particularly with enhanced selectivity, is more and more urgent but still remains a challenge. In this Review, we talk about the representative currently developed isolation strategies to optimize the selectivity of olefins via the ODH process, particularly for the conversion of ethane to ethylene, which include the dispersion regulation of metal oxide, the isolation of metal and nonmetal sites, the construction of dual functional sites to isolate dehydrogenation and oxidation steps, and the adoption of selective oxygen species with the promotion of soft oxidants as reactants. Furthermore, the mechanistic aspects about the activation of ethane and the participation of oxygen species for tailoring the selectivity are then classified and discussed in detail. Finally, the perspectives and the emerging technologies for the ODH process are listed and evaluated.    
-
-    
-
-## The Role of Adsorbed Species in 1-Butene Isomerization: Parahydrogen-Induced Polarization NMR of Pd–Au Catalyzed Butadiene Hydrogenation   
-
-OpenAlex: https://openalex.org/W4391485519    
-Open access: False
-    
-[Weiyu Wang](https://openalex.org/A5081085463), [Richard J. Lewis](https://openalex.org/A5063295957), [Bin Lü](https://openalex.org/A5053116259), [Qiang Wang](https://openalex.org/A5030863883), [Graham J. Hutchings](https://openalex.org/A5020068159), [Jun Xu](https://openalex.org/A5016344450), [Feng Deng](https://openalex.org/A5055850550), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05968.
-    
-Isomerization of 1-butene critically influences product distributions in 1,3-butadiene hydrogenation. However, distinguishing between the isomerization and hydrogenation pathways is challenging. Here, we employ parahydrogen-induced polarization (PHIP) NMR spectroscopy to determine the extent of the isomerization pathway when using Pd–Au bimetallic nanoparticles synthesized via a colloidal protocol in the presence or absence of a polyvinylpyrrolidone (PVP) stabilizing ligand and immobilized on TiO2. Residual additives, in particular, sulfur, are observed to considerably influence the pairwise hydrogenation and 1-butene isomerization pathways. PHIP NMR analysis reveals that the PVP ligand can induce strong polarized signals, likely due to restricted proton migration, but minimally impact 1-butene isomerization. In contrast, removing surface sulfur species introduced during catalyst synthesis profoundly enhances 1-butene isomerization by reducing the hydrogen concentration at the nanoparticle surface. This work elucidates how residual species can modulate key reaction pathways such as isomerization during 1,3-butadiene hydrogenation, with implications for rational catalyst design.    
-
-    
-
-## Tailoring Metal-Ion-Doped Carbon Nitrides for Photocatalytic Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4391486029    
-Open access: False
-    
-[Shanping Liu](https://openalex.org/A5006958502), [Valentin Diez‐Cabanes](https://openalex.org/A5080802270), [Dong Fan](https://openalex.org/A5069062661), [Peixiang Lu](https://openalex.org/A5080107062), [Yuanxing Fang](https://openalex.org/A5027738164), [Markus Antonietti](https://openalex.org/A5075963769), [Guillaume Maurin](https://openalex.org/A5087859676), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05961.
-    
-Poly(heptazine imides) (PHIs) have emerged as prominent layered carbon nitride-based materials with potential oxygen evolution reaction (OER) catalytic activity owing to their strong VIS light absorption, long excited-state lifetimes, high surface-to-volume ratios, and the possibility of tuning their properties via hosting different metal ions in their pores. A series of metal-ion-doped PHI-M (M = K+, Rb+, Mg2+, Zn2+, Mn2+, and Co2+) were first systematically explored using density functional theory calculations. These simulations led an in-depth understanding of the microscopic OER mechanism in these systems and identified PHI-Co2+ as the best OER catalyst of this family of PHIs, whereas PHI-Mn2+ can be an alternative promising OER catalyst. This level of performance was attributed to a thermodynamically favorable formation of the reaction intermediates as well as its red-shifted absorption in the VIS region involving the population of long-lived states, as revealed by time-dependent density functional theory calculations. We further demonstrated that the electronic properties of the *OH intermediates (Bader population, crystal orbital Hamilton population analysis, and adsorption energies) are reliable descriptors to anticipate the OER activity of this family of PHIs. This rational analysis paved the way toward the prediction of the OER performance of another PHI-M derivative, i.e., PHI-Fe2+. The computationally explored PHI-Fe2+, PHI-Mn2+, and PHI-Co2+ systems were then synthesized alongside PHI-K+, and their photocatalytic OER activities were assessed. These experimental findings confirmed the best photocatalytic OER performance for PHI-Co2+ with an oxygen production of 31.2 μmol·h–1 that is 60 times higher than the pristine g-C3N4 (0.5 μmol·h–1), whereas PHI-Fe2+ and PHI-Mn2+ are seen as alternative OER catalysts with attractive oxygen production of 11.20 and 4.69 μmol·h–1, respectively. Decisively, this joint experimental–computational study reveals PHI-Co2+ to be among the best of the OER catalysts so far reported in the literature including some perovskites.    
-
-    
-
-## Highly Selective Upgrading of Polyethylene into Light Aromatics via a Low-Temperature Melting-Catalysis Strategy   
-
-OpenAlex: https://openalex.org/W4391486048    
-Open access: False
-    
-[Zhe Zhang](https://openalex.org/A5008788445), [Huan Chen](https://openalex.org/A5078632164), [Guixiang Li](https://openalex.org/A5033895107), [Weigang Hu](https://openalex.org/A5067744419), [Bo Niu](https://openalex.org/A5059445221), [Donghui Long](https://openalex.org/A5070718341), [Yayun Zhang](https://openalex.org/A5010941700), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05098.
-    
-The selective upgrading of polyethylene waste into light aromatics is hampered by relatively high C–C bond cleavage temperatures and low product selectivity. Herein, we report a low-temperature melting-catalysis strategy that directly upgrades low-density polyethylene (LDPE) into light aromatics over commercial ZSM-5 zeolite under mild conditions, eliminating the need for precious metals, solvent, or external H2. Experimental results combined with DFT calculations and molecular dynamics simulations revealed that the molten LDPE microenvironment facilitates intimate LDPE-catalyst contact, promoting primary C–C cleavage while suppressing olefin intermediates diffusion out of pores. This feature increases the residence time for subsequent direct olefin cyclization within the confined micropores. Moreover, online mass spectra confirmed that the in situ generated hydrogen from cyclization and dehydroaromatization reactions plays a vital role in C–C bond scission. By optimizing the reaction conditions, a light aromatic yield of 50.6 wt % with an impressive selectivity of 90.9% toward benzene, toluene, and xylenes was achieved at 280 °C for 1 h. This strategy is not limited to the model polyethylene but also demonstrates remarkable efficiency in the depolymerization of various widely used polyethylene-rich plastics, enabling an economically viable and environmentally benign chemical recycling path for plastic wastes.    
-
-    
 
 ## Ultrastable and Phosphoric Acid-Resistant PtRhCu@Pt Oxygen Reduction Electrocatalyst for High-Temperature Polymer Electrolyte Fuel Cells   
 
@@ -278,5 +135,148 @@ Open access: False
 [Y. Zhang](https://openalex.org/A5054856418), [Liang Qi](https://openalex.org/A5071668095), [Danna Nozik](https://openalex.org/A5000365597), [Chaochao Dun](https://openalex.org/A5062045086), [Jeffrey J. Urban](https://openalex.org/A5007458786), [Alexis T. Bell](https://openalex.org/A5087957929), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05605.
     
 No abstract    
+
+    
+
+## Theoretical Study on Bismuth(III) Catalysts for Synthesis of Phenylsulfonyl Fluoride: Reasons of Their Catalysis   
+
+OpenAlex: https://openalex.org/W4391594799    
+Open access: False
+    
+[Yu Tian](https://openalex.org/A5071468873), [Shigeyoshi Sakaki](https://openalex.org/A5003405142), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04874.
+    
+Bismuth(III) complex with diarylsulfone ligand (diAr-SO2) is a non-transition metal catalyst reported recently for the synthesis of arylsulfonyl fluorides. We investigated this catalytic reaction using DFT and SCS-MP2 calculations for geometries and energies, respectively. This catalytic reaction occurs through transmetalation between (BF4)Bi(diAr-SO2) and phenylboronic acid (PhB(OH)2), SO2 insertion into the Bi–Ph bond of (Ph)Bi(diAr-SO2), and fluorination of the PhOSO group of (PhOSO)Bi(diAr-SO2) by Selectfluor. The rate-determining step is the transmetalation for diAr-SO2 with (CH3, CH3) and (CF3, CF3) but either the transmetalation or fluorination for diAr-SO2 with (CH3, CF3), where (R1, R2) means diAr-SO2 has R1 and R2 substituents on its aryl groups. The activation energy (ΔG°‡) of the rate-determining step increases in the order (CH3, CF3) < (CH3, CH3) < (CF3, CF3). This increasing order is consistent with the experimentally observed substituent effects on catalytic activity. The transmetalation is difficult to occur in the absence of potassium phosphate (K3PO4) but occurs with moderate activation energy in the presence of K3PO4 because K3PO4 activates the B–Ph σ-bond of phenylboronic acid and stabilizes the dissociating B(OH)2 moiety through electrostatic interaction. The substituents on diAr-SO2 play an important role in the transmetalation; when diAr-SO2 has (CF3, CF3), K3PO4 strongly interacts with the Bi(diAr-SO2) species to form an overly stable adduct to enlarge considerably the ΔG°‡ value. When diAr-SO2 has either (CH3, CF3) or (CH3, CH3), the stabilization energy of the adduct is similar to each other, but the energy destabilization occurs more largely upon going to the asymmetric transition state from the adduct in the (CH3, CH3) case than in the (CH3, CF3) case. Thus, the use of diAr-SO2 with (CH3, CF3) is favorable for the transmetalation. The SO2 insertion into the Bi–Ph bond of (Ph)Bi(diAr-SO2) occurs with a moderate ΔG°‡ value, whereas the SO2 insertion is difficult to occur when the sulfone (SO2) group of diAr-SO2 is replaced with a CH2 group. The SO2 insertion occurs via a nucleophilic attack of the Ph group to SO2. However, (Ph)Bi(diAr-SO2) with (CH3, CH3) is not the most reactive because not only the HOMO energy of (Ph)Bi(diAr-SO2) but also factors such as the Biδ+–(C6H3R)δ− (R = CH3 or CF3) bond dipole moment and the Bi–C6H3R bond strength participate in determining the reactivity of (Ph)Bi(diAr-SO2) for the SO2 insertion where C6H3R is the aryl part of diArSO2. The fluorination occurs with a moderate ΔG°‡ value and an extremely negative ΔG° value. Its ΔG°‡ value hardly depends on the substituents of diAr-SO2. The presence of K3PO4 and the use of diAr-SO2 ligand with (CH3, CF3) are key for the catalytic activity of the bismuth catalyst.    
+
+    
+
+## Visible-Light Photocatalytic H2O2 Production Boosted by Frustrated Lewis Pairs in Defected Polymeric Carbon Nitride Nanosheets   
+
+OpenAlex: https://openalex.org/W4391594826    
+Open access: False
+    
+[Lixia Ma](https://openalex.org/A5078796092), [Yaping Gao](https://openalex.org/A5035062124), [Baoqiang Wei](https://openalex.org/A5063236179), [Luo Huang](https://openalex.org/A5043882558), [Nan Zhang](https://openalex.org/A5037214616), [Qiang Weng](https://openalex.org/A5003131258), [Lu Zhang](https://openalex.org/A5044757881), [Shengzhong Liu](https://openalex.org/A5091362073), [Ruibin Jiang](https://openalex.org/A5056918742), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05360.
+    
+Frustrated Lewis pairs (FLPs) with a unique “push–pull” effect can effectively activate many types of molecules to obtain unanticipated catalytic activity. Herein, FLPs are introduced into polymeric carbon nitride (CN), and their functions in the photocatalytic synthesis of H2O2 are studied. The FLPs in B-doped CN (BCN) are constituted by electron-deficient boron as Lewis acid sites and nitrogen neighbored with cyano groups as Lewis base sites. The formation of FLPs can improve the light absorption ability and the separation of photogenerated carriers. The FLPs afford strong adsorption of O2, but cannot produce H2O2 directly because the strong activation of oxygen bonds leads to oxygen bond scission during reduction. The FLPs enhance H2O2 production through the effective activation of ethanol (ETOH) by the “push–pull” effect of FLPs. The reduction of O2 to H2O2 is found through •O2– and 1O2 species. The photocatalytic H2O2 production rate on BCN can reach 51,008 μM g–1 h–1, which is over 12 times that of pristine CN (4113 μM g–1 h–1). This study not only provides an effective approach for enhancing photocatalytic H2O2 production but also deepens the understanding of the role of FLPs in molecule activation.    
+
+    
+
+## From CO2 to Methanol on Cu/ZnO/Al2O3 Industrial Catalyst. What Do We Know about the Active Phase and the Reaction Mechanism?   
+
+OpenAlex: https://openalex.org/W4391600545    
+Open access: False
+    
+[Gianfranco Pacchioni](https://openalex.org/A5018929838), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05669.
+    
+No abstract    
+
+    
+
+## Promotion Effect of Pd in the Ru/C-Catalyzed Hydrogenation of Benzofurans   
+
+OpenAlex: https://openalex.org/W4391602174    
+Open access: False
+    
+[Miao Guo](https://openalex.org/A5020011033), [Huicong Dai](https://openalex.org/A5020370082), [Qihua Yang](https://openalex.org/A5004719521), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05429.
+    
+No abstract    
+
+    
+
+## FAIR Data and Software: Improving Efficiency and Quality of Biocatalytic Science   
+
+OpenAlex: https://openalex.org/W4391603087    
+Open access: False
+    
+[Jürgen Pleiss](https://openalex.org/A5067406221), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06337.
+    
+Biocatalysis is entering a promising era as a data-driven science. High-throughput experimentation generates a rapidly increasing stream of biocatalytic data, which is the raw material for mechanistic and data-driven modeling to design improved biocatalysts and bioprocesses. However, our laboratory routines and our scientific practice of communicating scientific results are insufficient to ensure the reproducibility and scalability of experiments, and data management has become a bottleneck to progress in biocatalysis. In order to take full advantage of rapid progress in experimental and computational technologies, biocatalytic data should be findable, accessible, interoperable, and reusable (FAIR). FAIRification of data and software is achieved by developing standardized data exchange formats and ontologies, by electronic lab notebooks for data acquisition and documentation of experimentation, collaborative platforms for developing software and analyzing data, and repositories for publishing results together with raw data. The EnzymeML platform provides reusable and extensible tools and formats for FAIR and scalable data management in biocatalysis. FAIRification of data and software and the digitalization of biocatalysis are expected to improve the efficiency of research by automation and to guarantee the quality of biocatalytic science by reproducibility. Most of all, they foster reasoning and creating hypotheses by enabling the reanalysis of previously published data, and thus promote disruptive research and innovation.    
+
+    
+
+## Shield Machine-like Substrate Walking Strategy-Based Pocket Engineering of F-Amine Dehydrogenase for Accessing Structurally Diverse Fused-Ring and Linked-Ring Aryl Ketones   
+
+OpenAlex: https://openalex.org/W4391612989    
+Open access: False
+    
+[Tao Wu](https://openalex.org/A5018736180), [Yan Xu](https://openalex.org/A5034094966), [Yao Nie](https://openalex.org/A5087324294), [Xiaoqing Mu](https://openalex.org/A5062611477), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00068.
+    
+Although amine dehydrogenases (AmDHs) are emerging as attractive biocatalysts for chiral amine synthesis, their synthetic application in structurally diverse arylamines remains challenging, given the limited substrate acceptance. Substrate walking is an effective coevolution strategy to confer targeted substrate acceptance to an enzyme through a stepwise mutagenesis landscape adaptation. Here, based on the conventional substrate walking strategy, we report a shield machine-like substrate walking strategy to quickly evolve F-BbAmDH from Bacillus badius for accessing the difficult-to-aminate fused-ring and linked-ring aryl ketones. A set of monoring aryl ketone homologues with the benzene ring located at the end of the side-chain and regularly extended carbon skeletons was rationally selected as the transition substrates. A superior mutant library with expanded target fused-ring and linked-ring aryl ketone acceptance was identified based on the activity and specificity enhancement of the transition substrates, enabling the synthesis of pharmaceuticals and bioactive compound-related arylamines with up to 94% yield and 99% ee (R) or 99:1 cis/trans. Structure-based computational results provided molecular insights into the source of the expanded substrate acceptance. Our work demonstrates a concise engineering workflow for the collective acceptance evolution of enzymes for structurally diverse substrate panels and has promising prospects in enzyme engineering.    
+
+    
+
+## First-Principles-Based Kinetic Monte Carlo Model of Hydrogen Evolution Reaction under Realistic Conditions: Solvent, Hydrogen Coverage and Electric Field Effects   
+
+OpenAlex: https://openalex.org/W4391614041    
+Open access: False
+    
+[Yuhong Luo](https://openalex.org/A5070169953), [Yani Guan](https://openalex.org/A5035781997), [Guihua Liu](https://openalex.org/A5013752220), [Yanji Wang](https://openalex.org/A5007948614), [Jingde Li](https://openalex.org/A5083687798), [Luis Ricardez‐Sandoval](https://openalex.org/A5043725286), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04588.
+    
+The hydrogen evolution reaction (HER) plays an important role in electrocatalytic water splitting. Despite the progress on the development of HER catalysts, the dynamic evolution of HER reaction under realistic electrochemical conditions considering the electric field, solvent, and hydrogen coverage effects is still unclear. In this study, a first-principles-based H surface coverage and potential-dependent kinetic Monte Carlo (KMC) HER model on the Pt (111)/Pt (100) surface is presented. The reaction kinetics and electronic structure analysis of HER on Pt surfaces in the presence of dihydrated proton (H5O2+) and H surface coverage is investigated using density functional theory (DFT). The HER KMC model was developed based on the DFT-calculated energetics. The KMC simulation results showed that consideration of H5O2+ species and dynamic evolution of H coverage is essential for accurate description of HER reaction on the Pt catalyst, which fits well with HER polarization data. Moreover, sensitivity analysis shows that HER on Pt (111) is mainly affected by the Tafel step. On the Pt(100) surface, HER is primarily governed by the Heyrovsky pathway. Surface species evolution analysis demonstrates that the high working potential accelerated the formation of [Pt-2H] species, leading to increased H coverage and accelerating the HER process. The predicted weakened H binding strength and increased H coverage at high HER working potential was verified by in situ attenuated total reflection Fourier transformed infrared spectroscopy analysis. Overall, the proposed DFT-KMC model represents the state-of-art dynamic simulation of catalytic HER reaction, providing important insights into the evolution of HER under realistic operation conditions.    
+
+    
+
+## Copper-Catalyzed Asymmetric Yne-Allylic Substitution Using Electron-Rich Arenes   
+
+OpenAlex: https://openalex.org/W4391616495    
+Open access: False
+    
+[Defu Luo](https://openalex.org/A5027501129), [Shengtong Niu](https://openalex.org/A5041089138), [Fan Gong](https://openalex.org/A5056420587), [Chao Xu](https://openalex.org/A5006348865), [Shouang Lan](https://openalex.org/A5017215755), [Jinggong Liu](https://openalex.org/A5028923357), [Shuang Yang](https://openalex.org/A5071468018), [Xinqiang Fang](https://openalex.org/A5017247181), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06146.
+    
+Remote stereocontrol in transition-metal catalysis is a challenging but interesting research topic. In this work, we achieved copper-catalyzed asymmetric yne-allylic substitution using electron-rich arenes and acyclic carbonates through remote enantioselectivity control. The reaction delivers a variety of enantioenriched products that contain a diverse set of valuable moieties, such as conjugated enynes, indoles, indolizines, allenes, and dihydrofurans, which are widely used in organic synthesis and act as key units in bioactive molecules and natural products. The synthetic value of this protocol has been demonstrated in a series of further transformations, and mechanistic studies have been conducted to gain more insight into the reaction.    
+
+    
+
+## Selecting between Ammonia and Water Oxidation: Electrochemical Oxidation of Ammonia in Water Using an Organometallic–Inorganic Hybrid Anode   
+
+OpenAlex: https://openalex.org/W4391637546    
+Open access: False
+    
+[Han-Yu Liu](https://openalex.org/A5085101592), [Josephine A. Jayworth](https://openalex.org/A5092900821), [Robert H. Crabtree](https://openalex.org/A5032962378), [Gary W. Brudvig](https://openalex.org/A5064040856), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05899.
+    
+Electrocatalytic ammonia oxidation (AO) under ambient conditions in an aqueous solvent enables an ecofriendly production of nitrite and nitrate. Conventional formation of nitrite and nitrate by AO on noble metals often yields undesired dinitrogen and leads to detrimental nitride surface poisoning. We now find that our previously reported “Blue Layer” (BL), an organometallic–inorganic hybrid anode based on [IrO2]x nanoclusters (x ∼ 5), is active for selective AO in aqueous solution. Through adjustment of both pH and applied potential (Eapp), we identified optimal operating conditions (pH 8.0, 1.00 V) for AO, where BL achieves optimum selectivity toward nitrate (90.5%), effectively minimizing competitive water oxidation while maintaining activity against ammonia-induced degradation of the electrode.    
+
+    
+
+## Unveiling the Structure–Property Relationship of MgO-Supported Ni Ammonia Decomposition Catalysts from Bulk to Atomic Structure by In Situ/Operando Studies   
+
+OpenAlex: https://openalex.org/W4391642373    
+Open access: True
+    
+[T. H. Ulucan](https://openalex.org/A5066808865), [Jihao Wang](https://openalex.org/A5063689857), [E Onur](https://openalex.org/A5025489001), [Shilong Chen](https://openalex.org/A5022896242), [Malte Behrens](https://openalex.org/A5000126422), [Claudia Weidenthaler](https://openalex.org/A5076366179), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05629 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05629)).
+    
+Ammonia is currently being studied intensively as a hydrogen carrier in the context of the energy transition. The endothermic decomposition reaction requires the use of suitable catalysts. In this study, transition metal Ni on MgO as a support is investigated with respect to its catalytic properties. The synthesis method and the type of activation process contribute significantly to the catalytic properties. Both methods, coprecipitation (CP) and wet impregnation (WI), lead to the formation of Mg1–xNixO solid solutions as catalyst precursors. X-ray absorption studies reveal that CP leads to a more homogeneous distribution of Ni2+ cations in the solid solution, which is advantageous for a homogeneous distribution of active Ni catalysts on the MgO support. Activation in hydrogen at 900 °C reduces nickel, which migrates to the support surface and forms metal nanoparticles between 6 nm (CP) and 9 nm (WI), as shown by ex situ STEM. Due to the homogeneously distributed Ni2+ cations in the solid solution structure, CP samples are more difficult to activate and require harsher conditions to reduce the Ni. The combination of in situ X-ray diffraction (XRD) and operando total scattering experiments allows a structure–property investigation of the bulk down to the atomic level during the catalytic reaction. Activation in H2 at 900 °C for 2 h leads to the formation of large Ni particles (20–30 nm) for the samples synthesized by the WI method, whereas Ni stays significantly smaller for the CP samples (10–20 nm). Sintering has a negative influence on the catalytic conversion of the WI samples, which is significantly lower compared to the conversion observed for the CP samples. Interestingly, metallic Ni redisperses during cooling and becomes invisible for conventional XRD but can still be detected by total scattering methods. The conditions of activation in NH3 at 650 °C are not suitable to form enough reduced Ni nanoparticles from the solid solution and are, therefore, not a suitable activation procedure. The activity steadily increases in the samples activated at 650 °C in NH3 (Group 1) compared to the samples activated at 650 °C in H2 and then reaches the best activity in the samples activated at 900 °C in H2. Only the combination of complementary in situ and ex situ characterization methods provides enough information to identify important structure–property relationships among these promising ammonia decomposition catalysts.    
+
+    
+
+## Stereoselective gem-Difunctionalization of Diazo Compounds with Vinyl Sulfoxonium Ylides and Thiols via Metalloradical Catalysis   
+
+OpenAlex: https://openalex.org/W4391653535    
+Open access: False
+    
+[Srashti Bhardwaj](https://openalex.org/A5068051558), [Dinesh Kumar Gopalakrishnan](https://openalex.org/A5014736511), [Shalu Deshwal](https://openalex.org/A5092908924), [Raju Sen](https://openalex.org/A5062504886), [Vikas Tiwari](https://openalex.org/A5058101968), [Tarak Karmakar](https://openalex.org/A5052249622), [Janakiram Vaitla](https://openalex.org/A5069454776), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06098.
+    
+Multicomponent reactions that involve carbenes with nucleophiles and electrophiles have demonstrated broad applications in synthetic chemistry. However, because of the high reactivity of transient carbenes, reactions involving two carbene precursors with the nucleophile in the presence of a metal catalyst remain unexplored. Herein, a three-component stereoselective gem-difunctionalization of diazo compounds with thiols and vinyl sulfoxonium ylide is disclosed via Co(II)-based metalloradical catalysis. The key aspect of the present strategy is to exploit the intrinsic difference in the reactivity of vinyl sulfoxonium ylides and diazo compounds with thiol and metal catalysts. The present Doyle–Kirmse rearrangement of a sulfonium ylide involves a convergent assembly of two in situ-generated intermediates, such as allyl sulfide and α- metalloalkyl radical complex, to provide expeditious access to tertiary sulfide scaffolds. Combined experimental and quantum chemical calculations unveil the intricate mechanism of this three-component reaction. Furthermore, theoretical studies on noncovalent interactions of selectivity-determining transition states explain the origin of the experimentally obtained diastereoselectivity.    
+
+    
+
+## Amorphous Cu–W Alloys as Stable and Efficient Electrocatalysts for Hydrogen Evolution   
+
+OpenAlex: https://openalex.org/W4391656368    
+Open access: False
+    
+[Xiying Jian](https://openalex.org/A5022529391), [Wenbiao Zhang](https://openalex.org/A5005798301), [Yaxiong Yang](https://openalex.org/A5088190932), [Zhenglong Li](https://openalex.org/A5030336185), [Hongge Pan](https://openalex.org/A5053786338), [Qingsheng Gao](https://openalex.org/A5044287015), [Huaijun Lin](https://openalex.org/A5090512624), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05820.
+    
+Cu and W are completely immiscible in equilibrium conditions, and neither of them is a good catalytic element for the electrochemical hydrogen evolution reaction (HER) due to their hydrogen adsorption Gibbs free energy (ΔGH) being too positive or negative, respectively. However, the combination of Cu with W could potentially result in a moderate ΔGH. In this study, a series of binary amorphous Cu–W alloys are fabricated via a magnetron sputtering method. The optimal HER catalytic performance is demonstrated when the nominal component is Cu50W50, showing an overpotential of only 65 mV at 10 mA cm–2 in 1 M KOH. Accordingly, density functional theory calculations show that the amorphous Cu50W50 alloy has a close-to-zero ΔGH compared to the pure Cu and W metals, accounting for its HER activity. In addition, the amorphous Cu50W50 alloy shows no obvious degradation at 100 mA cm–2 for 200 h, highlighting its long-term durability. This work provides a versatile strategy for the preparation of amorphous alloys with completely immiscible components and insights into the compositional design of nonprecious metal electrocatalysts for widespread applications.    
+
+    
+
+## Toward High CO Selectivity and Oxidation Resistance Solid Oxide Electrolysis Cell with High-Entropy Alloy   
+
+OpenAlex: https://openalex.org/W4391679800    
+Open access: False
+    
+[Jun Tang](https://openalex.org/A5024280063), [Na Ni](https://openalex.org/A5075626239), [Baowen Zhou](https://openalex.org/A5010878103), [Chen Yang](https://openalex.org/A5015927446), [Kolan Madhav Reddy](https://openalex.org/A5041129333), [Heng Tu](https://openalex.org/A5012980325), [Yu-Si Liu](https://openalex.org/A5002038517), [Zhe Tan](https://openalex.org/A5057876953), [Longkai Xiang](https://openalex.org/A5030172940), [Haozhen Li](https://openalex.org/A5015353382), [Xing Zhang](https://openalex.org/A5050803462), [Yunyi Zhang](https://openalex.org/A5086509214), [Yixin Li](https://openalex.org/A5089669072), [Hanchao Zhang](https://openalex.org/A5064982569), [Lei Zhu](https://openalex.org/A5050980529), [Zhen Huang](https://openalex.org/A5087875241), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05972.
+    
+Ni-based cermet materials still persist as pronounced challenges for electrocatalysts in solid oxide electrolysis cells (SOECs), due to their insufficient CO2 catalytic efficiency and inferior resistance to oxidation. In this paper, a (Fe,Co,Ni,Cu,Mo) quinary high-entropy alloy is explored as an alternative cathode material, offering enhanced performance in the co-electrolysis of H2O and CO2 for renewable syngas production. In comparison to traditional nickel-based cathodes, an assembled SOEC employing the as-designed quinary high-entropy alloy exhibits a remarkable increase in CO2 conversion capacity and significantly enhanced oxidation resistance. In addition, the electrolysis current density increases by 18%, and a stability test for more than 110 h reveals no degradation. Moreover, the stability can be maintained for up to 40 h even without any protective gas. Morphological and spectroscopic analyses, coupled with density functional theory (DFT) calculations, elucidate that the high-entropy effect facilitates surface electron redistribution, which in turn contributes to the measurable activity by reducing the energy barrier of CO2 activation. Notably, the superior resistance to oxidation primarily originates from the in situ-formed spinel phase under oxidation conditions. This study demonstrates the satisfying performance of high-entropy alloys as cathode materials in SOEC, validating their high application potential in this field.    
 
     

@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 10 Feb 2024 00:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:48:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Understanding the Interplay of the Br&#248;nsted Acidity of Catalyst Ancillary Groups and the Solution Components in Iron-porphyrin-Mediated Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1021/jacs.3c10127</link>
-      <description>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4391464343
-
-                The rapid and efficient conversion of carbon dioxide (CO2) to carbon monoxide (CO) is an ongoing challenge. Catalysts based on iron-porphyrin cores have emerged as excellent electrochemical mediators of the two proton + two electron reduction of CO2 to CO, and many of the design features that promote function are known. Of those design features, the incorporation of Br&#248;nsted acids in the second coordination sphere of the iron ion has a significant impact on catalyst turnover kinetics. The Br&#248;nsted acids are often in the form of hydroxyphenyl groups. Herein, we explore how the acidity of an ancillary 2-hydroxyphenyl group affects the performance of CO2 reduction electrocatalysts. A series of meso-5,10,15,20-tetraaryl porphyrins were prepared where only the functional group at the 5-meso position has an ionizable proton. A series of cyclic voltammetry (CV) experiments reveal that the complex with &#8722;OMe positioned para to the ionizable &#8722;OH shows the largest CO2 reduction rate constants in acetonitrile solvent. This is the least acidic &#8722;OH of the compounds surveyed. The turnover frequency of the &#8722;OMe derivative can be further improved with the addition of 4-trifluoromethylphenol to the solution. In contrast, the iron-porphyrin complex with &#8722;CF3 positioned opposite the ionizable &#8722;OH shows the smallest CO2 reduction rate constants, and its turnover frequency is less enhanced with the addition of phenols to the reaction solutions. The origin of this effect is rationalized based on kinetic isotope effect experiments and density functional calculations. We conclude that catalysts with weaker internal acids coupled with stronger external acid additives provide superior CO2 reduction kinetics.</description>
-      <author>Ana Sonea, Nicholas R. Crudo, Jeffrey J. Warren</author>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c10127</guid>
-    </item>
-    <item>
-      <title>Single-atom catalysts for electrocatalytic carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/b978-0-323-95237-8.00003-3</link>
-      <description>Subhash Chandra Shit, Indranil Mondal, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488466
-
-                The electrochemical CO2 reduction reaction carries tremendous significance to tackle the exponential rising of CO2 level in the atmosphere. The development of different classes of electrocatalyst materials emerged with more understanding of the catalyst features, reaction mechanism, catalytic efficiency, and product selectivity using modern analytical tools (such as in situ techniques). Single-atom catalysts (SACs) are a new class of material that allows atom-by-atom utilization in the catalytic process, thereby influencing the CO2 reduction efficiency and product selectivity in more precise manner. In this chapter, we highlight the fundamental of CO2 electroreduction, including general mechanism for varied product formation, electrolyzer component, operational parameter, and development of SACs electrode material for CO2 reduction.</description>
-      <author>Subhash Chandra Shit, Indranil Mondal</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95237-8.00003-3</guid>
-    </item>
     <item>
       <title>Modulation of active center distance of hybrid perovskite for boosting photocatalytic reduction of carbon dioxide to ethylene</title>
       <link>https://doi.org/10.1073/pnas.2318970121</link>
@@ -96,6 +76,16 @@
       <author>Jun Zhang, Tao Li, Xiaotian Li, Aiqi Fang</author>
       <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1117/12.3024972</guid>
+    </item>
+    <item>
+      <title>Novel lead-free halide perovskite KMgI3 for photocatalytic hydrogen evolution (HER) and carbon dioxide reduction reaction (CO2RR)</title>
+      <link>https://doi.org/10.1016/j.matlet.2024.136066</link>
+      <description>E. Lu&#233;vano-Hip&#243;lito, Mayte G. Fabela-Cedillo, Leticia M. Torres-Mart&#305;&#769;nez, Materials Letters. 361(None)] 2024. https://openalex.org/W4391667291
+
+                Lead-free magnesium iodide (KMgI3) perovskite films were obtained by ink-jet printing. The halide perovskites were printed in different supports: mica, magnesium oxychloride, and glass. The printed samples were evaluated in photocatalytic hydrogen evolution (HER) and carbon dioxide reduction reaction (CO2RR) to produce alternative solar based fuels, e.g., formic acid (HCOOH) and hydrogen (H2) under visible light. The KMgI3 printed on mica exhibited the highest activity to produce both HCOOH and H2, with apparent quantum yields of 1.02 and 7.86 % at 550 nm, respectively. This result was associated with an enhanced adhesion of the perovskite to mica due to the K+ affinity and a better interaction of the C atom possible due to the depletion of the layer of K+, leading to the exposure of aluminosilicate sheets. The stability of the perovskite was corroborated after three consecutive cycles.</description>
+      <author>E. Lu&#233;vano-Hip&#243;lito, Mayte G. Fabela-Cedillo, Leticia M. Torres-Mart&#305;&#769;nez</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.136066</guid>
     </item>
     <item>
       <title>Two-Dimensional Carbon Nitride as a Support of Single Metal Atom for Carbon Dioxide Reduction Reaction</title>
@@ -168,6 +158,16 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02582797mtgabs</guid>
     </item>
     <item>
+      <title>Sustainable Strategies for Solar Electrochemical Reduction of Carbon Dioxide to Fuels</title>
+      <link>https://doi.org/10.54499/sfrh/bd/147219/2019</link>
+      <description>, No host. None(None)] 2020. https://openalex.org/W4391682884
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/147219/2019</guid>
+    </item>
+    <item>
       <title>Selective Ethanol Synthesis from Carbon Dioxide</title>
       <link>https://doi.org/10.1595/003214097x414166170</link>
       <description>Yasuo Izumi, Platinum Metals Review. 41(4)] 1997. https://openalex.org/W4391606664
@@ -198,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02472400mtgabs</guid>
     </item>
     <item>
+      <title>Biocatalytical reduction of carbon dioxide for sustainable biofuel production</title>
+      <link>https://doi.org/10.54499/covid/bd/151766/2021</link>
+      <description>, No host. None(None)] 2021. https://openalex.org/W4391681969
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54499/covid/bd/151766/2021</guid>
+    </item>
+    <item>
       <title>Applications of X-ray Spectroscopy in Carbon Dioxide Reduction</title>
       <link>https://doi.org/10.1142/9789811284649_0005</link>
       <description>Indrajit Shown, Wei-Fu Chen, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen, World scientific series in nanoscience and nanotechnology. None(None)] 2024. https://openalex.org/W4391537296
@@ -206,6 +216,36 @@
       <author>Indrajit Shown, Wei-Fu Chen, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1142/9789811284649_0005</guid>
+    </item>
+    <item>
+      <title>Intercalated Zirconium Phosphate Promotes Reductive Amination of Carbon Dioxide</title>
+      <link>https://doi.org/10.1021/acssuschemeng.3c06479</link>
+      <description>Huiying Liao, Yongjun Jiang, Xinjia Wei, Xueyan Zhao, Lai Wei, Ning An, Yue Ma, Sheng Dai, Zhenshan Hou, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4391686357
+
+                No abstract</description>
+      <author>Huiying Liao, Yongjun Jiang, Xinjia Wei, Xueyan Zhao, Lai Wei, Ning An, Yue Ma, Sheng Dai, Zhenshan Hou</author>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c06479</guid>
+    </item>
+    <item>
+      <title>Computational examination of transition metal-salen complexes for the reduction of CO2</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.113819</link>
+      <description>Gavin McCarver, Taner Yildirim, Wei Zhou, Molecular Catalysis. 556(None)] 2024. https://openalex.org/W4391706993
+
+                In this comprehensive study, we investigated the catalytic potential of seven transition metal-salen (TM-salen) complexes for the reduction of carbon dioxide (CO2) using ab initio methods. Our findings revealed distinct catalytic behavior among the TM-salen complexes, driven by their electronic and geometric properties. The reduction of hydrogen to H2 was most favorable on Mn-salen and Cu-salen complexes, indicating potential competition with CO2 reduction. Notably, later TM-salen complexes (Co, Ni, Cu, Zn) exhibited higher energy requirements for the initial CO2 reduction, whereas Mn- and Fe-salen complexes demonstrated potential-controlled selectivity, favoring CO2 reduction beyond HCOOH at specific thresholds. Our results highlight Cr-salen and Fe-salen complexes as promising candidates for the CO2 reduction reaction (CO2RR) catalysts due to their reduced competition with hydrogen reduction and low limiting potentials for CO2 reduction. Furthermore, the distinct reaction profiles of TM-salen complexes offer valuable insights for the design and development of efficient catalysts for sustainable CO2 conversion and other chemical transformations. These findings provide a foundation for further exploration and optimization of TM-salen complexes as viable catalysts in environmental and energy-related applications.</description>
+      <author>Gavin McCarver, Taner Yildirim, Wei Zhou</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.113819</guid>
+    </item>
+    <item>
+      <title>Development of carbon based materials for CO2 electrochemical reduction</title>
+      <link>https://doi.org/10.54499/sfrh/bd/143490/2019</link>
+      <description>, No host. None(None)] 2020. https://openalex.org/W4391704728
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/143490/2019</guid>
     </item>
     <item>
       <title>Metal-organic framework composites for electrochemical CO2 reduction reaction</title>
@@ -218,16 +258,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126532</guid>
     </item>
     <item>
-      <title>MXenes for CO2 reduction: a promising choice</title>
-      <link>https://doi.org/10.1016/b978-0-323-95515-7.00011-x</link>
-      <description>Saira Ajmal, Anuj Kumar, Tuan Anh Nguyen, Ghulam Yasin, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4391488885
-
-                Fast industrialization and urban growth emit significant amounts of hazardous CO2, which not only produces environmental problems but also causes illness all over the world. Several technologies for purifying air and water have been developed over the last two decades, but they have all failed due to high costs, poor effectiveness, and the creation of secondary contaminants. The photochemical and electrochemical conversion of CO2 into energy-rich molecules is a novel method that can aid in environmental rehabilitation while also meeting the world&#8217;s expanding energy demands. These techniques, however, necessitate extremely selective, energetic, and long-lasting catalysts. Scientists have investigated numerous keen and multifunctional materials for the conversion of CO2 pollution into useful compounds in this area. MXenes, a type of two-dimensional (2D) material made of transition metal nitrides, carbides, and carbonitrides, have engrossed attention because of their extraordinary physicochemical, mechanical, and electrochemical properties. This chapter focuses on CO2 conversion by photochemical and electrochemical methods to valuable products, emphasizing MXene-based materials and their catalytic activity, as well as future prospects.</description>
-      <author>Saira Ajmal, Anuj Kumar, Tuan Anh Nguyen, Ghulam Yasin</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-95515-7.00011-x</guid>
-    </item>
-    <item>
       <title>Efficient reduction of CO2 to CO by CdAl-LDHs nanostructured electrocatalysts in ionic liquids</title>
       <link>https://doi.org/10.1016/j.jphotochem.2024.115518</link>
       <description>Fang Tan, Tianxia Liu, Jian Ping Zhang, Journal of Photochemistry and Photobiology A: Chemistry. None(None)] 2024. https://openalex.org/W4391543242
@@ -236,16 +266,6 @@
       <author>Fang Tan, Tianxia Liu, Jian Ping Zhang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jphotochem.2024.115518</guid>
-    </item>
-    <item>
-      <title>(Keynote) Reversible CO2 Reduction Electrocatalysis in Solar-Powered Chemistry</title>
-      <link>https://doi.org/10.1149/ma2023-02522517mtgabs</link>
-      <description>Erwin Reisner, ECS Meeting Abstracts. MA2023-02(52)] 2023. https://openalex.org/W4391639103
-
-                Semi-artificial photosynthesis interfaces biological catalysts with synthetic materials such as electrodes or light absorbers to overcome limitations in natural and artificial photosynthesis. The benefit of using biocatalysts in electrocatalytic CO2 reduction is their electrochemical reversibility that enables their operation at very low overpotentials with high selectivity. This presentation will summarise my research group&#8217;s progress in integrating the CO2 reducing enzyme formate dehydrogenase into bespoke hierarchical 3D electrode scaffolds and the exploitation in solar-powered catalysis. I will present the electrochemical features and characterisation of the biocatalyst-material interface and provide my team's understanding of the electrochemical properties of the immobilised formate dehydrogenase. This insight allows the wiring of the biocatalyst into electrocatalytic schemes, photoelectrochemical devices and photocatalytic systems for unique CO2 utilisation reactions. The fundamental insights gained by integrating isolated formate dehydrogenase in electrodes will be presented and the case be made that this enzyme allows opening a solar-to-chemical conversion space that is currently not accessible with purly synthetic or biological catalysts (see uploaded Image as example). Recent publications: (1) Lam et al., Angew. Chem. Int. Ed., 2023, in print. (2) Bhattacharjee et al., Nat. Synth., 2023, 2, 182-92. (3) Badiani et al., J. Am. Chem. Soc., 2022, 144, 14207-16. (4) Cobb et al., Nat. Chem., 2022, 14, 417-24. (5) Edwardes Moore et al., Proc. Natl. Acad. Sci. USA, 2022, 119, e2114097199. (6) Anton Garcia et al., Nat. Synth. 2022, 1, 77-86. Reviews: (1) Fang et al., Chem. Soc. Rev., 2020, 49, 4926&#8211;52. (2) Zhang &amp; Reisner, Nature Rev. Chem., 2020, 4, 6&#8211;21. (3) Kornienko et al., Acc. Chem. Res., 2019, 52, 1439&#8211;44. (4) Kornienko et al., Nature Nanotech., 2018, 13, 890&#8211;99</description>
-      <author>Erwin Reisner</author>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02522517mtgabs</guid>
     </item>
     <item>
       <title>Beyond C&#8211;C coupling in CO2 reduction</title>
@@ -258,24 +278,14 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s44286-023-00019-9</guid>
     </item>
     <item>
-      <title>Haeckelite mediated reduction of CO2 by molecular hydrogen. A DFT study</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114499</link>
-      <description>Wilmer Esteban Vallejo Narv&#225;ez, C&#233;sar Gabriel Vera de la Garza, Serguei Fomine, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4391487109
+      <title>(Keynote) Reversible CO2 Reduction Electrocatalysis in Solar-Powered Chemistry</title>
+      <link>https://doi.org/10.1149/ma2023-02522517mtgabs</link>
+      <description>Erwin Reisner, ECS Meeting Abstracts. MA2023-02(52)] 2023. https://openalex.org/W4391639103
 
-                In this study, we conducted a theoretical exploration of haeckelite-mediated CO2 reduction with molecular hydrogen. We used a haeckelite nanoflake (NF) consisting of 96 carbon atoms passivated with hydrogens to elucidate the reaction mechanism on the 2D surface. The most favorable reaction pathway involves the sequential formation of formic acid, formaldehyde, methanol, and ultimately methane. Notably, formic acid formation is favored over carbon monoxide. Haeckelite-mediated reactions exhibit Gibbs-free activation energies 10 to 40 kcal/mol lower compared to processes without a catalyst. This catalytic effect is attributed to the interaction of H2 with the haeckelite surface, which weakens or breaks the HH bond. This theoretical perspective provides significant insights into carbon-based materials and their potential applications in transforming CO2 into fuels and value-added chemicals.</description>
-      <author>Wilmer Esteban Vallejo Narv&#225;ez, C&#233;sar Gabriel Vera de la Garza, Serguei Fomine</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114499</guid>
-    </item>
-    <item>
-      <title>Uncovering Photoelectronic and Photothermal Effects in Plasmon&#8208;Mediated Electrocatalytic CO2 Reduction</title>
-      <link>https://doi.org/10.1002/ange.202317740</link>
-      <description>Wei Yan, Zijie Mao, Tian-Wen Jiang, Hong Li, Xiao Ma, Chao Zhan, Wen&#8208;Bin Cai, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391605656
-
-                Plasmon&#8208;mediated electrocatalysis that rests on the ability of coupling localized surface plasmon resonance (LSPR) and electrochemical activation, emerges as an intriguing and booming area. However, its development seriously suffers from the entanglement between the photoelectronic and photothermal effects induced by the decay of plasmons, especially under the influence of applied potential. Herein, using LSPR&#8208;mediated CO2 reduction on Ag electrocatalyst as a model system, we quantitatively uncover the dominant photoelectronic effect on CO2 reduction reaction over a wide potential window, in contrast to the leading photothermal effect on H2 evolution reaction at relatively negative potentials. The excitation of LSPR selectively enhances the CO faradaic efficiency (17&#8208;fold at &#8722;0.6 VRHE) and partial current density (100&#8208;fold at &#8722;0.6 VRHE), suppressing the undesired H2 faradaic efficiency. Furthermore, in situ attenuated total reflection&#8208;surface enhanced infrared absorption spectroscopy (ATR&#8208;SEIRAS) reveals a plasmon&#8208;promoted formation of the bridge&#8208;bonded CO on Ag surface via a carbonyl&#8208;containing C1 intermediate. The present work demonstrates a deep mechanistic understanding of selective regulation of interfacial reactions by coupling plasmons and electrochemistry.</description>
-      <author>Wei Yan, Zijie Mao, Tian-Wen Jiang, Hong Li, Xiao Ma, Chao Zhan, Wen&#8208;Bin Cai</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202317740</guid>
+                Semi-artificial photosynthesis interfaces biological catalysts with synthetic materials such as electrodes or light absorbers to overcome limitations in natural and artificial photosynthesis. The benefit of using biocatalysts in electrocatalytic CO2 reduction is their electrochemical reversibility that enables their operation at very low overpotentials with high selectivity. This presentation will summarise my research group&#8217;s progress in integrating the CO2 reducing enzyme formate dehydrogenase into bespoke hierarchical 3D electrode scaffolds and the exploitation in solar-powered catalysis. I will present the electrochemical features and characterisation of the biocatalyst-material interface and provide my team's understanding of the electrochemical properties of the immobilised formate dehydrogenase. This insight allows the wiring of the biocatalyst into electrocatalytic schemes, photoelectrochemical devices and photocatalytic systems for unique CO2 utilisation reactions. The fundamental insights gained by integrating isolated formate dehydrogenase in electrodes will be presented and the case be made that this enzyme allows opening a solar-to-chemical conversion space that is currently not accessible with purly synthetic or biological catalysts (see uploaded Image as example). Recent publications: (1) Lam et al., Angew. Chem. Int. Ed., 2023, in print. (2) Bhattacharjee et al., Nat. Synth., 2023, 2, 182-92. (3) Badiani et al., J. Am. Chem. Soc., 2022, 144, 14207-16. (4) Cobb et al., Nat. Chem., 2022, 14, 417-24. (5) Edwardes Moore et al., Proc. Natl. Acad. Sci. USA, 2022, 119, e2114097199. (6) Anton Garcia et al., Nat. Synth. 2022, 1, 77-86. Reviews: (1) Fang et al., Chem. Soc. Rev., 2020, 49, 4926&#8211;52. (2) Zhang &amp; Reisner, Nature Rev. Chem., 2020, 4, 6&#8211;21. (3) Kornienko et al., Acc. Chem. Res., 2019, 52, 1439&#8211;44. (4) Kornienko et al., Nature Nanotech., 2018, 13, 890&#8211;99</description>
+      <author>Erwin Reisner</author>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02522517mtgabs</guid>
     </item>
   </channel>
 </rss>
