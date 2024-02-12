@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Feb 2024 00:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:44:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ultrastable and Phosphoric Acid-Resistant PtRhCu@Pt Oxygen Reduction Electrocatalyst for High-Temperature Polymer Electrolyte Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.3c04488</link>
-      <description>An Zhao, Huanqiao Li, Xiaoming Zhang, Zhangxun Xia, Hong Zhang, Wenling Chu, Shansheng Yu, Suli Wang, Gongquan Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391509433
-
-                No abstract</description>
-      <author>An Zhao, Huanqiao Li, Xiaoming Zhang, Zhangxun Xia, Hong Zhang, Wenling Chu, Shansheng Yu, Suli Wang, Gongquan Sun</author>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04488</guid>
-    </item>
-    <item>
-      <title>Axial coordinated iron-nitrogen-carbon as efficient electrocatalysts for hydrogen evolution and oxygen redox reactions</title>
-      <link>https://doi.org/10.1016/j.cclet.2024.109588</link>
-      <description>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang, Chinese Chemical Letters. None(None)] 2024. https://openalex.org/W4391515429
-
-                Designing highly active electrocatalysts for the hydrogen evolution reaction (HER) and oxygen evolution and reduction reactions (OER and ORR) is pivotal to renewable energy technology. Herein, based on density functional theory (DFT) calculations, we systematically investigate the catalytic activity of iron-nitrogen-carbon based covalent organic frameworks (COF) monolayers with axially coordinated ligands (denotes as FeN4-X@COF, X refers to axial ligand, X= -SCN, -I, -H, -SH, -NO2, -Br, -ClO, -Cl, -HCO3, -NO, -ClO2, -OH, -CN and -F). The calculated results demonstrate that all the catalysts possess good thermodynamic and electrochemical stabilities. The different ligands axially ligated to the Fe active center could induce changes in the charge of the Fe center, which further regulates the interaction strength between intermediates and catalysts that governs the catalytic activity. Importantly, FeN4-SH@COF and FeN4-OH@COF are efficient bifunctional catalysts for HER and OER, FeN4-OH@COF and FeN4-I@COF are promising bifunctional catalysts for OER and ORR. These findings not only reveal promising bifunctional HER/OER and OER/ORR catalysts but also provide theoretical guidance for designing optimum iron-nitrogen-carbon based catalysts.</description>
-      <author>Yanan Zhou, Li Sheng, Lanlan Chen, Wenhua Zhang, Jinlong Yang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.109588</guid>
-    </item>
-    <item>
-      <title>Computationally Screening Non-Precious Single Atom Catalysts for Oxygen Reduction in Alkaline Media</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.114560</link>
-      <description>Tahereh Jangjooye Shaldehi, Liang Meng, Soosan Rowshanzamir, Mohammad Javad Parnian, Kai S. Exner, Francesc Vi&#241;es, Francesc Illas, Catalysis Today. None(None)] 2024. https://openalex.org/W4391515484
-
-                The performance of single-atom catalysts (SACs) containing Sc, Ti, V, Mn, Fe, Ni, Cu, and Pt on N-doped carbon (NC) as possible cathodes in advanced chlor-alkali electrolysis has been investigated by means of density functional theory (DFT) with the aim of finding candidates to improve the sluggish kinetics of the oxygen reduction reaction (ORR). A plausible mechanism is proposed for the ORR that allows making use of the computational hydrogen electrode (CHE) approach in this environment, and suitable models have been used to estimate the free-energy changes corresponding to the elementary reaction steps. The performance of the different catalysts has been analyzed in terms of the electrochemical-step symmetry index (ESSI) and Gmax descriptors. From these descriptors, the Cu-containing SAC is predicted to exhibit the highest catalytic activity which is consistent with a theoretical overpotential of 0.71 V vs. the standard hydrogen electrode (SHE) only, indicating that this type of catalysts in oxygen depolarized cathodes (ODCs) may overcome the limitations of the high cost and low abundance of Pt and other precious metals.</description>
-      <author>Tahereh Jangjooye Shaldehi, Liang Meng, Soosan Rowshanzamir, Mohammad Javad Parnian, Kai S. Exner, Francesc Vi&#241;es, Francesc Illas</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114560</guid>
-    </item>
-    <item>
-      <title>Defect and doping engineered Ga2XY as electrocatalyst for hydrogen evolution reaction: First principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.01.327</link>
-      <description>Jingming Gao, Baonan Jia, Jiaxiang Zhao, Feng Wei, Zhengqin Zhao, Wenhua Lou, Xiaoning Guan, Wei Chen, Pengfei Lu, International Journal of Hydrogen Energy. 58(None)] 2024. https://openalex.org/W4391517442
-
-                Recently, chalcogenides have attracted much attention as electrocatalysts in hydrogen evolution reaction (HER). However, few studies have been conducted on the electrocatalytic properties of gallium oxides and chalcogenides. In this paper, a Ga2XY (X &#8800; Y, X, Y=O, S, Se, Te) defect structure doped by non-metal B, C, N, P, Si, and As have been designed. According to the study, the doping of non-metal atoms can significantly enhance their HER properties, the Ga2OSe-AsXi-Xi structure and Ga2SeTe-SiXi-NM structure possess intensely excellent HER properties in this study with the Gibbs free energy of 0.01 eV and 0.00 eV, respectively. It is found that the Ga2SeTe structure has a more concentrated electron transfer range compared to the Ga2OSe structure, leading to a superior HER performance. This work provides a new idea for the study of HER electrocatalytic performance of the Ga2XY system, and it is expected to be applied to HER catalysts affordably and efficiently.</description>
-      <author>Jingming Gao, Baonan Jia, Jiaxiang Zhao, Feng Wei, Zhengqin Zhao, Wenhua Lou, Xiaoning Guan, Wei Chen, Pengfei Lu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.327</guid>
-    </item>
     <item>
       <title>Consistent High Rate Oxygen Reduction Reaction during Corrosion of Mg-Ag Alloy</title>
       <link>https://doi.org/10.1016/j.corsci.2024.111893</link>
@@ -256,6 +216,46 @@
       <author>Yachun Mao, Xiaotong Yang, Kaiyu Dong, Tian Sheng, Qiang Yuan</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.02.012</guid>
+    </item>
+    <item>
+      <title>Tailoring 2D metal-organic frameworks for enhanced CO2 reduction efficiency through modulating conjugated ligands</title>
+      <link>https://doi.org/10.1016/j.fuproc.2024.108049</link>
+      <description>Sajjad Ali, Pir Muhammad Ismail, Muhammad Humayun, M. Bououdina, Liang Qiao, Fuel Processing Technology. 255(None)] 2024. https://openalex.org/W4391625704
+
+                The technology of electrocatalytic reduction of CO2 to produce hydrocarbon fuels not only alleviates energy shortages but also suppresses the greenhouse effect, demonstrating enormous potential applications. In this context, we aim to explore new reliable materials for reducing CO2 (CO2RR) through electrocatalysis. Hence, we investigated the performance of Cu3(C12X)2, where X signifies organic-ligands (N&#8321;&#8322;H&#8326;, N&#8329;H&#8323;O&#8323;, N&#8329;H&#8323;S&#8323;, N&#8326;O&#8326;, N&#8326;S&#8326;) for the CO2RR using density functional theory (DFT). The 2D Cu3(C12X)2 monolayers show metallic characteristics because of the presence of adequate &#960; electron conjugation network as-well-as a constructive interaction between the metal atom, organic-ligands, and benzene-rings, with the exception of Cu3(C12N9H3O3)2, which displayed semiconducting characteristic. The catalytic activity of Cu3(C12X)2 can be tuned by adjusting the organic-ligands' ability to facilitate interaction between the CO2RR intermediates and the metal complex (Cu-X4). Among all MOFs, Cu3(C12N6S6)2 have excellent CO2RR activity towards CO and formic acid. All other Cu3(C12X)2 monolayers demonstrated dynamic CO2RR catalytic activity as well as superior selectivity over hydrogen evolution (HER) suggesting that these materials have the potential to be useful as CO2RR electrocatalysts. This study introduces the concept of building MOFs with favorable features to meet the specific needs of a number of research domains including catalysis, energy conversion and storage.</description>
+      <author>Sajjad Ali, Pir Muhammad Ismail, Muhammad Humayun, M. Bououdina, Liang Qiao</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuproc.2024.108049</guid>
+    </item>
+    <item>
+      <title>Photocatalytic Z-scheme overall water splitting for hydrogen generation with Sc2CCl2/ML (ML = MoTe2, Hf2CO2) heterostructures</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.01.287</link>
+      <description>X.D. Li, Chuan&#8208;Lu Yang, Wenkai Zhao, Yu&#8208;Liang Liu, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391629187
+
+                Direct Z-schemes for photocatalytic overall water splitting for hydrogen generation are constructed for Sc2CCl2/MoTe2 and Sc2CCl2/Hf2CO2 heterostructures on the basis of the calculated band alignment and built-in electric field. Solar-to-hydrogen efficiency (&#951;STH&#8242;), which is evaluated using the overpotentials of the band edges and band gaps, can reach 22.09 % for Sc2CCl2/MoTe2 and 19.07 % for Sc2CCl2/Hf2CO2. Tensile strains have little effect on &#951;STH&#8242;. Compressive strains substantially increase the &#951;STH&#8242; of Sc2CCl2/MoTe2 and boost that of the Sc2CCl2/Hf2CO2 heterostructure only slightly. Nonadiabatic dynamics simulations reveal that the lifetime of the photogenerated electron in one of the stacking patterns of Sc2CCl2/MoTe2 is much larger than that of the other configurations, indicating that the reduction ability of the electron is well protected. However, the interlayer electron&#8211;hole recombination in Sc2CCl2/MoTe2 is faster than that in Sc2CCl2/Hf2CO2, implying that the Z-schemes with the former are more efficient than the Z-schemes with the latter. The hydrogen and oxidation evolution reactions with the two heterostructures are thermodynamically feasible but the reactions cannot proceed spontaneously. These findings provide a helpful guide for the development of photocatalytic materials for photocatalytic hydrogen generation from overall water splitting based on the title heterostructures.</description>
+      <author>X.D. Li, Chuan&#8208;Lu Yang, Wenkai Zhao, Yu&#8208;Liang Liu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.287</guid>
+    </item>
+    <item>
+      <title>The atomic structural descriptor based on cluster expansion method and superior performance of oxygen reduction on PtTi surface alloys from theoretical perspective</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.01.341</link>
+      <description>Jia-Qi Tan, Guang-Qiang Yu, Bo-Ying Huang, Yin Wang, Xibo Li, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391629564
+
+                Although alloying Pt with Ti is a feasible routine to improve oxygen reduction activity and stability, the atomic configuration of surface alloys on PtTi is still lacking deep understanding. Herein, the effect of Ti concentrations (x) in sublayer on ORR activity of PtTi surface alloys (Pt@Pt1-xTix@) with FCC or HCP Ti substrate, are systematically studied by first-principles calculations. The accurate atomic structural descriptor based on cluster expansion method is proposed to describe local atomic environment effect on intermediate (OH/OOH) adsorption ability. Different from b = 3.20 eV in traditional linear scaling relationship &#916;GOOH = &#916;GOH + b, the b values vary from 3.15 to 3.53 eV on PtTi surface alloys. Among surfaces alloys with different Ti concentrations, FCC- and HCP-Pt@Pt1-xTix(Pt)@ displayed the highest stability and catalytic activity at x = 3/9, and possessed a threefold and fivefold times of catalytic activity with a benchmark Pt(111) according to the calculated exchange current rate constants. Importantly, the FCC-Pt@Pt1-xTix(Pt)@ could be promising ORR catalyst as its high ORR activity at larger range of Ti concentration (x = 1/9&#8211;3/9), strong stability, and low Pt usage.</description>
+      <author>Jia-Qi Tan, Guang-Qiang Yu, Bo-Ying Huang, Yin Wang, Xibo Li</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.341</guid>
+    </item>
+    <item>
+      <title>Construction of defective MnCo-LDH nanoflowers with high activity for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.130961</link>
+      <description>Bolin Li, Liping Dai, Gouq-Jen Su, Zhaoming Xia, Yu&#8208;Xin Ye, Ze-Sheng Li, Fuel. 364(None)] 2024. https://openalex.org/W4391629728
+
+                Manganese-cobalt layered double hydroxide (MnCo-LDH) is a kind of layered bimetallic hydroxide with good catalytic performance and stability for water decomposition. In this paper, a series of defective MnCo-LDH materials with different Mn/Co molar ratio was prepared by hydrothermal method. The results show that the MnCo-nanoflowers containing Mn and Co elements are successfully prepared, and all of them contain N, O, Mn and Co elements. The hydrogen evolution reaction (HER) catalytic performance of Co vacancy (VCo)-MnCo-LDH is better than that of commercial electrode Pt/C, and oxygen evolution reaction (OER) catalytic performance of Mn vacancy (VMn)-MnCo-LDH is better than that of commercial electrode RuO2. Two-electrode overall water splitting (OWS) test showed that the overpotential required by VMn-MnCo-LDH/NF||VCo-MnCo-LDH/NF and Pt/C/NF||RuO2/NF were 1.56 V and 1.72 V respectively at the current density of 10 mA cm&#8722;2, and the catalytic activity of the prepared defective MnCo-LDH is excellent bifunctional electrocatalysts for both HER and OER.</description>
+      <author>Bolin Li, Liping Dai, Gouq-Jen Su, Zhaoming Xia, Yu&#8208;Xin Ye, Ze-Sheng Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.130961</guid>
     </item>
   </channel>
 </rss>

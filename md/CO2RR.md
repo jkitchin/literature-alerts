@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 11 00:48:02 2024
+Created on Mon Feb 12 00:44:21 2024
 
-Found 28 results from 2024-02-04 to 2024-02-11
+Found 28 results from 2024-02-05 to 2024-02-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -271,17 +271,6 @@ No abstract
 
     
 
-## Metal-organic framework composites for electrochemical CO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4391515522    
-Open access: False
-    
-[Kayode Adesina Adegoke](https://openalex.org/A5068670506), [Joshua O. Ighalo](https://openalex.org/A5008185576), [Jeanet Conradie](https://openalex.org/A5000341829), [Chinemerem Ruth Ohoro](https://openalex.org/A5091087628), [James F. Amaku](https://openalex.org/A5002534407), [Kabir O. Oyedotun](https://openalex.org/A5019730915), [Nobanathi Wendy Maxakato](https://openalex.org/A5041855090), [Kovo G. Akpomie](https://openalex.org/A5042386386), [Emmanuel Sunday Okeke](https://openalex.org/A5057047276), [Chijioke Olisah](https://openalex.org/A5018863848), [Alhadji Malloum](https://openalex.org/A5021557399), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.126532.
-    
-Carbon dioxide (CO2) levels in the atmosphere are quickly increasing as a consequence of anthropogenic activities, which present grave hazards and dangerous circumstances to not only humanity but also the ecosystem. Currently, electrochemical CO2 conversion to chemical/fuels remains one of the best methods for minimizing CO2 concentrations. Metal-organic frameworks (MOFs) composite materials have been considered as new class of highly-performed electrocatalysts for CO2 reduction reaction (CO2RR) due to their wide surface area, higher porosity, chemical tunability and excellent stability. This article presents major approaches for electrochemical CO2RR to value-added product. These were followed by discussing the recent advancements in MOF composite electrocatalysts for CO2RR including active sites MOF-supported electrocatalysts, metal-nanoparticles-supported MOFs, conductive supported MOFs composites, and polyoxometalate-based MOF composites. Lastly, some challenges currently facing MOF composites for CO2RR as well as anticipated future advances were discussed. Research hotspot lies in the creation of highly effective CO2RR electrocatalyst such as ligand engineering in MOFs. It is believed that the current study will contribute to accelerating the fabrication of efficient MOF composite materials for abating the CO2 emission in the ecosystem and to highlight the necessity for further research to address significant environmental sustainability concerns.    
-
-    
-
 ## Efficient reduction of CO2 to CO by CdAl-LDHs nanostructured electrocatalysts in ionic liquids   
 
 OpenAlex: https://openalex.org/W4391543242    
@@ -312,5 +301,16 @@ Open access: False
 [Erwin Reisner](https://openalex.org/A5026491082), ECS Meeting Abstracts. MA2023-02(52)] 2023.https://doi.org/10.1149/ma2023-02522517mtgabs.
     
 Semi-artificial photosynthesis interfaces biological catalysts with synthetic materials such as electrodes or light absorbers to overcome limitations in natural and artificial photosynthesis. The benefit of using biocatalysts in electrocatalytic CO2 reduction is their electrochemical reversibility that enables their operation at very low overpotentials with high selectivity. This presentation will summarise my research group’s progress in integrating the CO2 reducing enzyme formate dehydrogenase into bespoke hierarchical 3D electrode scaffolds and the exploitation in solar-powered catalysis. I will present the electrochemical features and characterisation of the biocatalyst-material interface and provide my team's understanding of the electrochemical properties of the immobilised formate dehydrogenase. This insight allows the wiring of the biocatalyst into electrocatalytic schemes, photoelectrochemical devices and photocatalytic systems for unique CO2 utilisation reactions. The fundamental insights gained by integrating isolated formate dehydrogenase in electrodes will be presented and the case be made that this enzyme allows opening a solar-to-chemical conversion space that is currently not accessible with purly synthetic or biological catalysts (see uploaded Image as example). Recent publications: (1) Lam et al., Angew. Chem. Int. Ed., 2023, in print. (2) Bhattacharjee et al., Nat. Synth., 2023, 2, 182-92. (3) Badiani et al., J. Am. Chem. Soc., 2022, 144, 14207-16. (4) Cobb et al., Nat. Chem., 2022, 14, 417-24. (5) Edwardes Moore et al., Proc. Natl. Acad. Sci. USA, 2022, 119, e2114097199. (6) Anton Garcia et al., Nat. Synth. 2022, 1, 77-86. Reviews: (1) Fang et al., Chem. Soc. Rev., 2020, 49, 4926–52. (2) Zhang & Reisner, Nature Rev. Chem., 2020, 4, 6–21. (3) Kornienko et al., Acc. Chem. Res., 2019, 52, 1439–44. (4) Kornienko et al., Nature Nanotech., 2018, 13, 890–99    
+
+    
+
+## Improving a highly active tungsten-dependent formate dehydrogenase for biocatalytic reduction of CO2   
+
+OpenAlex: https://openalex.org/W4391704210    
+Open access: False
+    
+, No host. None(None)] 2020.https://doi.org/10.54499/2020.07897.bd.
+    
+No abstract    
 
     

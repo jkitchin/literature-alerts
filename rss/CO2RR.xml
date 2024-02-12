@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Feb 2024 00:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:44:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -248,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/143490/2019</guid>
     </item>
     <item>
-      <title>Metal-organic framework composites for electrochemical CO2 reduction reaction</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.126532</link>
-      <description>Kayode Adesina Adegoke, Joshua O. Ighalo, Jeanet Conradie, Chinemerem Ruth Ohoro, James F. Amaku, Kabir O. Oyedotun, Nobanathi Wendy Maxakato, Kovo G. Akpomie, Emmanuel Sunday Okeke, Chijioke Olisah, Alhadji Malloum, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391515522
-
-                Carbon dioxide (CO2) levels in the atmosphere are quickly increasing as a consequence of anthropogenic activities, which present grave hazards and dangerous circumstances to not only humanity but also the ecosystem. Currently, electrochemical CO2 conversion to chemical/fuels remains one of the best methods for minimizing CO2 concentrations. Metal-organic frameworks (MOFs) composite materials have been considered as new class of highly-performed electrocatalysts for CO2 reduction reaction (CO2RR) due to their wide surface area, higher porosity, chemical tunability and excellent stability. This article presents major approaches for electrochemical CO2RR to value-added product. These were followed by discussing the recent advancements in MOF composite electrocatalysts for CO2RR including active sites MOF-supported electrocatalysts, metal-nanoparticles-supported MOFs, conductive supported MOFs composites, and polyoxometalate-based MOF composites. Lastly, some challenges currently facing MOF composites for CO2RR as well as anticipated future advances were discussed. Research hotspot lies in the creation of highly effective CO2RR electrocatalyst such as ligand engineering in MOFs. It is believed that the current study will contribute to accelerating the fabrication of efficient MOF composite materials for abating the CO2 emission in the ecosystem and to highlight the necessity for further research to address significant environmental sustainability concerns.</description>
-      <author>Kayode Adesina Adegoke, Joshua O. Ighalo, Jeanet Conradie, Chinemerem Ruth Ohoro, James F. Amaku, Kabir O. Oyedotun, Nobanathi Wendy Maxakato, Kovo G. Akpomie, Emmanuel Sunday Okeke, Chijioke Olisah, Alhadji Malloum</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126532</guid>
-    </item>
-    <item>
       <title>Efficient reduction of CO2 to CO by CdAl-LDHs nanostructured electrocatalysts in ionic liquids</title>
       <link>https://doi.org/10.1016/j.jphotochem.2024.115518</link>
       <description>Fang Tan, Tianxia Liu, Jian Ping Zhang, Journal of Photochemistry and Photobiology A: Chemistry. None(None)] 2024. https://openalex.org/W4391543242
@@ -286,6 +276,16 @@
       <author>Erwin Reisner</author>
       <pubDate>Fri, 22 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1149/ma2023-02522517mtgabs</guid>
+    </item>
+    <item>
+      <title>Improving a highly active tungsten-dependent formate dehydrogenase for biocatalytic reduction of CO2</title>
+      <link>https://doi.org/10.54499/2020.07897.bd</link>
+      <description>, No host. None(None)] 2020. https://openalex.org/W4391704210
+
+                No abstract</description>
+      <author/>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54499/2020.07897.bd</guid>
     </item>
   </channel>
 </rss>

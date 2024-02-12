@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 11 Feb 2024 00:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:44:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ultrastable and Phosphoric Acid-Resistant PtRhCu@Pt Oxygen Reduction Electrocatalyst for High-Temperature Polymer Electrolyte Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.3c04488</link>
-      <description>An Zhao, Huanqiao Li, Xiaoming Zhang, Zhangxun Xia, Hong Zhang, Wenling Chu, Shansheng Yu, Suli Wang, Gongquan Sun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391509433
-
-                No abstract</description>
-      <author>An Zhao, Huanqiao Li, Xiaoming Zhang, Zhangxun Xia, Hong Zhang, Wenling Chu, Shansheng Yu, Suli Wang, Gongquan Sun</author>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04488</guid>
-    </item>
     <item>
       <title>Photoredox-Driven Three-Component Coupling of Aryl Halides, Olefins, and O&lt;sub&gt;2&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acscatal.3c05988</link>
@@ -190,10 +180,10 @@
     <item>
       <title>First-Principles-Based Kinetic Monte Carlo Model of Hydrogen Evolution Reaction under Realistic Conditions: Solvent, Hydrogen Coverage and Electric Field Effects</title>
       <link>https://doi.org/10.1021/acscatal.3c04588</link>
-      <description>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8208;Sandoval, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391614041
+      <description>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8211;Sandoval, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391614041
 
                 The hydrogen evolution reaction (HER) plays an important role in electrocatalytic water splitting. Despite the progress on the development of HER catalysts, the dynamic evolution of HER reaction under realistic electrochemical conditions considering the electric field, solvent, and hydrogen coverage effects is still unclear. In this study, a first-principles-based H surface coverage and potential-dependent kinetic Monte Carlo (KMC) HER model on the Pt (111)/Pt (100) surface is presented. The reaction kinetics and electronic structure analysis of HER on Pt surfaces in the presence of dihydrated proton (H5O2+) and H surface coverage is investigated using density functional theory (DFT). The HER KMC model was developed based on the DFT-calculated energetics. The KMC simulation results showed that consideration of H5O2+ species and dynamic evolution of H coverage is essential for accurate description of HER reaction on the Pt catalyst, which fits well with HER polarization data. Moreover, sensitivity analysis shows that HER on Pt (111) is mainly affected by the Tafel step. On the Pt(100) surface, HER is primarily governed by the Heyrovsky pathway. Surface species evolution analysis demonstrates that the high working potential accelerated the formation of [Pt-2H] species, leading to increased H coverage and accelerating the HER process. The predicted weakened H binding strength and increased H coverage at high HER working potential was verified by in situ attenuated total reflection Fourier transformed infrared spectroscopy analysis. Overall, the proposed DFT-KMC model represents the state-of-art dynamic simulation of catalytic HER reaction, providing important insights into the evolution of HER under realistic operation conditions.</description>
-      <author>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8208;Sandoval</author>
+      <author>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8211;Sandoval</author>
       <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04588</guid>
     </item>
@@ -256,6 +246,16 @@
       <author>Jun Tang, Na Ni, Baowen Zhou, Chen Yang, Kolan Madhav Reddy, Heng Tu, Yu-Si Liu, Zhe Tan, Longkai Xiang, Haozhen Li, Xing Zhang, Yunyi Zhang, Yixin Li, Hanchao Zhang, Lei Zhu, Zhen Huang</author>
       <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05972</guid>
+    </item>
+    <item>
+      <title>Dehydrogenation and Transfer Hydrogenation of Alkenones to Phenols and Ketones on Carbon-Supported Noble Metals</title>
+      <link>https://doi.org/10.1021/acscatal.3c04849</link>
+      <description>Katja Li, H. Ray Kelly, Jos&#233; Armando L. da Silva, V&#237;ctor S. Batista, Eszter Bar&#225;th, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391681918
+
+                The catalytic dehydrogenation of substituted alkenones on noble metal catalysts supported on carbon (Pt/C, Pd/C, Rh/C, and Ru/C) was investigated in an organic phase under inert conditions. The dehydrogenation and semihydrogenation of the enone starting materials resulted in aromatic compounds (primary products), saturated cyclic ketones (secondary products), and cyclic alcohols (minor products). Pd/C exhibits the highest catalytic activity, followed by Pt/C and Rh/C. Aromatic compounds remain the primary products, even in the presence of hydrogen donors. Joint experimental and theoretical analyses showed that the four catalytic materials stabilize a common dienol intermediate on the metal surfaces, formed by keto&#8211;enol tautomerization. This intermediate subsequently forms aromatic products upon dehydrogenation. The binding orientation of the enone reactants on the catalytic surface is strongly metal-dependent, as the M&#8211;O bond distance changes substantially according to the metal. The longer M&#8211;O bonds (Pt: 2.84 &#197; &gt; Pd: 2.23 &#197; &gt; Rh: 2.17 &#197; &gt; Ru: 2.07 &#197;) correlate with faster reaction rates and more favorable keto&#8211;enol tautomerization, as shorter distances correspond to a more stabilized starting material. Tautomerization is shown to occur via a stepwise surface-assisted pathway. Overall, each of the studied metals exhibits a distinct balance of enthalpy and entropy of activation (&#916;H&#176;&#8225;, &#916;S&#176;&#8225;), offering unique possibilities in the realm of enone dehydrogenation reactions that can be achieved by suitable selection of catalytic materials.</description>
+      <author>Katja Li, H. Ray Kelly, Jos&#233; Armando L. da Silva, V&#237;ctor S. Batista, Eszter Bar&#225;th</author>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04849</guid>
     </item>
   </channel>
 </rss>

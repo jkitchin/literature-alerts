@@ -1,32 +1,11 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Feb 11 00:48:03 2024
+Created on Mon Feb 12 00:44:22 2024
 
-Found 25 results from 2024-02-04 to 2024-02-11
+Found 25 results from 2024-02-05 to 2024-02-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Ultrastable and Phosphoric Acid-Resistant PtRhCu@Pt Oxygen Reduction Electrocatalyst for High-Temperature Polymer Electrolyte Fuel Cells  :ACS_Catalysis:
-:PROPERTIES:
-:ID: https://openalex.org/W4391509433
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-02-03
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04488")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391509433"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391509433"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391509433"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391509433 (Open access: False)
-    
-[[https://openalex.org/A5088459641][An Zhao]], [[https://openalex.org/A5054722093][Huanqiao Li]], [[https://openalex.org/A5091381220][Xiaoming Zhang]], [[https://openalex.org/A5012104204][Zhangxun Xia]], [[https://openalex.org/A5069849278][Hong Zhang]], [[https://openalex.org/A5078357872][Wenling Chu]], [[https://openalex.org/A5020651129][Shansheng Yu]], [[https://openalex.org/A5000140137][Suli Wang]], [[https://openalex.org/A5039323596][Gongquan Sun]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c04488 
-     
-No abstract    
-
-    
 
 * Photoredox-Driven Three-Component Coupling of Aryl Halides, Olefins, and O2  :ACS_Catalysis:
 :PROPERTIES:
@@ -400,7 +379,7 @@ Although amine dehydrogenases (AmDHs) are emerging as attractive biocatalysts fo
 
 OpenAlex: https://openalex.org/W4391614041 (Open access: False)
     
-[[https://openalex.org/A5070169953][Yuhong Luo]], [[https://openalex.org/A5035781997][Yani Guan]], [[https://openalex.org/A5013752220][Guihua Liu]], [[https://openalex.org/A5007948614][Yanji Wang]], [[https://openalex.org/A5083687798][Jingde Li]], [[https://openalex.org/A5043725286][Luis Ricardez‐Sandoval]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c04588 
+[[https://openalex.org/A5070169953][Yuhong Luo]], [[https://openalex.org/A5035781997][Yani Guan]], [[https://openalex.org/A5013752220][Guihua Liu]], [[https://openalex.org/A5007948614][Yanji Wang]], [[https://openalex.org/A5083687798][Jingde Li]], [[https://openalex.org/A5043725286][Luis Ricardez–Sandoval]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c04588 
      
 The hydrogen evolution reaction (HER) plays an important role in electrocatalytic water splitting. Despite the progress on the development of HER catalysts, the dynamic evolution of HER reaction under realistic electrochemical conditions considering the electric field, solvent, and hydrogen coverage effects is still unclear. In this study, a first-principles-based H surface coverage and potential-dependent kinetic Monte Carlo (KMC) HER model on the Pt (111)/Pt (100) surface is presented. The reaction kinetics and electronic structure analysis of HER on Pt surfaces in the presence of dihydrated proton (H5O2+) and H surface coverage is investigated using density functional theory (DFT). The HER KMC model was developed based on the DFT-calculated energetics. The KMC simulation results showed that consideration of H5O2+ species and dynamic evolution of H coverage is essential for accurate description of HER reaction on the Pt catalyst, which fits well with HER polarization data. Moreover, sensitivity analysis shows that HER on Pt (111) is mainly affected by the Tafel step. On the Pt(100) surface, HER is primarily governed by the Heyrovsky pathway. Surface species evolution analysis demonstrates that the high working potential accelerated the formation of [Pt-2H] species, leading to increased H coverage and accelerating the HER process. The predicted weakened H binding strength and increased H coverage at high HER working potential was verified by in situ attenuated total reflection Fourier transformed infrared spectroscopy analysis. Overall, the proposed DFT-KMC model represents the state-of-art dynamic simulation of catalytic HER reaction, providing important insights into the evolution of HER under realistic operation conditions.    
 
@@ -529,5 +508,26 @@ OpenAlex: https://openalex.org/W4391679800 (Open access: False)
 [[https://openalex.org/A5024280063][Jun Tang]], [[https://openalex.org/A5075626239][Na Ni]], [[https://openalex.org/A5010878103][Baowen Zhou]], [[https://openalex.org/A5015927446][Chen Yang]], [[https://openalex.org/A5041129333][Kolan Madhav Reddy]], [[https://openalex.org/A5012980325][Heng Tu]], [[https://openalex.org/A5002038517][Yu-Si Liu]], [[https://openalex.org/A5057876953][Zhe Tan]], [[https://openalex.org/A5030172940][Longkai Xiang]], [[https://openalex.org/A5015353382][Haozhen Li]], [[https://openalex.org/A5050803462][Xing Zhang]], [[https://openalex.org/A5086509214][Yunyi Zhang]], [[https://openalex.org/A5089669072][Yixin Li]], [[https://openalex.org/A5064982569][Hanchao Zhang]], [[https://openalex.org/A5050980529][Lei Zhu]], [[https://openalex.org/A5087875241][Zhen Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05972 
      
 Ni-based cermet materials still persist as pronounced challenges for electrocatalysts in solid oxide electrolysis cells (SOECs), due to their insufficient CO2 catalytic efficiency and inferior resistance to oxidation. In this paper, a (Fe,Co,Ni,Cu,Mo) quinary high-entropy alloy is explored as an alternative cathode material, offering enhanced performance in the co-electrolysis of H2O and CO2 for renewable syngas production. In comparison to traditional nickel-based cathodes, an assembled SOEC employing the as-designed quinary high-entropy alloy exhibits a remarkable increase in CO2 conversion capacity and significantly enhanced oxidation resistance. In addition, the electrolysis current density increases by 18%, and a stability test for more than 110 h reveals no degradation. Moreover, the stability can be maintained for up to 40 h even without any protective gas. Morphological and spectroscopic analyses, coupled with density functional theory (DFT) calculations, elucidate that the high-entropy effect facilitates surface electron redistribution, which in turn contributes to the measurable activity by reducing the energy barrier of CO2 activation. Notably, the superior resistance to oxidation primarily originates from the in situ-formed spinel phase under oxidation conditions. This study demonstrates the satisfying performance of high-entropy alloys as cathode materials in SOEC, validating their high application potential in this field.    
+
+    
+
+* Dehydrogenation and Transfer Hydrogenation of Alkenones to Phenols and Ketones on Carbon-Supported Noble Metals  :ACS_Catalysis:
+:PROPERTIES:
+:ID: https://openalex.org/W4391681918
+:TOPICS: Homogeneous Catalysis with Transition Metals, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-02-09
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c04849")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391681918"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391681918"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391681918"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391681918 (Open access: True)
+    
+[[https://openalex.org/A5010415616][Katja Li]], [[https://openalex.org/A5065641804][H. Ray Kelly]], [[https://openalex.org/A5080850986][José Armando L. da Silva]], [[https://openalex.org/A5089129603][Víctor S. Batista]], [[https://openalex.org/A5047406603][Eszter Baráth]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c04849  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04849][pdf]])
+     
+The catalytic dehydrogenation of substituted alkenones on noble metal catalysts supported on carbon (Pt/C, Pd/C, Rh/C, and Ru/C) was investigated in an organic phase under inert conditions. The dehydrogenation and semihydrogenation of the enone starting materials resulted in aromatic compounds (primary products), saturated cyclic ketones (secondary products), and cyclic alcohols (minor products). Pd/C exhibits the highest catalytic activity, followed by Pt/C and Rh/C. Aromatic compounds remain the primary products, even in the presence of hydrogen donors. Joint experimental and theoretical analyses showed that the four catalytic materials stabilize a common dienol intermediate on the metal surfaces, formed by keto–enol tautomerization. This intermediate subsequently forms aromatic products upon dehydrogenation. The binding orientation of the enone reactants on the catalytic surface is strongly metal-dependent, as the M–O bond distance changes substantially according to the metal. The longer M–O bonds (Pt: 2.84 Å > Pd: 2.23 Å > Rh: 2.17 Å > Ru: 2.07 Å) correlate with faster reaction rates and more favorable keto–enol tautomerization, as shorter distances correspond to a more stabilized starting material. Tautomerization is shown to occur via a stepwise surface-assisted pathway. Overall, each of the studied metals exhibits a distinct balance of enthalpy and entropy of activation (ΔH°‡, ΔS°‡), offering unique possibilities in the realm of enone dehydrogenation reactions that can be achieved by suitable selection of catalytic materials.    
 
     
