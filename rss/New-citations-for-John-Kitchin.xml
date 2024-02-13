@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:44:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:44:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Consistent High Rate Oxygen Reduction Reaction during Corrosion of Mg-Ag Alloy</title>
-      <link>https://doi.org/10.1016/j.corsci.2024.111893</link>
-      <description>Cheng Wang, Kun Qian, Yulong Wu, Di Mei, Chenglin Chu, Xue Feng, Jing Bai, Mikhail L. Zheludkevich, Sviatlana V. Lamaka, Corrosion Science. None(None)] 2024. https://openalex.org/W4391520831
-
-                No abstract</description>
-      <author>Cheng Wang, Kun Qian, Yulong Wu, Di Mei, Chenglin Chu, Xue Feng, Jing Bai, Mikhail L. Zheludkevich, Sviatlana V. Lamaka</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.corsci.2024.111893</guid>
-    </item>
     <item>
       <title>Ultra-Efficient and Cost-Effective Platinum Nanomembrane Electrocatalyst for Sustainable Hydrogen Production</title>
       <link>https://doi.org/10.1007/s40820-024-01324-5</link>
@@ -256,6 +246,16 @@
       <author>Bolin Li, Liping Dai, Gouq-Jen Su, Zhaoming Xia, Yu&#8208;Xin Ye, Ze-Sheng Li</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.130961</guid>
+    </item>
+    <item>
+      <title>Study on ORR reaction of B-doped graphene supported Co atoms with different defects</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114506</link>
+      <description>Zhihua Ju, Xuyun Zhang, Yong Wang, Yan Liang, Fapeng Yu, Yong Liu, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4391642348
+
+                The performance of single atom catalyst (SAC) is strongly affected by its carrier. Five configurations with single vacancy, double vacancy, and defect site were calculated using density functional theory (DFT), and it was found that the electronic structure and state density were effectively regulated after introducing the B atom. The ORR activity was studied by doping different coordination layers. The results show that when doped with the second coordination layer of Co-DVG-N4 configuration, B can improve the adsorption strength of the central Co atom to the oxygen intermediate and show excellent ORR activity. Co-DVG-N4-B4(12.9 %) and Co-DVG-N4-B5(16.1 %) have relatively low overpotentials of 0.49 V and 0.47 V, providing an effective theoretical basis for rationalizing efficient electrocatalysts based on Co carbon materials.</description>
+      <author>Zhihua Ju, Xuyun Zhang, Yong Wang, Yan Liang, Fapeng Yu, Yong Liu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114506</guid>
     </item>
   </channel>
 </rss>

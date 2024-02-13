@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:44:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Photoredox-Driven Three-Component Coupling of Aryl Halides, Olefins, and O&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.3c05988</link>
-      <description>Mark C. Maust, Simon B. Blakey, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391522091
-
-                Modern organic synthesis requires methodologies that bring together abundant feedstock chemicals in a mild and efficient manner. To aid in this effort, we have developed a multicomponent radical hydroxyarylation reaction that utilizes aryl halides, olefins, and O2 as the reaction components. Crucial to this advance was an oxidative, rather than a reductive, approach to aryl radical generation, which enables reaction tolerance to O2. This methodology displays a broad functional group tolerance with a variety of functionalized aryl halides and a broad array of olefins. Development of this methodology enables rapid access to biologically relevant hydroxyaryl products from simple, commercially available starting materials.</description>
-      <author>Mark C. Maust, Simon B. Blakey</author>
-      <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05988</guid>
-    </item>
     <item>
       <title>Photoelectrochemical Urea Synthesis from Nitrate and Carbon Dioxide on GaN Nanowires</title>
       <link>https://doi.org/10.1021/acscatal.3c04264</link>
@@ -256,6 +246,16 @@
       <author>Katja Li, H. Ray Kelly, Jos&#233; Armando L. da Silva, V&#237;ctor S. Batista, Eszter Bar&#225;th</author>
       <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04849</guid>
+    </item>
+    <item>
+      <title>Unveiling the Dynamic Evolution of Single-Atom Co Sites in Covalent Triazine Frameworks for Enhanced H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.3c04439</link>
+      <description>Chao Zhu, Yanchi Yao, Qile Fang, Lingxiangyu Li, Baoliang Chen, Yi Shen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391685024
+
+                Unraveling the structural evolution and mechanism of active sites in single-atom catalysts (SACs) during H2O2 production under operational conditions remains challenging due to the transient and elusive nature of the underlying reaction processes. Herein, we employ operando X-ray absorption spectroscopy and ab initio molecular dynamics simulations to unveil the dynamic reconstruction behavior of the Co single atom-loaded covalent triazine framework (CoSA/Py-CTF) during photocatalytic H2O2 production. The unique Py-CTF substrate provides reasonable structural flexibility to the single atom Co site. Under light irradiation and O2 adsorption, single Co atoms are dynamically released from the Py-CTF substrate and then form transient atom-pairs with neighboring Co atoms, serving as the authentic active site. The dynamic shuttling of Co subnanometer domains between single-atoms and atom-pairs facilitates the transition of the O2 adsorption configurations from Pauling type to Yeager type, resulting in a record photocatalytic H2O2 yield (2898.3 &#956;mol&#183;h&#8211;1&#183;g&#8211;1). These findings provide insightful observations into the dynamic photochemical behavior of SACs and present an fresh paradigm for the design of intelligent &#8220;adaptive catalysts&#8221;.</description>
+      <author>Chao Zhu, Yanchi Yao, Qile Fang, Lingxiangyu Li, Baoliang Chen, Yi Shen</author>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04439</guid>
     </item>
   </channel>
 </rss>

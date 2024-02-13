@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 12 Feb 2024 00:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 00:44:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Desiging Asymmetrical Tmn4 Sites Via Phosphorous or Sulfur Dual Coordination as High-Performanceelectrocatalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.4716365</link>
-      <description>Xia Zhe, Jinzhong Tian, Rui Tan, Hua Hou, Xinyu Zhang, Yuhong Zhao, No host. None(None)] 2024. https://openalex.org/W4391523080
-
-                The development of highly efficient oxygen evolution reaction (OER) catalysts based on more cost-effective and earth-abundant elements is of great significance and still faces a huge challenge. In this work, a series of transition metal (TM) embedding a new-defined monolayer carbon nitride phase is theoretically profiled and constructed as a catalytic platform for OER studies. Typically, a four-step screening strategy was proposed to rapidly identified high performance candidates and the coordination structure and catalytic performance relationship was thoroughly analyzed. Moreover, the eliminating criterion was established to condenses valid range based on the Gibbs free energy of OH*. Our results reveal that the as-constructed 2FeCN/P exhibits superior activity toward OER with an ultralow overpotential of 0.25 V, at the same time, the established 3FeCN/S configuration performed well as a bifunctional OER/ORR electrocatalysis with extremely lower overpotential &#951;OER/&#951;ORR of 0.26/0.48 V. Overall, this work provides an effective framework for screening advanced OER catalysts, which can also be extended to the complex multistep catalytic reactions.</description>
-      <author>Xia Zhe, Jinzhong Tian, Rui Tan, Hua Hou, Xinyu Zhang, Yuhong Zhao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4716365</guid>
-    </item>
     <item>
       <title>WS&lt;sub&gt;2&lt;/sub&gt;/Mesoporous Carbon Nanostructures as a Bifunctional Electrode for All Quasi&#8208;Solid&#8208;State Supercapacitor and Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/admt.202301797</link>
@@ -256,6 +246,16 @@
       <author>Onno van der Heijden, Jordy J.J. Eggebeen, Hanna Trzesniowski, Nipon Deka, Ronny Golnak, Jie Xiao, Maartje van Rijn, Rik V. Mom, Marc T. M. Koper</author>
       <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202318692</guid>
+    </item>
+    <item>
+      <title>The Electrocatalytic Oxygen Evolution Reaction Activity of Rationally Designed NiFe-Based Glycerates</title>
+      <link>https://doi.org/10.3390/electrochem5010005</link>
+      <description>Vivek Kumar Singh, Bibhudatta Malik, Rajashree Konar, Efrat Shawat Avraham, Gilbert Daniel Nessim, Electrochem. 5(1)] 2024. https://openalex.org/W4391614951
+
+                The electrocatalytic oxygen evolution reaction (OER) is an arduous step in water splitting due to its slow reaction rate and large overpotential. Herein, we synthesized glycerate-anion-intercalated nickel&#8211;iron glycerates (NiFeGs) using a one-step solvothermal reaction. We designed various NiFeGs by tuning the molar ratio between Ni and Fe to obtain Ni4Fe1G, Ni3Fe1G, Ni3Fe2G, and Ni1Fe1G, which we tested for their OER performance. We initially analyzed the catalytic performance of powder samples immobilized on glassy carbon electrodes using a binder. Ni3Fe2G outperformed the other NiFeG compositions, including NiFe layered double hydroxide (LDH). It exhibited an overpotential of 320 mV at a current density of 10 mA cm&#8211;2 in an electrolytic solution of pH 14. We then synthesized carbon paper (CP)-modified Ni3Fe2G as a self-supported electrode (Ni3Fe2G/CP), and it exhibited a high current density (100 mA cm&#8722;2) at a low overpotential of 300 mV. The redox peak analysis for the NiFeGs revealed that the initial step of the OER is the formation of &#947;-NiOOH, which was further confirmed by a post-Raman analysis. We extensively analyzed the catalyst&#8217;s stability and lifetime, the nature of the active sites, and the role of the Fe content to enhance the OER performance. This work may provide the motivation to study metal-alkoxide-based efficient OER electrocatalysts that can be used for alkaline water electrolyzer applications.</description>
+      <author>Vivek Kumar Singh, Bibhudatta Malik, Rajashree Konar, Efrat Shawat Avraham, Gilbert Daniel Nessim</author>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/electrochem5010005</guid>
     </item>
     <item>
       <title>An Effective Oxygen Evolution Catalyst</title>

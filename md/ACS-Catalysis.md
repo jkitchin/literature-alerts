@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Feb 12 00:44:22 2024
+Created on Tue Feb 13 00:44:13 2024
 
-Found 25 results from 2024-02-05 to 2024-02-12
+Found 25 results from 2024-02-06 to 2024-02-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Photoredox-Driven Three-Component Coupling of Aryl Halides, Olefins, and O2   
-
-OpenAlex: https://openalex.org/W4391522091    
-Open access: True
-    
-[Mark C. Maust](https://openalex.org/A5060466975), [Simon B. Blakey](https://openalex.org/A5031746021), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05988 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05988)).
-    
-Modern organic synthesis requires methodologies that bring together abundant feedstock chemicals in a mild and efficient manner. To aid in this effort, we have developed a multicomponent radical hydroxyarylation reaction that utilizes aryl halides, olefins, and O2 as the reaction components. Crucial to this advance was an oxidative, rather than a reductive, approach to aryl radical generation, which enables reaction tolerance to O2. This methodology displays a broad functional group tolerance with a variety of functionalized aryl halides and a broad array of olefins. Development of this methodology enables rapid access to biologically relevant hydroxyaryl products from simple, commercially available starting materials.    
-
-    
 
 ## Photoelectrochemical Urea Synthesis from Nitrate and Carbon Dioxide on GaN Nanowires   
 
@@ -278,5 +267,16 @@ Open access: True
 [Katja Li](https://openalex.org/A5010415616), [H. Ray Kelly](https://openalex.org/A5065641804), [José Armando L. da Silva](https://openalex.org/A5080850986), [Víctor S. Batista](https://openalex.org/A5089129603), [Eszter Baráth](https://openalex.org/A5047406603), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04849 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04849)).
     
 The catalytic dehydrogenation of substituted alkenones on noble metal catalysts supported on carbon (Pt/C, Pd/C, Rh/C, and Ru/C) was investigated in an organic phase under inert conditions. The dehydrogenation and semihydrogenation of the enone starting materials resulted in aromatic compounds (primary products), saturated cyclic ketones (secondary products), and cyclic alcohols (minor products). Pd/C exhibits the highest catalytic activity, followed by Pt/C and Rh/C. Aromatic compounds remain the primary products, even in the presence of hydrogen donors. Joint experimental and theoretical analyses showed that the four catalytic materials stabilize a common dienol intermediate on the metal surfaces, formed by keto–enol tautomerization. This intermediate subsequently forms aromatic products upon dehydrogenation. The binding orientation of the enone reactants on the catalytic surface is strongly metal-dependent, as the M–O bond distance changes substantially according to the metal. The longer M–O bonds (Pt: 2.84 Å > Pd: 2.23 Å > Rh: 2.17 Å > Ru: 2.07 Å) correlate with faster reaction rates and more favorable keto–enol tautomerization, as shorter distances correspond to a more stabilized starting material. Tautomerization is shown to occur via a stepwise surface-assisted pathway. Overall, each of the studied metals exhibits a distinct balance of enthalpy and entropy of activation (ΔH°‡, ΔS°‡), offering unique possibilities in the realm of enone dehydrogenation reactions that can be achieved by suitable selection of catalytic materials.    
+
+    
+
+## Unveiling the Dynamic Evolution of Single-Atom Co Sites in Covalent Triazine Frameworks for Enhanced H2O2 Photosynthesis   
+
+OpenAlex: https://openalex.org/W4391685024    
+Open access: False
+    
+[Chao Zhu](https://openalex.org/A5080637240), [Yanchi Yao](https://openalex.org/A5063115287), [Qile Fang](https://openalex.org/A5000714277), [Lingxiangyu Li](https://openalex.org/A5045577703), [Baoliang Chen](https://openalex.org/A5090741037), [Yi Shen](https://openalex.org/A5043170120), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04439.
+    
+Unraveling the structural evolution and mechanism of active sites in single-atom catalysts (SACs) during H2O2 production under operational conditions remains challenging due to the transient and elusive nature of the underlying reaction processes. Herein, we employ operando X-ray absorption spectroscopy and ab initio molecular dynamics simulations to unveil the dynamic reconstruction behavior of the Co single atom-loaded covalent triazine framework (CoSA/Py-CTF) during photocatalytic H2O2 production. The unique Py-CTF substrate provides reasonable structural flexibility to the single atom Co site. Under light irradiation and O2 adsorption, single Co atoms are dynamically released from the Py-CTF substrate and then form transient atom-pairs with neighboring Co atoms, serving as the authentic active site. The dynamic shuttling of Co subnanometer domains between single-atoms and atom-pairs facilitates the transition of the O2 adsorption configurations from Pauling type to Yeager type, resulting in a record photocatalytic H2O2 yield (2898.3 μmol·h–1·g–1). These findings provide insightful observations into the dynamic photochemical behavior of SACs and present an fresh paradigm for the design of intelligent “adaptive catalysts”.    
 
     
