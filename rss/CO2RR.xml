@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:44:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Modulation of active center distance of hybrid perovskite for boosting photocatalytic reduction of carbon dioxide to ethylene</title>
-      <link>https://doi.org/10.1073/pnas.2318970121</link>
-      <description>Linjuan Li, Dong Xu, Xiankui Xu, Zheng Tian, Xue Zhou, Shenbo Yang, Zhonghai Zhang, Proceedings of the National Academy of Sciences of the United States of America. 121(7)] 2024. https://openalex.org/W4391527790
-
-                Solar-driven photocatalytic CO 2 reduction is an energy-efficient and sustainable strategy to mitigate CO 2 levels in the atmosphere. However, efficient and selective conversion of CO 2 into multi-carbon products, like C 2 H 4 , remains a great challenge due to slow multi-electron-proton transfer and sluggish C&#8211;C coupling. Herein, a two-dimensional thin-layered hybrid perovskite is fabricated through filling of oxygen into iodine vacancy in pristine DMASnI 3 (DMA = dimethylammonium). The rational-designed DMASnI 3 (O) induces shrinkage of active sites distance and facilitates dimerization of C&#8211;C coupling of intermediates. Upon simulated solar irradiation, the DMASnI 3 (O) photocatalyst achieves a high selectivity of 74.5%, corresponding to an impressive electron selectivity of 94.6%, for CO 2 to C 2 H 4 conversion and an effective C 2 H 4 yield of 11.2 &#956;mol g &#8722;1 h &#8722;1 . In addition, the DMASnI 3 (O) inherits excellent water stability and implements long-term photocatalytic CO 2 reduction to C 2 H 4 in a water medium. This work establishes a unique paradigm to convert CO 2 to C 2+ hydrocarbons in a perovskite-based photocatalytic system.</description>
-      <author>Linjuan Li, Dong Xu, Xiankui Xu, Zheng Tian, Xue Zhou, Shenbo Yang, Zhonghai Zhang</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2318970121</guid>
-    </item>
     <item>
       <title>Electrochemical reduction of carbon dioxide to produce formic acid coupled with oxidative conversion of biomass</title>
       <link>https://doi.org/10.1016/j.jechem.2024.01.062</link>
@@ -86,6 +76,26 @@
       <author>E. Lu&#233;vano-Hip&#243;lito, Mayte G. Fabela-Cedillo, Leticia M. Torres-Mart&#305;&#769;nez</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.matlet.2024.136066</guid>
+    </item>
+    <item>
+      <title>The Influence of the Cu Foam on the Electrochemical Reduction of Carbon Dioxide</title>
+      <link>https://doi.org/10.3390/inorganics12020057</link>
+      <description>Yuan-Gee Lee, Hui-Hsuan Chiao, Yu&#8211;Ching Weng, Chyi-How Lay, Inorganics (Basel). 12(2)] 2024. https://openalex.org/W4391753550
+
+                Unlike the flat Cu sheet, we employed Cu foam to explore the specific porous effect on the expanding specific area. We found that the foam structure is superior to the sheet feature in the specific location from the morphology investigation. In the practical measurement of surface area, we found that the adsorbate could aptly agglomerate, resulting in a consequential block in the transport path. The specific location of the Cu foam was underestimated because the channels of the deep foam layer were blocked by the agglomerated adsorbate. To explore the protonation process of the electro-reduction, we adopted the carbonate electrolyte as the control group in contrast to the experimental group, the bicarbonate electrolyte. In the carbonate electrolyte, the primary intermediate was shown to be CO molecules, as verified using XPS spectra. In the bicarbonate electrolyte, the intermediate CO disappeared; instead, it was hydrogenated as a hydrocarbon intermediate, CHO*. The bicarbonate ion was also found to suppress electrocatalysis in the deep structure of the Cu foam because its high-molecular-weight intermediates accumulated in the diffusion paths. Furthermore, we found a promotion of the oxidation valence on the electrode from Cu2O to CuO, when the electrode structure transformed from sheet to foam. Cyclic voltammograms demonstrate a succession of electro-reduction consequences: at low reduction potential, hydrogen liberated by the decomposition of water; at elevated reduction potential, formic acid and CO produced; and at high reduction potential, CH4 and C2H4 were formed from &#8722;1.4 V to &#8722;1.8 V.</description>
+      <author>Yuan-Gee Lee, Hui-Hsuan Chiao, Yu&#8211;Ching Weng, Chyi-How Lay</author>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/inorganics12020057</guid>
+    </item>
+    <item>
+      <title>Recent Progress of MXene as a Cocatalyst in Photocatalytic Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1016/j.ceja.2024.100593</link>
+      <description>Zhe Wang, Samar Al Jitan, Inas M. AlNashef, Blaise L. Tardy, Giovanni Palmisano, Chemical Engineering Journal Advances. None(None)] 2024. https://openalex.org/W4391760771
+
+                Due to the excessive consumption of fossil fuel resources and the emission of a substantial quantity of CO2 into the environment, it is urgent to develop clean energy solutions. In order to reduce carbon emissions from the source, it is effective approach to convert CO2 into various renewable energy fuels. Inspired by the photosynthesis of green plant, CO2 is converted into clean fuel with the aid of catalysts. Regarding the separation and transfer of photogenerated charge carriers, and inadequate adsorption and activation of CO2 on the surface of catalysts, the current semiconductors utilized in photocatalysis have low efficiency. As a result, the current efficiency of photocatalysts is far from meeting the need for practical industrial demands. MXene materials, for example Ti3C2Tx (9980 S cm&#8722;1), have emerged as a promising candidate for CO2 reduction due to the significant number of active sites for functional groups, high conductivity and low defects, large surface areas, and outstanding visible light photoelectronic properties. This review provides a critical overview of the recent progress regarding MXene as a co-catalyst in photocatalytic CO2 reduction systems. We systemically explore the fundamental principles and reaction mechanisms associated with separating and transferring photogenerated charge carriers. Additionally, we investigate the basic properties of MXene as a co-catalyst in the context of CO2 reduction. Furthermore, this review also elucidates the impacts of the microstructure of photocatalysts on enhancing photocatalytic performance. Finally, the challenges and opportunities in using MXene as a co-catalyst for CO2 reduction have been presented to inspire further research in this field.</description>
+      <author>Zhe Wang, Samar Al Jitan, Inas M. AlNashef, Blaise L. Tardy, Giovanni Palmisano</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceja.2024.100593</guid>
     </item>
     <item>
       <title>Two-Dimensional Carbon Nitride as a Support of Single Metal Atom for Carbon Dioxide Reduction Reaction</title>
@@ -208,16 +218,6 @@
       <guid isPermaLink="true">https://doi.org/10.54499/covid/bd/151766/2021</guid>
     </item>
     <item>
-      <title>Applications of X-ray Spectroscopy in Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1142/9789811284649_0005</link>
-      <description>Indrajit Shown, Wei-Fu Chen, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen, World scientific series in nanoscience and nanotechnology. None(None)] 2024. https://openalex.org/W4391537296
-
-                No abstract</description>
-      <author>Indrajit Shown, Wei-Fu Chen, Kuei&#8208;Hsien Chen, Li&#8208;Chyong Chen</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1142/9789811284649_0005</guid>
-    </item>
-    <item>
       <title>Intercalated Zirconium Phosphate Promotes Reductive Amination of Carbon Dioxide</title>
       <link>https://doi.org/10.1021/acssuschemeng.3c06479</link>
       <description>Huiying Liao, Yongjun Jiang, Xinjia Wei, Xueyan Zhao, Lai Wei, Ning An, Yue Ma, Sheng Dai, Zhenshan Hou, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4391686357
@@ -248,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/143490/2019</guid>
     </item>
     <item>
-      <title>Efficient reduction of CO2 to CO by CdAl-LDHs nanostructured electrocatalysts in ionic liquids</title>
-      <link>https://doi.org/10.1016/j.jphotochem.2024.115518</link>
-      <description>Fang Tan, Tianxia Liu, Jian Ping Zhang, Journal of Photochemistry and Photobiology A: Chemistry. None(None)] 2024. https://openalex.org/W4391543242
-
-                Layered bimetallic hydroxides are at the forefront of current research in electrocatalytic materials. Although there is considerable research on various bimetallic hydroxides, the study of bimetallic hydroxides for electrocatalytic reduction of carbon dioxide is limited. In this paper, cadmium-aluminum layered bimetallic hydroxide nanoparticles (CdAl-LDHs) were prepared using a simple electrochemical deposition method. The prepared CdAl-LDHs was characterized in detail, and its potential application as an electrocatalyst was discussed. CdAl-LDHs prepared using different methods showed different selectivity in the electrocatalytic reduction of CO2 to CO. The nanomaterial exhibits excellent CO selectivity in a reaction chamber using 2 %-BMIM(PF6)(1-butyl-3-methylimidazolium hexafluorophosphate)/DMF(N-N dimethyl formamide) as the electrolyte. The CdAl-LDHs prepared by electrochemical deposition exhibited a maximum CO partial current density of 22.13 mA cm&#8722;2 with a remarkable CO Faraday efficiency (FE) of 99.71 %, which is comparable to or even higher than that of noble metal catalysts. This high selectivity for CO indicates its potential as an alternative to expensive noble metal catalysts. Moreover, the catalyst demonstrated high stability over 30 h of continuous operation with stable FE of around 99 % and a current density of around 10.5 mA cm&#8722;2, with minimal degradation during the entire reaction cycle. In addition, the catalyst showed a low HER current density of less than 0.1 mA cm&#8722;2 at all tested potentials, indicating that the catalyst maintains a high level of CO2 conversion over the entire range of tested potentials. This suggests its great potential for industrial applications.</description>
-      <author>Fang Tan, Tianxia Liu, Jian Ping Zhang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jphotochem.2024.115518</guid>
-    </item>
-    <item>
       <title>Beyond C&#8211;C coupling in CO2 reduction</title>
       <link>https://doi.org/10.1038/s44286-023-00019-9</link>
       <description>Yuting Xu, Fanglin Che, Nature Chemical Engineering. 1(2)] 2024. https://openalex.org/W4391642660
@@ -286,6 +276,16 @@
       <author/>
       <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54499/2020.07897.bd</guid>
+    </item>
+    <item>
+      <title>Uncovering Photoelectronic and Photothermal Effects in Plasmon&#8208;Mediated Electrocatalytic CO2 Reduction</title>
+      <link>https://doi.org/10.1002/ange.202317740</link>
+      <description>Wei Yan, Zijie Mao, Tian-Wen Jiang, Hong Li, Xiao Ma, Chao Zhan, Wen&#8208;Bin Cai, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391605656
+
+                Plasmon&#8208;mediated electrocatalysis that rests on the ability of coupling localized surface plasmon resonance (LSPR) and electrochemical activation, emerges as an intriguing and booming area. However, its development seriously suffers from the entanglement between the photoelectronic and photothermal effects induced by the decay of plasmons, especially under the influence of applied potential. Herein, using LSPR&#8208;mediated CO2 reduction on Ag electrocatalyst as a model system, we quantitatively uncover the dominant photoelectronic effect on CO2 reduction reaction over a wide potential window, in contrast to the leading photothermal effect on H2 evolution reaction at relatively negative potentials. The excitation of LSPR selectively enhances the CO faradaic efficiency (17&#8208;fold at &#8722;0.6 VRHE) and partial current density (100&#8208;fold at &#8722;0.6 VRHE), suppressing the undesired H2 faradaic efficiency. Furthermore, in situ attenuated total reflection&#8208;surface enhanced infrared absorption spectroscopy (ATR&#8208;SEIRAS) reveals a plasmon&#8208;promoted formation of the bridge&#8208;bonded CO on Ag surface via a carbonyl&#8208;containing C1 intermediate. The present work demonstrates a deep mechanistic understanding of selective regulation of interfacial reactions by coupling plasmons and electrochemistry.</description>
+      <author>Wei Yan, Zijie Mao, Tian-Wen Jiang, Hong Li, Xiao Ma, Chao Zhan, Wen&#8208;Bin Cai</author>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202317740</guid>
     </item>
   </channel>
 </rss>

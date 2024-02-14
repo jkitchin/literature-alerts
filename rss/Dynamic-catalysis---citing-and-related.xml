@@ -4,18 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:44:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:44:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>Catalytic resonance theory: Circumfluence of programmable catalytic loops</title>
       <link>https://doi.org/10.1016/j.jcat.2024.115343</link>
-      <description>Madeline Murphy, Sallye R. Gathmann, Christopher J. Bartel, Omar A. Abdelrahman, Paul J. Dauenhauer, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4391562623
+      <description>Madeline Murphy, Sallye R. Gathmann, Christopher J. Bartel, Omar A. Abdelrahman, Paul J. Dauenhauer, Journal of Catalysis. 430(None)] 2024. https://openalex.org/W4391562623
 
-                No abstract</description>
+                Chemical reactions on heterogeneous catalyst surfaces exhibit complex networks of elementary reactions with multiple pathways to fluid phase products, sometimes leading to surface reaction loops consisting of a closed cycle reaction pathway. While conventional catalysts at steady state exhibit zero net flux in either direction around a catalytic loop, the loop turnover frequency of three-species surface loops was evaluated in this work via microkinetic modeling to assess the reaction loop behavior resulting from a catalytic surface oscillating between two or more surface energy states. For dynamic heterogeneous catalysts undergoing applied oscillations of surface energy (i.e., programs), surface reaction loops of three species were shown to exhibit non-zero net flow of molecules around the loop, with the extent of loop turnover frequency varying with the applied frequency and amplitude of a sinusoidal or square wave oscillation. Alternatively, some dynamic surface reactions exhibited oscillations only between two surface species or resulted in surfaces covered by a single species at all times. More complex behavior was observed for dynamic surface programs of three distinct electronic states, with the temporal order of applied states controlling the direction of flow of molecules within a three-molecule surface loop. Catalytic loops have the potential to limit overall catalytic reaction rates and use energy in programmable catalysts, while some applications could purposely impose non-zero loop turnover frequency for improved surface reaction control.</description>
       <author>Madeline Murphy, Sallye R. Gathmann, Christopher J. Bartel, Omar A. Abdelrahman, Paul J. Dauenhauer</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115343</guid>
+    </item>
+    <item>
+      <title>Progress in Single/Multi Atoms and 2D&#8208;Nanomaterials for Electro/Photocatalytic Nitrogen Reduction: Experimental, Computational and Machine Leaning Developments</title>
+      <link>https://doi.org/10.1002/aenm.202304106</link>
+      <description>Aditya Narayan Singh, Rohit Anand, Mohammad Zafari, Miran Ha, Kwang S. Kim, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4391751653
+
+                Abstract The conversion of atmospheric nitrogen (N 2 ) into ammonia (NH 3 ), known as nitrogen fixation, plays a crucial role in sustaining life on Earth, facing innovation with electrocatalytic and photocatalytic methods. These approaches promise gentler conversions from atmospheric nitrogen to ammonia, diverging from the energy&#8208;intensive Haber&#8208;Bosch process, which requires complex plant infrastructure. Vitality lies in eco&#8208;friendly, cost&#8208;effective, and energy&#8208;efficient pathways. The challenge is that electrocatalysts and photocatalysts for nitrogen reduction have shown low Faraday efficiency, hampered by hydrogen evolution. This work delves into recent strides in electro/photo&#8208;catalytic nitrogen fixation/reduction, deciphering mechanisms, catalysts, and prospects. By unveiling the core principles steering these processes, it dissects efficiency drivers. Experimental and theoretical studies, ranging from density functional calculations/simulations to machine learning&#8208;based catalyst screening, mark the path toward highly efficient catalysts, including single/multi&#8208;atom catalysts embedded in 2D materials. The journey explores diverse catalysts, assessing their performance, spotlighting emerging nanomaterials, heterostructures, and co&#8208;catalyst techniques. Perspectives on future directions and potential applications of electro/photo&#8208;catalytic nitrogen fixation/reduction are offered, by emphasizing their role in sustainable nitrogen management and their implications for global agriculture and environmental sustainability.</description>
+      <author>Aditya Narayan Singh, Rohit Anand, Mohammad Zafari, Miran Ha, Kwang S. Kim</author>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304106</guid>
     </item>
   </channel>
 </rss>

@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Feb 13 00:44:13 2024
+Created on Wed Feb 14 00:44:19 2024
 
-Found 25 results from 2024-02-06 to 2024-02-13
+Found 25 results from 2024-02-07 to 2024-02-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Photoelectrochemical Urea Synthesis from Nitrate and Carbon Dioxide on GaN Nanowires   
-
-OpenAlex: https://openalex.org/W4391543013    
-Open access: False
-    
-[Wan Jae Dong](https://openalex.org/A5005809281), [Jan Paul Menzel](https://openalex.org/A5005426309), [Zhengwei Ye](https://openalex.org/A5037803284), [Ishtiaque Ahmed Navid](https://openalex.org/A5041280269), [Peng Zhou](https://openalex.org/A5047600031), [Ke Yang](https://openalex.org/A5010438957), [Víctor S. Batista](https://openalex.org/A5089129603), [Zetian Mi](https://openalex.org/A5070775523), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04264.
-    
-Semiconductor photoelectrodes can be used to synthesize urea from carbon dioxide and nitrate under solar light. We find that GaN nanowires (NWs) have inherent catalytic activity for nitrate conversion to nitrite, while Ag cocatalysts loaded onto GaN NWs further promote the performance of photoelectrochemical urea synthesis. Under optimized conditions, a high faradaic efficiency of 75.6 ± 2.6% was achieved at a potential of −0.3 vs reversible hydrogen electrode. Control experiments and theoretical calculations suggest that the high selectivity of urea originates from the facilitated C–N coupling between key intermediates of NO2 and COO– at an early stage of the reduction reaction. This work demonstrates the potential of GaN NWs with loaded Ag cocatalysts to achieve solar-powered urea synthesis with an efficiency higher than that of previously reported methods.    
-
-    
 
 ## 9-(4-Halo-2,6-xylyl)-10-methylacridinium Ion as an Effective Photoredox Catalyst for Oxygenation and Trifluoromethylation of Toluene Derivatives   
 
@@ -278,5 +267,16 @@ Open access: False
 [Chao Zhu](https://openalex.org/A5080637240), [Yanchi Yao](https://openalex.org/A5063115287), [Qile Fang](https://openalex.org/A5000714277), [Lingxiangyu Li](https://openalex.org/A5045577703), [Baoliang Chen](https://openalex.org/A5090741037), [Yi Shen](https://openalex.org/A5043170120), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04439.
     
 Unraveling the structural evolution and mechanism of active sites in single-atom catalysts (SACs) during H2O2 production under operational conditions remains challenging due to the transient and elusive nature of the underlying reaction processes. Herein, we employ operando X-ray absorption spectroscopy and ab initio molecular dynamics simulations to unveil the dynamic reconstruction behavior of the Co single atom-loaded covalent triazine framework (CoSA/Py-CTF) during photocatalytic H2O2 production. The unique Py-CTF substrate provides reasonable structural flexibility to the single atom Co site. Under light irradiation and O2 adsorption, single Co atoms are dynamically released from the Py-CTF substrate and then form transient atom-pairs with neighboring Co atoms, serving as the authentic active site. The dynamic shuttling of Co subnanometer domains between single-atoms and atom-pairs facilitates the transition of the O2 adsorption configurations from Pauling type to Yeager type, resulting in a record photocatalytic H2O2 yield (2898.3 μmol·h–1·g–1). These findings provide insightful observations into the dynamic photochemical behavior of SACs and present an fresh paradigm for the design of intelligent “adaptive catalysts”.    
+
+    
+
+## Iridium-Catalyzed Tandem Dehydrogenation/Hydroarylation Approach to Synthetically Versatile C2-Alkenyl N–H Indoles   
+
+OpenAlex: https://openalex.org/W4391691736    
+Open access: False
+    
+[Carlos Lázaro‐Milla](https://openalex.org/A5039597979), [José L. Mascareñas](https://openalex.org/A5061612775), [Fernando Fernández López](https://openalex.org/A5008725332), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05841.
+    
+Readily available N-carbamoyl indolines can be converted into highly valuable 2-alkenyl and 2-alkyl indoles in a one-pot reaction, through an autotandem catalytic cascade promoted by an iridium complex. The process entails a dehydrogenation reaction initiated by an iridium-promoted C(sp3)–H activation, the addition of the resulting indole to an alkyne -or alkene-partner, and a spontaneous loss of the carbamoyl directing group. Interestingly, the resulting C2-alkenyl indoles can participate in a variety of metal-catalyzed annulations initiated by C–H activation, including formal [4 + 1] and [4 + 2] cycloadditions, as well as cross-dehydrogenative cyclizations, thus enabling a divergent access to a collection of functionally rich nitrogen-containing heterocycles.    
 
     

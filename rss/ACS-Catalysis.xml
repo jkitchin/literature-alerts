@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 00:44:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Photoelectrochemical Urea Synthesis from Nitrate and Carbon Dioxide on GaN Nanowires</title>
-      <link>https://doi.org/10.1021/acscatal.3c04264</link>
-      <description>Wan Jae Dong, Jan Paul Menzel, Zhengwei Ye, Ishtiaque Ahmed Navid, Peng Zhou, Ke Yang, V&#237;ctor S. Batista, Zetian Mi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391543013
-
-                Semiconductor photoelectrodes can be used to synthesize urea from carbon dioxide and nitrate under solar light. We find that GaN nanowires (NWs) have inherent catalytic activity for nitrate conversion to nitrite, while Ag cocatalysts loaded onto GaN NWs further promote the performance of photoelectrochemical urea synthesis. Under optimized conditions, a high faradaic efficiency of 75.6 &#177; 2.6% was achieved at a potential of &#8722;0.3 vs reversible hydrogen electrode. Control experiments and theoretical calculations suggest that the high selectivity of urea originates from the facilitated C&#8211;N coupling between key intermediates of NO2 and COO&#8211; at an early stage of the reduction reaction. This work demonstrates the potential of GaN NWs with loaded Ag cocatalysts to achieve solar-powered urea synthesis with an efficiency higher than that of previously reported methods.</description>
-      <author>Wan Jae Dong, Jan Paul Menzel, Zhengwei Ye, Ishtiaque Ahmed Navid, Peng Zhou, Ke Yang, V&#237;ctor S. Batista, Zetian Mi</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04264</guid>
-    </item>
     <item>
       <title>9-(4-Halo-2,6-xylyl)-10-methylacridinium Ion as an Effective Photoredox Catalyst for Oxygenation and Trifluoromethylation of Toluene Derivatives</title>
       <link>https://doi.org/10.1021/acscatal.3c06111</link>
@@ -256,6 +246,16 @@
       <author>Chao Zhu, Yanchi Yao, Qile Fang, Lingxiangyu Li, Baoliang Chen, Yi Shen</author>
       <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04439</guid>
+    </item>
+    <item>
+      <title>Iridium-Catalyzed Tandem Dehydrogenation/Hydroarylation Approach to Synthetically Versatile C2-Alkenyl N&#8211;H Indoles</title>
+      <link>https://doi.org/10.1021/acscatal.3c05841</link>
+      <description>Carlos L&#225;zaro&#8208;Milla, Jos&#233; L. Mascare&#241;as, Fernando Fern&#225;ndez L&#243;pez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391691736
+
+                Readily available N-carbamoyl indolines can be converted into highly valuable 2-alkenyl and 2-alkyl indoles in a one-pot reaction, through an autotandem catalytic cascade promoted by an iridium complex. The process entails a dehydrogenation reaction initiated by an iridium-promoted C(sp3)&#8211;H activation, the addition of the resulting indole to an alkyne -or alkene-partner, and a spontaneous loss of the carbamoyl directing group. Interestingly, the resulting C2-alkenyl indoles can participate in a variety of metal-catalyzed annulations initiated by C&#8211;H activation, including formal [4 + 1] and [4 + 2] cycloadditions, as well as cross-dehydrogenative cyclizations, thus enabling a divergent access to a collection of functionally rich nitrogen-containing heterocycles.</description>
+      <author>Carlos L&#225;zaro&#8208;Milla, Jos&#233; L. Mascare&#241;as, Fernando Fern&#225;ndez L&#243;pez</author>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05841</guid>
     </item>
   </channel>
 </rss>
