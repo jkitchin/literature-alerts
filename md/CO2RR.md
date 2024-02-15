@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Wed Feb 14 00:44:17 2024
+Created on Thu Feb 15 00:44:04 2024
 
-Found 28 results from 2024-02-07 to 2024-02-14
+Found 28 results from 2024-02-08 to 2024-02-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Electrochemical reduction of carbon dioxide to produce formic acid coupled with oxidative conversion of biomass   
-
-OpenAlex: https://openalex.org/W4391560295    
-Open access: False
-    
-[Jiashuai Liu](https://openalex.org/A5075320040), [Yifan Wang](https://openalex.org/A5025761344), [Zhiwei Dai](https://openalex.org/A5040497392), [Daihong Gao](https://openalex.org/A5014377577), [Xuebing Zhao](https://openalex.org/A5013713303), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.01.062.
-    
-Electrochemical reduction of CO2 (CO2RR) has become a research hot spot in recent years in the context of carbon neutrality. HCOOH is one of the most promising products obtained by electrochemical reduction of CO2 due to its high energy value as estimated by market price per energy unit and wide application in chemical industry. Biomass is the most abundant renewable resource in the natural world. Coupling biomass oxidative conversion with CO2RR driven by renewable electricity would well achieve carbon negativity. In this work, we comprehensively reviewed the current research progress on CO2RR to produce HCOOH and coupled system for conversion of biomass and its derivatives to produce value-added products. Sn- and Bi-based electrocatalysts are discussed for CO2RR with regards to the structure of the catalyst and reaction mechanisms. Electro-oxidation reactions of biomass derived sugars, alcohols, furan aldehydes and even polymeric components of lignocellulose were reviewed as alternatives to replace oxygen evolution reaction (OER) in the conventional electrolysis process. It was recommended that to further improve the efficiency of the coupled system, future work should be focused on the development of more efficient and stable catalysts, careful design of the electrolytic cells for improving the mass transfer and development of environment-friendly processes for recovering the formed formate and biomass oxidation products.    
-
-    
 
 ## Efficient visible‐light‐driven carbon dioxide reduction by a bioinspired Nickel molecular catalyst   
 
@@ -249,6 +238,17 @@ No abstract
 
     
 
+## Graphene-based CO2 reduction electrocatalysts: A review   
+
+OpenAlex: https://openalex.org/W4391768389    
+Open access: True
+    
+[Zelin Wu](https://openalex.org/A5038427980), [Congwei Wang](https://openalex.org/A5009018022), [Xiaoxiang Zhang](https://openalex.org/A5052309941), [Quangui Guo](https://openalex.org/A5029883974), [Junying Wang](https://openalex.org/A5029316647), New Carbon Materials. 39(1)] 2024.https://doi.org/10.1016/s1872-5805(24)60839-5.
+    
+The reduction of carbon dioxide (CO2) by electrochemical methods for the production of fuels and value-added chemicals is an effective strategy for overcoming the global warming problem. Due to the stable molecular structure of CO2, the design of highly selective, energy-efficient and cost-effective electrocatalysts is key. For this reason, graphene and its derivatives are competitive for CO2 electroreduction with their unique and excellent physical, mechanical and electrical properties and relatively low cost. In addition, the surface of graphene-based materials can be modified using different methods, including doping, defect engineering, production of composite structures and wrapped shapes. We first review the fundamental concepts and criteria for evaluating electrochemical CO2 reduction, as well as the catalytic principles and processes. Methods for preparing graphene-based catalysts are briefly introduced, and recent research on them is summarized according to the categories of the catalytic sites. Finally, the future development direction of CO2 electroreduction technology is discussed.    
+
+    
+
 ## Computational examination of transition metal-salen complexes for the reduction of CO2   
 
 OpenAlex: https://openalex.org/W4391706993    
@@ -257,6 +257,17 @@ Open access: False
 [Gavin McCarver](https://openalex.org/A5016781296), [Taner Yildirim](https://openalex.org/A5077586408), [Wei Zhou](https://openalex.org/A5035646855), Molecular Catalysis. 556(None)] 2024.https://doi.org/10.1016/j.mcat.2024.113819.
     
 In this comprehensive study, we investigated the catalytic potential of seven transition metal-salen (TM-salen) complexes for the reduction of carbon dioxide (CO2) using ab initio methods. Our findings revealed distinct catalytic behavior among the TM-salen complexes, driven by their electronic and geometric properties. The reduction of hydrogen to H2 was most favorable on Mn-salen and Cu-salen complexes, indicating potential competition with CO2 reduction. Notably, later TM-salen complexes (Co, Ni, Cu, Zn) exhibited higher energy requirements for the initial CO2 reduction, whereas Mn- and Fe-salen complexes demonstrated potential-controlled selectivity, favoring CO2 reduction beyond HCOOH at specific thresholds. Our results highlight Cr-salen and Fe-salen complexes as promising candidates for the CO2 reduction reaction (CO2RR) catalysts due to their reduced competition with hydrogen reduction and low limiting potentials for CO2 reduction. Furthermore, the distinct reaction profiles of TM-salen complexes offer valuable insights for the design and development of efficient catalysts for sustainable CO2 conversion and other chemical transformations. These findings provide a foundation for further exploration and optimization of TM-salen complexes as viable catalysts in environmental and energy-related applications.    
+
+    
+
+## Defect engineering of carbon-based electrocatalysts for the CO2 reduction reaction: A review   
+
+OpenAlex: https://openalex.org/W4391768363    
+Open access: True
+    
+[Youjun Lu](https://openalex.org/A5064307398), [B. S. Cheng](https://openalex.org/A5048657205), [Hui Zhan](https://openalex.org/A5055191809), [Peng Zhou](https://openalex.org/A5047600031), New Carbon Materials. 39(1)] 2024.https://doi.org/10.1016/s1872-5805(24)60833-4.
+    
+Electrocatalytic carbon dioxide (CO2) reduction is an important way to achieve carbon neutrality by converting CO2 into high-value-added chemicals using electric energy. Carbon-based materials are widely used in various electrochemical reactions, including electrocatalytic CO2 reduction, due to their low cost and high activity. In recent years, defect engineering has attracted wide attention by constructing asymmetric defect centers in the materials, which can optimize the physicochemical properties of the material and improve its electrocatalytic activity. This review summarizes the types, methods of formation and defect characterization techniques of defective carbon-based materials. The advantages of defect engineering and the advantages and disadvantages of various defect formation methods and characterization techniques are also evaluated. Finally, the challenges of using defective carbon-based materials in electrocatalytic CO2 reduction are investigated and opportunities for their use are discussed. It is believed that this review will provide suggestions and guidance for developing defective carbon-based materials for CO2 reduction.    
 
     
 
@@ -293,24 +304,13 @@ Semi-artificial photosynthesis interfaces biological catalysts with synthetic ma
 
     
 
-## Improving a highly active tungsten-dependent formate dehydrogenase for biocatalytic reduction of CO2   
+## How to promote CO2 reduction in urban households from a micro perspective?   
 
-OpenAlex: https://openalex.org/W4391704210    
+OpenAlex: https://openalex.org/W4391773165    
 Open access: False
     
-, No host. None(None)] 2020.https://doi.org/10.54499/2020.07897.bd.
+[Yang Xu](https://openalex.org/A5065256485), [Qingsong Wang](https://openalex.org/A5068884694), [Suqing Tian](https://openalex.org/A5091108483), [Mengyue Liu](https://openalex.org/A5060392341), [Yujie Zhang](https://openalex.org/A5058555426), [Xueliang Yuan](https://openalex.org/A5053118202), [Qiao Ma](https://openalex.org/A5087531458), [Chengqing Liu](https://openalex.org/A5073459047), Energy. None(None)] 2024.https://doi.org/10.1016/j.energy.2024.130683.
     
-No abstract    
-
-    
-
-## Uncovering Photoelectronic and Photothermal Effects in Plasmon‐Mediated Electrocatalytic CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4391605656    
-Open access: False
-    
-[Wei Yan](https://openalex.org/A5088892322), [Zijie Mao](https://openalex.org/A5007916816), [Tian-Wen Jiang](https://openalex.org/A5071678703), [Hong Li](https://openalex.org/A5014068004), [Xiao Ma](https://openalex.org/A5011686375), [Chao Zhan](https://openalex.org/A5069389722), [Wen‐Bin Cai](https://openalex.org/A5068660364), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317740.
-    
-Plasmon‐mediated electrocatalysis that rests on the ability of coupling localized surface plasmon resonance (LSPR) and electrochemical activation, emerges as an intriguing and booming area. However, its development seriously suffers from the entanglement between the photoelectronic and photothermal effects induced by the decay of plasmons, especially under the influence of applied potential. Herein, using LSPR‐mediated CO2 reduction on Ag electrocatalyst as a model system, we quantitatively uncover the dominant photoelectronic effect on CO2 reduction reaction over a wide potential window, in contrast to the leading photothermal effect on H2 evolution reaction at relatively negative potentials. The excitation of LSPR selectively enhances the CO faradaic efficiency (17‐fold at −0.6 VRHE) and partial current density (100‐fold at −0.6 VRHE), suppressing the undesired H2 faradaic efficiency. Furthermore, in situ attenuated total reflection‐surface enhanced infrared absorption spectroscopy (ATR‐SEIRAS) reveals a plasmon‐promoted formation of the bridge‐bonded CO on Ag surface via a carbonyl‐containing C1 intermediate. The present work demonstrates a deep mechanistic understanding of selective regulation of interfacial reactions by coupling plasmons and electrochemistry.    
+Climate change has received widespread international attention. Household CO2 reduction can play an important role in mitigating climate change. Therefore, studying household carbon reduction plans is one of the research hotspots. Using a Survey-Evaluation-Optimization approach, this study constructs a methodology system for urban household CO2 reduction from micro perspective. It is found that the direct household CO2 emissions in the target community are about 1580 kgCO2/(cap·yr). Cooing and heat supply, cooking, hot water heating are stable and important components, accounting for about 70%. In some households, internal measures such as adjusting the temperature of air conditioning, canceling the insulation of water heaters, and changing travel modes show good CO2 reduction effects, reaching up to 650 kgCO2/yr. When the external measures are introduced to implement, the CO2 reduction effect of the internal measures is weakened, but the overall effect is improved. Especially when the low-carbon adjustment of power structure is introduced, the overall CO2 reduction can be increased by 35%. Based on this methodology, decision makers can obtain “one community, one policy” targeted implementation plan for household carbon reduction.    
 
     

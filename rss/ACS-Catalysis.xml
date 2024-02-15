@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:44:06 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>9-(4-Halo-2,6-xylyl)-10-methylacridinium Ion as an Effective Photoredox Catalyst for Oxygenation and Trifluoromethylation of Toluene Derivatives</title>
-      <link>https://doi.org/10.1021/acscatal.3c06111</link>
-      <description>Kei Ohkubo, Sakiko Matsumoto, Haruyasu Asahara, Shunichi Fukuzumi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391558510
-
-                9-(2,6-Dimethylphenyl)-10-methylacridinium perchlorate ([Acr+&#8211;Xyl]ClO4&#8211;), 9-(4-chloro-2,6-dimethylphenyl)-10-methylacridinium perchlorate ([Acr+&#8211;XylCl]ClO4&#8211;), and 9-(4-fluoro-2,6-dimethylphenyl)-10-methylacridinium perchlorate ([Acr+&#8211;XylF]ClO4&#8211;) were synthesized by the Grignard reaction. The one-electron reduction potentials (Ered vs SCE) of Acr+&#8211;Xyl, Acr+&#8211;XylCl, and Acr+&#8211;XylF in deaerated acetonitrile (MeCN) were determined by cyclic voltammetry to be nearly the same as &#8722;0.55, &#8722;0.53, and &#8722;0.53 V, respectively. On the other hand, the one-electron oxidation potentials (Eox vs SCE) of Acr+&#8211;Xyl, Acr+&#8211;XylF, and Acr+&#8211;XylCl were determined by the second-harmonic alternative current voltammetric method to be +2.15, +2.20, and +2.21 V, respectively. The Eox value of Acr+&#8211;XylCl is higher than the Eox value of toluene (+2.20 V). Thus, photocatalytic oxygenation of toluene with oxygen occurs efficiently via electron transfer from toluene to the XylCl&#8226;+ moiety of the triplet electron-transfer state of Acr+&#8211;XylCl under photoirradiation of Acr+&#8211;XylCl in oxygen-saturated MeCN. By contrast, no oxygenation of toluene occurred with the 9-mesityl-10-methylacridinium ion (Acr+&#8211;Mes) used as a photocatalyst due to the lack of oxidizing ability to oxidize toluene. The metal-free trifluoromethylation of toluene derivatives has also been made possible by using Acr+&#8211;XylCl as a photocatalyst and S-(trifluoromethyl)dibenzothiophenium (CF3DBT+) as a trifluoromethyl source. The photocatalytic reaction mechanism was clarified by transient absorption and electrochemical measurements.</description>
-      <author>Kei Ohkubo, Sakiko Matsumoto, Haruyasu Asahara, Shunichi Fukuzumi</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06111</guid>
-    </item>
-    <item>
-      <title>Organobismuth Compounds as Aryl Radical Precursors via Light-Driven Single-Electron Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.3c05598</link>
-      <description>Nicholas D. Chiappini, Eric P. Geunes, Ethan T. Bodak, Robert R. Knowles, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391558560
-
-                A light-driven method for the generation of aryl radicals from triarylbismuth(III) and (V) reagents is described. Aryl radical generation is proposed to occur through the ligand-assisted mesolytic cleavage of an organobismuth(IV) intermediate generated from either oxidation of BiIII or reduction of BiV. This mode of aryl radical generation is demonstrated to be compatible with a range of bimolecular radical arylations, including hydroarylation of electron-deficient olefins and arylation of diboronates, disulfides, sulfonyl cyanides, phosphites, and isocyanides. The intermediacy of an aryl radical is supported by radical trapping and radical clock experiments, and BiIV&#8211;aryl mesolysis is supported computationally.</description>
-      <author>Nicholas D. Chiappini, Eric P. Geunes, Ethan T. Bodak, Robert R. Knowles</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05598</guid>
-    </item>
-    <item>
-      <title>Chemoinformatic Catalyst Selection Methods for the Optimization of Copper&#8211;Bis(oxazoline)-Mediated, Asymmetric, Vinylogous Mukaiyama Aldol Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.3c05903</link>
-      <description>Casey L. Olen, Andrew F. Zahrt, Sean W. Reilly, Danielle M. Schultz, Khateeta M. Emerson, David A. Candito, Xiao Wang, Neil A. Strotman, Scott E. Denmark, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391559651
-
-                No abstract</description>
-      <author>Casey L. Olen, Andrew F. Zahrt, Sean W. Reilly, Danielle M. Schultz, Khateeta M. Emerson, David A. Candito, Xiao Wang, Neil A. Strotman, Scott E. Denmark</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05903</guid>
-    </item>
-    <item>
-      <title>Designing Highly Enantioselective Heterogeneous Pt Catalysts: Selective Exposure of Active Sites via Surface Modification Using Amines</title>
-      <link>https://doi.org/10.1021/acscatal.4c00040</link>
-      <description>Byeongju Song, Dongmin Lee, Hyunjun Jeong, Minji Yun, Yongju Yun, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391574285
-
-                Surface modification of metal nanoparticles (NPs) with organic molecules has attracted considerable attention as an effective methodology for designing highly selective heterogeneous catalysts. In this paper, we propose a simple post-treatment strategy involving the mixing of bare Pt/Al2O3 with amines and subsequent heat treatment for preparing highly enantioselective heterogeneous catalysts for the hydrogenation of &#945;-keto esters. Notably, treating the Pt catalyst with oleylamine (OAm) yielded a catalyst possessing considerably enhanced catalytic activity and enantioselectivity under various hydrogen pressure conditions. The OAm-treated Pt catalyst also showed high enantioselectivity over 10 consecutive cycles. Under the optimized reaction conditions, the OAm-treated Pt catalyst exhibited an enantiomeric excess (ee) of 95%, which was 15% higher than that of an unmodified Pt catalyst. Surface characterization revealed that the ratio of active sites exposed on the Pt surface can be controlled by varying the amount of the added OAm during the treatment. Specifically, the preferential passivation of under-coordinated sites of Pt NPs by the remaining OAm residues after heat treatment increased the ratio of exposed well-coordinated Pt sites, which are suitable for the stable adsorption of a chiral modifier (cinchonidine). Quantitative site fraction analysis using infrared spectroscopic studies revealed a positive linear correlation between the ee and the ratio of exposed terrace Pt sites, confirming the promoting effect of the OAm treatment on enantioselectivity. Moreover, the versatility of this strategy was demonstrated for the Pt catalysts treated with a variety of amines in enantioselective hydrogenation. These findings provide a direction for regulating the selective exposure of specific active sites using simple surface treatment to develop highly efficient heterogeneous catalysts.</description>
-      <author>Byeongju Song, Dongmin Lee, Hyunjun Jeong, Minji Yun, Yongju Yun</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00040</guid>
-    </item>
-    <item>
-      <title>Selective Oxidation of Hydrocarbons by Molecular Iron Catalysts Based on Molecular Recognition through &#960;&#8211;&#960; Interaction in Aqueous Medium</title>
-      <link>https://doi.org/10.1021/acscatal.3c05118</link>
-      <description>Hiroto Fujisaki, Tomoya Ishizuka, Hiroaki Kotani, Takahiko Kojima, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391574892
-
-                Oxidation enzymes possess finely organized structures to recognize specific substrates, leading to the efficient catalysis of selective oxidation reactions to generate the desired products. Inspired by such enzymes, molecular catalysts with substrate-recognition sites have been developed for decades. Here, we report the highly selective oxidation of aromatic substrates in aqueous media by catalysis with an FeII complex featuring a hydrophobic second coordination sphere (SCS) constructed by four anthracenyl groups. The FeII catalyst showed a much higher turnover frequency for the benzene-to-phenol oxidation (1.0 &#215; 104 h&#8211;1) than for the cyclohexane-to-cyclohexanol oxidation (12 h&#8211;1). The SCS of the FeII complex works as a trapping site of aromatic substrates through &#960;&#8211;&#960; interaction and assists the release of the hydrophilic oxidized products to the aqueous media. A &#8220;recognition-and-release&#8221; approach also allowed the selective formation of anthracen-9-ol and 1-naphthol by direct oxidation of anthracene and naphthalene, respectively.</description>
-      <author>Hiroto Fujisaki, Tomoya Ishizuka, Hiroaki Kotani, Takahiko Kojima</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05118</guid>
-    </item>
-    <item>
-      <title>Mechanistic Study of Electrocatalytic Perchlorate Reduction using an Oxorhenium Complex Supported on a Ti&lt;sub&gt;4&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; Support</title>
-      <link>https://doi.org/10.1021/acscatal.3c05680</link>
-      <description>Soroush Almassi, Changxu Ren, Naveen Dandu, Anh T. Ngo, Jinyong Liu, Brian P. Chaplin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391574966
-
-                Developing a stable and active catalyst for ClO4&#8211; reduction at nonacidic pH has presented a significant challenge to the catalysis field. Previous research has demonstrated that by depositing an organometallic Re catalyst onto a Ti4O7 support (Re/Ti4O7), it was possible to stabilize the catalyst and obtain active electrocatalytic ClO4&#8211; reduction at circumneutral pH. Thus, the focus of this work was on elucidating the mechanisms of electrocatalytic ClO4&#8211; reduction in water with the Re/Ti4O7 system. Density functional theory (DFT) simulations indicated that the adsorption of the Re catalyst was exothermic on Ti4O7, and X-ray photoelectron spectroscopy (XPS) characterization indicated that Re adsorption caused a net reduction of the Ti oxidation state on the Ti4O7 surface. After ClO4&#8211; reduction experiments, XPS results indicated the presence of Ti(0)/Ti(II) surface sites. Cyclic voltammetry experiments in an acetonitrile solvent provided supporting evidence that these surface sites were electroactive and likely participated in the ClO4&#8211; reduction reaction. Analysis of batch reduction experiments in acetonitrile via kinetic modeling estimated a catalyst turnover number of 332 &#177; 23, which provided further evidence that the reduced Ti sites could regenerate the Re catalyst. However, these reduced Ti sites were finite in number and required the production of adsorbed hydrogen via water reduction to facilitate continuous ClO4&#8211; reduction. DFT results indicated that the reduction of ClO4&#8211; to Cl&#8211; was exothermic and that reduced Ti sites participated in the reduction reaction. The experimental and DFT results allowed a preliminary mechanism for ClO4&#8211; reduction on Re/Ti4O7 to be proposed.</description>
-      <author>Soroush Almassi, Changxu Ren, Naveen Dandu, Anh T. Ngo, Jinyong Liu, Brian P. Chaplin</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05680</guid>
-    </item>
-    <item>
-      <title>Red-Light-Based Effective Photocatalysis of a Photosensitive Covalent Organic Framework Triggered Singlet Oxygen</title>
-      <link>https://doi.org/10.1021/acscatal.3c05454</link>
-      <description>Kaijun Niu, Tian&#8208;Xiang Luan, Jing Chen, Hui Liu, Ling&#8208;Bao Xing, Pei&#8208;Zhou Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391576893
-
-                The direct application of low-energy red light for photochemical transformations is synthetically appealing but practically challenging. Covalent organic frameworks (COFs) exhibit significant potential within this domain, owing to their broad spectrum of absorption and their prevalence in photochemical reactions, despite the fact that these photocatalysts are now mainly focused on using ultraviolet (UV) and blue light. In this study, an imidazole-linked porphyrin-based COF, PyPor-COF, which exhibits a wide absorption band ranging from 200 to 700 nm, especially strong red light absorption from 630 to 700 nm, is expected to be applied in red light photocatalytic reactions. PyPor-COF possesses the capacity to selectively generate singlet oxygen (1O2) with a high efficiency, which renders it an efficient photosensitizer for photocatalytic reactions of olefin cleavages and thioanisole photooxidation under red light. The present study demonstrates the intriguing prospect of photoactive COFs with red light absorption as a type II photosensitizer with high potential for utilization in red light photocatalyses.</description>
-      <author>Kaijun Niu, Tian&#8208;Xiang Luan, Jing Chen, Hui Liu, Ling&#8208;Bao Xing, Pei&#8208;Zhou Li</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05454</guid>
-    </item>
-    <item>
-      <title>Mechanochemical Coupling of Catalysis and Motion in a Cellulose-Degrading Multienzyme Nanomachine</title>
-      <link>https://doi.org/10.1021/acscatal.3c05653</link>
-      <description>Krisztina Zajki-Zechmeister, Manuel Eibinger, Gaurav Singh Kaira, Bernd Nidetzky, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391578933
-
-                The cellulosome is a megadalton-size protein complex that functions as a biological nanomachine of cellulosic fiber degradation. We show that the cellulosome behaves as a Brownian ratchet that rectifies protein motions on the cellulose surface into a propulsion mechanism by coupling to the hydrolysis of cellulose chains. Movement on cellulose fibrils is unidirectional and results from &#8220;macromolecular crawl&#8221; composed of dynamic switches between elongated and compact spatial arrangements of enzyme subunits. Deletion of the main exocellulase Cel48S eliminates conformational bias for aligning the subunits to the long fibril axis, which we reveal as crucial for optimum coupling between directional movement and substrate degradation. Implications of the cellulosome acting as a mechanochemical motor suggest a distinct mechanism of enzymatic machinery in the deconstruction of cellulose assemblies.</description>
-      <author>Krisztina Zajki-Zechmeister, Manuel Eibinger, Gaurav Singh Kaira, Bernd Nidetzky</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05653</guid>
-    </item>
     <item>
       <title>Mechanism and Kinetics of Propane and &lt;i&gt;n&lt;/i&gt;-Butane Dehydrogenation over Isolated and Nested &#8801;SiOZn&#8211;OH Sites Grafted onto Silanol Nests of Dealuminated Beta Zeolite</title>
       <link>https://doi.org/10.1021/acscatal.3c05605</link>
@@ -160,10 +80,10 @@
     <item>
       <title>First-Principles-Based Kinetic Monte Carlo Model of Hydrogen Evolution Reaction under Realistic Conditions: Solvent, Hydrogen Coverage and Electric Field Effects</title>
       <link>https://doi.org/10.1021/acscatal.3c04588</link>
-      <description>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8211;Sandoval, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391614041
+      <description>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8208;Sandoval, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391614041
 
                 The hydrogen evolution reaction (HER) plays an important role in electrocatalytic water splitting. Despite the progress on the development of HER catalysts, the dynamic evolution of HER reaction under realistic electrochemical conditions considering the electric field, solvent, and hydrogen coverage effects is still unclear. In this study, a first-principles-based H surface coverage and potential-dependent kinetic Monte Carlo (KMC) HER model on the Pt (111)/Pt (100) surface is presented. The reaction kinetics and electronic structure analysis of HER on Pt surfaces in the presence of dihydrated proton (H5O2+) and H surface coverage is investigated using density functional theory (DFT). The HER KMC model was developed based on the DFT-calculated energetics. The KMC simulation results showed that consideration of H5O2+ species and dynamic evolution of H coverage is essential for accurate description of HER reaction on the Pt catalyst, which fits well with HER polarization data. Moreover, sensitivity analysis shows that HER on Pt (111) is mainly affected by the Tafel step. On the Pt(100) surface, HER is primarily governed by the Heyrovsky pathway. Surface species evolution analysis demonstrates that the high working potential accelerated the formation of [Pt-2H] species, leading to increased H coverage and accelerating the HER process. The predicted weakened H binding strength and increased H coverage at high HER working potential was verified by in situ attenuated total reflection Fourier transformed infrared spectroscopy analysis. Overall, the proposed DFT-KMC model represents the state-of-art dynamic simulation of catalytic HER reaction, providing important insights into the evolution of HER under realistic operation conditions.</description>
-      <author>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8211;Sandoval</author>
+      <author>Yuhong Luo, Yani Guan, Guihua Liu, Yanji Wang, Jingde Li, Luis Ricardez&#8208;Sandoval</author>
       <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04588</guid>
     </item>
@@ -256,6 +176,86 @@
       <author>Carlos L&#225;zaro&#8208;Milla, Jos&#233; L. Mascare&#241;as, Fernando Fern&#225;ndez L&#243;pez</author>
       <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05841</guid>
+    </item>
+    <item>
+      <title>Size-Dependent Structural Features of Subnanometer PtSn Catalysts Encapsulated in Zeolite for Alkane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c00314</link>
+      <description>Xiao-Meng Dou, Wenying Li, Kun Zhang, Haiyun Hou, Zhe He, Chaofeng Zhu, D&#233;bora Motta Meira, Miguel L&#243;pez&#8208;Haro, Zhaoming Xia, Peng He, Hai Xiao, Lichen Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391692005
+
+                Identification of the most efficient configuration of subnanometer bimetallic clusters is of great importance for the rational design of bimetallic catalysts but remains challenging due to the difficulty to construct the appropriate model systems. Here, we have accommodated subnanometer Pt/Sn sites, spanning from metal single atoms to bimetallic clusters in the 10MR sinusoidal channels of pure-silica MFI-type zeolite, which are employed as model catalysts to identify the optimal configuration of subnanometer PtSn sites for catalyzing an alkane dehydrogenation reaction. According to the electron microscopy and spectroscopy characterization results, the structural configuration of the bimetallic PtSn species in MFI zeolite varies with the Pt loading, which influences their catalytic performances for the propane dehydrogenation reaction. Furthermore, theoretical calculations are performed to understand the structural features of various PtSn species and their catalytic behavior for propane dehydrogenation, providing insights into the structure&#8211;reactivity relationships of subnanometer PtSn catalysts confined in zeolite structures.</description>
+      <author>Xiao-Meng Dou, Wenying Li, Kun Zhang, Haiyun Hou, Zhe He, Chaofeng Zhu, D&#233;bora Motta Meira, Miguel L&#243;pez&#8208;Haro, Zhaoming Xia, Peng He, Hai Xiao, Lichen Liu</author>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00314</guid>
+    </item>
+    <item>
+      <title>A Remarkable Influence of La(III)/&lt;i&gt;N,N&lt;/i&gt;&#8242;-Dioxide Structure on Asymmetric Formal Substitution of 3-Bromo-3-substituted Oxindoles with TMSCN</title>
+      <link>https://doi.org/10.1021/acscatal.3c06130</link>
+      <description>Zi Zeng, Longqing Yang, Xiao Zhang, Long Chen, Ziwei Zhong, Fei Wang, Xiaohua Liu, Shujuan Dong, Xiaoming Feng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391719372
+
+                The structural elucidation of chiral rare-earth-based catalysts in asymmetric reactions holds significant importance as it is crucial for comprehending their operational mechanisms and for broadening their applications in the realm of asymmetric synthesis. Herein, a LaIII/(L3-RaMe3)2 complex was identified to be more active and enantioselective than LaIII/L3-RaMe3 in the asymmetric formal substitution of racemic 3-bromo-3-substituted oxindoles with TMSCN. The experimental studies and theoretical calculations disclosed that the partial dissociation of the chiral N,N&#8242;-dioxide ligand was involved in the catalytic process with LaIII/(L3-RaMe3)2. These insights provided a rationale for the remarkable effect of catalyst structures on the results and nonlinear effect observed in the current reaction system. This protocol offers a straightforward and efficient pathway to synthesize various chiral 3-cyano-3-substituted oxindoles (53 examples, up to 99% yield, 98% ee). In addition, the synthesis of a bioactive compound CRTH2 receptor antagonist and obvious inhibitory effect of several products on the viability of cancer cells demonstrate the potential utility of this methodology.</description>
+      <author>Zi Zeng, Longqing Yang, Xiao Zhang, Long Chen, Ziwei Zhong, Fei Wang, Xiaohua Liu, Shujuan Dong, Xiaoming Feng</author>
+      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06130</guid>
+    </item>
+    <item>
+      <title>Surface Strain Effect on Electrocatalytic Hydrogen Evolution Reaction of Pt-Based Intermetallics</title>
+      <link>https://doi.org/10.1021/acscatal.3c06291</link>
+      <description>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391738668
+
+                Elucidating the relationship between electrocatalytic activity and surface strain is pivotal for designing highly efficient electrocatalysts for the acidic hydrogen evolution reaction (HER). However, a general correlation is currently absent due to the lack of ideal catalytic materials platforms with well-defined structures and components. Herein, we select L10 and L12 Pt-based intermetallic compounds as model materials to construct a series of core&#8211;shell catalysts with strained Pt skins (IMC@Pt) and establish the correlation between surface strain and HER performance. Density functional theory calculations were performed to determine the surface strain degree, d-band center, and key descriptor &#916;GH* of the catalysts for HER. By combining theoretical and experimental data, we propose a volcano-type trend between surface strain and the HER activity of IMC@Pt with an apex at 4% compressive strain. In addition, we demonstrate a class of highly active and durable IMC@Pt catalysts for acidic HER. Among them, the Pt3V@Pt catalyst exhibits the highest intrinsic HER activity with a specific activity of 4.24 mA cmPt&#8211;2 at an overpotential of 20 mV, which is 4 times higher than that of Pt. This work provides a solid understanding of the essential nature of PtM alloy catalysts and can guide the design of high-performance HER catalysts for water electrolyzers.</description>
+      <author>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui</author>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06291</guid>
+    </item>
+    <item>
+      <title>From Functional Plasticity of Two Diterpene Synthases (IrTPS2/IrKSL3a) to Enzyme Evolution</title>
+      <link>https://doi.org/10.1021/acscatal.3c05918</link>
+      <description>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391745873
+
+                No abstract</description>
+      <author>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05918</guid>
+    </item>
+    <item>
+      <title>Tandem Chemical Depolymerization and Photoreforming of Waste PET Plastic to High-Value-Added Chemicals</title>
+      <link>https://doi.org/10.1021/acscatal.3c05535</link>
+      <description>Mei Li, Shengbo Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391745876
+
+                Photoreforming of poly(ethylene terephthalate) (PET) wastes to high-value-added chemicals is an emerging and promising approach. Nonetheless, a major obstacle is the harsh alkaline pretreatment (COH&#8211; = 5&#8211;10 M) to depolymerize PET, resulting in a surge in processing costs and also posing great challenges to subsequent photocatalytic devices, catalysts, and photocatalytic efficiency. Herein, we introduce a tandem process of chemical depolymerization and photoreforming of waste PET plastics. Depolymerization of PET to monomers is achieved through an intramolecular hydrolysis mechanism on a binuclear zinc catalyst under mild conditions (COH&#8211; &#8804; 0.1 M and T &#8804; 60 &#176;C). Compared with the traditional harsh alkali pretreatment, the depolymerization rate can be increased by nearly an order of magnitude due to the proximity effect of the bimetallic sites. Technoeconomic analysis shows that processing 50,000 tons of plastic annually can save 15.2 million USD. The photoreforming of PET to formic acid and H2 with an impressive production rate of 2000 &#956;mol gcat&#8211;1 h&#8211;1 was achieved on an ultrasmall carbon nitride nanosphere photocatalyst, which is nearly 5-fold higher than the corresponding strong alkali pretreatment system. Mechanism research reveals high photocatalytic activity thanks to the mild PET pretreatment and the efficient electron&#8211;hole separation caused by the ultrasmall carbon nitride nanosphere size structure and the electron capture effect of metal Pt. We also demonstrate a gram-scale integrated process for real-world PET plastic wastes including water bottles, clothing fibers, towels, carpets, and mixed plastics containing PET. Our study establishes a new concept of tandem catalysis to reduce the harsh pretreatment of PET by using a synthetic catalyst in polyester plastic photoreforming technology.</description>
+      <author>Mei Li, Shengbo Zhang</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05535</guid>
+    </item>
+    <item>
+      <title>Oxygen Dynamics in Lean Propylene Catalytic Combustion over CeO&lt;sub&gt;2&lt;/sub&gt; and Pr&lt;sub&gt;6&lt;/sub&gt;O&lt;sub&gt;11&lt;/sub&gt;: Roles and Interplay between Lattice and Adsorbed Oxygen Species</title>
+      <link>https://doi.org/10.1021/acscatal.3c05556</link>
+      <description>Xiwei Gao, L. Li, Yuquan Liu, Zheng Chen, Wei Liu, Min Li, Xiaodong Wu, Shuang Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391748560
+
+                In 1954, Mars and van Krevelen proposed the famous &#8220;redox&#8221; mechanism to rationalize the oxidation of hydrocarbons (HCs) over vanadium oxide catalysts. According to this mechanism, the reduction of oxide catalysts (hydrogen abstraction, dehydroxylation, and metal&#8211;oxygen bond cleavage) are kinetically relevant in most cases, and oxides with high reducibility can be made into catalysts with high activity for HC (deep) oxidation. Such a framework, however, cannot explain the fact that Pr6O11 with the most liable lattice oxygen among lanthanide oxides is a worse low-temperature propylene oxidizer than CeO2. In this article, by comparing the kinetic/isotopic performance and the reduction/reoxidation behavior of rod-like CeO2 and Pr6O11 counterparts during lean propylene catalytic combustion, it was suggested that both these lanthanide oxides ignited propylene via a classical redox mechanism, while the reactive oxygen species involved in their following reactions were quite different. Specifically, the reactions over Pr6O11 were limited by the replenishment of lattice oxygen&#9472;the consistent workhorse reactive phase of this catalyst, and could be effectively accelerated at elevated temperature with a drastic dropping in the apparent activation energy (Eaapp, from 75.9 to 60.1 kJ/mol). In contrast, due to the relatively low electrochemical reduction potential of Ce4+/Ce3+ (1.74 eV) than that of Pr4+/Pr3+ (3.2 eV), the propylene-induced defective sites (e.g., Ce3+&#8211;VO) on CeO2&#8211;x readily donated Ce3+ 4f1 electrons to adsorbed O2 during the reoxidation steps in the redox cycles, giving rise to adsorbed oxygen species like O22&#8211; and O&#8211;. These electrophilic Oxn&#8211; species played active roles in the following reduction steps. Benefited from the &#8220;shallow&#8221; reactive region and therefore multiplied redox cycles of CeO2, such an &#8220;Oxn&#8211;-assisted&#8221; Mars&#8211;van Krevelen mechanism led to low Eaapp (&#8764;43 kJ/mol) values close to those obtained on platinum catalysts.</description>
+      <author>Xiwei Gao, L. Li, Yuquan Liu, Zheng Chen, Wei Liu, Min Li, Xiaodong Wu, Shuang Liu</author>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05556</guid>
+    </item>
+    <item>
+      <title>Synergistic Combination of Inorganic and Organic Promoters on Palladium Catalysts for Effective Acetylene Partial Hydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.3c05474</link>
+      <description>Kyunglim Hyun, Seongho Yun, Minkee Choi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391754932
+
+                Selective acetylene partial hydrogenation in an ethylene-rich stream plays a crucial industrial role in removing acetylene impurities from ethylene produced through hydrocarbon cracking. In this study, we investigated the distinct promotional effects of Ag and amorphous polyphenylene sulfide (Am-PPS) on Pd catalysts. The addition of Ag increased the electron density of Pd and reduced the size of the Pd ensemble, effectively inhibiting undesired side reactions, such as the overhydrogenation of ethylene to ethane and the hydro-oligomerization of acetylene into C4 and heavier paraffins (green oil). However, alloying with inactive Ag resulted in a reduced number of surface-exposed active Pd atoms, leading to a significant decrease in catalytic activity. On the other hand, surface modification of Pd with Am-PPS was very effective in suppressing ethylene overhydrogenation without compromising acetylene hydrogenation activity. Furthermore, it facilitated the removal of green oil from the catalyst surface before its transformation into coke, significantly retarding the catalyst deactivation. This can be attributed to the rapid cleaning of ethylene and green oil from the Pd surface through the competitive adsorption of the Am-PPS polymer chains. The advantages of each promoter can be synergistically combined through dual promotion. The resulting catalyst exhibited moderate activity, along with exceptionally high ethylene selectivity, and suppressed formation of carbonaceous deposits (both green oil and coke). These findings demonstrate the unique potential to design advanced selective hydrogenation catalysts by leveraging the advantages of both inorganic and organic promoters.</description>
+      <author>Kyunglim Hyun, Seongho Yun, Minkee Choi</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05474</guid>
+    </item>
+    <item>
+      <title>Unraveling Rigidified Superexchange Couplings in Organic Donor&#8211;Acceptor Polymers for Boosting the Photocatalytic Reduction of Nitrate</title>
+      <link>https://doi.org/10.1021/acscatal.3c05937</link>
+      <description>Haiyan Peng, Yuhui Liu, Yi Wang, Meiyang Song, Henghui Song, Peng Chen, Shuang&#8208;Feng Yin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391755214
+
+                Regulating the spatial twist angle of flexible geometry is an effective strategy to enhance the spatial overlap in organic semiconductors and provide transfer channels for electron transfer. However, the internal migration rates of macromolecular polymers with flexible geometries and complex compositions are severely restricted, making them elusive and easily overlooked. Here, different configurations of donor&#8211;acceptor (D&#8211;A)-based perylene diimide (PDI) polymers have been elaborately designed and prepared. In fact, the high crystallinity and molecular polarity of coplanar semiconductors lead to a differentiated charge distribution and carrier transfer site, which opens the prelude for charge transfer and exciton dissociation. More importantly, the unique &#960;-conjugated D&#8211;A configuration not only provides a smooth carrier transfer channel for promoting intermolecular electron transfer rates but is also conducive to the adsorption, diffusion, and charge exchange and activation of nitric acid as well as reduces the hydrogenation energy barrier. Ultimately, the coplanar configuration of PDI-connected 3,3-diaminobenzidine polymers (D-PDI) exhibited efficient photocatalytic nitrate reduction activity without the use of a cocatalyst and sacrificial agent. Our work provides fresh insights into molecular structure regulation to develop efficient photocatalysts for solving environmental problems.</description>
+      <author>Haiyan Peng, Yuhui Liu, Yi Wang, Meiyang Song, Henghui Song, Peng Chen, Shuang&#8208;Feng Yin</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05937</guid>
     </item>
   </channel>
 </rss>

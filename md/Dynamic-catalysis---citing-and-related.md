@@ -1,22 +1,11 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Wed Feb 14 00:44:29 2024
+Created on Thu Feb 15 00:44:13 2024
 
-Found 2 results from 2024-02-07 to 2024-02-14
+Found 1 results from 2024-02-08 to 2024-02-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
-
-## Catalytic resonance theory: Circumfluence of programmable catalytic loops   
-
-OpenAlex: https://openalex.org/W4391562623    
-Open access: False
-    
-[Madeline Murphy](https://openalex.org/A5051959855), [Sallye R. Gathmann](https://openalex.org/A5030610409), [Christopher J. Bartel](https://openalex.org/A5065773454), [Omar A. Abdelrahman](https://openalex.org/A5022932212), [Paul J. Dauenhauer](https://openalex.org/A5003718847), Journal of Catalysis. 430(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115343.
-    
-Chemical reactions on heterogeneous catalyst surfaces exhibit complex networks of elementary reactions with multiple pathways to fluid phase products, sometimes leading to surface reaction loops consisting of a closed cycle reaction pathway. While conventional catalysts at steady state exhibit zero net flux in either direction around a catalytic loop, the loop turnover frequency of three-species surface loops was evaluated in this work via microkinetic modeling to assess the reaction loop behavior resulting from a catalytic surface oscillating between two or more surface energy states. For dynamic heterogeneous catalysts undergoing applied oscillations of surface energy (i.e., programs), surface reaction loops of three species were shown to exhibit non-zero net flow of molecules around the loop, with the extent of loop turnover frequency varying with the applied frequency and amplitude of a sinusoidal or square wave oscillation. Alternatively, some dynamic surface reactions exhibited oscillations only between two surface species or resulted in surfaces covered by a single species at all times. More complex behavior was observed for dynamic surface programs of three distinct electronic states, with the temporal order of applied states controlling the direction of flow of molecules within a three-molecule surface loop. Catalytic loops have the potential to limit overall catalytic reaction rates and use energy in programmable catalysts, while some applications could purposely impose non-zero loop turnover frequency for improved surface reaction control.    
-
-    
 
 ## Progress in Single/Multi Atoms and 2D‐Nanomaterials for Electro/Photocatalytic Nitrogen Reduction: Experimental, Computational and Machine Leaning Developments   
 

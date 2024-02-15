@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:44:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Review and Perspectives on Mercury Release and Migration during Chemical Looping Combustion of Solid Fuels</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.3c04235</link>
-      <description>Qiang Lyu, Yu Guan, Yongbo Du, Yinhe Liu, Defu Che, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4391559581
-
-                No abstract</description>
-      <author>Qiang Lyu, Yu Guan, Yongbo Du, Yinhe Liu, Defu Che</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.3c04235</guid>
-    </item>
-    <item>
-      <title>Interface-Engineered 3D porous MoS2&#8211;ReS2 in-plane heterojunction as efficient hydrogen evolution reaction electrocatalysts</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.02.056</link>
-      <description>Lechen Diao, Pingping Wang, Feng Ge, Biao Zhang, Zhichao Miao, Li Xu, Jin Zhou, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4391559955
-
-                Constructing in-plane heterojunctions with high interfacial density using two-dimensional materials represents a promising yet challenging avenue for enhancing the hydrogen evolution reaction (HER) in water electrolysis. In this work, we report that three-dimensional porous MoS2&#8211;ReS2 in-plane heterojunctions, fabricated via chemical vapor deposition, exhibit robust electrocatalytic activity for the water splitting reaction. The optimized MoS2&#8211;ReS2 in-plane heterojunction achieves superior HER performance across a wide pH range, requiring an overpotential of only 200 mV to reach a current density of 10 mA cm&#8722;2 in alkaline seawater. Thus, it outperforms standalone MoS2 and ReS2. Furthermore, the catalyst exhibits remarkable stability, enduring up to 200 h in alkaline seawater. Experimental results coupled with density functional theory calculations confirm that electron redistribution at the MoS2&#8211;ReS2 heterointerface is likely driven by disparities in in-plane work functions between the two phases. This leads to charge accumulation at the interface, thereby enhancing the adsorptive activity of S atoms toward H* intermediates and facilitating the dissociation of water molecules at the interface. This discovery offers valuable insights into the electrocatalytic mechanisms at the interface and provides a roadmap for designing high-performance, earth-abundant HER electrocatalysts suitable for practical applications.</description>
-      <author>Lechen Diao, Pingping Wang, Feng Ge, Biao Zhang, Zhichao Miao, Li Xu, Jin Zhou</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.02.056</guid>
-    </item>
-    <item>
-      <title>Fundamental Understanding of Hydrogen Evolution Reaction on Zinc Anode Surface: A First-Principles Study</title>
-      <link>https://doi.org/10.1007/s40820-024-01337-0</link>
-      <description>Xiaoyu Liu, Yixuan Guo, Fanghua Ning, Yuyu Liu, Siqi Shi, Qian Li, Jiujun Zhang, Shigang Lu, Jin Yi, Nano-Micro Letters. 16(1)] 2024. https://openalex.org/W4391562471
-
-                Abstract Hydrogen evolution reaction (HER) has become a key factor affecting the cycling stability of aqueous Zn-ion batteries, while the corresponding fundamental issues involving HER are still unclear. Herein, the reaction mechanisms of HER on various crystalline surfaces have been investigated by first-principle calculations based on density functional theory. It is found that the Volmer step is the rate-limiting step of HER on the Zn (002) and (100) surfaces, while, the reaction rates of HER on the Zn (101), (102) and (103) surfaces are determined by the Tafel step. Moreover, the correlation between HER activity and the generalized coordination number ( $$\overline{CN }$$    CN  &#175;   ) of Zn at the surfaces has been revealed. The relatively weaker HER activity on Zn (002) surface can be attributed to the higher $$\overline{CN }$$    CN  &#175;   of surface Zn atom. The atomically uneven Zn (002) surface shows significantly higher HER activity than the flat Zn (002) surface as the $$\overline{CN }$$    CN  &#175;   of the surface Zn atom is lowered. The $$\overline{CN }$$    CN  &#175;   of surface Zn atom is proposed as a key descriptor of HER activity. Tuning the $$\overline{CN }$$    CN  &#175;   of surface Zn atom would be a vital strategy to inhibit HER on the Zn anode surface based on the presented theoretical studies. Furthermore, this work provides a theoretical basis for the in-depth understanding of HER on the Zn surface.</description>
-      <author>Xiaoyu Liu, Yixuan Guo, Fanghua Ning, Yuyu Liu, Siqi Shi, Qian Li, Jiujun Zhang, Shigang Lu, Jin Yi</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40820-024-01337-0</guid>
-    </item>
-    <item>
-      <title>Targeted synthesis, characterization, and electrochemical analysis of transition-metal-oxide catalysts for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.checat.2024.100905</link>
-      <description>David Hayes, Shaun M Alia, Bryan S. Pivovar, Ryan M. Richards, Chem Catalysis. None(None)] 2024. https://openalex.org/W4391563312
-
-                No abstract</description>
-      <author>David Hayes, Shaun M Alia, Bryan S. Pivovar, Ryan M. Richards</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.100905</guid>
-    </item>
-    <item>
-      <title>Potential and electric double-layer effect in electrocatalytic urea synthesis</title>
-      <link>https://doi.org/10.1038/s41467-024-45522-6</link>
-      <description>Qian Wu, Chencheng Dai, Fanxu Meng, Yan Jiao, Zhichuan J. Xu, Nature Communications. 15(1)] 2024. https://openalex.org/W4391569400
-
-                Abstract Electrochemical synthesis is a promising way for sustainable urea production, yet the exact mechanism has not been fully revealed. Herein, we explore the mechanism of electrochemical coupling of nitrite and carbon dioxide on Cu surfaces towards urea synthesis on the basis of a constant-potential method combined with an implicit solvent model. The working electrode potential, which has normally overlooked, is found influential on both the reaction mechanism and activity. The further computational study on the reaction pathways reveals that *CO-NH and *NH-CO-NH as the key intermediates. In addition, through the analysis of turnover frequencies under various potentials, pressures, and temperatures within a microkinetic model, we demonstrate that the activity increases with temperature, and the Cu(100) shows the highest efficiency towards urea synthesis among all three Cu surfaces. The electric double-layer capacitance also plays a key role in urea synthesis. Based on these findings, we propose two essential strategies to promote the efficiency of urea synthesis on Cu electrodes: increasing Cu(100) surface ratio and elevating the reaction temperature.</description>
-      <author>Qian Wu, Chencheng Dai, Fanxu Meng, Yan Jiao, Zhichuan J. Xu</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45522-6</guid>
-    </item>
-    <item>
-      <title>A Full-Spectrum ZnS Photocatalyst with Gradient Distribution of Atomic Copper Dopants and Concomitant Sulfur Vacancies for Highly Efficient Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acsnano.3c12773</link>
-      <description>Linping Bao, Sajjad Ali, Chunhui Dai, Qing Zeng, Chao Zeng, Yushuai Jia, Xin Liu, Ping Wang, Xiaohui Ren, Teng Yang, M. Bououdina, Zhang&#8208;Hui Lu, Yuechang Wei, Xuan Yu, Yingtang Zhou, ACS Nano. None(None)] 2024. https://openalex.org/W4391576210
-
-                A rarely discussed phenomenon in the realm of photocatalytic materials involves the presence of gradient distributed dopants and defects from the interior to the surface. This intriguing characteristic has been successfully achieved in the case of ZnS through the incorporation of atomic monovalent copper ions (Cu+) and concurrent sulfur vacancies (Vs), resulting in a photocatalyst denoted as G-CZS1&#8211;x. Through the cooperative action of these atomic Cu dopants and Vs, G-CZS1&#8211;x significantly extends its photoabsorption range to encompass the full spectrum (200&#8211;2100 nm), which improves the solar utilization ability. This alteration enhances the efficiency of charge separation and optimizes &#916;(H*) (free energy of hydrogen adsorption) to approach 0 eV for the hydrogen evolution reaction (HER). It is noteworthy that both surface-exposed atomic Cu and Vs act as active sites for photocatalysis. G-CZS1&#8211;x exhibits a significant H2 evolution rate of 1.01 mmol h&#8211;1 in the absence of a cocatalyst. This performance exceeds the majority of previously reported photocatalysts, exhibiting approximately 25-fold as ZnS, and 5-fold as H-CZS1&#8211;x with homogeneous distribution of equal content Cu dopants and Vs. In contrast to G-CZS1&#8211;x, the H adsorption on Cu sites for H-CZS1&#8211;x (&#916;G(H*) = &#8722;1.22 eV) is excessively strong to inhibit the H2 release, and the charge separation efficiency for H-CZS1&#8211;x is relatively sluggish, revealing the positive role of a gradient distribution model of dopants and defects on activity enhancement. This work highlights the synergy of atomic dopants and defects in advancing photoactivity, as well as the significant benefit of the controllable distribution model of dopants and defects for photocatalysis.</description>
-      <author>Linping Bao, Sajjad Ali, Chunhui Dai, Qing Zeng, Chao Zeng, Yushuai Jia, Xin Liu, Ping Wang, Xiaohui Ren, Teng Yang, M. Bououdina, Zhang&#8208;Hui Lu, Yuechang Wei, Xuan Yu, Yingtang Zhou</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c12773</guid>
-    </item>
-    <item>
-      <title>Unveiling the Energy Storage Mechanism of MXenes under Acidic Conditions through Transitions of Surface Functionalizations</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06956</link>
-      <description>Zheng Bo, Yu&#8208;Cheng Chen, Qian Yu, Jun Yan, Kefa Cen, Zhu Liu, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4391577891
-
-                The high capacitive performance of MXenes in acidic electrolytes has made them potential electrode materials for supercapacitors. In this study, we conducted a structural analysis of MXene surface functionalizations by identifying the surface group distribution pattern and revealed the energy storage process of MXene surface chemistry by combining a complete Pourbaix stability diagram and density functional theory (DFT) calculations. The Pourbaix diagram indicated that pH controls the surface termination; an acidic pH generates favorable initial surfaces of MXenes with a specific distribution of functional groups (10 hydroxyls with respect to 18 total locations for the selected surface unit). Using this, we report the charging and uncharging process of MXenes with transitions of surface oxygenic groups (&#8722;OH and -O) via hydrogen ion adsorption and desorption on the MXene surface. Our results demonstrated that transitions of surface functionalizations contribute to comparable pseudocapacitance and electrostatic capacitance for MXenes. These findings provide insights into understanding the MXene energy storage mechanism by controlling surface functionalizations through the experimental reaction environment and synthesis conditions.</description>
-      <author>Zheng Bo, Yu&#8208;Cheng Chen, Qian Yu, Jun Yan, Kefa Cen, Zhu Liu</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06956</guid>
-    </item>
-    <item>
-      <title>Numerical analysis of oxygen enrichment in a self-recuperative radiant-tube burner</title>
-      <link>https://doi.org/10.1016/j.ijheatmasstransfer.2023.125154</link>
-      <description>Alex M. Garc&#237;a, Yefferson L&#243;pez, Andr&#233;s Amell Arrieta, International Journal of Heat and Mass Transfer. 223(None)] 2024. https://openalex.org/W4391589898
-
-                The effect of oxygen enrichment on the performance of a self-recuperative radiant tube burner (RTB) was evaluated. Reynolds-Averaged Navier Stock (RANS) Fluid Dynamic Simulations (CFD) are performed on a non-recirculating radian tube burner with fuel-oxidant mixing and primary combustion reactions occurring inside a combustion chamber rather than in the radiant tube. The radiant tube burner is intended for drying applications with an operating surface temperature of around 950 K. Oxygen concentrations in the oxidant ranging from pure air to pure oxygen are evaluated, and the effect of oxygen enrichment on the flame structure, heat transfer, and burner performance is analyzed. The recuperative part of the RTB was also included in the analysis. The effect of O2 content, flue gas temperature, and mass flow rate on the performance of the heat exchanger is evaluated, and a correlation to describe the oxidant preheat temperature is calibrated with the data from the simulations. Oxygen enrichment significantly impacts the performance of the self-recuperative radiant tube burner. The mean radiant tube temperature and the radiation efficiency rise with increasing oxygen enrichment until it reaches a peak value around 40% O2 for the burner evaluated; beyond this value, the efficiency of the RTB begins to decline. The same oxygen enrichment gives the higher energy recovery ratio in the heat exchanger at flow rates corresponding to constant reference thermal power. The position of the flame and the interplay between the variations in specific heat, emissivity, temperature, and flow rate of the gases explain these results.</description>
-      <author>Alex M. Garc&#237;a, Yefferson L&#243;pez, Andr&#233;s Amell Arrieta</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijheatmasstransfer.2023.125154</guid>
-    </item>
     <item>
       <title>Tuning the apparent hydrogen binding energy to achieve high-performance Ni-based hydrogen oxidation reaction catalyst</title>
       <link>https://doi.org/10.1038/s41467-024-45370-4</link>
@@ -256,6 +176,86 @@
       <author>Keat Hoe Yeoh, Yee Hui Robin Chang, Khian&#8208;Hooi Chew, Junke Jiang, Tiem Leong Yoon, Duu Sheng Ong, Boon Tong Goh</author>
       <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.3c03188</guid>
+    </item>
+    <item>
+      <title>Hierarchical boroncarbonitride nanosheets as metal-free catalysts for enhanced oxidative dehydrogenation of propane</title>
+      <link>https://doi.org/10.1016/j.ces.2024.119848</link>
+      <description>Guangming Wang, Anming Hu, Qiwei Duan, Longji Cui, Ziyi Chen, Zelong Huang, Xuefei Zhang, Shuping Huang, Zailai Xie, Chemical Engineering Science. 288(None)] 2024. https://openalex.org/W4391667305
+
+                Boroncarbonitrides (BCNs) are recently developed new catalytic system for efficient oxidative dehydrogenation (ODH) of alkanes to alkenes. Herein, a series of novel hierarchical BCN materials are synthesized using asymmetric hydrogen bonds self-assembly between methylguanidine and boric acid, along with ammonia deposition. The XRD, S(T)EM, and XPS characterizations confirm the presence of ternary BCN solid solution covered by small serrated-like BCN nanosheets materials in the 2D plates. The unique hierarchical structure and developed mesoporosity of the BCN material contribute to its outstanding catalytic performance. The optimal catalyst delivers robust catalytic performance and long-term stability in the ODH of propane reaction with propylene and total olefin selectivity of 74.7% and 89.7% at a stable 20.4% propane conversion, much better than BCN sheets and h-BN catalyst. Results show that the in-situ formation of suitable amounts of amorphous BOX species within the BCN structure, along with the maintenance of the 2D skeleton at elevated temperatures, is a significant contribution in the enhanced ODH reactivity. Moreover, density functional theory calculation also demonstrates that the presence appropriate carbon content in BCN catalysts can significantly promote the ODH of propane reaction.</description>
+      <author>Guangming Wang, Anming Hu, Qiwei Duan, Longji Cui, Ziyi Chen, Zelong Huang, Xuefei Zhang, Shuping Huang, Zailai Xie</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119848</guid>
+    </item>
+    <item>
+      <title>Ultrastable electrocatalytic seawater splitting at ampere-level current density</title>
+      <link>https://doi.org/10.1038/s41893-023-01263-w</link>
+      <description>Rong-Chang Fan, Changhao Liu, Zhonghua Li, Huiting Huang, Jianyong Feng, Zhaosheng Li, Zhigang Zou, Nature Sustainability. None(None)] 2024. https://openalex.org/W4391680871
+
+                No abstract</description>
+      <author>Rong-Chang Fan, Changhao Liu, Zhonghua Li, Huiting Huang, Jianyong Feng, Zhaosheng Li, Zhigang Zou</author>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41893-023-01263-w</guid>
+    </item>
+    <item>
+      <title>Asymmetric O&lt;sub&gt;2&lt;/sub&gt;&#8211;Ru&#8211;N&lt;sub&gt;2&lt;/sub&gt; Active Sites via Coordination Engineering for Tuning Hydrogen Evolution across the Full pH Value</title>
+      <link>https://doi.org/10.1021/acs.chemmater.3c02367</link>
+      <description>Zhaoyang Han, Sang&#8208;Hee Son, Kyungsaeng Kim, Shasha Gao, Gonglei Shao, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4391683027
+
+                The asymmetric coordination engineering of single metal atom is a challenging task for single-atom catalysts (SACs) to further amplify the catalytic potential. Hence, a unique asymmetric O2&#8211;Ru&#8211;N2 active site is meticulously engineered through the pyrolysis of an organic complex with 1,10-phenanthroline-2,9-dicarboxylic acid and Ru metal ions. The coordination evolution of the Ru atom is examined as a function of annealing temperature, evolving from the asymmetric O2&#8211;Ru&#8211;N2 configuration to the asymmetric O2&#8211;Ru&#8211;Ru and finally to the Ru&#8211;Ru structure. The electrocatalytic hydrogen evolution performance makes it clear that the SACs with asymmetric O2&#8211;Ru&#8211;N2 active sites outperform intermediate O2&#8211;Ru&#8211;Ru, Ru nanosheets, and even commercial Pt/C catalysts across the full pH value. The optimal HER performance is attributed to the formation of asymmetric O2&#8211;Ru&#8211;N2 active sites, which exhibit the lowest &#916;GH* owing to the unique structure of Ru coordinated with double heterononmetallic atoms, which is confirmed by X-ray absorption spectroscopy. This work underscores the pivotal role of coordination engineering in SACs, with particular emphasis on the significance of asymmetric single-atom catalytic centers and their potential in diverse catalytic applications.</description>
+      <author>Zhaoyang Han, Sang&#8208;Hee Son, Kyungsaeng Kim, Shasha Gao, Gonglei Shao</author>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c02367</guid>
+    </item>
+    <item>
+      <title>Acidic media enables oxygen-tolerant electrosynthesis of multicarbon products from simulated flue gas</title>
+      <link>https://doi.org/10.1038/s41467-024-45527-1</link>
+      <description>Meng Wang, B.X. Wang, Ji&#8208;Guang Zhang, Shibo Xi, Lixin Ning, Zhiyong Mi, Qin Yang, Mingsheng Zhang, Wan Ru Leow, Jia Zhang, Yanwei Lum, Nature Communications. 15(1)] 2024. https://openalex.org/W4391687274
+
+                Abstract Renewable electricity powered electrochemical CO 2 reduction (CO 2 R) offers a valuable method to close the carbon cycle and reduce our overreliance on fossil fuels. However, high purity CO 2 is usually required as feedstock, which potentially decreases the feasibility and economic viability of the process. Direct conversion of flue gas is an attractive option but is challenging due to the low CO 2 concentration and the presence of O 2 impurities. As a result, up to 99% of the applied current can be lost towards the undesired oxygen reduction reaction (ORR). Here, we show that acidic electrolyte can significantly suppress ORR on Cu, enabling generation of multicarbon products from simulated flue gas. Using a composite Cu and carbon supported single-atom Ni tandem electrocatalyst, we achieved a multicarbon Faradaic efficiency of 46.5% at 200 mA cm -2 , which is ~20 times higher than bare Cu under alkaline conditions. We also demonstrate stable performance for 24 h with a multicarbon product full-cell energy efficiency of 14.6%. Strikingly, this result is comparable to previously reported acidic CO 2 R systems using pure CO 2 . Our findings demonstrate a potential pathway towards designing efficient electrolyzers for direct conversion of flue gas to value-added chemicals and fuels.</description>
+      <author>Meng Wang, B.X. Wang, Ji&#8208;Guang Zhang, Shibo Xi, Lixin Ning, Zhiyong Mi, Qin Yang, Mingsheng Zhang, Wan Ru Leow, Jia Zhang, Yanwei Lum</author>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45527-1</guid>
+    </item>
+    <item>
+      <title>Electronic Modulation in Cu Doped NiCo LDH/NiCo Heterostructure for Highly Efficient Overall Water Splitting</title>
+      <link>https://doi.org/10.1002/smll.202311182</link>
+      <description>Xuewen Xia, Shujuan Wang, Dan Li&#250;, Fei Wang, Xueqiang Zhang, Hao Zhang, Xiaojiang Yu, Zhongya Pang, Guangshi Li, Chaoyi Chen, Yufeng Zhao, Ji Li, Qian Xu, Xingli Zou, Xionggang Lu, Small. None(None)] 2024. https://openalex.org/W4391690247
+
+                Abstract Layered double hydroxides (LDHs), promising bifunctional electrocatalysts for overall water splitting, are hindered by their poor conductivity and sluggish electrochemical reaction kinetics. Herein, a hierarchical Cu&#8208;doped NiCo LDH/NiCo alloy heterostructure with rich oxygen vacancies by electronic modulation is tactfully designed. It extraordinarily effectively drives both the oxygen evolution reaction (151 mV@10 mA cm &#8722;2 ) and the hydrogen evolution reaction (73 mV@10 mA cm &#8722;2 ) in an alkaline medium. As bifunctional electrodes for overall water splitting, a low cell voltage of 1.51 V at 10 mA cm &#8722;2 and remarkable long&#8208;term stability for 100 h are achieved. The experimental and theoretical results reveal that Cu doping and NiCo alloy recombination can improve the conductivity and reaction kinetics of NiCo LDH with surface charge redistribution and reduced Gibbs free energy barriers. This work provides a new inspiration for further design and construction of nonprecious metal&#8208;based bifunctional electrocatalysts based on electronic structure modulation strategies.</description>
+      <author>Xuewen Xia, Shujuan Wang, Dan Li&#250;, Fei Wang, Xueqiang Zhang, Hao Zhang, Xiaojiang Yu, Zhongya Pang, Guangshi Li, Chaoyi Chen, Yufeng Zhao, Ji Li, Qian Xu, Xingli Zou, Xionggang Lu</author>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202311182</guid>
+    </item>
+    <item>
+      <title>Accurate construction of cobalt vacancies in Co3O4 to promote oxyhydroxide formation for water oxidation</title>
+      <link>https://doi.org/10.1007/s40843-023-2766-y</link>
+      <description>Zhijuan Liu, Guangjin Wang, Jinyu Guo, Yanyong Wang, Science China Materials. None(None)] 2024. https://openalex.org/W4391690577
+
+                The introduction of defect sites has been widely reported to enhance electrocatalysts&#8217; abilities by increasing their affinity for reaction intermediates. Many different defect types, such as cation and anion vacancies, can exist in nano-materials. The different defect sites can make different contributions to the electrochemical ability. Therefore, a constructed defect should be accurate and specific, which makes it easy to identify the optimal defect type to facilitate electrochemical reactions. In this work, we used cobalt vacancies in Co3O4 as an example and synthesized Co3O4 with bivalent cobalt vacancies (Co3O4-VCo(II)) and trivalent cobalt vacancies (Co3O4-VCo(III)). Electrochemical results demonstrate that introducing cobalt vacancies considerably enhances the electrocatalytic activity of Co3O4. Furthermore, Co3O4-VCo(II) exhibits the most outstanding oxygen evolution ability with the fastest reaction kinetic rate. Quasi-operando X-ray photoelectron microscopy spectrum analysis results indicate that the presence of VCo(II) can accelerate CoOOH active site formation during the oxygen evolution reaction process. Density functional theory calculations reveal that introducing cobalt vacancies can endow Co3O4 with metal-like conductivity. The O p-band center can be moved near the Fermi level, and the free energy barrier can be the lowest with the presence of VCo(II), resulting in a fast kinetics rate of oxygen exchange at the electrocatalyst surface and optimal adsorption energy to reaction intermediates to display excellent electrochemical ability. This work provides substantial guidance for designing efficient defect-rich electrocatalysts.</description>
+      <author>Zhijuan Liu, Guangjin Wang, Jinyu Guo, Yanyong Wang</author>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-023-2766-y</guid>
+    </item>
+    <item>
+      <title>Element-dependent effects of alkali cations on nitrate reduction to ammonia</title>
+      <link>https://doi.org/10.1016/j.scib.2024.02.011</link>
+      <description>Yida Zhang, Zhentao Ma, Shuo Yang, Qingyu Wang, Limin Liu, Yu Bai, Dewei Rao, Gongming Wang, Hongliang Li, Xusheng Zheng, Science Bulletin. None(None)] 2024. https://openalex.org/W4391691052
+
+                Catalytic conversion of nitrate (NO3&#8722;) pollutants into ammonia (NH3) offers a sustainable and promising route for both wastewater treatment and NH3 synthesis. Alkali cations are prevalent in nitrate solutions, but their roles beyond charge balance in catalytic NO3&#8722; conversion have been generally ignored. Herein, we report the promotion effect of K+ cations in KNO3 solution for NO3&#8722; reduction over a TiO2-supported Ni single-atom catalyst (Ni1/TiO2). For photocatalytic NO3&#8722; reduction reaction, Ni1/TiO2 exhibited a 1.9-fold NH3 yield rate with nearly 100% selectivity in KNO3 solution relative to that in NaNO3 solution. Mechanistic studies reveal that the K+ cations from KNO3 gradually bonded with the surface of Ni1/TiO2, in situ forming a K-O-Ni moiety during reaction, whereas the Na+ ions were unable to interact with the catalyst in NaNO3 solution. The charge accumulation on the Ni sites induced by the incorporation of K atom promoted the adsorption and activation of NO3&#8722;. Furthermore, the K-O-Ni moiety facilitated the multiple proton-electron coupling of NO3&#8722; into NH3 by stabilizing the intermediates.</description>
+      <author>Yida Zhang, Zhentao Ma, Shuo Yang, Qingyu Wang, Limin Liu, Yu Bai, Dewei Rao, Gongming Wang, Hongliang Li, Xusheng Zheng</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.02.011</guid>
+    </item>
+    <item>
+      <title>Electrosynthesis of H2O2 via two-electron oxygen reduction over carbon-based catalysts: From microenvironment control to electrode/reactor design</title>
+      <link>https://doi.org/10.1016/j.enrev.2024.100069</link>
+      <description>Jingjing Jia, Zhenxin Li, Yunrui Tian, Xia Li, Rui Chen, Jiachen Liu, Ji Liang, Energy reviews. None(None)] 2024. https://openalex.org/W4391691194
+
+                The electrochemical production of hydrogen peroxide (H2O2) by the two-electron oxygen reduction (2e&#8722;-ORR) process has the advantages of high safety, low energy consumption, and environmental friendliness. For 2e&#8722;-ORR, the catalyst/electrode is the key component as it strongly affects catalytic performance and cost. Carbon materials have the advantages of high electronic conductivity, good structural stability, easy control of nanostructures, and low cost. Therefore, it has been regarded as a promising catalyst/electrode material for the electrosynthesis of H2O2 via 2e&#8722;-ORR. In addition, studies have also considered the optimization of the liquid/gas interface by tuning the electrode surface, electrolyte pH, and reactor configurations for further improving the activity and selectivity of catalysts. In this review, we provide an in-depth discussion of the recent research on the carbon-based electrocatalysts for 2e&#8722;-ORR, especially in terms of microenvironment tuning, catalyst/electrode interface engineering, and reactor design for achieving stable and efficient production of H2O2. The challenges that we are still facing and the future development prospects will then be concluded, which we believe should help the future development in this field.</description>
+      <author>Jingjing Jia, Zhenxin Li, Yunrui Tian, Xia Li, Rui Chen, Jiachen Liu, Ji Liang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.enrev.2024.100069</guid>
     </item>
   </channel>
 </rss>

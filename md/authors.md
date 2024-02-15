@@ -1,18 +1,8 @@
 # authors
 Description: List of authors
-Created on Wed Feb 14 00:44:14 2024
+Created on Thu Feb 15 00:44:01 2024
 
-Found 1 results from 2024-02-07 to 2024-02-14
+Found 0 results from 2024-02-08 to 2024-02-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464)
 
-## Opyrability: A Python package for process operability analysis   
-
-OpenAlex: https://openalex.org/W4391573070    
-Open access: True
-    
-[Victor Alves](https://openalex.org/A5033439256), [San Dinh](https://openalex.org/A5059801671), [John R. Kitchin](https://openalex.org/A5003442464), [Vitor Gazzaneo](https://openalex.org/A5028703671), [Juan C. Carrasco](https://openalex.org/A5049224685), [Fernando V. Lima](https://openalex.org/A5008955099), Journal of open source software. 9(94)] 2024.https://doi.org/10.21105/joss.05966 ([pdf](https://joss.theoj.org/papers/10.21105/joss.05966.pdf)).
-    
-No abstract    
-
-    

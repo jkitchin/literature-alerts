@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Feb 2024 00:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:44:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Opyrability: A Python package for process operability analysis</title>
-      <link>https://doi.org/10.21105/joss.05966</link>
-      <description>Victor Alves, San Dinh, John R. Kitchin, Vitor Gazzaneo, Juan C. Carrasco, Fernando V. Lima, Journal of open source software. 9(94)] 2024. https://openalex.org/W4391573070
-
-                No abstract</description>
-      <author>Victor Alves, San Dinh, John R. Kitchin, Vitor Gazzaneo, Juan C. Carrasco, Fernando V. Lima</author>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21105/joss.05966</guid>
-    </item>
   </channel>
 </rss>
