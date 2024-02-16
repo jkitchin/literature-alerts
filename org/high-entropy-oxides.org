@@ -1,50 +1,9 @@
 #+filetags: high-entropy-oxides
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu Feb 15 00:44:05 2024
+Created on Fri Feb 16 00:42:59 2024
 
-Found 2 results from 2024-02-08 to 2024-02-15
+Found 0 results from 2024-02-09 to 2024-02-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
-* General Synthesis of Composition‐Tunable High‐Entropy Amorphous Oxides Toward High Efficiency Oxygen Evolution Reaction  :high_entropy_oxides:
-:PROPERTIES:
-:ID: https://openalex.org/W4391607819
-:TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Advanced Materials for Smart Windows
-:PUBLICATION_DATE: 2024-02-05
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202310786")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391607819"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391607819"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391607819"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391607819 (Open access: False)
-    
-[[https://openalex.org/A5019020896][Shunda Jiang]], [[https://openalex.org/A5019226659][Yihang Yu]], [[https://openalex.org/A5003452086][Huan He]], [[https://openalex.org/A5001556458][Zhiyuan Wang]], [[https://openalex.org/A5059496516][Runguo Zheng]], [[https://openalex.org/A5039667666][Hongyu Sun]], [[https://openalex.org/A5056512009][Yanguo Liu]], [[https://openalex.org/A5058380236][Dan Wang]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202310786 
-     
-Abstract High‐entropy materials have attracted much attention in the electrocatalysis field due to their unique structure, high chemical activity, and compositional tunability. However, the harsh and complex synthetic methods limit the application of such materials. Herein, a universal non‐equilibrium liquid‐phase synthesis strategy is reported to prepare high‐entropy amorphous oxide nanoparticles (HEAO‐NPs), and the composition of HEAO‐NPs can be precisely controlled from tri‐ to ten‐component. The non‐equilibrium synthesis environment provided by an excessively strong reducing agent overcomes the difference in the reduction potentials of various metal ions, resulting in the formation of HEAO‐NPs with a nearly equimolar ratio. The oxygen evolution reaction (OER) performance of HEAO‐NPs is further improved by adjusting the composition and optimizing the electronic structure. The Fe 16 Co 32 Ni 32 Mn 10 Cu 10 BO y exhibits a smaller overpotential (only 259 mV at 10 mA cm −2 ) and higher stability in OER compared with commercial RuO 2 . The amorphous high‐entropy structure with an optimized concentration of iron makes the binding energy of CoNi shift to a higher direction, promotes the generation of high‐valence active intermediates, and accelerates the OER kinetic process. The HEAO‐NPs have promising application potential in the field of catalysis, biology, and energy storage, and this work provides a general synthesis method for composition‐controllable high‐entropy materials.    
-
-    
-
-* Flash Joule‐heating synthesis of MoO2 nanocatalysts in graphene aerogel for deep catalytic oxidative desulfurization  :high_entropy_oxides:
-:PROPERTIES:
-:ID: https://openalex.org/W4391613958
-:TOPICS: Desulfurization Technologies for Fuels, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-02-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aic.18357")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391613958"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391613958"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391613958"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391613958 (Open access: False)
-    
-[[https://openalex.org/A5051652070][Dong Xia]], [[https://openalex.org/A5090877758][Heng Li]], [[https://openalex.org/A5019214638][Peng Huang]], [[https://openalex.org/A5047701204][Wenyu Zhou]], [[https://openalex.org/A5057436722][Alexander N. Kulak]], [[https://openalex.org/A5068116015][Ningjing Luo]], [[https://openalex.org/A5066887020][Qun Li]], AIChE Journal. None(None)] 2024. https://doi.org/10.1002/aic.18357 
-     
-Abstract Ultra‐high‐temperature flash Joule‐heating of organometallic precursor‐embedded reduced graphene oxide (rGO) aerogel represents a highly efficient approach for the ultrafast production of nanocatalysts, while such a methodology has been scarcely applied to 3D nanocarbon‐based aerogel monoliths. Herein, we demonstrate the rapid synthesis of MoO 2 nanoparticles within the aerogel matrix via a 1‐s high‐temperature flash Joule‐heating process (~1700°C), resulting in the formation of the hybrid MoO 2 @rGO aerogel with uniformly distributed nanoparticles. Nitrogen adsorption/desorption analysis indicates discernible internal microstructural disparities attributed to the additional 1‐s flash‐heating and the substantial generation of MoO 2 nanoparticles. This aerogel exhibits exceptional catalytic functionality, achieving up to 99.8% efficiency in converting dibenzothiophene to dibenzothiophene sulfone. Density functional theory calculations provide insights into the catalytic mechanism, revealing that the Mo center shows accumulated electron density contributed from the electron‐rich graphene substrate. This electron density enhancement significantly enhances the catalytic activity, enabling deep desulfurization. The proposed flash nanocatalyst synthesis approach presented here can be extended to fabricate multimetallic nanocatalysts and high‐entropy alloys within the cylindrical aerogel entity, exhibiting great potential for applications in industry‐relevant flow chemistry, electrochemistry, industrial catalysis, and beyond.    
-
-    
