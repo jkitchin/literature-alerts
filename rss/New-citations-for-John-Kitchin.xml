@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Feb 2024 00:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:43:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Study on ORR reaction of B-doped graphene supported Co atoms with different defects</title>
-      <link>https://doi.org/10.1016/j.comptc.2024.114506</link>
-      <description>Zhihua Ju, Xuyun Zhang, Yong Wang, Yan Liang, Fapeng Yu, Yong Liu, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4391642348
-
-                The performance of single atom catalyst (SAC) is strongly affected by its carrier. Five configurations with single vacancy, double vacancy, and defect site were calculated using density functional theory (DFT), and it was found that the electronic structure and state density were effectively regulated after introducing the B atom. The ORR activity was studied by doping different coordination layers. The results show that when doped with the second coordination layer of Co-DVG-N4 configuration, B can improve the adsorption strength of the central Co atom to the oxygen intermediate and show excellent ORR activity. Co-DVG-N4-B4(12.9 %) and Co-DVG-N4-B5(16.1 %) have relatively low overpotentials of 0.49 V and 0.47 V, providing an effective theoretical basis for rationalizing efficient electrocatalysts based on Co carbon materials.</description>
-      <author>Zhihua Ju, Xuyun Zhang, Yong Wang, Yan Liang, Fapeng Yu, Yong Liu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114506</guid>
-    </item>
-    <item>
-      <title>An efficient approach to compartmentalize double layer effects on kinetics of interfacial proton-electron transfer reactions</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115360</link>
-      <description>Naveen Agrawal, Andrew Jark-Wah Wong, Sharad Maheshwari, Michael J. Janik, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4391643101
-
-                Activation barriers for elementary electrochemical reactions can show strong dependence on the composition and structure of the electrode&#8211;electrolyte interface, the electrochemical double layer (EDL), due to the highly polar nature of ion/electron transfer transition states. A compartmentalized analytical framework, built upon DFT calculations, is developed to consider complex interactions between reaction intermediates and the EDL. The approach analytically captures how altering interfacial properties, such as the dielectric constant or distribution of electrolyte charges, impact electrocatalytic activation barriers. Dipole moment change along the reaction path plays the largest role in dictating the extent to which interfacial properties impact elementary electrochemical kinetics. The compartmentalization and uncertainty quantification capability of the developed framework is illustrated employing a Helmholtz model with two parameters, dielectric constant and double layer thickness. The framework translates routine DFT analysis of (water-assisted) hydrogenation activation barriers to proton-coupled electron transfer barriers that depend analytically on electrode potential and EDL properties.</description>
-      <author>Naveen Agrawal, Andrew Jark-Wah Wong, Sharad Maheshwari, Michael J. Janik</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115360</guid>
-    </item>
-    <item>
-      <title>APA-graphene: A multifunctional material for lithium-ion batteries and electrocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/j.mtsust.2024.100699</link>
-      <description>Wei Liu, Yunhao Xie, Liang Chen, Mingming Guo, Jing Xu, Materials Today Sustainability. None(None)] 2024. https://openalex.org/W4391648745
-
-                No abstract</description>
-      <author>Wei Liu, Yunhao Xie, Liang Chen, Mingming Guo, Jing Xu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtsust.2024.100699</guid>
-    </item>
-    <item>
-      <title>Boosting electrocatalytic nitrate reduction to ammonia via Cu2O/Cu(OH)2 heterostructures promoting electron transfer</title>
-      <link>https://doi.org/10.1007/s12274-024-6480-1</link>
-      <description>Jing Geng, Shengjun Ji, Nano Research. None(None)] 2024. https://openalex.org/W4391649902
-
-                No abstract</description>
-      <author>Jing Geng, Shengjun Ji</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6480-1</guid>
-    </item>
-    <item>
-      <title>First-Principles Study of Bimetallic Pairs Embedded on Graphene Co-Doped with N and O for N2 Electroreduction</title>
-      <link>https://doi.org/10.3390/molecules29040779</link>
-      <description>Haotian Dong, Hao Sun, Guanru Xing, Shize Liu, Xue-Mei Duan, Jingyao Liu, Molecules. 29(4)] 2024. https://openalex.org/W4391650891
-
-                The electrocatalytic nitrogen reduction reaction (NRR) is considered a viable alternative to the Haber&#8211;Bosch process for ammonia synthesis, and the design of highly active and selective catalysts is crucial for the industrialization of the NRR. Dual-atom catalysts (DACs) with dual active sites offer flexible active sites and synergistic effects between atoms, providing more possibilities for the tuning of catalytic performance. In this study, we designed 48 graphene-based DACs with N4O2 coordination (MM&#8242;@N4O2-G) using density functional theory. Through a series of screening strategies, we explored the reaction mechanisms of the NRR for eight catalysts in depth and revealed the &#8220;acceptance&#8211;donation&#8221; mechanism between the active sites and the N2 molecules through electronic structure analysis. The study found that the limiting potential of the catalysts exhibited a volcano-shaped relationship with the d-band center of the active sites, indicating that the synergistic effect between the bimetallic components can regulate the d-band center position of the active metal M, thereby controlling the reaction activity. Furthermore, we investigated the selectivity of the eight DACs and identified five potential NRR catalysts. Among them, MoCo@N4O2-G showed the best NRR performance, with a limiting potential of &#8722;0.20 V. This study provides theoretical insights for the design and development of efficient NRR electrocatalysts.</description>
-      <author>Haotian Dong, Hao Sun, Guanru Xing, Shize Liu, Xue-Mei Duan, Jingyao Liu</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules29040779</guid>
-    </item>
-    <item>
-      <title>&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e638" altimg="si89.svg"&gt;&lt;mml:mi&gt;s&lt;/mml:mi&gt;&lt;/mml:math&gt;-&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e643" altimg="si90.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;d&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:msup&gt;&lt;mml:mrow&gt;&lt;mml:mi&gt;z&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msup&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; hybridization promotes the high-efficiency hydrogen evolution &#8230;</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159642</link>
-      <description>Jiajia Zhou, Yu-Hao Wei, Nan Gao, Anlong Kuang, Shao-Yi Wu, Min-Quan Kuang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391655850
-
-                Heusler alloys with tunable electronic properties have promising catalytic applications. In this work, the hydrogen evolution reaction and the underlying catalytic mechanism of the full Heusler alloys Co2TiAl and Co2TiGa are investigated. The first-principles calculations indicate the Gibbs free energy difference (&#916;GH&#8727;) of the active Co-site on the (001) surface is &#8722;0.06 and &#8722;0.07 eV for Co2TiAl and Co2TiGa, respectively, which is comparable to the benchmark Pt (&#8722;0.09 eV). The high-efficiency HER activity can ascribe to the appropriate hybridization between the H-s and Co-dz2 orbital. Noticeably, the HER activity is robust against to the electron (hole) doping until the hybridization between the H-s and Co-dx2&#8722;y2 orbital emerges, in which the hole doping is equal or greater than 0.2 holes per a formula unit. In addition, the activation energy of the Tafel reaction at the Co-site is evaluated to be 0.37 and 0.41 eV for Co2TiAl and Co2TiGa, respectively, which is nearly half of the value of Pt (111) surface (0.85 eV). This work unveils the excellent and robust HER activity of Co2TiAl and Co2TiGa and reveals the s-dz2 bonding is an important factor for designing the HER catalysts based on the L21-type Heusler alloys.</description>
-      <author>Jiajia Zhou, Yu-Hao Wei, Nan Gao, Anlong Kuang, Shao-Yi Wu, Min-Quan Kuang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159642</guid>
-    </item>
-    <item>
-      <title>Review on techno-economics of hydrogen production using current and emerging processes: Status and perspectives</title>
-      <link>https://doi.org/10.1016/j.rineng.2024.101890</link>
-      <description>Medhat A. Nemitallah, Abdulrahman A. Alnazha, Usama Ahmed, Mohammed El-Adawy, Mohamed A. Habib, Results in Engineering. None(None)] 2024. https://openalex.org/W4391656376
-
-                This review presents a broad exploration of the techno economic evaluation of different technologies utilized in the production of hydrogen from both renewable and non-renewable sources. These encompass methods ranging from extracting hydrogen from fossil fuels or biomass to employing microbial processes, electrolysis of water, and various thermochemical cycles. A rigorous techno-economic evaluation of hydrogen production technologies can provide a critical cost comparison for future resource allocation, priorities, and trajectory. This evaluation will have a great impact on future hydrogen production projects and the development of new approaches to reduce overall production costs and make it a cheaper fuel. Different methods of hydrogen production exhibit varying efficiencies and costs: fast pyrolysis can yield up to 45% hydrogen at a cost range of $1.25 to $2.20 per kilogram, while gasification, operating at temperatures exceeding 750 &#176;C, faces challenges such as limited small-scale coal production and issues with tar formation in biomass. Steam methane reforming, which constitutes 48% of hydrogen output, experiences cost fluctuations depending on scale, whereas auto-thermal reforming offers higher efficiency albeit at increased costs. Chemical looping shows promise in emissions reduction but encounters economic hurdles, and sorption-enhanced reforming achieves over 90% hydrogen but requires CO2 storage. Renewable liquid reforming proves effective and economically viable. Additionally, electrolysis methods like PEM aim for costs below $2.30 per kilogram, while dark fermentation, though cost-effective, grapples with efficiency challenges. Overcoming technical, economic barriers, and managing electricity costs remains crucial for optimizing hydrogen production in a low-carbon future, necessitating ongoing research and development efforts.</description>
-      <author>Medhat A. Nemitallah, Abdulrahman A. Alnazha, Usama Ahmed, Mohammed El-Adawy, Mohamed A. Habib</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2024.101890</guid>
-    </item>
-    <item>
-      <title>Computational Screening of a Single-Atom Catalyst Supported by Monolayer Nb&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;2&lt;/sub&gt;C for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acs.langmuir.3c03188</link>
-      <description>Keat Hoe Yeoh, Yee Hui Robin Chang, Khian&#8722;Hooi Chew, Junke Jiang, Tiem Leong Yoon, Duu Sheng Ong, Boon Tong Goh, Langmuir. None(None)] 2024. https://openalex.org/W4391657118
-
-                The search for high-performance catalysts to improve the catalytic activity for an oxygen reduction reaction (ORR) is crucial for developing a proton exchange membrane fuel cell. Using the first-principles method, we have performed computational screening on a series of transition metal (TM) atoms embedded in monolayer Nb2S2C to enhance the ORR activity. Through the scaling relationship and volcano plot, our results reveal that the introduction of a single Ni or Rh atom through substitutional doping into monolayer Nb2S2C yields promising ORR catalysts with low overpotentials of 0.52 and 0.42 V, respectively. These doped atoms remain intact on the monolayer Nb2S2C even at elevated temperatures. Importantly, the catalytic activity of the Nb2S2C doped with a TM atom can be effectively correlated with an intrinsic descriptor, which can be computed based on the number of d orbital electrons and the electronegativity of TM and O atoms.</description>
-      <author>Keat Hoe Yeoh, Yee Hui Robin Chang, Khian&#8722;Hooi Chew, Junke Jiang, Tiem Leong Yoon, Duu Sheng Ong, Boon Tong Goh</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.3c03188</guid>
-    </item>
-    <item>
-      <title>Hierarchical boroncarbonitride nanosheets as metal-free catalysts for enhanced oxidative dehydrogenation of propane</title>
-      <link>https://doi.org/10.1016/j.ces.2024.119848</link>
-      <description>Guangming Wang, Anming Hu, Qiwei Duan, Longji Cui, Ziyi Chen, Zelong Huang, Xuefei Zhang, Shuping Huang, Zailai Xie, Chemical Engineering Science. 288(None)] 2024. https://openalex.org/W4391667305
-
-                Boroncarbonitrides (BCNs) are recently developed new catalytic system for efficient oxidative dehydrogenation (ODH) of alkanes to alkenes. Herein, a series of novel hierarchical BCN materials are synthesized using asymmetric hydrogen bonds self-assembly between methylguanidine and boric acid, along with ammonia deposition. The XRD, S(T)EM, and XPS characterizations confirm the presence of ternary BCN solid solution covered by small serrated-like BCN nanosheets materials in the 2D plates. The unique hierarchical structure and developed mesoporosity of the BCN material contribute to its outstanding catalytic performance. The optimal catalyst delivers robust catalytic performance and long-term stability in the ODH of propane reaction with propylene and total olefin selectivity of 74.7% and 89.7% at a stable 20.4% propane conversion, much better than BCN sheets and h-BN catalyst. Results show that the in-situ formation of suitable amounts of amorphous BOX species within the BCN structure, along with the maintenance of the 2D skeleton at elevated temperatures, is a significant contribution in the enhanced ODH reactivity. Moreover, density functional theory calculation also demonstrates that the presence appropriate carbon content in BCN catalysts can significantly promote the ODH of propane reaction.</description>
-      <author>Guangming Wang, Anming Hu, Qiwei Duan, Longji Cui, Ziyi Chen, Zelong Huang, Xuefei Zhang, Shuping Huang, Zailai Xie</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119848</guid>
-    </item>
     <item>
       <title>Ultrastable electrocatalytic seawater splitting at ampere-level current density</title>
       <link>https://doi.org/10.1038/s41893-023-01263-w</link>
@@ -256,6 +166,96 @@
       <author>Hongyan Xu, Zhanhong Ma, Zhongmin Wan, Zhongfu An, Xiaoguang Wang</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.027</guid>
+    </item>
+    <item>
+      <title>Tackling the activity and selectivity challenges of electrocatalysts towards CO2 reduction reaction via atomically dispersed dual atom catalysts</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159687</link>
+      <description>Xiaoqing Lu, Chunyu Yang, Shoufu Cao, Hongyu Chen, Jiao Li, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391733008
+
+                Atomically dispersed catalysts are widely employed in electrochemical CO2 reduction reaction (CO2RR) owing to maximal atomic utilization and outstanding intrinsic activity. Dual atom catalysts (DACs) can provide dispersed active sites and distinct electronic structure, which is conducive to the catalytic performance. In this work, we explored a series of DACs composed of transition metals or main group metals supported on nitrogen-doped graphene (M2&#8211;NC) toward high-performance CO2RR. The radius of metal atom is a key factor determining the stability of M2&#8211;NC, that metals (M = Fe, Co, Ni, Cu, Zn, Ru, Rh, Pd, Ag, Sn, Pt, and Bi) with small radius can be steadily anchored. Fe2/Co2/Ru2&#8211;NC are screened out to activate CO2 because of the strong interaction between metals d orbitals and CO2 2&#960; orbitals. The results show that Fe2/Co2&#8211;NC can promote CO2RR to generate HCOOH with limiting potentials (UL) of &#8722;0.36 and &#8722;0.25 V. Ru2&#8211;NC can catalyze the generation of CH3OH and CH4 with UL of &#8722;0.28 V. Limited potential difference between CO2RR and hydrogen evolution reaction (HER) show that Fe2/Co2/Ru2&#8211;NC can inhibit HER during CO2RR. This work demonstrates Fe2/Co2/Ru2&#8211;NC as high-performance CO2RR catalysts and highlights the type of central metal atoms as a vital role for atomically dispersed electrocatalysts.</description>
+      <author>Xiaoqing Lu, Chunyu Yang, Shoufu Cao, Hongyu Chen, Jiao Li, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159687</guid>
+    </item>
+    <item>
+      <title>Highly efficient Ru-based Heusler alloys for nitrogen reduction reaction: Breaking scaling relations and regulating potential determining steps</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159686</link>
+      <description>Xiayong Chen, Jing Zhou, Wangyu Hu, Bowen Huang, Dingwang Yuan, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391733718
+
+                In this study, we investigated the catalytic activity of Ru-based Heusler alloys towards the nitrogen reduction reaction (NRR) using first-principles calculations. Compared to pure Ru metal, these alloys exhibit a significant reduction in the overpotential, showcasing enhanced catalytic performance. The most promising candidate, the Ru2ScP alloy, demonstrates an impressively low overpotential of only &#8722;0.40 V for the NRR, and it also exhibits higher selectivity towards NRR over the hydrogen evolution reaction (HER). Furthermore, we found that several key adsorbates on the surface of the candidate alloys simultaneously exhibit non-linear scaling relationships of adsorption free energies. This allows for individual control over the barrier of potential determining steps (PDS) in the NRR process by overcoming the limitation of the scaling relations in pure metals. This study offers valuable guidance for the design of Ru-based Heusler alloys to obtain improved catalytic performance for the NRR.</description>
+      <author>Xiayong Chen, Jing Zhou, Wangyu Hu, Bowen Huang, Dingwang Yuan</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159686</guid>
+    </item>
+    <item>
+      <title>Surface Strain Effect on Electrocatalytic Hydrogen Evolution Reaction of Pt-Based Intermetallics</title>
+      <link>https://doi.org/10.1021/acscatal.3c06291</link>
+      <description>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391738668
+
+                Elucidating the relationship between electrocatalytic activity and surface strain is pivotal for designing highly efficient electrocatalysts for the acidic hydrogen evolution reaction (HER). However, a general correlation is currently absent due to the lack of ideal catalytic materials platforms with well-defined structures and components. Herein, we select L10 and L12 Pt-based intermetallic compounds as model materials to construct a series of core&#8211;shell catalysts with strained Pt skins (IMC@Pt) and establish the correlation between surface strain and HER performance. Density functional theory calculations were performed to determine the surface strain degree, d-band center, and key descriptor &#916;GH* of the catalysts for HER. By combining theoretical and experimental data, we propose a volcano-type trend between surface strain and the HER activity of IMC@Pt with an apex at 4% compressive strain. In addition, we demonstrate a class of highly active and durable IMC@Pt catalysts for acidic HER. Among them, the Pt3V@Pt catalyst exhibits the highest intrinsic HER activity with a specific activity of 4.24 mA cmPt&#8211;2 at an overpotential of 20 mV, which is 4 times higher than that of Pt. This work provides a solid understanding of the essential nature of PtM alloy catalysts and can guide the design of high-performance HER catalysts for water electrolyzers.</description>
+      <author>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui</author>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06291</guid>
+    </item>
+    <item>
+      <title>Surface Electronic Properties-Driven Electrocatalytic Nitrogen Reduction on Metal-Conjugated Porphyrin 2D-MOFs</title>
+      <link>https://doi.org/10.1021/acsami.3c16406</link>
+      <description>Ashakiran Maibam, Ibrahim Orhan, Sa&#239;laja Krishnamurty, Salvy P. Russo, Ravichandar Babarao, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4391742646
+
+                Two-dimensional (2D) metal organic framework (MOF) or metalloporphyrin nanosheets with a stable metal-N4 complex unit present the metal as a single-atom catalyst dispersed in the 2D porphyrin framework. First-principles calculations on the 3d-transition metals in M-TCPP are investigated in this study for their surface-dependent electronic properties including work function and d-band center. Crystal orbital Hamiltonian population (-pCOHP) analysis highlights a higher contribution of the bonding state in the M&#8211;N bond and antibonding state in the N&#8211;N bond to be essential for N&#8211;N bond activation. A linear relationship between &#916;Gmax and surface electronic properties, N&#8211;N bond strength, and Bader charge has been found to influence the rate-determining potential for nitrogen reduction reaction (NRR) in M-TCPP MOFs. 2D Ti-TCPP MOF, with a kinetic energy barrier of 1.43 eV in the final protonation step of enzymatic NRR, shows exclusive NRR selectivity over competing hydrogen reduction (HER) and nitrogenous compounds (NO and NO2). Thus, Ti-TCPP MOF with an NRR limiting potential of &#8722;0.35 V in water solvent is proposed as an attractive candidate for electrocatalytic NRR.</description>
+      <author>Ashakiran Maibam, Ibrahim Orhan, Sa&#239;laja Krishnamurty, Salvy P. Russo, Ravichandar Babarao</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c16406</guid>
+    </item>
+    <item>
+      <title>Integration of theory prediction and experimental electrooxidation of glycerol on NiCo2O4 nanosheets</title>
+      <link>https://doi.org/10.1016/s1872-2067(23)64585-1</link>
+      <description>Yuanyuan Duan, Mifeng Xue, Yizhi Liu, Man Zhang, Yuchen Wang, Baojun Wang, Riguang Zhang, Kai Yan, Chinese Journal of Catalysis. 57(None)] 2024. https://openalex.org/W4391743253
+
+                Electrocatalytic refinery of low-value biomass-based glycerol into value-added chemicals formic acid (FA) is an attractive alternative to traditional thermochemical refineries. However, constructing non-precious catalysts with abundant active hydroxyl (OH*) is the main obstacle to the electrocatalytic glycerol oxidation reaction (EGOR). Herein, we combine density functional theory (DFT) and experiments to investigate EGOR over the finely constructed NiCo2O4 nanosheets. DFT results firstly indicate that the NiCo2O4 nanosheets exhibit the highly hydroxylated (311)-OH* surface with the lowest Gibbs free energy, which significantly improves the electrochemical reaction kinetics and can achieve desirable FA yield by adjusting the adsorption energy of the adsorption intermediate. Following the theoretical prediction, ultrathin NiCo2O4 nanosheets (~1.70 nm) are fabricated by a facile electrodeposition method with sufficient OH* on the surface. The charge-transfer resistance of NiCo2O4 nanosheets in EGOR is only 0.94 &#937; and the anode power consumption can be reduced by up to 320 mV at 10 mA cm&#8722;2, keeping the high glycerol conversion (89%) and FA selectivity (70%) during the 120-h stability test. DFT calculations and experimental tools (e.g., multi-potential step experiments, operational electrochemical impedance spectroscopy) confirm that OH* in-situ generated on the thin nanosheets structure is essential in facilitating charge transfer between catalysts and adsorbed molecules to enhance C&#8211;C bond cleavage. This work offers a guideline for the rational design of robust catalysts for the selective upgrading of biomass-derived chemicals.</description>
+      <author>Yuanyuan Duan, Mifeng Xue, Yizhi Liu, Man Zhang, Yuchen Wang, Baojun Wang, Riguang Zhang, Kai Yan</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(23)64585-1</guid>
+    </item>
+    <item>
+      <title>Key Role of Cations in Stabilizing Hydrogen Radicals for CO&lt;sub&gt;2&lt;/sub&gt;-to-CO Conversion via a Reverse Water-Gas Shift Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00005</link>
+      <description>Ruijuan Zhao, Lei Li, Qianbao Wu, Qing Li, Chunhua Cui, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391755712
+
+                Electrochemically converting CO2 into valuable chemicals and fuels in acidic media is argued as a promising energy- and carbon-efficient route. Although several key roles of alkali cations have been unveiled, the alkali cation trends for CO2 reduction remain largely elusive. With decreasing cation size from Cs+ to Li+, here we show that the apparent proton diffusion coefficient in 3.0 M Li+ is tens-fold lower than in 3.0 M K+ and 3.0 M Cs+ acidic electrolytes. Although Li+ has the strongest inhibition ability for proton transport, it acts the worst for both the CO2-to-CO conversion and partial current density on Au catalysts. Unexpectedly, K+ with a higher proton transport performs the best for CO2-to-CO conversion. We thus revisit the roles of alkali cations and find that hydrated K+ can stabilize hydrogen radicals benefiting CO2 conversion at the electrode interface while for Li+ this is not the case. This study proposes that cation-stabilized atomic hydrogen assists in activating CO2 via a reverse water-gas shift route under electrochemical conditions.</description>
+      <author>Ruijuan Zhao, Lei Li, Qianbao Wu, Qing Li, Chunhua Cui</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00005</guid>
+    </item>
+    <item>
+      <title>Machine Learning Assisted Analysis and Prediction of Rubber Formulation Using Existing Databases</title>
+      <link>https://doi.org/10.1016/j.aichem.2024.100054</link>
+      <description>Wei Deng, Yuhui Zhao, Yinggan Zheng, Yilong Yin, Hongwei Yan, Lijun Liu, Dapeng Wang, Artificial Intelligence Chemistry. None(None)] 2024. https://openalex.org/W4391755935
+
+                Designing rubber formulations can greatly benefit from using a database that stores the formulations and corresponding property data of rubber composites. Such a database can expedite the decision-making process by swiftly identifying the most suitable formulations for specific applications. However, the management of a rubber formulation database encounters various issues, including missing formulation and property data, as well as data entry errors. These issues can impede the decision-making processes and even result in incorrect decisions being made. In this study, machine learning (ML) algorithms were applied to analyze rubber formulation databases. Our findings highlight the success of the ML algorithm in effectively filling in missing data and identifying erroneous data. Furthermore, it demonstrates the accurate prediction of properties for untested formulations within the pre-determined database space. The results underline the outstanding performance of ML algorithms in expediting the rubber formulation design process and emphasize their immense potential to play a prominent role in the advancement of rubber composites.</description>
+      <author>Wei Deng, Yuhui Zhao, Yinggan Zheng, Yilong Yin, Hongwei Yan, Lijun Liu, Dapeng Wang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.aichem.2024.100054</guid>
+    </item>
+    <item>
+      <title>Understanding the modulation mechanism of B-site doping on the thermochemical properties of CaMnO&lt;sub&gt;3&#8722;&lt;i&gt;&#948;&lt;/i&gt;&lt;/sub&gt;: an experimental and computational study</title>
+      <link>https://doi.org/10.1039/d3ta04632j</link>
+      <description>Zeyu Ning, S. L. Gan, Haoran Xu, C.D. Gu, Peixi Zhu, Jinsong Zhou, Gang Xiao, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4391758420
+
+                Cr and Fe doping disrupts the electronegativity and bond energy balance of CaMnO 3 , creating different active sites and enhancing the reactivity. Bond energy calculations allow the prediction of reaction temperature and reaction enthalpy.</description>
+      <author>Zeyu Ning, S. L. Gan, Haoran Xu, C.D. Gu, Peixi Zhu, Jinsong Zhou, Gang Xiao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta04632j</guid>
+    </item>
+    <item>
+      <title>Computational chemistry for water-splitting electrocatalysis</title>
+      <link>https://doi.org/10.1039/d2cs01068b</link>
+      <description>Licheng Miao, Wenzhao Jia, Xuejie Cao, Lifang Jiao, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4391758505
+
+                This review presents the basics of electrochemical water electrolysis, discusses the progress in computational methods, models, and descriptors, and evaluates the remaining challenges in this field.</description>
+      <author>Licheng Miao, Wenzhao Jia, Xuejie Cao, Lifang Jiao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d2cs01068b</guid>
     </item>
   </channel>
 </rss>

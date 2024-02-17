@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 16 Feb 2024 00:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 00:43:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selecting between Ammonia and Water Oxidation: Electrochemical Oxidation of Ammonia in Water Using an Organometallic&#8211;Inorganic Hybrid Anode</title>
-      <link>https://doi.org/10.1021/acscatal.3c05899</link>
-      <description>Han-Yu Liu, Josephine A. Jayworth, Robert H. Crabtree, Gary W. Brudvig, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391637546
-
-                Electrocatalytic ammonia oxidation (AO) under ambient conditions in an aqueous solvent enables an ecofriendly production of nitrite and nitrate. Conventional formation of nitrite and nitrate by AO on noble metals often yields undesired dinitrogen and leads to detrimental nitride surface poisoning. We now find that our previously reported &#8220;Blue Layer&#8221; (BL), an organometallic&#8211;inorganic hybrid anode based on [IrO2]x nanoclusters (x &#8764; 5), is active for selective AO in aqueous solution. Through adjustment of both pH and applied potential (Eapp), we identified optimal operating conditions (pH 8.0, 1.00 V) for AO, where BL achieves optimum selectivity toward nitrate (90.5%), effectively minimizing competitive water oxidation while maintaining activity against ammonia-induced degradation of the electrode.</description>
-      <author>Han-Yu Liu, Josephine A. Jayworth, Robert H. Crabtree, Gary W. Brudvig</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05899</guid>
-    </item>
-    <item>
-      <title>Unveiling the Structure&#8211;Property Relationship of MgO-Supported Ni Ammonia Decomposition Catalysts from Bulk to Atomic Structure by In Situ/Operando Studies</title>
-      <link>https://doi.org/10.1021/acscatal.3c05629</link>
-      <description>T. H. Ulucan, Jihao Wang, E Onur, Shilong Chen, Malte Behrens, Claudia Weidenthaler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391642373
-
-                Ammonia is currently being studied intensively as a hydrogen carrier in the context of the energy transition. The endothermic decomposition reaction requires the use of suitable catalysts. In this study, transition metal Ni on MgO as a support is investigated with respect to its catalytic properties. The synthesis method and the type of activation process contribute significantly to the catalytic properties. Both methods, coprecipitation (CP) and wet impregnation (WI), lead to the formation of Mg1&#8211;xNixO solid solutions as catalyst precursors. X-ray absorption studies reveal that CP leads to a more homogeneous distribution of Ni2+ cations in the solid solution, which is advantageous for a homogeneous distribution of active Ni catalysts on the MgO support. Activation in hydrogen at 900 &#176;C reduces nickel, which migrates to the support surface and forms metal nanoparticles between 6 nm (CP) and 9 nm (WI), as shown by ex situ STEM. Due to the homogeneously distributed Ni2+ cations in the solid solution structure, CP samples are more difficult to activate and require harsher conditions to reduce the Ni. The combination of in situ X-ray diffraction (XRD) and operando total scattering experiments allows a structure&#8211;property investigation of the bulk down to the atomic level during the catalytic reaction. Activation in H2 at 900 &#176;C for 2 h leads to the formation of large Ni particles (20&#8211;30 nm) for the samples synthesized by the WI method, whereas Ni stays significantly smaller for the CP samples (10&#8211;20 nm). Sintering has a negative influence on the catalytic conversion of the WI samples, which is significantly lower compared to the conversion observed for the CP samples. Interestingly, metallic Ni redisperses during cooling and becomes invisible for conventional XRD but can still be detected by total scattering methods. The conditions of activation in NH3 at 650 &#176;C are not suitable to form enough reduced Ni nanoparticles from the solid solution and are, therefore, not a suitable activation procedure. The activity steadily increases in the samples activated at 650 &#176;C in NH3 (Group 1) compared to the samples activated at 650 &#176;C in H2 and then reaches the best activity in the samples activated at 900 &#176;C in H2. Only the combination of complementary in situ and ex situ characterization methods provides enough information to identify important structure&#8211;property relationships among these promising ammonia decomposition catalysts.</description>
-      <author>T. H. Ulucan, Jihao Wang, E Onur, Shilong Chen, Malte Behrens, Claudia Weidenthaler</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05629</guid>
-    </item>
-    <item>
-      <title>Stereoselective &lt;i&gt;gem&lt;/i&gt;-Difunctionalization of Diazo Compounds with Vinyl Sulfoxonium Ylides and Thiols via Metalloradical Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c06098</link>
-      <description>Srashti Bhardwaj, Dinesh Kumar Gopalakrishnan, Shalu Deshwal, Raju Sen, Vikas Tiwari, Tarak Karmakar, Janakiram Vaitla, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391653535
-
-                Multicomponent reactions that involve carbenes with nucleophiles and electrophiles have demonstrated broad applications in synthetic chemistry. However, because of the high reactivity of transient carbenes, reactions involving two carbene precursors with the nucleophile in the presence of a metal catalyst remain unexplored. Herein, a three-component stereoselective gem-difunctionalization of diazo compounds with thiols and vinyl sulfoxonium ylide is disclosed via Co(II)-based metalloradical catalysis. The key aspect of the present strategy is to exploit the intrinsic difference in the reactivity of vinyl sulfoxonium ylides and diazo compounds with thiol and metal catalysts. The present Doyle&#8211;Kirmse rearrangement of a sulfonium ylide involves a convergent assembly of two in situ-generated intermediates, such as allyl sulfide and &#945;- metalloalkyl radical complex, to provide expeditious access to tertiary sulfide scaffolds. Combined experimental and quantum chemical calculations unveil the intricate mechanism of this three-component reaction. Furthermore, theoretical studies on noncovalent interactions of selectivity-determining transition states explain the origin of the experimentally obtained diastereoselectivity.</description>
-      <author>Srashti Bhardwaj, Dinesh Kumar Gopalakrishnan, Shalu Deshwal, Raju Sen, Vikas Tiwari, Tarak Karmakar, Janakiram Vaitla</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06098</guid>
-    </item>
-    <item>
-      <title>Amorphous Cu&#8211;W Alloys as Stable and Efficient Electrocatalysts for Hydrogen Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.3c05820</link>
-      <description>Xiying Jian, Wenbiao Zhang, Yaxiong Yang, Zhenglong Li, Hongge Pan, Qingsheng Gao, Huaijun Lin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391656368
-
-                Cu and W are completely immiscible in equilibrium conditions, and neither of them is a good catalytic element for the electrochemical hydrogen evolution reaction (HER) due to their hydrogen adsorption Gibbs free energy (&#916;GH) being too positive or negative, respectively. However, the combination of Cu with W could potentially result in a moderate &#916;GH. In this study, a series of binary amorphous Cu&#8211;W alloys are fabricated via a magnetron sputtering method. The optimal HER catalytic performance is demonstrated when the nominal component is Cu50W50, showing an overpotential of only 65 mV at 10 mA cm&#8211;2 in 1 M KOH. Accordingly, density functional theory calculations show that the amorphous Cu50W50 alloy has a close-to-zero &#916;GH compared to the pure Cu and W metals, accounting for its HER activity. In addition, the amorphous Cu50W50 alloy shows no obvious degradation at 100 mA cm&#8211;2 for 200 h, highlighting its long-term durability. This work provides a versatile strategy for the preparation of amorphous alloys with completely immiscible components and insights into the compositional design of nonprecious metal electrocatalysts for widespread applications.</description>
-      <author>Xiying Jian, Wenbiao Zhang, Yaxiong Yang, Zhenglong Li, Hongge Pan, Qingsheng Gao, Huaijun Lin</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05820</guid>
-    </item>
     <item>
       <title>Toward High CO Selectivity and Oxidation Resistance Solid Oxide Electrolysis Cell with High-Entropy Alloy</title>
       <link>https://doi.org/10.1021/acscatal.3c05972</link>
@@ -122,7 +82,7 @@
       <link>https://doi.org/10.1021/acscatal.3c05918</link>
       <description>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391745873
 
-                No abstract</description>
+                Terpenoids are an intriguing class of natural products with diverse structures and biological activities whose complexity stems in large part from terpene synthases (TPSs). These enzymes catalyze carbocationic cascade reactions wherein the groups responsible for quenching the final carbocation are generally not well-known. IrKSL3a and IrTPS2 from Isodon rubescens share 98% sequence homology but use distinct quenching strategies, with IrKSL3a catalyzing direct deprotonation to generate the olefin isopimaradiene while IrTPS2 adds water to yield the hydroxylated nezukol. In this work, we discovered a threonine and serine that hydrogen-bond the water to be added in IrTPS2. Site-directed mutagenesis and multiscale QM/MM simulations of modeled structures further reveal that the binding of this water is blocked by the introduction of a &#946;-methyl-containing side chain in a neighboring residue. From these insights, it was then possible to engineer IrKSL3a to generate nezukol, with other new hydroxylated products also observed. Inspired by these mechanistic insights into the functional plasticity of IrKSL3a and IrTPS2, we explored the plausible evolutionary relationship of these kaurene synthase-like (KSL) TPSs, as well as prospective utilization of these plasticity sites discovered in IrTPS2/IrKSL3a. Such experiments with a variety of more phylogenetically distant KSLs demonstrated that these residues are necessary but not sufficient to efficiently introduce such an addition of water, emphasizing the selective pressure underlying the extended evolutionary process for the production of nezukol by IrTPS2.</description>
       <author>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang</author>
       <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05918</guid>
@@ -256,6 +216,46 @@
       <author>Da Yue, Tanglue Feng, Zhicheng Zhu, Siyu Lu, Bai Yang</author>
       <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05901</guid>
+    </item>
+    <item>
+      <title>Peroxygenase-Catalyzed Allylic Oxidation Unlocks Telescoped Synthesis of (1&lt;i&gt;S&lt;/i&gt;,3&lt;i&gt;R&lt;/i&gt;)-3-Hydroxycyclohexanecarbonitrile</title>
+      <link>https://doi.org/10.1021/acscatal.4c00177</link>
+      <description>Christian M. Heckmann, Moritz B&#252;rgler, Caroline E. Paul, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391785338
+
+                The unmatched chemo-, regio-, and stereoselectivity of enzymes renders them powerful catalysts in the synthesis of chiral active pharmaceutical ingredients (APIs). Inspired by the discovery route toward the LPA1-antagonist BMS-986278, access to the API building block (1S,3R)-3-hydroxycyclohexanecarbonitrile was envisaged using an ene reductase (ER) and alcohol dehydrogenase (ADH) to set both stereocenters. Starting from the commercially available cyclohexene-1-nitrile, a C&#8211;H oxyfunctionalization step was required to introduce the ketone functional group, yet several chemical allylic oxidation strategies proved unsuccessful. Enzymatic strategies for allylic oxidation are underdeveloped, with few examples on selected substrates with cytochrome P450s and unspecific peroxygenases (UPOs). In this case, UPOs were found to catalyze the desired allylic oxidation with high chemo- and regioselectivity, at substrate loadings of up to 200 mM, without the addition of organic cosolvents, thus enabling the subsequent ER and ADH steps in a three-step one-pot cascade. UPOs even displayed unreported enantioselective oxyfunctionalization and overoxidation of the substituted cyclohexene. After screening of enzyme panels, the final product was obtained at titers of 85% with 97% ee and 99% de, with a substrate loading of 50 mM, the ER being the limiting step. This synthetic approach provides the first example of a three-step, one-pot UPO-ER-ADH cascade and highlights the potential for UPOs to catalyze diverse enantioselective allylic hydroxylations and oxidations that are otherwise difficult to achieve.</description>
+      <author>Christian M. Heckmann, Moritz B&#252;rgler, Caroline E. Paul</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00177</guid>
+    </item>
+    <item>
+      <title>Computational Discovery of Codoped Single-Atom Catalysts for Methane-to-Methanol Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.3c05506</link>
+      <description>Haojun Jia, Chenru Duan, Ilia Kevlishvili, Aditya Nandy, Mingjie Liu, Heather J. Kulik, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391785393
+
+                The absence of a synthetic catalyst that can selectively oxidize methane to methanol motivates extensive study of single-site catalysts that possess a high degree of tunability in their coordination environments and share similarities with natural enzymes that can catalyze this reaction. Single-atom catalysts (SACs), in particular doped graphitic SACs, have emerged as a promising family of materials due to their high atom economy and scalability, but SACs are yet to be exhaustively screened for methane-to-methanol conversion. Modulating the coordination environment near single metal sites by means of codopants, we carry out a large-scale high-throughput virtual screen of 2048 transition metal (i.e., Mn, Fe, Co, and Ru) SACs codoped with various elements (i.e., N, O, P, and S) in numerous spin and oxidation (i.e., M(II)/M(III)) states for the challenging conversion of methane to methanol. We identify that the ground-state preference is metal- and oxidation-state-dependent. We observe a weak negative correlation between the oxo formation energy (&#916;E(oxo)) and the energy of hydrogen atom transfer (&#916;E(HAT)), thanks to the high variability in the coordination environment. Therefore, codoped SACs demonstrate flexible tunability that disrupts linear free energy relationships in a manner similar to that of homogeneous catalysts without losing the scalability of heterogeneous catalysts. We identify energetically favorable catalyst candidates along the Pareto frontier of &#916;E(oxo) and &#916;E(HAT). Further kinetic analysis reveals an intermediate-spin Fe(II) SAC and a low-spin Ru(II) SAC as promising candidates that merit further experimental exploration.</description>
+      <author>Haojun Jia, Chenru Duan, Ilia Kevlishvili, Aditya Nandy, Mingjie Liu, Heather J. Kulik</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05506</guid>
+    </item>
+    <item>
+      <title>Carbon Materials Containing Single-Atom Co&#8211;N&lt;sub&gt;4&lt;/sub&gt; Sites Enable Near-Infrared Photooxidation</title>
+      <link>https://doi.org/10.1021/acscatal.3c05441</link>
+      <description>Longjian Li, Junhui Wang, Qinhua Zhang, Shuai Wang, Hangkai Zhang, Tao Xing, Mingqing Wang, Mingbo Wu, Zhenxing Wang, Wenting Wu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391786312
+
+                Near-infrared light occupies 54.3% of the solar spectrum and has greater penetration depth, and its effective utilization is of great significance in the practical application of photocatalysis on a larger scale. However, the development of catalysts that can directly utilize near-infrared light is still a huge challenge. This paper proposes a strategy to directly utilize near-infrared light (excitation wavelength extending to 850 nm) by creating carbon material doped with a high-spin-state Co(II)-Nx single-atom site. In the near-infrared-light-irradiated photooxidation of 1,5-dihydroxynaphthalene, the yield of juglone can reach 45% without a significant decrease, even when the catalytic volume is increased by 20 times, which was much higher than that irradiated by 460 nm wavelength (reduced by about 23%). Our study sets the stage for fabricating stable NIR photocatalysts and provides a solution to directly enhance NIR photooxidation in a large-scale manner.</description>
+      <author>Longjian Li, Junhui Wang, Qinhua Zhang, Shuai Wang, Hangkai Zhang, Tao Xing, Mingqing Wang, Mingbo Wu, Zhenxing Wang, Wenting Wu</author>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05441</guid>
+    </item>
+    <item>
+      <title>A Water-Promoted Mars&#8722;van Krevelen Reaction Dominates Low-Temperature CO Oxidation over Au-Fe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; but Not over Au-TiO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.3c05978</link>
+      <description>Alexander Holm, Bernadette Davies, Sara Boscolo Bibi, F&#233;lix Moncada, Joakim Halldin-Stenlid, Laurynas Pa&#353;kevi&#269;ius, Vincent Claman, Adam Slabon, Cheuk&#8208;Wai Tai, Egon Campos dos Santos, Sergey Koroidov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391806007
+
+                No abstract</description>
+      <author>Alexander Holm, Bernadette Davies, Sara Boscolo Bibi, F&#233;lix Moncada, Joakim Halldin-Stenlid, Laurynas Pa&#353;kevi&#269;ius, Vincent Claman, Adam Slabon, Cheuk&#8208;Wai Tai, Egon Campos dos Santos, Sergey Koroidov</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05978</guid>
     </item>
   </channel>
 </rss>
