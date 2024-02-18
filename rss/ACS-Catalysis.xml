@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Feb 2024 00:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:47:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Toward High CO Selectivity and Oxidation Resistance Solid Oxide Electrolysis Cell with High-Entropy Alloy</title>
-      <link>https://doi.org/10.1021/acscatal.3c05972</link>
-      <description>Jun Tang, Na Ni, Baowen Zhou, Chen Yang, Kolan Madhav Reddy, Heng Tu, Yu-Si Liu, Zhe Tan, Longkai Xiang, Haozhen Li, Xing Zhang, Yunyi Zhang, Yixin Li, Hanchao Zhang, Lei Zhu, Zhen Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391679800
-
-                Ni-based cermet materials still persist as pronounced challenges for electrocatalysts in solid oxide electrolysis cells (SOECs), due to their insufficient CO2 catalytic efficiency and inferior resistance to oxidation. In this paper, a (Fe,Co,Ni,Cu,Mo) quinary high-entropy alloy is explored as an alternative cathode material, offering enhanced performance in the co-electrolysis of H2O and CO2 for renewable syngas production. In comparison to traditional nickel-based cathodes, an assembled SOEC employing the as-designed quinary high-entropy alloy exhibits a remarkable increase in CO2 conversion capacity and significantly enhanced oxidation resistance. In addition, the electrolysis current density increases by 18%, and a stability test for more than 110 h reveals no degradation. Moreover, the stability can be maintained for up to 40 h even without any protective gas. Morphological and spectroscopic analyses, coupled with density functional theory (DFT) calculations, elucidate that the high-entropy effect facilitates surface electron redistribution, which in turn contributes to the measurable activity by reducing the energy barrier of CO2 activation. Notably, the superior resistance to oxidation primarily originates from the in situ-formed spinel phase under oxidation conditions. This study demonstrates the satisfying performance of high-entropy alloys as cathode materials in SOEC, validating their high application potential in this field.</description>
-      <author>Jun Tang, Na Ni, Baowen Zhou, Chen Yang, Kolan Madhav Reddy, Heng Tu, Yu-Si Liu, Zhe Tan, Longkai Xiang, Haozhen Li, Xing Zhang, Yunyi Zhang, Yixin Li, Hanchao Zhang, Lei Zhu, Zhen Huang</author>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05972</guid>
-    </item>
-    <item>
-      <title>Dehydrogenation and Transfer Hydrogenation of Alkenones to Phenols and Ketones on Carbon-Supported Noble Metals</title>
-      <link>https://doi.org/10.1021/acscatal.3c04849</link>
-      <description>Katja Li, H. Ray Kelly, Jos&#233; Armando L. da Silva, V&#237;ctor S. Batista, Eszter Bar&#225;th, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391681918
-
-                The catalytic dehydrogenation of substituted alkenones on noble metal catalysts supported on carbon (Pt/C, Pd/C, Rh/C, and Ru/C) was investigated in an organic phase under inert conditions. The dehydrogenation and semihydrogenation of the enone starting materials resulted in aromatic compounds (primary products), saturated cyclic ketones (secondary products), and cyclic alcohols (minor products). Pd/C exhibits the highest catalytic activity, followed by Pt/C and Rh/C. Aromatic compounds remain the primary products, even in the presence of hydrogen donors. Joint experimental and theoretical analyses showed that the four catalytic materials stabilize a common dienol intermediate on the metal surfaces, formed by keto&#8211;enol tautomerization. This intermediate subsequently forms aromatic products upon dehydrogenation. The binding orientation of the enone reactants on the catalytic surface is strongly metal-dependent, as the M&#8211;O bond distance changes substantially according to the metal. The longer M&#8211;O bonds (Pt: 2.84 &#197; &gt; Pd: 2.23 &#197; &gt; Rh: 2.17 &#197; &gt; Ru: 2.07 &#197;) correlate with faster reaction rates and more favorable keto&#8211;enol tautomerization, as shorter distances correspond to a more stabilized starting material. Tautomerization is shown to occur via a stepwise surface-assisted pathway. Overall, each of the studied metals exhibits a distinct balance of enthalpy and entropy of activation (&#916;H&#176;&#8225;, &#916;S&#176;&#8225;), offering unique possibilities in the realm of enone dehydrogenation reactions that can be achieved by suitable selection of catalytic materials.</description>
-      <author>Katja Li, H. Ray Kelly, Jos&#233; Armando L. da Silva, V&#237;ctor S. Batista, Eszter Bar&#225;th</author>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04849</guid>
-    </item>
-    <item>
-      <title>Unveiling the Dynamic Evolution of Single-Atom Co Sites in Covalent Triazine Frameworks for Enhanced H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthesis</title>
-      <link>https://doi.org/10.1021/acscatal.3c04439</link>
-      <description>Chao Zhu, Yanchi Yao, Qile Fang, Lingxiangyu Li, Baoliang Chen, Yi Shen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391685024
-
-                Unraveling the structural evolution and mechanism of active sites in single-atom catalysts (SACs) during H2O2 production under operational conditions remains challenging due to the transient and elusive nature of the underlying reaction processes. Herein, we employ operando X-ray absorption spectroscopy and ab initio molecular dynamics simulations to unveil the dynamic reconstruction behavior of the Co single atom-loaded covalent triazine framework (CoSA/Py-CTF) during photocatalytic H2O2 production. The unique Py-CTF substrate provides reasonable structural flexibility to the single atom Co site. Under light irradiation and O2 adsorption, single Co atoms are dynamically released from the Py-CTF substrate and then form transient atom-pairs with neighboring Co atoms, serving as the authentic active site. The dynamic shuttling of Co subnanometer domains between single-atoms and atom-pairs facilitates the transition of the O2 adsorption configurations from Pauling type to Yeager type, resulting in a record photocatalytic H2O2 yield (2898.3 &#956;mol&#183;h&#8211;1&#183;g&#8211;1). These findings provide insightful observations into the dynamic photochemical behavior of SACs and present an fresh paradigm for the design of intelligent &#8220;adaptive catalysts&#8221;.</description>
-      <author>Chao Zhu, Yanchi Yao, Qile Fang, Lingxiangyu Li, Baoliang Chen, Yi Shen</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04439</guid>
-    </item>
-    <item>
-      <title>Iridium-Catalyzed Tandem Dehydrogenation/Hydroarylation Approach to Synthetically Versatile C2-Alkenyl N&#8211;H Indoles</title>
-      <link>https://doi.org/10.1021/acscatal.3c05841</link>
-      <description>Carlos L&#225;zaro&#8208;Milla, Jos&#233; L. Mascare&#241;as, Fernando Fern&#225;ndez L&#243;pez, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391691736
-
-                Readily available N-carbamoyl indolines can be converted into highly valuable 2-alkenyl and 2-alkyl indoles in a one-pot reaction, through an autotandem catalytic cascade promoted by an iridium complex. The process entails a dehydrogenation reaction initiated by an iridium-promoted C(sp3)&#8211;H activation, the addition of the resulting indole to an alkyne -or alkene-partner, and a spontaneous loss of the carbamoyl directing group. Interestingly, the resulting C2-alkenyl indoles can participate in a variety of metal-catalyzed annulations initiated by C&#8211;H activation, including formal [4 + 1] and [4 + 2] cycloadditions, as well as cross-dehydrogenative cyclizations, thus enabling a divergent access to a collection of functionally rich nitrogen-containing heterocycles.</description>
-      <author>Carlos L&#225;zaro&#8208;Milla, Jos&#233; L. Mascare&#241;as, Fernando Fern&#225;ndez L&#243;pez</author>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05841</guid>
-    </item>
-    <item>
-      <title>Size-Dependent Structural Features of Subnanometer PtSn Catalysts Encapsulated in Zeolite for Alkane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00314</link>
-      <description>Xiao-Meng Dou, Wenying Li, Kun Zhang, Haiyun Hou, Zhe He, Chaofeng Zhu, D&#233;bora Motta Meira, Miguel L&#243;pez&#8208;Haro, Zhaoming Xia, Peng He, Hai Xiao, Lichen Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391692005
-
-                Identification of the most efficient configuration of subnanometer bimetallic clusters is of great importance for the rational design of bimetallic catalysts but remains challenging due to the difficulty to construct the appropriate model systems. Here, we have accommodated subnanometer Pt/Sn sites, spanning from metal single atoms to bimetallic clusters in the 10MR sinusoidal channels of pure-silica MFI-type zeolite, which are employed as model catalysts to identify the optimal configuration of subnanometer PtSn sites for catalyzing an alkane dehydrogenation reaction. According to the electron microscopy and spectroscopy characterization results, the structural configuration of the bimetallic PtSn species in MFI zeolite varies with the Pt loading, which influences their catalytic performances for the propane dehydrogenation reaction. Furthermore, theoretical calculations are performed to understand the structural features of various PtSn species and their catalytic behavior for propane dehydrogenation, providing insights into the structure&#8211;reactivity relationships of subnanometer PtSn catalysts confined in zeolite structures.</description>
-      <author>Xiao-Meng Dou, Wenying Li, Kun Zhang, Haiyun Hou, Zhe He, Chaofeng Zhu, D&#233;bora Motta Meira, Miguel L&#243;pez&#8208;Haro, Zhaoming Xia, Peng He, Hai Xiao, Lichen Liu</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00314</guid>
-    </item>
     <item>
       <title>A Remarkable Influence of La(III)/&lt;i&gt;N,N&lt;/i&gt;&#8242;-Dioxide Structure on Asymmetric Formal Substitution of 3-Bromo-3-substituted Oxindoles with TMSCN</title>
       <link>https://doi.org/10.1021/acscatal.3c06130</link>
@@ -256,6 +206,56 @@
       <author>Alexander Holm, Bernadette Davies, Sara Boscolo Bibi, F&#233;lix Moncada, Joakim Halldin-Stenlid, Laurynas Pa&#353;kevi&#269;ius, Vincent Claman, Adam Slabon, Cheuk&#8208;Wai Tai, Egon Campos dos Santos, Sergey Koroidov</author>
       <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05978</guid>
+    </item>
+    <item>
+      <title>Subnanometer Cu Clusters on Porous Ag Enhancing Ethanol Production in Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.3c03469</link>
+      <description>Jiwon Park, Chaehwa Jeong, Moony Na, Yusik Oh, Kug&#8208;Seung Lee, Yongsoo Yang, Hye Ryung Byon, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391806039
+
+                Controlling the electrochemical CO2 reduction process for multicarbon production is challenging. Ethanol is typically produced with lower selectivity compared to ethylene. In addition, ill-defined catalytic active sites and elusive mechanisms of C&#8211;C coupling further hinder the enhancement of ethanol generation. Here, we carefully regulated the quantity of the Cu atoms and deposited them onto a Ag inverse-opal structure (AgIOs) using the pulse-electrodeposition method. Subnanometer Cu clusters demonstrated a 2.5 times higher Faradaic efficiency for ethanol production compared to that for ethylene at &#8722;1.05 V vs RHE. Conversely, as the size of Cu increased to nanometers, ethylene became the dominant product. Excessive adsorption of CO on Cu clusters, which migrates from the Ag surface, is attributed to the improved ethanol production. Abundant Ag/Cu boundaries and adjacent spacing between Ag and Cu clusters may enhance the surface migration of CO. In contrast, the preferential site-selective CO adsorption on large Cu nanoparticles is associated with solution-mediated CO migration. Operando shell-isolated nanoparticle-enhanced Raman spectroscopy (SHINERS) revealed a high coverage of the CO on the Cu clusters. The initial intermediate *OCCOH by C&#8211;C coupling appeared for both Cu clusters and nanoparticles. However, Cu clusters accommodated more carbonaceous intermediates, highlighting the critical role of CO and intermediate coverages on Cu in ethanol production.</description>
+      <author>Jiwon Park, Chaehwa Jeong, Moony Na, Yusik Oh, Kug&#8208;Seung Lee, Yongsoo Yang, Hye Ryung Byon</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c03469</guid>
+    </item>
+    <item>
+      <title>Energy-Transfer-Enabled Radical Acylation Using Free Alkyl Boronic Acids through Photo and NHC Dual Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c06027</link>
+      <description>W.&#8211;B. Liu, Xiang Zhang, Lin Chen, Rong Zeng, Yu Tian, Ernest Ma, Yapeng Wang, Bin Zhang, Jun&#8208;Long Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391807503
+
+                No abstract</description>
+      <author>W.&#8211;B. Liu, Xiang Zhang, Lin Chen, Rong Zeng, Yu Tian, Ernest Ma, Yapeng Wang, Bin Zhang, Jun&#8208;Long Li</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06027</guid>
+    </item>
+    <item>
+      <title>New Mechanistic Insights into CO&lt;sub&gt;2&lt;/sub&gt;/CO Electroreduction to Acetate by Combining Computations and Experiments</title>
+      <link>https://doi.org/10.1021/acscatal.3c05825</link>
+      <description>Xiaowan Bai, Ming He, Yifei Xu, Bingjun Xu, Qi L&#252;, Jinlan Wang, Chongyi Ling, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391807606
+
+                No abstract</description>
+      <author>Xiaowan Bai, Ming He, Yifei Xu, Bingjun Xu, Qi L&#252;, Jinlan Wang, Chongyi Ling</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05825</guid>
+    </item>
+    <item>
+      <title>Beyond Hydrogen Storage: Metal Hydrides for Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c05696</link>
+      <description>Haoming Yu, Xingguo Li, Jianlong Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391812707
+
+                Metal hydrides (MHs) are featured for their reversible hydrogen absorption and desorption properties, which are conventionally used as hydrogen storage materials. MHs can also be used for catalysis, particularly for chemical reactions that involve hydrogen. This Review summarizes the historical and recent progress in the catalytic application of MHs. The focus topic is how the reversible hydrogen absorption and desorption properties of MHs enable their catalytic effect in hydrogen involving chemical reactions. We start with the basic properties of MHs, and their applications in hydrogen storage and related fields. The application of MHs in four important catalytic reactions: olefin hydrogenation, reversible hydrogen storage in liquid organic hydrogen carriers, CO2 hydrogenation, and NH3 synthesis are discussed. Finally, we compare MH-based catalysts with their analogues, including hydrogen spillover, oxyhydrides, mixed-anion hydrides, and electrides in catalysis. The Review demonstrates the inherent relationship between MH catalysis and their intrinsic hydrogen absorption and desorption properties, providing insights into diverse applications of MHs beyond hydrogen storage.</description>
+      <author>Haoming Yu, Xingguo Li, Jianlong Zheng</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05696</guid>
+    </item>
+    <item>
+      <title>Importance of Site Diversity and Connectivity in Electrochemical CO Reduction on Cu</title>
+      <link>https://doi.org/10.1021/acscatal.3c05904</link>
+      <description>Chansol Kim, Nitish Govindarajan, Sydney Hemenway, Jun Ho Park, Anya Zoraster, Calton J. Kong, Rajiv Ramanujam Prabhakar, Joel B. Varley, Hee&#8208;Tae Jung, Christopher Hahn, Joel W. Ager, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391821487
+
+                Electrochemical CO2 reduction on Cu is a promising approach to produce value-added chemicals using renewable feedstocks, yet various Cu preparations have led to differences in activity and selectivity toward single and multicarbon products. Here, we find, surprisingly, that the effective catalytic activity toward ethylene improves when there is a larger fraction of less active sites acting as reservoirs of *CO on the surface of Cu nanoparticle electrocatalysts. In an adaptation of chemical transient kinetics to electrocatalysis, we measure the dynamic response of a gas diffusion electrode (GDE) cell when the feed gas is abruptly switched between Ar (inert) and CO. When switching from Ar to CO, CO reduction (COR) begins promptly, but when switching from CO to Ar, COR can be maintained for several seconds (delay time) despite the absence of the CO reactant in the gas phase. A three-site microkinetic model captures the observed dynamic behavior and shows that Cu catalysts exhibiting delay times have a less active *CO reservoir that exhibits fast diffusion to active sites. The observed delay times and the estimated *CO reservoir sizes are affected by catalyst preparation, applied potential, and microenvironment (electrolyte cation identity, electrolyte pH, and CO partial pressure). Notably, we estimate that the *CO reservoir surface coverage can be as high as 88 &#177; 7% on oxide-derived Cu (OD-Cu) at high overpotentials (&#8722;1.52 V vs SHE) and this increases in reservoir coverage coincide with increased turnover frequencies to ethylene. We also estimate that *CO can travel substantial distances (up to 10s of nm) prior to desorption or reaction. It appears that active C&#8211;C coupling sites by themselves do not control selectivity to C2+ products in electrochemical COR; the supply of CO to those sites is also a crucial factor. More generally, the overall activity of Cu electrocatalysts cannot be approximated from linear combinations of individual site activities. Future designs must consider the diversity of the catalyst network and account for intersite transportation pathways.</description>
+      <author>Chansol Kim, Nitish Govindarajan, Sydney Hemenway, Jun Ho Park, Anya Zoraster, Calton J. Kong, Rajiv Ramanujam Prabhakar, Joel B. Varley, Hee&#8208;Tae Jung, Christopher Hahn, Joel W. Ager</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05904</guid>
     </item>
   </channel>
 </rss>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Feb 2024 00:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 00:47:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -48,34 +48,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta00320a</guid>
     </item>
     <item>
-      <title>Sustainable Strategies for Solar Electrochemical Reduction of Carbon Dioxide to Fuels</title>
-      <link>https://doi.org/10.54499/sfrh/bd/147219/2019</link>
-      <description>, No host. None(None)] 2020. https://openalex.org/W4391682884
+      <title>Photocatalytic sponges for wastewater treatment, carbon dioxide reduction, and hydrogen production: a review</title>
+      <link>https://doi.org/10.1007/s10311-024-01696-5</link>
+      <description>Akash Balakrishnan, Meenu Mariam Jacob, Mahendra Chinthala, Nanditha Dayanandan, M. N. Ponnuswamy, Dai&#8208;Viet N. Vo, Environmental Chemistry Letters. None(None)] 2024. https://openalex.org/W4391881021
 
                 No abstract</description>
-      <author/>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/147219/2019</guid>
-    </item>
-    <item>
-      <title>Biocatalytical reduction of carbon dioxide for sustainable biofuel production</title>
-      <link>https://doi.org/10.54499/covid/bd/151766/2021</link>
-      <description>, No host. None(None)] 2021. https://openalex.org/W4391681969
-
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54499/covid/bd/151766/2021</guid>
-    </item>
-    <item>
-      <title>Intercalated Zirconium Phosphate Promotes Reductive Amination of Carbon Dioxide</title>
-      <link>https://doi.org/10.1021/acssuschemeng.3c06479</link>
-      <description>Huiying Liao, Yongjun Jiang, Xinjia Wei, Xueyan Zhao, Lai Wei, Ning An, Yue Ma, Sheng Dai, Zhenshan Hou, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4391686357
-
-                No abstract</description>
-      <author>Huiying Liao, Yongjun Jiang, Xinjia Wei, Xueyan Zhao, Lai Wei, Ning An, Yue Ma, Sheng Dai, Zhenshan Hou</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c06479</guid>
+      <author>Akash Balakrishnan, Meenu Mariam Jacob, Mahendra Chinthala, Nanditha Dayanandan, M. N. Ponnuswamy, Dai&#8208;Viet N. Vo</author>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10311-024-01696-5</guid>
     </item>
     <item>
       <title>Analysis of reduction of carbon dioxide emissions from blast furnace under conditions of using advanced and existing blast furnace melting technologies</title>
@@ -98,14 +78,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/s1872-5805(24)60839-5</guid>
     </item>
     <item>
-      <title>Computational examination of transition metal-salen complexes for the reduction of CO2</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.113819</link>
-      <description>Gavin McCarver, Taner Yildirim, Wei Zhou, Molecular Catalysis. 556(None)] 2024. https://openalex.org/W4391706993
+      <title>Gallium Nitride&#8208;Based Artificial Photosynthesis Integrated Devices for Solar Hydrogen Generation and Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1002/9781119600862.ch11</link>
+      <description>Baowen Zhou, Peng Zhou, Dong Wu, Zetian Mi, No host. None(None)] 2024. https://openalex.org/W4391875089
 
-                In this comprehensive study, we investigated the catalytic potential of seven transition metal-salen (TM-salen) complexes for the reduction of carbon dioxide (CO2) using ab initio methods. Our findings revealed distinct catalytic behavior among the TM-salen complexes, driven by their electronic and geometric properties. The reduction of hydrogen to H2 was most favorable on Mn-salen and Cu-salen complexes, indicating potential competition with CO2 reduction. Notably, later TM-salen complexes (Co, Ni, Cu, Zn) exhibited higher energy requirements for the initial CO2 reduction, whereas Mn- and Fe-salen complexes demonstrated potential-controlled selectivity, favoring CO2 reduction beyond HCOOH at specific thresholds. Our results highlight Cr-salen and Fe-salen complexes as promising candidates for the CO2 reduction reaction (CO2RR) catalysts due to their reduced competition with hydrogen reduction and low limiting potentials for CO2 reduction. Furthermore, the distinct reaction profiles of TM-salen complexes offer valuable insights for the design and development of efficient catalysts for sustainable CO2 conversion and other chemical transformations. These findings provide a foundation for further exploration and optimization of TM-salen complexes as viable catalysts in environmental and energy-related applications.</description>
-      <author>Gavin McCarver, Taner Yildirim, Wei Zhou</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.113819</guid>
+                No abstract</description>
+      <author>Baowen Zhou, Peng Zhou, Dong Wu, Zetian Mi</author>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9781119600862.ch11</guid>
     </item>
     <item>
       <title>Defect engineering of carbon-based electrocatalysts for the CO2 reduction reaction: A review</title>
@@ -118,16 +98,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/s1872-5805(24)60833-4</guid>
     </item>
     <item>
-      <title>Development of carbon based materials for CO2 electrochemical reduction</title>
-      <link>https://doi.org/10.54499/sfrh/bd/143490/2019</link>
-      <description>, No host. None(None)] 2020. https://openalex.org/W4391704728
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54499/sfrh/bd/143490/2019</guid>
-    </item>
-    <item>
       <title>Analysis of CO2 emissions reduction via by-product hydrogen</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.02.138</link>
       <description>Chao Wang, Yongqiang Li, Junmin Wan, Yi Hu, International Journal of Hydrogen Energy. None(None)] 2024. https://openalex.org/W4391849200
@@ -138,14 +108,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.138</guid>
     </item>
     <item>
-      <title>Coupling of Electrocatalytic CO2 Reduction and CH4 Oxidation for Efficient Methyl Formate Electrosynthesis</title>
-      <link>https://doi.org/10.1039/d4ee00087k</link>
-      <description>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng, Energy and Environmental Science. None(None)] 2024. https://openalex.org/W4391854676
+      <title>Electrochemical CO2 Reduction by Urea Hangman Mn Terpyridine species</title>
+      <link>https://doi.org/10.1002/chem.202304218</link>
+      <description>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#275;i Li, Cheng Huang Lin, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4391881952
 
-                The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...</description>
-      <author>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ee00087k</guid>
+                Based on our previous study in chemical subtleties of the proton tunneling distance for metal hydride formation (PTD&#8208;MH) to regulate the selectivity of CO2 reduction reaction (CO2RR), we have developed a family of Mn terpyridine derivatives, in which urea groups functioning as multipoint hydrogen&#8208;bonding hangman to accelerate the reaction rate. We found that such changes to the second coordination sphere significantly increased the turnover frequency (TOF) for CO2 reduction to ca. 360 s&#8208;1 with this family of molecular catalysts while maintaining high selectivity (ca. 100% &#177; 3) for CO even in the presence of a large amount of phenol as proton source. Notably, the compounds studied in this manuscript all exhibit large value for CO as that achieved by Fe porphyrins derivates, while saving up to 0.55 V in overpotential with respect to the latter.</description>
+      <author>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#275;i Li, Cheng Huang Lin</author>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202304218</guid>
     </item>
     <item>
       <title>How to promote CO2 reduction in urban households from a micro perspective?</title>
@@ -158,14 +128,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.130683</guid>
     </item>
     <item>
-      <title>Improving a highly active tungsten-dependent formate dehydrogenase for biocatalytic reduction of CO2</title>
-      <link>https://doi.org/10.54499/2020.07897.bd</link>
-      <description>, No host. None(None)] 2020. https://openalex.org/W4391704210
+      <title>Coupling of Electrocatalytic CO2 Reduction and CH4 Oxidation for Efficient Methyl Formate Electrosynthesis</title>
+      <link>https://doi.org/10.1039/d4ee00087k</link>
+      <description>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng, Energy and Environmental Science. None(None)] 2024. https://openalex.org/W4391854676
 
-                No abstract</description>
-      <author/>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54499/2020.07897.bd</guid>
+                The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...</description>
+      <author>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ee00087k</guid>
     </item>
     <item>
       <title>A surface strategy boosting the ethylene selectivity for CO2 reduction and in situ mechanistic insights</title>
@@ -188,16 +158,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e26281</guid>
     </item>
     <item>
-      <title>Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation</title>
-      <link>https://doi.org/10.21203/rs.3.rs-3892596/v1</link>
-      <description>Alexander Ryota Keeley, Andrew Chapman, Sunbin Yoo, Kenichi Kurita, Junya Kumagai, Dyah Ika Rinawati, Tianhui Fan, Shunsuke Managi, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4391749337
-
-                Abstract Reducing the concentration of carbon dioxide (CO 2 ) in the atmosphere to combat climate change is a global challenge. Direct air capture (DAC) is a new set of technologies that directly removes CO 2 from the air; therefore, DAC can address emissions from any source. This paper begins by reviewing the literature on negative emission technologies to summarize the most recent technological developments. We then conduct a life cycle assessment on one of the most recently developed technologies, the direct air capture and utilization (DAC-U) system. DAC-U systems, like photovoltaic systems, can be installed in various locations, including homes, offices, and mega-plants, resulting in a highly scalable, on-site system that can be deployed in various ways. Based on the life cycle assessment results, this article presents the CO 2 capture and reduction potential of the DAC-U system, with a focus on installations in households, and examines the willingness to adopt the system in Japan. Our results show that the DAC-U system functions as a negative emission technology and demonstrate the large CO 2 capture and reduction potential of the DAC-U system through household-level installations.</description>
-      <author>Alexander Ryota Keeley, Andrew Chapman, Sunbin Yoo, Kenichi Kurita, Junya Kumagai, Dyah Ika Rinawati, Tianhui Fan, Shunsuke Managi</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3892596/v1</guid>
-    </item>
-    <item>
       <title>Electrocatalytic CO2 Reduction to Formate by a Cobalt Phosphino-Thiolate Complex</title>
       <link>https://doi.org/10.1039/d3sc06805f</link>
       <description>Jeremy A Intrator, David Vel&#225;zquez, Sicheng Fan, Enrico Mastrobattista, Christine Yu, Smaranda C. Marinescu, Chemical Science. None(None)] 2024. https://openalex.org/W4391759409
@@ -206,6 +166,16 @@
       <author>Jeremy A Intrator, David Vel&#225;zquez, Sicheng Fan, Enrico Mastrobattista, Christine Yu, Smaranda C. Marinescu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3sc06805f</guid>
+    </item>
+    <item>
+      <title>Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation</title>
+      <link>https://doi.org/10.21203/rs.3.rs-3892596/v1</link>
+      <description>Alexander Ryota Keeley, Andrew Chapman, Sunbin Yoo, Kenichi Kurita, Junya Kumagai, Dyah Ika Rinawati, Tianhui Fan, Shunsuke Managi, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4391749337
+
+                Abstract Reducing the concentration of carbon dioxide (CO 2 ) in the atmosphere to combat climate change is a global challenge. Direct air capture (DAC) is a new set of technologies that directly removes CO 2 from the air; therefore, DAC can address emissions from any source. This paper begins by reviewing the literature on negative emission technologies to summarize the most recent technological developments. We then conduct a life cycle assessment on one of the most recently developed technologies, the direct air capture and utilization (DAC-U) system. DAC-U systems, like photovoltaic systems, can be installed in various locations, including homes, offices, and mega-plants, resulting in a highly scalable, on-site system that can be deployed in various ways. Based on the life cycle assessment results, this article presents the CO 2 capture and reduction potential of the DAC-U system, with a focus on installations in households, and examines the willingness to adopt the system in Japan. Our results show that the DAC-U system functions as a negative emission technology and demonstrate the large CO 2 capture and reduction potential of the DAC-U system through household-level installations.</description>
+      <author>Alexander Ryota Keeley, Andrew Chapman, Sunbin Yoo, Kenichi Kurita, Junya Kumagai, Dyah Ika Rinawati, Tianhui Fan, Shunsuke Managi</author>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3892596/v1</guid>
     </item>
     <item>
       <title>Free-Standing Single-Atom Catalyst-Based Electrodes for CO2 Reduction</title>
@@ -226,6 +196,16 @@
       <author>Baiqin Zhou, Zhida Li, Xinyue He, Chunyue Zhang, Shanshan Pi, Min Yang, Shiguo Zhang, Guifeng Li, Ziqi Zhang, Lu Lu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4725703</guid>
+    </item>
+    <item>
+      <title>Engineering stable Cu+-Cu0 sites and oxygen defects in boron-doped copper oxide for electrocatalytic reduction of CO2 to C2+ products</title>
+      <link>https://doi.org/10.1016/j.cej.2024.149710</link>
+      <description>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391848551
+
+                Cu-based catalysts inevitably undergo surface reconstruction during the electrochemical carbon dioxide reduction reaction (CO2RR) process. Thus, it is a challenge to construct stable Cu+-Cu0 sites of Cu-based catalysts. In this study, we report a simple and facile engineering strategy for stable Cu+-Cu0 sites and oxygen defects derived from the boron-doped copper oxide (B-CuxO) as an efficient CO2RR electrocatalyst. The 5 % B-CuxO exhibited 48.32 % C2+ products Faraday efficiency (FE) for 12 h at &#8722;1.0 V vs reversible hydrogen electrode (RHE) in H-cell, which was far superior to CuxO (23.78 %). Combining density functional theory (DFT) and in situ Attenuated Total Reflection Fourier Transform Infrared spectroscopy (in situ ATR-FTIR), a higher electronic depletion on the catalyst surface inhibited the electrons accumulation around Cu sites, thereby maintaining the positive charge and inhibiting the complete reduction of Cu+. Moreover, the high oxygen defects in 5 % B-CuxO could effectively activate CO2 into *CO. We emphasized that Cu+ functioned as the primary active site by facilitating adsorption and dimerization of *CO, whereas Cu0 assisted in optimizing CO2 activation.</description>
+      <author>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149710</guid>
     </item>
     <item>
       <title>Artificial Intelligence Vision Technology Application of Automatic Steam&amp;amp;Heat Flow Detection Integrated with Carbon Dioxide Reduction and Brackish Water Treatment: A Sustainable Environmental Merit of Carbon Neutrality Through Solar-Driven Distillation Device</title>
@@ -276,6 +256,26 @@
       <author>Geng Li, Libei Huang, Chengpeng Wei, Hanchen Shen, Yong Liu, Qiang Zhang, Jianjun Su, Yun Mi Song, Weihua Guo, Xiaohu Cao, Ben Zhong Tang, Marc Robert, Ruquan Ye</author>
       <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202400414</guid>
+    </item>
+    <item>
+      <title>Metal-Free Carbon Dot-Microporous Graphitic Carbon Heterojunctions as Photocatalysts for CO2 Reduction</title>
+      <link>https://doi.org/10.1039/d4se00007b</link>
+      <description>Ana Garc&#237;a-Mulero, Mar&#237;a Cabrero-Antonino, Hermenegildo Garc&#305;&#769;a, Ana Primo, Sustainable Energy and Fuels. None(None)] 2024. https://openalex.org/W4391790255
+
+                A series of photocatalysts containing various loadings of carbon dots (CD) on microporous graphitic carbons (mpC) was prepared by pyrolysis at 900 &#176;C under inert atmosphere of &#945;-cyclodextrin containing preformed...</description>
+      <author>Ana Garc&#237;a-Mulero, Mar&#237;a Cabrero-Antonino, Hermenegildo Garc&#305;&#769;a, Ana Primo</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4se00007b</guid>
+    </item>
+    <item>
+      <title>Comparative Study for the Electrodeposited Cadmium Chalcogenide by Potentiostatic and Potentiodynamic Methods for Electrochemical Reduction of CO2</title>
+      <link>https://doi.org/10.21608/sjsci.2024.236449.1123</link>
+      <description>Amira Gelany, Hossnia S. Mohran, Mahmoud Elrouby, Sohag Journal of Sciences. 9(2)] 2024. https://openalex.org/W4391730965
+
+                No abstract</description>
+      <author>Amira Gelany, Hossnia S. Mohran, Mahmoud Elrouby</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21608/sjsci.2024.236449.1123</guid>
     </item>
   </channel>
 </rss>

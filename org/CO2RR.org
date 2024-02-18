@@ -1,9 +1,9 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Feb 17 00:43:02 2024
+Created on Sun Feb 18 00:47:08 2024
 
-Found 27 results from 2024-02-10 to 2024-02-17
+Found 27 results from 2024-02-11 to 2024-02-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -92,64 +92,22 @@ The use of two-dimensional (2D) MXene materials as highly efficient electrocatal
 
     
 
-* Sustainable Strategies for Solar Electrochemical Reduction of Carbon Dioxide to Fuels  :CO2RR:
+* Photocatalytic sponges for wastewater treatment, carbon dioxide reduction, and hydrogen production: a review  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391682884
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Fuel Cell Membrane Technology, Carbon Dioxide Capture and Storage Technologies
-:PUBLICATION_DATE: 2020-01-01
+:ID: https://openalex.org/W4391881021
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-02-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54499/sfrh/bd/147219/2019")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10311-024-01696-5")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391682884"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391682884"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391682884"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391881021"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391881021"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391881021"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391682884 (Open access: False)
+OpenAlex: https://openalex.org/W4391881021 (Open access: False)
     
-, No host. None(None)] 2020. https://doi.org/10.54499/sfrh/bd/147219/2019 
-     
-No abstract    
-
-    
-
-* Biocatalytical reduction of carbon dioxide for sustainable biofuel production  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391681969
-:TOPICS: Technologies for Biofuel Production from Biomass, Metabolic Engineering and Synthetic Biology, Enzyme Immobilization Techniques
-:PUBLICATION_DATE: 2021-11-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54499/covid/bd/151766/2021")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391681969"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391681969"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391681969"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391681969 (Open access: False)
-    
-, No host. None(None)] 2021. https://doi.org/10.54499/covid/bd/151766/2021 
-     
-No abstract    
-
-    
-
-* Intercalated Zirconium Phosphate Promotes Reductive Amination of Carbon Dioxide  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391686357
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Chemistry and Applications of Metal-Organic Frameworks, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-02-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acssuschemeng.3c06479")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391686357"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391686357"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391686357"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391686357 (Open access: False)
-    
-[[https://openalex.org/A5087166125][Huiying Liao]], [[https://openalex.org/A5055700427][Yongjun Jiang]], [[https://openalex.org/A5049066725][Xinjia Wei]], [[https://openalex.org/A5045350805][Xueyan Zhao]], [[https://openalex.org/A5090780152][Lai Wei]], [[https://openalex.org/A5050074954][Ning An]], [[https://openalex.org/A5091735030][Yue Ma]], [[https://openalex.org/A5031493683][Sheng Dai]], [[https://openalex.org/A5023180240][Zhenshan Hou]], ACS Sustainable Chemistry & Engineering. None(None)] 2024. https://doi.org/10.1021/acssuschemeng.3c06479 
+[[https://openalex.org/A5023804914][Akash Balakrishnan]], [[https://openalex.org/A5084872777][Meenu Mariam Jacob]], [[https://openalex.org/A5013338055][Mahendra Chinthala]], [[https://openalex.org/A5083688944][Nanditha Dayanandan]], [[https://openalex.org/A5009615295][M. N. Ponnuswamy]], [[https://openalex.org/A5072272612][Dai‐Viet N. Vo]], Environmental Chemistry Letters. None(None)] 2024. https://doi.org/10.1007/s10311-024-01696-5 
      
 No abstract    
 
@@ -197,24 +155,24 @@ The reduction of carbon dioxide (CO2) by electrochemical methods for the product
 
     
 
-* Computational examination of transition metal-salen complexes for the reduction of CO2  :CO2RR:
+* Gallium Nitride‐Based Artificial Photosynthesis Integrated Devices for Solar Hydrogen Generation and Carbon Dioxide Reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391706993
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-03-01
+:ID: https://openalex.org/W4391875089
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
+:PUBLICATION_DATE: 2024-02-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mcat.2024.113819")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/9781119600862.ch11")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391706993"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391706993"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391706993"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391875089"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391875089"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391875089"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391706993 (Open access: False)
+OpenAlex: https://openalex.org/W4391875089 (Open access: False)
     
-[[https://openalex.org/A5016781296][Gavin McCarver]], [[https://openalex.org/A5077586408][Taner Yildirim]], [[https://openalex.org/A5035646855][Wei Zhou]], Molecular Catalysis. 556(None)] 2024. https://doi.org/10.1016/j.mcat.2024.113819 
+[[https://openalex.org/A5010878103][Baowen Zhou]], [[https://openalex.org/A5050902155][Peng Zhou]], [[https://openalex.org/A5061245884][Dong Wu]], [[https://openalex.org/A5070775523][Zetian Mi]], No host. None(None)] 2024. https://doi.org/10.1002/9781119600862.ch11 
      
-In this comprehensive study, we investigated the catalytic potential of seven transition metal-salen (TM-salen) complexes for the reduction of carbon dioxide (CO2) using ab initio methods. Our findings revealed distinct catalytic behavior among the TM-salen complexes, driven by their electronic and geometric properties. The reduction of hydrogen to H2 was most favorable on Mn-salen and Cu-salen complexes, indicating potential competition with CO2 reduction. Notably, later TM-salen complexes (Co, Ni, Cu, Zn) exhibited higher energy requirements for the initial CO2 reduction, whereas Mn- and Fe-salen complexes demonstrated potential-controlled selectivity, favoring CO2 reduction beyond HCOOH at specific thresholds. Our results highlight Cr-salen and Fe-salen complexes as promising candidates for the CO2 reduction reaction (CO2RR) catalysts due to their reduced competition with hydrogen reduction and low limiting potentials for CO2 reduction. Furthermore, the distinct reaction profiles of TM-salen complexes offer valuable insights for the design and development of efficient catalysts for sustainable CO2 conversion and other chemical transformations. These findings provide a foundation for further exploration and optimization of TM-salen complexes as viable catalysts in environmental and energy-related applications.    
+No abstract    
 
     
 
@@ -239,27 +197,6 @@ Electrocatalytic carbon dioxide (CO2) reduction is an important way to achieve c
 
     
 
-* Development of carbon based materials for CO2 electrochemical reduction  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391704728
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Solid Oxide Fuel Cells
-:PUBLICATION_DATE: 2020-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54499/sfrh/bd/143490/2019")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391704728"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391704728"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391704728"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391704728 (Open access: False)
-    
-, No host. None(None)] 2020. https://doi.org/10.54499/sfrh/bd/143490/2019 
-     
-No abstract    
-
-    
-
 * Analysis of CO2 emissions reduction via by-product hydrogen  :CO2RR:
 :PROPERTIES:
 :ID: https://openalex.org/W4391849200
@@ -281,24 +218,24 @@ Hydrogen is a clean energy in the world and by-product hydrogen is an important 
 
     
 
-* Coupling of Electrocatalytic CO2 Reduction and CH4 Oxidation for Efficient Methyl Formate Electrosynthesis  :CO2RR:
+* Electrochemical CO2 Reduction by Urea Hangman Mn Terpyridine species  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391854676
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-01-01
+:ID: https://openalex.org/W4391881952
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-02-16
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ee00087k")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202304218")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391854676"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391854676"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391854676"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391881952"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391881952"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391881952"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391854676 (Open access: False)
+OpenAlex: https://openalex.org/W4391881952 (Open access: False)
     
-[[https://openalex.org/A5055720455][Quan Zhang]], [[https://openalex.org/A5045304582][Yangshen Chen]], [[https://openalex.org/A5035054349][Shuai Yan]], [[https://openalex.org/A5046867944][Ximeng Lv]], [[https://openalex.org/A5006812397][Chao Yang]], [[https://openalex.org/A5006596822][Min Kuang]], [[https://openalex.org/A5062325923][Gengfeng Zheng]], Energy and Environmental Science. None(None)] 2024. https://doi.org/10.1039/d4ee00087k 
+[[https://openalex.org/A5008108716][Minghong Li]], [[https://openalex.org/A5004948530][Fang Huang]], [[https://openalex.org/A5055151897][Ping Zhang]], [[https://openalex.org/A5041998803][Ying Xiong]], [[https://openalex.org/A5030775427][Yaping Zhang]], [[https://openalex.org/A5005228021][Fēi Li]], [[https://openalex.org/A5040730537][Cheng Huang Lin]], Chemistry - A European Journal. None(None)] 2024. https://doi.org/10.1002/chem.202304218 
      
-The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...    
+Based on our previous study in chemical subtleties of the proton tunneling distance for metal hydride formation (PTD‐MH) to regulate the selectivity of CO2 reduction reaction (CO2RR), we have developed a family of Mn terpyridine derivatives, in which urea groups functioning as multipoint hydrogen‐bonding hangman to accelerate the reaction rate. We found that such changes to the second coordination sphere significantly increased the turnover frequency (TOF) for CO2 reduction to ca. 360 s‐1 with this family of molecular catalysts while maintaining high selectivity (ca. 100% ± 3) for CO even in the presence of a large amount of phenol as proton source. Notably, the compounds studied in this manuscript all exhibit large value for CO as that achieved by Fe porphyrins derivates, while saving up to 0.55 V in overpotential with respect to the latter.    
 
     
 
@@ -323,24 +260,24 @@ Climate change has received widespread international attention. Household CO2 re
 
     
 
-* Improving a highly active tungsten-dependent formate dehydrogenase for biocatalytic reduction of CO2  :CO2RR:
+* Coupling of Electrocatalytic CO2 Reduction and CH4 Oxidation for Efficient Methyl Formate Electrosynthesis  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391704210
-:TOPICS: Enzyme Immobilization Techniques, Biological and Synthetic Hydrogenases: Mechanisms and Applications, Deuterium Incorporation in Pharmaceutical Research
-:PUBLICATION_DATE: 2020-10-01
+:ID: https://openalex.org/W4391854676
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-01-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54499/2020.07897.bd")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ee00087k")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391704210"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391704210"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391704210"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391854676"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391854676"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391854676"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391704210 (Open access: False)
+OpenAlex: https://openalex.org/W4391854676 (Open access: False)
     
-, No host. None(None)] 2020. https://doi.org/10.54499/2020.07897.bd 
+[[https://openalex.org/A5055720455][Quan Zhang]], [[https://openalex.org/A5045304582][Yangshen Chen]], [[https://openalex.org/A5035054349][Shuai Yan]], [[https://openalex.org/A5046867944][Ximeng Lv]], [[https://openalex.org/A5006812397][Chao Yang]], [[https://openalex.org/A5006596822][Min Kuang]], [[https://openalex.org/A5062325923][Gengfeng Zheng]], Energy and Environmental Science. None(None)] 2024. https://doi.org/10.1039/d4ee00087k 
      
-No abstract    
+The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...    
 
     
 
@@ -386,27 +323,6 @@ Electrocatalytic CO2 reduction, as an effective way to reduce the CO2 concentrat
 
     
 
-* Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391749337
-:TOPICS: Carbon Dioxide Capture and Storage Technologies, Membrane Gas Separation Technology, Economic Implications of Climate Change Policies
-:PUBLICATION_DATE: 2024-02-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-3892596/v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391749337"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391749337"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391749337"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391749337 (Open access: True)
-    
-[[https://openalex.org/A5073705863][Alexander Ryota Keeley]], [[https://openalex.org/A5018157580][Andrew Chapman]], [[https://openalex.org/A5023795277][Sunbin Yoo]], [[https://openalex.org/A5074415920][Kenichi Kurita]], [[https://openalex.org/A5089189626][Junya Kumagai]], [[https://openalex.org/A5004204174][Dyah Ika Rinawati]], [[https://openalex.org/A5054053969][Tianhui Fan]], [[https://openalex.org/A5074976090][Shunsuke Managi]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-3892596/v1  ([[https://www.researchsquare.com/article/rs-3892596/latest.pdf][pdf]])
-     
-Abstract Reducing the concentration of carbon dioxide (CO 2 ) in the atmosphere to combat climate change is a global challenge. Direct air capture (DAC) is a new set of technologies that directly removes CO 2 from the air; therefore, DAC can address emissions from any source. This paper begins by reviewing the literature on negative emission technologies to summarize the most recent technological developments. We then conduct a life cycle assessment on one of the most recently developed technologies, the direct air capture and utilization (DAC-U) system. DAC-U systems, like photovoltaic systems, can be installed in various locations, including homes, offices, and mega-plants, resulting in a highly scalable, on-site system that can be deployed in various ways. Based on the life cycle assessment results, this article presents the CO 2 capture and reduction potential of the DAC-U system, with a focus on installations in households, and examines the willingness to adopt the system in Japan. Our results show that the DAC-U system functions as a negative emission technology and demonstrate the large CO 2 capture and reduction potential of the DAC-U system through household-level installations.    
-
-    
-
 * Electrocatalytic CO2 Reduction to Formate by a Cobalt Phosphino-Thiolate Complex  :CO2RR:
 :PROPERTIES:
 :ID: https://openalex.org/W4391759409
@@ -425,6 +341,27 @@ OpenAlex: https://openalex.org/W4391759409 (Open access: True)
 [[https://openalex.org/A5035899937][Jeremy A Intrator]], [[https://openalex.org/A5065711892][David Velázquez]], [[https://openalex.org/A5021146191][Sicheng Fan]], [[https://openalex.org/A5073457405][Enrico Mastrobattista]], [[https://openalex.org/A5083203208][Christine Yu]], [[https://openalex.org/A5065193423][Smaranda C. Marinescu]], Chemical Science. None(None)] 2024. https://doi.org/10.1039/d3sc06805f  ([[https://pubs.rsc.org/en/content/articlepdf/2024/sc/d3sc06805f][pdf]])
      
 Electrochemical conversion of CO2 to value-added products serves as an attractive method to store renewable energy as energy-dense fuels. Selectivity in this type of conversion can be limited, often leading...    
+
+    
+
+* Direct Air Capture and Utilization: Life Cycle Assessment and CO2 Reduction Potential Estimation  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391749337
+:TOPICS: Carbon Dioxide Capture and Storage Technologies, Membrane Gas Separation Technology, Economic Implications of Climate Change Policies
+:PUBLICATION_DATE: 2024-02-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21203/rs.3.rs-3892596/v1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391749337"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391749337"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391749337"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391749337 (Open access: True)
+    
+[[https://openalex.org/A5073705863][Alexander Ryota Keeley]], [[https://openalex.org/A5018157580][Andrew Chapman]], [[https://openalex.org/A5023795277][Sunbin Yoo]], [[https://openalex.org/A5074415920][Kenichi Kurita]], [[https://openalex.org/A5089189626][Junya Kumagai]], [[https://openalex.org/A5004204174][Dyah Ika Rinawati]], [[https://openalex.org/A5054053969][Tianhui Fan]], [[https://openalex.org/A5074976090][Shunsuke Managi]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-3892596/v1  ([[https://www.researchsquare.com/article/rs-3892596/latest.pdf][pdf]])
+     
+Abstract Reducing the concentration of carbon dioxide (CO 2 ) in the atmosphere to combat climate change is a global challenge. Direct air capture (DAC) is a new set of technologies that directly removes CO 2 from the air; therefore, DAC can address emissions from any source. This paper begins by reviewing the literature on negative emission technologies to summarize the most recent technological developments. We then conduct a life cycle assessment on one of the most recently developed technologies, the direct air capture and utilization (DAC-U) system. DAC-U systems, like photovoltaic systems, can be installed in various locations, including homes, offices, and mega-plants, resulting in a highly scalable, on-site system that can be deployed in various ways. Based on the life cycle assessment results, this article presents the CO 2 capture and reduction potential of the DAC-U system, with a focus on installations in households, and examines the willingness to adopt the system in Japan. Our results show that the DAC-U system functions as a negative emission technology and demonstrate the large CO 2 capture and reduction potential of the DAC-U system through household-level installations.    
 
     
 
@@ -467,6 +404,27 @@ OpenAlex: https://openalex.org/W4391826229 (Open access: False)
 [[https://openalex.org/A5086977144][Baiqin Zhou]], [[https://openalex.org/A5080912645][Zhida Li]], [[https://openalex.org/A5078673419][Xinyue He]], [[https://openalex.org/A5034234971][Chunyue Zhang]], [[https://openalex.org/A5088624254][Shanshan Pi]], [[https://openalex.org/A5086009509][Min Yang]], [[https://openalex.org/A5031159142][Shiguo Zhang]], [[https://openalex.org/A5049295617][Guifeng Li]], [[https://openalex.org/A5053944287][Ziqi Zhang]], [[https://openalex.org/A5030429211][Lu Lu]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4725703 
      
 Waste activated sludge (WAS), heavy metals and CO2 are three waste streams that exist in wastewater treatment plants. Synergetic management of these wastes for their valorization and cyclic utilization is rarely reported. Herein, we employed sludge-derived extracellular polymeric substances (EPS) as a matrix to adsorb heavy metal Ni in wastewater, the formed EPS-Ni precursor was directly electrospun and carbonized to fabricate a gas diffusion electrode (GDE) for electrochemical CO2 reduction reaction (ECO2RR). This approach can atomically disperse Ni to form quantitative Ni single atom catalysts (SACs) exposed at each nanofiber of the GDE. Moreover, abundant N element in the EPS was proved to play a key role in the formation of Nx-Ni (mixture of N3-Ni and N4-Ni) sites that enabled GDE to reduce CO2 to CO with high efficiency. The Ni3+ over prevailingly reported Ni+ in Ni SACs was observed and showed its high ECO2RR catalytic activity. The integration of both catalyst synthesis and electrode fabrication simplified the GDE manufacture process, thus reducing the material cost. The GDE was installed in a membrane electrode assembly (MEA) for direct gaseous CO2 reduction and generated a current up to 50 mA⋅cm-1 with a desirable CO selectivity (CO:H2 ratio of ~100 and ~75% Faraday efficiency of CO production) under 2.69 cell voltage. This strategy takes advantage of all waste streams generated on site and can consolidate traditionally separated treatment processes to save costs, produce value-added products and generate carbon benefits during wastewater treatment.    
+
+    
+
+* Engineering stable Cu+-Cu0 sites and oxygen defects in boron-doped copper oxide for electrocatalytic reduction of CO2 to C2+ products  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391848551
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.149710")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391848551"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391848551"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391848551"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391848551 (Open access: False)
+    
+[[https://openalex.org/A5065234959][Charles Q. Yang]], [[https://openalex.org/A5022110710][Ruichen Wang]], [[https://openalex.org/A5073326341][Yu Chen]], [[https://openalex.org/A5067760587][Jinhua Xiao]], [[https://openalex.org/A5070233080][Zhiwei Huang]], [[https://openalex.org/A5070144022][Bihong Lv]], [[https://openalex.org/A5035684534][Huawang Zhao]], [[https://openalex.org/A5051976562][Xiaomin Wu]], [[https://openalex.org/A5039243487][Guohua Jing]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.149710 
+     
+Cu-based catalysts inevitably undergo surface reconstruction during the electrochemical carbon dioxide reduction reaction (CO2RR) process. Thus, it is a challenge to construct stable Cu+-Cu0 sites of Cu-based catalysts. In this study, we report a simple and facile engineering strategy for stable Cu+-Cu0 sites and oxygen defects derived from the boron-doped copper oxide (B-CuxO) as an efficient CO2RR electrocatalyst. The 5 % B-CuxO exhibited 48.32 % C2+ products Faraday efficiency (FE) for 12 h at −1.0 V vs reversible hydrogen electrode (RHE) in H-cell, which was far superior to CuxO (23.78 %). Combining density functional theory (DFT) and in situ Attenuated Total Reflection Fourier Transform Infrared spectroscopy (in situ ATR-FTIR), a higher electronic depletion on the catalyst surface inhibited the electrons accumulation around Cu sites, thereby maintaining the positive charge and inhibiting the complete reduction of Cu+. Moreover, the high oxygen defects in 5 % B-CuxO could effectively activate CO2 into *CO. We emphasized that Cu+ functioned as the primary active site by facilitating adsorption and dimerization of *CO, whereas Cu0 assisted in optimizing CO2 activation.    
 
     
 
@@ -572,5 +530,47 @@ OpenAlex: https://openalex.org/W4391778725 (Open access: False)
 [[https://openalex.org/A5086485895][Geng Li]], [[https://openalex.org/A5085040689][Libei Huang]], [[https://openalex.org/A5007565052][Chengpeng Wei]], [[https://openalex.org/A5026318334][Hanchen Shen]], [[https://openalex.org/A5033080900][Yong Liu]], [[https://openalex.org/A5020234133][Qiang Zhang]], [[https://openalex.org/A5074250683][Jianjun Su]], [[https://openalex.org/A5050533590][Yun Mi Song]], [[https://openalex.org/A5056180249][Weihua Guo]], [[https://openalex.org/A5056588574][Xiaohu Cao]], [[https://openalex.org/A5089379373][Ben Zhong Tang]], [[https://openalex.org/A5078358071][Marc Robert]], [[https://openalex.org/A5003575045][Ruquan Ye]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202400414 
      
 Bipolar membranes (BPMs) have emerged as a promising solution for mitigating CO2 losses, salt precipitation and high maintenance costs associated with the commonly used anion‐exchange membrane electrode assembly for CO2 reduction reaction (CO2RR). However, the industrial implementation of BPM‐based zero‐gap electrolyzer is hampered by the poor CO2RR performance, largely attributed to the local acidic environment. Here, we report a backbone engineering strategy to improve the CO2RR performance of molecular catalysts in BPM‐based zero‐gap electrolyzers by covalently grafting cobalt tetraaminophthalocyanine onto a positively charged polyfluorene backbone (PF‐CoTAPc). PF‐CoTAPc shows a high acid tolerance in BPM electrode assembly (BPMEA), achieving a high FE of 82.6% for CO at 100 mA/cm2 and a high CO2 utilization efficiency of 87.8%. Notably, the CO2RR selectivity, carbon utilization efficiency and long‐term stability of PF‐CoTAPc in BPMEA outperform reported BPM systems. We attribute the enhancement to the stable cationic shield in the double layer and suppression of proton migration, ultimately inhibiting the undesired hydrogen evolution and improving the CO2RR selectivity. Techno‐economic analysis shows the least energy consumption (957 kJ/mol) for the PF‐CoTAPc catalyst in BPMEA. Our findings provide a viable strategy for designing efficient CO2RR catalysts in acidic environments.    
+
+    
+
+* Metal-Free Carbon Dot-Microporous Graphitic Carbon Heterojunctions as Photocatalysts for CO2 Reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391790255
+:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Catalytic Nanomaterials, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4se00007b")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391790255"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391790255"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391790255"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391790255 (Open access: True)
+    
+[[https://openalex.org/A5040389535][Ana García-Mulero]], [[https://openalex.org/A5051181327][María Cabrero-Antonino]], [[https://openalex.org/A5014540719][Hermenegildo Garcı́a]], [[https://openalex.org/A5071474907][Ana Primo]], Sustainable Energy and Fuels. None(None)] 2024. https://doi.org/10.1039/d4se00007b  ([[https://pubs.rsc.org/en/content/articlepdf/2024/se/d4se00007b][pdf]])
+     
+A series of photocatalysts containing various loadings of carbon dots (CD) on microporous graphitic carbons (mpC) was prepared by pyrolysis at 900 °C under inert atmosphere of α-cyclodextrin containing preformed...    
+
+    
+
+* Comparative Study for the Electrodeposited Cadmium Chalcogenide by Potentiostatic and Potentiodynamic Methods for Electrochemical Reduction of CO2  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391730965
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Thin-Film Solar Cell Technology
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.21608/sjsci.2024.236449.1123")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391730965"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391730965"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391730965"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391730965 (Open access: True)
+    
+[[https://openalex.org/A5093907500][Amira Gelany]], [[https://openalex.org/A5061832432][Hossnia S. Mohran]], [[https://openalex.org/A5053521441][Mahmoud Elrouby]], Sohag Journal of Sciences. 9(2)] 2024. https://doi.org/10.21608/sjsci.2024.236449.1123  ([[https://sjsci.journals.ekb.eg/article_339158_28ee088a7ff3241151bc926c7acbcddb.pdf][pdf]])
+     
+No abstract    
 
     
