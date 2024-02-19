@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:47:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:45:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sustainable conversion of alkaline nitrate to ammonia at activities greater than 2 A cm&#8722;2</title>
-      <link>https://doi.org/10.1038/s41467-024-45534-2</link>
-      <description>Wanru Liao, J. Wang, Ganghai Ni, Kang Liu, Changxu Liu, Shanyong Chen, Qiyou Wang, Yingkang Chen, Ting Luo, Xiqing Wang, Yanqiu Wang, Wenzhang Li, Ting&#8208;Shan Chan, Chao Ma, Hongmei Li, Ying Liang, Weizhen Liu, Junwei Fu, B. Xi, Min Liu, Nature Communications. 15(1)] 2024. https://openalex.org/W4391716671
-
-                Abstract Nitrate (NO 3 &#8210; ) pollution poses significant threats to water quality and global nitrogen cycles. Alkaline electrocatalytic NO 3 &#8210; reduction reaction (NO 3 RR) emerges as an attractive route for enabling NO 3 &#8210; removal and sustainable ammonia (NH 3 ) synthesis. However, it suffers from insufficient proton (H + ) supply in high pH conditions, restricting NO 3 &#8210; -to-NH 3 activity. Herein, we propose a halogen-mediated H + feeding strategy to enhance the alkaline NO 3 RR performance. Our platform achieves near-100% NH 3 Faradaic efficiency (pH = 14) with a current density of 2 A cm &#8211;2 and enables an over 99% NO 3 &#8211; -to-NH 3 conversion efficiency. We also convert NO 3 &#8210; to high-purity NH 4 Cl with near-unity efficiency, suggesting a practical approach to valorizing pollutants into valuable ammonia products. Theoretical simulations and in situ experiments reveal that Cl-coordination endows a shifted d -band center of Pd atoms to construct local H + -abundant environments, through arousing dangling O-H water dissociation and fast *H desorption, for *NO intermediate hydrogenation and finally effective NO 3 &#8210; -to-NH 3 conversion.</description>
-      <author>Wanru Liao, J. Wang, Ganghai Ni, Kang Liu, Changxu Liu, Shanyong Chen, Qiyou Wang, Yingkang Chen, Ting Luo, Xiqing Wang, Yanqiu Wang, Wenzhang Li, Ting&#8208;Shan Chan, Chao Ma, Hongmei Li, Ying Liang, Weizhen Liu, Junwei Fu, B. Xi, Min Liu</author>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45534-2</guid>
-    </item>
-    <item>
-      <title>Enhanced alkaline hydrogen evolution performance through Ru-Incorporated electronic structure Modification: Transitioning from Mo3P to Mo2RuP</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149486</link>
-      <description>Peng Zhang, Shiyu Xu, Zhengyang Li, Zongfu An, Ho Seok Park, Ji Man Kim, Pil J. Yoo, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391718332
-
-                In accordance with the Sabatier principle, Mo-based catalysts typically exhibit lower catalytic activity in the hydrogen evolution reaction (HER) due to strong interactions between Mo and hydrogen within their structures. To overcome this limitation, here, we introduce a novel approach by incorporating Ru into Mo3P to modify its electronic structure, resulting in a novel water splitting cathode material of I&#773;42m structured Mo2RuP. Notably, Mo2RuP demonstrates as an efficient catalyst for alkaline HER, exhibiting outstanding performance with extremely low overpotentials of 29 mV and 62 mV at current densities of 10 mA cm&#8722;2 and 100 mA cm&#8722;2, respectively. It also displays a small Tafel slope (30 mV dec-1) and long-term durability in hydrogen production even at a current density of 100 mA cm&#8722;2 in a 1 mol/L KOH solution. First-principles density functional theory (DFT) calculations elucidate that Ru-substitution significantly reduces the hydrogen adsorption Gibbs free energy on various crystal facets of Mo2RuP. This alteration facilitates the transformation of the material to the kinetically favorable Volmer-Heyrovsky pathway during the HER. Furthermore, a comprehensive characterization and investigation into the electronic structure of this innovative material validate the efficacy of Ru modulation within the Mo3P structure. The strategy of Ru-substitution to adjust the electronic structure of Mo-based catalysts offers a viable approach for the development of novel, stable, and high-performance catalysts for the HER.</description>
-      <author>Peng Zhang, Shiyu Xu, Zhengyang Li, Zongfu An, Ho Seok Park, Ji Man Kim, Pil J. Yoo</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149486</guid>
-    </item>
-    <item>
-      <title>Ruthenium And Silver Synergetic Regulation NiFe LDH Boosting Long&#8208;Duration Industrial Seawater Electrolysis</title>
-      <link>https://doi.org/10.1002/adfm.202315674</link>
-      <description>Hengyi Chen, Rui&#8208;Ting Gao, Haojie Chen, Yang Yang, Limin Wu, Lei Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4391719280
-
-                Abstract The chloride ions in seawater result in corrosion, low catalytic efficiency, and poor stability of the electrocatalysts in direct seawater electrolysis, which limits the use of large&#8208;scale seawater electrolysis technology. Herein, a corrosion&#8208;resistant Ag/NiFeRu layered double hydroxide (LDH) electrocatalyst for seawater electrolysis at industrial current density, in which Ru and Ag species in the catalyst can have a corrosion&#8208;resistance of chloride ions from the anode surface and enhance its robustness in seawater is designed. The catalyst requires the overpotentials of 256 and 287 mV to obtain a current density of 1 A cm &#8722;2 in 1 m KOH and 1 m KOH + seawater, respectively. More importantly, it works stably for over 1000 h at 1 A cm &#8722;2 in alkaline seawater. Further quasi&#8208;industrial conditions measurement (6 m KOH + seawater, 60 &#176;C) shows a markedly low overpotential of 174 mV at 1 A cm &#8722;2 on Ag/NiFeRu LDH, obtaining over 140 h under harsh industrial conditions. Theoretical calculations demonstrate that the Ru species can effectively regulate the local electronic structure of NiFe LDH, and enhance the intrinsic activity of NiFe LDH. The transformation of Ag 2 O from Ag during OER stabilizes the Fe site in NiFe LDH, which improves the overall stability of the electrocatalyst.</description>
-      <author>Hengyi Chen, Rui&#8208;Ting Gao, Haojie Chen, Yang Yang, Limin Wu, Lei Wang</author>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202315674</guid>
-    </item>
-    <item>
-      <title>Rapid Solid&#8208;State Gas Sensing Realized via Fast K&lt;sup&gt;+&lt;/sup&gt; Transport Kinetics in Earth Abundant Rock&#8208;Silicates</title>
-      <link>https://doi.org/10.1002/adem.202302231</link>
-      <description>Mohamad Khoshkalam, Yousef Alizad Farzin, Benjamin Heckscher Sj&#248;lin, Chiara Spezzati, Peter Holtappels, Ivano E. Castelli, Bhaskar Reddy Sudireddy, Advanced Engineering Materials. None(None)] 2024. https://openalex.org/W4391729579
-
-                Here we report on the discovery of a novel fast potassium super stoichiometric silicate, with fully earth&#8208;abundant nominal chemical composition of K 2+ x Mg 1&#8722; x /2 SiO 4 , which exhibits near superionic K + conductivity, up to 5 &#215; 10 &#8722;5 S cm &#8722;1 at room temperature. Fast K + conduction is attributed to a high Continuous Symmetry Measure value in K&#8208;polyhedrons, coupled with a low packing ratio of Corner&#8208;Sharing&#8208;framework. This is the first time that such a high conductivity is measured by a rock&#8208;silicate formed only by abundant metal ions. K 2+ x Mg 1&#8722; x /2 SiO 4 displays excellent stability under air and humidity, which renders it a very promising candidate for economical fabrication of electrochemical devices such as potentiometric gas sensors. We demonstrated this by fabricating a gas sensor for SO 2 detection, as the first demonstration of type III potentiometric gas sensors using K + conductors. At 500 &#176;C and SO 2 concentrations in the range of 0&#8211;10 ppm, the sensor exhibited high sensitivities (69&#8211;72 mV dec &#8722;1 ), robust signal output (220 mV for 2 ppm of SO 2 ), fast response times (1&#8211;6 min), and excellent stability in ambient condition.</description>
-      <author>Mohamad Khoshkalam, Yousef Alizad Farzin, Benjamin Heckscher Sj&#248;lin, Chiara Spezzati, Peter Holtappels, Ivano E. Castelli, Bhaskar Reddy Sudireddy</author>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adem.202302231</guid>
-    </item>
-    <item>
-      <title>Insight into the intrinsic activity of various transition metal sulfides for efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1039/d3nr06456e</link>
-      <description>Xie Hu, Yang Gao, Xinying Luo, Junjie Xiong, Ping Chen, Bin Wang, Nanoscale. None(None)] 2024. https://openalex.org/W4391729643
-
-                The electrocatalytic hydrogen evolution reaction (HER) is an efficient approach to convert sustainable energy sources into clean energy carriers, H 2 .</description>
-      <author>Xie Hu, Yang Gao, Xinying Luo, Junjie Xiong, Ping Chen, Bin Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3nr06456e</guid>
-    </item>
-    <item>
-      <title>Recent advances and prospects of iron-based noble metal-free catalysts for oxygen reduction reaction in acidic environment: A mini review</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.02.027</link>
-      <description>Hongyan Xu, Zhanhong Ma, Zhongmin Wan, Zhongfu An, Xiaoguang Wang, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391731405
-
-                The oxygen reduction reaction (ORR) occurred in acidic media, as the cathode reaction of proton exchange membrane fuel cells (PEMFCs) with great commercialization potential, has attracted much attention. However, the slow kinetics of ORR and the high cost of cathode catalysts (mainly platinum (Pt)-based materials in current) have become the main obstacle to the rapid development of PEMFCs. Therefore, the exploration of efficient and inexpensive non-precious metal-based ORR catalysts has emerged as an urgent issue. Non-noble transition metal-based materials have been widely investigated as ORR catalysts in acidic media. This review focused on the investigation of iron (Fe) based catalysts in acidic ORR processes. In this review, the ORR mechanism was first introduced. Subsequently, the fabrication method of Fe-based catalysts by co-pyrolysis of mixtures containing Fe, non-metal, and organic precursors was discussed. Finally, the recent advances of Fe-based materials (carbides, nitrides, oxides, phosphides, chalcogenides, hybrids, alloys and single atom catalysts) as acidic ORR catalysts were summarized, and mainly focused on catalytic performance, stability and catalytic mechanism studies with Density Functional Theory (DFT) calculation. Finally, the challenges and future perspectives of Fe-based catalysts were also proposed.</description>
-      <author>Hongyan Xu, Zhanhong Ma, Zhongmin Wan, Zhongfu An, Xiaoguang Wang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.027</guid>
-    </item>
-    <item>
-      <title>Tackling the activity and selectivity challenges of electrocatalysts towards CO2 reduction reaction via atomically dispersed dual atom catalysts</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159687</link>
-      <description>Xiaoqing Lu, Chunyu Yang, Shoufu Cao, Hongyu Chen, Jiao Li, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391733008
-
-                Atomically dispersed catalysts are widely employed in electrochemical CO2 reduction reaction (CO2RR) owing to maximal atomic utilization and outstanding intrinsic activity. Dual atom catalysts (DACs) can provide dispersed active sites and distinct electronic structure, which is conducive to the catalytic performance. In this work, we explored a series of DACs composed of transition metals or main group metals supported on nitrogen-doped graphene (M2&#8211;NC) toward high-performance CO2RR. The radius of metal atom is a key factor determining the stability of M2&#8211;NC, that metals (M = Fe, Co, Ni, Cu, Zn, Ru, Rh, Pd, Ag, Sn, Pt, and Bi) with small radius can be steadily anchored. Fe2/Co2/Ru2&#8211;NC are screened out to activate CO2 because of the strong interaction between metals d orbitals and CO2 2&#960; orbitals. The results show that Fe2/Co2&#8211;NC can promote CO2RR to generate HCOOH with limiting potentials (UL) of &#8722;0.36 and &#8722;0.25 V. Ru2&#8211;NC can catalyze the generation of CH3OH and CH4 with UL of &#8722;0.28 V. Limited potential difference between CO2RR and hydrogen evolution reaction (HER) show that Fe2/Co2/Ru2&#8211;NC can inhibit HER during CO2RR. This work demonstrates Fe2/Co2/Ru2&#8211;NC as high-performance CO2RR catalysts and highlights the type of central metal atoms as a vital role for atomically dispersed electrocatalysts.</description>
-      <author>Xiaoqing Lu, Chunyu Yang, Shoufu Cao, Hongyu Chen, Jiao Li, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159687</guid>
-    </item>
     <item>
       <title>Highly efficient Ru-based Heusler alloys for nitrogen reduction reaction: Breaking scaling relations and regulating potential determining steps</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.159686</link>
@@ -256,6 +186,76 @@
       <author>Abdul Ahad Mamun, Asif Billah, Muhammad Anisuzzaman Talukder</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.156</guid>
+    </item>
+    <item>
+      <title>Influence of mixing time on a reversal tolerant anode measured ex situ for a PEMFC</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.01.236</link>
+      <description>S.J.T. Homan, Kerem Aylar, Adrian Jurjevi&#263;, M. Scolari, Atsushi Urakawa, Peyman Taheri, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391804977
+
+                No abstract</description>
+      <author>S.J.T. Homan, Kerem Aylar, Adrian Jurjevi&#263;, M. Scolari, Atsushi Urakawa, Peyman Taheri</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.236</guid>
+    </item>
+    <item>
+      <title>Mechanism of Nitrogen Coordination Modulation of Fe_N&lt;i&gt;x&lt;/i&gt;@BP System Catalysts on the Activity of Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07527</link>
+      <description>Ching T. Hou, Sen Ming, Keyuan Chen, Ju Rong, Xiaohua Yu, Lian Yu, Hongying Hou, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4391806634
+
+                No abstract</description>
+      <author>Ching T. Hou, Sen Ming, Keyuan Chen, Ju Rong, Xiaohua Yu, Lian Yu, Hongying Hou</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07527</guid>
+    </item>
+    <item>
+      <title>Density Functional Theory Study of Nitrogen Fixation Electrocatalysts Based on Two-Dimensional Conjugated Metal&#8211;Organic Frameworks</title>
+      <link>https://doi.org/10.1021/acsanm.3c05754</link>
+      <description>Zhengqin Xiong, Ying Xu, An Yu Bao, Sheng Wei, Jie Zhan, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4391811694
+
+                No abstract</description>
+      <author>Zhengqin Xiong, Ying Xu, An Yu Bao, Sheng Wei, Jie Zhan</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05754</guid>
+    </item>
+    <item>
+      <title>Improving Nitric Oxide Reduction Reaction through Surface Doping on Superstructures</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109396</link>
+      <description>Baokun Zhang, Ying Dai, Baibiao Huang, Zhao Qian, Rajeev Ahuja, Wei Wei, Nano Energy. None(None)] 2024. https://openalex.org/W4391812169
+
+                No abstract</description>
+      <author>Baokun Zhang, Ying Dai, Baibiao Huang, Zhao Qian, Rajeev Ahuja, Wei Wei</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109396</guid>
+    </item>
+    <item>
+      <title>Fe-N-C core-shell catalysts with single low-spin Fe(&#8545;)-N4 species for oxygen reduction reaction and high-performance proton exchange membrane fuel cells</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.01.074</link>
+      <description>Wei Yan, Linhui Yu, Binghua Yang, Caihong Li, Fang Chen, Wenlong Guo, Fang&#8208;Xing Xiao, Yangming Lin, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4391817857
+
+                No abstract</description>
+      <author>Wei Yan, Linhui Yu, Binghua Yang, Caihong Li, Fang Chen, Wenlong Guo, Fang&#8208;Xing Xiao, Yangming Lin</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.01.074</guid>
+    </item>
+    <item>
+      <title>Machine Learning for Polaritonic Chemistry: Accessing Chemical Kinetics</title>
+      <link>https://doi.org/10.1021/jacs.3c12829</link>
+      <description>Christian Sch&#228;fer, Jakub Fojt, Eric Lindgren, Paul Erhart, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4391824217
+
+                Altering chemical reactivity and material structure in confined optical environments is on the rise, and yet, a conclusive understanding of the microscopic mechanisms remains elusive. This originates mostly from the fact that accurately predicting vibrational and reactive dynamics for soluted ensembles of realistic molecules is no small endeavor, and adding (collective) strong light&#8211;matter interaction does not simplify matters. Here, we establish a framework based on a combination of machine learning (ML) models, trained using density-functional theory calculations and molecular dynamics to accelerate such simulations. We then apply this approach to evaluate strong coupling, changes in reaction rate constant, and their influence on enthalpy and entropy for the deprotection reaction of 1-phenyl-2-trimethylsilylacetylene, which has been studied previously both experimentally and using ab initio simulations. While we find qualitative agreement with critical experimental observations, especially with regard to the changes in kinetics, we also find differences in comparison with previous theoretical predictions. The features for which the ML-accelerated and ab initio simulations agree show the experimentally estimated kinetic behavior. Conflicting features indicate that a contribution of dynamic electronic polarization to the reaction process is more relevant than currently believed. Our work demonstrates the practical use of ML for polaritonic chemistry, discusses limitations of common approximations, and paves the way for a more holistic description of polaritonic chemistry.</description>
+      <author>Christian Sch&#228;fer, Jakub Fojt, Eric Lindgren, Paul Erhart</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c12829</guid>
+    </item>
+    <item>
+      <title>Size tuning of Pt nanoparticles on ZrO2: Optimizing catalytic performance for hydrogen evolution and water-splitting reactions - A DFT study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.142</link>
+      <description>Ayyaz Mahmood, Tehmina Akram, Shenggui Chen, Huafu Chen, International Journal of Hydrogen Energy. None(None)] 2024. https://openalex.org/W4391825258
+
+                In heterogeneous catalysis, determining the optimal metal particle size is challenging due to the intricate relationship between particle size, electronic structure, and activity. Here, we investigate the size-dependent activity of Pt nanoparticle (PtNP)-based ZrO2 catalyst for hydrogen evolution reaction (HER) and water-splitting reaction (WSR) using density functional theory (DFT) and ab initio molecular dynamics (AIMD) simulations. By analyzing different Pt nanoparticle sizes (Pt4, Pt7, Pt11, P15, Pt19, and Pt25) supported on ZrO2, we determined their optimized geometries, and electronic structures, and calculated the hydrogen adsorption energies (&#916;GH) for HER and activation energies barrier (&#916;&#8225;G) for WSR. The calculated results demonstrate that Pt11 is the optimal size for HER, exhibiting the lowest &#916;GH (&#8722;0.066 eV), while Pt15 shows the lowest &#916;&#8225;G (0.24 eV) for WSR. The density of states (DOS) shows that the occupied Pt states fill the gap of ZrO2 (3.72 eV), significantly reducing the band gap (Eg) of the PtNP/ZrO2 composites. The most favorable configuration of the PtNP on ZrO2 for HER and WSR is determined to be a three-Pt-layer structure with rooflike edges which corresponds to a nanoparticle size of &#8764;0.70&#8211;1.55 nm for experiments. These findings can be regarded as an effort toward the design and optimization of metal-based oxide catalysts for renewable energy applications.</description>
+      <author>Ayyaz Mahmood, Tehmina Akram, Shenggui Chen, Huafu Chen</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.142</guid>
     </item>
     <item>
       <title>Accelerated Structural Optimization for the Supported Metal System Based on Hybrid Approach Combining Bayesian Optimization with Local Search</title>

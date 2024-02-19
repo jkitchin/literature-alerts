@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Feb 18 00:47:11 2024
+Created on Mon Feb 19 00:44:59 2024
 
-Found 25 results from 2024-02-11 to 2024-02-18
+Found 25 results from 2024-02-12 to 2024-02-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## A Remarkable Influence of La(III)/N,N′-Dioxide Structure on Asymmetric Formal Substitution of 3-Bromo-3-substituted Oxindoles with TMSCN   
-
-OpenAlex: https://openalex.org/W4391719372    
-Open access: False
-    
-[Zi Zeng](https://openalex.org/A5085034156), [Longqing Yang](https://openalex.org/A5044748407), [Xiao Zhang](https://openalex.org/A5002318539), [Long Chen](https://openalex.org/A5012324763), [Ziwei Zhong](https://openalex.org/A5073484937), [Fei Wang](https://openalex.org/A5011208812), [Xiaohua Liu](https://openalex.org/A5050151425), [Shujuan Dong](https://openalex.org/A5081426782), [Xiaoming Feng](https://openalex.org/A5077217676), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06130.
-    
-The structural elucidation of chiral rare-earth-based catalysts in asymmetric reactions holds significant importance as it is crucial for comprehending their operational mechanisms and for broadening their applications in the realm of asymmetric synthesis. Herein, a LaIII/(L3-RaMe3)2 complex was identified to be more active and enantioselective than LaIII/L3-RaMe3 in the asymmetric formal substitution of racemic 3-bromo-3-substituted oxindoles with TMSCN. The experimental studies and theoretical calculations disclosed that the partial dissociation of the chiral N,N′-dioxide ligand was involved in the catalytic process with LaIII/(L3-RaMe3)2. These insights provided a rationale for the remarkable effect of catalyst structures on the results and nonlinear effect observed in the current reaction system. This protocol offers a straightforward and efficient pathway to synthesize various chiral 3-cyano-3-substituted oxindoles (53 examples, up to 99% yield, 98% ee). In addition, the synthesis of a bioactive compound CRTH2 receptor antagonist and obvious inhibitory effect of several products on the viability of cancer cells demonstrate the potential utility of this methodology.    
-
-    
 
 ## Surface Strain Effect on Electrocatalytic Hydrogen Evolution Reaction of Pt-Based Intermetallics   
 
@@ -278,5 +267,16 @@ Open access: True
 [Chansol Kim](https://openalex.org/A5044316913), [Nitish Govindarajan](https://openalex.org/A5023895763), [Sydney Hemenway](https://openalex.org/A5093526280), [Jun Ho Park](https://openalex.org/A5060549590), [Anya Zoraster](https://openalex.org/A5093526281), [Calton J. Kong](https://openalex.org/A5091102586), [Rajiv Ramanujam Prabhakar](https://openalex.org/A5084951895), [Joel B. Varley](https://openalex.org/A5089128933), [Hee‐Tae Jung](https://openalex.org/A5002468117), [Christopher Hahn](https://openalex.org/A5051674745), [Joel W. Ager](https://openalex.org/A5070081966), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05904 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05904)).
     
 Electrochemical CO2 reduction on Cu is a promising approach to produce value-added chemicals using renewable feedstocks, yet various Cu preparations have led to differences in activity and selectivity toward single and multicarbon products. Here, we find, surprisingly, that the effective catalytic activity toward ethylene improves when there is a larger fraction of less active sites acting as reservoirs of *CO on the surface of Cu nanoparticle electrocatalysts. In an adaptation of chemical transient kinetics to electrocatalysis, we measure the dynamic response of a gas diffusion electrode (GDE) cell when the feed gas is abruptly switched between Ar (inert) and CO. When switching from Ar to CO, CO reduction (COR) begins promptly, but when switching from CO to Ar, COR can be maintained for several seconds (delay time) despite the absence of the CO reactant in the gas phase. A three-site microkinetic model captures the observed dynamic behavior and shows that Cu catalysts exhibiting delay times have a less active *CO reservoir that exhibits fast diffusion to active sites. The observed delay times and the estimated *CO reservoir sizes are affected by catalyst preparation, applied potential, and microenvironment (electrolyte cation identity, electrolyte pH, and CO partial pressure). Notably, we estimate that the *CO reservoir surface coverage can be as high as 88 ± 7% on oxide-derived Cu (OD-Cu) at high overpotentials (−1.52 V vs SHE) and this increases in reservoir coverage coincide with increased turnover frequencies to ethylene. We also estimate that *CO can travel substantial distances (up to 10s of nm) prior to desorption or reaction. It appears that active C–C coupling sites by themselves do not control selectivity to C2+ products in electrochemical COR; the supply of CO to those sites is also a crucial factor. More generally, the overall activity of Cu electrocatalysts cannot be approximated from linear combinations of individual site activities. Future designs must consider the diversity of the catalyst network and account for intersite transportation pathways.    
+
+    
+
+## Tuning the CO2 Hydrogenation Activity via Regulating the Strong Metal–Support Interactions of the Ni/Sm2O3 Catalyst   
+
+OpenAlex: https://openalex.org/W4391823363    
+Open access: False
+    
+[Jianxiong Zhao](https://openalex.org/A5034913146), [Xiaozhi Liu](https://openalex.org/A5074896161), [Zhengwen Li](https://openalex.org/A5033870660), [Kai Feng](https://openalex.org/A5033303258), [Yue Pan](https://openalex.org/A5025390487), [Pengxiang Ji](https://openalex.org/A5045088389), [Kangning Zhao](https://openalex.org/A5048901189), [Binhang Yan](https://openalex.org/A5047133857), [Dan Zhou](https://openalex.org/A5014058024), [Dong Su](https://openalex.org/A5015415276), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06345.
+    
+Strong metal–support interactions (SMSIs), characterized by the encapsulation of metal nanoparticles by the support oxide, have a significant impact on various heterogeneous catalytic reactions. In this study, we present our investigations on tuning the catalytic performance of CO2 hydrogenation through regulating the SMSI in a Ni/Sm2O3 catalyst. Our results demonstrate that the complete encapsulation of Ni nanoparticles with amorphous Sm2O3, achieved through H2 reduction, leads to nearly full selectivity to CO. In contrast, with controlled in situ thermal postannealing in an H2/CO2/N2 mixture, the encapsulated Sm2O3 layer can be partially removed and crystallized, as revealed by atomic-resolution transmission electron microscopy analyses, which results in enhanced activity and a full selectivity toward CH4. In addition, the prolonged postannealing durations completely remove the Sm2O3 overlayer, causing a decline in CO2 methanation activity. These findings underscore the critical role of the SMSI effect in CO2 hydrogenation activity and offer valuable insights for regulating SMSI to produce targeted value-added chemicals.    
 
     

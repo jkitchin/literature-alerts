@@ -1,22 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Feb 18 00:47:03 2024
+Created on Mon Feb 19 00:44:51 2024
 
-Found 35 results from 2024-02-11 to 2024-02-18
+Found 37 results from 2024-02-12 to 2024-02-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Unleashing the potential of NiO@V2CTx MXene-derived electrocatalyst for hydrogen and oxygen evolution   
-
-OpenAlex: https://openalex.org/W4391716775    
-Open access: False
-    
-[Usman Naeem](https://openalex.org/A5086260024), [Syedah Afsheen Zahra](https://openalex.org/A5017725687), [Irfan Ali](https://openalex.org/A5082415645), [Hu Li](https://openalex.org/A5079134604), [Asif Mahmood](https://openalex.org/A5065478955), [Syed Rizwan](https://openalex.org/A5060386189), International Journal of Hydrogen Energy. 59(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.01.322.
-    
-No abstract    
-
-    
 
 ## Enhanced Synergistic Redox Activity of SrCoS/PANI for Hybrid Energy Storage and Oxygen Evolution Reaction   
 
@@ -282,6 +271,17 @@ Abstract Isolated metal-coordinated nitrogen embedded carbon (M-N-C) materials a
 
     
 
+## Lowering the kinetic barrier via enhancing electrophilicity of surface oxygen to boost acidic oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4391825290    
+Open access: False
+    
+[Ning Han](https://openalex.org/A5079381089), [Xuan Zhang](https://openalex.org/A5016622484), [Chengkai Zhang](https://openalex.org/A5057252784), [Shihui Feng](https://openalex.org/A5003036585), [Wei Zhang](https://openalex.org/A5030671367), [Wei Guo](https://openalex.org/A5038282552), [Runtian Zheng](https://openalex.org/A5034974804), [Renji Zheng](https://openalex.org/A5027922091), [Pengyun Liu](https://openalex.org/A5073531537), [Yunwei Li](https://openalex.org/A5059462676), [Jan Fransaer](https://openalex.org/A5003567873), [Bao‐Lian Su](https://openalex.org/A5022972481), Matter. None(None)] 2024.https://doi.org/10.1016/j.matt.2024.01.025.
+    
+The acidic oxygen evolution reaction (OER) is essential for many renewable energy conversion and storage technologies. However, the high energy required to break the strong covalent O-H bond of H2O in acidic media results in sluggish OER kinetics. Here, we report the critical role of iron in a new family of iron-containing yttrium ruthenate (Y2-xFexRu2O7-δ) electrocatalysts in highly increasing the electrophilicity of surface oxygen, leading to a significant reduction of the kinetics barrier by 33%, thus an exceptional OER mass activity of 1,021 A · g Ru − 1 up to 12.4 and 7.7 times that of Y2Ru2O7-δ and RuO2, respectively. Introducing iron reduces the Mulliken atomic charge on the O sites in the generated Ru-O-Fe structure, thereby facilitating the acid-base nucleophilic assault from H2O and reducing the free energy on the rate-determining step of OER. This work provides an effective strategy to reduce the kinetics barrier to achieve highly efficient and economic OER in acidic conditions.    
+
+    
+
 ## Improved oxygen evolution reaction for high-current PEM water electrolysis   
 
 OpenAlex: https://openalex.org/W4391849833    
@@ -326,6 +326,17 @@ In the domain of photocatalysis, the oxygen evolution reaction (OER) serves as a
 
     
 
+## Fabrication and characterisation of CrMnFeCoNi high entropy alloy electrocatalyst for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4391906377    
+Open access: False
+    
+[Xun Cao](https://openalex.org/A5017816629), Applied Materials Today. 37(None)] 2024.https://doi.org/10.1016/j.apmt.2024.102128.
+    
+Water electrolysis is attracting increasing attention in becoming the main method for green energy production, which has long been hindered by the sluggish kinetics of oxygen evolution reaction (OER) and high cost of noble-metal (NM) containing electrodes. Template replication technique has been employed to fabricate porous CrMnFeCoNi high entropy alloy (HEA) bulk foams with > 95 % porosity. High entropy led to the formation of a single-phase solid solution of transition metals in the as-fabricated porous HEA bulk foam, and the lattice distortion brings about the outstanding OER performance that is close to that of the RuO2 reference sample. Effective electrochemically active surface area and amount of exposed active sites are increased by grinding into nanoparticles, which produced superior OER performance with a near-record low overpotential of ∼ 245 mV to drive a current density of 10 mA/cm2, a low Tafel slope of 73.6 mV/dec, a double layer capacitance of 102.3 mF, and excellent long-term stability over 24 h. This work demonstrates a cost-effective way to fabricate NM-free HEA electrocatalyst with complex structure and excellent stability in OER, which could help in advancing the research for alkaline water electrolysis.    
+
+    
+
 ## Hierarchical sea urchin‐like Fe‐doped heazlewoodite for high‐efficient oxygen evolution   
 
 OpenAlex: https://openalex.org/W4391880837    
@@ -337,14 +348,14 @@ Electrochemical water‐splitting to produce hydrogen is potential to substitute
 
     
 
-## Lowering the kinetic barrier via enhancing electrophilicity of surface oxygen to boost acidic oxygen evolution reaction   
+## Key Role of Subsurface Doping in Optimizing Active Sites of IrO2 for Oxygen Evolution Reaction   
 
-OpenAlex: https://openalex.org/W4391825290    
+OpenAlex: https://openalex.org/W4391890840    
 Open access: False
     
-[Ning Han](https://openalex.org/A5079381089), [Xuan Zhang](https://openalex.org/A5016622484), [Chengkai Zhang](https://openalex.org/A5057252784), [Shihui Feng](https://openalex.org/A5003036585), [Wei Zhang](https://openalex.org/A5030671367), [Wei Guo](https://openalex.org/A5038282552), [Runtian Zheng](https://openalex.org/A5034974804), [Renji Zheng](https://openalex.org/A5027922091), [Pengyun Liu](https://openalex.org/A5073531537), [Yunwei Li](https://openalex.org/A5059462676), [Jan Fransaer](https://openalex.org/A5003567873), [Bao‐Lian Su](https://openalex.org/A5022972481), Matter. None(None)] 2024.https://doi.org/10.1016/j.matt.2024.01.025.
+[Xindi Han](https://openalex.org/A5089250541), [Lu-E Shi](https://openalex.org/A5004836336), [Hui Chen](https://openalex.org/A5011090841), [Xiaoxin Zou](https://openalex.org/A5046104594), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d4cc00075g.
     
-The acidic oxygen evolution reaction (OER) is essential for many renewable energy conversion and storage technologies. However, the high energy required to break the strong covalent O-H bond of H2O in acidic media results in sluggish OER kinetics. Here, we report the critical role of iron in a new family of iron-containing yttrium ruthenate (Y2-xFexRu2O7-δ) electrocatalysts in highly increasing the electrophilicity of surface oxygen, leading to a significant reduction of the kinetics barrier by 33%, thus an exceptional OER mass activity of 1,021 A · g Ru − 1 up to 12.4 and 7.7 times that of Y2Ru2O7-δ and RuO2, respectively. Introducing iron reduces the Mulliken atomic charge on the O sites in the generated Ru-O-Fe structure, thereby facilitating the acid-base nucleophilic assault from H2O and reducing the free energy on the rate-determining step of OER. This work provides an effective strategy to reduce the kinetics barrier to achieve highly efficient and economic OER in acidic conditions.    
+The oxygen evolution reaction (OER) over a family of metal-doped rutile IrO2 catalysts is theoretically investigated by controlling the species and position of doping elements. The subsurface substitution doping is...    
 
     
 
@@ -356,6 +367,17 @@ Open access: False
 [Hazem Abdelsalam](https://openalex.org/A5048555978), [Omar H. Abd‐Elkader](https://openalex.org/A5057985504), [Mohamed A. Saad](https://openalex.org/A5050838220), [Mahmoud A. S. Sakr](https://openalex.org/A5048983493), [Qinfang Zhang](https://openalex.org/A5047437279), Computational and Theoretical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.114502.
     
 Nanotubes constructed from methylene-bridged cycloparaphenyleneas (MCPPs) are investigated using density functional theory. The dynamical stability is indicated by the real vibrational frequencies of the infrared spectra. MCPPs are semiconductors with an energy gap of ∼ 2.9 eV that significantly decreases in the finite nanotubes. This decrease is a result of the interactive molecular orbitals that are localized at the pentagonal rings linking MCPPs. The UV-vis spectra show that transitions from the highest occupied and neighbor orbitals to the lowest unoccupied orbital dominate the primary absorption peaks. Oxygen evolution reaction shows that all the reaction intermediates, HO, O, and HOO are adsorbed by the pentagonal active sites. The considered nanotubes show good catalytic performance but the best performance is observed in the wider nanotubes with an overpotential of 0.10 V. This remarkably low overpotential in addition to the abundant active sites makes finite nanotubes from MCPPs exceptional catalysts for oxygen evolution.    
+
+    
+
+## Iridium-Based Perovskites as Efficient Oxygen Evolution Reaction Catalysts in Acid Media   
+
+OpenAlex: https://openalex.org/W4391895875    
+Open access: False
+    
+[Hossein Fadaei](https://openalex.org/A5062340921), [Carl W. Brown](https://openalex.org/A5050744084), [Georges Houlachi](https://openalex.org/A5060364670), [Houshang Alamdari](https://openalex.org/A5029340956), ACS Applied Engineering Materials. None(None)] 2024.https://doi.org/10.1021/acsaenm.3c00713.
+    
+No abstract    
 
     
 

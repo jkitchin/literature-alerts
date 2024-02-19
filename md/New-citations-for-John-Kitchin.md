@@ -1,8 +1,8 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Sun Feb 18 00:47:21 2024
+Created on Mon Feb 19 00:45:08 2024
 
-Found 26 results from 2024-02-11 to 2024-02-18
+Found 26 results from 2024-02-12 to 2024-02-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370)
@@ -12,83 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022)
-
-## Sustainable conversion of alkaline nitrate to ammonia at activities greater than 2 A cm−2   
-
-OpenAlex: https://openalex.org/W4391716671    
-Open access: True
-    
-[Wanru Liao](https://openalex.org/A5010913102), [J. Wang](https://openalex.org/A5066474628), [Ganghai Ni](https://openalex.org/A5005783960), [Kang Liu](https://openalex.org/A5075957518), [Changxu Liu](https://openalex.org/A5003441845), [Shanyong Chen](https://openalex.org/A5091282259), [Qiyou Wang](https://openalex.org/A5088905499), [Yingkang Chen](https://openalex.org/A5081446425), [Ting Luo](https://openalex.org/A5041129592), [Xiqing Wang](https://openalex.org/A5087653752), [Yanqiu Wang](https://openalex.org/A5029732076), [Wenzhang Li](https://openalex.org/A5021579165), [Ting‐Shan Chan](https://openalex.org/A5076885525), [Chao Ma](https://openalex.org/A5025545087), [Hongmei Li](https://openalex.org/A5036687874), [Ying Liang](https://openalex.org/A5008311955), [Weizhen Liu](https://openalex.org/A5030719289), [Junwei Fu](https://openalex.org/A5071694629), [B. Xi](https://openalex.org/A5002220892), [Min Liu](https://openalex.org/A5017353282), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-45534-2 ([pdf](https://www.nature.com/articles/s41467-024-45534-2.pdf)).
-    
-Abstract Nitrate (NO 3 ‒ ) pollution poses significant threats to water quality and global nitrogen cycles. Alkaline electrocatalytic NO 3 ‒ reduction reaction (NO 3 RR) emerges as an attractive route for enabling NO 3 ‒ removal and sustainable ammonia (NH 3 ) synthesis. However, it suffers from insufficient proton (H + ) supply in high pH conditions, restricting NO 3 ‒ -to-NH 3 activity. Herein, we propose a halogen-mediated H + feeding strategy to enhance the alkaline NO 3 RR performance. Our platform achieves near-100% NH 3 Faradaic efficiency (pH = 14) with a current density of 2 A cm –2 and enables an over 99% NO 3 – -to-NH 3 conversion efficiency. We also convert NO 3 ‒ to high-purity NH 4 Cl with near-unity efficiency, suggesting a practical approach to valorizing pollutants into valuable ammonia products. Theoretical simulations and in situ experiments reveal that Cl-coordination endows a shifted d -band center of Pd atoms to construct local H + -abundant environments, through arousing dangling O-H water dissociation and fast *H desorption, for *NO intermediate hydrogenation and finally effective NO 3 ‒ -to-NH 3 conversion.    
-
-    
-
-## Enhanced alkaline hydrogen evolution performance through Ru-Incorporated electronic structure Modification: Transitioning from Mo3P to Mo2RuP   
-
-OpenAlex: https://openalex.org/W4391718332    
-Open access: False
-    
-[Peng Zhang](https://openalex.org/A5029360035), [Shiyu Xu](https://openalex.org/A5041625330), [Zhengyang Li](https://openalex.org/A5067100305), [Zongfu An](https://openalex.org/A5032871399), [Ho Seok Park](https://openalex.org/A5076348504), [Ji Man Kim](https://openalex.org/A5069488261), [Pil J. Yoo](https://openalex.org/A5008459970), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149486.
-    
-In accordance with the Sabatier principle, Mo-based catalysts typically exhibit lower catalytic activity in the hydrogen evolution reaction (HER) due to strong interactions between Mo and hydrogen within their structures. To overcome this limitation, here, we introduce a novel approach by incorporating Ru into Mo3P to modify its electronic structure, resulting in a novel water splitting cathode material of I̅42m structured Mo2RuP. Notably, Mo2RuP demonstrates as an efficient catalyst for alkaline HER, exhibiting outstanding performance with extremely low overpotentials of 29 mV and 62 mV at current densities of 10 mA cm−2 and 100 mA cm−2, respectively. It also displays a small Tafel slope (30 mV dec-1) and long-term durability in hydrogen production even at a current density of 100 mA cm−2 in a 1 mol/L KOH solution. First-principles density functional theory (DFT) calculations elucidate that Ru-substitution significantly reduces the hydrogen adsorption Gibbs free energy on various crystal facets of Mo2RuP. This alteration facilitates the transformation of the material to the kinetically favorable Volmer-Heyrovsky pathway during the HER. Furthermore, a comprehensive characterization and investigation into the electronic structure of this innovative material validate the efficacy of Ru modulation within the Mo3P structure. The strategy of Ru-substitution to adjust the electronic structure of Mo-based catalysts offers a viable approach for the development of novel, stable, and high-performance catalysts for the HER.    
-
-    
-
-## Ruthenium And Silver Synergetic Regulation NiFe LDH Boosting Long‐Duration Industrial Seawater Electrolysis   
-
-OpenAlex: https://openalex.org/W4391719280    
-Open access: False
-    
-[Hengyi Chen](https://openalex.org/A5073049150), [Rui‐Ting Gao](https://openalex.org/A5036327118), [Haojie Chen](https://openalex.org/A5056348325), [Yang Yang](https://openalex.org/A5049692788), [Limin Wu](https://openalex.org/A5050141240), [Lei Wang](https://openalex.org/A5071476964), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202315674.
-    
-Abstract The chloride ions in seawater result in corrosion, low catalytic efficiency, and poor stability of the electrocatalysts in direct seawater electrolysis, which limits the use of large‐scale seawater electrolysis technology. Herein, a corrosion‐resistant Ag/NiFeRu layered double hydroxide (LDH) electrocatalyst for seawater electrolysis at industrial current density, in which Ru and Ag species in the catalyst can have a corrosion‐resistance of chloride ions from the anode surface and enhance its robustness in seawater is designed. The catalyst requires the overpotentials of 256 and 287 mV to obtain a current density of 1 A cm −2 in 1 m KOH and 1 m KOH + seawater, respectively. More importantly, it works stably for over 1000 h at 1 A cm −2 in alkaline seawater. Further quasi‐industrial conditions measurement (6 m KOH + seawater, 60 °C) shows a markedly low overpotential of 174 mV at 1 A cm −2 on Ag/NiFeRu LDH, obtaining over 140 h under harsh industrial conditions. Theoretical calculations demonstrate that the Ru species can effectively regulate the local electronic structure of NiFe LDH, and enhance the intrinsic activity of NiFe LDH. The transformation of Ag 2 O from Ag during OER stabilizes the Fe site in NiFe LDH, which improves the overall stability of the electrocatalyst.    
-
-    
-
-## Rapid Solid‐State Gas Sensing Realized via Fast K+ Transport Kinetics in Earth Abundant Rock‐Silicates   
-
-OpenAlex: https://openalex.org/W4391729579    
-Open access: False
-    
-[Mohamad Khoshkalam](https://openalex.org/A5073088888), [Yousef Alizad Farzin](https://openalex.org/A5035917276), [Benjamin Heckscher Sjølin](https://openalex.org/A5020691398), [Chiara Spezzati](https://openalex.org/A5058197858), [Peter Holtappels](https://openalex.org/A5053295465), [Ivano E. Castelli](https://openalex.org/A5047189415), [Bhaskar Reddy Sudireddy](https://openalex.org/A5001674762), Advanced Engineering Materials. None(None)] 2024.https://doi.org/10.1002/adem.202302231.
-    
-Here we report on the discovery of a novel fast potassium super stoichiometric silicate, with fully earth‐abundant nominal chemical composition of K 2+ x Mg 1− x /2 SiO 4 , which exhibits near superionic K + conductivity, up to 5 × 10 −5 S cm −1 at room temperature. Fast K + conduction is attributed to a high Continuous Symmetry Measure value in K‐polyhedrons, coupled with a low packing ratio of Corner‐Sharing‐framework. This is the first time that such a high conductivity is measured by a rock‐silicate formed only by abundant metal ions. K 2+ x Mg 1− x /2 SiO 4 displays excellent stability under air and humidity, which renders it a very promising candidate for economical fabrication of electrochemical devices such as potentiometric gas sensors. We demonstrated this by fabricating a gas sensor for SO 2 detection, as the first demonstration of type III potentiometric gas sensors using K + conductors. At 500 °C and SO 2 concentrations in the range of 0–10 ppm, the sensor exhibited high sensitivities (69–72 mV dec −1 ), robust signal output (220 mV for 2 ppm of SO 2 ), fast response times (1–6 min), and excellent stability in ambient condition.    
-
-    
-
-## Insight into the intrinsic activity of various transition metal sulfides for efficient hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4391729643    
-Open access: False
-    
-[Xie Hu](https://openalex.org/A5059036768), [Yang Gao](https://openalex.org/A5013791946), [Xinying Luo](https://openalex.org/A5088343764), [Junjie Xiong](https://openalex.org/A5003390701), [Ping Chen](https://openalex.org/A5074395441), [Bin Wang](https://openalex.org/A5036649810), Nanoscale. None(None)] 2024.https://doi.org/10.1039/d3nr06456e.
-    
-The electrocatalytic hydrogen evolution reaction (HER) is an efficient approach to convert sustainable energy sources into clean energy carriers, H 2 .    
-
-    
-
-## Recent advances and prospects of iron-based noble metal-free catalysts for oxygen reduction reaction in acidic environment: A mini review   
-
-OpenAlex: https://openalex.org/W4391731405    
-Open access: False
-    
-[Hongyan Xu](https://openalex.org/A5039253474), [Zhanhong Ma](https://openalex.org/A5029556527), [Zhongmin Wan](https://openalex.org/A5033247962), [Zhongfu An](https://openalex.org/A5077529065), [Xiaoguang Wang](https://openalex.org/A5014812749), International Journal of Hydrogen Energy. 59(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.02.027.
-    
-The oxygen reduction reaction (ORR) occurred in acidic media, as the cathode reaction of proton exchange membrane fuel cells (PEMFCs) with great commercialization potential, has attracted much attention. However, the slow kinetics of ORR and the high cost of cathode catalysts (mainly platinum (Pt)-based materials in current) have become the main obstacle to the rapid development of PEMFCs. Therefore, the exploration of efficient and inexpensive non-precious metal-based ORR catalysts has emerged as an urgent issue. Non-noble transition metal-based materials have been widely investigated as ORR catalysts in acidic media. This review focused on the investigation of iron (Fe) based catalysts in acidic ORR processes. In this review, the ORR mechanism was first introduced. Subsequently, the fabrication method of Fe-based catalysts by co-pyrolysis of mixtures containing Fe, non-metal, and organic precursors was discussed. Finally, the recent advances of Fe-based materials (carbides, nitrides, oxides, phosphides, chalcogenides, hybrids, alloys and single atom catalysts) as acidic ORR catalysts were summarized, and mainly focused on catalytic performance, stability and catalytic mechanism studies with Density Functional Theory (DFT) calculation. Finally, the challenges and future perspectives of Fe-based catalysts were also proposed.    
-
-    
-
-## Tackling the activity and selectivity challenges of electrocatalysts towards CO2 reduction reaction via atomically dispersed dual atom catalysts   
-
-OpenAlex: https://openalex.org/W4391733008    
-Open access: False
-    
-[Xiaoqing Lu](https://openalex.org/A5004933770), [Chunyu Yang](https://openalex.org/A5009535082), [Shoufu Cao](https://openalex.org/A5014503942), [Hongyu Chen](https://openalex.org/A5010212263), [Jiao Li](https://openalex.org/A5063922467), [Zengxuan Chen](https://openalex.org/A5041959505), [Shuxian Wei](https://openalex.org/A5089589844), [Siyuan Liu](https://openalex.org/A5010689889), [Zhaojie Wang](https://openalex.org/A5086671763), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159687.
-    
-Atomically dispersed catalysts are widely employed in electrochemical CO2 reduction reaction (CO2RR) owing to maximal atomic utilization and outstanding intrinsic activity. Dual atom catalysts (DACs) can provide dispersed active sites and distinct electronic structure, which is conducive to the catalytic performance. In this work, we explored a series of DACs composed of transition metals or main group metals supported on nitrogen-doped graphene (M2–NC) toward high-performance CO2RR. The radius of metal atom is a key factor determining the stability of M2–NC, that metals (M = Fe, Co, Ni, Cu, Zn, Ru, Rh, Pd, Ag, Sn, Pt, and Bi) with small radius can be steadily anchored. Fe2/Co2/Ru2–NC are screened out to activate CO2 because of the strong interaction between metals d orbitals and CO2 2π orbitals. The results show that Fe2/Co2–NC can promote CO2RR to generate HCOOH with limiting potentials (UL) of −0.36 and −0.25 V. Ru2–NC can catalyze the generation of CH3OH and CH4 with UL of −0.28 V. Limited potential difference between CO2RR and hydrogen evolution reaction (HER) show that Fe2/Co2/Ru2–NC can inhibit HER during CO2RR. This work demonstrates Fe2/Co2/Ru2–NC as high-performance CO2RR catalysts and highlights the type of central metal atoms as a vital role for atomically dispersed electrocatalysts.    
-
-    
 
 ## Highly efficient Ru-based Heusler alloys for nitrogen reduction reaction: Breaking scaling relations and regulating potential determining steps   
 
@@ -285,6 +208,83 @@ Open access: False
 [Abdul Ahad Mamun](https://openalex.org/A5015312239), [Asif Billah](https://openalex.org/A5057663828), [Muhammad Anisuzzaman Talukder](https://openalex.org/A5043378229), International Journal of Hydrogen Energy. 59(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.02.156.
     
 In a water-electrolysis system for hydrogen production, the kinetics of hydrogen evolution reaction (HER) critically depend on the exchange current density (J0) of the electrode. Noble metals, e.g., Pt, Ir, Rh, and Au, offer a significant J0 when used as electrodes, assisting faster HER. However, instead of using expensive noble metals as electrodes, a thin layer on conventional electrodes, e.g., Ni, Cu, Ag, and Mo, also increases J0. An electrode’s J0 during HER is calculated from the free energy of hydrogen adsorption (ΔGH), which is determined from hydrogen adsorption energy (Ead) on the electrode surface. This work considered an Ir atomic monolayer as an electrocatalyst on the (111) plane of conventional Ni, Cu, Ag, and Mo electrodes, producing modified Ir/Ni(111), Ir/Cu(111), Ir/Ag(111), and Ir/Mo(111) electrodes. This work calculated Ead of the modified electrodes using the density functional theory (DFT). In addition, this work develops an advanced kinetic model for the exchange current density considering the concentration of hydrogen ions (CH+) and partial pressure of hydrogen gas (PH2). The dependence of activation overpotential (ηa) vs. J0 relationship on CH+ and PH2 in HER is investigated. For the modified electrodes, J0 increases by 102–103 times compared to the conventional electrodes, resulting in efficient H2 production with low losses.    
+
+    
+
+## Influence of mixing time on a reversal tolerant anode measured ex situ for a PEMFC   
+
+OpenAlex: https://openalex.org/W4391804977    
+Open access: True
+    
+[S.J.T. Homan](https://openalex.org/A5093925985), [Kerem Aylar](https://openalex.org/A5081879752), [Adrian Jurjević](https://openalex.org/A5065770694), [M. Scolari](https://openalex.org/A5093925986), [Atsushi Urakawa](https://openalex.org/A5024785758), [Peyman Taheri](https://openalex.org/A5005538535), International Journal of Hydrogen Energy. 59(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.01.236.
+    
+No abstract    
+
+    
+
+## Mechanism of Nitrogen Coordination Modulation of Fe_Nx@BP System Catalysts on the Activity of Oxygen Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4391806634    
+Open access: False
+    
+[Ching T. Hou](https://openalex.org/A5083639180), [Sen Ming](https://openalex.org/A5035551538), [Keyuan Chen](https://openalex.org/A5041916689), [Ju Rong](https://openalex.org/A5064010494), [Xiaohua Yu](https://openalex.org/A5020582501), [Lian Yu](https://openalex.org/A5019323173), [Hongying Hou](https://openalex.org/A5003488459), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.3c07527.
+    
+No abstract    
+
+    
+
+## Density Functional Theory Study of Nitrogen Fixation Electrocatalysts Based on Two-Dimensional Conjugated Metal–Organic Frameworks   
+
+OpenAlex: https://openalex.org/W4391811694    
+Open access: False
+    
+[Zhengqin Xiong](https://openalex.org/A5077131395), [Ying Xu](https://openalex.org/A5087002942), [An Yu Bao](https://openalex.org/A5002688624), [Sheng Wei](https://openalex.org/A5027533078), [Jie Zhan](https://openalex.org/A5080802636), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05754.
+    
+No abstract    
+
+    
+
+## Improving Nitric Oxide Reduction Reaction through Surface Doping on Superstructures   
+
+OpenAlex: https://openalex.org/W4391812169    
+Open access: False
+    
+[Baokun Zhang](https://openalex.org/A5025112594), [Ying Dai](https://openalex.org/A5086880652), [Baibiao Huang](https://openalex.org/A5091195038), [Zhao Qian](https://openalex.org/A5089630209), [Rajeev Ahuja](https://openalex.org/A5037243808), [Wei Wei](https://openalex.org/A5003799076), Nano Energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109396.
+    
+No abstract    
+
+    
+
+## Fe-N-C core-shell catalysts with single low-spin Fe(Ⅱ)-N4 species for oxygen reduction reaction and high-performance proton exchange membrane fuel cells   
+
+OpenAlex: https://openalex.org/W4391817857    
+Open access: False
+    
+[Wei Yan](https://openalex.org/A5088892322), [Linhui Yu](https://openalex.org/A5049370570), [Binghua Yang](https://openalex.org/A5003825040), [Caihong Li](https://openalex.org/A5000594791), [Fang Chen](https://openalex.org/A5065710684), [Wenlong Guo](https://openalex.org/A5018892257), [Fang‐Xing Xiao](https://openalex.org/A5001193862), [Yangming Lin](https://openalex.org/A5004265199), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.01.074.
+    
+No abstract    
+
+    
+
+## Machine Learning for Polaritonic Chemistry: Accessing Chemical Kinetics   
+
+OpenAlex: https://openalex.org/W4391824217    
+Open access: True
+    
+[Christian Schäfer](https://openalex.org/A5084075259), [Jakub Fojt](https://openalex.org/A5075062937), [Eric Lindgren](https://openalex.org/A5011010155), [Paul Erhart](https://openalex.org/A5062333252), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c12829 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12829)).
+    
+Altering chemical reactivity and material structure in confined optical environments is on the rise, and yet, a conclusive understanding of the microscopic mechanisms remains elusive. This originates mostly from the fact that accurately predicting vibrational and reactive dynamics for soluted ensembles of realistic molecules is no small endeavor, and adding (collective) strong light–matter interaction does not simplify matters. Here, we establish a framework based on a combination of machine learning (ML) models, trained using density-functional theory calculations and molecular dynamics to accelerate such simulations. We then apply this approach to evaluate strong coupling, changes in reaction rate constant, and their influence on enthalpy and entropy for the deprotection reaction of 1-phenyl-2-trimethylsilylacetylene, which has been studied previously both experimentally and using ab initio simulations. While we find qualitative agreement with critical experimental observations, especially with regard to the changes in kinetics, we also find differences in comparison with previous theoretical predictions. The features for which the ML-accelerated and ab initio simulations agree show the experimentally estimated kinetic behavior. Conflicting features indicate that a contribution of dynamic electronic polarization to the reaction process is more relevant than currently believed. Our work demonstrates the practical use of ML for polaritonic chemistry, discusses limitations of common approximations, and paves the way for a more holistic description of polaritonic chemistry.    
+
+    
+
+## Size tuning of Pt nanoparticles on ZrO2: Optimizing catalytic performance for hydrogen evolution and water-splitting reactions - A DFT study   
+
+OpenAlex: https://openalex.org/W4391825258    
+Open access: False
+    
+[Ayyaz Mahmood](https://openalex.org/A5053388355), [Tehmina Akram](https://openalex.org/A5052289075), [Shenggui Chen](https://openalex.org/A5077498462), [Huafu Chen](https://openalex.org/A5091610964), International Journal of Hydrogen Energy. None(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.02.142.
+    
+In heterogeneous catalysis, determining the optimal metal particle size is challenging due to the intricate relationship between particle size, electronic structure, and activity. Here, we investigate the size-dependent activity of Pt nanoparticle (PtNP)-based ZrO2 catalyst for hydrogen evolution reaction (HER) and water-splitting reaction (WSR) using density functional theory (DFT) and ab initio molecular dynamics (AIMD) simulations. By analyzing different Pt nanoparticle sizes (Pt4, Pt7, Pt11, P15, Pt19, and Pt25) supported on ZrO2, we determined their optimized geometries, and electronic structures, and calculated the hydrogen adsorption energies (ΔGH) for HER and activation energies barrier (Δ‡G) for WSR. The calculated results demonstrate that Pt11 is the optimal size for HER, exhibiting the lowest ΔGH (−0.066 eV), while Pt15 shows the lowest Δ‡G (0.24 eV) for WSR. The density of states (DOS) shows that the occupied Pt states fill the gap of ZrO2 (3.72 eV), significantly reducing the band gap (Eg) of the PtNP/ZrO2 composites. The most favorable configuration of the PtNP on ZrO2 for HER and WSR is determined to be a three-Pt-layer structure with rooflike edges which corresponds to a nanoparticle size of ∼0.70–1.55 nm for experiments. These findings can be regarded as an effort toward the design and optimization of metal-based oxide catalysts for renewable energy applications.    
 
     
 

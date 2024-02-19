@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:44:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unleashing the potential of NiO@V2CTx MXene-derived electrocatalyst for hydrogen and oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.01.322</link>
-      <description>Usman Naeem, Syedah Afsheen Zahra, Irfan Ali, Hu Li, Asif Mahmood, Syed Rizwan, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391716775
-
-                No abstract</description>
-      <author>Usman Naeem, Syedah Afsheen Zahra, Irfan Ali, Hu Li, Asif Mahmood, Syed Rizwan</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.322</guid>
-    </item>
     <item>
       <title>Enhanced Synergistic Redox Activity of SrCoS/PANI for Hybrid Energy Storage and Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1088/1402-4896/ad28a4</link>
@@ -258,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1361-6463/ad297c</guid>
     </item>
     <item>
+      <title>Lowering the kinetic barrier via enhancing electrophilicity of surface oxygen to boost acidic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.matt.2024.01.025</link>
+      <description>Ning Han, Xuan Zhang, Chengkai Zhang, Shihui Feng, Wei Zhang, Wei Guo, Runtian Zheng, Renji Zheng, Pengyun Liu, Yunwei Li, Jan Fransaer, Bao&#8208;Lian Su, Matter. None(None)] 2024. https://openalex.org/W4391825290
+
+                The acidic oxygen evolution reaction (OER) is essential for many renewable energy conversion and storage technologies. However, the high energy required to break the strong covalent O-H bond of H2O in acidic media results in sluggish OER kinetics. Here, we report the critical role of iron in a new family of iron-containing yttrium ruthenate (Y2-xFexRu2O7-&#948;) electrocatalysts in highly increasing the electrophilicity of surface oxygen, leading to a significant reduction of the kinetics barrier by 33%, thus an exceptional OER mass activity of 1,021 A &#183; g Ru &#8722; 1 up to 12.4 and 7.7 times that of Y2Ru2O7-&#948; and RuO2, respectively. Introducing iron reduces the Mulliken atomic charge on the O sites in the generated Ru-O-Fe structure, thereby facilitating the acid-base nucleophilic assault from H2O and reducing the free energy on the rate-determining step of OER. This work provides an effective strategy to reduce the kinetics barrier to achieve highly efficient and economic OER in acidic conditions.</description>
+      <author>Ning Han, Xuan Zhang, Chengkai Zhang, Shihui Feng, Wei Zhang, Wei Guo, Runtian Zheng, Renji Zheng, Pengyun Liu, Yunwei Li, Jan Fransaer, Bao&#8208;Lian Su</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2024.01.025</guid>
+    </item>
+    <item>
       <title>Improved oxygen evolution reaction for high-current PEM water electrolysis</title>
       <link>https://doi.org/10.1016/j.checat.2023.100897</link>
       <description>Guoyu Zhong, Shurui Xu, Baizeng Fang, Chem Catalysis. 4(2)] 2024. https://openalex.org/W4391849833
@@ -298,6 +298,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4nj00204k</guid>
     </item>
     <item>
+      <title>Fabrication and characterisation of CrMnFeCoNi high entropy alloy electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.apmt.2024.102128</link>
+      <description>Xun Cao, Applied Materials Today. 37(None)] 2024. https://openalex.org/W4391906377
+
+                Water electrolysis is attracting increasing attention in becoming the main method for green energy production, which has long been hindered by the sluggish kinetics of oxygen evolution reaction (OER) and high cost of noble-metal (NM) containing electrodes. Template replication technique has been employed to fabricate porous CrMnFeCoNi high entropy alloy (HEA) bulk foams with &gt; 95 % porosity. High entropy led to the formation of a single-phase solid solution of transition metals in the as-fabricated porous HEA bulk foam, and the lattice distortion brings about the outstanding OER performance that is close to that of the RuO2 reference sample. Effective electrochemically active surface area and amount of exposed active sites are increased by grinding into nanoparticles, which produced superior OER performance with a near-record low overpotential of &#8764; 245 mV to drive a current density of 10 mA/cm2, a low Tafel slope of 73.6 mV/dec, a double layer capacitance of 102.3 mF, and excellent long-term stability over 24 h. This work demonstrates a cost-effective way to fabricate NM-free HEA electrocatalyst with complex structure and excellent stability in OER, which could help in advancing the research for alkaline water electrolysis.</description>
+      <author>Xun Cao</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apmt.2024.102128</guid>
+    </item>
+    <item>
       <title>Hierarchical sea urchin&#8208;like Fe&#8208;doped heazlewoodite for high&#8208;efficient oxygen evolution</title>
       <link>https://doi.org/10.1002/cphc.202300414</link>
       <description>Ke Shang, Junpo Guo, Yingjun Ma, H.K. Liu, Xiaoling Zhang, Huizhen Wang, Jie Wang, Zhenhua Yan, ChemPhysChem. None(None)] 2024. https://openalex.org/W4391880837
@@ -308,14 +318,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cphc.202300414</guid>
     </item>
     <item>
-      <title>Lowering the kinetic barrier via enhancing electrophilicity of surface oxygen to boost acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.matt.2024.01.025</link>
-      <description>Ning Han, Xuan Zhang, Chengkai Zhang, Shihui Feng, Wei Zhang, Wei Guo, Runtian Zheng, Renji Zheng, Pengyun Liu, Yunwei Li, Jan Fransaer, Bao&#8208;Lian Su, Matter. None(None)] 2024. https://openalex.org/W4391825290
+      <title>Key Role of Subsurface Doping in Optimizing Active Sites of IrO2 for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1039/d4cc00075g</link>
+      <description>Xindi Han, Lu-E Shi, Hui Chen, Xiaoxin Zou, Chemical Communications. None(None)] 2024. https://openalex.org/W4391890840
 
-                The acidic oxygen evolution reaction (OER) is essential for many renewable energy conversion and storage technologies. However, the high energy required to break the strong covalent O-H bond of H2O in acidic media results in sluggish OER kinetics. Here, we report the critical role of iron in a new family of iron-containing yttrium ruthenate (Y2-xFexRu2O7-&#948;) electrocatalysts in highly increasing the electrophilicity of surface oxygen, leading to a significant reduction of the kinetics barrier by 33%, thus an exceptional OER mass activity of 1,021 A &#183; g Ru &#8722; 1 up to 12.4 and 7.7 times that of Y2Ru2O7-&#948; and RuO2, respectively. Introducing iron reduces the Mulliken atomic charge on the O sites in the generated Ru-O-Fe structure, thereby facilitating the acid-base nucleophilic assault from H2O and reducing the free energy on the rate-determining step of OER. This work provides an effective strategy to reduce the kinetics barrier to achieve highly efficient and economic OER in acidic conditions.</description>
-      <author>Ning Han, Xuan Zhang, Chengkai Zhang, Shihui Feng, Wei Zhang, Wei Guo, Runtian Zheng, Renji Zheng, Pengyun Liu, Yunwei Li, Jan Fransaer, Bao&#8208;Lian Su</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matt.2024.01.025</guid>
+                The oxygen evolution reaction (OER) over a family of metal-doped rutile IrO2 catalysts is theoretically investigated by controlling the species and position of doping elements. The subsurface substitution doping is...</description>
+      <author>Xindi Han, Lu-E Shi, Hui Chen, Xiaoxin Zou</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc00075g</guid>
     </item>
     <item>
       <title>Novel nanotubes based on methylene-bridged cycloparaphenyleneas as highly efficient catalysts for oxygen evolution reaction</title>
@@ -326,6 +336,16 @@
       <author>Hazem Abdelsalam, Omar H. Abd&#8208;Elkader, Mohamed A. Saad, Mahmoud A. S. Sakr, Qinfang Zhang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114502</guid>
+    </item>
+    <item>
+      <title>Iridium-Based Perovskites as Efficient Oxygen Evolution Reaction Catalysts in Acid Media</title>
+      <link>https://doi.org/10.1021/acsaenm.3c00713</link>
+      <description>Hossein Fadaei, Carl W. Brown, Georges Houlachi, Houshang Alamdari, ACS Applied Engineering Materials. None(None)] 2024. https://openalex.org/W4391895875
+
+                No abstract</description>
+      <author>Hossein Fadaei, Carl W. Brown, Georges Houlachi, Houshang Alamdari</author>
+      <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsaenm.3c00713</guid>
     </item>
     <item>
       <title>Rational development of PPy/CuWO4 nanostructure as competent electrocatalyst for oxygen evolution, and hydrogen evolution reactions</title>

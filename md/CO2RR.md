@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 18 00:47:08 2024
+Created on Mon Feb 19 00:44:56 2024
 
-Found 27 results from 2024-02-11 to 2024-02-18
+Found 27 results from 2024-02-12 to 2024-02-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -59,6 +59,28 @@ Open access: False
 [Akash Balakrishnan](https://openalex.org/A5023804914), [Meenu Mariam Jacob](https://openalex.org/A5084872777), [Mahendra Chinthala](https://openalex.org/A5013338055), [Nanditha Dayanandan](https://openalex.org/A5083688944), [M. N. Ponnuswamy](https://openalex.org/A5009615295), [Dai‐Viet N. Vo](https://openalex.org/A5072272612), Environmental Chemistry Letters. None(None)] 2024.https://doi.org/10.1007/s10311-024-01696-5.
     
 No abstract    
+
+    
+
+## Benzyl alcohol promoted electrocatalytic reduction of carbon dioxide and C2 production by Cu2O/Cu   
+
+OpenAlex: https://openalex.org/W4391896197    
+Open access: False
+    
+[Qianqian Wang](https://openalex.org/A5062755510), [Xinfa Wei](https://openalex.org/A5002720688), [Yan Li](https://openalex.org/A5038076952), [Juanjuan Luo](https://openalex.org/A5066895322), [Lisong Chen](https://openalex.org/A5032212993), [Jianlin Shi](https://openalex.org/A5085739377), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149800.
+    
+No abstract    
+
+    
+
+## Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study   
+
+OpenAlex: https://openalex.org/W4391907254    
+Open access: True
+    
+[Fontenot Andee](https://openalex.org/A5093948541), [Chuan Liu](https://openalex.org/A5053122964), [Dewan Karuna](https://openalex.org/A5093948542), Journal of sleep disorders and management. 9(1)] 2024.https://doi.org/10.23937/2572-4053.1510043 ([pdf](https://clinmedjournals.org/articles/jsdm/journal-of-sleep-disorders-and-management-jsdm-9-043.pdf?jid=jsdm)).
+    
+Obstructive sleep apnea (OSA) is characterized by frequent episodes of upper airway collapse during sleep. The lingual tonsil, when hypertrophic, can contribute to airway obstruction. The purpose of this study was to establish the utility and safety of the carbon dioxide (CO2) laser for tonsillar reduction in the management of OSA.    
 
     
 
@@ -147,28 +169,6 @@ Open access: False
 [Quan Zhang](https://openalex.org/A5055720455), [Yangshen Chen](https://openalex.org/A5045304582), [Shuai Yan](https://openalex.org/A5035054349), [Ximeng Lv](https://openalex.org/A5046867944), [Chao Yang](https://openalex.org/A5006812397), [Min Kuang](https://openalex.org/A5006596822), [Gengfeng Zheng](https://openalex.org/A5062325923), Energy and Environmental Science. None(None)] 2024.https://doi.org/10.1039/d4ee00087k.
     
 The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...    
-
-    
-
-## A surface strategy boosting the ethylene selectivity for CO2 reduction and in situ mechanistic insights   
-
-OpenAlex: https://openalex.org/W4391722107    
-Open access: True
-    
-[Yinchao Yao](https://openalex.org/A5026369478), [Tong Shi](https://openalex.org/A5007250882), [Wenxing Chen](https://openalex.org/A5014698348), [Jiu Hui Wu](https://openalex.org/A5060256814), [Yunying Fan](https://openalex.org/A5066609661), [Yichun Liu](https://openalex.org/A5029215411), [Liang Cao](https://openalex.org/A5020824627), [Zhuo Chen](https://openalex.org/A5066940770), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-45704-2 ([pdf](https://www.nature.com/articles/s41467-024-45704-2.pdf)).
-    
-Abstract Electrochemical reduction of carbon dioxide into ethylene, as opposed to traditional industrial methods, represents a more environmentally friendly and promising technical approach. However, achieving high activity of ethylene remains a huge challenge due to the numerous possible reaction pathways. Here, we construct a hierarchical nanoelectrode composed of CuO treated with dodecanethiol to achieve elevated ethylene activity with a Faradaic efficiency reaching 79.5%. Through on in situ investigations, it is observed that dodecanethiol modification not only facilitates CO 2 transfer and enhances *CO coverage on the catalyst surfaces, but also stabilizes Cu(100) facet. Density functional theory calculations of activation energy barriers of the asymmetrical C–C coupling between *CO and *CHO further support that the greatly increased selectivity of ethylene is attributed to the thiol-stabilized Cu(100). Our findings not only provide an effective strategy to design and construct Cu-based catalysts for highly selective CO 2 to ethylene, but also offer deep insights into the mechanism of CO 2 to ethylene.    
-
-    
-
-## A comparison between 2D and 3D cobalt–organic framework as catalysts for electrochemical CO2 reduction   
-
-OpenAlex: https://openalex.org/W4391719630    
-Open access: True
-    
-[Neda Sadat Barekati](https://openalex.org/A5071460244), [Hossein Farsi](https://openalex.org/A5059917325), [Alireza Farrokhi](https://openalex.org/A5057292515), [Shokufeh Moghiminia](https://openalex.org/A5087760602), Heliyon. None(None)] 2024.https://doi.org/10.1016/j.heliyon.2024.e26281 ([pdf](http://www.cell.com/article/S2405844024023120/pdf)).
-    
-Electrocatalytic CO2 reduction, as an effective way to reduce the CO2 concentration, has gained attention. In this study, we prepared ZIF-67 nanoparticles and nanosheets and investigated them as electrocatalysts for CO2 reduction. It was found that ZIF-67 nanosheets, because of their two–dimensional morphologies, provide more under–coordinated cobalt nodes and have lower overpotentials for both hydrogen evolution and CO2 reduction reactions. Also, the rate–determining step for hydrogen evolution changes from Volmer for ZIF-67 nanoparticles to Hyrovsky for ZIF-67 nanosheets. Also, the presence of Mg2+ ions in solution causes more facile CO2 reduction, especially for ZIF-67 nanosheets.    
 
     
 
@@ -293,13 +293,13 @@ A series of photocatalysts containing various loadings of carbon dots (CD) on mi
 
     
 
-## Comparative Study for the Electrodeposited Cadmium Chalcogenide by Potentiostatic and Potentiodynamic Methods for Electrochemical Reduction of CO2   
+## Promoting CuO/Cu(OH)2 for electrocatalytic reduction of CO2 to HCOOH: The study on pyridine-modified surface active sites   
 
-OpenAlex: https://openalex.org/W4391730965    
-Open access: True
+OpenAlex: https://openalex.org/W4391764442    
+Open access: False
     
-[Amira Gelany](https://openalex.org/A5093907500), [Hossnia S. Mohran](https://openalex.org/A5061832432), [Mahmoud Elrouby](https://openalex.org/A5053521441), Sohag Journal of Sciences. 9(2)] 2024.https://doi.org/10.21608/sjsci.2024.236449.1123 ([pdf](https://sjsci.journals.ekb.eg/article_339158_28ee088a7ff3241151bc926c7acbcddb.pdf)).
+[Ying Zhou](https://openalex.org/A5077971774), [Xiaohui Ren](https://openalex.org/A5033340683), [Xusheng Wang](https://openalex.org/A5059782921), [Jiayao Mao](https://openalex.org/A5073984605), [Haoran Zhang](https://openalex.org/A5092090327), [J. Wang](https://openalex.org/A5073107875), [Yisi Yang](https://openalex.org/A5007794906), [Feng Ma](https://openalex.org/A5008975622), [Huating Liu](https://openalex.org/A5076134997), [Na Feng](https://openalex.org/A5058451154), [Rongsheng Chen](https://openalex.org/A5042310703), [Hongwei Ni](https://openalex.org/A5067889565), Molecular Catalysis. 556(None)] 2024.https://doi.org/10.1016/j.mcat.2024.113929.
     
-No abstract    
+Copper-based catalysts have been extensively investigated for electrocatalytic reduction of CO2 owing to their unique capabilities. To our notice, organic molecules can be employed as molecular modifiers to tailor the CO2 reduction selectivity of Cu-based catalysts. Herein, three kinds of molecular modifiers, pyridine, triethylamine, and potassium hydroxide have been utilized for fabricating Cu-based electrocatalysts. Experimental investigations reveal that pyridine as molecular modifiers have the ability to alter the surface active sites of the Cu-based catalysts. The modification can facilitate the conversion of CO2 into HCOOH. Notably, the highest Faradaic efficiency achieved in our tests for HCOOH can reach to an impressive value of 80.2 %. Moreover, the catalyst maintains its structure and performance with high stability that exceeding 10 h at a current density of 30 mA cm−2 (-1.1 V vs. RHE). Based on structural characterization and theoretical calculations, we propose that the pyridine molecule can facilitate CO2 accumulation, and the pyridine modification of the CuO/Cu(OH)2 surface active site can reduce the reaction energy barrier for the electrocatalytic reduction of CO2 to HCOOH.    
 
     

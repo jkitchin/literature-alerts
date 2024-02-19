@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Feb 2024 00:47:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 00:44:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Remarkable Influence of La(III)/&lt;i&gt;N,N&lt;/i&gt;&#8242;-Dioxide Structure on Asymmetric Formal Substitution of 3-Bromo-3-substituted Oxindoles with TMSCN</title>
-      <link>https://doi.org/10.1021/acscatal.3c06130</link>
-      <description>Zi Zeng, Longqing Yang, Xiao Zhang, Long Chen, Ziwei Zhong, Fei Wang, Xiaohua Liu, Shujuan Dong, Xiaoming Feng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391719372
-
-                The structural elucidation of chiral rare-earth-based catalysts in asymmetric reactions holds significant importance as it is crucial for comprehending their operational mechanisms and for broadening their applications in the realm of asymmetric synthesis. Herein, a LaIII/(L3-RaMe3)2 complex was identified to be more active and enantioselective than LaIII/L3-RaMe3 in the asymmetric formal substitution of racemic 3-bromo-3-substituted oxindoles with TMSCN. The experimental studies and theoretical calculations disclosed that the partial dissociation of the chiral N,N&#8242;-dioxide ligand was involved in the catalytic process with LaIII/(L3-RaMe3)2. These insights provided a rationale for the remarkable effect of catalyst structures on the results and nonlinear effect observed in the current reaction system. This protocol offers a straightforward and efficient pathway to synthesize various chiral 3-cyano-3-substituted oxindoles (53 examples, up to 99% yield, 98% ee). In addition, the synthesis of a bioactive compound CRTH2 receptor antagonist and obvious inhibitory effect of several products on the viability of cancer cells demonstrate the potential utility of this methodology.</description>
-      <author>Zi Zeng, Longqing Yang, Xiao Zhang, Long Chen, Ziwei Zhong, Fei Wang, Xiaohua Liu, Shujuan Dong, Xiaoming Feng</author>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06130</guid>
-    </item>
     <item>
       <title>Surface Strain Effect on Electrocatalytic Hydrogen Evolution Reaction of Pt-Based Intermetallics</title>
       <link>https://doi.org/10.1021/acscatal.3c06291</link>
@@ -256,6 +246,16 @@
       <author>Chansol Kim, Nitish Govindarajan, Sydney Hemenway, Jun Ho Park, Anya Zoraster, Calton J. Kong, Rajiv Ramanujam Prabhakar, Joel B. Varley, Hee&#8208;Tae Jung, Christopher Hahn, Joel W. Ager</author>
       <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05904</guid>
+    </item>
+    <item>
+      <title>Tuning the CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Activity via Regulating the Strong Metal&#8211;Support Interactions of the Ni/Sm&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.3c06345</link>
+      <description>Jianxiong Zhao, Xiaozhi Liu, Zhengwen Li, Kai Feng, Yue Pan, Pengxiang Ji, Kangning Zhao, Binhang Yan, Dan Zhou, Dong Su, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391823363
+
+                Strong metal&#8211;support interactions (SMSIs), characterized by the encapsulation of metal nanoparticles by the support oxide, have a significant impact on various heterogeneous catalytic reactions. In this study, we present our investigations on tuning the catalytic performance of CO2 hydrogenation through regulating the SMSI in a Ni/Sm2O3 catalyst. Our results demonstrate that the complete encapsulation of Ni nanoparticles with amorphous Sm2O3, achieved through H2 reduction, leads to nearly full selectivity to CO. In contrast, with controlled in situ thermal postannealing in an H2/CO2/N2 mixture, the encapsulated Sm2O3 layer can be partially removed and crystallized, as revealed by atomic-resolution transmission electron microscopy analyses, which results in enhanced activity and a full selectivity toward CH4. In addition, the prolonged postannealing durations completely remove the Sm2O3 overlayer, causing a decline in CO2 methanation activity. These findings underscore the critical role of the SMSI effect in CO2 hydrogenation activity and offer valuable insights for regulating SMSI to produce targeted value-added chemicals.</description>
+      <author>Jianxiong Zhao, Xiaozhi Liu, Zhengwen Li, Kai Feng, Yue Pan, Pengxiang Ji, Kangning Zhao, Binhang Yan, Dan Zhou, Dong Su</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06345</guid>
     </item>
   </channel>
 </rss>
