@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 19 Feb 2024 00:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 00:43:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Highly efficient Ru-based Heusler alloys for nitrogen reduction reaction: Breaking scaling relations and regulating potential determining steps</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159686</link>
-      <description>Xiayong Chen, Jing Zhou, Wangyu Hu, Bowen Huang, Dingwang Yuan, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391733718
-
-                In this study, we investigated the catalytic activity of Ru-based Heusler alloys towards the nitrogen reduction reaction (NRR) using first-principles calculations. Compared to pure Ru metal, these alloys exhibit a significant reduction in the overpotential, showcasing enhanced catalytic performance. The most promising candidate, the Ru2ScP alloy, demonstrates an impressively low overpotential of only &#8722;0.40 V for the NRR, and it also exhibits higher selectivity towards NRR over the hydrogen evolution reaction (HER). Furthermore, we found that several key adsorbates on the surface of the candidate alloys simultaneously exhibit non-linear scaling relationships of adsorption free energies. This allows for individual control over the barrier of potential determining steps (PDS) in the NRR process by overcoming the limitation of the scaling relations in pure metals. This study offers valuable guidance for the design of Ru-based Heusler alloys to obtain improved catalytic performance for the NRR.</description>
-      <author>Xiayong Chen, Jing Zhou, Wangyu Hu, Bowen Huang, Dingwang Yuan</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159686</guid>
-    </item>
-    <item>
-      <title>Surface Strain Effect on Electrocatalytic Hydrogen Evolution Reaction of Pt-Based Intermetallics</title>
-      <link>https://doi.org/10.1021/acscatal.3c06291</link>
-      <description>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391738668
-
-                Elucidating the relationship between electrocatalytic activity and surface strain is pivotal for designing highly efficient electrocatalysts for the acidic hydrogen evolution reaction (HER). However, a general correlation is currently absent due to the lack of ideal catalytic materials platforms with well-defined structures and components. Herein, we select L10 and L12 Pt-based intermetallic compounds as model materials to construct a series of core&#8211;shell catalysts with strained Pt skins (IMC@Pt) and establish the correlation between surface strain and HER performance. Density functional theory calculations were performed to determine the surface strain degree, d-band center, and key descriptor &#916;GH* of the catalysts for HER. By combining theoretical and experimental data, we propose a volcano-type trend between surface strain and the HER activity of IMC@Pt with an apex at 4% compressive strain. In addition, we demonstrate a class of highly active and durable IMC@Pt catalysts for acidic HER. Among them, the Pt3V@Pt catalyst exhibits the highest intrinsic HER activity with a specific activity of 4.24 mA cmPt&#8211;2 at an overpotential of 20 mV, which is 4 times higher than that of Pt. This work provides a solid understanding of the essential nature of PtM alloy catalysts and can guide the design of high-performance HER catalysts for water electrolyzers.</description>
-      <author>Z.Y. Zhong, Yuanhua Tu, Longhai Zhang, Ke Jiang, Chengzhi Zhong, Wei Tan, Lingyu Wang, Jiaxi Zhang, Hui&#8208;Hua Song, Li Du, Zhiming Cui</author>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06291</guid>
-    </item>
     <item>
       <title>Surface Electronic Properties-Driven Electrocatalytic Nitrogen Reduction on Metal-Conjugated Porphyrin 2D-MOFs</title>
       <link>https://doi.org/10.1021/acsami.3c16406</link>
@@ -256,6 +236,26 @@
       <author>Ayyaz Mahmood, Tehmina Akram, Shenggui Chen, Huafu Chen</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.142</guid>
+    </item>
+    <item>
+      <title>High-Calorific Biohydrogen Production Under High Pressure: Ca2+ Addition, Theoretical Prediction, and Continuous Operation</title>
+      <link>https://doi.org/10.2139/ssrn.4725685</link>
+      <description>Om Prakash, Masoud Makian, Young-Chae Song, Seoktae Kang, Dong Hoon Kim, No host. None(None)] 2024. https://openalex.org/W4391826431
+
+                The removal of CO2 (called &#8220;upgrading&#8221;) is essential in bio-H2 production processes including dark fermentation (DF), which is energy-intensive and adds economic burden. Here, it was attempted to generate high-calorific bio-H2 (high H2-content) directly from the fermenter under high pressure in the presence of Ca2+. High pressure was automatically generated by holding the produced gas at a certain limit.Batch test results showed that Ca2+ addition was helpful to keep the pH by precipitating with dissolved CO2, resulting in the gradual increase of H2 content to 93% at 17.5 bar (vs. 77% at 11.2 bar in the control). Then, the theoretical approaches, based on balance and equilibrium equations, were made to investigate the effects of Ca2+ addition at different dosages (0-1 g CaCl2/L) under different pressures during continuous operation. It was found that the H2 content around 90% at the permissible pressure (&#8804;10 bar) can be only achieved at 1 g CaCl2/L addition. Lastly, continuous operation of DF was conducted in an up-flow anaerobic sludge blanket reactor fed with glucose (10 g COD/L) with 1 g CaCl2/L addition. The H2 content in bio-H2 gradually increased with the pressure increase, from 49.5% at 1 bar to 84.9% at 9 bar. No distinct changes in morphological and physico-chemical properties were observed in the granules exposed at different pressures. Although there was a drop in the amount of H2 produced due to the increase in dissolved H2 and metabolic shift as pressure increased, the decrease in upgrading cost made high-pressure DF economically feasible.</description>
+      <author>Om Prakash, Masoud Makian, Young-Chae Song, Seoktae Kang, Dong Hoon Kim</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4725685</guid>
+    </item>
+    <item>
+      <title>MatNexus: A comprehensive text mining and analysis suite for materials discovery</title>
+      <link>https://doi.org/10.1016/j.softx.2024.101654</link>
+      <description>Lei Zhang, Markus Stricker, SoftwareX. 26(None)] 2024. https://openalex.org/W4391836100
+
+                No abstract</description>
+      <author>Lei Zhang, Markus Stricker</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.softx.2024.101654</guid>
     </item>
     <item>
       <title>Accelerated Structural Optimization for the Supported Metal System Based on Hybrid Approach Combining Bayesian Optimization with Local Search</title>
