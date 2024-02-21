@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 09 Feb 2024 00:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:44:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>General Synthesis of Composition&#8208;Tunable High&#8208;Entropy Amorphous Oxides Toward High Efficiency Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/smll.202310786</link>
-      <description>Shunda Jiang, Yihang Yu, Huan He, Zhiyuan Wang, Runguo Zheng, Hongyu Sun, Yanguo Liu, Dan Wang, Small. None(None)] 2024. https://openalex.org/W4391607819
-
-                Abstract High&#8208;entropy materials have attracted much attention in the electrocatalysis field due to their unique structure, high chemical activity, and compositional tunability. However, the harsh and complex synthetic methods limit the application of such materials. Herein, a universal non&#8208;equilibrium liquid&#8208;phase synthesis strategy is reported to prepare high&#8208;entropy amorphous oxide nanoparticles (HEAO&#8208;NPs), and the composition of HEAO&#8208;NPs can be precisely controlled from tri&#8208; to ten&#8208;component. The non&#8208;equilibrium synthesis environment provided by an excessively strong reducing agent overcomes the difference in the reduction potentials of various metal ions, resulting in the formation of HEAO&#8208;NPs with a nearly equimolar ratio. The oxygen evolution reaction (OER) performance of HEAO&#8208;NPs is further improved by adjusting the composition and optimizing the electronic structure. The Fe 16 Co 32 Ni 32 Mn 10 Cu 10 BO y exhibits a smaller overpotential (only 259 mV at 10 mA cm &#8722;2 ) and higher stability in OER compared with commercial RuO 2 . The amorphous high&#8208;entropy structure with an optimized concentration of iron makes the binding energy of CoNi shift to a higher direction, promotes the generation of high&#8208;valence active intermediates, and accelerates the OER kinetic process. The HEAO&#8208;NPs have promising application potential in the field of catalysis, biology, and energy storage, and this work provides a general synthesis method for composition&#8208;controllable high&#8208;entropy materials.</description>
-      <author>Shunda Jiang, Yihang Yu, Huan He, Zhiyuan Wang, Runguo Zheng, Hongyu Sun, Yanguo Liu, Dan Wang</author>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310786</guid>
-    </item>
-    <item>
-      <title>Flash &lt;scp&gt;Joule&lt;/scp&gt;&#8208;heating synthesis of &lt;scp&gt;MoO&lt;sub&gt;2&lt;/sub&gt;&lt;/scp&gt; nanocatalysts in graphene aerogel for deep catalytic oxidative desulfurization</title>
-      <link>https://doi.org/10.1002/aic.18357</link>
-      <description>Dong Xia, Heng Li, Peng Huang, Wenyu Zhou, Alexander N. Kulak, Ningjing Luo, Qun Li, AIChE Journal. None(None)] 2024. https://openalex.org/W4391613958
-
-                Abstract Ultra&#8208;high&#8208;temperature flash Joule&#8208;heating of organometallic precursor&#8208;embedded reduced graphene oxide (rGO) aerogel represents a highly efficient approach for the ultrafast production of nanocatalysts, while such a methodology has been scarcely applied to 3D nanocarbon&#8208;based aerogel monoliths. Herein, we demonstrate the rapid synthesis of MoO 2 nanoparticles within the aerogel matrix via a 1&#8208;s high&#8208;temperature flash Joule&#8208;heating process (~1700&#176;C), resulting in the formation of the hybrid MoO 2 @rGO aerogel with uniformly distributed nanoparticles. Nitrogen adsorption/desorption analysis indicates discernible internal microstructural disparities attributed to the additional 1&#8208;s flash&#8208;heating and the substantial generation of MoO 2 nanoparticles. This aerogel exhibits exceptional catalytic functionality, achieving up to 99.8% efficiency in converting dibenzothiophene to dibenzothiophene sulfone. Density functional theory calculations provide insights into the catalytic mechanism, revealing that the Mo center shows accumulated electron density contributed from the electron&#8208;rich graphene substrate. This electron density enhancement significantly enhances the catalytic activity, enabling deep desulfurization. The proposed flash nanocatalyst synthesis approach presented here can be extended to fabricate multimetallic nanocatalysts and high&#8208;entropy alloys within the cylindrical aerogel entity, exhibiting great potential for applications in industry&#8208;relevant flow chemistry, electrochemistry, industrial catalysis, and beyond.</description>
-      <author>Dong Xia, Heng Li, Peng Huang, Wenyu Zhou, Alexander N. Kulak, Ningjing Luo, Qun Li</author>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18357</guid>
-    </item>
   </channel>
 </rss>

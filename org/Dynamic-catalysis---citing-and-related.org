@@ -1,30 +1,10 @@
 #+filetags: Dynamic_catalysis_-_citing_and_related
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Fri Feb  9 00:43:00 2024
+Created on Wed Feb 21 00:44:08 2024
 
-Found 1 results from 2024-02-02 to 2024-02-09
+Found 0 results from 2024-02-14 to 2024-02-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 
-* Catalytic resonance theory: Circumfluence of programmable catalytic loops  :Dynamic_catalysis___citing_and_related:
-:PROPERTIES:
-:ID: https://openalex.org/W4391562623
-:TOPICS: Origin of Life and Prebiotic Chemistry, Advancements in Density Functional Theory, Molecular Electronic Devices and Systems
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2024.115343")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391562623"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391562623"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391562623"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391562623 (Open access: False)
-    
-[[https://openalex.org/A5051959855][Madeline Murphy]], [[https://openalex.org/A5030610409][Sallye R. Gathmann]], [[https://openalex.org/A5065773454][Christopher J. Bartel]], [[https://openalex.org/A5022932212][Omar A. Abdelrahman]], [[https://openalex.org/A5003718847][Paul J. Dauenhauer]], Journal of Catalysis. None(None)] 2024. https://doi.org/10.1016/j.jcat.2024.115343 
-     
-No abstract    
-
-    

@@ -1,29 +1,18 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Feb  9 00:42:52 2024
+Created on Wed Feb 21 00:44:02 2024
 
-Found 2 results from 2024-02-02 to 2024-02-09
+Found 1 results from 2024-02-14 to 2024-02-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
-## A mixed integer linear programming approach for the design of chemical process families   
+## Utilizing modern computer architectures to solve mathematical optimization problems: A survey   
 
-OpenAlex: https://openalex.org/W4391543039    
+OpenAlex: https://openalex.org/W4391848869    
 Open access: False
     
-[Georgia Stinchfield](https://openalex.org/A5007541692), [Josh Morgan](https://openalex.org/A5086695747), [Sakshi Naik](https://openalex.org/A5054628015), [Lorenz T. Biegler](https://openalex.org/A5052825722), [John Eslick](https://openalex.org/A5054865843), [C.A. Jacobson](https://openalex.org/A5045412845), [David C. Miller](https://openalex.org/A5061592458), [John Daniel Siirola](https://openalex.org/A5047681120), [Miguel Zamarripa](https://openalex.org/A5015881602), [Chen Zhang](https://openalex.org/A5034855502), [Qi Zhang](https://openalex.org/A5026984704), [Carl D. Laird](https://openalex.org/A5030631754), Computers & Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108620.
+[David E. Bernal Neira](https://openalex.org/A5015746295), [Carl D. Laird](https://openalex.org/A5030631754), [Laurens Lueg](https://openalex.org/A5017863327), [Stuart M. Harwood](https://openalex.org/A5020564160), [Dimitar Trenev](https://openalex.org/A5048990981), [Davide Venturelli](https://openalex.org/A5044443085), Computers & Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108627.
     
-The need for rapid and widespread deployment of new technologies to address climate change goals (e.g., deep, economy-wide decarbonization) presents new opportunities for advancing modular design strategies. Conventional engineering approaches focus on unique designs for each installation, while missing opportunities for manufacturing standardization. Extending insights from the automotive industry, we optimize a platform of common unit module designs while simultaneously designing an entire family of process variants that make use of that platform. This reduces engineering effort, deployment timelines, and manufacturing costs. We propose a nonlinear generalized disjunctive programming formulation and convert this to an efficient mixed-integer linear programming (MILP) formulation through discretization of the design space. We formulate our optimization in Pyomo with costing from IDAES, and we demonstrate the computational performance and solution quality on a water treatment desalination system from the PARETO framework and a carbon capture system built in Aspen Plus® as part of CCSI2.    
-
-    
-
-## Opyrability: A Python package for process operability analysis   
-
-OpenAlex: https://openalex.org/W4391573070    
-Open access: True
-    
-[Victor Alves](https://openalex.org/A5033439256), [San Dinh](https://openalex.org/A5059801671), [John R. Kitchin](https://openalex.org/A5003442464), [Vitor Gazzaneo](https://openalex.org/A5028703671), [Juan C. Carrasco](https://openalex.org/A5049224685), [Fernando V. Lima](https://openalex.org/A5008955099), Journal of open source software. 9(94)] 2024.https://doi.org/10.21105/joss.05966 ([pdf](https://joss.theoj.org/papers/10.21105/joss.05966.pdf)).
-    
-No abstract    
+Numerical algorithms to solve mathematical optimization problems efficiently are essential to applications in many areas of engineering and computational science. To solve optimization problems of ever-increasing scale and complexity, we need methods that exploit emerging hardware systems. However, the complexities of specific architectures and their impact on performance can be challenging. This article provides an overview of emerging hardware architectures and how they are used to solve mathematical optimization problems. We focus on parallel high-performance computing architectures, which are well-established yet challenging to employ for optimization, as well as digital quantum computing, which has recently gained attention due to its potential for transformative computational performance. Furthermore, we highlight several other emerging hardware architectures that may become relevant for mathematical optimization. We intend for this review to encourage the optimization and process engineering communities to increasingly consider both hardware and software developments in the pursuit of superior computational performance.    
 
     
