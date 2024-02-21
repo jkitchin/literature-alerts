@@ -53,7 +53,7 @@ def run_query(topic, since):
 
 
 def get_abstract(result):
-    """Retrun a rendered abstract for RESULT.
+    """Return a rendered abstract for RESULT.
     """
     aii = result.get('abstract_inverted_index', None)
     word_index = []
