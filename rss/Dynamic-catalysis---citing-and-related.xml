@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:44:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Progress in Single/Multi Atoms and 2D&#8208;Nanomaterials for Electro/Photocatalytic Nitrogen Reduction: Experimental, Computational and Machine Leaning Developments</title>
-      <link>https://doi.org/10.1002/aenm.202304106</link>
-      <description>Aditya Narayan Singh, Rohit Anand, Mohammad Zafari, Miran Ha, Kwang S. Kim, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4391751653
-
-                Abstract The conversion of atmospheric nitrogen (N 2 ) into ammonia (NH 3 ), known as nitrogen fixation, plays a crucial role in sustaining life on Earth, facing innovation with electrocatalytic and photocatalytic methods. These approaches promise gentler conversions from atmospheric nitrogen to ammonia, diverging from the energy&#8208;intensive Haber&#8208;Bosch process, which requires complex plant infrastructure. Vitality lies in eco&#8208;friendly, cost&#8208;effective, and energy&#8208;efficient pathways. The challenge is that electrocatalysts and photocatalysts for nitrogen reduction have shown low Faraday efficiency, hampered by hydrogen evolution. This work delves into recent strides in electro/photo&#8208;catalytic nitrogen fixation/reduction, deciphering mechanisms, catalysts, and prospects. By unveiling the core principles steering these processes, it dissects efficiency drivers. Experimental and theoretical studies, ranging from density functional calculations/simulations to machine learning&#8208;based catalyst screening, mark the path toward highly efficient catalysts, including single/multi&#8208;atom catalysts embedded in 2D materials. The journey explores diverse catalysts, assessing their performance, spotlighting emerging nanomaterials, heterostructures, and co&#8208;catalyst techniques. Perspectives on future directions and potential applications of electro/photo&#8208;catalytic nitrogen fixation/reduction are offered, by emphasizing their role in sustainable nitrogen management and their implications for global agriculture and environmental sustainability.</description>
-      <author>Aditya Narayan Singh, Rohit Anand, Mohammad Zafari, Miran Ha, Kwang S. Kim</author>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304106</guid>
-    </item>
   </channel>
 </rss>

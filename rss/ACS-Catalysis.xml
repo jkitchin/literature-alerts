@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:44:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>From Functional Plasticity of Two Diterpene Synthases (IrTPS2/IrKSL3a) to Enzyme Evolution</title>
-      <link>https://doi.org/10.1021/acscatal.3c05918</link>
-      <description>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391745873
-
-                Terpenoids are an intriguing class of natural products with diverse structures and biological activities whose complexity stems in large part from terpene synthases (TPSs). These enzymes catalyze carbocationic cascade reactions wherein the groups responsible for quenching the final carbocation are generally not well-known. IrKSL3a and IrTPS2 from Isodon rubescens share 98% sequence homology but use distinct quenching strategies, with IrKSL3a catalyzing direct deprotonation to generate the olefin isopimaradiene while IrTPS2 adds water to yield the hydroxylated nezukol. In this work, we discovered a threonine and serine that hydrogen-bond the water to be added in IrTPS2. Site-directed mutagenesis and multiscale QM/MM simulations of modeled structures further reveal that the binding of this water is blocked by the introduction of a &#946;-methyl-containing side chain in a neighboring residue. From these insights, it was then possible to engineer IrKSL3a to generate nezukol, with other new hydroxylated products also observed. Inspired by these mechanistic insights into the functional plasticity of IrKSL3a and IrTPS2, we explored the plausible evolutionary relationship of these kaurene synthase-like (KSL) TPSs, as well as prospective utilization of these plasticity sites discovered in IrTPS2/IrKSL3a. Such experiments with a variety of more phylogenetically distant KSLs demonstrated that these residues are necessary but not sufficient to efficiently introduce such an addition of water, emphasizing the selective pressure underlying the extended evolutionary process for the production of nezukol by IrTPS2.</description>
-      <author>Baolong Jin, Kangwei Xu, Juan Guo, Ying Ma, Jian Yang, Nianhang Chen, Tao Zeng, Jian Wang, Jianing Liu, Ming Tian, Qing Ma, Haiyan Zhang, Reuben J. Peters, Guanghong Cui, Ruibo Wu, Luqi Huang</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05918</guid>
-    </item>
-    <item>
-      <title>Tandem Chemical Depolymerization and Photoreforming of Waste PET Plastic to High-Value-Added Chemicals</title>
-      <link>https://doi.org/10.1021/acscatal.3c05535</link>
-      <description>Mei Li, Shengbo Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391745876
-
-                Photoreforming of poly(ethylene terephthalate) (PET) wastes to high-value-added chemicals is an emerging and promising approach. Nonetheless, a major obstacle is the harsh alkaline pretreatment (COH&#8211; = 5&#8211;10 M) to depolymerize PET, resulting in a surge in processing costs and also posing great challenges to subsequent photocatalytic devices, catalysts, and photocatalytic efficiency. Herein, we introduce a tandem process of chemical depolymerization and photoreforming of waste PET plastics. Depolymerization of PET to monomers is achieved through an intramolecular hydrolysis mechanism on a binuclear zinc catalyst under mild conditions (COH&#8211; &#8804; 0.1 M and T &#8804; 60 &#176;C). Compared with the traditional harsh alkali pretreatment, the depolymerization rate can be increased by nearly an order of magnitude due to the proximity effect of the bimetallic sites. Technoeconomic analysis shows that processing 50,000 tons of plastic annually can save 15.2 million USD. The photoreforming of PET to formic acid and H2 with an impressive production rate of 2000 &#956;mol gcat&#8211;1 h&#8211;1 was achieved on an ultrasmall carbon nitride nanosphere photocatalyst, which is nearly 5-fold higher than the corresponding strong alkali pretreatment system. Mechanism research reveals high photocatalytic activity thanks to the mild PET pretreatment and the efficient electron&#8211;hole separation caused by the ultrasmall carbon nitride nanosphere size structure and the electron capture effect of metal Pt. We also demonstrate a gram-scale integrated process for real-world PET plastic wastes including water bottles, clothing fibers, towels, carpets, and mixed plastics containing PET. Our study establishes a new concept of tandem catalysis to reduce the harsh pretreatment of PET by using a synthetic catalyst in polyester plastic photoreforming technology.</description>
-      <author>Mei Li, Shengbo Zhang</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05535</guid>
-    </item>
-    <item>
-      <title>Oxygen Dynamics in Lean Propylene Catalytic Combustion over CeO&lt;sub&gt;2&lt;/sub&gt; and Pr&lt;sub&gt;6&lt;/sub&gt;O&lt;sub&gt;11&lt;/sub&gt;: Roles and Interplay between Lattice and Adsorbed Oxygen Species</title>
-      <link>https://doi.org/10.1021/acscatal.3c05556</link>
-      <description>Xiwei Gao, L. Li, Yuquan Liu, Zheng Chen, Wei Liu, Min Li, Xiaodong Wu, Shuang Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391748560
-
-                In 1954, Mars and van Krevelen proposed the famous &#8220;redox&#8221; mechanism to rationalize the oxidation of hydrocarbons (HCs) over vanadium oxide catalysts. According to this mechanism, the reduction of oxide catalysts (hydrogen abstraction, dehydroxylation, and metal&#8211;oxygen bond cleavage) are kinetically relevant in most cases, and oxides with high reducibility can be made into catalysts with high activity for HC (deep) oxidation. Such a framework, however, cannot explain the fact that Pr6O11 with the most liable lattice oxygen among lanthanide oxides is a worse low-temperature propylene oxidizer than CeO2. In this article, by comparing the kinetic/isotopic performance and the reduction/reoxidation behavior of rod-like CeO2 and Pr6O11 counterparts during lean propylene catalytic combustion, it was suggested that both these lanthanide oxides ignited propylene via a classical redox mechanism, while the reactive oxygen species involved in their following reactions were quite different. Specifically, the reactions over Pr6O11 were limited by the replenishment of lattice oxygen&#9472;the consistent workhorse reactive phase of this catalyst, and could be effectively accelerated at elevated temperature with a drastic dropping in the apparent activation energy (Eaapp, from 75.9 to 60.1 kJ/mol). In contrast, due to the relatively low electrochemical reduction potential of Ce4+/Ce3+ (1.74 eV) than that of Pr4+/Pr3+ (3.2 eV), the propylene-induced defective sites (e.g., Ce3+&#8211;VO) on CeO2&#8211;x readily donated Ce3+ 4f1 electrons to adsorbed O2 during the reoxidation steps in the redox cycles, giving rise to adsorbed oxygen species like O22&#8211; and O&#8211;. These electrophilic Oxn&#8211; species played active roles in the following reduction steps. Benefited from the &#8220;shallow&#8221; reactive region and therefore multiplied redox cycles of CeO2, such an &#8220;Oxn&#8211;-assisted&#8221; Mars&#8211;van Krevelen mechanism led to low Eaapp (&#8764;43 kJ/mol) values close to those obtained on platinum catalysts.</description>
-      <author>Xiwei Gao, L. Li, Yuquan Liu, Zheng Chen, Wei Liu, Min Li, Xiaodong Wu, Shuang Liu</author>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05556</guid>
-    </item>
-    <item>
-      <title>Synergistic Combination of Inorganic and Organic Promoters on Palladium Catalysts for Effective Acetylene Partial Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.3c05474</link>
-      <description>Kyunglim Hyun, Seongho Yun, Minkee Choi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391754932
-
-                Selective acetylene partial hydrogenation in an ethylene-rich stream plays a crucial industrial role in removing acetylene impurities from ethylene produced through hydrocarbon cracking. In this study, we investigated the distinct promotional effects of Ag and amorphous polyphenylene sulfide (Am-PPS) on Pd catalysts. The addition of Ag increased the electron density of Pd and reduced the size of the Pd ensemble, effectively inhibiting undesired side reactions, such as the overhydrogenation of ethylene to ethane and the hydro-oligomerization of acetylene into C4 and heavier paraffins (green oil). However, alloying with inactive Ag resulted in a reduced number of surface-exposed active Pd atoms, leading to a significant decrease in catalytic activity. On the other hand, surface modification of Pd with Am-PPS was very effective in suppressing ethylene overhydrogenation without compromising acetylene hydrogenation activity. Furthermore, it facilitated the removal of green oil from the catalyst surface before its transformation into coke, significantly retarding the catalyst deactivation. This can be attributed to the rapid cleaning of ethylene and green oil from the Pd surface through the competitive adsorption of the Am-PPS polymer chains. The advantages of each promoter can be synergistically combined through dual promotion. The resulting catalyst exhibited moderate activity, along with exceptionally high ethylene selectivity, and suppressed formation of carbonaceous deposits (both green oil and coke). These findings demonstrate the unique potential to design advanced selective hydrogenation catalysts by leveraging the advantages of both inorganic and organic promoters.</description>
-      <author>Kyunglim Hyun, Seongho Yun, Minkee Choi</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05474</guid>
-    </item>
-    <item>
-      <title>Unraveling Rigidified Superexchange Couplings in Organic Donor&#8211;Acceptor Polymers for Boosting the Photocatalytic Reduction of Nitrate</title>
-      <link>https://doi.org/10.1021/acscatal.3c05937</link>
-      <description>Haiyan Peng, Yuhui Liu, Yi Wang, Meiyang Song, Henghui Song, Peng Chen, Shuang&#8208;Feng Yin, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391755214
-
-                Regulating the spatial twist angle of flexible geometry is an effective strategy to enhance the spatial overlap in organic semiconductors and provide transfer channels for electron transfer. However, the internal migration rates of macromolecular polymers with flexible geometries and complex compositions are severely restricted, making them elusive and easily overlooked. Here, different configurations of donor&#8211;acceptor (D&#8211;A)-based perylene diimide (PDI) polymers have been elaborately designed and prepared. In fact, the high crystallinity and molecular polarity of coplanar semiconductors lead to a differentiated charge distribution and carrier transfer site, which opens the prelude for charge transfer and exciton dissociation. More importantly, the unique &#960;-conjugated D&#8211;A configuration not only provides a smooth carrier transfer channel for promoting intermolecular electron transfer rates but is also conducive to the adsorption, diffusion, and charge exchange and activation of nitric acid as well as reduces the hydrogenation energy barrier. Ultimately, the coplanar configuration of PDI-connected 3,3-diaminobenzidine polymers (D-PDI) exhibited efficient photocatalytic nitrate reduction activity without the use of a cocatalyst and sacrificial agent. Our work provides fresh insights into molecular structure regulation to develop efficient photocatalysts for solving environmental problems.</description>
-      <author>Haiyan Peng, Yuhui Liu, Yi Wang, Meiyang Song, Henghui Song, Peng Chen, Shuang&#8208;Feng Yin</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05937</guid>
-    </item>
     <item>
       <title>Copper-Mediated Radical Fluorine-Atom Transfer to Sulfonyl Radical: A Dramatic 4-Methoxypyridine 1-Oxide Ligand Effect</title>
       <link>https://doi.org/10.1021/acscatal.3c05154</link>
@@ -256,6 +206,56 @@
       <author>Romain Tort, Alexander Bagger, Olivia Westhead, Yasuyuki Kondo, Artem Khobnya, Anna Winiwarter, Bethan J. V. Davies, Aron Walsh, Yu Katayama, Yuki Yamada, Mary P. Ryan, Maria&#8208;Magdalena Titirici, Ifan E. L. Stephens</author>
       <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00448</guid>
+    </item>
+    <item>
+      <title>RuO&lt;sub&gt;2&lt;/sub&gt;&#8211;CeO&lt;sub&gt;2&lt;/sub&gt; Lattice Matching Strategy Enables Robust Water Oxidation Electrocatalysis in Acidic Media via Two Distinct Oxygen Evolution Mechanisms</title>
+      <link>https://doi.org/10.1021/acscatal.3c06182</link>
+      <description>Haoqiang Song, Xue Yong, Geoffrey I. N. Waterhouse, Jingkun Yu, Hao Wang, Jinmeng Cai, Zhiyong Tang, Bai Yang, Jiangwei Chang, Siyu Lu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391836369
+
+                The discovery of acid-stable and highly active electrocatalysts for the oxygen evolution reaction (OER) is crucial in the quest for high-performance water-splitting technologies. Herein, a heterostructured RuO2&#8211;CeO2 electrocatalyst was constructed by using a lattice-matching strategy. The interfacial Ru&#8211;O&#8211;Ce bridge structure provided a channel for electron transfer between Ru and Ce, creating a lattice stress that distorts the local structure of RuO2. The resulting RuO2&#8211;CeO2 catalyst exhibited attractive stability with negligible decay after 1000 h of the OER in 0.5 M H2SO4, along with high activity with an overpotential of only 180 mV at 10 mA cm&#8211;2. In situ attenuated total reflectance surface-enhanced infrared absorption spectroscopy (ATR-SEIRAS), in situ differential electrochemical mass spectrometry (DEMS), and density functional theory (DFT) calculations were used to reveal that the interface and noninterface RuO2 sites enabled an oxide path mechanism (OPM) and the enhanced adsorbate evolution mechanism (AEM-plus), respectively, during the OER. The simultaneous and independent OER pathways accessible by lattice matching guides improved electrocatalyst design for the OER in acidic media.</description>
+      <author>Haoqiang Song, Xue Yong, Geoffrey I. N. Waterhouse, Jingkun Yu, Hao Wang, Jinmeng Cai, Zhiyong Tang, Bai Yang, Jiangwei Chang, Siyu Lu</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06182</guid>
+    </item>
+    <item>
+      <title>Sustainable Electrosynthesis of Cyclohexanone Oxime through Nitrate Reduction on a Zn&#8211;Cu Alloy Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.3c05388</link>
+      <description>Jonathan O. Sharp, Anna Ciotti, Hayley Andrews, Shaktiswaran R. Udayasurian, Max Garc&#237;a&#8208;Melchor, Tengfei Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391839397
+
+                Cyclohexanone oxime is an important precursor for Nylon-6 and is typically synthesized via the nucleophilic addition&#8211;elimination of hydroxylamine with cyclohexanone. Current technologies for hydroxylamine production are, however, not environment-friendly due to the requirement of harsh reaction conditions. Here, we report an electrochemical method for the one-pot synthesis of cyclohexanone oxime under ambient conditions with aqueous nitrate as the nitrogen source. A series of Zn&#8211;Cu alloy catalysts are developed to drive the electrochemical reduction of nitrate, where the hydroxylamine intermediate formed in the electroreduction process can undergo a chemical reaction with the cyclohexanone present in the electrolyte to produce the corresponding oxime. The best performance is achieved on a Zn93Cu7 electrocatalyst with a 97% yield and a 27% Faradaic efficiency for cyclohexanone oxime at 100 mA/cm2. By analyzing the catalytic activities/selectivities of the different Zn&#8211;Cu alloys and conducting in-depth mechanistic studies via in situ Raman spectroscopy and theoretical calculations, we demonstrate that the adsorption of nitrogen species plays a central role in catalytic performance. Overall, this work provides an attractive strategy to build the C&#8211;N bond in oxime and drive organic synthesis through electrochemical nitrate reduction, while highlighting the importance of controlling surface adsorption for product selectivity in electrosynthesis.</description>
+      <author>Jonathan O. Sharp, Anna Ciotti, Hayley Andrews, Shaktiswaran R. Udayasurian, Max Garc&#237;a&#8208;Melchor, Tengfei Li</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05388</guid>
+    </item>
+    <item>
+      <title>Enantiocovergent Cross-Coupling Reaction with 1,4-Dihydropyridine Derivatives via Photoinduced Nickel Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c05521</link>
+      <description>Tongtong Li, Luo Liu, Xiaokai Cheng, Zhan Lu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391839433
+
+                Herein, we reported the enantioconvergent Csp3&#8211;Csp2 cross-coupling reaction with 1,4-dihydropyridine (DHP) derivatives via photoredox/nickel dual catalysis to access chiral products with good yield and enantioselectivity. The operationally simple reaction was carried out under mild conditions with good functional group tolerance. Due to the use of a stoichiometric equivalent of aryl/alkenyl halides as coupling partners, the sequential and iterative synthesis could be achieved smoothly in one pot for the synthesis of position isomers and stereoisomers. In the proposed mechanism, kinetic experiments and mechanistic studies indicated that the radical generation, depended on the excited photocatalyst and DHP, was the rate-determining step.</description>
+      <author>Tongtong Li, Luo Liu, Xiaokai Cheng, Zhan Lu</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05521</guid>
+    </item>
+    <item>
+      <title>Oxygen-Vacancy-Induced Built-In Electric Field across MoCo Dual-Atomic Site Catalyst for Promoting Hydrogen Spillover in Hydrocracking and Hydrodesulfurization</title>
+      <link>https://doi.org/10.1021/acscatal.3c05911</link>
+      <description>Guangxun Sun, Dongyuan Liu, Hongfu Shi, Junxi Li, Liting Yang, Fengyu Tian, Yuchen Cui, Chunlin Wang, Feiyang Li, Tiansheng Zhao, Houyu Zhu, Bin Liu, Yong&#8208;Ming Chai, Yunqi Liu, Yuan Pan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391842855
+
+                The design and construction of highly efficient catalytic active sites for promoting hydrogen spillover are of great significance for improving hydrocracking (HCK) and hydrodesulfurization (HDS) performance in slurry-phase hydrogenation of vacuum residue (VR) but are still challenging. Herein, we report a carbon-supported MoCo dual-atomic site catalyst (MoCo DAC/C) and propose an oxygen-vacancy-induced built-in electric field (BIEF) regulation mechanism for promoting hydrogen spillover in HCK and HDS. It was found that the coordination structure of the MoCo dual-atomic was reconstructed and formed O vacancies in situ during hydrogenation process. The formation of O vacancies not only provided macromolecular adsorption sites but also broke the electronic balance and formed a weak BIEF between the Mo and Co atoms. Meanwhile, H2 was activated at the Mo sites to form active hydrogen species. The formation of BIEF promoted the active hydrogen spillover from Mo to Co sites by a Mo&#8211;C&#8211;Co bridging bond, thus improving the hydrogenation performance greatly. In HCK of VR, the MoCo DAC/C demonstrates remarkable catalytic hydrogenation activity with TOFT calculated for total metals up to 0.77 s&#8211;1 (two times enhancement than that of Mo single atoms (SAs)/C), the per pass conversion of VR of 76 wt %, liquid product yield of 92 wt %, and coke content of only 0.55 wt %. It also shows robust HDS performance with dibenzothiophene (DBT) conversion of 70 wt %. Density functional theory reveals that the formation of the O vacancies leads to the discrepancy of Bader charge between Mo and Co atoms, and the resulting local electric field can favor the diffusion of the positively charged (+0.10 e&#8722;) H atom. This work proposes an oxygen-vacancy-induced BIEF regulation mechanism from an atomic scale for enhancing the catalytic reaction process by promoting hydrogen spillover, which provided novel insights for the design and development of high-performance hydrogenation catalysts.</description>
+      <author>Guangxun Sun, Dongyuan Liu, Hongfu Shi, Junxi Li, Liting Yang, Fengyu Tian, Yuchen Cui, Chunlin Wang, Feiyang Li, Tiansheng Zhao, Houyu Zhu, Bin Liu, Yong&#8208;Ming Chai, Yunqi Liu, Yuan Pan</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05911</guid>
+    </item>
+    <item>
+      <title>Indium-Catalyzed Reductive Coupling Enabled Efficient Synthesis of Acylphosphine Oxides and Diphosphines</title>
+      <link>https://doi.org/10.1021/acscatal.3c05947</link>
+      <description>Dongdong Xu, Ming Yu Jin, Yu Chen, Daoqing Han, Lizhi Tao, Xiangyou Xing, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391843736
+
+                The unique low level of the ionization potential of indium(0) to indium(I) makes it an appealing metal for organic synthesis. Here, we present an indium-catalyzed reductive cross-coupling between chlorophosphines (R2PCl) or dichlorophosphines (RPCl2) with acyl chlorides (RCOCl). This one-pot approach, using indium-catalysis followed by oxidation, generates a variety of mono- or bis-acylphosphine oxides in good yields. Additionally, this protocol offers a convenient pathway to obtain the photoinitiators, Luricin TPO and IRGACURE 819, that are widely used in the industry. Experimental and computational studies indicate the intermediacy of phosphorus-based radical species that dimerize to diphosphines, which then couple with acyl chlorides through a four-membered transition state. Furthermore, we also explore indium-catalyzed reductive homocoupling of R2PCl or RPCl2, which provides facile access to various P&#8211;P bond formations.</description>
+      <author>Dongdong Xu, Ming Yu Jin, Yu Chen, Daoqing Han, Lizhi Tao, Xiangyou Xing</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05947</guid>
     </item>
   </channel>
 </rss>

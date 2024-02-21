@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 20 Feb 2024 00:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 00:44:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface Electronic Properties-Driven Electrocatalytic Nitrogen Reduction on Metal-Conjugated Porphyrin 2D-MOFs</title>
-      <link>https://doi.org/10.1021/acsami.3c16406</link>
-      <description>Ashakiran Maibam, Ibrahim Orhan, Sa&#239;laja Krishnamurty, Salvy P. Russo, Ravichandar Babarao, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4391742646
-
-                Two-dimensional (2D) metal organic framework (MOF) or metalloporphyrin nanosheets with a stable metal-N4 complex unit present the metal as a single-atom catalyst dispersed in the 2D porphyrin framework. First-principles calculations on the 3d-transition metals in M-TCPP are investigated in this study for their surface-dependent electronic properties including work function and d-band center. Crystal orbital Hamiltonian population (-pCOHP) analysis highlights a higher contribution of the bonding state in the M&#8211;N bond and antibonding state in the N&#8211;N bond to be essential for N&#8211;N bond activation. A linear relationship between &#916;Gmax and surface electronic properties, N&#8211;N bond strength, and Bader charge has been found to influence the rate-determining potential for nitrogen reduction reaction (NRR) in M-TCPP MOFs. 2D Ti-TCPP MOF, with a kinetic energy barrier of 1.43 eV in the final protonation step of enzymatic NRR, shows exclusive NRR selectivity over competing hydrogen reduction (HER) and nitrogenous compounds (NO and NO2). Thus, Ti-TCPP MOF with an NRR limiting potential of &#8722;0.35 V in water solvent is proposed as an attractive candidate for electrocatalytic NRR.</description>
-      <author>Ashakiran Maibam, Ibrahim Orhan, Sa&#239;laja Krishnamurty, Salvy P. Russo, Ravichandar Babarao</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c16406</guid>
-    </item>
-    <item>
-      <title>Integration of theory prediction and experimental electrooxidation of glycerol on NiCo2O4 nanosheets</title>
-      <link>https://doi.org/10.1016/s1872-2067(23)64585-1</link>
-      <description>Yan Duan, Mifeng Xue, Yizhi Liu, Man Zhang, Yuchen Wang, Baojun Wang, Riguang Zhang, Kai Yan, Chinese Journal of Catalysis. 57(None)] 2024. https://openalex.org/W4391743253
-
-                Electrocatalytic refinery of low-value biomass-based glycerol into value-added chemicals formic acid (FA) is an attractive alternative to traditional thermochemical refineries. However, constructing non-precious catalysts with abundant active hydroxyl (OH*) is the main obstacle to the electrocatalytic glycerol oxidation reaction (EGOR). Herein, we combine density functional theory (DFT) and experiments to investigate EGOR over the finely constructed NiCo2O4 nanosheets. DFT results firstly indicate that the NiCo2O4 nanosheets exhibit the highly hydroxylated (311)-OH* surface with the lowest Gibbs free energy, which significantly improves the electrochemical reaction kinetics and can achieve desirable FA yield by adjusting the adsorption energy of the adsorption intermediate. Following the theoretical prediction, ultrathin NiCo2O4 nanosheets (~1.70 nm) are fabricated by a facile electrodeposition method with sufficient OH* on the surface. The charge-transfer resistance of NiCo2O4 nanosheets in EGOR is only 0.94 &#937; and the anode power consumption can be reduced by up to 320 mV at 10 mA cm&#8722;2, keeping the high glycerol conversion (89%) and FA selectivity (70%) during the 120-h stability test. DFT calculations and experimental tools (e.g., multi-potential step experiments, operational electrochemical impedance spectroscopy) confirm that OH* in-situ generated on the thin nanosheets structure is essential in facilitating charge transfer between catalysts and adsorbed molecules to enhance C&#8211;C bond cleavage. This work offers a guideline for the rational design of robust catalysts for the selective upgrading of biomass-derived chemicals.</description>
-      <author>Yan Duan, Mifeng Xue, Yizhi Liu, Man Zhang, Yuchen Wang, Baojun Wang, Riguang Zhang, Kai Yan</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(23)64585-1</guid>
-    </item>
-    <item>
-      <title>Key Role of Cations in Stabilizing Hydrogen Radicals for CO&lt;sub&gt;2&lt;/sub&gt;-to-CO Conversion via a Reverse Water-Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00005</link>
-      <description>Ruijuan Zhao, Lei Li, Qianbao Wu, Qing Li, Chunhua Cui, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391755712
-
-                Electrochemically converting CO2 into valuable chemicals and fuels in acidic media is argued as a promising energy- and carbon-efficient route. Although several key roles of alkali cations have been unveiled, the alkali cation trends for CO2 reduction remain largely elusive. With decreasing cation size from Cs+ to Li+, here we show that the apparent proton diffusion coefficient in 3.0 M Li+ is tens-fold lower than in 3.0 M K+ and 3.0 M Cs+ acidic electrolytes. Although Li+ has the strongest inhibition ability for proton transport, it acts the worst for both the CO2-to-CO conversion and partial current density on Au catalysts. Unexpectedly, K+ with a higher proton transport performs the best for CO2-to-CO conversion. We thus revisit the roles of alkali cations and find that hydrated K+ can stabilize hydrogen radicals benefiting CO2 conversion at the electrode interface while for Li+ this is not the case. This study proposes that cation-stabilized atomic hydrogen assists in activating CO2 via a reverse water-gas shift route under electrochemical conditions.</description>
-      <author>Ruijuan Zhao, Lei Li, Qianbao Wu, Qing Li, Chunhua Cui</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00005</guid>
-    </item>
-    <item>
-      <title>Machine Learning Assisted Analysis and Prediction of Rubber Formulation Using Existing Databases</title>
-      <link>https://doi.org/10.1016/j.aichem.2024.100054</link>
-      <description>Wei Deng, Yuhui Zhao, Yinggan Zheng, Yilong Yin, Hongwei Yan, Lijun Liu, Dapeng Wang, Artificial Intelligence Chemistry. None(None)] 2024. https://openalex.org/W4391755935
-
-                Designing rubber formulations can greatly benefit from using a database that stores the formulations and corresponding property data of rubber composites. Such a database can expedite the decision-making process by swiftly identifying the most suitable formulations for specific applications. However, the management of a rubber formulation database encounters various issues, including missing formulation and property data, as well as data entry errors. These issues can impede the decision-making processes and even result in incorrect decisions being made. In this study, machine learning (ML) algorithms were applied to analyze rubber formulation databases. Our findings highlight the success of the ML algorithm in effectively filling in missing data and identifying erroneous data. Furthermore, it demonstrates the accurate prediction of properties for untested formulations within the pre-determined database space. The results underline the outstanding performance of ML algorithms in expediting the rubber formulation design process and emphasize their immense potential to play a prominent role in the advancement of rubber composites.</description>
-      <author>Wei Deng, Yuhui Zhao, Yinggan Zheng, Yilong Yin, Hongwei Yan, Lijun Liu, Dapeng Wang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.aichem.2024.100054</guid>
-    </item>
-    <item>
-      <title>Understanding the modulation mechanism of B-site doping on the thermochemical properties of CaMnO&lt;sub&gt;3&#8722;&lt;i&gt;&#948;&lt;/i&gt;&lt;/sub&gt;: an experimental and computational study</title>
-      <link>https://doi.org/10.1039/d3ta04632j</link>
-      <description>Zeyu Ning, S. L. Gan, Haoran Xu, C.D. Gu, Peixi Zhu, Jinsong Zhou, Gang Xiao, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4391758420
-
-                Cr and Fe doping disrupts the electronegativity and bond energy balance of CaMnO 3 , creating different active sites and enhancing the reactivity. Bond energy calculations allow the prediction of reaction temperature and reaction enthalpy.</description>
-      <author>Zeyu Ning, S. L. Gan, Haoran Xu, C.D. Gu, Peixi Zhu, Jinsong Zhou, Gang Xiao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta04632j</guid>
-    </item>
-    <item>
-      <title>Computational chemistry for water-splitting electrocatalysis</title>
-      <link>https://doi.org/10.1039/d2cs01068b</link>
-      <description>Licheng Miao, Wenzhao Jia, Xuejie Cao, Lifang Jiao, Chemical Society Reviews. None(None)] 2024. https://openalex.org/W4391758505
-
-                This review presents the basics of electrochemical water electrolysis, discusses the progress in computational methods, models, and descriptors, and evaluates the remaining challenges in this field.</description>
-      <author>Licheng Miao, Wenzhao Jia, Xuejie Cao, Lifang Jiao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d2cs01068b</guid>
-    </item>
-    <item>
-      <title>Transition metal single-atom anchored on MoSi2N4 monolayer as highly efficient electrocatalyst for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.113926</link>
-      <description>Wei Xun, Xin Liu, Qingsong Jiang, Yin&#8208;Zhong Wu, Xiao Yang, Molecular Catalysis. 556(None)] 2024. https://openalex.org/W4391764443
-
-                Single-atom catalysts are considered as a promising method for efficient energy conversion, owing to their advantages of high atom utilization and low catalyst cost. However, finding a stable two-dimensional structure and high hydrogen evolution reaction (HER) performance is a current research hotspot. Herein, based on the first-principles calculations, we identify the HER properties of six catalysts (TM@MoSi2N4, TM = Sc, Ti, V, Fe, Co, and Ni) comprising transition metal atoms anchored on MoSi2N4 monolayer. The results show that the spin-polarized states appear around the Fermi level after anchoring TM atoms. Therefore, the energy level of the first available unoccupied state for accommodating hydrogen drops, regulating the bonding strength of hydrogen. Thus, the single transition metal atom activates the active site of the MoSi2N4 inert base plane, becoming a quite suitable site for the HER. Based on &#916;GH*, the exchange current density and volcano diagram of the corresponding catalytic system were also calculated. Among them, V@MoSi2N4 (&#916;GH* = -0.07 eV) and Ni@MoSi2N4 (&#916;GH* = 0.06 eV) systems show efficient the HER property. Our study confirms that the transition metal atom anchoring is an effective means to improve the performance of electrocatalysis, and TM@MoSi2N4 has practical application potential as a high efficiency HER electrocatalyst.</description>
-      <author>Wei Xun, Xin Liu, Qingsong Jiang, Yin&#8208;Zhong Wu, Xiao Yang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.113926</guid>
-    </item>
-    <item>
-      <title>Experimental evidences of the direct influence of external magnetic fields on the mechanism of the electrocatalytic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1063/5.0179761</link>
-      <description>Camilo A. Mesa, Felipe A. Garc&#233;s&#8208;Pineda, Miguel Garc&#237;a&#8208;Tecedor, Jiahao Yu, Bahareh Khezri, Sergi Plana-Ruiz, Bruno L&#243;pez, R. Iturbe, N&#250;ria L&#243;pez, Sixto Gim&#233;nez, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s, APL Energy. 2(1)] 2024. https://openalex.org/W4391766798
-
-                The use of magnetic fields as external stimuli to improve the kinetics of electrochemical reactions is attracting substantial attention, given their potential to reduce energy losses. Despite recent reports showing a positive effect on catalytic performance upon applying a magnetic field to a working electrode, there are still many uncertainties and a lack of experimental evidence correlating the presence of the magnetic field to the electrocatalytic performance. Here, we present a combination of electrochemical and spectroscopic tools that demonstrate how the presence of an external magnetic field alters the reaction mechanism of the electrocatalytic oxygen evolution reaction (OER), accelerating the overall performance of a Ni4FeOx electrode. Complementary experimental evidence has been gathered supporting the participation of this microscopic magnetic field effect. Electrochemical impedance spectroscopy (EIS) points to a speed-up of the intrinsic reaction kinetics, independent of other indirect effects. In the same direction, the spectro-electrochemical fingerprint of the intermediate species that appear during the electrocatalytic cycle, as detected under operando conditions, indicates a change in the order of the reaction as a function of hole accumulation. All these experimental data confirm the direct influence of an external magnetic field on the reaction mechanism at the origin of the magnetically enhanced electrocatalytic OER.</description>
-      <author>Camilo A. Mesa, Felipe A. Garc&#233;s&#8208;Pineda, Miguel Garc&#237;a&#8208;Tecedor, Jiahao Yu, Bahareh Khezri, Sergi Plana-Ruiz, Bruno L&#243;pez, R. Iturbe, N&#250;ria L&#243;pez, Sixto Gim&#233;nez, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s</author>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0179761</guid>
-    </item>
     <item>
       <title>Synthesis of N/Fe/S-Codoped Cathode Catalysts on Gasification Residue Carbon for Zinc&#8211;Air Batteries</title>
       <link>https://doi.org/10.1021/acs.energyfuels.3c04344</link>
@@ -172,7 +92,7 @@
       <link>https://doi.org/10.1016/j.ijhydene.2024.01.236</link>
       <description>S.J.T. Homan, Kerem Aylar, Adrian Jurjevi&#263;, M. Scolari, Atsushi Urakawa, Peyman Taheri, International Journal of Hydrogen Energy. 59(None)] 2024. https://openalex.org/W4391804977
 
-                No abstract</description>
+                When no hydrogen can reach the Pt catalyst in the anode for the hydrogen oxidation reaction (HOR) of an operating proton exchange membrane fuel cell (PEMFC), the anode potential increases and causes the cell potential to be reversed compared to normal operation conditions. During this reversal, the oxygen evolution reaction (OER) and carbon oxidation reaction (COR) will occur at the anode, where the COR has devastating consequences for the electrode. Introducing an OER catalyst limits the COR to occur, which makes a reversal tolerant anode (RTA). In this research, RTAs are differentiated by applying different ball milling times during catalyst layer processing, forming big and small OER (IrOx/TiOx) and HOR (Pt/C) catalyst particles. The two different particle sizes were electrochemically tested using a rotating disc electrode (RDE). Both catalyst sizes show a decrease in OER activity (mA cm&#8722;2) accompanied by loss of the ionomer in a self-developed accelerated stress test (AST). The small particle RTAs show higher OER activity as a result of increased surface area. However, during a chronopotentiometry measurement, which mimics a fuel cell reversal, the small particle coatings show a worse reversal tolerance. This phenomenon can be attributed to the increased difficulty in removing oxygen bubbles.</description>
       <author>S.J.T. Homan, Kerem Aylar, Adrian Jurjevi&#263;, M. Scolari, Atsushi Urakawa, Peyman Taheri</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.01.236</guid>
@@ -212,7 +132,7 @@
       <link>https://doi.org/10.1016/j.jechem.2024.01.074</link>
       <description>Wei Yan, Linhui Yu, Binghua Yang, Caihong Li, Fang Chen, Wenlong Guo, Fang&#8208;Xing Xiao, Yangming Lin, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4391817857
 
-                No abstract</description>
+                Fe-N-doped carbon materials (Fe-N-C) are promising candidates for oxygen reduction reaction (ORR) relative to Pt-based catalysts in proton exchange membrane fuel cells (PEMFCs). However, the intrinsic contributions of Fe-N4 moiety with different chemical/spin states (e.g. D1, D2, D3, etc.) to ORR are unclear since various states coexist inevitably. In the present work, Fe-N-C core-shell nanocatalyst with single low-spin Fe(&#8545;)-N4 species (D1) is synthesized and identified with ex-situ ultralow temperature M&#246;ssbauer spectroscopy (T=1.6 K) that could essentially differentiate various Fe-N4 states and invisible Fe-O species. By quantifying with CO-pulse chemisorption, site density and turnover frequency of Fe-N-C catalysts reach 2.4&#215;1019 site g&#8722;1 and 23 e site&#8722;1 s&#8722;1 during the ORR, respectively. Half-wave potential (0.915 VRHE) of the Fe-N-C catalyst is more positive (approximately 54 mV) than that of Pt/C. Moreover, we observe that the performance of PEMFCs on Fe-N-C almost achieves the 2025 target of the US Department of Energy by demonstrating a current density of 1.037 A cm&#8722;2 combined with the peak power density of 0.685 W cm&#8722;2, suggesting the critical role of Fe(&#8545;)-N4 site (D1). After 500 h of running, PEMFCs still deliver a power density of 1.26 W cm&#8722;2 at 1.0 bar H2-O2. An unexpected rate-determining step is figured out by isotopic labelling experiment and theoretical calculation. This work not only offers valuable insights regarding the intrinsic contribution of Fe-N4 with a single spin state to alkaline/acidic ORR, but also provides great opportunities for developing high-performance stable PEMFCs.</description>
       <author>Wei Yan, Linhui Yu, Binghua Yang, Caihong Li, Fang Chen, Wenlong Guo, Fang&#8208;Xing Xiao, Yangming Lin</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.01.074</guid>
@@ -258,6 +178,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.softx.2024.101654</guid>
     </item>
     <item>
+      <title>Superionic lithium transport via multiple coordination environments defined by two-anion packing</title>
+      <link>https://doi.org/10.1126/science.adh5115</link>
+      <description>Guopeng Han, Andrij Vasylenko, Luke M. Daniels, Christopher M. Collins, Lucia Corti, Ruiyong Chen, Hongjun Niu, Troy D. Manning, Dmytro Antypov, Matthew S. Dyer, Jungwoo Lim, Marco Zanella, Manel Sonni, Mounib Bahri, Hongil Jo, Yun Dang, Craig M. Robertson, Fr&#233;d&#233;ric Blanc, Laurence J. Hardwick, Nigel D. Browning, John B. Claridge, Matthew J. Rosseinsky, Science. 383(6684)] 2024. https://openalex.org/W4391836522
+
+                Fast cation transport in solids underpins energy storage. Materials design has focused on structures that can define transport pathways with minimal cation coordination change, restricting attention to a small part of chemical space. Motivated by the greater structural diversity of binary intermetallics than that of the metallic elements, we used two anions to build a pathway for three-dimensional superionic lithium ion conductivity that exploits multiple cation coordination environments. Li 7 Si 2 S 7 I is a pure lithium ion conductor created by an ordering of sulphide and iodide that combines elements of hexagonal and cubic close-packing analogously to the structure of NiZr. The resulting diverse network of lithium positions with distinct geometries and anion coordination chemistries affords low barriers to transport, opening a large structural space for high cation conductivity.</description>
+      <author>Guopeng Han, Andrij Vasylenko, Luke M. Daniels, Christopher M. Collins, Lucia Corti, Ruiyong Chen, Hongjun Niu, Troy D. Manning, Dmytro Antypov, Matthew S. Dyer, Jungwoo Lim, Marco Zanella, Manel Sonni, Mounib Bahri, Hongil Jo, Yun Dang, Craig M. Robertson, Fr&#233;d&#233;ric Blanc, Laurence J. Hardwick, Nigel D. Browning, John B. Claridge, Matthew J. Rosseinsky</author>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1126/science.adh5115</guid>
+    </item>
+    <item>
+      <title>Descriptor for C&lt;sub&gt;2&lt;/sub&gt;N-Supported Single-Cluster Catalysts in Bifunctional Oxygen Evolution and Reduction Reactions</title>
+      <link>https://doi.org/10.1021/acs.jpclett.3c03573</link>
+      <description>Jing Pan, Min Li, Ivo A. W. Filot, Hui Wang, Emiel J. M. Hensen, Long Zhang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4391840068
+
+                Developing highly active cluster catalysts for the bifunctional oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) is significant for future renewable energy technology. Here, we employ first-principles calculations combined with a genetic algorithm to explore the activity trends of transition metal clusters supported on C2N. Our results indicate that the supported clusters, as bifunctional catalysts for the OER and the ORR, may outperform single-atom catalysts. In particular, the C2N-supported Ag6 cluster exhibits outstanding bifunctional activity with low overpotentials. Mechanistic analysis indicates that the activity of the cluster is related to the number of atoms in the active site as well as the interaction between the intermediate and the cluster. Accordingly, we identify a descriptor that links the intrinsic properties of the clusters with the activity of both the OER and the ORR. This work provides guidelines and strategies for the rational design of highly efficient bifunctional cluster catalysts.</description>
+      <author>Jing Pan, Min Li, Ivo A. W. Filot, Hui Wang, Emiel J. M. Hensen, Long Zhang</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03573</guid>
+    </item>
+    <item>
+      <title>Magnetic Field&#8208;Assisted Water Splitting: Mechanism, Optimization Strategies, and Future Perspectives</title>
+      <link>https://doi.org/10.1002/adfm.202316544</link>
+      <description>Shengyu Ma, Qiang Fu, Jiecai Han, Yu&#8211;Chong Tai, Xianjie Wang, Zhihua Zhang, Ping Xu, Bo Song, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4391840669
+
+                Abstract Rationally designing of highly efficient electrocatalysts is critical to improving hydrogen production by water electrolysis. However, bottlenecks still require consideration when optimizing the intrinsic performance of electrocatalysts. Applying appropriate external fields to catalytic systems may effectively overcome such bottlenecks and enhance the performance of catalysts. Among various external fields, the magnetic field has received extensive attention owing to its multifunctionality, non&#8208;contact nature, and non&#8208;invasiveness, thereby requiring more research and development. In this review, recent advances in magnetic field&#8208;assisted water electrolysis are systematically outlined. Firstly, the diverse methods used for pre&#8208;regulating catalysts under magnetic fields, including optimized nucleation, induction heating, and directed growth, are discussed. It then explores the effects of magnetic fields on electrochemical processes, including magnetothermal, magnetohydrodynamic, and induced electric impact. Then, the influences of magnetic fields on the intrinsic properties of catalysts, such as spin polarization and spin reconstruction effects, are addressed. Finally, a discussion of the potential perspectives of magnetic field&#8208;enhanced water splitting, including catalyst design, experimental precision, and in situ characterization, are then provided to guide further research.</description>
+      <author>Shengyu Ma, Qiang Fu, Jiecai Han, Yu&#8211;Chong Tai, Xianjie Wang, Zhihua Zhang, Ping Xu, Bo Song</author>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202316544</guid>
+    </item>
+    <item>
       <title>Accelerated Structural Optimization for the Supported Metal System Based on Hybrid Approach Combining Bayesian Optimization with Local Search</title>
       <link>https://doi.org/10.1021/acs.jctc.3c01265</link>
       <description>Shinyoung Bae, Dongjae Shin, H. Jin Kim, Jeong Woo Han, Jong Min Lee, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4391847110
@@ -266,6 +216,56 @@
       <author>Shinyoung Bae, Dongjae Shin, H. Jin Kim, Jeong Woo Han, Jong Min Lee</author>
       <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01265</guid>
+    </item>
+    <item>
+      <title>Electron transport kinetics via ZnO with ultralow Fe dopant for stable oxygen reduction to H2O2</title>
+      <link>https://doi.org/10.1016/j.cej.2024.149527</link>
+      <description>Xingchen Chai, Rui&#8208;Ting Gao, Lei Wang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391847886
+
+                The two-electron oxygen reduction reaction (2e&#8722; ORR) is a promising approach to obtain hydrogen peroxide (H2O2) from oxygen in a friend manner. However, the 4e&#8722; ORR being the thermodynamically preferred route to H2O is always competes with the 2e&#8722; route. Herein, the ultralow iron was doped into ZnO through a solution combustion synthesis to construct an active and stable catalyst for 2e&#8722; ORR. In alkaline conditions, the catalyst exhibits a H2O2 production rate of 3.8 mol gcat&#8722;1h&#8722;1 and selectivity of more than 95 % with a Faraday efficiency of 88.6 % &#177; 2.2 %. More importantly, it shows a negligible activity decay with a durability of 500 h, representing the best stability performance among all the metal oxide catalysts. Furthermore, the catalyst exhibits an efficient electrochemical degradation ability of model organic pollutants in alkaline conditions. Experiments and theoretical calculations have demonstrated that the substitution defects generated by trace Fe doping promote the interfacial 2e&#8722; ORR transfer rate, leading to a high H2O2 selectivity. This work provides a facile but efficient strategy for the construction of carbon-free metal oxide electrocatalysts for H2O2 production.</description>
+      <author>Xingchen Chai, Rui&#8208;Ting Gao, Lei Wang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149527</guid>
+    </item>
+    <item>
+      <title>Hydrogen Evolution Mediated by Sulphur Vacancies and Substitutional Mn in Few-Layered Molybdenum Disulphide</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101524</link>
+      <description>Mouna Rafei, Alexis Pi&#241;eiro-Garc&#237;a, Xiuyu Wu, Dimitrios K. Perivoliotis, Thomas W&#229;gberg, Eduardo Gracia&#8208;Espino, Materials Today Energy. None(None)] 2024. https://openalex.org/W4391848003
+
+                MoS2 is widely praised as a promising replacement for Pt as electrocatalyst for the hydrogen evolution reaction (HER), but even today, it still suffers from low performance. This issue is tackled by using Mn3+ as surface modifier to trigger sulphur vacancy formation and enhance electron transport in few-layered 2H MoS2. Only 10 at% of Mn is sufficient to transform the semiconductive MoS2 into an active HER electrocatalyst. The insertion of Mn reduces both HER onset potential and Tafel slope which allows to reach -100 mA cm-2 at an overpotential of 206 mV, ten times larger of what undoped MoS2 can achieve. The enhanced activity arises because Mn3+ introduces electronic states near the conduction band, promote sulphur vacancies, and increases the hydrogen adsorption. In addition to its facile production and extended shelf-life, Mn-MoS2 exhibit an efficiency of 73% at 800 mA cm-2@2.0 V when used in proton exchange membrane water electrolysers.</description>
+      <author>Mouna Rafei, Alexis Pi&#241;eiro-Garc&#237;a, Xiuyu Wu, Dimitrios K. Perivoliotis, Thomas W&#229;gberg, Eduardo Gracia&#8208;Espino</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101524</guid>
+    </item>
+    <item>
+      <title>Theoretical investigation on the strain engineering control of TiC as tunable high-efficiency bifunctional cathode materials for Lithium&#8211;Sulfur batteries</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159714</link>
+      <description>Mingyang Wang, Jianjun Mao, Yudong Pang, Xilin Zhang, Zongxian Yang, Zhansheng Lu, Shuting Yang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4391848483
+
+                Developing efficient cathode materials and strategies to suppress the shuttle effect and promote the reaction kinetics were the key scientific issues for the development of high performance lithium&#8211;sulfur (Li&#8211;S) batteries. Modify the properties of a material through strain engineering is an effective strategy to enhance the performance of adsorption and catalysis ability for special species. In this paper, first-principles calculations were carried out to investigate the anchoring effect and electrochemical performance of TiC(0 0 1) subjected to biaxial symmetric mechanical (compressive and tensile) strains. The results demonstrate that the adsorption energies of the lithium polysulfides (LiPSs) were enhanced monotonically and the metallic properties were also remaining along with the compressive strain to tensile strain. In addition, an appropriate strain could reduce the migration barrier of Li ions, the dissociation barrier of Li2S and the Gibbs free energy of the sulfur reduction reaction (SRR) to realize the rapid charge/discharge processes. Especially, the p-band center of carbon atoms in TiC was proposed as an effective descriptor to identify the adsorption and catalysis ability of the anchoring materials under biaxial strain. Our results indicate that strain engineering is a promising strategy to improve the comprehensive performance of anchoring materials in Li &#8722; S batteries.</description>
+      <author>Mingyang Wang, Jianjun Mao, Yudong Pang, Xilin Zhang, Zongxian Yang, Zhansheng Lu, Shuting Yang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159714</guid>
+    </item>
+    <item>
+      <title>Novel nanotubes based on methylene-bridged cycloparaphenyleneas as highly efficient catalysts for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.comptc.2024.114502</link>
+      <description>Hazem Abdelsalam, Omar H. Abd&#8208;Elkader, Mohamed A. Saad, Mahmoud A. S. Sakr, Qinfang Zhang, Computational and Theoretical Chemistry. None(None)] 2024. https://openalex.org/W4391849061
+
+                Nanotubes constructed from methylene-bridged cycloparaphenyleneas (MCPPs) are investigated using density functional theory. The dynamical stability is indicated by the real vibrational frequencies of the infrared spectra. MCPPs are semiconductors with an energy gap of &#8764; 2.9 eV that significantly decreases in the finite nanotubes. This decrease is a result of the interactive molecular orbitals that are localized at the pentagonal rings linking MCPPs. The UV-vis spectra show that transitions from the highest occupied and neighbor orbitals to the lowest unoccupied orbital dominate the primary absorption peaks. Oxygen evolution reaction shows that all the reaction intermediates, HO, O, and HOO are adsorbed by the pentagonal active sites. The considered nanotubes show good catalytic performance but the best performance is observed in the wider nanotubes with an overpotential of 0.10 V. This remarkably low overpotential in addition to the abundant active sites makes finite nanotubes from MCPPs exceptional catalysts for oxygen evolution.</description>
+      <author>Hazem Abdelsalam, Omar H. Abd&#8208;Elkader, Mohamed A. Saad, Mahmoud A. S. Sakr, Qinfang Zhang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114502</guid>
+    </item>
+    <item>
+      <title>Modeling the Effects of Varying the Ti Concentration on the Mechanical Properties of Cu&#8211;Ti Alloys</title>
+      <link>https://doi.org/10.1021/acsomega.3c07561</link>
+      <description>Vasileios Fotopoulos, Corey S. O&#8217;Hern, Mark D. Shattuck, Alexander L. Shluger, ACS Omega. None(None)] 2024. https://openalex.org/W4391933315
+
+                The mechanical properties of CuTi alloys have been characterized extensively through experimental studies. However, a detailed understanding of why the strength of Cu increases after a small fraction of Ti atoms are added to the alloy is still missing. In this work, we address this question using density functional theory (DFT) and molecular dynamics (MD) simulations with the modified embedded atom method (MEAM) interatomic potentials. First, we performed calculations of the uniaxial tension deformations of small bicrystalline Cu cells using DFT static simulations. We then carried out uniaxial tension deformations on much larger bicrystalline and polycrystalline Cu cells by using MEAM MD simulations. In bicrystalline Cu, the inclusion of Ti increases the grain boundary separation energy and the maximum tensile stress. The DFT calculations demonstrate that the increase in the tensile stress can be attributed to an increase in the local charge density arising from Ti. MEAM simulations in larger bicrystalline systems have shown that increasing the Ti concentration decreases the density of the stacking faults. This observation is enhanced in polycrystalline Cu, where the addition of Ti atoms, even at concentrations as low as 1.5 atomic (at.) %, increases the yield strength and elastic modulus of the material compared to pure Cu. Under uniaxial tensile loading, the addition of small amounts of Ti hinders the formation of partial Shockley dislocations in the grain boundaries of Cu, leading to a reduced level of local deformation. These results shed light on the role of Ti in determining the mechanical properties of polycrystalline Cu and enable the engineering of grain boundaries and the inclusion of Ti to improve degradation resistance.</description>
+      <author>Vasileios Fotopoulos, Corey S. O&#8217;Hern, Mark D. Shattuck, Alexander L. Shluger</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c07561</guid>
     </item>
   </channel>
 </rss>
