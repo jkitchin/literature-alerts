@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 21 Feb 2024 00:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 00:43:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>High&#8208;Throughput Ammonia Production from Nitrate Using Liquid Metal Synthesized Bismuth Nano&#8208;Catalyst</title>
+      <link>https://doi.org/10.1002/aenm.202304287</link>
+      <description>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4391946461
+
+                Abstract The implementation of renewable energy sources to electrify ammonia (NH 3 ) production is identified as a critical approach for achieving successful decarburization in the pursuit of a more sustainable future. A liquid metal&#8208;based method is presented for synthesizing bismuth (Bi) nano&#8208;electrocatalysts, enabling efficient and sustainable ammonia production via nitrate electroreduction. Bi&#8208;metal precipitated from a gallium liquid metal alloy yields solution&#8208;processable Bi and oxide with controllable nanostructures such as nanosheets, nanotubes, and nanoparticles. Combining Bi nano&#8208;electrocatalysts and graphene liquid crystals creates self&#8208;assembling layered electrocatalytic systems. Integrating 3D printing technology allows for precise control over the geometry, microporosity, and number of deposited layers of the electrocatalytic scaffold electrode, resulting in improved mass transport properties, durability, and the prevention of catalyst detachment. Consequently, the ammonia production rate reaches 400 nmol s &#8722;1 cm &#8722;2 , with a Faradaic efficiency of over 90% and current densities exceeding 350 mA cm &#8722;2 . These numbers indicate the excellent scalability potential of the proposed electrocatalytic system.</description>
+      <author>Sahar Nazari, Jing Sun, Mahroo Baharfar, Philippe Poulin, Kourosh Kalantar&#8208;zadeh, Rouhollah Jalili, Dorna Esrafilzadeh</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304287</guid>
+    </item>
   </channel>
 </rss>
