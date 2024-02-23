@@ -1,98 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Feb 22 00:43:19 2024
+Created on Fri Feb 23 00:42:57 2024
 
-Found 25 results from 2024-02-15 to 2024-02-22
+Found 25 results from 2024-02-16 to 2024-02-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## A Water-Promoted Mars−van Krevelen Reaction Dominates Low-Temperature CO Oxidation over Au-Fe2O3 but Not over Au-TiO2   
-
-OpenAlex: https://openalex.org/W4391806007    
-Open access: True
-    
-[Alexander Holm](https://openalex.org/A5013981591), [Bernadette Davies](https://openalex.org/A5045357923), [Sara Boscolo Bibi](https://openalex.org/A5026383153), [Félix Moncada](https://openalex.org/A5000887640), [Joakim Halldin-Stenlid](https://openalex.org/A5092656027), [Laurynas Paškevičius](https://openalex.org/A5092656028), [Vincent Claman](https://openalex.org/A5092656029), [Adam Slabon](https://openalex.org/A5004773873), [Cheuk‐Wai Tai](https://openalex.org/A5034520322), [Egon Campos dos Santos](https://openalex.org/A5007728343), [Sergey Koroidov](https://openalex.org/A5048699879), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05978 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05978)).
-    
-No abstract    
-
-    
-
-## Subnanometer Cu Clusters on Porous Ag Enhancing Ethanol Production in Electrochemical CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4391806039    
-Open access: False
-    
-[Jiwon Park](https://openalex.org/A5052152711), [Chaehwa Jeong](https://openalex.org/A5073948306), [Moony Na](https://openalex.org/A5083175433), [Yusik Oh](https://openalex.org/A5043026627), [Kug‐Seung Lee](https://openalex.org/A5078186897), [Yongsoo Yang](https://openalex.org/A5060842309), [Hye Ryung Byon](https://openalex.org/A5063790278), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c03469.
-    
-Controlling the electrochemical CO2 reduction process for multicarbon production is challenging. Ethanol is typically produced with lower selectivity compared to ethylene. In addition, ill-defined catalytic active sites and elusive mechanisms of C–C coupling further hinder the enhancement of ethanol generation. Here, we carefully regulated the quantity of the Cu atoms and deposited them onto a Ag inverse-opal structure (AgIOs) using the pulse-electrodeposition method. Subnanometer Cu clusters demonstrated a 2.5 times higher Faradaic efficiency for ethanol production compared to that for ethylene at −1.05 V vs RHE. Conversely, as the size of Cu increased to nanometers, ethylene became the dominant product. Excessive adsorption of CO on Cu clusters, which migrates from the Ag surface, is attributed to the improved ethanol production. Abundant Ag/Cu boundaries and adjacent spacing between Ag and Cu clusters may enhance the surface migration of CO. In contrast, the preferential site-selective CO adsorption on large Cu nanoparticles is associated with solution-mediated CO migration. Operando shell-isolated nanoparticle-enhanced Raman spectroscopy (SHINERS) revealed a high coverage of the CO on the Cu clusters. The initial intermediate *OCCOH by C–C coupling appeared for both Cu clusters and nanoparticles. However, Cu clusters accommodated more carbonaceous intermediates, highlighting the critical role of CO and intermediate coverages on Cu in ethanol production.    
-
-    
-
-## Energy-Transfer-Enabled Radical Acylation Using Free Alkyl Boronic Acids through Photo and NHC Dual Catalysis   
-
-OpenAlex: https://openalex.org/W4391807503    
-Open access: False
-    
-[W.–B. Liu](https://openalex.org/A5038338910), [Xiang Zhang](https://openalex.org/A5031804038), [Lin Chen](https://openalex.org/A5078143614), [Rong Zeng](https://openalex.org/A5075090862), [Yu Tian](https://openalex.org/A5042492943), [Ernest Ma](https://openalex.org/A5021727268), [Yapeng Wang](https://openalex.org/A5052878834), [Bin Zhang](https://openalex.org/A5046881277), [Jun‐Long Li](https://openalex.org/A5053163012), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06027.
-    
-No abstract    
-
-    
-
-## New Mechanistic Insights into CO2/CO Electroreduction to Acetate by Combining Computations and Experiments   
-
-OpenAlex: https://openalex.org/W4391807606    
-Open access: False
-    
-[Xiaowan Bai](https://openalex.org/A5073327563), [Ming He](https://openalex.org/A5075203986), [Yifei Xu](https://openalex.org/A5048798891), [Bingjun Xu](https://openalex.org/A5073687384), [Qi Lü](https://openalex.org/A5032451131), [Jinlan Wang](https://openalex.org/A5020585562), [Chongyi Ling](https://openalex.org/A5007388482), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05825.
-    
-No abstract    
-
-    
-
-## Beyond Hydrogen Storage: Metal Hydrides for Catalysis   
-
-OpenAlex: https://openalex.org/W4391812707    
-Open access: False
-    
-[Haoming Yu](https://openalex.org/A5008530846), [Xingguo Li](https://openalex.org/A5042080363), [Jianlong Zheng](https://openalex.org/A5053175805), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05696.
-    
-Metal hydrides (MHs) are featured for their reversible hydrogen absorption and desorption properties, which are conventionally used as hydrogen storage materials. MHs can also be used for catalysis, particularly for chemical reactions that involve hydrogen. This Review summarizes the historical and recent progress in the catalytic application of MHs. The focus topic is how the reversible hydrogen absorption and desorption properties of MHs enable their catalytic effect in hydrogen involving chemical reactions. We start with the basic properties of MHs, and their applications in hydrogen storage and related fields. The application of MHs in four important catalytic reactions: olefin hydrogenation, reversible hydrogen storage in liquid organic hydrogen carriers, CO2 hydrogenation, and NH3 synthesis are discussed. Finally, we compare MH-based catalysts with their analogues, including hydrogen spillover, oxyhydrides, mixed-anion hydrides, and electrides in catalysis. The Review demonstrates the inherent relationship between MH catalysis and their intrinsic hydrogen absorption and desorption properties, providing insights into diverse applications of MHs beyond hydrogen storage.    
-
-    
-
-## Importance of Site Diversity and Connectivity in Electrochemical CO Reduction on Cu   
-
-OpenAlex: https://openalex.org/W4391821487    
-Open access: True
-    
-[Chansol Kim](https://openalex.org/A5044316913), [Nitish Govindarajan](https://openalex.org/A5023895763), [Sydney Hemenway](https://openalex.org/A5093526280), [Jun Ho Park](https://openalex.org/A5060549590), [Anya Zoraster](https://openalex.org/A5093526281), [Calton J. Kong](https://openalex.org/A5091102586), [Rajiv Ramanujam Prabhakar](https://openalex.org/A5084951895), [Joel B. Varley](https://openalex.org/A5089128933), [Hee‐Tae Jung](https://openalex.org/A5002468117), [Christopher Hahn](https://openalex.org/A5051674745), [Joel W. Ager](https://openalex.org/A5070081966), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05904 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05904)).
-    
-Electrochemical CO2 reduction on Cu is a promising approach to produce value-added chemicals using renewable feedstocks, yet various Cu preparations have led to differences in activity and selectivity toward single and multicarbon products. Here, we find, surprisingly, that the effective catalytic activity toward ethylene improves when there is a larger fraction of less active sites acting as reservoirs of *CO on the surface of Cu nanoparticle electrocatalysts. In an adaptation of chemical transient kinetics to electrocatalysis, we measure the dynamic response of a gas diffusion electrode (GDE) cell when the feed gas is abruptly switched between Ar (inert) and CO. When switching from Ar to CO, CO reduction (COR) begins promptly, but when switching from CO to Ar, COR can be maintained for several seconds (delay time) despite the absence of the CO reactant in the gas phase. A three-site microkinetic model captures the observed dynamic behavior and shows that Cu catalysts exhibiting delay times have a less active *CO reservoir that exhibits fast diffusion to active sites. The observed delay times and the estimated *CO reservoir sizes are affected by catalyst preparation, applied potential, and microenvironment (electrolyte cation identity, electrolyte pH, and CO partial pressure). Notably, we estimate that the *CO reservoir surface coverage can be as high as 88 ± 7% on oxide-derived Cu (OD-Cu) at high overpotentials (−1.52 V vs SHE) and this increases in reservoir coverage coincide with increased turnover frequencies to ethylene. We also estimate that *CO can travel substantial distances (up to 10s of nm) prior to desorption or reaction. It appears that active C–C coupling sites by themselves do not control selectivity to C2+ products in electrochemical COR; the supply of CO to those sites is also a crucial factor. More generally, the overall activity of Cu electrocatalysts cannot be approximated from linear combinations of individual site activities. Future designs must consider the diversity of the catalyst network and account for intersite transportation pathways.    
-
-    
-
-## Tuning the CO2 Hydrogenation Activity via Regulating the Strong Metal–Support Interactions of the Ni/Sm2O3 Catalyst   
-
-OpenAlex: https://openalex.org/W4391823363    
-Open access: False
-    
-[Jianxiong Zhao](https://openalex.org/A5034913146), [Xiaozhi Liu](https://openalex.org/A5074896161), [Zhengwen Li](https://openalex.org/A5033870660), [Kai Feng](https://openalex.org/A5033303258), [Yue Pan](https://openalex.org/A5025390487), [Pengxiang Ji](https://openalex.org/A5045088389), [Kangning Zhao](https://openalex.org/A5048901189), [Binhang Yan](https://openalex.org/A5047133857), [Dan Zhou](https://openalex.org/A5014058024), [Dong Su](https://openalex.org/A5015415276), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06345.
-    
-Strong metal–support interactions (SMSIs), characterized by the encapsulation of metal nanoparticles by the support oxide, have a significant impact on various heterogeneous catalytic reactions. In this study, we present our investigations on tuning the catalytic performance of CO2 hydrogenation through regulating the SMSI in a Ni/Sm2O3 catalyst. Our results demonstrate that the complete encapsulation of Ni nanoparticles with amorphous Sm2O3, achieved through H2 reduction, leads to nearly full selectivity to CO. In contrast, with controlled in situ thermal postannealing in an H2/CO2/N2 mixture, the encapsulated Sm2O3 layer can be partially removed and crystallized, as revealed by atomic-resolution transmission electron microscopy analyses, which results in enhanced activity and a full selectivity toward CH4. In addition, the prolonged postannealing durations completely remove the Sm2O3 overlayer, causing a decline in CO2 methanation activity. These findings underscore the critical role of the SMSI effect in CO2 hydrogenation activity and offer valuable insights for regulating SMSI to produce targeted value-added chemicals.    
-
-    
-
-## Correction to “Searching for the Rules of Electrochemical Nitrogen Fixation”   
-
-OpenAlex: https://openalex.org/W4391823418    
-Open access: True
-    
-[Romain Tort](https://openalex.org/A5061575652), [Alexander Bagger](https://openalex.org/A5061339044), [Olivia Westhead](https://openalex.org/A5046040902), [Yasuyuki Kondo](https://openalex.org/A5033416410), [Artem Khobnya](https://openalex.org/A5092649448), [Anna Winiwarter](https://openalex.org/A5086013761), [Bethan J. V. Davies](https://openalex.org/A5081900881), [Aron Walsh](https://openalex.org/A5035797693), [Yu Katayama](https://openalex.org/A5059373986), [Yuki Yamada](https://openalex.org/A5041044598), [Mary P. Ryan](https://openalex.org/A5038499496), [Maria‐Magdalena Titirici](https://openalex.org/A5075732110), [Ifan E. L. Stephens](https://openalex.org/A5039064548), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00448 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00448)).
-    
-ADVERTISEMENT RETURN TO ARTICLES ASAPPREVCorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to “Searching for the Rules of Electrochemical Nitrogen Fixation”Romain TortRomain TortMore by Romain Tort, Alexander Bagger*Alexander BaggerMore by Alexander Baggerhttps://orcid.org/0000-0002-6394-029X, Olivia WestheadOlivia WestheadMore by Olivia Westhead, Yasuyuki KondoYasuyuki KondoMore by Yasuyuki Kondohttps://orcid.org/0000-0003-1103-3329, Artem KhobnyaArtem KhobnyaMore by Artem Khobnya, Anna WiniwarterAnna WiniwarterMore by Anna Winiwarter, Bethan J. V. DaviesBethan J. V. DaviesMore by Bethan J. V. Davieshttps://orcid.org/0000-0002-3789-8462, Aron WalshAron WalshMore by Aron Walshhttps://orcid.org/0000-0001-5460-7033, Yu KatayamaYu KatayamaMore by Yu Katayamahttps://orcid.org/0000-0002-7842-2938, Yuki YamadaYuki YamadaMore by Yuki Yamadahttps://orcid.org/0000-0002-7191-7129, Mary P. RyanMary P. RyanMore by Mary P. Ryanhttps://orcid.org/0000-0001-8582-3003, Maria-Magdalena TitiriciMaria-Magdalena TitiriciMore by Maria-Magdalena Titiricihttps://orcid.org/0000-0003-0773-2100, and Ifan E. L. Stephens*Ifan E. L. StephensMore by Ifan E. L. StephensCite this: ACS Catal. 2024, 14, XXX, 3169–3170Publication Date (Web):February 14, 2024Publication History Received29 January 2024Published online14 February 2024https://doi.org/10.1021/acscatal.4c00448© 2024 The Authors. Published by American Chemical Society. This publication is licensed under CC-BY 4.0. License Summary*You are free to share (copy and redistribute) this article in any medium or format and to adapt (remix, transform, and build upon) the material for any purpose, even commercially within the parameters below:Creative Commons (CC): This is a Creative Commons license.Attribution (BY): Credit must be given to the creator.View full license*DisclaimerThis summary highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. Carefully review the actual license before using these materials. This publication is Open Access under the license indicated. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (1 MB) Get e-AlertscloseSupporting Info (1)»Supporting Information Supporting Information SUBJECTS:Binding energy,Electrical energy,Elements,Metals,Nitrides Get e-Alerts    
-
-    
 
 ## RuO2–CeO2 Lattice Matching Strategy Enables Robust Water Oxidation Electrocatalysis in Acidic Media via Two Distinct Oxygen Evolution Mechanisms   
 
@@ -278,5 +190,93 @@ Open access: False
 [Dachuan Zhang](https://openalex.org/A5006275258), [Huadong Xing](https://openalex.org/A5059599249), [Dongliang Li](https://openalex.org/A5003816728), [Mengying Han](https://openalex.org/A5003999551), [Pengli Cai](https://openalex.org/A5071379782), [Huikang Lin](https://openalex.org/A5054772627), [Yu Tian](https://openalex.org/A5072835438), [Y. Jay Guo](https://openalex.org/A5079122086), [Bin Sun](https://openalex.org/A5028594091), [Yingying Le](https://openalex.org/A5058727059), [Ye Tian](https://openalex.org/A5088657051), [Aibo Wu](https://openalex.org/A5011532820), [Qian-Nan Hu](https://openalex.org/A5054348304), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04461.
     
 Identifying functional enzymes for the catalysis of specific biochemical reactions is a major bottleneck in the de novo design of biosynthesis and biodegradation pathways. Conventional methods based on microbial screening and functional metagenomics require long verification periods and incur high experimental costs; recent data-driven methods apply only to a few common substrates. To enable rapid and high-throughput identification of enzymes for complex and less-studied substrates, we propose a robust enzyme’s substrate promiscuity prediction model based on positive unlabeled learning. Using this model, we identified 15 new degrading enzymes specific for the mycotoxins ochratoxin A and zearalenone, of which six could degrade >90% mycotoxin content within 3 h. We anticipate that this model will serve as a useful tool for identifying new functional enzymes and understanding the nature of biocatalysis, thereby advancing the fields of synthetic biology, metabolic engineering, and pollutant biodegradation.    
+
+    
+
+## Comment on “Heterogeneous Catalyst–Microbiome Hybrids for Efficient CO Driven C6 Carboxylic Acid Synthesis via Metabolic Pathway Manipulation”   
+
+OpenAlex: https://openalex.org/W4391883946    
+Open access: True
+    
+[Xu Ji](https://openalex.org/A5021732906), [Lei Zhang](https://openalex.org/A5072249913), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05852 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05852)).
+    
+The effective microbial conversion of syngas into medium chain fatty acids (MCFAs) is limited by factors such as restricted gas–liquid mass transfer efficiency, the toxicity of CO to microorganisms, and energetic constraints. In a recent study by Liu et al. [ ACS Catal. 2022, 12, 5834−5845], a hybrid system was introduced, combining a heterogeneous catalyst and microbiome to enable efficient MCFAs production from CO under mild conditions. The authors extended the chemical synthesis of various compounds, including fuels, light olefins, and oxygenates, which traditionally occur in the gaseous phase at high temperatures and pressures, to this new hybrid system operating in the aqueous phase at 35 °C and with interfering biomass. They claimed that “in the hybrid system, inorganic carbon fixation into organic carbon (adsorbed pyruvic acid) was achieved by the heterogeneous Pt/Fe2O3 catalysts, and the adsorbed pyruvic acid was subsequently metabolized by the anaerobic microbiome.” Our perspective raises questions about the conversion of inorganic carbon (CO) into pyruvic acid by the heterogeneous Pt/Fe2O3 catalysts in this hybrid system (operating in the aqueous phase at 35 °C with interfering biomass). We find this claim lacks strong support from existing literature and the experimental evidence provided by the authors. Instead, considering that the biological system alone (without the presence of heterogeneous Pt/Fe2O3) produced MCFAs when supplied with inorganic carbon (CO) and acetate, we propose that the observed enhancement might be attributed to the stimulating effects of heterogeneous Pt/Fe2O3 serving as a biocarrier for the microbiome, rather than the direct chemical synthesis of pyruvic acid.    
+
+    
+
+## Carbon Vacancies in Graphitic Carbon Nitride-Driven High Catalytic Performance of Pd/CN for Phenol-Selective Hydrogenation to Cyclohexanone   
+
+OpenAlex: https://openalex.org/W4391884288    
+Open access: False
+    
+[Xin-Lei Ding](https://openalex.org/A5090529700), [Ruyi Gao](https://openalex.org/A5075361694), [Yun Chen](https://openalex.org/A5073400092), [Hanyang Wang](https://openalex.org/A5051945922), [Yadong Liu](https://openalex.org/A5006914553), [Binghui Zhou](https://openalex.org/A5074843032), [Chengfei Wang](https://openalex.org/A5058826096), [Guangmei Bai](https://openalex.org/A5013672290), [Wenge Qiu](https://openalex.org/A5008228924), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05625.
+    
+A series of modified carbon nitride with a controlled amount of carbon vacancies is prepared successfully by simple acid treatment, and the performances of the corresponding Pd/CN-X catalysts in phenol-selective hydrogenation are investigated. It is found that the Pd/CN-30 catalyst exhibits the highest activity, while Pd/CN-60 shows a very low activity. The characterization of powder X-ray diffraction, transmission electron microscopy, X-ray photoelectron spectra, temperature-programmed desorption of phenol and cyclohexanone, phenol adsorption experiments, and isotope experiment show that the high catalytic activities and selectivity of Pd/CN-30 are related to its relatively high Pd dispersity, high phenol adsorption capacity, and proper hydrophilicity. However, the much lower activity of Pd/CN-60 can be attributed to the existence of competitive adsorption of phenol and water molecules on the catalyst surface and its low hydrogen activation ability due to the support over modification that results in the much stronger hydrophilicity and the near atomic Pd dispersion. In addition, the stability of Pd/CN-X is positively correlated with the carbon vacancy contents due to the strong interaction between the Pd species and the support.    
+
+    
+
+## Solar-Driven Cellulose Photorefining into Arabinose over Oxygen-Doped Carbon Nitride   
+
+OpenAlex: https://openalex.org/W4391884455    
+Open access: False
+    
+[Jiu Wang](https://openalex.org/A5037044128), [Qi Zhao](https://openalex.org/A5007791083), [Pawan Kumar](https://openalex.org/A5034642948), [Heng Zhao](https://openalex.org/A5051156801), [Liquan Jing](https://openalex.org/A5060918460), [Devis Di Tommaso](https://openalex.org/A5076994358), [Rachel Crespo‐Otero](https://openalex.org/A5074735621), [Md Golam Kibria](https://openalex.org/A5054125941), [Jinguang Hu](https://openalex.org/A5074155172), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06046.
+    
+Biomass photorefining is a promising strategy to address the energy crisis and transition toward carbon carbon-neutral society. Here, we demonstrate the feasibility of direct cellulose photorefining into arabinose by a rationally designed oxygen-doped polymeric carbon nitride, which generates favorable oxidative species (e.g., O2–, •OH) for selective oxidative reactions at neutral conditions. In addition, we also illustrate the mechanism of the photocatalytic cellulose to arabinose conversion by density functional theory calculations. The oxygen insertion derived from oxidative radicals at the C1 position of glucose within cellulose leads to oxidative cleavage of β-1,4 glycosidic linkages, resulting in the subsequent gluconic acid formation. The following decarboxylation process of gluconic acid via C1–C2 α-scissions, triggered by surface oxygen-doped active sites, generates arabinose and formic acid, respectively. This work not only offers a mechanistic understanding of cellulose photorefining to arabinose but also sets up an example for illuminating the path toward direct cellulose photorefining into value-added bioproducts under mild conditions.    
+
+    
+
+## Bacterial Lactonases ZenA with Noncanonical Structural Features Hydrolyze the Mycotoxin Zearalenone   
+
+OpenAlex: https://openalex.org/W4391885787    
+Open access: True
+    
+[Sebastian Fruhauf](https://openalex.org/A5014365087), [Dominic Pühringer](https://openalex.org/A5055952540), [Michaela Thamhesl](https://openalex.org/A5028965574), [Patricia Fajtl](https://openalex.org/A5093943220), [Elisavet Kunz-Vekiru](https://openalex.org/A5067046813), [Andreas Höbartner-Gußl](https://openalex.org/A5012599937), [G. Schatzmayr](https://openalex.org/A5005333777), [Gerhard Adam](https://openalex.org/A5004789646), [Jiřı́ Damborský](https://openalex.org/A5040585952), [Kristina Djinović-Carugo](https://openalex.org/A5078523272), [Zbyněk Prokop](https://openalex.org/A5001281717), [Wulf-Dieter Moll](https://openalex.org/A5058626928), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00271 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00271)).
+    
+Zearalenone (ZEN) is a mycoestrogenic polyketide produced by Fusarium graminearum and other phytopathogenic members of the genus Fusarium. Contamination of cereals with ZEN is frequent, and hydrolytic detoxification with fungal lactonases has been explored. Here, we report the isolation of a bacterial strain, Rhodococcus erythropolis PFA D8–1, with ZEN hydrolyzing activity, cloning of the gene encoding α/β hydrolase ZenA encoded on the linear megaplasmid pSFRL1, and biochemical characterization of nine homologues. Furthermore, we report site-directed mutagenesis as well as structural analysis of the dimeric ZenARe of R. erythropolis and the more thermostable, tetrameric ZenAScfl of Streptomyces coelicoflavus with and without bound ligands. The X-ray crystal structures not only revealed canonical features of α/β hydrolases with a cap domain including a Ser-His-Asp catalytic triad but also unusual features including an uncommon oxyanion hole motif and a peripheral, short antiparallel β-sheet involved in tetramer interactions. Presteady-state kinetic analyses for ZenARe and ZenAScfl identified balanced rate-limiting steps of the reaction cycle, which can change depending on temperature. Some new bacterial ZEN lactonases have lower KM and higher kcat than the known fungal ZEN lactonases and may lend themselves to enzyme technology development for the degradation of ZEN in feed or food.    
+
+    
+
+## Catalytic Enantioselective Construction of an α-Thio-Substituted α-Aminonitriles-Bearing Tetrasubstituted Carbon Center   
+
+OpenAlex: https://openalex.org/W4391885869    
+Open access: False
+    
+[Yusuke Oyamada](https://openalex.org/A5021993148), [Masaki Fujii](https://openalex.org/A5069799572), [Tsunayoshi Takehara](https://openalex.org/A5022094424), [Takeyuki Suzuki](https://openalex.org/A5067543338), [Shuichi Nakamura](https://openalex.org/A5037788901), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05757.
+    
+Chiral unnatural amino acids (UAAs) are important structural units that are commonly found in a wide range of natural products and bioactive molecules. Chiral α-aminonitriles, which are one of the most important precursors for chiral α-amino acid synthesis, are widely accessible via the asymmetric Strecker reaction. However, the construction of α-heteroatom-substituted α-aminonitriles presents a challenge due to the lack of reactivity of electrophiles (ester, amide, thioamide, etc.) and their ability as leaving groups. Therefore, a practical and robust approach to their enantioselective synthesis is highly desirable. We herein describe an efficient method for the preparation of chiral α-heteroatom-substituted α-aminonitriles containing a tetrasubstituted stereogenic carbon center. This protocol displayed a broad substrate scope for both reactants in high yield and with high enantioselectivity. Several mechanistic studies revealed that the presence of nitrile is crucial for enhancing the reactivity and controlling the selectivity of the reaction. This work not only provides N,S- and N,Se-ketal motifs but also a powerful strategy for overcoming the limitation of synthesizable α-aminonitriles.    
+
+    
+
+## Panoramic Mechanistic Insights into Hydrogen Production via Aqueous-Phase Reforming of Methanol Catalyzed by Ruthenium Complexes of Bis-N-Heterocyclic Carbene Pincer Ligands   
+
+OpenAlex: https://openalex.org/W4391895887    
+Open access: False
+    
+[Weiwei Qi](https://openalex.org/A5061877142), [Na Wang](https://openalex.org/A5090728786), [Lei Qin](https://openalex.org/A5032803732), [Peiyuan Yu](https://openalex.org/A5025860351), [Zhiping Zheng](https://openalex.org/A5018664048), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06138.
+    
+No abstract    
+
+    
+
+## Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments   
+
+OpenAlex: https://openalex.org/W4391923508    
+Open access: False
+    
+[Keun Ah Ryu](https://openalex.org/A5091564568), [Tamara Reyes‐Robles](https://openalex.org/A5024757326), [Thomas P. Wyche](https://openalex.org/A5013377903), [Tyler J. Bechtel](https://openalex.org/A5039265534), [Jayde M. Bertoch](https://openalex.org/A5061974174), [Ziliang Jin](https://openalex.org/A5085429602), [Christopher May](https://openalex.org/A5091071427), [Cody Scandore](https://openalex.org/A5093952691), [Noah Dephoure](https://openalex.org/A5093952692), [Sharon Wilhelm](https://openalex.org/A5075921743), [Ishtiaque Quasem](https://openalex.org/A5026076840), [Annika Yau](https://openalex.org/A5003459682), [Sampat Ingale](https://openalex.org/A5088823053), [Andrew Szendrey](https://openalex.org/A5066277037), [Margaret Duich](https://openalex.org/A5050276726), [Rob C. Oslund](https://openalex.org/A5073194775), [Olugbeminiyi O. Fadeyi](https://openalex.org/A5037325947), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00447.
+    
+The chemical transformation of aromatic amino acids has emerged as an attractive alternative to nonselective lysine or cysteine labeling for the modification of biomolecules. However, this strategy has largely been limited by the scope of functional groups and the biocompatible reaction conditions available. Herein, we report the implementation of near-infrared-activatable photocatalysts, TTMAPP and n-Pr-DMQA+, capable of generating fluoroalkyl radicals for peptide functionalization and protein labeling within simple and complex biological systems. At the peptide level, a diverse set of iodoperfluoroalkyl reagents were used in the functionalization and stapling of tryptophan residues. Using this photoredox catalyzed perfluoroalkylation technology, we achieved biotinylation of intracellular proteins in live cells. Notably, given the inherent tissue penetrant nature of near-infrared light, we further demonstrated the utility of this technology to achieve photocatalytic protein fluoroalkylation in patient-derived normal and tumor tissue for downstream confocal imaging and mass spectrometry-based proteomic analysis.    
+
+    
+
+## Strong Hydrogen-Bonded Interfacial Water Inhibiting Hydrogen Evolution Kinetics to Promote Electrochemical CO2 Reduction to C2+   
+
+OpenAlex: https://openalex.org/W4391926255    
+Open access: False
+    
+[Yang Wang](https://openalex.org/A5078232760), [Jianrui Zhang](https://openalex.org/A5039365969), [Jianyun Zhao](https://openalex.org/A5009225446), [Yuantao Wei](https://openalex.org/A5042449935), [Shenghua Chen](https://openalex.org/A5032988244), [Hongyang Zhao](https://openalex.org/A5023780872), [Yaqiong Su](https://openalex.org/A5013121247), [Shujiang Ding](https://openalex.org/A5065434610), [Chunhui Xiao](https://openalex.org/A5049259092), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05880.
+    
+Interfacial water is an important participant in electrochemical CO2 reduction (CO2RR), directly affecting the kinetics of hydrogenation steps occurring in the CO2RR and competitive hydrogen evolution reaction (HER). However, its structural composition and dynamic evolution are difficult to investigate due to bulk water interference and the bias dependence. Herein, we adopt electrochemical in situ vibration spectroscopy combined with molecular dynamics simulations to probe the dynamic change of interfacial water structure on an electrified hydrophobic electrode surface and further explore the mechanism origin of suppressed HER activity and enhanced multicarbon products’ selectivity. We reveal that interfacial water near the hydrophobic electrode surface exhibits rigid intermolecular hydrogen bonding interaction, and the degree of which increases with a bias potential. The strong intermolecular hydrogen bond makes it hard for water reorientation leading to a longer metal–H distance, which inhibits water dissociation and decreases *H coverage. Moderate *H coverage not only inhibits hydrogen evolution but also ensures hydrogenation of intermediates realizing promoted C–C dimerization. A faradaic efficiency of 75.2% for CO2 reduction to multicarbon products was ultimately achieved. Our results provide insights into understanding the role of interfacial water structure in controlling reaction selectivity in CO2RR.    
 
     

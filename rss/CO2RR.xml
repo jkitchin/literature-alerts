@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 22 Feb 2024 00:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 00:42:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -108,6 +108,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.02.128</guid>
     </item>
     <item>
+      <title>Carbon Dioxide Electroreduction and Formic Acid Oxidation by Formal Nickel(I) Complexes of Di&#8208;isopropylphenyl Bis&#8208;iminoacenaphthene</title>
+      <link>https://doi.org/10.1002/chem.202400168</link>
+      <description>Vera V. Khrizanforova, Robert R. Fayzullin, Sergey Kartashov, &#1042;. &#1048;. &#1052;&#1086;&#1088;&#1086;&#1079;&#1086;&#1074;, Mikhail Khrizanforov, Tatyana Gerasimova, Yulia H. Budnikova, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4391996987
+
+                Processing CO2 into value&#8208;added chemicals and fuels stands as one of the most crucial tasks in addressing the global challenge of the greenhouse effect. In this study, we focused on the complex (dpp&#8208;bian)NiBr2 (where dpp&#8208;bian is di&#8208;isopropylphenyl bis&#8208;iminoacenaphthene) as a precatalyst for the electrochemical reduction of CO2 into CH4 as the sole product. Cyclic voltammetry results indicate that the realization of a catalytically effective pattern requires the three&#8208;electron reduction of (dpp&#8208;bian)NiBr2. The chemically reduced complexes [K(THF)6]+[(dpp&#8208;bian)Ni(COD)]&#8211; and [K(THF)6]+[(dpp&#8208;bian)2Ni]&#8211; were synthesized and structurally characterized. Analyzing the data from the electron paramagnetic resonance study of the complexes in a solution, along with quantum&#8208;chemical calculations, reveals that the spin density is predominantly localized at their metal centers. The superposition of trajectory maps of the electron density gradient field and the one&#8208;electron electrostatic force field, along with the atomic charges, discloses that, within the first coordination sphere, the interatomic charge transfer occurs from the metal atom to the ligand atoms and that the complex anions can thus be formally described by the general formulas (dpp&#8208;bian)2&#8211;Ni+(COD) and (dpp&#8208;bian)2&#8211;Ni+. It was shown that the reduced nickel complexes can be oxidized by formic acid; resulting from this reaction, the two&#8208;electron and two&#8208;proton addition product dpp&#8208;bian&#8208;2H is formed.</description>
+      <author>Vera V. Khrizanforova, Robert R. Fayzullin, Sergey Kartashov, &#1042;. &#1048;. &#1052;&#1086;&#1088;&#1086;&#1079;&#1086;&#1074;, Mikhail Khrizanforov, Tatyana Gerasimova, Yulia H. Budnikova</author>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202400168</guid>
+    </item>
+    <item>
       <title>Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study</title>
       <link>https://doi.org/10.23937/2572-4053.1510043</link>
       <description>Fontenot Andee, Chuan Liu, Dewan Karuna, Journal of sleep disorders and management. 9(1)] 2024. https://openalex.org/W4391907254
@@ -116,16 +126,6 @@
       <author>Fontenot Andee, Chuan Liu, Dewan Karuna</author>
       <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.23937/2572-4053.1510043</guid>
-    </item>
-    <item>
-      <title>Analysis of reduction of carbon dioxide emissions from blast furnace under conditions of using advanced and existing blast furnace melting technologies</title>
-      <link>https://doi.org/10.52150/2522-9117-2023-37-158-174</link>
-      <description>&#1040;. &#1051;. &#1063;&#1072;&#1081;&#1082;&#1072;, B. V. Kornilov, A. O. Moskalyna, V. V. Lebid, M. M. Iziumskyi, M. H. Dzhyhota, Fundamental and applied problems of ferrous metallurgy. 37(None)] 2023. https://openalex.org/W4391829285
-
-                The article discusses the results of heat and power and exergy calculations of the possibilities of new and existing technologies to reduce carbon dioxide emissions and coke consumption, increase pig iron production by injecting hydrogen and hydrogen-containing fuel additives (coke and natural gas) into the furnace, using metal additives, increasing the blast temperature, heat losses, and improving gas distribution in the blast furnace. The calculations were performed using a mathematical model of the complete energy balance of blast furnace smelting developed at the Iron and Steel Institute of Z. I. Nekrasov National Academy of Sciences of Ukraine, and the impact of the potential of new and existing technologies on reducing CO2 emissions and technical and economic indicators of blast furnace smelting was assessed when the consumption of pulverized coal, hydrogen and hydrogen-containing fuel additives and their combinations in a wide range was changed. The limit values for the injection of hydrogen and hydrogen-containing fuel additives into the blast furnace horn have been determined, which are determined by the following factors: the degree of direct reduction of iron, theoretical combustion temperature, the presence of industrial oxygen, and the temperature of the furnace gas. The study results showed that CO2 emissions in blast furnace production can be reduced by 25-30% by making changes to blast furnace technology and depend on investments, the raw material and energy base of the steelmaker, and the level of existing blast furnace technology. The paper considers the impact of low-cost measures to increase the blast temperature, use of clean metal additives, reduce heat losses, and improve gas distribution in the blast furnace on the reduction of carbon dioxide emissions and technical and economic indicators of blast furnace smelting. The results can be useful for determining the economic feasibility of a particular measure to reduce CO2 emissions in blast furnace production.</description>
-      <author>&#1040;. &#1051;. &#1063;&#1072;&#1081;&#1082;&#1072;, B. V. Kornilov, A. O. Moskalyna, V. V. Lebid, M. M. Iziumskyi, M. H. Dzhyhota</author>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.52150/2522-9117-2023-37-158-174</guid>
     </item>
     <item>
       <title>Gallium Nitride&#8208;Based Artificial Photosynthesis Integrated Devices for Solar Hydrogen Generation and Carbon Dioxide Reduction</title>
@@ -160,10 +160,10 @@
     <item>
       <title>Electrochemical CO2 Reduction by Urea Hangman Mn Terpyridine species</title>
       <link>https://doi.org/10.1002/chem.202304218</link>
-      <description>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#275;i Li, Cheng Huang Lin, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4391881952
+      <description>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#277;i Li, Cheng Huang Lin, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4391881952
 
                 Based on our previous study in chemical subtleties of the proton tunneling distance for metal hydride formation (PTD&#8208;MH) to regulate the selectivity of CO2 reduction reaction (CO2RR), we have developed a family of Mn terpyridine derivatives, in which urea groups functioning as multipoint hydrogen&#8208;bonding hangman to accelerate the reaction rate. We found that such changes to the second coordination sphere significantly increased the turnover frequency (TOF) for CO2 reduction to ca. 360 s&#8208;1 with this family of molecular catalysts while maintaining high selectivity (ca. 100% &#177; 3) for CO even in the presence of a large amount of phenol as proton source. Notably, the compounds studied in this manuscript all exhibit large value for CO as that achieved by Fe porphyrins derivates, while saving up to 0.55 V in overpotential with respect to the latter.</description>
-      <author>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#275;i Li, Cheng Huang Lin</author>
+      <author>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#277;i Li, Cheng Huang Lin</author>
       <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202304218</guid>
     </item>
@@ -186,6 +186,16 @@
       <author>Shuai Li, Yanfeng Zhang, Lei Zhang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126842</guid>
+    </item>
+    <item>
+      <title>The implementation of intelligent edification to improve the energy efficiency and CO2 emission&#8217;s reduction</title>
+      <link>https://doi.org/10.1109/c358072.2023.10436172</link>
+      <description>Surichaqui Alvarez Sebastian Amulek, Castro Casas Alexis Del Piero, No host. None(None)] 2023. https://openalex.org/W4392008284
+
+                No abstract</description>
+      <author>Surichaqui Alvarez Sebastian Amulek, Castro Casas Alexis Del Piero</author>
+      <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/c358072.2023.10436172</guid>
     </item>
     <item>
       <title>Enhancing Cu-Ligand Interaction for Efficient CO2 Reduction towards Multi-carbon Products</title>
@@ -238,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ma00633f</guid>
     </item>
     <item>
-      <title>Co-Utilization of Wastewater Sludge and Heavy Metals for Single-Atom Electrocatalytic Reduction of Gaseous Co2</title>
-      <link>https://doi.org/10.2139/ssrn.4725703</link>
-      <description>Baiqin Zhou, Zhida Li, Xinyue He, Chunyue Zhang, Shanshan Pi, Min Yang, Shiguo Zhang, Guifeng Li, Ziqi Zhang, Lu Lu, No host. None(None)] 2024. https://openalex.org/W4391826229
-
-                Waste activated sludge (WAS), heavy metals and CO2 are three waste streams that exist in wastewater treatment plants. Synergetic management of these wastes for their valorization and cyclic utilization is rarely reported. Herein, we employed sludge-derived extracellular polymeric substances (EPS) as a matrix to adsorb heavy metal Ni in wastewater, the formed EPS-Ni precursor was directly electrospun and carbonized to fabricate a gas diffusion electrode (GDE) for electrochemical CO2 reduction reaction (ECO2RR). This approach can atomically disperse Ni to form quantitative Ni single atom catalysts (SACs) exposed at each nanofiber of the GDE. Moreover, abundant N element in the EPS was proved to play a key role in the formation of Nx-Ni (mixture of N3-Ni and N4-Ni) sites that enabled GDE to reduce CO2 to CO with high efficiency. The Ni3+ over prevailingly reported Ni+ in Ni SACs was observed and showed its high ECO2RR catalytic activity. The integration of both catalyst synthesis and electrode fabrication simplified the GDE manufacture process, thus reducing the material cost. The GDE was installed in a membrane electrode assembly (MEA) for direct gaseous CO2 reduction and generated a current up to 50 mA&#8901;cm-1 with a desirable CO selectivity (CO:H2 ratio of ~100 and ~75% Faraday efficiency of CO production) under 2.69 cell voltage. This strategy takes advantage of all waste streams generated on site and can consolidate traditionally separated treatment processes to save costs, produce value-added products and generate carbon benefits during wastewater treatment.</description>
-      <author>Baiqin Zhou, Zhida Li, Xinyue He, Chunyue Zhang, Shanshan Pi, Min Yang, Shiguo Zhang, Guifeng Li, Ziqi Zhang, Lu Lu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4725703</guid>
-    </item>
-    <item>
       <title>Engineering stable Cu+-Cu0 sites and oxygen defects in boron-doped copper oxide for electrocatalytic reduction of CO2 to C2+ products</title>
       <link>https://doi.org/10.1016/j.cej.2024.149710</link>
       <description>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391848551
@@ -256,6 +256,16 @@
       <author>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149710</guid>
+    </item>
+    <item>
+      <title>Reduction of CO2 in the Presence of Light via Excited-state Hydride Transfer Reaction in a NADPH-inspired Derivative</title>
+      <link>https://doi.org/10.1039/d3cp05635j</link>
+      <description>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger, Physical Chemistry Chemical Physics. None(None)] 2024. https://openalex.org/W4392006911
+
+                The photo-catalytic reduction of CO2 into chemical feedstocks using solar energy has attracted vast interest in environmental science because of global warming. Based on our previous study on the CO2...</description>
+      <author>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cp05635j</guid>
     </item>
     <item>
       <title>Artificial Intelligence Vision Technology Application of Automatic Steam&amp;amp;Heat Flow Detection Integrated with Carbon Dioxide Reduction and Brackish Water Treatment: A Sustainable Environmental Merit of Carbon Neutrality Through Solar-Driven Distillation Device</title>
@@ -278,14 +288,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126818</guid>
     </item>
     <item>
-      <title>Author Correction: Substantial reductions in non-CO2 greenhouse gas emissions reductions implied by IPCC estimates of the remaining carbon budget</title>
-      <link>https://doi.org/10.1038/s43247-024-01254-5</link>
-      <description>Joeri Rogelj, Robin Lamboll, Communications Earth &amp; Environment. 5(1)] 2024. https://openalex.org/W4391809086
+      <title>Three-dimensional N-doped carbon nanosheets loading heterostructured Ni/Ni3ZnC0.7 nanoparticles for Selective and Efficient CO2 Reduction</title>
+      <link>https://doi.org/10.1039/d3nr05771b</link>
+      <description>Li Liao, Chunguang Jia, She&#8208;Huang Wu, Shansheng Yu, Zhenhai Wen, Suqin Ci, Nanoscale. None(None)] 2024. https://openalex.org/W4391934877
 
-                No abstract</description>
-      <author>Joeri Rogelj, Robin Lamboll</author>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s43247-024-01254-5</guid>
+                Electrocatalytic CO2 reduction (CO2RR) has emerged as a promising approach for converting CO2 into valuable chemicals and fuels to achieve a sustainable carbon cycle. However, the development of efficient electrocatalysts...</description>
+      <author>Li Liao, Chunguang Jia, She&#8208;Huang Wu, Shansheng Yu, Zhenhai Wen, Suqin Ci</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3nr05771b</guid>
     </item>
   </channel>
 </rss>
