@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:41:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>High selective electrocatalytic reduction of carbon dioxide to ethylene enabled by regulating the microenvironment over Cu-Ag nanowires</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.02.028</link>
-      <description>D. D. Fan, Zhang Shi-ji, Yumeng Li, Bin Hua, Ruopeng Li, Yaqiang Li, Anmin Liu, Peixia Yang, Jinqiu Zhang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4391850244
-
-                Copper-based tandem catalysts are effective candidates for yielding multi-carbon (C2+) products in electrochemical reduction of carbon dioxide (CO2RR). However, these catalysts still face a significant challenge regarding in the low selectivity for the production of a specific product. In this study, we report a high selectivity of 77.8 %&#177;2% at &#8722;1.0 V (vs RHE) for the production of C2H4 by using a Cu88Ag12NW catalyst which is primarily prepared through a combined Cu-Ag co-deposition and wet chemical method, employing an attractive strategy focused on regulating the microenvironment over Cu-Ag nanowires. The experimental and computational studies show that the higher *CO coverage and lower intermediate adsorption energy are important reasons for achieving the high C2H4 selectivity of Cu88Ag12NW catalyst. Comsol simulation results indicate that dense nanowires exhibit a nano-limiting effect on OH&#8722; ions, thereby leading to an increase in local pH and promoting coupling reactions. The catalyst demonstrates no noticeable decrease in current density or selectivity even after 12 h of continuous operation. The Cu-Ag nanowire composite exhibits remarkable catalytic activity, superior faradaic efficiency, excellent stability, and easy synthesis, which highlights its significant potential for electro-reducing carbon dioxide into valuable products.</description>
-      <author>D. D. Fan, Zhang Shi-ji, Yumeng Li, Bin Hua, Ruopeng Li, Yaqiang Li, Anmin Liu, Peixia Yang, Jinqiu Zhang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.02.028</guid>
-    </item>
-    <item>
-      <title>Surface Termination Dependent Carbon Dioxide Reduction Reaction on Ti&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;2&lt;/sub&gt; MXene</title>
-      <link>https://doi.org/10.1039/d4ta00320a</link>
-      <description>Ling Meng, Likai Yan, Francesc Illas, Francesc Illas, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4391853343
-
-                The use of two-dimensional (2D) MXene materials as highly efficient electrocatalysts for carbon dioxide reduction reaction (CO 2 RR) has gained considerable attention in the last years. However, current computational studies on...</description>
-      <author>Ling Meng, Likai Yan, Francesc Illas, Francesc Illas</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta00320a</guid>
-    </item>
     <item>
       <title>Photocatalytic sponges for wastewater treatment, carbon dioxide reduction, and hydrogen production: a review</title>
       <link>https://doi.org/10.1007/s10311-024-01696-5</link>
@@ -118,6 +98,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202400168</guid>
     </item>
     <item>
+      <title>Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on InTaO4</title>
+      <link>https://doi.org/10.1016/j.mssp.2024.108235</link>
+      <description>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade, Materials Science in Semiconductor Processing. 174(None)] 2024. https://openalex.org/W4392042616
+
+                No abstract</description>
+      <author>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.108235</guid>
+    </item>
+    <item>
       <title>Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study</title>
       <link>https://doi.org/10.23937/2572-4053.1510043</link>
       <description>Fontenot Andee, Chuan Liu, Dewan Karuna, Journal of sleep disorders and management. 9(1)] 2024. https://openalex.org/W4391907254
@@ -128,6 +118,16 @@
       <guid isPermaLink="true">https://doi.org/10.23937/2572-4053.1510043</guid>
     </item>
     <item>
+      <title>Research of the Impact of Hydrogen Metallurgy Technology on the Reduction of the Chinese Steel Industry&#8217;s Carbon Dioxide Emissions</title>
+      <link>https://doi.org/10.3390/su16051814</link>
+      <description>Fang Wan, Jizu Li, Yaling Han, Xilong Yao, Sustainability. 16(5)] 2024. https://openalex.org/W4392043913
+
+                The steel industry, which relies heavily on primary energy, is one of the industries with the highest CO2 emissions in China. It is urgent for the industry to identify ways to embark on the path to &#8220;green steel&#8221;. Hydrogen metallurgy technology uses hydrogen as a reducing agent, and its use is an important way to reduce CO2 emissions from long-term steelmaking and ensure the green and sustainable development of the steel industry. Previous research has demonstrated the feasibility and emission reduction effects of hydrogen metallurgy technology; however, further research is needed to dynamically analyze the overall impact of the large-scale development of hydrogen metallurgy technology on future CO2 emissions from the steel industry. This article selects the integrated MARKAL-EFOM system (TIMES) model as its analysis model, constructs a China steel industry hydrogen metallurgy model (TIMES-CSHM), and analyzes the resulting impact of hydrogen metallurgy technology on CO2 emissions. The results indicate that in the business-as-usual scenario (BAU scenario), applying hydrogen metallurgy technology in the period from 2020 to 2050 is expected to reduce emissions by 203 million tons, and make an average 39.85% contribution to reducing the steel industry&#8217;s CO2 emissions. In the carbon emission reduction scenario, applying hydrogen metallurgy technology in the period from 2020 to 2050 is expected to reduce emissions by 353 million tons, contributing an average of 41.32% to steel industry CO2 reduction. This study provides an assessment of how hydrogen metallurgy can reduce CO2 emissions in the steel industry, and also provides a reference for the development of hydrogen metallurgy technology.</description>
+      <author>Fang Wan, Jizu Li, Yaling Han, Xilong Yao</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16051814</guid>
+    </item>
+    <item>
       <title>Gallium Nitride&#8208;Based Artificial Photosynthesis Integrated Devices for Solar Hydrogen Generation and Carbon Dioxide Reduction</title>
       <link>https://doi.org/10.1002/9781119600862.ch11</link>
       <description>Baowen Zhou, Peng Zhou, Dong Wu, Zetian Mi, No host. None(None)] 2024. https://openalex.org/W4391875089
@@ -136,16 +136,6 @@
       <author>Baowen Zhou, Peng Zhou, Dong Wu, Zetian Mi</author>
       <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/9781119600862.ch11</guid>
-    </item>
-    <item>
-      <title>Analysis of CO2 emissions reduction via by-product hydrogen</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.02.138</link>
-      <description>Chao Wang, Yongqiang Li, Junmin Wan, Yi Hu, International Journal of Hydrogen Energy. None(None)] 2024. https://openalex.org/W4391849200
-
-                Hydrogen is a clean energy in the world and by-product hydrogen is an important part of global hydrogen production. The yield of by-product hydrogen accounts for 18% of hydrogen production globally. To analyze the current stage and calculate CO2 emissions reduction of by-product hydrogen, sources, purification technology, utilization models, comparison of by-product hydrogen and other hydrogen resources, reduction of CO2 emissions, prospects of industrial by-product hydrogen were analyzed from the respective of industrial utilization. The resources of by-product hydrogen will get expanded further. It can facilitate the utilization of industrial by-product hydrogen to establish industrial zone with the factories producing by-product hydrogen and the downstream factories utilizing by-product hydrogen under the current technology conditions. By analyzing the relevant data, it is calculated that the utilization of industrial by-product hydrogen can reduce CO2 emissions by 6.11x105 t per year in 2022. With the development of hydrogen purification technology, by-product hydrogen can provide an efficient and economical way to reduce CO2 emissions for global warming migration before the completion of green hydrogen substitution for other hydrogen.</description>
-      <author>Chao Wang, Yongqiang Li, Junmin Wan, Yi Hu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.138</guid>
     </item>
     <item>
       <title>Sustainability Assessment Of Carbon Dioxide Emission Reduction From Energy Use In Cement Production Via Life Cycle Assessment And Ahp</title>
@@ -166,16 +156,6 @@
       <author>Minghong Li, Fang Huang, Ping Zhang, Ying Xiong, Yaping Zhang, F&#277;i Li, Cheng Huang Lin</author>
       <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202304218</guid>
-    </item>
-    <item>
-      <title>Coupling of Electrocatalytic CO2 Reduction and CH4 Oxidation for Efficient Methyl Formate Electrosynthesis</title>
-      <link>https://doi.org/10.1039/d4ee00087k</link>
-      <description>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng, Energy and Environmental Science. None(None)] 2024. https://openalex.org/W4391854676
-
-                The electrocatalytic carbon dioxide reduction reaction (CO2RR) is promising for converting this greenhouse gas into value-added chemicals, while it suffers from limited energy efficiency and product variability. The direct coupling...</description>
-      <author>Quan Zhang, Yangshen Chen, Shuai Yan, Ximeng Lv, Chao Yang, Min Kuang, Gengfeng Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ee00087k</guid>
     </item>
     <item>
       <title>Photobreeding oxygen vacancy facilitates phtocatalytic reduction of CO2</title>
@@ -248,16 +228,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ma00633f</guid>
     </item>
     <item>
-      <title>Engineering stable Cu+-Cu0 sites and oxygen defects in boron-doped copper oxide for electrocatalytic reduction of CO2 to C2+ products</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149710</link>
-      <description>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391848551
-
-                Cu-based catalysts inevitably undergo surface reconstruction during the electrochemical carbon dioxide reduction reaction (CO2RR) process. Thus, it is a challenge to construct stable Cu+-Cu0 sites of Cu-based catalysts. In this study, we report a simple and facile engineering strategy for stable Cu+-Cu0 sites and oxygen defects derived from the boron-doped copper oxide (B-CuxO) as an efficient CO2RR electrocatalyst. The 5 % B-CuxO exhibited 48.32 % C2+ products Faraday efficiency (FE) for 12 h at &#8722;1.0 V vs reversible hydrogen electrode (RHE) in H-cell, which was far superior to CuxO (23.78 %). Combining density functional theory (DFT) and in situ Attenuated Total Reflection Fourier Transform Infrared spectroscopy (in situ ATR-FTIR), a higher electronic depletion on the catalyst surface inhibited the electrons accumulation around Cu sites, thereby maintaining the positive charge and inhibiting the complete reduction of Cu+. Moreover, the high oxygen defects in 5 % B-CuxO could effectively activate CO2 into *CO. We emphasized that Cu+ functioned as the primary active site by facilitating adsorption and dimerization of *CO, whereas Cu0 assisted in optimizing CO2 activation.</description>
-      <author>Charles Q. Yang, Ruichen Wang, Yu Chen, Jinhua Xiao, Zhiwei Huang, Bihong Lv, Huawang Zhao, Xiaomin Wu, Guohua Jing</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149710</guid>
-    </item>
-    <item>
       <title>Reduction of CO2 in the Presence of Light via Excited-state Hydride Transfer Reaction in a NADPH-inspired Derivative</title>
       <link>https://doi.org/10.1039/d3cp05635j</link>
       <description>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger, Physical Chemistry Chemical Physics. None(None)] 2024. https://openalex.org/W4392006911
@@ -266,16 +236,6 @@
       <author>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3cp05635j</guid>
-    </item>
-    <item>
-      <title>Artificial Intelligence Vision Technology Application of Automatic Steam&amp;amp;Heat Flow Detection Integrated with Carbon Dioxide Reduction and Brackish Water Treatment: A Sustainable Environmental Merit of Carbon Neutrality Through Solar-Driven Distillation Device</title>
-      <link>https://doi.org/10.2139/ssrn.4727259</link>
-      <description>Shibiao Fang, Wenrong Tu, Wei Lu, No host. None(None)] 2024. https://openalex.org/W4391851772
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Shibiao Fang, Wenrong Tu, Wei Lu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4727259</guid>
     </item>
     <item>
       <title>Pre-treatment through reductive calcination for CO2 mineralization and selective battery metal extraction from laterites</title>
@@ -296,6 +256,56 @@
       <author>Li Liao, Chunguang Jia, She&#8208;Huang Wu, Shansheng Yu, Zhenhai Wen, Suqin Ci</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3nr05771b</guid>
+    </item>
+    <item>
+      <title>Investigating the Extent of the Impact of Acetic Acid as Halite Precipitation Reduction Agent for Enhancing CO2 Injectivity in Deep Saline Aquifers</title>
+      <link>https://doi.org/10.2118/217884-ms</link>
+      <description>Victor Darkwah-Owusu, Muhammad Aslam Md Yusof, Yen Adams Sokama&#8208;Neuyam, Bennet Nii Tackie-Otoo, Joshua Nsiah Turkson, Sunil Kwon, Jang Hyun Lee, Ingebret Fjelde, No host. None(None)] 2024. https://openalex.org/W4391874794
+
+                Abstract CO2 sequestration in deep saline aquifers is vital to reduce the global carbon footprint. However, this effort can be hampered due to salt precipitation during CO2 injection, which clogs flow pathways leading to a significant reduction in CO2 injectivity. While freshwater has traditionally been employed as the primary solution to dissolve the precipitated salt, the salt tends to re-precipitate upon CO2 reinjection post-treatment, exacerbating the injectivity damage. The project was divided into two stages: (1) simulating salt precipitation scenarios with varying brine salinities to mimic formation damage during CO2 injection in saline aquifers, and (2) critically assessing the impact and effectiveness of acetic acid as a mitigation fluid under different injection scenarios through core-flooding experiments. The results were compared with freshwater and low salinity water (LSW). Mineralogical and petrographical assessments were carried out on the core samples to characterize the Berea sandstone cores. The core flooding experiments were conducted at 60 &#176;C and 1600 psi for CO2 injection, freshwater, LSW and acetic acid flooding. The experimental results revealed significant reductions in permeability (37% -75% impairment) and porosity (18% to 33%) due to salt precipitation. Among the treatments, LSW exhibited the lowest efficacy, followed by freshwater, possibly due to clay swelling, fines migration, and capillary trapping effects causing pore throat blockages. In contrast to freshwater and LSW, acetic acid treatment demonstrated improved injectivity, showing a high dissolution potential with up to a 137% increase compared to initial permeability. This study provides a preliminary assessment of the potential of acetic acid for CO2 injectivity enhancement and recommends further investigations on the effects of acetic acid and brine concentrations on the process.</description>
+      <author>Victor Darkwah-Owusu, Muhammad Aslam Md Yusof, Yen Adams Sokama&#8208;Neuyam, Bennet Nii Tackie-Otoo, Joshua Nsiah Turkson, Sunil Kwon, Jang Hyun Lee, Ingebret Fjelde</author>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/217884-ms</guid>
+    </item>
+    <item>
+      <title>Ligand-controlled exposure of active sites on Pd1Ag14 nanoclusters surface to boost electrocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1039/d4cc00152d</link>
+      <description>Along Ma, Yong Ren, Yu Zuo, Jiawei Wang, Shan Huang, Xiaoshuang Ma, Shuxin Wang, Chemical Communications. None(None)] 2024. https://openalex.org/W4391932115
+
+                Advancing catalyst design requires meticulous control of nanocatalyst selectivity at the atomic level. Here, we synthesized two Pd1Ag14 nanoclusters: Pd1Ag14(PPh3)8(SPh(CF3)2)6 and Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, each with well-defined structures. Notably, in Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, the...</description>
+      <author>Along Ma, Yong Ren, Yu Zuo, Jiawei Wang, Shan Huang, Xiaoshuang Ma, Shuxin Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc00152d</guid>
+    </item>
+    <item>
+      <title>The Role of Phase Mixing Degree in Promoting C&#8208;C Coupling in Electrochemical CO2 Reduction Reaction on Cu&#8208;based Catalysts</title>
+      <link>https://doi.org/10.1002/anie.202400952</link>
+      <description>Yinuo Wang, Fei Yang, Hongming Xu, Juhee Jang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Zhehan Ying, Ping Gao, Shangqian Zhu, Meng Gu, Minhua Shao, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391926316
+
+                Cu&#8208;based catalysts have been identified as the most promising candidates for generation of C2+ products in electrochemical CO2 reduction reaction. Defect engineering in catalysts is a widely employed strategy for promoting C&#8208;C coupling on Cu. However, comprehensive understanding of defect structure&#8208;to&#8208;activity relationship has not been obtained. In this study, controllable defects generation is achieved, which leads to a series of Cu&#8208;based catalysts with various phase mixing degrees. It is observed that the Faradaic efficiency toward C2+ products increases with the phase mixing degree, reaching 81% at maximum. In&#8208;situ infrared absorption spectroscopy reveals that the catalysts with higher phase mixing degree tend to form *CO more easily and possess higher retention of *CO under high overpotential window, thereby promoting C&#8208;C coupling. This work sheds new light on the relationship between defects and C&#8208;C coupling, and the rational developed of more advanced Cu&#8208;base catalysts.</description>
+      <author>Yinuo Wang, Fei Yang, Hongming Xu, Juhee Jang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Zhehan Ying, Ping Gao, Shangqian Zhu, Meng Gu, Minhua Shao</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202400952</guid>
+    </item>
+    <item>
+      <title>The Role of Phase Mixing Degree in Promoting C&#8208;C Coupling in Electrochemical CO2 Reduction Reaction on Cu&#8208;based Catalysts</title>
+      <link>https://doi.org/10.1002/ange.202400952</link>
+      <description>Yinuo Wang, Fei Yang, Hongming Xu, Juhee Jang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Zhehan Ying, Ping Gao, Shangqian Zhu, Meng Gu, Minhua Shao, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391942916
+
+                Cu&#8208;based catalysts have been identified as the most promising candidates for generation of C2+ products in electrochemical CO2 reduction reaction. Defect engineering in catalysts is a widely employed strategy for promoting C&#8208;C coupling on Cu. However, comprehensive understanding of defect structure&#8208;to&#8208;activity relationship has not been obtained. In this study, controllable defects generation is achieved, which leads to a series of Cu&#8208;based catalysts with various phase mixing degrees. It is observed that the Faradaic efficiency toward C2+ products increases with the phase mixing degree, reaching 81% at maximum. In&#8208;situ infrared absorption spectroscopy reveals that the catalysts with higher phase mixing degree tend to form *CO more easily and possess higher retention of *CO under high overpotential window, thereby promoting C&#8208;C coupling. This work sheds new light on the relationship between defects and C&#8208;C coupling, and the rational developed of more advanced Cu&#8208;base catalysts.</description>
+      <author>Yinuo Wang, Fei Yang, Hongming Xu, Juhee Jang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Zhehan Ying, Ping Gao, Shangqian Zhu, Meng Gu, Minhua Shao</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202400952</guid>
+    </item>
+    <item>
+      <title>A robust Ni single-atom catalyst for industrial current and exceptional selectivity in electrochemical CO2 reduction to CO</title>
+      <link>https://doi.org/10.1039/d3ta07216a</link>
+      <description>Zhicheng Liu, Longsheng Cao, Manli Wang, Yun Zhao, Ming Hou, Zhigang Shao, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4392018860
+
+                While achieving a Faradaic efficiency (FE) over 90% in the electroreduction of CO2 to CO with single transition metal atom anchored on nitrogen-doped carbon (M-N-C) catalyst is indeed notable, the...</description>
+      <author>Zhicheng Liu, Longsheng Cao, Manli Wang, Yun Zhao, Ming Hou, Zhigang Shao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta07216a</guid>
     </item>
   </channel>
 </rss>

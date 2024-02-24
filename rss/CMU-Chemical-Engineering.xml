@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Feb 2024 00:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 00:41:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Utilizing modern computer architectures to solve mathematical optimization problems: A survey</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108627</link>
-      <description>David E. Bernal Neira, Carl D. Laird, Laurens Lueg, Stuart M. Harwood, Dimitar Trenev, Davide Venturelli, Computers &amp; Chemical Engineering. None(None)] 2024. https://openalex.org/W4391848869
-
-                Numerical algorithms to solve mathematical optimization problems efficiently are essential to applications in many areas of engineering and computational science. To solve optimization problems of ever-increasing scale and complexity, we need methods that exploit emerging hardware systems. However, the complexities of specific architectures and their impact on performance can be challenging. This article provides an overview of emerging hardware architectures and how they are used to solve mathematical optimization problems. We focus on parallel high-performance computing architectures, which are well-established yet challenging to employ for optimization, as well as digital quantum computing, which has recently gained attention due to its potential for transformative computational performance. Furthermore, we highlight several other emerging hardware architectures that may become relevant for mathematical optimization. We intend for this review to encourage the optimization and process engineering communities to increasingly consider both hardware and software developments in the pursuit of superior computational performance.</description>
-      <author>David E. Bernal Neira, Carl D. Laird, Laurens Lueg, Stuart M. Harwood, Dimitar Trenev, Davide Venturelli</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108627</guid>
-    </item>
   </channel>
 </rss>
