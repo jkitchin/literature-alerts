@@ -62,8 +62,7 @@ def write_org(topic, results):
     Path('org').mkdir(exist_ok=True)
     orgfile = Path('org') / (base + '.org')
 
-    with open(orgfile, 'w') as f:
-        f.write(f'#+filetags: {topic["label"].replace(" ", "_")}\n')
+    with open(orgfile, 'w') as f:        
         f.write(f'#+TITLE: {topic["label"]}\n')
         f.write(f'Description: {topic["description"]}\n')
         f.write(f'Created on {time.asctime()}\n\n')
