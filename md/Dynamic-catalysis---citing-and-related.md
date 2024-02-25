@@ -1,6 +1,6 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Sun Feb 25 00:47:42 2024
+Created on Sun Feb 25 14:23:29 2024
 
 Found 0 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)

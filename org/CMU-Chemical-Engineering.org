@@ -1,7 +1,7 @@
 #+filetags: CMU_Chemical_Engineering
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Feb 25 00:47:35 2024
+Created on Sun Feb 25 14:23:21 2024
 
 Found 1 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -9,7 +9,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * Sulfuric Acid New Particle Formation Field Campaign Report  :CMU_Chemical_Engineering:
 :PROPERTIES:
-:ID: https://openalex.org/W4392089647
+:UUID: https://openalex.org/W4392089647
 :TOPICS: Sulfur Compounds Removal Technologies, Nanobubbles in Water Treatment, Desulfurization Technologies for Fuels
 :PUBLICATION_DATE: 2024-02-01
 :END:    

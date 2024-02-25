@@ -1,7 +1,7 @@
 #+filetags: ACS_Catalysis
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Feb 25 00:47:34 2024
+Created on Sun Feb 25 14:23:20 2024
 
 Found 25 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -9,7 +9,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * Panoramic Mechanistic Insights into Hydrogen Production via Aqueous-Phase Reforming of Methanol Catalyzed by Ruthenium Complexes of Bis-N-Heterocyclic Carbene Pincer Ligands  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391895887
+:UUID: https://openalex.org/W4391895887
 :TOPICS: Homogeneous Catalysis with Transition Metals, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Conversion of Biomass to Fuels and Chemicals
 :PUBLICATION_DATE: 2024-02-17
 :END:    
@@ -30,7 +30,7 @@ No abstract
 
 * Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391923508
+:UUID: https://openalex.org/W4391923508
 :TOPICS: Click Chemistry in Chemical Biology and Drug Development, Role of Fluorine in Medicinal Chemistry and Pharmaceuticals, Therapeutic Antibodies: Development, Engineering, and Applications
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -51,7 +51,7 @@ The chemical transformation of aromatic amino acids has emerged as an attractive
 
 * Strong Hydrogen-Bonded Interfacial Water Inhibiting Hydrogen Evolution Kinetics to Promote Electrochemical CO2 Reduction to C2+  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391926255
+:UUID: https://openalex.org/W4391926255
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -72,7 +72,7 @@ Interfacial water is an important participant in electrochemical CO2 reduction (
 
 * Ultrathin and Conformal TiOx Overlayers on WO3 Photoelectrodes for Simultaneous Surface Trap Passivation and Heterojunction Formation  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391931816
+:UUID: https://openalex.org/W4391931816
 :TOPICS: Emergent Phenomena at Oxide Interfaces, Gas Sensing Technology and Materials, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-02-18
 :END:    
@@ -93,7 +93,7 @@ Nanoporous structures facilitate the exposure of active sites and allow a high r
 
 * Strain-Engineered Ru-NiCr LDH Nanosheets Boosting Alkaline Hydrogen Evolution Reaction  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933113
+:UUID: https://openalex.org/W4391933113
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -114,7 +114,7 @@ Ruthenium (Ru) has been considered as a promising candidate for alkaline hydroge
 
 * Facet-Dependent Oxygen Mobility and Reaction Pathways for Oxidative Dehydrogenation of 1-Butene over Bi2MoO6  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391954093
+:UUID: https://openalex.org/W4391954093
 :TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Catalytic Oxidation of Alcohols
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -135,7 +135,7 @@ The crystal facet effect is a critical factor for catalytic reactions on metal o
 
 * Reactant-Induced Dynamic Stabilization of Highly Dispersed Pt Catalysts on Ceria Dictating the Reactivity of CO Oxidation  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391960667
+:UUID: https://openalex.org/W4391960667
 :TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -156,7 +156,7 @@ No abstract
 
 * Selective Light Hydrocarbon Production from CO2 Hydrogenation over Na/ZnFe2O4 and CHA-Zeolite Hybrid Catalysts  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391962385
+:UUID: https://openalex.org/W4391962385
 :TOPICS: Zeolite Chemistry and Catalysis, Catalytic Carbon Dioxide Hydrogenation, Catalytic Conversion of Biomass to Fuels and Chemicals
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -177,7 +177,7 @@ Carbon dioxide hydrogenation to value-added fuels and chemicals has been studied
 
 * Influence of Solvents on Catalytic C–H Bond Oxidation by a Copper(II)–Alkylperoxo Complex  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391966230
+:UUID: https://openalex.org/W4391966230
 :TOPICS: Dioxygen Activation at Metalloenzyme Active Sites, Catalytic Oxidation of Alcohols, Role of Porphyrins and Phthalocyanines in Materials Chemistry
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -198,7 +198,7 @@ Oxidation of unactivated alkanes, which requires substantial energy for conversi
 
 * Design of Ancestral Sortase E that is Applicable in Protein Biomaterial Synthesis  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391970017
+:UUID: https://openalex.org/W4391970017
 :TOPICS: Cyclotide Bioengineering and Protein Anchoring Mechanisms
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -219,7 +219,7 @@ Protein biomaterials would have the potential to address global challenges in he
 
 * Alanyl-tRNA Synthetase-like Enzyme-Catalyzed Aminoacylation in Nucleoside Sulfamate Ascamycin Biosynthesis  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391972423
+:UUID: https://openalex.org/W4391972423
 :TOPICS: Peptide Synthesis and Drug Discovery, Nucleotide Metabolism and Enzyme Regulation, Ribosome Structure and Translation Mechanisms
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -240,7 +240,7 @@ The adenosine 5′-monophosphate-mimicking nucleoside sulfamates are pharmaceuti
 
 * Designing Local Electron Delocalization in 2D Covalent Organic Frameworks for Enhanced Sunlight-Driven Photocatalytic Activity  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391972463
+:UUID: https://openalex.org/W4391972463
 :TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion, Content-Centric Networking for Information Delivery
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -261,7 +261,7 @@ Electron delocalization is a versatile method to tune the electronic structure o
 
 * Atomically Dispersed Palladium Driving Reductive Catalytic Fractionation of Lignocellulose into Alkene-Functionalized Phenols  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391980645
+:UUID: https://openalex.org/W4391980645
 :TOPICS: Catalytic Valorization of Lignin for Renewable Chemicals, Catalytic Conversion of Biomass to Fuels and Chemicals, Nanocellulose: Properties, Production, and Applications
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -282,7 +282,7 @@ No abstract
 
 * Selective Cascading Hydroboration of N-Heteroarenes via Cobalt Catalysis  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391983174
+:UUID: https://openalex.org/W4391983174
 :TOPICS: Homogeneous Catalysis with Transition Metals, Frustrated Lewis Pairs Chemistry, Peptide Synthesis and Drug Discovery
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -303,7 +303,7 @@ No abstract
 
 * Coverage-Induced Cation Dehydration and Migration for Enhanced CO–CO Coupling on Cu Electrocatalysts  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391983620
+:UUID: https://openalex.org/W4391983620
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -324,7 +324,7 @@ No abstract
 
 * Influence of Carbon Nanotube Support on Electrochemical Nitrate Reduction Catalyzed by Cobalt Phthalocyanine Molecules  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391983621
+:UUID: https://openalex.org/W4391983621
 :TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -345,7 +345,7 @@ No abstract
 
 * Highly Selectively Methane Photooxidation to CH3OH and HCHO over an Integrated Fe2O3/WO3 Heterojunction Greatly Promoted by Iron(III) Chloride  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391984254
+:UUID: https://openalex.org/W4391984254
 :TOPICS: Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -366,7 +366,7 @@ No abstract
 
 * Designing an Efficient Biocatalyst for the Phosphoribosylation of Antiviral Pyrazine-2-carboxamide Derivatives  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391991668
+:UUID: https://openalex.org/W4391991668
 :TOPICS: Nucleotide Metabolism and Enzyme Regulation, Synthesis and Biological Activities of Oxazolones, Role of Fluorine in Medicinal Chemistry and Pharmaceuticals
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -387,7 +387,7 @@ The development of technologies for the efficient synthesis of innovative antivi
 
 * High-Entropy Effect Promoting Self-Healing Behavior of Two-Dimensional Metal Oxide Electrocatalysts for Oxygen Evolution Reaction  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391991674
+:UUID: https://openalex.org/W4391991674
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -408,7 +408,7 @@ No abstract
 
 * Integrating Atomically Dispersed Ir Sites in MnCo2O4.5 for Highly Stable Acidic Oxygen Evolution Reaction  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391992130
+:UUID: https://openalex.org/W4391992130
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -429,7 +429,7 @@ Industrial water electrolysis requires oxygen evolution reaction (OER) catalysts
 
 * Photoinduced, Palladium-Catalyzed Enantioselective 1,2-Alkylsulfonylation of 1,3-Dienes  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391993117
+:UUID: https://openalex.org/W4391993117
 :TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Innovations in Organic Synthesis Reactions, Transition-Metal-Catalyzed C–H Bond Functionalization
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -450,7 +450,7 @@ The chiral allylic sulfonylated group is a unique structural motif embedded in a
 
 * Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391996262
+:UUID: https://openalex.org/W4391996262
 :TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Catalytic Carbon Dioxide Hydrogenation
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -471,7 +471,7 @@ Aluminosilicate zeolites exchanged with copper ions facilitate partial methane o
 
 * Dynamic Docking-Assisted Engineering of Hydrolases for Efficient PET Depolymerization  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4391997686
+:UUID: https://openalex.org/W4391997686
 :TOPICS: Global E-Waste Recycling and Management, Biodegradable Polymers as Biomaterials and Packaging, Recycling Technologies for Carbon Fiber Composites
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -492,7 +492,7 @@ No abstract
 
 * Photoinduced Regioselective Sulfonylsulfination of Alkenes  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4392004197
+:UUID: https://openalex.org/W4392004197
 :TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Innovations in Organic Synthesis Reactions, Applications of Photoredox Catalysis in Organic Synthesis
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -513,7 +513,7 @@ Regioselective 1,2-dichalcogenation of alkenes has attracted significant attenti
 
 * Atroposelective Synthesis of Axially Chiral Diaryl Ethers by Copper-Catalyzed Enantioselective Alkyne–Azide Cycloaddition  :ACS_Catalysis:
 :PROPERTIES:
-:ID: https://openalex.org/W4392004251
+:UUID: https://openalex.org/W4392004251
 :TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Sphingolipid Signalling and Metabolism in Health and Disease
 :PUBLICATION_DATE: 2024-02-21
 :END:    

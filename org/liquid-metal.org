@@ -1,7 +1,7 @@
 #+filetags: liquid-metal
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sun Feb 25 00:47:33 2024
+Created on Sun Feb 25 14:23:18 2024
 
 Found 1 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -9,7 +9,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * High‐Throughput Ammonia Production from Nitrate Using Liquid Metal Synthesized Bismuth Nano‐Catalyst  :liquid_metal:
 :PROPERTIES:
-:ID: https://openalex.org/W4391946461
+:UUID: https://openalex.org/W4391946461
 :TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials, Distributed Storage Systems and Network Coding
 :PUBLICATION_DATE: 2024-02-19
 :END:    

@@ -1,7 +1,7 @@
 #+filetags: New_citations_for_John_Kitchin
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Sun Feb 25 00:47:41 2024
+Created on Sun Feb 25 14:23:28 2024
 
 Found 27 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -16,7 +16,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * Atomic-level insights into bioinspired Fe/Ni bimetallic active sites on carbon nitrides for electrocatalytic O2 evolution  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391896201
+:UUID: https://openalex.org/W4391896201
 :TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -37,7 +37,7 @@ Atomically dispersed active speices on nanomaterials have shown greate promise f
 
 * Cutting-edge advancements in MXene-derived materials: Revolutionary electrocatalysts for hydrogen evolution and high-performance energy storage  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391907192
+:UUID: https://openalex.org/W4391907192
 :TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Memristive Devices for Neuromorphic Computing, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-05-01
 :END:    
@@ -58,7 +58,7 @@ MXenes belong to a set of 2-dimensional (2D) materials composed of transition me
 
 * General Pyrolysis for High-Loading Transition Metal Single Atoms on 2D-Nitro-Oxygeneous Carbon as Efficient ORR Electrocatalysts  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391909267
+:UUID: https://openalex.org/W4391909267
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Memristive Devices for Neuromorphic Computing
 :PUBLICATION_DATE: 2024-02-17
 :END:    
@@ -79,7 +79,7 @@ No abstract
 
 * Catalyzing Sustainable Water Splitting with Single Atom Catalysts: Recent Advances  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391926985
+:UUID: https://openalex.org/W4391926985
 :TOPICS: Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis, Catalytic Reduction of Nitro Compounds
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -100,7 +100,7 @@ Abstract Electrochemical water splitting for sustainable hydrogen and oxygen pro
 
 * Density‐Functional Theory Studies on Photocatalysis and Photoelectrocatalysis: Challenges and Opportunities  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391929686
+:UUID: https://openalex.org/W4391929686
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -121,7 +121,7 @@ Density‐functional theory (DFT) is pivotal in the advancement of photocatalysi
 
 * Photoelectrocatalytic activation of sulfate for sulfamethoxazole degradation and simultaneous H2 production by bifunctional N,P co-doped black-blue TiO2 nanotube array electrode  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391931133
+:UUID: https://openalex.org/W4391931133
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Photocatalysis and Solar Energy Conversion
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -142,7 +142,7 @@ No abstract
 
 * The NOMAD mini-apps: A suite of kernels from ab initio electronic structure codes enabling co-design in high-performance computing  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933077
+:UUID: https://openalex.org/W4391933077
 :TOPICS: Distributed Storage Systems and Network Coding, Parallel Computing and Performance Optimization, Atomic Layer Deposition Technology
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -163,7 +163,7 @@ This article introduces a suite of mini-applications (mini-apps) designed to opt
 
 * kinisi: Bayesian analysis of mass transport from molecular dynamics simulations  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933289
+:UUID: https://openalex.org/W4391933289
 :TOPICS: Advancements in Density Functional Theory, Accelerating Materials Innovation through Informatics, Engineering of Surface Nanostructures
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -184,7 +184,7 @@ No abstract
 
 * Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933654
+:UUID: https://openalex.org/W4391933654
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -205,7 +205,7 @@ Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of
 
 * Methane sulfonic acid-assisted synthesis of g-C3N4/Ni2P/Ni foam: Efficient, stable and recyclable for photocatalytic nitrogen fixation under visible light  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391940943
+:UUID: https://openalex.org/W4391940943
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Ammonia Synthesis and Electrocatalysis, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes)
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -226,7 +226,7 @@ No abstract
 
 * The Special Activity of Stone–Wales Defect Graphene for the Oxygen Reduction Reaction: A Comparison Study between the Charge-Neutral Model and the Constant Potential Model Calculated by Density Functional Theory  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391942912
+:UUID: https://openalex.org/W4391942912
 :TOPICS: Graphene: Properties, Synthesis, and Applications, Atomic Layer Deposition Technology, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -247,7 +247,7 @@ No abstract
 
 * Selective Oxidation of the Intermetallic Compound PtAl2 from Ab Initio Thermodynamics  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391945161
+:UUID: https://openalex.org/W4391945161
 :TOPICS: Catalytic Nanomaterials, Design and Applications of Intermetallic Alloys, Atom Probe Tomography Research
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -268,7 +268,7 @@ No abstract
 
 * Alkali Containing Layered Metal Oxides as Catalysts for the Oxygen Evolution Reaction  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391948002
+:UUID: https://openalex.org/W4391948002
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -289,7 +289,7 @@ Abstract Improving the efficiency of the oxygen evolution reaction (OER) is esse
 
 * Catalyst Selection over an Electrochemical Reductive Coupling Reaction toward Direct Electrosynthesis of Oxime from NOx and Aldehyde  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391952084
+:UUID: https://openalex.org/W4391952084
 :TOPICS: Ammonia Synthesis and Electrocatalysis, Applications of Photoredox Catalysis in Organic Synthesis, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -310,7 +310,7 @@ No abstract
 
 * Engineering Pt‐Cu diatomics electrocatalysts enables highly efficient urea synthesis  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391954090
+:UUID: https://openalex.org/W4391954090
 :TOPICS: Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis, Materials and Methods for Hydrogen Storage
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -331,7 +331,7 @@ Abstract The rational design of novel heterogeneous urea‐synthesis electrocata
 
 * Optoelectronic and transport properties of vacancy-ordered double-perovskite halides: A first-principles study  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391954370
+:UUID: https://openalex.org/W4391954370
 :TOPICS: Perovskite Solar Cell Technology, Thin-Film Solar Cell Technology, Applications of Quantum Dots in Nanotechnology
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -352,7 +352,7 @@ In the search for stable lead-free perovskites, vacancy-ordered double perovskit
 
 * Theoretical Insights into the Selective Electrocatalytic Reduction of NO to NH3 on a Two-Dimensional Cu-Benzylthiol Metal–Organic Framework Nanostructure  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391956639
+:UUID: https://openalex.org/W4391956639
 :TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -373,7 +373,7 @@ No abstract
 
 * Synergistic Fe and Co binary single atoms based air cathodes for high performance and ultra-stable Zn-air batteries  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391957760
+:UUID: https://openalex.org/W4391957760
 :TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -394,7 +394,7 @@ No abstract
 
 * Positivity preserving density matrix minimization at finite temperatures via square root  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391960448
+:UUID: https://openalex.org/W4391960448
 :TOPICS: Matrix Algorithms and Iterative Methods, Graph Spectra and Topological Indices, Phase Transitions and Critical Phenomena
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -415,7 +415,7 @@ We present a Wave Operator Minimization (WOM) method for calculating the Fermi�
 
 * High-Performance Iridium–Molybdenum Oxide Electrocatalysts for Water Oxidation in Acid: Bayesian Optimization Discovery and Experimental Testing  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391963993
+:UUID: https://openalex.org/W4391963993
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -436,7 +436,7 @@ No abstract
 
 * Mixed Stochastic-Deterministic Approach for Many-Body Perturbation Theory Calculations  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391972280
+:UUID: https://openalex.org/W4391972280
 :TOPICS: High-Temperature Superconductivity, Advancements in Density Functional Theory, Phase Transitions and Critical Phenomena
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -457,7 +457,7 @@ We present an approach for $GW$ calculations of quasiparticle energies with quas
 
 * Ni-doping effects on formation and migration of oxygen vacancies in SrFe1−xNixO3−δ oxygen carriers  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391974220
+:UUID: https://openalex.org/W4391974220
 :TOPICS: Emergent Phenomena at Oxide Interfaces, Magnetocaloric Materials Research, Solid Oxide Fuel Cells
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -478,7 +478,7 @@ Ni is a promising B-site doping element capable of improving the oxygen carrier 
 
 * Automated analysis of surface facets: the example of cesium telluride  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391982702
+:UUID: https://openalex.org/W4391982702
 :TOPICS: Accelerating Materials Innovation through Informatics, Infrared Detector Technologies, Powder Diffraction Analysis
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -499,7 +499,7 @@ Abstract High-throughput screening combined with ab initio calculations is a pow
 
 * Data‐Driven Screening of Pivotal Subunits in Edge‐Anchored Single Atom Catalysts for Oxygen Reactions  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391984271
+:UUID: https://openalex.org/W4391984271
 :TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -520,7 +520,7 @@ Abstract Oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER)
 
 * Machine learning guides the discovery of high-performance HEA catalysts  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391995369
+:UUID: https://openalex.org/W4391995369
 :TOPICS: Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -541,7 +541,7 @@ High performance catalysts are crucial to generating clean fuels, reducing the i
 
 * Local-environment-guided selection of atomic structures for the development of machine-learning potentials  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4392014929
+:UUID: https://openalex.org/W4392014929
 :TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Powder Diffraction Analysis
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -562,7 +562,7 @@ Machine learning potentials (MLPs) have attracted significant attention in compu
 
 * Modeling the Effects of Varying the Ti Concentration on the Mechanical Properties of Cu–Ti Alloys  :New_citations_for_John_Kitchin:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933315
+:UUID: https://openalex.org/W4391933315
 :TOPICS: Nanomaterials and Mechanical Properties, Metal Matrix Composites: Science and Applications, Aluminium Alloys for Aerospace and Automotive Applications
 :PUBLICATION_DATE: 2024-02-19
 :END:    

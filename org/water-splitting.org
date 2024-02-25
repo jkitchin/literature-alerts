@@ -1,7 +1,7 @@
 #+filetags: water_splitting
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Sun Feb 25 00:47:30 2024
+Created on Sun Feb 25 14:23:14 2024
 
 Found 36 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -10,7 +10,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * Iridium-Based Perovskites as Efficient Oxygen Evolution Reaction Catalysts in Acid Media  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391895875
+:UUID: https://openalex.org/W4391895875
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Solid Oxide Fuel Cells
 :PUBLICATION_DATE: 2024-02-17
 :END:    
@@ -31,7 +31,7 @@ No abstract
 
 * Optimizing Oxygen-Production Kinetics of Manganese Dioxide Nanoparticles Improves Hypoxia Reversal and Survival in Mice with Bone Metastases  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391899438
+:UUID: https://openalex.org/W4391899438
 :TOPICS: Nanotechnology and Imaging for Cancer Therapy and Diagnosis, Metabolic Reprogramming in Cancer Biology, Nanoparticle-Based Drug Delivery Systems
 :PUBLICATION_DATE: 2024-02-16
 :END:    
@@ -52,7 +52,7 @@ Persistent hypoxia in bone metastases induces an immunosuppressive environment, 
 
 * Fabrication and characterisation of CrMnFeCoNi high entropy alloy electrocatalyst for oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391906377
+:UUID: https://openalex.org/W4391906377
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, High-Entropy Alloys: Novel Designs and Properties
 :PUBLICATION_DATE: 2024-04-01
 :END:    
@@ -73,7 +73,7 @@ Water electrolysis is attracting increasing attention in becoming the main metho
 
 * The Role of Reducibility vis-à-vis Oxygen Vacancies of doped Co3O4/CeO2 in Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391913283
+:UUID: https://openalex.org/W4391913283
 :TOPICS: Catalytic Nanomaterials, Solid Oxide Fuel Cells, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -94,7 +94,7 @@ Electrochemical water splitting, a highly promising and environmentally friendly
 
 * Correction: Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391926812
+:UUID: https://openalex.org/W4391926812
 :TOPICS: Nanomaterials with Enzyme-Like Characteristics, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -115,7 +115,7 @@ Correction for ‘Spent tea leaves templated synthesis of highly active and dura
 
 * Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391944172
+:UUID: https://openalex.org/W4391944172
 :TOPICS: Atom Probe Tomography Research
 :PUBLICATION_DATE: 2024-02-18
 :END:    
@@ -136,7 +136,7 @@ Multi‐principal element alloys (MPEAs) are gaining interest in corrosion and e
 
 * Alkali Containing Layered Metal Oxides as Catalysts for the Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391948002
+:UUID: https://openalex.org/W4391948002
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -157,7 +157,7 @@ Abstract Improving the efficiency of the oxygen evolution reaction (OER) is esse
 
 * Doping Ru on FeNi LDH/FeⅡ/Ⅲ-MOF heterogeneous core-shell structure for efficient oxygen evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391948180
+:UUID: https://openalex.org/W4391948180
 :TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Nanomaterials with Enzyme-Like Characteristics
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -178,7 +178,7 @@ Noble metal based catalysts as RuO2 and IrO2 have been widely used in the cataly
 
 * Glassy State Hydroxide Materials for Oxygen Evolution Electrocatalysis  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391952436
+:UUID: https://openalex.org/W4391952436
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -199,7 +199,7 @@ Abstract Hydroxides are the archetype of layered crystals with metal‐oxygen (M
 
 * From Synthesis to Mechanisms: In‐Depth Exploration of the Dual‐Atom Catalytic Mechanisms Toward Oxygen Electrocatalysis  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391952929
+:UUID: https://openalex.org/W4391952929
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Accelerating Materials Innovation through Informatics
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -220,7 +220,7 @@ Abstract Dual‐atom catalysts (DACs) hold a higher metal atom loading and provi
 
 * A fingerprint-like supramolecular-assembled Ag3PO4/polydopamine/g-C3N4 heterojunction nanocomposite for enhanced solar-driven oxygen evolution in vivo  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391953305
+:UUID: https://openalex.org/W4391953305
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology, Nanomaterials with Enzyme-Like Characteristics
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -241,7 +241,7 @@ Biocompatible photocatalytic water-splitting systems are promising for tissue se
 
 * Enhanced Electrocatalytic Oxygen Evolution Reaction by Photothermal Effect and Its Induced Micro-electric Field  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391955701
+:UUID: https://openalex.org/W4391955701
 :TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -262,7 +262,7 @@ Promoting better thermodynamics and kinetics of electrocatalysts is the key to a
 
 * Fabrication of Highly Efficient FeNi-based Electrodes using Thermal Plasma Spray for Electrocatalytic Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391957745
+:UUID: https://openalex.org/W4391957745
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -283,7 +283,7 @@ No abstract
 
 * Challenges and progress in oxygen evolution reaction catalyst development for seawater electrolysis for hydrogen production  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391958854
+:UUID: https://openalex.org/W4391958854
 :TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -304,7 +304,7 @@ Modification techniques to oxygen evolution reaction (OER) electrocatalysts for 
 
 * Silver Nanowires Cascaded Layered Double Hydroxides Nanocages with Enhanced Directional Electron Transport for Efficient Electrocatalytic Oxygen Evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391958988
+:UUID: https://openalex.org/W4391958988
 :TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -325,7 +325,7 @@ Abstract Designing and fabricating highly efficient oxygen evolution reaction (O
 
 * The Synergistic Effect of IR and Oxygen Vacancies on Enhancing the Oer Performance of Surface-Reconstructed Feco Ldh  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391973777
+:UUID: https://openalex.org/W4391973777
 :TOPICS: Catalytic Nanomaterials, Zinc Oxide Nanostructures, Advanced Materials for Smart Windows
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -346,7 +346,7 @@ Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink
 
 * Oxygen-enriched vacancies Co3O4/NiCo2O4 heterojunction hollow nanocages with enhanced electrochemical properties for supercapacitors  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391981031
+:UUID: https://openalex.org/W4391981031
 :TOPICS: Materials for Electrochemical Supercapacitors, Lithium-ion Battery Technology, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -367,7 +367,7 @@ No abstract
 
 * Self-Supported Low-Crystallinity Cofe Layered Double Hydroxide Nanospheres on Monolayer Ti3c2 Electrode for Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391981843
+:UUID: https://openalex.org/W4391981843
 :TOPICS: Electrocatalysis for Energy Conversion, Perovskite Solar Cell Technology, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -388,7 +388,7 @@ No abstract
 
 * Stainless Steel Activation for Efficient Alkaline Oxygen Evolution in Advanced Electrolyzers  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391981888
+:UUID: https://openalex.org/W4391981888
 :TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Solid Oxide Fuel Cells
 :PUBLICATION_DATE: 2024-02-20
 :END:    
@@ -409,7 +409,7 @@ Abstract Designing robust and cost‐effective electrocatalysts for efficient al
 
 * Iron-Based nanoporous Metal-Organic frameworks with Side-Chain amino substituents for Efficiency-Regulated oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391984044
+:UUID: https://openalex.org/W4391984044
 :TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Electrocatalysis for Energy Conversion, Nanomaterials with Enzyme-Like Characteristics
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -430,7 +430,7 @@ No abstract
 
 * High-Entropy Effect Promoting Self-Healing Behavior of Two-Dimensional Metal Oxide Electrocatalysts for Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391991674
+:UUID: https://openalex.org/W4391991674
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -451,7 +451,7 @@ No abstract
 
 * Dense Heterogeneous Interfaces Boost the Electrocatalytic Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392000713
+:UUID: https://openalex.org/W4392000713
 :TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -472,7 +472,7 @@ No abstract
 
 * Silver zirconate: A versatile visible light harvesting photocatalyst for oxygen evolution, PMS activation, and bactericidal activity  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392005660
+:UUID: https://openalex.org/W4392005660
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Nanomaterials with Enzyme-Like Characteristics, Photocatalysis and Solar Energy Conversion
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -493,7 +493,7 @@ Herein, we have synthesized silver zirconate using a co-precipitation method at 
 
 * Sulfate anchored on the defective NiO by ion irradiation realizes enhanced oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392005855
+:UUID: https://openalex.org/W4392005855
 :TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -514,7 +514,7 @@ NiO has attracted wide attention in the past decade as a cost-effective electroc
 
 * Construction of nickel phosphide/iron oxyhydroxide heterostructure nanoparticles for oxygen evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392005890
+:UUID: https://openalex.org/W4392005890
 :TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -535,7 +535,7 @@ Active and stable oxygen evolution electrocatalysts are essential in increasing 
 
 * Electrodeposited graphene@Co3O4 nanosheets for oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392014924
+:UUID: https://openalex.org/W4392014924
 :TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Electrochemical Biosensor Technology
 :PUBLICATION_DATE: 2024-04-01
 :END:    
@@ -556,7 +556,7 @@ No abstract
 
 * Nickel and Commercially Available Nickel‐Containing Alloys as Electrodes for the Electrochemical Oxygen Evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392105251
+:UUID: https://openalex.org/W4392105251
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-23
 :END:    
@@ -577,7 +577,7 @@ Abstract Water electrolysis is a crucial technology for independency on fossil f
 
 * Polarized Ultrathin BN Induced Dynamic Electron Interactions for Enhancing Acidic Oxygen Evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392109777
+:UUID: https://openalex.org/W4392109777
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-23
 :END:    
@@ -598,7 +598,7 @@ Developing ruthenium‐based heterogeneous catalysts with an efficient and stabl
 
 * Polarized Ultrathin BN Induced Dynamic Electron Interactions for Enhancing Acidic Oxygen Evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392110312
+:UUID: https://openalex.org/W4392110312
 :TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-02-23
 :END:    
@@ -619,7 +619,7 @@ Developing ruthenium‐based heterogeneous catalysts with an efficient and stabl
 
 * Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4391921021
+:UUID: https://openalex.org/W4391921021
 :TOPICS: Atom Probe Tomography Research
 :PUBLICATION_DATE: 2024-02-18
 :END:    
@@ -640,7 +640,7 @@ Multi‐principal element alloys (MPEAs) are gaining interest in corrosion and e
 
 * Controlled fabrication of various nanostructures iron-based tellurides as highly performed oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392010419
+:UUID: https://openalex.org/W4392010419
 :TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-03-01
 :END:    
@@ -661,7 +661,7 @@ Electrochemical water splitting is a process that shows promise for the sustaina
 
 * Constructions of hierarchical nitrogen doped carbon nanotubes anchored on CoFe2O4 nanoflakes for efficient hydrogen evolution, oxygen evolution and oxygen reduction reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392077017
+:UUID: https://openalex.org/W4392077017
 :TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
 :PUBLICATION_DATE: 2024-04-01
 :END:    
@@ -682,7 +682,7 @@ The three primary reactions in metal-air batteries and electrochemical hydrolysi
 
 * Tuning Mo cations dissolution and surface reconstruction of CoMoO4 for efficient oxygen evolution reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392095514
+:UUID: https://openalex.org/W4392095514
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Memristive Devices for Neuromorphic Computing
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -703,7 +703,7 @@ No abstract
 
 * Regulating the Spin Polarization of NiFe Layered Double Hydroxide for the Enhanced Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392018831
+:UUID: https://openalex.org/W4392018831
 :TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Materials for Electrochemical Supercapacitors
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -724,7 +724,7 @@ No abstract
 
 * Boosting activity on molten salt-synthesized Ce doped cobalt hydroxyl nitrate nanorods by oxygen vacancies for efficient oxygen evolution  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392074898
+:UUID: https://openalex.org/W4392074898
 :TOPICS: Formation and Properties of Nanocrystals and Nanostructures, Electrochemical Detection of Heavy Metal Ions, Memristive Devices for Neuromorphic Computing
 :PUBLICATION_DATE: 2024-06-01
 :END:    
@@ -745,7 +745,7 @@ Rationalizing the development of highly active, non-precious electrocatalysts th
 
 * Ultrafast electronic and vibrational spectroscopy of electrochemical transformations on a metal-oxide surface during oxygen evolution from water  :water_splitting:
 :PROPERTIES:
-:ID: https://openalex.org/W4392103902
+:UUID: https://openalex.org/W4392103902
 :TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Quantum Coherence in Photosynthesis and Aqueous Systems
 :PUBLICATION_DATE: 2024-02-23
 :END:    

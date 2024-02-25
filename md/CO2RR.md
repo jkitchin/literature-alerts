@@ -1,6 +1,6 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 25 00:47:32 2024
+Created on Sun Feb 25 14:23:17 2024
 
 Found 30 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -262,10 +262,10 @@ To test the ability of geochemical surfaces in serpentinizing hydrothermal syste
 
 ## Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene   
 
-OpenAlex: https://openalex.org/W4391926647    
+OpenAlex: https://openalex.org/W4391944406    
 Open access: False
     
-[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202319936.
+[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202319936.
     
 Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
 
@@ -273,10 +273,10 @@ Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) 
 
 ## Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene   
 
-OpenAlex: https://openalex.org/W4391944406    
+OpenAlex: https://openalex.org/W4391926647    
 Open access: False
     
-[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202319936.
+[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202319936.
     
 Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
 

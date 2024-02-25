@@ -1,7 +1,7 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 25 00:47:32 2024
+Created on Sun Feb 25 14:23:17 2024
 
 Found 30 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -10,7 +10,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 
 * Benzyl alcohol promoted electrocatalytic reduction of carbon dioxide and C2 production by Cu2O/Cu  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391896197
+:UUID: https://openalex.org/W4391896197
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -31,7 +31,7 @@ Oxide-derived copper (OD-Cu)-based materials containing Cuδ+ (0 < δ ≤ 1) hav
 
 * Solar fuels design: Porous cathodes modeling for electrochemical carbon dioxide reduction in aqueous electrolytes  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391912845
+:UUID: https://openalex.org/W4391912845
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -52,7 +52,7 @@ No abstract
 
 * Strategies to Improve the Activity of Silver‐loaded Calcium Titanate Crystal Photocatalyst for Photocatalytic Reduction of Carbon Dioxide with Water  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391932224
+:UUID: https://openalex.org/W4391932224
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Photocatalysis and Solar Energy Conversion
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -73,7 +73,7 @@ The rapid increase of carbon dioxide (CO2) in the atmosphere has sparked a globa
 
 * Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391933654
+:UUID: https://openalex.org/W4391933654
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -94,7 +94,7 @@ Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of
 
 * Comparative life cycle analysis on ethylene production from electrocatalytic reduction of carbon dioxide  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391934036
+:UUID: https://openalex.org/W4391934036
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Energy Consumption in Mobile Devices and Networks, Applications of Ionic Liquids
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -115,7 +115,7 @@ Ethylene is one of the largest greenhouse gas emitters and the most diversly use
 
 * Recent advances of 2D metal-organic frameworks for electrochemical carbon dioxide reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391969766
+:UUID: https://openalex.org/W4391969766
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Gas Sensing Technology and Materials
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -136,7 +136,7 @@ No abstract
 
 * Promoting hydrophilic cupric oxide electrochemical carbon dioxide reduction to methanol via interfacial engineering modulation  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391980122
+:UUID: https://openalex.org/W4391980122
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -157,7 +157,7 @@ Copper-based catalysts have been extensively investigated in electrochemical car
 
 * Carbon Dioxide Electroreduction and Formic Acid Oxidation by Formal Nickel(I) Complexes of Di‐isopropylphenyl Bis‐iminoacenaphthene  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391996987
+:UUID: https://openalex.org/W4391996987
 :TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -178,7 +178,7 @@ Processing CO2 into value‐added chemicals and fuels stands as one of the most 
 
 * Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on InTaO4  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392042616
+:UUID: https://openalex.org/W4392042616
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
 :PUBLICATION_DATE: 2024-05-01
 :END:    
@@ -199,7 +199,7 @@ No abstract
 
 * Electrocatalytic Reduction of Carbon Dioxide  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392093652
+:UUID: https://openalex.org/W4392093652
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Accelerating Materials Innovation through Informatics
 :PUBLICATION_DATE: 2024-02-23
 :END:    
@@ -220,7 +220,7 @@ Chapter 6 Electrocatalytic Reduction of Carbon Dioxide Kejun Chen, Kejun Chen Ce
 
 * Two-dimensional Cu-based materials for electrocatalytic carbon dioxide reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392094048
+:UUID: https://openalex.org/W4392094048
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -241,7 +241,7 @@ No abstract
 
 * Techno-economic ionic liquid-based capturing, electrochemical reduction, and hydrogenation of carbon dioxide in the simultaneous production of formic acid and biomethane  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392111886
+:UUID: https://openalex.org/W4392111886
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -262,7 +262,7 @@ CO2 utilization is vital for mitigating climate change by converting CO2 into va
 
 * Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392114445
+:UUID: https://openalex.org/W4392114445
 :TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Gas Sensing Technology and Materials
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -283,7 +283,7 @@ Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink
 
 * Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391907254
+:UUID: https://openalex.org/W4391907254
 :TOPICS: Sleep-Disordered Breathing and Health Outcomes, Neural Mechanisms of Respiratory Control and Homeostasis, Clinical Management of Tracheal and Airway Disorders
 :PUBLICATION_DATE: 2024-12-31
 :END:    
@@ -304,7 +304,7 @@ Obstructive sleep apnea (OSA) is characterized by frequent episodes of upper air
 
 * Research of the Impact of Hydrogen Metallurgy Technology on the Reduction of the Chinese Steel Industry’s Carbon Dioxide Emissions  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392043913
+:UUID: https://openalex.org/W4392043913
 :TOPICS: Life Cycle Assessment and Environmental Impact Analysis, Battery Recycling and Rare Earth Recovery, Corrosion Behavior of Nickel-Aluminium Bronze Alloys
 :PUBLICATION_DATE: 2024-02-22
 :END:    
@@ -325,7 +325,7 @@ The steel industry, which relies heavily on primary energy, is one of the indust
 
 * Trends of Emerging Zero-Carbon Technologies: The Role of the Life Cycle Assessment for Evaluating Carbon Dioxide Reduction Targets  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392078594
+:UUID: https://openalex.org/W4392078594
 :TOPICS: Carbon Dioxide Capture and Storage Technologies
 :PUBLICATION_DATE: 2024-02-21
 :END:    
@@ -346,7 +346,7 @@ No abstract
 
 * Sustainability Assessment Of Carbon Dioxide Emission Reduction From Energy Use In Cement Production Via Life Cycle Assessment And Ahp  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391915352
+:UUID: https://openalex.org/W4391915352
 :TOPICS: Influence of Recycled Aggregate Concrete on Construction
 :PUBLICATION_DATE: 2024-02-10
 :END:    
@@ -367,7 +367,7 @@ The cement industry in supporting sustainable development is faced with the chal
 
 * Electrochemical Reduction of CO2: A Common Acetyl Path to Ethylene, Ethanol or Acetate  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392092162
+:UUID: https://openalex.org/W4392092162
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Accelerating Materials Innovation through Informatics, Carbon Dioxide Utilization for Chemical Synthesis
 :PUBLICATION_DATE: 2024-02-23
 :END:    
@@ -388,7 +388,7 @@ Abstract Ethylene is well known as the primary product of CO2 reduction at Cu el
 
 * Photobreeding oxygen vacancy facilitates phtocatalytic reduction of CO2  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391940930
+:UUID: https://openalex.org/W4391940930
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-02-01
 :END:    
@@ -409,7 +409,7 @@ No abstract
 
 * The implementation of intelligent edification to improve the energy efficiency and CO2 emission’s reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392008284
+:UUID: https://openalex.org/W4392008284
 :TOPICS: Building Energy Efficiency and Thermal Comfort Optimization, Parametric Architecture and Urban Design, Building Information Modeling in Construction Industry
 :PUBLICATION_DATE: 2023-11-22
 :END:    
@@ -430,7 +430,7 @@ No abstract
 
 * Enhancing Cu-Ligand Interaction for Efficient CO2 Reduction towards Multi-carbon Products  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391967024
+:UUID: https://openalex.org/W4391967024
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -451,7 +451,7 @@ Electrochemical CO2 reduction (CO2R) to valuable products provides a promising s
 
 * Heterophase-Structured Bismuth Nanosheets for Solar Energy–Driven Electrocatalytic CO2 Reduction to Formate  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392113889
+:UUID: https://openalex.org/W4392113889
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Thermoelectric Materials
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -472,7 +472,7 @@ Exploring efficient catalysts for electrochemical CO2 reduction reaction (CO2RR)
 
 * Synergistic Effects of Silica‐Supported Iron‒Cobalt Catalysts for CO2 Reduction to Prebiotic Organics  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391926511
+:UUID: https://openalex.org/W4391926511
 :TOPICS: Catalytic Carbon Dioxide Hydrogenation, Electrochemical Reduction of CO2 to Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -493,28 +493,7 @@ To test the ability of geochemical surfaces in serpentinizing hydrothermal syste
 
 * Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391926647
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202319936")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391926647"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391926647"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391926647"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391926647 (Open access: False)
-    
-[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202319936 
-     
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
-
-    
-
-* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391944406
+:UUID: https://openalex.org/W4391944406
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
 :PUBLICATION_DATE: 2024-02-19
 :END:    
@@ -533,9 +512,30 @@ Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) 
 
     
 
+* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4391926647
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-02-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202319936")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391926647"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391926647"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391926647"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391926647 (Open access: False)
+    
+[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202319936 
+     
+Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
+
+    
+
 * A robust and high performance copper silicide catalyst for electrochemical CO2 reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391935036
+:UUID: https://openalex.org/W4391935036
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Molecular Electronic Devices and Systems
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -556,7 +556,7 @@ A copper-based catalyst CuxSi (3<x<5) was prepared using chemical vapor depositi
 
 * Electronic Structure Modification of SnO2 to Accelerate CO2 Reduction towards Formate  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392104682
+:UUID: https://openalex.org/W4392104682
 :TOPICS: Catalytic Nanomaterials, Gas Sensing Technology and Materials, Solid Oxide Fuel Cells
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -577,7 +577,7 @@ Metal doping emerges as a pivotal catalyst modification technique, enhancing the
 
 * Reduction of CO2 in the Presence of Light via Excited-state Hydride Transfer Reaction in a NADPH-inspired Derivative  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4392006911
+:UUID: https://openalex.org/W4392006911
 :TOPICS: Perovskite Solar Cell Technology, Electrochemical Reduction of CO2 to Fuels, Molecular Electronic Devices and Systems
 :PUBLICATION_DATE: 2024-01-01
 :END:    
@@ -598,7 +598,7 @@ The photo-catalytic reduction of CO2 into chemical feedstocks using solar energy
 
 * Pre-treatment through reductive calcination for CO2 mineralization and selective battery metal extraction from laterites  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391980124
+:UUID: https://openalex.org/W4391980124
 :TOPICS: Carbon Dioxide Sequestration in Geological Formations, Geothermal Energy Technology and Applications, Zeolite Chemistry and Catalysis
 :PUBLICATION_DATE: 2024-07-01
 :END:    
@@ -619,7 +619,7 @@ The world needs an increasing supply of nickel and cobalt production as battery 
 
 * Three-dimensional N-doped carbon nanosheets loading heterostructured Ni/Ni3ZnC0.7 nanoparticles for Selective and Efficient CO2 Reduction  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391934877
+:UUID: https://openalex.org/W4391934877
 :TOPICS: Catalytic Nanomaterials, Electrochemical Reduction of CO2 to Fuels, Catalytic Carbon Dioxide Hydrogenation
 :PUBLICATION_DATE: 2024-01-01
 :END:    
