@@ -32,7 +32,7 @@ def get_org_item(topic, result):
 
     return f'''* {html_to_text(result['title'])}  :{tags}:
 :PROPERTIES:
-:ID: {result['id']}
+:UUID: {result['id']}
 :TOPICS: {topics}
 :PUBLICATION_DATE: {result.get('publication_date', None)}
 :END:    
