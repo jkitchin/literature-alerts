@@ -1,7 +1,6 @@
-#+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 25 14:23:17 2024
+Created on Sun Feb 25 14:57:18 2024
 
 Found 30 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
@@ -493,27 +492,6 @@ To test the ability of geochemical surfaces in serpentinizing hydrothermal syste
 
 * Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4391944406
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202319936")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391944406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391944406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391944406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391944406 (Open access: False)
-    
-[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202319936 
-     
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
-
-    
-
-* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
-:PROPERTIES:
 :UUID: https://openalex.org/W4391926647
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
 :PUBLICATION_DATE: 2024-02-19
@@ -528,6 +506,27 @@ Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) 
 OpenAlex: https://openalex.org/W4391926647 (Open access: False)
     
 [[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202319936 
+     
+Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
+
+    
+
+* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4391944406
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-02-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202319936")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391944406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391944406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391944406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391944406 (Open access: False)
+    
+[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202319936 
      
 Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
 
