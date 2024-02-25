@@ -1,8 +1,8 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Sat Feb 24 00:41:50 2024
+Created on Sun Feb 25 00:47:41 2024
 
-Found 27 results from 2024-02-17 to 2024-02-24
+Found 27 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370)
@@ -12,94 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022)
-
-## Single Transition‐Metal Atom Anchored on a Rhenium Disulfide Monolayer: An Efficient Bifunctional Electrocatalyst for the Oxygen Evolution and Oxygen Reduction Reactions   
-
-OpenAlex: https://openalex.org/W4391880793    
-Open access: False
-    
-[Meiling Pan](https://openalex.org/A5004910340), [X. Cui](https://openalex.org/A5059121164), [Qun Jing](https://openalex.org/A5024066427), [Haiming Duan](https://openalex.org/A5029207520), [Fangping Ouyang](https://openalex.org/A5082278504), [Rong Wu](https://openalex.org/A5034965764), Small. None(None)] 2024.https://doi.org/10.1002/smll.202308416.
-    
-Abstract Developing efficient oxygen evolution reaction (OER) and oxygen reduction reaction (ORR) bifunctional electrocatalysts is attractive for rechargeable metal–air batteries. Meanwhile, single metal atoms embedded in 2D layered transition metal chalcogenides (TMDs) have become a very promising catalyst. Recently, many attentions have been paid to the 2D ReS 2 electrocatalyst due to its unique distorted octahedral 1T’ crystal structure and thickness‐independent electronic properties. Here, the catalytic activity of different transition metal (TM) atoms embedded in ReS 2 using the density functional theory is investigated. The results indicate that TM@ReS 2 exhibits outstanding thermal stability, good electrical conductivity, and electron transfer for electrochemical reactions. And the Ir@ReS 2 and Pd@ReS 2 can be used as OER/ORR bifunctional electrocatalysts with a lower overpotential for OER (η OER ) of 0.44 V and overpotentials for ORR (η ORR ) of 0.26 V and 0.27 V, respectively. The excellent catalytic activity is attributed to the optimal adsorption strength for oxygen intermediates coming from the effective modulation of the electronic structure of ReS 2 after Ir/Pd doping. The results can help to deeply understand the catalytic activity of TM@ReS 2 and develop novel and highly efficient OER/ORR electrocatalysts.    
-
-    
-
-## 3D Hierarchical MOF-Derived Defect-Rich NiFe Spinel Ferrite as a Highly Efficient Electrocatalyst for Oxygen Redox Reactions in Zinc–Air Batteries   
-
-OpenAlex: https://openalex.org/W4391881989    
-Open access: False
-    
-[Mohan Gopalakrishnan](https://openalex.org/A5036345289), [Wathanyu Kao-ian](https://openalex.org/A5054022187), [Meena Rittiruam](https://openalex.org/A5000448228), [Supareak Praserthdam](https://openalex.org/A5036226683), [Piyasan Praserthdam](https://openalex.org/A5001087403), [Wanwisa Limphirat](https://openalex.org/A5074299894), [Mai Thanh Nguyen](https://openalex.org/A5065373217), [Tetsu Yonezawa](https://openalex.org/A5065530384), [Soorathep Kheawhom](https://openalex.org/A5081163390), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.3c17789.
-    
-The strategy of defect engineering is increasingly recognized for its pivotal role in modulating the electronic structure, thereby significantly improving the electrocatalytic performance of materials. In this study, we present defect-enriched nickel and iron oxides as highly active and cost-effective electrocatalysts, denoted as Ni0.6Fe2.4O4@NC, derived from NiFe-based metal–organic frameworks (MOFs) for oxygen reduction reactions (ORR) and oxygen evolution reactions (OER). XANES and EXAFS confirm that the crystals have a distorted structure and metal vacancies. The cation defect-rich Ni0.6Fe2.4O4@NC electrocatalyst exhibits exceptional ORR and OER activities (ΔE = 0.68 V). Mechanistic pathways of electrochemical reactions are studied by DFT calculations. Furthermore, a rechargeable zinc–air battery (RZAB) using the Ni0.6Fe2.4O4@NC catalyst demonstrates a peak power density of 187 mW cm–2 and remarkable long-term cycling stability. The flexible solid-state ZAB using the Ni0.6Fe2.4O4@NC catalyst exhibits a power density of 66 mW cm–2. The proposed structural design strategy allows for the rational design of electronic delocalization of cation defect-rich NiFe spinel ferrite attached to ultrathin N-doped graphitic carbon sheets in order to enhance active site availability and facilitate mass and electron transport.    
-
-    
-
-## Recent Progress of Transition Metal Selenides for Electrochemical Oxygen Reduction to Hydrogen Peroxide: From Catalyst Design to Electrolyzers Application   
-
-OpenAlex: https://openalex.org/W4391882047    
-Open access: False
-    
-[Yingnan Wang](https://openalex.org/A5070204057), [Caidi Han](https://openalex.org/A5032563244), [Li Ma](https://openalex.org/A5010971048), [Tigang Duan](https://openalex.org/A5012143983), [Yue Du](https://openalex.org/A5037944823), [Jian Wu](https://openalex.org/A5090409764), [Ji‐Jun Zou](https://openalex.org/A5078341960), [Jian Gao](https://openalex.org/A5005460160), [Xiaodong Zhu](https://openalex.org/A5054026141), [Y. Zhang](https://openalex.org/A5075605898), Small. None(None)] 2024.https://doi.org/10.1002/smll.202309448.
-    
-Abstract Hydrogen peroxide (H 2 O 2 ) is a highly value‐added and environmental‐friendly chemical with various applications. The production of H 2 O 2 by electrocatalytic 2e − oxygen reduction reaction (ORR) has emerged as a promising alternative to the energy‐intensive anthraquinone process. High selectivity Catalysts combining with superior activity are critical for the efficient electrosynthesis of H 2 O 2 . Earth‐abundant transition metal selenides (TMSs) being discovered as a classic of stable, low‐cost, highly active and selective catalysts for electrochemical 2e − ORR. These features come from the relatively large atomic radius of selenium element, the metal‐like properties and the abundant reserves. Moreover, compared with the advanced noble metal or single‐atom catalysts, the kinetic current density of TMSs for H 2 O 2 generation is higher in acidic solution, which enable them to become suitable catalyst candidates. Herein, the recent progress of TMSs for ORR to H 2 O 2 is systematically reviewed. The effects of TMSs electrocatalysts on the activity, selectivity and stability of ORR to H 2 O 2 are summarized. It is intended to provide an insight from catalyst design and corresponding reaction mechanisms to the device setup, and to discuss the relationship between structure and activity.    
-
-    
-
-## Metal Methanesulfonates with Mixed Anionic Groups with Large Band Gaps and Enhanced Birefringence   
-
-OpenAlex: https://openalex.org/W4391882486    
-Open access: False
-    
-[Mingli Liang](https://openalex.org/A5057463480), [Yujie Zhang](https://openalex.org/A5073174272), [Eugene Izvarin](https://openalex.org/A5093942378), [Michael J. Waters](https://openalex.org/A5002469414), [James M. Rondinelli](https://openalex.org/A5007838414), [P. Shiv Halasyamani](https://openalex.org/A5057651510), Chemistry of Materials. None(None)] 2024.https://doi.org/10.1021/acs.chemmater.3c03278.
-    
-Four new metal methanesulfonates with mixed anionic groups, Bi(SeO3)(CH3SO3) (1), Bi(TeO3)(CH3SO3) (2), Ba(BF4)(CH3SO3) (3), and Ba2(BF4)(CH3SO3)3(H2O)3 (4), have been successfully synthesized. Compounds 1 and 2 are isomorphic and exhibit a two-dimensional (2D) layered structure. Stereoactive lone pairs are observed with Se4+, Te4+, and Bi3+. Compound 3 features a three-dimensional (3D) structure formed by connecting [Ba(CH3SO3)]+ layers via BF4 tetrahedra, whereas compound 4 features a 2D layered structure, where the BF4 tetrahedra are positioned on both sides of the [Ba2(CH3SO3)3]+ layers. The ultraviolet–visible–near-infrared (UV–vis-NIR) spectra indicate that compounds 1 and 2 have absorption edges at 270 and 274 nm, whereas compounds 3 and 4, with absorption edges below 200 nm, are characterized as deep-UV crystals. Calculations were performed to determine the absorption edges, and comparative analysis indicates a significant enhancement in the calculated birefringence values compared to analogous compounds.    
-
-    
-
-## Tailoring Hot-Carrier Distributions of Plasmonic Nanostructures through Surface Alloying   
-
-OpenAlex: https://openalex.org/W4391884518    
-Open access: True
-    
-[Jakub Fojt](https://openalex.org/A5075062937), [Tuomas P. Rossi](https://openalex.org/A5009135066), [Priyank V. Kumar](https://openalex.org/A5039092447), [Paul Erhart](https://openalex.org/A5062333252), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.3c11418 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsnano.3c11418)).
-    
-Alloyed metal nanoparticles are a promising platform for plasmonically enabled hot-carrier generation, which can be used to drive photochemical reactions. Although the non-plasmonic component in these systems has been investigated for its potential to enhance catalytic activity, its capacity to affect the photochemical process favorably has been underexplored by comparison. Here, we study the impact of surface alloy species and concentration on hot-carrier generation in Ag nanoparticles. By first-principles simulations, we photoexcite the localized surface plasmon, allow it to dephase, and calculate spatially and energetically resolved hot-carrier distributions. We show that the presence of non-noble species in the topmost surface layer drastically enhances hot-hole generation at the surface at the expense of hot-hole generation in the bulk, due to the additional d-type states that are introduced to the surface. The energy of the generated holes can be tuned by choice of the alloyant, with systematic trends across the d-band block. Already low surface alloy concentrations have a large impact, with a saturation of the enhancement effect typically close to 75% of a monolayer. Hot-electron generation at the surface is hindered slightly by alloying, but here a judicious choice of the alloy composition allows one to strike a balance between hot electrons and holes. Our work underscores the promise of utilizing multicomponent nanoparticles to achieve enhanced control over plasmonic catalysis and provides guidelines for how hot-carrier distributions can be tailored by designing the electronic structure of the surface through alloying.    
-
-    
-
-## Chiral Induced Spin Selectivity   
-
-OpenAlex: https://openalex.org/W4391885773    
-Open access: True
-    
-[Brian P. Bloom](https://openalex.org/A5047853509), [Yossi Paltiel](https://openalex.org/A5041988005), [Ron Naaman](https://openalex.org/A5030264946), [David H. Waldeck](https://openalex.org/A5043531603), Chemical Reviews. None(None)] 2024.https://doi.org/10.1021/acs.chemrev.3c00661 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.chemrev.3c00661)).
-    
-No abstract    
-
-    
-
-## Computational investigation of the oxygen reduction reaction on the edges of differently-sized, shaped and terminated graphene nanoclusters   
-
-OpenAlex: https://openalex.org/W4391887971    
-Open access: False
-    
-[Dragoş Lucian Isac](https://openalex.org/A5018537218), [Raluca Jalba](https://openalex.org/A5093294685), [Ştefan-Gabriel Şoriga](https://openalex.org/A5016733495), [Yuheng Zhao](https://openalex.org/A5014649213), [Frederik Tielens](https://openalex.org/A5087866734), [Ionuţ Tranca](https://openalex.org/A5080121607), [Man Isabela-Costinela](https://openalex.org/A5001748042), Carbon. None(None)] 2024.https://doi.org/10.1016/j.carbon.2024.118942.
-    
-Graphene nanoclusters (GNCs), part of the graphene family of nanomaterials, are attracting interest as promising Pt free catalysts for the Oxygen Reduction Reaction (ORR) at the cathode of the fuel cells. This investigation focuses on the theoretical prediction of their possible edge activity towards ORR determined by their shape, size and termination type. In this framework, using density functional theory (DFT) we examined the zigzag (zz) and armchair terminated (ac) triangular (T), rhombohedral (R) and hexagonal (H) GNCs of various sizes, ranging from C13 to C114. The theoretical onset overpotential (ηth,onset) indicate that several GNC edges could be active for ORR. The model indicates that the zigzag edges of all triangular GNCs (C13–C46) as well as of the largest investigated rhombohedral shapes (C48, C70) are active for ORR. A correlation between the band gaps, spin densities and p-band centers of the edge carbon atoms and the adsorption energies of the ORR intermediate moieties (HOO*/O*/HO*) are discussed and which are directly related to their activity. One trend is related to the decrease of the adsorption energies with the decrease of the band gap and accordingly an increase of their ORR activities. The case studies, show that the explicit water model developed by using machine learning potentials and combined with DFT, stabilizes the ORR intermediates stronger than the implicit one, thus increasing slightly the onset overpotential. Overall, this computational study enhances our fundamental understanding of the edges of GNC for their potential application in electrocatalysis without doping.    
-
-    
-
-## Enhanced Electrocatalytic Oxygen Reduction Reaction of TiO2 Nanotubes by Combining Surface Oxygen Vacancy Engineering and Zr Doping   
-
-OpenAlex: https://openalex.org/W4391893370    
-Open access: True
-    
-[Maged N. Shaddad](https://openalex.org/A5004546616), [Prabhakarn Arunachalam](https://openalex.org/A5082353856), [Mahmoud Hezam](https://openalex.org/A5034359786), [Saba A. Aladeemy](https://openalex.org/A5007727648), [Mamduh J. Aljaafreh](https://openalex.org/A5022053524), [Sharif Abu Alrub](https://openalex.org/A5020964148), [Abdullah M. Al‐Mayouf](https://openalex.org/A5030651199), Nanomaterials. 14(4)] 2024.https://doi.org/10.3390/nano14040366 ([pdf](https://www.mdpi.com/2079-4991/14/4/366/pdf?version=1708066838)).
-    
-This work examines the cooperative effect between Zr doping and oxygen vacancy engineering in anodized TiO2 nanotubes (TNTs) for enhanced oxygen reduction reactions (ORRs). Zr dopant and annealing conditions significantly affected the electrocatalytic characteristics of grown TNTs. Zr doping results in Zr4+ substituted for Ti4+ species, which indirectly creates oxygen vacancy donors that enhance charge transfer kinetics and reduce carrier recombination in TNT bulk. Moreover, oxygen vacancies promote the creation of unsaturated Ti3+(Zr3+) sites at the surface, which also boosts the ORR interfacial process. Annealing at reductive atmospheres (e.g., H2, vacuum) resulted in a larger increase in oxygen vacancies, which greatly enhanced the ORR activity. In comparison to bare TNTs, Zr doping and vacuum treatment (Zr:TNT–Vac) significantly improved the conductivity and activity of ORRs in alkaline media. The finding also provides selective hydrogen peroxide production by the electrochemical reduction of oxygen.    
-
-    
 
 ## Atomic-level insights into bioinspired Fe/Ni bimetallic active sites on carbon nitrides for electrocatalytic O2 evolution   
 
@@ -285,6 +197,94 @@ Open access: False
 [Hao Yin](https://openalex.org/A5044410512), [Minghao Gong](https://openalex.org/A5089699608), [Pengbo Lyu](https://openalex.org/A5078907574), [Ran Wang](https://openalex.org/A5080922192), [Lizhong Sun](https://openalex.org/A5049820573), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05958.
     
 No abstract    
+
+    
+
+## Synergistic Fe and Co binary single atoms based air cathodes for high performance and ultra-stable Zn-air batteries   
+
+OpenAlex: https://openalex.org/W4391957760    
+Open access: False
+    
+[Yu-Chieh Ting](https://openalex.org/A5028000340), [Chih‐Chieh Cheng](https://openalex.org/A5029087418), [Shin‐Hong Lin](https://openalex.org/A5077340960), [Ting Lin](https://openalex.org/A5010573714), [Po‐Wei Chen](https://openalex.org/A5066047778), [F.Y. Yen](https://openalex.org/A5054571304), [Shuwen Chang](https://openalex.org/A5065309642), [Chih‐Heng Lee](https://openalex.org/A5006509779), [Hsin‐Yi Tiffany Chen](https://openalex.org/A5075896117), [Shih‐Yuan Lu](https://openalex.org/A5024271538), Energy Storage Materials. None(None)] 2024.https://doi.org/10.1016/j.ensm.2024.103286.
+    
+No abstract    
+
+    
+
+## Positivity preserving density matrix minimization at finite temperatures via square root   
+
+OpenAlex: https://openalex.org/W4391960448    
+Open access: True
+    
+[Jacob M. Leamer](https://openalex.org/A5030121592), [William Dawson](https://openalex.org/A5020975847), [Denys I. Bondar](https://openalex.org/A5076308400), The Journal of Chemical Physics. 160(7)] 2024.https://doi.org/10.1063/5.0189864 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0189864/19680416/074107_1_5.0189864.pdf)).
+    
+We present a Wave Operator Minimization (WOM) method for calculating the Fermi–Dirac density matrix for electronic structure problems at finite temperature while preserving physicality by construction using the wave operator, i.e., the square root of the density matrix. WOM models cooling a state initially at infinite temperature down to the desired finite temperature. We consider both the grand canonical (constant chemical potential) and canonical (constant number of electrons) ensembles. Additionally, we show that the number of steps required for convergence is independent of the number of atoms in the system. We hope that the discussion and results presented in this article reinvigorate interest in density matrix minimization methods.    
+
+    
+
+## High-Performance Iridium–Molybdenum Oxide Electrocatalysts for Water Oxidation in Acid: Bayesian Optimization Discovery and Experimental Testing   
+
+OpenAlex: https://openalex.org/W4391963993    
+Open access: False
+    
+[Jacques A. Esterhuizen](https://openalex.org/A5012242636), [Aarti Mathur](https://openalex.org/A5068134075), [Bryan R. Goldsmith](https://openalex.org/A5026770434), [Suljo Linic](https://openalex.org/A5001250764), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c13491.
+    
+No abstract    
+
+    
+
+## Mixed Stochastic-Deterministic Approach for Many-Body Perturbation Theory Calculations   
+
+OpenAlex: https://openalex.org/W4391972280    
+Open access: False
+    
+[Aaron R. Altman](https://openalex.org/A5030821932), [Smriti K. Kundu](https://openalex.org/A5006246507), [Felipe H. da Jornada](https://openalex.org/A5062031395), Physical Review Letters. 132(8)] 2024.https://doi.org/10.1103/physrevlett.132.086401.
+    
+We present an approach for $GW$ calculations of quasiparticle energies with quasiquadratic scaling by approximating high-energy contributions to the Green's function in its Lehmann representation with effective stochastic vectors. The method is easy to implement without altering the $GW$ code, converges rapidly with stochastic parameters, and treats systems of various dimensionality and screening response. Our calculations on a 5.75\ifmmode^\circ\else\textdegree\fi{} twisted ${\mathrm{MoS}}_{2}$ bilayer show how large-scale $GW$ methods include geometry relaxations and electronic correlations on an equal basis in structurally nontrivial materials.    
+
+    
+
+## Ni-doping effects on formation and migration of oxygen vacancies in SrFe1−xNixO3−δ oxygen carriers   
+
+OpenAlex: https://openalex.org/W4391974220    
+Open access: True
+    
+[Tian Tian Jia](https://openalex.org/A5062533865), [Yifei Hao](https://openalex.org/A5041670541), [Hua Hao](https://openalex.org/A5067313799), [Zhi Zhang](https://openalex.org/A5057489654), RSC Advances. 14(9)] 2024.https://doi.org/10.1039/d3ra08321g ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ra/d3ra08321g)).
+    
+Ni is a promising B-site doping element capable of improving the oxygen carrier performance of SrFeO 3 perovskite.    
+
+    
+
+## Automated analysis of surface facets: the example of cesium telluride   
+
+OpenAlex: https://openalex.org/W4391982702    
+Open access: True
+    
+[Holger-Dietrich Saßnick](https://openalex.org/A5072906299), [Caterina Cocchi](https://openalex.org/A5049001654), npj Computational Materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01224-7.
+    
+Abstract High-throughput screening combined with ab initio calculations is a powerful tool to explore technologically relevant materials characterized by complex configurational spaces. Despite the impressive developments achieved in this field in the last few years, most studies still focus on bulk materials, although the relevant processes for energy conversion, production, and storage occur on surfaces. Herein, we present an automatized computational scheme that is capable of calculating surface properties in inorganic crystals from first principles in a high-throughput fashion. After introducing the method and its implementation, we showcase its applicability, focusing on four polymorphs of Cs 2 Te, an established photocathode material for particle accelerators, considering slabs with low Miller indices and different terminations. This analysis gives insight into how the surface composition, accessible through the proposed high-throughput screening method, impacts the electronic properties and, ultimately, the photoemission performance. The developed scheme offers new opportunities for automated computational studies beyond bulk materials.    
+
+    
+
+## Data‐Driven Screening of Pivotal Subunits in Edge‐Anchored Single Atom Catalysts for Oxygen Reactions   
+
+OpenAlex: https://openalex.org/W4391984271    
+Open access: False
+    
+[Qitong Ye](https://openalex.org/A5006151140), [Xiao Su Yi](https://openalex.org/A5079103338), [Cai‐Zhuang Wang](https://openalex.org/A5081762465), [Tao Zhang](https://openalex.org/A5040895512), [Yipu Liu](https://openalex.org/A5016817548), [Shiwei Lin](https://openalex.org/A5017311635), [Hong Jin Fan](https://openalex.org/A5015059832), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202400107.
+    
+Abstract Oxygen reduction reaction (ORR) and the oxygen evolution reaction (OER) are key reactions in diverse energy conversion devices, highlighting the importance of efficient catalysts. Edge‐anchored single atom catalysts (E‐SACs) emerge as a special class of atomic structure, but the detailed configuration and its correlation with catalytic activity remain little explored. Herein, a total of 78 E‐SACs (E‐TM‐N x ‐C) have been constructed based on 26 transition metal (TM) species with three coordination patterns. Using structural stability and ORR/OER catalytic activity as the evaluation criteria, a few catalytic structures comparable to Pt (111) for ORR and IrO 2 (110) for OER are screened based on high‐throughput calculations. The screening results unveil that the E‐Rh‐N 4 ‐C configuration exhibits most efficient bifunctional activity for both ORR and OER with an overpotential of 0.38 and 0.61 V, respectively. Electronic structure analysis confirms the distinctive edge effects on the electronic properties of TM and N species, and the feature importance derived from machine learning illustrates the efficacy of E‐TM‐N x subunit configuration in determining the catalytic activity of E‐SACs. Finally, the trained Gradient Boosting Regression (GBR) model exhibits acceptable accuracy in predicting the OH intermediates adsorption strength for E‐SACs, thereby paving the way for expanding catalytic structures based on E‐SACs.    
+
+    
+
+## Machine learning guides the discovery of high-performance HEA catalysts   
+
+OpenAlex: https://openalex.org/W4391995369    
+Open access: True
+    
+[J. Wang](https://openalex.org/A5001663817), [Min Wei](https://openalex.org/A5077129573), [Junyu Zhang](https://openalex.org/A5073029812), IntechOpen eBooks. None(None)] 2024.https://doi.org/10.5772/intechopen.1004118 ([pdf](https://www.intechopen.com/citation-pdf-url/1173381)).
+    
+High performance catalysts are crucial to generating clean fuels, reducing the impact of global warming, and providing solutions to environmental pollution. Improved processes for catalyst design and a better understanding of catalytic processes are key for improving the effectiveness and activities. HEAs typically have at least four principal elements, this atomic structure gives them unique properties that have applications and excellent performance in a variety of fields including catalysis. The complexity of HEAs makes challenge for computational researchers, providing promising opportunities for the application of machine learning. Recent advances in data science have great potential to accelerate catalyst research, particularly the rapid exploration of large materials chemistry spaces through machine learning. Here a comprehensive and critical review of machine learning techniques used in HEA catalysis research is provided. Sources of HEA catalyst data and current approaches to represent these materials by mathematical features are described, the most commonly used machine learning methods summarized, and the quality and utility of catalyst models evaluated. Illustrations of how machine learning models are applied to novel HEA catalysts discovery and used to reveal catalytic reaction mechanisms are provided.    
 
     
 

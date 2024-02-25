@@ -1,33 +1,12 @@
 #+filetags: CO2RR
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Feb 24 00:41:41 2024
+Created on Sun Feb 25 00:47:32 2024
 
-Found 30 results from 2024-02-17 to 2024-02-24
+Found 30 results from 2024-02-18 to 2024-02-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Photocatalytic sponges for wastewater treatment, carbon dioxide reduction, and hydrogen production: a review  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391881021
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Formation and Properties of Nanocrystals and Nanostructures
-:PUBLICATION_DATE: 2024-02-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10311-024-01696-5")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391881021"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391881021"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391881021"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391881021 (Open access: False)
-    
-[[https://openalex.org/A5023804914][Akash Balakrishnan]], [[https://openalex.org/A5084872777][Meenu Mariam Jacob]], [[https://openalex.org/A5013338055][Mahendra Chinthala]], [[https://openalex.org/A5083688944][Nanditha Dayanandan]], [[https://openalex.org/A5009615295][M. N. Ponnuswamy]], [[https://openalex.org/A5072272612][Dai‐Viet N. Vo]], Environmental Chemistry Letters. None(None)] 2024. https://doi.org/10.1007/s10311-024-01696-5 
-     
-No abstract    
-
-    
 
 * Benzyl alcohol promoted electrocatalytic reduction of carbon dioxide and C2 production by Cu2O/Cu  :CO2RR:
 :PROPERTIES:
@@ -218,6 +197,90 @@ No abstract
 
     
 
+* Electrocatalytic Reduction of Carbon Dioxide  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392093652
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-02-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/9783527831005.ch6")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392093652"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392093652"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392093652"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392093652 (Open access: False)
+    
+[[https://openalex.org/A5085671327][Kejun Chen]], [[https://openalex.org/A5036687874][Hongmei Li]], [[https://openalex.org/A5013848651][Junwei Fu]], [[https://openalex.org/A5087653752][Xiqing Wang]], [[https://openalex.org/A5089961352][Min Liu]], No host. None(None)] 2024. https://doi.org/10.1002/9783527831005.ch6 
+     
+Chapter 6 Electrocatalytic Reduction of Carbon Dioxide Kejun Chen, Kejun Chen Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorHongmei Li, Hongmei Li Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorJunwei Fu, Junwei Fu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorXiqing Wang, Xiqing Wang Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorMin Liu, Min Liu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this author Kejun Chen, Kejun Chen Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorHongmei Li, Hongmei Li Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorJunwei Fu, Junwei Fu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorXiqing Wang, Xiqing Wang Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorMin Liu, Min Liu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this author Book Editor(s):Shaohua Shen, Shaohua Shen Xi'an Jiaotong University, Xi'an, ChinaSearch for more papers by this authorShuangyin Wang, Shuangyin Wang Hunan University, Changsha, ChinaSearch for more papers by this author First published: 23 February 2024 https://doi.org/10.1002/9783527831005.ch6 AboutPDFPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShareShare a linkShare onEmailFacebookTwitterLinkedInRedditWechat Summary Electrocatalytic reduction of carbon dioxide into valuable products by surplus and intermittent sustainable energy is considered as a promising technology for sustainable energy and chemical development. However, its practical application is sternly limited by many factors including the electrolytes, selectivity and activity of catalysts, and even electrolysis devices. In this chapter, the recent progresses about those issues for electrocatalytic reduction of carbon dioxide are summarized. To accelerate the practical application of electrocatalytic reduction of carbon dioxide, the major challenges, strategies, and prospects are highlighted to optimize its performance. References Das , S. , Pérez-Ramírez , J. , Gong , J. et al. ( 2020 ). Chem. Soc. Rev. 49 : 2937 – 3004 . 10.1039/C9CS00713J CASPubMedWeb of Science®Google Scholar Yin , J. , Yin , Z. , Jin , J. et al. ( 2021 ). J. Am. Chem. Soc. 143 : 15335 – 15343 . 10.1021/jacs.1c06877 CASPubMedWeb of Science®Google Scholar Rasul , S. , Anjum , D.H. , Jedidi , A. et al. ( 2015 ). Angew. Chem. Int. Ed. 54 : 2146 – 2150 . 10.1002/anie.201410233 CASPubMedWeb of Science®Google Scholar Zhong , H. , Fujii , K. , Nakano , Y. , and Jin , F. ( 2015 ). J. Phys. Chem. C 119 : 55 – 61 . 10.1021/jp509043h CASWeb of Science®Google Scholar Francke , R. , Schille , B. , and Roemelt , M. ( 2018 ). Chem. Rev. 118 : 4631 – 4701 . 10.1021/acs.chemrev.7b00459 CASPubMedWeb of Science®Google Scholar (a) Zhang , Y. , Xia , B. , Ran , J. et al. ( 2020 ). Adv. Energy Mater. 10 : 1903879 . 10.1002/aenm.201903879 CASWeb of Science®Google Scholar (b) Oh , Y. and Hu , X. ( 2013 ). Chem. Soc. Rev. 42 : 2253 – 2261 . 10.1039/C2CS35276A CASPubMedWeb of Science®Google Scholar (a) Göttle , A.J. and Koper , M.T.M. ( 2017 ). Chem. Sci. 8 : 458 – 465 . 10.1039/C6SC02984A CASPubMedWeb of Science®Google Scholar (b) Pei , Y. , Zhong , H. , and Jin , F. ( 2021 ). Energy Sci. Eng. 9 : 1012 – 1032 . 10.1002/ese3.935 CASWeb of Science®Google Scholar (a) Birdja , Y.Y. , Pérez-Gallent , E. , Figueiredo , M.C. et al. ( 2019 ). Nat. Energy 4 : 732 – 745 . 10.1038/s41560-019-0450-y CASWeb of Science®Google Scholar (b) Chang , K. , Zhang , H. , Chen , J.G. et al. ( 2019 ). ACS Catal. 9 : 8197 – 8207 . 10.1021/acscatal.9b01318 CASWeb of Science®Google Scholar Kortlever , R. , Shen , J. , Schouten , K.J.P. et al. ( 2015 ). J. Phys. Chem. Lett. 6 : 4073 – 4082 . 10.1021/acs.jpclett.5b01559 CASPubMedWeb of Science®Google Scholar Jhong , H.-R.M. , Ma , S. , and Kenis , P.J.A. ( 2013 ). Curr. Opin. Chem. Eng. 2 : 191 – 199 . 10.1016/j.coche.2013.03.005 Web of Science®Google Scholar Ringe , S. , Clark , E.L. , Resasco , J. et al. ( 2019 ). Energy Environ. Sci. 12 : 3001 – 3014 . 10.1039/C9EE01341E CASWeb of Science®Google Scholar Sharifi Golru , S. and Biddinger , E.J. ( 2022 ). Chem. Eng. J. 428 : 131303 . 10.1016/j.cej.2021.131303 PubMedGoogle Scholar (a) Ogura , K. , Yano , H. , and Shirai , F. ( 2003 ). J. Electrochem. Soc. 150 : D163 . 10.1149/1.1593044 CASWeb of Science®Google Scholar (b) Hori , Y. ( 2008 ). Modern Aspects of Electrochemistry (ed. C.G. Vayenas , R.E. White , and M.E. Gamboa-Aldeco ), 89 – 189 . New York, New York, NY : Springer . 10.1007/978-0-387-49489-0_3 Google Scholar Qiao , J. , Liu , Y. , and Zhang , J. ( 2016 ). Electrochemical Reduction of Carbon Dioxide: Fundamentals and Technologies . CRC Press . 10.1201/b20177 Google Scholar Duan , Z. , Sun , R. , Zhu , C. , and Chou , I.M. ( 2006 ). Mar. Chem. 98 : 131 – 139 . 10.1016/j.marchem.2005.09.001 CASWeb of Science®Google Scholar Lamaison , S. , Wakerley , D. , Blanchard , J. et al. ( 2020 ). Joule 4 : 395 – 406 . 10.1016/j.joule.2019.11.014 CASWeb of Science®Google Scholar Koper , M.T.M. ( 2013 ). Chem. Sci. 4 : 2710 – 2723 . 10.1039/c3sc50205h CASWeb of Science®Google Scholar Zhang , Z. , Melo , L. , Jansonius , R.P. et al. ( 2020 ). ACS Energy Lett. 5 : 3101 – 3107 . 10.1021/acsenergylett.0c01606 CASWeb of Science®Google Scholar (a) Gupta , N. , Gattrell , M. , and MacDougall , B. ( 2006 ). J. Appl. Electrochem. 36 : 161 – 172 . 10.1007/s10800-005-9058-y CASWeb of Science®Google Scholar (b) Hashiba , H. , Weng , L.-C. , Chen , Y. et al. ( 2018 ). J. Phys. Chem. C 122 : 3719 – 3726 . 10.1021/acs.jpcc.7b11316 CASWeb of Science®Google Scholar Dinh , C.-T. , Burdyny , T. , Kibria , M.G. et al. ( 2018 ). Science 360 : 783 – 787 . 10.1126/science.aas9100 CASPubMedWeb of Science®Google Scholar Resasco , J. , Chen , L.D. , Clark , E. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 11277 – 11287 . 10.1021/jacs.7b06765 CASPubMedWeb of Science®Google Scholar Monteiro , M.C.O. , Dattila , F. , Hagedoorn , B. et al. ( 2021 ). Nature Catal. 4 : 654 – 662 . 10.1038/s41929-021-00655-5 CASWeb of Science®Google Scholar Singh , M.R. , Kwon , Y. , Lum , Y. et al. ( 2016 ). J. Am. Chem. Soc. 138 : 13006 – 13012 . 10.1021/jacs.6b07612 CASPubMedWeb of Science®Google Scholar Liu , M. , Pang , Y. , Zhang , B. et al. ( 2016 ). Nature 537 : 382 – 386 . 10.1038/nature19060 CASPubMedWeb of Science®Google Scholar (a) An , P. , Wei , L. , Li , H. et al. ( 2020 ). J. Mater. Chem. A 8 : 15936 – 15941 . 10.1039/D0TA03645E CASWeb of Science®Google Scholar (b) Gao , F.-Y. , Hu , S.-J. , Zhang , X.-L. et al. ( 2020 ). Angew. Chem. Int. Ed. 59 : 8706 – 8712 . 10.1002/anie.201912348 CASPubMedWeb of Science®Google Scholar Ogura , K. ( 2013 ). J. CO2 Util. 1 : 43 – 49 . 10.1016/j.jcou.2013.03.003 CASWeb of Science®Google Scholar Murata , A. and Hori , Y. ( 1991 ). Bull. Chem. Soc. Jpn. 64 : 123 – 127 . 10.1246/bcsj.64.123 CASWeb of Science®Google Scholar Malkani , A.S. , Anibal , J. , and Xu , B. ( 2020 ). ACS Catal. 10 : 14871 – 14876 . 10.1021/acscatal.0c03553 CASWeb of Science®Google Scholar Wu , H. , Song , J. , Xie , C. et al. ( 2018 ). Green Chemistry 20 : 1765 – 1769 . 10.1039/C8GC00471D CASWeb of Science®Google Scholar Tripkovic , D.V. , Strmcnik , D. , van der Vliet , D. et al. ( 2009 ). Faraday Discuss. 140 : 25 – 40 . 10.1039/B803714K CASWeb of Science®Google Scholar (a) Shaw , S.K. , Berná , A. , Feliu , J.M. et al. ( 2011 ). Phys. Chem. Chem. Phys. 13 : 5242 – 5251 . 10.1039/c0cp02064h CASPubMedWeb of Science®Google Scholar (b) Ogura , K. and Salazar-Villalpando , M.D. ( 2011 ). JOM 63 : 35 – 38 . 10.1007/s11837-011-0009-2 CASGoogle Scholar (c) Verma , S. , Lu , X. , Ma , S. et al. ( 2016 ). Phys. Chem. Chem. Phys. 18 : 7075 – 7084 . 10.1039/C5CP05665A CASPubMedWeb of Science®Google Scholar Hsieh , Y.-C. , Senanayake , S.D. , Zhang , Y. et al. ( 2015 ). ACS Catal. 5 : 5349 – 5356 . 10.1021/acscatal.5b01235 CASWeb of Science®Google Scholar Gao , D. , Scholten , F. , and Roldan Cuenya , B. ( 2017 ). ACS Catal. 7 : 5112 – 5120 . 10.1021/acscatal.7b01416 CASWeb of Science®Google Scholar Huang , Y. , Ong , C.W. , and Yeo , B.S. ( 2018 ). ChemSusChem 11 : 3299 – 3306 . 10.1002/cssc.201801078 CASPubMedWeb of Science®Google Scholar Ogura , K. , Ferrell , J.R. , Cugini , A.V. et al. ( 2010 ). Electrochim. Acta 56 : 381 – 386 . 10.1016/j.electacta.2010.08.065 CASWeb of Science®Google Scholar Hori , Y. , Murata , A. , and Takahashi , R. ( 1989 ). J. Chem. Soc., Faraday Trans. 1 85 : 2309 – 2326 . 10.1039/f19898502309 CASWeb of Science®Google Scholar Cho , M. , Song , J.T. , Back , S. et al. ( 2018 ). ACS Catal. 8 : 1178 – 1185 . 10.1021/acscatal.7b03449 CASWeb of Science®Google Scholar Bagger , A. , Ju , W. , Varela , A.S. et al. ( 2017 ). Chemphyschem 18 : 3266 – 3273 . 10.1002/cphc.201700736 CASPubMedWeb of Science®Google Scholar Gao , S. , Lin , Y. , Jiao , X. et al. ( 2016 ). Nature 529 : 68 – 71 . 10.1038/nature16455 CASPubMedWeb of Science®Google Scholar Lee , C.H. and Kanan , M.W. ( 2015 ). ACS Catal. 5 : 465 – 469 . 10.1021/cs5017672 CASPubMedWeb of Science®Google Scholar Amatore , C. and Saveant , J.M. ( 1981 ). J. Am. Chem. Soc. 103 : 5021 – 5023 . 10.1021/ja00407a008 CASWeb of Science®Google Scholar Hori , Y. , Wakebe , H. , Tsukamoto , T. , and Koga , O. ( 1994 ). Electrochim. Acta 39 : 1833 – 1839 . 10.1016/0013-4686(94)85172-7 CASWeb of Science®Google Scholar Wu , J. , Sharma , P.P. , Harris , B.H. , and Zhou , X.-D. ( 2014 ). J. Power Sources 258 : 189 – 194 . 10.1016/j.jpowsour.2014.02.014 CASWeb of Science®Google Scholar Medina-Ramos , J. , Pupillo , R.C. , Keane , T.P. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 5021 – 5027 . 10.1021/ja5121088 CASPubMedWeb of Science®Google Scholar Gao , D. , Zhang , Y. , Zhou , Z. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 5652 – 5655 . 10.1021/jacs.7b00102 CASPubMedWeb of Science®Google Scholar Ma , M. , Trześniewski , B.J. , Xie , J. , and Smith , W.A. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9748 – 9752 . 10.1002/anie.201604654 CASPubMedWeb of Science®Google Scholar Jiang , X. , Cai , F. , Gao , D. et al. ( 2016 ). Electrochem. Commun. 68 : 67 – 70 . 10.1016/j.elecom.2016.05.003 CASWeb of Science®Google Scholar Huang , H. , Jia , H. , Liu , Z. et al. ( 2017 ). Angew. Chem. Int. Ed. 56 : 3594 – 3598 . 10.1002/anie.201612617 CASPubMedWeb of Science®Google Scholar (a) Kas , R. , Kortlever , R. , Milbrat , A. et al. ( 2014 ). Phys. Chem. Chem. Phys. 16 : 12194 – 12201 . 10.1039/C4CP01520G CASPubMedWeb of Science®Google Scholar (b) Li , Y. , Cui , F. , Ross , M.B. et al. ( 2017 ). Nano Lett. 17 : 1312 – 1317 . 10.1021/acs.nanolett.6b05287 CASPubMedWeb of Science®Google Scholar (c) Li , C.W. , Ciston , J. , and Kanan , M.W. ( 2014 ). Nature 508 : 504 – 507 . 10.1038/nature13249 CASPubMedWeb of Science®Google Scholar Kuhl , K.P. , Hatsukade , T. , Cave , E.R. et al. ( 2014 ). J. Am. Chem. Soc. 136 : 14107 – 14113 . 10.1021/ja505791r CASPubMedWeb of Science®Google Scholar Yu , X. and Pickup , P.G. ( 2008 ). J. Power Sources 182 : 124 – 132 . 10.1016/j.jpowsour.2008.03.075 CASWeb of Science®Google Scholar (a) Li , D. , Wu , J. , Liu , T. et al. ( 2019 ). Chem. Eng. J. 375 : 122024 . Google Scholar (b) Zhang , X. , Chen , Z. , Mou , K. et al. ( 2019 ). Nanoscale 11 : 18715 – 18722 . 10.1039/C9NR06354D CASPubMedWeb of Science®Google Scholar (c) Han , N. , Wang , Y. , Deng , J. et al. ( 2019 ). J. Mater. Chem. A 7 : 1267 – 1272 . 10.1039/C8TA10959A CASWeb of Science®Google Scholar (a) Liu , S. , Xiao , J. , Lu , X.F. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 8499 – 8503 . 10.1002/anie.201903613 CASPubMedWeb of Science®Google Scholar (b) Hu , C. , Li , L. , Deng , W. et al. ( 2020 ). ChemSusChem 13 : 6353 – 6359 . 10.1002/cssc.202000557 CASPubMedWeb of Science®Google Scholar (c) Yiliguma , Z. , Wang , C. , Yang , A. et al. ( 2018 ). Mater. Chem. A 6 : 20121 – 20127 . 10.1039/C8TA08058E CASWeb of Science®Google Scholar (a) Kaneco , S. , Iwao , R. , Iiba , K. et al. ( 1999 ). Environ. Eng. Sci. 16 : 131 – 137 . 10.1089/ees.1999.16.131 CASWeb of Science®Google Scholar (b) Zhu , Q. , Ma , J. , Kang , X. et al. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9012 – 9016 . 10.1002/anie.201601974 CASPubMedWeb of Science®Google Scholar Bitar , Z. , Fecant , A. , Trela-Baudot , E. et al. ( 2016 ). Appl. Catal. B 189 : 172 – 180 . 10.1016/j.apcatb.2016.02.041 CASWeb of Science®Google Scholar (a) Yuan , X. , Luo , Y. , Zhang , B. et al. ( 2020 ). Chem. Commun. 56 : 4212 – 4215 . 10.1039/C9CC10078D CASPubMedWeb of Science®Google Scholar (b) Feng , J. , Gao , H. , Feng , J. et al. ( 2020 ). ChemCatChem 12 : 926 – 931 . 10.1002/cctc.201901530 Web of Science®Google Scholar Kwon , I.S. , Debela , T.T. , Kwak , I.H. et al. ( 2019 ). J. Mater. Chem. A 7 : 22879 – 22883 . 10.1039/C9TA06285H CASWeb of Science®Google Scholar Ma , W. , Xie , S. , Zhang , X.-G. et al. ( 2019 ). Nat. Commun. 10 : 892 . 10.1038/s41467-019-08805-x PubMedWeb of Science®Google Scholar Wang , X. , Jiang , X. , Wang , Q. et al. ( 2020 ). Electrochim. Acta 340 : 135948 . PubMedGoogle Scholar Detweiler , Z.M. , White , J.L. , Bernasek , S.L. , and Bocarsly , A.B. ( 2014 ). Langmuir 30 : 7593 – 7600 . 10.1021/la501245p CASPubMedWeb of Science®Google Scholar Watkins , J.D. and Bocarsly , A.B. ( 2014 ). ChemSusChem 7 : 284 – 290 . 10.1002/cssc.201300659 CASPubMedWeb of Science®Google Scholar An , X. , Li , S. , Hao , X. et al. ( 2021 ). Renew. Sust. Energy Rev. 143 : 110952 . 10.1016/j.rser.2021.110952 Google Scholar Eren , E.O. and Özkar , S. ( 2021 ). J. Power Sources 506 : 230215 . 10.1016/j.jpowsour.2021.230215 PubMedGoogle Scholar Kauffman , D.R. , Alfonso , D. , Matranga , C. et al. ( 2012 ). J. Am. Chem. Soc. 134 : 10237 – 10243 . 10.1021/ja303259q CASPubMedWeb of Science®Google Scholar Feng , X. , Jiang , K. , Fan , S. , and Kanan , M.W. ( 2015 ). J. Am. Chem. Soc. 137 : 4606 – 4609 . 10.1021/ja5130513 CASPubMedWeb of Science®Google Scholar Zhu , W. , Zhang , Y.-J. , Zhang , H. et al. ( 2014 ). J. Am. Chem. Soc. 136 : 16132 – 16135 . 10.1021/ja5095099 CASPubMedWeb of Science®Google Scholar Mezzavilla , S. , Horch , S. , Stephens , I.E.L. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 3774 – 3778 . 10.1002/anie.201811422 CASPubMedWeb of Science®Google Scholar Kwok , K.S. , Wang , Y. , Cao , M.C. et al. ( 2019 ). Nano Lett. 19 : 9154 – 9159 . 10.1021/acs.nanolett.9b04564 CASPubMedWeb of Science®Google Scholar Kim , C. , Jeon , H.S. , Eom , T. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 13844 – 13850 . 10.1021/jacs.5b06568 CASPubMedWeb of Science®Google Scholar Liu , S. , Sun , C. , Xiao , J. , and Luo , J.-L. ( 2020 ). ACS Catal. 10 : 3158 – 3163 . 10.1021/acscatal.9b03883 CASWeb of Science®Google Scholar (a) Liu , S. , Tao , H. , Liu , Q. et al. ( 2018 ). ACS Catal. 8 : 1469 – 1475 . 10.1021/acscatal.7b03619 CASWeb of Science®Google Scholar (b) Liu , S. , Wang , X.-Z. , Tao , H. et al. ( 2018 ). Nano Energy 45 : 456 – 462 . 10.1016/j.nanoen.2018.01.016 CASWeb of Science®Google Scholar Lee , C.-Y. , Zhao , Y. , Wang , C. et al. ( 2017 ). Sustain. Energy Fuels 1 : 1023 – 1027 . 10.1039/C7SE00069C CASWeb of Science®Google Scholar Jianping , Q. , Juntao , T. , Jie , S. et al. ( 2016 ). Electrochim. Acta 203 : 99 – 108 . 10.1016/j.electacta.2016.03.182 Google Scholar Chen , R. , Cao , M. , Yang , W. et al. ( 2019 ). Chem. Commun. 55 : 9805 – 9808 . 10.1039/C9CC02393C CASPubMedWeb of Science®Google Scholar Suen , N.-T. , Kong , Z.-R. , Hsu , C.-S. et al. ( 2019 ). ACS Catal. 9 : 5217 – 5222 . 10.1021/acscatal.9b00790 CASWeb of Science®Google Scholar Zhu , S. , Wang , Q. , Qin , X. et al. ( 2018 ). Adv. Energy Mater. 8 : 1802238 . 10.1002/aenm.201802238 Web of Science®Google Scholar Wang , J. , Kattel , S. , Hawxhurst , C.J. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 6271 – 6275 . 10.1002/anie.201900781 CASPubMedWeb of Science®Google Scholar (a) Lee , J.H. , Kattel , S. , Jiang , Z. et al. ( 2019 ). Nat. Commun. 10 : 3724 ; 10.1038/s41467-019-11352-0 PubMedWeb of Science®Google Scholar (b) Plana , D. , Flórez-Montaño , J. , Celorrio , V. et al. ( 2013 ). Chem. Commun. 49 : 10962 – 10964 . 10.1039/c3cc46543h CASPubMedWeb of Science®Google Scholar Ikeda , S. , Hattori , A. , Ito , K. , and Noda , H. ( 1999 ). Electrochem. 67 : 27 – 33 . 10.5796/electrochemistry.67.27 CASWeb of Science®Google Scholar (a) Nguyen , D.L.T. , Lee , C.W. , Na , J. et al. ( 2020 ). ACS Catal. 10 : 3222 – 3231 ; 10.1021/acscatal.9b05096 CASWeb of Science®Google Scholar (b) Zhao , M. , Gu , Y. , Chen , P. et al. ( 2019 ). J. Mater. Chem. A 7 : 9316 – 9323 . 10.1039/C9TA00562E CASWeb of Science®Google Scholar (a) Quan , F. , Zhong , D. , Song , H. et al. ( 2015 ). J. Mater. Chem. A 3 : 16409 – 16413 . 10.1039/C5TA04102C CASWeb of Science®Google Scholar (b) Won , D.H. , Shin , H. , Koh , J. et al. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9297 – 9300 . 10.1002/anie.201602888 CASPubMedWeb of Science®Google Scholar (c) Zhao , M. , Tang , H. , Yang , Q. et al. ( 2020 ). Mater. Inter. 12 : 4565 – 4571 . 10.1021/acsami.9b22811 CASGoogle Scholar Hori , Y. , Kikuchi , K. , and Suzuki , S. ( 1985 ). Chem. Lett. 14 : 1695 – 1698 . 10.1246/cl.1985.1695 Web of Science®Google Scholar (a) Nørskov , J.K. , Bligaard , T. , Logadottir , A. et al. ( 2005 ). J. Electrochem. Soc. 152 : J23 . 10.1149/1.1856988 CASWeb of Science®Google Scholar (b) Vasiliev , Y.B. , Bagotzky , V. , and Osetrova , N. ( 1985 ). J. Electroanal. Chem 189 : 271 – 294 . 10.1016/0368-1874(85)80073-3 Google Scholar (c) Trasatti , S. ( 1972 ). J. Electroanaly. Chem. Interfacial Electrochem. 39 : 163 – 184 . 10.1016/S0022-0728(72)80485-6 CASWeb of Science®Google Scholar (a) Wakerley , D. , Lamaison , S. , Ozanam , F. et al. ( 2019 ). Nat. Mater. 18 : 1222 – 1227 . 10.1038/s41563-019-0445-x CASPubMedWeb of Science®Google Scholar (b) Ren , D. , Fong , J. , and Yeo , B.S. ( 2018 ). Nat. Commun. 9 : 925 . 10.1038/s41467-018-03286-w PubMedWeb of Science®Google Scholar (a) Cook , R.L. , MacDuff , R.C. , and Sammells , A.F. ( 1987 ). J. Electrochem. Soc. 134 : 1873 – 1874 . 10.1149/1.2100776 CASWeb of Science®Google Scholar (b) DeWulf , D.W. , Jin , T. , and Bard , A.J. ( 1989 ). J. Electrochem. Soc. 136 : 1686 – 1691 . 10.1149/1.2096993 CASWeb of Science®Google Scholar (c) Hara , K. , Tsuneto , A. , Kudo , A. , and Sakata , T. ( 1994 ). J. Electrochem. Soc. 141 : 2097 – 2103 . 10.1149/1.2055067 CASWeb of Science®Google Scholar (d) Hori , Y. , Koga , O. , Yamazaki , H. , and Matsuo , T. ( 1995 ). Electrochim. Acta 40 : 2617 – 2622 . 10.1016/0013-4686(95)00239-B CASWeb of Science®Google Scholar (a) Jiang , K. , Sandberg , R.B. , Akey , A.J. et al. ( 2018 ). Nature Catal. 1 : 111 – 119 . 10.1038/s41929-017-0009-x CASWeb of Science®Google Scholar (b) Osowiecki , W.T. , Nussbaum , J.J. , Kamat , G.A. et al. ( 2019 ). Energy Mater. 2 : 7744 – 7749 . CASGoogle Scholar (c) Li , Y. , Kim , D. , Louisia , S. et al. ( 2020 ). Proc. Natl. Acad. Sci. U. S. A. 117 : 9194 – 9201 . 10.1073/pnas.1918602117 CASPubMedWeb of Science®Google Scholar (d) Garza , A.J. , Bell , A.T. , and Head-Gordon , M. ( 2018 ). ACS Catal. 8 : 1490 – 1499 . 10.1021/acscatal.7b03477 CASWeb of Science®Google Scholar (e) Todorova , T.K. , Schreiber , M.W. , and Fontecave , M. ( 2020 ). ACS Catal. 10 : 1754 – 1768 . 10.1021/acscatal.9b04746 CASWeb of Science®Google Scholar Tang , W. , Peterson , A.A. , Varela , A.S. et al. ( 2012 ). Phys. Chem. Chem. Phys. 14 : 76 – 81 . 10.1039/C1CP22700A CASPubMedWeb of Science®Google Scholar (a) Wang , Y. , Chen , Z. , Han , P. et al. ( 2018 ). ACS Catal. 8 : 7113 – 7119 . 10.1021/acscatal.8b01014 CASWeb of Science®Google Scholar (b) Guan , A. , Chen , Z. , Quan , Y. et al. ( 2020 ). ACS Energy Lett. 5 : 1044 – 1053 . 10.1021/acsenergylett.0c00018 CASWeb of Science®Google Scholar Varandili , S.B. , Huang , J. , Oveisi , E. et al. ( 2019 ). ACS Catal. 9 : 5035 – 5046 . 10.1021/acscatal.9b00010 CASWeb of Science®Google Scholar Chen , S. , Su , Y. , Deng , P. et al. ( 2020 ). ACS Catal. 10 : 4640 – 4646 . 10.1021/acscatal.0c00847 CASWeb of Science®Google Scholar (a) Liang , Z.-Q. , Zhuang , T.-T. , Seifitokaldani , A. et al. ( 2018 ). Nat. Commun. 9 : 3828 . 10.1038/s41467-018-06311-0 PubMedWeb of Science®Google Scholar (b) Yin , Z. , Yu , C. , Zhao , Z. et al. ( 2019 ). Nano Lett. 19 : 8658 – 8663 . 10.1021/acs.nanolett.9b03324 CASPubMedWeb of Science®Google Scholar Torelli , D.A. , Francis , S.A. , Crompton , J.C. et al. ( 2016 ). ACS Catal. 6 : 2100 – 2104 . 10.1021/acscatal.5b02888 CASWeb of Science®Google Scholar (a) Zhao , Z. , Peng , X. , Liu , X. et al. ( 2017 ). J. Mater. Chem. A 5 : 20239 – 20243 . 10.1039/C7TA05507B CASWeb of Science®Google Scholar (b) Liu , X. , Yang , H. , He , J. et al. ( 2018 ). Small 14 : 1704049 . 10.1002/smll.201704049 Web of Science®Google Scholar Yang , X.-F. , Wang , A. , Qiao , B. et al. ( 2013 ). Acc. Chem. Res. 46 : 1740 – 1748 . 10.1021/ar300361m CASPubMedWeb of Science®Google Scholar Varela , A.S. , Ranjbar Sahraie , N. , Steinberg , J. et al. ( 2015 ). Angew. Chem. Int. Ed. 54 : 10758 – 10762 . 10.1002/anie.201502099 CASPubMedWeb of Science®Google Scholar Huan , T.N. , Ranjbar , N. , Rousse , G. et al. ( 2017 ). ACS Catal. 7 : 1520 – 1525 . 10.1021/acscatal.6b03353 CASWeb of Science®Google Scholar Varela , A.S. , Ju , W. , Bagger , A. et al. ( 2019 ). ACS Catal. 9 : 7270 – 7284 . 10.1021/acscatal.9b01405 CASWeb of Science®Google Scholar (a) Kornienko , N. , Zhao , Y. , Kley , C.S. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 14129 – 14135 . 10.1021/jacs.5b08212 CASPubMedWeb of Science®Google Scholar (b) Zhou , Y. , Che , F. , Liu , M. et al. ( 2018 ). Nature Chemistry 10 : 974 – 980 . 10.1038/s41557-018-0092-x CASPubMedWeb of Science®Google Scholar (c) Di , J. , Chen , C. , Yang , S.-Z. et al. ( 2019 ). Nat. Commun. 10 : 2840 . 10.1038/s41467-019-10392-w PubMedWeb of Science®Google Scholar (d) Zheng , T. , Jiang , K. , and Wang , H. ( 2018 ). Adv. Mater. 30 : 1802066 . 10.1002/adma.201802066 PubMedWeb of Science®Google Scholar Guo , Z. , Cheng , S. , Cometto , C. et al. ( 2016 ). J. Am. Chem. Soc. 138 : 9413 – 9416 . 10.1021/jacs.6b06002 CASPubMedWeb of Science®Google Scholar Wang , X. , Chen , Z. , Zhao , X. et al. ( 2018 ). Angew. Chem. Int. Ed. 57 : 1944 – 1948 . 10.1002/anie.201712451 CASPubMedWeb of Science®Google Scholar Pan , Y. , Lin , R. , Chen , Y. et al. ( 2018 ). J. Am. Chem. Soc. 140 : 4218 – 4221 . 10.1021/jacs.8b00814 CASPubMedWeb of Science®Google Scholar Li , X. , Bi , W. , Chen , M. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 14889 – 14892 . 10.1021/jacs.7b09074 CASPubMedWeb of Science®Google Scholar Jiang , K. , Siahrostami , S. , Zheng , T. et al. ( 2018 ). Energy Environ. Sci. 11 : 893 – 903 . 10.1039/C7EE03245E CASWeb of Science®Google Scholar (a) Cheng , T. , Xiao , H. , and Goddard , W.A. ( 2017 ). J. Am. Chem. Soc. 139 : 11642 – 11645 . 10.1021/jacs.7b03300 CASPubMedWeb of Science®Google Scholar (b) Li , J. , Wang , Z. , McCallum , C. et al. ( 2019 ). Nature Catal. 2 : 1124 – 1131 . 10.1038/s41929-019-0380-x CASWeb of Science®Google Scholar (c) Liu , X. , Schlexer , P. , Xiao , J. et al. ( 2019 ). Nat. Commun. 10 : 32 . 10.1038/s41467-018-07970-9 CASPubMedWeb of Science®Google Scholar Zheng , W. , Yang , J. , Chen , H. et al. ( 2020 ). Adv. Funct. Mater. 30 : 1907658 . 10.1002/adfm.201907658 CASWeb of Science®Google Scholar Jiao , Y. , Zheng , Y. , Chen , P. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 18093 – 18100 . 10.1021/jacs.7b10817 CASPubMedWeb of Science®Google Scholar Zu , X. , Li , X. , Liu , W. et al. ( 2019 ). Adv. Mater. 31 : 1808135 . 10.1002/adma.201808135 PubMedWeb of Science®Google Scholar Ni , W. , Gao , Y. , Lin , Y. et al. ( 2021 ). ACS Catal. 11 : 5212 – 5221 . 10.1021/acscatal.0c05514 CASWeb of Science®Google Scholar (a) Huang , P. , Cheng , M. , Zhang , H. et al. ( 2019 ). Nano Energy 61 : 428 – 434 . 10.1016/j.nanoen.2019.05.003 CASWeb of Science®Google Scholar (b) Yang , F. , Song , P. , Liu , X. et al. ( 2018 ). Angew. Chem. Int. Ed. 57 : 12303 – 12307 . 10.1002/anie.201805871 CASPubMedWeb of Science®Google Scholar Cheng , M.-J. , Clark , E.L. , Pham , H.H. et al. ( 2016 ). ACS Catal. 6 : 7769 – 7777 . 10.1021/acscatal.6b01393 CASWeb of Science®Google Scholar (a) Duchesne , P.N. , Li , Z.Y. , Deming , C.P. et al. ( 2018 ). Nat. Mater. 17 : 1033 – 1039 . 10.1038/s41563-018-0167-5 CASPubMedWeb of Science®Google Scholar (b) Greiner , M.T. , Jones , T.E. , Beeg , S. et al. ( 2018 ). Nat. Chem. ( 10 ): 1008 – 1015 . 10.1038/s41557-018-0125-5 PubMedGoogle Scholar Wang , Y. , Cao , L. , Libretto , N.J. et al. ( 2019 ). J. Am. Chem. Soc. 141 : 16635 – 16642 . 10.1021/jacs.9b05766 CASPubMedWeb of Science®Google Scholar Jiao , J. , Lin , R. , Liu , S. et al. ( 2019 ). Nature Chem. 11 : 222 – 228 . 10.1038/s41557-018-0201-x CASPubMedWeb of Science®Google Scholar Nguyen , T.N. and Dinh , C.-T. ( 2020 ). Chem. Soc. Rev. 49 : 7488 – 7504 . 10.1039/D0CS00230E CASPubMedWeb of Science®Google Scholar (a) Li , L. , Ozden , A. , Guo , S. et al. ( 2021 ). Nat. Commun. 12 : 5223 . 10.1038/s41467-021-25573-9 CASPubMedWeb of Science®Google Scholar (b) Dinh , C.-T. , García de Arquer , F.P. , Sinton , D. , and Sargent , E.H. ( 2018 ). ACS Energy Lett. 3 : 2835 – 2840 . 10.1021/acsenergylett.8b01734 CASWeb of Science®Google Scholar Weng , L.-C. , Bell , A.T. , and Weber , A.Z. ( 2018 ). Phys. Chem. Chem. Phys. 20 : 16973 – 16984 . 10.1039/C8CP01319E CASPubMedWeb of Science®Google Scholar Yang , K. , Kas , R. , Smith , W.A. , and Burdyny , T. ( 2021 ). ACS Energy Lett. 6 : 33 – 40 . 10.1021/acsenergylett.0c02184 CASWeb of Science®Google Scholar Li , Y.C. , Wang , Z. , Yuan , T. et al. ( 2019 ). J. Am. Chem. Soc. 141 : 8584 – 8591 . 10.1021/jacs.9b02945 CASPubMedWeb of Science®Google Scholar Tan , Y.C. , Lee , K.B. , Song , H. , and Oh , J. ( 2020 ). Joule 4 : 1104 – 1120 . 10.1016/j.joule.2020.03.013 CASWeb of Science®Google Scholar Kim , D. , Kley , C.S. , Li , Y. , and Yang , P. ( 2017 ). Proc. Natl. Acad. Sci. U. S. A. 114 : 10560 . 10.1073/pnas.1711493114 CASPubMedWeb of Science®Google Scholar Water Photo‐ and Electro‐Catalysis: Mechanisms, Materials, Devices, and Systems ReferencesRelatedInformation    
+
+    
+
+* Two-dimensional Cu-based materials for electrocatalytic carbon dioxide reduction  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392094048
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.isci.2024.109313")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392094048"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392094048"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392094048"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392094048 (Open access: True)
+    
+[[https://openalex.org/A5003577703][Hu Mei]], [[https://openalex.org/A5076495171][Lipeng Zhang]], [[https://openalex.org/A5005278461][Junjun Li]], [[https://openalex.org/A5082719750][Kiran Zahra]], [[https://openalex.org/A5060538255][Zhicheng Zhang]], iScience. None(None)] 2024. https://doi.org/10.1016/j.isci.2024.109313 
+     
+No abstract    
+
+    
+
+* Techno-economic ionic liquid-based capturing, electrochemical reduction, and hydrogenation of carbon dioxide in the simultaneous production of formic acid and biomethane  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392111886
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jclepro.2024.141211")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392111886"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392111886"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392111886"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392111886 (Open access: False)
+    
+[[https://openalex.org/A5046730822][Ahmad Syauqi]], [[https://openalex.org/A5070884488][Juli Ayu Ningtyas]], [[https://openalex.org/A5020129219][Yus Donald Chaniago]], [[https://openalex.org/A5004271193][Hankwon Lim]], Journal of Cleaner Production. None(None)] 2024. https://doi.org/10.1016/j.jclepro.2024.141211 
+     
+CO2 utilization is vital for mitigating climate change by converting CO2 into valuable products, promoting environmental protection and resource efficiency. Novel pathways for CO2 utilization to produce formic acid are proposed namely solute phase electroreduction, gas phase electroreduction, and hydrogenation, are investigated. Employing multi-objective optimization with a deep neural network surrogate model, this study identifies optimal process conditions balancing capital and operational expenditures. The result shows that CO2 hydrogenation ($868 ton−1) exhibits the lowest production cost followed by gas-phase electroreduction ($986 ton−1) and solute-phase electroreduction ($2103 ton−1). The result also shows that without any intervention at all only hydrogenation can generate profit. Furthermore, an in-depth analysis of CO2 emissions indicates that gas phase electroreduction results in the lowest CO2 emissions (0.7 kg CO2 kg HCOOH−1) among the examined pathways. Insights from our research suggest a minimum current density of 417.3 mA cm−2 is recommended to achieve at least parity with hydrogenation in terms of production cost. To push the commercialization of gas-phase electroreduction, besides current density improvement, electricity cost reduction, and carbon trading mechanism is proposed to reduce the production cost.    
+
+    
+
+* Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392114445
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Gas Sensing Technology and Materials
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4737069")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392114445"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392114445"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392114445"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392114445 (Open access: False)
+    
+[[https://openalex.org/A5000930560][Yung-Hsiang Lin]], [[https://openalex.org/A5052640034][Fuyu Liu]], [[https://openalex.org/A5038839422][Ching Ling Teng]], [[https://openalex.org/A5030650224][Jiahao Lin]], [[https://openalex.org/A5083995504][Chiing‐Chang Chen]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4737069 
+     
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation 28 Pages Posted: 23 Feb 2024 See all articles by Yu-Yun LinYu-Yun LinNational Taichung University of EducationFu-Yu LiuNational Taichung University of EducationChia-Lin TengNational Tsing Hua University - Department of Chemical EngineeringJia-Hao LinNational Taichung University of EducationChiing-Chang ChenNational Taichung University of Education Abstract In this study, a set of BiTeX (X = Cl, Br, I) photocatalysts was successfully synthesized using a straightforward hydrothermal method. The synthesis process involved dissolving BiX3 and Te powder in toluene to determine the most effective material for photocatalytic activity. The primary aim of this methodology is to facilitate the conversion of carbon dioxide (CO2) into sustainable solar fuels, such as alcohols and hydrocarbons, presenting an attractive solution to address environmental concerns and energy crises. The BiTeX photocatalysts exhibited notable proficiency in transforming CO2 into CH4, with BiTeCl displaying a noteworthy photocatalytic conversion rate of up to 0.51 μmol/g-1h-1. The optimized BiTeX photocatalysts showcased a gradual and selective transition from CO2 to CH4, ultimately yielding high-value hydrocarbons (C2+). Moreover, due to their capacity to reduce CO2, these photocatalysts hold promise as materials for mitigating environmental pollution. Keywords: BiTeX, CO2, photocatalysis, C2+ Suggested Citation: Suggested Citation Lin, Yu-Yun and Liu, Fu-Yu and Teng, Chia-Lin and Lin, Jia-Hao and Chen, Chiing-Chang, Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation. Available at SSRN: https://ssrn.com/abstract=4737069 Yu-Yun Lin National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Fu-Yu Liu National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Chia-Lin Teng National Tsing Hua University - Department of Chemical Engineering ( email ) 101, Section 2, Kuang-Fu RoadHsinchu, 30013Taiwan Jia-Hao Lin National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Chiing-Chang Chen (Contact Author) National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Download This Paper Open PDF in Browser Do you have negative results from your research you’d like to share? Submit Negative Results Paper statistics Downloads 0 Abstract Views 11 33 References PlumX Metrics Feedback Feedback to SSRN Feedback (required) Email (required) Submit If you need immediate assistance, call 877-SSRNHelp (877 777 6435) in the United States, or +1 212 448 2500 outside of the United States, 8:30AM to 6:00PM U.S. Eastern, Monday - Friday.    
+
+    
+
 * Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study  :CO2RR:
 :PROPERTIES:
 :ID: https://openalex.org/W4391907254
@@ -260,22 +323,22 @@ The steel industry, which relies heavily on primary energy, is one of the indust
 
     
 
-* Gallium Nitride‐Based Artificial Photosynthesis Integrated Devices for Solar Hydrogen Generation and Carbon Dioxide Reduction  :CO2RR:
+* Trends of Emerging Zero-Carbon Technologies: The Role of the Life Cycle Assessment for Evaluating Carbon Dioxide Reduction Targets  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391875089
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gas Sensing Technology and Materials, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices
-:PUBLICATION_DATE: 2024-02-16
+:ID: https://openalex.org/W4392078594
+:TOPICS: Carbon Dioxide Capture and Storage Technologies
+:PUBLICATION_DATE: 2024-02-21
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/9781119600862.ch11")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1142/9789811275661_0001")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391875089"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391875089"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391875089"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392078594"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392078594"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392078594"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391875089 (Open access: False)
+OpenAlex: https://openalex.org/W4392078594 (Open access: False)
     
-[[https://openalex.org/A5010878103][Baowen Zhou]], [[https://openalex.org/A5050902155][Peng Zhou]], [[https://openalex.org/A5061245884][Dong Wu]], [[https://openalex.org/A5070775523][Zetian Mi]], No host. None(None)] 2024. https://doi.org/10.1002/9781119600862.ch11 
+[[https://openalex.org/A5005045784][Hsien H. Khoo]], [[https://openalex.org/A5001323251][Reginald B. H. Tan]], WORLD SCIENTIFIC eBooks. None(None)] 2024. https://doi.org/10.1142/9789811275661_0001 
      
 No abstract    
 
@@ -302,24 +365,24 @@ The cement industry in supporting sustainable development is faced with the chal
 
     
 
-* Electrochemical CO2 Reduction by Urea Hangman Mn Terpyridine species  :CO2RR:
+* Electrochemical Reduction of CO2: A Common Acetyl Path to Ethylene, Ethanol or Acetate  :CO2RR:
 :PROPERTIES:
-:ID: https://openalex.org/W4391881952
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-02-16
+:ID: https://openalex.org/W4392092162
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Accelerating Materials Innovation through Informatics, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-02-23
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/chem.202304218")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1149/1945-7111/ad2cc1")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391881952"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391881952"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391881952"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392092162"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392092162"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392092162"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391881952 (Open access: False)
+OpenAlex: https://openalex.org/W4392092162 (Open access: True)
     
-[[https://openalex.org/A5008108716][Minghong Li]], [[https://openalex.org/A5004948530][Fang Huang]], [[https://openalex.org/A5055151897][Ping Zhang]], [[https://openalex.org/A5041998803][Ying Xiong]], [[https://openalex.org/A5030775427][Yaping Zhang]], [[https://openalex.org/A5005228021][Fĕi Li]], [[https://openalex.org/A5040730537][Cheng Huang Lin]], Chemistry - A European Journal. None(None)] 2024. https://doi.org/10.1002/chem.202304218 
+[[https://openalex.org/A5062559425][Monsuru Olatunji Dauda]], [[https://openalex.org/A5029076223][John Hendershot]], [[https://openalex.org/A5035419516][Mustapha Bello]], [[https://openalex.org/A5060388049][Junghyun Park]], [[https://openalex.org/A5093985198][Alvaro Loaiza Orduz]], [[https://openalex.org/A5021560151][N.J. Lombardo]], [[https://openalex.org/A5083487686][Orhan Kizilkaya]], [[https://openalex.org/A5069209354][Phillip Sprunger]], [[https://openalex.org/A5076885003][Anita Engler]], [[https://openalex.org/A5074865399][Craig Plaisance]], [[https://openalex.org/A5055743066][John Flake]], Journal of The Electrochemical Society. None(None)] 2024. https://doi.org/10.1149/1945-7111/ad2cc1 
      
-Based on our previous study in chemical subtleties of the proton tunneling distance for metal hydride formation (PTD‐MH) to regulate the selectivity of CO2 reduction reaction (CO2RR), we have developed a family of Mn terpyridine derivatives, in which urea groups functioning as multipoint hydrogen‐bonding hangman to accelerate the reaction rate. We found that such changes to the second coordination sphere significantly increased the turnover frequency (TOF) for CO2 reduction to ca. 360 s‐1 with this family of molecular catalysts while maintaining high selectivity (ca. 100% ± 3) for CO even in the presence of a large amount of phenol as proton source. Notably, the compounds studied in this manuscript all exhibit large value for CO as that achieved by Fe porphyrins derivates, while saving up to 0.55 V in overpotential with respect to the latter.    
+Abstract Ethylene is well known as the primary product of CO2 reduction at Cu electrocatalysts using zero-gap membrane electrode assembly cells with gas diffusion cathodes. Other types of Cu electrocatalysts including oxide-derived Cu, CuSn and CuSe yield relatively more C2 oxygenates; however, the mechanisms for C2 product selectivity are not well established. This work considers selectivity trends of Cu-P0.065, Cu-Sn0.03, and Cu2Se electrocatalysts made using a standard one pot synthesis method. Results show that Cu-P0.065 electrocatalysts (Cuδ+ = 0.13) retain ethylene as a primary product with relatively higher Faradaic efficiencies (FE = 43% at 350 mA cm-2) than undoped Cu electrocatalysts (FE = 31% at 350 mA cm-2) at the same current density. The primary CO2 reduction product at Cu-Sn0.03 (Cuδ+ = 0.27) electrocatalysts shifts to ethanol (FE = 48% at 350 mA cm-2) while CO2 reduction at Cu2Se (Cuδ+ = 0.47) electrocatalysts favor acetate production (FE = 40% at 350 mA cm-2). Based on these results, we propose a common acetyl intermediate and a mechanism for selective formation of ethylene, ethanol or acetate based on the degree of partial positive charge (δ+) of Cu reaction sites.    
 
     
 
@@ -386,6 +449,27 @@ Electrochemical CO2 reduction (CO2R) to valuable products provides a promising s
 
     
 
+* Heterophase-Structured Bismuth Nanosheets for Solar Energy–Driven Electrocatalytic CO2 Reduction to Formate  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392113889
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Thermoelectric Materials
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta08011k")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392113889"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392113889"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392113889"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392113889 (Open access: False)
+    
+[[https://openalex.org/A5046413580][Shengtao Zhang]], [[https://openalex.org/A5056461668][Chenchen Qin]], [[https://openalex.org/A5025754715][Daomeng Liu]], [[https://openalex.org/A5041722972][Jie He]], [[https://openalex.org/A5025332292][Qingyi Li]], [[https://openalex.org/A5016516867][Ziyi Feng]], [[https://openalex.org/A5074278148][Zhen Yang]], [[https://openalex.org/A5005804357][Junzhong Wang]], [[https://openalex.org/A5018789987][Zhengkun Yang]], Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://doi.org/10.1039/d3ta08011k 
+     
+Exploring efficient catalysts for electrochemical CO2 reduction reaction (CO2RR) to formate is greatly imperative but challenging remains. Herein, a bismuth-nanosheets network with abundant crystalline-amorphous boundaries (c-a Bi-NSs) was pioneeringly prepared...    
+
+    
+
 * Synergistic Effects of Silica‐Supported Iron‒Cobalt Catalysts for CO2 Reduction to Prebiotic Organics  :CO2RR:
 :PROPERTIES:
 :ID: https://openalex.org/W4391926511
@@ -404,27 +488,6 @@ OpenAlex: https://openalex.org/W4391926511 (Open access: True)
 [[https://openalex.org/A5012991654][Kendra Solveig Belthle]], [[https://openalex.org/A5070827881][William Martin]], [[https://openalex.org/A5060841613][Harun Tüysüz]], ChemCatChem. None(None)] 2024. https://doi.org/10.1002/cctc.202301218  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cctc.202301218][pdf]])
      
 To test the ability of geochemical surfaces in serpentinizing hydrothermal systems to catalyze reactions from which metabolism arose, we investigated H2‐dependent CO2 reduction toward metabolic intermediates over silica‐supported Co‒Fe catalysts. Supported catalysts converted CO2 to various products at 180 °C and 2.0 MPa. The liquid product phase included formate, acetate, and ethanol, while the gaseous product phase consisted of CH4, CO, methanol, and C2‒C7 linear hydrocarbons. The 1/1 ratio CoFe alloy with the same composition as the natural mineral wairauite yielded the highest concentrations of formate (6.0 mM) and acetate (0.8 mM), which are key intermediates in the acetyl‐coenzyme A (acetyl‐CoA) pathway of CO2 fixation. While Co‐rich catalysts were proficient at hydrogenation, yielding mostly CH4, Fe‐rich catalysts favored the formation of CO and methanol. Mechanistic studies indicated intermediate hydrogenation and C‒C coupling activities of alloyed CoFe, in contrast to physical mixtures of both metals. Co in the active site of Co‒Fe catalysts performed a similar reaction as tetrapyrrole‐coordinated Co in the corrinoid iron‐sulfur (CoFeS) methyl transferase in the acetyl‐CoA pathway. In a temperature range characteristic for deeper regions of serpentinizing systems, oxygenate product formation was favored at lower, more biocompatible temperatures.    
-
-    
-
-* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391944406
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202319936")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391944406"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391944406"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391944406"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391944406 (Open access: False)
-    
-[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202319936 
-     
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
 
     
 
@@ -449,6 +512,27 @@ Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) 
 
     
 
+* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4391944406
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-02-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202319936")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391944406"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391944406"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391944406"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391944406 (Open access: False)
+    
+[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202319936 
+     
+Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
+
+    
+
 * A robust and high performance copper silicide catalyst for electrochemical CO2 reduction  :CO2RR:
 :PROPERTIES:
 :ID: https://openalex.org/W4391935036
@@ -467,6 +551,27 @@ OpenAlex: https://openalex.org/W4391935036 (Open access: True)
 [[https://openalex.org/A5082383640][Vladislav Dřı́nek]], [[https://openalex.org/A5033924676][Pavel Dytrych]], [[https://openalex.org/A5018594029][Radek Fajgаr]], [[https://openalex.org/A5073746337][Mariana Klementová]], [[https://openalex.org/A5059685777][Jaroslav Kupčı́k]], [[https://openalex.org/A5058622627][Jaromı́r Kopeček]], [[https://openalex.org/A5042897885][Petr Svora]], [[https://openalex.org/A5032589036][Martin Koštejn]], [[https://openalex.org/A5020669335][Věra Jandová]], [[https://openalex.org/A5000921563][Karel Soukup]], [[https://openalex.org/A5024676203][Radim Beránek]], Materials advances. None(None)] 2024. https://doi.org/10.1039/d3ma00633f  ([[https://pubs.rsc.org/en/content/articlepdf/2024/ma/d3ma00633f][pdf]])
      
 A copper-based catalyst CuxSi (3<x<5) was prepared using chemical vapor deposition (CVD) of butylsilane (BuSiH3) on copper substrates. By varying the precursor flow...    
+
+    
+
+* Electronic Structure Modification of SnO2 to Accelerate CO2 Reduction towards Formate  :CO2RR:
+:PROPERTIES:
+:ID: https://openalex.org/W4392104682
+:TOPICS: Catalytic Nanomaterials, Gas Sensing Technology and Materials, Solid Oxide Fuel Cells
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cc06337b")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392104682"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392104682"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392104682"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392104682 (Open access: False)
+    
+[[https://openalex.org/A5064992427][Lulu Li]], [[https://openalex.org/A5090120316][Shican Wu]], [[https://openalex.org/A5028424510][Dongfang Cheng]], [[https://openalex.org/A5084194253][Zhi‐Jian Zhao]], [[https://openalex.org/A5047030779][Jinlong Gong]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d3cc06337b 
+     
+Metal doping emerges as a pivotal catalyst modification technique, enhancing the catalytic potential of active sites for converting CO2 into valuable chemicals like formate. This paper describes a theoretical study...    
 
     
 
@@ -530,110 +635,5 @@ OpenAlex: https://openalex.org/W4391934877 (Open access: False)
 [[https://openalex.org/A5028858881][Li Liao]], [[https://openalex.org/A5070950860][Chunguang Jia]], [[https://openalex.org/A5087838064][She‐Huang Wu]], [[https://openalex.org/A5020651129][Shansheng Yu]], [[https://openalex.org/A5080926762][Zhenhai Wen]], [[https://openalex.org/A5091534599][Suqin Ci]], Nanoscale. None(None)] 2024. https://doi.org/10.1039/d3nr05771b 
      
 Electrocatalytic CO2 reduction (CO2RR) has emerged as a promising approach for converting CO2 into valuable chemicals and fuels to achieve a sustainable carbon cycle. However, the development of efficient electrocatalysts...    
-
-    
-
-* Investigating the Extent of the Impact of Acetic Acid as Halite Precipitation Reduction Agent for Enhancing CO2 Injectivity in Deep Saline Aquifers  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391874794
-:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Pore-scale Imaging and Enhanced Oil Recovery, Hydraulic Fracturing in Shale Gas Reservoirs
-:PUBLICATION_DATE: 2024-02-14
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2118/217884-ms")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391874794"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391874794"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391874794"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391874794 (Open access: False)
-    
-[[https://openalex.org/A5026652412][Victor Darkwah-Owusu]], [[https://openalex.org/A5018796056][Muhammad Aslam Md Yusof]], [[https://openalex.org/A5055670031][Yen Adams Sokama‐Neuyam]], [[https://openalex.org/A5071694163][Bennet Nii Tackie-Otoo]], [[https://openalex.org/A5077248083][Joshua Nsiah Turkson]], [[https://openalex.org/A5066470492][Sunil Kwon]], [[https://openalex.org/A5032923731][Jang Hyun Lee]], [[https://openalex.org/A5006465755][Ingebret Fjelde]], No host. None(None)] 2024. https://doi.org/10.2118/217884-ms 
-     
-Abstract CO2 sequestration in deep saline aquifers is vital to reduce the global carbon footprint. However, this effort can be hampered due to salt precipitation during CO2 injection, which clogs flow pathways leading to a significant reduction in CO2 injectivity. While freshwater has traditionally been employed as the primary solution to dissolve the precipitated salt, the salt tends to re-precipitate upon CO2 reinjection post-treatment, exacerbating the injectivity damage. The project was divided into two stages: (1) simulating salt precipitation scenarios with varying brine salinities to mimic formation damage during CO2 injection in saline aquifers, and (2) critically assessing the impact and effectiveness of acetic acid as a mitigation fluid under different injection scenarios through core-flooding experiments. The results were compared with freshwater and low salinity water (LSW). Mineralogical and petrographical assessments were carried out on the core samples to characterize the Berea sandstone cores. The core flooding experiments were conducted at 60 °C and 1600 psi for CO2 injection, freshwater, LSW and acetic acid flooding. The experimental results revealed significant reductions in permeability (37% -75% impairment) and porosity (18% to 33%) due to salt precipitation. Among the treatments, LSW exhibited the lowest efficacy, followed by freshwater, possibly due to clay swelling, fines migration, and capillary trapping effects causing pore throat blockages. In contrast to freshwater and LSW, acetic acid treatment demonstrated improved injectivity, showing a high dissolution potential with up to a 137% increase compared to initial permeability. This study provides a preliminary assessment of the potential of acetic acid for CO2 injectivity enhancement and recommends further investigations on the effects of acetic acid and brine concentrations on the process.    
-
-    
-
-* Ligand-controlled exposure of active sites on Pd1Ag14 nanoclusters surface to boost electrocatalytic CO2 reduction  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391932115
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cc00152d")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391932115"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391932115"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391932115"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391932115 (Open access: False)
-    
-[[https://openalex.org/A5030576294][Along Ma]], [[https://openalex.org/A5041198839][Yong Ren]], [[https://openalex.org/A5087403816][Yu Zuo]], [[https://openalex.org/A5044785404][Jiawei Wang]], [[https://openalex.org/A5002692827][Shan Huang]], [[https://openalex.org/A5045572868][Xiaoshuang Ma]], [[https://openalex.org/A5022234641][Shuxin Wang]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d4cc00152d 
-     
-Advancing catalyst design requires meticulous control of nanocatalyst selectivity at the atomic level. Here, we synthesized two Pd1Ag14 nanoclusters: Pd1Ag14(PPh3)8(SPh(CF3)2)6 and Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, each with well-defined structures. Notably, in Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, the...    
-
-    
-
-* The Role of Phase Mixing Degree in Promoting C‐C Coupling in Electrochemical CO2 Reduction Reaction on Cu‐based Catalysts  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391926316
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202400952")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391926316"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391926316"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391926316"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391926316 (Open access: False)
-    
-[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5029815331][Fei Yang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5090796145][Zhehan Ying]], [[https://openalex.org/A5056167840][Ping Gao]], [[https://openalex.org/A5080932440][Shangqian Zhu]], [[https://openalex.org/A5081504089][Meng Gu]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202400952 
-     
-Cu‐based catalysts have been identified as the most promising candidates for generation of C2+ products in electrochemical CO2 reduction reaction. Defect engineering in catalysts is a widely employed strategy for promoting C‐C coupling on Cu. However, comprehensive understanding of defect structure‐to‐activity relationship has not been obtained. In this study, controllable defects generation is achieved, which leads to a series of Cu‐based catalysts with various phase mixing degrees. It is observed that the Faradaic efficiency toward C2+ products increases with the phase mixing degree, reaching 81% at maximum. In‐situ infrared absorption spectroscopy reveals that the catalysts with higher phase mixing degree tend to form *CO more easily and possess higher retention of *CO under high overpotential window, thereby promoting C‐C coupling. This work sheds new light on the relationship between defects and C‐C coupling, and the rational developed of more advanced Cu‐base catalysts.    
-
-    
-
-* The Role of Phase Mixing Degree in Promoting C‐C Coupling in Electrochemical CO2 Reduction Reaction on Cu‐based Catalysts  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4391942916
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/ange.202400952")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391942916"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391942916"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391942916"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391942916 (Open access: False)
-    
-[[https://openalex.org/A5087349574][Yinuo Wang]], [[https://openalex.org/A5029815331][Fei Yang]], [[https://openalex.org/A5022951375][Hongming Xu]], [[https://openalex.org/A5043436936][Juhee Jang]], [[https://openalex.org/A5078369945][Ernest Pahuyo Delmo]], [[https://openalex.org/A5089516306][Xiaoyi Qiu]], [[https://openalex.org/A5090796145][Zhehan Ying]], [[https://openalex.org/A5056167840][Ping Gao]], [[https://openalex.org/A5080932440][Shangqian Zhu]], [[https://openalex.org/A5081504089][Meng Gu]], [[https://openalex.org/A5069700804][Minhua Shao]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202400952 
-     
-Cu‐based catalysts have been identified as the most promising candidates for generation of C2+ products in electrochemical CO2 reduction reaction. Defect engineering in catalysts is a widely employed strategy for promoting C‐C coupling on Cu. However, comprehensive understanding of defect structure‐to‐activity relationship has not been obtained. In this study, controllable defects generation is achieved, which leads to a series of Cu‐based catalysts with various phase mixing degrees. It is observed that the Faradaic efficiency toward C2+ products increases with the phase mixing degree, reaching 81% at maximum. In‐situ infrared absorption spectroscopy reveals that the catalysts with higher phase mixing degree tend to form *CO more easily and possess higher retention of *CO under high overpotential window, thereby promoting C‐C coupling. This work sheds new light on the relationship between defects and C‐C coupling, and the rational developed of more advanced Cu‐base catalysts.    
-
-    
-
-* A robust Ni single-atom catalyst for industrial current and exceptional selectivity in electrochemical CO2 reduction to CO  :CO2RR:
-:PROPERTIES:
-:ID: https://openalex.org/W4392018860
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Molecular Electronic Devices and Systems
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta07216a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392018860"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392018860"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392018860"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392018860 (Open access: True)
-    
-[[https://openalex.org/A5071625927][Zhicheng Liu]], [[https://openalex.org/A5044805723][Longsheng Cao]], [[https://openalex.org/A5035327180][Manli Wang]], [[https://openalex.org/A5056995430][Yun Zhao]], [[https://openalex.org/A5005475347][Ming Hou]], [[https://openalex.org/A5073039020][Zhigang Shao]], Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://doi.org/10.1039/d3ta07216a 
-     
-While achieving a Faradaic efficiency (FE) over 90% in the electroreduction of CO2 to CO with single transition metal atom anchored on nitrogen-doped carbon (M-N-C) catalyst is indeed notable, the...    
 
     
