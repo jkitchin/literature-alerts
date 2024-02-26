@@ -1,53 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Feb 25 14:57:18 2024
+Created on Mon Feb 26 00:45:02 2024
 
-Found 30 results from 2024-02-18 to 2024-02-25
+Found 30 results from 2024-02-19 to 2024-02-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Benzyl alcohol promoted electrocatalytic reduction of carbon dioxide and C2 production by Cu2O/Cu  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4391896197
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.149800")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391896197"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391896197"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391896197"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391896197 (Open access: False)
-    
-[[https://openalex.org/A5062755510][Qianqian Wang]], [[https://openalex.org/A5002720688][Xinfa Wei]], [[https://openalex.org/A5038076952][Yan Li]], [[https://openalex.org/A5066895322][Juanjuan Luo]], [[https://openalex.org/A5032212993][Lisong Chen]], [[https://openalex.org/A5085739377][Jianlin Shi]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.149800 
-     
-Oxide-derived copper (OD-Cu)-based materials containing Cuδ+ (0 < δ ≤ 1) have been considered as promising electrocatalysts for electrochemical CO2 reduction reaction (ECO2RR) to produce valuable C2 products, which, however, suffer from poor stability, mainly due to the inevitable reduction of Cuδ+. We report here that the benzyl alcohol (BA) introduced in catholyte presents a markedly positive effect on the durability and C2 selectivity enhancement of ECO2RR when OD-Cu-based material is adopted as cathode electrocatalyst. The critical evidence of ECO2RR intermediates has been provided by in situ Raman and FTIR spectroscopy, which reveals the surface mechanisms of BA-assisted ECO2RR over OD-Cu catalysts. On the one hand, the introduction of BA increases the CO2 supply for ECO2RR by slowing down its neutralizing reaction, which results in the increased intermediate species coverage on the catalytic surface therefore the delayed self-reduction of Cuδ+; On the other hand, the interaction between BA and the intermediate species *CO during ECO2RR brings an enhanced selectivity of C2 products (FE C2 = 85.5 % at −1.38 V vs RHE). Besides, an energy-savings and economic electrolyzer can be achieved by coupling anodic BA oxidation reaction to benzoic acid and ECO2RR to C2 products with much lowered cell voltages.    
-
-    
-
-* Solar fuels design: Porous cathodes modeling for electrochemical carbon dioxide reduction in aqueous electrolytes  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4391912845
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.heliyon.2024.e26442")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391912845"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391912845"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391912845"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391912845 (Open access: True)
-    
-[[https://openalex.org/A5078465991][Iva Fernandes]], [[https://openalex.org/A5013274345][Duarte J. Antunes]], [[https://openalex.org/A5088870986][Rodrigo Martins]], [[https://openalex.org/A5090314980][Manuel J. Mendes]], [[https://openalex.org/A5091770973][Ana S. Reis Machado]], Heliyon. None(None)] 2024. https://doi.org/10.1016/j.heliyon.2024.e26442 
-     
-No abstract    
-
-    
 
 * Strategies to Improve the Activity of Silver‐loaded Calcium Titanate Crystal Photocatalyst for Photocatalytic Reduction of Carbon Dioxide with Water  :CO2RR:
 :PROPERTIES:
@@ -85,7 +43,7 @@ The rapid increase of carbon dioxide (CO2) in the atmosphere has sparked a globa
 
 OpenAlex: https://openalex.org/W4391933654 (Open access: False)
     
-[[https://openalex.org/A5014030303][Jingnan Wang]], [[https://openalex.org/A5087019504][Keli Zhao]], [[https://openalex.org/A5005325306][Yi Ding]], [[https://openalex.org/A5015906224][Yongan Yang]], [[https://openalex.org/A5013471192][Xi Wu]], Chemical Engineering Science. None(None)] 2024. https://doi.org/10.1016/j.ces.2024.119910 
+[[https://openalex.org/A5014030303][Jingnan Wang]], [[https://openalex.org/A5087019504][Kunpeng Zhao]], [[https://openalex.org/A5005325306][Yi Ding]], [[https://openalex.org/A5015906224][Yongan Yang]], [[https://openalex.org/A5013471192][Xi Wu]], Chemical Engineering Science. None(None)] 2024. https://doi.org/10.1016/j.ces.2024.119910 
      
 Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of carbon dioxide (CO2) into valuable C2 chemicals remains elusive. Herein, we selected Group VIII and IB transition metals as active sites incorporated into the Cu(1 0 0) surface to construct single-atom alloy catalysts. The stability, selectivity, and activity of a series of catalysts were calculated using density functional theory. Fe, Co, Ni, Ru/Cu(1 0 0) exhibit the potential as candidates to generate C2 products and suppress the hydrogen evolution reaction (HER). The reaction proceeds through the reduction of CO2 to key intermediates *CO and *CHO, which undergoes C-C coupling to generate *CO-CHO, subsequently undergoing different protonation processes to yield diverse C2 products. The rate-determining step for Fe, Co, Ni, and Ru/Cu(1 0 0), is the hydrogenation of *CO, with a comparable energy barrier of 0.8 eV. Moreover, Fe and Co/Cu(1 0 0) favor the formation of C2H4 as the primary product, while Ni and Ru/Cu(1 0 0) predominantly produce CH3COOH.    
 
@@ -280,24 +238,24 @@ Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink
 
     
 
-* Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study  :CO2RR:
+* A Novel Non‐Fullerene D‐A Interface with Two Asymmetrical Electron Acceptors Facilitates Charge and Energy Transfer for Effective Carbon Dioxide Reduction  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4391907254
-:TOPICS: Sleep-Disordered Breathing and Health Outcomes, Neural Mechanisms of Respiratory Control and Homeostasis, Clinical Management of Tracheal and Airway Disorders
-:PUBLICATION_DATE: 2024-12-31
+:UUID: https://openalex.org/W4392132976
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Materials for Electrochemical Supercapacitors
+:PUBLICATION_DATE: 2024-02-23
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.23937/2572-4053.1510043")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202311816")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391907254"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391907254"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391907254"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392132976"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392132976"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392132976"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4391907254 (Open access: True)
+OpenAlex: https://openalex.org/W4392132976 (Open access: False)
     
-[[https://openalex.org/A5093948541][Fontenot Andee]], [[https://openalex.org/A5053122964][Chuan Liu]], [[https://openalex.org/A5093948542][Dewan Karuna]], Journal of sleep disorders and management. 9(1)] 2024. https://doi.org/10.23937/2572-4053.1510043  ([[https://clinmedjournals.org/articles/jsdm/journal-of-sleep-disorders-and-management-jsdm-9-043.pdf?jid=jsdm][pdf]])
+[[https://openalex.org/A5029072614][Shiming Zhang]], [[https://openalex.org/A5087917925][Yanping Hou]], [[https://openalex.org/A5088640614][Libin Zhang]], [[https://openalex.org/A5088037729][Hongxiang Zhu]], [[https://openalex.org/A5042484630][Jianhua Xiong]], [[https://openalex.org/A5085223066][Shuangfei Wang]], [[https://openalex.org/A5006059676][Tao Liu]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202311816 
      
-Obstructive sleep apnea (OSA) is characterized by frequent episodes of upper airway collapse during sleep. The lingual tonsil, when hypertrophic, can contribute to airway obstruction. The purpose of this study was to establish the utility and safety of the carbon dioxide (CO2) laser for tonsillar reduction in the management of OSA.    
+Abstract Converting carbon dioxide (CO 2 ) into high‐value chemicals using solar energy remains a formidable challenge. In this study, the CSC@PM6:IDT6CN‐M:IDT8CN‐M non‐fullerene small‐molecule organic semiconductor is designed with highly efficient electron donor‐acceptor (D‐A) interface for photocatalytic reduction of CO 2 . Atomic Force Microscope and Transmission Electron Microscope images confirmed the formation of an interpenetrating fibrillar network after combination of donor and acceptor. The CO yield from the CSC@PM6:IDT6CN‐M:IDT8CN‐M reached 1346 µmol g −1 h −1 , surpassing those of numerous reported inorganic photocatalysts. The D‐A structure effectively facilitated charge separation to enable electrons transfer from the PM6 to IDT6CN‐M:IDT8CN‐M. Meanwhile, attributing to the dipole moments of the strong intermolecular interactions between IDT6CN‐M and IDT8CN‐M, the intermolecular forces are enhanced, and laminar stacking and π‐π stacking are strengthened, thereby reinforcing energy transfer between acceptor molecules and significantly enhanced charge separation. Moreover, the strong internal electric field in the D‐A interface enhanced the excited state lifetime of PM6:IDT6CN‐M:IDT8CN‐M. In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) analysis demonstrated that carboxylate (COOH*) is the predominant intermediate during CO 2 reduction, and possible pathways of CO 2 reduction to CO are deduced. This study presents a novel approach for designing materials with D‐A interface to achieve high photocatalytic activity.    
 
     
 
@@ -343,27 +301,6 @@ No abstract
 
     
 
-* Sustainability Assessment Of Carbon Dioxide Emission Reduction From Energy Use In Cement Production Via Life Cycle Assessment And Ahp  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4391915352
-:TOPICS: Influence of Recycled Aggregate Concrete on Construction
-:PUBLICATION_DATE: 2024-02-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.46799/ajesh.v3i2.240")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391915352"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391915352"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391915352"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391915352 (Open access: False)
-    
-[[https://openalex.org/A5082055160][Fatimatuz Zahro]], [[https://openalex.org/A5093950340][Irwan Bagyo]], [[https://openalex.org/A5092147931][Feni Eka Juliani]], Asian Journal of Engineering Social and Health. 3(2)] 2024. https://doi.org/10.46799/ajesh.v3i2.240 
-     
-The cement industry in supporting sustainable development is faced with the challenge of reducing energy consumption, natural resources and emissions generated from its production activities. PT X is one of the cement industries in Indonesia that has a production design capacity of 2.6 million tons/year. PT X's cement production activities use several fossil fuel energy sources and alternative fuels that can produce carbon dioxide emissions that are wasted into the environment. This study aims to identify process units that produce significant impacts to determine alternative environmental improvement scenarios. The method used is Life Cycle Assessment (LCA) as a tool for calculating potential environmental impacts, and AHP as an alternative selection of environmental improvement program scenarios. The scope of the LCA study carried out with the scope of "Cradle to Gate" includes the stages of the raw material extraction process, the production process to the distribution of cement. The resulting potential environmental impact is a total Global Warming Potential (GWP) of 0.20543 tons CO2 eq/ton. The largest potential impact comes from the kiln unit of 0.20221 tons CO2 eq/ton or an impact contribution of 98.43%. Based on the environmental impacts generated, there are 4 alternative programs that can be used to reduce the environmental impacts generated. The selection of alternative program scenarios is based on 3 criteria based on 3 types of respondents. Alternatif program yang memiliki nilai prioritas tertinggi yaitu alternatif program 1 dengan sebesar 35,5%, 38,1%, dan 23,4%.    
-
-    
-
 * Electrochemical Reduction of CO2: A Common Acetyl Path to Ethylene, Ethanol or Acetate  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392092162
@@ -401,6 +338,27 @@ Abstract Ethylene is well known as the primary product of CO2 reduction at Cu el
 OpenAlex: https://openalex.org/W4391940930 (Open access: False)
     
 [[https://openalex.org/A5065912071][Shuai Li]], [[https://openalex.org/A5078251665][Yanfeng Zhang]], [[https://openalex.org/A5071798264][Lei Zhang]], Separation and Purification Technology. None(None)] 2024. https://doi.org/10.1016/j.seppur.2024.126842 
+     
+No abstract    
+
+    
+
+* Photoactive metal chalcogenides towards CO2 reduction–a review  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392125003
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Thin-Film Solar Cell Technology, Applications of Quantum Dots in Nanotechnology
+:PUBLICATION_DATE: 2024-02-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s00396-024-05235-0")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392125003"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392125003"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392125003"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392125003 (Open access: False)
+    
+[[https://openalex.org/A5093993840][Shweta Gomey]], [[https://openalex.org/A5074726603][Eksha Guliani]], [[https://openalex.org/A5023146636][Kajal Choudhary]], [[https://openalex.org/A5054565131][Sucheta Sengupta]], [[https://openalex.org/A5079068886][Biswarup Chakraborty]], [[https://openalex.org/A5005113780][Manoj Raula]], Colloid and Polymer Science. None(None)] 2024. https://doi.org/10.1007/s00396-024-05235-0 
      
 No abstract    
 
@@ -492,27 +450,6 @@ To test the ability of geochemical surfaces in serpentinizing hydrothermal syste
 
 * Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4391926647
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-02-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202319936")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391926647"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391926647"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391926647"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391926647 (Open access: False)
-    
-[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202319936 
-     
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
-
-    
-
-* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
-:PROPERTIES:
 :UUID: https://openalex.org/W4391944406
 :TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
 :PUBLICATION_DATE: 2024-02-19
@@ -527,6 +464,27 @@ Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) 
 OpenAlex: https://openalex.org/W4391944406 (Open access: False)
     
 [[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie. None(None)] 2024. https://doi.org/10.1002/ange.202319936 
+     
+Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
+
+    
+
+* Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4391926647
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-02-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/anie.202319936")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391926647"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391926647"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391926647"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391926647 (Open access: False)
+    
+[[https://openalex.org/A5019889972][Wensheng Fang]], [[https://openalex.org/A5065513785][Ruihu Lu]], [[https://openalex.org/A5035315138][Fu-Min Li]], [[https://openalex.org/A5088222762][Dan Wu]], [[https://openalex.org/A5061211337][Kaihang Yue]], [[https://openalex.org/A5001763605][Cong He]], [[https://openalex.org/A5029786087][Yu Mao]], [[https://openalex.org/A5019671436][Wei Guo]], [[https://openalex.org/A5017108318][Bao Yu Xia]], [[https://openalex.org/A5068295637][Fei Song]], [[https://openalex.org/A5073368369][Takeshi Yao]], [[https://openalex.org/A5005239842][Ziyun Wang]], [[https://openalex.org/A5017108318][Bao Yu Xia]], Angewandte Chemie International Edition. None(None)] 2024. https://doi.org/10.1002/anie.202319936 
      
 Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
 
@@ -634,5 +592,47 @@ OpenAlex: https://openalex.org/W4391934877 (Open access: False)
 [[https://openalex.org/A5028858881][Li Liao]], [[https://openalex.org/A5070950860][Chunguang Jia]], [[https://openalex.org/A5087838064][She‐Huang Wu]], [[https://openalex.org/A5020651129][Shansheng Yu]], [[https://openalex.org/A5080926762][Zhenhai Wen]], [[https://openalex.org/A5091534599][Suqin Ci]], Nanoscale. None(None)] 2024. https://doi.org/10.1039/d3nr05771b 
      
 Electrocatalytic CO2 reduction (CO2RR) has emerged as a promising approach for converting CO2 into valuable chemicals and fuels to achieve a sustainable carbon cycle. However, the development of efficient electrocatalysts...    
+
+    
+
+* Ligand-controlled exposure of active sites on Pd1Ag14 nanoclusters surface to boost electrocatalytic CO2 reduction  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4391932115
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cc00152d")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391932115"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391932115"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391932115"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4391932115 (Open access: False)
+    
+[[https://openalex.org/A5030576294][Along Ma]], [[https://openalex.org/A5041198839][Yong Ren]], [[https://openalex.org/A5087403816][Yu Zuo]], [[https://openalex.org/A5044785404][Jiawei Wang]], [[https://openalex.org/A5002692827][Shan Huang]], [[https://openalex.org/A5045572868][Xiaoshuang Ma]], [[https://openalex.org/A5022234641][Shuxin Wang]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d4cc00152d 
+     
+Advancing catalyst design requires meticulous control of nanocatalyst selectivity at the atomic level. Here, we synthesized two Pd1Ag14 nanoclusters: Pd1Ag14(PPh3)8(SPh(CF3)2)6 and Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, each with well-defined structures. Notably, in Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, the...    
+
+    
+
+* Unveiling the adsorption, activation and reduction of CO2 via inorganic, biphenylene akin Pt-doped ZnMgO2  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392121527
+:TOPICS: Thermoelectric Materials, Gas Sensing Technology and Materials, Carbon Dioxide Capture and Storage Technologies
+:PUBLICATION_DATE: 2024-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.inoche.2024.112244")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392121527"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392121527"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392121527"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392121527 (Open access: False)
+    
+[[https://openalex.org/A5072330191][Yee Hui Robin Chang]], [[https://openalex.org/A5055543877][Yusuf Zuntu Abdullahi]], [[https://openalex.org/A5001881215][Moi Hua Tuh]], [[https://openalex.org/A5004457853][Keat Hoe Yeoh]], Inorganic Chemistry Communications. None(None)] 2024. https://doi.org/10.1016/j.inoche.2024.112244 
+     
+No abstract    
 
     

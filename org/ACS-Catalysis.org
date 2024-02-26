@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Feb 25 14:57:19 2024
+Created on Mon Feb 26 00:45:04 2024
 
-Found 25 results from 2024-02-18 to 2024-02-25
+Found 25 results from 2024-02-19 to 2024-02-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Panoramic Mechanistic Insights into Hydrogen Production via Aqueous-Phase Reforming of Methanol Catalyzed by Ruthenium Complexes of Bis-N-Heterocyclic Carbene Pincer Ligands  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4391895887
-:TOPICS: Homogeneous Catalysis with Transition Metals, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Conversion of Biomass to Fuels and Chemicals
-:PUBLICATION_DATE: 2024-02-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06138")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391895887"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391895887"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391895887"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391895887 (Open access: False)
-    
-[[https://openalex.org/A5061877142][Weiwei Qi]], [[https://openalex.org/A5090728786][Na Wang]], [[https://openalex.org/A5032803732][Lei Qin]], [[https://openalex.org/A5025860351][Peiyuan Yu]], [[https://openalex.org/A5018664048][Zhiping Zheng]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06138 
-     
-No abstract    
-
-    
 
 * Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments  :ACS_Catalysis:
 :PROPERTIES:
@@ -528,5 +507,26 @@ OpenAlex: https://openalex.org/W4392004251 (Open access: True)
 [[https://openalex.org/A5014475523][X Han]], [[https://openalex.org/A5011267819][Lan Chen]], [[https://openalex.org/A5073177245][Yong Yan]], [[https://openalex.org/A5012757324][Yanyang Zhao]], [[https://openalex.org/A5011404596][Aijun Lin]], [[https://openalex.org/A5006095272][Shang Gao]], [[https://openalex.org/A5052874928][Hequan Yao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06148  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06148][pdf]])
      
 Diaryl ethers are important structural motifs widely found in bioactive natural products, ligands, and catalysts. While there are a variety of methods available to generate diaryl ethers, progress on the construction of axially chiral diaryl ethers has been slow. We report herein an atroposelective copper-catalyzed cycloaddition between bisalkynes and azides. With an indane-fused BOX ligand used, a diverse array of C–O atropisomers are obtained with up to 97% yield and 99% ee. Control experiments showed that a sequential enantioselective desymmetrization–kinetic resolution process is involved, and the former plays a major role. In addition, an asymmetric depletion is observed for this catalytic synthesis by nonlinear effect studies. By thermal racemization experiments, the rotational barrier of the C–O axis of 3aa is calculated to be 35.9 kcal/mol, which lays the foundation for its isolation, as well as further applications.    
+
+    
+
+* Combined Hydrogen and Alkane Production by Photocatalytic Decarboxylative C–C Homocoupling of Fatty Acid by Constructing a Hydrogen-Deficient Catalytic Interface  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392004426
+:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Polyoxometalate Clusters and Materials, Catalytic Conversion of Biomass to Fuels and Chemicals
+:PUBLICATION_DATE: 2024-02-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06070")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392004426"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392004426"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392004426"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392004426 (Open access: False)
+    
+[[https://openalex.org/A5035388503][Xucheng Li]], [[https://openalex.org/A5088693897][Peng Yang]], [[https://openalex.org/A5017988818][Zhipeng Huang]], [[https://openalex.org/A5065217556][Gang Feng]], [[https://openalex.org/A5082042466][Leo Lingchun Kong]], [[https://openalex.org/A5089946640][Haiwei Jiang]], [[https://openalex.org/A5031655322][Weiran Yang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06070 
+     
+Decarboxylation of biomass-derived fatty acids provides an important method for the production of value-added alkane fuels and chemicals. Here, selective decarboxylative C–C homocoupling of fatty acids to obtain long-chain alkanes was achieved by heterogeneous photocatalysis under mild conditions. Hydrogen was cogenerated as the potential energy source. The high selectivity for the coupling product was realized by constructing a hydrogen-deficient catalytic interface through the combined action of Ru nanoparticles supported on TiO2 and continuous N2 blow, which can inhibit the hydrogenation of alkyl radicals and enhance the C–C coupling of alkyl radicals. C2n–2 saturated alkanes (as high as 93%) and hydrogen (as high as 20.3 μmol·mL–1) are produced from bioderived C4–C12 fatty acids in high yields under mild reaction conditions (25 °C, N2 blow). Furthermore, low-value industrial fatty acid mixtures such as coconut oil and Cinnamomum camphora seed kernel oil can be directly applied in this catalytic system and selectively yield long-chain alkanes (up to 80%) in a solvent-free system. Density functional theory (DFT) calculations and various analytical methods were applied to elucidate the possible catalytic mechanism.    
 
     

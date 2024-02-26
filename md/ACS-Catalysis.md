@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Feb 25 14:57:19 2024
+Created on Mon Feb 26 00:45:04 2024
 
-Found 25 results from 2024-02-18 to 2024-02-25
+Found 25 results from 2024-02-19 to 2024-02-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Panoramic Mechanistic Insights into Hydrogen Production via Aqueous-Phase Reforming of Methanol Catalyzed by Ruthenium Complexes of Bis-N-Heterocyclic Carbene Pincer Ligands   
-
-OpenAlex: https://openalex.org/W4391895887    
-Open access: False
-    
-[Weiwei Qi](https://openalex.org/A5061877142), [Na Wang](https://openalex.org/A5090728786), [Lei Qin](https://openalex.org/A5032803732), [Peiyuan Yu](https://openalex.org/A5025860351), [Zhiping Zheng](https://openalex.org/A5018664048), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06138.
-    
-No abstract    
-
-    
 
 ## Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments   
 
@@ -278,5 +267,16 @@ Open access: True
 [X Han](https://openalex.org/A5014475523), [Lan Chen](https://openalex.org/A5011267819), [Yong Yan](https://openalex.org/A5073177245), [Yanyang Zhao](https://openalex.org/A5012757324), [Aijun Lin](https://openalex.org/A5011404596), [Shang Gao](https://openalex.org/A5006095272), [Hequan Yao](https://openalex.org/A5052874928), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06148 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06148)).
     
 Diaryl ethers are important structural motifs widely found in bioactive natural products, ligands, and catalysts. While there are a variety of methods available to generate diaryl ethers, progress on the construction of axially chiral diaryl ethers has been slow. We report herein an atroposelective copper-catalyzed cycloaddition between bisalkynes and azides. With an indane-fused BOX ligand used, a diverse array of C–O atropisomers are obtained with up to 97% yield and 99% ee. Control experiments showed that a sequential enantioselective desymmetrization–kinetic resolution process is involved, and the former plays a major role. In addition, an asymmetric depletion is observed for this catalytic synthesis by nonlinear effect studies. By thermal racemization experiments, the rotational barrier of the C–O axis of 3aa is calculated to be 35.9 kcal/mol, which lays the foundation for its isolation, as well as further applications.    
+
+    
+
+## Combined Hydrogen and Alkane Production by Photocatalytic Decarboxylative C–C Homocoupling of Fatty Acid by Constructing a Hydrogen-Deficient Catalytic Interface   
+
+OpenAlex: https://openalex.org/W4392004426    
+Open access: False
+    
+[Xucheng Li](https://openalex.org/A5035388503), [Peng Yang](https://openalex.org/A5088693897), [Zhipeng Huang](https://openalex.org/A5017988818), [Gang Feng](https://openalex.org/A5065217556), [Leo Lingchun Kong](https://openalex.org/A5082042466), [Haiwei Jiang](https://openalex.org/A5089946640), [Weiran Yang](https://openalex.org/A5031655322), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06070.
+    
+Decarboxylation of biomass-derived fatty acids provides an important method for the production of value-added alkane fuels and chemicals. Here, selective decarboxylative C–C homocoupling of fatty acids to obtain long-chain alkanes was achieved by heterogeneous photocatalysis under mild conditions. Hydrogen was cogenerated as the potential energy source. The high selectivity for the coupling product was realized by constructing a hydrogen-deficient catalytic interface through the combined action of Ru nanoparticles supported on TiO2 and continuous N2 blow, which can inhibit the hydrogenation of alkyl radicals and enhance the C–C coupling of alkyl radicals. C2n–2 saturated alkanes (as high as 93%) and hydrogen (as high as 20.3 μmol·mL–1) are produced from bioderived C4–C12 fatty acids in high yields under mild reaction conditions (25 °C, N2 blow). Furthermore, low-value industrial fatty acid mixtures such as coconut oil and Cinnamomum camphora seed kernel oil can be directly applied in this catalytic system and selectively yield long-chain alkanes (up to 80%) in a solvent-free system. Density functional theory (DFT) calculations and various analytical methods were applied to elucidate the possible catalytic mechanism.    
 
     

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Feb 2024 14:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:44:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Iridium-Based Perovskites as Efficient Oxygen Evolution Reaction Catalysts in Acid Media</title>
-      <link>https://doi.org/10.1021/acsaenm.3c00713</link>
-      <description>Hossein Fadaei, Carl W. Brown, Georges Houlachi, Houshang Alamdari, ACS Applied Engineering Materials. None(None)] 2024. https://openalex.org/W4391895875
-
-                No abstract</description>
-      <author>Hossein Fadaei, Carl W. Brown, Georges Houlachi, Houshang Alamdari</author>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaenm.3c00713</guid>
-    </item>
-    <item>
-      <title>Optimizing Oxygen-Production Kinetics of Manganese Dioxide Nanoparticles Improves Hypoxia Reversal and Survival in Mice with Bone Metastases</title>
-      <link>https://doi.org/10.1021/acs.molpharmaceut.3c00671</link>
-      <description>Declan Murphy, Daniela Osteicochea, Aidan Atkins, Caitlin Sannes, Zachary McClarnon, Isaac M. Adjei, Molecular Pharmaceutics. None(None)] 2024. https://openalex.org/W4391899438
-
-                Persistent hypoxia in bone metastases induces an immunosuppressive environment, limiting the effectiveness of immunotherapies. To address chronic hypoxia, we have developed manganese dioxide (MnO2) nanoparticles with tunable oxygen production kinetics for sustained oxygenation in bone metastases lesions. Using polyethylene glycol (PEG)-stabilized MnO2 or poly(lactic[50]-co-glycolic[50] acid) (50:50 PLGA), poly(lactic[75]-co-glycolic[25] acid) (75:25 PLGA), and polylactic acid (PLA)-encapsulated MnO2 NPs, we demonstrate that polymer hydrophobicity attenuates burst oxygen production and enables tunable oxygen production kinetics. The PEG-MnO2 NPs resulted in rapid hypoxia reduction in spheroids, which was rapidly attenuated, while the PLA-MnO2 NPs exhibited delayed hypoxia control in cancer spheroids. The 50:50 PLGA-MnO2 NPs exhibited the best short- and long-term control of hypoxia in cancer spheroids, resulting in sustained regulation of the expression of HIF-1&#945; and immunosuppressive genes. The sustained control of hypoxia by the 50:50 PLGA-MnO2 NPs enhanced the cytotoxicity of natural killer cells against cancer spheroids. In vivo, 50:50 PLGA-MnO2 showed greater accumulation in the long bones and pelvis, common sites for bone metastases. The NPs decreased hypoxia in bone metastases and decreased regulatory T cell levels, resulting in enhanced survival of mice with established bone metastases.</description>
-      <author>Declan Murphy, Daniela Osteicochea, Aidan Atkins, Caitlin Sannes, Zachary McClarnon, Isaac M. Adjei</author>
-      <pubDate>Fri, 16 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.molpharmaceut.3c00671</guid>
-    </item>
-    <item>
-      <title>Fabrication and characterisation of CrMnFeCoNi high entropy alloy electrocatalyst for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.apmt.2024.102128</link>
-      <description>Xun Cao, Applied Materials Today. 37(None)] 2024. https://openalex.org/W4391906377
-
-                Water electrolysis is attracting increasing attention in becoming the main method for green energy production, which has long been hindered by the sluggish kinetics of oxygen evolution reaction (OER) and high cost of noble-metal (NM) containing electrodes. Template replication technique has been employed to fabricate porous CrMnFeCoNi high entropy alloy (HEA) bulk foams with &gt; 95 % porosity. High entropy led to the formation of a single-phase solid solution of transition metals in the as-fabricated porous HEA bulk foam, and the lattice distortion brings about the outstanding OER performance that is close to that of the RuO2 reference sample. Effective electrochemically active surface area and amount of exposed active sites are increased by grinding into nanoparticles, which produced superior OER performance with a near-record low overpotential of &#8764; 245 mV to drive a current density of 10 mA/cm2, a low Tafel slope of 73.6 mV/dec, a double layer capacitance of 102.3 mF, and excellent long-term stability over 24 h. This work demonstrates a cost-effective way to fabricate NM-free HEA electrocatalyst with complex structure and excellent stability in OER, which could help in advancing the research for alkaline water electrolysis.</description>
-      <author>Xun Cao</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apmt.2024.102128</guid>
-    </item>
-    <item>
-      <title>The Role of Reducibility vis-&#224;-vis Oxygen Vacancies of doped Co3O4/CeO2 in Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1039/d4dt00315b</link>
-      <description>Saraswati Roy, Preeti Dahiya, Tapas Kumar Mandal, Sounak Roy, Dalton Transactions. None(None)] 2024. https://openalex.org/W4391913283
-
-                Electrochemical water splitting, a highly promising and environmentally friendly technology for H2 fuel production, faces significant hurdles due to the sluggish kinetics of the oxygen evolution reaction. Co based oxide...</description>
-      <author>Saraswati Roy, Preeti Dahiya, Tapas Kumar Mandal, Sounak Roy</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt00315b</guid>
-    </item>
     <item>
       <title>Correction: Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions</title>
       <link>https://doi.org/10.1039/d4gc90017k</link>
@@ -258,6 +218,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109402</guid>
     </item>
     <item>
+      <title>Controlled fabrication of various nanostructures iron-based tellurides as highly performed oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.051</link>
+      <description>Munirah D. Albaqami, Mehar Un Nisa, Sumaira Manzoor, Jafar Hussain Shah, S. Noor Mohammad, &#350;enay Yal&#231;&#305;n, Abdul Ghafoor Abid, Suleyman I. Allakhverdiev, International Journal of Hydrogen Energy. 60(None)] 2024. https://openalex.org/W4392010419
+
+                Electrochemical water splitting is a process that shows promise for the sustainable conversion, storage, and delivery of hydrogen energy. The support development of electrocatalysts that support hydrogen and oxygen evolution processes (HER/OER) without requiring precious metals and with superior activity and durability is crucial for the broad adoption of water electrolysis. Compared to the traditional powder-coated type, a freestanding electrode architecture exhibits superior stability and kinetics. In this study, the layered FeTe-PANI nanocomposite is designed for hydrogen generation. Various nanostructures of FeTe-PANI like nanorods and nanosheets by controllable expansion of surfactants such as hexadecyl trimethyl ammonium bromide (CTAB) can be adjusted to agglomerations. The nanosheets combined with nanorods (FeTe-PANI) show remarkable electrocatalytic activity with 195 mV overpotentials at 10 mAcm&#8722;2 for OER. Additionally, FeTe-PANI employed in a 2-electrode electrolyzer as a cathodic electrode electrocatalyst in 1.0 Molar potassium hydroxide media, yields a cell voltage of 1.52 V at a current density of 10 mAcm&#8722;2 with a noteworthy 80 h sturdiness, making it an ideal electrocatalyst towards empirical deployment of water splitting electrolyzers.</description>
+      <author>Munirah D. Albaqami, Mehar Un Nisa, Sumaira Manzoor, Jafar Hussain Shah, S. Noor Mohammad, &#350;enay Yal&#231;&#305;n, Abdul Ghafoor Abid, Suleyman I. Allakhverdiev</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.051</guid>
+    </item>
+    <item>
+      <title>Metal-organic framework-derived heterostructured CoSe2-ZnSe nanorods coupled with carbon polyhedron supported carbon paper for oxygen evolution electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.190</link>
+      <description>Shuaiqiang Liu, Yu Li, Yinghua Yan, Huazhao Yang, Chuanmin Ding, Junwen Wang, Donghong Duan, Qinbo Yuan, Xiaogang Hao, Shibin Liu, International Journal of Hydrogen Energy. 60(None)] 2024. https://openalex.org/W4392010859
+
+                Development of low-cost, efficient, and stable oxygen evolution electrocatalysts is crucial for the conversion and storage of renewable energy. Therefore, an effective integrated heterostructure catalyst is needed to achieve a lower overpotential during oxygen evolution process. In this paper, cobalt-zinc bimetallic MOF precursors are used as templates to prepare bimetallic cobalt-based selenides with good oxygen evolution catalytic activity and stability on carbon fiber paper. Due to the high specific surface area and porous structure of the coupling structure of nanorods and polyhedra, and the strong electronic coupling between CoSe2 and ZnSe on nanorods. CoSe2-ZnSe/CP exhibits excellent electrocatalytic activity in 1 M KOH solution. It only requires an overpotential of 275 mV to reach the current density of 10 mA cm-2, and the Tafel slope is 68.9 mV dec-1. In addition, after 12 h of continuous operation of CoSe2-ZnSe/CP, the activity decay of the catalyst is negligible. This work provides a method for the design of heterogeneous bimetallic selenide integrated oxygen evolution electrocatalysts.</description>
+      <author>Shuaiqiang Liu, Yu Li, Yinghua Yan, Huazhao Yang, Chuanmin Ding, Junwen Wang, Donghong Duan, Qinbo Yuan, Xiaogang Hao, Shibin Liu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.190</guid>
+    </item>
+    <item>
       <title>Electrodeposited graphene@Co3O4 nanosheets for oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.jpowsour.2024.234219</link>
       <description>Qianyu Wang, Zi-Ye Liu, Ji-Ming Hu, Journal of Power Sources. 599(None)] 2024. https://openalex.org/W4392014924
@@ -266,6 +246,26 @@
       <author>Qianyu Wang, Zi-Ye Liu, Ji-Ming Hu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234219</guid>
+    </item>
+    <item>
+      <title>Regulating the Spin Polarization of NiFe Layered Double Hydroxide for the Enhanced Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c06180</link>
+      <description>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392018831
+
+                No abstract</description>
+      <author>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen</author>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06180</guid>
+    </item>
+    <item>
+      <title>The role of strain in oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.02.007</link>
+      <description>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392122210
+
+                No abstract</description>
+      <author>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.007</guid>
     </item>
     <item>
       <title>Nickel and Commercially Available Nickel&#8208;Containing Alloys as Electrodes for the Electrochemical Oxygen Evolution</title>
@@ -298,6 +298,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202402018</guid>
     </item>
     <item>
+      <title>Nanoflowers of Ternary Cobalt&#8211;Copper&#8211;Manganese Oxide as an Efficient Electrocatalyst for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/ente.202301355</link>
+      <description>Jyoti Raghav, P. Rosaiah, Bandar Ali Al&#8208;Asbahi, Soumyendu Roy, Energy Technology. None(None)] 2024. https://openalex.org/W4392130324
+
+                Oxygen evolution reaction (OER) is an integral step in the water&#8208;splitting process. Hence, to promote OER, efficient catalysts are required to lower the energy barriers at the electrode/electrolyte interface. Low&#8208;cost and highly active catalysts are in great demand. Herein, a ternary metal oxide, CoCuMnO x , synthesized by a facile hydrothermal method is reported, which possesses excellent catalytic ability for OER in alkaline electrolytes. The nanoscale morphology of the catalyst with flower&#8208;like nanostructures is instrumental in increasing the electrochemical surface area of the electrode. The presence of multivalent ions and the incorporation of copper greatly enhance the electrochemical properties of the catalysts. The catalysts typically demonstrate an overpotential value of 220 mV for achieving 10 mA cm &#8722;2 current density and a Tafel slope of 73 mV dec &#8722;1 . The catalysts demonstrate good stability with minimal degradation in OER activity even after 20 h of chronopotentiometry test. For practical applications, this low&#8208;cost material holds great potential.</description>
+      <author>Jyoti Raghav, P. Rosaiah, Bandar Ali Al&#8208;Asbahi, Soumyendu Roy</author>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ente.202301355</guid>
+    </item>
+    <item>
       <title>Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis</title>
       <link>https://doi.org/10.1002/anie.202317058</link>
       <description>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391921021
@@ -306,16 +316,6 @@
       <author>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt</author>
       <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202317058</guid>
-    </item>
-    <item>
-      <title>Controlled fabrication of various nanostructures iron-based tellurides as highly performed oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.02.051</link>
-      <description>Munirah D. Albaqami, Mehar Un Nisa, Sumaira Manzoor, Jafar Hussain Shah, S. Noor Mohammad, &#350;enay Yal&#231;&#305;n, Abdul Ghafoor Abid, Suleyman I. Allakhverdiev, International Journal of Hydrogen Energy. 60(None)] 2024. https://openalex.org/W4392010419
-
-                Electrochemical water splitting is a process that shows promise for the sustainable conversion, storage, and delivery of hydrogen energy. The support development of electrocatalysts that support hydrogen and oxygen evolution processes (HER/OER) without requiring precious metals and with superior activity and durability is crucial for the broad adoption of water electrolysis. Compared to the traditional powder-coated type, a freestanding electrode architecture exhibits superior stability and kinetics. In this study, the layered FeTe-PANI nanocomposite is designed for hydrogen generation. Various nanostructures of FeTe-PANI like nanorods and nanosheets by controllable expansion of surfactants such as hexadecyl trimethyl ammonium bromide (CTAB) can be adjusted to agglomerations. The nanosheets combined with nanorods (FeTe-PANI) show remarkable electrocatalytic activity with 195 mV overpotentials at 10 mAcm&#8722;2 for OER. Additionally, FeTe-PANI employed in a 2-electrode electrolyzer as a cathodic electrode electrocatalyst in 1.0 Molar potassium hydroxide media, yields a cell voltage of 1.52 V at a current density of 10 mAcm&#8722;2 with a noteworthy 80 h sturdiness, making it an ideal electrocatalyst towards empirical deployment of water splitting electrolyzers.</description>
-      <author>Munirah D. Albaqami, Mehar Un Nisa, Sumaira Manzoor, Jafar Hussain Shah, S. Noor Mohammad, &#350;enay Yal&#231;&#305;n, Abdul Ghafoor Abid, Suleyman I. Allakhverdiev</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.051</guid>
     </item>
     <item>
       <title>Constructions of hierarchical nitrogen doped carbon nanotubes anchored on CoFe2O4 nanoflakes for efficient hydrogen evolution, oxygen evolution and oxygen reduction reaction</title>
@@ -338,16 +338,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173963</guid>
     </item>
     <item>
-      <title>Regulating the Spin Polarization of NiFe Layered Double Hydroxide for the Enhanced Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c06180</link>
-      <description>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392018831
-
-                No abstract</description>
-      <author>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06180</guid>
-    </item>
-    <item>
       <title>Boosting activity on molten salt-synthesized Ce doped cobalt hydroxyl nitrate nanorods by oxygen vacancies for efficient oxygen evolution</title>
       <link>https://doi.org/10.1016/j.fuel.2024.131214</link>
       <description>Na Xu, Ning Yu, Zhaoxia Jin, Yanan Zhou, Yusheng Zhang, Jin-Long Tan, Yulu Zhou, Yong&#8208;Ming Chai, Bin Dong, Fuel. 365(None)] 2024. https://openalex.org/W4392074898
@@ -366,6 +356,16 @@
       <author>Tanja Cuk, Xihan Chen, Suryansh Singh, Michael Paolino, James J. P. Stewart, Ilya Vinogradov</author>
       <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-rzgp3</guid>
+    </item>
+    <item>
+      <title>Investigation of the Relationship between Metal Loading and Acidic Oxygen Evolution Reaction Activity in Single-Atom Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c06263</link>
+      <description>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392084683
+
+                No abstract</description>
+      <author>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06263</guid>
     </item>
   </channel>
 </rss>

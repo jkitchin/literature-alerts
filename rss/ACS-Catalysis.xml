@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Feb 2024 14:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:45:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Panoramic Mechanistic Insights into Hydrogen Production via Aqueous-Phase Reforming of Methanol Catalyzed by Ruthenium Complexes of Bis-&lt;i&gt;N&lt;/i&gt;-Heterocyclic Carbene Pincer Ligands</title>
-      <link>https://doi.org/10.1021/acscatal.3c06138</link>
-      <description>Weiwei Qi, Na Wang, Lei Qin, Peiyuan Yu, Zhiping Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391895887
-
-                No abstract</description>
-      <author>Weiwei Qi, Na Wang, Lei Qin, Peiyuan Yu, Zhiping Zheng</author>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06138</guid>
-    </item>
     <item>
       <title>Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments</title>
       <link>https://doi.org/10.1021/acscatal.4c00447</link>
@@ -256,6 +246,16 @@
       <author>X Han, Lan Chen, Yong Yan, Yanyang Zhao, Aijun Lin, Shang Gao, Hequan Yao</author>
       <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06148</guid>
+    </item>
+    <item>
+      <title>Combined Hydrogen and Alkane Production by Photocatalytic Decarboxylative C&#8211;C Homocoupling of Fatty Acid by Constructing a Hydrogen-Deficient Catalytic Interface</title>
+      <link>https://doi.org/10.1021/acscatal.3c06070</link>
+      <description>Xucheng Li, Peng Yang, Zhipeng Huang, Gang Feng, Leo Lingchun Kong, Haiwei Jiang, Weiran Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392004426
+
+                Decarboxylation of biomass-derived fatty acids provides an important method for the production of value-added alkane fuels and chemicals. Here, selective decarboxylative C&#8211;C homocoupling of fatty acids to obtain long-chain alkanes was achieved by heterogeneous photocatalysis under mild conditions. Hydrogen was cogenerated as the potential energy source. The high selectivity for the coupling product was realized by constructing a hydrogen-deficient catalytic interface through the combined action of Ru nanoparticles supported on TiO2 and continuous N2 blow, which can inhibit the hydrogenation of alkyl radicals and enhance the C&#8211;C coupling of alkyl radicals. C2n&#8211;2 saturated alkanes (as high as 93%) and hydrogen (as high as 20.3 &#956;mol&#183;mL&#8211;1) are produced from bioderived C4&#8211;C12 fatty acids in high yields under mild reaction conditions (25 &#176;C, N2 blow). Furthermore, low-value industrial fatty acid mixtures such as coconut oil and Cinnamomum camphora seed kernel oil can be directly applied in this catalytic system and selectively yield long-chain alkanes (up to 80%) in a solvent-free system. Density functional theory (DFT) calculations and various analytical methods were applied to elucidate the possible catalytic mechanism.</description>
+      <author>Xucheng Li, Peng Yang, Zhipeng Huang, Gang Feng, Leo Lingchun Kong, Haiwei Jiang, Weiran Yang</author>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06070</guid>
     </item>
   </channel>
 </rss>

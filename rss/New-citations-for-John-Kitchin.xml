@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Feb 2024 14:57:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:45:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Atomic-level insights into bioinspired Fe/Ni bimetallic active sites on carbon nitrides for electrocatalytic O2 evolution</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149799</link>
-      <description>Yunseok Shin, Seong Chan Cho, Kilsu Park, Jae Hun Seol, Dongwook Lim, Subin Choi, Changbum Jo, Sung Hyeon Baeck, Jongwoo Lim, Sang Uck Lee, Sunghee Park, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391896201
-
-                Atomically dispersed active speices on nanomaterials have shown greate promise for various catalytic reactions. In this work, bioinspired bimetallic materials (FeNi-CN) are produced through the mixing of melamine with FeCl2&#183;4H2O and NiCl2&#183;6H2O followed by heat treatment. FeNi-CN exhibits exceptional electrocatalytic activity with an overpotential of 250 mV for oxygen evolution reactions (OERs), which surpasses the well-known IrO2. Additionally, it shows excellent cyclic durability up to 10,000th cycle. The various characterizations reveal the atomically dispersed Fe and Ni atoms across C3N4 networks through coordination to N atoms. Comparative experiments with monometallic samples show that bimetallic FeNi-CN outperforms them. Density functional theory calculations support these findings, indicating that Ni has a higher OER activity than Fe, and the combination of bimetallic Ni and Fe and structural corrugation in FeNi-CN enhances catalytic performance. Ex-situ study supports the electrochemical stability. This work suggests the potential of bimetallic catalysts for electrocatalytic application.</description>
-      <author>Yunseok Shin, Seong Chan Cho, Kilsu Park, Jae Hun Seol, Dongwook Lim, Subin Choi, Changbum Jo, Sung Hyeon Baeck, Jongwoo Lim, Sang Uck Lee, Sunghee Park</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149799</guid>
-    </item>
-    <item>
-      <title>Cutting-edge advancements in MXene-derived materials: Revolutionary electrocatalysts for hydrogen evolution and high-performance energy storage</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.215722</link>
-      <description>Muhammad Saleem Khan, Amjad Hussain, Muhammad Tahir Saleh, Mohammad Ibrahim, Faisal Attique, Xiaohui Sun, H&#252;sn&#252; Emrah &#220;nalan, Muhammad Shafi, Yaqoob Khan, Idrees Khan, Ahmed H. Ragab, Abeer A. Hassan, Rawaid Ali, Zafar Ali, Abdul Jabbar Khan, Amir Zada, Coordination Chemistry Reviews. 506(None)] 2024. https://openalex.org/W4391907192
-
-                MXenes belong to a set of 2-dimensional (2D) materials composed of transition metals, carbides, nitrides, and carbonitrides demonstrated unique properties in several fields including catalysis and energy storage. This review provides a comprehensive overview of the recent trends in MXene-based catalysts for hydrogen evolution reactions (HER) and their potential applications in energy storage devices. MXenes are widely sought-after as HER catalysts because of their distinctive properties including large surface area, variable surface chemistry, and high electrical conductivity. Extensive research in their synthesis, characterization, and performance reveals their superior catalytic activity, stability, and affordability compared to conventional catalysts. They have also shown great promise for use in energy storage devices notably supercapacitors and batteries. This review paper examines various synthesis techniques and emphasizes how various factors affect catalysis with MXenes for HER. The 2D structure of MXenes enables effective charge storage and transfer, with excellent conductivity and numerous active sites for species adsorption. In the MXenes domain, a crucial gap exists lack of a thorough review on recent advancements, specifically focusing on electrocatalysts for HER and energy storage in batteries. This concise narrative systematically addresses current progress, challenges, proposing solutions, briefly exploring synthesis methods, and delving into applications including prospective HER catalysts and strategies for enhanced activity and energy storage, especially in sodium, lithium, and zinc ion batteries.)</description>
-      <author>Muhammad Saleem Khan, Amjad Hussain, Muhammad Tahir Saleh, Mohammad Ibrahim, Faisal Attique, Xiaohui Sun, H&#252;sn&#252; Emrah &#220;nalan, Muhammad Shafi, Yaqoob Khan, Idrees Khan, Ahmed H. Ragab, Abeer A. Hassan, Rawaid Ali, Zafar Ali, Abdul Jabbar Khan, Amir Zada</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.215722</guid>
-    </item>
-    <item>
-      <title>General Pyrolysis for High-Loading Transition Metal Single Atoms on 2D-Nitro-Oxygeneous Carbon as Efficient ORR Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acsami.3c18548</link>
-      <description>Teera Butburee, Jitprabhat Ponchai, Pongtanawat Khemthong, Poobodin Mano, Pongkarn Chakthranont, Saran Youngjan, Jakkapop Phanthasri, Supawadee Namuangruk, Kajornsak Faungnawakij, Xingya Wang, Yu Chen, Lijuan Zhang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4391909267
-
-                No abstract</description>
-      <author>Teera Butburee, Jitprabhat Ponchai, Pongtanawat Khemthong, Poobodin Mano, Pongkarn Chakthranont, Saran Youngjan, Jakkapop Phanthasri, Supawadee Namuangruk, Kajornsak Faungnawakij, Xingya Wang, Yu Chen, Lijuan Zhang</author>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c18548</guid>
-    </item>
     <item>
       <title>Catalyzing Sustainable Water Splitting with Single Atom Catalysts: Recent Advances</title>
       <link>https://doi.org/10.1002/tcr.202300330</link>
@@ -90,10 +60,10 @@
     <item>
       <title>Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study</title>
       <link>https://doi.org/10.1016/j.ces.2024.119910</link>
-      <description>Jingnan Wang, Keli Zhao, Yi Ding, Yongan Yang, Xi Wu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391933654
+      <description>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391933654
 
                 Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of carbon dioxide (CO2) into valuable C2 chemicals remains elusive. Herein, we selected Group VIII and IB transition metals as active sites incorporated into the Cu(1 0 0) surface to construct single-atom alloy catalysts. The stability, selectivity, and activity of a series of catalysts were calculated using density functional theory. Fe, Co, Ni, Ru/Cu(1 0 0) exhibit the potential as candidates to generate C2 products and suppress the hydrogen evolution reaction (HER). The reaction proceeds through the reduction of CO2 to key intermediates *CO and *CHO, which undergoes C-C coupling to generate *CO-CHO, subsequently undergoing different protonation processes to yield diverse C2 products. The rate-determining step for Fe, Co, Ni, and Ru/Cu(1 0 0), is the hydrogenation of *CO, with a comparable energy barrier of 0.8 eV. Moreover, Fe and Co/Cu(1 0 0) favor the formation of C2H4 as the primary product, while Ni and Ru/Cu(1 0 0) predominantly produce CH3COOH.</description>
-      <author>Jingnan Wang, Keli Zhao, Yi Ding, Yongan Yang, Xi Wu</author>
+      <author>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119910</guid>
     </item>
@@ -256,6 +226,36 @@
       <author>J. Wang, Min Wei, Junyu Zhang</author>
       <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1004118</guid>
+    </item>
+    <item>
+      <title>Probe the Dynamic Adsorption and Phase Transition of Underpotential Deposition Processes at Electrode&#8211;Electrolyte Interfaces</title>
+      <link>https://doi.org/10.1021/acs.langmuir.3c03899</link>
+      <description>Kuo-Hao Chen, Fatemeh Fathi, Tristan Maxson, Mezbah Hossain, Emil F. Khisamutdinov, Tibor Szilv&#225;si, Xiangqun Zeng, Zhihai Li, Langmuir. None(None)] 2024. https://openalex.org/W4392044078
+
+                No abstract</description>
+      <author>Kuo-Hao Chen, Fatemeh Fathi, Tristan Maxson, Mezbah Hossain, Emil F. Khisamutdinov, Tibor Szilv&#225;si, Xiangqun Zeng, Zhihai Li</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.3c03899</guid>
+    </item>
+    <item>
+      <title>Supervised AI and Deep Neural Networks to Evaluate High-Entropy Alloys as Reduction Catalysts in Aqueous Environments</title>
+      <link>https://doi.org/10.1021/acscatal.3c05017</link>
+      <description>Rafael B. Araujo, Tomas Edvinsson, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392044082
+
+                No abstract</description>
+      <author>Rafael B. Araujo, Tomas Edvinsson</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05017</guid>
+    </item>
+    <item>
+      <title>Complementary probes for the electrochemical interface</title>
+      <link>https://doi.org/10.1038/s41570-024-00575-5</link>
+      <description>Ernest Pastor, Zan Lian, Lu Xia, David &#201;cija, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s, Sara Barja, Sixto Gim&#233;nez, Jordi Arbiol, N&#250;ria L&#243;pez, F. Pelayo Garc&#305;&#769;a de Arquer, Nature Reviews Chemistry. None(None)] 2024. https://openalex.org/W4392044291
+
+                No abstract</description>
+      <author>Ernest Pastor, Zan Lian, Lu Xia, David &#201;cija, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s, Sara Barja, Sixto Gim&#233;nez, Jordi Arbiol, N&#250;ria L&#243;pez, F. Pelayo Garc&#305;&#769;a de Arquer</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41570-024-00575-5</guid>
     </item>
     <item>
       <title>Local-environment-guided selection of atomic structures for the development of machine-learning potentials</title>

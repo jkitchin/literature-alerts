@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 25 Feb 2024 14:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 00:45:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Benzyl alcohol promoted electrocatalytic reduction of carbon dioxide and C2 production by Cu2O/Cu</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149800</link>
-      <description>Qianqian Wang, Xinfa Wei, Yan Li, Juanjuan Luo, Lisong Chen, Jianlin Shi, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391896197
-
-                Oxide-derived copper (OD-Cu)-based materials containing Cu&#948;+ (0 &lt; &#948; &#8804; 1) have been considered as promising electrocatalysts for electrochemical CO2 reduction reaction (ECO2RR) to produce valuable C2 products, which, however, suffer from poor stability, mainly due to the inevitable reduction of Cu&#948;+. We report here that the benzyl alcohol (BA) introduced in catholyte presents a markedly positive effect on the durability and C2 selectivity enhancement of ECO2RR when OD-Cu-based material is adopted as cathode electrocatalyst. The critical evidence of ECO2RR intermediates has been provided by in situ Raman and FTIR spectroscopy, which reveals the surface mechanisms of BA-assisted ECO2RR over OD-Cu catalysts. On the one hand, the introduction of BA increases the CO2 supply for ECO2RR by slowing down its neutralizing reaction, which results in the increased intermediate species coverage on the catalytic surface therefore the delayed self-reduction of Cu&#948;+; On the other hand, the interaction between BA and the intermediate species *CO during ECO2RR brings an enhanced selectivity of C2 products (FE C2 = 85.5 % at &#8722;1.38 V vs RHE). Besides, an energy-savings and economic electrolyzer can be achieved by coupling anodic BA oxidation reaction to benzoic acid and ECO2RR to C2 products with much lowered cell voltages.</description>
-      <author>Qianqian Wang, Xinfa Wei, Yan Li, Juanjuan Luo, Lisong Chen, Jianlin Shi</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149800</guid>
-    </item>
-    <item>
-      <title>Solar fuels design: Porous cathodes modeling for electrochemical carbon dioxide reduction in aqueous electrolytes</title>
-      <link>https://doi.org/10.1016/j.heliyon.2024.e26442</link>
-      <description>Iva Fernandes, Duarte J. Antunes, Rodrigo Martins, Manuel J. Mendes, Ana S. Reis Machado, Heliyon. None(None)] 2024. https://openalex.org/W4391912845
-
-                No abstract</description>
-      <author>Iva Fernandes, Duarte J. Antunes, Rodrigo Martins, Manuel J. Mendes, Ana S. Reis Machado</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e26442</guid>
-    </item>
     <item>
       <title>Strategies to Improve the Activity of Silver&#8208;loaded Calcium Titanate Crystal Photocatalyst for Photocatalytic Reduction of Carbon Dioxide with Water</title>
       <link>https://doi.org/10.1002/cctc.202301736</link>
@@ -40,10 +20,10 @@
     <item>
       <title>Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study</title>
       <link>https://doi.org/10.1016/j.ces.2024.119910</link>
-      <description>Jingnan Wang, Keli Zhao, Yi Ding, Yongan Yang, Xi Wu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391933654
+      <description>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391933654
 
                 Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of carbon dioxide (CO2) into valuable C2 chemicals remains elusive. Herein, we selected Group VIII and IB transition metals as active sites incorporated into the Cu(1 0 0) surface to construct single-atom alloy catalysts. The stability, selectivity, and activity of a series of catalysts were calculated using density functional theory. Fe, Co, Ni, Ru/Cu(1 0 0) exhibit the potential as candidates to generate C2 products and suppress the hydrogen evolution reaction (HER). The reaction proceeds through the reduction of CO2 to key intermediates *CO and *CHO, which undergoes C-C coupling to generate *CO-CHO, subsequently undergoing different protonation processes to yield diverse C2 products. The rate-determining step for Fe, Co, Ni, and Ru/Cu(1 0 0), is the hydrogenation of *CO, with a comparable energy barrier of 0.8 eV. Moreover, Fe and Co/Cu(1 0 0) favor the formation of C2H4 as the primary product, while Ni and Ru/Cu(1 0 0) predominantly produce CH3COOH.</description>
-      <author>Jingnan Wang, Keli Zhao, Yi Ding, Yongan Yang, Xi Wu</author>
+      <author>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119910</guid>
     </item>
@@ -138,14 +118,14 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4737069</guid>
     </item>
     <item>
-      <title>Carbon Dioxide Lingual Tonsil Reduction for Obstructive Sleep Apnea: A Feasibility Study</title>
-      <link>https://doi.org/10.23937/2572-4053.1510043</link>
-      <description>Fontenot Andee, Chuan Liu, Dewan Karuna, Journal of sleep disorders and management. 9(1)] 2024. https://openalex.org/W4391907254
+      <title>A Novel Non&#8208;Fullerene D&#8208;A Interface with Two Asymmetrical Electron Acceptors Facilitates Charge and Energy Transfer for Effective Carbon Dioxide Reduction</title>
+      <link>https://doi.org/10.1002/smll.202311816</link>
+      <description>Shiming Zhang, Yanping Hou, Libin Zhang, Hongxiang Zhu, Jianhua Xiong, Shuangfei Wang, Tao Liu, Small. None(None)] 2024. https://openalex.org/W4392132976
 
-                Obstructive sleep apnea (OSA) is characterized by frequent episodes of upper airway collapse during sleep. The lingual tonsil, when hypertrophic, can contribute to airway obstruction. The purpose of this study was to establish the utility and safety of the carbon dioxide (CO2) laser for tonsillar reduction in the management of OSA.</description>
-      <author>Fontenot Andee, Chuan Liu, Dewan Karuna</author>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.23937/2572-4053.1510043</guid>
+                Abstract Converting carbon dioxide (CO 2 ) into high&#8208;value chemicals using solar energy remains a formidable challenge. In this study, the CSC@PM6:IDT6CN&#8208;M:IDT8CN&#8208;M non&#8208;fullerene small&#8208;molecule organic semiconductor is designed with highly efficient electron donor&#8208;acceptor (D&#8208;A) interface for photocatalytic reduction of CO 2 . Atomic Force Microscope and Transmission Electron Microscope images confirmed the formation of an interpenetrating fibrillar network after combination of donor and acceptor. The CO yield from the CSC@PM6:IDT6CN&#8208;M:IDT8CN&#8208;M reached 1346 &#181;mol g &#8722;1 h &#8722;1 , surpassing those of numerous reported inorganic photocatalysts. The D&#8208;A structure effectively facilitated charge separation to enable electrons transfer from the PM6 to IDT6CN&#8208;M:IDT8CN&#8208;M. Meanwhile, attributing to the dipole moments of the strong intermolecular interactions between IDT6CN&#8208;M and IDT8CN&#8208;M, the intermolecular forces are enhanced, and laminar stacking and &#960;&#8208;&#960; stacking are strengthened, thereby reinforcing energy transfer between acceptor molecules and significantly enhanced charge separation. Moreover, the strong internal electric field in the D&#8208;A interface enhanced the excited state lifetime of PM6:IDT6CN&#8208;M:IDT8CN&#8208;M. In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) analysis demonstrated that carboxylate (COOH*) is the predominant intermediate during CO 2 reduction, and possible pathways of CO 2 reduction to CO are deduced. This study presents a novel approach for designing materials with D&#8208;A interface to achieve high photocatalytic activity.</description>
+      <author>Shiming Zhang, Yanping Hou, Libin Zhang, Hongxiang Zhu, Jianhua Xiong, Shuangfei Wang, Tao Liu</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202311816</guid>
     </item>
     <item>
       <title>Research of the Impact of Hydrogen Metallurgy Technology on the Reduction of the Chinese Steel Industry&#8217;s Carbon Dioxide Emissions</title>
@@ -168,16 +148,6 @@
       <guid isPermaLink="true">https://doi.org/10.1142/9789811275661_0001</guid>
     </item>
     <item>
-      <title>Sustainability Assessment Of Carbon Dioxide Emission Reduction From Energy Use In Cement Production Via Life Cycle Assessment And Ahp</title>
-      <link>https://doi.org/10.46799/ajesh.v3i2.240</link>
-      <description>Fatimatuz Zahro, Irwan Bagyo, Feni Eka Juliani, Asian Journal of Engineering Social and Health. 3(2)] 2024. https://openalex.org/W4391915352
-
-                The cement industry in supporting sustainable development is faced with the challenge of reducing energy consumption, natural resources and emissions generated from its production activities. PT X is one of the cement industries in Indonesia that has a production design capacity of 2.6 million tons/year. PT X's cement production activities use several fossil fuel energy sources and alternative fuels that can produce carbon dioxide emissions that are wasted into the environment. This study aims to identify process units that produce significant impacts to determine alternative environmental improvement scenarios. The method used is Life Cycle Assessment (LCA) as a tool for calculating potential environmental impacts, and AHP as an alternative selection of environmental improvement program scenarios. The scope of the LCA study carried out with the scope of "Cradle to Gate" includes the stages of the raw material extraction process, the production process to the distribution of cement. The resulting potential environmental impact is a total Global Warming Potential (GWP) of 0.20543 tons CO2 eq/ton. The largest potential impact comes from the kiln unit of 0.20221 tons CO2 eq/ton or an impact contribution of 98.43%. Based on the environmental impacts generated, there are 4 alternative programs that can be used to reduce the environmental impacts generated. The selection of alternative program scenarios is based on 3 criteria based on 3 types of respondents. Alternatif program yang memiliki nilai prioritas tertinggi yaitu alternatif program 1 dengan sebesar 35,5%, 38,1%, dan 23,4%.</description>
-      <author>Fatimatuz Zahro, Irwan Bagyo, Feni Eka Juliani</author>
-      <pubDate>Sat, 10 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.46799/ajesh.v3i2.240</guid>
-    </item>
-    <item>
       <title>Electrochemical Reduction of CO2: A Common Acetyl Path to Ethylene, Ethanol or Acetate</title>
       <link>https://doi.org/10.1149/1945-7111/ad2cc1</link>
       <description>Monsuru Olatunji Dauda, John Hendershot, Mustapha Bello, Junghyun Park, Alvaro Loaiza Orduz, N.J. Lombardo, Orhan Kizilkaya, Phillip Sprunger, Anita Engler, Craig Plaisance, John Flake, Journal of The Electrochemical Society. None(None)] 2024. https://openalex.org/W4392092162
@@ -196,6 +166,16 @@
       <author>Shuai Li, Yanfeng Zhang, Lei Zhang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126842</guid>
+    </item>
+    <item>
+      <title>Photoactive metal chalcogenides towards CO2 reduction&#8211;a review</title>
+      <link>https://doi.org/10.1007/s00396-024-05235-0</link>
+      <description>Shweta Gomey, Eksha Guliani, Kajal Choudhary, Sucheta Sengupta, Biswarup Chakraborty, Manoj Raula, Colloid and Polymer Science. None(None)] 2024. https://openalex.org/W4392125003
+
+                No abstract</description>
+      <author>Shweta Gomey, Eksha Guliani, Kajal Choudhary, Sucheta Sengupta, Biswarup Chakraborty, Manoj Raula</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00396-024-05235-0</guid>
     </item>
     <item>
       <title>The implementation of intelligent edification to improve the energy efficiency and CO2 emission&#8217;s reduction</title>
@@ -239,16 +219,6 @@
     </item>
     <item>
       <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
-      <link>https://doi.org/10.1002/anie.202319936</link>
-      <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391926647
-
-                Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low&#8208;coordination copper&#8208;based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm&#8208;2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full&#8208;cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.</description>
-      <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202319936</guid>
-    </item>
-    <item>
-      <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
       <link>https://doi.org/10.1002/ange.202319936</link>
       <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944406
 
@@ -256,6 +226,16 @@
       <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
       <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202319936</guid>
+    </item>
+    <item>
+      <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
+      <link>https://doi.org/10.1002/anie.202319936</link>
+      <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391926647
+
+                Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low&#8208;coordination copper&#8208;based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm&#8208;2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full&#8208;cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.</description>
+      <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202319936</guid>
     </item>
     <item>
       <title>A robust and high performance copper silicide catalyst for electrochemical CO2 reduction</title>
@@ -306,6 +286,26 @@
       <author>Li Liao, Chunguang Jia, She&#8208;Huang Wu, Shansheng Yu, Zhenhai Wen, Suqin Ci</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3nr05771b</guid>
+    </item>
+    <item>
+      <title>Ligand-controlled exposure of active sites on Pd1Ag14 nanoclusters surface to boost electrocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1039/d4cc00152d</link>
+      <description>Along Ma, Yong Ren, Yu Zuo, Jiawei Wang, Shan Huang, Xiaoshuang Ma, Shuxin Wang, Chemical Communications. None(None)] 2024. https://openalex.org/W4391932115
+
+                Advancing catalyst design requires meticulous control of nanocatalyst selectivity at the atomic level. Here, we synthesized two Pd1Ag14 nanoclusters: Pd1Ag14(PPh3)8(SPh(CF3)2)6 and Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, each with well-defined structures. Notably, in Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, the...</description>
+      <author>Along Ma, Yong Ren, Yu Zuo, Jiawei Wang, Shan Huang, Xiaoshuang Ma, Shuxin Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cc00152d</guid>
+    </item>
+    <item>
+      <title>Unveiling the adsorption, activation and reduction of CO2 via inorganic, biphenylene akin Pt-doped ZnMgO2</title>
+      <link>https://doi.org/10.1016/j.inoche.2024.112244</link>
+      <description>Yee Hui Robin Chang, Yusuf Zuntu Abdullahi, Moi Hua Tuh, Keat Hoe Yeoh, Inorganic Chemistry Communications. None(None)] 2024. https://openalex.org/W4392121527
+
+                No abstract</description>
+      <author>Yee Hui Robin Chang, Yusuf Zuntu Abdullahi, Moi Hua Tuh, Keat Hoe Yeoh</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2024.112244</guid>
     </item>
   </channel>
 </rss>
