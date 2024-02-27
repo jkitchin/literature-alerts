@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Feb 2024 00:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:43:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -158,16 +158,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/1945-7111/ad2cc1</guid>
     </item>
     <item>
-      <title>Photobreeding oxygen vacancy facilitates phtocatalytic reduction of CO2</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.126842</link>
-      <description>Shuai Li, Yanfeng Zhang, Lei Zhang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391940930
-
-                No abstract</description>
-      <author>Shuai Li, Yanfeng Zhang, Lei Zhang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126842</guid>
-    </item>
-    <item>
       <title>Photoactive metal chalcogenides towards CO2 reduction&#8211;a review</title>
       <link>https://doi.org/10.1007/s00396-024-05235-0</link>
       <description>Shweta Gomey, Eksha Guliani, Kajal Choudhary, Sucheta Sengupta, Biswarup Chakraborty, Manoj Raula, Colloid and Polymer Science. None(None)] 2024. https://openalex.org/W4392125003
@@ -176,6 +166,16 @@
       <author>Shweta Gomey, Eksha Guliani, Kajal Choudhary, Sucheta Sengupta, Biswarup Chakraborty, Manoj Raula</author>
       <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s00396-024-05235-0</guid>
+    </item>
+    <item>
+      <title>Photobreeding oxygen vacancy facilitates phtocatalytic reduction of CO2</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.126842</link>
+      <description>Shuai Li, Yanfeng Zhang, Lei Zhang, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4391940930
+
+                No abstract</description>
+      <author>Shuai Li, Yanfeng Zhang, Lei Zhang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.126842</guid>
     </item>
     <item>
       <title>The implementation of intelligent edification to improve the energy efficiency and CO2 emission&#8217;s reduction</title>
@@ -219,16 +219,6 @@
     </item>
     <item>
       <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
-      <link>https://doi.org/10.1002/ange.202319936</link>
-      <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944406
-
-                Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low&#8208;coordination copper&#8208;based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm&#8208;2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full&#8208;cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.</description>
-      <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202319936</guid>
-    </item>
-    <item>
-      <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
       <link>https://doi.org/10.1002/anie.202319936</link>
       <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391926647
 
@@ -236,6 +226,16 @@
       <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
       <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202319936</guid>
+    </item>
+    <item>
+      <title>Low&#8208;coordination Nanocrystalline Copper&#8208;based Catalysts through Theory&#8208;guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene</title>
+      <link>https://doi.org/10.1002/ange.202319936</link>
+      <description>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944406
+
+                Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low&#8208;coordination copper&#8208;based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm&#8208;2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full&#8208;cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.</description>
+      <author>Wensheng Fang, Ruihu Lu, Fu-Min Li, Dan Wu, Kaihang Yue, Cong He, Yu Mao, Wei Guo, Bao Yu Xia, Fei Song, Takeshi Yao, Ziyun Wang, Bao Yu Xia</author>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202319936</guid>
     </item>
     <item>
       <title>A robust and high performance copper silicide catalyst for electrochemical CO2 reduction</title>

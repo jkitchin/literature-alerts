@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Feb 26 00:44:57 2024
+Created on Tue Feb 27 00:43:03 2024
 
-Found 36 results from 2024-02-19 to 2024-02-26
+Found 36 results from 2024-02-20 to 2024-02-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -23,7 +23,7 @@ Correction for ‘Spent tea leaves templated synthesis of highly active and dura
 OpenAlex: https://openalex.org/W4391944172    
 Open access: False
     
-[Annica Wetzel](https://openalex.org/A5076601076), [Daniel Morell](https://openalex.org/A5093888344), [Marcus von der Au](https://openalex.org/A5017993519), [Günther Wittstock](https://openalex.org/A5038064548), [Özlem Özcan](https://openalex.org/A5072476528), [Julia Witt](https://openalex.org/A5044822731), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317058.
+[Annica Wetzel](https://openalex.org/A5076601076), [Daniel Morell](https://openalex.org/A5093888344), [Marcus von der Au](https://openalex.org/A5017993519), [Günther Wittstock](https://openalex.org/A5038064548), [Özlem Ozcan](https://openalex.org/A5072476528), [Julia Witt](https://openalex.org/A5044822731), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317058.
     
 Multi‐principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER‐onset detection, and quantitative chemical analysis with inductively coupled‐mass spectrometry (ICP‐MS) and ultraviolet visible light (UV‐Vis) spectroscopy to elucidate metal dissolution processes. In‐situ electrochemical atomic force microscopy (EC‐AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.    
 
@@ -304,6 +304,17 @@ Abstract Water electrolysis is a crucial technology for independency on fossil f
 
     
 
+## Seven mechanisms of oxygen evolution reaction proposed recently: A mini review   
+
+OpenAlex: https://openalex.org/W4392142198    
+Open access: False
+    
+[Zhixuan Feng](https://openalex.org/A5022885630), [Chia-Tsen Dai](https://openalex.org/A5037480797), [Peng Shi](https://openalex.org/A5032553249), [Xuefei Lei](https://openalex.org/A5060430863), [Rui Guo](https://openalex.org/A5021363847), [Biao Wang](https://openalex.org/A5075523709), [Xuanwen Liu](https://openalex.org/A5081185893), [Jinyuan You](https://openalex.org/A5019520436), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149992.
+    
+No abstract    
+
+    
+
 ## Polarized Ultrathin BN Induced Dynamic Electron Interactions for Enhancing Acidic Oxygen Evolution   
 
 OpenAlex: https://openalex.org/W4392109777    
@@ -334,17 +345,6 @@ Open access: False
 [Jyoti Raghav](https://openalex.org/A5003445703), [P. Rosaiah](https://openalex.org/A5045408244), [Bandar Ali Al‐Asbahi](https://openalex.org/A5051674509), [Soumyendu Roy](https://openalex.org/A5001688048), Energy Technology. None(None)] 2024.https://doi.org/10.1002/ente.202301355.
     
 Oxygen evolution reaction (OER) is an integral step in the water‐splitting process. Hence, to promote OER, efficient catalysts are required to lower the energy barriers at the electrode/electrolyte interface. Low‐cost and highly active catalysts are in great demand. Herein, a ternary metal oxide, CoCuMnO x , synthesized by a facile hydrothermal method is reported, which possesses excellent catalytic ability for OER in alkaline electrolytes. The nanoscale morphology of the catalyst with flower‐like nanostructures is instrumental in increasing the electrochemical surface area of the electrode. The presence of multivalent ions and the incorporation of copper greatly enhance the electrochemical properties of the catalysts. The catalysts typically demonstrate an overpotential value of 220 mV for achieving 10 mA cm −2 current density and a Tafel slope of 73 mV dec −1 . The catalysts demonstrate good stability with minimal degradation in OER activity even after 20 h of chronopotentiometry test. For practical applications, this low‐cost material holds great potential.    
-
-    
-
-## Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4391921021    
-Open access: False
-    
-[Annica Wetzel](https://openalex.org/A5076601076), [Daniel Morell](https://openalex.org/A5093888344), [Marcus von der Au](https://openalex.org/A5017993519), [Günther Wittstock](https://openalex.org/A5038064548), [Özlem Özcan](https://openalex.org/A5072476528), [Julia Witt](https://openalex.org/A5044822731), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202317058.
-    
-Multi‐principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER‐onset detection, and quantitative chemical analysis with inductively coupled‐mass spectrometry (ICP‐MS) and ultraviolet visible light (UV‐Vis) spectroscopy to elucidate metal dissolution processes. In‐situ electrochemical atomic force microscopy (EC‐AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.    
 
     
 

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Feb 2024 00:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:43:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -276,6 +276,16 @@
       <author>Vasileios Fotopoulos, Corey S. O&#8217;Hern, Mark D. Shattuck, Alexander L. Shluger</author>
       <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c07561</guid>
+    </item>
+    <item>
+      <title>Density functional theory study of dissociative adsorption of O2 on Pd-skin Pd3Cu(1 1 1) surface</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.112876</link>
+      <description>Yanlin Yu, Huaizhang Gu, Guangxin Wu, Xuexia Liu, Computational Materials Science. 237(None)] 2024. https://openalex.org/W4392139576
+
+                No abstract</description>
+      <author>Yanlin Yu, Huaizhang Gu, Guangxin Wu, Xuexia Liu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.112876</guid>
     </item>
   </channel>
 </rss>

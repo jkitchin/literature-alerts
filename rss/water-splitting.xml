@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 26 Feb 2024 00:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 00:43:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -20,10 +20,10 @@
     <item>
       <title>Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis</title>
       <link>https://doi.org/10.1002/ange.202317058</link>
-      <description>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944172
+      <description>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem Ozcan, Julia Witt, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944172
 
                 Multi&#8208;principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER&#8208;onset detection, and quantitative chemical analysis with inductively coupled&#8208;mass spectrometry (ICP&#8208;MS) and ultraviolet visible light (UV&#8208;Vis) spectroscopy to elucidate metal dissolution processes. In&#8208;situ electrochemical atomic force microscopy (EC&#8208;AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.</description>
-      <author>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt</author>
+      <author>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem Ozcan, Julia Witt</author>
       <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ange.202317058</guid>
     </item>
@@ -278,6 +278,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/celc.202300460</guid>
     </item>
     <item>
+      <title>Seven mechanisms of oxygen evolution reaction proposed recently: A mini review</title>
+      <link>https://doi.org/10.1016/j.cej.2024.149992</link>
+      <description>Zhixuan Feng, Chia-Tsen Dai, Peng Shi, Xuefei Lei, Rui Guo, Biao Wang, Xuanwen Liu, Jinyuan You, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392142198
+
+                No abstract</description>
+      <author>Zhixuan Feng, Chia-Tsen Dai, Peng Shi, Xuefei Lei, Rui Guo, Biao Wang, Xuanwen Liu, Jinyuan You</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149992</guid>
+    </item>
+    <item>
       <title>Polarized Ultrathin BN Induced Dynamic Electron Interactions for Enhancing Acidic Oxygen Evolution</title>
       <link>https://doi.org/10.1002/ange.202402018</link>
       <description>Yixin Hao, Sung&#8208;Fu Hung, Cheng Tian, Luqi Wang, Yiyu Chen, Sheng Zhao, Kang-Lin Peng, Chenchen Zhang, Ying Zhang, Chun&#8208;Han Kuo, Han&#8208;Yi Chen, Shengjie Peng, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4392109777
@@ -306,16 +316,6 @@
       <author>Jyoti Raghav, P. Rosaiah, Bandar Ali Al&#8208;Asbahi, Soumyendu Roy</author>
       <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ente.202301355</guid>
-    </item>
-    <item>
-      <title>Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis</title>
-      <link>https://doi.org/10.1002/anie.202317058</link>
-      <description>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4391921021
-
-                Multi&#8208;principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER&#8208;onset detection, and quantitative chemical analysis with inductively coupled&#8208;mass spectrometry (ICP&#8208;MS) and ultraviolet visible light (UV&#8208;Vis) spectroscopy to elucidate metal dissolution processes. In&#8208;situ electrochemical atomic force microscopy (EC&#8208;AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.</description>
-      <author>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem &#214;zcan, Julia Witt</author>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202317058</guid>
     </item>
     <item>
       <title>Constructions of hierarchical nitrogen doped carbon nanotubes anchored on CoFe2O4 nanoflakes for efficient hydrogen evolution, oxygen evolution and oxygen reduction reaction</title>
