@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Feb 2024 00:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:42:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Correction: Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions</title>
-      <link>https://doi.org/10.1039/d4gc90017k</link>
-      <description>Ariful Ahsan, Muhammad A. Imam, Alain R. Puente Santiago, Alejandro Rodr&#305;&#769;guez, Bonifacio Alvarado-Tenorio, Ricardo A. Bernal, Rafael Luque, Juan C. Noveron, Green Chemistry. None(None)] 2024. https://openalex.org/W4391926812
-
-                Correction for &#8216;Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions&#8217; by Md Ariful Ahsan et al. , Green Chem. , 2020, 22 , 6967&#8211;6980, https://doi.org/10.1039/D0GC02155E.</description>
-      <author>Ariful Ahsan, Muhammad A. Imam, Alain R. Puente Santiago, Alejandro Rodr&#305;&#769;guez, Bonifacio Alvarado-Tenorio, Ricardo A. Bernal, Rafael Luque, Juan C. Noveron</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4gc90017k</guid>
-    </item>
-    <item>
-      <title>Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis</title>
-      <link>https://doi.org/10.1002/ange.202317058</link>
-      <description>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem Ozcan, Julia Witt, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4391944172
-
-                Multi&#8208;principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER&#8208;onset detection, and quantitative chemical analysis with inductively coupled&#8208;mass spectrometry (ICP&#8208;MS) and ultraviolet visible light (UV&#8208;Vis) spectroscopy to elucidate metal dissolution processes. In&#8208;situ electrochemical atomic force microscopy (EC&#8208;AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.</description>
-      <author>Annica Wetzel, Daniel Morell, Marcus von der Au, G&#252;nther Wittstock, &#214;zlem Ozcan, Julia Witt</author>
-      <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202317058</guid>
-    </item>
-    <item>
-      <title>Alkali Containing Layered Metal Oxides as Catalysts for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/celc.202300761</link>
-      <description>Mario Falsaperna, Rosa Arrigo, Frank Marken, Simon J. Freakley, ChemElectroChem. None(None)] 2024. https://openalex.org/W4391948002
-
-                Abstract Improving the efficiency of the oxygen evolution reaction (OER) is essential to realise energy systems based on water electrolysis. Many catalysts have been developed for the OER to date, with iridium&#8208;based oxides being the most promising due to their relative stability towards corrosion in acidic electrolytes under oxidising potentials. In recent years, examples of catalysts adopting layered structures have been shown to have promising characteristics such as higher conductivity and higher electrochemically active surface area compared to highly crystalline metal oxides. Furthermore, such materials possess additional tuneable properties such as interlayer spacing, identity and concentration of the interlayer species, edge and interlayer active sites, and higher active surface area. Recent attention has focused on mono&#8208; and polymetallic lithium&#8208;containing layered materials, where the presence of interlayer lithium cations, in situ delithiation processes and combinations of transition metal oxides result in enhanced catalytic properties towards OER. This review aims to provide a summary of the recent developments of such layered materials, in which lithium or other alkali metal ions occupy interlayer sites in oxides.</description>
-      <author>Mario Falsaperna, Rosa Arrigo, Frank Marken, Simon J. Freakley</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202300761</guid>
-    </item>
-    <item>
-      <title>Doping Ru on FeNi LDH/Fe&#8545;/&#8546;-MOF heterogeneous core-shell structure for efficient oxygen evolution</title>
-      <link>https://doi.org/10.1039/d4dt00008k</link>
-      <description>Yijia Cao, Yan Wen, Yanrong Liu, Mengya Cao, Bao Li, Qing Shen, Wen Gu, Dalton Transactions. None(None)] 2024. https://openalex.org/W4391948180
-
-                Noble metal based catalysts as RuO2 and IrO2 have been widely used in the catalysis of OER. Because of the high price and poor stability, it is urgent to develop...</description>
-      <author>Yijia Cao, Yan Wen, Yanrong Liu, Mengya Cao, Bao Li, Qing Shen, Wen Gu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt00008k</guid>
-    </item>
     <item>
       <title>Glassy State Hydroxide Materials for Oxygen Evolution Electrocatalysis</title>
       <link>https://doi.org/10.1002/smll.202312168</link>
@@ -258,6 +218,47 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06180</guid>
     </item>
     <item>
+      <title>Black brookite rich in oxygen vacancies as an active photocatalyst for
+  CO2 conversion: experiments and first-principles calculations</title>
+      <link>https://doi.org/10.48550/arxiv.2402.12731</link>
+      <description>Masae Katai, Parisa Edalati, Jacqueline Hidalgo-Jim&#233;nez, Yu Shundo, Taner Akbay, Tatsumi Ishihara, Makoto Arita, Masayoshi Fuji, Kaveh Edalati, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4392019991
+
+                Photocatalytic CO2 conversion is a clean technology to deal with CO2 emissions, and titanium oxide (TiO2) polymorphs are the most investigated photocatalysts for such an application. In this study, black TiO2 brookite is produced by a high-pressure torsion (HPT) method and employed as an active photocatalyst for CO2 conversion. Black brookite with a large concentration of lattice defects (vacancies, dislocations and grain boundaries) showed enhanced light absorbance, narrowed optical bandgap and diminished recombination rate of electrons and holes. The photocatalytic activity of the black oxide for CO2 conversion was higher compared to commercial brookite and benchmark P25 catalyst powders. First-principles calculations suggested that the presence of oxygen vacancies in black brookite is effective not only for reducing optical bandgap but also for providing active sites for the adsorption of CO2 on the surface of TiO2.</description>
+      <author>Masae Katai, Parisa Edalati, Jacqueline Hidalgo-Jim&#233;nez, Yu Shundo, Taner Akbay, Tatsumi Ishihara, Makoto Arita, Masayoshi Fuji, Kaveh Edalati</author>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2402.12731</guid>
+    </item>
+    <item>
+      <title>Increased Readiness for Water Splitting: NiO&#8208;Induced Weakening of Bonds in Water Molecules as Possible Cause of Ultra&#8208;Low Oxygen Evolution Potential</title>
+      <link>https://doi.org/10.1002/smll.202310665</link>
+      <description>Tom Bookholt, Xian Qin, Bettina Lilli, Dirk Enke, Marten Huck, Danni Balkenhohl, Klara R&#252;we, Julia Brune, Johann P. Klare, Karsten K&#252;pper, Anja Schuster, Jenrik Bergjan, Martin Steinhart, Harald Gr&#246;ger, Diemo Daum, Helmut Sch&#228;fer, Small. None(None)] 2024. https://openalex.org/W4392035916
+
+                Abstract The development of non&#8208;precious metal&#8208;based electrodes that actively and stably support the oxygen evolution reaction (OER) in water electrolysis systems remains a challenge, especially at low pH levels. The recently published study has conclusively shown that the addition of haematite to H 2 SO 4 is a highly effective method of significantly reducing oxygen evolution overpotential and extending anode life. The far superior result is achieved by concentrating oxygen evolution centres on the oxide particles rather than on the electrode. However, unsatisfactory Faradaic efficiencies of the OER and hydrogen evolution reaction (HER) parts as well as the required high haematite load impede applicability and upscaling of this process. Here it is shown that the same performance is achieved with three times less metal oxide powder if NiO/H 2 SO 4 suspensions are used along with stainless steel anodes. The reason for the enormous improvement in OER performance by adding NiO to the electrolyte is the weakening of the intramolecular O&#9472;H bond in the water molecules, which is under the direct influence of the nickel oxide suspended in the electrolyte. The manipulation of bonds in water molecules to increase the tendency of the water to split is a ground&#8208;breaking development, as shown in this first example.</description>
+      <author>Tom Bookholt, Xian Qin, Bettina Lilli, Dirk Enke, Marten Huck, Danni Balkenhohl, Klara R&#252;we, Julia Brune, Johann P. Klare, Karsten K&#252;pper, Anja Schuster, Jenrik Bergjan, Martin Steinhart, Harald Gr&#246;ger, Diemo Daum, Helmut Sch&#228;fer</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310665</guid>
+    </item>
+    <item>
+      <title>Rapid Conversion from Alloy Nanoparticles to Oxide Nanowires: Strain Wave&#8208;Driven Ru&#8208;O&#8208;Mn Collaborative Catalysis for Durable Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/smll.202400754</link>
+      <description>Mingyue Xiao, Jingjun Liu, Rongchao Li, Yang Sun, Feng Liu, Jianying Gan, Shixin Gao, Small. None(None)] 2024. https://openalex.org/W4392043167
+
+                Abstract Metal&#8208;doped ruthenium oxides with low prices have gained widespread attention due to their editable compositions, distorted structures, and diverse morphologies for electrocatalysis. However, the mainstream challenge lies in breaking the so&#8208;called seesaw relationship between activity and stability during acidic oxygen evolution reaction (OER). Herein, strain wave&#8208;featured Mn&#8208;RuO 2 nanowires (NWs) with asymmetric Ru&#8208;O&#8208;Mn bonds are first fabricated by thermally driven rapid solid phase conversion from RuMn alloy nanoparticles (NPs) at moderate temperature (450 &#176;C). In 0.5 M H 2 SO 4 , the resultant NWs display a surprisingly ultralow overpotential of 168 mV at 10 mA cm &#8211;2 and run at a stable cell voltage (1.67 V) for 150 h at 50 mA cm &#8211;2 in PEMWE, far exceeding IrO 2 ||Pt/C assemble. The simultaneous enhancement of both activity and stability stems from the presence of dense strain waves composed of alternating compressive and tensile ones in the distorted NWs, which collaboratively activate the Ru&#8208;O&#8208;Mn sites for faster OER. More importantly, the atomic strain waves trigger dynamic Ru&#8208;O&#8208;Mn regeneration via the refilling of oxygen vacancies by oxyanions adsorbed on adjacent Mn and Ru sites, achieving long&#8208;term stability. This work opens a door to designing non&#8208;precious metal&#8208;assisted ruthenium oxides with unique strains for practical application in commercial PEMWE.</description>
+      <author>Mingyue Xiao, Jingjun Liu, Rongchao Li, Yang Sun, Feng Liu, Jianying Gan, Shixin Gao</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400754</guid>
+    </item>
+    <item>
+      <title>Nitrogen-doped Carbon Layer Encapsulating NiFeP Nanosheet Arrays as High-performance Electrocatalyst for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.173933</link>
+      <description>Shuai Wang, Weiye Shi, Qinling Zhou, Ye Zhang, Chunqing Huo, Shengjue Deng, Shen Lin, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4392056073
+
+                No abstract</description>
+      <author>Shuai Wang, Weiye Shi, Qinling Zhou, Ye Zhang, Chunqing Huo, Shengjue Deng, Shen Lin</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173933</guid>
+    </item>
+    <item>
       <title>The role of strain in oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.jechem.2024.02.007</link>
       <description>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392122210
@@ -316,6 +317,26 @@
       <author>Jyoti Raghav, P. Rosaiah, Bandar Ali Al&#8208;Asbahi, Soumyendu Roy</author>
       <pubDate>Sat, 24 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/ente.202301355</guid>
+    </item>
+    <item>
+      <title>Distance effect of single atoms on stability of cobalt oxide catalysts for acidic oxygen evolution</title>
+      <link>https://doi.org/10.1038/s41467-024-46176-0</link>
+      <description>Z. D. Zhang, Chuanyi Jia, Peiyu Ma, Feng Chen, Yang Jin, Jian Huang, Jian&#8208;Guo Zheng, Ming J. Zuo, Mingkai Liu, Shiming Zhou, Jie Zeng, Nature Communications. 15(1)] 2024. https://openalex.org/W4392153698
+
+                Abstract Developing efficient and economical electrocatalysts for acidic oxygen evolution reaction (OER) is essential for proton exchange membrane water electrolyzers (PEMWE). Cobalt oxides are considered promising non-precious OER catalysts due to their high activities. However, the severe dissolution of Co atoms in acid media leads to the collapse of crystal structure, which impedes their application in PEMWE. Here, we report that introducing acid-resistant Ir single atoms into the lattice of spinel cobalt oxides can significantly suppress the Co dissolution and keep them highly stable during the acidic OER process. Combining theoretical and experimental studies, we reveal that the stabilizing effect induced by Ir heteroatoms exhibits a strong dependence on the distance of adjacent Ir single atoms, where the OER stability of cobalt oxides continuously improves with decreasing the distance. When the distance reduces to about 0.6 nm, the spinel cobalt oxides present no obvious degradation over a 60-h stability test for acidic OER, suggesting potential for practical applications.</description>
+      <author>Z. D. Zhang, Chuanyi Jia, Peiyu Ma, Feng Chen, Yang Jin, Jian Huang, Jian&#8208;Guo Zheng, Ming J. Zuo, Mingkai Liu, Shiming Zhou, Jie Zeng</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-46176-0</guid>
+    </item>
+    <item>
+      <title>Exfoliation of Metal&#8211;Organic Frameworks to Give 2D MOF Nanosheets for the Electrocatalytic Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/anie.202402969</link>
+      <description>Peng Wu, Shuang Geng, Xinyu Wang, Xinglong Zhang, Hongfeng Li, Lulu Zhang, Yu Shen, Baoli Zha, Suoying Zhang, Fengwei Huo, Weina Zhang, Angewandte Chemie International Edition. None(None)] 2024. https://openalex.org/W4392156438
+
+                The structure and properties of materials are determined by a diverse range of chemical bond formation and breaking mechanisms, which greatly motivates the development of selectively controlling the chemical bonds in order to achieve materials with specific characteristics. Here, an orientational intervening bond&#8208;breaking strategy is demonstrated for synthesizing ultrathin metal&#8211;organic framework (MOF) nanosheets through balancing the process of thermal decomposition and liquid nitrogen exfoliation. In such approach, proper thermal treatment can weaken the interlayer bond while maintaining the stability of the intralayer bond in the layered MOFs. And the following liquid nitrogen treatment results in significant deformation and stress in the layered MOFs&#8217; structure due to the instant temperature drop and drastic expansion of liquid N2, leading to the curling, detachment, and separation of the MOF layers. The produced MOF nanosheets with five cycles of treatment are primarily composed of nanosheets that are less than 10 nm in thickness. The MOF nanosheets exhibit enhanced catalytic performance in oxygen evolution reactions owing to the ultrathin thickness without capping agents which provide improved charge transfer efficiency and dense exposed active sites. This strategy underscores the significance of orientational intervention in chemical bonds to engineer innovative materials.</description>
+      <author>Peng Wu, Shuang Geng, Xinyu Wang, Xinglong Zhang, Hongfeng Li, Lulu Zhang, Yu Shen, Baoli Zha, Suoying Zhang, Fengwei Huo, Weina Zhang</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202402969</guid>
     </item>
     <item>
       <title>Constructions of hierarchical nitrogen doped carbon nanotubes anchored on CoFe2O4 nanoflakes for efficient hydrogen evolution, oxygen evolution and oxygen reduction reaction</title>

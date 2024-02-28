@@ -1,44 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Feb 27 00:43:08 2024
+Created on Wed Feb 28 00:42:56 2024
 
-Found 30 results from 2024-02-20 to 2024-02-27
+Found 28 results from 2024-02-21 to 2024-02-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Strategies to Improve the Activity of Silver‐loaded Calcium Titanate Crystal Photocatalyst for Photocatalytic Reduction of Carbon Dioxide with Water   
-
-OpenAlex: https://openalex.org/W4391932224    
-Open access: False
-    
-[Hongxuan Qiu](https://openalex.org/A5080636617), [Akira Yamamoto](https://openalex.org/A5021171836), [Hisao Yoshida](https://openalex.org/A5057290198), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301736.
-    
-The rapid increase of carbon dioxide (CO2) in the atmosphere has sparked a global enthusiasm for carbon recycling. Photocatalytic CO2 reduction with water into carbon‐containing products has attracted much attention since it can convert solar energy to the chemical potential of the products and CO2 to valuable compounds at the same time. One of the main products in the photocatalytic reaction system is carbon monoxide (CO), a useful compound for the one‐carbon chemistry and related ones. The current shortage of this system is the low production efficiency, demanding us to improve the activity of the photocatalyst. In this perspective article, by taking a calcium titanate (CaTiO3, CTO) photocatalyst with silver cocatalyst (Ag/CTO) and so on as examples that can promote the selective photocatalytic CO2 reduction with water, we shortly review some strategies to improve the photocatalytic activity such as fabrication of well‐structured crystal photocatalysts, development of the surface property and cocatalyst, improvement of surface CO2 adsorption, and improvement of photoabsorption. These concepts will be widely applied and contribute to further development of photocatalytic systems.    
-
-    
-
-## Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study   
-
-OpenAlex: https://openalex.org/W4391933654    
-Open access: False
-    
-[Jingnan Wang](https://openalex.org/A5014030303), [Kunpeng Zhao](https://openalex.org/A5087019504), [Yi Ding](https://openalex.org/A5005325306), [Yongan Yang](https://openalex.org/A5015906224), [Xi Wu](https://openalex.org/A5013471192), Chemical Engineering Science. None(None)] 2024.https://doi.org/10.1016/j.ces.2024.119910.
-    
-Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of carbon dioxide (CO2) into valuable C2 chemicals remains elusive. Herein, we selected Group VIII and IB transition metals as active sites incorporated into the Cu(1 0 0) surface to construct single-atom alloy catalysts. The stability, selectivity, and activity of a series of catalysts were calculated using density functional theory. Fe, Co, Ni, Ru/Cu(1 0 0) exhibit the potential as candidates to generate C2 products and suppress the hydrogen evolution reaction (HER). The reaction proceeds through the reduction of CO2 to key intermediates *CO and *CHO, which undergoes C-C coupling to generate *CO-CHO, subsequently undergoing different protonation processes to yield diverse C2 products. The rate-determining step for Fe, Co, Ni, and Ru/Cu(1 0 0), is the hydrogenation of *CO, with a comparable energy barrier of 0.8 eV. Moreover, Fe and Co/Cu(1 0 0) favor the formation of C2H4 as the primary product, while Ni and Ru/Cu(1 0 0) predominantly produce CH3COOH.    
-
-    
-
-## Comparative life cycle analysis on ethylene production from electrocatalytic reduction of carbon dioxide   
-
-OpenAlex: https://openalex.org/W4391934036    
-Open access: False
-    
-[Taemin Kim](https://openalex.org/A5029687537), [Pahola Thathiana Benavides](https://openalex.org/A5002326326), Journal of Cleaner Production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.141348.
-    
-Ethylene is one of the largest greenhouse gas emitters and the most diversly used commodity chemicals globally. Electrocatalytic reduction of CO2 to ethylene received great attention from the research society to decarbonize the ethylene production. In this study, a life-cycle analysis is conducted using the Greenhouse Gases, Regulated Emissions, and Energy use in Technologies (GREET) model on the three electrocatalytic CO2-reduction pathways (or “e-ethylene” pathways): i) cascade conversion via carbon monoxide intermediate; ii) single-step conversion in membrane electrode assembly (MEA); and iii) single-step conversion in alkaline flow cell. The results showed that the electricity consumption is the lowest for the cascade pathway (164 MJ/kg), thus resulting in the lowest cradle-to-gate carbon intensity [18 kgCO2e/kg with United States (US) average grid)] among the three pathways followed by the single-step MEA (32 kgCO2e/kg) and then by the single-step alkaline (56 kgCO2e/kg). However, all three e-ethylene pathways were significantly more carbon-intensive than their fossil-based counterpart (1.1 kgCO2e/kg) due to their excessive energy consumption with the current state of technology. With renewable electricity, all three pathways yielded negative carbon intensity: from −3.1 kgCO2e/kg to −1.6 kgCO2e/kg depending on the source of CO2. The threshold carbon intensity of electricity (TCIE), defined as the upper bound of the carbon intensity of electricity to achieve lower carbon intensity for e-ethylene compared to fossil-based ethylene, is calculated for both current and future state of e-ethylene technologies. The cascade pathway had the highest TCIE out of the three e-ethylene pathways for both current (92 gCO2e/kWh) and future (124 gCO2e/kWh) state of technologies. However, the carbon intensity of average US grid (i.e., 467 and 303 gCO2e/kWh for current and future projections) were higher than the TCIEs of the corresponding timeline. Thus, reducing electricity requirement for e-ethylene pathways and bringing low-carbon generation mix in the United States (US) grid faster than the current projection are both essential to decarbonize ethylene and its downstream chemicals/polymers.    
-
-    
 
 ## Recent advances of 2D metal-organic frameworks for electrochemical carbon dioxide reduction   
 
@@ -183,17 +150,6 @@ No abstract
 
     
 
-## Photobreeding oxygen vacancy facilitates phtocatalytic reduction of CO2   
-
-OpenAlex: https://openalex.org/W4391940930    
-Open access: False
-    
-[Shuai Li](https://openalex.org/A5065912071), [Yanfeng Zhang](https://openalex.org/A5078251665), [Lei Zhang](https://openalex.org/A5071798264), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.126842.
-    
-No abstract    
-
-    
-
 ## The implementation of intelligent edification to improve the energy efficiency and CO2 emission’s reduction   
 
 OpenAlex: https://openalex.org/W4392008284    
@@ -224,50 +180,6 @@ Open access: False
 [Shengtao Zhang](https://openalex.org/A5046413580), [Chenchen Qin](https://openalex.org/A5056461668), [Daomeng Liu](https://openalex.org/A5025754715), [Jie He](https://openalex.org/A5041722972), [Qingyi Li](https://openalex.org/A5025332292), [Ziyi Feng](https://openalex.org/A5016516867), [Zhen Yang](https://openalex.org/A5074278148), [Junzhong Wang](https://openalex.org/A5005804357), [Zhengkun Yang](https://openalex.org/A5018789987), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d3ta08011k.
     
 Exploring efficient catalysts for electrochemical CO2 reduction reaction (CO2RR) to formate is greatly imperative but challenging remains. Herein, a bismuth-nanosheets network with abundant crystalline-amorphous boundaries (c-a Bi-NSs) was pioneeringly prepared...    
-
-    
-
-## Synergistic Effects of Silica‐Supported Iron‒Cobalt Catalysts for CO2 Reduction to Prebiotic Organics   
-
-OpenAlex: https://openalex.org/W4391926511    
-Open access: True
-    
-[Kendra Solveig Belthle](https://openalex.org/A5012991654), [William Martin](https://openalex.org/A5070827881), [Harun Tüysüz](https://openalex.org/A5060841613), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301218 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cctc.202301218)).
-    
-To test the ability of geochemical surfaces in serpentinizing hydrothermal systems to catalyze reactions from which metabolism arose, we investigated H2‐dependent CO2 reduction toward metabolic intermediates over silica‐supported Co‒Fe catalysts. Supported catalysts converted CO2 to various products at 180 °C and 2.0 MPa. The liquid product phase included formate, acetate, and ethanol, while the gaseous product phase consisted of CH4, CO, methanol, and C2‒C7 linear hydrocarbons. The 1/1 ratio CoFe alloy with the same composition as the natural mineral wairauite yielded the highest concentrations of formate (6.0 mM) and acetate (0.8 mM), which are key intermediates in the acetyl‐coenzyme A (acetyl‐CoA) pathway of CO2 fixation. While Co‐rich catalysts were proficient at hydrogenation, yielding mostly CH4, Fe‐rich catalysts favored the formation of CO and methanol. Mechanistic studies indicated intermediate hydrogenation and C‒C coupling activities of alloyed CoFe, in contrast to physical mixtures of both metals. Co in the active site of Co‒Fe catalysts performed a similar reaction as tetrapyrrole‐coordinated Co in the corrinoid iron‐sulfur (CoFeS) methyl transferase in the acetyl‐CoA pathway. In a temperature range characteristic for deeper regions of serpentinizing systems, oxygenate product formation was favored at lower, more biocompatible temperatures.    
-
-    
-
-## Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene   
-
-OpenAlex: https://openalex.org/W4391926647    
-Open access: False
-    
-[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202319936.
-    
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
-
-    
-
-## Low‐coordination Nanocrystalline Copper‐based Catalysts through Theory‐guided Electrochemical Restructuring for Selective CO2 Reduction to Ethylene   
-
-OpenAlex: https://openalex.org/W4391944406    
-Open access: False
-    
-[Wensheng Fang](https://openalex.org/A5019889972), [Ruihu Lu](https://openalex.org/A5065513785), [Fu-Min Li](https://openalex.org/A5035315138), [Dan Wu](https://openalex.org/A5088222762), [Kaihang Yue](https://openalex.org/A5061211337), [Cong He](https://openalex.org/A5001763605), [Yu Mao](https://openalex.org/A5029786087), [Wei Guo](https://openalex.org/A5019671436), [Bao Yu Xia](https://openalex.org/A5017108318), [Fei Song](https://openalex.org/A5068295637), [Takeshi Yao](https://openalex.org/A5073368369), [Ziyun Wang](https://openalex.org/A5005239842), [Bao Yu Xia](https://openalex.org/A5017108318), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202319936.
-    
-Revealing the dynamic reconstruction process and tailoring advanced copper (Cu) catalysts is of paramount significance for promoting the conversion of CO2 into ethylene (C2H4), paving the way for carbon neutralization and facilitating renewable energy storage. In this study, we initially employed density functional theory (DFT) and molecular dynamics (MD) simulations to elucidate the restructuring behavior of a catalyst under electrochemical conditions and delineated its restructuring patterns. Leveraging insights into this restructuring behavior, we devised an efficient, low‐coordination copper‐based catalyst. The resulting synthesized catalyst demonstrated an impressive Faradaic efficiency (FE) exceeding 70% for ethylene generation at a current density of 800 mA cm‐2. Furthermore, it showed robust stability, maintaining consistent performance for 230 hours at a cell voltage of 3.5 V in a full‐cell system. Our research not only deepens the understanding of the active sites involved in designing efficient carbon dioxide reduction reaction (CO2RR) catalysts but also advances CO2 electrolysis technologies for industrial application.    
-
-    
-
-## A robust and high performance copper silicide catalyst for electrochemical CO2 reduction   
-
-OpenAlex: https://openalex.org/W4391935036    
-Open access: True
-    
-[Vladislav Dřı́nek](https://openalex.org/A5082383640), [Pavel Dytrych](https://openalex.org/A5033924676), [Radek Fajgаr](https://openalex.org/A5018594029), [Mariana Klementová](https://openalex.org/A5073746337), [Jaroslav Kupčı́k](https://openalex.org/A5059685777), [Jaromı́r Kopeček](https://openalex.org/A5058622627), [Petr Svora](https://openalex.org/A5042897885), [Martin Koštejn](https://openalex.org/A5032589036), [Věra Jandová](https://openalex.org/A5020669335), [Karel Soukup](https://openalex.org/A5000921563), [Radim Beránek](https://openalex.org/A5024676203), Materials advances. None(None)] 2024.https://doi.org/10.1039/d3ma00633f ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ma/d3ma00633f)).
-    
-A copper-based catalyst CuxSi (3<x<5) was prepared using chemical vapor deposition (CVD) of butylsilane (BuSiH3) on copper substrates. By varying the precursor flow...    
 
     
 
@@ -304,25 +216,25 @@ The world needs an increasing supply of nickel and cobalt production as battery 
 
     
 
-## Three-dimensional N-doped carbon nanosheets loading heterostructured Ni/Ni3ZnC0.7 nanoparticles for Selective and Efficient CO2 Reduction   
+## Structure Activity Relationships for Second‐Coordination Sphere Functional Group Dependent CO2 Reduction by Manganese Bipyridyl Electrocatalysts   
 
-OpenAlex: https://openalex.org/W4391934877    
+OpenAlex: https://openalex.org/W4392153815    
 Open access: False
     
-[Li Liao](https://openalex.org/A5028858881), [Chunguang Jia](https://openalex.org/A5070950860), [She‐Huang Wu](https://openalex.org/A5087838064), [Shansheng Yu](https://openalex.org/A5020651129), [Zhenhai Wen](https://openalex.org/A5080926762), [Suqin Ci](https://openalex.org/A5091534599), Nanoscale. None(None)] 2024.https://doi.org/10.1039/d3nr05771b.
+[Vanna Blasczak](https://openalex.org/A5037174383), [Allan Murphy](https://openalex.org/A5063180325), [Lisa Suntrup](https://openalex.org/A5080235951), [Ken T. Ngo](https://openalex.org/A5059652073), [Blake R. Reed](https://openalex.org/A5024403049), [Stanislav Groysman](https://openalex.org/A5076502565), [David C. Grills](https://openalex.org/A5004375411), [Jonathan Rochford](https://openalex.org/A5017611605), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202301388.
     
-Electrocatalytic CO2 reduction (CO2RR) has emerged as a promising approach for converting CO2 into valuable chemicals and fuels to achieve a sustainable carbon cycle. However, the development of efficient electrocatalysts...    
+A series of twelve second coordination sphere (SCS) functionalized manganese tricarbonyl bipyridyl complexes are investigated for their electrocatalytic CO2 reduction properties in acetonitrile. A qualitative and quantitative assessment of the SCS functional groups is discussed with respect to the catalyst’s thermodynamic and kinetic efficiencies, and its product selectivity. In probing a broad scope of functional groups, it is clear that only the aprotic ortho‐arylester SCS is capable of promoting the highly desired low‐overpotential proton‐transfer electron‐transfer (PT‐ET) pathway for selective CO production. The ortho‐phenolic analogues cause an increase in overpotential with a product selectivity favoring H2 evolution, consistent with a high‐overpotential pathway via the anionic [Mn‐H]‐ intermediate. Alternative aprotic Lewis base functional groups such as trifluoromethyl, morpholine and acetamide are shown to also be capable of intermediate manganese hydride generation. The tertiary amine substituent, 2‐morpholinophenyl, exhibits a desirable product distribution characteristic of syn‐gas (CO:H2 = 30:48) with an impressive turnover frequency, while the secondary amine group, 2‐acetamidophenyl, induces a notable shift in selectivity with a faradaic yield of 55% for the formate (HCO2‐) product. In addition to their catalytic properties, cyclic voltammetry and infrared spectroelectrochemistry (IR‐SEC) studies are presented to probe pre‐catalyst electronic properties and the two‐electron reduction activation pathway.    
 
     
 
-## Ligand-controlled exposure of active sites on Pd1Ag14 nanoclusters surface to boost electrocatalytic CO2 reduction   
+## Elaborate Modulating Binding Strength of Intermediates via Three‐component Covalent Organic Frameworks for CO2 Reduction Reaction   
 
-OpenAlex: https://openalex.org/W4391932115    
+OpenAlex: https://openalex.org/W4392156542    
 Open access: False
     
-[Along Ma](https://openalex.org/A5030576294), [Yong Ren](https://openalex.org/A5041198839), [Yu Zuo](https://openalex.org/A5087403816), [Jiawei Wang](https://openalex.org/A5044785404), [Shan Huang](https://openalex.org/A5002692827), [Xiaoshuang Ma](https://openalex.org/A5045572868), [Shuxin Wang](https://openalex.org/A5022234641), Chemical Communications. None(None)] 2024.https://doi.org/10.1039/d4cc00152d.
+[Minghao Liu](https://openalex.org/A5060008686), [Cheng‐Xing Cui](https://openalex.org/A5089859489), [Shuai Yang](https://openalex.org/A5090717104), [Xiubei Yang](https://openalex.org/A5032456464), [Xuewen Li](https://openalex.org/A5076573585), [Jun He](https://openalex.org/A5048468640), [Qing Xu](https://openalex.org/A5003029548), [Gaofeng Zeng](https://openalex.org/A5028394871), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202401750.
     
-Advancing catalyst design requires meticulous control of nanocatalyst selectivity at the atomic level. Here, we synthesized two Pd1Ag14 nanoclusters: Pd1Ag14(PPh3)8(SPh(CF3)2)6 and Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, each with well-defined structures. Notably, in Pd1Ag14(P(Ph-p-OMe)3)7(SPh)6, the...    
+The catalytic performance for electrocatalytic CO2 reduction reaction (CO2RR) depends on the binding strength of the reactants and intermediates. Covalent organic frameworks (COFs) have been adopted to catalyze CO2RR, and their binding ability were tuned via constructing donor‐acceptor (DA) systems. However, most DA COFs had single donor and acceptor units, which caused wide‐range but lacking accuracy in modulating the binding strength of intermediates. More elaborate regulation of the interactions with intermediates are necessary and challenge to construct high‐efficiency catalysts. Herein, the three‐component COF with donor‐acceptor‐acceptor units was first constructed by introducing electron‐rich diarylamine unit and electron‐deficient benzothiazole and Co‐porphyrin units. Compared with two‐component COFs, the designed COF exhibit elevated electronic conductivity, enhanced reducibility, high efficiency charge transfer, further improving the electrocatalytic CO2RR performance with the faradic efficiency of 97.2% at −0.8 V and high activity with the partial current density of 27.85 mA cm−2 at −1.0 V which exceed other two‐component COFs. Theoretical calculations demonstrate that catalytic sites in three‐component COF had suitable binding ability of the intermediates, which were benefit for formation of *COOH and desorption of *CO. This work offers valuable insights for the advancement of multi‐component COFs, enabling modulated charge transfer to improve the CO2RR activity.    
 
     
 
@@ -334,5 +246,71 @@ Open access: False
 [Yee Hui Robin Chang](https://openalex.org/A5072330191), [Yusuf Zuntu Abdullahi](https://openalex.org/A5055543877), [Moi Hua Tuh](https://openalex.org/A5001881215), [Keat Hoe Yeoh](https://openalex.org/A5004457853), Inorganic Chemistry Communications. None(None)] 2024.https://doi.org/10.1016/j.inoche.2024.112244.
     
 No abstract    
+
+    
+
+## A robust Ni single-atom catalyst for industrial current and exceptional selectivity in electrochemical CO2 reduction to CO   
+
+OpenAlex: https://openalex.org/W4392018860    
+Open access: True
+    
+[Zhicheng Liu](https://openalex.org/A5071625927), [Longsheng Cao](https://openalex.org/A5044805723), [Manli Wang](https://openalex.org/A5035327180), [Yun Zhao](https://openalex.org/A5056995430), [Ming Hou](https://openalex.org/A5005475347), [Zhigang Shao](https://openalex.org/A5073039020), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d3ta07216a.
+    
+While achieving a Faradaic efficiency (FE) over 90% in the electroreduction of CO2 to CO with single transition metal atom anchored on nitrogen-doped carbon (M-N-C) catalyst is indeed notable, the...    
+
+    
+
+## Hollow Fiber Gas-Diffusion Electrodes with Tailored Crystal Facets for Tuning Syngas Production in Electrochemical Co2 Reduction   
+
+OpenAlex: https://openalex.org/W4391973977    
+Open access: False
+    
+[Guoliang Chen](https://openalex.org/A5033610845), [Lei Ge](https://openalex.org/A5041714665), [Yizhu Kuang](https://openalex.org/A5032121396), [Hesamoddin Rabiee](https://openalex.org/A5048355660), [Bo Ma](https://openalex.org/A5034459132), [Fatereh Dorosti](https://openalex.org/A5077129844), [Nanjundan Ashok Kumar](https://openalex.org/A5043021704), [Zhonghua Zhu](https://openalex.org/A5022694204), [Hao Wang](https://openalex.org/A5080102032), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4732107.
+    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
+
+    
+
+## General synthesis and atomic arrangement identification of ordered Bi–Pd intermetallics with tunable electrocatalytic CO2 reduction selectivity   
+
+OpenAlex: https://openalex.org/W4391998842    
+Open access: True
+    
+[Wenjin Guo](https://openalex.org/A5044810789), [Guangfang Li](https://openalex.org/A5071672009), [Chunli Bai](https://openalex.org/A5064172785), [Qiong Liu](https://openalex.org/A5012301761), [Fengxi Chen](https://openalex.org/A5073739395), [Rong Chen](https://openalex.org/A5075047744), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-46072-7.
+    
+Abstract Intermetallic compounds (IMCs) with fixed chemical composition and ordered crystallographic arrangement are highly desirable platforms for elucidating the precise correlation between structures and performances in catalysis. However, diffusing a metal atom into a lattice of another metal to form a controllably regular metal occupancy remains a huge challenge. Herein, we develop a general and tractable solvothermal method to synthesize the Bi-Pd IMCs family, including Bi 2 Pd, BiPd, Bi 3 Pd 5 , Bi 2 Pd 5 , Bi 3 Pd 8 and BiPd 3 . By employing electrocatalytic CO 2 reduction as a model reaction, we deeply elucidated the interplay between Bi-Pd IMCs and key intermediates. Specific surface atomic arrangements endow Bi-Pd IMCs different relative surface binding affinities and adsorption configuration for *OCHO, *COOH and *H intermediate, thus exhibiting substantially selective generation of formate (Bi 2 Pd), CO (BiPd 3 ) and H 2 (Bi 2 Pd 5 ). This work provides a comprehensive understanding of the specific structure-performance correlation of IMCs, which serves as a valuable paradigm for precisely modulating catalyst material structures.    
+
+    
+
+## Effect of octahedral occupancy of bimetal-doping and CO2-induced surface reconstruction on oxygen reduction reaction of cobalt-based perovskite oxides   
+
+OpenAlex: https://openalex.org/W4392145417    
+Open access: False
+    
+[Haocong Wang](https://openalex.org/A5026810495), [Wenka Zhu](https://openalex.org/A5046863535), [Jian Gong](https://openalex.org/A5033246962), [Gao Min](https://openalex.org/A5017197771), [Lanlan Xu](https://openalex.org/A5048247540), [Wenwen Zhang](https://openalex.org/A5052588320), [Xiaojuan Liu](https://openalex.org/A5057877330), [Chenglin Yan](https://openalex.org/A5009136959), [Jian Meng](https://openalex.org/A5034781601), Chemical Engineering Journal. 485(None)] 2024.https://doi.org/10.1016/j.cej.2024.149770.
+    
+No abstract    
+
+    
+
+## Auto-Occlusive Lidocaine 7% and Tetracaine 7% Cream has Greater Pain Reduction Effects in Comparison with Lidocaine 4% Cream during Laser CO2 Dermabrasion Procedure in Preparation of Non-Cultured Autologous Epidermal Cell Grafting for Repigmentation in Vitiligo Subjects. An Intrasubject Pilot Evaluation Study   
+
+OpenAlex: https://openalex.org/W4392163415    
+Open access: False
+    
+, Dermatology Journal of Cosmetic and Laser Therapy. 3(1)] 2024.https://doi.org/10.33140/djclt.03.01.03.
+    
+Introduction: Autologous non-cultured epidermal cell graft is a complex but promising technique in the treatment of vitiligo. Affected vitiligo areas should be de-epithelialized using an ablative Laser CO2 prior healthy epidermal cell inoculation. The dermabrasion (DA) procedure could be painful for the patient. To reduce the discomfort of this step topical anaesthesia is very often required. Topical anaesthetics available differ for composition, concentration of active anaesthetic molecules and methods of application (occlusion or not). An auto occlusive film-forming cream containing Lidocaine 7% and Tetracaine 7% (Pl-C) has shown in previous trials to be very effective in reducing discomfort during dermatological painful procedures like phototherapy, laser-conducted tattoo removal and laser resurfacing for skin ageing. Study Aim: To compare the clinical efficacy of Pl-C with Lidocaine 4% cream (As-C) in reducing the pain during Laser DA procedures in vitiligo subjects in preparation of autologous non-cultured epidermal transplantation. Subjects and Methods: We performed a prospective intra-subject randomized cases series in 7 subjects (4 men and 3 women) with segmental vitiligo with symmetrical lesions suitable for autologous non-cultured epidermal transplantation. Before the DA procedures the Pl-C or As-C were applied in a randomized fashion over the vitiligo areas to be treated. Pl-C was applied for 20 min without occlusion. The product was removed before the Laser procedure. As-C cream was applied for 30 min with occlusive band and then removed before the procedure. The treated skin regions had a mean area of 72±50 cm2; (range: 10 to 150 cm2). The primary outcome was the 100-mm Visual Analogue Scale (VAS) for patient-assessed pain evaluation with 0 mm value means no pain at all and 100 mm representing the worst possible pain. Results: Just after the Laser CO2 DA procedure the VAS score in PL-C area was 32±7 mm and 58±8 mm in As-C treated areas. This difference (-25±4 mm; 95% CI: from -16 to -35 mm) was highly statistically significant (p=0.0001) and clinically relevant (higher than the minimum clinically significant difference). Conclusion: The Lidocaine 7% and Tetracaine 7% auto occlusive cream is more effective than lidocaine 4% cream in reducing the pain associated with Laser CO2 DA procedures in preparation of skin autologous transplantation in vitiligo subjects.    
+
+    
+
+## Study of the Chemical Activities of Carbon Monoxide, Carbon Dioxide, and Oxygen Traces as Critical Inhibitors of Polypropylene Synthesis   
+
+OpenAlex: https://openalex.org/W4392121096    
+Open access: True
+    
+[Joaquín Hernández‐Fernández](https://openalex.org/A5070939197), [Esneyder Puello-Polo](https://openalex.org/A5059261368), [Edgar Márquez](https://openalex.org/A5021576367), Polymers. 16(5)] 2024.https://doi.org/10.3390/polym16050605 ([pdf](https://www.mdpi.com/2073-4360/16/5/605/pdf?version=1708669584)).
+    
+This study outlines the investigation into how the compounds CO2, CO, and O2 interact with the active center of titanium (Ti) on the surface of MgCl2 and how these interactions impact the productivity of the Ziegler–Natta catalyst, ultimately influencing the thermal stability of the produced polypropylene. The calculations revealed that the adsorption energies of Ti-CO2-CO and O2 were −9.6, −12.5, and −2.32 Kcal/mol, respectively. Using the density functional theory in quantum calculations, the impacts of electronic properties and molecular structure on the adsorption of CO, O2, and CO2 on the Ziegler–Natta catalyst were thoroughly explored. Additionally, the Gibbs free energy and enthalpy of adsorption were examined. It was discovered that strong adsorption and a significant energy release (−16.2 kcal/mol) during CO adsorption could explain why this gas caused the most substantial reductions in the ZN catalyst productivity. These findings are supported by experimental tests showing that carbon monoxide has the most significant impact on the ZN catalyst productivity, followed by carbon dioxide, while oxygen exerts a less pronounced inhibitory effect.    
 
     

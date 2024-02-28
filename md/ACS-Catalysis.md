@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Feb 27 00:43:10 2024
+Created on Wed Feb 28 00:42:58 2024
 
-Found 25 results from 2024-02-20 to 2024-02-27
+Found 25 results from 2024-02-21 to 2024-02-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Near-Infrared Photoredox Catalyzed Fluoroalkylation Strategy for Protein Labeling in Complex Tissue Environments   
-
-OpenAlex: https://openalex.org/W4391923508    
-Open access: False
-    
-[Keun Ah Ryu](https://openalex.org/A5091564568), [Tamara Reyes‐Robles](https://openalex.org/A5024757326), [Thomas P. Wyche](https://openalex.org/A5013377903), [Tyler J. Bechtel](https://openalex.org/A5039265534), [Jayde M. Bertoch](https://openalex.org/A5061974174), [Ziliang Jin](https://openalex.org/A5085429602), [Christopher May](https://openalex.org/A5091071427), [Cody Scandore](https://openalex.org/A5093952691), [Noah Dephoure](https://openalex.org/A5093952692), [Sharon Wilhelm](https://openalex.org/A5075921743), [Ishtiaque Quasem](https://openalex.org/A5026076840), [Annika Yau](https://openalex.org/A5003459682), [Sampat Ingale](https://openalex.org/A5088823053), [Andrew Szendrey](https://openalex.org/A5066277037), [Margaret Duich](https://openalex.org/A5050276726), [Rob C. Oslund](https://openalex.org/A5073194775), [Olugbeminiyi O. Fadeyi](https://openalex.org/A5037325947), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00447.
-    
-The chemical transformation of aromatic amino acids has emerged as an attractive alternative to nonselective lysine or cysteine labeling for the modification of biomolecules. However, this strategy has largely been limited by the scope of functional groups and the biocompatible reaction conditions available. Herein, we report the implementation of near-infrared-activatable photocatalysts, TTMAPP and n-Pr-DMQA+, capable of generating fluoroalkyl radicals for peptide functionalization and protein labeling within simple and complex biological systems. At the peptide level, a diverse set of iodoperfluoroalkyl reagents were used in the functionalization and stapling of tryptophan residues. Using this photoredox catalyzed perfluoroalkylation technology, we achieved biotinylation of intracellular proteins in live cells. Notably, given the inherent tissue penetrant nature of near-infrared light, we further demonstrated the utility of this technology to achieve photocatalytic protein fluoroalkylation in patient-derived normal and tumor tissue for downstream confocal imaging and mass spectrometry-based proteomic analysis.    
-
-    
-
-## Strong Hydrogen-Bonded Interfacial Water Inhibiting Hydrogen Evolution Kinetics to Promote Electrochemical CO2 Reduction to C2+   
-
-OpenAlex: https://openalex.org/W4391926255    
-Open access: False
-    
-[Yang Wang](https://openalex.org/A5078232760), [Jianrui Zhang](https://openalex.org/A5039365969), [Jianyun Zhao](https://openalex.org/A5009225446), [Yuantao Wei](https://openalex.org/A5042449935), [Shenghua Chen](https://openalex.org/A5032988244), [Hongyang Zhao](https://openalex.org/A5023780872), [Yaqiong Su](https://openalex.org/A5013121247), [Shujiang Ding](https://openalex.org/A5065434610), [Chunhui Xiao](https://openalex.org/A5049259092), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05880.
-    
-Interfacial water is an important participant in electrochemical CO2 reduction (CO2RR), directly affecting the kinetics of hydrogenation steps occurring in the CO2RR and competitive hydrogen evolution reaction (HER). However, its structural composition and dynamic evolution are difficult to investigate due to bulk water interference and the bias dependence. Herein, we adopt electrochemical in situ vibration spectroscopy combined with molecular dynamics simulations to probe the dynamic change of interfacial water structure on an electrified hydrophobic electrode surface and further explore the mechanism origin of suppressed HER activity and enhanced multicarbon products’ selectivity. We reveal that interfacial water near the hydrophobic electrode surface exhibits rigid intermolecular hydrogen bonding interaction, and the degree of which increases with a bias potential. The strong intermolecular hydrogen bond makes it hard for water reorientation leading to a longer metal–H distance, which inhibits water dissociation and decreases *H coverage. Moderate *H coverage not only inhibits hydrogen evolution but also ensures hydrogenation of intermediates realizing promoted C–C dimerization. A faradaic efficiency of 75.2% for CO2 reduction to multicarbon products was ultimately achieved. Our results provide insights into understanding the role of interfacial water structure in controlling reaction selectivity in CO2RR.    
-
-    
-
-## Ultrathin and Conformal TiOx Overlayers on WO3 Photoelectrodes for Simultaneous Surface Trap Passivation and Heterojunction Formation   
-
-OpenAlex: https://openalex.org/W4391931816    
-Open access: False
-    
-[Anchen Wang](https://openalex.org/A5066711967), [Dapeng Cao](https://openalex.org/A5076157080), [Fuyang Zhang](https://openalex.org/A5060032896), [Yaru Chen](https://openalex.org/A5037446400), [Jianyong Feng](https://openalex.org/A5076151179), [Dong Fang](https://openalex.org/A5068288947), [Baoxiu Mi](https://openalex.org/A5011436888), [Zhiqiang Gao](https://openalex.org/A5006671043), [Zhaosheng Li](https://openalex.org/A5061375599), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05876.
-    
-Nanoporous structures facilitate the exposure of active sites and allow a high ratio of the space charge region to the bulk in water-splitting photoelectrodes. However, unfavorable surface defects may develop on nanoporous photoelectrodes, which deteriorate the band bending (built-in electric field) and trigger serious charge carrier recombination. To maximize the advantages of nanoporous structures in photoelectrodes, one common strategy is the introduction of ultrathin overlayers to passivate undesirable surface defects and traps, which usually require advanced deposition technologies such as atomic layer deposition. In this study, a process of drop-casting followed by O2 plasma treatment is employed to realize ultrathin and conformal TiOx overlayers on WO3 photoelectrodes. Notably, the ultrathin TiOx overlayer demonstrates dual effects of surface trap passivation and heterojunction formation on WO3 photoelectrodes, which result in suppressed surface charge recombination and enhanced band bending. The as-derived TiOx-modified WO3 photoanode shows an increase in water-splitting photocurrent (increased by 81% at 1.6 V vs the reversible hydrogen electrode), along with a 160 mV cathodic shift in photocurrent onset potential. The proposed approach here provides valuable insights into the room-temperature fabrication of uniform and ultrathin overlayers for nanostructure modification.    
-
-    
-
-## Strain-Engineered Ru-NiCr LDH Nanosheets Boosting Alkaline Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4391933113    
-Open access: False
-    
-[Jun Yang](https://openalex.org/A5051262214), [Shi Chun Yang](https://openalex.org/A5078376139), [Liwei An](https://openalex.org/A5036448935), [Jiang Zhu](https://openalex.org/A5055911393), [Junwu Xiao](https://openalex.org/A5038128096), [Xu Zhao](https://openalex.org/A5072939924), [Deli Wang](https://openalex.org/A5088757374), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05550.
-    
-Ruthenium (Ru) has been considered as a promising candidate for alkaline hydrogen evolution reaction (HER); however, the hydrogen adsorption on Ru needs to be optimized to enhance the electrocatalytic activity. Strain engineering is an effective method to regulate the hydrogen adsorption, while the systematic study of the strain effect over hydrogen adsorption of Ru remains a challenge. Herein, Ru-incorporated nickel–chromium-layered double hydroxide (LDH) nanosheets with different levels of compressive strain are constructed to tune the hydrogen adsorption. The strain-engineered Ru-NiCr LDH exhibits a low overpotential of 30 mV at 100 mA cm–2 and good stability over 10,000 potential cycles for HER. When the cathode catalysts are assembled in an anion exchange membrane water electrolyzer (AEMWE), the cell delivers high current densities of 640 and 1940 mA cm–2 at 1.8 V when fed with pure water and 1 M KOH solution, respectively. The enhanced electrocatalytic performance of Ru-NiCr LDH is attributed to the weakened hydrogen adsorption caused by a downshift of the d-band center, which is induced by the strain effect. This work demonstrates the effectiveness of strain engineering in designing active catalysts for hydrogen production.    
-
-    
 
 ## Facet-Dependent Oxygen Mobility and Reaction Pathways for Oxidative Dehydrogenation of 1-Butene over Bi2MoO6   
 
@@ -278,5 +234,49 @@ Open access: False
 [Xucheng Li](https://openalex.org/A5035388503), [Peng Yang](https://openalex.org/A5088693897), [Zhipeng Huang](https://openalex.org/A5017988818), [Gang Feng](https://openalex.org/A5065217556), [Leo Lingchun Kong](https://openalex.org/A5082042466), [Haiwei Jiang](https://openalex.org/A5089946640), [Weiran Yang](https://openalex.org/A5031655322), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06070.
     
 Decarboxylation of biomass-derived fatty acids provides an important method for the production of value-added alkane fuels and chemicals. Here, selective decarboxylative C–C homocoupling of fatty acids to obtain long-chain alkanes was achieved by heterogeneous photocatalysis under mild conditions. Hydrogen was cogenerated as the potential energy source. The high selectivity for the coupling product was realized by constructing a hydrogen-deficient catalytic interface through the combined action of Ru nanoparticles supported on TiO2 and continuous N2 blow, which can inhibit the hydrogenation of alkyl radicals and enhance the C–C coupling of alkyl radicals. C2n–2 saturated alkanes (as high as 93%) and hydrogen (as high as 20.3 μmol·mL–1) are produced from bioderived C4–C12 fatty acids in high yields under mild reaction conditions (25 °C, N2 blow). Furthermore, low-value industrial fatty acid mixtures such as coconut oil and Cinnamomum camphora seed kernel oil can be directly applied in this catalytic system and selectively yield long-chain alkanes (up to 80%) in a solvent-free system. Density functional theory (DFT) calculations and various analytical methods were applied to elucidate the possible catalytic mechanism.    
+
+    
+
+## Boosting the Bifunctionality and Durability of Cobalt-Fluoride-Oxide Nanosheets for Alkaline Water Splitting Through Nitrogen-Plasma-Promoted Electronic Regulation and Structural Reconstruction   
+
+OpenAlex: https://openalex.org/W4392016577    
+Open access: False
+    
+[Shuo Wang](https://openalex.org/A5051434566), [Cheng‐Zong Yuan](https://openalex.org/A5020729346), [Yi Zheng](https://openalex.org/A5059156645), [Yao Kang](https://openalex.org/A5059804832), [K.S. Hui](https://openalex.org/A5006729941), [Kaixi Wang](https://openalex.org/A5041740133), [Haixing Gao](https://openalex.org/A5031098965), [Duc Anh Dinh](https://openalex.org/A5027303758), [Y. R. Cho](https://openalex.org/A5033074084), [Kwun Nam Hui](https://openalex.org/A5011737382), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00294.
+    
+No abstract    
+
+    
+
+## Regulating the Spin Polarization of NiFe Layered Double Hydroxide for the Enhanced Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392018831    
+Open access: False
+    
+[Wenwu Cao](https://openalex.org/A5017834536), [Xianhui Gao](https://openalex.org/A5068375738), [Jie Wu](https://openalex.org/A5038747062), [Anqi Huang](https://openalex.org/A5056746694), [Huan Hu](https://openalex.org/A5015273050), [Zhongwei Chen](https://openalex.org/A5091083063), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06180.
+    
+No abstract    
+
+    
+
+## Surpassing the Limited Coordination Affinity of Native Amides by Introducing Pyridone-Pd-AgOAc Clusters to Promote Distal γ-C(sp3)–H Arylation   
+
+OpenAlex: https://openalex.org/W4392022653    
+Open access: False
+    
+[Nupur Goswami](https://openalex.org/A5035962932), [Nikunj Kumar](https://openalex.org/A5034740343), [Puneet Gupta](https://openalex.org/A5021247800), [Debabrata Maiti](https://openalex.org/A5051885484), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06007.
+    
+The utilization of weak coordination in promoting site-selective C(sp3)–H functionalization is of immense importance. Herein, we report a Pd-catalyzed distal γ-C(sp3)–H arylation that harnesses the weak coordination affinity of keto groups with the native noncoordinating amide moiety. The current protocol overcomes one of the major challenges associated with the diversification of synthetic modular frameworks of quaternary centers: controlling the mono- vs difunctionalization of chemically equivalent C–H bonds. The developed condition overrides the interference of the acidic α-hydrogen for possible side reactions of amides and delivers the exclusive formation of the γ-monoarylated product. The association of 2-hydroxy pyridine ligands bearing electron-withdrawing substituents demonstrated the best partnership with the Pd–Ag hetero-bimetallic complex to achieve this distal γ-C(sp3)–H activation of a range of noncoordinating aliphatic amides in the absence of any other exogenous ligand. Here, an array of mechanistic measurements helped us to realize the role of the ligand. A density functional theory (DFT) study was performed on four different computational models to elucidate the working principle of a single pyridone ligand in the absence of any externally installed strong chelating donor motifs. The reaction proceeds sequentially through three primary stages: initial C–H activation of the γ-C(sp3)–H bond of the amide, succeeded by the oxidative addition of the aryl halide, culminating in reductive elimination, which facilitates the C(sp2)–C(sp3) coupling between the aryl and the aliphatic amide moieties. The role of the silver salt remained essential not only for successful C–H activation but also for turning over the catalytic cycle.    
+
+    
+
+## Flexible Units Induced Three-Dimensional Covalent Organic Frameworks with a Heteromotif Molecular Junction for Photocatalytic H2O2 Production   
+
+OpenAlex: https://openalex.org/W4392038453    
+Open access: False
+    
+[Jia-Peng Liao](https://openalex.org/A5031303790), [Mi Zhang](https://openalex.org/A5036897639), [Pei Huang](https://openalex.org/A5088520193), [Long‐Zhang Dong](https://openalex.org/A5033346425), [Tiantian Ma](https://openalex.org/A5051237661), [Guo‐Zhang Huang](https://openalex.org/A5076445689), [Yu-Fei Liu](https://openalex.org/A5087095278), [Meng Lu](https://openalex.org/A5023725539), [Shun-Li Li](https://openalex.org/A5000509449), [Ya‐Qian Lan](https://openalex.org/A5003081708), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06078.
+    
+In recent years, significant progress has been achieved in the field of three-dimensional covalent organic frameworks (3D COFs). However, there is still a great challenge to use flexible building units to synthesize high-connectivity 3D COFs. In this work, we showed that [6 + 3] 3D COFs could be constructed by inducing highly flexible planar building blocks from C3 antitriangular prismed 3D building blocks. Herein, two 3D COFs with spn topology based on flexible cyclotriphosphazene units were constructed and denoted as TAA/TAB-CTP-COF, and their redox ability and photophysical features can be finely regulated by the coupled functional group, such as benzene and triazine groups. As a result, the redox heteromotif molecular junction TAA-CTP-COF with fully exposed active sites achieved high photocatalytic production of hydrogen peroxide (H2O2) with a yield of 1041 μM h–1 without any additional photosensitizers, organic scavengers, or cocatalysts. Furthermore, in the presence of an electron donor, the production rate of H2O2 could reach up to 2221 μM h–1, exhibiting one of the best performances for photocatalytic H2O2 production in the field of crystalline materials. This work showcases the potential of using flexible building blocks in building 3D COFs and highlights the versatility and efficacy of metal-free COFs in solar energy conversion.    
 
     

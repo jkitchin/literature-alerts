@@ -1,55 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Tue Feb 27 00:43:03 2024
+Created on Wed Feb 28 00:42:54 2024
 
-Found 36 results from 2024-02-20 to 2024-02-27
+Found 38 results from 2024-02-21 to 2024-02-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Correction: Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions   
-
-OpenAlex: https://openalex.org/W4391926812    
-Open access: True
-    
-[Ariful Ahsan](https://openalex.org/A5063363228), [Muhammad A. Imam](https://openalex.org/A5033283090), [Alain R. Puente Santiago](https://openalex.org/A5052938805), [Alejandro Rodrı́guez](https://openalex.org/A5074843219), [Bonifacio Alvarado-Tenorio](https://openalex.org/A5062849452), [Ricardo A. Bernal](https://openalex.org/A5009293092), [Rafael Luque](https://openalex.org/A5078421218), [Juan C. Noveron](https://openalex.org/A5007869284), Green Chemistry. None(None)] 2024.https://doi.org/10.1039/d4gc90017k ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/gc/d4gc90017k)).
-    
-Correction for ‘Spent tea leaves templated synthesis of highly active and durable cobalt-based trifunctional versatile electrocatalysts for hydrogen and oxygen evolution and oxygen reduction reactions’ by Md Ariful Ahsan et al. , Green Chem. , 2020, 22 , 6967–6980, https://doi.org/10.1039/D0GC02155E.    
-
-    
-
-## Transpassive Metal Dissolution vs. Oxygen Evolution Reaction: Implication for Alloy Stability and Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4391944172    
-Open access: False
-    
-[Annica Wetzel](https://openalex.org/A5076601076), [Daniel Morell](https://openalex.org/A5093888344), [Marcus von der Au](https://openalex.org/A5017993519), [Günther Wittstock](https://openalex.org/A5038064548), [Özlem Ozcan](https://openalex.org/A5072476528), [Julia Witt](https://openalex.org/A5044822731), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202317058.
-    
-Multi‐principal element alloys (MPEAs) are gaining interest in corrosion and electrocatalysis research due to their electrochemical stability across a broad pH range and the design flexibility they offer. Using the equimolar CrCoNi alloy, we observe significant metal dissolution in a corrosive electrolyte (0.1 M NaCl, pH 2) concurrently with the oxygen evolution reaction (OER) in the transpassive region despite the absence of hysteresis in polarization curves or other obvious corrosion indicators. We present a characterization scheme to delineate the contribution of OER and alloy dissolution, using scanning electrochemical microscopy (SECM) for OER‐onset detection, and quantitative chemical analysis with inductively coupled‐mass spectrometry (ICP‐MS) and ultraviolet visible light (UV‐Vis) spectroscopy to elucidate metal dissolution processes. In‐situ electrochemical atomic force microscopy (EC‐AFM) revealed that the transpassive metal dissolution on CrCoNi is dominated by intergranular corrosion. These results have significant implications for the stability of MPEAs in corrosion systems, emphasizing the necessity of analytically determining metal ions released from MPEA electrodes into the electrolyte when evaluating Faradaic efficiencies of OER catalysts. The release of transition metal ions not only reduces the Faradaic efficiency of electrolyzers but may also cause poisoning and degradation of membranes in electrochemical reactors.    
-
-    
-
-## Alkali Containing Layered Metal Oxides as Catalysts for the Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4391948002    
-Open access: True
-    
-[Mario Falsaperna](https://openalex.org/A5076436151), [Rosa Arrigo](https://openalex.org/A5007560583), [Frank Marken](https://openalex.org/A5071095075), [Simon J. Freakley](https://openalex.org/A5044793501), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202300761.
-    
-Abstract Improving the efficiency of the oxygen evolution reaction (OER) is essential to realise energy systems based on water electrolysis. Many catalysts have been developed for the OER to date, with iridium‐based oxides being the most promising due to their relative stability towards corrosion in acidic electrolytes under oxidising potentials. In recent years, examples of catalysts adopting layered structures have been shown to have promising characteristics such as higher conductivity and higher electrochemically active surface area compared to highly crystalline metal oxides. Furthermore, such materials possess additional tuneable properties such as interlayer spacing, identity and concentration of the interlayer species, edge and interlayer active sites, and higher active surface area. Recent attention has focused on mono‐ and polymetallic lithium‐containing layered materials, where the presence of interlayer lithium cations, in situ delithiation processes and combinations of transition metal oxides result in enhanced catalytic properties towards OER. This review aims to provide a summary of the recent developments of such layered materials, in which lithium or other alkali metal ions occupy interlayer sites in oxides.    
-
-    
-
-## Doping Ru on FeNi LDH/FeⅡ/Ⅲ-MOF heterogeneous core-shell structure for efficient oxygen evolution   
-
-OpenAlex: https://openalex.org/W4391948180    
-Open access: False
-    
-[Yijia Cao](https://openalex.org/A5038834523), [Yan Wen](https://openalex.org/A5057814323), [Yanrong Liu](https://openalex.org/A5041756956), [Mengya Cao](https://openalex.org/A5086361638), [Bao Li](https://openalex.org/A5057603195), [Qing Shen](https://openalex.org/A5036911553), [Wen Gu](https://openalex.org/A5003733633), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00008k.
-    
-Noble metal based catalysts as RuO2 and IrO2 have been widely used in the catalysis of OER. Because of the high price and poor stability, it is urgent to develop...    
-
-    
 
 ## Glassy State Hydroxide Materials for Oxygen Evolution Electrocatalysis   
 
@@ -282,6 +238,51 @@ No abstract
 
     
 
+## Black brookite rich in oxygen vacancies as an active photocatalyst for
+  CO2 conversion: experiments and first-principles calculations   
+
+OpenAlex: https://openalex.org/W4392019991    
+Open access: True
+    
+[Masae Katai](https://openalex.org/A5093486155), [Parisa Edalati](https://openalex.org/A5076618036), [Jacqueline Hidalgo-Jiménez](https://openalex.org/A5030159775), [Yu Shundo](https://openalex.org/A5068783659), [Taner Akbay](https://openalex.org/A5050393991), [Tatsumi Ishihara](https://openalex.org/A5024539718), [Makoto Arita](https://openalex.org/A5073134409), [Masayoshi Fuji](https://openalex.org/A5014931992), [Kaveh Edalati](https://openalex.org/A5089538318), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2402.12731 ([pdf](https://arxiv.org/pdf/2402.12731)).
+    
+Photocatalytic CO2 conversion is a clean technology to deal with CO2 emissions, and titanium oxide (TiO2) polymorphs are the most investigated photocatalysts for such an application. In this study, black TiO2 brookite is produced by a high-pressure torsion (HPT) method and employed as an active photocatalyst for CO2 conversion. Black brookite with a large concentration of lattice defects (vacancies, dislocations and grain boundaries) showed enhanced light absorbance, narrowed optical bandgap and diminished recombination rate of electrons and holes. The photocatalytic activity of the black oxide for CO2 conversion was higher compared to commercial brookite and benchmark P25 catalyst powders. First-principles calculations suggested that the presence of oxygen vacancies in black brookite is effective not only for reducing optical bandgap but also for providing active sites for the adsorption of CO2 on the surface of TiO2.    
+
+    
+
+## Increased Readiness for Water Splitting: NiO‐Induced Weakening of Bonds in Water Molecules as Possible Cause of Ultra‐Low Oxygen Evolution Potential   
+
+OpenAlex: https://openalex.org/W4392035916    
+Open access: True
+    
+[Tom Bookholt](https://openalex.org/A5014212618), [Xian Qin](https://openalex.org/A5036966965), [Bettina Lilli](https://openalex.org/A5093978154), [Dirk Enke](https://openalex.org/A5000960610), [Marten Huck](https://openalex.org/A5035314432), [Danni Balkenhohl](https://openalex.org/A5019978547), [Klara Rüwe](https://openalex.org/A5093978155), [Julia Brune](https://openalex.org/A5069353127), [Johann P. Klare](https://openalex.org/A5078789321), [Karsten Küpper](https://openalex.org/A5038102483), [Anja Schuster](https://openalex.org/A5018372762), [Jenrik Bergjan](https://openalex.org/A5093978153), [Martin Steinhart](https://openalex.org/A5042098091), [Harald Gröger](https://openalex.org/A5077386505), [Diemo Daum](https://openalex.org/A5086493756), [Helmut Schäfer](https://openalex.org/A5045476054), Small. None(None)] 2024.https://doi.org/10.1002/smll.202310665.
+    
+Abstract The development of non‐precious metal‐based electrodes that actively and stably support the oxygen evolution reaction (OER) in water electrolysis systems remains a challenge, especially at low pH levels. The recently published study has conclusively shown that the addition of haematite to H 2 SO 4 is a highly effective method of significantly reducing oxygen evolution overpotential and extending anode life. The far superior result is achieved by concentrating oxygen evolution centres on the oxide particles rather than on the electrode. However, unsatisfactory Faradaic efficiencies of the OER and hydrogen evolution reaction (HER) parts as well as the required high haematite load impede applicability and upscaling of this process. Here it is shown that the same performance is achieved with three times less metal oxide powder if NiO/H 2 SO 4 suspensions are used along with stainless steel anodes. The reason for the enormous improvement in OER performance by adding NiO to the electrolyte is the weakening of the intramolecular O─H bond in the water molecules, which is under the direct influence of the nickel oxide suspended in the electrolyte. The manipulation of bonds in water molecules to increase the tendency of the water to split is a ground‐breaking development, as shown in this first example.    
+
+    
+
+## Rapid Conversion from Alloy Nanoparticles to Oxide Nanowires: Strain Wave‐Driven Ru‐O‐Mn Collaborative Catalysis for Durable Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392043167    
+Open access: False
+    
+[Mingyue Xiao](https://openalex.org/A5033919058), [Jingjun Liu](https://openalex.org/A5011453447), [Rongchao Li](https://openalex.org/A5056852886), [Yang Sun](https://openalex.org/A5002847748), [Feng Liu](https://openalex.org/A5060470951), [Jianying Gan](https://openalex.org/A5034184642), [Shixin Gao](https://openalex.org/A5029544282), Small. None(None)] 2024.https://doi.org/10.1002/smll.202400754.
+    
+Abstract Metal‐doped ruthenium oxides with low prices have gained widespread attention due to their editable compositions, distorted structures, and diverse morphologies for electrocatalysis. However, the mainstream challenge lies in breaking the so‐called seesaw relationship between activity and stability during acidic oxygen evolution reaction (OER). Herein, strain wave‐featured Mn‐RuO 2 nanowires (NWs) with asymmetric Ru‐O‐Mn bonds are first fabricated by thermally driven rapid solid phase conversion from RuMn alloy nanoparticles (NPs) at moderate temperature (450 °C). In 0.5 M H 2 SO 4 , the resultant NWs display a surprisingly ultralow overpotential of 168 mV at 10 mA cm –2 and run at a stable cell voltage (1.67 V) for 150 h at 50 mA cm –2 in PEMWE, far exceeding IrO 2 ||Pt/C assemble. The simultaneous enhancement of both activity and stability stems from the presence of dense strain waves composed of alternating compressive and tensile ones in the distorted NWs, which collaboratively activate the Ru‐O‐Mn sites for faster OER. More importantly, the atomic strain waves trigger dynamic Ru‐O‐Mn regeneration via the refilling of oxygen vacancies by oxyanions adsorbed on adjacent Mn and Ru sites, achieving long‐term stability. This work opens a door to designing non‐precious metal‐assisted ruthenium oxides with unique strains for practical application in commercial PEMWE.    
+
+    
+
+## Nitrogen-doped Carbon Layer Encapsulating NiFeP Nanosheet Arrays as High-performance Electrocatalyst for Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392056073    
+Open access: False
+    
+[Shuai Wang](https://openalex.org/A5059816962), [Weiye Shi](https://openalex.org/A5034955183), [Qinling Zhou](https://openalex.org/A5070966509), [Ye Zhang](https://openalex.org/A5082117229), [Chunqing Huo](https://openalex.org/A5037000770), [Shengjue Deng](https://openalex.org/A5080563301), [Shen Lin](https://openalex.org/A5012185971), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.173933.
+    
+No abstract    
+
+    
+
 ## The role of strain in oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4392122210    
@@ -345,6 +346,28 @@ Open access: False
 [Jyoti Raghav](https://openalex.org/A5003445703), [P. Rosaiah](https://openalex.org/A5045408244), [Bandar Ali Al‐Asbahi](https://openalex.org/A5051674509), [Soumyendu Roy](https://openalex.org/A5001688048), Energy Technology. None(None)] 2024.https://doi.org/10.1002/ente.202301355.
     
 Oxygen evolution reaction (OER) is an integral step in the water‐splitting process. Hence, to promote OER, efficient catalysts are required to lower the energy barriers at the electrode/electrolyte interface. Low‐cost and highly active catalysts are in great demand. Herein, a ternary metal oxide, CoCuMnO x , synthesized by a facile hydrothermal method is reported, which possesses excellent catalytic ability for OER in alkaline electrolytes. The nanoscale morphology of the catalyst with flower‐like nanostructures is instrumental in increasing the electrochemical surface area of the electrode. The presence of multivalent ions and the incorporation of copper greatly enhance the electrochemical properties of the catalysts. The catalysts typically demonstrate an overpotential value of 220 mV for achieving 10 mA cm −2 current density and a Tafel slope of 73 mV dec −1 . The catalysts demonstrate good stability with minimal degradation in OER activity even after 20 h of chronopotentiometry test. For practical applications, this low‐cost material holds great potential.    
+
+    
+
+## Distance effect of single atoms on stability of cobalt oxide catalysts for acidic oxygen evolution   
+
+OpenAlex: https://openalex.org/W4392153698    
+Open access: True
+    
+[Z. D. Zhang](https://openalex.org/A5000151255), [Chuanyi Jia](https://openalex.org/A5046463704), [Peiyu Ma](https://openalex.org/A5063955135), [Feng Chen](https://openalex.org/A5021979312), [Yang Jin](https://openalex.org/A5071791749), [Jian Huang](https://openalex.org/A5041677976), [Jian‐Guo Zheng](https://openalex.org/A5049713859), [Ming J. Zuo](https://openalex.org/A5043676611), [Mingkai Liu](https://openalex.org/A5045653991), [Shiming Zhou](https://openalex.org/A5039567536), [Jie Zeng](https://openalex.org/A5075571728), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-46176-0 ([pdf](https://www.nature.com/articles/s41467-024-46176-0.pdf)).
+    
+Abstract Developing efficient and economical electrocatalysts for acidic oxygen evolution reaction (OER) is essential for proton exchange membrane water electrolyzers (PEMWE). Cobalt oxides are considered promising non-precious OER catalysts due to their high activities. However, the severe dissolution of Co atoms in acid media leads to the collapse of crystal structure, which impedes their application in PEMWE. Here, we report that introducing acid-resistant Ir single atoms into the lattice of spinel cobalt oxides can significantly suppress the Co dissolution and keep them highly stable during the acidic OER process. Combining theoretical and experimental studies, we reveal that the stabilizing effect induced by Ir heteroatoms exhibits a strong dependence on the distance of adjacent Ir single atoms, where the OER stability of cobalt oxides continuously improves with decreasing the distance. When the distance reduces to about 0.6 nm, the spinel cobalt oxides present no obvious degradation over a 60-h stability test for acidic OER, suggesting potential for practical applications.    
+
+    
+
+## Exfoliation of Metal–Organic Frameworks to Give 2D MOF Nanosheets for the Electrocatalytic Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392156438    
+Open access: False
+    
+[Peng Wu](https://openalex.org/A5049967323), [Shuang Geng](https://openalex.org/A5039931061), [Xinyu Wang](https://openalex.org/A5021984184), [Xinglong Zhang](https://openalex.org/A5039734738), [Hongfeng Li](https://openalex.org/A5007884941), [Lulu Zhang](https://openalex.org/A5070961992), [Yu Shen](https://openalex.org/A5037726491), [Baoli Zha](https://openalex.org/A5057374450), [Suoying Zhang](https://openalex.org/A5086476705), [Fengwei Huo](https://openalex.org/A5040039962), [Weina Zhang](https://openalex.org/A5023634611), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202402969.
+    
+The structure and properties of materials are determined by a diverse range of chemical bond formation and breaking mechanisms, which greatly motivates the development of selectively controlling the chemical bonds in order to achieve materials with specific characteristics. Here, an orientational intervening bond‐breaking strategy is demonstrated for synthesizing ultrathin metal–organic framework (MOF) nanosheets through balancing the process of thermal decomposition and liquid nitrogen exfoliation. In such approach, proper thermal treatment can weaken the interlayer bond while maintaining the stability of the intralayer bond in the layered MOFs. And the following liquid nitrogen treatment results in significant deformation and stress in the layered MOFs’ structure due to the instant temperature drop and drastic expansion of liquid N2, leading to the curling, detachment, and separation of the MOF layers. The produced MOF nanosheets with five cycles of treatment are primarily composed of nanosheets that are less than 10 nm in thickness. The MOF nanosheets exhibit enhanced catalytic performance in oxygen evolution reactions owing to the ultrathin thickness without capping agents which provide improved charge transfer efficiency and dense exposed active sites. This strategy underscores the significance of orientational intervention in chemical bonds to engineer innovative materials.    
 
     
 

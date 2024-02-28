@@ -4,109 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Feb 2024 00:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 00:43:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Catalyzing Sustainable Water Splitting with Single Atom Catalysts: Recent Advances</title>
-      <link>https://doi.org/10.1002/tcr.202300330</link>
-      <description>Niharul Alam, Tayyaba N&#1086;&#1086;r, Naseem Iqbal, The Chemical Record. None(None)] 2024. https://openalex.org/W4391926985
-
-                Abstract Electrochemical water splitting for sustainable hydrogen and oxygen production have shown enormous potentials. However, this method needs low&#8208;cost and highly active catalysts. Traditional nano catalysts, while effective, have limits since their active sites are mostly restricted to the surface and edges, leaving interior surfaces unexposed in redox reactions. Single atom catalysts (SACs), which take advantage of high atom utilization and quantum size effects, have recently become appealing electrocatalysts. Strong interaction between active sites and support in SACs have considerably improved the catalytic efficiency and long&#8208;term stability, outperforming their nano&#8208;counterparts. This review&#8216;s first section examines the Hydrogen Evolution Reaction (HER) and the Oxygen Evolution Reaction (OER). In the next section, SACs are categorized as noble metal, non&#8208;noble metal, and bimetallic synergistic SACs. In addition, this review emphasizes developing methodologies for effective SAC design, such as mass loading optimization, electrical structure modulation, and the critical role of support materials. Finally, Carbon&#8208;based materials and metal oxides are being explored as possible supports for SACs. Importantly, for the first time, this review opens a discussion on waste&#8208;derived supports for single atom catalysts used in electrochemical reactions, providing a cost&#8208;effective dimension to this vibrant research field. The well&#8208;known design techniques discussed here may help in development of electrocatalysts for effective water splitting.</description>
-      <author>Niharul Alam, Tayyaba N&#1086;&#1086;r, Naseem Iqbal</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202300330</guid>
-    </item>
-    <item>
-      <title>Density&#8208;Functional Theory Studies on Photocatalysis and Photoelectrocatalysis: Challenges and Opportunities</title>
-      <link>https://doi.org/10.1002/solr.202300948</link>
-      <description>Chi&#8208;Hui Lin, Jyoti Rohilla, Hsuan&#8208;Hung Kuo, Chun-yi Chen, Tso&#8208;Fu Mark Chang, Masato Sone, Pravin P. Ingole, Yu&#8208;Chieh Lo, Yung&#8208;Jung Hsu, Solar RRL. None(None)] 2024. https://openalex.org/W4391929686
-
-                Density&#8208;functional theory (DFT) is pivotal in the advancement of photocatalysis and photoelectrocatalysis. Its capability to explore electronic structures of materials contributes significantly to clarifying the mechanisms of photocatalytic (PC) and photoelectrocatalytic (PEC) processes. DFT calculations enable a deeper understanding of how these processes work at a molecular level, which is essential for designing versatile photocatalysts and photoelectrodes and optimizing reaction pathways. In this perspective, key PC and PEC applications, such as H 2 production, CO 2 reduction, dye degradation, and N 2 reduction, where DFT is instrumental in optimizing materials designs and reaction pathways, are highlighted. Exploration on the synergy between experimental research and DFT calculations is highlighted, which is crucial for the development of efficient and environmentally friendly energy solutions. The discussion further extends to challenges and future directions, emphasizing the need for incorporating factors, including discrepancy in scale, light illumination, electrolyte presence, and applied bias, into DFT calculations, to achieve a more comprehensive understanding of PC and PEC systems. In this perspective, it is aimed to provide a holistic view of the current state and potential advancements in photocatalyst and photoelectrode modeling, thereby guiding future research toward more effective and sustainable energy and chemical production processes in PC and PEC systems.</description>
-      <author>Chi&#8208;Hui Lin, Jyoti Rohilla, Hsuan&#8208;Hung Kuo, Chun-yi Chen, Tso&#8208;Fu Mark Chang, Masato Sone, Pravin P. Ingole, Yu&#8208;Chieh Lo, Yung&#8208;Jung Hsu</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/solr.202300948</guid>
-    </item>
-    <item>
-      <title>Photoelectrocatalytic activation of sulfate for sulfamethoxazole degradation and simultaneous H2 production by bifunctional N,P co-doped black-blue TiO2 nanotube array electrode</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149828</link>
-      <description>Shan Li, Guoquan Zhang, Dong Meng, Fenglin Yang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4391931133
-
-                No abstract</description>
-      <author>Shan Li, Guoquan Zhang, Dong Meng, Fenglin Yang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149828</guid>
-    </item>
-    <item>
-      <title>The NOMAD mini-apps: A suite of kernels from ab initio electronic structure codes enabling co-design in high-performance computing</title>
-      <link>https://doi.org/10.12688/openreseurope.16920.1</link>
-      <description>Isidre Mas Magre, Ricardo Torres, Jos&#233; Mar&#237;a Cela Esp&#237;n, Julio Gutierrez Moreno, Open research Europe. 4(None)] 2024. https://openalex.org/W4391933077
-
-                This article introduces a suite of mini-applications (mini-apps) designed to optimise computational kernels in ab initio electronic structure codes. The suite is developed from flagship applications participating in the NOMAD Center of Excellence, such as the ELPA eigensolver library and the GW implementations of the exciting, Abinit, and FHI-aims codes. The mini-apps were identified by targeting functions that significantly contribute to the total execution time in the parent applications. This strategic selection allows for concentrated optimisation efforts. The suite is designed for easy deployment on various High-Performance Computing (HPC) systems, supported by an integrated CMake build system for straightforward compilation and execution. The aim is to harness the capabilities of emerging (post)exascale systems, which necessitate concurrent hardware and software development &#8212; a concept known as co-design. The mini-app suite serves as a tool for profiling and benchmarking, providing insights that can guide both software optimisation and hardware design. Ultimately, these developments will enable more accurate and efficient simulations of novel materials, leveraging the full potential of exascale computing in material science research.</description>
-      <author>Isidre Mas Magre, Ricardo Torres, Jos&#233; Mar&#237;a Cela Esp&#237;n, Julio Gutierrez Moreno</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12688/openreseurope.16920.1</guid>
-    </item>
-    <item>
-      <title>kinisi: Bayesian analysis of mass transport from molecular dynamics simulations</title>
-      <link>https://doi.org/10.21105/joss.05984</link>
-      <description>Andrew R. McCluskey, Alexander G. Squires, Josh W. Dunn, Samuel W. Coles, Benjamin J. Morgan, Journal of open source software. 9(94)] 2024. https://openalex.org/W4391933289
-
-                No abstract</description>
-      <author>Andrew R. McCluskey, Alexander G. Squires, Josh W. Dunn, Samuel W. Coles, Benjamin J. Morgan</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21105/joss.05984</guid>
-    </item>
-    <item>
-      <title>Role of single-atom alloy catalysts in electrochemical conversion of carbon dioxide: A theoretical study</title>
-      <link>https://doi.org/10.1016/j.ces.2024.119910</link>
-      <description>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4391933654
-
-                Atomic-scale understanding of C-C coupling in the electrocatalytic conversion of carbon dioxide (CO2) into valuable C2 chemicals remains elusive. Herein, we selected Group VIII and IB transition metals as active sites incorporated into the Cu(1 0 0) surface to construct single-atom alloy catalysts. The stability, selectivity, and activity of a series of catalysts were calculated using density functional theory. Fe, Co, Ni, Ru/Cu(1 0 0) exhibit the potential as candidates to generate C2 products and suppress the hydrogen evolution reaction (HER). The reaction proceeds through the reduction of CO2 to key intermediates *CO and *CHO, which undergoes C-C coupling to generate *CO-CHO, subsequently undergoing different protonation processes to yield diverse C2 products. The rate-determining step for Fe, Co, Ni, and Ru/Cu(1 0 0), is the hydrogenation of *CO, with a comparable energy barrier of 0.8 eV. Moreover, Fe and Co/Cu(1 0 0) favor the formation of C2H4 as the primary product, while Ni and Ru/Cu(1 0 0) predominantly produce CH3COOH.</description>
-      <author>Jingnan Wang, Kunpeng Zhao, Yi Ding, Yongan Yang, Xi Wu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119910</guid>
-    </item>
-    <item>
-      <title>Methane sulfonic acid-assisted synthesis of g-C3N4/Ni2P/Ni foam: Efficient, stable and recyclable for photocatalytic nitrogen fixation under visible light</title>
-      <link>https://doi.org/10.1016/j.jece.2024.112276</link>
-      <description>Xianqiang Gao, Bowen Zhang, Lulu Cao, Fei Liu, Hai Fan, Chuanjun Wang, Junjie Xu, Journal of Environmental Chemical Engineering. None(None)] 2024. https://openalex.org/W4391940943
-
-                No abstract</description>
-      <author>Xianqiang Gao, Bowen Zhang, Lulu Cao, Fei Liu, Hai Fan, Chuanjun Wang, Junjie Xu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.112276</guid>
-    </item>
-    <item>
-      <title>The Special Activity of Stone&#8211;Wales Defect Graphene for the Oxygen Reduction Reaction: A Comparison Study between the Charge-Neutral Model and the Constant Potential Model Calculated by Density Functional Theory</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c08035</link>
-      <description>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Xuebo Chen, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4391942912
-
-                No abstract</description>
-      <author>Pengfei Yuan, Chong Li, Jianan Zhang, Fei Wang, Xuebo Chen</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08035</guid>
-    </item>
-    <item>
-      <title>Selective Oxidation of the Intermetallic Compound PtAl&lt;sub&gt;2&lt;/sub&gt; from Ab Initio Thermodynamics</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06290</link>
-      <description>Wei Xie, Chunhua Cai, Guangwen Zhou, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4391945161
-
-                No abstract</description>
-      <author>Wei Xie, Chunhua Cai, Guangwen Zhou</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06290</guid>
-    </item>
-    <item>
-      <title>Alkali Containing Layered Metal Oxides as Catalysts for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/celc.202300761</link>
-      <description>Mario Falsaperna, Rosa Arrigo, Frank Marken, Simon J. Freakley, ChemElectroChem. None(None)] 2024. https://openalex.org/W4391948002
-
-                Abstract Improving the efficiency of the oxygen evolution reaction (OER) is essential to realise energy systems based on water electrolysis. Many catalysts have been developed for the OER to date, with iridium&#8208;based oxides being the most promising due to their relative stability towards corrosion in acidic electrolytes under oxidising potentials. In recent years, examples of catalysts adopting layered structures have been shown to have promising characteristics such as higher conductivity and higher electrochemically active surface area compared to highly crystalline metal oxides. Furthermore, such materials possess additional tuneable properties such as interlayer spacing, identity and concentration of the interlayer species, edge and interlayer active sites, and higher active surface area. Recent attention has focused on mono&#8208; and polymetallic lithium&#8208;containing layered materials, where the presence of interlayer lithium cations, in situ delithiation processes and combinations of transition metal oxides result in enhanced catalytic properties towards OER. This review aims to provide a summary of the recent developments of such layered materials, in which lithium or other alkali metal ions occupy interlayer sites in oxides.</description>
-      <author>Mario Falsaperna, Rosa Arrigo, Frank Marken, Simon J. Freakley</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202300761</guid>
-    </item>
     <item>
       <title>Catalyst Selection over an Electrochemical Reductive Coupling Reaction toward Direct Electrosynthesis of Oxime from NO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; and Aldehyde</title>
       <link>https://doi.org/10.1021/jacs.3c14687</link>
@@ -258,6 +158,106 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41570-024-00575-5</guid>
     </item>
     <item>
+      <title>Machine-learned atomic cluster expansion potentials for fast and quantum-accurate thermal simulations of wurtzite AlN</title>
+      <link>https://doi.org/10.1063/5.0188905</link>
+      <description>Yang Guang, Y. Liu, Lei Yang, Bing&#8208;Yang Cao, Journal of Applied Physics. 135(8)] 2024. https://openalex.org/W4392048091
+
+                Thermal transport in wurtzite aluminum nitride (w-AlN) significantly affects the performance and reliability of corresponding electronic devices, particularly when lattice strains inevitably impact the thermal properties of w-AlN in practical applications. To accurately model the thermal properties of w-AlN with high efficiency, we develop a machine learning interatomic potential based on the atomic cluster expansion (ACE) framework. The predictive power of the ACE potential against density functional theory (DFT) is demonstrated across a broad range of properties of w-AlN, including ground-state lattice parameters, specific heat capacity, coefficients of thermal expansion, bulk modulus, and harmonic phonon dispersions. Validation of lattice thermal conductivity is further carried out by comparing the ACE-predicted values to the DFT calculations and experiments, exhibiting the overall capability of our ACE potential in sufficiently describing anharmonic phonon interactions. As a practical application, we perform a lattice dynamics analysis using the potential to unravel the effects of biaxial strains on thermal conductivity and phonon properties of w-AlN, which is identified as a significant tuning factor for near-junction thermal design of w-AlN-based electronics.</description>
+      <author>Yang Guang, Y. Liu, Lei Yang, Bing&#8208;Yang Cao</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0188905</guid>
+    </item>
+    <item>
+      <title>Scholar Metrics Scraper (SMS): automated retrieval of citation and author data</title>
+      <link>https://doi.org/10.3389/frma.2024.1335454</link>
+      <description>Y. S. Cao, Nicole A. Cheung, Dean Giustini, Jeffrey LeDue, Timothy H. Murphy, Frontiers in Research Metrics and Analytics. 9(None)] 2024. https://openalex.org/W4392057301
+
+                Academic departments, research clusters and evaluators analyze author and citation data to measure research impact and to support strategic planning. We created Scholar Metrics Scraper (SMS) to automate the retrieval of bibliometric data for a group of researchers. The project contains Jupyter notebooks that take a list of researchers as an input and exports a CSV file of citation metrics from Google Scholar (GS) to visualize the group's impact and collaboration. A series of graph outputs are also available. SMS is an open solution for automating the retrieval and visualization of citation data.</description>
+      <author>Y. S. Cao, Nicole A. Cheung, Dean Giustini, Jeffrey LeDue, Timothy H. Murphy</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/frma.2024.1335454</guid>
+    </item>
+    <item>
+      <title>Triple Play of Band Gap, Interband, and Plasmonic Excitations for Enhanced Catalytic Activity in Pd/H&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MoO&lt;sub&gt;3&lt;/sub&gt; Nanoparticles in the Visible Region</title>
+      <link>https://doi.org/10.1021/acsami.3c17101</link>
+      <description>Leticia S. Bezerra, Samir A. Belhout, Shiqi Wang, Jhon Quiroz, P. M. S. Oliveira, Shwetha Shetty, George J. M. Rocha, Hugo Leandro Sousa dos Santos, Sana Frindy, Freddy E. Oropeza, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Antti&#8208;Jussi Kallio, Simo Huotari, Wenyi Huo, Pedro H. C. Camargo, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4392058068
+
+                Plasmonic photocatalysis has been limited by the high cost and scalability of plasmonic materials, such as Ag and Au. By focusing on earth-abundant photocatalyst/plasmonic materials (HxMoO3) and Pd as a catalyst, we addressed these challenges by developing a solventless mechanochemical synthesis of Pd/HxMoO3 and optimizing photocatalytic activities in the visible range. We investigated the effect of HxMoO3 band gap excitation (at 427 nm), Pd interband transitions (at 427 nm), and HxMoO3 localized surface plasmon resonance (LSPR) excitation (at 640 nm) over photocatalytic activities toward the hydrogen evolution and phenylacetylene hydrogenation as model reactions. Although both excitation wavelengths led to comparable photoenhancements, a 110% increase was achieved under dual excitation conditions (427 + 640 nm). This was assigned to a synergistic effect of optical excitations that optimized the generation of energetic electrons at the catalytic sites. These results are important for the development of visible-light photocatalysts based on earth-abundant components.</description>
+      <author>Leticia S. Bezerra, Samir A. Belhout, Shiqi Wang, Jhon Quiroz, P. M. S. Oliveira, Shwetha Shetty, George J. M. Rocha, Hugo Leandro Sousa dos Santos, Sana Frindy, Freddy E. Oropeza, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Antti&#8208;Jussi Kallio, Simo Huotari, Wenyi Huo, Pedro H. C. Camargo</author>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17101</guid>
+    </item>
+    <item>
+      <title>Two-Dimensional SiH/g-C3N4 van der Waals Type-II Heterojunction Photocatalyst: A New Effective and Promising Photocatalytic Material</title>
+      <link>https://doi.org/10.3390/coatings14030263</link>
+      <description>Qi Wang, Qian Zhu, Lei Cao, Liangdong Fan, Feng Gu, Ying Zhang, Cao Zheng, Shixian Xiong, Liang Xu, Coatings. 14(3)] 2024. https://openalex.org/W4392081661
+
+                The two-dimensional layered heterostructure have been demonstrated as an effective method for achieving efficient photocatalytic hydrogen production. In this work, we propose, for the first time, the creation of van der Waals heterostructures from monolayers of SiH and g-C3N4 using first-principle calculations. We also systematically investigated additional properties for the first time, such as the electronic structure and optical behavior of van der Waals heterostructures composed of SiH and g-C3N4 monolayers. The results of this study show that the SiH/g-C3N4 heterostructure is categorized as a type-II heterostructure, which has a bandgap of 2.268 eV. Furthermore, the SiH/g-C3N4 heterostructure interface was observed to efficiently separate and transfer photogenerated charges, resulting in an enhanced photocatalytic redox performance. Moreover, the calculation of HOMO (Highest occupied molecular orbital) and LUMO (Least unoccupied molecular orbital) and charge density difference can further confirm that the SiH/g-C3N4 heterojunction is a type-II heterojunction, which has excellent photocatalytic hydrogen production and water decomposition performance. In addition, the SiH/g-C3N4 heterostructure exhibited excellent HER (Hydrogen evolution reaction) efficiency. This is essential for the process of photocatalytic water splitting. In SiH/g-C3N4 heterojunctions, the redox potential required for water splitting is spanned by the band edge potential. Calculating the absorption spectra, it was discovered that the SiH/g-C3N4 heterostructure possesses outstanding optical properties within the visible-light range, implying its high efficiency in photocatalytic hydrogen production. This research provides a broader research direction for the investigation of novel efficient photocatalysts and offers effective theoretical guidance for future efficient photocatalysts.</description>
+      <author>Qi Wang, Qian Zhu, Lei Cao, Liangdong Fan, Feng Gu, Ying Zhang, Cao Zheng, Shixian Xiong, Liang Xu</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/coatings14030263</guid>
+    </item>
+    <item>
+      <title>The Advancement of Catalysts for Proton&#8208;Exchange Membrane Fuel Cells</title>
+      <link>https://doi.org/10.1002/9783527831005.ch9</link>
+      <description>Yi Cheng, Shuangyin Wang, No host. None(None)] 2024. https://openalex.org/W4392092382
+
+                No abstract</description>
+      <author>Yi Cheng, Shuangyin Wang</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/9783527831005.ch9</guid>
+    </item>
+    <item>
+      <title>Catalytic mechanism of sulfur-nitrogen doping metal single-atom graphene-based catalysts for the conversion of CO2 to CH4: a computational study</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.108470</link>
+      <description>Xiangying Lv, Jingyuan Guo, Jiewei Zhan, Guo&#8208;Jun Kang, Xiaoxing Liu, Materials Today Communications. None(None)] 2024. https://openalex.org/W4392093379
+
+                No abstract</description>
+      <author>Xiangying Lv, Jingyuan Guo, Jiewei Zhan, Guo&#8208;Jun Kang, Xiaoxing Liu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.108470</guid>
+    </item>
+    <item>
+      <title>Dipole Effect on Oxygen Evolution Reaction of 2D Janus Single-Atom Catalysts: A Case of Rh Anchored on the &lt;i&gt;P&lt;/i&gt;6&lt;i&gt;m&lt;/i&gt;2-NP Configurations</title>
+      <link>https://doi.org/10.1021/acs.jpclett.3c03148</link>
+      <description>Tao Huang, Yaping Zhong, Lei Li, Wan Hui, Can Leng, Gui&#8208;Fang Huang, Wangyu Hu, Wei&#8208;Qing Huang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392093761
+
+                Catalytic performance of single-atom catalysts (SACs) relies fundamentally on the electronic nature and local coordination environment of the active site. Here, based on a machine-learning (ML)-aided density functional theory (DFT) method, we reveal that the intrinsic dipole in Janus materials has a significant impact on the catalytic activity of SACs, using 2D &#947;-phosphorus carbide (&#947;-PC) as a model system. Specifically, a local dipole around the active site is a key degree to tune the catalytic activity and can be used as an important descriptor with a high feature importance of 17.1% in predicting the difference of adsorption free energy (&#916;GO* &#8211; &#916;GOH*) to assess the activity of the oxygen evolution reaction. As a result, the catalytic performance of SACs can be tuned by an intrinsic dipole, in stark contrast to those external stimuli strategies previously used. These results suggest that dipole engineering and the revolutionary DFT-ML hybrid scheme are novel approaches for designing high-performance catalysts.</description>
+      <author>Tao Huang, Yaping Zhong, Lei Li, Wan Hui, Can Leng, Gui&#8208;Fang Huang, Wangyu Hu, Wei&#8208;Qing Huang</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03148</guid>
+    </item>
+    <item>
+      <title>Protective effects of Pt-N-C single-atom nanozymes against myocardial ischemia-reperfusion injury</title>
+      <link>https://doi.org/10.1038/s41467-024-45927-3</link>
+      <description>Tianbao Ye, Cheng Chen, Di Wang, Chengjie Huang, Zhe Yan, Yu Chen, Xian Jin, Xiuyuan Wang, Yiyang Li, Chengxing Shen, Nature Communications. 15(1)] 2024. https://openalex.org/W4392094779
+
+                Abstract Effective therapeutic strategies for myocardial ischemia/reperfusion (I/R) injury remain elusive. Targeting reactive oxygen species (ROS) provides a practical approach to mitigate myocardial damage following reperfusion. In this study, we synthesize an antioxidant nanozyme, equipped with a single-Platinum (Pt)-atom (PtsaN-C), for protecting against I/R injury. PtsaN-C exhibits multiple enzyme-mimicking activities for ROS scavenging with high efficiency and stability. Mechanistic studies demonstrate that the excellent ROS-elimination performance of the single Pt atom center precedes that of the Pt cluster center, owing to its better synergistic effect and metallic electronic property. Systematic in vitro and in vivo studies confirm that PtsaN-C efficiently counteracts ROS, restores cellular homeostasis and prevents apoptotic progression after I/R injury. PtsaN-C also demonstrates good biocompatibility, making it a promising candidate for clinical applications. Our study expands the scope of single-atom nanozyme in combating ROS-induced damage and offers a promising therapeutic avenue for the treatment of I/R injury.</description>
+      <author>Tianbao Ye, Cheng Chen, Di Wang, Chengjie Huang, Zhe Yan, Yu Chen, Xian Jin, Xiuyuan Wang, Yiyang Li, Chengxing Shen</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45927-3</guid>
+    </item>
+    <item>
+      <title>Cerium doped graphene-based materials towards oxygen reduction reaction catalysis</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.108461</link>
+      <description>Lanna E.B. Lucchetti, Pedro Alves da Silva Autreto, Mauro C. Santos, J. Almeida, Materials Today Communications. None(None)] 2024. https://openalex.org/W4392103933
+
+                No abstract</description>
+      <author>Lanna E.B. Lucchetti, Pedro Alves da Silva Autreto, Mauro C. Santos, J. Almeida</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.108461</guid>
+    </item>
+    <item>
+      <title>Defect engineering in transition&#8208;metal (Fe, Co, and Ni)&#8208;based electrocatalysts for water splitting</title>
+      <link>https://doi.org/10.1002/cey2.485</link>
+      <description>Kaili Wu, Chaojie Lyu, Jiarun Cheng, Wenqiang Ding, Jiwen Wu, Qian Wang, Woon&#8208;Ming Lau, Jinlong Zheng, Carbon energy. None(None)] 2024. https://openalex.org/W4392104756
+
+                Abstract Electrocatalytic water splitting seems to be an efficient strategy to deal with increasingly serious environmental problems and energy crises but still suffers from the lack of stable and efficient electrocatalysts. Designing practical electrocatalysts by introducing defect engineering, such as hybrid structure, surface vacancies, functional modification, and structural distortions, is proven to be a dependable solution for fabricating electrocatalysts with high catalytic activities, robust stability, and good practicability. This review is an overview of some relevant reports about the effects of defect engineering on the electrocatalytic water splitting performance of electrocatalysts. In detail, the types of defects, the preparation and characterization methods, and catalytic performances of electrocatalysts are presented, emphasizing the effects of the introduced defects on the electronic structures of electrocatalysts and the optimization of the intermediates' adsorption energy throughout the review. Finally, the existing challenges and personal perspectives of possible strategies for enhancing the catalytic performances of electrocatalysts are proposed. An in&#8208;depth understanding of the effects of defect engineering on the catalytic performance of electrocatalysts will light the way to design high&#8208;efficiency electrocatalysts for water splitting and other possible applications.</description>
+      <author>Kaili Wu, Chaojie Lyu, Jiarun Cheng, Wenqiang Ding, Jiwen Wu, Qian Wang, Woon&#8208;Ming Lau, Jinlong Zheng</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.485</guid>
+    </item>
+    <item>
       <title>Local-environment-guided selection of atomic structures for the development of machine-learning potentials</title>
       <link>https://doi.org/10.1063/5.0187892</link>
       <description>Renzhe Li, Chuan Zhou, Amankumar Singh, Yong Pei, Graeme Henkelman, Lei Li, The Journal of Chemical Physics. 160(7)] 2024. https://openalex.org/W4392014929
@@ -266,16 +266,6 @@
       <author>Renzhe Li, Chuan Zhou, Amankumar Singh, Yong Pei, Graeme Henkelman, Lei Li</author>
       <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0187892</guid>
-    </item>
-    <item>
-      <title>Modeling the Effects of Varying the Ti Concentration on the Mechanical Properties of Cu&#8211;Ti Alloys</title>
-      <link>https://doi.org/10.1021/acsomega.3c07561</link>
-      <description>Vasileios Fotopoulos, Corey S. O&#8217;Hern, Mark D. Shattuck, Alexander L. Shluger, ACS Omega. None(None)] 2024. https://openalex.org/W4391933315
-
-                The mechanical properties of CuTi alloys have been characterized extensively through experimental studies. However, a detailed understanding of why the strength of Cu increases after a small fraction of Ti atoms are added to the alloy is still missing. In this work, we address this question using density functional theory (DFT) and molecular dynamics (MD) simulations with the modified embedded atom method (MEAM) interatomic potentials. First, we performed calculations of the uniaxial tension deformations of small bicrystalline Cu cells using DFT static simulations. We then carried out uniaxial tension deformations on much larger bicrystalline and polycrystalline Cu cells by using MEAM MD simulations. In bicrystalline Cu, the inclusion of Ti increases the grain boundary separation energy and the maximum tensile stress. The DFT calculations demonstrate that the increase in the tensile stress can be attributed to an increase in the local charge density arising from Ti. MEAM simulations in larger bicrystalline systems have shown that increasing the Ti concentration decreases the density of the stacking faults. This observation is enhanced in polycrystalline Cu, where the addition of Ti atoms, even at concentrations as low as 1.5 atomic (at.) %, increases the yield strength and elastic modulus of the material compared to pure Cu. Under uniaxial tensile loading, the addition of small amounts of Ti hinders the formation of partial Shockley dislocations in the grain boundaries of Cu, leading to a reduced level of local deformation. These results shed light on the role of Ti in determining the mechanical properties of polycrystalline Cu and enable the engineering of grain boundaries and the inclusion of Ti to improve degradation resistance.</description>
-      <author>Vasileios Fotopoulos, Corey S. O&#8217;Hern, Mark D. Shattuck, Alexander L. Shluger</author>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c07561</guid>
     </item>
     <item>
       <title>Density functional theory study of dissociative adsorption of O2 on Pd-skin Pd3Cu(1 1 1) surface</title>
