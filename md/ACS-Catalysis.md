@@ -1,142 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Feb 28 00:42:58 2024
+Created on Thu Feb 29 00:43:18 2024
 
-Found 25 results from 2024-02-21 to 2024-02-28
+Found 25 results from 2024-02-22 to 2024-02-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Facet-Dependent Oxygen Mobility and Reaction Pathways for Oxidative Dehydrogenation of 1-Butene over Bi2MoO6   
-
-OpenAlex: https://openalex.org/W4391954093    
-Open access: False
-    
-[Qinyang Zhao](https://openalex.org/A5066740638), [Xinglin Hou](https://openalex.org/A5054555763), [Xiaoling Liu](https://openalex.org/A5037414724), [Mingben Chong](https://openalex.org/A5046837708), [Dang-guo Cheng](https://openalex.org/A5057307441), [Fengqiu Chen](https://openalex.org/A5078614480), [Xiaoli Zhan](https://openalex.org/A5054301490), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00014.
-    
-The crystal facet effect is a critical factor for catalytic reactions on metal oxides due to the different atomic arrangements and physicochemical properties of diverse facets. Based on a series of combined experimental and theoretical measurements, this work investigates facet-dependent oxygen mobility and reaction pathways for the oxidation dehydrogenation (ODH) of 1-butene to 1,3-butadiene on Bi2MoO6, which exposes the {001} and {010} facets (BMO-001 and BMO-010). The results show that the oxygen mobility of BMO-001 overwhelmingly outperforms that of BMO-010, reflecting the better capacities for selective abstraction of H from 1-butene, oxygen replenishment, and bulk lattice oxygen migration. Density functional theory (DFT) calculations indicate that the rate-determining step on the {001} facet is the abstraction of the first H in 1-butene and the abstraction of the second H on the {010} facet. The existence of the [Bi2O2]2+ layer provides a favorable channel with a low-energy barrier for bulk lattice oxygen migration toward the {001} facet. Besides, complex side reactions occur on the {010} facet, including the nonselective oxidation of 1-butene, aromatization of 1-butene, and the generation of CO and subsequent formates. The total oxidation and decomposition of byproducts result in extra CO2 formation pathways. Lattice and gaseous oxygen play different roles in the above reactions. The superior oxygen mobility contributes to the high 1,3-butadiene yield for BMO-001, while the extra CO2 formation pathways lead to an abnormally high CO2 yield for BMO-010. The generated aromatic coke and formates affect the catalytic stability of BMO-010. The facet-dependent oxygen mobility and reaction pathways result in a distinct catalytic performance for 1-butene ODH.    
-
-    
-
-## Reactant-Induced Dynamic Stabilization of Highly Dispersed Pt Catalysts on Ceria Dictating the Reactivity of CO Oxidation   
-
-OpenAlex: https://openalex.org/W4391960667    
-Open access: False
-    
-[Chen Chen](https://openalex.org/A5063253432), [J. H. Chen](https://openalex.org/A5065179197), [Feng Li](https://openalex.org/A5042754358), [Jianyu Hu](https://openalex.org/A5053866420), [Xuting Chai](https://openalex.org/A5049686530), [Jin‐Xun Liu](https://openalex.org/A5083885267), [Wei‐Xue Li](https://openalex.org/A5055160391), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05590.
-    
-No abstract    
-
-    
-
-## Selective Light Hydrocarbon Production from CO2 Hydrogenation over Na/ZnFe2O4 and CHA-Zeolite Hybrid Catalysts   
-
-OpenAlex: https://openalex.org/W4391962385    
-Open access: False
-    
-[Eun Cheol](https://openalex.org/A5010426528), [Kwang Hyun Kim](https://openalex.org/A5015699501), [Ju Hyeong Lee](https://openalex.org/A5030105303), [Sejin Jang](https://openalex.org/A5011263889), [Hyo Eun Kim](https://openalex.org/A5033294084), [Jin Ho Lee](https://openalex.org/A5091323069), [Eun Hyup Kim](https://openalex.org/A5074132019), [Haneul Kim](https://openalex.org/A5069395205), [Ja Hun Kwak](https://openalex.org/A5020130636), [Jin Ho Lee](https://openalex.org/A5010021409), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00099.
-    
-Carbon dioxide hydrogenation to value-added fuels and chemicals has been studied widely as a means to recycle the most-troublesome greenhouse gas. The reaction produces hundreds of different chemicals, and therefore, selectivity control toward specific desired products is of paramount importance. In this study, a hybrid catalyst system consisting of Na/ZnFe2O4 (ZFO) and a CHA-zeolite (SSZ-13 or SAPO-34) is developed to maximize C2–C4 light hydrocarbon production. Utilizing the compact 3.8 Å pore size of CHA-zeolites, the Na/ZnFe2O4 catalyst-produced long-chain hydrocarbons are efficiently shortened to C2–C4 hydrocarbons with over 55% selectivity in the hybrid systems. Notably, ZFO + SAPO-34 shows a preference for light olefins, while ZFO + SSZ-13 uniquely enhances selectivity for C3 products. The difference is attributed to the much stronger acid sites present in SSZ-13 than in SAPO-34, which promote hydrogenation of olefins and the ethylene-to-propane conversion reaction in particular. Further modification of SSZ-13 with steam treatment leads to the dealumination of its framework and an enhanced activity of the ethylene-to-propane reaction, yielding 32.8% of C3-selectivity. Accordingly, a hybrid catalytic system combining a CO2 Fischer–Tropsch catalyst with a CHA-zeolite is a promising route to produce light hydrocarbons from CO2 hydrogenation more selectively than single catalysts. This work also demonstrates that acidity control could be a powerful tool to manipulate the reaction pathway that occurs on zeolite catalysts.    
-
-    
-
-## Influence of Solvents on Catalytic C–H Bond Oxidation by a Copper(II)–Alkylperoxo Complex   
-
-OpenAlex: https://openalex.org/W4391966230    
-Open access: False
-    
-[Yuri Lee](https://openalex.org/A5071287711), [Bohee Kim](https://openalex.org/A5071819181), [S.C. Kim](https://openalex.org/A5037676293), [Elvis Wang Hei Ng](https://openalex.org/A5032928208), [Shinya Ariyasu](https://openalex.org/A5026169219), [Shoji Okada](https://openalex.org/A5073588774), [Sungho Yoon](https://openalex.org/A5088135920), [Hajime Hirao](https://openalex.org/A5048588199), [Jaeheung Cho](https://openalex.org/A5023832222), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05643.
-    
-Oxidation of unactivated alkanes, which requires substantial energy for conversion to valuable organic chemicals, is a major challenge in both industry and academia. Herein, we describe how solvents affect and improve the catalytic oxidation ability of a mononuclear copper(II)–alkylperoxo complex, [CuII(iPr3-tren)(OOC(CH3)2Ph)]+ (1, iPr3-tren = tris[2-(isopropylamino)ethyl]amine), toward hydrocarbon substrates. 1 was prepared by adding cumene hydroperoxide and triethylamine to the solution of [Cu(iPr3-tren)(CH3CN)]2+, which was characterized using various physicochemical methods. Product analyses, along with theoretical calculations, indicate that homolytic O–O bond cleavage occurs during the thermal decomposition of 1 at 60 °C in various solvents such as CH3CN, CH3COCH3, C6H5CF3, and C6H6. Both experimental results and density functional theory (DFT) calculations supported variations in the catalytic activity of 1 depending on solvents. In CH3CN and CH3COCH3, 1 activates weak C–H bonds (bond dissociation energy (BDE) ≤ ∼81.6 kcal mol–1), while 1 in C6H5CF3 and C6H6 can oxidize slightly stronger C–H bonds with a BDE of up to 84.5 kcal mol–1. In supercritical carbon dioxide (SC-CO2), 1 can oxidize alkanes with strong C–H bonds, such as cyclohexane (99.5 kcal mol–1). The enhanced C–H bond oxidation of 1 in C6H5CF3, C6H6, and SC-CO2 was generally attributed to two different factors: (a) the nonpolarity of the solvent and (b) the absence of C(sp3)–H bonds in the solvent. Interestingly, in CH2Cl2, a nonpolar solvent with C(sp3)–H bonds, 1 exhibited similar reactivity to that in C6H5CF3, indicating that nonpolar solvents enhance the catalytic ability of copper(II)–cumylperoxo complex to abstract hydrogen atoms from substrates, regardless of the presence of C(sp3)–H bonds in solvent molecules. DFT calculations employing an implicit solvent model further supported the enhanced reactivity, without the need to account for the presence of a C(sp3)–H bond. The reactivity of the different possible reactive intermediates arising from the catalytic oxidation was also explored using DFT calculations. This study provides a perspective on how solvents can be utilized to modulate the catalytic effects on C–H bond activation.    
-
-    
-
-## Design of Ancestral Sortase E that is Applicable in Protein Biomaterial Synthesis   
-
-OpenAlex: https://openalex.org/W4391970017    
-Open access: False
-    
-[Azusa Miyata](https://openalex.org/A5003209535), [Taichi Chisuga](https://openalex.org/A5037242367), [Akira Kambe](https://openalex.org/A5007397302), [Ryo Miyata](https://openalex.org/A5034123646), [Yui Kawamura](https://openalex.org/A5074729200), [Hiroyuki Takeda](https://openalex.org/A5078618329), [Sohei Ito](https://openalex.org/A5037114896), [Shogo Nakano](https://openalex.org/A5068648492), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00487.
-    
-Protein biomaterials would have the potential to address global challenges in health and environment. Numerous production methods of the biomaterials exist, with sortase-mediated ligation (SML) being one of the representative technique. SML facilitates the site-specific conjugation of two compounds: donor peptides or proteins with a cell wall sorting signal at their C-terminus and nucleophiles that have oligoglycine at their N-terminal. In our research, we reconstructed an ancestral sortase E, named AcSE5, through a combination of sequence data mining and ancestral sequence reconstruction. AcSE5, a Ca2+ independent sortase, recognizes donors with LAETG at their C-termini and can employ both peptides bearing GGG- or GAA-at N-terminus and straight-chained alkylamines as nucleophiles. The enzyme can achieve efficient peptide conjugation, exceeding 70% under optimal conditions. With AcSE5, we synthesized two protein conjugates: Venus-conjugated shark variable new antigen receptor (VNAR) and dual-conjugated VNAR via poly(ethylene) glycol diamine. Direct enzyme immobilization to amino-terminated polystyrene beads was also achieved using AcSE5. The resultant beads, when conjugated with hyper-thermostable ancestral l-amino acid oxidases (HTAncLAAO2), can be employed for deracemization of various racemic amino acids into d-form. For three of phenylalanine derivatives, preparative-scale (100 mg scale) deracemization can be achieved. This process provides high enantiopurity (>99% ee) and isolation yields (>64%) through chemoenzymatic reactions. The immobilized HTAncLAAO2 showed complete resistance to 10 repeated reactions for a total of 240 h. AcSE5 is an excellent enzyme for SML applications.    
-
-    
-
-## Alanyl-tRNA Synthetase-like Enzyme-Catalyzed Aminoacylation in Nucleoside Sulfamate Ascamycin Biosynthesis   
-
-OpenAlex: https://openalex.org/W4391972423    
-Open access: False
-    
-[Yu Zheng](https://openalex.org/A5079670930), [Naoko Morita](https://openalex.org/A5070694863), [Hiroshi Takagi](https://openalex.org/A5050788544), [Yumi Shiozaki-Sato](https://openalex.org/A5004540211), [Jun Ishikawa](https://openalex.org/A5080908654), [Kazuo Shin‐ya](https://openalex.org/A5055131198), [Shunji Takahashi](https://openalex.org/A5021597347), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05667.
-    
-The adenosine 5′-monophosphate-mimicking nucleoside sulfamates are pharmaceutically important compounds that target aminoacyl-tRNA synthetases (aaRSs) and other adenylate-forming enzymes. Ascamycin (1) is a unique naturally occurring alanyl adenosine sulfamate isolated from Streptomyces sp. 80H647. In this study, we successfully enhanced the in vivo conversion of dealanylascamycin (2) to ascamycin by constitutively expressing an extra copy of bldA and adpA regulatory genes. More importantly, we performed gene expression analysis and protein structure–function prediction to identify alanyl-tRNA synthetase (AlaRS)-like enzymes: AcmF and AcmD. AcmF efficiently catalyzes the aminoacylation reaction during ascamycin biosynthesis, and this reaction is dependent on the Ala-tRNAAla supplied by AcmD. AcmF is a truncated AlaRS-like enzyme containing only the aminoacylation and tRNA recognition domains, whereas AcmD has an intact AlaRS-like architecture that efficiently supports AcmF activity by exhibiting resistance to the AcmF-produced ascamycin. In addition, we have produced the glycyl- and seryl-derivatives of ascamycin using the AcmD-AcmF enzyme pair. The mechanistic study identified Glu232 and several residues that play important roles in AcmF catalysis. To the best of our knowledge, AcmF is a representative class II aaRS-like enzyme catalyzing tRNA-dependent aminoacylation during natural product biosynthesis. These findings provide a potential chemoenzymatic approach for the synthesis of aminoacyl nucleoside sulfamates.    
-
-    
-
-## Designing Local Electron Delocalization in 2D Covalent Organic Frameworks for Enhanced Sunlight-Driven Photocatalytic Activity   
-
-OpenAlex: https://openalex.org/W4391972463    
-Open access: False
-    
-[Xiaochen Zhang](https://openalex.org/A5088406552), [Xianhui Xu](https://openalex.org/A5015123614), [Kangna Zhang](https://openalex.org/A5088557025), [Zhiyong Li](https://openalex.org/A5049328355), [Jianji Wang](https://openalex.org/A5027696701), [Xiaochen Zhang](https://openalex.org/A5088406552), [Jikuan Qiu](https://openalex.org/A5003078964), [Jianji Wang](https://openalex.org/A5027696701), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05648.
-    
-Electron delocalization is a versatile method to tune the electronic structure of materials for maximizing their maximizing performances. Herein, TPBD covalent organic frameworks (COFs) with controlled electron-delocalization characteristics (denoted as TPBD-R-COF, R = H, F, CN, and NO2) were synthesized by molecular engineering to systematically investigate the effect of electron delocalization on photocatalytic performance. We found that the photocatalytic performance can be enhanced by modulating local electron delocalization in COFs. The photocatalytic activity of TPBD-CN-COF is more than 12 times greater than that of TPBD-H-COF in oxidative coupling of amines to imines, where the yield of product was increased from 8 to 99%. The experimental results and theoretical calculations revealed that TPBD-CN-COF with the optimal electron-attracting group of −CN shows the highest charge separation efficiency and electron transport rate, while excessive electron delocalization is not better for such properties. Our findings provide a strategy to design and optimize the photocatalytic performance of COF-based catalysts.    
-
-    
-
-## Atomically Dispersed Palladium Driving Reductive Catalytic Fractionation of Lignocellulose into Alkene-Functionalized Phenols   
-
-OpenAlex: https://openalex.org/W4391980645    
-Open access: False
-    
-[Shuizhong Wang](https://openalex.org/A5003492672), [Xiancheng Li](https://openalex.org/A5003654383), [Chao Fu](https://openalex.org/A5020773915), [Helong Li](https://openalex.org/A5026345769), [Guoyong Song](https://openalex.org/A5016601068), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05461.
-    
-No abstract    
-
-    
-
-## Selective Cascading Hydroboration of N-Heteroarenes via Cobalt Catalysis   
-
-OpenAlex: https://openalex.org/W4391983174    
-Open access: False
-    
-[Ruibin Wang](https://openalex.org/A5042232273), [Dongwook Kim](https://openalex.org/A5089080509), [Sehoon Park](https://openalex.org/A5067309414), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06208.
-    
-No abstract    
-
-    
-
-## Coverage-Induced Cation Dehydration and Migration for Enhanced CO–CO Coupling on Cu Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4391983620    
-Open access: False
-    
-[Huimin Yan](https://openalex.org/A5001220614), [Zisheng Zhang](https://openalex.org/A5004503548), [Yang‐Gang Wang](https://openalex.org/A5077960687), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05812.
-    
-No abstract    
-
-    
-
-## Influence of Carbon Nanotube Support on Electrochemical Nitrate Reduction Catalyzed by Cobalt Phthalocyanine Molecules   
-
-OpenAlex: https://openalex.org/W4391983621    
-Open access: False
-    
-[Nia J. Harmon](https://openalex.org/A5034761109), [Jingchao Li](https://openalex.org/A5046499103), [Bernie T. Wang](https://openalex.org/A5039366865), [Yuanzuo Gao](https://openalex.org/A5050967989), [Hailiang Wang](https://openalex.org/A5049541666), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05540.
-    
-No abstract    
-
-    
-
-## Highly Selectively Methane Photooxidation to CH3OH and HCHO over an Integrated Fe2O3/WO3 Heterojunction Greatly Promoted by Iron(III) Chloride   
-
-OpenAlex: https://openalex.org/W4391984254    
-Open access: False
-    
-[Wen‐Hao Zhou](https://openalex.org/A5014561688), [Yongqing Ma](https://openalex.org/A5049768020), [Congshan Zhu](https://openalex.org/A5013295789), [M. Wang](https://openalex.org/A5023500346), [Ganhong Zheng](https://openalex.org/A5002771918), [Yue Lü](https://openalex.org/A5027781308), [Meiling Wang](https://openalex.org/A5010484877), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05391.
-    
-No abstract    
-
-    
 
 ## Designing an Efficient Biocatalyst for the Phosphoribosylation of Antiviral Pyrazine-2-carboxamide Derivatives   
 
@@ -278,5 +146,137 @@ Open access: False
 [Jia-Peng Liao](https://openalex.org/A5031303790), [Mi Zhang](https://openalex.org/A5036897639), [Pei Huang](https://openalex.org/A5088520193), [Long‐Zhang Dong](https://openalex.org/A5033346425), [Tiantian Ma](https://openalex.org/A5051237661), [Guo‐Zhang Huang](https://openalex.org/A5076445689), [Yu-Fei Liu](https://openalex.org/A5087095278), [Meng Lu](https://openalex.org/A5023725539), [Shun-Li Li](https://openalex.org/A5000509449), [Ya‐Qian Lan](https://openalex.org/A5003081708), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06078.
     
 In recent years, significant progress has been achieved in the field of three-dimensional covalent organic frameworks (3D COFs). However, there is still a great challenge to use flexible building units to synthesize high-connectivity 3D COFs. In this work, we showed that [6 + 3] 3D COFs could be constructed by inducing highly flexible planar building blocks from C3 antitriangular prismed 3D building blocks. Herein, two 3D COFs with spn topology based on flexible cyclotriphosphazene units were constructed and denoted as TAA/TAB-CTP-COF, and their redox ability and photophysical features can be finely regulated by the coupled functional group, such as benzene and triazine groups. As a result, the redox heteromotif molecular junction TAA-CTP-COF with fully exposed active sites achieved high photocatalytic production of hydrogen peroxide (H2O2) with a yield of 1041 μM h–1 without any additional photosensitizers, organic scavengers, or cocatalysts. Furthermore, in the presence of an electron donor, the production rate of H2O2 could reach up to 2221 μM h–1, exhibiting one of the best performances for photocatalytic H2O2 production in the field of crystalline materials. This work showcases the potential of using flexible building blocks in building 3D COFs and highlights the versatility and efficacy of metal-free COFs in solar energy conversion.    
+
+    
+
+## Effect of Mixing Order of Si and Al Sources on the Inner Architecture and Catalytic Performance of ZSM-5 Zeolites   
+
+OpenAlex: https://openalex.org/W4392044042    
+Open access: False
+    
+[Yongjia Shen](https://openalex.org/A5078511712), [Shang Zhang](https://openalex.org/A5005587950), [Zhengxing Qin](https://openalex.org/A5086387355), [Antoine Beuque](https://openalex.org/A5086043321), [Ludovic Pinard](https://openalex.org/A5039064903), [Shunsuke Asahina](https://openalex.org/A5000750902), [Naoki Asano](https://openalex.org/A5078914737), [Ruizhe Zhang](https://openalex.org/A5003393009), [Jiaqi Zhao](https://openalex.org/A5031124649), [Fan Yang](https://openalex.org/A5011639404), [Xinmei Liu](https://openalex.org/A5071363074), [Yan Zhang](https://openalex.org/A5086664284), [Svetlana Mintova](https://openalex.org/A5027944064), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00262.
+    
+The performance of zeolites in catalysis and adsorption is closely related to their inner architecture beneath the crystal surface, which however remains less studied due to characterization limitations. Here we report the synthesis of two ZSM-5 zeolite samples by changing only the order of mixing of Si and Al sources, resulting not only in morphological differences of the zeolite crystals but most importantly in defined distinction in their inner architecture. The spatial Si and Al distributions and structural properties of the ZSM-5 zeolite crystals were characterized by high-resolution microscopy under chemically unbiased defect-selective NH4F etching. The Al-zoning and structural features in the ZSM-5 zeolite crystals were explained by the biased nucleation in the Si-rich aluminosilicate amorphous precursor followed by multistage crystal growth in a heterogeneous feedstock. This observation was associated with the different solubility and reactivity of the microscopic aluminosilicate domains with various Si/Al ratios in the amorphous precursors. The zeolites with diverse structural properties showed a high cracking activity in n-hexane cracking reaction and different activity, stability, and product selectivity in the ethylene dehydroaromatization (EDA) reaction. The comprehensive understanding of the zeolite synthesis history and their performance in the EDA reaction revealed the chemical mixing-dependent synthesis–structure–performance correlation of the zeolite catalyst.    
+
+    
+
+## Supervised AI and Deep Neural Networks to Evaluate High-Entropy Alloys as Reduction Catalysts in Aqueous Environments   
+
+OpenAlex: https://openalex.org/W4392044082    
+Open access: True
+    
+[Rafael B. Araujo](https://openalex.org/A5060552376), [Tomas Edvinsson](https://openalex.org/A5056174579), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05017.
+    
+No abstract    
+
+    
+
+## Catalytic Enantioselective Cycloaddition Transformation of Tricyclic Arenes Enabled by a Dual-Role Chiral Cage-Reactor   
+
+OpenAlex: https://openalex.org/W4392049487    
+Open access: False
+    
+[Jie Chen](https://openalex.org/A5010479652), [Xueyuan Wu](https://openalex.org/A5037215225), [Huang Sisi](https://openalex.org/A5031722825), [Jie Yang](https://openalex.org/A5002828878), [Yu‐Lin Lu](https://openalex.org/A5083424283), [Zhiwei Jiao](https://openalex.org/A5008346135), [Cheng‐Yong Su](https://openalex.org/A5002170896), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06361.
+    
+No abstract    
+
+    
+
+## Ultrathin Holey Pt–M Alloy Nanosheets via Sequential Kinetic–Thermodynamic Metal Reduction Control   
+
+OpenAlex: https://openalex.org/W4392078691    
+Open access: False
+    
+[Heon Chul Kim](https://openalex.org/A5034416833), [Respati K. Pramadewandaru](https://openalex.org/A5004515260), [Mrinal Kanti Kabiraz](https://openalex.org/A5055068849), [Ghufran Aulia Bin Azizar](https://openalex.org/A5092359573), [Hafidatul Wahidah](https://openalex.org/A5030417545), [Youngmin Kim](https://openalex.org/A5000965572), [Su‐Un Lee](https://openalex.org/A5044344225), [Ho‐Jeong Chae](https://openalex.org/A5087136199), [Sang‐Il Choi](https://openalex.org/A5026994173), [Jong Wook Hong](https://openalex.org/A5038083964), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05806.
+    
+No abstract    
+
+    
+
+## Investigation of the Relationship between Metal Loading and Acidic Oxygen Evolution Reaction Activity in Single-Atom Catalysts   
+
+OpenAlex: https://openalex.org/W4392084683    
+Open access: False
+    
+[Bing Tang](https://openalex.org/A5035223262), [Xiaolong Zhang](https://openalex.org/A5059787769), [Qianqian Ji](https://openalex.org/A5020016810), [Gao Min](https://openalex.org/A5017197771), [Huijuan Wang](https://openalex.org/A5036519850), [Ruiqi Liu](https://openalex.org/A5067669061), [Peng Jiang](https://openalex.org/A5017430213), [Hengjie Liu](https://openalex.org/A5005402696), [Chao Wang](https://openalex.org/A5055838753), [Hao Tan](https://openalex.org/A5069910699), [Wensheng Yan](https://openalex.org/A5052333339), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06263.
+    
+No abstract    
+
+    
+
+## Synergistic Dual Catalysis in Stereodivergent Synthesis   
+
+OpenAlex: https://openalex.org/W4392095563    
+Open access: False
+    
+[Liang Wei](https://openalex.org/A5071261513), [Chu-Li Fu](https://openalex.org/A5086781782), [Zuo-Fei Wang](https://openalex.org/A5064765338), [Hai‐Yan Tao](https://openalex.org/A5028556048), [Chun‐Jiang Wang](https://openalex.org/A5014921160), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06267.
+    
+No abstract    
+
+    
+
+## Fast Kinetics of Hydrogen Oxidation Reaction on Single-Atom Ce-Alloyed Ru in Alkaline Electrolytes   
+
+OpenAlex: https://openalex.org/W4392130607    
+Open access: False
+    
+[Zhiyu Cheng](https://openalex.org/A5031779825), [Yang Yang](https://openalex.org/A5050709202), [Fangcai Zheng](https://openalex.org/A5011694527), [Shi Chen](https://openalex.org/A5021077043), [Peichen Wang](https://openalex.org/A5008620166), [Pengcheng Wang](https://openalex.org/A5044971912), [Hao Huang](https://openalex.org/A5053505040), [Changlai Wang](https://openalex.org/A5084793778), [Dongdong Wang](https://openalex.org/A5052077971), [Qianwang Chen](https://openalex.org/A5014087781), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05954.
+    
+The kinetics of anodic hydrogen oxidation reaction (HOR) in alkaline media, even catalyzed by the state-of-the-art Pt catalysts, is much lower than that in acidic electrolytes, which is a significant barrier for the development of high-performance anion-exchange membrane fuel cells (AEMFCs). Based on the difference in catalytic mechanism under alkaline and acidic conditions, we suggest that the sluggish HOR in alkaline media is due to the involvement of hydroxyl in Heyrovsky or Volmer steps, and this can be improved by forcing HOR on active sites via the mechanism like that in acidic media. Herein, we prepared a single-atom Ce-alloyed Ru catalyst (Ce1Ru/C) in which Ce atoms could adsorb abundant OH– owing to its much stronger oxophilicity compared to that of Ru. Therefore, the nearest neighbor Ru atoms around Ce atoms become the adsorption sites for Had which would react with the surrounding adsorbed water to form H3O+ad. A key H3O+ad intermediate on the surface of Ce1Ru/C during HOR in alkaline media was detected by in situ Raman spectroscopy, providing direct evidence for the HOR in alkaline media occurring via steps similar to those in acidic media. Even at 30 mV overpotential, Ce1Ru/C still displays rapid reaction kinetics with high mass and specific activity about 27/59 and 5/12 times higher than those of Pt/C and PtRu/C. The activity of our catalyst is the best among various alkaline HOR electrocatalysts reported so far. Moreover, Ce1Ru/C demonstrates high electrochemical stability and CO tolerance, taking a giant step forward toward the commercialization of AEMFCs.    
+
+    
+
+## Tailoring Cu–Zn Dual-Atom Sites with Reordering d-Orbital Splitting Manner for Highly Efficient Acetylene Semihydrogenation   
+
+OpenAlex: https://openalex.org/W4392151390    
+Open access: False
+    
+[Yuxue Yue](https://openalex.org/A5041925870), [Bolin Wang](https://openalex.org/A5043076197), [Chunxiao Jin](https://openalex.org/A5003840280), [Kaixin Huang](https://openalex.org/A5042557504), [Qi Zhou](https://openalex.org/A5082830043), [Renqin Chang](https://openalex.org/A5070649067), [Saisai Wang](https://openalex.org/A5039823100), [Zhiyan Pan](https://openalex.org/A5081603750), [Jia Zhao](https://openalex.org/A5081362621), [Xiaonian Li](https://openalex.org/A5013409727), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05779.
+    
+The design of inexpensive, nontoxic, and abundant transition metal catalysts for the selective hydrogenation of alkynes remains a significant challenge faced by both the industrial and academic communities. Here, we report a novel catalyst comprising a well-defined Cu–Zn dual-atom catalyst supported on defective pyrolyzed ZIF-8 material (CuZn/NC2), resulting in enhanced d-electron domination near the Fermi level and reordered d-orbital Splitting manner. This catalyst exhibited outstanding performance in the selective hydrogenation of acetylene to ethylene, demonstrating high conversion rates (97%), remarkable selectivity (97.5%), and excellent stability (over 70 h). The unique structural characteristics of Cu–Zn dual-atom sites, anchored to the carrier through Cu–N3&Zn–N3 configurations, ensured effective acetylene activation and easy desorption of ethylene. These features are pivotal to the catalyst’s exceptional activity and selectivity. This work presents a new approach to the design of nonprecious metal catalysts for the selective hydrogenation of acetylene.    
+
+    
+
+## Unraveling the Catalytic Mechanism of Taxadiene-5α-hydroxylase from Crystallography and Computational Analyses   
+
+OpenAlex: https://openalex.org/W4392153563    
+Open access: False
+    
+[Xitong Song](https://openalex.org/A5058387546), [Qian Wang](https://openalex.org/A5046225712), [Xianfang Zhu](https://openalex.org/A5018246468), [Wenhan Fang](https://openalex.org/A5048633322), [Xiaonan Liu](https://openalex.org/A5088610294), [Chao Shi](https://openalex.org/A5075232788), [Zhenzhan Chang](https://openalex.org/A5044629554), [Huifeng Jiang](https://openalex.org/A5035488620), [Binju Wang](https://openalex.org/A5091278358), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05807.
+    
+Paclitaxel is a famous chemotherapeutic agent, but its microbial production poses a long-standing challenge due to its poor product selectivity. Taxadiene-5α-hydroxylase (CYP725A4) plays a crucial role in the biosynthesis of paclitaxel, catalyzing the oxidation of taxadiene and iso-taxadiene. This process yields several products, including the byproducts 5(12)-oxa-3(11)-cyclotaxane (OCT) and 5(11)-oxa-3(11)-cyclotaxane (iso-OCT), as well as the target compound taxadien-5α-ol (T5OH). Despite extensive studies, the molecular mechanism of CYP725A4-catalyzed transformations is still elusive, which could impede our understanding of further engineering of the paclitaxel biosynthetic pathway. In this study, the crystal structure of CYP725A4 in complex with taxadiene is elucidated. Through comprehensive computational analyses, the catalytic mechanisms of CYP725A4 in the biosynthesis of natural paclitaxel are deciphered. Our calculations indicate that the oxidation of taxadiene affords a zwitterion intermediate, which can undergo two competing transformation routes. One involves the formation of epoxide, which further undergoes the water-mediated rearrangement to form the T5OH product. In the alternative pathway, protonation of the oxygen in the zwitterion intermediate facilitates subsequent hydride transfer and carbon–oxygen coupling, resulting in the side products OCT/iso-OCT. Contrary to taxadiene, hydroxylation at C5 of iso-taxadiene directly yields the target product T5OH. These crystallographic studies and computational analyses have yielded valuable insights into the catalytic mechanisms of CYP725A4 and laid the foundation for the further engineering of CYP725A4.    
+
+    
+
+## Friedel–Crafts Alkylation of Toluene by Methyl Mercaptan: Effect of Topology and Acidity of Zeolite Catalysts   
+
+OpenAlex: https://openalex.org/W4392162425    
+Open access: False
+    
+[Abdelilah Bayout](https://openalex.org/A5083873232), [Claudia Cammarano](https://openalex.org/A5031682083), [Izabel C. Medeiros-Costa](https://openalex.org/A5014041459), [Gleb Veryasov](https://openalex.org/A5043136293), [Vasile Hulea](https://openalex.org/A5031046889), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06088.
+    
+The catalytic behaviors of zeolites with MFI, FAU, BEA, MOR, and MWW topologies and Si/Al ratios between 10 and 19 were examined in the toluene alkylation by methyl mercaptan (CH3SH). Over all catalysts, at 375 °C, the reagents have been primarily consumed in alkylation reactions, and only less than 2% of CH3SH led to the formation of light hydrocarbons. Based on extensive experiments, we showed that the crucial variables affecting the activity, the selectivity, and the deactivation of the catalysts were their pore size/architecture and the amount of the acid sites. ZSM-5 (MFI, Si/Al = 15) outperformed the other zeolites, exhibiting higher selectivity in alkylation and substantially higher resistance to the deactivation.    
+
+    
+
+## Phosphines on Colloidal Nickel Nanocatalysts to Lower the Onset Temperature of Terminal Alkynes Hydrogenation   
+
+OpenAlex: https://openalex.org/W4392162453    
+Open access: False
+    
+[Karim Azouzi](https://openalex.org/A5057941203), [Anthony Ropp](https://openalex.org/A5087178810), [Sophie Carenco](https://openalex.org/A5088702558), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00054.
+    
+Catalysis by colloidal suspensions of metal nanoparticles (NPs) is becoming more and more attractive as it may combine mild reaction conditions with the use of organic ligands as surface modifiers. While most examples focus on increasing the selectivity of the catalytic process, there is also an opportunity to use the ligands to boost the conversion and trigger the onset of activity at a temperature where NPs alone would not be active. This may be achieved because the ligands modify the electronic and steric environments at the surface active site. In this work, we show that phosphines with adequate steric hindrance (e.g., PnBu3 and PiBu3) lower the onset temperature for phenylacetylene hydrogenation by nickel NPs under 7 bar of H2, by ca 10 to 20 °C depending on the NP diameter. This result is not expected to have practical repercussions for the reaction at stake, as it is already well-mastered; yet, it is of conceptual value because the hydrogenation may have been driven by the frustrated Lewis pair (FLP) between the Lewis basic phosphine and the Lewis acid nickel surface, forming a so-called “NanoFLP”. We investigated this proposal using 10 phosphines and used a stereoelectronic map to rationalize their ability to boost the conversion, showing that moderately hindered and fairly donating phosphines are most adequate. Moreover, we demonstrated that less than 2 phosphines per Ni surface atom are enough for the effect to arise. We showed that other terminal alkynes, like 1-octyne, can be hydrogenated with this method. Lastly, a comparison of conversions for 5 para-substituted phenylacetylenes was used to discuss the effects of electronic donation and steric hindrance at the surface active site.    
+
+    
+
+## Regulation of Oxygen Activation Pathways to Optimize Photocatalytic Methane Oxidative Coupling Selectivity   
+
+OpenAlex: https://openalex.org/W4392164219    
+Open access: False
+    
+[Jiangjie Zhang](https://openalex.org/A5065195802), [Junhui Zhang](https://openalex.org/A5089384187), [Jinni Shen](https://openalex.org/A5082881286), [Dongmiao Li](https://openalex.org/A5041519507), [Jinlin Long](https://openalex.org/A5066416838), [Wenxin Dai](https://openalex.org/A5048886876), [Xuxu Wang](https://openalex.org/A5041955281), [Zizhong Zhang](https://openalex.org/A5066639664), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06016.
+    
+Photocatalytic oxidative coupling of methane (POCM) is a direct way for the methane transformation into ≥C2 alkanes. However, the typical oxygen activation path often leads to the formation of strong oxidizing superoxide radical (O2–) species, which makes the whole reaction face serious selectivity problems. Herein, we constructed N and oxygen vacancy dual active sites on TiO2{001} nanosheets (TiO2–NVo) to regulate the oxygen activation pathway and achieve a high activity and selectivity of photocatalytic OCM. Compared with ordinary Au/TiO2{001} nanosheets, the alkane yields of Au/TiO2–NVo are increased from 16 μmol h–1 to 32 μmol h–1, and the selectivity of alkanes increased from 61% to 93%. The performance is superior when compared with the reported till date in photocatalytic OCM in batch reactors. The superior performance originates from the unique N–Vo dual active sites for synergistically cleaving the detrimental O2– into desirable mono-oxygen active species (O·–) to suppress undesired overoxidation reaction. The formed O·– species from O2– dissociation, in turn, is active for the selective H abstraction of CH4 into •CH3 to improve the subsequent C–C coupling reaction on the Au nanocluster surface. This work provides a new approach of O2 dissociation to address the overoxidation of methane in an aerobic environment for achieving highly selective CH4 conversion.    
 
     
