@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Feb 29 00:43:17 2024
+Created on Fri Mar  1 00:48:56 2024
 
-Found 32 results from 2024-02-22 to 2024-02-29
+Found 31 results from 2024-02-23 to 2024-03-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Carbon Dioxide Electroreduction and Formic Acid Oxidation by Formal Nickel(I) Complexes of Di‐isopropylphenyl Bis‐iminoacenaphthene   
-
-OpenAlex: https://openalex.org/W4391996987    
-Open access: False
-    
-[Vera V. Khrizanforova](https://openalex.org/A5005398637), [Robert R. Fayzullin](https://openalex.org/A5029544797), [Sergey Kartashov](https://openalex.org/A5048595722), [В. И. Морозов](https://openalex.org/A5045939832), [Mikhail Khrizanforov](https://openalex.org/A5090357376), [Tatyana Gerasimova](https://openalex.org/A5053779338), [Yulia H. Budnikova](https://openalex.org/A5032597266), Chemistry - A European Journal. None(None)] 2024.https://doi.org/10.1002/chem.202400168.
-    
-Processing CO2 into value‐added chemicals and fuels stands as one of the most crucial tasks in addressing the global challenge of the greenhouse effect. In this study, we focused on the complex (dpp‐bian)NiBr2 (where dpp‐bian is di‐isopropylphenyl bis‐iminoacenaphthene) as a precatalyst for the electrochemical reduction of CO2 into CH4 as the sole product. Cyclic voltammetry results indicate that the realization of a catalytically effective pattern requires the three‐electron reduction of (dpp‐bian)NiBr2. The chemically reduced complexes [K(THF)6]+[(dpp‐bian)Ni(COD)]– and [K(THF)6]+[(dpp‐bian)2Ni]– were synthesized and structurally characterized. Analyzing the data from the electron paramagnetic resonance study of the complexes in a solution, along with quantum‐chemical calculations, reveals that the spin density is predominantly localized at their metal centers. The superposition of trajectory maps of the electron density gradient field and the one‐electron electrostatic force field, along with the atomic charges, discloses that, within the first coordination sphere, the interatomic charge transfer occurs from the metal atom to the ligand atoms and that the complex anions can thus be formally described by the general formulas (dpp‐bian)2–Ni+(COD) and (dpp‐bian)2–Ni+. It was shown that the reduced nickel complexes can be oxidized by formic acid; resulting from this reaction, the two‐electron and two‐proton addition product dpp‐bian‐2H is formed.    
-
-    
 
 ## Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on InTaO4   
 
@@ -205,17 +194,6 @@ No abstract
 
     
 
-## The implementation of intelligent edification to improve the energy efficiency and CO2 emission’s reduction   
-
-OpenAlex: https://openalex.org/W4392008284    
-Open access: False
-    
-[Surichaqui Alvarez Sebastian Amulek](https://openalex.org/A5093973079), [Castro Casas Alexis Del Piero](https://openalex.org/A5093973080), No host. None(None)] 2023.https://doi.org/10.1109/c358072.2023.10436172.
-    
-No abstract    
-
-    
-
 ## Engineering hydrophobicity and high-index planes of gold nanostructures for highly selective electrochemical CO2 reduction to CO and efficient CO2 capture   
 
 OpenAlex: https://openalex.org/W4392184761    
@@ -257,17 +235,6 @@ Open access: False
 [Quhan Chen](https://openalex.org/A5045896637), [Hongqing Zhu](https://openalex.org/A5005274186), [Zhiqiang Guo](https://openalex.org/A5052043342), [Zijun Yan](https://openalex.org/A5085330395), [Gang Yang](https://openalex.org/A5081592461), [Yan‐Song Zheng](https://openalex.org/A5042425447), [Yalan Xing](https://openalex.org/A5010797894), [Hongfeng Yin](https://openalex.org/A5015880241), [Tom Wu](https://openalex.org/A5043731569), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4739940.
     
 Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
-
-## Reduction of CO2 in the Presence of Light via Excited-state Hydride Transfer Reaction in a NADPH-inspired Derivative   
-
-OpenAlex: https://openalex.org/W4392006911    
-Open access: False
-    
-[Bojana Ostojić](https://openalex.org/A5068757149), [Branislav Stanković](https://openalex.org/A5006146774), [Dragana Đorđević](https://openalex.org/A5026875974), [Peter Schwerdtfeger](https://openalex.org/A5071867820), Physical Chemistry Chemical Physics. None(None)] 2024.https://doi.org/10.1039/d3cp05635j.
-    
-The photo-catalytic reduction of CO2 into chemical feedstocks using solar energy has attracted vast interest in environmental science because of global warming. Based on our previous study on the CO2...    
 
     
 
@@ -356,5 +323,27 @@ Open access: True
 [Jin Wook Lim](https://openalex.org/A5074996146), [Dong Heon Choo](https://openalex.org/A5083793010), [Jin Hyuk Cho](https://openalex.org/A5033788799), [Jae Hyun Kim](https://openalex.org/A5031754381), [Won Seok Cho](https://openalex.org/A5032972345), [Odongo Francis Ngome Okello](https://openalex.org/A5071892233), [Ki-Soo Kim](https://openalex.org/A5015011368), [Sungwon Lee](https://openalex.org/A5055973826), [Junwoo Son](https://openalex.org/A5032162545), [Si‐Young Choi](https://openalex.org/A5022054837), [Jong Kyu Kim](https://openalex.org/A5079427906), [Ho Won Jang](https://openalex.org/A5067575191), [Soo Young Kim](https://openalex.org/A5083183967), [Jong‐Lam Lee](https://openalex.org/A5074670180), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d3ta06399b ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ta/d3ta06399b)).
     
 Electrochemical reduction of CO2 to chemical fuels with transition metal-based single atom catalyst (SAC) offers a promising strategy to reduce CO2 with high catalytic selectivity. To date, the study of...    
+
+    
+
+## Analyses of Port Infrastructure Investment and Shore Power Subsidy Policies for Inland Container Transportation Network with CO2 Emission Reduction Targets   
+
+OpenAlex: https://openalex.org/W4392173419    
+Open access: True
+    
+[Xiaofeng Ma](https://openalex.org/A5074506944), [Xia Pan](https://openalex.org/A5005595781), [Zhong Ming](https://openalex.org/A5017054985), [Z.J. Wang](https://openalex.org/A5020543377), International Journal of Shipping and Transport Logistics. 1(1)] 2024.https://doi.org/10.1504/ijstl.2024.10062557.
+    
+No abstract    
+
+    
+
+## Effect of octahedral occupancy of bimetal-doping and CO2-induced surface reconstruction on oxygen reduction reaction of cobalt-based perovskite oxides   
+
+OpenAlex: https://openalex.org/W4392145417    
+Open access: False
+    
+[Haocong Wang](https://openalex.org/A5026810495), [Wenka Zhu](https://openalex.org/A5046863535), [Jian Gong](https://openalex.org/A5033246962), [Gao Min](https://openalex.org/A5017197771), [Lanlan Xu](https://openalex.org/A5048247540), [Wenwen Zhang](https://openalex.org/A5052588320), [Xiaojuan Liu](https://openalex.org/A5057877330), [Chenglin Yan](https://openalex.org/A5009136959), [Jian Meng](https://openalex.org/A5034781601), Chemical Engineering Journal. 485(None)] 2024.https://doi.org/10.1016/j.cej.2024.149770.
+    
+No abstract    
 
     

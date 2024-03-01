@@ -1,8 +1,8 @@
 #+TITLE: New citations for John Kitchin
 Description: New citations for my papers
-Created on Thu Feb 29 00:43:24 2024
+Created on Fri Mar  1 00:49:04 2024
 
-Found 28 results from 2024-02-22 to 2024-02-29
+Found 26 results from 2024-02-23 to 2024-03-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370]]
@@ -12,27 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022]]
-
-* Machine learning guides the discovery of high-performance HEA catalysts  :New_citations_for_John_Kitchin:
-:PROPERTIES:
-:UUID: https://openalex.org/W4391995369
-:TOPICS: Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-02-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5772/intechopen.1004118")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4391995369"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4391995369"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4391995369"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4391995369 (Open access: True)
-    
-[[https://openalex.org/A5001663817][J. Wang]], [[https://openalex.org/A5077129573][Min Wei]], [[https://openalex.org/A5073029812][Junyu Zhang]], IntechOpen eBooks. None(None)] 2024. https://doi.org/10.5772/intechopen.1004118  ([[https://www.intechopen.com/citation-pdf-url/1173381][pdf]])
-     
-High performance catalysts are crucial to generating clean fuels, reducing the impact of global warming, and providing solutions to environmental pollution. Improved processes for catalyst design and a better understanding of catalytic processes are key for improving the effectiveness and activities. HEAs typically have at least four principal elements, this atomic structure gives them unique properties that have applications and excellent performance in a variety of fields including catalysis. The complexity of HEAs makes challenge for computational researchers, providing promising opportunities for the application of machine learning. Recent advances in data science have great potential to accelerate catalyst research, particularly the rapid exploration of large materials chemistry spaces through machine learning. Here a comprehensive and critical review of machine learning techniques used in HEA catalysis research is provided. Sources of HEA catalyst data and current approaches to represent these materials by mathematical features are described, the most commonly used machine learning methods summarized, and the quality and utility of catalyst models evaluated. Illustrations of how machine learning models are applied to novel HEA catalysts discovery and used to reveal catalytic reaction mechanisms are provided.    
-
-    
 
 * Probe the Dynamic Adsorption and Phase Transition of Underpotential Deposition Processes at Electrode–Electrolyte Interfaces  :New_citations_for_John_Kitchin:
 :PROPERTIES:
@@ -535,27 +514,6 @@ OpenAlex: https://openalex.org/W4392138498 (Open access: False)
 [[https://openalex.org/A5002789936][Caichen Yang]], [[https://openalex.org/A5032561481][Yuhao Wang]], [[https://openalex.org/A5010315884][Yunfeng Tian]], [[https://openalex.org/A5019281354][Ziling Wang]], [[https://openalex.org/A5035870336][Jian Pu]], [[https://openalex.org/A5029424400][Francesco Ciucci]], [[https://openalex.org/A5081959955][Bo Chi]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.149970 
      
 No abstract    
-
-    
-
-* Local-environment-guided selection of atomic structures for the development of machine-learning potentials  :New_citations_for_John_Kitchin:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392014929
-:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Powder Diffraction Analysis
-:PUBLICATION_DATE: 2024-02-21
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0187892")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392014929"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392014929"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392014929"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392014929 (Open access: False)
-    
-[[https://openalex.org/A5008772523][Renzhe Li]], [[https://openalex.org/A5013798538][Chuan Zhou]], [[https://openalex.org/A5001766483][Amankumar Singh]], [[https://openalex.org/A5090577152][Yong Pei]], [[https://openalex.org/A5047676104][Graeme Henkelman]], [[https://openalex.org/A5081596548][Lei Li]], The Journal of Chemical Physics. 160(7)] 2024. https://doi.org/10.1063/5.0187892 
-     
-Machine learning potentials (MLPs) have attracted significant attention in computational chemistry and materials science due to their high accuracy and computational efficiency. The proper selection of atomic structures is crucial for developing reliable MLPs. Insufficient or redundant atomic structures can impede the training process and potentially result in a poor quality MLP. Here, we propose a local-environment-guided screening algorithm for efficient dataset selection in MLP development. The algorithm utilizes a local environment bank to store unique local environments of atoms. The dissimilarity between a particular local environment and those stored in the bank is evaluated using the Euclidean distance. A new structure is selected only if its local environment is significantly different from those already present in the bank. Consequently, the bank is then updated with all the new local environments found in the selected structure. To demonstrate the effectiveness of our algorithm, we applied it to select structures for a Ge system and a Pd13H2 particle system. The algorithm reduced the training data size by around 80% for both without compromising the performance of the MLP models. We verified that the results were independent of the selection and ordering of the initial structures. We also compared the performance of our method with the farthest point sampling algorithm, and the results show that our algorithm is superior in both robustness and computational efficiency. Furthermore, the generated local environment bank can be continuously updated and can potentially serve as a growing database of feature local environments, aiding in efficient dataset maintenance for constructing accurate MLPs.    
 
     
 

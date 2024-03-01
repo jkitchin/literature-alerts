@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Feb 2024 00:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:49:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Machine learning guides the discovery of high-performance HEA catalysts</title>
-      <link>https://doi.org/10.5772/intechopen.1004118</link>
-      <description>J. Wang, Min Wei, Junyu Zhang, IntechOpen eBooks. None(None)] 2024. https://openalex.org/W4391995369
-
-                High performance catalysts are crucial to generating clean fuels, reducing the impact of global warming, and providing solutions to environmental pollution. Improved processes for catalyst design and a better understanding of catalytic processes are key for improving the effectiveness and activities. HEAs typically have at least four principal elements, this atomic structure gives them unique properties that have applications and excellent performance in a variety of fields including catalysis. The complexity of HEAs makes challenge for computational researchers, providing promising opportunities for the application of machine learning. Recent advances in data science have great potential to accelerate catalyst research, particularly the rapid exploration of large materials chemistry spaces through machine learning. Here a comprehensive and critical review of machine learning techniques used in HEA catalysis research is provided. Sources of HEA catalyst data and current approaches to represent these materials by mathematical features are described, the most commonly used machine learning methods summarized, and the quality and utility of catalyst models evaluated. Illustrations of how machine learning models are applied to novel HEA catalysts discovery and used to reveal catalytic reaction mechanisms are provided.</description>
-      <author>J. Wang, Min Wei, Junyu Zhang</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5772/intechopen.1004118</guid>
-    </item>
     <item>
       <title>Probe the Dynamic Adsorption and Phase Transition of Underpotential Deposition Processes at Electrode&#8211;Electrolyte Interfaces</title>
       <link>https://doi.org/10.1021/acs.langmuir.3c03899</link>
@@ -256,16 +246,6 @@
       <author>Caichen Yang, Yuhao Wang, Yunfeng Tian, Ziling Wang, Jian Pu, Francesco Ciucci, Bo Chi</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149970</guid>
-    </item>
-    <item>
-      <title>Local-environment-guided selection of atomic structures for the development of machine-learning potentials</title>
-      <link>https://doi.org/10.1063/5.0187892</link>
-      <description>Renzhe Li, Chuan Zhou, Amankumar Singh, Yong Pei, Graeme Henkelman, Lei Li, The Journal of Chemical Physics. 160(7)] 2024. https://openalex.org/W4392014929
-
-                Machine learning potentials (MLPs) have attracted significant attention in computational chemistry and materials science due to their high accuracy and computational efficiency. The proper selection of atomic structures is crucial for developing reliable MLPs. Insufficient or redundant atomic structures can impede the training process and potentially result in a poor quality MLP. Here, we propose a local-environment-guided screening algorithm for efficient dataset selection in MLP development. The algorithm utilizes a local environment bank to store unique local environments of atoms. The dissimilarity between a particular local environment and those stored in the bank is evaluated using the Euclidean distance. A new structure is selected only if its local environment is significantly different from those already present in the bank. Consequently, the bank is then updated with all the new local environments found in the selected structure. To demonstrate the effectiveness of our algorithm, we applied it to select structures for a Ge system and a Pd13H2 particle system. The algorithm reduced the training data size by around 80% for both without compromising the performance of the MLP models. We verified that the results were independent of the selection and ordering of the initial structures. We also compared the performance of our method with the farthest point sampling algorithm, and the results show that our algorithm is superior in both robustness and computational efficiency. Furthermore, the generated local environment bank can be continuously updated and can potentially serve as a growing database of feature local environments, aiding in efficient dataset maintenance for constructing accurate MLPs.</description>
-      <author>Renzhe Li, Chuan Zhou, Amankumar Singh, Yong Pei, Graeme Henkelman, Lei Li</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0187892</guid>
     </item>
     <item>
       <title>Density functional theory study of dissociative adsorption of O2 on Pd-skin Pd3Cu(1 1 1) surface</title>

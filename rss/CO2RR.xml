@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Feb 2024 00:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:48:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Carbon Dioxide Electroreduction and Formic Acid Oxidation by Formal Nickel(I) Complexes of Di&#8208;isopropylphenyl Bis&#8208;iminoacenaphthene</title>
-      <link>https://doi.org/10.1002/chem.202400168</link>
-      <description>Vera V. Khrizanforova, Robert R. Fayzullin, Sergey Kartashov, &#1042;. &#1048;. &#1052;&#1086;&#1088;&#1086;&#1079;&#1086;&#1074;, Mikhail Khrizanforov, Tatyana Gerasimova, Yulia H. Budnikova, Chemistry - A European Journal. None(None)] 2024. https://openalex.org/W4391996987
-
-                Processing CO2 into value&#8208;added chemicals and fuels stands as one of the most crucial tasks in addressing the global challenge of the greenhouse effect. In this study, we focused on the complex (dpp&#8208;bian)NiBr2 (where dpp&#8208;bian is di&#8208;isopropylphenyl bis&#8208;iminoacenaphthene) as a precatalyst for the electrochemical reduction of CO2 into CH4 as the sole product. Cyclic voltammetry results indicate that the realization of a catalytically effective pattern requires the three&#8208;electron reduction of (dpp&#8208;bian)NiBr2. The chemically reduced complexes [K(THF)6]+[(dpp&#8208;bian)Ni(COD)]&#8211; and [K(THF)6]+[(dpp&#8208;bian)2Ni]&#8211; were synthesized and structurally characterized. Analyzing the data from the electron paramagnetic resonance study of the complexes in a solution, along with quantum&#8208;chemical calculations, reveals that the spin density is predominantly localized at their metal centers. The superposition of trajectory maps of the electron density gradient field and the one&#8208;electron electrostatic force field, along with the atomic charges, discloses that, within the first coordination sphere, the interatomic charge transfer occurs from the metal atom to the ligand atoms and that the complex anions can thus be formally described by the general formulas (dpp&#8208;bian)2&#8211;Ni+(COD) and (dpp&#8208;bian)2&#8211;Ni+. It was shown that the reduced nickel complexes can be oxidized by formic acid; resulting from this reaction, the two&#8208;electron and two&#8208;proton addition product dpp&#8208;bian&#8208;2H is formed.</description>
-      <author>Vera V. Khrizanforova, Robert R. Fayzullin, Sergey Kartashov, &#1042;. &#1048;. &#1052;&#1086;&#1088;&#1086;&#1079;&#1086;&#1074;, Mikhail Khrizanforov, Tatyana Gerasimova, Yulia H. Budnikova</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202400168</guid>
-    </item>
     <item>
       <title>Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on InTaO4</title>
       <link>https://doi.org/10.1016/j.mssp.2024.108235</link>
@@ -188,16 +178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s00396-024-05235-0</guid>
     </item>
     <item>
-      <title>The implementation of intelligent edification to improve the energy efficiency and CO2 emission&#8217;s reduction</title>
-      <link>https://doi.org/10.1109/c358072.2023.10436172</link>
-      <description>Surichaqui Alvarez Sebastian Amulek, Castro Casas Alexis Del Piero, No host. None(None)] 2023. https://openalex.org/W4392008284
-
-                No abstract</description>
-      <author>Surichaqui Alvarez Sebastian Amulek, Castro Casas Alexis Del Piero</author>
-      <pubDate>Wed, 22 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/c358072.2023.10436172</guid>
-    </item>
-    <item>
       <title>Engineering hydrophobicity and high-index planes of gold nanostructures for highly selective electrochemical CO2 reduction to CO and efficient CO2 capture</title>
       <link>https://doi.org/10.1016/j.cej.2024.150045</link>
       <description>Taehui Kwon, Sampath Prabhakaran, Do Hwan Kim, Myung Hwa Kim, Youngmi Lee, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392184761
@@ -236,16 +216,6 @@
       <author>Quhan Chen, Hongqing Zhu, Zhiqiang Guo, Zijun Yan, Gang Yang, Yan&#8208;Song Zheng, Yalan Xing, Hongfeng Yin, Tom Wu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4739940</guid>
-    </item>
-    <item>
-      <title>Reduction of CO2 in the Presence of Light via Excited-state Hydride Transfer Reaction in a NADPH-inspired Derivative</title>
-      <link>https://doi.org/10.1039/d3cp05635j</link>
-      <description>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger, Physical Chemistry Chemical Physics. None(None)] 2024. https://openalex.org/W4392006911
-
-                The photo-catalytic reduction of CO2 into chemical feedstocks using solar energy has attracted vast interest in environmental science because of global warming. Based on our previous study on the CO2...</description>
-      <author>Bojana Ostoji&#263;, Branislav Stankovi&#263;, Dragana &#272;or&#273;evi&#263;, Peter Schwerdtfeger</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cp05635j</guid>
     </item>
     <item>
       <title>Molecular engineering binuclear copper catalysts for selective CO2 reduction to C2 products</title>
@@ -326,6 +296,26 @@
       <author>Jin Wook Lim, Dong Heon Choo, Jin Hyuk Cho, Jae Hyun Kim, Won Seok Cho, Odongo Francis Ngome Okello, Ki-Soo Kim, Sungwon Lee, Junwoo Son, Si&#8208;Young Choi, Jong Kyu Kim, Ho Won Jang, Soo Young Kim, Jong&#8208;Lam Lee</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta06399b</guid>
+    </item>
+    <item>
+      <title>Analyses of Port Infrastructure Investment and Shore Power Subsidy Policies for Inland Container Transportation Network with CO2 Emission Reduction Targets</title>
+      <link>https://doi.org/10.1504/ijstl.2024.10062557</link>
+      <description>Xiaofeng Ma, Xia Pan, Zhong Ming, Z.J. Wang, International Journal of Shipping and Transport Logistics. 1(1)] 2024. https://openalex.org/W4392173419
+
+                No abstract</description>
+      <author>Xiaofeng Ma, Xia Pan, Zhong Ming, Z.J. Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1504/ijstl.2024.10062557</guid>
+    </item>
+    <item>
+      <title>Effect of octahedral occupancy of bimetal-doping and CO2-induced surface reconstruction on oxygen reduction reaction of cobalt-based perovskite oxides</title>
+      <link>https://doi.org/10.1016/j.cej.2024.149770</link>
+      <description>Haocong Wang, Wenka Zhu, Jian Gong, Gao Min, Lanlan Xu, Wenwen Zhang, Xiaojuan Liu, Chenglin Yan, Jian Meng, Chemical Engineering Journal. 485(None)] 2024. https://openalex.org/W4392145417
+
+                No abstract</description>
+      <author>Haocong Wang, Wenka Zhu, Jian Gong, Gao Min, Lanlan Xu, Wenwen Zhang, Xiaojuan Liu, Chenglin Yan, Jian Meng</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149770</guid>
     </item>
   </channel>
 </rss>

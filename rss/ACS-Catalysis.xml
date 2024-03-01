@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 29 Feb 2024 00:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 00:48:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Designing an Efficient Biocatalyst for the Phosphoribosylation of Antiviral Pyrazine-2-carboxamide Derivatives</title>
-      <link>https://doi.org/10.1021/acscatal.3c05059</link>
-      <description>Evgeniy A. Zayats, Ilja V. Fateev, Yu. A. Abramchik, &#1052;. &#1040;. &#1050;&#1086;&#1089;&#1090;&#1088;&#1086;&#1084;&#1080;&#1085;&#1072;, &#1042;. &#1048;. &#1058;&#1080;&#1084;&#1086;&#1092;&#1077;&#1077;&#1074;, Daria O. Yurovskaya, Andrey A. Karanov, Irina D. Konstantinova, Andrey V. Golovin, &#1056;. &#1057;. &#1045;&#1089;&#1080;&#1087;&#1086;&#1074;, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391991668
-
-                The development of technologies for the efficient synthesis of innovative antiviral compounds remains an important challenge for modern biotechnology, especially in the context of the recent COVID-19 pandemic. One of the drugs that is currently in the research spotlight for potential anti-SARS-CoV-2 activity is the purine mimetic prodrug compound T-705, also known as favipiravir. Along with a similar compound, T-1105, the activation of T-705 is limited by the low rate of phosphoribosylation, mediated by an enzyme named hypoxanthine-guanine phosphoribosyltransferase (HGPRT). Therefore, the synthesis of phosphoribosylated/ribosylated derivatives of these prodrugs is a viable direction for the discovery and development of antiviral pharmaceuticals. However, the chemical synthesis of such compounds is a complex and laborious process, whereas enzymatic cascades are not feasible because of the narrow HGPRT substrate specificity. Here, we report the successful rational design of an efficient biocatalyst for T-705/T-1105 phosphoribosylation. With two rounds of Thermus thermophilus HB27 HGPRT active site optimization, we have achieved a 325-fold increase in kcat toward the compound T-705 and a 125-fold increase toward T-1105 accompanied by a multifold decrease in KM. The practical applicability of the designed mutant was illustrated through the preparative synthesis of T-705/T-1105 nucleotide derivatives. Our engineered biocatalyst can become a basis for the technologies of enzymatic and chemoenzymatic synthesis of various T-705/T-1105 derivatives with proven antiviral activity. Moreover, our results provide insight into the molecular mechanism of T-705/T-1105 phosphoribosylation, including the experimental evidence explaining the reasons behind the low activity of HGPRT toward these compounds.</description>
-      <author>Evgeniy A. Zayats, Ilja V. Fateev, Yu. A. Abramchik, &#1052;. &#1040;. &#1050;&#1086;&#1089;&#1090;&#1088;&#1086;&#1084;&#1080;&#1085;&#1072;, &#1042;. &#1048;. &#1058;&#1080;&#1084;&#1086;&#1092;&#1077;&#1077;&#1074;, Daria O. Yurovskaya, Andrey A. Karanov, Irina D. Konstantinova, Andrey V. Golovin, &#1056;. &#1057;. &#1045;&#1089;&#1080;&#1087;&#1086;&#1074;</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05059</guid>
-    </item>
-    <item>
-      <title>High-Entropy Effect Promoting Self-Healing Behavior of Two-Dimensional Metal Oxide Electrocatalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c05870</link>
-      <description>Dongdong Gao, Wenxiang Zhu, Jinxin Chen, Keyang Qin, Mengjie Ma, Jie Shi, Qun Wang, Zhenglong Fan, Qi Shao, Fan Liao, Mingwang Shao, Zhenhui Kang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391991674
-
-                No abstract</description>
-      <author>Dongdong Gao, Wenxiang Zhu, Jinxin Chen, Keyang Qin, Mengjie Ma, Jie Shi, Qun Wang, Zhenglong Fan, Qi Shao, Fan Liao, Mingwang Shao, Zhenhui Kang</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05870</guid>
-    </item>
-    <item>
-      <title>Integrating Atomically Dispersed Ir Sites in MnCo&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4.5&lt;/sub&gt; for Highly Stable Acidic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c06243</link>
-      <description>Hua Ke, Xiaoke Li, Rui Zhang, Xiao Duan, Yongkang Wu, Xiaodong Pi, Jia Li, Jianguo Liu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391992130
-
-                Industrial water electrolysis requires oxygen evolution reaction (OER) catalysts that exhibit both high activity and adaptability to high current densities. However, single Ir atoms of the OER catalysts often show high performance in the three-electrode system but are limited to low current densities in proton exchange membrane water electrolyzers (PEMWE). The high oxidation potential and catalyst shedding caused by oxygen bubble desorption have hindered the stability, resulting in unsatisfactory PEMWE performance. Achieving high catalytic stability under high current density conditions still presents a significant challenge for all of the OER catalysts. In this study, an efficient and stable catalytic system for OER is constructed by a doping strategy, which consists of atomically dispersed Ir sites in MnCo2O4.5. The integrated Ir&#8211;MnCo2O4.5 catalyst demonstrates remarkable OER activity, with a low overpotential of 238 mV at 10 mA/cm2. It exhibits long-term stability, maintaining this high activity for 700 h at 20 mA/cm2 with a degradation rate of 0.025 mV/h. Impressively, the PEMWE with the integrated Ir&#8211;MnCo2O4.5 as the anode remains stable even after nearly 100 h at 200 mA/cm2, outperforming most previously reported single-iridium atom-based PEMWEs. Density functional theory calculations show that the redistribution of charges brought by the introduction of Ir and Mn not only effectively reduces the dissolution of lattice oxygen and Ir active sites but also lowers the energy barrier of the rate-determining step, thereby significantly improving the stability and activity of Ir&#8211;MnCo2O4.5 under high current density.</description>
-      <author>Hua Ke, Xiaoke Li, Rui Zhang, Xiao Duan, Yongkang Wu, Xiaodong Pi, Jia Li, Jianguo Liu</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06243</guid>
-    </item>
-    <item>
-      <title>Photoinduced, Palladium-Catalyzed Enantioselective 1,2-Alkylsulfonylation of 1,3-Dienes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00470</link>
-      <description>Zhilin Liu, Zhipeng Ye, Zihao Liao, Weidong Lu, Jianping Guan, Zhongli Gao, Kai Chen, Xiao&#8208;Qing Chen, Hao-Yue Xiang, Hua Ye, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391993117
-
-                The chiral allylic sulfonylated group is a unique structural motif embedded in a range of natural products and pharmaceuticals. Notably, the synthesis of structurally diverse chiral allylic sulfonylated derivatives via alkylsulfonylation of 1,3-dienes remains underexplored because of its inherent challenges in stereocontrol and regioselectivity. Herein, photoinduced, palladium-catalyzed enantioselective 1,2-alkylsulfonylation of conjugated 1,3-dienes is described. A wide variety of alkyl bromides, 1,3-dienes, and sodium sulfinates could be facilely coupled to generate value-added chiral allylic sulfonylated derivatives with high enantioselectivity. Finally, the utility of this enantioselective difunctionalization protocol was demonstrated in pharmaceutical analogue synthesis.</description>
-      <author>Zhilin Liu, Zhipeng Ye, Zihao Liao, Weidong Lu, Jianping Guan, Zhongli Gao, Kai Chen, Xiao&#8208;Qing Chen, Hao-Yue Xiang, Hua Ye</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00470</guid>
-    </item>
-    <item>
-      <title>Structure and Reactivity of Binuclear Cu Active Sites in Cu-CHA Zeolites for Stoichiometric Partial Methane Oxidation to Methanol</title>
-      <link>https://doi.org/10.1021/acscatal.3c06181</link>
-      <description>Laura N. Wilcox, Jos&#233; Rebolledo-Oyarce, Andrew D. Mikes, Yujia Wang, William F. Schneider, Rajamani Gounder, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391996262
-
-                Aluminosilicate zeolites exchanged with copper ions facilitate partial methane oxidation (PMO) to methanol in stoichiometric oxidation and reduction cycles, yet the identities of active Cu sites and details of the reaction mechanism remain debated. Here, we use the high-symmetry chabazite (CHA) zeolite framework as a model support to probe the relationship between bulk composition, Cu speciation, and response to various oxidizing and reducing treatments. Density functional theory and first-principles thermodynamics combined with statistical models reveal that Cu speciation and composition depend strongly on Al configuration and external gas conditions. Cu-CHA samples were synthesized to survey broad regions of Si/Al and Cu/Al composition space and framework Al proximity. Characterization by in situ X-ray absorption and UV&#8211;visible spectroscopy during exposure to different oxidation conditions reveal that the extent of Cu oxidation is sensitive to activation conditions and thus that both kinetic and thermodynamic factors influence Cu oxidizability in a given material. Similar characterizations during CO reduction reveal that CO titrates Cu2+ in amounts suggesting the presence of both O- and O2-bridged species. In contrast, CH4 and autoreduction (He) treatments reduce similar but smaller numbers of Cu sites than CO, implicating O2-bridged Cu dimers as a potential common intermediate in the former reduction pathways. A systematic increase in methanol yields (per Cu) in stoichiometric PMO cycles increase with the fraction of binuclear Ox-bridged Cu sites suggests these species as active sites, as depicted in an updated PMO reaction mechanism.</description>
-      <author>Laura N. Wilcox, Jos&#233; Rebolledo-Oyarce, Andrew D. Mikes, Yujia Wang, William F. Schneider, Rajamani Gounder</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06181</guid>
-    </item>
-    <item>
-      <title>Dynamic Docking-Assisted Engineering of Hydrolases for Efficient PET Depolymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c00400</link>
-      <description>Yi Zheng, Qingbin Li, Pan Liu, Yingbo Yuan, Longyang Dian, Qian Wang, Quanfeng Liang, Tianyuan Su, Qingsheng Qi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4391997686
-
-                No abstract</description>
-      <author>Yi Zheng, Qingbin Li, Pan Liu, Yingbo Yuan, Longyang Dian, Qian Wang, Quanfeng Liang, Tianyuan Su, Qingsheng Qi</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00400</guid>
-    </item>
-    <item>
-      <title>Photoinduced Regioselective Sulfonylsulfination of Alkenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00049</link>
-      <description>Helian Li, Yongxin Zhang, Xiaoyong Zou, Xiaoxiao Yang, Pan Zhou, Xinyue Ma, Shaoping Lu, Qing Sun, Chao Shu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392004197
-
-                Regioselective 1,2-dichalcogenation of alkenes has attracted significant attention in modern organic synthetic chemistry. While there are a plethora of methods to access alkene dichalcogenated architectures, sulfonylsulfination of alkenes is extremely challenging due to the inherent characteristics of the sulfur atom. Herein, a multicomponent fragment coupling of alkenes, sulfinates, and DABSO was developed to construct densely functionalized sulfonylsulfinated products, which are otherwise challenging to access, with broad substrate scope and group tolerance under mild and operationally simple conditions, using an inexpensive 100&#8211;1000 ppm organic photocatalyst. In addition, the protocol was applied to the late-stage functionalization of complex molecules, and the obtained products were converted into diverse downstream transformations to demonstrate their synthetic potential. Experimental and theoretical mechanistic investigations suggest that these reactions proceed through sequential sulfonyl and sulfinyl oxygen radical mutual transformations and radical&#8211;polar crossover coupling. This strategy provides access to previously inaccessible alkene sulfonylsulfinated products in good-to-high regio- and stereoselectivity, along with opening up previously unexplored synthetic directions.</description>
-      <author>Helian Li, Yongxin Zhang, Xiaoyong Zou, Xiaoxiao Yang, Pan Zhou, Xinyue Ma, Shaoping Lu, Qing Sun, Chao Shu</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00049</guid>
-    </item>
-    <item>
-      <title>Atroposelective Synthesis of Axially Chiral Diaryl Ethers by Copper-Catalyzed Enantioselective Alkyne&#8211;Azide Cycloaddition</title>
-      <link>https://doi.org/10.1021/acscatal.3c06148</link>
-      <description>X Han, Lan Chen, Yong Yan, Yanyang Zhao, Aijun Lin, Shang Gao, Hequan Yao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392004251
-
-                Diaryl ethers are important structural motifs widely found in bioactive natural products, ligands, and catalysts. While there are a variety of methods available to generate diaryl ethers, progress on the construction of axially chiral diaryl ethers has been slow. We report herein an atroposelective copper-catalyzed cycloaddition between bisalkynes and azides. With an indane-fused BOX ligand used, a diverse array of C&#8211;O atropisomers are obtained with up to 97% yield and 99% ee. Control experiments showed that a sequential enantioselective desymmetrization&#8211;kinetic resolution process is involved, and the former plays a major role. In addition, an asymmetric depletion is observed for this catalytic synthesis by nonlinear effect studies. By thermal racemization experiments, the rotational barrier of the C&#8211;O axis of 3aa is calculated to be 35.9 kcal/mol, which lays the foundation for its isolation, as well as further applications.</description>
-      <author>X Han, Lan Chen, Yong Yan, Yanyang Zhao, Aijun Lin, Shang Gao, Hequan Yao</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06148</guid>
-    </item>
-    <item>
-      <title>Combined Hydrogen and Alkane Production by Photocatalytic Decarboxylative C&#8211;C Homocoupling of Fatty Acid by Constructing a Hydrogen-Deficient Catalytic Interface</title>
-      <link>https://doi.org/10.1021/acscatal.3c06070</link>
-      <description>Xucheng Li, Peng Yang, Zhipeng Huang, Gang Feng, Leo Lingchun Kong, Haiwei Jiang, Weiran Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392004426
-
-                Decarboxylation of biomass-derived fatty acids provides an important method for the production of value-added alkane fuels and chemicals. Here, selective decarboxylative C&#8211;C homocoupling of fatty acids to obtain long-chain alkanes was achieved by heterogeneous photocatalysis under mild conditions. Hydrogen was cogenerated as the potential energy source. The high selectivity for the coupling product was realized by constructing a hydrogen-deficient catalytic interface through the combined action of Ru nanoparticles supported on TiO2 and continuous N2 blow, which can inhibit the hydrogenation of alkyl radicals and enhance the C&#8211;C coupling of alkyl radicals. C2n&#8211;2 saturated alkanes (as high as 93%) and hydrogen (as high as 20.3 &#956;mol&#183;mL&#8211;1) are produced from bioderived C4&#8211;C12 fatty acids in high yields under mild reaction conditions (25 &#176;C, N2 blow). Furthermore, low-value industrial fatty acid mixtures such as coconut oil and Cinnamomum camphora seed kernel oil can be directly applied in this catalytic system and selectively yield long-chain alkanes (up to 80%) in a solvent-free system. Density functional theory (DFT) calculations and various analytical methods were applied to elucidate the possible catalytic mechanism.</description>
-      <author>Xucheng Li, Peng Yang, Zhipeng Huang, Gang Feng, Leo Lingchun Kong, Haiwei Jiang, Weiran Yang</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06070</guid>
-    </item>
-    <item>
-      <title>Boosting the Bifunctionality and Durability of Cobalt-Fluoride-Oxide Nanosheets for Alkaline Water Splitting Through Nitrogen-Plasma-Promoted Electronic Regulation and Structural Reconstruction</title>
-      <link>https://doi.org/10.1021/acscatal.4c00294</link>
-      <description>Shuo Wang, Cheng&#8208;Zong Yuan, Yi Zheng, Yao Kang, K.S. Hui, Kaixi Wang, Haixing Gao, Duc Anh Dinh, Y. R. Cho, Kwun Nam Hui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392016577
-
-                No abstract</description>
-      <author>Shuo Wang, Cheng&#8208;Zong Yuan, Yi Zheng, Yao Kang, K.S. Hui, Kaixi Wang, Haixing Gao, Duc Anh Dinh, Y. R. Cho, Kwun Nam Hui</author>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00294</guid>
-    </item>
-    <item>
-      <title>Regulating the Spin Polarization of NiFe Layered Double Hydroxide for the Enhanced Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c06180</link>
-      <description>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392018831
-
-                No abstract</description>
-      <author>Wenwu Cao, Xianhui Gao, Jie Wu, Anqi Huang, Huan Hu, Zhongwei Chen</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06180</guid>
-    </item>
     <item>
       <title>Surpassing the Limited Coordination Affinity of Native Amides by Introducing Pyridone-Pd-AgOAc Clusters to Promote Distal &#947;-C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Arylation</title>
       <link>https://doi.org/10.1021/acscatal.3c06007</link>
@@ -256,6 +146,36 @@
       <author>Jiangjie Zhang, Junhui Zhang, Jinni Shen, Dongmiao Li, Jinlin Long, Wenxin Dai, Xuxu Wang, Zizhong Zhang</author>
       <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06016</guid>
+    </item>
+    <item>
+      <title>Deciphering Mesopore-Augmented CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction over Atomically Dispersed Fe&#8211;N-doped Carbon Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c05144</link>
+      <description>Yongxiang Zhao, Z. Shi, Feng Li, Chen Jia, Qian Sun, Zhen Su, Chuan Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392165868
+
+                Mesoporous metal&#8211;nitrogen-doped carbons (M&#8211;N&#8211;C) have shown remarkable performance as catalysts for electrochemical CO2 reduction. However, the current understanding of the roles of mesopores in M&#8211;N&#8211;C-catalyzed CO2 reduction has been insufficient and imprecise due to the overlooked and intertwined influences of various structural factors on mass transport and the catalyst microenvironment. In this work, we have decoupled the impacts of mesopores in this process by designing Fe&#8211;N&#8211;C with solely altered pore structures. We found that the mesopore-rich catalyst surpassed its microporous counterpart in the overall reaction rate but unusually fell short in CO selectivity. Our experiments and modulation uncovered that the abundance of mesopores on the catalyst surface facilitated CO2 diffusion to active sites and thereby improved the CO production rate; however, the increased CO2 transport buffered the local pH surrounding active sites, which increased H2 generation and induced a relative decrease in CO selectivity for the mesopore-rich Fe&#8211;N&#8211;C catalyst.</description>
+      <author>Yongxiang Zhao, Z. Shi, Feng Li, Chen Jia, Qian Sun, Zhen Su, Chuan Zhao</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05144</guid>
+    </item>
+    <item>
+      <title>Donor&#8211;Acceptor-Conjugated Porous Polymer for Photopromoted N&#8211;H Formylation of Secondary Amines: Efficient In Situ N-Heterocyclic Carbene Catalysis in Radical Manner</title>
+      <link>https://doi.org/10.1021/acscatal.3c05392</link>
+      <description>Lizhi Bai, Jiayi Zheng, Lijuan Ma, Jincong Yuan, X.M. Song, Junfu Lu, Lingjuan Zhang, Xian&#8208;Ming Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392168803
+
+                The photogenerated reactive oxygen species (ROSs) in N-heterocyclic carbene (NHC)-based heterogeneous photocatalysis hold promise for addressing the challenge of fostering Breslow-derived radicals. In this study, two conjugated porous polymers (CPPs), namely, Im-PCPP-1 and Im-PCPP-2, decorated with donor&#8211;acceptor-type porphyrin and imidazole/imidazolium moieties, are synthesized via Suzuki&#8211;Miyaura coupling reaction. Importantly, the ionization of the imidazole monomer effectively tunes the push&#8211;pull effect of D&#8211;A building blocks and the band structure of Im-PCPPs. On this basis, Im-PCPP-2 with ionized imidazolium exhibits good catalytic activity toward oxidative N-formylation of diverse secondary amines through the cooperation of photoredox and in situ NHC catalysis in a radical manner, where acetaldehyde serves as the carbon source of formylation. Experimental and calculation results suggest that photogenerated multiple ROS play crucial roles: hydroxide OH&#8211; as in situ base to generate NHC; hydroxyl radical &#183;OH as hydrogen atom transfer abstractors to produce aza-Breslow-derived radicals and as radical partners for cross-coupling; singlet oxygen 1O2 as oxidant to convert aza-Breslow-derived radical into cyclic peroxide. It is noteworthy that the photochemical process has achieved efficient conversion of acetaldehyde and its derivatives to high-value-added N-formamides.</description>
+      <author>Lizhi Bai, Jiayi Zheng, Lijuan Ma, Jincong Yuan, X.M. Song, Junfu Lu, Lingjuan Zhang, Xian&#8208;Ming Zhang</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05392</guid>
+    </item>
+    <item>
+      <title>Impact of Potential and Active-Site Environment on Single-Iron-Atom-Catalyzed Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction from Accurate Quantum Many-Body Simulations</title>
+      <link>https://doi.org/10.1021/acscatal.3c05999</link>
+      <description>Jincheng Lei, Tianyu Zhu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392185788
+
+                Single iron atoms supported on nitrogen-doped graphene (Fe&#8211;N&#8211;C) have shown promise in catalyzing electrochemical reduction of CO2 to CO with low overpotential and high selectivity. However, the nature of its rate-limiting step and the effect of active-site environment on catalytic activity are still under debate. Previous theoretical studies exclusively rely on density functional theory (DFT), but their predictions are limited by inherent errors in DFT functionals, leading to diverging conclusions on catalytic mechanisms. Herein, we employ an efficient quantum embedding strategy to enable high-level coupled-cluster (CCSD(T)) simulations of the thermodynamics of Fe&#8211;N&#8211;C-catalyzed CO2 reduction reaction (CO2RR) and its competing hydrogen evolution reaction. Our calculations accurately predict experimental CO binding energy, onset potential, and potential of maximal Faradaic efficiency (FE) with FeN4 as the catalytic active site. We find that the thermodynamic-limiting step is the formation of a *COOH intermediate at low overpotential, which becomes CO2 adsorption and CO desorption at higher overpotential. Our simulation reveals that the potential-dependent high selectivity of FeN4 originates from the higher charge capacity of *COOH compared to *H. Furthermore, our calculations elucidate distinct roles of active-site environments, including vacancy defect and nitrogen doping. Particularly, graphitic nitrogen doping simultaneously lowers the CO2RR onset potential and allows a wider potential range for high CO FE. This work highlights the importance of robust many-body quantum chemical simulations in achieving quantitative understanding of multistep electrocatalytic reaction mechanisms.</description>
+      <author>Jincheng Lei, Tianyu Zhu</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05999</guid>
     </item>
   </channel>
 </rss>
