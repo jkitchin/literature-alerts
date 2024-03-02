@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Mar  1 00:48:57 2024
+Created on Sat Mar  2 00:42:31 2024
 
-Found 17 results from 2024-02-23 to 2024-03-01
+Found 10 results from 2024-02-24 to 2024-03-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Surpassing the Limited Coordination Affinity of Native Amides by Introducing Pyridone-Pd-AgOAc Clusters to Promote Distal γ-C(sp3)–H Arylation   
-
-OpenAlex: https://openalex.org/W4392022653    
-Open access: False
-    
-[Nupur Goswami](https://openalex.org/A5035962932), [Nikunj Kumar](https://openalex.org/A5034740343), [Puneet Gupta](https://openalex.org/A5021247800), [Debabrata Maiti](https://openalex.org/A5051885484), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06007.
-    
-The utilization of weak coordination in promoting site-selective C(sp3)–H functionalization is of immense importance. Herein, we report a Pd-catalyzed distal γ-C(sp3)–H arylation that harnesses the weak coordination affinity of keto groups with the native noncoordinating amide moiety. The current protocol overcomes one of the major challenges associated with the diversification of synthetic modular frameworks of quaternary centers: controlling the mono- vs difunctionalization of chemically equivalent C–H bonds. The developed condition overrides the interference of the acidic α-hydrogen for possible side reactions of amides and delivers the exclusive formation of the γ-monoarylated product. The association of 2-hydroxy pyridine ligands bearing electron-withdrawing substituents demonstrated the best partnership with the Pd–Ag hetero-bimetallic complex to achieve this distal γ-C(sp3)–H activation of a range of noncoordinating aliphatic amides in the absence of any other exogenous ligand. Here, an array of mechanistic measurements helped us to realize the role of the ligand. A density functional theory (DFT) study was performed on four different computational models to elucidate the working principle of a single pyridone ligand in the absence of any externally installed strong chelating donor motifs. The reaction proceeds sequentially through three primary stages: initial C–H activation of the γ-C(sp3)–H bond of the amide, succeeded by the oxidative addition of the aryl halide, culminating in reductive elimination, which facilitates the C(sp2)–C(sp3) coupling between the aryl and the aliphatic amide moieties. The role of the silver salt remained essential not only for successful C–H activation but also for turning over the catalytic cycle.    
-
-    
-
-## Flexible Units Induced Three-Dimensional Covalent Organic Frameworks with a Heteromotif Molecular Junction for Photocatalytic H2O2 Production   
-
-OpenAlex: https://openalex.org/W4392038453    
-Open access: False
-    
-[Jia-Peng Liao](https://openalex.org/A5031303790), [Mi Zhang](https://openalex.org/A5036897639), [Pei Huang](https://openalex.org/A5088520193), [Long‐Zhang Dong](https://openalex.org/A5033346425), [Tiantian Ma](https://openalex.org/A5051237661), [Guo‐Zhang Huang](https://openalex.org/A5076445689), [Yu-Fei Liu](https://openalex.org/A5087095278), [Meng Lu](https://openalex.org/A5023725539), [Shun-Li Li](https://openalex.org/A5000509449), [Ya‐Qian Lan](https://openalex.org/A5003081708), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06078.
-    
-In recent years, significant progress has been achieved in the field of three-dimensional covalent organic frameworks (3D COFs). However, there is still a great challenge to use flexible building units to synthesize high-connectivity 3D COFs. In this work, we showed that [6 + 3] 3D COFs could be constructed by inducing highly flexible planar building blocks from C3 antitriangular prismed 3D building blocks. Herein, two 3D COFs with spn topology based on flexible cyclotriphosphazene units were constructed and denoted as TAA/TAB-CTP-COF, and their redox ability and photophysical features can be finely regulated by the coupled functional group, such as benzene and triazine groups. As a result, the redox heteromotif molecular junction TAA-CTP-COF with fully exposed active sites achieved high photocatalytic production of hydrogen peroxide (H2O2) with a yield of 1041 μM h–1 without any additional photosensitizers, organic scavengers, or cocatalysts. Furthermore, in the presence of an electron donor, the production rate of H2O2 could reach up to 2221 μM h–1, exhibiting one of the best performances for photocatalytic H2O2 production in the field of crystalline materials. This work showcases the potential of using flexible building blocks in building 3D COFs and highlights the versatility and efficacy of metal-free COFs in solar energy conversion.    
-
-    
-
-## Effect of Mixing Order of Si and Al Sources on the Inner Architecture and Catalytic Performance of ZSM-5 Zeolites   
-
-OpenAlex: https://openalex.org/W4392044042    
-Open access: False
-    
-[Yongjia Shen](https://openalex.org/A5078511712), [Shang Zhang](https://openalex.org/A5005587950), [Zhengxing Qin](https://openalex.org/A5086387355), [Antoine Beuque](https://openalex.org/A5086043321), [Ludovic Pinard](https://openalex.org/A5039064903), [Shunsuke Asahina](https://openalex.org/A5000750902), [Naoki Asano](https://openalex.org/A5078914737), [Ruizhe Zhang](https://openalex.org/A5003393009), [Jiaqi Zhao](https://openalex.org/A5031124649), [Fan Yang](https://openalex.org/A5011639404), [Xinmei Liu](https://openalex.org/A5071363074), [Yan Zhang](https://openalex.org/A5086664284), [Svetlana Mintova](https://openalex.org/A5027944064), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00262.
-    
-The performance of zeolites in catalysis and adsorption is closely related to their inner architecture beneath the crystal surface, which however remains less studied due to characterization limitations. Here we report the synthesis of two ZSM-5 zeolite samples by changing only the order of mixing of Si and Al sources, resulting not only in morphological differences of the zeolite crystals but most importantly in defined distinction in their inner architecture. The spatial Si and Al distributions and structural properties of the ZSM-5 zeolite crystals were characterized by high-resolution microscopy under chemically unbiased defect-selective NH4F etching. The Al-zoning and structural features in the ZSM-5 zeolite crystals were explained by the biased nucleation in the Si-rich aluminosilicate amorphous precursor followed by multistage crystal growth in a heterogeneous feedstock. This observation was associated with the different solubility and reactivity of the microscopic aluminosilicate domains with various Si/Al ratios in the amorphous precursors. The zeolites with diverse structural properties showed a high cracking activity in n-hexane cracking reaction and different activity, stability, and product selectivity in the ethylene dehydroaromatization (EDA) reaction. The comprehensive understanding of the zeolite synthesis history and their performance in the EDA reaction revealed the chemical mixing-dependent synthesis–structure–performance correlation of the zeolite catalyst.    
-
-    
-
-## Supervised AI and Deep Neural Networks to Evaluate High-Entropy Alloys as Reduction Catalysts in Aqueous Environments   
-
-OpenAlex: https://openalex.org/W4392044082    
-Open access: True
-    
-[Rafael B. Araujo](https://openalex.org/A5060552376), [Tomas Edvinsson](https://openalex.org/A5056174579), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05017.
-    
-No abstract    
-
-    
-
-## Catalytic Enantioselective Cycloaddition Transformation of Tricyclic Arenes Enabled by a Dual-Role Chiral Cage-Reactor   
-
-OpenAlex: https://openalex.org/W4392049487    
-Open access: False
-    
-[Jie Chen](https://openalex.org/A5010479652), [Xueyuan Wu](https://openalex.org/A5037215225), [Huang Sisi](https://openalex.org/A5031722825), [Jie Yang](https://openalex.org/A5002828878), [Yu‐Lin Lu](https://openalex.org/A5083424283), [Zhiwei Jiao](https://openalex.org/A5008346135), [Cheng‐Yong Su](https://openalex.org/A5002170896), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06361.
-    
-No abstract    
-
-    
-
-## Ultrathin Holey Pt–M Alloy Nanosheets via Sequential Kinetic–Thermodynamic Metal Reduction Control   
-
-OpenAlex: https://openalex.org/W4392078691    
-Open access: False
-    
-[Heon Chul Kim](https://openalex.org/A5034416833), [Respati K. Pramadewandaru](https://openalex.org/A5004515260), [Mrinal Kanti Kabiraz](https://openalex.org/A5055068849), [Ghufran Aulia Bin Azizar](https://openalex.org/A5092359573), [Hafidatul Wahidah](https://openalex.org/A5030417545), [Youngmin Kim](https://openalex.org/A5000965572), [Su‐Un Lee](https://openalex.org/A5044344225), [Ho‐Jeong Chae](https://openalex.org/A5087136199), [Sang‐Il Choi](https://openalex.org/A5026994173), [Jong Wook Hong](https://openalex.org/A5038083964), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05806.
-    
-No abstract    
-
-    
-
-## Investigation of the Relationship between Metal Loading and Acidic Oxygen Evolution Reaction Activity in Single-Atom Catalysts   
-
-OpenAlex: https://openalex.org/W4392084683    
-Open access: False
-    
-[Bing Tang](https://openalex.org/A5035223262), [Xiaolong Zhang](https://openalex.org/A5059787769), [Qianqian Ji](https://openalex.org/A5020016810), [Gao Min](https://openalex.org/A5017197771), [Huijuan Wang](https://openalex.org/A5036519850), [Ruiqi Liu](https://openalex.org/A5067669061), [Peng Jiang](https://openalex.org/A5017430213), [Hengjie Liu](https://openalex.org/A5005402696), [Chao Wang](https://openalex.org/A5055838753), [Hao Tan](https://openalex.org/A5069910699), [Wensheng Yan](https://openalex.org/A5052333339), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06263.
-    
-No abstract    
-
-    
 
 ## Synergistic Dual Catalysis in Stereodivergent Synthesis   
 

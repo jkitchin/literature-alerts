@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Mar  1 00:48:56 2024
+Created on Sat Mar  2 00:42:30 2024
 
-Found 31 results from 2024-02-23 to 2024-03-01
+Found 30 results from 2024-02-24 to 2024-03-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on InTaO4   
-
-OpenAlex: https://openalex.org/W4392042616    
-Open access: False
-    
-[Babalola Aisosa Oni](https://openalex.org/A5089011196), [Samuel Eshorame Sanni](https://openalex.org/A5091243470), [Olusegun Stanley Tomomewo](https://openalex.org/A5018891267), [Shree Om Bade](https://openalex.org/A5033624313), Materials Science in Semiconductor Processing. 174(None)] 2024.https://doi.org/10.1016/j.mssp.2024.108235.
-    
-No abstract    
-
-    
 
 ## Electrocatalytic Reduction of Carbon Dioxide   
 
@@ -136,28 +125,6 @@ Open access: True
 [Wei Liu](https://openalex.org/A5071037763), [Shiqi Chen](https://openalex.org/A5014829857), [Z. Mei](https://openalex.org/A5026300483), [Liang Li](https://openalex.org/A5064564309), [Hong Tao](https://openalex.org/A5034500479), Catalysts. 14(3)] 2024.https://doi.org/10.3390/catal14030172 ([pdf](https://www.mdpi.com/2073-4344/14/3/172/pdf?version=1709014662)).
     
 With the widespread application of plant remediation technology in the field of soil remediation, there was an increasing stock of hyperaccumulating plant tissues containing heavy metals, but there was currently a lack of effective disposal methods. In the preliminary research process, researchers used the copper hyperaccumulating plant Elsholtzia Harchowensis to prepare biochar material electrodes and successfully used them in the electrocatalytic reduction of carbon dioxide (CO2) process. Due to the previous research being conducted in aqueous solutions, the hydrogen evolution reaction (HER) on the working electrode surface has a certain impact on the Faraday efficiency (FE) of carbon-containing products. In order to further improve the electrocatalytic reduction performance of biochar materials, this study was based on B- and N-doped biochar prepared from Elsholtzia Harchowensis as raw material. The influence mechanisms of electrode surface hydrophobicity and electrolyte components (PC/water) on the CO2RR and HER were studied, respectively. After dropwise coating PTFE on the surface of Cu/C-BN material, the hydrophobicity of Cu/C-BN-PT material was improved, and the effect on the active sites of the catalyst was relatively small without changing the structure and elemental characteristics of the original electrode. In a 1.0 M KHCO3 solution, the Faraday efficiency of H2 in Cu/C-BN-PT material decreased by 20.1% compared to Cu/C-BN at −0.32 V (vs. RHE), indicating that changing the hydrophilicity of the material can significantly inhibit the HER. In a solution of PC/water at a ratio of 9:1 (V:V), the FE of converting CO2 to methane (CH4) at −0.32 V (vs. RHE) reached 12.0%, and the FE of carbon monoxide (CO) reached 64.7%. The HER was significantly inhibited, significantly improving the selectivity of electrocatalytic CO2.    
-
-    
-
-## Research of the Impact of Hydrogen Metallurgy Technology on the Reduction of the Chinese Steel Industry’s Carbon Dioxide Emissions   
-
-OpenAlex: https://openalex.org/W4392043913    
-Open access: True
-    
-[Fang Wan](https://openalex.org/A5048624194), [Jizu Li](https://openalex.org/A5034822034), [Yaling Han](https://openalex.org/A5048295314), [Xilong Yao](https://openalex.org/A5077755168), Sustainability. 16(5)] 2024.https://doi.org/10.3390/su16051814 ([pdf](https://www.mdpi.com/2071-1050/16/5/1814/pdf?version=1708606209)).
-    
-The steel industry, which relies heavily on primary energy, is one of the industries with the highest CO2 emissions in China. It is urgent for the industry to identify ways to embark on the path to “green steel”. Hydrogen metallurgy technology uses hydrogen as a reducing agent, and its use is an important way to reduce CO2 emissions from long-term steelmaking and ensure the green and sustainable development of the steel industry. Previous research has demonstrated the feasibility and emission reduction effects of hydrogen metallurgy technology; however, further research is needed to dynamically analyze the overall impact of the large-scale development of hydrogen metallurgy technology on future CO2 emissions from the steel industry. This article selects the integrated MARKAL-EFOM system (TIMES) model as its analysis model, constructs a China steel industry hydrogen metallurgy model (TIMES-CSHM), and analyzes the resulting impact of hydrogen metallurgy technology on CO2 emissions. The results indicate that in the business-as-usual scenario (BAU scenario), applying hydrogen metallurgy technology in the period from 2020 to 2050 is expected to reduce emissions by 203 million tons, and make an average 39.85% contribution to reducing the steel industry’s CO2 emissions. In the carbon emission reduction scenario, applying hydrogen metallurgy technology in the period from 2020 to 2050 is expected to reduce emissions by 353 million tons, contributing an average of 41.32% to steel industry CO2 reduction. This study provides an assessment of how hydrogen metallurgy can reduce CO2 emissions in the steel industry, and also provides a reference for the development of hydrogen metallurgy technology.    
-
-    
-
-## Trends of Emerging Zero-Carbon Technologies: The Role of the Life Cycle Assessment for Evaluating Carbon Dioxide Reduction Targets   
-
-OpenAlex: https://openalex.org/W4392078594    
-Open access: False
-    
-[Hsien H. Khoo](https://openalex.org/A5005045784), [Reginald B. H. Tan](https://openalex.org/A5001323251), WORLD SCIENTIFIC eBooks. None(None)] 2024.https://doi.org/10.1142/9789811275661_0001.
-    
-No abstract    
 
     
 
@@ -345,5 +312,27 @@ Open access: False
 [Haocong Wang](https://openalex.org/A5026810495), [Wenka Zhu](https://openalex.org/A5046863535), [Jian Gong](https://openalex.org/A5033246962), [Gao Min](https://openalex.org/A5017197771), [Lanlan Xu](https://openalex.org/A5048247540), [Wenwen Zhang](https://openalex.org/A5052588320), [Xiaojuan Liu](https://openalex.org/A5057877330), [Chenglin Yan](https://openalex.org/A5009136959), [Jian Meng](https://openalex.org/A5034781601), Chemical Engineering Journal. 485(None)] 2024.https://doi.org/10.1016/j.cej.2024.149770.
     
 No abstract    
+
+    
+
+## Auto-Occlusive Lidocaine 7% and Tetracaine 7% Cream has Greater Pain Reduction Effects in Comparison with Lidocaine 4% Cream during Laser CO2 Dermabrasion Procedure in Preparation of Non-Cultured Autologous Epidermal Cell Grafting for Repigmentation in Vitiligo Subjects. An Intrasubject Pilot Evaluation Study   
+
+OpenAlex: https://openalex.org/W4392163415    
+Open access: False
+    
+, Dermatology Journal of Cosmetic and Laser Therapy. 3(1)] 2024.https://doi.org/10.33140/djclt.03.01.03.
+    
+Introduction: Autologous non-cultured epidermal cell graft is a complex but promising technique in the treatment of vitiligo. Affected vitiligo areas should be de-epithelialized using an ablative Laser CO2 prior healthy epidermal cell inoculation. The dermabrasion (DA) procedure could be painful for the patient. To reduce the discomfort of this step topical anaesthesia is very often required. Topical anaesthetics available differ for composition, concentration of active anaesthetic molecules and methods of application (occlusion or not). An auto occlusive film-forming cream containing Lidocaine 7% and Tetracaine 7% (Pl-C) has shown in previous trials to be very effective in reducing discomfort during dermatological painful procedures like phototherapy, laser-conducted tattoo removal and laser resurfacing for skin ageing. Study Aim: To compare the clinical efficacy of Pl-C with Lidocaine 4% cream (As-C) in reducing the pain during Laser DA procedures in vitiligo subjects in preparation of autologous non-cultured epidermal transplantation. Subjects and Methods: We performed a prospective intra-subject randomized cases series in 7 subjects (4 men and 3 women) with segmental vitiligo with symmetrical lesions suitable for autologous non-cultured epidermal transplantation. Before the DA procedures the Pl-C or As-C were applied in a randomized fashion over the vitiligo areas to be treated. Pl-C was applied for 20 min without occlusion. The product was removed before the Laser procedure. As-C cream was applied for 30 min with occlusive band and then removed before the procedure. The treated skin regions had a mean area of 72±50 cm2; (range: 10 to 150 cm2). The primary outcome was the 100-mm Visual Analogue Scale (VAS) for patient-assessed pain evaluation with 0 mm value means no pain at all and 100 mm representing the worst possible pain. Results: Just after the Laser CO2 DA procedure the VAS score in PL-C area was 32±7 mm and 58±8 mm in As-C treated areas. This difference (-25±4 mm; 95% CI: from -16 to -35 mm) was highly statistically significant (p=0.0001) and clinically relevant (higher than the minimum clinically significant difference). Conclusion: The Lidocaine 7% and Tetracaine 7% auto occlusive cream is more effective than lidocaine 4% cream in reducing the pain associated with Laser CO2 DA procedures in preparation of skin autologous transplantation in vitiligo subjects.    
+
+    
+
+## Carbon and air pollutant emissions forecast of China's cement industry from 2021 to 2035   
+
+OpenAlex: https://openalex.org/W4392214442    
+Open access: False
+    
+[Xiao Liu](https://openalex.org/A5076409244), [Yang Li](https://openalex.org/A5064842058), [Jinlei Du](https://openalex.org/A5090018916), [Hao Zhang](https://openalex.org/A5049341927), [Jingnan Hu](https://openalex.org/A5078964223), [Aizhong Chen](https://openalex.org/A5039514748), [Wei Lv](https://openalex.org/A5033748161), Resources, Conservation and Recycling. 204(None)] 2024.https://doi.org/10.1016/j.resconrec.2024.107498.
+    
+The cement industry is a major source of carbon dioxide and air pollutant emissions. This study developed a high-resolution emission inventory for China's cement industry and forecasted emissions from 2025 to 2035. The results showed that emissions in 2020 were 251, 709, 142, and 1.35 × 106 Gg for SO2, NOx, PM2.5, and CO2, respectively. The optimal model projections for 2035 showed that fuel and clinker substitutions had the best reduction effect on SO2 and CO2, with average reduction rates of –11.42 % and –7.37 %, respectively, compared to the 2035 frozen scenario. Pollutant control measures and clinker substitution had the best emission reduction effect on NOx and PM2.5, and the average reduction rates were –26.09 % and –4.23 %, respectively, compared to the 2035 frozen scenario. These results showed that the substitution of fuel and clinker has important co-benefits for air pollutants in the cement industry.    
 
     

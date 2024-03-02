@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:42:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Increased Readiness for Water Splitting: NiO&#8208;Induced Weakening of Bonds in Water Molecules as Possible Cause of Ultra&#8208;Low Oxygen Evolution Potential</title>
-      <link>https://doi.org/10.1002/smll.202310665</link>
-      <description>Tom Bookholt, Xian Qin, Bettina Lilli, Dirk Enke, Marten Huck, Danni Balkenhohl, Klara R&#252;we, Julia Brune, Johann P. Klare, Karsten K&#252;pper, Anja Schuster, Jenrik Bergjan, Martin Steinhart, Harald Gr&#246;ger, Diemo Daum, Helmut Sch&#228;fer, Small. None(None)] 2024. https://openalex.org/W4392035916
-
-                Abstract The development of non&#8208;precious metal&#8208;based electrodes that actively and stably support the oxygen evolution reaction (OER) in water electrolysis systems remains a challenge, especially at low pH levels. The recently published study has conclusively shown that the addition of haematite to H 2 SO 4 is a highly effective method of significantly reducing oxygen evolution overpotential and extending anode life. The far superior result is achieved by concentrating oxygen evolution centres on the oxide particles rather than on the electrode. However, unsatisfactory Faradaic efficiencies of the OER and hydrogen evolution reaction (HER) parts as well as the required high haematite load impede applicability and upscaling of this process. Here it is shown that the same performance is achieved with three times less metal oxide powder if NiO/H 2 SO 4 suspensions are used along with stainless steel anodes. The reason for the enormous improvement in OER performance by adding NiO to the electrolyte is the weakening of the intramolecular O&#9472;H bond in the water molecules, which is under the direct influence of the nickel oxide suspended in the electrolyte. The manipulation of bonds in water molecules to increase the tendency of the water to split is a ground&#8208;breaking development, as shown in this first example.</description>
-      <author>Tom Bookholt, Xian Qin, Bettina Lilli, Dirk Enke, Marten Huck, Danni Balkenhohl, Klara R&#252;we, Julia Brune, Johann P. Klare, Karsten K&#252;pper, Anja Schuster, Jenrik Bergjan, Martin Steinhart, Harald Gr&#246;ger, Diemo Daum, Helmut Sch&#228;fer</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310665</guid>
-    </item>
-    <item>
-      <title>Rapid Conversion from Alloy Nanoparticles to Oxide Nanowires: Strain Wave&#8208;Driven Ru&#8208;O&#8208;Mn Collaborative Catalysis for Durable Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/smll.202400754</link>
-      <description>Mingyue Xiao, Jingjun Liu, Rongchao Li, Yang Sun, Feng Liu, Jianying Gan, Shixin Gao, Small. None(None)] 2024. https://openalex.org/W4392043167
-
-                Abstract Metal&#8208;doped ruthenium oxides with low prices have gained widespread attention due to their editable compositions, distorted structures, and diverse morphologies for electrocatalysis. However, the mainstream challenge lies in breaking the so&#8208;called seesaw relationship between activity and stability during acidic oxygen evolution reaction (OER). Herein, strain wave&#8208;featured Mn&#8208;RuO 2 nanowires (NWs) with asymmetric Ru&#8208;O&#8208;Mn bonds are first fabricated by thermally driven rapid solid phase conversion from RuMn alloy nanoparticles (NPs) at moderate temperature (450 &#176;C). In 0.5 M H 2 SO 4 , the resultant NWs display a surprisingly ultralow overpotential of 168 mV at 10 mA cm &#8211;2 and run at a stable cell voltage (1.67 V) for 150 h at 50 mA cm &#8211;2 in PEMWE, far exceeding IrO 2 ||Pt/C assemble. The simultaneous enhancement of both activity and stability stems from the presence of dense strain waves composed of alternating compressive and tensile ones in the distorted NWs, which collaboratively activate the Ru&#8208;O&#8208;Mn sites for faster OER. More importantly, the atomic strain waves trigger dynamic Ru&#8208;O&#8208;Mn regeneration via the refilling of oxygen vacancies by oxyanions adsorbed on adjacent Mn and Ru sites, achieving long&#8208;term stability. This work opens a door to designing non&#8208;precious metal&#8208;assisted ruthenium oxides with unique strains for practical application in commercial PEMWE.</description>
-      <author>Mingyue Xiao, Jingjun Liu, Rongchao Li, Yang Sun, Feng Liu, Jianying Gan, Shixin Gao</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400754</guid>
-    </item>
-    <item>
-      <title>Nitrogen-doped Carbon Layer Encapsulating NiFeP Nanosheet Arrays as High-performance Electrocatalyst for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.173933</link>
-      <description>Shuai Wang, Weiye Shi, Qinling Zhou, Ye Zhang, Chunqing Huo, Shengjue Deng, Shen Lin, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4392056073
-
-                No abstract</description>
-      <author>Shuai Wang, Weiye Shi, Qinling Zhou, Ye Zhang, Chunqing Huo, Shengjue Deng, Shen Lin</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.173933</guid>
-    </item>
-    <item>
-      <title>Boosting activity on molten salt-synthesized Ce doped cobalt hydroxyl nitrate nanorods by oxygen vacancies for efficient oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.131214</link>
-      <description>Na Xu, Ning Yu, Zhaoxia Jin, Yanan Zhou, Yusheng Zhang, Jin-Long Tan, Yulu Zhou, Yong&#8208;Ming Chai, Bin Dong, Fuel. 365(None)] 2024. https://openalex.org/W4392074898
-
-                Rationalizing the development of highly active, non-precious electrocatalysts through facile and cost-effective synthesis methods for the oxygen evolution reaction (OER) constitutes a paramount research objective. In this study, we introduce an innovative molten salt approach to fabricate an arrayed nanorod architecture supported on a cobalt foam substrate denoted as Ce doped cobalt hydroxyl nitrate (Ce-CoNH). Cerium (Ce) is strategically employed to induce oxygen vacancies and effect localized electronic structure modifications of the cobalt (Co) sites. In comparison to individual CoNH catalysts, Ce-CoNH exhibits exceptional catalytic activity in alkaline water oxidation, achieving a notably low overpotential of 270 mV at a current density of 50 mA cm&#8722;2. Notably, the Ce-CoNH catalyst also demonstrates remarkable durability, sustaining a current density of 100 mA cm&#8722;2 for an impressive duration of 50 h, surpassing the performance of Ce-free CoNH samples, which can be attributed to the flexible influence of Ce doping and the robust nanorod structure. Collectively, our study underscores the viability of molten salt-synthesized heteroatom substitution, accompanied by the introduction of defect-rich structures, as an effective strategy for the rational design of advanced electrocatalysts tailored for water electrolysis applications.</description>
-      <author>Na Xu, Ning Yu, Zhaoxia Jin, Yanan Zhou, Yusheng Zhang, Jin-Long Tan, Yulu Zhou, Yong&#8208;Ming Chai, Bin Dong</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131214</guid>
-    </item>
-    <item>
-      <title>Constructions of hierarchical nitrogen doped carbon nanotubes anchored on CoFe2O4 nanoflakes for efficient hydrogen evolution, oxygen evolution and oxygen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.234218</link>
-      <description>JiaJun Lai, Zeng Chen, Song Peng, Qin Zhou, Zeng Ju, Chao Liu, Xiaopeng Qi, Journal of Power Sources. 599(None)] 2024. https://openalex.org/W4392077017
-
-                The three primary reactions in metal-air batteries and electrochemical hydrolysis are the hydrogen evolution reaction (HER), the oxygen evolution reaction (OER), and the oxygen reduction reaction (ORR). Therefore, it is crucial to develop efficient low-cost trifunctional catalysts. In this study, we design a self-supported electrocatalyst with hierarchical nanostructure, in which the bamboo-like nitrogen doped carbon nanotubes (NCNTs) encapsulated CoFe nanoparticles (CoFe NPs) in-situ anchored on nanoflower like CoFe2O4 via chemical vapor deposition. Strikingly, the resulting catalysts CoFe@NC/CoFe2O4/IF demonstrate exciting trifunctional catalytic performance, overpotential of 66 mV and 185 mV for HER and OER at current densities of 10 mA cm&#8722;2, and a half-wave potential of 0.852 V for ORR, respectively. In addition, the maximum power density of the Zinc-air batteries (ZABs) assembled with CoFe@NC/CoFe2O4/IF as the cathode electrode is 134.5 mW cm&#8722;2; and the overall water splitting requires only a voltage of 1.50 V at a decomposition current density at 10 mA cm&#8722;2. This method provides a new strategy for trifunctional electrocatalysts and offers a promising approach for self-driven water electrolysis devices.</description>
-      <author>JiaJun Lai, Zeng Chen, Song Peng, Qin Zhou, Zeng Ju, Chao Liu, Xiaopeng Qi</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234218</guid>
-    </item>
     <item>
       <title>Dipole Effect on Oxygen Evolution Reaction of 2D Janus Single-Atom Catalysts: A Case of Rh Anchored on the &lt;i&gt;P&lt;/i&gt;6&lt;i&gt;m&lt;/i&gt;2-NP Configurations</title>
       <link>https://doi.org/10.1021/acs.jpclett.3c03148</link>
@@ -258,24 +208,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16051953</guid>
     </item>
     <item>
-      <title>The role of strain in oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.02.007</link>
-      <description>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392122210
+      <title>Ultrasmall Ruthenium Nanoclusters Anchored on Thiol-Functionalized Metal&#8211;Organic Framework as a Catalyst for the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsanm.3c06102</link>
+      <description>Biswajit Mishra, Swayamprakash Biswal, Bijay P. Tripathi, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4392191736
 
                 No abstract</description>
-      <author>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.007</guid>
-    </item>
-    <item>
-      <title>Oxygen evolution reaction on iridium-molybdenum mixed oxide electrocatalysts</title>
-      <link>https://openalex.org/W4392181502</link>
-      <description>C&#233;dric Tard, Marine Elmaalouf, Silvia Dur&#225;n, Mateusz Odziomek, Marco Faustini, C&#233;dric Boissi&#232;re, Marion Giraud, Jennifer P&#233;ron, No host. None(None)] 2019. https://openalex.org/W4392181502
-
-                No abstract</description>
-      <author>C&#233;dric Tard, Marine Elmaalouf, Silvia Dur&#225;n, Mateusz Odziomek, Marco Faustini, C&#233;dric Boissi&#232;re, Marion Giraud, Jennifer P&#233;ron</author>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392181502</guid>
+      <author>Biswajit Mishra, Swayamprakash Biswal, Bijay P. Tripathi</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c06102</guid>
     </item>
     <item>
       <title>Stability challenges and opportunities of NiFe&#8208;based electrocatalysts for oxygen evolution reaction in alkaline media</title>
@@ -298,24 +238,44 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta08079j</guid>
     </item>
     <item>
-      <title>Investigation of the Relationship between Metal Loading and Acidic Oxygen Evolution Reaction Activity in Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c06263</link>
-      <description>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392084683
+      <title>Oxygen evolution reaction on iridium-molybdenum mixed oxide electrocatalysts</title>
+      <link>https://openalex.org/W4392181502</link>
+      <description>C&#233;dric Tard, Marine Elmaalouf, Silvia Dur&#225;n, Mateusz Odziomek, Marco Faustini, C&#233;dric Boissi&#232;re, Marion Giraud, Jennifer P&#233;ron, No host. None(None)] 2019. https://openalex.org/W4392181502
 
                 No abstract</description>
-      <author>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06263</guid>
+      <author>C&#233;dric Tard, Marine Elmaalouf, Silvia Dur&#225;n, Mateusz Odziomek, Marco Faustini, C&#233;dric Boissi&#232;re, Marion Giraud, Jennifer P&#233;ron</author>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4392181502</guid>
     </item>
     <item>
-      <title>Ultrasmall Ruthenium Nanoclusters Anchored on Thiol-Functionalized Metal&#8211;Organic Framework as a Catalyst for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsanm.3c06102</link>
-      <description>Biswajit Mishra, Swayamprakash Biswal, Bijay P. Tripathi, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4392191736
+      <title>The behaviors of electrochemical oxygen intercalation of some oxygen-deficient ferrites and physical properties of perovskite Sr2LaFe3O8.95 prepared by electrochemical oxidation</title>
+      <link>https://openalex.org/W4392225188</link>
+      <description>Fang Zhou, No host. None(None)] 1997. https://openalex.org/W4392225188
 
                 No abstract</description>
-      <author>Biswajit Mishra, Swayamprakash Biswal, Bijay P. Tripathi</author>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c06102</guid>
+      <author>Fang Zhou</author>
+      <pubDate>Thu, 12 Jun 1997 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4392225188</guid>
+    </item>
+    <item>
+      <title>The role of strain in oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.02.007</link>
+      <description>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392122210
+
+                No abstract</description>
+      <author>Zhixuan Feng, Chia-Tsen Dai, Zhe Zhang, Xuefei Lei, Wenning Mu, Rui Guo, Xuanwen Liu, Jinyuan You</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.007</guid>
+    </item>
+    <item>
+      <title>Oxidation Characterization of Water Immersion Coal on Pore Evolution and Oxygen Adsorption Behavior</title>
+      <link>https://doi.org/10.1007/s11053-024-10314-8</link>
+      <description>Xinxiao Lu, Guoyu Shi, Shuo Wang, Xiao Jin-xiang, Natural Resources Research. None(None)] 2024. https://openalex.org/W4392096000
+
+                No abstract</description>
+      <author>Xinxiao Lu, Guoyu Shi, Shuo Wang, Xiao Jin-xiang</author>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11053-024-10314-8</guid>
     </item>
   </channel>
 </rss>

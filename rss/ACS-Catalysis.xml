@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:42:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surpassing the Limited Coordination Affinity of Native Amides by Introducing Pyridone-Pd-AgOAc Clusters to Promote Distal &#947;-C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Arylation</title>
-      <link>https://doi.org/10.1021/acscatal.3c06007</link>
-      <description>Nupur Goswami, Nikunj Kumar, Puneet Gupta, Debabrata Maiti, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392022653
-
-                The utilization of weak coordination in promoting site-selective C(sp3)&#8211;H functionalization is of immense importance. Herein, we report a Pd-catalyzed distal &#947;-C(sp3)&#8211;H arylation that harnesses the weak coordination affinity of keto groups with the native noncoordinating amide moiety. The current protocol overcomes one of the major challenges associated with the diversification of synthetic modular frameworks of quaternary centers: controlling the mono- vs difunctionalization of chemically equivalent C&#8211;H bonds. The developed condition overrides the interference of the acidic &#945;-hydrogen for possible side reactions of amides and delivers the exclusive formation of the &#947;-monoarylated product. The association of 2-hydroxy pyridine ligands bearing electron-withdrawing substituents demonstrated the best partnership with the Pd&#8211;Ag hetero-bimetallic complex to achieve this distal &#947;-C(sp3)&#8211;H activation of a range of noncoordinating aliphatic amides in the absence of any other exogenous ligand. Here, an array of mechanistic measurements helped us to realize the role of the ligand. A density functional theory (DFT) study was performed on four different computational models to elucidate the working principle of a single pyridone ligand in the absence of any externally installed strong chelating donor motifs. The reaction proceeds sequentially through three primary stages: initial C&#8211;H activation of the &#947;-C(sp3)&#8211;H bond of the amide, succeeded by the oxidative addition of the aryl halide, culminating in reductive elimination, which facilitates the C(sp2)&#8211;C(sp3) coupling between the aryl and the aliphatic amide moieties. The role of the silver salt remained essential not only for successful C&#8211;H activation but also for turning over the catalytic cycle.</description>
-      <author>Nupur Goswami, Nikunj Kumar, Puneet Gupta, Debabrata Maiti</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06007</guid>
-    </item>
-    <item>
-      <title>Flexible Units Induced Three-Dimensional Covalent Organic Frameworks with a Heteromotif Molecular Junction for Photocatalytic H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
-      <link>https://doi.org/10.1021/acscatal.3c06078</link>
-      <description>Jia-Peng Liao, Mi Zhang, Pei Huang, Long&#8208;Zhang Dong, Tiantian Ma, Guo&#8208;Zhang Huang, Yu-Fei Liu, Meng Lu, Shun-Li Li, Ya&#8208;Qian Lan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392038453
-
-                In recent years, significant progress has been achieved in the field of three-dimensional covalent organic frameworks (3D COFs). However, there is still a great challenge to use flexible building units to synthesize high-connectivity 3D COFs. In this work, we showed that [6 + 3] 3D COFs could be constructed by inducing highly flexible planar building blocks from C3 antitriangular prismed 3D building blocks. Herein, two 3D COFs with spn topology based on flexible cyclotriphosphazene units were constructed and denoted as TAA/TAB-CTP-COF, and their redox ability and photophysical features can be finely regulated by the coupled functional group, such as benzene and triazine groups. As a result, the redox heteromotif molecular junction TAA-CTP-COF with fully exposed active sites achieved high photocatalytic production of hydrogen peroxide (H2O2) with a yield of 1041 &#956;M h&#8211;1 without any additional photosensitizers, organic scavengers, or cocatalysts. Furthermore, in the presence of an electron donor, the production rate of H2O2 could reach up to 2221 &#956;M h&#8211;1, exhibiting one of the best performances for photocatalytic H2O2 production in the field of crystalline materials. This work showcases the potential of using flexible building blocks in building 3D COFs and highlights the versatility and efficacy of metal-free COFs in solar energy conversion.</description>
-      <author>Jia-Peng Liao, Mi Zhang, Pei Huang, Long&#8208;Zhang Dong, Tiantian Ma, Guo&#8208;Zhang Huang, Yu-Fei Liu, Meng Lu, Shun-Li Li, Ya&#8208;Qian Lan</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06078</guid>
-    </item>
-    <item>
-      <title>Effect of Mixing Order of Si and Al Sources on the Inner Architecture and Catalytic Performance of ZSM-5 Zeolites</title>
-      <link>https://doi.org/10.1021/acscatal.4c00262</link>
-      <description>Yongjia Shen, Shang Zhang, Zhengxing Qin, Antoine Beuque, Ludovic Pinard, Shunsuke Asahina, Naoki Asano, Ruizhe Zhang, Jiaqi Zhao, Fan Yang, Xinmei Liu, Yan Zhang, Svetlana Mintova, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392044042
-
-                The performance of zeolites in catalysis and adsorption is closely related to their inner architecture beneath the crystal surface, which however remains less studied due to characterization limitations. Here we report the synthesis of two ZSM-5 zeolite samples by changing only the order of mixing of Si and Al sources, resulting not only in morphological differences of the zeolite crystals but most importantly in defined distinction in their inner architecture. The spatial Si and Al distributions and structural properties of the ZSM-5 zeolite crystals were characterized by high-resolution microscopy under chemically unbiased defect-selective NH4F etching. The Al-zoning and structural features in the ZSM-5 zeolite crystals were explained by the biased nucleation in the Si-rich aluminosilicate amorphous precursor followed by multistage crystal growth in a heterogeneous feedstock. This observation was associated with the different solubility and reactivity of the microscopic aluminosilicate domains with various Si/Al ratios in the amorphous precursors. The zeolites with diverse structural properties showed a high cracking activity in n-hexane cracking reaction and different activity, stability, and product selectivity in the ethylene dehydroaromatization (EDA) reaction. The comprehensive understanding of the zeolite synthesis history and their performance in the EDA reaction revealed the chemical mixing-dependent synthesis&#8211;structure&#8211;performance correlation of the zeolite catalyst.</description>
-      <author>Yongjia Shen, Shang Zhang, Zhengxing Qin, Antoine Beuque, Ludovic Pinard, Shunsuke Asahina, Naoki Asano, Ruizhe Zhang, Jiaqi Zhao, Fan Yang, Xinmei Liu, Yan Zhang, Svetlana Mintova</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00262</guid>
-    </item>
-    <item>
-      <title>Supervised AI and Deep Neural Networks to Evaluate High-Entropy Alloys as Reduction Catalysts in Aqueous Environments</title>
-      <link>https://doi.org/10.1021/acscatal.3c05017</link>
-      <description>Rafael B. Araujo, Tomas Edvinsson, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392044082
-
-                No abstract</description>
-      <author>Rafael B. Araujo, Tomas Edvinsson</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05017</guid>
-    </item>
-    <item>
-      <title>Catalytic Enantioselective Cycloaddition Transformation of Tricyclic Arenes Enabled by a Dual-Role Chiral Cage-Reactor</title>
-      <link>https://doi.org/10.1021/acscatal.3c06361</link>
-      <description>Jie Chen, Xueyuan Wu, Huang Sisi, Jie Yang, Yu&#8208;Lin Lu, Zhiwei Jiao, Cheng&#8208;Yong Su, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392049487
-
-                No abstract</description>
-      <author>Jie Chen, Xueyuan Wu, Huang Sisi, Jie Yang, Yu&#8208;Lin Lu, Zhiwei Jiao, Cheng&#8208;Yong Su</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06361</guid>
-    </item>
-    <item>
-      <title>Ultrathin Holey Pt&#8211;M Alloy Nanosheets via Sequential Kinetic&#8211;Thermodynamic Metal Reduction Control</title>
-      <link>https://doi.org/10.1021/acscatal.3c05806</link>
-      <description>Heon Chul Kim, Respati K. Pramadewandaru, Mrinal Kanti Kabiraz, Ghufran Aulia Bin Azizar, Hafidatul Wahidah, Youngmin Kim, Su&#8208;Un Lee, Ho&#8208;Jeong Chae, Sang&#8208;Il Choi, Jong Wook Hong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392078691
-
-                No abstract</description>
-      <author>Heon Chul Kim, Respati K. Pramadewandaru, Mrinal Kanti Kabiraz, Ghufran Aulia Bin Azizar, Hafidatul Wahidah, Youngmin Kim, Su&#8208;Un Lee, Ho&#8208;Jeong Chae, Sang&#8208;Il Choi, Jong Wook Hong</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05806</guid>
-    </item>
-    <item>
-      <title>Investigation of the Relationship between Metal Loading and Acidic Oxygen Evolution Reaction Activity in Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c06263</link>
-      <description>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392084683
-
-                No abstract</description>
-      <author>Bing Tang, Xiaolong Zhang, Qianqian Ji, Gao Min, Huijuan Wang, Ruiqi Liu, Peng Jiang, Hengjie Liu, Chao Wang, Hao Tan, Wensheng Yan</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06263</guid>
-    </item>
     <item>
       <title>Synergistic Dual Catalysis in Stereodivergent Synthesis</title>
       <link>https://doi.org/10.1021/acscatal.3c06267</link>

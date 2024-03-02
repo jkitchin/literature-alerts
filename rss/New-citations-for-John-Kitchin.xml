@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 00:42:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Probe the Dynamic Adsorption and Phase Transition of Underpotential Deposition Processes at Electrode&#8211;Electrolyte Interfaces</title>
-      <link>https://doi.org/10.1021/acs.langmuir.3c03899</link>
-      <description>Kuo-Hao Chen, Fatemeh Fathi, Tristan Maxson, Mezbah Hossain, Emil F. Khisamutdinov, Tibor Szilv&#225;si, Xiangqun Zeng, Zhihai Li, Langmuir. None(None)] 2024. https://openalex.org/W4392044078
-
-                No abstract</description>
-      <author>Kuo-Hao Chen, Fatemeh Fathi, Tristan Maxson, Mezbah Hossain, Emil F. Khisamutdinov, Tibor Szilv&#225;si, Xiangqun Zeng, Zhihai Li</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.3c03899</guid>
-    </item>
-    <item>
-      <title>Supervised AI and Deep Neural Networks to Evaluate High-Entropy Alloys as Reduction Catalysts in Aqueous Environments</title>
-      <link>https://doi.org/10.1021/acscatal.3c05017</link>
-      <description>Rafael B. Araujo, Tomas Edvinsson, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392044082
-
-                No abstract</description>
-      <author>Rafael B. Araujo, Tomas Edvinsson</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05017</guid>
-    </item>
-    <item>
-      <title>Complementary probes for the electrochemical interface</title>
-      <link>https://doi.org/10.1038/s41570-024-00575-5</link>
-      <description>Ernest Pastor, Zan Lian, Lu Xia, David &#201;cija, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s, Sara Barja, Sixto Gim&#233;nez, Jordi Arbiol, N&#250;ria L&#243;pez, F. Pelayo Garc&#305;&#769;a de Arquer, Nature Reviews Chemistry. None(None)] 2024. https://openalex.org/W4392044291
-
-                No abstract</description>
-      <author>Ernest Pastor, Zan Lian, Lu Xia, David &#201;cija, Jos&#233; Ram&#243;n Gal&#225;n&#8208;Mascar&#243;s, Sara Barja, Sixto Gim&#233;nez, Jordi Arbiol, N&#250;ria L&#243;pez, F. Pelayo Garc&#305;&#769;a de Arquer</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41570-024-00575-5</guid>
-    </item>
-    <item>
-      <title>Machine-learned atomic cluster expansion potentials for fast and quantum-accurate thermal simulations of wurtzite AlN</title>
-      <link>https://doi.org/10.1063/5.0188905</link>
-      <description>Yang Guang, Y. Liu, Lei Yang, Bing&#8208;Yang Cao, Journal of Applied Physics. 135(8)] 2024. https://openalex.org/W4392048091
-
-                Thermal transport in wurtzite aluminum nitride (w-AlN) significantly affects the performance and reliability of corresponding electronic devices, particularly when lattice strains inevitably impact the thermal properties of w-AlN in practical applications. To accurately model the thermal properties of w-AlN with high efficiency, we develop a machine learning interatomic potential based on the atomic cluster expansion (ACE) framework. The predictive power of the ACE potential against density functional theory (DFT) is demonstrated across a broad range of properties of w-AlN, including ground-state lattice parameters, specific heat capacity, coefficients of thermal expansion, bulk modulus, and harmonic phonon dispersions. Validation of lattice thermal conductivity is further carried out by comparing the ACE-predicted values to the DFT calculations and experiments, exhibiting the overall capability of our ACE potential in sufficiently describing anharmonic phonon interactions. As a practical application, we perform a lattice dynamics analysis using the potential to unravel the effects of biaxial strains on thermal conductivity and phonon properties of w-AlN, which is identified as a significant tuning factor for near-junction thermal design of w-AlN-based electronics.</description>
-      <author>Yang Guang, Y. Liu, Lei Yang, Bing&#8208;Yang Cao</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0188905</guid>
-    </item>
-    <item>
-      <title>Scholar Metrics Scraper (SMS): automated retrieval of citation and author data</title>
-      <link>https://doi.org/10.3389/frma.2024.1335454</link>
-      <description>Y. S. Cao, Nicole A. Cheung, Dean Giustini, Jeffrey LeDue, Timothy H. Murphy, Frontiers in Research Metrics and Analytics. 9(None)] 2024. https://openalex.org/W4392057301
-
-                Academic departments, research clusters and evaluators analyze author and citation data to measure research impact and to support strategic planning. We created Scholar Metrics Scraper (SMS) to automate the retrieval of bibliometric data for a group of researchers. The project contains Jupyter notebooks that take a list of researchers as an input and exports a CSV file of citation metrics from Google Scholar (GS) to visualize the group's impact and collaboration. A series of graph outputs are also available. SMS is an open solution for automating the retrieval and visualization of citation data.</description>
-      <author>Y. S. Cao, Nicole A. Cheung, Dean Giustini, Jeffrey LeDue, Timothy H. Murphy</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/frma.2024.1335454</guid>
-    </item>
-    <item>
-      <title>Triple Play of Band Gap, Interband, and Plasmonic Excitations for Enhanced Catalytic Activity in Pd/H&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MoO&lt;sub&gt;3&lt;/sub&gt; Nanoparticles in the Visible Region</title>
-      <link>https://doi.org/10.1021/acsami.3c17101</link>
-      <description>Leticia S. Bezerra, Samir A. Belhout, Shiqi Wang, Jhon Quiroz, P. M. S. Oliveira, Shwetha Shetty, George J. M. Rocha, Hugo Leandro Sousa dos Santos, Sana Frindy, Freddy E. Oropeza, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Antti&#8208;Jussi Kallio, Simo Huotari, Wenyi Huo, Pedro H. C. Camargo, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4392058068
-
-                Plasmonic photocatalysis has been limited by the high cost and scalability of plasmonic materials, such as Ag and Au. By focusing on earth-abundant photocatalyst/plasmonic materials (HxMoO3) and Pd as a catalyst, we addressed these challenges by developing a solventless mechanochemical synthesis of Pd/HxMoO3 and optimizing photocatalytic activities in the visible range. We investigated the effect of HxMoO3 band gap excitation (at 427 nm), Pd interband transitions (at 427 nm), and HxMoO3 localized surface plasmon resonance (LSPR) excitation (at 640 nm) over photocatalytic activities toward the hydrogen evolution and phenylacetylene hydrogenation as model reactions. Although both excitation wavelengths led to comparable photoenhancements, a 110% increase was achieved under dual excitation conditions (427 + 640 nm). This was assigned to a synergistic effect of optical excitations that optimized the generation of energetic electrons at the catalytic sites. These results are important for the development of visible-light photocatalysts based on earth-abundant components.</description>
-      <author>Leticia S. Bezerra, Samir A. Belhout, Shiqi Wang, Jhon Quiroz, P. M. S. Oliveira, Shwetha Shetty, George J. M. Rocha, Hugo Leandro Sousa dos Santos, Sana Frindy, Freddy E. Oropeza, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Antti&#8208;Jussi Kallio, Simo Huotari, Wenyi Huo, Pedro H. C. Camargo</author>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17101</guid>
-    </item>
-    <item>
-      <title>Two-Dimensional SiH/g-C3N4 van der Waals Type-II Heterojunction Photocatalyst: A New Effective and Promising Photocatalytic Material</title>
-      <link>https://doi.org/10.3390/coatings14030263</link>
-      <description>Qi Wang, Qian Zhu, Lei Cao, Liangdong Fan, Feng Gu, Ying Zhang, Cao Zheng, Shixian Xiong, Liang Xu, Coatings. 14(3)] 2024. https://openalex.org/W4392081661
-
-                The two-dimensional layered heterostructure have been demonstrated as an effective method for achieving efficient photocatalytic hydrogen production. In this work, we propose, for the first time, the creation of van der Waals heterostructures from monolayers of SiH and g-C3N4 using first-principle calculations. We also systematically investigated additional properties for the first time, such as the electronic structure and optical behavior of van der Waals heterostructures composed of SiH and g-C3N4 monolayers. The results of this study show that the SiH/g-C3N4 heterostructure is categorized as a type-II heterostructure, which has a bandgap of 2.268 eV. Furthermore, the SiH/g-C3N4 heterostructure interface was observed to efficiently separate and transfer photogenerated charges, resulting in an enhanced photocatalytic redox performance. Moreover, the calculation of HOMO (Highest occupied molecular orbital) and LUMO (Least unoccupied molecular orbital) and charge density difference can further confirm that the SiH/g-C3N4 heterojunction is a type-II heterojunction, which has excellent photocatalytic hydrogen production and water decomposition performance. In addition, the SiH/g-C3N4 heterostructure exhibited excellent HER (Hydrogen evolution reaction) efficiency. This is essential for the process of photocatalytic water splitting. In SiH/g-C3N4 heterojunctions, the redox potential required for water splitting is spanned by the band edge potential. Calculating the absorption spectra, it was discovered that the SiH/g-C3N4 heterostructure possesses outstanding optical properties within the visible-light range, implying its high efficiency in photocatalytic hydrogen production. This research provides a broader research direction for the investigation of novel efficient photocatalysts and offers effective theoretical guidance for future efficient photocatalysts.</description>
-      <author>Qi Wang, Qian Zhu, Lei Cao, Liangdong Fan, Feng Gu, Ying Zhang, Cao Zheng, Shixian Xiong, Liang Xu</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/coatings14030263</guid>
-    </item>
     <item>
       <title>The Advancement of Catalysts for Proton&#8208;Exchange Membrane Fuel Cells</title>
       <link>https://doi.org/10.1002/9783527831005.ch9</link>
@@ -256,6 +186,76 @@
       <author>Yanlin Yu, Huaizhang Gu, Guangxin Wu, Xuexia Liu</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.112876</guid>
+    </item>
+    <item>
+      <title>Dealloyed nanoporous platinum alloy electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.286</link>
+      <description>Viswanathan S. Saji, International Journal of Hydrogen Energy. 60(None)] 2024. https://openalex.org/W4392140006
+
+                Dealloyed nanoporous platinum (np-Pt) alloy electrocatalysts are advantageous owing to the lower Pt content in the alloy composition, nanoporous architecture with high electrochemically active surface area, and excellent electrocatalytic activity and durability. Chemical, electrochemical or other dealloying methods help to develop commercially relevant np-Pt alloys. Selection of the appropriate precursor alloy composition, dealloying solution concentration and time, and the number and nature of dealloying steps are essential to optimize the desirable properties. We comprehensively review the available information on dealloyed Pt and its binary, ternary, quaternary and high-entropy alloys, nanoparticles and composites. The review presents various Pt alloy types and their dealloying conditions and the current understanding of the mechanism of electrocatalysis at the nanoporous confined spaces. The origin and the factors contributing to the electrocatalytic activity of dealloyed nanoporous electrocatalysts are discussed. The collective information could assist researchers in deriving more efficient and durable dealloyed electrocatalysts in various electrochemical energy applications.</description>
+      <author>Viswanathan S. Saji</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.286</guid>
+    </item>
+    <item>
+      <title>High-precision colorimetric-fluorescent dual-mode biosensor for detecting acetylcholinesterase based on a trimetallic nanozyme for efficient peroxidase-mimicking</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.01.013</link>
+      <description>Meie Zheng, Mingxing Liu, Zichen Song, Fuqiu Ma, Hao Zhu, Huiling Guo, Hongjian Sun, Journal of Materials Science &amp; Technology. 191(None)] 2024. https://openalex.org/W4392145906
+
+                No abstract</description>
+      <author>Meie Zheng, Mingxing Liu, Zichen Song, Fuqiu Ma, Hao Zhu, Huiling Guo, Hongjian Sun</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.01.013</guid>
+    </item>
+    <item>
+      <title>Accelerated Lignocellulosic Molecule Adsorption Structure Determination</title>
+      <link>https://doi.org/10.1021/acs.jctc.3c01292</link>
+      <description>Joakim S. Jestil&#228;, Nian Fen Wu, Fabio Priante, Adam S. Foster, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4392150988
+
+                Here, we present a study combining Bayesian optimization structural inference with the machine learning interatomic potential Neural Equivariant Interatomic Potential (NequIP) to accelerate and enable the study of the adsorption of the conformationally flexible lignocellulosic molecules &#946;-d-xylose and 1,4-&#946;-d-xylotetraose on a copper surface. The number of structure evaluations needed to map out the relevant potential energy surfaces are reduced by Bayesian optimization, while NequIP minimizes the time spent on each evaluation, ultimately resulting in cost-efficient and reliable sampling of large systems and configurational spaces. Although the applicability of Bayesian optimization for the conformational analysis of the more flexible xylotetraose molecule is restricted by the sample complexity bottleneck, the latter can be effectively bypassed with external conformer search tools, such as the Conformer-Rotamer Ensemble Sampling Tool, facilitating the subsequent lower-dimensional global minimum adsorption structure determination. Finally, we demonstrate the applicability of the described approach to find adsorption structures practically equivalent to the density functional theory counterparts at a fraction of the computational cost.</description>
+      <author>Joakim S. Jestil&#228;, Nian Fen Wu, Fabio Priante, Adam S. Foster</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01292</guid>
+    </item>
+    <item>
+      <title>Overcoming Defect Limitations in Photocatalysis: Boron&#8208;Incorporation Engineered Crystalline Red Phosphorus for Enhanced Hydrogen Production</title>
+      <link>https://doi.org/10.1002/adfm.202400542</link>
+      <description>Xinya Pei, Junwei Bian, Wei Zhang, Zhuofeng Hu, Yun Hau Ng, Dong Ye, Xiaofeng Zhai, Zhen Wei, Yuxi Liu, Jiguang Deng, Hongxing Dai, Lin Jing, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392153574
+
+                Abstract Photocatalytic hydrogen evolution (PHE) from water splitting is a promising technology for clean and renewable energy production. Elemental crystalline red phosphorus (CRP) is purposefully designed and developed for PHE reaction. However, the photocatalytic activity of CRP is limited by its intrinsic P vacancy (V P ) defects, which lead to detrimental charge trapping at deep states and hence its severe recombination. To address this issue, a boron (B) incorporated CRP (B&#8208;CRP) photocatalyst is tailored, synthesized via a simple and mild boric acid&#8208;assisted hydrothermal strategy. The incorporation of B effectively fills the V P defects, reducing deep trap states (DTS) and introducing beneficial shallow trap states (STS) within the band structure of CRP. This defect engineering approach leads to enhanced photocatalytic activity, with B&#8208;CRP achieving a PHE rate of 1392 &#181;mol g &#8722;1 h &#8722;1 , significantly outperforming most reported elemental photocatalysts in the literature. Density functional theory (DFT) simulations and ultrafast spectroscopy support the constructive role of B&#8208;dopant&#8208;induced STS in prolonging active charge carrier lifetimes, promoting more efficient photocatalytic reactions. The findings not only demonstrate the effectiveness of B&#8208;CRP as a photocatalyst but also highlight the usefulness of dopant&#8208;induced STS in advancing PHE technologies.</description>
+      <author>Xinya Pei, Junwei Bian, Wei Zhang, Zhuofeng Hu, Yun Hau Ng, Dong Ye, Xiaofeng Zhai, Zhen Wei, Yuxi Liu, Jiguang Deng, Hongxing Dai, Lin Jing</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202400542</guid>
+    </item>
+    <item>
+      <title>A universal and scalable transformation of bulk metals into single-atom catalysts in ionic liquids</title>
+      <link>https://doi.org/10.1073/pnas.2319136121</link>
+      <description>Shujuan Wang, Ming&#8208;Hui Lu, Xuewen Xia, Fei Wang, Xiaolu Xiong, Kai Ding, Zhongya Pang, Guangshi Li, Qian Xu, Hsien&#8208;Yi Hsu, Hujun Shen, Ji Li, Yufeng Zhao, Jing Wang, Xingli Zou, Xionggang Lu, Proceedings of the National Academy of Sciences of the United States of America. 121(10)] 2024. https://openalex.org/W4392157760
+
+                Single-atom catalysts (SACs) with maximized metal atom utilization and intriguing properties are of utmost importance for energy conversion and catalysis science. However, the lack of a straightforward and scalable synthesis strategy of SACs on diverse support materials remains the bottleneck for their large-scale industrial applications. Herein, we report a general approach to directly transform bulk metals into single atoms through the precise control of the electrodissolution&#8211;electrodeposition kinetics in ionic liquids and demonstrate the successful applicability of up to twenty different monometallic SACs and one multimetallic SAC with five distinct elements. As a case study, the atomically dispersed Pt was electrodeposited onto Ni 3 N/Ni-Co-graphene oxide heterostructures in varied scales (up to 5 cm &#215; 5 cm) as bifunctional catalysts with the electronic metal&#8211;support interaction, which exhibits low overpotentials at 10 mA cm &#8722;2 for hydrogen evolution reaction (HER, 30 mV) and oxygen evolution reaction (OER, 263 mV) with a relatively low Pt loading (0.98 wt%). This work provides a simple and practical route for large-scale synthesis of various SACs with favorable catalytic properties on diversified supports using alternative ionic liquids and inspires the methodology on precise synthesis of multimetallic single-atom materials with tunable compositions.</description>
+      <author>Shujuan Wang, Ming&#8208;Hui Lu, Xuewen Xia, Fei Wang, Xiaolu Xiong, Kai Ding, Zhongya Pang, Guangshi Li, Qian Xu, Hsien&#8208;Yi Hsu, Hujun Shen, Ji Li, Yufeng Zhao, Jing Wang, Xingli Zou, Xionggang Lu</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2319136121</guid>
+    </item>
+    <item>
+      <title>Dual-site segmentally synergistic catalysis mechanism: boosting CoFeSx nanocluster for sustainable water oxidation</title>
+      <link>https://doi.org/10.1038/s41467-024-45700-6</link>
+      <description>Siran Xu, Sihua Feng, Yue Yu, Dongping Xue, Mengli Liu, Chao Wang, Kaiyue Zhao, Bingjun Xu, Jianan Zhang, Nature Communications. 15(1)] 2024. https://openalex.org/W4392165142
+
+                Abstract Efficient oxygen evolution reaction electrocatalysts are essential for sustainable clean energy conversion. However, catalytic materials followed the conventional adsorbate evolution mechanism (AEM) with the inherent scaling relationship between key oxygen intermediates *OOH and *OH, or the lattice-oxygen-mediated mechanism (LOM) with the possible lattice oxygen migration and structural reconstruction, which are not favorable to the balance between high activity and stability. Herein, we propose an unconventional Co-Fe dual-site segmentally synergistic mechanism (DSSM) for single-domain ferromagnetic catalyst CoFeS x nanoclusters on carbon nanotubes (CNT) (CFS-ACs/CNT), which can effectively break the scaling relationship without sacrificing stability. Co 3+ (L.S, t 2g 6 e g 0 ) supplies the strongest OH* adsorption energy, while Fe 3+ (M.S, t 2g 4 e g 1 ) exposes strong O* adsorption. These dual-sites synergistically produce of Co-O-O-Fe intermediates, thereby accelerating the release of triplet-state oxygen ( &#8593; O = O &#8593; ). As predicted, the prepared CFS-ACs/CNT catalyst exhibits less overpotential than that of commercial IrO 2 , as well as approximately 633 h of stability without significant potential loss.</description>
+      <author>Siran Xu, Sihua Feng, Yue Yu, Dongping Xue, Mengli Liu, Chao Wang, Kaiyue Zhao, Bingjun Xu, Jianan Zhang</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45700-6</guid>
+    </item>
+    <item>
+      <title>MXenes as Effective Sulfur Hosts and Electrocatalysts to Suppress Lithium Polysulfide Shuttling: A Computational Study</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07776</link>
+      <description>Thilini Boteju, Sathish Ponnurangam, Venkataraman Thangadurai, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392166721
+
+                Exploring electrocatalysts for the sulfur reduction reaction (SRR) has emerged as a promising strategy to suppress the shuttle effect and enhance the kinetics in lithium&#8211;sulfur (Li&#8211;S) batteries. A comprehensive understanding of the electrocatalytic mechanism within Li&#8211;S batteries remains elusive, which hinders the rational design of advanced electrocatalysts for these systems. In this study, two-dimensional (2D) transition metal carbides and nitrides (MXenes) have been investigated for the catalytic conversion of lithium polysulfides (LiPSs) using density functional theory (DFT). Our findings reveal that MXenes show a moderate binding affinity for LiPSs, suggesting favorable thermodynamics for their role as electrocatalysts for the SRR. This thermodynamic favorability promotes the suppression of the LiPSs&#8217; shuttle effect and the enhancement of the SRR kinetics. The SRR process in Li&#8211;S batteries consists of multiple steps with varying activation energies. Our analysis by constructing the energy diagram for the multistep SRR indicates that the initial reduction of S8 to Li2S8 is facile with a lower activation energy, while the last step where Li2S2 converts to Li2S appears to be a rate-limiting step. To predict the catalytic abilities of MXene structures, we built a volcano-shaped relationship between the adsorption of LiPSs and catalytic activity. We show three MXenes&#9472;Ta2CO2, Zr2NO2, and Mo2NO2 as potential electrocatalysts that exhibit lower thermodynamic overpotentials for the SRR. These findings represent a significant step toward developing advanced electrocatalysts that may unlock the full potential of Li&#8211;S batteries, paving the way for improved energy storage systems with enhanced efficiency and performance.</description>
+      <author>Thilini Boteju, Sathish Ponnurangam, Venkataraman Thangadurai</author>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07776</guid>
     </item>
     <item>
       <title>Informative Training Data for Efficient Property Prediction in Metal&#8211;Organic Frameworks by Active Learning</title>
