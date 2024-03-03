@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Mar  2 00:42:31 2024
+Created on Sun Mar  3 00:46:23 2024
 
-Found 10 results from 2024-02-24 to 2024-03-02
+Found 9 results from 2024-02-25 to 2024-03-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Synergistic Dual Catalysis in Stereodivergent Synthesis   
-
-OpenAlex: https://openalex.org/W4392095563    
-Open access: False
-    
-[Liang Wei](https://openalex.org/A5071261513), [Chu-Li Fu](https://openalex.org/A5086781782), [Zuo-Fei Wang](https://openalex.org/A5064765338), [Hai‐Yan Tao](https://openalex.org/A5028556048), [Chun‐Jiang Wang](https://openalex.org/A5014921160), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06267.
-    
-No abstract    
-
-    
 
 ## Fast Kinetics of Hydrogen Oxidation Reaction on Single-Atom Ce-Alloyed Ru in Alkaline Electrolytes   
 

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 02 Mar 2024 00:42:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Mar 2024 00:46:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synergistic Dual Catalysis in Stereodivergent Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.3c06267</link>
-      <description>Liang Wei, Chu-Li Fu, Zuo-Fei Wang, Hai&#8208;Yan Tao, Chun&#8208;Jiang Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392095563
-
-                No abstract</description>
-      <author>Liang Wei, Chu-Li Fu, Zuo-Fei Wang, Hai&#8208;Yan Tao, Chun&#8208;Jiang Wang</author>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06267</guid>
-    </item>
     <item>
       <title>Fast Kinetics of Hydrogen Oxidation Reaction on Single-Atom Ce-Alloyed Ru in Alkaline Electrolytes</title>
       <link>https://doi.org/10.1021/acscatal.3c05954</link>

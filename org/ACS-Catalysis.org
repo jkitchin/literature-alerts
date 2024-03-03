@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Mar  2 00:42:31 2024
+Created on Sun Mar  3 00:46:23 2024
 
-Found 10 results from 2024-02-24 to 2024-03-02
+Found 9 results from 2024-02-25 to 2024-03-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Synergistic Dual Catalysis in Stereodivergent Synthesis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392095563
-:TOPICS: Homogeneous Catalysis with Transition Metals, Olefin Metathesis Chemistry, Asymmetric Catalysis
-:PUBLICATION_DATE: 2024-02-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06267")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392095563"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392095563"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392095563"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392095563 (Open access: False)
-    
-[[https://openalex.org/A5071261513][Liang Wei]], [[https://openalex.org/A5086781782][Chu-Li Fu]], [[https://openalex.org/A5064765338][Zuo-Fei Wang]], [[https://openalex.org/A5028556048][Hai‐Yan Tao]], [[https://openalex.org/A5014921160][Chun‐Jiang Wang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06267 
-     
-No abstract    
-
-    
 
 * Fast Kinetics of Hydrogen Oxidation Reaction on Single-Atom Ce-Alloyed Ru in Alkaline Electrolytes  :ACS_Catalysis:
 :PROPERTIES:

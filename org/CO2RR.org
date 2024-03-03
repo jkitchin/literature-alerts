@@ -1,95 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Mar  2 00:42:29 2024
+Created on Sun Mar  3 00:46:22 2024
 
-Found 30 results from 2024-02-24 to 2024-03-02
+Found 29 results from 2024-02-25 to 2024-03-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Electrocatalytic Reduction of Carbon Dioxide  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392093652
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-02-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/9783527831005.ch6")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392093652"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392093652"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392093652"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392093652 (Open access: False)
-    
-[[https://openalex.org/A5085671327][Kejun Chen]], [[https://openalex.org/A5036687874][Hongmei Li]], [[https://openalex.org/A5013848651][Junwei Fu]], [[https://openalex.org/A5087653752][Xiqing Wang]], [[https://openalex.org/A5089961352][Min Liu]], No host. None(None)] 2024. https://doi.org/10.1002/9783527831005.ch6 
-     
-Chapter 6 Electrocatalytic Reduction of Carbon Dioxide Kejun Chen, Kejun Chen Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorHongmei Li, Hongmei Li Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorJunwei Fu, Junwei Fu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorXiqing Wang, Xiqing Wang Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorMin Liu, Min Liu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this author Kejun Chen, Kejun Chen Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorHongmei Li, Hongmei Li Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorJunwei Fu, Junwei Fu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorXiqing Wang, Xiqing Wang Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this authorMin Liu, Min Liu Central South University, School of Physics, Hunan Joint International Research Center for Carbon Dioxide Resource Utilization, Changsha, 410083 ChinaSearch for more papers by this author Book Editor(s):Shaohua Shen, Shaohua Shen Xi'an Jiaotong University, Xi'an, ChinaSearch for more papers by this authorShuangyin Wang, Shuangyin Wang Hunan University, Changsha, ChinaSearch for more papers by this author First published: 23 February 2024 https://doi.org/10.1002/9783527831005.ch6 AboutPDFPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShareShare a linkShare onEmailFacebookTwitterLinkedInRedditWechat Summary Electrocatalytic reduction of carbon dioxide into valuable products by surplus and intermittent sustainable energy is considered as a promising technology for sustainable energy and chemical development. However, its practical application is sternly limited by many factors including the electrolytes, selectivity and activity of catalysts, and even electrolysis devices. In this chapter, the recent progresses about those issues for electrocatalytic reduction of carbon dioxide are summarized. To accelerate the practical application of electrocatalytic reduction of carbon dioxide, the major challenges, strategies, and prospects are highlighted to optimize its performance. References Das , S. , Pérez-Ramírez , J. , Gong , J. et al. ( 2020 ). Chem. Soc. Rev. 49 : 2937 – 3004 . 10.1039/C9CS00713J CASPubMedWeb of Science®Google Scholar Yin , J. , Yin , Z. , Jin , J. et al. ( 2021 ). J. Am. Chem. Soc. 143 : 15335 – 15343 . 10.1021/jacs.1c06877 CASPubMedWeb of Science®Google Scholar Rasul , S. , Anjum , D.H. , Jedidi , A. et al. ( 2015 ). Angew. Chem. Int. Ed. 54 : 2146 – 2150 . 10.1002/anie.201410233 CASPubMedWeb of Science®Google Scholar Zhong , H. , Fujii , K. , Nakano , Y. , and Jin , F. ( 2015 ). J. Phys. Chem. C 119 : 55 – 61 . 10.1021/jp509043h CASWeb of Science®Google Scholar Francke , R. , Schille , B. , and Roemelt , M. ( 2018 ). Chem. Rev. 118 : 4631 – 4701 . 10.1021/acs.chemrev.7b00459 CASPubMedWeb of Science®Google Scholar (a) Zhang , Y. , Xia , B. , Ran , J. et al. ( 2020 ). Adv. Energy Mater. 10 : 1903879 . 10.1002/aenm.201903879 CASWeb of Science®Google Scholar (b) Oh , Y. and Hu , X. ( 2013 ). Chem. Soc. Rev. 42 : 2253 – 2261 . 10.1039/C2CS35276A CASPubMedWeb of Science®Google Scholar (a) Göttle , A.J. and Koper , M.T.M. ( 2017 ). Chem. Sci. 8 : 458 – 465 . 10.1039/C6SC02984A CASPubMedWeb of Science®Google Scholar (b) Pei , Y. , Zhong , H. , and Jin , F. ( 2021 ). Energy Sci. Eng. 9 : 1012 – 1032 . 10.1002/ese3.935 CASWeb of Science®Google Scholar (a) Birdja , Y.Y. , Pérez-Gallent , E. , Figueiredo , M.C. et al. ( 2019 ). Nat. Energy 4 : 732 – 745 . 10.1038/s41560-019-0450-y CASWeb of Science®Google Scholar (b) Chang , K. , Zhang , H. , Chen , J.G. et al. ( 2019 ). ACS Catal. 9 : 8197 – 8207 . 10.1021/acscatal.9b01318 CASWeb of Science®Google Scholar Kortlever , R. , Shen , J. , Schouten , K.J.P. et al. ( 2015 ). J. Phys. Chem. Lett. 6 : 4073 – 4082 . 10.1021/acs.jpclett.5b01559 CASPubMedWeb of Science®Google Scholar Jhong , H.-R.M. , Ma , S. , and Kenis , P.J.A. ( 2013 ). Curr. Opin. Chem. Eng. 2 : 191 – 199 . 10.1016/j.coche.2013.03.005 Web of Science®Google Scholar Ringe , S. , Clark , E.L. , Resasco , J. et al. ( 2019 ). Energy Environ. Sci. 12 : 3001 – 3014 . 10.1039/C9EE01341E CASWeb of Science®Google Scholar Sharifi Golru , S. and Biddinger , E.J. ( 2022 ). Chem. Eng. J. 428 : 131303 . 10.1016/j.cej.2021.131303 PubMedGoogle Scholar (a) Ogura , K. , Yano , H. , and Shirai , F. ( 2003 ). J. Electrochem. Soc. 150 : D163 . 10.1149/1.1593044 CASWeb of Science®Google Scholar (b) Hori , Y. ( 2008 ). Modern Aspects of Electrochemistry (ed. C.G. Vayenas , R.E. White , and M.E. Gamboa-Aldeco ), 89 – 189 . New York, New York, NY : Springer . 10.1007/978-0-387-49489-0_3 Google Scholar Qiao , J. , Liu , Y. , and Zhang , J. ( 2016 ). Electrochemical Reduction of Carbon Dioxide: Fundamentals and Technologies . CRC Press . 10.1201/b20177 Google Scholar Duan , Z. , Sun , R. , Zhu , C. , and Chou , I.M. ( 2006 ). Mar. Chem. 98 : 131 – 139 . 10.1016/j.marchem.2005.09.001 CASWeb of Science®Google Scholar Lamaison , S. , Wakerley , D. , Blanchard , J. et al. ( 2020 ). Joule 4 : 395 – 406 . 10.1016/j.joule.2019.11.014 CASWeb of Science®Google Scholar Koper , M.T.M. ( 2013 ). Chem. Sci. 4 : 2710 – 2723 . 10.1039/c3sc50205h CASWeb of Science®Google Scholar Zhang , Z. , Melo , L. , Jansonius , R.P. et al. ( 2020 ). ACS Energy Lett. 5 : 3101 – 3107 . 10.1021/acsenergylett.0c01606 CASWeb of Science®Google Scholar (a) Gupta , N. , Gattrell , M. , and MacDougall , B. ( 2006 ). J. Appl. Electrochem. 36 : 161 – 172 . 10.1007/s10800-005-9058-y CASWeb of Science®Google Scholar (b) Hashiba , H. , Weng , L.-C. , Chen , Y. et al. ( 2018 ). J. Phys. Chem. C 122 : 3719 – 3726 . 10.1021/acs.jpcc.7b11316 CASWeb of Science®Google Scholar Dinh , C.-T. , Burdyny , T. , Kibria , M.G. et al. ( 2018 ). Science 360 : 783 – 787 . 10.1126/science.aas9100 CASPubMedWeb of Science®Google Scholar Resasco , J. , Chen , L.D. , Clark , E. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 11277 – 11287 . 10.1021/jacs.7b06765 CASPubMedWeb of Science®Google Scholar Monteiro , M.C.O. , Dattila , F. , Hagedoorn , B. et al. ( 2021 ). Nature Catal. 4 : 654 – 662 . 10.1038/s41929-021-00655-5 CASWeb of Science®Google Scholar Singh , M.R. , Kwon , Y. , Lum , Y. et al. ( 2016 ). J. Am. Chem. Soc. 138 : 13006 – 13012 . 10.1021/jacs.6b07612 CASPubMedWeb of Science®Google Scholar Liu , M. , Pang , Y. , Zhang , B. et al. ( 2016 ). Nature 537 : 382 – 386 . 10.1038/nature19060 CASPubMedWeb of Science®Google Scholar (a) An , P. , Wei , L. , Li , H. et al. ( 2020 ). J. Mater. Chem. A 8 : 15936 – 15941 . 10.1039/D0TA03645E CASWeb of Science®Google Scholar (b) Gao , F.-Y. , Hu , S.-J. , Zhang , X.-L. et al. ( 2020 ). Angew. Chem. Int. Ed. 59 : 8706 – 8712 . 10.1002/anie.201912348 CASPubMedWeb of Science®Google Scholar Ogura , K. ( 2013 ). J. CO2 Util. 1 : 43 – 49 . 10.1016/j.jcou.2013.03.003 CASWeb of Science®Google Scholar Murata , A. and Hori , Y. ( 1991 ). Bull. Chem. Soc. Jpn. 64 : 123 – 127 . 10.1246/bcsj.64.123 CASWeb of Science®Google Scholar Malkani , A.S. , Anibal , J. , and Xu , B. ( 2020 ). ACS Catal. 10 : 14871 – 14876 . 10.1021/acscatal.0c03553 CASWeb of Science®Google Scholar Wu , H. , Song , J. , Xie , C. et al. ( 2018 ). Green Chemistry 20 : 1765 – 1769 . 10.1039/C8GC00471D CASWeb of Science®Google Scholar Tripkovic , D.V. , Strmcnik , D. , van der Vliet , D. et al. ( 2009 ). Faraday Discuss. 140 : 25 – 40 . 10.1039/B803714K CASWeb of Science®Google Scholar (a) Shaw , S.K. , Berná , A. , Feliu , J.M. et al. ( 2011 ). Phys. Chem. Chem. Phys. 13 : 5242 – 5251 . 10.1039/c0cp02064h CASPubMedWeb of Science®Google Scholar (b) Ogura , K. and Salazar-Villalpando , M.D. ( 2011 ). JOM 63 : 35 – 38 . 10.1007/s11837-011-0009-2 CASGoogle Scholar (c) Verma , S. , Lu , X. , Ma , S. et al. ( 2016 ). Phys. Chem. Chem. Phys. 18 : 7075 – 7084 . 10.1039/C5CP05665A CASPubMedWeb of Science®Google Scholar Hsieh , Y.-C. , Senanayake , S.D. , Zhang , Y. et al. ( 2015 ). ACS Catal. 5 : 5349 – 5356 . 10.1021/acscatal.5b01235 CASWeb of Science®Google Scholar Gao , D. , Scholten , F. , and Roldan Cuenya , B. ( 2017 ). ACS Catal. 7 : 5112 – 5120 . 10.1021/acscatal.7b01416 CASWeb of Science®Google Scholar Huang , Y. , Ong , C.W. , and Yeo , B.S. ( 2018 ). ChemSusChem 11 : 3299 – 3306 . 10.1002/cssc.201801078 CASPubMedWeb of Science®Google Scholar Ogura , K. , Ferrell , J.R. , Cugini , A.V. et al. ( 2010 ). Electrochim. Acta 56 : 381 – 386 . 10.1016/j.electacta.2010.08.065 CASWeb of Science®Google Scholar Hori , Y. , Murata , A. , and Takahashi , R. ( 1989 ). J. Chem. Soc., Faraday Trans. 1 85 : 2309 – 2326 . 10.1039/f19898502309 CASWeb of Science®Google Scholar Cho , M. , Song , J.T. , Back , S. et al. ( 2018 ). ACS Catal. 8 : 1178 – 1185 . 10.1021/acscatal.7b03449 CASWeb of Science®Google Scholar Bagger , A. , Ju , W. , Varela , A.S. et al. ( 2017 ). Chemphyschem 18 : 3266 – 3273 . 10.1002/cphc.201700736 CASPubMedWeb of Science®Google Scholar Gao , S. , Lin , Y. , Jiao , X. et al. ( 2016 ). Nature 529 : 68 – 71 . 10.1038/nature16455 CASPubMedWeb of Science®Google Scholar Lee , C.H. and Kanan , M.W. ( 2015 ). ACS Catal. 5 : 465 – 469 . 10.1021/cs5017672 CASPubMedWeb of Science®Google Scholar Amatore , C. and Saveant , J.M. ( 1981 ). J. Am. Chem. Soc. 103 : 5021 – 5023 . 10.1021/ja00407a008 CASWeb of Science®Google Scholar Hori , Y. , Wakebe , H. , Tsukamoto , T. , and Koga , O. ( 1994 ). Electrochim. Acta 39 : 1833 – 1839 . 10.1016/0013-4686(94)85172-7 CASWeb of Science®Google Scholar Wu , J. , Sharma , P.P. , Harris , B.H. , and Zhou , X.-D. ( 2014 ). J. Power Sources 258 : 189 – 194 . 10.1016/j.jpowsour.2014.02.014 CASWeb of Science®Google Scholar Medina-Ramos , J. , Pupillo , R.C. , Keane , T.P. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 5021 – 5027 . 10.1021/ja5121088 CASPubMedWeb of Science®Google Scholar Gao , D. , Zhang , Y. , Zhou , Z. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 5652 – 5655 . 10.1021/jacs.7b00102 CASPubMedWeb of Science®Google Scholar Ma , M. , Trześniewski , B.J. , Xie , J. , and Smith , W.A. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9748 – 9752 . 10.1002/anie.201604654 CASPubMedWeb of Science®Google Scholar Jiang , X. , Cai , F. , Gao , D. et al. ( 2016 ). Electrochem. Commun. 68 : 67 – 70 . 10.1016/j.elecom.2016.05.003 CASWeb of Science®Google Scholar Huang , H. , Jia , H. , Liu , Z. et al. ( 2017 ). Angew. Chem. Int. Ed. 56 : 3594 – 3598 . 10.1002/anie.201612617 CASPubMedWeb of Science®Google Scholar (a) Kas , R. , Kortlever , R. , Milbrat , A. et al. ( 2014 ). Phys. Chem. Chem. Phys. 16 : 12194 – 12201 . 10.1039/C4CP01520G CASPubMedWeb of Science®Google Scholar (b) Li , Y. , Cui , F. , Ross , M.B. et al. ( 2017 ). Nano Lett. 17 : 1312 – 1317 . 10.1021/acs.nanolett.6b05287 CASPubMedWeb of Science®Google Scholar (c) Li , C.W. , Ciston , J. , and Kanan , M.W. ( 2014 ). Nature 508 : 504 – 507 . 10.1038/nature13249 CASPubMedWeb of Science®Google Scholar Kuhl , K.P. , Hatsukade , T. , Cave , E.R. et al. ( 2014 ). J. Am. Chem. Soc. 136 : 14107 – 14113 . 10.1021/ja505791r CASPubMedWeb of Science®Google Scholar Yu , X. and Pickup , P.G. ( 2008 ). J. Power Sources 182 : 124 – 132 . 10.1016/j.jpowsour.2008.03.075 CASWeb of Science®Google Scholar (a) Li , D. , Wu , J. , Liu , T. et al. ( 2019 ). Chem. Eng. J. 375 : 122024 . Google Scholar (b) Zhang , X. , Chen , Z. , Mou , K. et al. ( 2019 ). Nanoscale 11 : 18715 – 18722 . 10.1039/C9NR06354D CASPubMedWeb of Science®Google Scholar (c) Han , N. , Wang , Y. , Deng , J. et al. ( 2019 ). J. Mater. Chem. A 7 : 1267 – 1272 . 10.1039/C8TA10959A CASWeb of Science®Google Scholar (a) Liu , S. , Xiao , J. , Lu , X.F. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 8499 – 8503 . 10.1002/anie.201903613 CASPubMedWeb of Science®Google Scholar (b) Hu , C. , Li , L. , Deng , W. et al. ( 2020 ). ChemSusChem 13 : 6353 – 6359 . 10.1002/cssc.202000557 CASPubMedWeb of Science®Google Scholar (c) Yiliguma , Z. , Wang , C. , Yang , A. et al. ( 2018 ). Mater. Chem. A 6 : 20121 – 20127 . 10.1039/C8TA08058E CASWeb of Science®Google Scholar (a) Kaneco , S. , Iwao , R. , Iiba , K. et al. ( 1999 ). Environ. Eng. Sci. 16 : 131 – 137 . 10.1089/ees.1999.16.131 CASWeb of Science®Google Scholar (b) Zhu , Q. , Ma , J. , Kang , X. et al. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9012 – 9016 . 10.1002/anie.201601974 CASPubMedWeb of Science®Google Scholar Bitar , Z. , Fecant , A. , Trela-Baudot , E. et al. ( 2016 ). Appl. Catal. B 189 : 172 – 180 . 10.1016/j.apcatb.2016.02.041 CASWeb of Science®Google Scholar (a) Yuan , X. , Luo , Y. , Zhang , B. et al. ( 2020 ). Chem. Commun. 56 : 4212 – 4215 . 10.1039/C9CC10078D CASPubMedWeb of Science®Google Scholar (b) Feng , J. , Gao , H. , Feng , J. et al. ( 2020 ). ChemCatChem 12 : 926 – 931 . 10.1002/cctc.201901530 Web of Science®Google Scholar Kwon , I.S. , Debela , T.T. , Kwak , I.H. et al. ( 2019 ). J. Mater. Chem. A 7 : 22879 – 22883 . 10.1039/C9TA06285H CASWeb of Science®Google Scholar Ma , W. , Xie , S. , Zhang , X.-G. et al. ( 2019 ). Nat. Commun. 10 : 892 . 10.1038/s41467-019-08805-x PubMedWeb of Science®Google Scholar Wang , X. , Jiang , X. , Wang , Q. et al. ( 2020 ). Electrochim. Acta 340 : 135948 . PubMedGoogle Scholar Detweiler , Z.M. , White , J.L. , Bernasek , S.L. , and Bocarsly , A.B. ( 2014 ). Langmuir 30 : 7593 – 7600 . 10.1021/la501245p CASPubMedWeb of Science®Google Scholar Watkins , J.D. and Bocarsly , A.B. ( 2014 ). ChemSusChem 7 : 284 – 290 . 10.1002/cssc.201300659 CASPubMedWeb of Science®Google Scholar An , X. , Li , S. , Hao , X. et al. ( 2021 ). Renew. Sust. Energy Rev. 143 : 110952 . 10.1016/j.rser.2021.110952 Google Scholar Eren , E.O. and Özkar , S. ( 2021 ). J. Power Sources 506 : 230215 . 10.1016/j.jpowsour.2021.230215 PubMedGoogle Scholar Kauffman , D.R. , Alfonso , D. , Matranga , C. et al. ( 2012 ). J. Am. Chem. Soc. 134 : 10237 – 10243 . 10.1021/ja303259q CASPubMedWeb of Science®Google Scholar Feng , X. , Jiang , K. , Fan , S. , and Kanan , M.W. ( 2015 ). J. Am. Chem. Soc. 137 : 4606 – 4609 . 10.1021/ja5130513 CASPubMedWeb of Science®Google Scholar Zhu , W. , Zhang , Y.-J. , Zhang , H. et al. ( 2014 ). J. Am. Chem. Soc. 136 : 16132 – 16135 . 10.1021/ja5095099 CASPubMedWeb of Science®Google Scholar Mezzavilla , S. , Horch , S. , Stephens , I.E.L. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 3774 – 3778 . 10.1002/anie.201811422 CASPubMedWeb of Science®Google Scholar Kwok , K.S. , Wang , Y. , Cao , M.C. et al. ( 2019 ). Nano Lett. 19 : 9154 – 9159 . 10.1021/acs.nanolett.9b04564 CASPubMedWeb of Science®Google Scholar Kim , C. , Jeon , H.S. , Eom , T. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 13844 – 13850 . 10.1021/jacs.5b06568 CASPubMedWeb of Science®Google Scholar Liu , S. , Sun , C. , Xiao , J. , and Luo , J.-L. ( 2020 ). ACS Catal. 10 : 3158 – 3163 . 10.1021/acscatal.9b03883 CASWeb of Science®Google Scholar (a) Liu , S. , Tao , H. , Liu , Q. et al. ( 2018 ). ACS Catal. 8 : 1469 – 1475 . 10.1021/acscatal.7b03619 CASWeb of Science®Google Scholar (b) Liu , S. , Wang , X.-Z. , Tao , H. et al. ( 2018 ). Nano Energy 45 : 456 – 462 . 10.1016/j.nanoen.2018.01.016 CASWeb of Science®Google Scholar Lee , C.-Y. , Zhao , Y. , Wang , C. et al. ( 2017 ). Sustain. Energy Fuels 1 : 1023 – 1027 . 10.1039/C7SE00069C CASWeb of Science®Google Scholar Jianping , Q. , Juntao , T. , Jie , S. et al. ( 2016 ). Electrochim. Acta 203 : 99 – 108 . 10.1016/j.electacta.2016.03.182 Google Scholar Chen , R. , Cao , M. , Yang , W. et al. ( 2019 ). Chem. Commun. 55 : 9805 – 9808 . 10.1039/C9CC02393C CASPubMedWeb of Science®Google Scholar Suen , N.-T. , Kong , Z.-R. , Hsu , C.-S. et al. ( 2019 ). ACS Catal. 9 : 5217 – 5222 . 10.1021/acscatal.9b00790 CASWeb of Science®Google Scholar Zhu , S. , Wang , Q. , Qin , X. et al. ( 2018 ). Adv. Energy Mater. 8 : 1802238 . 10.1002/aenm.201802238 Web of Science®Google Scholar Wang , J. , Kattel , S. , Hawxhurst , C.J. et al. ( 2019 ). Angew. Chem. Int. Ed. 58 : 6271 – 6275 . 10.1002/anie.201900781 CASPubMedWeb of Science®Google Scholar (a) Lee , J.H. , Kattel , S. , Jiang , Z. et al. ( 2019 ). Nat. Commun. 10 : 3724 ; 10.1038/s41467-019-11352-0 PubMedWeb of Science®Google Scholar (b) Plana , D. , Flórez-Montaño , J. , Celorrio , V. et al. ( 2013 ). Chem. Commun. 49 : 10962 – 10964 . 10.1039/c3cc46543h CASPubMedWeb of Science®Google Scholar Ikeda , S. , Hattori , A. , Ito , K. , and Noda , H. ( 1999 ). Electrochem. 67 : 27 – 33 . 10.5796/electrochemistry.67.27 CASWeb of Science®Google Scholar (a) Nguyen , D.L.T. , Lee , C.W. , Na , J. et al. ( 2020 ). ACS Catal. 10 : 3222 – 3231 ; 10.1021/acscatal.9b05096 CASWeb of Science®Google Scholar (b) Zhao , M. , Gu , Y. , Chen , P. et al. ( 2019 ). J. Mater. Chem. A 7 : 9316 – 9323 . 10.1039/C9TA00562E CASWeb of Science®Google Scholar (a) Quan , F. , Zhong , D. , Song , H. et al. ( 2015 ). J. Mater. Chem. A 3 : 16409 – 16413 . 10.1039/C5TA04102C CASWeb of Science®Google Scholar (b) Won , D.H. , Shin , H. , Koh , J. et al. ( 2016 ). Angew. Chem. Int. Ed. 55 : 9297 – 9300 . 10.1002/anie.201602888 CASPubMedWeb of Science®Google Scholar (c) Zhao , M. , Tang , H. , Yang , Q. et al. ( 2020 ). Mater. Inter. 12 : 4565 – 4571 . 10.1021/acsami.9b22811 CASGoogle Scholar Hori , Y. , Kikuchi , K. , and Suzuki , S. ( 1985 ). Chem. Lett. 14 : 1695 – 1698 . 10.1246/cl.1985.1695 Web of Science®Google Scholar (a) Nørskov , J.K. , Bligaard , T. , Logadottir , A. et al. ( 2005 ). J. Electrochem. Soc. 152 : J23 . 10.1149/1.1856988 CASWeb of Science®Google Scholar (b) Vasiliev , Y.B. , Bagotzky , V. , and Osetrova , N. ( 1985 ). J. Electroanal. Chem 189 : 271 – 294 . 10.1016/0368-1874(85)80073-3 Google Scholar (c) Trasatti , S. ( 1972 ). J. Electroanaly. Chem. Interfacial Electrochem. 39 : 163 – 184 . 10.1016/S0022-0728(72)80485-6 CASWeb of Science®Google Scholar (a) Wakerley , D. , Lamaison , S. , Ozanam , F. et al. ( 2019 ). Nat. Mater. 18 : 1222 – 1227 . 10.1038/s41563-019-0445-x CASPubMedWeb of Science®Google Scholar (b) Ren , D. , Fong , J. , and Yeo , B.S. ( 2018 ). Nat. Commun. 9 : 925 . 10.1038/s41467-018-03286-w PubMedWeb of Science®Google Scholar (a) Cook , R.L. , MacDuff , R.C. , and Sammells , A.F. ( 1987 ). J. Electrochem. Soc. 134 : 1873 – 1874 . 10.1149/1.2100776 CASWeb of Science®Google Scholar (b) DeWulf , D.W. , Jin , T. , and Bard , A.J. ( 1989 ). J. Electrochem. Soc. 136 : 1686 – 1691 . 10.1149/1.2096993 CASWeb of Science®Google Scholar (c) Hara , K. , Tsuneto , A. , Kudo , A. , and Sakata , T. ( 1994 ). J. Electrochem. Soc. 141 : 2097 – 2103 . 10.1149/1.2055067 CASWeb of Science®Google Scholar (d) Hori , Y. , Koga , O. , Yamazaki , H. , and Matsuo , T. ( 1995 ). Electrochim. Acta 40 : 2617 – 2622 . 10.1016/0013-4686(95)00239-B CASWeb of Science®Google Scholar (a) Jiang , K. , Sandberg , R.B. , Akey , A.J. et al. ( 2018 ). Nature Catal. 1 : 111 – 119 . 10.1038/s41929-017-0009-x CASWeb of Science®Google Scholar (b) Osowiecki , W.T. , Nussbaum , J.J. , Kamat , G.A. et al. ( 2019 ). Energy Mater. 2 : 7744 – 7749 . CASGoogle Scholar (c) Li , Y. , Kim , D. , Louisia , S. et al. ( 2020 ). Proc. Natl. Acad. Sci. U. S. A. 117 : 9194 – 9201 . 10.1073/pnas.1918602117 CASPubMedWeb of Science®Google Scholar (d) Garza , A.J. , Bell , A.T. , and Head-Gordon , M. ( 2018 ). ACS Catal. 8 : 1490 – 1499 . 10.1021/acscatal.7b03477 CASWeb of Science®Google Scholar (e) Todorova , T.K. , Schreiber , M.W. , and Fontecave , M. ( 2020 ). ACS Catal. 10 : 1754 – 1768 . 10.1021/acscatal.9b04746 CASWeb of Science®Google Scholar Tang , W. , Peterson , A.A. , Varela , A.S. et al. ( 2012 ). Phys. Chem. Chem. Phys. 14 : 76 – 81 . 10.1039/C1CP22700A CASPubMedWeb of Science®Google Scholar (a) Wang , Y. , Chen , Z. , Han , P. et al. ( 2018 ). ACS Catal. 8 : 7113 – 7119 . 10.1021/acscatal.8b01014 CASWeb of Science®Google Scholar (b) Guan , A. , Chen , Z. , Quan , Y. et al. ( 2020 ). ACS Energy Lett. 5 : 1044 – 1053 . 10.1021/acsenergylett.0c00018 CASWeb of Science®Google Scholar Varandili , S.B. , Huang , J. , Oveisi , E. et al. ( 2019 ). ACS Catal. 9 : 5035 – 5046 . 10.1021/acscatal.9b00010 CASWeb of Science®Google Scholar Chen , S. , Su , Y. , Deng , P. et al. ( 2020 ). ACS Catal. 10 : 4640 – 4646 . 10.1021/acscatal.0c00847 CASWeb of Science®Google Scholar (a) Liang , Z.-Q. , Zhuang , T.-T. , Seifitokaldani , A. et al. ( 2018 ). Nat. Commun. 9 : 3828 . 10.1038/s41467-018-06311-0 PubMedWeb of Science®Google Scholar (b) Yin , Z. , Yu , C. , Zhao , Z. et al. ( 2019 ). Nano Lett. 19 : 8658 – 8663 . 10.1021/acs.nanolett.9b03324 CASPubMedWeb of Science®Google Scholar Torelli , D.A. , Francis , S.A. , Crompton , J.C. et al. ( 2016 ). ACS Catal. 6 : 2100 – 2104 . 10.1021/acscatal.5b02888 CASWeb of Science®Google Scholar (a) Zhao , Z. , Peng , X. , Liu , X. et al. ( 2017 ). J. Mater. Chem. A 5 : 20239 – 20243 . 10.1039/C7TA05507B CASWeb of Science®Google Scholar (b) Liu , X. , Yang , H. , He , J. et al. ( 2018 ). Small 14 : 1704049 . 10.1002/smll.201704049 Web of Science®Google Scholar Yang , X.-F. , Wang , A. , Qiao , B. et al. ( 2013 ). Acc. Chem. Res. 46 : 1740 – 1748 . 10.1021/ar300361m CASPubMedWeb of Science®Google Scholar Varela , A.S. , Ranjbar Sahraie , N. , Steinberg , J. et al. ( 2015 ). Angew. Chem. Int. Ed. 54 : 10758 – 10762 . 10.1002/anie.201502099 CASPubMedWeb of Science®Google Scholar Huan , T.N. , Ranjbar , N. , Rousse , G. et al. ( 2017 ). ACS Catal. 7 : 1520 – 1525 . 10.1021/acscatal.6b03353 CASWeb of Science®Google Scholar Varela , A.S. , Ju , W. , Bagger , A. et al. ( 2019 ). ACS Catal. 9 : 7270 – 7284 . 10.1021/acscatal.9b01405 CASWeb of Science®Google Scholar (a) Kornienko , N. , Zhao , Y. , Kley , C.S. et al. ( 2015 ). J. Am. Chem. Soc. 137 : 14129 – 14135 . 10.1021/jacs.5b08212 CASPubMedWeb of Science®Google Scholar (b) Zhou , Y. , Che , F. , Liu , M. et al. ( 2018 ). Nature Chemistry 10 : 974 – 980 . 10.1038/s41557-018-0092-x CASPubMedWeb of Science®Google Scholar (c) Di , J. , Chen , C. , Yang , S.-Z. et al. ( 2019 ). Nat. Commun. 10 : 2840 . 10.1038/s41467-019-10392-w PubMedWeb of Science®Google Scholar (d) Zheng , T. , Jiang , K. , and Wang , H. ( 2018 ). Adv. Mater. 30 : 1802066 . 10.1002/adma.201802066 PubMedWeb of Science®Google Scholar Guo , Z. , Cheng , S. , Cometto , C. et al. ( 2016 ). J. Am. Chem. Soc. 138 : 9413 – 9416 . 10.1021/jacs.6b06002 CASPubMedWeb of Science®Google Scholar Wang , X. , Chen , Z. , Zhao , X. et al. ( 2018 ). Angew. Chem. Int. Ed. 57 : 1944 – 1948 . 10.1002/anie.201712451 CASPubMedWeb of Science®Google Scholar Pan , Y. , Lin , R. , Chen , Y. et al. ( 2018 ). J. Am. Chem. Soc. 140 : 4218 – 4221 . 10.1021/jacs.8b00814 CASPubMedWeb of Science®Google Scholar Li , X. , Bi , W. , Chen , M. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 14889 – 14892 . 10.1021/jacs.7b09074 CASPubMedWeb of Science®Google Scholar Jiang , K. , Siahrostami , S. , Zheng , T. et al. ( 2018 ). Energy Environ. Sci. 11 : 893 – 903 . 10.1039/C7EE03245E CASWeb of Science®Google Scholar (a) Cheng , T. , Xiao , H. , and Goddard , W.A. ( 2017 ). J. Am. Chem. Soc. 139 : 11642 – 11645 . 10.1021/jacs.7b03300 CASPubMedWeb of Science®Google Scholar (b) Li , J. , Wang , Z. , McCallum , C. et al. ( 2019 ). Nature Catal. 2 : 1124 – 1131 . 10.1038/s41929-019-0380-x CASWeb of Science®Google Scholar (c) Liu , X. , Schlexer , P. , Xiao , J. et al. ( 2019 ). Nat. Commun. 10 : 32 . 10.1038/s41467-018-07970-9 CASPubMedWeb of Science®Google Scholar Zheng , W. , Yang , J. , Chen , H. et al. ( 2020 ). Adv. Funct. Mater. 30 : 1907658 . 10.1002/adfm.201907658 CASWeb of Science®Google Scholar Jiao , Y. , Zheng , Y. , Chen , P. et al. ( 2017 ). J. Am. Chem. Soc. 139 : 18093 – 18100 . 10.1021/jacs.7b10817 CASPubMedWeb of Science®Google Scholar Zu , X. , Li , X. , Liu , W. et al. ( 2019 ). Adv. Mater. 31 : 1808135 . 10.1002/adma.201808135 PubMedWeb of Science®Google Scholar Ni , W. , Gao , Y. , Lin , Y. et al. ( 2021 ). ACS Catal. 11 : 5212 – 5221 . 10.1021/acscatal.0c05514 CASWeb of Science®Google Scholar (a) Huang , P. , Cheng , M. , Zhang , H. et al. ( 2019 ). Nano Energy 61 : 428 – 434 . 10.1016/j.nanoen.2019.05.003 CASWeb of Science®Google Scholar (b) Yang , F. , Song , P. , Liu , X. et al. ( 2018 ). Angew. Chem. Int. Ed. 57 : 12303 – 12307 . 10.1002/anie.201805871 CASPubMedWeb of Science®Google Scholar Cheng , M.-J. , Clark , E.L. , Pham , H.H. et al. ( 2016 ). ACS Catal. 6 : 7769 – 7777 . 10.1021/acscatal.6b01393 CASWeb of Science®Google Scholar (a) Duchesne , P.N. , Li , Z.Y. , Deming , C.P. et al. ( 2018 ). Nat. Mater. 17 : 1033 – 1039 . 10.1038/s41563-018-0167-5 CASPubMedWeb of Science®Google Scholar (b) Greiner , M.T. , Jones , T.E. , Beeg , S. et al. ( 2018 ). Nat. Chem. ( 10 ): 1008 – 1015 . 10.1038/s41557-018-0125-5 PubMedGoogle Scholar Wang , Y. , Cao , L. , Libretto , N.J. et al. ( 2019 ). J. Am. Chem. Soc. 141 : 16635 – 16642 . 10.1021/jacs.9b05766 CASPubMedWeb of Science®Google Scholar Jiao , J. , Lin , R. , Liu , S. et al. ( 2019 ). Nature Chem. 11 : 222 – 228 . 10.1038/s41557-018-0201-x CASPubMedWeb of Science®Google Scholar Nguyen , T.N. and Dinh , C.-T. ( 2020 ). Chem. Soc. Rev. 49 : 7488 – 7504 . 10.1039/D0CS00230E CASPubMedWeb of Science®Google Scholar (a) Li , L. , Ozden , A. , Guo , S. et al. ( 2021 ). Nat. Commun. 12 : 5223 . 10.1038/s41467-021-25573-9 CASPubMedWeb of Science®Google Scholar (b) Dinh , C.-T. , García de Arquer , F.P. , Sinton , D. , and Sargent , E.H. ( 2018 ). ACS Energy Lett. 3 : 2835 – 2840 . 10.1021/acsenergylett.8b01734 CASWeb of Science®Google Scholar Weng , L.-C. , Bell , A.T. , and Weber , A.Z. ( 2018 ). Phys. Chem. Chem. Phys. 20 : 16973 – 16984 . 10.1039/C8CP01319E CASPubMedWeb of Science®Google Scholar Yang , K. , Kas , R. , Smith , W.A. , and Burdyny , T. ( 2021 ). ACS Energy Lett. 6 : 33 – 40 . 10.1021/acsenergylett.0c02184 CASWeb of Science®Google Scholar Li , Y.C. , Wang , Z. , Yuan , T. et al. ( 2019 ). J. Am. Chem. Soc. 141 : 8584 – 8591 . 10.1021/jacs.9b02945 CASPubMedWeb of Science®Google Scholar Tan , Y.C. , Lee , K.B. , Song , H. , and Oh , J. ( 2020 ). Joule 4 : 1104 – 1120 . 10.1016/j.joule.2020.03.013 CASWeb of Science®Google Scholar Kim , D. , Kley , C.S. , Li , Y. , and Yang , P. ( 2017 ). Proc. Natl. Acad. Sci. U. S. A. 114 : 10560 . 10.1073/pnas.1711493114 CASPubMedWeb of Science®Google Scholar Water Photo‐ and Electro‐Catalysis: Mechanisms, Materials, Devices, and Systems ReferencesRelatedInformation    
-
-    
-
-* Two-dimensional Cu-based materials for electrocatalytic carbon dioxide reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392094048
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.isci.2024.109313")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392094048"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392094048"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392094048"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392094048 (Open access: True)
-    
-[[https://openalex.org/A5003577703][Hu Mei]], [[https://openalex.org/A5076495171][Lipeng Zhang]], [[https://openalex.org/A5005278461][Junjun Li]], [[https://openalex.org/A5082719750][Kiran Zahra]], [[https://openalex.org/A5060538255][Zhicheng Zhang]], iScience. None(None)] 2024. https://doi.org/10.1016/j.isci.2024.109313 
-     
-No abstract    
-
-    
-
-* Techno-economic ionic liquid-based capturing, electrochemical reduction, and hydrogenation of carbon dioxide in the simultaneous production of formic acid and biomethane  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392111886
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jclepro.2024.141211")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392111886"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392111886"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392111886"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392111886 (Open access: False)
-    
-[[https://openalex.org/A5046730822][Ahmad Syauqi]], [[https://openalex.org/A5070884488][Juli Ayu Ningtyas]], [[https://openalex.org/A5020129219][Yus Donald Chaniago]], [[https://openalex.org/A5004271193][Hankwon Lim]], Journal of Cleaner Production. None(None)] 2024. https://doi.org/10.1016/j.jclepro.2024.141211 
-     
-CO2 utilization is vital for mitigating climate change by converting CO2 into valuable products, promoting environmental protection and resource efficiency. Novel pathways for CO2 utilization to produce formic acid are proposed namely solute phase electroreduction, gas phase electroreduction, and hydrogenation, are investigated. Employing multi-objective optimization with a deep neural network surrogate model, this study identifies optimal process conditions balancing capital and operational expenditures. The result shows that CO2 hydrogenation ($868 ton−1) exhibits the lowest production cost followed by gas-phase electroreduction ($986 ton−1) and solute-phase electroreduction ($2103 ton−1). The result also shows that without any intervention at all only hydrogenation can generate profit. Furthermore, an in-depth analysis of CO2 emissions indicates that gas phase electroreduction results in the lowest CO2 emissions (0.7 kg CO2 kg HCOOH−1) among the examined pathways. Insights from our research suggest a minimum current density of 417.3 mA cm−2 is recommended to achieve at least parity with hydrogenation in terms of production cost. To push the commercialization of gas-phase electroreduction, besides current density improvement, electricity cost reduction, and carbon trading mechanism is proposed to reduce the production cost.    
-
-    
-
-* Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392114445
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Gas Sensing Technology and Materials
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4737069")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392114445"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392114445"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392114445"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392114445 (Open access: False)
-    
-[[https://openalex.org/A5000930560][Yung-Hsiang Lin]], [[https://openalex.org/A5052640034][Fuyu Liu]], [[https://openalex.org/A5038839422][Ching Ling Teng]], [[https://openalex.org/A5030650224][Jiahao Lin]], [[https://openalex.org/A5083995504][Chiing‐Chang Chen]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4737069 
-     
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation 28 Pages Posted: 23 Feb 2024 See all articles by Yu-Yun LinYu-Yun LinNational Taichung University of EducationFu-Yu LiuNational Taichung University of EducationChia-Lin TengNational Tsing Hua University - Department of Chemical EngineeringJia-Hao LinNational Taichung University of EducationChiing-Chang ChenNational Taichung University of Education Abstract In this study, a set of BiTeX (X = Cl, Br, I) photocatalysts was successfully synthesized using a straightforward hydrothermal method. The synthesis process involved dissolving BiX3 and Te powder in toluene to determine the most effective material for photocatalytic activity. The primary aim of this methodology is to facilitate the conversion of carbon dioxide (CO2) into sustainable solar fuels, such as alcohols and hydrocarbons, presenting an attractive solution to address environmental concerns and energy crises. The BiTeX photocatalysts exhibited notable proficiency in transforming CO2 into CH4, with BiTeCl displaying a noteworthy photocatalytic conversion rate of up to 0.51 μmol/g-1h-1. The optimized BiTeX photocatalysts showcased a gradual and selective transition from CO2 to CH4, ultimately yielding high-value hydrocarbons (C2+). Moreover, due to their capacity to reduce CO2, these photocatalysts hold promise as materials for mitigating environmental pollution. Keywords: BiTeX, CO2, photocatalysis, C2+ Suggested Citation: Suggested Citation Lin, Yu-Yun and Liu, Fu-Yu and Teng, Chia-Lin and Lin, Jia-Hao and Chen, Chiing-Chang, Photocatalytic Reduction of Carbon Dioxide by Bitex (X = Cl, Br, I) Under Visible-Light Irradiation. Available at SSRN: https://ssrn.com/abstract=4737069 Yu-Yun Lin National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Fu-Yu Liu National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Chia-Lin Teng National Tsing Hua University - Department of Chemical Engineering ( email ) 101, Section 2, Kuang-Fu RoadHsinchu, 30013Taiwan Jia-Hao Lin National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Chiing-Chang Chen (Contact Author) National Taichung University of Education ( email ) No. 140, Minsheng RdWest DistrictTaichung, 403Taiwan Download This Paper Open PDF in Browser Do you have negative results from your research you’d like to share? Submit Negative Results Paper statistics Downloads 0 Abstract Views 11 33 References PlumX Metrics Feedback Feedback to SSRN Feedback (required) Email (required) Submit If you need immediate assistance, call 877-SSRNHelp (877 777 6435) in the United States, or +1 212 448 2500 outside of the United States, 8:30AM to 6:00PM U.S. Eastern, Monday - Friday.    
-
-    
 
 * A Novel Non‐Fullerene D‐A Interface with Two Asymmetrical Electron Acceptors Facilitates Charge and Energy Transfer for Effective Carbon Dioxide Reduction  :CO2RR:
 :PROPERTIES:
@@ -259,48 +175,6 @@ Electrochemical CO2 reduction reaction (CO2RR) provides a promising route to con
 
     
 
-* Electrochemical Reduction of CO2: A Common Acetyl Path to Ethylene, Ethanol or Acetate  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392092162
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Accelerating Materials Innovation through Informatics, Carbon Dioxide Utilization for Chemical Synthesis
-:PUBLICATION_DATE: 2024-02-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1149/1945-7111/ad2cc1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392092162"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392092162"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392092162"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392092162 (Open access: True)
-    
-[[https://openalex.org/A5062559425][Monsuru Olatunji Dauda]], [[https://openalex.org/A5029076223][John Hendershot]], [[https://openalex.org/A5035419516][Mustapha Bello]], [[https://openalex.org/A5060388049][Junghyun Park]], [[https://openalex.org/A5093985198][Alvaro Loaiza Orduz]], [[https://openalex.org/A5021560151][N.J. Lombardo]], [[https://openalex.org/A5083487686][Orhan Kizilkaya]], [[https://openalex.org/A5069209354][Phillip Sprunger]], [[https://openalex.org/A5076885003][Anita Engler]], [[https://openalex.org/A5074865399][Craig Plaisance]], [[https://openalex.org/A5055743066][John Flake]], Journal of The Electrochemical Society. None(None)] 2024. https://doi.org/10.1149/1945-7111/ad2cc1 
-     
-Abstract Ethylene is well known as the primary product of CO2 reduction at Cu electrocatalysts using zero-gap membrane electrode assembly cells with gas diffusion cathodes. Other types of Cu electrocatalysts including oxide-derived Cu, CuSn and CuSe yield relatively more C2 oxygenates; however, the mechanisms for C2 product selectivity are not well established. This work considers selectivity trends of Cu-P0.065, Cu-Sn0.03, and Cu2Se electrocatalysts made using a standard one pot synthesis method. Results show that Cu-P0.065 electrocatalysts (Cuδ+ = 0.13) retain ethylene as a primary product with relatively higher Faradaic efficiencies (FE = 43% at 350 mA cm-2) than undoped Cu electrocatalysts (FE = 31% at 350 mA cm-2) at the same current density. The primary CO2 reduction product at Cu-Sn0.03 (Cuδ+ = 0.27) electrocatalysts shifts to ethanol (FE = 48% at 350 mA cm-2) while CO2 reduction at Cu2Se (Cuδ+ = 0.47) electrocatalysts favor acetate production (FE = 40% at 350 mA cm-2). Based on these results, we propose a common acetyl intermediate and a mechanism for selective formation of ethylene, ethanol or acetate based on the degree of partial positive charge (δ+) of Cu reaction sites.    
-
-    
-
-* Photoactive metal chalcogenides towards CO2 reduction–a review  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392125003
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Thin-Film Solar Cell Technology, Applications of Quantum Dots in Nanotechnology
-:PUBLICATION_DATE: 2024-02-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s00396-024-05235-0")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392125003"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392125003"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392125003"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392125003 (Open access: False)
-    
-[[https://openalex.org/A5093993840][Shweta Gomey]], [[https://openalex.org/A5074726603][Eksha Guliani]], [[https://openalex.org/A5023146636][Kajal Choudhary]], [[https://openalex.org/A5054565131][Sucheta Sengupta]], [[https://openalex.org/A5079068886][Biswarup Chakraborty]], [[https://openalex.org/A5005113780][Manoj Raula]], Colloid and Polymer Science. None(None)] 2024. https://doi.org/10.1007/s00396-024-05235-0 
-     
-No abstract    
-
-    
-
 * Engineering hydrophobicity and high-index planes of gold nanostructures for highly selective electrochemical CO2 reduction to CO and efficient CO2 capture  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392184761
@@ -319,48 +193,6 @@ OpenAlex: https://openalex.org/W4392184761 (Open access: False)
 [[https://openalex.org/A5000421485][Taehui Kwon]], [[https://openalex.org/A5069304290][Sampath Prabhakaran]], [[https://openalex.org/A5022726594][Do Hwan Kim]], [[https://openalex.org/A5016111739][Myung Hwa Kim]], [[https://openalex.org/A5000491334][Youngmi Lee]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.150045 
      
 In current study, we demonstrate a strategy for improving the catalytic performance of gold (Au) for carbon monoxide reduction reaction (CO2RR), specifically enhancing selectivity for CO over hydrogen reduction reaction (HER) and increasing low-level CO2 capture efficiency. This involved controlling nanostructures without any further modification. Au nanostructures having four different morphologies (i.e., degree of roughness) were fabricated via electrodeposition at varied deposition potential, resulting in different intrinsic surface hydrophobicity and exposure of high-index planes depending on the actual morphology. The roughest Au, with its combination of the most hydrophobic feature and abundant high-index planes, generated greater current density (jCO) and faradaic efficiency for CO (FECO) than the other Au deposits within a tested potential region: The roughest Au showed 6-fold higher FECO (95.8 %) and 327-fold higher jCO (normalized to electrode geometric surface area) at −0.75 VRHE compared to the smoothest Au. Moreover, the roughest Au exhibited excellent CO2 capture ability even at low CO2 concentration, confirmed with scanning electrochemical microscopy. These improvement at hierarchical Au for CO2RR could be ascribed to two factors. Firstly, the morphology-driven hydrophobicity provides an optimal gas–liquid-solid triple-phase interfaces, increasing the local CO2 concentration near the Au catalyst surface due to its superb CO2 capture ability. Secondly, the abundant high index plane serves as stable active sites for CO2RR, expediting the reaction rates. Remarkably, Au with the highest hydrophobicity and enriched high-index planes, even without any chemical modification, showed excellent CO2RR catalytic performance comparable to or even better than the other previously reported Au-based catalysts.    
-
-    
-
-* Heterophase-Structured Bismuth Nanosheets for Solar Energy–Driven Electrocatalytic CO2 Reduction to Formate  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392113889
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Thermoelectric Materials
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3ta08011k")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392113889"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392113889"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392113889"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392113889 (Open access: False)
-    
-[[https://openalex.org/A5046413580][Shengtao Zhang]], [[https://openalex.org/A5056461668][Chenchen Qin]], [[https://openalex.org/A5025754715][Daomeng Liu]], [[https://openalex.org/A5041722972][Jie He]], [[https://openalex.org/A5025332292][Qingyi Li]], [[https://openalex.org/A5016516867][Ziyi Feng]], [[https://openalex.org/A5074278148][Zhen Yang]], [[https://openalex.org/A5005804357][Junzhong Wang]], [[https://openalex.org/A5018789987][Zhengkun Yang]], Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://doi.org/10.1039/d3ta08011k 
-     
-Exploring efficient catalysts for electrochemical CO2 reduction reaction (CO2RR) to formate is greatly imperative but challenging remains. Herein, a bismuth-nanosheets network with abundant crystalline-amorphous boundaries (c-a Bi-NSs) was pioneeringly prepared...    
-
-    
-
-* Electronic Structure Modification of SnO2 to Accelerate CO2 Reduction towards Formate  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392104682
-:TOPICS: Catalytic Nanomaterials, Gas Sensing Technology and Materials, Solid Oxide Fuel Cells
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cc06337b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392104682"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392104682"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392104682"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392104682 (Open access: False)
-    
-[[https://openalex.org/A5064992427][Lulu Li]], [[https://openalex.org/A5090120316][Shican Wu]], [[https://openalex.org/A5028424510][Dongfang Cheng]], [[https://openalex.org/A5084194253][Zhi‐Jian Zhao]], [[https://openalex.org/A5047030779][Jinlong Gong]], Chemical Communications. None(None)] 2024. https://doi.org/10.1039/d3cc06337b 
-     
-Metal doping emerges as a pivotal catalyst modification technique, enhancing the catalytic potential of active sites for converting CO2 into valuable chemicals like formate. This paper describes a theoretical study...    
 
     
 
@@ -511,27 +343,6 @@ The catalytic performance for electrocatalytic CO2 reduction reaction (CO2RR) de
 
     
 
-* Unveiling the adsorption, activation and reduction of CO2 via inorganic, biphenylene akin Pt-doped ZnMgO2  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392121527
-:TOPICS: Thermoelectric Materials, Gas Sensing Technology and Materials, Carbon Dioxide Capture and Storage Technologies
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.inoche.2024.112244")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392121527"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392121527"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392121527"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392121527 (Open access: False)
-    
-[[https://openalex.org/A5072330191][Yee Hui Robin Chang]], [[https://openalex.org/A5055543877][Yusuf Zuntu Abdullahi]], [[https://openalex.org/A5001881215][Moi Hua Tuh]], [[https://openalex.org/A5004457853][Keat Hoe Yeoh]], Inorganic Chemistry Communications. None(None)] 2024. https://doi.org/10.1016/j.inoche.2024.112244 
-     
-No abstract    
-
-    
-
 * MOF-derived Pyrrolic N-Stabilized Ni Single Atom Catalyst for Selective Electrochemical Reduction of CO2 to CO at High Current Density  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392205550
@@ -634,5 +445,173 @@ OpenAlex: https://openalex.org/W4392214442 (Open access: False)
 [[https://openalex.org/A5076409244][Xiao Liu]], [[https://openalex.org/A5064842058][Yang Li]], [[https://openalex.org/A5090018916][Jinlei Du]], [[https://openalex.org/A5049341927][Hao Zhang]], [[https://openalex.org/A5078964223][Jingnan Hu]], [[https://openalex.org/A5039514748][Aizhong Chen]], [[https://openalex.org/A5033748161][Wei Lv]], Resources, Conservation and Recycling. 204(None)] 2024. https://doi.org/10.1016/j.resconrec.2024.107498 
      
 The cement industry is a major source of carbon dioxide and air pollutant emissions. This study developed a high-resolution emission inventory for China's cement industry and forecasted emissions from 2025 to 2035. The results showed that emissions in 2020 were 251, 709, 142, and 1.35 × 106 Gg for SO2, NOx, PM2.5, and CO2, respectively. The optimal model projections for 2035 showed that fuel and clinker substitutions had the best reduction effect on SO2 and CO2, with average reduction rates of –11.42 % and –7.37 %, respectively, compared to the 2035 frozen scenario. Pollutant control measures and clinker substitution had the best emission reduction effect on NOx and PM2.5, and the average reduction rates were –26.09 % and –4.23 %, respectively, compared to the 2035 frozen scenario. These results showed that the substitution of fuel and clinker has important co-benefits for air pollutants in the cement industry.    
+
+    
+
+* Green and facile synthesis of OH-functionalized UiO-66 with controlled particle sizes to improve the selective separation of CO2/N2  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392203741
+:TOPICS: Membrane Gas Separation Technology, Chemistry and Applications of Metal-Organic Frameworks, Carbon Dioxide Capture and Storage Technologies
+:PUBLICATION_DATE: 2024-02-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jssc.2024.124631")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392203741"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392203741"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392203741"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392203741 (Open access: False)
+    
+[[https://openalex.org/A5007576255][Jianzhong Ma]], [[https://openalex.org/A5001591791][Tao Zhao]], [[https://openalex.org/A5065172118][Xue Wang]], [[https://openalex.org/A5086455686][Junkuo Gao]], Journal of Solid State Chemistry. None(None)] 2024. https://doi.org/10.1016/j.jssc.2024.124631 
+     
+The escalating levels of carbon dioxide in flue gas and the resultant greenhouse effect have heightened the need for adsorbents with high CO2 sorption and separation capabilities. However, Traditional heated synthesis methods are energy-intensive and often involve toxic solvents, which are not viable for widespread industrial use. This study introduces a room-temperature, eco-friendly synthesis technique to produce UiO-66-(OH)2 with varying amounts of PVP (0/0.1/0.2 g), effectively adjusting the particle morphology. Results confirm that this method maintains robust CO2 adsorption and selectivity. Notably, the addition of 0.1 g of PVP led to a reduction in pore size and adsorption capacity of CO2, yet remarkably enhanced its CO2/N2 separation performance sixfold, outperforming traditional CO2 adsorbents. Dynamic breakthrough experiments further validated the effectiveness of UiO-66-(OH)2 in separating binary mixtures of CO2/N2 (v/v = 15/85).    
+
+    
+
+* Enhancing CO2-H2S Storage Predictions in High H2S Fields: Improving Model Accuracy and Kinetic Rate Information  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392185286
+:TOPICS: Carbon Dioxide Sequestration in Geological Formations, Carbon Dioxide Capture and Storage Technologies, Chemical-Looping Technologies
+:PUBLICATION_DATE: 2024-02-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2523/iptc-23878-ea")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392185286"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392185286"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392185286"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392185286 (Open access: False)
+    
+[[https://openalex.org/A5037215228][Mohd Fakrumie Zaidin]], [[https://openalex.org/A5007294766][S. M. Amin]], [[https://openalex.org/A5016269972][Farhana Jaafar Azuddin]], [[https://openalex.org/A5041128601][Arman Abdul Razak]], [[https://openalex.org/A5037090946][N. Mohsin]], [[https://openalex.org/A5014470673][Y. W. Pin]], [[https://openalex.org/A5020335412][Raj Deo Tewari]], All Days. None(None)] 2024. https://doi.org/10.2523/iptc-23878-ea 
+     
+Abstract In the context of carbon capture and storage (CCS), the presence of impurities, such as Hydrogen Sulfide (H2S), in the injected Carbon Dioxide (CO2) stream poses a significant challenge (Bennion and Bachu, 2008). This challenge is particularly pronounced in carbonate reservoirs due to the potential precipitation of the minerals (Ahmad et al., 2023). Such precipitation can have detrimental effects on carbonate rock properties, including a reduction in rock porosity and permeability (Labus & Suchodolska, 2017; Clark et al., 2018). Ultimately, these changes can impact injectivity and storage capacity (Wang et al., 2012; (Zaidin et al., 2018), making it essential to comprehend the geochemical reactions involved, which are demonstrated as follows:    
+
+    
+
+* Effects of Organic Matter Addition on Soil Carbon Contents, CO2 Emissions, and Bacterial Compositions in a Paddy Field in South China  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392155766
+:TOPICS: Soil Carbon Dynamics and Nutrient Cycling in Ecosystems, Meta-analysis in Ecology and Agriculture Research, Sustainable Diets and Environmental Impact
+:PUBLICATION_DATE: 2024-02-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/agronomy14030443")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392155766"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392155766"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392155766"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392155766 (Open access: True)
+    
+[[https://openalex.org/A5035880567][Xiang-Bin Yao]], [[https://openalex.org/A5069622234][Xuechan Zhang]], [[https://openalex.org/A5031289194][Meiyang Duan]], [[https://openalex.org/A5024074896][Yang Yong]], [[https://openalex.org/A5071571264][Qiyue Xie]], [[https://openalex.org/A5028719052][Haowen Luo]], [[https://openalex.org/A5021821095][Jing Peng]], [[https://openalex.org/A5071565869][Zhaowen Mo]], [[https://openalex.org/A5006629736][Shenggang Pan]], [[https://openalex.org/A5017606722][Xiangru Tang]], Agronomy. 14(3)] 2024. https://doi.org/10.3390/agronomy14030443  ([[https://www.mdpi.com/2073-4395/14/3/443/pdf?version=1708764518][pdf]])
+     
+Increasing soil organic carbon (SOC) contents and reducing carbon dioxide (CO2) emissions in paddy soil fields can result in positive impacts on climate change mitigation and soil quality. However, SOC accumulation and its microbial driving factors under enhanced fertilization strategies (e.g., organic matter application) are still unclear. Therefore, we investigated the effects of organic matter addition on SOC variations, CO2 fluxes, and their relationships with soil bacterial compositions and functions through a 6-year fertilizer experiment in rice fields involving two fertilization types, namely chemical fertilizer (NPK) and chemical fertilizer combined with organic matter (NPK+OM). The results showed significantly higher and lower SOC contents (p < 0.05) in the 10–20 cm soil layer under the NPK+OM treatment before rice transplanting and after rice harvest, respectively, than those under the NPK treatment. The lower SOC contents after rice harvest might be due to the great nutrient consumption, resulting in higher rice yields in the NPK+OM than those in the NPK treatment by 6.68 to 32.35%. Compared with NPK, NPK+OM reduced the in-situ CO2 fluxes by 38.70–118.59%. However, the ex-situ SOC mineralization rates were not affected by NPK+OM in the 0–10 and 10–20 cm soil layers. The 16S rRNA sequence indicated a significant increase in the abundance of non-singleton amplicon sequence variants (ASVs) in the NPK+OM treatment scenario compared to those in the NPK treatment scenario. The top three most important soil bacterial phylum influenced by NPK+OM were LCP-89, BRC1, and Rokubacteria in April, as well as Firmicutes, Nitrospinae, and BRC1 in July. Soil Actinobacteria was negatively correlated with the SOC contents in April and July. The results of the present study demonstrate the economic and ecological benefits of the organic matter addition in rice production, as well as the contribution of soil bacteria to SOC accumulation and CO2 emission reduction.    
+
+    
+
+* From Drilling to Production: Digital Solutions for Automation and Remote Operations in the Amazon Region  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392185376
+:TOPICS: Application of Diagnostic Techniques in Oil Wells, Advanced Techniques in Reservoir Management, Drilling Fluid Technology and Well Integrity
+:PUBLICATION_DATE: 2024-02-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2523/iptc-23887-ms")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392185376"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392185376"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392185376"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392185376 (Open access: False)
+    
+[[https://openalex.org/A5057327815][Johanna Gallegos]], [[https://openalex.org/A5064903825][Hugo Quevedo]], [[https://openalex.org/A5092978712][Kevin Etcheverry]], [[https://openalex.org/A5061476326][José Romero]], [[https://openalex.org/A5005867849][Haddid Vega Vázquez]], [[https://openalex.org/A5036375424][P. Banda Rueda]], [[https://openalex.org/A5036780983][Juan José Anaya]], [[https://openalex.org/A5064355643][Karen Peña]], [[https://openalex.org/A5024065327][Julia Carrera]], No host. None(None)] 2024. https://doi.org/10.2523/iptc-23887-ms 
+     
+Abstract In a brown field with over 50 years of production in the middle of the Amazon region, it is essential to optimize the operational processes from drilling to the real-time production monitoring, as well as to improve the speed of decision making to minimize downtimes, non- productive times (NPTs), maximizing production and the return of investment of an asset, and reducing carbon dioxide (CO2) emissions. By applying multi-domain digital solutions to automate the drilling operations to bring oil to production earlier and to remotely operate and monitor an artificial lifted system, optimizing production, and providing better decision making, these objectives were successfully achieved, establishing an integrated digital solution that generates tangible values to the operation. The rig automation with a digital solution uses a goal-based approach to handle constantly changing drilling conditions and repetitive tasks such as pre and post connection procedures without the constant need of human intervention. It commands the rig control system to control the surface equipment within the context of standard operating procedures incorporated into the system configuration. Its powerful data analysis and learning systems assist and enhance every task. Once the well is drilled and completed, the installation of gateways that applies cloud and edge computing, has enabled the field team to remotely start up the artificial lift equipment, real-time monitoring, run automated workflows and more effective decision-making to troubleshoot bottlenecks. This has unlocked remote operations to improve production, reduce downtimes, CO2 emissions, and safety-related events. Since 2021 the Operator has drilled 25 wells applying a digital solution for rig automation and has also changed the drillers training, resulting in an average reduction of 46% in pre-post connection times, an 2% increase in on-bottom rate of penetration (ROP), a total saved time of 27.22 days, and an average 82% drilling in automated mode, enabling the field to bring production forward and improve its performance and also reducing 1014 tons of CO2. Since 2020 the asset has implemented gateways to supervise 270 producer wells and several surface equipment's. This has granted the field team the chance to carry out an average of 2,800 remote operations and 2,100 alerts per year, which has had an effect of 1200 barrels of oil per month saved from the related activities and a travel reduction of 72,000 kms per year and a decrease of 60.5 tons of CO2, improving the process efficiency by 96% and increasing personnel efficiency by 17%, generating available man-hours to improve other activities. This successful showcase of the potential of Digital Transformation in the oilfield illustrates how digital tools can help to optimize efficiency and early production, decrease downtime, reduce the carbon footprint, minimize operational risks, and cut costs, making it a game changer for the oil and gas industry.    
+
+    
+
+* Research on the Effect of Carbon Emission Trading Policy on Carbon Emission Reduction-Empirical Analysis based on PSM-DID Model  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392162299
+:TOPICS: Life Cycle Assessment and Environmental Impact Analysis, Economic Impact of Environmental Policies and Resources
+:PUBLICATION_DATE: 2024-02-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1142/9789811270277_0015")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392162299"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392162299"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392162299"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392162299 (Open access: False)
+    
+[[https://openalex.org/A5023479665][Jiaqiu Wang]], [[https://openalex.org/A5025387018][Xiaocheng Sun]], No host. None(None)] 2024. https://doi.org/10.1142/9789811270277_0015 
+     
+Economic Management and Big Data Application, pp. 157-163 (2024) No AccessResearch on the Effect of Carbon Emission Trading Policy on Carbon Emission Reduction-Empirical Analysis based on PSM-DID ModelJiaqiu Wang and Xiaocheng SunJiaqiu WangSchool of Management, Dalian Polytechnic University, Dalian, 116000, China and Xiaocheng SunSchool of Management, Dalian Polytechnic University, Dalian, 116000, ChinaCorresponding author.https://doi.org/10.1142/9789811270277_0015Cited by:0 (Source: Crossref) PreviousNext AboutSectionsPDF/EPUB ToolsAdd to favoritesDownload CitationsTrack CitationsRecommend to Library ShareShare onFacebookTwitterLinked InRedditEmail Abstract: This paper mainly studies the impact of carbon emission trading policies on carbon dioxide emission intensity. Panel data from 30 provinces (municipalities) from 2005 to 2017 are selected, and the research methods of propensity matching (PSM) and difference method (DID) are used. It is found that the implementation of the carbon emission trading rights policy has a significant impact on carbon dioxide emissions. Compared with the pilot areas, the carbon emission trading rights policy can significantly reduce the carbon dioxide emission intensity in the pilot areas. Given this, on the one hand, it can be shown that certain emission reduction policies have a positive impact on reducing carbon dioxide emissions. On the other hand, it has certain practical significance for the unification of carbon dioxide emission rights in China and realizing China’s dual carbon goals. This work is supported by The Education Department of Liaoning Province. Work partially supported by grant J2020081 of the Education 2020 Scientific Research Funding.Keywords: carbon dioxide emission intensitycarbon emission tradingPSM-DID FiguresReferencesRelatedDetails Recommended Economic Management and Big Data ApplicationMetrics History Keywordscarbon dioxide emission intensitycarbon emission tradingPSM-DIDPDF download    
+
+    
+
+* Can Low-Carbon City Pilot Policies Reduce Environmental Pollution? Evidence From Prefecture-Level Data in China  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392171238
+:TOPICS: Economic Impact of Environmental Policies and Resources
+:PUBLICATION_DATE: 2024-01-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.54691/40crve68")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392171238"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392171238"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392171238"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392171238 (Open access: True)
+    
+[[https://openalex.org/A5042973046][Ying Zhang]], Frontiers in Humanities and Social Sciences. 4(1)] 2024. https://doi.org/10.54691/40crve68  ([[https://bcpublication.org/index.php/FHSS/article/download/5940/5778][pdf]])
+     
+Based on the second batch of low-carbon city pilot policies in 2013 as a quasi-natural experiment, this study adopts the panel data of 212 cities in China from 2007 to 2017, and uses the difference-in-differences model (DID) to carry out a policy evaluation of the pollution reduction and emission reduction effects of the low-carbon pilot policies and further analyzes the transmission mechanism. Based on the DID method, the actual impacts of the government's low-carbon call policy and low-carbon governance policy on the urban ecological environment are examined. It is found that compared with non-pilot cities, low-carbon governance construction in low-carbon pilot cities significantly reduces pollutant emissions in the region. Analysis of the transmission mechanism reveals that urban low-carbon governance strengthens the strength of environmental policies and reduces urban carbon and pollutant emissions through the low-carbon treatment of urban waste and the low-carbon industrial structure. The test of regional heterogeneity found that the effect of pollution reduction and emission reduction is more significant in the eastern cities, high population concentrated cities and more economically developed cities. The results are still significant after replacing the explanatory variables with sulphur dioxide content and excluding extreme outliers. Therefore, the emission reduction policy has a significant contribution to improving the urban environment and reducing pollution emissions.    
+
+    
+
+* Confronting climate change and the AI revolution  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392176343
+:TOPICS: Smart Cities: Innovations and Challenges, Impact of COVID-19 on Global Environment
+:PUBLICATION_DATE: 2023-07-31
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.46692/9781447369950.015")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392176343"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392176343"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392176343"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392176343 (Open access: False)
+    
+, No host. None(None)] 2023. https://doi.org/10.46692/9781447369950.015 
+     
+Extreme weather events have already shown us the kind of world we will bequeath our grandchildren and the later generations to come, if we continue business as usual. A rapid reduction of our carbon dioxide emissions requires a rapid shift away from fossil fuels to green energy generators. This raises the real possibility that many workers will be forced into long term unemployment or, at best, trapped in precarious employment. The Green New Deal (GND) is essentially an initiative designed to address these two major concerns.    
+
+    
+
+* Assessing the Electrochemical CO2 Reduction Reaction Performance Requires More Than Reporting Coulombic Efficiency  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392143647
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-02-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aesr.202400031")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392143647"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392143647"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392143647"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392143647 (Open access: False)
+    
+[[https://openalex.org/A5053516374][Paniz Izadi]], [[https://openalex.org/A5046744094][Jia Song]], [[https://openalex.org/A5012190219][Chandani Singh]], [[https://openalex.org/A5026207543][Deepak Pant]], [[https://openalex.org/A5040347964][Falk Harnisch]], Advanced energy and sustainability research. None(None)] 2024. https://doi.org/10.1002/aesr.202400031 
+     
+Reporting coulombic efficiency () is the common way to assess the performance of electrochemical carbon dioxide (CO 2 ) reduction reaction (eCO 2 RR) in literature, whereas its carbon conversion efficiency () is frequently neglected. Herein, the importance of reporting both efficiencies when evaluating the eCO 2 RR is discussed, using Sn‐based gas diffusion electrodes (GDEs) as model electrodes. It is shown that can vary remarkably at a constant with minor operational changes. Over 120 min experiments with operational conditions being representative of numerous previous studies, the is increased from ≈20% to 41% (being only 9% below the theoretical maximum). This was achieved by simply adjusting the inlet CO 2 flow rate from ≈35 to 16 mL min −1 , while was identical at both CO 2 flow rates (≈85%, 7%, and 4% for production of formate/formic acid, CO, and H 2 , respectively at both conditions). Thus, it is advocated that reporting of both efficiencies, for electrons and carbon, is required for meaningfully assessing the performance of an eCO 2 RR system.    
 
     
