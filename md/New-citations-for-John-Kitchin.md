@@ -1,8 +1,8 @@
 # New citations for John Kitchin
 Description: New citations for my papers
-Created on Sun Mar  3 00:46:28 2024
+Created on Mon Mar  4 00:44:18 2024
 
-Found 26 results from 2024-02-25 to 2024-03-03
+Found 20 results from 2024-02-26 to 2024-03-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W1976900809%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370)
@@ -12,83 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W1990959822%7Chttps%3A//openalex.org/W2051277977%7Chttps%3A//openalex.org/W1981454729%7Chttps%3A//openalex.org/W2064709553%7Chttps%3A//openalex.org/W2157874313%7Chttps%3A//openalex.org/W1988714833%7Chttps%3A//openalex.org/W1966034750%7Chttps%3A//openalex.org/W1988125328%7Chttps%3A//openalex.org/W2056516494%7Chttps%3A//openalex.org/W2124416649%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2084199964%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2023154463%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W4255008889)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W2087480586%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W2333373047%7Chttps%3A//openalex.org/W2605616508%7Chttps%3A//openalex.org/W4232690322%7Chttps%3A//openalex.org/W4232865630%7Chttps%3A//openalex.org/W4247596616%7Chttps%3A//openalex.org/W4254421699%7Chttps%3A//openalex.org/W1964467038%7Chttps%3A//openalex.org/W2796291287%7Chttps%3A//openalex.org/W2949887176%7Chttps%3A//openalex.org/W4244960257%7Chttps%3A//openalex.org/W2441997026%7Chttps%3A//openalex.org/W2578323605%7Chttps%3A//openalex.org/W2951632357%7Chttps%3A//openalex.org/W4245313022)
-
-## Tracking accelerated oxygen evolution reaction enabled by explosive reconstruction of active species based on CoxN@NC   
-
-OpenAlex: https://openalex.org/W4392135567    
-Open access: False
-    
-[Hyung Wook Choi](https://openalex.org/A5042054457), [Jiwon Kim](https://openalex.org/A5091554389), [Hyeon‐Seok Bang](https://openalex.org/A5015012876), [Khaled Badawy](https://openalex.org/A5078354747), [Ui Young Lee](https://openalex.org/A5024947859), [Dong In Jeong](https://openalex.org/A5049204244), [Yeseul Kim](https://openalex.org/A5039821968), [Kotiba Hamad](https://openalex.org/A5054520248), [Bong Kyun Kang](https://openalex.org/A5078886160), [Byung Mook Weon](https://openalex.org/A5079700977), [Hyung Suk Oh](https://openalex.org/A5001603223), [Nirpendra Singh](https://openalex.org/A5017583868), [Dae Ho Yoon](https://openalex.org/A5045038094), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d4ta00196f.
-    
-The development of a hierarchical structure of Co/Co 4 N@NC has been successfully achieved. The robust oxygen evolution reaction activity of Co/Co 4 N@NC is attributed to the modulation of the d-band center, which reconstruct Co 2+ into Co 3+ .    
-
-    
-
-## Developing and understanding Leaching-Resistant cobalt nanoparticles via N/P incorporation for liquid phase hydroformylation   
-
-OpenAlex: https://openalex.org/W4392135876    
-Open access: True
-    
-[Carmen Galdeano-Ruano](https://openalex.org/A5013554434), [Silvia Gutiérrez‐Tarriño](https://openalex.org/A5082281753), [Christian Wittee Lopes](https://openalex.org/A5066683833), [Jaime Mazarío](https://openalex.org/A5046780829), [Lidia E. Chinchilla](https://openalex.org/A5081303199), [Giovanni Agostini](https://openalex.org/A5086042043), [José J. Calvino](https://openalex.org/A5071740493), [Juan P. Holgado](https://openalex.org/A5023721186), [Enrique Rodrı́guez-Castellón](https://openalex.org/A5065043472), [Alberto Roldán](https://openalex.org/A5085004954), [Pascual Oña‐Burgos](https://openalex.org/A5018654878), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115374.
-    
-No abstract    
-
-    
-
-## How transformative are transformative agreements? Evidence from Germany across disciplines   
-
-OpenAlex: https://openalex.org/W4392136948    
-Open access: True
-    
-[W. Benedikt Schmal](https://openalex.org/A5085538784), Scientometrics. None(None)] 2024.https://doi.org/10.1007/s11192-024-04955-y.
-    
-Abstract Research institutions across the globe attempt to change the academic publishing system as digitization opens up new opportunities, and subscriptions to the large journal bundles of the leading publishers put library budgets under pressure. One approach is the negotiation of so-called transformative agreements. I study the ‘DEAL’ contracts between nearly all German research institutions and Springer Nature and Wiley. I investigate 6.1 million publications in 5,862 journals covering eight fields in the years 2016–2022 and apply a causal difference-in-differences design to identify whether the likelihood of a paper appearing in an eligible journal increases. The effect strongly depends on the discipline. While material science, chemistry, and economics s tend to hift towards these journals, all other disciplines in my sample do not react. Suggestive evidence hints at the market position of the encompassed publishers before the ‘DEAL’ was established: Springer Nature and Wiley appear to benefit more from the contracts in disciplines in which they possessed a higher market share ex ante. The transformative vigor of these agreements in terms of publication behavior seems to be limited. It and highlights that the developments in this intertwined market require further examination.    
-
-    
-
-## Dynamic interactions between adsorbates and catalyst surfaces over long-term OER stability testing in acidic media   
-
-OpenAlex: https://openalex.org/W4392137363    
-Open access: False
-    
-[Ruihan Li](https://openalex.org/A5014692849), [Bingzhang Lu](https://openalex.org/A5004100261), [Jane Edgington](https://openalex.org/A5027776440), [Linsey Seit](https://openalex.org/A5093996995), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115387.
-    
-No abstract    
-
-    
-
-## Electrochemical performance of symmetric solid oxide cells employing a Sc-doped SrFeO3-δ-based electrode   
-
-OpenAlex: https://openalex.org/W4392138498    
-Open access: False
-    
-[Caichen Yang](https://openalex.org/A5002789936), [Yuhao Wang](https://openalex.org/A5032561481), [Yunfeng Tian](https://openalex.org/A5010315884), [Ziling Wang](https://openalex.org/A5019281354), [Jian Pu](https://openalex.org/A5035870336), [Francesco Ciucci](https://openalex.org/A5029424400), [Bo Chi](https://openalex.org/A5081959955), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149970.
-    
-No abstract    
-
-    
-
-## Density functional theory study of dissociative adsorption of O2 on Pd-skin Pd3Cu(1 1 1) surface   
-
-OpenAlex: https://openalex.org/W4392139576    
-Open access: False
-    
-[Yanlin Yu](https://openalex.org/A5032589681), [Huaizhang Gu](https://openalex.org/A5037262034), [Guangxin Wu](https://openalex.org/A5016856520), [Xuexia Liu](https://openalex.org/A5007239909), Computational Materials Science. 237(None)] 2024.https://doi.org/10.1016/j.commatsci.2024.112876.
-    
-No abstract    
-
-    
-
-## Dealloyed nanoporous platinum alloy electrocatalysts   
-
-OpenAlex: https://openalex.org/W4392140006    
-Open access: False
-    
-[Viswanathan S. Saji](https://openalex.org/A5042984882), International Journal of Hydrogen Energy. 60(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.02.286.
-    
-Dealloyed nanoporous platinum (np-Pt) alloy electrocatalysts are advantageous owing to the lower Pt content in the alloy composition, nanoporous architecture with high electrochemically active surface area, and excellent electrocatalytic activity and durability. Chemical, electrochemical or other dealloying methods help to develop commercially relevant np-Pt alloys. Selection of the appropriate precursor alloy composition, dealloying solution concentration and time, and the number and nature of dealloying steps are essential to optimize the desirable properties. We comprehensively review the available information on dealloyed Pt and its binary, ternary, quaternary and high-entropy alloys, nanoparticles and composites. The review presents various Pt alloy types and their dealloying conditions and the current understanding of the mechanism of electrocatalysis at the nanoporous confined spaces. The origin and the factors contributing to the electrocatalytic activity of dealloyed nanoporous electrocatalysts are discussed. The collective information could assist researchers in deriving more efficient and durable dealloyed electrocatalysts in various electrochemical energy applications.    
-
-    
 
 ## High-precision colorimetric-fluorescent dual-mode biosensor for detecting acetylcholinesterase based on a trimetallic nanozyme for efficient peroxidase-mimicking   
 
@@ -285,6 +208,17 @@ Open access: False
 [Ming Wah Wong](https://openalex.org/A5057550875), [Joel Jie Foo](https://openalex.org/A5045306384), [Jian Yiing Loh](https://openalex.org/A5071453029), [Wee‐Jun Ong](https://openalex.org/A5037072631), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202303281.
     
 Abstract In light of the profound shift toward renewable fuels, dual‐atom catalysts (DACs) are impressively prospected as auspicious catalysts for electrocatalysis revitalization, toward accomplishing environmental remediation and sustainable global energy security. Leveraging appealing attributes such as inspiring synergistic effect, additional adjacent adsorption sites, and ultrahigh atom utilization, DACs are endowed with unprecedented stability, activity, and selectivity in multifarious energy‐related applications. By virtue of addressing time and technological prominence to review this ground‐breaking atomic electrocatalyst, this review first encompasses a correlation elucidation between the substrate, dual‐atoms, and facile synthetic approaches with intriguing modification strategies. Furthermore, the state‐of‐the‐art characterization techniques specially employed for DACs are spotlighted, alongside rigorously unveiling the novel mechanistic insights’ milestone gained from both theoretical modeling and experimental research in multitudes of environmentally benign electrocatalytic applications, including O 2 reduction, CO 2 reduction, H 2 evolution, O 2 evolution, N 2 reduction, and other fundamental reactions. As a final note, this review presents a brief conclusion highlighting current challenges and outlining prospects for this frontier. Importantly, this review deciphers the structure‐performance correlation while excavating the advancement gained in DACs, thus is anticipated to shed light for the catalysis community on bolstering an intense evolution of DACs while triggering sapient inspiration for more robust next‐generation catalysts.    
+
+    
+
+## Revisiting the universal principle for the rational design of single-atom electrocatalysts   
+
+OpenAlex: https://openalex.org/W4392201277    
+Open access: False
+    
+[Haoxiang Xu](https://openalex.org/A5062678004), [Daojian Cheng](https://openalex.org/A5006520119), [Dapeng Cao](https://openalex.org/A5056166029), [Xiao Cheng Zeng](https://openalex.org/A5019286517), Nature Catalysis. 7(2)] 2024.https://doi.org/10.1038/s41929-023-01106-z.
+    
+No abstract    
 
     
 

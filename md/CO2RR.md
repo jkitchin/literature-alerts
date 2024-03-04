@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Mar  3 00:46:22 2024
+Created on Mon Mar  4 00:44:12 2024
 
-Found 29 results from 2024-02-25 to 2024-03-03
+Found 29 results from 2024-02-26 to 2024-03-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## A Novel Non‐Fullerene D‐A Interface with Two Asymmetrical Electron Acceptors Facilitates Charge and Energy Transfer for Effective Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4392132976    
-Open access: False
-    
-[Shiming Zhang](https://openalex.org/A5029072614), [Yanping Hou](https://openalex.org/A5087917925), [Libin Zhang](https://openalex.org/A5088640614), [Hongxiang Zhu](https://openalex.org/A5088037729), [Jianhua Xiong](https://openalex.org/A5042484630), [Shuangfei Wang](https://openalex.org/A5085223066), [Tao Liu](https://openalex.org/A5006059676), Small. None(None)] 2024.https://doi.org/10.1002/smll.202311816.
-    
-Abstract Converting carbon dioxide (CO 2 ) into high‐value chemicals using solar energy remains a formidable challenge. In this study, the CSC@PM6:IDT6CN‐M:IDT8CN‐M non‐fullerene small‐molecule organic semiconductor is designed with highly efficient electron donor‐acceptor (D‐A) interface for photocatalytic reduction of CO 2 . Atomic Force Microscope and Transmission Electron Microscope images confirmed the formation of an interpenetrating fibrillar network after combination of donor and acceptor. The CO yield from the CSC@PM6:IDT6CN‐M:IDT8CN‐M reached 1346 µmol g −1 h −1 , surpassing those of numerous reported inorganic photocatalysts. The D‐A structure effectively facilitated charge separation to enable electrons transfer from the PM6 to IDT6CN‐M:IDT8CN‐M. Meanwhile, attributing to the dipole moments of the strong intermolecular interactions between IDT6CN‐M and IDT8CN‐M, the intermolecular forces are enhanced, and laminar stacking and π‐π stacking are strengthened, thereby reinforcing energy transfer between acceptor molecules and significantly enhanced charge separation. Moreover, the strong internal electric field in the D‐A interface enhanced the excited state lifetime of PM6:IDT6CN‐M:IDT8CN‐M. In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) analysis demonstrated that carboxylate (COOH*) is the predominant intermediate during CO 2 reduction, and possible pathways of CO 2 reduction to CO are deduced. This study presents a novel approach for designing materials with D‐A interface to achieve high photocatalytic activity.    
-
-    
 
 ## Improved photocatalytic carbon dioxide reduction over Bi-doped CeO2 by strain engineering   
 
@@ -323,5 +312,16 @@ Open access: False
 [Paniz Izadi](https://openalex.org/A5053516374), [Jia Song](https://openalex.org/A5046744094), [Chandani Singh](https://openalex.org/A5012190219), [Deepak Pant](https://openalex.org/A5026207543), [Falk Harnisch](https://openalex.org/A5040347964), Advanced energy and sustainability research. None(None)] 2024.https://doi.org/10.1002/aesr.202400031.
     
 Reporting coulombic efficiency () is the common way to assess the performance of electrochemical carbon dioxide (CO 2 ) reduction reaction (eCO 2 RR) in literature, whereas its carbon conversion efficiency () is frequently neglected. Herein, the importance of reporting both efficiencies when evaluating the eCO 2 RR is discussed, using Sn‐based gas diffusion electrodes (GDEs) as model electrodes. It is shown that can vary remarkably at a constant with minor operational changes. Over 120 min experiments with operational conditions being representative of numerous previous studies, the is increased from ≈20% to 41% (being only 9% below the theoretical maximum). This was achieved by simply adjusting the inlet CO 2 flow rate from ≈35 to 16 mL min −1 , while was identical at both CO 2 flow rates (≈85%, 7%, and 4% for production of formate/formic acid, CO, and H 2 , respectively at both conditions). Thus, it is advocated that reporting of both efficiencies, for electrons and carbon, is required for meaningfully assessing the performance of an eCO 2 RR system.    
+
+    
+
+## Co-optimization of system configurations and energy scheduling of multiple community integrated energy systems to improve photovoltaic self-consumption   
+
+OpenAlex: https://openalex.org/W4392202961    
+Open access: False
+    
+[Changqi Wei](https://openalex.org/A5050431244), [Jiangjiang Wang](https://openalex.org/A5078303039), [Yuan Zhou](https://openalex.org/A5048976082), [Yuxin Li](https://openalex.org/A5002803940), [Weiliang Liu](https://openalex.org/A5000799344), Renewable Energy. None(None)] 2024.https://doi.org/10.1016/j.renene.2024.120230.
+    
+Given the increasing integration of building photovoltaics and the accelerated transformation of power systems, the supply-demand imbalance in photovoltaic communities has become a pressing issue. This study presents a novel optimization model for collaborative planning and scheduling. The alternating direction multiplier method is utilized to derive an optimal economic scheduling strategy for the community cooperative alliance, while ensuring private information protection. Additionally, the genetic algorithms are employed to ascertain the optimal configuration. The optimization model prioritizes the common good over individual interests in community cooperation alliances, meaning some members may need to compromise their self-interest to attain optimized overall benefits. Therefore, a compensation mechanism based on the Nash negotiation principle is established to ensure fair distribution of benefits. The simulation results demonstrate that the primary energy saving rate, annual cost saving rate, and carbon dioxide emission reduction rate of the photovoltaic community alliance are 42.91%, 32.50%, and 41.81%, respectively, and the self-consumption level of photovoltaic is vastly improved to 98.83% on a typical winter day. The sensitivity analysis illustrates that the photovoltaic panels in buildings contribute to a decrease in energy consumption and carbon emission by 25.57% and 26.15%, respectively. In contrast, they result in a cost increase of 11.05%.    
 
     

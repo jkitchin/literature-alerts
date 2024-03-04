@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 03 Mar 2024 00:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 00:44:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Novel Non&#8208;Fullerene D&#8208;A Interface with Two Asymmetrical Electron Acceptors Facilitates Charge and Energy Transfer for Effective Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1002/smll.202311816</link>
-      <description>Shiming Zhang, Yanping Hou, Libin Zhang, Hongxiang Zhu, Jianhua Xiong, Shuangfei Wang, Tao Liu, Small. None(None)] 2024. https://openalex.org/W4392132976
-
-                Abstract Converting carbon dioxide (CO 2 ) into high&#8208;value chemicals using solar energy remains a formidable challenge. In this study, the CSC@PM6:IDT6CN&#8208;M:IDT8CN&#8208;M non&#8208;fullerene small&#8208;molecule organic semiconductor is designed with highly efficient electron donor&#8208;acceptor (D&#8208;A) interface for photocatalytic reduction of CO 2 . Atomic Force Microscope and Transmission Electron Microscope images confirmed the formation of an interpenetrating fibrillar network after combination of donor and acceptor. The CO yield from the CSC@PM6:IDT6CN&#8208;M:IDT8CN&#8208;M reached 1346 &#181;mol g &#8722;1 h &#8722;1 , surpassing those of numerous reported inorganic photocatalysts. The D&#8208;A structure effectively facilitated charge separation to enable electrons transfer from the PM6 to IDT6CN&#8208;M:IDT8CN&#8208;M. Meanwhile, attributing to the dipole moments of the strong intermolecular interactions between IDT6CN&#8208;M and IDT8CN&#8208;M, the intermolecular forces are enhanced, and laminar stacking and &#960;&#8208;&#960; stacking are strengthened, thereby reinforcing energy transfer between acceptor molecules and significantly enhanced charge separation. Moreover, the strong internal electric field in the D&#8208;A interface enhanced the excited state lifetime of PM6:IDT6CN&#8208;M:IDT8CN&#8208;M. In situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) analysis demonstrated that carboxylate (COOH*) is the predominant intermediate during CO 2 reduction, and possible pathways of CO 2 reduction to CO are deduced. This study presents a novel approach for designing materials with D&#8208;A interface to achieve high photocatalytic activity.</description>
-      <author>Shiming Zhang, Yanping Hou, Libin Zhang, Hongxiang Zhu, Jianhua Xiong, Shuangfei Wang, Tao Liu</author>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202311816</guid>
-    </item>
     <item>
       <title>Improved photocatalytic carbon dioxide reduction over Bi-doped CeO2 by strain engineering</title>
       <link>https://doi.org/10.1039/d3se01680c</link>
@@ -296,6 +286,16 @@
       <author>Paniz Izadi, Jia Song, Chandani Singh, Deepak Pant, Falk Harnisch</author>
       <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400031</guid>
+    </item>
+    <item>
+      <title>Co-optimization of system configurations and energy scheduling of multiple community integrated energy systems to improve photovoltaic self-consumption</title>
+      <link>https://doi.org/10.1016/j.renene.2024.120230</link>
+      <description>Changqi Wei, Jiangjiang Wang, Yuan Zhou, Yuxin Li, Weiliang Liu, Renewable Energy. None(None)] 2024. https://openalex.org/W4392202961
+
+                Given the increasing integration of building photovoltaics and the accelerated transformation of power systems, the supply-demand imbalance in photovoltaic communities has become a pressing issue. This study presents a novel optimization model for collaborative planning and scheduling. The alternating direction multiplier method is utilized to derive an optimal economic scheduling strategy for the community cooperative alliance, while ensuring private information protection. Additionally, the genetic algorithms are employed to ascertain the optimal configuration. The optimization model prioritizes the common good over individual interests in community cooperation alliances, meaning some members may need to compromise their self-interest to attain optimized overall benefits. Therefore, a compensation mechanism based on the Nash negotiation principle is established to ensure fair distribution of benefits. The simulation results demonstrate that the primary energy saving rate, annual cost saving rate, and carbon dioxide emission reduction rate of the photovoltaic community alliance are 42.91%, 32.50%, and 41.81%, respectively, and the self-consumption level of photovoltaic is vastly improved to 98.83% on a typical winter day. The sensitivity analysis illustrates that the photovoltaic panels in buildings contribute to a decrease in energy consumption and carbon emission by 25.57% and 26.15%, respectively. In contrast, they result in a cost increase of 11.05%.</description>
+      <author>Changqi Wei, Jiangjiang Wang, Yuan Zhou, Yuxin Li, Weiliang Liu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.120230</guid>
     </item>
   </channel>
 </rss>

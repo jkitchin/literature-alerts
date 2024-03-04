@@ -1,55 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Mar  3 00:46:19 2024
+Created on Mon Mar  4 00:44:10 2024
 
-Found 27 results from 2024-02-25 to 2024-03-03
+Found 26 results from 2024-02-26 to 2024-03-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Nanoflowers of Ternary Cobalt–Copper–Manganese Oxide as an Efficient Electrocatalyst for Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392130324    
-Open access: False
-    
-[Jyoti Raghav](https://openalex.org/A5003445703), [P. Rosaiah](https://openalex.org/A5045408244), [Bandar Ali Al‐Asbahi](https://openalex.org/A5051674509), [Soumyendu Roy](https://openalex.org/A5001688048), Energy Technology. None(None)] 2024.https://doi.org/10.1002/ente.202301355.
-    
-Oxygen evolution reaction (OER) is an integral step in the water‐splitting process. Hence, to promote OER, efficient catalysts are required to lower the energy barriers at the electrode/electrolyte interface. Low‐cost and highly active catalysts are in great demand. Herein, a ternary metal oxide, CoCuMnO x , synthesized by a facile hydrothermal method is reported, which possesses excellent catalytic ability for OER in alkaline electrolytes. The nanoscale morphology of the catalyst with flower‐like nanostructures is instrumental in increasing the electrochemical surface area of the electrode. The presence of multivalent ions and the incorporation of copper greatly enhance the electrochemical properties of the catalysts. The catalysts typically demonstrate an overpotential value of 220 mV for achieving 10 mA cm −2 current density and a Tafel slope of 73 mV dec −1 . The catalysts demonstrate good stability with minimal degradation in OER activity even after 20 h of chronopotentiometry test. For practical applications, this low‐cost material holds great potential.    
-
-    
-
-## Tracking accelerated oxygen evolution reaction enabled by explosive reconstruction of active species based on CoxN@NC   
-
-OpenAlex: https://openalex.org/W4392135567    
-Open access: False
-    
-[Hyung Wook Choi](https://openalex.org/A5042054457), [Jiwon Kim](https://openalex.org/A5091554389), [Hyeon‐Seok Bang](https://openalex.org/A5015012876), [Khaled Badawy](https://openalex.org/A5078354747), [Ui Young Lee](https://openalex.org/A5024947859), [Dong In Jeong](https://openalex.org/A5049204244), [Yeseul Kim](https://openalex.org/A5039821968), [Kotiba Hamad](https://openalex.org/A5054520248), [Bong Kyun Kang](https://openalex.org/A5078886160), [Byung Mook Weon](https://openalex.org/A5079700977), [Hyung Suk Oh](https://openalex.org/A5001603223), [Nirpendra Singh](https://openalex.org/A5017583868), [Dae Ho Yoon](https://openalex.org/A5045038094), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d4ta00196f.
-    
-The development of a hierarchical structure of Co/Co 4 N@NC has been successfully achieved. The robust oxygen evolution reaction activity of Co/Co 4 N@NC is attributed to the modulation of the d-band center, which reconstruct Co 2+ into Co 3+ .    
-
-    
-
-## Interface‐Engineered NiFe/Ni‐S Nanoparticles for Reliable Alkaline Oxygen Production at Industrial Current: A Sulfur Source Confinement Strategy   
-
-OpenAlex: https://openalex.org/W4392139199    
-Open access: False
-    
-[Bin Chen](https://openalex.org/A5010217323), [Tao Liu](https://openalex.org/A5017882728), [Xiangwen Zhang](https://openalex.org/A5027689004), [Shichao Zhao](https://openalex.org/A5048537490), [Runfei Yue](https://openalex.org/A5061055076), [Sipu Wang](https://openalex.org/A5040298454), [Lianqin Wang](https://openalex.org/A5038532525), [Zhihao Chen](https://openalex.org/A5015399496), [Yingjie Feng](https://openalex.org/A5019670440), [Jun Huang](https://openalex.org/A5052713328), [Yan Yin](https://openalex.org/A5079178497), [Michael D. Guiver](https://openalex.org/A5021480695), Small. None(None)] 2024.https://doi.org/10.1002/smll.202310737.
-    
-Abstract Using powder‐based ink appears to be the most suitable candidate for commercializing the membrane electrode assembly (MEA), while research on the powder‐based NPM catalyst for anion exchange membrane water electrolyzer (AEMWE) is currently insufficient, especially at high current density. Herein, a sulfur source (NiFe Layered double hydroxide adsorbed ) confinement strategy is developed to integrate Ni 3 S 2 onto the surface of amorphous/crystalline NiFe alloy nanoparticles (denoted NiFe/Ni‐S), achieving advanced control over the sulfidation process for the formation of metal sulfides. The constructed interface under the sulfur source confinement strategy generates abundant active sites that increase electron transport at the electrode‐electrolyte interface and improve ability over an extended period at a high current density. Consequently, the constructed NiFe/Ni‐S delivers an ultra‐low overpotential of 239 mV at 10 mA cm −2 and 0.66 mA under an overpotential of 300 mV. The AEMWE with NiFe/Ni‐S anode exhibits a cell voltage of 1.664 V @ 0.5 A cm −2 and a 400 h stability at 1.0 A cm −2 .    
-
-    
-
-## Phytic-acid-doped conductive hydrogels as alkaline seawater electrocatalysts with anomalous chloride promoted oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392139371    
-Open access: False
-    
-[Lin Hu](https://openalex.org/A5027580867), [Xuecai Tan](https://openalex.org/A5058103707), [Rui Luo](https://openalex.org/A5078231129), [Xiao-Ju Wen](https://openalex.org/A5043057827), [Xiankun Wu](https://openalex.org/A5051350429), [Hua-xun Luo](https://openalex.org/A5041854485), [Zhenghao Fei](https://openalex.org/A5072559438), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159754.
-    
-No abstract    
-
-    
 
 ## Seven mechanisms of oxygen evolution reaction proposed recently: A mini review   
 
@@ -205,17 +161,6 @@ No abstract
 
     
 
-## Tailoring First Coordination Sphere of Dual‐Metal Atom Sites Boosts Oxygen Reduction and Evolution Activities   
-
-OpenAlex: https://openalex.org/W4392139655    
-Open access: False
-    
-[Zhe Wang](https://openalex.org/A5083673334), [Ruojie Xu](https://openalex.org/A5021418048), [Qitong Ye](https://openalex.org/A5006151140), [Jin X](https://openalex.org/A5058923008), [Zhe Lü](https://openalex.org/A5082619738), [Zhenbei Yang](https://openalex.org/A5055796972), [Yong Wang](https://openalex.org/A5035836023), [Tao Yan](https://openalex.org/A5032912701), [Yipu Liu](https://openalex.org/A5009315315), [Zhijuan Pan](https://openalex.org/A5008216048), [Seong‐Ju Hwang](https://openalex.org/A5004164674), [Hong Jin Fan](https://openalex.org/A5015059832), Advanced Functional Materials. None(None)] 2024.https://doi.org/10.1002/adfm.202315376.
-    
-Abstract It is important to tune the coordination configuration of dual‐atom catalyst (DAC), especially in the first coordination sphere, to render high intrinsic catalytic activities for oxygen reduction/evolution reactions (ORR/OER). Herein, a type of atomically dispersed and boron‐coordinated DAC structure, namely, FeN 4 B‐NiN 4 B dual sites, is reported. In this structure, the incorporation of boron into the first coordination sphere of FeN 4 /NiN 4 atomic sites regulates its geometry and electronic structure by forming “Fe‐B‐N” and “Ni‐B‐N” bridges. The FeN 4 B‐NiN 4 B DAC exhibits much enhanced ORR and OER property compared to the FeN 4 ‐NiN 4 counterparts. Density functional theory calculations reveal that the boron‐induced charge transfer and asymmetric charge distributions of the central Fe/Ni atoms optimize the adsorption and desorption behavior of the ORR/OER intermediates and reduce the activation energy for the potential‐determining step. Zinc‐air batteries employing the FeN 4 B‐NiN 4 B cathode exhibit a high maximum power density (236.9 mW cm −2 ) and stable cyclability up to 1100 h. The result illustrates the pivotal role of the first‐coordination sphere of DACs in tuning the electrochemical energy conversion and storage activities.    
-
-    
-
 ## Nanocomposites of Carbon for Metal-Air Batteries   
 
 OpenAlex: https://openalex.org/W4392207371    
@@ -246,17 +191,6 @@ Open access: True
 [Siran Xu](https://openalex.org/A5027128330), [Sihua Feng](https://openalex.org/A5066350763), [Yue Yu](https://openalex.org/A5049816813), [Dongping Xue](https://openalex.org/A5048201598), [Mengli Liu](https://openalex.org/A5072864302), [Chao Wang](https://openalex.org/A5032208819), [Kaiyue Zhao](https://openalex.org/A5009148187), [Bingjun Xu](https://openalex.org/A5073687384), [Jianan Zhang](https://openalex.org/A5058865217), Nature Communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-45700-6 ([pdf](https://www.nature.com/articles/s41467-024-45700-6.pdf)).
     
 Abstract Efficient oxygen evolution reaction electrocatalysts are essential for sustainable clean energy conversion. However, catalytic materials followed the conventional adsorbate evolution mechanism (AEM) with the inherent scaling relationship between key oxygen intermediates *OOH and *OH, or the lattice-oxygen-mediated mechanism (LOM) with the possible lattice oxygen migration and structural reconstruction, which are not favorable to the balance between high activity and stability. Herein, we propose an unconventional Co-Fe dual-site segmentally synergistic mechanism (DSSM) for single-domain ferromagnetic catalyst CoFeS x nanoclusters on carbon nanotubes (CNT) (CFS-ACs/CNT), which can effectively break the scaling relationship without sacrificing stability. Co 3+ (L.S, t 2g 6 e g 0 ) supplies the strongest OH* adsorption energy, while Fe 3+ (M.S, t 2g 4 e g 1 ) exposes strong O* adsorption. These dual-sites synergistically produce of Co-O-O-Fe intermediates, thereby accelerating the release of triplet-state oxygen ( ↑ O = O ↑ ). As predicted, the prepared CFS-ACs/CNT catalyst exhibits less overpotential than that of commercial IrO 2 , as well as approximately 633 h of stability without significant potential loss.    
-
-    
-
-## Efficient NiFeCr0.1/NF by incorporating chromium to boost OER catalysis   
-
-OpenAlex: https://openalex.org/W4392135418    
-Open access: False
-    
-[zhonggang zhang](https://openalex.org/A5011475097), [Zuobo Yang](https://openalex.org/A5004187884), [Junan Gao](https://openalex.org/A5037532055), [Xiaofeng Wu](https://openalex.org/A5039857226), [Jimmy Yun](https://openalex.org/A5088596691), [Jie Zhang](https://openalex.org/A5008720433), Molecular Catalysis. 557(None)] 2024.https://doi.org/10.1016/j.mcat.2024.113980.
-    
-This study developed ternary NiFeCr hydroxide microsphere composites for efficient oxygen evolution reaction (OER) in alkaline water. Compared to binary NiFe composites, the ternary composites exhibited superior electrocatalytic activity. In a 1 M KOH solution, the ternary composite demonstrated a low initial potential of 1.46 V (RHE), and the overpotential is only 268 mV @ 100 mA cm−2. Charge rearrangement due to chromium oxidation helped maintain iron's low oxidation state, preserving OER activity. The redistribution of chromium particles stabilized iron and prevented its dissolution in an alkaline solution. Consequently, the optimized NiFeCr catalyst exhibits excellent stability, with a stability of 200 h at 100 mA cm−2. This study offers a novel approach to designing efficient and stable catalysts for water decomposition.    
 
     
 
@@ -301,5 +235,60 @@ Open access: True
 [Ateer Bao](https://openalex.org/A5009410342), [Yaohang Gu](https://openalex.org/A5074635667), [Yuxuan Zhang](https://openalex.org/A5001753313), [Bowen Zhang](https://openalex.org/A5042328954), [Juncheng Wu](https://openalex.org/A5013655092), [Bo Niu](https://openalex.org/A5039717240), [Xiaoyan Zhang](https://openalex.org/A5021636467), [Haijun Pan](https://openalex.org/A5042747805), [Xiwei Qi](https://openalex.org/A5017229059), Carbon energy. None(None)] 2024.https://doi.org/10.1002/cey2.519 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cey2.519)).
     
 Abstract High‐entropy materials (HEMs), which are newly manufactured compounds that contain five or more metal cations, can be a platform with desired properties, including improved electrocatalytic performance owing to the inherent complexity. Here, a strain engineering methodology is proposed to design transition‐metal‐based HEM by Li manipulation (LiTM) with tunable lattice strain, thus tailoring the electronic structure and boosting electrocatalytic performance. As confirmed by the experiments and calculation results, tensile strain in the LiTM after Li manipulation can optimize the d ‐band center and increase the electrical conductivity. Accordingly, the as‐prepared LiTM‐25 demonstrates optimized oxygen evolution reaction and hydrogen evolution reaction activity in alkaline saline water, requiring ultralow overpotentials of 265 and 42 mV at 10 mA cm −2 , respectively. More strikingly, LiTM‐25 retains 94.6% activity after 80 h of a durability test when assembled as an anion‐exchange membrane water electrolyzer. Finally, in order to show the general efficacy of strain engineering, we incorporate Li into electrocatalysts with higher entropies as well.    
+
+    
+
+## Nano-Engineered Vanadium Doped NiS Catalyst for Efficient Electrochemical Water Splitting   
+
+OpenAlex: https://openalex.org/W4392173137    
+Open access: False
+    
+[Chandra Prakash](https://openalex.org/A5080170701), [Priyambada Sahoo](https://openalex.org/A5072138555), [Vijay Kumar Singh](https://openalex.org/A5062604463), [Ambesh Dixit](https://openalex.org/A5062317946), Advances in sustainability science and technology. None(None)] 2024.https://doi.org/10.1007/978-981-99-9009-2_21.
+    
+In this work, we demonstrate a single step hydrothermally grown nanorod shaped pristine and Vanadium (V) doped NiS on highly porous nickel foam substrate, i.e., NiS@NF and V-NiS@NF. A detailed electrochemical analysis, in terms of hydrogen evolution reaction (HER), oxygen evolution reaction (OER) and Tafel slope, suggests that V doping enhances the electrocatalytic activity of NiS@NF for water splitting. V-NiS@NF delivered 172 mV HER and 310 mV OER overpotentials at current densities of 10 mA/cm2 and 50 mA/cm2, respectively. The Tafel slope values for HER and OER of V-NiS@NF are 45 mV/dec and 25 mV/dec, respectively. The better electrocatalytic performance of V-NiS@NF as compared to the NiS@NF was attributed to the matching of the atomic radius and deformation of the electronic structure of the pristine NiS@NF resulting in higher active sites. Due to the bifunctional nature with moderate HER/OER overpotentials and ease of synthesis, the present electrocatalyst V-NiS@NF can be used to develop an efficient electrolyzer for green hydrogen generation through water splitting.    
+
+    
+
+## Optimizing Water Oxidation Kinetics by Modulating Spin Alignment through Non-metal Vacancy Engineering   
+
+OpenAlex: https://openalex.org/W4392185671    
+Open access: False
+    
+[Jianyong Lou](https://openalex.org/A5006440865), [Junhui Liang](https://openalex.org/A5067392495), [Xin Yao](https://openalex.org/A5040069267), [Ma Hong](https://openalex.org/A5047991046), [Yiqing Zhang](https://openalex.org/A5070829517), [Huayu Chen](https://openalex.org/A5005985350), [Laishun Qin](https://openalex.org/A5046633997), [Yuexiang Huang](https://openalex.org/A5053114163), [Ying Zhao](https://openalex.org/A5071855419), [Da Chen](https://openalex.org/A5077114202), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c03125.
+    
+The efficiency of water splitting is primarily hampered by the sluggish kinetics of the oxygen evolution reaction (OER). Recently, increasing attention has been drawn to leverage spin polarization under an external magnetic field. However, the application of a magnetic field requires additional energy consumption and poses design challenges. Herein, we propose a simple defect engineering strategy aimed at aligning spins in paramagnetic materials to achieve an enhanced intrinsic OER activity. The hydrogenated NiFeP with P vacancies demonstrates elevated saturation magnetization (MS) and reduced overpotential (MS = 5.8 emu/mg, η10 = 303 mV) compared to the untreated NiFeP sample (MS = 1.2 emu/mg, η10 = 341 mV). We elucidate the underlying mechanism of the spin magnetic effect on the OER performance and provide insights into the intricate relationship among vacancies, saturation magnetization, spin state alignment, and oxygenated intermediates. These insights contribute to a better understanding and design of catalysts at the spintronic level, paving the way for more efficient water splitting processes.    
+
+    
+
+## In-situ construction of cation vacancies in amphoteric-metallic element-doped NiFe-LDH as ultrastable and efficient alkaline hydrogen evolution electrocatalysts at 1000 mA cm-2   
+
+OpenAlex: https://openalex.org/W4392203793    
+Open access: False
+    
+[Q J Liu](https://openalex.org/A5042968837), [Kaisheng Chen](https://openalex.org/A5071740726), [Min Wang](https://openalex.org/A5014095615), [Haibo Fan](https://openalex.org/A5003220159), [Zihao Yan](https://openalex.org/A5046573190), [Xi‐Wen Du](https://openalex.org/A5031056448), [Yongjun Chen](https://openalex.org/A5000357063), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.02.184.
+    
+Developing efficient and stable electrocatalysts at affordable costs is very important for large-scale production of green hydrogen. In this study, unique amphoteric metallic element-doped NiFe-LDH nanosheet arrays (NiFeCd-LDH, NiFeZn-LDH and NiFeAl-LDH) using as high-performance bifunctional electrocatalysts for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) were reported, by tuning electronic structure and vacancy engineering. It was found that NiFeCd-LDH possesses the lowest overpotentials of 85 mV and 240 mV (at 10 mA cm-2) for HER and OER, respectively. Density functional theory (DFT) calculations reveal the synergistic effect of Cd vacancies and Cd doping on improving alkaline HER performance, which promote the achievement of excellent catalytic activity and ultrastable hydrogen production at a large current density of 1000 mA cm-2 within 270 hours. Besides, the overall water splitting performance of the as-prepared NiFeCd-LDH requires only 1.580 V to achieve a current density of 10 mA cm-2 in alkaline seawater media, underscoring the importance of modifying the electronic properties of LDH for efficient overall water splitting in both alkaline water/seawater environments.    
+
+    
+
+## Novel mixed heterovalent (Mo/Co)Ox-zerovalent Cu system as bi-functional electrocatalyst for overall water splitting   
+
+OpenAlex: https://openalex.org/W4392159375    
+Open access: True
+    
+[Ahmed R. Tartour](https://openalex.org/A5060272883), [Moustafa M.S. Sanad](https://openalex.org/A5061528807), [Ibrahim S. El-Hallag](https://openalex.org/A5035036661), [Y. I. Moharram](https://openalex.org/A5050354141), Scientific Reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-54934-9 ([pdf](https://www.nature.com/articles/s41598-024-54934-9.pdf)).
+    
+Abstract A novel hybrid ternary metallic electrocatalyst of amorphous Mo/Co oxides and crystallized Cu metal was deposited over Ni foam using a one-pot, simple, and scalable solvothermal technique. The chemical structure of the prepared ternary electrocatalyst was systematically characterized and confirmed via XRD, FTIR, EDS, and XPS analysis techniques. FESEM images of (Mo/Co)O x –Cu@NF display the formation of 3D hierarchical structure with a particle size range of 3–5 µm. The developed (Mo/Co)O x –Cu@NF ternary electrocatalyst exhibits the maximum activity with 188 mV and 410 mV overpotentials at 50 mA cm −2 for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), respectively. Electrochemical impedance spectroscopy (EIS) results for the (Mo/Co)O x –Cu@NF sample demonstrate the minimum charge transfer resistance (R ct ) and maximum constant phase element (CPE) values. A two-electrode cell based on the ternary electrocatalyst just needs a voltage of about 1.86 V at 50 mA cm −2 for overall water splitting (OWS). The electrocatalyst shows satisfactory durability during the OWS for 24 h at 10 mA cm −2 with an increase of only 33 mV in the cell potential.    
+
+    
+
+## Nickel molybdenum selenide on carbon cloth as an efficient bifunctional electrocatalyst for alkaline seawater splitting   
+
+OpenAlex: https://openalex.org/W4392180320    
+Open access: False
+    
+[Mohammad Saquib](https://openalex.org/A5005616367), [Pratham Arora](https://openalex.org/A5029080204), [Amit C. Bhosale](https://openalex.org/A5086137545), Fuel. 365(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131251.
+    
+Exploring cost-effective and highly efficient electrocatalysts is desirable for the overall water-splitting challenge. In this work, a promising bifunctional electrocatalyst for oxygen evolution and hydrogen evolution reactions (OER/HER) in an alkaline medium (1 M KOH) and simulated alkaline seawater (1 M KOH + 0.5 M NaCl) was rationally developed by a simple, one-step, inexpensive, and eco-friendly method. Mo-doped nickel selenide supported on activated carbon cloth (NiMoSe@CC) was successfully synthesized via a hydrothermal method. NiMoSe nanoparticles were observed to be densely grown with better uniformity on the carbon fibers, as confirmed by different characterization techniques. The NiMoSe@CC showed an enhanced OER activity with a low overpotential of 320 mV (alkaline medium) and 360 mV (alkaline seawater) at 10 mA cm−2. The HER performance of the NiMoSe@CC was also the highest amongst NiMoSe, NiSe@CC, and MoSe@CC in both the alkaline and seawater environments. In addition, NiMoSe@CC bears a high electrochemically active surface area, low charge transfer resistance of 1.77 Ω, and high stability for both OER and HER. The NiMoSe@CC//NiMoSe@CC system was stable for 5000 LSV cycles with η10 values of 1.63 V (1st LSV cycle) and 1.71 V (5000th LSV cycle).    
 
     

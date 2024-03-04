@@ -1,8 +1,8 @@
 # Related papers for John Kitchin
 Description: Related papers to my work
-Created on Sun Mar  3 00:46:29 2024
+Created on Mon Mar  4 00:44:19 2024
 
-Found 0 results from 2024-02-25 to 2024-03-03
+Found 0 results from 2024-02-26 to 2024-03-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/works/w4386602600%7Chttps%3A//openalex.org/works/w4366983532%7Chttps%3A//openalex.org/works/w4290659046%7Chttps%3A//openalex.org/works/w2167035995](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/works/w4386602600%7Chttps%3A//openalex.org/works/w4366983532%7Chttps%3A//openalex.org/works/w4290659046%7Chttps%3A//openalex.org/works/w2167035995)
 

@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Mar  3 00:46:23 2024
+Created on Mon Mar  4 00:44:14 2024
 
-Found 9 results from 2024-02-25 to 2024-03-03
+Found 8 results from 2024-02-26 to 2024-03-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Fast Kinetics of Hydrogen Oxidation Reaction on Single-Atom Ce-Alloyed Ru in Alkaline Electrolytes   
-
-OpenAlex: https://openalex.org/W4392130607    
-Open access: False
-    
-[Zhiyu Cheng](https://openalex.org/A5031779825), [Yang Yang](https://openalex.org/A5050709202), [Fangcai Zheng](https://openalex.org/A5011694527), [Shi Chen](https://openalex.org/A5021077043), [Peichen Wang](https://openalex.org/A5008620166), [Pengcheng Wang](https://openalex.org/A5044971912), [Hao Huang](https://openalex.org/A5053505040), [Changlai Wang](https://openalex.org/A5084793778), [Dongdong Wang](https://openalex.org/A5052077971), [Qianwang Chen](https://openalex.org/A5014087781), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05954.
-    
-The kinetics of anodic hydrogen oxidation reaction (HOR) in alkaline media, even catalyzed by the state-of-the-art Pt catalysts, is much lower than that in acidic electrolytes, which is a significant barrier for the development of high-performance anion-exchange membrane fuel cells (AEMFCs). Based on the difference in catalytic mechanism under alkaline and acidic conditions, we suggest that the sluggish HOR in alkaline media is due to the involvement of hydroxyl in Heyrovsky or Volmer steps, and this can be improved by forcing HOR on active sites via the mechanism like that in acidic media. Herein, we prepared a single-atom Ce-alloyed Ru catalyst (Ce1Ru/C) in which Ce atoms could adsorb abundant OH– owing to its much stronger oxophilicity compared to that of Ru. Therefore, the nearest neighbor Ru atoms around Ce atoms become the adsorption sites for Had which would react with the surrounding adsorbed water to form H3O+ad. A key H3O+ad intermediate on the surface of Ce1Ru/C during HOR in alkaline media was detected by in situ Raman spectroscopy, providing direct evidence for the HOR in alkaline media occurring via steps similar to those in acidic media. Even at 30 mV overpotential, Ce1Ru/C still displays rapid reaction kinetics with high mass and specific activity about 27/59 and 5/12 times higher than those of Pt/C and PtRu/C. The activity of our catalyst is the best among various alkaline HOR electrocatalysts reported so far. Moreover, Ce1Ru/C demonstrates high electrochemical stability and CO tolerance, taking a giant step forward toward the commercialization of AEMFCs.    
-
-    
 
 ## Tailoring Cu–Zn Dual-Atom Sites with Reordering d-Orbital Splitting Manner for Highly Efficient Acetylene Semihydrogenation   
 
