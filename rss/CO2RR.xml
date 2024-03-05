@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Mar 2024 00:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 00:43:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -178,16 +178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1504/ijstl.2024.10062557</guid>
     </item>
     <item>
-      <title>Effect of octahedral occupancy of bimetal-doping and CO2-induced surface reconstruction on oxygen reduction reaction of cobalt-based perovskite oxides</title>
-      <link>https://doi.org/10.1016/j.cej.2024.149770</link>
-      <description>Haocong Wang, Wenka Zhu, Jian Gong, Gao Min, Lanlan Xu, Wenwen Zhang, Xiaojuan Liu, Chenglin Yan, Jian Meng, Chemical Engineering Journal. 485(None)] 2024. https://openalex.org/W4392145417
-
-                No abstract</description>
-      <author>Haocong Wang, Wenka Zhu, Jian Gong, Gao Min, Lanlan Xu, Wenwen Zhang, Xiaojuan Liu, Chenglin Yan, Jian Meng</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.149770</guid>
-    </item>
-    <item>
       <title>Auto-Occlusive Lidocaine 7% and Tetracaine 7% Cream has Greater Pain Reduction Effects in Comparison with Lidocaine 4% Cream during Laser CO2 Dermabrasion Procedure in Preparation of Non-Cultured Autologous Epidermal Cell Grafting for Repigmentation in Vitiligo Subjects. An Intrasubject Pilot Evaluation Study</title>
       <link>https://doi.org/10.33140/djclt.03.01.03</link>
       <description>, Dermatology Journal of Cosmetic and Laser Therapy. 3(1)] 2024. https://openalex.org/W4392163415
@@ -278,16 +268,6 @@
       <guid isPermaLink="true">https://doi.org/10.46692/9781447369950.015</guid>
     </item>
     <item>
-      <title>Assessing the Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction Performance Requires More Than Reporting Coulombic Efficiency</title>
-      <link>https://doi.org/10.1002/aesr.202400031</link>
-      <description>Paniz Izadi, Jia Song, Chandani Singh, Deepak Pant, Falk Harnisch, Advanced energy and sustainability research. None(None)] 2024. https://openalex.org/W4392143647
-
-                Reporting coulombic efficiency () is the common way to assess the performance of electrochemical carbon dioxide (CO 2 ) reduction reaction (eCO 2 RR) in literature, whereas its carbon conversion efficiency () is frequently neglected. Herein, the importance of reporting both efficiencies when evaluating the eCO 2 RR is discussed, using Sn&#8208;based gas diffusion electrodes (GDEs) as model electrodes. It is shown that can vary remarkably at a constant with minor operational changes. Over 120 min experiments with operational conditions being representative of numerous previous studies, the is increased from &#8776;20% to 41% (being only 9% below the theoretical maximum). This was achieved by simply adjusting the inlet CO 2 flow rate from &#8776;35 to 16 mL min &#8722;1 , while was identical at both CO 2 flow rates (&#8776;85%, 7%, and 4% for production of formate/formic acid, CO, and H 2 , respectively at both conditions). Thus, it is advocated that reporting of both efficiencies, for electrons and carbon, is required for meaningfully assessing the performance of an eCO 2 RR system.</description>
-      <author>Paniz Izadi, Jia Song, Chandani Singh, Deepak Pant, Falk Harnisch</author>
-      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400031</guid>
-    </item>
-    <item>
       <title>Co-optimization of system configurations and energy scheduling of multiple community integrated energy systems to improve photovoltaic self-consumption</title>
       <link>https://doi.org/10.1016/j.renene.2024.120230</link>
       <description>Changqi Wei, Jiangjiang Wang, Yuan Zhou, Yuxin Li, Weiliang Liu, Renewable Energy. None(None)] 2024. https://openalex.org/W4392202961
@@ -296,6 +276,26 @@
       <author>Changqi Wei, Jiangjiang Wang, Yuan Zhou, Yuxin Li, Weiliang Liu</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.renene.2024.120230</guid>
+    </item>
+    <item>
+      <title>Comparative analysis of Greenhouse Gas Emissions from Biological Wastewater Treatment Processes: A Case Study in Gyeongsangbuk-do, Korea</title>
+      <link>https://doi.org/10.4491/ksee.2024.46.2.64</link>
+      <description>K.Y. Park, Wontae Lee, Journal of Korean Society of Environmental Engineers. 46(2)] 2024. https://openalex.org/W4392196817
+
+                Objectives:This study compared greenhouse gas emissions from various biological treatment processes at wastewater treatment plants in City A, Gyeongsangbuk-do. Methods:Four wastewater treatment plants were selected by size and treatment process, and flow rate and water quality parameters from 2020 to 2022 were used. The amount of greenhouse gases such as methane, nitrous oxide, and carbon dioxide generated was calculated according to the IPCC and Ministry of Environment calculation formulas. Results and Discussion:Regardless of the biological wastewater treatment processes, the greenhouse gas emissions of all plants were higher according to the Ministry of Environment standards than the IPCC method. However, this may be because it was not applied to variables that are difficult to confirm, such as correction coefficients. Among biological treatment processes, the greenhouse gas emissions of A2O were higher than those of SBR.Conclusion:The results of this study can be used to calculate greenhouse gas emissions from biological wastewater treatment processes and prepare their reduction plans.</description>
+      <author>K.Y. Park, Wontae Lee</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.4491/ksee.2024.46.2.64</guid>
+    </item>
+    <item>
+      <title>Air pollution and economic growth in Dubai a fast-growing Middle Eastern city</title>
+      <link>https://doi.org/10.1016/j.aeaoa.2024.100246</link>
+      <description>Heba Akasha, Omid Ghaffarpasand, Francis D. Pope, Atmospheric Environment: X. None(None)] 2024. https://openalex.org/W4392203908
+
+                This paper discusses the impact of rapid economic development on air quality in the Emirate of Dubai, United Arab Emirates (UAE). Dubai is one of the fastest-growing cities in the world, with a population increase of approximately 80 &#215; over the last 60 years. The concentrations of five criteria air pollutants (CAPs) including carbon monoxide (CO), nitrogen dioxide (NO2), particulate matter smaller than 10 &#956;m (PM10), ozone (O3) and sulphur dioxide (SO2) were studied from 2013 to 2021 at 14 regulatory monitoring stations. Results show that the biggest improvements in air pollution are for the primary air pollutants NO2 and SO2, with reductions of 54% and 93% respectively over the period studied. Gross domestic product (GDP), population growth and energy consumption are significantly and negatively correlated with NO2 and SO2 and strongly and positively correlated with PM10. CO is positively correlated with the number of buildings completed, while the results for O3 are inconclusive. Trends in PM10, NO2 and SO2 indicate that these two pollutants are decoupled from economic development, supporting, with caution, the environmental Kuznets curve hypothesis on the relationship between economic growth and environmental degradation. The improvement in the city's air quality is due to the effective implementation of local environmental policies, unaffected by large-scale development and urbanization. The monthly assessments of Dubai's air pollution for 2019 and 2020 show a 3&#8211;16% COVID-related improvement in the levels of the studied air pollutants, except for ozone, which increased by an average of 8%.</description>
+      <author>Heba Akasha, Omid Ghaffarpasand, Francis D. Pope</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.aeaoa.2024.100246</guid>
     </item>
   </channel>
 </rss>

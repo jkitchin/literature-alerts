@@ -1,33 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Mar  4 00:44:10 2024
+Created on Tue Mar  5 00:43:20 2024
 
-Found 26 results from 2024-02-26 to 2024-03-04
+Found 26 results from 2024-02-27 to 2024-03-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Seven mechanisms of oxygen evolution reaction proposed recently: A mini review   
-
-OpenAlex: https://openalex.org/W4392142198    
-Open access: False
-    
-[Zhixuan Feng](https://openalex.org/A5022885630), [Chia-Tsen Dai](https://openalex.org/A5037480797), [Peng Shi](https://openalex.org/A5032553249), [Xuefei Lei](https://openalex.org/A5060430863), [Rui Guo](https://openalex.org/A5021363847), [Biao Wang](https://openalex.org/A5075523709), [Xuanwen Liu](https://openalex.org/A5081185893), [Jinyuan You](https://openalex.org/A5019520436), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.149992.
-    
-No abstract    
-
-    
-
-## P-doped RuPd nanoparticles anchored on Y2Ru2-xPdxO7 pyrochlore oxide surface as oxygen evolution and reduction electrocatalysts for Zn-air battery   
-
-OpenAlex: https://openalex.org/W4392142396    
-Open access: False
-    
-[Geunhyeong Lee](https://openalex.org/A5052090122), [Eun-Su Jang](https://openalex.org/A5017828132), [Pei-Chen Su](https://openalex.org/A5050138704), [Jooheon Kim](https://openalex.org/A5009818257), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159788.
-    
-No abstract    
-
-    
 
 ## Distance effect of single atoms on stability of cobalt oxide catalysts for acidic oxygen evolution   
 
@@ -196,10 +174,10 @@ Abstract Efficient oxygen evolution reaction electrocatalysts are essential for 
 
 ## Fe, N‐Inducing Interfacial Electron Redistribution in NiCo Spinel on Biomass‐Derived Carbon for Bi‐functional Oxygen Conversion   
 
-OpenAlex: https://openalex.org/W4392160710    
+OpenAlex: https://openalex.org/W4392164726    
 Open access: False
     
-[Yanyan Liu](https://openalex.org/A5061810022), [Limin Zhou](https://openalex.org/A5050034119), [Shilin Liu](https://openalex.org/A5051323527), [Shu-Qi Li](https://openalex.org/A5091316366), [Jingjing Zhou](https://openalex.org/A5041855727), [Xin Li](https://openalex.org/A5022526821), [Xiangmeng Chen](https://openalex.org/A5088081170), [Kang Sun](https://openalex.org/A5025538710), [Baojun Li](https://openalex.org/A5036975470), [Jianchun Jiang](https://openalex.org/A5013636938), [Huan Pang](https://openalex.org/A5014960517), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202319983.
+[Yanyan Liu](https://openalex.org/A5061810022), [Limin Zhou](https://openalex.org/A5050034119), [Shilin Liu](https://openalex.org/A5051323527), [Shu-Qi Li](https://openalex.org/A5091316366), [Jingjing Zhou](https://openalex.org/A5041855727), [Xin Li](https://openalex.org/A5022526821), [Xiangmeng Chen](https://openalex.org/A5088081170), [Kang Sun](https://openalex.org/A5020145622), [Baojun Li](https://openalex.org/A5036975470), [Jianchun Jiang](https://openalex.org/A5083684958), [Huan Pang](https://openalex.org/A5014960517), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202319983.
     
 Herein, an interfacial electron redistribution is proposed to boost the activity of carbon‐supported spinel NiCo2O4 catalyst toward oxygen conversion via Fe, N‐doping strategy. Fe‐doping into octahedron induces a redistribution of electrons between Co and Ni atoms on NiCo1.8Fe0.2O4@N‐carbon. The increased electron density of Co promotes the coordination of water to Co sites and further dissociation. The generation of proton from water improves the overall activity for the oxygen reduction reaction (ORR). The increased electron density of Ni facilitates the generation of oxygen vacancies. The Ni‐VO‐Fe structure accelerates the deprotonation of *OOH to improve the activity toward oxygen evolution reaction (OER). N‐doping modulates the electron density of carbon to form active sites for the adsorption and protonation of oxygen species. Fir wood‐derived carbon endows catalyst with an integral structure to enable outstanding electrocatalytic performance. The NiCo1.8Fe0.2O4@N‐carbon express high half‐wave potential up to 0.86 V in ORR and low overpotential of 270 mV at 10 mA cm‐2 in OER. The zinc‐air batteries (ZABs) assembled with the as‐prepared catalyst achieve long‐term cycle stability (over 2000 cycles) with peak power density (180 mW cm‐2). Fe, N‐doping strategy drives the catalysis of biomass‐derived carbon‐based catalysts to the highest level for the oxygen conversion in ZABs.    
 
@@ -207,10 +185,10 @@ Herein, an interfacial electron redistribution is proposed to boost the activity
 
 ## Fe, N‐Inducing Interfacial Electron Redistribution in NiCo Spinel on Biomass‐Derived Carbon for Bi‐functional Oxygen Conversion   
 
-OpenAlex: https://openalex.org/W4392164726    
+OpenAlex: https://openalex.org/W4392160710    
 Open access: False
     
-[Yanyan Liu](https://openalex.org/A5061810022), [Limin Zhou](https://openalex.org/A5050034119), [Shilin Liu](https://openalex.org/A5051323527), [Shu-Qi Li](https://openalex.org/A5091316366), [Jingjing Zhou](https://openalex.org/A5041855727), [Xin Li](https://openalex.org/A5022526821), [Xiangmeng Chen](https://openalex.org/A5088081170), [Kang Sun](https://openalex.org/A5020145622), [Baojun Li](https://openalex.org/A5036975470), [Jianchun Jiang](https://openalex.org/A5083684958), [Huan Pang](https://openalex.org/A5014960517), Angewandte Chemie International Edition. None(None)] 2024.https://doi.org/10.1002/anie.202319983.
+[Yanyan Liu](https://openalex.org/A5061810022), [Limin Zhou](https://openalex.org/A5050034119), [Shilin Liu](https://openalex.org/A5051323527), [Shu-Qi Li](https://openalex.org/A5091316366), [Jingjing Zhou](https://openalex.org/A5041855727), [Xin Li](https://openalex.org/A5022526821), [Xiangmeng Chen](https://openalex.org/A5088081170), [Kang Sun](https://openalex.org/A5025538710), [Baojun Li](https://openalex.org/A5036975470), [Jianchun Jiang](https://openalex.org/A5013636938), [Huan Pang](https://openalex.org/A5014960517), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202319983.
     
 Herein, an interfacial electron redistribution is proposed to boost the activity of carbon‐supported spinel NiCo2O4 catalyst toward oxygen conversion via Fe, N‐doping strategy. Fe‐doping into octahedron induces a redistribution of electrons between Co and Ni atoms on NiCo1.8Fe0.2O4@N‐carbon. The increased electron density of Co promotes the coordination of water to Co sites and further dissociation. The generation of proton from water improves the overall activity for the oxygen reduction reaction (ORR). The increased electron density of Ni facilitates the generation of oxygen vacancies. The Ni‐VO‐Fe structure accelerates the deprotonation of *OOH to improve the activity toward oxygen evolution reaction (OER). N‐doping modulates the electron density of carbon to form active sites for the adsorption and protonation of oxygen species. Fir wood‐derived carbon endows catalyst with an integral structure to enable outstanding electrocatalytic performance. The NiCo1.8Fe0.2O4@N‐carbon express high half‐wave potential up to 0.86 V in ORR and low overpotential of 270 mV at 10 mA cm‐2 in OER. The zinc‐air batteries (ZABs) assembled with the as‐prepared catalyst achieve long‐term cycle stability (over 2000 cycles) with peak power density (180 mW cm‐2). Fe, N‐doping strategy drives the catalysis of biomass‐derived carbon‐based catalysts to the highest level for the oxygen conversion in ZABs.    
 
@@ -249,6 +227,17 @@ In this work, we demonstrate a single step hydrothermally grown nanorod shaped p
 
     
 
+## In-situ construction of cation vacancies in amphoteric-metallic element-doped NiFe-LDH as ultrastable and efficient alkaline hydrogen evolution electrocatalysts at 1000 mA cm-2   
+
+OpenAlex: https://openalex.org/W4392203793    
+Open access: False
+    
+[Q J Liu](https://openalex.org/A5042968837), [Kaisheng Chen](https://openalex.org/A5071740726), [Min Wang](https://openalex.org/A5014095615), [Haibo Fan](https://openalex.org/A5003220159), [Zihao Yan](https://openalex.org/A5046573190), [Xi‐Wen Du](https://openalex.org/A5031056448), [Yongjun Chen](https://openalex.org/A5000357063), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.02.184.
+    
+Developing efficient and stable electrocatalysts at affordable costs is very important for large-scale production of green hydrogen. In this study, unique amphoteric metallic element-doped NiFe-LDH nanosheet arrays (NiFeCd-LDH, NiFeZn-LDH and NiFeAl-LDH) using as high-performance bifunctional electrocatalysts for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) were reported, by tuning electronic structure and vacancy engineering. It was found that NiFeCd-LDH possesses the lowest overpotentials of 85 mV and 240 mV (at 10 mA cm-2) for HER and OER, respectively. Density functional theory (DFT) calculations reveal the synergistic effect of Cd vacancies and Cd doping on improving alkaline HER performance, which promote the achievement of excellent catalytic activity and ultrastable hydrogen production at a large current density of 1000 mA cm-2 within 270 hours. Besides, the overall water splitting performance of the as-prepared NiFeCd-LDH requires only 1.580 V to achieve a current density of 10 mA cm-2 in alkaline seawater media, underscoring the importance of modifying the electronic properties of LDH for efficient overall water splitting in both alkaline water/seawater environments.    
+
+    
+
 ## Optimizing Water Oxidation Kinetics by Modulating Spin Alignment through Non-metal Vacancy Engineering   
 
 OpenAlex: https://openalex.org/W4392185671    
@@ -260,14 +249,14 @@ The efficiency of water splitting is primarily hampered by the sluggish kinetics
 
     
 
-## In-situ construction of cation vacancies in amphoteric-metallic element-doped NiFe-LDH as ultrastable and efficient alkaline hydrogen evolution electrocatalysts at 1000 mA cm-2   
+## A universal and scalable transformation of bulk metals into single-atom catalysts in ionic liquids   
 
-OpenAlex: https://openalex.org/W4392203793    
+OpenAlex: https://openalex.org/W4392157760    
 Open access: False
     
-[Q J Liu](https://openalex.org/A5042968837), [Kaisheng Chen](https://openalex.org/A5071740726), [Min Wang](https://openalex.org/A5014095615), [Haibo Fan](https://openalex.org/A5003220159), [Zihao Yan](https://openalex.org/A5046573190), [Xi‐Wen Du](https://openalex.org/A5031056448), [Yongjun Chen](https://openalex.org/A5000357063), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.02.184.
+[Shujuan Wang](https://openalex.org/A5022559283), [Ming‐Hui Lu](https://openalex.org/A5050567821), [Xuewen Xia](https://openalex.org/A5089793312), [Fei Wang](https://openalex.org/A5086529957), [Xiaolu Xiong](https://openalex.org/A5075901013), [Kai Ding](https://openalex.org/A5028745512), [Zhongya Pang](https://openalex.org/A5032546105), [Guangshi Li](https://openalex.org/A5064949533), [Qian Xu](https://openalex.org/A5038084530), [Hsien‐Yi Hsu](https://openalex.org/A5034134051), [Hujun Shen](https://openalex.org/A5037635782), [Ji Li](https://openalex.org/A5064803348), [Yufeng Zhao](https://openalex.org/A5035677481), [Jing Wang](https://openalex.org/A5037677450), [Xingli Zou](https://openalex.org/A5052749342), [Xionggang Lu](https://openalex.org/A5056452720), Proceedings of the National Academy of Sciences of the United States of America. 121(10)] 2024.https://doi.org/10.1073/pnas.2319136121.
     
-Developing efficient and stable electrocatalysts at affordable costs is very important for large-scale production of green hydrogen. In this study, unique amphoteric metallic element-doped NiFe-LDH nanosheet arrays (NiFeCd-LDH, NiFeZn-LDH and NiFeAl-LDH) using as high-performance bifunctional electrocatalysts for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) were reported, by tuning electronic structure and vacancy engineering. It was found that NiFeCd-LDH possesses the lowest overpotentials of 85 mV and 240 mV (at 10 mA cm-2) for HER and OER, respectively. Density functional theory (DFT) calculations reveal the synergistic effect of Cd vacancies and Cd doping on improving alkaline HER performance, which promote the achievement of excellent catalytic activity and ultrastable hydrogen production at a large current density of 1000 mA cm-2 within 270 hours. Besides, the overall water splitting performance of the as-prepared NiFeCd-LDH requires only 1.580 V to achieve a current density of 10 mA cm-2 in alkaline seawater media, underscoring the importance of modifying the electronic properties of LDH for efficient overall water splitting in both alkaline water/seawater environments.    
+Single-atom catalysts (SACs) with maximized metal atom utilization and intriguing properties are of utmost importance for energy conversion and catalysis science. However, the lack of a straightforward and scalable synthesis strategy of SACs on diverse support materials remains the bottleneck for their large-scale industrial applications. Herein, we report a general approach to directly transform bulk metals into single atoms through the precise control of the electrodissolution–electrodeposition kinetics in ionic liquids and demonstrate the successful applicability of up to twenty different monometallic SACs and one multimetallic SAC with five distinct elements. As a case study, the atomically dispersed Pt was electrodeposited onto Ni 3 N/Ni-Co-graphene oxide heterostructures in varied scales (up to 5 cm × 5 cm) as bifunctional catalysts with the electronic metal–support interaction, which exhibits low overpotentials at 10 mA cm −2 for hydrogen evolution reaction (HER, 30 mV) and oxygen evolution reaction (OER, 263 mV) with a relatively low Pt loading (0.98 wt%). This work provides a simple and practical route for large-scale synthesis of various SACs with favorable catalytic properties on diversified supports using alternative ionic liquids and inspires the methodology on precise synthesis of multimetallic single-atom materials with tunable compositions.    
 
     
 
@@ -290,5 +279,16 @@ Open access: False
 [Mohammad Saquib](https://openalex.org/A5005616367), [Pratham Arora](https://openalex.org/A5029080204), [Amit C. Bhosale](https://openalex.org/A5086137545), Fuel. 365(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131251.
     
 Exploring cost-effective and highly efficient electrocatalysts is desirable for the overall water-splitting challenge. In this work, a promising bifunctional electrocatalyst for oxygen evolution and hydrogen evolution reactions (OER/HER) in an alkaline medium (1 M KOH) and simulated alkaline seawater (1 M KOH + 0.5 M NaCl) was rationally developed by a simple, one-step, inexpensive, and eco-friendly method. Mo-doped nickel selenide supported on activated carbon cloth (NiMoSe@CC) was successfully synthesized via a hydrothermal method. NiMoSe nanoparticles were observed to be densely grown with better uniformity on the carbon fibers, as confirmed by different characterization techniques. The NiMoSe@CC showed an enhanced OER activity with a low overpotential of 320 mV (alkaline medium) and 360 mV (alkaline seawater) at 10 mA cm−2. The HER performance of the NiMoSe@CC was also the highest amongst NiMoSe, NiSe@CC, and MoSe@CC in both the alkaline and seawater environments. In addition, NiMoSe@CC bears a high electrochemically active surface area, low charge transfer resistance of 1.77 Ω, and high stability for both OER and HER. The NiMoSe@CC//NiMoSe@CC system was stable for 5000 LSV cycles with η10 values of 1.63 V (1st LSV cycle) and 1.71 V (5000th LSV cycle).    
+
+    
+
+## Formation of the oxyl’s potential energy surface by the spectral kinetics of a vibrational mode   
+
+OpenAlex: https://openalex.org/W4392167066    
+Open access: True
+    
+[Tanja Cuk](https://openalex.org/A5066895569), [James J. P. Stewart](https://openalex.org/A5060242817), [Paul Zayka](https://openalex.org/A5094004724), [Christen Courter](https://openalex.org/A5070051495), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-dx2nv ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65d770ed66c1381729415bfd/original/formation-of-the-oxyl-s-potential-energy-surface-by-the-spectral-kinetics-of-a-vibrational-mode.pdf)).
+    
+One of the most reactive intermediates for oxidative reactions is the oxyl radical, an electron-deficient oxygen atom. The discovery of a new vibration upon photoexcitation of the oxygen evolution catalysis detected the oxyl radical at the SrTiO3 surface. The vibration was assigned to a motion of the sub-surface oxygen underneath the titanium oxyl (Ti-O·-), created upon hole transfer to (or electron extraction from) a hydroxylated surface site. Evidence for such an interfacial mode derived from its spectral shape which exhibited a Fano resonance—a coupling of a sharp normal mode to continu-um excitations. Here, this Fano resonance is utilized to derive precise formation kinetics of the oxyl radical and its associ-ated potential energy surface (PES). From the Fano lineshape, the formation kinetics are obtained from the anti-resonance (the kinetics of the coupling factor), the resonance (the kinetics of the coupled continuum excitations), and the frequency integrated spectrum (the kinetics of the normal mode’s cross-section). All three perspectives yield a logistic function growth with a half-rise of 2.3 ± 0.3 ps and rate of 0.48 ± 0.09 ps. A non-equilibrium transient associated with photoexcitation is separated from the rise of the equilibrated PES. The logistic function characterizes the oxyl coverage at the very initial stages (t~0) to have an exponential growth rate that quickly decreases towards zero as a limiting coverage is reached. Such time-dependent reaction kinetics identify a dynamic activation barrier associated with the formation of a PES and quantify it for an oxyl radical coverage.    
 
     

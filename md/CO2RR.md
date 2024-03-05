@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Mar  4 00:44:12 2024
+Created on Tue Mar  5 00:43:22 2024
 
-Found 29 results from 2024-02-26 to 2024-03-04
+Found 29 results from 2024-02-27 to 2024-03-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -194,17 +194,6 @@ No abstract
 
     
 
-## Effect of octahedral occupancy of bimetal-doping and CO2-induced surface reconstruction on oxygen reduction reaction of cobalt-based perovskite oxides   
-
-OpenAlex: https://openalex.org/W4392145417    
-Open access: False
-    
-[Haocong Wang](https://openalex.org/A5026810495), [Wenka Zhu](https://openalex.org/A5046863535), [Jian Gong](https://openalex.org/A5033246962), [Gao Min](https://openalex.org/A5017197771), [Lanlan Xu](https://openalex.org/A5048247540), [Wenwen Zhang](https://openalex.org/A5052588320), [Xiaojuan Liu](https://openalex.org/A5057877330), [Chenglin Yan](https://openalex.org/A5009136959), [Jian Meng](https://openalex.org/A5034781601), Chemical Engineering Journal. 485(None)] 2024.https://doi.org/10.1016/j.cej.2024.149770.
-    
-No abstract    
-
-    
-
 ## Auto-Occlusive Lidocaine 7% and Tetracaine 7% Cream has Greater Pain Reduction Effects in Comparison with Lidocaine 4% Cream during Laser CO2 Dermabrasion Procedure in Preparation of Non-Cultured Autologous Epidermal Cell Grafting for Repigmentation in Vitiligo Subjects. An Intrasubject Pilot Evaluation Study   
 
 OpenAlex: https://openalex.org/W4392163415    
@@ -304,17 +293,6 @@ Extreme weather events have already shown us the kind of world we will bequeath 
 
     
 
-## Assessing the Electrochemical CO2 Reduction Reaction Performance Requires More Than Reporting Coulombic Efficiency   
-
-OpenAlex: https://openalex.org/W4392143647    
-Open access: False
-    
-[Paniz Izadi](https://openalex.org/A5053516374), [Jia Song](https://openalex.org/A5046744094), [Chandani Singh](https://openalex.org/A5012190219), [Deepak Pant](https://openalex.org/A5026207543), [Falk Harnisch](https://openalex.org/A5040347964), Advanced energy and sustainability research. None(None)] 2024.https://doi.org/10.1002/aesr.202400031.
-    
-Reporting coulombic efficiency () is the common way to assess the performance of electrochemical carbon dioxide (CO 2 ) reduction reaction (eCO 2 RR) in literature, whereas its carbon conversion efficiency () is frequently neglected. Herein, the importance of reporting both efficiencies when evaluating the eCO 2 RR is discussed, using Sn‐based gas diffusion electrodes (GDEs) as model electrodes. It is shown that can vary remarkably at a constant with minor operational changes. Over 120 min experiments with operational conditions being representative of numerous previous studies, the is increased from ≈20% to 41% (being only 9% below the theoretical maximum). This was achieved by simply adjusting the inlet CO 2 flow rate from ≈35 to 16 mL min −1 , while was identical at both CO 2 flow rates (≈85%, 7%, and 4% for production of formate/formic acid, CO, and H 2 , respectively at both conditions). Thus, it is advocated that reporting of both efficiencies, for electrons and carbon, is required for meaningfully assessing the performance of an eCO 2 RR system.    
-
-    
-
 ## Co-optimization of system configurations and energy scheduling of multiple community integrated energy systems to improve photovoltaic self-consumption   
 
 OpenAlex: https://openalex.org/W4392202961    
@@ -323,5 +301,27 @@ Open access: False
 [Changqi Wei](https://openalex.org/A5050431244), [Jiangjiang Wang](https://openalex.org/A5078303039), [Yuan Zhou](https://openalex.org/A5048976082), [Yuxin Li](https://openalex.org/A5002803940), [Weiliang Liu](https://openalex.org/A5000799344), Renewable Energy. None(None)] 2024.https://doi.org/10.1016/j.renene.2024.120230.
     
 Given the increasing integration of building photovoltaics and the accelerated transformation of power systems, the supply-demand imbalance in photovoltaic communities has become a pressing issue. This study presents a novel optimization model for collaborative planning and scheduling. The alternating direction multiplier method is utilized to derive an optimal economic scheduling strategy for the community cooperative alliance, while ensuring private information protection. Additionally, the genetic algorithms are employed to ascertain the optimal configuration. The optimization model prioritizes the common good over individual interests in community cooperation alliances, meaning some members may need to compromise their self-interest to attain optimized overall benefits. Therefore, a compensation mechanism based on the Nash negotiation principle is established to ensure fair distribution of benefits. The simulation results demonstrate that the primary energy saving rate, annual cost saving rate, and carbon dioxide emission reduction rate of the photovoltaic community alliance are 42.91%, 32.50%, and 41.81%, respectively, and the self-consumption level of photovoltaic is vastly improved to 98.83% on a typical winter day. The sensitivity analysis illustrates that the photovoltaic panels in buildings contribute to a decrease in energy consumption and carbon emission by 25.57% and 26.15%, respectively. In contrast, they result in a cost increase of 11.05%.    
+
+    
+
+## Comparative analysis of Greenhouse Gas Emissions from Biological Wastewater Treatment Processes: A Case Study in Gyeongsangbuk-do, Korea   
+
+OpenAlex: https://openalex.org/W4392196817    
+Open access: True
+    
+[K.Y. Park](https://openalex.org/A5055633637), [Wontae Lee](https://openalex.org/A5083983285), Journal of Korean Society of Environmental Engineers. 46(2)] 2024.https://doi.org/10.4491/ksee.2024.46.2.64 ([pdf](https://www.jksee.or.kr/upload/pdf/KSEE-2024-46-2-64.pdf)).
+    
+Objectives:This study compared greenhouse gas emissions from various biological treatment processes at wastewater treatment plants in City A, Gyeongsangbuk-do. Methods:Four wastewater treatment plants were selected by size and treatment process, and flow rate and water quality parameters from 2020 to 2022 were used. The amount of greenhouse gases such as methane, nitrous oxide, and carbon dioxide generated was calculated according to the IPCC and Ministry of Environment calculation formulas. Results and Discussion:Regardless of the biological wastewater treatment processes, the greenhouse gas emissions of all plants were higher according to the Ministry of Environment standards than the IPCC method. However, this may be because it was not applied to variables that are difficult to confirm, such as correction coefficients. Among biological treatment processes, the greenhouse gas emissions of A2O were higher than those of SBR.Conclusion:The results of this study can be used to calculate greenhouse gas emissions from biological wastewater treatment processes and prepare their reduction plans.    
+
+    
+
+## Air pollution and economic growth in Dubai a fast-growing Middle Eastern city   
+
+OpenAlex: https://openalex.org/W4392203908    
+Open access: True
+    
+[Heba Akasha](https://openalex.org/A5024146959), [Omid Ghaffarpasand](https://openalex.org/A5040571797), [Francis D. Pope](https://openalex.org/A5058836825), Atmospheric Environment: X. None(None)] 2024.https://doi.org/10.1016/j.aeaoa.2024.100246.
+    
+This paper discusses the impact of rapid economic development on air quality in the Emirate of Dubai, United Arab Emirates (UAE). Dubai is one of the fastest-growing cities in the world, with a population increase of approximately 80 × over the last 60 years. The concentrations of five criteria air pollutants (CAPs) including carbon monoxide (CO), nitrogen dioxide (NO2), particulate matter smaller than 10 μm (PM10), ozone (O3) and sulphur dioxide (SO2) were studied from 2013 to 2021 at 14 regulatory monitoring stations. Results show that the biggest improvements in air pollution are for the primary air pollutants NO2 and SO2, with reductions of 54% and 93% respectively over the period studied. Gross domestic product (GDP), population growth and energy consumption are significantly and negatively correlated with NO2 and SO2 and strongly and positively correlated with PM10. CO is positively correlated with the number of buildings completed, while the results for O3 are inconclusive. Trends in PM10, NO2 and SO2 indicate that these two pollutants are decoupled from economic development, supporting, with caution, the environmental Kuznets curve hypothesis on the relationship between economic growth and environmental degradation. The improvement in the city's air quality is due to the effective implementation of local environmental policies, unaffected by large-scale development and urbanization. The monthly assessments of Dubai's air pollution for 2019 and 2020 show a 3–16% COVID-related improvement in the levels of the studied air pollutants, except for ozone, which increased by an average of 8%.    
 
     
