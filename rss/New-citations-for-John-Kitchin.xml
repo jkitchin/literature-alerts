@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/New-citations-for-John-Kitchin.xml</link>
     <description>New citations for my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:43:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 00:43:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Accelerated Lignocellulosic Molecule Adsorption Structure Determination</title>
-      <link>https://doi.org/10.1021/acs.jctc.3c01292</link>
-      <description>Joakim S. Jestil&#228;, Nian Fen Wu, Fabio Priante, Adam S. Foster, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4392150988
-
-                Here, we present a study combining Bayesian optimization structural inference with the machine learning interatomic potential Neural Equivariant Interatomic Potential (NequIP) to accelerate and enable the study of the adsorption of the conformationally flexible lignocellulosic molecules &#946;-d-xylose and 1,4-&#946;-d-xylotetraose on a copper surface. The number of structure evaluations needed to map out the relevant potential energy surfaces are reduced by Bayesian optimization, while NequIP minimizes the time spent on each evaluation, ultimately resulting in cost-efficient and reliable sampling of large systems and configurational spaces. Although the applicability of Bayesian optimization for the conformational analysis of the more flexible xylotetraose molecule is restricted by the sample complexity bottleneck, the latter can be effectively bypassed with external conformer search tools, such as the Conformer-Rotamer Ensemble Sampling Tool, facilitating the subsequent lower-dimensional global minimum adsorption structure determination. Finally, we demonstrate the applicability of the described approach to find adsorption structures practically equivalent to the density functional theory counterparts at a fraction of the computational cost.</description>
-      <author>Joakim S. Jestil&#228;, Nian Fen Wu, Fabio Priante, Adam S. Foster</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01292</guid>
-    </item>
-    <item>
-      <title>Overcoming Defect Limitations in Photocatalysis: Boron&#8208;Incorporation Engineered Crystalline Red Phosphorus for Enhanced Hydrogen Production</title>
-      <link>https://doi.org/10.1002/adfm.202400542</link>
-      <description>Xinya Pei, Junwei Bian, Wei Zhang, Zhuofeng Hu, Yun Hau Ng, Dong Ye, Xiaofeng Zhai, Zhen Wei, Yuxi Liu, Jiguang Deng, Hongxing Dai, Lin Jing, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392153574
-
-                Abstract Photocatalytic hydrogen evolution (PHE) from water splitting is a promising technology for clean and renewable energy production. Elemental crystalline red phosphorus (CRP) is purposefully designed and developed for PHE reaction. However, the photocatalytic activity of CRP is limited by its intrinsic P vacancy (V P ) defects, which lead to detrimental charge trapping at deep states and hence its severe recombination. To address this issue, a boron (B) incorporated CRP (B&#8208;CRP) photocatalyst is tailored, synthesized via a simple and mild boric acid&#8208;assisted hydrothermal strategy. The incorporation of B effectively fills the V P defects, reducing deep trap states (DTS) and introducing beneficial shallow trap states (STS) within the band structure of CRP. This defect engineering approach leads to enhanced photocatalytic activity, with B&#8208;CRP achieving a PHE rate of 1392 &#181;mol g &#8722;1 h &#8722;1 , significantly outperforming most reported elemental photocatalysts in the literature. Density functional theory (DFT) simulations and ultrafast spectroscopy support the constructive role of B&#8208;dopant&#8208;induced STS in prolonging active charge carrier lifetimes, promoting more efficient photocatalytic reactions. The findings not only demonstrate the effectiveness of B&#8208;CRP as a photocatalyst but also highlight the usefulness of dopant&#8208;induced STS in advancing PHE technologies.</description>
-      <author>Xinya Pei, Junwei Bian, Wei Zhang, Zhuofeng Hu, Yun Hau Ng, Dong Ye, Xiaofeng Zhai, Zhen Wei, Yuxi Liu, Jiguang Deng, Hongxing Dai, Lin Jing</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202400542</guid>
-    </item>
-    <item>
-      <title>A universal and scalable transformation of bulk metals into single-atom catalysts in ionic liquids</title>
-      <link>https://doi.org/10.1073/pnas.2319136121</link>
-      <description>Shujuan Wang, Ming&#8208;Hui Lu, Xuewen Xia, Fei Wang, Xiaolu Xiong, Kai Ding, Zhongya Pang, Guangshi Li, Qian Xu, Hsien&#8208;Yi Hsu, Hujun Shen, Ji Li, Yufeng Zhao, Jing Wang, Xingli Zou, Xionggang Lu, Proceedings of the National Academy of Sciences of the United States of America. 121(10)] 2024. https://openalex.org/W4392157760
-
-                Single-atom catalysts (SACs) with maximized metal atom utilization and intriguing properties are of utmost importance for energy conversion and catalysis science. However, the lack of a straightforward and scalable synthesis strategy of SACs on diverse support materials remains the bottleneck for their large-scale industrial applications. Herein, we report a general approach to directly transform bulk metals into single atoms through the precise control of the electrodissolution&#8211;electrodeposition kinetics in ionic liquids and demonstrate the successful applicability of up to twenty different monometallic SACs and one multimetallic SAC with five distinct elements. As a case study, the atomically dispersed Pt was electrodeposited onto Ni 3 N/Ni-Co-graphene oxide heterostructures in varied scales (up to 5 cm &#215; 5 cm) as bifunctional catalysts with the electronic metal&#8211;support interaction, which exhibits low overpotentials at 10 mA cm &#8722;2 for hydrogen evolution reaction (HER, 30 mV) and oxygen evolution reaction (OER, 263 mV) with a relatively low Pt loading (0.98 wt%). This work provides a simple and practical route for large-scale synthesis of various SACs with favorable catalytic properties on diversified supports using alternative ionic liquids and inspires the methodology on precise synthesis of multimetallic single-atom materials with tunable compositions.</description>
-      <author>Shujuan Wang, Ming&#8208;Hui Lu, Xuewen Xia, Fei Wang, Xiaolu Xiong, Kai Ding, Zhongya Pang, Guangshi Li, Qian Xu, Hsien&#8208;Yi Hsu, Hujun Shen, Ji Li, Yufeng Zhao, Jing Wang, Xingli Zou, Xionggang Lu</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2319136121</guid>
-    </item>
-    <item>
-      <title>Dual-site segmentally synergistic catalysis mechanism: boosting CoFeSx nanocluster for sustainable water oxidation</title>
-      <link>https://doi.org/10.1038/s41467-024-45700-6</link>
-      <description>Siran Xu, Sihua Feng, Yue Yu, Dongping Xue, Mengli Liu, Chao Wang, Kaiyue Zhao, Bingjun Xu, Jianan Zhang, Nature Communications. 15(1)] 2024. https://openalex.org/W4392165142
-
-                Abstract Efficient oxygen evolution reaction electrocatalysts are essential for sustainable clean energy conversion. However, catalytic materials followed the conventional adsorbate evolution mechanism (AEM) with the inherent scaling relationship between key oxygen intermediates *OOH and *OH, or the lattice-oxygen-mediated mechanism (LOM) with the possible lattice oxygen migration and structural reconstruction, which are not favorable to the balance between high activity and stability. Herein, we propose an unconventional Co-Fe dual-site segmentally synergistic mechanism (DSSM) for single-domain ferromagnetic catalyst CoFeS x nanoclusters on carbon nanotubes (CNT) (CFS-ACs/CNT), which can effectively break the scaling relationship without sacrificing stability. Co 3+ (L.S, t 2g 6 e g 0 ) supplies the strongest OH* adsorption energy, while Fe 3+ (M.S, t 2g 4 e g 1 ) exposes strong O* adsorption. These dual-sites synergistically produce of Co-O-O-Fe intermediates, thereby accelerating the release of triplet-state oxygen ( &#8593; O = O &#8593; ). As predicted, the prepared CFS-ACs/CNT catalyst exhibits less overpotential than that of commercial IrO 2 , as well as approximately 633 h of stability without significant potential loss.</description>
-      <author>Siran Xu, Sihua Feng, Yue Yu, Dongping Xue, Mengli Liu, Chao Wang, Kaiyue Zhao, Bingjun Xu, Jianan Zhang</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45700-6</guid>
-    </item>
-    <item>
-      <title>MXenes as Effective Sulfur Hosts and Electrocatalysts to Suppress Lithium Polysulfide Shuttling: A Computational Study</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07776</link>
-      <description>Thilini Boteju, Sathish Ponnurangam, Venkataraman Thangadurai, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392166721
-
-                Exploring electrocatalysts for the sulfur reduction reaction (SRR) has emerged as a promising strategy to suppress the shuttle effect and enhance the kinetics in lithium&#8211;sulfur (Li&#8211;S) batteries. A comprehensive understanding of the electrocatalytic mechanism within Li&#8211;S batteries remains elusive, which hinders the rational design of advanced electrocatalysts for these systems. In this study, two-dimensional (2D) transition metal carbides and nitrides (MXenes) have been investigated for the catalytic conversion of lithium polysulfides (LiPSs) using density functional theory (DFT). Our findings reveal that MXenes show a moderate binding affinity for LiPSs, suggesting favorable thermodynamics for their role as electrocatalysts for the SRR. This thermodynamic favorability promotes the suppression of the LiPSs&#8217; shuttle effect and the enhancement of the SRR kinetics. The SRR process in Li&#8211;S batteries consists of multiple steps with varying activation energies. Our analysis by constructing the energy diagram for the multistep SRR indicates that the initial reduction of S8 to Li2S8 is facile with a lower activation energy, while the last step where Li2S2 converts to Li2S appears to be a rate-limiting step. To predict the catalytic abilities of MXene structures, we built a volcano-shaped relationship between the adsorption of LiPSs and catalytic activity. We show three MXenes&#9472;Ta2CO2, Zr2NO2, and Mo2NO2 as potential electrocatalysts that exhibit lower thermodynamic overpotentials for the SRR. These findings represent a significant step toward developing advanced electrocatalysts that may unlock the full potential of Li&#8211;S batteries, paving the way for improved energy storage systems with enhanced efficiency and performance.</description>
-      <author>Thilini Boteju, Sathish Ponnurangam, Venkataraman Thangadurai</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07776</guid>
-    </item>
-    <item>
-      <title>Promoting photocatalytic hydrogen evolution rates in layered graphitic carbon nitride through integrated non-noble CoB co-catalyst</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.02.261</link>
-      <description>Suraj Gupta, Chayathorn Prapaitrakool, B.R. Bhagat, C. S. Yeh, Alpa Dashora, Akawat Sirisuk, N. Patel, Nina Daneu, Andra&#382; Kocjan, Matja&#382; Spreitzer, Jeffrey C.S. Wu, Marjeta Ma&#269;ek Kr&#382;manc, International Journal of Hydrogen Energy. 60(None)] 2024. https://openalex.org/W4392180686
-
-                Despite being one of the most widely studied metal-free semiconductors, graphitic carbon-nitride (gC3N4) shows meaningful photocatalytic activities only when loaded with noble-metal co-catalysts. The present work reports an alternative to noble metals in the form of cobalt boride (CoB) co-catalyst that can be easily integrated within the gC3N4 framework with facile fabrication strategies. The optimized CoB-gC3N4 composite showed &#8764;60 times higher hydrogen generation rate compared to bare gC3N4 nanosheets, with good stability. Detailed morphological, structural, chemical, electrochemical and spectroscopic investigations revealed the key aspects of CoB-gC3N4 composite that unanimously led to higher photocatalytic activity. Computational investigations not only corroborated the experimental results but also established that the surface Co and B sites in CoB provided the most energetically favoured sites for hydrogen evolution reaction. Based on the experimental and computational investigations, a generic reaction mechanism was formulated that will prove as a guiding light for future studies on similar photocatalytic systems.</description>
-      <author>Suraj Gupta, Chayathorn Prapaitrakool, B.R. Bhagat, C. S. Yeh, Alpa Dashora, Akawat Sirisuk, N. Patel, Nina Daneu, Andra&#382; Kocjan, Matja&#382; Spreitzer, Jeffrey C.S. Wu, Marjeta Ma&#269;ek Kr&#382;manc</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.261</guid>
-    </item>
     <item>
       <title>An NiFeSn Oxyhydroxide Electrocatalyst Wet Gel for Highly Efficient Water Electrolysis in Alkaline Media</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.109428</link>
@@ -186,16 +126,6 @@
       <author>Haoxiang Xu, Daojian Cheng, Dapeng Cao, Xiao Cheng Zeng</author>
       <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-023-01106-z</guid>
-    </item>
-    <item>
-      <title>Informative Training Data for Efficient Property Prediction in Metal&#8211;Organic Frameworks by Active Learning</title>
-      <link>https://doi.org/10.1021/jacs.3c13687</link>
-      <description>Antonio San Jos&#233;, &#201;milie Devijver, N. Jakse, Roberta Poloni, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4392167663
-
-                In recent data-driven approaches to material discovery, scenarios where target quantities are expensive to compute and measure are often overlooked. In such cases, it becomes imperative to construct a training set that includes the most diverse, representative, and informative samples. Here, a novel regression tree-based active learning algorithm is employed for such a purpose. It is applied to predict the band gap and adsorption properties of metal&#8211;organic frameworks (MOFs), a novel class of materials that results from the virtually infinite combinations of their building units. Simpler and low dimensional descriptors, such as those based on stoichiometric and geometric properties, are used to compute the feature space for this model owing to their ability to better represent MOFs in the low data regime. The partitions given by a regression tree constructed on the labeled part of the data set are used to select new samples to be added to the training set, thereby limiting its size while maximizing the prediction quality. Tests on the QMOF, hMOF, and dMOF data sets reveal that our method constructs small training data sets to learn regression models that predict the target properties more efficiently than existing active learning approaches, and with lower variance. Specifically, our active learning approach is highly beneficial when labels are unevenly distributed in the descriptor space and when the label distribution is imbalanced, which is often the case for real world data. The regions defined by the tree help in revealing patterns in the data, thereby offering a unique tool to efficiently analyze complex structure&#8211;property relationships in materials and accelerate materials discovery.</description>
-      <author>Antonio San Jos&#233;, &#201;milie Devijver, N. Jakse, Roberta Poloni</author>
-      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c13687</guid>
     </item>
   </channel>
 </rss>

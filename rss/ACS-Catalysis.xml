@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 05 Mar 2024 00:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 00:43:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tailoring Cu&#8211;Zn Dual-Atom Sites with Reordering d-Orbital Splitting Manner for Highly Efficient Acetylene Semihydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.3c05779</link>
-      <description>Yuxue Yue, Bolin Wang, Chunxiao Jin, Kaixin Huang, Qi Zhou, Renqin Chang, Saisai Wang, Zhiyan Pan, Jia Zhao, Xiaonian Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392151390
-
-                The design of inexpensive, nontoxic, and abundant transition metal catalysts for the selective hydrogenation of alkynes remains a significant challenge faced by both the industrial and academic communities. Here, we report a novel catalyst comprising a well-defined Cu&#8211;Zn dual-atom catalyst supported on defective pyrolyzed ZIF-8 material (CuZn/NC2), resulting in enhanced d-electron domination near the Fermi level and reordered d-orbital Splitting manner. This catalyst exhibited outstanding performance in the selective hydrogenation of acetylene to ethylene, demonstrating high conversion rates (97%), remarkable selectivity (97.5%), and excellent stability (over 70 h). The unique structural characteristics of Cu&#8211;Zn dual-atom sites, anchored to the carrier through Cu&#8211;N3&amp;Zn&#8211;N3 configurations, ensured effective acetylene activation and easy desorption of ethylene. These features are pivotal to the catalyst&#8217;s exceptional activity and selectivity. This work presents a new approach to the design of nonprecious metal catalysts for the selective hydrogenation of acetylene.</description>
-      <author>Yuxue Yue, Bolin Wang, Chunxiao Jin, Kaixin Huang, Qi Zhou, Renqin Chang, Saisai Wang, Zhiyan Pan, Jia Zhao, Xiaonian Li</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05779</guid>
-    </item>
-    <item>
-      <title>Unraveling the Catalytic Mechanism of Taxadiene-5&#945;-hydroxylase from Crystallography and Computational Analyses</title>
-      <link>https://doi.org/10.1021/acscatal.3c05807</link>
-      <description>Xitong Song, Qian Wang, Xianfang Zhu, Wenhan Fang, Xiaonan Liu, Chao Shi, Zhenzhan Chang, Huifeng Jiang, Binju Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392153563
-
-                Paclitaxel is a famous chemotherapeutic agent, but its microbial production poses a long-standing challenge due to its poor product selectivity. Taxadiene-5&#945;-hydroxylase (CYP725A4) plays a crucial role in the biosynthesis of paclitaxel, catalyzing the oxidation of taxadiene and iso-taxadiene. This process yields several products, including the byproducts 5(12)-oxa-3(11)-cyclotaxane (OCT) and 5(11)-oxa-3(11)-cyclotaxane (iso-OCT), as well as the target compound taxadien-5&#945;-ol (T5OH). Despite extensive studies, the molecular mechanism of CYP725A4-catalyzed transformations is still elusive, which could impede our understanding of further engineering of the paclitaxel biosynthetic pathway. In this study, the crystal structure of CYP725A4 in complex with taxadiene is elucidated. Through comprehensive computational analyses, the catalytic mechanisms of CYP725A4 in the biosynthesis of natural paclitaxel are deciphered. Our calculations indicate that the oxidation of taxadiene affords a zwitterion intermediate, which can undergo two competing transformation routes. One involves the formation of epoxide, which further undergoes the water-mediated rearrangement to form the T5OH product. In the alternative pathway, protonation of the oxygen in the zwitterion intermediate facilitates subsequent hydride transfer and carbon&#8211;oxygen coupling, resulting in the side products OCT/iso-OCT. Contrary to taxadiene, hydroxylation at C5 of iso-taxadiene directly yields the target product T5OH. These crystallographic studies and computational analyses have yielded valuable insights into the catalytic mechanisms of CYP725A4 and laid the foundation for the further engineering of CYP725A4.</description>
-      <author>Xitong Song, Qian Wang, Xianfang Zhu, Wenhan Fang, Xiaonan Liu, Chao Shi, Zhenzhan Chang, Huifeng Jiang, Binju Wang</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05807</guid>
-    </item>
-    <item>
-      <title>Friedel&#8211;Crafts Alkylation of Toluene by Methyl Mercaptan: Effect of Topology and Acidity of Zeolite Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c06088</link>
-      <description>Abdelilah Bayout, Claudia Cammarano, Izabel C. Medeiros-Costa, Gleb Veryasov, Vasile Hulea, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392162425
-
-                The catalytic behaviors of zeolites with MFI, FAU, BEA, MOR, and MWW topologies and Si/Al ratios between 10 and 19 were examined in the toluene alkylation by methyl mercaptan (CH3SH). Over all catalysts, at 375 &#176;C, the reagents have been primarily consumed in alkylation reactions, and only less than 2% of CH3SH led to the formation of light hydrocarbons. Based on extensive experiments, we showed that the crucial variables affecting the activity, the selectivity, and the deactivation of the catalysts were their pore size/architecture and the amount of the acid sites. ZSM-5 (MFI, Si/Al = 15) outperformed the other zeolites, exhibiting higher selectivity in alkylation and substantially higher resistance to the deactivation.</description>
-      <author>Abdelilah Bayout, Claudia Cammarano, Izabel C. Medeiros-Costa, Gleb Veryasov, Vasile Hulea</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06088</guid>
-    </item>
-    <item>
-      <title>Phosphines on Colloidal Nickel Nanocatalysts to Lower the Onset Temperature of Terminal Alkynes Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00054</link>
-      <description>Karim Azouzi, Anthony Ropp, Sophie Carenco, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392162453
-
-                Catalysis by colloidal suspensions of metal nanoparticles (NPs) is becoming more and more attractive as it may combine mild reaction conditions with the use of organic ligands as surface modifiers. While most examples focus on increasing the selectivity of the catalytic process, there is also an opportunity to use the ligands to boost the conversion and trigger the onset of activity at a temperature where NPs alone would not be active. This may be achieved because the ligands modify the electronic and steric environments at the surface active site. In this work, we show that phosphines with adequate steric hindrance (e.g., PnBu3 and PiBu3) lower the onset temperature for phenylacetylene hydrogenation by nickel NPs under 7 bar of H2, by ca 10 to 20 &#176;C depending on the NP diameter. This result is not expected to have practical repercussions for the reaction at stake, as it is already well-mastered; yet, it is of conceptual value because the hydrogenation may have been driven by the frustrated Lewis pair (FLP) between the Lewis basic phosphine and the Lewis acid nickel surface, forming a so-called &#8220;NanoFLP&#8221;. We investigated this proposal using 10 phosphines and used a stereoelectronic map to rationalize their ability to boost the conversion, showing that moderately hindered and fairly donating phosphines are most adequate. Moreover, we demonstrated that less than 2 phosphines per Ni surface atom are enough for the effect to arise. We showed that other terminal alkynes, like 1-octyne, can be hydrogenated with this method. Lastly, a comparison of conversions for 5 para-substituted phenylacetylenes was used to discuss the effects of electronic donation and steric hindrance at the surface active site.</description>
-      <author>Karim Azouzi, Anthony Ropp, Sophie Carenco</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00054</guid>
-    </item>
-    <item>
-      <title>Regulation of Oxygen Activation Pathways to Optimize Photocatalytic Methane Oxidative Coupling Selectivity</title>
-      <link>https://doi.org/10.1021/acscatal.3c06016</link>
-      <description>Jiangjie Zhang, Junhui Zhang, Jinni Shen, Dongmiao Li, Jinlin Long, Wenxin Dai, Xuxu Wang, Zizhong Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392164219
-
-                Photocatalytic oxidative coupling of methane (POCM) is a direct way for the methane transformation into &#8805;C2 alkanes. However, the typical oxygen activation path often leads to the formation of strong oxidizing superoxide radical (O2&#8211;) species, which makes the whole reaction face serious selectivity problems. Herein, we constructed N and oxygen vacancy dual active sites on TiO2{001} nanosheets (TiO2&#8211;NVo) to regulate the oxygen activation pathway and achieve a high activity and selectivity of photocatalytic OCM. Compared with ordinary Au/TiO2{001} nanosheets, the alkane yields of Au/TiO2&#8211;NVo are increased from 16 &#956;mol h&#8211;1 to 32 &#956;mol h&#8211;1, and the selectivity of alkanes increased from 61% to 93%. The performance is superior when compared with the reported till date in photocatalytic OCM in batch reactors. The superior performance originates from the unique N&#8211;Vo dual active sites for synergistically cleaving the detrimental O2&#8211; into desirable mono-oxygen active species (O&#183;&#8211;) to suppress undesired overoxidation reaction. The formed O&#183;&#8211; species from O2&#8211; dissociation, in turn, is active for the selective H abstraction of CH4 into &#8226;CH3 to improve the subsequent C&#8211;C coupling reaction on the Au nanocluster surface. This work provides a new approach of O2 dissociation to address the overoxidation of methane in an aerobic environment for achieving highly selective CH4 conversion.</description>
-      <author>Jiangjie Zhang, Junhui Zhang, Jinni Shen, Dongmiao Li, Jinlin Long, Wenxin Dai, Xuxu Wang, Zizhong Zhang</author>
-      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06016</guid>
-    </item>
-    <item>
-      <title>Deciphering Mesopore-Augmented CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction over Atomically Dispersed Fe&#8211;N-doped Carbon Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c05144</link>
-      <description>Yongxiang Zhao, Z. Shi, Feng Li, Chen Jia, Qian Sun, Zhen Su, Chuan Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392165868
-
-                Mesoporous metal&#8211;nitrogen-doped carbons (M&#8211;N&#8211;C) have shown remarkable performance as catalysts for electrochemical CO2 reduction. However, the current understanding of the roles of mesopores in M&#8211;N&#8211;C-catalyzed CO2 reduction has been insufficient and imprecise due to the overlooked and intertwined influences of various structural factors on mass transport and the catalyst microenvironment. In this work, we have decoupled the impacts of mesopores in this process by designing Fe&#8211;N&#8211;C with solely altered pore structures. We found that the mesopore-rich catalyst surpassed its microporous counterpart in the overall reaction rate but unusually fell short in CO selectivity. Our experiments and modulation uncovered that the abundance of mesopores on the catalyst surface facilitated CO2 diffusion to active sites and thereby improved the CO production rate; however, the increased CO2 transport buffered the local pH surrounding active sites, which increased H2 generation and induced a relative decrease in CO selectivity for the mesopore-rich Fe&#8211;N&#8211;C catalyst.</description>
-      <author>Yongxiang Zhao, Z. Shi, Feng Li, Chen Jia, Qian Sun, Zhen Su, Chuan Zhao</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05144</guid>
-    </item>
-    <item>
-      <title>Donor&#8211;Acceptor-Conjugated Porous Polymer for Photopromoted N&#8211;H Formylation of Secondary Amines: Efficient In Situ N-Heterocyclic Carbene Catalysis in Radical Manner</title>
-      <link>https://doi.org/10.1021/acscatal.3c05392</link>
-      <description>Lizhi Bai, Jiayi Zheng, Lijuan Ma, Jincong Yuan, X.M. Song, Junfu Lu, Lingjuan Zhang, Xian&#8208;Ming Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392168803
-
-                The photogenerated reactive oxygen species (ROSs) in N-heterocyclic carbene (NHC)-based heterogeneous photocatalysis hold promise for addressing the challenge of fostering Breslow-derived radicals. In this study, two conjugated porous polymers (CPPs), namely, Im-PCPP-1 and Im-PCPP-2, decorated with donor&#8211;acceptor-type porphyrin and imidazole/imidazolium moieties, are synthesized via Suzuki&#8211;Miyaura coupling reaction. Importantly, the ionization of the imidazole monomer effectively tunes the push&#8211;pull effect of D&#8211;A building blocks and the band structure of Im-PCPPs. On this basis, Im-PCPP-2 with ionized imidazolium exhibits good catalytic activity toward oxidative N-formylation of diverse secondary amines through the cooperation of photoredox and in situ NHC catalysis in a radical manner, where acetaldehyde serves as the carbon source of formylation. Experimental and calculation results suggest that photogenerated multiple ROS play crucial roles: hydroxide OH&#8211; as in situ base to generate NHC; hydroxyl radical &#183;OH as hydrogen atom transfer abstractors to produce aza-Breslow-derived radicals and as radical partners for cross-coupling; singlet oxygen 1O2 as oxidant to convert aza-Breslow-derived radical into cyclic peroxide. It is noteworthy that the photochemical process has achieved efficient conversion of acetaldehyde and its derivatives to high-value-added N-formamides.</description>
-      <author>Lizhi Bai, Jiayi Zheng, Lijuan Ma, Jincong Yuan, X.M. Song, Junfu Lu, Lingjuan Zhang, Xian&#8208;Ming Zhang</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05392</guid>
-    </item>
     <item>
       <title>Impact of Potential and Active-Site Environment on Single-Iron-Atom-Catalyzed Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction from Accurate Quantum Many-Body Simulations</title>
       <link>https://doi.org/10.1021/acscatal.3c05999</link>
@@ -86,6 +16,26 @@
       <author>Jincheng Lei, Tianyu Zhu</author>
       <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05999</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i005_1776148</link>
+      <description>, ACS Catalysis. 14(5)] 2024. https://openalex.org/W4392354997
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i005_1776148</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i005_1776149</link>
+      <description>, ACS Catalysis. 14(5)] 2024. https://openalex.org/W4392385097
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i005_1776149</guid>
     </item>
   </channel>
 </rss>
