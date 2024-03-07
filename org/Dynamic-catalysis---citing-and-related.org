@@ -1,9 +1,71 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Wed Mar  6 00:43:41 2024
+Created on Thu Mar  7 00:35:52 2024
 
-Found 0 results from 2024-02-28 to 2024-03-06
+Found 3 results from 2024-02-29 to 2024-03-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 
+* Catalytic Reaction Triggered by Magnetic Induction Heating Mechanistically Distinguishes Itself from the Standard Thermal Reaction  :Dynamic_catalysis___citing_and_related:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392229964
+:TOPICS: Catalytic Nanomaterials, Desulfurization Technologies for Fuels, Materials and Methods for Hydrogen Storage
+:PUBLICATION_DATE: 2024-02-28
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05989")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392229964"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392229964"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392229964"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392229964 (Open access: False)
+    
+[[https://openalex.org/A5003444891][Alexander Adogwa]], [[https://openalex.org/A5039156100][Ewa Chukwu]], [[https://openalex.org/A5094019517][Alexander Malaj]], [[https://openalex.org/A5068765571][Venkata Rohit Punyapu]], [[https://openalex.org/A5094019518][Owen Chamness]], [[https://openalex.org/A5094019519][Nicolas Glisson]], [[https://openalex.org/A5094019520][Bridget Bruce]], [[https://openalex.org/A5055973826][Sungwon Lee]], [[https://openalex.org/A5080185216][Michael J. Zachman]], [[https://openalex.org/A5075486632][David A. Bruce]], [[https://openalex.org/A5085121177][Rachel B. Getman]], [[https://openalex.org/A5030845854][O. Thompson Mefford]], [[https://openalex.org/A5048213108][Ming Yang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05989 
+     
+As a recent advancement in reaction engineering, magnetic induction heating (MIH) is utilized to initiate the intended reactions by enabling the self-heating of the ferromagnetic catalyst particles. While MIH can be energy-efficient and industrially scalable, its full potential has been underappreciated in catalysis because of the perception that MIH is merely an alternative heating approach. Unexpectedly, we show that the MIH-triggered reaction could go beyond standard thermal catalysis. Specifically, by probing the representative Pt/Fe3O4 catalysts with CO oxidation in both thermal and MIH modes with consistent temperature profiles and catalyst structures, we found that the MIH mode boosts the reactivity more than 25 times by modifying Pt–FeOx interfacial synergies and promoting facile oxidation of the adsorbed carbonyl species by atomic oxygen. As we preliminarily observed, this beneficial MIH catalysis can be translational to other thermal reactions, potentially paving the way to launch MIH catalysis as a distinct reaction category.    
+
+    
+
+* Advancing beyond Sabatier: Strategies for dynamic synthetic catalysis  :Dynamic_catalysis___citing_and_related:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392377920
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.chempr.2024.02.013")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392377920"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392377920"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392377920"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392377920 (Open access: False)
+    
+[[https://openalex.org/A5053858283][Matthias Filez]], [[https://openalex.org/A5081161746][Jolien Dendooven]], [[https://openalex.org/A5078485962][Maarten B. J. Roeffaers]], [[https://openalex.org/A5039168166][Christophe Detavernier]], Chem. None(None)] 2024. https://doi.org/10.1016/j.chempr.2024.02.013 
+     
+Dynamic structural changes in enzymes enhance catalytic rates beyond the Sabatier limit. In this issue of Chem, Gallagher et al. have developed a synthetic organocatalyst that accelerates catalysis by switching between two structural states. This approach complements heterogeneous catalysis strategies that apply external stimuli to surmount the Sabatier volcano.    
+
+    
+
+* Electrochemical Methods for Measuring Water Splitting Efficiency  :Dynamic_catalysis___citing_and_related:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392394547
+:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/978-981-99-9860-9_4")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392394547"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392394547"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392394547"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392394547 (Open access: False)
+    
+[[https://openalex.org/A5025205505][Tanveer ul Haq]], [[https://openalex.org/A5039023347][Yousef Haik]], Materials horizons. None(None)] 2024. https://doi.org/10.1007/978-981-99-9860-9_4 
+     
+This chapter provides a comprehensive overview of various electrochemical methods for measuring water-splitting efficiency. The discussed techniques include cyclic voltammetry, electrochemical impedance spectroscopy, Tafel plot analysis, exchange current density determination, turnover number and frequency analysis, Faradaic efficiency determination, chronoamperometry and chronopotentiometry, corrosion experiments, and electrochemically active surface area measurements. Each of these methods is discussed in detail, including their theoretical background, instrumentation, experimental setup, data interpretation, and applications in water-splitting studies.    
+
+    

@@ -4,18 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Mar 2024 00:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:35:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Single-Atom Cobalt Catalysts Encapsulating Cobalt Nanoparticles with Built-In Electric Field for Ultrafast and Lasting Peroxymonosulfate Activation</title>
-      <link>https://doi.org/10.1021/acsestwater.3c00774</link>
-      <description>Haiyan Zou, Haitao Wang, Hongqi Sun, Wenshuang Sun, Shuangjiang Luo, Tielong Li, Xiaoguang Duan, Sihui Zhan, ACS ES&amp;T Water. None(None)] 2024. https://openalex.org/W4392193592
+      <title>Promoting catalysis in magnesium hydride for solid-state hydrogen storage through manipulating the elements of high entropy oxides</title>
+      <link>https://doi.org/10.1016/j.jma.2024.01.030</link>
+      <description>Li Wang, Liuting Zhang, Fuying Wu, Yiqun Jiang, Zhendong Yao, Lixin Chen, Journal of Magnesium and Alloys. None(None)] 2024. https://openalex.org/W4392391536
 
-                Cobalt single-atom catalysts (Co-SAs) are rising stars in persulfate chemistry for their well-defined coordination, reduced metal usage, and exceptional activity. However, the simultaneous formation of cobalt nanoparticles (Co-NPs) with Co-SAs raises questions about their complex interplay and synergy in catalysis. In this study, we synthesized Co-SAs-encapsulated Co-NPs (CoNP@NC/Co-SA) using the laser-induced carbonization strategy of high entropy synthesis technology. The results show that 93.23% of phenol can be removed in 15 min and 91.60% in 3 min in the CoNP@NC/Co-SA/PMS system. Simulation results showed that Co-NPs fine-tune the electronic structure of Co-SA sites, optimizing PMS adsorption and activation to generate confined reactive species. The surface-activated PMS-catalyst complex directly attacked adsorbed pollutants on the catalyst surface via an electron-transfer regime. CoNP@NC/Co-SA catalyzes PMS oxidation through a nonradical pathway with high selectivity toward target organics. The findings emphasize the synergistic effect of Co-SAs and Co-NPs in promoting Fenton-like catalysis, enlightening the rational design of advanced composite materials via synergistic molecular and interfacial engineering for fast and long-lasting catalytic oxidation. At the same time, this work provides insights into the electronic structure regulation of metal centers at the atomic level.</description>
-      <author>Haiyan Zou, Haitao Wang, Hongqi Sun, Wenshuang Sun, Shuangjiang Luo, Tielong Li, Xiaoguang Duan, Sihui Zhan</author>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsestwater.3c00774</guid>
+                The lattice distortion effect and cocktail effect of high-entropy oxides (HEOs) will dominate the catalytic effect of the materials, in order to study the influence of the constituent elements of HEOs on the lattice distortion effect and cocktail effect, through elemental manipulation of Cr, Cu, and La, high entropy oxides (HEOs) catalyst CrMnFeCoNiO (Cr1:1), CuMnFeCoNiO (Cu1:1), and LaMnFeCoNiO (La1:1) were effectively synthesized by the facile co-precipitation approach. With a size of about 10 nm, Cr1:1 presented significant modification impacts on enhancing the hydrogen storage capability of MgH2. Specifically, MgH2 was able to release hydrogen at 200 &#176;C with the addition of Cr1:1, MgH2+10wt% Cr1:1 showed prompt rate of dehydrogenation which could release 5.56 wt% H2 in 20 min at 250 &#176;C, and the activation energy of MgH2 was lowered to 69.77&#177; 3.75 kJ&#8901;mol&#8722;1 by adding Cr1:1. According to the Chou model fitting, the exceptional kinetic performance of the composite was attributable to a rate-controlling step changed from low-speed surface penetration to high-speed diffusion. Furthermore, MgH2+10wt% Cr1:1 was capable of absorbing hydrogen at ambient temperature and the composite could uptake 6 wt% H2 within 8 min at the temperature of 150 &#176;C. Due to the high entropy effects of HEOs, Cr1:1 possessed superior stability, which guarantees the robust cycling qualities of MgH2+10wt% Cr1:1. Meanwhile, microstructure analysis revealed that the active sites with numerous heterogeneous structures were uniformly dispersed on surfaces, exhibiting superior catalytic effects on improving the hydrogen storage performance of MgH2.</description>
+      <author>Li Wang, Liuting Zhang, Fuying Wu, Yiqun Jiang, Zhendong Yao, Lixin Chen</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jma.2024.01.030</guid>
     </item>
   </channel>
 </rss>

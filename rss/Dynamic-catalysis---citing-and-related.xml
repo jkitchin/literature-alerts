@@ -4,8 +4,38 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 Mar 2024 00:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 00:35:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Catalytic Reaction Triggered by Magnetic Induction Heating Mechanistically Distinguishes Itself from the Standard Thermal Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.3c05989</link>
+      <description>Alexander Adogwa, Ewa Chukwu, Alexander Malaj, Venkata Rohit Punyapu, Owen Chamness, Nicolas Glisson, Bridget Bruce, Sungwon Lee, Michael J. Zachman, David A. Bruce, Rachel B. Getman, O. Thompson Mefford, Ming Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392229964
+
+                As a recent advancement in reaction engineering, magnetic induction heating (MIH) is utilized to initiate the intended reactions by enabling the self-heating of the ferromagnetic catalyst particles. While MIH can be energy-efficient and industrially scalable, its full potential has been underappreciated in catalysis because of the perception that MIH is merely an alternative heating approach. Unexpectedly, we show that the MIH-triggered reaction could go beyond standard thermal catalysis. Specifically, by probing the representative Pt/Fe3O4 catalysts with CO oxidation in both thermal and MIH modes with consistent temperature profiles and catalyst structures, we found that the MIH mode boosts the reactivity more than 25 times by modifying Pt&#8211;FeOx interfacial synergies and promoting facile oxidation of the adsorbed carbonyl species by atomic oxygen. As we preliminarily observed, this beneficial MIH catalysis can be translational to other thermal reactions, potentially paving the way to launch MIH catalysis as a distinct reaction category.</description>
+      <author>Alexander Adogwa, Ewa Chukwu, Alexander Malaj, Venkata Rohit Punyapu, Owen Chamness, Nicolas Glisson, Bridget Bruce, Sungwon Lee, Michael J. Zachman, David A. Bruce, Rachel B. Getman, O. Thompson Mefford, Ming Yang</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05989</guid>
+    </item>
+    <item>
+      <title>Advancing beyond Sabatier: Strategies for dynamic synthetic catalysis</title>
+      <link>https://doi.org/10.1016/j.chempr.2024.02.013</link>
+      <description>Matthias Filez, Jolien Dendooven, Maarten B. J. Roeffaers, Christophe Detavernier, Chem. None(None)] 2024. https://openalex.org/W4392377920
+
+                Dynamic structural changes in enzymes enhance catalytic rates beyond the Sabatier limit. In this issue of Chem, Gallagher et al. have developed a synthetic organocatalyst that accelerates catalysis by switching between two structural states. This approach complements heterogeneous catalysis strategies that apply external stimuli to surmount the Sabatier volcano.</description>
+      <author>Matthias Filez, Jolien Dendooven, Maarten B. J. Roeffaers, Christophe Detavernier</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chempr.2024.02.013</guid>
+    </item>
+    <item>
+      <title>Electrochemical Methods for Measuring Water Splitting Efficiency</title>
+      <link>https://doi.org/10.1007/978-981-99-9860-9_4</link>
+      <description>Tanveer ul Haq, Yousef Haik, Materials horizons. None(None)] 2024. https://openalex.org/W4392394547
+
+                This chapter provides a comprehensive overview of various electrochemical methods for measuring water-splitting efficiency. The discussed techniques include cyclic voltammetry, electrochemical impedance spectroscopy, Tafel plot analysis, exchange current density determination, turnover number and frequency analysis, Faradaic efficiency determination, chronoamperometry and chronopotentiometry, corrosion experiments, and electrochemically active surface area measurements. Each of these methods is discussed in detail, including their theoretical background, instrumentation, experimental setup, data interpretation, and applications in water-splitting studies.</description>
+      <author>Tanveer ul Haq, Yousef Haik</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-99-9860-9_4</guid>
+    </item>
   </channel>
 </rss>
