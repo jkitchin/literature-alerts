@@ -27,7 +27,7 @@ jobs:
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
             git add my-related.yaml my-citations.yaml
-            git commit rss org md -m "Updated citing and related filters"            
+            git commit my-related.yaml my-citations.yaml -m "Updated citing and related filters"            
             git push
           
           
