@@ -1,0 +1,321 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Papers that cite my papers</title>
+    <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
+    <description>Citations to my papers</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 07 Mar 2024 19:55:09 GMT</lastBuildDate>
+    <generator>rfeed v1.1.1</generator>
+    <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Thermal isomerization rates in retinal analogues using Ab&#8208;Initio molecular dynamics</title>
+      <link>https://doi.org/10.1002/jcc.27332</link>
+      <description>Simon Ghysbrecht, Bettina Keller, Journal of Computational Chemistry. None(None)] 2024. https://openalex.org/W4392234889
+
+                Abstract For a detailed understanding of chemical processes in nature and industry, we need accurate models of chemical reactions in complex environments. While Eyring transition state theory is commonly used for modeling chemical reactions, it is most accurate for small molecules in the gas phase. A wide range of alternative rate theories exist that can better capture reactions involving complex molecules and environmental effects. However, they require that the chemical reaction is sampled by molecular dynamics simulations. This is a formidable challenge since the accessible simulation timescales are many orders of magnitude smaller than typical timescales of chemical reactions. To overcome these limitations, rare event methods involving enhanced molecular dynamics sampling are employed. In this work, thermal isomerization of retinal is studied using tight&#8208;binding density functional theory. Results from transition state theory are compared to those obtained from enhanced sampling. Rates obtained from dynamical reweighting using infrequent metadynamics simulations were in close agreement with those from transition state theory. Meanwhile, rates obtained from application of Kramers' rate equation to a sampled free energy profile along a torsional dihedral reaction coordinate were found to be up to three orders of magnitude higher. This discrepancy raises concerns about applying rate methods to one&#8208;dimensional reaction coordinates in chemical reactions.</description>
+      <author>Simon Ghysbrecht, Bettina Keller</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27332</guid>
+    </item>
+    <item>
+      <title>Hot Carrier Distribution Engineering by Alloying: Picking Elements for the Desired Purposes</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07135</link>
+      <description>Matej Buba&#353;, Jordi Sancho&#8208;Parramon, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392238126
+
+                Metal alloys hold the promise of providing hot carrier generation distributions superior to pure metals in applications such as sensing, catalysis, and solar energy harvesting. Guidelines for finding the optimal alloy configuration for a target application require an understanding of the connection between alloy composition and hot carrier distribution. Here, we present a density functional theory (DFT)-based computational approach to investigate the photogenerated hot carrier distribution of metal alloys based on the joint density of states and the electronic structure. We classified the metals by their electronic structure into closed d-shell, open d-shell, p-block, and s-block elements. It is shown that combining closed d-shell elements enables modulation of the distribution of highly energetic holes typical of pure metals but also leads to hot carrier production by infrared (IR) light excitation and the appearance of highly energetic electrons due to band folding and splitting. This feature arises as an emergent property of alloying and is unveiled only when the hot carrier distribution computation takes momentum conservation into account. The combination of closed d-shell with open d-shell elements allows an abundant production of hot carriers in a broad energy range, while alloying a closed d-shell element with an s-block element opens the door to hot electron distribution skewed toward high-energy electrons. The combination of the d-shell with the p-block elements results in a moderate hot carrier distribution whose asymmetry can be tuned by composition. Overall, the obtained insights that connect alloy composition, band structure, and resulting carrier distribution provide a toolkit to match elements in an alloy for the deliberate engineering of hot carrier distribution.</description>
+      <author>Matej Buba&#353;, Jordi Sancho&#8208;Parramon</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07135</guid>
+    </item>
+    <item>
+      <title>Integrated strategies on cobalt phosphides-based electrocatalysts for efficient hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1007/s42864-024-00263-3</link>
+      <description>Thanh Dam, Ha Huu, Tungsten. None(None)] 2024. https://openalex.org/W4392239913
+
+                No abstract</description>
+      <author>Thanh Dam, Ha Huu</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s42864-024-00263-3</guid>
+    </item>
+    <item>
+      <title>Co/CoO heterojunction rich in oxygen vacancies introduced by O&lt;sub&gt;2&lt;/sub&gt; plasma embedded in mesoporous walls of carbon nanoboxes covered with carbon nanotubes for rechargeable zinc&#8211;air battery</title>
+      <link>https://doi.org/10.1002/cey2.457</link>
+      <description>Leijun Ye, Weiheng Chen, Zhong&#8208;Jie Jiang, Zhongqing Jiang, Carbon energy. None(None)] 2024. https://openalex.org/W4392241194
+
+                Abstract Herein, Co/CoO heterojunction nanoparticles (NPs) rich in oxygen vacancies embedded in mesoporous walls of nitrogen&#8208;doped hollow carbon nanoboxes coupled with nitrogen&#8208;doped carbon nanotubes (P&#8211;Co/CoO V @NHCNB@NCNT) are well designed through zeolite&#8208;imidazole framework (ZIF&#8208;67) carbonization, chemical vapor deposition, and O 2 plasma treatment. As a result, the three&#8208;dimensional NHCNBs coupled with NCNTs and unique heterojunction with rich oxygen vacancies reduce the charge transport resistance and accelerate the catalytic reaction rate of the P&#8211;Co/CoO V @NHCNB@NCNT, and they display exceedingly good electrocatalytic performance for oxygen reduction reaction (ORR, halfwave potential [ E ORR, 1/2 = 0.855 V vs. reversible hydrogen electrode]) and oxygen evolution reaction (OER, overpotential ( &#951; OER , 10 = 377 mV@10 mA cm &#8722;2 ), which exceeds that of the commercial Pt/C + RuO 2 and most of the formerly reported electrocatalysts. Impressively, both the aqueous and flexible foldable all&#8208;solid&#8208;state rechargeable zinc&#8211;air batteries (ZABs) assembled with the P&#8211;Co/CoO V @NHCNB@NCNT catalyst reveal a large maximum power density and outstanding long&#8208;term cycling stability. First&#8208;principles density functional theory calculations show that the formation of heterojunctions and oxygen vacancies enhances conductivity, reduces reaction energy barriers, and accelerates reaction kinetics rates. This work opens up a new avenue for the facile construction of highly active, structurally stable, and cost&#8208;effective bifunctional catalysts for ZABs.</description>
+      <author>Leijun Ye, Weiheng Chen, Zhong&#8208;Jie Jiang, Zhongqing Jiang</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.457</guid>
+    </item>
+    <item>
+      <title>Site-specific reactivity of stepped Pt surfaces driven by stress release</title>
+      <link>https://doi.org/10.1038/s41586-024-07090-z</link>
+      <description>Guangdong Liu, Arthur J. Shih, Hui Deng, Kasinath Ojha, Marc E. Rothenberg, Mingchuan Luo, Ian T. McCrum, Marc T. M. Koper, Jeffrey Greeley, Zhenhua Zeng, Nature. 626(8001)] 2024. https://openalex.org/W4392242825
+
+                No abstract</description>
+      <author>Guangdong Liu, Arthur J. Shih, Hui Deng, Kasinath Ojha, Marc E. Rothenberg, Mingchuan Luo, Ian T. McCrum, Marc T. M. Koper, Jeffrey Greeley, Zhenhua Zeng</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-07090-z</guid>
+    </item>
+    <item>
+      <title>High-Throughput Screening of Sulfur-Resistant Catalysts for Steam Methane Reforming Using Machine Learning and Microkinetic Modeling</title>
+      <link>https://doi.org/10.1021/acsomega.4c00119</link>
+      <description>Siqi Wang, Satya Saravan Kumar Kasarapu, Peter T. Clough, ACS Omega. None(None)] 2024. https://openalex.org/W4392242990
+
+                The catalytic activity of bimetallic catalysts for the steam methane reforming (SMR) reaction was extensively studied previously. However, the performance of these materials in the presence of sulfur-containing species is yet to be investigated. In this study, we propose a novel process aided by machine learning (ML) and microkinetic modeling for the rapid screening of sulfur-resistant bimetallic catalysts. First, various ML models were developed to predict atomic adsorption energies (C, H, O, and S) on bimetallic surfaces. Easily accessible physical and chemical properties of the metals and adsorbates were used as input features. The Ensemble learning, artificial neural network, and support vector regression models achieved the best performance with R2 values of 0.74, 0.71, and 0.70, respectively. A microkinetic model was then built based on the elementary steps of the SMR reaction. Finally, the microkinetic model, together with the atomic adsorption energies predicted by the Ensemble model, were used to screen over 500 bimetallic materials. Four Ge-based alloys (Ge3Cu1, Ge3Ni1, Ge3Co1, and Ge3Fe1) and the Ni3Cu1 alloy were identified as promising and cost-effective sulfur-resistant catalysts.</description>
+      <author>Siqi Wang, Satya Saravan Kumar Kasarapu, Peter T. Clough</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c00119</guid>
+    </item>
+    <item>
+      <title>Conformational Preference of Lithium Polysulfide Clusters Li&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; (&lt;i&gt;x&lt;/i&gt; = 4&#8211;8) in Lithium&#8211;Sulfur Batteries</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.3c04537</link>
+      <description>Xinru Peng, Jiayao Li, Jing-Shuang Dang, Shiwei Yin, Haoquan Zheng, Changwei Wang, Yirong Mo, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4392243685
+
+                Structures are of fundamental importance for diverse studies of lithium polysulfide clusters, which govern the performance of lithium&#8211;sulfur batteries. The ring-like geometries were regarded as the most stable structures, but their physical origin remains elusive. In this work, we systematically explored the minimal structures of Li2Sx (x = 4&#8211;8) clusters to uncover the driving force for their conformational preferences. All low-lying isomers were generated by performing global searches using the ABCluster program, and the ionic nature of the Li&#183;&#183;&#183;S interactions was evidenced with the energy decomposition analysis based on the block-localized wave function (BLW-ED) approach and further confirmed with the quantum theory of atoms in molecule (QTAIM). By analysis of the contributions of various energy components to the relative stability with the references of the lowest-lying isomers, the controlling factor for isomer preferences was found to be the polarization interaction. Notably, although the electrostatic interaction dominates the binding energies, it contributes favorably to the relative stabilities of most isomers. The Li+&#183;&#183;&#183;Li+ distance is identified as the key geometrical parameter that correlates with the strength of the polarization of the Sx2&#8211; fragment imposed by the Li+ cations. Further BLW-ED analyses reveal that the cooperativity of the Li+ cations primarily determines the relative strength of the polarization.</description>
+      <author>Xinru Peng, Jiayao Li, Jing-Shuang Dang, Shiwei Yin, Haoquan Zheng, Changwei Wang, Yirong Mo</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.3c04537</guid>
+    </item>
+    <item>
+      <title>Designing interphases for highly reversible aqueous zinc batteries</title>
+      <link>https://doi.org/10.1016/j.joule.2024.02.002</link>
+      <description>Glenn Pastel, Travis P. Pollard, Qian Liu, Sydney N. Lavan, Qiancheng Zhu, Rongzhong Jiang, Lin Ma, Justin G. Connell, Oleg Borodin, Marshall A. Schroeder, Zhengcheng Zhang, Ke Xu, Joule. None(None)] 2024. https://openalex.org/W4392246535
+
+                Summary Recent efforts to improve zinc metal anode reversibility in aqueous electrolytes have primarily focused on tailoring Zn2+ solvation. We propose a complementary approach to directly engineer the anode interphase with the help of two co-cations. The designed organic co-cations offer distinct improvements: a partially fluorinated pyrrolidinium cation effectively suppresses parasitic reactions such as hydrogen evolution (&lt;6 &#956;A cm&#8722;2), while an ether-functionalized ammonium cation inhibits dendrite formation (almost 10 Ah cm&#8722;2 cumulative capacity, &gt;1 year, Zn||Zn). Only 3 wt % of the co-cation combination enables full utilization of a 5-mAh cm&#8722;2 reservoir with over 99% Coulombic efficiency and 1,000 cycles with 20% reservoir utilization. We further validate this concept in Zn metal batteries with various cathode chemistries (O2, polyaniline, and HNaV6O16), and we have achieved significant enhancements in performance. This suggests co-cations are a promising and universal approach to improve metal anode reversibility across emerging battery chemistries.</description>
+      <author>Glenn Pastel, Travis P. Pollard, Qian Liu, Sydney N. Lavan, Qiancheng Zhu, Rongzhong Jiang, Lin Ma, Justin G. Connell, Oleg Borodin, Marshall A. Schroeder, Zhengcheng Zhang, Ke Xu</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.02.002</guid>
+    </item>
+    <item>
+      <title>Nitrogen doping of mesoporous carbon enhances deuterium evolution performance of supported Pd nanoparticles</title>
+      <link>https://doi.org/10.1016/j.ces.2024.119951</link>
+      <description>Liangbin Shao, Shuofeng Yuan, Yanfeng Li, Chenghang Jiang, Yuanan Li, Shijie Zhang, Jianguo Wang, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4392246613
+
+                In deuterium evolution reaction (DER), the strong D-O bond results in suboptimal performance of traditional Pt-based hydrogen evolution reaction (HER) catalysts, a rarely addressed issue. As a potential replacement of Pt, Pd is usually less active in DER/HER. Herein, we demonstrate superior activity and stability of Pd nanoparticles effected by controlled metal-support interaction with nitrogen-doped porous carbon (N-PC). The Pd/N-PC catalyst exhibited ultralow overpotentials of 40.6 mV (4.1 mV) and 42.5 mV (15.5 mV) at 10 mA cm&#8722;2 in 1 M NaOD (NaOH) and 0.5 M D2SO4 (H2SO4), respectively, outperforming commercial Pt/C by up to 11 times in terms of mass-normalized activity. Altered strength of H/D adsorption, large active surface area, and optimized synergistic effects between Pd and nitrogen sites were found responsible for the enhanced activity. This work provides guidance on the development of high-performance Pd-based electrocatalysts and serves as a reference for future study on DER.</description>
+      <author>Liangbin Shao, Shuofeng Yuan, Yanfeng Li, Chenghang Jiang, Yuanan Li, Shijie Zhang, Jianguo Wang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.119951</guid>
+    </item>
+    <item>
+      <title>Evading the efficiency-voltage trade-off in magnesium air battery via a novel active learning framework</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159806</link>
+      <description>Hao Liang, Kang Yang, Chenchen Zhao, ChuanYao Zhai, Liang Wu, Wenbo Du, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392246791
+
+                Reconciling the inherent trade-off between anodic efficiency and discharge voltage in the design of high-energy-density magnesium-air (Mg-air) batteries has been a persistent challenge. Herein, we propose a pioneering active learning strategy that integrates physically motivated variables, machine learning, exploration of the Pareto front, experimental data feedback, and generated data feedback for the purpose of designing magnesium anodes. Within an extensive compositional space (&#8764;350,000 possibilities), we have pinpointed a novel alloy, Mg-1Ga-1Ca-0.5In, exhibiting exceptional performance with high efficiency (64 &#177; 5.5 % at 1 mA cm&#8722;2, 64 &#177; 0.5 % at 10 mA cm&#8722;2) and high voltage (1.80 &#177; 0.00 V at 1 mA cm&#8722;2, 1.57 &#177; 0.01 V at 10 mA cm&#8722;2), surpassing conventional methods of alloying. Subsequent experiments and density functional theory (DFT) calculations have unveiled that the outstanding performance of Mg-1Ga-1Ca-0.5In stems from &#8220;grain boundary activation&#8221; induced by active second phases and &#8220;intra-grain inhibition&#8221; resulting from the orbital hybridization between solute atoms and Mg atoms. This study provides a novel research paradigm and offers valuable insights for the further development of high-performance Mg-air batteries.</description>
+      <author>Hao Liang, Kang Yang, Chenchen Zhao, ChuanYao Zhai, Liang Wu, Wenbo Du</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159806</guid>
+    </item>
+    <item>
+      <title>Effect of molybdenum doping Zn-Co spinel oxide microspheres for efficient electrocatalytic hydrogen production in alkaline media and study supported by DFT</title>
+      <link>https://doi.org/10.1016/j.nanoso.2024.101108</link>
+      <description>Refah Saad Alkhaldi, Abbas Saeed Hakeem, Abdul Zeeshan Khan, Mohamed Jaffer Sadiq Mohamed, S. &#199;al&#305;&#351;kan, M.A. Almessiere, A. Baykal, Y. Slimani, Nano-Structures and Nano-Objects. 37(None)] 2024. https://openalex.org/W4392247631
+
+                The rational design of efficient transition metal-based electrocatalysts for the hydrogen evolution reaction (HER) is critical for the water-splitting process. Industrial water-alkali electrolysis requires large current densities at low overpotentials, which are always limited by the intrinsic activity. Here, ZnCo2&#8722;xMoxO4 (x &#8804; 0.10) spinel oxide microsphere electrocatalysts were synthesized for the process in alkaline media. Mo doping in the ZnCo2O4 crystal structure enhanced the active sites, which were responsible for the enhancement in the HER process. The ZnCo2&#8722;xMoxO4 (x = 0.06) electrocatalyst exhibited exceptional HER activity, as evidenced by an overpotential of 195 mV, Tafel slope of 81.4 mVs&#8722;1 and high stability for 40 h with 1000 cycles linear sweep voltammetry. The surface and electrochemical characterization revealed that 6% Mo-doping exhibits improved the HER activity due to a significantly higher electrochemical surface area and accelerated charge transfer kinetics at the semiconductor electrolyte interface. Density functional theory (DFT) for exploring and explaining the effect of the Mo dopants on the HER activity elucidated that hydrogen and water molecules are adsorbed on the surface of the Mo-doped ZnCo2O4 slab structures. The results show that Mo dopants enhance the chemical activity, due to water adsorption, and HER activity for enhanced electrocatalytic processes. This work provides a new insight into low-metal-cost materials for efficient and durable HER electrocatalysts and successfully showcases the catalyst model for a detailed mechanistic insight into the HER process.</description>
+      <author>Refah Saad Alkhaldi, Abbas Saeed Hakeem, Abdul Zeeshan Khan, Mohamed Jaffer Sadiq Mohamed, S. &#199;al&#305;&#351;kan, M.A. Almessiere, A. Baykal, Y. Slimani</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoso.2024.101108</guid>
+    </item>
+    <item>
+      <title>A stepwise thermal migration for inducing copper nanoparticles to boost oxygen reduction activity of single-atomic copper sites</title>
+      <link>https://doi.org/10.1016/j.nxmate.2024.100162</link>
+      <description>Tianhong Zhao, Lu Yang, Xian Wu, Xiaoming Gao, Ru Huang, Zhaochen Wang, Yongsheng Ou, Peixun Li, Jiong Zhang, Xiongcong Guan, Yunfeng Zhan, Xiufeng Tang, Hui Meng, Next Materials. 3(None)] 2024. https://openalex.org/W4392263473
+
+                Although single-atom M-N-C electrocatalysts have demonstrated their potential in metal-air batteries and fuel cells, their activity for oxygen reduction reaction (ORR) needs to be further improved. Regulating the electronic structure of M-Nx single sites to accelerate the activity and simultaneously directly identify the enhancement mechanisms is highly desirable but remains a challenge. Here we propose a stepwise thermal migration strategy to in situ introducing Cu nanoparticles (Cu-NPs) adjacent to single atoms Cu (Cu-SAs) confined into hierarchically porous carbon. The optimization of the electronic structure of the Cu-Nx site by adjacent Cu nanoparticles is confirmed by both enhanced ORR activity and theoretical calculations. The optimized CuSA-NP@NC exhibits a more positive half-wave potential (0.870 V) than CuSA@NC (0.842 V) and superior stability with an 86.6% ORR current retention after 24 hours of chronoamperometric test in alkaline electrolyte. When utilized as an air cathode in rechargeable Zn-air batteries, CuSA-NP@NC displays a high-power density of 224.1 mWcm&#8722;2 and a specific capacity of 802.0 mAh g&#8722;1. Theoretical calculations demonstrate that the introduction of Cu-NPs endows the Cu-N4 site with an enriched electron density, which optimizes the adsorption/desorption of ORR intermediates on the Cu-N4 sites. This work reports an effective way and provides insights into the ORR activity improvement of single-atom electrocatalysts.</description>
+      <author>Tianhong Zhao, Lu Yang, Xian Wu, Xiaoming Gao, Ru Huang, Zhaochen Wang, Yongsheng Ou, Peixun Li, Jiong Zhang, Xiongcong Guan, Yunfeng Zhan, Xiufeng Tang, Hui Meng</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nxmate.2024.100162</guid>
+    </item>
+    <item>
+      <title>High throughput screening for electrocatalysts for nitrogen reduction reaction using metal-doped bilayer borophene: A combined approach of DFT and machine learning</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.113972</link>
+      <description>Chen Chen, Bo Xiao, Zhongwei Li, Wenzuo Li, Qingzhong Li, Xiaohui Yu, Molecular Catalysis. 557(None)] 2024. https://openalex.org/W4392265500
+
+                NH3 plays an important role in industrial production, while it is still a challenge to develop a promising catalyst for NH3 synthesis. In particular, the metal borides have attracted much attention because of their excellent catalyst performances towards N2. In this paper, we have theoretically studied the N2 reduction reaction (NRR) by employing the transition metal (TM = Co, Cr, Cu, Fe, Mn, Mo, Ni, Sc, Ti, V, Zn, Nb, Pd, Rh, Ru or Zr) doped bilayer borophene (BB). After the screening, it is found that Sc-doped BB (Sc@BB) exhibits excellent NRR performance with the limiting potential of -0.43 V, and the hydrogen evolution reaction (HER) could be well suppressed. The limiting potential could be further improved into -0.40 V by applying 0.30 % uniaxial strains to the system. In addition, the machine learning method was employed to understand the catalytic mechanism, the results revealed that the NRR performance of TM@BB is strongly related to the inherent properties of TM atoms, such as the d-electron number, electronegativity, first ionization energy, atomic radius, and atomic number. Therefore, our paper not only proposed a promising electrocatalyst for NRR, but also further extend the application of transition metal-boron based two dimensional materials in NRR.</description>
+      <author>Chen Chen, Bo Xiao, Zhongwei Li, Wenzuo Li, Qingzhong Li, Xiaohui Yu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.113972</guid>
+    </item>
+    <item>
+      <title>Highly active late second-row transition metals loaded B12P12 nanocages as bifunctional single atom catalysts toward hydrogen and oxygen evolution reactions</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.294</link>
+      <description>Abdulrahman Allangawi, Khurshid Ayub, Mazhar Amjad Gilani, Abdulla Ebrahim, Muhammad Imran, Tariq Mahmood, International Journal of Hydrogen Energy. 61(None)] 2024. https://openalex.org/W4392267384
+
+                To fully realize the potential of hydrogen and oxygen production via the electrochemical water splitting process, single atom catalysts (SACs) are recently proposed and applied with high metal % utilization. In this regard, we have designed and examined the suitability of late second-row transition metal (TM) loaded B12P12 nanocages as SACs for the water splitting reaction. The viability of the designed electrocatalysts has been evaluated based on density functional theory (DFT) calculations. Outstandingly, the Rh@B12P12 SACs revealed high stability (Eint = &#8722;2.73 eV), which ensures that the Rh atoms can maintain single atom dispersion throughout extended periods and can withstand harsh catalytic conditions. In addition, the Rh@B12P12 SACs showed excellent catalytic activity as a bifunctional electrocatalyst (&#916;GH = 0.17 eV &amp; &#951;OER = 0.61 V) for both the hydrogen and oxygen evolution reactions (HER &amp; OER, respectively). We hope that this study demonstrates the applicability of TM doped nanocage SACs as potential electrocatalysts.</description>
+      <author>Abdulrahman Allangawi, Khurshid Ayub, Mazhar Amjad Gilani, Abdulla Ebrahim, Muhammad Imran, Tariq Mahmood</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.294</guid>
+    </item>
+    <item>
+      <title>2D Ge&lt;sub&gt;2&lt;/sub&gt;Se&lt;sub&gt;2&lt;/sub&gt;P&lt;sub&gt;4&lt;/sub&gt; Monolayer: A Versatile Photocatalyst for Sustainable Water Splitting</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07237</link>
+      <description>Tuan V. Vu, Nguyen N. Hieu, Dat D. Vo, A.I. Kartamyshev, Hien D. Tong, Thuat T. Trinh, Vo Khuong Dien, Zakaryae Haman, Poulumi Dey, Nabil Khossossi, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392286337
+
+                This study aims to identify photo-/electrocatalysts that can enhance the oxygen evolution reaction (OER), hydrogen evolution reaction (HER), and oxygen reduction reaction (ORR), which are of utmost importance in electro-/photochemical energy systems, such as solar energy, fuel cells, water electrolyzers, or metal-air batteries. Our study focused on investigating the 2D Ge2Se2P4 monolayer and found that it exhibits a bifunctional photocatalyst with a very high solar-to-hydrogen efficiency. The two-dimensional (2D) Ge2Se2P4 monolayer has superior HER activity compared to that of most 2D materials, and it also outperforms the reference catalysts IrO2(110) and Pt(111) in terms of low overpotential values for ORR and OER mechanisms. Such superior catalytic performance in the 2D Ge2Se2P4 monolayer can be attributed to its electron states, charge transfer process, and suitable band alignments referring to normal hydrogen electrodes. Overall, the study suggests that the Ge2Se2P4 monolayer could be an excellent bifunctional catalyst for advancing photo-/electrochemical energy systems.</description>
+      <author>Tuan V. Vu, Nguyen N. Hieu, Dat D. Vo, A.I. Kartamyshev, Hien D. Tong, Thuat T. Trinh, Vo Khuong Dien, Zakaryae Haman, Poulumi Dey, Nabil Khossossi</author>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07237</guid>
+    </item>
+    <item>
+      <title>Recent advances in morphology control of platinum catalysts toward oxygen reduction reaction</title>
+      <link>https://doi.org/10.1007/s11708-024-0929-5</link>
+      <description>Shun Chen, Yanru Liu, Xiaogang Fu, Wanglei Wang, Frontiers in Energy. None(None)] 2024. https://openalex.org/W4392291311
+
+                No abstract</description>
+      <author>Shun Chen, Yanru Liu, Xiaogang Fu, Wanglei Wang</author>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11708-024-0929-5</guid>
+    </item>
+    <item>
+      <title>Strain engineering of Pt-based electrocatalysts for oxygen reaction reduction</title>
+      <link>https://doi.org/10.1007/s11708-024-0932-x</link>
+      <description>Zeyu Wang, Yanru Liu, Shun Chen, Yun Zheng, Xiaogang Fu, Yan Zhang, Wanglei Wang, Frontiers in Energy. None(None)] 2024. https://openalex.org/W4392292641
+
+                No abstract</description>
+      <author>Zeyu Wang, Yanru Liu, Shun Chen, Yun Zheng, Xiaogang Fu, Yan Zhang, Wanglei Wang</author>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11708-024-0932-x</guid>
+    </item>
+    <item>
+      <title>Naturally Inspired Heme-Like Chemistries for the Oxygen Reduction Reaction: Going Beyond Platinum Group Metals in Proton Exchange Membrane Fuel Cell Catalysis</title>
+      <link>https://doi.org/10.1007/978-3-031-42700-8_17</link>
+      <description>Robin J. White, Springer eBooks. None(None)] 2024. https://openalex.org/W4392311708
+
+                No abstract</description>
+      <author>Robin J. White</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-42700-8_17</guid>
+    </item>
+    <item>
+      <title>Establishing theoretical landscapes of identifying electrocatalysts for urea synthesis via dispersed dual-metals anchored on Ti2CO2 MXene</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.131280</link>
+      <description>Jinyou Zhong, Dongyue Gao, Zhe Liu, Yadong Yu, Chao Yu, Yi Fang, Jianming Lin, Chengchun Tang, Zhonglu Guo, Fuel. 366(None)] 2024. https://openalex.org/W4392337669
+
+                Urea synthesis via electrochemical CN coupling reaction holds great promise as a sustainable alternative to its industrial production, in which the efficient electrocatalysts that can facilitate the activation of inert N2 molecules and the following CN coupling are still in lack. Herein, we employ density-functional theory (DFT) to establish a theoretical landscape of dispersed dual-metals anchored on Ti2CO2 MXene (M2@Ti2CO2 and MM'@Ti2CO2) as electrocatalysts for urea synthesis. By calculating the Gibbs free energy diagrams of urea electrosynthesis, we find that there are three typical uphill steps, including the CN coupling step and the last two hydrogenation reactions. To efficiently screen electrocatalysts, we propose a criterion that Gibbs free energy differences are all less than 0.50 eV (&#916;G &lt; 0.5 eV) for these three uphill steps. As a result, five promising electrocatalysts for urea synthesis are screened out from 28 stable systems, in which VMn@Ti2CO2 exhibits ultra-low limiting potential (&#8722;0.26 V) as well as significant inhibition of competitive reactions. Moreover, &#916;G values of the three uphill steps have been linearly fitted to obtain their corresponding principle descriptors. Meanwhile, the effective ranges of these descriptors are also established, including bond length of chemisorbed *N2 (1.16 &#197; &lt; lNN &lt; 1.23 &#197;), adsorption energies of *NHCONH and *NH2CONH2 (&#8722;6.1 eV &lt; Ead (*NHCONH) &lt; -5.3 eV and &#8722;0.3 eV &lt; Ead (*NH2CONH2) &lt; 0.2 eV), respectively. This study not only indicates that dispersed dual-metals anchored on Ti2CO2 MXene can serve as efficient active sites for urea electrosynthesis but also defines descriptors and their effective ranges for high-throughput screening of electrocatalysts.</description>
+      <author>Jinyou Zhong, Dongyue Gao, Zhe Liu, Yadong Yu, Chao Yu, Yi Fang, Jianming Lin, Chengchun Tang, Zhonglu Guo</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131280</guid>
+    </item>
+    <item>
+      <title>Porous C3N4 nanosheet supported Au single atoms as an efficient catalyst for enhanced photoreduction of CO2 to CO</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115405</link>
+      <description>Shan Hu, Panzhe Qiao, Zixin Liu, Xueli Zhang, Fangyuan Zhang, Jinhua Ye, Defa Wang, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4392344081
+
+                Artificial photosynthesis utilizing solar energy to convert carbon dioxide (CO2) and water (H2O) into fuels and high-value chemicals offers a promising technology for mitigating energy consumption and environmental pollution. However, the development of efficient photocatalysts with high product selectivity remains a big challenge due to the sluggish dynamic transfer of photogenerated charge carriers. Herein, porous C3N4 nanosheet supported Au single atoms photocatalyst (Au1@CN) with Au&#8211;N4 coordination is fabricated via a facile &#8220;impregnation + freeze-drying&#8221; process. The as-synthesized Au1@CN exhibits efficient and stable CO2 photoreduction activity with a CO evolution rate of 0.58 &#956;mol h&#8211;1 (amount of catalyst: 10 mg), CO selectivity of 94%, and a turnover frequency (TOF) of 10.0 h&#8211;1 using H2O as the reductant, which exceed most previous works on C3N4-based single-atom photocatalysts for CO2 reduction. Experimental studies and density functional theory (DFT) calculations reveal that the unique Au&#8211;N4 coordination promotes the dynamic transfer of photogenerated charge carriers, facilitates the adsorption/activation of CO2 molecules and generation of *COOH intermediate, thereby significantly enhancing the CO2 photoreduction activity with high CO selectivity. This study demonstrates an effective strategy for the design of M&#8211;N4 coordinated single-atom catalyst toward efficient and selective photoreduction of CO2 to CO.</description>
+      <author>Shan Hu, Panzhe Qiao, Zixin Liu, Xueli Zhang, Fangyuan Zhang, Jinhua Ye, Defa Wang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115405</guid>
+    </item>
+    <item>
+      <title>Improving the rigor and reproducibility of catalyst testing and evaluation in the laboratory</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115408</link>
+      <description>David W. Flaherty, Aditya Bhan, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4392347465
+
+                Experimental testing and evaluation of catalysts in reactors is a central feature of fundamental catalysis science and reaction engineering. Measurements must be reproducible and interpretable to provide evidence for mechanistic studies or structure&#8211;function relationships, or to yield robust and intrinsically meaningful parameters to enable reactor scale-up and process development. Consequently, catalysis practitioners should seek to plan and perform catalyst testing in a manner that distinguishes between the intrinsic chemical kinetics governed by the catalyst and hydrodynamic, transport, and deactivation processes introduced by the form of the catalyst, the reactor vessel, and the nature of the contacting fluid. We highlight the importance of clear testing procedures for both the individual practitioner and the catalysis community and then discuss the sources and methods to address key sources of artifacts in catalyst testing. We organize sections in the form of questions practitioners should ask themselves when planning a catalyst testing campaign. This article references the original literature but also recasts the catalyst testing procedure in the form of a workflow diagram and illustrated depictions of the control experiments implemented within our laboratories to minimize the occurrence of artifacts. The content reflects our collective knowledge in the design, set up, and use of laboratory scale reactors for catalyst testing.</description>
+      <author>David W. Flaherty, Aditya Bhan</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115408</guid>
+    </item>
+    <item>
+      <title>Modelling atomic and nanoscale structure in the silicon&#8211;oxygen system through active machine learning</title>
+      <link>https://doi.org/10.1038/s41467-024-45840-9</link>
+      <description>Linus C. Erhard, Jochen Rohrer, Karsten Albe, Volker L. Deringer, Nature Communications. 15(1)] 2024. https://openalex.org/W4392348184
+
+                Abstract Silicon&#8211;oxygen compounds are among the most important ones in the natural sciences, occurring as building blocks in minerals and being used in semiconductors and catalysis. Beyond the well-known silicon dioxide, there are phases with different stoichiometric composition and nanostructured composites. One of the key challenges in understanding the Si&#8211;O system is therefore to accurately account for its nanoscale heterogeneity beyond the length scale of individual atoms. Here we show that a unified computational description of the full Si&#8211;O system is indeed possible, based on atomistic machine learning coupled to an active-learning workflow. We showcase applications to very-high-pressure silica, to surfaces and aerogels, and to the structure of amorphous silicon monoxide. In a wider context, our work illustrates how structural complexity in functional materials beyond the atomic and few-nanometre length scales can be captured with active machine learning.</description>
+      <author>Linus C. Erhard, Jochen Rohrer, Karsten Albe, Volker L. Deringer</author>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45840-9</guid>
+    </item>
+    <item>
+      <title>Fe-N doped Carbon Materials from Oily Sludge as Electrocatalysts for Alkaline Oxygen Reduction Reaction.</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144045</link>
+      <description>Sheryll B. Jerez, Angus Pedersen, Mar&#237;a Ventura, Lorenzo Mazzoli, M.I. Pariente, Maria&#8208;Magdalena Titirici, Juan A. Melero, Jes&#250;s Barrio, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4392348978
+
+                Alkaline oxygen reduction reaction (ORR) presents an important role for energy conversion technologies and requires the development of an efficient electrocatalyst. Pt-based catalysts provide suitable activity; however, Pt production accessibility and high costs create hurdles to their commercial implementation. Fe coordinated within N-doped carbon materials (Fe-N-C) are a promising alternative due to their high ORR catalytic activity, although the currently commercially available Fe-N-C materials rely on harsh synthetic protocols which can lead to increased environmental impacts. In this work we target this issue by taking advantage of an oily sludge waste currently generated in refineries to synthesize Fe-N-C materials, thus, avoiding the environmental impact caused by the management of this waste. The solid particles within oily sludge, which present a high concentration of C and Fe, were combined by different nitrogen sources and pyrolyzed at high temperatures. The prepared materials present a hierarchical pore structure with surface areas up to 547 m2 g&#8722;1. X-ray photoelectron spectroscopy analysis found that the impregnation of N using phenanthroline promotes the formation of pyridinic-N structures, which enhances the ORR performance compared to melamine doping. Additional doping of Fe with phenanthroline results in an ORR mass activity of 1.23&#177;0.04 A gFeNC&#8722;1 at 0.9 VRHE, iR-free in a rotating disc electrode (0.1 M KOH). This catalyst also shows a lower relative loss in activity at 0.9 VRHE after 8,000 cycles in O2-saturated conditions compared to a commercial FeNC catalyst, PMF D14401, (-63.5 vs -69%, respectively), demonstrating promise as a cheap and simple route to Fe-N-C catalysts for alkaline ORR.</description>
+      <author>Sheryll B. Jerez, Angus Pedersen, Mar&#237;a Ventura, Lorenzo Mazzoli, M.I. Pariente, Maria&#8208;Magdalena Titirici, Juan A. Melero, Jes&#250;s Barrio</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144045</guid>
+    </item>
+    <item>
+      <title>Optimized W-d Band Configuration in Porous Sodium Tungsten Bronze Octahedron Enabling Pt-Like and Wide-pH Hydrogen Evolution</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109442</link>
+      <description>Guangbo Liu, Shukun Liu, Xiaolei Li, Honghao Lv, Qinghua He, Qinghao Quan, Huasen Lu, Xuejing Cui, Xin Zhou, Luhua Jiang, Jieshan Qiu, Nano Energy. None(None)] 2024. https://openalex.org/W4392349745
+
+                Metal d-band configuration is decisive to the interaction of metals with reactants and intermediates, therefore often governs the catalytic activity. Herein, we for the first time demonstrate a family of alkali tungsten bronzes (MxWO3, M = Na, K, Rb, Cs and 0&lt;x&lt;1) for efficient hydrogen evolution reaction (HER) by modulating the W-d band configuration. Experimental and theoretical investigations on the newly-reported alkali tungsten bronzes reveal a linear relationship between the W-5d band center and the HER activity. Guided by this, the introduciton of sodium ions endows NaxWO3 with optimized electronic structure and W-d band configuration, leading to not only superior charge-transfer ability but also promoted H2O adsorption/dissociation kinetics and moderate hydrogen adsorption energy for wide-pH HER. As a result, NaxWO3 exhibits Pt-like activity in a wide-pH range, delivering an overpotential as low as 37, 48 and 226 mV at 10 mA cm-2 in acid, alkaline and neutral seawater, respectively. This work provides the first insight into the role of alkali metal ions in tungsten bronzes towasrds HER, which thus is expected to open up a new class of non-precious metal-based electrocatalysts for the HER and other energy storage and conversion reactions.</description>
+      <author>Guangbo Liu, Shukun Liu, Xiaolei Li, Honghao Lv, Qinghua He, Qinghao Quan, Huasen Lu, Xuejing Cui, Xin Zhou, Luhua Jiang, Jieshan Qiu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109442</guid>
+    </item>
+    <item>
+      <title>Computational Study of Oxygen Evolution Reaction on Flat and Stepped Surfaces of Strontium Titanate</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.114609</link>
+      <description>Maksim Sokolov, Yuri A. Mastrikov, Dmitry Bocharov, Veera Krasnenko, G. Zvejnieks, Kai S. Exner, E. A. Kotomin, Catalysis Today. None(None)] 2024. https://openalex.org/W4392350128
+
+                Oxygen evolution reaction (OER) is reconciled with the bottleneck in hydrogen production via photo- or electrocatalytic water splitting. One of the remedies to overcome this shortcoming is to develop catalytically efficient anode materials. Strontium titanate (STO) is a potential candidate for the OER by referring to recent experimental reports on enhanced photocatalytic activity of faceted nanoparticles. In this paper, we perform electronic structure calculations in the density functional theory approximation to study the OER on flat and stepped surfaces, such as encountered in nano-sized STO. We demonstrate that stepped surfaces reveal higher OER activity than flat surfaces, which is consistent with experimental data. We also observe partial breaking of OER scaling relation on stepped surfaces, albeit this does not necessarily cause higher catalytic activity. Finally, we propose recommendations for thorough implementation of zero-point energy calculations as the calculation method may impact the free-energy landscape of the OER.</description>
+      <author>Maksim Sokolov, Yuri A. Mastrikov, Dmitry Bocharov, Veera Krasnenko, G. Zvejnieks, Kai S. Exner, E. A. Kotomin</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114609</guid>
+    </item>
+    <item>
+      <title>System energy and band gap prediction of titanium dioxide based on machine learning</title>
+      <link>https://doi.org/10.1016/j.molstruc.2024.137934</link>
+      <description>Shengbin Chen, Wenming Zhang, Rui Luo, Yang Zhao, Yang Yang, Bing Zhang, Qiang L&#252;, Bin Hu, Journal of Molecular Structure. None(None)] 2024. https://openalex.org/W4392351352
+
+                Fast and accurate prediction of certain properties from a given structure, as well as pinpointing key factors influencing particular properties, is crucial for the targeted design of new compounds with desired properties or crystal phase compositions. In the current work, a total of 2,419,200 Gaussian-type structure descriptors (GTSDs) were utilized as a bridge to establish artificial neural network (ANN) potential models between 1400 titanium dioxide (TiO2) structures and their corresponding system energies and band gaps. After training, the ANN showed high accuracy in predicting energy, with Rtrain of 0.985, Rtest of 0.967, and RMSE of 0.0489. However, for the band gap values with intense data fluctuation, the Rtrain, Rtest, and RMSE changed to 0.864, 0.832, and 0.1304, respectively, indicating that the ANN's predictive ability for drastically changing data is limited. Compared with ab initio calculations, using ANN model can increase the calculation speed by 4-6 orders of magnitude. Furthermore, we identified the most significant features affecting the system energy and band gap values as the shape and distortion of [TiOx] polyhedra through the random forest model. Our work aims to provide a new toolkit and research ideas for accelerating the development of new materials.</description>
+      <author>Shengbin Chen, Wenming Zhang, Rui Luo, Yang Zhao, Yang Yang, Bing Zhang, Qiang L&#252;, Bin Hu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.molstruc.2024.137934</guid>
+    </item>
+    <item>
+      <title>Machine-Learning-Driven High-Throughput Screening of Transition-Metal Atom Intercalated g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;/MX&lt;sub&gt;2&lt;/sub&gt; (M = Mo, W; X = S, Se, Te) Heterostructures for the Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsami.3c17389</link>
+      <description>M. V. Jyothirmai, Roshini Dantuluri, Priyanka Sinha, B. M. Abraham, Jayant K. Singh, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4392381981
+
+                Rising global energy demand, accompanied by environmental concerns linked to conventional fossil fuels, necessitates a shift toward cleaner and sustainable alternatives. This study focuses on the machine-learning (ML)-driven high-throughput screening of transition-metal (TM) atom intercalated g-C3N4/MX2 (M = Mo, W; X = S, Se, Te) heterostructures to unravel the rich landscape of possibilities for enhancing the hydrogen evolution reaction (HER) activity. The stability of the heterostructures and the intercalation within the substrates are verified through adhesion and binding energies, showcasing the significant impact of chalcogenide selection on the interaction properties. Based on hydrogen adsorption Gibbs free energy (&#916;GH) computed via density functional theory (DFT) calculations, several ML models were evaluated, particularly random forest regression (RFR) emerges as a robust tool in predicting HER activity with a low mean absolute error (MAE) of 0.118 eV, thereby paving the way for accelerated catalyst screening. The Shapley Additive exPlanation (SHAP) analysis elucidates pivotal descriptors that influence the HER activity, including hydrogen adsorption on the C site (HC), MX layer (HMX), S site (HS), and intercalation of TM atoms at the N site (IN). Overall, our integrated approach utilizing DFT and ML effectively identifies hydrogen adsorption on the N site (site-3) of g-C3N4 as a pivotal active site, showcasing exceptional HER activity in heterostructures intercalated with Sc and Ti, underscoring their potential for advancing catalytic performance.</description>
+      <author>M. V. Jyothirmai, Roshini Dantuluri, Priyanka Sinha, B. M. Abraham, Jayant K. Singh</author>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17389</guid>
+    </item>
+    <item>
+      <title>Theoretical Study of Hydrogen Desorption on the Ni(100) Surface Through Simulated Temperature Programmed Desorption Spectra</title>
+      <link>https://doi.org/10.1016/j.susc.2024.122467</link>
+      <description>Xiaojing Liu, Qiang Fu, Xiangjian Shen, Surface Science. None(None)] 2024. https://openalex.org/W4392301768
+
+                Nickel has been widely used as heterogeneous catalysts in important reactions such as dehydrogenation and steam reforming, where the desorption of H2 molecules is one of the key steps. Herein, based on density functional theory calculations, we have simulated the temperature programmed desorption (TPD) spectra of hydrogen (H) on the Ni(100) surface using the mean-field approximation and a new H-H dimer desorption method. Zero-point energy corrections are also considered. It is found that the centered-peaks of TPD obtained from simulations are in good agreement with the previous experimental results. However, the centered-peak position moves in an opposite direction to the experiments as atomic hydrogen coverage increases. We have systematically investigated the effects of the interaction between adsorbed H atoms and the diffusion of H atoms on the peak shifts, and found that they are not responsible for the experimentally observed leftward shift of the TPD peak. We then propose and confirm that the presence of subsurface H atoms plays a key role in the leftward peak shift. This work refines the interpretation of H2 TPD spectra and contributes to the understanding of microscopic behaviors of H atoms on the Ni(100) surface.</description>
+      <author>Xiaojing Liu, Qiang Fu, Xiangjian Shen</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.susc.2024.122467</guid>
+    </item>
+    <item>
+      <title>Virtual Metrology in Semiconductor Manufacturing: Current Status and Future Prospects</title>
+      <link>https://doi.org/10.1016/j.eswa.2024.123559</link>
+      <description>Varad Maitra, Yutai Su, Jing Shi, Expert Systems with Applications. None(None)] 2024. https://openalex.org/W4392245039
+
+                Advanced Process Control (APC) has become an increasingly pressing issue for the semiconductor industry, particularly in the new era of sub-5nm process technology. To minimize human input in analyzing equipment state and output quality, Virtual Metrology (VM), one such incredibly reliable and resource-saving APC tool built on artificial intelligence and machine learning techniques, was introduced as an aide to real metrology and is aimed at predicting semiconductor product quality based on equipment status/process variables and sampled actual metrology. In this paper, VM efforts for semiconductor manufacturing applications are, for the first time, systematically reviewed. Based on comprehensive mining of literature, a generic architecture for semiconductor VM is presented, and the general requirements are discussed. Moreover, the state-of-the-art VM works for prominent processes involved in semiconductor manufacturing are surveyed, and the unique contributions of those VM predictive works are summarized and compared. Nevertheless, VM is still in its infancy stage, and there are significant hurdles that prevent wider VM implementation and acceptance in semiconductor industry. In this end, a critical analysis is provided to reveal the research gaps and discuss the challenges, such that further research can be simulated in the future. It is hoped that this work could illuminate researchers to understand the needs and future directions towards developing VM technology for semiconductor processes.</description>
+      <author>Varad Maitra, Yutai Su, Jing Shi</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.eswa.2024.123559</guid>
+    </item>
+    <item>
+      <title>Alloys innovation through machine learning: a statistical literature review</title>
+      <link>https://doi.org/10.1080/27660400.2024.2326305</link>
+      <description>Alireza Valizadeh, Ryoji Sahara, Maaouia Souissi, Science and Technology of Advanced Materials: Methods. None(None)] 2024. https://openalex.org/W4392374346
+
+                This review systematically analyzes over 200 publications to explore the growing role of data-driven methods and their potential benefits in accelerating alloy development. The review presents a comprehensive overview of different aspects of alloy innovation by machine learning and other computational approaches used in recent years. These methods harness the power of advanced simulation techniques and data analytics to expedite materials&#8217; discovery, predict properties, and optimize performance. Through analysis, significant trends and disparities within the data discerned, while highlighting previously overlooked research gaps, thus underscoring areas that require further exploration. Machine Learning techniques are widely applied across various alloys, with a pronounced emphasis on steel and High Entropy Alloys. Notably, researchers primarily investigate the physical, mechanical, and catalytic properties of materials. In terms of methodology, while 68% of the examined papers rely on a single machine learning model, the remainder employ a range of 2 to 12 models, with Neural Network being the most prevalent choice. However, a notable concern arises as 53% of these papers do not share their dataset, and a staggering 81% do not provide access to their code. Paramount importance of adopting a systematic approach when scrutinizing machine learning methodologies is underscored. Analysis shows lack of consistency and diversity in the methods employed by researchers in the field of alloy development, highlighting the potential for improvement through standardization. The critical analysis of the literature not only reveals prevailing trends and patterns but also shines a light on the inherent limitations within the traditional trial-and-error paradigm.</description>
+      <author>Alireza Valizadeh, Ryoji Sahara, Maaouia Souissi</author>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1080/27660400.2024.2326305</guid>
+    </item>
+    <item>
+      <title>Physics-Guided Dual Self-Supervised Learning for Structure-Based Material Property Prediction</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00100</link>
+      <description>Nihang Fu, Lai Wei, Jianjun Hu, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392474382
+
+                Deep learning models have been widely used for high-performance material property prediction. However, training such models usually requires a large amount of labeled data, which are usually unavailable. Self-supervised learning (SSL) methods have been proposed to address this data scarcity issue. Herein, we present DSSL, a physics-guided dual SSL framework, for graph neural network-based material property prediction, which combines node masking-based generative SSL with atomic coordinate perturbation-based contrastive SSL strategies to capture local and global information about input crystals. Moreover, we achieve physics-guided pretraining by using the macroproperty (e.g., elasticity)-related microproperty prediction of atomic stiffness as an additional pretext task. We pretrain our DSSL model on the Materials Project database and fine-tune it with 10 material property data sets. The experimental results demonstrate that teaching neural networks some physics using the SSL strategy can afford &#8804;26.89% performance improvement compared to that of the baseline models.</description>
+      <author>Nihang Fu, Lai Wei, Jianjun Hu</author>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00100</guid>
+    </item>
+  </channel>
+</rss>

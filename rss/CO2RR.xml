@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Mar 2024 00:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 19:55:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -38,6 +38,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150178</guid>
     </item>
     <item>
+      <title>Enhancing electrochemical carbon dioxide reduction efficiency through heat-induced metamorphosis of copper nanowires into copper oxide/copper nanotubes with tunable surface</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.03.007</link>
+      <description>Harshad A. Bandal, Hern Kim, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4392505152
+
+                No abstract</description>
+      <author>Harshad A. Bandal, Hern Kim</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.007</guid>
+    </item>
+    <item>
+      <title>Porous structure based on Fenton reaction-assisted chemical etching of commercial silicon powder and its application for electrocatalytic reduction of carbon dioxide</title>
+      <link>https://doi.org/10.1088/1742-6596/2713/1/012054</link>
+      <description>Junpeng Li, Zi Wang, Journal of Physics: Conference Series. 2713(1)] 2024. https://openalex.org/W4392505956
+
+                Abstract Silicon-based porous nanocomposites are considered promising as electrode materials for the photoelectrochemical reduction of carbon dioxide. However, the high cost of raw materials and tedious processing for building nanostructures may not be conducive to large-scale industrial applications in terms of cost. Herein, we would like to introduce a porous structure prepared by Fenton reaction-assisted chemical etching of low-cost commercial silicon powder in the mixed solution of hydrogen fluoride and hydrogen peroxide. These porous particles are further decorated with silver nanoparticles to explore their feasibility for photoelectrochemical reduction of carbon dioxide. As shown by experimental results, this silicon-based nanocomposite is capable of catalyzing the conversion of carbon dioxide into carbon monoxide. The low cost of commercial silicon powder (~$3000/ton) compared with that of silicon wafers also renders this method potential and feasible for large-scale production of silicon-based porous materials.</description>
+      <author>Junpeng Li, Zi Wang</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1742-6596/2713/1/012054</guid>
+    </item>
+    <item>
       <title>Photochemical catalysis of carbon dioxide reduction by iron porphyrins</title>
       <link>https://openalex.org/W4392379416</link>
       <description>Mathilde Routier, No host. None(None)] 2014. https://openalex.org/W4392379416
@@ -56,6 +76,16 @@
       <author>Yang Li, Yanan Yang, Yiming Zhou, Xiaoying Shi</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.141483</guid>
+    </item>
+    <item>
+      <title>Development and Experimental Validation of 3D Computational Fluid Dynamic Model for Carbon Dioxide Reduction Electrolytic Cell</title>
+      <link>https://doi.org/10.1109/acfpe59335.2023.10455453</link>
+      <description>Shuyu Zhu, Fengxiang Ma, Yunfeng Zhao, Jian Cao, Yu&#8208;Mei Song, Taotao Zhou, Xianwen Zhang, No host. None(None)] 2023. https://openalex.org/W4392502438
+
+                No abstract</description>
+      <author>Shuyu Zhu, Fengxiang Ma, Yunfeng Zhao, Jian Cao, Yu&#8208;Mei Song, Taotao Zhou, Xianwen Zhang</author>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1109/acfpe59335.2023.10455453</guid>
     </item>
     <item>
       <title>Electrolyte engineering for electrochemical CO2 reduction</title>
@@ -108,6 +138,16 @@
       <guid isPermaLink="true">https://doi.org/10.1088/978-0-7503-5719-7ch6</guid>
     </item>
     <item>
+      <title>Advancements in electrochemical CO2 reduction reaction: A review on CO2 mass transport enhancement strategies</title>
+      <link>https://doi.org/10.1016/j.cej.2024.150169</link>
+      <description>Zhenhong Yuan, Ke Wang, Zheng Shi, Xiuwen Cheng, Yi He, Qin Wei, Xing Hong Zhang, Haixing Chang, Nianbing Zhong, Xuefeng He, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392380153
+
+                The imperative to address climate change and CO2 emissions has elicited substantial interest in the field of electrochemical CO2 reduction reaction (eCO2RR) as an avenue to both environmental sustainability and the production of value-added fuels. However, the selectivity and efficiency of eCO2RR remain below the industrial requirement for its implementation at high current density. One pivotal strategy to ameliorate this deficiency involves augmenting the mass transport of CO2 to electrode, thereby alleviating the competing hydrogen evolution reaction and consequently enhancing eCO2RR performance. Herein, we primarily discuss the CO2 mass transport enhancement strategies through electrode and electrolyzer designs, as well as electrolysis conditions. The electrode designs are first presented, including wettability regulation, porous substrates construction, catalyst layer and gas diffusion layer designs. Then, we highlight state-of-the-art electrolyzer designs, including the bipolar membrane structure, interdigitated flow field and in-situ exsolution of CO2 structure. The electrolyzer based gas&#8211;liquid Taylor flow is also introduced. Following this, we delve into the impact of various electrolysis conditions, encompassing the electrolyte, electrolysis potentials, CO2 pressure, CO2 flow rate and reaction temperature. Finally, we conclude this review by delineating persisting challenges and potential solutions aimed at advancing CO2 mass transport for the industrial implementation of eCO2RR technology.</description>
+      <author>Zhenhong Yuan, Ke Wang, Zheng Shi, Xiuwen Cheng, Yi He, Qin Wei, Xing Hong Zhang, Haixing Chang, Nianbing Zhong, Xuefeng He</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150169</guid>
+    </item>
+    <item>
       <title>Molybdenum diimine tetracarbonyl complexes for the Electrocatalytic reduction of CO2</title>
       <link>https://openalex.org/W4392286505</link>
       <description>Carlos Garcia Bellido, No host. None(None)] 2021. https://openalex.org/W4392286505
@@ -118,14 +158,14 @@
       <guid isPermaLink="true">https://openalex.org/W4392286505</guid>
     </item>
     <item>
-      <title>Advancements in electrochemical CO2 reduction reaction: A review on CO2 mass transport enhancement strategies</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150169</link>
-      <description>Zhenhong Yuan, Ke Wang, Zheng Shi, Xiuwen Cheng, Yi He, Qin Wei, Xing Hong Zhang, Haixing Chang, Nianbing Zhong, Xuefeng He, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392380153
+      <title>Carbon dioxide reduction in solid oxide electrolyzer cells utilizing nickel bimetallic alloys infiltrated into Gd0.1Ce0.9O1.95 (GDC10) scaffolds</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144052</link>
+      <description>Ahmad Abu Hajer, Damilola A. Daramola, Jason Trembly, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4392499157
 
-                The imperative to address climate change and CO2 emissions has elicited substantial interest in the field of electrochemical CO2 reduction reaction (eCO2RR) as an avenue to both environmental sustainability and the production of value-added fuels. However, the selectivity and efficiency of eCO2RR remain below the industrial requirement for its implementation at high current density. One pivotal strategy to ameliorate this deficiency involves augmenting the mass transport of CO2 to electrode, thereby alleviating the competing hydrogen evolution reaction and consequently enhancing eCO2RR performance. Herein, we primarily discuss the CO2 mass transport enhancement strategies through electrode and electrolyzer designs, as well as electrolysis conditions. The electrode designs are first presented, including wettability regulation, porous substrates construction, catalyst layer and gas diffusion layer designs. Then, we highlight state-of-the-art electrolyzer designs, including the bipolar membrane structure, interdigitated flow field and in-situ exsolution of CO2 structure. The electrolyzer based gas&#8211;liquid Taylor flow is also introduced. Following this, we delve into the impact of various electrolysis conditions, encompassing the electrolyte, electrolysis potentials, CO2 pressure, CO2 flow rate and reaction temperature. Finally, we conclude this review by delineating persisting challenges and potential solutions aimed at advancing CO2 mass transport for the industrial implementation of eCO2RR technology.</description>
-      <author>Zhenhong Yuan, Ke Wang, Zheng Shi, Xiuwen Cheng, Yi He, Qin Wei, Xing Hong Zhang, Haixing Chang, Nianbing Zhong, Xuefeng He</author>
+                No abstract</description>
+      <author>Ahmad Abu Hajer, Damilola A. Daramola, Jason Trembly</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150169</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144052</guid>
     </item>
     <item>
       <title>New trends in the development of CO2 electrochemical reduction electrolyzer</title>
@@ -210,10 +250,10 @@
     <item>
       <title>Surface reconstruction of Cu-based bimetallic catalysts for electrochemical CO2 reduction</title>
       <link>https://doi.org/10.1016/j.cjsc.2024.100255</link>
-      <description>Yufei Jia, F&#275;i Li, Ke Fan, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4392350793
+      <description>Yufei Jia, F&#277;i Li, Ke Fan, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4392350793
 
                 No abstract</description>
-      <author>Yufei Jia, F&#275;i Li, Ke Fan</author>
+      <author>Yufei Jia, F&#277;i Li, Ke Fan</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100255</guid>
     </item>
@@ -226,46 +266,6 @@
       <author>Feng-xia Shen, Shuai Wu, Pengchong Zhao, Yunfei Li, Shu Miao, Jianxiong Liu, David Ostheimer, Thomas Hannappel, Tian-You Chen, Jiangtao Shi</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144056</guid>
-    </item>
-    <item>
-      <title>Ionic liquids&#8217;s Co-catalytic Effect on Electrochemical CO2 Reduction Mediated by Model Molecular Catalysts</title>
-      <link>https://openalex.org/W4392440137</link>
-      <description>Elli Vichou, Yun Xu-Li, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Carlos M. S&#225;nchez&#8208;S&#225;nchez, No host. None(None)] 2021. https://openalex.org/W4392440137
-
-                No abstract</description>
-      <author>Elli Vichou, Yun Xu-Li, Mar&#237;a G&#243;mez-Mingot, Marc Fontecave, Carlos M. S&#225;nchez&#8208;S&#225;nchez</author>
-      <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392440137</guid>
-    </item>
-    <item>
-      <title>CO2 photoelectrochemical reduction in room-temperature ionic liquids-based media evaluated by Scanning Electrochemical Microscopy</title>
-      <link>https://openalex.org/W4392440773</link>
-      <description>Lin Zhang, Vincent Vivier, Carlos M. S&#225;nchez&#8208;S&#225;nchez, No host. None(None)] 2019. https://openalex.org/W4392440773
-
-                No abstract</description>
-      <author>Lin Zhang, Vincent Vivier, Carlos M. S&#225;nchez&#8208;S&#225;nchez</author>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392440773</guid>
-    </item>
-    <item>
-      <title>Biological bromate reduction coupled with in situ gas fermentation in H2/CO2-based membrane biofilm reactor</title>
-      <link>https://doi.org/10.1016/j.watres.2024.121402</link>
-      <description>Zhiqiang Zuo, Chenkai Niu, Xinyu Zhao, Chun-Yu Lai, Min Zheng, Jianhua Guo, Shihu Hu, Tao Liu, Water Research. None(None)] 2024. https://openalex.org/W4392302175
-
-                Bromate, a carcinogenic contaminant generated in water disinfection, presents a pressing environmental concern. While biological bromate reduction is an effective remediation approach, its implementation often necessitates the addition of organics, incurring high operational costs. This study demonstrated the efficient biological bromate reduction using H2/CO2 mixture as the feedstock. A membrane biofilm reactor (MBfR) was used for the efficient delivery of gases. Long-term reactor operation showed a high-level bromate removal efficiency of above 95%, yielding harmless bromide as the final product. Corresponding to the short hydraulic retention time of 0.25 d, a high bromate removal rate of 4 mg Br/L/d was achieved. During the long-term operation, in situ production of volatile fatty acids (VFAs) by gas fermentation was observed, which can be regulated by controlling the gas flow. Three sets of in situ batch tests and two groups of ex situ batch tests jointly unravelled the mechanisms underpinning the efficient bromate removal, showing that the microbial bromate reduction was primarily driven by the VFAs produced from in situ gas fermentation. Microbial community analysis showed an increased abundance of Bacteroidota group from 4.0% to 18.5%, which is capable of performing syngas fermentation, and the presence of heterotrophic denitrifiers (e.g., Thauera and Brachymonas), which are known to perform bromate reduction. Together these results for the first time demonstrated the feasibility of using H2/CO2 mixture for bromate removal coupled with in situ VFAs production. The findings can facilitate the development of cost-effective strategies for groundwater and drinking water remediation.</description>
-      <author>Zhiqiang Zuo, Chenkai Niu, Xinyu Zhao, Chun-Yu Lai, Min Zheng, Jianhua Guo, Shihu Hu, Tao Liu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.watres.2024.121402</guid>
-    </item>
-    <item>
-      <title>Magnetic fields promote electrocatalytic CO2 reduction via subtle modulations of magnetic moments and molecular bonding</title>
-      <link>https://doi.org/10.1016/j.eehl.2024.02.003</link>
-      <description>Shilin Wei, Weiqi Liu, Peiyao Bai, Chuangchuang Yang, Xiao Kong, Lang Xu, Eco-environment &amp; health. None(None)] 2024. https://openalex.org/W4392301873
-
-                Introducing a magnetic-field gradient into an electrically driven chemical reaction is expected to give rise to intriguing research possibilities. In this work, we elaborate on the modes and mechanisms of electrocatalytic activity (from the perspective of alignment of magnetic moments) and selectivity (at the molecular level) for the CO2 reduction reaction in response to external magnetic fields. We establish a positive correlation between magnetic field strengths and apparent current densities. This correlation can be rationalized by the formation of longer-range ordering of magnetic moments and the resulting decrease in the scattering of conduction electrons and charge-transfer resistances as the field strength increases. Furthermore, aided by the magnetic-field-equipped operando infrared spectroscopy, we find that applied magnetic fields are capable of weakening the C&#8211;O bond strength of the key intermediate *COOH and elongating the C&#8211;O bond length, thereby increasing the faradaic efficiency for the electroreduction of CO2 to CO.</description>
-      <author>Shilin Wei, Weiqi Liu, Peiyao Bai, Chuangchuang Yang, Xiao Kong, Lang Xu</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.eehl.2024.02.003</guid>
     </item>
   </channel>
 </rss>

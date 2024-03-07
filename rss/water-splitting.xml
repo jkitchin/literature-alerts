@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Mar 2024 00:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 19:55:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -328,6 +328,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.078</guid>
     </item>
     <item>
+      <title>Localized electronic reconfiguration at CoNi-BTC-MOFs to accelerate oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104165</link>
+      <description>Yichen Liu, Yaqi Liu, Guangsheng Luo, Zhuangzhuang Xu, Xuhao Sun, Yuan Zhu, Shuyi Wu, Lizhe Liu, Yun Shan, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4392504053
+
+                No abstract</description>
+      <author>Yichen Liu, Yaqi Liu, Guangsheng Luo, Zhuangzhuang Xu, Xuhao Sun, Yuan Zhu, Shuyi Wu, Lizhe Liu, Yun Shan</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104165</guid>
+    </item>
+    <item>
+      <title>Oxygen vacancy and heterointerface engineering of Ni3Fe/NiFe2O4@N-GTs oxygen evolution reaction electrocatalyst for water splitting</title>
+      <link>https://doi.org/10.1016/j.diamond.2024.110999</link>
+      <description>Jiachen Zou, Guanying Song, Ajuan Cui, Zhenjiang Li, Diamond and Related Materials. None(None)] 2024. https://openalex.org/W4392507871
+
+                Developing highly efficient electrocatalysts for oxygen evolution reaction (OER) plays a key role in accelerating electrochemical water splitting green energy conversion systems. Herein, the dual strategy of incorporating oxygen vacancy and engineering heterointerface was employed for constructing N-doping graphene tubes (N-GTs) supported Ni3Fe/NiFe2O4 heterostructure with abundant oxygen vacancies (Ni3Fe/NiFe2O4 @N-GTs). Benefit from accelerating reaction kinetics and optimizing adsorption strength for reaction intermediates resulting from the synergistic effect of vacancies introduction and heterointerface formation, the optimized Ni3Fe/NiFe2O4 @N-GTs catalyst exhibits remarkably enhanced OER performance with an overpotential of 230 mV to achieve a current density of 10 mA cm&#8722;2, a low Tafel slope of 33 mV dec&#8722;1 and 330 h stability at the high current density of 100 mA cm&#8722;2. Meanwhile, the full water splitting cell consisting of the Ni3Fe/NiFe2O4 @N-GTs-350 anode and a Pt/C cathode delivers a low cell voltage of 1.58 V at 10 mA cm&#8722;2 and presents excellent durability for over 330 h of continuous operation at the current density of 10 mA cm&#8722;2, demonstrating it promising electrocatalyst for potential applications in the hydrogen production field.</description>
+      <author>Jiachen Zou, Guanying Song, Ajuan Cui, Zhenjiang Li</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110999</guid>
+    </item>
+    <item>
       <title>A Coordination&#8208;Derived Cerium&#8208;Based Amorphous&#8211;Crystalline Heterostructure with High Electrocatalytic Oxygen Evolution Activity</title>
       <link>https://doi.org/10.1002/smll.202311505</link>
       <description>Haiyan An, Xijiao Mu, Guoying Tan, Pingru Su, Liangliang Liu, Nan Song, Shi&#8208;Qiang Bai, Chun&#8208;Hua Yan, Yu Tang, Small. None(None)] 2024. https://openalex.org/W4392401653
@@ -406,26 +426,6 @@
       <author>Jong&#8208;Hwan Park, Hyun Jun Kwon, Da Young Lee, Su&#8208;Jeong Suh</author>
       <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202400046</guid>
-    </item>
-    <item>
-      <title>High-entropy oxide (Mg0.2Fe0.2Co0.2Cu0.2Zn0.2)O with rocksalt-to-spinel transformation and its electrocatalytic activity for the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.174029</link>
-      <description>Daehyeon Hong, Yun-Hyuk Choi, Journal of Alloys and Compounds. 985(None)] 2024. https://openalex.org/W4392388335
-
-                Since the recent application of the concept of high entropy to multicomponent oxide systems, there has been an active pursuit of fabricating high-entropy oxides (HEOs) and exploring their applications across various fields. Given the relatively recent discovery of this novel material system, additional studies are necessary to enhance our understanding of structures and properties in a broader range of compositions. In this study, a rocksalt HEO with a novel composition, (Mg0.2Fe0.2Co0.2Cu0.2Zn0.2)O, is prepared through solid-state reactions at various calcination temperatures within the range of 1000&#8211;1400 &#176;C. The formation of single-phased rocksalt solid solutions is observed under low-temperature calcination, while a spinel-related metastable phase and a spinel phase separate from the rocksalt phase during calcination at 1300 &#176;C and 1400 &#176;C, respectively. These rocksalt-to-spinel structural transformations (i.e., phase separations), depending on calcination temperature, are carefully characterized using scanning transmission electron microscopy (STEM) and energy-dispersive spectroscopy (EDS) mapping techniques. Subsequently, it is discovered that the microstructure in the HEO significantly influences the kinetics of the electrocatalytic oxygen evolution reaction (OER) in alkaline water oxidation. These findings offer valuable insights into the structural phase transformation and the structure&#8211;activity relationship within HEO systems.</description>
-      <author>Daehyeon Hong, Yun-Hyuk Choi</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174029</guid>
-    </item>
-    <item>
-      <title>Fabrication and characterization of Nickel-coated 3D printed electrodes for enhanced oxygen evolution reaction in acidic media at various temperatures</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.131172</link>
-      <description>Bulut H&#252;ner, Nesrin Dem&#239;r, Mehmet Fatih Kaya, Fuel. 366(None)] 2024. https://openalex.org/W4392438953
-
-                Additive manufacturing (AM), often referred to as 3D printing, is a new technology that allows objects to be created by adding layer by layer, as opposed to traditional manufacturing processes. Therefore, the rapid and cost-effective AM method can facilitate research and development efforts in the field of electrochemistry. In this study, oxygen evolution reaction (OER) electrodes are fabricated by a 3D printing technique utilizing carbon-based (PP filament) and graphene-based PLA filaments (BM filament). Electrodes are then coated with Ni by electrochemical deposition method at different temperatures. Electrochemical analysis of Ni coated PP and BM electrodes is made in acidic environments (0.5 M H2SO4) using different characterization techniques. The results indicate that PP/Ni-50 and BM/Ni-50 electrodes have the highest catalytic activity for OER in acidic media. PP/Ni-50 and BM/Ni-50 electrodes exhibited a superior double layer (Cdl) value than other Ni coated 3D printed electrode samples, and their active surface areas are calculated as 0.201 cm2 and 0.286 cm2, respectively. A larger active surface area leads to an increase in the number of active sites, causing the OER process to be more effective. Consequently, increasing the active surface area of electrode samples is crucial for improving the efficiency and effectiveness of the Oxygen Evolution Reaction (OER) process, especially in the context of renewable energy and sustainable technology applications.</description>
-      <author>Bulut H&#252;ner, Nesrin Dem&#239;r, Mehmet Fatih Kaya</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131172</guid>
     </item>
   </channel>
 </rss>

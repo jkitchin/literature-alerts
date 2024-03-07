@@ -1,6 +1,6 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Thu Mar  7 00:35:35 2024
+Created on Thu Mar  7 19:55:00 2024
 
 Found 42 results from 2024-02-29 to 2024-03-07
 OpenAlex URLS (not including from_created_date or the API key)
@@ -679,6 +679,48 @@ Modulating the morphological structure and establishing heterogeneous interface 
 
     
 
+* Localized electronic reconfiguration at CoNi-BTC-MOFs to accelerate oxygen evolution reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392504053
+:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.surfin.2024.104165")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392504053"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392504053"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392504053"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392504053 (Open access: False)
+    
+[[https://openalex.org/A5002810182][Yichen Liu]], [[https://openalex.org/A5048050043][Yaqi Liu]], [[https://openalex.org/A5064617721][Guangsheng Luo]], [[https://openalex.org/A5052125778][Zhuangzhuang Xu]], [[https://openalex.org/A5072662689][Xuhao Sun]], [[https://openalex.org/A5027099050][Yuan Zhu]], [[https://openalex.org/A5084364619][Shuyi Wu]], [[https://openalex.org/A5085696768][Lizhe Liu]], [[https://openalex.org/A5068054525][Yun Shan]], Surfaces and Interfaces. None(None)] 2024. https://doi.org/10.1016/j.surfin.2024.104165 
+     
+No abstract    
+
+    
+
+* Oxygen vacancy and heterointerface engineering of Ni3Fe/NiFe2O4@N-GTs oxygen evolution reaction electrocatalyst for water splitting  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392507871
+:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.diamond.2024.110999")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392507871"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392507871"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392507871"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392507871 (Open access: False)
+    
+[[https://openalex.org/A5038689948][Jiachen Zou]], [[https://openalex.org/A5065496242][Guanying Song]], [[https://openalex.org/A5041870560][Ajuan Cui]], [[https://openalex.org/A5082704360][Zhenjiang Li]], Diamond and Related Materials. None(None)] 2024. https://doi.org/10.1016/j.diamond.2024.110999 
+     
+Developing highly efficient electrocatalysts for oxygen evolution reaction (OER) plays a key role in accelerating electrochemical water splitting green energy conversion systems. Herein, the dual strategy of incorporating oxygen vacancy and engineering heterointerface was employed for constructing N-doping graphene tubes (N-GTs) supported Ni3Fe/NiFe2O4 heterostructure with abundant oxygen vacancies (Ni3Fe/NiFe2O4 @N-GTs). Benefit from accelerating reaction kinetics and optimizing adsorption strength for reaction intermediates resulting from the synergistic effect of vacancies introduction and heterointerface formation, the optimized Ni3Fe/NiFe2O4 @N-GTs catalyst exhibits remarkably enhanced OER performance with an overpotential of 230 mV to achieve a current density of 10 mA cm−2, a low Tafel slope of 33 mV dec−1 and 330 h stability at the high current density of 100 mA cm−2. Meanwhile, the full water splitting cell consisting of the Ni3Fe/NiFe2O4 @N-GTs-350 anode and a Pt/C cathode delivers a low cell voltage of 1.58 V at 10 mA cm−2 and presents excellent durability for over 330 h of continuous operation at the current density of 10 mA cm−2, demonstrating it promising electrocatalyst for potential applications in the hydrogen production field.    
+
+    
+
 * A Coordination‐Derived Cerium‐Based Amorphous–Crystalline Heterostructure with High Electrocatalytic Oxygen Evolution Activity  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392401653
@@ -844,47 +886,5 @@ OpenAlex: https://openalex.org/W4392472905 (Open access: False)
 [[https://openalex.org/A5069252580][Jong‐Hwan Park]], [[https://openalex.org/A5008074780][Hyun Jun Kwon]], [[https://openalex.org/A5043690102][Da Young Lee]], [[https://openalex.org/A5047362137][Su‐Jeong Suh]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202400046 
      
 Abstract The development of cost‐effective and high‐performance oxygen evolution reaction (OER) catalysts is a significant challenge. This study presents the synthesis of binder‐free NiFe@NiFe layered double hydroxide (NNF) via one‐pot electrodeposition on carbon paper and Ni foam at high current densities. The presence of Ni sulfate residues on the prepared NNF is also investigated. The findings indicate that Ni sulfate significantly improves OER performance and durability. The sulfate content can be controlled by varying the method and duration of washing. NNF prepared through dipping (NNF‐D) exhibits outstanding OER activity with a low overpotential of 241 mV, which is 25 mV lower than that of NNF washed for 60 s (NNF‐W‐60 s) at 10 mA cm −2 in 1 m KOH. Furthermore, density functional theory analyses indicate that the Ni sulfate residue helps modify the electronic structure, thereby optimizing the binding strength of *OOH. This synthetic strategy is expected to inspire the development of next‐generation catalysts utilizing various adsorbates.    
-
-    
-
-* High-entropy oxide (Mg0.2Fe0.2Co0.2Cu0.2Zn0.2)O with rocksalt-to-spinel transformation and its electrocatalytic activity for the oxygen evolution reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392388335
-:TOPICS: High-Entropy Alloys: Novel Designs and Properties, Electrocatalysis for Energy Conversion, Thermal Barrier Coatings for Gas Turbines
-:PUBLICATION_DATE: 2024-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.174029")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392388335"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392388335"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392388335"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392388335 (Open access: False)
-    
-[[https://openalex.org/A5069966623][Daehyeon Hong]], [[https://openalex.org/A5004247415][Yun-Hyuk Choi]], Journal of Alloys and Compounds. 985(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.174029 
-     
-Since the recent application of the concept of high entropy to multicomponent oxide systems, there has been an active pursuit of fabricating high-entropy oxides (HEOs) and exploring their applications across various fields. Given the relatively recent discovery of this novel material system, additional studies are necessary to enhance our understanding of structures and properties in a broader range of compositions. In this study, a rocksalt HEO with a novel composition, (Mg0.2Fe0.2Co0.2Cu0.2Zn0.2)O, is prepared through solid-state reactions at various calcination temperatures within the range of 1000–1400 °C. The formation of single-phased rocksalt solid solutions is observed under low-temperature calcination, while a spinel-related metastable phase and a spinel phase separate from the rocksalt phase during calcination at 1300 °C and 1400 °C, respectively. These rocksalt-to-spinel structural transformations (i.e., phase separations), depending on calcination temperature, are carefully characterized using scanning transmission electron microscopy (STEM) and energy-dispersive spectroscopy (EDS) mapping techniques. Subsequently, it is discovered that the microstructure in the HEO significantly influences the kinetics of the electrocatalytic oxygen evolution reaction (OER) in alkaline water oxidation. These findings offer valuable insights into the structural phase transformation and the structure–activity relationship within HEO systems.    
-
-    
-
-* Fabrication and characterization of Nickel-coated 3D printed electrodes for enhanced oxygen evolution reaction in acidic media at various temperatures  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392438953
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.131172")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392438953"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392438953"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392438953"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392438953 (Open access: False)
-    
-[[https://openalex.org/A5082448730][Bulut Hüner]], [[https://openalex.org/A5055475408][Nesrin Demïr]], [[https://openalex.org/A5029117505][Mehmet Fatih Kaya]], Fuel. 366(None)] 2024. https://doi.org/10.1016/j.fuel.2024.131172 
-     
-Additive manufacturing (AM), often referred to as 3D printing, is a new technology that allows objects to be created by adding layer by layer, as opposed to traditional manufacturing processes. Therefore, the rapid and cost-effective AM method can facilitate research and development efforts in the field of electrochemistry. In this study, oxygen evolution reaction (OER) electrodes are fabricated by a 3D printing technique utilizing carbon-based (PP filament) and graphene-based PLA filaments (BM filament). Electrodes are then coated with Ni by electrochemical deposition method at different temperatures. Electrochemical analysis of Ni coated PP and BM electrodes is made in acidic environments (0.5 M H2SO4) using different characterization techniques. The results indicate that PP/Ni-50 and BM/Ni-50 electrodes have the highest catalytic activity for OER in acidic media. PP/Ni-50 and BM/Ni-50 electrodes exhibited a superior double layer (Cdl) value than other Ni coated 3D printed electrode samples, and their active surface areas are calculated as 0.201 cm2 and 0.286 cm2, respectively. A larger active surface area leads to an increase in the number of active sites, causing the OER process to be more effective. Consequently, increasing the active surface area of electrode samples is crucial for improving the efficiency and effectiveness of the Oxygen Evolution Reaction (OER) process, especially in the context of renewable energy and sustainable technology applications.    
 
     
