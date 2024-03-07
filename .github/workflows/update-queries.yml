@@ -5,9 +5,7 @@
 on:
   workflow_dispatch:
   schedule:
-#    - cron: '59 23 * * SUN' # weekly sunday night
-    - cron: '59 23 * * *'  # daily at 11:59pm
-#    - cron: '0 * * * *'
+    - cron: '0 0 1 * *'  # monthly
       
 jobs:
 
@@ -25,13 +23,11 @@ jobs:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-            litalerts -s 7
-            litalerts -s 7 -f my-citations.yaml
-            litalerts -s 7 -f my-related.yaml
+            python generate-my-queries.py
             git config --global user.email "jkitchin@andrew.cmu.edu"
             git config --global user.name "John Kitchin"            
-            git add rss org md
-            git commit rss org md -m "adding new results"            
+            git add my-related.yaml my-citations.yaml
+            git commit rss org md -m "Updated citing and related filters"            
             git push
           
           
