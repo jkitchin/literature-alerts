@@ -7,6 +7,7 @@ Run this periodically (monthly or so) to update it with new papers.
 import requests
 import yaml
 import os
+import time
 
 # First get my works api url.
 req = requests.get("https://api.openalex.org/authors/https://openalex.org/A5003442464",
@@ -43,6 +44,7 @@ while works:
 # create the dictionary for the query and write it out    
 query1 = {'queries': [{'label': 'Papers that cite my papers',
                       'description': 'Citations to my papers',
+                      'created': time.asctime(),
                       'filter': cites}]}
 
 with open('my-citations.yaml', 'w') as f:
@@ -50,8 +52,9 @@ with open('my-citations.yaml', 'w') as f:
 
 # create the dictionary for the query and write it out    
 query2 = {'queries': [{'label': 'Related papers to my work',
-                      'description': 'Related papers to my papers',
-                      'filter': related_to}]}
+                       'created': time.asctime(),
+                       'description': 'Related papers to my papers',
+                       'filter': related_to}]}
 
 with open('my-related.yaml', 'w') as f:
     f.write(yaml.dump(query2))
