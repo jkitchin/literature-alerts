@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Mar 2024 19:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:43:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -56,6 +56,16 @@
       <author>Junpeng Li, Zi Wang</author>
       <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/1742-6596/2713/1/012054</guid>
+    </item>
+    <item>
+      <title>A review of constraints and adjustable parameters in microgrids for cost and carbon dioxide emission reduction</title>
+      <link>https://doi.org/10.1016/j.heliyon.2024.e27489</link>
+      <description>Mohammed Amine Hoummadi, Hala Alami Aroussi, Badre Bossoufi, Mohammed Karim, Saleh Mobayen, Anton Zhilenkov, Thamer A. H. Alghamdi, Heliyon. None(None)] 2024. https://openalex.org/W4392520445
+
+                No abstract</description>
+      <author>Mohammed Amine Hoummadi, Hala Alami Aroussi, Badre Bossoufi, Mohammed Karim, Saleh Mobayen, Anton Zhilenkov, Thamer A. H. Alghamdi</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e27489</guid>
     </item>
     <item>
       <title>Photochemical catalysis of carbon dioxide reduction by iron porphyrins</title>
@@ -188,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.023</guid>
     </item>
     <item>
+      <title>Introduction of sulfur in Bi2O3 to boost water activation for enhancing the reduction of CO2 to formate</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2024.234298</link>
+      <description>Qiuyu Zheng, Sheng Luan, Yun Feng, Shi&#8208;Wen Lv, Yi Zhang, Yanqing Cong, Journal of Power Sources. 601(None)] 2024. https://openalex.org/W4392528082
+
+                The reduction of carbon dioxide to produce valuable chemicals offers a sustainable approach towards achieving carbon neutralization. However, the electrochemical carbon dioxide reduction (ECO2RR) using clean electricity faces challenges in terms of high product faradaic efficiency (FE), current density, and stability. In this study, we prepared a S&#8211;Bi2O3 nanosheets (NS) catalyst through in-situ structural reconstruction. The S&#8211;Bi2O3 NS catalyst exhibited a peak formate FE of 92.05 % at &#8722;0.9 V and a high formate formation rate of 497.80 &#956;mol h&#8722;1 cm&#8722;2 at &#8722;1.3 V. The significant improvement in selectivity and activity is attributed to the sulfur modification on Bi2O3 NS catalyst. The sulfur doping enhances the dissociation of water into H* species, facilitating the formation of HCOO* intermediate and promoting formate production. This work presents a simple and effective strategy for developing highly selective Bi-based electrocatalysts for efficient formate production.</description>
+      <author>Qiuyu Zheng, Sheng Luan, Yun Feng, Shi&#8208;Wen Lv, Yi Zhang, Yanqing Cong</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234298</guid>
+    </item>
+    <item>
       <title>Mechanism of surface oxygen-containing species promoted electrocatalytic CO2 reduction</title>
       <link>https://doi.org/10.1016/j.scib.2024.03.012</link>
       <description>Zhanzhao Fu, Yixin Ouyang, Mingliang Wu, Chongyi Ling, Jinlan Wang, Science Bulletin. None(None)] 2024. https://openalex.org/W4392455306
@@ -238,34 +258,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150098</guid>
     </item>
     <item>
-      <title>Computational screening of silver-based single-atom alloys catalysts for CO2 reduction</title>
-      <link>https://doi.org/10.1063/5.0192055</link>
-      <description>Marionir M. C. B. Neto, Lucas G. Verga, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o, The Journal of Chemical Physics. 160(9)] 2024. https://openalex.org/W4392380728
+      <title>Electrocatalytic CO2 Reduction on Amorphous Cu Surfaces: Unveiling Structure-Activity Relationships</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-bxqmn</link>
+      <description>Akshayini Muthuperiyanayagam, Devis Di Tommaso, No host. None(None)] 2024. https://openalex.org/W4392515813
 
-                Electrocatalytically reducing CO2 into value-added products is a challenging but promising process. Catalysts have been proposed to reduce the potential necessary for the reaction to occur, among which single-atom alloys (SAAs) are particularly promising. Here, we employ density functional theory calculations and the computational electrode model to predict whether silver-based SAAs have the potential to be effective electrocatalysts to convert CO2 into C1 products. We take into account surface defects by using the Ag(211) surface as a model. We also verify whether the proposed materials are prone to OH poisoning or enhance the competing hydrogen evolution reaction. Our calculations predict that these materials show weak mixing between the host and the dopant, characterized by a sharp peak in the density of states near the Fermi energy, except when copper (also a coinage metal) is used as the dopant. This affects the adsorption energy of the different intermediate molecules, yielding different reaction profiles for each substrate. As non-doped silver, copper-doped SAA tends to spontaneously desorb carbon monoxide (CO) instead of proceeding with its reduction. Other elements of the fourth period (Fe, Co, and Ni) tend to bind to the CO molecule but do not favor more reduced products. These metals also tend to enhance the hydrogen evolution reaction. On the contrary, we show that the Ir and Rh dopants have significant potential as electrocatalysts, which favors the reduction of CO over its desorption while also suppressing the hydrogen evolution reaction at potentials lower than those required by copper. They have also been shown to not be prone to poisoning by OH radicals.</description>
-      <author>Marionir M. C. B. Neto, Lucas G. Verga, Juarez L. F. Da Silva, Breno R. L. Galv&#227;o</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0192055</guid>
-    </item>
-    <item>
-      <title>Surface reconstruction of Cu-based bimetallic catalysts for electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.cjsc.2024.100255</link>
-      <description>Yufei Jia, F&#277;i Li, Ke Fan, Chinese Journal of Structural Chemistry. None(None)] 2024. https://openalex.org/W4392350793
-
-                No abstract</description>
-      <author>Yufei Jia, F&#277;i Li, Ke Fan</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100255</guid>
-    </item>
-    <item>
-      <title>Bipolar Membrane Electrolyzer for CO2 Electro-Reduction to CO in Organic Electrolyte with NaClO Produced as Byproduct</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144056</link>
-      <description>Feng-xia Shen, Shuai Wu, Pengchong Zhao, Yunfei Li, Shu Miao, Jianxiong Liu, David Ostheimer, Thomas Hannappel, Tian-You Chen, Jiangtao Shi, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4392370140
-
-                A novel electrolyzer has been proposed for CO2 reduction to CO, concurrently generating NaClO as a byproduct at the anode. The cell is divided into two compartments by a bipolar membrane, which plays a pivotal role in the dissociation of H2O into H+ and OH&#8722;. In the cathode compartment, CO2 is reduced to CO within a neutral organic solution. Simultaneously, in the anode compartment, Cl&#8722; undergoes oxidation to form ClO&#8722; within a basic aqueous solution. The electrolyzer remains stable during 10 hours of electrolysis, and the current density reaches 76.35 mA cm&#8722;2 at a potential of -2.4 V (vs SHE), with the Faradaic efficiency of CO formation stable at 93%. By increasing the product values, CO2 electro-reduction technology can be promoted to industrial applications.</description>
-      <author>Feng-xia Shen, Shuai Wu, Pengchong Zhao, Yunfei Li, Shu Miao, Jianxiong Liu, David Ostheimer, Thomas Hannappel, Tian-You Chen, Jiangtao Shi</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144056</guid>
+                We present a computational investigation combining machine learning forcefields (ML-FF) and DFT calculations into the potential of amorphous copper (Cu) surfaces towards electrochemical CO2 reduction (eCO2R) to one-carbon (C1) and two-carbon (C2) products. The &#8220;on-the-fly&#8221; ML-FF developed for Cu replicate DFT energies and structures, offering a computationally efficient tool for simulating amorphous Cu systems. These ML-FFs were used to generate atomistic amorphous models of bulk and surfaces, and the amorphous bulk Cu exhibited slightly higher stability than crystalline Cu. The amorphous Cu surface provide a wider range of Cu coordination sites (5-9) compared to crystalline Cu, which offered a multitude of active centres for CO2 adsorption. Some of the amorphous surfaces investigated in this study spontaneously activated CO2, evidenced by the stable chemisorption, highlighting their potential for efficient CO2 conversion. The intermediates formed during the eCO2R on amorphous Cu surfaces are stabilized compared to crystalline surfaces, leading to a lower overpotentials, and improved faradaic efficiency. This study demonstrates for the first time theoretically, the potential of amorphous Cu-based catalysts towards sustainable CO2 conversion and paves the way for further research and development in this promising field.</description>
+      <author>Akshayini Muthuperiyanayagam, Devis Di Tommaso</author>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-bxqmn</guid>
     </item>
   </channel>
 </rss>

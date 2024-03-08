@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 07 Mar 2024 19:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 00:43:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -140,10 +140,10 @@
     <item>
       <title>Heterostructures by Templated Synthesis of Layered Double Hydroxide to Modulate the Electronic Structure of Nickel Sites for a Highly Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/smsc.202300294</link>
-      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
+      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
 
                 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni&#8208;based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe&#8208;LDH, are prepared by an LDH&#8208;based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe&#8208;LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni&#8208;active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe&#8208;LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm &#8722;2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.</description>
-      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante</author>
+      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante</author>
       <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smsc.202300294</guid>
     </item>
@@ -258,6 +258,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202401506</guid>
     </item>
     <item>
+      <title>Circumventing the Theoretical Scaling Relation Limit for the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00201</link>
+      <description>Peijia Ding, Yufeng Xue, Ziwei Chai, Qi Hu, Chuan&#8208;Jia Tong, Gilberto Teobaldi, Li Min Liu, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392519273
+
+                Transition metal hydr(oxy)oxides (TMHs) are considered efficient electrocatalysts for the oxygen evolution reaction (OER) under alkaline conditions. Toward identification of potential descriptors to circumvent the scaling relation limit for the OER, first-principles calculations were used to quantify the effects on the overpotential of different s (Mg), p (Al), and d (Ti, V, Cr, Fe, Co, Sc, and Zn) electron dopants in Ni-based TMHs. Both the adsorbate evolution mechanism (AEM) and the lattice oxygen-mediated mechanism (LOM) were examined. The results demonstrate that the formation energy of oxygen vacancies (EVO) is strongly affected by the chemical nature of the dopants. A linear relationship is identified between EVO and the free energy difference for the oxygen&#8211;oxygen coupling. A descriptor could be employed to discriminate whether the LOM is energetically favored over the AEM. These findings fill existing gaps in appropriate yet computationally light descriptors for direct identification between the AEM and LOM.</description>
+      <author>Peijia Ding, Yufeng Xue, Ziwei Chai, Qi Hu, Chuan&#8208;Jia Tong, Gilberto Teobaldi, Li Min Liu</author>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00201</guid>
+    </item>
+    <item>
       <title>Electronic Structure Tailoring of Cuco2o4 for Boosting Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4747711</link>
       <description>Qi Dong, Bin Wen, Xin Zhao, Peiyi Wang, Xiao Lyu, No host. None(None)] 2024. https://openalex.org/W4392406405
@@ -348,6 +358,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.diamond.2024.110999</guid>
     </item>
     <item>
+      <title>Electronic structure-modulated NiFe-metal&#8211;organic framework nanosheets for enhance electrochemical oxygen Evolution</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.127017</link>
+      <description>Jie Dong, Weilong Liu, Bohan An, Hui Su, Jintao Zhang, Ning Li, Yangqin Gao, Lei Ge, Separation and Purification Technology. None(None)] 2024. https://openalex.org/W4392511087
+
+                Oxygen Evolution Reaction (OER) is a critical half-reaction that hinders water decomposition due to its sluggish kinetics. Developing efficient, stable electrocatalysts for OER is crucial for addressing the challenges in energy crisis and green hydrogen production. Compared to single-metal Metal-Organic Frameworks (MOFs), synergistic interactions between metal ions in bimetallic MOFs provide sufficient space for tuning the electronic structure and oxygen-containing intermediate adsorption energies, and therefore bimetallic MOFs shows great potential in enhancing the OER kinetics. In this work, NiFe-MIL-88A nanosheets were synthesized on nickel foam via a facile one-step hydrothermal method. The catalyst exhibited exceptional OER performance in 1.0 M KOH solution. Notably, it achieved a current density of 50 mA cm&#8722;2 at a low overpotential of 220 mV and displayed a Tafel slope of 43.2 mV/dec. Furthermore, it had impressive electrocatalytic durability suitable for commercial applications. This work elucidates the performance enhancement of NiFe bimetallic MOF from the perspective of electron migration. In-situ Raman spectroscopy was adopted to investigate the structural reconfiguration of the catalyst to reveal the true catalytic active sites. First-principle calculation demonstrate that introduction of Ni atoms with low electronegativity is conducive to optimizing the catalytic d-band center and &#402;e value. This work provides insights for the designing bimetallic MOFs with superior OER performance.</description>
+      <author>Jie Dong, Weilong Liu, Bohan An, Hui Su, Jintao Zhang, Ning Li, Yangqin Gao, Lei Ge</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.127017</guid>
+    </item>
+    <item>
       <title>A Coordination&#8208;Derived Cerium&#8208;Based Amorphous&#8211;Crystalline Heterostructure with High Electrocatalytic Oxygen Evolution Activity</title>
       <link>https://doi.org/10.1002/smll.202311505</link>
       <description>Haiyan An, Xijiao Mu, Guoying Tan, Pingru Su, Liangliang Liu, Nan Song, Shi&#8208;Qiang Bai, Chun&#8208;Hua Yan, Yu Tang, Small. None(None)] 2024. https://openalex.org/W4392401653
@@ -388,6 +408,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-szsq8</guid>
     </item>
     <item>
+      <title>Electronic Structure Control of IrO2 via Conjugated Polymer Support for Highly Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1088/2053-1591/ad30ab</link>
+      <description>Yusaku Asai, Koichi Higashimine, Shun Nishimura, Rajashekar Badam, Noriyoshi Matsumi, Materials Research Express. None(None)] 2024. https://openalex.org/W4392520542
+
+                Abstract In this paper, we report synthesis of novel nanoparticle catalyst of iridium oxide supported on conjugated polymer along with evaluation of activity and durability for oxygen evolution reaction. The IrO2/poly(BIAN-thiophene)/TNT catalyst was prepared from iridium complex and poly(BIAN-thiophene)/TNT by hydrothermal method. The synthesized IrO2/poly(BIAN-thiophene)/TNT catalysts was characterized by scanning electron microscopy, transmission electron microscopy, Fourier transfer-infrared spectroscopy, ray photoelectron spectroscopy and electrochemical methods. The average particle size of the IrO2 particles on poly(BIAN-thiophene)/TNT was 2.5 nm. The XPS measurement revealed that Ir complex was completely converted to iridium oxide through hydrothermal treatment. The IrO2/poly(BIAN-thiophene)/TNT catalyst showed sufficient performance for OER activity and durability in acidic condition. Our results indicate that IrO2/poly(BIAN-thiophene)/TNT is one of the prospective candidate catalysts for water splitting.</description>
+      <author>Yusaku Asai, Koichi Higashimine, Shun Nishimura, Rajashekar Badam, Noriyoshi Matsumi</author>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/2053-1591/ad30ab</guid>
+    </item>
+    <item>
       <title>Facile synthesis of nanosized spinel high entropy oxide (FeCoNiCrMn)3O4 for efficient oxygen evolution reaction</title>
       <link>https://doi.org/10.1016/j.jmat.2024.02.003</link>
       <description>Bomin Feng, Jun Chen, Yifei Yang, Ming&#8208;Bo Yang, Hongbing Wang, Changyin Zhong, Xiaochong Zhao, Yunxi Yao, Journal of Materiomics. None(None)] 2024. https://openalex.org/W4392360598
@@ -396,36 +426,6 @@
       <author>Bomin Feng, Jun Chen, Yifei Yang, Ming&#8208;Bo Yang, Hongbing Wang, Changyin Zhong, Xiaochong Zhao, Yunxi Yao</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jmat.2024.02.003</guid>
-    </item>
-    <item>
-      <title>Enhancing Oxygen Evolution Reaction Performance of Ruddlesden&#8211;Popper Perovskite Oxide Through Heteroatom Incorporation</title>
-      <link>https://doi.org/10.2139/ssrn.4748569</link>
-      <description>Shu-Fang Li, Baoqin Zhang, Zhen&#8208;Bo Wang, Dong Yan, No host. None(None)] 2024. https://openalex.org/W4392458686
-
-                No abstract</description>
-      <author>Shu-Fang Li, Baoqin Zhang, Zhen&#8208;Bo Wang, Dong Yan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4748569</guid>
-    </item>
-    <item>
-      <title>Enhancing Oxygen Evolution Reaction of CoP nanosheets via Interfacial Engineering with CoFe-LDH Nanosheets</title>
-      <link>https://doi.org/10.1016/j.colsurfa.2024.133640</link>
-      <description>Morteza Kolaei, Harish S. Chavan, Jiyoung Kim, Ki-Young Lee, Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. https://openalex.org/W4392453559
-
-                No abstract</description>
-      <author>Morteza Kolaei, Harish S. Chavan, Jiyoung Kim, Ki-Young Lee</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.133640</guid>
-    </item>
-    <item>
-      <title>Effect of Ni Sulfate Residue on Oxygen Evolution Reaction (OER) in Porous NiFe@NiFe Layered Double Hydroxide</title>
-      <link>https://doi.org/10.1002/smll.202400046</link>
-      <description>Jong&#8208;Hwan Park, Hyun Jun Kwon, Da Young Lee, Su&#8208;Jeong Suh, Small. None(None)] 2024. https://openalex.org/W4392472905
-
-                Abstract The development of cost&#8208;effective and high&#8208;performance oxygen evolution reaction (OER) catalysts is a significant challenge. This study presents the synthesis of binder&#8208;free NiFe@NiFe layered double hydroxide (NNF) via one&#8208;pot electrodeposition on carbon paper and Ni foam at high current densities. The presence of Ni sulfate residues on the prepared NNF is also investigated. The findings indicate that Ni sulfate significantly improves OER performance and durability. The sulfate content can be controlled by varying the method and duration of washing. NNF prepared through dipping (NNF&#8208;D) exhibits outstanding OER activity with a low overpotential of 241 mV, which is 25 mV lower than that of NNF washed for 60 s (NNF&#8208;W&#8208;60 s) at 10 mA cm &#8722;2 in 1 m KOH. Furthermore, density functional theory analyses indicate that the Ni sulfate residue helps modify the electronic structure, thereby optimizing the binding strength of *OOH. This synthetic strategy is expected to inspire the development of next&#8208;generation catalysts utilizing various adsorbates.</description>
-      <author>Jong&#8208;Hwan Park, Hyun Jun Kwon, Da Young Lee, Su&#8208;Jeong Suh</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400046</guid>
     </item>
   </channel>
 </rss>

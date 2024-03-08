@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Mar  7 19:55:03 2024
+Created on Fri Mar  8 00:43:26 2024
 
-Found 26 results from 2024-02-29 to 2024-03-07
+Found 26 results from 2024-03-01 to 2024-03-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -109,6 +109,27 @@ OpenAlex: https://openalex.org/W4392505956 (Open access: True)
 [[https://openalex.org/A5083553660][Junpeng Li]], [[https://openalex.org/A5013555971][Zi Wang]], Journal of Physics: Conference Series. 2713(1)] 2024. https://doi.org/10.1088/1742-6596/2713/1/012054  ([[https://iopscience.iop.org/article/10.1088/1742-6596/2713/1/012054/pdf][pdf]])
      
 Abstract Silicon-based porous nanocomposites are considered promising as electrode materials for the photoelectrochemical reduction of carbon dioxide. However, the high cost of raw materials and tedious processing for building nanostructures may not be conducive to large-scale industrial applications in terms of cost. Herein, we would like to introduce a porous structure prepared by Fenton reaction-assisted chemical etching of low-cost commercial silicon powder in the mixed solution of hydrogen fluoride and hydrogen peroxide. These porous particles are further decorated with silver nanoparticles to explore their feasibility for photoelectrochemical reduction of carbon dioxide. As shown by experimental results, this silicon-based nanocomposite is capable of catalyzing the conversion of carbon dioxide into carbon monoxide. The low cost of commercial silicon powder (~$3000/ton) compared with that of silicon wafers also renders this method potential and feasible for large-scale production of silicon-based porous materials.    
+
+    
+
+* A review of constraints and adjustable parameters in microgrids for cost and carbon dioxide emission reduction  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392520445
+:TOPICS: Control and Synchronization in Microgrid Systems, Demand Response in Smart Grids, Hydrogen Energy Systems and Technologies
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.heliyon.2024.e27489")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392520445"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392520445"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392520445"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392520445 (Open access: True)
+    
+[[https://openalex.org/A5087918072][Mohammed Amine Hoummadi]], [[https://openalex.org/A5068153880][Hala Alami Aroussi]], [[https://openalex.org/A5066405683][Badre Bossoufi]], [[https://openalex.org/A5091731246][Mohammed Karim]], [[https://openalex.org/A5068858971][Saleh Mobayen]], [[https://openalex.org/A5026194474][Anton Zhilenkov]], [[https://openalex.org/A5024972038][Thamer A. H. Alghamdi]], Heliyon. None(None)] 2024. https://doi.org/10.1016/j.heliyon.2024.e27489 
+     
+No abstract    
 
     
 
@@ -385,6 +406,27 @@ The electrochemical carbon dioxide reduction (eCO2RR) to formate, driven by clea
 
     
 
+* Introduction of sulfur in Bi2O3 to boost water activation for enhancing the reduction of CO2 to formate  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392528082
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-05-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jpowsour.2024.234298")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392528082"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392528082"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392528082"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392528082 (Open access: False)
+    
+[[https://openalex.org/A5064070730][Qiuyu Zheng]], [[https://openalex.org/A5050079096][Sheng Luan]], [[https://openalex.org/A5047447008][Yun Feng]], [[https://openalex.org/A5038564297][Shi‐Wen Lv]], [[https://openalex.org/A5044544424][Yi Zhang]], [[https://openalex.org/A5047700095][Yanqing Cong]], Journal of Power Sources. 601(None)] 2024. https://doi.org/10.1016/j.jpowsour.2024.234298 
+     
+The reduction of carbon dioxide to produce valuable chemicals offers a sustainable approach towards achieving carbon neutralization. However, the electrochemical carbon dioxide reduction (ECO2RR) using clean electricity faces challenges in terms of high product faradaic efficiency (FE), current density, and stability. In this study, we prepared a S–Bi2O3 nanosheets (NS) catalyst through in-situ structural reconstruction. The S–Bi2O3 NS catalyst exhibited a peak formate FE of 92.05 % at −0.9 V and a high formate formation rate of 497.80 μmol h−1 cm−2 at −1.3 V. The significant improvement in selectivity and activity is attributed to the sulfur modification on Bi2O3 NS catalyst. The sulfur doping enhances the dissociation of water into H* species, facilitating the formation of HCOO* intermediate and promoting formate production. This work presents a simple and effective strategy for developing highly selective Bi-based electrocatalysts for efficient formate production.    
+
+    
+
 * Mechanism of surface oxygen-containing species promoted electrocatalytic CO2 reduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392455306
@@ -490,65 +532,23 @@ The increasing scarcity of fossil fuels and the escalating environmental concern
 
     
 
-* Computational screening of silver-based single-atom alloys catalysts for CO2 reduction  :CO2RR:
+* Electrocatalytic CO2 Reduction on Amorphous Cu Surfaces: Unveiling Structure-Activity Relationships  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4392380728
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-03-01
+:UUID: https://openalex.org/W4392515813
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Molecular Electronic Devices and Systems
+:PUBLICATION_DATE: 2024-03-06
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0192055")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-bxqmn")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392380728"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392380728"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392380728"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392515813"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392515813"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392515813"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4392380728 (Open access: False)
+OpenAlex: https://openalex.org/W4392515813 (Open access: True)
     
-[[https://openalex.org/A5054097350][Marionir M. C. B. Neto]], [[https://openalex.org/A5013396298][Lucas G. Verga]], [[https://openalex.org/A5077065362][Juarez L. F. Da Silva]], [[https://openalex.org/A5061185825][Breno R. L. Galvão]], The Journal of Chemical Physics. 160(9)] 2024. https://doi.org/10.1063/5.0192055 
+[[https://openalex.org/A5072730395][Akshayini Muthuperiyanayagam]], [[https://openalex.org/A5076994358][Devis Di Tommaso]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-bxqmn  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e647e09138d23161aa85d0/original/electrocatalytic-co2-reduction-on-amorphous-cu-surfaces-unveiling-structure-activity-relationships.pdf][pdf]])
      
-Electrocatalytically reducing CO2 into value-added products is a challenging but promising process. Catalysts have been proposed to reduce the potential necessary for the reaction to occur, among which single-atom alloys (SAAs) are particularly promising. Here, we employ density functional theory calculations and the computational electrode model to predict whether silver-based SAAs have the potential to be effective electrocatalysts to convert CO2 into C1 products. We take into account surface defects by using the Ag(211) surface as a model. We also verify whether the proposed materials are prone to OH poisoning or enhance the competing hydrogen evolution reaction. Our calculations predict that these materials show weak mixing between the host and the dopant, characterized by a sharp peak in the density of states near the Fermi energy, except when copper (also a coinage metal) is used as the dopant. This affects the adsorption energy of the different intermediate molecules, yielding different reaction profiles for each substrate. As non-doped silver, copper-doped SAA tends to spontaneously desorb carbon monoxide (CO) instead of proceeding with its reduction. Other elements of the fourth period (Fe, Co, and Ni) tend to bind to the CO molecule but do not favor more reduced products. These metals also tend to enhance the hydrogen evolution reaction. On the contrary, we show that the Ir and Rh dopants have significant potential as electrocatalysts, which favors the reduction of CO over its desorption while also suppressing the hydrogen evolution reaction at potentials lower than those required by copper. They have also been shown to not be prone to poisoning by OH radicals.    
-
-    
-
-* Surface reconstruction of Cu-based bimetallic catalysts for electrochemical CO2 reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392350793
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Molecular Electronic Devices and Systems
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cjsc.2024.100255")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392350793"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392350793"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392350793"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392350793 (Open access: False)
-    
-[[https://openalex.org/A5010719310][Yufei Jia]], [[https://openalex.org/A5005228021][Fĕi Li]], [[https://openalex.org/A5012902307][Ke Fan]], Chinese Journal of Structural Chemistry. None(None)] 2024. https://doi.org/10.1016/j.cjsc.2024.100255 
-     
-No abstract    
-
-    
-
-* Bipolar Membrane Electrolyzer for CO2 Electro-Reduction to CO in Organic Electrolyte with NaClO Produced as Byproduct  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392370140
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.144056")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392370140"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392370140"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392370140"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392370140 (Open access: False)
-    
-[[https://openalex.org/A5048438287][Feng-xia Shen]], [[https://openalex.org/A5029824329][Shuai Wu]], [[https://openalex.org/A5036258236][Pengchong Zhao]], [[https://openalex.org/A5090856797][Yunfei Li]], [[https://openalex.org/A5069546592][Shu Miao]], [[https://openalex.org/A5059385448][Jianxiong Liu]], [[https://openalex.org/A5040834817][David Ostheimer]], [[https://openalex.org/A5031126542][Thomas Hannappel]], [[https://openalex.org/A5039595875][Tian-You Chen]], [[https://openalex.org/A5089046028][Jiangtao Shi]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.144056 
-     
-A novel electrolyzer has been proposed for CO2 reduction to CO, concurrently generating NaClO as a byproduct at the anode. The cell is divided into two compartments by a bipolar membrane, which plays a pivotal role in the dissociation of H2O into H+ and OH−. In the cathode compartment, CO2 is reduced to CO within a neutral organic solution. Simultaneously, in the anode compartment, Cl− undergoes oxidation to form ClO− within a basic aqueous solution. The electrolyzer remains stable during 10 hours of electrolysis, and the current density reaches 76.35 mA cm−2 at a potential of -2.4 V (vs SHE), with the Faradaic efficiency of CO formation stable at 93%. By increasing the product values, CO2 electro-reduction technology can be promoted to industrial applications.    
+We present a computational investigation combining machine learning forcefields (ML-FF) and DFT calculations into the potential of amorphous copper (Cu) surfaces towards electrochemical CO2 reduction (eCO2R) to one-carbon (C1) and two-carbon (C2) products. The “on-the-fly” ML-FF developed for Cu replicate DFT energies and structures, offering a computationally efficient tool for simulating amorphous Cu systems. These ML-FFs were used to generate atomistic amorphous models of bulk and surfaces, and the amorphous bulk Cu exhibited slightly higher stability than crystalline Cu. The amorphous Cu surface provide a wider range of Cu coordination sites (5-9) compared to crystalline Cu, which offered a multitude of active centres for CO2 adsorption. Some of the amorphous surfaces investigated in this study spontaneously activated CO2, evidenced by the stable chemisorption, highlighting their potential for efficient CO2 conversion. The intermediates formed during the eCO2R on amorphous Cu surfaces are stabilized compared to crystalline surfaces, leading to a lower overpotentials, and improved faradaic efficiency. This study demonstrates for the first time theoretically, the potential of amorphous Cu-based catalysts towards sustainable CO2 conversion and paves the way for further research and development in this promising field.    
 
     
