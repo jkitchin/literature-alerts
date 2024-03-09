@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Mar  8 00:43:28 2024
+Created on Sat Mar  9 00:42:07 2024
 
-Found 25 results from 2024-03-01 to 2024-03-08
+Found 25 results from 2024-03-02 to 2024-03-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -105,7 +105,7 @@ Deep mineralization of C7H8 is often impeded by an ambiguous understanding of th
 
 OpenAlex: https://openalex.org/W4392238066 (Open access: False)
     
-[[https://openalex.org/A5086259939][Chang He]], [[https://openalex.org/A5035202372][Duan‐Hui Si]], [[https://openalex.org/A5058471307][Lili Han]], [[https://openalex.org/A5038258282][Zhusheng Xu]], [[https://openalex.org/A5042405134][Ziao Chen]], [[https://openalex.org/A5027181760][Rong Cao]], [[https://openalex.org/A5047300245][Yuan‐Biao Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00037 
+[[https://openalex.org/A5086259939][Chang He]], [[https://openalex.org/A5035202372][Duan‐Hui Si]], [[https://openalex.org/A5058471307][Lili Han]], [[https://openalex.org/A5038258282][Zhusheng Xu]], [[https://openalex.org/A5042405134][Ziao Chen]], [[https://openalex.org/A5027181760][Rong Cao]], [[https://openalex.org/A5047300245][Yuan−Biao Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00037 
      
 Covalent organic frameworks (COFs) would be a promising platform to immobilize metal N-heterocyclic carbenes (M-NHCs) for efficient CO2 conversion, but they are seldom reported. Herein, we develop a facile base-free strategy to prepare M-NHCs (M = Ir, Au, Pd) decorated M-NHC–COFs (Ir-NHC–COF, Au-NHC–COF, and Pd-NHC–COF) via the reactions of the imidazolium carboxylate functionalized NHC-based COF (NHC–CO2–COF) with the corresponding metal complexes under mild conditions. This facile synthesis method for the generation of the desired M-NHC single sites avoids the handling of the free carbenes and the use of strong bases. The obtained Ir-NHC–COF catalyst showed efficient catalytic activity and recyclability in the CO2 hydrogenation process, attaining a noteworthy turnover frequency of up to 17244 h–1, which placed it among the top-performing heterogeneous catalysts for this reaction. This study presents a universal and straightforward approach for attaching functional M-NHC single sites onto COFs, offering combined advantages and acting as highly efficient catalysts for CO2 hydrogenation reactions. This general strategy would be widely applicable to prepare other M-NHC-functionalized porous materials with covalently bound M-NHC single sites for various applications in the future.    
 

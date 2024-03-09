@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Mar 2024 00:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:42:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -140,10 +140,10 @@
     <item>
       <title>Heterostructures by Templated Synthesis of Layered Double Hydroxide to Modulate the Electronic Structure of Nickel Sites for a Highly Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/smsc.202300294</link>
-      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
+      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
 
                 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni&#8208;based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe&#8208;LDH, are prepared by an LDH&#8208;based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe&#8208;LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni&#8208;active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe&#8208;LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm &#8722;2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.</description>
-      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante</author>
+      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante</author>
       <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smsc.202300294</guid>
     </item>
@@ -406,6 +406,16 @@
       <author>Daniela Bushiri, Amanda F. Baxter, Onaolapo Odunjo, Diego &#193;lvarez, Yong Yuan, Jingguang G. Chen, Daniel V. Esposito</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-szsq8</guid>
+    </item>
+    <item>
+      <title>Super Stable Selenium Nickel-Iron Electrocatalyst for Oxygen Evolution Reaction in Natural Seawater</title>
+      <link>https://doi.org/10.2139/ssrn.4750999</link>
+      <description>Jue Wang, Zhi Liu, Libei Feng, Di L&#252;, Libei Feng, Qinfang Zhang, Daniel Hedman, Shengfu Tong, No host. None(None)] 2024. https://openalex.org/W4392565606
+
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
+      <author>Jue Wang, Zhi Liu, Libei Feng, Di L&#252;, Libei Feng, Qinfang Zhang, Daniel Hedman, Shengfu Tong</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4750999</guid>
     </item>
     <item>
       <title>Electronic Structure Control of IrO2 via Conjugated Polymer Support for Highly Efficient Oxygen Evolution Reaction</title>

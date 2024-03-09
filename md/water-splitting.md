@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Fri Mar  8 00:43:22 2024
+Created on Sat Mar  9 00:42:01 2024
 
-Found 42 results from 2024-03-01 to 2024-03-08
+Found 43 results from 2024-03-02 to 2024-03-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -155,7 +155,7 @@ No abstract
 OpenAlex: https://openalex.org/W4392290654    
 Open access: True
     
-[Ke Xu](https://openalex.org/A5076139079), [Haihong Zhong](https://openalex.org/A5075105240), [Xuying Li](https://openalex.org/A5049620625), [Junhua Song](https://openalex.org/A5081438845), [Luis Alberto Estudillo‐Wong](https://openalex.org/A5082046835), [Jun Yang](https://openalex.org/A5051262214), [Yongjun Feng](https://openalex.org/A5028441112), [Xiaojuan Zhao](https://openalex.org/A5087432052), [Nicolas Alonso‐Vante](https://openalex.org/A5085058884), Small science. None(None)] 2024.https://doi.org/10.1002/smsc.202300294.
+[Ke Xu](https://openalex.org/A5076139079), [Haihong Zhong](https://openalex.org/A5075105240), [Xuying Li](https://openalex.org/A5049620625), [Junhua Song](https://openalex.org/A5081438845), [Luis Alberto Estudillo‐Wong](https://openalex.org/A5082046835), [Jun Yang](https://openalex.org/A5051262214), [Yongjun Feng](https://openalex.org/A5028441112), [Xiaojuan Zhao](https://openalex.org/A5087432052), [Nicolás Alonso-Vante](https://openalex.org/A5085058884), Small science. None(None)] 2024.https://doi.org/10.1002/smsc.202300294.
     
 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni‐based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe‐LDH, are prepared by an LDH‐based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe‐LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni‐active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe‐LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm −2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.    
 
@@ -444,6 +444,17 @@ Open access: True
 [Daniela Bushiri](https://openalex.org/A5079786247), [Amanda F. Baxter](https://openalex.org/A5001963058), [Onaolapo Odunjo](https://openalex.org/A5094044118), [Diego Álvarez](https://openalex.org/A5081827586), [Yong Yuan](https://openalex.org/A5041615964), [Jingguang G. Chen](https://openalex.org/A5034358731), [Daniel V. Esposito](https://openalex.org/A5073994683), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-szsq8 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e0c01d66c1381729dd4ea3/original/oxide-encapsulated-ruthenium-oxide-catalysts-for-selective-oxygen-evolution-in-unbuffered-p-h-neutral-seawater.pdf)).
     
 Direct seawater electrolysis is a promising approach to producing green hydrogen in water-scarce environments using renewable energy. However, the undesirable chlorine evolution reaction (CER) and hypochlorite evolution reaction (HCER) compete with the desired oxygen evolution reaction (OER) at the anode electrocatalyst. This issue is most pronounced in unbuffered pH neutral solutions due to local acidification resulting from the OER. To overcome this challenge, this study explores the use of silicon oxide (SiOx) and titanium oxide (TiOx) nanoscale overlayers coated on metallic ruthenium (Ru) and ruthenium oxide (RuOx) thin film electrodes to block chloride ions from reaching active sites during operation in unbuffered 0.6 M NaCl electrolyte. Using a combination of (electro)analytical techniques, encapsulated RuOx anodes are shown to effectively suppress Cl- transport to buried catalyst active sites while allowing for the desired OER to occur, leading to increases in OER faradaic efficiency at moderate overpotentials. Evidence for the ability of SiOx overlayers to block Cl- ions from reaching the active buried interface was obtained by monitoring the OH stretching mode of OH adsorbates using in situ Raman spectroscopy. This study also reports trade-offs between the activity, selectivity, and stability of bare and encapsulated Ru and RuOx electrocatalysts, finding that the magnitude of these trade-offs strongly depends on the nature of both the catalyst and overlayer material. The most promising anode electrocatalyst is RuOx encapsulated by 4 nm of SiOx, which gives the largest improvement in OER faradaic efficiency while demonstrating a relatively stable operating current and minimal increases in overpotential.    
+
+    
+
+## Super Stable Selenium Nickel-Iron Electrocatalyst for Oxygen Evolution Reaction in Natural Seawater   
+
+OpenAlex: https://openalex.org/W4392565606    
+Open access: False
+    
+[Jue Wang](https://openalex.org/A5076036593), [Zhi Liu](https://openalex.org/A5017916417), [Libei Feng](https://openalex.org/A5068653819), [Di Lü](https://openalex.org/A5035933733), [Libei Feng](https://openalex.org/A5068653819), [Qinfang Zhang](https://openalex.org/A5047437279), [Daniel Hedman](https://openalex.org/A5056534926), [Shengfu Tong](https://openalex.org/A5007547111), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4750999.
+    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
 
     
 

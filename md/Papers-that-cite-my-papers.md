@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Mar  8 00:43:36 2024
+Created on Sat Mar  9 00:42:14 2024
 
-Found 31 results from 2024-03-01 to 2024-03-08
+Found 33 results from 2024-03-02 to 2024-03-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -307,6 +307,28 @@ Open access: False
 [M. V. Jyothirmai](https://openalex.org/A5008388762), [Roshini Dantuluri](https://openalex.org/A5094050446), [Priyanka Sinha](https://openalex.org/A5000668703), [B. M. Abraham](https://openalex.org/A5068866911), [Jayant K. Singh](https://openalex.org/A5045526503), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.3c17389.
     
 Rising global energy demand, accompanied by environmental concerns linked to conventional fossil fuels, necessitates a shift toward cleaner and sustainable alternatives. This study focuses on the machine-learning (ML)-driven high-throughput screening of transition-metal (TM) atom intercalated g-C3N4/MX2 (M = Mo, W; X = S, Se, Te) heterostructures to unravel the rich landscape of possibilities for enhancing the hydrogen evolution reaction (HER) activity. The stability of the heterostructures and the intercalation within the substrates are verified through adhesion and binding energies, showcasing the significant impact of chalcogenide selection on the interaction properties. Based on hydrogen adsorption Gibbs free energy (ΔGH) computed via density functional theory (DFT) calculations, several ML models were evaluated, particularly random forest regression (RFR) emerges as a robust tool in predicting HER activity with a low mean absolute error (MAE) of 0.118 eV, thereby paving the way for accelerated catalyst screening. The Shapley Additive exPlanation (SHAP) analysis elucidates pivotal descriptors that influence the HER activity, including hydrogen adsorption on the C site (HC), MX layer (HMX), S site (HS), and intercalation of TM atoms at the N site (IN). Overall, our integrated approach utilizing DFT and ML effectively identifies hydrogen adsorption on the N site (site-3) of g-C3N4 as a pivotal active site, showcasing exceptional HER activity in heterostructures intercalated with Sc and Ti, underscoring their potential for advancing catalytic performance.    
+
+    
+
+## A Simple and Efficient Method for the Nickel‐Catalyzed Synthesis of Azines from Aldehydes and Hydrazines   
+
+OpenAlex: https://openalex.org/W4392548880    
+Open access: False
+    
+[Lei Jin](https://openalex.org/A5070998448), [Yao Xie](https://openalex.org/A5018902489), [Cheng‐Tung Lin](https://openalex.org/A5033124105), [Sheng Han](https://openalex.org/A5025790307), [Da Shi](https://openalex.org/A5038412780), [Yizhuo Han](https://openalex.org/A5029594618), ChemistrySelect. 9(10)] 2024.https://doi.org/10.1002/slct.202304446.
+    
+Abstract Azines are organic molecules with a C=N−N=C functional range of applications. But the conventional azines synthesis process requires a high reaction temperature and long reaction time combined with complex reaction facilities, so the synthesis process needs to be further improved in terms of economic efficiency and process simplification. Here, we demonstrate a structurally well‐defined inorganic ligand Ni compound, (NH 4 ) 4 [NiMo 6 O 18 (OH) 6 ](Ni‐POMs). The catalysts show good activity towards the reaction of carbonyl compounds, and the corresponding products can be obtained in yields up to about 90 %. In this condition, the majority of the aldehydes (aromatic and aliphatic) can be reacted, and the products are obtained in high yields. Density functional theory (DFT) looked into the process by which benzaldehyde and hydrazine hydrate reacted on the surface of Ni‐POMs. It was calculated that the whole reaction goes through two stages and the activation energy of the whole reaction is −6.72 kcal/mol. Thus, from experiment to calculation, a complete structure of the catalytic reaction cycle has been constructed.    
+
+    
+
+## Animal Play and Evolution: Seven Timely Research Questions about Enigmatic Phenomena   
+
+OpenAlex: https://openalex.org/W4392558465    
+Open access: False
+    
+[Gordon M. Burghardt](https://openalex.org/A5051252110), [Sergio M. Pellis](https://openalex.org/A5017588714), [Jeffrey C. Schank](https://openalex.org/A5014748978), [Paul E. Smaldino](https://openalex.org/A5020901777), [Louk J. M. J. Vanderschuren](https://openalex.org/A5035338529), [Elisabetta Palagi](https://openalex.org/A5045836825), Neuroscience & Biobehavioral Reviews. None(None)] 2024.https://doi.org/10.1016/j.neubiorev.2024.105617.
+    
+No abstract    
 
     
 

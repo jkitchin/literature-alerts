@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Mar  8 00:43:26 2024
+Created on Sat Mar  9 00:42:05 2024
 
-Found 26 results from 2024-03-01 to 2024-03-08
+Found 26 results from 2024-03-02 to 2024-03-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -133,6 +133,48 @@ No abstract
 
     
 
+* Review article: Application of integrated electrodes materials for enhancing the electrochemical reduction of carbon dioxide  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392566863
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0194297")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392566863"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392566863"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392566863"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392566863 (Open access: True)
+    
+[[https://openalex.org/A5081971453][Hary Devianto]], [[https://openalex.org/A5089003468][M. Eviani]], [[https://openalex.org/A5073805388][Tirto Prakoso]], AIP Conference Proceedings. None(None)] 2024. https://doi.org/10.1063/5.0194297  ([[https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0194297/19714812/020003_1_5.0194297.pdf][pdf]])
+     
+Carbon dioxide, a "greenhouse gas" resulted from industrial fossil fuels combustion, is a major driver of global warming and climate change. Several works have been pursued to reduce atmospheric concentrations of CO2. The most attractive and feasible approach to address this issue and maintain sustainable energy development for generations is carbon capture and storage or sequestration (CCS) via electrochemical reduction. Electrochemical CO2 reduction (ECO2R) is an integrated step of CO2 capture and electrochemical CO2 conversion, using water and electricity to convert CO2 into fuels and valuable chemicals, especially formic acid. Multiple benefits of CO2 Electrochemical conversion include the ability to regulate reaction rates or selectivity finely through the applied voltage, modularity of electrolytic cells that allows extensive scalability, and effective integration with intermittent renewable energy sources. The efficiency of ECO2R processes can be improved through (i) electrode structure and modification, (ii) electrolytic cell (reactor), (iii) electrolyte selection and pH control, and (iv) operating conditions (pressure and temperature). However, finding suitable electrodes with high selectivity for formic acid formation remains the biggest challenge at the fundamental level. This article provides an overview of recent research on ECO2R electrodes, focusing on the application of different types of integrated electrodes (e.g., metals, metal oxides, alloys) and the effect of adding promoters or/and carbon supports. The synergistic effect of different materials, promoters, and carbon supports in the electrodes is essential for the enhancement of the ECO2R performance.    
+
+    
+
+* Review electrochemical reduction of carbon dioxide into formic acid in various reactors using carbon-based catalyst  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392567040
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0194299")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392567040"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392567040"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392567040"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392567040 (Open access: True)
+    
+[[https://openalex.org/A5085371064][Nanda Dwi Jayanti]], [[https://openalex.org/A5081971453][Hary Devianto]], [[https://openalex.org/A5085589412][Pramujo Widiatmoko]], [[https://openalex.org/A5073805388][Tirto Prakoso]], [[https://openalex.org/A5089003468][M. Eviani]], AIP Conference Proceedings. None(None)] 2024. https://doi.org/10.1063/5.0194299  ([[https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0194299/19714892/100001_1_5.0194299.pdf][pdf]])
+     
+Climate change as an effect of global warming is an environmental problem that is currently a concern of many parties. The global warming is mainly triggered by emission of CO2 into the atmosphere due to human activities such as usage of fossil fuels as the energy source. Therefore, the energy transition from fossil fuels to renewable energy as well as technology to capture and utilize the CO2 are highly necessary. The electrochemical conversion of CO2 to produce various products, such as formic acid has advantages, due to mild reaction condition, the process is controllable, use minimal chemicals, and the application is relatively easy to scale-up. Formic acid has potential as a source of hydrogen carrier and can replace fossil-based fuels. Products from electroreduction of CO2 depend on electrons transferred during the reaction, which are generated by the configuration of electrode/electrocatalyst, applied potential, and electrolyte. In addition, the type of reactor system or electrolytic cell also plays an important role in the electrochemical reduction of CO2. Carbon-based materials have potential as electrocatalysts for electroreduction of CO2 because of the porous structure, acid-base resistance, stability at high temperature, abundant availability in nature, and environmentally friendly. This mini review will discuss the electroreduction of CO2 in various electrochemical reactor systems using carbon-based electrocatalyst to produce formic acid using the SWOT analysis method.    
+
+    
+
 * Photochemical catalysis of carbon dioxide reduction by iron porphyrins  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392379416
@@ -214,6 +256,27 @@ OpenAlex: https://openalex.org/W4392440138 (Open access: False)
 [[https://openalex.org/A5078971651][Carlos M. Sánchez‐Sánchez]], No host. None(None)] 2021. None 
      
 No abstract    
+
+    
+
+* Carbon dioxide reduction in solid oxide electrolyzer cells utilizing nickel bimetallic alloys infiltrated into Gd0.1Ce0.9O1.95 (GDC10) scaffolds  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392499157
+:TOPICS: Solid Oxide Fuel Cells, Electrochemical Reduction in Molten Salts, Chemical-Looping Technologies
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.144052")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392499157"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392499157"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392499157"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392499157 (Open access: True)
+    
+[[https://openalex.org/A5066802079][Ahmad Abu Hajer]], [[https://openalex.org/A5090265262][Damilola A. Daramola]], [[https://openalex.org/A5045202746][Jason Trembly]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.144052 
+     
+This study evaluates the electrochemical performance of Gd0.1Ce0.9O1.95 (GDC10) cathodes infiltrated with bimetallic Ni-Co and Ni-Cu alloy electrocatalysts for CO2 electroreduction in solid oxide electrolyzer cells (SOECs). The electrochemical reduction performance of SOECs with cathodes infiltrated with Ni-Co and Ni-Cu alloys were compared to the performance of SOECs having cathodes infiltrated with Ni, Co, and Cu. Electrochemical performance was evaluated at 750, 800, and 850°C. Cells with Co, Ni0.50Co0.50, Ni0.75Co0.25, and Ni infiltrated cathodes displayed a relatively similar CO2 electroreduction performance; however, SOECs having Co infiltrated cathodes had a slightly better catalytic performance towards CO2 reduction as demonstrated by their lower polarization resistance (Rp) values of 8.54, 4.03, and 1.25 Ω·cm2 when measured under open circuit voltage (OCV) at 750, 800, and 850°C, respectively. Cells having Co, Ni0.50Co0.50, Ni0.75Co0.25, and Ni infiltrated cathodes showed a stable long-term CO2 electroreduction performance with Faradaic efficiency values approaching 100% when tested under 0.20 A·cm−2 for 48 hours and at 750°C. Results indicate that SOECs with Ni infiltrated cathodes possessed better short- and long-term CO2 electroreduction performance compared to SOECs featuring cathodes infiltrated with Cu, Ni0.25Cu0.75, and Ni0.50Cu0.50. Increasing Ni percentage within the Ni-Cu alloy structure had a positive impact on the electrochemical performance as cells with Ni0.50Cu0.50 infiltrated cathodes showed relatively close voltage values to those of cells with Ni infiltrated cathodes during short-term galvanostatic tests. Although the SOEC with Ni0.50Cu0.50 infiltrated cathode experienced performance degradation throughout the long-term test period, it demonstrated better electroreduction performance having Faradaic efficiency values approaching 100% compared to cells with Cu and Ni0.25Cu0.75 infiltrated cathodes when evaluated under 0.20 A·cm−2 for 48 hours and at 750°C.    
 
     
 
@@ -301,27 +364,6 @@ No abstract
 
     
 
-* Advancements in electrochemical CO2 reduction reaction: A review on CO2 mass transport enhancement strategies  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392380153
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.150169")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392380153"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392380153"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392380153"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392380153 (Open access: False)
-    
-[[https://openalex.org/A5056575431][Zhenhong Yuan]], [[https://openalex.org/A5081217856][Ke Wang]], [[https://openalex.org/A5091191484][Zheng Shi]], [[https://openalex.org/A5026970256][Xiuwen Cheng]], [[https://openalex.org/A5028828408][Yi He]], [[https://openalex.org/A5030329860][Qin Wei]], [[https://openalex.org/A5091009061][Xing Hong Zhang]], [[https://openalex.org/A5068124521][Haixing Chang]], [[https://openalex.org/A5016292565][Nianbing Zhong]], [[https://openalex.org/A5047526167][Xuefeng He]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.150169 
-     
-The imperative to address climate change and CO2 emissions has elicited substantial interest in the field of electrochemical CO2 reduction reaction (eCO2RR) as an avenue to both environmental sustainability and the production of value-added fuels. However, the selectivity and efficiency of eCO2RR remain below the industrial requirement for its implementation at high current density. One pivotal strategy to ameliorate this deficiency involves augmenting the mass transport of CO2 to electrode, thereby alleviating the competing hydrogen evolution reaction and consequently enhancing eCO2RR performance. Herein, we primarily discuss the CO2 mass transport enhancement strategies through electrode and electrolyzer designs, as well as electrolysis conditions. The electrode designs are first presented, including wettability regulation, porous substrates construction, catalyst layer and gas diffusion layer designs. Then, we highlight state-of-the-art electrolyzer designs, including the bipolar membrane structure, interdigitated flow field and in-situ exsolution of CO2 structure. The electrolyzer based gas–liquid Taylor flow is also introduced. Following this, we delve into the impact of various electrolysis conditions, encompassing the electrolyte, electrolysis potentials, CO2 pressure, CO2 flow rate and reaction temperature. Finally, we conclude this review by delineating persisting challenges and potential solutions aimed at advancing CO2 mass transport for the industrial implementation of eCO2RR technology.    
-
-    
-
 * Molybdenum diimine tetracarbonyl complexes for the Electrocatalytic reduction of CO2  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392286505
@@ -343,24 +385,24 @@ No abstract
 
     
 
-* Carbon dioxide reduction in solid oxide electrolyzer cells utilizing nickel bimetallic alloys infiltrated into Gd0.1Ce0.9O1.95 (GDC10) scaffolds  :CO2RR:
+* Advancements in electrochemical CO2 reduction reaction: A review on CO2 mass transport enhancement strategies  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4392499157
-:TOPICS: Solid Oxide Fuel Cells, Electrochemical Reduction in Molten Salts, Chemical-Looping Technologies
+:UUID: https://openalex.org/W4392380153
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
 :PUBLICATION_DATE: 2024-03-01
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.electacta.2024.144052")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.150169")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392499157"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392499157"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392499157"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392380153"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392380153"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392380153"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4392499157 (Open access: True)
+OpenAlex: https://openalex.org/W4392380153 (Open access: False)
     
-[[https://openalex.org/A5066802079][Ahmad Abu Hajer]], [[https://openalex.org/A5090265262][Damilola A. Daramola]], [[https://openalex.org/A5045202746][Jason Trembly]], Electrochimica Acta. None(None)] 2024. https://doi.org/10.1016/j.electacta.2024.144052 
+[[https://openalex.org/A5056575431][Zhenhong Yuan]], [[https://openalex.org/A5081217856][Ke Wang]], [[https://openalex.org/A5091191484][Zheng Shi]], [[https://openalex.org/A5026970256][Xiuwen Cheng]], [[https://openalex.org/A5028828408][Yi He]], [[https://openalex.org/A5030329860][Qin Wei]], [[https://openalex.org/A5091009061][Xing Hong Zhang]], [[https://openalex.org/A5068124521][Haixing Chang]], [[https://openalex.org/A5016292565][Nianbing Zhong]], [[https://openalex.org/A5047526167][Xuefeng He]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.150169 
      
-No abstract    
+The imperative to address climate change and CO2 emissions has elicited substantial interest in the field of electrochemical CO2 reduction reaction (eCO2RR) as an avenue to both environmental sustainability and the production of value-added fuels. However, the selectivity and efficiency of eCO2RR remain below the industrial requirement for its implementation at high current density. One pivotal strategy to ameliorate this deficiency involves augmenting the mass transport of CO2 to electrode, thereby alleviating the competing hydrogen evolution reaction and consequently enhancing eCO2RR performance. Herein, we primarily discuss the CO2 mass transport enhancement strategies through electrode and electrolyzer designs, as well as electrolysis conditions. The electrode designs are first presented, including wettability regulation, porous substrates construction, catalyst layer and gas diffusion layer designs. Then, we highlight state-of-the-art electrolyzer designs, including the bipolar membrane structure, interdigitated flow field and in-situ exsolution of CO2 structure. The electrolyzer based gas–liquid Taylor flow is also introduced. Following this, we delve into the impact of various electrolysis conditions, encompassing the electrolyte, electrolysis potentials, CO2 pressure, CO2 flow rate and reaction temperature. Finally, we conclude this review by delineating persisting challenges and potential solutions aimed at advancing CO2 mass transport for the industrial implementation of eCO2RR technology.    
 
     
 
@@ -403,6 +445,27 @@ OpenAlex: https://openalex.org/W4392247480 (Open access: True)
 [[https://openalex.org/A5006697392][Liangping Xiao]], [[https://openalex.org/A5007731421][Qizheng Zheng]], [[https://openalex.org/A5033181335][Rusen Zhou]], [[https://openalex.org/A5070605006][Sifan Liu]], [[https://openalex.org/A5012208849][Yifan Zhao]], [[https://openalex.org/A5065692631][Yadong Zhao]], [[https://openalex.org/A5038584289][Renwu Zhou]], [[https://openalex.org/A5013359536][Kostya Ken Ostrikov]], Journal of Energy Chemistry. None(None)] 2024. https://doi.org/10.1016/j.jechem.2024.02.023 
      
 The electrochemical carbon dioxide reduction (eCO2RR) to formate, driven by clean energy, is a promising approach for producing renewable chemicals and high-value fuels. Despite its potential, further development faces challenges due to limitations in electrocatalytic activity and durability, especially for non-noble metal-based catalysts. Here, naturally abundant bismuth-based nanosheets that can effectively drive CO2-to-formate electrocatalytic reduction are prepared using the plasma-activated Bi2Se3 followed by a reduction process. Thus-obtained plasma-activated Bi nanosheets (P-BiNS) feature ultrathin structures and high surface areas. Such nanostructures ensure the P-BiNS with outstanding eCO2RR catalytic performance, highlighted by the current density of over 80 mA cm−2 and a formate Faradic efficiency of >90%. Furthermore, P-BiNS catalysts demonstrate excellent durability and stability without deactivation following over 50 h of operation. The selectivity for formate production is also studied by density functional theory (DFT) calculations, validating the importance and efficacy of the stabilization of intermediates (OCHO*) on the P-BiNS surfaces. This study provides a facile plasma-assisted approach for developing high-performance and low-cost electrocatalysts.    
+
+    
+
+* Graphene-based CO2 reduction electrocatalysts: a review  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392564119
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Materials for Electrochemical Supercapacitors
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.carbon.2024.118879")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392564119"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392564119"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392564119"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392564119 (Open access: False)
+    
+[[https://openalex.org/A5038427980][Zelin Wu]], [[https://openalex.org/A5009018022][Congwei Wang]], [[https://openalex.org/A5052309941][Xiaoxiang Zhang]], [[https://openalex.org/A5029883974][Quangui Guo]], [[https://openalex.org/A5029316647][Junying Wang]], Carbon. 221(None)] 2024. https://doi.org/10.1016/j.carbon.2024.118879 
+     
+No abstract    
 
     
 
@@ -487,68 +550,5 @@ OpenAlex: https://openalex.org/W4392363017 (Open access: True)
 [[https://openalex.org/A5023940594][Jeongwoo Lee]], [[https://openalex.org/A5046271540][Sanghyun Chu]], [[https://openalex.org/A5074221485][Jieun Kang]], [[https://openalex.org/A5010685701][Kyoungdoug Min]], International Journal of Automotive Technology. None(None)] 2024. https://doi.org/10.1007/s12239-024-00026-6 
      
 Abstract In this experiment, it was experimentally investigated the combustion and exhaust characteristics, as well as the thermal efficiency, of RCCI combustion using gasoline, ethanol, and propane as low-reactivity fuels under four operating conditions. For each operating condition, gISNO x was limited to 0.15 g/kWh, and gISSmoke was limited to below 15 mg/kWh. The experiment was conducted by determining the operating conditions that satisfied these limitations and resulted in the highest city thermal efficiency. The low-reactivity fuels were supplied by port injection, while diesel was directly injected into the combustion chamber using a diesel injector. As a result, when gasoline is replaced with low-carbon fuels like ethanol and propane, the reduction in CO 2 emissions occurred. Under maximum power conditions, using ethanol allowed for a maximum reduction in CO 2 emissions of 6.81%. Depending on the driving conditions, ethanol showed a reduction ranging from 3.60 to 6.81%, while propane exhibited a reduction ranging from 3.10 to 5.64%. Additionally, by substituting with ethanol and propane, the GIE could be improved up to 44.73 and 43.56%, respectively.    
-
-    
-
-* Composite interface of g-C3N4 fragment loaded on Cu substrate for CO2 reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392404687
-:TOPICS: Emergent Phenomena at Oxide Interfaces, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cp05818b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392404687"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392404687"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392404687"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392404687 (Open access: False)
-    
-[[https://openalex.org/A5072771171][Qihuang Gong]], [[https://openalex.org/A5090481284][Jianling Xiong]], [[https://openalex.org/A5091705213][Tiangang Zhou]], [[https://openalex.org/A5036026030][Bao Wang]], [[https://openalex.org/A5086086953][Xiuyun Zhang]], [[https://openalex.org/A5018055096][Guiwu Liu]], [[https://openalex.org/A5009584953][Guanjun Qiao]], [[https://openalex.org/A5058002676][Feng Ding]], Physical Chemistry Chemical Physics. None(None)] 2024. https://doi.org/10.1039/d3cp05818b 
-     
-Designing the electrocatalyst with high efficiency and product selectivity is always crucial for the electrocatalytic CO2 reduction reaction (CO2RR). Inspired by the great progress of the two-dimensional (2D) nanomaterials growing...    
-
-    
-
-* MOFs/COFs hybrids as next-generation materials for electrocatalytic CO2 reduction reaction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392303421
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Chemistry and Applications of Metal-Organic Frameworks, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-02-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.150098")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392303421"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392303421"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392303421"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392303421 (Open access: False)
-    
-[[https://openalex.org/A5069271043][Nouraiz Mushtaq]], [[https://openalex.org/A5084782835][Abrar Ahmad]], [[https://openalex.org/A5040200566][Xusheng Wang]], [[https://openalex.org/A5049135577][Usman Khan]], [[https://openalex.org/A5086455686][Junkuo Gao]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.150098 
-     
-The increasing scarcity of fossil fuels and the escalating environmental concerns have heightened the demand for clean and renewable energy resources. Addressing this imperative, the exploration of electrocatalytic materials for CO2 reduction reactions (CO2 RR) presents a tough challenge in achieving efficient energy conversion with high Faradic efficiency (FE). Metal–organic frameworks (MOFs) and covalent-organic frameworks (COFs) represent crystalline materials characterized by hierarchical porous morphology. The rapid advancements in MOFs and COFs hold promising potential for diversifying CO2 RR electrocatalysts. Particularly noteworthy is the growing interest in hybrid materials combining MOFs and COFs, which has sparked considerable attention and is rapidly evolving across various domains. This inclusive review comprehensively discusses the progress and achievements in the design, synthesis, and application of MOFs/COFs hybrid materials for electrocatalytic CO2 RR. It concludes with insights into the evolving trends in structural design, potential applications, and associated challenges facing MOFs/COFs hybrid materials.    
-
-    
-
-* Electrocatalytic CO2 Reduction on Amorphous Cu Surfaces: Unveiling Structure-Activity Relationships  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392515813
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Molecular Electronic Devices and Systems
-:PUBLICATION_DATE: 2024-03-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-bxqmn")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392515813"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392515813"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392515813"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392515813 (Open access: True)
-    
-[[https://openalex.org/A5072730395][Akshayini Muthuperiyanayagam]], [[https://openalex.org/A5076994358][Devis Di Tommaso]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-bxqmn  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e647e09138d23161aa85d0/original/electrocatalytic-co2-reduction-on-amorphous-cu-surfaces-unveiling-structure-activity-relationships.pdf][pdf]])
-     
-We present a computational investigation combining machine learning forcefields (ML-FF) and DFT calculations into the potential of amorphous copper (Cu) surfaces towards electrochemical CO2 reduction (eCO2R) to one-carbon (C1) and two-carbon (C2) products. The “on-the-fly” ML-FF developed for Cu replicate DFT energies and structures, offering a computationally efficient tool for simulating amorphous Cu systems. These ML-FFs were used to generate atomistic amorphous models of bulk and surfaces, and the amorphous bulk Cu exhibited slightly higher stability than crystalline Cu. The amorphous Cu surface provide a wider range of Cu coordination sites (5-9) compared to crystalline Cu, which offered a multitude of active centres for CO2 adsorption. Some of the amorphous surfaces investigated in this study spontaneously activated CO2, evidenced by the stable chemisorption, highlighting their potential for efficient CO2 conversion. The intermediates formed during the eCO2R on amorphous Cu surfaces are stabilized compared to crystalline surfaces, leading to a lower overpotentials, and improved faradaic efficiency. This study demonstrates for the first time theoretically, the potential of amorphous Cu-based catalysts towards sustainable CO2 conversion and paves the way for further research and development in this promising field.    
 
     

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 08 Mar 2024 00:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 00:42:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -276,6 +276,26 @@
       <author>M. V. Jyothirmai, Roshini Dantuluri, Priyanka Sinha, B. M. Abraham, Jayant K. Singh</author>
       <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17389</guid>
+    </item>
+    <item>
+      <title>A Simple and Efficient Method for the Nickel&#8208;Catalyzed Synthesis of Azines from Aldehydes and Hydrazines</title>
+      <link>https://doi.org/10.1002/slct.202304446</link>
+      <description>Lei Jin, Yao Xie, Cheng&#8208;Tung Lin, Sheng Han, Da Shi, Yizhuo Han, ChemistrySelect. 9(10)] 2024. https://openalex.org/W4392548880
+
+                Abstract Azines are organic molecules with a C=N&#8722;N=C functional range of applications. But the conventional azines synthesis process requires a high reaction temperature and long reaction time combined with complex reaction facilities, so the synthesis process needs to be further improved in terms of economic efficiency and process simplification. Here, we demonstrate a structurally well&#8208;defined inorganic ligand Ni compound, (NH 4 ) 4 [NiMo 6 O 18 (OH) 6 ](Ni&#8208;POMs). The catalysts show good activity towards the reaction of carbonyl compounds, and the corresponding products can be obtained in yields up to about 90 %. In this condition, the majority of the aldehydes (aromatic and aliphatic) can be reacted, and the products are obtained in high yields. Density functional theory (DFT) looked into the process by which benzaldehyde and hydrazine hydrate reacted on the surface of Ni&#8208;POMs. It was calculated that the whole reaction goes through two stages and the activation energy of the whole reaction is &#8722;6.72 kcal/mol. Thus, from experiment to calculation, a complete structure of the catalytic reaction cycle has been constructed.</description>
+      <author>Lei Jin, Yao Xie, Cheng&#8208;Tung Lin, Sheng Han, Da Shi, Yizhuo Han</author>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/slct.202304446</guid>
+    </item>
+    <item>
+      <title>Animal Play and Evolution: Seven Timely Research Questions about Enigmatic Phenomena</title>
+      <link>https://doi.org/10.1016/j.neubiorev.2024.105617</link>
+      <description>Gordon M. Burghardt, Sergio M. Pellis, Jeffrey C. Schank, Paul E. Smaldino, Louk J. M. J. Vanderschuren, Elisabetta Palagi, Neuroscience &amp; Biobehavioral Reviews. None(None)] 2024. https://openalex.org/W4392558465
+
+                No abstract</description>
+      <author>Gordon M. Burghardt, Sergio M. Pellis, Jeffrey C. Schank, Paul E. Smaldino, Louk J. M. J. Vanderschuren, Elisabetta Palagi</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.neubiorev.2024.105617</guid>
     </item>
     <item>
       <title>Theoretical Study of Hydrogen Desorption on the Ni(100) Surface Through Simulated Temperature Programmed Desorption Spectra</title>
