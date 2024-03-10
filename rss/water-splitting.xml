@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:42:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:47:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -140,10 +140,10 @@
     <item>
       <title>Heterostructures by Templated Synthesis of Layered Double Hydroxide to Modulate the Electronic Structure of Nickel Sites for a Highly Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/smsc.202300294</link>
-      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
+      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
 
                 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni&#8208;based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe&#8208;LDH, are prepared by an LDH&#8208;based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe&#8208;LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni&#8208;active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe&#8208;LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm &#8722;2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.</description>
-      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante</author>
+      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante</author>
       <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smsc.202300294</guid>
     </item>
@@ -258,6 +258,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202401506</guid>
     </item>
     <item>
+      <title>Platinum Oxide Formation under Oxygen Evolution Reaction Conditions</title>
+      <link>https://doi.org/10.21203/rs.3.rs-3400440/v1</link>
+      <description>Leon Jacobse, R. Schuster, Mona Kohantorabi, Silvan Dolling, Johannes Pfrommer, Xin Deng, Tim Weber, Olof Gutowski, Ann Christin Dippel, Olaf Brummel, Yaroslava Lykhach, Heshmat Noei, Herbert Over, J&#246;rg Libuda, Vedran Vonk, Andreas Stierle, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4392593961
+
+                Abstract Electrocatalyst degradation, often caused by oxidative processes, forms a large barrier for the wide-spread application of electrolysers and fuel cells, which are crucial for a sustainable energy society. A detailed understanding of the catalyst surface structure under oxygen evolution reaction (OER) conditions is, therefore, required to design more stable catalysts. Here, we study the oxidation of a Pt(111) model electrode under operando conditions combining High-Energy Surface X-ray Diffraction (HE-SXRD) with a Rotating Disk Electrode (RDE) in a unique experimental setup. This novel approach allows us to follow the atomic structure of the electrode/electrolyte interface under oxygen evolution reaction conditions under hitherto unexplored potential regimes. We find that the Pt(111) surface gets electro-oxidized in a layer-by-layer fashion, which is the best scenario in terms of electrode stability. From ex situ X-ray Reflectivity (XRR) and X-ray Photoelectron Spectroscopy (XPS) measurements we find that a sub-nm thick, PtO 2 oxide film is forming, which deactivates the surface and leads to surface roughening after subsequent dissolution. Our results provide important insight for the operation of fuel cells and electrolysers under intermittent conditions of renewable energies.</description>
+      <author>Leon Jacobse, R. Schuster, Mona Kohantorabi, Silvan Dolling, Johannes Pfrommer, Xin Deng, Tim Weber, Olof Gutowski, Ann Christin Dippel, Olaf Brummel, Yaroslava Lykhach, Heshmat Noei, Herbert Over, J&#246;rg Libuda, Vedran Vonk, Andreas Stierle</author>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3400440/v1</guid>
+    </item>
+    <item>
       <title>Circumventing the Theoretical Scaling Relation Limit for the Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1021/acs.jpclett.4c00201</link>
       <description>Peijia Ding, Yufeng Xue, Ziwei Chai, Qi Hu, Chuan&#8208;Jia Tong, Gilberto Teobaldi, Li Min Liu, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392519273
@@ -276,6 +286,16 @@
       <author>Qi Dong, Bin Wen, Xin Zhao, Peiyi Wang, Xiao Lyu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4747711</guid>
+    </item>
+    <item>
+      <title>Direct Synthesis of CuP2 and Cu3P and Their Performance as Electrocatalysts for Hydrogen Evolution, Oxygen Evolution, and Oxygen Reduction Reactions</title>
+      <link>https://doi.org/10.3390/solids5010010</link>
+      <description>Xiao Ma, Xueni Huang, Abdessadek Lachgar, Solids. 5(1)] 2024. https://openalex.org/W4392587799
+
+                Copper phosphides are promising materials for energy conversion applications because of their unique electronic structure and controllable composition. Two stoichiometric copper phosphides, CuP2 and Cu3P, were prepared by direct wet-chemical synthesis using red phosphorus. They were characterized by powder X-ray diffraction, scanning and transmission electron microscopy, and X-ray photoelectron spectroscopy. The precursor selection, reaction temperature, time and solvent composition were also studied. CuP2 is the thermodynamically more stable product, but Cu3P is more commonly obtained. This work demonstrated that higher temperature helps in CuP2 formation. More importantly, using more trioctylphosphine oxide helps control the morphology leading to crystal growth along the crystallographic a-axis. CuP2 and Cu3P were tested for hydrogen evolution, oxygen evolution, and oxygen reduction reactions. CuP2 works better for HER in acidic conditions and OER in general, and Cu3P showed better activity than CuP2 for HER and ORR in an alkaline medium. This study has led to a simple approach to the synthesis of CuP2 nanowires.</description>
+      <author>Xiao Ma, Xueni Huang, Abdessadek Lachgar</author>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/solids5010010</guid>
     </item>
     <item>
       <title>Computational Study of Oxygen Evolution Reaction on Flat and Stepped Surfaces of Strontium Titanate</title>
@@ -336,6 +356,16 @@
       <author>Wenxin He, Xue-wei Wang, Yu Chen, Wenhua Zhang, Jia Li, Xiao Li</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.078</guid>
+    </item>
+    <item>
+      <title>Strong Lewis acid-induced self-healing of loose FeOOH for alkaline oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.cej.2024.150253</link>
+      <description>Ning Yu, Jing Lv, Zhanhu Guo, Xin-Jie Tian, Yusheng Zhang, Wenjing Li, Yulu Zhou, Yong&#8208;Ming Chai, Bin Dong, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392593905
+
+                The fast leaching of the Fe catalytic center and low conductivity of FeOOH have hindered the optimal stability and activity of Fe-based electrocatalysts for oxygen evolution reactions (OER). Here, Zn2+ is introduced into FeOOH with a looser nanosheet structure by regulating electric double layer (EDL) repulsion during electrodeposition. Meanwhile, as strong Lewis acids, Zn2+ in ZnxFeOOH could act as an electron acceptor, accepting electrons from FeOOH. The doping of Zn2+ shortens the bond length of Fe-O and enhances the covalency of Fe-O to improve electron transport rate and stability. The faster catalytic kinetics also been obtained by facilitating O* to form OOH* intermediates. At 100 mA cm&#8722;2, Zn0.5FeOOH requires overpotential of only 250 mV and maintains initial activity in 1 M KOH after 120 h. Notably, Zn-induced self-healing is achieved when the leaching and redeposition of Fe reach dynamic equilibrium. In 1 M KOH seawater, Zn0.5FeOOH requires overpotentials of 286 mV to produce current density of 100 mA cm&#8722;2. At 2.0 V, Zn0.5FeOOH can achieve 1000 mA cm&#8722;2 in anion exchange membrane (AEM) water electrolyzer at room temperature. This work provides an effective Zn-induced strategy for designing efficient and stable OER catalysts for industrial development.</description>
+      <author>Ning Yu, Jing Lv, Zhanhu Guo, Xin-Jie Tian, Yusheng Zhang, Wenjing Li, Yulu Zhou, Yong&#8208;Ming Chai, Bin Dong</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150253</guid>
     </item>
     <item>
       <title>Localized electronic reconfiguration at CoNi-BTC-MOFs to accelerate oxygen evolution reaction</title>
@@ -426,16 +456,6 @@
       <author>Yusaku Asai, Koichi Higashimine, Shun Nishimura, Rajashekar Badam, Noriyoshi Matsumi</author>
       <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/2053-1591/ad30ab</guid>
-    </item>
-    <item>
-      <title>Facile synthesis of nanosized spinel high entropy oxide (FeCoNiCrMn)3O4 for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jmat.2024.02.003</link>
-      <description>Bomin Feng, Jun Chen, Yifei Yang, Ming&#8208;Bo Yang, Hongbing Wang, Changyin Zhong, Xiaochong Zhao, Yunxi Yao, Journal of Materiomics. None(None)] 2024. https://openalex.org/W4392360598
-
-                The sluggish reaction kinetics of oxygen evolution reaction (OER) and the high price of noble metal catalysts hinder the wide application of water electrolysis for hydrogen generation. High-entropy oxides (HEOs) with multi-components and high entropy stabilized structures have attracted great research interests due to their efficient and durable performance in electrolytic water splitting reactions. However, the development of efficient HEO electrocatalysts are often hindered by the limited surface exposed active sites because high temperature is usually required to form a high entropy stabilized structure. Herein, a flaky high-entropy oxide with a spinel structure, (FeCoNiCrMn)3O4, was synthesized by using the sacrificial layered carbon template in situ prepared by the volatile reaction between ammonium sulfate and molten glucose. High-resolution TEM results show the as-prepared (FeCoNiCrMn)3O4 flakes are composed of nanosized HEO particles. The nanosized (FeCoNiCrMn)3O4 HEO electrocatalysts exhibit excellent OER activity, with an overpotential of 239 mV at 10 mA/cm2 and a Tafel slope of 52.4 mV/dec. The electrocatalyst has excellent stability. Even at a high current density of 100 mA/cm2, the activity remains unchanged during the stability test for 24 h. The results here shed a new light in the design and fabrication of highly efficient HEO electrocatalysts.</description>
-      <author>Bomin Feng, Jun Chen, Yifei Yang, Ming&#8208;Bo Yang, Hongbing Wang, Changyin Zhong, Xiaochong Zhao, Yunxi Yao</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmat.2024.02.003</guid>
     </item>
   </channel>
 </rss>

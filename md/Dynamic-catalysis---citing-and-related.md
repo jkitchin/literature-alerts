@@ -1,8 +1,8 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Sat Mar  9 00:42:08 2024
+Created on Sun Mar 10 00:47:43 2024
 
-Found 3 results from 2024-03-02 to 2024-03-09
+Found 3 results from 2024-03-03 to 2024-03-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)

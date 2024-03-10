@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:47:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -86,6 +86,16 @@
       <author>Nanda Dwi Jayanti, Hary Devianto, Pramujo Widiatmoko, Tirto Prakoso, M. Eviani</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0194299</guid>
+    </item>
+    <item>
+      <title>Sustainable Formate Synthesis: Integrating Ethylene Glycol Oxidation with Carbon Dioxide Electrocatalysis Using Redox-Stabilized Earth-Abundant Electrodes</title>
+      <link>https://doi.org/10.1021/acssuschemeng.3c08233</link>
+      <description>Ifra Bashir, James McGettrick, Moritz F. Kuehnel, Bilal Sarfraz, Sidra Arshad, Ali Rauf, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4392579512
+
+                Carbon dioxide electroreduction (CO2ER) coupled with water oxidation (oxygen evolution reaction, OER) presents a promising solution for effectively mitigating global warming. However, this process is compromised by the sluggish OER, which yields only undesirable O2. Here, we couple selective CO2ER with partial ethylene glycol oxidation (EGO) to concurrently produce formate in both half-reactions. The enhancement of active sites and optimization of formate selectivity are the principal objectives during the design of both electrodes. For CO2ER, redox stabilization of Sn-based cathodes is investigated via Pb doping, thus ultimately improving the Faradaic efficiency from 68% to &#8764;89%. To replace OER with EGO, we employed CuO@Ni(OH)2 on copper foam, reducing the applied potential by 200 mV at 50 mA/cm2. Finally, an EGO-coupled CO2 electrolyzer achieves 10 mA/cm2 at an overall cell voltage 180 mV lower than that of a conventional CO2 electrolyzer. This study showcases the integration of divergent electrochemical processes for concurrent electrosynthesis without precious metals to achieve cost-effective and sustainable formate production from CO2 and plastic waste.</description>
+      <author>Ifra Bashir, James McGettrick, Moritz F. Kuehnel, Bilal Sarfraz, Sidra Arshad, Ali Rauf</author>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c08233</guid>
     </item>
     <item>
       <title>Photochemical catalysis of carbon dioxide reduction by iron porphyrins</title>

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 09 Mar 2024 00:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:47:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -276,6 +276,16 @@
       <author>M. V. Jyothirmai, Roshini Dantuluri, Priyanka Sinha, B. M. Abraham, Jayant K. Singh</author>
       <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17389</guid>
+    </item>
+    <item>
+      <title>Adsorbate-Dependent Electronic Structure Descriptors for Machine Learning-Driven Binding Energy Predictions in Diverse Single Atom Alloys: A Reductionist Approach</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07398</link>
+      <description>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392579703
+
+                A long-standing challenge in the design of single atom alloys (SAAs), for catalytic applications, is the determination of a feature space that maximally correlates to molecular binding energies per the Sabatier principle. The more representative a feature space is of the underlying binding properties, the greater the predictive capability of a given machine learning (ML) algorithm. Moreover, the greater the diversity and range of SAA impurities/sites examined, the greater the difficulty in arriving at such a predictive feature. In this work, we undertake to examine the degree to which adsorbate electronic structure properties might address this challenge, in a distinct departure from the traditional substrate electronic structure feature construction found in the catalysis literature. Specifically, as a model system, we explore the predictive capacity of the p-orbital projected density of states (PDOS) pertaining to the adsorption of CO molecules on a wide range of SAA substrates, impurity embeddings, and vicinal cuts. This analysis is executed in two parts. First, we explore the degree to which the entire PDOS distribution, in the form of an energy-dependent vector, can predict binding energies. Subsequently, guided by a rigorous intrinsic dimensionality analysis, uniform manifold approximation and projection visualization, and chemical intuition, we are able to reduce the predictive feature space to just three physical quantities based on semicore level properties and charge filling of the adsorbate&#8211;as embedded with the PDOS distribution. This near-intrinsic feature space and the PDOS distribution are both shown to provide significant improvements in predictive accuracy when coupled with regression-based ML methods, even when tackling highly diverse chemical datasets. The results of this analysis both further substantiate the transferability characteristics of SAAs and indicate that adsorbate-based electronic structure features (from either relaxed or unrelaxed chemical datasets) are powerful tools in the prediction of catalytic binding energies in such systems. They also underscore the predictive benefit of finding a feature space with a dimension equal to the intrinsic dimensionality of the data that can maximally correlate with the physical property under investigation when employing ML methods in catalysis studies.</description>
+      <author>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan</author>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07398</guid>
     </item>
     <item>
       <title>A Simple and Efficient Method for the Nickel&#8208;Catalyzed Synthesis of Azines from Aldehydes and Hydrazines</title>

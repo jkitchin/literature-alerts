@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Mar  9 00:42:14 2024
+Created on Sun Mar 10 00:47:51 2024
 
-Found 33 results from 2024-03-02 to 2024-03-09
+Found 34 results from 2024-03-03 to 2024-03-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881]]
@@ -577,6 +577,27 @@ OpenAlex: https://openalex.org/W4392381981 (Open access: False)
 [[https://openalex.org/A5008388762][M. V. Jyothirmai]], [[https://openalex.org/A5094050446][Roshini Dantuluri]], [[https://openalex.org/A5000668703][Priyanka Sinha]], [[https://openalex.org/A5068866911][B. M. Abraham]], [[https://openalex.org/A5045526503][Jayant K. Singh]], ACS Applied Materials & Interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.3c17389 
      
 Rising global energy demand, accompanied by environmental concerns linked to conventional fossil fuels, necessitates a shift toward cleaner and sustainable alternatives. This study focuses on the machine-learning (ML)-driven high-throughput screening of transition-metal (TM) atom intercalated g-C3N4/MX2 (M = Mo, W; X = S, Se, Te) heterostructures to unravel the rich landscape of possibilities for enhancing the hydrogen evolution reaction (HER) activity. The stability of the heterostructures and the intercalation within the substrates are verified through adhesion and binding energies, showcasing the significant impact of chalcogenide selection on the interaction properties. Based on hydrogen adsorption Gibbs free energy (ΔGH) computed via density functional theory (DFT) calculations, several ML models were evaluated, particularly random forest regression (RFR) emerges as a robust tool in predicting HER activity with a low mean absolute error (MAE) of 0.118 eV, thereby paving the way for accelerated catalyst screening. The Shapley Additive exPlanation (SHAP) analysis elucidates pivotal descriptors that influence the HER activity, including hydrogen adsorption on the C site (HC), MX layer (HMX), S site (HS), and intercalation of TM atoms at the N site (IN). Overall, our integrated approach utilizing DFT and ML effectively identifies hydrogen adsorption on the N site (site-3) of g-C3N4 as a pivotal active site, showcasing exceptional HER activity in heterostructures intercalated with Sc and Ti, underscoring their potential for advancing catalytic performance.    
+
+    
+
+* Adsorbate-Dependent Electronic Structure Descriptors for Machine Learning-Driven Binding Energy Predictions in Diverse Single Atom Alloys: A Reductionist Approach  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392579703
+:TOPICS: Accelerating Materials Innovation through Informatics, Advancements in Density Functional Theory, Engineering of Surface Nanostructures
+:PUBLICATION_DATE: 2024-03-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.3c07398")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392579703"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392579703"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392579703"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392579703 (Open access: False)
+    
+[[https://openalex.org/A5012158112][Javad Shirani]], [[https://openalex.org/A5079882013][J. R. Valdés]], [[https://openalex.org/A5066354389][Alain B. Tchagang]], [[https://openalex.org/A5044240193][Kirk H. Bevan]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.3c07398 
+     
+A long-standing challenge in the design of single atom alloys (SAAs), for catalytic applications, is the determination of a feature space that maximally correlates to molecular binding energies per the Sabatier principle. The more representative a feature space is of the underlying binding properties, the greater the predictive capability of a given machine learning (ML) algorithm. Moreover, the greater the diversity and range of SAA impurities/sites examined, the greater the difficulty in arriving at such a predictive feature. In this work, we undertake to examine the degree to which adsorbate electronic structure properties might address this challenge, in a distinct departure from the traditional substrate electronic structure feature construction found in the catalysis literature. Specifically, as a model system, we explore the predictive capacity of the p-orbital projected density of states (PDOS) pertaining to the adsorption of CO molecules on a wide range of SAA substrates, impurity embeddings, and vicinal cuts. This analysis is executed in two parts. First, we explore the degree to which the entire PDOS distribution, in the form of an energy-dependent vector, can predict binding energies. Subsequently, guided by a rigorous intrinsic dimensionality analysis, uniform manifold approximation and projection visualization, and chemical intuition, we are able to reduce the predictive feature space to just three physical quantities based on semicore level properties and charge filling of the adsorbate–as embedded with the PDOS distribution. This near-intrinsic feature space and the PDOS distribution are both shown to provide significant improvements in predictive accuracy when coupled with regression-based ML methods, even when tackling highly diverse chemical datasets. The results of this analysis both further substantiate the transferability characteristics of SAAs and indicate that adsorbate-based electronic structure features (from either relaxed or unrelaxed chemical datasets) are powerful tools in the prediction of catalytic binding energies in such systems. They also underscore the predictive benefit of finding a feature space with a dimension equal to the intrinsic dimensionality of the data that can maximally correlate with the physical property under investigation when employing ML methods in catalysis studies.    
 
     
 
