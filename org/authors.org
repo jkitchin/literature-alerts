@@ -1,49 +1,8 @@
 #+TITLE: authors
 Description: List of authors
-Created on Sun Mar 10 00:47:31 2024
+Created on Mon Mar 11 00:44:34 2024
 
-Found 2 results from 2024-03-03 to 2024-03-10
+Found 0 results from 2024-03-04 to 2024-03-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464]]
 
-* Introduction: What is a Bear?  :authors:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392322282
-:TOPICS: Wildlife Ecology and Conservation Biology
-:PUBLICATION_DATE: 2019-12-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1515/9781787445925-005")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392322282"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392322282"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392322282"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392322282 (Open access: False)
-    
-[[https://openalex.org/A5069391214][Owen Nevin]], [[https://openalex.org/A5042179500][Ian Convery]], [[https://openalex.org/A5041821959][Peter G Davis]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5010391869][Melanie Clapham]], Boydell and Brewer eBooks. None(None)] 2019. https://doi.org/10.1515/9781787445925-005 
-     
-No abstract    
-
-    
-
-* 7 Knowing Individual Bears  :authors:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392322290
-:TOPICS: Ancient Near Eastern Studies and Civilizations
-:PUBLICATION_DATE: 2019-12-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1515/9781787445925-012")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392322290"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392322290"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392322290"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392322290 (Open access: False)
-    
-[[https://openalex.org/A5069391214][Owen Nevin]], [[https://openalex.org/A5042179500][Ian Convery]], [[https://openalex.org/A5003442464][John R. Kitchin]], Boydell and Brewer eBooks. None(None)] 2019. https://doi.org/10.1515/9781787445925-012 
-     
-No abstract    
-
-    

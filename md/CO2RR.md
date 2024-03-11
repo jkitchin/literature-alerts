@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Mar 10 00:47:39 2024
+Created on Mon Mar 11 00:44:38 2024
 
-Found 27 results from 2024-03-03 to 2024-03-10
+Found 27 results from 2024-03-04 to 2024-03-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -103,6 +103,17 @@ Open access: False
 [Ifra Bashir](https://openalex.org/A5055839292), [James McGettrick](https://openalex.org/A5019718006), [Moritz F. Kuehnel](https://openalex.org/A5062042904), [Bilal Sarfraz](https://openalex.org/A5016201548), [Sidra Arshad](https://openalex.org/A5057508073), [Ali Rauf](https://openalex.org/A5068903563), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.3c08233.
     
 Carbon dioxide electroreduction (CO2ER) coupled with water oxidation (oxygen evolution reaction, OER) presents a promising solution for effectively mitigating global warming. However, this process is compromised by the sluggish OER, which yields only undesirable O2. Here, we couple selective CO2ER with partial ethylene glycol oxidation (EGO) to concurrently produce formate in both half-reactions. The enhancement of active sites and optimization of formate selectivity are the principal objectives during the design of both electrodes. For CO2ER, redox stabilization of Sn-based cathodes is investigated via Pb doping, thus ultimately improving the Faradaic efficiency from 68% to ∼89%. To replace OER with EGO, we employed CuO@Ni(OH)2 on copper foam, reducing the applied potential by 200 mV at 50 mA/cm2. Finally, an EGO-coupled CO2 electrolyzer achieves 10 mA/cm2 at an overall cell voltage 180 mV lower than that of a conventional CO2 electrolyzer. This study showcases the integration of divergent electrochemical processes for concurrent electrosynthesis without precious metals to achieve cost-effective and sustainable formate production from CO2 and plastic waste.    
+
+    
+
+## Improving the Roughness of Copper Working Electrode Through Electroless Deposition for Carbon Dioxide Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4392621229    
+Open access: False
+    
+[Yu‐Hsu Chang](https://openalex.org/A5064779642), [Watsananan T. Thienprasert](https://openalex.org/A5094106791), [N. Manjula](https://openalex.org/A5085717612), [Ninie Suhana Abdul Manan](https://openalex.org/A5045158889), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4753683.
+    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
 
     
 
@@ -279,17 +290,6 @@ Open access: False
 [Zhanzhao Fu](https://openalex.org/A5029332865), [Yixin Ouyang](https://openalex.org/A5054235490), [Mingliang Wu](https://openalex.org/A5019757765), [Chongyi Ling](https://openalex.org/A5007388482), [Jinlan Wang](https://openalex.org/A5020585562), Science Bulletin. None(None)] 2024.https://doi.org/10.1016/j.scib.2024.03.012.
     
 Oxygen-containing species have been demonstrated to play a key role in facilitating electrocatalytic CO2 reduction (CO2RR), particularly in enhancing the selectivity towards multi-carbon (C2+) products. However, the underlying promotion mechanism is still under debate, which greatly limits the rational optimization of the catalytic performance of CO2RR. Herein, taking CO2 and O2 co-electrolysis over Cu as the prototype, we successfully clarified how O2 boosts CO2RR from a new perspective by employing comprehensive theoretical simulations. Our results demonstrated that O2 in feed gas can be rapidly reduced into *OH, leading to the partial oxidation of Cu surface under reduction conditions. Surface *OH accelerates the formation of quasi-specifically adsorbed K+ due to the electrostatic interaction between *OH and K+ ions, which significantly increases the concentration of K+ near the Cu surface. These quasi-specifically adsorbed K+ ions can not only lower the C–C coupling barriers but also promote the hydrogenation of CO2 to improve the CO yield rate, which are responsible for the remarkably enhanced efficiency of C2+ products. During the whole process, O2 co-electrolysis plays an indispensable role in stabilizing surface *OH. This mechanism can be also adopted to understand the effect of high pH of electrolyte and residual O in oxide-derived Cu (OD-Cu) on the catalytic efficiency towards C2+ products. Therefore, our work provides new insights into strategies for improving C2+ products on the Cu-based catalysts, i.e., maintaining partial oxidation of surface under reduction conditions.    
-
-    
-
-## Electrodeposition of Cuxbi1-X-Mof for Electrochemical Reduction of Co2   
-
-OpenAlex: https://openalex.org/W4392465749    
-Open access: False
-    
-[Xinlei Cheng](https://openalex.org/A5054852894), [Min Wu](https://openalex.org/A5082899866), [Yan Xu](https://openalex.org/A5021488560), [Shiying Wang](https://openalex.org/A5074811994), [Qianqian Wang](https://openalex.org/A5062755510), [Wenchang Wang](https://openalex.org/A5034220138), [Naotoshi Mitsuzaki](https://openalex.org/A5014014810), [Zhidong Chen](https://openalex.org/A5089061216), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4747851.
-    
-No abstract    
 
     
 

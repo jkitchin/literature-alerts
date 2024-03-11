@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:44:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Introduction: What is a Bear?</title>
-      <link>https://doi.org/10.1515/9781787445925-005</link>
-      <description>Owen Nevin, Ian Convery, Peter G Davis, John R. Kitchin, Melanie Clapham, Boydell and Brewer eBooks. None(None)] 2019. https://openalex.org/W4392322282
-
-                No abstract</description>
-      <author>Owen Nevin, Ian Convery, Peter G Davis, John R. Kitchin, Melanie Clapham</author>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1515/9781787445925-005</guid>
-    </item>
-    <item>
-      <title>7 Knowing Individual Bears</title>
-      <link>https://doi.org/10.1515/9781787445925-012</link>
-      <description>Owen Nevin, Ian Convery, John R. Kitchin, Boydell and Brewer eBooks. None(None)] 2019. https://openalex.org/W4392322290
-
-                No abstract</description>
-      <author>Owen Nevin, Ian Convery, John R. Kitchin</author>
-      <pubDate>Tue, 31 Dec 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1515/9781787445925-012</guid>
-    </item>
   </channel>
 </rss>

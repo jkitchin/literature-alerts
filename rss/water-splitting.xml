@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:44:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -140,10 +140,10 @@
     <item>
       <title>Heterostructures by Templated Synthesis of Layered Double Hydroxide to Modulate the Electronic Structure of Nickel Sites for a Highly Efficient Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.1002/smsc.202300294</link>
-      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
+      <description>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante, Small science. None(None)] 2024. https://openalex.org/W4392290654
 
                 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni&#8208;based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe&#8208;LDH, are prepared by an LDH&#8208;based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe&#8208;LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni&#8208;active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe&#8208;LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm &#8722;2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.</description>
-      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicolas Alonso&#8208;Vante</author>
+      <author>Ke Xu, Haihong Zhong, Xuying Li, Junhua Song, Luis Alberto Estudillo&#8208;Wong, Jun Yang, Yongjun Feng, Xiaojuan Zhao, Nicol&#225;s Alonso-Vante</author>
       <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smsc.202300294</guid>
     </item>
@@ -408,16 +408,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202311505</guid>
     </item>
     <item>
-      <title>Mn-doped RuO&lt;sub&gt;2&lt;/sub&gt; nanocrystals with abundant oxygen vacancies for enhanced oxygen evolution in acidic media</title>
-      <link>https://doi.org/10.1039/d4qi00013g</link>
-      <description>Chengchao Zheng, Bing Huang, Xuwei Liu, Hao Wang, Lunhui Guan, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4392394344
-
-                Synthesizing Mn&#8211;RuO 2 -120(NaNO 3 ) with abundant oxygen vacancies using the molten salt method enhances the oxygen evolution reaction (OER) catalytic performance, demonstrating excellent activity and stability.</description>
-      <author>Chengchao Zheng, Bing Huang, Xuwei Liu, Hao Wang, Lunhui Guan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4qi00013g</guid>
-    </item>
-    <item>
       <title>In situ formation of robust nanostructured Cobalt oxyhydroxide / Cobalt oxide oxygen evolution reaction electrocatalysts</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-j9ml0</link>
       <description>Yupeng Zhao, Dandan Gao, Johannes Biskupek, Ute Kaiser, Rongji Liu, Carsten Streb, No host. None(None)] 2024. https://openalex.org/W4392353445
@@ -426,6 +416,16 @@
       <author>Yupeng Zhao, Dandan Gao, Johannes Biskupek, Ute Kaiser, Rongji Liu, Carsten Streb</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-j9ml0</guid>
+    </item>
+    <item>
+      <title>Mn-doped RuO&lt;sub&gt;2&lt;/sub&gt; nanocrystals with abundant oxygen vacancies for enhanced oxygen evolution in acidic media</title>
+      <link>https://doi.org/10.1039/d4qi00013g</link>
+      <description>Chengchao Zheng, Bing Huang, Xuwei Liu, Hao Wang, Lunhui Guan, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4392394344
+
+                Synthesizing Mn&#8211;RuO 2 -120(NaNO 3 ) with abundant oxygen vacancies using the molten salt method enhances the oxygen evolution reaction (OER) catalytic performance, demonstrating excellent activity and stability.</description>
+      <author>Chengchao Zheng, Bing Huang, Xuwei Liu, Hao Wang, Lunhui Guan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi00013g</guid>
     </item>
     <item>
       <title>Oxide Encapsulated Ruthenium Oxide Catalysts for Selective Oxygen Evolution in Unbuffered pH Neutral Seawater</title>
@@ -438,6 +438,16 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-szsq8</guid>
     </item>
     <item>
+      <title>Tungsten Doped Fecop2 Nanoparticles Embedded into Carbon for Highly Efficient Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4752172</link>
+      <description>Xinyao Quan, Jiajia Ma, Qian-Shuo Shao, Hao-Cong Li, Lingxiang Sun, Gui Li Huang, Yan Su, Hong Zhang, Yuning Wang, Xiaoqing Wang, No host. None(None)] 2024. https://openalex.org/W4392626811
+
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
+      <author>Xinyao Quan, Jiajia Ma, Qian-Shuo Shao, Hao-Cong Li, Lingxiang Sun, Gui Li Huang, Yan Su, Hong Zhang, Yuning Wang, Xiaoqing Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4752172</guid>
+    </item>
+    <item>
       <title>Super Stable Selenium Nickel-Iron Electrocatalyst for Oxygen Evolution Reaction in Natural Seawater</title>
       <link>https://doi.org/10.2139/ssrn.4750999</link>
       <description>Jue Wang, Zhi Liu, Libei Feng, Di L&#252;, Libei Feng, Qinfang Zhang, Daniel Hedman, Shengfu Tong, No host. None(None)] 2024. https://openalex.org/W4392565606
@@ -446,16 +456,6 @@
       <author>Jue Wang, Zhi Liu, Libei Feng, Di L&#252;, Libei Feng, Qinfang Zhang, Daniel Hedman, Shengfu Tong</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4750999</guid>
-    </item>
-    <item>
-      <title>Electronic Structure Control of IrO2 via Conjugated Polymer Support for Highly Efficient Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1088/2053-1591/ad30ab</link>
-      <description>Yusaku Asai, Koichi Higashimine, Shun Nishimura, Rajashekar Badam, Noriyoshi Matsumi, Materials Research Express. None(None)] 2024. https://openalex.org/W4392520542
-
-                Abstract In this paper, we report synthesis of novel nanoparticle catalyst of iridium oxide supported on conjugated polymer along with evaluation of activity and durability for oxygen evolution reaction. The IrO2/poly(BIAN-thiophene)/TNT catalyst was prepared from iridium complex and poly(BIAN-thiophene)/TNT by hydrothermal method. The synthesized IrO2/poly(BIAN-thiophene)/TNT catalysts was characterized by scanning electron microscopy, transmission electron microscopy, Fourier transfer-infrared spectroscopy, ray photoelectron spectroscopy and electrochemical methods. The average particle size of the IrO2 particles on poly(BIAN-thiophene)/TNT was 2.5 nm. The XPS measurement revealed that Ir complex was completely converted to iridium oxide through hydrothermal treatment. The IrO2/poly(BIAN-thiophene)/TNT catalyst showed sufficient performance for OER activity and durability in acidic condition. Our results indicate that IrO2/poly(BIAN-thiophene)/TNT is one of the prospective candidate catalysts for water splitting.</description>
-      <author>Yusaku Asai, Koichi Higashimine, Shun Nishimura, Rajashekar Badam, Noriyoshi Matsumi</author>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/2053-1591/ad30ab</guid>
     </item>
   </channel>
 </rss>

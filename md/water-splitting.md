@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Mar 10 00:47:31 2024
+Created on Mon Mar 11 00:44:34 2024
 
-Found 45 results from 2024-03-03 to 2024-03-10
+Found 45 results from 2024-03-04 to 2024-03-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -155,7 +155,7 @@ No abstract
 OpenAlex: https://openalex.org/W4392290654    
 Open access: True
     
-[Ke Xu](https://openalex.org/A5076139079), [Haihong Zhong](https://openalex.org/A5075105240), [Xuying Li](https://openalex.org/A5049620625), [Junhua Song](https://openalex.org/A5081438845), [Luis Alberto Estudillo‐Wong](https://openalex.org/A5082046835), [Jun Yang](https://openalex.org/A5051262214), [Yongjun Feng](https://openalex.org/A5028441112), [Xiaojuan Zhao](https://openalex.org/A5087432052), [Nicolas Alonso‐Vante](https://openalex.org/A5085058884), Small science. None(None)] 2024.https://doi.org/10.1002/smsc.202300294.
+[Ke Xu](https://openalex.org/A5076139079), [Haihong Zhong](https://openalex.org/A5075105240), [Xuying Li](https://openalex.org/A5049620625), [Junhua Song](https://openalex.org/A5081438845), [Luis Alberto Estudillo‐Wong](https://openalex.org/A5082046835), [Jun Yang](https://openalex.org/A5051262214), [Yongjun Feng](https://openalex.org/A5028441112), [Xiaojuan Zhao](https://openalex.org/A5087432052), [Nicolás Alonso-Vante](https://openalex.org/A5085058884), Small science. None(None)] 2024.https://doi.org/10.1002/smsc.202300294.
     
 The design and development of highly efficient electrocatalysts for oxygen evolution reaction (OER) are critical for renewable energy generation. Ni‐based electrocatalysts are widely used in the water electrolysis process. In this work, heterostructure consisting of selenides and layered double hydroxides (LDH) named (Co, Ni)Se 4 @NiFe‐LDH, are prepared by an LDH‐based strategy, in which the electronic structure of Ni active sites is regulated by interfacial electron interaction. The (Co, Ni)Se 4 @NiFe‐LDH shows an optimized charge distribution of Ni sites and excellent catalytic activity. The effective charge modulation results in lowering the energy barrier of OOH* intermediate formation and adequate adsorption strength of the intermediates on Ni‐active sites, which improves the kinetics of OER. Specifically, the (Co, Ni)Se 4 @NiFe‐LDH only requires an overpotential of 237 mV to reach the current density of 10 mA cm −2 under alkaline conditions. The results of this work demonstrate that reasonable engineering of heterostructure is an effective strategy to improve the intrinsic property of OER electrocatalysts for water splitting.    
 
@@ -447,17 +447,6 @@ Abstract The rational design of heterogeneous catalysts is crucial for achieving
 
     
 
-## Mn-doped RuO2 nanocrystals with abundant oxygen vacancies for enhanced oxygen evolution in acidic media   
-
-OpenAlex: https://openalex.org/W4392394344    
-Open access: False
-    
-[Chengchao Zheng](https://openalex.org/A5073895879), [Bing Huang](https://openalex.org/A5011903103), [Xuwei Liu](https://openalex.org/A5049810380), [Hao Wang](https://openalex.org/A5080102032), [Lunhui Guan](https://openalex.org/A5087843398), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi00013g.
-    
-Synthesizing Mn–RuO 2 -120(NaNO 3 ) with abundant oxygen vacancies using the molten salt method enhances the oxygen evolution reaction (OER) catalytic performance, demonstrating excellent activity and stability.    
-
-    
-
 ## In situ formation of robust nanostructured Cobalt oxyhydroxide / Cobalt oxide oxygen evolution reaction electrocatalysts   
 
 OpenAlex: https://openalex.org/W4392353445    
@@ -466,6 +455,17 @@ Open access: True
 [Yupeng Zhao](https://openalex.org/A5002962939), [Dandan Gao](https://openalex.org/A5088121808), [Johannes Biskupek](https://openalex.org/A5002418054), [Ute Kaiser](https://openalex.org/A5017684207), [Rongji Liu](https://openalex.org/A5089443613), [Carsten Streb](https://openalex.org/A5080329256), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-j9ml0 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e04983e9ebbb4db98b043b/original/in-situ-formation-of-robust-nanostructured-cobalt-oxyhydroxide-cobalt-oxide-oxygen-evolution-reaction-electrocatalysts.pdf)).
     
 The design of efficient and stable oxygen evolution reaction (OER) catalysts-based earth-abundant metal precursors is crucial for large-scale energy conversion and storage. To-date, many catalyst materials are limited by poor stability in harsh oxidative conditions. Thus, much research is targeted at developing materials that can operate under demanding OER conditions. One promising approach is the in-situ formation of catalysts which are inherently stable under the oxidizing, alkaline conditions often used in OER studies. Here, we report how mixed metal sulfide precursors (i.e. CoMo2S4 and FeS2) which give the low overpotentials (307 mV at j = 10 mA·cm-2) at the beginning of catalysis, are converted in-situ to give a highly stable composite OER catalyst under alkaline OER conditions (1 M aqueous KOH solution, pH = 13.8). Mechanistic studies reveal that under operation, the precursor materials are converted to γ-CoOOH nanofibers and Co2O3 nanoparticles, both well-known prototype OER catalysts. The report demonstrates that the presence of crystalline mix metal sulfide precursors is critical for the simultaneous in-situ formation of the active catalysts, highlighting that use of these earth-abundant minerals might offer an economically and chemically viable route for scalable catalyst development.    
+
+    
+
+## Mn-doped RuO2 nanocrystals with abundant oxygen vacancies for enhanced oxygen evolution in acidic media   
+
+OpenAlex: https://openalex.org/W4392394344    
+Open access: False
+    
+[Chengchao Zheng](https://openalex.org/A5073895879), [Bing Huang](https://openalex.org/A5011903103), [Xuwei Liu](https://openalex.org/A5049810380), [Hao Wang](https://openalex.org/A5080102032), [Lunhui Guan](https://openalex.org/A5087843398), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi00013g.
+    
+Synthesizing Mn–RuO 2 -120(NaNO 3 ) with abundant oxygen vacancies using the molten salt method enhances the oxygen evolution reaction (OER) catalytic performance, demonstrating excellent activity and stability.    
 
     
 
@@ -480,6 +480,17 @@ Direct seawater electrolysis is a promising approach to producing green hydrogen
 
     
 
+## Tungsten Doped Fecop2 Nanoparticles Embedded into Carbon for Highly Efficient Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392626811    
+Open access: False
+    
+[Xinyao Quan](https://openalex.org/A5022780097), [Jiajia Ma](https://openalex.org/A5008095269), [Qian-Shuo Shao](https://openalex.org/A5021295877), [Hao-Cong Li](https://openalex.org/A5033209965), [Lingxiang Sun](https://openalex.org/A5065738034), [Gui Li Huang](https://openalex.org/A5001387667), [Yan Su](https://openalex.org/A5037431207), [Hong Zhang](https://openalex.org/A5061732797), [Yuning Wang](https://openalex.org/A5062588973), [Xiaoqing Wang](https://openalex.org/A5039772620), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4752172.
+    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
+
+    
+
 ## Super Stable Selenium Nickel-Iron Electrocatalyst for Oxygen Evolution Reaction in Natural Seawater   
 
 OpenAlex: https://openalex.org/W4392565606    
@@ -488,16 +499,5 @@ Open access: False
 [Jue Wang](https://openalex.org/A5076036593), [Zhi Liu](https://openalex.org/A5017916417), [Libei Feng](https://openalex.org/A5068653819), [Di Lü](https://openalex.org/A5035933733), [Libei Feng](https://openalex.org/A5068653819), [Qinfang Zhang](https://openalex.org/A5047437279), [Daniel Hedman](https://openalex.org/A5056534926), [Shengfu Tong](https://openalex.org/A5007547111), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4750999.
     
 Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
-
-## Electronic Structure Control of IrO2 via Conjugated Polymer Support for Highly Efficient Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392520542    
-Open access: True
-    
-[Yusaku Asai](https://openalex.org/A5045039551), [Koichi Higashimine](https://openalex.org/A5080200773), [Shun Nishimura](https://openalex.org/A5009715855), [Rajashekar Badam](https://openalex.org/A5030745222), [Noriyoshi Matsumi](https://openalex.org/A5072439341), Materials Research Express. None(None)] 2024.https://doi.org/10.1088/2053-1591/ad30ab ([pdf](https://iopscience.iop.org/article/10.1088/2053-1591/ad30ab/pdf)).
-    
-Abstract In this paper, we report synthesis of novel nanoparticle catalyst of iridium oxide supported on conjugated polymer along with evaluation of activity and durability for oxygen evolution reaction. The IrO2/poly(BIAN-thiophene)/TNT catalyst was prepared from iridium complex and poly(BIAN-thiophene)/TNT by hydrothermal method. The synthesized IrO2/poly(BIAN-thiophene)/TNT catalysts was characterized by scanning electron microscopy, transmission electron microscopy, Fourier transfer-infrared spectroscopy, ray photoelectron spectroscopy and electrochemical methods. The average particle size of the IrO2 particles on poly(BIAN-thiophene)/TNT was 2.5 nm. The XPS measurement revealed that Ir complex was completely converted to iridium oxide through hydrothermal treatment. The IrO2/poly(BIAN-thiophene)/TNT catalyst showed sufficient performance for OER activity and durability in acidic condition. Our results indicate that IrO2/poly(BIAN-thiophene)/TNT is one of the prospective candidate catalysts for water splitting.    
 
     

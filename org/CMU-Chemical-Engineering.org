@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Mar 10 00:47:42 2024
+Created on Mon Mar 11 00:44:40 2024
 
-Found 5 results from 2024-03-03 to 2024-03-10
+Found 3 results from 2024-03-04 to 2024-03-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -45,48 +45,6 @@ OpenAlex: https://openalex.org/W4392452074 (Open access: True)
 [[https://openalex.org/A5058691896][Hongyu Zhang]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5068032633][Asgeir Tomasgård]], Research Square (Research Square). None(None)] 2024. https://doi.org/10.21203/rs.3.rs-3258743/v2  ([[https://www.researchsquare.com/article/rs-3258743/latest.pdf][pdf]])
      
 Abstract Multi-horizon stochastic programming includes short-term and long-term uncertainty in investment planning problems more efficiently than traditional multi-stage stochastic programming. In this paper, we exploit the block separable structure of multi-horizon stochastic linear programming, and establish that it can be decomposed by Benders decomposition and Lagrangean decomposition. In addition, we propose parallel Lagrangean decomposition with primal reduction that, (1) solves the scenario subproblems in parallel, (2) reduces the primal problem by keeping one copy for each scenario group at each stage, and (3) solves the reduced primal problem in parallel. We apply the parallel Lagrangean decomposition with primal reduction, Lagrangean decomposition and Benders decomposition to solve a stochastic energy system investment planning problem. The computational results show that: (a) the Lagrangean type decomposition algorithms have better convergence at the first iterations to Benders decomposition, and (b) parallel Lagrangean decomposition with primal reduction is very efficient for solving multi-horizon stochastic programming problems. Based on the computational results, the choice of algorithms for multi-horizon stochastic programming is discussed.    
-
-    
-
-* Introduction: What is a Bear?  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392322282
-:TOPICS: Wildlife Ecology and Conservation Biology
-:PUBLICATION_DATE: 2019-12-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1515/9781787445925-005")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392322282"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392322282"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392322282"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392322282 (Open access: False)
-    
-[[https://openalex.org/A5069391214][Owen Nevin]], [[https://openalex.org/A5042179500][Ian Convery]], [[https://openalex.org/A5041821959][Peter G Davis]], [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5010391869][Melanie Clapham]], Boydell and Brewer eBooks. None(None)] 2019. https://doi.org/10.1515/9781787445925-005 
-     
-No abstract    
-
-    
-
-* 7 Knowing Individual Bears  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392322290
-:TOPICS: Ancient Near Eastern Studies and Civilizations
-:PUBLICATION_DATE: 2019-12-31
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1515/9781787445925-012")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392322290"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392322290"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392322290"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392322290 (Open access: False)
-    
-[[https://openalex.org/A5069391214][Owen Nevin]], [[https://openalex.org/A5042179500][Ian Convery]], [[https://openalex.org/A5003442464][John R. Kitchin]], Boydell and Brewer eBooks. None(None)] 2019. https://doi.org/10.1515/9781787445925-012 
-     
-No abstract    
 
     
 

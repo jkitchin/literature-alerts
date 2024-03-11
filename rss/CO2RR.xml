@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Mar 2024 00:47:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 00:44:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -96,6 +96,16 @@
       <author>Ifra Bashir, James McGettrick, Moritz F. Kuehnel, Bilal Sarfraz, Sidra Arshad, Ali Rauf</author>
       <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c08233</guid>
+    </item>
+    <item>
+      <title>Improving the Roughness of Copper Working Electrode Through Electroless Deposition for Carbon Dioxide Reduction Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4753683</link>
+      <description>Yu&#8208;Hsu Chang, Watsananan T. Thienprasert, N. Manjula, Ninie Suhana Abdul Manan, No host. None(None)] 2024. https://openalex.org/W4392621229
+
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
+      <author>Yu&#8208;Hsu Chang, Watsananan T. Thienprasert, N. Manjula, Ninie Suhana Abdul Manan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4753683</guid>
     </item>
     <item>
       <title>Photochemical catalysis of carbon dioxide reduction by iron porphyrins</title>
@@ -256,16 +266,6 @@
       <author>Zhanzhao Fu, Yixin Ouyang, Mingliang Wu, Chongyi Ling, Jinlan Wang</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.03.012</guid>
-    </item>
-    <item>
-      <title>Electrodeposition of Cuxbi1-X-Mof for Electrochemical Reduction of Co2</title>
-      <link>https://doi.org/10.2139/ssrn.4747851</link>
-      <description>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen, No host. None(None)] 2024. https://openalex.org/W4392465749
-
-                No abstract</description>
-      <author>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4747851</guid>
     </item>
     <item>
       <title>Experimental Research on the Carbon Dioxides Reduction Potential by Substitution Gasoline with Ethanol and Propane Under Reactivity Controlled Compression Ignition in a Single Cylinder Engine</title>
