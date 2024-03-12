@@ -1,8 +1,8 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Mar 11 00:44:34 2024
+Created on Tue Mar 12 00:43:11 2024
 
-Found 45 results from 2024-03-04 to 2024-03-11
+Found 45 results from 2024-03-05 to 2024-03-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
@@ -254,7 +254,7 @@ Lithium-oxygen batteries stand out among post-lithium-ion batteries due to their
 OpenAlex: https://openalex.org/W4392343642    
 Open access: False
     
-[Xiaorong Chen](https://openalex.org/A5057903251), [Xinmeng Yu](https://openalex.org/A5028383740), [Guixin Zhang](https://openalex.org/A5014282682), [Sisi Wei](https://openalex.org/A5048507101), [Youguo Huang](https://openalex.org/A5067540103), [Shaoyi Wang](https://openalex.org/A5079420932), [Juantao Jiang](https://openalex.org/A5067979856), [Zhaoling Ma](https://openalex.org/A5091251729), [Qingyu Li](https://openalex.org/A5012413938), Journal of Electroanalytical Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118162.
+[Xiaorong Chen](https://openalex.org/A5057903251), [Xinmeng Yu](https://openalex.org/A5028383740), [Guixin Zhang](https://openalex.org/A5014282682), [Sisi Wei](https://openalex.org/A5048507101), [Youguo Huang](https://openalex.org/A5067540103), [Shaoyi Wang](https://openalex.org/A5079420932), [Juantao Jiang](https://openalex.org/A5067979856), [Zhaoling Ma](https://openalex.org/A5091251729), [Qingyu Li](https://openalex.org/A5012413938), Journal of Electroanalytical Chemistry. 958(None)] 2024.https://doi.org/10.1016/j.jelechem.2024.118162.
     
 The bifunctional non-noble metal catalysts based on the metal nitrides with high activity and high efficiency is very challenging for the development of high-performance metal-air batteries. Herein, a new Ni-Co ternary nitrides anchored on nitrogen-doped carbontubes (denoted as NiCoxN/CNT) is rationally designed by the thermal of corresponding hydroxide/carbontubes at low temperature, following nitridation. The synergistic effect between Ni-Co ternary nitrides (Ni4N, Co5.47N, CoN) effectively regulates the electronic configuration of the active site, thereby optimizing the chemisorption energy of the reaction intermediates, resulting in improved intrinsic catalytic activity. The result shows that NiCoxN/CNT not only exhibits excellent half-wave potential of 0.80 V for ORR but also with a low overpotential of 280 mV for OER at 10 mA cm−2, outperforming those of cobalt mononitride and nickel mononitride. Furthermore, Zn-air batteries assembled with NiCoxN/CNT show a high specific capacity of 826.9 mA h g−1 and excellent cycling stabilities up to 190 h in an aqueous electrolyte. More attractively, when assembled into Mg-air batteries, NiCoxN/CNT cathode realizes high power density of 112.38 mWcm−2. Therefore, the design and construction of multiple TMNs is a new guide to break through the bifunctional catalytic activity.    
 
@@ -447,17 +447,6 @@ Abstract The rational design of heterogeneous catalysts is crucial for achieving
 
     
 
-## In situ formation of robust nanostructured Cobalt oxyhydroxide / Cobalt oxide oxygen evolution reaction electrocatalysts   
-
-OpenAlex: https://openalex.org/W4392353445    
-Open access: True
-    
-[Yupeng Zhao](https://openalex.org/A5002962939), [Dandan Gao](https://openalex.org/A5088121808), [Johannes Biskupek](https://openalex.org/A5002418054), [Ute Kaiser](https://openalex.org/A5017684207), [Rongji Liu](https://openalex.org/A5089443613), [Carsten Streb](https://openalex.org/A5080329256), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-j9ml0 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e04983e9ebbb4db98b043b/original/in-situ-formation-of-robust-nanostructured-cobalt-oxyhydroxide-cobalt-oxide-oxygen-evolution-reaction-electrocatalysts.pdf)).
-    
-The design of efficient and stable oxygen evolution reaction (OER) catalysts-based earth-abundant metal precursors is crucial for large-scale energy conversion and storage. To-date, many catalyst materials are limited by poor stability in harsh oxidative conditions. Thus, much research is targeted at developing materials that can operate under demanding OER conditions. One promising approach is the in-situ formation of catalysts which are inherently stable under the oxidizing, alkaline conditions often used in OER studies. Here, we report how mixed metal sulfide precursors (i.e. CoMo2S4 and FeS2) which give the low overpotentials (307 mV at j = 10 mA·cm-2) at the beginning of catalysis, are converted in-situ to give a highly stable composite OER catalyst under alkaline OER conditions (1 M aqueous KOH solution, pH = 13.8). Mechanistic studies reveal that under operation, the precursor materials are converted to γ-CoOOH nanofibers and Co2O3 nanoparticles, both well-known prototype OER catalysts. The report demonstrates that the presence of crystalline mix metal sulfide precursors is critical for the simultaneous in-situ formation of the active catalysts, highlighting that use of these earth-abundant minerals might offer an economically and chemically viable route for scalable catalyst development.    
-
-    
-
 ## Mn-doped RuO2 nanocrystals with abundant oxygen vacancies for enhanced oxygen evolution in acidic media   
 
 OpenAlex: https://openalex.org/W4392394344    
@@ -466,6 +455,17 @@ Open access: False
 [Chengchao Zheng](https://openalex.org/A5073895879), [Bing Huang](https://openalex.org/A5011903103), [Xuwei Liu](https://openalex.org/A5049810380), [Hao Wang](https://openalex.org/A5080102032), [Lunhui Guan](https://openalex.org/A5087843398), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d4qi00013g.
     
 Synthesizing Mn–RuO 2 -120(NaNO 3 ) with abundant oxygen vacancies using the molten salt method enhances the oxygen evolution reaction (OER) catalytic performance, demonstrating excellent activity and stability.    
+
+    
+
+## In situ formation of robust nanostructured Cobalt oxyhydroxide / Cobalt oxide oxygen evolution reaction electrocatalysts   
+
+OpenAlex: https://openalex.org/W4392353445    
+Open access: True
+    
+[Yupeng Zhao](https://openalex.org/A5002962939), [Dandan Gao](https://openalex.org/A5088121808), [Johannes Biskupek](https://openalex.org/A5002418054), [Ute Kaiser](https://openalex.org/A5017684207), [Rongji Liu](https://openalex.org/A5089443613), [Carsten Streb](https://openalex.org/A5080329256), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-j9ml0 ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e04983e9ebbb4db98b043b/original/in-situ-formation-of-robust-nanostructured-cobalt-oxyhydroxide-cobalt-oxide-oxygen-evolution-reaction-electrocatalysts.pdf)).
+    
+The design of efficient and stable oxygen evolution reaction (OER) catalysts-based earth-abundant metal precursors is crucial for large-scale energy conversion and storage. To-date, many catalyst materials are limited by poor stability in harsh oxidative conditions. Thus, much research is targeted at developing materials that can operate under demanding OER conditions. One promising approach is the in-situ formation of catalysts which are inherently stable under the oxidizing, alkaline conditions often used in OER studies. Here, we report how mixed metal sulfide precursors (i.e. CoMo2S4 and FeS2) which give the low overpotentials (307 mV at j = 10 mA·cm-2) at the beginning of catalysis, are converted in-situ to give a highly stable composite OER catalyst under alkaline OER conditions (1 M aqueous KOH solution, pH = 13.8). Mechanistic studies reveal that under operation, the precursor materials are converted to γ-CoOOH nanofibers and Co2O3 nanoparticles, both well-known prototype OER catalysts. The report demonstrates that the presence of crystalline mix metal sulfide precursors is critical for the simultaneous in-situ formation of the active catalysts, highlighting that use of these earth-abundant minerals might offer an economically and chemically viable route for scalable catalyst development.    
 
     
 

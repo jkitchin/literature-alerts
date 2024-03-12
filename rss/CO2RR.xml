@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:44:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 00:43:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -268,14 +268,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.03.012</guid>
     </item>
     <item>
-      <title>Experimental Research on the Carbon Dioxides Reduction Potential by Substitution Gasoline with Ethanol and Propane Under Reactivity Controlled Compression Ignition in a Single Cylinder Engine</title>
-      <link>https://doi.org/10.1007/s12239-024-00026-6</link>
-      <description>Jeongwoo Lee, Sanghyun Chu, Jieun Kang, Kyoungdoug Min, International Journal of Automotive Technology. None(None)] 2024. https://openalex.org/W4392363017
+      <title>Electrodeposition of Cuxbi1-X-Mof for Electrochemical Reduction of Co2</title>
+      <link>https://doi.org/10.2139/ssrn.4747851</link>
+      <description>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen, No host. None(None)] 2024. https://openalex.org/W4392465749
 
-                Abstract In this experiment, it was experimentally investigated the combustion and exhaust characteristics, as well as the thermal efficiency, of RCCI combustion using gasoline, ethanol, and propane as low-reactivity fuels under four operating conditions. For each operating condition, gISNO x was limited to 0.15 g/kWh, and gISSmoke was limited to below 15 mg/kWh. The experiment was conducted by determining the operating conditions that satisfied these limitations and resulted in the highest city thermal efficiency. The low-reactivity fuels were supplied by port injection, while diesel was directly injected into the combustion chamber using a diesel injector. As a result, when gasoline is replaced with low-carbon fuels like ethanol and propane, the reduction in CO 2 emissions occurred. Under maximum power conditions, using ethanol allowed for a maximum reduction in CO 2 emissions of 6.81%. Depending on the driving conditions, ethanol showed a reduction ranging from 3.60 to 6.81%, while propane exhibited a reduction ranging from 3.10 to 5.64%. Additionally, by substituting with ethanol and propane, the GIE could be improved up to 44.73 and 43.56%, respectively.</description>
-      <author>Jeongwoo Lee, Sanghyun Chu, Jieun Kang, Kyoungdoug Min</author>
-      <pubDate>Sun, 03 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12239-024-00026-6</guid>
+                No abstract</description>
+      <author>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4747851</guid>
     </item>
   </channel>
 </rss>

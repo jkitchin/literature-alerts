@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Mar 11 00:44:38 2024
+Created on Tue Mar 12 00:43:17 2024
 
-Found 27 results from 2024-03-04 to 2024-03-11
+Found 27 results from 2024-03-05 to 2024-03-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -293,13 +293,13 @@ Oxygen-containing species have been demonstrated to play a key role in facilitat
 
     
 
-## Experimental Research on the Carbon Dioxides Reduction Potential by Substitution Gasoline with Ethanol and Propane Under Reactivity Controlled Compression Ignition in a Single Cylinder Engine   
+## Electrodeposition of Cuxbi1-X-Mof for Electrochemical Reduction of Co2   
 
-OpenAlex: https://openalex.org/W4392363017    
-Open access: True
+OpenAlex: https://openalex.org/W4392465749    
+Open access: False
     
-[Jeongwoo Lee](https://openalex.org/A5023940594), [Sanghyun Chu](https://openalex.org/A5046271540), [Jieun Kang](https://openalex.org/A5074221485), [Kyoungdoug Min](https://openalex.org/A5010685701), International Journal of Automotive Technology. None(None)] 2024.https://doi.org/10.1007/s12239-024-00026-6.
+[Xinlei Cheng](https://openalex.org/A5054852894), [Min Wu](https://openalex.org/A5082899866), [Yan Xu](https://openalex.org/A5021488560), [Shiying Wang](https://openalex.org/A5074811994), [Qianqian Wang](https://openalex.org/A5062755510), [Wenchang Wang](https://openalex.org/A5034220138), [Naotoshi Mitsuzaki](https://openalex.org/A5014014810), [Zhidong Chen](https://openalex.org/A5089061216), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4747851.
     
-Abstract In this experiment, it was experimentally investigated the combustion and exhaust characteristics, as well as the thermal efficiency, of RCCI combustion using gasoline, ethanol, and propane as low-reactivity fuels under four operating conditions. For each operating condition, gISNO x was limited to 0.15 g/kWh, and gISSmoke was limited to below 15 mg/kWh. The experiment was conducted by determining the operating conditions that satisfied these limitations and resulted in the highest city thermal efficiency. The low-reactivity fuels were supplied by port injection, while diesel was directly injected into the combustion chamber using a diesel injector. As a result, when gasoline is replaced with low-carbon fuels like ethanol and propane, the reduction in CO 2 emissions occurred. Under maximum power conditions, using ethanol allowed for a maximum reduction in CO 2 emissions of 6.81%. Depending on the driving conditions, ethanol showed a reduction ranging from 3.60 to 6.81%, while propane exhibited a reduction ranging from 3.10 to 5.64%. Additionally, by substituting with ethanol and propane, the GIE could be improved up to 44.73 and 43.56%, respectively.    
+No abstract    
 
     
