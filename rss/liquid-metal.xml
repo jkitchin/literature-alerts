@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Mar 2024 00:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 00:44:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrochemical Nitrate&#8208;to&#8208;Ammonia Conversion Enabled by Carbon&#8208;Decoration of Ni&#9472;GaOOH Synthesized via Plasma&#8208;Assisted CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1002/smll.202311302</link>
-      <description>Abd H. Babikir, Xin Mao, Aijun Du, J.D. Riches, Kostya Ken Ostrikov, Anthony P. O&#8217;Mullane, Small. None(None)] 2024. https://openalex.org/W4392344784
-
-                Abstract The release of nitrates into the environment leads to contaminated soil and water that poses a health risk to humans and animals. Due to the transition to renewable energy&#8208;based technologies, an electrochemical approach is an emerging option that can selectively produce valuable ammonia from nitrate sources. However, traditional metal&#8208;based electrocatalysts often suffer from low nitrate adsorption that reduces NH 3 production rates. Here, a Ni&#8208;GaOOH&#8208;C/Ga electrocatalyst for electrochemical nitrate conversion into NH 3 is synthesized via a low energy atmospheric&#8208;pressure plasma process that reduces CO 2 into highly dispersed activated carbon on dispersed Ni&#9472;GaOOH particles produced from a liquid metal Ga&#9472;Ni alloy precursor. Nitrate conversion rates of up to 26.3 &#181;g h &#8722;1 mg &#8722;1 cat are achieved with good stability of up to 20 h. Critically, the presence of carbon centers is central to improved performance where both Ni&#9472;C and NiO&#9472;C interfaces act as NO 3&#8722; adsorption and reduction centers during the reaction. Density functional theory (DFT) calculations indicate that the NiO&#9472;C and Ni&#9472;C reaction sites reduce the Gibbs free energy required for NO 3&#8722; reduction to NH 3 compared to NiO and Ni. Importantly, catalysts without carbon centers do not produce NH 3 , emphasizing the unique effects of incorporating carbon nanoparticles into the electrocatalyst.</description>
-      <author>Abd H. Babikir, Xin Mao, Aijun Du, J.D. Riches, Kostya Ken Ostrikov, Anthony P. O&#8217;Mullane</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202311302</guid>
-    </item>
-    <item>
-      <title>In situ characterisation of graphene growth on liquid copper-gallium alloys: Paving the path for cost-effective synthesis</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159723</link>
-      <description>Valentina Belova, Florian Letellier, Maciej Jankowski, Marc de Voogd, Mahesh K. Prabhu, Lei Yao, G. J. C. van Baarle, Gilles Renaud, Mehdi Saedi, Irene M. N. Groot, Oleg Konovalov, Applied Surface Science. 657(None)] 2024. https://openalex.org/W4392269378
-
-                Liquid metal catalysts (LMCats), primarily molten copper, have demonstrated their efficiency in the chemical vapour deposition (CVD) approach for synthesising highquality, large-area graphene. However, their high melting temperatures limit broader applications. Reducing the temperature of graphene production on LMCats would lead to a more efficient and cost-effective process. Here, we investigated the effects of alloying copper with a low-melting temperature metal on graphene growth in real-time. We examined a set of liquid copper-gallium alloy systems using two complementary in situ techniques: radiation-mode optical microscopy and synchrotron X-ray reflectivity (XRR). The microscopy observations revealed reduced catalytic activity and graphene quality degradation in compositions with gallium domination. The XRR confirmed the formation of single-layer graphene on alloys with up to 60 wt% of gallium. Furthermore, we detected a systematic increase in adsorption height on the alloys' surface, indicating weaker adhesion of graphene on gallium. These findings suggest that a trade-off between layer quality and cost reduction in production is feasible. Our results provide insights into the CVD synthesis of graphene on bimetallic liquid surfaces and underscore the potential of gallium-copper alloys for enabling the direct transfer of graphene from a liquid substrate, thereby addressing the limitations imposed by the high melting temperatures of conventional LMCats.</description>
-      <author>Valentina Belova, Florian Letellier, Maciej Jankowski, Marc de Voogd, Mahesh K. Prabhu, Lei Yao, G. J. C. van Baarle, Gilles Renaud, Mehdi Saedi, Irene M. N. Groot, Oleg Konovalov</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159723</guid>
-    </item>
   </channel>
 </rss>

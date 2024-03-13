@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 12 Mar 2024 00:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 00:44:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Lipid nanoparticle structure and delivery route during pregnancy dictate mRNA potency, immunogenicity, and maternal and fetal outcomes</title>
-      <link>https://doi.org/10.1073/pnas.2307810121</link>
-      <description>Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Saigopalakrishna S. Yerneni, Samuel T. LoPresti, Rose Doerfler, Daria M. Strelkova Petersen, Catalina Montoya, Julie S. Kim, Bethany Fox, Tiffany A. Coon, Angela Malaney, Yoel Sadovsky, Kathryn A. Whitehead, Proceedings of the National Academy of Sciences of the United States of America. 121(11)] 2024. https://openalex.org/W4392367072
-
-                Treating pregnancy-related disorders is exceptionally challenging because the threat of maternal and/or fetal toxicity discourages the use of existing medications and hinders new drug development. One potential solution is the use of lipid nanoparticle (LNP) RNA therapies, given their proven efficacy, tolerability, and lack of fetal accumulation. Here, we describe LNPs for efficacious mRNA delivery to maternal organs in pregnant mice via several routes of administration. In the placenta, our lead LNP transfected trophoblasts, endothelial cells, and immune cells, with efficacy being structurally dependent on the ionizable lipid polyamine headgroup. Next, we show that LNP-induced maternal inflammatory responses affect mRNA expression in the maternal compartment and hinder neonatal development. Specifically, pro-inflammatory LNP structures and routes of administration curtailed efficacy in maternal lymphoid organs in an IL-1&#946;-dependent manner. Further, immunogenic LNPs provoked the infiltration of adaptive immune cells into the placenta and restricted pup growth after birth. Together, our results provide mechanism-based structural guidance on the design of potent LNPs for safe use during pregnancy.</description>
-      <author>Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Saigopalakrishna S. Yerneni, Samuel T. LoPresti, Rose Doerfler, Daria M. Strelkova Petersen, Catalina Montoya, Julie S. Kim, Bethany Fox, Tiffany A. Coon, Angela Malaney, Yoel Sadovsky, Kathryn A. Whitehead</author>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2307810121</guid>
-    </item>
     <item>
       <title>Decomposition methods for multi-horizon stochastic programming</title>
       <link>https://doi.org/10.21203/rs.3.rs-3258743/v2</link>
@@ -28,14 +18,14 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3258743/v2</guid>
     </item>
     <item>
-      <title>Synthesis of sulfured and/or phosphored molecules : evaluation of their additivating properties : correlation structure/properties</title>
-      <link>https://openalex.org/W4392432167</link>
-      <description>Robert D. Tilton, No host. None(None)] 1994. https://openalex.org/W4392432167
+      <title>Circular Economy: not just another name for waste treatment</title>
+      <link>https://doi.org/10.1007/s10098-024-02798-y</link>
+      <description>Ana I. Torres, Clean Technologies and Environmental Policy. None(None)] 2024. https://openalex.org/W4392663506
 
                 No abstract</description>
-      <author>Robert D. Tilton</author>
-      <pubDate>Mon, 07 Mar 1994 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392432167</guid>
+      <author>Ana I. Torres</author>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10098-024-02798-y</guid>
     </item>
   </channel>
 </rss>

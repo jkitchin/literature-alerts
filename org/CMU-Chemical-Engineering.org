@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Mar 12 00:43:19 2024
+Created on Wed Mar 13 00:44:32 2024
 
-Found 3 results from 2024-03-05 to 2024-03-12
+Found 2 results from 2024-03-06 to 2024-03-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Lipid nanoparticle structure and delivery route during pregnancy dictate mRNA potency, immunogenicity, and maternal and fetal outcomes  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392367072
-:TOPICS: Mechanisms and Applications of RNA Interference, Immunological Mechanisms in Pregnancy and Fetal-Maternal Interface, Impact of COVID-19 Infection on Pregnancy Outcomes
-:PUBLICATION_DATE: 2024-03-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1073/pnas.2307810121")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392367072"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392367072"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392367072"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392367072 (Open access: True)
-    
-[[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5080909957][Alexandra N. Newby]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5075263409][Saigopalakrishna S. Yerneni]], [[https://openalex.org/A5064315710][Samuel T. LoPresti]], [[https://openalex.org/A5050347382][Rose Doerfler]], [[https://openalex.org/A5082946273][Daria M. Strelkova Petersen]], [[https://openalex.org/A5068381010][Catalina Montoya]], [[https://openalex.org/A5046231534][Julie S. Kim]], [[https://openalex.org/A5073349333][Bethany Fox]], [[https://openalex.org/A5056257626][Tiffany A. Coon]], [[https://openalex.org/A5011734251][Angela Malaney]], [[https://openalex.org/A5063409367][Yoel Sadovsky]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], Proceedings of the National Academy of Sciences of the United States of America. 121(11)] 2024. https://doi.org/10.1073/pnas.2307810121  ([[https://www.pnas.org/doi/pdf/10.1073/pnas.2307810121][pdf]])
-     
-Treating pregnancy-related disorders is exceptionally challenging because the threat of maternal and/or fetal toxicity discourages the use of existing medications and hinders new drug development. One potential solution is the use of lipid nanoparticle (LNP) RNA therapies, given their proven efficacy, tolerability, and lack of fetal accumulation. Here, we describe LNPs for efficacious mRNA delivery to maternal organs in pregnant mice via several routes of administration. In the placenta, our lead LNP transfected trophoblasts, endothelial cells, and immune cells, with efficacy being structurally dependent on the ionizable lipid polyamine headgroup. Next, we show that LNP-induced maternal inflammatory responses affect mRNA expression in the maternal compartment and hinder neonatal development. Specifically, pro-inflammatory LNP structures and routes of administration curtailed efficacy in maternal lymphoid organs in an IL-1β-dependent manner. Further, immunogenic LNPs provoked the infiltration of adaptive immune cells into the placenta and restricted pup growth after birth. Together, our results provide mechanism-based structural guidance on the design of potent LNPs for safe use during pregnancy.    
-
-    
 
 * Decomposition methods for multi-horizon stochastic programming  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -48,22 +27,22 @@ Abstract Multi-horizon stochastic programming includes short-term and long-term 
 
     
 
-* Synthesis of sulfured and/or phosphored molecules : evaluation of their additivating properties : correlation structure/properties  :CMU_Chemical_Engineering:
+* Circular Economy: not just another name for waste treatment  :CMU_Chemical_Engineering:
 :PROPERTIES:
-:UUID: https://openalex.org/W4392432167
-:TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Superelectrophilic Chemistry, Synthesis and Applications of Thioamides
-:PUBLICATION_DATE: 1994-03-07
+:UUID: https://openalex.org/W4392663506
+:TOPICS: Conceptualizing the Circular Economy and Sustainable Supply Chains, Global E-Waste Recycling and Management, Solid Waste Management
+:PUBLICATION_DATE: 2024-03-11
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10098-024-02798-y")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392432167"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392432167"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392432167"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392663506"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392663506"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392663506"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4392432167 (Open access: True)
+OpenAlex: https://openalex.org/W4392663506 (Open access: True)
     
-[[https://openalex.org/A5037506064][Robert D. Tilton]], No host. None(None)] 1994. None  ([[https://hal.univ-lorraine.fr/tel-01776036/document][pdf]])
+[[https://openalex.org/A5027983186][Ana I. Torres]], Clean Technologies and Environmental Policy. None(None)] 2024. https://doi.org/10.1007/s10098-024-02798-y  ([[https://link.springer.com/content/pdf/10.1007/s10098-024-02798-y.pdf][pdf]])
      
 No abstract    
 

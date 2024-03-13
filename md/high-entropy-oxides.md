@@ -1,18 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue Mar 12 00:43:18 2024
+Created on Wed Mar 13 00:44:31 2024
 
-Found 1 results from 2024-03-05 to 2024-03-12
+Found 0 results from 2024-03-06 to 2024-03-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
-## Promoting catalysis in magnesium hydride for solid-state hydrogen storage through manipulating the elements of high entropy oxides   
-
-OpenAlex: https://openalex.org/W4392391536    
-Open access: True
-    
-[Li Wang](https://openalex.org/A5004591407), [Liuting Zhang](https://openalex.org/A5067964625), [Fuying Wu](https://openalex.org/A5090373185), [Yiqun Jiang](https://openalex.org/A5089114394), [Zhendong Yao](https://openalex.org/A5048645037), [Lixin Chen](https://openalex.org/A5010466371), Journal of Magnesium and Alloys. None(None)] 2024.https://doi.org/10.1016/j.jma.2024.01.030.
-    
-The lattice distortion effect and cocktail effect of high-entropy oxides (HEOs) will dominate the catalytic effect of the materials, in order to study the influence of the constituent elements of HEOs on the lattice distortion effect and cocktail effect, through elemental manipulation of Cr, Cu, and La, high entropy oxides (HEOs) catalyst CrMnFeCoNiO (Cr1:1), CuMnFeCoNiO (Cu1:1), and LaMnFeCoNiO (La1:1) were effectively synthesized by the facile co-precipitation approach. With a size of about 10 nm, Cr1:1 presented significant modification impacts on enhancing the hydrogen storage capability of MgH2. Specifically, MgH2 was able to release hydrogen at 200 °C with the addition of Cr1:1, MgH2+10wt% Cr1:1 showed prompt rate of dehydrogenation which could release 5.56 wt% H2 in 20 min at 250 °C, and the activation energy of MgH2 was lowered to 69.77± 3.75 kJ⋅mol−1 by adding Cr1:1. According to the Chou model fitting, the exceptional kinetic performance of the composite was attributable to a rate-controlling step changed from low-speed surface penetration to high-speed diffusion. Furthermore, MgH2+10wt% Cr1:1 was capable of absorbing hydrogen at ambient temperature and the composite could uptake 6 wt% H2 within 8 min at the temperature of 150 °C. Due to the high entropy effects of HEOs, Cr1:1 possessed superior stability, which guarantees the robust cycling qualities of MgH2+10wt% Cr1:1. Meanwhile, microstructure analysis revealed that the active sites with numerous heterogeneous structures were uniformly dispersed on surfaces, exhibiting superior catalytic effects on improving the hydrogen storage performance of MgH2.    
-
-    

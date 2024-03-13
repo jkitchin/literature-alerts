@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Mar 12 00:43:19 2024
+Created on Wed Mar 13 00:44:32 2024
 
-Found 3 results from 2024-03-05 to 2024-03-12
+Found 2 results from 2024-03-06 to 2024-03-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Lipid nanoparticle structure and delivery route during pregnancy dictate mRNA potency, immunogenicity, and maternal and fetal outcomes   
-
-OpenAlex: https://openalex.org/W4392367072    
-Open access: True
-    
-[Namit Chaudhary](https://openalex.org/A5073121497), [Alexandra N. Newby](https://openalex.org/A5080909957), [Mariah L. Arral](https://openalex.org/A5049474410), [Saigopalakrishna S. Yerneni](https://openalex.org/A5075263409), [Samuel T. LoPresti](https://openalex.org/A5064315710), [Rose Doerfler](https://openalex.org/A5050347382), [Daria M. Strelkova Petersen](https://openalex.org/A5082946273), [Catalina Montoya](https://openalex.org/A5068381010), [Julie S. Kim](https://openalex.org/A5046231534), [Bethany Fox](https://openalex.org/A5073349333), [Tiffany A. Coon](https://openalex.org/A5056257626), [Angela Malaney](https://openalex.org/A5011734251), [Yoel Sadovsky](https://openalex.org/A5063409367), [Kathryn A. Whitehead](https://openalex.org/A5010666650), Proceedings of the National Academy of Sciences of the United States of America. 121(11)] 2024.https://doi.org/10.1073/pnas.2307810121 ([pdf](https://www.pnas.org/doi/pdf/10.1073/pnas.2307810121)).
-    
-Treating pregnancy-related disorders is exceptionally challenging because the threat of maternal and/or fetal toxicity discourages the use of existing medications and hinders new drug development. One potential solution is the use of lipid nanoparticle (LNP) RNA therapies, given their proven efficacy, tolerability, and lack of fetal accumulation. Here, we describe LNPs for efficacious mRNA delivery to maternal organs in pregnant mice via several routes of administration. In the placenta, our lead LNP transfected trophoblasts, endothelial cells, and immune cells, with efficacy being structurally dependent on the ionizable lipid polyamine headgroup. Next, we show that LNP-induced maternal inflammatory responses affect mRNA expression in the maternal compartment and hinder neonatal development. Specifically, pro-inflammatory LNP structures and routes of administration curtailed efficacy in maternal lymphoid organs in an IL-1β-dependent manner. Further, immunogenic LNPs provoked the infiltration of adaptive immune cells into the placenta and restricted pup growth after birth. Together, our results provide mechanism-based structural guidance on the design of potent LNPs for safe use during pregnancy.    
-
-    
 
 ## Decomposition methods for multi-horizon stochastic programming   
 
@@ -28,12 +17,12 @@ Abstract Multi-horizon stochastic programming includes short-term and long-term 
 
     
 
-## Synthesis of sulfured and/or phosphored molecules : evaluation of their additivating properties : correlation structure/properties   
+## Circular Economy: not just another name for waste treatment   
 
-OpenAlex: https://openalex.org/W4392432167    
+OpenAlex: https://openalex.org/W4392663506    
 Open access: True
     
-[Robert D. Tilton](https://openalex.org/A5037506064), No host. None(None)] 1994.None ([pdf](https://hal.univ-lorraine.fr/tel-01776036/document)).
+[Ana I. Torres](https://openalex.org/A5027983186), Clean Technologies and Environmental Policy. None(None)] 2024.https://doi.org/10.1007/s10098-024-02798-y ([pdf](https://link.springer.com/content/pdf/10.1007/s10098-024-02798-y.pdf)).
     
 No abstract    
 
