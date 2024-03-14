@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:44:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:43:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Mechanisms of aqueous bromate reduction activity enhancement with well-defined bimetallic palladium-based catalysts</title>
-      <link>https://doi.org/10.1016/j.apcata.2024.119654</link>
-      <description>Jacob Troutman, Jo&#227;o Restivo, Hyunwoo Ha, Zahra Bajalan, Carolyn E. Brady, Juliana Leles Costa, Carolina Vigil-Hernandez, Jos&#233; R. M. Barbosa, Carla A. Orge, M.F.R. Pereira, Simon M. Humphrey, Graeme Henkelman, Charles J. Werth, O.S.G.P. Soares, Applied Catalysis A: General. None(None)] 2024. https://openalex.org/W4392453571
-
-                Catalytic reduction has been shown to remove bromate (BrO3&#8722;) in drinking water without waste stream formation, though most reported catalysts rely on palladium (Pd), a financially and environmentally expensive metal. Emerging efforts show Pd can be partially replaced with less expensive metals in nanoparticle (NP) alloys, with enhanced hydrogenation reactivity. However, it is unclear if novel NP alloys will enhance bromate reduction, and if so whether they can be intelligently designed based on underlying mechanisms of enhancement. Herein, we address this knowledge gap reporting that well-defined alloyed PdCu and PdAg nanoparticles deposited on carbon nanotubes achieve a 3.9-times improvement in catalytic activity versus monometallic Pd catalysts, which further translates to catalysts prepared using straight-forward impregnation methods. Density functional theory results indicate that improved hydrogenation rates are related to optimized BrO3&#8722; and H binding on PdM surfaces achieved by electronic effects in PdCu alloys and unique surface ensembles in PdAg alloys. Overall, these catalysts delineate a pathway for improved bromate removal activity at environmentally relevant concentrations.</description>
-      <author>Jacob Troutman, Jo&#227;o Restivo, Hyunwoo Ha, Zahra Bajalan, Carolyn E. Brady, Juliana Leles Costa, Carolina Vigil-Hernandez, Jos&#233; R. M. Barbosa, Carla A. Orge, M.F.R. Pereira, Simon M. Humphrey, Graeme Henkelman, Charles J. Werth, O.S.G.P. Soares</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcata.2024.119654</guid>
-    </item>
-    <item>
-      <title>Tuning the electronic metal-carbon interactions in Lignin-based carbon-supported ruthenium-based electrocatalysts for enhanced hydrogen evolution reactions</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.03.019</link>
-      <description>Qichang Wang, Jing Zhao, Xianguang Yang, Jianfei Li, Chunfei Wu, Dekui Shen, Chongbo Cheng, Liuting Xu, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4392454475
-
-                Ruthenium (Ru) nanoparticles dispersed on carbon support are promising electrocatalysts for hydrogen evolution reaction (HER) due to strong electronic metal-carbon interactions (EMCIs). Defects engineering in carbon supports is an effective strategy to adjust EMCIs. We prepared nitrogen/sulfur co-doped carbon supported Ru nanoparticles (Ru@N/S-LC) using sodium lignosulfonate and urea as feedstocks. Intrinsic S dopants from sodium lignosulfonate create rich S defects, thus enhancing the EMCIs within Ru@N/S-LC, leading a faster electron transfer between Ru nanoparticles and N/S-LC compared with N-doped carbon supported Ru nanoparticles (Ru@N-CC). The resulting Ru@N/S-LC exhibits an enhanced work function and a down-shifted d-band center, inducing stronger electron capturing ability and weaker hydrogen desorption energy than Ru@N-CC. Ru@N/S-LC requires only 7 and 94 mV overpotential in acidic medium and alkaline medium to achieve a current density of 10 mA cm&#8722;2. Density Functional Theory (DFT) calculations were utilized to clarify the impact of sulfur (S) doping and the mechanism underlying the notable catalytic activity of Ru@N/S-LC. This study offers a perspective for utilizing the natural dopants of biomass to adjust the EMCIs for electrocatalysts.</description>
-      <author>Qichang Wang, Jing Zhao, Xianguang Yang, Jianfei Li, Chunfei Wu, Dekui Shen, Chongbo Cheng, Liuting Xu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.019</guid>
-    </item>
-    <item>
-      <title>First-Principles Insights into Tungsten Semicarbide-Based Single-Atom Catalysts: Single-Atom Migration and Mechanisms in Oxygen Reduction</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00398</link>
-      <description>Xiangyu Zhu, Mingqi He, Xing Chen, Yanan Zhou, Chang Xu, Xingxing Li, Qiquan Luo, Jinlong Yang, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392458454
-
-                No abstract</description>
-      <author>Xiangyu Zhu, Mingqi He, Xing Chen, Yanan Zhou, Chang Xu, Xingxing Li, Qiquan Luo, Jinlong Yang</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00398</guid>
-    </item>
-    <item>
-      <title>Origin of the Oxygen Reduction Activity on Boron-Doped Fe&#8211;N&#8211;C Catalysts for Zinc&#8211;Air Battery Applications</title>
-      <link>https://doi.org/10.1021/acsaem.3c03122</link>
-      <description>Anook Nazer Eledath, Anuroop Edathiparambil Poulose, Azhagumuthu Muthukrishnan, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4392460224
-
-                No abstract</description>
-      <author>Anook Nazer Eledath, Anuroop Edathiparambil Poulose, Azhagumuthu Muthukrishnan</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03122</guid>
-    </item>
-    <item>
-      <title>Iron Molybdenum Sulfide&#8208;Supported Ultrafine Ru Nanoclusters for Robust Sulfion Degradation&#8208;Assisted Hydrogen Production</title>
-      <link>https://doi.org/10.1002/adfm.202315326</link>
-      <description>Jiahui Wang, Min Zhou, Rong Fu, Ju Ge, Wei Yang, Xufeng Hong, Congli Sun, Xiaobin Liao, Yan Zhao, Zhaoyang Wang, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392472943
-
-                Abstract Electrocatalytic hydrogen evolution and (S 2&#8722; ) recycling present promising strategies for cost&#8208;effective hydrogen production and simultaneous removal of environmental pollutants. However, the advancement of this technology is hindered by the limited availability of affordable, efficient, and stable catalysts. Herein, the study synthesizes ultrafine ruthenium (Ru) nanoclusters on a substrate of iron molybdenum sulfide (FeMo&#8208;S) nanosheets, creating a new heterointerface catalyst (FeMo&#8208;S/Ru) for the hydrogen evolution reaction (HER) and sulfion oxidation reaction (SOR). Experimental and theoretical calculations suggest that strong electron interactions between Ru nanoclusters and FeMo&#8208;S substrate, optimizing *H adsorption and promoting HER activity on one side while facilitating the production and adsorption of sulfur intermediates on the other side, effectively catalyzing SOR. Additionally, the assembled electrocatalytic coupling system with FeMo&#8208;S/Ru displays an ultralow cell voltage of 0.57 V at 100 mA cm &#8722;2 , achieving high Faradaic efficiencies (&gt;96%) for H 2 production, while also exhibiting remarkable durability over 1 month (838 h). This work paves the way for the development of highly efficient and durable supported catalysts, enabling energy&#8208;saving hydrogen production and environmentally friendly sulfion recycling.</description>
-      <author>Jiahui Wang, Min Zhou, Rong Fu, Ju Ge, Wei Yang, Xufeng Hong, Congli Sun, Xiaobin Liao, Yan Zhao, Zhaoyang Wang</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202315326</guid>
-    </item>
     <item>
       <title>calorine: A Python package for constructing and sampling neuroevolution potential models</title>
       <link>https://doi.org/10.21105/joss.06264</link>
@@ -258,6 +208,56 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06110</guid>
     </item>
     <item>
+      <title>An effective descriptor for identifying the electrocatalytic activity and selectivity of bilayer carbon-based heterojunction catalysts</title>
+      <link>https://doi.org/10.1016/j.carbon.2024.119006</link>
+      <description>Lei Yang, Jiake Fan, Weihua Zhu, Carbon. 222(None)] 2024. https://openalex.org/W4392571175
+
+                The usage of composite carbon-based materials supported by graphene has emerged as a powerful selection for designing electrocatalytic electrodes due to their agile electronic transmission and diversiform redox active sites. Here, we constructed fresh electroactive organic catalysts for hydrogen carrier synthesis by stacking a series of organic molecules on transition metal azide doped graphene substrates, in anticipation of these bilayer heterostructures to breathe new life into electrocatalysis. As expected, several promising cathodic catalysts were speculated through first principles calculations, such as Co-PMDT for H2 generation and Co-PQ for ammonia (NH3) synthesis. However, facing such an intricate interface engineering and electronic structure regulation undoubtedly poses a challenge to the time-consuming computational screening work. To tackle this, an effective descriptor was proposed as a predictive tool for identifying the activity and selectivity toward diverse chemical reactions, which allows us to systematically fine-tune the catalysts' properties in order to enhance their electrocatalytic performance. Our work may offer feasible approaches for the rational design of advanced electrocatalysts.</description>
+      <author>Lei Yang, Jiake Fan, Weihua Zhu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119006</guid>
+    </item>
+    <item>
+      <title>Efficient C-N coupling in electrocatalytic urea generation on copper carbonate hydroxide electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.02.020</link>
+      <description>Yinuo Wang, Yian Wang, Qinglan Zhao, Hongming Xu, Shangqian Zhu, Fei Yang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Changhui Song, Juhee Jang, Tiehuai Li, Ping Gao, Meng Gu, Minhua Shao, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392571416
+
+                Urea generation through electrochemical CO2 and NO3&#8722; co-reduction reaction (CO2NO3RR) is still limited by either the low selectivity or yield rate of urea. Herein, we report copper carbonate hydroxide (Cu2(OH)2CO3) as an efficient CO2NO3RR electrocatalyst with an impressive urea Faradaic efficiency of 45.2% &#177; 2.1% and a high yield rate of 1564.5 &#177; 145.2 &#956;g h&#8722;1 mgcat&#8722;1. More importantly, H2 evolution is fully inhibited on this electrocatalyst over a wide potential range between &#8722;0.3 and &#8722;0.8 V versus reversible hydrogen electrode. Our thermodynamic simulation reveals that the first C-N coupling follows a unique pathway on Cu2(OH)2CO3 by combining the two intermediates, *COOH and *NHO. This work demonstrates that high selectivity and yield rate of urea can be simultaneously achieved on simple Cu-based electrocatalysts in CO2NO3RR, and provide guidance for rational design of more advanced catalysts.</description>
+      <author>Yinuo Wang, Yian Wang, Qinglan Zhao, Hongming Xu, Shangqian Zhu, Fei Yang, Ernest Pahuyo Delmo, Xiaoyi Qiu, Changhui Song, Juhee Jang, Tiehuai Li, Ping Gao, Meng Gu, Minhua Shao</author>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.020</guid>
+    </item>
+    <item>
+      <title>An All-Atom Force Field for Dry and Water-Lubricated Carbon Tribological Interfaces</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07471</link>
+      <description>Thomas Reichenbach, Souleymane Sylla, Leonhard Mayrhofer, Pedro Romero, Paul Schwarz, Michael Moseler, Gianpietro Moras, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392578215
+
+                We present a nonreactive force field for molecular dynamics simulations of interfaces between amorphous carbon surfaces and their interaction with water. The force field is tailored to surfaces with hydrogen, hydroxyl, and aromatic surface passivation and enables large-scale simulations of dry and lubricated tribological contacts. To favor its compatibility with existing force-field parameterizations for liquids and allow a straightforward extension to other types of surface passivation species, we adopt the functional form of the Optimized Potentials for Liquid Simulations. The optimization of the force-field parameters is systematic and follows a protocol that can be reused for other surface&#8211;molecule combinations. Reference data are calculated with gradient- and dispersion-corrected density functional theory and include the bonding geometry and elastic deformation of bulk and surface species as well as surface adhesion and water adsorption energy landscapes. The conventions adopted to define the different force-field atom types are based on the hybridization of carbon orbitals and enable a simple and efficient parameter optimization strategy that only requires quantum-mechanical simulations of crystalline reference structures. After testing the force field on amorphous interfaces, we present two examples of application to tribological problems. Namely, we investigate the relationships between dry friction and the corrugation of the contact potential energy surface and the dependency of friction on the thickness of interface water films. We finally discuss the limitations of the force field and propose strategies for its improvement and extension.</description>
+      <author>Thomas Reichenbach, Souleymane Sylla, Leonhard Mayrhofer, Pedro Romero, Paul Schwarz, Michael Moseler, Gianpietro Moras</author>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07471</guid>
+    </item>
+    <item>
+      <title>From Molecular Precursors to MoS&lt;sub&gt;2&lt;/sub&gt; Monolayers: Nanoscale Mechanism of Organometallic Chemical Vapor Deposition</title>
+      <link>https://doi.org/10.1021/acs.chemmater.3c02675</link>
+      <description>Sagar Ghorai, Ananth Govind Rajan, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4392593437
+
+                The development of a fully ab initio theory for the chemical vapor deposition (CVD) synthesis of two-dimensional (2D) materials is a prominent challenge in computational chemistry and materials science. Here, quantum-mechanical density functional theory calculations are used to discover the mechanisms underlying the nucleation and growth of monolayer 2H molybdenum disulfide (MoS2) during organometallic CVD. Starting with molybdenum hexacarbonyl (Mo(CO)6) and hydrogen sulfide (H2S) as molecular precursors, we elucidate processes such as the decomposition of Mo(CO)6 to Mo(CO)3, sulfidation of Mo(CO)3, formation of metallic trigonal-phase (1T) Mo&#8211;S clusters, transition to semiconducting hexagonal-phase 2H MoS2, and the competition between the growth of Mo- and S-zigzag edges that lead to triangular and hexagonal flakes. We demonstrate thermodynamic and kinetic control over the formation of Mo- and S-zigzag edges. Additionally, we find the removal of hydrogen (H2) to be the rate-determining step in the growth process. We further compute the free energy of formation of the investigated Mo&#8211;S clusters on amorphous SiO2, demonstrating the important role played by the SiO2 substrate in the initial stages of nucleation and growth. We also show the feasibility of forming Mo&#8211;S clusters with more than two Mo atoms on the SiO2 surface. Our work lays the foundation for developing fully ab initio models of 2D material synthesis.</description>
+      <author>Sagar Ghorai, Ananth Govind Rajan</author>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c02675</guid>
+    </item>
+    <item>
+      <title>Machine Learning Isotropic &lt;i&gt;g&lt;/i&gt; Values of Radical Polymers</title>
+      <link>https://doi.org/10.1021/acs.jctc.3c01252</link>
+      <description>Davis Thomas Daniel, Souvik Mitra, R&#252;diger&#8208;A. Eichel, Diddo Diddens, Josef Granwehr, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4392595502
+
+                Methods for electronic structure computations, such as density functional theory (DFT), are routinely used for the calculation of spectroscopic parameters to establish and validate structure&#8211;parameter correlations. DFT calculations, however, are computationally expensive for large systems such as polymers. This work explores the machine learning (ML) of isotropic g values, giso, obtained from electron paramagnetic resonance (EPR) experiments of an organic radical polymer. An ML model based on regression trees is trained on DFT-calculated g values of poly(2,2,6,6-tetramethylpiperidinyloxy-4-yl methacrylate) (PTMA) polymer structures extracted from different time frames of a molecular dynamics trajectory. The DFT-derived g values, gisocalc, for different radical densities of PTMA, are compared against experimentally derived g values obtained from in operando EPR measurements of a PTMA-based organic radical battery. The ML-predicted giso values, gisopred, were compared with gisocalc to evaluate the performance of the model. Mean deviations of gisopred from gisocalc were found to be on the order of 0.0001. Furthermore, a performance evaluation on test structures from a separate MD trajectory indicated that the model is sensitive to the radical density and efficiently learns to predict giso values even for radical densities that were not part of the training data set. Since our trained model can reproduce the changes in giso along the MD trajectory and is sensitive to the extent of equilibration of the polymer structure, it is a promising alternative to computationally more expensive DFT methods, particularly for large systems that cannot be easily represented by a smaller model system.</description>
+      <author>Davis Thomas Daniel, Souvik Mitra, R&#252;diger&#8208;A. Eichel, Diddo Diddens, Josef Granwehr</author>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01252</guid>
+    </item>
+    <item>
       <title>Adsorbate-Dependent Electronic Structure Descriptors for Machine Learning-Driven Binding Energy Predictions in Diverse Single Atom Alloys: A Reductionist Approach</title>
       <link>https://doi.org/10.1021/acs.jpcc.3c07398</link>
       <description>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392579703
@@ -266,6 +266,16 @@
       <author>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan</author>
       <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07398</guid>
+    </item>
+    <item>
+      <title>Revealing Local and Directional Aspects of Catalytic Active Sites by the Nuclear and Surface Electrostatic Potential</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c08512</link>
+      <description>Joakim Halldin Stenlid, Frank Abild&#8208;Pedersen, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392701786
+
+                No abstract</description>
+      <author>Joakim Halldin Stenlid, Frank Abild&#8208;Pedersen</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08512</guid>
     </item>
     <item>
       <title>A Simple and Efficient Method for the Nickel&#8208;Catalyzed Synthesis of Azines from Aldehydes and Hydrazines</title>
@@ -296,16 +306,6 @@
       <author>Yamkela Nzuzo, Charles O. Oseghale, Amarachi Chike-Ekwughe, Mulisa Maumela, Ndzondelelo Bingwa</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.catcom.2024.106901</guid>
-    </item>
-    <item>
-      <title>Physics-Guided Dual Self-Supervised Learning for Structure-Based Material Property Prediction</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00100</link>
-      <description>Nihang Fu, Lai Wei, Jianjun Hu, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392474382
-
-                Deep learning models have been widely used for high-performance material property prediction. However, training such models usually requires a large amount of labeled data, which are usually unavailable. Self-supervised learning (SSL) methods have been proposed to address this data scarcity issue. Herein, we present DSSL, a physics-guided dual SSL framework, for graph neural network-based material property prediction, which combines node masking-based generative SSL with atomic coordinate perturbation-based contrastive SSL strategies to capture local and global information about input crystals. Moreover, we achieve physics-guided pretraining by using the macroproperty (e.g., elasticity)-related microproperty prediction of atomic stiffness as an additional pretext task. We pretrain our DSSL model on the Materials Project database and fine-tune it with 10 material property data sets. The experimental results demonstrate that teaching neural networks some physics using the SSL strategy can afford &#8804;26.89% performance improvement compared to that of the baseline models.</description>
-      <author>Nihang Fu, Lai Wei, Jianjun Hu</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00100</guid>
     </item>
   </channel>
 </rss>

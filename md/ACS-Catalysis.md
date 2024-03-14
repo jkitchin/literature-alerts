@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Mar 13 00:44:32 2024
+Created on Thu Mar 14 00:43:21 2024
 
-Found 25 results from 2024-03-06 to 2024-03-13
+Found 25 results from 2024-03-07 to 2024-03-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Artificial Carbonic Anhydrase-Ruthenium Enzyme for Photocatalytic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4392448899    
-Open access: True
-    
-[Ehider A Polanco](https://openalex.org/A5034042839), [Laura V Opdam](https://openalex.org/A5013946007), [Matthijs L. A. Hakkennes](https://openalex.org/A5092128016), [Luuk Stringer](https://openalex.org/A5094066868), [Anjali Pandit](https://openalex.org/A5004378450), [Sylvestre Bonnet](https://openalex.org/A5058318761), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05183 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05183)).
-    
-No abstract    
-
-    
-
-## Investigation of Low-Temperature OHC and RHC in NH3–SCR over Cu-CHA Catalysts: Effects of H2O and SAR   
-
-OpenAlex: https://openalex.org/W4392452437    
-Open access: False
-    
-[Nicole Daniela Nasello](https://openalex.org/A5054943951), [Umberto Iacobone](https://openalex.org/A5074689296), [Nicola Usberti](https://openalex.org/A5050278943), [Andrea Gjetja](https://openalex.org/A5094067541), [Isabella Nova](https://openalex.org/A5066493546), [Enrico Tronconi](https://openalex.org/A5058274978), [Roberta Villamaina](https://openalex.org/A5024578124), [Maria Pia Ruggeri](https://openalex.org/A5009196252), [Djamela Bounechada](https://openalex.org/A5051592271), [Andrew P. E. York](https://openalex.org/A5070520017), [Jillian Collier](https://openalex.org/A5055018924), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00118.
-    
-No abstract    
-
-    
-
-## Nanoarchitectonics of Non-Noble-Metal-Based Heterogeneous Catalysts for Transfer Hydrogenation Reactions: Detailed Insights on Different Hydrogen Sources   
-
-OpenAlex: https://openalex.org/W4392459269    
-Open access: False
-    
-[Devendra Sharma](https://openalex.org/A5031802538), [Priyanka Choudhary](https://openalex.org/A5002882160), [Payal Mittal](https://openalex.org/A5038643524), [Sahil Kumar](https://openalex.org/A5015765762), [Ashrumochan Gouda](https://openalex.org/A5016980979), [Venkata Krishnan](https://openalex.org/A5079283559), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05844.
-    
-Catalytic transfer hydrogenation (CTH) methodology has drawn profound attention of researchers as an economical and environmentally benign alternate to conventional hydrogenation method. Unlike conventional method, CTH exhibits better reaction efficiency and atom economy, and it makes use of simple, easily accessible, low-cost hydrogen sources. Current research on CTH reactions is oriented toward the development of non-noble-metal-based catalysts due to their high abundance and potential large-scale applicability. In this Review, different organic transformation reactions, such as hydrogenation of nitroarenes, nitriles, alkenes, alkynes, and carbonyl compounds, hydrogenolysis, reductive amination, and reductive formylation reaction using different hydrogen sources have been summarized comprehensively. In addition, synthesis strategies of the non-noble-metal-based heterogeneous catalysts and the structure–activity relationship involving metal–support interaction, single-atom catalysis, and synergistic effect are highlighted. Furthermore, the optimization of the reaction parameters─such as temperature, time, solvents, and additives─for enhancing the catalytic activity and selectivity of the product are discussed in detail. This Review provides detailed insights into the recent progress made in CTH reactions using non-noble-metal-based heterogeneous catalysts with a specific focus on catalyst development, hydrogen sources, and mechanistic exploration.    
-
-    
-
-## N-Heterocyclic Carbene-Catalyzed Imine Umpolung/Semipinacol Rearrangement Cascade for the Synthesis of Indoxyls   
-
-OpenAlex: https://openalex.org/W4392461593    
-Open access: False
-    
-[Rohan Chandra Das](https://openalex.org/A5043283280), [Soumen Barik](https://openalex.org/A5001308601), [Anusree A. Kunhiraman](https://openalex.org/A5094070927), [Anubhav Goswami](https://openalex.org/A5038758069), [Avijit Mondal](https://openalex.org/A5048644690), [Mrinmoy De](https://openalex.org/A5086739027), [Akkattu T. Biju](https://openalex.org/A5055710900), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00793.
-    
-Aldimine umpolung using N-heterocyclic carbenes (NHCs) is less explored compared to the well-known polarity reversal of aldehydes. Described herein is the NHC-catalyzed aldimine umpolung/semipinacol rearrangement cascade for the atom- and pot-economic synthesis of fluorescent active, N–H unprotected indoxyl derivatives. Moreover, conditions are identified for the NHC-catalyzed enantioselective synthesis of α-iminols by the umpolung of aldimines. The nucleophilic aza-Breslow intermediates are intercepted with carbonyl electrophiles. Preliminary DFT studies shed light on the rearomative proton transfer coupled aryl migration in an ortho-quinonemethide intermediate facilitating the semipinacol rearrangement. In addition, the antibacterial activity of the synthesized indoxyls has been evaluated.    
-
-    
-
-## Cobalt-Catalyzed Reductive Deoxygenation of Aldehydes, Ketones, Alcohols, and Ethers to Alkanes   
-
-OpenAlex: https://openalex.org/W4392472807    
-Open access: False
-    
-[Anurag Kumar](https://openalex.org/A5074308406), [Sandip Pattanaik](https://openalex.org/A5073768652), [Gaurav Joshi](https://openalex.org/A5060132625), [Manas Kumar Sahu](https://openalex.org/A5051088588), [Eluvathingal D. Jemmis](https://openalex.org/A5067380080), [Chidambaram Gunanathan](https://openalex.org/A5017298749), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05666.
-    
-The development of simple and general catalytic methods using abundant base metal catalysts for the deoxygenation of organic compounds for the valorization of biomass and chemical synthesis remains a formidable challenge. Cobalt pincer-catalyzed reductive deoxygenation of aldehydes, ketones, alcohols, and ethers to their corresponding alkanes is reported. Biomass-derived compounds were deoxygenated to their corresponding methylarenes. This catalytic system employs diethylsilane as a reductant and requires a substoichiometric amount of base. Investigations revealed the initial deprotonation of the amine arm on the catalyst, and catalysis begins with Si–H activation of silane facilitated by amine-amide metal–ligand cooperation. In situ-formed Co–H species carry out the hydrosilylation of carbonyl compounds, dehydrosilylation of alcohols, and hydrosilanolysis of ethers, resulting in common arylmethylsilyl or alkylsilyl ether intermediates. Further, the reaction of diethylsilane with arylmethylsilyl or alkylsilyl ether leads to deoxygenation and the formation of siloxane oligomers. Further, a DFT study reveals closely lying singlet–triplet electronic states of different intermediates facilitating the mechanism on different spin surfaces, verified through the located minimum energy crossing points (MECPs). In the case of alcohol, another low energy pathway is located where the amide arm of pincer, instead of hydride, can abstract the hydroxy proton and enable metal–ligand cooperation.    
-
-    
 
 ## Correction to “Facile Synthesis of Vinyl Boronate Esters via Dehydrogenative Borylation of Alkenes Enabled by Co-MOF Catalyst: An Additive Free Approach”   
 
@@ -278,5 +223,60 @@ Open access: False
 [Xin Lian](https://openalex.org/A5027467469), [Yingle Mao](https://openalex.org/A5028161422), [Zunyun Fu](https://openalex.org/A5018206556), [Weijie Zhang](https://openalex.org/A5030681379), [Jia-Yan Chen](https://openalex.org/A5058071351), [Dan Zhuo](https://openalex.org/A5092224606), [Mingyue Zheng](https://openalex.org/A5075749706), [Jiunn‐Tzong Wu](https://openalex.org/A5064221165), [Cangsong Liao](https://openalex.org/A5004928664), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00398.
     
 Oxyfunctionalization of abundant carboxylic acids represents a direct approach to synthesizing α-hydroxy acids, which are valuable intermediates of various active pharmaceutical ingredients. Although ideal, the transformation is yet to be accomplished. Herein, enantiocomplementary C(sp3)–H oxyfunctionalization for the synthesis of α-hydroxy acids was realized by a cooperative strategy of substrate engineering, homologue screening and protein engineering of α-ketoglutarate-dependent nonheme iron aryloxyalkanoate dioxygenases. The reaction provided concise synthetic routes toward three types of 67 α-hydroxy acids with high efficiency and selectivity (yield up to 90% and ee up to >99%). The distinctive complementary reactions add to a growing repertoire of biocatalytic oxyfunctionalization reactions.    
+
+    
+
+## Expedient Synthesis of Axially and Centrally Chiral Diaryl Ethers via Cobalt-Catalyzed Photoreductive Desymmetrization   
+
+OpenAlex: https://openalex.org/W4392682464    
+Open access: False
+    
+[Yishou Wang](https://openalex.org/A5069332742), [Ruijie Mi](https://openalex.org/A5051272053), [Songjie Yu](https://openalex.org/A5082881031), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00001.
+    
+No abstract    
+
+    
+
+## Recent Advances in Doping Strategies to Improve Electrocatalytic Hydrogen Evolution Performance of Molybdenum Disulfide   
+
+OpenAlex: https://openalex.org/W4392693992    
+Open access: False
+    
+[Yuehan Jia](https://openalex.org/A5069543971), [Yuchen Zhang](https://openalex.org/A5066097652), [Huibin Xu](https://openalex.org/A5042441491), [Jia Li](https://openalex.org/A5033673973), [Ming Gao](https://openalex.org/A5007232564), [Xiaotian Yang](https://openalex.org/A5010431648), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05053.
+    
+The exhaustion of fossil fuels and resultant pollution issues have prompted the world to look to clean, nonpolluting hydrogen energy. The promising approach of the electrocatalytic hydrogen evolution reaction (HER) presents a solution for addressing energy and environmental challenges. Consequently, creating high-performance and cost-effective electrocatalysts is essential for the efficient decomposition of water. Molybdenum disulfide (MoS2) has emerged as the most promising among potential electrocatalysts to replace platinum. However, only the edge-site of MoS2 is active for HER due to the MoS2 semiconductive nature and large inactive basal planes. Doping various substances, which significantly improves HER activity, can enhance MoS2's physical and chemical properties. Our Review encapsulates the latest strategies and research advancements in choosing heteroatomic-doped MoS2 for hydrogen production. Various doping elements impart unique physical and chemical properties to MoS2. Specifically, doping with noble metals (e.g., Ag, Pt, Ru, Pd, Rh) and transition metals (e.g., Fe, V, Ni, Mn, Co, Zn, W), as well as codoping with multiple metal atoms (e.g., Cu-Pd, Pt-Te, Co-Nb, Ni-Co), can significantly enhance conductivity and introduce new active sites. These dopants are recognized for activating the basal plane of MoS2, thereby enhancing the HER activity. Furthermore, doping with nonmetallic elements (e.g., N, F, P, An, O) and their codoping combinations (e.g., O-P, N-F, Se-O), as well as the codoping of nonmetal and metal atoms (e.g., Co-Se, Co-P, N-Pt, Ru-O), is crucial for inducing phase conversions and improving stability. Each dopant contributes distinctively, either by enhancing the stability of MoS2, serving as a catalytic site, or broadening the pH range for effective HER. In this discussion, we further explore the current challenges and outlook of this promising area. Furthermore, we discuss existing challenges and promising guidelines for future research on the MoS2-based catalyst, offering advice to translation from laboratory research to large-scale industrial hydrogen production.    
+
+    
+
+## Solar-Driven Highly Effective Biomass-Derived Alcohols C–C Coupling Integrated with H2 Production by CdS Quantum Dots Modified Zn2In2S5 Nanosheets   
+
+OpenAlex: https://openalex.org/W4392697716    
+Open access: False
+    
+[Zongyi Huang](https://openalex.org/A5090435812), [Pengfei Sun](https://openalex.org/A5009066967), [Huizhen Zhang](https://openalex.org/A5031458979), [Haikun Zhang](https://openalex.org/A5087450865), [Shuhong Zhang](https://openalex.org/A5063612918), [Zhou Chen](https://openalex.org/A5045122395), [Xiaodong Yi](https://openalex.org/A5062526485), [Shunji Xie](https://openalex.org/A5026338239), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05826.
+    
+No abstract    
+
+    
+
+## Confined Trinuclear Ru Sites in Phosphine-Incorporated Porous Organic Polymers for the Direct Synthesis of Alcohols from Reductive Hydroformylation of Alkenes   
+
+OpenAlex: https://openalex.org/W4392697742    
+Open access: False
+    
+[Yuchuan Zhu](https://openalex.org/A5014698881), [Zhaozhan Wang](https://openalex.org/A5078319852), [Yuanjun Zhao](https://openalex.org/A5066239611), [Xin Zhou](https://openalex.org/A5001744159), [Yan Zhang](https://openalex.org/A5046692026), [Yong Yang](https://openalex.org/A5000648383), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06221.
+    
+No abstract    
+
+    
+
+## Kinetics of Redox Half-Cycles on Bi2O3 for the Selective Catalytic Combustion of Hydrogen   
+
+OpenAlex: https://openalex.org/W4392697744    
+Open access: False
+    
+[Mark Jacob](https://openalex.org/A5025021152), [Huy Hoàng Nguyễn](https://openalex.org/A5014100196), [Matthew Neurock](https://openalex.org/A5010884148), [Aditya Bhan](https://openalex.org/A5019481513), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05585.
+    
+No abstract    
 
     

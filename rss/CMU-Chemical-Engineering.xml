@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:44:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:43:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Decomposition methods for multi-horizon stochastic programming</title>
-      <link>https://doi.org/10.21203/rs.3.rs-3258743/v2</link>
-      <description>Hongyu Zhang, Ignacio E. Grossmann, Asgeir Tomasg&#229;rd, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4392452074
-
-                Abstract Multi-horizon stochastic programming includes short-term and long-term uncertainty in investment planning problems more efficiently than traditional multi-stage stochastic programming. In this paper, we exploit the block separable structure of multi-horizon stochastic linear programming, and establish that it can be decomposed by Benders decomposition and Lagrangean decomposition. In addition, we propose parallel Lagrangean decomposition with primal reduction that, (1) solves the scenario subproblems in parallel, (2) reduces the primal problem by keeping one copy for each scenario group at each stage, and (3) solves the reduced primal problem in parallel. We apply the parallel Lagrangean decomposition with primal reduction, Lagrangean decomposition and Benders decomposition to solve a stochastic energy system investment planning problem. The computational results show that: (a) the Lagrangean type decomposition algorithms have better convergence at the first iterations to Benders decomposition, and (b) parallel Lagrangean decomposition with primal reduction is very efficient for solving multi-horizon stochastic programming problems. Based on the computational results, the choice of algorithms for multi-horizon stochastic programming is discussed.</description>
-      <author>Hongyu Zhang, Ignacio E. Grossmann, Asgeir Tomasg&#229;rd</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3258743/v2</guid>
-    </item>
     <item>
       <title>Circular Economy: not just another name for waste treatment</title>
       <link>https://doi.org/10.1007/s10098-024-02798-y</link>

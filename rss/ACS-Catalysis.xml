@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:44:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:43:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Artificial Carbonic Anhydrase-Ruthenium Enzyme for Photocatalytic Water Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.3c05183</link>
-      <description>Ehider A Polanco, Laura V Opdam, Matthijs L. A. Hakkennes, Luuk Stringer, Anjali Pandit, Sylvestre Bonnet, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392448899
-
-                No abstract</description>
-      <author>Ehider A Polanco, Laura V Opdam, Matthijs L. A. Hakkennes, Luuk Stringer, Anjali Pandit, Sylvestre Bonnet</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05183</guid>
-    </item>
-    <item>
-      <title>Investigation of Low-Temperature OHC and RHC in NH&lt;sub&gt;3&lt;/sub&gt;&#8211;SCR over Cu-CHA Catalysts: Effects of H&lt;sub&gt;2&lt;/sub&gt;O and SAR</title>
-      <link>https://doi.org/10.1021/acscatal.4c00118</link>
-      <description>Nicole Daniela Nasello, Umberto Iacobone, Nicola Usberti, Andrea Gjetja, Isabella Nova, Enrico Tronconi, Roberta Villamaina, Maria Pia Ruggeri, Djamela Bounechada, Andrew P. E. York, Jillian Collier, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392452437
-
-                No abstract</description>
-      <author>Nicole Daniela Nasello, Umberto Iacobone, Nicola Usberti, Andrea Gjetja, Isabella Nova, Enrico Tronconi, Roberta Villamaina, Maria Pia Ruggeri, Djamela Bounechada, Andrew P. E. York, Jillian Collier</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00118</guid>
-    </item>
-    <item>
-      <title>Nanoarchitectonics of Non-Noble-Metal-Based Heterogeneous Catalysts for Transfer Hydrogenation Reactions: Detailed Insights on Different Hydrogen Sources</title>
-      <link>https://doi.org/10.1021/acscatal.3c05844</link>
-      <description>Devendra Sharma, Priyanka Choudhary, Payal Mittal, Sahil Kumar, Ashrumochan Gouda, Venkata Krishnan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392459269
-
-                Catalytic transfer hydrogenation (CTH) methodology has drawn profound attention of researchers as an economical and environmentally benign alternate to conventional hydrogenation method. Unlike conventional method, CTH exhibits better reaction efficiency and atom economy, and it makes use of simple, easily accessible, low-cost hydrogen sources. Current research on CTH reactions is oriented toward the development of non-noble-metal-based catalysts due to their high abundance and potential large-scale applicability. In this Review, different organic transformation reactions, such as hydrogenation of nitroarenes, nitriles, alkenes, alkynes, and carbonyl compounds, hydrogenolysis, reductive amination, and reductive formylation reaction using different hydrogen sources have been summarized comprehensively. In addition, synthesis strategies of the non-noble-metal-based heterogeneous catalysts and the structure&#8211;activity relationship involving metal&#8211;support interaction, single-atom catalysis, and synergistic effect are highlighted. Furthermore, the optimization of the reaction parameters&#9472;such as temperature, time, solvents, and additives&#9472;for enhancing the catalytic activity and selectivity of the product are discussed in detail. This Review provides detailed insights into the recent progress made in CTH reactions using non-noble-metal-based heterogeneous catalysts with a specific focus on catalyst development, hydrogen sources, and mechanistic exploration.</description>
-      <author>Devendra Sharma, Priyanka Choudhary, Payal Mittal, Sahil Kumar, Ashrumochan Gouda, Venkata Krishnan</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05844</guid>
-    </item>
-    <item>
-      <title>N-Heterocyclic Carbene-Catalyzed Imine Umpolung/Semipinacol Rearrangement Cascade for the Synthesis of Indoxyls</title>
-      <link>https://doi.org/10.1021/acscatal.4c00793</link>
-      <description>Rohan Chandra Das, Soumen Barik, Anusree A. Kunhiraman, Anubhav Goswami, Avijit Mondal, Mrinmoy De, Akkattu T. Biju, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392461593
-
-                Aldimine umpolung using N-heterocyclic carbenes (NHCs) is less explored compared to the well-known polarity reversal of aldehydes. Described herein is the NHC-catalyzed aldimine umpolung/semipinacol rearrangement cascade for the atom- and pot-economic synthesis of fluorescent active, N&#8211;H unprotected indoxyl derivatives. Moreover, conditions are identified for the NHC-catalyzed enantioselective synthesis of &#945;-iminols by the umpolung of aldimines. The nucleophilic aza-Breslow intermediates are intercepted with carbonyl electrophiles. Preliminary DFT studies shed light on the rearomative proton transfer coupled aryl migration in an ortho-quinonemethide intermediate facilitating the semipinacol rearrangement. In addition, the antibacterial activity of the synthesized indoxyls has been evaluated.</description>
-      <author>Rohan Chandra Das, Soumen Barik, Anusree A. Kunhiraman, Anubhav Goswami, Avijit Mondal, Mrinmoy De, Akkattu T. Biju</author>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00793</guid>
-    </item>
-    <item>
-      <title>Cobalt-Catalyzed Reductive Deoxygenation of Aldehydes, Ketones, Alcohols, and Ethers to Alkanes</title>
-      <link>https://doi.org/10.1021/acscatal.3c05666</link>
-      <description>Anurag Kumar, Sandip Pattanaik, Gaurav Joshi, Manas Kumar Sahu, Eluvathingal D. Jemmis, Chidambaram Gunanathan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392472807
-
-                The development of simple and general catalytic methods using abundant base metal catalysts for the deoxygenation of organic compounds for the valorization of biomass and chemical synthesis remains a formidable challenge. Cobalt pincer-catalyzed reductive deoxygenation of aldehydes, ketones, alcohols, and ethers to their corresponding alkanes is reported. Biomass-derived compounds were deoxygenated to their corresponding methylarenes. This catalytic system employs diethylsilane as a reductant and requires a substoichiometric amount of base. Investigations revealed the initial deprotonation of the amine arm on the catalyst, and catalysis begins with Si&#8211;H activation of silane facilitated by amine-amide metal&#8211;ligand cooperation. In situ-formed Co&#8211;H species carry out the hydrosilylation of carbonyl compounds, dehydrosilylation of alcohols, and hydrosilanolysis of ethers, resulting in common arylmethylsilyl or alkylsilyl ether intermediates. Further, the reaction of diethylsilane with arylmethylsilyl or alkylsilyl ether leads to deoxygenation and the formation of siloxane oligomers. Further, a DFT study reveals closely lying singlet&#8211;triplet electronic states of different intermediates facilitating the mechanism on different spin surfaces, verified through the located minimum energy crossing points (MECPs). In the case of alcohol, another low energy pathway is located where the amide arm of pincer, instead of hydride, can abstract the hydroxy proton and enable metal&#8211;ligand cooperation.</description>
-      <author>Anurag Kumar, Sandip Pattanaik, Gaurav Joshi, Manas Kumar Sahu, Eluvathingal D. Jemmis, Chidambaram Gunanathan</author>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05666</guid>
-    </item>
     <item>
       <title>Correction to &#8220;Facile Synthesis of Vinyl Boronate Esters via Dehydrogenative Borylation of Alkenes Enabled by Co-MOF Catalyst: An Additive Free Approach&#8221;</title>
       <link>https://doi.org/10.1021/acscatal.4c01116</link>
@@ -256,6 +206,56 @@
       <author>Xin Lian, Yingle Mao, Zunyun Fu, Weijie Zhang, Jia-Yan Chen, Dan Zhuo, Mingyue Zheng, Jiunn&#8208;Tzong Wu, Cangsong Liao</author>
       <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00398</guid>
+    </item>
+    <item>
+      <title>Expedient Synthesis of Axially and Centrally Chiral Diaryl Ethers via Cobalt-Catalyzed Photoreductive Desymmetrization</title>
+      <link>https://doi.org/10.1021/acscatal.4c00001</link>
+      <description>Yishou Wang, Ruijie Mi, Songjie Yu, Xingwei Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392682464
+
+                No abstract</description>
+      <author>Yishou Wang, Ruijie Mi, Songjie Yu, Xingwei Li</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00001</guid>
+    </item>
+    <item>
+      <title>Recent Advances in Doping Strategies to Improve Electrocatalytic Hydrogen Evolution Performance of Molybdenum Disulfide</title>
+      <link>https://doi.org/10.1021/acscatal.3c05053</link>
+      <description>Yuehan Jia, Yuchen Zhang, Huibin Xu, Jia Li, Ming Gao, Xiaotian Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392693992
+
+                The exhaustion of fossil fuels and resultant pollution issues have prompted the world to look to clean, nonpolluting hydrogen energy. The promising approach of the electrocatalytic hydrogen evolution reaction (HER) presents a solution for addressing energy and environmental challenges. Consequently, creating high-performance and cost-effective electrocatalysts is essential for the efficient decomposition of water. Molybdenum disulfide (MoS2) has emerged as the most promising among potential electrocatalysts to replace platinum. However, only the edge-site of MoS2 is active for HER due to the MoS2 semiconductive nature and large inactive basal planes. Doping various substances, which significantly improves HER activity, can enhance MoS2's physical and chemical properties. Our Review encapsulates the latest strategies and research advancements in choosing heteroatomic-doped MoS2 for hydrogen production. Various doping elements impart unique physical and chemical properties to MoS2. Specifically, doping with noble metals (e.g., Ag, Pt, Ru, Pd, Rh) and transition metals (e.g., Fe, V, Ni, Mn, Co, Zn, W), as well as codoping with multiple metal atoms (e.g., Cu-Pd, Pt-Te, Co-Nb, Ni-Co), can significantly enhance conductivity and introduce new active sites. These dopants are recognized for activating the basal plane of MoS2, thereby enhancing the HER activity. Furthermore, doping with nonmetallic elements (e.g., N, F, P, An, O) and their codoping combinations (e.g., O-P, N-F, Se-O), as well as the codoping of nonmetal and metal atoms (e.g., Co-Se, Co-P, N-Pt, Ru-O), is crucial for inducing phase conversions and improving stability. Each dopant contributes distinctively, either by enhancing the stability of MoS2, serving as a catalytic site, or broadening the pH range for effective HER. In this discussion, we further explore the current challenges and outlook of this promising area. Furthermore, we discuss existing challenges and promising guidelines for future research on the MoS2-based catalyst, offering advice to translation from laboratory research to large-scale industrial hydrogen production.</description>
+      <author>Yuehan Jia, Yuchen Zhang, Huibin Xu, Jia Li, Ming Gao, Xiaotian Yang</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05053</guid>
+    </item>
+    <item>
+      <title>Solar-Driven Highly Effective Biomass-Derived Alcohols C&#8211;C Coupling Integrated with H&lt;sub&gt;2&lt;/sub&gt; Production by CdS Quantum Dots Modified Zn&lt;sub&gt;2&lt;/sub&gt;In&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;5&lt;/sub&gt; Nanosheets</title>
+      <link>https://doi.org/10.1021/acscatal.3c05826</link>
+      <description>Zongyi Huang, Pengfei Sun, Huizhen Zhang, Haikun Zhang, Shuhong Zhang, Zhou Chen, Xiaodong Yi, Shunji Xie, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392697716
+
+                No abstract</description>
+      <author>Zongyi Huang, Pengfei Sun, Huizhen Zhang, Haikun Zhang, Shuhong Zhang, Zhou Chen, Xiaodong Yi, Shunji Xie</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05826</guid>
+    </item>
+    <item>
+      <title>Confined Trinuclear Ru Sites in Phosphine-Incorporated Porous Organic Polymers for the Direct Synthesis of Alcohols from Reductive Hydroformylation of Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.3c06221</link>
+      <description>Yuchuan Zhu, Zhaozhan Wang, Yuanjun Zhao, Xin Zhou, Yan Zhang, Yong Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392697742
+
+                No abstract</description>
+      <author>Yuchuan Zhu, Zhaozhan Wang, Yuanjun Zhao, Xin Zhou, Yan Zhang, Yong Yang</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06221</guid>
+    </item>
+    <item>
+      <title>Kinetics of Redox Half-Cycles on Bi&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; for the Selective Catalytic Combustion of Hydrogen</title>
+      <link>https://doi.org/10.1021/acscatal.3c05585</link>
+      <description>Mark Jacob, Huy Ho&#224;ng Nguy&#7877;n, Matthew Neurock, Aditya Bhan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392697744
+
+                No abstract</description>
+      <author>Mark Jacob, Huy Ho&#224;ng Nguy&#7877;n, Matthew Neurock, Aditya Bhan</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05585</guid>
     </item>
   </channel>
 </rss>

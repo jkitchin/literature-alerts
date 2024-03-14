@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 00:43:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Highly efficient and selective electrosynthesis of urea via co-reduction of carbon dioxide and nitrate over the TiN catalyst</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150178</link>
-      <description>Hongjun Fang, Z. Wang, Chil-Chyuan Kuo, Hainan Yang, Xinzhen Feng, Weijie Ji, Chak Tong Au, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392474079
-
-                Green and sustainable electrosynthesis of urea at ambient conditions through co-reduction of CO2 and NO3&#8722; (CR-CO2/NO3&#8722;) is regarded as a new avenue for nitrogen fertilizer production, however, the lack of novel electrocatalysts capable of selective C-N coupling hinders its wide application. Herein we reported a TiNx catalyst (TiN/TiN0.3) prepared by facile electric explosion method for electrocatalytic urea synthesis via CR-CO2/NO3&#8722;. The derived catalyst with porous nanostructure and specific active phase (TiN0.3) is more conductive for efficient C-N coupling. Consequently, a faradaic efficiency (FE) of 43.1 &#177; 3.1 % and a urea formation rate as high as 1488 &#177; 95 &#956;g h&#8722;1 mgcat&#8722;1 were reached over the TiNx electrode, outperforming most of the reported CR-CO2/NO3&#8722; systems toward urea synthesis. In-situ attenuated total reflection Fourier transformed infrared spectroscopy and isotope-labeling experiments demonstrated the details about electrochemical coupling processes. The simulation study suggested that the TiN0.3 (1 0 0) facet facilitates the electroreduction of CO2 and NO3&#8722;, and decreases the energy barrier for generation of the key intermediates (*CO/*NH2), thus leading to the selective formation of urea. This work accomplished highly efficient electrochemical CR-CO2/NO3&#8722; toward nitrogen fertilizer production over a novel TiNx electrocatalyst for the target process.</description>
-      <author>Hongjun Fang, Z. Wang, Chil-Chyuan Kuo, Hainan Yang, Xinzhen Feng, Weijie Ji, Chak Tong Au</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150178</guid>
-    </item>
     <item>
       <title>Enhancing electrochemical carbon dioxide reduction efficiency through heat-induced metamorphosis of copper nanowires into copper oxide/copper nanotubes with tunable surface</title>
       <link>https://doi.org/10.1016/j.jcis.2024.03.007</link>
@@ -128,6 +118,56 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4755410</guid>
     </item>
     <item>
+      <title>1 nm Tin Oxide Cluster for the Electrochemical Conversion of Carbon Dioxide to Formate at Low Overpotential</title>
+      <link>https://doi.org/10.1155/2024/1367542</link>
+      <description>Hyungrae Kim, Kang-Hyuk Lee, Chan Woo Lee, International Journal of Energy Research. 2024(None)] 2024. https://openalex.org/W4392683413
+
+                Due to its cost-effectiveness and high product selectivity, tin oxide has been regarded as a promising catalyst for the electrochemical conversion of CO2 to formate. However, formate production is hindered by the high overpotential; there is a need to reduce the overpotential to enhance energy efficiency and lower electricity cost for the implementation of carbon utilization technology. Here, we report a facile synthesis method for 1 nm-sized SnO2 cluster catalysts, which can be used for CO2-to-formate conversion. SnO2 clusters were prepared through impregnation of porous carbon with a tin precursor solution. The SnO2 clusters showed a low overpotential, generating a current density of 10 mA cm-2 at a potential of -0.34 V vs. RHE in 1 M KOH. They also achieved high Faradaic efficiencies of 90.5% and 81.5% at 200 and 300 mA cm&#8722;2, respectively. Their electrocatalytic performance was strongly dependent on the annealing conditions, which affected the particle size, electrochemical active surface area, and metal oxidation state. This paper presents a versatile method for synthesizing metal oxide cluster catalysts, apart from providing insights into the catalytic activity for the electrochemical conversion of CO2 to formate.</description>
+      <author>Hyungrae Kim, Kang-Hyuk Lee, Chan Woo Lee</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1155/2024/1367542</guid>
+    </item>
+    <item>
+      <title>Functionalization of copper for enhanced electrocatalytic reduction of carbon dioxide via ultrashort pulse laser surface processing</title>
+      <link>https://doi.org/10.1117/12.3000983</link>
+      <description>Graham Kaufman, Ahmed El&#8208;Harairy, Suchit Sarin, Siamak Nejati, Jeffrey E. Shield, Craig Zuhlke, No host. None(None)] 2024. https://openalex.org/W4392692145
+
+                No abstract</description>
+      <author>Graham Kaufman, Ahmed El&#8208;Harairy, Suchit Sarin, Siamak Nejati, Jeffrey E. Shield, Craig Zuhlke</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1117/12.3000983</guid>
+    </item>
+    <item>
+      <title>Size&#8208;Dependent Carbon Dioxide Reduction Activity of Copper Nanoparticle and Nanocluster Electrocatalysts</title>
+      <link>https://doi.org/10.1002/cnma.202300575</link>
+      <description>Tokuhisa Kawawaki, Tomoshige Okada, Kana Takemae, Shiho Tomihari, Yuichi Negishi, ChemNanoMat. None(None)] 2024. https://openalex.org/W4392699583
+
+                The electrochemical carbon dioxide (CO2) reduction reaction (CRR, which can convert CO2 into useful compounds at room temperature and ambient pressure by using electricity derived from renewable energy source), has been attracting attention in recent years. This is because it can convert CO2 into useful compounds, which is pertinent to establishing a next&#8208;generation recycling&#8208;oriented energy society. However, further improvement of the electrocatalyst is required to improve its activity, selectivity, and durability. Among these, copper (Cu) can synthesize various hydrocarbons from CO2 and has been the most studied electrocatalyst for the CRR over many years. In particular, regarding ligand&#8208;protected Cu particles for the CRR, the size, shape, and ligands of Cu particles prepared by chemical reduction can be precisely controlled. In this review, we summarize previous research on the size&#8208;dependence of the CRR by using Cu particles (nanoparticles and nanoclusters) prepared by liquid&#8208;phase reduction, and discuss the current status of these studies for researchers on the electrochemical CRR.</description>
+      <author>Tokuhisa Kawawaki, Tomoshige Okada, Kana Takemae, Shiho Tomihari, Yuichi Negishi</author>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cnma.202300575</guid>
+    </item>
+    <item>
+      <title>Research Status, Challenges, and Future Prospects of Carbon Dioxide Reduction Technology</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.3c04591</link>
+      <description>Hongtao Dang, Bin Guan, Junyan Chen, Zeren Ma, Yujun Chen, Jinhe Zhang, Zelong Guo, Lei Chen, Jingqiu Hu, Yi Chao, Shunyu Yao, Zhen Huang, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4392705965
+
+                No abstract</description>
+      <author>Hongtao Dang, Bin Guan, Junyan Chen, Zeren Ma, Yujun Chen, Jinhe Zhang, Zelong Guo, Lei Chen, Jingqiu Hu, Yi Chao, Shunyu Yao, Zhen Huang</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.3c04591</guid>
+    </item>
+    <item>
+      <title>Coupling Electrocatalytic Redox-Active Sites in Three-Dimensional Bimetalloporphyrin-based Covalent Organic Framework for Enhancing Carbon Dioxide Reduction and Oxygen Evolution</title>
+      <link>https://doi.org/10.1039/d4ta00998c</link>
+      <description>Jie Liu, Yan&#8208;Xi Tan, Jiaping Lin, Yangyang Feng, Xiang Zhang, Enle Zhou, Daqiang Yuan, Yaobing Wang, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4392719172
+
+                Constructing bifunctional covalent organic frameworks (COFs) electrocatalysts to mimic photosynthesis independent of natural sunlight is important for the CO2 recycling. We first construct 3D bifunctional Co/Ni-TPNB-COF containing Ni(II)-porphyrin and Co(II)-porphyrin...</description>
+      <author>Jie Liu, Yan&#8208;Xi Tan, Jiaping Lin, Yangyang Feng, Xiang Zhang, Enle Zhou, Daqiang Yuan, Yaobing Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta00998c</guid>
+    </item>
+    <item>
       <title>Effect of Carbon Dioxide on Bromantane Syntesis by Reductive Amination without an External Hydrogen Source</title>
       <link>https://doi.org/10.32931/io2307a</link>
       <description>D. Kletnov, Klim O. Biriukov, &#1040;. &#1045;. &#1053;&#1080;&#1082;&#1086;&#1083;&#1072;&#1077;&#1074;, Oleg I. Afanasyev, Denis Chusov, &#1048;&#1053;&#1069;&#1054;&#1057; OPEN. None(None)] 2024. https://openalex.org/W4392658822
@@ -168,6 +208,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144052</guid>
     </item>
     <item>
+      <title>Amorphous ZnSnOx Hollow Spheres Enable Highly Efficient CO2 Reduction</title>
+      <link>https://doi.org/10.1002/cssc.202301694</link>
+      <description>Hanjun Li, Yao Chen, Honggang Huang, Zhenxiang Cheng, Shuxing Bai, Feili Lai, Nan Zhang, Tianxi Liu, ChemSusChem. None(None)] 2024. https://openalex.org/W4392697772
+
+                Carbon dioxide (CO2) adsorption and electron transport play an important role in CO2 reduction reaction (CO2RR). Herein, we have demonstrated a new class of diverse hollow ZnSnOx (ZSO) through the amorphization of hydroxides to enhance CO2 adsorption and accelerate electron transport. The amorphization is occurred by calcination process, as indicated by Fourier transform infrared spectroscopy and Raman spectra. In particular, the ZnSnOx hollow spheres (ZSO HSs) achieve a high Faradaic efficiency (FE) of HCOOH up to 92.7% at best, outperforming the commercial ZSO (Comm. ZSO, 83.9%). ZSO HSs also exhibit durable stability with negligible activity decay after 10 h of successive electrolysis. In&#8208;situ attenuated total reflectance infrared absorption spectroscopy further reveals strong adsorption of CO2 and rapid intermediate configuration transformation in amorphous ZSO HSs. This work demonstrates the practical application of ZSO for CO2RR and provides a new insight to create efficient CO2RR electrocatalysts.</description>
+      <author>Hanjun Li, Yao Chen, Honggang Huang, Zhenxiang Cheng, Shuxing Bai, Feili Lai, Nan Zhang, Tianxi Liu</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301694</guid>
+    </item>
+    <item>
+      <title>Electrolyte effect in electrochemical reduction of CO2 on Cu electrode</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.367</link>
+      <description>Amanda C. Garcia, No host. None(None)] 2023. https://openalex.org/W4392704869
+
+                No abstract</description>
+      <author>Amanda C. Garcia</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.367</guid>
+    </item>
+    <item>
       <title>Graphene-based CO2 reduction electrocatalysts: a review</title>
       <link>https://doi.org/10.1016/j.carbon.2024.118879</link>
       <description>Zelin Wu, Congwei Wang, Xiaoxiang Zhang, Quangui Guo, Junying Wang, Carbon. 221(None)] 2024. https://openalex.org/W4392564119
@@ -176,6 +236,16 @@
       <author>Zelin Wu, Congwei Wang, Xiaoxiang Zhang, Quangui Guo, Junying Wang</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.118879</guid>
+    </item>
+    <item>
+      <title>Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.418</link>
+      <description>Carlos G. Morales&#8208;Guio, No host. None(None)] 2023. https://openalex.org/W4392704678
+
+                No abstract</description>
+      <author>Carlos G. Morales&#8208;Guio</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.418</guid>
     </item>
     <item>
       <title>CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate</title>
@@ -198,24 +268,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234298</guid>
     </item>
     <item>
-      <title>Mechanism of surface oxygen-containing species promoted electrocatalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.scib.2024.03.012</link>
-      <description>Zhanzhao Fu, Yixin Ouyang, Mingliang Wu, Chongyi Ling, Jinlan Wang, Science Bulletin. None(None)] 2024. https://openalex.org/W4392455306
-
-                Oxygen-containing species have been demonstrated to play a key role in facilitating electrocatalytic CO2 reduction (CO2RR), particularly in enhancing the selectivity towards multi-carbon (C2+) products. However, the underlying promotion mechanism is still under debate, which greatly limits the rational optimization of the catalytic performance of CO2RR. Herein, taking CO2 and O2 co-electrolysis over Cu as the prototype, we successfully clarified how O2 boosts CO2RR from a new perspective by employing comprehensive theoretical simulations. Our results demonstrated that O2 in feed gas can be rapidly reduced into *OH, leading to the partial oxidation of Cu surface under reduction conditions. Surface *OH accelerates the formation of quasi-specifically adsorbed K+ due to the electrostatic interaction between *OH and K+ ions, which significantly increases the concentration of K+ near the Cu surface. These quasi-specifically adsorbed K+ ions can not only lower the C&#8211;C coupling barriers but also promote the hydrogenation of CO2 to improve the CO yield rate, which are responsible for the remarkably enhanced efficiency of C2+ products. During the whole process, O2 co-electrolysis plays an indispensable role in stabilizing surface *OH. This mechanism can be also adopted to understand the effect of high pH of electrolyte and residual O in oxide-derived Cu (OD-Cu) on the catalytic efficiency towards C2+ products. Therefore, our work provides new insights into strategies for improving C2+ products on the Cu-based catalysts, i.e., maintaining partial oxidation of surface under reduction conditions.</description>
-      <author>Zhanzhao Fu, Yixin Ouyang, Mingliang Wu, Chongyi Ling, Jinlan Wang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.03.012</guid>
-    </item>
-    <item>
-      <title>Electrodeposition of Cuxbi1-X-Mof for Electrochemical Reduction of Co2</title>
-      <link>https://doi.org/10.2139/ssrn.4747851</link>
-      <description>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen, No host. None(None)] 2024. https://openalex.org/W4392465749
+      <title>Exploring the Effects of Ligands on Gold Nanoparticles for the Selective Reduction of CO2 to CO</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.082</link>
+      <description>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala, No host. None(None)] 2023. https://openalex.org/W4392704565
 
                 No abstract</description>
-      <author>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Qianqian Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4747851</guid>
+      <author>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.082</guid>
     </item>
     <item>
       <title>Transformational Sorbent Materials for a Substantial Reduction in the Energy&amp;#x0D; Requirement for Direct Air Capture of CO2</title>
@@ -226,56 +286,6 @@
       <author>Ravi Jain, N.O. Lemcoff</author>
       <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2315076</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic CO2 Reduction on Amorphous Cu Surfaces: Unveiling Structure-Activity Relationships</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-bxqmn</link>
-      <description>Akshayini Muthuperiyanayagam, Devis Di Tommaso, No host. None(None)] 2024. https://openalex.org/W4392515813
-
-                We present a computational investigation combining machine learning forcefields (ML-FF) and DFT calculations into the potential of amorphous copper (Cu) surfaces towards electrochemical CO2 reduction (eCO2R) to one-carbon (C1) and two-carbon (C2) products. The &#8220;on-the-fly&#8221; ML-FF developed for Cu replicate DFT energies and structures, offering a computationally efficient tool for simulating amorphous Cu systems. These ML-FFs were used to generate atomistic amorphous models of bulk and surfaces, and the amorphous bulk Cu exhibited slightly higher stability than crystalline Cu. The amorphous Cu surface provide a wider range of Cu coordination sites (5-9) compared to crystalline Cu, which offered a multitude of active centres for CO2 adsorption. Some of the amorphous surfaces investigated in this study spontaneously activated CO2, evidenced by the stable chemisorption, highlighting their potential for efficient CO2 conversion. The intermediates formed during the eCO2R on amorphous Cu surfaces are stabilized compared to crystalline surfaces, leading to a lower overpotentials, and improved faradaic efficiency. This study demonstrates for the first time theoretically, the potential of amorphous Cu-based catalysts towards sustainable CO2 conversion and paves the way for further research and development in this promising field.</description>
-      <author>Akshayini Muthuperiyanayagam, Devis Di Tommaso</author>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-bxqmn</guid>
-    </item>
-    <item>
-      <title>Doping-induced electronic modulation of electrocatalysts for CO2 reduction reaction</title>
-      <link>https://doi.org/10.32657/10356/173439</link>
-      <description>Mengxin Chen, No host. None(None)] 2024. https://openalex.org/W4392556270
-
-                No abstract</description>
-      <author>Mengxin Chen</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32657/10356/173439</guid>
-    </item>
-    <item>
-      <title>Analysis of metal&#8211;organic framework-based photosynthetic CO2 reduction</title>
-      <link>https://doi.org/10.1038/s44160-024-00490-z</link>
-      <description>Philip M. Stanley, Vanessa Ramm, Roland A. Fischer, Julien Warnan, Nature Synthesis. None(None)] 2024. https://openalex.org/W4392560800
-
-                No abstract</description>
-      <author>Philip M. Stanley, Vanessa Ramm, Roland A. Fischer, Julien Warnan</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s44160-024-00490-z</guid>
-    </item>
-    <item>
-      <title>Demand-Side Strategies for CO2 Emission Reductions: An Integrated Assessment Modeling Perspective</title>
-      <link>https://openalex.org/W4392576966</link>
-      <description>Rik van Heerden, Oreane Y. Edelenbosch, Bernardo Luiz Baptista, Alice Di Bella, Vassilis Daioglou, Francesco Pietro Colelli, Johannes Emmerling, Panagiotis Fragkos, Thomas Le Gallic, Robin Hasse, Johanna Hoppe, Paul Natsuo Kishimoto, Florian Leblanc, Julien Lef&#232;vre, Gunnar Luderer, Giacomo Marangoni, Alessio Mastrucci, Robert Pietzcker, Pedro Rochedo, Roberto Schaeffer, Sonia Yeh, Detlef van Vuuren, No host. None(None)] 2023. https://openalex.org/W4392576966
-
-                No abstract</description>
-      <author>Rik van Heerden, Oreane Y. Edelenbosch, Bernardo Luiz Baptista, Alice Di Bella, Vassilis Daioglou, Francesco Pietro Colelli, Johannes Emmerling, Panagiotis Fragkos, Thomas Le Gallic, Robin Hasse, Johanna Hoppe, Paul Natsuo Kishimoto, Florian Leblanc, Julien Lef&#232;vre, Gunnar Luderer, Giacomo Marangoni, Alessio Mastrucci, Robert Pietzcker, Pedro Rochedo, Roberto Schaeffer, Sonia Yeh, Detlef van Vuuren</author>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392576966</guid>
-    </item>
-    <item>
-      <title>Coupling electrocatalytic CO2 reduction with glucose oxidation for concurrent production of formate with high efficiency</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150280</link>
-      <description>Runyao Zhao, Yiding Wang, Guipeng Ji, Fengtao Zhang, Yuepeng Wang, Yanfei Zhao, Buxing Han, Zhimin Liu, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392624190
-
-                Electrocatalytic reduction of CO2 (CO2ER) coupled with the oxygen evolution reaction (OER) is an energy-intensive process that generates low-value oxygen, limiting its industrial application. To overcome this limitation, here we report a membrane electrode assembly (MEA) system that combines CO2ER with glucose electrooxidation (GEOR) to simultaneously produce formate using bismuth subcarbonate and carbon nanotube hybrid (BOC-CNT) and nickel cobalt oxide decorated on carbon fiber paper (NCO-CFP) as the cathode and anode catalysts, respectively. The BOC-CNT catalyst showed excellent electrocatalytic performance for CO2ER to formate, affording a high FEHCOO- of 97.9 % with current density of 360 mA cm&#8722;2 at &#8722;0.77 V vs. RHE (-580 mV overpotential), and the NCO-CFP catalyst achieved GEOR at 0.99 V (vs. RHE) with FEHCOO- &gt;98 %. The coupled CO2ER//GEOR MEA exhibits a low onset cell voltage of 1.20 V and reaches ultrahigh apparent Faraday efficiency of formate (&gt;190 %) in a wide range from 1.8 to 2.4 V, achieving &#8764; 33.3 % energy savings compared to CO2ER//OER with a high formate yield of 0.92 mol g-1h&#8722;1 at 100 mA cm&#8722;2. Besides, all generated formate can be collected from the electrolyte on the anode side due to the spontaneous migration of formate under electric field, thus reducing cross-contamination from CO2 and alkaline electrolytes. In addition, the coupled CO2ER//GEOR system exhibited good electrocatalytic stability for at least 32 h. This strategy provides an innovative and promising approach for the co-electrolytic transformation of biomass derivatives and CO2 to formate.</description>
-      <author>Runyao Zhao, Yiding Wang, Guipeng Ji, Fengtao Zhang, Yuepeng Wang, Yanfei Zhao, Buxing Han, Zhimin Liu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150280</guid>
     </item>
   </channel>
 </rss>
