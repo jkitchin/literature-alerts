@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Mar 2024 00:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 00:44:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Single-atom Mo-tailored high-entropy-alloy ultrathin nanosheets with intrinsic tensile strain enhance electrocatalysis</title>
+      <link>https://doi.org/10.1038/s41467-024-45874-z</link>
+      <description>He Lin, Menggang Li, Longyu Qiu, Shuo Geng, Yequn Liu, Fenyang Tian, Mingchuan Luo, Hu Liu, Yongsheng Yu, Wenjin Yang, Shaojun Guo, Nature Communications. 15(1)] 2024. https://openalex.org/W4392763700
+
+                Abstract The precise structural integration of single-atom and high-entropy-alloy features for energy electrocatalysis is highly appealing for energy conversion, yet remains a grand challenge. Herein, we report a class of single-atom Mo-tailored PdPtNiCuZn high-entropy-alloy nanosheets with dilute Pt-Pt ensembles and intrinsic tensile strain (Mo 1 -PdPtNiCuZn) as efficient electrocatalysts for enhancing the methanol oxidation reaction catalysis. The as-made Mo 1 -PdPtNiCuZn delivers an extraordinary mass activity of 24.55 A mg Pt &#8722;1 and 11.62 A mg Pd+Pt &#8722;1 , along with impressive long-term durability. The planted oxophilic Mo single atoms as promoters modify the electronic structure of isolated Pt sites in the high-entropy-alloy host, suppressing the formation of CO adsorbates and steering the reaction towards the formate pathway. Meanwhile, Mo promoters and tensile strain synergistically optimize the adsorption behaviour of intermediates to achieve a more energetically favourable pathway and minimize the methanol oxidation reaction barrier. This work advances the design of atomically precise catalytic sites by creating a new paradigm of single atom-tailored high-entropy alloys, opening an encouraging pathway to the design of CO-tolerance electrocatalysts.</description>
+      <author>He Lin, Menggang Li, Longyu Qiu, Shuo Geng, Yequn Liu, Fenyang Tian, Mingchuan Luo, Hu Liu, Yongsheng Yu, Wenjin Yang, Shaojun Guo</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-45874-z</guid>
+    </item>
   </channel>
 </rss>

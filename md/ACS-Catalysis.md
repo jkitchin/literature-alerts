@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Mar 14 00:43:21 2024
+Created on Fri Mar 15 00:44:12 2024
 
-Found 25 results from 2024-03-07 to 2024-03-14
+Found 25 results from 2024-03-08 to 2024-03-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Correction to “Facile Synthesis of Vinyl Boronate Esters via Dehydrogenative Borylation of Alkenes Enabled by Co-MOF Catalyst: An Additive Free Approach”   
-
-OpenAlex: https://openalex.org/W4392499978    
-Open access: True
-    
-[Suma Basappa](https://openalex.org/A5085820939), [Aishwarya Prakash](https://openalex.org/A5001458814), [Sanjana S. Talekar](https://openalex.org/A5093881181), [Manoj V. Mane](https://openalex.org/A5061653732), [Shubhankar Kumar Bose](https://openalex.org/A5053302759), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01116 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01116)).
-    
-ADVERTISEMENT RETURN TO ARTICLES ASAPPREVCorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to “Facile Synthesis of Vinyl Boronate Esters via Dehydrogenative Borylation of Alkenes Enabled by Co-MOF Catalyst: An Additive Free Approach”Suma BasappaSuma BasappaCentre for Nano and Material Sciences (CNMS), JAIN (Deemed-to-be University), Jain Global Campus, Bangalore-562112, IndiaMore by Suma Basappa, Aishwarya PrakashAishwarya PrakashCentre for Nano and Material Sciences (CNMS), JAIN (Deemed-to-be University), Jain Global Campus, Bangalore-562112, IndiaMore by Aishwarya Prakash, Sanjana S. TalekarSanjana S. TalekarCentre for Nano and Material Sciences (CNMS), JAIN (Deemed-to-be University), Jain Global Campus, Bangalore-562112, IndiaMore by Sanjana S. Talekar, Manoj V. Mane*Manoj V. ManeCentre for Nano and Material Sciences (CNMS), JAIN (Deemed-to-be University), Jain Global Campus, Bangalore-562112, India*Email: [email protected]More by Manoj V. Mane, and Shubhankar Kumar Bose*Shubhankar Kumar BoseCentre for Nano and Material Sciences (CNMS), JAIN (Deemed-to-be University), Jain Global Campus, Bangalore-562112, India*Email: [email protected]More by Shubhankar Kumar Bosehttps://orcid.org/0000-0002-1057-2403Cite this: ACS Catal. 2024, 14, XXX, 4301–4302Publication Date (Web):March 6, 2024Publication History Received20 February 2024Published online6 March 2024https://doi.org/10.1021/acscatal.4c01116© 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (725 KB) Get e-AlertscloseSUBJECTS:Borylation,Catalysts,Hydrocarbons,Hydrogenation,Organic compounds Get e-Alerts    
-
-    
-
-## Copper-Catalyzed Chemoselective (Amino)fluorosulfonylation of Hydrocarbons via Intramolecular Fluorine-Atom Transfer   
-
-OpenAlex: https://openalex.org/W4392503323    
-Open access: False
-    
-[Shiyao Qu](https://openalex.org/A5016736936), [Xiao Xi Li](https://openalex.org/A5029533535), [Xingwei Li](https://openalex.org/A5061667297), [Lin Wang](https://openalex.org/A5053275663), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00116.
-    
-Sulfonyl fluorides have found increasing applications as functional molecules in chemistry and biology. We herein report a copper-catalyzed atom-economical access to two categories of sulfonyl fluorides through a radical relay strategy in the presence of an SO2 surrogate. The aliphatic C(sp3)–H bond in N-fluoro-N-alkyl sulfonamides reacted via a 1,5-hydrogen atom transfer (HAT) process, affording alkanesulfonyl fluorides with a proximal amino group. On the other hand, utilizing substrates containing a proper C═C double bond resulted in intramolecular olefin aminofluorosulfonylation, allowing the synthesis of fluorosulfonyl-functionalized pyrrolidines and piperidines via atom-transfer radical addition (ATRA). Both reaction systems proceeded under mild conditions, requiring no additional fluorine source. Experimental and computational studies suggest that S–F coupling is likely achieved through an intramolecular radical-rebound pathway. By taking advantage of the SuFEx chemistry and multifunctionality of the products, the method is applicable to the late-stage modification of bioactive compounds, drug ligation chemistry, and organic synthesis.    
-
-    
-
-## Iron-Catalyzed Intramolecular C(sp3)-H Lactonization of Hydroxamate Derivatives Promoted by a 1,5-HAT   
-
-OpenAlex: https://openalex.org/W4392503558    
-Open access: False
-    
-[Hugo Esteves](https://openalex.org/A5094079327), [Tania Xavier](https://openalex.org/A5015902391), [Sonia Lajnef](https://openalex.org/A5046569010), [Fabienne Peyrot](https://openalex.org/A5084976373), [Guillaume Lefèvre](https://openalex.org/A5021299818), [Guillaume Prestat](https://openalex.org/A5031620212), [Farouk Berhal](https://openalex.org/A5083778303), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04900.
-    
-An iron-catalyzed lactonization reaction via intramolecular C(sp3)-H functionalization is described. The process employs easily accessible hydroxamate derivatives from which the noncommon insertion of the oxygen occurred through a 1,5-hydrogen atom transfer. A mixture of water and hexafluoroisopropanol as solvent appeared to be the key parameter of this transformation to reach a high selectivity and efficiency.    
-
-    
-
-## Stabilization of the Active Ruthenium Oxycarbonate Phase for Low-Temperature CO2 Methanation   
-
-OpenAlex: https://openalex.org/W4392517574    
-Open access: True
-    
-[Carmen Tébar-Soler](https://openalex.org/A5089580288), [Vlad Martin‐Diaconescu](https://openalex.org/A5079824914), [Laura Simonelli](https://openalex.org/A5018172983), [Alexander Missyul](https://openalex.org/A5079393657), [Virgínia Pérez-Dieste](https://openalex.org/A5030683006), [Ignacio J. Villar‐García](https://openalex.org/A5069531697), [Daviel Gómez](https://openalex.org/A5086322000), [Jean‐Blaise Brubach](https://openalex.org/A5019340238), [Pascale Le Roy](https://openalex.org/A5003198132), [Avelino Corma](https://openalex.org/A5000454699), [Patricia Concepción](https://openalex.org/A5073126664), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05679 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05679)).
-    
-Interstitial carbon-doped RuO2 catalyst with the newly reported ruthenium oxycarbonate phase is a key component for low-temperature CO2 methanation. However, a crucial factor is the stability of interstitial carbon atoms, which can cause catalyst deactivation when removed during the reaction. In this work, the stabilization mechanism of the ruthenium oxycarbonate active phase under reaction conditions is studied by combining advanced operando spectroscopic tools with catalytic studies. Three sequential processes: carbon diffusion, metal oxide reduction, and decomposition of the oxycarbonate phase and their influence by the reaction conditions, are discussed. We present how the reaction variables and catalyst composition can promote carbon diffusion, stabilizing the oxycarbonate catalytically active phase under steady-state reaction conditions and maintaining catalyst activity and stability over long operation times. In addition, insights into the reaction mechanism and a detailed analysis of the catalyst composition that identifies an adequate balance between the two phases, i.e., ruthenium oxycarbonate and ruthenium metal, are provided to ensure an optimum catalytic behavior.    
-
-    
-
-## Adjusting the Operational Potential Window as a Tool for Prolonging the Durability of Carbon-Supported Pt-Alloy Nanoparticles as Oxygen Reduction Reaction Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4392520370    
-Open access: True
-    
-[Tina Đukić](https://openalex.org/A5025273941), [Léonard Moriau](https://openalex.org/A5086588496), [Iva Klofutar](https://openalex.org/A5093093339), [Martin Šala](https://openalex.org/A5074073109), [Luka Pavko](https://openalex.org/A5057907379), [Francisco Javier González López](https://openalex.org/A5033818689), [Francisco Ruíz-Zepeda](https://openalex.org/A5077081602), [Andraž Pavlišič](https://openalex.org/A5041407843), [Miha Hotko](https://openalex.org/A5093093340), [Matija Gatalo](https://openalex.org/A5073443270), [Nejc Hodnik](https://openalex.org/A5065843632), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06251 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06251)).
-    
-A current trend in the investigation of state-of-the-art Pt-alloys as proton exchange membrane fuel cell (PEMFC) electrocatalysts is to study their long-term stability as a bottleneck for their full commercialization. Although many parameters have been appropriately addressed, there are still certain issues that must be considered. Here, the stability of an experimental Pt-Co/C electrocatalyst is investigated by high-temperature accelerated degradation tests (HT-ADTs) in a high-temperature disk electrode (HT-DE) setup, allowing the imitation of close-to-real operational conditions in terms of temperature (60 °C). Although the US Department of Energy (DoE) protocol has been chosen as the basis of the study (30,000 trapezoidal wave cycling steps between 0.6 and 0.95 VRHE with a 3 s hold time at both the lower potential limit (LPL) and the upper potential limit (UPL)), this works demonstrates that limiting both the LPL and UPL (from 0.6–0.95 to 0.7–0.85 VRHE) can dramatically reduce the degradation rate of state-of-the-art Pt-alloy electrocatalysts. This has been additionally confirmed with the use of an electrochemical flow cell coupled to inductively coupled plasma mass spectrometry (EFC-ICP-MS), which enables real-time monitoring of the dissolution mechanisms of Pt and Co. In line with the HT-DE methodology observations, a dramatic decrease in the total dissolution of Pt and Co has once again been observed upon narrowing the potential window to 0.7–0.85 VRHE rather than 0.6–0.95 VRHE. Additionally, the effect of the potential hold time at both LPL and UPL on metal dissolution has also been investigated. The findings demonstrate that the dissolution rate of both metals is proportional to the hold time at UPL regardless of the applied potential window, whereas the hold time at the LPL does not appear to be as detrimental to the stability of metals.    
-
-    
 
 ## Electrocatalytic CO2 Reduction with Atomically Precise Au13 Nanoclusters: Effect of Ligand Shell on Catalytic Performance   
 
@@ -276,6 +221,61 @@ OpenAlex: https://openalex.org/W4392697744
 Open access: False
     
 [Mark Jacob](https://openalex.org/A5025021152), [Huy Hoàng Nguyễn](https://openalex.org/A5014100196), [Matthew Neurock](https://openalex.org/A5010884148), [Aditya Bhan](https://openalex.org/A5019481513), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05585.
+    
+No abstract    
+
+    
+
+## Temporal Resolution of Activity-Related Solvation Dynamics in the TIM Barrel Enzyme Murine Adenosine Deaminase   
+
+OpenAlex: https://openalex.org/W4392701608    
+Open access: False
+    
+[Shuaihua Gao](https://openalex.org/A5073092786), [Xin Wu](https://openalex.org/A5017455013), [Wenju Zhang](https://openalex.org/A5071928865), [Thomas Richardson](https://openalex.org/A5018223254), [Samuel L. Barrow](https://openalex.org/A5029064345), [Christian A. Thompson-Kucera](https://openalex.org/A5094126167), [Anthony T. Iavarone](https://openalex.org/A5025340342), [Judith P. Klinman](https://openalex.org/A5066409965), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c02687.
+    
+No abstract    
+
+    
+
+## Genome Mining for New Enzyme Chemistry   
+
+OpenAlex: https://openalex.org/W4392701824    
+Open access: True
+    
+[Dinh Thanh Nguyen](https://openalex.org/A5039360167), [Douglas A. Mitchell](https://openalex.org/A5020004066), [Wilfred A. van der Donk](https://openalex.org/A5067523147), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06322 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06322)).
+    
+No abstract    
+
+    
+
+## Unraveling the Oxygen Vacancy Site Mechanism of a Self-Assembly Hybrid Catalyst for Efficient Alkaline Water Oxidation   
+
+OpenAlex: https://openalex.org/W4392704093    
+Open access: False
+    
+[Xinshui Lei](https://openalex.org/A5028354405), [Jiang Chang](https://openalex.org/A5062987221), [Qingjun Han](https://openalex.org/A5052904254), [Xiao‐Xin Zhang](https://openalex.org/A5087609640), [Kai Zhao](https://openalex.org/A5023119885), [Ning Yan](https://openalex.org/A5060681396), [Haoxu Guo](https://openalex.org/A5009656214), [Bing Tang](https://openalex.org/A5035223262), [Yifan Li](https://openalex.org/A5085794085), [Yi Cui](https://openalex.org/A5063995082), [Shuhui Yu](https://openalex.org/A5083866862), [Jianhui Li](https://openalex.org/A5015670282), [Yanping Sun](https://openalex.org/A5040238316), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05789.
+    
+No abstract    
+
+    
+
+## Highly Active and Sulfur-Tolerant Ruthenium Phosphide Catalyst for Efficient Reductive Amination of Carbonyl Compounds   
+
+OpenAlex: https://openalex.org/W4392710185    
+Open access: False
+    
+[Hiroya Ishikawa](https://openalex.org/A5063444310), [Sho Yamaguchi](https://openalex.org/A5081649730), [Tomoo Mizugaki](https://openalex.org/A5068048324), [Takato Mitsudome](https://openalex.org/A5064171498), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06179.
+    
+No abstract    
+
+    
+
+## Electrocatalytic Hydrogenation of Furfural with Improved Activity and Selectivity at the Surface of Structured Copper Electrodes   
+
+OpenAlex: https://openalex.org/W4392710286    
+Open access: False
+    
+[Clément Spadetto](https://openalex.org/A5093295428), [Cyril Hachemi](https://openalex.org/A5016215045), [Maxime Nouaille-Degorce](https://openalex.org/A5093295429), [Loïc Pendu](https://openalex.org/A5093295430), [Lou Bossert](https://openalex.org/A5093295431), [Robert H. Temperton](https://openalex.org/A5080012269), [Andrey Shavorskiy](https://openalex.org/A5051598053), [L. Cardenas](https://openalex.org/A5014591915), [Mathieu S. Prévot](https://openalex.org/A5038868245), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05691.
     
 No abstract    
 

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 Mar 2024 00:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 00:44:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing electrochemical carbon dioxide reduction efficiency through heat-induced metamorphosis of copper nanowires into copper oxide/copper nanotubes with tunable surface</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.03.007</link>
-      <description>Harshad A. Bandal, Hern Kim, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4392505152
-
-                No abstract</description>
-      <author>Harshad A. Bandal, Hern Kim</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.007</guid>
-    </item>
-    <item>
-      <title>Porous structure based on Fenton reaction-assisted chemical etching of commercial silicon powder and its application for electrocatalytic reduction of carbon dioxide</title>
-      <link>https://doi.org/10.1088/1742-6596/2713/1/012054</link>
-      <description>Junpeng Li, Zi Wang, Journal of Physics: Conference Series. 2713(1)] 2024. https://openalex.org/W4392505956
-
-                Abstract Silicon-based porous nanocomposites are considered promising as electrode materials for the photoelectrochemical reduction of carbon dioxide. However, the high cost of raw materials and tedious processing for building nanostructures may not be conducive to large-scale industrial applications in terms of cost. Herein, we would like to introduce a porous structure prepared by Fenton reaction-assisted chemical etching of low-cost commercial silicon powder in the mixed solution of hydrogen fluoride and hydrogen peroxide. These porous particles are further decorated with silver nanoparticles to explore their feasibility for photoelectrochemical reduction of carbon dioxide. As shown by experimental results, this silicon-based nanocomposite is capable of catalyzing the conversion of carbon dioxide into carbon monoxide. The low cost of commercial silicon powder (~$3000/ton) compared with that of silicon wafers also renders this method potential and feasible for large-scale production of silicon-based porous materials.</description>
-      <author>Junpeng Li, Zi Wang</author>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1742-6596/2713/1/012054</guid>
-    </item>
-    <item>
-      <title>A review of constraints and adjustable parameters in microgrids for cost and carbon dioxide emission reduction</title>
-      <link>https://doi.org/10.1016/j.heliyon.2024.e27489</link>
-      <description>Mohammed Amine Hoummadi, Hala Alami Aroussi, Badre Bossoufi, Mohammed Karim, Saleh Mobayen, Anton Zhilenkov, Thamer A. H. Alghamdi, Heliyon. None(None)] 2024. https://openalex.org/W4392520445
-
-                No abstract</description>
-      <author>Mohammed Amine Hoummadi, Hala Alami Aroussi, Badre Bossoufi, Mohammed Karim, Saleh Mobayen, Anton Zhilenkov, Thamer A. H. Alghamdi</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e27489</guid>
-    </item>
     <item>
       <title>Review article: Application of integrated electrodes materials for enhancing the electrochemical reduction of carbon dioxide</title>
       <link>https://doi.org/10.1063/5.0194297</link>
@@ -168,6 +138,36 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta00998c</guid>
     </item>
     <item>
+      <title>Two&#8208;Dimensional Crystalline Electrocatalysts for Efficient Reduction of Carbon Dioxide</title>
+      <link>https://doi.org/10.1002/celc.202400009</link>
+      <description>Lu Dai, Jie Zong, Lisha Liang, Pengfei Li, ChemElectroChem. None(None)] 2024. https://openalex.org/W4392749022
+
+                Abstract The electrochemical carbon dioxide reduction reaction (eCO 2 RR) can achieve carbon recycling through renewable electrical energy. Before releasing the full potential of eCO 2 RR, the electrocatalysts still need improvement in terms of catalytic activity, selectivity, and durability. Two&#8208;dimensional (2D) crystalline materials show a high aspect ratio with well&#8208;defined crystal structures, which are promising electrocatalysts for eCO 2 RR. In this review, we briefly discuss the typical 2D electrocatalysts for eCO 2 RR. Subsequently, we provide a summary of the different strategies to improve the catalytic performance of 2D crystalline electrocatalysts for creating and modulating active sites. Finally, we end this review with the current challenges and future opportunities of 2D crystalline materials in the eCO 2 RR.</description>
+      <author>Lu Dai, Jie Zong, Lisha Liang, Pengfei Li</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400009</guid>
+    </item>
+    <item>
+      <title>A quadruple transition metal dichalcogenide for variously synergetic electron behaviors during photocatalytic carbon dioxide reduction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159887</link>
+      <description>Pei Liu, Hongyu Chen, Caiyuan Zhao, Deng Long, Weijia Chen, Miao L&#252;, Xin Yi Chen, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392752845
+
+                No abstract</description>
+      <author>Pei Liu, Hongyu Chen, Caiyuan Zhao, Deng Long, Weijia Chen, Miao L&#252;, Xin Yi Chen</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159887</guid>
+    </item>
+    <item>
+      <title>Corrigendum to &#8220;Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on lnTaO4&#8221; [Mater. Sci. Semicond. Process. 174 (2024) 108235]</title>
+      <link>https://doi.org/10.1016/j.mssp.2024.108313</link>
+      <description>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade, Materials Science in Semiconductor Processing. None(None)] 2024. https://openalex.org/W4392768040
+
+                No abstract</description>
+      <author>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.108313</guid>
+    </item>
+    <item>
       <title>Effect of Carbon Dioxide on Bromantane Syntesis by Reductive Amination without an External Hydrogen Source</title>
       <link>https://doi.org/10.32931/io2307a</link>
       <description>D. Kletnov, Klim O. Biriukov, &#1040;. &#1045;. &#1053;&#1080;&#1082;&#1086;&#1083;&#1072;&#1077;&#1074;, Oleg I. Afanasyev, Denis Chusov, &#1048;&#1053;&#1069;&#1054;&#1057; OPEN. None(None)] 2024. https://openalex.org/W4392658822
@@ -186,26 +186,6 @@
       <author>Florian Kraxner, Dmitry Schepaschenko, Sabine Fuss, Andrey Krasovskiy, &#1040;. Shvidenko, Georg Kindermann, Hyun-Woo Jo, Woo&#8208;Kyun Lee</author>
       <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-egu24-19777</guid>
-    </item>
-    <item>
-      <title>Development and Experimental Validation of 3D Computational Fluid Dynamic Model for Carbon Dioxide Reduction Electrolytic Cell</title>
-      <link>https://doi.org/10.1109/acfpe59335.2023.10455453</link>
-      <description>Shuyu Zhu, Fengxiang Ma, Yunfeng Zhao, Jian Cao, Yu&#8208;Mei Song, Taotao Zhou, Xianwen Zhang, No host. None(None)] 2023. https://openalex.org/W4392502438
-
-                No abstract</description>
-      <author>Shuyu Zhu, Fengxiang Ma, Yunfeng Zhao, Jian Cao, Yu&#8208;Mei Song, Taotao Zhou, Xianwen Zhang</author>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/acfpe59335.2023.10455453</guid>
-    </item>
-    <item>
-      <title>Carbon dioxide reduction in solid oxide electrolyzer cells utilizing nickel bimetallic alloys infiltrated into Gd0.1Ce0.9O1.95 (GDC10) scaffolds</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144052</link>
-      <description>Ahmad Abu Hajer, Damilola A. Daramola, Jason Trembly, Electrochimica Acta. None(None)] 2024. https://openalex.org/W4392499157
-
-                This study evaluates the electrochemical performance of Gd0.1Ce0.9O1.95 (GDC10) cathodes infiltrated with bimetallic Ni-Co and Ni-Cu alloy electrocatalysts for CO2 electroreduction in solid oxide electrolyzer cells (SOECs). The electrochemical reduction performance of SOECs with cathodes infiltrated with Ni-Co and Ni-Cu alloys were compared to the performance of SOECs having cathodes infiltrated with Ni, Co, and Cu. Electrochemical performance was evaluated at 750, 800, and 850&#176;C. Cells with Co, Ni0.50Co0.50, Ni0.75Co0.25, and Ni infiltrated cathodes displayed a relatively similar CO2 electroreduction performance; however, SOECs having Co infiltrated cathodes had a slightly better catalytic performance towards CO2 reduction as demonstrated by their lower polarization resistance (Rp) values of 8.54, 4.03, and 1.25 &#937;&#183;cm2 when measured under open circuit voltage (OCV) at 750, 800, and 850&#176;C, respectively. Cells having Co, Ni0.50Co0.50, Ni0.75Co0.25, and Ni infiltrated cathodes showed a stable long-term CO2 electroreduction performance with Faradaic efficiency values approaching 100% when tested under 0.20 A&#183;cm&#8722;2 for 48 hours and at 750&#176;C. Results indicate that SOECs with Ni infiltrated cathodes possessed better short- and long-term CO2 electroreduction performance compared to SOECs featuring cathodes infiltrated with Cu, Ni0.25Cu0.75, and Ni0.50Cu0.50. Increasing Ni percentage within the Ni-Cu alloy structure had a positive impact on the electrochemical performance as cells with Ni0.50Cu0.50 infiltrated cathodes showed relatively close voltage values to those of cells with Ni infiltrated cathodes during short-term galvanostatic tests. Although the SOEC with Ni0.50Cu0.50 infiltrated cathode experienced performance degradation throughout the long-term test period, it demonstrated better electroreduction performance having Faradaic efficiency values approaching 100% compared to cells with Cu and Ni0.25Cu0.75 infiltrated cathodes when evaluated under 0.20 A&#183;cm&#8722;2 for 48 hours and at 750&#176;C.</description>
-      <author>Ahmad Abu Hajer, Damilola A. Daramola, Jason Trembly</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144052</guid>
     </item>
     <item>
       <title>Amorphous ZnSnOx Hollow Spheres Enable Highly Efficient CO2 Reduction</title>
@@ -258,14 +238,27 @@
       <guid isPermaLink="true">https://doi.org/10.3390/catal14030191</guid>
     </item>
     <item>
-      <title>Introduction of sulfur in Bi2O3 to boost water activation for enhancing the reduction of CO2 to formate</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.234298</link>
-      <description>Qiuyu Zheng, Sheng Luan, Yun Feng, Shi&#8208;Wen Lv, Yi Zhang, Yanqing Cong, Journal of Power Sources. 601(None)] 2024. https://openalex.org/W4392528082
+      <title>The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction</title>
+      <link>https://doi.org/10.18104/kalc.2023.38.4.181</link>
+      <description>Ming Song, Korean Academy Of International Commerce. 38(4)] 2023. https://openalex.org/W4392735268
 
-                The reduction of carbon dioxide to produce valuable chemicals offers a sustainable approach towards achieving carbon neutralization. However, the electrochemical carbon dioxide reduction (ECO2RR) using clean electricity faces challenges in terms of high product faradaic efficiency (FE), current density, and stability. In this study, we prepared a S&#8211;Bi2O3 nanosheets (NS) catalyst through in-situ structural reconstruction. The S&#8211;Bi2O3 NS catalyst exhibited a peak formate FE of 92.05 % at &#8722;0.9 V and a high formate formation rate of 497.80 &#956;mol h&#8722;1 cm&#8722;2 at &#8722;1.3 V. The significant improvement in selectivity and activity is attributed to the sulfur modification on Bi2O3 NS catalyst. The sulfur doping enhances the dissociation of water into H* species, facilitating the formation of HCOO* intermediate and promoting formate production. This work presents a simple and effective strategy for developing highly selective Bi-based electrocatalysts for efficient formate production.</description>
-      <author>Qiuyu Zheng, Sheng Luan, Yun Feng, Shi&#8208;Wen Lv, Yi Zhang, Yanqing Cong</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234298</guid>
+                Purpose: This study analyzes the causal relationships between CO2 emissions and ODA, logistics, renewable energy, economic growth, and industrialization.
+ Research design, data, and methodology: From 2006 to 2019, panel data related to CO2 emissions, ODA, logistics networks, renewable energy, economic growth, and industrialization were collected from a total of 84 countries. To analyze this model, panel unit root tests and panel co-integration tests were performed to confirm the stability and long-term causal relationships in the data. Subsequently, panel FMOLS and panel DOLS were used to identify variables affecting carbon dioxide, and pairwise panel Granger causality analysis was used to analyze causality between these variables.
+ Results: According to panel FMOLS and panel DOLS analysis, ODA and renewable energy reduce CO2 emissions, but economic growth increases CO2 emissions.
+ Conclusions: As a result of panel FMOLS and panel DOLS analysis, economic growth was identified as a factor in increasing CO2 emissions, and international development cooperation and renewable energy were identified as factors in reducing CO2 emissions.</description>
+      <author>Ming Song</author>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.18104/kalc.2023.38.4.181</guid>
+    </item>
+    <item>
+      <title>The Prospects of Urea Manufacturing via Electrochemical Co-reduction of CO2 and Nitrates</title>
+      <link>https://doi.org/10.1016/j.coelec.2024.101479</link>
+      <description>Qinglan Zhao, Ye Zhang, Dapeng Cao, Minhua Shao, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4392767741
+
+                Electrochemical co-reduction of CO2 and nitrates presents a promising alternative for urea production. However, the current electrochemical synthesis of urea faces challenges related to low selectivity and production rates. The development of high-efficiency electrocatalysts is the key to performance improvement of urea electrosynthesis. This minireview primarily focuses on the rational design of catalysts, starting with a mechanistic overview. In addition, the advancement of electrolyzers for urea electrochemical synthesis is also discussed aiming to articulate guiding principles of achieving high-rate production reaching industrial relevant level in the future.</description>
+      <author>Qinglan Zhao, Ye Zhang, Dapeng Cao, Minhua Shao</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101479</guid>
     </item>
     <item>
       <title>Exploring the Effects of Ligands on Gold Nanoparticles for the Selective Reduction of CO2 to CO</title>
@@ -278,14 +271,44 @@
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.082</guid>
     </item>
     <item>
-      <title>Transformational Sorbent Materials for a Substantial Reduction in the Energy&amp;#x0D; Requirement for Direct Air Capture of CO2</title>
-      <link>https://doi.org/10.2172/2315076</link>
-      <description>Ravi Jain, N.O. Lemcoff, No host. None(None)] 2024. https://openalex.org/W4392514108
+      <title>Dynamic Evolution of Single Atom Catalysts during CO2 Electrocatalytic Reduction</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.233</link>
+      <description>Beatriz Rold&#225;n Cuenya, No host. None(None)] 2023. https://openalex.org/W4392704879
 
-                InnoSepra&#8217;s project, &#8220;Transformational Sorbent Materials for a Substantial Reduction in the Energy Requirement for Direct Air Capture of CO2,&#8221; utilized computational tools, materials characterization, and lab scale testing to optimize previously identified materials to determine their performance under direct air capture conditions. InnoSepra utilized the test results to determine the energy required for regeneration and to develop a high-level process design/analysis to demonstrate the application of developed materials for direct air capture which could be utilized for future techno-economic and life-cycle analyses to fully assess the potential of the materials for direct air capture. InnoSepra also updated the State Point Data Table and completed the environmental, health, and safety (EH&amp;S) Risk Assessment. The overall objective of this project was to demonstrate that the proposed transformational materials can lead to a substantial reduction in the energy requirement for direct capture of carbon dioxide (CO2) from air compared to current state-of-the-art direct air capture processes. An assessment of the production of large quantities of the proposed materials was made for a potential future commercial implementation of these materials for direct air capture. The ultimate goals of the Project were to confirm the expected performance at the lab scale and to provide sufficient data to enable the development of a preliminary technical analysis to confirm the projected energy savings of at least 50% compared to current state-of-the-art technologies for direct air capture based on absorption and adsorption. During the project execution, InnoSepra demonstrated that Direct Air Capture with physical sorbents developed/identified during this project has the potential for a significant reduction in the energy required for capture and, when fully developed, the technology has the potential for an energy requirement below 4 GJ/MT of CO2. The starting TRL for major unit operations, moisture removal, and CO2 capture, was 2, and the end of the project TRL for these unit operations was 3-4. The technology uses near-commercial sorbents and the production of these materials for commercial-scale demonstration can be done in 2-3 years. The materials also have a long life (&gt;5 years) and pose little or no EH&amp;S issues.</description>
-      <author>Ravi Jain, N.O. Lemcoff</author>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2315076</guid>
+                No abstract</description>
+      <author>Beatriz Rold&#225;n Cuenya</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.233</guid>
+    </item>
+    <item>
+      <title>Computational Design of Electro-Organocatalysts and Transition Metal Sulfides for the Electrochemical Reduction of CO2</title>
+      <link>https://doi.org/10.31390/gradschool_dissertations.6240</link>
+      <description>Foroogh Khezeli, No host. None(None)] 2024. https://openalex.org/W4392691393
+
+                Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.</description>
+      <author>Foroogh Khezeli</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31390/gradschool_dissertations.6240</guid>
+    </item>
+    <item>
+      <title>Doping-induced electronic modulation of electrocatalysts for CO2 reduction reaction</title>
+      <link>https://doi.org/10.32657/10356/173439</link>
+      <description>Mengxin Chen, No host. None(None)] 2024. https://openalex.org/W4392556270
+
+                No abstract</description>
+      <author>Mengxin Chen</author>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.32657/10356/173439</guid>
+    </item>
+    <item>
+      <title>Analysis of metal&#8211;organic framework-based photosynthetic CO2 reduction</title>
+      <link>https://doi.org/10.1038/s44160-024-00490-z</link>
+      <description>Philip M. Stanley, Vanessa Ramm, Roland A. Fischer, Julien Warnan, Nature Synthesis. None(None)] 2024. https://openalex.org/W4392560800
+
+                No abstract</description>
+      <author>Philip M. Stanley, Vanessa Ramm, Roland A. Fischer, Julien Warnan</author>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s44160-024-00490-z</guid>
     </item>
   </channel>
 </rss>
