@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Mar 2024 00:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 00:42:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction with Atomically Precise Au&lt;sub&gt;13&lt;/sub&gt; Nanoclusters: Effect of Ligand Shell on Catalytic Performance</title>
-      <link>https://doi.org/10.1021/acscatal.3c06114</link>
-      <description>Tetyana I. Levchenko, Hong Yi, Mark D. Aloisio, Ngoc Kim Dang, Guofu Gao, Sachil Sharma, Cao-Thang Dinh, Cathleen M. Crudden, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392550903
-
-                Supported gold nanoclusters of the formula [Au13(L)5Cl2]3+ where L = N-heterocyclic carbene (NHC) or phosphine ligands are examined in the electrocatalytic CO2 reduction reaction (eCO2RR) in a membrane electrode assembly cell configuration. Gold nanoclusters bearing bisNHC ligands are shown to exhibit improved catalytic performance compared with diphosphine-stabilized nanoclusters after activation at the optimum treatment temperatures. The thermal properties of the nanoclusters are shown to have a significant impact on their catalytic activity. Thermogravimetric analysis, UV&#8211;vis absorption spectroscopy, and X-ray photoelectron spectroscopy revealed that thermal treatment of [Au13(diphosphine)5Cl2]3+ nanoclusters results in complete loss of diphosphine ligands while [Au13(bisNHC)5Cl2]3+ nanoclusters show stepwise and partial removal of bisNHC ligands. We propose that the partial removal of bisNHC ligands enables efficient activation of [Au13(bisNHC)5Cl2]3+ clusters while conserving the core structure. This leads to the implication that intact clusters retaining at least some ligands in their coordination environment are more active than ligand-free clusters.</description>
-      <author>Tetyana I. Levchenko, Hong Yi, Mark D. Aloisio, Ngoc Kim Dang, Guofu Gao, Sachil Sharma, Cao-Thang Dinh, Cathleen M. Crudden</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06114</guid>
-    </item>
-    <item>
-      <title>Revving up a Designed Copper Nitrite Reductase Using Noncoded Active Site Ligands</title>
-      <link>https://doi.org/10.1021/acscatal.3c06159</link>
-      <description>Winston C Pitts, Aniruddha Deb, James E. Penner&#8208;Hahn, Vincent L. Pecoraro, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392551437
-
-                No abstract</description>
-      <author>Winston C Pitts, Aniruddha Deb, James E. Penner&#8208;Hahn, Vincent L. Pecoraro</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06159</guid>
-    </item>
-    <item>
-      <title>Sulfite-Enhanced Aerobic Methane Oxidation to Methanol over Reduced Phosphomolybdate</title>
-      <link>https://doi.org/10.1021/acscatal.4c00234</link>
-      <description>Sikai Wang, Hua An, Max J. H&#252;lsey, Geng Sun, Qian He, Ning Yan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392551491
-
-                No abstract</description>
-      <author>Sikai Wang, Hua An, Max J. H&#252;lsey, Geng Sun, Qian He, Ning Yan</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00234</guid>
-    </item>
-    <item>
-      <title>Accelerated Dual Activation of Lattice Oxygen and Molecule Oxygen over CoMn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Catalysts for VOC Oxidation: Promoting the Role of Oxygen Vacancies</title>
-      <link>https://doi.org/10.1021/acscatal.3c06237</link>
-      <description>Yewei Ren, Caixia Song, Hui Wang, Zhenping Qu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392552229
-
-                No abstract</description>
-      <author>Yewei Ren, Caixia Song, Hui Wang, Zhenping Qu</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06237</guid>
-    </item>
-    <item>
-      <title>Enhanced Charge Transfer via Heterogeneous Doping Promotes Hematite Photoelectrodes for Efficient Solar H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Synthesis</title>
-      <link>https://doi.org/10.1021/acscatal.3c06110</link>
-      <description>Fang Guo, Jinwei Bai, Rui&#8208;Ting Gao, Kai Su, Yang Yang, Xianhu Liu, Limin Wu, Lei Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392564717
-
-                Photoelectrochemical (PEC) water splitting into hydrogen peroxide (H2O2) and hydrogen (H2) is a promising alternative to energy and environmentally intensive production. Bulk electronic and surface structures affect the charge transport efficiency and catalytic activity of the photoelectrode. Herein, we design and investigate a hematite (Fe2O3) nanorod photoelectrode with hafnium and titanium binary dopants for highly selective H2O2 production. The resultant photoanode shows a H2O2 yield of 0.41 &#956;mol min&#8211;1 cm&#8211;2 at 1.5 VRHE with a Faradaic efficiency of 72.2%. Experimental investigations and theoretical calculations demonstrate the synergistic effect of Hf and gradient Ti doping on the hematite for the promising H2O2 performance. Hf doping effectively improves the crystallinity of Fe2O3, which favors improving the charge transport and reducing the charge recombination. Gradient Ti doping inhibits the collapse of the nanorod structure, increases the specific surface area, and introduces a large number of active sites on the surface. Ti- and Hf-codoped Ti/Hf:Fe2O3 photoanode improves the kinetics of H2O2 generation, leading to the high selectivity for H2O2 production and suppression of O2 production. This work provides the importance of hematite-based photoanodes toward the regulation of competition reactions for H2O2 production.</description>
-      <author>Fang Guo, Jinwei Bai, Rui&#8208;Ting Gao, Kai Su, Yang Yang, Xianhu Liu, Limin Wu, Lei Wang</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06110</guid>
-    </item>
     <item>
       <title>Nickel as Electrocatalyst for CO&lt;sub&gt;(2)&lt;/sub&gt; Reduction: Effect of Temperature, Potential, Partial Pressure, and Electrolyte Composition</title>
       <link>https://doi.org/10.1021/acscatal.4c00009</link>
@@ -256,6 +206,56 @@
       <author>Cl&#233;ment Spadetto, Cyril Hachemi, Maxime Nouaille-Degorce, Lo&#239;c Pendu, Lou Bossert, Robert H. Temperton, Andrey Shavorskiy, L. Cardenas, Mathieu S. Pr&#233;vot</author>
       <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05691</guid>
+    </item>
+    <item>
+      <title>Silylarylation of Alkenes &lt;i&gt;via meta&lt;/i&gt;-Selective C&#8211;H Activation of Arenes under Ruthenium/Iron Cooperative Catalysis: Mechanistic Insights from Combined Experimental and Computational Studies</title>
+      <link>https://doi.org/10.1021/acscatal.4c00034</link>
+      <description>Sukanya Neogi, Sourav Bhunya, Asim Kumar Ghosh, Biswajit Sarkar, Lisa Roy, Alakananda Hajra, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392710750
+
+                No abstract</description>
+      <author>Sukanya Neogi, Sourav Bhunya, Asim Kumar Ghosh, Biswajit Sarkar, Lisa Roy, Alakananda Hajra</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00034</guid>
+    </item>
+    <item>
+      <title>Regulating the H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthetic Activity of Covalent Organic Frameworks through Linkage Orientation</title>
+      <link>https://doi.org/10.1021/acscatal.4c00278</link>
+      <description>Jie-Yu Yue, Li-Ping Song, Zi-Xian Pan, Peng Yang, Yu Ma, Qing Xu, Bo Tang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392740340
+
+                No abstract</description>
+      <author>Jie-Yu Yue, Li-Ping Song, Zi-Xian Pan, Peng Yang, Yu Ma, Qing Xu, Bo Tang</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00278</guid>
+    </item>
+    <item>
+      <title>Functionally Diverse Peroxygenases by AlphaFold2, Design, and Signal Peptide Shuffling</title>
+      <link>https://doi.org/10.1021/acscatal.4c00883</link>
+      <description>Judith M&#252;nch, N.L. Dietz, S. Barber-Zucker, F. Seifert, Susanne Matschi, Pascal P&#252;llmann, Sarel J. Fleishman, Martin J. Weissenborn, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392744707
+
+                Unspecific peroxygenases (UPOs) are fungal enzymes that attract significant attention for their ability to perform versatile oxyfunctionalization reactions using H2O2. Unlike other oxygenases, UPOs do not require additional reductive equivalents or electron transfer chains that complicate basic and applied research. Nevertheless, UPOs generally exhibit low to no heterologous production levels and only four UPO structures have been determined to date by crystallography limiting their usefulness and obstructing research. To overcome this bottleneck, we implemented a workflow that applies PROSS stability design to AlphaFold2 model structures of 10 unique and diverse UPOs followed by a signal peptide shuffling to enable heterologous production. Nine UPOs were functionally produced in Pichia pastoris, including the recalcitrant CciUPO and three UPOs derived from oomycetes&#9472;the first nonfungal UPOs to be experimentally characterized. We conclude that the high accuracy and reliability of new modeling and design workflows dramatically expand the pool of enzymes for basic and applied research.</description>
+      <author>Judith M&#252;nch, N.L. Dietz, S. Barber-Zucker, F. Seifert, Susanne Matschi, Pascal P&#252;llmann, Sarel J. Fleishman, Martin J. Weissenborn</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00883</guid>
+    </item>
+    <item>
+      <title>Transition State Analysis of Key Steps in Dual Photoredox-Cobalt-Catalyzed Elimination of Alkyl Bromides</title>
+      <link>https://doi.org/10.1021/acscatal.3c06324</link>
+      <description>Victor O. Nyagilo, Sharath Chandra Mallojjala, Jennifer S. Hirschi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392746939
+
+                No abstract</description>
+      <author>Victor O. Nyagilo, Sharath Chandra Mallojjala, Jennifer S. Hirschi</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06324</guid>
+    </item>
+    <item>
+      <title>Insights on the Mechanism of Surface-Catalyzed Oxidative Nitrogen Fixation Based on Liquid-Phase Bubble Pin-Plate Discharge</title>
+      <link>https://doi.org/10.1021/acscatal.3c05317</link>
+      <description>Qingchuan Wang, Limin Liu, Guoxin Gao, Yuzhi Chen, Yuxin Ouyang, Dongyang Zhang, Yaqiong Su, Shujiang Ding, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392748786
+
+                No abstract</description>
+      <author>Qingchuan Wang, Limin Liu, Guoxin Gao, Yuzhi Chen, Yuxin Ouyang, Dongyang Zhang, Yaqiong Su, Shujiang Ding</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05317</guid>
     </item>
   </channel>
 </rss>

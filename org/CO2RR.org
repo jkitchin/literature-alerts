@@ -1,53 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Mar 15 00:44:10 2024
+Created on Sat Mar 16 00:42:49 2024
 
-Found 30 results from 2024-03-08 to 2024-03-15
+Found 30 results from 2024-03-09 to 2024-03-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Review article: Application of integrated electrodes materials for enhancing the electrochemical reduction of carbon dioxide  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392566863
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Carbon Dioxide Utilization for Chemical Synthesis
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0194297")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392566863"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392566863"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392566863"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392566863 (Open access: True)
-    
-[[https://openalex.org/A5081971453][Hary Devianto]], [[https://openalex.org/A5089003468][M. Eviani]], [[https://openalex.org/A5073805388][Tirto Prakoso]], AIP Conference Proceedings. None(None)] 2024. https://doi.org/10.1063/5.0194297  ([[https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0194297/19714812/020003_1_5.0194297.pdf][pdf]])
-     
-Carbon dioxide, a "greenhouse gas" resulted from industrial fossil fuels combustion, is a major driver of global warming and climate change. Several works have been pursued to reduce atmospheric concentrations of CO2. The most attractive and feasible approach to address this issue and maintain sustainable energy development for generations is carbon capture and storage or sequestration (CCS) via electrochemical reduction. Electrochemical CO2 reduction (ECO2R) is an integrated step of CO2 capture and electrochemical CO2 conversion, using water and electricity to convert CO2 into fuels and valuable chemicals, especially formic acid. Multiple benefits of CO2 Electrochemical conversion include the ability to regulate reaction rates or selectivity finely through the applied voltage, modularity of electrolytic cells that allows extensive scalability, and effective integration with intermittent renewable energy sources. The efficiency of ECO2R processes can be improved through (i) electrode structure and modification, (ii) electrolytic cell (reactor), (iii) electrolyte selection and pH control, and (iv) operating conditions (pressure and temperature). However, finding suitable electrodes with high selectivity for formic acid formation remains the biggest challenge at the fundamental level. This article provides an overview of recent research on ECO2R electrodes, focusing on the application of different types of integrated electrodes (e.g., metals, metal oxides, alloys) and the effect of adding promoters or/and carbon supports. The synergistic effect of different materials, promoters, and carbon supports in the electrodes is essential for the enhancement of the ECO2R performance.    
-
-    
-
-* Review electrochemical reduction of carbon dioxide into formic acid in various reactors using carbon-based catalyst  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392567040
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0194299")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392567040"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392567040"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392567040"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392567040 (Open access: True)
-    
-[[https://openalex.org/A5085371064][Nanda Dwi Jayanti]], [[https://openalex.org/A5081971453][Hary Devianto]], [[https://openalex.org/A5085589412][Pramujo Widiatmoko]], [[https://openalex.org/A5073805388][Tirto Prakoso]], [[https://openalex.org/A5089003468][M. Eviani]], AIP Conference Proceedings. None(None)] 2024. https://doi.org/10.1063/5.0194299  ([[https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/5.0194299/19714892/100001_1_5.0194299.pdf][pdf]])
-     
-Climate change as an effect of global warming is an environmental problem that is currently a concern of many parties. The global warming is mainly triggered by emission of CO2 into the atmosphere due to human activities such as usage of fossil fuels as the energy source. Therefore, the energy transition from fossil fuels to renewable energy as well as technology to capture and utilize the CO2 are highly necessary. The electrochemical conversion of CO2 to produce various products, such as formic acid has advantages, due to mild reaction condition, the process is controllable, use minimal chemicals, and the application is relatively easy to scale-up. Formic acid has potential as a source of hydrogen carrier and can replace fossil-based fuels. Products from electroreduction of CO2 depend on electrons transferred during the reaction, which are generated by the configuration of electrode/electrocatalyst, applied potential, and electrolyte. In addition, the type of reactor system or electrolytic cell also plays an important role in the electrochemical reduction of CO2. Carbon-based materials have potential as electrocatalysts for electroreduction of CO2 because of the porous structure, acid-base resistance, stability at high temperature, abundant availability in nature, and environmentally friendly. This mini review will discuss the electroreduction of CO2 in various electrochemical reactor systems using carbon-based electrocatalyst to produce formic acid using the SWOT analysis method.    
-
-    
 
 * Sustainable Formate Synthesis: Integrating Ethylene Glycol Oxidation with Carbon Dioxide Electrocatalysis Using Redox-Stabilized Earth-Abundant Electrodes  :CO2RR:
 :PROPERTIES:
@@ -343,6 +301,69 @@ No abstract
 
     
 
+* Continuous Production of Ethylene and Hydrogen Peroxide from Paired Electrochemical Carbon Dioxide Reduction and Water Oxidation  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392807699
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-03-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aenm.202304247")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392807699"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392807699"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392807699"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392807699 (Open access: True)
+    
+[[https://openalex.org/A5083446401][Sotirios Mavrikis]], [[https://openalex.org/A5061076707][Michél K. Nieuwoudt]], [[https://openalex.org/A5013472734][Maximilian Göltz]], [[https://openalex.org/A5094152043][Sophie Ehles]], [[https://openalex.org/A5061772643][Andreas Körner]], [[https://openalex.org/A5019937016][Andreas Hutzler]], [[https://openalex.org/A5094152044][Emeric Fossy]], [[https://openalex.org/A5083107535][Andreas Zervas]], [[https://openalex.org/A5094152045][Oshioriamhe Brai]], [[https://openalex.org/A5088513652][Moritz Wegener]], [[https://openalex.org/A5094152041][Florian Doerrfuss]], [[https://openalex.org/A5094152042][Peter Bouwman]], [[https://openalex.org/A5045696926][Stefan Rosiwal]], [[https://openalex.org/A5043587033][Ling Wang]], [[https://openalex.org/A5024067466][Carlos Ponce de León]], Advanced Energy Materials. None(None)] 2024. https://doi.org/10.1002/aenm.202304247  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202304247][pdf]])
+     
+Abstract Paired electrolysis offers an auspicious strategy for the generation of high‐value chemicals, at both the anode and cathode, in an integrated electrochemical reactor. Through efficient electron utilization, routine product misuse at overlooked electrodes can be prevented. Here, an original paired electrosynthetic system is reported that can convert CO 2 to ethylene (C 2 H 4 ) at the cathode, and water to hydrogen peroxide (H 2 O 2 ) at the anode under a single pass of electric charge. Amongst various investigated copper (Cu) nanomorphologies, the bespoke mixed Cu nanowire/nanoparticle catalyst recorded a peak C 2 H 4 Faraday efficiency ( FE ) of 60% following 370 h of electrolysis at 200 mA cm −2 , while the tailored boron‐doped diamond (BDD) anode accumulated an unprecedented ≈1% w/w of H 2 O 2 in 4 m K 2 CO 3 upon applying 300 mA cm −2 for 10 h. When paired, the dual C 2 H 4 ‐H 2 O 2 electrochemical cell attains a combined FE of 120% for 50 h at 200 mA cm −2 , a combined energy efficiency (EE) of 69%, and a 50% decrease in the overall electrical energy consumption (EEC) compared to the individual electrosynthesis of C 2 H 4 and H 2 O 2 .    
+
+    
+
+* Synthesis of nanocomposites based on graphitic carbon nitride, titanium dioxide and boron nitride for the photo-production of H2 and the photo-reduction of CO2  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392773243
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials, Photocatalysis and Solar Energy Conversion
+:PUBLICATION_DATE: 2023-07-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392773243"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392773243"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392773243"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392773243 (Open access: True)
+    
+[[https://openalex.org/A5019505146][Leila Hammoud]], No host. None(None)] 2023. None  ([[https://theses.hal.science/tel-04257912/document][pdf]])
+     
+No abstract    
+
+    
+
+* Distribution of Carbon Dioxide Emissions and Potential Consequences for Their Reduction in Louisiana  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392795875
+:TOPICS: Global Methane Emissions and Impacts
+:PUBLICATION_DATE: 2024-03-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.31390/gradschool_theses.5821")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392795875"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392795875"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392795875"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392795875 (Open access: False)
+    
+[[https://openalex.org/A5003963085][Mohammad I. Zia]], No host. None(None)] 2024. https://doi.org/10.31390/gradschool_theses.5821 
+     
+No abstract    
+
+    
+
 * Effect of Carbon Dioxide on Bromantane Syntesis by Reductive Amination without an External Hydrogen Source  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392658822
@@ -406,6 +427,27 @@ Carbon dioxide (CO2) adsorption and electron transport play an important role in
 
     
 
+* Study of layered double hydroxides for the electrocatalytic reduction of CO2  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392773097
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2023-04-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "None")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392773097"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392773097"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392773097"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392773097 (Open access: True)
+    
+[[https://openalex.org/A5087757322][A. Tarhini]], No host. None(None)] 2023. None  ([[https://theses.hal.science/tel-04357430/document][pdf]])
+     
+No abstract    
+
+    
+
 * Electrolyte effect in electrochemical reduction of CO2 on Cu electrode  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392704869
@@ -422,27 +464,6 @@ Carbon dioxide (CO2) adsorption and electron transport play an important role in
 OpenAlex: https://openalex.org/W4392704869 (Open access: False)
     
 [[https://openalex.org/A5079766978][Amanda C. Garcia]], No host. None(None)] 2023. https://doi.org/10.29363/nanoge.matsus.2024.367 
-     
-No abstract    
-
-    
-
-* Graphene-based CO2 reduction electrocatalysts: a review  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392564119
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Materials for Electrochemical Supercapacitors
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.carbon.2024.118879")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392564119"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392564119"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392564119"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392564119 (Open access: False)
-    
-[[https://openalex.org/A5038427980][Zelin Wu]], [[https://openalex.org/A5009018022][Congwei Wang]], [[https://openalex.org/A5052309941][Xiaoxiang Zhang]], [[https://openalex.org/A5029883974][Quangui Guo]], [[https://openalex.org/A5029316647][Junying Wang]], Carbon. 221(None)] 2024. https://doi.org/10.1016/j.carbon.2024.118879 
      
 No abstract    
 
@@ -469,27 +490,6 @@ No abstract
 
     
 
-* CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392648975
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-03-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14030191")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392648975"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392648975"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392648975"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392648975 (Open access: True)
-    
-[[https://openalex.org/A5060151594][Hangxin Xie]], [[https://openalex.org/A5034973415][Li Lv]], [[https://openalex.org/A5036120236][Yuan Sun]], [[https://openalex.org/A5045162736][Chunlai Wang]], [[https://openalex.org/A5035720806][Jialin Xu]], [[https://openalex.org/A5017813339][Min Tang]], Catalysts. 14(3)] 2024. https://doi.org/10.3390/catal14030191  ([[https://www.mdpi.com/2073-4344/14/3/191/pdf?version=1710145813][pdf]])
-     
-Effective electrochemical reduction of carbon dioxide to formate under mild conditions helps mitigate the energy crisis but requires the use of high-performance catalysts. The addition of a third metal to the binary metal catalyst may further promote the electrochemical reduction of carbon dioxide to formate. Herein, we provided a co-electrodeposition method to grow CuSnBi catalysts on pretreated copper foam and discussed the effects of both pH value and molar ratio of metal ions (Cu2+, Sn2+, and Bi3+) in the electrodeposition solution on the electrocatalytic performance of CO2 to HCOO−. When the pH value of the electrodeposition solution was 8.5 and the molar ratio of Cu2+, Sn2+, and Bi3+ was 1:1:1, the electrode showed the highest FEHCOO− of 91.79% and the formate partial current density of 36.6 mA·cm−2 at −1.12 VRHE. Furthermore, the electrode kept stable for 20 h at −1.12 VRHE, and FEHCOO− was always beyond 85% during the electrolysis process, which is excellent compared to the previously reported ternary metal catalytic electrodes. This work highlights the vital impact of changes (pH value and molar ratio of metal ions) in electrodeposition liquid on catalytic electrodes and their catalytic performance, and refreshing the electrolyte is essential to maintain the activity and selectivity during the electrochemical reduction of CO2 to HCOO−.    
-
-    
-
 * The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392735268
@@ -508,6 +508,27 @@ OpenAlex: https://openalex.org/W4392735268 (Open access: False)
 [[https://openalex.org/A5085403337][Ming Song]], Korean Academy Of International Commerce. 38(4)] 2023. https://doi.org/10.18104/kalc.2023.38.4.181 
      
 Purpose: This study analyzes the causal relationships between CO2 emissions and ODA, logistics, renewable energy, economic growth, and industrialization. Research design, data, and methodology: From 2006 to 2019, panel data related to CO2 emissions, ODA, logistics networks, renewable energy, economic growth, and industrialization were collected from a total of 84 countries. To analyze this model, panel unit root tests and panel co-integration tests were performed to confirm the stability and long-term causal relationships in the data. Subsequently, panel FMOLS and panel DOLS were used to identify variables affecting carbon dioxide, and pairwise panel Granger causality analysis was used to analyze causality between these variables. Results: According to panel FMOLS and panel DOLS analysis, ODA and renewable energy reduce CO2 emissions, but economic growth increases CO2 emissions. Conclusions: As a result of panel FMOLS and panel DOLS analysis, economic growth was identified as a factor in increasing CO2 emissions, and international development cooperation and renewable energy were identified as factors in reducing CO2 emissions.    
+
+    
+
+* CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392648975
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-03-11
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/catal14030191")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392648975"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392648975"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392648975"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392648975 (Open access: True)
+    
+[[https://openalex.org/A5060151594][Hangxin Xie]], [[https://openalex.org/A5034973415][Li Lv]], [[https://openalex.org/A5036120236][Yuan Sun]], [[https://openalex.org/A5045162736][Chunlai Wang]], [[https://openalex.org/A5035720806][Jialin Xu]], [[https://openalex.org/A5017813339][Min Tang]], Catalysts. 14(3)] 2024. https://doi.org/10.3390/catal14030191  ([[https://www.mdpi.com/2073-4344/14/3/191/pdf?version=1710145813][pdf]])
+     
+Effective electrochemical reduction of carbon dioxide to formate under mild conditions helps mitigate the energy crisis but requires the use of high-performance catalysts. The addition of a third metal to the binary metal catalyst may further promote the electrochemical reduction of carbon dioxide to formate. Herein, we provided a co-electrodeposition method to grow CuSnBi catalysts on pretreated copper foam and discussed the effects of both pH value and molar ratio of metal ions (Cu2+, Sn2+, and Bi3+) in the electrodeposition solution on the electrocatalytic performance of CO2 to HCOO−. When the pH value of the electrodeposition solution was 8.5 and the molar ratio of Cu2+, Sn2+, and Bi3+ was 1:1:1, the electrode showed the highest FEHCOO− of 91.79% and the formate partial current density of 36.6 mA·cm−2 at −1.12 VRHE. Furthermore, the electrode kept stable for 20 h at −1.12 VRHE, and FEHCOO− was always beyond 85% during the electrolysis process, which is excellent compared to the previously reported ternary metal catalytic electrodes. This work highlights the vital impact of changes (pH value and molar ratio of metal ions) in electrodeposition liquid on catalytic electrodes and their catalytic performance, and refreshing the electrolyte is essential to maintain the activity and selectivity during the electrochemical reduction of CO2 to HCOO−.    
 
     
 
@@ -532,6 +553,27 @@ Electrochemical co-reduction of CO2 and nitrates presents a promising alternativ
 
     
 
+* Constructing Strain in Electrocatalytic Materials for CO2 Reduction Reactions  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392813161
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Solid Oxide Fuel Cells, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4gc00514g")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392813161"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392813161"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392813161"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392813161 (Open access: False)
+    
+[[https://openalex.org/A5079861099][Junshan Lin]], [[https://openalex.org/A5054418515][Ning Zhang]], Green Chemistry. None(None)] 2024. https://doi.org/10.1039/d4gc00514g 
+     
+The electrocatalytic conversion of carbon dioxide (CO2) into valuable carbon-based compounds has attracted considerable attention. In the quest for efficient electrocatalysts, strain engineering, characterized by localized relative deformation, emerges as...    
+
+    
+
 * Exploring the Effects of Ligands on Gold Nanoparticles for the Selective Reduction of CO2 to CO  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4392704565
@@ -547,7 +589,7 @@ Electrochemical co-reduction of CO2 and nitrates presents a promising alternativ
 
 OpenAlex: https://openalex.org/W4392704565 (Open access: False)
     
-[[https://openalex.org/A5053003716][Álvaro Lozano Roche]], [[https://openalex.org/A5094126796][Asia Porceddu]], [[https://openalex.org/A5020337283][Laia Francàs]], [[https://openalex.org/A5080028922][Jordi García‐Antón]], [[https://openalex.org/A5039090961][Xavier Sala]], No host. None(None)] 2023. https://doi.org/10.29363/nanoge.matsus.2024.082 
+[[https://openalex.org/A5053003716][Álvaro Lozano Roche]], [[https://openalex.org/A5094126796][Asia Porceddu]], [[https://openalex.org/A5020337283][Laia Francás]], [[https://openalex.org/A5080028922][Jordi Garcı́a-Antón]], [[https://openalex.org/A5039090961][Xavier Sala]], No host. None(None)] 2023. https://doi.org/10.29363/nanoge.matsus.2024.082 
      
 No abstract    
 
@@ -592,47 +634,5 @@ OpenAlex: https://openalex.org/W4392691393 (Open access: False)
 [[https://openalex.org/A5033012669][Foroogh Khezeli]], No host. None(None)] 2024. https://doi.org/10.31390/gradschool_dissertations.6240 
      
 Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.    
-
-    
-
-* Doping-induced electronic modulation of electrocatalysts for CO2 reduction reaction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392556270
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Dehydrogenation of Light Alkanes, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-03-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.32657/10356/173439")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392556270"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392556270"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392556270"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392556270 (Open access: True)
-    
-[[https://openalex.org/A5042828662][Mengxin Chen]], No host. None(None)] 2024. https://doi.org/10.32657/10356/173439  ([[https://dr.ntu.edu.sg/bitstream/10356/173439/2/PhD%20Thesis_Chen%20Mengxin.pdf][pdf]])
-     
-No abstract    
-
-    
-
-* Analysis of metal–organic framework-based photosynthetic CO2 reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392560800
-:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-03-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s44160-024-00490-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392560800"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392560800"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392560800"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392560800 (Open access: False)
-    
-[[https://openalex.org/A5063813291][Philip M. Stanley]], [[https://openalex.org/A5053547667][Vanessa Ramm]], [[https://openalex.org/A5037112345][Roland A. Fischer]], [[https://openalex.org/A5018555955][Julien Warnan]], Nature Synthesis. None(None)] 2024. https://doi.org/10.1038/s44160-024-00490-z 
-     
-No abstract    
 
     

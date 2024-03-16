@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Mar 15 00:44:12 2024
+Created on Sat Mar 16 00:42:50 2024
 
-Found 25 results from 2024-03-08 to 2024-03-15
+Found 25 results from 2024-03-09 to 2024-03-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Electrocatalytic CO2 Reduction with Atomically Precise Au13 Nanoclusters: Effect of Ligand Shell on Catalytic Performance   
-
-OpenAlex: https://openalex.org/W4392550903    
-Open access: True
-    
-[Tetyana I. Levchenko](https://openalex.org/A5029638131), [Hong Yi](https://openalex.org/A5086411156), [Mark D. Aloisio](https://openalex.org/A5043310485), [Ngoc Kim Dang](https://openalex.org/A5012960880), [Guofu Gao](https://openalex.org/A5037820228), [Sachil Sharma](https://openalex.org/A5090568547), [Cao-Thang Dinh](https://openalex.org/A5012487063), [Cathleen M. Crudden](https://openalex.org/A5048301965), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06114 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06114)).
-    
-Supported gold nanoclusters of the formula [Au13(L)5Cl2]3+ where L = N-heterocyclic carbene (NHC) or phosphine ligands are examined in the electrocatalytic CO2 reduction reaction (eCO2RR) in a membrane electrode assembly cell configuration. Gold nanoclusters bearing bisNHC ligands are shown to exhibit improved catalytic performance compared with diphosphine-stabilized nanoclusters after activation at the optimum treatment temperatures. The thermal properties of the nanoclusters are shown to have a significant impact on their catalytic activity. Thermogravimetric analysis, UV–vis absorption spectroscopy, and X-ray photoelectron spectroscopy revealed that thermal treatment of [Au13(diphosphine)5Cl2]3+ nanoclusters results in complete loss of diphosphine ligands while [Au13(bisNHC)5Cl2]3+ nanoclusters show stepwise and partial removal of bisNHC ligands. We propose that the partial removal of bisNHC ligands enables efficient activation of [Au13(bisNHC)5Cl2]3+ clusters while conserving the core structure. This leads to the implication that intact clusters retaining at least some ligands in their coordination environment are more active than ligand-free clusters.    
-
-    
-
-## Revving up a Designed Copper Nitrite Reductase Using Noncoded Active Site Ligands   
-
-OpenAlex: https://openalex.org/W4392551437    
-Open access: False
-    
-[Winston C Pitts](https://openalex.org/A5064197479), [Aniruddha Deb](https://openalex.org/A5054564985), [James E. Penner‐Hahn](https://openalex.org/A5083519149), [Vincent L. Pecoraro](https://openalex.org/A5084987684), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06159.
-    
-No abstract    
-
-    
-
-## Sulfite-Enhanced Aerobic Methane Oxidation to Methanol over Reduced Phosphomolybdate   
-
-OpenAlex: https://openalex.org/W4392551491    
-Open access: False
-    
-[Sikai Wang](https://openalex.org/A5042365006), [Hua An](https://openalex.org/A5036903664), [Max J. Hülsey](https://openalex.org/A5076804358), [Geng Sun](https://openalex.org/A5063093801), [Qian He](https://openalex.org/A5051694258), [Ning Yan](https://openalex.org/A5075696165), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00234.
-    
-No abstract    
-
-    
-
-## Accelerated Dual Activation of Lattice Oxygen and Molecule Oxygen over CoMn2O4 Catalysts for VOC Oxidation: Promoting the Role of Oxygen Vacancies   
-
-OpenAlex: https://openalex.org/W4392552229    
-Open access: False
-    
-[Yewei Ren](https://openalex.org/A5078931487), [Caixia Song](https://openalex.org/A5046731703), [Hui Wang](https://openalex.org/A5056775642), [Zhenping Qu](https://openalex.org/A5017052045), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06237.
-    
-No abstract    
-
-    
-
-## Enhanced Charge Transfer via Heterogeneous Doping Promotes Hematite Photoelectrodes for Efficient Solar H2O2 Synthesis   
-
-OpenAlex: https://openalex.org/W4392564717    
-Open access: False
-    
-[Fang Guo](https://openalex.org/A5042654076), [Jinwei Bai](https://openalex.org/A5012243269), [Rui‐Ting Gao](https://openalex.org/A5036327118), [Kai Su](https://openalex.org/A5081765995), [Yang Yang](https://openalex.org/A5028936579), [Xianhu Liu](https://openalex.org/A5080100993), [Limin Wu](https://openalex.org/A5079455306), [Lei Wang](https://openalex.org/A5071476964), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06110.
-    
-Photoelectrochemical (PEC) water splitting into hydrogen peroxide (H2O2) and hydrogen (H2) is a promising alternative to energy and environmentally intensive production. Bulk electronic and surface structures affect the charge transport efficiency and catalytic activity of the photoelectrode. Herein, we design and investigate a hematite (Fe2O3) nanorod photoelectrode with hafnium and titanium binary dopants for highly selective H2O2 production. The resultant photoanode shows a H2O2 yield of 0.41 μmol min–1 cm–2 at 1.5 VRHE with a Faradaic efficiency of 72.2%. Experimental investigations and theoretical calculations demonstrate the synergistic effect of Hf and gradient Ti doping on the hematite for the promising H2O2 performance. Hf doping effectively improves the crystallinity of Fe2O3, which favors improving the charge transport and reducing the charge recombination. Gradient Ti doping inhibits the collapse of the nanorod structure, increases the specific surface area, and introduces a large number of active sites on the surface. Ti- and Hf-codoped Ti/Hf:Fe2O3 photoanode improves the kinetics of H2O2 generation, leading to the high selectivity for H2O2 production and suppression of O2 production. This work provides the importance of hematite-based photoanodes toward the regulation of competition reactions for H2O2 production.    
-
-    
 
 ## Nickel as Electrocatalyst for CO(2) Reduction: Effect of Temperature, Potential, Partial Pressure, and Electrolyte Composition   
 
@@ -276,6 +221,61 @@ OpenAlex: https://openalex.org/W4392710286
 Open access: False
     
 [Clément Spadetto](https://openalex.org/A5093295428), [Cyril Hachemi](https://openalex.org/A5016215045), [Maxime Nouaille-Degorce](https://openalex.org/A5093295429), [Loïc Pendu](https://openalex.org/A5093295430), [Lou Bossert](https://openalex.org/A5093295431), [Robert H. Temperton](https://openalex.org/A5080012269), [Andrey Shavorskiy](https://openalex.org/A5051598053), [L. Cardenas](https://openalex.org/A5014591915), [Mathieu S. Prévot](https://openalex.org/A5038868245), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05691.
+    
+No abstract    
+
+    
+
+## Silylarylation of Alkenes via meta-Selective C–H Activation of Arenes under Ruthenium/Iron Cooperative Catalysis: Mechanistic Insights from Combined Experimental and Computational Studies   
+
+OpenAlex: https://openalex.org/W4392710750    
+Open access: False
+    
+[Sukanya Neogi](https://openalex.org/A5085427623), [Sourav Bhunya](https://openalex.org/A5071160929), [Asim Kumar Ghosh](https://openalex.org/A5064879796), [Biswajit Sarkar](https://openalex.org/A5068681964), [Lisa Roy](https://openalex.org/A5053449233), [Alakananda Hajra](https://openalex.org/A5074084285), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00034.
+    
+No abstract    
+
+    
+
+## Regulating the H2O2 Photosynthetic Activity of Covalent Organic Frameworks through Linkage Orientation   
+
+OpenAlex: https://openalex.org/W4392740340    
+Open access: False
+    
+[Jie-Yu Yue](https://openalex.org/A5000627937), [Li-Ping Song](https://openalex.org/A5073547618), [Zi-Xian Pan](https://openalex.org/A5055702535), [Peng Yang](https://openalex.org/A5058775682), [Yu Ma](https://openalex.org/A5057298404), [Qing Xu](https://openalex.org/A5069765087), [Bo Tang](https://openalex.org/A5039028486), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00278.
+    
+No abstract    
+
+    
+
+## Functionally Diverse Peroxygenases by AlphaFold2, Design, and Signal Peptide Shuffling   
+
+OpenAlex: https://openalex.org/W4392744707    
+Open access: True
+    
+[Judith Münch](https://openalex.org/A5016046716), [N.L. Dietz](https://openalex.org/A5003806183), [S. Barber-Zucker](https://openalex.org/A5051383623), [F. Seifert](https://openalex.org/A5060641800), [Susanne Matschi](https://openalex.org/A5024650210), [Pascal Püllmann](https://openalex.org/A5031295609), [Sarel J. Fleishman](https://openalex.org/A5031768744), [Martin J. Weissenborn](https://openalex.org/A5047498775), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00883 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00883)).
+    
+Unspecific peroxygenases (UPOs) are fungal enzymes that attract significant attention for their ability to perform versatile oxyfunctionalization reactions using H2O2. Unlike other oxygenases, UPOs do not require additional reductive equivalents or electron transfer chains that complicate basic and applied research. Nevertheless, UPOs generally exhibit low to no heterologous production levels and only four UPO structures have been determined to date by crystallography limiting their usefulness and obstructing research. To overcome this bottleneck, we implemented a workflow that applies PROSS stability design to AlphaFold2 model structures of 10 unique and diverse UPOs followed by a signal peptide shuffling to enable heterologous production. Nine UPOs were functionally produced in Pichia pastoris, including the recalcitrant CciUPO and three UPOs derived from oomycetes─the first nonfungal UPOs to be experimentally characterized. We conclude that the high accuracy and reliability of new modeling and design workflows dramatically expand the pool of enzymes for basic and applied research.    
+
+    
+
+## Transition State Analysis of Key Steps in Dual Photoredox-Cobalt-Catalyzed Elimination of Alkyl Bromides   
+
+OpenAlex: https://openalex.org/W4392746939    
+Open access: False
+    
+[Victor O. Nyagilo](https://openalex.org/A5060141239), [Sharath Chandra Mallojjala](https://openalex.org/A5036926461), [Jennifer S. Hirschi](https://openalex.org/A5014969589), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06324.
+    
+No abstract    
+
+    
+
+## Insights on the Mechanism of Surface-Catalyzed Oxidative Nitrogen Fixation Based on Liquid-Phase Bubble Pin-Plate Discharge   
+
+OpenAlex: https://openalex.org/W4392748786    
+Open access: False
+    
+[Qingchuan Wang](https://openalex.org/A5034978471), [Limin Liu](https://openalex.org/A5044756293), [Guoxin Gao](https://openalex.org/A5027123895), [Yuzhi Chen](https://openalex.org/A5034409858), [Yuxin Ouyang](https://openalex.org/A5061916141), [Dongyang Zhang](https://openalex.org/A5057387819), [Yaqiong Su](https://openalex.org/A5013121247), [Shujiang Ding](https://openalex.org/A5065434610), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05317.
     
 No abstract    
 
