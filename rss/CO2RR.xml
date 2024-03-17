@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:47:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Sustainable Formate Synthesis: Integrating Ethylene Glycol Oxidation with Carbon Dioxide Electrocatalysis Using Redox-Stabilized Earth-Abundant Electrodes</title>
-      <link>https://doi.org/10.1021/acssuschemeng.3c08233</link>
-      <description>Ifra Bashir, James McGettrick, Moritz F. Kuehnel, Bilal Sarfraz, Sidra Arshad, Ali Rauf, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4392579512
-
-                Carbon dioxide electroreduction (CO2ER) coupled with water oxidation (oxygen evolution reaction, OER) presents a promising solution for effectively mitigating global warming. However, this process is compromised by the sluggish OER, which yields only undesirable O2. Here, we couple selective CO2ER with partial ethylene glycol oxidation (EGO) to concurrently produce formate in both half-reactions. The enhancement of active sites and optimization of formate selectivity are the principal objectives during the design of both electrodes. For CO2ER, redox stabilization of Sn-based cathodes is investigated via Pb doping, thus ultimately improving the Faradaic efficiency from 68% to &#8764;89%. To replace OER with EGO, we employed CuO@Ni(OH)2 on copper foam, reducing the applied potential by 200 mV at 50 mA/cm2. Finally, an EGO-coupled CO2 electrolyzer achieves 10 mA/cm2 at an overall cell voltage 180 mV lower than that of a conventional CO2 electrolyzer. This study showcases the integration of divergent electrochemical processes for concurrent electrosynthesis without precious metals to achieve cost-effective and sustainable formate production from CO2 and plastic waste.</description>
-      <author>Ifra Bashir, James McGettrick, Moritz F. Kuehnel, Bilal Sarfraz, Sidra Arshad, Ali Rauf</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c08233</guid>
-    </item>
     <item>
       <title>Improving the Roughness of Copper Working Electrode Through Electroless Deposition for Carbon Dioxide Reduction Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4753683</link>
@@ -158,6 +148,26 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304247</guid>
     </item>
     <item>
+      <title>Construction of Au-modified CN-based donor-acceptor system coupled with dual photothermal effects for efficient photoreduction of carbon dioxide</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.03.090</link>
+      <description>Xianghai Song, Dongsheng He, Weiqiang Zhou, Yuanfeng Wu, Xin Liu, Zhi Zhu, Pengwei Huo, Mei Wang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4392820351
+
+                Conversion of CO2 into high value-added fuels through the photothermal effect is an effective approach for utilizing solar energy. In this study, we prepared the CN-based photocatalyst Py-CTN-Au with both donor-acceptor (D-A) system and dual photothermal effects using a simple two-step method involving calcination and photo-deposition. Real-time monitoring with a thermal imaging camera revealed that Py-CTN-Au0.5 achieved a maximum stable temperature of 180 &#176;C, which was approximately 1.2 times higher than that of Py-CTN (155 &#176;C) and 1.9 times higher than that of g-CN (95 &#176;C) under the same reaction conditions. Under the optimized reaction conditions, Py-CTN-Au0.5 exhibited a CO release rate of 30.59 umol g&#8722;1 after 4 h of reaction, which was 7.3 times higher than that of pure g-CN (4.18 umol g&#8722;1). The D-A system not only facilitated the separation and transformation of charge carriers but also induced a photothermal effect to accelerate the photoreduction of CO2. Additionally, the cocatalyst Au nanoparticles (Au NPs) further enhanced the charge carrier dynamics and photothermal effect by increasing the built-in electric field intensity and localized surface plasmon resonance (LSPR) effect, respectively. The dual photothermal effects resulting from the non-radiative photon conversion of the D-A structure and the Au NPs LSPR effect, along with the enhanced charge carrier dynamics, catalyzed the efficient photoreduction of CO2. DFT simulations were used to confirm the effect of D-A system and Au NPs. In-situ FTIR results demonstrated that the synergistic photothermal effect promoted the formation of the key intermediate species COOH*, which is beneficial for the photocatalytic reduction of CO2. This study provides valuable insights into the multiple photothermal synergistic effects in photocatalytic reactions.</description>
+      <author>Xianghai Song, Dongsheng He, Weiqiang Zhou, Yuanfeng Wu, Xin Liu, Zhi Zhu, Pengwei Huo, Mei Wang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.090</guid>
+    </item>
+    <item>
+      <title>Synergistic Promotion for the Performance of Photocatalytic Carbon Dioxide Reduction by Vacancy Engineering and N-Doped Carbon Nanotubes</title>
+      <link>https://doi.org/10.2139/ssrn.4728334</link>
+      <description>Min Wang, Jing Xie, Zhenjiang Lu, Fanlin Kong, Baolin Liu, Zhende Wu, Yali Cao, No host. None(None)] 2024. https://openalex.org/W4392839620
+
+                No abstract</description>
+      <author>Min Wang, Jing Xie, Zhenjiang Lu, Fanlin Kong, Baolin Liu, Zhende Wu, Yali Cao</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4728334</guid>
+    </item>
+    <item>
       <title>Synthesis of nanocomposites based on graphitic carbon nitride, titanium dioxide and boron nitride for the photo-production of H2 and the photo-reduction of CO2</title>
       <link>https://openalex.org/W4392773243</link>
       <description>Leila Hammoud, No host. None(None)] 2023. https://openalex.org/W4392773243
@@ -228,14 +238,14 @@
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.367</guid>
     </item>
     <item>
-      <title>Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts</title>
-      <link>https://doi.org/10.29363/nanoge.matsus.2024.418</link>
-      <description>Carlos G. Morales&#8208;Guio, No host. None(None)] 2023. https://openalex.org/W4392704678
+      <title>Carbon-Supported Silver Catalysts for Electrocatalytic Reduction of CO2 to CO</title>
+      <link>https://doi.org/10.33540/2122</link>
+      <description>Francesco Mattarozzi, No host. None(None)] 2024. https://openalex.org/W4392835293
 
-                No abstract</description>
-      <author>Carlos G. Morales&#8208;Guio</author>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.418</guid>
+                The work described in this thesis was aimed at understanding the influence of structural properties of silver catalysts supported on carbon for the electrocatalytic reduction of CO2 to CO. This goal was achieved by rationally designing, characterizing and testing cathode materials. This enabled a correlation between material properties and the catalytic performance. Chapter 1 describes the potential benefits of electrochemistry and electrocatalysis in the context of global warming. The CO2 electrocatalytic reduction to value-added chemicals was described, including the effect of different metal electrodes and buffer electrolytes. Specifically, a background is given on the CO2RR to CO over silver electrocatalysts, and the properties of carbon electrodes, based on literature. In chapter 2, the effect of surface-modification of carbon-based electrodes on the reduction of CO2 to CO is systematically treated. The surface chemistry of the electrodes was characterized with acid-base titration, potentiometric titration and XPS. The basic surface properties (high point of zero charge) of the N functionalized carbon catalyst led to an increased CO production with respect to the O-functionalized and reduced carbon materials. The CO turnover frequency per surface group for pyridinic groups was higher than for O-containing groups. This study demonstrated the possibility to tune the surface properties of carbon materials to enhance the ability of the electrocatalyst to reduce CO2 to CO. In chapter 3, the effect of silver nanoparticle size on the CO2 reduction to CO is discussed. Using the surface modification methods described in chapter 2, control over the ligand-free silver particle size was achieved by tuning the surface properties of the carbon supports. It was demonstrated that the silver particle size, in the range of 10 to 30 nm, decreased by increasing the density of O-containing group on the support. The small nanoparticles (11 nm diameter) effectively steered the selectivity towards CO, even greater than the selectivity achieved by bulk silver electrodes under the same conditions. In chapter 4, the aim was to suppress the hydrogen formation over the high surface area carbon support by functionalizing the surface of the support with alkylamines. The effect of the number of carbon atoms in the alkyl chain on the HER suppression and CO selectivity was investigated. Alkylamine functionalization successfully suppressed H2 evolution, while at the same time promoting CO production. This resulted in a 1 to 2 H2 to CO ratio for the catalyst functionalized with hexylamine, more favorable than for the pristine carbon-based catalyst (benchmark), able to generate only a 3.3 to 1 H2 to CO ratio. In chapter 5, the catalytic properties of oxide-derived silver nanowires, are explored. XRD and XPS analysis confirmed that by selecting the final potential during the oxidation procedure, both different silver oxidations states and different nanowires roughness were achieved as a function of the oxidation potential. This surface-modification procedure enhanced the catalytic properties of the nanowires. The active surface-normalized CO partial current density increased 3.7-times when the pristine nanowires were oxidized to 1.0 V vs Ag/AgCl in basic electrolyte solution.</description>
+      <author>Francesco Mattarozzi</author>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.33540/2122</guid>
     </item>
     <item>
       <title>The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction</title>
@@ -249,6 +259,16 @@
       <author>Ming Song</author>
       <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.18104/kalc.2023.38.4.181</guid>
+    </item>
+    <item>
+      <title>Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.418</link>
+      <description>Carlos G. Morales&#8208;Guio, No host. None(None)] 2023. https://openalex.org/W4392704678
+
+                No abstract</description>
+      <author>Carlos G. Morales&#8208;Guio</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.418</guid>
     </item>
     <item>
       <title>CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate</title>
@@ -283,10 +303,10 @@
     <item>
       <title>Exploring the Effects of Ligands on Gold Nanoparticles for the Selective Reduction of CO2 to CO</title>
       <link>https://doi.org/10.29363/nanoge.matsus.2024.082</link>
-      <description>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#225;s, Jordi Garc&#305;&#769;a-Ant&#243;n, Xavier Sala, No host. None(None)] 2023. https://openalex.org/W4392704565
+      <description>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala, No host. None(None)] 2023. https://openalex.org/W4392704565
 
                 No abstract</description>
-      <author>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#225;s, Jordi Garc&#305;&#769;a-Ant&#243;n, Xavier Sala</author>
+      <author>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala</author>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.082</guid>
     </item>
@@ -299,16 +319,6 @@
       <author>Beatriz Rold&#225;n Cuenya</author>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.233</guid>
-    </item>
-    <item>
-      <title>Computational Design of Electro-Organocatalysts and Transition Metal Sulfides for the Electrochemical Reduction of CO2</title>
-      <link>https://doi.org/10.31390/gradschool_dissertations.6240</link>
-      <description>Foroogh Khezeli, No host. None(None)] 2024. https://openalex.org/W4392691393
-
-                Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.</description>
-      <author>Foroogh Khezeli</author>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31390/gradschool_dissertations.6240</guid>
     </item>
   </channel>
 </rss>

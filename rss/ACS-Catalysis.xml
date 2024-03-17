@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:47:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Nickel as Electrocatalyst for CO&lt;sub&gt;(2)&lt;/sub&gt; Reduction: Effect of Temperature, Potential, Partial Pressure, and Electrolyte Composition</title>
-      <link>https://doi.org/10.1021/acscatal.4c00009</link>
-      <description>Rafa&#235;l E. Vos, Marc T. M. Koper, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392578646
-
-                No abstract</description>
-      <author>Rafa&#235;l E. Vos, Marc T. M. Koper</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00009</guid>
-    </item>
-    <item>
-      <title>Cooperative Conformational Transitions Underpin the Activation Heat Capacity in the Temperature Dependence of Enzyme Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c05584</link>
-      <description>Emma J. Walker, Carlin J. Hamill, Rory Crean, Michael S. Connolly, Annmaree K. Warrender, Kirsty L. Kraakman, Erica J. Prentice, Alistair Steyn-Ross, Moira L. Steyn-Ross, Christopher R. Pudney, Marc W. van der Kamp, Louis A. Schipper, Adrian J. Mulholland, Vickery L. Arcus, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392597789
-
-                Many enzymes display non-Arrhenius behavior with curved Arrhenius plots in the absence of denaturation. There has been significant debate about the origin of this behavior and recently the role of the activation heat capacity (&#916;CP&#10727;) has been widely discussed. If enzyme-catalyzed reactions occur with appreciable negative values of &#916;CP&#10727; (arising from narrowing of the conformational space along the reaction coordinate), then curved Arrhenius plots are a consequence. To investigate these phenomena in detail, we have collected high precision temperature-rate data over a wide temperature interval for a model glycosidase enzyme MalL, and a series of mutants that change the temperature-dependence of the enzyme-catalyzed rate. We use these data to test a range of models including macromolecular rate theory (MMRT) and an equilibrium model. In addition, we have performed extensive molecular dynamics (MD) simulations to characterize the conformational landscape traversed by MalL in the enzyme&#8211;substrate complex and an enzyme-transition state complex. We have crystallized the enzyme in a transition state-like conformation in the absence of a ligand and determined an X-ray crystal structure at very high resolution (1.10 &#197;). We show (using simulation) that this enzyme-transition state conformation has a more restricted conformational landscape than the wildtype enzyme. We coin the term &#8220;transition state-like conformation (TLC)&#8221; to apply to this state of the enzyme. Together, these results imply a cooperative conformational transition between an enzyme&#8211;substrate conformation (ES) and a transition-state-like conformation (TLC) that precedes the chemical step. We present a two-state model as an extension of MMRT (MMRT-2S) that describes the data along with a convenient approximation with linear temperature dependence of the activation heat capacity (MMRT-1L) that can be used where fewer data points are available. Our model rationalizes disparate behavior seen for MalL and previous results for a thermophilic alcohol dehydrogenase and is consistent with a raft of data for other enzymes. Our model can be used to characterize the conformational changes required for enzyme catalysis and provides insights into the role of cooperative conformational changes in transition state stabilization that are accompanied by changes in heat capacity for the system along the reaction coordinate. TLCs are likely to be of wide importance in understanding the temperature dependence of enzyme activity and other aspects of enzyme catalysis.</description>
-      <author>Emma J. Walker, Carlin J. Hamill, Rory Crean, Michael S. Connolly, Annmaree K. Warrender, Kirsty L. Kraakman, Erica J. Prentice, Alistair Steyn-Ross, Moira L. Steyn-Ross, Christopher R. Pudney, Marc W. van der Kamp, Louis A. Schipper, Adrian J. Mulholland, Vickery L. Arcus</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05584</guid>
-    </item>
-    <item>
-      <title>Enantioselective Directed Nickel-Catalyzed Three-Component Reductive Arylalkylation of Alkenes via the Carbometalation/Radical Cross-Coupling Sequence</title>
-      <link>https://doi.org/10.1021/acscatal.4c00477</link>
-      <description>Zhan Dong, Changyu Xu, Jianchao Chang, Sitian Zhou, Peipei Sun, Yuqiang Li, Liang&#8208;An Chen, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392600216
-
-                Asymmetric reductive three-component arylalkylation of alkenes via the radical relay method has been well established, while asymmetric arylalkylation via the migratory insertion strategy remains unexplored. We report enantioselective nickel-catalyzed cross-electrophile arylalkylation of alkenes with aryl- and alkyl halides via an integrated Heck carbometalation/radical cross-coupling sequence. This protocol employing a chiral Ni/PHOX catalytic system allows terminal and internal alkenes to successfully engage the arylalkylation with exquisite control of regio-, chemo-, and stereoselectivity. More importantly, this reductive arylalkylation undergoes regio- and enantioselective arylnickelation followed by radical cross-coupling via Csp3&#8211;Csp3 reductive elimination, thus exhibiting reverse regioselectivity to the radical relay method. Mild reaction conditions and exceptional functional group tolerance facilitate this method&#8217;s compatibility with bioactive motifs and the modular synthesis of biologically active compounds. The control experiments and density functional theory calculations provide insights into the mechanism and origin of regio- and stereoselectivity, and the hemilabile nature of the PHOX ligand is critical for achieving this enantioselective arylalkylation.</description>
-      <author>Zhan Dong, Changyu Xu, Jianchao Chang, Sitian Zhou, Peipei Sun, Yuqiang Li, Liang&#8208;An Chen</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00477</guid>
-    </item>
-    <item>
-      <title>Glycyl Radical Enzymes Catalyzing the Dehydration of Two Isomers of &lt;i&gt;N&lt;/i&gt;-Methyl-4-hydroxyproline</title>
-      <link>https://doi.org/10.1021/acscatal.4c00216</link>
-      <description>Li Jiang, Yiqian Yang, Lin Huang, Yan Zhang, Jingkun An, Yu Zheng, Yiwei Chen, Yanhong Liu, Jianhui Huang, Ee Lui Ang, Suwen Zhao, Huimin Zhao, Rong&#8208;Zhen Liao, Yifeng Wei, Yan Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392601584
-
-                The various isomers of hydroxyproline (HP) are widely distributed in nature, serving as key components of structural proteins, while their quaternized betaine derivatives function as osmoprotectants in many organisms. Aerobic bacteria degrade HPs through a variety of well-studied mechanisms. Recent studies show that certain anaerobic bacteria degrade HPs through distinct mechanisms, involving the O2-sensitive glycyl radical enzymes (GREs) t4L-HP dehydratase (HypD) and t4D-HP C&#8211;N lyase (HplG). Here, we report the discovery of two more GREs, N-methyl c4L-HP dehydratase (HpyG) and N-methyl c4D-HP dehydratase (HpzG), which catalyze radical-mediated dehydration of the two N-methyl-c4HP enantiomers, while also displaying significant activities toward their unmethylated substrates. Both GREs are associated with homologues of pyrroline-5-carboxylate reductase, which catalyze reduction of their products N-methyl-pyrroline-5-carboxylate to form N-methyl-proline. Crystal structures of HpyG and HpzG in complex with their substrates revealed active site architectures distinct from that of HypD and provided insights into the mechanism of enantioselective radical-mediated dehydration. Our research further expands the repertoire of diverse chemical mechanisms involved in the bacterial metabolism of highly prevalent HP isomers and derivatives in the anaerobic biosphere.</description>
-      <author>Li Jiang, Yiqian Yang, Lin Huang, Yan Zhang, Jingkun An, Yu Zheng, Yiwei Chen, Yanhong Liu, Jianhui Huang, Ee Lui Ang, Suwen Zhao, Huimin Zhao, Rong&#8208;Zhen Liao, Yifeng Wei, Yan Zhang</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00216</guid>
-    </item>
-    <item>
-      <title>Fundamental Insights on the Electrochemical Nitrogen Oxidation over Metal Oxides</title>
-      <link>https://doi.org/10.1021/acscatal.3c05307</link>
-      <description>J. V. P. Long, Dong Luan, Xihong Fu, Huan Li, Huijuan Jing, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392602509
-
-                Electrocatalytic nitrogen oxidation reaction (eN2OR) has emerged as a sustainable strategy for nitrogen fixation. In this work, density functional theory calculations were performed to rationalize the reaction mechanisms, activity, and selectivity of eN2OR on metal dioxides. The anatase (101), anatase (100), and rutile (110) surfaces were investigated to obtain more generalized insights. Based on the reaction phase diagram analysis, the thermochemical mechanisms were identified as most energetically favorable for N2 and *N2O oxidation, and a theoretical activity map was constructed for eN2OR, explaining well the experimental activity trend. Anatase PtO2(100) was screened as the most active catalyst for nitrate production, which could be covered by a monolayer of *OH under the reaction conditions according to the Pourbaix diagram. A method of electric field controlling constant potential was used to calculate the electrochemical barriers on anatase PtO2(100). It was found that the electrochemical barriers of the oxygen evolution reaction will increase with the decrease of potential, while the thermochemical limiting step of the eN2OR is insensitive to potential. Thus, the eN2OR selectivity can be improved by lowering the applied potential. This work unveils fundamental insights into eN2OR and provides a unified understanding to experiments.</description>
-      <author>J. V. P. Long, Dong Luan, Xihong Fu, Huan Li, Huijuan Jing, Jianping Xiao</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05307</guid>
-    </item>
-    <item>
-      <title>Surface Decoration of Platinum Catalysts by ZrO&lt;sub&gt;2&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Nanoclusters for Durable Fuel Cell Applications</title>
-      <link>https://doi.org/10.1021/acscatal.3c05297</link>
-      <description>Nagappan Ramaswamy, Zixiao Shi, Barr Zulevi, Geoff McCool, Nathan P. Mellott, Anusorn Kongkanand, Swami Kumaraguru, Michele L. Ostraat, David A. Muller, Nancy N. Kariuki, Deborah J. Myers, A. Jeremy Kropf, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392615762
-
-                No abstract</description>
-      <author>Nagappan Ramaswamy, Zixiao Shi, Barr Zulevi, Geoff McCool, Nathan P. Mellott, Anusorn Kongkanand, Swami Kumaraguru, Michele L. Ostraat, David A. Muller, Nancy N. Kariuki, Deborah J. Myers, A. Jeremy Kropf</author>
-      <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05297</guid>
-    </item>
     <item>
       <title>Improved Oxygen Evolution Reaction Kinetics with Titanium Incorporated Nickel Ferrite for Efficient Anion Exchange Membrane Electrolysis</title>
       <link>https://doi.org/10.1021/acscatal.3c05761</link>
@@ -256,6 +196,66 @@
       <author>Qingchuan Wang, Limin Liu, Guoxin Gao, Yuzhi Chen, Yuxin Ouyang, Dongyang Zhang, Yaqiong Su, Shujiang Ding</author>
       <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05317</guid>
+    </item>
+    <item>
+      <title>Self-Sustainable Lattice Strains of Morphology-Tuned Nanowires in Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00451</link>
+      <description>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392748981
+
+                No abstract</description>
+      <author>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00451</guid>
+    </item>
+    <item>
+      <title>Hydroxylamine Umpolung in Copper-Catalyzed Cross-Coupling Reactions to Synthesize &lt;i&gt;N&lt;/i&gt;-Arylhydroxylamine Derivatives</title>
+      <link>https://doi.org/10.1021/acscatal.3c06020</link>
+      <description>Gary Mathieu, Emna Azek, Calvine Lai, H. Lebel, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392749973
+
+                No abstract</description>
+      <author>Gary Mathieu, Emna Azek, Calvine Lai, H. Lebel</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06020</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;De Novo&lt;/i&gt; Multienzyme Synthetic Pathways for Lactic Acid Production</title>
+      <link>https://doi.org/10.1021/acscatal.3c05489</link>
+      <description>Xu-Wei Ding, Jian Rong, Zheng-fan Pan, Xin-Xin Zhu, Zhenqi Zhu, Qi Chen, Zhi Jun Zhang, Jian&#8208;He Xu, Chun-Xiu Li, Gao&#8208;Wei Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392750096
+
+                No abstract</description>
+      <author>Xu-Wei Ding, Jian Rong, Zheng-fan Pan, Xin-Xin Zhu, Zhenqi Zhu, Qi Chen, Zhi Jun Zhang, Jian&#8208;He Xu, Chun-Xiu Li, Gao&#8208;Wei Zheng</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05489</guid>
+    </item>
+    <item>
+      <title>Assessing the Catalytic Role of Native Glucagon Amyloid Fibrils</title>
+      <link>https://doi.org/10.1021/acscatal.4c00452</link>
+      <description>Ashim Nandi, Aoxuan Zhang, Elad Arad, Raz Jelinek, Arieh Warshel, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392751169
+
+                No abstract</description>
+      <author>Ashim Nandi, Aoxuan Zhang, Elad Arad, Raz Jelinek, Arieh Warshel</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00452</guid>
+    </item>
+    <item>
+      <title>Generation of Lattice Strain in CdS Promotes Photocatalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c00016</link>
+      <description>Xiaoyu Liang, Xinkui Wang, Xinxin Zhang, Sisi Lin, Min Ji, Qinggang Liu, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392760834
+
+                The key to photocatalysis lies in the efficient separation and migration of photogenerated carriers to the surface for participation in the reaction. However, the recombination of electrons and holes is a major hindrance that reduces the photocatalysis activity. Herein, we developed a method to introduce lattice strain by regulating the crystallinity of the material, thus resulting in an intensive polarization internal electric field, which can promote the separation process of electrons and holes and improve the efficiency of photocatalysis. The degree of strain can be controlled by the solvothermal temperature. Compared with CdS-160 &#176;C, CdS-100 &#176;C with a larger lattice strain degree and internal electric field contributed to a 7-fold enhanced photocatalytic CO evolution from CO2; in addition, the CO/H2 ratio was also increased by 4 times. This study reports the important effects of lattice strain and internal electric field on photogenerated carrier separation and migration, providing valuable insights for designing efficient photocatalysts.</description>
+      <author>Xiaoyu Liang, Xinkui Wang, Xinxin Zhang, Sisi Lin, Min Ji, Qinggang Liu, Min Wang</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00016</guid>
+    </item>
+    <item>
+      <title>Heterogeneous Iridium-Catalyzed Carbene N&#8211;H Bond Insertion with &#945;-Alkyl Diazo Esters</title>
+      <link>https://doi.org/10.1021/acscatal.3c05635</link>
+      <description>Ping Guo, Yan Chen, Tao Lei, Shufang Ji, Ruixue Zhang, Zedong Zhang, Xiao Liang, Dingsheng Wang, Yadong Li, Jie Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392761569
+
+                A heterogeneous iridium single-atom site catalyst (Ir-SA) was synthesized and investigated in catalyzing the carbene insertion reaction with challenging &#945;-alkyl diazo ester substrates. With only 0.23 mol % catalyst loading, our Ir-SA demonstrated remarkable performance in heterogeneous carbene N&#8211;H bond insertion reactions involving various (hetero) aryl amines coupled with &#945;-alkyl diazo esters. Notably, in the case of using a chiral diamino substrate with two reactive sites, Ir-SA exhibited high selectivity toward single carbene N&#8211;H insertion, leading to the generation of a class of unsymmetric chiral diamino ligands. Further mechanism study revealed that the lower activation barrier associated with the single N&#8211;H bond insertion step, as compared to either &#946;-hydride elimination or downstream dual N&#8211;H bond insertion, accounted for the remarkable selectivity observed in this carbene insertion reaction catalyzed by Ir-SA.</description>
+      <author>Ping Guo, Yan Chen, Tao Lei, Shufang Ji, Ruixue Zhang, Zedong Zhang, Xiao Liang, Dingsheng Wang, Yadong Li, Jie Zhao</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05635</guid>
     </item>
   </channel>
 </rss>

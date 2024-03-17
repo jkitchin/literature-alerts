@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:42:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 00:47:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>An All-Atom Force Field for Dry and Water-Lubricated Carbon Tribological Interfaces</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07471</link>
-      <description>Thomas Reichenbach, Souleymane Sylla, Leonhard Mayrhofer, Pedro Romero, Paul Schwarz, Michael Moseler, Gianpietro Moras, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392578215
-
-                We present a nonreactive force field for molecular dynamics simulations of interfaces between amorphous carbon surfaces and their interaction with water. The force field is tailored to surfaces with hydrogen, hydroxyl, and aromatic surface passivation and enables large-scale simulations of dry and lubricated tribological contacts. To favor its compatibility with existing force-field parameterizations for liquids and allow a straightforward extension to other types of surface passivation species, we adopt the functional form of the Optimized Potentials for Liquid Simulations. The optimization of the force-field parameters is systematic and follows a protocol that can be reused for other surface&#8211;molecule combinations. Reference data are calculated with gradient- and dispersion-corrected density functional theory and include the bonding geometry and elastic deformation of bulk and surface species as well as surface adhesion and water adsorption energy landscapes. The conventions adopted to define the different force-field atom types are based on the hybridization of carbon orbitals and enable a simple and efficient parameter optimization strategy that only requires quantum-mechanical simulations of crystalline reference structures. After testing the force field on amorphous interfaces, we present two examples of application to tribological problems. Namely, we investigate the relationships between dry friction and the corrugation of the contact potential energy surface and the dependency of friction on the thickness of interface water films. We finally discuss the limitations of the force field and propose strategies for its improvement and extension.</description>
-      <author>Thomas Reichenbach, Souleymane Sylla, Leonhard Mayrhofer, Pedro Romero, Paul Schwarz, Michael Moseler, Gianpietro Moras</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07471</guid>
-    </item>
-    <item>
-      <title>From Molecular Precursors to MoS&lt;sub&gt;2&lt;/sub&gt; Monolayers: Nanoscale Mechanism of Organometallic Chemical Vapor Deposition</title>
-      <link>https://doi.org/10.1021/acs.chemmater.3c02675</link>
-      <description>Sagar Ghorai, Ananth Govind Rajan, Chemistry of Materials. None(None)] 2024. https://openalex.org/W4392593437
-
-                The development of a fully ab initio theory for the chemical vapor deposition (CVD) synthesis of two-dimensional (2D) materials is a prominent challenge in computational chemistry and materials science. Here, quantum-mechanical density functional theory calculations are used to discover the mechanisms underlying the nucleation and growth of monolayer 2H molybdenum disulfide (MoS2) during organometallic CVD. Starting with molybdenum hexacarbonyl (Mo(CO)6) and hydrogen sulfide (H2S) as molecular precursors, we elucidate processes such as the decomposition of Mo(CO)6 to Mo(CO)3, sulfidation of Mo(CO)3, formation of metallic trigonal-phase (1T) Mo&#8211;S clusters, transition to semiconducting hexagonal-phase 2H MoS2, and the competition between the growth of Mo- and S-zigzag edges that lead to triangular and hexagonal flakes. We demonstrate thermodynamic and kinetic control over the formation of Mo- and S-zigzag edges. Additionally, we find the removal of hydrogen (H2) to be the rate-determining step in the growth process. We further compute the free energy of formation of the investigated Mo&#8211;S clusters on amorphous SiO2, demonstrating the important role played by the SiO2 substrate in the initial stages of nucleation and growth. We also show the feasibility of forming Mo&#8211;S clusters with more than two Mo atoms on the SiO2 surface. Our work lays the foundation for developing fully ab initio models of 2D material synthesis.</description>
-      <author>Sagar Ghorai, Ananth Govind Rajan</author>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c02675</guid>
-    </item>
-    <item>
-      <title>Machine Learning Isotropic &lt;i&gt;g&lt;/i&gt; Values of Radical Polymers</title>
-      <link>https://doi.org/10.1021/acs.jctc.3c01252</link>
-      <description>Davis Thomas Daniel, Souvik Mitra, R&#252;diger&#8208;A. Eichel, Diddo Diddens, Josef Granwehr, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4392595502
-
-                Methods for electronic structure computations, such as density functional theory (DFT), are routinely used for the calculation of spectroscopic parameters to establish and validate structure&#8211;parameter correlations. DFT calculations, however, are computationally expensive for large systems such as polymers. This work explores the machine learning (ML) of isotropic g values, giso, obtained from electron paramagnetic resonance (EPR) experiments of an organic radical polymer. An ML model based on regression trees is trained on DFT-calculated g values of poly(2,2,6,6-tetramethylpiperidinyloxy-4-yl methacrylate) (PTMA) polymer structures extracted from different time frames of a molecular dynamics trajectory. The DFT-derived g values, gisocalc, for different radical densities of PTMA, are compared against experimentally derived g values obtained from in operando EPR measurements of a PTMA-based organic radical battery. The ML-predicted giso values, gisopred, were compared with gisocalc to evaluate the performance of the model. Mean deviations of gisopred from gisocalc were found to be on the order of 0.0001. Furthermore, a performance evaluation on test structures from a separate MD trajectory indicated that the model is sensitive to the radical density and efficiently learns to predict giso values even for radical densities that were not part of the training data set. Since our trained model can reproduce the changes in giso along the MD trajectory and is sensitive to the extent of equilibration of the polymer structure, it is a promising alternative to computationally more expensive DFT methods, particularly for large systems that cannot be easily represented by a smaller model system.</description>
-      <author>Davis Thomas Daniel, Souvik Mitra, R&#252;diger&#8208;A. Eichel, Diddo Diddens, Josef Granwehr</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01252</guid>
-    </item>
-    <item>
-      <title>Stability and Electronic Structure of Nitrogen-Doped Graphene-Supported Cu&lt;sub&gt;&lt;i&gt;n&lt;/i&gt;&lt;/sub&gt; (&lt;i&gt;n&lt;/i&gt; = 1&#8211;5) Clusters in Vacuum and under Electrochemical Conditions: Toward Sensor and Catalyst Design</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06475</link>
-      <description>M&#225;rton Guba, Tibor H&#246;ltzl, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392600142
-
-                Here, we present a detailed computational study of the stability and the electronic structure of nitrogen-doped graphene (N4V2) supported Cun (n = 1&#8211;5) clusters, which are promising carbon-dioxide electroreduction catalysts. The binding of the clusters to the nitrogen-doped graphene and the electronic structure of these systems were investigated under vacuum and electrochemical conditions. The stability analysis showed that among the systems, the nitrogen-doped graphene bound Cu4 is the most stable in vacuum, while in an electrolyte, and at a negative potential, the N4V2&#8211;Cu3 is energetically more favorable. The ground state electronic structure of the nitrogen-doped graphene substrate undergoes topological phase transition, from a semimetallic state, and we observed a metallic and topologically trivial state after the clusters are deposited. The electrode potential adjusts the type and density of the charge carriers in the semimetallic models, while the structures containing copper exhibit bands which are deformed and relaxed by the modified number of electrons.</description>
-      <author>M&#225;rton Guba, Tibor H&#246;ltzl</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06475</guid>
-    </item>
-    <item>
-      <title>Fundamental Insights on the Electrochemical Nitrogen Oxidation over Metal Oxides</title>
-      <link>https://doi.org/10.1021/acscatal.3c05307</link>
-      <description>J. V. P. Long, Dong Luan, Xihong Fu, Huan Li, Huijuan Jing, Jianping Xiao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392602509
-
-                Electrocatalytic nitrogen oxidation reaction (eN2OR) has emerged as a sustainable strategy for nitrogen fixation. In this work, density functional theory calculations were performed to rationalize the reaction mechanisms, activity, and selectivity of eN2OR on metal dioxides. The anatase (101), anatase (100), and rutile (110) surfaces were investigated to obtain more generalized insights. Based on the reaction phase diagram analysis, the thermochemical mechanisms were identified as most energetically favorable for N2 and *N2O oxidation, and a theoretical activity map was constructed for eN2OR, explaining well the experimental activity trend. Anatase PtO2(100) was screened as the most active catalyst for nitrate production, which could be covered by a monolayer of *OH under the reaction conditions according to the Pourbaix diagram. A method of electric field controlling constant potential was used to calculate the electrochemical barriers on anatase PtO2(100). It was found that the electrochemical barriers of the oxygen evolution reaction will increase with the decrease of potential, while the thermochemical limiting step of the eN2OR is insensitive to potential. Thus, the eN2OR selectivity can be improved by lowering the applied potential. This work unveils fundamental insights into eN2OR and provides a unified understanding to experiments.</description>
-      <author>J. V. P. Long, Dong Luan, Xihong Fu, Huan Li, Huijuan Jing, Jianping Xiao</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05307</guid>
-    </item>
-    <item>
-      <title>Charge distribution modulation of hollow flower-like tungsten doped nickel nitride for alkaline hydrogen oxidation</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150272</link>
-      <description>Liwei An, Guanyu Luo, Jun Yang, Jiang Zhu, Deli Wang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392603354
-
-                Exploring efficient nickel (Ni)-based catalysts for alkaline hydrogen oxidation reaction (HOR) to replace platinum group metal (PGM) is highly essential for the development of anion exchange membrane fuel cells. Nevertheless, the HOR activity of Ni is far away from PGM owing to the strong hydrogen adsorption. Herein, the tungsten-doped nickel nitride (W-Ni3N) with modulated local charge distribution and hollow flower structure is presented to improve the HOR performance. Mechanism studies reveal that W doping induces the redistribution of local charge around Ni sites due to the electron transfer from Ni to W, which strengthens the hydroxyl adsorption and simultaneously weakens hydrogen adsorption. Benefitting from the optimized adsorption of HOR intermediates and hollow flower structure, W-Ni3N exhibits improved intrinsic activity and mass activity, which are 1.7 and 10 times higher than that of pure Ni3N, respectively. This work presents a promising way to design cost-effective electrocatalysts by fine-tuning the electronic structure.</description>
-      <author>Liwei An, Guanyu Luo, Jun Yang, Jiang Zhu, Deli Wang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150272</guid>
-    </item>
-    <item>
-      <title>Downshift of the Ni d band center over Ni nanoparticles &lt;i&gt;in situ&lt;/i&gt; confined within an amorphous silicon nitride matrix</title>
-      <link>https://doi.org/10.1039/d3dt04155g</link>
-      <description>Norifumi Asakuma, S Tada, Tomoyuki Tamura, Erika Kawaguchi, Sawao Honda, Toru Asaka, Assil Bouzid, Samuel Bernard, Yuji Iwamoto, Dalton Transactions. None(None)] 2024. https://openalex.org/W4392606271
-
-                More covalent Ni&#8211;N bonds at Ni/amorphous Si 3 N 4 heterointerfaces resulted in downshifting the Ni d band centerand facilitating H 2 desorption.</description>
-      <author>Norifumi Asakuma, S Tada, Tomoyuki Tamura, Erika Kawaguchi, Sawao Honda, Toru Asaka, Assil Bouzid, Samuel Bernard, Yuji Iwamoto</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3dt04155g</guid>
-    </item>
-    <item>
-      <title>Strong Interactions Through the Highly Polar &#8220;Early-Late&#8221; Metal-Metal Bonds Enable Single-Atom Catalysts Good Durability and Superior Bifunctional Orr/Oer Activity</title>
-      <link>https://doi.org/10.2139/ssrn.4750989</link>
-      <description>Tingyu Yan, Simone Lang, Siyao Wang, Shiru Lin, Qinghai Cai, Jingxiang Zhao, No host. None(None)] 2024. https://openalex.org/W4392614753
-
-                No abstract</description>
-      <author>Tingyu Yan, Simone Lang, Siyao Wang, Shiru Lin, Qinghai Cai, Jingxiang Zhao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4750989</guid>
-    </item>
-    <item>
-      <title>A doping strategy to regulate the adsorption energy of Li&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; and Li&lt;sub&gt;2&lt;/sub&gt;S to promote sulfur reduction on Chevrel phase Mo&lt;sub&gt;6&lt;/sub&gt;Se&lt;sub&gt;8&lt;/sub&gt; in lithium&#8211;sulfur batteries</title>
-      <link>https://doi.org/10.1039/d3nr06009h</link>
-      <description>Tengfei Duan, Dong Fan, Zhongyun Ma, Yong Pei, Nanoscale. 16(10)] 2024. https://openalex.org/W4392614779
-
-                The reaction mechanism of sulfur reduction reaction on metal doped Mo 6 Se 8 system and the linear relationship between the overpotential and adsorption energy of Li 2 S and Li 2 S 4 were studied.</description>
-      <author>Tengfei Duan, Dong Fan, Zhongyun Ma, Yong Pei</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3nr06009h</guid>
-    </item>
     <item>
       <title>Progress of Pt and iron-group transition metal alloy catalysts with high ORR activity for PEMFCs</title>
       <link>https://doi.org/10.1016/j.jelechem.2024.118165</link>
@@ -258,14 +168,54 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05789</guid>
     </item>
     <item>
-      <title>Adsorbate-Dependent Electronic Structure Descriptors for Machine Learning-Driven Binding Energy Predictions in Diverse Single Atom Alloys: A Reductionist Approach</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07398</link>
-      <description>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392579703
+      <title>Experimental and first-principles insights into an enhanced performance of Ru-doped copper phosphate electrocatalyst during oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.sajce.2024.03.006</link>
+      <description>Jasmin S. Shaikh, Meena Rittiruam, Tinnakorn Saelee, Victor M&#225;rquez, Navajsharif S. Shaikh, Patcharaporn Khajondetchairit, Sumayya C. Pathan, Mohammad Khaja Nazeeruddin, Piyasan Praserthdam, Supareak Praserthdam, South African Journal of Chemical Engineering. None(None)] 2024. https://openalex.org/W4392713728
 
-                A long-standing challenge in the design of single atom alloys (SAAs), for catalytic applications, is the determination of a feature space that maximally correlates to molecular binding energies per the Sabatier principle. The more representative a feature space is of the underlying binding properties, the greater the predictive capability of a given machine learning (ML) algorithm. Moreover, the greater the diversity and range of SAA impurities/sites examined, the greater the difficulty in arriving at such a predictive feature. In this work, we undertake to examine the degree to which adsorbate electronic structure properties might address this challenge, in a distinct departure from the traditional substrate electronic structure feature construction found in the catalysis literature. Specifically, as a model system, we explore the predictive capacity of the p-orbital projected density of states (PDOS) pertaining to the adsorption of CO molecules on a wide range of SAA substrates, impurity embeddings, and vicinal cuts. This analysis is executed in two parts. First, we explore the degree to which the entire PDOS distribution, in the form of an energy-dependent vector, can predict binding energies. Subsequently, guided by a rigorous intrinsic dimensionality analysis, uniform manifold approximation and projection visualization, and chemical intuition, we are able to reduce the predictive feature space to just three physical quantities based on semicore level properties and charge filling of the adsorbate&#8211;as embedded with the PDOS distribution. This near-intrinsic feature space and the PDOS distribution are both shown to provide significant improvements in predictive accuracy when coupled with regression-based ML methods, even when tackling highly diverse chemical datasets. The results of this analysis both further substantiate the transferability characteristics of SAAs and indicate that adsorbate-based electronic structure features (from either relaxed or unrelaxed chemical datasets) are powerful tools in the prediction of catalytic binding energies in such systems. They also underscore the predictive benefit of finding a feature space with a dimension equal to the intrinsic dimensionality of the data that can maximally correlate with the physical property under investigation when employing ML methods in catalysis studies.</description>
-      <author>Javad Shirani, J. R. Vald&#233;s, Alain B. Tchagang, Kirk H. Bevan</author>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07398</guid>
+                No abstract</description>
+      <author>Jasmin S. Shaikh, Meena Rittiruam, Tinnakorn Saelee, Victor M&#225;rquez, Navajsharif S. Shaikh, Patcharaporn Khajondetchairit, Sumayya C. Pathan, Mohammad Khaja Nazeeruddin, Piyasan Praserthdam, Supareak Praserthdam</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.sajce.2024.03.006</guid>
+    </item>
+    <item>
+      <title>Nitrogen doped leather waste-derived carbon materials as electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.inoche.2024.112295</link>
+      <description>Afshin Abbasi, Musammir Khan, Fawad Ahmad, Muhammad Imran Khan, Abdallah Shanableh, R. P. S. Rajput, Suryyia Manzoor, Shabnam Shahida, Rafael Luque, Sameh M. Osman, Mushtaq Hussain Lashari, Inorganic Chemistry Communications. None(None)] 2024. https://openalex.org/W4392715055
+
+                Nitrogen doped leather waste-derived carbon materials have been employed as eletrocatalyst for oxygen evolution reaction. Low current densities and complex synthesis routes of other carbon-based materials limit their practical applicability. We present herein a simple and cost-competitive design of a metal free nitrogen-doped carbon matrix (NCM). At 10 mA cm&#8722;2 of current density, the assembled NCM showed a low over potential of 330 mV. NCM provided 73 mV dec-1 of slope value according to Tafel analysis, with NCM slope value improved as compared to previously described electrocatalysts inclusive of graphene (113 mV dec&#8722;1) and carbon nanosheets (101 mV dec&#8722;1), under similar reaction conditions. Linear sweep voltamogram, stability test and electrochemical impedance spectra confirmed the potential of NCM in OER as a heterogeneous electrocatalyst.</description>
+      <author>Afshin Abbasi, Musammir Khan, Fawad Ahmad, Muhammad Imran Khan, Abdallah Shanableh, R. P. S. Rajput, Suryyia Manzoor, Shabnam Shahida, Rafael Luque, Sameh M. Osman, Mushtaq Hussain Lashari</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.inoche.2024.112295</guid>
+    </item>
+    <item>
+      <title>Synergistic electronic structure modulation of Pt using V&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; and V&lt;sub&gt;8&lt;/sub&gt;C&lt;sub&gt;7&lt;/sub&gt; for enhanced deuterium evolution performance</title>
+      <link>https://doi.org/10.1039/d4ta00150h</link>
+      <description>Yanfeng Li, Shuofeng Yuan, Liangbin Shao, Yuanan Li, Wei Xu, Shijie Zhang, Fangjun Shao, Jianguo Wang, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4392718810
+
+                Synergistic electronic metal&#8211;support interaction between V 2 O 3 /V 8 C 7 and Pt realizes the development of a high-performance deuterium evolution catalyst.</description>
+      <author>Yanfeng Li, Shuofeng Yuan, Liangbin Shao, Yuanan Li, Wei Xu, Shijie Zhang, Fangjun Shao, Jianguo Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta00150h</guid>
+    </item>
+    <item>
+      <title>Remotely Controlled Electrochemical Degradation of Metallic Implants</title>
+      <link>https://doi.org/10.1002/smll.202307742</link>
+      <description>B. B. Rivkin, Farzin Akbar, Martin Otto, Lukas Beyer, Birgit Paul, Konrad Kosiba, Tobias Gustmann, J. Hufenbach, Mariana Medina&#8208;S&#225;nchez, Small. None(None)] 2024. https://openalex.org/W4392732478
+
+                Abstract Biodegradable medical implants promise to benefit patients by eliminating risks and discomfort associated with permanent implantation or surgical removal. The time until full resorption is largely determined by the implant's material composition, geometric design, and surface properties. Implants with a fixed residence time, however, cannot account for the needs of individual patients, thereby imposing limits on personalization. Here, an active Fe&#8208;based implant system is reported whose biodegradation is controlled remotely and in situ. This is achieved by incorporating a galvanic cell within the implant. An external and wireless signal is used to activate the on&#8208;board electronic circuit that controls the corrosion current between the implant body and an integrated counter electrode. This configuration leads to the accelerated degradation of the implant and allows to harvest electrochemical energy that is naturally released by corrosion. In this study, the electrochemical properties of the Fe&#8208;30Mn&#8208;1C/Pt galvanic cell model system is first investigated and high&#8208;resolution X&#8208;ray microcomputed tomography is used to evaluate the galvanic degradation of stent structures. Subsequently, a centimeter&#8208;sized active implant prototype is assembled with conventional electronic components and the remotely controlled corrosion is tested in vitro. Furthermore, strategies toward the miniaturization and full biodegradability of this system are presented.</description>
+      <author>B. B. Rivkin, Farzin Akbar, Martin Otto, Lukas Beyer, Birgit Paul, Konrad Kosiba, Tobias Gustmann, J. Hufenbach, Mariana Medina&#8208;S&#225;nchez</author>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202307742</guid>
+    </item>
+    <item>
+      <title>UV&#8208;Induced Synthesis of Graphene Supported Iridium Catalyst with Multiple Active Sites for Overall Water Splitting</title>
+      <link>https://doi.org/10.1002/adfm.202313530</link>
+      <description>Liang Xu, Jianyun Cao, Jiexin Chen, Yongxu Zhu, Hua Xia, Zifan Xu, Chengding Gu, Jiyang Xie, M. Jones, Cheng Liu, Joel C. Corbin, Xiaohong Li, Wanbiao Hu, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392732588
+
+                Abstract Catalysts that can promote the hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) are in demand for efficient water splitting. Here, a general and practical UV&#8208;induced synthesis of noble metal catalysts supported on reduced electrochemical graphene oxide (M&#8208;rEGO, M = Ir, Pt or Pd) is proposed. The use of EGO with a low degree of oxidation and the generation of the highly reducing isopropanol radical from added isopropanol and acetone are crucial for this one&#8208;step, one&#8208;pot synthesis. Using Ir as a model material, the vacancies of rEGO allow the interaction of undercoordinated C with Ir, forming multiple active Ir species including single atoms (SAs), dual&#8208;atom pairs (DAs) and nanoparticles. This Ir&#8208;rEGO catalyst exhibits overpotentials of only 42.3 and 294 mV to reach 10 mA cm &#8722;2 in 0.5 &#1084; H 2 SO 4 for HER and 1 &#1084; KOH for OER, respectively, at an extremely low Ir loading (2.1 wt%). The water&#8208;splitting cells featuring Ir&#8208;rEGO catalyst outperform those using commercial Pt/C (20 wt%) and RuO 2 catalysts in both acidic and alkaline electrolytes. Density functional theory calculations confirm the stabilization of SAs and DAs at the vacancies of graphene lattice as well as the high activity of DAs in both HER and OER.</description>
+      <author>Liang Xu, Jianyun Cao, Jiexin Chen, Yongxu Zhu, Hua Xia, Zifan Xu, Chengding Gu, Jiyang Xie, M. Jones, Cheng Liu, Joel C. Corbin, Xiaohong Li, Wanbiao Hu</author>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202313530</guid>
     </item>
     <item>
       <title>Cobalt molybdenum di-selenide surface modification: A path to improved trifunctional catalysis via partial oxygenation</title>
@@ -276,6 +226,36 @@
       <author>Sampath Prabhakaran, Do Hwan Kim</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159834</guid>
+    </item>
+    <item>
+      <title>Fine&#8208;tuning electronic structure of N&#8208;doped graphitic carbon&#8208;supported Co&#8208; and Fe&#8208;incorporated Mo&lt;sub&gt;2&lt;/sub&gt;C to achieve ultrahigh electrochemical water oxidation activity</title>
+      <link>https://doi.org/10.1002/cey2.488</link>
+      <description>Md. Selim Arif Sher Shah, Hyeonjung Jung, Vinod K. Paidi, Kug&#8208;Seung Lee, Jeong Woo Han, Jae Hyung Park, Carbon energy. None(None)] 2024. https://openalex.org/W4392740367
+
+                Abstract Mo 2 C is an excellent electrocatalyst for hydrogen evolution reaction (HER). However, Mo 2 C is a poor electrocatalyst for oxygen evolution reaction (OER). Herein, two different elements, namely Co and Fe, are incorporated in Mo 2 C that, therefore, has a finely tuned electronic structure, which is not achievable by incorporation of any one of the metals. Consequently, the resulting electrocatalyst Co 0.8 Fe 0.2 &#8211;Mo 2 C&#8208;80 displayed excellent OER catalytic performance, which is evidenced by a low overpotential of 214.0 (and 246.5) mV to attain a current density of 10 (and 50) mA cm &#8722;2 , an ultralow Tafel slope of 38.4 mV dec &#8722;1 , and long&#8208;term stability in alkaline medium. Theoretical data demonstrates that Co 0.8 Fe 0.2 &#8211;Mo 2 C&#8208;80 requires the lowest overpotential (1.00 V) for OER and Co centers to be the active sites. The ultrahigh catalytic performance of the electrocatalyst is attributed to the excellent intrinsic catalytic activity due to high Brunauer&#8211;Emmett&#8211;Teller specific surface area, large electrochemically active surface area, small Tafel slope, and low charge&#8208;transfer resistance.</description>
+      <author>Md. Selim Arif Sher Shah, Hyeonjung Jung, Vinod K. Paidi, Kug&#8208;Seung Lee, Jeong Woo Han, Jae Hyung Park</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.488</guid>
+    </item>
+    <item>
+      <title>Recent progress of electrocatalysts for acidic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ccr.2024.215758</link>
+      <description>Yuping Chen, Chunyan Shang, Xin Xiao, Weihua Guo, Qiang Xu, Coordination Chemistry Reviews. 508(None)] 2024. https://openalex.org/W4392743186
+
+                No abstract</description>
+      <author>Yuping Chen, Chunyan Shang, Xin Xiao, Weihua Guo, Qiang Xu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.215758</guid>
+    </item>
+    <item>
+      <title>Defect engineering in two-dimensional Janus pentagonal noble metal sulfide MXY (M=Pd, Pt; X, Y S, Se, Te; X&#8800;Y) materials for highly efficient electrocatalytic hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.02.338</link>
+      <description>Jinbo Hao, Yirong Ma, Baonan Jia, Xinhui Zhang, Chunyu Zhang, Ge Wu, Wen Chen, Yuanzi Li, Pengfei Lu, International Journal of Hydrogen Energy. 62(None)] 2024. https://openalex.org/W4392743218
+
+                No abstract</description>
+      <author>Jinbo Hao, Yirong Ma, Baonan Jia, Xinhui Zhang, Chunyu Zhang, Ge Wu, Wen Chen, Yuanzi Li, Pengfei Lu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.338</guid>
     </item>
     <item>
       <title>Repulsive Lateral Interaction of Water Molecules at the Initial Stages of Adsorption in Microporous AlPO&lt;sub&gt;4&lt;/sub&gt;-11 According to &lt;sup&gt;27&lt;/sup&gt;Al NMR and DFT</title>
