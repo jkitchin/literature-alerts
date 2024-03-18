@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Mar 17 00:47:29 2024
+Created on Mon Mar 18 00:44:46 2024
 
-Found 31 results from 2024-03-10 to 2024-03-17
+Found 31 results from 2024-03-11 to 2024-03-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Improving the Roughness of Copper Working Electrode Through Electroless Deposition for Carbon Dioxide Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4392621229    
-Open access: False
-    
-[Yu‐Hsu Chang](https://openalex.org/A5064779642), [Watsananan T. Thienprasert](https://openalex.org/A5094106791), [N. Manjula](https://openalex.org/A5085717612), [Ninie Suhana Abdul Manan](https://openalex.org/A5045158889), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4753683.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
 
 ## Bioinspired Binickel Catalyst for Carbon Dioxide Reduction: The Importance of Metal–ligand Cooperation   
 
@@ -271,17 +260,6 @@ The work described in this thesis was aimed at understanding the influence of st
 
     
 
-## The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction   
-
-OpenAlex: https://openalex.org/W4392735268    
-Open access: False
-    
-[Ming Song](https://openalex.org/A5085403337), Korean Academy Of International Commerce. 38(4)] 2023.https://doi.org/10.18104/kalc.2023.38.4.181.
-    
-Purpose: This study analyzes the causal relationships between CO2 emissions and ODA, logistics, renewable energy, economic growth, and industrialization. Research design, data, and methodology: From 2006 to 2019, panel data related to CO2 emissions, ODA, logistics networks, renewable energy, economic growth, and industrialization were collected from a total of 84 countries. To analyze this model, panel unit root tests and panel co-integration tests were performed to confirm the stability and long-term causal relationships in the data. Subsequently, panel FMOLS and panel DOLS were used to identify variables affecting carbon dioxide, and pairwise panel Granger causality analysis was used to analyze causality between these variables. Results: According to panel FMOLS and panel DOLS analysis, ODA and renewable energy reduce CO2 emissions, but economic growth increases CO2 emissions. Conclusions: As a result of panel FMOLS and panel DOLS analysis, economic growth was identified as a factor in increasing CO2 emissions, and international development cooperation and renewable energy were identified as factors in reducing CO2 emissions.    
-
-    
-
 ## Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts   
 
 OpenAlex: https://openalex.org/W4392704678    
@@ -290,6 +268,17 @@ Open access: False
 [Carlos G. Morales‐Guio](https://openalex.org/A5074179289), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.418.
     
 No abstract    
+
+    
+
+## The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction   
+
+OpenAlex: https://openalex.org/W4392735268    
+Open access: False
+    
+[Ming Song](https://openalex.org/A5085403337), Korean Academy Of International Commerce. 38(4)] 2023.https://doi.org/10.18104/kalc.2023.38.4.181.
+    
+Purpose: This study analyzes the causal relationships between CO2 emissions and ODA, logistics, renewable energy, economic growth, and industrialization. Research design, data, and methodology: From 2006 to 2019, panel data related to CO2 emissions, ODA, logistics networks, renewable energy, economic growth, and industrialization were collected from a total of 84 countries. To analyze this model, panel unit root tests and panel co-integration tests were performed to confirm the stability and long-term causal relationships in the data. Subsequently, panel FMOLS and panel DOLS were used to identify variables affecting carbon dioxide, and pairwise panel Granger causality analysis was used to analyze causality between these variables. Results: According to panel FMOLS and panel DOLS analysis, ODA and renewable energy reduce CO2 emissions, but economic growth increases CO2 emissions. Conclusions: As a result of panel FMOLS and panel DOLS analysis, economic growth was identified as a factor in increasing CO2 emissions, and international development cooperation and renewable energy were identified as factors in reducing CO2 emissions.    
 
     
 
@@ -345,5 +334,16 @@ Open access: False
 [Beatriz Roldán Cuenya](https://openalex.org/A5065326930), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.233.
     
 No abstract    
+
+    
+
+## Computational Design of Electro-Organocatalysts and Transition Metal Sulfides for the Electrochemical Reduction of CO2   
+
+OpenAlex: https://openalex.org/W4392691393    
+Open access: False
+    
+[Foroogh Khezeli](https://openalex.org/A5033012669), No host. None(None)] 2024.https://doi.org/10.31390/gradschool_dissertations.6240.
+    
+Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.    
 
     

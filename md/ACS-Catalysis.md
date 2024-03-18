@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Mar 17 00:47:31 2024
+Created on Mon Mar 18 00:44:48 2024
 
-Found 25 results from 2024-03-10 to 2024-03-17
+Found 25 results from 2024-03-11 to 2024-03-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Improved Oxygen Evolution Reaction Kinetics with Titanium Incorporated Nickel Ferrite for Efficient Anion Exchange Membrane Electrolysis   
-
-OpenAlex: https://openalex.org/W4392622761    
-Open access: False
-    
-[Ki-Yong Yoon](https://openalex.org/A5035658742), [Kyung‐Bok Lee](https://openalex.org/A5037937178), [Jaehoon Jeong](https://openalex.org/A5051461491), [Myung‐Jun Kwak](https://openalex.org/A5089096028), [Dohyung Kim](https://openalex.org/A5004040977), [Hyunchul Roh](https://openalex.org/A5031554355), [Ji-Hoon Lee](https://openalex.org/A5041248271), [Sung Mook Choi](https://openalex.org/A5091482435), [Hosik Lee](https://openalex.org/A5022099174), [Juchan Yang](https://openalex.org/A5088908902), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05761.
-    
-No abstract    
-
-    
 
 ## Maximizing Thiophene–Sulfur Functional Groups in Carbon Catalysts for Highly Selective H2O2 Electrosynthesis   
 
@@ -278,5 +267,16 @@ Open access: False
 [Ping Guo](https://openalex.org/A5065766432), [Yan Chen](https://openalex.org/A5086339613), [Tao Lei](https://openalex.org/A5031755414), [Shufang Ji](https://openalex.org/A5054312835), [Ruixue Zhang](https://openalex.org/A5045743944), [Zedong Zhang](https://openalex.org/A5035786530), [Xiao Liang](https://openalex.org/A5075169323), [Dingsheng Wang](https://openalex.org/A5042841794), [Yadong Li](https://openalex.org/A5038102627), [Jie Zhao](https://openalex.org/A5077388081), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05635.
     
 A heterogeneous iridium single-atom site catalyst (Ir-SA) was synthesized and investigated in catalyzing the carbene insertion reaction with challenging α-alkyl diazo ester substrates. With only 0.23 mol % catalyst loading, our Ir-SA demonstrated remarkable performance in heterogeneous carbene N–H bond insertion reactions involving various (hetero) aryl amines coupled with α-alkyl diazo esters. Notably, in the case of using a chiral diamino substrate with two reactive sites, Ir-SA exhibited high selectivity toward single carbene N–H insertion, leading to the generation of a class of unsymmetric chiral diamino ligands. Further mechanism study revealed that the lower activation barrier associated with the single N–H bond insertion step, as compared to either β-hydride elimination or downstream dual N–H bond insertion, accounted for the remarkable selectivity observed in this carbene insertion reaction catalyzed by Ir-SA.    
+
+    
+
+## Data Science Guided Multiobjective Optimization of a Stereoconvergent Nickel-Catalyzed Reduction of Enol Tosylates to Access Trisubstituted Alkenes   
+
+OpenAlex: https://openalex.org/W4392778422    
+Open access: False
+    
+[Natalie P. Romer](https://openalex.org/A5094145064), [Dong‐Joo Min](https://openalex.org/A5035229447), [Jason Y. Wang](https://openalex.org/A5073790823), [R. C. Walroth](https://openalex.org/A5008988198), [Kyle A. Mack](https://openalex.org/A5079382262), [Lauren E. Sirois](https://openalex.org/A5058605673), [Francis Gosselin](https://openalex.org/A5070408514), [Daniel Zell](https://openalex.org/A5007033462), [Abigail G. Doyle](https://openalex.org/A5077633918), [Matthew S. Sigman](https://openalex.org/A5005862481), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00650.
+    
+No abstract    
 
     

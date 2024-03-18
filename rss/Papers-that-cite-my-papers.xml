@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:44:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Progress of Pt and iron-group transition metal alloy catalysts with high ORR activity for PEMFCs</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118165</link>
-      <description>Zhen Zhou, Huijuan Zhang, Xiaoxiong Feng, Zhong Ma, Zi-Feng Ma, Yuhua Xue, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4392624259
-
-                The performances of proton exchange membrane fuel cells (PEMFCs) are affected by the cathodic oxygen reduction reaction (ORR). Platinum (Pt)-based catalysts can effectively improve the ORR by reducing the activation energy and substantially increase the reaction rate. However, due to the scarcity and high price of Pt, the exploration of PtM alloy catalysts with low Pt loading, high ORR activity and stability has become the focus of ORR research. Therefore, this paper reviews the recent progresses of Pt and iron-group transition metal alloy catalysts with high ORR activity and stability for PEMFCs. Firstly, the ORR theoretical mechanism is introduced. Then, we discuss several types of PtM (M=Fe, Co, Ni) alloy catalysts, including binary and ternary alloys, especially to understand the effect of particle size, shape (nanostructures, hollow structure, core-shell), structure (intermetallic compounds) and supports (new carbon, MOF derivatives, metal oxides) on the utilization rate of Pt and the ORR catalytic performance, including the ORR catalytic activity and stability. Finally, we analyze the remaining challenges and the future of PtM alloy catalysts.</description>
-      <author>Zhen Zhou, Huijuan Zhang, Xiaoxiong Feng, Zhong Ma, Zi-Feng Ma, Yuhua Xue</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118165</guid>
-    </item>
-    <item>
-      <title>In pursuit of a bifunctional designing toward highly efficient overall water splitting in a hydrogen-functionalized two-dimensional covalent organic framework via single transition metal mapping</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.044</link>
-      <description>Chunyao Fang, Di Liu, Qiang Zhang, Guiju Liu, Chenglong Shi, Jingcheng Xu, International Journal of Hydrogen Energy. 62(None)] 2024. https://openalex.org/W4392626253
-
-                Developing highly active metal-based single-atom catalysts (SACs), as a thriving topic in overall water-splitting, can maximum atom utilization efficiency and yet entail high activity, and bifunctional hydrogen evolution reaction (HER)/oxygen evolution reaction (OER) electrocatalysts can enable more efficient overall water-splitting meanwhile reducing the cost than two individual unifunctional electrocatalysts. Bifunctional HER/OER SACs are thus of enormous economic importance and scientific interest. Herein, using density functional theory (DFT) calculations, a design of the optimal bifunctional SACs was achieved, namely, C30N12Se6H12 supported Rh (Rh@CNSeH). Also worth noting is that Rh@CNSeH stands out among 23 candidates and holds the promise of as an efficient bifunctional catalyst due to low HER/OER overpotential of 0.003/0.39 V, outperforming the commercial Pt (0.09 V)/IrO2 (0.55 V) and achieving the overall water-splitting. Good stability demonstrated by calculations of ab initio molecular dynamics simulation, antioxidant capacity and Pourbaix diagram ensured the implementation of Rh@CNSeH in ambient conditions. Remarkably, &#916;GOH* can act as an energy descriptor to reveal and even predict the OER activity trend, whose changing trend can be quantitatively described by charge transfer descriptor (Bader charge analysis) and electronic structure descriptors (d-band center and integrated crystal orbital Hamilton population (ICOHP)). Moreover, an intrinsic descriptor (&#966;) coupled with the electronegativity and the d-electrons number of transition-metal can give a reasonable prediction and explanation for the catalytic activity origin. Finally, we built a bridge for structure-property relationship from intrinsic characteristics to Bader charge, to d-band center, to ICOHP and then to free energies of intermediates, which can intuitively herald the activity origin of OER and give a reasonable guidance toward high-efficient designing for SACs.</description>
-      <author>Chunyao Fang, Di Liu, Qiang Zhang, Guiju Liu, Chenglong Shi, Jingcheng Xu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.044</guid>
-    </item>
     <item>
       <title>Comparative study and screening of Single-Atom and homonuclear Dual-Atom catalysts for NO reduction via electrocatalysis</title>
       <link>https://doi.org/10.1016/j.fuel.2024.131432</link>
@@ -256,6 +236,26 @@
       <author>Jinbo Hao, Yirong Ma, Baonan Jia, Xinhui Zhang, Chunyu Zhang, Ge Wu, Wen Chen, Yuanzi Li, Pengfei Lu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.02.338</guid>
+    </item>
+    <item>
+      <title>Self-Sustainable Lattice Strains of Morphology-Tuned Nanowires in Electrocatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00451</link>
+      <description>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392748981
+
+                No abstract</description>
+      <author>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00451</guid>
+    </item>
+    <item>
+      <title>CO Hydrogenation Promoted by Oxygen Atoms Adsorbed onto Cu(100)</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c00666</link>
+      <description>Kaito Nagita, Kazuhide Kamiya, Shuji Nakanishi, Yoshisuke Hamamoto, Yoshitada Morikawa, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392752465
+
+                The electrochemical CO2 reduction reaction (CO2RR) on Cu-based catalysts is a promising method for converting anthropogenic CO2 to valuable chemical feedstocks and fuels. Although pure CO2 gas has been widely used as a reactant in CO2RR-related research, CO2 gas collected from the atmosphere inevitably includes some amount of various impurity gases in the actual application of this method. Among such impurities, O2 gas has high reactivity and can easily contaminate the reaction environment, thereby substantially affecting the reactivity of the CO2RR. Herein, we performed first-principles calculations for the CO2RR in the presence of O2 reduction reaction intermediates on the Cu(100) surface. Specifically, we calculated the reaction and activation free energies for the hydrogenation of adsorbed CO* to CHO* on a Cu(100) surface covered with O* or OH*. When the coverage of O* reached 25%, the initial state of CO hydrogenation became destabilized to a greater extent than the transition state, which decreased the reaction and activation free energies by 0.27 and 0.16 eV, respectively. The projected density of states analyses revealed that O* weakens the interaction between CO* and the Cu surface, whereas OH* less strongly affects CO hydrogenation.</description>
+      <author>Kaito Nagita, Kazuhide Kamiya, Shuji Nakanishi, Yoshisuke Hamamoto, Yoshitada Morikawa</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00666</guid>
     </item>
     <item>
       <title>Repulsive Lateral Interaction of Water Molecules at the Initial Stages of Adsorption in Microporous AlPO&lt;sub&gt;4&lt;/sub&gt;-11 According to &lt;sup&gt;27&lt;/sup&gt;Al NMR and DFT</title>

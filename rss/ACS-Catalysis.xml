@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:44:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improved Oxygen Evolution Reaction Kinetics with Titanium Incorporated Nickel Ferrite for Efficient Anion Exchange Membrane Electrolysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c05761</link>
-      <description>Ki-Yong Yoon, Kyung&#8208;Bok Lee, Jaehoon Jeong, Myung&#8208;Jun Kwak, Dohyung Kim, Hyunchul Roh, Ji-Hoon Lee, Sung Mook Choi, Hosik Lee, Juchan Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392622761
-
-                No abstract</description>
-      <author>Ki-Yong Yoon, Kyung&#8208;Bok Lee, Jaehoon Jeong, Myung&#8208;Jun Kwak, Dohyung Kim, Hyunchul Roh, Ji-Hoon Lee, Sung Mook Choi, Hosik Lee, Juchan Yang</author>
-      <pubDate>Sat, 09 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05761</guid>
-    </item>
     <item>
       <title>Maximizing Thiophene&#8211;Sulfur Functional Groups in Carbon Catalysts for Highly Selective H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Electrosynthesis</title>
       <link>https://doi.org/10.1021/acscatal.4c00419</link>
@@ -256,6 +246,16 @@
       <author>Ping Guo, Yan Chen, Tao Lei, Shufang Ji, Ruixue Zhang, Zedong Zhang, Xiao Liang, Dingsheng Wang, Yadong Li, Jie Zhao</author>
       <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05635</guid>
+    </item>
+    <item>
+      <title>Data Science Guided Multiobjective Optimization of a Stereoconvergent Nickel-Catalyzed Reduction of Enol Tosylates to Access Trisubstituted Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.4c00650</link>
+      <description>Natalie P. Romer, Dong&#8208;Joo Min, Jason Y. Wang, R. C. Walroth, Kyle A. Mack, Lauren E. Sirois, Francis Gosselin, Daniel Zell, Abigail G. Doyle, Matthew S. Sigman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392778422
+
+                No abstract</description>
+      <author>Natalie P. Romer, Dong&#8208;Joo Min, Jason Y. Wang, R. C. Walroth, Kyle A. Mack, Lauren E. Sirois, Francis Gosselin, Daniel Zell, Abigail G. Doyle, Matthew S. Sigman</author>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00650</guid>
     </item>
   </channel>
 </rss>

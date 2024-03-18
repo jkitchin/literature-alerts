@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Mar 17 00:47:31 2024
+Created on Mon Mar 18 00:44:48 2024
 
-Found 25 results from 2024-03-10 to 2024-03-17
+Found 25 results from 2024-03-11 to 2024-03-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Improved Oxygen Evolution Reaction Kinetics with Titanium Incorporated Nickel Ferrite for Efficient Anion Exchange Membrane Electrolysis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392622761
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-03-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05761")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392622761"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392622761"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392622761"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392622761 (Open access: False)
-    
-[[https://openalex.org/A5035658742][Ki-Yong Yoon]], [[https://openalex.org/A5037937178][Kyung‐Bok Lee]], [[https://openalex.org/A5051461491][Jaehoon Jeong]], [[https://openalex.org/A5089096028][Myung‐Jun Kwak]], [[https://openalex.org/A5004040977][Dohyung Kim]], [[https://openalex.org/A5031554355][Hyunchul Roh]], [[https://openalex.org/A5041248271][Ji-Hoon Lee]], [[https://openalex.org/A5091482435][Sung Mook Choi]], [[https://openalex.org/A5022099174][Hosik Lee]], [[https://openalex.org/A5088908902][Juchan Yang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05761 
-     
-No abstract    
-
-    
 
 * Maximizing Thiophene–Sulfur Functional Groups in Carbon Catalysts for Highly Selective H2O2 Electrosynthesis  :ACS_Catalysis:
 :PROPERTIES:
@@ -528,5 +507,26 @@ OpenAlex: https://openalex.org/W4392761569 (Open access: False)
 [[https://openalex.org/A5065766432][Ping Guo]], [[https://openalex.org/A5086339613][Yan Chen]], [[https://openalex.org/A5031755414][Tao Lei]], [[https://openalex.org/A5054312835][Shufang Ji]], [[https://openalex.org/A5045743944][Ruixue Zhang]], [[https://openalex.org/A5035786530][Zedong Zhang]], [[https://openalex.org/A5075169323][Xiao Liang]], [[https://openalex.org/A5042841794][Dingsheng Wang]], [[https://openalex.org/A5038102627][Yadong Li]], [[https://openalex.org/A5077388081][Jie Zhao]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05635 
      
 A heterogeneous iridium single-atom site catalyst (Ir-SA) was synthesized and investigated in catalyzing the carbene insertion reaction with challenging α-alkyl diazo ester substrates. With only 0.23 mol % catalyst loading, our Ir-SA demonstrated remarkable performance in heterogeneous carbene N–H bond insertion reactions involving various (hetero) aryl amines coupled with α-alkyl diazo esters. Notably, in the case of using a chiral diamino substrate with two reactive sites, Ir-SA exhibited high selectivity toward single carbene N–H insertion, leading to the generation of a class of unsymmetric chiral diamino ligands. Further mechanism study revealed that the lower activation barrier associated with the single N–H bond insertion step, as compared to either β-hydride elimination or downstream dual N–H bond insertion, accounted for the remarkable selectivity observed in this carbene insertion reaction catalyzed by Ir-SA.    
+
+    
+
+* Data Science Guided Multiobjective Optimization of a Stereoconvergent Nickel-Catalyzed Reduction of Enol Tosylates to Access Trisubstituted Alkenes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4392778422
+:TOPICS: Peptide Synthesis and Drug Discovery, Porous Crystalline Organic Frameworks for Energy and Separation Applications, Aggregation-Induced Emission in Fluorescent Materials
+:PUBLICATION_DATE: 2024-03-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00650")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392778422"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392778422"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392778422"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4392778422 (Open access: False)
+    
+[[https://openalex.org/A5094145064][Natalie P. Romer]], [[https://openalex.org/A5035229447][Dong‐Joo Min]], [[https://openalex.org/A5073790823][Jason Y. Wang]], [[https://openalex.org/A5008988198][R. C. Walroth]], [[https://openalex.org/A5079382262][Kyle A. Mack]], [[https://openalex.org/A5058605673][Lauren E. Sirois]], [[https://openalex.org/A5070408514][Francis Gosselin]], [[https://openalex.org/A5007033462][Daniel Zell]], [[https://openalex.org/A5077633918][Abigail G. Doyle]], [[https://openalex.org/A5005862481][Matthew S. Sigman]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00650 
+     
+No abstract    
 
     

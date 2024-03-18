@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 17 Mar 2024 00:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:44:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Improving the Roughness of Copper Working Electrode Through Electroless Deposition for Carbon Dioxide Reduction Reaction</title>
-      <link>https://doi.org/10.2139/ssrn.4753683</link>
-      <description>Yu&#8208;Hsu Chang, Watsananan T. Thienprasert, N. Manjula, Ninie Suhana Abdul Manan, No host. None(None)] 2024. https://openalex.org/W4392621229
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Yu&#8208;Hsu Chang, Watsananan T. Thienprasert, N. Manjula, Ninie Suhana Abdul Manan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4753683</guid>
-    </item>
     <item>
       <title>Bioinspired Binickel Catalyst for Carbon Dioxide Reduction: The Importance of Metal&#8211;ligand Cooperation</title>
       <link>https://doi.org/10.1021/jacsau.4c00047</link>
@@ -248,6 +238,16 @@
       <guid isPermaLink="true">https://doi.org/10.33540/2122</guid>
     </item>
     <item>
+      <title>Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts</title>
+      <link>https://doi.org/10.29363/nanoge.matsus.2024.418</link>
+      <description>Carlos G. Morales&#8208;Guio, No host. None(None)] 2023. https://openalex.org/W4392704678
+
+                No abstract</description>
+      <author>Carlos G. Morales&#8208;Guio</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.418</guid>
+    </item>
+    <item>
       <title>The Impact of International Cooperation and Logistics Networks on CO2 Emission Reduction</title>
       <link>https://doi.org/10.18104/kalc.2023.38.4.181</link>
       <description>Ming Song, Korean Academy Of International Commerce. 38(4)] 2023. https://openalex.org/W4392735268
@@ -259,16 +259,6 @@
       <author>Ming Song</author>
       <pubDate>Sun, 31 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.18104/kalc.2023.38.4.181</guid>
-    </item>
-    <item>
-      <title>Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts</title>
-      <link>https://doi.org/10.29363/nanoge.matsus.2024.418</link>
-      <description>Carlos G. Morales&#8208;Guio, No host. None(None)] 2023. https://openalex.org/W4392704678
-
-                No abstract</description>
-      <author>Carlos G. Morales&#8208;Guio</author>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.418</guid>
     </item>
     <item>
       <title>CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate</title>
@@ -319,6 +309,16 @@
       <author>Beatriz Rold&#225;n Cuenya</author>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.233</guid>
+    </item>
+    <item>
+      <title>Computational Design of Electro-Organocatalysts and Transition Metal Sulfides for the Electrochemical Reduction of CO2</title>
+      <link>https://doi.org/10.31390/gradschool_dissertations.6240</link>
+      <description>Foroogh Khezeli, No host. None(None)] 2024. https://openalex.org/W4392691393
+
+                Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.</description>
+      <author>Foroogh Khezeli</author>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31390/gradschool_dissertations.6240</guid>
     </item>
   </channel>
 </rss>
