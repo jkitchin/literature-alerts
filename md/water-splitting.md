@@ -1,33 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Mar 18 00:44:43 2024
+Created on Tue Mar 19 00:43:31 2024
 
-Found 42 results from 2024-03-11 to 2024-03-18
+Found 41 results from 2024-03-12 to 2024-03-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Self‐Supported Fe‐Based Nanostructured Electrocatalysts for Water Splitting and Selective Oxidation Reactions: Past, Present, and Future   
-
-OpenAlex: https://openalex.org/W4392632371    
-Open access: True
-    
-[Mayur A. Gaikwad](https://openalex.org/A5034827445), [Vishal Burungale](https://openalex.org/A5091898572), [D.B. Malavekar](https://openalex.org/A5043360205), [Uma V. Ghorpade](https://openalex.org/A5044910327), [Umesh P. Suryawanshi](https://openalex.org/A5010175599), [Sae Jang](https://openalex.org/A5055701402), [Xiaofeng Guo](https://openalex.org/A5013364501), [Seung Wook Shin](https://openalex.org/A5014112848), [Jun‐Seok Ha](https://openalex.org/A5046528165), [Mahesh P. Suryawanshi](https://openalex.org/A5045121125), [Jihun Kim](https://openalex.org/A5079554524), Advanced Energy Materials. None(None)] 2024.https://doi.org/10.1002/aenm.202303730.
-    
-Abstract Electrochemical water splitting plays a vital role in facilitating the transition towards a sustainable energy future by enabling renewable hydrogen (H 2 ) production, energy storage, and emission‐free transportation. Developing earth‐abundant electrocatalysts with outstanding overall water‐splitting performance, excellent catalytic activity, and robust long‐term stability is highly important in the practical application of water electrolysis. Self‐supported electrocatalysts have emerged as the most appealing candidate for practical H 2 production due to their increased active site loading, rapid mass and charge transfer, and strong interaction with the underneath conducting support. Additionally, these electrocatalysts also provide enhanced reaction kinetics and stability. Here, a comprehensive review of recent progress in developing self‐supported Fe‐based electrocatalysts for water splitting and selective oxidation reactions is presented with examples of oxyhydroxides, layered double hydroxides, oxides, chalcogenides, phosphides, nitrides, and other Fe‐containing electrocatalysts. A comprehensive historical development in the synthesis of self‐supported Fe‐based electrocatalysts is provided, with an emphasis on the various deposition methods and the choice of self‐supported conducting substrates considering large‐scale commercial applications. An overview of mechanistic understanding and approaches for enhanced H 2 production are also presented. Finally, the challenges and opportunities associated with developing Fe‐based electrocatalysts for practical applications in water splitting and alternative oxidation reactions are discussed.    
-
-    
-
-## Ru Species Anchored on Defective Cobalt Iron Oxide for Biomass Electro-Oxidation Coupled with Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4392634950    
-Open access: False
-    
-[Shasha Cui](https://openalex.org/A5079949918), [Guangjin Wang](https://openalex.org/A5007329775), [Fen Wang](https://openalex.org/A5075130252), [Ting‐Ting Li](https://openalex.org/A5064769969), [Zhijuan Liu](https://openalex.org/A5034970777), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4754289.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
 
 ## In Situ-Generated Hollow CoFe-LDH/Co-MOF Heterostructure Nanorod Arrays for Oxygen Evolution Reaction   
 
@@ -282,6 +260,28 @@ A NiFeLDH /Mo4/3B2-xTz/NF (foam nickel) composite electrode was prepared by elec
 
     
 
+## In Situ Modulation of Oxygen Vacancies on 2D Metal Hydroxide Organic Frameworks for High‐Efficiency Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392732464    
+Open access: False
+    
+[Kai Ge](https://openalex.org/A5091228890), [Yi Zhao](https://openalex.org/A5034128349), [Yunxia Hu](https://openalex.org/A5019180285), [Zhuozhi Wang](https://openalex.org/A5024183430), [Jingjing Wang](https://openalex.org/A5067221645), [Mei‐Sang Yang](https://openalex.org/A5038236550), [Canfei He](https://openalex.org/A5069013809), [Yongfang Yang](https://openalex.org/A5066825255), [Lei Zhu](https://openalex.org/A5052172266), [Boxiong Shen](https://openalex.org/A5083408654), Small. None(None)] 2024.https://doi.org/10.1002/smll.202311713.
+    
+Abstract The discovery of non‐precious catalysts for replacing the precious metal of ruthenium in the oxygen evolution reaction (OER) represents a key step in reducing the cost of green hydrogen production. The 2D d ‐MHOFs, a new 2D materials with controllable oxygen vacancies formed by controlling the degree of coordination bridging between metal hydroxyl oxide and BDC ligands are synthesized at room temperature, exhibit excellent OER properties with low overpotentials of 207 mV at 10 mA cm −2 . High‐resolution transmission electron microscopy images and density functional theory calculations demonstrate that the introduction of oxygen vacancy sites leads to a lattice distortion and charge redistribution in the catalysts, enhancing the OER activity of 2D d ‐MHOFs comprehensively. Synchrotron radiation and in situ Raman/Fourier transform infrared spectroscopy indicate that part of oxygen defect sites on the surface of 2D d ‐MHOFs are prone to transition to highly active metal hydroxyl oxides during the OER process. This work provides a mild strategy for scalable preparation of 2D d ‐MHOFs nanosheets with controllable oxygen defects, reveals the relationship between oxygen vacancies and OER performance, and offers a profound insight into the basic process of structural transformation in the OER process.    
+
+    
+
+## A series of Isostructural Metal-Organic Frameworks for Enhanced Electro-catalytic Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4392741361    
+Open access: False
+    
+[Pampa Jhariat](https://openalex.org/A5070860189), [Abdul Kareem](https://openalex.org/A5032926378), [Priyanka Kumari](https://openalex.org/A5056422496), [Shafeeq Sarfudeen](https://openalex.org/A5093368488), [Pravati Panda](https://openalex.org/A5067954187), [Sellappan Senthilkumar](https://openalex.org/A5075161334), [Tamas Panda](https://openalex.org/A5012686513), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00210e.
+    
+Three new isostructural MOFs (ZnTIA, CoTIA and CdTIA) were synthesized by the solvothermal synthesis of organic linker 5-triazole isophthalic acid (5-TIA) with the transition metals Zn(II), Co(II) and Cd(II) salts...    
+
+    
+
 ## Acidic Oxygen Evolution Reaction: Fundamental Understanding and Electrocatalysts Design   
 
 OpenAlex: https://openalex.org/W4392813847    
@@ -304,23 +304,23 @@ No abstract
 
     
 
+## Surface-Functionalized Ni nanostructures for Oxygen Evolution Reaction, a different synthetic approach.   
+
+OpenAlex: https://openalex.org/W4392704432    
+Open access: False
+    
+[Aureliano Macili](https://openalex.org/A5047786576), [Laia Francás](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.135.
+    
+No abstract    
+
+    
+
 ## Oxide management in Ruthenium oxide catalysts for efficient Oxygen Evolution Reaction in acid.   
 
 OpenAlex: https://openalex.org/W4392704834    
 Open access: False
     
 [Amit Kumar Das](https://openalex.org/A5019487756), [F. Pelayo Garcı́a de Arquer](https://openalex.org/A5075242279), [Xia Lu](https://openalex.org/A5029072578), [Anku Guha](https://openalex.org/A5033159909), [Viktoria Holovanova](https://openalex.org/A5094126826), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.202.
-    
-No abstract    
-
-    
-
-## Surface-Functionalized Ni nanostructures for Oxygen Evolution Reaction, a different synthetic approach.   
-
-OpenAlex: https://openalex.org/W4392704432    
-Open access: False
-    
-[Aureliano Macili](https://openalex.org/A5047786576), [Laia Francàs](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.135.
     
 No abstract    
 
@@ -348,17 +348,6 @@ No abstract
 
     
 
-## In Situ Modulation of Oxygen Vacancies on 2D Metal Hydroxide Organic Frameworks for High‐Efficiency Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392732464    
-Open access: False
-    
-[Kai Ge](https://openalex.org/A5091228890), [Yi Zhao](https://openalex.org/A5034128349), [Yunxia Hu](https://openalex.org/A5019180285), [Zhuozhi Wang](https://openalex.org/A5024183430), [Jingjing Wang](https://openalex.org/A5067221645), [Mei‐Sang Yang](https://openalex.org/A5038236550), [Canfei He](https://openalex.org/A5069013809), [Yongfang Yang](https://openalex.org/A5066825255), [Lei Zhu](https://openalex.org/A5052172266), [Boxiong Shen](https://openalex.org/A5083408654), Small. None(None)] 2024.https://doi.org/10.1002/smll.202311713.
-    
-Abstract The discovery of non‐precious catalysts for replacing the precious metal of ruthenium in the oxygen evolution reaction (OER) represents a key step in reducing the cost of green hydrogen production. The 2D d ‐MHOFs, a new 2D materials with controllable oxygen vacancies formed by controlling the degree of coordination bridging between metal hydroxyl oxide and BDC ligands are synthesized at room temperature, exhibit excellent OER properties with low overpotentials of 207 mV at 10 mA cm −2 . High‐resolution transmission electron microscopy images and density functional theory calculations demonstrate that the introduction of oxygen vacancy sites leads to a lattice distortion and charge redistribution in the catalysts, enhancing the OER activity of 2D d ‐MHOFs comprehensively. Synchrotron radiation and in situ Raman/Fourier transform infrared spectroscopy indicate that part of oxygen defect sites on the surface of 2D d ‐MHOFs are prone to transition to highly active metal hydroxyl oxides during the OER process. This work provides a mild strategy for scalable preparation of 2D d ‐MHOFs nanosheets with controllable oxygen defects, reveals the relationship between oxygen vacancies and OER performance, and offers a profound insight into the basic process of structural transformation in the OER process.    
-
-    
-
 ## Modulating space charge of FeP/CoP p-n heterojunction for boosting oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4392636984    
@@ -381,14 +370,25 @@ Electrocatalysts with high activity and long-term durability are vital toward la
 
     
 
-## A series of Isostructural Metal-Organic Frameworks for Enhanced Electro-catalytic Oxygen Evolution Reaction   
+## Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024)   
 
-OpenAlex: https://openalex.org/W4392741361    
+OpenAlex: https://openalex.org/W4392888445    
+Open access: True
+    
+[Shangshang Zuo](https://openalex.org/A5042219386), [Yuan Liao](https://openalex.org/A5088676995), [Chenchen Wang](https://openalex.org/A5029322489), [Aaron B. Naden](https://openalex.org/A5030097467), [John T. S. Irvine](https://openalex.org/A5005373361), Small. 20(11)] 2024.https://doi.org/10.1002/smll.202470090 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470090)).
+    
+SmallVolume 20, Issue 11 2470090 FrontispieceFree Access Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024) Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author First published: 15 March 2024 https://doi.org/10.1002/smll.202470090AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2308867, John T. S. Irvine and co-workers show that the oxygen evolution reaction performance of Ti-based perovskite can be enhanced by exsolving Co nanoparticles, which are surface-anchored onto the parent perovskite. This exsolution process effectively prevents nanoparticle agglomeration and improves atom utilization efficiency, leading to significantly higher mass activity. Volume20, Issue11March 15, 20242470090 RelatedInformation    
+
+    
+
+## Synthesis of bimetal-decorated N-doped carbon nanoparticles for enhanced oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4392891549    
 Open access: False
     
-[Pampa Jhariat](https://openalex.org/A5070860189), [Abdul Kareem](https://openalex.org/A5032926378), [Priyanka Kumari](https://openalex.org/A5056422496), [Shafeeq Sarfudeen](https://openalex.org/A5093368488), [Pravati Panda](https://openalex.org/A5067954187), [Sellappan Senthilkumar](https://openalex.org/A5075161334), [Tamas Panda](https://openalex.org/A5012686513), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00210e.
+[V. Ananth](https://openalex.org/A5021030063), [Venkatachalam Ashok](https://openalex.org/A5057554515), [Selvam Mathi](https://openalex.org/A5050750294), [Saravanan Pandiaraj](https://openalex.org/A5001629698), [Shofiur Rahman](https://openalex.org/A5022628334), [Nassir Al‐Arifi](https://openalex.org/A5083008293), [Abdullah Alodhayb](https://openalex.org/A5026460148), [Nagaraj P. Shetti](https://openalex.org/A5090106395), FlatChem. None(None)] 2024.https://doi.org/10.1016/j.flatc.2024.100648.
     
-Three new isostructural MOFs (ZnTIA, CoTIA and CdTIA) were synthesized by the solvothermal synthesis of organic linker 5-triazole isophthalic acid (5-TIA) with the transition metals Zn(II), Co(II) and Cd(II) salts...    
+No abstract    
 
     
 
@@ -453,17 +453,6 @@ OpenAlex: https://openalex.org/W4392791612
 Open access: False
     
 [Bosheng Zhang](https://openalex.org/A5025713069), [Panchao Zhao](https://openalex.org/A5053417225), [Junqiu Guo](https://openalex.org/A5028598891), [Hemu Pi](https://openalex.org/A5082665603), Fuel. 367(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131462.
-    
-No abstract    
-
-    
-
-## Template-Assisted Strategy for Synthesizing Transition Metal Oxyhydroxide For High-Efficiency Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392839595    
-Open access: False
-    
-[Ting Wang](https://openalex.org/A5068080767), [Xianxu Chu](https://openalex.org/A5016481203), [Xuelin Dong](https://openalex.org/A5084486318), [Yubing Lv](https://openalex.org/A5088963988), [Lu Wang](https://openalex.org/A5048414809), [Xiaopei Li](https://openalex.org/A5022078801), [Yanli Zhou](https://openalex.org/A5012540512), [Qiaoxia Li](https://openalex.org/A5071599644), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4752140.
     
 No abstract    
 

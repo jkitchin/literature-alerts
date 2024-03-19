@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 Mar 2024 00:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 00:43:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -208,16 +208,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301694</guid>
     </item>
     <item>
-      <title>Study of layered double hydroxides for the electrocatalytic reduction of CO2</title>
-      <link>https://openalex.org/W4392773097</link>
-      <description>A. Tarhini, No host. None(None)] 2023. https://openalex.org/W4392773097
-
-                No abstract</description>
-      <author>A. Tarhini</author>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392773097</guid>
-    </item>
-    <item>
       <title>Electrolyte effect in electrochemical reduction of CO2 on Cu electrode</title>
       <link>https://doi.org/10.29363/nanoge.matsus.2024.367</link>
       <description>Amanda C. Garcia, No host. None(None)] 2023. https://openalex.org/W4392704869
@@ -226,6 +216,16 @@
       <author>Amanda C. Garcia</author>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.367</guid>
+    </item>
+    <item>
+      <title>Study of layered double hydroxides for the electrocatalytic reduction of CO2</title>
+      <link>https://openalex.org/W4392773097</link>
+      <description>A. Tarhini, No host. None(None)] 2023. https://openalex.org/W4392773097
+
+                No abstract</description>
+      <author>A. Tarhini</author>
+      <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4392773097</guid>
     </item>
     <item>
       <title>Carbon-Supported Silver Catalysts for Electrocatalytic Reduction of CO2 to CO</title>
@@ -293,10 +293,10 @@
     <item>
       <title>Exploring the Effects of Ligands on Gold Nanoparticles for the Selective Reduction of CO2 to CO</title>
       <link>https://doi.org/10.29363/nanoge.matsus.2024.082</link>
-      <description>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala, No host. None(None)] 2023. https://openalex.org/W4392704565
+      <description>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#225;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala, No host. None(None)] 2023. https://openalex.org/W4392704565
 
                 No abstract</description>
-      <author>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#224;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala</author>
+      <author>&#193;lvaro Lozano Roche, Asia Porceddu, Laia Franc&#225;s, Jordi Garc&#237;a&#8208;Ant&#243;n, Xavier Sala</author>
       <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.29363/nanoge.matsus.2024.082</guid>
     </item>

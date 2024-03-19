@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Mar 18 00:44:46 2024
+Created on Tue Mar 19 00:43:35 2024
 
-Found 31 results from 2024-03-11 to 2024-03-18
+Found 31 results from 2024-03-12 to 2024-03-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -227,23 +227,23 @@ Carbon dioxide (CO2) adsorption and electron transport play an important role in
 
     
 
-## Study of layered double hydroxides for the electrocatalytic reduction of CO2   
-
-OpenAlex: https://openalex.org/W4392773097    
-Open access: True
-    
-[A. Tarhini](https://openalex.org/A5087757322), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04357430/document)).
-    
-No abstract    
-
-    
-
 ## Electrolyte effect in electrochemical reduction of CO2 on Cu electrode   
 
 OpenAlex: https://openalex.org/W4392704869    
 Open access: False
     
 [Amanda C. Garcia](https://openalex.org/A5079766978), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.367.
+    
+No abstract    
+
+    
+
+## Study of layered double hydroxides for the electrocatalytic reduction of CO2   
+
+OpenAlex: https://openalex.org/W4392773097    
+Open access: True
+    
+[A. Tarhini](https://openalex.org/A5087757322), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04357430/document)).
     
 No abstract    
 
@@ -320,7 +320,7 @@ The electrocatalytic conversion of carbon dioxide (CO2) into valuable carbon-bas
 OpenAlex: https://openalex.org/W4392704565    
 Open access: False
     
-[Álvaro Lozano Roche](https://openalex.org/A5053003716), [Asia Porceddu](https://openalex.org/A5094126796), [Laia Francàs](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.082.
+[Álvaro Lozano Roche](https://openalex.org/A5053003716), [Asia Porceddu](https://openalex.org/A5094126796), [Laia Francás](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.082.
     
 No abstract    
 
