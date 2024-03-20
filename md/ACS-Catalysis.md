@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Mar 19 00:43:36 2024
+Created on Wed Mar 20 00:43:25 2024
 
-Found 25 results from 2024-03-12 to 2024-03-19
+Found 25 results from 2024-03-13 to 2024-03-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Maximizing Thiophene–Sulfur Functional Groups in Carbon Catalysts for Highly Selective H2O2 Electrosynthesis   
-
-OpenAlex: https://openalex.org/W4392645655    
-Open access: False
-    
-[Rong-Hui Xie](https://openalex.org/A5032588552), [Chuanqi Cheng](https://openalex.org/A5069312764), [Ruguang Wang](https://openalex.org/A5040727266), [Jisi Li](https://openalex.org/A5080694011), [Erling Zhao](https://openalex.org/A5035642078), [Zhao Yang](https://openalex.org/A5024938458), [Yunlong Liu](https://openalex.org/A5020877890), [Jiaxin Guo](https://openalex.org/A5063185577), [Pengfei Yin](https://openalex.org/A5034248727), [Tao Ling](https://openalex.org/A5063986077), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00419.
-    
-No abstract    
-
-    
-
-## Pt/Fe-TiO2-Catalyzed Selective Carbonyl Hydrogenation: Fe-Promoted Hydrogen Spillover   
-
-OpenAlex: https://openalex.org/W4392649076    
-Open access: False
-    
-[Zhenchao Zhao](https://openalex.org/A5070144089), [Xiang Li](https://openalex.org/A5081640064), [Xin Liu](https://openalex.org/A5021687717), [Hongxia Gao](https://openalex.org/A5049629115), [Aiping Jia](https://openalex.org/A5017364023), [Songhai Xie](https://openalex.org/A5002873170), [Xiaojing Song](https://openalex.org/A5000265322), [Xiaoyan Liu](https://openalex.org/A5004349988), [Yang Fa](https://openalex.org/A5016532688), [Qihua Yang](https://openalex.org/A5004719521), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05478.
-    
-No abstract    
-
-    
-
-## Siteselective and Enantiocomplementary C(sp3)–H Oxyfunctionalization for Synthesis of α-Hydroxy Acids   
-
-OpenAlex: https://openalex.org/W4392658327    
-Open access: False
-    
-[Xin Lian](https://openalex.org/A5027467469), [Yingle Mao](https://openalex.org/A5028161422), [Zunyun Fu](https://openalex.org/A5018206556), [Weijie Zhang](https://openalex.org/A5030681379), [Jia-Yan Chen](https://openalex.org/A5058071351), [Dan Zhuo](https://openalex.org/A5092224606), [Mingyue Zheng](https://openalex.org/A5075749706), [Jiunn‐Tzong Wu](https://openalex.org/A5064221165), [Cangsong Liao](https://openalex.org/A5004928664), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00398.
-    
-Oxyfunctionalization of abundant carboxylic acids represents a direct approach to synthesizing α-hydroxy acids, which are valuable intermediates of various active pharmaceutical ingredients. Although ideal, the transformation is yet to be accomplished. Herein, enantiocomplementary C(sp3)–H oxyfunctionalization for the synthesis of α-hydroxy acids was realized by a cooperative strategy of substrate engineering, homologue screening and protein engineering of α-ketoglutarate-dependent nonheme iron aryloxyalkanoate dioxygenases. The reaction provided concise synthetic routes toward three types of 67 α-hydroxy acids with high efficiency and selectivity (yield up to 90% and ee up to >99%). The distinctive complementary reactions add to a growing repertoire of biocatalytic oxyfunctionalization reactions.    
-
-    
 
 ## Expedient Synthesis of Axially and Centrally Chiral Diaryl Ethers via Cobalt-Catalyzed Photoreductive Desymmetrization   
 
@@ -276,6 +243,39 @@ OpenAlex: https://openalex.org/W4392778422
 Open access: False
     
 [Natalie P. Romer](https://openalex.org/A5094145064), [Dong‐Joo Min](https://openalex.org/A5035229447), [Jason Y. Wang](https://openalex.org/A5073790823), [R. C. Walroth](https://openalex.org/A5008988198), [Kyle A. Mack](https://openalex.org/A5079382262), [Lauren E. Sirois](https://openalex.org/A5058605673), [Francis Gosselin](https://openalex.org/A5070408514), [Daniel Zell](https://openalex.org/A5007033462), [Abigail G. Doyle](https://openalex.org/A5077633918), [Matthew S. Sigman](https://openalex.org/A5005862481), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00650.
+    
+No abstract    
+
+    
+
+## Chemoselective Aerobic Oxidation of Alcohols Utilizing a Vanadium(V) Catalyst   
+
+OpenAlex: https://openalex.org/W4392793212    
+Open access: False
+    
+[Mitchell J Kitt](https://openalex.org/A5074586307), [Emily Amir](https://openalex.org/A5094149498), [Eleanor R. Sloane](https://openalex.org/A5094149499), [Douglas G. Fraser](https://openalex.org/A5010019178), [John E. Cerritelli](https://openalex.org/A5094149500), [Caroline S. M. Sabanos](https://openalex.org/A5094149501), [James McNeely](https://openalex.org/A5022391490), [John K. Snyder](https://openalex.org/A5087033954), [Linda H. Doerrer](https://openalex.org/A5034990232), [Aaron B. Beeler](https://openalex.org/A5042880525), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05638.
+    
+No abstract    
+
+    
+
+## Efficient Alkyne Semihydrogenation Catalysis Enabled by Synergistic Chemical and Thermal Modifications of a PdIn MOF   
+
+OpenAlex: https://openalex.org/W4392805147    
+Open access: True
+    
+[Jordan Santiago Martinez](https://openalex.org/A5034349817), [Jaime Mazarío](https://openalex.org/A5046780829), [Christian Wittee Lopes](https://openalex.org/A5066683833), [Susana Trasobares](https://openalex.org/A5069097457), [José J. Calvino](https://openalex.org/A5071740493), [Giovanni Agostini](https://openalex.org/A5086042043), [Pascual Oña‐Burgos](https://openalex.org/A5018654878), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00310 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00310)).
+    
+No abstract    
+
+    
+
+## Simple and Directed Immobilization of a Multicopper Oxidase on Flat Bare Gold Electrodes Provides High Catalytic Currents for O2 Reduction   
+
+OpenAlex: https://openalex.org/W4392805894    
+Open access: True
+    
+[F. Rizzo](https://openalex.org/A5057251796), [Vânia Brissos](https://openalex.org/A5087266348), [S. Villain](https://openalex.org/A5032735853), [Lı́gia O. Martins](https://openalex.org/A5053546193), [Felipe Conzuelo](https://openalex.org/A5055478208), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00516 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00516)).
     
 No abstract    
 

@@ -1,55 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Mar 19 00:43:35 2024
+Created on Wed Mar 20 00:43:23 2024
 
-Found 31 results from 2024-03-12 to 2024-03-19
+Found 29 results from 2024-03-13 to 2024-03-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Bioinspired Binickel Catalyst for Carbon Dioxide Reduction: The Importance of Metal–ligand Cooperation   
-
-OpenAlex: https://openalex.org/W4392638780    
-Open access: True
-    
-[Yao Xiao](https://openalex.org/A5079496622), [Fusheng Xie](https://openalex.org/A5088851400), [Zhang Hong-tao](https://openalex.org/A5020753697), [Ming‐Tian Zhang](https://openalex.org/A5020808232), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.4c00047 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacsau.4c00047)).
-    
-No abstract    
-
-    
-
-## Accelerated screening of gas diffusion electrodes for carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4392649765    
-Open access: True
-    
-[Ryan J. R. Jones](https://openalex.org/A5041734836), [Ying‐Chih Lai](https://openalex.org/A5059376070), [Dan Guevarra](https://openalex.org/A5030566949), [Kevin Kan](https://openalex.org/A5073163389), [Joel A. Haber](https://openalex.org/A5033925671), [John M. Gregoire](https://openalex.org/A5037026533), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-m8dtd ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65e75705e9ebbb4db9f75bf1/original/accelerated-screening-of-gas-diffusion-electrodes-for-carbon-dioxide-reduction.pdf)).
-    
-The electrochemical conversion of carbon dioxide to chemicals and fuels is expected to be a key sustainability technology. Electrochemical carbon dioxide reduction technologies are challenged by several factors, including the limited solubility of carbon dioxide in aqueous electrolyte as well as the difficulty in utilizing polymer electrolytes. These considerations have driven systems designs to incorporate gas diffusion electrodes (GDEs) to bring the electrocatalyst in contact with both a gaseous reactant/product stream as well as a liquid electrolyte. GDE optimization typically results from manual tuning by select experts. Automated preparation and operation of GDE cells could be a watershed for the systematic study of, and ultimately the development of a materials acceleration platform (MAP) for, catalyst discovery and system optimization. Toward this end, we present the automated GDE (AutoGDE) testing system. Given a catalyst-coated GDE, AutoGDE automates the insertion of the GDE into an electrochemical cell, the liquid and gas handling, the quantification of gaseous reaction products via online mass spectroscopy, and the archiving of the liquid electrolyte for subsequent analysis.    
-
-    
-
-## Synergistic promotion for the performance of photocatalytic carbon dioxide reduction by vacancy engineering and N-doped carbon nanotubes   
-
-OpenAlex: https://openalex.org/W4392659274    
-Open access: False
-    
-[Min Wang](https://openalex.org/A5015102287), [Jing Xie](https://openalex.org/A5001935045), [Zhenjiang Lu](https://openalex.org/A5027671620), [Fanlin Kong](https://openalex.org/A5010078147), [Baolin Liu](https://openalex.org/A5005466268), [Zhende Wu](https://openalex.org/A5075086500), [Yali Cao](https://openalex.org/A5085766817), Separation and Purification Technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.127063.
-    
-The structural devise of photocatalytic materials are closely related to the separation of photogenerated carriers and the transport of charge, which is crucial to enhance the performance of photocatalytic carbon dioxide reduction reaction (CO2RR). Here, a photocatalyst (CdS-SV@Co@NCNT) has been successfully prepared by growing cadmium sulfide nanoparticles with sulfur vacancies on N-doped carbon nanotubes through a simple solvothermal method. The intrinsic electronic structure is regulated by sulfur vacancies to promote photocatalytic activity. Meanwhile, a larger specific surface area of Co@NCNT could expose more reaction sites and shorten the transfer distance of photogenerated carriers. Furthermore, the combination with Co@NCNT could effectively suppress the photocorrosion of CdS. The possible photocatalytic CO2RR path is further speculated by in-situ infrared test results, in which CO2 molecules adsorbed on sulfur vacancies preferentially generate important intermediate COOH*, which is then reduced to CO and CH4. Therefore, it exhibits a high CO yield of 263.3 μmol·g−1·h−1 and trace of CH4 while showing excellent stability. This research provides a novel idea for designing the photocatalysts with highly active and stability for CO2RR.    
-
-    
-
-## Scale-Up Study of Electrochemical Carbon Dioxide Reduction Process Through Data-Driven Modelling   
-
-OpenAlex: https://openalex.org/W4392666560    
-Open access: False
-    
-[G.Q. Zhang](https://openalex.org/A5072654050), [Xiaoteng Liu](https://openalex.org/A5057337284), [Hanhui Lei](https://openalex.org/A5062468621), [Yucheng Wang](https://openalex.org/A5057307061), [Denise Bildan](https://openalex.org/A5093323800), [Xing Liu](https://openalex.org/A5039412958), [Xiangqun Zhuge](https://openalex.org/A5031191155), [Zhihong Luo](https://openalex.org/A5054819836), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4755410.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
 
 ## 1 nm Tin Oxide Cluster for the Electrochemical Conversion of Carbon Dioxide to Formate at Low Overpotential   
 
@@ -150,17 +106,6 @@ Abstract Paired electrolysis offers an auspicious strategy for the generation of
 
     
 
-## Construction of Au-modified CN-based donor-acceptor system coupled with dual photothermal effects for efficient photoreduction of carbon dioxide   
-
-OpenAlex: https://openalex.org/W4392820351    
-Open access: False
-    
-[Xianghai Song](https://openalex.org/A5024847508), [Dongsheng He](https://openalex.org/A5045338371), [Weiqiang Zhou](https://openalex.org/A5045429112), [Yuanfeng Wu](https://openalex.org/A5082241382), [Xin Liu](https://openalex.org/A5021687717), [Zhi Zhu](https://openalex.org/A5011238951), [Pengwei Huo](https://openalex.org/A5000294498), [Mei Wang](https://openalex.org/A5035322817), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.090.
-    
-Conversion of CO2 into high value-added fuels through the photothermal effect is an effective approach for utilizing solar energy. In this study, we prepared the CN-based photocatalyst Py-CTN-Au with both donor-acceptor (D-A) system and dual photothermal effects using a simple two-step method involving calcination and photo-deposition. Real-time monitoring with a thermal imaging camera revealed that Py-CTN-Au0.5 achieved a maximum stable temperature of 180 °C, which was approximately 1.2 times higher than that of Py-CTN (155 °C) and 1.9 times higher than that of g-CN (95 °C) under the same reaction conditions. Under the optimized reaction conditions, Py-CTN-Au0.5 exhibited a CO release rate of 30.59 umol g−1 after 4 h of reaction, which was 7.3 times higher than that of pure g-CN (4.18 umol g−1). The D-A system not only facilitated the separation and transformation of charge carriers but also induced a photothermal effect to accelerate the photoreduction of CO2. Additionally, the cocatalyst Au nanoparticles (Au NPs) further enhanced the charge carrier dynamics and photothermal effect by increasing the built-in electric field intensity and localized surface plasmon resonance (LSPR) effect, respectively. The dual photothermal effects resulting from the non-radiative photon conversion of the D-A structure and the Au NPs LSPR effect, along with the enhanced charge carrier dynamics, catalyzed the efficient photoreduction of CO2. DFT simulations were used to confirm the effect of D-A system and Au NPs. In-situ FTIR results demonstrated that the synergistic photothermal effect promoted the formation of the key intermediate species COOH*, which is beneficial for the photocatalytic reduction of CO2. This study provides valuable insights into the multiple photothermal synergistic effects in photocatalytic reactions.    
-
-    
-
 ## Synergistic Promotion for the Performance of Photocatalytic Carbon Dioxide Reduction by Vacancy Engineering and N-Doped Carbon Nanotubes   
 
 OpenAlex: https://openalex.org/W4392839620    
@@ -194,28 +139,6 @@ No abstract
 
     
 
-## Effect of Carbon Dioxide on Bromantane Syntesis by Reductive Amination without an External Hydrogen Source   
-
-OpenAlex: https://openalex.org/W4392658822    
-Open access: True
-    
-[D. Kletnov](https://openalex.org/A5094118477), [Klim O. Biriukov](https://openalex.org/A5084149613), [А. Е. Николаев](https://openalex.org/A5049091066), [Oleg I. Afanasyev](https://openalex.org/A5052276614), [Denis Chusov](https://openalex.org/A5087933572), ИНЭОС OPEN. None(None)] 2024.https://doi.org/10.32931/io2307a.
-    
-The effect of carbon dioxide on the reaction of bromantane synthesis by reductive amination using carbon monoxide as a reducing agent has been studied. A nonlinear dependence of the yield of the target product on the ratio of gases was observed. It was found that, depending on the conditions, carbon dioxide could both decrease and increase the yield of bromantane.    
-
-    
-
-## Multi-purpose afforestation scenarios under climate change for carbon dioxide reduction&#160;   
-
-OpenAlex: https://openalex.org/W4392645629    
-Open access: False
-    
-[Florian Kraxner](https://openalex.org/A5052135651), [Dmitry Schepaschenko](https://openalex.org/A5059691294), [Sabine Fuss](https://openalex.org/A5011197728), [Andrey Krasovskiy](https://openalex.org/A5000752663), [А. Shvidenko](https://openalex.org/A5003804635), [Georg Kindermann](https://openalex.org/A5055674721), [Hyun-Woo Jo](https://openalex.org/A5050291308), [Woo‐Kyun Lee](https://openalex.org/A5034477242), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-egu24-19777.
-    
-This study aims at identifying the carbon dioxide reduction (CDR) potential of large-scale and multi-purpose afforestation/reforestation at the global level with special emphasis on the Mid-Latitude Region (MLR). Applying a combined remote sensing/GIS approach coupled with biophysical forest and disturbance modeling under various climate change scenarios, we identify potential afforestation locations, inter-alia on abandoned agricultural land and on areas burnt from wild land fires. With the help of IIASA&#8217;s biophysical global forestry model (G4M), we calculate the associated land-based CDR potentials through carbon sequestration in afforested biomass and through climate risk-resilient and sustainable forest management dedicated to the supply of bioenergy plants coupled with carbon capture and storage (BECCS) facilities. Finally, three promising scenarios have been identified including I) afforestation; II) reforestation; and III) BECCS. In all scenarios, priority is put on sustainable forest management and nature/biodiversity conservation. Forest modeling results have been combined with recent data sets which have been overlayed in order to provide a unique basis to estimate the land-based CDR technologies&#8217; potential to mitigate climate change and contribute to reaching the goals of the Paris Agreement. In the case of afforestation, preliminary results indicate a total potential afforestation area greater than 1 billion ha. &#160;The largest area potential for afforestation have been identified in the USA. Given the higher productivity (combined with large area available), Brazil is the country with the highest total CDR potential of close to 500 MtC/yr.    
-
-    
-
 ## Amorphous ZnSnOx Hollow Spheres Enable Highly Efficient CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4392697772    
@@ -227,23 +150,23 @@ Carbon dioxide (CO2) adsorption and electron transport play an important role in
 
     
 
-## Electrolyte effect in electrochemical reduction of CO2 on Cu electrode   
-
-OpenAlex: https://openalex.org/W4392704869    
-Open access: False
-    
-[Amanda C. Garcia](https://openalex.org/A5079766978), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.367.
-    
-No abstract    
-
-    
-
 ## Study of layered double hydroxides for the electrocatalytic reduction of CO2   
 
 OpenAlex: https://openalex.org/W4392773097    
 Open access: True
     
 [A. Tarhini](https://openalex.org/A5087757322), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04357430/document)).
+    
+No abstract    
+
+    
+
+## Electrolyte effect in electrochemical reduction of CO2 on Cu electrode   
+
+OpenAlex: https://openalex.org/W4392704869    
+Open access: False
+    
+[Amanda C. Garcia](https://openalex.org/A5079766978), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.367.
     
 No abstract    
 
@@ -260,14 +183,14 @@ The work described in this thesis was aimed at understanding the influence of st
 
     
 
-## Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts   
+## The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents   
 
-OpenAlex: https://openalex.org/W4392704678    
-Open access: False
+OpenAlex: https://openalex.org/W4392917891    
+Open access: True
     
-[Carlos G. Morales‐Guio](https://openalex.org/A5074179289), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.418.
+[James McGregor](https://openalex.org/A5038489652), [Jay T. Bender](https://openalex.org/A5030622040), [Amanda Petersen](https://openalex.org/A5051069278), [Louise M. Cañada](https://openalex.org/A5072421825), [Jan Rossmeisl](https://openalex.org/A5083668074), [Joan F. Brennecke](https://openalex.org/A5033320611), [Joaquin Resasco](https://openalex.org/A5018687349), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-wl1bg ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65f630efe9ebbb4db9da50e8/original/the-role-of-organic-cations-in-the-electrochemical-reduction-of-co2-in-aprotic-solvents.pdf)).
     
-No abstract    
+The electrochemical reduction of CO2 is sensitive to the microenvironment surrounding catalytic active sites. Although the impact of changing electrolyte composition on CO2 reduction kinetics in aqueous electrolytes has been studied intensively, less is known about the influence of the electrochemical environment in non-aqueous solvents. Here, we present data demonstrating that organic alkyl ammonium cations influence catalytic performance in non-aqueous media and describe a physical model that rationalizes these observations. Using results from a combination of kinetic, spectroscopic, and computational techniques, we argue that the interfacial electric field present at the catalyst surface is sensitive to the molecular identity of the organic cation in the aprotic electrolyte. This is true irrespective of solvent, electrolyte ionic strength, or the supporting electrolyte counter anion. Our results suggest that changes in the interfacial field can be attributed to differences in the cation-electrode distance. Changes in the electric field strength are consequential to CO2R to CO as they modify the energetics of the kinetically relevant CO2 activation step.    
 
     
 
@@ -282,14 +205,14 @@ Purpose: This study analyzes the causal relationships between CO2 emissions and 
 
     
 
-## CuSnBi Catalyst Grown on Copper Foam by Co-Electrodeposition for Efficient Electrochemical Reduction of CO2 to Formate   
+## Reaction-transport kinetics in the electrochemical reduction of CO2 on copper catalysts   
 
-OpenAlex: https://openalex.org/W4392648975    
-Open access: True
+OpenAlex: https://openalex.org/W4392704678    
+Open access: False
     
-[Hangxin Xie](https://openalex.org/A5060151594), [Li Lv](https://openalex.org/A5034973415), [Yuan Sun](https://openalex.org/A5036120236), [Chunlai Wang](https://openalex.org/A5045162736), [Jialin Xu](https://openalex.org/A5035720806), [Min Tang](https://openalex.org/A5017813339), Catalysts. 14(3)] 2024.https://doi.org/10.3390/catal14030191 ([pdf](https://www.mdpi.com/2073-4344/14/3/191/pdf?version=1710145813)).
+[Carlos G. Morales‐Guio](https://openalex.org/A5074179289), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.418.
     
-Effective electrochemical reduction of carbon dioxide to formate under mild conditions helps mitigate the energy crisis but requires the use of high-performance catalysts. The addition of a third metal to the binary metal catalyst may further promote the electrochemical reduction of carbon dioxide to formate. Herein, we provided a co-electrodeposition method to grow CuSnBi catalysts on pretreated copper foam and discussed the effects of both pH value and molar ratio of metal ions (Cu2+, Sn2+, and Bi3+) in the electrodeposition solution on the electrocatalytic performance of CO2 to HCOO−. When the pH value of the electrodeposition solution was 8.5 and the molar ratio of Cu2+, Sn2+, and Bi3+ was 1:1:1, the electrode showed the highest FEHCOO− of 91.79% and the formate partial current density of 36.6 mA·cm−2 at −1.12 VRHE. Furthermore, the electrode kept stable for 20 h at −1.12 VRHE, and FEHCOO− was always beyond 85% during the electrolysis process, which is excellent compared to the previously reported ternary metal catalytic electrodes. This work highlights the vital impact of changes (pH value and molar ratio of metal ions) in electrodeposition liquid on catalytic electrodes and their catalytic performance, and refreshing the electrolyte is essential to maintain the activity and selectivity during the electrochemical reduction of CO2 to HCOO−.    
+No abstract    
 
     
 
@@ -320,7 +243,7 @@ The electrocatalytic conversion of carbon dioxide (CO2) into valuable carbon-bas
 OpenAlex: https://openalex.org/W4392704565    
 Open access: False
     
-[Álvaro Lozano Roche](https://openalex.org/A5053003716), [Asia Porceddu](https://openalex.org/A5094126796), [Laia Francás](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.082.
+[Álvaro Lozano Roche](https://openalex.org/A5053003716), [Asia Porceddu](https://openalex.org/A5094126796), [Laia Francàs](https://openalex.org/A5020337283), [Jordi García‐Antón](https://openalex.org/A5080028922), [Xavier Sala](https://openalex.org/A5039090961), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.082.
     
 No abstract    
 
@@ -345,5 +268,60 @@ Open access: False
 [Foroogh Khezeli](https://openalex.org/A5033012669), No host. None(None)] 2024.https://doi.org/10.31390/gradschool_dissertations.6240.
     
 Electrochemical CO2 reduction (ECO2RR) has emerged as a promising approach for generating carbon-neutral liquid fuels by utilizing excess renewable electricity to convert CO2. This thesis aims to employ atomistic simulations by using Density Functional Theory (DFT) to investigate the mechanistic details of how transition metal sulfides and electro-organocatalysts can enhance the activity and selectivity towards desired products, including those containing C-H bonds and molecules with C-C bonds. For this project, three different electrocatalysts were designed computationally.    
+
+    
+
+## Revisiting the Electrochemical Reduction of Co2 on Au25(Sr)18- Nanocluster   
+
+OpenAlex: https://openalex.org/W4392876479    
+Open access: False
+    
+[Dominic Alfonso](https://openalex.org/A5072077291), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4761900.
+    
+No abstract    
+
+    
+
+## Electrochemical CO2 reduction on a copper foam electrode at elevated pressures   
+
+OpenAlex: https://openalex.org/W4392878167    
+Open access: True
+    
+[Nandalal Girichandran](https://openalex.org/A5004840773), [Saeed Saedy](https://openalex.org/A5006118572), [Ruud Kortlever](https://openalex.org/A5047438735), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150478.
+    
+No abstract    
+
+    
+
+## atomically-precise catalysts for the electrochemical reduction of CO2 at industrially-relevant reaction rates   
+
+OpenAlex: https://openalex.org/W4392704686    
+Open access: False
+    
+[Aurélien Viterisi](https://openalex.org/A5056652684), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.552.
+    
+No abstract    
+
+    
+
+## Computational Screening Of Non-copper-based Catalysts For Electrochemical CO2 Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4392704888    
+Open access: False
+    
+[Samira Siahrostami](https://openalex.org/A5003552620), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.301.
+    
+No abstract    
+
+    
+
+## CO2 Reduction and Water Oxidation: Catalysts and Mechanisms Related to Solar Liquid Fuels   
+
+OpenAlex: https://openalex.org/W4392704673    
+Open access: False
+    
+[Javier J. Concepcion](https://openalex.org/A5080197399), No host. None(None)] 2023.https://doi.org/10.29363/nanoge.matsus.2024.427.
+    
+No abstract    
 
     

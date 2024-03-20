@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Mar 2024 00:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 00:43:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Maximizing Thiophene&#8211;Sulfur Functional Groups in Carbon Catalysts for Highly Selective H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Electrosynthesis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00419</link>
-      <description>Rong-Hui Xie, Chuanqi Cheng, Ruguang Wang, Jisi Li, Erling Zhao, Zhao Yang, Yunlong Liu, Jiaxin Guo, Pengfei Yin, Tao Ling, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392645655
-
-                No abstract</description>
-      <author>Rong-Hui Xie, Chuanqi Cheng, Ruguang Wang, Jisi Li, Erling Zhao, Zhao Yang, Yunlong Liu, Jiaxin Guo, Pengfei Yin, Tao Ling</author>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00419</guid>
-    </item>
-    <item>
-      <title>Pt/Fe-TiO&lt;sub&gt;2&lt;/sub&gt;-Catalyzed Selective Carbonyl Hydrogenation: Fe-Promoted Hydrogen Spillover</title>
-      <link>https://doi.org/10.1021/acscatal.3c05478</link>
-      <description>Zhenchao Zhao, Xiang Li, Xin Liu, Hongxia Gao, Aiping Jia, Songhai Xie, Xiaojing Song, Xiaoyan Liu, Yang Fa, Qihua Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392649076
-
-                No abstract</description>
-      <author>Zhenchao Zhao, Xiang Li, Xin Liu, Hongxia Gao, Aiping Jia, Songhai Xie, Xiaojing Song, Xiaoyan Liu, Yang Fa, Qihua Yang</author>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05478</guid>
-    </item>
-    <item>
-      <title>Siteselective and Enantiocomplementary C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Oxyfunctionalization for Synthesis of &#945;-Hydroxy Acids</title>
-      <link>https://doi.org/10.1021/acscatal.4c00398</link>
-      <description>Xin Lian, Yingle Mao, Zunyun Fu, Weijie Zhang, Jia-Yan Chen, Dan Zhuo, Mingyue Zheng, Jiunn&#8208;Tzong Wu, Cangsong Liao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392658327
-
-                Oxyfunctionalization of abundant carboxylic acids represents a direct approach to synthesizing &#945;-hydroxy acids, which are valuable intermediates of various active pharmaceutical ingredients. Although ideal, the transformation is yet to be accomplished. Herein, enantiocomplementary C(sp3)&#8211;H oxyfunctionalization for the synthesis of &#945;-hydroxy acids was realized by a cooperative strategy of substrate engineering, homologue screening and protein engineering of &#945;-ketoglutarate-dependent nonheme iron aryloxyalkanoate dioxygenases. The reaction provided concise synthetic routes toward three types of 67 &#945;-hydroxy acids with high efficiency and selectivity (yield up to 90% and ee up to &gt;99%). The distinctive complementary reactions add to a growing repertoire of biocatalytic oxyfunctionalization reactions.</description>
-      <author>Xin Lian, Yingle Mao, Zunyun Fu, Weijie Zhang, Jia-Yan Chen, Dan Zhuo, Mingyue Zheng, Jiunn&#8208;Tzong Wu, Cangsong Liao</author>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00398</guid>
-    </item>
     <item>
       <title>Expedient Synthesis of Axially and Centrally Chiral Diaryl Ethers via Cobalt-Catalyzed Photoreductive Desymmetrization</title>
       <link>https://doi.org/10.1021/acscatal.4c00001</link>
@@ -256,6 +226,36 @@
       <author>Natalie P. Romer, Dong&#8208;Joo Min, Jason Y. Wang, R. C. Walroth, Kyle A. Mack, Lauren E. Sirois, Francis Gosselin, Daniel Zell, Abigail G. Doyle, Matthew S. Sigman</author>
       <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00650</guid>
+    </item>
+    <item>
+      <title>Chemoselective Aerobic Oxidation of Alcohols Utilizing a Vanadium(V) Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.3c05638</link>
+      <description>Mitchell J Kitt, Emily Amir, Eleanor R. Sloane, Douglas G. Fraser, John E. Cerritelli, Caroline S. M. Sabanos, James McNeely, John K. Snyder, Linda H. Doerrer, Aaron B. Beeler, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392793212
+
+                No abstract</description>
+      <author>Mitchell J Kitt, Emily Amir, Eleanor R. Sloane, Douglas G. Fraser, John E. Cerritelli, Caroline S. M. Sabanos, James McNeely, John K. Snyder, Linda H. Doerrer, Aaron B. Beeler</author>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05638</guid>
+    </item>
+    <item>
+      <title>Efficient Alkyne Semihydrogenation Catalysis Enabled by Synergistic Chemical and Thermal Modifications of a PdIn MOF</title>
+      <link>https://doi.org/10.1021/acscatal.4c00310</link>
+      <description>Jordan Santiago Martinez, Jaime Mazar&#237;o, Christian Wittee Lopes, Susana Trasobares, Jos&#233; J. Calvino, Giovanni Agostini, Pascual O&#241;a&#8208;Burgos, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392805147
+
+                No abstract</description>
+      <author>Jordan Santiago Martinez, Jaime Mazar&#237;o, Christian Wittee Lopes, Susana Trasobares, Jos&#233; J. Calvino, Giovanni Agostini, Pascual O&#241;a&#8208;Burgos</author>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00310</guid>
+    </item>
+    <item>
+      <title>Simple and Directed Immobilization of a Multicopper Oxidase on Flat Bare Gold Electrodes Provides High Catalytic Currents for O&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c00516</link>
+      <description>F. Rizzo, V&#226;nia Brissos, S. Villain, L&#305;&#769;gia O. Martins, Felipe Conzuelo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392805894
+
+                No abstract</description>
+      <author>F. Rizzo, V&#226;nia Brissos, S. Villain, L&#305;&#769;gia O. Martins, Felipe Conzuelo</author>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00516</guid>
     </item>
   </channel>
 </rss>
