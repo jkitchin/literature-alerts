@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 00:45:27 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Liquid metals for boosting stability of zeolite catalysts in the conversion of methanol to hydrocarbons</title>
-      <link>https://doi.org/10.1038/s41467-024-46232-9</link>
-      <description>Zhou Yong, Sara G.S. Santos, Mariya Shamzhy, Maya Marinova, Anne-Marie Blanchenet, Yu. G. Kolyagin, Pardis Simon, Martine Trentesaux, Sharmin Sharna, Ovidiu Ersen, Vladimir L. Zholobenko, Mark Saeys, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky, Nature Communications. 15(1)] 2024. https://openalex.org/W4392683122
-
-                Abstract Methanol-to-hydrocarbons (MTH) process has been considered one of the most practical approaches for producing value-added products from methanol. However, the commonly used zeolite catalysts suffer from rapid deactivation due to coke deposition and require regular regeneration treatments. We demonstrate that low-melting-point metals, such as Ga, can effectively promote more stable methanol conversion in the MTH process by slowing coke deposition and facilitating the desorption of carbonaceous species from the zeolite. The ZSM-5 zeolite physically mixed with liquid gallium exhibited an enhanced lifetime in the MTH reaction, which increased by a factor of up to ~14 as compared to the parent ZSM-5. These results suggest an alternative route to the design and preparation of deactivation-resistant zeolite catalysts.</description>
-      <author>Zhou Yong, Sara G.S. Santos, Mariya Shamzhy, Maya Marinova, Anne-Marie Blanchenet, Yu. G. Kolyagin, Pardis Simon, Martine Trentesaux, Sharmin Sharna, Ovidiu Ersen, Vladimir L. Zholobenko, Mark Saeys, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky</author>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-46232-9</guid>
-    </item>
   </channel>
 </rss>

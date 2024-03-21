@@ -1,28 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Wed Mar 20 00:43:24 2024
+Created on Thu Mar 21 00:45:27 2024
 
-Found 1 results from 2024-03-13 to 2024-03-20
+Found 0 results from 2024-03-14 to 2024-03-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
-* Liquid metals for boosting stability of zeolite catalysts in the conversion of methanol to hydrocarbons  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4392683122
-:TOPICS: Zeolite Chemistry and Catalysis, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2024-03-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-46232-9")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4392683122"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4392683122"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4392683122"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4392683122 (Open access: True)
-    
-[[https://openalex.org/A5020270438][Zhou Yong]], [[https://openalex.org/A5057603337][Sara G.S. Santos]], [[https://openalex.org/A5022925375][Mariya Shamzhy]], [[https://openalex.org/A5012017317][Maya Marinova]], [[https://openalex.org/A5036989355][Anne-Marie Blanchenet]], [[https://openalex.org/A5029455110][Yu. G. Kolyagin]], [[https://openalex.org/A5065081833][Pardis Simon]], [[https://openalex.org/A5006361817][Martine Trentesaux]], [[https://openalex.org/A5001697749][Sharmin Sharna]], [[https://openalex.org/A5019629936][Ovidiu Ersen]], [[https://openalex.org/A5013783828][Vladimir L. Zholobenko]], [[https://openalex.org/A5047450222][Mark Saeys]], [[https://openalex.org/A5047164399][Andreï Y. Khodakov]], [[https://openalex.org/A5061148466][Vitaly V. Ordomsky]], Nature Communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-46232-9  ([[https://www.nature.com/articles/s41467-024-46232-9.pdf][pdf]])
-     
-Abstract Methanol-to-hydrocarbons (MTH) process has been considered one of the most practical approaches for producing value-added products from methanol. However, the commonly used zeolite catalysts suffer from rapid deactivation due to coke deposition and require regular regeneration treatments. We demonstrate that low-melting-point metals, such as Ga, can effectively promote more stable methanol conversion in the MTH process by slowing coke deposition and facilitating the desorption of carbonaceous species from the zeolite. The ZSM-5 zeolite physically mixed with liquid gallium exhibited an enhanced lifetime in the MTH reaction, which increased by a factor of up to ~14 as compared to the parent ZSM-5. These results suggest an alternative route to the design and preparation of deactivation-resistant zeolite catalysts.    
-
-    

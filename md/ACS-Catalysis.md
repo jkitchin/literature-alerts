@@ -1,131 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Mar 20 00:43:25 2024
+Created on Thu Mar 21 00:45:28 2024
 
-Found 25 results from 2024-03-13 to 2024-03-20
+Found 25 results from 2024-03-14 to 2024-03-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Expedient Synthesis of Axially and Centrally Chiral Diaryl Ethers via Cobalt-Catalyzed Photoreductive Desymmetrization   
-
-OpenAlex: https://openalex.org/W4392682464    
-Open access: False
-    
-[Yishou Wang](https://openalex.org/A5069332742), [Ruijie Mi](https://openalex.org/A5051272053), [Songjie Yu](https://openalex.org/A5082881031), [Xingwei Li](https://openalex.org/A5061667297), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00001.
-    
-No abstract    
-
-    
-
-## Recent Advances in Doping Strategies to Improve Electrocatalytic Hydrogen Evolution Performance of Molybdenum Disulfide   
-
-OpenAlex: https://openalex.org/W4392693992    
-Open access: False
-    
-[Yuehan Jia](https://openalex.org/A5069543971), [Yuchen Zhang](https://openalex.org/A5066097652), [Huibin Xu](https://openalex.org/A5042441491), [Jia Li](https://openalex.org/A5033673973), [Ming Gao](https://openalex.org/A5007232564), [Xiaotian Yang](https://openalex.org/A5010431648), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05053.
-    
-The exhaustion of fossil fuels and resultant pollution issues have prompted the world to look to clean, nonpolluting hydrogen energy. The promising approach of the electrocatalytic hydrogen evolution reaction (HER) presents a solution for addressing energy and environmental challenges. Consequently, creating high-performance and cost-effective electrocatalysts is essential for the efficient decomposition of water. Molybdenum disulfide (MoS2) has emerged as the most promising among potential electrocatalysts to replace platinum. However, only the edge-site of MoS2 is active for HER due to the MoS2 semiconductive nature and large inactive basal planes. Doping various substances, which significantly improves HER activity, can enhance MoS2's physical and chemical properties. Our Review encapsulates the latest strategies and research advancements in choosing heteroatomic-doped MoS2 for hydrogen production. Various doping elements impart unique physical and chemical properties to MoS2. Specifically, doping with noble metals (e.g., Ag, Pt, Ru, Pd, Rh) and transition metals (e.g., Fe, V, Ni, Mn, Co, Zn, W), as well as codoping with multiple metal atoms (e.g., Cu-Pd, Pt-Te, Co-Nb, Ni-Co), can significantly enhance conductivity and introduce new active sites. These dopants are recognized for activating the basal plane of MoS2, thereby enhancing the HER activity. Furthermore, doping with nonmetallic elements (e.g., N, F, P, An, O) and their codoping combinations (e.g., O-P, N-F, Se-O), as well as the codoping of nonmetal and metal atoms (e.g., Co-Se, Co-P, N-Pt, Ru-O), is crucial for inducing phase conversions and improving stability. Each dopant contributes distinctively, either by enhancing the stability of MoS2, serving as a catalytic site, or broadening the pH range for effective HER. In this discussion, we further explore the current challenges and outlook of this promising area. Furthermore, we discuss existing challenges and promising guidelines for future research on the MoS2-based catalyst, offering advice to translation from laboratory research to large-scale industrial hydrogen production.    
-
-    
-
-## Solar-Driven Highly Effective Biomass-Derived Alcohols C–C Coupling Integrated with H2 Production by CdS Quantum Dots Modified Zn2In2S5 Nanosheets   
-
-OpenAlex: https://openalex.org/W4392697716    
-Open access: False
-    
-[Zongyi Huang](https://openalex.org/A5090435812), [Pengfei Sun](https://openalex.org/A5009066967), [Huizhen Zhang](https://openalex.org/A5031458979), [Haikun Zhang](https://openalex.org/A5087450865), [Shuhong Zhang](https://openalex.org/A5063612918), [Zhou Chen](https://openalex.org/A5045122395), [Xiaodong Yi](https://openalex.org/A5062526485), [Shunji Xie](https://openalex.org/A5026338239), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05826.
-    
-No abstract    
-
-    
-
-## Confined Trinuclear Ru Sites in Phosphine-Incorporated Porous Organic Polymers for the Direct Synthesis of Alcohols from Reductive Hydroformylation of Alkenes   
-
-OpenAlex: https://openalex.org/W4392697742    
-Open access: False
-    
-[Yuchuan Zhu](https://openalex.org/A5014698881), [Zhaozhan Wang](https://openalex.org/A5078319852), [Yuanjun Zhao](https://openalex.org/A5066239611), [Xin Zhou](https://openalex.org/A5001744159), [Yan Zhang](https://openalex.org/A5046692026), [Yong Yang](https://openalex.org/A5000648383), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06221.
-    
-No abstract    
-
-    
-
-## Kinetics of Redox Half-Cycles on Bi2O3 for the Selective Catalytic Combustion of Hydrogen   
-
-OpenAlex: https://openalex.org/W4392697744    
-Open access: False
-    
-[Mark Jacob](https://openalex.org/A5025021152), [Huy Hoàng Nguyễn](https://openalex.org/A5014100196), [Matthew Neurock](https://openalex.org/A5010884148), [Aditya Bhan](https://openalex.org/A5019481513), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05585.
-    
-No abstract    
-
-    
-
-## Temporal Resolution of Activity-Related Solvation Dynamics in the TIM Barrel Enzyme Murine Adenosine Deaminase   
-
-OpenAlex: https://openalex.org/W4392701608    
-Open access: False
-    
-[Shuaihua Gao](https://openalex.org/A5073092786), [Xin Wu](https://openalex.org/A5017455013), [Wenju Zhang](https://openalex.org/A5071928865), [Thomas Richardson](https://openalex.org/A5018223254), [Samuel L. Barrow](https://openalex.org/A5029064345), [Christian A. Thompson-Kucera](https://openalex.org/A5094126167), [Anthony T. Iavarone](https://openalex.org/A5025340342), [Judith P. Klinman](https://openalex.org/A5066409965), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c02687.
-    
-No abstract    
-
-    
-
-## Genome Mining for New Enzyme Chemistry   
-
-OpenAlex: https://openalex.org/W4392701824    
-Open access: True
-    
-[Dinh Thanh Nguyen](https://openalex.org/A5039360167), [Douglas A. Mitchell](https://openalex.org/A5020004066), [Wilfred A. van der Donk](https://openalex.org/A5067523147), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06322 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06322)).
-    
-No abstract    
-
-    
-
-## Unraveling the Oxygen Vacancy Site Mechanism of a Self-Assembly Hybrid Catalyst for Efficient Alkaline Water Oxidation   
-
-OpenAlex: https://openalex.org/W4392704093    
-Open access: False
-    
-[Xinshui Lei](https://openalex.org/A5028354405), [Jiang Chang](https://openalex.org/A5062987221), [Qingjun Han](https://openalex.org/A5052904254), [Xiao‐Xin Zhang](https://openalex.org/A5087609640), [Kai Zhao](https://openalex.org/A5023119885), [Ning Yan](https://openalex.org/A5060681396), [Haoxu Guo](https://openalex.org/A5009656214), [Bing Tang](https://openalex.org/A5035223262), [Yifan Li](https://openalex.org/A5085794085), [Yi Cui](https://openalex.org/A5063995082), [Shuhui Yu](https://openalex.org/A5083866862), [Jianhui Li](https://openalex.org/A5015670282), [Yanping Sun](https://openalex.org/A5040238316), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05789.
-    
-No abstract    
-
-    
-
-## Highly Active and Sulfur-Tolerant Ruthenium Phosphide Catalyst for Efficient Reductive Amination of Carbonyl Compounds   
-
-OpenAlex: https://openalex.org/W4392710185    
-Open access: False
-    
-[Hiroya Ishikawa](https://openalex.org/A5063444310), [Sho Yamaguchi](https://openalex.org/A5081649730), [Tomoo Mizugaki](https://openalex.org/A5068048324), [Takato Mitsudome](https://openalex.org/A5064171498), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06179.
-    
-No abstract    
-
-    
-
-## Electrocatalytic Hydrogenation of Furfural with Improved Activity and Selectivity at the Surface of Structured Copper Electrodes   
-
-OpenAlex: https://openalex.org/W4392710286    
-Open access: False
-    
-[Clément Spadetto](https://openalex.org/A5093295428), [Cyril Hachemi](https://openalex.org/A5016215045), [Maxime Nouaille-Degorce](https://openalex.org/A5093295429), [Loïc Pendu](https://openalex.org/A5093295430), [Lou Bossert](https://openalex.org/A5093295431), [Robert H. Temperton](https://openalex.org/A5080012269), [Andrey Shavorskiy](https://openalex.org/A5051598053), [L. Cardenas](https://openalex.org/A5014591915), [Mathieu S. Prévot](https://openalex.org/A5038868245), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05691.
-    
-No abstract    
-
-    
-
-## Silylarylation of Alkenes via meta-Selective C–H Activation of Arenes under Ruthenium/Iron Cooperative Catalysis: Mechanistic Insights from Combined Experimental and Computational Studies   
-
-OpenAlex: https://openalex.org/W4392710750    
-Open access: False
-    
-[Sukanya Neogi](https://openalex.org/A5085427623), [Sourav Bhunya](https://openalex.org/A5071160929), [Asim Kumar Ghosh](https://openalex.org/A5064879796), [Biswajit Sarkar](https://openalex.org/A5068681964), [Lisa Roy](https://openalex.org/A5053449233), [Alakananda Hajra](https://openalex.org/A5074084285), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00034.
-    
-No abstract    
-
-    
 
 ## Regulating the H2O2 Photosynthetic Activity of Covalent Organic Frameworks through Linkage Orientation   
 
@@ -278,5 +157,126 @@ Open access: True
 [F. Rizzo](https://openalex.org/A5057251796), [Vânia Brissos](https://openalex.org/A5087266348), [S. Villain](https://openalex.org/A5032735853), [Lı́gia O. Martins](https://openalex.org/A5053546193), [Felipe Conzuelo](https://openalex.org/A5055478208), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00516 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00516)).
     
 No abstract    
+
+    
+
+## Evolution of Co Species in CO2-Assisted Ethane Dehydrogenation: Competing Cleavage of C–H and C–C Bonds   
+
+OpenAlex: https://openalex.org/W4392812312    
+Open access: False
+    
+[Yingbin Zheng](https://openalex.org/A5056833841), [Junjie Li](https://openalex.org/A5031004784), [Xinbao Zhang](https://openalex.org/A5016801627), [Shaoguo Li](https://openalex.org/A5036201967), [Jie An](https://openalex.org/A5083651634), [Fucun Chen](https://openalex.org/A5064315252), [Xiujie Li](https://openalex.org/A5053489117), [Xiangxue Zhu](https://openalex.org/A5024904994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00324.
+    
+No abstract    
+
+    
+
+## Lewis Acid Sites in (110) Facet-Exposed BiOBr Promote C–H Activation and Selective Photocatalytic Toluene Oxidation   
+
+OpenAlex: https://openalex.org/W4392818266    
+Open access: False
+    
+[Zhou Guang-hong](https://openalex.org/A5025099894), [Ben Lei](https://openalex.org/A5079746842), [Fan Dong](https://openalex.org/A5065938824), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00877.
+    
+Solar photocatalytic technology has exhibited significant potential for upgrading the value-added chemicals industry through efficient C–H bond activation, such as selective photocatalytic toluene oxidation. However, improvement in the C–H bond activation of toluene is still a challenge. Herein, (110) facet-exposed BiOBr (EC-BiOBr) synthesized via a facile crystal facet control strategy exhibited an increasing exposure of Lewis acid sites, as confirmed by in situ Fourier-transform infrared spectroscopy (FT-IR) using ammonia as a probe molecule. In situ FT-IR results substantiated the improved absorption capacity of EC-BiOBr for toluene. Density functional theory (DFT) calculations indicated that the Lewis acid–base pairs formed by Bi sites and O sites can adsorb toluene directionally, precisely matching the orbit spaces of the conduction band (Bi 6p state) and valence band (O 2p and Br 4p states). Benefiting from the oriented adsorption of toluene, the electron in the C–H bond could transfer to a photogenerated hole precisely, thus achieving C–H bond activation. Compared to (001) facet-exposed BiOBr (H–BiOBr), an 11-fold improvement in the toluene conversion rate (from 233 to 2460 μmol g–1 h–1) was observed in the EC-BiOBr group, and the benzaldehyde formation rate increased from 233 to 1623 μmol g–1 h–1. Active species identification and DFT calculations revealed that the superoxide radicals were involved as the primary reactive species in the subsequent oxidation of benzyl radicals generated from the C–H bond activation of toluene. This work highlights the importance of the surface acid sites regulated by the crystal facet control strategy, which is conducive to the rational design of photocatalysts with high performance in C–H bond activation.    
+
+    
+
+## Lewis and Brønsted Acid Synergistic Catalysis for Efficient Synthesis of Hydroxylamine over Heteroatom Zeolites   
+
+OpenAlex: https://openalex.org/W4392818365    
+Open access: False
+    
+[Nan Fang](https://openalex.org/A5010768366), [Kai Huo](https://openalex.org/A5082317827), [Yucheng Jin](https://openalex.org/A5035509439), [Dongxu Li](https://openalex.org/A5043446520), [Henry C. Lin](https://openalex.org/A5044162367), [Haoyue Wu](https://openalex.org/A5022272877), [Xuguang Liu](https://openalex.org/A5071872234), [Yueming Liu](https://openalex.org/A5025333492), [Min He](https://openalex.org/A5064426002), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00179.
+    
+Environmental and efficient synthesis of NH2OH is challenging. Herein, we have provided a route for efficient NH2OH formation by NH3 oxidation via the synergistic catalysis of Lewis acid sites of the framework Ti (Ti LAS) and Brønsted acid sites of the framework Al (Al BAS) in Ti–Al-MOR zeolites. Ti LAS was the active center for formation of transition-state NH2OH, while Al BAS could provide the proton H to convert transition-state NH2OH absorbed on Ti LAS to a [NH3OH]+ species. Protonation effect would not only promote the catalytic cycle process resulting from accelerating the desorption of transition-state NH2OH, but also improve the stability of NH2OH, being less prone to oxidative decomposition. In this work, we presented the synergistic catalysis between LAS and BAS over Ti-containing heteroatom zeolites to accelerate the catalytic cycle, which provided an environmental and efficient method for NH2OH formation.    
+
+    
+
+## Codecoration of Phosphate and Iron for Improving Oxygen Evolution Reaction of Layered Ni(OH)2/NiOOH   
+
+OpenAlex: https://openalex.org/W4392858728    
+Open access: False
+    
+[Yuexiang Li](https://openalex.org/A5004400089), [Junliang Liu](https://openalex.org/A5003542013), [Shuqi Li](https://openalex.org/A5037202025), [Shaoqin Peng](https://openalex.org/A5090997117), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00229.
+    
+Hydrogen production through electrochemical water splitting (EWS) presents a viable solution for addressing the fossil energy crisis. However, the commercial viability of this approach is impeded by the sluggish kinetics of the oxygen evolution reaction (OER). It is urgently needed to develop efficient, stable, and cost-effective OER electrocatalysts. Herein, we comprehensively design and investigate a phosphate ion and Fe3+ codecorating Ni(OH)2/NiOOH electrocatalyst (Pi-Fe:NiOH) for OER. This codecoration induces multiple synergistic effects, which include an increase in the interlayer water content for the internal OER, altering the OER mechanism, facilitating proton transport across the layers, and improving the stability of Pi-Fe:NiOH. Consequently, Pi-Fe:NiOH exhibits a high OER activity with overpotentials of 118 ± 1 and 222 ± 4 mV at current densities of 10 and 100 mA cm–2, respectively. More impressively, it maintains stable operation at a high current density of around 300 mA cm–2 for at least 500 h, much better than the Ni(OH)2/NiOOH electrocatalyst (NiOH) for less than 6 h at a current density below 200 mA cm–2. These findings offer insights for the design of anion–cation codoped hydroxide eletrocatalysts, paving a way for the development of efficient and stable OER electrocatalysts.    
+
+    
+
+## Low-Temperature N-Allylation of Allylic Alcohols via Synergistic Pd/Cu Catalysis: A Silica-Supported Dual-Metal-Complex Strategy   
+
+OpenAlex: https://openalex.org/W4392862288    
+Open access: False
+    
+[Shun-ichi Sakai](https://openalex.org/A5058787571), [Shingo Hasegawa](https://openalex.org/A5046493438), [Siming Ding](https://openalex.org/A5027744480), [Ryota Osuga](https://openalex.org/A5039390377), [Kiyotaka Nakajima](https://openalex.org/A5010166652), [Shinji Tanaka](https://openalex.org/A5069114564), [Wang‐Jae Chun](https://openalex.org/A5048569737), [Ken Motokura](https://openalex.org/A5031367549), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00638.
+    
+N-allylation is an important method for constructing C–N bonds in fine chemical synthesis. Accumulation of catalytically active species on the same support surface is a promising approach for achieving high catalytic efficiency. In this study, we developed a catalyst comprising Pd and Cu complexes immobilized on a silica surface. The dual-metal-complex catalyst catalyzed the N-allylation of aniline using allyl alcohol at the low temperature of 30 °C with tunable selectivity toward mono- and disubstituted products. The coimmobilization of a Cu complex increased the turnover number of the Pd complex 5.3 times, which was much higher than those of reported heterogeneous catalysts used at reaction temperatures higher than 100 °C. A wide substrate scope, recyclability, and suppression of aggregation and leaching were also confirmed. Whereas synergy was scarcely observed for the simple mixture of homogeneous Pd and Cu complexes, the dual-complex catalyst exhibited significant synergy, indicating concerted catalysis on the solid surface. Spectroscopic analysis, including XAFS, in situ IR, and DNP-enhanced 15N NMR, and density functional theory calculations indicated that an aniline molecule is activated by the Cu complex, resulting in the efficient nucleophilic attack to a π-allylpalladium intermediate.    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4392863198    
+Open access: True
+    
+, ACS Catalysis. 14(6)] 2024.https://doi.org/10.1021/csv014i006_1781035 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i006_1781035)).
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4392863485    
+Open access: True
+    
+, ACS Catalysis. 14(6)] 2024.https://doi.org/10.1021/csv014i006_1781034 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i006_1781034)).
+    
+No abstract    
+
+    
+
+## Highly Stable Self-Cleaning Paints Based on Waste-Valorized PNC-Doped TiO2 Nanoparticles   
+
+OpenAlex: https://openalex.org/W4392864297    
+Open access: True
+    
+[Qaisar Maqbool](https://openalex.org/A5040018493), [O. Favoni](https://openalex.org/A5034237345), [Thomas Wicht](https://openalex.org/A5092012504), [Niusha Lasemi](https://openalex.org/A5062541617), [Simona Sabbatini](https://openalex.org/A5004487085), [Michael Stöger‐Pollach](https://openalex.org/A5075669045), [Maria Letizia Ruello](https://openalex.org/A5067525362), [Francesca Tittarelli](https://openalex.org/A5030318710), [Günther Rupprechter](https://openalex.org/A5088541152), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06203 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06203)).
+    
+Adding photocatalytically active TiO2 nanoparticles (NPs) to polymeric paints is a feasible route toward self-cleaning coatings. While paint modification by TiO2-NPs may improve photoactivity, it may also cause polymer degradation and release of toxic volatile organic compounds. To counterbalance adverse effects, a synthesis method for nonmetal (P, N, and C)-doped TiO2-NPs is introduced, based purely on waste valorization. PNC-doped TiO2-NP characterization by vibrational and photoelectron spectroscopy, electron microscopy, diffraction, and thermal analysis suggests that TiO2-NPs were modified with phosphate (P═O), imine species (R═N-R), and carbon, which also hindered the anatase/rutile phase transformation, even upon 700 °C calcination. When added to water-based paints, PNC-doped TiO2-NPs achieved 96% removal of surface-adsorbed pollutants under natural sunlight or UV, paralleled by stability of the paint formulation, as confirmed by micro-Fourier transform infrared (FTIR) surface analysis. The origin of the photoinduced self-cleaning properties was rationalized by three-dimensional (3D) and synchronous photoluminescence spectroscopy, indicating that the dopants led to 7.3 times stronger inhibition of photoinduced e–/h+ recombination when compared to a benchmark P25 photocatalyst.    
+
+    
+
+## Copper Photocatalyzed Divergent Access to Organic Thio- and Isothiocyanates   
+
+OpenAlex: https://openalex.org/W4392878350    
+Open access: True
+    
+[Youssef Abderrazak](https://openalex.org/A5083685166), [Oliver Reiser](https://openalex.org/A5012339913), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00565 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00565)).
+    
+No abstract    
+
+    
+
+## Atroposelective Synthesis of Diarylamines via Organocatalyzed Electrophilic Amination   
+
+OpenAlex: https://openalex.org/W4392900769    
+Open access: False
+    
+[Zidan Ye](https://openalex.org/A5085053591), [Wansen Xie](https://openalex.org/A5012699384), [Donglei Wang](https://openalex.org/A5038300996), [Hua Lee](https://openalex.org/A5006115076), [Xiaoyu Yang](https://openalex.org/A5007301912), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00414.
+    
+No abstract    
+
+    
+
+## How Poisoning Is Avoided in a Step of Relevance to the Haber–Bosch Catalysis   
+
+OpenAlex: https://openalex.org/W4392906279    
+Open access: False
+    
+[S. K. Tripathi](https://openalex.org/A5007651637), [Luigi Bonati](https://openalex.org/A5090217494), [Simone Perego](https://openalex.org/A5004491813), [Michele Parrinello](https://openalex.org/A5023487560), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06201.
+    
+For a catalyst to be efficient and durable, it is crucial that the reaction products do not poison the catalyst. In the case of the Haber–Bosch process, the rate-limiting step is believed to be the decomposition of nitrogen molecules on the Fe(111) surface. This step leads to the production on the surface of atomic nitrogen (N*), which, unless hydrogenated and eventually released as ammonia, remains adsorbed and occupies the active sites. Thus, it is important to ascertain how a high N* coverage affects the nitrogen dissociative chemisorption. To answer this question, we study the properties of the Fe(111) surface at different N* coverage both at room and operando temperature. In the latter regime, we have already found that Fe surface atoms exhibit a high mobility, promoting the formation of adatoms and vacancies, and causing the catalytic centers to acquire a finite lifetime [Bonati et al. Proceedings of the National Academy of Sciences 2023, 120 (50), e2313023120]. We discover that the N* coverage reduces but does not eliminate the iron mobility. Remarkably, the N* atoms stabilize triangular surface structures associated with the formation of vacancies, which are a sign of a frustrated drive toward a more stable Fe4N phase. As a consequence, nitrogen atoms tend to cluster, reducing their poisoning effect. At the same time, the reduction in the number of catalytic centers is counteracted by an increase in their lifetime. The combined effect is that the dissociation barrier is not significantly altered in the range of coverages studied. These results bring to light the complex role that dynamics plays in catalytic reactivity under operando conditions.    
 
     
