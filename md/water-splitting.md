@@ -1,88 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Thu Mar 21 00:45:24 2024
+Created on Fri Mar 22 00:43:36 2024
 
-Found 44 results from 2024-03-14 to 2024-03-21
+Found 41 results from 2024-03-15 to 2024-03-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## A series of Isostructural Metal-Organic Frameworks for Enhanced Electro-catalytic Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392741361    
-Open access: False
-    
-[Pampa Jhariat](https://openalex.org/A5070860189), [Abdul Kareem](https://openalex.org/A5032926378), [Priyanka Kumari](https://openalex.org/A5056422496), [Shafeeq Sarfudeen](https://openalex.org/A5093368488), [Pravati Panda](https://openalex.org/A5067954187), [Sellappan Senthilkumar](https://openalex.org/A5075161334), [Tamas Panda](https://openalex.org/A5012686513), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00210e.
-    
-Three new isostructural MOFs (ZnTIA, CoTIA and CdTIA) were synthesized by the solvothermal synthesis of organic linker 5-triazole isophthalic acid (5-TIA) with the transition metals Zn(II), Co(II) and Cd(II) salts...    
-
-    
-
-## Robust amorphous iron (II) diphosphate on nickel foam: Aggrandizing electronic structure for efficient catalytic activity towards oxygen evolution and urea oxidation   
-
-OpenAlex: https://openalex.org/W4392743132    
-Open access: False
-    
-[Rishabh Srivastava](https://openalex.org/A5083977559), [Himanshu Chaudhary](https://openalex.org/A5054091382), [Anuj Kumar](https://openalex.org/A5087525540), [Felipe M. de Souza](https://openalex.org/A5088511185), [Sanjay R. Mishra](https://openalex.org/A5041564790), [Felio Pérez](https://openalex.org/A5054635980), [Phuong V. Pham](https://openalex.org/A5077934250), [Ram K. Gupta](https://openalex.org/A5091126286), International Journal of Hydrogen Energy. 62(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.091.
-    
-No abstract    
-
-    
-
-## Recent progress of electrocatalysts for acidic oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392743186    
-Open access: False
-    
-[Yuping Chen](https://openalex.org/A5005711039), [Chunyan Shang](https://openalex.org/A5011544541), [Xin Xiao](https://openalex.org/A5016588737), [Weihua Guo](https://openalex.org/A5084740267), [Qiang Xu](https://openalex.org/A5064109029), Coordination Chemistry Reviews. 508(None)] 2024.https://doi.org/10.1016/j.ccr.2024.215758.
-    
-No abstract    
-
-    
-
-## Hourglass-shaped Nickel-based Polyoxometalate Crystalline Material as a Highly-Efficient Bifunctional Electrocatalyst for Oxygen Evolution Reaction and Detection of H2O2   
-
-OpenAlex: https://openalex.org/W4392749461    
-Open access: False
-    
-[Yajie Li](https://openalex.org/A5049364245), [Na Zhu](https://openalex.org/A5010040953), [Zhixuan Su](https://openalex.org/A5089161277), [Xiaoli Hu](https://openalex.org/A5009015146), [Dou Zhang](https://openalex.org/A5025678097), [Zhong‐Min Su](https://openalex.org/A5053619563), Inorganic chemistry frontiers. None(None)] 2024.https://doi.org/10.1039/d3qi02401f.
-    
-The development of high-performance and low-cost catalysts toward the oxygen evolution reaction (OER) is critical for making them promising candidates to replace noble metal catalysts. Here, we report a novel...    
-
-    
-
-## Unraveling the evolution of oxygen vacancies in TiO2−x/Cu and its role in CO2 hydrogenation   
-
-OpenAlex: https://openalex.org/W4392751552    
-Open access: False
-    
-[Ke Wang](https://openalex.org/A5026906414), [Fanxing Zhang](https://openalex.org/A5010868208), [Ning Cao](https://openalex.org/A5071386298), [Ying Bao](https://openalex.org/A5005829822), [Yan Mao](https://openalex.org/A5005798114), [K. Yan](https://openalex.org/A5049193477), [Pengfei Xie](https://openalex.org/A5051365489), Science China Chemistry. None(None)] 2024.https://doi.org/10.1007/s11426-023-1995-6.
-    
-No abstract    
-
-    
-
-## Strongly coupled cobalt–molybdenum–boron nanoparticles anchored on graphene oxide as highly efficient electrocatalyst for oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392773532    
-Open access: False
-    
-[Qihang He](https://openalex.org/A5037635383), [Lei Wang](https://openalex.org/A5073216396), [Xiao Feng](https://openalex.org/A5051932876), [Rong Su](https://openalex.org/A5075154205), [Lichuan Chen](https://openalex.org/A5047676862), [Jihong Yu](https://openalex.org/A5061982597), [Baohua Jia](https://openalex.org/A5084237401), [Ping He](https://openalex.org/A5006258869), [Yiming Zeng](https://openalex.org/A5033508513), [Yun Zhang](https://openalex.org/A5056277706), [Ying Wang](https://openalex.org/A5058837931), [Bin Tang](https://openalex.org/A5078279335), Ionics. None(None)] 2024.https://doi.org/10.1007/s11581-024-05443-2.
-    
-No abstract    
-
-    
-
-## Facile synthesis of perovskite SrCeO3 nanocomposite with reduced graphene oxide via hydrothermal route for effective oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392777101    
-Open access: False
-    
-[Rabab Zahra](https://openalex.org/A5067574548), [B. M. Alotaibi](https://openalex.org/A5013992412), [Albandari W. Alrowaily](https://openalex.org/A5018295795), [Haifa A. Alyousef](https://openalex.org/A5085473140), [A. Dahshan](https://openalex.org/A5017232290), [A.M.A. Henaish](https://openalex.org/A5051797797), Fuel. 367(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131442.
-    
-No abstract    
-
-    
 
 ## Nickel-cobalt alloy oxide nanoparticles wrapped by carbon black for efficient oxygen evolution electrocatalysis   
 
@@ -282,6 +205,83 @@ Hydrogen production through electrochemical water splitting (EWS) presents a via
 
     
 
+## Enhancing Oxygen Evolution Reaction through In Situ Electrochemical Oxidation for the Structural Control of Co-Fe Prussian Blue Analogue   
+
+OpenAlex: https://openalex.org/W4392864024    
+Open access: False
+    
+[Yajuan Chen](https://openalex.org/A5038443359), [Jing Tang](https://openalex.org/A5006160595), [Weijun Li](https://openalex.org/A5065940997), [Jielei Tu](https://openalex.org/A5016936123), [Chunmao Huang](https://openalex.org/A5009579842), No host. None(None)] 2024.https://doi.org/10.53964/id.2024005.
+    
+The development of exceptionally efficient catalysts for the oxygen evolution reaction (OER) and gaining a deep understanding of their activity is essential for advancing electrochemical conversion technologies. Prussian blue analogues (PBAs) serve as promising pre-catalysts for the OER. However, PBAs, typically prepared through the conventional co-precipitation method, exhibit a lower active site density and limited electrical transport, making them suitable precursors for the derivation of PBA derivatives. In this research, we identified a significant enhancement in the electrocatalytic performance of Co-Fe Prussian blue analogue (CoFe PBA) through electrochemical oxidation. The cubic CoFe PBA was synthesized by one-step co-precipitation method using adjusting the amount of sodium citrate and potassium ferricyanide. After the electrochemical treatment, CoFe PBA demonstrates remarkable attributes, including a low overpotential of 331mV at a current density of 10mA·cm-2, a small Tafel slope of 50.4mV·dec-1, and excellent long-term stability during electrolysis in a 1M KOH alkaline medium for over 37h. Moreover, the electrochemical oxidation of CoFe PBA was comprehensive, employing techniques such as Transmission electron microscope, Powder X-ray diffraction, and X-ray photoelectron spectroscopy. These analyses confirmed the presence of real active substances, including CoOOH and a part of FeOOH species, further supporting the observed improvements in electrocatalytic activity.    
+
+    
+
+## Enhanced electrochemical performance of MoSe2 nanosheets on CoAl- layered double hydroxide for oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4392867646    
+Open access: False
+    
+[Sadık Çoğal](https://openalex.org/A5031745899), [Matej Mičušík](https://openalex.org/A5090612043), [Petr Knotek](https://openalex.org/A5038989179), [Klára Melánová](https://openalex.org/A5084647992), [Vı́tězslav Zima](https://openalex.org/A5032261821), [Mária Omastová](https://openalex.org/A5068760970), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174173.
+    
+No abstract    
+
+    
+
+## Unlocking the potential of Heusler alloy Ni2CuSn as an electro(pre)catalyst for enhanced oxygen evolution reaction performance   
+
+OpenAlex: https://openalex.org/W4392876211    
+Open access: False
+    
+[Priyanka Lakharwal](https://openalex.org/A5051252043), [Haseeb Ahmed](https://openalex.org/A5026713442), [Vikrant Chaudhary](https://openalex.org/A5073922594), [Prayas Chandra Patel](https://openalex.org/A5005208395), [H.C. Kandpal](https://openalex.org/A5066394784), [Deepak Gujjar](https://openalex.org/A5024707197), Journal of Materials Science. None(None)] 2024.https://doi.org/10.1007/s10853-024-09520-9.
+    
+No abstract    
+
+    
+
+## Electronic Structure Modulation of Oxygen‐Enriched Defective CdS for Efficient Photocatalytic H2O2 Production   
+
+OpenAlex: https://openalex.org/W4392885077    
+Open access: False
+    
+[Youhong Tang](https://openalex.org/A5044348175), [Fangshou Ye](https://openalex.org/A5001115885), [Binrong Li](https://openalex.org/A5059984809), [Tingyu Yang](https://openalex.org/A5012152145), [Fengyi Yang](https://openalex.org/A5037154247), [Jiafu Qu](https://openalex.org/A5067714128), [Xiaogang Yang](https://openalex.org/A5053203610), [Yahui Cai](https://openalex.org/A5043648786), [Jundie Hu](https://openalex.org/A5016334301), Small. None(None)] 2024.https://doi.org/10.1002/smll.202400376.
+    
+Abstract Artificial photosynthesis for hydrogen peroxide (H 2 O 2 ) presents a sustainable and environmentally friendly approach to generate clean fuel and chemicals. However, the catalytic activity is hindered by challenges such as severe charge recombination, insufficient active sites, and poor selectivity. Here, a robust strategy is proposed to regulate the electronic structure of catalyst by the collaborative effect of defect engineering and dopant. The well designed oxygen‐doped CdS nanorods with S 2− defects and Cd 2+ 4 d 10 electron configuration (CdS‐O,S v ) is successfully synthesized, and the Cd 2+ active sites around S defects or oxygen atoms exhibit rapid charge separation, suppressed carrier recombination, and enhanced charge utilization. Consequently, a remarkable H 2 O 2 production rate of 1.62 mmol g −1 h −1 under air conditions is acquired, with an apparent quantum yield (AQY) of 9.96% at a single wavelength of 450 nm. This work provides valuable insights into the synergistic effect between defect and doping on catalytic activity.    
+
+    
+
+## Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024)   
+
+OpenAlex: https://openalex.org/W4392888445    
+Open access: True
+    
+[Shangshang Zuo](https://openalex.org/A5042219386), [Yuan Liao](https://openalex.org/A5088676995), [Chenchen Wang](https://openalex.org/A5029322489), [Aaron B. Naden](https://openalex.org/A5030097467), [John T. S. Irvine](https://openalex.org/A5005373361), Small. 20(11)] 2024.https://doi.org/10.1002/smll.202470090 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470090)).
+    
+SmallVolume 20, Issue 11 2470090 FrontispieceFree Access Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024) Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author First published: 15 March 2024 https://doi.org/10.1002/smll.202470090AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2308867, John T. S. Irvine and co-workers show that the oxygen evolution reaction performance of Ti-based perovskite can be enhanced by exsolving Co nanoparticles, which are surface-anchored onto the parent perovskite. This exsolution process effectively prevents nanoparticle agglomeration and improves atom utilization efficiency, leading to significantly higher mass activity. Volume20, Issue11March 15, 20242470090 RelatedInformation    
+
+    
+
+## Synthesis of bimetal-decorated N-doped carbon nanoparticles for enhanced oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4392891549    
+Open access: False
+    
+[V. Ananth](https://openalex.org/A5021030063), [Venkatachalam Ashok](https://openalex.org/A5057554515), [Selvam Mathi](https://openalex.org/A5050750294), [Saravanan Pandiaraj](https://openalex.org/A5001629698), [Shofiur Rahman](https://openalex.org/A5022628334), [Nassir Al‐Arifi](https://openalex.org/A5083008293), [Abdullah Alodhayb](https://openalex.org/A5026460148), [Nagaraj P. Shetti](https://openalex.org/A5090106395), FlatChem. None(None)] 2024.https://doi.org/10.1016/j.flatc.2024.100648.
+    
+No abstract    
+
+    
+
+## Rich Oxygen Vacancy and Amorphous/Crystalline Ru-Doped Cocu-Layered Double Hydroxide Electrocatalysts for Enhanced Oxygen Evolution Reactions   
+
+OpenAlex: https://openalex.org/W4392898470    
+Open access: False
+    
+[Yanan Wang](https://openalex.org/A5042533031), [Jing Li](https://openalex.org/A5012677271), [Wei Jiang](https://openalex.org/A5021515289), [Yuanyuan Wu](https://openalex.org/A5003974631), [Bo Liu](https://openalex.org/A5063969338), [Yan Sun](https://openalex.org/A5086456973), [Xianyu Chu](https://openalex.org/A5018421998), [Chunbo Liu](https://openalex.org/A5090115579), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4762334.
+    
+No abstract    
+
+    
+
 ## F-doped carbon/Co3O4 composite catalyst for alkaline oxygen evolution   
 
 OpenAlex: https://openalex.org/W4392913142    
@@ -304,12 +304,12 @@ Developing highly efficient electrocatalysts for the oxygen evolution reaction (
 
     
 
-## Core-shell cobalt iron oxide nanoparticles for the electrocatalysis of the oxygen evolution reaction   
+## Observing Long-Lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
 
-OpenAlex: https://openalex.org/W4392769583    
-Open access: True
+OpenAlex: https://openalex.org/W4392979881    
+Open access: False
     
-[Lisa Royer](https://openalex.org/A5083775184), No host. None(None)] 2022.None ([pdf](https://theses.hal.science/tel-04213561/document)).
+[Ruben Mirzoyan](https://openalex.org/A5033073802), [Alec H. Follmer](https://openalex.org/A5059450539), [Ryan G. Hadt](https://openalex.org/A5071708486), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c03269.
     
 No abstract    
 
@@ -348,17 +348,6 @@ Design the electrocatalysts without noble metal is still a challenge for oxygen 
 
     
 
-## Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024)   
-
-OpenAlex: https://openalex.org/W4392888445    
-Open access: True
-    
-[Shangshang Zuo](https://openalex.org/A5042219386), [Yuan Liao](https://openalex.org/A5088676995), [Chenchen Wang](https://openalex.org/A5029322489), [Aaron B. Naden](https://openalex.org/A5030097467), [John T. S. Irvine](https://openalex.org/A5005373361), Small. 20(11)] 2024.https://doi.org/10.1002/smll.202470090 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470090)).
-    
-SmallVolume 20, Issue 11 2470090 FrontispieceFree Access Improving the Oxygen Evolution Reaction: Exsolved Cobalt Nanoparticles on Titanate Perovskite Catalyst (Small 11/2024) Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author Shangshang Zuo, Shangshang Zuo School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorYuan Liao, Yuan Liao School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorChenchen Wang, Chenchen Wang School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorAaron B. Naden, Aaron B. Naden School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this authorJohn T. S. Irvine, John T. S. Irvine School of Chemistry, University of St Andrews, St Andrews, Fife, KY16 9ST UKSearch for more papers by this author First published: 15 March 2024 https://doi.org/10.1002/smll.202470090AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2308867, John T. S. Irvine and co-workers show that the oxygen evolution reaction performance of Ti-based perovskite can be enhanced by exsolving Co nanoparticles, which are surface-anchored onto the parent perovskite. This exsolution process effectively prevents nanoparticle agglomeration and improves atom utilization efficiency, leading to significantly higher mass activity. Volume20, Issue11March 15, 20242470090 RelatedInformation    
-
-    
-
 ## Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction   
 
 OpenAlex: https://openalex.org/W4392917251    
@@ -367,17 +356,6 @@ Open access: True
 [Licheng Yu](https://openalex.org/A5036418431), [Wenwen Zhang](https://openalex.org/A5052588320), [Zhihao Nie](https://openalex.org/A5089766491), [Jingjing Duan](https://openalex.org/A5067865085), [Sheng Chen](https://openalex.org/A5039744969), RSC Advances. 14(13)] 2024.https://doi.org/10.1039/d3ra08873a.
     
 We utilize machine learning (ML) to accelerate the synthesis of MOFs, starting by building a library of over 900 MOFs with different metal salts, solvent ratios and reaction tine, and then utilizing zeta potentials as target variables for ML training.    
-
-    
-
-## Synthesis of bimetal-decorated N-doped carbon nanoparticles for enhanced oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392891549    
-Open access: False
-    
-[V. Ananth](https://openalex.org/A5021030063), [Venkatachalam Ashok](https://openalex.org/A5057554515), [Selvam Mathi](https://openalex.org/A5050750294), [Saravanan Pandiaraj](https://openalex.org/A5001629698), [Shofiur Rahman](https://openalex.org/A5022628334), [Nassir Al‐Arifi](https://openalex.org/A5083008293), [Abdullah Alodhayb](https://openalex.org/A5026460148), [Nagaraj P. Shetti](https://openalex.org/A5090106395), FlatChem. None(None)] 2024.https://doi.org/10.1016/j.flatc.2024.100648.
-    
-No abstract    
 
     
 
@@ -422,17 +400,6 @@ Open access: False
 [Shicheng Xu](https://openalex.org/A5051296316), [Siqi Chen](https://openalex.org/A5090385327), [Yuxin Li](https://openalex.org/A5002803940), [Qiong Gao](https://openalex.org/A5001140222), [Xin Luo](https://openalex.org/A5088955392), [Min Li](https://openalex.org/A5052024256), [Long‐Fei Ren](https://openalex.org/A5084673350), [Peng Wang](https://openalex.org/A5049078993), [Liping Liu](https://openalex.org/A5021809579), [Jun Wang](https://openalex.org/A5049074404), [Xianjie Chen](https://openalex.org/A5015286714), [Qian Chen](https://openalex.org/A5068290128), [Yongfa Zhu](https://openalex.org/A5004893546), Small. None(None)] 2024.https://doi.org/10.1002/smll.202400344.
     
 Abstract Organic supramolecular photocatalysts have garnered widespread attention due to their adjustable structure and exceptional photocatalytic activity. Herein, a novel bis‐dicarboxyphenyl‐substituent naphthalenediimide self‐assembly supramolecular photocatalyst (SA‐NDI‐BCOOH) with efficient dual‐functional photocatalytic performance is successfully constructed. The large molecular dipole moment and short‐range ordered stacking structure of SA‐NDI‐BCOOH synergistically create a giant internal electric field (IEF), resulting in a remarkable 6.7‐fold increase in its charge separation efficiency. Additionally, the tetracarboxylic structure of SA‐NDI‐BCOOH greatly enhances its hydrophilicity. Thus, SA‐NDI‐BCOOH demonstrates efficient dual‐functional activity for photocatalytic hydrogen and oxygen evolution, with rates of 372.8 and 3.8 µmol h −1 , respectively. Meanwhile, a notable apparent quantum efficiency of 10.86% at 400 nm for hydrogen evolution is achieved, prominently surpassing many reported supramolecular photocatalysts. More importantly, with the help of dual co‐catalysts, it exhibits photocatalytic overall water splitting activity with H 2 and O 2 evolution rates of 3.2 and 1.6 µmol h −1 . Briefly, this work sheds light on enhancing the IEF by controlling the molecular polarity and stacking structure to dramatically improve the photocatalytic performance of supramolecular materials.    
-
-    
-
-## Intermetallic Cobalt Indium Nanoparticles as Oxygen Evolution Reaction Precatalyst: A Non‐Leaching p‐Block Element   
-
-OpenAlex: https://openalex.org/W4392782764    
-Open access: True
-    
-[J. Niklas Hausmann](https://openalex.org/A5033292901), [Marten L. P. Ashton](https://openalex.org/A5052063617), [Stefan Mebs](https://openalex.org/A5025002760), [Carsten Walter](https://openalex.org/A5040951340), [Sören Selve](https://openalex.org/A5083154124), [Michael Haumann](https://openalex.org/A5008932544), [Tobias Sontheimer](https://openalex.org/A5087747378), [Holger Dau](https://openalex.org/A5054018303), [Matthias Drieß](https://openalex.org/A5051647346), [Prashanth W. Menezes](https://openalex.org/A5009720807), Small. None(None)] 2024.https://doi.org/10.1002/smll.202309749 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202309749)).
-    
-Abstract Merely all transition‐metal‐based materials reconstruct into similar oxyhydroxides during the electrocatalytic oxygen evolution reaction (OER), severely limiting the options for a tailored OER catalyst design. In such reconstructions, initial constituent p‐block elements take a sacrificial role and leach into the electrolyte as oxyanions, thereby losing the ability to tune the catalyst's properties systematically. From a thermodynamic point of view, indium is expected to behave differently and should remain in the solid phase under alkaline OER conditions. However, the structural behavior of transition metal indium phases during the OER remains unexplored. Herein, are synthesized intermetallic cobalt indium (CoIn 3 ) nanoparticles and revealed by in situ X‐ray absorption spectroscopy and scanning transmission microscopy that they undergo phase segregation to cobalt oxyhydroxide and indium hydroxide. The obtained cobalt oxyhydroxide outperforms a metallic‐cobalt‐derived one due to more accessible active sites. The observed phase segregation shows that indium behaves distinctively differently from most p‐block elements and remains at the electrode surface, where it can form lasting interfaces with the active metal oxo phases.    
 
     
 

@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:43:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Regulating the H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Photosynthetic Activity of Covalent Organic Frameworks through Linkage Orientation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00278</link>
-      <description>Jie-Yu Yue, Li-Ping Song, Zi-Xian Pan, Peng Yang, Yu Ma, Qing Xu, Bo Tang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392740340
-
-                No abstract</description>
-      <author>Jie-Yu Yue, Li-Ping Song, Zi-Xian Pan, Peng Yang, Yu Ma, Qing Xu, Bo Tang</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00278</guid>
-    </item>
-    <item>
-      <title>Functionally Diverse Peroxygenases by AlphaFold2, Design, and Signal Peptide Shuffling</title>
-      <link>https://doi.org/10.1021/acscatal.4c00883</link>
-      <description>Judith M&#252;nch, N.L. Dietz, S. Barber-Zucker, F. Seifert, Susanne Matschi, Pascal P&#252;llmann, Sarel J. Fleishman, Martin J. Weissenborn, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392744707
-
-                Unspecific peroxygenases (UPOs) are fungal enzymes that attract significant attention for their ability to perform versatile oxyfunctionalization reactions using H2O2. Unlike other oxygenases, UPOs do not require additional reductive equivalents or electron transfer chains that complicate basic and applied research. Nevertheless, UPOs generally exhibit low to no heterologous production levels and only four UPO structures have been determined to date by crystallography limiting their usefulness and obstructing research. To overcome this bottleneck, we implemented a workflow that applies PROSS stability design to AlphaFold2 model structures of 10 unique and diverse UPOs followed by a signal peptide shuffling to enable heterologous production. Nine UPOs were functionally produced in Pichia pastoris, including the recalcitrant CciUPO and three UPOs derived from oomycetes&#9472;the first nonfungal UPOs to be experimentally characterized. We conclude that the high accuracy and reliability of new modeling and design workflows dramatically expand the pool of enzymes for basic and applied research.</description>
-      <author>Judith M&#252;nch, N.L. Dietz, S. Barber-Zucker, F. Seifert, Susanne Matschi, Pascal P&#252;llmann, Sarel J. Fleishman, Martin J. Weissenborn</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00883</guid>
-    </item>
-    <item>
-      <title>Transition State Analysis of Key Steps in Dual Photoredox-Cobalt-Catalyzed Elimination of Alkyl Bromides</title>
-      <link>https://doi.org/10.1021/acscatal.3c06324</link>
-      <description>Victor O. Nyagilo, Sharath Chandra Mallojjala, Jennifer S. Hirschi, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392746939
-
-                No abstract</description>
-      <author>Victor O. Nyagilo, Sharath Chandra Mallojjala, Jennifer S. Hirschi</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06324</guid>
-    </item>
-    <item>
-      <title>Insights on the Mechanism of Surface-Catalyzed Oxidative Nitrogen Fixation Based on Liquid-Phase Bubble Pin-Plate Discharge</title>
-      <link>https://doi.org/10.1021/acscatal.3c05317</link>
-      <description>Qingchuan Wang, Limin Liu, Guoxin Gao, Yuzhi Chen, Yuxin Ouyang, Dongyang Zhang, Yaqiong Su, Shujiang Ding, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392748786
-
-                No abstract</description>
-      <author>Qingchuan Wang, Limin Liu, Guoxin Gao, Yuzhi Chen, Yuxin Ouyang, Dongyang Zhang, Yaqiong Su, Shujiang Ding</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05317</guid>
-    </item>
-    <item>
-      <title>Self-Sustainable Lattice Strains of Morphology-Tuned Nanowires in Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00451</link>
-      <description>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392748981
-
-                No abstract</description>
-      <author>Zhi Hui Kong, Zhi Peng Wu, Yazan Maswadeh, Gang Yu, Jorge Vargas, Dominic Caracciolo, Valeri Petkov, Shuang&#8208;Quan Zang, Tao Li, Shuangyin Wang, Chuan&#8208;Jian Zhong</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00451</guid>
-    </item>
-    <item>
-      <title>Hydroxylamine Umpolung in Copper-Catalyzed Cross-Coupling Reactions to Synthesize &lt;i&gt;N&lt;/i&gt;-Arylhydroxylamine Derivatives</title>
-      <link>https://doi.org/10.1021/acscatal.3c06020</link>
-      <description>Gary Mathieu, Emna Azek, Calvine Lai, H. Lebel, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392749973
-
-                No abstract</description>
-      <author>Gary Mathieu, Emna Azek, Calvine Lai, H. Lebel</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06020</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;De Novo&lt;/i&gt; Multienzyme Synthetic Pathways for Lactic Acid Production</title>
-      <link>https://doi.org/10.1021/acscatal.3c05489</link>
-      <description>Xu-Wei Ding, Jian Rong, Zheng-fan Pan, Xin-Xin Zhu, Zhenqi Zhu, Qi Chen, Zhi Jun Zhang, Jian&#8208;He Xu, Chun-Xiu Li, Gao&#8208;Wei Zheng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392750096
-
-                No abstract</description>
-      <author>Xu-Wei Ding, Jian Rong, Zheng-fan Pan, Xin-Xin Zhu, Zhenqi Zhu, Qi Chen, Zhi Jun Zhang, Jian&#8208;He Xu, Chun-Xiu Li, Gao&#8208;Wei Zheng</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05489</guid>
-    </item>
-    <item>
-      <title>Assessing the Catalytic Role of Native Glucagon Amyloid Fibrils</title>
-      <link>https://doi.org/10.1021/acscatal.4c00452</link>
-      <description>Ashim Nandi, Aoxuan Zhang, Elad Arad, Raz Jelinek, Arieh Warshel, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392751169
-
-                No abstract</description>
-      <author>Ashim Nandi, Aoxuan Zhang, Elad Arad, Raz Jelinek, Arieh Warshel</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00452</guid>
-    </item>
-    <item>
-      <title>Generation of Lattice Strain in CdS Promotes Photocatalytic Reduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00016</link>
-      <description>Xiaoyu Liang, Xinkui Wang, Xinxin Zhang, Sisi Lin, Min Ji, Qinggang Liu, Min Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392760834
-
-                The key to photocatalysis lies in the efficient separation and migration of photogenerated carriers to the surface for participation in the reaction. However, the recombination of electrons and holes is a major hindrance that reduces the photocatalysis activity. Herein, we developed a method to introduce lattice strain by regulating the crystallinity of the material, thus resulting in an intensive polarization internal electric field, which can promote the separation process of electrons and holes and improve the efficiency of photocatalysis. The degree of strain can be controlled by the solvothermal temperature. Compared with CdS-160 &#176;C, CdS-100 &#176;C with a larger lattice strain degree and internal electric field contributed to a 7-fold enhanced photocatalytic CO evolution from CO2; in addition, the CO/H2 ratio was also increased by 4 times. This study reports the important effects of lattice strain and internal electric field on photogenerated carrier separation and migration, providing valuable insights for designing efficient photocatalysts.</description>
-      <author>Xiaoyu Liang, Xinkui Wang, Xinxin Zhang, Sisi Lin, Min Ji, Qinggang Liu, Min Wang</author>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00016</guid>
-    </item>
-    <item>
-      <title>Heterogeneous Iridium-Catalyzed Carbene N&#8211;H Bond Insertion with &#945;-Alkyl Diazo Esters</title>
-      <link>https://doi.org/10.1021/acscatal.3c05635</link>
-      <description>Ping Guo, Yan Chen, Tao Lei, Shufang Ji, Ruixue Zhang, Zedong Zhang, Xiao Liang, Dingsheng Wang, Yadong Li, Jie Zhao, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392761569
-
-                A heterogeneous iridium single-atom site catalyst (Ir-SA) was synthesized and investigated in catalyzing the carbene insertion reaction with challenging &#945;-alkyl diazo ester substrates. With only 0.23 mol % catalyst loading, our Ir-SA demonstrated remarkable performance in heterogeneous carbene N&#8211;H bond insertion reactions involving various (hetero) aryl amines coupled with &#945;-alkyl diazo esters. Notably, in the case of using a chiral diamino substrate with two reactive sites, Ir-SA exhibited high selectivity toward single carbene N&#8211;H insertion, leading to the generation of a class of unsymmetric chiral diamino ligands. Further mechanism study revealed that the lower activation barrier associated with the single N&#8211;H bond insertion step, as compared to either &#946;-hydride elimination or downstream dual N&#8211;H bond insertion, accounted for the remarkable selectivity observed in this carbene insertion reaction catalyzed by Ir-SA.</description>
-      <author>Ping Guo, Yan Chen, Tao Lei, Shufang Ji, Ruixue Zhang, Zedong Zhang, Xiao Liang, Dingsheng Wang, Yadong Li, Jie Zhao</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05635</guid>
-    </item>
-    <item>
-      <title>Data Science Guided Multiobjective Optimization of a Stereoconvergent Nickel-Catalyzed Reduction of Enol Tosylates to Access Trisubstituted Alkenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00650</link>
-      <description>Natalie P. Romer, Dong&#8208;Joo Min, Jason Y. Wang, R. C. Walroth, Kyle A. Mack, Lauren E. Sirois, Francis Gosselin, Daniel Zell, Abigail G. Doyle, Matthew S. Sigman, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392778422
-
-                No abstract</description>
-      <author>Natalie P. Romer, Dong&#8208;Joo Min, Jason Y. Wang, R. C. Walroth, Kyle A. Mack, Lauren E. Sirois, Francis Gosselin, Daniel Zell, Abigail G. Doyle, Matthew S. Sigman</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00650</guid>
-    </item>
     <item>
       <title>Chemoselective Aerobic Oxidation of Alcohols Utilizing a Vanadium(V) Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.3c05638</link>
@@ -256,6 +146,116 @@
       <author>S. K. Tripathi, Luigi Bonati, Simone Perego, Michele Parrinello</author>
       <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06201</guid>
+    </item>
+    <item>
+      <title>Insight into the Synergetic Effects of NTP-La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ag&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt; on Soot Oxidation at Low Temperatures</title>
+      <link>https://doi.org/10.1021/acscatal.3c06029</link>
+      <description>He Sun, Feiyang Zhang, Shixin Liu, Yangyang Liu, Bin Zhu, Xin Yu, Zean Xie, Zhao Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392911304
+
+                No abstract</description>
+      <author>He Sun, Feiyang Zhang, Shixin Liu, Yangyang Liu, Bin Zhu, Xin Yu, Zean Xie, Zhao Zhang</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06029</guid>
+    </item>
+    <item>
+      <title>Rh-Catalyzed Enantioselective Hydroalkenylative Cyclization of 1,6-Enynes Constructing All-Carbon Quaternary Stereocenters</title>
+      <link>https://doi.org/10.1021/acscatal.4c00572</link>
+      <description>Shunsuke Emi, Shintaro Hamada, Yukichi Kishida, Yu Sato, Futo Morita, Yuki Nagashima, Hidehiro Uekusa, Ken Tanaka, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392912960
+
+                No abstract</description>
+      <author>Shunsuke Emi, Shintaro Hamada, Yukichi Kishida, Yu Sato, Futo Morita, Yuki Nagashima, Hidehiro Uekusa, Ken Tanaka</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00572</guid>
+    </item>
+    <item>
+      <title>Upcycling of Plastic Waste Using Photo-, Electro-, and Photoelectrocatalytic Approaches: A Way toward Circular Economy</title>
+      <link>https://doi.org/10.1021/acscatal.4c00290</link>
+      <description>Devanshu Sajwan, Ankit Sharma, Manisha Sharma, Venkata Krishnan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392918226
+
+                No abstract</description>
+      <author>Devanshu Sajwan, Ankit Sharma, Manisha Sharma, Venkata Krishnan</author>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00290</guid>
+    </item>
+    <item>
+      <title>B(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;-Catalyzed Dehydrogenation of Pyrrolidines to Form Pyrroles</title>
+      <link>https://doi.org/10.1021/acscatal.3c05444</link>
+      <description>Ana Alvarez-Montoya, Joseph P. Gillions, Laura Winfrey, Rebecca R. Hawker, Kuldip Singh, Fabrizio Ortu, Yukang Fu, L. S. Liebeskind, Alexander P. Pulis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392921788
+
+                No abstract</description>
+      <author>Ana Alvarez-Montoya, Joseph P. Gillions, Laura Winfrey, Rebecca R. Hawker, Kuldip Singh, Fabrizio Ortu, Yukang Fu, L. S. Liebeskind, Alexander P. Pulis</author>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05444</guid>
+    </item>
+    <item>
+      <title>Light-Promoted Efficient Generation of Fe(I) to Initiate Amination</title>
+      <link>https://doi.org/10.1021/acscatal.4c00788</link>
+      <description>Geyang Song, Qi Li, Jiuzhou Song, Ding-Zhan Nong, Jianyang Dong, Gang Li, Juan Fan, Chao Wang, Xue Duan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392928780
+
+                Iron-catalyzed cross-coupling reactions are difficult to achieve because they usually require a highly reactive, low-valent iron catalyst to undergo the oxidative addition process. Here, we report a method for light-promoted iron-catalyzed C&#8211;N coupling reactions between aryl bromides and amines in the presence of a catalytic amount of a bipyridine ligand under irradiation at 390&#8211;395 nm. This method, which does not require external photosensitizers, features a broad substrate scope (70 examples) and good functional group tolerance, providing a platform for the development of iron-catalyzed coupling reactions in organic synthesis. Mechanistic studies indicate that an organic base and light are crucial for the generation of an Fe(I) species and that the reaction involves an Fe(I)/Fe(III) catalytic cycle.</description>
+      <author>Geyang Song, Qi Li, Jiuzhou Song, Ding-Zhan Nong, Jianyang Dong, Gang Li, Juan Fan, Chao Wang, Xue Duan</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00788</guid>
+    </item>
+    <item>
+      <title>The Role of Mo Single Atoms and Clusters in Enhancing Pt Catalyst for Benzene Hydrogenation: Distinguishing Between Benzene Spillover and Electronic Effect</title>
+      <link>https://doi.org/10.1021/acscatal.3c06026</link>
+      <description>Zhuo Li, Fanchun Meng, Xinchun Yang, Yuntao Qi, Yong Qin, Bin Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392936989
+
+                No abstract</description>
+      <author>Zhuo Li, Fanchun Meng, Xinchun Yang, Yuntao Qi, Yong Qin, Bin Zhang</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06026</guid>
+    </item>
+    <item>
+      <title>Molecular Orbital Engineering of Mixed-Addenda Polyoxometalates Boosts Light-Driven Hydrogen Evolution Activity</title>
+      <link>https://doi.org/10.1021/acscatal.4c00295</link>
+      <description>Manzhou Chi, Ying Zeng, Zhongling Lang, Huijie Li, Xing Xin, Yuanyuan Dong, Fangyu Fu, Guo&#8208;Yu Yang, Hongjin Lv, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392948266
+
+                No abstract</description>
+      <author>Manzhou Chi, Ying Zeng, Zhongling Lang, Huijie Li, Xing Xin, Yuanyuan Dong, Fangyu Fu, Guo&#8208;Yu Yang, Hongjin Lv</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00295</guid>
+    </item>
+    <item>
+      <title>Reversible Intrapore Redox Cycling of Platinum in Platinum-Ion-Exchanged HZSM-5 Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.3c06325</link>
+      <description>Kaan Yal&#231;&#305;n, Ram Kumar, Erik Zuidema, Ambarish Kulkarni, Jim Ciston, Karen C. Bustillo, Peter Ercius, Alexander Katz, Bruce C. Gates, Coleman X. Kronawitter, Ron C. Runnebaum, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392948602
+
+                No abstract</description>
+      <author>Kaan Yal&#231;&#305;n, Ram Kumar, Erik Zuidema, Ambarish Kulkarni, Jim Ciston, Karen C. Bustillo, Peter Ercius, Alexander Katz, Bruce C. Gates, Coleman X. Kronawitter, Ron C. Runnebaum</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06325</guid>
+    </item>
+    <item>
+      <title>Mechanisms of Light Alkene Oligomerization on Metal-Modified Zeolites</title>
+      <link>https://doi.org/10.1021/acscatal.4c00552</link>
+      <description>Zoya N. Lashchinskaya, Anton A. Gabrienko, Alexander G. Stepanov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392949694
+
+                No abstract</description>
+      <author>Zoya N. Lashchinskaya, Anton A. Gabrienko, Alexander G. Stepanov</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00552</guid>
+    </item>
+    <item>
+      <title>Variation in Biosynthesis and Metal-Binding Properties of Isonitrile-Containing Peptides Produced by Mycobacteria versus Streptomyces</title>
+      <link>https://doi.org/10.1021/acscatal.4c00645</link>
+      <description>Tzu&#8208;Yu Chen, Jinfeng Chen, Mark W. Ruszczycky, Dalton Hilovsky, Terry L. Hostetler, Xiaojing Liu, Jiahai Zhou, Wei&#8208;chen Chang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392956930
+
+                No abstract</description>
+      <author>Tzu&#8208;Yu Chen, Jinfeng Chen, Mark W. Ruszczycky, Dalton Hilovsky, Terry L. Hostetler, Xiaojing Liu, Jiahai Zhou, Wei&#8208;chen Chang</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00645</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic Pathways to the Formation of C&#8211;N Bonds</title>
+      <link>https://doi.org/10.1021/acscatal.3c04912</link>
+      <description>Dimitra Anastasiadou, Marta Costa Figueiredo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392975696
+
+                No abstract</description>
+      <author>Dimitra Anastasiadou, Marta Costa Figueiredo</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04912</guid>
     </item>
   </channel>
 </rss>

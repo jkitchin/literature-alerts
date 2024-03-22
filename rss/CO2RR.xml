@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 Mar 2024 00:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 00:43:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Two&#8208;Dimensional Crystalline Electrocatalysts for Efficient Reduction of Carbon Dioxide</title>
-      <link>https://doi.org/10.1002/celc.202400009</link>
-      <description>Lu Dai, Jie Zong, Lisha Liang, Pengfei Li, ChemElectroChem. None(None)] 2024. https://openalex.org/W4392749022
-
-                Abstract The electrochemical carbon dioxide reduction reaction (eCO 2 RR) can achieve carbon recycling through renewable electrical energy. Before releasing the full potential of eCO 2 RR, the electrocatalysts still need improvement in terms of catalytic activity, selectivity, and durability. Two&#8208;dimensional (2D) crystalline materials show a high aspect ratio with well&#8208;defined crystal structures, which are promising electrocatalysts for eCO 2 RR. In this review, we briefly discuss the typical 2D electrocatalysts for eCO 2 RR. Subsequently, we provide a summary of the different strategies to improve the catalytic performance of 2D crystalline electrocatalysts for creating and modulating active sites. Finally, we end this review with the current challenges and future opportunities of 2D crystalline materials in the eCO 2 RR.</description>
-      <author>Lu Dai, Jie Zong, Lisha Liang, Pengfei Li</author>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/celc.202400009</guid>
-    </item>
-    <item>
-      <title>A quadruple transition metal dichalcogenide for variously synergetic electron behaviors during photocatalytic carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159887</link>
-      <description>Pei Liu, Hongyu Chen, Caiyuan Zhao, Deng Long, Weijia Chen, Miao L&#252;, Xin Yi Chen, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392752845
-
-                No abstract</description>
-      <author>Pei Liu, Hongyu Chen, Caiyuan Zhao, Deng Long, Weijia Chen, Miao L&#252;, Xin Yi Chen</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159887</guid>
-    </item>
-    <item>
-      <title>Corrigendum to &#8220;Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on lnTaO4&#8221; [Mater. Sci. Semicond. Process. 174 (2024) 108235]</title>
-      <link>https://doi.org/10.1016/j.mssp.2024.108313</link>
-      <description>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade, Materials Science in Semiconductor Processing. None(None)] 2024. https://openalex.org/W4392768040
-
-                No abstract</description>
-      <author>Babalola Aisosa Oni, Samuel Eshorame Sanni, Olusegun Stanley Tomomewo, Shree Om Bade</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.108313</guid>
-    </item>
     <item>
       <title>Continuous Production of Ethylene and Hydrogen Peroxide from Paired Electrochemical Carbon Dioxide Reduction and Water Oxidation</title>
       <link>https://doi.org/10.1002/aenm.202304247</link>
@@ -58,14 +28,14 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4728334</guid>
     </item>
     <item>
-      <title>Synthesis of nanocomposites based on graphitic carbon nitride, titanium dioxide and boron nitride for the photo-production of H2 and the photo-reduction of CO2</title>
-      <link>https://openalex.org/W4392773243</link>
-      <description>Leila Hammoud, No host. None(None)] 2023. https://openalex.org/W4392773243
+      <title>Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review</title>
+      <link>https://doi.org/10.1007/s11237-024-09790-z</link>
+      <description>Sergiy O. Soloviev, Theoretical and Experimental Chemistry. None(None)] 2024. https://openalex.org/W4393011083
 
                 No abstract</description>
-      <author>Leila Hammoud</author>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392773243</guid>
+      <author>Sergiy O. Soloviev</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11237-024-09790-z</guid>
     </item>
     <item>
       <title>Distribution of Carbon Dioxide Emissions and Potential Consequences for Their Reduction in Louisiana</title>
@@ -78,24 +48,14 @@
       <guid isPermaLink="true">https://doi.org/10.31390/gradschool_theses.5821</guid>
     </item>
     <item>
-      <title>Study of layered double hydroxides for the electrocatalytic reduction of CO2</title>
-      <link>https://openalex.org/W4392773097</link>
-      <description>A. Tarhini, No host. None(None)] 2023. https://openalex.org/W4392773097
+      <title>How informal environmental regulations constrain carbon dioxide emissions under pollution control and carbon reduction: Evidence from China</title>
+      <link>https://doi.org/10.1016/j.envres.2024.118732</link>
+      <description>Po Kou, Ying Han, Baoling Jin, Tian Li, Environmental Research. None(None)] 2024. https://openalex.org/W4392983203
 
                 No abstract</description>
-      <author>A. Tarhini</author>
-      <pubDate>Tue, 25 Apr 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392773097</guid>
-    </item>
-    <item>
-      <title>The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-wl1bg</link>
-      <description>James McGregor, Jay T. Bender, Amanda Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco, No host. None(None)] 2024. https://openalex.org/W4392917891
-
-                The electrochemical reduction of CO2 is sensitive to the microenvironment surrounding catalytic active sites. Although the impact of changing electrolyte composition on CO2 reduction kinetics in aqueous electrolytes has been studied intensively, less is known about the influence of the electrochemical environment in non-aqueous solvents. Here, we present data demonstrating that organic alkyl ammonium cations influence catalytic performance in non-aqueous media and describe a physical model that rationalizes these observations. Using results from a combination of kinetic, spectroscopic, and computational techniques, we argue that the interfacial electric field present at the catalyst surface is sensitive to the molecular identity of the organic cation in the aprotic electrolyte. This is true irrespective of solvent, electrolyte ionic strength, or the supporting electrolyte counter anion. Our results suggest that changes in the interfacial field can be attributed to differences in the cation-electrode distance. Changes in the electric field strength are consequential to CO2R to CO as they modify the energetics of the kinetically relevant CO2 activation step.</description>
-      <author>James McGregor, Jay T. Bender, Amanda Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-wl1bg</guid>
+      <author>Po Kou, Ying Han, Baoling Jin, Tian Li</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.118732</guid>
     </item>
     <item>
       <title>Carbon-Supported Silver Catalysts for Electrocatalytic Reduction of CO2 to CO</title>
@@ -108,14 +68,14 @@
       <guid isPermaLink="true">https://doi.org/10.33540/2122</guid>
     </item>
     <item>
-      <title>The Prospects of Urea Manufacturing via Electrochemical Co-reduction of CO2 and Nitrates</title>
-      <link>https://doi.org/10.1016/j.coelec.2024.101479</link>
-      <description>Qinglan Zhao, Ye Zhang, Dapeng Cao, Minhua Shao, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4392767741
+      <title>The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-wl1bg</link>
+      <description>James McGregor, Jay T. Bender, Amanda Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco, No host. None(None)] 2024. https://openalex.org/W4392917891
 
-                Electrochemical co-reduction of CO2 and nitrates presents a promising alternative for urea production. However, the current electrochemical synthesis of urea faces challenges related to low selectivity and production rates. The development of high-efficiency electrocatalysts is the key to performance improvement of urea electrosynthesis. This minireview primarily focuses on the rational design of catalysts, starting with a mechanistic overview. In addition, the advancement of electrolyzers for urea electrochemical synthesis is also discussed aiming to articulate guiding principles of achieving high-rate production reaching industrial relevant level in the future.</description>
-      <author>Qinglan Zhao, Ye Zhang, Dapeng Cao, Minhua Shao</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101479</guid>
+                The electrochemical reduction of CO2 is sensitive to the microenvironment surrounding catalytic active sites. Although the impact of changing electrolyte composition on CO2 reduction kinetics in aqueous electrolytes has been studied intensively, less is known about the influence of the electrochemical environment in non-aqueous solvents. Here, we present data demonstrating that organic alkyl ammonium cations influence catalytic performance in non-aqueous media and describe a physical model that rationalizes these observations. Using results from a combination of kinetic, spectroscopic, and computational techniques, we argue that the interfacial electric field present at the catalyst surface is sensitive to the molecular identity of the organic cation in the aprotic electrolyte. This is true irrespective of solvent, electrolyte ionic strength, or the supporting electrolyte counter anion. Our results suggest that changes in the interfacial field can be attributed to differences in the cation-electrode distance. Changes in the electric field strength are consequential to CO2R to CO as they modify the energetics of the kinetically relevant CO2 activation step.</description>
+      <author>James McGregor, Jay T. Bender, Amanda Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-wl1bg</guid>
     </item>
     <item>
       <title>Constructing Strain in Electrocatalytic Materials for CO2 Reduction Reactions</title>
@@ -188,6 +148,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ya00611e</guid>
     </item>
     <item>
+      <title>Efficient photoelectrocatalytic reduction of CO2 to formate via Bi-Doped InOCl nanosheets</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.174220</link>
+      <description>Yibo Jia, Huimin Yang, Rui Chen, Yi Zhang, Fanfan Gao, Nan Cheng, Jiaqi Yang, Xuemei Gao, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4392975989
+
+                No abstract</description>
+      <author>Yibo Jia, Huimin Yang, Rui Chen, Yi Zhang, Fanfan Gao, Nan Cheng, Jiaqi Yang, Xuemei Gao</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174220</guid>
+    </item>
+    <item>
       <title>Morphology Evolution of CuO Supported on CeO2 and Its Role in Electrochemical CO2 Reduction</title>
       <link>https://doi.org/10.1007/s11837-024-06473-x</link>
       <description>Seungwon Hong, Kshirodra Kumar Patra, Jihun Oh, JOM. None(None)] 2024. https://openalex.org/W4392794974
@@ -208,6 +178,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ta08049h</guid>
     </item>
     <item>
+      <title>Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review</title>
+      <link>https://doi.org/10.52783/jchr.v14.i2.3372</link>
+      <description>, Journal of Chemical Health Risks. None(None)] 2024. https://openalex.org/W4393005861
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.52783/jchr.v14.i2.3372</guid>
+    </item>
+    <item>
       <title>CO2 synergistic emission reduction and health benefits of PM2.5 reaching WHO-III level in Pearl River Delta</title>
       <link>https://doi.org/10.1016/j.atmosenv.2024.120441</link>
       <description>Yijia Zheng, Wei Zeng, Shucheng Chang, Long Wang, Calvin C.Y. Liao, Y. H. Zhang, Atmospheric Environment. None(None)] 2024. https://openalex.org/W4392820920
@@ -218,6 +198,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.atmosenv.2024.120441</guid>
     </item>
     <item>
+      <title>Efficient Tuning of the Selectivity of Cu-Based Interface for Electrocatalytic Co2 Reduction by Ligand Modification</title>
+      <link>https://doi.org/10.2139/ssrn.4760891</link>
+      <description>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang, No host. None(None)] 2024. https://openalex.org/W4392973237
+
+                No abstract</description>
+      <author>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4760891</guid>
+    </item>
+    <item>
       <title>Multi&#8208;metallic Layered Catalysts for Stable Electrochemical CO2 Reduction to Formate and Formic Acid</title>
       <link>https://doi.org/10.1002/cssc.202301894</link>
       <description>Tu N. Nguyen, Behnam Nourmohammadi Khiarak, Zijun Xu, Amirhossein Farzi, Sharif Md. Sadaf, Ali Seifitokaldani, Cao-Thang Dinh, ChemSusChem. None(None)] 2024. https://openalex.org/W4392882857
@@ -226,16 +216,6 @@
       <author>Tu N. Nguyen, Behnam Nourmohammadi Khiarak, Zijun Xu, Amirhossein Farzi, Sharif Md. Sadaf, Ali Seifitokaldani, Cao-Thang Dinh</author>
       <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301894</guid>
-    </item>
-    <item>
-      <title>Reductive N-Formylation of Amines with CO2 Using an NHC-Based Porous Organic Polymer</title>
-      <link>https://doi.org/10.1055/s-0043-1773132</link>
-      <description>, Synfacts. 20(04)] 2024. https://openalex.org/W4392742841
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1055/s-0043-1773132</guid>
     </item>
     <item>
       <title>Transient Pulsed Discharge Preparation of Graphene Aerogel Supported Asymmetric Cu Cluster Catalysts Promote CO2 Reduction to Ethanol</title>
@@ -286,6 +266,16 @@
       <author>Jinchao Li, Zhipeng Cao, Xinai Zhang, Ling Gao, Xueling Li, Liang Chen, Yaping Zhang, Qingchun Zhang, Ping Zhang, Tianxia Liu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114050</guid>
+    </item>
+    <item>
+      <title>Cu-Metalated Porphyrin-Based MOFs Coupled with Anatase as Photocatalysts for CO2 Reduction: The Effect of Metalation Proportion</title>
+      <link>https://doi.org/10.3390/en17061483</link>
+      <description>Maria Anagnostopoulou, Val&#233;rie Keller, Konstantinos C. Christoforidis, Energies. 17(6)] 2024. https://openalex.org/W4393006588
+
+                Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources via photocatalysis requires the development of advanced materials. Herein, we coupled zirconium-based metal&#8211;organic frameworks (MOFs) containing porphyrin and Cu-porphyrin with anatase TiO2. The effect of the porphyrin metalation proportion was also investigated. Notably, while the use of free-base porphyrin as the organic linker resulted in the development of PCN-224, the presence of Cu-porphyrin provided mixed-phase MOF structures containing both PCN-224 and PCN-222. MOF/TiO2 composites bearing partial (50%) metalated porphyrin were proven more active and selective towards the production of CH4, at ambient conditions, in the gas phase and using water vapors without the use of hole scavengers. The optimized composite bearing 15 wt.% of the partial metalated MOF was three times more active than pure TiO2 towards CH4 production. This study provides insights on the effect of precise materials engineering at a molecular level on the development of advanced MOF-based photocatalysts for CO2 reduction.</description>
+      <author>Maria Anagnostopoulou, Val&#233;rie Keller, Konstantinos C. Christoforidis</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/en17061483</guid>
     </item>
   </channel>
 </rss>

@@ -1,44 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Mar 21 00:45:27 2024
+Created on Fri Mar 22 00:43:40 2024
 
-Found 28 results from 2024-03-14 to 2024-03-21
+Found 27 results from 2024-03-15 to 2024-03-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Two‐Dimensional Crystalline Electrocatalysts for Efficient Reduction of Carbon Dioxide   
-
-OpenAlex: https://openalex.org/W4392749022    
-Open access: True
-    
-[Lu Dai](https://openalex.org/A5074937842), [Jie Zong](https://openalex.org/A5090677167), [Lisha Liang](https://openalex.org/A5055885143), [Pengfei Li](https://openalex.org/A5024172607), ChemElectroChem. None(None)] 2024.https://doi.org/10.1002/celc.202400009 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/celc.202400009)).
-    
-Abstract The electrochemical carbon dioxide reduction reaction (eCO 2 RR) can achieve carbon recycling through renewable electrical energy. Before releasing the full potential of eCO 2 RR, the electrocatalysts still need improvement in terms of catalytic activity, selectivity, and durability. Two‐dimensional (2D) crystalline materials show a high aspect ratio with well‐defined crystal structures, which are promising electrocatalysts for eCO 2 RR. In this review, we briefly discuss the typical 2D electrocatalysts for eCO 2 RR. Subsequently, we provide a summary of the different strategies to improve the catalytic performance of 2D crystalline electrocatalysts for creating and modulating active sites. Finally, we end this review with the current challenges and future opportunities of 2D crystalline materials in the eCO 2 RR.    
-
-    
-
-## A quadruple transition metal dichalcogenide for variously synergetic electron behaviors during photocatalytic carbon dioxide reduction   
-
-OpenAlex: https://openalex.org/W4392752845    
-Open access: False
-    
-[Pei Liu](https://openalex.org/A5041438685), [Hongyu Chen](https://openalex.org/A5010212263), [Caiyuan Zhao](https://openalex.org/A5083249621), [Deng Long](https://openalex.org/A5073887432), [Weijia Chen](https://openalex.org/A5054159069), [Miao Lü](https://openalex.org/A5086873107), [Xin Yi Chen](https://openalex.org/A5066365433), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159887.
-    
-No abstract    
-
-    
-
-## Corrigendum to “Cu2O/SiC photocatalytic reduction of carbon dioxide to methanol using visible light on lnTaO4” [Mater. Sci. Semicond. Process. 174 (2024) 108235]   
-
-OpenAlex: https://openalex.org/W4392768040    
-Open access: False
-    
-[Babalola Aisosa Oni](https://openalex.org/A5089011196), [Samuel Eshorame Sanni](https://openalex.org/A5091243470), [Olusegun Stanley Tomomewo](https://openalex.org/A5018891267), [Shree Om Bade](https://openalex.org/A5033624313), Materials Science in Semiconductor Processing. None(None)] 2024.https://doi.org/10.1016/j.mssp.2024.108313.
-    
-No abstract    
-
-    
 
 ## Continuous Production of Ethylene and Hydrogen Peroxide from Paired Electrochemical Carbon Dioxide Reduction and Water Oxidation   
 
@@ -62,12 +29,12 @@ No abstract
 
     
 
-## Synthesis of nanocomposites based on graphitic carbon nitride, titanium dioxide and boron nitride for the photo-production of H2 and the photo-reduction of CO2   
+## Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review   
 
-OpenAlex: https://openalex.org/W4392773243    
-Open access: True
+OpenAlex: https://openalex.org/W4393011083    
+Open access: False
     
-[Leila Hammoud](https://openalex.org/A5019505146), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04257912/document)).
+[Sergiy O. Soloviev](https://openalex.org/A5041127502), Theoretical and Experimental Chemistry. None(None)] 2024.https://doi.org/10.1007/s11237-024-09790-z.
     
 No abstract    
 
@@ -84,25 +51,14 @@ No abstract
 
     
 
-## Study of layered double hydroxides for the electrocatalytic reduction of CO2   
+## How informal environmental regulations constrain carbon dioxide emissions under pollution control and carbon reduction: Evidence from China   
 
-OpenAlex: https://openalex.org/W4392773097    
-Open access: True
+OpenAlex: https://openalex.org/W4392983203    
+Open access: False
     
-[A. Tarhini](https://openalex.org/A5087757322), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04357430/document)).
+[Po Kou](https://openalex.org/A5081287699), [Ying Han](https://openalex.org/A5039490153), [Baoling Jin](https://openalex.org/A5015468366), [Tian Li](https://openalex.org/A5018019822), Environmental Research. None(None)] 2024.https://doi.org/10.1016/j.envres.2024.118732.
     
 No abstract    
-
-    
-
-## The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents   
-
-OpenAlex: https://openalex.org/W4392917891    
-Open access: True
-    
-[James McGregor](https://openalex.org/A5038489652), [Jay T. Bender](https://openalex.org/A5030622040), [Amanda Petersen](https://openalex.org/A5051069278), [Louise M. Cañada](https://openalex.org/A5072421825), [Jan Rossmeisl](https://openalex.org/A5083668074), [Joan F. Brennecke](https://openalex.org/A5033320611), [Joaquin Resasco](https://openalex.org/A5018687349), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-wl1bg ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65f630efe9ebbb4db9da50e8/original/the-role-of-organic-cations-in-the-electrochemical-reduction-of-co2-in-aprotic-solvents.pdf)).
-    
-The electrochemical reduction of CO2 is sensitive to the microenvironment surrounding catalytic active sites. Although the impact of changing electrolyte composition on CO2 reduction kinetics in aqueous electrolytes has been studied intensively, less is known about the influence of the electrochemical environment in non-aqueous solvents. Here, we present data demonstrating that organic alkyl ammonium cations influence catalytic performance in non-aqueous media and describe a physical model that rationalizes these observations. Using results from a combination of kinetic, spectroscopic, and computational techniques, we argue that the interfacial electric field present at the catalyst surface is sensitive to the molecular identity of the organic cation in the aprotic electrolyte. This is true irrespective of solvent, electrolyte ionic strength, or the supporting electrolyte counter anion. Our results suggest that changes in the interfacial field can be attributed to differences in the cation-electrode distance. Changes in the electric field strength are consequential to CO2R to CO as they modify the energetics of the kinetically relevant CO2 activation step.    
 
     
 
@@ -117,14 +73,14 @@ The work described in this thesis was aimed at understanding the influence of st
 
     
 
-## The Prospects of Urea Manufacturing via Electrochemical Co-reduction of CO2 and Nitrates   
+## The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents   
 
-OpenAlex: https://openalex.org/W4392767741    
-Open access: False
+OpenAlex: https://openalex.org/W4392917891    
+Open access: True
     
-[Qinglan Zhao](https://openalex.org/A5018366822), [Ye Zhang](https://openalex.org/A5082117229), [Dapeng Cao](https://openalex.org/A5056166029), [Minhua Shao](https://openalex.org/A5059810259), Current Opinion in Electrochemistry. None(None)] 2024.https://doi.org/10.1016/j.coelec.2024.101479.
+[James McGregor](https://openalex.org/A5038489652), [Jay T. Bender](https://openalex.org/A5030622040), [Amanda Petersen](https://openalex.org/A5051069278), [Louise M. Cañada](https://openalex.org/A5072421825), [Jan Rossmeisl](https://openalex.org/A5083668074), [Joan F. Brennecke](https://openalex.org/A5033320611), [Joaquin Resasco](https://openalex.org/A5018687349), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-wl1bg ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/65f630efe9ebbb4db9da50e8/original/the-role-of-organic-cations-in-the-electrochemical-reduction-of-co2-in-aprotic-solvents.pdf)).
     
-Electrochemical co-reduction of CO2 and nitrates presents a promising alternative for urea production. However, the current electrochemical synthesis of urea faces challenges related to low selectivity and production rates. The development of high-efficiency electrocatalysts is the key to performance improvement of urea electrosynthesis. This minireview primarily focuses on the rational design of catalysts, starting with a mechanistic overview. In addition, the advancement of electrolyzers for urea electrochemical synthesis is also discussed aiming to articulate guiding principles of achieving high-rate production reaching industrial relevant level in the future.    
+The electrochemical reduction of CO2 is sensitive to the microenvironment surrounding catalytic active sites. Although the impact of changing electrolyte composition on CO2 reduction kinetics in aqueous electrolytes has been studied intensively, less is known about the influence of the electrochemical environment in non-aqueous solvents. Here, we present data demonstrating that organic alkyl ammonium cations influence catalytic performance in non-aqueous media and describe a physical model that rationalizes these observations. Using results from a combination of kinetic, spectroscopic, and computational techniques, we argue that the interfacial electric field present at the catalyst surface is sensitive to the molecular identity of the organic cation in the aprotic electrolyte. This is true irrespective of solvent, electrolyte ionic strength, or the supporting electrolyte counter anion. Our results suggest that changes in the interfacial field can be attributed to differences in the cation-electrode distance. Changes in the electric field strength are consequential to CO2R to CO as they modify the energetics of the kinetically relevant CO2 activation step.    
 
     
 
@@ -205,6 +161,17 @@ CO2 conversion is an important part of the transition towards clean fuels and ch
 
     
 
+## Efficient photoelectrocatalytic reduction of CO2 to formate via Bi-Doped InOCl nanosheets   
+
+OpenAlex: https://openalex.org/W4392975989    
+Open access: False
+    
+[Yibo Jia](https://openalex.org/A5024592447), [Huimin Yang](https://openalex.org/A5021087622), [Rui Chen](https://openalex.org/A5053453125), [Yi Zhang](https://openalex.org/A5044544424), [Fanfan Gao](https://openalex.org/A5027496978), [Nan Cheng](https://openalex.org/A5038100088), [Jiaqi Yang](https://openalex.org/A5016812043), [Xuemei Gao](https://openalex.org/A5042225153), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174220.
+    
+No abstract    
+
+    
+
 ## Morphology Evolution of CuO Supported on CeO2 and Its Role in Electrochemical CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4392794974    
@@ -227,6 +194,17 @@ Developing high-activity and selectivity electrocatalysts for reducing CO2 to va
 
     
 
+## Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review   
+
+OpenAlex: https://openalex.org/W4393005861    
+Open access: False
+    
+, Journal of Chemical Health Risks. None(None)] 2024.https://doi.org/10.52783/jchr.v14.i2.3372.
+    
+No abstract    
+
+    
+
 ## CO2 synergistic emission reduction and health benefits of PM2.5 reaching WHO-III level in Pearl River Delta   
 
 OpenAlex: https://openalex.org/W4392820920    
@@ -238,6 +216,17 @@ Protecting human health is one of the fundamental goals of continuous air qualit
 
     
 
+## Efficient Tuning of the Selectivity of Cu-Based Interface for Electrocatalytic Co2 Reduction by Ligand Modification   
+
+OpenAlex: https://openalex.org/W4392973237    
+Open access: False
+    
+[Yonggao Yan](https://openalex.org/A5046851457), [Tongxian Li](https://openalex.org/A5047188725), [Manuel Oliva‐Ramírez](https://openalex.org/A5087410333), [Yuguo Zhao](https://openalex.org/A5053753860), [Shuo Wang](https://openalex.org/A5051434566), [Xin Chen](https://openalex.org/A5032165940), [Dong Wang](https://openalex.org/A5072946558), [Peter Schaaf](https://openalex.org/A5019559196), [Xiayan Wang](https://openalex.org/A5017550339), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4760891.
+    
+No abstract    
+
+    
+
 ## Multi‐metallic Layered Catalysts for Stable Electrochemical CO2 Reduction to Formate and Formic Acid   
 
 OpenAlex: https://openalex.org/W4392882857    
@@ -246,17 +235,6 @@ Open access: True
 [Tu N. Nguyen](https://openalex.org/A5000074087), [Behnam Nourmohammadi Khiarak](https://openalex.org/A5072811913), [Zijun Xu](https://openalex.org/A5086940264), [Amirhossein Farzi](https://openalex.org/A5007614713), [Sharif Md. Sadaf](https://openalex.org/A5030364648), [Ali Seifitokaldani](https://openalex.org/A5013704951), [Cao-Thang Dinh](https://openalex.org/A5012487063), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202301894 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202301894)).
     
 We report the development of bismuth (Bi) gas diffusion electrodes on a polytetrafluoroethylene‐based electrically conductive silver (Ag) substrate (Ag@Bi), which exhibits high Faradaic efficiency (FE) for formate of over 90% in 1 M KOH and 1 M KHCO3 electrolytes. The catalyst also shows high selectivity of formic acid above 85% in 1 M NaCl catholyte, which has a bulk pH of 2‐3 during ECR, at current densities up to 300 mA cm‐2. In 1 M KHCO3 condition, the Ag@Bi maintains a formate FE above 90% for at least 500 hours at the current density of 100 mA cm‐2. We found that Ag@Bi catalysts degrade over time due to the leaching of Bi in the NaCl catholyte. To overcome this challenge, we deposited a layer of Ag nanoparticles on the surface of Ag@Bi to form a multi‐layer Ag@Bi/Ag catalyst. This designed catalyst exhibits 300 hours of stability with FE for formic acid ≥ 70% at 100 mA cm‐2. Our work establishes a new strategy for achieving the operational longevity of ECR under wide pH conditions, which is critical for practical applications.    
-
-    
-
-## Reductive N-Formylation of Amines with CO2 Using an NHC-Based Porous Organic Polymer   
-
-OpenAlex: https://openalex.org/W4392742841    
-Open access: False
-    
-, Synfacts. 20(04)] 2024.https://doi.org/10.1055/s-0043-1773132.
-    
-No abstract    
 
     
 
@@ -312,5 +290,16 @@ Open access: False
 [Jinchao Li](https://openalex.org/A5003038437), [Zhipeng Cao](https://openalex.org/A5052074448), [Xinai Zhang](https://openalex.org/A5065256743), [Ling Gao](https://openalex.org/A5021629829), [Xueling Li](https://openalex.org/A5020292315), [Liang Chen](https://openalex.org/A5065490237), [Yaping Zhang](https://openalex.org/A5066765323), [Qingchun Zhang](https://openalex.org/A5036807643), [Ping Zhang](https://openalex.org/A5055151897), [Tianxia Liu](https://openalex.org/A5031213658), Molecular Catalysis. 558(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114050.
     
 No abstract    
+
+    
+
+## Cu-Metalated Porphyrin-Based MOFs Coupled with Anatase as Photocatalysts for CO2 Reduction: The Effect of Metalation Proportion   
+
+OpenAlex: https://openalex.org/W4393006588    
+Open access: True
+    
+[Maria Anagnostopoulou](https://openalex.org/A5054259636), [Valérie Keller](https://openalex.org/A5002264601), [Konstantinos C. Christoforidis](https://openalex.org/A5086872707), Energies. 17(6)] 2024.https://doi.org/10.3390/en17061483 ([pdf](https://www.mdpi.com/1996-1073/17/6/1483/pdf?version=1710919003)).
+    
+Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources via photocatalysis requires the development of advanced materials. Herein, we coupled zirconium-based metal–organic frameworks (MOFs) containing porphyrin and Cu-porphyrin with anatase TiO2. The effect of the porphyrin metalation proportion was also investigated. Notably, while the use of free-base porphyrin as the organic linker resulted in the development of PCN-224, the presence of Cu-porphyrin provided mixed-phase MOF structures containing both PCN-224 and PCN-222. MOF/TiO2 composites bearing partial (50%) metalated porphyrin were proven more active and selective towards the production of CH4, at ambient conditions, in the gas phase and using water vapors without the use of hole scavengers. The optimized composite bearing 15 wt.% of the partial metalated MOF was three times more active than pure TiO2 towards CH4 production. This study provides insights on the effect of precise materials engineering at a molecular level on the development of advanced MOF-based photocatalysts for CO2 reduction.    
 
     

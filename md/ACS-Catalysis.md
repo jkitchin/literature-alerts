@@ -1,131 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Mar 21 00:45:28 2024
+Created on Fri Mar 22 00:43:42 2024
 
-Found 25 results from 2024-03-14 to 2024-03-21
+Found 25 results from 2024-03-15 to 2024-03-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Regulating the H2O2 Photosynthetic Activity of Covalent Organic Frameworks through Linkage Orientation   
-
-OpenAlex: https://openalex.org/W4392740340    
-Open access: False
-    
-[Jie-Yu Yue](https://openalex.org/A5000627937), [Li-Ping Song](https://openalex.org/A5073547618), [Zi-Xian Pan](https://openalex.org/A5055702535), [Peng Yang](https://openalex.org/A5058775682), [Yu Ma](https://openalex.org/A5057298404), [Qing Xu](https://openalex.org/A5069765087), [Bo Tang](https://openalex.org/A5039028486), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00278.
-    
-No abstract    
-
-    
-
-## Functionally Diverse Peroxygenases by AlphaFold2, Design, and Signal Peptide Shuffling   
-
-OpenAlex: https://openalex.org/W4392744707    
-Open access: True
-    
-[Judith Münch](https://openalex.org/A5016046716), [N.L. Dietz](https://openalex.org/A5003806183), [S. Barber-Zucker](https://openalex.org/A5051383623), [F. Seifert](https://openalex.org/A5060641800), [Susanne Matschi](https://openalex.org/A5024650210), [Pascal Püllmann](https://openalex.org/A5031295609), [Sarel J. Fleishman](https://openalex.org/A5031768744), [Martin J. Weissenborn](https://openalex.org/A5047498775), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00883 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00883)).
-    
-Unspecific peroxygenases (UPOs) are fungal enzymes that attract significant attention for their ability to perform versatile oxyfunctionalization reactions using H2O2. Unlike other oxygenases, UPOs do not require additional reductive equivalents or electron transfer chains that complicate basic and applied research. Nevertheless, UPOs generally exhibit low to no heterologous production levels and only four UPO structures have been determined to date by crystallography limiting their usefulness and obstructing research. To overcome this bottleneck, we implemented a workflow that applies PROSS stability design to AlphaFold2 model structures of 10 unique and diverse UPOs followed by a signal peptide shuffling to enable heterologous production. Nine UPOs were functionally produced in Pichia pastoris, including the recalcitrant CciUPO and three UPOs derived from oomycetes─the first nonfungal UPOs to be experimentally characterized. We conclude that the high accuracy and reliability of new modeling and design workflows dramatically expand the pool of enzymes for basic and applied research.    
-
-    
-
-## Transition State Analysis of Key Steps in Dual Photoredox-Cobalt-Catalyzed Elimination of Alkyl Bromides   
-
-OpenAlex: https://openalex.org/W4392746939    
-Open access: False
-    
-[Victor O. Nyagilo](https://openalex.org/A5060141239), [Sharath Chandra Mallojjala](https://openalex.org/A5036926461), [Jennifer S. Hirschi](https://openalex.org/A5014969589), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06324.
-    
-No abstract    
-
-    
-
-## Insights on the Mechanism of Surface-Catalyzed Oxidative Nitrogen Fixation Based on Liquid-Phase Bubble Pin-Plate Discharge   
-
-OpenAlex: https://openalex.org/W4392748786    
-Open access: False
-    
-[Qingchuan Wang](https://openalex.org/A5034978471), [Limin Liu](https://openalex.org/A5044756293), [Guoxin Gao](https://openalex.org/A5027123895), [Yuzhi Chen](https://openalex.org/A5034409858), [Yuxin Ouyang](https://openalex.org/A5061916141), [Dongyang Zhang](https://openalex.org/A5057387819), [Yaqiong Su](https://openalex.org/A5013121247), [Shujiang Ding](https://openalex.org/A5065434610), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05317.
-    
-No abstract    
-
-    
-
-## Self-Sustainable Lattice Strains of Morphology-Tuned Nanowires in Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4392748981    
-Open access: False
-    
-[Zhi Hui Kong](https://openalex.org/A5040312379), [Zhi Peng Wu](https://openalex.org/A5037531970), [Yazan Maswadeh](https://openalex.org/A5072369960), [Gang Yu](https://openalex.org/A5051985195), [Jorge Vargas](https://openalex.org/A5044066157), [Dominic Caracciolo](https://openalex.org/A5066257937), [Valeri Petkov](https://openalex.org/A5089608210), [Shuang‐Quan Zang](https://openalex.org/A5005592293), [Tao Li](https://openalex.org/A5065723594), [Shuangyin Wang](https://openalex.org/A5042902756), [Chuan‐Jian Zhong](https://openalex.org/A5026877218), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00451.
-    
-No abstract    
-
-    
-
-## Hydroxylamine Umpolung in Copper-Catalyzed Cross-Coupling Reactions to Synthesize N-Arylhydroxylamine Derivatives   
-
-OpenAlex: https://openalex.org/W4392749973    
-Open access: False
-    
-[Gary Mathieu](https://openalex.org/A5045964965), [Emna Azek](https://openalex.org/A5073365496), [Calvine Lai](https://openalex.org/A5048847098), [H. Lebel](https://openalex.org/A5053654843), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06020.
-    
-No abstract    
-
-    
-
-## De Novo Multienzyme Synthetic Pathways for Lactic Acid Production   
-
-OpenAlex: https://openalex.org/W4392750096    
-Open access: False
-    
-[Xu-Wei Ding](https://openalex.org/A5057901783), [Jian Rong](https://openalex.org/A5024602154), [Zheng-fan Pan](https://openalex.org/A5055551515), [Xin-Xin Zhu](https://openalex.org/A5056908653), [Zhenqi Zhu](https://openalex.org/A5019755810), [Qi Chen](https://openalex.org/A5014708668), [Zhi Jun Zhang](https://openalex.org/A5004911841), [Jian‐He Xu](https://openalex.org/A5068659985), [Chun-Xiu Li](https://openalex.org/A5086696782), [Gao‐Wei Zheng](https://openalex.org/A5026230284), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05489.
-    
-No abstract    
-
-    
-
-## Assessing the Catalytic Role of Native Glucagon Amyloid Fibrils   
-
-OpenAlex: https://openalex.org/W4392751169    
-Open access: False
-    
-[Ashim Nandi](https://openalex.org/A5010387708), [Aoxuan Zhang](https://openalex.org/A5001140607), [Elad Arad](https://openalex.org/A5034937079), [Raz Jelinek](https://openalex.org/A5037130972), [Arieh Warshel](https://openalex.org/A5088665303), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00452.
-    
-No abstract    
-
-    
-
-## Generation of Lattice Strain in CdS Promotes Photocatalytic Reduction of CO2   
-
-OpenAlex: https://openalex.org/W4392760834    
-Open access: False
-    
-[Xiaoyu Liang](https://openalex.org/A5081647697), [Xinkui Wang](https://openalex.org/A5090773384), [Xinxin Zhang](https://openalex.org/A5035441171), [Sisi Lin](https://openalex.org/A5005270480), [Min Ji](https://openalex.org/A5054025314), [Qinggang Liu](https://openalex.org/A5051105963), [Min Wang](https://openalex.org/A5038241246), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00016.
-    
-The key to photocatalysis lies in the efficient separation and migration of photogenerated carriers to the surface for participation in the reaction. However, the recombination of electrons and holes is a major hindrance that reduces the photocatalysis activity. Herein, we developed a method to introduce lattice strain by regulating the crystallinity of the material, thus resulting in an intensive polarization internal electric field, which can promote the separation process of electrons and holes and improve the efficiency of photocatalysis. The degree of strain can be controlled by the solvothermal temperature. Compared with CdS-160 °C, CdS-100 °C with a larger lattice strain degree and internal electric field contributed to a 7-fold enhanced photocatalytic CO evolution from CO2; in addition, the CO/H2 ratio was also increased by 4 times. This study reports the important effects of lattice strain and internal electric field on photogenerated carrier separation and migration, providing valuable insights for designing efficient photocatalysts.    
-
-    
-
-## Heterogeneous Iridium-Catalyzed Carbene N–H Bond Insertion with α-Alkyl Diazo Esters   
-
-OpenAlex: https://openalex.org/W4392761569    
-Open access: False
-    
-[Ping Guo](https://openalex.org/A5065766432), [Yan Chen](https://openalex.org/A5086339613), [Tao Lei](https://openalex.org/A5031755414), [Shufang Ji](https://openalex.org/A5054312835), [Ruixue Zhang](https://openalex.org/A5045743944), [Zedong Zhang](https://openalex.org/A5035786530), [Xiao Liang](https://openalex.org/A5075169323), [Dingsheng Wang](https://openalex.org/A5042841794), [Yadong Li](https://openalex.org/A5038102627), [Jie Zhao](https://openalex.org/A5077388081), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05635.
-    
-A heterogeneous iridium single-atom site catalyst (Ir-SA) was synthesized and investigated in catalyzing the carbene insertion reaction with challenging α-alkyl diazo ester substrates. With only 0.23 mol % catalyst loading, our Ir-SA demonstrated remarkable performance in heterogeneous carbene N–H bond insertion reactions involving various (hetero) aryl amines coupled with α-alkyl diazo esters. Notably, in the case of using a chiral diamino substrate with two reactive sites, Ir-SA exhibited high selectivity toward single carbene N–H insertion, leading to the generation of a class of unsymmetric chiral diamino ligands. Further mechanism study revealed that the lower activation barrier associated with the single N–H bond insertion step, as compared to either β-hydride elimination or downstream dual N–H bond insertion, accounted for the remarkable selectivity observed in this carbene insertion reaction catalyzed by Ir-SA.    
-
-    
-
-## Data Science Guided Multiobjective Optimization of a Stereoconvergent Nickel-Catalyzed Reduction of Enol Tosylates to Access Trisubstituted Alkenes   
-
-OpenAlex: https://openalex.org/W4392778422    
-Open access: False
-    
-[Natalie P. Romer](https://openalex.org/A5094145064), [Dong‐Joo Min](https://openalex.org/A5035229447), [Jason Y. Wang](https://openalex.org/A5073790823), [R. C. Walroth](https://openalex.org/A5008988198), [Kyle A. Mack](https://openalex.org/A5079382262), [Lauren E. Sirois](https://openalex.org/A5058605673), [Francis Gosselin](https://openalex.org/A5070408514), [Daniel Zell](https://openalex.org/A5007033462), [Abigail G. Doyle](https://openalex.org/A5077633918), [Matthew S. Sigman](https://openalex.org/A5005862481), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00650.
-    
-No abstract    
-
-    
 
 ## Chemoselective Aerobic Oxidation of Alcohols Utilizing a Vanadium(V) Catalyst   
 
@@ -278,5 +157,126 @@ Open access: False
 [S. K. Tripathi](https://openalex.org/A5007651637), [Luigi Bonati](https://openalex.org/A5090217494), [Simone Perego](https://openalex.org/A5004491813), [Michele Parrinello](https://openalex.org/A5023487560), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06201.
     
 For a catalyst to be efficient and durable, it is crucial that the reaction products do not poison the catalyst. In the case of the Haber–Bosch process, the rate-limiting step is believed to be the decomposition of nitrogen molecules on the Fe(111) surface. This step leads to the production on the surface of atomic nitrogen (N*), which, unless hydrogenated and eventually released as ammonia, remains adsorbed and occupies the active sites. Thus, it is important to ascertain how a high N* coverage affects the nitrogen dissociative chemisorption. To answer this question, we study the properties of the Fe(111) surface at different N* coverage both at room and operando temperature. In the latter regime, we have already found that Fe surface atoms exhibit a high mobility, promoting the formation of adatoms and vacancies, and causing the catalytic centers to acquire a finite lifetime [Bonati et al. Proceedings of the National Academy of Sciences 2023, 120 (50), e2313023120]. We discover that the N* coverage reduces but does not eliminate the iron mobility. Remarkably, the N* atoms stabilize triangular surface structures associated with the formation of vacancies, which are a sign of a frustrated drive toward a more stable Fe4N phase. As a consequence, nitrogen atoms tend to cluster, reducing their poisoning effect. At the same time, the reduction in the number of catalytic centers is counteracted by an increase in their lifetime. The combined effect is that the dissociation barrier is not significantly altered in the range of coverages studied. These results bring to light the complex role that dynamics plays in catalytic reactivity under operando conditions.    
+
+    
+
+## Insight into the Synergetic Effects of NTP-La1–xAgxMnO3 on Soot Oxidation at Low Temperatures   
+
+OpenAlex: https://openalex.org/W4392911304    
+Open access: False
+    
+[He Sun](https://openalex.org/A5042523840), [Feiyang Zhang](https://openalex.org/A5036858935), [Shixin Liu](https://openalex.org/A5017517029), [Yangyang Liu](https://openalex.org/A5047187328), [Bin Zhu](https://openalex.org/A5005209343), [Xin Yu](https://openalex.org/A5045949335), [Zean Xie](https://openalex.org/A5006295475), [Zhao Zhang](https://openalex.org/A5065361552), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06029.
+    
+No abstract    
+
+    
+
+## Rh-Catalyzed Enantioselective Hydroalkenylative Cyclization of 1,6-Enynes Constructing All-Carbon Quaternary Stereocenters   
+
+OpenAlex: https://openalex.org/W4392912960    
+Open access: False
+    
+[Shunsuke Emi](https://openalex.org/A5094181019), [Shintaro Hamada](https://openalex.org/A5013994424), [Yukichi Kishida](https://openalex.org/A5011316317), [Yu Sato](https://openalex.org/A5057833739), [Futo Morita](https://openalex.org/A5025978963), [Yuki Nagashima](https://openalex.org/A5039511820), [Hidehiro Uekusa](https://openalex.org/A5086800033), [Ken Tanaka](https://openalex.org/A5013437976), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00572.
+    
+No abstract    
+
+    
+
+## Upcycling of Plastic Waste Using Photo-, Electro-, and Photoelectrocatalytic Approaches: A Way toward Circular Economy   
+
+OpenAlex: https://openalex.org/W4392918226    
+Open access: False
+    
+[Devanshu Sajwan](https://openalex.org/A5023498383), [Ankit Sharma](https://openalex.org/A5071628344), [Manisha Sharma](https://openalex.org/A5044753586), [Venkata Krishnan](https://openalex.org/A5079283559), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00290.
+    
+No abstract    
+
+    
+
+## B(C6F5)3-Catalyzed Dehydrogenation of Pyrrolidines to Form Pyrroles   
+
+OpenAlex: https://openalex.org/W4392921788    
+Open access: True
+    
+[Ana Alvarez-Montoya](https://openalex.org/A5067610384), [Joseph P. Gillions](https://openalex.org/A5045845848), [Laura Winfrey](https://openalex.org/A5088323321), [Rebecca R. Hawker](https://openalex.org/A5008997006), [Kuldip Singh](https://openalex.org/A5053095143), [Fabrizio Ortu](https://openalex.org/A5016392095), [Yukang Fu](https://openalex.org/A5006724170), [L. S. Liebeskind](https://openalex.org/A5005452331), [Alexander P. Pulis](https://openalex.org/A5032096939), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05444 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05444)).
+    
+No abstract    
+
+    
+
+## Light-Promoted Efficient Generation of Fe(I) to Initiate Amination   
+
+OpenAlex: https://openalex.org/W4392928780    
+Open access: False
+    
+[Geyang Song](https://openalex.org/A5000485217), [Qi Li](https://openalex.org/A5020746135), [Jiuzhou Song](https://openalex.org/A5040454155), [Ding-Zhan Nong](https://openalex.org/A5027127110), [Jianyang Dong](https://openalex.org/A5032044151), [Gang Li](https://openalex.org/A5071785102), [Juan Fan](https://openalex.org/A5018639803), [Chao Wang](https://openalex.org/A5019405663), [Xue Duan](https://openalex.org/A5067926884), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00788.
+    
+Iron-catalyzed cross-coupling reactions are difficult to achieve because they usually require a highly reactive, low-valent iron catalyst to undergo the oxidative addition process. Here, we report a method for light-promoted iron-catalyzed C–N coupling reactions between aryl bromides and amines in the presence of a catalytic amount of a bipyridine ligand under irradiation at 390–395 nm. This method, which does not require external photosensitizers, features a broad substrate scope (70 examples) and good functional group tolerance, providing a platform for the development of iron-catalyzed coupling reactions in organic synthesis. Mechanistic studies indicate that an organic base and light are crucial for the generation of an Fe(I) species and that the reaction involves an Fe(I)/Fe(III) catalytic cycle.    
+
+    
+
+## The Role of Mo Single Atoms and Clusters in Enhancing Pt Catalyst for Benzene Hydrogenation: Distinguishing Between Benzene Spillover and Electronic Effect   
+
+OpenAlex: https://openalex.org/W4392936989    
+Open access: False
+    
+[Zhuo Li](https://openalex.org/A5081411724), [Fanchun Meng](https://openalex.org/A5090201430), [Xinchun Yang](https://openalex.org/A5007065150), [Yuntao Qi](https://openalex.org/A5038819017), [Yong Qin](https://openalex.org/A5074124495), [Bin Zhang](https://openalex.org/A5044774514), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06026.
+    
+No abstract    
+
+    
+
+## Molecular Orbital Engineering of Mixed-Addenda Polyoxometalates Boosts Light-Driven Hydrogen Evolution Activity   
+
+OpenAlex: https://openalex.org/W4392948266    
+Open access: False
+    
+[Manzhou Chi](https://openalex.org/A5064238928), [Ying Zeng](https://openalex.org/A5072777154), [Zhongling Lang](https://openalex.org/A5049368936), [Huijie Li](https://openalex.org/A5007705719), [Xing Xin](https://openalex.org/A5064628795), [Yuanyuan Dong](https://openalex.org/A5021313643), [Fangyu Fu](https://openalex.org/A5002572848), [Guo‐Yu Yang](https://openalex.org/A5052567771), [Hongjin Lv](https://openalex.org/A5088515178), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00295.
+    
+No abstract    
+
+    
+
+## Reversible Intrapore Redox Cycling of Platinum in Platinum-Ion-Exchanged HZSM-5 Catalysts   
+
+OpenAlex: https://openalex.org/W4392948602    
+Open access: True
+    
+[Kaan Yalçın](https://openalex.org/A5043362145), [Ram Kumar](https://openalex.org/A5077755362), [Erik Zuidema](https://openalex.org/A5049884504), [Ambarish Kulkarni](https://openalex.org/A5042039275), [Jim Ciston](https://openalex.org/A5079297523), [Karen C. Bustillo](https://openalex.org/A5088731924), [Peter Ercius](https://openalex.org/A5045160930), [Alexander Katz](https://openalex.org/A5069459050), [Bruce C. Gates](https://openalex.org/A5088235380), [Coleman X. Kronawitter](https://openalex.org/A5022071918), [Ron C. Runnebaum](https://openalex.org/A5065439644), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06325.
+    
+No abstract    
+
+    
+
+## Mechanisms of Light Alkene Oligomerization on Metal-Modified Zeolites   
+
+OpenAlex: https://openalex.org/W4392949694    
+Open access: False
+    
+[Zoya N. Lashchinskaya](https://openalex.org/A5049814124), [Anton A. Gabrienko](https://openalex.org/A5090072930), [Alexander G. Stepanov](https://openalex.org/A5045633595), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00552.
+    
+No abstract    
+
+    
+
+## Variation in Biosynthesis and Metal-Binding Properties of Isonitrile-Containing Peptides Produced by Mycobacteria versus Streptomyces   
+
+OpenAlex: https://openalex.org/W4392956930    
+Open access: False
+    
+[Tzu‐Yu Chen](https://openalex.org/A5026948998), [Jinfeng Chen](https://openalex.org/A5058813394), [Mark W. Ruszczycky](https://openalex.org/A5063896535), [Dalton Hilovsky](https://openalex.org/A5000819193), [Terry L. Hostetler](https://openalex.org/A5039009753), [Xiaojing Liu](https://openalex.org/A5025115516), [Jiahai Zhou](https://openalex.org/A5058800276), [Wei‐chen Chang](https://openalex.org/A5060069852), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00645.
+    
+No abstract    
+
+    
+
+## Electrocatalytic Pathways to the Formation of C–N Bonds   
+
+OpenAlex: https://openalex.org/W4392975696    
+Open access: True
+    
+[Dimitra Anastasiadou](https://openalex.org/A5049893998), [Marta Costa Figueiredo](https://openalex.org/A5025302127), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04912.
+    
+No abstract    
 
     
