@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Mar 22 00:43:42 2024
+Created on Sat Mar 23 00:42:46 2024
 
-Found 25 results from 2024-03-15 to 2024-03-22
+Found 25 results from 2024-03-16 to 2024-03-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Chemoselective Aerobic Oxidation of Alcohols Utilizing a Vanadium(V) Catalyst   
-
-OpenAlex: https://openalex.org/W4392793212    
-Open access: False
-    
-[Mitchell J Kitt](https://openalex.org/A5074586307), [Emily Amir](https://openalex.org/A5094149498), [Eleanor R. Sloane](https://openalex.org/A5094149499), [Douglas G. Fraser](https://openalex.org/A5010019178), [John E. Cerritelli](https://openalex.org/A5094149500), [Caroline S. M. Sabanos](https://openalex.org/A5094149501), [James McNeely](https://openalex.org/A5022391490), [John K. Snyder](https://openalex.org/A5087033954), [Linda H. Doerrer](https://openalex.org/A5034990232), [Aaron B. Beeler](https://openalex.org/A5042880525), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05638.
-    
-No abstract    
-
-    
-
-## Efficient Alkyne Semihydrogenation Catalysis Enabled by Synergistic Chemical and Thermal Modifications of a PdIn MOF   
-
-OpenAlex: https://openalex.org/W4392805147    
-Open access: True
-    
-[Jordan Santiago Martinez](https://openalex.org/A5034349817), [Jaime Mazarío](https://openalex.org/A5046780829), [Christian Wittee Lopes](https://openalex.org/A5066683833), [Susana Trasobares](https://openalex.org/A5069097457), [José J. Calvino](https://openalex.org/A5071740493), [Giovanni Agostini](https://openalex.org/A5086042043), [Pascual Oña‐Burgos](https://openalex.org/A5018654878), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00310 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00310)).
-    
-No abstract    
-
-    
-
-## Simple and Directed Immobilization of a Multicopper Oxidase on Flat Bare Gold Electrodes Provides High Catalytic Currents for O2 Reduction   
-
-OpenAlex: https://openalex.org/W4392805894    
-Open access: True
-    
-[F. Rizzo](https://openalex.org/A5057251796), [Vânia Brissos](https://openalex.org/A5087266348), [S. Villain](https://openalex.org/A5032735853), [Lı́gia O. Martins](https://openalex.org/A5053546193), [Felipe Conzuelo](https://openalex.org/A5055478208), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00516 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00516)).
-    
-No abstract    
-
-    
-
-## Evolution of Co Species in CO2-Assisted Ethane Dehydrogenation: Competing Cleavage of C–H and C–C Bonds   
-
-OpenAlex: https://openalex.org/W4392812312    
-Open access: False
-    
-[Yingbin Zheng](https://openalex.org/A5056833841), [Junjie Li](https://openalex.org/A5031004784), [Xinbao Zhang](https://openalex.org/A5016801627), [Shaoguo Li](https://openalex.org/A5036201967), [Jie An](https://openalex.org/A5083651634), [Fucun Chen](https://openalex.org/A5064315252), [Xiujie Li](https://openalex.org/A5053489117), [Xiangxue Zhu](https://openalex.org/A5024904994), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00324.
-    
-No abstract    
-
-    
-
-## Lewis Acid Sites in (110) Facet-Exposed BiOBr Promote C–H Activation and Selective Photocatalytic Toluene Oxidation   
-
-OpenAlex: https://openalex.org/W4392818266    
-Open access: False
-    
-[Zhou Guang-hong](https://openalex.org/A5025099894), [Ben Lei](https://openalex.org/A5079746842), [Fan Dong](https://openalex.org/A5065938824), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00877.
-    
-Solar photocatalytic technology has exhibited significant potential for upgrading the value-added chemicals industry through efficient C–H bond activation, such as selective photocatalytic toluene oxidation. However, improvement in the C–H bond activation of toluene is still a challenge. Herein, (110) facet-exposed BiOBr (EC-BiOBr) synthesized via a facile crystal facet control strategy exhibited an increasing exposure of Lewis acid sites, as confirmed by in situ Fourier-transform infrared spectroscopy (FT-IR) using ammonia as a probe molecule. In situ FT-IR results substantiated the improved absorption capacity of EC-BiOBr for toluene. Density functional theory (DFT) calculations indicated that the Lewis acid–base pairs formed by Bi sites and O sites can adsorb toluene directionally, precisely matching the orbit spaces of the conduction band (Bi 6p state) and valence band (O 2p and Br 4p states). Benefiting from the oriented adsorption of toluene, the electron in the C–H bond could transfer to a photogenerated hole precisely, thus achieving C–H bond activation. Compared to (001) facet-exposed BiOBr (H–BiOBr), an 11-fold improvement in the toluene conversion rate (from 233 to 2460 μmol g–1 h–1) was observed in the EC-BiOBr group, and the benzaldehyde formation rate increased from 233 to 1623 μmol g–1 h–1. Active species identification and DFT calculations revealed that the superoxide radicals were involved as the primary reactive species in the subsequent oxidation of benzyl radicals generated from the C–H bond activation of toluene. This work highlights the importance of the surface acid sites regulated by the crystal facet control strategy, which is conducive to the rational design of photocatalysts with high performance in C–H bond activation.    
-
-    
-
-## Lewis and Brønsted Acid Synergistic Catalysis for Efficient Synthesis of Hydroxylamine over Heteroatom Zeolites   
-
-OpenAlex: https://openalex.org/W4392818365    
-Open access: False
-    
-[Nan Fang](https://openalex.org/A5010768366), [Kai Huo](https://openalex.org/A5082317827), [Yucheng Jin](https://openalex.org/A5035509439), [Dongxu Li](https://openalex.org/A5043446520), [Henry C. Lin](https://openalex.org/A5044162367), [Haoyue Wu](https://openalex.org/A5022272877), [Xuguang Liu](https://openalex.org/A5071872234), [Yueming Liu](https://openalex.org/A5025333492), [Min He](https://openalex.org/A5064426002), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00179.
-    
-Environmental and efficient synthesis of NH2OH is challenging. Herein, we have provided a route for efficient NH2OH formation by NH3 oxidation via the synergistic catalysis of Lewis acid sites of the framework Ti (Ti LAS) and Brønsted acid sites of the framework Al (Al BAS) in Ti–Al-MOR zeolites. Ti LAS was the active center for formation of transition-state NH2OH, while Al BAS could provide the proton H to convert transition-state NH2OH absorbed on Ti LAS to a [NH3OH]+ species. Protonation effect would not only promote the catalytic cycle process resulting from accelerating the desorption of transition-state NH2OH, but also improve the stability of NH2OH, being less prone to oxidative decomposition. In this work, we presented the synergistic catalysis between LAS and BAS over Ti-containing heteroatom zeolites to accelerate the catalytic cycle, which provided an environmental and efficient method for NH2OH formation.    
-
-    
 
 ## Codecoration of Phosphate and Iron for Improving Oxygen Evolution Reaction of Layered Ni(OH)2/NiOOH   
 
@@ -222,7 +156,7 @@ Open access: False
     
 [Zhuo Li](https://openalex.org/A5081411724), [Fanchun Meng](https://openalex.org/A5090201430), [Xinchun Yang](https://openalex.org/A5007065150), [Yuntao Qi](https://openalex.org/A5038819017), [Yong Qin](https://openalex.org/A5074124495), [Bin Zhang](https://openalex.org/A5044774514), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06026.
     
-No abstract    
+Reactant spillover and electronic effects are two indistinguishable factors that influence MoO3 promoters in benzene hydrogenation on Pt-MoO3 catalysts. Previous studies have primarily focused on the significance of hydrogen spillover while neglecting the transfer of benzene and the electronic effect originating from MoO3. Herein, we synthesized Pt/CNT, Pt–Mo1/CNT with Mo single atoms, and Pt–Mocluster/CNT with MoOx cluster promoters by using atomic layer deposition. The catalyst Pt–Mo1/CNT exhibited higher activity (3361.8 h–1) in benzene hydrogenation at 50 °C, which was twice as high as that of Pt/CNT. In contrast, the presence of closely interacting MoOx clusters with Pt nanoparticles inhibited the activity of the Pt catalyst. Kinetic experiments, DFT calculations, in situ FTIR, and AIMD simulations revealed that Mo single atoms on multiwalled carbon nanotubes did not alter the structure or electronic state of Pt nanoparticles but enhanced their activity by increasing benzene coverage via benzene spillover. On the other hand, although the hydrogen and benzene coverage increased with MoOx cluster promoters, changes in the electronic state of Pt nanoparticles resulted in a higher energy barrier for the rate-determining step.    
 
     
 
@@ -242,9 +176,9 @@ No abstract
 OpenAlex: https://openalex.org/W4392948602    
 Open access: True
     
-[Kaan Yalçın](https://openalex.org/A5043362145), [Ram Kumar](https://openalex.org/A5077755362), [Erik Zuidema](https://openalex.org/A5049884504), [Ambarish Kulkarni](https://openalex.org/A5042039275), [Jim Ciston](https://openalex.org/A5079297523), [Karen C. Bustillo](https://openalex.org/A5088731924), [Peter Ercius](https://openalex.org/A5045160930), [Alexander Katz](https://openalex.org/A5069459050), [Bruce C. Gates](https://openalex.org/A5088235380), [Coleman X. Kronawitter](https://openalex.org/A5022071918), [Ron C. Runnebaum](https://openalex.org/A5065439644), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06325.
+[Kaan Yalçın](https://openalex.org/A5043362145), [Ram Kumar](https://openalex.org/A5077755362), [Erik Zuidema](https://openalex.org/A5049884504), [Ambarish Kulkarni](https://openalex.org/A5042039275), [Jim Ciston](https://openalex.org/A5079297523), [Karen C. Bustillo](https://openalex.org/A5088731924), [Peter Ercius](https://openalex.org/A5045160930), [Alexander Katz](https://openalex.org/A5069459050), [Bruce C. Gates](https://openalex.org/A5088235380), [Coleman X. Kronawitter](https://openalex.org/A5022071918), [Ron C. Runnebaum](https://openalex.org/A5065439644), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06325 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06325)).
     
-No abstract    
+Isolated platinum(II) ions anchored at acid sites in the pores of zeolite HZSM-5, initially introduced by aqueous ion exchange, were reduced to form platinum nanoparticles that are stably dispersed with a narrow size distribution (1.3 ± 0.4 nm in average diameter). The nanoparticles were confined in reservoirs within the porous zeolite particles, as shown by electron beam tomography and the shape-selective catalysis of alkene hydrogenation. When the nanoparticles were oxidatively fragmented in dry air at elevated temperature, platinum returned to its initial in-pore atomically dispersed state with a charge of +2, as shown previously by X-ray absorption spectroscopy. The results determine the conditions under which platinum is retained within the pores of HZSM-5 particles during redox cycles that are characteristic of the reductive conditions of catalyst operation and the oxidative conditions of catalyst regeneration.    
 
     
 
@@ -276,6 +210,72 @@ OpenAlex: https://openalex.org/W4392975696
 Open access: True
     
 [Dimitra Anastasiadou](https://openalex.org/A5049893998), [Marta Costa Figueiredo](https://openalex.org/A5025302127), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04912.
+    
+No abstract    
+
+    
+
+## Nickel-Catalyzed Mono- and Dihydrosilylation of Aliphatic Alkynes in Aqueous and Aerobic Conditions   
+
+OpenAlex: https://openalex.org/W4392985422    
+Open access: False
+    
+[Chanmi Lee](https://openalex.org/A5083679820), [Ji Hwan Jeon](https://openalex.org/A5056195109), [Soochan Lee](https://openalex.org/A5013584794), [Wonyoung Choe](https://openalex.org/A5044210377), [Jaesung Kwak](https://openalex.org/A5000148374), [Sangwon Seo](https://openalex.org/A5083141649), [Sung You Hong](https://openalex.org/A5066992242), [Byunghyuck Jung](https://openalex.org/A5063361478), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00109.
+    
+No abstract    
+
+    
+
+## Alteration of Hydrodeoxygenation Pathways of Ni/TiO2-A Catalyst through Controlled Regulation of Strong Metal–Support Interactions and Surface Acidity   
+
+OpenAlex: https://openalex.org/W4392999569    
+Open access: False
+    
+[Qi Fang](https://openalex.org/A5067289998), [Hong Du](https://openalex.org/A5058204882), [Xiaoqiang Zhang](https://openalex.org/A5016467601), [Yunjie Ding](https://openalex.org/A5064371893), [Z. Conrad Zhang](https://openalex.org/A5080819729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00480.
+    
+No abstract    
+
+    
+
+## Nickel-Catalyzed Inter- and Intramolecular Reductive Cross-Coupling Reactions of Arylbenzylammonium Salts through Highly Site-Selective C–N Bond Cleavage   
+
+OpenAlex: https://openalex.org/W4393002326    
+Open access: False
+    
+[Ren-Gui Tian](https://openalex.org/A5000364007), [Longyu Wang](https://openalex.org/A5059208672), [Lei Zheng](https://openalex.org/A5074843268), [Shi‐Kai Tian](https://openalex.org/A5049497710), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00504.
+    
+No abstract    
+
+    
+
+## Ligand-Based Principal Component Analysis Followed by Ridge Regression: Application to an Asymmetric Negishi Reaction   
+
+OpenAlex: https://openalex.org/W4393006540    
+Open access: False
+    
+[H. Ray Kelly](https://openalex.org/A5065641804), [Sanil Sreekumar](https://openalex.org/A5025530962), [Vidhyadhar Manee](https://openalex.org/A5031776576), [Abbigayle Cuomo](https://openalex.org/A5014631359), [Timothy R. Newhouse](https://openalex.org/A5041914961), [Víctor S. Batista](https://openalex.org/A5089129603), [Frédéric G. Buono](https://openalex.org/A5001742738), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06230.
+    
+No abstract    
+
+    
+
+## Atroposelective Construction of Carbon–Boron Axial Chirality through Rh-Catalyzed [2 + 2 + 2] Cycloaddition   
+
+OpenAlex: https://openalex.org/W4393026019    
+Open access: False
+    
+[Yu Ping](https://openalex.org/A5052091727), [Xiaofan Shi](https://openalex.org/A5079666078), [Ming Lei](https://openalex.org/A5002150542), [Jianbo Wang](https://openalex.org/A5075645006), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00428.
+    
+No abstract    
+
+    
+
+## Regioselective 1,n-Diborylation of Alkylidenecyclopropanes Enabled by Catalysis with a Spirocyclic NHC IrIII Pincer Complex   
+
+OpenAlex: https://openalex.org/W4393039483    
+Open access: False
+    
+[Weifeng Wang](https://openalex.org/A5072823315), [Ka Lu](https://openalex.org/A5072068915), [Peng-Rui Liu](https://openalex.org/A5034214912), [Hui-Hui Zeng](https://openalex.org/A5073087998), [Li–Miao Yang](https://openalex.org/A5072753261), [Ai‐Jun Ma](https://openalex.org/A5064342024), [Yong‐Qiang Tu](https://openalex.org/A5067879579), [Jin‐Bao Peng](https://openalex.org/A5076885617), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00260.
     
 No abstract    
 

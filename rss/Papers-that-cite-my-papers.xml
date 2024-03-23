@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 22 Mar 2024 00:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 00:42:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Two-dimensional materials by large-scale computations and chemical exfoliation of layered solids</title>
-      <link>https://doi.org/10.1126/science.adj6556</link>
-      <description>Jonas Bj&#246;rk, Jie Zhou, Per Persson, Johanna Ros&#233;n, Science. 383(6688)] 2024. https://openalex.org/W4392797038
-
-                MXenes are a family of two-dimensional (2D) materials typically formed by etching the A element from a parent MAX phase. Computational screening for other 3D precursors suitable for such exfoliation is challenging because of the intricate chemical processes involved. We present a theoretical approach for predicting 2D materials formed through chemical exfoliation under acidic conditions by identifying 3D materials amenable for selective etching. From a dataset of 66,643 3D materials, we identified 119 potentially exfoliable candidates, within several materials families. To corroborate the method, we chose a material distinctly different from MAX phases, in terms of structure and chemical composition, for experimental verification. We selectively etched Y from YRu 2 Si 2 , resulting in 2D Ru 2 Si x O y . The high-throughput methodology suggests a vast chemical space of 2D materials from chemical exfoliation.</description>
-      <author>Jonas Bj&#246;rk, Jie Zhou, Per Persson, Johanna Ros&#233;n</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/science.adj6556</guid>
-    </item>
-    <item>
-      <title>Consecutive Reduction of Five Carbon Dioxide Molecules by Gas-Phase Niobium Carbide Cluster Anions Nb&lt;sub&gt;3&lt;/sub&gt;C&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;&#8211;&lt;/sup&gt;: Unusual Mechanism for Enhanced Reactivity by the Carbon Ligands</title>
-      <link>https://doi.org/10.1021/acs.jpca.4c00371</link>
-      <description>Yiheng Zhang, Jia-Bi Ma, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4392799839
-
-                No abstract</description>
-      <author>Yiheng Zhang, Jia-Bi Ma</author>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c00371</guid>
-    </item>
-    <item>
-      <title>Thermal evaporation-driven fabrication of Ru/RuO&lt;sub&gt;2&lt;/sub&gt; nanoparticles onto nickel foam for efficient overall water splitting</title>
-      <link>https://doi.org/10.1039/d3nr06204j</link>
-      <description>Yan Huang, Qi Zheng, Han Xu, Yingxin Liu, Wei Zhang, Xueqin Cao, Yongyong Cao, Jian&#8208;Ping Lang, Hongwei Gu, Nanoscale. None(None)] 2024. https://openalex.org/W4392804222
-
-                A self-supported substrate material of Ru/NF could be obtained by a two-stage metal&#8211;organic thermal evaporation strategy. The synergistic effect between Ru and RuO 2 species greatly promotes water splitting.</description>
-      <author>Yan Huang, Qi Zheng, Han Xu, Yingxin Liu, Wei Zhang, Xueqin Cao, Yongyong Cao, Jian&#8208;Ping Lang, Hongwei Gu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3nr06204j</guid>
-    </item>
-    <item>
-      <title>Regulation of hydrogen binding energy via oxygen vacancy enables an efficient trifunctional Rh-Rh2O3 electrocatalyst for fuel cells and water splitting</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.03.095</link>
-      <description>Jie Gao, Wanqing Yu, Jing Liu, Qin Liu, Hui&#8208;Ming Cheng, Xuejing Cui, Luhua Jiang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4392815895
-
-                No abstract</description>
-      <author>Jie Gao, Wanqing Yu, Jing Liu, Qin Liu, Hui&#8208;Ming Cheng, Xuejing Cui, Luhua Jiang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.095</guid>
-    </item>
-    <item>
-      <title>Three-Center Tight-Binding Together with Multipolar Auxiliary Functions</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00018</link>
-      <description>Matthias Van den Bossche, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4392818035
-
-                We present an ab initio tight-binding method that allows to improve on the effective potential and minimal basis approximations employed in semiempirical calculations. Three-center expansions are used to evaluate the zeroth-order Hamiltonian matrix elements and repulsive energy terms in the spirit of the Horsfield method. Self-consistency is handled by expanding atomic orbital products in an auxiliary basis following the work of Giese and York, combined with a two-center expansion of the exchange&#8211;correlation kernels. Together with nonminimal main basis sets (double-&#950; plus polarization), we show that the resulting method trades a modest amount of accuracy for a significant gain in speed, compared to that of numerical atomic orbital density functional theory, in calculations on small molecules, bulk compounds, and metal nanoclusters.</description>
-      <author>Matthias Van den Bossche</author>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00018</guid>
-    </item>
-    <item>
-      <title>Exploring optimal total metal loading of Ni3Fe/Al2O3 catalyst for CO2 methanation and its kinetic model</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.131447</link>
-      <description>Jitendra Kumar Prabhakar, Pankaj A. Apte, Goutam Deo, Fuel. 367(None)] 2024. https://openalex.org/W4392826876
-
-                No abstract</description>
-      <author>Jitendra Kumar Prabhakar, Pankaj A. Apte, Goutam Deo</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131447</guid>
-    </item>
     <item>
       <title>Local Chemical Environment Dependent Nitrate-Reduction-to-Ammonia Performance on Cu-Based Electrocatalysts</title>
       <link>https://doi.org/10.1021/acs.jpclett.3c03462</link>
@@ -252,10 +192,70 @@
       <link>https://doi.org/10.1016/j.cej.2024.150536</link>
       <description>Jingwen Pan, Dongbo Wang, Bingke Zhang, Chenchen Zhao, Donghao Liu, Sihang Liu, Zhi Zeng, Tianyuan Chen, Gang Liu, Shujie Jiao, Zhikun Xu, Tongling Liu, Taifeng Liu, Xuan Fang, Liancheng Zhao, Jinzhong Wang, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392914099
 
-                No abstract</description>
+                The synergistic implementation of atomic-level charge separation strategies for bulk&#8211;surfaces is a meaningful study that fundamentally addresses the shortcomings of single materials. Here, we report for the first time the atomic-level engineering of atomic doping in combination with surface ion grafting, which can be coordinated to significantly facilitate photocatalytic H2 evolution. More impressively, the study systematically investigated the atomic doping effects of Fe, Co, Ni and Cu atoms, and analyzed the conditions for optimal doping with experimental and theoretical calculations. Electrons from the Cu were transferred to Zn0.67Cd0.33S or adsorbed H atoms on its surface, effectively enhancing the surface charge density and electron transport capacity. The X-ray absorption spectroscopy (XAS) results verified the precise coordination environments of the doped Cu atoms, as well as confirmed the solid grafting of Ni ions on the catalyst surface. Furthermore, the hydrogen production rate of 1.2 % Cu&#8211;Zn0.67Cd0.33S&#8211;0.5 wt% Ni reached 38.17 mmol/g/h, corresponding to an apparent quantum efficiency of 35.5 %, which is 82.8 times higher than that of pure ZCS. Besides, the H2 production rate can reached 118.73 mmol/g/h without cooling. Meanwhile, the synergistic strategy of manipulating the bulk and surface photo-charges of Zn0.67Cd0.33S also effectively enhances the photothermal effect and further improves its photocatalytic performance. This work provides different inspirations for bottom-up design of efficient photocatalysts to achieve synergistic facilitation strategies.</description>
       <author>Jingwen Pan, Dongbo Wang, Bingke Zhang, Chenchen Zhao, Donghao Liu, Sihang Liu, Zhi Zeng, Tianyuan Chen, Gang Liu, Shujie Jiao, Zhikun Xu, Tongling Liu, Taifeng Liu, Xuan Fang, Liancheng Zhao, Jinzhong Wang</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150536</guid>
+    </item>
+    <item>
+      <title>Emergent high-temperature insulating ferromagnetism in Sr4Fe5CoO13-&lt;b&gt; &lt;i&gt;&#948;&lt;/i&gt; &lt;/b&gt; epitaxial thin films</title>
+      <link>https://doi.org/10.1063/5.0190376</link>
+      <description>Xinhai Han, Jianlin Wang, Nanqi Gong, Zheling Shan, Wei Shi, Z. Liu, Xuguang Liu, Jiefeng Cao, Ranran Peng, Qiuping Huang, Zhengping Fu, Yalin Lu, Applied Physics Letters. 124(12)] 2024. https://openalex.org/W4392915039
+
+                High-temperature ferromagnetic insulators play a crucial role in a wide range of emerging magnetoelectricity phenomena and hold the potential to become fundamental components of upcoming spintronic devices. However, the strong interaction between ferromagnetism and metallic properties presents a challenge, impeding the development of high-temperature ferromagnetic insulators based on oxides. Heterostructures or superlattice materials, especially those containing perovskite layers, offer a forward-looking solution. In this work, high-quality Sr4Fe6O13 (SFO) and cobalt-doped SFO (Sr4Fe5CoO13-&#948;, SFCO) thin films were grown on Nb-SrTiO3(001) substrates using pulsed laser deposition technology. The grown SFO films exhibit paramagnetism, possibly due to the transition of their film structure from the orthorhombic to the tetragonal phase. In contrast to SFO films, high-quality SFCO thin films exhibit significant ferromagnetism at room temperature, with Curie transition temperature as high as 800 K. This phenomenon is mainly attributed to the formed Dzyaloshinskii&#8211;Moriya interactions between Fe&#8211;O&#8211;Co and increased lattice distortions caused by Co-doping. In contrast, the Curie transition temperature of the SFCO film is slightly higher than that of the SFCO ceramics. This enhancement is likely due to surface effects, where an increase in surface energy introduces additional energy barriers at the film surface and interface, thereby enhancing the thermal stability of the film. These characteristics advance the research of high-temperature magnetic insulators and broaden the operating temperature range of spintronic devices based on ferromagnetic insulators.</description>
+      <author>Xinhai Han, Jianlin Wang, Nanqi Gong, Zheling Shan, Wei Shi, Z. Liu, Xuguang Liu, Jiefeng Cao, Ranran Peng, Qiuping Huang, Zhengping Fu, Yalin Lu</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0190376</guid>
+    </item>
+    <item>
+      <title>Recent Design Strategies for M&#8208;N&#8208;C Single&#8208;Atom Catalysts in Oxygen Reduction: An Entropy Increase Perspective</title>
+      <link>https://doi.org/10.1002/adfm.202401027</link>
+      <description>Wei Yan, Wenmiao Chen, Yanli Chen, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392918007
+
+                Abstract Recently, a diverse array of novel metal&#8208;nitrogen&#8208;carbon (M&#8208;N&#8208;C) single&#8208;atom catalysts (SACs) have rapidly evolve, particularly in the realm of oxygen reduction reaction (ORR). Despite the plethora of proposed design and improvement strategies for SACs, a comprehensive review systematically compiling the components in M&#8208;N&#8208;C from a unified perspective is notably absent. For the first time, a thorough examination of each component in M&#8208;N&#8208;C is conducted, focusing on the perspective of entropy increase in the active sites of SACs. For the single M&#8208;N 4 sites and the whole M&#8208;N&#8208;C system, an increase in entropy implies an elevated degree of disorder and chaos. Broadly, the entropy&#8208;increasing modification of M (single mental sites) and guest groups entails an augmentation of chaos, with the most effective co&#8208;catalytic synergy achieved by establishing multiple active sites through a &#8220;cocktail effect&#8221;. Concerning N (nitrogen and other heteroatoms) and C (carbon supports), the entropy increase modification induces heightened disorder, with symmetry breaking more likely to drive M&#8208;N 4 toward adsorbing oxygen molecules to attain an equilibrium symmetric structure. All these innovative design strategies have led to a remarkable improvement in the ORR activity and stability and offer a guiding criterion for the future preparation of SACs.</description>
+      <author>Wei Yan, Wenmiao Chen, Yanli Chen</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202401027</guid>
+    </item>
+    <item>
+      <title>Redox Engineering of Fe&#8208;Rich Disordered Rock&#8208;Salt Li&#8208;Ion Cathode Materials</title>
+      <link>https://doi.org/10.1002/aenm.202400402</link>
+      <description>Richie Fong, Nauman Mubarak, Sang&#8208;Wook Park, Gregory Lazaris, Yiwei Liu, Rahul Malik, Dong&#8208;Hwa Seo, Jinhyuk Lee, Advanced Energy Materials. None(None)] 2024. https://openalex.org/W4392918991
+
+                Abstract The pursuit of high&#8208;performance and cost&#8208;effective Li&#8208;ion batteries emphasizes the need for cathode materials composed of abundant elements, such as Fe. Disordered rock&#8208;salt (DRX) cathode materials, known for their high compositional flexibility, offer a unique opportunity in this regard. However, Fe&#8208;rich DRX (Fe&#8208;DRX) cathodes, potentially the most cost&#8208;effective among all DRXs, have seen limited research interest due to their comparatively restrained performance. This limitation stems from the inaccessibility of the Fe 3+ /Fe 4+ redox in the DRX structure, prompting the need for redox engineering to enable Fe&#8208;DRXs with readily utilizable redox mechanisms. In this work, utilizing both experiments and theoretical study, reversible Fe 2+ /Fe 3+ redox in an Fe 2+ &#8208;based DRX cathode is demonstrated. This design minimizes the reliance on O redox, resulting in a high capacity (&#8776;290 mAh g &#8722;1 ) and energy density (&#8776;700 Wh kg &#8722;1 ), as opposed to an Fe 3+ &#8208;based DRX operating on the limited Fe 3+ /Fe 4+ redox and extensive O redox upon cycling. Overall, the study introduces a novel approach to redox engineering to develop low&#8208;cost, high&#8208;performing Fe&#8208;rich cathode materials.</description>
+      <author>Richie Fong, Nauman Mubarak, Sang&#8208;Wook Park, Gregory Lazaris, Yiwei Liu, Rahul Malik, Dong&#8208;Hwa Seo, Jinhyuk Lee</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202400402</guid>
+    </item>
+    <item>
+      <title>Catalytic Activity Prediction of &#945;-Diimino Nickel Precatalysts toward Ethylene Polymerization by Machine Learning</title>
+      <link>https://doi.org/10.3390/catal14030195</link>
+      <description>Zainab Hashim Abbas, Md Mostakim Meraz, Wenhong Yang, Weishen Yang, Wen&#8208;Hua Sun, Catalysts. 14(3)] 2024. https://openalex.org/W4392926061
+
+                The present study explored machine learning methods to predict the catalytic activities of a dataset of 165 &#945;-diimino nickel complexes in ethylene polymerization. Using 25 descriptors as the inputs, the XGBoost model presented the optimal performance among six different algorithms (R2 = 0.999, Rt2 = 0.921, Q2 = 0.561). The results of the analysis indicate that high activity is related to the presence of polarizable atoms and less bulky substituents within the N-aryl group. This approach offers valuable insights on the variation principle of catalytic activity as a function of complex structure, helping to effectively design and optimize &#945;-diimino Ni catalysts with desirable performance.</description>
+      <author>Zainab Hashim Abbas, Md Mostakim Meraz, Wenhong Yang, Weishen Yang, Wen&#8208;Hua Sun</author>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14030195</guid>
+    </item>
+    <item>
+      <title>Influence of Alkali Metal Cations on the Oxygen Reduction Activity of Pt&lt;sub&gt;5&lt;/sub&gt;Y and Pt&lt;sub&gt;5&lt;/sub&gt;Gd Alloys</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c00531</link>
+      <description>Kun&#8208;Ting Song, Alexandra Zagalskaya, Christian Schott, Peter M. Schneider, Batyr Garlyyev, Vitaly Alexandrov, Aliaksandr S. Bandarenka, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4392927386
+
+                Electrolyte species can significantly influence the electrocatalytic performance. In this work, we investigate the impact of alkali metal cations on the oxygen reduction reaction (ORR) on active Pt5Gd and Pt5Y polycrystalline electrodes. Due to the strain effects, Pt alloys exhibit a higher kinetic current density of ORR than pure Pt electrodes in acidic media. In alkaline solutions, the kinetic current density of ORR for Pt alloys decreases linearly with the decreasing hydration energy in the order of Li+ &gt; Na+ &gt; K+ &gt; Rb+ &gt; Cs+, whereas Pt shows the opposite trend. To gain further insights into these experimental results, we conduct complementary density functional theory calculations considering the effects of both electrode surface strain and electrolyte chemistry. The computational results reveal that the different trends in the ORR activity in alkaline media can be explained by the change in the adsorption energy of reaction intermediates with applied surface strain in the presence of alkali metal cations. Our findings provide important insights into the effects of the electrolyte and the strain conditions on the electrocatalytic performance and thus offer valuable guidelines for optimizing Pt-based electrocatalysts.</description>
+      <author>Kun&#8208;Ting Song, Alexandra Zagalskaya, Christian Schott, Peter M. Schneider, Batyr Garlyyev, Vitaly Alexandrov, Aliaksandr S. Bandarenka</author>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00531</guid>
+    </item>
+    <item>
+      <title>Evaluation of technological tendencies in the carbon capture process: a review.</title>
+      <link>https://doi.org/10.1088/1757-899x/1299/1/012012</link>
+      <description>Brayan Eduardo Tarazona Romero, N. Y. Castillo-Leon, A. J. Rodriguez-Nieves, Y. P. Quizena-Fernandez, Y. C. Villabona-Ni&#241;o, O. Forero-Caceres, IOP Conference Series: Materials Science and Engineering. 1299(1)] 2024. https://openalex.org/W4392932149
+
+                Abstract This paper evaluates the technological trends in the carbon sequestration process. For this purpose, these systems have been classified into two subsystems: conventional technologies subsystem and emerging technologies subsystem. Each is explored for its suitability for meeting a set of six attributes. A bibliometric analysis process was developed using the Scopus database and VOSviewer Software to present the potential of each subsystem evaluated, through an evaluation matrix. The analysis of the subsystems and attributes was performed through the formal concept analysis methodology (8FCA). To facilitate the processing of the information, the open access software concept Explorer was used. The analysis shows that conventional technologies, despite their cost, will be maintained and advance in their implementation process. The bibliometric analysis integrated with the applied FCA methodology has proven to be useful for the evaluation of technological typologies and serves as an alternative to develop theoretical studies that group and link different options as a model to evaluate a deterministic set of attributes.</description>
+      <author>Brayan Eduardo Tarazona Romero, N. Y. Castillo-Leon, A. J. Rodriguez-Nieves, Y. P. Quizena-Fernandez, Y. C. Villabona-Ni&#241;o, O. Forero-Caceres</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1757-899x/1299/1/012012</guid>
     </item>
     <item>
       <title>Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices</title>
@@ -266,6 +266,16 @@
       <author>Tristan Maxson, Ademola Soyemi, Benjamin W. J. Chen, Tibor Szilv&#225;si</author>
       <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00028</guid>
+    </item>
+    <item>
+      <title>The Potential of Neural Network Potentials</title>
+      <link>https://doi.org/10.1021/acsphyschemau.4c00004</link>
+      <description>Timothy T. Duignan, ACS Physical Chemistry Au. None(None)] 2024. https://openalex.org/W4393037991
+
+                No abstract</description>
+      <author>Timothy T. Duignan</author>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.4c00004</guid>
     </item>
     <item>
       <title>Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</title>
