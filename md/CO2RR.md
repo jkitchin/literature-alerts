@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Mar 23 00:42:45 2024
+Created on Sun Mar 24 00:50:15 2024
 
-Found 26 results from 2024-03-16 to 2024-03-23
+Found 26 results from 2024-03-17 to 2024-03-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -40,6 +40,17 @@ No abstract
 
     
 
+## Electrolyzer and Catalyst Engineering for Acidic CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4393057305    
+Open access: True
+    
+[Alessandro Perazio](https://openalex.org/A5084102387), No host. None(None)] 2023.None ([pdf](https://theses.hal.science/tel-04515342/document)).
+    
+No abstract    
+
+    
+
 ## The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents   
 
 OpenAlex: https://openalex.org/W4392917891    
@@ -58,7 +69,7 @@ Open access: False
     
 [Dominic Alfonso](https://openalex.org/A5072077291), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4761900.
     
-No abstract    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
 
     
 
@@ -106,17 +117,6 @@ No abstract
 
     
 
-## Red Blood Cell (RBC)-like Ni@N–C composites for Efficient Electrochemical CO2 Reduction and Zn-CO2 Battery   
-
-OpenAlex: https://openalex.org/W4392854289    
-Open access: False
-    
-[Lei Han](https://openalex.org/A5033143462), [Chengwei Wang](https://openalex.org/A5028325404), [Haiping Xu](https://openalex.org/A5053107033), [Ming Yang](https://openalex.org/A5048213108), [Bing Liu](https://openalex.org/A5014528965), [Ming Liu](https://openalex.org/A5084722425), Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024.https://doi.org/10.1039/d3ta08049h.
-    
-Developing high-activity and selectivity electrocatalysts for reducing CO2 to value-added products provides an alternative pathway to alleviate the energy crisis and greenhouse effect. Herein, we presented a ligand-assisted supermolecule-derived red...    
-
-    
-
 ## Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review   
 
 OpenAlex: https://openalex.org/W4393005861    
@@ -150,6 +150,39 @@ We report the development of bismuth (Bi) gas diffusion electrodes on a polytetr
 
     
 
+## Electrocatalytic reduction of simulated industrial CO2 and CO mixtures: Revising chronoamperometry to enable selective gas mixture reduction via cyclic voltammetry   
+
+OpenAlex: https://openalex.org/W4393088089    
+Open access: False
+    
+[Wen Qian Chen](https://openalex.org/A5002591582), [Foo Jit Loong Cyrus](https://openalex.org/A5092072610), [Li Ya Ge](https://openalex.org/A5011993184), [Andrei Veksha](https://openalex.org/A5036888801), [Wei Ping Chan](https://openalex.org/A5001788280), [Yafei Shen](https://openalex.org/A5055421408), [Grzegorz Lisak](https://openalex.org/A5047887050), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150602.
+    
+No abstract    
+
+    
+
+## Beyond CO2 Reduction: Electrochemical C‒N Coupling Reaction for Organonitrogen Compound Production   
+
+OpenAlex: https://openalex.org/W4393071276    
+Open access: False
+    
+[Dohun Kim](https://openalex.org/A5046849549), [Jungsu Eo](https://openalex.org/A5093528132), [Siak Piang Lim](https://openalex.org/A5054902727), [Dohun Kim](https://openalex.org/A5046849549), Current Opinion in Electrochemistry. None(None)] 2024.https://doi.org/10.1016/j.coelec.2024.101491.
+    
+No abstract    
+
+    
+
+## Impacts of Engineered Catalyst Microenvironments using Conductive Polymers during Electrochemical CO2 reduction   
+
+OpenAlex: https://openalex.org/W4393084614    
+Open access: False
+    
+[Suyun Lee](https://openalex.org/A5029319885), [Jun-Hee Seo](https://openalex.org/A5075793576), [Chanyeon Kim](https://openalex.org/A5035465620), Current Opinion in Electrochemistry. None(None)] 2024.https://doi.org/10.1016/j.coelec.2024.101490.
+    
+No abstract    
+
+    
+
 ## Transient Pulsed Discharge Preparation of Graphene Aerogel Supported Asymmetric Cu Cluster Catalysts Promote CO2 Reduction to Ethanol   
 
 OpenAlex: https://openalex.org/W4392922115    
@@ -158,6 +191,17 @@ Open access: True
 [Wenxing Chen](https://openalex.org/A5014698348), [Kaiyuan Liu](https://openalex.org/A5088662306), [Hao Shen](https://openalex.org/A5016615064), [Zhiyi Sun](https://openalex.org/A5029350114), [Qiang Zhang](https://openalex.org/A5039837606), [Guoqiang Liu](https://openalex.org/A5086425431), [Zhongti Sun](https://openalex.org/A5049586106), [Xin Gao](https://openalex.org/A5051930665), [Pengwan Chen](https://openalex.org/A5011690976), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-3991307/v1 ([pdf](https://www.researchsquare.com/article/rs-3991307/latest.pdf)).
     
 Abstract Precisely designing asymmetrical structure is an efficient strategy to optimize the performance of metallic catalysts for electrochemical carbon dioxide reduction reactions. Herein, a transient high-density current induced by pulsed discharge is used to rapidly construct graphene aerogel (GAs) supported asymmetric Cu cluster catalysts. Cu atoms decomposed by CuCl 2 are converged on graphene surfaces in GAs together with oxygen originating from the intense current and instantaneous high temperature. The atomic and electronic structures of Cu nanoclusters exhibit asymmetric distribution due to lattice distortion and O-doping in Cu crystals. Typically, in CO 2 reduction reactions, the selectivity and activity of ethanol are related to the asymmetric structure and strong interfacial interaction of Cu-O/C moieties, exhibiting an ideal Faradaic efficiency (ethanol 75.3% and C 2+ products 90.5%) at -1.1 V vs reversible hydrogen electrode (RHE). Meanwhile, the benefit of the strong interaction between Cu nanoclusters and GA supports, the catalyst exhibits long-term stability. In situ XAFS reveals that the Cu 4 -Cu/C 2 O 1 interaction displays the effective active sites in CO 2 RR. The pathways of corresponding products and the reaction mechanism on Cu 4 -Cu/C 2 O 1 moieties are revealed through the in situ attenuated total reflectance Fourier transform infrared spectroscopy and the calculation of density functional theory. This work gives a new solution to solve the challenge for balancing the activity and stability of asymmetric-structure catalysts toward energy conversion reactions.    
+
+    
+
+## Efficient electrochemical reduction of CO2 to CO in flow cell device by a pristine Cu5tz6-cluster-based metal-organic framework   
+
+OpenAlex: https://openalex.org/W4393060748    
+Open access: False
+    
+[Zijing Li](https://openalex.org/A5010201433), [Yingtong Lv](https://openalex.org/A5039691735), [Haoliang Huang](https://openalex.org/A5052869764), [Zijian Li](https://openalex.org/A5055517335), [Tao Li](https://openalex.org/A5086326013), [Linjuan Zhang](https://openalex.org/A5075377676), [Jianqiang Wang](https://openalex.org/A5089560386), Dalton Transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00189c.
+    
+The electrochemical reduction of CO2 to CO is a powerful approach to achieve carbon neutrality. Herein, we report a five-nuclear copper cluster-based metal–azolate framework CuTz-1 as an electrocatalyst for the...    
 
     
 
@@ -227,34 +271,12 @@ Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources
 
     
 
-## A review: Enhanced performance of recycled cement and CO2 emission reduction effects through thermal activation and nanosilica incorporation   
-
-OpenAlex: https://openalex.org/W4392873054    
-Open access: False
-    
-[Ying‐Ying Zheng](https://openalex.org/A5072953616), [Xinyue Xi](https://openalex.org/A5092348627), [Heng Liu](https://openalex.org/A5046670716), [Cheng-Ran Du](https://openalex.org/A5036298085), [Hongbo Lu](https://openalex.org/A5024061794), Construction and Building Materials. 422(None)] 2024.https://doi.org/10.1016/j.conbuildmat.2024.135763.
-    
-No abstract    
-
-    
-
 ## Multi-Objective Evolutionary Optimization & 4E analysis of a bulky combined cycle power plant by CO2/ CO/ NOx reduction and cost controlling targets   
 
 OpenAlex: https://openalex.org/W4392886402    
 Open access: False
     
 [Soheil Mohtaram](https://openalex.org/A5040340065), [HongGuang Sun](https://openalex.org/A5060741316), [Ji Lin](https://openalex.org/A5011553526), [Wen Chen](https://openalex.org/A5013280253), [Yonghui Sun](https://openalex.org/A5041813331), RePEc: Research Papers in Economics. None(None)] 2020.None.
-    
-No abstract    
-
-    
-
-## In-situ exsolved ultrafine Ni nanoparticles from CeZrNiO2 solid solution for efficient photothermal catalytic CO2 reduction by CH4   
-
-OpenAlex: https://openalex.org/W4392852583    
-Open access: True
-    
-[Guanrui Ji](https://openalex.org/A5032035216), [Lanxiang Ji](https://openalex.org/A5033692747), [Shaowen Wu](https://openalex.org/A5054075598), [L. Meng](https://openalex.org/A5002809821), [Ying-Lian Jia](https://openalex.org/A5046151830), [Zhanning Liu](https://openalex.org/A5015991051), [Shihua Dong](https://openalex.org/A5087680379), [Jian Tian](https://openalex.org/A5004877274), [Yuanzhi Li](https://openalex.org/A5070340856), Advanced Powder Materials. None(None)] 2024.https://doi.org/10.1016/j.apmate.2024.100188.
     
 No abstract    
 
@@ -268,27 +290,5 @@ Open access: True
 [Yingjie Liu](https://openalex.org/A5041825125), [Zhaohui Wu](https://openalex.org/A5050749949), [Shuting Bai](https://openalex.org/A5029631053), [Tianyang Shen](https://openalex.org/A5029347047), [Qian Li](https://openalex.org/A5077410165), [Guihao Liu](https://openalex.org/A5018594979), [Xiaoliang Sun](https://openalex.org/A5061534390), [Yihang Hu](https://openalex.org/A5031002299), [Ziheng Song](https://openalex.org/A5061549504), [Jinfeng Chu](https://openalex.org/A5005216047), [Yu‐Fei Song](https://openalex.org/A5067200024), Nanoscale advances. None(None)] 2024.https://doi.org/10.1039/d4na00167b.
     
 Herein, we report the successful fabrication of a serious of transition metal doped Ni nanoparticles (NPs) cooperated by Ni single atoms in nitrogen-doped carbon nanotubes (denoted as Ni1+NPsM-NCNTs, M =...    
-
-    
-
-## Inductive effect in amino functionalized ionic liquids modified TS-1 nanosheets for efficiently sunlight-driven CO2 reduction   
-
-OpenAlex: https://openalex.org/W4392932051    
-Open access: False
-    
-[Xin Guo](https://openalex.org/A5040128598), [Zhiyuan Wang](https://openalex.org/A5091143353), [Siqi Jiang](https://openalex.org/A5038170438), [Mengwei Li](https://openalex.org/A5091376481), [Jianing Guo](https://openalex.org/A5011620503), [Yu Chen](https://openalex.org/A5019678627), [Xiujuan Wei](https://openalex.org/A5088522668), [Baohui Qi](https://openalex.org/A5049729176), [Qizhong Huang](https://openalex.org/A5009340223), [Yanduo Liu](https://openalex.org/A5041796437), [Hongquan Jiang](https://openalex.org/A5054096557), [Yu‐Feng Hu](https://openalex.org/A5086894006), Fuel. 367(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131504.
-    
-No abstract    
-
-    
-
-## Au@ZnS core–shell nanoparticles decorated 3D hierarchical porous TiO2 photocatalysts for visible-light-driven CO2 reduction into CH4   
-
-OpenAlex: https://openalex.org/W4392845137    
-Open access: False
-    
-[Yifei Li](https://openalex.org/A5023153444), [Yuechang Wei](https://openalex.org/A5051289737), [Jing Xiong](https://openalex.org/A5034530775), [Zhiling Tang](https://openalex.org/A5034981170), [Yingli Wang](https://openalex.org/A5003395715), [Xiong Wang](https://openalex.org/A5026091430), [Zhao Zhang](https://openalex.org/A5065361552), [Jian Liu](https://openalex.org/A5060165452), Chemical Engineering Science. None(None)] 2024.https://doi.org/10.1016/j.ces.2024.120017.
-    
-No abstract    
 
     

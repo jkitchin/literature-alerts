@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:50:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -38,6 +38,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.118732</guid>
     </item>
     <item>
+      <title>Electrolyzer and Catalyst Engineering for Acidic CO2 Reduction</title>
+      <link>https://openalex.org/W4393057305</link>
+      <description>Alessandro Perazio, No host. None(None)] 2023. https://openalex.org/W4393057305
+
+                No abstract</description>
+      <author>Alessandro Perazio</author>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393057305</guid>
+    </item>
+    <item>
       <title>The role of organic cations in the electrochemical reduction of CO2 in aprotic solvents</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-wl1bg</link>
       <description>James McGregor, Jay T. Bender, Amanda Petersen, Louise M. Ca&#241;ada, Jan Rossmeisl, Joan F. Brennecke, Joaquin Resasco, No host. None(None)] 2024. https://openalex.org/W4392917891
@@ -52,7 +62,7 @@
       <link>https://doi.org/10.2139/ssrn.4761900</link>
       <description>Dominic Alfonso, No host. None(None)] 2024. https://openalex.org/W4392876479
 
-                No abstract</description>
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
       <author>Dominic Alfonso</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4761900</guid>
@@ -98,16 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174220</guid>
     </item>
     <item>
-      <title>Red Blood Cell (RBC)-like Ni@N&#8211;C composites for Efficient Electrochemical CO2 Reduction and Zn-CO2 Battery</title>
-      <link>https://doi.org/10.1039/d3ta08049h</link>
-      <description>Lei Han, Chengwei Wang, Haiping Xu, Ming Yang, Bing Liu, Ming Liu, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4392854289
-
-                Developing high-activity and selectivity electrocatalysts for reducing CO2 to value-added products provides an alternative pathway to alleviate the energy crisis and greenhouse effect. Herein, we presented a ligand-assisted supermolecule-derived red...</description>
-      <author>Lei Han, Chengwei Wang, Haiping Xu, Ming Yang, Bing Liu, Ming Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ta08049h</guid>
-    </item>
-    <item>
       <title>Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review</title>
       <link>https://doi.org/10.52783/jchr.v14.i2.3372</link>
       <description>, Journal of Chemical Health Risks. None(None)] 2024. https://openalex.org/W4393005861
@@ -138,6 +138,36 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301894</guid>
     </item>
     <item>
+      <title>Electrocatalytic reduction of simulated industrial CO2 and CO mixtures: Revising chronoamperometry to enable selective gas mixture reduction via cyclic voltammetry</title>
+      <link>https://doi.org/10.1016/j.cej.2024.150602</link>
+      <description>Wen Qian Chen, Foo Jit Loong Cyrus, Li Ya Ge, Andrei Veksha, Wei Ping Chan, Yafei Shen, Grzegorz Lisak, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4393088089
+
+                No abstract</description>
+      <author>Wen Qian Chen, Foo Jit Loong Cyrus, Li Ya Ge, Andrei Veksha, Wei Ping Chan, Yafei Shen, Grzegorz Lisak</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150602</guid>
+    </item>
+    <item>
+      <title>Beyond CO2 Reduction: Electrochemical C&#8210;N Coupling Reaction for Organonitrogen Compound Production</title>
+      <link>https://doi.org/10.1016/j.coelec.2024.101491</link>
+      <description>Dohun Kim, Jungsu Eo, Siak Piang Lim, Dohun Kim, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4393071276
+
+                No abstract</description>
+      <author>Dohun Kim, Jungsu Eo, Siak Piang Lim, Dohun Kim</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101491</guid>
+    </item>
+    <item>
+      <title>Impacts of Engineered Catalyst Microenvironments using Conductive Polymers during Electrochemical CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.coelec.2024.101490</link>
+      <description>Suyun Lee, Jun-Hee Seo, Chanyeon Kim, Current Opinion in Electrochemistry. None(None)] 2024. https://openalex.org/W4393084614
+
+                No abstract</description>
+      <author>Suyun Lee, Jun-Hee Seo, Chanyeon Kim</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101490</guid>
+    </item>
+    <item>
       <title>Transient Pulsed Discharge Preparation of Graphene Aerogel Supported Asymmetric Cu Cluster Catalysts Promote CO2 Reduction to Ethanol</title>
       <link>https://doi.org/10.21203/rs.3.rs-3991307/v1</link>
       <description>Wenxing Chen, Kaiyuan Liu, Hao Shen, Zhiyi Sun, Qiang Zhang, Guoqiang Liu, Zhongti Sun, Xin Gao, Pengwan Chen, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4392922115
@@ -146,6 +176,16 @@
       <author>Wenxing Chen, Kaiyuan Liu, Hao Shen, Zhiyi Sun, Qiang Zhang, Guoqiang Liu, Zhongti Sun, Xin Gao, Pengwan Chen</author>
       <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-3991307/v1</guid>
+    </item>
+    <item>
+      <title>Efficient electrochemical reduction of CO2 to CO in flow cell device by a pristine Cu5tz6-cluster-based metal-organic framework</title>
+      <link>https://doi.org/10.1039/d4dt00189c</link>
+      <description>Zijing Li, Yingtong Lv, Haoliang Huang, Zijian Li, Tao Li, Linjuan Zhang, Jianqiang Wang, Dalton Transactions. None(None)] 2024. https://openalex.org/W4393060748
+
+                The electrochemical reduction of CO2 to CO is a powerful approach to achieve carbon neutrality. Herein, we report a five-nuclear copper cluster-based metal&#8211;azolate framework CuTz-1 as an electrocatalyst for the...</description>
+      <author>Zijing Li, Yingtong Lv, Haoliang Huang, Zijian Li, Tao Li, Linjuan Zhang, Jianqiang Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dt00189c</guid>
     </item>
     <item>
       <title>Regulate the Adsorption of Oxygen-Containing Intermediates to Promote the Reduction of Co2 to Ch4 on Ni-Based Catalysts</title>
@@ -208,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17061483</guid>
     </item>
     <item>
-      <title>A review: Enhanced performance of recycled cement and CO2 emission reduction effects through thermal activation and nanosilica incorporation</title>
-      <link>https://doi.org/10.1016/j.conbuildmat.2024.135763</link>
-      <description>Ying&#8208;Ying Zheng, Xinyue Xi, Heng Liu, Cheng-Ran Du, Hongbo Lu, Construction and Building Materials. 422(None)] 2024. https://openalex.org/W4392873054
-
-                No abstract</description>
-      <author>Ying&#8208;Ying Zheng, Xinyue Xi, Heng Liu, Cheng-Ran Du, Hongbo Lu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.conbuildmat.2024.135763</guid>
-    </item>
-    <item>
       <title>Multi-Objective Evolutionary Optimization &amp; 4E analysis of a bulky combined cycle power plant by CO2/ CO/ NOx reduction and cost controlling targets</title>
       <link>https://openalex.org/W4392886402</link>
       <description>Soheil Mohtaram, HongGuang Sun, Ji Lin, Wen Chen, Yonghui Sun, RePEc: Research Papers in Economics. None(None)] 2020. https://openalex.org/W4392886402
@@ -228,16 +258,6 @@
       <guid isPermaLink="true">https://openalex.org/W4392886402</guid>
     </item>
     <item>
-      <title>In-situ exsolved ultrafine Ni nanoparticles from CeZrNiO2 solid solution for efficient photothermal catalytic CO2 reduction by CH4</title>
-      <link>https://doi.org/10.1016/j.apmate.2024.100188</link>
-      <description>Guanrui Ji, Lanxiang Ji, Shaowen Wu, L. Meng, Ying-Lian Jia, Zhanning Liu, Shihua Dong, Jian Tian, Yuanzhi Li, Advanced Powder Materials. None(None)] 2024. https://openalex.org/W4392852583
-
-                No abstract</description>
-      <author>Guanrui Ji, Lanxiang Ji, Shaowen Wu, L. Meng, Ying-Lian Jia, Zhanning Liu, Shihua Dong, Jian Tian, Yuanzhi Li</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apmate.2024.100188</guid>
-    </item>
-    <item>
       <title>Revealing the Synergistic Effect of Ni Single Atoms and Adjacent 3d metal Doped Ni Nanoparticles in Electrocatalytic CO2 Reduction</title>
       <link>https://doi.org/10.1039/d4na00167b</link>
       <description>Yingjie Liu, Zhaohui Wu, Shuting Bai, Tianyang Shen, Qian Li, Guihao Liu, Xiaoliang Sun, Yihang Hu, Ziheng Song, Jinfeng Chu, Yu&#8208;Fei Song, Nanoscale advances. None(None)] 2024. https://openalex.org/W4392917915
@@ -246,26 +266,6 @@
       <author>Yingjie Liu, Zhaohui Wu, Shuting Bai, Tianyang Shen, Qian Li, Guihao Liu, Xiaoliang Sun, Yihang Hu, Ziheng Song, Jinfeng Chu, Yu&#8208;Fei Song</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4na00167b</guid>
-    </item>
-    <item>
-      <title>Inductive effect in amino functionalized ionic liquids modified TS-1 nanosheets for efficiently sunlight-driven CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.131504</link>
-      <description>Xin Guo, Zhiyuan Wang, Siqi Jiang, Mengwei Li, Jianing Guo, Yu Chen, Xiujuan Wei, Baohui Qi, Qizhong Huang, Yanduo Liu, Hongquan Jiang, Yu&#8208;Feng Hu, Fuel. 367(None)] 2024. https://openalex.org/W4392932051
-
-                No abstract</description>
-      <author>Xin Guo, Zhiyuan Wang, Siqi Jiang, Mengwei Li, Jianing Guo, Yu Chen, Xiujuan Wei, Baohui Qi, Qizhong Huang, Yanduo Liu, Hongquan Jiang, Yu&#8208;Feng Hu</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131504</guid>
-    </item>
-    <item>
-      <title>Au@ZnS core&#8211;shell nanoparticles decorated 3D hierarchical porous TiO2 photocatalysts for visible-light-driven CO2 reduction into CH4</title>
-      <link>https://doi.org/10.1016/j.ces.2024.120017</link>
-      <description>Yifei Li, Yuechang Wei, Jing Xiong, Zhiling Tang, Yingli Wang, Xiong Wang, Zhao Zhang, Jian Liu, Chemical Engineering Science. None(None)] 2024. https://openalex.org/W4392845137
-
-                No abstract</description>
-      <author>Yifei Li, Yuechang Wei, Jing Xiong, Zhiling Tang, Yingli Wang, Xiong Wang, Zhao Zhang, Jian Liu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120017</guid>
     </item>
   </channel>
 </rss>

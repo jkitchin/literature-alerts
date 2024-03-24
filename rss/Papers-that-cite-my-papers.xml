@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:42:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:50:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Local Chemical Environment Dependent Nitrate-Reduction-to-Ammonia Performance on Cu-Based Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acs.jpclett.3c03462</link>
-      <description>Tao Hu, Mengting Wang, Ling Ren, Chang Ming Li, Chunxian Guo, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4392845760
-
-                No abstract</description>
-      <author>Tao Hu, Mengting Wang, Ling Ren, Chang Ming Li, Chunxian Guo</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03462</guid>
-    </item>
-    <item>
-      <title>A review on machine learning in flexible surgical and interventional robots: Where we are and where we are going</title>
-      <link>https://doi.org/10.1016/j.bspc.2024.106179</link>
-      <description>Di Wu, R. Zhang, Ameya Pore, Diego Dall&#8217;Alba, Xuan Thao Ha, Zhen Li, Yao Zhang, Francisco Herrera, Mouloud Ourak, Wojtek Kowalczyk, Elena De Momi, Al&#305;&#769;cia Casals, Jenny Dankelman, Jens Kober, Arianna Menciassi, Paolo Fiorini, Emmanuel Vander Poorten, Biomedical Signal Processing and Control. 93(None)] 2024. https://openalex.org/W4392848497
-
-                No abstract</description>
-      <author>Di Wu, R. Zhang, Ameya Pore, Diego Dall&#8217;Alba, Xuan Thao Ha, Zhen Li, Yao Zhang, Francisco Herrera, Mouloud Ourak, Wojtek Kowalczyk, Elena De Momi, Al&#305;&#769;cia Casals, Jenny Dankelman, Jens Kober, Arianna Menciassi, Paolo Fiorini, Emmanuel Vander Poorten</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.bspc.2024.106179</guid>
-    </item>
-    <item>
-      <title>Nonmetal-modification 2D molybdenum carbide (MXene) for enhanced activity in hydrogen evolution reaction: A DFT study</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.114649</link>
-      <description>Cong Zhang, Wei Chu, Congmei Chen, Wenjing Sun, Catalysis Today. None(None)] 2024. https://openalex.org/W4392858414
-
-                No abstract</description>
-      <author>Cong Zhang, Wei Chu, Congmei Chen, Wenjing Sun</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114649</guid>
-    </item>
-    <item>
-      <title>Perspectives on Cu&#8211;Ag Bimetallic Catalysts for Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction: A Mini-Review</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.3c05194</link>
-      <description>Peiqi Guo, Kaili Liu, Longya Xu, Ruhan Liu, Zongyou Yin, Energy &amp; Fuels. None(None)] 2024. https://openalex.org/W4392858685
-
-                The atmospheric CO2 concentration has increased significantly since the Industrial Revolution, leading to various environmental issues and energy crisis. The electrochemical reduction of CO2 powered by renewable energy is attracting widespread attention, due to its capacity to transform CO2 into value-added chemicals and fuels and contribute to carbon neutrality. Among Cu-based catalysts, Cu&#8211;Ag bimetallic catalysts exhibit superior selectivity for high value-added multicarbon compounds. This mini-review provides an overview of Cu&#8211;Ag bimetallic catalysts including alloy system and composite structure system, emphasizing the relationship between catalysts' structure and the influencing factors for the enhanced selectivity toward C2+. At the end of this review, we outline the challenges and perspectives for the better development of electrochemical CO2 reduction by Cu&#8211;Ag bimetallic catalysts.</description>
-      <author>Peiqi Guo, Kaili Liu, Longya Xu, Ruhan Liu, Zongyou Yin</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.3c05194</guid>
-    </item>
-    <item>
-      <title>Ultrafast Computational Screening of Molecules with Inverted Singlet&#8211;Triplet Energy Gaps Using the Pariser&#8211;Parr&#8211;Pople Semiempirical Quantum Chemistry Method</title>
-      <link>https://doi.org/10.1021/acs.jpca.3c06357</link>
-      <description>Kjell Jorner, Robert Pollice, Cyrille Lavigne, Al&#225;n Aspuru&#8208;Guzik, The Journal of Physical Chemistry A. None(None)] 2024. https://openalex.org/W4392858753
-
-                Molecules with an inverted energy gap between their first singlet and triplet excited states have promising applications in the next generation of organic light-emitting diode (OLED) materials. Unfortunately, such molecules are rare, and only a handful of examples are currently known. High-throughput virtual screening could assist in finding novel classes of these molecules, but current efforts are hampered by the high computational cost of the required quantum chemical methods. We present a method based on the semiempirical Pariser&#8211;Parr&#8211;Pople theory augmented by perturbation theory and show that it reproduces inverted gaps at a fraction of the cost of currently employed excited-state calculations. Our study paves the way for ultrahigh-throughput virtual screening and inverse design to accelerate the discovery and development of this new generation of OLED materials.</description>
-      <author>Kjell Jorner, Robert Pollice, Cyrille Lavigne, Al&#225;n Aspuru&#8208;Guzik</author>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.3c06357</guid>
-    </item>
-    <item>
-      <title>Predicting the activity of single atom catalysts</title>
-      <link>https://doi.org/10.1007/s11426-024-2005-5</link>
-      <description>Giovanni Di Liberto, Gianfranco Pacchioni, Science China Chemistry. None(None)] 2024. https://openalex.org/W4392863026
-
-                No abstract</description>
-      <author>Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Mon, 11 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11426-024-2005-5</guid>
-    </item>
     <item>
       <title>New approach to produce cubic-WC at low temperature for hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.03.107</link>
@@ -76,6 +16,16 @@
       <author>Elvis O. L&#243;pez, Ofelia M. Arias-Pinedo, Rub&#233;n Soria-Mart&#237;nez, Antony Bazan-Aguilar, Gonzalo Garc&#305;&#769;a, Pablo L. Bernardo, N.R. Checca, Alexandre Mello, Ang&#233;lica M. Baena&#8208;Moncada</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.107</guid>
+    </item>
+    <item>
+      <title>A First-Principles Study of the Oxygen Reduction Reaction Activity of Pt with Tm-N-C Support</title>
+      <link>https://doi.org/10.2139/ssrn.4761893</link>
+      <description>Haining Wang, Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Shanfu Lu, Yan Xiang, No host. None(None)] 2024. https://openalex.org/W4392876465
+
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
+      <author>Haining Wang, Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Shanfu Lu, Yan Xiang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4761893</guid>
     </item>
     <item>
       <title>Trace Fe activates perovskite nickelate OER catalysts in alkaline media via redox-active surface Ni species formed during electrocatalysis</title>
@@ -152,7 +102,7 @@
       <link>https://doi.org/10.2139/ssrn.4762336</link>
       <description>Xingchen Zhou, Lanqian Gong, Chen Wu, Yanfang Peng, Bin Cao, Xueliang Jiang, Huan Yang, Daoxiong Wu, Bao Yu Xia, No host. None(None)] 2024. https://openalex.org/W4392899183
 
-                No abstract</description>
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
       <author>Xingchen Zhou, Lanqian Gong, Chen Wu, Yanfang Peng, Bin Cao, Xueliang Jiang, Huan Yang, Daoxiong Wu, Bao Yu Xia</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4762336</guid>
@@ -258,6 +208,56 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1757-899x/1299/1/012012</guid>
     </item>
     <item>
+      <title>Micromechanical Dilution of PLA/PETG&#8211;Glass/Iron Nanocomposites: A More Efficient Molecular Dynamics Approach</title>
+      <link>https://doi.org/10.1021/acsomega.3c08264</link>
+      <description>William A. Pisani, Dane N. Wedgeworth, Jedadiah F. Burroughs, Travis L. Thornell, Jennifer F. Newman, Manoj K. Shukla, ACS Omega. None(None)] 2024. https://openalex.org/W4392934927
+
+                No abstract</description>
+      <author>William A. Pisani, Dane N. Wedgeworth, Jedadiah F. Burroughs, Travis L. Thornell, Jennifer F. Newman, Manoj K. Shukla</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c08264</guid>
+    </item>
+    <item>
+      <title>Catalytic Activity and Electrochemical Stability of Ru&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;M&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; (M = Zr, Nb, Ta): Computational and Experimental Study of the Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsami.4c01408</link>
+      <description>Francisco Ospina&#8208;Acevedo, Luis A Albiter, Kathleen O. Bailey, Jos&#233; Fernando God&#237;nez-Salom&#243;n, Christopher P. Rhodes, Perla B. Balbuena, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4392939927
+
+                We use computations and experiments to determine the effect of substituting zirconium, niobium, and tantalum within rutile RuO2 on the structure, oxygen evolution reaction (OER) mechanism and activity, and electrochemical stability. Calculated electronic structures altered by Zr, Nb, and Ta show surface regions of electron density depletion and accumulation, along with anisotropic lattice parameter shifts dependent on the substitution site, substituent, and concentration. Consistent with theory, X-ray photoelectron spectroscopy experiments show shifts in binding energies of O-2s, O-2p, and Ru-4d peaks due to the substituents. Experimentally, the substituted materials showed the presence of two phases with a majority phase that contains the metal substituent within the rutile phase and a second, smaller-percentage RuO2 phase. Our experimental analysis of OER activity shows Zr, Nb, and Ta substituents at 12.5 atom % induce lower activity relative to RuO2, which agrees with computing the average of all sites; however, Zr and Ta substitution at specific sites yields higher theoretical OER activity than RuO2, with Zr substitution suggesting an alternative OER mechanism. Metal dissolution predictions show the involvement of cooperative interactions among multiple surface sites and the electrolyte. Zr substitution at specific sites increases activation barriers for Ru dissolution, however, with Zr surface dissolution rates comparable to those of Ru. Experimental OER stability analysis shows lower Ru dissolution from synthesized RuO2 and Zr-substituted RuO2 compared to commercial RuO2 and comparable amounts of Zr and Ru dissolved from Zr-substituted RuO2, aligned with our calculations.</description>
+      <author>Francisco Ospina&#8208;Acevedo, Luis A Albiter, Kathleen O. Bailey, Jos&#233; Fernando God&#237;nez-Salom&#243;n, Christopher P. Rhodes, Perla B. Balbuena</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c01408</guid>
+    </item>
+    <item>
+      <title>First-principles study of the effects of Li/Na/K doping and point defects on the magnetic and photocatalytic properties of monolayer GaN (0 0 1)</title>
+      <link>https://doi.org/10.1016/j.vacuum.2024.113156</link>
+      <description>Jianxiao Si, Qingyu Hou, Weiya Li, Yanxia Zhang, Vacuum. None(None)] 2024. https://openalex.org/W4392946948
+
+                In the experimental preparation of monolayer GaN (0 0 1) by chemical-vapor deposition, H impurities inevitably remain, and the intrinsic defect VGa inevitably forms. In this research, generalized gradient approximation + U plane-wave ultrasoft pseudopotentials are computed using the density-functional theory framework. The effects of Li/Na/K doping and point defect (Hi-VGa) coexistence on the magnetic properties and photocatalytic properties of monolayer GaN (0 0 1) surfaces are investigated. Results show that the monolayer Ga34MN36 (M = Li/Na/K) (0 0 1) surfaces are magnetic, and the source of its magnetism is primarily the itinerant electrons of N2&#8722; ions. The monolayer Ga34MHiN36 (0 0 1) surfaces are relatively more stable, and the separation degree of carriers is better than the monolayer Ga34MN36 (0 0 1) surfaces. In particular, the monolayer Ga34LiHiN36 (0 0 1) surface has a large electric-dipole moment, strong carrier activity, strong absorption efficiency, and strong oxidation-reduction properties. Therefore, the monolayer Ga34LiHiN36 (0 0 1) surface is the most suitable photocatalyst.</description>
+      <author>Jianxiao Si, Qingyu Hou, Weiya Li, Yanxia Zhang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.vacuum.2024.113156</guid>
+    </item>
+    <item>
+      <title>Screening of transition metal dual-atom catalysts for hydrogen evolution reaction based on high-throughput calculation and searching surrogate prediction model using simple features</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.159942</link>
+      <description>J. Wang, Wei Xu, Jun He, Hao Ma, Wanglai Cen, Yu Shen, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392948917
+
+                Dual-atom catalysts for hydrogen evolution reaction have received widespread attention, but precise screening and prediction of high-performance catalysts through simple methods remains a challenge. In this study, we perform high-throughput density functional theory (DFT) calculation and machine learning (ML) to screen and predict the transition metal dual-atom catalysts with N-doped graphene support (TMDACs) for acidic hydrogen evolution reaction. The Fe_Zn and V_Fe DACs were proposed to be the most promising candidates for Pt-based catalyst toward acidic HER from 406 TMDACs, based on the characteristics of HER activity, formation, thermodynamic stability, abundance, environmental friendliness. The Fe_Zn and V_Fe DACs with excellent HER performance is due to the synergistic effect deriving from the interaction between H and dual metal atoms in TMDACs. By determining 6 different ML models with four kind of input features, we find the artificial neural networks (ANN) model can predict the HER performance of TMDACs most accurately only using simple input features, including one-hot-encoding of atomic number and Gibbs free energy of transition metal single-atom catalyst. This work not only proposed the potential TMDACs with high HER performance, but also verified that the ANN model can accurately predict the HER activity of diatomic catalysts with simple input features.</description>
+      <author>J. Wang, Wei Xu, Jun He, Hao Ma, Wanglai Cen, Yu Shen</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159942</guid>
+    </item>
+    <item>
+      <title>MOF/MXene Composites: Synthesis, Application and Future Perspectives</title>
+      <link>https://doi.org/10.1002/adsu.202400011</link>
+      <description>Sakina Bibi, Syed Shoaib Ahmad Shah, Mamona Nazir, Mohamed H. Helal, Salah M. El&#8208;Bahy, Zeinhom M. El&#8208;Bahy, Sultan Ullah, Muhammad Ahmad Wattoo, Aziz ur Rehman, Advanced Sustainable Systems. None(None)] 2024. https://openalex.org/W4392951886
+
+                Abstract 2D MXenes family creates an interest in environmental cleaning and energy conversion. It shows large surface functional groups, electronic transmission, and electrical conductivity. This research focuses on Metal Organic Framework&#8208;based Ti 3 C 2 heterojunctions, directing on surface morphology control, customizable electrical structure, high performance in Ti 3 C 2 &#8208;based electrocatalytic devices, and energy storage as a supercapacitor. In addition, future development obstacles and viable research possibilities are presented. MXene detailed analysis reveals a fundamental study, structure&#8208;activity connections, and potential research paths for environmental applications. Specially developed MOF/MXene nanoarchitectures with remarkable features are highlighted in several study fields, including the chemical sciences, environmental engineering, physics, catalysis, and nanotechnology. They represent a new class of cutting&#8208;edge developing materials. Mainly, the presented review describes multiple synthesis approaches by adjusting conditions for MOF/MXene nanoarchitectures with varying morphologies, and intriguing properties can also be developed for electrochemical energy conversion and storage.</description>
+      <author>Sakina Bibi, Syed Shoaib Ahmad Shah, Mamona Nazir, Mohamed H. Helal, Salah M. El&#8208;Bahy, Zeinhom M. El&#8208;Bahy, Sultan Ullah, Muhammad Ahmad Wattoo, Aziz ur Rehman</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400011</guid>
+    </item>
+    <item>
       <title>Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c00028</link>
       <description>Tristan Maxson, Ademola Soyemi, Benjamin W. J. Chen, Tibor Szilv&#225;si, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393002362
@@ -276,6 +276,16 @@
       <author>Timothy T. Duignan</author>
       <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.4c00004</guid>
+    </item>
+    <item>
+      <title>Perspectives on Advancing Sustainable CO&lt;sub&gt;2&lt;/sub&gt; Conversion Processes: Trinomial Technology, Environment, and Economy</title>
+      <link>https://doi.org/10.1021/acssuschemeng.3c07133</link>
+      <description>Lourdes F. Vega, Daniel Baham&#243;n, Ismail I.I. Alkhatib, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4393097423
+
+                CO2 can be converted into value-added products such as fuels, chemicals, and building materials, adding an economic incentive for CO2 capture and green economy, while also reducing the environmental footprint of hard-to-abate industries such as aviation, construction, and metallurgy. Nonetheless, most available technologies for direct CO2 conversion, while promising, are still in early development stages, facing technical and economic challenges for their scale-up, questioning their viability to truly instill a timely impact on global CO2 emissions. Furthermore, a clear environmental benefit should be obtained for the new processes versus the traditional ones they are replacing in the market. In this perspective, we examine the range of available technologies for direct CO2 conversion using thermal, electrical, and photochemical routes and mineralization including the advancements in their role in synthesizing a range of resulting products from methanol, methane, carbon monoxide, and solid carbonates. We offer insights on the trends in current research and development and the required direction to expedite the technological readiness of attractive CO2 conversion technologies in terms of catalytic material and reactor design. We also highlight the important role of modeling (molecular and process levels) as an enabling tool to deploy these technologies at the commercial scale originating from understanding their behavior at the molecular level. Lastly, we highlight the significance of carrying out reliable life cycle analysis in identifying the environmental hotspots as well as gaps in the technology that allows improving their environmental footprint and economic attractiveness.</description>
+      <author>Lourdes F. Vega, Daniel Baham&#243;n, Ismail I.I. Alkhatib</author>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07133</guid>
     </item>
     <item>
       <title>Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</title>

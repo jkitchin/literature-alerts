@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 23 Mar 2024 00:42:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 00:50:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ir metal nanoparticles and IrO2 for acidic oxygen evolution reaction: Insight from Raman spectroscopy</title>
-      <link>https://doi.org/10.1016/j.susmat.2024.e00901</link>
-      <description>L&#233;onard Moriau, Mohammed Azeezulla Nazrulla, Anja Lon&#269;ar, Luka Pavko, Marjan Bele, Nejc Hodnik, Angelja Kjara &#352;urca, Sustainable Materials and Technologies. None(None)] 2024. https://openalex.org/W4392845191
-
-                No abstract</description>
-      <author>L&#233;onard Moriau, Mohammed Azeezulla Nazrulla, Anja Lon&#269;ar, Luka Pavko, Marjan Bele, Nejc Hodnik, Angelja Kjara &#352;urca</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.susmat.2024.e00901</guid>
-    </item>
-    <item>
-      <title>Interface transformation strategy to 1D hierarchically porous carbon with enhanced bifunctional oxygen electrocatalytic performance</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150433</link>
-      <description>Tao Feng, Zhaoying Wang, Shuangna Wang, Shuo Xing, Changqing Li, Shujun Wang, Zhaoxia Jin, Jong&#8208;Beom Baek, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392858338
-
-                No abstract</description>
-      <author>Tao Feng, Zhaoying Wang, Shuangna Wang, Shuo Xing, Changqing Li, Shujun Wang, Zhaoxia Jin, Jong&#8208;Beom Baek</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150433</guid>
-    </item>
-    <item>
-      <title>Codecoration of Phosphate and Iron for Improving Oxygen Evolution Reaction of Layered Ni(OH)&lt;sub&gt;2&lt;/sub&gt;/NiOOH</title>
-      <link>https://doi.org/10.1021/acscatal.4c00229</link>
-      <description>Yuexiang Li, Junliang Liu, Shuqi Li, Shaoqin Peng, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392858728
-
-                Hydrogen production through electrochemical water splitting (EWS) presents a viable solution for addressing the fossil energy crisis. However, the commercial viability of this approach is impeded by the sluggish kinetics of the oxygen evolution reaction (OER). It is urgently needed to develop efficient, stable, and cost-effective OER electrocatalysts. Herein, we comprehensively design and investigate a phosphate ion and Fe3+ codecorating Ni(OH)2/NiOOH electrocatalyst (Pi-Fe:NiOH) for OER. This codecoration induces multiple synergistic effects, which include an increase in the interlayer water content for the internal OER, altering the OER mechanism, facilitating proton transport across the layers, and improving the stability of Pi-Fe:NiOH. Consequently, Pi-Fe:NiOH exhibits a high OER activity with overpotentials of 118 &#177; 1 and 222 &#177; 4 mV at current densities of 10 and 100 mA cm&#8211;2, respectively. More impressively, it maintains stable operation at a high current density of around 300 mA cm&#8211;2 for at least 500 h, much better than the Ni(OH)2/NiOOH electrocatalyst (NiOH) for less than 6 h at a current density below 200 mA cm&#8211;2. These findings offer insights for the design of anion&#8211;cation codoped hydroxide eletrocatalysts, paving a way for the development of efficient and stable OER electrocatalysts.</description>
-      <author>Yuexiang Li, Junliang Liu, Shuqi Li, Shaoqin Peng</author>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00229</guid>
-    </item>
-    <item>
-      <title>Enhancing Oxygen Evolution Reaction through In Situ Electrochemical Oxidation for the Structural Control of Co-Fe Prussian Blue Analogue</title>
-      <link>https://doi.org/10.53964/id.2024005</link>
-      <description>Yajuan Chen, Jing Tang, Weijun Li, Jielei Tu, Chunmao Huang, No host. None(None)] 2024. https://openalex.org/W4392864024
-
-                The development of exceptionally efficient catalysts for the oxygen evolution reaction (OER) and gaining a deep understanding of their activity is essential for advancing electrochemical conversion technologies. Prussian blue analogues (PBAs) serve as promising pre-catalysts for the OER. However, PBAs, typically prepared through the conventional co-precipitation method, exhibit a lower active site density and limited electrical transport, making them suitable precursors for the derivation of PBA derivatives. In this research, we identified a significant enhancement in the electrocatalytic performance of Co-Fe Prussian blue analogue (CoFe PBA) through electrochemical oxidation. The cubic CoFe PBA was synthesized by one-step co-precipitation method using adjusting the amount of sodium citrate and potassium ferricyanide. After the electrochemical treatment, CoFe PBA demonstrates remarkable attributes, including a low overpotential of 331mV at a current density of 10mA&#183;cm-2, a small Tafel slope of 50.4mV&#183;dec-1, and excellent long-term stability during electrolysis in a 1M KOH alkaline medium for over 37h. Moreover, the electrochemical oxidation of CoFe PBA was comprehensive, employing techniques such as Transmission electron microscope, Powder X-ray diffraction, and X-ray photoelectron spectroscopy. These analyses confirmed the presence of real active substances, including CoOOH and a part of FeOOH species, further supporting the observed improvements in electrocatalytic activity.</description>
-      <author>Yajuan Chen, Jing Tang, Weijun Li, Jielei Tu, Chunmao Huang</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.53964/id.2024005</guid>
-    </item>
-    <item>
-      <title>Enhanced electrochemical performance of MoSe2 nanosheets on CoAl- layered double hydroxide for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jallcom.2024.174173</link>
-      <description>Sad&#305;k &#199;o&#287;al, Matej Mi&#269;u&#353;&#237;k, Petr Knotek, Kl&#225;ra Mel&#225;nov&#225;, V&#305;&#769;t&#283;zslav Zima, M&#225;ria Omastov&#225;, Journal of Alloys and Compounds. None(None)] 2024. https://openalex.org/W4392867646
-
-                No abstract</description>
-      <author>Sad&#305;k &#199;o&#287;al, Matej Mi&#269;u&#353;&#237;k, Petr Knotek, Kl&#225;ra Mel&#225;nov&#225;, V&#305;&#769;t&#283;zslav Zima, M&#225;ria Omastov&#225;</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174173</guid>
-    </item>
     <item>
       <title>Unlocking the potential of Heusler alloy Ni2CuSn as an electro(pre)catalyst for enhanced oxygen evolution reaction performance</title>
       <link>https://doi.org/10.1007/s10853-024-09520-9</link>
@@ -258,6 +208,56 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v3/decision1</guid>
     </item>
     <item>
+      <title>Review for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d3ra08873a/v1/review2</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4392936413
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v1/review2</guid>
+    </item>
+    <item>
+      <title>Author response for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d3ra08873a/v3/response1</link>
+      <description>Licheng Yu, Wenwen Zhang, Zhihao Nie, Jingjing Duan, Sheng Chen, No host. None(None)] 2024. https://openalex.org/W4392936433
+
+                No abstract</description>
+      <author>Licheng Yu, Wenwen Zhang, Zhihao Nie, Jingjing Duan, Sheng Chen</author>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v3/response1</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d3ra08873a/v2/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4392936500
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Review for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d3ra08873a/v2/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4392936503
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v2/review1</guid>
+    </item>
+    <item>
+      <title>Author response for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
+      <link>https://doi.org/10.1039/d3ra08873a/v2/response1</link>
+      <description>Licheng Yu, Wenwen Zhang, Zhihao Nie, Jingjing Duan, Sheng Chen, No host. None(None)] 2024. https://openalex.org/W4392936732
+
+                No abstract</description>
+      <author>Licheng Yu, Wenwen Zhang, Zhihao Nie, Jingjing Duan, Sheng Chen</author>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v2/response1</guid>
+    </item>
+    <item>
       <title>Activity trends of Pd clusters supported on C2N for oxygen evolution and reduction reactions</title>
       <link>https://doi.org/10.1063/5.0196323</link>
       <description>Longkun Huang, Min Li, Hui Wang, Long Zhang, Applied Physics Letters. 124(12)] 2024. https://openalex.org/W4392919512
@@ -276,6 +276,16 @@
       <author>Juliana Carneiro, Daniela V. Fraga Alvarez</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.100956</guid>
+    </item>
+    <item>
+      <title>2d Co-Based Conductive Metal-Organic Framework for Efficient Oxygen Evolution</title>
+      <link>https://doi.org/10.2139/ssrn.4768541</link>
+      <description>Haijiao Wang, Zhe Chuan Feng, Yantao Wang, Junfeng Huang, Cailing Xu, No host. None(None)] 2024. https://openalex.org/W4393085603
+
+                No abstract</description>
+      <author>Haijiao Wang, Zhe Chuan Feng, Yantao Wang, Junfeng Huang, Cailing Xu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4768541</guid>
     </item>
     <item>
       <title>Observing Long-Lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts</title>
@@ -308,6 +318,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d3ee04338j</guid>
     </item>
     <item>
+      <title>Enhanced oxygen evolution reaction of electrodeposited Functionally-Graded Ni-Cu-Fe coating</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118215</link>
+      <description>Mohammad Mehdi Tavallaie, Morteza Alizadeh, Journal of Electroanalytical Chemistry. None(None)] 2024. https://openalex.org/W4393087725
+
+                No abstract</description>
+      <author>Mohammad Mehdi Tavallaie, Morteza Alizadeh</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118215</guid>
+    </item>
+    <item>
       <title>Ru/Ir&#8208;Based Electrocatalysts for Oxygen Evolution Reaction in Acidic Conditions: From Mechanisms, Optimizations to Challenges</title>
       <link>https://doi.org/10.1002/advs.202309364</link>
       <description>Qin Rong, Guanzhen Chen, Xueting Feng, Jian Weng, Yunhu Han, Advanced Science. None(None)] 2024. https://openalex.org/W4392953409
@@ -316,26 +336,6 @@
       <author>Qin Rong, Guanzhen Chen, Xueting Feng, Jian Weng, Yunhu Han</author>
       <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202309364</guid>
-    </item>
-    <item>
-      <title>Review for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d3ra08873a/v1/review2</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4392936413
-
-                No abstract</description>
-      <author/>
-      <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v1/review2</guid>
-    </item>
-    <item>
-      <title>Review for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
-      <link>https://doi.org/10.1039/d3ra08873a/v2/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4392936503
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ra08873a/v2/review1</guid>
     </item>
     <item>
       <title>Review for "Machine learning guided tuning charge distribution by composition in MOFs for oxygen evolution reaction"</title>
@@ -376,6 +376,16 @@
       <author>Xiaofan Zhang, Zhao-Rong Lai, Yipeng Ye, Xiaojing Su, Huali Xie, Yunhui Wu, Kunquan Li, Wenjian Wu</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104227</guid>
+    </item>
+    <item>
+      <title>Molten salt electrosynthesis of self-supporting FeCoNi medium entropy alloy electrocatalysts for efficient oxygen evolution reactions</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.01.082</link>
+      <description>Xueqiang Zhang, Zhongya Pang, Jinjian Li, Feng Tian, Xuewen Xia, Shun Chen, Xiao Yu, Guangshi Li, Chao Yi Chen, Qian Xu, Xionggang Lu, Xingli Zou, Journal of Materials Science &amp; Technology. None(None)] 2024. https://openalex.org/W4392946670
+
+                High/medium entropy alloys (HEAs/MEAs) with high electrocatalytic activity have attracted great attention in water electrolysis applications. However, facile synthesis of self-supporting high/medium entropy alloys electrocatalysts with rich active sites through classical metallurgical methods is still a challenge. Here, a self-supporting porous FeCoNi MEA electrocatalyst with nanosheets-shaped surface for oxygen evolution reaction (OER) was prepared by a one-step electrochemical process from the metal oxides in molten CaCl2. The formation of the FeCoNi MEA is attributed to the oxides electro-reduction, high-temperature diffusion and solid solution. Additionally, the morphology and structure of the FeCoNi MEA can be precisely controlled by adjusting the electrolysis time and temperature. The electronic structure regulation and the reduced energy barrier of OER from the "cocktail effect", the abundant exposed active sites brought by surface ultrathin nanosheets, the good electronic conductivity and electrochemical stability from the self-supporting structure enable the FeCoNi MEA electrode shows high-performance OER electrocatalysis, exhibiting a low overpotential of 233 mV at a current density of 10 mA cm&#8211;2, a low Tafel slop of 29.8 mV dec&#8211;1, and an excellent stability for over 500 h without any obvious structural destruction. This work demonstrates a facile one-step electrochemical metallurgical approach for fabricating self-supporting HEAs/MEAs electrocatalysts with nanosized surface for the application in water electrolysis.</description>
+      <author>Xueqiang Zhang, Zhongya Pang, Jinjian Li, Feng Tian, Xuewen Xia, Shun Chen, Xiao Yu, Guangshi Li, Chao Yi Chen, Qian Xu, Xionggang Lu, Xingli Zou</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.01.082</guid>
     </item>
   </channel>
 </rss>

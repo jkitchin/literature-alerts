@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Mar 23 00:42:46 2024
+Created on Sun Mar 24 00:50:16 2024
 
-Found 25 results from 2024-03-16 to 2024-03-23
+Found 25 results from 2024-03-17 to 2024-03-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Codecoration of Phosphate and Iron for Improving Oxygen Evolution Reaction of Layered Ni(OH)2/NiOOH   
-
-OpenAlex: https://openalex.org/W4392858728    
-Open access: False
-    
-[Yuexiang Li](https://openalex.org/A5004400089), [Junliang Liu](https://openalex.org/A5003542013), [Shuqi Li](https://openalex.org/A5037202025), [Shaoqin Peng](https://openalex.org/A5090997117), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00229.
-    
-Hydrogen production through electrochemical water splitting (EWS) presents a viable solution for addressing the fossil energy crisis. However, the commercial viability of this approach is impeded by the sluggish kinetics of the oxygen evolution reaction (OER). It is urgently needed to develop efficient, stable, and cost-effective OER electrocatalysts. Herein, we comprehensively design and investigate a phosphate ion and Fe3+ codecorating Ni(OH)2/NiOOH electrocatalyst (Pi-Fe:NiOH) for OER. This codecoration induces multiple synergistic effects, which include an increase in the interlayer water content for the internal OER, altering the OER mechanism, facilitating proton transport across the layers, and improving the stability of Pi-Fe:NiOH. Consequently, Pi-Fe:NiOH exhibits a high OER activity with overpotentials of 118 ± 1 and 222 ± 4 mV at current densities of 10 and 100 mA cm–2, respectively. More impressively, it maintains stable operation at a high current density of around 300 mA cm–2 for at least 500 h, much better than the Ni(OH)2/NiOOH electrocatalyst (NiOH) for less than 6 h at a current density below 200 mA cm–2. These findings offer insights for the design of anion–cation codoped hydroxide eletrocatalysts, paving a way for the development of efficient and stable OER electrocatalysts.    
-
-    
-
-## Low-Temperature N-Allylation of Allylic Alcohols via Synergistic Pd/Cu Catalysis: A Silica-Supported Dual-Metal-Complex Strategy   
-
-OpenAlex: https://openalex.org/W4392862288    
-Open access: False
-    
-[Shun-ichi Sakai](https://openalex.org/A5058787571), [Shingo Hasegawa](https://openalex.org/A5046493438), [Siming Ding](https://openalex.org/A5027744480), [Ryota Osuga](https://openalex.org/A5039390377), [Kiyotaka Nakajima](https://openalex.org/A5010166652), [Shinji Tanaka](https://openalex.org/A5069114564), [Wang‐Jae Chun](https://openalex.org/A5048569737), [Ken Motokura](https://openalex.org/A5031367549), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00638.
-    
-N-allylation is an important method for constructing C–N bonds in fine chemical synthesis. Accumulation of catalytically active species on the same support surface is a promising approach for achieving high catalytic efficiency. In this study, we developed a catalyst comprising Pd and Cu complexes immobilized on a silica surface. The dual-metal-complex catalyst catalyzed the N-allylation of aniline using allyl alcohol at the low temperature of 30 °C with tunable selectivity toward mono- and disubstituted products. The coimmobilization of a Cu complex increased the turnover number of the Pd complex 5.3 times, which was much higher than those of reported heterogeneous catalysts used at reaction temperatures higher than 100 °C. A wide substrate scope, recyclability, and suppression of aggregation and leaching were also confirmed. Whereas synergy was scarcely observed for the simple mixture of homogeneous Pd and Cu complexes, the dual-complex catalyst exhibited significant synergy, indicating concerted catalysis on the solid surface. Spectroscopic analysis, including XAFS, in situ IR, and DNP-enhanced 15N NMR, and density functional theory calculations indicated that an aniline molecule is activated by the Cu complex, resulting in the efficient nucleophilic attack to a π-allylpalladium intermediate.    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4392863198    
-Open access: True
-    
-, ACS Catalysis. 14(6)] 2024.https://doi.org/10.1021/csv014i006_1781035 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i006_1781035)).
-    
-No abstract    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4392863485    
-Open access: True
-    
-, ACS Catalysis. 14(6)] 2024.https://doi.org/10.1021/csv014i006_1781034 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i006_1781034)).
-    
-No abstract    
-
-    
-
-## Highly Stable Self-Cleaning Paints Based on Waste-Valorized PNC-Doped TiO2 Nanoparticles   
-
-OpenAlex: https://openalex.org/W4392864297    
-Open access: True
-    
-[Qaisar Maqbool](https://openalex.org/A5040018493), [O. Favoni](https://openalex.org/A5034237345), [Thomas Wicht](https://openalex.org/A5092012504), [Niusha Lasemi](https://openalex.org/A5062541617), [Simona Sabbatini](https://openalex.org/A5004487085), [Michael Stöger‐Pollach](https://openalex.org/A5075669045), [Maria Letizia Ruello](https://openalex.org/A5067525362), [Francesca Tittarelli](https://openalex.org/A5030318710), [Günther Rupprechter](https://openalex.org/A5088541152), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06203 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06203)).
-    
-Adding photocatalytically active TiO2 nanoparticles (NPs) to polymeric paints is a feasible route toward self-cleaning coatings. While paint modification by TiO2-NPs may improve photoactivity, it may also cause polymer degradation and release of toxic volatile organic compounds. To counterbalance adverse effects, a synthesis method for nonmetal (P, N, and C)-doped TiO2-NPs is introduced, based purely on waste valorization. PNC-doped TiO2-NP characterization by vibrational and photoelectron spectroscopy, electron microscopy, diffraction, and thermal analysis suggests that TiO2-NPs were modified with phosphate (P═O), imine species (R═N-R), and carbon, which also hindered the anatase/rutile phase transformation, even upon 700 °C calcination. When added to water-based paints, PNC-doped TiO2-NPs achieved 96% removal of surface-adsorbed pollutants under natural sunlight or UV, paralleled by stability of the paint formulation, as confirmed by micro-Fourier transform infrared (FTIR) surface analysis. The origin of the photoinduced self-cleaning properties was rationalized by three-dimensional (3D) and synchronous photoluminescence spectroscopy, indicating that the dopants led to 7.3 times stronger inhibition of photoinduced e–/h+ recombination when compared to a benchmark P25 photocatalyst.    
-
-    
 
 ## Copper Photocatalyzed Divergent Access to Organic Thio- and Isothiocyanates   
 
@@ -278,5 +223,60 @@ Open access: False
 [Weifeng Wang](https://openalex.org/A5072823315), [Ka Lu](https://openalex.org/A5072068915), [Peng-Rui Liu](https://openalex.org/A5034214912), [Hui-Hui Zeng](https://openalex.org/A5073087998), [Li–Miao Yang](https://openalex.org/A5072753261), [Ai‐Jun Ma](https://openalex.org/A5064342024), [Yong‐Qiang Tu](https://openalex.org/A5067879579), [Jin‐Bao Peng](https://openalex.org/A5076885617), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00260.
     
 No abstract    
+
+    
+
+## Hydroxide Structure-Dependent OH Promotion Mechanism over a Hydroxylated CoOx/Pt(111) Catalyst toward CO Oxidation   
+
+OpenAlex: https://openalex.org/W4393040749    
+Open access: False
+    
+[Dongqing Wang](https://openalex.org/A5034816956), [Rongtan Li](https://openalex.org/A5036674060), [Xiangyu Sun](https://openalex.org/A5074416469), [Le Lin](https://openalex.org/A5057105150), [Kun Li](https://openalex.org/A5091973386), [Rankun Zhang](https://openalex.org/A5080374578), [Rentao Mu](https://openalex.org/A5039993707), [Qiang Fu](https://openalex.org/A5042400054), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01084.
+    
+No abstract    
+
+    
+
+## Catalytic Enantioselective Synthesis of Inherently Chiral Macrocycles by Dynamic Kinetic Resolution   
+
+OpenAlex: https://openalex.org/W4393045444    
+Open access: False
+    
+[Qi Lü](https://openalex.org/A5032451131), [Xudong Wang](https://openalex.org/A5019290469), [Shuo Tong](https://openalex.org/A5005998007), [Jieping Zhu](https://openalex.org/A5055586375), [Mei‐Xiang Wang](https://openalex.org/A5080389064), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00598.
+    
+No abstract    
+
+    
+
+## Phase-dependent Electrocatalytic Nitrate Reduction to Ammonia on Janus Cu@Ni Tandem Catalyst   
+
+OpenAlex: https://openalex.org/W4393054884    
+Open access: True
+    
+[Yao‐Yin Lou](https://openalex.org/A5071956527), [Qizheng Zheng](https://openalex.org/A5007731421), [Shiyuan Zhou](https://openalex.org/A5005495666), [Jia-Yi Fang](https://openalex.org/A5053540906), [Ouardia Akdim](https://openalex.org/A5078084710), [Xingyu Ding](https://openalex.org/A5079668549), [Rena Oh](https://openalex.org/A5084318246), [Gyeong-Su Park](https://openalex.org/A5076737678), [Xiaoyang Huang](https://openalex.org/A5005686261), [Shi‐Gang Sun](https://openalex.org/A5036206050), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00479 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00479)).
+    
+Electrosynthesis of NH3 from nitrate anion (NO3–) reduction (NO3–RR) is a cascade reaction, which is considered a great potential alternative to the Haber–Bosch route to reduce CO2 emissions and alleviate the adverse effects of excessive NO3– contamination in the environment. Frequently, solid solution alloys (SSAs) with a single-phase active site may struggle to fully utilize their benefits during the entire process of nitrate (NO3–) reduction, which involves multiple intermediate reactions. In this study, we showed that by separating Cu and Ni in a Janus Cu@Ni catalyst structure, we can achieve high performance in NO3–RR, yielding a high Faradaic efficiency (92.5%) and a production rate of NH3 (1127 mmol h–1 g–1) at −0.2 V versus RHE, compared to CuNi SSA (82.6%, 264 mmol h–1 g–1). Here, we demonstrate that a Janus Cu@Ni catalyst with short-range ordered catalytic sites favors the adsorption of NO through a bridge-bond mode. Simultaneously, a hydrogen spillover process was observed, in which Ni dissociates H2O to generate *H which spontaneously migrates to adjacent catalytic sites to hydrogenate the *NOx intermediates. This facilitates N–O bond cleavage, resulting in the NH3 production rate nearly 5 times higher than that of CuNi SSA, where NO was linearly bonded on its surface. The study of this catalytic effect, a cooperative tandem enhancement, provides insights into the design of multifunctional heterogeneous catalysts for electrochemical NH3 synthesis.    
+
+    
+
+## Reversible Hydrogenation of CO2 to Formamides Using an Atomically Dispersed Ir/C3N4 Catalyst   
+
+OpenAlex: https://openalex.org/W4393054890    
+Open access: False
+    
+[Danyang Cheng](https://openalex.org/A5090567728), [Maolin Wang](https://openalex.org/A5049045609), [Shixiang Yu](https://openalex.org/A5010399847), [Mi Peng](https://openalex.org/A5030110394), [Wu Zhou](https://openalex.org/A5003237621), [Wulin Yang](https://openalex.org/A5069482272), [Meng Wang](https://openalex.org/A5031462315), [Ding Ma](https://openalex.org/A5055822249), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00751.
+    
+The utilization of different energy carriers to efficiently store and release energy plays a vital role in the pursuit of a renewable energy paradigm. In this context, we present an interesting system utilizing morpholine as a dual-functional agent in the reversible hydrogenation of CO2 to formamides employing an atomically dispersed iridium (Ir) catalyst. Morpholine serves as a stabilizer during CO2 hydrogenation and a CO2 capture agent during dehydrogenation, enabling a carbon-neutral cycle for hydrogen storage. Notably, these reversible cycles could be facilitated by the same catalyst and maintained under identical temperature conditions by a simple H2 pressure swing. The robustness of this system is underscored by its consistent performance across multiple charging–discharging cycles without a noticeable reduction in the storage capacity. Additionally, the Ir catalyst exhibits strong CO tolerance during hydrogenation, making it suitable for purifying crude hydrogen via the reversible process.    
+
+    
+
+## Chloroiridium Complexes of Biaryl-Based Diphosphines for Thermal Catalytic Transfer Dehydrogenation of Hindered 1,1-Disubstituted Ethanes   
+
+OpenAlex: https://openalex.org/W4393054959    
+Open access: False
+    
+[Yirong Wu](https://openalex.org/A5013249496), [Haofeng Xu](https://openalex.org/A5082770776), [Kuan Wang](https://openalex.org/A5068508373), [Guixia Liu](https://openalex.org/A5037644447), [Lan Gan](https://openalex.org/A5012635301), [Zheng Huang](https://openalex.org/A5033486450), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00312.
+    
+Thermal catalytic dehydrogenation of congested alkanes, such as the 1,1-disubstituted ethane (1,1-DSE) motif, is still a largely unsolved challenge. Herein, we report the investigation of biaryl-based atropisomeric diphosphines with various electronic and steric properties and their corresponding chloroiridium complexes for catalytic transfer dehydrogenation (CTD) of 1,1-DSEs using tert-butylethene as H-acceptor. The use of diphosphines of the biaryl backbone with a narrow dihedral angle was found to be essential to forming an effective catalytic species, cis-P2ClIr. A systematic investigation of three atropisomeric diphosphine classes, Segphos, MeO-Biphep, and Binap, revealed that the sterically hindered and electron-rich ligands are more efficient than the less hindered and electron-deficient ones. With an understanding of the structure–activity relationships, we developed two highly encumbered ligands 3,5-TMS,4-MeOMeO-Biphep (M12) and 3-TIPS,5-TMSMeO-Biphep (M13), which afforded >1400 turnovers at 150 °C in the cumene/TBE CTD reaction, representing the most efficient catalyst for thermal catalytic dehydrogenation of 1,1-DSEs. Moreover, these two ligands produced ∼420 turnovers in the CTD of 2-(1-adamantyl)propane, demonstrating their ability in dehydrogenation of unactivated hindered dialkyl-substituted ethanes.    
 
     
