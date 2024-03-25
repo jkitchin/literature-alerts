@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:45:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Emerging two-dimensional materials: Synthesis, physical properties, and application for catalysis in energy conversion and storage</title>
+      <link>https://doi.org/10.59717/j.xinn-mater.2024.100060</link>
+      <description>Xu Li, Rashid Iqbal, Yijun Wang, Sana Taimoor, Leiduan Hao, Renhao Dong, Kaihui Liu, John Texter, Zhenyu Sun, The Innovation Materials. 2(1)] 2024. https://openalex.org/W4392948629
+
+                &lt;p&gt;Inorganic, organic, and hybrid two-dimensional (2D) materials are being developed for ever-expanding numbers of applications, though energy and catalysis remain the main drivers of their development. We present overviews of bottom-up and top-down synthetic strategies of such materials and examine manufacturing scalability issues. Mechanical, electrical, and thermal properties and their modulation are highlighted because they are fundamental to the above-mentioned drivers. The burgeoning importance of heterostructures in such materials, particularly for catalysis and electrode design and function is stressed. Detailed attention is given to applications of 2D materials to the electrocatalysis reactions: oxygen reduction, oxygen evolution, hydrogen evolution, carbon dioxide reduction, and nitrogen reduction. Water splitting, carbon dioxide reduction, and nitrogen reduction by photocatalysis are also examined. A perspective of expected advances in the expansion of applications and types of 2D materials, with a focus on heterostructure development, is presented in the conclusion.&lt;/p&gt;</description>
+      <author>Xu Li, Rashid Iqbal, Yijun Wang, Sana Taimoor, Leiduan Hao, Renhao Dong, Kaihui Liu, John Texter, Zhenyu Sun</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.59717/j.xinn-mater.2024.100060</guid>
+    </item>
     <item>
       <title>Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review</title>
       <link>https://doi.org/10.1007/s11237-024-09790-z</link>
@@ -26,6 +36,16 @@
       <author>Weizhi Yao, Liang Liu, Hidemichi Fujii, Lianshui Li</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.141820</guid>
+    </item>
+    <item>
+      <title>Single-atom anchored on curved boron nitride fullerene surface as efficient electrocatalyst for carbon dioxide reduction</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114040</link>
+      <description>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu, Molecular Catalysis. 559(None)] 2024. https://openalex.org/W4393116736
+
+                No abstract</description>
+      <author>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114040</guid>
     </item>
     <item>
       <title>How informal environmental regulations constrain carbon dioxide emissions under pollution control and carbon reduction: Evidence from China</title>
@@ -58,26 +78,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-wl1bg</guid>
     </item>
     <item>
-      <title>Revisiting the Electrochemical Reduction of Co2 on Au25(Sr)18- Nanocluster</title>
-      <link>https://doi.org/10.2139/ssrn.4761900</link>
-      <description>Dominic Alfonso, No host. None(None)] 2024. https://openalex.org/W4392876479
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Dominic Alfonso</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4761900</guid>
-    </item>
-    <item>
-      <title>Electrochemical CO2 reduction on a copper foam electrode at elevated pressures</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150478</link>
-      <description>Nandalal Girichandran, Saeed Saedy, Ruud Kortlever, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4392878167
-
-                No abstract</description>
-      <author>Nandalal Girichandran, Saeed Saedy, Ruud Kortlever</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150478</guid>
-    </item>
-    <item>
       <title>Electrochemical Reduction of CO2 catalyzed by a Cobalt molecular complex and a bimetallic Ni-Sn electrocatalyst</title>
       <link>https://openalex.org/W4393024413</link>
       <description>Paul Rayess, No host. None(None)] 2021. https://openalex.org/W4393024413
@@ -86,16 +86,6 @@
       <author>Paul Rayess</author>
       <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openalex.org/W4393024413</guid>
-    </item>
-    <item>
-      <title>Practical Potential of Suspension Electrodes for Enhanced Limiting Currents in Electrochemical CO2 Reduction</title>
-      <link>https://doi.org/10.1039/d3ya00611e</link>
-      <description>Nathalie E. G. Ligthart, Gerard Prats Vergel, JT Johan Padding, David A. Vermaas, Energy advances. None(None)] 2024. https://openalex.org/W4392887580
-
-                CO2 conversion is an important part of the transition towards clean fuels and chemicals. However, low solubility of CO2 in water and its slow diffusion cause mass transfer limitations in...</description>
-      <author>Nathalie E. G. Ligthart, Gerard Prats Vergel, JT Johan Padding, David A. Vermaas</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ya00611e</guid>
     </item>
     <item>
       <title>Efficient photoelectrocatalytic reduction of CO2 to formate via Bi-Doped InOCl nanosheets</title>
@@ -112,7 +102,7 @@
       <link>https://doi.org/10.52783/jchr.v14.i2.3372</link>
       <description>, Journal of Chemical Health Risks. None(None)] 2024. https://openalex.org/W4393005861
 
-                No abstract</description>
+                The global pursuit of sustainable energy and environmental solutions has intensified the focus on water splitting and CO2 reduction as promising pathways towards a low-carbon future.Membrane technologies have emerged as crucial components in enhancing the efficiency and selectivity of these processes.This comprehensive review explores recent advancements in membrane technologies for water splitting and CO2 reduction, aiming to provide insights into their fundamental principles, current state-of-the-art developments, and prospects.Various techniques such as electrolysis, electrochemical and photocatalytic CO2 reduction are discussed, highlighting their respective principles and challenges.Subsequently, the role of membranes in facilitating these processes is examined.Different types of membranes are reviewed in terms of their structure, properties, and recent advancements aimed at improving performance.In the realm of water splitting, membranes play a pivotal role in separating reactants and products, enhancing reactions and enabling efficient utilization of resources.Recent developments in membrane have shown promising results in improving water splitting efficiency and durability.Similarly, in CO2 reduction processes, membranes are utilized for gas separation, concentration, and selective transport of species, enabling enhanced reaction and product selectivity.Integration of membrane technologies into water splitting and CO2 reduction systems is another area of focus, with the review examining the advantages and challenges associated with such integration.Integrated membrane systems are presented, showcasing their potential to achieve synergistic effects, and improved overall performance.Despite significant progress, including membrane fouling, stability, and cost-effectiveness, which necessitate further research and development efforts.In conclusion, this review underscores the critical role of membrane technologies in advancing water splitting and CO2 reduction for sustainable energy and environmental applications.By providing a comprehensive overview of recent advancements, challenges, and prospects, this review aims to stimulate further research and innovation in the field, ultimately contributing to the realization of a cleaner and more sustainable future.</description>
       <author/>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.52783/jchr.v14.i2.3372</guid>
@@ -122,20 +112,10 @@
       <link>https://doi.org/10.2139/ssrn.4760891</link>
       <description>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang, No host. None(None)] 2024. https://openalex.org/W4392973237
 
-                No abstract</description>
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
       <author>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4760891</guid>
-    </item>
-    <item>
-      <title>Multi&#8208;metallic Layered Catalysts for Stable Electrochemical CO2 Reduction to Formate and Formic Acid</title>
-      <link>https://doi.org/10.1002/cssc.202301894</link>
-      <description>Tu N. Nguyen, Behnam Nourmohammadi Khiarak, Zijun Xu, Amirhossein Farzi, Sharif Md. Sadaf, Ali Seifitokaldani, Cao-Thang Dinh, ChemSusChem. None(None)] 2024. https://openalex.org/W4392882857
-
-                We report the development of bismuth (Bi) gas diffusion electrodes on a polytetrafluoroethylene&#8208;based electrically conductive silver (Ag) substrate (Ag@Bi), which exhibits high Faradaic efficiency (FE) for formate of over 90% in 1 M KOH and 1 M KHCO3 electrolytes. The catalyst also shows high selectivity of formic acid above 85% in 1 M NaCl catholyte, which has a bulk pH of 2&#8208;3 during ECR, at current densities up to 300 mA cm&#8208;2. In 1 M KHCO3 condition, the Ag@Bi maintains a formate FE above 90% for at least 500 hours at the current density of 100 mA cm&#8208;2. We found that Ag@Bi catalysts degrade over time due to the leaching of Bi in the NaCl catholyte. To overcome this challenge, we deposited a layer of Ag nanoparticles on the surface of Ag@Bi to form a multi&#8208;layer Ag@Bi/Ag catalyst. This designed catalyst exhibits 300 hours of stability with FE for formic acid &#8805; 70% at 100 mA cm&#8208;2. Our work establishes a new strategy for achieving the operational longevity of ECR under wide pH conditions, which is critical for practical applications.</description>
-      <author>Tu N. Nguyen, Behnam Nourmohammadi Khiarak, Zijun Xu, Amirhossein Farzi, Sharif Md. Sadaf, Ali Seifitokaldani, Cao-Thang Dinh</author>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202301894</guid>
     </item>
     <item>
       <title>Electrocatalytic reduction of simulated industrial CO2 and CO mixtures: Revising chronoamperometry to enable selective gas mixture reduction via cyclic voltammetry</title>
@@ -192,7 +172,7 @@
       <link>https://doi.org/10.2139/ssrn.4764056</link>
       <description>Hedan Yao, Liuyi Pan, Xi Yao, Wenhong Li, Yi Qin, Dong Li, Yingxia Wang, Wenjie Xue, Qianqian Wang, No host. None(None)] 2024. https://openalex.org/W4392955133
 
-                No abstract</description>
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
       <author>Hedan Yao, Liuyi Pan, Xi Yao, Wenhong Li, Yi Qin, Dong Li, Yingxia Wang, Wenjie Xue, Qianqian Wang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4764056</guid>
@@ -248,16 +228,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17061483</guid>
     </item>
     <item>
-      <title>Multi-Objective Evolutionary Optimization &amp; 4E analysis of a bulky combined cycle power plant by CO2/ CO/ NOx reduction and cost controlling targets</title>
-      <link>https://openalex.org/W4392886402</link>
-      <description>Soheil Mohtaram, HongGuang Sun, Ji Lin, Wen Chen, Yonghui Sun, RePEc: Research Papers in Economics. None(None)] 2020. https://openalex.org/W4392886402
-
-                No abstract</description>
-      <author>Soheil Mohtaram, HongGuang Sun, Ji Lin, Wen Chen, Yonghui Sun</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4392886402</guid>
-    </item>
-    <item>
       <title>Revealing the Synergistic Effect of Ni Single Atoms and Adjacent 3d metal Doped Ni Nanoparticles in Electrocatalytic CO2 Reduction</title>
       <link>https://doi.org/10.1039/d4na00167b</link>
       <description>Yingjie Liu, Zhaohui Wu, Shuting Bai, Tianyang Shen, Qian Li, Guihao Liu, Xiaoliang Sun, Yihang Hu, Ziheng Song, Jinfeng Chu, Yu&#8208;Fei Song, Nanoscale advances. None(None)] 2024. https://openalex.org/W4392917915
@@ -266,6 +236,46 @@
       <author>Yingjie Liu, Zhaohui Wu, Shuting Bai, Tianyang Shen, Qian Li, Guihao Liu, Xiaoliang Sun, Yihang Hu, Ziheng Song, Jinfeng Chu, Yu&#8208;Fei Song</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4na00167b</guid>
+    </item>
+    <item>
+      <title>Faster Kinetics and High Selectivity for Electrolytic Reduction of CO2 with Zn0/Zn2+ Interface of ZnO/ZnAl2O4 Derived from Hydrotalcite</title>
+      <link>https://doi.org/10.1007/s10562-024-04648-4</link>
+      <description>Ling Wang, Ya Gao, Shuxiu Yu, Yangying Sun, Yan Zheng, Yifan Liang, Liang Li, Catalysis Letters. None(None)] 2024. https://openalex.org/W4393111610
+
+                No abstract</description>
+      <author>Ling Wang, Ya Gao, Shuxiu Yu, Yangying Sun, Yan Zheng, Yifan Liang, Liang Li</author>
+      <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10562-024-04648-4</guid>
+    </item>
+    <item>
+      <title>Inductive effect in amino functionalized ionic liquids modified TS-1 nanosheets for efficiently sunlight-driven CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.131504</link>
+      <description>Xin Guo, Zhiyuan Wang, Siqi Jiang, Mengwei Li, Jianing Guo, Yu Chen, Xiujuan Wei, Baohui Qi, Qizhong Huang, Yanduo Liu, Hongquan Jiang, Yu&#8208;Feng Hu, Fuel. 367(None)] 2024. https://openalex.org/W4392932051
+
+                No abstract</description>
+      <author>Xin Guo, Zhiyuan Wang, Siqi Jiang, Mengwei Li, Jianing Guo, Yu Chen, Xiujuan Wei, Baohui Qi, Qizhong Huang, Yanduo Liu, Hongquan Jiang, Yu&#8208;Feng Hu</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131504</guid>
+    </item>
+    <item>
+      <title>0D/2D Bi2MoO6 quantum dots /rGO heterojunction boosting full solar spectrum-driven photothermal catalytic CO2 reduction to solar fuels</title>
+      <link>https://doi.org/10.1016/j.carbon.2024.119079</link>
+      <description>Rui Feng, Mingnv Guo, Zhongqing Yang, Jiaqi Qiu, Ziqi Wang, Yongliang Zhao, Carbon. None(None)] 2024. https://openalex.org/W4393114428
+
+                No abstract</description>
+      <author>Rui Feng, Mingnv Guo, Zhongqing Yang, Jiaqi Qiu, Ziqi Wang, Yongliang Zhao</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119079</guid>
+    </item>
+    <item>
+      <title>Optimization of Each Component Ratio of Multiple Thermal Fluids in Extra-Heavy Oil Reservoir</title>
+      <link>https://doi.org/10.1007/978-981-97-0260-2_78</link>
+      <description>Hua Ma, Bing Bo, Aiguo Xu, Lun Zhao, Wenqi Zhao, Fachao Shan, Chenggang Wang, Minghui Liu, Springer series in geomechanics and geoengineering. None(None)] 2024. https://openalex.org/W4393009781
+
+                Under the goal of "carbon peaking and carbon neutrality", the technology of multiple thermal fluids is widely used to develop heavy oil reservoirs at home and abroad for its advantages of low carbon and environmental protection. The multicomponent thermal fluids mainly contain nitrogen, carbon dioxide and steam. In the formation, multi-components play an important role in the huff and puff effect. In order to improve the development effect of extra-heavy oil reservoir, the optimization of each component ratio must be further studied. Based on the single factor analysis method and orthogonal test method, this paper designs 40 groups of multi-component thermal fluids numerical simulation schemes with different component proportions. CMG software simulates the influence of steam injection rate, gas-steam ratio, CO2-N2 ratio and other injection parameters on the development effect of multi-component thermal fluids. The results show that the ratio of CO2 to N2 is the significant factor affecting the huff and puff effect, and the sensitivity order is CO2 to N2 ratio, gas-steam ratio and steam injection rate. The optimal injection parameter combination is as follows: the steam injection rate is 200 t/d, the gas-steam ratio is 300 m3/t, and the ratio of CO2 to N2 is 70%:30%. Viscosity deduction of muti-component thermal fluids has two regions: high temperature viscosity reduction and CO2 dissolution viscosity reduction region. The results of this study have theoretical guiding significance for the optimization of injection-production parameters of multiple thermal fluids huff and puff, and can be further applied to field practice.</description>
+      <author>Hua Ma, Bing Bo, Aiguo Xu, Lun Zhao, Wenqi Zhao, Fachao Shan, Chenggang Wang, Minghui Liu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-0260-2_78</guid>
     </item>
   </channel>
 </rss>

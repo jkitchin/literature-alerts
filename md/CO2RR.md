@@ -1,11 +1,22 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Mar 24 00:50:15 2024
+Created on Mon Mar 25 00:45:46 2024
 
-Found 26 results from 2024-03-17 to 2024-03-24
+Found 27 results from 2024-03-18 to 2024-03-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
+
+## Emerging two-dimensional materials: Synthesis, physical properties, and application for catalysis in energy conversion and storage   
+
+OpenAlex: https://openalex.org/W4392948629    
+Open access: True
+    
+[Xu Li](https://openalex.org/A5016082098), [Rashid Iqbal](https://openalex.org/A5026237780), [Yijun Wang](https://openalex.org/A5055987305), [Sana Taimoor](https://openalex.org/A5093917903), [Leiduan Hao](https://openalex.org/A5065190809), [Renhao Dong](https://openalex.org/A5056113736), [Kaihui Liu](https://openalex.org/A5033221405), [John Texter](https://openalex.org/A5049998152), [Zhenyu Sun](https://openalex.org/A5077655412), The Innovation Materials. 2(1)] 2024.https://doi.org/10.59717/j.xinn-mater.2024.100060 ([pdf](https://www.the-innovation.org/data/article/export-pdf?id=65f616be7accdd268cbb0aa6)).
+    
+<p>Inorganic, organic, and hybrid two-dimensional (2D) materials are being developed for ever-expanding numbers of applications, though energy and catalysis remain the main drivers of their development. We present overviews of bottom-up and top-down synthetic strategies of such materials and examine manufacturing scalability issues. Mechanical, electrical, and thermal properties and their modulation are highlighted because they are fundamental to the above-mentioned drivers. The burgeoning importance of heterostructures in such materials, particularly for catalysis and electrode design and function is stressed. Detailed attention is given to applications of 2D materials to the electrocatalysis reactions: oxygen reduction, oxygen evolution, hydrogen evolution, carbon dioxide reduction, and nitrogen reduction. Water splitting, carbon dioxide reduction, and nitrogen reduction by photocatalysis are also examined. A perspective of expected advances in the expansion of applications and types of 2D materials, with a focus on heterostructure development, is presented in the conclusion.</p>    
+
+    
 
 ## Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review   
 
@@ -24,6 +35,17 @@ OpenAlex: https://openalex.org/W4393039058
 Open access: False
     
 [Weizhi Yao](https://openalex.org/A5062573866), [Liang Liu](https://openalex.org/A5003554962), [Hidemichi Fujii](https://openalex.org/A5015438287), [Lianshui Li](https://openalex.org/A5050247990), Journal of Cleaner Production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.141820.
+    
+No abstract    
+
+    
+
+## Single-atom anchored on curved boron nitride fullerene surface as efficient electrocatalyst for carbon dioxide reduction   
+
+OpenAlex: https://openalex.org/W4393116736    
+Open access: False
+    
+[Zhiyi Liu](https://openalex.org/A5066590014), [Aling Ma](https://openalex.org/A5009783384), [Zhenzhen Wang](https://openalex.org/A5075444205), [Zongpeng Ding](https://openalex.org/A5012102127), [Yan Pang](https://openalex.org/A5082968868), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Molecular Catalysis. 559(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114040.
     
 No abstract    
 
@@ -62,28 +84,6 @@ The electrochemical reduction of CO2 is sensitive to the microenvironment surrou
 
     
 
-## Revisiting the Electrochemical Reduction of Co2 on Au25(Sr)18- Nanocluster   
-
-OpenAlex: https://openalex.org/W4392876479    
-Open access: False
-    
-[Dominic Alfonso](https://openalex.org/A5072077291), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4761900.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
-
-## Electrochemical CO2 reduction on a copper foam electrode at elevated pressures   
-
-OpenAlex: https://openalex.org/W4392878167    
-Open access: True
-    
-[Nandalal Girichandran](https://openalex.org/A5004840773), [Saeed Saedy](https://openalex.org/A5006118572), [Ruud Kortlever](https://openalex.org/A5047438735), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150478.
-    
-No abstract    
-
-    
-
 ## Electrochemical Reduction of CO2 catalyzed by a Cobalt molecular complex and a bimetallic Ni-Sn electrocatalyst   
 
 OpenAlex: https://openalex.org/W4393024413    
@@ -92,17 +92,6 @@ Open access: True
 [Paul Rayess](https://openalex.org/A5055646044), No host. None(None)] 2021.None ([pdf](https://theses.hal.science/tel-03639161/document)).
     
 No abstract    
-
-    
-
-## Practical Potential of Suspension Electrodes for Enhanced Limiting Currents in Electrochemical CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4392887580    
-Open access: True
-    
-[Nathalie E. G. Ligthart](https://openalex.org/A5029916255), [Gerard Prats Vergel](https://openalex.org/A5094174196), [JT Johan Padding](https://openalex.org/A5057833615), [David A. Vermaas](https://openalex.org/A5019408336), Energy advances. None(None)] 2024.https://doi.org/10.1039/d3ya00611e.
-    
-CO2 conversion is an important part of the transition towards clean fuels and chemicals. However, low solubility of CO2 in water and its slow diffusion cause mass transfer limitations in...    
 
     
 
@@ -120,11 +109,11 @@ No abstract
 ## Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review   
 
 OpenAlex: https://openalex.org/W4393005861    
-Open access: False
+Open access: True
     
-, Journal of Chemical Health Risks. None(None)] 2024.https://doi.org/10.52783/jchr.v14.i2.3372.
+, Journal of Chemical Health Risks. None(None)] 2024.https://doi.org/10.52783/jchr.v14.i2.3372 ([pdf](https://jchr.org/index.php/JCHR/article/download/3372/2392)).
     
-No abstract    
+The global pursuit of sustainable energy and environmental solutions has intensified the focus on water splitting and CO2 reduction as promising pathways towards a low-carbon future.Membrane technologies have emerged as crucial components in enhancing the efficiency and selectivity of these processes.This comprehensive review explores recent advancements in membrane technologies for water splitting and CO2 reduction, aiming to provide insights into their fundamental principles, current state-of-the-art developments, and prospects.Various techniques such as electrolysis, electrochemical and photocatalytic CO2 reduction are discussed, highlighting their respective principles and challenges.Subsequently, the role of membranes in facilitating these processes is examined.Different types of membranes are reviewed in terms of their structure, properties, and recent advancements aimed at improving performance.In the realm of water splitting, membranes play a pivotal role in separating reactants and products, enhancing reactions and enabling efficient utilization of resources.Recent developments in membrane have shown promising results in improving water splitting efficiency and durability.Similarly, in CO2 reduction processes, membranes are utilized for gas separation, concentration, and selective transport of species, enabling enhanced reaction and product selectivity.Integration of membrane technologies into water splitting and CO2 reduction systems is another area of focus, with the review examining the advantages and challenges associated with such integration.Integrated membrane systems are presented, showcasing their potential to achieve synergistic effects, and improved overall performance.Despite significant progress, including membrane fouling, stability, and cost-effectiveness, which necessitate further research and development efforts.In conclusion, this review underscores the critical role of membrane technologies in advancing water splitting and CO2 reduction for sustainable energy and environmental applications.By providing a comprehensive overview of recent advancements, challenges, and prospects, this review aims to stimulate further research and innovation in the field, ultimately contributing to the realization of a cleaner and more sustainable future.    
 
     
 
@@ -135,18 +124,7 @@ Open access: False
     
 [Yonggao Yan](https://openalex.org/A5046851457), [Tongxian Li](https://openalex.org/A5047188725), [Manuel Oliva‐Ramírez](https://openalex.org/A5087410333), [Yuguo Zhao](https://openalex.org/A5053753860), [Shuo Wang](https://openalex.org/A5051434566), [Xin Chen](https://openalex.org/A5032165940), [Dong Wang](https://openalex.org/A5072946558), [Peter Schaaf](https://openalex.org/A5019559196), [Xiayan Wang](https://openalex.org/A5017550339), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4760891.
     
-No abstract    
-
-    
-
-## Multi‐metallic Layered Catalysts for Stable Electrochemical CO2 Reduction to Formate and Formic Acid   
-
-OpenAlex: https://openalex.org/W4392882857    
-Open access: True
-    
-[Tu N. Nguyen](https://openalex.org/A5000074087), [Behnam Nourmohammadi Khiarak](https://openalex.org/A5072811913), [Zijun Xu](https://openalex.org/A5086940264), [Amirhossein Farzi](https://openalex.org/A5007614713), [Sharif Md. Sadaf](https://openalex.org/A5030364648), [Ali Seifitokaldani](https://openalex.org/A5013704951), [Cao-Thang Dinh](https://openalex.org/A5012487063), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202301894 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202301894)).
-    
-We report the development of bismuth (Bi) gas diffusion electrodes on a polytetrafluoroethylene‐based electrically conductive silver (Ag) substrate (Ag@Bi), which exhibits high Faradaic efficiency (FE) for formate of over 90% in 1 M KOH and 1 M KHCO3 electrolytes. The catalyst also shows high selectivity of formic acid above 85% in 1 M NaCl catholyte, which has a bulk pH of 2‐3 during ECR, at current densities up to 300 mA cm‐2. In 1 M KHCO3 condition, the Ag@Bi maintains a formate FE above 90% for at least 500 hours at the current density of 100 mA cm‐2. We found that Ag@Bi catalysts degrade over time due to the leaching of Bi in the NaCl catholyte. To overcome this challenge, we deposited a layer of Ag nanoparticles on the surface of Ag@Bi to form a multi‐layer Ag@Bi/Ag catalyst. This designed catalyst exhibits 300 hours of stability with FE for formic acid ≥ 70% at 100 mA cm‐2. Our work establishes a new strategy for achieving the operational longevity of ECR under wide pH conditions, which is critical for practical applications.    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
 
     
 
@@ -212,7 +190,7 @@ Open access: False
     
 [Hedan Yao](https://openalex.org/A5074719562), [Liuyi Pan](https://openalex.org/A5014809888), [Xi Yao](https://openalex.org/A5020919691), [Wenhong Li](https://openalex.org/A5052526119), [Yi Qin](https://openalex.org/A5091640230), [Dong Li](https://openalex.org/A5088062637), [Yingxia Wang](https://openalex.org/A5022811350), [Wenjie Xue](https://openalex.org/A5033491102), [Qianqian Wang](https://openalex.org/A5062755510), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4764056.
     
-No abstract    
+Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
 
     
 
@@ -271,24 +249,57 @@ Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources
 
     
 
-## Multi-Objective Evolutionary Optimization & 4E analysis of a bulky combined cycle power plant by CO2/ CO/ NOx reduction and cost controlling targets   
-
-OpenAlex: https://openalex.org/W4392886402    
-Open access: False
-    
-[Soheil Mohtaram](https://openalex.org/A5040340065), [HongGuang Sun](https://openalex.org/A5060741316), [Ji Lin](https://openalex.org/A5011553526), [Wen Chen](https://openalex.org/A5013280253), [Yonghui Sun](https://openalex.org/A5041813331), RePEc: Research Papers in Economics. None(None)] 2020.None.
-    
-No abstract    
-
-    
-
 ## Revealing the Synergistic Effect of Ni Single Atoms and Adjacent 3d metal Doped Ni Nanoparticles in Electrocatalytic CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4392917915    
 Open access: True
     
-[Yingjie Liu](https://openalex.org/A5041825125), [Zhaohui Wu](https://openalex.org/A5050749949), [Shuting Bai](https://openalex.org/A5029631053), [Tianyang Shen](https://openalex.org/A5029347047), [Qian Li](https://openalex.org/A5077410165), [Guihao Liu](https://openalex.org/A5018594979), [Xiaoliang Sun](https://openalex.org/A5061534390), [Yihang Hu](https://openalex.org/A5031002299), [Ziheng Song](https://openalex.org/A5061549504), [Jinfeng Chu](https://openalex.org/A5005216047), [Yu‐Fei Song](https://openalex.org/A5067200024), Nanoscale advances. None(None)] 2024.https://doi.org/10.1039/d4na00167b.
+[Yingjie Liu](https://openalex.org/A5041825125), [Zhaohui Wu](https://openalex.org/A5050749949), [Shuting Bai](https://openalex.org/A5029631053), [Tianyang Shen](https://openalex.org/A5029347047), [Qian Li](https://openalex.org/A5077410165), [Guihao Liu](https://openalex.org/A5018594979), [Xiaoliang Sun](https://openalex.org/A5061534390), [Yihang Hu](https://openalex.org/A5031002299), [Ziheng Song](https://openalex.org/A5061549504), [Jinfeng Chu](https://openalex.org/A5005216047), [Yu‐Fei Song](https://openalex.org/A5067200024), Nanoscale advances. None(None)] 2024.https://doi.org/10.1039/d4na00167b ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/na/d4na00167b)).
     
 Herein, we report the successful fabrication of a serious of transition metal doped Ni nanoparticles (NPs) cooperated by Ni single atoms in nitrogen-doped carbon nanotubes (denoted as Ni1+NPsM-NCNTs, M =...    
+
+    
+
+## Faster Kinetics and High Selectivity for Electrolytic Reduction of CO2 with Zn0/Zn2+ Interface of ZnO/ZnAl2O4 Derived from Hydrotalcite   
+
+OpenAlex: https://openalex.org/W4393111610    
+Open access: False
+    
+[Ling Wang](https://openalex.org/A5050487837), [Ya Gao](https://openalex.org/A5064171348), [Shuxiu Yu](https://openalex.org/A5054426073), [Yangying Sun](https://openalex.org/A5037431238), [Yan Zheng](https://openalex.org/A5074469145), [Yifan Liang](https://openalex.org/A5029970439), [Liang Li](https://openalex.org/A5064564309), Catalysis Letters. None(None)] 2024.https://doi.org/10.1007/s10562-024-04648-4.
+    
+No abstract    
+
+    
+
+## Inductive effect in amino functionalized ionic liquids modified TS-1 nanosheets for efficiently sunlight-driven CO2 reduction   
+
+OpenAlex: https://openalex.org/W4392932051    
+Open access: False
+    
+[Xin Guo](https://openalex.org/A5040128598), [Zhiyuan Wang](https://openalex.org/A5091143353), [Siqi Jiang](https://openalex.org/A5038170438), [Mengwei Li](https://openalex.org/A5091376481), [Jianing Guo](https://openalex.org/A5011620503), [Yu Chen](https://openalex.org/A5019678627), [Xiujuan Wei](https://openalex.org/A5088522668), [Baohui Qi](https://openalex.org/A5049729176), [Qizhong Huang](https://openalex.org/A5009340223), [Yanduo Liu](https://openalex.org/A5041796437), [Hongquan Jiang](https://openalex.org/A5054096557), [Yu‐Feng Hu](https://openalex.org/A5086894006), Fuel. 367(None)] 2024.https://doi.org/10.1016/j.fuel.2024.131504.
+    
+No abstract    
+
+    
+
+## 0D/2D Bi2MoO6 quantum dots /rGO heterojunction boosting full solar spectrum-driven photothermal catalytic CO2 reduction to solar fuels   
+
+OpenAlex: https://openalex.org/W4393114428    
+Open access: False
+    
+[Rui Feng](https://openalex.org/A5039650364), [Mingnv Guo](https://openalex.org/A5068170537), [Zhongqing Yang](https://openalex.org/A5072787821), [Jiaqi Qiu](https://openalex.org/A5011590420), [Ziqi Wang](https://openalex.org/A5074586582), [Yongliang Zhao](https://openalex.org/A5028908278), Carbon. None(None)] 2024.https://doi.org/10.1016/j.carbon.2024.119079.
+    
+No abstract    
+
+    
+
+## Optimization of Each Component Ratio of Multiple Thermal Fluids in Extra-Heavy Oil Reservoir   
+
+OpenAlex: https://openalex.org/W4393009781    
+Open access: False
+    
+[Hua Ma](https://openalex.org/A5089361676), [Bing Bo](https://openalex.org/A5076527943), [Aiguo Xu](https://openalex.org/A5024958098), [Lun Zhao](https://openalex.org/A5018411207), [Wenqi Zhao](https://openalex.org/A5077125877), [Fachao Shan](https://openalex.org/A5054531745), [Chenggang Wang](https://openalex.org/A5033478961), [Minghui Liu](https://openalex.org/A5025025019), Springer series in geomechanics and geoengineering. None(None)] 2024.https://doi.org/10.1007/978-981-97-0260-2_78.
+    
+Under the goal of "carbon peaking and carbon neutrality", the technology of multiple thermal fluids is widely used to develop heavy oil reservoirs at home and abroad for its advantages of low carbon and environmental protection. The multicomponent thermal fluids mainly contain nitrogen, carbon dioxide and steam. In the formation, multi-components play an important role in the huff and puff effect. In order to improve the development effect of extra-heavy oil reservoir, the optimization of each component ratio must be further studied. Based on the single factor analysis method and orthogonal test method, this paper designs 40 groups of multi-component thermal fluids numerical simulation schemes with different component proportions. CMG software simulates the influence of steam injection rate, gas-steam ratio, CO2-N2 ratio and other injection parameters on the development effect of multi-component thermal fluids. The results show that the ratio of CO2 to N2 is the significant factor affecting the huff and puff effect, and the sensitivity order is CO2 to N2 ratio, gas-steam ratio and steam injection rate. The optimal injection parameter combination is as follows: the steam injection rate is 200 t/d, the gas-steam ratio is 300 m3/t, and the ratio of CO2 to N2 is 70%:30%. Viscosity deduction of muti-component thermal fluids has two regions: high temperature viscosity reduction and CO2 dissolution viscosity reduction region. The results of this study have theoretical guiding significance for the optimization of injection-production parameters of multiple thermal fluids huff and puff, and can be further applied to field practice.    
 
     

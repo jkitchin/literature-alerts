@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Mar 24 00:50:23 2024
+Created on Mon Mar 25 00:46:01 2024
 
-Found 29 results from 2024-03-17 to 2024-03-24
+Found 28 results from 2024-03-18 to 2024-03-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -12,83 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4200512871](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4200512871)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4220985611](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4220985611)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W4255008889%7Chttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W4392322282%7Chttps%3A//openalex.org/W4392322290%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W4255008889%7Chttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W4392322282%7Chttps%3A//openalex.org/W4392322290%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## New approach to produce cubic-WC at low temperature for hydrogen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392876346    
-Open access: False
-    
-[Elvis O. López](https://openalex.org/A5052711998), [Ofelia M. Arias-Pinedo](https://openalex.org/A5018140085), [Rubén Soria-Martínez](https://openalex.org/A5067204171), [Antony Bazan-Aguilar](https://openalex.org/A5001791128), [Gonzalo Garcı́a](https://openalex.org/A5060514693), [Pablo L. Bernardo](https://openalex.org/A5050401374), [N.R. Checca](https://openalex.org/A5066293337), [Alexandre Mello](https://openalex.org/A5010310426), [Angélica M. Baena‐Moncada](https://openalex.org/A5024442298), International Journal of Hydrogen Energy. 62(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.107.
-    
-No abstract    
-
-    
-
-## A First-Principles Study of the Oxygen Reduction Reaction Activity of Pt with Tm-N-C Support   
-
-OpenAlex: https://openalex.org/W4392876465    
-Open access: False
-    
-[Haining Wang](https://openalex.org/A5031899265), [Jiashuo Fu](https://openalex.org/A5090813213), [Liting Cui](https://openalex.org/A5026803480), [Sian Chen](https://openalex.org/A5032960594), [Wen Lei](https://openalex.org/A5043743147), [Xinrui Liu](https://openalex.org/A5001311005), [Jin Zhang](https://openalex.org/A5003713332), [Shanfu Lu](https://openalex.org/A5068631064), [Yan Xiang](https://openalex.org/A5005997787), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4761893.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
-
-## Trace Fe activates perovskite nickelate OER catalysts in alkaline media via redox-active surface Ni species formed during electrocatalysis   
-
-OpenAlex: https://openalex.org/W4392878220    
-Open access: False
-    
-[Liam Twight](https://openalex.org/A5004141512), [Ally Tonsberg](https://openalex.org/A5093002491), [Samji Samira](https://openalex.org/A5047917745), [Kunal Velinkar](https://openalex.org/A5092555393), [Kora Dumpert](https://openalex.org/A5067012078), [Yingqing Ou](https://openalex.org/A5014526265), [Le Wang](https://openalex.org/A5037188208), [Eranda Nikolla](https://openalex.org/A5039071105), [Shannon W. Boettcher](https://openalex.org/A5032458792), Journal of Catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115443.
-    
-No abstract    
-
-    
-
-## 2D Ferromagnetic M3GeTe2 (M = Ni/Fe) for Boosting Intermediates Adsorption toward Faster Water Oxidation   
-
-OpenAlex: https://openalex.org/W4392880944    
-Open access: True
-    
-[Guyue Bo](https://openalex.org/A5027963673), [Peng Li](https://openalex.org/A5032852285), [Yuhang Fan](https://openalex.org/A5088972801), [Xiaobo Zheng](https://openalex.org/A5006411143), [Mengting Zhao](https://openalex.org/A5028227902), [Qiang Zhu](https://openalex.org/A5036443930), [Fu Yang](https://openalex.org/A5006345780), [Yitong Li](https://openalex.org/A5059845740), [Wei Pang](https://openalex.org/A5079731588), [Wei‐Hong Lai](https://openalex.org/A5031178243), [Bernt Johannessen](https://openalex.org/A5042673824), [Lars Thomsen](https://openalex.org/A5040663143), [Bruce C. C. Cowie](https://openalex.org/A5008740117), [Tianyi Ma](https://openalex.org/A5041240994), [Zhidong Chen](https://openalex.org/A5089061216), [Guan Heng Yeoh](https://openalex.org/A5057661454), [Yi Du](https://openalex.org/A5028386798), [Shi Xue Dou](https://openalex.org/A5028780342), [Xiaojing Xu](https://openalex.org/A5036787467), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202310115 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202310115)).
-    
-Abstract In this work, 2D ferromagnetic M 3 GeTe 2 (MGT, M = Ni/Fe) nanosheets with rich atomic Te vacancies (2D‐MGT v ) are demonstrated as efficient OER electrocatalyst via a general mechanical exfoliation strategy. X‐ray absorption spectra (XAS) and scanning transmission electron microscope (STEM) results validate the dominant presence of metal‐O moieties and rich Te vacancies, respectively. The formed Te vacancies are active for the adsorption of OH* and O* species while the metal‐O moieties promote the O* and OOH* adsorption, contributing synergistically to the faster oxygen evolution kinetics. Consequently, 2D‐Ni 3 GeTe 2v exhibits superior OER activity with only 370 mV overpotential to reach the current density of 100 mA cm −2 and turnover frequency (TOF) value of 101.6 s −1 at the overpotential of 200 mV in alkaline media. Furthermore, a 2D‐Ni 3 GeTe 2v ‐based anion‐exchange membrane (AEM) water electrolysis cell (1 cm 2 ) delivers a current density of 1.02 and 1.32 A cm −2 at the voltage of 3 V feeding with 0.1 and 1 m KOH solution, respectively. The demonstrated metal‐O coordination with abundant atomic vacancies for ferromagnetic M 3 GeTe 2 and the easily extended preparation strategy would enlighten the rational design and fabrication of other ferromagnetic materials for wider electrocatalytic applications.    
-
-    
-
-## RuSe2 nanoparticles loaded MoSe2 hybrid rods via interface engineering as an efficient electrocatalyst for hydrogen evolution electrocatalysis   
-
-OpenAlex: https://openalex.org/W4392881530    
-Open access: False
-    
-[Manzhou Zhu](https://openalex.org/A5087024442), [Huijun Yu](https://openalex.org/A5088995369), [Cheng‐Han Yang](https://openalex.org/A5051602209), [Qinghua Deng](https://openalex.org/A5053214705), [Huan Liu](https://openalex.org/A5013881064), [Jinqiang Huang](https://openalex.org/A5002882290), [Yiwei Zhang](https://openalex.org/A5057269185), Applied Surface Science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.159916.
-    
-No abstract    
-
-    
-
-## Recent progress in two-dimensional metallenes and their potential application as electrocatalyst   
-
-OpenAlex: https://openalex.org/W4392883430    
-Open access: False
-    
-[Umer Shahzad](https://openalex.org/A5092049541), [Mohsin Saeed](https://openalex.org/A5074009860), [Muhammad Fazle Rabbee](https://openalex.org/A5069938851), [Hadi M. Marwani](https://openalex.org/A5030490832), [Jehan Y. Al‐Humaidi](https://openalex.org/A5044302609), [Muhammad Altaf](https://openalex.org/A5062682208), [Raed H. Althomali](https://openalex.org/A5016970153), [Kwang-Hyun Baek](https://openalex.org/A5033043259), [Md. Rabiul Awual](https://openalex.org/A5063322354), [Mohammed M. Rahman](https://openalex.org/A5030722559), Journal of Energy Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.02.068.
-    
-No abstract    
-
-    
-
-## Enhancement of nitrogen reduction reaction activity of sp-B-doped γ-graphyne nanotubes through curvature effect   
-
-OpenAlex: https://openalex.org/W4392890465    
-Open access: False
-    
-[Renzhi Ma](https://openalex.org/A5040945524), [Yipin Lv](https://openalex.org/A5089414995), [Yaqiong Yang](https://openalex.org/A5019560312), [Xinru Wei](https://openalex.org/A5035478591), [Jin Yong Lee](https://openalex.org/A5023311475), [Shaul Mukamel](https://openalex.org/A5085637107), [Baotao Kang](https://openalex.org/A5080683645), Molecular Catalysis. 558(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114044.
-    
-No abstract    
-
-    
 
 ## Phenol as proton shuttle and buffer for lithium-mediated ammonia electrosynthesis   
 
@@ -288,6 +211,83 @@ Abstract 2D MXenes family creates an interest in environmental cleaning and ener
 
     
 
+## Ru/Ir‐Based Electrocatalysts for Oxygen Evolution Reaction in Acidic Conditions: From Mechanisms, Optimizations to Challenges   
+
+OpenAlex: https://openalex.org/W4392953409    
+Open access: True
+    
+[Qin Rong](https://openalex.org/A5078772715), [Guanzhen Chen](https://openalex.org/A5053758917), [Xueting Feng](https://openalex.org/A5029607207), [Jian Weng](https://openalex.org/A5070413526), [Yunhu Han](https://openalex.org/A5044208128), Advanced Science. None(None)] 2024.https://doi.org/10.1002/advs.202309364.
+    
+Abstract The generation of green hydrogen by water splitting is identified as a key strategic energy technology, and proton exchange membrane water electrolysis (PEMWE) is one of the desirable technologies for converting renewable energy sources into hydrogen. However, the harsh anode environment of PEMWE and the oxygen evolution reaction (OER) involving four‐electron transfer result in a large overpotential, which limits the overall efficiency of hydrogen production, and thus efficient electrocatalysts are needed to overcome the high overpotential and slow kinetic process. In recent years, noble metal‐based electrocatalysts (e.g., Ru/Ir‐based metal/oxide electrocatalysts) have received much attention due to their unique catalytic properties, and have already become the dominant electrocatalysts for the acidic OER process and are applied in commercial PEMWE devices. However, these noble metal‐based electrocatalysts still face the thorny problem of conflicting performance and cost. In this review, first, noble metal Ru/Ir‐based OER electrocatalysts are briefly classified according to their forms of existence, and the OER catalytic mechanisms are outlined. Then, the focus is on summarizing the improvement strategies of Ru/Ir‐based OER electrocatalysts with respect to their activity and stability over recent years. Finally, the challenges and development prospects of noble metal‐based OER electrocatalysts are discussed.    
+
+    
+
+## Direct Synthesis of CuPd Icosahedra Supercrystals Studied by In Situ X‐Ray Scattering   
+
+OpenAlex: https://openalex.org/W4392954128    
+Open access: True
+    
+[Davide Derelli](https://openalex.org/A5092089500), [Kilian Frank](https://openalex.org/A5051821880), [Lukas Grote](https://openalex.org/A5060960004), [Federica Mancini](https://openalex.org/A5009162972), [Ann Christin Dippel](https://openalex.org/A5051942768), [Olof Gutowski](https://openalex.org/A5015948967), [Bert Nickel](https://openalex.org/A5085999652), [Dorota Koziej](https://openalex.org/A5059231791), Small. None(None)] 2024.https://doi.org/10.1002/smll.202311714.
+    
+Abstract Nanocrystal self‐assembly into supercrystals provides a versatile platform for creating novel materials and devices with tailored properties. While common self‐assembly strategies imply the use of purified nanoparticles after synthesis, conversion of chemical precursors directly into nanocrystals and then supercrystals in simple procedures has been rarely reported. Here, the nucleation and growth of CuPd icosahedra and their consecutive assembly into large closed‐packed face‐centered cubic (fcc) supercrystals are studied. To this end, the study simultaneously and in situ measures X‐ray total scattering with pair distribution function analysis (TS‐PDF) and small‐angle X‐ray scattering (SAXS). It is found that the supercrystals' formation is preceded by an intermediate dense phase of nanocrystals displaying short‐range order (SRO). It is further shown that the organization of oleic acid/oleylamine surfactants into lamellar structures likely drives the emergence of the SRO phase and later of the supercrystals by reducing the volume accessible to particle diffusion. The supercrystals' formation as well as their disassembly are triggered by temperature. The study demonstrates that ordering of solvent molecules can be crucial in the direct synthesis of supercrystals. The study also provides a general approach to investigate novel preparation routes of supercrystals in situ and across several length scales via X‐ray scattering.    
+
+    
+
+## Biorefinery products from algal biomass by advanced biotechnological and hydrothermal liquefaction approaches   
+
+OpenAlex: https://openalex.org/W4392960733    
+Open access: True
+    
+[Mathiyazhagan Narayanan](https://openalex.org/A5089952804), Discover Applied Sciences. 6(4)] 2024.https://doi.org/10.1007/s42452-024-05777-6 ([pdf](https://link.springer.com/content/pdf/10.1007/s42452-024-05777-6.pdf)).
+    
+Abstract Algal biomass is a promising feedstock for the environmentally friendly production of a diverse range of high-value products, including bioproducts and biofuels. After extracting the essential macro- and biomolecules, the remaining algae biomass can be used as feedstock and processed into valuable additional goods. Advanced biotechnology techniques and efficient hydrothermal liquefaction (HTL) technologies are used to produce beneficial products such as bioenergy and biochemicals. Carbohydrates, lipids, and proteins are essential biochemical components of algal biomass that can be used to produce biofuel. Hence, algae biomass is gaining popularity as a biorefinery alternative. HTL is a process of converting biomass to a liquid byproduct by intricate chemical reactions. The purpose of this review is to highlight modern biotechnological and hydrothermal liquefaction techniques for extracting biological products from algae. A large number of documents were reviewed and analytically structured to lay the groundwork for the subsequent steps. This review also included information on a simple reaction mechanism for the biomass that algae produce, as well as the impact of process parameters.    
+
+    
+
+## Two-Dimensional Layered Heterojunctions for Photoelectrocatalysis   
+
+OpenAlex: https://openalex.org/W4392970424    
+Open access: False
+    
+[Mengjiao Wang](https://openalex.org/A5079230435), [Michal Langer](https://openalex.org/A5017178722), [Roberto Altieri](https://openalex.org/A5019854833), [Matteo Crisci](https://openalex.org/A5051343001), [Silvio Osella](https://openalex.org/A5073989150), [Teresa Gatti](https://openalex.org/A5019044659), ACS Nano. None(None)] 2024.https://doi.org/10.1021/acsnano.3c12274.
+    
+No abstract    
+
+    
+
+## Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants   
+
+OpenAlex: https://openalex.org/W4392974422    
+Open access: False
+    
+[Keyvan Mirehbar](https://openalex.org/A5093893793), [Jaime S. Sanchez](https://openalex.org/A5018990381), [Sergio Pinilla](https://openalex.org/A5074043492), [Freddy E. Oropeza](https://openalex.org/A5085212044), [Ignasi Sirés](https://openalex.org/A5068813176), [Víctor A. de la Peña O’Shea](https://openalex.org/A5009218545), [Jesús Palma](https://openalex.org/A5075101961), [Julio J. Lado](https://openalex.org/A5053847588), Journal of Environmental Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.jece.2024.112562.
+    
+No abstract    
+
+    
+
+## Ultrathin Amorphous NaIrRuOx Nanosheets with Rich Oxygen Vacancies for Efficient Acidic Water Oxidation   
+
+OpenAlex: https://openalex.org/W4392976595    
+Open access: False
+    
+[Junan Gao](https://openalex.org/A5037532055), [Xiaofeng Wu](https://openalex.org/A5039857226), [Xinying Teng](https://openalex.org/A5030374504), [Xin Jing](https://openalex.org/A5088703939), [Sung Lai Jimmy Yun](https://openalex.org/A5041609975), [Hong Zhao](https://openalex.org/A5013508332), [Jianwei Li](https://openalex.org/A5057639560), [Jie Zhang](https://openalex.org/A5008720433), Catalysis Today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.114660.
+    
+No abstract    
+
+    
+
+## Universal Intercalation/Alloying Hybrid Mechanism with ‐ICOHP Criterion in MAX Toward Steadily Ascending Lithium‐Ion Batteries   
+
+OpenAlex: https://openalex.org/W4392978666    
+Open access: False
+    
+[Xueyi Guo](https://openalex.org/A5033530426), [Quan Zhou](https://openalex.org/A5015043495), [Changda Wang](https://openalex.org/A5091010279), [Yong Cao](https://openalex.org/A5062247384), [Xiya Yang](https://openalex.org/A5010488916), [Shiqiang Wei](https://openalex.org/A5022378112), [Wenjie Xu](https://openalex.org/A5006436767), [Shuangming Chen](https://openalex.org/A5089250586), [Kehua Zhu](https://openalex.org/A5014997280), [Pengjun Zhang](https://openalex.org/A5020834943), [Hongwei Shou](https://openalex.org/A5063417159), [Yixiu Wang](https://openalex.org/A5030488028), [Peter Joseph Chimtali](https://openalex.org/A5051497054), [Xiaojun Wu](https://openalex.org/A5021767311), [Song Li](https://openalex.org/A5081615766), [Xiaosong Liu](https://openalex.org/A5042397482), Small. None(None)] 2024.https://doi.org/10.1002/smll.202400099.
+    
+Abstract Profiting from the unique atomic laminated structure, metallic conductivity, and superior mechanical properties, transition metal carbides and nitrides named MAX phases have shown great potential as anodes in lithium‐ion batteries. However, the complexity of MAX configurations poses a challenge. To accelerate such application, a minus integrated crystal orbital Hamilton populations descriptor is innovatively proposed to rapidly evaluate the lithium storage potential of various MAX, along with density functional theory computations. It confirms that surface A‐element atoms bound to lithium ions have odds of escaping from MAX. Interestingly, the activated A‐element atoms enhance the reversible uptake of lithium ions by MAX anodes through an efficient alloying reaction. As an experimental verification, the charge compensation and Sn x Li y phase evolution of designed Zr 2 SnC MAX with optimized structure is visualized via in situ synchrotron radiation XRD and XAFS technique, which further clarifies the theoretically expected intercalation/alloying hybrid storage mechanism. Notably, Zr 2 SnC electrodes achieve remarkably 219.8% negative capacity attenuation over 3200 cycles at 1 A g −1 . In principle, this work provides a reference for the design and development of advanced MAX electrodes, which is essential to explore diversified applications of the MAX family in specific energy fields.    
+
+    
+
 ## Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices   
 
 OpenAlex: https://openalex.org/W4393002362    
@@ -318,16 +318,5 @@ Open access: True
 [Lourdes F. Vega](https://openalex.org/A5025372716), [Daniel Bahamón](https://openalex.org/A5008587112), [Ismail I.I. Alkhatib](https://openalex.org/A5091822936), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.3c07133 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acssuschemeng.3c07133)).
     
 CO2 can be converted into value-added products such as fuels, chemicals, and building materials, adding an economic incentive for CO2 capture and green economy, while also reducing the environmental footprint of hard-to-abate industries such as aviation, construction, and metallurgy. Nonetheless, most available technologies for direct CO2 conversion, while promising, are still in early development stages, facing technical and economic challenges for their scale-up, questioning their viability to truly instill a timely impact on global CO2 emissions. Furthermore, a clear environmental benefit should be obtained for the new processes versus the traditional ones they are replacing in the market. In this perspective, we examine the range of available technologies for direct CO2 conversion using thermal, electrical, and photochemical routes and mineralization including the advancements in their role in synthesizing a range of resulting products from methanol, methane, carbon monoxide, and solid carbonates. We offer insights on the trends in current research and development and the required direction to expedite the technological readiness of attractive CO2 conversion technologies in terms of catalytic material and reactor design. We also highlight the important role of modeling (molecular and process levels) as an enabling tool to deploy these technologies at the commercial scale originating from understanding their behavior at the molecular level. Lastly, we highlight the significance of carrying out reliable life cycle analysis in identifying the environmental hotspots as well as gaps in the technology that allows improving their environmental footprint and economic attractiveness.    
-
-    
-
-## Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants   
-
-OpenAlex: https://openalex.org/W4392974422    
-Open access: False
-    
-[Keyvan Mirehbar](https://openalex.org/A5093893793), [Jaime S. Sanchez](https://openalex.org/A5018990381), [Sergio Pinilla](https://openalex.org/A5074043492), [Freddy E. Oropeza](https://openalex.org/A5085212044), [Ignasi Sirés](https://openalex.org/A5068813176), [Víctor A. de la Peña O’Shea](https://openalex.org/A5009218545), [Jesús Palma](https://openalex.org/A5075101961), [Julio J. Lado](https://openalex.org/A5053847588), Journal of Environmental Chemical Engineering. None(None)] 2024.https://doi.org/10.1016/j.jece.2024.112562.
-    
-No abstract    
 
     

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:45:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Copper Photocatalyzed Divergent Access to Organic Thio- and Isothiocyanates</title>
-      <link>https://doi.org/10.1021/acscatal.4c00565</link>
-      <description>Youssef Abderrazak, Oliver Reiser, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392878350
-
-                No abstract</description>
-      <author>Youssef Abderrazak, Oliver Reiser</author>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00565</guid>
-    </item>
     <item>
       <title>Atroposelective Synthesis of Diarylamines via Organocatalyzed Electrophilic Amination</title>
       <link>https://doi.org/10.1021/acscatal.4c00414</link>
@@ -256,6 +246,16 @@
       <author>Yirong Wu, Haofeng Xu, Kuan Wang, Guixia Liu, Lan Gan, Zheng Huang</author>
       <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00312</guid>
+    </item>
+    <item>
+      <title>Ce-Driven Ce-MnO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/Na&lt;sub&gt;2&lt;/sub&gt;WO&lt;sub&gt;4&lt;/sub&gt;/SiO&lt;sub&gt;2&lt;/sub&gt; Composite Catalysts for Low-Temperature Oxidative Coupling of Methane</title>
+      <link>https://doi.org/10.1021/acscatal.3c06301</link>
+      <description>Jiaxin Song, Rong Yu, Xin Gao, Xiaoqiang Fan, Baijun Liu, Zhao Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393055019
+
+                Mn/Na2WO4/SiO2 catalyst is widely used in the oxidative coupling of methane (OCM) reactions because of its high catalytic performance and stability. Nevertheless, the complex elemental composition makes the role of each active component in these catalysts still controversial. Herein, we conducted separate studies on Mn/Na2WO4/SiO2 catalyst by separating it into MnOx and Na2WO4/SiO2 (NaWSi). This provided a persuasive strategy to turn manganese oxide from a combustion catalyst into a selective catalyst for the OCM at low temperatures through a synergistic effect between the Ce-MnOx catalyst and Na2WO4/SiO2 catalyst. The introduction of Ce is a key factor in improving the low-temperature OCM activity of the catalyst. The temperature-programmed desorption of oxygen (O2-TPD) and 18O isotope labeling experiments confirm that surface lattice oxygen is the main active oxygen species in the OCM reaction for the Ce-driven catalyst. The presence of Ce strengthens the surface lattice oxygen cycle process on the catalyst, resulting in higher oxygen exchange ability and improved migration of active lattice oxygen. Furthermore, in situ Raman spectroscopy shows that both 3Ce-MnOx and NaWSi catalysts can enhance resistance to carbon deposition in the catalysts. Hence, the 3Ce-MnOx/NaWSi composite catalyst achieved 38.4% conversion of CH4 and a 15.6% yield of C2 at 700 &#176;C and the catalytic activity remained stable for at least 25 h.</description>
+      <author>Jiaxin Song, Rong Yu, Xin Gao, Xiaoqiang Fan, Baijun Liu, Zhao Zhang</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06301</guid>
     </item>
   </channel>
 </rss>

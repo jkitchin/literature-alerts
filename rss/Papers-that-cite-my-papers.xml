@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 24 Mar 2024 00:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 00:46:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>New approach to produce cubic-WC at low temperature for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.107</link>
-      <description>Elvis O. L&#243;pez, Ofelia M. Arias-Pinedo, Rub&#233;n Soria-Mart&#237;nez, Antony Bazan-Aguilar, Gonzalo Garc&#305;&#769;a, Pablo L. Bernardo, N.R. Checca, Alexandre Mello, Ang&#233;lica M. Baena&#8208;Moncada, International Journal of Hydrogen Energy. 62(None)] 2024. https://openalex.org/W4392876346
-
-                No abstract</description>
-      <author>Elvis O. L&#243;pez, Ofelia M. Arias-Pinedo, Rub&#233;n Soria-Mart&#237;nez, Antony Bazan-Aguilar, Gonzalo Garc&#305;&#769;a, Pablo L. Bernardo, N.R. Checca, Alexandre Mello, Ang&#233;lica M. Baena&#8208;Moncada</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.107</guid>
-    </item>
-    <item>
-      <title>A First-Principles Study of the Oxygen Reduction Reaction Activity of Pt with Tm-N-C Support</title>
-      <link>https://doi.org/10.2139/ssrn.4761893</link>
-      <description>Haining Wang, Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Shanfu Lu, Yan Xiang, No host. None(None)] 2024. https://openalex.org/W4392876465
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Haining Wang, Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Shanfu Lu, Yan Xiang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4761893</guid>
-    </item>
-    <item>
-      <title>Trace Fe activates perovskite nickelate OER catalysts in alkaline media via redox-active surface Ni species formed during electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115443</link>
-      <description>Liam Twight, Ally Tonsberg, Samji Samira, Kunal Velinkar, Kora Dumpert, Yingqing Ou, Le Wang, Eranda Nikolla, Shannon W. Boettcher, Journal of Catalysis. None(None)] 2024. https://openalex.org/W4392878220
-
-                No abstract</description>
-      <author>Liam Twight, Ally Tonsberg, Samji Samira, Kunal Velinkar, Kora Dumpert, Yingqing Ou, Le Wang, Eranda Nikolla, Shannon W. Boettcher</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115443</guid>
-    </item>
-    <item>
-      <title>2D Ferromagnetic M&lt;sub&gt;3&lt;/sub&gt;GeTe&lt;sub&gt;2&lt;/sub&gt; (M = Ni/Fe) for Boosting Intermediates Adsorption toward Faster Water Oxidation</title>
-      <link>https://doi.org/10.1002/advs.202310115</link>
-      <description>Guyue Bo, Peng Li, Yuhang Fan, Xiaobo Zheng, Mengting Zhao, Qiang Zhu, Fu Yang, Yitong Li, Wei Pang, Wei&#8208;Hong Lai, Bernt Johannessen, Lars Thomsen, Bruce C. C. Cowie, Tianyi Ma, Zhidong Chen, Guan Heng Yeoh, Yi Du, Shi Xue Dou, Xiaojing Xu, Advanced Science. None(None)] 2024. https://openalex.org/W4392880944
-
-                Abstract In this work, 2D ferromagnetic M 3 GeTe 2 (MGT, M = Ni/Fe) nanosheets with rich atomic Te vacancies (2D&#8208;MGT v ) are demonstrated as efficient OER electrocatalyst via a general mechanical exfoliation strategy. X&#8208;ray absorption spectra (XAS) and scanning transmission electron microscope (STEM) results validate the dominant presence of metal&#8208;O moieties and rich Te vacancies, respectively. The formed Te vacancies are active for the adsorption of OH* and O* species while the metal&#8208;O moieties promote the O* and OOH* adsorption, contributing synergistically to the faster oxygen evolution kinetics. Consequently, 2D&#8208;Ni 3 GeTe 2v exhibits superior OER activity with only 370 mV overpotential to reach the current density of 100 mA cm &#8722;2 and turnover frequency (TOF) value of 101.6 s &#8722;1 at the overpotential of 200 mV in alkaline media. Furthermore, a 2D&#8208;Ni 3 GeTe 2v &#8208;based anion&#8208;exchange membrane (AEM) water electrolysis cell (1 cm 2 ) delivers a current density of 1.02 and 1.32 A cm &#8722;2 at the voltage of 3 V feeding with 0.1 and 1 m KOH solution, respectively. The demonstrated metal&#8208;O coordination with abundant atomic vacancies for ferromagnetic M 3 GeTe 2 and the easily extended preparation strategy would enlighten the rational design and fabrication of other ferromagnetic materials for wider electrocatalytic applications.</description>
-      <author>Guyue Bo, Peng Li, Yuhang Fan, Xiaobo Zheng, Mengting Zhao, Qiang Zhu, Fu Yang, Yitong Li, Wei Pang, Wei&#8208;Hong Lai, Bernt Johannessen, Lars Thomsen, Bruce C. C. Cowie, Tianyi Ma, Zhidong Chen, Guan Heng Yeoh, Yi Du, Shi Xue Dou, Xiaojing Xu</author>
-      <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/advs.202310115</guid>
-    </item>
-    <item>
-      <title>RuSe2 nanoparticles loaded MoSe2 hybrid rods via interface engineering as an efficient electrocatalyst for hydrogen evolution electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.159916</link>
-      <description>Manzhou Zhu, Huijun Yu, Cheng&#8208;Han Yang, Qinghua Deng, Huan Liu, Jinqiang Huang, Yiwei Zhang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392881530
-
-                No abstract</description>
-      <author>Manzhou Zhu, Huijun Yu, Cheng&#8208;Han Yang, Qinghua Deng, Huan Liu, Jinqiang Huang, Yiwei Zhang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.159916</guid>
-    </item>
-    <item>
-      <title>Recent progress in two-dimensional metallenes and their potential application as electrocatalyst</title>
-      <link>https://doi.org/10.1016/j.jechem.2024.02.068</link>
-      <description>Umer Shahzad, Mohsin Saeed, Muhammad Fazle Rabbee, Hadi M. Marwani, Jehan Y. Al&#8208;Humaidi, Muhammad Altaf, Raed H. Althomali, Kwang-Hyun Baek, Md. Rabiul Awual, Mohammed M. Rahman, Journal of Energy Chemistry. None(None)] 2024. https://openalex.org/W4392883430
-
-                No abstract</description>
-      <author>Umer Shahzad, Mohsin Saeed, Muhammad Fazle Rabbee, Hadi M. Marwani, Jehan Y. Al&#8208;Humaidi, Muhammad Altaf, Raed H. Althomali, Kwang-Hyun Baek, Md. Rabiul Awual, Mohammed M. Rahman</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.02.068</guid>
-    </item>
-    <item>
-      <title>Enhancement of nitrogen reduction reaction activity of sp-B-doped &#947;-graphyne nanotubes through curvature effect</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114044</link>
-      <description>Renzhi Ma, Yipin Lv, Yaqiong Yang, Xinru Wei, Jin Yong Lee, Shaul Mukamel, Baotao Kang, Molecular Catalysis. 558(None)] 2024. https://openalex.org/W4392890465
-
-                No abstract</description>
-      <author>Renzhi Ma, Yipin Lv, Yaqiong Yang, Xinru Wei, Jin Yong Lee, Shaul Mukamel, Baotao Kang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114044</guid>
-    </item>
     <item>
       <title>Phenol as proton shuttle and buffer for lithium-mediated ammonia electrosynthesis</title>
       <link>https://doi.org/10.1038/s41467-024-46803-w</link>
@@ -258,6 +188,76 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adsu.202400011</guid>
     </item>
     <item>
+      <title>Ru/Ir&#8208;Based Electrocatalysts for Oxygen Evolution Reaction in Acidic Conditions: From Mechanisms, Optimizations to Challenges</title>
+      <link>https://doi.org/10.1002/advs.202309364</link>
+      <description>Qin Rong, Guanzhen Chen, Xueting Feng, Jian Weng, Yunhu Han, Advanced Science. None(None)] 2024. https://openalex.org/W4392953409
+
+                Abstract The generation of green hydrogen by water splitting is identified as a key strategic energy technology, and proton exchange membrane water electrolysis (PEMWE) is one of the desirable technologies for converting renewable energy sources into hydrogen. However, the harsh anode environment of PEMWE and the oxygen evolution reaction (OER) involving four&#8208;electron transfer result in a large overpotential, which limits the overall efficiency of hydrogen production, and thus efficient electrocatalysts are needed to overcome the high overpotential and slow kinetic process. In recent years, noble metal&#8208;based electrocatalysts (e.g., Ru/Ir&#8208;based metal/oxide electrocatalysts) have received much attention due to their unique catalytic properties, and have already become the dominant electrocatalysts for the acidic OER process and are applied in commercial PEMWE devices. However, these noble metal&#8208;based electrocatalysts still face the thorny problem of conflicting performance and cost. In this review, first, noble metal Ru/Ir&#8208;based OER electrocatalysts are briefly classified according to their forms of existence, and the OER catalytic mechanisms are outlined. Then, the focus is on summarizing the improvement strategies of Ru/Ir&#8208;based OER electrocatalysts with respect to their activity and stability over recent years. Finally, the challenges and development prospects of noble metal&#8208;based OER electrocatalysts are discussed.</description>
+      <author>Qin Rong, Guanzhen Chen, Xueting Feng, Jian Weng, Yunhu Han</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/advs.202309364</guid>
+    </item>
+    <item>
+      <title>Direct Synthesis of CuPd Icosahedra Supercrystals Studied by In Situ X&#8208;Ray Scattering</title>
+      <link>https://doi.org/10.1002/smll.202311714</link>
+      <description>Davide Derelli, Kilian Frank, Lukas Grote, Federica Mancini, Ann Christin Dippel, Olof Gutowski, Bert Nickel, Dorota Koziej, Small. None(None)] 2024. https://openalex.org/W4392954128
+
+                Abstract Nanocrystal self&#8208;assembly into supercrystals provides a versatile platform for creating novel materials and devices with tailored properties. While common self&#8208;assembly strategies imply the use of purified nanoparticles after synthesis, conversion of chemical precursors directly into nanocrystals and then supercrystals in simple procedures has been rarely reported. Here, the nucleation and growth of CuPd icosahedra and their consecutive assembly into large closed&#8208;packed face&#8208;centered cubic (fcc) supercrystals are studied. To this end, the study simultaneously and in situ measures X&#8208;ray total scattering with pair distribution function analysis (TS&#8208;PDF) and small&#8208;angle X&#8208;ray scattering (SAXS). It is found that the supercrystals' formation is preceded by an intermediate dense phase of nanocrystals displaying short&#8208;range order (SRO). It is further shown that the organization of oleic acid/oleylamine surfactants into lamellar structures likely drives the emergence of the SRO phase and later of the supercrystals by reducing the volume accessible to particle diffusion. The supercrystals' formation as well as their disassembly are triggered by temperature. The study demonstrates that ordering of solvent molecules can be crucial in the direct synthesis of supercrystals. The study also provides a general approach to investigate novel preparation routes of supercrystals in situ and across several length scales via X&#8208;ray scattering.</description>
+      <author>Davide Derelli, Kilian Frank, Lukas Grote, Federica Mancini, Ann Christin Dippel, Olof Gutowski, Bert Nickel, Dorota Koziej</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202311714</guid>
+    </item>
+    <item>
+      <title>Biorefinery products from algal biomass by advanced biotechnological and hydrothermal liquefaction approaches</title>
+      <link>https://doi.org/10.1007/s42452-024-05777-6</link>
+      <description>Mathiyazhagan Narayanan, Discover Applied Sciences. 6(4)] 2024. https://openalex.org/W4392960733
+
+                Abstract Algal biomass is a promising feedstock for the environmentally friendly production of a diverse range of high-value products, including bioproducts and biofuels. After extracting the essential macro- and biomolecules, the remaining algae biomass can be used as feedstock and processed into valuable additional goods. Advanced biotechnology techniques and efficient hydrothermal liquefaction (HTL) technologies are used to produce beneficial products such as bioenergy and biochemicals. Carbohydrates, lipids, and proteins are essential biochemical components of algal biomass that can be used to produce biofuel. Hence, algae biomass is gaining popularity as a biorefinery alternative. HTL is a process of converting biomass to a liquid byproduct by intricate chemical reactions. The purpose of this review is to highlight modern biotechnological and hydrothermal liquefaction techniques for extracting biological products from algae. A large number of documents were reviewed and analytically structured to lay the groundwork for the subsequent steps. This review also included information on a simple reaction mechanism for the biomass that algae produce, as well as the impact of process parameters.</description>
+      <author>Mathiyazhagan Narayanan</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s42452-024-05777-6</guid>
+    </item>
+    <item>
+      <title>Two-Dimensional Layered Heterojunctions for Photoelectrocatalysis</title>
+      <link>https://doi.org/10.1021/acsnano.3c12274</link>
+      <description>Mengjiao Wang, Michal Langer, Roberto Altieri, Matteo Crisci, Silvio Osella, Teresa Gatti, ACS Nano. None(None)] 2024. https://openalex.org/W4392970424
+
+                No abstract</description>
+      <author>Mengjiao Wang, Michal Langer, Roberto Altieri, Matteo Crisci, Silvio Osella, Teresa Gatti</author>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.3c12274</guid>
+    </item>
+    <item>
+      <title>Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</title>
+      <link>https://doi.org/10.1016/j.jece.2024.112562</link>
+      <description>Keyvan Mirehbar, Jaime S. Sanchez, Sergio Pinilla, Freddy E. Oropeza, Ignasi Sir&#233;s, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Jes&#250;s Palma, Julio J. Lado, Journal of Environmental Chemical Engineering. None(None)] 2024. https://openalex.org/W4392974422
+
+                No abstract</description>
+      <author>Keyvan Mirehbar, Jaime S. Sanchez, Sergio Pinilla, Freddy E. Oropeza, Ignasi Sir&#233;s, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Jes&#250;s Palma, Julio J. Lado</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.112562</guid>
+    </item>
+    <item>
+      <title>Ultrathin Amorphous NaIrRuOx Nanosheets with Rich Oxygen Vacancies for Efficient Acidic Water Oxidation</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.114660</link>
+      <description>Junan Gao, Xiaofeng Wu, Xinying Teng, Xin Jing, Sung Lai Jimmy Yun, Hong Zhao, Jianwei Li, Jie Zhang, Catalysis Today. None(None)] 2024. https://openalex.org/W4392976595
+
+                No abstract</description>
+      <author>Junan Gao, Xiaofeng Wu, Xinying Teng, Xin Jing, Sung Lai Jimmy Yun, Hong Zhao, Jianwei Li, Jie Zhang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114660</guid>
+    </item>
+    <item>
+      <title>Universal Intercalation/Alloying Hybrid Mechanism with &#8208;ICOHP Criterion in MAX Toward Steadily Ascending Lithium&#8208;Ion Batteries</title>
+      <link>https://doi.org/10.1002/smll.202400099</link>
+      <description>Xueyi Guo, Quan Zhou, Changda Wang, Yong Cao, Xiya Yang, Shiqiang Wei, Wenjie Xu, Shuangming Chen, Kehua Zhu, Pengjun Zhang, Hongwei Shou, Yixiu Wang, Peter Joseph Chimtali, Xiaojun Wu, Song Li, Xiaosong Liu, Small. None(None)] 2024. https://openalex.org/W4392978666
+
+                Abstract Profiting from the unique atomic laminated structure, metallic conductivity, and superior mechanical properties, transition metal carbides and nitrides named MAX phases have shown great potential as anodes in lithium&#8208;ion batteries. However, the complexity of MAX configurations poses a challenge. To accelerate such application, a minus integrated crystal orbital Hamilton populations descriptor is innovatively proposed to rapidly evaluate the lithium storage potential of various MAX, along with density functional theory computations. It confirms that surface A&#8208;element atoms bound to lithium ions have odds of escaping from MAX. Interestingly, the activated A&#8208;element atoms enhance the reversible uptake of lithium ions by MAX anodes through an efficient alloying reaction. As an experimental verification, the charge compensation and Sn x Li y phase evolution of designed Zr 2 SnC MAX with optimized structure is visualized via in situ synchrotron radiation XRD and XAFS technique, which further clarifies the theoretically expected intercalation/alloying hybrid storage mechanism. Notably, Zr 2 SnC electrodes achieve remarkably 219.8% negative capacity attenuation over 3200 cycles at 1 A g &#8722;1 . In principle, this work provides a reference for the design and development of advanced MAX electrodes, which is essential to explore diversified applications of the MAX family in specific energy fields.</description>
+      <author>Xueyi Guo, Quan Zhou, Changda Wang, Yong Cao, Xiya Yang, Shiqiang Wei, Wenjie Xu, Shuangming Chen, Kehua Zhu, Pengjun Zhang, Hongwei Shou, Yixiu Wang, Peter Joseph Chimtali, Xiaojun Wu, Song Li, Xiaosong Liu</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400099</guid>
+    </item>
+    <item>
       <title>Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c00028</link>
       <description>Tristan Maxson, Ademola Soyemi, Benjamin W. J. Chen, Tibor Szilv&#225;si, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393002362
@@ -286,16 +286,6 @@
       <author>Lourdes F. Vega, Daniel Baham&#243;n, Ismail I.I. Alkhatib</author>
       <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07133</guid>
-    </item>
-    <item>
-      <title>Development of a 3D Ni-Mn Binary Oxide Anode for Energy-Efficient Electro-Oxidation of Organic Pollutants</title>
-      <link>https://doi.org/10.1016/j.jece.2024.112562</link>
-      <description>Keyvan Mirehbar, Jaime S. Sanchez, Sergio Pinilla, Freddy E. Oropeza, Ignasi Sir&#233;s, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Jes&#250;s Palma, Julio J. Lado, Journal of Environmental Chemical Engineering. None(None)] 2024. https://openalex.org/W4392974422
-
-                No abstract</description>
-      <author>Keyvan Mirehbar, Jaime S. Sanchez, Sergio Pinilla, Freddy E. Oropeza, Ignasi Sir&#233;s, V&#237;ctor A. de la Pe&#241;a O&#8217;Shea, Jes&#250;s Palma, Julio J. Lado</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.112562</guid>
     </item>
   </channel>
 </rss>

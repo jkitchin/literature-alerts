@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Mar 24 00:50:16 2024
+Created on Mon Mar 25 00:45:49 2024
 
-Found 25 results from 2024-03-17 to 2024-03-24
+Found 25 results from 2024-03-18 to 2024-03-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Copper Photocatalyzed Divergent Access to Organic Thio- and Isothiocyanates   
-
-OpenAlex: https://openalex.org/W4392878350    
-Open access: True
-    
-[Youssef Abderrazak](https://openalex.org/A5083685166), [Oliver Reiser](https://openalex.org/A5012339913), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00565 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00565)).
-    
-No abstract    
-
-    
 
 ## Atroposelective Synthesis of Diarylamines via Organocatalyzed Electrophilic Amination   
 
@@ -278,5 +267,16 @@ Open access: False
 [Yirong Wu](https://openalex.org/A5013249496), [Haofeng Xu](https://openalex.org/A5082770776), [Kuan Wang](https://openalex.org/A5068508373), [Guixia Liu](https://openalex.org/A5037644447), [Lan Gan](https://openalex.org/A5012635301), [Zheng Huang](https://openalex.org/A5033486450), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00312.
     
 Thermal catalytic dehydrogenation of congested alkanes, such as the 1,1-disubstituted ethane (1,1-DSE) motif, is still a largely unsolved challenge. Herein, we report the investigation of biaryl-based atropisomeric diphosphines with various electronic and steric properties and their corresponding chloroiridium complexes for catalytic transfer dehydrogenation (CTD) of 1,1-DSEs using tert-butylethene as H-acceptor. The use of diphosphines of the biaryl backbone with a narrow dihedral angle was found to be essential to forming an effective catalytic species, cis-P2ClIr. A systematic investigation of three atropisomeric diphosphine classes, Segphos, MeO-Biphep, and Binap, revealed that the sterically hindered and electron-rich ligands are more efficient than the less hindered and electron-deficient ones. With an understanding of the structure–activity relationships, we developed two highly encumbered ligands 3,5-TMS,4-MeOMeO-Biphep (M12) and 3-TIPS,5-TMSMeO-Biphep (M13), which afforded >1400 turnovers at 150 °C in the cumene/TBE CTD reaction, representing the most efficient catalyst for thermal catalytic dehydrogenation of 1,1-DSEs. Moreover, these two ligands produced ∼420 turnovers in the CTD of 2-(1-adamantyl)propane, demonstrating their ability in dehydrogenation of unactivated hindered dialkyl-substituted ethanes.    
+
+    
+
+## Ce-Driven Ce-MnOx/Na2WO4/SiO2 Composite Catalysts for Low-Temperature Oxidative Coupling of Methane   
+
+OpenAlex: https://openalex.org/W4393055019    
+Open access: False
+    
+[Jiaxin Song](https://openalex.org/A5020681114), [Rong Yu](https://openalex.org/A5029406631), [Xin Gao](https://openalex.org/A5047583150), [Xiaoqiang Fan](https://openalex.org/A5067365795), [Baijun Liu](https://openalex.org/A5007619881), [Zhao Zhang](https://openalex.org/A5065361552), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06301.
+    
+Mn/Na2WO4/SiO2 catalyst is widely used in the oxidative coupling of methane (OCM) reactions because of its high catalytic performance and stability. Nevertheless, the complex elemental composition makes the role of each active component in these catalysts still controversial. Herein, we conducted separate studies on Mn/Na2WO4/SiO2 catalyst by separating it into MnOx and Na2WO4/SiO2 (NaWSi). This provided a persuasive strategy to turn manganese oxide from a combustion catalyst into a selective catalyst for the OCM at low temperatures through a synergistic effect between the Ce-MnOx catalyst and Na2WO4/SiO2 catalyst. The introduction of Ce is a key factor in improving the low-temperature OCM activity of the catalyst. The temperature-programmed desorption of oxygen (O2-TPD) and 18O isotope labeling experiments confirm that surface lattice oxygen is the main active oxygen species in the OCM reaction for the Ce-driven catalyst. The presence of Ce strengthens the surface lattice oxygen cycle process on the catalyst, resulting in higher oxygen exchange ability and improved migration of active lattice oxygen. Furthermore, in situ Raman spectroscopy shows that both 3Ce-MnOx and NaWSi catalysts can enhance resistance to carbon deposition in the catalysts. Hence, the 3Ce-MnOx/NaWSi composite catalyst achieved 38.4% conversion of CH4 and a 15.6% yield of C2 at 700 °C and the catalytic activity remained stable for at least 25 h.    
 
     
