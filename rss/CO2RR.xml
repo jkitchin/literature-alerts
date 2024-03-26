@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Mar 2024 00:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:43:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,16 @@
       <author>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114040</guid>
+    </item>
+    <item>
+      <title>Titanium carbide sealed cadmium sulfide quantum dots on carbon, oxygen-doped boron nitride for enhanced and durable photochemical carbon dioxide reduction</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.03.139</link>
+      <description>Zhangfeng Shen, Yang Yang, LI Yu-ji, Xiaohua Cheng, Huayang Zhang, Xuhui Zou, Ming Qiu, Hong Huang, Hongge Pan, Qineng Xia, Ge Zhang, Yongyong Cao, Jing Gao, Yangang Wang, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4393131989
+
+                Despite great efforts that have been made, photocatalytic carbon dioxide (CO2) reduction still faces enormous challenges due to the sluggish kinetics or disadvantageous thermodynamics. Herein, cadmium sulfide quantum dots (CdS QDs) were loaded onto carbon, oxygen-doped boron nitride (BN) and encapsulated by titanium carbide (Ti3C2, MXene) layers to construct a ternary composite. The uniform distribution of CdS QDs and the tight interfacial interaction among the three components could be achieved by adjusting the loading amounts of CdS QDs and MXene. The ternary 100MX/CQ/BN sample gave a productive rate of 2.45 and 0.44 &#956;mol g-1 h&#8722;1 for carbon monoxide (CO) and methane (CH4), respectively. This CO yield is 1.93 and 6.13 times higher than that of CdS QDs/BN and BN counterparts. The photocatalytic durability of the ternary composite is significantly improved compared with CdS QDs/BN because MXene can protect CdS from photocorrosion. The characterization results demonstrate that the excellent CO2 adsorption and activation capabilities of BN, the visible light absorption of CdS QDs, the good conductivity of MXene and the well-matched energy band alignment jointly promote the photocatalytic performance of the ternary catalyst.</description>
+      <author>Zhangfeng Shen, Yang Yang, LI Yu-ji, Xiaohua Cheng, Huayang Zhang, Xuhui Zou, Ming Qiu, Hong Huang, Hongge Pan, Qineng Xia, Ge Zhang, Yongyong Cao, Jing Gao, Yangang Wang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.139</guid>
     </item>
     <item>
       <title>How informal environmental regulations constrain carbon dioxide emissions under pollution control and carbon reduction: Evidence from China</title>
@@ -178,16 +188,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4764056</guid>
     </item>
     <item>
-      <title>N-doped Cu2O with the tunable Cu0 and Cu+sites for selective CO2 electrochemical reduction to ethylene</title>
-      <link>https://doi.org/10.1016/j.jes.2024.03.012</link>
-      <description>Yao Shen, Ling-Bo Qian, Qing Xu, S. S. Wang, Yong Chen, Hong L&#252;, Yingke Zhou, Jiexu Ye, Jingkai Zhao, Xiang Gao, Shihan Zhang, Journal of Environmental Sciences. None(None)] 2024. https://openalex.org/W4392894348
-
-                No abstract</description>
-      <author>Yao Shen, Ling-Bo Qian, Qing Xu, S. S. Wang, Yong Chen, Hong L&#252;, Yingke Zhou, Jiexu Ye, Jingkai Zhao, Xiang Gao, Shihan Zhang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jes.2024.03.012</guid>
-    </item>
-    <item>
       <title>Controllable preparation of Cu2O/Cu-CuTCPP MOF heterojunction for enhanced electrocatalytic CO2 reduction to C2H4</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.159937</link>
       <description>Miao Sun, Xiao Xu, Shihao Min, Jie He, Kun Li, Longtian Kang, Applied Surface Science. None(None)] 2024. https://openalex.org/W4392907560
@@ -228,6 +228,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/en17061483</guid>
     </item>
     <item>
+      <title>One-pot two-step reduction of CO2 with amines and NaBH4 to N-substituted compounds at atmospheric pressure</title>
+      <link>https://doi.org/10.1016/j.jcou.2024.102741</link>
+      <description>Junhong Wang, B. P. Wang, Xuehong Wei, Zhiqiang Guo, Journal of CO2 Utilization. 82(None)] 2024. https://openalex.org/W4393124559
+
+                No abstract</description>
+      <author>Junhong Wang, B. P. Wang, Xuehong Wei, Zhiqiang Guo</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102741</guid>
+    </item>
+    <item>
       <title>Revealing the Synergistic Effect of Ni Single Atoms and Adjacent 3d metal Doped Ni Nanoparticles in Electrocatalytic CO2 Reduction</title>
       <link>https://doi.org/10.1039/d4na00167b</link>
       <description>Yingjie Liu, Zhaohui Wu, Shuting Bai, Tianyang Shen, Qian Li, Guihao Liu, Xiaoliang Sun, Yihang Hu, Ziheng Song, Jinfeng Chu, Yu&#8208;Fei Song, Nanoscale advances. None(None)] 2024. https://openalex.org/W4392917915
@@ -266,16 +276,6 @@
       <author>Rui Feng, Mingnv Guo, Zhongqing Yang, Jiaqi Qiu, Ziqi Wang, Yongliang Zhao</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119079</guid>
-    </item>
-    <item>
-      <title>Optimization of Each Component Ratio of Multiple Thermal Fluids in Extra-Heavy Oil Reservoir</title>
-      <link>https://doi.org/10.1007/978-981-97-0260-2_78</link>
-      <description>Hua Ma, Bing Bo, Aiguo Xu, Lun Zhao, Wenqi Zhao, Fachao Shan, Chenggang Wang, Minghui Liu, Springer series in geomechanics and geoengineering. None(None)] 2024. https://openalex.org/W4393009781
-
-                Under the goal of "carbon peaking and carbon neutrality", the technology of multiple thermal fluids is widely used to develop heavy oil reservoirs at home and abroad for its advantages of low carbon and environmental protection. The multicomponent thermal fluids mainly contain nitrogen, carbon dioxide and steam. In the formation, multi-components play an important role in the huff and puff effect. In order to improve the development effect of extra-heavy oil reservoir, the optimization of each component ratio must be further studied. Based on the single factor analysis method and orthogonal test method, this paper designs 40 groups of multi-component thermal fluids numerical simulation schemes with different component proportions. CMG software simulates the influence of steam injection rate, gas-steam ratio, CO2-N2 ratio and other injection parameters on the development effect of multi-component thermal fluids. The results show that the ratio of CO2 to N2 is the significant factor affecting the huff and puff effect, and the sensitivity order is CO2 to N2 ratio, gas-steam ratio and steam injection rate. The optimal injection parameter combination is as follows: the steam injection rate is 200 t/d, the gas-steam ratio is 300 m3/t, and the ratio of CO2 to N2 is 70%:30%. Viscosity deduction of muti-component thermal fluids has two regions: high temperature viscosity reduction and CO2 dissolution viscosity reduction region. The results of this study have theoretical guiding significance for the optimization of injection-production parameters of multiple thermal fluids huff and puff, and can be further applied to field practice.</description>
-      <author>Hua Ma, Bing Bo, Aiguo Xu, Lun Zhao, Wenqi Zhao, Fachao Shan, Chenggang Wang, Minghui Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-0260-2_78</guid>
     </item>
   </channel>
 </rss>

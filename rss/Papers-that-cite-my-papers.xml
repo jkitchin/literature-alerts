@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 25 Mar 2024 00:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 00:44:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Phenol as proton shuttle and buffer for lithium-mediated ammonia electrosynthesis</title>
-      <link>https://doi.org/10.1038/s41467-024-46803-w</link>
-      <description>Xiujun Fu, Aoni Xu, Jakob B. Pedersen, Shaofeng Li, Rokas Sa&#382;inas, Yuanyuan Zhou, Suzanne Zamany Andersen, Mattia Saccoccio, Niklas H. Deissler, Jon Bjarke Valb&#230;k Mygind, Jakob Kibsgaard, Peter Christian Kj&#230;rgaard Vesborg, Jens K. N&#248;rskov, Ib Chorkendorff, Nature Communications. 15(1)] 2024. https://openalex.org/W4392897390
-
-                Abstract Ammonia is a crucial component in the production of fertilizers and various nitrogen-based compounds. Now, the lithium-mediated nitrogen reduction reaction (Li-NRR) has emerged as a promising approach for ammonia synthesis at ambient conditions. The proton shuttle plays a critical role in the proton transfer process during Li-NRR. However, the structure-activity relationship and design principles for effective proton shuttles have not yet been established in practical Li-NRR systems. Here, we propose a general procedure for verifying a true proton shuttle and established design principles for effective proton shuttles. We systematically evaluate several classes of proton shuttles in a continuous-flow reactor with hydrogen oxidation at the anode. Among the tested proton shuttles, phenol exhibits the highest Faradaic efficiency of 72 &#177; 3% towards ammonia, surpassing that of ethanol, which has been commonly used so far. Experimental investigations including operando isotope-labelled mass spectrometry proved the proton-shuttling capability of phenol. Further mass transport modeling sheds light on the mechanism.</description>
-      <author>Xiujun Fu, Aoni Xu, Jakob B. Pedersen, Shaofeng Li, Rokas Sa&#382;inas, Yuanyuan Zhou, Suzanne Zamany Andersen, Mattia Saccoccio, Niklas H. Deissler, Jon Bjarke Valb&#230;k Mygind, Jakob Kibsgaard, Peter Christian Kj&#230;rgaard Vesborg, Jens K. N&#248;rskov, Ib Chorkendorff</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-46803-w</guid>
-    </item>
-    <item>
-      <title>Transition metal-based nanozymes: Classification, catalytic mechanisms and emerging biomedical applications</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.215771</link>
-      <description>Dandan Zhang, Qing Chen, Qunxiang Ren, Zhong Wang, Hongjin Zhang, Guannan Wang, Yang Zhang, Coordination Chemistry Reviews. 508(None)] 2024. https://openalex.org/W4392898345
-
-                No abstract</description>
-      <author>Dandan Zhang, Qing Chen, Qunxiang Ren, Zhong Wang, Hongjin Zhang, Guannan Wang, Yang Zhang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.215771</guid>
-    </item>
-    <item>
-      <title>Biologically Templated Formation of Cobalt-Phosphide-Graphene Hybrid with Charge Redistribution for Efficient Hydrogen Evolution</title>
-      <link>https://doi.org/10.2139/ssrn.4762336</link>
-      <description>Xingchen Zhou, Lanqian Gong, Chen Wu, Yanfang Peng, Bin Cao, Xueliang Jiang, Huan Yang, Daoxiong Wu, Bao Yu Xia, No host. None(None)] 2024. https://openalex.org/W4392899183
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Xingchen Zhou, Lanqian Gong, Chen Wu, Yanfang Peng, Bin Cao, Xueliang Jiang, Huan Yang, Daoxiong Wu, Bao Yu Xia</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4762336</guid>
-    </item>
     <item>
       <title>Nanoporous Nickel Cathode with an Electrostatic Chlorine-Resistant Surface for Industrial Seawater Electrolysis Hydrogen Production</title>
       <link>https://doi.org/10.1021/acs.inorgchem.4c00392</link>
@@ -256,6 +226,36 @@
       <author>Xueyi Guo, Quan Zhou, Changda Wang, Yong Cao, Xiya Yang, Shiqiang Wei, Wenjie Xu, Shuangming Chen, Kehua Zhu, Pengjun Zhang, Hongwei Shou, Yixiu Wang, Peter Joseph Chimtali, Xiaojun Wu, Song Li, Xiaosong Liu</author>
       <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202400099</guid>
+    </item>
+    <item>
+      <title>Unveiling the Effect of Solvent for Hydrogen Evolution in Pt-Doped Mxenes and Corresponding High-Entropy Phase</title>
+      <link>https://doi.org/10.2139/ssrn.4762261</link>
+      <description>Zheng Shu, Zhangsheng Shi, Man&#8208;Fai Ng, Teck Leong Tan, Yongqing Cai, No host. None(None)] 2024. https://openalex.org/W4392978980
+
+                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
+      <author>Zheng Shu, Zhangsheng Shi, Man&#8208;Fai Ng, Teck Leong Tan, Yongqing Cai</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4762261</guid>
+    </item>
+    <item>
+      <title>Type Label Framework for Bonded Force Fields in LAMMPS</title>
+      <link>https://doi.org/10.1021/acs.jpcb.3c08419</link>
+      <description>Jacob R. Gissinger, Ilia Nikiforov, Yaser Afshar, Brendon Waters, Moon Han Choi, Daniel S. Karls, Alexander Stukowski, Wonpil Im, Hendrik Heinz, Axel Kohlmeyer, Ellad B. Tadmor, The Journal of Physical Chemistry B. None(None)] 2024. https://openalex.org/W4392987296
+
+                No abstract</description>
+      <author>Jacob R. Gissinger, Ilia Nikiforov, Yaser Afshar, Brendon Waters, Moon Han Choi, Daniel S. Karls, Alexander Stukowski, Wonpil Im, Hendrik Heinz, Axel Kohlmeyer, Ellad B. Tadmor</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcb.3c08419</guid>
+    </item>
+    <item>
+      <title>Discovery of Stable Surfaces with Extreme Work Functions by High&#8208;Throughput Density Functional Theory and Machine Learning</title>
+      <link>https://doi.org/10.1002/adfm.202401764</link>
+      <description>Peter Schindler, Evan R. Antoniuk, Gowoon Cheon, Yanbing Zhu, Evan J. Reed, Advanced Functional Materials. None(None)] 2024. https://openalex.org/W4392991859
+
+                Abstract The work function is the key surface property that determines the energy required to extract an electron from the surface of a material. This property is crucial for thermionic energy conversion, band alignment in heterostructures, and electron emission devices. This work presents a high&#8208;throughput workflow using density functional theory (DFT) to calculate the work function and cleavage energy of 33,631 slabs (58,332 work functions) that are created from 3,716 bulk materials. The number of calculated surface properties surpasses the previously largest database by a factor of &#8776;27. Several surfaces with an ultra&#8208;low (&lt;2 eV) and ultra&#8208;high (&gt;7 eV) work function are identified. Specifically, the (100)&#8208;Ba&#8208;O surface of BaMoO 3 and the (001)&#8208;F surface of Ag 2 F have record&#8208;low (1.25 eV) and record&#8208;high (9.06 eV) steady&#8208;state work functions. Based on this database a physics&#8208;based approach to featurize surfaces is utilized to predict the work function. The random forest model achieves a test mean absolute error (MAE) of 0.09 eV, comparable to the accuracy of DFT. This surrogate model enables rapid predictions of the work function (&#8776; 10 5 faster than DFT) across a vast chemical space and facilitates the discovery of material surfaces with extreme work functions for energy conversion and electronic device applications.</description>
+      <author>Peter Schindler, Evan R. Antoniuk, Gowoon Cheon, Yanbing Zhu, Evan J. Reed</author>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202401764</guid>
     </item>
     <item>
       <title>Enhancing the Quality and Reliability of Machine Learning Interatomic Potentials through Better Reporting Practices</title>

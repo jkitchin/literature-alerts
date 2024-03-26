@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Mar 25 00:45:46 2024
+Created on Tue Mar 26 00:43:56 2024
 
-Found 27 results from 2024-03-18 to 2024-03-25
+Found 27 results from 2024-03-19 to 2024-03-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -48,6 +48,17 @@ Open access: False
 [Zhiyi Liu](https://openalex.org/A5066590014), [Aling Ma](https://openalex.org/A5009783384), [Zhenzhen Wang](https://openalex.org/A5075444205), [Zongpeng Ding](https://openalex.org/A5012102127), [Yan Pang](https://openalex.org/A5082968868), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Molecular Catalysis. 559(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114040.
     
 No abstract    
+
+    
+
+## Titanium carbide sealed cadmium sulfide quantum dots on carbon, oxygen-doped boron nitride for enhanced and durable photochemical carbon dioxide reduction   
+
+OpenAlex: https://openalex.org/W4393131989    
+Open access: False
+    
+[Zhangfeng Shen](https://openalex.org/A5059979769), [Yang Yang](https://openalex.org/A5049692788), [LI Yu-ji](https://openalex.org/A5014870760), [Xiaohua Cheng](https://openalex.org/A5079640512), [Huayang Zhang](https://openalex.org/A5067646762), [Xuhui Zou](https://openalex.org/A5068267245), [Ming Qiu](https://openalex.org/A5007031947), [Hong Huang](https://openalex.org/A5063093220), [Hongge Pan](https://openalex.org/A5053786338), [Qineng Xia](https://openalex.org/A5057748239), [Ge Zhang](https://openalex.org/A5028516219), [Yongyong Cao](https://openalex.org/A5009047806), [Jing Gao](https://openalex.org/A5072068639), [Yangang Wang](https://openalex.org/A5058764704), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.139.
+    
+Despite great efforts that have been made, photocatalytic carbon dioxide (CO2) reduction still faces enormous challenges due to the sluggish kinetics or disadvantageous thermodynamics. Herein, cadmium sulfide quantum dots (CdS QDs) were loaded onto carbon, oxygen-doped boron nitride (BN) and encapsulated by titanium carbide (Ti3C2, MXene) layers to construct a ternary composite. The uniform distribution of CdS QDs and the tight interfacial interaction among the three components could be achieved by adjusting the loading amounts of CdS QDs and MXene. The ternary 100MX/CQ/BN sample gave a productive rate of 2.45 and 0.44 μmol g-1 h−1 for carbon monoxide (CO) and methane (CH4), respectively. This CO yield is 1.93 and 6.13 times higher than that of CdS QDs/BN and BN counterparts. The photocatalytic durability of the ternary composite is significantly improved compared with CdS QDs/BN because MXene can protect CdS from photocorrosion. The characterization results demonstrate that the excellent CO2 adsorption and activation capabilities of BN, the visible light absorption of CdS QDs, the good conductivity of MXene and the well-matched energy band alignment jointly promote the photocatalytic performance of the ternary catalyst.    
 
     
 
@@ -194,17 +205,6 @@ Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink
 
     
 
-## N-doped Cu2O with the tunable Cu0 and Cu+sites for selective CO2 electrochemical reduction to ethylene   
-
-OpenAlex: https://openalex.org/W4392894348    
-Open access: False
-    
-[Yao Shen](https://openalex.org/A5005626819), [Ling-Bo Qian](https://openalex.org/A5039899259), [Qing Xu](https://openalex.org/A5021391070), [S. S. Wang](https://openalex.org/A5008468095), [Yong Chen](https://openalex.org/A5085462851), [Hong Lü](https://openalex.org/A5016845168), [Yingke Zhou](https://openalex.org/A5036346565), [Jiexu Ye](https://openalex.org/A5069017377), [Jingkai Zhao](https://openalex.org/A5019327579), [Xiang Gao](https://openalex.org/A5068424668), [Shihan Zhang](https://openalex.org/A5049142955), Journal of Environmental Sciences. None(None)] 2024.https://doi.org/10.1016/j.jes.2024.03.012.
-    
-No abstract    
-
-    
-
 ## Controllable preparation of Cu2O/Cu-CuTCPP MOF heterojunction for enhanced electrocatalytic CO2 reduction to C2H4   
 
 OpenAlex: https://openalex.org/W4392907560    
@@ -249,6 +249,17 @@ Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources
 
     
 
+## One-pot two-step reduction of CO2 with amines and NaBH4 to N-substituted compounds at atmospheric pressure   
+
+OpenAlex: https://openalex.org/W4393124559    
+Open access: True
+    
+[Junhong Wang](https://openalex.org/A5069262954), [B. P. Wang](https://openalex.org/A5046749734), [Xuehong Wei](https://openalex.org/A5087961054), [Zhiqiang Guo](https://openalex.org/A5032912484), Journal of CO2 Utilization. 82(None)] 2024.https://doi.org/10.1016/j.jcou.2024.102741.
+    
+No abstract    
+
+    
+
 ## Revealing the Synergistic Effect of Ni Single Atoms and Adjacent 3d metal Doped Ni Nanoparticles in Electrocatalytic CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4392917915    
@@ -290,16 +301,5 @@ Open access: False
 [Rui Feng](https://openalex.org/A5039650364), [Mingnv Guo](https://openalex.org/A5068170537), [Zhongqing Yang](https://openalex.org/A5072787821), [Jiaqi Qiu](https://openalex.org/A5011590420), [Ziqi Wang](https://openalex.org/A5074586582), [Yongliang Zhao](https://openalex.org/A5028908278), Carbon. None(None)] 2024.https://doi.org/10.1016/j.carbon.2024.119079.
     
 No abstract    
-
-    
-
-## Optimization of Each Component Ratio of Multiple Thermal Fluids in Extra-Heavy Oil Reservoir   
-
-OpenAlex: https://openalex.org/W4393009781    
-Open access: False
-    
-[Hua Ma](https://openalex.org/A5089361676), [Bing Bo](https://openalex.org/A5076527943), [Aiguo Xu](https://openalex.org/A5024958098), [Lun Zhao](https://openalex.org/A5018411207), [Wenqi Zhao](https://openalex.org/A5077125877), [Fachao Shan](https://openalex.org/A5054531745), [Chenggang Wang](https://openalex.org/A5033478961), [Minghui Liu](https://openalex.org/A5025025019), Springer series in geomechanics and geoengineering. None(None)] 2024.https://doi.org/10.1007/978-981-97-0260-2_78.
-    
-Under the goal of "carbon peaking and carbon neutrality", the technology of multiple thermal fluids is widely used to develop heavy oil reservoirs at home and abroad for its advantages of low carbon and environmental protection. The multicomponent thermal fluids mainly contain nitrogen, carbon dioxide and steam. In the formation, multi-components play an important role in the huff and puff effect. In order to improve the development effect of extra-heavy oil reservoir, the optimization of each component ratio must be further studied. Based on the single factor analysis method and orthogonal test method, this paper designs 40 groups of multi-component thermal fluids numerical simulation schemes with different component proportions. CMG software simulates the influence of steam injection rate, gas-steam ratio, CO2-N2 ratio and other injection parameters on the development effect of multi-component thermal fluids. The results show that the ratio of CO2 to N2 is the significant factor affecting the huff and puff effect, and the sensitivity order is CO2 to N2 ratio, gas-steam ratio and steam injection rate. The optimal injection parameter combination is as follows: the steam injection rate is 200 t/d, the gas-steam ratio is 300 m3/t, and the ratio of CO2 to N2 is 70%:30%. Viscosity deduction of muti-component thermal fluids has two regions: high temperature viscosity reduction and CO2 dissolution viscosity reduction region. The results of this study have theoretical guiding significance for the optimization of injection-production parameters of multiple thermal fluids huff and puff, and can be further applied to field practice.    
 
     

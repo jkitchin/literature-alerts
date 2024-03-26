@@ -1,33 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Mar 25 00:45:43 2024
+Created on Tue Mar 26 00:43:54 2024
 
-Found 38 results from 2024-03-18 to 2024-03-25
+Found 38 results from 2024-03-19 to 2024-03-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Synthesis of bimetal-decorated N-doped carbon nanoparticles for enhanced oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392891549    
-Open access: False
-    
-[V. Ananth](https://openalex.org/A5021030063), [Venkatachalam Ashok](https://openalex.org/A5057554515), [Selvam Mathi](https://openalex.org/A5050750294), [Saravanan Pandiaraj](https://openalex.org/A5001629698), [Shofiur Rahman](https://openalex.org/A5022628334), [Nassir Al‐Arifi](https://openalex.org/A5083008293), [Abdullah Alodhayb](https://openalex.org/A5026460148), [Nagaraj P. Shetti](https://openalex.org/A5090106395), FlatChem. None(None)] 2024.https://doi.org/10.1016/j.flatc.2024.100648.
-    
-No abstract    
-
-    
-
-## Rich Oxygen Vacancy and Amorphous/Crystalline Ru-Doped Cocu-Layered Double Hydroxide Electrocatalysts for Enhanced Oxygen Evolution Reactions   
-
-OpenAlex: https://openalex.org/W4392898470    
-Open access: False
-    
-[Yanan Wang](https://openalex.org/A5042533031), [Jing Li](https://openalex.org/A5012677271), [Wei Jiang](https://openalex.org/A5021515289), [Yuanyuan Wu](https://openalex.org/A5003974631), [Bo Liu](https://openalex.org/A5063969338), [Yan Sun](https://openalex.org/A5086456973), [Xianyu Chu](https://openalex.org/A5018421998), [Chunbo Liu](https://openalex.org/A5090115579), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4762334.
-    
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
 
 ## Binuclear Metal Phthalocyanines with Enhanced Activity in the Oxygen Evolution Reaction: A First-Principles Study   
 
@@ -279,6 +257,28 @@ Open access: False
 , No host. None(None)] 2024.https://doi.org/10.1039/d3ra08873a/v3/review1.
     
 No abstract    
+
+    
+
+## Molten salt electrosynthesis of self-supporting FeCoNi medium entropy alloy electrocatalysts for efficient oxygen evolution reactions   
+
+OpenAlex: https://openalex.org/W4392946670    
+Open access: False
+    
+[Xueqiang Zhang](https://openalex.org/A5051487025), [Zhongya Pang](https://openalex.org/A5032546105), [Jinjian Li](https://openalex.org/A5081514270), [Feng Tian](https://openalex.org/A5071521060), [Xuewen Xia](https://openalex.org/A5089793312), [Shun Chen](https://openalex.org/A5039291898), [Xiao Yu](https://openalex.org/A5043924583), [Guangshi Li](https://openalex.org/A5064949533), [Chao Yi Chen](https://openalex.org/A5011358754), [Qian Xu](https://openalex.org/A5037502158), [Xionggang Lu](https://openalex.org/A5022340179), [Xingli Zou](https://openalex.org/A5080948748), Journal of Materials Science & Technology. None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.01.082.
+    
+High/medium entropy alloys (HEAs/MEAs) with high electrocatalytic activity have attracted great attention in water electrolysis applications. However, facile synthesis of self-supporting high/medium entropy alloys electrocatalysts with rich active sites through classical metallurgical methods is still a challenge. Here, a self-supporting porous FeCoNi MEA electrocatalyst with nanosheets-shaped surface for oxygen evolution reaction (OER) was prepared by a one-step electrochemical process from the metal oxides in molten CaCl2. The formation of the FeCoNi MEA is attributed to the oxides electro-reduction, high-temperature diffusion and solid solution. Additionally, the morphology and structure of the FeCoNi MEA can be precisely controlled by adjusting the electrolysis time and temperature. The electronic structure regulation and the reduced energy barrier of OER from the "cocktail effect", the abundant exposed active sites brought by surface ultrathin nanosheets, the good electronic conductivity and electrochemical stability from the self-supporting structure enable the FeCoNi MEA electrode shows high-performance OER electrocatalysis, exhibiting a low overpotential of 233 mV at a current density of 10 mA cm–2, a low Tafel slop of 29.8 mV dec–1, and an excellent stability for over 500 h without any obvious structural destruction. This work demonstrates a facile one-step electrochemical metallurgical approach for fabricating self-supporting HEAs/MEAs electrocatalysts with nanosized surface for the application in water electrolysis.    
+
+    
+
+## Ag engineered NiFe-LDH/NiFe2O4 Mott-Schottky heterojunction electrocatalyst for highly efficient oxygen evolution and urea oxidation reactions   
+
+OpenAlex: https://openalex.org/W4392946863    
+Open access: False
+    
+[X L Zhang](https://openalex.org/A5024829175), [Jingyuan Zhang](https://openalex.org/A5019735991), [Zhong Ma](https://openalex.org/A5048681849), [Lanqi Wang](https://openalex.org/A5054543471), [Yu Ke](https://openalex.org/A5072424633), [Zhuo Zhang](https://openalex.org/A5012187266), [Jiawei Wang](https://openalex.org/A5044785404), [Bin Zhao](https://openalex.org/A5063759133), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.124.
+    
+Efficient and durable electrocatalysts with sufficient active sites and high intrinsic activity are essential for advancing energy-saving hydrogen production technology. In this study, a Mott-Schottky heterojunction electrocatalyst with Ag nanoparticles in-situ grown on NiFe layered double hydroxides (NiFe-LDH)/NiFe2O4 nanosheets (Ag@NiFe-LDH/NiFe2O4) were designed and successfully synthesized through a hydrothermal process and subsequent spontaneous redox reaction. The in-situ growth of metallic Ag on semiconducting NiFe-LDH/NiFe2O4 triggers a strong electron interaction across the Mott-Schottky interface, leading to a significant increase in both the intrinsic catalytic activity and the electrochemical active surface area of the heterojunction electrocatalyst. As a result, the Ag@NiFe-LDH/NiFe2O4 demonstrates impressive oxygen evolution reaction (OER) performance in alkaline KOH solution, achieving a low overpotential of 249 mV at 100 mA cm−2 and a Tafel slope of 42.79 mV dec−1. When the self-supported Ag@NiFe-LDH/NiFe2O4 is coupled with the Pt/C electrocatalyst, the alkaline electrolyzer reaches a current density of 10 mA cm−2 at a cell voltage of only 1.460 V. Furthermore, X-ray photoelectron spectroscopy and in-situ Raman analysis reveal that the Ni(Fe)OOH is the possible active phase for OER in the catalyst. In addition, when employed for UOR catalysis, the Ag@NiFe-LDH/NiFe2O4 also displays intriguing activity with an ultralow potential of 1.389 V at 50 mA cm−2. This work may shed light on the rational design of multiple-phase heterogeneous electrocatalysts and demonstrate the significance of interface engineering in enhancing catalytic performance.    
 
     
 
