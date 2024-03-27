@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:43:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Atroposelective Synthesis of Diarylamines via Organocatalyzed Electrophilic Amination</title>
-      <link>https://doi.org/10.1021/acscatal.4c00414</link>
-      <description>Zidan Ye, Wansen Xie, Donglei Wang, Hua Lee, Xiaoyu Yang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392900769
-
-                No abstract</description>
-      <author>Zidan Ye, Wansen Xie, Donglei Wang, Hua Lee, Xiaoyu Yang</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00414</guid>
-    </item>
-    <item>
-      <title>How Poisoning Is Avoided in a Step of Relevance to the Haber&#8211;Bosch Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.3c06201</link>
-      <description>S. K. Tripathi, Luigi Bonati, Simone Perego, Michele Parrinello, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392906279
-
-                For a catalyst to be efficient and durable, it is crucial that the reaction products do not poison the catalyst. In the case of the Haber&#8211;Bosch process, the rate-limiting step is believed to be the decomposition of nitrogen molecules on the Fe(111) surface. This step leads to the production on the surface of atomic nitrogen (N*), which, unless hydrogenated and eventually released as ammonia, remains adsorbed and occupies the active sites. Thus, it is important to ascertain how a high N* coverage affects the nitrogen dissociative chemisorption. To answer this question, we study the properties of the Fe(111) surface at different N* coverage both at room and operando temperature. In the latter regime, we have already found that Fe surface atoms exhibit a high mobility, promoting the formation of adatoms and vacancies, and causing the catalytic centers to acquire a finite lifetime [Bonati et al. Proceedings of the National Academy of Sciences 2023, 120 (50), e2313023120]. We discover that the N* coverage reduces but does not eliminate the iron mobility. Remarkably, the N* atoms stabilize triangular surface structures associated with the formation of vacancies, which are a sign of a frustrated drive toward a more stable Fe4N phase. As a consequence, nitrogen atoms tend to cluster, reducing their poisoning effect. At the same time, the reduction in the number of catalytic centers is counteracted by an increase in their lifetime. The combined effect is that the dissociation barrier is not significantly altered in the range of coverages studied. These results bring to light the complex role that dynamics plays in catalytic reactivity under operando conditions.</description>
-      <author>S. K. Tripathi, Luigi Bonati, Simone Perego, Michele Parrinello</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06201</guid>
-    </item>
-    <item>
-      <title>Insight into the Synergetic Effects of NTP-La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ag&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MnO&lt;sub&gt;3&lt;/sub&gt; on Soot Oxidation at Low Temperatures</title>
-      <link>https://doi.org/10.1021/acscatal.3c06029</link>
-      <description>He Sun, Feiyang Zhang, Shixin Liu, Yangyang Liu, Bin Zhu, Xin Yu, Zean Xie, Zhao Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392911304
-
-                No abstract</description>
-      <author>He Sun, Feiyang Zhang, Shixin Liu, Yangyang Liu, Bin Zhu, Xin Yu, Zean Xie, Zhao Zhang</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06029</guid>
-    </item>
-    <item>
-      <title>Rh-Catalyzed Enantioselective Hydroalkenylative Cyclization of 1,6-Enynes Constructing All-Carbon Quaternary Stereocenters</title>
-      <link>https://doi.org/10.1021/acscatal.4c00572</link>
-      <description>Shunsuke Emi, Shintaro Hamada, Yukichi Kishida, Yu Sato, Futo Morita, Yuki Nagashima, Hidehiro Uekusa, Ken Tanaka, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392912960
-
-                No abstract</description>
-      <author>Shunsuke Emi, Shintaro Hamada, Yukichi Kishida, Yu Sato, Futo Morita, Yuki Nagashima, Hidehiro Uekusa, Ken Tanaka</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00572</guid>
-    </item>
-    <item>
-      <title>Upcycling of Plastic Waste Using Photo-, Electro-, and Photoelectrocatalytic Approaches: A Way toward Circular Economy</title>
-      <link>https://doi.org/10.1021/acscatal.4c00290</link>
-      <description>Devanshu Sajwan, Ankit Sharma, Manisha Sharma, Venkata Krishnan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392918226
-
-                No abstract</description>
-      <author>Devanshu Sajwan, Ankit Sharma, Manisha Sharma, Venkata Krishnan</author>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00290</guid>
-    </item>
-    <item>
-      <title>B(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;-Catalyzed Dehydrogenation of Pyrrolidines to Form Pyrroles</title>
-      <link>https://doi.org/10.1021/acscatal.3c05444</link>
-      <description>Ana Alvarez-Montoya, Joseph P. Gillions, Laura Winfrey, Rebecca R. Hawker, Kuldip Singh, Fabrizio Ortu, Yukang Fu, L. S. Liebeskind, Alexander P. Pulis, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392921788
-
-                No abstract</description>
-      <author>Ana Alvarez-Montoya, Joseph P. Gillions, Laura Winfrey, Rebecca R. Hawker, Kuldip Singh, Fabrizio Ortu, Yukang Fu, L. S. Liebeskind, Alexander P. Pulis</author>
-      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05444</guid>
-    </item>
-    <item>
-      <title>Light-Promoted Efficient Generation of Fe(I) to Initiate Amination</title>
-      <link>https://doi.org/10.1021/acscatal.4c00788</link>
-      <description>Geyang Song, Qi Li, Jiuzhou Song, Ding-Zhan Nong, Jianyang Dong, Gang Li, Juan Fan, Chao Wang, Xue Duan, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392928780
-
-                Iron-catalyzed cross-coupling reactions are difficult to achieve because they usually require a highly reactive, low-valent iron catalyst to undergo the oxidative addition process. Here, we report a method for light-promoted iron-catalyzed C&#8211;N coupling reactions between aryl bromides and amines in the presence of a catalytic amount of a bipyridine ligand under irradiation at 390&#8211;395 nm. This method, which does not require external photosensitizers, features a broad substrate scope (70 examples) and good functional group tolerance, providing a platform for the development of iron-catalyzed coupling reactions in organic synthesis. Mechanistic studies indicate that an organic base and light are crucial for the generation of an Fe(I) species and that the reaction involves an Fe(I)/Fe(III) catalytic cycle.</description>
-      <author>Geyang Song, Qi Li, Jiuzhou Song, Ding-Zhan Nong, Jianyang Dong, Gang Li, Juan Fan, Chao Wang, Xue Duan</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00788</guid>
-    </item>
     <item>
       <title>The Role of Mo Single Atoms and Clusters in Enhancing Pt Catalyst for Benzene Hydrogenation: Distinguishing Between Benzene Spillover and Electronic Effect</title>
       <link>https://doi.org/10.1021/acscatal.3c06026</link>
@@ -256,6 +186,76 @@
       <author>Jiaxin Song, Rong Yu, Xin Gao, Xiaoqiang Fan, Baijun Liu, Zhao Zhang</author>
       <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06301</guid>
+    </item>
+    <item>
+      <title>Toward Value-Added Chemicals from Carbohydrates via C&#8211;C Bond Cleavage and Coupling Transformations</title>
+      <link>https://doi.org/10.1021/acscatal.3c05734</link>
+      <description>Rui Zhang, Junhua Zhang, Huai Liu, Zhicheng Jiang, Xudong Li, Qianqian Wang, Lincai Peng, Changwei Hu, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393055711
+
+                Renewable carbohydrates are nearly inexhaustible libraries of chemical building blocks, and significant research efforts have been devoted to their valorization to valuable chemicals in the past decades. The commonly recognized main transformation routes include dehydration and C&#8211;C bond cleavage pathways, which lead to the production of conventional platform chemicals such as 5-hydroxymethylfurfural/furfural, lactic acid/lactates, and so on. With the huge availability of carbohydrates on earth, the production of other fine chemicals is very attractive but remains sparse. This Review therefore emphasizes the utilization strategies of carbohydrates based on in situ C&#8211;C bond cleavage to lower carbon fragments, such as glycolaldehyde and erythrose, and their subsequent transformations, e.g. hydrogenation, hydrogenolysis, oxidation, nucleophilic addition, and amination. The isolation of reactive intermediates is avoided, leading to the formation of a variety of "unconventional" useful scaffolds, such as ethylene glycol, ethanol, keto-alcohols, glycolic acid, formic acid, C4 skeleton &#945;-hydroxy esters, N-containing compounds, etc. Inspired by the transformation of active intermediates, the direct conversion of monosugars with similar structures through C&#8211;C coupling to furan-based chemicals is also briefly reviewed. The primary focus of this Review is to show the spectacular range of fine chemicals that can be accessed from carbohydrates via C&#8211;C bond cleavage and coupling approaches. A summary of the reviewed works and some opportunities and challenges within this attractive field are underlined for future research in sugar chemistry.</description>
+      <author>Rui Zhang, Junhua Zhang, Huai Liu, Zhicheng Jiang, Xudong Li, Qianqian Wang, Lincai Peng, Changwei Hu</author>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05734</guid>
+    </item>
+    <item>
+      <title>Single-Atom Metal Catalysts for Catalytic Chemical Conversion of Biomass to Chemicals and Fuels</title>
+      <link>https://doi.org/10.1021/acscatal.4c00208</link>
+      <description>Jiayue Chen, Yao Xiao, Fen Guo, Keming Li, Yao&#8208;Bing Huang, Qiang L&#252;, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393055728
+
+                Among all renewable energy sources (e.g., solar energy, wind, and biomass), biomass is the only organic carbon resource which has great potential to partly replace nonrenewable fossil resources to produce high value-added chemicals and biofuels. Single-atom catalysts (SACs) have shown compelling prospects and arguably become one of the most active research fields in biomass chemical catalysis due to their fascinating strengths in maximum atomic utilization, highly efficient catalytic reactivity, high selectivity, and good stability. Numerous achievements about the SACs have recently been amassed, including advanced synthesis methods, characterization techniques, and theoretical calculation, allowing us to forecast their working mechanisms and the catalytic roles of metals and coordination sites in the catalytic process. Based on the relevant literatures on SACs over the past few years, this review summarizes the preparation methods of SACs and their catalysis applications for biomass conversions with a special focus on the structure&#8211;activity relationship and catalytic reaction mechanism as well as prospects for the future developments of SACs. This review provides fundamental information for the development of the SACs in biomass valorization, clearly stimulating the development in this emerging research field.</description>
+      <author>Jiayue Chen, Yao Xiao, Fen Guo, Keming Li, Yao&#8208;Bing Huang, Qiang L&#252;</author>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00208</guid>
+    </item>
+    <item>
+      <title>Activation of Lattice Oxygen in Ceria by Plasma Exsolution of MoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; with Atomic Dispersion for NO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Abatement</title>
+      <link>https://doi.org/10.1021/acscatal.4c00069</link>
+      <description>Yong Yin, Bing Luo, Sun Yu, Pengfei Xie, Haifeng Xiong, Tianle Zhu, Xiang Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393084436
+
+                No abstract</description>
+      <author>Yong Yin, Bing Luo, Sun Yu, Pengfei Xie, Haifeng Xiong, Tianle Zhu, Xiang Li</author>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00069</guid>
+    </item>
+    <item>
+      <title>Single-Electron-Transfer-Generated Aryl Sulfonyl Ammonium Salt: Metal-Free Photoredox-Catalyzed Modular Construction of Sulfonamides</title>
+      <link>https://doi.org/10.1021/acscatal.4c00816</link>
+      <description>Fang Yan, Qing Li, Songzhe Fu, Yadong Yang, Dehong Yang, Shuang Yao, Man Ki Song, Hong Deng, Xianwei Sui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393093155
+
+                Sulfonamides are prominently featured in organic synthesis and medicinal chemistry. Yet, a general synthetic platform for the modular construction of aryl sulfonamides remains elusive. Herein, a metal-free photoredox-catalyzed three-component construction of aryl sulfonamides via an aryl sulfonyl ammonium salt intermediate, which was generated in situ via a SET event, has been established. A variety of structurally diverse primary, secondary, and tertiary aryl sulfonamides were synthesized rapidly from abundant amines or sodium azide under mild conditions. Notably, the primary aliphatic amine, which remains challenging in the Cu-catalyzed protocols, worked well in this approach. Moreover, aryl sulfonyl fluoride can be accessed smoothly as well, using potassium hydrogen fluoride as the nucleophile. The potential utility of this conversion is demonstrated in the facile construction of three bioactive drug compounds. Preliminary mechanistic studies have revealed that the aryl sulfonyl radical and aryl sulfonyl ammonium salt are the key intermediates in this mechanistically innovative methodology.</description>
+      <author>Fang Yan, Qing Li, Songzhe Fu, Yadong Yang, Dehong Yang, Shuang Yao, Man Ki Song, Hong Deng, Xianwei Sui</author>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00816</guid>
+    </item>
+    <item>
+      <title>Water Splitting Integrated with Self-Transfer Hydrogenolysis for Efficient Demethoxylation of Guaiacols to Phenols over the Ni/MgO Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c00038</link>
+      <description>Xiaohong Ren, Qiang Qian, Zhuohua Sun, Ting Wei, Xiaoqiang Yu, Zeming Rong, Changzhi Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393097258
+
+                This work demonstrates the upgrading of lignin-derived monomers through a cascade demethoxylation, aqueous-phase reforming reaction, eliminating the need for external hydrogen supply. The core of this research lies in the use of neat water as both reaction medium and the hydrogen donor over a multifunctional Ni/MgO catalyst, which is responsible for water splitting, aqueous-phase reforming of in situ generated methanol, and selective cleavage of the C&#8211;O bond, finally establishing an efficient one-pot approach achieving a high yield of phenols. Reaction mechanism studies proved that the initial H* source came from water by its splitting on the surface of the Ni/MgO catalyst, which triggered the fracture of the aromatic ether bond to afford phenols and CH3O*. The subsequent aqueous-phase reforming of CH3O* and OH* generated more hydrogen and further accelerated the hydrodeoxygenation (HDO) process. A high conversion of 87.8% with a selectivity of 88.9% for phenol could be achieved at 190 &#176;C from guaiacol. Thanks to the interesting water-splitting mechanisms and strong metal&#8211;support interaction (SMSI), Ni/MgO exhibited significantly enhanced stability compared to the previously reported nanoporous Ni catalysts. Further, with real lignin as the substrate, 16.3 wt % combined yield of phenol and 4-methylphenol could be acquired under optimized conditions. Overall, this "H2-free" approach offers a promising alternative to conventional biorefinery processes, addressing the challenges of hydrogen sourcing and economic feasibility.</description>
+      <author>Xiaohong Ren, Qiang Qian, Zhuohua Sun, Ting Wei, Xiaoqiang Yu, Zeming Rong, Changzhi Li</author>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00038</guid>
+    </item>
+    <item>
+      <title>Switchable Synthesis of Ethylene/Acrylate Copolymers by a Dinickel Catalyst: Evidence for Chain Growth on Both Nickel Centers and Concepts of Cation Exchange Polymerization</title>
+      <link>https://doi.org/10.1021/acscatal.4c00156</link>
+      <description>Shuoyan Xiong, Heather A. Spinney, Brad C. Bailey, Briana S. Henderson, Adjeoda A. Tekpor, Matthew R. Espinosa, Paramita Saha, Theodor Agapie, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393157067
+
+                A dinickel complex, X-Ni2, was developed and demonstrated to have a high performance in ethylene/acrylate copolymerization. Further mechanistic studies revealed that X-Ni2 performs acrylate insertion at both Ni centers at distinct rates. Addition of NaBArF24 to X-Ni2 leads to 1:1 binding and serves as a switch for tuning catalytic activity, copolymer MW and acrylate incorporation. NMR studies of cation binding, when present in substoichiometric amounts, suggest a dynamic process involving cation exchange. This phenomenon provides an alternative strategy for controlling chain growth in polar polyolefin synthesis and was probed herein.</description>
+      <author>Shuoyan Xiong, Heather A. Spinney, Brad C. Bailey, Briana S. Henderson, Adjeoda A. Tekpor, Matthew R. Espinosa, Paramita Saha, Theodor Agapie</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00156</guid>
+    </item>
+    <item>
+      <title>Ketyl Radical Generation by Photoexcited Palladium and Development of Organopalladium-Type Reactions</title>
+      <link>https://doi.org/10.1021/acscatal.4c00510</link>
+      <description>Kosaku Tanaka, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393162411
+
+                Enabling reactions of traditional substrates that are inert to Pd catalysts has the potential for further advancements in the field of Pd chemistry. In this study, we developed a method for generating ketyl radicals through the reaction of a photoexcited Pd species with ketones. Upon subsequent reaction with olefins, the ketyl radicals generated through this method yielded Pd-specific reductive and Heck-type coupling products. Mechanistic studies indicated that the proposed radical generation method exhibits characteristics distinct from those of traditional methods such as SmI2 reduction and photoredox-catalyzed reactions.</description>
+      <author>Kosaku Tanaka</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00510</guid>
     </item>
   </channel>
 </rss>

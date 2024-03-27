@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:43:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Parafoil System Cooperative Recovery: A Coordinated Distributed NMPC Approach</title>
-      <link>https://doi.org/10.1109/taes.2024.3378193</link>
-      <description>Zhixuan Wei, Zhijiang Shao, Lorenz T. Biegler, IEEE Transactions on Aerospace and Electronic Systems. None(None)] 2024. https://openalex.org/W4392908417
-
-                No abstract</description>
-      <author>Zhixuan Wei, Zhijiang Shao, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1109/taes.2024.3378193</guid>
-    </item>
-    <item>
-      <title>Spontaneous locomotion of a symmetric squirmer</title>
-      <link>https://doi.org/10.1017/jfm.2024.149</link>
-      <description>Richard Cobos, Aditya S. Khair, Ory Schnitzer, Journal of Fluid Mechanics. 983(None)] 2024. https://openalex.org/W4392921640
-
-                The squirmer is a popular model to analyse the fluid mechanics of a self-propelled object, such as a micro-organism. We demonstrate that some fore&#8211;aft symmetric squirmers can spontaneously self-propel above a critical Reynolds number. Specifically, we numerically study the effects of inertia on spherical squirmers characterised by an axially and fore&#8211;aft symmetric &#8216;quadrupolar&#8217; distribution of surface-slip velocity; under creeping-flow conditions, such squirmers generate a pure stresslet flow, the stresslet sign classifying the squirmer as either a &#8216;pusher&#8217; or &#8216;puller&#8217;. Assuming axial symmetry, and over the examined range of the Reynolds number $Re$ (defined based upon the magnitude of the quadrupolar squirming), we find that spontaneous symmetry breaking occurs in the puller case above $Re \approx 14.3$ , with steady swimming emerging from that threshold consistently with a supercritical pitchfork bifurcation and with the swimming speed growing monotonically with $Re$ .</description>
-      <author>Richard Cobos, Aditya S. Khair, Ory Schnitzer</author>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1017/jfm.2024.149</guid>
-    </item>
     <item>
       <title>Temperature, humidity, and ionisation effect of iodine oxoacid nucleation</title>
       <link>https://doi.org/10.1039/d4ea00013g</link>
