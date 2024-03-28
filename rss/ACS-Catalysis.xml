@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Mar 2024 00:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:44:21 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The Role of Mo Single Atoms and Clusters in Enhancing Pt Catalyst for Benzene Hydrogenation: Distinguishing Between Benzene Spillover and Electronic Effect</title>
-      <link>https://doi.org/10.1021/acscatal.3c06026</link>
-      <description>Zhuo Li, Fanchun Meng, Xinchun Yang, Yuntao Qi, Yong Qin, Bin Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392936989
-
-                Reactant spillover and electronic effects are two indistinguishable factors that influence MoO3 promoters in benzene hydrogenation on Pt-MoO3 catalysts. Previous studies have primarily focused on the significance of hydrogen spillover while neglecting the transfer of benzene and the electronic effect originating from MoO3. Herein, we synthesized Pt/CNT, Pt&#8211;Mo1/CNT with Mo single atoms, and Pt&#8211;Mocluster/CNT with MoOx cluster promoters by using atomic layer deposition. The catalyst Pt&#8211;Mo1/CNT exhibited higher activity (3361.8 h&#8211;1) in benzene hydrogenation at 50 &#176;C, which was twice as high as that of Pt/CNT. In contrast, the presence of closely interacting MoOx clusters with Pt nanoparticles inhibited the activity of the Pt catalyst. Kinetic experiments, DFT calculations, in situ FTIR, and AIMD simulations revealed that Mo single atoms on multiwalled carbon nanotubes did not alter the structure or electronic state of Pt nanoparticles but enhanced their activity by increasing benzene coverage via benzene spillover. On the other hand, although the hydrogen and benzene coverage increased with MoOx cluster promoters, changes in the electronic state of Pt nanoparticles resulted in a higher energy barrier for the rate-determining step.</description>
-      <author>Zhuo Li, Fanchun Meng, Xinchun Yang, Yuntao Qi, Yong Qin, Bin Zhang</author>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06026</guid>
-    </item>
-    <item>
-      <title>Molecular Orbital Engineering of Mixed-Addenda Polyoxometalates Boosts Light-Driven Hydrogen Evolution Activity</title>
-      <link>https://doi.org/10.1021/acscatal.4c00295</link>
-      <description>Manzhou Chi, Ying Zeng, Zhongling Lang, Huijie Li, Xing Xin, Yuanyuan Dong, Fangyu Fu, Guo&#8208;Yu Yang, Hongjin Lv, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392948266
-
-                No abstract</description>
-      <author>Manzhou Chi, Ying Zeng, Zhongling Lang, Huijie Li, Xing Xin, Yuanyuan Dong, Fangyu Fu, Guo&#8208;Yu Yang, Hongjin Lv</author>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00295</guid>
-    </item>
-    <item>
-      <title>Reversible Intrapore Redox Cycling of Platinum in Platinum-Ion-Exchanged HZSM-5 Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.3c06325</link>
-      <description>Kaan Yal&#231;&#305;n, Ram Kumar, Erik Zuidema, Ambarish Kulkarni, Jim Ciston, Karen C. Bustillo, Peter Ercius, Alexander Katz, Bruce C. Gates, Coleman X. Kronawitter, Ron C. Runnebaum, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392948602
-
-                Isolated platinum(II) ions anchored at acid sites in the pores of zeolite HZSM-5, initially introduced by aqueous ion exchange, were reduced to form platinum nanoparticles that are stably dispersed with a narrow size distribution (1.3 &#177; 0.4 nm in average diameter). The nanoparticles were confined in reservoirs within the porous zeolite particles, as shown by electron beam tomography and the shape-selective catalysis of alkene hydrogenation. When the nanoparticles were oxidatively fragmented in dry air at elevated temperature, platinum returned to its initial in-pore atomically dispersed state with a charge of +2, as shown previously by X-ray absorption spectroscopy. The results determine the conditions under which platinum is retained within the pores of HZSM-5 particles during redox cycles that are characteristic of the reductive conditions of catalyst operation and the oxidative conditions of catalyst regeneration.</description>
-      <author>Kaan Yal&#231;&#305;n, Ram Kumar, Erik Zuidema, Ambarish Kulkarni, Jim Ciston, Karen C. Bustillo, Peter Ercius, Alexander Katz, Bruce C. Gates, Coleman X. Kronawitter, Ron C. Runnebaum</author>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06325</guid>
-    </item>
-    <item>
-      <title>Mechanisms of Light Alkene Oligomerization on Metal-Modified Zeolites</title>
-      <link>https://doi.org/10.1021/acscatal.4c00552</link>
-      <description>Zoya N. Lashchinskaya, Anton A. Gabrienko, Alexander G. Stepanov, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392949694
-
-                No abstract</description>
-      <author>Zoya N. Lashchinskaya, Anton A. Gabrienko, Alexander G. Stepanov</author>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00552</guid>
-    </item>
-    <item>
-      <title>Variation in Biosynthesis and Metal-Binding Properties of Isonitrile-Containing Peptides Produced by Mycobacteria versus Streptomyces</title>
-      <link>https://doi.org/10.1021/acscatal.4c00645</link>
-      <description>Tzu&#8208;Yu Chen, Jinfeng Chen, Mark W. Ruszczycky, Dalton Hilovsky, Terry L. Hostetler, Xiaojing Liu, Jiahai Zhou, Wei&#8208;chen Chang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392956930
-
-                No abstract</description>
-      <author>Tzu&#8208;Yu Chen, Jinfeng Chen, Mark W. Ruszczycky, Dalton Hilovsky, Terry L. Hostetler, Xiaojing Liu, Jiahai Zhou, Wei&#8208;chen Chang</author>
-      <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00645</guid>
-    </item>
     <item>
       <title>Electrocatalytic Pathways to the Formation of C&#8211;N Bonds</title>
       <link>https://doi.org/10.1021/acscatal.3c04912</link>
@@ -256,6 +206,16 @@
       <author>Kosaku Tanaka</author>
       <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00510</guid>
+    </item>
+    <item>
+      <title>Promoting Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Methanation by the Construction of Cooperative Copper Dual-Active Sites</title>
+      <link>https://doi.org/10.1021/acscatal.4c00060</link>
+      <description>Minghui Zhang, Yuyin Mao, Xiaolei Bao, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Hefeng Cheng, Ying Dai, Zeyan Wang, Baibiao Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393164230
+
+                Selective photocatalytic CO2 methanation provides an attractive avenue to address energy and environmental issues. However, impediments such as the sluggish adsorption and activation of CO2 and H2O molecules, along with unexpected intermediate desorption, greatly restrict the activity and selectivity of photocatalytic CO2 methanation. To address these issues, we devised a dual-active site catalyst comprising Cu single atoms (SAs) and nanoclusters (NCs) supported on defective TiO2 (Cu1+NCs/BT). As a result, a remarkable CH4 selectivity of 98% with a yield of 19.63 &#956;mol gcat.&#8211;1 h&#8211;1 can be obtained over the as-prepared Cu1+NCs/BT in pure water. Mechanistic studies reveal the enhanced performance could be ascribed to the synergistic effect of the Cu dual-active sites, where Cu SAs adsorb and activate CO2, while Cu NCs boost H2O adsorption and dissociation for *H coverage. Additionally, the adjacent Cu dual-active site could jointly stabilize the *CO intermediate and reduce the energy barrier for *CO protonation, promoting the multielectron transfer process.</description>
+      <author>Minghui Zhang, Yuyin Mao, Xiaolei Bao, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Hefeng Cheng, Ying Dai, Zeyan Wang, Baibiao Huang</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00060</guid>
     </item>
   </channel>
 </rss>

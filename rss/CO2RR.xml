@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 27 Mar 2024 00:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:44:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Emerging two-dimensional materials: Synthesis, physical properties, and application for catalysis in energy conversion and storage</title>
-      <link>https://doi.org/10.59717/j.xinn-mater.2024.100060</link>
-      <description>Xu Li, Rashid Iqbal, Yijun Wang, Sana Taimoor, Leiduan Hao, Renhao Dong, Kaihui Liu, John Texter, Zhenyu Sun, The Innovation Materials. 2(1)] 2024. https://openalex.org/W4392948629
-
-                &lt;p&gt;Inorganic, organic, and hybrid two-dimensional (2D) materials are being developed for ever-expanding numbers of applications, though energy and catalysis remain the main drivers of their development. We present overviews of bottom-up and top-down synthetic strategies of such materials and examine manufacturing scalability issues. Mechanical, electrical, and thermal properties and their modulation are highlighted because they are fundamental to the above-mentioned drivers. The burgeoning importance of heterostructures in such materials, particularly for catalysis and electrode design and function is stressed. Detailed attention is given to applications of 2D materials to the electrocatalysis reactions: oxygen reduction, oxygen evolution, hydrogen evolution, carbon dioxide reduction, and nitrogen reduction. Water splitting, carbon dioxide reduction, and nitrogen reduction by photocatalysis are also examined. A perspective of expected advances in the expansion of applications and types of 2D materials, with a focus on heterostructure development, is presented in the conclusion.&lt;/p&gt;</description>
-      <author>Xu Li, Rashid Iqbal, Yijun Wang, Sana Taimoor, Leiduan Hao, Renhao Dong, Kaihui Liu, John Texter, Zhenyu Sun</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.59717/j.xinn-mater.2024.100060</guid>
-    </item>
     <item>
       <title>Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review</title>
       <link>https://doi.org/10.1007/s11237-024-09790-z</link>
@@ -148,16 +138,6 @@
       <guid isPermaLink="true">https://doi.org/10.52783/jchr.v14.i2.3372</guid>
     </item>
     <item>
-      <title>Efficient Tuning of the Selectivity of Cu-Based Interface for Electrocatalytic Co2 Reduction by Ligand Modification</title>
-      <link>https://doi.org/10.2139/ssrn.4760891</link>
-      <description>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang, No host. None(None)] 2024. https://openalex.org/W4392973237
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4760891</guid>
-    </item>
-    <item>
       <title>Electrocatalytic reduction of simulated industrial CO2 and CO mixtures: Revising chronoamperometry to enable selective gas mixture reduction via cyclic voltammetry</title>
       <link>https://doi.org/10.1016/j.cej.2024.150602</link>
       <description>Wen Qian Chen, Foo Jit Loong Cyrus, Li Ya Ge, Andrei Veksha, Wei Ping Chan, Yafei Shen, Grzegorz Lisak, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4393088089
@@ -196,16 +176,6 @@
       <author>Zijing Li, Yingtong Lv, Haoliang Huang, Zijian Li, Tao Li, Linjuan Zhang, Jianqiang Wang</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4dt00189c</guid>
-    </item>
-    <item>
-      <title>Regulate the Adsorption of Oxygen-Containing Intermediates to Promote the Reduction of Co2 to Ch4 on Ni-Based Catalysts</title>
-      <link>https://doi.org/10.2139/ssrn.4764056</link>
-      <description>Hedan Yao, Liuyi Pan, Xi Yao, Wenhong Li, Yi Qin, Dong Li, Yingxia Wang, Wenjie Xue, Qianqian Wang, No host. None(None)] 2024. https://openalex.org/W4392955133
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Hedan Yao, Liuyi Pan, Xi Yao, Wenhong Li, Yi Qin, Dong Li, Yingxia Wang, Wenjie Xue, Qianqian Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4764056</guid>
     </item>
     <item>
       <title>Cu-Metalated Porphyrin-Based MOFs Coupled with Anatase as Photocatalysts for CO2 Reduction: The Effect of Metalation Proportion</title>
@@ -288,14 +258,34 @@
       <guid isPermaLink="true">https://doi.org/10.47260/amae/1447</guid>
     </item>
     <item>
-      <title>The use of algae as carbon dioxide absorber in heat production industry</title>
-      <link>https://doi.org/10.24425/aep.2024.149428</link>
-      <description>Pawe&#322; Kupczak, Sylwester Kulig, Archives of Environmental Protection. None(None)] 2024. https://openalex.org/W4392959495
+      <title>The carbon emission reduction effect of renewable resource utilization: From the perspective of green innovation</title>
+      <link>https://doi.org/10.1016/j.apr.2024.102121</link>
+      <description>Jin-Long Xiao, Siying Chen, Jingwei Han, Zhongfu Tan, Shengjing Mu, Jiayi Wang, Atmospheric Pollution Research. 15(6)] 2024. https://openalex.org/W4393135358
 
-                There are approximately 15 million users of system heat in Poland, but unfortunately nearly 70% of the fuel used in heat production is fossil fuel. Therefore, the CO2 emission reduction in the heat production industry is becoming one of the key challenges. City Heat Distribution Enterprise Ltd. in Nowy S&#261;cz (Miejskie Przedsi&#281;biorstwo Energetyki Cieplnej sp. z o.o.) has been conducting a self-financed research and development project entitled The use of algae as carbon dioxide absorbers at MPEC Nowy S&#261;cz. The project deals with postcombustion CO2 capture using Chlorella vulgaris algae. As a result of tests conducted in a 1000 l hermetic container under optimal temperature and light conditions, the recovery of biomass can be performed in weekly cycles, yielding approximately 25 kilograms of biomass per year. Assuming that half of the dry mass of the algae is carbon, it can be said that 240 grams of carbon is bound in one cycle, which, converted to CO2, gives 880 grams of this gas. Our results showed that around 45.8 kilograms of CO2 per year was absorbed. Additionally, it is possible to use waste materials and by-products of technological processes as a nutrient medium for algae</description>
-      <author>Pawe&#322; Kupczak, Sylwester Kulig</author>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.24425/aep.2024.149428</guid>
+                In the face of pressing global challenges posed by climate change, resource constraints, and environmental pollution, understanding the role of renewable resource utilization in carbon emission reduction has become paramount. This study aims to investigate this relationship, particularly within the context of the dual carbon goals, which emphasizes both carbon peak and carbon neutrality. Focusing on the national "urban mineral" demonstration bases as a case study, this research employs the directional distance function incorporating non-expected output alongside the Malmquist index to assess the dynamic changes in urban carbon dioxide emission performance. A multi-period difference-in-difference model is utilized to examine the impact of these demonstration bases on CO2 emissions. The Baseline results reveal that renewable resource utilization significantly enhances carbon emission performance. The channel analysis indicate that the establishment of national "urban mineral" demonstration bases positively influences carbon emission performance through three primary pathways: green technology agglomeration, green technology spillover, and energy structure optimization. Based on these findings, this study advocates for policies that promote renewable resource utilization and carbon emission reduction. Specifically, it highlights the need for increased investment in green technology innovation and diffusion, as well as the optimization of energy structures to mitigate carbon emissions. These findings provide valuable policy implications for governments and stakeholders seeking to reduce carbon emissions and promote sustainable development.</description>
+      <author>Jin-Long Xiao, Siying Chen, Jingwei Han, Zhongfu Tan, Shengjing Mu, Jiayi Wang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apr.2024.102121</guid>
+    </item>
+    <item>
+      <title>Study on the Influence of Supercritical CO&lt;sub&gt;2&lt;/sub&gt; with High Temperature and Pressure on Pore-Throat Structure and Minerals of Shale</title>
+      <link>https://doi.org/10.1021/acsomega.3c09698</link>
+      <description>Xiangzeng Wang, Xin Sun, Xing Min Guo, Liange Zheng, Ping Luo, ACS Omega. None(None)] 2024. https://openalex.org/W4393156566
+
+                Injection of carbon dioxide offers substantial social and economic advantages for reduction of carbon emission reduction. Utilizing CO2 in shale formations can significantly enhance the extraction of shale oil or gas. Conducting fundamental research on how CO2 affects shale rock's physical properties is crucial for enhancing its porosity and permeability. Particularly for deep shale layers, the effects of supercritical CO2 on shale physical properties should be investigated at a high temperature and pressure, differing from the standard conditions applied in shallower layers. A study examined the impact of supercritical CO2 under such conditions on the pore-throat structure and mineral composition of the shale. The experimental parameters included immersing shale rock in supercritical CO2 at pressures ranging from 10 to 70 MPa and temperatures between 55 and 95 &#176;C. This study evaluated changes in mineral composition, pore-throat structure (using scanning electron microscopy and nitrogen adsorption tests), and the porosity and permeability of the shale rocks. Findings indicated that the dissolution of CO2 altered the relative content of certain minerals. The average quartz content rose and, potassium feldspar and the average contents of plagioclase declined conversely. When increasing the pressure, an increase in the relative content of I/S mixed layer and a decrease in illite content were observed and kaolinite content experienced minor changes. When increasing the temperature, kaolinite, I/S mixed layer, and chlorite all exhibited a decreasing trend with increasing temperature, while the relative contents of illite increased. Some of the pores become rounded in a high-magnification view under the impact of CO2 dissolution. Additionally, the Brunauer&#8211;Emmett&#8211;Teller specific surface area, pore volume, porosity, and permeability generally improved with increasing pressure and temperature. With the temperature and pressure of CO2 increased, the curves of nitrogen absorption had moved first upward and then downward. However, under specific CO2 conditions, the permeability enhancement effect could diminish or even negatively impact the shale's permeability. These findings underscore the need to optimize supercritical CO2 injection parameters under high-temperature and high-pressure conditions. This research aims to provide theoretical guidance for the efficient use of CO2 in deep shale applications to increase the shale gas output.</description>
+      <author>Xiangzeng Wang, Xin Sun, Xing Min Guo, Liange Zheng, Ping Luo</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c09698</guid>
+    </item>
+    <item>
+      <title>A novel combined process for enhancing soluble salt recovery and reducing pollutant diffusion in municipal solid waste incineration fly ash</title>
+      <link>https://doi.org/10.1016/j.jclepro.2024.141892</link>
+      <description>Xin Huang, Lei Wang, Xiaotao Bi, Dahai Yan, Jonathan W C Wong, Yuezhao Zhu, Journal of Cleaner Production. None(None)] 2024. https://openalex.org/W4393131722
+
+                There is a limited body of research on the recovery of soluble salts from fly ash from municipal solid wastes (MSWI-FA), with challenges stemming from the effective management of residual heavy metals and dioxins. In this investigation, we propose using water-washing treatment for fly ash dechlorination and using CO2 aeration carbonation combined with ceramic membrane filtration to recover soluble salt resources from fly ash. This study investigated the impact of combined processes on fly ash soluble salt recovery, carbon dioxide capture and sequestration, heavy metal removal, and dioxin diffusion reduction. The findings revealed that the combined process can significantly enhance the rate of carbonation and the removal of heavy metals. Specifically, the removal rates of Pb and Zn reach 100%. The resulting CaCO3 precipitation particle size is smaller, averaging only approximately 4 &#956;m, with greater surface porosity, higher heavy metal and dioxin content, and dioxin toxic equivalents as high as 8.11 ng TEQ/kg. Moreover, the dioxin content in the recovered mixed salt decreased, and its dioxin toxic equivalent was only 3.228.11 ng TEQ/kg. Consequently, the combined process of CO2 aeration combined with ceramic membrane filtration was used in conjunction to significantly reduce pollutants (heavy metals and dioxins) in the MSWI-FA recovered salt. This approach enhances the recyclable resource utilization of MSWI-FA and reduces the risk of pollution dispersal during MSWI-FA disposal and resource utilization.</description>
+      <author>Xin Huang, Lei Wang, Xiaotao Bi, Dahai Yan, Jonathan W C Wong, Yuezhao Zhu</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.141892</guid>
     </item>
   </channel>
 </rss>

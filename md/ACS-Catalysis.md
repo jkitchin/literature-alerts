@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Mar 27 00:43:58 2024
+Created on Thu Mar 28 00:44:21 2024
 
-Found 25 results from 2024-03-20 to 2024-03-27
+Found 21 results from 2024-03-21 to 2024-03-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## The Role of Mo Single Atoms and Clusters in Enhancing Pt Catalyst for Benzene Hydrogenation: Distinguishing Between Benzene Spillover and Electronic Effect   
-
-OpenAlex: https://openalex.org/W4392936989    
-Open access: False
-    
-[Zhuo Li](https://openalex.org/A5081411724), [Fanchun Meng](https://openalex.org/A5090201430), [Xinchun Yang](https://openalex.org/A5007065150), [Yuntao Qi](https://openalex.org/A5038819017), [Yong Qin](https://openalex.org/A5074124495), [Bin Zhang](https://openalex.org/A5044774514), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06026.
-    
-Reactant spillover and electronic effects are two indistinguishable factors that influence MoO3 promoters in benzene hydrogenation on Pt-MoO3 catalysts. Previous studies have primarily focused on the significance of hydrogen spillover while neglecting the transfer of benzene and the electronic effect originating from MoO3. Herein, we synthesized Pt/CNT, Pt–Mo1/CNT with Mo single atoms, and Pt–Mocluster/CNT with MoOx cluster promoters by using atomic layer deposition. The catalyst Pt–Mo1/CNT exhibited higher activity (3361.8 h–1) in benzene hydrogenation at 50 °C, which was twice as high as that of Pt/CNT. In contrast, the presence of closely interacting MoOx clusters with Pt nanoparticles inhibited the activity of the Pt catalyst. Kinetic experiments, DFT calculations, in situ FTIR, and AIMD simulations revealed that Mo single atoms on multiwalled carbon nanotubes did not alter the structure or electronic state of Pt nanoparticles but enhanced their activity by increasing benzene coverage via benzene spillover. On the other hand, although the hydrogen and benzene coverage increased with MoOx cluster promoters, changes in the electronic state of Pt nanoparticles resulted in a higher energy barrier for the rate-determining step.    
-
-    
-
-## Molecular Orbital Engineering of Mixed-Addenda Polyoxometalates Boosts Light-Driven Hydrogen Evolution Activity   
-
-OpenAlex: https://openalex.org/W4392948266    
-Open access: False
-    
-[Manzhou Chi](https://openalex.org/A5064238928), [Ying Zeng](https://openalex.org/A5072777154), [Zhongling Lang](https://openalex.org/A5049368936), [Huijie Li](https://openalex.org/A5007705719), [Xing Xin](https://openalex.org/A5064628795), [Yuanyuan Dong](https://openalex.org/A5021313643), [Fangyu Fu](https://openalex.org/A5002572848), [Guo‐Yu Yang](https://openalex.org/A5052567771), [Hongjin Lv](https://openalex.org/A5088515178), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00295.
-    
-No abstract    
-
-    
-
-## Reversible Intrapore Redox Cycling of Platinum in Platinum-Ion-Exchanged HZSM-5 Catalysts   
-
-OpenAlex: https://openalex.org/W4392948602    
-Open access: True
-    
-[Kaan Yalçın](https://openalex.org/A5043362145), [Ram Kumar](https://openalex.org/A5077755362), [Erik Zuidema](https://openalex.org/A5049884504), [Ambarish Kulkarni](https://openalex.org/A5042039275), [Jim Ciston](https://openalex.org/A5079297523), [Karen C. Bustillo](https://openalex.org/A5088731924), [Peter Ercius](https://openalex.org/A5045160930), [Alexander Katz](https://openalex.org/A5069459050), [Bruce C. Gates](https://openalex.org/A5088235380), [Coleman X. Kronawitter](https://openalex.org/A5022071918), [Ron C. Runnebaum](https://openalex.org/A5065439644), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06325 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06325)).
-    
-Isolated platinum(II) ions anchored at acid sites in the pores of zeolite HZSM-5, initially introduced by aqueous ion exchange, were reduced to form platinum nanoparticles that are stably dispersed with a narrow size distribution (1.3 ± 0.4 nm in average diameter). The nanoparticles were confined in reservoirs within the porous zeolite particles, as shown by electron beam tomography and the shape-selective catalysis of alkene hydrogenation. When the nanoparticles were oxidatively fragmented in dry air at elevated temperature, platinum returned to its initial in-pore atomically dispersed state with a charge of +2, as shown previously by X-ray absorption spectroscopy. The results determine the conditions under which platinum is retained within the pores of HZSM-5 particles during redox cycles that are characteristic of the reductive conditions of catalyst operation and the oxidative conditions of catalyst regeneration.    
-
-    
-
-## Mechanisms of Light Alkene Oligomerization on Metal-Modified Zeolites   
-
-OpenAlex: https://openalex.org/W4392949694    
-Open access: False
-    
-[Zoya N. Lashchinskaya](https://openalex.org/A5049814124), [Anton A. Gabrienko](https://openalex.org/A5090072930), [Alexander G. Stepanov](https://openalex.org/A5045633595), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00552.
-    
-No abstract    
-
-    
-
-## Variation in Biosynthesis and Metal-Binding Properties of Isonitrile-Containing Peptides Produced by Mycobacteria versus Streptomyces   
-
-OpenAlex: https://openalex.org/W4392956930    
-Open access: False
-    
-[Tzu‐Yu Chen](https://openalex.org/A5026948998), [Jinfeng Chen](https://openalex.org/A5058813394), [Mark W. Ruszczycky](https://openalex.org/A5063896535), [Dalton Hilovsky](https://openalex.org/A5000819193), [Terry L. Hostetler](https://openalex.org/A5039009753), [Xiaojing Liu](https://openalex.org/A5025115516), [Jiahai Zhou](https://openalex.org/A5058800276), [Wei‐chen Chang](https://openalex.org/A5060069852), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00645.
-    
-No abstract    
-
-    
 
 ## Electrocatalytic Pathways to the Formation of C–N Bonds   
 
@@ -278,5 +223,16 @@ Open access: False
 [Kosaku Tanaka](https://openalex.org/A5008092092), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00510.
     
 Enabling reactions of traditional substrates that are inert to Pd catalysts has the potential for further advancements in the field of Pd chemistry. In this study, we developed a method for generating ketyl radicals through the reaction of a photoexcited Pd species with ketones. Upon subsequent reaction with olefins, the ketyl radicals generated through this method yielded Pd-specific reductive and Heck-type coupling products. Mechanistic studies indicated that the proposed radical generation method exhibits characteristics distinct from those of traditional methods such as SmI2 reduction and photoredox-catalyzed reactions.    
+
+    
+
+## Promoting Photocatalytic CO2 Methanation by the Construction of Cooperative Copper Dual-Active Sites   
+
+OpenAlex: https://openalex.org/W4393164230    
+Open access: False
+    
+[Minghui Zhang](https://openalex.org/A5063982212), [Yuyin Mao](https://openalex.org/A5090099599), [Xiaolei Bao](https://openalex.org/A5043423601), [Peng Wang](https://openalex.org/A5073772846), [Yuanyuan Liu](https://openalex.org/A5064686033), [Zhaoke Zheng](https://openalex.org/A5005994132), [Hefeng Cheng](https://openalex.org/A5055777639), [Ying Dai](https://openalex.org/A5071337833), [Zeyan Wang](https://openalex.org/A5071494860), [Baibiao Huang](https://openalex.org/A5026904646), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00060.
+    
+Selective photocatalytic CO2 methanation provides an attractive avenue to address energy and environmental issues. However, impediments such as the sluggish adsorption and activation of CO2 and H2O molecules, along with unexpected intermediate desorption, greatly restrict the activity and selectivity of photocatalytic CO2 methanation. To address these issues, we devised a dual-active site catalyst comprising Cu single atoms (SAs) and nanoclusters (NCs) supported on defective TiO2 (Cu1+NCs/BT). As a result, a remarkable CH4 selectivity of 98% with a yield of 19.63 μmol gcat.–1 h–1 can be obtained over the as-prepared Cu1+NCs/BT in pure water. Mechanistic studies reveal the enhanced performance could be ascribed to the synergistic effect of the Cu dual-active sites, where Cu SAs adsorb and activate CO2, while Cu NCs boost H2O adsorption and dissociation for *H coverage. Additionally, the adjacent Cu dual-active site could jointly stabilize the *CO intermediate and reduce the energy barrier for *CO protonation, promoting the multielectron transfer process.    
 
     
