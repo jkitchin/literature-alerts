@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Mar 28 00:44:21 2024
+Created on Fri Mar 29 00:43:52 2024
 
-Found 21 results from 2024-03-21 to 2024-03-28
+Found 15 results from 2024-03-22 to 2024-03-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Electrocatalytic Pathways to the Formation of C–N Bonds   
-
-OpenAlex: https://openalex.org/W4392975696    
-Open access: True
-    
-[Dimitra Anastasiadou](https://openalex.org/A5049893998), [Marta Costa Figueiredo](https://openalex.org/A5025302127), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04912.
-    
-No abstract    
-
-    
-
-## Nickel-Catalyzed Mono- and Dihydrosilylation of Aliphatic Alkynes in Aqueous and Aerobic Conditions   
-
-OpenAlex: https://openalex.org/W4392985422    
-Open access: False
-    
-[Chanmi Lee](https://openalex.org/A5083679820), [Ji Hwan Jeon](https://openalex.org/A5056195109), [Soochan Lee](https://openalex.org/A5013584794), [Wonyoung Choe](https://openalex.org/A5044210377), [Jaesung Kwak](https://openalex.org/A5000148374), [Sangwon Seo](https://openalex.org/A5083141649), [Sung You Hong](https://openalex.org/A5066992242), [Byunghyuck Jung](https://openalex.org/A5063361478), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00109.
-    
-No abstract    
-
-    
-
-## Alteration of Hydrodeoxygenation Pathways of Ni/TiO2-A Catalyst through Controlled Regulation of Strong Metal–Support Interactions and Surface Acidity   
-
-OpenAlex: https://openalex.org/W4392999569    
-Open access: False
-    
-[Qi Fang](https://openalex.org/A5067289998), [Hong Du](https://openalex.org/A5058204882), [Xiaoqiang Zhang](https://openalex.org/A5016467601), [Yunjie Ding](https://openalex.org/A5064371893), [Z. Conrad Zhang](https://openalex.org/A5080819729), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00480.
-    
-No abstract    
-
-    
-
-## Nickel-Catalyzed Inter- and Intramolecular Reductive Cross-Coupling Reactions of Arylbenzylammonium Salts through Highly Site-Selective C–N Bond Cleavage   
-
-OpenAlex: https://openalex.org/W4393002326    
-Open access: False
-    
-[Ren-Gui Tian](https://openalex.org/A5000364007), [Longyu Wang](https://openalex.org/A5059208672), [Lei Zheng](https://openalex.org/A5074843268), [Shi‐Kai Tian](https://openalex.org/A5049497710), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00504.
-    
-No abstract    
-
-    
-
-## Ligand-Based Principal Component Analysis Followed by Ridge Regression: Application to an Asymmetric Negishi Reaction   
-
-OpenAlex: https://openalex.org/W4393006540    
-Open access: False
-    
-[H. Ray Kelly](https://openalex.org/A5065641804), [Sanil Sreekumar](https://openalex.org/A5025530962), [Vidhyadhar Manee](https://openalex.org/A5031776576), [Abbigayle Cuomo](https://openalex.org/A5014631359), [Timothy R. Newhouse](https://openalex.org/A5041914961), [Víctor S. Batista](https://openalex.org/A5089129603), [Frédéric G. Buono](https://openalex.org/A5001742738), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06230.
-    
-No abstract    
-
-    
-
-## Atroposelective Construction of Carbon–Boron Axial Chirality through Rh-Catalyzed [2 + 2 + 2] Cycloaddition   
-
-OpenAlex: https://openalex.org/W4393026019    
-Open access: False
-    
-[Yu Ping](https://openalex.org/A5052091727), [Xiaofan Shi](https://openalex.org/A5079666078), [Ming Lei](https://openalex.org/A5002150542), [Jianbo Wang](https://openalex.org/A5075645006), ACS Catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00428.
-    
-No abstract    
-
-    
 
 ## Regioselective 1,n-Diborylation of Alkylidenecyclopropanes Enabled by Catalysis with a Spirocyclic NHC IrIII Pincer Complex   
 

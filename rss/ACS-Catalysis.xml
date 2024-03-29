@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Mar 2024 00:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:43:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalytic Pathways to the Formation of C&#8211;N Bonds</title>
-      <link>https://doi.org/10.1021/acscatal.3c04912</link>
-      <description>Dimitra Anastasiadou, Marta Costa Figueiredo, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392975696
-
-                No abstract</description>
-      <author>Dimitra Anastasiadou, Marta Costa Figueiredo</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04912</guid>
-    </item>
-    <item>
-      <title>Nickel-Catalyzed Mono- and Dihydrosilylation of Aliphatic Alkynes in Aqueous and Aerobic Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.4c00109</link>
-      <description>Chanmi Lee, Ji Hwan Jeon, Soochan Lee, Wonyoung Choe, Jaesung Kwak, Sangwon Seo, Sung You Hong, Byunghyuck Jung, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392985422
-
-                No abstract</description>
-      <author>Chanmi Lee, Ji Hwan Jeon, Soochan Lee, Wonyoung Choe, Jaesung Kwak, Sangwon Seo, Sung You Hong, Byunghyuck Jung</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00109</guid>
-    </item>
-    <item>
-      <title>Alteration of Hydrodeoxygenation Pathways of Ni/TiO&lt;sub&gt;2&lt;/sub&gt;-A Catalyst through Controlled Regulation of Strong Metal&#8211;Support Interactions and Surface Acidity</title>
-      <link>https://doi.org/10.1021/acscatal.4c00480</link>
-      <description>Qi Fang, Hong Du, Xiaoqiang Zhang, Yunjie Ding, Z. Conrad Zhang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4392999569
-
-                No abstract</description>
-      <author>Qi Fang, Hong Du, Xiaoqiang Zhang, Yunjie Ding, Z. Conrad Zhang</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00480</guid>
-    </item>
-    <item>
-      <title>Nickel-Catalyzed Inter- and Intramolecular Reductive Cross-Coupling Reactions of Arylbenzylammonium Salts through Highly Site-Selective C&#8211;N Bond Cleavage</title>
-      <link>https://doi.org/10.1021/acscatal.4c00504</link>
-      <description>Ren-Gui Tian, Longyu Wang, Lei Zheng, Shi&#8208;Kai Tian, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393002326
-
-                No abstract</description>
-      <author>Ren-Gui Tian, Longyu Wang, Lei Zheng, Shi&#8208;Kai Tian</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00504</guid>
-    </item>
-    <item>
-      <title>Ligand-Based Principal Component Analysis Followed by Ridge Regression: Application to an Asymmetric Negishi Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c06230</link>
-      <description>H. Ray Kelly, Sanil Sreekumar, Vidhyadhar Manee, Abbigayle Cuomo, Timothy R. Newhouse, V&#237;ctor S. Batista, Fr&#233;d&#233;ric G. Buono, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393006540
-
-                No abstract</description>
-      <author>H. Ray Kelly, Sanil Sreekumar, Vidhyadhar Manee, Abbigayle Cuomo, Timothy R. Newhouse, V&#237;ctor S. Batista, Fr&#233;d&#233;ric G. Buono</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06230</guid>
-    </item>
-    <item>
-      <title>Atroposelective Construction of Carbon&#8211;Boron Axial Chirality through Rh-Catalyzed [2 + 2 + 2] Cycloaddition</title>
-      <link>https://doi.org/10.1021/acscatal.4c00428</link>
-      <description>Yu Ping, Xiaofan Shi, Ming Lei, Jianbo Wang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393026019
-
-                No abstract</description>
-      <author>Yu Ping, Xiaofan Shi, Ming Lei, Jianbo Wang</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00428</guid>
-    </item>
     <item>
       <title>Regioselective 1,&lt;i&gt;n&lt;/i&gt;-Diborylation of Alkylidenecyclopropanes Enabled by Catalysis with a Spirocyclic NHC Ir&lt;sup&gt;III&lt;/sup&gt; Pincer Complex</title>
       <link>https://doi.org/10.1021/acscatal.4c00260</link>

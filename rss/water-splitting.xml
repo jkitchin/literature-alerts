@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 28 Mar 2024 00:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 00:43:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ultrathin Amorphous NaIrRuOx Nanosheets with Rich Oxygen Vacancies for Efficient Acidic Water Oxidation</title>
-      <link>https://doi.org/10.1016/j.cattod.2024.114660</link>
-      <description>Junan Gao, Xiaofeng Wu, Xinying Teng, Xin Jing, Sung Lai Jimmy Yun, Hong Zhao, Jianwei Li, Jie Zhang, Catalysis Today. None(None)] 2024. https://openalex.org/W4392976595
-
-                No abstract</description>
-      <author>Junan Gao, Xiaofeng Wu, Xinying Teng, Xin Jing, Sung Lai Jimmy Yun, Hong Zhao, Jianwei Li, Jie Zhang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114660</guid>
-    </item>
-    <item>
-      <title>Constructing Chainmail-Structured CoP/C Nanospheres as Highly Active Anodic Electrocatalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsami.4c01132</link>
-      <description>Nan Yang, Tianpeng Liu, Wenhao Liu, Dong Cao, Daojian Cheng, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4392978618
-
-                No abstract</description>
-      <author>Nan Yang, Tianpeng Liu, Wenhao Liu, Dong Cao, Daojian Cheng</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c01132</guid>
-    </item>
-    <item>
-      <title>Enhanced Electrocatalytic Oxygen Evolution by In Situ Growth of Tetrametallic Metal&#8211;Organic Framework Electrocatalyst FeCoNiMn-MOF on Nickel Foam</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c00308</link>
-      <description>Sheng-Bin Mao, Yeru Liang, Siyang Jin, Chaohui Zhou, J. Pang, Wei Xu, Inorganic Chemistry. None(None)] 2024. https://openalex.org/W4392978700
-
-                No abstract</description>
-      <author>Sheng-Bin Mao, Yeru Liang, Siyang Jin, Chaohui Zhou, J. Pang, Wei Xu</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c00308</guid>
-    </item>
-    <item>
-      <title>Observing Long-Lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts</title>
-      <link>https://doi.org/10.1021/acsaem.3c03269</link>
-      <description>Ruben Mirzoyan, Alec H. Follmer, Ryan G. Hadt, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4392979881
-
-                No abstract</description>
-      <author>Ruben Mirzoyan, Alec H. Follmer, Ryan G. Hadt</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03269</guid>
-    </item>
-    <item>
-      <title>Surface constructing FeOOH-decorated hollow cubic NixSy electrocatalyst for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jssc.2024.124681</link>
-      <description>Lianli Wang, Hua Ye, Linhua Wang, Xu Sun, Lingfeng Gao, Yun&#8208;Wu Li, Jianmin Dou, Journal of Solid State Chemistry. None(None)] 2024. https://openalex.org/W4392982649
-
-                No abstract</description>
-      <author>Lianli Wang, Hua Ye, Linhua Wang, Xu Sun, Lingfeng Gao, Yun&#8208;Wu Li, Jianmin Dou</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jssc.2024.124681</guid>
-    </item>
-    <item>
-      <title>Electrochemical Activation in Vanadium Oxide with Rich Oxygen Vacancies for High-Performance Aqueous Zinc-Ion Batteries</title>
-      <link>https://doi.org/10.1021/acssuschemeng.3c07655</link>
-      <description>Fangan Liang, Min Chen, Shu-Chao Zhang, Zhengguang Zou, Chuanqi Ge, S. Jia, Shangwang Le, Feng Yu, Jinxia Nong, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4392999956
-
-                No abstract</description>
-      <author>Fangan Liang, Min Chen, Shu-Chao Zhang, Zhengguang Zou, Chuanqi Ge, S. Jia, Shangwang Le, Feng Yu, Jinxia Nong</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c07655</guid>
-    </item>
-    <item>
-      <title>In Situ X-ray Absorption Spectroscopy of LaFeO&lt;sub&gt;3&lt;/sub&gt; and LaFeO&lt;sub&gt;3&lt;/sub&gt;/LaNiO&lt;sub&gt;3&lt;/sub&gt; Thin Films in the Electrocatalytic Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07864</link>
-      <description>Qijun Che, Iris C. G. van den Bosch, Phu Tran Phong Le, Masoud Lazemi, Emma van der Minne, Yorick A. Birkh&#246;lzer, Moritz Nunnenkamp, Matt L. J. Peerlings, &#1054;lga V. Safonova, Maarten Nachtegaal, Gertjan Koster, Christoph Baeumer, Petra E. de Jongh, Frank M. F. de Groot, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393003882
-
-                No abstract</description>
-      <author>Qijun Che, Iris C. G. van den Bosch, Phu Tran Phong Le, Masoud Lazemi, Emma van der Minne, Yorick A. Birkh&#246;lzer, Moritz Nunnenkamp, Matt L. J. Peerlings, &#1054;lga V. Safonova, Maarten Nachtegaal, Gertjan Koster, Christoph Baeumer, Petra E. de Jongh, Frank M. F. de Groot</author>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07864</guid>
-    </item>
     <item>
       <title>Revolutionizing Zn-Air batteries with chainmail catalysts: Ultrathin carbon-encapsulated FeNi alloys on N-doped graphene for enhanced oxygen electrocatalysis</title>
       <link>https://doi.org/10.1016/s1872-2067(23)64603-0</link>
@@ -258,6 +188,76 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4769602</guid>
     </item>
     <item>
+      <title>Abundant heterointerfaces in CoS&lt;sub&gt;2&lt;/sub&gt;/MoS&lt;sub&gt;2&lt;/sub&gt; nanosheet array electrocatalysts for the enhanced oxygen evolution reaction</title>
+      <link>https://doi.org/10.1039/d4nj00357h</link>
+      <description>Zhaojin Li, Qian Ma, Shaofei Zhang, Di Zhang, Huan Wang, Qiujun Wang, Huilan Sun, Bo Wang, New Journal of Chemistry. None(None)] 2024. https://openalex.org/W4393107715
+
+                The rich heterogeneous interface between CoS 2 and MoS 2 regulates the electronic structure and provides sufficient electrochemical active sites, thus forming a highly active region for the OER.</description>
+      <author>Zhaojin Li, Qian Ma, Shaofei Zhang, Di Zhang, Huan Wang, Qiujun Wang, Huilan Sun, Bo Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nj00357h</guid>
+    </item>
+    <item>
+      <title>Constructing novel metal-free g-C3N4@HCOF-Ph heterojunctions through molecular expansion to enhance photogenerated carrier involved molecular oxygen activation and photocatalytic hydrogen evolution</title>
+      <link>https://doi.org/10.2139/ssrn.4770114</link>
+      <description>Qingmei Tang, Qingrong Cheng, Zhiquan Pan, No host. None(None)] 2024. https://openalex.org/W4393109168
+
+                No abstract</description>
+      <author>Qingmei Tang, Qingrong Cheng, Zhiquan Pan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4770114</guid>
+    </item>
+    <item>
+      <title>Cr dopant regulating d-orbital electronic configuration of NiFe spinel oxide to improve oxygen evolution reaction in Zn-air battery</title>
+      <link>https://doi.org/10.1016/j.jallcom.2024.174248</link>
+      <description>Shihui Liu, Yao&#8208;Cheng Shi, Fengqin Tang, Penggang Wei, Wenrui Huang, Jiapeng Wu, Sujuan Zhao, Jikui Zhu, Chunhui Shi, Libing Hu, Journal of Alloys and Compounds. 987(None)] 2024. https://openalex.org/W4393110836
+
+                No abstract</description>
+      <author>Shihui Liu, Yao&#8208;Cheng Shi, Fengqin Tang, Penggang Wei, Wenrui Huang, Jiapeng Wu, Sujuan Zhao, Jikui Zhu, Chunhui Shi, Libing Hu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174248</guid>
+    </item>
+    <item>
+      <title>Transition metal-based layered double hydroxides and their derivatives for efficient oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.03.150</link>
+      <description>Chun Han, Yunhe Zhao, Yuan Yuan, Zehua Guo, Gong Chen, Jack Yang, Qi Bao, Li Guo, Chunxia Chen, International Journal of Hydrogen Energy. 63(None)] 2024. https://openalex.org/W4393111188
+
+                No abstract</description>
+      <author>Chun Han, Yunhe Zhao, Yuan Yuan, Zehua Guo, Gong Chen, Jack Yang, Qi Bao, Li Guo, Chunxia Chen</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.150</guid>
+    </item>
+    <item>
+      <title>Oxygen vacancy-rich CoMoO4/Carbon Nitride S-scheme heterojunction for boosted photocatalytic H2 production: microstructure regulation and charge transfer mechanism</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.02.032</link>
+      <description>Jiani Qin, Yanli Dong, Xiaojuan Lai, Bo Su, Bao Pan, Chuanyi Wang, Sibo Wang, Journal of Materials Science &amp; Technology. None(None)] 2024. https://openalex.org/W4393115053
+
+                No abstract</description>
+      <author>Jiani Qin, Yanli Dong, Xiaojuan Lai, Bo Su, Bao Pan, Chuanyi Wang, Sibo Wang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.02.032</guid>
+    </item>
+    <item>
+      <title>Zn&#8208;Leaching Induced Rapid Self&#8208;Reconstruction of NiFe&#8208;Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024)</title>
+      <link>https://doi.org/10.1002/smll.202470098</link>
+      <description>Haonan Guo, Lei Zhang, Deliu Ou, Qiao Liu, Zhaohui Wu, Weiyou Yang, Zhi Fang, Qing Shi, Small. 20(12)] 2024. https://openalex.org/W4393120024
+
+                SmallVolume 20, Issue 12 2470098 FrontispieceFree Access Zn-Leaching Induced Rapid Self-Reconstruction of NiFe-Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024) Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author First published: 22 March 2024 https://doi.org/10.1002/smll.202470098AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2307069, Zhisheng Wu, Zhi Fang, Qing Shi, and co-workers report a simple and fast strategy to promote self reconstruction of NiFe-layered double hydroxides and form highly active NiFeOOH centers. The trace Zn dopants have been introduced in advance, followed by leaching over the electrochemical activation process. The self-restructured NiFeOOH-VZn exhibits excellent catalytic activity and stability for the oxygen evolution reaction. Volume20, Issue12March 22, 20242470098 RelatedInformation</description>
+      <author>Haonan Guo, Lei Zhang, Deliu Ou, Qiao Liu, Zhaohui Wu, Weiyou Yang, Zhi Fang, Qing Shi</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202470098</guid>
+    </item>
+    <item>
+      <title>Preparation of NiFeCoMnCr Hydroxide on Nickel Foam by Corrosion Method and its Enhanced Electrochemical Performance in Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.1007/s11814-024-00160-y</link>
+      <description>Hyein Lee, Min&#8208;Ho Han, Hee-Jin Noh, Taekyung Yu, Korean Journal of Chemical Engineering. None(None)] 2024. https://openalex.org/W4393130679
+
+                No abstract</description>
+      <author>Hyein Lee, Min&#8208;Ho Han, Hee-Jin Noh, Taekyung Yu</author>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11814-024-00160-y</guid>
+    </item>
+    <item>
       <title>Interface Engineering of Electrocatalysts for Efficient and Selective Oxygen Evolution in Alkaline/Seawater</title>
       <link>https://doi.org/10.1002/cctc.202400125</link>
       <description>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee, ChemCatChem. None(None)] 2024. https://openalex.org/W4393161543
@@ -286,16 +286,6 @@
       <author>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang</author>
       <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05856</guid>
-    </item>
-    <item>
-      <title>Transition metal-based layered double hydroxides and their derivatives for efficient oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.150</link>
-      <description>Chun Han, Yunhe Zhao, Yuan Yuan, Zehua Guo, Gong Chen, Jack Yang, Qi Bao, Li Guo, Chunxia Chen, International Journal of Hydrogen Energy. 63(None)] 2024. https://openalex.org/W4393111188
-
-                No abstract</description>
-      <author>Chun Han, Yunhe Zhao, Yuan Yuan, Zehua Guo, Gong Chen, Jack Yang, Qi Bao, Li Guo, Chunxia Chen</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.150</guid>
     </item>
     <item>
       <title>Cerium Doping&#8208;Induced Enrichment of Ni 3 S 4 Phase for Boosting Oxygen Evolution Reaction</title>
@@ -358,24 +348,34 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114053</guid>
     </item>
     <item>
-      <title>Preparation of NiFeCoMnCr Hydroxide on Nickel Foam by Corrosion Method and its Enhanced Electrochemical Performance in Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1007/s11814-024-00160-y</link>
-      <description>Hyein Lee, Min&#8208;Ho Han, Hee-Jin Noh, Taekyung Yu, Korean Journal of Chemical Engineering. None(None)] 2024. https://openalex.org/W4393130679
+      <title>Iron Integration in Nickel Hydroxide Matrix vs Surface for Oxygen-Evolution Reaction: Where the Nernst Equation Does Not Work</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00604</link>
+      <description>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4393144203
 
                 No abstract</description>
-      <author>Hyein Lee, Min&#8208;Ho Han, Hee-Jin Noh, Taekyung Yu</author>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11814-024-00160-y</guid>
+      <author>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00604</guid>
     </item>
     <item>
-      <title>Zn&#8208;Leaching Induced Rapid Self&#8208;Reconstruction of NiFe&#8208;Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024)</title>
-      <link>https://doi.org/10.1002/smll.202470098</link>
-      <description>Haonan Guo, Lei Zhang, Deliu Ou, Qiao Liu, Zhaohui Wu, Weiyou Yang, Zhi Fang, Qing Shi, Small. 20(12)] 2024. https://openalex.org/W4393120024
+      <title>Iron-doped cobalt phosphide nanowires prepared &lt;i&gt;via&lt;/i&gt; one-step solvothermal phosphidization of metal&#8211;organic frameworks for the oxygen evolution reactions</title>
+      <link>https://doi.org/10.1039/d4gc00132j</link>
+      <description>Jianbo Tong, Yichuang Xing, Xuechun Xiao, Yuan Liu, Zhiping Hu, Zeyi Wang, Yafei Hu, B. Xin, Shuling Liu, He Wang, Chao Wang, Green Chemistry. None(None)] 2024. https://openalex.org/W4393170501
 
-                SmallVolume 20, Issue 12 2470098 FrontispieceFree Access Zn-Leaching Induced Rapid Self-Reconstruction of NiFe-Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024) Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author First published: 22 March 2024 https://doi.org/10.1002/smll.202470098AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2307069, Zhisheng Wu, Zhi Fang, Qing Shi, and co-workers report a simple and fast strategy to promote self reconstruction of NiFe-layered double hydroxides and form highly active NiFeOOH centers. The trace Zn dopants have been introduced in advance, followed by leaching over the electrochemical activation process. The self-restructured NiFeOOH-VZn exhibits excellent catalytic activity and stability for the oxygen evolution reaction. Volume20, Issue12March 22, 20242470098 RelatedInformation</description>
-      <author>Haonan Guo, Lei Zhang, Deliu Ou, Qiao Liu, Zhaohui Wu, Weiyou Yang, Zhi Fang, Qing Shi</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202470098</guid>
+                A solvothermal phosphidization method is adopted to construct CoFeP nanowires to electrochemically catalyze oxygen evolution reaction.</description>
+      <author>Jianbo Tong, Yichuang Xing, Xuechun Xiao, Yuan Liu, Zhiping Hu, Zeyi Wang, Yafei Hu, B. Xin, Shuling Liu, He Wang, Chao Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4gc00132j</guid>
+    </item>
+    <item>
+      <title>Fabrication of nanocrystalline high-entropy oxide CoNiFeCrMnO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; thin film electrodes by dip-coating for oxygen evolution electrocatalysis</title>
+      <link>https://doi.org/10.1039/d4ya00026a</link>
+      <description>Qingyin Wu, Achim Alkemper, Stefan Lauterbach, Jan P. Hofmann, Marcus Einert, Energy advances. None(None)] 2024. https://openalex.org/W4393170112
+
+                Nanocrystalline high-entropy CoNiFeCrMnO x thin films were prepared by dip-coating and annealing at 400 &#176;C, showing stable oxygen evolution with overpotentials of 258 mV vs. RHE at 10 mA cm &#8722;2 over 10 hours in alkaline media.</description>
+      <author>Qingyin Wu, Achim Alkemper, Stefan Lauterbach, Jan P. Hofmann, Marcus Einert</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ya00026a</guid>
     </item>
   </channel>
 </rss>

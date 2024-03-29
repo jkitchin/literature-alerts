@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Thu Mar 28 00:44:20 2024
+Created on Fri Mar 29 00:43:51 2024
 
-Found 28 results from 2024-03-21 to 2024-03-28
+Found 27 results from 2024-03-22 to 2024-03-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Prospects for the Development of Nanocomposite Catalysts for the Oxidative Conversion of C1-C4 Alkanes with Carbon Dioxide to Produce Hydrogen/Synthesis Gas and Organic Compounds: A Review   
-
-OpenAlex: https://openalex.org/W4393011083    
-Open access: False
-    
-[Sergiy O. Soloviev](https://openalex.org/A5041127502), Theoretical and Experimental Chemistry. None(None)] 2024.https://doi.org/10.1007/s11237-024-09790-z.
-    
-No abstract    
-
-    
 
 ## Digitalization and net-zero carbon: The role of industrial robots towards carbon dioxide emission reduction   
 
@@ -84,17 +73,6 @@ Abstract The electrochemical reduction of carbon dioxide (CO2) for the generatio
 
     
 
-## How informal environmental regulations constrain carbon dioxide emissions under pollution control and carbon reduction: Evidence from China   
-
-OpenAlex: https://openalex.org/W4392983203    
-Open access: False
-    
-[Po Kou](https://openalex.org/A5081287699), [Ying Han](https://openalex.org/A5039490153), [Baoling Jin](https://openalex.org/A5015468366), [Tian Li](https://openalex.org/A5018019822), Environmental Research. None(None)] 2024.https://doi.org/10.1016/j.envres.2024.118732.
-    
-No abstract    
-
-    
-
 ## Electrolyzer and Catalyst Engineering for Acidic CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4393057305    
@@ -114,39 +92,6 @@ Open access: False
 [Mingxiang Zhang](https://openalex.org/A5090374198), [Li Wen](https://openalex.org/A5041362389), [Shanghao Gu](https://openalex.org/A5072981099), [Weihan Xu](https://openalex.org/A5058741911), [Zhouguang Lu](https://openalex.org/A5027800643), [Fei Wang](https://openalex.org/A5010016722), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4772115.
     
 No abstract    
-
-    
-
-## Electrochemical Reduction of CO2 catalyzed by a Cobalt molecular complex and a bimetallic Ni-Sn electrocatalyst   
-
-OpenAlex: https://openalex.org/W4393024413    
-Open access: True
-    
-[Paul Rayess](https://openalex.org/A5055646044), No host. None(None)] 2021.None ([pdf](https://theses.hal.science/tel-03639161/document)).
-    
-No abstract    
-
-    
-
-## Efficient photoelectrocatalytic reduction of CO2 to formate via Bi-Doped InOCl nanosheets   
-
-OpenAlex: https://openalex.org/W4392975989    
-Open access: False
-    
-[Yibo Jia](https://openalex.org/A5024592447), [Huimin Yang](https://openalex.org/A5021087622), [Rui Chen](https://openalex.org/A5053453125), [Yi Zhang](https://openalex.org/A5044544424), [Fanfan Gao](https://openalex.org/A5027496978), [Nan Cheng](https://openalex.org/A5038100088), [Jiaqi Yang](https://openalex.org/A5016812043), [Xuemei Gao](https://openalex.org/A5042225153), Journal of Alloys and Compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174220.
-    
-No abstract    
-
-    
-
-## Advancements in Membrane Technologies for Enhanced Water Splitting and Co2 Reduction: A Comprehensive Review   
-
-OpenAlex: https://openalex.org/W4393005861    
-Open access: True
-    
-, Journal of Chemical Health Risks. None(None)] 2024.https://doi.org/10.52783/jchr.v14.i2.3372 ([pdf](https://jchr.org/index.php/JCHR/article/download/3372/2392)).
-    
-The global pursuit of sustainable energy and environmental solutions has intensified the focus on water splitting and CO2 reduction as promising pathways towards a low-carbon future.Membrane technologies have emerged as crucial components in enhancing the efficiency and selectivity of these processes.This comprehensive review explores recent advancements in membrane technologies for water splitting and CO2 reduction, aiming to provide insights into their fundamental principles, current state-of-the-art developments, and prospects.Various techniques such as electrolysis, electrochemical and photocatalytic CO2 reduction are discussed, highlighting their respective principles and challenges.Subsequently, the role of membranes in facilitating these processes is examined.Different types of membranes are reviewed in terms of their structure, properties, and recent advancements aimed at improving performance.In the realm of water splitting, membranes play a pivotal role in separating reactants and products, enhancing reactions and enabling efficient utilization of resources.Recent developments in membrane have shown promising results in improving water splitting efficiency and durability.Similarly, in CO2 reduction processes, membranes are utilized for gas separation, concentration, and selective transport of species, enabling enhanced reaction and product selectivity.Integration of membrane technologies into water splitting and CO2 reduction systems is another area of focus, with the review examining the advantages and challenges associated with such integration.Integrated membrane systems are presented, showcasing their potential to achieve synergistic effects, and improved overall performance.Despite significant progress, including membrane fouling, stability, and cost-effectiveness, which necessitate further research and development efforts.In conclusion, this review underscores the critical role of membrane technologies in advancing water splitting and CO2 reduction for sustainable energy and environmental applications.By providing a comprehensive overview of recent advancements, challenges, and prospects, this review aims to stimulate further research and innovation in the field, ultimately contributing to the realization of a cleaner and more sustainable future.    
 
     
 
@@ -194,17 +139,6 @@ The electrochemical reduction of CO2 to CO is a powerful approach to achieve car
 
     
 
-## Cu-Metalated Porphyrin-Based MOFs Coupled with Anatase as Photocatalysts for CO2 Reduction: The Effect of Metalation Proportion   
-
-OpenAlex: https://openalex.org/W4393006588    
-Open access: True
-    
-[Maria Anagnostopoulou](https://openalex.org/A5054259636), [Valérie Keller](https://openalex.org/A5002264601), [Konstantinos C. Christoforidis](https://openalex.org/A5086872707), Energies. 17(6)] 2024.https://doi.org/10.3390/en17061483 ([pdf](https://www.mdpi.com/1996-1073/17/6/1483/pdf?version=1710919003)).
-    
-Converting carbon dioxide (CO2) into valuable chemicals such as fossil resources via photocatalysis requires the development of advanced materials. Herein, we coupled zirconium-based metal–organic frameworks (MOFs) containing porphyrin and Cu-porphyrin with anatase TiO2. The effect of the porphyrin metalation proportion was also investigated. Notably, while the use of free-base porphyrin as the organic linker resulted in the development of PCN-224, the presence of Cu-porphyrin provided mixed-phase MOF structures containing both PCN-224 and PCN-222. MOF/TiO2 composites bearing partial (50%) metalated porphyrin were proven more active and selective towards the production of CH4, at ambient conditions, in the gas phase and using water vapors without the use of hole scavengers. The optimized composite bearing 15 wt.% of the partial metalated MOF was three times more active than pure TiO2 towards CH4 production. This study provides insights on the effect of precise materials engineering at a molecular level on the development of advanced MOF-based photocatalysts for CO2 reduction.    
-
-    
-
 ## One-pot two-step reduction of CO2 with amines and NaBH4 to N-substituted compounds at atmospheric pressure   
 
 OpenAlex: https://openalex.org/W4393124559    
@@ -249,28 +183,6 @@ No abstract
 
     
 
-## Design a reducing CO2 emission system using nonfermentable substrates for carbon-economic biosynthesis of poly-2-hydrobutanedioic acid   
-
-OpenAlex: https://openalex.org/W4392975844    
-Open access: False
-    
-[Jishan He](https://openalex.org/A5072425985), [Kangjia Zuo](https://openalex.org/A5076964570), [Hongjing Chen](https://openalex.org/A5044893987), [Xingran Xu](https://openalex.org/A5003532702), [Xiang Zou](https://openalex.org/A5078520311), Chemical Engineering Journal. 487(None)] 2024.https://doi.org/10.1016/j.cej.2024.150597.
-    
-Reducing carbon dioxide (CO2) emissions in the aerobic biorefinery system is becoming a crucial effort for achieving carbon-economic biosynthesis of biomaterials and chemicals. Poly-2-hydrobutanedioic acid (P2HBD), a long-carbon chain polyester produced by the fungus Aureobasidium pullulans, has garnered significant attention in the biomaterials and chemical industries. In this study, we designed a CO2 emission reduction system using nonfermentable substrates to enable efficient biosynthesis of P2HBD. Based on the genome-scale model iZX637 of A. pullulans, glycerol and ethanol were stimulated to show the potential advantages over glucose in terms of reduced CO2 emission. Additionally, we employed an NADH/NAD+ fluorescent probe called SoNar to dynamically monitor the reductive power ratio during CO2 emission. Subsequently, glycerol metabolism and rTCA carbon fixation pathway were engineered, while implementing a modular assembly strategy to achieve balanced integration between these two modules through precise promoter engineering regulation. The optimal strain ZX-LM03 showed the advantages of less carbon emission with glycerol and ethanol as the co-substrates, and achieved the higher P2HBD titer and yield of 15.07 ± 0.18 g/L and 0.54 ± 0.01 g/g, with the lower carbon emission of 31.08 % compared to glucose in the 5 L fermenter. In conclusion, this study provides novel insights into achieving carbon neutrality using renewable substrates for reducing carbon emission in aerobic fermentation systems.    
-
-    
-
-## Optimization of Each Component Ratio of Multiple Thermal Fluids in Extra-Heavy Oil Reservoir   
-
-OpenAlex: https://openalex.org/W4393009781    
-Open access: False
-    
-[Hua Ma](https://openalex.org/A5089361676), [Bing Bo](https://openalex.org/A5076527943), [Aiguo Xu](https://openalex.org/A5024958098), [Lun Zhao](https://openalex.org/A5018411207), [Wenqi Zhao](https://openalex.org/A5077125877), [Fachao Shan](https://openalex.org/A5054531745), [Chenggang Wang](https://openalex.org/A5033478961), [Minghui Liu](https://openalex.org/A5025025019), Springer series in geomechanics and geoengineering. None(None)] 2024.https://doi.org/10.1007/978-981-97-0260-2_78.
-    
-Under the goal of "carbon peaking and carbon neutrality", the technology of multiple thermal fluids is widely used to develop heavy oil reservoirs at home and abroad for its advantages of low carbon and environmental protection. The multicomponent thermal fluids mainly contain nitrogen, carbon dioxide and steam. In the formation, multi-components play an important role in the huff and puff effect. In order to improve the development effect of extra-heavy oil reservoir, the optimization of each component ratio must be further studied. Based on the single factor analysis method and orthogonal test method, this paper designs 40 groups of multi-component thermal fluids numerical simulation schemes with different component proportions. CMG software simulates the influence of steam injection rate, gas-steam ratio, CO2-N2 ratio and other injection parameters on the development effect of multi-component thermal fluids. The results show that the ratio of CO2 to N2 is the significant factor affecting the huff and puff effect, and the sensitivity order is CO2 to N2 ratio, gas-steam ratio and steam injection rate. The optimal injection parameter combination is as follows: the steam injection rate is 200 t/d, the gas-steam ratio is 300 m3/t, and the ratio of CO2 to N2 is 70%:30%. Viscosity deduction of muti-component thermal fluids has two regions: high temperature viscosity reduction and CO2 dissolution viscosity reduction region. The results of this study have theoretical guiding significance for the optimization of injection-production parameters of multiple thermal fluids huff and puff, and can be further applied to field practice.    
-
-    
-
 ## Spatial-temporal Dynamics and Driving Forces of Provincial CO2 Emission Responsibilities in China from Multiple Perspectives   
 
 OpenAlex: https://openalex.org/W4393116592    
@@ -312,5 +224,82 @@ Open access: False
 [Xin Huang](https://openalex.org/A5041545490), [Lei Wang](https://openalex.org/A5073216396), [Xiaotao Bi](https://openalex.org/A5090354103), [Dahai Yan](https://openalex.org/A5058288733), [Jonathan W C Wong](https://openalex.org/A5059948424), [Yuezhao Zhu](https://openalex.org/A5081256561), Journal of Cleaner Production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.141892.
     
 There is a limited body of research on the recovery of soluble salts from fly ash from municipal solid wastes (MSWI-FA), with challenges stemming from the effective management of residual heavy metals and dioxins. In this investigation, we propose using water-washing treatment for fly ash dechlorination and using CO2 aeration carbonation combined with ceramic membrane filtration to recover soluble salt resources from fly ash. This study investigated the impact of combined processes on fly ash soluble salt recovery, carbon dioxide capture and sequestration, heavy metal removal, and dioxin diffusion reduction. The findings revealed that the combined process can significantly enhance the rate of carbonation and the removal of heavy metals. Specifically, the removal rates of Pb and Zn reach 100%. The resulting CaCO3 precipitation particle size is smaller, averaging only approximately 4 μm, with greater surface porosity, higher heavy metal and dioxin content, and dioxin toxic equivalents as high as 8.11 ng TEQ/kg. Moreover, the dioxin content in the recovered mixed salt decreased, and its dioxin toxic equivalent was only 3.228.11 ng TEQ/kg. Consequently, the combined process of CO2 aeration combined with ceramic membrane filtration was used in conjunction to significantly reduce pollutants (heavy metals and dioxins) in the MSWI-FA recovered salt. This approach enhances the recyclable resource utilization of MSWI-FA and reduces the risk of pollution dispersal during MSWI-FA disposal and resource utilization.    
+
+    
+
+## Experimental Study of the Effect of Molecular Collision Frequency and Adsorption Capacity on Gas Seepage Flux in Coal   
+
+OpenAlex: https://openalex.org/W4393165922    
+Open access: False
+    
+[Gao Yang](https://openalex.org/A5030619753), [Qingchun Yu](https://openalex.org/A5032098323), Spe Journal. None(None)] 2024.https://doi.org/10.2118/219733-pa.
+    
+Summary The differences in the transport behavior and adsorption capacity of different gases in coal play crucial roles in the evolution of coal permeability. Previous studies of coreflooding experiments failed to explain the mechanism of gas flow and have attributed the variation in gas seepage flux (flow rate) at the beginning of the experiment to the change in effective stress, while the differences in the microscopic properties of different gases, such as molar mass, molecular diameter, mean molecular free path, and molecular collision frequency, were ignored. To research the effect of these gas properties on seepage flux while circumventing the effective stress, coreflooding experiments with helium (He), argon (Ar), nitrogen (N2), methane (CH4), and carbon dioxide (CO2) were designed. The results show that the gas transport velocity in coal is affected by the combination of molecular collision frequency and dynamic viscosity, and the transport velocities follow the order of ν (CH4) &gt; ν (He) &gt; ν (N2) &gt; ν (CO2) &gt; ν (Ar). A permeability equation corrected by the molecular collision frequency is proposed to eliminate differences in the permeabilities measured with different gases. The adsorption of different gases on the coal matrix causes different degrees of swelling, and the adsorption-induced swelling strains follow the order of ε (CO2) &gt; ε (CH4) &gt; ε (N2) &gt; ε (Ar) &gt; ε (He). The reduction in seepage flux and irreversible alterations in pore structure caused by adsorption-induced swelling are positively correlated with their adsorption capacities. The gas seepage fluxes after adsorption equilibrium of coal follow the order of Q (He) &gt; Q (CH4) &gt;Q (N2) &gt; Q (Ar) &gt; Q (CO2). Like supercritical CO2 (ScCO2), conventional CO2 can also dissolve the organic matter in coal. The organic molecules close to the walls of the cleats along the direction of gas flow are preferentially dissolved by CO2, and the gas seepage flux increases when the dissolution effect on the cleat width is greater than that on adsorption swelling.    
+
+    
+
+## Dealkalinization Effect of Carbon Dioxide in Flue Gas on Bayer Red Mud   
+
+OpenAlex: https://openalex.org/W4393107226    
+Open access: False
+    
+[Chaojun Fang](https://openalex.org/A5037430073), [Yuanlong Jia](https://openalex.org/A5087417282), [Ruixue Lou](https://openalex.org/A5094227398), [Yongping Wang](https://openalex.org/A5065408173), [Xiaotie Deng](https://openalex.org/A5063382951), [Bo Lv](https://openalex.org/A5000780281), The minerals, metals & materials series. None(None)] 2024.https://doi.org/10.1007/978-3-031-50308-5_14.
+    
+Red mudRed mud is a bulk solid waste generated by the aluminaAlumina industry, which is difficult to use on a large scale due to its strong alkalinity. Meanwhile, carbon dioxideCarbon dioxide in flue gas is one of the main factors contributing to global warmingGlobal warming. Therefore, this paper employs flue gas carbon dioxideCarbon dioxide to neutralize the alkaline substances in red mudRed mud. The results showed that with the introduction of carbon dioxideCarbon dioxide into the red mudRed mud at 35 °C, a liquid-to-solid ratio of 10, and an aeration capacity of 20 L/h for 30 min, the dealkalinizationDealkalinization rate of red mudRed mud reached 33.12%. The reduction in alkalinity was due to the acid–alkali neutralization reaction of carbon dioxideCarbon dioxide with alkali compound in red mudRed mud. The carbon dioxideCarbon dioxide in the flue gas has a dealkalinizationDealkalinization effect on red mudRed mud, which can realize the dual purpose of red mudRed mud dealkalinizationDealkalinization and carbon dioxideCarbon dioxide neutralization.    
+
+    
+
+## Accounting for Greenhouse Gas Emissions in the Agricultural System of China Based on the Life Cycle Assessment Method   
+
+OpenAlex: https://openalex.org/W4393036763    
+Open access: True
+    
+[Jing Ning](https://openalex.org/A5057373114), [Chunmei Zhang](https://openalex.org/A5057508896), [Meng-Yan Hu](https://openalex.org/A5077543594), [Tiancheng Sun](https://openalex.org/A5006507500), Sustainability. 16(6)] 2024.https://doi.org/10.3390/su16062594 ([pdf](https://www.mdpi.com/2071-1050/16/6/2594/pdf?version=1711034254)).
+    
+Agricultural systems contribute nearly one-third of global anthropogenic GHG emissions and are an important source of GHGs globally. The clarification of the GHG emission pattern from agriculture is of paramount importance in the establishment of an agricultural emission reduction mechanism and the realization of China’s dual-carbon target. Based on the life cycle assessment method (LCA), this paper comprehensively quantifies the greenhouse gas emissions from the agricultural system in China, encompassing rice, wheat, and corn cultivation as well as animal husbandry including cows, horses, donkeys, mules, camels, pigs, and sheep. The analysis covers the period 2000–2020 and examines the spatial distribution, temporal trends, and structural changes in the greenhouse gas emissions within China’s agriculture sector. The main results are as follows: (1) from 2000 to 2020, China witnessed a consistent upward trajectory in its total agricultural GHG emissions, exhibiting an average annual growth rate of 0.73%. Notably, methane (CH4) emissions emerged as the largest contributor, displaying an overall fluctuating pattern. Carbon dioxide (CO2) emissions demonstrated intermittent increases with a noteworthy annual growth rate of 3%, signifying the most rapid expansion within this context. Conversely, nitrous oxide (N2O) emissions experienced decline over the specified period. (2) GHG emissions from cultivation demonstrate an upward trajectory, primarily driven by the CH4 emissions originating from rice cultivation and CO2 resulting from straw incineration. Conversely, GHG emissions stemming from animal husbandry declined, with the primary source being CH4 emissions arising from animal enteric fermentation. Agricultural N2O emissions predominantly arise due to manure management and nitrogen fertilizer application. (3) Agricultural greenhouse gas emissions exhibit significant variations in spatial distribution, gradually concentrating towards the North China Plain, the middle and lower reaches of the Yangtze River, and the northeast. Specifically, agricultural CH4 emissions are progressively concentrated in China’s pivotal rice-growing regions, encompassing the middle and lower reaches of the Yangtze River Plain, as well as livestock breeding areas like Inner Mongolia. Agricultural CO2 emissions primarily concentrate in dryland crop production zones such as North China and Northeast China. Meanwhile, Agricultural N2O emissions predominantly occur in Inner Mongolia and the North China Plain. China’s agricultural greenhouse gas emissions in 2020 show a significant spatial clustering effect, with hotspots primarily concentrated in Shandong, Anhui, Henan, and other regions and cold spots focused in the western and southern areas. The emission patterns of agricultural GHGs are closely intertwined with farming practices, regional development levels, and national policy; hence, tailored measures for emission reduction should be formulated based on specific crop types, livestock categories, agricultural production activities, and regional development characteristics.    
+
+    
+
+## Effects of Synthetic Fuel Co-firing of Heavy Fuel Oil for Marine User   
+
+OpenAlex: https://openalex.org/W4393134423    
+Open access: False
+    
+[Ken-ichi Sakurai](https://openalex.org/A5082976298), [Masaya Terada](https://openalex.org/A5047149216), Doryoku, Enerugi Gijutsu Shinpojiumu koen ronbunshu. 2023.27(0)] 2023.https://doi.org/10.1299/jsmepes.2023.27.d226.
+    
+Ships are required to improve their environmental performance, and fuel consumption regulations such as the EEXI regulations require the reduction of carbon dioxide emissions. These regulations require the same environmental performance from ships currently in service as from newbuildings, and conventional ships in service are reducing their maximum power output to reduce carbon dioxide emissions. Therefore, we investigated the effects of co-firing C fuel oil and synthetic fuel. Under the condition of 30[%] synthetic fuel blending, the engine speed was 265[rpm] at low speed, and the ignition time was 1[deg. In the presentation, combustion analysis will be presented along with exhaust gas characteristics.    
+
+    
+
+## Reactions   
+
+OpenAlex: https://openalex.org/W4393162112    
+Open access: True
+    
+, C&EN Global Enterprise. 102(9)] 2024.https://doi.org/10.1021/cen-10209-reactions ([pdf](https://pubs.acs.org/doi/pdf/10.1021/cen-10209-reactions)).
+    
+CLIMATE CHANGE Reactions ShareShare onFacebookTwitterWechatLinked InRedditEmail C&EN, 2024, 102 (9), p 3March 25, 2024Cite this:C&EN 102, 9, 3Letters to the editorCarbon capture from fermentation processesTwo items in the Feb. 12/19, 2024, issue (the letter "Direct Air Capture," page 5, and the article "Researchers Caution about Reliance on CO2 Removal," page 17) discuss some economic and sustainability issues related to the reduction of atmospheric carbon dioxide, which is needed to achieve goals on mitigating global warming. Ultimately, multiple approaches will be required. One approach that I hear little about is the capture and reuse of CO2 generated as a by-product of fermentation processes, including the anaerobic digestion of food and sewage waste. The CO2 is derived from various forms of biomass and generated in enclosed spaces at higher concentrations than air, which should make capture more efficient. I believe that the CO2 produced is typically just vented into the air.Anaerobic digestion facilities are already separating the digestion-generated CO2 from the biogas before the methane is used to generate renewable electricity. More CO2 could be captured from the flue gas. The Quantum Biopower anaerobic digestion facility where I send my food waste processes about 36,000 metric tons (t) of material annually and has reported that it avoids roughly 4,500 t of CO2 emissions annually. I've read that anaerobic digestion of sewage sludge at Boston's regional sewage treatment facility on Deer Island produces about 5 million ft3 (about 142,000 m3) of biogas daily, which I calculate as resulting in over 10 times as much CO2 (from the biogas and burning of methane) as the total CO2 produced from the Quantum Biopower facility. Scaling such facilities widely and capturing and using the generated CO2 in the production of, for example, aviation and other transportation fuels could significantly contribute to reducing fossil CO2 emissions and eventually to reducing atmospheric CO2 levels.William C. HorneBranford, ConnecticutSafety in imagesI read with interest the article by Geoffrey Kamadi "C&EN Talks with Stephen Cochrane, Antibiotics Researcher" (C&EN, Feb. 12/19, 2024, page 26). It looks like Dr. Cochrane is in a lab without his personal protective equipment (PPE). I recommend that future publications respect lab safety protocols by either showing people in lab with their PPE or adding a qualifying statement that all chemicals, etc. have been removed—as is done in the current American Chemical Society RAMP (recognize hazards, assess risks, minimize risks, and prepare for emergencies) lab safety videos. C&EN should set the correct example. We faculty have enough trouble getting students to comply with lab safety regulations. C&EN's support is requested. Thank you!Ruth Ann Cook MurphyAustin, TexasDownload PDF    
+
+    
+
+## Mitigating the Effect of Carbon Dioxide Contamination on Oil Cement Slurry   
+
+OpenAlex: https://openalex.org/W4393107509    
+Open access: False
+    
+[Thomas Ayotunde Adebayo](https://openalex.org/A5014293005), [Abdalla Alqhatani](https://openalex.org/A5094227450), [Ahmed Alkhemieri](https://openalex.org/A5094227451), Advances in science, technology & innovation. None(None)] 2024.https://doi.org/10.1007/978-3-031-43807-3_27.
+    
+Carbon dioxide contaminates cement slurry and changes the hardened cement physical properties such as porosity, permeability and flow properties. The effects of additives such as diesel and lime in various proportions to the cement slurry to reduce the effect of the carbon dioxide contamination of cement slurry was studied. Also, the possibility of replacing the Portland cement with a white Portland cement was studied. The permeability of the carbonized cement was reduced, on the average for diesel cement and white cement given a minimum reduction of about 29.8% and 4.6% respectively when compared to the minimum porosity of carbonized Portland cement. This is a good indication that the addition of white cement and diesel as additives enhanced a good cement job in terms of sealing off unwanted zone. It was discovered that while diesel additive to the cement slurry has a positive effect on mitigating the effect of the carbon dioxide contamination; the addition of small quantities of lime has adverse effects on the cement if it is contaminated with carbon dioxide leading to the carbonization of the Portland cement. Therefore, whenever there is the possibility of carbonization of cement slurry, diesel cement is recommended to be used instead of the normal Portland cement. For all the additives, carbonization increased the porosity as compared to the uncontaminated cement and this is expected. Increased porosity due to the cement carbonization is a measure of weakened strength of the cement but the observed permeability when the used diesel or white cement is so small that there is possibility that the cement will retain its integrity of isolating unwanted zones. For improved strength, there is a need to add a strength improver to the cement slurry whenever there is a possibility of carbon dioxide contamination.    
+
+    
+
+## Thermodynamically Efficient, Low-Emission Gas-to-Wire for Carbon Dioxide-Rich Natural Gas: Exhaust Gas Recycle and Rankine Cycle Intensifications   
+
+OpenAlex: https://openalex.org/W4393141920    
+Open access: True
+    
+[Israel Bernardo S. Poblete](https://openalex.org/A5004483120), [José Luiz de Medeiros](https://openalex.org/A5004811368), [Ofélia de Queiroz Fernandes Araújo](https://openalex.org/A5005281241), Processes. 12(4)] 2024.https://doi.org/10.3390/pr12040639 ([pdf](https://www.mdpi.com/2227-9717/12/4/639/pdf?version=1711121144)).
+    
+Onshore gas-to-wire is considered for 6.5 MMSm3/d of natural gas, with 44% mol carbon dioxide coming from offshore deep-water oil and gas fields. Base-case GTW-CONV is a conventional natural gas combined cycle, with a single-pressure Rankine cycle and 100% carbon dioxide emissions. The second variant, GTW-CCS, results from GTW-CONV with the addition of post-combustion aqueous monoethanolamine carbon capture, coupled to carbon dioxide dispatch to enhance oil recovery. Despite investment and power penalties, GTW-CCS generates both environmental and economic benefits due to carbon dioxide’s monetization for enhanced oil production. The third variant, GTW-CCS-EGR, adds two intensification layers over GTW-CCS, as follows: exhaust gas recycle and a triple-pressure Rankine cycle. Exhaust gas recycle is a beneficial intensification for carbon capture, bringing a 60% flue gas reduction (reduces column’s diameters) and a more than 100% increase in flue gas carbon dioxide content (increases driving force, reducing column’s height). GTW-CONV, GTW-CCS, and GTW-CCS-EGR were analyzed on techno-economic and environment–thermodynamic grounds. GTW-CCS-EGR’s thermodynamic analysis unveils 807 MW lost work (79.8%) in the combined cycle, followed by the post-combustion capture unit with 113 MW lost work (11.2%). GTW-CCS-EGR achieved a 35.34% thermodynamic efficiency, while GTW-CONV attained a 50.5% thermodynamic efficiency and 56% greater electricity exportation. Although carbon capture and storage imposes a 35.9% energy penalty, GTW-CCS-EGR reached a superior net value of 1816 MMUSD thanks to intensification and carbon dioxide monetization, avoiding 505.8 t/h of carbon emissions (emission factor 0.084 tCO2/MWh), while GTW-CONV entails 0.642 tCO2/MWh.    
 
     

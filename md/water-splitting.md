@@ -1,88 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Thu Mar 28 00:44:18 2024
+Created on Fri Mar 29 00:43:49 2024
 
-Found 37 results from 2024-03-21 to 2024-03-28
+Found 37 results from 2024-03-22 to 2024-03-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Ultrathin Amorphous NaIrRuOx Nanosheets with Rich Oxygen Vacancies for Efficient Acidic Water Oxidation   
-
-OpenAlex: https://openalex.org/W4392976595    
-Open access: False
-    
-[Junan Gao](https://openalex.org/A5037532055), [Xiaofeng Wu](https://openalex.org/A5039857226), [Xinying Teng](https://openalex.org/A5030374504), [Xin Jing](https://openalex.org/A5088703939), [Sung Lai Jimmy Yun](https://openalex.org/A5041609975), [Hong Zhao](https://openalex.org/A5013508332), [Jianwei Li](https://openalex.org/A5057639560), [Jie Zhang](https://openalex.org/A5008720433), Catalysis Today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.114660.
-    
-No abstract    
-
-    
-
-## Constructing Chainmail-Structured CoP/C Nanospheres as Highly Active Anodic Electrocatalysts for Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4392978618    
-Open access: False
-    
-[Nan Yang](https://openalex.org/A5045996279), [Tianpeng Liu](https://openalex.org/A5080236662), [Wenhao Liu](https://openalex.org/A5069021125), [Dong Cao](https://openalex.org/A5001966929), [Daojian Cheng](https://openalex.org/A5006520119), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c01132.
-    
-No abstract    
-
-    
-
-## Enhanced Electrocatalytic Oxygen Evolution by In Situ Growth of Tetrametallic Metal–Organic Framework Electrocatalyst FeCoNiMn-MOF on Nickel Foam   
-
-OpenAlex: https://openalex.org/W4392978700    
-Open access: False
-    
-[Sheng-Bin Mao](https://openalex.org/A5026480791), [Yeru Liang](https://openalex.org/A5028282885), [Siyang Jin](https://openalex.org/A5018098351), [Chaohui Zhou](https://openalex.org/A5006852616), [J. Pang](https://openalex.org/A5013783212), [Wei Xu](https://openalex.org/A5077306372), Inorganic Chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c00308.
-    
-No abstract    
-
-    
-
-## Observing Long-Lived Photogenerated Holes in Cobalt Oxyhydroxide Oxygen Evolution Catalysts   
-
-OpenAlex: https://openalex.org/W4392979881    
-Open access: False
-    
-[Ruben Mirzoyan](https://openalex.org/A5033073802), [Alec H. Follmer](https://openalex.org/A5059450539), [Ryan G. Hadt](https://openalex.org/A5071708486), ACS Applied Energy Materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c03269.
-    
-No abstract    
-
-    
-
-## Surface constructing FeOOH-decorated hollow cubic NixSy electrocatalyst for efficient oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4392982649    
-Open access: False
-    
-[Lianli Wang](https://openalex.org/A5061613109), [Hua Ye](https://openalex.org/A5065499122), [Linhua Wang](https://openalex.org/A5063912840), [Xu Sun](https://openalex.org/A5091116656), [Lingfeng Gao](https://openalex.org/A5087210075), [Yun‐Wu Li](https://openalex.org/A5057797547), [Jianmin Dou](https://openalex.org/A5015484008), Journal of Solid State Chemistry. None(None)] 2024.https://doi.org/10.1016/j.jssc.2024.124681.
-    
-No abstract    
-
-    
-
-## Electrochemical Activation in Vanadium Oxide with Rich Oxygen Vacancies for High-Performance Aqueous Zinc-Ion Batteries   
-
-OpenAlex: https://openalex.org/W4392999956    
-Open access: False
-    
-[Fangan Liang](https://openalex.org/A5017197362), [Min Chen](https://openalex.org/A5012718640), [Shu-Chao Zhang](https://openalex.org/A5064753758), [Zhengguang Zou](https://openalex.org/A5069493102), [Chuanqi Ge](https://openalex.org/A5066445918), [S. Jia](https://openalex.org/A5006361004), [Shangwang Le](https://openalex.org/A5019142299), [Feng Yu](https://openalex.org/A5086184115), [Jinxia Nong](https://openalex.org/A5039280201), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.3c07655.
-    
-No abstract    
-
-    
-
-## In Situ X-ray Absorption Spectroscopy of LaFeO3 and LaFeO3/LaNiO3 Thin Films in the Electrocatalytic Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4393003882    
-Open access: True
-    
-[Qijun Che](https://openalex.org/A5039401704), [Iris C. G. van den Bosch](https://openalex.org/A5031042160), [Phu Tran Phong Le](https://openalex.org/A5054425738), [Masoud Lazemi](https://openalex.org/A5057423649), [Emma van der Minne](https://openalex.org/A5021753479), [Yorick A. Birkhölzer](https://openalex.org/A5017296338), [Moritz Nunnenkamp](https://openalex.org/A5020067012), [Matt L. J. Peerlings](https://openalex.org/A5087884008), [Оlga V. Safonova](https://openalex.org/A5050871990), [Maarten Nachtegaal](https://openalex.org/A5046167960), [Gertjan Koster](https://openalex.org/A5060923565), [Christoph Baeumer](https://openalex.org/A5003154231), [Petra E. de Jongh](https://openalex.org/A5040096948), [Frank M. F. de Groot](https://openalex.org/A5052699796), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.3c07864 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.3c07864)).
-    
-No abstract    
-
-    
 
 ## Revolutionizing Zn-Air batteries with chainmail catalysts: Ultrathin carbon-encapsulated FeNi alloys on N-doped graphene for enhanced oxygen electrocatalysis   
 
@@ -282,6 +205,83 @@ No abstract
 
     
 
+## Abundant heterointerfaces in CoS2/MoS2 nanosheet array electrocatalysts for the enhanced oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4393107715    
+Open access: False
+    
+[Zhaojin Li](https://openalex.org/A5078711522), [Qian Ma](https://openalex.org/A5086320668), [Shaofei Zhang](https://openalex.org/A5084317268), [Di Zhang](https://openalex.org/A5030611214), [Huan Wang](https://openalex.org/A5009988205), [Qiujun Wang](https://openalex.org/A5039934460), [Huilan Sun](https://openalex.org/A5034278049), [Bo Wang](https://openalex.org/A5007175755), New Journal of Chemistry. None(None)] 2024.https://doi.org/10.1039/d4nj00357h.
+    
+The rich heterogeneous interface between CoS 2 and MoS 2 regulates the electronic structure and provides sufficient electrochemical active sites, thus forming a highly active region for the OER.    
+
+    
+
+## Constructing novel metal-free g-C3N4@HCOF-Ph heterojunctions through molecular expansion to enhance photogenerated carrier involved molecular oxygen activation and photocatalytic hydrogen evolution   
+
+OpenAlex: https://openalex.org/W4393109168    
+Open access: False
+    
+[Qingmei Tang](https://openalex.org/A5035419178), [Qingrong Cheng](https://openalex.org/A5039634196), [Zhiquan Pan](https://openalex.org/A5068445612), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4770114.
+    
+No abstract    
+
+    
+
+## Cr dopant regulating d-orbital electronic configuration of NiFe spinel oxide to improve oxygen evolution reaction in Zn-air battery   
+
+OpenAlex: https://openalex.org/W4393110836    
+Open access: False
+    
+[Shihui Liu](https://openalex.org/A5057127521), [Yao‐Cheng Shi](https://openalex.org/A5033120372), [Fengqin Tang](https://openalex.org/A5010623844), [Penggang Wei](https://openalex.org/A5063967789), [Wenrui Huang](https://openalex.org/A5015184948), [Jiapeng Wu](https://openalex.org/A5061934627), [Sujuan Zhao](https://openalex.org/A5029283807), [Jikui Zhu](https://openalex.org/A5033311780), [Chunhui Shi](https://openalex.org/A5000209298), [Libing Hu](https://openalex.org/A5055297727), Journal of Alloys and Compounds. 987(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174248.
+    
+No abstract    
+
+    
+
+## Transition metal-based layered double hydroxides and their derivatives for efficient oxygen evolution reaction   
+
+OpenAlex: https://openalex.org/W4393111188    
+Open access: False
+    
+[Chun Han](https://openalex.org/A5022194241), [Yunhe Zhao](https://openalex.org/A5021666111), [Yuan Yuan](https://openalex.org/A5011540763), [Zehua Guo](https://openalex.org/A5080690473), [Gong Chen](https://openalex.org/A5049778213), [Jack Yang](https://openalex.org/A5037410384), [Qi Bao](https://openalex.org/A5050289757), [Li Guo](https://openalex.org/A5028365905), [Chunxia Chen](https://openalex.org/A5058025282), International Journal of Hydrogen Energy. 63(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.150.
+    
+No abstract    
+
+    
+
+## Oxygen vacancy-rich CoMoO4/Carbon Nitride S-scheme heterojunction for boosted photocatalytic H2 production: microstructure regulation and charge transfer mechanism   
+
+OpenAlex: https://openalex.org/W4393115053    
+Open access: False
+    
+[Jiani Qin](https://openalex.org/A5061959364), [Yanli Dong](https://openalex.org/A5035378312), [Xiaojuan Lai](https://openalex.org/A5046079326), [Bo Su](https://openalex.org/A5048609803), [Bao Pan](https://openalex.org/A5059787779), [Chuanyi Wang](https://openalex.org/A5084410248), [Sibo Wang](https://openalex.org/A5066759526), Journal of Materials Science & Technology. None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.02.032.
+    
+No abstract    
+
+    
+
+## Zn‐Leaching Induced Rapid Self‐Reconstruction of NiFe‐Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024)   
+
+OpenAlex: https://openalex.org/W4393120024    
+Open access: True
+    
+[Haonan Guo](https://openalex.org/A5086712260), [Lei Zhang](https://openalex.org/A5071798264), [Deliu Ou](https://openalex.org/A5072873062), [Qiao Liu](https://openalex.org/A5072085683), [Zhaohui Wu](https://openalex.org/A5051045584), [Weiyou Yang](https://openalex.org/A5072403367), [Zhi Fang](https://openalex.org/A5066956428), [Qing Shi](https://openalex.org/A5017607299), Small. 20(12)] 2024.https://doi.org/10.1002/smll.202470098 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470098)).
+    
+SmallVolume 20, Issue 12 2470098 FrontispieceFree Access Zn-Leaching Induced Rapid Self-Reconstruction of NiFe-Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024) Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author First published: 22 March 2024 https://doi.org/10.1002/smll.202470098AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2307069, Zhisheng Wu, Zhi Fang, Qing Shi, and co-workers report a simple and fast strategy to promote self reconstruction of NiFe-layered double hydroxides and form highly active NiFeOOH centers. The trace Zn dopants have been introduced in advance, followed by leaching over the electrochemical activation process. The self-restructured NiFeOOH-VZn exhibits excellent catalytic activity and stability for the oxygen evolution reaction. Volume20, Issue12March 22, 20242470098 RelatedInformation    
+
+    
+
+## Preparation of NiFeCoMnCr Hydroxide on Nickel Foam by Corrosion Method and its Enhanced Electrochemical Performance in Oxygen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4393130679    
+Open access: False
+    
+[Hyein Lee](https://openalex.org/A5024316673), [Min‐Ho Han](https://openalex.org/A5044838419), [Hee-Jin Noh](https://openalex.org/A5064245264), [Taekyung Yu](https://openalex.org/A5008933483), Korean Journal of Chemical Engineering. None(None)] 2024.https://doi.org/10.1007/s11814-024-00160-y.
+    
+No abstract    
+
+    
+
 ## Interface Engineering of Electrocatalysts for Efficient and Selective Oxygen Evolution in Alkaline/Seawater   
 
 OpenAlex: https://openalex.org/W4393161543    
@@ -312,17 +312,6 @@ Open access: False
 [Ke Zhao](https://openalex.org/A5073479438), [Xiao Chen](https://openalex.org/A5038328764), [Haixia Liu](https://openalex.org/A5045527589), [Jianfeng Wang](https://openalex.org/A5025592561), [Jie Zhang](https://openalex.org/A5001063931), ACS Applied Nano Materials. None(None)] 2024.https://doi.org/10.1021/acsanm.3c05856.
     
 It is important for the practical application of water electrolysis to explore stable and earth-rich bifunctional catalysts for oxygen evolution reaction (OER) and urea oxidation reaction (UOR). An immersion-selenization strategy was proposed to prepare CoSe2/Co nanorods anchored on Co foam as bifunctional catalysts for OER and UOR. Due to the self-supported properties of CoSe2/Co and its unique nanorod structure, the OER activity is enhanced, showing an overpotential of 318 mV and a Tafel slope of 91.11 mV dec–1. In addition, the electrode showed excellent electrocatalytic UOR activity with an overpotential of 260 mV and a Tafel slope of 94.83 mV dec–1. The nanorod structure was basically retained after a 28 h durability test. This work provides a broad approach to the development of low-cost bifunctional electrocatalysts.    
-
-    
-
-## Transition metal-based layered double hydroxides and their derivatives for efficient oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4393111188    
-Open access: False
-    
-[Chun Han](https://openalex.org/A5022194241), [Yunhe Zhao](https://openalex.org/A5021666111), [Yuan Yuan](https://openalex.org/A5011540763), [Zehua Guo](https://openalex.org/A5080690473), [Gong Chen](https://openalex.org/A5049778213), [Jack Yang](https://openalex.org/A5037410384), [Qi Bao](https://openalex.org/A5050289757), [Li Guo](https://openalex.org/A5028365905), [Chunxia Chen](https://openalex.org/A5058025282), International Journal of Hydrogen Energy. 63(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.150.
-    
-No abstract    
 
     
 
@@ -392,24 +381,35 @@ The development and design of high performance OER catalyst is the key to electr
 
     
 
-## Preparation of NiFeCoMnCr Hydroxide on Nickel Foam by Corrosion Method and its Enhanced Electrochemical Performance in Oxygen Evolution Reaction   
+## Iron Integration in Nickel Hydroxide Matrix vs Surface for Oxygen-Evolution Reaction: Where the Nernst Equation Does Not Work   
 
-OpenAlex: https://openalex.org/W4393130679    
+OpenAlex: https://openalex.org/W4393144203    
 Open access: False
     
-[Hyein Lee](https://openalex.org/A5024316673), [Min‐Ho Han](https://openalex.org/A5044838419), [Hee-Jin Noh](https://openalex.org/A5064245264), [Taekyung Yu](https://openalex.org/A5008933483), Korean Journal of Chemical Engineering. None(None)] 2024.https://doi.org/10.1007/s11814-024-00160-y.
+[Mohammad Saleh Ali Akbari](https://openalex.org/A5020471931), [Subhajit Nandy](https://openalex.org/A5047020055), [Keun Hwa Chae](https://openalex.org/A5063597709), [Mohammad Mahdi Najafpour](https://openalex.org/A5047640712), The Journal of Physical Chemistry Letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c00604.
     
 No abstract    
 
     
 
-## Zn‐Leaching Induced Rapid Self‐Reconstruction of NiFe‐Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024)   
+## Iron-doped cobalt phosphide nanowires prepared via one-step solvothermal phosphidization of metal–organic frameworks for the oxygen evolution reactions   
 
-OpenAlex: https://openalex.org/W4393120024    
+OpenAlex: https://openalex.org/W4393170501    
+Open access: False
+    
+[Jianbo Tong](https://openalex.org/A5038487257), [Yichuang Xing](https://openalex.org/A5044626392), [Xuechun Xiao](https://openalex.org/A5075441298), [Yuan Liu](https://openalex.org/A5010274839), [Zhiping Hu](https://openalex.org/A5043199080), [Zeyi Wang](https://openalex.org/A5015077424), [Yafei Hu](https://openalex.org/A5028748116), [B. Xin](https://openalex.org/A5086324364), [Shuling Liu](https://openalex.org/A5010940638), [He Wang](https://openalex.org/A5021471823), [Chao Wang](https://openalex.org/A5061165588), Green Chemistry. None(None)] 2024.https://doi.org/10.1039/d4gc00132j.
+    
+A solvothermal phosphidization method is adopted to construct CoFeP nanowires to electrochemically catalyze oxygen evolution reaction.    
+
+    
+
+## Fabrication of nanocrystalline high-entropy oxide CoNiFeCrMnOx thin film electrodes by dip-coating for oxygen evolution electrocatalysis   
+
+OpenAlex: https://openalex.org/W4393170112    
 Open access: True
     
-[Haonan Guo](https://openalex.org/A5086712260), [Lei Zhang](https://openalex.org/A5071798264), [Deliu Ou](https://openalex.org/A5072873062), [Qiao Liu](https://openalex.org/A5072085683), [Zhaohui Wu](https://openalex.org/A5051045584), [Weiyou Yang](https://openalex.org/A5072403367), [Zhi Fang](https://openalex.org/A5066956428), [Qing Shi](https://openalex.org/A5017607299), Small. 20(12)] 2024.https://doi.org/10.1002/smll.202470098 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470098)).
+[Qingyin Wu](https://openalex.org/A5004982680), [Achim Alkemper](https://openalex.org/A5092416365), [Stefan Lauterbach](https://openalex.org/A5058407349), [Jan P. Hofmann](https://openalex.org/A5039183696), [Marcus Einert](https://openalex.org/A5076962213), Energy advances. None(None)] 2024.https://doi.org/10.1039/d4ya00026a ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ya/d4ya00026a)).
     
-SmallVolume 20, Issue 12 2470098 FrontispieceFree Access Zn-Leaching Induced Rapid Self-Reconstruction of NiFe-Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024) Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author First published: 22 March 2024 https://doi.org/10.1002/smll.202470098AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2307069, Zhisheng Wu, Zhi Fang, Qing Shi, and co-workers report a simple and fast strategy to promote self reconstruction of NiFe-layered double hydroxides and form highly active NiFeOOH centers. The trace Zn dopants have been introduced in advance, followed by leaching over the electrochemical activation process. The self-restructured NiFeOOH-VZn exhibits excellent catalytic activity and stability for the oxygen evolution reaction. Volume20, Issue12March 22, 20242470098 RelatedInformation    
+Nanocrystalline high-entropy CoNiFeCrMnO x thin films were prepared by dip-coating and annealing at 400 °C, showing stable oxygen evolution with overpotentials of 258 mV vs. RHE at 10 mA cm −2 over 10 hours in alkaline media.    
 
     
