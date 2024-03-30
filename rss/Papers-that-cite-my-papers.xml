@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:42:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Unraveling the crucial contribution of additive chromate to efficient and stable alkaline seawater oxidation on Ni-based layered double hydroxides</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.03.132</link>
-      <description>Lin Yang, Yao Ding, Xueqing Niu, Xinyue Xu, Kaicai Fan, Wen Ye, Lingbo Zong, Xingwei Li, Xiaofan Du, Tianrong Zhan, Journal of Colloid and Interface Science. None(None)] 2024. https://openalex.org/W4393029507
-
-                No abstract</description>
-      <author>Lin Yang, Yao Ding, Xueqing Niu, Xinyue Xu, Kaicai Fan, Wen Ye, Lingbo Zong, Xingwei Li, Xiaofan Du, Tianrong Zhan</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.132</guid>
-    </item>
-    <item>
-      <title>Locating Transition States by Variational Reaction Path Optimization with an Energy-Derivative-Free Objective Function</title>
-      <link>https://doi.org/10.1021/acs.jctc.3c01246</link>
-      <description>Shin-ichi Koda, Shinji Saito, Journal of Chemical Theory and Computation. None(None)] 2024. https://openalex.org/W4393031108
-
-                No abstract</description>
-      <author>Shin-ichi Koda, Shinji Saito</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.3c01246</guid>
-    </item>
-    <item>
-      <title>Efficient Machine Learning Model Focusing on Active Sites for the Discovery of Bifunctional Oxygen Electrocatalysts in Binary Alloys</title>
-      <link>https://doi.org/10.1021/acsami.3c17377</link>
-      <description>C Y Wang, Bing Wang, Changhao Wang, Zhipeng Chang, Mengqi Yang, Ruzhi Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4393039373
-
-                No abstract</description>
-      <author>C Y Wang, Bing Wang, Changhao Wang, Zhipeng Chang, Mengqi Yang, Ruzhi Wang</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17377</guid>
-    </item>
-    <item>
-      <title>Converging Divergent Paths: Constant Charge vs Constant Potential Energetics in Computational Electrochemistry</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07954</link>
-      <description>Nicolas G. H&#246;rmann, Simeon D. Beinlich, Karsten Reuter, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393040617
-
-                Using the example of a proton adsorption process, we analyze and compare two prominent modeling approaches in computational electrochemistry at metallic electrodes&#9472;electronically canonical, constant-charge and electronically grand-canonical, constant-potential calculations. We first confirm that both methodologies yield consistent results for the differential free energy change in the infinite cell size limit. This validation emphasizes that, fundamentally, both methods are equally valid and precise. In practice, the grand-canonical, constant-potential approach shows superior interpretability and size convergence as it aligns closer to experimental ensembles and exhibits smaller finite-size effects. On the other hand, constant-charge calculations exhibit greater resilience against discrepancies, such as deviations in interfacial capacitance and absolute potential alignment, as their results inherently only depend on the surface charge and not on the modeled charge vs potential relation. The present analysis thus offers valuable insights and guidance for selecting the most appropriate ensemble when addressing diverse electrochemical challenges.</description>
-      <author>Nicolas G. H&#246;rmann, Simeon D. Beinlich, Karsten Reuter</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07954</guid>
-    </item>
-    <item>
-      <title>On the Thermodynamic Equivalence of Grand Canonical, Infinite&#8208;Size, and Capacitor&#8208;Based Models in First&#8208;Principle Electrochemistry</title>
-      <link>https://doi.org/10.1002/cphc.202300950</link>
-      <description>Georg Kastlunger, Sudarshan Vijay, Xi Chen, Shubham Sharma, Andrew A. Peterson, ChemPhysChem. None(None)] 2024. https://openalex.org/W4393044438
-
-                Abstract First principles&#8208;based computational and theoretical methods are constantly evolving trying to overcome the many obstacles towards a comprehensive understanding of electrochemical processes on an atomistic level. One of the major challenges has been the determination of reaction energetics under a constant potential. Here, a theoretical framework was proposed applying standard electronic structure methods and extrapolating to the infinite&#8208;cell size limit where reactions do not alter the potential. Today, electronically grand canonical modifications to electronic structure methods, holding the potential constant by varying the number of electrons in a finite simulation cell, become increasingly popular. In this perspective, we show that these two schemes are thermodynamically equivalent. Further, we link these methods to capacitive models of the interface, in the limit that the capacitance of the charging components (whether continuum or atomistic) are equal and invariant along the reaction pathway. We benchmark the three approaches with an example of alkali cation adsorption on Pt(111) showing that all three approaches converge in the cases of Li, Na and K. For Cs, however, strong deviation from the ideal conditions leads to a spread in the respective results. We discuss the latter by highlighting the cases of broken equivalence and assumptions among the approaches.</description>
-      <author>Georg Kastlunger, Sudarshan Vijay, Xi Chen, Shubham Sharma, Andrew A. Peterson</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202300950</guid>
-    </item>
-    <item>
-      <title>CREST&#8212;A program for the exploration of low-energy molecular chemical space</title>
-      <link>https://doi.org/10.1063/5.0197592</link>
-      <description>Philipp Pracht, Stefan Grimme, Christoph Bannwarth, Fabian Bohle, Sebastian Ehlert, Gereon Feldmann, Johannes Gorges, Marcel M&#252;ller, Tim Stauch, Christoph Plett, Sebastian Spicher, Pit Steinbach, Patryk A. Weso&#322;owski, Felix Zeller, The Journal of Chemical Physics. 160(11)] 2024. https://openalex.org/W4393045038
-
-                Conformer&#8211;rotamer sampling tool (CREST) is an open-source program for the efficient and automated exploration of molecular chemical space. Originally developed in Pracht et al. [Phys. Chem. Chem. Phys. 22, 7169 (2020)] as an automated driver for calculations at the extended tight-binding level (xTB), it offers a variety of molecular- and metadynamics simulations, geometry optimization, and molecular structure analysis capabilities. Implemented algorithms include automated procedures for conformational sampling, explicit solvation studies, the calculation of absolute molecular entropy, and the identification of molecular protonation and deprotonation sites. Calculations are set up to run concurrently, providing efficient single-node parallelization. CREST is designed to require minimal user input and comes with an implementation of the GFNn-xTB Hamiltonians and the GFN-FF force-field. Furthermore, interfaces to any quantum chemistry and force-field software can easily be created. In this article, we present recent developments in the CREST code and show a selection of applications for the most important features of the program. An important novelty is the refactored calculation backend, which provides significant speed-up for sampling of small or medium-sized drug molecules and allows for more sophisticated setups, for example, quantum mechanics/molecular mechanics and minimum energy crossing point calculations.</description>
-      <author>Philipp Pracht, Stefan Grimme, Christoph Bannwarth, Fabian Bohle, Sebastian Ehlert, Gereon Feldmann, Johannes Gorges, Marcel M&#252;ller, Tim Stauch, Christoph Plett, Sebastian Spicher, Pit Steinbach, Patryk A. Weso&#322;owski, Felix Zeller</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0197592</guid>
-    </item>
-    <item>
-      <title>First-principles study of penta-CN2 quantum dots for efficient Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.016</link>
-      <description>Rupali Jindal, Rachana Yogi, Alok Shukla, International Journal of Hydrogen Energy. 63(None)] 2024. https://openalex.org/W4393059030
-
-                The objective of our research is to investigate the electrocatalytic properties of novel metal-free quantum dots (QDs) composed of the recently discovered 2D material penta-CN2, with the aim of replacing costly and scarce catalysts such as Pt and Pd. Employing a first-principles density functional theory (DFT) based approach, the geometries of the three penta-CN2 quantum dots (QDs) of increasing sizes, 3 &#215; 3, 3 &#215; 4, 4 &#215; 4 are optimized. Through comprehensive analysis, our research extensively explored the structural stability of penta-CN2 QDs, delved into their electronic properties, and assessed their catalytic performance concerning the Hydrogen Evolution Reaction (HER). Notably, the H-adsorbed penta-CN2 QDs exhibit a significant reduction in the HOMO-LUMO gap (Eg) ranging from 35% to 49% compared to the pristine QD. This observation underscores the crucial impact of H-adsorption on Penta-CN2 QD and is further supported by the appearance of mid-gap states in total and partial density of states plots. Next, we investigated their catalytic performance relevant to HER, using well-known descriptors: (i) adsorption energy, (ii) over-potential, (iii) Gibbs free energy and (iv) exchange current density along with the volcano curve. As far as size dependence of the catalytic performance is concerned, the value of the average change in Gibbs free energy, &#916;G(av), is minimum for 3 &#215; 3 penta&#8211;CN2 QD, with those of 3 &#215; 4 and 4 &#215; 4 QDs being slightly larger. Our calculations predict a high value of exchange current density 2.24&#215;10&#8722;3 A-cm&#8722;2 for one of the sites (N11 for 3 &#215; 3 QD), which we believe will lead to significantly enhanced HER properties. The minimum value of &#916;G=0.158eV for a 3 &#215; 3 penta-CN2 QD implies that its catalytic performance is at least as effective or perhaps better than most of the metal-free hybrid and non-hybrid structures. Our research outcomes hold great promise in advancing the discovery of abundant, non-toxic, and cost-effective catalysts for HER, playing a vital role in facilitating large-scale hydrogen production.</description>
-      <author>Rupali Jindal, Rachana Yogi, Alok Shukla</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.016</guid>
-    </item>
-    <item>
-      <title>Unleashing the versatility of porous nanoarchitectures: A voyage for sustainable electrocatalytic water splitting</title>
-      <link>https://doi.org/10.1016/s1872-2067(23)64581-4</link>
-      <description>Jian Yiing Loh, Joel Jie Foo, Feng Ming Yap, Hanfeng Liang, Wee&#8208;Jun Ong, Chinese Journal of Catalysis. 58(None)] 2024. https://openalex.org/W4393063102
-
-                No abstract</description>
-      <author>Jian Yiing Loh, Joel Jie Foo, Feng Ming Yap, Hanfeng Liang, Wee&#8208;Jun Ong</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(23)64581-4</guid>
-    </item>
     <item>
       <title>Cooperative Effects Drive Water Oxidation Catalysis in Cobalt Electrocatalysts through the Destabilization of Intermediates</title>
       <link>https://doi.org/10.1021/jacs.3c11651</link>
@@ -258,14 +178,44 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150690</guid>
     </item>
     <item>
-      <title>The Potential of Neural Network Potentials</title>
-      <link>https://doi.org/10.1021/acsphyschemau.4c00004</link>
-      <description>Timothy T. Duignan, ACS Physical Chemistry Au. None(None)] 2024. https://openalex.org/W4393037991
+      <title>DFT Understanding of the Oxygen Reduction to Hydrogen Peroxide on Graphene Modified by Oxygen Functional Groups</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01118</link>
+      <description>Yang Song, Chaoquan Hu, Chang Li, Xuebing Xu, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393149361
 
                 No abstract</description>
-      <author>Timothy T. Duignan</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.4c00004</guid>
+      <author>Yang Song, Chaoquan Hu, Chang Li, Xuebing Xu</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01118</guid>
+    </item>
+    <item>
+      <title>Toward transferable empirical valence bonds: Making classical force fields reactive</title>
+      <link>https://doi.org/10.1063/5.0196952</link>
+      <description>Alice Allen, G&#225;bor C&#347;anyi, The Journal of Chemical Physics. 160(12)] 2024. https://openalex.org/W4393152642
+
+                The empirical valence bond technique allows classical force fields to model reactive processes. However, parametrization from experimental data or quantum mechanical calculations is required for each reaction present in the simulation. We show that the parameters present in the empirical valence bond method can be predicted using a neural network model and the SMILES strings describing a reaction. This removes the need for quantum calculations in the parametrization of the empirical valence bond technique. In doing so, we have taken the first steps toward defining a new procedure for enabling reactive atomistic simulations. This procedure would allow researchers to use existing classical force fields for reactive simulations, without performing additional quantum mechanical calculations.</description>
+      <author>Alice Allen, G&#225;bor C&#347;anyi</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0196952</guid>
+    </item>
+    <item>
+      <title>Role of Electrolyte pH on Water Oxidation for Iridium Oxides</title>
+      <link>https://doi.org/10.1021/jacs.3c12011</link>
+      <description>Caiwu Liang, Yu Katayama, Yemin Tao, Asuka Morinaga, Benjamin Moss, Ver&#243;nica Celorrio, Mary P. Ryan, Ifan E. L. Stephens, James R. Durrant, Reshma R. Rao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4393157935
+
+                Understanding the effect of noncovalent interactions of intermediates at the polarized catalyst&#8211;electrolyte interface on water oxidation kinetics is key for designing more active and stable electrocatalysts. Here, we combine operando optical spectroscopy, X-ray absorption spectroscopy (XAS), and surface-enhanced infrared absorption spectroscopy (SEIRAS) to probe the effect of noncovalent interactions on the oxygen evolution reaction (OER) activity of IrOx in acidic and alkaline electrolytes. Our results suggest that the active species for the OER (Ir4.x+&#8211;*O) binds much stronger in alkaline compared with acid at low coverage, while the repulsive interactions between these species are higher in alkaline electrolytes. These differences are attributed to the larger fraction of water within the cation hydration shell at the interface in alkaline electrolytes compared to acidic electrolytes, which can stabilize oxygenated intermediates and facilitate long-range interactions between them. Quantitative analysis of the state energetics shows that although the *O intermediates bind more strongly than optimal in alkaline electrolytes, the larger repulsive interaction between them results in a significant weakening of *O binding with increasing coverage, leading to similar energetics of active states in acid and alkaline at OER-relevant potentials. By directly probing the electrochemical interface with complementary spectroscopic techniques, our work goes beyond conventional computational descriptors of the OER activity to explain the experimentally observed OER kinetics of IrOx in acidic and alkaline electrolytes.</description>
+      <author>Caiwu Liang, Yu Katayama, Yemin Tao, Asuka Morinaga, Benjamin Moss, Ver&#243;nica Celorrio, Mary P. Ryan, Ifan E. L. Stephens, James R. Durrant, Reshma R. Rao</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c12011</guid>
+    </item>
+    <item>
+      <title>Electrochemical hydrogenation and oxidation of organic species involving water</title>
+      <link>https://doi.org/10.1038/s41570-024-00589-z</link>
+      <description>Cuibo Liu, Fanpeng Chen, Bohang Zhao, Yongmeng Wu, Bin Zhang, Nature Reviews Chemistry. None(None)] 2024. https://openalex.org/W4393163043
+
+                No abstract</description>
+      <author>Cuibo Liu, Fanpeng Chen, Bohang Zhao, Yongmeng Wu, Bin Zhang</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41570-024-00589-z</guid>
     </item>
     <item>
       <title>Perspectives on Advancing Sustainable CO&lt;sub&gt;2&lt;/sub&gt; Conversion Processes: Trinomial Technology, Environment, and Economy</title>

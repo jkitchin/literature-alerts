@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:42:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Revolutionizing Zn-Air batteries with chainmail catalysts: Ultrathin carbon-encapsulated FeNi alloys on N-doped graphene for enhanced oxygen electrocatalysis</title>
-      <link>https://doi.org/10.1016/s1872-2067(23)64603-0</link>
-      <description>Yibo Guo, Yuanyuan Xue, Zhen Zhou, Chinese Journal of Catalysis. 58(None)] 2024. https://openalex.org/W4393033727
-
-                No abstract</description>
-      <author>Yibo Guo, Yuanyuan Xue, Zhen Zhou</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/s1872-2067(23)64603-0</guid>
-    </item>
-    <item>
-      <title>Material dynamics for active and resilient oxygen evolution reaction in acid media</title>
-      <link>https://doi.org/10.1016/j.checat.2024.100956</link>
-      <description>Juliana Carneiro, Daniela V. Fraga Alvarez, Chem Catalysis. 4(3)] 2024. https://openalex.org/W4393037886
-
-                No abstract</description>
-      <author>Juliana Carneiro, Daniela V. Fraga Alvarez</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.100956</guid>
-    </item>
-    <item>
-      <title>Efficient Machine Learning Model Focusing on Active Sites for the Discovery of Bifunctional Oxygen Electrocatalysts in Binary Alloys</title>
-      <link>https://doi.org/10.1021/acsami.3c17377</link>
-      <description>C Y Wang, Bing Wang, Changhao Wang, Zhipeng Chang, Mengqi Yang, Ruzhi Wang, ACS Applied Materials &amp; Interfaces. None(None)] 2024. https://openalex.org/W4393039373
-
-                No abstract</description>
-      <author>C Y Wang, Bing Wang, Changhao Wang, Zhipeng Chang, Mengqi Yang, Ruzhi Wang</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c17377</guid>
-    </item>
-    <item>
-      <title>Heterointerface Engineering of hollow CoP/CeO2 p-n heterojunction for Efficient Electrocatalytic Oxygen Evolution</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104227</link>
-      <description>Xiaofan Zhang, Zhao-Rong Lai, Yipeng Ye, Xiaojing Su, Huali Xie, Yunhui Wu, Kunquan Li, Wenjian Wu, Surfaces and Interfaces. None(None)] 2024. https://openalex.org/W4393047353
-
-                No abstract</description>
-      <author>Xiaofan Zhang, Zhao-Rong Lai, Yipeng Ye, Xiaojing Su, Huali Xie, Yunhui Wu, Kunquan Li, Wenjian Wu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104227</guid>
-    </item>
-    <item>
-      <title>MOF-mediated synthesis of novel PtFeCoNiMn high-entropy nanoalloy as bifunctional oxygen electrocatalysts for zinc-air battery</title>
-      <link>https://doi.org/10.1007/s12274-024-6526-4</link>
-      <description>Mingyu Xie, Xin Xiao, Duojie Wu, Zhihui Cheng, Chunsheng Wu, Wenjuan Wang, Hao Nian, Fayan Li, Meng Gu, Qiang Xu, Nano Research. None(None)] 2024. https://openalex.org/W4393049171
-
-                No abstract</description>
-      <author>Mingyu Xie, Xin Xiao, Duojie Wu, Zhihui Cheng, Chunsheng Wu, Wenjuan Wang, Hao Nian, Fayan Li, Meng Gu, Qiang Xu</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6526-4</guid>
-    </item>
-    <item>
-      <title>Chemical Fabrication and Synergistic Mechanism of N-doped Carbon Modified with FeP as Catalysts for Flexible Rechargeable Zn-Air Batteries</title>
-      <link>https://doi.org/10.1039/d4se00197d</link>
-      <description>Xianli Wu, Ting Zhou, Gaorong Han, Shilin Liu, Mengmeng Cao, Shu-Qi Li, Jiawen Wang, Yanyan Liu, Jianchun Jiang, Yongfeng Wang, Baojun Li, Sustainable Energy and Fuels. None(None)] 2024. https://openalex.org/W4393049690
-
-                Low-cost and efficient electrocatalysts for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) are vital for the applications of flexible rechargeable Zinc-air batteries (ZABs). Herein, three-dimensional (3D) porous N-doping...</description>
-      <author>Xianli Wu, Ting Zhou, Gaorong Han, Shilin Liu, Mengmeng Cao, Shu-Qi Li, Jiawen Wang, Yanyan Liu, Jianchun Jiang, Yongfeng Wang, Baojun Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4se00197d</guid>
-    </item>
-    <item>
-      <title>Achieving Superior Oxygen Evolution of Perovskite via Phase Transition and Electrochemical Reconstruction Strategy</title>
-      <link>https://doi.org/10.1039/d3ee04338j</link>
-      <description>Yi-Ru Hao, Huaiguo Xue, Junqi Sun, Niankun Guo, Tianshan Song, Hongliang Dong, Zhonglong Zhao, Jiangwei Zhang, Aiqin Wang, Limin Wu, Energy and Environmental Science. None(None)] 2024. https://openalex.org/W4393050021
-
-                Surface reconstruction is an effective strategy to improve the OER performance of perovskite. However, understanding the reconstruction kinetics of perovskite and revealing real active sites for OER remain elusive. Herein,...</description>
-      <author>Yi-Ru Hao, Huaiguo Xue, Junqi Sun, Niankun Guo, Tianshan Song, Hongliang Dong, Zhonglong Zhao, Jiangwei Zhang, Aiqin Wang, Limin Wu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3ee04338j</guid>
-    </item>
-    <item>
-      <title>Activating Lattice Oxygen in a Nanoporous Crystalline/Amorphous NiFe(II, III)O&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;H&lt;sub&gt;&lt;i&gt;y&lt;/i&gt;&lt;/sub&gt; Heterostructure for Electrocatalytic Water Oxidation with Ampere-Level Activity and Durability</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c00318</link>
-      <description>Yu Tang, Wen Ge, Lanxian Shen, Peizhi Yang, Shukang Deng, Jinsong Wang, ACS Sustainable Chemistry &amp; Engineering. None(None)] 2024. https://openalex.org/W4393056441
-
-                Developing oxygen evolution reaction (OER) electrocatalysts with ampere-level activity and durability is an open challenge toward the final industrial application. Here, a nanoporous crystalline/amorphous nickel&#8211;iron oxyhydroxide heterostructure with abundant Fe2+ (c/a NiFe(II, III)OxHy) by partially substituting Ni2+ with Fe2+ is reported. Combination of X-ray absorption spectroscopy, in situ Raman, and density functional theory investigation suggested that the crystalline/amorphous structure with abundant cation defects and oxygen vacancy is conducive to lattice oxygen oxidation mechanism (LOM) and enhances OER kinetics. Fe2+ acts as an electron-sacrificing band to protect Fe3+ from overoxidation and promote the chemical stability. Meanwhile, the nanoporous structure can accelerate the detachment of the O2 and minimize structural oscillations to strengthen the mechanical stability. As a result, the c/a NiFe(II, III)OxHy catalyst not only exhibits superior electrocatalytic activity with an ultralow overpotential of 192 mV at 10 mA/cm2 and a Tafel slope of 41.8 mV/dec but also delivers industrial stability over 200 h at a current density of 1000 mA/cm2. This work provides a simple strategy and fundamental understanding for the development of industrial OER electrocatalysts.</description>
-      <author>Yu Tang, Wen Ge, Lanxian Shen, Peizhi Yang, Shukang Deng, Jinsong Wang</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c00318</guid>
-    </item>
     <item>
       <title>Modified photoanode by &lt;i&gt;in situ&lt;/i&gt; growth of covalent organic frameworks on BiVO&lt;sub&gt;4&lt;/sub&gt; for oxygen evolution reaction</title>
       <link>https://doi.org/10.1039/d4ra00899e</link>
@@ -258,14 +178,34 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s11814-024-00160-y</guid>
     </item>
     <item>
-      <title>Interface Engineering of Electrocatalysts for Efficient and Selective Oxygen Evolution in Alkaline/Seawater</title>
-      <link>https://doi.org/10.1002/cctc.202400125</link>
-      <description>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee, ChemCatChem. None(None)] 2024. https://openalex.org/W4393161543
+      <title>Highly dispersed carbon-encapsulated FeS/Fe3C nanoparticles distributed in Fe-N-C for enhanced oxygen electrocatalysis and Zn-air batteries</title>
+      <link>https://doi.org/10.1016/j.cej.2024.150673</link>
+      <description>Shuhui Sun, Fan Yang, Xiaoyun Zhang, Jialin Qian, Kexin Wei, Ji Hun An, Yang Sun, Shuyang Wang, Xi Li, Yongfeng Li, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4393131844
 
-                Electrochemical water splitting is regarded as an effective technology for producing green hydrogen, which is crucial for addressing energy and environmental challenges. In particular, direct seawater splitting offers significant economic and environmental advantages. However, its efficiency is hindered by the high overpotential required for the oxygen evolution reaction (OER) and the competition from chloride oxidation. This review highlights the potential of interface engineering to overcome these limitations and develop efficient OER electrocatalysts. We comprehensively explore recent advancements in interface engineering for OER in both alkaline and seawater environments. We begin by introducing the mechanisms of freshwater and seawater electrolysis, emphasizing key considerations for OER catalyst design. Subsequently, we review the recent progress made in various interface engineering strategies, analyzing their impact on OER performance in both electrolytes. Finally, we outline promising future directions for developing efficient seawater oxidation catalysts through interface engineering.</description>
-      <author>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400125</guid>
+                Transition metal single-atom catalysts (SACs) have been widely used in oxygen reduction reactions (ORR) and oxygen evolution reaction (OER) due to its greatest atomic utilization and low costs, which catalytic performance can be further enhanced by electron distribution adjustment. Herein, we synthesized a carbon-encapsulated FeS/Fe3C nanoparticles doped carbon-based Fe single atom catalyst from fluid catalytic cracking (FCC) slurry though a one-pot pyrolysis. The synergistic effect between FeS/Fe3C nanoparticles and Fe single atom structure (FeNx) promotes the ORR/OER processes, which may due to the reduction of the adsorption free energy of intermediates. Meanwhile, the polyaromatic hydrocarbon in FCC slurry enhances the graphitization of catalyst to facilitate charge transfer in electrocatalysis process, and the carbon-encapsulated nanoparticles sites possess higher stability and dispersion. As a result, the optimized catalyst (FeS/Fe3C@Fe-N-C) presents a high nanoparticles dispersion and graphitization level, which has a higher ORR catalytic ability (E1/2 = 0.91 V vs RHE) compared with commercial Pt/C (20 wt%, E1/2 = 0.879 V vs RHE) and a similar OER catalytic ability (E10 = 0.1.506 V vs RHE) compared with RuO2 (E10 = 1.518 V vs RHE). A liquid Zn-air battery assembled with FeS/Fe3C@Fe-N-C show a peak power density of 113 mW cm&#8722;2 and an open potential of 1.432 V. This work sheds light on a new method to design transition metal active sites carbon based single-atom catalyst for enhanced ORR and OER processes.</description>
+      <author>Shuhui Sun, Fan Yang, Xiaoyun Zhang, Jialin Qian, Kexin Wei, Ji Hun An, Yang Sun, Shuyang Wang, Xi Li, Yongfeng Li</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150673</guid>
+    </item>
+    <item>
+      <title>Dual-function CoP on nitrogen doped carbon framework with induced interfacial coupling for overall water splitting</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104224</link>
+      <description>Manting Zhang, Tingting Zhou, Gang Huang, Fengyan Han, Huaiyu Shao, Ting Hu, Caiqin Wang, Surfaces and Interfaces. 47(None)] 2024. https://openalex.org/W4393136880
+
+                Strong interfacial coupling in the hybrid catalysts could enhance catalytic performances. In this work, N, P were co-doped in zeolitic imidazolate framework-67 (ZIF-67) derived Co-based materials (denoted as CoP/NC) via in-situ carbonization and phosphating strategy, which accordingly induced strong interfacial coupling, leading to promote the catalytic activity in overall water splitting. In detail, the CoP/NC-2 presents the overpotential of 98 and 139 mV for hydrogen evolution reaction (HER) in 0.5 M H2SO4 and 1.0 M KOH at 10 mA cm&#8722;2, respectively, and 295 mV for oxygen evolution reaction (OER) in 1.0 M KOH at 20 mA cm&#8722;2, which is excellent during the non-noble metal-based catalysts. It also achieved a potential of 1.69 V (&#951;20) in the overall water splitting. Density functional theory (DFT) based calculation reveals that the in-situ N, P co-doping induced strong interface coupling, which enhances the interaction in the interface of catalysts and improves electron conduction. More importantly, it contributes to adjusting electronic structure and d-band center, optimizing the adsorption energy for HER and/or OER and improving the kinetics of water splitting reaction. This work sheds new light on the heteroatom doping strategy to construct bifunctional transition metal-based electrocatalyst with boosting electrocatalytic performance in energy conversion application.</description>
+      <author>Manting Zhang, Tingting Zhou, Gang Huang, Fengyan Han, Huaiyu Shao, Ting Hu, Caiqin Wang</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104224</guid>
+    </item>
+    <item>
+      <title>Unveiling the synergistic effect of amorphous CoW-phospho-borides for overall alkaline water electrolysis</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.03.090</link>
+      <description>Aniruddha Bhide, Suraj Gupta, Rinkoo Bhabal, Kishan H. Mali, B.R. Bhagat, Alpa Dashora, Maulik Patel, R. Fernandes, N. Patel, International Journal of Hydrogen Energy. 63(None)] 2024. https://openalex.org/W4393137824
+
+                Amorphous transition-metal-phospho-borides (TMPBs) are emerging as a new class of hybrid bifunctional catalysts for water-splitting. The present work reports the discovery of CoWPB as a new promising material that adds to the smaller family of TMPBs. The optimized compositions, namely Co4WPB5 and Co2WPB1 could achieve 10 mA/cm2 at just 72 mV and 262 mV of overpotentials for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), respectively, in 1 M KOH. Furthermore, the catalyst showed good performance in a 2-electrode assembly (1.59 V for 10 mA/cm2) with considerable stability (70 h stability, 10,000 operating cycles). Detailed morphological and electrochemical characterizations unveiled insights into the role of all elements in catalyst's improved performance. The presence of W was found to be crucial in improving the electronic conductivity and charge redistribution, making CoWPB suitable for both HER and OER. In computational simulation analysis, two configurations with different atomic environments, namely, CoWPBH and CoWPBO were found to have the lowest calculated overpotentials for HER and OER, respectively. It was found that the surface P-sites in CoWPBH were HER-active while the Co-sites in CoWPBO were OER-active sites. The study presents new knowledge about active sites in such multi-component catalysts that will foster more advancement in the area of water electrolysis.</description>
+      <author>Aniruddha Bhide, Suraj Gupta, Rinkoo Bhabal, Kishan H. Mali, B.R. Bhagat, Alpa Dashora, Maulik Patel, R. Fernandes, N. Patel</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.090</guid>
     </item>
     <item>
       <title>Ultrasound-Assisted Synthesis of High-Entropy Materials for Enhanced Oxygen Evolution Electrocatalysis</title>
@@ -278,14 +218,14 @@
       <guid isPermaLink="true">https://doi.org/10.3390/met14040384</guid>
     </item>
     <item>
-      <title>Self-Supported CoSe&lt;sub&gt;2&lt;/sub&gt; Nanorods for Efficient Oxygen Evolution and Urea Oxidation</title>
-      <link>https://doi.org/10.1021/acsanm.3c05856</link>
-      <description>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4393158032
+      <title>Iron Integration in Nickel Hydroxide Matrix vs Surface for Oxygen-Evolution Reaction: Where the Nernst Equation Does Not Work</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00604</link>
+      <description>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4393144203
 
-                It is important for the practical application of water electrolysis to explore stable and earth-rich bifunctional catalysts for oxygen evolution reaction (OER) and urea oxidation reaction (UOR). An immersion-selenization strategy was proposed to prepare CoSe2/Co nanorods anchored on Co foam as bifunctional catalysts for OER and UOR. Due to the self-supported properties of CoSe2/Co and its unique nanorod structure, the OER activity is enhanced, showing an overpotential of 318 mV and a Tafel slope of 91.11 mV dec&#8211;1. In addition, the electrode showed excellent electrocatalytic UOR activity with an overpotential of 260 mV and a Tafel slope of 94.83 mV dec&#8211;1. The nanorod structure was basically retained after a 28 h durability test. This work provides a broad approach to the development of low-cost bifunctional electrocatalysts.</description>
-      <author>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang</author>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05856</guid>
+                No abstract</description>
+      <author>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00604</guid>
     </item>
     <item>
       <title>Cerium Doping&#8208;Induced Enrichment of Ni 3 S 4 Phase for Boosting Oxygen Evolution Reaction</title>
@@ -296,6 +236,26 @@
       <author>Chunqing Gao, Lu Pan, Hong Wang, Hongyu Guo, Saad Melhi, Mohammed A. Amin, Jianjian Lin</author>
       <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400056</guid>
+    </item>
+    <item>
+      <title>Self-Supported CoSe&lt;sub&gt;2&lt;/sub&gt; Nanorods for Efficient Oxygen Evolution and Urea Oxidation</title>
+      <link>https://doi.org/10.1021/acsanm.3c05856</link>
+      <description>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4393158032
+
+                It is important for the practical application of water electrolysis to explore stable and earth-rich bifunctional catalysts for oxygen evolution reaction (OER) and urea oxidation reaction (UOR). An immersion-selenization strategy was proposed to prepare CoSe2/Co nanorods anchored on Co foam as bifunctional catalysts for OER and UOR. Due to the self-supported properties of CoSe2/Co and its unique nanorod structure, the OER activity is enhanced, showing an overpotential of 318 mV and a Tafel slope of 91.11 mV dec&#8211;1. In addition, the electrode showed excellent electrocatalytic UOR activity with an overpotential of 260 mV and a Tafel slope of 94.83 mV dec&#8211;1. The nanorod structure was basically retained after a 28 h durability test. This work provides a broad approach to the development of low-cost bifunctional electrocatalysts.</description>
+      <author>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang</author>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05856</guid>
+    </item>
+    <item>
+      <title>Interface Engineering of Electrocatalysts for Efficient and Selective Oxygen Evolution in Alkaline/Seawater</title>
+      <link>https://doi.org/10.1002/cctc.202400125</link>
+      <description>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee, ChemCatChem. None(None)] 2024. https://openalex.org/W4393161543
+
+                Electrochemical water splitting is regarded as an effective technology for producing green hydrogen, which is crucial for addressing energy and environmental challenges. In particular, direct seawater splitting offers significant economic and environmental advantages. However, its efficiency is hindered by the high overpotential required for the oxygen evolution reaction (OER) and the competition from chloride oxidation. This review highlights the potential of interface engineering to overcome these limitations and develop efficient OER electrocatalysts. We comprehensively explore recent advancements in interface engineering for OER in both alkaline and seawater environments. We begin by introducing the mechanisms of freshwater and seawater electrolysis, emphasizing key considerations for OER catalyst design. Subsequently, we review the recent progress made in various interface engineering strategies, analyzing their impact on OER performance in both electrolytes. Finally, we outline promising future directions for developing efficient seawater oxidation catalysts through interface engineering.</description>
+      <author>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400125</guid>
     </item>
     <item>
       <title>FeCoNiMgB high-entropy boride powder with a fluffy cotton structure and enhanced activity in the oxygen evolution reaction</title>
@@ -318,16 +278,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114657</guid>
     </item>
     <item>
-      <title>Deciphering the Underlying Mechanism of the Fourth Entity in Medium-Entropy Nicofemp Towards Boosting Oxygen Evolution Electrocatalysis</title>
-      <link>https://doi.org/10.2139/ssrn.4768125</link>
-      <description>Xue&#8208;Zhi Song, Xiaobing Wang, Tao Zhang, Yutong Meng, Dameng Liu, Yu&#8208;Xin Luan, Changguang Yao, Zhenquan Tan, Xiaofeng Wang, No host. None(None)] 2024. https://openalex.org/W4393063221
-
-                No abstract</description>
-      <author>Xue&#8208;Zhi Song, Xiaobing Wang, Tao Zhang, Yutong Meng, Dameng Liu, Yu&#8208;Xin Luan, Changguang Yao, Zhenquan Tan, Xiaofeng Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4768125</guid>
-    </item>
-    <item>
       <title>Catalysis of the Oxygen-Evolution Reaction in 1.0 M Sulfuric Acid by Manganese Antimonate Films Synthesized via Chemical Vapor Deposition</title>
       <link>https://doi.org/10.1021/acsaem.4c00135</link>
       <description>Jacqueline A. Dowling, Zachary P. Ifkovits, Azhar I. Carim, Jake M. Evans, Madeleine C. Swint, Alexandre Z. Ye, Matthias H. Richter, A. Li, Nathan S. Lewis, ACS Applied Energy Materials. None(None)] 2024. https://openalex.org/W4393164139
@@ -348,16 +298,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114053</guid>
     </item>
     <item>
-      <title>Iron Integration in Nickel Hydroxide Matrix vs Surface for Oxygen-Evolution Reaction: Where the Nernst Equation Does Not Work</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00604</link>
-      <description>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4393144203
-
-                No abstract</description>
-      <author>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00604</guid>
-    </item>
-    <item>
       <title>Iron-doped cobalt phosphide nanowires prepared &lt;i&gt;via&lt;/i&gt; one-step solvothermal phosphidization of metal&#8211;organic frameworks for the oxygen evolution reactions</title>
       <link>https://doi.org/10.1039/d4gc00132j</link>
       <description>Jianbo Tong, Yichuang Xing, Xuechun Xiao, Yuan Liu, Zhiping Hu, Zeyi Wang, Yafei Hu, B. Xin, Shuling Liu, He Wang, Chao Wang, Green Chemistry. None(None)] 2024. https://openalex.org/W4393170501
@@ -376,6 +316,16 @@
       <author>Qingyin Wu, Achim Alkemper, Stefan Lauterbach, Jan P. Hofmann, Marcus Einert</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ya00026a</guid>
+    </item>
+    <item>
+      <title>Exploring Ir-doped NiFe-LDH nanosheets &lt;i&gt;via&lt;/i&gt; a pulsed laser for oxygen evolution kinetics: &lt;i&gt;in situ&lt;/i&gt; Raman and DFT insights</title>
+      <link>https://doi.org/10.1039/d3ta07803e</link>
+      <description>Sieon Jung, Raja Arumugam Senthil, Ahreum Min, Anuj Kumar, Cheol Joo Moon, Gwang Hun Jeong, Tae Wu Kim, Myong Yong Choi, Journal of materials chemistry. A, Materials for energy and sustainability. None(None)] 2024. https://openalex.org/W4393107656
+
+                Herein, we present Ir-doped NiFe-LDH nanosheets synthesized via a pulsed laser irradiation strategy, showing superior electrocatalytic OER kinetics. We investigate the origin of activity in NiFeIr-LDH through in situ / operando Raman and DFT studies.</description>
+      <author>Sieon Jung, Raja Arumugam Senthil, Ahreum Min, Anuj Kumar, Cheol Joo Moon, Gwang Hun Jeong, Tae Wu Kim, Myong Yong Choi</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3ta07803e</guid>
     </item>
   </channel>
 </rss>

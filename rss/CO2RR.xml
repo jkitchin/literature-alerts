@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:42:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Digitalization and net-zero carbon: The role of industrial robots towards carbon dioxide emission reduction</title>
-      <link>https://doi.org/10.1016/j.jclepro.2024.141820</link>
-      <description>Weizhi Yao, Liang Liu, Hidemichi Fujii, Lianshui Li, Journal of Cleaner Production. None(None)] 2024. https://openalex.org/W4393039058
-
-                No abstract</description>
-      <author>Weizhi Yao, Liang Liu, Hidemichi Fujii, Lianshui Li</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.141820</guid>
-    </item>
     <item>
       <title>Single-atom anchored on curved boron nitride fullerene surface as efficient electrocatalyst for carbon dioxide reduction</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114040</link>
@@ -68,16 +58,6 @@
       <guid isPermaLink="true">https://doi.org/10.1149/1945-7111/ad377f</guid>
     </item>
     <item>
-      <title>Electrolyzer and Catalyst Engineering for Acidic CO2 Reduction</title>
-      <link>https://openalex.org/W4393057305</link>
-      <description>Alessandro Perazio, No host. None(None)] 2023. https://openalex.org/W4393057305
-
-                No abstract</description>
-      <author>Alessandro Perazio</author>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393057305</guid>
-    </item>
-    <item>
       <title>Photoelectrochemical Catalytic Co2 Reduction Enhanced by In-Doped Gan and Combined with Vibration Energy Harvester Driving Co2 Reduction</title>
       <link>https://doi.org/10.2139/ssrn.4772115</link>
       <description>Mingxiang Zhang, Li Wen, Shanghao Gu, Weihan Xu, Zhouguang Lu, Fei Wang, No host. None(None)] 2024. https://openalex.org/W4393143337
@@ -116,16 +96,6 @@
       <author>Suyun Lee, Jun-Hee Seo, Chanyeon Kim</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101490</guid>
-    </item>
-    <item>
-      <title>Efficient electrochemical reduction of CO2 to CO in flow cell device by a pristine Cu5tz6-cluster-based metal-organic framework</title>
-      <link>https://doi.org/10.1039/d4dt00189c</link>
-      <description>Zijing Li, Yingtong Lv, Haoliang Huang, Zijian Li, Tao Li, Linjuan Zhang, Jianqiang Wang, Dalton Transactions. None(None)] 2024. https://openalex.org/W4393060748
-
-                The electrochemical reduction of CO2 to CO is a powerful approach to achieve carbon neutrality. Herein, we report a five-nuclear copper cluster-based metal&#8211;azolate framework CuTz-1 as an electrocatalyst for the...</description>
-      <author>Zijing Li, Yingtong Lv, Haoliang Huang, Zijian Li, Tao Li, Linjuan Zhang, Jianqiang Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt00189c</guid>
     </item>
     <item>
       <title>One-pot two-step reduction of CO2 with amines and NaBH4 to N-substituted compounds at atmospheric pressure</title>
@@ -228,16 +198,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-50308-5_14</guid>
     </item>
     <item>
-      <title>Accounting for Greenhouse Gas Emissions in the Agricultural System of China Based on the Life Cycle Assessment Method</title>
-      <link>https://doi.org/10.3390/su16062594</link>
-      <description>Jing Ning, Chunmei Zhang, Meng-Yan Hu, Tiancheng Sun, Sustainability. 16(6)] 2024. https://openalex.org/W4393036763
-
-                Agricultural systems contribute nearly one-third of global anthropogenic GHG emissions and are an important source of GHGs globally. The clarification of the GHG emission pattern from agriculture is of paramount importance in the establishment of an agricultural emission reduction mechanism and the realization of China&#8217;s dual-carbon target. Based on the life cycle assessment method (LCA), this paper comprehensively quantifies the greenhouse gas emissions from the agricultural system in China, encompassing rice, wheat, and corn cultivation as well as animal husbandry including cows, horses, donkeys, mules, camels, pigs, and sheep. The analysis covers the period 2000&#8211;2020 and examines the spatial distribution, temporal trends, and structural changes in the greenhouse gas emissions within China&#8217;s agriculture sector. The main results are as follows: (1) from 2000 to 2020, China witnessed a consistent upward trajectory in its total agricultural GHG emissions, exhibiting an average annual growth rate of 0.73%. Notably, methane (CH4) emissions emerged as the largest contributor, displaying an overall fluctuating pattern. Carbon dioxide (CO2) emissions demonstrated intermittent increases with a noteworthy annual growth rate of 3%, signifying the most rapid expansion within this context. Conversely, nitrous oxide (N2O) emissions experienced decline over the specified period. (2) GHG emissions from cultivation demonstrate an upward trajectory, primarily driven by the CH4 emissions originating from rice cultivation and CO2 resulting from straw incineration. Conversely, GHG emissions stemming from animal husbandry declined, with the primary source being CH4 emissions arising from animal enteric fermentation. Agricultural N2O emissions predominantly arise due to manure management and nitrogen fertilizer application. (3) Agricultural greenhouse gas emissions exhibit significant variations in spatial distribution, gradually concentrating towards the North China Plain, the middle and lower reaches of the Yangtze River, and the northeast. Specifically, agricultural CH4 emissions are progressively concentrated in China&#8217;s pivotal rice-growing regions, encompassing the middle and lower reaches of the Yangtze River Plain, as well as livestock breeding areas like Inner Mongolia. Agricultural CO2 emissions primarily concentrate in dryland crop production zones such as North China and Northeast China. Meanwhile, Agricultural N2O emissions predominantly occur in Inner Mongolia and the North China Plain. China&#8217;s agricultural greenhouse gas emissions in 2020 show a significant spatial clustering effect, with hotspots primarily concentrated in Shandong, Anhui, Henan, and other regions and cold spots focused in the western and southern areas. The emission patterns of agricultural GHGs are closely intertwined with farming practices, regional development levels, and national policy; hence, tailored measures for emission reduction should be formulated based on specific crop types, livestock categories, agricultural production activities, and regional development characteristics.</description>
-      <author>Jing Ning, Chunmei Zhang, Meng-Yan Hu, Tiancheng Sun</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16062594</guid>
-    </item>
-    <item>
       <title>Effects of Synthetic Fuel Co-firing of Heavy Fuel Oil for Marine User</title>
       <link>https://doi.org/10.1299/jsmepes.2023.27.d226</link>
       <description>Ken-ichi Sakurai, Masaya Terada, Doryoku, Enerugi Gijutsu Shinpojiumu koen ronbunshu. 2023.27(0)] 2023. https://openalex.org/W4393134423
@@ -276,6 +236,46 @@
       <author>Israel Bernardo S. Poblete, Jos&#233; Luiz de Medeiros, Of&#233;lia de Queiroz Fernandes Ara&#250;jo</author>
       <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/pr12040639</guid>
+    </item>
+    <item>
+      <title>Future Climate Change in the Thermosphere under Varying Solar Activity Conditions.</title>
+      <link>https://doi.org/10.22541/essoar.171136724.40231179/v1</link>
+      <description>Matthew K. Brown, Hugh G. Lewis, A. J. Kavanagh, Ingrid Cnossen, Sean Elvidge, Authorea (Authorea). None(None)] 2024. https://openalex.org/W4393156922
+
+                Increasing carbon dioxide concentrations in the mesosphere and lower thermosphere are increasing radiative cooling in the upper atmosphere, leading to thermospheric contraction and decreased neutral mass densities at fixed altitudes. Previous studies of the historic neutral density trend have shown a dependence upon solar activity, with larger F10.7 values resulting in lower neutral density reductions. To investigate the impact on the future thermosphere, the Whole Atmosphere Community Climate Model with ionosphere and thermosphere extension (WACCM-X) has been used to simulate the thermosphere under increasing carbon dioxide concentrations and varying solar activity conditions. These neutral density reductions have then been mapped onto the Shared Socioeconomic Pathways (SSPs) published by the Intergovernmental Panel on Climate Change (IPCC). The neutral density reductions can also be used as a scaling factor, allowing commonly used empirical models to account for CO$_2$ trends. Under the&#8220;best case&#8217; SSP1-2.6 scenario, neutral densities reductions at 400 km altitude peak (when CO$_2$ = 474 ppm) at a reduction of 13 to 30\% (under high and low solar activity respectively) compared to the year 2000. Higher CO$_2$ concentrations lead to greater density reductions, with the largest modelled concentration of 890 ppm resulting in a 50 to 77 \% reduction at 400 km, under high and low solar activity respectively.</description>
+      <author>Matthew K. Brown, Hugh G. Lewis, A. J. Kavanagh, Ingrid Cnossen, Sean Elvidge</author>
+      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.22541/essoar.171136724.40231179/v1</guid>
+    </item>
+    <item>
+      <title>Performance assessment of photoelectrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction photocathodes with patterned electrocatalysts: a multi-physical model-based approach</title>
+      <link>https://doi.org/10.1039/d4ee00575a</link>
+      <description>Yuzhu Chen, Chengxiang Xiang, Meng Lin, Energy and Environmental Science. None(None)] 2024. https://openalex.org/W4393107755
+
+                A coupled multi-physical model-based framework was developed to quantitatively analyze the trade-offs of optical propagation, charge transport, mass transfer, and electrochemical reactions in a photocathode of photoelectrochemical (PEC) device for carbon dioxide reduction (CO 2 R).</description>
+      <author>Yuzhu Chen, Chengxiang Xiang, Meng Lin</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ee00575a</guid>
+    </item>
+    <item>
+      <title>Analysis of Factors Affecting Carbon Emissions based on Gray Correlation Analysis</title>
+      <link>https://doi.org/10.54691/41rt3m41</link>
+      <description>Yichuan Yang, Deyu Li, Frontiers in Sustainable Development. 4(3)] 2024. https://openalex.org/W4393070890
+
+                In order to explore the influencing factors of carbon dioxide emissions, this paper collects data on carbon emissions and several influencing factors that may be related to its changes from 2004 to 2021, considering that too many indicators may make the data redundant and lack of representativeness, using the K-Means clustering algorithm to classify the indicators and defining the names of the corresponding first-level indicators, and analyzing the elbow diagrams for the determination of the model K-value. For the determination of the K value of the model, the optimal number of clusters was analyzed using the elbow diagram, so that the center of each cluster as the first-level indicator data was spliced with the normalized emission data to form a new dataset, and the correlation coefficients between the first-level indicators and the carbon emissions were finally calculated using the grey correlation analysis method. The results show that the ability to mitigate carbon dioxide content has the greatest impact on carbon content, and the correlation coefficient between the two reaches 0.756, which indicates that increasing the green area is very effective in achieving the goal of energy saving and emission reduction.</description>
+      <author>Yichuan Yang, Deyu Li</author>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54691/41rt3m41</guid>
+    </item>
+    <item>
+      <title>Effectiveness of Water-Amine Combined Process for CO&lt;sub&gt;2&lt;/sub&gt; Extraction from Biogas</title>
+      <link>https://doi.org/10.2478/rtuect-2024-0012</link>
+      <description>H.V. Zhuk, Yu.V. Ivanov, &#1051;.&#1056;. &#1054;&#1085;&#1086;&#1087;&#1072;, Serhii Krushnevych, Mekhrzad Soltanibereshne, Environmental and Climate Technologies. 28(1)] 2024. https://openalex.org/W4393143820
+
+                Abstract The EU countries are implementing biomethane production projects from biogas, supplying it to the natural gas distribution grid, or using it as motor fuel. It is also extremely relevant for Ukraine, supposing the problems with gas import due to Russian aggression. Biogas production from landfills, agriculture waste, and sewage is already implemented in Ukraine, so the next step must be biomethane production on an industrial scale and the selection of biogas separation technology is important. Using 11 years of industrial experience in biogas production from landfills, wide experience of the different methane-containing gases separations, and small companies&#8217; industrial possibilities, the most applicable separation technologies for Ukraine were selected: amine, water, and combined water amine carbon dioxide separation. These technologies had compared using computer simulation with real landfill biogas flow rate debt. Results of a software simulation of the most applicable water-amine absorption technology were verified using a laboratory setup. For carbon dioxide concentration in biogas at 32&#8211;42 % vol., the specific energy consumption when using water absorption is on average 2 times less compared to amine absorption, but at the same time, the loss of methane due to its solubility in water during water absorption amounted to 7.1&#8211;7.6 %, with practically no losses in amine absorption, and minor losses at 0.17&#8211;2.8 % in combined water-amine technology. The energy consumption of combined water-amine absorption is comparable to that of water absorption due to: a) reduction of heat losses for the regeneration process of saturated amine absorbent, as part of carbon dioxide has already been removed with water technology; b) using the methane excess to compensate power consumption of the biogas compressor during the preliminary water absorption of carbon dioxide and/or to compensate heat costs of the saturated amine absorbent regeneration</description>
+      <author>H.V. Zhuk, Yu.V. Ivanov, &#1051;.&#1056;. &#1054;&#1085;&#1086;&#1087;&#1072;, Serhii Krushnevych, Mekhrzad Soltanibereshne</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2478/rtuect-2024-0012</guid>
     </item>
   </channel>
 </rss>

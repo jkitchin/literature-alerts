@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Mar 29 00:43:58 2024
+Created on Sat Mar 30 00:42:42 2024
 
-Found 29 results from 2024-03-22 to 2024-03-29
+Found 24 results from 2024-03-23 to 2024-03-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2330420711%7Chttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -12,94 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4200512871](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4200512871)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4220985611](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4220985611)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W4255008889%7Chttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W4392322282%7Chttps%3A//openalex.org/W4392322290%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W2992838914%7Chttps%3A//openalex.org/W2993324324%7Chttps%3A//openalex.org/W4255008889%7Chttps%3A//openalex.org/W4255519766%7Chttps%3A//openalex.org/W4392322282%7Chttps%3A//openalex.org/W4392322290%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## Unraveling the crucial contribution of additive chromate to efficient and stable alkaline seawater oxidation on Ni-based layered double hydroxides   
-
-OpenAlex: https://openalex.org/W4393029507    
-Open access: False
-    
-[Lin Yang](https://openalex.org/A5046779897), [Yao Ding](https://openalex.org/A5021782238), [Xueqing Niu](https://openalex.org/A5000475902), [Xinyue Xu](https://openalex.org/A5013397647), [Kaicai Fan](https://openalex.org/A5036358304), [Wen Ye](https://openalex.org/A5090454827), [Lingbo Zong](https://openalex.org/A5023224543), [Xingwei Li](https://openalex.org/A5061667297), [Xiaofan Du](https://openalex.org/A5041920497), [Tianrong Zhan](https://openalex.org/A5016055692), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.132.
-    
-No abstract    
-
-    
-
-## Locating Transition States by Variational Reaction Path Optimization with an Energy-Derivative-Free Objective Function   
-
-OpenAlex: https://openalex.org/W4393031108    
-Open access: False
-    
-[Shin-ichi Koda](https://openalex.org/A5079870436), [Shinji Saito](https://openalex.org/A5007756230), Journal of Chemical Theory and Computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.3c01246.
-    
-No abstract    
-
-    
-
-## Efficient Machine Learning Model Focusing on Active Sites for the Discovery of Bifunctional Oxygen Electrocatalysts in Binary Alloys   
-
-OpenAlex: https://openalex.org/W4393039373    
-Open access: False
-    
-[C Y Wang](https://openalex.org/A5049867502), [Bing Wang](https://openalex.org/A5006421709), [Changhao Wang](https://openalex.org/A5053689795), [Zhipeng Chang](https://openalex.org/A5086456117), [Mengqi Yang](https://openalex.org/A5041426175), [Ruzhi Wang](https://openalex.org/A5048314994), ACS Applied Materials & Interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.3c17377.
-    
-No abstract    
-
-    
-
-## Converging Divergent Paths: Constant Charge vs Constant Potential Energetics in Computational Electrochemistry   
-
-OpenAlex: https://openalex.org/W4393040617    
-Open access: True
-    
-[Nicolas G. Hörmann](https://openalex.org/A5058877196), [Simeon D. Beinlich](https://openalex.org/A5028107383), [Karsten Reuter](https://openalex.org/A5024866637), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.3c07954 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.3c07954)).
-    
-Using the example of a proton adsorption process, we analyze and compare two prominent modeling approaches in computational electrochemistry at metallic electrodes─electronically canonical, constant-charge and electronically grand-canonical, constant-potential calculations. We first confirm that both methodologies yield consistent results for the differential free energy change in the infinite cell size limit. This validation emphasizes that, fundamentally, both methods are equally valid and precise. In practice, the grand-canonical, constant-potential approach shows superior interpretability and size convergence as it aligns closer to experimental ensembles and exhibits smaller finite-size effects. On the other hand, constant-charge calculations exhibit greater resilience against discrepancies, such as deviations in interfacial capacitance and absolute potential alignment, as their results inherently only depend on the surface charge and not on the modeled charge vs potential relation. The present analysis thus offers valuable insights and guidance for selecting the most appropriate ensemble when addressing diverse electrochemical challenges.    
-
-    
-
-## On the Thermodynamic Equivalence of Grand Canonical, Infinite‐Size, and Capacitor‐Based Models in First‐Principle Electrochemistry   
-
-OpenAlex: https://openalex.org/W4393044438    
-Open access: True
-    
-[Georg Kastlunger](https://openalex.org/A5007416206), [Sudarshan Vijay](https://openalex.org/A5035644160), [Xi Chen](https://openalex.org/A5084907332), [Shubham Sharma](https://openalex.org/A5000660370), [Andrew A. Peterson](https://openalex.org/A5049777382), ChemPhysChem. None(None)] 2024.https://doi.org/10.1002/cphc.202300950 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cphc.202300950)).
-    
-Abstract First principles‐based computational and theoretical methods are constantly evolving trying to overcome the many obstacles towards a comprehensive understanding of electrochemical processes on an atomistic level. One of the major challenges has been the determination of reaction energetics under a constant potential. Here, a theoretical framework was proposed applying standard electronic structure methods and extrapolating to the infinite‐cell size limit where reactions do not alter the potential. Today, electronically grand canonical modifications to electronic structure methods, holding the potential constant by varying the number of electrons in a finite simulation cell, become increasingly popular. In this perspective, we show that these two schemes are thermodynamically equivalent. Further, we link these methods to capacitive models of the interface, in the limit that the capacitance of the charging components (whether continuum or atomistic) are equal and invariant along the reaction pathway. We benchmark the three approaches with an example of alkali cation adsorption on Pt(111) showing that all three approaches converge in the cases of Li, Na and K. For Cs, however, strong deviation from the ideal conditions leads to a spread in the respective results. We discuss the latter by highlighting the cases of broken equivalence and assumptions among the approaches.    
-
-    
-
-## CREST—A program for the exploration of low-energy molecular chemical space   
-
-OpenAlex: https://openalex.org/W4393045038    
-Open access: True
-    
-[Philipp Pracht](https://openalex.org/A5070405326), [Stefan Grimme](https://openalex.org/A5007685801), [Christoph Bannwarth](https://openalex.org/A5081003999), [Fabian Bohle](https://openalex.org/A5077626171), [Sebastian Ehlert](https://openalex.org/A5004260600), [Gereon Feldmann](https://openalex.org/A5082729636), [Johannes Gorges](https://openalex.org/A5009789610), [Marcel Müller](https://openalex.org/A5025793097), [Tim Stauch](https://openalex.org/A5037929085), [Christoph Plett](https://openalex.org/A5053745736), [Sebastian Spicher](https://openalex.org/A5053649740), [Pit Steinbach](https://openalex.org/A5027619391), [Patryk A. Wesołowski](https://openalex.org/A5050377686), [Felix Zeller](https://openalex.org/A5085396740), The Journal of Chemical Physics. 160(11)] 2024.https://doi.org/10.1063/5.0197592 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0197592/19837939/114110_1_5.0197592.pdf)).
-    
-Conformer–rotamer sampling tool (CREST) is an open-source program for the efficient and automated exploration of molecular chemical space. Originally developed in Pracht et al. [Phys. Chem. Chem. Phys. 22, 7169 (2020)] as an automated driver for calculations at the extended tight-binding level (xTB), it offers a variety of molecular- and metadynamics simulations, geometry optimization, and molecular structure analysis capabilities. Implemented algorithms include automated procedures for conformational sampling, explicit solvation studies, the calculation of absolute molecular entropy, and the identification of molecular protonation and deprotonation sites. Calculations are set up to run concurrently, providing efficient single-node parallelization. CREST is designed to require minimal user input and comes with an implementation of the GFNn-xTB Hamiltonians and the GFN-FF force-field. Furthermore, interfaces to any quantum chemistry and force-field software can easily be created. In this article, we present recent developments in the CREST code and show a selection of applications for the most important features of the program. An important novelty is the refactored calculation backend, which provides significant speed-up for sampling of small or medium-sized drug molecules and allows for more sophisticated setups, for example, quantum mechanics/molecular mechanics and minimum energy crossing point calculations.    
-
-    
-
-## First-principles study of penta-CN2 quantum dots for efficient Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4393059030    
-Open access: False
-    
-[Rupali Jindal](https://openalex.org/A5003953341), [Rachana Yogi](https://openalex.org/A5077916387), [Alok Shukla](https://openalex.org/A5029682055), International Journal of Hydrogen Energy. 63(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.016.
-    
-The objective of our research is to investigate the electrocatalytic properties of novel metal-free quantum dots (QDs) composed of the recently discovered 2D material penta-CN2, with the aim of replacing costly and scarce catalysts such as Pt and Pd. Employing a first-principles density functional theory (DFT) based approach, the geometries of the three penta-CN2 quantum dots (QDs) of increasing sizes, 3 × 3, 3 × 4, 4 × 4 are optimized. Through comprehensive analysis, our research extensively explored the structural stability of penta-CN2 QDs, delved into their electronic properties, and assessed their catalytic performance concerning the Hydrogen Evolution Reaction (HER). Notably, the H-adsorbed penta-CN2 QDs exhibit a significant reduction in the HOMO-LUMO gap (Eg) ranging from 35% to 49% compared to the pristine QD. This observation underscores the crucial impact of H-adsorption on Penta-CN2 QD and is further supported by the appearance of mid-gap states in total and partial density of states plots. Next, we investigated their catalytic performance relevant to HER, using well-known descriptors: (i) adsorption energy, (ii) over-potential, (iii) Gibbs free energy and (iv) exchange current density along with the volcano curve. As far as size dependence of the catalytic performance is concerned, the value of the average change in Gibbs free energy, ΔG(av), is minimum for 3 × 3 penta–CN2 QD, with those of 3 × 4 and 4 × 4 QDs being slightly larger. Our calculations predict a high value of exchange current density 2.24×10−3 A-cm−2 for one of the sites (N11 for 3 × 3 QD), which we believe will lead to significantly enhanced HER properties. The minimum value of ΔG=0.158eV for a 3 × 3 penta-CN2 QD implies that its catalytic performance is at least as effective or perhaps better than most of the metal-free hybrid and non-hybrid structures. Our research outcomes hold great promise in advancing the discovery of abundant, non-toxic, and cost-effective catalysts for HER, playing a vital role in facilitating large-scale hydrogen production.    
-
-    
-
-## Unleashing the versatility of porous nanoarchitectures: A voyage for sustainable electrocatalytic water splitting   
-
-OpenAlex: https://openalex.org/W4393063102    
-Open access: False
-    
-[Jian Yiing Loh](https://openalex.org/A5071453029), [Joel Jie Foo](https://openalex.org/A5045306384), [Feng Ming Yap](https://openalex.org/A5092827229), [Hanfeng Liang](https://openalex.org/A5086343002), [Wee‐Jun Ong](https://openalex.org/A5037072631), Chinese Journal of Catalysis. 58(None)] 2024.https://doi.org/10.1016/s1872-2067(23)64581-4.
-    
-No abstract    
-
-    
 
 ## Cooperative Effects Drive Water Oxidation Catalysis in Cobalt Electrocatalysts through the Destabilization of Intermediates   
 
@@ -288,12 +200,45 @@ No abstract
 
     
 
-## The Potential of Neural Network Potentials   
+## DFT Understanding of the Oxygen Reduction to Hydrogen Peroxide on Graphene Modified by Oxygen Functional Groups   
 
-OpenAlex: https://openalex.org/W4393037991    
+OpenAlex: https://openalex.org/W4393149361    
+Open access: False
+    
+[Yang Song](https://openalex.org/A5037430663), [Chaoquan Hu](https://openalex.org/A5076364336), [Chang Li](https://openalex.org/A5080780043), [Xuebing Xu](https://openalex.org/A5078391863), The Journal of Physical Chemistry C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01118.
+    
+No abstract    
+
+    
+
+## Toward transferable empirical valence bonds: Making classical force fields reactive   
+
+OpenAlex: https://openalex.org/W4393152642    
 Open access: True
     
-[Timothy T. Duignan](https://openalex.org/A5086047311), ACS Physical Chemistry Au. None(None)] 2024.https://doi.org/10.1021/acsphyschemau.4c00004 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsphyschemau.4c00004)).
+[Alice Allen](https://openalex.org/A5025334398), [Gábor Cśanyi](https://openalex.org/A5025442671), The Journal of Chemical Physics. 160(12)] 2024.https://doi.org/10.1063/5.0196952 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0196952/19844823/124108_1_5.0196952.pdf)).
+    
+The empirical valence bond technique allows classical force fields to model reactive processes. However, parametrization from experimental data or quantum mechanical calculations is required for each reaction present in the simulation. We show that the parameters present in the empirical valence bond method can be predicted using a neural network model and the SMILES strings describing a reaction. This removes the need for quantum calculations in the parametrization of the empirical valence bond technique. In doing so, we have taken the first steps toward defining a new procedure for enabling reactive atomistic simulations. This procedure would allow researchers to use existing classical force fields for reactive simulations, without performing additional quantum mechanical calculations.    
+
+    
+
+## Role of Electrolyte pH on Water Oxidation for Iridium Oxides   
+
+OpenAlex: https://openalex.org/W4393157935    
+Open access: True
+    
+[Caiwu Liang](https://openalex.org/A5026417092), [Yu Katayama](https://openalex.org/A5059373986), [Yemin Tao](https://openalex.org/A5083338093), [Asuka Morinaga](https://openalex.org/A5078147814), [Benjamin Moss](https://openalex.org/A5005889599), [Verónica Celorrio](https://openalex.org/A5020884368), [Mary P. Ryan](https://openalex.org/A5038499496), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [James R. Durrant](https://openalex.org/A5086035043), [Reshma R. Rao](https://openalex.org/A5027366818), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c12011 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12011)).
+    
+Understanding the effect of noncovalent interactions of intermediates at the polarized catalyst–electrolyte interface on water oxidation kinetics is key for designing more active and stable electrocatalysts. Here, we combine operando optical spectroscopy, X-ray absorption spectroscopy (XAS), and surface-enhanced infrared absorption spectroscopy (SEIRAS) to probe the effect of noncovalent interactions on the oxygen evolution reaction (OER) activity of IrOx in acidic and alkaline electrolytes. Our results suggest that the active species for the OER (Ir4.x+–*O) binds much stronger in alkaline compared with acid at low coverage, while the repulsive interactions between these species are higher in alkaline electrolytes. These differences are attributed to the larger fraction of water within the cation hydration shell at the interface in alkaline electrolytes compared to acidic electrolytes, which can stabilize oxygenated intermediates and facilitate long-range interactions between them. Quantitative analysis of the state energetics shows that although the *O intermediates bind more strongly than optimal in alkaline electrolytes, the larger repulsive interaction between them results in a significant weakening of *O binding with increasing coverage, leading to similar energetics of active states in acid and alkaline at OER-relevant potentials. By directly probing the electrochemical interface with complementary spectroscopic techniques, our work goes beyond conventional computational descriptors of the OER activity to explain the experimentally observed OER kinetics of IrOx in acidic and alkaline electrolytes.    
+
+    
+
+## Electrochemical hydrogenation and oxidation of organic species involving water   
+
+OpenAlex: https://openalex.org/W4393163043    
+Open access: False
+    
+[Cuibo Liu](https://openalex.org/A5034535602), [Fanpeng Chen](https://openalex.org/A5075214205), [Bohang Zhao](https://openalex.org/A5077660409), [Yongmeng Wu](https://openalex.org/A5033549740), [Bin Zhang](https://openalex.org/A5033408053), Nature Reviews Chemistry. None(None)] 2024.https://doi.org/10.1038/s41570-024-00589-z.
     
 No abstract    
 

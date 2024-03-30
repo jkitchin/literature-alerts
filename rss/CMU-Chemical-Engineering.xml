@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 29 Mar 2024 00:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:42:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Temperature, humidity, and ionisation effect of iodine oxoacid nucleation</title>
-      <link>https://doi.org/10.1039/d4ea00013g</link>
-      <description>Birte R&#246;rup, Xu&#8208;Cheng He, Jiali Shen, Rima Baalbaki, Lubna Dada, Mikko Sipil&#228;, J. Kirkby, Markku Kulmala, A. Amorim, Andrea Baccarini, David M. Bell, Luc&#237;a Caudillo, Jonathan Duplissy, Henning Finkenzeller, A. Kuerten, Houssni Lamkaddam, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Bernhard Mentler, A. Onnela, Maxim Philippov, Wiebke Scholz, Mario Simon, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Mingyi Wang, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Armin Hansel, Ottmar M&#246;hler, Tuukka Pet&#228;j&#776;&#228;, Rainer Volkamer, D. R. Worsnop, Katrianne Lehtipalo, Environmental science. None(None)] 2024. https://openalex.org/W4393038292
-
-                Iodine oxoacids are recognised for their significant contribution to the formation of new particles in coastal and polar atmospheres. Nevertheless, to incorporate the iodine oxoacid nucleation mechanism into global simulations,...</description>
-      <author>Birte R&#246;rup, Xu&#8208;Cheng He, Jiali Shen, Rima Baalbaki, Lubna Dada, Mikko Sipil&#228;, J. Kirkby, Markku Kulmala, A. Amorim, Andrea Baccarini, David M. Bell, Luc&#237;a Caudillo, Jonathan Duplissy, Henning Finkenzeller, A. Kuerten, Houssni Lamkaddam, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Bernhard Mentler, A. Onnela, Maxim Philippov, Wiebke Scholz, Mario Simon, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Mingyi Wang, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Imad El Haddad, Richard C. Flagan, Armin Hansel, Ottmar M&#246;hler, Tuukka Pet&#228;j&#776;&#228;, Rainer Volkamer, D. R. Worsnop, Katrianne Lehtipalo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea00013g</guid>
-    </item>
     <item>
       <title>Surface Segregation Studies in Ternary Noble Metal Alloys: Comparing DFT and Machine Learning with Experimental Data</title>
       <link>https://doi.org/10.1002/cphc.202400073</link>
