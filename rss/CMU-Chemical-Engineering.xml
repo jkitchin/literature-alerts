@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:50:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface Segregation Studies in Ternary Noble Metal Alloys: Comparing DFT and Machine Learning with Experimental Data</title>
-      <link>https://doi.org/10.1002/cphc.202400073</link>
-      <description>Kirby Broderick, Robert Burnely, Andrew J. Gellman, John R. Kitchin, ChemPhysChem. None(None)] 2024. https://openalex.org/W4393066436
-
-                Surface segregation, whereby the surface composition of an alloy differs systematically from the bulk, has historically been hard to study, because it requires experimental and modeling methods that span alloy composition space. In this work, we study surface segregation in catalytically relevant noble and platinum&#8208;group metal alloys with a focus on three ternary systems: AgAuCu, AuCuPd, and CuPdPt. We develop a data set of 2478 slabs with those compositions including all three low&#8208;index crystallographic orientations relaxed with Density Functional Theory using the PBEsol functional with D3 dispersion corrections. We fine&#8208;tune a machine learning model on this data and use the model in a series of 1800 Monte Carlo simulations spanning ternary composition space for each surface orientation and ternary chemical system. The results of these simulations are validated against prior experimental surface segregation data collected using composition spread alloy films for AgAuCu and AuCuPd. Our findings reveal that simulations conducted using the (110) orientation most closely match experimentally observed surface segregation trends, and while predicted trends qualitatively match observation, biases in the PBEsol functional limit numeric accuracy. This study advances understanding of surface segregation and the utility of computational studies and highlights the need for further improvements in simulation accuracy.</description>
-      <author>Kirby Broderick, Robert Burnely, Andrew J. Gellman, John R. Kitchin</author>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202400073</guid>
-    </item>
   </channel>
 </rss>

@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 30 Mar 2024 00:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 00:50:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Activation of Lattice Oxygen in Ceria by Plasma Exsolution of MoO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; with Atomic Dispersion for NO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Abatement</title>
-      <link>https://doi.org/10.1021/acscatal.4c00069</link>
-      <description>Yong Yin, Bing Luo, Sun Yu, Pengfei Xie, Haifeng Xiong, Tianle Zhu, Xiang Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393084436
-
-                No abstract</description>
-      <author>Yong Yin, Bing Luo, Sun Yu, Pengfei Xie, Haifeng Xiong, Tianle Zhu, Xiang Li</author>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00069</guid>
-    </item>
-    <item>
-      <title>Single-Electron-Transfer-Generated Aryl Sulfonyl Ammonium Salt: Metal-Free Photoredox-Catalyzed Modular Construction of Sulfonamides</title>
-      <link>https://doi.org/10.1021/acscatal.4c00816</link>
-      <description>Fang Yan, Qing Li, Songzhe Fu, Yadong Yang, Dehong Yang, Shuang Yao, Man Ki Song, Hong Deng, Xianwei Sui, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393093155
-
-                Sulfonamides are prominently featured in organic synthesis and medicinal chemistry. Yet, a general synthetic platform for the modular construction of aryl sulfonamides remains elusive. Herein, a metal-free photoredox-catalyzed three-component construction of aryl sulfonamides via an aryl sulfonyl ammonium salt intermediate, which was generated in situ via a SET event, has been established. A variety of structurally diverse primary, secondary, and tertiary aryl sulfonamides were synthesized rapidly from abundant amines or sodium azide under mild conditions. Notably, the primary aliphatic amine, which remains challenging in the Cu-catalyzed protocols, worked well in this approach. Moreover, aryl sulfonyl fluoride can be accessed smoothly as well, using potassium hydrogen fluoride as the nucleophile. The potential utility of this conversion is demonstrated in the facile construction of three bioactive drug compounds. Preliminary mechanistic studies have revealed that the aryl sulfonyl radical and aryl sulfonyl ammonium salt are the key intermediates in this mechanistically innovative methodology.</description>
-      <author>Fang Yan, Qing Li, Songzhe Fu, Yadong Yang, Dehong Yang, Shuang Yao, Man Ki Song, Hong Deng, Xianwei Sui</author>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00816</guid>
-    </item>
-    <item>
-      <title>Water Splitting Integrated with Self-Transfer Hydrogenolysis for Efficient Demethoxylation of Guaiacols to Phenols over the Ni/MgO Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c00038</link>
-      <description>Xiaohong Ren, Qiang Qian, Zhuohua Sun, Ting Wei, Xiaoqiang Yu, Zeming Rong, Changzhi Li, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393097258
-
-                This work demonstrates the upgrading of lignin-derived monomers through a cascade demethoxylation, aqueous-phase reforming reaction, eliminating the need for external hydrogen supply. The core of this research lies in the use of neat water as both reaction medium and the hydrogen donor over a multifunctional Ni/MgO catalyst, which is responsible for water splitting, aqueous-phase reforming of in situ generated methanol, and selective cleavage of the C&#8211;O bond, finally establishing an efficient one-pot approach achieving a high yield of phenols. Reaction mechanism studies proved that the initial H* source came from water by its splitting on the surface of the Ni/MgO catalyst, which triggered the fracture of the aromatic ether bond to afford phenols and CH3O*. The subsequent aqueous-phase reforming of CH3O* and OH* generated more hydrogen and further accelerated the hydrodeoxygenation (HDO) process. A high conversion of 87.8% with a selectivity of 88.9% for phenol could be achieved at 190 &#176;C from guaiacol. Thanks to the interesting water-splitting mechanisms and strong metal&#8211;support interaction (SMSI), Ni/MgO exhibited significantly enhanced stability compared to the previously reported nanoporous Ni catalysts. Further, with real lignin as the substrate, 16.3 wt % combined yield of phenol and 4-methylphenol could be acquired under optimized conditions. Overall, this "H2-free" approach offers a promising alternative to conventional biorefinery processes, addressing the challenges of hydrogen sourcing and economic feasibility.</description>
-      <author>Xiaohong Ren, Qiang Qian, Zhuohua Sun, Ting Wei, Xiaoqiang Yu, Zeming Rong, Changzhi Li</author>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00038</guid>
-    </item>
     <item>
       <title>Switchable Synthesis of Ethylene/Acrylate Copolymers by a Dinickel Catalyst: Evidence for Chain Growth on Both Nickel Centers and Concepts of Cation Exchange Polymerization</title>
       <link>https://doi.org/10.1021/acscatal.4c00156</link>
