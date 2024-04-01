@@ -1,66 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun Mar 31 00:50:05 2024
+Created on Mon Apr  1 00:50:19 2024
 
-Found 27 results from 2024-03-24 to 2024-03-31
+Found 25 results from 2024-03-25 to 2024-04-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Constructing novel metal-free g-C3N4@HCOF-Ph heterojunctions through molecular expansion to enhance photogenerated carrier involved molecular oxygen activation and photocatalytic hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4393109168    
-Open access: False
-    
-[Qingmei Tang](https://openalex.org/A5035419178), [Qingrong Cheng](https://openalex.org/A5039634196), [Zhiquan Pan](https://openalex.org/A5068445612), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4770114.
-    
-No abstract    
-
-    
-
-## Cr dopant regulating d-orbital electronic configuration of NiFe spinel oxide to improve oxygen evolution reaction in Zn-air battery   
-
-OpenAlex: https://openalex.org/W4393110836    
-Open access: False
-    
-[Shihui Liu](https://openalex.org/A5057127521), [Yao‐Cheng Shi](https://openalex.org/A5033120372), [Fengqin Tang](https://openalex.org/A5010623844), [Penggang Wei](https://openalex.org/A5063967789), [Wenrui Huang](https://openalex.org/A5015184948), [Jiapeng Wu](https://openalex.org/A5061934627), [Sujuan Zhao](https://openalex.org/A5029283807), [Jikui Zhu](https://openalex.org/A5033311780), [Chunhui Shi](https://openalex.org/A5000209298), [Libing Hu](https://openalex.org/A5055297727), Journal of Alloys and Compounds. 987(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174248.
-    
-No abstract    
-
-    
-
-## Transition metal-based layered double hydroxides and their derivatives for efficient oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4393111188    
-Open access: False
-    
-[Chun Han](https://openalex.org/A5022194241), [Yunhe Zhao](https://openalex.org/A5021666111), [Yuan Yuan](https://openalex.org/A5011540763), [Zehua Guo](https://openalex.org/A5080690473), [Gong Chen](https://openalex.org/A5049778213), [Jack Yang](https://openalex.org/A5037410384), [Qi Bao](https://openalex.org/A5050289757), [Li Guo](https://openalex.org/A5028365905), [Chunxia Chen](https://openalex.org/A5058025282), International Journal of Hydrogen Energy. 63(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.150.
-    
-No abstract    
-
-    
-
-## Oxygen vacancy-rich CoMoO4/Carbon Nitride S-scheme heterojunction for boosted photocatalytic H2 production: microstructure regulation and charge transfer mechanism   
-
-OpenAlex: https://openalex.org/W4393115053    
-Open access: False
-    
-[Jiani Qin](https://openalex.org/A5061959364), [Yanli Dong](https://openalex.org/A5035378312), [Xiaojuan Lai](https://openalex.org/A5046079326), [Bo Su](https://openalex.org/A5048609803), [Bao Pan](https://openalex.org/A5059787779), [Chuanyi Wang](https://openalex.org/A5084410248), [Sibo Wang](https://openalex.org/A5066759526), Journal of Materials Science & Technology. None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.02.032.
-    
-No abstract    
-
-    
-
-## Zn‐Leaching Induced Rapid Self‐Reconstruction of NiFe‐Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024)   
-
-OpenAlex: https://openalex.org/W4393120024    
-Open access: True
-    
-[Haonan Guo](https://openalex.org/A5086712260), [Lei Zhang](https://openalex.org/A5071798264), [Deliu Ou](https://openalex.org/A5072873062), [Qiao Liu](https://openalex.org/A5072085683), [Zhaohui Wu](https://openalex.org/A5051045584), [Weiyou Yang](https://openalex.org/A5072403367), [Zhi Fang](https://openalex.org/A5066956428), [Qing Shi](https://openalex.org/A5017607299), Small. 20(12)] 2024.https://doi.org/10.1002/smll.202470098 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202470098)).
-    
-SmallVolume 20, Issue 12 2470098 FrontispieceFree Access Zn-Leaching Induced Rapid Self-Reconstruction of NiFe-Layered Double Hydroxides for Boosted Oxygen Evolution Reaction (Small 12/2024) Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author Haonan Guo, Haonan Guo School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 China Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorLei Zhang, Lei Zhang School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorDeliu Ou, Deliu Ou Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQiao Liu, Qiao Liu Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhisheng Wu, Zhisheng Wu School of Material Science and Engineering, Taiyuan University of Science and Technology, Taiyuan, 030024 ChinaSearch for more papers by this authorWeiyou Yang, Weiyou Yang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorZhi Fang, Zhi Fang Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 ChinaSearch for more papers by this authorQing Shi, Qing Shi Institute of Micro/Nano Materials and Devices, Ningbo University of Technology, Ningbo, 315211 China Zhejiang Institute of Tianjin University, Ningbo University of Technology, Ningbo, Zhejiang, 315201 ChinaSearch for more papers by this author First published: 22 March 2024 https://doi.org/10.1002/smll.202470098AboutPDF ToolsRequest permissionExport citationAdd to favoritesTrack citation ShareShare Give accessShare full text accessShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat Graphical Abstract Oxygen Evolution Reaction In article number 2307069, Zhisheng Wu, Zhi Fang, Qing Shi, and co-workers report a simple and fast strategy to promote self reconstruction of NiFe-layered double hydroxides and form highly active NiFeOOH centers. The trace Zn dopants have been introduced in advance, followed by leaching over the electrochemical activation process. The self-restructured NiFeOOH-VZn exhibits excellent catalytic activity and stability for the oxygen evolution reaction. Volume20, Issue12March 22, 20242470098 RelatedInformation    
-
-    
 
 ## Preparation of NiFeCoMnCr Hydroxide on Nickel Foam by Corrosion Method and its Enhanced Electrochemical Performance in Oxygen Evolution Reaction   
 
@@ -249,17 +194,6 @@ The exploration of high-performance, durable and cost-effective catalysts for ov
 
     
 
-## Construction of heterogeneous interfaces for water activation and dissociation to synergistically boost overall water splitting   
-
-OpenAlex: https://openalex.org/W4393127107    
-Open access: False
-    
-[Xinzeng Zhang](https://openalex.org/A5027377514), [Lixin Chen](https://openalex.org/A5010466371), [Yuanyuan Liu](https://openalex.org/A5054464310), [Jing Li](https://openalex.org/A5067951425), [Meiri Wang](https://openalex.org/A5028140346), [Hongtao Cui](https://openalex.org/A5071381793), [Zhi Wen Chen](https://openalex.org/A5048740895), [Chandra Veer Singh](https://openalex.org/A5077238261), [Kaiye Liu](https://openalex.org/A5067611563), Journal of Colloid and Interface Science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.143.
-    
-Construction of heterogeneous interfaces with dual active components to synergistically promote both hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) is an effective strategy for facilitating electrochemical water splitting, but the appropriate active component regulation via simple synthesis procedures is still challenging. Herein, the Co and Co2Mo3O8 active components are screened to construct effective heterogeneous interfaces and successfully integrated on Ni foam by thermal reduction of cobalt molybdate precursor. And this bifunctional electrode (Co/Co2Mo3O8/NF) required overpotentials of only 164 and 360 mV to drive the 100 mA cm−2 for HER and OER in alkaline media, respectively. Theoretical calculations showed that the electron transfer occurred from Co to Co2Mo3O8 at the interface, then the formed interfacial cobalt atoms with deficient electron were beneficial for water activation, and reduced energy barrier of water dissociation under the synergistic effect of Co2Mo3O8. Notably, the alkaline electrolyzer based on symmetric Co/Co2Mo3O8/NF electrodes generated 100 mA cm−2 at a voltage of only 1.75 V, surpassing commercially available precious-metal Pt/RuO2-based catalysts.    
-
-    
-
 ## Experimental characterization and non-isothermal simulation of a zero-gap alkaline electrolyser with nickel-iron porous electrode   
 
 OpenAlex: https://openalex.org/W4393176804    
@@ -301,5 +235,49 @@ Open access: True
 [Lijun Huang](https://openalex.org/A5082797357), [Chaoqiong Fang](https://openalex.org/A5041429156), [Ting Pan](https://openalex.org/A5091685833), [Quing Zhu](https://openalex.org/A5088499834), [Tiangeng Geng](https://openalex.org/A5094241395), [Guixiang Li](https://openalex.org/A5033895107), [Xiao Li](https://openalex.org/A5035339773), [Jiayuan Yu](https://openalex.org/A5074653939), Nanomaterials. 14(7)] 2024.https://doi.org/10.3390/nano14070567 ([pdf](https://www.mdpi.com/2079-4991/14/7/567/pdf?version=1711357116)).
     
 The high energy consumption of traditional water splitting to produce hydrogen is mainly due to complex oxygen evolution reaction (OER), where low-economic-value O2 gas is generated. Meanwhile, cogeneration of H2 and O2 may result in the formation of an explosive H2/O2 gas mixture due to gas crossover. Considering these factors, a favorable anodic oxidation reaction is employed to replace OER, which not only reduces the voltage for H2 production at the cathode and avoids H2/O2 gas mixture but also generates value-added products at the anode. In recent years, this innovative strategy that combines anodic oxidation for H2 production has received intensive attention in the field of electrocatalysis. In this review, the latest research progress of a coupled hydrogen production system with pollutant degradation/upgrading is systematically introduced. Firstly, wastewater purification via anodic reaction, which produces free radicals instead of OER for pollutant degradation, is systematically presented. Then, the coupled system that allows for pollutant refining into high-value-added products combined with hydrogen production is displayed. Thirdly, the photoelectrical system for pollutant degradation and upgrade are briefly introduced. Finally, this review also discusses the challenges and future perspectives of this coupled system.    
+
+    
+
+## Synergistic strategy of solute environment and phase control of Pb-based anodes to solve the activity-stability trade-off   
+
+OpenAlex: https://openalex.org/W4393131831    
+Open access: False
+    
+[Siwei Zhuang](https://openalex.org/A5011949501), [Ning Duan](https://openalex.org/A5054325872), [Linhua Jiang](https://openalex.org/A5088196965), [Fang Xu](https://openalex.org/A5015922796), Journal of Hazardous Materials. None(None)] 2024.https://doi.org/10.1016/j.jhazmat.2024.134119.
+    
+The contradiction between the activity and stability of metal anodes exists extensively, especially in acid electrooxidation under industrial-level current density. Although the anode modification enhanced the initial activity of anodes, its long-term activity is limited by anode slime accumulation. Herein, a synergistic strategy, coupling the solute environment with the phase control of anodes, is proposed to achieve the trade-off between activity and stability of Pb-based anodes in concentrated sulfuric acid electrolysis. Non-exogenous Mn2+ motivated a series of positive behaviours of reactive-oxygen-species capture, anode reconstruction and corrosion-dependent activity alleviation. The synergistic effects, which are crystal phase-dependent, mainly benefit from the continuous self-healing ability of the specific crystal phase of MnO2 on the anodes by the coexisted Mn2+. Compared with Mn2+/α-MnO2, Mn2+/γ-MnO2 exhibited outperformed activity and stability in boosting oxygen evolution reaction (OER) and reducing hazardous pollutants, which resulted from the energy difference in the rate-determining step of OER and in the selectivity priority of Mn2+/MnO2 oxidation pathway. Interestingly, the pre-coated γ-MnO2 on the anode also presents excellent inheritance, guaranteeing the unchanged crystal phase of MnO2 and the high performance in ultra-low hazardous slime generation in subsequent Mn2+ oxidation. The sustainability of Mn2+/γ-MnO2 was proved in the operating hydrometallurgy conditions on Pb-based anodes. This strategy offers a promising approach for this common issue in electrooxidation-related areas.    
+
+    
+
+## Bifunctional Mo4O11 Nanosheets-Engineered Co-Ni alloy nanowires enable High-Efficiency seawater electrolysis and Zn-Seawater battery   
+
+OpenAlex: https://openalex.org/W4393131615    
+Open access: False
+    
+[Muhaiminul Islam](https://openalex.org/A5025944641), [Sambedan Jena](https://openalex.org/A5077411994), [Saleem Sidra](https://openalex.org/A5093549463), [Joong Hee Lee](https://openalex.org/A5068920211), [Do Hwan Kim](https://openalex.org/A5022726594), [Nam Hoon Kim](https://openalex.org/A5008014896), [Joong Hee Lee](https://openalex.org/A5068920211), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150664.
+    
+This study reports an electrocatalyst derived from multi-valent Mo4O11 nanosheets coupled Co-Ni (CN) nanowires (NW) (denoted as CN@Mo4O11) with improved catalytic coherency for both high-performance seawater splitting and Zn-seawater battery. The CN@Mo4O11 material significantly enhances the catalytical activity with a low overpotential of 63 mV/69 mV for hydrogen evolution and 100 mV/120 mV for oxygen evolution, respectively, to attain 10 mA cm−2 in alkaline freshwater/seawater. An electrolyzer cell of CN@Mo4O11(+,-) exhibits a low cell voltage of 1.40 V/1.44 V at 10 mA‧cm−2 during alkaline freshwater/seawater splitting with an excellent performance retention of 98.6 %/97.6 % after a long-term operation for 50 h. The solar cell coupled electrolyzer also delivers a high solar to hydrogen conversion efficiency of 15.54 %/16.1 % in alkaline freshwater/seawater. A Zn-seawater battery based on CN@Mo4O11 cathode also delivers high current and power densities of 82 mA‧cm−2 and 27.6 mW‧cm−2, respectively, with a stable discharge time of 40 h. The CN@Mo4O11 heterostructure imparts favorable density of states and optimized adsorption energy for HER and OER, as deduced from DFT calculations, leading to improved overall catalytic performance and corrosion resistance in seawater. Results of this work clearly prove that this proposed catalyst architecture indeed has a huge potential for both seawater splitting and Zn-seawater battery fabrication.    
+
+    
+
+## Large-area, flexible bimetallic phosphorus-based electrodes for prolong-stable industrial grade overall seawater splitting   
+
+OpenAlex: https://openalex.org/W4393129800    
+Open access: False
+    
+[Xiang Ma](https://openalex.org/A5033334181), [Rikai Liang](https://openalex.org/A5048586382), [Yiming Wang](https://openalex.org/A5037335239), [Lijun Wu](https://openalex.org/A5030824072), [Fengjing Lei](https://openalex.org/A5071444732), [Jinchen Fan](https://openalex.org/A5011581422), [Lincai Wang](https://openalex.org/A5081945932), [Weiju Hao](https://openalex.org/A5009156159), Chemical Engineering Journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150624.
+    
+The economical and efficient preparation of highly stable electrodes for hydrogen from water splitting is one of the current challenges. Herein, a flexible and durable bifunctional nickel–cobalt-phosphide electrode is constructed in situ on hydrophilicity filter paper (NiCoP@HP) via a one-step mild electroless plating method for industrial-scale water splitting. The bimetallic synergy of Ni-Co facilitates efficient electron transfer, while the electronegativity of phosphide contributes to high intrinsic activity, and the flexible paper substrate allow the electrode to be folded and bent. The NiCoP@HP electrodes exhibit outstanding performance for the hydrogen/oxygen evolution reaction (HER/OER), with low overpotentials only 43 mV and 164 mV at a current density of 10 mA cm−2 in simulated seawater (1.0 M KOH + 0.5 M NaCl). Importantly, the NiCoP@HP electrode demonstrates long-term stability, operating for over 1440 h at a current density of 500 mA cm−2 in 1.0 M KOH + 0.5 M NaCl and 1.0 M KOH + Seawater, respectively. This universally applicable method allows the preparation of a range of highly efficient catalytic electrodes (Fe, Mo, W etc.). This work provides a simple, scalable, and versatile approach for the in situ construction of noble metal-free, highly efficient, and cost-effective bifunctional electrocatalysts, opening new possibilities for industrial-scale water splitting.    
+
+    
+
+## Role of Electrolyte pH on Water Oxidation for Iridium Oxides   
+
+OpenAlex: https://openalex.org/W4393157935    
+Open access: True
+    
+[Caiwu Liang](https://openalex.org/A5026417092), [Yu Katayama](https://openalex.org/A5059373986), [Yemin Tao](https://openalex.org/A5083338093), [Asuka Morinaga](https://openalex.org/A5078147814), [Benjamin Moss](https://openalex.org/A5005889599), [Verónica Celorrio](https://openalex.org/A5020884368), [Mary P. Ryan](https://openalex.org/A5038499496), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [James R. Durrant](https://openalex.org/A5086035043), [Reshma R. Rao](https://openalex.org/A5027366818), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c12011 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.3c12011)).
+    
+Understanding the effect of noncovalent interactions of intermediates at the polarized catalyst–electrolyte interface on water oxidation kinetics is key for designing more active and stable electrocatalysts. Here, we combine operando optical spectroscopy, X-ray absorption spectroscopy (XAS), and surface-enhanced infrared absorption spectroscopy (SEIRAS) to probe the effect of noncovalent interactions on the oxygen evolution reaction (OER) activity of IrOx in acidic and alkaline electrolytes. Our results suggest that the active species for the OER (Ir4.x+–*O) binds much stronger in alkaline compared with acid at low coverage, while the repulsive interactions between these species are higher in alkaline electrolytes. These differences are attributed to the larger fraction of water within the cation hydration shell at the interface in alkaline electrolytes compared to acidic electrolytes, which can stabilize oxygenated intermediates and facilitate long-range interactions between them. Quantitative analysis of the state energetics shows that although the *O intermediates bind more strongly than optimal in alkaline electrolytes, the larger repulsive interaction between them results in a significant weakening of *O binding with increasing coverage, leading to similar energetics of active states in acid and alkaline at OER-relevant potentials. By directly probing the electrochemical interface with complementary spectroscopic techniques, our work goes beyond conventional computational descriptors of the OER activity to explain the experimentally observed OER kinetics of IrOx in acidic and alkaline electrolytes.    
 
     

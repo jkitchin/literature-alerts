@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 31 Mar 2024 00:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 00:50:28 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Single-atom anchored on curved boron nitride fullerene surface as efficient electrocatalyst for carbon dioxide reduction</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114040</link>
-      <description>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu, Molecular Catalysis. 559(None)] 2024. https://openalex.org/W4393116736
-
-                No abstract</description>
-      <author>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114040</guid>
-    </item>
-    <item>
-      <title>First-principles study of direct Z-scheme GaS/WTe2 van der Waals heterostructure as photocatalyst for water splitting</title>
-      <link>https://doi.org/10.1016/j.physb.2024.415882</link>
-      <description>Caichao Wan, Wei Yan, Chun-Sheng Liu, Lan Meng, Xin Yan, Physica B: Condensed Matter. None(None)] 2024. https://openalex.org/W4393120277
-
-                The effective separation of charge carriers and the redox capacity for water splitting are two crucial factors that influence photocatalysis. Here, we studied the photocatalytic properties of GaS/WTe2 van der Waals heterostructure (vdWH) using first-principle calculations. The results show that this heterostructure acts as a direct Z-scheme with GaS as the water oxidation photocatalyst and WTe2 as the water reduction photocatalyst. Photogenerated charge carriers are efficiently separated, with electrons in GaS combining with holes in WTe2, while other charge carriers with high redox ability remain in the respective materials for water splitting. More importantly, the heterostructure exhibits excellent performance in all acid and alkali solutions (pH 0&#8211;14) and has strong light absorption in the ultraviolet (UV) and visible region. The power conversion efficiency(PCE) reaches 19.73%. This work reveals that GaS/WTe2 heterostructure is a highly promising material for photocatalytic water splitting.</description>
-      <author>Caichao Wan, Wei Yan, Chun-Sheng Liu, Lan Meng, Xin Yan</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.physb.2024.415882</guid>
-    </item>
-    <item>
-      <title>Second-row transition metals decorated cyclo[18]carbon: Single-atom catalysts for excellent hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.mssp.2024.108351</link>
-      <description>Zarna D. Ponkiya, Darshil Chodvadiya, Prafulla K. Jha, Materials Science in Semiconductor Processing. 176(None)] 2024. https://openalex.org/W4393122969
-
-                No abstract</description>
-      <author>Zarna D. Ponkiya, Darshil Chodvadiya, Prafulla K. Jha</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mssp.2024.108351</guid>
-    </item>
     <item>
       <title>Mastering the Lattice Strain in Bismuth&#8208;Based Electrocatalysts for Efficient CO&lt;sub&gt;2&lt;/sub&gt;&#8208;to&#8208;Formate Conversion</title>
       <link>https://doi.org/10.1002/adfm.202400928</link>

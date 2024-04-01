@@ -1,32 +1,11 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Mar 31 00:50:07 2024
+Created on Mon Apr  1 00:50:20 2024
 
-Found 26 results from 2024-03-24 to 2024-03-31
+Found 26 results from 2024-03-25 to 2024-04-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
-
-* Single-atom anchored on curved boron nitride fullerene surface as efficient electrocatalyst for carbon dioxide reduction  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393116736
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mcat.2024.114040")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393116736"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393116736"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393116736"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393116736 (Open access: False)
-    
-[[https://openalex.org/A5066590014][Zhiyi Liu]], [[https://openalex.org/A5009783384][Aling Ma]], [[https://openalex.org/A5075444205][Zhenzhen Wang]], [[https://openalex.org/A5012102127][Zongpeng Ding]], [[https://openalex.org/A5082968868][Yan Pang]], [[https://openalex.org/A5038934588][Guohong Fan]], [[https://openalex.org/A5017163237][Hong Xu]], Molecular Catalysis. 559(None)] 2024. https://doi.org/10.1016/j.mcat.2024.114040 
-     
-No abstract    
-
-    
 
 * Titanium carbide sealed cadmium sulfide quantum dots on carbon, oxygen-doped boron nitride for enhanced and durable photochemical carbon dioxide reduction  :CO2RR:
 :PROPERTIES:
@@ -133,27 +112,6 @@ No abstract
 
     
 
-* One-pot two-step reduction of CO2 with amines and NaBH4 to N-substituted compounds at atmospheric pressure  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393124559
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcou.2024.102741")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393124559"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393124559"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393124559"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393124559 (Open access: True)
-    
-[[https://openalex.org/A5069262954][Junhong Wang]], [[https://openalex.org/A5046749734][B. P. Wang]], [[https://openalex.org/A5087961054][Xuehong Wei]], [[https://openalex.org/A5032912484][Zhiqiang Guo]], Journal of CO2 Utilization. 82(None)] 2024. https://doi.org/10.1016/j.jcou.2024.102741 
-     
-No abstract    
-
-    
-
 * S-dopant and O-vacancy of mesoporous ZnO nanosheets induce high efficiency and selectivity of electrocatalytic CO2 reduction to CO  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4393166182
@@ -172,69 +130,6 @@ OpenAlex: https://openalex.org/W4393166182 (Open access: False)
 [[https://openalex.org/A5056141272][Ying Wang]], [[https://openalex.org/A5050027764][Youngeun Kang]], [[https://openalex.org/A5031230711][Yuanxin Miao]], [[https://openalex.org/A5034424106][Min Jia]], [[https://openalex.org/A5055943543][S. Alice Long]], [[https://openalex.org/A5042871890][Lipeng Diao]], [[https://openalex.org/A5024586315][Lijie Zhang]], [[https://openalex.org/A5016682533][Daohao Li]], [[https://openalex.org/A5081547303][Guanglei Wu]], Composites Communications. None(None)] 2024. https://doi.org/10.1016/j.coco.2024.101890 
      
 Surface engineering can adjust the electronic properties of catalysts, thereby boosting their electrocatalytic performances. Herein, S-doped and O-vacant mesoporous ZnO nanosheets (ZnO-VO-S) were synthesized through the plasma-treatment method, exhibiting highly electrocatalytic selectivity and activity in the conversion of CO2 to CO. Synchrotron X-ray absorption fine structure (XAFS) investigations were used to further clarify the valence state and local coordination structure of Zn, concretely affirming the reduced electron density of Zn in ZnO-VO-S. Specifically, at −1.1 V vs. RHE, the as-prepared ZnO-VO-S demonstrated a high Faradaic efficiency of 90%. Experiments and density functional theory (DFT) suggest that the electron deficiency of Zn caused by the introduction of S dopant and O vacancy, reduces the energy barrier of CO2 to CO by improving the adsorption behavior of the intermediate *COOH.    
-
-    
-
-* Faster Kinetics and High Selectivity for Electrolytic Reduction of CO2 with Zn0/Zn2+ Interface of ZnO/ZnAl2O4 Derived from Hydrotalcite  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393111610
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-03-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s10562-024-04648-4")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393111610"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393111610"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393111610"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393111610 (Open access: False)
-    
-[[https://openalex.org/A5050487837][Ling Wang]], [[https://openalex.org/A5064171348][Ya Gao]], [[https://openalex.org/A5054426073][Shuxiu Yu]], [[https://openalex.org/A5037431238][Yangying Sun]], [[https://openalex.org/A5074469145][Yan Zheng]], [[https://openalex.org/A5029970439][Yifan Liang]], [[https://openalex.org/A5064564309][Liang Li]], Catalysis Letters. None(None)] 2024. https://doi.org/10.1007/s10562-024-04648-4 
-     
-No abstract    
-
-    
-
-* 0D/2D Bi2MoO6 quantum dots /rGO heterojunction boosting full solar spectrum-driven photothermal catalytic CO2 reduction to solar fuels  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393114428
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology, Electrochemical Reduction of CO2 to Fuels
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.carbon.2024.119079")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393114428"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393114428"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393114428"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393114428 (Open access: False)
-    
-[[https://openalex.org/A5039650364][Rui Feng]], [[https://openalex.org/A5068170537][Mingnv Guo]], [[https://openalex.org/A5072787821][Zhongqing Yang]], [[https://openalex.org/A5011590420][Jiaqi Qiu]], [[https://openalex.org/A5074586582][Ziqi Wang]], [[https://openalex.org/A5028908278][Yongliang Zhao]], Carbon. None(None)] 2024. https://doi.org/10.1016/j.carbon.2024.119079 
-     
-No abstract    
-
-    
-
-* Spatial-temporal Dynamics and Driving Forces of Provincial CO2 Emission Responsibilities in China from Multiple Perspectives  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393116592
-:TOPICS: Rural Revitalization Strategy in China
-:PUBLICATION_DATE: 2024-03-23
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.47260/amae/1447")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393116592"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393116592"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393116592"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393116592 (Open access: True)
-    
-[[https://openalex.org/A5083193619][Tie Dai]], [[https://openalex.org/A5084169199][Yazhou Zhao]], Advances in Management and Applied Economics. None(None)] 2024. https://doi.org/10.47260/amae/1447 
-     
-Abstract A comprehensive analysis of the carbon emission profile of Chinese provinces from multiple perspectives is required to develop equitable and effective policies to reduce carbon emissions. This study estimates the carbon dioxide (CO2) emission responsibilities of China’s 30 provinces and 22 sectors from production, consumption, and income-based perspectives from 2012 to 2017. Structural decomposition analysis (SDA) is used to determine the driving forces of changes in CO2 emissions in China from 2012 to 2017. The results indicate the following. (1) The dominant CO2 emission sectors are the Electric Power, Steam, and Hot Water industry and the Smelting and Pressing of Metals industry. (2) The scale effect of the initial input is the dominant factor affecting the growth of CO2 emissions, followed by the scale effect of the final demand from 2012 to 2017. (3) The structural effect of the production output is the primary carbon reduction factor, followed by the structural effect of the intermediate product input and the carbon intensity effect. Based on these results, recommendations are provided to reduce CO2 emissions, such as developing green and low-carbon technologies, revising and optimizing the energy composition, accelerating the green transition, and a science-based approach to investment. Keywords: Multiple perspectives, China’s Provinces, Spatial-temporal evolution, MRIO model, SDA model.    
 
     
 
@@ -511,27 +406,6 @@ A novel method to effectively achieve synergistic SO2 reduction during the carbo
 
     
 
-* Intricate synergistic effects between air pollution and carbon emission: An emerging evidence from China  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393120189
-:TOPICS: Health Effects of Air Pollution, Economic Impact of Environmental Policies and Resources, Rebound Effect on Energy Efficiency and Consumption
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.envpol.2024.123851")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393120189"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393120189"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393120189"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393120189 (Open access: False)
-    
-[[https://openalex.org/A5008128423][Yanwen Wang]], [[https://openalex.org/A5028600578][Jinmian Ni]], [[https://openalex.org/A5076139079][Ke Xu]], [[https://openalex.org/A5002976886][Hao Zhang]], [[https://openalex.org/A5058516723][Chao He]], Environmental Pollution. None(None)] 2024. https://doi.org/10.1016/j.envpol.2024.123851 
-     
-Due to global climate change and intensifying anthropogenic pollution, China confronts the dual challenge of controlling particulate matter 2.5 μm (PM2.5) pollution and reducing carbon emissions. Quantifying the characteristics of PM2.5 concentrations and CO2 emissions, as well as identifying the driving factors and synergistic effects of PM2.5 reduction and CO2 mitigation, are crucial steps in promoting sustainable urban development and achieving the Sustainable Development Goals (SDGs) in China. In this study, we selected 168 cities as our case-study, and quantified spatial characteristics of PM2.5 concentrations and CO2 emissions from 2015 to 2020 in China. Then we analyzed driving factors affecting the spatial heterogeneity of PM2.5 reduction and CO2 mitigation applying Multi-scale Geographically Weighted Regression (MGWR) model. By employing coupling coordination degree (CCD) model, we further detected the spatiotemporal evolution patterns of the synergistic effects between PM2.5 reduction and CO2 mitigation in key Chinese cities. The result showed that: (a) From 2015 to 2020, PM2.5 concentrations experienced a significant reduction from 59.78 μg/m3 to 49.83 μg/m3, while CO2 emissions increased from 44.88 × 106 t in 2015 to 45.77 × 106 t in 2020; (b) Green economy efficiency (gee), government attention (gover), and environmental regulation (envir) demonstrate the most pronounced synergistic effect on pollution reduction and carbon mitigation, with the drivers exhibiting obvious spatial heterogeneity; (c) The overall coupling coordination level of PM2.5 pollution and CO2 emissions in China dropped from 0.49 in 2015 to 0.46 in 2020, and the coupling coordination grade in northern cities was notably higher than that in southern cities. The result enhances our understanding of spatiotemporal patterns of synergistic effects between PM2.5 reduction and CO2 mitigation, and provides the theoretical basis for policy decision-making to realize pollution decrease and carbon neutral and regional environment governance.    
-
-    
-
 * Unlocking Exceptional CO2 Reduction Selectivity at Neutral Conditions: A First-Principles Study on Chlorinated Single Iron Doped Graphitic Carbon Nitride  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4393161959
@@ -550,5 +424,131 @@ OpenAlex: https://openalex.org/W4393161959 (Open access: False)
 [[https://openalex.org/A5092516228][Renna Shakir]], [[https://openalex.org/A5048218985][Hannu Pekka Komsa]], [[https://openalex.org/A5017326312][Karan Kumar Paswan]], [[https://openalex.org/A5050533836][A. Sinha]], [[https://openalex.org/A5087719019][J. Karthikeyan]], The Journal of Physical Chemistry C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.3c07748 
      
 The electrochemical reduction of carbon dioxide (CO2RR) to useful fuels and chemicals using renewable energy sources presents a promising strategy for addressing energy security and environmental challenges. Single-metal atom catalysts have emerged as appealing alternatives due to their high efficiency in overcoming limitations associated with traditional metal nanocatalysts. This comprehensive study focuses on fine-tuning chlorinated single-atom-based active sites on a graphitic carbon nitride (g-C3N4) monolayer to achieve absolute selectivity for HCOOH. Previous research has demonstrated that halogenation significantly suppresses the hydrogen evolution reaction, which competes with the CO2RR. To achieve selectivity for a single product among all reduced products, the chemical environment of the catalyst was tuned to neutral conditions. Our results indicate that the catalyst exhibited higher selectivity for HCOOH, with a significantly low onset potential and a wide potential range where HCOOH selectivity was maintained at the FeCl site at pH 7 compared to the acidic region. These findings highlight the FeCl active site of FeCl-decorated g-C3N4 as a highly efficient and selective electrocatalyst for the CO2RR. The insights gained from our study offer valuable directions for designing new CO2RR catalysts with improved selectivity and efficiencies.    
+
+    
+
+* Boosting the electroreduction of CO2 to liquid products via nanostructure engineering of Cu2O catalysts  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393175738
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Thermoelectric Materials
+:PUBLICATION_DATE: 2024-04-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2024.115458")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393175738"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393175738"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393175738"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393175738 (Open access: False)
+    
+[[https://openalex.org/A5026305964][Fubin Yang]], [[https://openalex.org/A5058601835][Tao Yang]], [[https://openalex.org/A5012677271][Jing Li]], [[https://openalex.org/A5010520447][Pengfei Li]], [[https://openalex.org/A5055720455][Quan Zhang]], [[https://openalex.org/A5017701425][Huihui Lin]], [[https://openalex.org/A5080405961][Luyan Wu]], Journal of Catalysis. 432(None)] 2024. https://doi.org/10.1016/j.jcat.2024.115458 
+     
+The electrochemical reduction of CO2 presents a promising pathway for storing intermittent renewable energy in the form of chemical bonds, thereby mitigating CO2 emissions and enabling the production of sustainable fuels. In this work, we demonstrate nanoscale engineering of oxygen vacancy and morphology simultaneously on Cu2O catalysts for electrochemical reduction of CO2 to liquid products (formate and ethanol). By comparing the performance of cube- and tetrakaidecahedron-like Cu2O catalysts, we have demonstrated that the flower-like Cu2O catalyst, enclosed with rich oxygen vacancy defects, exhibited superior performance in the reduction of CO2 to liquid products. Moreover, the synergetic role of Cu+ also contributed to the enhanced activity by promoting CO2 adsorption and facilitating C–C coupling. As a result, the peak Faradaic efficiency (FE) for liquid products of 95.5 % was obtained, associated with a high ethanol FE of 52.6 % and formation rate of 23.8 μmol h−1 cm−2 within a H-cell. Furthermore, within a flow cell configuration, we have observed a significant improvement in the generation of formate, maintaining FE values above 70 % even under high current densities of up to 400 mA cm−2. In-situ Raman spectroscopic measurements allow us to identify and track key intermediates involved in the CO2 reduction to formate and ethanol. This detailed understanding of the reaction pathways adds to our fundamental knowledge and provides valuable insights for the development of morphology-controlled electrocatalysts targeting efficient conversion of CO2 into liquid products.    
+
+    
+
+* Deposition and release behavior of H2S during chemical looping hydrogen production process  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393131905
+:TOPICS: Chemical-Looping Technologies, Sulfur Compounds Removal Technologies, Global Impact of Gas Flaring
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.150621")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393131905"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393131905"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393131905"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393131905 (Open access: False)
+    
+[[https://openalex.org/A5005890115][Yusan Turap]], [[https://openalex.org/A5077558876][Zhe Zhang]], [[https://openalex.org/A5008904028][Yongkang Wang]], [[https://openalex.org/A5090241551][Yidi Wang]], [[https://openalex.org/A5022796999][Zhentong Wang]], [[https://openalex.org/A5046597133][Wei Wang]], Chemical Engineering Journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.150621 
+     
+Chemical looping hydrogen production process is a promising technology for producing low-carbon hydrogen from various fossil and biogenic energy sources. However, the typical contaminant in feedstock, hydrogen sulfide, has a potential influence on the process. Herein, this study investigated the influence of hydrogen sulfide on the chemical looping hydrogen production process. Results show that the presence of hydrogen sulfide in the fuel reduces the reaction performance of the oxygen carrier because sulfur is deposited in the oxygen carrier during the reduction stage to produce iron sulfide species (FeS2, Fe7S8 and FeS). Then the iron sulfide is converted to hydrogen sulfide and sulfur dioxide during the hydrogen production and air oxidation stage, respectively. H2 production temperature is an important factor in controlling the production of hydrogen sulfide, which will not be produced at temperature below 710 °C. In addition, the air oxidation regeneration step ensures that sulfur does not accumulate in the oxygen carrier, thus improving the cycle stability of the oxygen carrier.    
+
+    
+
+* Influence of Cu incorporation on activated carbon for CO2 adsorption and electrocatalytic hydrogen evolution reaction  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393130226
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.colsurfa.2024.133784")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393130226"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393130226"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393130226"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393130226 (Open access: False)
+    
+[[https://openalex.org/A5087653732][Lee-Lee Chang]], [[https://openalex.org/A5024971385][Chechia Hu]], [[https://openalex.org/A5012818564][Chun-Chieh Huang]], [[https://openalex.org/A5080011437][Vlastimil Matějka]], [[https://openalex.org/A5040482981][Kuo‐Lun Tung]], Colloids and Surfaces A: Physicochemical and Engineering Aspects. None(None)] 2024. https://doi.org/10.1016/j.colsurfa.2024.133784 
+     
+Electrocatalytic hydrogen evolution reaction (HER) and CO2 reduction reaction (CO2RR) have emerged as promising approaches toward a sustainable and green society. In this study, potassium citrate-derived activated carbon (ACK) was synthesized and incorporated with copper (Cu) for electrocatalytic reduction under CO2 and N2 flows. The ACK sample exhibited high CO2 adsorption properties to generate different carbonate species and served as an electrocatalyst after Cu incorporation. To understand the competitive reactions of HER and CO2RR, different reaction conditions were applied. Under a CO2 flow, the Cu-ACK sample revealed a high and long-term current density of 0.9 V, and the products were determined to be H2 (2.642 mmol) as major product, and CH3COOH, and C2H5OH as minor products. A reaction mechanism was proposed to elucidate the reaction path for the electrocatalytic CO2 RR and HER.    
+
+    
+
+* Impact of Green Infrastructure Investment on Urban Carbon Emissions in China  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393142915
+:TOPICS: Effects of Noise Pollution on Health and Well-being, Health Effects of Air Pollution, Influence of Built Environment on Active Travel
+:PUBLICATION_DATE: 2024-03-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3390/su16072668")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393142915"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393142915"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393142915"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393142915 (Open access: True)
+    
+[[https://openalex.org/A5017385514][James H. Sang]], [[https://openalex.org/A5064424334][Lingying Pan]], Sustainability. 16(7)] 2024. https://doi.org/10.3390/su16072668  ([[https://www.mdpi.com/2071-1050/16/7/2668/pdf?version=1711347121][pdf]])
+     
+Given the increasingly severe global climate change, the reduction in urban greenhouse gas emissions has become the common goal of all nations. As a widely concerned sustainable development strategy, green infrastructure investment (GII) aims to reduce urban carbon emissions, improve the efficiency of resource utilization, and improve environmental quality. However, the construction cycle of green infrastructure is long, and the construction process itself may produce carbon emissions; so, the final effect of GII on urban carbon emissions is unclear, which deserves our in-depth study. Further, is this effect having a time-lag effect? Is there only a simple linear relationship between GII and urban carbon emissions? Based on panel data from 235 Chinese cities from 2006 to 2019, this study conducted an econometric regression analysis using time-lag-effect and threshold-effect models. The results showed the following: (1) GII had a negative inhibitory effect on urban CO2 emissions. Adding one unit to the GII could reduce urban CO2 emissions by 0.032 units. (2) GII exhibited a time-lag effect on urban CO2 emissions, and the greatest reduction in CO2 emissions occurred in the third lag period. (3) GII had a threshold effect on urban CO2 emissions based on technological progress (TP). This paper used the static and dynamic panel threshold models to research separately, and obtained the corresponding regression results. In the static panel, the double threshold values for TP were 3.9120 and 6.8035. At different TP levels, GII had an inhibitory effect on CO2 emissions, but the coefficients were different. However, in the dynamic panel, the threshold value was 3.666. The threshold changed over time and the effect of GII on CO2 emissions shifted from facilitation to inhibition.    
+
+    
+
+* How are electricity generation effective on carbon neutrality in the global south? Evidence from sectoral CO2 emissions by daily data  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393129349
+:TOPICS: Economic Impact of Environmental Policies and Resources, Economic Implications of Climate Change Policies, Rebound Effect on Energy Efficiency and Consumption
+:PUBLICATION_DATE: 2024-03-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.scitotenv.2024.171911")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393129349"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393129349"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393129349"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393129349 (Open access: False)
+    
+[[https://openalex.org/A5033481107][Mustafa Tevfik Kartal]], [[https://openalex.org/A5059327608][Uğur Korkut Pata]], [[https://openalex.org/A5041091023][Dilvin Taşkın]], Science of The Total Environment. None(None)] 2024. https://doi.org/10.1016/j.scitotenv.2024.171911 
+     
+In light of the efforts to ensure carbon neutrality by combating climate-related problems, the study investigates the effectiveness of electricity generation (EG) from the main renewable sources (hydro-HEG, solar-SEG, and wind-WEG). In this context, the study examines the countries of the Global South (i.e., Brazil, China, and India), considers EG at a disaggregated level and sectoral CO2 emissions, applies nonlinear methods, and uses daily data between January 2, 2019 and December 31, 2022. The results demonstrate that (i) disaggregated EG sources have a stronger (weaker) time and frequency dependency on sectoral CO2 emissions in China (Brazil and India); (ii) HEG has a stimulating impact on sectoral CO2 emissions in all countries; (iii) SEG has an increasing impact on sectoral CO2 emissions in Brazil and China, while it provides a decrease in sectoral CO2 emissions in India; (iv) WEG upsurges sectoral CO2 emissions in China, while it achieves a CO2 reduction in Brazil and India; (v) disaggregated level EG has a causal impact on sectoral CO2 emissions across all quantiles except some lower, middle, and higher quantiles. The study adds scientific value to existing knowledge by analyzing for the first time which EG sources are effective in reducing daily CO2 emissions in the Global South. Based on the outcomes, the study demonstrates that WEG is the best EG source for Brazil, that SEG and WEG are optimal EG sources for India, and that China cannot benefit from the EG sources considered. In this way, the study provides fresh insights for the countries of the Global South and underlines the crucial role of renewable EG in ensuring carbon neutrality.    
+
+    
+
+* Built-in Electric Field Promotes Interfacial Adsorption and Activation of CO2 for C1 Products over a Wide Potential Window  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393129964
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Applications of Ionic Liquids
+:PUBLICATION_DATE: 2024-03-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsnano.4c01190")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393129964"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393129964"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393129964"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393129964 (Open access: False)
+    
+[[https://openalex.org/A5028128911][Xin Zhao]], [[https://openalex.org/A5065851290][Qingguo Feng]], [[https://openalex.org/A5030054664][Mengjie Liu]], [[https://openalex.org/A5065586051][Yuchao Wang]], [[https://openalex.org/A5003048438][Wei Liu]], [[https://openalex.org/A5068511566][Danni Deng]], [[https://openalex.org/A5031308931][Jiabi Jiang]], [[https://openalex.org/A5075973041][Xinran Zheng]], [[https://openalex.org/A5078104649][Longsheng Zhan]], [[https://openalex.org/A5083452441][Jinxian Wang]], [[https://openalex.org/A5086701746][Zheng He]], [[https://openalex.org/A5051304739][Yu Bai]], [[https://openalex.org/A5044911891][Yingbi Chen]], [[https://openalex.org/A5029951088][Xiang Xiong]], [[https://openalex.org/A5086677051][Yongpeng Lei]], ACS Nano. None(None)] 2024. https://doi.org/10.1021/acsnano.4c01190 
+     
+The unsatisfactory adsorption and activation of CO2 suppress electrochemical reduction over a wide potential window. Herein, the built-in electric field (BIEF) at the CeO2/In2O3 n–n heterostructure realizes the C1 (CO and HCOO–) selectivity over 90.0% in a broad range of potentials from −0.7 to −1.1 V with a maximum value of 98.7 ± 0.3% at −0.8 V. In addition, the C1 current density (−1.1 V) of the CeO2/In2O3 heterostructure with a BIEF is about 2.0- and 3.2-fold that of In2O3 and a physically mixed sample, respectively. The experimental and theoretical calculation results indicate that the introduction of CeO2 triggered the charge redistribution and formed the BIEF at the interfaces, which enhanced the interfacial adsorption and activation of CO2 at low overpotentials. Furthermore, the promoting effect was also extended to CeO2/In2S3. This work gives a deep understanding of BIEF engineering for highly efficient CO2 electroreduction over a wide potential window.    
 
     
