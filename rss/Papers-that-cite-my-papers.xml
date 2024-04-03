@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:43:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Density Functional Theory Investigation of Ammonia Oxidation on the M-Doped &#946;-Ni(OH)&lt;sub&gt;2&lt;/sub&gt; (M = Cr, Co, Cu, Fe) Surfaces</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00596</link>
-      <description>Shayne Johnston, Rachelle M. Choueiri, Xinrun Liu, Brendan J. R. Laframboise, Stephen W. Tatarchuk, Leanne D. Chen, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393138765
-
-                The ammonia oxidation reaction (AOR) has applications as a sustainable energy source and in wastewater remediation. Nickel based catalysts for the AOR reaction are ideal as they are cost efficient, have longer lifetimes than more expensive alternatives, and can produce value-added products. Dopants can be applied to these nickel catalysts to further increase their value. This work explores the effects on reaction potentials when &#946;-Ni(OH)2 is doped with chromium, cobalt, copper, or iron using density functional theory to model the AOR. Limiting potentials for dinitrogen production improved when &#946;-Ni(OH)2 was doped with chromium and cobalt. Limiting potentials for nitrite production remained consistent when &#946;-Ni(OH)2 was doped with cobalt or iron. Compared with the pristine &#946;-Ni(OH)2 surface, there was no improvement in the limiting potential of nitrate formation for any of the doped surfaces. This research begins to reveal the importance of exploring dopant addition to &#946;-Ni(OH)2 as a method of improving the catalyst activity for the AOR.</description>
-      <author>Shayne Johnston, Rachelle M. Choueiri, Xinrun Liu, Brendan J. R. Laframboise, Stephen W. Tatarchuk, Leanne D. Chen</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00596</guid>
-    </item>
-    <item>
-      <title>Photocatalytic conversion of CH4 and CO2 to acetic acid over Cu/ZnO catalysts under mild conditions</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150690</link>
-      <description>N. Y. Liu, Na L&#252;, Kun Zhao, Pengxiao Liu, Zhao-Yan Sun, Jing L&#252;, Chemical Engineering Journal. None(None)] 2024. https://openalex.org/W4393142632
-
-                No abstract</description>
-      <author>N. Y. Liu, Na L&#252;, Kun Zhao, Pengxiao Liu, Zhao-Yan Sun, Jing L&#252;</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150690</guid>
-    </item>
-    <item>
-      <title>DFT Understanding of the Oxygen Reduction to Hydrogen Peroxide on Graphene Modified by Oxygen Functional Groups</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01118</link>
-      <description>Yang Song, Chaoquan Hu, Chang Li, Xuebing Xu, The Journal of Physical Chemistry C. None(None)] 2024. https://openalex.org/W4393149361
-
-                No abstract</description>
-      <author>Yang Song, Chaoquan Hu, Chang Li, Xuebing Xu</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01118</guid>
-    </item>
-    <item>
-      <title>Toward transferable empirical valence bonds: Making classical force fields reactive</title>
-      <link>https://doi.org/10.1063/5.0196952</link>
-      <description>Alice Allen, G&#225;bor Cs&#228;nyi, &#152;The &#156;Journal of chemical physics. 160(12)] 2024. https://openalex.org/W4393152642
-
-                The empirical valence bond technique allows classical force fields to model reactive processes. However, parametrization from experimental data or quantum mechanical calculations is required for each reaction present in the simulation. We show that the parameters present in the empirical valence bond method can be predicted using a neural network model and the SMILES strings describing a reaction. This removes the need for quantum calculations in the parametrization of the empirical valence bond technique. In doing so, we have taken the first steps toward defining a new procedure for enabling reactive atomistic simulations. This procedure would allow researchers to use existing classical force fields for reactive simulations, without performing additional quantum mechanical calculations.</description>
-      <author>Alice Allen, G&#225;bor Cs&#228;nyi</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0196952</guid>
-    </item>
-    <item>
-      <title>Role of Electrolyte pH on Water Oxidation for Iridium Oxides</title>
-      <link>https://doi.org/10.1021/jacs.3c12011</link>
-      <description>Caiwu Liang, Yu Katayama, Yemin Tao, Asuka Morinaga, Benjamin Moss, Ver&#243;nica Celorrio, Mary P. Ryan, Ifan E. L. Stephens, James R. Durrant, Reshma R. Rao, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4393157935
-
-                Understanding the effect of noncovalent interactions of intermediates at the polarized catalyst&#8211;electrolyte interface on water oxidation kinetics is key for designing more active and stable electrocatalysts. Here, we combine operando optical spectroscopy, X-ray absorption spectroscopy (XAS), and surface-enhanced infrared absorption spectroscopy (SEIRAS) to probe the effect of noncovalent interactions on the oxygen evolution reaction (OER) activity of IrOx in acidic and alkaline electrolytes. Our results suggest that the active species for the OER (Ir4.x+&#8211;*O) binds much stronger in alkaline compared with acid at low coverage, while the repulsive interactions between these species are higher in alkaline electrolytes. These differences are attributed to the larger fraction of water within the cation hydration shell at the interface in alkaline electrolytes compared to acidic electrolytes, which can stabilize oxygenated intermediates and facilitate long-range interactions between them. Quantitative analysis of the state energetics shows that although the *O intermediates bind more strongly than optimal in alkaline electrolytes, the larger repulsive interaction between them results in a significant weakening of *O binding with increasing coverage, leading to similar energetics of active states in acid and alkaline at OER-relevant potentials. By directly probing the electrochemical interface with complementary spectroscopic techniques, our work goes beyond conventional computational descriptors of the OER activity to explain the experimentally observed OER kinetics of IrOx in acidic and alkaline electrolytes.</description>
-      <author>Caiwu Liang, Yu Katayama, Yemin Tao, Asuka Morinaga, Benjamin Moss, Ver&#243;nica Celorrio, Mary P. Ryan, Ifan E. L. Stephens, James R. Durrant, Reshma R. Rao</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c12011</guid>
-    </item>
-    <item>
-      <title>Electrochemical hydrogenation and oxidation of organic species involving water</title>
-      <link>https://doi.org/10.1038/s41570-024-00589-z</link>
-      <description>Cuibo Liu, Fanpeng Chen, Bohang Zhao, Yongmeng Wu, Bin Zhang, Nature Reviews Chemistry. None(None)] 2024. https://openalex.org/W4393163043
-
-                No abstract</description>
-      <author>Cuibo Liu, Fanpeng Chen, Bohang Zhao, Yongmeng Wu, Bin Zhang</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41570-024-00589-z</guid>
-    </item>
     <item>
       <title>Electrocatalysis</title>
       <link>https://doi.org/10.1016/b978-0-443-15742-4.00038-7</link>
@@ -106,16 +46,6 @@
       <author>Zhenya Hu, Lei Huang, Lin Xu, Hui Liu, Shaonan Tian, Jun Yang</author>
       <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/celc.202300686</guid>
-    </item>
-    <item>
-      <title>Silica&#8208;Derived Nanostructured Electrode Materials for ORR, OER, HER, CO&lt;sub&gt;2&lt;/sub&gt;RR Electrocatalysis, and Energy Storage Applications: A Review**</title>
-      <link>https://doi.org/10.1002/tcr.202300234</link>
-      <description>Sammy Niwire Onajah, Rajib Sarkar, Md. Shafiul Islam, Marja Lalley, Kishwar Khan, M&#252;sl&#252;m Demir, Hani Nasser Abdelhamid, A. M. Farghaly, Chemical record (New York, N.Y. Online). None(None)] 2024. https://openalex.org/W4393191844
-
-                Abstract Silica&#8208;derived nanostructured catalysts (SDNCs) are a class of materials synthesized using nanocasting and templating techniques, which involve the sacrificial removal of a silica template to generate highly porous nanostructured materials. The surface of these nanostructures is functionalized with a variety of electrocatalytically active metal and non&#8208;metal atoms. SDNCs have attracted considerable attention due to their unique physicochemical properties, tunable electronic configuration, and microstructure. These properties make them highly efficient catalysts and promising electrode materials for next generation electrocatalysis, energy conversion, and energy storage technologies. The continued development of SDNCs is likely to lead to new and improved electrocatalysts and electrode materials. This review article provides a comprehensive overview of the recent advances in the development of SDNCs for electrocatalysis and energy storage applications. It analyzes 337,061 research articles published in the Web of Science (WoS) database up to December 2022 using the keywords &#8220;silica&#8221;, &#8220;electrocatalysts&#8221;, &#8220;ORR&#8221;, &#8220;OER&#8221;, &#8220;HER&#8221;, &#8220;HOR&#8221;, &#8220;CO 2 RR&#8221;, &#8220;batteries&#8221;, and &#8220;supercapacitors&#8221;. The review discusses the application of SDNCs for oxygen reduction reaction (ORR), oxygen evolution reaction (OER), hydrogen evolution reaction (HER), carbon dioxide reduction reaction (CO 2 RR), supercapacitors, lithium&#8208;ion batteries, and thermal energy storage applications. It concludes by discussing the advantages and limitations of SDNCs for energy applications.</description>
-      <author>Sammy Niwire Onajah, Rajib Sarkar, Md. Shafiul Islam, Marja Lalley, Kishwar Khan, M&#252;sl&#252;m Demir, Hani Nasser Abdelhamid, A. M. Farghaly</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202300234</guid>
     </item>
     <item>
       <title>Introducing active sites and regulating electron distribution to design Mo and P co-doped Ni for efficient alkaline hydrogen evolution reaction</title>
@@ -258,24 +188,74 @@
       <guid isPermaLink="true">https://doi.org/10.1039/bk9781837672035-00001</guid>
     </item>
     <item>
-      <title>Extending the definition of atomic basis sets to atoms with fractional nuclear charge</title>
-      <link>https://doi.org/10.1063/5.0196383</link>
-      <description>Giorgio Domenichini, The Journal of Chemical Physics. 160(12)] 2024. https://openalex.org/W4393152656
+      <title>Exceptional Performance of &lt;scp&gt;3D&lt;/scp&gt; Additive Manufactured &lt;scp&gt;NiFe&lt;/scp&gt; Phosphite Oxyhydroxide Hollow Tubular Lattice Plastic Electrode for Large&#8208;Current&#8208;Density Water Oxidization</title>
+      <link>https://doi.org/10.1002/eem2.12740</link>
+      <description>Liping Ding, Lin Zhang, Gaoyuan Li, Shuyan Chen, Han Yan, Haibiao Tu, Jianmin Su, Qi Li, Yanfeng Tang, Yanqing Wang, Energy &amp; environment materials. None(None)] 2024. https://openalex.org/W4393233209
 
-                Alchemical transformations showed that perturbation theory can be applied also to changes in the atomic nuclear charges of a molecule. The alchemical path that connects two different chemical species involves the conceptualization of a non-physical system in which an atom possess a non-integer nuclear charge. A correct quantum mechanical treatment of these systems is limited by the fact that finite size atomic basis sets do not define exponents and contraction coefficients for fractional charge atoms. This paper proposes a solution to this problem and shows that a smooth interpolation of the atomic orbital coefficients and exponents across the periodic table is a convenient way to produce accurate alchemical predictions, even using small size basis sets.</description>
-      <author>Giorgio Domenichini</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0196383</guid>
+                In this article, we report a 3D NiFe phosphite oxyhydroxide plastic electrode using high&#8208;resolution digital light processing (DLP) 3D&#8208;printing technology via induced chemical deposition method. The as&#8208;prepared 3D plastic electrode exhibits no template requirement, freedom design, low&#8208;cost, robust, anticorrosion, lightweight, and micro&#8208;nano porous characteristics. It can be drawn to the conclusion that highly oriented open&#8208;porous 3D geometry structure will be beneficial for improving surface catalytic active area, wetting performance, and reaction&#8211;diffusion dynamics of plastic electrodes for oxygen evolution reaction (OER) catalysis process. Density functional theory (DFT) calculation interprets the origin of high activity of NiFe(PO 3 )O(OH) and demonstrates that the implantation of the &#8211;PO 3 can effectively bind the 3d orbital of Ni in NiFe(PO 3 )O(OH), lead to the weak adsorption of intermediate, make electron more active to improve the conductivity, thereby lowing the transform free energy of *O to *OOH. The water oxidization performance of as&#8208;prepared 3D NiFe(PO 3 )O(OH) hollow tubular (HT) lattice plastic electrode has almost reached the state&#8208;of&#8208;the&#8208;art level compared with the as&#8208;reported large&#8208;current&#8208;density catalysts or 3D additive manufactured plastic/metal&#8208;based electrodes, especially for high current OER electrodes. This work breaks through the bottleneck that plagues the performance improvement of low&#8208;cost high&#8208;current electrodes.</description>
+      <author>Liping Ding, Lin Zhang, Gaoyuan Li, Shuyan Chen, Han Yan, Haibiao Tu, Jianmin Su, Qi Li, Yanfeng Tang, Yanqing Wang</author>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/eem2.12740</guid>
     </item>
     <item>
-      <title>Surface structure determination by exhaustive search of asymmetric unit</title>
-      <link>https://doi.org/10.1103/physrevb.109.115430</link>
-      <description>Xingxing Dong, Caiyun He, Chao He, Hui Wang, Shaogang Xu, Hu Xu, Physical review. 109(11)] 2024. https://openalex.org/W4393157853
+      <title>Understanding pH-Dependent Oxygen Reduction Reaction on Metal Alloy Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00461</link>
+      <description>Xinnan Mao, Lu Wang, Youyong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4393234212
 
-                Determining surface structures is a substantial challenge due to the limitations of experimental techniques and the complexity of theoretical models. In this work, we use a method called the exhaustive search of asymmetric unit (ESAU), designed to identify surface structures through a detailed analysis of the asymmetric unit. This method employs two main strategies: narrowing the research area by focusing on a smaller, unique segment rather than the entire unit cell, and transforming the infinite possibilities of atomic positions into discrete, manageable units. These strategies allow us to systematically enumerate all potential surface structures. Employing the ESAU method, we have successfully replicated a variety of known surface structures, including two-dimensional materials on substrates, and have also uncovered some previously unknown structures. Importantly, the ESAU method shows significant promise not only in utilizing experimental data but also in predicting surface and crystal structures without prior experimental evidence. Our results affirm that the ESAU approach provides a comprehensive and efficient tool for uncovering material structures, paving the way for more in-depth studies on the properties and behaviors of materials.</description>
-      <author>Xingxing Dong, Caiyun He, Chao He, Hui Wang, Shaogang Xu, Hu Xu</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.115430</guid>
+                Exploring low-cost and high-efficiency catalysts for oxygen reduction reaction (ORR) kinetics in both acidic and alkaline environments could dramatically improve the efficiency of hydrogen fuel cells and their industrial applications. During the electrochemical process, the effect of pH is a complicating factor and is of great importance in identifying high-efficiency electrocatalysts. In this work, we conducted systematic computations to gain a deep understanding of the pH-dependent ORR activity on Pt, Pd, and their near-surface alloys (NSAs). The effects of pH were calculated by employing the double-reference method, and our calculated pH-dependent current densities are in good agreement with the experimental results. High-throughput calculations identified a series of NSA catalysts with superior ORR performance under acidic or alkaline conditions, and we have developed a pH-corrected theoretical model to efficiently estimate the ORR activity on metal catalysts. This work underscores the importance of considering pH effects when evaluating ORR activity from calculations and provides a strategy for designing superior ORR electrocatalysts in acidic and alkaline solutions.</description>
+      <author>Xinnan Mao, Lu Wang, Youyong Li</author>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00461</guid>
+    </item>
+    <item>
+      <title>Cr dopants and S vacancies in ZnS to trigger efficient photocatalytic H2 evolution and CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.01.094</link>
+      <description>Linping Bao, Yushuai Jia, Xiaohui Ren, Xin Liu, Chunhui Dai, Sajjad Ali, M. Bououdina, Zhang&#8208;Hui Lu, Chao Zeng, Journal of Materials Science and Technology (Shenyang). None(None)] 2024. https://openalex.org/W4393238252
+
+                Driven by endless solar energy, photocatalytic H2 evolution from water splitting and CO2 conversion to hydrocarbon fuels over semiconductor photocatalysts are of great potential to simultaneously settle the greenhouse effect and energy shortage. Herein, Cr-doped zinc sulfide (ZnS) with accompanying sulphur vacancies (Vs) photocatalytic materials is developed by a facile hydrothermal method. The Cr dopants centralize photoinduced holes and Vs trap electrons, forming a synergistic effect for accelerating charge separation and transfer. The reaction energy barrier for both H2 evolution and CO2 reduction has been optimized. Therefore, in the absence of a cocatalyst, the optimal catalyst (Zn0.94Cr0.06S) achieves an outstanding H2 evolution activity of 20.3 mmol g&#8722;1 h&#8722;1, which is approximately 2.9 times higher than 6.9 mmol g&#8722;1 h&#8722;1 for pristine ZnS. In addition, in the gas-solid reaction system without co-catalysts or sacrificial agents, the Zn0.94Cr0.06S exhibits a considerable CO evolution rate of 19.56 &#956;mol g&#8722;1 h&#8722;1, about 10.1 times higher than ZnS (1.94 &#956;mol g&#8722;1 h&#8722;1). Both the performances for H2 evolution and CO2 reduction of Zn0.94Cr0.06S outperform most of the previously reported photocatalysts. Particularly, the Zn0.94Cr0.06S possesses superior stability, the photoactivity of which exhibits no noticeable deactivation after six cycles' reactions. This work may shed light on the rational design and fabrication of highly efficient materials via combining individual element doping and defect engineering.</description>
+      <author>Linping Bao, Yushuai Jia, Xiaohui Ren, Xin Liu, Chunhui Dai, Sajjad Ali, M. Bououdina, Zhang&#8208;Hui Lu, Chao Zeng</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.01.094</guid>
+    </item>
+    <item>
+      <title>SMATool: Strength of Materials Analysis Toolkit</title>
+      <link>https://doi.org/10.1016/j.cpc.2024.109189</link>
+      <description>Chinedu Ekuma, Computer physics communications. None(None)] 2024. https://openalex.org/W4393254202
+
+                No abstract</description>
+      <author>Chinedu Ekuma</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cpc.2024.109189</guid>
+    </item>
+    <item>
+      <title>Recent Advances on Computational Modeling of Supported Single-Atom and Cluster Catalysts: Characterization, Catalyst&#8211;Support Interaction, and Active Site Heterogeneity</title>
+      <link>https://doi.org/10.3390/catal14040224</link>
+      <description>Jiayi Xu, Colton J. Lund, Prajay Patel, Yu Lim Kim, Cong Liu, Catalysts. 14(4)] 2024. https://openalex.org/W4393254287
+
+                To satisfy the need for catalyst materials with high activity, selectivity, and stability for energy conversion, material design and discovery guided by theoretical insights are a necessity. In the past decades, the rise in theoretical investigations into the properties of catalyst materials, reaction mechanisms, and catalyst design principles has shed light on the catalysis field. Quantitative structure&#8211;activity relationships have been developed through incorporating spectroscopic simulations, electronic structure calculations, and reaction mechanistic studies. In this review, we report the state-of-the-art computational approaches to catalyst materials characterization for supported single-atom and cluster catalysts utilizing spectroscopic simulations, i.e., XANES simulation, and material properties investigation via electronic-structure calculations. Furthermore, approaches regarding reaction mechanisms, focusing on active site heterogeneity, are also discussed.</description>
+      <author>Jiayi Xu, Colton J. Lund, Prajay Patel, Yu Lim Kim, Cong Liu</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14040224</guid>
+    </item>
+    <item>
+      <title>Chemical bonding dictates drastic critical temperature difference in two seemingly identical superconductors</title>
+      <link>https://doi.org/10.1073/pnas.2316101121</link>
+      <description>Robert H. Lavroff, Julen Mun&#225;rriz, Claire E. Dickerson, Francisco Mu&#241;oz, Anastassia N. Alexandrova, Proceedings of the National Academy of Sciences of the United States of America. 121(14)] 2024. https://openalex.org/W4393255486
+
+                Though YB 6 and LaB 6 share the same crystal structure, atomic valence electron configuration, and phonon modes, they exhibit drastically different phonon-mediated superconductivity. YB 6 superconducts below 8.4 K, giving it the second-highest critical temperature of known borides, second only to MgB 2 . LaB 6 does not superconduct until near-absolute zero temperatures (below 0.45 K), however. Though previous studies have quantified the canonical superconductivity descriptors of YB 6 &#8217;s greater Fermi-level (E f ) density of states and higher electron&#8211;phonon coupling (EPC), the root of this difference has not been assessed with full detail of the electronic structure. Through chemical bonding, we determine low-lying, unoccupied 4f atomic orbitals in lanthanum to be the key difference between these superconductors. These orbitals, which are not accessible in YB 6 , hybridize with &#960; B&#8211;B bonds and bring this &#960;-system lower in energy than the &#963; B&#8211;B bonds otherwise at E f . This inversion of bands is crucial: the optical phonon modes we show responsible for superconductivity cause the &#963;-orbitals of YB 6 to change drastically in overlap, but couple weakly to the &#960;-orbitals of LaB 6 . These phonons in YB 6 even access a crossing of electronic states, indicating strong EPC. No such crossing in LaB 6 is observed. Finally, a supercell (the M k-point) is shown to undergo Peierls-like effects in YB 6 , introducing additional EPC from both softened acoustic phonons and the same electron-coupled optical modes as in the unit cell. Overall, we find that LaB 6 and YB 6 have fundamentally different mechanisms of superconductivity, despite their otherwise near-identity.</description>
+      <author>Robert H. Lavroff, Julen Mun&#225;rriz, Claire E. Dickerson, Francisco Mu&#241;oz, Anastassia N. Alexandrova</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2316101121</guid>
+    </item>
+    <item>
+      <title>Unraveling the Electrocatalytic Activity in HMF Oxidation to FDCA by Fine&#8208;Tuning the Degree of NiOOH Phase Over Ni Nanoparticles Supported on Graphene Oxide</title>
+      <link>https://doi.org/10.1002/smll.202400779</link>
+      <description>Sorasak Klinyod, Nuttapon Yodsin, Mai Thanh Nguyen, Zikkawas Pasom, Sunpet Assavapanumat, Marisa Ketkaew, Pinit Kidkhunthod, Tetsu Yonezawa, Supawadee Namuangruk, Chularat Wattanakit, Small (Weinheim. Print). None(None)] 2024. https://openalex.org/W4393259803
+
+                Abstract The development of an efficient electrocatalyst for HMF oxidation to FDCA has been in the early stages. Herein, the NiNPs/GO&#8208;Ni&#8208;foam is fabricated as an electrocatalyst for FDCA production. However, the electrocatalytic performance of the untreated NiNPs/GO&#8208;Ni&#8208;foam is observed with moderate Faradaic efficiency (FE) (73.0%) and FDCA yield (80.2%). By electrochemically treating the NiNPs/GO&#8208;Ni&#8208;foam in an alkaline solution with positive potential at different treatment durations, the degree of NiOOH on metal surfaces is changed. The distinctive electrocatalytic activity obtained when using the different NiOOH degrees allows to understand the crucial impact of NiOOH species in HMF electrooxidation. Enhancing the portion of the NiOOH phase on the electrocatalyst surface improves electrocatalytic activity in terms of FE and FDCA yield up to 94.8&#177;4.8% and 86.9&#177;4.1%, respectively. Interestingly, as long as the NiOOH portion on the electrocatalyst surface is preserved or regenerated, the electrocatalyst performance can be intact even after several catalytic cycles. The theoretical study via density functional theory (DFT) also agrees with the experimental observations and confirms that the NiOOH phase facilitates the electrochemical transformation of HMF to FDCA through the HMFCA pathway, and the potential limiting step of the overall reaction is the oxidation of FFCA to FDCA.</description>
+      <author>Sorasak Klinyod, Nuttapon Yodsin, Mai Thanh Nguyen, Zikkawas Pasom, Sunpet Assavapanumat, Marisa Ketkaew, Pinit Kidkhunthod, Tetsu Yonezawa, Supawadee Namuangruk, Chularat Wattanakit</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400779</guid>
     </item>
     <item>
       <title>Reversible Hydrogen Electrode (RHE) Scale Dependent Surface Pourbaix Diagram at Different pH</title>
@@ -286,6 +266,16 @@
       <author>Heng Liu, Di Zhang, Wang Yuan, Hao Li</author>
       <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00298</guid>
+    </item>
+    <item>
+      <title>Validation workflow for machine learning interatomic potentials for complex ceramics</title>
+      <link>https://doi.org/10.1016/j.commatsci.2024.112983</link>
+      <description>Kimia Ghaffari, Salil Bavdekar, Douglas E. Spearot, Ghatu Subhash, Computational materials science. 239(None)] 2024. https://openalex.org/W4393373529
+
+                No abstract</description>
+      <author>Kimia Ghaffari, Salil Bavdekar, Douglas E. Spearot, Ghatu Subhash</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.112983</guid>
     </item>
     <item>
       <title>Process Operability Analysis of Membrane-Based Direct Air Capture for Low-Purity CO&lt;sub&gt;2&lt;/sub&gt; Production</title>

@@ -1,73 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Apr  2 00:47:29 2024
+Created on Wed Apr  3 00:43:50 2024
 
-Found 25 results from 2024-03-26 to 2024-04-02
+Found 25 results from 2024-03-27 to 2024-04-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Switchable Synthesis of Ethylene/Acrylate Copolymers by a Dinickel Catalyst: Evidence for Chain Growth on Both Nickel Centers and Concepts of Cation Exchange Polymerization  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393157067
-:TOPICS: Transition Metal Catalysis, Carbon Dioxide Utilization for Chemical Synthesis, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-03-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00156")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393157067"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393157067"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393157067"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393157067 (Open access: True)
-    
-[[https://openalex.org/A5026299588][Shuoyan Xiong]], [[https://openalex.org/A5086755096][Heather A. Spinney]], [[https://openalex.org/A5064960434][Brad C. Bailey]], [[https://openalex.org/A5032003715][Briana S. Henderson]], [[https://openalex.org/A5094240674][Adjeoda A. Tekpor]], [[https://openalex.org/A5016107902][Matthew R. Espinosa]], [[https://openalex.org/A5077916079][Paramita Saha]], [[https://openalex.org/A5004911977][Theodor Agapie]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00156  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00156][pdf]])
-     
-A dinickel complex, X-Ni2, was developed and demonstrated to have a high performance in ethylene/acrylate copolymerization. Further mechanistic studies revealed that X-Ni2 performs acrylate insertion at both Ni centers at distinct rates. Addition of NaBArF24 to X-Ni2 leads to 1:1 binding and serves as a switch for tuning catalytic activity, copolymer MW and acrylate incorporation. NMR studies of cation binding, when present in substoichiometric amounts, suggest a dynamic process involving cation exchange. This phenomenon provides an alternative strategy for controlling chain growth in polar polyolefin synthesis and was probed herein.    
-
-    
-
-* Ketyl Radical Generation by Photoexcited Palladium and Development of Organopalladium-Type Reactions  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393162411
-:TOPICS: Applications of Photoredox Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization, Catalytic Oxidation of Alcohols
-:PUBLICATION_DATE: 2024-03-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00510")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393162411"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393162411"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393162411"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393162411 (Open access: False)
-    
-[[https://openalex.org/A5008092092][Kosaku Tanaka]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00510 
-     
-Enabling reactions of traditional substrates that are inert to Pd catalysts has the potential for further advancements in the field of Pd chemistry. In this study, we developed a method for generating ketyl radicals through the reaction of a photoexcited Pd species with ketones. Upon subsequent reaction with olefins, the ketyl radicals generated through this method yielded Pd-specific reductive and Heck-type coupling products. Mechanistic studies indicated that the proposed radical generation method exhibits characteristics distinct from those of traditional methods such as SmI2 reduction and photoredox-catalyzed reactions.    
-
-    
-
-* Promoting Photocatalytic CO2 Methanation by the Construction of Cooperative Copper Dual-Active Sites  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393164230
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels, Porous Crystalline Organic Frameworks for Energy and Separation Applications
-:PUBLICATION_DATE: 2024-03-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00060")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393164230"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393164230"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393164230"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393164230 (Open access: False)
-    
-[[https://openalex.org/A5063982212][Minghui Zhang]], [[https://openalex.org/A5090099599][Yuyin Mao]], [[https://openalex.org/A5043423601][Xiaolei Bao]], [[https://openalex.org/A5073772846][Peng Wang]], [[https://openalex.org/A5064686033][Yuanyuan Liu]], [[https://openalex.org/A5005994132][Zhaoke Zheng]], [[https://openalex.org/A5055777639][Hefeng Cheng]], [[https://openalex.org/A5071337833][Ying Dai]], [[https://openalex.org/A5071494860][Zeyan Wang]], [[https://openalex.org/A5026904646][Baibiao Huang]], ACS Catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00060 
-     
-Selective photocatalytic CO2 methanation provides an attractive avenue to address energy and environmental issues. However, impediments such as the sluggish adsorption and activation of CO2 and H2O molecules, along with unexpected intermediate desorption, greatly restrict the activity and selectivity of photocatalytic CO2 methanation. To address these issues, we devised a dual-active site catalyst comprising Cu single atoms (SAs) and nanoclusters (NCs) supported on defective TiO2 (Cu1+NCs/BT). As a result, a remarkable CH4 selectivity of 98% with a yield of 19.63 μmol gcat.–1 h–1 can be obtained over the as-prepared Cu1+NCs/BT in pure water. Mechanistic studies reveal the enhanced performance could be ascribed to the synergistic effect of the Cu dual-active sites, where Cu SAs adsorb and activate CO2, while Cu NCs boost H2O adsorption and dissociation for *H coverage. Additionally, the adjacent Cu dual-active site could jointly stabilize the *CO intermediate and reduce the energy barrier for *CO protonation, promoting the multielectron transfer process.    
-
-    
 
 * Insight into the Role of TiO2 Facets in Photocatalytic Selective Oxidation of p-Xylene  :ACS_Catalysis:
 :PROPERTIES:
@@ -528,5 +465,68 @@ OpenAlex: https://openalex.org/W4393305578 (Open access: False)
 [[https://openalex.org/A5068400290][Andrew J. Bagnall]], [[https://openalex.org/A5092760919][Matthieu Haake]], [[https://openalex.org/A5071474652][Sergi Grau]], [[https://openalex.org/A5025011392][Tatiana Straistari]], [[https://openalex.org/A5008192334][Matthieu Koepf]], [[https://openalex.org/A5008669299][Navid Jameei Moghaddam]], [[https://openalex.org/A5027825269][Carolina Gimbert‐Suriñach]], [[https://openalex.org/A5003571345][Jordi Benet‐Buchholz]], [[https://openalex.org/A5005120127][Antoni Llobet]], [[https://openalex.org/A5009538487][Murielle Chavarot‐Kerlidou]], [[https://openalex.org/A5020577271][Bertrand Reuillard]], [[https://openalex.org/A5047933845][Vincent Artero]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00336 
      
 The anticipated shortage of an increasing number of critical elements, especially metals, requires a shift toward molecularly defined materials with low metal loadings. More particularly, surface-anchored molecular catalysts are attractive to prospectively enable cost-effective electrochemical hydrogen evolution. However, the design of ligands integrating specific anchoring unit(s) for the immobilization of molecular catalysts can be challenging and has direct consequences for the intrinsic properties of the grafted complex. In this work, two cobalt tetraazamacrocyclic complexes bearing pyrene anchoring groups at different positions on the macrocyclic ligands were synthesized. The pyrene unit allows for simple immobilization and electrochemical characterization of the two complexes on multi-walled carbon nanotube-based electrodes. Thorough electrochemical and electrocatalytic investigation demonstrates important differences between the two closely related catalysts in terms of catalyst loading, catalytic response, and stability over time, with a significantly higher stability observed at pH 7 than at pH 2.    
+
+    
+
+* Axially Chiral Copper Catalyst for Asymmetric Synthesis of Valuable Diversely Substituted BINOLs  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393308838
+:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Aromaticity in Organic Molecules and Materials
+:PUBLICATION_DATE: 2024-03-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00726")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393308838"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393308838"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393308838"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393308838 (Open access: False)
+    
+[[https://openalex.org/A5086976460][Jun Gao]], [[https://openalex.org/A5080077246][P.L. Wang]], [[https://openalex.org/A5071298608][Ahui Shen]], [[https://openalex.org/A5037358505][Xueyan Yang]], [[https://openalex.org/A5067090172][Shouyi Cen]], [[https://openalex.org/A5022807400][Zhipeng Zhang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00726 
+     
+Optically pure BINOL (1,1′-bi-2-naphthol) and diversely substituted BINOLs are highly valuable chiral motifs featuring axial chirality widely applied in various fields. Although unsubstituted BINOL is commercially available, the catalytic asymmetric synthesis of optically pure diversely substituted BINOLs is still very challenging. Herein, we report the development of a highly enantioselective dinuclear copper catalyst for oxidative homo- and cross-coupling of a variety of 2-naphthols to provide access to a broad range of highly valuable diversely substituted C2- and C1-symmetric BINOLs in up to 92% yield with high enantioselectivities (up to 99.5:0.5 er).    
+
+    
+
+* How Micropore Topology Influences the Structure and Location of Coke in Zeolite Catalysts  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393309555
+:TOPICS: Zeolite Chemistry and Catalysis, Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-03-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00025")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393309555"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393309555"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393309555"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393309555 (Open access: True)
+    
+[[https://openalex.org/A5011286202][Przemysław Rzepka]], [[https://openalex.org/A5058790744][Denis Sheptyakov]], [[https://openalex.org/A5055838753][Chao Wang]], [[https://openalex.org/A5054120563][Jeroen A. van Bokhoven]], [[https://openalex.org/A5059144530][Vladimir Paunović]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00025  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00025][pdf]])
+     
+Zeolite catalysts exhibit microporous structures, akin to the pockets in naturally occurring enzyme catalysts, which enable the confinement of reaction intermediates, thus facilitating chemical transformations. Nonetheless, the micropores also influence the formation of coke species, which is the main source of catalytic activity loss. Unveiling the relationships between the micropore topology and the internal structure and location of deactivating coke compounds is of high relevance for comprehending the deactivation mechanisms. In this study, we used an approach exploiting powder neutron diffraction to assess the location of coke and determine the dominating structures in the topologically distinct ZSM-5 (MFI topology), ZSM-35 (FER), and SSZ-13 (CHA) zeolite catalysts deactivated in industrially relevant methanol-to-hydrocarbon (MTH) conversion. In ZSM-5 and ZSM-35 catalysts, coke resides along the straight 10-membered ring (MR) channels and exhibits the highest concentration in their intersecting regions with sinusoidal 10 MR and straight 8 MR pores, respectively. In the SSZ-13 catalyst, coke is not only located in cages but also protrudes through their 8 MR windows, suggesting the interconnectivity of coke molecules between the large cavities. Notably, the coke-associated signals in the ZSM-5 and ZSM-35 catalysts show a strong planar arrangement that can be fitted by polycyclic and monocyclic arene structures, respectively. These averaged coke structures are consistent with the composition of coke assessed by gas chromatography–mass spectrometry, 13C and two-dimensional 1H double-quantum single-quantum magic-angle spinning nuclear magnetic resonance, and operando diffuse reflectance ultraviolet–visible spectroscopic analysis. The findings evidence that the pore topology directs the confinement and structure of coke, wherein the largest void zones of the micropore space are the most susceptible to coking.    
+
+    
+
+* Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393311212
+:TOPICS: Drug Metabolism and Pharmacogenomics, Homogeneous Catalysis with Transition Metals, Computational Methods in Drug Discovery
+:PUBLICATION_DATE: 2024-03-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00086")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393311212"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393311212"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393311212"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393311212 (Open access: True)
+    
+[[https://openalex.org/A5064757543][Douglas J. Fansher]], [[https://openalex.org/A5046459245][Jonathan N. Besna]], [[https://openalex.org/A5071852582][Ali Fendri]], [[https://openalex.org/A5024277895][Joelle N. Pelletier]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00086  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00086][pdf]])
+     
+No abstract    
 
     

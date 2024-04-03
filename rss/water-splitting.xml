@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:43:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ultrasound-Assisted Synthesis of High-Entropy Materials for Enhanced Oxygen Evolution Electrocatalysis</title>
-      <link>https://doi.org/10.3390/met14040384</link>
-      <description>Zhiyuan Wang, Chengxu Zhang, Yue Zhang, Jue Hu, Metals. 14(4)] 2024. https://openalex.org/W4393142290
-
-                High-entropy materials (HEMs) play a significant role in the electrocatalytic oxygen evolution reaction (OER) due to their unique properties. However, there are still challenges in the preparation of HEMs for OER catalysts. In this study, the FeCoNiMnCr catalyst is synthesized for the first time using the ultrasonic hydrothermal-sintering technique and exhibits excellent performance for OER electrocatalysis. There is an optimal ultrasonic hydrothermal time and power for achieving the best OER performance. The results demonstrate that the performance of FeCoNiMnCr catalysts prepared through ultrasonic hydrothermal sintering (US-FeCoNiMnCr) is significantly improved compared with the traditional hydrothermal-sintering method. The US-FeCoNiMnCr catalyst exhibits an overpotential of 228 mV at the current density of 10 mA cm&#8722;2 and a Tafel slope as low as 45.39 mV dec&#8722;1 in an alkaline medium. Moreover, the US-FeCoNiMnCr catalyst demonstrates remarkable stability in electrocatalytic OER with a minimal potential increase observed even after 48 h. This work not only provides valuable insights into high-entropy material synthesis, but also presents a powerful electrocatalyst for water electrolysis.</description>
-      <author>Zhiyuan Wang, Chengxu Zhang, Yue Zhang, Jue Hu</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/met14040384</guid>
-    </item>
-    <item>
-      <title>Iron Integration in Nickel Hydroxide Matrix vs Surface for Oxygen-Evolution Reaction: Where the Nernst Equation Does Not Work</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00604</link>
-      <description>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour, The Journal of Physical Chemistry Letters. None(None)] 2024. https://openalex.org/W4393144203
-
-                No abstract</description>
-      <author>Mohammad Saleh Ali Akbari, Subhajit Nandy, Keun Hwa Chae, Mohammad Mahdi Najafpour</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00604</guid>
-    </item>
-    <item>
-      <title>Cerium Doping&#8208;Induced Enrichment of Ni 3 S 4 Phase for Boosting Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/cssc.202400056</link>
-      <description>Chunqing Gao, Lu Pan, Hong Wang, Hongyu Guo, Saad Melhi, Mohammed A. Amin, Jianjian Lin, ChemSusChem. None(None)] 2024. https://openalex.org/W4393149499
-
-                The development of low&#8208;cost transition metal compounds with high&#8208;performance for efficient oxygen evolution reaction (OER) is of great significance in promoting the development of electrocatalysis. In this study, a Ce&#8208;doped Ni3S4 catalyst (Ce0.2&#8208;Ni3S4) was synthesized through a one&#8208;step solvothermal method, where the doped rare earth element Ce induced the transformation of NiS to Ni3S4. The Ce0.2&#8208;Ni3S4 catalyst exhibited excellent OER performance in 1 M KOH. At a current density of 10 mA cm&#8208;2, it showed a low overpotential of 230 mV and a low Tafel slope of 52.39 mV dec&#8208;1. Long&#8208;term OER tests at the same potential lasted for 24 h without significant loss of current density. This work introduces a novel method of Ce element doping for modifying transition metal sulfides, providing new insights into the effective utilization of rare earth elements in the field of electrochemistry. It creates more chances for the progress of highly efficient catalysts for efficient OER, contributing to the advancement of electrocatalysis.</description>
-      <author>Chunqing Gao, Lu Pan, Hong Wang, Hongyu Guo, Saad Melhi, Mohammed A. Amin, Jianjian Lin</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cssc.202400056</guid>
-    </item>
-    <item>
-      <title>Self-Supported CoSe&lt;sub&gt;2&lt;/sub&gt; Nanorods for Efficient Oxygen Evolution and Urea Oxidation</title>
-      <link>https://doi.org/10.1021/acsanm.3c05856</link>
-      <description>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4393158032
-
-                It is important for the practical application of water electrolysis to explore stable and earth-rich bifunctional catalysts for oxygen evolution reaction (OER) and urea oxidation reaction (UOR). An immersion-selenization strategy was proposed to prepare CoSe2/Co nanorods anchored on Co foam as bifunctional catalysts for OER and UOR. Due to the self-supported properties of CoSe2/Co and its unique nanorod structure, the OER activity is enhanced, showing an overpotential of 318 mV and a Tafel slope of 91.11 mV dec&#8211;1. In addition, the electrode showed excellent electrocatalytic UOR activity with an overpotential of 260 mV and a Tafel slope of 94.83 mV dec&#8211;1. The nanorod structure was basically retained after a 28 h durability test. This work provides a broad approach to the development of low-cost bifunctional electrocatalysts.</description>
-      <author>Ke Zhao, Xiao Chen, Haixia Liu, Jianfeng Wang, Jie Zhang</author>
-      <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.3c05856</guid>
-    </item>
-    <item>
-      <title>Interface Engineering of Electrocatalysts for Efficient and Selective Oxygen Evolution in Alkaline/Seawater</title>
-      <link>https://doi.org/10.1002/cctc.202400125</link>
-      <description>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee, ChemCatChem. None(None)] 2024. https://openalex.org/W4393161543
-
-                Electrochemical water splitting is regarded as an effective technology for producing green hydrogen, which is crucial for addressing energy and environmental challenges. In particular, direct seawater splitting offers significant economic and environmental advantages. However, its efficiency is hindered by the high overpotential required for the oxygen evolution reaction (OER) and the competition from chloride oxidation. This review highlights the potential of interface engineering to overcome these limitations and develop efficient OER electrocatalysts. We comprehensively explore recent advancements in interface engineering for OER in both alkaline and seawater environments. We begin by introducing the mechanisms of freshwater and seawater electrolysis, emphasizing key considerations for OER catalyst design. Subsequently, we review the recent progress made in various interface engineering strategies, analyzing their impact on OER performance in both electrolytes. Finally, we outline promising future directions for developing efficient seawater oxidation catalysts through interface engineering.</description>
-      <author>Dae-Kyu Kim, Wenhan Zu, Cheuk S. Kwok, Yoon Suk Lee</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400125</guid>
-    </item>
-    <item>
-      <title>Fabrication of nanocrystalline high-entropy oxide CoNiFeCrMnO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; thin film electrodes by dip-coating for oxygen evolution electrocatalysis</title>
-      <link>https://doi.org/10.1039/d4ya00026a</link>
-      <description>Qingyin Wu, Achim Alkemper, Stefan Lauterbach, Jan P. Hofmann, Marcus Einert, Energy advances. None(None)] 2024. https://openalex.org/W4393170112
-
-                Nanocrystalline high-entropy CoNiFeCrMnO x thin films were prepared by dip-coating and annealing at 400 &#176;C, showing stable oxygen evolution with overpotentials of 258 mV vs. RHE at 10 mA cm &#8722;2 over 10 hours in alkaline media.</description>
-      <author>Qingyin Wu, Achim Alkemper, Stefan Lauterbach, Jan P. Hofmann, Marcus Einert</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ya00026a</guid>
-    </item>
-    <item>
-      <title>Iron-doped cobalt phosphide nanowires prepared &lt;i&gt;via&lt;/i&gt; one-step solvothermal phosphidization of metal&#8211;organic frameworks for the oxygen evolution reactions</title>
-      <link>https://doi.org/10.1039/d4gc00132j</link>
-      <description>Jianbo Tong, Yichuang Xing, Xuechun Xiao, Yuan Liu, Zhiping Hu, Zeyi Wang, Yafei Hu, B. Xin, Shuling Liu, He Wang, Chao Wang, Green Chemistry. None(None)] 2024. https://openalex.org/W4393170501
-
-                A solvothermal phosphidization method is adopted to construct CoFeP nanowires to electrochemically catalyze oxygen evolution reaction.</description>
-      <author>Jianbo Tong, Yichuang Xing, Xuechun Xiao, Yuan Liu, Zhiping Hu, Zeyi Wang, Yafei Hu, B. Xin, Shuling Liu, He Wang, Chao Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4gc00132j</guid>
-    </item>
-    <item>
-      <title>Fe2W18Fe4@MOF-Ni-100 nanocomposite: Insights into synthesis and application as a promising material towards the electrocatalytic water oxidation</title>
-      <link>https://doi.org/10.1016/j.apt.2024.104380</link>
-      <description>Mohammad Ali Rezvani, Hadi Hassani Ardeshiri, Hossein Ghafuri, Nasrin Khalafi, Advanced Powder Technology. 35(4)] 2024. https://openalex.org/W4393178854
-
-                In this research, a new nanocomposite was synthesized via the sol&#8211;gel method by encapsulation of tetranuclear sandwich-type hetropolyanion (Na9K[(FeW9O34)2Fe4(H2O)2].32H2O, abbreviated as Fe2W18Fe4, on the surface of MOF-Ni-100 for the first time. The as-prepared nanocomposite (Fe2W18Fe4@MOF-Ni-100) was examined using different microscopy and spectroscopy techniques, including FT-IR, UV&#8211;vis, XRD, SEM, EDX, and BET techniques. The assembled Fe2W18Fe4@MOF-Ni-100 nanocomposite served as a potential heterogeneous catalyst in the water oxidation process for the purpose of oxygen evolution reaction (OER) at neutral pH conditions (N2-saturated 0.1 M Na2SO4). The electrochemical characteristics of the Fe2W18Fe4@MOF-Ni-100 nanocomposite was assessed through cyclic voltammetry (CV), linear sweep voltammetry (LSV), and electrochemical impedance spectroscopy (EIS) methods. The desired nanocatalyst displayed a low onset potential of 1.1 V vs. NHE and low overpotential of 269 mV at a current density (j) of 10 mA&#266;cm&#8722;2 with a Tafel slope of 73 mV.dec&#8722;1 (pH = 7). Furthermore, the Fe2W18Fe4@MOF-Ni-100 nanocomposite exhibited remarkable stability and retained its catalytic activity even after 200 catalytic cycles.</description>
-      <author>Mohammad Ali Rezvani, Hadi Hassani Ardeshiri, Hossein Ghafuri, Nasrin Khalafi</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apt.2024.104380</guid>
-    </item>
     <item>
       <title>Low-Overpotential Rechargeable Na&#8211;CO&lt;sub&gt;2&lt;/sub&gt; Batteries Enabled by an Oxygen-Vacancy-Rich Cobalt Oxide Catalyst</title>
       <link>https://doi.org/10.1021/acsami.4c01682</link>
@@ -96,16 +16,6 @@
       <author>Zhi Zheng, Xiaobo Zheng, Jiazhao Wang, Qi Zhang, Peng Li, Can Li, Qinfen Gu, Wei Li, Konstantin Konstantinov, Weishen Yang, Yuan Chen, Jiazhao Wang</author>
       <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c01682</guid>
-    </item>
-    <item>
-      <title>ZIF-67-derived petal-like Co(OH)2-MoO3/NF layered nanosheets as a promising electrocatalyst for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jelechem.2024.118223</link>
-      <description>Xuan&#8208;Ming Duan, Jianmei Cen, Xiaoyu Qiu, Xixiang Liu, Journal of electroanalytical chemistry (1992). None(None)] 2024. https://openalex.org/W4393187108
-
-                No abstract</description>
-      <author>Xuan&#8208;Ming Duan, Jianmei Cen, Xiaoyu Qiu, Xixiang Liu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118223</guid>
     </item>
     <item>
       <title>Probing Surface Transformations of Lanthanum Nickelate Electrocatalysts during Oxygen Evolution Reaction</title>
@@ -136,16 +46,6 @@
       <author>Yinggang Sun, Tingwei Zhang, Peng Sun, Jigang Wang, Wenjie Duan, Yanqiong Zhuang, Likai Wang, Guohong Liu</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.03.019</guid>
-    </item>
-    <item>
-      <title>Silica&#8208;Derived Nanostructured Electrode Materials for ORR, OER, HER, CO&lt;sub&gt;2&lt;/sub&gt;RR Electrocatalysis, and Energy Storage Applications: A Review**</title>
-      <link>https://doi.org/10.1002/tcr.202300234</link>
-      <description>Sammy Niwire Onajah, Rajib Sarkar, Md. Shafiul Islam, Marja Lalley, Kishwar Khan, M&#252;sl&#252;m Demir, Hani Nasser Abdelhamid, A. M. Farghaly, Chemical record (New York, N.Y. Online). None(None)] 2024. https://openalex.org/W4393191844
-
-                Abstract Silica&#8208;derived nanostructured catalysts (SDNCs) are a class of materials synthesized using nanocasting and templating techniques, which involve the sacrificial removal of a silica template to generate highly porous nanostructured materials. The surface of these nanostructures is functionalized with a variety of electrocatalytically active metal and non&#8208;metal atoms. SDNCs have attracted considerable attention due to their unique physicochemical properties, tunable electronic configuration, and microstructure. These properties make them highly efficient catalysts and promising electrode materials for next generation electrocatalysis, energy conversion, and energy storage technologies. The continued development of SDNCs is likely to lead to new and improved electrocatalysts and electrode materials. This review article provides a comprehensive overview of the recent advances in the development of SDNCs for electrocatalysis and energy storage applications. It analyzes 337,061 research articles published in the Web of Science (WoS) database up to December 2022 using the keywords &#8220;silica&#8221;, &#8220;electrocatalysts&#8221;, &#8220;ORR&#8221;, &#8220;OER&#8221;, &#8220;HER&#8221;, &#8220;HOR&#8221;, &#8220;CO 2 RR&#8221;, &#8220;batteries&#8221;, and &#8220;supercapacitors&#8221;. The review discusses the application of SDNCs for oxygen reduction reaction (ORR), oxygen evolution reaction (OER), hydrogen evolution reaction (HER), carbon dioxide reduction reaction (CO 2 RR), supercapacitors, lithium&#8208;ion batteries, and thermal energy storage applications. It concludes by discussing the advantages and limitations of SDNCs for energy applications.</description>
-      <author>Sammy Niwire Onajah, Rajib Sarkar, Md. Shafiul Islam, Marja Lalley, Kishwar Khan, M&#252;sl&#252;m Demir, Hani Nasser Abdelhamid, A. M. Farghaly</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/tcr.202300234</guid>
     </item>
     <item>
       <title>Selective electrooxidation of 5-hydroxymethylfurfural at low working potentials promoted by 3D hierarchical Cu(OH)&lt;sub&gt;2&lt;/sub&gt;@Ni&lt;sub&gt;3&lt;/sub&gt;Co&lt;sub&gt;1&lt;/sub&gt;-layered double hydroxide architecture with oxygen vacancies</title>
@@ -258,14 +158,44 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00009</guid>
     </item>
     <item>
-      <title>Development of CuSe/polypyrrole electrocatalyst for oxygen evolution reaction</title>
-      <link>https://doi.org/10.1007/s00339-024-07429-3</link>
-      <description>Syed Imran Abbas Shah, Sumaira Manzoor, Muhammad Moazzam Khan, Nargis Bano, Sameh M. Osman, Muhammad Fahad Ehsan, Muhammad Naeem Ashiq, Applied physics. A, Materials science &amp; processing (Print). 130(4)] 2024. https://openalex.org/W4393342827
+      <title>Preparation of Fe/P co-doped MMoO4 (M=Co, Cu and Zn) as environmentally friendly oxygen evolution reaction electrocatalyst</title>
+      <link>https://doi.org/10.1016/j.surfin.2024.104266</link>
+      <description>Shijie Liu, Yanhong Wang, Xiaoqiang Du, Xiaoshuang Zhang, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4393237835
 
-                No abstract</description>
-      <author>Syed Imran Abbas Shah, Sumaira Manzoor, Muhammad Moazzam Khan, Nargis Bano, Sameh M. Osman, Muhammad Fahad Ehsan, Muhammad Naeem Ashiq</author>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s00339-024-07429-3</guid>
+                Hydrogen production from electrolyzed water has become an ideal new energy source for people to replace traditional fossil energy sources due to its high efficiency and low-carbon characteristics. Therefore, this paper presents preparation of a series of Fe/P co-doped MMoO4 (M=Co, Cu and Zn) catalyst loaded on nickel foam by simple hydrothermal and phosphorization process for the first time. After comparing different molybdate metal salts as precursors, it was demonstrated that the fabricated Fe/P co-doped CuMoO4 target catalysts possessed excellent catalytic performance with an overpotential of only 287 mV at a current density of 100 mA cm&#8722;2, faster reaction kinetics and a large active surface area for oxygen evolution reaction (OER). Density functional theory (DFT) calculation shows that the absorption energy of water and the electrical conductivity of the material are enhanced by the co-doping of the Fe and P. The doping of the Fe and P changes the electronic state and coordination environment of the active site, thus enhancing the catalytic activity of the electrode. The experimental results further prove that the doping of the Fe and P makes the active site more exposed and the resistance smaller, thus enhancing the conductivity and activation energy of the material. What is noteworthy is that the electrode also performed well in stability tests, which provided a fabrication solution of new catalyst for green hydrogen production.</description>
+      <author>Shijie Liu, Yanhong Wang, Xiaoqiang Du, Xiaoshuang Zhang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104266</guid>
+    </item>
+    <item>
+      <title>Spin-state regulation by secondary coordination sphere for improved oxygen evolution activity of LaCo1-Ni O3 perovskite</title>
+      <link>https://doi.org/10.1016/j.ceramint.2024.03.306</link>
+      <description>Di Yao, M. Y. Chai, Yunyun Lv, Enhui Wang, Tao Yang, Zhi Fang, Xinmei Hou, Ceramics international. None(None)] 2024. https://openalex.org/W4393238163
+
+                The evolution of oxygen evolution reaction (OER) remains a pivotal challenge in the realm of oxygen electrocatalysis. Recently, the proposition of regulating spin states has emerged as a novel avenue for enhancing the efficiency of electrocatalytic reactions. Presently, accurately modulating the metal active center into immediate spin (IS) remains a formidable challenge. Here, our research has achieved a breakthrough in precise spin state control and catalytic performance enhancement of Co3+ through the utilization of Ni-substituted LaCo1-xNixO3 perovskite. This achievement is primarily attributed to the fine regulation of both the secondary coordination sphere (SCS) and primary coordination sphere (PCS), i.e., Co6-y-[Co]-Niy (y = 0&#8211;6) and Co-O lengths, respectively. Our findings reveal that LaCo7/9Ni2/9O3 consisted of the SCS (y &#8804; 2) with the eg1 fillings of IS Co3+ exhibits an optimal OER activity. Additionally, adjusting the Co-O bond length in PCS to approximately 1.89 &#197; proves to be more conducive to the transition of Co3+ spin states from high spin (HS) and low spin (LS) to IS. These discoveries present new approach to precisely modulating the spin state, offering promising prospects for the development of high-efficiency OER catalysts.</description>
+      <author>Di Yao, M. Y. Chai, Yunyun Lv, Enhui Wang, Tao Yang, Zhi Fang, Xinmei Hou</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.03.306</guid>
+    </item>
+    <item>
+      <title>Photoelectrochemical water oxidation for on-site production of hydrogen peroxide</title>
+      <link>https://doi.org/10.1016/j.mtphys.2024.101411</link>
+      <description>Aizhen Liao, Yiqing Wei, Qi Xie, Kan Zhang, Linji Zhang, Gangqiang Zhu, Zixu Zhao, Yong Zhou, Zhigang Zou, Materials today physics. None(None)] 2024. https://openalex.org/W4393238383
+
+                Photoelectrochemical (PEC) two-electron water-oxidation reaction is a promising route for renewable and on-site generation of H2O2 as an alternative to the traditional anthraquinone process. However, large overpotential, low product selectivity, and poor stability limit its practical applications of PEC producing H2O2. This review discusses the fundamental aspects of two-electron water oxidation toward H2O2 in a simple PEC device. It also presents the research background and all prevailing and recent breakthrough in the mechanisms of anodic H2O2 generation. Afterward, it comprehensively reviews the progress made so far in enhancing the Faradaic efficiency of H2O2 synthesis by tuning the thermodynamic energy barriers and reaction kinetics, facilitating the mass transfer of reactants and products, and stabilizing the products and catalytic surfaces. Finally, the critical challenges and opportunities for future development in this field are discussed. We believe that this review would stimulate further efforts to achieve highly efficient on-site H2O2 production and high-power-density fuel cells with H2O2 chemical utilization.</description>
+      <author>Aizhen Liao, Yiqing Wei, Qi Xie, Kan Zhang, Linji Zhang, Gangqiang Zhu, Zixu Zhao, Yong Zhou, Zhigang Zou</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtphys.2024.101411</guid>
+    </item>
+    <item>
+      <title>Single-atom Co dispersed on polyoxometalate derivatives confined in bamboo-like carbon nanotubes enabling efficient dual-site lattice oxygen mediated oxygen evolution electrocatalysis for acidic water electrolyzers</title>
+      <link>https://doi.org/10.1039/d4ee00173g</link>
+      <description>Jianyun Liu, Tanyuan Wang, Zijie Lin, Mengyi Liao, Shuxia Liu, Shiyu Wang, Zhao Cai, Hongqi Sun, Yanbin Shen, Yunhui Huang, Qing Li, Energy &amp; environmental science (Print). None(None)] 2024. https://openalex.org/W4393239594
+
+                The development of efficient and durable earth-abundant electrocatalysts for acidic oxygen evolution reaction (OER) is crucial for the large-scale application of proton exchange membrane water electrolyzers (PEMWEs). Here, we report...</description>
+      <author>Jianyun Liu, Tanyuan Wang, Zijie Lin, Mengyi Liao, Shuxia Liu, Shiyu Wang, Zhao Cai, Hongqi Sun, Yanbin Shen, Yunhui Huang, Qing Li</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ee00173g</guid>
     </item>
     <item>
       <title>Composition-tunable Co3-xFexSe4 as efficient electrocatalysts for the oxygen evolution reaction</title>
@@ -276,6 +206,76 @@
       <author>G Chen, Sheng Zhu, Qingwei Gao, Shuaiqi Gong, Gregory A. Solan, Qing Xu, Yulin Min</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.003</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
+      <link>https://doi.org/10.1039/d4ra00146j/v1/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4393251122
+
+                No abstract</description>
+      <author/>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v1/decision1</guid>
+    </item>
+    <item>
+      <title>Review for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
+      <link>https://doi.org/10.1039/d4ra00146j/v1/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4393251195
+
+                No abstract</description>
+      <author/>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v1/review1</guid>
+    </item>
+    <item>
+      <title>Controllable Synthesis Heterojunction of g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt; and BiVO&lt;sub&gt;4&lt;/sub&gt; to Enhance the Photocatalytic Oxygen Evolution Activity</title>
+      <link>https://doi.org/10.1021/acssuschemeng.4c00637</link>
+      <description>Qingyan Zhang, Guowei Liu, Taifeng Liu, ACS sustainable chemistry &amp; engineering. None(None)] 2024. https://openalex.org/W4393267411
+
+                Heterojunctions formed between semiconductors have been confirmed to efficiently enhance the separation of photogenerated carriers, thereby boosting the photocatalytic activity. However, achieving controllable synthesis of heterojunctions remains a challenge. In this study, g-C3N4 (CN) was positively charged by carefully adjusting the pH of the solution. Subsequently, it was precisely located on the (010) crystal facet of decahedral BiVO4 (BVO) under light irradiation, where photogenerated negative electrons accumulate on the (010) facet of BVO. This process results in the construction of a composite with a heterojunction between CN and the (010) facet of BVO. The optimal photocatalytic oxygen production activity of this composite reaches 2966.9 &#956;mol/g/h, a remarkable 3.3 times better than that of BVO alone. This result shows that the heterojunction can significantly improve the oxygen production activity of the composite photocatalyst. By a combination of the Kubelka&#8211;Munk function, Mott&#8211;Schottky, and theoretical calculations, we found that the migration of photogenerated electrons from BVO to CN matches well with the S-scheme mechanism. This work provides valuable suggestions and guidance for the precise synthesis of heterojunction photocatalyst and is looking forward to being applied to other materials related to environmental and energy research.</description>
+      <author>Qingyan Zhang, Guowei Liu, Taifeng Liu</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c00637</guid>
+    </item>
+    <item>
+      <title>Decision letter for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
+      <link>https://doi.org/10.1039/d4ra00146j/v2/decision1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4393280937
+
+                No abstract</description>
+      <author/>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v2/decision1</guid>
+    </item>
+    <item>
+      <title>Review for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
+      <link>https://doi.org/10.1039/d4ra00146j/v2/review1</link>
+      <description>, No host. None(None)] 2024. https://openalex.org/W4393280950
+
+                No abstract</description>
+      <author/>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v2/review1</guid>
+    </item>
+    <item>
+      <title>Development of CuSe/polypyrrole electrocatalyst for oxygen evolution reaction</title>
+      <link>https://doi.org/10.1007/s00339-024-07429-3</link>
+      <description>Syed Imran Abbas Shah, Sumaira Manzoor, Muhammad Moazzam Khan, Nargis Bano, Sameh M. Osman, Muhammad Fahad Ehsan, Muhammad Naeem Ashiq, Applied physics. A, Materials science &amp; processing (Print). 130(4)] 2024. https://openalex.org/W4393342827
+
+                No abstract</description>
+      <author>Syed Imran Abbas Shah, Sumaira Manzoor, Muhammad Moazzam Khan, Nargis Bano, Sameh M. Osman, Muhammad Fahad Ehsan, Muhammad Naeem Ashiq</author>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s00339-024-07429-3</guid>
+    </item>
+    <item>
+      <title>An Efficient Photocatalytic Oxygen Evolution System with the Coupling of Polyoxometalates with Bismuth Vanadate</title>
+      <link>https://doi.org/10.3390/catal14040236</link>
+      <description>Boon Chong Ong, Teik&#8208;Thye Lim, Can Xue, Zhili Dong, Catalysts. 14(4)] 2024. https://openalex.org/W4393379318
+
+                In this work, a coupling system consisting of bismuth vanadate (BiVO4) and cobalt-based polyoxometalates (Co-POMs) was developed to enhance the oxygen evolution reaction. Crystallization-driven self-assembly and the wet chemical synthesis method were deployed in synthesizing Co-POMs and monoclinic&#8211;tetragonal mixed&#8211;phase BiVO4, respectively. The introduction of Co-POMs into a BiVO4-containing mixture significantly enhanced the water oxidation reaction, with a more than twofold increment in the total amount of oxygen evolved. For instance, 461.2 &#181;mol of oxygen was evolved from the system containing 20 mg of Co-POMs compared to 195 &#181;mol of oxygen produced from a pristine BiVO4 system. This extraordinary improvement in the oxygen evolution reaction indicates the existence of a positive synergic effect between BiVO4 and Co-POMs, in which Co-POMs could act as effective cocatalysts to extract photogenerated charge carriers generated by BiVO4 and improve the charge transfer process. However, the amount of oxygen produced was slightly reduced to 440.7 &#181;mol with an increase in AgNO3 loading from 30 mg to 60 mg. This unforeseen phenomenon could be elucidated by the shielding effect of silver particles, in which a higher AgNO3 loading led to a more prominent shielding effect. The presence of silver nanoparticles on post-reaction BiVO4 was confirmed by TEM and XPS analysis. This newly established process scheme provides an insight into the development of an efficient photocatalytic oxygen evolution system in realizing future commercial applications toward green energy production.</description>
+      <author>Boon Chong Ong, Teik&#8208;Thye Lim, Can Xue, Zhili Dong</author>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/catal14040236</guid>
     </item>
     <item>
       <title>Electric-field-assisted Proton Coupling Enhanced Oxygen Evolution Reaction</title>
@@ -318,6 +318,36 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4777421</guid>
     </item>
     <item>
+      <title>Bifunctional activity and theoretical study of transition metal molybdates for hydrogen and oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.03.254</link>
+      <description>Namita Dalai, Manikandan Kandasamy, Shraddhanjali Senapati, Brahmananda Chakraborty, Bijayalaxmi Jena, International journal of hydrogen energy. 64(None)] 2024. https://openalex.org/W4393393474
+
+                Effective, sturdy and cheap electrocatalysts are extremely desirable for water electrolysis. In this work, transition metal molybdates (MMoO4, M = Fe, Co, Ni) with extraordinary oxygen evolution reaction (OER), and hydrogen evolution reaction (HER) in basic electrolyte solution was reported. &#946;-Fe2(MoO4)3 catalyst exhibits better electrocatalytic performance and robustness for both HER and OER compared to NiMoO4 and CoMoO4. Theoretical study (DFT calculation) disclose that the Fe atoms increase the energy states near the Fermi level in &#946;-Fe2(MoO4)3 which makes it more conductive leading to superior OER and HER activity. Compared to CoMoO4 and NiMoO4, &#946;-Fe2(MoO4)3 have well defined multiple Mo 4d orbitals at the conduction band. These are empty states in conduction band, ready to receive the electrons. Further, the computed overpotential values for NiMoO4, CoMoO4, and &#946;-Fe2(MoO4)3 surfaces follow the trend, &#946;-Fe2(MoO4)3 &lt; NiMoO4 &lt; CoMoO4, corroborating with the experimental results.</description>
+      <author>Namita Dalai, Manikandan Kandasamy, Shraddhanjali Senapati, Brahmananda Chakraborty, Bijayalaxmi Jena</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.254</guid>
+    </item>
+    <item>
+      <title>Unraveling Surface Reconstruction During Oxygen Evolution Reaction on the Defined Spinel Oxide Surface</title>
+      <link>https://doi.org/10.1002/adfm.202401095</link>
+      <description>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung, Advanced functional materials (Print). None(None)] 2024. https://openalex.org/W4393364585
+
+                Abstract The reconstructed surface structure of Co&#8208;based spinel oxides serves as the active site for oxygen evolution reaction (OER). However, the structural complexity of spinel oxides and surface dynamics during the OER hinder the understanding of the reconstruction mechanism and electronic structure of the active site. In this study, spinel Co 3 O 4 @(CoFeV) 3 O 4 nanocube (CoFeV) is reported, a (001) facet&#8208;defined spinel oxide comprising Co, Fe, and V deposited on the Co 3 O 4 nanocube template to exclude facet&#8208;dependent factors. Introducing highly dissoluble V cations accelerates the reconstruction process to enhance the electrocatalytic activity. CoFeV exhibited enhanced electrocatalytic activity (266 mV at 10 mA cm &#8722;2 in 1 M KOH) and durability (maintained stable electrocatalytic activity during a 200 h chronopotentiometry (CP) test at 100 mA cm &#8722;2 ) with significantly enlarged electrochemically active surface area (ECSA). The experimental and theoretical results demonstrated that V dissolution during catalysis induced oxygen vacancies, accelerating the surface reconstruction to highly active oxyhydroxide. Consequently, the anion exchange membrane water electrolyzer (AEMWE) of CoFeV as the anode exhibited a remarkable performance of 6.19 A cm &#8722;2 at 2.0 V cell in 1 M KOH and robust durability for 96 h at a constant current density of 500 mA cm &#8722;2 .</description>
+      <author>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung</author>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202401095</guid>
+    </item>
+    <item>
+      <title>New strategies for the elaboration of porous materials based on iridium towards the oxygen evolution reaction</title>
+      <link>https://openalex.org/W4393370747</link>
+      <description>Marine Elmaalouf, No host. None(None)] 2022. https://openalex.org/W4393370747
+
+                No abstract</description>
+      <author>Marine Elmaalouf</author>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393370747</guid>
+    </item>
+    <item>
       <title>Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets</title>
       <link>https://doi.org/10.1039/d4ra00146j</link>
       <description>Gouda K. Helal, Zhenhang Xu, Wei Zuo, Yueying Yu, Jinyan Liu, Hongping Su, Jiang Xu, Houbin Li, Gongzhen Cheng, Pingping Zhao, RSC advances. 14(15)] 2024. https://openalex.org/W4393239770
@@ -326,16 +356,6 @@
       <author>Gouda K. Helal, Zhenhang Xu, Wei Zuo, Yueying Yu, Jinyan Liu, Hongping Su, Jiang Xu, Houbin Li, Gongzhen Cheng, Pingping Zhao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j</guid>
-    </item>
-    <item>
-      <title>FeCoNiMgB high-entropy boride powder with a fluffy cotton structure and enhanced activity in the oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.jmrt.2024.03.158</link>
-      <description>Fang Miao, Peng Cui, Zhiyuan Jing, Wei Wu, Zhibin Zhang, Tingyue Gu, Zhijie Yan, Xiubing Liang, Journal of Materials Research and Technology. None(None)] 2024. https://openalex.org/W4393167181
-
-                Exploring efficient, low-cost electrocatalysts is critical for improving the efficiency of water splitting reactions. Noble-metal-based oxides exhibit high activities in the oxygen evolution reaction (OER). However, their high cost and the lack of natural resources hinder their practical application. Therefore, in this study, we successfully synthesized an FeCoNiMgB high-entropy boride powder via a facile chemical reduction method for use as an OER catalyst in an alkaline medium. The FeCoNiMgB powder, with an ultrathin fluffy cotton structure, exhibited an excellent OER catalytic performance, affording an overpotential of 268 mV at a current density of 10 mA/cm2 and a low Tafel slope of 42.9 mV/dec; this performance was superior to those of FeCoNiB, FeNiMgB, CoNiMgB, FeCoMgB, and commercial RuO2. The FeCoNiMgB powder also displayed remarkably stable catalytic properties for &gt;72 h with no clear evidence of degradation. Finally, using theoretical calculations, the excellent OER performance of FeCoNiMgB was verified in terms of its adsorption and charge transfer energies and covalence. The performance and stability of FeCoNiMgB were equivalent or superior to those of several nanostructured catalysts, and thus, this study provided valuable insight into the design of efficient high-entropy boride materials.</description>
-      <author>Fang Miao, Peng Cui, Zhiyuan Jing, Wei Wu, Zhibin Zhang, Tingyue Gu, Zhijie Yan, Xiubing Liang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmrt.2024.03.158</guid>
     </item>
     <item>
       <title>Acid Electrolyte Anions Adsorption Effects on IrO&lt;sub&gt;2&lt;/sub&gt; Electrocatalysts for Oxygen Evolution Reaction</title>
@@ -348,34 +368,14 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08103</guid>
     </item>
     <item>
-      <title>Spin-state regulation by secondary coordination sphere for improved oxygen evolution activity of LaCo1-Ni O3 perovskite</title>
-      <link>https://doi.org/10.1016/j.ceramint.2024.03.306</link>
-      <description>Di Yao, M. Y. Chai, Yunyun Lv, Enhui Wang, Tao Yang, Zhi Fang, Xinmei Hou, Ceramics international. None(None)] 2024. https://openalex.org/W4393238163
+      <title>NiFe Catalysts for Oxygen Evolution Reaction: Is There an Optimal Thickness for Generating a Dynamically Stable Active Interface?</title>
+      <link>https://doi.org/10.1002/cctc.202400286</link>
+      <description>Luca Ciambriello, Ivano Alessandri, Luca Gavioli, Irene Vassalini, ChemCatChem (Print). None(None)] 2024. https://openalex.org/W4393389421
 
-                The evolution of oxygen evolution reaction (OER) remains a pivotal challenge in the realm of oxygen electrocatalysis. Recently, the proposition of regulating spin states has emerged as a novel avenue for enhancing the efficiency of electrocatalytic reactions. Presently, accurately modulating the metal active center into immediate spin (IS) remains a formidable challenge. Here, our research has achieved a breakthrough in precise spin state control and catalytic performance enhancement of Co3+ through the utilization of Ni-substituted LaCo1-xNixO3 perovskite. This achievement is primarily attributed to the fine regulation of both the secondary coordination sphere (SCS) and primary coordination sphere (PCS), i.e., Co6-y-[Co]-Niy (y = 0&#8211;6) and Co-O lengths, respectively. Our findings reveal that LaCo7/9Ni2/9O3 consisted of the SCS (y &#8804; 2) with the eg1 fillings of IS Co3+ exhibits an optimal OER activity. Additionally, adjusting the Co-O bond length in PCS to approximately 1.89 &#197; proves to be more conducive to the transition of Co3+ spin states from high spin (HS) and low spin (LS) to IS. These discoveries present new approach to precisely modulating the spin state, offering promising prospects for the development of high-efficiency OER catalysts.</description>
-      <author>Di Yao, M. Y. Chai, Yunyun Lv, Enhui Wang, Tao Yang, Zhi Fang, Xinmei Hou</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.03.306</guid>
-    </item>
-    <item>
-      <title>Review for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
-      <link>https://doi.org/10.1039/d4ra00146j/v1/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4393251195
-
-                No abstract</description>
-      <author/>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v1/review1</guid>
-    </item>
-    <item>
-      <title>Review for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
-      <link>https://doi.org/10.1039/d4ra00146j/v2/review1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4393280950
-
-                No abstract</description>
-      <author/>
-      <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v2/review1</guid>
+                Here we investigated the dynamics of OER activity of NiFe (90/10) catalysts over 1000 potential sweep cycles as a function of their mass loading. Over twenty different films with mass loading in the 10 ng/cm2&#8208;30 &#956;g/cm2 range were deposited by Supersonic Cluster Beam Deposition (SCBD), allowing to study the progress of OER in sub&#8208;monolayer, monolayer and multilayer regimes. Upon prolonged potential sweeps the electrocatalytic performances of multilayers decreased, while those of monolayers were significantly improved. The best balance in terms of catalytic efficiency and stability in working conditions is found for mass loadings corresponding to a NiFe monolayer, corresponding to a mass loading around 1 &#956;g/cm2 and a thickness of about 3 nm.</description>
+      <author>Luca Ciambriello, Ivano Alessandri, Luca Gavioli, Irene Vassalini</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400286</guid>
     </item>
     <item>
       <title>Review for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
@@ -408,14 +408,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.301</guid>
     </item>
     <item>
-      <title>Decision letter for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
-      <link>https://doi.org/10.1039/d4ra00146j/v1/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4393251122
+      <title>Tailoring hypervalent Nickel induced by oxygen vacancy toward enhanced oxygen evolution reaction performance in self-supporting NiFe-(oxy)hydroxides electrodes</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.03.184</link>
+      <description>Chun Kong, Chunyi Zhi, Zirui Wu, Wenqiang Yang, Juan Yang, Zhongti Sun, Journal of colloid and interface science (Print). None(None)] 2024. https://openalex.org/W4393320806
 
-                No abstract</description>
-      <author/>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v1/decision1</guid>
+                NiFe-(oxy)hydroxides are the most active transition metal oxide electrocatalysts for oxygen evolution reaction (OER) under the alkaline media. Herein, we controllably manipulated oxygen vacancy (VO)-tunable NiFe-(oxy) hydroxides that their OER performances possessed a volcano-type relationship with VO concentration, positively-correlated with Ni3+/Ni2+ ratio. Theoretical simulations further unearthed the enhanced activation and dissociation of H2O by the inserting of VO. As a result, the optimal sample featuring the Ni3+/Ni2+ ratio of 30.3 % and VO of 23.8 % exhibited the overpotential of 243 mV at the current density of 100 mA cm&#8211;2, simultaneously lasting 120 h durability without any attenuation, exceding the most reported NiFe-(oxy)hydroxides. This work offers an innovative view to understand the OER performance using hypervalent Ni ratio induced by VO defects.</description>
+      <author>Chun Kong, Chunyi Zhi, Zirui Wu, Wenqiang Yang, Juan Yang, Zhongti Sun</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.03.184</guid>
     </item>
     <item>
       <title>Author response for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
@@ -426,16 +426,6 @@
       <author>Gouda K. Helal, Zhenhang Xu, Wei Zuo, Yueying Yu, Jinyan Liu, Hongping Su, Jiang Xu, Houbin Li, Gongzhen Cheng, Pingping Zhao</author>
       <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v2/response1</guid>
-    </item>
-    <item>
-      <title>Decision letter for "Boosting oxygen evolution reaction rates with mesoporous Fe-doped MoCo-phosphide nanosheets"</title>
-      <link>https://doi.org/10.1039/d4ra00146j/v2/decision1</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4393280937
-
-                No abstract</description>
-      <author/>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ra00146j/v2/decision1</guid>
     </item>
   </channel>
 </rss>

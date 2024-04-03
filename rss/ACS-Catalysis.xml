@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:43:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Switchable Synthesis of Ethylene/Acrylate Copolymers by a Dinickel Catalyst: Evidence for Chain Growth on Both Nickel Centers and Concepts of Cation Exchange Polymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c00156</link>
-      <description>Shuoyan Xiong, Heather A. Spinney, Brad C. Bailey, Briana S. Henderson, Adjeoda A. Tekpor, Matthew R. Espinosa, Paramita Saha, Theodor Agapie, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393157067
-
-                A dinickel complex, X-Ni2, was developed and demonstrated to have a high performance in ethylene/acrylate copolymerization. Further mechanistic studies revealed that X-Ni2 performs acrylate insertion at both Ni centers at distinct rates. Addition of NaBArF24 to X-Ni2 leads to 1:1 binding and serves as a switch for tuning catalytic activity, copolymer MW and acrylate incorporation. NMR studies of cation binding, when present in substoichiometric amounts, suggest a dynamic process involving cation exchange. This phenomenon provides an alternative strategy for controlling chain growth in polar polyolefin synthesis and was probed herein.</description>
-      <author>Shuoyan Xiong, Heather A. Spinney, Brad C. Bailey, Briana S. Henderson, Adjeoda A. Tekpor, Matthew R. Espinosa, Paramita Saha, Theodor Agapie</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00156</guid>
-    </item>
-    <item>
-      <title>Ketyl Radical Generation by Photoexcited Palladium and Development of Organopalladium-Type Reactions</title>
-      <link>https://doi.org/10.1021/acscatal.4c00510</link>
-      <description>Kosaku Tanaka, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393162411
-
-                Enabling reactions of traditional substrates that are inert to Pd catalysts has the potential for further advancements in the field of Pd chemistry. In this study, we developed a method for generating ketyl radicals through the reaction of a photoexcited Pd species with ketones. Upon subsequent reaction with olefins, the ketyl radicals generated through this method yielded Pd-specific reductive and Heck-type coupling products. Mechanistic studies indicated that the proposed radical generation method exhibits characteristics distinct from those of traditional methods such as SmI2 reduction and photoredox-catalyzed reactions.</description>
-      <author>Kosaku Tanaka</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00510</guid>
-    </item>
-    <item>
-      <title>Promoting Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Methanation by the Construction of Cooperative Copper Dual-Active Sites</title>
-      <link>https://doi.org/10.1021/acscatal.4c00060</link>
-      <description>Minghui Zhang, Yuyin Mao, Xiaolei Bao, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Hefeng Cheng, Ying Dai, Zeyan Wang, Baibiao Huang, ACS Catalysis. None(None)] 2024. https://openalex.org/W4393164230
-
-                Selective photocatalytic CO2 methanation provides an attractive avenue to address energy and environmental issues. However, impediments such as the sluggish adsorption and activation of CO2 and H2O molecules, along with unexpected intermediate desorption, greatly restrict the activity and selectivity of photocatalytic CO2 methanation. To address these issues, we devised a dual-active site catalyst comprising Cu single atoms (SAs) and nanoclusters (NCs) supported on defective TiO2 (Cu1+NCs/BT). As a result, a remarkable CH4 selectivity of 98% with a yield of 19.63 &#956;mol gcat.&#8211;1 h&#8211;1 can be obtained over the as-prepared Cu1+NCs/BT in pure water. Mechanistic studies reveal the enhanced performance could be ascribed to the synergistic effect of the Cu dual-active sites, where Cu SAs adsorb and activate CO2, while Cu NCs boost H2O adsorption and dissociation for *H coverage. Additionally, the adjacent Cu dual-active site could jointly stabilize the *CO intermediate and reduce the energy barrier for *CO protonation, promoting the multielectron transfer process.</description>
-      <author>Minghui Zhang, Yuyin Mao, Xiaolei Bao, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Hefeng Cheng, Ying Dai, Zeyan Wang, Baibiao Huang</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00060</guid>
-    </item>
     <item>
       <title>Insight into the Role of TiO&lt;sub&gt;2&lt;/sub&gt; Facets in Photocatalytic Selective Oxidation of &lt;i&gt;p&lt;/i&gt;-Xylene</title>
       <link>https://doi.org/10.1021/acscatal.4c00543</link>
@@ -256,6 +226,36 @@
       <author>Andrew J. Bagnall, Matthieu Haake, Sergi Grau, Tatiana Straistari, Matthieu Koepf, Navid Jameei Moghaddam, Carolina Gimbert&#8208;Suri&#241;ach, Jordi Benet&#8208;Buchholz, Antoni Llobet, Murielle Chavarot&#8208;Kerlidou, Bertrand Reuillard, Vincent Artero</author>
       <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00336</guid>
+    </item>
+    <item>
+      <title>Axially Chiral Copper Catalyst for Asymmetric Synthesis of Valuable Diversely Substituted BINOLs</title>
+      <link>https://doi.org/10.1021/acscatal.4c00726</link>
+      <description>Jun Gao, P.L. Wang, Ahui Shen, Xueyan Yang, Shouyi Cen, Zhipeng Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393308838
+
+                Optically pure BINOL (1,1&#8242;-bi-2-naphthol) and diversely substituted BINOLs are highly valuable chiral motifs featuring axial chirality widely applied in various fields. Although unsubstituted BINOL is commercially available, the catalytic asymmetric synthesis of optically pure diversely substituted BINOLs is still very challenging. Herein, we report the development of a highly enantioselective dinuclear copper catalyst for oxidative homo- and cross-coupling of a variety of 2-naphthols to provide access to a broad range of highly valuable diversely substituted C2- and C1-symmetric BINOLs in up to 92% yield with high enantioselectivities (up to 99.5:0.5 er).</description>
+      <author>Jun Gao, P.L. Wang, Ahui Shen, Xueyan Yang, Shouyi Cen, Zhipeng Zhang</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00726</guid>
+    </item>
+    <item>
+      <title>How Micropore Topology Influences the Structure and Location of Coke in Zeolite Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00025</link>
+      <description>Przemys&#322;aw Rzepka, Denis Sheptyakov, Chao Wang, Jeroen A. van Bokhoven, Vladimir Paunovi&#263;, ACS catalysis. None(None)] 2024. https://openalex.org/W4393309555
+
+                Zeolite catalysts exhibit microporous structures, akin to the pockets in naturally occurring enzyme catalysts, which enable the confinement of reaction intermediates, thus facilitating chemical transformations. Nonetheless, the micropores also influence the formation of coke species, which is the main source of catalytic activity loss. Unveiling the relationships between the micropore topology and the internal structure and location of deactivating coke compounds is of high relevance for comprehending the deactivation mechanisms. In this study, we used an approach exploiting powder neutron diffraction to assess the location of coke and determine the dominating structures in the topologically distinct ZSM-5 (MFI topology), ZSM-35 (FER), and SSZ-13 (CHA) zeolite catalysts deactivated in industrially relevant methanol-to-hydrocarbon (MTH) conversion. In ZSM-5 and ZSM-35 catalysts, coke resides along the straight 10-membered ring (MR) channels and exhibits the highest concentration in their intersecting regions with sinusoidal 10 MR and straight 8 MR pores, respectively. In the SSZ-13 catalyst, coke is not only located in cages but also protrudes through their 8 MR windows, suggesting the interconnectivity of coke molecules between the large cavities. Notably, the coke-associated signals in the ZSM-5 and ZSM-35 catalysts show a strong planar arrangement that can be fitted by polycyclic and monocyclic arene structures, respectively. These averaged coke structures are consistent with the composition of coke assessed by gas chromatography&#8211;mass spectrometry, 13C and two-dimensional 1H double-quantum single-quantum magic-angle spinning nuclear magnetic resonance, and operando diffuse reflectance ultraviolet&#8211;visible spectroscopic analysis. The findings evidence that the pore topology directs the confinement and structure of coke, wherein the largest void zones of the micropore space are the most susceptible to coking.</description>
+      <author>Przemys&#322;aw Rzepka, Denis Sheptyakov, Chao Wang, Jeroen A. van Bokhoven, Vladimir Paunovi&#263;</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00025</guid>
+    </item>
+    <item>
+      <title>Choose Your Own Adventure: A Comprehensive Database of Reactions Catalyzed by Cytochrome P450 BM3 Variants</title>
+      <link>https://doi.org/10.1021/acscatal.4c00086</link>
+      <description>Douglas J. Fansher, Jonathan N. Besna, Ali Fendri, Joelle N. Pelletier, ACS catalysis. None(None)] 2024. https://openalex.org/W4393311212
+
+                No abstract</description>
+      <author>Douglas J. Fansher, Jonathan N. Besna, Ali Fendri, Joelle N. Pelletier</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00086</guid>
     </item>
   </channel>
 </rss>

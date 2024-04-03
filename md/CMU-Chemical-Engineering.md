@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Apr  2 00:47:30 2024
+Created on Wed Apr  3 00:43:51 2024
 
-Found 2 results from 2024-03-26 to 2024-04-02
+Found 3 results from 2024-03-27 to 2024-04-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -25,5 +25,16 @@ Open access: False
 [Alessandro Francesco Castelli](https://openalex.org/A5026062813), [Iiro Harjunkoski](https://openalex.org/A5034091365), [Jan Poland](https://openalex.org/A5086584072), [Marco Giuntoli](https://openalex.org/A5042826601), [Emanuele Martelli](https://openalex.org/A5020653800), [Ignacio E. Grossmann](https://openalex.org/A5056017028), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4776866.
     
 Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
+
+    
+
+## Recent Progress and Future Directions in the Synthesis of Heat-Integrated Water Networks   
+
+OpenAlex: https://openalex.org/W4393369073    
+Open access: False
+    
+[Elvis Ahmetović](https://openalex.org/A5022432985), [Nidret Ibrić](https://openalex.org/A5076764928), [Andreja Nemet](https://openalex.org/A5078685852), [Zdravko Kravanja](https://openalex.org/A5068406372), [Ignacio E. Grossmann](https://openalex.org/A5056017028), DOAJ (DOAJ: Directory of Open Access Journals). None(None)] 2022.https://doi.org/10.3303/cet2294104.
+    
+No abstract    
 
     

@@ -1,44 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue Apr  2 00:47:28 2024
+Created on Wed Apr  3 00:43:47 2024
 
-Found 29 results from 2024-03-26 to 2024-04-02
+Found 27 results from 2024-03-27 to 2024-04-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Highly Efficient Carbon Dioxide Electroreduction via DNA-Directed Catalyst Immobilization   
-
-OpenAlex: https://openalex.org/W4393150984    
-Open access: True
-    
-[Gang Fan](https://openalex.org/A5079948886), [Nathan Corbin](https://openalex.org/A5003707206), [Minju Chung](https://openalex.org/A5002058691), [Thomas M. Gill](https://openalex.org/A5040466056), [Evan G. Moore](https://openalex.org/A5057877864), [Amruta A. Karbelkar](https://openalex.org/A5003630361), [Ariel L. Furst](https://openalex.org/A5018653043), JACS Au. None(None)] 2024.https://doi.org/10.1021/jacsau.3c00823 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacsau.3c00823)).
-    
-No abstract    
-
-    
-
-## Engineered Escherichia coli Whole Cell-Mediated Electro-Biocatalysis for Carbon Dioxide to Formic Acid Conversion   
-
-OpenAlex: https://openalex.org/W4393164149    
-Open access: False
-    
-[Hongbo Shi](https://openalex.org/A5091670895), [Meng-Xi Fu](https://openalex.org/A5008802175), [Shu Yuan](https://openalex.org/A5048080197), [Yao Lu](https://openalex.org/A5011678003), [Yang Zhuan](https://openalex.org/A5058942307), [Chao Ye](https://openalex.org/A5040924648), [Lunguang Yao](https://openalex.org/A5042596783), [Chuang Xue](https://openalex.org/A5064910193), [Cun-Duo Tang](https://openalex.org/A5077458103), ACS Sustainable Chemistry & Engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.3c08129.
-    
-The conversion of CO2 into a valuable chemical fuel could help reduce its effect on global warming. However, the utilization of CO2 by biological transformations is challenging because of the lack of enzymes exhibiting high catalytic activity toward CO2 reduction. In this work, three NAD+/W-containing formate dehydrogenases (FDHs) were discovered, expressed, and characterized. In addition, we used PbFDH, which displays high catalytic activity toward CO2 reduction, as a biocatalyst to convert CO2 to formic acid through whole-cell biocatalysis and electro-biocatalysis. The specific activities of DaFDH, PbFDH, and CsFDH increased by 68.1, 100.0, and 18.7 times, respectively, compared with that of ClFDH reported with high catalytic efficiency. Furthermore, this paper presents a preliminary discussion of the catalytic mechanism of FDHs for CO2 reduction based on their structures. The yield of formic acid obtained from CO2 reduction using electro-biocatalysis under aerobic conditions reaches up to 4.1 mmol/L/h, without any cofactor NADH and hydrogen gas. This study also demonstrates and compares the performances of NAD+/W-containing and NAD+-dependent FDHs in whole-cell biocatalysis and electro-biocatalysis. The findings of this study provide a meaningful foundation for the conversion of CO2 into a value-added chemical fuel.    
-
-    
-
-## Gas Diffusion Electrodes (GDEs) for Carbon Dioxide (CO2) Reduction in Microfluidic Cells: Towards a Fluid Dynamics Assisted Rational Design   
-
-OpenAlex: https://openalex.org/W4393164782    
-Open access: True
-    
-[Melanie Colet-Lagrille](https://openalex.org/A5057129833), [Sergio González-Poggini](https://openalex.org/A5038054687), [Carol Salazar-Espinoza](https://openalex.org/A5094242020), [Benito Sánchez](https://openalex.org/A5028200010), Journal of The Electrochemical Society. None(None)] 2024.https://doi.org/10.1149/1945-7111/ad377f.
-    
-Abstract The electrochemical reduction of carbon dioxide (CO2) for the generation of multicarbon (C2+) products with high commercial value – e.g., ethanol and ethylene – is gaining growing interest due to the successful implementation of laboratory scale technologies that can reach high current densities (>500 mA cm-2) and Faradaic efficiencies (>60%), using a simplified approach in terms of configuration and cost. This is the case of microfluidic cells, low-temperature electrochemical flow systems which optimal operation sustains on the enhancement of the mass and charge transfer phenomena taking place at the gas diffusion electrode (GDE) | aqueous electrolyte interface where CO2 molecules are selectively transformed at the surface of the catalyst layer. &#xD;This work presents an up-to-date overview of materials and operational conditions for microfluidic-type systems, providing significant enlightenment on the effects that the phenomena occurring at the GDE | electrolyte interface have over the CO2 reduction reaction kinetics towards the generation of C2+ products. It is shown that the integration of computational methods (particularly, density functional theory and computational fluid dynamics) to conventional experimental approaches is an effective strategy to elucidate the reactions mechanisms and mass/charge transfer trends determining the enhanced design of GDEs and the GDE | electrolyte interface.    
-
-    
 
 ## Recent Progress on the Surface and Bulk Modification of Carbon Nitrides for Photocatalytic Carbon Dioxide Reduction   
 
@@ -117,6 +84,17 @@ The escalating demand for Carbon Capture and Utilization (CCU) schemes to mitiga
 
     
 
+## Supported Tetra-Atom Clusters on G-Cn as Catalysts for Electrochemical Reduction of Carbon Dioxide: A Computational Study   
+
+OpenAlex: https://openalex.org/W4393376349    
+Open access: False
+    
+[Wenjing Zhou](https://openalex.org/A5090183816), [Xuxin Kang](https://openalex.org/A5054752343), [Shan Gao](https://openalex.org/A5039404041), [Xiangmei Duan](https://openalex.org/A5000121893), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4780685.
+    
+No abstract    
+
+    
+
 ## Synthesis, study and characterization of new molecular catalysts for reduction of carbon dioxide with a view to use it as a carbon source.   
 
 OpenAlex: https://openalex.org/W4393356945    
@@ -128,14 +106,14 @@ No abstract
 
     
 
-## Photoelectrochemical Catalytic Co2 Reduction Enhanced by In-Doped Gan and Combined with Vibration Energy Harvester Driving Co2 Reduction   
+## Reduction of Iron Oxides for CO2 Capture Materials   
 
-OpenAlex: https://openalex.org/W4393143337    
-Open access: False
+OpenAlex: https://openalex.org/W4393388356    
+Open access: True
     
-[Mingxiang Zhang](https://openalex.org/A5090374198), [Li Wen](https://openalex.org/A5041362389), [Shanghao Gu](https://openalex.org/A5072981099), [Weihan Xu](https://openalex.org/A5058741911), [Zhouguang Lu](https://openalex.org/A5027800643), [Fei Wang](https://openalex.org/A5010016722), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4772115.
+[Antonio Fabozzi](https://openalex.org/A5072736187), [Francesca Cerciello](https://openalex.org/A5034273464), [Osvalda Senneca](https://openalex.org/A5076148122), Energies (Basel). 17(7)] 2024.https://doi.org/10.3390/en17071673 ([pdf](https://www.mdpi.com/1996-1073/17/7/1673/pdf?version=1711949729)).
     
-No abstract    
+The iron industry is the largest energy-consuming manufacturing sector in the world, emitting 4–5% of the total carbon dioxide (CO2). The development of iron-based systems for CO2 capture and storage could effectively contribute to reducing CO2 emissions. A wide set of different iron oxides, such as hematite (Fe2O3), magnetite (Fe3O4), and wüstite (Fe(1−y)O) could in fact be employed for CO2 capture at room temperature and pressure upon an investigation of their capturing properties. In order to achieve the most functional iron oxide form for CO2 capture, starting from Fe2O3, a reducing agent such as hydrogen (H2) or carbon monoxide (CO) can be employed. In this review, we present the state-of-the-art and recent advances on the different iron oxide materials employed, as well as on their reduction reactions with H2 and CO.    
 
     
 
@@ -205,6 +183,17 @@ Abstract Oxide-derived copper (OD-Cu) materials exhibit extraordinary catalytic 
 
     
 
+## Hemispheric asymmetric response of tropical cyclones to CO2 emission reduction   
+
+OpenAlex: https://openalex.org/W4393392587    
+Open access: True
+    
+[Chao Liu](https://openalex.org/A5045007052), [Soon‐Il An](https://openalex.org/A5033866952), [Jiuwei Zhao](https://openalex.org/A5005133806), [Seok‐Woo Son](https://openalex.org/A5010253712), [Fei‐Fei Jin](https://openalex.org/A5082074309), [Ruifen Zhan](https://openalex.org/A5013559365), npj climate and atmospheric science. 7(1)] 2024.https://doi.org/10.1038/s41612-024-00632-2 ([pdf](https://www.nature.com/articles/s41612-024-00632-2.pdf)).
+    
+Abstract Tropical cyclones (TCs) are among the most devastating natural hazards for coastal regions, and their response to human activities has broad socio-economic relevance. So far, how TC responds to climate change mitigation remains unknown, complicating the design of adaptation policies. Using net-zero and negative carbon emission experiments, we reveal a robust hemisphere-asymmetric hysteretic TC response to CO 2 reduction. During the decarbonization phase, the Northern Hemisphere TC frequency continues to decrease for several more decades, while the Southern Hemisphere oceans abruptly shifts to a stormier state, with the timescales depending on mitigation details. Such systematic changes are largely attributed to the planetary-scale reorganization of vertical wind shear and midlevel upward motion associated with the hysteretic southward migration of the Intertropical Convergence Zone, underpinned by the Atlantic Meridional Overturning Circulation and El Niño-like mean state changes. The hemispheric contrast in TC response suggests promising benefits for most of the world’s population from human action to mitigate greenhouse gas warming, but it may also exacerbate regional socioeconomic disparities, for example by putting more pressure on small open-ocean island states in the Southern Hemisphere to adapt to TC risks.    
+
+    
+
 ## Synthesis of complexes inspired from formate dehydrogenases : Application to the homogeneous catalysis of CO2 reduction   
 
 OpenAlex: https://openalex.org/W4393355905    
@@ -227,6 +216,39 @@ Cu is the most promising metal catalyst for CO2 electroreduction (CO2RR) to mult
 
     
 
+## Stability and lifetime of diffusion-trapped oxygen in oxide-derived copper CO2 reduction electrocatalysts   
+
+OpenAlex: https://openalex.org/W4393379673    
+Open access: True
+    
+[Zan Lian](https://openalex.org/A5003157104), [Federico Dattila](https://openalex.org/A5026089385), [Núria López](https://openalex.org/A5066694116), Nature Catalysis. None(None)] 2024.https://doi.org/10.1038/s41929-024-01132-5 ([pdf](https://www.nature.com/articles/s41929-024-01132-5.pdf)).
+    
+Abstract Oxide-derived Cu has an excellent ability to promote C–C coupling in the electrochemical carbon dioxide reduction reaction. However, these materials largely rearrange under reaction conditions; therefore, the nature of the active site remains controversial. Here we study the reduction process of oxide-derived Cu via large-scale molecular dynamics with a precise neural network potential trained on first-principles data and introducing experimental conditions. The oxygen concentration in the most stable oxide-derived Cu increases with an increase of the pH, potential or specific surface area. In long electrochemical experiments, the catalyst would be fully reduced to Cu, but removing all the trapped oxygen takes a considerable amount of time. Although the highly reconstructed Cu surface provides various sites to adsorb oxygen more strongly, the surface oxygen atoms are not stable under common experimental conditions. This work provides insight into the evolution of oxide-derived Cu catalysts and residual oxygen during reaction and also a deep understanding of the nature of active sites.    
+
+    
+
+## Unique dendritic Bi2S3 with ultrathin nanosheets rich in S vacancy-defect toward promoting highly efficient photothermal CO2 reduction into CO   
+
+OpenAlex: https://openalex.org/W4393391190    
+Open access: False
+    
+[Yong Zhou](https://openalex.org/A5000969113), [Qiutong Han](https://openalex.org/A5060153913), [Zhigang Zou](https://openalex.org/A5018143125), [Yan Shen](https://openalex.org/A5003395657), [Xin Zhou](https://openalex.org/A5084414888), [Qinghua He](https://openalex.org/A5047266782), [Yanjun Zhu](https://openalex.org/A5064153411), Catalysis science & technology (Print). None(None)] 2024.https://doi.org/10.1039/d4cy00152d.
+    
+The catalytic reduction of carbon dioxide (CO2) into value-added chemicals utilizing solar energy is a promising strategy to simultaneously address global warming and energy crisis. The tree-like Bi2S3 catalytic material,...    
+
+    
+
+## Ligand-engineering Cu-based catalysts to accelerate the electrochemical reduction of CO2   
+
+OpenAlex: https://openalex.org/W4393388285    
+Open access: False
+    
+[Ying Liu](https://openalex.org/A5060002817), [Rui Zhang](https://openalex.org/A5065037360), [Ke-sheng Xiao](https://openalex.org/A5084555200), [Fenghui Ye](https://openalex.org/A5091794674), [Xinyue Ma](https://openalex.org/A5065055275), [Wei Liu](https://openalex.org/A5071037763), [Han Dong Yin](https://openalex.org/A5012742125), [Baoguang Mao](https://openalex.org/A5065655250), [Xueyu Song](https://openalex.org/A5049703046), [Chuangang Hu](https://openalex.org/A5078355467), Chemical communications (London. 1996. Print). None(None)] 2024.https://doi.org/10.1039/d4cc00819g.
+    
+Two typical Cu-based complex catalysts with piperazine (PR) and p-phenylenediamine (pPDA) ligands were designed to elucidate that the ligands can tailor the reduction behavior of the Cu species and thus...    
+
+    
+
 ## Analysis of CO2 Emission Reduction in Aviation Using Mix of 2,4% Biofuel   
 
 OpenAlex: https://openalex.org/W4393343580    
@@ -235,6 +257,17 @@ Open access: True
 [Ratih Sekartadji](https://openalex.org/A5008257511), [Ali Musyafa](https://openalex.org/A5022754181), [Lalu Muhamad Jaelani](https://openalex.org/A5064306483), [Ervina Ahyudanari](https://openalex.org/A5043738862), No host. 1(1)] 2024.https://doi.org/10.61306/icaneat.v1i1.203 ([pdf](https://ejournal.icpa-banyuwangi.ac.id/index.php/icaneat/article/download/203/102)).
     
 The activities of flight have an impact on the environment. Combustion from aircraft fuel produces chemical products that have been emitted from the high-speed aircraft engine. Aircraft engines produce emissions that are similar to other emissions resulting from fossil fuel combustion. The transportation sector include land and air transportation produced 22,4 % from all energy sector. To reduce aircraft emissions while maintaining healthy economic growth, the aviation sector needs to reduce the use of fossil jet fuel by using sustainable aviation fuel. The use of biofuel in airplanes does not completely replace the fuel we use today, but gradually starting with a mixture of 10 % or 20 %. Several European countries and China have used biofuels made from waste in each country. Likewise in Indonesia, Pertamina collaborates with ITB, producing aircraft fuel from palm oil. The flight test using a Garuda Boeing 737 aircraft was successful using a mixture of 2.4% biofuel in October 2023. The CO2 emission estimation calculations at three large airports in Indonesia, Soekarno-Hatta International Airport Jakarta, Juanda International Airport Surabaya and Sultan Hasanuddin International Airport Makassar that using aviation fuel and a mix of aviation fuel with 2.4 % biofuel, reduce by 2.83 % - 2.95 %.    
+
+    
+
+## Electrochemical CO2 Reduction Mechanism on Copper: Relation between Mesoscopic Mass Transport and Intrinsic Kinetics   
+
+OpenAlex: https://openalex.org/W4393377846    
+Open access: False
+    
+[Carlos G. Morales‐Guio](https://openalex.org/A5074179289), [Joonbaek Jang](https://openalex.org/A5078829660), [Martina Rüscher](https://openalex.org/A5076226674), [Maximilian Winzely](https://openalex.org/A5004707859), [Dolores Rodrı́guez](https://openalex.org/A5075175242), [Eber Reyes-Lopez](https://openalex.org/A5092090198), [Samanvaya Srivast](https://openalex.org/A5094296317), [Panagiotis D. Christofides](https://openalex.org/A5002367171), [Philippe Sautet](https://openalex.org/A5025258970), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4189647/v1.
+    
+Abstract A multi-scale first-principles transport-reaction model is derived for the electrochemical reduction of CO2 to fuels and chemicals on polycrystalline copper electrodes. The model utilizes a continuous stirred-tank reactor (CSTR)-volume approximation that captures the relative timescales for mesoscale stochastic processes at the electrode/electrolyte interface that determine product selectivity. The model is built starting from a large experimental dataset obtained under a broad range of well-defined transport regimes in a gastight rotating cylinder electrode cell. Product distributions under different conditions of transport, applied potential, and bulk electrolyte concentration are rationalized by introducing dimensionless numbers that reduce complexity and capture relative timescales for mesoscopic and microscopic dynamics of electrocatalytic reactions on copper electrodes. This work demonstrates that one CO2 reduction mechanism can explain differences in selectivity reported for copper-based electrocatalysts when mass transport, concentration polarization effects, and primary and secondary current distributions are taken into account.    
 
     
 
@@ -268,61 +301,5 @@ Open access: False
 [Changli Wang](https://openalex.org/A5032529955), [Zengtao Lv](https://openalex.org/A5068532993), [Yarong Liu](https://openalex.org/A5046249498), [Rui Li](https://openalex.org/A5081675173), [Chia‐Chung Sun](https://openalex.org/A5046175815), [Jinming Wang](https://openalex.org/A5039851264), [Liuhua Li](https://openalex.org/A5075837486), [Xiangjian Liu](https://openalex.org/A5069182588), [Xiao Feng](https://openalex.org/A5051932876), [Wenxiu Yang](https://openalex.org/A5064928999), [Bo Wang](https://openalex.org/A5056168495), Angewandte Chemie (International ed. Print). None(None)] 2024.https://doi.org/10.1002/anie.202404015.
     
 Single atomic catalysts (SACs) offer a superior platform for studying the structure‐activity relationships during electrocatalytic CO2 reduction reaction (CO2RR). Yet challenges still exist to obtain well‐defined and novel site configuration owing to the uncertainty of functional framework‐derived SACs through calcination. Herein, a novel Bi−N2O2 site supported on the (1 1 0) plane of hydrogen‐bonded organic framework (HOF) is reported directly for CO2RR. In flow cell, the target catalyst Bi1‐HOF maintains a faradaic efficiency (FE) HCOOH of over 90% at a wide potential window of 1.4 V. The corresponding partial current density ranges from 113.3 to 747.0 mA cm−2. And, Bi1‐HOF exhibits a long‐term stability of over 30 h under a successive potential‐step test with a current density of 100~400 mA cm−2. Density function theory (DFT) calculations illustrate that the novel Bi−N2O2 site supported on the (1 1 0) plane of HOF effectively induces the oriented electron transfer from Bi center to CO2 molecule, reaching an enhanced CO2 activation and reduction. Besides, this study offers a versatile method to reach series of M−N2O2 sites with regulable metal centers via the same intercalation mechanism, broadening the platform for studying the structure‐activity relationships during CO2RR.    
-
-    
-
-## Hydrogen‐Bonded Organic Framework Supporting Atomic Bi−N2O2 Sites for High‐Efficiency Electrocatalytic CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4393200334    
-Open access: False
-    
-[Changli Wang](https://openalex.org/A5032529955), [Zengtao Lv](https://openalex.org/A5068532993), [Yarong Liu](https://openalex.org/A5046249498), [Rui Li](https://openalex.org/A5081675173), [Chia‐Chung Sun](https://openalex.org/A5046175815), [Jinming Wang](https://openalex.org/A5039851264), [Liuhua Li](https://openalex.org/A5075837486), [Xiangjian Liu](https://openalex.org/A5069182588), [Xiao Feng](https://openalex.org/A5051932876), [Wenxiu Yang](https://openalex.org/A5064928999), [Bo Wang](https://openalex.org/A5024893590), Angewandte Chemie (Print). None(None)] 2024.https://doi.org/10.1002/ange.202404015.
-    
-Single atomic catalysts (SACs) offer a superior platform for studying the structure‐activity relationships during electrocatalytic CO2 reduction reaction (CO2RR). Yet challenges still exist to obtain well‐defined and novel site configuration owing to the uncertainty of functional framework‐derived SACs through calcination. Herein, a novel Bi−N2O2 site supported on the (1 1 0) plane of hydrogen‐bonded organic framework (HOF) is reported directly for CO2RR. In flow cell, the target catalyst Bi1‐HOF maintains a faradaic efficiency (FE) HCOOH of over 90% at a wide potential window of 1.4 V. The corresponding partial current density ranges from 113.3 to 747.0 mA cm−2. And, Bi1‐HOF exhibits a long‐term stability of over 30 h under a successive potential‐step test with a current density of 100~400 mA cm−2. Density function theory (DFT) calculations illustrate that the novel Bi−N2O2 site supported on the (1 1 0) plane of HOF effectively induces the oriented electron transfer from Bi center to CO2 molecule, reaching an enhanced CO2 activation and reduction. Besides, this study offers a versatile method to reach series of M−N2O2 sites with regulable metal centers via the same intercalation mechanism, broadening the platform for studying the structure‐activity relationships during CO2RR.    
-
-    
-
-## Photothermal-driven CO2 reduction over Nd2O3/TiO2 heterojunction catalysts in aqueous medium   
-
-OpenAlex: https://openalex.org/W4393216610    
-Open access: False
-    
-[Si-Meng Zhang](https://openalex.org/A5012887882), [Zhen‐Hong He](https://openalex.org/A5090737269), [Jiaojiao Shi](https://openalex.org/A5040604862), [Sen-Wang Wang](https://openalex.org/A5076886276), [Jiajie Liu](https://openalex.org/A5044887427), [Kuan Wang](https://openalex.org/A5052596733), [Weitao Wang](https://openalex.org/A5040760076), [Gang Yang](https://openalex.org/A5088420709), [Huan Wang](https://openalex.org/A5012328539), [Zhao‐Tie Liu](https://openalex.org/A5027821063), Molecular catalysis (Online). 559(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114078.
-    
-No abstract    
-
-    
-
-## Photoelectrothermocatalytic reduction of CO2 to glycol via Cu2S/MoS2-Vs octahedral heterostructure with synergistic mechanism   
-
-OpenAlex: https://openalex.org/W4393230090    
-Open access: False
-    
-[Youzhi Cao](https://openalex.org/A5022472965), [Changwan Zhuang](https://openalex.org/A5016501540), [Bing wang](https://openalex.org/A5025867093), [Jianhua Wang](https://openalex.org/A5031990549), [Si Chen](https://openalex.org/A5030458072), [Qiaolan Zhang](https://openalex.org/A5074786130), [Weichun Ye](https://openalex.org/A5028592088), [Huanwang Jing](https://openalex.org/A5053792317), Journal of colloid and interface science (Print). None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.03.172.
-    
-No abstract    
-
-    
-
-## A freestanding rotating triboelectric nanogenerator with large area and high efficiency for triboelectric plasma CO2 reduction   
-
-OpenAlex: https://openalex.org/W4393256267    
-Open access: False
-    
-[Hongjie Cao](https://openalex.org/A5027405294), [Qinglong Ru](https://openalex.org/A5082758354), [Dongyang Fang](https://openalex.org/A5075694868), [Sumin Li](https://openalex.org/A5091022894), [Nannan Liu](https://openalex.org/A5072698553), [Jian Wei](https://openalex.org/A5062770272), [Hui Huang](https://openalex.org/A5005885008), [Yanting Yang](https://openalex.org/A5057856773), [Guangqin Gu](https://openalex.org/A5065700798), [Zhenan Bao](https://openalex.org/A5042012998), [Gang Cheng](https://openalex.org/A5058038850), [Sanjun Yang](https://openalex.org/A5005104147), [Shaoning Pang](https://openalex.org/A5026428761), [Zongliang Du](https://openalex.org/A5000145759), Chemical engineering journal (1996. Print). None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150798.
-    
-No abstract    
-
-    
-
-## A Causal Analysis of CO2 Reduction Strategies in Electricity Markets
-  Through Machine Learning-Driven Metalearners   
-
-OpenAlex: https://openalex.org/W4393212279    
-Open access: True
-    
-[Iman Emtiazi Naeini](https://openalex.org/A5063990360), [Zahra Saberi](https://openalex.org/A5071032032), [Khadijeh Hassanzadeh](https://openalex.org/A5089188577), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2403.15499 ([pdf](https://arxiv.org/pdf/2403.15499)).
-    
-This study employs the Causal Machine Learning (CausalML) statistical method to analyze the influence of electricity pricing policies on carbon dioxide (CO2) levels in the household sector. Investigating the causality between potential outcomes and treatment effects, where changes in pricing policies are the treatment, our analysis challenges the conventional wisdom surrounding incentive-based electricity pricing. The study's findings suggest that adopting such policies may inadvertently increase CO2 intensity. Additionally, we integrate a machine learning-based meta-algorithm, reflecting a contemporary statistical approach, to enhance the depth of our causal analysis. The study conducts a comparative analysis of learners X, T, S, and R to ascertain the optimal methods based on the defined question's specified goals and contextual nuances. This research contributes valuable insights to the ongoing dialogue on sustainable development practices, emphasizing the importance of considering unintended consequences in policy formulation.    
 
     

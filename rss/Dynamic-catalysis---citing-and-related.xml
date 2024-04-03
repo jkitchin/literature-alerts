@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 00:43:52 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Kinetic Insights into Boron-Based Materials Catalyzed Oxidative Dehydrogenation of Light Alkanes</title>
+      <link>https://doi.org/10.1021/prechem.4c00003</link>
+      <description>Hao Tian, Bingjun Xu, Precision chemistry. None(None)] 2024. https://openalex.org/W4393375823
+
+                High selectivity toward alkenes in oxidative dehydrogenation (ODH) of light alkanes makes boron-based materials promising catalysts. However, many key mechanistic aspects are still debated due to the challenge of capturing fleeting reaction intermediates. Kinetic analysis, including determining reaction orders and activation energy, could be informative for reactions involving radical intermediates but has not been extensively exploited. This Review summarizes the current understanding of the apparent alkane reaction order and the apparent activation energy in the boron-catalyzed ODH. Despite varying compositions and structures, a majority of boron-based catalysts share many common features, including alkene selectivity, the evolution and the formation of active site, and the apparent kinetic properties. These common trends could be attributed to the shared gas-phase radical-mediated reaction pathways and the formation of active hydroxylated boron oxide species on boron-containing materials under ODH conditions. Values of apparent alkane reaction orders and apparent activation energies are sensitive and reliable experimental measures of the contributions of the gas-phase radical-mediated and surface-mediated pathways, suggesting the outline of a general mechanistic framework of the boron-catalyzed ODH.</description>
+      <author>Hao Tian, Bingjun Xu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/prechem.4c00003</guid>
+    </item>
   </channel>
 </rss>
