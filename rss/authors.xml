@@ -4,18 +4,28 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:43:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:46:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials</title>
-      <link>https://doi.org/10.1088/2632-2153/ad37f0</link>
-      <description>Xiaoxiao Wang, Joseph Musielewicz, Richard Tran, Sudheesh Kumar Ethirajan, Xiao Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, Zachary W. Ulissi, Machine learning: science and technology. None(None)] 2024. https://openalex.org/W4393189800
+      <title>DFT for Surface Segregation of Disordered FCC CuPdPt Alloys</title>
+      <link>https://doi.org/10.5281/zenodo.10501343</link>
+      <description>John R. Kitchin, Kirby Broderick, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024. https://openalex.org/W4393587488
 
-                Abstract Although density functional theory (DFT) has aided in accelerating the discovery of new materials, such calculations are computationally expensive, especially for high-throughput efforts. This has prompted an explosion in exploration of machine learning assisted techniques to improve the computational efficiency of DFT. In this study, we present a comprehensive investigation of the broader application of Finetuna, an active learning framework to accelerate structural relaxation in DFT with prior information from Open Catalyst Project pretrained graph neural networks. We explore the challenges associated with out-of-domain systems: alcohol ($C_{&gt;2}$) on metal surfaces as larger adsorbates, metal-oxides with spin polarization, and three-dimensional (3D) structures like zeolites and metal-organic-frameworks. By pre-training machine learning models on large datasets and fine-tuning the model along the simulation, we demonstrate the framework's ability to conduct relaxations with fewer DFT calculations. Depending on the similarity of the test systems to the training systems, a more conservative querying strategy is applied. Our best-performing Finetuna strategy reduces the number of DFT single-point calculations by 80% for alcohols and 3D structures, and 42% for oxide systems.</description>
-      <author>Xiaoxiao Wang, Joseph Musielewicz, Richard Tran, Sudheesh Kumar Ethirajan, Xiao Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, Zachary W. Ulissi</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/2632-2153/ad37f0</guid>
+                Data are split into train (&lt;=35-atom slabs) and test (60-atom slabs) folders. Each folder contains a VASP calculation without the POTCAR. The slabs used are disordered AgAuCu, AuCuPd, or CuPdPt fcc alloys with a lattice constant set randomly between the largest and smallest experimental lattice constants of the constituent elements. The PBEsol functional is used with D3 dispersion corrections.</description>
+      <author>John R. Kitchin, Kirby Broderick</author>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10501343</guid>
+    </item>
+    <item>
+      <title>WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions</title>
+      <link>https://doi.org/10.5281/zenodo.7600475</link>
+      <description>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393572051
+
+                This repository houses electronic structure data and metadata generated as part of a computational chemistry case study, enabling full analysis of the paper "WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions" by Rohan Yuri Sanspeur, Javier Heras-Domingo, John R. Kitchin and Zachary Ulissi.</description>
+      <author>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi</author>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7600475</guid>
     </item>
   </channel>
 </rss>

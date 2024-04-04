@@ -1,8 +1,133 @@
 #+TITLE: Emacs and org-mode
 Description: Emacs and org-mode
-Created on Wed Apr  3 00:43:36 2024
+Created on Thu Apr  4 00:45:55 2024
 
-Found 0 results from 2024-03-27 to 2024-04-03
+Found 6 results from 2024-03-28 to 2024-04-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=default.search%3A%28%22emacs%22%20OR%20%22orgmode%22%20OR%20%22org-mode%22%29%20NOT%20%22emac%22]]
 
+* Data Sets For The Simulated Ampi (Sampi) Load Balancing Simulation Workflow And Ondes3D Performance Analysis (Companion To Ccpe Paper)  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393452044
+:TOPICS: Optimization Techniques in Simulation Modeling, Real-Time Simulation Technologies for Power Systems
+:PUBLICATION_DATE: 2018-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.1289968")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393452044"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393452044"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393452044"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393452044 (Open access: True)
+    
+[[https://openalex.org/A5085376000][Rafael Keller Tesser]], [[https://openalex.org/A5021011013][Lucas Mello Schnorr]], [[https://openalex.org/A5053847032][Arnaud Legrand]], [[https://openalex.org/A5056105588][Franz Heinrich]], [[https://openalex.org/A5042957624][Fabrice Dupros]], [[https://openalex.org/A5091234084][Philippe O. A. Navaux]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://doi.org/10.5281/zenodo.1289968 
+     
+This package contains data sets and scripts (in an Org-mode file) related to our submission to the journal "Concurrency and Computation: Practice and Experience", under the title "Performance Modeling of a Geophysics Application to Accelerate the Tuning of Over-decomposition Parameters through Simulation".    
+
+    
+
+* Data Sets For The Simulated Ampi (Sampi) Load Balancing Simulation Workflow And Ondes3D Performance Analysis (Companion To Ccpe  - Euro-Par 2017 Special Issue)  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393563946
+:TOPICS: Optimization Techniques in Simulation Modeling
+:PUBLICATION_DATE: 2017-11-29
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.1068338")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393563946"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393563946"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393563946"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393563946 (Open access: True)
+    
+[[https://openalex.org/A5085376000][Rafael Keller Tesser]], [[https://openalex.org/A5021011013][Lucas Mello Schnorr]], [[https://openalex.org/A5053847032][Arnaud Legrand]], [[https://openalex.org/A5042957624][Fabrice Dupros]], [[https://openalex.org/A5091234084][Philippe O. A. Navaux]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017. https://doi.org/10.5281/zenodo.1068338 
+     
+This package contains data sets and scripts (in an Org-mode file) related to our submission to the special Euro-Par 2017 issue of the journal "Concurrency and Computation: Practice and Experience", under the title "Performance Modeling of a Geophysics Application to Accelerate Over-decomposition Parameter Tuning through Simulation".    
+
+    
+
+* Taming the fixed-node error in diffusion Monte Carlo via range separation  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393603074
+:TOPICS: Image Denoising Techniques and Algorithms, Diffusion Magnetic Resonance Imaging, Nuclear Magnetic Resonance Applications in Various Fields
+:PUBLICATION_DATE: 2020-08-23
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.3996568")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393603074"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393603074"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393603074"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393603074 (Open access: True)
+    
+[[https://openalex.org/A5086592608][Anthony Scemama]], [[https://openalex.org/A5050282598][Emmanuel Giner]], [[https://openalex.org/A5015982541][Anouar Benali]], [[https://openalex.org/A5039205389][Pierre‐François Loos]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://doi.org/10.5281/zenodo.3996568 
+     
+Suplementary information. Contains the org-mode computational notebook with all the input data (geometries, basis sets, pseudo-potentials) and output data (computed energies, densities, number of determinants) related to the article. A csv file is created by the notebook and an HTML export of the notebook is also provided.    
+
+    
+
+* A localization transition underlies the mode-coupling crossover of glasses  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393556008
+:TOPICS: Slow Light Propagation and Quantum Memory, Dynamics of Synchronization in Complex Networks, Polarimetric Imaging for Remote Sensing and Biomedical Applications
+:PUBLICATION_DATE: 2022-02-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.1478600")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393556008"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393556008"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393556008"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393556008 (Open access: True)
+    
+[[https://openalex.org/A5039977705][Daniele Coslovich]], [[https://openalex.org/A5015356820][Andrea Ninarello]], [[https://openalex.org/A5036561939][Ludovic Berthier]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://doi.org/10.5281/zenodo.1478600 
+     
+This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. Supplementary information is available in the Supplement section of the project document (project.pdf). The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf project file with workflow and supplemental information project.bib: bibtex bibliography associated to the project project.setup: org-mode export configuration Dependencies: numpy (1.21.6) scipy (1.11.1) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python 3.8. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.2.2 fix requirements 1.2.1 fix ./src/adiff.py fix final check of ./make all improve pdf layout improve handling of org properties 1.2.0 add analysis of eigenvector-following optimizations small changes and fixes to analysis scripts 1.1.0 add "all" target to ./make fix ./make check improve setup description 1.0.0 initial submission    
+
+    
+
+* A localization transition underlies the mode-coupling crossover of glasses  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393540788
+:TOPICS: Slow Light Propagation and Quantum Memory, Dynamics of Synchronization in Complex Networks, Polarimetric Imaging for Remote Sensing and Biomedical Applications
+:PUBLICATION_DATE: 2022-02-24
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.8219016")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393540788"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393540788"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393540788"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393540788 (Open access: True)
+    
+[[https://openalex.org/A5039977705][Daniele Coslovich]], [[https://openalex.org/A5015356820][Andrea Ninarello]], [[https://openalex.org/A5036561939][Ludovic Berthier]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://doi.org/10.5281/zenodo.8219016 
+     
+This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. Supplementary information is available in the Supplement section of the project document (project.pdf). The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf project file with workflow and supplemental information project.bib: bibtex bibliography associated to the project project.setup: org-mode export configuration Dependencies: numpy (1.21.6) scipy (1.11.1) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python 3.8. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.2.2 fix requirements 1.2.1 fix ./src/adiff.py fix final check of ./make all improve pdf layout improve handling of org properties 1.2.0 add analysis of eigenvector-following optimizations small changes and fixes to analysis scripts 1.1.0 add "all" target to ./make fix ./make check improve setup description 1.0.0 initial submission    
+
+    
+
+* Traces Used For Calibration Of Npb Lu With Smpi / Simgrid  :Emacs_and_org_mode:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393509043
+:TOPICS: Radionuclide Metrology and Decay Rate Analysis, Atomic Magnetometry Techniques, Pulmonary Calcification and Nodular Tumors in the Lung
+:PUBLICATION_DATE: 2017-02-08
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.273276")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393509043"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393509043"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393509043"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393509043 (Open access: True)
+    
+[[https://openalex.org/A5056105588][Franz Heinrich]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017. https://doi.org/10.5281/zenodo.273276 
+     
+These traces were used to calibrate the NAS NPB Benchmark LU with SMPI. The archives contain the traces for 12 cores, all run on 1 single node (that contained 12 cores). The extracted size should be around 7 GB for the MPI one and 600 MB for SMPI. The .org-file contains the analysis used to obtain the required input files for SimGrid. You can load them in org-mode and then execute via "C-c C-v b" the whole buffer. Make sure to extract the archives in /tmp/ or change the paths accordingly.    
+
+    

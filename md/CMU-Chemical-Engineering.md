@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Apr  3 00:43:51 2024
+Created on Thu Apr  4 00:46:11 2024
 
-Found 3 results from 2024-03-27 to 2024-04-03
+Found 25 results from 2024-03-28 to 2024-04-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials   
-
-OpenAlex: https://openalex.org/W4393189800    
-Open access: True
-    
-[Xiaoxiao Wang](https://openalex.org/A5022967729), [Joseph Musielewicz](https://openalex.org/A5035368167), [Richard Tran](https://openalex.org/A5050564006), [Sudheesh Kumar Ethirajan](https://openalex.org/A5025104400), [Xiao Fu](https://openalex.org/A5015075381), [Hilda Mera](https://openalex.org/A5012436789), [John R. Kitchin](https://openalex.org/A5003442464), [Rachel C. Kurchin](https://openalex.org/A5065146210), [Zachary W. Ulissi](https://openalex.org/A5024574386), Machine learning: science and technology. None(None)] 2024.https://doi.org/10.1088/2632-2153/ad37f0 ([pdf](https://iopscience.iop.org/article/10.1088/2632-2153/ad37f0/pdf)).
-    
-Abstract Although density functional theory (DFT) has aided in accelerating the discovery of new materials, such calculations are computationally expensive, especially for high-throughput efforts. This has prompted an explosion in exploration of machine learning assisted techniques to improve the computational efficiency of DFT. In this study, we present a comprehensive investigation of the broader application of Finetuna, an active learning framework to accelerate structural relaxation in DFT with prior information from Open Catalyst Project pretrained graph neural networks. We explore the challenges associated with out-of-domain systems: alcohol ($C_{>2}$) on metal surfaces as larger adsorbates, metal-oxides with spin polarization, and three-dimensional (3D) structures like zeolites and metal-organic-frameworks. By pre-training machine learning models on large datasets and fine-tuning the model along the simulation, we demonstrate the framework's ability to conduct relaxations with fewer DFT calculations. Depending on the similarity of the test systems to the training systems, a more conservative querying strategy is applied. Our best-performing Finetuna strategy reduces the number of DFT single-point calculations by 80% for alcohols and 3D structures, and 42% for oxide systems.    
-
-    
 
 ## Solving the Security Constrained Unit Commitment Problem: Three Novel Approaches   
 
@@ -28,6 +17,171 @@ Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink
 
     
 
+## DFT for Surface Segregation of Disordered FCC CuPdPt Alloys   
+
+OpenAlex: https://openalex.org/W4393587488    
+Open access: False
+    
+[John R. Kitchin](https://openalex.org/A5003442464), [Kirby Broderick](https://openalex.org/A5088846020), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024.https://doi.org/10.5281/zenodo.10501343.
+    
+Data are split into train (<=35-atom slabs) and test (60-atom slabs) folders. Each folder contains a VASP calculation without the POTCAR. The slabs used are disordered AgAuCu, AuCuPd, or CuPdPt fcc alloys with a lattice constant set randomly between the largest and smallest experimental lattice constants of the constituent elements. The PBEsol functional is used with D3 dispersion corrections.    
+
+    
+
+## Optimal Design and Operation of Intensified Packed Towers for Solvent Based CO2 Capture   
+
+OpenAlex: https://openalex.org/W4393400076    
+Open access: True
+    
+[Stephen Summits](https://openalex.org/A5094303016), [Debangsu Bhattacharyya](https://openalex.org/A5037148093), [Grigorios Panagakos](https://openalex.org/A5028498558), [Benjamin Omell](https://openalex.org/A5000874144), [Michael Matuszewski](https://openalex.org/A5054503694), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## A Computational Investigation of the Effect of Packing Structural Features on the Performance of Carbon Capture for Solvent-Based Post-Combustion Applications   
+
+OpenAlex: https://openalex.org/W4393400078    
+Open access: True
+    
+[Grigorios Panagakos](https://openalex.org/A5028498558), [Yash Girish Shah](https://openalex.org/A5038961197), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Economies of Numbers Formulations for Optimal Process Family Design of Carbon Capture Systems   
+
+OpenAlex: https://openalex.org/W4393400082    
+Open access: True
+    
+[Georgia Stinchfield](https://openalex.org/A5007541692), [Miguel Zamarripa](https://openalex.org/A5015881602), [Josh Morgan](https://openalex.org/A5086695747), [Carl D. Laird](https://openalex.org/A5030631754), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Trust Region Filter Method for Integrating Treatment into Produced Water Networks   
+
+OpenAlex: https://openalex.org/W4393400083    
+Open access: True
+    
+[Sakshi Naik](https://openalex.org/A5054628015), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to DOE’s Produced Water Optimization Framework Pareto   
+
+OpenAlex: https://openalex.org/W4393400086    
+Open access: True
+    
+[Daniel Ovalle](https://openalex.org/A5067396423), [Joshua L. Pulsipher](https://openalex.org/A5036452308), [Markus Drouven](https://openalex.org/A5048411560), [Carl D. Laird](https://openalex.org/A5030631754), [Ignacio E. Grossmann](https://openalex.org/A5056017028), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Numerical Study on the Geometrical Effects of Structured Packing on the Hydrodynamics of Solvent-Based CO2 Capture in Absorption Columns   
+
+OpenAlex: https://openalex.org/W4393400088    
+Open access: True
+    
+[Yash Girish Shah](https://openalex.org/A5038961197), [Grigorios Panagakos](https://openalex.org/A5028498558), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Recent Advances in PyROS: The Pyomo Solver for Two-Stage Nonconvex Robust Optimization   
+
+OpenAlex: https://openalex.org/W4393400090    
+Open access: True
+    
+[J.D. Sherman](https://openalex.org/A5033020710), [Natalie M. Isenberg](https://openalex.org/A5042904619), [John Daniel Siirola](https://openalex.org/A5047681120), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Optimization for Infrastructure Planning of Reliable and Carbon-neutral Power Systems: Application to San Diego County   
+
+OpenAlex: https://openalex.org/W4393400116    
+Open access: True
+    
+[Seolhee Cho](https://openalex.org/A5060951641), [Javier Tovar-Facio](https://openalex.org/A5040511658), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Benjamin Omell](https://openalex.org/A5000874144), [Christopher McLean](https://openalex.org/A5088878877), [Radhakrishna Gooty](https://openalex.org/A5062255632), [Philip Tominac](https://openalex.org/A5048689476), [Anthony P. Burgard](https://openalex.org/A5043316648), [John Daniel Siirola](https://openalex.org/A5047681120), [John H. Shinn](https://openalex.org/A5076858830), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Nonconvex Two-Stage Robust Optimization of an Amine-Based CO2 Capture System   
+
+OpenAlex: https://openalex.org/W4393400124    
+Open access: True
+    
+[J.D. Sherman](https://openalex.org/A5033020710), [Anca Ostace](https://openalex.org/A5016290678), [Douglas E. Allen](https://openalex.org/A5073042814), [Miguel Zamarripa](https://openalex.org/A5015881602), [Andrew Lee](https://openalex.org/A5084085179), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Optimal Desalination Technologies for Produced Water Networks   
+
+OpenAlex: https://openalex.org/W4393400133    
+Open access: True
+    
+[Sakshi Naik](https://openalex.org/A5054628015), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Lorenz T. Biegler](https://openalex.org/A5052825722), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
+    
+No abstract    
+
+    
+
+## Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere: data resources   
+
+OpenAlex: https://openalex.org/W4393424201    
+Open access: False
+    
+[Xu‐Cheng He](https://openalex.org/A5043129752), [Mario Simon](https://openalex.org/A5086950058), [Siddharth Iyer](https://openalex.org/A5019682345), [Hong-Bin Xie](https://openalex.org/A5017016658), [Birte Rörup](https://openalex.org/A5022780485), [Jiali Shen](https://openalex.org/A5049005695), [Henning Finkenzeller](https://openalex.org/A5081639490), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Rongjie Zhang](https://openalex.org/A5045892422), [Andrea Baccarini](https://openalex.org/A5083781753), [Yee Jun Tham](https://openalex.org/A5058887080), [Mingyi Wang](https://openalex.org/A5083213632), [Stravros Amanatidis](https://openalex.org/A5094308499), [Ana A. Piedehierro](https://openalex.org/A5014387175), [A. Amorim](https://openalex.org/A5062064925), [Rima Baalbaki](https://openalex.org/A5055362390), [Zoé Brasseur](https://openalex.org/A5066558128), [Lucía Caudillo](https://openalex.org/A5079509898), [Biwu Chu](https://openalex.org/A5010276293), [Lubna Dada](https://openalex.org/A5049539173), [Jonathan Duplissy](https://openalex.org/A5088633919), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Manuel Granzin](https://openalex.org/A5070143068), [Armin Hansel](https://openalex.org/A5089489241), [Martin Heinritzi](https://openalex.org/A5037408007), [Victoria Hofbauer](https://openalex.org/A5012274245), [Tuija Jokinen](https://openalex.org/A5043850385), [Deniz Kemppainen](https://openalex.org/A5075610408), [Weimeng Kong](https://openalex.org/A5046351966), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Andreas Kürten](https://openalex.org/A5056657317), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Brandon Lopez](https://openalex.org/A5019360565), [Fengxian Ma](https://openalex.org/A5091039676), [Naser G. A. Mahfouz](https://openalex.org/A5015886123), [В. С. Махмутов](https://openalex.org/A5036074857), [Hanna E. Manninen](https://openalex.org/A5022377744), [Guillaume Marie](https://openalex.org/A5032794723), [Ruby Marten](https://openalex.org/A5076543442), [Dario Massabò](https://openalex.org/A5053464208), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Antti Onnela](https://openalex.org/A5089192083), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Joschka Pfeifer](https://openalex.org/A5043381937), [Maxim Philippov](https://openalex.org/A5090585494), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Matti Rissanen](https://openalex.org/A5073788174), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Wiebke Scholz](https://openalex.org/A5076482580), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Mihnea Surdu](https://openalex.org/A5076044930), [Roseline C. Thakur](https://openalex.org/A5063948083), [António Tomé](https://openalex.org/A5021102823), [Andrea C. Wagner](https://openalex.org/A5024532344), [Dongyu Wang](https://openalex.org/A5080825458), [Stefan K. Weber](https://openalex.org/A5041814082), [André Welti](https://openalex.org/A5057462897), [Paul M. Winkler](https://openalex.org/A5042382547), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Urs Baltensperger](https://openalex.org/A5044025292), [Joachim Curtius](https://openalex.org/A5031780924), [Theo Kurtén](https://openalex.org/A5089404351), [Douglas R. Worsnop](https://openalex.org/A5026978286), [Rainer Volkamer](https://openalex.org/A5018521569), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [J. Kirkby](https://openalex.org/A5009274507), [Neil M. Donahue](https://openalex.org/A5041685684), [Mikko Sipilä](https://openalex.org/A5049530714), [Markku Kulmala](https://openalex.org/A5000471665), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.8344385.
+    
+Data resources for manuscript: "Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere"    
+
+    
+
+## Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere: data resources   
+
+OpenAlex: https://openalex.org/W4393448196    
+Open access: False
+    
+[Xu‐Cheng He](https://openalex.org/A5043129752), [Mario Simon](https://openalex.org/A5086950058), [Siddharth Iyer](https://openalex.org/A5019682345), [Hong-Bin Xie](https://openalex.org/A5017016658), [Birte Rörup](https://openalex.org/A5022780485), [Jiali Shen](https://openalex.org/A5049005695), [Henning Finkenzeller](https://openalex.org/A5081639490), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Rongjie Zhang](https://openalex.org/A5045892422), [Andrea Baccarini](https://openalex.org/A5083781753), [Yee Jun Tham](https://openalex.org/A5058887080), [Mingyi Wang](https://openalex.org/A5083213632), [Stravros Amanatidis](https://openalex.org/A5094313774), [Ana A. Piedehierro](https://openalex.org/A5014387175), [A. Amorim](https://openalex.org/A5062064925), [Rima Baalbaki](https://openalex.org/A5055362390), [Zoé Brasseur](https://openalex.org/A5066558128), [Lucía Caudillo](https://openalex.org/A5079509898), [Biwu Chu](https://openalex.org/A5010276293), [Lubna Dada](https://openalex.org/A5049539173), [Jonathan Duplissy](https://openalex.org/A5088633919), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Manuel Granzin](https://openalex.org/A5070143068), [Armin Hansel](https://openalex.org/A5089489241), [Martin Heinritzi](https://openalex.org/A5037408007), [Victoria Hofbauer](https://openalex.org/A5012274245), [Tuija Jokinen](https://openalex.org/A5043850385), [Deniz Kemppainen](https://openalex.org/A5075610408), [Weimeng Kong](https://openalex.org/A5046351966), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Andreas Kürten](https://openalex.org/A5056657317), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Brandon Lopez](https://openalex.org/A5019360565), [Fengxian Ma](https://openalex.org/A5091039676), [Naser G. A. Mahfouz](https://openalex.org/A5015886123), [В. С. Махмутов](https://openalex.org/A5036074857), [Hanna E. Manninen](https://openalex.org/A5022377744), [Guillaume Marie](https://openalex.org/A5032794723), [Ruby Marten](https://openalex.org/A5076543442), [Dario Massabò](https://openalex.org/A5053464208), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Antti Onnela](https://openalex.org/A5089192083), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Joschka Pfeifer](https://openalex.org/A5043381937), [Maxim Philippov](https://openalex.org/A5090585494), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Matti Rissanen](https://openalex.org/A5073788174), [Siegfried Schobesberger](https://openalex.org/A5033551265), [Wiebke Scholz](https://openalex.org/A5076482580), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Mihnea Surdu](https://openalex.org/A5076044930), [Roseline C. Thakur](https://openalex.org/A5063948083), [António Tomé](https://openalex.org/A5021102823), [Andrea C. Wagner](https://openalex.org/A5024532344), [Dongyu Wang](https://openalex.org/A5080825458), [Stefan K. Weber](https://openalex.org/A5041814082), [André Welti](https://openalex.org/A5057462897), [Paul M. Winkler](https://openalex.org/A5042382547), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Urs Baltensperger](https://openalex.org/A5044025292), [Joachim Curtius](https://openalex.org/A5031780924), [Theo Kurtén](https://openalex.org/A5089404351), [Douglas R. Worsnop](https://openalex.org/A5026978286), [Rainer Volkamer](https://openalex.org/A5018521569), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [J. Kirkby](https://openalex.org/A5009274507), [Neil M. Donahue](https://openalex.org/A5041685684), [Mikko Sipilä](https://openalex.org/A5049530714), [Markku Kulmala](https://openalex.org/A5000471665), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.8344386.
+    
+Data resources for manuscript: "Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere"    
+
+    
+
+## WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions   
+
+OpenAlex: https://openalex.org/W4393572051    
+Open access: True
+    
+[Rohan Yuri Sanspeur](https://openalex.org/A5071284998), [Javier Heras‐Domingo](https://openalex.org/A5062528507), [John R. Kitchin](https://openalex.org/A5003442464), [Zachary W. Ulissi](https://openalex.org/A5024574386), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.7600475.
+    
+This repository houses electronic structure data and metadata generated as part of a computational chemistry case study, enabling full analysis of the paper "WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions" by Rohan Yuri Sanspeur, Javier Heras-Domingo, John R. Kitchin and Zachary Ulissi.    
+
+    
+
+## The Role Of Ions In New-Particle Formation In The Cloud Chamber: Supporting Data   
+
+OpenAlex: https://openalex.org/W4393441365    
+Open access: True
+    
+[R. J. Wagner](https://openalex.org/A5038586841), [Chao Yan](https://openalex.org/A5049317897), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Jonathan Duplissy](https://openalex.org/A5088633919), [Tuomo Nieminen](https://openalex.org/A5015236692), [Juha Kangasluoma](https://openalex.org/A5026556889), [Lauri Ahonen](https://openalex.org/A5054797720), [Lubna Dada](https://openalex.org/A5049539173), [Jenni Kontkanen](https://openalex.org/A5041077752), [Hanna E. Manninen](https://openalex.org/A5022377744), [António Dias](https://openalex.org/A5061551042), [A. Amorim](https://openalex.org/A5062064925), [Paulus S. Bauer](https://openalex.org/A5056663492), [Anton Bergen](https://openalex.org/A5090482922), [Anne-Kathrin Bernhammer](https://openalex.org/A5089113964), [Federico Bianchi](https://openalex.org/A5075179945), [Sophia Brilke](https://openalex.org/A5045766641), [Stephany Buenrostro Mazon](https://openalex.org/A5048415383), [Xuemeng Chen](https://openalex.org/A5074722873), [Danielle C. Draper](https://openalex.org/A5017089865), [Lukas Fischer](https://openalex.org/A5030608908), [Carla Frege](https://openalex.org/A5077323329), [Claudia Fuchs](https://openalex.org/A5032316160), [Olga Garmаsh](https://openalex.org/A5090001660), [Hamish Gordon](https://openalex.org/A5086004922), [J. Hakala](https://openalex.org/A5084553728), [Liine Heikkinen](https://openalex.org/A5026903302), [Martin Heinritzi](https://openalex.org/A5037408007), [Victoria Hofbauer](https://openalex.org/A5012274245), [C. R. Hoyle](https://openalex.org/A5037264146), [J. Kirkby](https://openalex.org/A5009274507), [Andreas Kürten](https://openalex.org/A5056657317), [A. N. Kvashnin](https://openalex.org/A5018996508), [Tiia Laurila](https://openalex.org/A5077903499), [Michael J. Lawler](https://openalex.org/A5079104389), [Huajun Mai](https://openalex.org/A5008612776), [В. С. Махмутов](https://openalex.org/A5036074857), [R. L. Mauldin](https://openalex.org/A5006970537), [Ugo Molteni](https://openalex.org/A5086592925), [Leonid Nichman](https://openalex.org/A5035762903), [Wei Nie](https://openalex.org/A5067110169), [Andrea Ojdanic](https://openalex.org/A5083989830), [Antti Onnela](https://openalex.org/A5089192083), [Felix Piel](https://openalex.org/A5041515328), [Lauriane L. J. Quéléver](https://openalex.org/A5058987691), [Matti Rissanen](https://openalex.org/A5073788174), [Nina Sarnela](https://openalex.org/A5049775246), [Simon Schallhart](https://openalex.org/A5012583810), [Kamalika Sengupta](https://openalex.org/A5012441497), [Mario Simon](https://openalex.org/A5086950058), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Y. I. Stozhkov](https://openalex.org/A5019609487), [Jasmin Tröstl](https://openalex.org/A5077572679), [Y. Viisanen](https://openalex.org/A5043324697), [Alexander L. Vogel](https://openalex.org/A5008883975), [Andrea C. Wagner](https://openalex.org/A5024532344), [Mao Xiao](https://openalex.org/A5085897081), [Penglin Ye](https://openalex.org/A5087646916), [Urs Baltensperger](https://openalex.org/A5044025292), [Joachim Curtius](https://openalex.org/A5031780924), [Neil M. Donahue](https://openalex.org/A5041685684), [Richard C. Flagan](https://openalex.org/A5012711441), [Martin Gallagher](https://openalex.org/A5004095631), [Armin Hansel](https://openalex.org/A5089489241), [James N. Smith](https://openalex.org/A5070749702), [António Tomé](https://openalex.org/A5021102823), [Paul M. Winkler](https://openalex.org/A5042382547), [Douglas R. Worsnop](https://openalex.org/A5026978286), [Mikael Ehn](https://openalex.org/A5013864377), [Mikko Sipilä](https://openalex.org/A5049530714), [Veli‐Matti Kerminen](https://openalex.org/A5075262199), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Markku Kulmala](https://openalex.org/A5000471665), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017.https://doi.org/10.5281/zenodo.1033852.
+    
+Data that is presented in the publication "The role of ions in new-particle formation in the CLOUD chamber", ACP 2017.    
+
+    
+
 ## Recent Progress and Future Directions in the Synthesis of Heat-Integrated Water Networks   
 
 OpenAlex: https://openalex.org/W4393369073    
@@ -36,5 +190,93 @@ Open access: False
 [Elvis Ahmetović](https://openalex.org/A5022432985), [Nidret Ibrić](https://openalex.org/A5076764928), [Andreja Nemet](https://openalex.org/A5078685852), [Zdravko Kravanja](https://openalex.org/A5068406372), [Ignacio E. Grossmann](https://openalex.org/A5056017028), DOAJ (DOAJ: Directory of Open Access Journals). None(None)] 2022.https://doi.org/10.3303/cet2294104.
     
 No abstract    
+
+    
+
+## NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data   
+
+OpenAlex: https://openalex.org/W4393484303    
+Open access: True
+    
+[Hamish Gordon](https://openalex.org/A5086004922), [K. S. Carslaw](https://openalex.org/A5061310552), [Adrian A. Hill](https://openalex.org/A5035347045), [Paul R. Field](https://openalex.org/A5091671093), [N. L. Abraham](https://openalex.org/A5078321071), [A. J. Beyersdorf](https://openalex.org/A5046735614), [Chelsea Corr‐Limoges](https://openalex.org/A5092431134), [Pratapaditya Ghosh](https://openalex.org/A5005781295), [John Hemmings](https://openalex.org/A5042271285), [Anthony C. Jones](https://openalex.org/A5025245146), [Claudio Sánchez](https://openalex.org/A5048082483), [Xuemei Wang](https://openalex.org/A5046135731), [Jonathan Wilkinson](https://openalex.org/A5019832668), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022.https://doi.org/10.5281/zenodo.7186075.
+    
+Simulated data presented in manuscript with title above, generated with the Met Office Unified Model    
+
+    
+
+## Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation: data resources & code   
+
+OpenAlex: https://openalex.org/W4393531939    
+Open access: True
+    
+[Mingyi Wang](https://openalex.org/A5083213632), [Mao Xiao](https://openalex.org/A5085897081), [Barbara Bertozzi](https://openalex.org/A5048802141), [Guillaume Marie](https://openalex.org/A5032794723), [Birte Rörup](https://openalex.org/A5022780485), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Roman Bardakov](https://openalex.org/A5051878399), [Xu‐Cheng He](https://openalex.org/A5043129752), [Jiali Shen](https://openalex.org/A5049005695), [Wiebke Scholz](https://openalex.org/A5076482580), [Ruby Marten](https://openalex.org/A5076543442), [Lubna Dada](https://openalex.org/A5049539173), [Rima Baalbaki](https://openalex.org/A5055362390), [Brandon Lopez](https://openalex.org/A5019360565), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Hanna E. Manninen](https://openalex.org/A5022377744), [A. Amorim](https://openalex.org/A5062064925), [Farnoush Ataei](https://openalex.org/A5052927109), [Pia Bogert](https://openalex.org/A5027251415), [Zoé Brasseur](https://openalex.org/A5066558128), [Lucía Caudillo](https://openalex.org/A5079509898), [Louis-Philippe De Menezes](https://openalex.org/A5090000132), [Jonathan Duplissy](https://openalex.org/A5088633919), [Annica M. L. Ekman](https://openalex.org/A5073225703), [Henning Finkenzeller](https://openalex.org/A5081639490), [Loïc Gonzalez Carracedo](https://openalex.org/A5010358835), [Manuel Granzin](https://openalex.org/A5070143068), [R. Guida](https://openalex.org/A5085254586), [Martin Heinritzi](https://openalex.org/A5037408007), [Victoria Hofbauer](https://openalex.org/A5012274245), [Kristina Höhler](https://openalex.org/A5070773876), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Andreas Kürten](https://openalex.org/A5056657317), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Naser G. A. Mahfouz](https://openalex.org/A5015886123), [В. С. Махмутов](https://openalex.org/A5036074857), [Dario Massabò](https://openalex.org/A5053464208), [Serge Mathot](https://openalex.org/A5012955138), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Tatjana Müller](https://openalex.org/A5070690236), [Antti Onnela](https://openalex.org/A5089192083), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Maxim Philippov](https://openalex.org/A5090585494), [Ana A. Piedehierro](https://openalex.org/A5014387175), [Andrea Pozzer](https://openalex.org/A5081741117), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Meredith Schervish](https://openalex.org/A5038957567), [Alexander L. Vogel](https://openalex.org/A5008883975), [Yuri Stozhkov](https://openalex.org/A5089593849), [António Tomé](https://openalex.org/A5021102823), [Nsikanabasi Silas Umo](https://openalex.org/A5043100376), [Franziska Vogel](https://openalex.org/A5018499259), [R. J. Wagner](https://openalex.org/A5038586841), [Dongyu Wang](https://openalex.org/A5080825458), [Stefan K. Weber](https://openalex.org/A5041814082), [André Welti](https://openalex.org/A5057462897), [Yusheng Wu](https://openalex.org/A5024870970), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Mikko Sipilä](https://openalex.org/A5049530714), [Paul M. Winkler](https://openalex.org/A5042382547), [Armin Hansel](https://openalex.org/A5089489241), [Urs Baltensperger](https://openalex.org/A5044025292), [Markku Kulmala](https://openalex.org/A5000471665), [Richard C. Flagan](https://openalex.org/A5012711441), [Joachim Curtius](https://openalex.org/A5031780924), [Ilona Riipinen](https://openalex.org/A5038776980), [Hamish Gordon](https://openalex.org/A5086004922), [Jos Lelieveld](https://openalex.org/A5027329208), [Imad El Haddad](https://openalex.org/A5080319960), [Rainer Volkamer](https://openalex.org/A5018521569), [Douglas R. Worsnop](https://openalex.org/A5026978286), [T. Christoudias](https://openalex.org/A5068413254), [J. Kirkby](https://openalex.org/A5009274507), [Ottmar Möhler](https://openalex.org/A5089697844), [Neil M. Donahue](https://openalex.org/A5041685684), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022.https://doi.org/10.5281/zenodo.5949440.
+    
+Data presented in the manuscript "Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.    
+
+    
+
+## NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data   
+
+OpenAlex: https://openalex.org/W4393536325    
+Open access: True
+    
+[Hamish Gordon](https://openalex.org/A5086004922), [K. S. Carslaw](https://openalex.org/A5061310552), [Adrian A. Hill](https://openalex.org/A5035347045), [Paul R. Field](https://openalex.org/A5091671093), [N. L. Abraham](https://openalex.org/A5078321071), [A. J. Beyersdorf](https://openalex.org/A5046735614), [Chelsea Corr‐Limoges](https://openalex.org/A5092431134), [Pratapaditya Ghosh](https://openalex.org/A5005781295), [John Hemmings](https://openalex.org/A5042271285), [Anthony C. Jones](https://openalex.org/A5025245146), [Claudio Sánchez](https://openalex.org/A5048082483), [Xuemei Wang](https://openalex.org/A5046135731), [Jonathan Wilkinson](https://openalex.org/A5019832668), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022.https://doi.org/10.5281/zenodo.7278212.
+    
+Simulated data presented in manuscript with title above, generated with the Met Office Unified Model, together with observations from KORUS-AQ and MODIS that are used in the model evaluation. The Terra/MODIS aerosol datasets were acquired from the Level-1 and Atmosphere Archive & Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland https://ladsweb.nascom.nasa.gov/. All surface and aircraft observation data is freely and publicly available at https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, last access 10 June 2022.    
+
+    
+
+## Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation: data resources & code   
+
+OpenAlex: https://openalex.org/W4393591647    
+Open access: True
+    
+[Mingyi Wang](https://openalex.org/A5083213632), [Mao Xiao](https://openalex.org/A5085897081), [Barbara Bertozzi](https://openalex.org/A5048802141), [Guillaume Marie](https://openalex.org/A5032794723), [Birte Rörup](https://openalex.org/A5022780485), [Benjamin C. Schulze](https://openalex.org/A5008614828), [Roman Bardakov](https://openalex.org/A5051878399), [Xu‐Cheng He](https://openalex.org/A5043129752), [Jiali Shen](https://openalex.org/A5049005695), [Wiebke Scholz](https://openalex.org/A5076482580), [Ruby Marten](https://openalex.org/A5076543442), [Lubna Dada](https://openalex.org/A5049539173), [Rima Baalbaki](https://openalex.org/A5055362390), [Brandon Lopez](https://openalex.org/A5019360565), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Hanna E. Manninen](https://openalex.org/A5022377744), [A. Amorim](https://openalex.org/A5062064925), [Farnoush Ataei](https://openalex.org/A5052927109), [Pia Bogert](https://openalex.org/A5027251415), [Zoé Brasseur](https://openalex.org/A5066558128), [Lucía Caudillo](https://openalex.org/A5079509898), [Louis-Philippe De Menezes](https://openalex.org/A5090000132), [Jonathan Duplissy](https://openalex.org/A5088633919), [Annica M. L. Ekman](https://openalex.org/A5073225703), [Henning Finkenzeller](https://openalex.org/A5081639490), [Loïc Gonzalez Carracedo](https://openalex.org/A5010358835), [Manuel Granzin](https://openalex.org/A5070143068), [R. Guida](https://openalex.org/A5085254586), [Martin Heinritzi](https://openalex.org/A5037408007), [Victoria Hofbauer](https://openalex.org/A5012274245), [Kristina Höhler](https://openalex.org/A5070773876), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Andreas Kürten](https://openalex.org/A5056657317), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Naser G. A. Mahfouz](https://openalex.org/A5015886123), [В. С. Махмутов](https://openalex.org/A5036074857), [Dario Massabò](https://openalex.org/A5053464208), [Serge Mathot](https://openalex.org/A5012955138), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Tatjana Müller](https://openalex.org/A5070690236), [Antti Onnela](https://openalex.org/A5089192083), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Maxim Philippov](https://openalex.org/A5090585494), [Ana A. Piedehierro](https://openalex.org/A5014387175), [Andrea Pozzer](https://openalex.org/A5081741117), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Meredith Schervish](https://openalex.org/A5038957567), [Mario Simon](https://openalex.org/A5086950058), [Y. I. Stozhkov](https://openalex.org/A5019609487), [António Tomé](https://openalex.org/A5021102823), [Nsikanabasi Silas Umo](https://openalex.org/A5043100376), [Franziska Vogel](https://openalex.org/A5018499259), [R. J. Wagner](https://openalex.org/A5038586841), [Dongyu Wang](https://openalex.org/A5080825458), [Stefan K. Weber](https://openalex.org/A5041814082), [André Welti](https://openalex.org/A5057462897), [Yusheng Wu](https://openalex.org/A5024870970), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Mikko Sipilä](https://openalex.org/A5049530714), [Paul M. Winkler](https://openalex.org/A5042382547), [Armin Hansel](https://openalex.org/A5089489241), [Urs Baltensperger](https://openalex.org/A5044025292), [Markku Kulmala](https://openalex.org/A5000471665), [Richard C. Flagan](https://openalex.org/A5012711441), [Joachim Curtius](https://openalex.org/A5031780924), [Ilona Riipinen](https://openalex.org/A5038776980), [Hamish Gordon](https://openalex.org/A5086004922), [J. Lelieveld](https://openalex.org/A5000266081), [Imad El Haddad](https://openalex.org/A5080319960), [Rainer Volkamer](https://openalex.org/A5018521569), [Douglas R. Worsnop](https://openalex.org/A5026978286), [T. Christoudias](https://openalex.org/A5068413254), [J. Kirkby](https://openalex.org/A5009274507), [Ottmar Möhler](https://openalex.org/A5089697844), [Neil M. Donahue](https://openalex.org/A5041685684), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022.https://doi.org/10.5281/zenodo.5949439.
+    
+Data presented in the manuscript "Synergistic HNO3–H2SO4–NH3 upper tropospheric particle formation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.    
+
+    
+
+## Rapid growth of new atmospheric particles by nitric acid and ammonia condensation: data resources   
+
+OpenAlex: https://openalex.org/W4393564124    
+Open access: True
+    
+[Mingyi Wang](https://openalex.org/A5083213632), [Weimeng Kong](https://openalex.org/A5046351966), [Ruby Marten](https://openalex.org/A5076543442), [Xu‐Cheng He](https://openalex.org/A5043129752), [Dexian Chen](https://openalex.org/A5074831361), [Joschka Pfeifer](https://openalex.org/A5043381937), [Arto Heitto](https://openalex.org/A5006703947), [Jenni Kontkanen](https://openalex.org/A5041077752), [Lubna Dada](https://openalex.org/A5049539173), [Andreas Kürten](https://openalex.org/A5056657317), [Taina Yli-Juuti](https://openalex.org/A5053686310), [Hanna E. Manninen](https://openalex.org/A5022377744), [Stavros Amanatidis](https://openalex.org/A5059174925), [A. Amorim](https://openalex.org/A5062064925), [Rima Baalbaki](https://openalex.org/A5055362390), [Andrea Baccarini](https://openalex.org/A5083781753), [David M. Bell](https://openalex.org/A5049526503), [Barbara Bertozzi](https://openalex.org/A5048802141), [Steffen Bräkling](https://openalex.org/A5069024987), [Sophia Brilke](https://openalex.org/A5045766641), [Lucía Caudillo Murillo](https://openalex.org/A5012867799), [Randall Chiu](https://openalex.org/A5080741963), [Biwu Chu](https://openalex.org/A5010276293), [Louis-Philippe De Menezes](https://openalex.org/A5090000132), [Jonathan Duplissy](https://openalex.org/A5088633919), [Henning Finkenzeller](https://openalex.org/A5081639490), [Loïc Gonzalez Carracedo](https://openalex.org/A5010358835), [Manuel Granzin](https://openalex.org/A5070143068), [R. Guida](https://openalex.org/A5085254586), [Armin Hansel](https://openalex.org/A5089489241), [Victoria Hofbauer](https://openalex.org/A5012274245), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Markus Lampimäki](https://openalex.org/A5074631406), [Chuan Ping Lee](https://openalex.org/A5060127472), [В. С. Махмутов](https://openalex.org/A5036074857), [Guillaume Marie](https://openalex.org/A5032794723), [Serge Mathot](https://openalex.org/A5012955138), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Tatjana Müller](https://openalex.org/A5070690236), [Antti Onnela](https://openalex.org/A5089192083), [Eva Partoll](https://openalex.org/A5073169003), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Maxim Philippov](https://openalex.org/A5090585494), [Veronika Pospíšilová](https://openalex.org/A5081146288), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Matti Rissanen](https://openalex.org/A5073788174), [Birte Rörup](https://openalex.org/A5022780485), [Wiebke Scholz](https://openalex.org/A5076482580), [Jiali Shen](https://openalex.org/A5049005695), [Mario Simon](https://openalex.org/A5086950058), [Mikko Sipilä](https://openalex.org/A5049530714), [Gerhard Steiner](https://openalex.org/A5029921673), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Yee Jun Tham](https://openalex.org/A5058887080), [António Tomé](https://openalex.org/A5021102823), [Andrea C. Wagner](https://openalex.org/A5024532344), [Dongyu Wang](https://openalex.org/A5080825458), [Yonghong Wang](https://openalex.org/A5048060534), [Stefan K. Weber](https://openalex.org/A5041814082), [Paul M. Winkler](https://openalex.org/A5042382547), [Peter Josef Wlasits](https://openalex.org/A5043784176), [Yusheng Wu](https://openalex.org/A5024870970), [Mao Xiao](https://openalex.org/A5085897081), [Qing Ye](https://openalex.org/A5018999020), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Xueqin Zhou](https://openalex.org/A5012138112), [Rainer Volkamer](https://openalex.org/A5018521569), [Ilona Riipinen](https://openalex.org/A5038776980), [Josef Dommen](https://openalex.org/A5038983887), [Joachim Curtius](https://openalex.org/A5031780924), [Urs Baltensperger](https://openalex.org/A5044025292), [Markku Kulmala](https://openalex.org/A5000471665), [Douglas R. Worsnop](https://openalex.org/A5026978286), [J. Kirkby](https://openalex.org/A5009274507), [John H. Seinfeld](https://openalex.org/A5001370428), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Neil M. Donahue](https://openalex.org/A5041685684), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020.https://doi.org/10.5281/zenodo.3653377.
+    
+Data presented in the manuscript "Rapid growth of new atmospheric particles by nitric acid and ammonia condensation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.    
+
+    
+
+## Rapid growth of new atmospheric particles by nitric acid and ammonia condensation: data resources   
+
+OpenAlex: https://openalex.org/W4393625648    
+Open access: False
+    
+[Mingyi Wang](https://openalex.org/A5083213632), [Weimeng Kong](https://openalex.org/A5046351966), [Ruby Marten](https://openalex.org/A5076543442), [Xu‐Cheng He](https://openalex.org/A5043129752), [Dexian Chen](https://openalex.org/A5074831361), [Joschka Pfeifer](https://openalex.org/A5043381937), [Arto Heitto](https://openalex.org/A5006703947), [Jenni Kontkanen](https://openalex.org/A5041077752), [Lubna Dada](https://openalex.org/A5049539173), [Andreas Kürten](https://openalex.org/A5056657317), [Taina Yli-Juuti](https://openalex.org/A5053686310), [Hanna E. Manninen](https://openalex.org/A5022377744), [Stavros Amanatidis](https://openalex.org/A5059174925), [A. Amorim](https://openalex.org/A5062064925), [Rima Baalbaki](https://openalex.org/A5055362390), [Andrea Baccarini](https://openalex.org/A5083781753), [David M. Bell](https://openalex.org/A5049526503), [Barbara Bertozzi](https://openalex.org/A5048802141), [Steffen Bräkling](https://openalex.org/A5069024987), [Sophia Brilke](https://openalex.org/A5045766641), [Lucía Caudillo Murillo](https://openalex.org/A5012867799), [Randall Chiu](https://openalex.org/A5080741963), [Biwu Chu](https://openalex.org/A5010276293), [Louis-Philippe De Menezes](https://openalex.org/A5090000132), [Jonathan Duplissy](https://openalex.org/A5088633919), [Henning Finkenzeller](https://openalex.org/A5081639490), [Loïc Gonzalez Carracedo](https://openalex.org/A5010358835), [Manuel Granzin](https://openalex.org/A5070143068), [R. Guida](https://openalex.org/A5085254586), [Armin Hansel](https://openalex.org/A5089489241), [Victoria Hofbauer](https://openalex.org/A5012274245), [Jordan E. Krechmer](https://openalex.org/A5062687219), [Katrianne Lehtipalo](https://openalex.org/A5019559780), [Houssni Lamkaddam](https://openalex.org/A5014138176), [Markus Lampimäki](https://openalex.org/A5074631406), [Chuan Ping Lee](https://openalex.org/A5060127472), [В. С. Махмутов](https://openalex.org/A5036074857), [Guillaume Marie](https://openalex.org/A5032794723), [Serge Mathot](https://openalex.org/A5012955138), [R. L. Mauldin](https://openalex.org/A5006970537), [Bernhard Mentler](https://openalex.org/A5090590782), [Tatjana Müller](https://openalex.org/A5070690236), [Antti Onnela](https://openalex.org/A5089192083), [Eva Partoll](https://openalex.org/A5073169003), [Tuukka Petäj̈ä](https://openalex.org/A5070326299), [Maxim Philippov](https://openalex.org/A5090585494), [Veronika Pospíšilová](https://openalex.org/A5081146288), [Ananth Ranjithkumar](https://openalex.org/A5024514148), [Matti Rissanen](https://openalex.org/A5073788174), [Birte Rörup](https://openalex.org/A5022780485), [Wiebke Scholz](https://openalex.org/A5076482580), [Jiali Shen](https://openalex.org/A5049005695), [Mario Simon](https://openalex.org/A5086950058), [Mikko Sipilä](https://openalex.org/A5049530714), [Gerhard Steiner](https://openalex.org/A5029921673), [Dominik Stolzenburg](https://openalex.org/A5063223340), [Yee Jun Tham](https://openalex.org/A5058887080), [António Tomé](https://openalex.org/A5021102823), [Andrea C. Wagner](https://openalex.org/A5024532344), [Dongyu Wang](https://openalex.org/A5080825458), [Yonghong Wang](https://openalex.org/A5048060534), [Stefan K. Weber](https://openalex.org/A5041814082), [Paul M. Winkler](https://openalex.org/A5042382547), [Peter Josef Wlasits](https://openalex.org/A5043784176), [Yusheng Wu](https://openalex.org/A5024870970), [Mao Xiao](https://openalex.org/A5085897081), [Qing Ye](https://openalex.org/A5018999020), [Marcel Zauner-Wieczorek](https://openalex.org/A5017388605), [Xueqin Zhou](https://openalex.org/A5012138112), [Rainer Volkamer](https://openalex.org/A5018521569), [Ilona Riipinen](https://openalex.org/A5038776980), [Josef Dommen](https://openalex.org/A5038983887), [Joachim Curtius](https://openalex.org/A5031780924), [Urs Baltensperger](https://openalex.org/A5044025292), [Markku Kulmala](https://openalex.org/A5000471665), [Douglas R. Worsnop](https://openalex.org/A5026978286), [J. Kirkby](https://openalex.org/A5009274507), [John H. Seinfeld](https://openalex.org/A5001370428), [Imad El Haddad](https://openalex.org/A5080319960), [Richard C. Flagan](https://openalex.org/A5012711441), [Neil M. Donahue](https://openalex.org/A5041685684), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020.https://doi.org/10.5281/zenodo.3647653.
+    
+Data presented in the manuscript "Rapid growth of new atmospheric particles by nitric acid and ammonia condensation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration    
+
+    
+
+## Profiling of mature stage human breastmilk cells identifies host-defense lactocyte sub-populations   
+
+OpenAlex: https://openalex.org/W4393499116    
+Open access: True
+    
+[John P. Gleeson](https://openalex.org/A5024668315), [Namit Chaudhary](https://openalex.org/A5073121497), [Rose Doerfler](https://openalex.org/A5050347382), [Katherine C. Fein](https://openalex.org/A5087199847), [Patricia Hredzak-Showalter](https://openalex.org/A5005146715), [Kathryn A. Whitehead](https://openalex.org/A5010666650), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021.https://doi.org/10.5281/zenodo.5784799.
+    
+Breastmilk is chock-full of nutrients, immunological factors, and cells that aid infant development. Maternal cells are the least studied breastmilk component, and their unique properties are difficult to identify using traditional techniques. Here, we characterized the cells in mature stage breastmilk from healthy donors at the protein, gene, and transcriptome levels. Holistic analysis of flow cytometry, qPCR, and single cell RNA sequencing data identified the predominant cell population as epithelial with smaller populations of macrophages and T cells. Two percent of epithelial cells expressed four stem cell markers: SOX2, TRA-1-60, NANOG, and SSEA4. Furthermore, milk contained six distinct epithelial lactocyte sub-populations, including three previously unidentified sub-populations programmed towards host-defense and intestinal development. Pseudotime analysis delineated the differentiation pathways of epithelial progenitors. Together, these data define healthy human maternal breastmilk cells and provide a basis for their application in maternal and infant medicine.    
+
+    
+
+## Profiling of mature stage human breastmilk cells identifies host-defense lactocyte sub-populations   
+
+OpenAlex: https://openalex.org/W4393601295    
+Open access: True
+    
+[John P. Gleeson](https://openalex.org/A5024668315), [Namit Chaudhary](https://openalex.org/A5073121497), [Rose Doerfler](https://openalex.org/A5050347382), [Katherine C. Fein](https://openalex.org/A5087199847), [Patricia Hredzak-Showalter](https://openalex.org/A5005146715), [Kathryn A. Whitehead](https://openalex.org/A5010666650), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021.https://doi.org/10.5281/zenodo.5784798.
+    
+Breastmilk is chock-full of nutrients, immunological factors, and cells that aid infant development. Maternal cells are the least studied breastmilk component, and their unique properties are difficult to identify using traditional techniques. Here, we characterized the cells in mature stage breastmilk from healthy donors at the protein, gene, and transcriptome levels. Holistic analysis of flow cytometry, qPCR, and single cell RNA sequencing data identified the predominant cell population as epithelial with smaller populations of macrophages and T cells. Two percent of epithelial cells expressed four stem cell markers: SOX2, TRA-1-60, NANOG, and SSEA4. Furthermore, milk contained six distinct epithelial lactocyte sub-populations, including three previously unidentified sub-populations programmed towards host-defense and intestinal development. Pseudotime analysis delineated the differentiation pathways of epithelial progenitors. Together, these data define healthy human maternal breastmilk cells and provide a basis for their application in maternal and infant medicine.    
 
     

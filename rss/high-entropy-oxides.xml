@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:46:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Leijiang Zhang, Na Wang, Fengyuan Wang, Ping Xu, Xijiang Han, Yunchen Du</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150826</guid>
-    </item>
-    <item>
-      <title>Synthesis of High Entropy Alloy Nanoparticles by Pulsed Laser Ablation in Liquids: Influence of Target Preparation on Stoichiometry and Productivity</title>
-      <link>https://doi.org/10.1002/cnma.202400064</link>
-      <description>Shabbir Tahir, &#1053;. &#1060;. &#1064;&#1082;&#1086;&#1076;&#1080;&#1095;, Benedikt Eggert, Johanna Lill, Oleksandr Gatsa, Miroslava Flimelov&#225;, Esmaeil Adabifiroozjaei, Nadezhda M. Bulgakova, Leopoldo Molina&#8208;Luna, Heiko Wende, Michael Farle, Alexander V. Bulgakov, Carlos Do&#241;ate&#8208;Buend&#237;a, Bilal G&#246;kce, ChemNanoMat (Weinheim). None(None)] 2024. https://openalex.org/W4393191692
-
-                Abstract High entropy alloys (HEAs) have a wide range of applications across various fields, including structural engineering, biomedical science, catalysis, magnetism, and nuclear technology. Nanoscale HEA particles show promising catalytic properties. Nevertheless, attaining versatile composition control in nanoparticles poses a persistent challenge. This study proposes the use of pulsed laser ablation in liquids (PLAL) for synthesizing nanoparticles using equiatomic CoCrFeMnNi targets with varied preparation methods. We evaluate the impact of target preparation method on nanoparticle yield and composition as well as the magnetic properties of the nanoparticles. The elemental powder&#8208;pressed heat&#8208;treated target (HEA&#8208;PP), identified as the most time&#8208;efficient and cost&#8208;effective, exhibits noticeable segregation and non&#8208;uniform elemental distribution compared to ball milled hot&#8208;pressed powder (HEA&#8208;BP) and face&#8208;centered cubic (FCC) single crystal (HEA&#8208;SX) alloy targets. From all targets, nanoparticles (sizes from 2 to 120 nm) can be produced in ethanol with a nearly equiatomic CoCrFeMnNi composition and a FCC structure, showing oxidation of up to 20 at.%. Nanoparticles from HEA&#8208;PP exist in a solid solution state, while those from HEA&#8208;BP and HEA&#8208;SX form core&#8208;shell structures with a Mn shell due to inhomogeneous material expulsion, confirmed by mass spectrometry. HEA&#8208;PP PLAL synthesis demonstrates 6.8 % and 15.1 % higher productivity compared to HEA&#8208;BP and HEA&#8208;SX, establishing PLAL of elemental powder&#8208;pressed targets as a reliable, time&#8208;efficient, and cost&#8208;effective method for generating solid solution HEA nanoparticles.</description>
-      <author>Shabbir Tahir, &#1053;. &#1060;. &#1064;&#1082;&#1086;&#1076;&#1080;&#1095;, Benedikt Eggert, Johanna Lill, Oleksandr Gatsa, Miroslava Flimelov&#225;, Esmaeil Adabifiroozjaei, Nadezhda M. Bulgakova, Leopoldo Molina&#8208;Luna, Heiko Wende, Michael Farle, Alexander V. Bulgakov, Carlos Do&#241;ate&#8208;Buend&#237;a, Bilal G&#246;kce</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cnma.202400064</guid>
     </item>
   </channel>
 </rss>

@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:46:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Insight into the Role of TiO&lt;sub&gt;2&lt;/sub&gt; Facets in Photocatalytic Selective Oxidation of &lt;i&gt;p&lt;/i&gt;-Xylene</title>
-      <link>https://doi.org/10.1021/acscatal.4c00543</link>
-      <description>Xiaowen Sun, Zhendong Feng, Shengyang Wang, Qing&#8208;Nan Wang, Pengfei Zhang, Rengui Li, Can Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4393190652
-
-                The crystal facets of semiconductors often have critical effects on photocatalytic reactions. The spatial charge separation between different facets in TiO2 reveals a preferential accumulation of photogenerated holes on the {001} facet; thereby, the activation of the C&#8211;H bond predominantly occurs on the {001} facet. However, the dissociative adsorption of initially generated p-methylbenzyl alcohol (p-MBY) forms alcoholate species, which impedes the interaction between p-xylene and the {001} facet, and thus blocks the photocatalytic reaction of p-xylene oxidation on {001}-72%. On the other hand, H3PO4 predominantly adsorbs on the {001} facet, with an adsorption energy higher than p-MBY (&#8722;5.15 vs &#8722;3.90 eV). Therefore, adding H3PO4 can prevent the dissociative adsorption of p-MBY on the {001} facet. The addition of H3PO4 also significantly improves the injection efficiency of photogenerated holes into p-xylene and suppresses the generation of &#183;O22&#8211;, thereby enhancing the conversion and selectivity. Consequently, the addition of H3PO4 obtains a selectivity as high as 94.8% to the primary products at 15.2% conversion on {001}-72%. The results demonstrate that facet engineering for a semiconductor-based photocatalyst can regulate the charge separation, charge injection, and adsorption behavior of intermediates, which is an effective strategy to accomplish high performance of photocatalytic reactions.</description>
-      <author>Xiaowen Sun, Zhendong Feng, Shengyang Wang, Qing&#8208;Nan Wang, Pengfei Zhang, Rengui Li, Can Li</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00543</guid>
-    </item>
-    <item>
-      <title>Electro-Reforming of PET Plastic to C&lt;sub&gt;2&lt;/sub&gt; Chemicals with Concurrent Generation of Hydrogen and Electric Energy</title>
-      <link>https://doi.org/10.1021/acscatal.4c00370</link>
-      <description>Xuan Liu, Xiaoyang He, Dengke Xiong, Guiying Wang, Zhentao Tu, Deli Wu, Jianying Wang, Jing Gu, Zuofeng Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4393191169
-
-                No abstract</description>
-      <author>Xuan Liu, Xiaoyang He, Dengke Xiong, Guiying Wang, Zhentao Tu, Deli Wu, Jianying Wang, Jing Gu, Zuofeng Chen</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00370</guid>
-    </item>
-    <item>
-      <title>Twin S-Scheme g-C&lt;sub&gt;3&lt;/sub&gt;N&lt;sub&gt;4&lt;/sub&gt;/CuFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt;/ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Heterojunction with a Self-Supporting Three-Phase System for Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction: Mechanism Insight and DFT Calculations</title>
-      <link>https://doi.org/10.1021/acscatal.4c00409</link>
-      <description>Dongdong Liu, Lipeng Jiang, Dengqian Chen, Zhengkai Hao, Bowen Deng, Yueming Sun, Xin Liu, Boyin Jia, Limei Chen, Huitao Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4393192122
-
-                The use of photocatalytic solar energy to drive CO2 reduction is beneficial for addressing fossil fuel shortages and environmental pollution issues. We synthesized a twin S-scheme g-C3N4/CuFe2O4/ZnIn2S4 heterojunction, which was used to construct a self-supporting three-phase system for photocatalytic CO2 reduction. Two built-in electric fields in this heterojunction induced effective migration of photogenerated carriers, resulting in a wide light response range and strong oxidation ability. This twin S-scheme photocatalytic system without a sacrificial agent had high CH4 selectivity (96.8%) and surprise production rate of CH4 (267.4 &#956;mol g&#8211;1 h&#8211;1), and still maintained an excellent cycle rate (249&#8211;267.4 &#956;mol g&#8211;1 h&#8211;1) during five cycles. In addition, g-C3N4/CuFe2O4/ZnIn2S4 heterojunction possessed both hydrophilicity and hydrophobicity, which achieved an efficient transformation of CO2 into CH4 by controlling interface wettability. g-C3N4 as a hydrophobic layer promoted CO2 mass transfer to achieve the enrichment of CO2 on the heterojunction surface; ZnIn2S4 as a hydrophilic layer could well adsorb H2O, which was further oxidized by the photogenerated holes into many protons (H+). Finally, DFT calculations found that Fe&#8211;N bonds located between g-C3N4 and CuFe2O4 played a crucial role during the photocatalytic CO2 reduction. They served as a bridge for electron transfer to induce the bending adsorption of CO2, which enhanced the adsorption of *CO and stabilization of *H.</description>
-      <author>Dongdong Liu, Lipeng Jiang, Dengqian Chen, Zhengkai Hao, Bowen Deng, Yueming Sun, Xin Liu, Boyin Jia, Limei Chen, Huitao Liu</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00409</guid>
-    </item>
-    <item>
-      <title>Pd-Catalyzed Asymmetric Aza-Heck Cyclization/Sonogashira Reaction of Alkene-Tethered Oxime Esters and Alkynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00871</link>
-      <description>Kangning Cao, Jie Han, H. F. Shen, Junfeng Yang, Junliang Zhang, Fen&#8208;Er Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4393193506
-
-                No abstract</description>
-      <author>Kangning Cao, Jie Han, H. F. Shen, Junfeng Yang, Junliang Zhang, Fen&#8208;Er Chen</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00871</guid>
-    </item>
-    <item>
-      <title>Solar Oxidative Hydrogen Peroxide Production: Is the Oxygen Vacancy Always a Promoter in Solar Water Oxidation?</title>
-      <link>https://doi.org/10.1021/acscatal.3c05764</link>
-      <description>Songying Qu, Hao Wu, Yun Hau Ng, ACS catalysis. None(None)] 2024. https://openalex.org/W4393199759
-
-                Photoelectrochemical (PEC) water oxidation to hydrogen peroxide (H2O2) is an alternative route to the conventional anthraquinone process, but it is still restricted by the prevailing competitive oxygen evolution reaction (OER). Here, we reveal that intrinsic oxygen vacancies (OVs) of BiVO4 photoanodes are detrimental to PEC water oxidation to H2O2. The superabundant OVs of the BiVO4 photoanode are passivated by a thermal treatment in a pressurized O2 atmosphere by a Parr reactor. The passivated BiVO4 photoanode with the least OV concentration achieves ca. two times H2O2 selectivity enhancement than the BiVO4 photoanode with introduced OVs, resulting from the weakened band bending, the positively shifted quasi-Fermi level, and the suppressed decomposition of as-formed H2O2. In particular, the photoexcited electrochemical impedance spectra demonstrate a hole distribution rearrangement of the OVs-passivated BiVO4, which eliminates the OER-related surface states and steers the water oxidation reaction pathway toward H2O2 formation. This work reveals the importance of interfacial energetics induced by regulating intrinsic OVs in selective PEC water oxidation.</description>
-      <author>Songying Qu, Hao Wu, Yun Hau Ng</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05764</guid>
-    </item>
-    <item>
-      <title>High Performance Polyoxometalate-Stabilizing Pt Nanocatalysts for Quinoline Hydrogenation with Water-Mediated Dynamic Hydrogen</title>
-      <link>https://doi.org/10.1021/acscatal.4c00265</link>
-      <description>Xinjia Wei, Yongjun Jiang, Yue Ma, Huiying Liao, Sheng Dai, Pengfei An, Zhiqiang Wang, Xue&#8208;Qing Gong, Zhenshan Hou, ACS catalysis. None(None)] 2024. https://openalex.org/W4393200350
-
-                In this work, a Keggin-type platinum substituted polyoxometalate (POM) is constructed by the reaction of monolacunary phosphotungstate precursor [PW11O39]7&#8211; with chloroplatinic acid. The as-obtained tetrabutylammonium salt (TBA-PWPt) demonstrates that the dimeric Pt2+ ions are incorporated into POM frameworks and linked by two monolacunary POM anions. Notably, once the Pt-substituted Keggin-type POM anion is reduced by H2, the POM anion-stabilizing Pt nanocatalysts are generated, which greatly facilitates forming oxygen vacancies adjacent to Pt0 species. The Pt nanocatalysts show superior catalytic activity and stability for the selective hydrogenation of quinoline into 1,2,3,4-tetrahydroquinoline in water. Detailed investigations elucidate that the stronger adsorption of quinoline on the Pt surface and the H2 is activated by the adsorption at the POMs-Pt interface site. Moreover, density functional theory (DFT) calculations show that H2O is adsorbed at the interfacial oxygen vacancies and then undergoes homolytic dissociation to produce hydroxyl group (OH&#8211;) and hydride (H&#8211;) species. The H&#8211; species are transferred to the N-containing pyridine ring in quinoline hydrogenation, and the OH&#8211; species adsorbed on oxygen vacancies help to promote the H2 heterolytic dissociation to produce H+ and H&#8211; species. Sequentially, the produced proton and hydroxyl groups generate H2O, and the reaction cycle is completed.</description>
-      <author>Xinjia Wei, Yongjun Jiang, Yue Ma, Huiying Liao, Sheng Dai, Pengfei An, Zhiqiang Wang, Xue&#8208;Qing Gong, Zhenshan Hou</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00265</guid>
-    </item>
-    <item>
-      <title>Cu Promoted the Dynamic Evolution of Ni-Based Catalysts for Polyethylene Terephthalate Plastic Upcycling</title>
-      <link>https://doi.org/10.1021/acscatal.3c05509</link>
-      <description>Hongxing Kang, Danyang He, Xingxu Yan, Benjamin Dao, Nicholas Williams, George C. Elliott, Daniel Streater, James Nyakuchena, Jier Huang, Xiaoqing Pan, Xiangheng Xiao, Jing Gu, ACS catalysis. None(None)] 2024. https://openalex.org/W4393200376
-
-                Upcycling plastic wastes into value-added chemicals is a promising approach to put end-of-life plastic wastes back into their ecocycle. As one of the polyesters that is used daily, polyethylene terephthalate (PET) plastic waste is employed here as the model substrate. Herein, a nickel (Ni)-based catalyst was prepared via electrochemically depositing copper (Cu) species on Ni foam (NiCu/NF). The NiCu/NF formed Cu/CuO and Ni/NiO/Ni(OH)2 core&#8211;shell structures before electrolysis and reconstructed into NiOOH and CuOOH/Cu(OH)2 active species during the ethylene glycol (EG) oxidation. After oxidation, the Cu and Ni species evolved into more reduced species. An indirect mechanism was identified as the main EG oxidation (EGOR) mechanism. In EGOR, NiCu60s/NF catalyst exhibited an optimal Faradaic efficiency (FE, 95.8%) and yield rate (0.70 mmol cm&#8211;2 h&#8211;1) for formate production. Also, over 80% FE of formate was achieved when a commercial PET plastic powder hydrolysate was applied. Furthermore, commercial PET plastic water bottle waste was employed as a substrate for electrocatalytic upcycling, and pure terephthalic acid (TPA) was recovered only after 1 h electrolysis. Lastly, density functional theory (DFT) calculation revealed that the key role of Cu was significantly reducing the Gibbs free-energy barrier (&#916;G) of EGOR's rate-determining step (RDS), promoting catalysts' dynamic evolution, and facilitating the C&#8211;C bond cleavage.</description>
-      <author>Hongxing Kang, Danyang He, Xingxu Yan, Benjamin Dao, Nicholas Williams, George C. Elliott, Daniel Streater, James Nyakuchena, Jier Huang, Xiaoqing Pan, Xiangheng Xiao, Jing Gu</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05509</guid>
-    </item>
-    <item>
-      <title>Prediction of O and OH Adsorption on Transition Metal Oxide Surfaces from Bulk Descriptors</title>
-      <link>https://doi.org/10.1021/acscatal.4c00111</link>
-      <description>Benjamin M. Comer, Neha Bothra, Jaclyn R. Lunger, Frank Abild&#8208;Pedersen, Michal Bajdich, Kirsten T. Winther, ACS catalysis. None(None)] 2024. https://openalex.org/W4393200658
-
-                In the search for stable and active catalysts, density functional theory and machine learning-based models can accelerate the screening of materials. While stability is conveniently addressed on the bulk level of computation, the modeling of catalytic activity requires expensive surface simulations. In this work, we develop models for the surface adsorption energy of O and OH intermediates across a consistent and extensive data set of pure transition metal oxide surfaces. We show that adsorption energies across metal oxidation states of +2 to +6 are well captured from the metal&#8211;oxygen bond strength extracted from the bulk level calculation. Specifically, we calculate the integrated crystal orbital Hamiltonian population (ICOHP) of the metal&#8211;oxygen bond in the bulk oxide and employ a simple normalization scheme to obtain a strong correlation with the adsorption energetics. By combining our ICOHP descriptor with non-DFT features in a Gaussian Process regression (GPR) model, we achieve a high model accuracy with mean absolute errors of 0.166 and 0.219 eV for OH and O adsorption, respectively. By targeting the adsorption energy difference of the OH&#8211;OH adsorption with our GPR model, we predict the oxygen evolution reaction activity from bulk descriptors only. Furthermore, we utilize the strong correlation between the COHP and metal&#8211;oxygen bond lengths to rapidly predict the adsorption energetics and catalytic activity from the optimized bulk geometry. Our approach can enable an efficient search for active catalysts by eliminating the need for surface calculations in the initial screening phase.</description>
-      <author>Benjamin M. Comer, Neha Bothra, Jaclyn R. Lunger, Frank Abild&#8208;Pedersen, Michal Bajdich, Kirsten T. Winther</author>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00111</guid>
-    </item>
-    <item>
-      <title>Precise Modulation of Conjugative Structure and Porosity in Covalent Organic Frameworks for Transition Metal Free Visible-Light Catalysis of Trifluoromethylation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00066</link>
-      <description>Fei Xue, Jun Zhang, Zhonggang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393201549
-
-                The precise modulation of conjugative structure and porosity parameters in photoactive covalent organic frameworks (COFs) remains challenging yet attractive in the photocatalytic field. This work presents three porous donor&#8211;acceptor COFs constructed from phenothiazines and triazines. Their photocatalytic performance and mechanism of trifluoromethylation for oxindoles and heteroaromatic compounds are studied. High trifluoromethylation conversions up to 95% are achieved under visible light (430 nm) at room temperature in the absence of any transition metal. Of interest is the observation that the photocatalytic efficiencies are remarkably improved by the modulation of &#960;-conjugation length and position of the imine spacer between the donor&#8211;acceptor units. The reason is explained by virtue of the different light harvesting, separation capability of photogenerated electrons and holes, charge transport, and pore size in the three COFs, as reflected in their variations of fluorescence lifetimes, current intensities, distances, and impedances of charge transfer. The revealed results are helpful for an in-depth understanding of the effects of conjugative donor&#8211;acceptor structure and pore size on the photocatalytic activity of COFs. Moreover, the created catalysts show promising application in transition metal-free trifluoromethylation of heterocyclic pharmaceuticals.</description>
-      <author>Fei Xue, Jun Zhang, Zhonggang Wang</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00066</guid>
-    </item>
     <item>
       <title>Keep the Ligands: Potential Benefits for Fuel Cell Performance</title>
       <link>https://doi.org/10.1021/acscatal.3c06298</link>
@@ -106,16 +16,6 @@
       <author>Andr&#233;s Molina Villarino, Jonathan L. Rowell, Dasol Yoon, Li Xiao, Yunyi Jia, Zixiao Shi, Joesene Soto, Julia Koldobskiy, David A. Muller, Richard D. Robinson, H&#233;ctor D. Abru&#241;a</author>
       <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06298</guid>
-    </item>
-    <item>
-      <title>Thermodynamic Equilibrium versus Kinetic Trapping: Thermalization of Cluster Catalyst Ensembles Can Extend Beyond Reaction Time Scales</title>
-      <link>https://doi.org/10.1021/acscatal.3c06154</link>
-      <description>Patricia Poths, Santiago Vargas, Philippe Sautet, Anastassia N. Alexandrova, ACS catalysis. None(None)] 2024. https://openalex.org/W4393224125
-
-                No abstract</description>
-      <author>Patricia Poths, Santiago Vargas, Philippe Sautet, Anastassia N. Alexandrova</author>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06154</guid>
     </item>
     <item>
       <title>Polystyrene Hydrogenolysis to High-Quality Lubricants Using Ni/SiO&lt;sub&gt;2&lt;/sub&gt;</title>
@@ -256,6 +156,106 @@
       <author>Douglas J. Fansher, Jonathan N. Besna, Ali Fendri, Joelle N. Pelletier</author>
       <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00086</guid>
+    </item>
+    <item>
+      <title>Harnessing the Synergistic Power of Ce&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; S-Scheme Heterojunctions for Profound C&#8211;O Bond Cleavage in Lignin Model Compounds</title>
+      <link>https://doi.org/10.1021/acscatal.4c00297</link>
+      <description>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan, ACS catalysis. None(None)] 2024. https://openalex.org/W4393316547
+
+                In the context of achieving carbon neutrality, converting lignin-derived molecules into high-value products through photocatalytic technology provides an environmentally friendly pathway. Establishing energy-efficient processes for converting lignin derivatives requires the construction of highly active and selective photocatalysts. However, enhancing the efficiency and selectivity of photocatalysts for lignin degradation poses an ongoing challenge due to discrepancies in the redox potential and the rapid recombination of photogenerated carriers. To address these significant obstacles, we devised an innovative strategy by developing a Ce2S3 nanoparticle-anchored TiO2 nanorod (Ce2S3/TiO2). This advanced photocatalyst with the S-scheme heterojunction, enabling simultaneous control of carrier dynamics and band structure, was used to study the photocatalytic degradation of the lignin model compound 2-phenoxy-1-acetophenone. Moreover, the photocatalyst can cleave the C&#946;-O-4 bond selectively to convert the lignin model compound 2-phenoxy-1-acetophenone into phenol and acetophenone under visible-light irradiation. The yields are up to 94 and 80%, respectively, and 94 or 1.4 times greater than those obtained by pure TiO2 or Ce2S3 individually. In addition, our study for the increased activity in Ce2S3/TiO2 based on density functional theory calculations emphasizes the pivotal role of the S-scheme heterojunction generated between Ce2S3 and TiO2. This heterojunction significantly enhances carrier separation efficiency, thereby augmenting the efficacy of the photocatalytic process. The findings furnish valuable insights for developing advanced photocatalytic systems tailored to the efficient depolymerization of C&#946;-O-4 bonds in lignin.</description>
+      <author>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00297</guid>
+    </item>
+    <item>
+      <title>General, Modular Access toward Immobilized Chiral Phosphoric Acid Catalysts and Their Application in Flow Chemistry</title>
+      <link>https://doi.org/10.1021/acscatal.4c00985</link>
+      <description>Michael Laue, Maximilian Schneider, Markus G. Gebauer, Winfried B&#246;hlmann, Roger Gl&#228;ser, Christoph Schneider, ACS catalysis. None(None)] 2024. https://openalex.org/W4393316637
+
+                Chiral phosphoric acids (CPAs) are among the most frequently used organocatalysts, with an ever-increasing number of applications. However, these catalysts are only obtained in a multistep synthesis and are poorly recyclable, which significantly deteriorates their environmental and economic performance. We herein report a conceptually different, general strategy for the direct immobilization of CPAs on a broad scope of solid supports including silica, polystyrene, and aluminum oxide. Solid-state catalysts were obtained in high yields and thoroughly characterized with elemental analysis by inductively coupled plasma-optical emission spectrometry (ICP-OES), nitrogen sorption measurements, thermogravimetric analysis, scanning transmission electron microscopy/energy-dispersive X-ray spectroscopy (STEM/EDX) images, and solid-state NMR spectroscopy. Further, the immobilized catalysts were applied to a variety of synthetically valuable, highly stereoselective transformations under batch and flow conditions including transfer hydrogenations, a Friedl&#228;nder condensation/transfer hydrogenation sequence, and Mannich reactions under cryogenic flow conditions. Generally, high yields and stereoselectivities were observed along with robust catalyst stability and reusability. After being used for 10 runs under batch conditions, no loss of selectivity or catalytic activity was observed. Under continuous-flow conditions, the heterogeneous system was in operation for 19 h and the high enantioselectivity remained unchanged throughout the entire process. We expect our approach to extend the applicability of CPAs to a higher level, with a focus on flow chemistry and a more environmentally friendly and resource-efficient use of these powerful catalysts.</description>
+      <author>Michael Laue, Maximilian Schneider, Markus G. Gebauer, Winfried B&#246;hlmann, Roger Gl&#228;ser, Christoph Schneider</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00985</guid>
+    </item>
+    <item>
+      <title>Modeling Complex Ligands for High Oxidation State Catalysis: Titanium Hydroamination with Unsymmetrical Ligands</title>
+      <link>https://doi.org/10.1021/acscatal.3c05658</link>
+      <description>Zhilin Hou, Rashmi Jena, Tanner J. McDaniel, Brennan S. Billow, Seokjoo Lee, Hannah I. Barr, Aaron L. Odom, ACS catalysis. None(None)] 2024. https://openalex.org/W4393316892
+
+                A method for modeling high oxidation state catalysts is used on precatalysts with unsymmetrical and symmetrical bidentate ligands to get a more detailed understanding of how changes to ancillary ligands affect the hydroamination of alkynes catalyzed by titanium. To model the electronic donor ability, the ligand donor parameter (LDP) was used, and to model the steric effects, percent buried volume (% Vbur) was employed. For the modeling study, 7 previously unpublished unsymmetrical Ti(XX&#8242;)(NMe2)2 precatalysts were prepared, where XX&#8242; is a chelating ligand with pyrrolyl/indolyl linkages. The rates of these unsymmetrical and 10 previously reported symmetrical precatalysts were used with the model kobs = a + b(LDP)1 + c(LDP)2 + d(% Vbur)1 + e(% Vbur)2, where a&#8211;e were found through least-squares refinement. The model suggests that (1) the two attachment points of the bidentate ligand XX&#8242; are in different environments on the metal (e.g., axial and equatorial in a trigonal bipyramidal or square pyramidal structure), (2) the position of the unsymmetrical ligand on the metal is determined by the electronics of the ligand rather than the sterics, and (3) that one side of the chelating ligand's electronics strongly influences the rate, while the other side's sterics more strongly influences the rate. From these studies, we were able to generate catalysts fitting to this model with rate constants larger than the fastest symmetrical catalyst tested.</description>
+      <author>Zhilin Hou, Rashmi Jena, Tanner J. McDaniel, Brennan S. Billow, Seokjoo Lee, Hannah I. Barr, Aaron L. Odom</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05658</guid>
+    </item>
+    <item>
+      <title>Benzylic C(sp3)&#8211;H Functionalization via Copper-Catalyzed [3+3] Radical Cycloaddition</title>
+      <link>https://doi.org/10.1021/acscatal.4c00637</link>
+      <description>Junsheng Shi, Xiong-Jiang Li, Shu-Yun Jiang, Wei Wu, Hai Ren, ACS catalysis. None(None)] 2024. https://openalex.org/W4393317410
+
+                The development of benzylic C(sp3)&#8211;H functionalization methods for the assembly of benzylic derivatives has been extensively explored in recent years. However, the engagement of benzylic carbon and its adjacent C=C bond as a C3 synthon in the cycloaddition reaction via direct benzylic C&#8211;H activation is rare. Herein, we report a copper-catalyzed [3+3] radical cycloaddition reaction through benzylic C&#8211;H bond functionalization to construct six-membered cyclohexane-type rings. In this reaction, the 2-benzylic C&#8211;H bond of an indole is selectively activated and the indole serves as a C3 synthon that reacts through highly chemoselective intermolecular self-[3+3] and cross-[3+3] cycloaddition pathways. Multiple symmetric and nonsymmetric polycyclic hexahydrocarbazole scaffolds with hexacyclic 6/5/5/6/5/5/6 and pentacyclic 6/5/5/6/5/6 ring systems are synthesized with high efficiency and chemoselectivity using this strategy. Inspired by the unique radical addition pathway of cross-[3+3] cycloaddition, a highly controllable benzylic C&#8211;H functionalization for the construction of C3a-alkylated pyrroloindolines was also developed.</description>
+      <author>Junsheng Shi, Xiong-Jiang Li, Shu-Yun Jiang, Wei Wu, Hai Ren</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00637</guid>
+    </item>
+    <item>
+      <title>Rare-Earth-Catalyzed Regiodivergent Hydrosilylation of Aryl Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.3c05747</link>
+      <description>Wufeng Chen, N. Zhang, Zhengqi Chai, Junnian Wei, Gen Luo, Wen&#8208;Xiong Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393317760
+
+                While transition-metal catalysts have shown the ability to regulate the Markovnikov or anti-Markovnikov regioselective hydrosilylation of aryl alkenes, the selective control of anti-Markovnikov hydrosilylation of aryl alkenes is still a huge challenge in rare-earth catalyst systems. In this study, we report the rare-earth-catalyzed regiodivergent hydrosilylation of aryl alkenes. Specifically, we achieved the highly regioselective anti-Markovnikov hydrosilylation of aryl alkenes with a scandium alkyl complex Cp*AmtBuScCH2SiMe3 (Cp* = pentamethylcyclopentadienyl, AmtBu = tBuNC(Me)NtBu, tBu = t-butyl) as a catalyst. Two key intermediates, e.g., the scandium hydride and scandium phenethyl complex for anti-Markovnikov hydrosilylation, were characterized. Guided by density functional theory (DFT) calculations, we successfully achieved the selective inversion of aryl alkenes in Markovnikov hydrosilylation using a neodymium halide complex [Cp*AmiPrNdCl]2 (AmiPr = iPrNC(Me)NiPr, iPr = isopropyl) with the larger ion radius and reduced steric hindrance in conjunction with LiCH2SiMe3. Interestingly, our study has demonstrated the significant influence of gradually increasing rare-earth ion radii on controlling the increasing Markovnikov selectivity of hydrosilylation reactions, possibly due to the enlargement of the coordination space around rare-earth metal ions. Furthermore, through a comparison of computational and experimental data, we have observed a high level of consistency, reaffirming the potential of using calculations to predict experimental outcomes and providing researchers with valuable insights.</description>
+      <author>Wufeng Chen, N. Zhang, Zhengqi Chai, Junnian Wei, Gen Luo, Wen&#8208;Xiong Zhang</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05747</guid>
+    </item>
+    <item>
+      <title>Regulation of Catalyst Immediate Environment Enables Acidic Electrochemical Benzyl Alcohol Oxidation to Benzaldehyde</title>
+      <link>https://doi.org/10.1021/acscatal.4c00476</link>
+      <description>G. Shiva Shanker, Arnab Ghatak, Shahar Binyamin, Rotem Balilty, Ran Shimoni, Itamar Liberman, Idan Hod, ACS catalysis. None(None)] 2024. https://openalex.org/W4393319141
+
+                Electrocatalytic alcohol oxidation in acid offers a promising alternative to the kinetically sluggish water oxidation reaction toward low-energy H2 generation. However, electrocatalysts driving active and selective acidic alcohol electrochemical transformation are still scarce. In this work, we demonstrate efficient alcohol-to-aldehyde conversion achieved by reticular chemistry-based modification of the catalyst's immediate environment. Specifically, coating a Bi-based electrocatalyst with a thin layer of metal&#8211;organic framework (MOF) substantially improves its performance toward benzyl alcohol electro-oxidation to benzaldehyde in a 0.1 M H2SO4 electrolyte. Detailed analysis reveals that the MOF adlayer influences catalysis by increasing the reactivity of surface hydroxides as well as weakening the catalyst-benzaldehyde binding strength. In turn, low-potential (0.65 V) cathodic H2 evolution was obtained through coupling it with anodic benzyl alcohol electro-oxidation. Consequently, the presented approach could be implemented in a wide range of electrocatalytic oxidation reactions for energy-conversion application.</description>
+      <author>G. Shiva Shanker, Arnab Ghatak, Shahar Binyamin, Rotem Balilty, Ran Shimoni, Itamar Liberman, Idan Hod</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00476</guid>
+    </item>
+    <item>
+      <title>Enlarging the Three-Phase Boundary to Raise CO&lt;sub&gt;2&lt;/sub&gt;/CH&lt;sub&gt;4&lt;/sub&gt; Conversions on Exsolved Ni&#8211;Fe Alloy Perovskite Catalysts by Minimal Rh Doping</title>
+      <link>https://doi.org/10.1021/acscatal.4c00151</link>
+      <description>Xueli Yao, Qingpeng Cheng, Xueqin Bai, Bambar Davaasuren, Georgian Melinte, Natalia Morlan&#233;s, Jos&#233; Luis Cerrillo, Vijay Kumar Velisoju, Hend Omar Mohamed, Pewee Datoo Kolubah, Lirong Zheng, Yu Han, Osman M. Bakr, Jorge Gasc&#243;n, Pedro Casta&#241;o, ACS catalysis. None(None)] 2024. https://openalex.org/W4393319453
+
+                Exsolved Ni&#8211;Fe alloy perovskite catalysts exhibit remarkable coking resistance during C&#8211;H and C&#8211;O activation. However, metallic utilization is typically incomplete, resulting in relatively low catalytic activity. Herein, we investigated minimal doping with Rh to boost the catalytic activity in the dry reforming of methane by promoting exsolution and enlargement of the three-phase boundary between the alloy, support, and reactants. The Rh influences the formation of the Ni&#8211;Fe alloy, as revealed by X-ray diffraction, and promotes the individual and collective CH4 and CO2 conversions, as revealed by packed bed reactor runs, temperature-programmed surface reactions, and in situ infrared spectroscopy. A minimal 0.21 wt % Rh addition enlarges the three-phase boundary while improving oxygen mobility and storage. The oxygen mobility is responsible for promoting CH4 dissociation and dynamic removal of carbon-containing intermediates, such that the catalyst remains stable for over 100 h under both 1 and 14 bar.</description>
+      <author>Xueli Yao, Qingpeng Cheng, Xueqin Bai, Bambar Davaasuren, Georgian Melinte, Natalia Morlan&#233;s, Jos&#233; Luis Cerrillo, Vijay Kumar Velisoju, Hend Omar Mohamed, Pewee Datoo Kolubah, Lirong Zheng, Yu Han, Osman M. Bakr, Jorge Gasc&#243;n, Pedro Casta&#241;o</author>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00151</guid>
+    </item>
+    <item>
+      <title>Tuning Strong Metal&#8211;Support Interactions via Synergistic Alloying</title>
+      <link>https://doi.org/10.1021/acscatal.3c06171</link>
+      <description>Yunlong Wang, Xiaobo Chen, Chaoran Li, Yaguang Zhu, Jing Li, Shiyao Shan, Adrian Hunt, Iradwikanari Waluyo, J. Anibal Boscoboinik, Chuan&#8208;Jian Zhong, Guangwen Zhou, ACS catalysis. None(None)] 2024. https://openalex.org/W4393345356
+
+                The encapsulation phenomenon associated with a strong metal&#8211;support interactions (SMSI) has been largely restricted to catalyst systems consisting of group VIII metals with high surface energy and reducible transition metal oxide supports with low surface energy. Here, we demonstrate an encapsulation phenomenon that, while sharing morphological similarities with conventional SMSI, follows a distinctive pathway. This is shown by the encapsulation of CuAu nanoparticles (NPs) supported on a highly ordered pyrolytic graphite (HOPG). Through dynamic monitoring of Cu, Au, and Cu50Au50 NPs in an oxidizing atmosphere using ambient-pressure X-ray photoelectron spectroscopy, we show that this spontaneous encapsulation is achieved through the synergistic effect of the alloying elements. Specifically, the surface segregation of Cu promotes dissociative O2 adsorption, leading to the formation of atomic O species, while the subsurface enrichment of Au hinders O incorporation of oxygen into the bulk of CuAu NPs. Consequently, O spillover onto the graphite support occurs, resulting in the oxidation of the HOPG surface into graphitic oxide species. The higher affinity of the graphitic oxide species toward the Cu-segregated surface prompts their migration from the HOPG support to encapsulate the CuAu NPs. These results transcend the conventional SMSI and bear practical implications for the design and development of heterogeneous catalysts, particularly in carbon-supported alloy systems.</description>
+      <author>Yunlong Wang, Xiaobo Chen, Chaoran Li, Yaguang Zhu, Jing Li, Shiyao Shan, Adrian Hunt, Iradwikanari Waluyo, J. Anibal Boscoboinik, Chuan&#8208;Jian Zhong, Guangwen Zhou</author>
+      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06171</guid>
+    </item>
+    <item>
+      <title>Thermodynamic Equilibrium versus Kinetic Trapping: Thermalization of Cluster Catalyst Ensembles Can Extend Beyond Reaction Time Scales</title>
+      <link>https://doi.org/10.1021/acscatal.3c06154</link>
+      <description>Patricia Poths, Santiago Vargas, Philippe Sautet, Anastassia N. Alexandrova, ACS catalysis. None(None)] 2024. https://openalex.org/W4393224125
+
+                No abstract</description>
+      <author>Patricia Poths, Santiago Vargas, Philippe Sautet, Anastassia N. Alexandrova</author>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06154</guid>
+    </item>
+    <item>
+      <title>Tunable Divergent Reactivity of Aziridinium Ylides in the Synthesis of Complex Piperidines and Azetidines</title>
+      <link>https://doi.org/10.1021/acscatal.3c06173</link>
+      <description>Mahzad Dehghany, Giuliana Pavaneli, Jacob W. Kailing, Olivia M. Duke, Ilia A. Guzei, Caroline Da Ros Montes D&#8217;Oca, Israel Fern&#225;ndez, Jennifer M. Schomaker, ACS catalysis. None(None)] 2024. https://openalex.org/W4393372078
+
+                Nitrogenated heterocycles comprise the cores of a number of synthetically useful compounds, including pharmaceuticals, bioactive natural products, agrochemicals, and other drug-like molecules. The widespread interest in methods to increase the fraction of sp3 carbon atoms (Fsp3) of drug-like scaffolds in a stereocontrolled manner, while enabling explorations of unusual amine chemical space, inspired our efforts to tune the reactivity of aziridinium ylides. A sequential nitrene&#8211;carbene transfer of simple allenes leads to divergent product outcomes depending on the nature of the carbene precursor, furnishing products of different ring sizes. In addition, the catalyst control over the ring size via proposed hydrogen-bonding interactions between the catalyst and substrate was explored. Computational studies were employed to gain insight into the major features of substrates and catalysts that influence the tunable reactivity of aziridinium ylide intermediates formed in this chemistry.</description>
+      <author>Mahzad Dehghany, Giuliana Pavaneli, Jacob W. Kailing, Olivia M. Duke, Ilia A. Guzei, Caroline Da Ros Montes D&#8217;Oca, Israel Fern&#225;ndez, Jennifer M. Schomaker</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06173</guid>
     </item>
   </channel>
 </rss>

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Apr 2024 00:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 00:46:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Generalization of Graph-Based Active Learning Relaxation Strategies Across Materials</title>
-      <link>https://doi.org/10.1088/2632-2153/ad37f0</link>
-      <description>Xiaoxiao Wang, Joseph Musielewicz, Richard Tran, Sudheesh Kumar Ethirajan, Xiao Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, Zachary W. Ulissi, Machine learning: science and technology. None(None)] 2024. https://openalex.org/W4393189800
-
-                Abstract Although density functional theory (DFT) has aided in accelerating the discovery of new materials, such calculations are computationally expensive, especially for high-throughput efforts. This has prompted an explosion in exploration of machine learning assisted techniques to improve the computational efficiency of DFT. In this study, we present a comprehensive investigation of the broader application of Finetuna, an active learning framework to accelerate structural relaxation in DFT with prior information from Open Catalyst Project pretrained graph neural networks. We explore the challenges associated with out-of-domain systems: alcohol ($C_{&gt;2}$) on metal surfaces as larger adsorbates, metal-oxides with spin polarization, and three-dimensional (3D) structures like zeolites and metal-organic-frameworks. By pre-training machine learning models on large datasets and fine-tuning the model along the simulation, we demonstrate the framework's ability to conduct relaxations with fewer DFT calculations. Depending on the similarity of the test systems to the training systems, a more conservative querying strategy is applied. Our best-performing Finetuna strategy reduces the number of DFT single-point calculations by 80% for alcohols and 3D structures, and 42% for oxide systems.</description>
-      <author>Xiaoxiao Wang, Joseph Musielewicz, Richard Tran, Sudheesh Kumar Ethirajan, Xiao Fu, Hilda Mera, John R. Kitchin, Rachel C. Kurchin, Zachary W. Ulissi</author>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/2632-2153/ad37f0</guid>
-    </item>
     <item>
       <title>Solving the Security Constrained Unit Commitment Problem: Three Novel Approaches</title>
       <link>https://doi.org/10.2139/ssrn.4776866</link>
@@ -28,6 +18,156 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4776866</guid>
     </item>
     <item>
+      <title>DFT for Surface Segregation of Disordered FCC CuPdPt Alloys</title>
+      <link>https://doi.org/10.5281/zenodo.10501343</link>
+      <description>John R. Kitchin, Kirby Broderick, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024. https://openalex.org/W4393587488
+
+                Data are split into train (&lt;=35-atom slabs) and test (60-atom slabs) folders. Each folder contains a VASP calculation without the POTCAR. The slabs used are disordered AgAuCu, AuCuPd, or CuPdPt fcc alloys with a lattice constant set randomly between the largest and smallest experimental lattice constants of the constituent elements. The PBEsol functional is used with D3 dispersion corrections.</description>
+      <author>John R. Kitchin, Kirby Broderick</author>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10501343</guid>
+    </item>
+    <item>
+      <title>Optimal Design and Operation of Intensified Packed Towers for Solvent Based CO2 Capture</title>
+      <link>https://openalex.org/W4393400076</link>
+      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400076
+
+                No abstract</description>
+      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400076</guid>
+    </item>
+    <item>
+      <title>A Computational Investigation of the Effect of Packing Structural Features on the Performance of Carbon Capture for Solvent-Based Post-Combustion Applications</title>
+      <link>https://openalex.org/W4393400078</link>
+      <description>Grigorios Panagakos, Yash Girish Shah, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400078
+
+                No abstract</description>
+      <author>Grigorios Panagakos, Yash Girish Shah</author>
+      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400078</guid>
+    </item>
+    <item>
+      <title>Economies of Numbers Formulations for Optimal Process Family Design of Carbon Capture Systems</title>
+      <link>https://openalex.org/W4393400082</link>
+      <description>Georgia Stinchfield, Miguel Zamarripa, Josh Morgan, Carl D. Laird, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400082
+
+                No abstract</description>
+      <author>Georgia Stinchfield, Miguel Zamarripa, Josh Morgan, Carl D. Laird</author>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400082</guid>
+    </item>
+    <item>
+      <title>Trust Region Filter Method for Integrating Treatment into Produced Water Networks</title>
+      <link>https://openalex.org/W4393400083</link>
+      <description>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400083
+
+                No abstract</description>
+      <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400083</guid>
+    </item>
+    <item>
+      <title>Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to DOE&#8217;s Produced Water Optimization Framework Pareto</title>
+      <link>https://openalex.org/W4393400086</link>
+      <description>Daniel Ovalle, Joshua L. Pulsipher, Markus Drouven, Carl D. Laird, Ignacio E. Grossmann, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400086
+
+                No abstract</description>
+      <author>Daniel Ovalle, Joshua L. Pulsipher, Markus Drouven, Carl D. Laird, Ignacio E. Grossmann</author>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400086</guid>
+    </item>
+    <item>
+      <title>Numerical Study on the Geometrical Effects of Structured Packing on the Hydrodynamics of Solvent-Based CO2 Capture in Absorption Columns</title>
+      <link>https://openalex.org/W4393400088</link>
+      <description>Yash Girish Shah, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400088
+
+                No abstract</description>
+      <author>Yash Girish Shah, Grigorios Panagakos</author>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400088</guid>
+    </item>
+    <item>
+      <title>Recent Advances in PyROS: The Pyomo Solver for Two-Stage Nonconvex Robust Optimization</title>
+      <link>https://openalex.org/W4393400090</link>
+      <description>J.D. Sherman, Natalie M. Isenberg, John Daniel Siirola, Chrysanthos E. Gounaris, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400090
+
+                No abstract</description>
+      <author>J.D. Sherman, Natalie M. Isenberg, John Daniel Siirola, Chrysanthos E. Gounaris</author>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400090</guid>
+    </item>
+    <item>
+      <title>Optimization for Infrastructure Planning of Reliable and Carbon-neutral Power Systems: Application to San Diego County</title>
+      <link>https://openalex.org/W4393400116</link>
+      <description>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann, Benjamin Omell, Christopher McLean, Radhakrishna Gooty, Philip Tominac, Anthony P. Burgard, John Daniel Siirola, John H. Shinn, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400116
+
+                No abstract</description>
+      <author>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann, Benjamin Omell, Christopher McLean, Radhakrishna Gooty, Philip Tominac, Anthony P. Burgard, John Daniel Siirola, John H. Shinn</author>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400116</guid>
+    </item>
+    <item>
+      <title>Nonconvex Two-Stage Robust Optimization of an Amine-Based CO2 Capture System</title>
+      <link>https://openalex.org/W4393400124</link>
+      <description>J.D. Sherman, Anca Ostace, Douglas E. Allen, Miguel Zamarripa, Andrew Lee, Chrysanthos E. Gounaris, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400124
+
+                No abstract</description>
+      <author>J.D. Sherman, Anca Ostace, Douglas E. Allen, Miguel Zamarripa, Andrew Lee, Chrysanthos E. Gounaris</author>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400124</guid>
+    </item>
+    <item>
+      <title>Optimal Desalination Technologies for Produced Water Networks</title>
+      <link>https://openalex.org/W4393400133</link>
+      <description>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400133
+
+                No abstract</description>
+      <author>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler</author>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393400133</guid>
+    </item>
+    <item>
+      <title>Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere: data resources</title>
+      <link>https://doi.org/10.5281/zenodo.8344385</link>
+      <description>Xu&#8208;Cheng He, Mario Simon, Siddharth Iyer, Hong-Bin Xie, Birte R&#246;rup, Jiali Shen, Henning Finkenzeller, Dominik Stolzenburg, Rongjie Zhang, Andrea Baccarini, Yee Jun Tham, Mingyi Wang, Stravros Amanatidis, Ana A. Piedehierro, A. Amorim, Rima Baalbaki, Zo&#233; Brasseur, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Imad El Haddad, Richard C. Flagan, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Tuija Jokinen, Deniz Kemppainen, Weimeng Kong, Jordan E. Krechmer, Andreas K&#252;rten, Houssni Lamkaddam, Brandon Lopez, Fengxian Ma, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Dario Massab&#242;, R. L. Mauldin, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Joschka Pfeifer, Maxim Philippov, Ananth Ranjithkumar, Matti Rissanen, Siegfried Schobesberger, Wiebke Scholz, Benjamin C. Schulze, Mihnea Surdu, Roseline C. Thakur, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Paul M. Winkler, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Theo Kurt&#233;n, Douglas R. Worsnop, Rainer Volkamer, Katrianne Lehtipalo, J. Kirkby, Neil M. Donahue, Mikko Sipil&#228;, Markku Kulmala, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393424201
+
+                Data resources for manuscript: "Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere"</description>
+      <author>Xu&#8208;Cheng He, Mario Simon, Siddharth Iyer, Hong-Bin Xie, Birte R&#246;rup, Jiali Shen, Henning Finkenzeller, Dominik Stolzenburg, Rongjie Zhang, Andrea Baccarini, Yee Jun Tham, Mingyi Wang, Stravros Amanatidis, Ana A. Piedehierro, A. Amorim, Rima Baalbaki, Zo&#233; Brasseur, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Imad El Haddad, Richard C. Flagan, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Tuija Jokinen, Deniz Kemppainen, Weimeng Kong, Jordan E. Krechmer, Andreas K&#252;rten, Houssni Lamkaddam, Brandon Lopez, Fengxian Ma, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Dario Massab&#242;, R. L. Mauldin, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Joschka Pfeifer, Maxim Philippov, Ananth Ranjithkumar, Matti Rissanen, Siegfried Schobesberger, Wiebke Scholz, Benjamin C. Schulze, Mihnea Surdu, Roseline C. Thakur, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Paul M. Winkler, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Theo Kurt&#233;n, Douglas R. Worsnop, Rainer Volkamer, Katrianne Lehtipalo, J. Kirkby, Neil M. Donahue, Mikko Sipil&#228;, Markku Kulmala</author>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8344385</guid>
+    </item>
+    <item>
+      <title>Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere: data resources</title>
+      <link>https://doi.org/10.5281/zenodo.8344386</link>
+      <description>Xu&#8208;Cheng He, Mario Simon, Siddharth Iyer, Hong-Bin Xie, Birte R&#246;rup, Jiali Shen, Henning Finkenzeller, Dominik Stolzenburg, Rongjie Zhang, Andrea Baccarini, Yee Jun Tham, Mingyi Wang, Stravros Amanatidis, Ana A. Piedehierro, A. Amorim, Rima Baalbaki, Zo&#233; Brasseur, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Imad El Haddad, Richard C. Flagan, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Tuija Jokinen, Deniz Kemppainen, Weimeng Kong, Jordan E. Krechmer, Andreas K&#252;rten, Houssni Lamkaddam, Brandon Lopez, Fengxian Ma, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Dario Massab&#242;, R. L. Mauldin, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Joschka Pfeifer, Maxim Philippov, Ananth Ranjithkumar, Matti Rissanen, Siegfried Schobesberger, Wiebke Scholz, Benjamin C. Schulze, Mihnea Surdu, Roseline C. Thakur, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Paul M. Winkler, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Theo Kurt&#233;n, Douglas R. Worsnop, Rainer Volkamer, Katrianne Lehtipalo, J. Kirkby, Neil M. Donahue, Mikko Sipil&#228;, Markku Kulmala, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393448196
+
+                Data resources for manuscript: "Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere"</description>
+      <author>Xu&#8208;Cheng He, Mario Simon, Siddharth Iyer, Hong-Bin Xie, Birte R&#246;rup, Jiali Shen, Henning Finkenzeller, Dominik Stolzenburg, Rongjie Zhang, Andrea Baccarini, Yee Jun Tham, Mingyi Wang, Stravros Amanatidis, Ana A. Piedehierro, A. Amorim, Rima Baalbaki, Zo&#233; Brasseur, Luc&#237;a Caudillo, Biwu Chu, Lubna Dada, Jonathan Duplissy, Imad El Haddad, Richard C. Flagan, Manuel Granzin, Armin Hansel, Martin Heinritzi, Victoria Hofbauer, Tuija Jokinen, Deniz Kemppainen, Weimeng Kong, Jordan E. Krechmer, Andreas K&#252;rten, Houssni Lamkaddam, Brandon Lopez, Fengxian Ma, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Hanna E. Manninen, Guillaume Marie, Ruby Marten, Dario Massab&#242;, R. L. Mauldin, Bernhard Mentler, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Joschka Pfeifer, Maxim Philippov, Ananth Ranjithkumar, Matti Rissanen, Siegfried Schobesberger, Wiebke Scholz, Benjamin C. Schulze, Mihnea Surdu, Roseline C. Thakur, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Paul M. Winkler, Marcel Zauner-Wieczorek, Urs Baltensperger, Joachim Curtius, Theo Kurt&#233;n, Douglas R. Worsnop, Rainer Volkamer, Katrianne Lehtipalo, J. Kirkby, Neil M. Donahue, Mikko Sipil&#228;, Markku Kulmala</author>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8344386</guid>
+    </item>
+    <item>
+      <title>WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions</title>
+      <link>https://doi.org/10.5281/zenodo.7600475</link>
+      <description>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393572051
+
+                This repository houses electronic structure data and metadata generated as part of a computational chemistry case study, enabling full analysis of the paper "WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions" by Rohan Yuri Sanspeur, Javier Heras-Domingo, John R. Kitchin and Zachary Ulissi.</description>
+      <author>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi</author>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7600475</guid>
+    </item>
+    <item>
+      <title>The Role Of Ions In New-Particle Formation In The Cloud Chamber: Supporting Data</title>
+      <link>https://doi.org/10.5281/zenodo.1033852</link>
+      <description>R. J. Wagner, Chao Yan, Katrianne Lehtipalo, Jonathan Duplissy, Tuomo Nieminen, Juha Kangasluoma, Lauri Ahonen, Lubna Dada, Jenni Kontkanen, Hanna E. Manninen, Ant&#243;nio Dias, A. Amorim, Paulus S. Bauer, Anton Bergen, Anne-Kathrin Bernhammer, Federico Bianchi, Sophia Brilke, Stephany Buenrostro Mazon, Xuemeng Chen, Danielle C. Draper, Lukas Fischer, Carla Frege, Claudia Fuchs, Olga Garm&#1072;sh, Hamish Gordon, J. Hakala, Liine Heikkinen, Martin Heinritzi, Victoria Hofbauer, C. R. Hoyle, J. Kirkby, Andreas K&#252;rten, A. N. Kvashnin, Tiia Laurila, Michael J. Lawler, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, R. L. Mauldin, Ugo Molteni, Leonid Nichman, Wei Nie, Andrea Ojdanic, Antti Onnela, Felix Piel, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Nina Sarnela, Simon Schallhart, Kamalika Sengupta, Mario Simon, Dominik Stolzenburg, Y. I. Stozhkov, Jasmin Tr&#246;stl, Y. Viisanen, Alexander L. Vogel, Andrea C. Wagner, Mao Xiao, Penglin Ye, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Richard C. Flagan, Martin Gallagher, Armin Hansel, James N. Smith, Ant&#243;nio Tom&#233;, Paul M. Winkler, Douglas R. Worsnop, Mikael Ehn, Mikko Sipil&#228;, Veli&#8208;Matti Kerminen, Tuukka Pet&#228;j&#776;&#228;, Markku Kulmala, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017. https://openalex.org/W4393441365
+
+                Data that is presented in the publication "The role of ions in new-particle formation in the CLOUD chamber", ACP 2017.</description>
+      <author>R. J. Wagner, Chao Yan, Katrianne Lehtipalo, Jonathan Duplissy, Tuomo Nieminen, Juha Kangasluoma, Lauri Ahonen, Lubna Dada, Jenni Kontkanen, Hanna E. Manninen, Ant&#243;nio Dias, A. Amorim, Paulus S. Bauer, Anton Bergen, Anne-Kathrin Bernhammer, Federico Bianchi, Sophia Brilke, Stephany Buenrostro Mazon, Xuemeng Chen, Danielle C. Draper, Lukas Fischer, Carla Frege, Claudia Fuchs, Olga Garm&#1072;sh, Hamish Gordon, J. Hakala, Liine Heikkinen, Martin Heinritzi, Victoria Hofbauer, C. R. Hoyle, J. Kirkby, Andreas K&#252;rten, A. N. Kvashnin, Tiia Laurila, Michael J. Lawler, Huajun Mai, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, R. L. Mauldin, Ugo Molteni, Leonid Nichman, Wei Nie, Andrea Ojdanic, Antti Onnela, Felix Piel, Lauriane L. J. Qu&#233;l&#233;ver, Matti Rissanen, Nina Sarnela, Simon Schallhart, Kamalika Sengupta, Mario Simon, Dominik Stolzenburg, Y. I. Stozhkov, Jasmin Tr&#246;stl, Y. Viisanen, Alexander L. Vogel, Andrea C. Wagner, Mao Xiao, Penglin Ye, Urs Baltensperger, Joachim Curtius, Neil M. Donahue, Richard C. Flagan, Martin Gallagher, Armin Hansel, James N. Smith, Ant&#243;nio Tom&#233;, Paul M. Winkler, Douglas R. Worsnop, Mikael Ehn, Mikko Sipil&#228;, Veli&#8208;Matti Kerminen, Tuukka Pet&#228;j&#776;&#228;, Markku Kulmala</author>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.1033852</guid>
+    </item>
+    <item>
       <title>Recent Progress and Future Directions in the Synthesis of Heat-Integrated Water Networks</title>
       <link>https://doi.org/10.3303/cet2294104</link>
       <description>Elvis Ahmetovi&#263;, Nidret Ibri&#263;, Andreja Nemet, Zdravko Kravanja, Ignacio E. Grossmann, DOAJ (DOAJ: Directory of Open Access Journals). None(None)] 2022. https://openalex.org/W4393369073
@@ -36,6 +176,86 @@
       <author>Elvis Ahmetovi&#263;, Nidret Ibri&#263;, Andreja Nemet, Zdravko Kravanja, Ignacio E. Grossmann</author>
       <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3303/cet2294104</guid>
+    </item>
+    <item>
+      <title>NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data</title>
+      <link>https://doi.org/10.5281/zenodo.7186075</link>
+      <description>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393484303
+
+                Simulated data presented in manuscript with title above, generated with the Met Office Unified Model</description>
+      <author>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson</author>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7186075</guid>
+    </item>
+    <item>
+      <title>Synergistic HNO3&#8211;H2SO4&#8211;NH3 upper tropospheric particle formation: data resources &amp;amp; code</title>
+      <link>https://doi.org/10.5281/zenodo.5949440</link>
+      <description>Mingyi Wang, Mao Xiao, Barbara Bertozzi, Guillaume Marie, Birte R&#246;rup, Benjamin C. Schulze, Roman Bardakov, Xu&#8208;Cheng He, Jiali Shen, Wiebke Scholz, Ruby Marten, Lubna Dada, Rima Baalbaki, Brandon Lopez, Houssni Lamkaddam, Hanna E. Manninen, A. Amorim, Farnoush Ataei, Pia Bogert, Zo&#233; Brasseur, Luc&#237;a Caudillo, Louis-Philippe De Menezes, Jonathan Duplissy, Annica M. L. Ekman, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Martin Heinritzi, Victoria Hofbauer, Kristina H&#246;hler, Jordan E. Krechmer, Andreas K&#252;rten, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Dario Massab&#242;, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Ana A. Piedehierro, Andrea Pozzer, Ananth Ranjithkumar, Meredith Schervish, Alexander L. Vogel, Yuri Stozhkov, Ant&#243;nio Tom&#233;, Nsikanabasi Silas Umo, Franziska Vogel, R. J. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Yusheng Wu, Marcel Zauner-Wieczorek, Mikko Sipil&#228;, Paul M. Winkler, Armin Hansel, Urs Baltensperger, Markku Kulmala, Richard C. Flagan, Joachim Curtius, Ilona Riipinen, Hamish Gordon, Jos Lelieveld, Imad El Haddad, Rainer Volkamer, Douglas R. Worsnop, T. Christoudias, J. Kirkby, Ottmar M&#246;hler, Neil M. Donahue, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393531939
+
+                Data presented in the manuscript "Synergistic HNO3&#8211;H2SO4&#8211;NH3 upper tropospheric particle formation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.</description>
+      <author>Mingyi Wang, Mao Xiao, Barbara Bertozzi, Guillaume Marie, Birte R&#246;rup, Benjamin C. Schulze, Roman Bardakov, Xu&#8208;Cheng He, Jiali Shen, Wiebke Scholz, Ruby Marten, Lubna Dada, Rima Baalbaki, Brandon Lopez, Houssni Lamkaddam, Hanna E. Manninen, A. Amorim, Farnoush Ataei, Pia Bogert, Zo&#233; Brasseur, Luc&#237;a Caudillo, Louis-Philippe De Menezes, Jonathan Duplissy, Annica M. L. Ekman, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Martin Heinritzi, Victoria Hofbauer, Kristina H&#246;hler, Jordan E. Krechmer, Andreas K&#252;rten, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Dario Massab&#242;, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Ana A. Piedehierro, Andrea Pozzer, Ananth Ranjithkumar, Meredith Schervish, Alexander L. Vogel, Yuri Stozhkov, Ant&#243;nio Tom&#233;, Nsikanabasi Silas Umo, Franziska Vogel, R. J. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Yusheng Wu, Marcel Zauner-Wieczorek, Mikko Sipil&#228;, Paul M. Winkler, Armin Hansel, Urs Baltensperger, Markku Kulmala, Richard C. Flagan, Joachim Curtius, Ilona Riipinen, Hamish Gordon, Jos Lelieveld, Imad El Haddad, Rainer Volkamer, Douglas R. Worsnop, T. Christoudias, J. Kirkby, Ottmar M&#246;hler, Neil M. Donahue</author>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5949440</guid>
+    </item>
+    <item>
+      <title>NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data</title>
+      <link>https://doi.org/10.5281/zenodo.7278212</link>
+      <description>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393536325
+
+                Simulated data presented in manuscript with title above, generated with the Met Office Unified Model, together with observations from KORUS-AQ and MODIS that are used in the model evaluation. The Terra/MODIS aerosol datasets were acquired from the Level-1 and Atmosphere Archive &amp; Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland https://ladsweb.nascom.nasa.gov/. All surface and aircraft observation data is freely and publicly available at https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, last access 10 June 2022.</description>
+      <author>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson</author>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7278212</guid>
+    </item>
+    <item>
+      <title>Synergistic HNO3&#8211;H2SO4&#8211;NH3 upper tropospheric particle formation: data resources &amp;amp; code</title>
+      <link>https://doi.org/10.5281/zenodo.5949439</link>
+      <description>Mingyi Wang, Mao Xiao, Barbara Bertozzi, Guillaume Marie, Birte R&#246;rup, Benjamin C. Schulze, Roman Bardakov, Xu&#8208;Cheng He, Jiali Shen, Wiebke Scholz, Ruby Marten, Lubna Dada, Rima Baalbaki, Brandon Lopez, Houssni Lamkaddam, Hanna E. Manninen, A. Amorim, Farnoush Ataei, Pia Bogert, Zo&#233; Brasseur, Luc&#237;a Caudillo, Louis-Philippe De Menezes, Jonathan Duplissy, Annica M. L. Ekman, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Martin Heinritzi, Victoria Hofbauer, Kristina H&#246;hler, Jordan E. Krechmer, Andreas K&#252;rten, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Dario Massab&#242;, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Ana A. Piedehierro, Andrea Pozzer, Ananth Ranjithkumar, Meredith Schervish, Mario Simon, Y. I. Stozhkov, Ant&#243;nio Tom&#233;, Nsikanabasi Silas Umo, Franziska Vogel, R. J. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Yusheng Wu, Marcel Zauner-Wieczorek, Mikko Sipil&#228;, Paul M. Winkler, Armin Hansel, Urs Baltensperger, Markku Kulmala, Richard C. Flagan, Joachim Curtius, Ilona Riipinen, Hamish Gordon, J. Lelieveld, Imad El Haddad, Rainer Volkamer, Douglas R. Worsnop, T. Christoudias, J. Kirkby, Ottmar M&#246;hler, Neil M. Donahue, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393591647
+
+                Data presented in the manuscript "Synergistic HNO3&#8211;H2SO4&#8211;NH3 upper tropospheric particle formation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.</description>
+      <author>Mingyi Wang, Mao Xiao, Barbara Bertozzi, Guillaume Marie, Birte R&#246;rup, Benjamin C. Schulze, Roman Bardakov, Xu&#8208;Cheng He, Jiali Shen, Wiebke Scholz, Ruby Marten, Lubna Dada, Rima Baalbaki, Brandon Lopez, Houssni Lamkaddam, Hanna E. Manninen, A. Amorim, Farnoush Ataei, Pia Bogert, Zo&#233; Brasseur, Luc&#237;a Caudillo, Louis-Philippe De Menezes, Jonathan Duplissy, Annica M. L. Ekman, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Martin Heinritzi, Victoria Hofbauer, Kristina H&#246;hler, Jordan E. Krechmer, Andreas K&#252;rten, Katrianne Lehtipalo, Naser G. A. Mahfouz, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Dario Massab&#242;, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Ana A. Piedehierro, Andrea Pozzer, Ananth Ranjithkumar, Meredith Schervish, Mario Simon, Y. I. Stozhkov, Ant&#243;nio Tom&#233;, Nsikanabasi Silas Umo, Franziska Vogel, R. J. Wagner, Dongyu Wang, Stefan K. Weber, Andr&#233; Welti, Yusheng Wu, Marcel Zauner-Wieczorek, Mikko Sipil&#228;, Paul M. Winkler, Armin Hansel, Urs Baltensperger, Markku Kulmala, Richard C. Flagan, Joachim Curtius, Ilona Riipinen, Hamish Gordon, J. Lelieveld, Imad El Haddad, Rainer Volkamer, Douglas R. Worsnop, T. Christoudias, J. Kirkby, Ottmar M&#246;hler, Neil M. Donahue</author>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5949439</guid>
+    </item>
+    <item>
+      <title>Rapid growth of new atmospheric particles by nitric acid and ammonia condensation: data resources</title>
+      <link>https://doi.org/10.5281/zenodo.3653377</link>
+      <description>Mingyi Wang, Weimeng Kong, Ruby Marten, Xu&#8208;Cheng He, Dexian Chen, Joschka Pfeifer, Arto Heitto, Jenni Kontkanen, Lubna Dada, Andreas K&#252;rten, Taina Yli-Juuti, Hanna E. Manninen, Stavros Amanatidis, A. Amorim, Rima Baalbaki, Andrea Baccarini, David M. Bell, Barbara Bertozzi, Steffen Br&#228;kling, Sophia Brilke, Luc&#237;a Caudillo Murillo, Randall Chiu, Biwu Chu, Louis-Philippe De Menezes, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Armin Hansel, Victoria Hofbauer, Jordan E. Krechmer, Katrianne Lehtipalo, Houssni Lamkaddam, Markus Lampim&#228;ki, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Guillaume Marie, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Eva Partoll, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Veronika Posp&#237;&#353;ilov&#225;, Ananth Ranjithkumar, Matti Rissanen, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Mario Simon, Mikko Sipil&#228;, Gerhard Steiner, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Paul M. Winkler, Peter Josef Wlasits, Yusheng Wu, Mao Xiao, Qing Ye, Marcel Zauner-Wieczorek, Xueqin Zhou, Rainer Volkamer, Ilona Riipinen, Josef Dommen, Joachim Curtius, Urs Baltensperger, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, John H. Seinfeld, Imad El Haddad, Richard C. Flagan, Neil M. Donahue, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393564124
+
+                Data presented in the manuscript "Rapid growth of new atmospheric particles by nitric acid and ammonia condensation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration.</description>
+      <author>Mingyi Wang, Weimeng Kong, Ruby Marten, Xu&#8208;Cheng He, Dexian Chen, Joschka Pfeifer, Arto Heitto, Jenni Kontkanen, Lubna Dada, Andreas K&#252;rten, Taina Yli-Juuti, Hanna E. Manninen, Stavros Amanatidis, A. Amorim, Rima Baalbaki, Andrea Baccarini, David M. Bell, Barbara Bertozzi, Steffen Br&#228;kling, Sophia Brilke, Luc&#237;a Caudillo Murillo, Randall Chiu, Biwu Chu, Louis-Philippe De Menezes, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Armin Hansel, Victoria Hofbauer, Jordan E. Krechmer, Katrianne Lehtipalo, Houssni Lamkaddam, Markus Lampim&#228;ki, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Guillaume Marie, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Eva Partoll, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Veronika Posp&#237;&#353;ilov&#225;, Ananth Ranjithkumar, Matti Rissanen, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Mario Simon, Mikko Sipil&#228;, Gerhard Steiner, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Paul M. Winkler, Peter Josef Wlasits, Yusheng Wu, Mao Xiao, Qing Ye, Marcel Zauner-Wieczorek, Xueqin Zhou, Rainer Volkamer, Ilona Riipinen, Josef Dommen, Joachim Curtius, Urs Baltensperger, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, John H. Seinfeld, Imad El Haddad, Richard C. Flagan, Neil M. Donahue</author>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3653377</guid>
+    </item>
+    <item>
+      <title>Rapid growth of new atmospheric particles by nitric acid and ammonia condensation: data resources</title>
+      <link>https://doi.org/10.5281/zenodo.3647653</link>
+      <description>Mingyi Wang, Weimeng Kong, Ruby Marten, Xu&#8208;Cheng He, Dexian Chen, Joschka Pfeifer, Arto Heitto, Jenni Kontkanen, Lubna Dada, Andreas K&#252;rten, Taina Yli-Juuti, Hanna E. Manninen, Stavros Amanatidis, A. Amorim, Rima Baalbaki, Andrea Baccarini, David M. Bell, Barbara Bertozzi, Steffen Br&#228;kling, Sophia Brilke, Luc&#237;a Caudillo Murillo, Randall Chiu, Biwu Chu, Louis-Philippe De Menezes, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Armin Hansel, Victoria Hofbauer, Jordan E. Krechmer, Katrianne Lehtipalo, Houssni Lamkaddam, Markus Lampim&#228;ki, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Guillaume Marie, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Eva Partoll, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Veronika Posp&#237;&#353;ilov&#225;, Ananth Ranjithkumar, Matti Rissanen, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Mario Simon, Mikko Sipil&#228;, Gerhard Steiner, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Paul M. Winkler, Peter Josef Wlasits, Yusheng Wu, Mao Xiao, Qing Ye, Marcel Zauner-Wieczorek, Xueqin Zhou, Rainer Volkamer, Ilona Riipinen, Josef Dommen, Joachim Curtius, Urs Baltensperger, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, John H. Seinfeld, Imad El Haddad, Richard C. Flagan, Neil M. Donahue, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393625648
+
+                Data presented in the manuscript "Rapid growth of new atmospheric particles by nitric acid and ammonia condensation" currently in review. The manuscript associated with this data was written using results from the CLOUD experiment at CERN, and the author list is a subset of the CLOUD collaboration</description>
+      <author>Mingyi Wang, Weimeng Kong, Ruby Marten, Xu&#8208;Cheng He, Dexian Chen, Joschka Pfeifer, Arto Heitto, Jenni Kontkanen, Lubna Dada, Andreas K&#252;rten, Taina Yli-Juuti, Hanna E. Manninen, Stavros Amanatidis, A. Amorim, Rima Baalbaki, Andrea Baccarini, David M. Bell, Barbara Bertozzi, Steffen Br&#228;kling, Sophia Brilke, Luc&#237;a Caudillo Murillo, Randall Chiu, Biwu Chu, Louis-Philippe De Menezes, Jonathan Duplissy, Henning Finkenzeller, Lo&#239;c Gonzalez Carracedo, Manuel Granzin, R. Guida, Armin Hansel, Victoria Hofbauer, Jordan E. Krechmer, Katrianne Lehtipalo, Houssni Lamkaddam, Markus Lampim&#228;ki, Chuan Ping Lee, &#1042;. &#1057;. &#1052;&#1072;&#1093;&#1084;&#1091;&#1090;&#1086;&#1074;, Guillaume Marie, Serge Mathot, R. L. Mauldin, Bernhard Mentler, Tatjana M&#252;ller, Antti Onnela, Eva Partoll, Tuukka Pet&#228;j&#776;&#228;, Maxim Philippov, Veronika Posp&#237;&#353;ilov&#225;, Ananth Ranjithkumar, Matti Rissanen, Birte R&#246;rup, Wiebke Scholz, Jiali Shen, Mario Simon, Mikko Sipil&#228;, Gerhard Steiner, Dominik Stolzenburg, Yee Jun Tham, Ant&#243;nio Tom&#233;, Andrea C. Wagner, Dongyu Wang, Yonghong Wang, Stefan K. Weber, Paul M. Winkler, Peter Josef Wlasits, Yusheng Wu, Mao Xiao, Qing Ye, Marcel Zauner-Wieczorek, Xueqin Zhou, Rainer Volkamer, Ilona Riipinen, Josef Dommen, Joachim Curtius, Urs Baltensperger, Markku Kulmala, Douglas R. Worsnop, J. Kirkby, John H. Seinfeld, Imad El Haddad, Richard C. Flagan, Neil M. Donahue</author>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3647653</guid>
+    </item>
+    <item>
+      <title>Profiling of mature stage human breastmilk cells identifies host-defense lactocyte sub-populations</title>
+      <link>https://doi.org/10.5281/zenodo.5784799</link>
+      <description>John P. Gleeson, Namit Chaudhary, Rose Doerfler, Katherine C. Fein, Patricia Hredzak-Showalter, Kathryn A. Whitehead, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393499116
+
+                Breastmilk is chock-full of nutrients, immunological factors, and cells that aid infant development. Maternal cells are the least studied breastmilk component, and their unique properties are difficult to identify using traditional techniques. Here, we characterized the cells in mature stage breastmilk from healthy donors at the protein, gene, and transcriptome levels. Holistic analysis of flow cytometry, qPCR, and single cell RNA sequencing data identified the predominant cell population as epithelial with smaller populations of macrophages and T cells. Two percent of epithelial cells expressed four stem cell markers: SOX2, TRA-1-60, NANOG, and SSEA4. Furthermore, milk contained six distinct epithelial lactocyte sub-populations, including three previously unidentified sub-populations programmed towards host-defense and intestinal development. Pseudotime analysis delineated the differentiation pathways of epithelial progenitors. Together, these data define healthy human maternal breastmilk cells and provide a basis for their application in maternal and infant medicine.</description>
+      <author>John P. Gleeson, Namit Chaudhary, Rose Doerfler, Katherine C. Fein, Patricia Hredzak-Showalter, Kathryn A. Whitehead</author>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5784799</guid>
+    </item>
+    <item>
+      <title>Profiling of mature stage human breastmilk cells identifies host-defense lactocyte sub-populations</title>
+      <link>https://doi.org/10.5281/zenodo.5784798</link>
+      <description>John P. Gleeson, Namit Chaudhary, Rose Doerfler, Katherine C. Fein, Patricia Hredzak-Showalter, Kathryn A. Whitehead, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393601295
+
+                Breastmilk is chock-full of nutrients, immunological factors, and cells that aid infant development. Maternal cells are the least studied breastmilk component, and their unique properties are difficult to identify using traditional techniques. Here, we characterized the cells in mature stage breastmilk from healthy donors at the protein, gene, and transcriptome levels. Holistic analysis of flow cytometry, qPCR, and single cell RNA sequencing data identified the predominant cell population as epithelial with smaller populations of macrophages and T cells. Two percent of epithelial cells expressed four stem cell markers: SOX2, TRA-1-60, NANOG, and SSEA4. Furthermore, milk contained six distinct epithelial lactocyte sub-populations, including three previously unidentified sub-populations programmed towards host-defense and intestinal development. Pseudotime analysis delineated the differentiation pathways of epithelial progenitors. Together, these data define healthy human maternal breastmilk cells and provide a basis for their application in maternal and infant medicine.</description>
+      <author>John P. Gleeson, Namit Chaudhary, Rose Doerfler, Katherine C. Fein, Patricia Hredzak-Showalter, Kathryn A. Whitehead</author>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5784798</guid>
     </item>
   </channel>
 </rss>
