@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Apr  4 00:46:18 2024
+Created on Fri Apr  5 00:45:11 2024
 
-Found 28 results from 2024-03-28 to 2024-04-04
+Found 29 results from 2024-03-29 to 2024-04-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -12,105 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## Hydrogen generation via water splitting with hexagonal silicon monolayers as (photo)catalysts   
-
-OpenAlex: https://openalex.org/W4393216663    
-Open access: False
-    
-[Riri Jonuarti](https://openalex.org/A5049303614), [Wilson Agerico Diño](https://openalex.org/A5033458441), [Hikaru Kobayashi](https://openalex.org/A5003319013), [Suprijadi](https://openalex.org/A5035352468), [- Ratnawulan](https://openalex.org/A5078405978), [Rahmat Hidayat](https://openalex.org/A5020858972), Molecular catalysis (Online). 559(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114081.
-    
-No abstract    
-
-    
-
-## Automated atomistic simulations of dissociated dislocations with ab initio accuracy   
-
-OpenAlex: https://openalex.org/W4393222082    
-Open access: False
-    
-[Laura Mismetti](https://openalex.org/A5093211897), [Max Hodapp](https://openalex.org/A5064082194), Physical review. B. 109(9)] 2024.https://doi.org/10.1103/physrevb.109.094120.
-    
-No abstract    
-
-    
-
-## Unraveling the Cooperative Mechanisms in Ultralow Copper-Loaded WC@NGC for Enhanced CO2 Electroreduction to Acetic Acid   
-
-OpenAlex: https://openalex.org/W4393225487    
-Open access: False
-    
-[Debabrata Bagchi](https://openalex.org/A5012225886), [Mohd Riyaz](https://openalex.org/A5060328011), [Jithu Raj](https://openalex.org/A5002346665), [Soumyabrata Roy](https://openalex.org/A5041759132), [Ashutosh Kumar Singh](https://openalex.org/A5048428074), [Arjun Cherevotan](https://openalex.org/A5049568194), [C. P. Vinod](https://openalex.org/A5075584403), [Sebastian C. Peter](https://openalex.org/A5073825333), Chemistry of materials. None(None)] 2024.https://doi.org/10.1021/acs.chemmater.4c00405.
-    
-No abstract    
-
-    
-
-## Tunable electronic coupling of Fe-doped CoS2/reduced graphene oxide composites for boosting bifunctional water splitting activity   
-
-OpenAlex: https://openalex.org/W4393227029    
-Open access: False
-    
-[Bo Fang](https://openalex.org/A5036732836), [Yue Li](https://openalex.org/A5044367029), [Jiaqi Yang](https://openalex.org/A5009946088), [Ting Lü](https://openalex.org/A5024808864), [Xinjuan Liu](https://openalex.org/A5032596146), [Xiaohong Chen](https://openalex.org/A5065220600), [Likun Pan](https://openalex.org/A5069597529), [Zhenjie Zhao](https://openalex.org/A5069278575), Journal of alloys and compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174281.
-    
-No abstract    
-
-    
-
-## Theoretical regulating the M-site composition of Janus MXenes enables the tailoring design for highly active bifunctional ORR/OER catalysts   
-
-OpenAlex: https://openalex.org/W4393227083    
-Open access: False
-    
-[Shuang Luo](https://openalex.org/A5069290077), [Ninggui Ma](https://openalex.org/A5062375032), [Jun Zhao](https://openalex.org/A5050240108), [Yuhang Wang](https://openalex.org/A5082322039), [Yaqin Zhang](https://openalex.org/A5031438011), [Yan Xiong](https://openalex.org/A5071293255), [Jun Fan](https://openalex.org/A5015599328), Journal of Materials Science and Technology (Shenyang). None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.01.093.
-    
-No abstract    
-
-    
-
-## Highly area-selective atomic layer deposition of device-quality Hf1-xZrxO2 thin films through catalytic local activation   
-
-OpenAlex: https://openalex.org/W4393227170    
-Open access: False
-    
-[Hyo‐Bae Kim](https://openalex.org/A5034679391), [Jeong‐Min Lee](https://openalex.org/A5015758146), [Dong Jun Sung](https://openalex.org/A5027985112), [Ji‐Hoon Ahn](https://openalex.org/A5019949282), [Woo‐Hee Kim](https://openalex.org/A5022732820), Chemical engineering journal (1996. Print). None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150760.
-    
-No abstract    
-
-    
-
-## Advanced manufacturing in heterogeneous catalysis   
-
-OpenAlex: https://openalex.org/W4393232922    
-Open access: True
-    
-[Swarom Kanitkar](https://openalex.org/A5053725511), [Biswanath Dutta](https://openalex.org/A5036615269), [Ashraf Abedin](https://openalex.org/A5030069852), [Xue Bai](https://openalex.org/A5052195787), [Daniel Haynes](https://openalex.org/A5047068296), Royal Society of Chemistry eBooks. None(None)] 2024.https://doi.org/10.1039/bk9781837672035-00001 ([pdf](https://books.rsc.org/books/edited-volume/chapter-pdf/1807928/bk9781837672035-00001.pdf)).
-    
-Heterogeneous catalysis is one of the major pillars of the chemical and refining industry that has evolved significantly from the need for more efficient and sustainable industrial processes. Advanced manufacturing will play an important role in driving this evolution through its ability to create or design more favourable interactions with catalytic components that can result in more active and stable catalysts, efficient catalytic processes, and sustainable reaction systems. This chapter provides an overview of recent progress that covers various catalyst coating methods, application of 3D printing in catalytic supports and reactor components, and process intensification through additive manufacturing. The work also provides a brief overview on artificial intelligence/machine learning in heterogeneous catalysis that is helping to make/screen catalysts more efficiently. The work further highlights the impacts and challenges of implementing advanced manufacturing methods.    
-
-    
-
-## Understanding pH-Dependent Oxygen Reduction Reaction on Metal Alloy Catalysts   
-
-OpenAlex: https://openalex.org/W4393234212    
-Open access: False
-    
-[Xinnan Mao](https://openalex.org/A5003725369), [Lu Wang](https://openalex.org/A5026705378), [Youyong Li](https://openalex.org/A5035944985), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00461.
-    
-Exploring low-cost and high-efficiency catalysts for oxygen reduction reaction (ORR) kinetics in both acidic and alkaline environments could dramatically improve the efficiency of hydrogen fuel cells and their industrial applications. During the electrochemical process, the effect of pH is a complicating factor and is of great importance in identifying high-efficiency electrocatalysts. In this work, we conducted systematic computations to gain a deep understanding of the pH-dependent ORR activity on Pt, Pd, and their near-surface alloys (NSAs). The effects of pH were calculated by employing the double-reference method, and our calculated pH-dependent current densities are in good agreement with the experimental results. High-throughput calculations identified a series of NSA catalysts with superior ORR performance under acidic or alkaline conditions, and we have developed a pH-corrected theoretical model to efficiently estimate the ORR activity on metal catalysts. This work underscores the importance of considering pH effects when evaluating ORR activity from calculations and provides a strategy for designing superior ORR electrocatalysts in acidic and alkaline solutions.    
-
-    
-
-## Cr dopants and S vacancies in ZnS to trigger efficient photocatalytic H2 evolution and CO2 reduction   
-
-OpenAlex: https://openalex.org/W4393238252    
-Open access: False
-    
-[Linping Bao](https://openalex.org/A5070209782), [Yushuai Jia](https://openalex.org/A5001304945), [Xiaohui Ren](https://openalex.org/A5033340683), [Xin Liu](https://openalex.org/A5060086206), [Chunhui Dai](https://openalex.org/A5028984562), [Sajjad Ali](https://openalex.org/A5049015136), [M. Bououdina](https://openalex.org/A5051524194), [Zhang‐Hui Lu](https://openalex.org/A5014575317), [Chao Zeng](https://openalex.org/A5059560337), Journal of Materials Science and Technology (Shenyang). None(None)] 2024.https://doi.org/10.1016/j.jmst.2024.01.094.
-    
-Driven by endless solar energy, photocatalytic H2 evolution from water splitting and CO2 conversion to hydrocarbon fuels over semiconductor photocatalysts are of great potential to simultaneously settle the greenhouse effect and energy shortage. Herein, Cr-doped zinc sulfide (ZnS) with accompanying sulphur vacancies (Vs) photocatalytic materials is developed by a facile hydrothermal method. The Cr dopants centralize photoinduced holes and Vs trap electrons, forming a synergistic effect for accelerating charge separation and transfer. The reaction energy barrier for both H2 evolution and CO2 reduction has been optimized. Therefore, in the absence of a cocatalyst, the optimal catalyst (Zn0.94Cr0.06S) achieves an outstanding H2 evolution activity of 20.3 mmol g−1 h−1, which is approximately 2.9 times higher than 6.9 mmol g−1 h−1 for pristine ZnS. In addition, in the gas-solid reaction system without co-catalysts or sacrificial agents, the Zn0.94Cr0.06S exhibits a considerable CO evolution rate of 19.56 μmol g−1 h−1, about 10.1 times higher than ZnS (1.94 μmol g−1 h−1). Both the performances for H2 evolution and CO2 reduction of Zn0.94Cr0.06S outperform most of the previously reported photocatalysts. Particularly, the Zn0.94Cr0.06S possesses superior stability, the photoactivity of which exhibits no noticeable deactivation after six cycles' reactions. This work may shed light on the rational design and fabrication of highly efficient materials via combining individual element doping and defect engineering.    
-
-    
 
 ## SMATool: Strength of Materials Analysis Toolkit   
 
@@ -288,6 +189,105 @@ This work employs density functional theory (DFT) to scrutinize the catalytic ef
 
     
 
+## Mesoporous confined Pt-based intermetallic compound with wrinkled carbon to enhance the performance towards oxygen reduction reaction for proton exchange membrane fuel cells   
+
+OpenAlex: https://openalex.org/W4393307875    
+Open access: False
+    
+[Ferng Chun Ke](https://openalex.org/A5052466239), [Qian Cheng](https://openalex.org/A5082133855), [Dong Ge Tong](https://openalex.org/A5076091263), [Deyou Liu](https://openalex.org/A5091275470), [Xu Xiang](https://openalex.org/A5034133658), [Yubin Chen](https://openalex.org/A5021205475), [Hui Yang](https://openalex.org/A5010951249), [Hui Yang](https://openalex.org/A5010951249), Journal of power sources (Print). 603(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.234357.
+    
+The formation of small-sized (<5 nm) and high-loading (>50 wt%) Pt-based intermetallic compound structures commonly requires thermal treatment to conquer the atom-ordering barrier, which inevitably causes severe nanoparticle agglomeration and hence reduces oxygen reduction reaction activity. Herein, we provided a synthetic wrinkled carbon support by vapor deposition from methane (CH4), and then we utilized the carbon to synthesize sub-5 nm high-loading (50.6 wt%) Pt3Co1 intermetallic compound by mesoporous confinement effect. Structural characterizations reveal that the nanoparticles are mainly located in the pores of the mesoporous carbon with an average size of ca. 4.1 nm, corroborating the confinement effect of the mesoporous structure. As a consequence, the Pt3Co1 intermetallic compound catalyst exhibits superior oxygen reduction reaction activity with a mass activity (@0.9V) of 0.35 A/mgPt and satisfactory durability with a mass activity decline by 22% after 40k-cycles accelerated durability test. Membrane electrode assembly with the resultant catalyst delivers the desirable performance with the peak power density of ca. 1.0 W/cm2 while lowering the Pt loading to 0.1 mg/cm2, suggesting the practical application potential in low-Pt proton exchange membrane fuel cells.    
+
+    
+
+## Directional multiobjective optimization of metal complexes at the billion-system scale   
+
+OpenAlex: https://openalex.org/W4393309150    
+Open access: False
+    
+[Hannes Kneiding](https://openalex.org/A5072097558), [Ainara Nova](https://openalex.org/A5078208746), [David Balcells](https://openalex.org/A5044914316), Nature computational science. None(None)] 2024.https://doi.org/10.1038/s43588-024-00616-5.
+    
+No abstract    
+
+    
+
+## Theoretical Study of Electrocatalytic CO2 Reduction Mechanism on Typical MXenes under Realistic Conditions   
+
+OpenAlex: https://openalex.org/W4393316898    
+Open access: False
+    
+[Xueli Liu](https://openalex.org/A5088829296), [Libo Yao](https://openalex.org/A5085559627), [Sijia Zhang](https://openalex.org/A5065587600), [Chuanqi Huang](https://openalex.org/A5062361623), [Wenshao Yang](https://openalex.org/A5018135872), Inorganic chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c00072.
+    
+MXenes are a revolutionary class of two-dimensional materials that have been recently demonstrated to exhibit promising capability of electrocatalytic CO2 reduction reaction (CO2RR) in theory and experiment. In electrocatalytic reactions, the active phases, the mechanism, and the performance can be greatly influenced by electrochemical conditions such as applied electrode potential, pH, and electrolyte. Therefore, in this first-principles study, the stable surface structures of three typical MXenes (V2C, Mo2C, and Ti3C2) with variation of electrocatalytic conditions were determined by the Pourbaix phase diagrams. Additionally, the reaction mechanism for CO2RR toward C1 products was investigated based on the thermal dynamically stable phases. The computation revealed that surfaces of all three MXenes are dominated by H* termination throughout the practical CO2RR electrochemical condition ranges. Meanwhile, the bicarbonate ions, which serve as the major electrolyte in CO2RR, show thermal dynamic unfavorability to adsorb on the surfaces. Among the three types of MXenes, V2CH exhibits higher activity in generating CO and HCOOH through the CO2RR, while Mo2CH exhibits higher activity in producing HCHO, CH3OH, and CH4. This comprehensive study provides crucial insights into the mechanism of electrocatalytic CO2RR on MXenes under realistic electrochemical conditions.    
+
+    
+
+## A Comprehensive Review of Bimetallic Nanoparticle–Graphene Oxide and Bimetallic Nanoparticle–Metal–Organic Framework Nanocomposites as Photo-, Electro-, and Photoelectrocatalysts for Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4393317710    
+Open access: True
+    
+[Mogwasha D. Makhafola](https://openalex.org/A5090704413), [Sheriff A. Balogun](https://openalex.org/A5025403395), [Kwena D. Modibane](https://openalex.org/A5019702691), Energies (Basel). 17(7)] 2024.https://doi.org/10.3390/en17071646 ([pdf](https://www.mdpi.com/1996-1073/17/7/1646/pdf?version=1711706299)).
+    
+This review extensively discusses current developments in bimetallic nanoparticle–GO and bimetallic nanoparticle–MOF nanocomposites as potential catalysts for HER, along with their different synthesis methodologies, structural characteristics, and catalytic mechanisms. The photoelectrocatalytic performance of these catalysts was also compared based on parameters such as Tafel slope, current density, onset potential, turnover frequency, hydrogen yield, activation energy, stability, and durability. The review shows that the commonly used metal alloys in the bimetallic nanoparticle–GO-based catalysts for HERs include Pt-based alloys (e.g., PtNi, PtCo, PtCu, PtAu, PtSn), Pd-based alloys (e.g., PdAu, PdAg, PdPt) or other combinations, such as AuNi, AuRu, etc., while the most used electrolyte sources are H2SO4 and KOH. For the bimetallic nanoparticle MOF-based catalysts, Pt-based alloys (e.g., PtNi, PtCu), Pd-based alloys (e.g., PdAg, PdCu, PdCr), and Ni-based alloys (e.g., NiMo, NiTi, NiAg, NiCo) took the lead, with KOH being the most frequently used electrolyte source. Lastly, the review addresses challenges and prospects, highlighting opportunities for further optimization and technological integration of the catalysts as promising alternative photo/electrocatalysts for future hydrogen production and storage.    
+
+    
+
+## Two-Dimensional Double Perovskites in the Dion–Jacobson Phase Alleviate Parity Forbidden Transitions for Photovoltaic Applications   
+
+OpenAlex: https://openalex.org/W4393317812    
+Open access: False
+    
+[Robert V. Stanton](https://openalex.org/A5047169849), [Dhara Trivedi](https://openalex.org/A5088831868), ACS applied energy materials. None(None)] 2024.https://doi.org/10.1021/acsaem.3c03276.
+    
+Two-dimensional double perovskites have recently been identified as a potential class of materials for the improvement of halide-perovskite-based solar cell technology. The expanded set of utilizable B- and B′-site cations afforded to double perovskites, combined with tunable structural and electronic properties in two-dimensional perovskites, leads to a highly modifiable set of materials, which have yet to be explored. In this study, we investigate the structural, electronic, and thermoelectric properties of these materials and identify a number of key structure–property relationships governing their performance. In the process, we demonstrate a link between the relative electronegativities of the building components and the resultant geometric structures. Furthermore, we provide insights aimed toward alleviating concerns associated with parity forbidden transitions which plague many double perovskite systems. In addition, we identify a number of two-dimensional double perovskites including the mixed-oxidation state In25Tl75Cl-based system which displays optically active transitions as low as 1.41 eV across the Brillouin zone and indicators pointing toward stable experimental synthesis.    
+
+    
+
+## Synergistic Effects of Carbon Vacancies in Conjunction with Phosphorus Dopant across Bilayer Graphene for the Enhanced Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4393318016    
+Open access: True
+    
+[Huimin Hu](https://openalex.org/A5002884832), [Jin Ho Choi](https://openalex.org/A5002893034), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c00495 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c00495)).
+    
+Bilayer graphene (BLG) exhibits distinct physical properties under external influences, such as torsion and structural defects, setting it apart from monolayer graphene. In this study, we explore the synergistic effects of carbon vacancies, in conjunction with phosphorus dopants, across BLG, focusing on their impact on structural, magnetic, electrical, and hydrogen adsorption properties. Our findings reveal that the substitutional doping of a phosphorus atom into a single carbon vacancy in a graphene layer induces substantial structural distortion in BLG. In contrast, doping phosphorus into a double vacancy maintains the flat structure of graphene layers. These distinct layer structures affect the electron distribution and spin arrangement, leading to varied electronic configurations and intriguing magnetic behaviors. Furthermore, the presence of abundant unsaturated electrons around the vacancy promotes the capture and bonding of hydrogen atoms. Hydrogen adsorption on BLG results in substantial orbital hybridization, accompanied by significant charge transfer. The calculated Gibbs free energies for hydrogen adsorption on BLG range from −0.08 to 0.09 eV, indicating exceptional catalytic activity for the hydrogen evolution reaction. These findings carry implications for optimizing the properties of graphene layers, making them highly desirable for applications such as catalysis.    
+
+    
+
+## Synergistic effects of Fe and P doping in WS2 monolayers for enhanced bifunctional electrocatalysis in water splitting   
+
+OpenAlex: https://openalex.org/W4393332697    
+Open access: False
+    
+[Sampath Prabhakaran](https://openalex.org/A5069304290), [Getasew Mulualem Zewdie](https://openalex.org/A5035986760), [Hong Seok Kang](https://openalex.org/A5091814323), [Do Hwan Kim](https://openalex.org/A5022726594), International journal of hydrogen energy. 64(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.03.261.
+    
+The quest for efficient dual-purpose electrocatalysts to facilitate water splitting is an ongoing challenge in materials science. In this study, we introduce a novel approach involving the incorporation of Fe and P atoms into WS2 monolayers (MLs) through rigorous first-principle calculations. The introduction of Fe and P atoms brings about remarkable enhancements in the electronic properties of the WS2 MLs, significantly boosting the catalytic performance of the 1T' phase. The doping-induced changes in energy levels lead to the formation of a spin-polarized density of states, which exhibits superior conductivity in the vicinity of the d-band center and Fermi level. These electronic alterations are intricately governed by the valence and conduction bands. In addition to this, the introduced dopants elevate the charge transfer rate while simultaneously reducing interfacial resistance. Furthermore, the strong bonding of the dopants plays a pivotal role in reducing the energy barrier during adsorption. This, in turn, leads to a substantial decrease in the Gibbs free energy (0.101 eV) for the hydrogen evolution reaction and a lowered overpotential (0.36 V) for the oxygen evolution reaction. These findings collectively offer a promising avenue for the development of advanced bifunctional catalysts in the context of water splitting, suggesting that substitutional heteroatom doping of 1T′-WS2 MLs holds substantial potential in this field.    
+
+    
+
+## Pivotal role of Ce3+ polarons on promoting oxygen reduction reaction activity of Pt1/CeO2 catalysts   
+
+OpenAlex: https://openalex.org/W4393337631    
+Open access: False
+    
+[Yan Jiang](https://openalex.org/A5043623641), [Wei Xiao](https://openalex.org/A5088681199), [Rong Zeng](https://openalex.org/A5022169011), [Qi‐Jun Hong](https://openalex.org/A5091880910), [Xiaowu Li](https://openalex.org/A5037996268), [Ligen Wang](https://openalex.org/A5044413679), Journal of power sources (Print). 603(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.234393.
+    
+The Pt1/CeO2 single-atom catalyst excels across catalytic fields, promising applications in the oxygen reduction reactions (ORRs). Here, we employ first-principles calculations to systematically investigate the ORR mechanism catalyzed by Pt1/CeO2 systems and the activity regulated by Ce3+ polarons. We determine the reaction pathways of different Pt1/CeO2 systems by evaluating four critical factors: O2 adsorption energy, O2 dissociation Gibbs barrier, Gibbs free energy change for O2→OOH*, and H2O2 adsorption structure. Notably, most Pt1/CeO2 systems tend to react through the 4e− associative path. Theoretical activity calculations reveal that PtOH/CeO2(110) system show low overpotential of 0.47 V comparable to pure Pt. The excellent ORR activity is attributed to the synergistic mechanism of Pt and surrounding Ce3+ polarons, where the polaron regulation mechanism dominates the reaction. The quantity of Ce3+ polarons not only affects the reaction active sites but also regulates the radical adsorption state. With an elevated Ce3+ polarons concentration, the ORR overpotential in Pt1/CeO2 system can decrease from 0.47 to 0.16 V, leading to a substantial enhancement in activity. This work first underscores the crucial involvement of Ce3+ polarons in catalyzing the ORR, reducing the significance of Pt in catalysis, inspiring a new way to design active non-platinum electrocatalysts for ORR in experiments.    
+
+    
+
+## Photochemical reduction of ultrasmall Pt nanoparticles on single-layer transition-metal dichalcogenides for hydrogen evolution reactions   
+
+OpenAlex: https://openalex.org/W4393337653    
+Open access: False
+    
+[Liang Mei](https://openalex.org/A5078634153), [Yuefeng Zhang](https://openalex.org/A5021761346), [Ting Ying](https://openalex.org/A5076913576), [W. Zheng](https://openalex.org/A5064846706), [Honglu Hu](https://openalex.org/A5080338977), [Ruijie Yang](https://openalex.org/A5019215382), [Ruixin Yan](https://openalex.org/A5052445154), [Yue Zhang](https://openalex.org/A5033669929), [Chong Cheng](https://openalex.org/A5013162667), [Bilu Liu](https://openalex.org/A5068424935), [Shuang Li](https://openalex.org/A5061084605), [Zhiyuan Zeng](https://openalex.org/A5008306856), Materials today energy. 42(None)] 2024.https://doi.org/10.1016/j.mtener.2023.101487.
+    
+Single-layer TaS2 and TiS2 nanosheets were meticulously synthesized through an electrochemical lithium-intercalation-based exfoliation method. Subsequently, ultrasmall Pt nanoparticles, finely sized between 1.2 and 1.6 nm, were expertly deposited onto these monolayer nanosheets via an environmentally friendly photochemical reduction process. The resulted Pt-TaS2 and Pt-TiS2 composites exhibit hydrogen evolution reaction (HER) activity comparable with commercial Pt/C. Density functional theory calculations reveal that the introduced Pt (111) plane energetically promotes the adsorption of ∗H with an optimal ΔG value of 0.09 eV. Furthermore, these composite materials demonstrate outstanding cycle stability, far exceeding that of Pt/C. This compelling performance underscores the potential of Pt-TaS2 and Pt-TiS2 hybrids as promising alternatives for HER catalysts.    
+
+    
+
 ## Validation workflow for machine learning interatomic potentials for complex ceramics   
 
 OpenAlex: https://openalex.org/W4393373529    
@@ -307,6 +307,17 @@ Open access: True
 [Vitor V. Gama](https://openalex.org/A5045049555), [Beatriz Dantas](https://openalex.org/A5030044928), [Oishi Sanyal](https://openalex.org/A5069164780), [Fernando V. Lima](https://openalex.org/A5008955099), ACS Engineering Au. None(None)] 2024.https://doi.org/10.1021/acsengineeringau.3c00069 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsengineeringau.3c00069)).
     
 Addressing climate change constitutes one of the major scientific challenges of this century, and it is widely acknowledged that anthropogenic CO2 emissions largely contribute to this issue. To achieve the "net-zero" target and keep the rise in global average temperature below 1.5 °C, negative emission technologies must be developed and deployed at a large scale. This study investigates the feasibility of using membranes as direct air capture (DAC) technology to extract CO2 from atmospheric air to produce low-purity CO2. In this work, a two-stage hollow fiber membrane module process is designed and modeled using the AVEVA Process Simulation platform to produce a low-purity (≈5%) CO2 permeate stream. Such low-purity CO2 streams could have several possible applications such as algae growth, catalytic oxidation, and enhanced oil recovery. An operability analysis is performed by mapping a feasible range of input parameters, which include membrane surface area and membrane performance metrics, to an output set, which consists of CO2 purity, recovery, and net energy consumption. The base case for this simulation study is generated considering a facilitated transport membrane with high CO2/N2 separation performance (CO2 permeance = 2100 GPU and CO2/N2 selectivity = 1100), when tested under DAC conditions. With a constant membrane area, both membranes' intrinsic performances are found to have a considerable impact on the purity, recovery, and energy consumption. The area of the first module plays a dominant role in determining the recovery, purity, and energy demands, and in fact, increasing the area of the second membrane has a negative impact on the overall energy consumption, without improving the overall purities. The CO2 capture capacity of DAC units is important for implementation and scale-up. In this context, the performed analysis showed that the m-DAC process could be appropriate as a small-capacity system (0.1–1 Mt/year of air), with reasonable recoveries and overall purity. Finally, a preliminary CO2 emissions analysis is carried out for the membrane-based DAC process, which leads to the conclusion that the overall energy grid must be powered by renewable sources for the technology to qualify within the negative emissions category.    
+
+    
+
+## Electrolytic Regeneration of Spent Caustic Soda from CO2 Capture Systems   
+
+OpenAlex: https://openalex.org/W4393866132    
+Open access: True
+    
+[Hossein Mohammadpour](https://openalex.org/A5078777394), [Almantas Pivrikas](https://openalex.org/A5087653720), [Ka Yu Cheng](https://openalex.org/A5079888369), [G. E. Ho](https://openalex.org/A5040014301), Processes. 12(4)] 2024.https://doi.org/10.3390/pr12040723 ([pdf](https://www.mdpi.com/2227-9717/12/4/723/pdf?version=1712113727)).
+    
+The traditional electrochemical caustic soda recovery system uses the generated pH gradient across the ion exchange membrane for the regeneration of spent alkaline absorbent from CO2 capture. This electrochemical CO2 capture system releases the by-products H2 and O2 at the cathode and anode, respectively. Although effective for capturing CO2, the slow kinetics of the oxygen evolution reaction (OER) limit the energy efficiency of this technique. Hence, this study proposed and validated a hybrid electrochemical cell based on the H2-cycling from the cathode to the anode to eliminate the reliance on anodic oxygen generation. The results show that our lab-scale prototype enabled effective spent caustic soda recovery with an electron utilisation efficiency of 90%, and a relative carbonate/bicarbonate diffusional flux of approximately 40%. The system also enabled the regeneration of spent alkaline absorbent with a minimum electrochemical energy input of 0.19 kWh/kg CO2 at a CO2 recovery rate of 0.7 mol/m2/h, accounting for 30% lower energy demand than a control system without H2-recycling, making this technique a promising alternative to the conventional thermal regeneration technology.    
 
     
 

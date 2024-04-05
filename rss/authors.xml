@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:44:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -18,6 +18,16 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10501343</guid>
     </item>
     <item>
+      <title>DFT for Surface Segregation of Disordered FCC CuPdPt Alloys</title>
+      <link>https://doi.org/10.5281/zenodo.10501344</link>
+      <description>John R. Kitchin, Kirby Broderick, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024. https://openalex.org/W4393806444
+
+                Data are split into train (&lt;=35-atom slabs) and test (60-atom slabs) folders. Each folder contains a VASP calculation without the POTCAR. The slabs used are disordered AgAuCu, AuCuPd, or CuPdPt fcc alloys with a lattice constant set randomly between the largest and smallest experimental lattice constants of the constituent elements. The PBEsol functional is used with D3 dispersion corrections.</description>
+      <author>John R. Kitchin, Kirby Broderick</author>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10501344</guid>
+    </item>
+    <item>
       <title>WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions</title>
       <link>https://doi.org/10.5281/zenodo.7600475</link>
       <description>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393572051
@@ -26,6 +36,36 @@
       <author>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi</author>
       <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7600475</guid>
+    </item>
+    <item>
+      <title>WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions</title>
+      <link>https://doi.org/10.5281/zenodo.7600476</link>
+      <description>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393743107
+
+                This repository houses electronic structure data and metadata generated as part of a computational chemistry case study, enabling full analysis of the paper "WhereWulff: A semi-autonomous workflow for systematic catalyst surface reactivity under reaction conditions" by Rohan Yuri Sanspeur, Javier Heras-Domingo, John R. Kitchin and Zachary Ulissi.</description>
+      <author>Rohan Yuri Sanspeur, Javier Heras&#8208;Domingo, John R. Kitchin, Zachary W. Ulissi</author>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7600476</guid>
+    </item>
+    <item>
+      <title>Data and Code: Origin of the Stokes-Einstein Deviation in Liquid Al-Si</title>
+      <link>https://doi.org/10.5281/zenodo.5554967</link>
+      <description>Ni Zhan, John R. Kitchin, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393659833
+
+                The repository contains the data and code used in our work on "Origin of the Stokes-Einstein Deviation in Liquid Al-Si".</description>
+      <author>Ni Zhan, John R. Kitchin</author>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5554967</guid>
+    </item>
+    <item>
+      <title>Data and Code: Origin of the Stokes-Einstein Deviation in Liquid Al-Si</title>
+      <link>https://doi.org/10.5281/zenodo.5554968</link>
+      <description>Ni Zhan, John R. Kitchin, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393699121
+
+                The repository contains the data and code used in our work on "Origin of the Stokes-Einstein Deviation in Liquid Al-Si".</description>
+      <author>Ni Zhan, John R. Kitchin</author>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5554968</guid>
     </item>
   </channel>
 </rss>

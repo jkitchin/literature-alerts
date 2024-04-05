@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Apr 2024 00:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 00:45:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -98,6 +98,36 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adma.202401221</guid>
     </item>
     <item>
+      <title>Recent advances and perspectives in carbon nanotube production from the electrochemical conversion of carbon dioxide</title>
+      <link>https://doi.org/10.1016/j.jcou.2024.102745</link>
+      <description>I Ketut Rai Asmara Dipta, Chan Woo Lee, Journal of CO2 utilization (Print). 82(None)] 2024. https://openalex.org/W4393854161
+
+                No abstract</description>
+      <author>I Ketut Rai Asmara Dipta, Chan Woo Lee</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102745</guid>
+    </item>
+    <item>
+      <title>Data from: Role of mass transport in electrochemical carbon dioxide reduction to methanol using immobilized cobalt phthalocyanine</title>
+      <link>https://doi.org/10.5281/zenodo.10251835</link>
+      <description>Thomas Chan, Calton Kong, Alex J. King, Rajiv Prabhakar, Finn Babbe, Clifford P. Kubiak, Joel W. Ager, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393669259
+
+                Cell files.zip .dwg files of the pocket for the cathode and anode chamber. .dwg files of the gasket design Experimental data.zip (&gt;60 experiments) Chronoamperometry data Each experiment has a mpr and txt file. The .mpr file can be read by EC-lab software, while the txt file has the raw data. H-NMR data Each experiment has its own folder, then another folder with the experiment number. Within that experiment number folder is .fid file needed to view the H-NMR data. Gas Chromatography data Each experiment has its own folder. the files can be opened using SRI proprietary software. There are also .log files which contain the results of each experiment as the raw data.</description>
+      <author>Thomas Chan, Calton Kong, Alex J. King, Rajiv Prabhakar, Finn Babbe, Clifford P. Kubiak, Joel W. Ager</author>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10251835</guid>
+    </item>
+    <item>
+      <title>Data from: Role of mass transport in electrochemical carbon dioxide reduction to methanol using immobilized cobalt phthalocyanine</title>
+      <link>https://doi.org/10.5281/zenodo.10251836</link>
+      <description>Thomas Chan, Calton Kong, Alex J. King, Rajiv Prabhakar, Finn Babbe, Clifford P. Kubiak, Joel W. Ager, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393724552
+
+                Cell files.zip .dwg files of the pocket for the cathode and anode chamber. .dwg files of the gasket design Experimental data.zip (&gt;60 experiments) Chronoamperometry data Each experiment has a mpr and txt file. The .mpr file can be read by EC-lab software, while the txt file has the raw data. H-NMR data Each experiment has its own folder, then another folder with the experiment number. Within that experiment number folder is .fid file needed to view the H-NMR data. Gas Chromatography data Each experiment has its own folder. the files can be opened using SRI proprietary software. There are also .log files which contain the results of each experiment as the raw data.</description>
+      <author>Thomas Chan, Calton Kong, Alex J. King, Rajiv Prabhakar, Finn Babbe, Clifford P. Kubiak, Joel W. Ager</author>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10251836</guid>
+    </item>
+    <item>
       <title>Photo-electrochemical reduction of Water and Carbon Dioxide enhanced by molecular catalysis</title>
       <link>https://openalex.org/W4393407690</link>
       <description>A. Villagra, HAL (Le Centre pour la Communication Scientifique Directe). None(None)] 2016. https://openalex.org/W4393407690
@@ -106,6 +136,16 @@
       <author>A. Villagra</author>
       <pubDate>Wed, 28 Sep 2016 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://openalex.org/W4393407690</guid>
+    </item>
+    <item>
+      <title>Selective electrocatalytic reduction of carbon dioxide on gas diffusion electrodes</title>
+      <link>https://openalex.org/W4393712356</link>
+      <description>Ziad Bitar, No host. None(None)] 2014. https://openalex.org/W4393712356
+
+                No abstract</description>
+      <author>Ziad Bitar</author>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393712356</guid>
     </item>
     <item>
       <title>Synthesis, study and characterization of new molecular catalysts for reduction of carbon dioxide with a view to use it as a carbon source.</title>
@@ -138,6 +178,36 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.1183429</guid>
     </item>
     <item>
+      <title>Data from: Operando Proton Transfer Reaction-Time of Flight-Mass Spectrometry of Carbon Dioxide Reduction Electrocatalysis</title>
+      <link>https://doi.org/10.5281/zenodo.7047052</link>
+      <description>Hangjuan Ren, Mikhail Kovalev, Zhaoyue Weng, Marsha Zakir Muhamad, Yuan Sheng, Libo Sun, J. Wang, Simon Rihm, Hongyang Ma, Wanfeng Yang, Alexei A. Lapkin, Joel W. Ager, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393616536
+
+                Seven top-level folders GC-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of GC-PTR-TOF-MS data LSV-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of PTR-TOF-MS data under linear sweep voltammetry MSCP-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of PTR-TOF-MS data under multi-step chronopotentiometry PTR-TOF-MS-Calibration - Raw data and Jupyter Notebook used for analysis of PTR-TOF-MS calibration data SEM - Raw images from scanning electron microscope Stability - Raw data of electrochemical stability TEM - Raw images from transmission electron microscopy</description>
+      <author>Hangjuan Ren, Mikhail Kovalev, Zhaoyue Weng, Marsha Zakir Muhamad, Yuan Sheng, Libo Sun, J. Wang, Simon Rihm, Hongyang Ma, Wanfeng Yang, Alexei A. Lapkin, Joel W. Ager</author>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7047052</guid>
+    </item>
+    <item>
+      <title>Data from: Operando Proton Transfer Reaction-Time of Flight-Mass Spectrometry of Carbon Dioxide Reduction Electrocatalysis</title>
+      <link>https://doi.org/10.5281/zenodo.6419994</link>
+      <description>Hangjuan Ren, Mikhail Kovalev, Zhaoyue Weng, Marsha Zakir Muhamad, Yuan Sheng, Libo Sun, J. Wang, Simon Rihm, Hongyang Ma, Wanfeng Yang, Alexei A. Lapkin, Joel W. Ager, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393769430
+
+                GC-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of Cu-1 at 0.8 and 1.0 ampere per square centimeter LSV-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of Cu-1 and Cu-2 under linear sweep voltammetry MSCP-PTR-TOF-MS - Raw data and Jupyter Notebook used for analysis of Cu-1 and Ni-doped Cu-1 under multi-step chronopotentiometry SEM - Raw images from scanning electron microscope Stability - Electrochemical stability TEM - Raw images from transmission electron microscopy</description>
+      <author>Hangjuan Ren, Mikhail Kovalev, Zhaoyue Weng, Marsha Zakir Muhamad, Yuan Sheng, Libo Sun, J. Wang, Simon Rihm, Hongyang Ma, Wanfeng Yang, Alexei A. Lapkin, Joel W. Ager</author>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6419994</guid>
+    </item>
+    <item>
+      <title>Solvation Procedures Assessment of Borohydride Reduction of Carbon Dioxide</title>
+      <link>https://doi.org/10.5281/zenodo.4323457</link>
+      <description>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393887620
+
+                Pathways, structures, gas-phase and solvation energies of aqueous borohydride reduction of carbon dioxide. Contents data Computational chemistry output files for gas-phase electronic energies, solvation energies, and QM/MM MD simulations are provided. They are organized by the method used to seek the reaction pathway. neb: contains computations involved with the g-SSNEB pathway from Groenenboom and Keith. gsm: contains computations either in preparation or execution of growing string method (GSM) calculations. The lego module of ABCluster was used to generate candidate starting structures. other: contains miscellaneous computations for additional analyses. scripts: contains all Python code used to generate Chemical JSON and CSV files. qmmm: contains GAMESS QM/MM MD trajectories and WHAM analyses. figures Contains Python scripts and figures made with matplotlib. Python files are named according to the data they use; for example, figure-neb.py is the code for figures that plot the various g-SSNEB pathways. Figures are organized according to where they appear: directly in the article (article/) or as supplemental information (si/). structures XYZ files relevant to this study organized by the chain-of-states method.</description>
+      <author>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith</author>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.4323457</guid>
+    </item>
+    <item>
       <title>Solvation Procedures Assessment of Borohydride Reduction of Carbon Dioxide</title>
       <link>https://doi.org/10.5281/zenodo.4336730</link>
       <description>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393426326
@@ -146,6 +216,46 @@
       <author>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith</author>
       <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.4336730</guid>
+    </item>
+    <item>
+      <title>Solvation Procedures Assessment of Borohydride Reduction of Carbon Dioxide</title>
+      <link>https://doi.org/10.5281/zenodo.4323456</link>
+      <description>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393895013
+
+                Pathways, structures, gas-phase and solvation energies of aqueous borohydride reduction of carbon dioxide. Contents data Computational chemistry output files for gas-phase electronic energies, solvation energies, and QM/MM MD simulations are provided. They are organized by the method used to seek the reaction pathway. neb: contains computations involved with the g-SSNEB pathway from Groenenboom and Keith. gsm: contains computations either in preparation or execution of growing string method (GSM) calculations. The lego module of ABCluster was used to generate candidate starting structures. other: contains miscellaneous computations for additional analyses. scripts: contains all Python code used to generate Chemical JSON and CSV files. qmmm: contains GAMESS QM/MM MD trajectories and WHAM analyses. Note: the QM/MM MD data is in the zip with the "qmmm" suffix. Everything else is in the other zip. figures Contains Python scripts and figures made with matplotlib. Python files are named according to the data they use; for example, figure-neb.py is the code for figures that plot the various g-SSNEB pathways. Figures are organized according to where they appear: directly in the article (article/) or as supplemental information (si/). structures XYZ files relevant to this study organized by the chain-of-states method.</description>
+      <author>Alex M. Maldonado, Satoshi Hagiwara, Tae Hoon Choi, Frank Eckert, Kathleen Schwarz, Ravishankar Sundararaman, Minoru Otani, John A. Keith</author>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.4323456</guid>
+    </item>
+    <item>
+      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
+      <link>https://doi.org/10.5281/zenodo.10069468</link>
+      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
+
+                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
+      <author>Hongxing He</author>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
+    </item>
+    <item>
+      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
+      <link>https://doi.org/10.5281/zenodo.10069469</link>
+      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393709502
+
+                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
+      <author>Hongxing He</author>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069469</guid>
+    </item>
+    <item>
+      <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
+      <link>https://doi.org/10.5281/zenodo.7295464</link>
+      <description>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393810733
+
+                RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J</description>
+      <author>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti</author>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7295464</guid>
     </item>
     <item>
       <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
@@ -178,6 +288,36 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3995020</guid>
     </item>
     <item>
+      <title>Raw data for the journal article "Cracks as efficient tools to mitigate flooding in gas diffusion electrodes used for the electrochemical reduction of carbon dioxide"</title>
+      <link>https://doi.org/10.5281/zenodo.6421141</link>
+      <description>Ying Kong, Menglong Liu, Huifang Hu, Yuhui Hou, Soma Vesztergom, Mar&#237;a de Jes&#250;s G&#225;lvez&#8208;V&#225;zquez, Ivan Montiel, Viliam Kolivo&#353;ka, Peter Broekmann, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393675517
+
+                This data set corresponds to the article by Kong et al. entitled "Cracks as efficient tools to mitigate flooding in gas diffusion electrodes used for the electrochemical reduction of carbon dioxide", published in Small Methods</description>
+      <author>Ying Kong, Menglong Liu, Huifang Hu, Yuhui Hou, Soma Vesztergom, Mar&#237;a de Jes&#250;s G&#225;lvez&#8208;V&#225;zquez, Ivan Montiel, Viliam Kolivo&#353;ka, Peter Broekmann</author>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6421141</guid>
+    </item>
+    <item>
+      <title>Raw data for the journal article "Cracks as efficient tools to mitigate flooding in gas diffusion electrodes used for the electrochemical reduction of carbon dioxide"</title>
+      <link>https://doi.org/10.5281/zenodo.6421142</link>
+      <description>Ying Kong, Menglong Liu, Huifang Hu, Yuhui Hou, Soma Vesztergom, Mar&#237;a de Jes&#250;s G&#225;lvez&#8208;V&#225;zquez, Ivan Montiel, Viliam Kolivo&#353;ka, Peter Broekmann, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393699209
+
+                This data set corresponds to the article by Kong et al. entitled "Cracks as efficient tools to mitigate flooding in gas diffusion electrodes used for the electrochemical reduction of carbon dioxide", published in Small Methods</description>
+      <author>Ying Kong, Menglong Liu, Huifang Hu, Yuhui Hou, Soma Vesztergom, Mar&#237;a de Jes&#250;s G&#225;lvez&#8208;V&#225;zquez, Ivan Montiel, Viliam Kolivo&#353;ka, Peter Broekmann</author>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6421142</guid>
+    </item>
+    <item>
+      <title>Dataset to "Hydride Formation Diminishes CO2 Reduction Rate on Palladium"</title>
+      <link>https://doi.org/10.5281/zenodo.6828104</link>
+      <description>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://openalex.org/W4393873967
+
+                Dataset to "Hydride Formation Diminishes CO2 Reduction Rate on Palladium" as published in ChemPhysChem, 20 (2019), 1398-1403</description>
+      <author>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte</author>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6828104</guid>
+    </item>
+    <item>
       <title>Dataset to "Hydride Formation Diminishes CO2 Reduction Rate on Palladium"</title>
       <link>https://doi.org/10.5281/zenodo.6828103</link>
       <description>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://openalex.org/W4393474634
@@ -186,106 +326,6 @@
       <author>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte</author>
       <pubDate>Tue, 18 Dec 2018 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6828103</guid>
-    </item>
-    <item>
-      <title>Reduction of Cofed Carbon Dioxide Modifies the Local Coordination Environment of Zeolite-Supported, Atomically Dispersed Chromium to Promote Ethane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/jacs.4c00995</link>
-      <description>Wenqi Zhou, Noah Felvey, Jiawei Guo, Adam S. Hoffman, Simon R. Bare, Ambarish Kulkarni, Ron C. Runnebaum, Coleman X. Kronawitter, Journal of the American Chemical Society (Print). None(None)] 2024. https://openalex.org/W4393308679
-
-                The reduction of CO2 is known to promote increased alkene yields from alkane dehydrogenations when the reactions are cocatalyzed. The mechanism of this promotion is not understood in the context of catalyst active-site environments because CO2 is amphoteric, and even general aspects of the chemistry, including the significance of competing side reactions, differ significantly across catalysts. Atomically dispersed chromium cations stabilized in highly siliceous MFI zeolite are shown here to enable the study of the role of parallel CO2 reduction during ethylene-selective ethane dehydrogenation. Based on infrared spectroscopy and X-ray absorption spectroscopy data interpreted through calculations using density functional theory (DFT), the synthesized catalyst contains atomically dispersed Cr cations stabilized by silanol nests in micropores. Reactor studies show that cofeeding CO2 increases stable ethylene-selective ethane dehydrogenation rates over a wide range of partial pressures. Operando X-ray absorption near-edge structure (XANES) and extended X-ray absorption fine-structure (EXAFS) spectra indicate that during reaction at 650 &#176;C the Cr cations maintain a nominal 2+ charge and a total Cr&#8211;O coordination number of approximately 2. However, CO2 reduction induces a change, correlated with the CO2 partial pressure, in the population of two distinct Cr&#8211;O scattering paths. This indicates that the promotional effect of parallel CO2 reduction can be attributed to a subtle change in Cr&#8211;O bond lengths in the local coordination environment of the active site. These insights are made possible by simultaneously fitting multiple EXAFS spectra recorded in different reaction conditions; this novel procedure is expected to be generally applicable for interpreting operando catalysis EXAFS data.</description>
-      <author>Wenqi Zhou, Noah Felvey, Jiawei Guo, Adam S. Hoffman, Simon R. Bare, Ambarish Kulkarni, Ron C. Runnebaum, Coleman X. Kronawitter</author>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c00995</guid>
-    </item>
-    <item>
-      <title>Electrocatalytic Co2 Reduction Catalyzed By Nitrogenase Mofe And Fefe Proteins</title>
-      <link>https://doi.org/10.5281/zenodo.1078505</link>
-      <description>Bo Hu, Derek F. Harris, Dennis R. Dean, Tianbiao Liu, Zhi Yong Yang, Lance C. Seefeldt, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017. https://openalex.org/W4393434443
-
-                Source data for figures 2 and 3 of publication in Bioelectrochemistry (DOI: 10.1016/j.bioelechem.2017.12.002). Data is in comma delimited format.</description>
-      <author>Bo Hu, Derek F. Harris, Dennis R. Dean, Tianbiao Liu, Zhi Yong Yang, Lance C. Seefeldt</author>
-      <pubDate>Mon, 04 Dec 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.1078505</guid>
-    </item>
-    <item>
-      <title>Theoretical Prediction Leads to Synthesize GDY Supported InOx Quantum Dots for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/ange.202318080</link>
-      <description>Feng He, Xi Chen, Yurui Xue, Yuliang Li, Angewandte Chemie (Print). None(None)] 2024. https://openalex.org/W4393314672
-
-                The preparation of formic acid by direct reduction of carbon dioxide is an important basis for the future chemical industry and is of great significance. Due to the serious shortage of highly active and selective electrocatalysts leading to the development of direct reduction of carbon dioxide is limited. Herein the target catalysts with high CO2RR activity and selectivity were identified by integrating DFT calculations and high&#8208;throughput screening and by using graphdiyne (GDY) supported metal oxides quantum dots (QDs) as the ideal model. It is theoretically predicted that GDY supported indium oxide QDs (i.e., InOx/GDY) is a new heterostructure electrocatalyst candidate with optimal CO2RR performance. The interfacial electronic strong interactions effectively regulate the surface charge distribution of QDs and affect the adsorption/desorption behavior of HCOO* intermediate during CO2RR to achieve highly efficient CO2 conversion. Based on the predicted composition and structure, we synthesized the advanced catalytic system, and demonstrates superior CO2&#8208;to&#8208;HCOOH conversion performance. The study presents an effective strategy for rational design of highly efficient heterostructure electrocatalysts to promote green chemical production.</description>
-      <author>Feng He, Xi Chen, Yurui Xue, Yuliang Li</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202318080</guid>
-    </item>
-    <item>
-      <title>Theoretical Prediction Leads to Synthesize GDY Supported InOx Quantum Dots for CO2 Reduction</title>
-      <link>https://doi.org/10.1002/anie.202318080</link>
-      <description>Feng He, Xi Chen, Yurui Xue, Yuliang Li, Angewandte Chemie (International ed. Print). None(None)] 2024. https://openalex.org/W4393314720
-
-                The preparation of formic acid by direct reduction of carbon dioxide is an important basis for the future chemical industry and is of great significance. Due to the serious shortage of highly active and selective electrocatalysts leading to the development of direct reduction of carbon dioxide is limited. Herein the target catalysts with high CO2RR activity and selectivity were identified by integrating DFT calculations and high&#8208;throughput screening and by using graphdiyne (GDY) supported metal oxides quantum dots (QDs) as the ideal model. It is theoretically predicted that GDY supported indium oxide QDs (i.e., InOx/GDY) is a new heterostructure electrocatalyst candidate with optimal CO2RR performance. The interfacial electronic strong interactions effectively regulate the surface charge distribution of QDs and affect the adsorption/desorption behavior of HCOO* intermediate during CO2RR to achieve highly efficient CO2 conversion. Based on the predicted composition and structure, we synthesized the advanced catalytic system, and demonstrates superior CO2&#8208;to&#8208;HCOOH conversion performance. The study presents an effective strategy for rational design of highly efficient heterostructure electrocatalysts to promote green chemical production.</description>
-      <author>Feng He, Xi Chen, Yurui Xue, Yuliang Li</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202318080</guid>
-    </item>
-    <item>
-      <title>Hydrogen in aviation: A simulation of demand, price dynamics, and CO2 emission reduction potentials</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.241</link>
-      <description>Katrin Oesingmann, Wolfgang Grimme, Janina Scheelhaase, International journal of hydrogen energy. 64(None)] 2024. https://openalex.org/W4393349720
-
-                Aviation contributes to anthropogenic climate change by emitting both carbon dioxide (CO2) and non-CO2 emissions through the combustion of fossil fuels. One approach to reduce the climate impact of aviation is the use of hydrogen as an alternative fuel. Two distinct technological options are presently under consideration for the implementation of hydrogen in aviation: hydrogen fuel cell architectures and the direct combustion of hydrogen. In this study, a hydrogen demand model is developed that considers anticipated advancements in liquid hydrogen aircraft technologies, forecasted aviation demand, and aircraft startup and retirement cycles. The analysis indicates that global demand for liquid hydrogen in aviation could potentially reach 17 million tons by 2050, leading to a 9% reduction in CO2 emissions from global aviation. Thus, the total potential of hydrogen in aviation extends beyond this, considering that the total market share of hydrogen aircraft on suitable routes in the model is projected to be only 27% in 2050 due to aircraft retirement cycles. Additionally, it is shown, that achieving the potential demand for hydrogen in aviation depends on specific market prices. With anticipated declines in current production costs, hydrogen fuel costs would need to reach about 70 EUR/MWh by 2050 to fulfill full demand in aviation, assuming biofuels provide the cheapest option for decarbonization alongside hydrogen. If e-fuels are the sole option for decarbonization alongside hydrogen, which is the more probable scenario, the entire hydrogen demand potential in aviation would be satisfied according to this study's estimates at significantly higher hydrogen prices, approximately 180 EUR/MWh.</description>
-      <author>Katrin Oesingmann, Wolfgang Grimme, Janina Scheelhaase</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.241</guid>
-    </item>
-    <item>
-      <title>Structure Dependence of CO2 Reduction Electrocatalyzed by Metal-Nanographene Complexes: A Computational Study</title>
-      <link>https://doi.org/10.5281/zenodo.8245274</link>
-      <description>Sruthy K. Chandy, Scott Bowers, Krishnan Raghavachari, Liang-shi Li, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393426271
-
-                Data files related to the manuscript titled 'Structure Dependence of CO2 Reduction Electrocatalyzed by Metal-Nanographene Complexes: A Computational Study,' in 'Journal of Physical Chemistry A'</description>
-      <author>Sruthy K. Chandy, Scott Bowers, Krishnan Raghavachari, Liang-shi Li</author>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8245274</guid>
-    </item>
-    <item>
-      <title>Structure Dependence of CO2 Reduction Electrocatalyzed by Metal-Nanographene Complexes: A Computational Study</title>
-      <link>https://doi.org/10.5281/zenodo.8245275</link>
-      <description>Sruthy K. Chandy, Scott Bowers, Krishnan Raghavachari, Liang-shi Li, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393600029
-
-                Data files related to the manuscript titled 'Structure Dependence of CO2 Reduction Electrocatalyzed by Metal-Nanographene Complexes: A Computational Study,' in 'Journal of Physical Chemistry A'</description>
-      <author>Sruthy K. Chandy, Scott Bowers, Krishnan Raghavachari, Liang-shi Li</author>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8245275</guid>
-    </item>
-    <item>
-      <title>Experimental study and equilibrium analysis on thermal reduction of CO2 by CFB gasification</title>
-      <link>https://doi.org/10.1016/j.joei.2024.101623</link>
-      <description>Siyuan Zhang, Chen Liang, Xiaofang Wang, Zhengwang Zhu, Journal of the Energy Institute (Print). None(None)] 2024. https://openalex.org/W4393281964
-
-                CO2 can be involved in the CFB gasification process as one of the gasifying agents and be reduced to CO. In this paper, the feasibility of using CFB gasification process to reduce CO2 was investigated by using a bench-scale CFB gasifier. The effect of gasifying agent parameters including the CO2 substitution for N2, the O2 concentration and O2/C were studied. The result of experiments was compared with the chemical equilibrium calculations. The experimental result shows that the reduction of CO2 can be realized in CFB gasification, and the yield of CO in O2/CO2 atmosphere is higher than that that in air atmosphere. When the O2 concentration is 30%, the CO2 conversion reached the maximum of 0.017 Nm3(CO2)/kg(coal). However, the conversion of CO2 is limited by temperature and char reactivity at higher CO2 concentration. The gradual increase in CO2 yield with increasing O2/C suggests that at approximate temperature, the increase in O2/C enhances the oxidation of C and CO. When O2/C is greater than 0.45, the gasification results reach equilibrium. Under other conditions, the gasification results differ from the chemical equilibrium significantly. This is due to the change in the dominant reaction of the gasification process from the combustion reactions to the Boudouard reaction.</description>
-      <author>Siyuan Zhang, Chen Liang, Xiaofang Wang, Zhengwang Zhu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.joei.2024.101623</guid>
-    </item>
-    <item>
-      <title>Computational data for "On the role of metal cations in CO2 electrocatalytic reduction"</title>
-      <link>https://doi.org/10.5281/zenodo.7122466</link>
-      <description>Duy Le, Talat S. Rahman, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393553651
-
-                This dataset is used for the analysis published in D. Le and T.S. Rahman, "On the role of metal cations in CO2 electroreduction reduction," Nature Catalysis (2022). DOI:10.1038/s41929-022-00876-2</description>
-      <author>Duy Le, Talat S. Rahman</author>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7122466</guid>
-    </item>
-    <item>
-      <title>Dataset: Bioelectrocatalytic CO2 Reduction by Mo-Dependent Formylmethanofuran Dehydrogenase</title>
-      <link>https://doi.org/10.5281/zenodo.8250712</link>
-      <description>Selmihan &#350;ahin, Olivier N. Lemaire, M&#233;lissa Belhamri, Julia M. Kurth, Cornelia U. Welte, Tristan Wagner, Ross D. Milton, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393508513
-
-                Supporting information for article https://doi.org/10.1002/anie.202311981</description>
-      <author>Selmihan &#350;ahin, Olivier N. Lemaire, M&#233;lissa Belhamri, Julia M. Kurth, Cornelia U. Welte, Tristan Wagner, Ross D. Milton</author>
-      <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8250712</guid>
     </item>
   </channel>
 </rss>

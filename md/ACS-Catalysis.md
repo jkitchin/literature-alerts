@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Apr  4 00:46:10 2024
+Created on Fri Apr  5 00:45:03 2024
 
-Found 25 results from 2024-03-28 to 2024-04-04
+Found 25 results from 2024-03-29 to 2024-04-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Keep the Ligands: Potential Benefits for Fuel Cell Performance   
-
-OpenAlex: https://openalex.org/W4393220540    
-Open access: False
-    
-[Andrés Molina Villarino](https://openalex.org/A5021423945), [Jonathan L. Rowell](https://openalex.org/A5065755632), [Dasol Yoon](https://openalex.org/A5027510746), [Li Xiao](https://openalex.org/A5062716145), [Yunyi Jia](https://openalex.org/A5061811357), [Zixiao Shi](https://openalex.org/A5029671045), [Joesene Soto](https://openalex.org/A5033981532), [Julia Koldobskiy](https://openalex.org/A5094257249), [David A. Muller](https://openalex.org/A5042016235), [Richard D. Robinson](https://openalex.org/A5013115261), [Héctor D. Abruña](https://openalex.org/A5042053197), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06298.
-    
-No abstract    
-
-    
-
-## Polystyrene Hydrogenolysis to High-Quality Lubricants Using Ni/SiO2   
-
-OpenAlex: https://openalex.org/W4393232044    
-Open access: False
-    
-[Brandon C. Vance](https://openalex.org/A5027076305), [Sean Najmi](https://openalex.org/A5090561307), [Dionisios G. Vlachos](https://openalex.org/A5066110304), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05900.
-    
-Pyrolytic and light-activated oxidation processes are leading technologies for utilizing polystyrene (PS) wastes. These approaches exhibit poor selectivities, use complex reactors, and require solvents. Hydrogenolysis is effective for deconstructing polyolefins, but its application to PS feedstocks has been limited. Herein, we demonstrate Ni/SiO2 catalysts to facilitate PS (Mw ≈ 97 kDa) hydrogenolysis to produce lubricant base oils possessing group IV properties, achieving maximum yields of 70% within 6 h at 300 °C and 70 bar of H2. Gas, liquid, and oil product yields are stable across reaction conditions, whereas hydrogenation of the PS aromaticity and reduction of the molecular weight benefit from higher temperatures and H2 pressures. Time-dependent experiments underscore the importance of elevated H2 pressure, revealing that PS hydrogenolysis occurs sequentially, with aromatic ring hydrogenation preceding degradation of the C–C backbone. Kinetic measurements with 1,2-diphenylethane as a probe molecule demonstrate that ring hydrogenation pis 3 orders of magnitude faster than internal C–C bond cleavage over Ni/SiO2. Ni/SiO2 proves to be effective in the hydrogenolysis of heavier PS polymers and rigid commercial PS products. Conversely, flexibility and foam PS feeds result in Ni/SiO2 deactivation, attributed to performance additives. Unlike polyolefins, the process produces very little methane and other light hydrocarbons. These findings expand the applicability of hydrogenolysis to PS feedstocks, offering a versatile solution and broadening the range of high-value products from PS to include lubricant base oils.    
-
-    
-
-## Tailoring Hydrogen Evolution Performance: Size and Phase Engineering of Ruthenium Nanoparticles   
-
-OpenAlex: https://openalex.org/W4393233907    
-Open access: False
-    
-[Chi-Kai Hung](https://openalex.org/A5063987951), [Antony R. Thiruppathi](https://openalex.org/A5013583666), [Nicholas Burns](https://openalex.org/A5058583659), [Cameron McGuire](https://openalex.org/A5030598553), [Jonathan Quintal](https://openalex.org/A5078666039), [Dazhi Jiang](https://openalex.org/A5085194936), [S. Kycia](https://openalex.org/A5081413879), [Aicheng Chen](https://openalex.org/A5021802673), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00368.
-    
-Ruthenium-based nanomaterials have seen increased interest as an alternative to platinum electrocatalysts for the hydrogen evolution reaction (HER). In this study, ruthenium nanoparticles supported on a graphene-based composite consisting of expanded graphite and reduced graphene oxide were successfully prepared by using a one-step thermal method. The nanocomposite was optimized for alkaline HER performance by varying the expanded graphite content and annealing temperature, exhibiting an overpotential of 54 mV to achieve 10 mA cm–2, outperforming the benchmark 20% Pt/C. Through surface characterization of the nanocomposite, the high electrocatalytic activity and stability were found to originate from the interconnected microstructure, optimized porosity, tuned Ru particle size, and homogeneous particle dispersion, revealing the key roles of each component. Using X-ray absorption and X-ray total scattering techniques, the electrochemical performance of the nanocomposite was found to depend on a balance between the size and quality of the ruthenium nanoparticles. The catalyst design principles demonstrated in this work can be applied to streamline and simplify the processes used to develop advanced HER electrocatalysts and other energy storage and conversion materials.    
-
-    
-
-## Understanding pH-Dependent Oxygen Reduction Reaction on Metal Alloy Catalysts   
-
-OpenAlex: https://openalex.org/W4393234212    
-Open access: False
-    
-[Xinnan Mao](https://openalex.org/A5003725369), [Lu Wang](https://openalex.org/A5026705378), [Youyong Li](https://openalex.org/A5035944985), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00461.
-    
-Exploring low-cost and high-efficiency catalysts for oxygen reduction reaction (ORR) kinetics in both acidic and alkaline environments could dramatically improve the efficiency of hydrogen fuel cells and their industrial applications. During the electrochemical process, the effect of pH is a complicating factor and is of great importance in identifying high-efficiency electrocatalysts. In this work, we conducted systematic computations to gain a deep understanding of the pH-dependent ORR activity on Pt, Pd, and their near-surface alloys (NSAs). The effects of pH were calculated by employing the double-reference method, and our calculated pH-dependent current densities are in good agreement with the experimental results. High-throughput calculations identified a series of NSA catalysts with superior ORR performance under acidic or alkaline conditions, and we have developed a pH-corrected theoretical model to efficiently estimate the ORR activity on metal catalysts. This work underscores the importance of considering pH effects when evaluating ORR activity from calculations and provides a strategy for designing superior ORR electrocatalysts in acidic and alkaline solutions.    
-
-    
 
 ## Multiscale Investigation of the Mechanism and Selectivity of CO2 Hydrogenation over Rh(111)   
 
@@ -127,17 +83,6 @@ Formulating a quantitative relationship between the extent of electron transfer 
 
     
 
-## Molecular Engineering of Electrocatalytic Nanomaterials for Hydrogen Evolution: The Impact of Structural and Electronic Modifications of Anchoring Linkers on Electrocatalysis   
-
-OpenAlex: https://openalex.org/W4393305578    
-Open access: False
-    
-[Andrew J. Bagnall](https://openalex.org/A5068400290), [Matthieu Haake](https://openalex.org/A5092760919), [Sergi Grau](https://openalex.org/A5071474652), [Tatiana Straistari](https://openalex.org/A5025011392), [Matthieu Koepf](https://openalex.org/A5008192334), [Navid Jameei Moghaddam](https://openalex.org/A5008669299), [Carolina Gimbert‐Suriñach](https://openalex.org/A5027825269), [Jordi Benet‐Buchholz](https://openalex.org/A5003571345), [Antoni Llobet](https://openalex.org/A5005120127), [Murielle Chavarot‐Kerlidou](https://openalex.org/A5009538487), [Bertrand Reuillard](https://openalex.org/A5020577271), [Vincent Artero](https://openalex.org/A5047933845), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00336.
-    
-The anticipated shortage of an increasing number of critical elements, especially metals, requires a shift toward molecularly defined materials with low metal loadings. More particularly, surface-anchored molecular catalysts are attractive to prospectively enable cost-effective electrochemical hydrogen evolution. However, the design of ligands integrating specific anchoring unit(s) for the immobilization of molecular catalysts can be challenging and has direct consequences for the intrinsic properties of the grafted complex. In this work, two cobalt tetraazamacrocyclic complexes bearing pyrene anchoring groups at different positions on the macrocyclic ligands were synthesized. The pyrene unit allows for simple immobilization and electrochemical characterization of the two complexes on multi-walled carbon nanotube-based electrodes. Thorough electrochemical and electrocatalytic investigation demonstrates important differences between the two closely related catalysts in terms of catalyst loading, catalytic response, and stability over time, with a significantly higher stability observed at pH 7 than at pH 2.    
-
-    
-
 ## Axially Chiral Copper Catalyst for Asymmetric Synthesis of Valuable Diversely Substituted BINOLs   
 
 OpenAlex: https://openalex.org/W4393308838    
@@ -146,17 +91,6 @@ Open access: False
 [Jun Gao](https://openalex.org/A5086976460), [P.L. Wang](https://openalex.org/A5080077246), [Ahui Shen](https://openalex.org/A5071298608), [Xueyan Yang](https://openalex.org/A5037358505), [Shouyi Cen](https://openalex.org/A5067090172), [Zhipeng Zhang](https://openalex.org/A5022807400), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00726.
     
 Optically pure BINOL (1,1′-bi-2-naphthol) and diversely substituted BINOLs are highly valuable chiral motifs featuring axial chirality widely applied in various fields. Although unsubstituted BINOL is commercially available, the catalytic asymmetric synthesis of optically pure diversely substituted BINOLs is still very challenging. Herein, we report the development of a highly enantioselective dinuclear copper catalyst for oxidative homo- and cross-coupling of a variety of 2-naphthols to provide access to a broad range of highly valuable diversely substituted C2- and C1-symmetric BINOLs in up to 92% yield with high enantioselectivities (up to 99.5:0.5 er).    
-
-    
-
-## How Micropore Topology Influences the Structure and Location of Coke in Zeolite Catalysts   
-
-OpenAlex: https://openalex.org/W4393309555    
-Open access: True
-    
-[Przemysław Rzepka](https://openalex.org/A5011286202), [Denis Sheptyakov](https://openalex.org/A5058790744), [Chao Wang](https://openalex.org/A5055838753), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Vladimir Paunović](https://openalex.org/A5059144530), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00025 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00025)).
-    
-Zeolite catalysts exhibit microporous structures, akin to the pockets in naturally occurring enzyme catalysts, which enable the confinement of reaction intermediates, thus facilitating chemical transformations. Nonetheless, the micropores also influence the formation of coke species, which is the main source of catalytic activity loss. Unveiling the relationships between the micropore topology and the internal structure and location of deactivating coke compounds is of high relevance for comprehending the deactivation mechanisms. In this study, we used an approach exploiting powder neutron diffraction to assess the location of coke and determine the dominating structures in the topologically distinct ZSM-5 (MFI topology), ZSM-35 (FER), and SSZ-13 (CHA) zeolite catalysts deactivated in industrially relevant methanol-to-hydrocarbon (MTH) conversion. In ZSM-5 and ZSM-35 catalysts, coke resides along the straight 10-membered ring (MR) channels and exhibits the highest concentration in their intersecting regions with sinusoidal 10 MR and straight 8 MR pores, respectively. In the SSZ-13 catalyst, coke is not only located in cages but also protrudes through their 8 MR windows, suggesting the interconnectivity of coke molecules between the large cavities. Notably, the coke-associated signals in the ZSM-5 and ZSM-35 catalysts show a strong planar arrangement that can be fitted by polycyclic and monocyclic arene structures, respectively. These averaged coke structures are consistent with the composition of coke assessed by gas chromatography–mass spectrometry, 13C and two-dimensional 1H double-quantum single-quantum magic-angle spinning nuclear magnetic resonance, and operando diffuse reflectance ultraviolet–visible spectroscopic analysis. The findings evidence that the pore topology directs the confinement and structure of coke, wherein the largest void zones of the micropore space are the most susceptible to coking.    
 
     
 
@@ -259,14 +193,25 @@ The encapsulation phenomenon associated with a strong metal–support interactio
 
     
 
-## Thermodynamic Equilibrium versus Kinetic Trapping: Thermalization of Cluster Catalyst Ensembles Can Extend Beyond Reaction Time Scales   
+## Molecular Engineering of Electrocatalytic Nanomaterials for Hydrogen Evolution: The Impact of Structural and Electronic Modifications of Anchoring Linkers on Electrocatalysis   
 
-OpenAlex: https://openalex.org/W4393224125    
+OpenAlex: https://openalex.org/W4393305578    
 Open access: False
     
-[Patricia Poths](https://openalex.org/A5083349408), [Santiago Vargas](https://openalex.org/A5088574626), [Philippe Sautet](https://openalex.org/A5025258970), [Anastassia N. Alexandrova](https://openalex.org/A5000151397), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06154.
+[Andrew J. Bagnall](https://openalex.org/A5068400290), [Matthieu Haake](https://openalex.org/A5092760919), [Sergi Grau](https://openalex.org/A5071474652), [Tatiana Straistari](https://openalex.org/A5025011392), [Matthieu Koepf](https://openalex.org/A5008192334), [Navid Jameei Moghaddam](https://openalex.org/A5008669299), [Carolina Gimbert‐Suriñach](https://openalex.org/A5027825269), [Jordi Benet‐Buchholz](https://openalex.org/A5003571345), [Antoni Llobet](https://openalex.org/A5005120127), [Murielle Chavarot‐Kerlidou](https://openalex.org/A5009538487), [Bertrand Reuillard](https://openalex.org/A5020577271), [Vincent Artero](https://openalex.org/A5047933845), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00336.
     
-No abstract    
+The anticipated shortage of an increasing number of critical elements, especially metals, requires a shift toward molecularly defined materials with low metal loadings. More particularly, surface-anchored molecular catalysts are attractive to prospectively enable cost-effective electrochemical hydrogen evolution. However, the design of ligands integrating specific anchoring unit(s) for the immobilization of molecular catalysts can be challenging and has direct consequences for the intrinsic properties of the grafted complex. In this work, two cobalt tetraazamacrocyclic complexes bearing pyrene anchoring groups at different positions on the macrocyclic ligands were synthesized. The pyrene unit allows for simple immobilization and electrochemical characterization of the two complexes on multi-walled carbon nanotube-based electrodes. Thorough electrochemical and electrocatalytic investigation demonstrates important differences between the two closely related catalysts in terms of catalyst loading, catalytic response, and stability over time, with a significantly higher stability observed at pH 7 than at pH 2.    
+
+    
+
+## How Micropore Topology Influences the Structure and Location of Coke in Zeolite Catalysts   
+
+OpenAlex: https://openalex.org/W4393309555    
+Open access: True
+    
+[Przemysław Rzepka](https://openalex.org/A5011286202), [Denis Sheptyakov](https://openalex.org/A5058790744), [Chao Wang](https://openalex.org/A5055838753), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Vladimir Paunović](https://openalex.org/A5059144530), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00025 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00025)).
+    
+Zeolite catalysts exhibit microporous structures, akin to the pockets in naturally occurring enzyme catalysts, which enable the confinement of reaction intermediates, thus facilitating chemical transformations. Nonetheless, the micropores also influence the formation of coke species, which is the main source of catalytic activity loss. Unveiling the relationships between the micropore topology and the internal structure and location of deactivating coke compounds is of high relevance for comprehending the deactivation mechanisms. In this study, we used an approach exploiting powder neutron diffraction to assess the location of coke and determine the dominating structures in the topologically distinct ZSM-5 (MFI topology), ZSM-35 (FER), and SSZ-13 (CHA) zeolite catalysts deactivated in industrially relevant methanol-to-hydrocarbon (MTH) conversion. In ZSM-5 and ZSM-35 catalysts, coke resides along the straight 10-membered ring (MR) channels and exhibits the highest concentration in their intersecting regions with sinusoidal 10 MR and straight 8 MR pores, respectively. In the SSZ-13 catalyst, coke is not only located in cages but also protrudes through their 8 MR windows, suggesting the interconnectivity of coke molecules between the large cavities. Notably, the coke-associated signals in the ZSM-5 and ZSM-35 catalysts show a strong planar arrangement that can be fitted by polycyclic and monocyclic arene structures, respectively. These averaged coke structures are consistent with the composition of coke assessed by gas chromatography–mass spectrometry, 13C and two-dimensional 1H double-quantum single-quantum magic-angle spinning nuclear magnetic resonance, and operando diffuse reflectance ultraviolet–visible spectroscopic analysis. The findings evidence that the pore topology directs the confinement and structure of coke, wherein the largest void zones of the micropore space are the most susceptible to coking.    
 
     
 
@@ -278,5 +223,60 @@ Open access: False
 [Mahzad Dehghany](https://openalex.org/A5063494151), [Giuliana Pavaneli](https://openalex.org/A5033112655), [Jacob W. Kailing](https://openalex.org/A5093551048), [Olivia M. Duke](https://openalex.org/A5087213395), [Ilia A. Guzei](https://openalex.org/A5040701048), [Caroline Da Ros Montes D’Oca](https://openalex.org/A5069102842), [Israel Fernández](https://openalex.org/A5009883474), [Jennifer M. Schomaker](https://openalex.org/A5047518130), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06173.
     
 Nitrogenated heterocycles comprise the cores of a number of synthetically useful compounds, including pharmaceuticals, bioactive natural products, agrochemicals, and other drug-like molecules. The widespread interest in methods to increase the fraction of sp3 carbon atoms (Fsp3) of drug-like scaffolds in a stereocontrolled manner, while enabling explorations of unusual amine chemical space, inspired our efforts to tune the reactivity of aziridinium ylides. A sequential nitrene–carbene transfer of simple allenes leads to divergent product outcomes depending on the nature of the carbene precursor, furnishing products of different ring sizes. In addition, the catalyst control over the ring size via proposed hydrogen-bonding interactions between the catalyst and substrate was explored. Computational studies were employed to gain insight into the major features of substrates and catalysts that influence the tunable reactivity of aziridinium ylide intermediates formed in this chemistry.    
+
+    
+
+## Efficient Visible-Light-Driven Water Oxidation by a Carbon Nitride Modified with Cobalt Polyoxometalate Molecular Catalyst   
+
+OpenAlex: https://openalex.org/W4393373284    
+Open access: False
+    
+[Yoshihiko Tomita](https://openalex.org/A5007596741), [Natsuki Taira](https://openalex.org/A5044251519), [Ken Sakai](https://openalex.org/A5066627191), [Hidetoshi Ozawa](https://openalex.org/A5051285636), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00627.
+    
+No abstract    
+
+    
+
+## Competing Mechanisms in Palladium-Catalyzed Alkoxycarbonylation of Styrene   
+
+OpenAlex: https://openalex.org/W4393375769    
+Open access: True
+    
+[Jaya Mehara](https://openalex.org/A5008238212), [Mariarosa Anania](https://openalex.org/A5066130884), [Pavel Kočovský](https://openalex.org/A5084478574), [Jana Roithová](https://openalex.org/A5021283178), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00966 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00966)).
+    
+No abstract    
+
+    
+
+## Active Hydrogen-Switchable Dynamic Oxygen Vacancies in MoO3–x upon Ru Nanoparticle Decoration for Boosting Photocatalytic Ammonia Synthesis Performance   
+
+OpenAlex: https://openalex.org/W4393376514    
+Open access: False
+    
+[Lulu Zhang](https://openalex.org/A5070961992), [Rui Li](https://openalex.org/A5081675173), [Lijun Guo](https://openalex.org/A5076944433), [Longzhe Cui](https://openalex.org/A5028973201), [Xiaochao Zhang](https://openalex.org/A5056249472), [Yawen Wang](https://openalex.org/A5035024640), [Yunfang Wang](https://openalex.org/A5023466237), [Xuan Jian](https://openalex.org/A5053777989), [Xiaoming Gao](https://openalex.org/A5049164708), [Caimei Fan](https://openalex.org/A5056458711), [Jiancheng Wang](https://openalex.org/A5000168358), [Jianxin Liu](https://openalex.org/A5032796616), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05633.
+    
+No abstract    
+
+    
+
+## Promoting Electrocatalytic Semihydrogenation of Alkynols to Alkenols over a Bimetallic CuAu Alloy Catalyst   
+
+OpenAlex: https://openalex.org/W4393377866    
+Open access: False
+    
+[Qinghui Ren](https://openalex.org/A5018042445), [Leilei Hao](https://openalex.org/A5077447092), [Jiangrong Yang](https://openalex.org/A5042488059), [Mengyu Lv](https://openalex.org/A5074608575), [Hua Zhou](https://openalex.org/A5063892110), [Zhenhua Li](https://openalex.org/A5079317579), [Haohong Duan](https://openalex.org/A5066410903), [Mingfei Shao](https://openalex.org/A5062633224), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05928.
+    
+Electrocatalytic semihydrogenation of alkynols to alkenols under ambient conditions using H2O as a hydrogen source is highly attractive in synthetic chemistry. However, it is still challenging to achieve a high Faradaic efficiency (FE) in a wide potential window. Herein, we reported a bimetallic Cu3Au alloy as an efficient catalyst for electrocatalytic semihydrogenation of alkynols to alkenols. Specifically, during semihydrogenation of 2-butyne-1,4-diol (BYD) to 2-butene-1,4-diol (BED), the Cu3Au catalyst achieves 12.6-fold greater reaction rate and higher FE compared with pure Cu (99 vs 63%). Moreover, the Cu3Au maintains >96% FEs in a wide potential window from −0.19 to −0.59 V vs RHE. We demonstrate that the competitive adsorptions of reactive hydrogen (H*) and BYD greatly influence the semihydrogenation processes. The presence of Au in Cu3Au facilitates H* formation and reduces BYD adsorption on Cu, thus enhancing the BYD hydrogenation performance. The Cu3Au catalyst affords a broad substrate scope from alkynols to aromatic alkynes, producing the corresponding alkenes in good selectivities. Finally, we coupled BYD semihydrogenation with glycerol oxidation to replace oxygen evolution reaction in a two-electrode system, showing 40% energy saving at 200 mA for BED production and coproduction of valuable formate at the anode, demonstrating an economical manner.    
+
+    
+
+## Boosting Carrier Separation on a BiOBr/Bi4O5Br2 Direct Z-Scheme Heterojunction for Superior Photocatalytic Nitrogen Fixation   
+
+OpenAlex: https://openalex.org/W4393381136    
+Open access: False
+    
+[Huiqing Wang](https://openalex.org/A5060888510), [Zhuohua Chen](https://openalex.org/A5023677466), [Yaru Shang](https://openalex.org/A5000546225), [Chade Lv](https://openalex.org/A5069916990), [Xuhan Zhang](https://openalex.org/A5047452249), [Fei Li](https://openalex.org/A5081362412), [Qunzeng Huang](https://openalex.org/A5084680669), [Xiaodi Liu](https://openalex.org/A5049402435), [Wenmin Liu](https://openalex.org/A5048645240), [Liang Zhao](https://openalex.org/A5085868420), [Liqun Ye](https://openalex.org/A5009243555), [Hongmei Xie](https://openalex.org/A5048668242), [Xiaoli Jin](https://openalex.org/A5031653081), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06169.
+    
+Photocatalytic dinitrogen (N2) fixation is regarded as an achievable technology for ammonia (NH3) production. However, the poor separation efficiency of the photoinduced carriers and ineffective N2 activation remain grand obstacles to high-performance NH3 photosynthesis. Designing advanced heterostructured systems to accelerate charge separation and activate the N2 molecule is a feasible strategy to optimize the photocatalytic N2 fixation activity. Herein, a direct Z-scheme configuration is established between BiOBr and Bi4O5Br2 through a facile one-step solvothermal reaction. This configuration enables effective spatial separation of electron–hole pairs and preserves the robust redox ability of carriers, concurrently promoting N≡N bond activation and diminishing the energy barrier for the rate-determining step. The formation of direct Z-scheme BiOBr/Bi4O5Br2 heterojunctions is mostly attributed to the similarities in their lattice structures and crystal growth conditions. As a result, the direct Z-scheme BiOBr/Bi4O5Br2 heterojunction exhibits a high NH3 yield of 66.87 μmol g–1 h–1 without using sacrificing reagents, surpassing that of the pristine BiOBr and Bi4O5Br2 by approximately 3.3 and 5.6 times, respectively. This study provides an achievable approach to construct direct Z-scheme heterojunction systems for implementing high-performance N2 fixation under mild conditions.    
 
     
