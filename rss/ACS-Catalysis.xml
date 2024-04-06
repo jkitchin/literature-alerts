@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:45:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 00:43:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Multiscale Investigation of the Mechanism and Selectivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation over Rh(111)</title>
-      <link>https://doi.org/10.1021/acscatal.3c05939</link>
-      <description>Shijia Sun, Michael Higham, Xingfan Zhang, C. Richard A. Catlow, ACS catalysis. None(None)] 2024. https://openalex.org/W4393252805
-
-                No abstract</description>
-      <author>Shijia Sun, Michael Higham, Xingfan Zhang, C. Richard A. Catlow</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05939</guid>
-    </item>
-    <item>
-      <title>Radical 1,2-Nitrogen Migration Cascades of &#946;-Bromo &#945;-Amino Acid Esters to Access &#946;-Amino Acid Motifs Enabled by Cooperative Ni/Diboron Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c01034</link>
-      <description>Yeonchul Hong, Zi-Cheng Liao, Jiajie Chen, Jian Liu, Yin-Ling Liu, Jin&#8208;Heng Li, Qing Sun, Shi&#8208;Lu Chen, Shuo&#8208;Wen Wang, Shi Tang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393255866
-
-                Amino acid esters serve as crucial intermediates in protein synthesis and as common structural elements in biologically active natural compounds. Herein, we present an efficient radical cascade reaction involving 1,2-nitrogen migration and C(sp2)&#8211;H intramolecular cyclization, enabling access to a diverse array of &#946;-amino acid motifs. Upon cooperative Ni/diboron catalysis, a &#960;-system-independent 1,2-N-shift of &#946;-bromo &#945;-amino acid esters is achieved, which allows the formation of two new bonds, including a C(sp3)&#8211;C(sp2) bond and a C(sp3)&#8211;N bond. The cascade reaction exhibits extensive substrate compatibility and high diastereoselectivity and proceeds without the need for oxidants, toxic radical initiators, and/or elevated temperatures. It has been observed that diboron compounds serve as both an activating reagent for inert C&#8211;N bond cleavage/migration and a reductant for the Ni catalytic cycle. This sheds light on the radical remote migration of N-functionalities without the need for &#960;-systems. The radical cascades involving a 1,2-N-shift followed by intermolecular halogenation or selenation are also demonstrated.</description>
-      <author>Yeonchul Hong, Zi-Cheng Liao, Jiajie Chen, Jian Liu, Yin-Ling Liu, Jin&#8208;Heng Li, Qing Sun, Shi&#8208;Lu Chen, Shuo&#8208;Wen Wang, Shi Tang</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01034</guid>
-    </item>
-    <item>
-      <title>Rational Design of Spontaneous Self-Cyclization Enzymes &lt;i&gt;In Vivo&lt;/i&gt; and &lt;i&gt;In Vitro&lt;/i&gt; with Improved Thermal Tolerance and Activity</title>
-      <link>https://doi.org/10.1021/acscatal.4c00056</link>
-      <description>Bin Wei, Yilin Kang, Yuxuan Zhao, Haichang Xu, Hao Liang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393260657
-
-                Enzymes have selectivity, require mild catalytic conditions, and are important cornerstones in many industrial catalytic processes. Protein self-cyclization has opened up the possibility of preserving fragile enzymes during long-term high-temperature catalysis. However, the mechanism for self-cyclization and improvement of thermal tolerance have not been elucidated, severely limiting their industrial applications. Herein, we provide a strategy for the rational design of fusion proteins based on structural analysis to obtain cyclized enzymes with improved properties. First, we constructed fusion proteins that preferentially translated SpyCatcher (CBT) or SpyTag (TBC), both of which could form stable single self-cyclization with significantly improved thermal tolerance. Especially, the thermal half-life of TBC obtained by modifying the N-terminal SpyTag at 40 &#176;C was 10.83 times that of wild enzymes. Structural analysis revealed that the terminus of the protein, which preferentially translated to SpyCatcher, folded into a conformation that adversely affected stability. In addition, the structure of the catalytic pocket and the orientation of the catalytic residues of CBT were significantly different from those of the wild-type enzymes, which led to a decrease in the catalytic activity. These conclusions were confirmed when another industrial enzyme, sucrose phosphorylase, was cyclized. Finally, the cyclized glucosidase was also superior to the wild-type strain for the preparation of ginsenoside F1 at high titers and as a whole-cell catalyst for extended use. In conclusion, we demonstrated for the first time that conjugated long oligopeptide SpyCatcher significantly affected the catalytic activity and stability of cyclized enzymes. It was necessary to preferentially translate units with less steric hindrance to reduce their impact on the protein structure. The rational design of cyclized enzymes based on structural analysis provides a simple and effective strategy for the modification of industrial enzymes with poor thermal tolerance, providing considerable prospects for biosynthesis in vivo and in vitro.</description>
-      <author>Bin Wei, Yilin Kang, Yuxuan Zhao, Haichang Xu, Hao Liang</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00056</guid>
-    </item>
-    <item>
-      <title>Identification of the Thermal Activation Network in Human 15-Lipoxygenase-2: Divergence from Plant Orthologs and Its Relationship to Hydrogen Tunneling Activation Barriers</title>
-      <link>https://doi.org/10.1021/acscatal.4c00439</link>
-      <description>Amanda Ohler, P. E. Taylor, Jasmine A. Bledsoe, Anthony T. Iavarone, Nathaniel C. Gilbert, Adam R. Offenbacher, ACS catalysis. None(None)] 2024. https://openalex.org/W4393262678
-
-                The oxidation of polyunsaturated fatty acids by lipoxygenases (LOXs) is initiated by a C&#8211;H cleavage step in which the hydrogen atom is transferred quantum mechanically (i.e., via tunneling). In these reactions, protein thermal motions facilitate the conversion of ground-state enzyme&#8211;substrate complexes to tunneling-ready configurations and are thus important for transferring energy from the solvent to the active site for the activation of catalysis. In this report, we employed temperature-dependent hydrogen&#8211;deuterium exchange mass spectrometry (TDHDX-MS) to identify catalytically linked, thermally activated peptides in a representative animal LOX, human epithelial 15-LOX-2. TDHDX-MS of wild-type 15-LOX-2 was compared to two active site mutations that retain structural stability but have increased activation energies (Ea) of catalysis. The Ea value of one variant, V427L, is implicated to arise from suboptimal substrate positioning by increased active-site side chain rotamer dynamics, as determined by X-ray crystallography and ensemble refinement. The resolved thermal network from the comparative Eas of TDHDX-MS between wild-type and V426A is localized along the front face of the 15-LOX-2 catalytic domain. The network contains a clustering of isoleucine, leucine, and valine side chains within the helical peptides. This thermal network of 15-LOX-2 is different in location, area, and backbone structure compared to a model plant lipoxygenase from soybean that exhibits a low Ea value of catalysis compared to the human ortholog. The presented data provide insights into the divergence of thermally activated protein motions in plant and animal LOXs and their relationships to the enthalpic barriers for facilitating hydrogen tunneling.</description>
-      <author>Amanda Ohler, P. E. Taylor, Jasmine A. Bledsoe, Anthony T. Iavarone, Nathaniel C. Gilbert, Adam R. Offenbacher</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00439</guid>
-    </item>
-    <item>
-      <title>Catalytic Contra-Thermodynamic Isomerization&#8211;Asymmetric Hydroboration of Alkenyl Alcohols and Amines</title>
-      <link>https://doi.org/10.1021/acscatal.3c06194</link>
-      <description>Chenchen Li, Kezhuo Zhang, Wanxiang Zhao, ACS catalysis. None(None)] 2024. https://openalex.org/W4393277873
-
-                Catalytic isomerization of alkenes is a powerful tool for the construction of complex synthetically valuable molecules due to their redox-neutral, atom- and step-economical nature. However, traditional catalytic asymmetric isomerization of alkenes typically required the use of a heteroatomic group such as OH or NR2 as the thermodynamic driving force (i.e., the C&#9552;C double bond isomerizes along the direction of heteroatomic groups). Here, we present a contra-thermodynamic isomerization/asymmetric hydroboration of alkenyl alcohols and amines, in which the C&#9552;C double bond isomerizes along the opposite direction of OR and NR2. Compared to the traditional thermal isomerizations, this reaction overcomes the unfavorable thermodynamic bias to form a contra-thermodynamic alkene intermediate, followed by an irreversible asymmetric terminal hydroboration to provide highly synthetically valuable chiral 1,n-boryl ethers and amines. This protocol shows a wide substrate scope, including allylic alcohols, homoallylic alcohols, alkenyl alcohols, protected alkenyl alcohols, and various free and protected alkenyl amines. The synthetic utilities and practicability of this method were demonstrated by gram-scale reactions, diverse product transformations, and its applications in the synthesis of bioactive molecules. Preliminary mechanistic studies show that this reaction involves dissociative alkene isomerization and an asymmetric hydroboration of 1,1-disubstituted alkene intermediates.</description>
-      <author>Chenchen Li, Kezhuo Zhang, Wanxiang Zhao</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06194</guid>
-    </item>
-    <item>
-      <title>Photocatalyzed Dual Strain Release of [1.1.1]Propellane with Diazo Compounds</title>
-      <link>https://doi.org/10.1021/acscatal.4c00533</link>
-      <description>Jiahao Hu, Xiaobin Yuan, Yufei Li, Xiaoyu Chen, Zaicheng Nie, Mong&#8208;Feng Chiou, Yajun Li, Hongli Bao, ACS catalysis. None(None)] 2024. https://openalex.org/W4393278427
-
-                In recent years, many methods for the synthesis of bicyclo[1.1.1]pentane (BCP) scaffolds have been successfully established owing to their remarkable potent bioactive properties. These BCP scaffolds are typically derived from the single strain release of [1.1.1]propellane. However, approaches for dual strain release of [1.1.1]propellane remain elusive, despite the potential to create innovative opportunities for useful propellane derivatization. In this report, we present herein an efficient method for photocatalyzed dual strain release of [1.1.1]propellane with diazo compounds. Many diazo compounds, including those derived from natural products, such as (+)-borneol, estrone, vitamin E, L-menthol, metronidazole, and geraniol, can be applied to these transformations. Importantly, this method allows the cleavage and formation of multiple C&#8211;C bonds in a photocatalyzed tandem intersystem crossing (ISC)/radical ring-opening/radical&#8211;radical recombination process, and the products can be easily transformed into synthetically challenging spiro compounds, such as spiro [2.3] and spiro [3.4] compounds.</description>
-      <author>Jiahao Hu, Xiaobin Yuan, Yufei Li, Xiaoyu Chen, Zaicheng Nie, Mong&#8208;Feng Chiou, Yajun Li, Hongli Bao</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00533</guid>
-    </item>
-    <item>
-      <title>Insight into the Synergistic Effect of the Oxide&#8211;Metal Interface on Hot Electron Excitation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00407</link>
-      <description>Eunji Lee, Beomjoon Jeon, Hyuk Soon Choi, Jihun Kim, Jong-Seok Kim, Gyuho Han, Kwangjin An, Hyun You Kim, Jeong Young Park, Si Woo Lee, ACS catalysis. None(None)] 2024. https://openalex.org/W4393280380
-
-                Formulating a quantitative relationship between the extent of electron transfer at metal&#8211;oxide interfaces and catalytic performance aids the rational design of oxide-supported metal catalysts. An effective strategy for monitoring electron transfer at nanoscale interfacial sites is to detect in real time the hot electrons excited when catalytic reactions occur at metal&#8211;oxide perimeter sites. Here, based on our in situ techniques for extracting electron transfer as a current signal using a catalytic nanodiode sensor, we observe hot electron excitation at the CeO2/Pt interface during H2 oxidation. By quantitatively analyzing the hot electrons released during the reaction, we identified the optimal concentration of CeO2/Pt interfaces that maximize the catalytic performance of CeO2/Pt. Through a combinatorial study of experiment and theory, we confirm the decisive role of CeO2/Pt interfacial sites in improving the reactivity and electronic excitation.</description>
-      <author>Eunji Lee, Beomjoon Jeon, Hyuk Soon Choi, Jihun Kim, Jong-Seok Kim, Gyuho Han, Kwangjin An, Hyun You Kim, Jeong Young Park, Si Woo Lee</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00407</guid>
-    </item>
     <item>
       <title>Axially Chiral Copper Catalyst for Asymmetric Synthesis of Valuable Diversely Substituted BINOLs</title>
       <link>https://doi.org/10.1021/acscatal.4c00726</link>
@@ -96,16 +26,6 @@
       <author>Douglas J. Fansher, Jonathan N. Besna, Ali Fendri, Joelle N. Pelletier</author>
       <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00086</guid>
-    </item>
-    <item>
-      <title>Harnessing the Synergistic Power of Ce&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; S-Scheme Heterojunctions for Profound C&#8211;O Bond Cleavage in Lignin Model Compounds</title>
-      <link>https://doi.org/10.1021/acscatal.4c00297</link>
-      <description>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan, ACS catalysis. None(None)] 2024. https://openalex.org/W4393316547
-
-                In the context of achieving carbon neutrality, converting lignin-derived molecules into high-value products through photocatalytic technology provides an environmentally friendly pathway. Establishing energy-efficient processes for converting lignin derivatives requires the construction of highly active and selective photocatalysts. However, enhancing the efficiency and selectivity of photocatalysts for lignin degradation poses an ongoing challenge due to discrepancies in the redox potential and the rapid recombination of photogenerated carriers. To address these significant obstacles, we devised an innovative strategy by developing a Ce2S3 nanoparticle-anchored TiO2 nanorod (Ce2S3/TiO2). This advanced photocatalyst with the S-scheme heterojunction, enabling simultaneous control of carrier dynamics and band structure, was used to study the photocatalytic degradation of the lignin model compound 2-phenoxy-1-acetophenone. Moreover, the photocatalyst can cleave the C&#946;-O-4 bond selectively to convert the lignin model compound 2-phenoxy-1-acetophenone into phenol and acetophenone under visible-light irradiation. The yields are up to 94 and 80%, respectively, and 94 or 1.4 times greater than those obtained by pure TiO2 or Ce2S3 individually. In addition, our study for the increased activity in Ce2S3/TiO2 based on density functional theory calculations emphasizes the pivotal role of the S-scheme heterojunction generated between Ce2S3 and TiO2. This heterojunction significantly enhances carrier separation efficiency, thereby augmenting the efficacy of the photocatalytic process. The findings furnish valuable insights for developing advanced photocatalytic systems tailored to the efficient depolymerization of C&#946;-O-4 bonds in lignin.</description>
-      <author>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00297</guid>
     </item>
     <item>
       <title>General, Modular Access toward Immobilized Chiral Phosphoric Acid Catalysts and Their Application in Flow Chemistry</title>
@@ -198,6 +118,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00025</guid>
     </item>
     <item>
+      <title>Harnessing the Synergistic Power of Ce&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;3&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; S-Scheme Heterojunctions for Profound C&#8211;O Bond Cleavage in Lignin Model Compounds</title>
+      <link>https://doi.org/10.1021/acscatal.4c00297</link>
+      <description>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan, ACS catalysis. None(None)] 2024. https://openalex.org/W4393316547
+
+                In the context of achieving carbon neutrality, converting lignin-derived molecules into high-value products through photocatalytic technology provides an environmentally friendly pathway. Establishing energy-efficient processes for converting lignin derivatives requires the construction of highly active and selective photocatalysts. However, enhancing the efficiency and selectivity of photocatalysts for lignin degradation poses an ongoing challenge due to discrepancies in the redox potential and the rapid recombination of photogenerated carriers. To address these significant obstacles, we devised an innovative strategy by developing a Ce2S3 nanoparticle-anchored TiO2 nanorod (Ce2S3/TiO2). This advanced photocatalyst with the S-scheme heterojunction, enabling simultaneous control of carrier dynamics and band structure, was used to study the photocatalytic degradation of the lignin model compound 2-phenoxy-1-acetophenone. Moreover, the photocatalyst can cleave the C&#946;-O-4 bond selectively to convert the lignin model compound 2-phenoxy-1-acetophenone into phenol and acetophenone under visible-light irradiation. The yields are up to 94 and 80%, respectively, and 94 or 1.4 times greater than those obtained by pure TiO2 or Ce2S3 individually. In addition, our study for the increased activity in Ce2S3/TiO2 based on density functional theory calculations emphasizes the pivotal role of the S-scheme heterojunction generated between Ce2S3 and TiO2. This heterojunction significantly enhances carrier separation efficiency, thereby augmenting the efficacy of the photocatalytic process. The findings furnish valuable insights for developing advanced photocatalytic systems tailored to the efficient depolymerization of C&#946;-O-4 bonds in lignin.</description>
+      <author>Hongwu Liao, Yanmin Zhou, Zhuo Chen, Swellam W. Sharshir, Sameh M. Osman, Chong Wang, Meng An, Yusuke Yamauchi, Yusuke Asakura, Zhanhui Yuan</author>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00297</guid>
+    </item>
+    <item>
       <title>Tunable Divergent Reactivity of Aziridinium Ylides in the Synthesis of Complex Piperidines and Azetidines</title>
       <link>https://doi.org/10.1021/acscatal.3c06173</link>
       <description>Mahzad Dehghany, Giuliana Pavaneli, Jacob W. Kailing, Olivia M. Duke, Ilia A. Guzei, Caroline Da Ros Montes D&#8217;Oca, Israel Fern&#225;ndez, Jennifer M. Schomaker, ACS catalysis. None(None)] 2024. https://openalex.org/W4393372078
@@ -256,6 +186,76 @@
       <author>Huiqing Wang, Zhuohua Chen, Yaru Shang, Chade Lv, Xuhan Zhang, Fei Li, Qunzeng Huang, Xiaodi Liu, Wenmin Liu, Liang Zhao, Liqun Ye, Hongmei Xie, Xiaoli Jin</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06169</guid>
+    </item>
+    <item>
+      <title>Recent Advances in Catalytic Nitrogen&#8211;Nitrogen Bond Formation Reactions</title>
+      <link>https://doi.org/10.1021/acscatal.4c00718</link>
+      <description>Jianglin Hu, Yichen Wu, Ying Gao, Yinglei Wang, Peng Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393385196
+
+                The lack of effective strategies for direct construction of nitrogen&#8211;nitrogen bonds has hampered developments in the synthesis and application of molecules containing hydrazine or azo motifs. Attracted by their properties both in material science and in medicinal chemistry, more and more attention has been drawn to this area, resulting in fast growth in the design and synthesis of azaheterocycles and substituted hydrazines. This review focuses on efficient catalytic approaches toward the formation of N&#8211;N and N&#9552;N bonds through different strategies, including oxidative dehydrogenation, nitrene-transfer reaction, reductive coupling, and some other recently developed methods.</description>
+      <author>Jianglin Hu, Yichen Wu, Ying Gao, Yinglei Wang, Peng Wang</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00718</guid>
+    </item>
+    <item>
+      <title>General Reaction Network Exploration Scheme Based on Graph Theory Representation and Depth First Search Applied to CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation on Pd&lt;sub&gt;2&lt;/sub&gt;Cu Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c00067</link>
+      <description>Hui Guo, Hong Zhu, Guan-Zhang Liu, Zhao-Xu Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4393385723
+
+                Reaction mechanisms are at the core of understanding reaction systems and designing high-performance catalysts. A complex reaction system often involves various species and elementary reactions, posing a great challenge to determining the reaction mechanism. Here, we proposed a scheme to automatically generate reaction intermediates and elementary reactions to construct a complete reaction network represented by graph theory and employed a depth first search algorithm in the scheme to prune the reaction network to reduce the complexity of the network. With this scheme, microkinetic simulations of CO2 hydrogenation on Pd2Cu using the barriers predicted with the linear thermodynamics&#8211;kinetics relations were performed on the network to determine the mechanism and rate- and selectivity-controlling steps of CO2 hydrogenation to ethanol and methanol. Analysis shows that the simulated selectivity of ethanol and methanol agrees well with the experimental results. CO2 + H &#8594; COOH is the rate-controlling step, and CHOH + H &#8594; CH + H2O, CH2OH + H &#8594; CH2 + H2O, and CH2OH + H &#8594; CH3OH dominate the ethanol selectivity. Both ethanol and methanol are generated via multiple reaction pathway mechanisms. Investigations of the pruned networks show that quantitatively correct results can be obtained from the pruned or pseudocomplete reaction network, as long as the key pathways are embodied in the network. 94% ethanol selectivity of the complete network can be obtained with the pruned network composed of 60 elementary steps, compared to 176 steps of the complete network. The present work articulates graph theory representation, depth first search algorithm, linear thermodynamics&#8211;kinetics relations, and microkinetic simulations to approach complicated heterogeneous reaction systems and exemplifies their comprehensive roles in exploring complex reaction networks.</description>
+      <author>Hui Guo, Hong Zhu, Guan-Zhang Liu, Zhao-Xu Chen</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00067</guid>
+    </item>
+    <item>
+      <title>Spin Selectivity Induced by the Interface Effect for Boosted Water Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c00142</link>
+      <description>Zhigao Xue, Biao Wu, Zheng Zhang, Ching-Yu Lin, Xiaopeng Li, Qiuju Zhang, Kai Tao, ACS catalysis. None(None)] 2024. https://openalex.org/W4393386676
+
+                Creating highly effective electrocatalysts for the oxygen evolution reaction (OER) holds paramount importance in advancing carbon-neutral hydrogen production through water electrolysis. Recent research highlights the crucial role of spin effects on the OER, emphasizing that the manipulation of spin polarization is a promising strategy to augment the OER kinetics. Here, we present a core&#8211;shell heterostructure electrocatalyst, which leverages the strong coupling of the interface between antiferromagnetic Co3O4 and NiFe-layered double hydroxide (NiFe-LDH) to trigger a spontaneous magnetic response enhancement, which suggests the strong double exchange interaction at the interface of the core&#8211;shell heterostructure. This electrocatalyst displays a 26-fold increase in intrinsic OER activity compared to pristine NiFe-LDH at an overpotential of 0.25 V. Through experimental and computational analyses, we find that the strong double exchange interaction within the heterostructure creates polarized spin conduction channels at the interface, which enables efficient accumulation of electrons with appropriate spin states, thereby lowering the energy barrier for the generation of triplet O2. Our work presents a promising approach to designing high-performance OER catalysts by introducing spin selectivity in traditional metal oxide electrocatalysts.</description>
+      <author>Zhigao Xue, Biao Wu, Zheng Zhang, Ching-Yu Lin, Xiaopeng Li, Qiuju Zhang, Kai Tao</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00142</guid>
+    </item>
+    <item>
+      <title>Reductive Aminomethylation Using Ammonium Formate and Methanol as N1 and C1 Source: Direct Synthesis of Mono- and Di-Methylated Amines</title>
+      <link>https://doi.org/10.1021/acscatal.4c00346</link>
+      <description>Ishani Borthakur, S. K. Nandi, Yuvraj Bilora, Biswajit Sadhu, Sabuj Kundu, ACS catalysis. None(None)] 2024. https://openalex.org/W4393409196
+
+                No abstract</description>
+      <author>Ishani Borthakur, S. K. Nandi, Yuvraj Bilora, Biswajit Sadhu, Sabuj Kundu</author>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00346</guid>
+    </item>
+    <item>
+      <title>Hydrophobic Surface Modification of Cu-Based Catalysts for Enhanced Semihydrogenation of Acetylene in Excess Ethylene</title>
+      <link>https://doi.org/10.1021/acscatal.3c05466</link>
+      <description>Ting Liu, Jinqi Xiong, Qian Luo, Shanjun Mao, Yong Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393409197
+
+                No abstract</description>
+      <author>Ting Liu, Jinqi Xiong, Qian Luo, Shanjun Mao, Yong Wang</author>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05466</guid>
+    </item>
+    <item>
+      <title>Revealing Catalyst Self-Adjustment in C&#8211;S Cross-Coupling through Multiscale Liquid-Phase Electron Microscopy</title>
+      <link>https://doi.org/10.1021/acscatal.3c06258</link>
+      <description>Alexey S. Kashin, D. M. Arkhipova, Liliya T. Sahharova, Julia V. Burykina, Valentine P. Ananikov, ACS catalysis. None(None)] 2024. https://openalex.org/W4393500093
+
+                Carbon&#8211;carbon and carbon&#8211;heteroatom bond formation mediated by transition metals is a powerful and convenient methodology for organic synthesis. To effectively meet the demands of catalyst design, an in-depth understanding of the reaction mechanisms and pathways of active species evolution is essential. Advances in electron microscopy now offer unprecedented multilevel visualization of liquid-phase chemical systems, providing a powerful tool for mechanistic studies. In this work, we found that the use of either nickel- or copper-based catalyst precursors with preinstalled thiolate groups in combination with pyridinium ionic liquid as the reaction medium leads to a positive synergistic effect, resulting in the formation of transition metal species with high catalytic activity in the C&#8211;S cross-coupling reaction between aryl halides and thiols or disulfides. Through multiscale in situ and operando electron microscopy in the liquid phase, we elucidated the self-adjustment of the catalytic system and revealed the simultaneous emergence of metallic nanoparticles and corresponding thiolate species, leading to the independent activation of the C- and S-substrates and the subsequent elimination of the product via organic group metathesis. The proposed methodology for the catalytic preparation of aromatic organosulfides was used for the design of synthetic routes to pharmacologically important substances.</description>
+      <author>Alexey S. Kashin, D. M. Arkhipova, Liliya T. Sahharova, Julia V. Burykina, Valentine P. Ananikov</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06258</guid>
+    </item>
+    <item>
+      <title>Cu&#8211;Sn Bimetallic Activated Carbon&#8211;Carbon Coupling for Efficient Furfural Electroreduction</title>
+      <link>https://doi.org/10.1021/acscatal.3c06346</link>
+      <description>Xiaofeng Liu, Yuhan Sun, Hao Ren, Yuan Lin, Mingbo Wu, Zhong-Tao Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4393536047
+
+                Electrochemically driven carbon&#8211;carbon coupling utilizing renewable electricity under ambient conditions has emerged as an innovative approach for synthesizing high-value chemicals, which still faces inherent challenges such as low conversion rates and poor selectivity. While electroreducing furfural to hydrofuroin can produce high-quality biofuel, its efficiency need to be promoted. Herein, Cu&#8211;Sn bimetallic catalyst has been developed with a conversion rate of furfural of &gt;97% and hydrofuroin selectivity of &gt;67% through equilibrium of the interfacial intermediate *H and *fur-CHOH, which exhibits the greatest state-of-the-art overall performance. Characterization and theoretical calculation reveal that Cu serves as the active site for generating *fur-CHOH, whose electron density can be decreased by introducing Sn, and results in a higher *fur-CHOH coverage and a lower energy barrier of dimerization. Moreover, adding Sn also enables sluggish *H formation to balance interfacial *fur-CHOH and *H, leading to reduced hydrogenation byproducts. The as-developed approach provides valuable insights for optimizing other C&#8211;C electrocoupling reactions for the synthesis of high-value chemicals.</description>
+      <author>Xiaofeng Liu, Yuhan Sun, Hao Ren, Yuan Lin, Mingbo Wu, Zhong-Tao Li</author>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06346</guid>
     </item>
   </channel>
 </rss>

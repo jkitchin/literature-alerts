@@ -1,44 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Fri Apr  5 00:45:01 2024
+Created on Sat Apr  6 00:43:22 2024
 
-Found 32 results from 2024-03-29 to 2024-04-05
+Found 32 results from 2024-03-30 to 2024-04-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Recent Progress on the Surface and Bulk Modification of Carbon Nitrides for Photocatalytic Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4393276940    
-Open access: False
-    
-[Sisi Ma](https://openalex.org/A5059973732), [Shuaipeng Wang](https://openalex.org/A5034242615), [Xin Wang](https://openalex.org/A5029403476), [Songcan Wang](https://openalex.org/A5043018151), Energy technology (Weinheim. Print). None(None)] 2024.https://doi.org/10.1002/ente.202400136.
-    
-Photocatalytic CO 2 reduction has been considered as a green and sustainable approach to solve energy and environmental problems. However, the CO 2 reduction efficiency of various types of semiconductor photocatalysts studied at this stage is far from realizing practical applications. The challenge of photocatalytic CO 2 reduction is to design photocatalysts with excellent catalytic performance. This article summarizes the carbon nitride materials for efficient CO 2 reduction and obtaining high value‐added products. The physicochemical properties of carbon nitride materials are discussed in terms of the photocatalytic mechanisms (bandgap tuning, high specific surface area, shorter electron–hole transmission paths, increasing the number of active sites, etc.). The present review provides the latest research progress of carbon nitride modification strategies. The prospects and challenges for the application of carbon nitride materials for CO 2 reduction are presented. This review article will provide useful guidance for further research on carbon nitride materials for efficient photocatalytic CO 2 reduction.    
-
-    
-
-## Electronic Structure Design of Transition Metal-Based Catalysts for Electrochemical Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4393277737    
-Open access: True
-    
-[Liang Guo](https://openalex.org/A5066488748), [Jingwen Zhou](https://openalex.org/A5025709244), [Fu Liu](https://openalex.org/A5041781809), [Xiangchuan Meng](https://openalex.org/A5005566472), [Yangbo Ma](https://openalex.org/A5085300962), [Fengkun Hao](https://openalex.org/A5052246820), [Yi Xiong](https://openalex.org/A5011847790), [Zhanxi Fan](https://openalex.org/A5065739319), ACS nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c01456 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsnano.4c01456)).
-    
-No abstract    
-
-    
-
-## Ladder type covalent organic frameworks constructed with natural units for the oxygen and carbon dioxide reduction reactions   
-
-OpenAlex: https://openalex.org/W4393282347    
-Open access: False
-    
-[Minghao Liu](https://openalex.org/A5060008686), [Shuai Yang](https://openalex.org/A5090717104), [Yubin Fu](https://openalex.org/A5015297626), [Xiubei Yang](https://openalex.org/A5032456464), [Xuewen Li](https://openalex.org/A5076573585), [Jun He](https://openalex.org/A5048468640), [Qing Xu](https://openalex.org/A5069765087), [Gaofeng Zeng](https://openalex.org/A5028394871), Chemical engineering journal (1996. Print). None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150812.
-    
-Covalent organic frameworks (COFs) constructed with metallocyclophane units and organic linkers have found application as electrocatalytic systems. Nevertheless, the majority of linkers within COFs necessitate intricate design and synthesis. Conversely, the potential utilization of natural building blocks in COF construction remains largely unexplored. In this study, we constructed a natural COF (CoPc-EA-COF) by employing a natural phenolic molecule (ellagic acid (EA)) as the linker and Co-hexadecafluorophthalocyanine (CoPc) as blocks. This framework serves as an electrocatalyst for both the oxygen reduction reaction (ORR) and carbon dioxide reduction reaction (CO2RR). The incorporation of EA units imparts the CoPc-EA-COF with elevated electronic conductivity, enhanced CO2 binding affinity, and superior reductive capacity compared to the controlled COF lacking EA units. The CoPc-EA-COF demonstrated enhanced performance in the ORR, as evidenced by a half-wave potential of 0.80 V. Moreover, it showcased elevated activity and selectivity in the CO2RR, achieving a maximum CO faradic efficiency of 97.32 % at − 0.8 V, along with turnover frequency (TOF) values reaching 2092 h−1. Theoretical calculations revealed that the presence of EA units facilitated the generation of OOH* and COOH* species, which are pivotal in the rate-determining stages of both ORR and CO2RR processes. The contribution of EA units significantly bolstered the overall catalytic activity.    
-
-    
 
 ## The reduction mechanism of C1 product from carbon dioxide catalyzed by Ni-doped g-C3N4   
 
@@ -51,17 +18,6 @@ This work employs density functional theory (DFT) to scrutinize the catalytic ef
 
     
 
-## Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide   
-
-OpenAlex: https://openalex.org/W4393306954    
-Open access: False
-    
-[Shanchuan Li](https://openalex.org/A5016354285), [Tai Feng](https://openalex.org/A5076273742), [Qiwen Kong](https://openalex.org/A5044451841), [Jun Li](https://openalex.org/A5027835055), [Peiyi Liu](https://openalex.org/A5031500475), [Peng Ni](https://openalex.org/A5090322041), [Cuiping Wang](https://openalex.org/A5046573151), Journal of analytical and applied pyrolysis (Print). None(None)] 2024.https://doi.org/10.1016/j.jaap.2024.106488.
-    
-In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 °C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.    
-
-    
-
 ## Membrane contactor-photocatalytic hybrid system for carbon dioxide capture and conversion to formic acid   
 
 OpenAlex: https://openalex.org/W4393359313    
@@ -70,6 +26,17 @@ Open access: True
 [Andi Rina Ayu Astuti](https://openalex.org/A5011994599), [Wibawa Hendra Saputera](https://openalex.org/A5036754998), [Danu Ariono](https://openalex.org/A5085718408), [I Gede Wenten](https://openalex.org/A5057233335), [Dwiwahju Sasongko](https://openalex.org/A5015596389), Results in engineering. None(None)] 2024.https://doi.org/10.1016/j.rineng.2024.102085.
     
 The escalating demand for Carbon Capture and Utilization (CCU) schemes to mitigate CO2 emissions has propelled research into more efficient methods of CO2 conversion, such as the production of formic acid. While traditional approaches often require harsh operating conditions and substantial energy inputs, photocatalysis offers a promising alternative by harnessing CO2, water, and light for formic acid production. This study evaluates the performance and reaction kinetics of CO2 capture and conversion to formic acid using an integrated membrane contactor and photocatalytic process. Investigation into various CO2 absorbents and reduction catalysts reveals that TEA achieves a CO2 loading of 0.957 moles of CO2/mole of solvent, while NaOH achieves 0.75 moles of CO2/mole of solvent over a 4-hour operation period. Subsequent photoreduction of CO2 results in formic acid concentration of 15.89 ppm using ZnO and 10.16 ppm using TiO2 within the same 4-hour operation period at a gas flow rate of 800 ml/min. The rate of CO2 photoreduction to formic acid emerges as the limiting factor in this integrated process, indicating a need for further optimization. Key parameters identified for optimal performance include a UV source of 500 W, a medium pH of 10, and a catalyst loading of 0.5 g/L. This study contributes to the advancement of CCU technologies by demonstrating the feasibility of integrating CO2 capture and photoreduction using membrane contactors and photocatalytic systems, paving the way for sustainable formic acid production.    
+
+    
+
+## Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide   
+
+OpenAlex: https://openalex.org/W4393306954    
+Open access: False
+    
+[Shanchuan Li](https://openalex.org/A5016354285), [Tai Feng](https://openalex.org/A5076273742), [Qiwen Kong](https://openalex.org/A5044451841), [Jun Li](https://openalex.org/A5027835055), [Peiyi Liu](https://openalex.org/A5031500475), [Peng Ni](https://openalex.org/A5090322041), [Cuiping Wang](https://openalex.org/A5046573151), Journal of analytical and applied pyrolysis (Print). None(None)] 2024.https://doi.org/10.1016/j.jaap.2024.106488.
+    
+In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 °C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.    
 
     
 
@@ -114,6 +81,28 @@ Open access: True
 [I Ketut Rai Asmara Dipta](https://openalex.org/A5094354270), [Chan Woo Lee](https://openalex.org/A5004886231), Journal of CO2 utilization (Print). 82(None)] 2024.https://doi.org/10.1016/j.jcou.2024.102745.
     
 No abstract    
+
+    
+
+## Electrolyte Effects on the Reduction Potential and Carbon Dioxide Binding Affinity of Quinones   
+
+OpenAlex: https://openalex.org/W4393924865    
+Open access: True
+    
+[Alessandra Zito](https://openalex.org/A5007909679), [Jenny Y. Yang](https://openalex.org/A5082068997), Journal of the Electrochemical Society. None(None)] 2024.https://doi.org/10.1149/1945-7111/ad3ad7.
+    
+Abstract CO2 capture and concentration (CCC) is critical to carbon negative technologies and can reduce or eliminate carbon emission of current industrial processes. A popular method for electrochemically-driven CCC uses redox carriers that bind and release CO2 depending on their oxidation state. Two critical properties of redox carriers are the reduction potential required to ‘activate’ the redox carrier for CO2 capture and the CO2 binding constant. The former impacts the stability of the redox carrier towards oxidants such as O2, while the later determines the concentration levels of CO2 that can be captured. Quinones have been heavily studied as redox carriers. However, the impact of electrolyte on these properties has not been systematically explored. The reduction potential and the CO2 binding constant for 6 quinones and 3 alkylammonium hexafluorophophate electrolytes are quantified in acetonitrile. While alkylammonium cations are often considered inert and interchangeable, our studies show up to 100 mV changes in reduction potential with minimal changes to the CO2 binding constant.    
+
+    
+
+## Weak Bimetal Coupling-Assisted MN4 Catalyst for Enhanced Carbon Dioxide Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4393942817    
+Open access: False
+    
+[Hong-Xue Cai](https://openalex.org/A5023760032), [J.B. Wang](https://openalex.org/A5004406043), [Yuan‐Ru Guo](https://openalex.org/A5055593415), [Qing‐Jiang Pan](https://openalex.org/A5072831412), Inorganic chemistry. None(None)] 2024.https://doi.org/10.1021/acs.inorgchem.4c00058.
+    
+The design of multimetal catalysts holds immense significance for efficient CO2 capture and its conversion into economically valuable chemicals. Herein, heterobimetallic catalysts (MiMo)L were exploited for the CO2 reduction reactions (CO2RR) using relativistic density functional theory (DFT). The octadentate Pacman-like polypyrrolic ligand (H4L) accommodates two metal ions (Mo, W, Nd, and U) inside (Mi) and outside (Mo) its month, rendering a weak bimetal coupling-assisted MN4 catalytically active site. Adsorption reactions have access to energetically stable coordination modes of –OCO, –OOC, and –(OCO)2, where the donor atom(s) are marked in bold. Among all of the species, (UiMoo)L releases the most energy. Along CO2RR, it favors to produce CO. The high-efficiency CO2 reduction is attributed to the size matching of U with the ligand mouth and the effective manipulation of the electron density of both ligand and bimetals. The mechanism in which heterobimetals synergetically capture and reduce CO2 has been postulated. This establishes a reference in elaborating on the complicated heterogeneous catalysis.    
 
     
 
@@ -301,6 +290,17 @@ Open access: True
 [Antonio Fabozzi](https://openalex.org/A5072736187), [Francesca Cerciello](https://openalex.org/A5034273464), [Osvalda Senneca](https://openalex.org/A5076148122), Energies (Basel). 17(7)] 2024.https://doi.org/10.3390/en17071673 ([pdf](https://www.mdpi.com/1996-1073/17/7/1673/pdf?version=1711949729)).
     
 The iron industry is the largest energy-consuming manufacturing sector in the world, emitting 4–5% of the total carbon dioxide (CO2). The development of iron-based systems for CO2 capture and storage could effectively contribute to reducing CO2 emissions. A wide set of different iron oxides, such as hematite (Fe2O3), magnetite (Fe3O4), and wüstite (Fe(1−y)O) could in fact be employed for CO2 capture at room temperature and pressure upon an investigation of their capturing properties. In order to achieve the most functional iron oxide form for CO2 capture, starting from Fe2O3, a reducing agent such as hydrogen (H2) or carbon monoxide (CO) can be employed. In this review, we present the state-of-the-art and recent advances on the different iron oxide materials employed, as well as on their reduction reactions with H2 and CO.    
+
+    
+
+## New processes for the catalytic reduction of CO2 in chemicals   
+
+OpenAlex: https://openalex.org/W4393907059    
+Open access: True
+    
+[Solène Savourey](https://openalex.org/A5034052741), No host. None(None)] 2016.None ([pdf](https://theses.hal.science/tel-01531460/document)).
+    
+No abstract    
 
     
 

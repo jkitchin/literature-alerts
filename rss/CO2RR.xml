@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 05 Apr 2024 00:45:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 00:43:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Recent Progress on the Surface and Bulk Modification of Carbon Nitrides for Photocatalytic Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1002/ente.202400136</link>
-      <description>Sisi Ma, Shuaipeng Wang, Xin Wang, Songcan Wang, Energy technology (Weinheim. Print). None(None)] 2024. https://openalex.org/W4393276940
-
-                Photocatalytic CO 2 reduction has been considered as a green and sustainable approach to solve energy and environmental problems. However, the CO 2 reduction efficiency of various types of semiconductor photocatalysts studied at this stage is far from realizing practical applications. The challenge of photocatalytic CO 2 reduction is to design photocatalysts with excellent catalytic performance. This article summarizes the carbon nitride materials for efficient CO 2 reduction and obtaining high value&#8208;added products. The physicochemical properties of carbon nitride materials are discussed in terms of the photocatalytic mechanisms (bandgap tuning, high specific surface area, shorter electron&#8211;hole transmission paths, increasing the number of active sites, etc.). The present review provides the latest research progress of carbon nitride modification strategies. The prospects and challenges for the application of carbon nitride materials for CO 2 reduction are presented. This review article will provide useful guidance for further research on carbon nitride materials for efficient photocatalytic CO 2 reduction.</description>
-      <author>Sisi Ma, Shuaipeng Wang, Xin Wang, Songcan Wang</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ente.202400136</guid>
-    </item>
-    <item>
-      <title>Electronic Structure Design of Transition Metal-Based Catalysts for Electrochemical Carbon Dioxide Reduction</title>
-      <link>https://doi.org/10.1021/acsnano.4c01456</link>
-      <description>Liang Guo, Jingwen Zhou, Fu Liu, Xiangchuan Meng, Yangbo Ma, Fengkun Hao, Yi Xiong, Zhanxi Fan, ACS nano. None(None)] 2024. https://openalex.org/W4393277737
-
-                No abstract</description>
-      <author>Liang Guo, Jingwen Zhou, Fu Liu, Xiangchuan Meng, Yangbo Ma, Fengkun Hao, Yi Xiong, Zhanxi Fan</author>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01456</guid>
-    </item>
-    <item>
-      <title>Ladder type covalent organic frameworks constructed with natural units for the oxygen and carbon dioxide reduction reactions</title>
-      <link>https://doi.org/10.1016/j.cej.2024.150812</link>
-      <description>Minghao Liu, Shuai Yang, Yubin Fu, Xiubei Yang, Xuewen Li, Jun He, Qing Xu, Gaofeng Zeng, Chemical engineering journal (1996. Print). None(None)] 2024. https://openalex.org/W4393282347
-
-                Covalent organic frameworks (COFs) constructed with metallocyclophane units and organic linkers have found application as electrocatalytic systems. Nevertheless, the majority of linkers within COFs necessitate intricate design and synthesis. Conversely, the potential utilization of natural building blocks in COF construction remains largely unexplored. In this study, we constructed a natural COF (CoPc-EA-COF) by employing a natural phenolic molecule (ellagic acid (EA)) as the linker and Co-hexadecafluorophthalocyanine (CoPc) as blocks. This framework serves as an electrocatalyst for both the oxygen reduction reaction (ORR) and carbon dioxide reduction reaction (CO2RR). The incorporation of EA units imparts the CoPc-EA-COF with elevated electronic conductivity, enhanced CO2 binding affinity, and superior reductive capacity compared to the controlled COF lacking EA units. The CoPc-EA-COF demonstrated enhanced performance in the ORR, as evidenced by a half-wave potential of 0.80 V. Moreover, it showcased elevated activity and selectivity in the CO2RR, achieving a maximum CO faradic efficiency of 97.32 % at &#8722; 0.8 V, along with turnover frequency (TOF) values reaching 2092 h&#8722;1. Theoretical calculations revealed that the presence of EA units facilitated the generation of OOH* and COOH* species, which are pivotal in the rate-determining stages of both ORR and CO2RR processes. The contribution of EA units significantly bolstered the overall catalytic activity.</description>
-      <author>Minghao Liu, Shuai Yang, Yubin Fu, Xiubei Yang, Xuewen Li, Jun He, Qing Xu, Gaofeng Zeng</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.150812</guid>
-    </item>
     <item>
       <title>The reduction mechanism of C1 product from carbon dioxide catalyzed by Ni-doped g-C3N4</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114064</link>
@@ -48,16 +18,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114064</guid>
     </item>
     <item>
-      <title>Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide</title>
-      <link>https://doi.org/10.1016/j.jaap.2024.106488</link>
-      <description>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang, Journal of analytical and applied pyrolysis (Print). None(None)] 2024. https://openalex.org/W4393306954
-
-                In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 &#176;C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.</description>
-      <author>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106488</guid>
-    </item>
-    <item>
       <title>Membrane contactor-photocatalytic hybrid system for carbon dioxide capture and conversion to formic acid</title>
       <link>https://doi.org/10.1016/j.rineng.2024.102085</link>
       <description>Andi Rina Ayu Astuti, Wibawa Hendra Saputera, Danu Ariono, I Gede Wenten, Dwiwahju Sasongko, Results in engineering. None(None)] 2024. https://openalex.org/W4393359313
@@ -66,6 +26,16 @@
       <author>Andi Rina Ayu Astuti, Wibawa Hendra Saputera, Danu Ariono, I Gede Wenten, Dwiwahju Sasongko</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2024.102085</guid>
+    </item>
+    <item>
+      <title>Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide</title>
+      <link>https://doi.org/10.1016/j.jaap.2024.106488</link>
+      <description>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang, Journal of analytical and applied pyrolysis (Print). None(None)] 2024. https://openalex.org/W4393306954
+
+                In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 &#176;C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.</description>
+      <author>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106488</guid>
     </item>
     <item>
       <title>Supported Tetra-Atom Clusters on G-Cn as Catalysts for Electrochemical Reduction of Carbon Dioxide: A Computational Study</title>
@@ -106,6 +76,26 @@
       <author>I Ketut Rai Asmara Dipta, Chan Woo Lee</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcou.2024.102745</guid>
+    </item>
+    <item>
+      <title>Electrolyte Effects on the Reduction Potential and Carbon Dioxide Binding Affinity of Quinones</title>
+      <link>https://doi.org/10.1149/1945-7111/ad3ad7</link>
+      <description>Alessandra Zito, Jenny Y. Yang, Journal of the Electrochemical Society. None(None)] 2024. https://openalex.org/W4393924865
+
+                Abstract CO2 capture and concentration (CCC) is critical to carbon negative technologies and can reduce or eliminate carbon emission of current industrial processes. A popular method for electrochemically-driven CCC uses redox carriers that bind and release CO2 depending on their oxidation state. Two critical properties of redox carriers are the reduction potential required to &#8216;activate&#8217; the redox carrier for CO2 capture and the CO2 binding constant. The former impacts the stability of the redox carrier towards oxidants such as O2, while the later determines the concentration levels of CO2 that can be captured. Quinones have been heavily studied as redox carriers. However, the impact of electrolyte on these properties has not been systematically explored. The reduction potential and the CO2 binding constant for 6 quinones and 3 alkylammonium hexafluorophophate electrolytes are quantified in acetonitrile. While alkylammonium cations are often considered inert and interchangeable, our studies show up to 100 mV changes in reduction potential with minimal changes to the CO2 binding constant.</description>
+      <author>Alessandra Zito, Jenny Y. Yang</author>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1149/1945-7111/ad3ad7</guid>
+    </item>
+    <item>
+      <title>Weak Bimetal Coupling-Assisted MN&lt;sub&gt;4&lt;/sub&gt; Catalyst for Enhanced Carbon Dioxide Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acs.inorgchem.4c00058</link>
+      <description>Hong-Xue Cai, J.B. Wang, Yuan&#8208;Ru Guo, Qing&#8208;Jiang Pan, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4393942817
+
+                The design of multimetal catalysts holds immense significance for efficient CO2 capture and its conversion into economically valuable chemicals. Herein, heterobimetallic catalysts (MiMo)L were exploited for the CO2 reduction reactions (CO2RR) using relativistic density functional theory (DFT). The octadentate Pacman-like polypyrrolic ligand (H4L) accommodates two metal ions (Mo, W, Nd, and U) inside (Mi) and outside (Mo) its month, rendering a weak bimetal coupling-assisted MN4 catalytically active site. Adsorption reactions have access to energetically stable coordination modes of &#8211;OCO, &#8211;OOC, and &#8211;(OCO)2, where the donor atom(s) are marked in bold. Among all of the species, (UiMoo)L releases the most energy. Along CO2RR, it favors to produce CO. The high-efficiency CO2 reduction is attributed to the size matching of U with the ligand mouth and the effective manipulation of the electron density of both ligand and bimetals. The mechanism in which heterobimetals synergetically capture and reduce CO2 has been postulated. This establishes a reference in elaborating on the complicated heterogeneous catalysis.</description>
+      <author>Hong-Xue Cai, J.B. Wang, Yuan&#8208;Ru Guo, Qing&#8208;Jiang Pan</author>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c00058</guid>
     </item>
     <item>
       <title>Data from: Role of mass transport in electrochemical carbon dioxide reduction to methanol using immobilized cobalt phthalocyanine</title>
@@ -276,6 +266,16 @@
       <author>Antonio Fabozzi, Francesca Cerciello, Osvalda Senneca</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/en17071673</guid>
+    </item>
+    <item>
+      <title>New processes for the catalytic reduction of CO2 in chemicals</title>
+      <link>https://openalex.org/W4393907059</link>
+      <description>Sol&#232;ne Savourey, No host. None(None)] 2016. https://openalex.org/W4393907059
+
+                No abstract</description>
+      <author>Sol&#232;ne Savourey</author>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://openalex.org/W4393907059</guid>
     </item>
     <item>
       <title>CO2 Reduction Tafel Dataset for Bayesian Data Analysis</title>
