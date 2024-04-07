@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 06 Apr 2024 00:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 00:50:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The reduction mechanism of C1 product from carbon dioxide catalyzed by Ni-doped g-C3N4</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114064</link>
-      <description>Shuwei Zhang, Hai Feng, Chenyu Li, Xihua Cao, Hui Li, Yang Wu, Molecular catalysis (Online). 559(None)] 2024. https://openalex.org/W4393305887
-
-                This work employs density functional theory (DFT) to scrutinize the catalytic efficacy of nano nickel (Ni) clusters supported by graphitic carbon nitride (Nin@g-C3N4, where n ranges from 1 to 6) in the context of the CO2 reduction reaction (CO2RR). Structural examination revealed that Nin@g-C3N4 possesses a substantial binding energy (-1.63 eV to -7.72 eV), confirming the structural stability of the catalyst in the CO2RR. Electronic structure analysis revealed a pronounced orbital overlap near the Fermi level between the 3d orbital of Ni atoms and the 2p orbital of adjacent cavity nitrogen atoms in Nin@g-C3N4. Further insights are gleaned from the calculations of the Bader charge and energy band, indicating significant charge transfer and band gap alteration, suggesting enhanced conductivity due to Ni doping on g-C3N4. The catalytic performance in the CO2RR is predominantly influenced by the size of the doped Ni clusters. The Ni4@g-C3N4 cluster demonstrated optimal efficiency in producing formic acid (HCOOH) with a limiting potential of -0.12 V. In contrast, the Ni5@g-C3N4 cluster excels in methane (CH4) formation, with a limiting potential of -0.35 V. Additionally, these catalysts exhibit marked inhibition of the hydrogen evolution reaction, further underscoring their potential in CO2RR applications.</description>
-      <author>Shuwei Zhang, Hai Feng, Chenyu Li, Xihua Cao, Hui Li, Yang Wu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114064</guid>
-    </item>
     <item>
       <title>Membrane contactor-photocatalytic hybrid system for carbon dioxide capture and conversion to formic acid</title>
       <link>https://doi.org/10.1016/j.rineng.2024.102085</link>
@@ -26,16 +16,6 @@
       <author>Andi Rina Ayu Astuti, Wibawa Hendra Saputera, Danu Ariono, I Gede Wenten, Dwiwahju Sasongko</author>
       <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2024.102085</guid>
-    </item>
-    <item>
-      <title>Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide</title>
-      <link>https://doi.org/10.1016/j.jaap.2024.106488</link>
-      <description>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang, Journal of analytical and applied pyrolysis (Print). None(None)] 2024. https://openalex.org/W4393306954
-
-                In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 &#176;C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.</description>
-      <author>Shanchuan Li, Tai Feng, Qiwen Kong, Jun Li, Peiyi Liu, Peng Ni, Cuiping Wang</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jaap.2024.106488</guid>
     </item>
     <item>
       <title>Supported Tetra-Atom Clusters on G-Cn as Catalysts for Electrochemical Reduction of Carbon Dioxide: A Computational Study</title>
@@ -140,7 +120,7 @@
     <item>
       <title>Synthesis, study and characterization of new molecular catalysts for reduction of carbon dioxide with a view to use it as a carbon source.</title>
       <link>https://openalex.org/W4393356945</link>
-      <description>Marc Bourrez, HAL (Le Centre pour la Communication Scientifique Directe). None(None)] 2012. https://openalex.org/W4393356945
+      <description>Marc Bourrez, No host. None(None)] 2012. https://openalex.org/W4393356945
 
                 No abstract</description>
       <author>Marc Bourrez</author>
@@ -219,16 +199,6 @@
     </item>
     <item>
       <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
-      <link>https://doi.org/10.5281/zenodo.10069468</link>
-      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
-
-                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
-      <author>Hongxing He</author>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
-    </item>
-    <item>
-      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
       <link>https://doi.org/10.5281/zenodo.10069469</link>
       <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393709502
 
@@ -236,6 +206,16 @@
       <author>Hongxing He</author>
       <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069469</guid>
+    </item>
+    <item>
+      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
+      <link>https://doi.org/10.5281/zenodo.10069468</link>
+      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
+
+                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
+      <author>Hongxing He</author>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
     </item>
     <item>
       <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
@@ -326,6 +306,16 @@
       <author>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte</author>
       <pubDate>Tue, 18 Dec 2018 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6828103</guid>
+    </item>
+    <item>
+      <title>Research Progress in Preparation of Carboxylic Acids by Electrochemical Mediated Oxidative Carboxylation and Reductive Carboxylation of Carbon Dioxide</title>
+      <link>https://doi.org/10.6023/cjoc202311030</link>
+      <description>Shuai Lv, Gangguo Zhu, Jinzhong Yao, Hongwei Zhou, Youji huaxue. 44(3)] 2024. https://openalex.org/W4393905823
+
+                No abstract</description>
+      <author>Shuai Lv, Gangguo Zhu, Jinzhong Yao, Hongwei Zhou</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6023/cjoc202311030</guid>
     </item>
   </channel>
 </rss>

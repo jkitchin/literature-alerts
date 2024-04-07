@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sat Apr  6 00:43:22 2024
+Created on Sun Apr  7 00:50:20 2024
 
-Found 32 results from 2024-03-30 to 2024-04-06
+Found 31 results from 2024-03-31 to 2024-04-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## The reduction mechanism of C1 product from carbon dioxide catalyzed by Ni-doped g-C3N4   
-
-OpenAlex: https://openalex.org/W4393305887    
-Open access: False
-    
-[Shuwei Zhang](https://openalex.org/A5060962249), [Hai Feng](https://openalex.org/A5051223797), [Chenyu Li](https://openalex.org/A5022640003), [Xihua Cao](https://openalex.org/A5081363438), [Hui Li](https://openalex.org/A5055839024), [Yang Wu](https://openalex.org/A5059819025), Molecular catalysis (Online). 559(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114064.
-    
-This work employs density functional theory (DFT) to scrutinize the catalytic efficacy of nano nickel (Ni) clusters supported by graphitic carbon nitride (Nin@g-C3N4, where n ranges from 1 to 6) in the context of the CO2 reduction reaction (CO2RR). Structural examination revealed that Nin@g-C3N4 possesses a substantial binding energy (-1.63 eV to -7.72 eV), confirming the structural stability of the catalyst in the CO2RR. Electronic structure analysis revealed a pronounced orbital overlap near the Fermi level between the 3d orbital of Ni atoms and the 2p orbital of adjacent cavity nitrogen atoms in Nin@g-C3N4. Further insights are gleaned from the calculations of the Bader charge and energy band, indicating significant charge transfer and band gap alteration, suggesting enhanced conductivity due to Ni doping on g-C3N4. The catalytic performance in the CO2RR is predominantly influenced by the size of the doped Ni clusters. The Ni4@g-C3N4 cluster demonstrated optimal efficiency in producing formic acid (HCOOH) with a limiting potential of -0.12 V. In contrast, the Ni5@g-C3N4 cluster excels in methane (CH4) formation, with a limiting potential of -0.35 V. Additionally, these catalysts exhibit marked inhibition of the hydrogen evolution reaction, further underscoring their potential in CO2RR applications.    
-
-    
 
 ## Membrane contactor-photocatalytic hybrid system for carbon dioxide capture and conversion to formic acid   
 
@@ -26,17 +15,6 @@ Open access: True
 [Andi Rina Ayu Astuti](https://openalex.org/A5011994599), [Wibawa Hendra Saputera](https://openalex.org/A5036754998), [Danu Ariono](https://openalex.org/A5085718408), [I Gede Wenten](https://openalex.org/A5057233335), [Dwiwahju Sasongko](https://openalex.org/A5015596389), Results in engineering. None(None)] 2024.https://doi.org/10.1016/j.rineng.2024.102085.
     
 The escalating demand for Carbon Capture and Utilization (CCU) schemes to mitigate CO2 emissions has propelled research into more efficient methods of CO2 conversion, such as the production of formic acid. While traditional approaches often require harsh operating conditions and substantial energy inputs, photocatalysis offers a promising alternative by harnessing CO2, water, and light for formic acid production. This study evaluates the performance and reaction kinetics of CO2 capture and conversion to formic acid using an integrated membrane contactor and photocatalytic process. Investigation into various CO2 absorbents and reduction catalysts reveals that TEA achieves a CO2 loading of 0.957 moles of CO2/mole of solvent, while NaOH achieves 0.75 moles of CO2/mole of solvent over a 4-hour operation period. Subsequent photoreduction of CO2 results in formic acid concentration of 15.89 ppm using ZnO and 10.16 ppm using TiO2 within the same 4-hour operation period at a gas flow rate of 800 ml/min. The rate of CO2 photoreduction to formic acid emerges as the limiting factor in this integrated process, indicating a need for further optimization. Key parameters identified for optimal performance include a UV source of 500 W, a medium pH of 10, and a catalyst loading of 0.5 g/L. This study contributes to the advancement of CCU technologies by demonstrating the feasibility of integrating CO2 capture and photoreduction using membrane contactors and photocatalytic systems, paving the way for sustainable formic acid production.    
-
-    
-
-## Investigation of iron oxide supported on activated coke for catalytic reduction of sulfur dioxide by carbon monoxide   
-
-OpenAlex: https://openalex.org/W4393306954    
-Open access: False
-    
-[Shanchuan Li](https://openalex.org/A5016354285), [Tai Feng](https://openalex.org/A5076273742), [Qiwen Kong](https://openalex.org/A5044451841), [Jun Li](https://openalex.org/A5027835055), [Peiyi Liu](https://openalex.org/A5031500475), [Peng Ni](https://openalex.org/A5090322041), [Cuiping Wang](https://openalex.org/A5046573151), Journal of analytical and applied pyrolysis (Print). None(None)] 2024.https://doi.org/10.1016/j.jaap.2024.106488.
-    
-In view of the low utilization rate of by-product in limestone-gypsum wet flue gas desulfurization process, a method of catalytic reduction of SO2 to elemental sulfur was proposed. In this work, supported iron catalyst using activated coke as supporter was prepared and characterized. Moreover, the performance of SO2 reduction using CO as reducing agent at various Fe loadings, temperatures, gaseous hourly space velocities and CO/SO2 molar ratios was studied. Research shows that, compared with other metals, the highest catalytic activity is achieved over Fe-based catalyst. The iron sulfide is the main active component during the catalytic reduction reaction, hence the catalyst needs to be presulfided before use. The micropores of activated coke become more abundant after loading Fe, whereas excessive increase of Fe loading may bloke the mesopores and weaken the catalytic activity. Higher reaction temperature, lower GHSV and a stoichiometric molar ratio are conducive to the improvement of SO2 conversion and S yield. The catalytic performance at lower temperatures was further improved by loading Co. When the Co loading is 4 wt.%, the SO2 conversion rate reaches 90.9% at 400 °C because loading Co enhances the redox performance of the catalyst surface. The findings are instructive for the development of cost-effective carbon-based catalysts for resource recovery of sulfur.    
 
     
 
@@ -153,9 +131,9 @@ No abstract
 ## Synthesis, study and characterization of new molecular catalysts for reduction of carbon dioxide with a view to use it as a carbon source.   
 
 OpenAlex: https://openalex.org/W4393356945    
-Open access: False
+Open access: True
     
-[Marc Bourrez](https://openalex.org/A5058725002), HAL (Le Centre pour la Communication Scientifique Directe). None(None)] 2012.None.
+[Marc Bourrez](https://openalex.org/A5058725002), No host. None(None)] 2012.None ([pdf](https://theses.hal.science/tel-00841046/document)).
     
 No abstract    
 
@@ -240,10 +218,10 @@ Pathways, structures, gas-phase and solvation energies of aqueous borohydride re
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393749257    
+OpenAlex: https://openalex.org/W4393709502    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
@@ -251,10 +229,10 @@ Summary of published carbon dioxide field emission data and their influence fact
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393709502    
+OpenAlex: https://openalex.org/W4393749257    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
@@ -356,5 +334,16 @@ Open access: True
 [Emanuel Billeter](https://openalex.org/A5028426858), [Terreni Jasmin](https://openalex.org/A5009932749), [Andreas Borgschulte](https://openalex.org/A5088521783), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018.https://doi.org/10.5281/zenodo.6828103.
     
 Dataset to "Hydride Formation Diminishes CO2 Reduction Rate on Palladium" as published in ChemPhysChem, 20 (2019), 1398-1403    
+
+    
+
+## Research Progress in Preparation of Carboxylic Acids by Electrochemical Mediated Oxidative Carboxylation and Reductive Carboxylation of Carbon Dioxide   
+
+OpenAlex: https://openalex.org/W4393905823    
+Open access: False
+    
+[Shuai Lv](https://openalex.org/A5051824914), [Gangguo Zhu](https://openalex.org/A5043719260), [Jinzhong Yao](https://openalex.org/A5024174978), [Hongwei Zhou](https://openalex.org/A5089316770), Youji huaxue. 44(3)] 2024.https://doi.org/10.6023/cjoc202311030.
+    
+No abstract    
 
     
