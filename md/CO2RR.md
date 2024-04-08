@@ -1,6 +1,6 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Apr  8 15:20:38 2024
+Created on Mon Apr  8 15:23:59 2024
 
 Found 30 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
