@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 00:46:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>First-principles modeling of corrosion potential/current and its application in AZ and AZ-RE Magnesium Alloys</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.108771</link>
-      <description>Yuhao Huang, Xumin Zhang, Jiawei Wang, Y. Zeng, Xi Zhang, Luo Li, Yong Liu, Materials today communications. None(None)] 2024. https://openalex.org/W4393346570
-
-                First-principles modeling for magnesium corrosion potential/current has been established in this work. The corrosion potential formulation should be UaSHE=ln10RTlgnFkTh+Gv+NAN&#215;S&#215;Esurf+(10ln10)RT+0.65&#955;2nF&#8722;(&#955;1+&#955;2)nF(the intersection point of anodic and cathodic branch). And the one for the corrosion current density should belgJtot=lgJm+km&#215;&#8721;(fm&#215;&#8710;Em)+ki&#215;&#8721;(fi&#215;&#8710;Ei)(including matrix corrosion lgJm, matrix interplane galvanic corrosion km&#215;&#8721;(fm&#215;&#8710;Em), second phase galvanic corrosionki&#215;&#8721;(fi&#215;&#8710;Ei) and &#8710;E is the intergranular potential difference between phase/matrix planes and Mg(0001)). Applied the modeling to simulate AZ and AZ-RE electrochemical corrosion, the predicted potential/current values are quite coherent with the experimental polarization ones. The role of alloying element on corrosion have also been discussed at atomic level. The main alloying element (such as Al or Zn in AZ, or AZ-RE) would affect work function &#934;, surface energy density Esurf/&#961;, and hydrogen atom adsorption free energy &#8710;GH*, so it influences anode/cathode reaction greatly and works a lot on Ua and lgJm. Furthermore, main alloy and minor alloy (such as RE in AZ-RE) would make their own contribution on galvanic corrosion by holding the potential difference &#8710;Em or &#8710;Ei and keeping mole fraction fm or fi. The work provide the modeling which could predict the corrosion potential/current values for magnesium alloy, which are directly correspond to the polarization curves. It also could give a theoretical understanding for alloying effect on corrosion. It suggests a more flexible way for seeking corrosion-resistant alloys.</description>
-      <author>Yuhao Huang, Xumin Zhang, Jiawei Wang, Y. Zeng, Xi Zhang, Luo Li, Yong Liu</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.108771</guid>
-    </item>
-    <item>
-      <title>Methanol&#8208;Facilitated Surface Reconstruction Catalysts for Near 200% Faradaic Efficiency in a Coupled System</title>
-      <link>https://doi.org/10.1002/adfm.202314596</link>
-      <description>Xia Qin, Chengkai Jin, Yu Lun Huang, Yanjie Zhai, Wenkai Han, Cheng Cheng, Chuan Xia, Chun Che Lin, Xunhua Zhao, Xiao Zhang, Advanced functional materials (Print). None(None)] 2024. https://openalex.org/W4393345338
-
-                Abstract The coupling of the carbon dioxide reduction reaction (CO 2 RR) and methanol oxidation reaction (MOR) holds great promise for the energy&#8208;efficient production of HCOO &#8722; . However, anode catalysts' limited selectivity (&lt;80%) and stability (&lt;15 h) have impeded electron utilization and HCOO &#8722; production rates. To overcome it, copper&#8208;copper(I) oxide&#8208;copper(II) oxide nanowires (Cu&#9472;CuO&#9472;Cu 2 O NWs) catalysts have been developed, which exhibit exceptional performance in promoting the MOR with a faradic efficiency of nearly 100% at commercially viable current densities, and long stability over 100 h at 100 mA cm &#8722;2 . Interestingly, the unique structure of the catalysts, when exposed to methanol, facilitates a transition from Cu/CuO to Cu 2 O. This phenomenon promotes the MOR while inhibiting the competitive oxygen evolution reaction (OER). By coupling the anodic reaction with cathodic CO 2 reduction, the system demonstrates exceptional performance in HCOO &#8722; production, achieving an overall faradic efficiency of nearly 200% at 100 mA cm &#8722;2 with a low cell voltage of 2.382 V. Techno&#8208;economic analysis indicates that the production costs of HCOOH are &#8776;US$0.37 and 0.35 kg &#8722;1 at 100 and 150 mA cm &#8722;2 , respectively, significantly lower than those associated with traditional electrochemical methods.</description>
-      <author>Xia Qin, Chengkai Jin, Yu Lun Huang, Yanjie Zhai, Wenkai Han, Cheng Cheng, Chuan Xia, Chun Che Lin, Xunhua Zhao, Xiao Zhang</author>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202314596</guid>
-    </item>
     <item>
       <title>Exploring Cu-Doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Bifunctional Oxygen Electrocatalysts for Aqueous Zn&#8211;Air Batteries</title>
       <link>https://doi.org/10.1021/acsami.4c00571</link>
@@ -40,7 +20,7 @@
     <item>
       <title>Unraveling Surface Reconstruction During Oxygen Evolution Reaction on the Defined Spinel Oxide Surface</title>
       <link>https://doi.org/10.1002/adfm.202401095</link>
-      <description>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung, Advanced functional materials (Print). None(None)] 2024. https://openalex.org/W4393364585
+      <description>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393364585
 
                 Abstract The reconstructed surface structure of Co&#8208;based spinel oxides serves as the active site for oxygen evolution reaction (OER). However, the structural complexity of spinel oxides and surface dynamics during the OER hinder the understanding of the reconstruction mechanism and electronic structure of the active site. In this study, spinel Co 3 O 4 @(CoFeV) 3 O 4 nanocube (CoFeV) is reported, a (001) facet&#8208;defined spinel oxide comprising Co, Fe, and V deposited on the Co 3 O 4 nanocube template to exclude facet&#8208;dependent factors. Introducing highly dissoluble V cations accelerates the reconstruction process to enhance the electrocatalytic activity. CoFeV exhibited enhanced electrocatalytic activity (266 mV at 10 mA cm &#8722;2 in 1 M KOH) and durability (maintained stable electrocatalytic activity during a 200 h chronopotentiometry (CP) test at 100 mA cm &#8722;2 ) with significantly enlarged electrochemically active surface area (ECSA). The experimental and theoretical results demonstrated that V dissolution during catalysis induced oxygen vacancies, accelerating the surface reconstruction to highly active oxyhydroxide. Consequently, the anion exchange membrane water electrolyzer (AEMWE) of CoFeV as the anode exhibited a remarkable performance of 6.19 A cm &#8722;2 at 2.0 V cell in 1 M KOH and robust durability for 96 h at a constant current density of 500 mA cm &#8722;2 .</description>
       <author>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung</author>
@@ -60,10 +40,10 @@
     <item>
       <title>Stability and lifetime of diffusion-trapped oxygen in oxide-derived copper CO2 reduction electrocatalysts</title>
       <link>https://doi.org/10.1038/s41929-024-01132-5</link>
-      <description>Zan Lian, Federico Dattila, N&#250;ria Lop&#233;z, Nature Catalysis. None(None)] 2024. https://openalex.org/W4393379673
+      <description>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez, Nature Catalysis. None(None)] 2024. https://openalex.org/W4393379673
 
                 Abstract Oxide-derived Cu has an excellent ability to promote C&#8211;C coupling in the electrochemical carbon dioxide reduction reaction. However, these materials largely rearrange under reaction conditions; therefore, the nature of the active site remains controversial. Here we study the reduction process of oxide-derived Cu via large-scale molecular dynamics with a precise neural network potential trained on first-principles data and introducing experimental conditions. The oxygen concentration in the most stable oxide-derived Cu increases with an increase of the pH, potential or specific surface area. In long electrochemical experiments, the catalyst would be fully reduced to Cu, but removing all the trapped oxygen takes a considerable amount of time. Although the highly reconstructed Cu surface provides various sites to adsorb oxygen more strongly, the surface oxygen atoms are not stable under common experimental conditions. This work provides insight into the evolution of oxide-derived Cu catalysts and residual oxygen during reaction and also a deep understanding of the nature of active sites.</description>
-      <author>Zan Lian, Federico Dattila, N&#250;ria Lop&#233;z</author>
+      <author>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01132-5</guid>
     </item>
@@ -220,7 +200,7 @@
     <item>
       <title>Tuning A&#8208;Site Cation Deficiency in Pr&lt;sub&gt;0.5&lt;/sub&gt;La&lt;sub&gt;0.5&lt;/sub&gt;BaCo&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5+&lt;/sub&gt;&lt;i&gt;&lt;sub&gt;&#948;&lt;/sub&gt;&lt;/i&gt; Perovskite to Realize Large&#8208;Scale Hydrogen Evolution at 2000 mA cm&lt;sup&gt;&#8722;2&lt;/sup&gt;</title>
       <link>https://doi.org/10.1002/smll.202400760</link>
-      <description>Kaiqian Li, Tian Xia, Ruiping Deng, Yingnan Dou, Jingping Wang, Qiang Li, Liping Sun, Li-Hua Huo, Hui Zhao, Small (Weinheim. Print). None(None)] 2024. https://openalex.org/W4393865235
+      <description>Kaiqian Li, Tian Xia, Ruiping Deng, Yingnan Dou, Jingping Wang, Qiang Li, Liping Sun, Li-Hua Huo, Hui Zhao, Small. None(None)] 2024. https://openalex.org/W4393865235
 
                 Abstract Industrial&#8208;level hydrogen production from the water electrolysis requires reducing the overpotential ( &#951; ) as much as possible at high current density, which is closely related to intrinsic activity of the electrocatalysts. Herein, A&#8208;site cation deficiency engineering is proposed to screen high&#8208;performance catalysts, demonstrating effective Pr 0.5&#8208; x La 0.5 BaCo 2 O 5+ &#948; (P 0.5&#8208; x LBC) perovskites toward alkaline hydrogen evolution reaction (HER). Among all perovskite compositions, Pr 0.4 La 0.5 BaCo 2 O 5+ &#948; (P0.4LBC) exhibits superior HER performance along with unique operating stability at large current densities ( J = 500&#8211;2000 mA cm&#8722;2 geo). The overpotential of &#8776;636 mV is achieved in P0.4LBC at 2000 mA cm&#8722;2 geo, which outperforms commercial Pt/C benchmark (&#8776;974 mV). Furthermore, the Tafel slope of P0.4LBC (34.1 mV dec &#8722;1 ) is close to that of Pt/C (35.6 mV dec &#8722;1 ), reflecting fast HER kinetics on the P0.4LBC catalyst. Combined with experimental and theoretical results, such catalytic activity may benefit from enhanced electrical conductivity, enlarged Co&#8208;O covalency, and decreased desorption energy of H * species. This results highlight effective A&#8208;site cation&#8208;deficient strategy for promoting electrochemical properties of perovskites, highlighting potential water electrolysis at ampere&#8208;level current density.</description>
       <author>Kaiqian Li, Tian Xia, Ruiping Deng, Yingnan Dou, Jingping Wang, Qiang Li, Liping Sun, Li-Hua Huo, Hui Zhao</author>
@@ -256,6 +236,26 @@
       <author>Shoufu Cao, Hongyu Chen, Xiaofei Wei, Jiao Li, Chunyu Yang, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang, Xiaoqing Lu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119094</guid>
+    </item>
+    <item>
+      <title>Mechanism and performance of photocatalytic H2 evolution for carbon self-doped TiO2 derived from MIL-125</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.03.154</link>
+      <description>Ying Zhao, Nan Yang, Tong Zhou, Wei Zhan, Jie Zhao, Mingpeng Chen, Tianwei He, Jin Zhang, Yuming Zhang, Genlin Zhang, Qingju Liu, International journal of hydrogen energy. 65(None)] 2024. https://openalex.org/W4393925299
+
+                No abstract</description>
+      <author>Ying Zhao, Nan Yang, Tong Zhou, Wei Zhan, Jie Zhao, Mingpeng Chen, Tianwei He, Jin Zhang, Yuming Zhang, Genlin Zhang, Qingju Liu</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.154</guid>
+    </item>
+    <item>
+      <title>Tuning the Structure of Pd@Ni&#8211;Co Nanowires and Their Electrochemical Properties</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00376</link>
+      <description>Dariusz &#321;ukowiec, Magdalena Gw&#243;&#378;d&#378;, Alina Brz&#281;czek&#8208;Szafran, Tomasz Wasiak, Dawid Janas, Jerzy Kubacki, Stanis&#322;aw Wac&#322;awek, Adrian Rado&#324;, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4393927143
+
+                One-dimensional transition metal materials are promising supports for precious metals used in energy production processes. Due to their electrochemical properties, 3d-group metals (such as Ni, Co, and Fe) can actively interact with catalysts by a strong metal&#8211;support interaction. This study shows that changing the Ni:Co ratio makes it possible to modulate the structure of the catalyst supports, which, in turn, provides a tool for designing their electrical and electrochemical properties. For example, Ni1&#8211;Co9 shows the highest electrical conductivity (5.8&#8211;10&#8211;4 S/cm) among all of the materials examined. On the contrary, the Pd@Ni7&#8211;Co3 system presents the highest mass activity (&gt;2000 mA mg&#8211;1) at 0.7 V, exceeding by several times that of commercial Pt/C (&gt;300 mA mg&#8211;1) at the same potential. Our study opens the gateway for applications of bimetallic transition metal nanowires in catalytic conversion and energy production processes.</description>
+      <author>Dariusz &#321;ukowiec, Magdalena Gw&#243;&#378;d&#378;, Alina Brz&#281;czek&#8208;Szafran, Tomasz Wasiak, Dawid Janas, Jerzy Kubacki, Stanis&#322;aw Wac&#322;awek, Adrian Rado&#324;</author>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00376</guid>
     </item>
     <item>
       <title>Validation workflow for machine learning interatomic potentials for complex ceramics</title>

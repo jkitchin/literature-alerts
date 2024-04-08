@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 07 Apr 2024 00:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 00:45:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tuning Strong Metal&#8211;Support Interactions via Synergistic Alloying</title>
-      <link>https://doi.org/10.1021/acscatal.3c06171</link>
-      <description>Yunlong Wang, Xiaobo Chen, Chaoran Li, Yaguang Zhu, Jing Li, Shiyao Shan, Adrian Hunt, Iradwikanari Waluyo, J. Anibal Boscoboinik, Chuan&#8208;Jian Zhong, Guangwen Zhou, ACS catalysis. None(None)] 2024. https://openalex.org/W4393345356
-
-                The encapsulation phenomenon associated with a strong metal&#8211;support interactions (SMSI) has been largely restricted to catalyst systems consisting of group VIII metals with high surface energy and reducible transition metal oxide supports with low surface energy. Here, we demonstrate an encapsulation phenomenon that, while sharing morphological similarities with conventional SMSI, follows a distinctive pathway. This is shown by the encapsulation of CuAu nanoparticles (NPs) supported on a highly ordered pyrolytic graphite (HOPG). Through dynamic monitoring of Cu, Au, and Cu50Au50 NPs in an oxidizing atmosphere using ambient-pressure X-ray photoelectron spectroscopy, we show that this spontaneous encapsulation is achieved through the synergistic effect of the alloying elements. Specifically, the surface segregation of Cu promotes dissociative O2 adsorption, leading to the formation of atomic O species, while the subsurface enrichment of Au hinders O incorporation of oxygen into the bulk of CuAu NPs. Consequently, O spillover onto the graphite support occurs, resulting in the oxidation of the HOPG surface into graphitic oxide species. The higher affinity of the graphitic oxide species toward the Cu-segregated surface prompts their migration from the HOPG support to encapsulate the CuAu NPs. These results transcend the conventional SMSI and bear practical implications for the design and development of heterogeneous catalysts, particularly in carbon-supported alloy systems.</description>
-      <author>Yunlong Wang, Xiaobo Chen, Chaoran Li, Yaguang Zhu, Jing Li, Shiyao Shan, Adrian Hunt, Iradwikanari Waluyo, J. Anibal Boscoboinik, Chuan&#8208;Jian Zhong, Guangwen Zhou</author>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06171</guid>
-    </item>
     <item>
       <title>Tunable Divergent Reactivity of Aziridinium Ylides in the Synthesis of Complex Piperidines and Azetidines</title>
       <link>https://doi.org/10.1021/acscatal.3c06173</link>
@@ -256,6 +246,16 @@
       <author/>
       <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i007_1787822</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i007_1787821</link>
+      <description>, ACS catalysis. 14(7)] 2024. https://openalex.org/W4393990563
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i007_1787821</guid>
     </item>
   </channel>
 </rss>

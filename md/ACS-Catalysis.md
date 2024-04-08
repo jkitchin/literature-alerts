@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Apr  7 00:50:22 2024
+Created on Mon Apr  8 00:45:56 2024
 
-Found 25 results from 2024-03-31 to 2024-04-07
+Found 25 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Tuning Strong Metal–Support Interactions via Synergistic Alloying   
-
-OpenAlex: https://openalex.org/W4393345356    
-Open access: False
-    
-[Yunlong Wang](https://openalex.org/A5050613147), [Xiaobo Chen](https://openalex.org/A5010949964), [Chaoran Li](https://openalex.org/A5075446655), [Yaguang Zhu](https://openalex.org/A5086708025), [Jing Li](https://openalex.org/A5012677271), [Shiyao Shan](https://openalex.org/A5080482655), [Adrian Hunt](https://openalex.org/A5061621593), [Iradwikanari Waluyo](https://openalex.org/A5053922026), [J. Anibal Boscoboinik](https://openalex.org/A5070392626), [Chuan‐Jian Zhong](https://openalex.org/A5026877218), [Guangwen Zhou](https://openalex.org/A5009173681), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06171.
-    
-The encapsulation phenomenon associated with a strong metal–support interactions (SMSI) has been largely restricted to catalyst systems consisting of group VIII metals with high surface energy and reducible transition metal oxide supports with low surface energy. Here, we demonstrate an encapsulation phenomenon that, while sharing morphological similarities with conventional SMSI, follows a distinctive pathway. This is shown by the encapsulation of CuAu nanoparticles (NPs) supported on a highly ordered pyrolytic graphite (HOPG). Through dynamic monitoring of Cu, Au, and Cu50Au50 NPs in an oxidizing atmosphere using ambient-pressure X-ray photoelectron spectroscopy, we show that this spontaneous encapsulation is achieved through the synergistic effect of the alloying elements. Specifically, the surface segregation of Cu promotes dissociative O2 adsorption, leading to the formation of atomic O species, while the subsurface enrichment of Au hinders O incorporation of oxygen into the bulk of CuAu NPs. Consequently, O spillover onto the graphite support occurs, resulting in the oxidation of the HOPG surface into graphitic oxide species. The higher affinity of the graphitic oxide species toward the Cu-segregated surface prompts their migration from the HOPG support to encapsulate the CuAu NPs. These results transcend the conventional SMSI and bear practical implications for the design and development of heterogeneous catalysts, particularly in carbon-supported alloy systems.    
-
-    
 
 ## Tunable Divergent Reactivity of Aziridinium Ylides in the Synthesis of Complex Piperidines and Azetidines   
 
@@ -276,6 +265,17 @@ OpenAlex: https://openalex.org/W4393982452
 Open access: True
     
 , ACS catalysis. 14(7)] 2024.https://doi.org/10.1021/csv014i007_1787822 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i007_1787822)).
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4393990563    
+Open access: True
+    
+, ACS catalysis. 14(7)] 2024.https://doi.org/10.1021/csv014i007_1787821 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i007_1787821)).
     
 No abstract    
 

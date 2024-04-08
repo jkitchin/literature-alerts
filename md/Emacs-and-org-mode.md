@@ -1,21 +1,10 @@
 # Emacs and org-mode
 Description: Emacs and org-mode
-Created on Sun Apr  7 00:50:11 2024
+Created on Mon Apr  8 00:45:50 2024
 
-Found 13 results from 2024-03-31 to 2024-04-07
+Found 13 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=default.search%3A%28%22emacs%22%20OR%20%22orgmode%22%20OR%20%22org-mode%22%29%20NOT%20%22emac%22](https://api.openalex.org/works?filter=default.search%3A%28%22emacs%22%20OR%20%22orgmode%22%20OR%20%22org-mode%22%29%20NOT%20%22emac%22)
-
-## A localization transition underlies the mode-coupling crossover of glasses   
-
-OpenAlex: https://openalex.org/W4393660132    
-Open access: True
-    
-[Daniele Coslovich](https://openalex.org/A5039977705), [Andrea Ninarello](https://openalex.org/A5015356820), [Ludovic Berthier](https://openalex.org/A5036561939), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019.https://doi.org/10.5281/zenodo.3065340.
-    
-This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf version of the org-mode project file project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description    
-
-    
 
 ## A localization transition underlies the mode-coupling crossover of glasses   
 
@@ -25,6 +14,17 @@ Open access: True
 [Daniele Coslovich](https://openalex.org/A5039977705), [Andrea Ninarello](https://openalex.org/A5015356820), [Ludovic Berthier](https://openalex.org/A5036561939), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019.https://doi.org/10.5281/zenodo.1478601.
     
 This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. The easiest way to reproduce the analysis is to use the make script: ./make setup ./make backup ./make clean ./make analysis ./make check If the above commands succeed, the figures can be reproduced with the command ./make plots Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf version of the org-mode project file project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes.    
+
+    
+
+## A localization transition underlies the mode-coupling crossover of glasses   
+
+OpenAlex: https://openalex.org/W4393660132    
+Open access: True
+    
+[Daniele Coslovich](https://openalex.org/A5039977705), [Andrea Ninarello](https://openalex.org/A5015356820), [Ludovic Berthier](https://openalex.org/A5036561939), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019.https://doi.org/10.5281/zenodo.3065340.
+    
+This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf version of the org-mode project file project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description    
 
     
 

@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun Apr  7 00:50:20 2024
+Created on Mon Apr  8 00:45:55 2024
 
-Found 31 results from 2024-03-31 to 2024-04-07
+Found 31 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -34,7 +34,7 @@ No abstract
 OpenAlex: https://openalex.org/W4393436393    
 Open access: True
     
-[Qian Zhao](https://openalex.org/A5086692009), [Mohamed Abdellah](https://openalex.org/A5051698444), [Yuehan Cao](https://openalex.org/A5028237878), [Jie Meng](https://openalex.org/A5085838387), [Xianshao Zou](https://openalex.org/A5071070148), [Kasper Enemark‐Rasmussen](https://openalex.org/A5043034054), [Weihua Lin](https://openalex.org/A5077056504), [Yang Li](https://openalex.org/A5064842058), [Yijiang Chen](https://openalex.org/A5005806536), [Hengli Duan](https://openalex.org/A5024334337), [Qinying Pan](https://openalex.org/A5071062593), [Ying Zhou](https://openalex.org/A5071872950), [Tönu Pullerits](https://openalex.org/A5026895728), [Hong Xu](https://openalex.org/A5065493202), [Sophie E. Canton](https://openalex.org/A5058674838), [Yuran Niu](https://openalex.org/A5022908218), [Kaibo Zheng](https://openalex.org/A5045655676), Advanced functional materials (Print). None(None)] 2024.https://doi.org/10.1002/adfm.202315734 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202315734)).
+[Qian Zhao](https://openalex.org/A5086692009), [Mohamed Abdellah](https://openalex.org/A5051698444), [Yuehan Cao](https://openalex.org/A5028237878), [Jie Meng](https://openalex.org/A5085838387), [Xianshao Zou](https://openalex.org/A5071070148), [Kasper Enemark‐Rasmussen](https://openalex.org/A5043034054), [Weihua Lin](https://openalex.org/A5077056504), [Yang Li](https://openalex.org/A5064842058), [Yijiang Chen](https://openalex.org/A5005806536), [Hengli Duan](https://openalex.org/A5024334337), [Qinying Pan](https://openalex.org/A5071062593), [Ying Zhou](https://openalex.org/A5071872950), [Tõnu Pullerits](https://openalex.org/A5026895728), [Hong Xu](https://openalex.org/A5065493202), [Sophie E. Canton](https://openalex.org/A5058674838), [Yuran Niu](https://openalex.org/A5022908218), [Kaibo Zheng](https://openalex.org/A5045655676), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202315734 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202315734)).
     
 Abstract The effective conversion of carbon dioxide (CO 2 ) into valuable chemical fuels relies significantly on the donation of multiple electrons. Its efficiency is closely linked to both the density and lifetime of excited charge carriers. In this study, a hybrid catalyst system comprising covalently bonded InP/ZnS quantum dots (QDs) and Re‐complexes is showcased. The electronic band alignment between the QDs and the Re‐complexes is revealed to dominate the multi‐electron transfer process for photocatalytic conversion to methane (CH 4 ). Notably, the size of the QDs is found to be a determining parameter. Among the three QD sizes investigated, transient absorption spectroscopy studies unveil that rapid multi‐electron transfer from the QDs to the Re‐catalyst occurs in smaller QDs (2.3 nm) due to the substantial driving force. Consequently, the photocatalytic conversion of CO 2 to CH 4 is significantly enhanced with a turnover number of 6, corresponding to the overall apparent quantum yield of ≈1%. This research underscores the possibilities of engineering multi‐electron transfer by manipulating the electronic band alignment within a catalytic system. This can serve as a guide for optimizing photocatalytic CO 2 reduction.    
 
@@ -45,7 +45,7 @@ Abstract The effective conversion of carbon dioxide (CO 2 ) into valuable chemic
 OpenAlex: https://openalex.org/W4393549453    
 Open access: False
     
-[Xiaoya Fan](https://openalex.org/A5003667516), [Chaozhen Liu](https://openalex.org/A5043749799), [Xun He](https://openalex.org/A5027180761), [Zixiao Li](https://openalex.org/A5084960189), [Luchao Yue](https://openalex.org/A5085471409), [Wenxi Zhao](https://openalex.org/A5055127644), [Jun Li](https://openalex.org/A5027835055), [Yan Wang](https://openalex.org/A5003642180), [Tingshuai Li](https://openalex.org/A5049557574), [Yongsong Luo](https://openalex.org/A5087989980), [Dewen Zheng](https://openalex.org/A5035861129), [Shengjun Sun](https://openalex.org/A5086150710), [Qian Liu](https://openalex.org/A5000510528), [Luming Li](https://openalex.org/A5072563150), [Wei Chu](https://openalex.org/A5056008057), [Feng Gong](https://openalex.org/A5077262940), [Bo Tang](https://openalex.org/A5039028486), [Yongchao Yao](https://openalex.org/A5084708809), [Xuping Sun](https://openalex.org/A5073001285), Advanced materials (Weinheim. Print). None(None)] 2024.https://doi.org/10.1002/adma.202401221.
+[Xiaoya Fan](https://openalex.org/A5003667516), [Chaozhen Liu](https://openalex.org/A5043749799), [Xun He](https://openalex.org/A5027180761), [Zixiao Li](https://openalex.org/A5084960189), [Luchao Yue](https://openalex.org/A5085471409), [Wenxi Zhao](https://openalex.org/A5055127644), [Jun Li](https://openalex.org/A5027835055), [Yan Wang](https://openalex.org/A5003642180), [Tingshuai Li](https://openalex.org/A5049557574), [Yongsong Luo](https://openalex.org/A5087989980), [Dewen Zheng](https://openalex.org/A5035861129), [Shengjun Sun](https://openalex.org/A5086150710), [Qian Liu](https://openalex.org/A5000510528), [Luming Li](https://openalex.org/A5072563150), [Wei Chu](https://openalex.org/A5056008057), [Feng Gong](https://openalex.org/A5077262940), [Bo Tang](https://openalex.org/A5039028486), [Yongchao Yao](https://openalex.org/A5084708809), [Xuping Sun](https://openalex.org/A5073001285), Advanced materials. None(None)] 2024.https://doi.org/10.1002/adma.202401221.
     
 Abstract Renewable electricity‐powered nitrate/carbon dioxide co‐reduction reaction toward urea production paves an attractive alternative to industrial urea processes and offers a clean on‐site approach to closing the global nitrogen cycle. However, its large‐scale implantation is severely impeded by challenging C‐N coupling and requires electrocatalysts with high activity/selectivity. Here, cobalt‐nanoparticles anchored on carbon nanosheet (Co NPs@C) is proposed as a catalyst electrode to boost yield and Faradaic efficiency (FE) toward urea electrosynthesis with enhanced C‐N coupling. Such Co NPs@C renders superb urea‐producing activity with a high FE reaching 54.3% and a urea yield of 2217.5 μg h –1 mg cat. –1 , much superior to the Co NPs and C nanosheet counterparts, and meanwhile shows strong stability. The Co NPs@C affords rich catalytically active sites, fast reactants diffusion, and sufficient catalytic surfaces‐electrolyte contacts with favored charge and ion transfer efficiencies. The theoretical calculations reveal that the high‐rate formation of *CO and *NH 2 intermediates is crucial for facilitating urea synthesis. This article is protected by copyright. All rights reserved    
 
@@ -218,10 +218,10 @@ Pathways, structures, gas-phase and solvation energies of aqueous borohydride re
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393709502    
+OpenAlex: https://openalex.org/W4393749257    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
@@ -229,10 +229,10 @@ Summary of published carbon dioxide field emission data and their influence fact
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393749257    
+OpenAlex: https://openalex.org/W4393709502    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 

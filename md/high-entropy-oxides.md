@@ -1,18 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sun Apr  7 00:50:21 2024
+Created on Mon Apr  8 00:45:56 2024
 
-Found 1 results from 2024-03-31 to 2024-04-07
+Found 0 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
-## Robust high-entropy spinel oxides for peroxymonosulfate activation: Stabilization effect and enhancement mechanism   
-
-OpenAlex: https://openalex.org/W4393346101    
-Open access: False
-    
-[Leijiang Zhang](https://openalex.org/A5088408133), [Na Wang](https://openalex.org/A5090728786), [Fengyuan Wang](https://openalex.org/A5053381863), [Ping Xu](https://openalex.org/A5049184232), [Xijiang Han](https://openalex.org/A5060128144), [Yunchen Du](https://openalex.org/A5039252789), Chemical engineering journal (1996. Print). None(None)] 2024.https://doi.org/10.1016/j.cej.2024.150826.
-    
-High-entropy alloys/oxides (HEAs/HEOs) combining multiple metal cations into single-phase structures are becoming attractive for catalysis and energy conversion. However, few relevant researches are available in the fields of peroxymonosulfate (PMS)-based advanced oxidation technologies. Herein, an entropy-stabilized spinel oxide, HESO [(Cr0.2Mn0.2Fe0.2Co0.2Ni0.2)3O4] has been successfully prepared for PMS activation taking bisphenol A (BPA) as a model pollutant. A stable HESO-600 with a well-defined spinel structure is harvested by regulating calcination temperature. HESO-600 exhibits specific structural and chemical stability, achieves complete degradation of BPA within 60 min, and gives minimal ion leaching (82 μg/L). Furthermore, even after 5 cycles, it maintains an efficiency of over 90 %. Combined results of characterizations and theoretical calculations, it is indicated that multiple active sites and synergistic effects of different elements in HESO-600 contribute to the strong adsorption of PMS and the efficient electron transport during the oxidation reaction. The random occupancy of multiple cations promotes the generation of oxygen vacancies, which are conducive to promoting the production of reactive oxygen species and strengthening the catalytic performance of catalyst. This work provides a new family of metal oxide catalysts to motivate PMS for water decontamination.    
-
-    

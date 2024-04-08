@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Sun Apr  7 00:50:20 2024
+Created on Mon Apr  8 00:45:55 2024
 
-Found 10 results from 2024-03-31 to 2024-04-07
+Found 10 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
@@ -61,17 +61,6 @@ The fifth research task carried out as part of the project concerns the electroc
 
     
 
-## : The second research task in the project entitled "Tunable liquid metal complexes as catalysts for the model chemical and electrochemical processes" - NCN project OPUS (grant no. 2020/37/B/ST8/00693).   
-
-OpenAlex: https://openalex.org/W4393835285    
-Open access: False
-    
-[Piotr Latos](https://openalex.org/A5034793707), [Anna Chrobok](https://openalex.org/A5078438269), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.7568310.
-    
-The second research task carried out under the project concerns the synthesis of metallate ionic liquids and the physical and chemical properties characterization. The information relates to study performed for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
-
-    
-
 ## The fourth research task in the project entitled "Tunable liquid metal complexes as catalysts for the model chemical and electrochemical processes" - NCN project OPUS (grant no. 2020/37/B/ST8/00693).   
 
 OpenAlex: https://openalex.org/W4393559946    
@@ -102,6 +91,17 @@ Open access: True
 [Anna Chrobok](https://openalex.org/A5078438269), [Piotr Latos](https://openalex.org/A5034793707), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.7701137.
     
 The third research task carried out under the project concerns the modification of solid carriers (MWCNTs, silica, inorganic oxide) with liquid metal complexes and the physical and chemical properties characterization of obtained materials. The information relates to study performing for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
+
+    
+
+## : The second research task in the project entitled "Tunable liquid metal complexes as catalysts for the model chemical and electrochemical processes" - NCN project OPUS (grant no. 2020/37/B/ST8/00693).   
+
+OpenAlex: https://openalex.org/W4393835285    
+Open access: False
+    
+[Piotr Latos](https://openalex.org/A5034793707), [Anna Chrobok](https://openalex.org/A5078438269), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.7568310.
+    
+The second research task carried out under the project concerns the synthesis of metallate ionic liquids and the physical and chemical properties characterization. The information relates to study performed for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
 
     
 
