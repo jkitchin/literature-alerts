@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Apr 2024 00:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 14:51:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -30,10 +30,10 @@
     <item>
       <title>Size&#8208;Dependent Multi&#8208;Electron Donation in Metal&#8208;Complex Quantum Dots Hybrid Catalyst for Photocatalytic Carbon Dioxide Reduction</title>
       <link>https://doi.org/10.1002/adfm.202315734</link>
-      <description>Qian Zhao, Mohamed Abdellah, Yuehan Cao, Jie Meng, Xianshao Zou, Kasper Enemark&#8208;Rasmussen, Weihua Lin, Yang Li, Yijiang Chen, Hengli Duan, Qinying Pan, Ying Zhou, T&#245;nu Pullerits, Hong Xu, Sophie E. Canton, Yuran Niu, Kaibo Zheng, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393436393
+      <description>Qian Zhao, Mohamed Abdellah, Yuehan Cao, Jie Meng, Xianshao Zou, Kasper Enemark&#8208;Rasmussen, Weihua Lin, Yang Li, Yijiang Chen, Hengli Duan, Qinying Pan, Ying Zhou, T&#246;nu Pullerits, Hong Xu, Sophie E. Canton, Yuran Niu, Kaibo Zheng, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393436393
 
                 Abstract The effective conversion of carbon dioxide (CO 2 ) into valuable chemical fuels relies significantly on the donation of multiple electrons. Its efficiency is closely linked to both the density and lifetime of excited charge carriers. In this study, a hybrid catalyst system comprising covalently bonded InP/ZnS quantum dots (QDs) and Re&#8208;complexes is showcased. The electronic band alignment between the QDs and the Re&#8208;complexes is revealed to dominate the multi&#8208;electron transfer process for photocatalytic conversion to methane (CH 4 ). Notably, the size of the QDs is found to be a determining parameter. Among the three QD sizes investigated, transient absorption spectroscopy studies unveil that rapid multi&#8208;electron transfer from the QDs to the Re&#8208;catalyst occurs in smaller QDs (2.3 nm) due to the substantial driving force. Consequently, the photocatalytic conversion of CO 2 to CH 4 is significantly enhanced with a turnover number of 6, corresponding to the overall apparent quantum yield of &#8776;1%. This research underscores the possibilities of engineering multi&#8208;electron transfer by manipulating the electronic band alignment within a catalytic system. This can serve as a guide for optimizing photocatalytic CO 2 reduction.</description>
-      <author>Qian Zhao, Mohamed Abdellah, Yuehan Cao, Jie Meng, Xianshao Zou, Kasper Enemark&#8208;Rasmussen, Weihua Lin, Yang Li, Yijiang Chen, Hengli Duan, Qinying Pan, Ying Zhou, T&#245;nu Pullerits, Hong Xu, Sophie E. Canton, Yuran Niu, Kaibo Zheng</author>
+      <author>Qian Zhao, Mohamed Abdellah, Yuehan Cao, Jie Meng, Xianshao Zou, Kasper Enemark&#8208;Rasmussen, Weihua Lin, Yang Li, Yijiang Chen, Hengli Duan, Qinying Pan, Ying Zhou, T&#246;nu Pullerits, Hong Xu, Sophie E. Canton, Yuran Niu, Kaibo Zheng</author>
       <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202315734</guid>
     </item>
@@ -199,16 +199,6 @@
     </item>
     <item>
       <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
-      <link>https://doi.org/10.5281/zenodo.10069468</link>
-      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
-
-                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
-      <author>Hongxing He</author>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
-    </item>
-    <item>
-      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
       <link>https://doi.org/10.5281/zenodo.10069469</link>
       <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393709502
 
@@ -218,14 +208,14 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069469</guid>
     </item>
     <item>
-      <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
-      <link>https://doi.org/10.5281/zenodo.7295464</link>
-      <description>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393810733
+      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
+      <link>https://doi.org/10.5281/zenodo.10069468</link>
+      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
 
-                RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J</description>
-      <author>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti</author>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7295464</guid>
+                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
+      <author>Hongxing He</author>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
     </item>
     <item>
       <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
@@ -236,6 +226,16 @@
       <author>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti</author>
       <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7295465</guid>
+    </item>
+    <item>
+      <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
+      <link>https://doi.org/10.5281/zenodo.7295464</link>
+      <description>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393810733
+
+                RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J</description>
+      <author>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti</author>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7295464</guid>
     </item>
     <item>
       <title>Reduction of Iron Oxides for CO2 Capture Materials</title>
@@ -306,16 +306,6 @@
       <author>Emanuel Billeter, Terreni Jasmin, Andreas Borgschulte</author>
       <pubDate>Tue, 18 Dec 2018 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6828103</guid>
-    </item>
-    <item>
-      <title>Research Progress in Preparation of Carboxylic Acids by Electrochemical Mediated Oxidative Carboxylation and Reductive Carboxylation of Carbon Dioxide</title>
-      <link>https://doi.org/10.6023/cjoc202311030</link>
-      <description>Shuai Lv, Gangguo Zhu, Jinzhong Yao, Hongwei Zhou, Youji huaxue. 44(3)] 2024. https://openalex.org/W4393905823
-
-                No abstract</description>
-      <author>Shuai Lv, Gangguo Zhu, Jinzhong Yao, Hongwei Zhou</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6023/cjoc202311030</guid>
     </item>
   </channel>
 </rss>

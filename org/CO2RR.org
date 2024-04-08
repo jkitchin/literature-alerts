@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Apr  8 00:45:55 2024
+Created on Mon Apr  8 14:51:55 2024
 
-Found 31 results from 2024-04-01 to 2024-04-08
+Found 30 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -64,7 +64,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4393436393 (Open access: True)
     
-[[https://openalex.org/A5086692009][Qian Zhao]], [[https://openalex.org/A5051698444][Mohamed Abdellah]], [[https://openalex.org/A5028237878][Yuehan Cao]], [[https://openalex.org/A5085838387][Jie Meng]], [[https://openalex.org/A5071070148][Xianshao Zou]], [[https://openalex.org/A5043034054][Kasper Enemark‐Rasmussen]], [[https://openalex.org/A5077056504][Weihua Lin]], [[https://openalex.org/A5064842058][Yang Li]], [[https://openalex.org/A5005806536][Yijiang Chen]], [[https://openalex.org/A5024334337][Hengli Duan]], [[https://openalex.org/A5071062593][Qinying Pan]], [[https://openalex.org/A5071872950][Ying Zhou]], [[https://openalex.org/A5026895728][Tõnu Pullerits]], [[https://openalex.org/A5065493202][Hong Xu]], [[https://openalex.org/A5058674838][Sophie E. Canton]], [[https://openalex.org/A5022908218][Yuran Niu]], [[https://openalex.org/A5045655676][Kaibo Zheng]], Advanced functional materials. None(None)] 2024. https://doi.org/10.1002/adfm.202315734  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202315734][pdf]])
+[[https://openalex.org/A5086692009][Qian Zhao]], [[https://openalex.org/A5051698444][Mohamed Abdellah]], [[https://openalex.org/A5028237878][Yuehan Cao]], [[https://openalex.org/A5085838387][Jie Meng]], [[https://openalex.org/A5071070148][Xianshao Zou]], [[https://openalex.org/A5043034054][Kasper Enemark‐Rasmussen]], [[https://openalex.org/A5077056504][Weihua Lin]], [[https://openalex.org/A5064842058][Yang Li]], [[https://openalex.org/A5005806536][Yijiang Chen]], [[https://openalex.org/A5024334337][Hengli Duan]], [[https://openalex.org/A5071062593][Qinying Pan]], [[https://openalex.org/A5071872950][Ying Zhou]], [[https://openalex.org/A5026895728][Tönu Pullerits]], [[https://openalex.org/A5065493202][Hong Xu]], [[https://openalex.org/A5058674838][Sophie E. Canton]], [[https://openalex.org/A5022908218][Yuran Niu]], [[https://openalex.org/A5045655676][Kaibo Zheng]], Advanced functional materials. None(None)] 2024. https://doi.org/10.1002/adfm.202315734  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/adfm.202315734][pdf]])
      
 Abstract The effective conversion of carbon dioxide (CO 2 ) into valuable chemical fuels relies significantly on the donation of multiple electrons. Its efficiency is closely linked to both the density and lifetime of excited charge carriers. In this study, a hybrid catalyst system comprising covalently bonded InP/ZnS quantum dots (QDs) and Re‐complexes is showcased. The electronic band alignment between the QDs and the Re‐complexes is revealed to dominate the multi‐electron transfer process for photocatalytic conversion to methane (CH 4 ). Notably, the size of the QDs is found to be a determining parameter. Among the three QD sizes investigated, transient absorption spectroscopy studies unveil that rapid multi‐electron transfer from the QDs to the Re‐catalyst occurs in smaller QDs (2.3 nm) due to the substantial driving force. Consequently, the photocatalytic conversion of CO 2 to CH 4 is significantly enhanced with a turnover number of 6, corresponding to the overall apparent quantum yield of ≈1%. This research underscores the possibilities of engineering multi‐electron transfer by manipulating the electronic band alignment within a catalytic system. This can serve as a guide for optimizing photocatalytic CO 2 reduction.    
 
@@ -167,7 +167,7 @@ The design of multimetal catalysts holds immense significance for efficient CO2 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393669259"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393669259"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4393669259 (Open access: True)
+OpenAlex: https://openalex.org/W4393669259 (Open access: False)
     
 [[https://openalex.org/A5057399487][Thomas Chan]], [[https://openalex.org/A5091102586][Calton Kong]], [[https://openalex.org/A5083305786][Alex J. King]], [[https://openalex.org/A5000440178][Rajiv Prabhakar]], [[https://openalex.org/A5037047569][Finn Babbe]], [[https://openalex.org/A5000007576][Clifford P. Kubiak]], [[https://openalex.org/A5070081966][Joel W. Ager]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.10251835 
      
@@ -188,7 +188,7 @@ Cell files.zip .dwg files of the pocket for the cathode and anode chamber. .dwg 
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393724552"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393724552"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4393724552 (Open access: True)
+OpenAlex: https://openalex.org/W4393724552 (Open access: False)
     
 [[https://openalex.org/A5057399487][Thomas Chan]], [[https://openalex.org/A5091102586][Calton Kong]], [[https://openalex.org/A5083305786][Alex J. King]], [[https://openalex.org/A5000440178][Rajiv Prabhakar]], [[https://openalex.org/A5037047569][Finn Babbe]], [[https://openalex.org/A5000007576][Clifford P. Kubiak]], [[https://openalex.org/A5070081966][Joel W. Ager]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.10251836 
      
@@ -314,7 +314,7 @@ Dataset for the paper "Poly-Amide Modified Copper Foam Electrodes for Enhanced E
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393616536"))][Get related work]]
 - [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393616536"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4393616536 (Open access: True)
+OpenAlex: https://openalex.org/W4393616536 (Open access: False)
     
 [[https://openalex.org/A5086912699][Hangjuan Ren]], [[https://openalex.org/A5081433980][Mikhail Kovalev]], [[https://openalex.org/A5070552556][Zhaoyue Weng]], [[https://openalex.org/A5048307849][Marsha Zakir Muhamad]], [[https://openalex.org/A5075705776][Yuan Sheng]], [[https://openalex.org/A5048054881][Libo Sun]], [[https://openalex.org/A5055050649][J. Wang]], [[https://openalex.org/A5068425730][Simon Rihm]], [[https://openalex.org/A5048688434][Hongyang Ma]], [[https://openalex.org/A5017507847][Wanfeng Yang]], [[https://openalex.org/A5046757416][Alexei A. Lapkin]], [[https://openalex.org/A5070081966][Joel W. Ager]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://doi.org/10.5281/zenodo.7047052 
      
@@ -408,27 +408,6 @@ Pathways, structures, gas-phase and solvation energies of aqueous borohydride re
 
 * Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4393749257
-:TOPICS: Carbon Dynamics in Peatland Ecosystems
-:PUBLICATION_DATE: 2023-11-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.10069468")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393749257"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393749257"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393749257"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393749257 (Open access: True)
-    
-[[https://openalex.org/A5042645271][Hongxing He]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.10069468 
-     
-Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
-
-    
-
-* Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor  :CO2RR:
-:PROPERTIES:
 :UUID: https://openalex.org/W4393709502
 :TOPICS: Carbon Dynamics in Peatland Ecosystems
 :PUBLICATION_DATE: 2023-11-25
@@ -448,24 +427,24 @@ Summary of published carbon dioxide field emission data and their influence fact
 
     
 
-* Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"  :CO2RR:
+* Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor  :CO2RR:
 :PROPERTIES:
-:UUID: https://openalex.org/W4393810733
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2020-08-19
+:UUID: https://openalex.org/W4393749257
+:TOPICS: Carbon Dynamics in Peatland Ecosystems
+:PUBLICATION_DATE: 2023-11-25
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.7295464")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.10069468")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393810733"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393810733"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393810733"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393749257"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393749257"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393749257"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4393810733 (Open access: True)
+OpenAlex: https://openalex.org/W4393749257 (Open access: True)
     
-[[https://openalex.org/A5077089637][Nadir Jori]], [[https://openalex.org/A5004880474][Davide Toniolo]], [[https://openalex.org/A5007919105][Bang C. Huynh]], [[https://openalex.org/A5033332794][Rosario Scopelliti]], [[https://openalex.org/A5051819146][Marinella Mazzanti]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://doi.org/10.5281/zenodo.7295464 
+[[https://openalex.org/A5042645271][Hongxing He]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.10069468 
      
-RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J    
+Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
     
 
@@ -485,6 +464,27 @@ RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lant
 OpenAlex: https://openalex.org/W4393645692 (Open access: True)
     
 [[https://openalex.org/A5077089637][Nadir Jori]], [[https://openalex.org/A5004880474][Davide Toniolo]], [[https://openalex.org/A5007919105][Bang C. Huynh]], [[https://openalex.org/A5033332794][Rosario Scopelliti]], [[https://openalex.org/A5051819146][Marinella Mazzanti]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://doi.org/10.5281/zenodo.7295465 
+     
+RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J    
+
+    
+
+* Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393810733
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Carbon Dioxide Utilization for Chemical Synthesis, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2020-08-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.7295464")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393810733"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393810733"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393810733"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393810733 (Open access: True)
+    
+[[https://openalex.org/A5077089637][Nadir Jori]], [[https://openalex.org/A5004880474][Davide Toniolo]], [[https://openalex.org/A5007919105][Bang C. Huynh]], [[https://openalex.org/A5033332794][Rosario Scopelliti]], [[https://openalex.org/A5051819146][Marinella Mazzanti]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://doi.org/10.5281/zenodo.7295464 
      
 RAW DATA FOR ARTICLE DATE: NOVEMBER 2022 TITLE: Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands AUTHORS: Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, and Marinella Mazzanti* JOURNAL: Inorganic Chemistry Frontiers (RSC) 2020 DOI: 10.1039/D0QI00801J    
 
@@ -634,26 +634,5 @@ OpenAlex: https://openalex.org/W4393474634 (Open access: True)
 [[https://openalex.org/A5028426858][Emanuel Billeter]], [[https://openalex.org/A5009932749][Terreni Jasmin]], [[https://openalex.org/A5088521783][Andreas Borgschulte]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://doi.org/10.5281/zenodo.6828103 
      
 Dataset to "Hydride Formation Diminishes CO2 Reduction Rate on Palladium" as published in ChemPhysChem, 20 (2019), 1398-1403    
-
-    
-
-* Research Progress in Preparation of Carboxylic Acids by Electrochemical Mediated Oxidative Carboxylation and Reductive Carboxylation of Carbon Dioxide  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393905823
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Electrochemical Reduction of CO2 to Fuels, Biotechnological Production of Vanillin
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.6023/cjoc202311030")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393905823"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393905823"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393905823"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393905823 (Open access: False)
-    
-[[https://openalex.org/A5051824914][Shuai Lv]], [[https://openalex.org/A5043719260][Gangguo Zhu]], [[https://openalex.org/A5024174978][Jinzhong Yao]], [[https://openalex.org/A5089316770][Hongwei Zhou]], Youji huaxue. 44(3)] 2024. https://doi.org/10.6023/cjoc202311030 
-     
-No abstract    
 
     

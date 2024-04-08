@@ -1,6 +1,6 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Apr  8 00:46:01 2024
+Created on Mon Apr  8 14:52:04 2024
 
 Found 28 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)

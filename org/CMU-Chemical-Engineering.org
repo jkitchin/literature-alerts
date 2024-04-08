@@ -1,6 +1,6 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon Apr  8 00:45:57 2024
+Created on Mon Apr  8 14:51:57 2024
 
 Found 25 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
@@ -483,7 +483,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4393419712 (Open access: True)
     
-[[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5082011794][/ Paul]], [[https://openalex.org/A5026558452][Steve]], [[https://openalex.org/A5090976725][. Mohit]], [[https://openalex.org/A5058706133][Daniel]], [[https://openalex.org/A5084508573][Adrian Adrian]], [[https://openalex.org/A5020951454][: Ben]], [[https://openalex.org/A5045891136][Annette]], [[https://openalex.org/A5077717744][Masaru]], [[https://openalex.org/A5039139994][Ken Ken]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://doi.org/10.5281/zenodo.1464684 
+[[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5082011794][; Paúl]], [[https://openalex.org/A5026558452][Steve]], [[https://openalex.org/A5090976725][. Mohit]], [[https://openalex.org/A5058706133][Daniel]], [[https://openalex.org/A5084508573][Adrian Adrian]], [[https://openalex.org/A5020951454][: Ben]], [[https://openalex.org/A5045891136][Annette]], [[https://openalex.org/A5077717744][Masaru]], [[https://openalex.org/A5039139994][Ken Ken]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2018. https://doi.org/10.5281/zenodo.1464684 
      
 Datasets required to reproduce key figures from journal article acp-2018-305. Contact corresponding author for further information. In the filenames, 'BB' indicates simulation results with biomass burning aerosol, 'noBB' without, and 'noAA' are simulations without absorbing effects of aerosol. The 300x300 regional domain is a rotated pole centred on 10S, 12W.    
 
