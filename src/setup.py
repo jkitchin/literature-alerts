@@ -11,11 +11,13 @@ setup(
         'python-dotenv',
         'lxml',
         'pyyaml',
-        'beautifulsoup4'
+        'beautifulsoup4',
+        'pyzotero'
     ],
     entry_points={
         'console_scripts': [
             'litalerts = litalerts.cli:cli',
+            'lazotero = litalerts.zotero:update_zotero'
         ],
     },
     

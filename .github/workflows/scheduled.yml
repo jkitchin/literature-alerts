@@ -23,6 +23,7 @@ jobs:
         
         env:
           OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+	  ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
             litalerts -s 7
@@ -33,6 +34,7 @@ jobs:
             git add rss org md
             git commit rss org md -m "adding new results"            
             git push
+	    lazotero -f cmu.yml
           
           
 
