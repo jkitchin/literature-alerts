@@ -86,8 +86,9 @@ def update_zotero(fname, since):
             t['date'] = result['publication_date']
             t['abstractNote'] = get_abstract(result)
             t['dateAdded'] = today.strftime("%Y-%m-%d %H:%M:%S")
-            t['tags'] = [{'tag': 'unread'},
-                         {'tag': 'cmu_cheme'}]
+            t['tags'] = [{'tag': 'unread'}]
+            if 'tag' in topic:
+                t['tags'] += [{'tag': topic['tag']}]
             resp = zot.create_items([t])
             
 

@@ -4,9 +4,10 @@
 # filenames and feed descriptions. The filter is a list of queries to perform.
 #
 # The zotero id is a number for either your user id or a group id.
-
+# You should also add a tag for the Zotero entries.
 queries:
   - label: CMU Chemical Engineering
+    tag: cmu_cheme
     description: Papers by people in the Department of Chemical Engineering at CMU
     zotero_id: 5480843
     filter:

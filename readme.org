@@ -166,3 +166,18 @@ First highlight the region, then run the function below. That will copy the nece
 : oa-generate-cites-filter
 
 
+** Integration with Zotero
+
+You can integrate this with Zotero. A proof of concept script is located at [[./src/litalerts/zotero.py]] and a corresponding yaml file at [[./cmu.yml]]. The only difference in this yaml file is the inclusion of a Zotero id for the user/group to act as, and a tag to add to the created Zotero items. 
+
+You have to go to https://www.zotero.org/settings/keys and create an API key, and save that key as a GitHUB secret called `ZOTERO_API_KEY` for Actions. If you run it locally, you need that environment variable defined.
+
+The package installs a new CLI called lazotero that you run like this:
+
+#+BEGIN_SRC sh
+lazotero -f cmu.yml -s 1
+#+END_SRC
+
+I don't love the way it works, for example, I could not figure out how to tell if an entry with a DOI/url already exists, so at the moment it only checks for an exact title match to avoid adding duplicates.
+
+

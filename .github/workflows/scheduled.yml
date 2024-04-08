@@ -34,7 +34,7 @@ jobs:
             git add rss org md
             git commit rss org md -m "adding new results"            
             git push
-            lazotero -f cmu.yml -s 1
+            lazotero -f cmu.yml -s 2
           
           
 
