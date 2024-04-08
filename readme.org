@@ -181,3 +181,4 @@ lazotero -f cmu.yml -s 1
 I don't love the way it works, for example, I could not figure out how to tell if an entry with a DOI/url already exists, so at the moment it only checks for an exact title match to avoid adding duplicates.
 
 
+See https://www.zotero.org/groups/5480843/openalex-cmu-cheme-faculty for a web-based version of the group.
