@@ -1,6 +1,6 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Apr  8 14:51:55 2024
+Created on Mon Apr  8 15:20:38 2024
 
 Found 30 results from 2024-04-01 to 2024-04-08
 OpenAlex URLS (not including from_created_date or the API key)
@@ -218,10 +218,10 @@ Pathways, structures, gas-phase and solvation energies of aqueous borohydride re
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393709502    
+OpenAlex: https://openalex.org/W4393749257    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
@@ -229,10 +229,10 @@ Summary of published carbon dioxide field emission data and their influence fact
 
 ## Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor   
 
-OpenAlex: https://openalex.org/W4393749257    
+OpenAlex: https://openalex.org/W4393709502    
 Open access: True
     
-[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069468.
+[Hongxing He](https://openalex.org/A5042645271), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023.https://doi.org/10.5281/zenodo.10069469.
     
 Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.    
 
