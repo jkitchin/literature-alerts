@@ -9,6 +9,7 @@ import datetime
 from yaml import load, Loader
 import os
 import requests
+from nameparser import HumanName
 from .openalex import get_abstract, run_query
 
 load_dotenv()
@@ -76,9 +77,10 @@ def update_zotero(fname, since):
             t['creators'] = []
             for i, author in enumerate(result['authorships']):
                 t['creators'] += [at.copy()]
+                hn = HumanName(author['author']['display_name'])
                 # I am not sure this is the best thing to do for the first/last name.
-                t['creators'][i]['firstName'] = author['author']['display_name'].split()[0]
-                t['creators'][i]['lastName'] = ' '.join(author['author']['display_name'].split()[1:])
+                t['creators'][i]['firstName'] = ' '.join([hn.first, hn.middle])
+                t['creators'][i]['lastName'] = hn.last
 
             t['volume'] = result['biblio']['volume']
             t['issue'] = result['biblio']['issue']

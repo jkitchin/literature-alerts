@@ -20,27 +20,18 @@ def run_query(topic, since):
     load_dotenv() 
     API_KEY = os.environ['OPENALEX_API_KEY']
 
-    API = 'https://api.openalex.org/works?filter='
+    API = 'https://api.openalex.org/works'
 
     results = []
     for _filter in topic['filter']:
-        url = (API + urllib.parse.quote(_filter)
-               + f',from_created_date:{since}')
-        print(url)
-        url += f'&api_key={API_KEY}'
+        _filter += f',from_created_date:{since}'
 
-        data = requests.get(url).json()
-
-        count = data['meta']['count']
-        perpage = data['meta']['per_page']
-        npages = ceil(count / perpage)
-
-        results += data['results']
-
-        
-        for i in range(1, npages):
-            purl = url + f'&page={i}'
-            data = requests.get(url).json()
+        next_cursor = '*'
+        while next_cursor:
+            data = requests.get(API, params={'api_key': API_KEY,
+                                             'cursor': next_cursor,
+                                             'filter': _filter}).json()
+            next_cursor = data['meta']['next_cursor']
             results += data['results']
 
     d = {}

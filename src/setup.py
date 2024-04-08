@@ -12,7 +12,8 @@ setup(
         'lxml',
         'pyyaml',
         'beautifulsoup4',
-        'pyzotero'
+        'pyzotero',
+        'nameparser'
     ],
     entry_points={
         'console_scripts': [
