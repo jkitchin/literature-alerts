@@ -26,7 +26,7 @@ jobs:
           ZOTERO_API_KEY: ${{ secrets.ZOTERO_API_KEY }}		
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-            lazotero -f catalysis.yml -s 1
+            lazotero -f catalysis.yml -s 7
           
           
 
