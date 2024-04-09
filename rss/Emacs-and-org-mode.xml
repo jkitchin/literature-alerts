@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Emacs-and-org-mode.xml</link>
     <description>Emacs and org-mode</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Apr 2024 15:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 01:02:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A localization transition underlies the mode-coupling crossover of glasses</title>
-      <link>https://doi.org/10.5281/zenodo.3065340</link>
-      <description>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019. https://openalex.org/W4393660132
-
-                This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf version of the org-mode project file project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description</description>
-      <author>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier</author>
-      <pubDate>Sat, 18 May 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3065340</guid>
-    </item>
     <item>
       <title>A localization transition underlies the mode-coupling crossover of glasses</title>
       <link>https://doi.org/10.5281/zenodo.1478601</link>
@@ -29,13 +19,13 @@
     </item>
     <item>
       <title>A localization transition underlies the mode-coupling crossover of glasses</title>
-      <link>https://doi.org/10.5281/zenodo.3475358</link>
-      <description>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019. https://openalex.org/W4393748858
+      <link>https://doi.org/10.5281/zenodo.3065340</link>
+      <description>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019. https://openalex.org/W4393660132
 
-                This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. Supplementary information is available in the Supplement section of the project document (project.pdf). The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf project file with workflow and supplemental information project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) scipy (1.3.1) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description 1.2.0 add analysis of eigenvector-following optimizations small changes and fixes to analysis scripts</description>
+                This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf version of the org-mode project file project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description</description>
       <author>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier</author>
-      <pubDate>Mon, 07 Oct 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3475358</guid>
+      <pubDate>Sat, 18 May 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3065340</guid>
     </item>
     <item>
       <title>Data Sets For The Simulated Ampi (Sampi) Load Balancing Simulation Workflow And Ondes3D Performance Analysis (Companion To Ccpe Paper)</title>
@@ -46,6 +36,16 @@
       <author>Rafael Keller Tesser, Lucas Mello Schnorr, Arnaud Legrand, Franz Heinrich, Fabrice Dupros, Philippe O. A. Navaux</author>
       <pubDate>Thu, 14 Jun 2018 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.1289968</guid>
+    </item>
+    <item>
+      <title>A localization transition underlies the mode-coupling crossover of glasses</title>
+      <link>https://doi.org/10.5281/zenodo.3475358</link>
+      <description>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2019. https://openalex.org/W4393748858
+
+                This dataset is associated to "A localization transition underlies the mode-coupling crossover of glasses" by D. Coslovich, A. Ninarello and L. Berthier [https://arxiv.org/abs/1811.03171]. It includes post-processed data and workflow to reproduce the analysis and the figures of the article and of the supplemental information. Supplementary information is available in the Supplement section of the project document (project.pdf). The easiest way to reproduce the analysis and figures, and then check the results, is to use the make script: ./make all Alternatively, the analysis and figures can be reproduced in any of the following ways following the workflow described in the org-mode project file project.org using the individual bash and gnuplot scripts in src/ and plots/ Folders and files description: analysis/: post-processed data src/: bash, python and gnuplot scripts needed to reproduce the analysis plots/: eps figures that appear in the paper and supplemental information and associated gnuplot scripts make: convenience script to setup the python environment, analyze the data and reproduce the figures project.org: org-mode project file with workflow and supplemental information project.pdf: pdf project file with workflow and supplemental information project.bib: bibtex bibliography associated to the project Dependencies: numpy (1.16.3) scipy (1.3.1) argh (0.26.2) atooms (1.9.1) gnuplot (5.0.0) The analysis scripts have been tested with python versions 2.7 and 3.5. The org-mode project file has been tested with org version 9.1.13. Note: this dataset does not contain (at least yet) the particle configurations associated to saddle points, only the post-processed files containing selected properties of their normal modes. Changelog: 1.0.0 initial submission 1.1.0 add "all" target to ./make fix ./make check improve setup description 1.2.0 add analysis of eigenvector-following optimizations small changes and fixes to analysis scripts</description>
+      <author>Daniele Coslovich, Andrea Ninarello, Ludovic Berthier</author>
+      <pubDate>Mon, 07 Oct 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3475358</guid>
     </item>
     <item>
       <title>Data Sets For The Simulated Ampi (Sampi) Load Balancing Simulation Workflow And Ondes3D Performance Analysis (Companion To Ccpe  - Euro-Par 2017 Special Issue)</title>

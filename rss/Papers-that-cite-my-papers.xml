@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 08 Apr 2024 15:24:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 01:02:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Exploring Cu-Doped Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Bifunctional Oxygen Electrocatalysts for Aqueous Zn&#8211;Air Batteries</title>
-      <link>https://doi.org/10.1021/acsami.4c00571</link>
-      <description>Ashis Kumar Behera, Deepak Seth, Manish Agarwal, M. Ali Haider, Aninda J. Bhattacharyya, ACS applied materials &amp; interfaces (Print). None(None)] 2024. https://openalex.org/W4393363876
-
-                The efficiency of oxygen electrocatalysis is a key factor in diverse energy domain applications, including the performance of metal&#8211;air batteries, such as aqueous Zinc (Zn)&#8211;air batteries. We demonstrate here that the doping of cobalt oxide with optimal amounts of copper (abbreviated as Cu-doped Co3O4) results in a stable and efficient bifunctional electrocatalyst for oxygen reduction (ORR) and evolution (OER) reactions in aqueous Zn&#8211;air batteries. At high Cu-doping concentrations (&#8805;5%), phase segregation occurs with the simultaneous presence of Co3O4 and copper oxide (CuO). At Cu-doping concentrations &#8804;5%, the Cu ion resides in the octahedral (Oh) site of Co3O4, as revealed by X-ray diffraction (XRD)/Raman spectroscopy investigations and molecular dynamics (MD) calculations. The residence of Cu@Oh sites leads to an increased concentration of surface Co3+-ions (at catalytically active planes) and oxygen vacancies, which is beneficial for the OER. Temperature-dependent magnetization measurements reveal favorable d-orbital configuration (high eg occupancy &#8776; 1) and a low &#8594; high spin-state transition of the Co3+-ions, which are beneficial for the ORR in the alkaline medium. The influence of Cu-doping on the ORR activity of Co3O4 is additionally accounted in DFT calculations via interactions between solvent water molecules and oxygen vacancies. The application of the bifunctional Cu-doped (&#8804;5%) Co3O4 electrocatalyst resulted in an aqueous Zn&#8211;air battery with promising power density (=84 mW/cm2), stable cyclability (over 210 cycles), and low charge/discharge overpotential (=0.92 V).</description>
-      <author>Ashis Kumar Behera, Deepak Seth, Manish Agarwal, M. Ali Haider, Aninda J. Bhattacharyya</author>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c00571</guid>
-    </item>
-    <item>
-      <title>Unraveling Surface Reconstruction During Oxygen Evolution Reaction on the Defined Spinel Oxide Surface</title>
-      <link>https://doi.org/10.1002/adfm.202401095</link>
-      <description>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393364585
-
-                Abstract The reconstructed surface structure of Co&#8208;based spinel oxides serves as the active site for oxygen evolution reaction (OER). However, the structural complexity of spinel oxides and surface dynamics during the OER hinder the understanding of the reconstruction mechanism and electronic structure of the active site. In this study, spinel Co 3 O 4 @(CoFeV) 3 O 4 nanocube (CoFeV) is reported, a (001) facet&#8208;defined spinel oxide comprising Co, Fe, and V deposited on the Co 3 O 4 nanocube template to exclude facet&#8208;dependent factors. Introducing highly dissoluble V cations accelerates the reconstruction process to enhance the electrocatalytic activity. CoFeV exhibited enhanced electrocatalytic activity (266 mV at 10 mA cm &#8722;2 in 1 M KOH) and durability (maintained stable electrocatalytic activity during a 200 h chronopotentiometry (CP) test at 100 mA cm &#8722;2 ) with significantly enlarged electrochemically active surface area (ECSA). The experimental and theoretical results demonstrated that V dissolution during catalysis induced oxygen vacancies, accelerating the surface reconstruction to highly active oxyhydroxide. Consequently, the anion exchange membrane water electrolyzer (AEMWE) of CoFeV as the anode exhibited a remarkable performance of 6.19 A cm &#8722;2 at 2.0 V cell in 1 M KOH and robust durability for 96 h at a constant current density of 500 mA cm &#8722;2 .</description>
-      <author>Kyungbeen Yeom, Jung Hyun Jo, Hyun-Seop Shin, Hyunsoo Ji, Sun-Young Moon, Ji&#8208;Eun Park, Seongbeom Lee, Jae-Hyuk Shim, Dong Hyeon Mok, Megalamane S. Bootharaju, Seoin Back, Taeghwan Hyeon, Yung&#8208;Eun Sung</author>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202401095</guid>
-    </item>
     <item>
       <title>Accelerated Data-Driven Discovery and Screening of Two-Dimensional Magnets Using Graph Neural Networks</title>
       <link>https://doi.org/10.1021/acs.jpcc.3c07246</link>
@@ -256,6 +236,66 @@
       <author>Dariusz &#321;ukowiec, Magdalena Gw&#243;&#378;d&#378;, Alina Brz&#281;czek&#8208;Szafran, Tomasz Wasiak, Dawid Janas, Jerzy Kubacki, Stanis&#322;aw Wac&#322;awek, Adrian Rado&#324;</author>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00376</guid>
+    </item>
+    <item>
+      <title>Theoretical Insights into Mo Cluster Modified Fe5C2 Catalysts for Electrocatalytic Nitrogen Reduction</title>
+      <link>https://doi.org/10.1016/j.mtcomm.2024.108839</link>
+      <description>Meiyan Chen, Qingyu Li, Diwen Liu, Zuju Ma, Yanjie Zhang, De&#8208;Jing Li, Jinhong Bi, Rongjian Sa, Materials today communications. None(None)] 2024. https://openalex.org/W4393928748
+
+                The pursuit of green ammonia synthesis via electrocatalytic nitrogen reduction (NRR) faces challenges in developing high-performance, selective electrocatalysts. Inspired by the nitrogenase Fe-Mo cofactor, this study explores the catalytic efficiency of Mo clusters anchored on Fe5C2 for NRR. We investigate structural stability, N2 adsorption, and Gibbs free energy, revealing that Mon clusters on Fe5C2 demonstrate robust NRR selectivity and notable catalytic activity. Each of the three cluster structures demonstrated superior adsorption capacity in the "side-on" configuration. Among the studied cluster configurations, the Mo5-Fe5C2 shows the lowest limiting potential (-0.24 V), and the Mo4-Fe5C2 exhibits heightened selectivity for NRR, minimizing interference from the hydrogen evolution reaction (HER). This enhanced performance is attributed to the unique structure and interactive dynamics of Mon-Fe5C2 and the electron orbital interactions facilitating direct nitrogen charge transfer. Our findings underscore the potential of Mo cluster-modified Fe5C2 as a pioneering catalyst for electrocatalytic nitrogen reduction.</description>
+      <author>Meiyan Chen, Qingyu Li, Diwen Liu, Zuju Ma, Yanjie Zhang, De&#8208;Jing Li, Jinhong Bi, Rongjian Sa</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.108839</guid>
+    </item>
+    <item>
+      <title>Activating TiO&lt;sub&gt;2&lt;/sub&gt; through the Phase Transition&#8208;Mediated Hydrogen Spillover to Outperform Pt for Electrocatalytic pH&#8208;Universal Hydrogen Evolution</title>
+      <link>https://doi.org/10.1002/smll.202400783</link>
+      <description>Jiexian Liu, Peifang Guo, Da Li, Xiaoxiao Yan, Xin Tu, Hongge Pan, Renbing Wu, Small (Weinheim. Print). None(None)] 2024. https://openalex.org/W4393931341
+
+                Abstract Endowing conventional materials with specific functions that are hardly available is invariably of significant importance but greatly challenging. TiO 2 is proven to be highly active for the photocatalytic hydrogen evolution while intrinsically inert for electrocatalytic hydrogen evolution reaction (HER) due to its poor electrical conductivity and unfavorable hydrogen adsorption/desorption behavior. Herein, the first activation of inert TiO 2 for electrocatalytic HER is demonstrated by synergistically modulating the positions of d&#8208;band center and triggering hydrogen spillover through the dual doping&#8208;induced partial phase transition. The N, F co&#8208;doping&#8208;induced partial phase transition from anatase to rutile phase in TiO 2 (AR&#8208;TiO 2 |(N,F)) exhibits extraordinary HER performance with overpotentials of 74, 80, and 142 mV at a current density of 10 mA cm &#8211;2 in 1.0 M KOH, 0.5 M H 2 SO 4 , and 1.0 M phosphate&#8208;buffered saline electrolytes, respectively, which are substantially better than pure TiO 2 , and even superior to the benchmark Pt/C catalysts. These findings may open a new avenue for the development of low&#8208;cost alternative to noble metal catalysts for electrocatalytic hydrogen production.</description>
+      <author>Jiexian Liu, Peifang Guo, Da Li, Xiaoxiao Yan, Xin Tu, Hongge Pan, Renbing Wu</author>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202400783</guid>
+    </item>
+    <item>
+      <title>Computational studies on Mg ion conductivity in Mg2xHf1-x Nb(PO4)3 using neural network potential</title>
+      <link>https://doi.org/10.1007/s10008-024-05862-1</link>
+      <description>Keisuke Makino, Naoto Tanibata, Hiromasa Takeda, Masanobu Nakayama, Journal of solid state electrochemistry (Print). None(None)] 2024. https://openalex.org/W4393935368
+
+                Abstract Low Mg diffusivity in solid-state oxides is an obstacle for the development of materials for Mg ion batteries, which are expected to have high capacity. In this study, we focused on NASICON-type and &#946;-iron sulfate-type Mg 2x Hf 1-x Nb(PO 4 ) 3 that exhibit relatively high Mg ionic conductivity and investigated the Hf/Nb configuration and composition dependence of phase stability and ion conductivity by atomistic simulation using neural network potentials. The calculations show that the NASICON-type structure is slightly more stable and has higher Mg ionic conductivity than that of the &#946;-iron sulfate-type. The effect of the Hf/Nb configuration was investigated and showed that the ordered stable structure had much lower ionic conductivity than the disordered structure. Furthermore, as the Mg ion concentration increased, the ionic conductivity increased monotonically at low concentrations but tended to converge to a constant value above a certain concentration. The saturation of the ionic conductivity despite increasing the Mg concentration may be due to the trapping effect of the Mg ions caused by the Hf vacancies as well as the Hf/Nb arrangement. Graphical Abstract</description>
+      <author>Keisuke Makino, Naoto Tanibata, Hiromasa Takeda, Masanobu Nakayama</author>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10008-024-05862-1</guid>
+    </item>
+    <item>
+      <title>Strain Engineering of Unconventional Crystal-Phase Noble Metal Nanocatalysts</title>
+      <link>https://doi.org/10.3390/molecules29071617</link>
+      <description>Jie Wang, Yidong Jiang, Sixuan Chen, Qinyong Zhang, Molecules/Molecules online/Molecules annual. 29(7)] 2024. https://openalex.org/W4393944761
+
+                The crystal phase, alongside the composition, morphology, architecture, facet, size, and dimensionality, has been recognized as a critical factor influencing the properties of noble metal nanomaterials in various applications. In particular, unconventional crystal phases can potentially enable fascinating properties in noble metal nanomaterials. Recent years have witnessed notable advances in the phase engineering of nanomaterials (PEN). Within the accessible strategies for phase engineering, the effect of strain cannot be ignored because strain can act not only as the driving force of phase transition but also as the origin of the diverse physicochemical properties of the unconventional crystal phase. In this review, we highlight the development of unconventional crystal-phase noble metal nanomaterials within strain engineering. We begin with a short introduction of the unconventional crystal phase and strain effect in noble metal nanomaterials. Next, the correlations of the structure and performance of strain-engineered unconventional crystal-phase noble metal nanomaterials in electrocatalysis are highlighted, as well as the phase transitions of noble metal nanomaterials induced by the strain effect. Lastly, the challenges and opportunities within this rapidly developing field (i.e., the strain engineering of unconventional crystal-phase noble metal nanocatalysts) are discussed.</description>
+      <author>Jie Wang, Yidong Jiang, Sixuan Chen, Qinyong Zhang</author>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29071617</guid>
+    </item>
+    <item>
+      <title>Upgrading biomass derived furan aldehydes by coupled electrochemical conversion over silver-based electrocatalysts</title>
+      <link>https://doi.org/10.1016/j.cej.2024.151001</link>
+      <description>Zhiwei Dai, Xi Lu, Nan Li, Yichen Zhang, Xuebing Zhao, Chemical engineering journal (1996. Print). None(None)] 2024. https://openalex.org/W4393944922
+
+                No abstract</description>
+      <author>Zhiwei Dai, Xi Lu, Nan Li, Yichen Zhang, Xuebing Zhao</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151001</guid>
+    </item>
+    <item>
+      <title>Oxygen evolution reaction on IrO2(110) is governed by Walden-type mechanisms</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4101847/v1</link>
+      <description>Kai S. Exner, Muhammad Usama, Samad Razzaq, Christof H&#228;ttig, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393945519
+
+                Abstract Oxygen evolution reaction (OER) is a key process for sustainable energy, although renewable sources require the use of proton exchange membrane electrolyzers, with IrO 2 -based materials being the gold standard due to their high activity and stability under dynamic anodic polarization conditions. However, even for the (110) facet of a single-crystalline IrO 2 model electrode, the reaction mechanism is not settled yet due to contradictory reports in literature. In the present manuscript, we disentangle the conflicting results of previous theoretical studies in the density functional theory approximation. We demonstrate that dissimilar reaction mechanisms and limiting steps for the OER over IrO 2 (110) are obtained for different active surface configurations present on the IrO 2 electrode. In contrast to previous studies, we factor Walden-type mechanisms, in which the formation of the product O 2 and adsorption of the reactant H 2 O occur simultaneously, into the analysis of the elementary steps. Combining free-energy diagrams along the reaction coordinate and Bader charge analysis of the active site under constant potential, we elucidate why mononuclear- or bifunctional-Walden pathways excel the traditional OER mechanisms for the OER over IrO 2 (110). Our computational methodology to identify the reaction mechanism and limiting step of proton-coupled electron transfer steps is universally applicable to electrochemical processes in the field of energy conversion and storage.</description>
+      <author>Kai S. Exner, Muhammad Usama, Samad Razzaq, Christof H&#228;ttig</author>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4101847/v1</guid>
     </item>
     <item>
       <title>Validation workflow for machine learning interatomic potentials for complex ceramics</title>
