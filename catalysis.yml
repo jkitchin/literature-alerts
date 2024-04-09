@@ -1,0 +1,27 @@
+# cmu.yml
+#
+# Each entry in queries should have a label and decription. These are used for
+# filenames and feed descriptions. The filter is a list of queries to perform.
+#
+# The zotero id is a number for either your user id or a group id.
+# You should also add a tag for the Zotero entries.
+queries:
+  - label: Catalysis
+    tag: catalysis
+    zotero_id: 5483891
+    description: Catalysis journals
+    filter:
+      # Nature Catalysis
+      - primary_location.source.id:https://openalex.org/S4210229375
+      # ACS Catalysis
+      - primary_location.source.id:https://openalex.org/S37391459
+      # Catalysis science & technology
+      - primary_location.source.id:https://openalex.org/S2482773761
+      # JACS
+      - primary_location.source.id:https://openalex.org/S111155417,title-and-abstract.search:(catalysis OR catalyst)
+      # Catalysis Today
+      - primary_location.source.id:https://openalex.org/S117279562
+      # ChemCatChem
+      - primary_location.source.id:https://openalex.org/S206633562
+      # Journal of Catalysis
+      - primary_location.source.id:https://openalex.org/S1959426
