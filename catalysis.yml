@@ -25,3 +25,5 @@ queries:
       - primary_location.source.id:https://openalex.org/S206633562
       # Journal of Catalysis
       - primary_location.source.id:https://openalex.org/S1959426
+      # Angewantde Chemie
+      - primary_location.source.id:https://openalex.org/S67393510,title-and-abstract.search:(catalysis OR catalyst)
