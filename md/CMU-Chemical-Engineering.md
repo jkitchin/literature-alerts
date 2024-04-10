@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Apr  9 01:02:30 2024
+Created on Wed Apr 10 01:01:50 2024
 
-Found 37 results from 2024-04-02 to 2024-04-09
+Found 27 results from 2024-04-03 to 2024-04-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -25,116 +25,6 @@ Open access: False
 [John R. Kitchin](https://openalex.org/A5003442464), [Kirby Broderick](https://openalex.org/A5088846020), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024.https://doi.org/10.5281/zenodo.10501344.
     
 Data are split into train (<=35-atom slabs) and test (60-atom slabs) folders. Each folder contains a VASP calculation without the POTCAR. The slabs used are disordered AgAuCu, AuCuPd, or CuPdPt fcc alloys with a lattice constant set randomly between the largest and smallest experimental lattice constants of the constituent elements. The PBEsol functional is used with D3 dispersion corrections.    
-
-    
-
-## Optimal Design and Operation of Intensified Packed Towers for Solvent Based CO2 Capture   
-
-OpenAlex: https://openalex.org/W4393400076    
-Open access: True
-    
-[Stephen Summits](https://openalex.org/A5094303016), [Debangsu Bhattacharyya](https://openalex.org/A5037148093), [Grigorios Panagakos](https://openalex.org/A5028498558), [Benjamin Omell](https://openalex.org/A5000874144), [Michael Matuszewski](https://openalex.org/A5054503694), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## A Computational Investigation of the Effect of Packing Structural Features on the Performance of Carbon Capture for Solvent-Based Post-Combustion Applications   
-
-OpenAlex: https://openalex.org/W4393400078    
-Open access: True
-    
-[Grigorios Panagakos](https://openalex.org/A5028498558), [Yash Girish Shah](https://openalex.org/A5038961197), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Economies of Numbers Formulations for Optimal Process Family Design of Carbon Capture Systems   
-
-OpenAlex: https://openalex.org/W4393400082    
-Open access: True
-    
-[Georgia Stinchfield](https://openalex.org/A5007541692), [Miguel Zamarripa](https://openalex.org/A5015881602), [Josh Morgan](https://openalex.org/A5086695747), [Carl D. Laird](https://openalex.org/A5030631754), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Trust Region Filter Method for Integrating Treatment into Produced Water Networks   
-
-OpenAlex: https://openalex.org/W4393400083    
-Open access: True
-    
-[Sakshi Naik](https://openalex.org/A5054628015), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to DOE’s Produced Water Optimization Framework Pareto   
-
-OpenAlex: https://openalex.org/W4393400086    
-Open access: True
-    
-[Daniel Ovalle](https://openalex.org/A5067396423), [Joshua L. Pulsipher](https://openalex.org/A5036452308), [Markus Drouven](https://openalex.org/A5048411560), [Carl D. Laird](https://openalex.org/A5030631754), [Ignacio E. Grossmann](https://openalex.org/A5056017028), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Numerical Study on the Geometrical Effects of Structured Packing on the Hydrodynamics of Solvent-Based CO2 Capture in Absorption Columns   
-
-OpenAlex: https://openalex.org/W4393400088    
-Open access: True
-    
-[Yash Girish Shah](https://openalex.org/A5038961197), [Grigorios Panagakos](https://openalex.org/A5028498558), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Recent Advances in PyROS: The Pyomo Solver for Two-Stage Nonconvex Robust Optimization   
-
-OpenAlex: https://openalex.org/W4393400090    
-Open access: True
-    
-[J.D. Sherman](https://openalex.org/A5033020710), [Natalie M. Isenberg](https://openalex.org/A5042904619), [John Daniel Siirola](https://openalex.org/A5047681120), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Optimization for Infrastructure Planning of Reliable and Carbon-neutral Power Systems: Application to San Diego County   
-
-OpenAlex: https://openalex.org/W4393400116    
-Open access: True
-    
-[Seolhee Cho](https://openalex.org/A5060951641), [Javier Tovar-Facio](https://openalex.org/A5040511658), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [Benjamin Omell](https://openalex.org/A5000874144), [Christopher McLean](https://openalex.org/A5088878877), [Radhakrishna Gooty](https://openalex.org/A5062255632), [Philip Tominac](https://openalex.org/A5048689476), [Anthony P. Burgard](https://openalex.org/A5043316648), [John Daniel Siirola](https://openalex.org/A5047681120), [John H. Shinn](https://openalex.org/A5076858830), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Nonconvex Two-Stage Robust Optimization of an Amine-Based CO2 Capture System   
-
-OpenAlex: https://openalex.org/W4393400124    
-Open access: True
-    
-[J.D. Sherman](https://openalex.org/A5033020710), [Anca Ostace](https://openalex.org/A5016290678), [Douglas E. Allen](https://openalex.org/A5073042814), [Miguel Zamarripa](https://openalex.org/A5015881602), [Andrew Lee](https://openalex.org/A5084085179), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
-
-    
-
-## Optimal Desalination Technologies for Produced Water Networks   
-
-OpenAlex: https://openalex.org/W4393400133    
-Open access: True
-    
-[Sakshi Naik](https://openalex.org/A5054628015), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Lorenz T. Biegler](https://openalex.org/A5052825722), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023.None.
-    
-No abstract    
 
     
 

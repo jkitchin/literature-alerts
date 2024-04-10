@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Apr 2024 01:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 01:01:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Accelerated Data-Driven Discovery and Screening of Two-Dimensional Magnets Using Graph Neural Networks</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07246</link>
-      <description>Ahmed Elrashidy, James Della-Giustina, Jia-An Yan, Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4393378496
-
-                No abstract</description>
-      <author>Ahmed Elrashidy, James Della-Giustina, Jia-An Yan</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07246</guid>
-    </item>
-    <item>
-      <title>Stability and lifetime of diffusion-trapped oxygen in oxide-derived copper CO2 reduction electrocatalysts</title>
-      <link>https://doi.org/10.1038/s41929-024-01132-5</link>
-      <description>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez, Nature Catalysis. None(None)] 2024. https://openalex.org/W4393379673
-
-                Abstract Oxide-derived Cu has an excellent ability to promote C&#8211;C coupling in the electrochemical carbon dioxide reduction reaction. However, these materials largely rearrange under reaction conditions; therefore, the nature of the active site remains controversial. Here we study the reduction process of oxide-derived Cu via large-scale molecular dynamics with a precise neural network potential trained on first-principles data and introducing experimental conditions. The oxygen concentration in the most stable oxide-derived Cu increases with an increase of the pH, potential or specific surface area. In long electrochemical experiments, the catalyst would be fully reduced to Cu, but removing all the trapped oxygen takes a considerable amount of time. Although the highly reconstructed Cu surface provides various sites to adsorb oxygen more strongly, the surface oxygen atoms are not stable under common experimental conditions. This work provides insight into the evolution of oxide-derived Cu catalysts and residual oxygen during reaction and also a deep understanding of the nature of active sites.</description>
-      <author>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01132-5</guid>
-    </item>
-    <item>
-      <title>Evolutionary Search and Theoretical Study of Silicene Grain Boundaries&#8217; Mechanical Properties</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07294</link>
-      <description>Jianan Zhang, Aditya Koneru, Subramanian K. R. S. Sankaranarayanan, Carmen M. Lilley, Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4393380298
-
-                Defects such as grain boundaries (GBs) are almost inevitable during the synthesis process of 2D materials. To take advantage of the fascinating properties of 2D materials, understanding the nature and impact of various GB structures on pristine 2D sheets is crucial. In this work, using an evolutionary algorithm search, we predict a wide variety of silicene GB structures with very different atomic structures compared with those found in graphene or hexagonal boron-nitride. Twenty-one GBs with the lowest energy were validated by density functional theory (DFT), a majority of which were previously unreported to our best knowledge. Based on the diversity of the GB predictions, we found that the formation energy and mechanical properties can be dramatically altered by adatom positions within a GB and certain types of atomic structures, such as four-atom rings. To study the mechanical behavior of these GBs, we apply strain to the GB structures stepwise and use DFT calculations to investigate the mechanical properties of 9 representative structures. It is observed that GB structures based on pentagon-heptagon pairs are likely to have similar or higher in-plane stiffness and strength compared to the zigzag orientation of pristine silicene. However, an adatom located at the hollow site of a heptagon ring can significantly deteriorate the mechanical strength. For all of the structures, the in-plane stiffness and strength were found to decrease with increasing formation energy. For the failure behavior of GB structures, it was found that GB structures based on pentagon-heptagon pairs have failure behavior similar to that of graphene. We also found that the GB structures with atoms positioned outside of the 2D plane tend to experience phase transitions before failure. Utilizing the evolutionary algorithm, we locate diverse silicene GBs and obtain useful information about their mechanical properties.</description>
-      <author>Jianan Zhang, Aditya Koneru, Subramanian K. R. S. Sankaranarayanan, Carmen M. Lilley</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07294</guid>
-    </item>
-    <item>
-      <title>Microenvironment Regulation Breaks the Trade-Off between the Faradaic Efficiency and the Current Density for Electrocatalytic Deuteration Using D2O</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4023036/v1</link>
-      <description>Bin Zhang, Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393381349
-
-                Abstract The high Faradaic efficiency (FE) of the deuteration of organics with D 2 O at large current densities is significant for developing a feasible and promising room-temperature deuteration strategy. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities (&#8722; 100 mA cm &#8722; 2 ). Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at &#8722; 100 mA cm &#8722; 2 , which are both the best records for electrocatalytic deuteration. The increased reactant concentration with low activation energy due to the large electric field along the tips and the accelerated reactant transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between high FE and current density. Furthermore, the application of our strategy in other deuteration reactions with improved FE at &#8722; 100 mA cm &#8722; 2 rationalizes the design concept.</description>
-      <author>Bin Zhang, Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4023036/v1</guid>
-    </item>
-    <item>
-      <title>Enhancing d Electrons&#8217; Delocalization of the Single-Atom Ni&#8211;N&lt;sub&gt;4&lt;/sub&gt; Site to Boost Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO by Axial d&#8211;d Orbital Coupling</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00493</link>
-      <description>Xiaohang Wang, Zhongzheng Mao, Guanghua Wei, Lingli Liu, Hao Tang, Baolei Li, Ling Zhu, Simin Xu, Shaobin Tang, Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4393381512
-
-                Atomically dispersed nitrogen-coordinated transition metal (TM) anchored on graphene (TM&#8211;Nx&#8211;C) provides a promising potential for an electrochemical CO2 reduction reaction (CO2RR). However, it is still a challenge to precisely control the electronic structures of TM single-atom catalysts (SACs) for optimizing the catalytic performance. Using first-principles calculations, we propose a novel strategy to regulate the electronic structure of the Ni&#8211;N4&#8211;C site by vertically coupling the 3-fold N atom-coordinated TM atom on graphene (TM&#8211;N3&#8211;C) for promoting CO2 reduction to CO. In contrast to the traditional TM&#8211;N4&#8211;C substrate that is weakly coupled with the N&#8211;N4&#8211;C site, the raised TM atoms on the TM&#8211;N3&#8211;C substrate relative to the basal plane of graphene shorten the distance from TM to Ni atoms and strengthen d orbital hybridization between them, thus leading to more delocalized charge distribution of the Ni active site. As a result, the improved axial d&#8211;d orbital coupling largely enhances the adsorption of the key *COOH intermediate on Ni SACs and, more importantly, maintains the facile desorption of adsorbed *CO. In particular, these Ni&#8211;N4&#8211;C SACs with axial coupling of Tc&#8211; and Ru&#8211;N3&#8211;C substrates not only exhibit high catalytic activity toward CO production, with low limiting potentials of &#8722;0.68 and &#8722;0.61 V, respectively, but also effectively suppress the competing hydrogen evolution (HER).</description>
-      <author>Xiaohang Wang, Zhongzheng Mao, Guanghua Wei, Lingli Liu, Hao Tang, Baolei Li, Ling Zhu, Simin Xu, Shaobin Tang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00493</guid>
-    </item>
-    <item>
-      <title>Theoretical study of electrocatalytic urea synthesis through CO2 and N2 on metal cluster decorated C2N</title>
-      <link>https://doi.org/10.1007/s10853-024-09547-y</link>
-      <description>Wenxi Zhang, Mengnan Qu, Aijun Du, Qiao Sun, Journal of materials science. None(None)] 2024. https://openalex.org/W4393386671
-
-                No abstract</description>
-      <author>Wenxi Zhang, Mengnan Qu, Aijun Du, Qiao Sun</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10853-024-09547-y</guid>
-    </item>
-    <item>
-      <title>Theoretically Insight into Co and S Pairs Dispersed on N&#8208;Doped Graphene: Promising Bifunctional Electrocatalysts for Oxygen Reduction/Evolution Reactions</title>
-      <link>https://doi.org/10.1002/adts.202400076</link>
-      <description>Ji Zhang, Aimin Yu, Dongsheng Li, Chenghua Sun, Advanced theory and simulations. None(None)] 2024. https://openalex.org/W4393388274
-
-                Abstract Single atom catalysts (SACs) are considered as efficient catalysts for hydrogen&#8208;based energy conversion and storage because of their excellent catalytic performance for oxygen evolution reactions (OER) and oxygen reduction reactions (ORR). In the present work, a new concept of SACs is proposed with the capacity to form d &#8208; p orbital hybridization. These computationally designed SACs contain a metal and non&#8208;metal pair embedded in the N&#8208;doped graphene framework (MX@N 6 ). Based on the overpotential evaluation by the first principle theory calculations, CoS@N 6 containing Co and S atom pair possessed a low overpotential of 0.37 V/0.29 V when used as a bifunctional ORR/OER catalyst. These overpotentials are much lower than Co@N 6 without S atom. The electronic structure analysis revealed that non&#8208;metal atoms of the catalyst can regulate the electronic structure of active metal sites and facilitate the adsorption and charge transfer between intermediates and the catalyst resulting in enhanced catalytic performance. This work demonstrates an alternative way to further improve the catalytic activity of SACs by introducing a non&#8208;metal atom that may shed light on the rational design of advanced SACs for ORR/OER with high efficiency and stability.</description>
-      <author>Ji Zhang, Aimin Yu, Dongsheng Li, Chenghua Sun</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adts.202400076</guid>
-    </item>
-    <item>
-      <title>Bifunctional activity and theoretical study of transition metal molybdates for hydrogen and oxygen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.254</link>
-      <description>Namita Dalai, Manikandan Kandasamy, Shraddhanjali Senapati, Brahmananda Chakraborty, Bijayalaxmi Jena, International journal of hydrogen energy. 64(None)] 2024. https://openalex.org/W4393393474
-
-                Effective, sturdy and cheap electrocatalysts are extremely desirable for water electrolysis. In this work, transition metal molybdates (MMoO4, M = Fe, Co, Ni) with extraordinary oxygen evolution reaction (OER), and hydrogen evolution reaction (HER) in basic electrolyte solution was reported. &#946;-Fe2(MoO4)3 catalyst exhibits better electrocatalytic performance and robustness for both HER and OER compared to NiMoO4 and CoMoO4. Theoretical study (DFT calculation) disclose that the Fe atoms increase the energy states near the Fermi level in &#946;-Fe2(MoO4)3 which makes it more conductive leading to superior OER and HER activity. Compared to CoMoO4 and NiMoO4, &#946;-Fe2(MoO4)3 have well defined multiple Mo 4d orbitals at the conduction band. These are empty states in conduction band, ready to receive the electrons. Further, the computed overpotential values for NiMoO4, CoMoO4, and &#946;-Fe2(MoO4)3 surfaces follow the trend, &#946;-Fe2(MoO4)3 &lt; NiMoO4 &lt; CoMoO4, corroborating with the experimental results.</description>
-      <author>Namita Dalai, Manikandan Kandasamy, Shraddhanjali Senapati, Brahmananda Chakraborty, Bijayalaxmi Jena</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.254</guid>
-    </item>
-    <item>
-      <title>Are (100) facets of transition metal carbonitrides suitable as electrocatalysts for nitrogen reduction to ammonia at ambient conditions?</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.03.282</link>
-      <description>Atef Iqbal, Egill Sk&#250;lason, Younes Abghoui, International journal of hydrogen energy. 64(None)] 2024. https://openalex.org/W4393393578
-
-                Sustainable and energy-efficient ammonia production requires facile nitrogen reduction for hydrogen preservation and inorganic fertilizers. A nitrogen reduction apparatus with optimal stability, selectivity, and activity for ambient temperatures and pressure is needed to catalyze ammonia synthesis. This paper describes the investigation of using transition metal carbonitrides as catalyst to reduce molecular nitrogen electrochemically to NH3 at room temperature and atmospheric pressure. Density functional theory calculations determine the competition among associative, dissociative, and Mars-van Krevelen mechanisms where in most cases the Mars-van Krevelen is a more favorable reaction pathway. VCN and NbCN are the best candidates for ammonia production via the Mars-van Krevelen mechanism at low onset potentials of &#8722;0.52 V and &#8722;0.53 V vs reversible hydrogen electrode on the (100) facets. These carbonitrides are predicted to favor nitrogen reduction reaction rather than hydrogen evolution reaction.</description>
-      <author>Atef Iqbal, Egill Sk&#250;lason, Younes Abghoui</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.03.282</guid>
-    </item>
     <item>
       <title>Amorphous/Crystalline Phases Mixed Nanosheets Array Rich in Oxygen Vacancies Boost Oxygen Evolution Reaction of Spinel Oxides in Alkaline Media</title>
       <link>https://doi.org/10.1002/smll.202401504</link>
@@ -280,7 +190,7 @@
     <item>
       <title>Upgrading biomass derived furan aldehydes by coupled electrochemical conversion over silver-based electrocatalysts</title>
       <link>https://doi.org/10.1016/j.cej.2024.151001</link>
-      <description>Zhiwei Dai, Xi Lu, Nan Li, Yichen Zhang, Xuebing Zhao, Chemical engineering journal (1996. Print). None(None)] 2024. https://openalex.org/W4393944922
+      <description>Zhiwei Dai, Xi Lu, Nan Li, Yichen Zhang, Xuebing Zhao, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4393944922
 
                 No abstract</description>
       <author>Zhiwei Dai, Xi Lu, Nan Li, Yichen Zhang, Xuebing Zhao</author>
@@ -296,16 +206,6 @@
       <author>Kai S. Exner, Muhammad Usama, Samad Razzaq, Christof H&#228;ttig</author>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4101847/v1</guid>
-    </item>
-    <item>
-      <title>Validation workflow for machine learning interatomic potentials for complex ceramics</title>
-      <link>https://doi.org/10.1016/j.commatsci.2024.112983</link>
-      <description>Kimia Ghaffari, Salil Bavdekar, Douglas E. Spearot, Ghatu Subhash, Computational materials science. 239(None)] 2024. https://openalex.org/W4393373529
-
-                No abstract</description>
-      <author>Kimia Ghaffari, Salil Bavdekar, Douglas E. Spearot, Ghatu Subhash</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.commatsci.2024.112983</guid>
     </item>
     <item>
       <title>Optimizing lithium-silver alloy phases for enhanced energy density and electrochemical performance</title>

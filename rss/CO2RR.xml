@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Apr 2024 01:02:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 01:01:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Supported Tetra-Atom Clusters on G-Cn as Catalysts for Electrochemical Reduction of Carbon Dioxide: A Computational Study</title>
-      <link>https://doi.org/10.2139/ssrn.4780685</link>
-      <description>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan, No host. None(None)] 2024. https://openalex.org/W4393376349
-
-                No abstract</description>
-      <author>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4780685</guid>
-    </item>
     <item>
       <title>Size&#8208;Dependent Multi&#8208;Electron Donation in Metal&#8208;Complex Quantum Dots Hybrid Catalyst for Photocatalytic Carbon Dioxide Reduction</title>
       <link>https://doi.org/10.1002/adfm.202315734</link>
@@ -179,16 +169,6 @@
     </item>
     <item>
       <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
-      <link>https://doi.org/10.5281/zenodo.10069468</link>
-      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
-
-                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
-      <author>Hongxing He</author>
-      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
-    </item>
-    <item>
-      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
       <link>https://doi.org/10.5281/zenodo.10069469</link>
       <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393709502
 
@@ -196,6 +176,16 @@
       <author>Hongxing He</author>
       <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069469</guid>
+    </item>
+    <item>
+      <title>Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor</title>
+      <link>https://doi.org/10.5281/zenodo.10069468</link>
+      <description>Hongxing He, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393749257
+
+                Summary of published carbon dioxide field emission data and their influence factors used for generating Tier 1 emission factor of peat extractions in IPCC 2013 Wetland Supplementary and extra data published after IPCC (2014). The dataset is supplementary to the published paper "Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor" By Hongxing He and Nigel Roulet: He, H., Roulet, N.T. Improved estimates of carbon dioxide emissions from drained peatlands support a reduction in emission factor. Commun Earth Environ 4, 436 (2023). https://doi.org/10.1038/s43247-023-01091-y.</description>
+      <author>Hongxing He</author>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10069468</guid>
     </item>
     <item>
       <title>Data for: "Carbon dioxide reduction by lanthanide(III) complexes supported by redox-active Schiff base ligands"</title>
@@ -216,16 +206,6 @@
       <author>Nadir Jori, Davide Toniolo, Bang C. Huynh, Rosario Scopelliti, Marinella Mazzanti</author>
       <pubDate>Wed, 19 Aug 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7295465</guid>
-    </item>
-    <item>
-      <title>Reduction of Iron Oxides for CO2 Capture Materials</title>
-      <link>https://doi.org/10.3390/en17071673</link>
-      <description>Antonio Fabozzi, Francesca Cerciello, Osvalda Senneca, Energies (Basel). 17(7)] 2024. https://openalex.org/W4393388356
-
-                The iron industry is the largest energy-consuming manufacturing sector in the world, emitting 4&#8211;5% of the total carbon dioxide (CO2). The development of iron-based systems for CO2 capture and storage could effectively contribute to reducing CO2 emissions. A wide set of different iron oxides, such as hematite (Fe2O3), magnetite (Fe3O4), and w&#252;stite (Fe(1&#8722;y)O) could in fact be employed for CO2 capture at room temperature and pressure upon an investigation of their capturing properties. In order to achieve the most functional iron oxide form for CO2 capture, starting from Fe2O3, a reducing agent such as hydrogen (H2) or carbon monoxide (CO) can be employed. In this review, we present the state-of-the-art and recent advances on the different iron oxide materials employed, as well as on their reduction reactions with H2 and CO.</description>
-      <author>Antonio Fabozzi, Francesca Cerciello, Osvalda Senneca</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17071673</guid>
     </item>
     <item>
       <title>New processes for the catalytic reduction of CO2 in chemicals</title>
@@ -378,16 +358,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8250712</guid>
     </item>
     <item>
-      <title>Study of the adsorption sites of high entropy alloys for CO2 reduction using graph convolutional network</title>
-      <link>https://doi.org/10.1063/5.0198043</link>
-      <description>Hananeh Oliaei, N. R. Aluru, APL machine learning. 2(2)] 2024. https://openalex.org/W4393855306
-
-                Carbon dioxide reduction is a major step toward building a cleaner and safer environment. There is a surge of interest in exploring high-entropy alloys (HEAs) as active catalysts for CO2 reduction; however, so far, it is mainly limited to quinary HEAs. Inspired by the successful synthesis of octonary and denary HEAs, herein, the CO2 reduction reaction (CO2RR) performance of an HEA composed of Ag, Au, Cu, Pd, Pt, Co, Ga, Ni, and Zn is studied by developing a high-fidelity graph neural network (GNN) framework. Within this framework, the adsorption site geometry and physics are employed through the featurization of elements. Particularly, featurization is performed using various intrinsic properties, such as electronegativity and atomic radius, to enable not only the supervised learning of CO2RR performance descriptors, namely, CO and H adsorption energies, but also the learning of adsorption physics and generalization to unseen metals and alloys. The developed model evaluates the adsorption strength of &#8764;3.5 and &#8764;0.4 billion possible sites for CO and H, respectively. Despite the enormous space of the AgAuCuPdPtCoGaNiZn alloy and the rather small size of the training data, the GNN framework demonstrated high accuracy and good robustness. This study paves the way for the rapid screening and intelligent synthesis of CO2RR-active and selective HEAs.</description>
-      <author>Hananeh Oliaei, N. R. Aluru</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0198043</guid>
-    </item>
-    <item>
       <title>Computational data for "On the role of metal cations in CO2 electrocatalytic reduction"</title>
       <link>https://doi.org/10.5281/zenodo.7122466</link>
       <description>Duy Le, Talat S. Rahman, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393553651
@@ -398,14 +368,14 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7122466</guid>
     </item>
     <item>
-      <title>Oxygen evolution reaction catalysis for energy efficient CO2 reduction devices</title>
-      <link>https://openalex.org/W4393399933</link>
-      <description>Ad&#232;le Peugeot, HAL (Le Centre pour la Communication Scientifique Directe). None(None)] 2021. https://openalex.org/W4393399933
+      <title>Study of the adsorption sites of high entropy alloys for CO2 reduction using graph convolutional network</title>
+      <link>https://doi.org/10.1063/5.0198043</link>
+      <description>Hananeh Oliaei, N. R. Aluru, APL machine learning. 2(2)] 2024. https://openalex.org/W4393855306
 
-                No abstract</description>
-      <author>Ad&#232;le Peugeot</author>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393399933</guid>
+                Carbon dioxide reduction is a major step toward building a cleaner and safer environment. There is a surge of interest in exploring high-entropy alloys (HEAs) as active catalysts for CO2 reduction; however, so far, it is mainly limited to quinary HEAs. Inspired by the successful synthesis of octonary and denary HEAs, herein, the CO2 reduction reaction (CO2RR) performance of an HEA composed of Ag, Au, Cu, Pd, Pt, Co, Ga, Ni, and Zn is studied by developing a high-fidelity graph neural network (GNN) framework. Within this framework, the adsorption site geometry and physics are employed through the featurization of elements. Particularly, featurization is performed using various intrinsic properties, such as electronegativity and atomic radius, to enable not only the supervised learning of CO2RR performance descriptors, namely, CO and H adsorption energies, but also the learning of adsorption physics and generalization to unseen metals and alloys. The developed model evaluates the adsorption strength of &#8764;3.5 and &#8764;0.4 billion possible sites for CO and H, respectively. Despite the enormous space of the AgAuCuPdPtCoGaNiZn alloy and the rather small size of the training data, the GNN framework demonstrated high accuracy and good robustness. This study paves the way for the rapid screening and intelligent synthesis of CO2RR-active and selective HEAs.</description>
+      <author>Hananeh Oliaei, N. R. Aluru</author>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0198043</guid>
     </item>
     <item>
       <title>Computational data for "On the role of metal cations in CO2 electrocatalytic reduction"</title>
@@ -439,16 +409,6 @@
     </item>
     <item>
       <title>DFT+U study of CO2 reduction and CO oxidation on a reconstructed CeO(2-x)(110) facet.</title>
-      <link>https://doi.org/10.5281/zenodo.3929253</link>
-      <description>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393447224
-
-                Optimised structures of ceria (110) and reconstructed (110) facets for CO2 reduction and CO oxidation with and without doping in VASP POSCAR format. Vibrational frequencies are given for structures where Gibbs free energies are used in associated publication.</description>
-      <author>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge</author>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3929253</guid>
-    </item>
-    <item>
-      <title>DFT+U study of CO2 reduction and CO oxidation on a reconstructed CeO(2-x)(110) facet.</title>
       <link>https://doi.org/10.5281/zenodo.3929252</link>
       <description>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393567114
 
@@ -456,6 +416,16 @@
       <author>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge</author>
       <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3929252</guid>
+    </item>
+    <item>
+      <title>DFT+U study of CO2 reduction and CO oxidation on a reconstructed CeO(2-x)(110) facet.</title>
+      <link>https://doi.org/10.5281/zenodo.3929253</link>
+      <description>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393447224
+
+                Optimised structures of ceria (110) and reconstructed (110) facets for CO2 reduction and CO oxidation with and without doping in VASP POSCAR format. Vibrational frequencies are given for structures where Gibbs free energies are used in associated publication.</description>
+      <author>Jens Vive Kildgaard, Heine Anton Hansen, Tejs Vegge</author>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3929253</guid>
     </item>
     <item>
       <title>Unintended cation crossover influences CO2 reduction selectivity in Cu-based zero-gap electrolysers</title>
@@ -468,14 +438,14 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7737135</guid>
     </item>
     <item>
-      <title>Hemispheric asymmetric response of tropical cyclones to CO2 emission reduction</title>
-      <link>https://doi.org/10.1038/s41612-024-00632-2</link>
-      <description>Chao Liu, Soon&#8208;Il An, Jiuwei Zhao, Seok&#8208;Woo Son, Fei&#8208;Fei Jin, Ruifen Zhan, npj climate and atmospheric science. 7(1)] 2024. https://openalex.org/W4393392587
+      <title>Unintended cation crossover influences CO2 reduction selectivity in Cu-based zero-gap electrolysers</title>
+      <link>https://doi.org/10.5281/zenodo.7737136</link>
+      <description>Gumaa A. El&#8208;Nagar, Flora Haun, Siddharth Gupta, Sasho Stojkovikj, Matthew T. Mayer, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393666624
 
-                Abstract Tropical cyclones (TCs) are among the most devastating natural hazards for coastal regions, and their response to human activities has broad socio-economic relevance. So far, how TC responds to climate change mitigation remains unknown, complicating the design of adaptation policies. Using net-zero and negative carbon emission experiments, we reveal a robust hemisphere-asymmetric hysteretic TC response to CO 2 reduction. During the decarbonization phase, the Northern Hemisphere TC frequency continues to decrease for several more decades, while the Southern Hemisphere oceans abruptly shifts to a stormier state, with the timescales depending on mitigation details. Such systematic changes are largely attributed to the planetary-scale reorganization of vertical wind shear and midlevel upward motion associated with the hysteretic southward migration of the Intertropical Convergence Zone, underpinned by the Atlantic Meridional Overturning Circulation and El Ni&#241;o-like mean state changes. The hemispheric contrast in TC response suggests promising benefits for most of the world&#8217;s population from human action to mitigate greenhouse gas warming, but it may also exacerbate regional socioeconomic disparities, for example by putting more pressure on small open-ocean island states in the Southern Hemisphere to adapt to TC risks.</description>
-      <author>Chao Liu, Soon&#8208;Il An, Jiuwei Zhao, Seok&#8208;Woo Son, Fei&#8208;Fei Jin, Ruifen Zhan</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41612-024-00632-2</guid>
+                Dataset for the publication "Unintended cation crossover influences CO2 reduction selectivity in Cu-based zero-gap electrolysers"</description>
+      <author>Gumaa A. El&#8208;Nagar, Flora Haun, Siddharth Gupta, Sasho Stojkovikj, Matthew T. Mayer</author>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7737136</guid>
     </item>
     <item>
       <title>Designing Membrane Electrode Assembly for Electrochemical CO2 Reduction: a Review</title>
@@ -486,16 +456,6 @@
       <author>Xuerong Wang, Shulin Zhao, Tao Guo, Luyao Yang, Qianqian Zhao, Yuping Wu, Yuhui Chen</author>
       <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s12209-024-00390-5</guid>
-    </item>
-    <item>
-      <title>Unintended cation crossover influences CO2 reduction selectivity in Cu-based zero-gap electrolysers</title>
-      <link>https://doi.org/10.5281/zenodo.7737136</link>
-      <description>Gumaa A. El&#8208;Nagar, Flora Haun, Siddharth Gupta, Sasho Stojkovikj, Matthew T. Mayer, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393666624
-
-                Dataset for the publication "Unintended cation crossover influences CO2 reduction selectivity in Cu-based zero-gap electrolysers"</description>
-      <author>Gumaa A. El&#8208;Nagar, Flora Haun, Siddharth Gupta, Sasho Stojkovikj, Matthew T. Mayer</author>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7737136</guid>
     </item>
     <item>
       <title>Surface Charge Boundary Condition Often Misused in CO2 Reduction Models (raw data for graphs)</title>
@@ -516,16 +476,6 @@
       <author>Evan Johnson</author>
       <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8192472</guid>
-    </item>
-    <item>
-      <title>Stability and lifetime of diffusion-trapped oxygen in oxide-derived copper CO2 reduction electrocatalysts</title>
-      <link>https://doi.org/10.1038/s41929-024-01132-5</link>
-      <description>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez, Nature Catalysis. None(None)] 2024. https://openalex.org/W4393379673
-
-                Abstract Oxide-derived Cu has an excellent ability to promote C&#8211;C coupling in the electrochemical carbon dioxide reduction reaction. However, these materials largely rearrange under reaction conditions; therefore, the nature of the active site remains controversial. Here we study the reduction process of oxide-derived Cu via large-scale molecular dynamics with a precise neural network potential trained on first-principles data and introducing experimental conditions. The oxygen concentration in the most stable oxide-derived Cu increases with an increase of the pH, potential or specific surface area. In long electrochemical experiments, the catalyst would be fully reduced to Cu, but removing all the trapped oxygen takes a considerable amount of time. Although the highly reconstructed Cu surface provides various sites to adsorb oxygen more strongly, the surface oxygen atoms are not stable under common experimental conditions. This work provides insight into the evolution of oxide-derived Cu catalysts and residual oxygen during reaction and also a deep understanding of the nature of active sites.</description>
-      <author>Zan Lian, Federico Dattila, N&#250;ria L&#243;pez</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01132-5</guid>
     </item>
     <item>
       <title>Dataset for "Importance of Substrate Pore Size and Wetting Behavior in Gas Diffusion Electrodes for CO2 Reduction"</title>
@@ -568,26 +518,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8167571</guid>
     </item>
     <item>
-      <title>Unique dendritic Bi2S3 with ultrathin nanosheets rich in S vacancy-defect toward promoting highly efficient photothermal CO2 reduction into CO</title>
-      <link>https://doi.org/10.1039/d4cy00152d</link>
-      <description>Yong Zhou, Qiutong Han, Zhigang Zou, Yan Shen, Xin Zhou, Qinghua He, Yanjun Zhu, Catalysis science &amp; technology (Print). None(None)] 2024. https://openalex.org/W4393391190
-
-                The catalytic reduction of carbon dioxide (CO2) into value-added chemicals utilizing solar energy is a promising strategy to simultaneously address global warming and energy crisis. The tree-like Bi2S3 catalytic material,...</description>
-      <author>Yong Zhou, Qiutong Han, Zhigang Zou, Yan Shen, Xin Zhou, Qinghua He, Yanjun Zhu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00152d</guid>
-    </item>
-    <item>
-      <title>Ligand-engineering Cu-based catalysts to accelerate the electrochemical reduction of CO2</title>
-      <link>https://doi.org/10.1039/d4cc00819g</link>
-      <description>Ying Liu, Rui Zhang, Ke-sheng Xiao, Fenghui Ye, Xinyue Ma, Wei Liu, Han Dong Yin, Baoguang Mao, Xueyu Song, Chuangang Hu, Chemical communications (London. 1996. Print). None(None)] 2024. https://openalex.org/W4393388285
-
-                Two typical Cu-based complex catalysts with piperazine (PR) and p-phenylenediamine (pPDA) ligands were designed to elucidate that the ligands can tailor the reduction behavior of the Cu species and thus...</description>
-      <author>Ying Liu, Rui Zhang, Ke-sheng Xiao, Fenghui Ye, Xinyue Ma, Wei Liu, Han Dong Yin, Baoguang Mao, Xueyu Song, Chuangang Hu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cc00819g</guid>
-    </item>
-    <item>
       <title>Pathways to enhance electrochemical CO2 reduction identified through direct pore-level modeling (data for figures)</title>
       <link>https://doi.org/10.5281/zenodo.8167572</link>
       <description>Evan Johnson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393524254
@@ -596,36 +526,6 @@
       <author>Evan Johnson</author>
       <pubDate>Thu, 20 Jul 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8167572</guid>
-    </item>
-    <item>
-      <title>The Role of Undercoordinated Sites on Zinc Electrodes for CO2 Reduction to CO (Data Set)</title>
-      <link>https://doi.org/10.5281/zenodo.6503173</link>
-      <description>Mavis Pei Lin Kang, Manuel J. Kolb, Federico Calle&#8208;Vallejo, Boon Siang Yeo, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393737294
-
-                The dataset for the manuscript.</description>
-      <author>Mavis Pei Lin Kang, Manuel J. Kolb, Federico Calle&#8208;Vallejo, Boon Siang Yeo</author>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6503173</guid>
-    </item>
-    <item>
-      <title>Renewable methane production from the catalytic reduction of CO2 using solar light</title>
-      <link>https://openalex.org/W4393400253</link>
-      <description>Martin Kientz, No host. None(None)] 2022. https://openalex.org/W4393400253
-
-                No abstract</description>
-      <author>Martin Kientz</author>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400253</guid>
-    </item>
-    <item>
-      <title>Electrochemical CO2 Reduction Mechanism on Copper: Relation between Mesoscopic Mass Transport and Intrinsic Kinetics</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4189647/v1</link>
-      <description>Carlos G. Morales&#8208;Guio, Joonbaek Jang, Martina R&#252;scher, Maximilian Winzely, Dolores Rodr&#305;&#769;guez, Eber Reyes-Lopez, Samanvaya Srivast, Panagiotis D. Christofides, Philippe Sautet, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393377846
-
-                Abstract A multi-scale first-principles transport-reaction model is derived for the electrochemical reduction of CO2 to fuels and chemicals on polycrystalline copper electrodes. The model utilizes a continuous stirred-tank reactor (CSTR)-volume approximation that captures the relative timescales for mesoscale stochastic processes at the electrode/electrolyte interface that determine product selectivity. The model is built starting from a large experimental dataset obtained under a broad range of well-defined transport regimes in a gastight rotating cylinder electrode cell. Product distributions under different conditions of transport, applied potential, and bulk electrolyte concentration are rationalized by introducing dimensionless numbers that reduce complexity and capture relative timescales for mesoscopic and microscopic dynamics of electrocatalytic reactions on copper electrodes. This work demonstrates that one CO2 reduction mechanism can explain differences in selectivity reported for copper-based electrocatalysts when mass transport, concentration polarization effects, and primary and secondary current distributions are taken into account.</description>
-      <author>Carlos G. Morales&#8208;Guio, Joonbaek Jang, Martina R&#252;scher, Maximilian Winzely, Dolores Rodr&#305;&#769;guez, Eber Reyes-Lopez, Samanvaya Srivast, Panagiotis D. Christofides, Philippe Sautet</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4189647/v1</guid>
     </item>
     <item>
       <title>The Role of Undercoordinated Sites on Zinc Electrodes for CO2 Reduction to CO (Data Set)</title>
@@ -676,16 +576,6 @@
       <author>Joachim Peters, Mercedes Burguillo, Jos&#233; Mar&#237;a Arranz Mu&#241;oz</author>
       <pubDate>Thu, 16 Jul 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3948364</guid>
-    </item>
-    <item>
-      <title>Solar driven catalytic reduction of CO2 in water at photovoltaic materials with Co molecular catalysts</title>
-      <link>https://openalex.org/W4393397477</link>
-      <description>Ruwen Wang, HAL (Le Centre pour la Communication Scientifique Directe). None(None)] 2022. https://openalex.org/W4393397477
-
-                No abstract</description>
-      <author>Ruwen Wang</author>
-      <pubDate>Thu, 16 Jun 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393397477</guid>
     </item>
     <item>
       <title>Cation-induced changes in the inner- and outer-sphere mechanisms of electrocatalytic CO2 reduction-related dataset</title>
@@ -758,16 +648,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4784724</guid>
     </item>
     <item>
-      <title>Reduction of CO2 emissions through the co-combustion of lignite with biomass residues: Renewable and non-renewable CO2 per produced megajoule and fuel characterization</title>
-      <link>https://doi.org/10.1016/j.tsep.2024.102566</link>
-      <description>Agapi Vasileiadou, Thermal science and engineering progress (Online). None(None)] 2024. https://openalex.org/W4393374575
-
-                No abstract</description>
-      <author>Agapi Vasileiadou</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.tsep.2024.102566</guid>
-    </item>
-    <item>
       <title>Attributing agnostically-detected large reductions in road CO2 emissions to policy mixes (code and data)</title>
       <link>https://doi.org/10.5281/zenodo.6768563</link>
       <description>Nicolas Koch, Lennard Naumann, Felix Pretis, Nolan Ritter, M. Schwarz, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393625552
@@ -816,16 +696,6 @@
       <author>WANG Min, Vasilis Nikolaou, Loiudice Anna, Ian D. Sharp, Antoni Llobet, Raffaella Buonsanti</author>
       <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7229401</guid>
-    </item>
-    <item>
-      <title>Author Correction: In operando NMR investigations of the aqueous electrolyte chemistry during electrolytic CO2 reduction</title>
-      <link>https://doi.org/10.1038/s42004-024-01156-9</link>
-      <description>Sven Jovanovic, Peter Jakes, Steffen Merz, Davis Thomas Daniel, R&#252;diger&#8208;A. Eichel, Josef Granwehr, Communications chemistry. 7(1)] 2024. https://openalex.org/W4393381981
-
-                No abstract</description>
-      <author>Sven Jovanovic, Peter Jakes, Steffen Merz, Davis Thomas Daniel, R&#252;diger&#8208;A. Eichel, Josef Granwehr</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s42004-024-01156-9</guid>
     </item>
     <item>
       <title>Modulation of the electrocatalytic activity for H2 production and CO2 reduction with bio-inspired MFe (Ni and Co) complexes</title>
@@ -948,16 +818,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4780081</guid>
     </item>
     <item>
-      <title>Photothermal Flows Activated Cspbbr3&#8838;Pb-Tcpp S-Scheme Heterojunction: In-Situ Converted Interface for Robust Co2 Reduction Coupling with Benzylamine Oxidation</title>
-      <link>https://doi.org/10.2139/ssrn.4780690</link>
-      <description>You-Guo Luo, Chenglong Peng, Luobing Tang, Jian&#8208;Yong Zhang, Haozhi Wang, Yufeng Liu, Qinfei Ke, Yongzheng Fang, Na Zhang, No host. None(None)] 2024. https://openalex.org/W4393376370
-
-                No abstract</description>
-      <author>You-Guo Luo, Chenglong Peng, Luobing Tang, Jian&#8208;Yong Zhang, Haozhi Wang, Yufeng Liu, Qinfei Ke, Yongzheng Fang, Na Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4780690</guid>
-    </item>
-    <item>
       <title>Data set for the journal article: The Spatial Distribution of Cobalt Phthalocyanine and Copper Nanocubes Controls the Selectivity towards C2 Products in Tandem Electrocatalytic CO2 Reduction</title>
       <link>https://doi.org/10.5281/zenodo.7327628</link>
       <description>WANG Min, Raffaella Buonsanti, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393721434
@@ -990,10 +850,10 @@
     <item>
       <title>Nitrogen Doping-Roused Synergistic Active Sites in Perovskite Enabling Highly Selective CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction into CH&lt;sub&gt;4&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acs.nanolett.4c00748</link>
-      <description>Qinyuan Hu, Mengqian Li, Juncheng Zhu, Zhixing Zhang, Dehua He, Kai Zheng, Wu Yang, Mingming Fan, Shen Zhu, Wensheng Yan, Jun Huang, Junfa Zhu, Qingxia Chen, Xingchen Jiao, Yi Xie, Nano letters (Print). None(None)] 2024. https://openalex.org/W4393548279
+      <description>Qinyuan Hu, Mengqian Li, Juncheng Zhu, Zhixing Zhang, Dehua He, Kai Zheng, Yang Wu, Mingming Fan, Shen Zhu, Wensheng Yan, Jun Huang, Junfa Zhu, Qingxia Chen, Xingchen Jiao, Yi Xie, Nano letters. None(None)] 2024. https://openalex.org/W4393548279
 
                 The intricate protonation process in carbon dioxide reduction usually makes the product unpredictable. Thus, it is significant to control the reactive intermediates to manipulate the reaction steps. Here, we propose that the synergistic La&#8211;Ti active sites in the N-La2Ti2O7 nanosheets enable the highly selective carbon dioxide photoreduction into methane. In the photoreduction of CO2 over N-La2Ti2O7 nanosheets, in situ Fourier transform infrared spectra are utilized to monitor the *CH3O intermediate, pivotal for methane production, whereas such monitoring is not conducted for La2Ti2O7 nanosheets. Also, theoretical calculations testify to the increased charge densities on the Ti and La atoms and the regulated formation energy barrier of *CO and *CH3O intermediates by the constructed synergistic active sites. Accordingly, the methane formation rate of 7.97 &#956;L h&#8211;1 exhibited by the N-La2Ti2O7 nanosheets, along with an electron selectivity of 96.6%, exceeds that of most previously reported catalysts under similar conditions.</description>
-      <author>Qinyuan Hu, Mengqian Li, Juncheng Zhu, Zhixing Zhang, Dehua He, Kai Zheng, Wu Yang, Mingming Fan, Shen Zhu, Wensheng Yan, Jun Huang, Junfa Zhu, Qingxia Chen, Xingchen Jiao, Yi Xie</author>
+      <author>Qinyuan Hu, Mengqian Li, Juncheng Zhu, Zhixing Zhang, Dehua He, Kai Zheng, Yang Wu, Mingming Fan, Shen Zhu, Wensheng Yan, Jun Huang, Junfa Zhu, Qingxia Chen, Xingchen Jiao, Yi Xie</author>
       <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c00748</guid>
     </item>
@@ -1009,16 +869,6 @@
       <guid isPermaLink="true">https://doi.org/10.30955/gnj.005778</guid>
     </item>
     <item>
-      <title>XCO2 Super-Resolution Reconstruction Based on Spatial Extreme Random Trees</title>
-      <link>https://doi.org/10.3390/atmos15040440</link>
-      <description>Xuwen Li, Sheng Jiang, Xiangyuan Wang, Tiantian Wang, Su Zhang, Jianpeng Guo, Donglai Jiao, Atmosphere (Basel). 15(4)] 2024. https://openalex.org/W4393411134
-
-                Carbon dioxide (CO2) is currently the most harmful greenhouse gas in the atmosphere. Obtaining long-term, high-resolution atmospheric column CO2 concentration (XCO2) datasets is of great practical significance for mitigating the greenhouse effect, identifying and controlling carbon emission sources, and achieving carbon cycle management. However, mainstream satellite observations provide XCO2 datasets with coarse spatial resolution, which is insufficient to support the needs of higher-precision research. To address this gap, in this study, we integrate spatial information with the extreme random trees model and develop a new machine learning model called spatial extreme random trees (SExtraTrees) to reconstruct a 1 km spatial resolution XCO2 dataset for China from 2016 to 2020. The results indicate that the predictive ability of spatial extreme random trees is more stable and has higher fitting accuracy compared to other methods. Overall, XCO2 in China shows an increasing trend year by year, with the spatial distribution revealing significantly higher XCO2 levels in eastern coastal regions compared to western inland areas. The contributions of this study are primarily in the following areas: (1) Considering the spatial heterogeneity of XCO2 and combining spatial features with the advantages of machine learning, we construct the spatial extreme random trees model, which is verified to have high predictive accuracy. (2) Using the spatial extreme random trees model, we reconstruct high-resolution XCO2 datasets for China from 2016 to 2020, providing data support for carbon emission reduction and related decision making. (3) Based on the generated dataset, we analyze the spatiotemporal distribution patterns of XCO2 in China, thereby improving emission reduction policies and sustainable development measures.</description>
-      <author>Xuwen Li, Sheng Jiang, Xiangyuan Wang, Tiantian Wang, Su Zhang, Jianpeng Guo, Donglai Jiao</author>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/atmos15040440</guid>
-    </item>
-    <item>
       <title>Improving Pasture Management</title>
       <link>https://doi.org/10.55124/arjn.v1i1.203</link>
       <description>Prof.Dr. Zakir Aliyev, Mr. Dr. S.Sh. Savalan Seyfeddinov, No host. 1(1)] 2022. https://openalex.org/W4393850374
@@ -1027,6 +877,16 @@
       <author>Prof.Dr. Zakir Aliyev, Mr. Dr. S.Sh. Savalan Seyfeddinov</author>
       <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.55124/arjn.v1i1.203</guid>
+    </item>
+    <item>
+      <title>XCO2 Super-Resolution Reconstruction Based on Spatial Extreme Random Trees</title>
+      <link>https://doi.org/10.3390/atmos15040440</link>
+      <description>Xuwen Li, Sheng Jiang, Xiangyuan Wang, Tiantian Wang, Su Zhang, Jianpeng Guo, Donglai Jiao, Atmosphere (Basel). 15(4)] 2024. https://openalex.org/W4393411134
+
+                Carbon dioxide (CO2) is currently the most harmful greenhouse gas in the atmosphere. Obtaining long-term, high-resolution atmospheric column CO2 concentration (XCO2) datasets is of great practical significance for mitigating the greenhouse effect, identifying and controlling carbon emission sources, and achieving carbon cycle management. However, mainstream satellite observations provide XCO2 datasets with coarse spatial resolution, which is insufficient to support the needs of higher-precision research. To address this gap, in this study, we integrate spatial information with the extreme random trees model and develop a new machine learning model called spatial extreme random trees (SExtraTrees) to reconstruct a 1 km spatial resolution XCO2 dataset for China from 2016 to 2020. The results indicate that the predictive ability of spatial extreme random trees is more stable and has higher fitting accuracy compared to other methods. Overall, XCO2 in China shows an increasing trend year by year, with the spatial distribution revealing significantly higher XCO2 levels in eastern coastal regions compared to western inland areas. The contributions of this study are primarily in the following areas: (1) Considering the spatial heterogeneity of XCO2 and combining spatial features with the advantages of machine learning, we construct the spatial extreme random trees model, which is verified to have high predictive accuracy. (2) Using the spatial extreme random trees model, we reconstruct high-resolution XCO2 datasets for China from 2016 to 2020, providing data support for carbon emission reduction and related decision making. (3) Based on the generated dataset, we analyze the spatiotemporal distribution patterns of XCO2 in China, thereby improving emission reduction policies and sustainable development measures.</description>
+      <author>Xuwen Li, Sheng Jiang, Xiangyuan Wang, Tiantian Wang, Su Zhang, Jianpeng Guo, Donglai Jiao</author>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/atmos15040440</guid>
     </item>
     <item>
       <title>Do female political leaders make the environment greener? Evidence from the United States</title>
@@ -1039,14 +899,14 @@
       <guid isPermaLink="true">https://doi.org/10.1108/k-09-2023-1932</guid>
     </item>
     <item>
-      <title>The Effect of Using Sustainable Copper Fiber on Some Mechanical Properties of High Strength Green Concrete</title>
-      <link>https://doi.org/10.31026/j.eng.2024.04.05</link>
-      <description>Ahmed Najm Abdullah, Nada Mahdi Fawzi, Ma&#487;alla&#7831; al-handasa&#7831;. 30(04)] 2024. https://openalex.org/W4393396579
+      <title>American Policy Conflict in the Hothouse: Exploring the Politics of Climate Inaction and Polycentric Rebellion</title>
+      <link>https://doi.org/10.5281/zenodo.5787139</link>
+      <description>John Byrne, Job Taminiau, Joseph Nyangon, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393703210
 
-                Finding an alternative to materials that pollute during manufacturing, most notably cement, is vital to executing the idea of sustainability in the building sector. It was vital to develop concrete that assists in the reduction of CO2 (Carbon dioxide) in the atmosphere because industrial wastes contain calcium, silica, and aluminous minerals, such as silica fume, that are employed in the production of high-strength concrete and have parameters that are identical to those of regular concrete. As a substitute for Portland cement, lime cement was utilized, and 15% of the cement's weight was substituted with silica fume. Environmentally friendly fibers (Copper Fiber) created from old electrical and electronic equipment were also employed. The purpose of the study is to produce High Strength Green Fiber Concrete (HSGFC) by incorporating silica fume as a replacement and study the effect of adding fiber on some mechanical attributes. The task needed the creation of a high strength concrete mixture of cement with a compressive strength of 65 MPa in accordance with ACI 211.4R, as well as the development of numerous experimental mixtures that relied on the findings of earlier researchers. The mechanical properties (compressive strength, flexural strength and split tensile strength) of samples are tested at 7, 28 and 60 days with standard curing. The results show that adding sustainable fiber to concrete mix enhances the mechanical properties such as compressive strength by 16% at 28 days, flexural strength by 35% and spilt tensile strength by 44% at 28 days Compared with concrete mix with no fiber. Also, the outcomes showed that it is feasible to develop High Strength Concrete (HSC) using sustainable copper fiber possessing exceptional stress resistance, tensile strength, and flexural strength.</description>
-      <author>Ahmed Najm Abdullah, Nada Mahdi Fawzi</author>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31026/j.eng.2024.04.05</guid>
+                Supporting data to Figure 6 in the forthcoming publication "American Policy Conflict in the Hothouse: Exploring the Politics of Climate Inaction and Polycentric Rebellion" in Energy Research &amp; Social Science (ERSS). Dataset provides insight into the components used to create Figure 6 and assess state-level policy contributions to carbon dioxide emission reductions (2002-2030).</description>
+      <author>John Byrne, Job Taminiau, Joseph Nyangon</author>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5787139</guid>
     </item>
     <item>
       <title>American Policy Conflict in the Hothouse: Exploring the Politics of Climate Inaction and Polycentric Rebellion</title>
@@ -1059,16 +919,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5786588</guid>
     </item>
     <item>
-      <title>American Policy Conflict in the Hothouse: Exploring the Politics of Climate Inaction and Polycentric Rebellion</title>
-      <link>https://doi.org/10.5281/zenodo.5787139</link>
-      <description>John Byrne, Job Taminiau, Joseph Nyangon, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2021. https://openalex.org/W4393703210
-
-                Supporting data to Figure 6 in the forthcoming publication "American Policy Conflict in the Hothouse: Exploring the Politics of Climate Inaction and Polycentric Rebellion" in Energy Research &amp; Social Science (ERSS). Dataset provides insight into the components used to create Figure 6 and assess state-level policy contributions to carbon dioxide emission reductions (2002-2030).</description>
-      <author>John Byrne, Job Taminiau, Joseph Nyangon</author>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5787139</guid>
-    </item>
-    <item>
       <title>Assessing transient changes in the ocean carbon cycle during the last deglaciation through carbon isotope modeling</title>
       <link>https://doi.org/10.5194/cp-20-769-2024</link>
       <description>Hidetaka Kobayashi, Akira Oka, Takashi Obase, Ayako Abe&#8208;Ouchi, Climate of the past (Print). 20(3)] 2024. https://openalex.org/W4393716315
@@ -1079,16 +929,6 @@
       <guid isPermaLink="true">https://doi.org/10.5194/cp-20-769-2024</guid>
     </item>
     <item>
-      <title>Zn regulated Bi nanosheet for improving electrochemical CO&lt;sub&gt;2&lt;/sub&gt; reduction to formate over a wide potential window</title>
-      <link>https://doi.org/10.1039/d4nj00948g</link>
-      <description>Pin Gao, Lan Kang, Wen Chen, Fantao Kong, Tao Lin, Lihui Dong, Minguang Fan, Huibing He, Bin Li, Zhengjun Chen, New journal of chemistry (1987). None(None)] 2024. https://openalex.org/W4393379152
-
-                Bi-based materials are promising catalysts for electrochemical reduction of carbon dioxide (CO 2 ) to formate, but remain challenge in terms of activity and stability. Herein, we reported the facile synthesis of...</description>
-      <author>Pin Gao, Lan Kang, Wen Chen, Fantao Kong, Tao Lin, Lihui Dong, Minguang Fan, Huibing He, Bin Li, Zhengjun Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4nj00948g</guid>
-    </item>
-    <item>
       <title>Community-Centric Carbon Reduction Initiatives and Their Impact on Grid Emission Factors: A Case Study in Kazakhstan</title>
       <link>https://doi.org/10.15244/pjoes/178314</link>
       <description>Marat Kozhikov, Paata Janelidze, Akbilek Seitmukhanbet, Yessekina Aiman, Almas Karymsakov, Timoth Mkilima, Polish Journal of Environmental Studies. None(None)] 2024. https://openalex.org/W4393440744
@@ -1097,26 +937,6 @@
       <author>Marat Kozhikov, Paata Janelidze, Akbilek Seitmukhanbet, Yessekina Aiman, Almas Karymsakov, Timoth Mkilima</author>
       <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.15244/pjoes/178314</guid>
-    </item>
-    <item>
-      <title>Sustainable Technological Applications of Green Carbon Materials</title>
-      <link>https://doi.org/10.3390/suschem5020007</link>
-      <description>Martinho Freitas, Lu&#237;s Pinto da Silva, Pedro Rodrigues, Joaquim C. G. Esteves da Silva, Sustainable chemistry. 5(2)] 2024. https://openalex.org/W4393378028
-
-                Green carbon-based materials (GCM), i.e., carbon materials produced using renewable biomass or recycled waste, ought to be used to make processes sustainable and carbon-neutral. Carbon nanomaterials, like carbon dots and the nanobichar families, and carbon materials, like activated carbon and biochar substances, are sustainable materials with great potential to be used in different technological applications. In this review, the following four applications were selected, and the works published in the last two years (since 2022) were critically reviewed: agriculture, water treatment, energy management, and carbon dioxide reduction and sequestration. GCM improved the performance of the technological applications under revision and played an important role in the sustainability of the processes, contributing to the mitigation of climate change, by reducing emissions and increasing the sequestration of CO2eq.</description>
-      <author>Martinho Freitas, Lu&#237;s Pinto da Silva, Pedro Rodrigues, Joaquim C. G. Esteves da Silva</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/suschem5020007</guid>
-    </item>
-    <item>
-      <title>Combustion of gasoline with oxygen-containing and nano-additives: An experimental study, modeling, optimization, and analysis survey</title>
-      <link>https://doi.org/10.1016/j.jtice.2024.105452</link>
-      <description>Mahdi Sarlak, Vahid Pirouzfar, Hossein Sakhaeinia, Afshar Alihosseini, Journal of the Taiwan Institute of Chemical Engineers (Print). 159(None)] 2024. https://openalex.org/W4393397446
-
-                Pollutants emitted from fuel combustion have become a global concern, prompting researchers to explore solutions like fuel formulation modification. This study delved into enhancing gasoline fuel performance and octane number by incorporating varying proportions of 2-methyl-1-propanol, bioethanol, MTBE additives, tert&#8209;butanol, and nanoparticles (ZnO, ZrO2, and CNT). These compositions underwent assessment at different engine loads and speeds. Vapor pressure, a fundamental property of gasoline that signifies its volatility, was examined. Despite the utilization of diverse additives and enhancers, their impact on vapor pressure was minimal at relatively low concentrations. As a result, flash point, octane number, and engine performance were evaluated for the developed fuels. The findings unveiled improved engine performance coupled with reduced emissions. The octane number demonstrated enhancement, approaching gasoline's, while the combustion point remained similar. Notably, pollutant levels exhibited significant reduction. When comparing gasoline fuel at an engine speed of 1500 RPM and a throttle opening of 30 % with gasoline mixed with 2-methyl-1-propanol alcohol, MTBE, and zirconium dioxide under identical conditions, the results showed a reduction of 82.8 % in carbon monoxide emissions, carbon dioxide decreased by 54.05 %, unburnt hydrocarbons decreased approximately by 42.42 %, nitrogen oxides reduced by 22.97 %, engine power increased by 0.5 %, torque increased up to 164 %, and the octane number increased by 7.03 %.</description>
-      <author>Mahdi Sarlak, Vahid Pirouzfar, Hossein Sakhaeinia, Afshar Alihosseini</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jtice.2024.105452</guid>
     </item>
     <item>
       <title>Antibacterial Komagataeibacter hansenii nanocellulose membranes with avocado seed bioactive compounds</title>
@@ -1189,16 +1009,6 @@
       <guid isPermaLink="true">https://doi.org/10.1007/s42452-024-05856-8</guid>
     </item>
     <item>
-      <title>Problems with Greenhouse Gas Life Cycle Analyses of U.S. LNG Exports and Locally-Produced Coal</title>
-      <link>https://doi.org/10.31223/x5c98z</link>
-      <description>Robert Kleinberg, EarthArXiv (California Digital Library). None(None)] 2024. https://openalex.org/W4393386223
-
-                Exports of liquefied natural gas (LNG) from the United States are growing rapidly, and the United States government must balance a multiplicity of interests in deciding to what extent the growth of LNG exports should be further encouraged. Its decisions must be consistent with the Natural Gas Act, which mandates that exports of natural gas be in the public interest. In the current administration, reduction of greenhouse gas emissions is an important component of the public interest determination. It has generally been regarded that the replacement of coal with natural gas, reducing the volume of power plant carbon dioxide emissions, satisfies this component of the public interest determination. However, a recent life cycle analysis has cast doubt on this conclusion. Here we compare two life cycle analyses that come to different conclusions as to the wisdom of coal-to-gas conversion of electric power industries. We identify the technical factors underlying the various results. Among other problems, both studies use a widely-accepted but defective and misleading methodology. Recommendations for improvements are provided.</description>
-      <author>Robert Kleinberg</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.31223/x5c98z</guid>
-    </item>
-    <item>
       <title>Fast recovery of North Atlantic sea level in response to atmospheric CO2 removal</title>
       <link>https://doi.org/10.21203/rs.3.rs-4161623/v1</link>
       <description>Ji&#8208;Hoon Oh, Sunhee Wang, Yechul Shin, Jong&#8208;Seong Kug, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393886914
@@ -1219,16 +1029,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3724680</guid>
     </item>
     <item>
-      <title>Synthetic Datasets for Multi-Basket Approach</title>
-      <link>https://doi.org/10.5281/zenodo.10558228</link>
-      <description>Julie M. Miller, G. Dreyfus, John Daniel, Yangyang Xu, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024. https://openalex.org/W4393807589
-
-                Synthetic Datasets Synthetic datasets created for "Beyond the single-basket mindset: demonstrating a multi-gas approach to better constrain overshoot magnitude in near term global warming". All datasets were uploaded as .ZIP files; each pathway is a separate .TXT file. 1) Synthetic full random JSD - contains 5000 emissions pathways and their temperature outputs for CO2 &amp; CH4. Data generated according to methods detailed in the article text. 2) AR6 CO2 CH4 AGTP output - contains the temperature outputs generated from the AR6 CO2 &amp; CH4 emissions pathways. Temperature data were generated using an AGTP, with methods detailed in the article text. 3) Abrupt Methane Cuts - contains 1000 emissions pathways and their temperature outputs for CO2 &amp; CH4, in which reduction of CH4 varies in speed and timing. Parameters for reduction are detailed in the article's Supplemental Materials.</description>
-      <author>Julie M. Miller, G. Dreyfus, John Daniel, Yangyang Xu</author>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10558228</guid>
-    </item>
-    <item>
       <title>The effect of renewable and nuclear energy consumption on decoupling economic growth from CO2 emissions in Spain</title>
       <link>https://doi.org/10.5281/zenodo.3724679</link>
       <description>Mariola Pi&#322;atowska, Andrzej Geise, Aneta W&#322;odarczyk, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393492058
@@ -1237,6 +1037,16 @@
       <author>Mariola Pi&#322;atowska, Andrzej Geise, Aneta W&#322;odarczyk</author>
       <pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3724679</guid>
+    </item>
+    <item>
+      <title>Synthetic Datasets for Multi-Basket Approach</title>
+      <link>https://doi.org/10.5281/zenodo.10558228</link>
+      <description>Julie M. Miller, G. Dreyfus, John Daniel, Yangyang Xu, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2024. https://openalex.org/W4393807589
+
+                Synthetic Datasets Synthetic datasets created for "Beyond the single-basket mindset: demonstrating a multi-gas approach to better constrain overshoot magnitude in near term global warming". All datasets were uploaded as .ZIP files; each pathway is a separate .TXT file. 1) Synthetic full random JSD - contains 5000 emissions pathways and their temperature outputs for CO2 &amp; CH4. Data generated according to methods detailed in the article text. 2) AR6 CO2 CH4 AGTP output - contains the temperature outputs generated from the AR6 CO2 &amp; CH4 emissions pathways. Temperature data were generated using an AGTP, with methods detailed in the article text. 3) Abrupt Methane Cuts - contains 1000 emissions pathways and their temperature outputs for CO2 &amp; CH4, in which reduction of CH4 varies in speed and timing. Parameters for reduction are detailed in the article's Supplemental Materials.</description>
+      <author>Julie M. Miller, G. Dreyfus, John Daniel, Yangyang Xu</author>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10558228</guid>
     </item>
     <item>
       <title>Synthetic Datasets for Multi-Basket Approach</title>
@@ -1401,7 +1211,7 @@
     <item>
       <title>A Highly Integrated Component with Tri&#8208;Part Significantly Enhances Fuel Cell Power Density by Reducing Mass Transfer Resistance and Excellent Humidity Tolerance</title>
       <link>https://doi.org/10.1002/adfm.202401261</link>
-      <description>Chang He, Qinglin Wen, Fandi Ning, Min Shen, He Li, Bin Tian, Wei Li, Leilei Xu, Yiyang Liu, Xiong Dan, Zhi Chai, Siyi Zou, Xiaochun Zhou, Advanced functional materials (Print). None(None)] 2024. https://openalex.org/W4393436307
+      <description>Chang He, Qinglin Wen, Fandi Ning, Min Shen, He Li, Bin Tian, Wei Li, Leilei Xu, Yiyang Liu, Xiong Dan, Zhi Chai, Siyi Zou, Xiaochun Zhou, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393436307
 
                 Abstract Traditional flow fields and gas diffusion layers (GDL) suffer from water flooding at the rib contact surface, resulting in mass transfer obstruction. Herein, an integrated component (i&#8208;component) with tri&#8208;part of the flow field, gas diffusion backing, and the microporous layer is prepared using the filter molding method to prevent flooding at the rib. The i&#8208;component with micro&#8208;tunnels is more compact than traditional fuel cells and has no distinct interface, significantly enhancing fuel cell performance, reducing mass transfer resistance, and improving water management. Remarkably, the mass transfer resistance of the i&#8208;components is reduced by six times, accompanied by a 50% increase in power density (1.63 W cm &#8722;2 ) and a 146% surge in volume&#8208;specific power (24 500 W L &#8722;1 ). Additionally, it exhibits excellent humidity tolerance in the relative humidity range of 30&#8211;100%. This method achieves large&#8208;area i&#8208;component (388 cm 2 ) preparation in 0.5 h at 350 &#176;C, which reduces time by dozens and energy consumption by over 100 times compared to the traditional method for preparing commercial GDL. The i&#8208;component significantly enhances the mass transfer and water management capabilities of fuel cells. Hence, the i&#8208;component provides new strategies for next&#8208;generation fuel cells, water electrolysis, flow battery, carbon dioxide reduction, etc.</description>
       <author>Chang He, Qinglin Wen, Fandi Ning, Min Shen, He Li, Bin Tian, Wei Li, Leilei Xu, Yiyang Liu, Xiong Dan, Zhi Chai, Siyi Zou, Xiaochun Zhou</author>
@@ -1489,16 +1299,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16072986</guid>
     </item>
     <item>
-      <title>Electrical Conductivity of Lithium, Sodium, Potassium, and Quaternary Ammonium Salts in Water, Acetonitrile, Methanol, and Ethanol over a Wide Concentration Range</title>
-      <link>https://doi.org/10.1021/acs.jced.3c00691</link>
-      <description>Marvin Dorn, Sabine Kareth, Eckhard Weidner, Marcus Petermann, Journal of chemical and engineering data. None(None)] 2024. https://openalex.org/W4393384094
-
-                CO2 can be electrochemically converted to commodity chemicals with the support of aqueous or organic electrolytes. However, aqueous electrolytes mainly lead to H2 production due to the low solubility of CO2 in water whereas organic electrolytes favor the formation of organic products. In addition to selectivity, fast CO2 conversion is also important, which is significantly influenced by the conductivity of the electrolyte. However, the most studied electrolytes are aqueous and at low salt concentrations. Therefore, in this work, the electrical conductivity of 164 electrolytes was investigated in a wide concentration range and a temperature range T = (288.15 to 333.15 K) using automated conductometry. After the measurements, the results were correlated using the Casteel&#8211;Amis equation. This choice was made because many factors affecting conductivity are well documented in the literature but not universally quantifiable for all electrolytes due to isolated consideration. The wide variety of different electrolytes investigated in this study highlights the importance of considering these factors holistically rather than in isolation. Nevertheless, NaI and KSCN in methanol and (C2H5)4NBF4 in acetonitrile were identified as the three organic electrolytes with the highest conductivity. These solutions have the potential to be used as electrolytes for CO2 reduction.</description>
-      <author>Marvin Dorn, Sabine Kareth, Eckhard Weidner, Marcus Petermann</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jced.3c00691</guid>
-    </item>
-    <item>
       <title>Air Quality-Related Equity Implications of U.S. Decarbonization Policy</title>
       <link>https://doi.org/10.5281/zenodo.8226507</link>
       <description>Paul Picciano, Minghao Qiu, Sebastian D. Eastham, Ming Yuan, John J. Reilly, Noelle E. Selin, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393761888
@@ -1547,16 +1347,6 @@
       <author>Shuyue Wen, Xiaomin Zhang, Youting Wu</author>
       <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/asia.202400234</guid>
-    </item>
-    <item>
-      <title>Enhancing d Electrons&#8217; Delocalization of the Single-Atom Ni&#8211;N&lt;sub&gt;4&lt;/sub&gt; Site to Boost Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO by Axial d&#8211;d Orbital Coupling</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00493</link>
-      <description>Xiaohang Wang, Zhongzheng Mao, Guanghua Wei, Lingli Liu, Hao Tang, Baolei Li, Ling Zhu, Simin Xu, Shaobin Tang, Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4393381512
-
-                Atomically dispersed nitrogen-coordinated transition metal (TM) anchored on graphene (TM&#8211;Nx&#8211;C) provides a promising potential for an electrochemical CO2 reduction reaction (CO2RR). However, it is still a challenge to precisely control the electronic structures of TM single-atom catalysts (SACs) for optimizing the catalytic performance. Using first-principles calculations, we propose a novel strategy to regulate the electronic structure of the Ni&#8211;N4&#8211;C site by vertically coupling the 3-fold N atom-coordinated TM atom on graphene (TM&#8211;N3&#8211;C) for promoting CO2 reduction to CO. In contrast to the traditional TM&#8211;N4&#8211;C substrate that is weakly coupled with the N&#8211;N4&#8211;C site, the raised TM atoms on the TM&#8211;N3&#8211;C substrate relative to the basal plane of graphene shorten the distance from TM to Ni atoms and strengthen d orbital hybridization between them, thus leading to more delocalized charge distribution of the Ni active site. As a result, the improved axial d&#8211;d orbital coupling largely enhances the adsorption of the key *COOH intermediate on Ni SACs and, more importantly, maintains the facile desorption of adsorbed *CO. In particular, these Ni&#8211;N4&#8211;C SACs with axial coupling of Tc&#8211; and Ru&#8211;N3&#8211;C substrates not only exhibit high catalytic activity toward CO production, with low limiting potentials of &#8722;0.68 and &#8722;0.61 V, respectively, but also effectively suppress the competing hydrogen evolution (HER).</description>
-      <author>Xiaohang Wang, Zhongzheng Mao, Guanghua Wei, Lingli Liu, Hao Tang, Baolei Li, Ling Zhu, Simin Xu, Shaobin Tang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00493</guid>
     </item>
     <item>
       <title>UVic-MOBI Last Glacial Maximum Marine Biogeochemistry Simulations</title>
@@ -1669,16 +1459,6 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1748-9326/ad3973</guid>
     </item>
     <item>
-      <title>The nexus between direct air capture technology and CO2 emissions in the transport sector</title>
-      <link>https://doi.org/10.1016/j.apenergy.2024.123112</link>
-      <description>Emre &#220;nal, Alexander Ryota Keeley, Nezir K&#246;se, Andrew Chapman, Shunsuke Managi, Applied energy. 363(None)] 2024. https://openalex.org/W4393396223
-
-                Deploying negative emission technologies has become crucial for limiting the global temperature rise to approximately 1.5 &#176;C above preindustrial levels. DAC technologies are being explored as one of the prospective options. These technologies have been thoroughly investigated as a potential project to capture CO2 emissions and provide purified air, natural gas, or fuel oil. An applied approach, on the other hand, was not taken into consideration while evaluating the influence that this technology has on emissions. For this reason, British Columbia provides a substantial chance to examine emissions that were produced after the DAC actions were put into place in 2015. In this study, the difference-in-differences methodology is employed for the very first time to compare the emissions that are produced by the transport sectors in British Columbia with those emitted by other provinces in Canada. The role that GDP and population play in the release of emissions is also taken into consideration in this paper. Based on the research results, it can be observed that the implementation of DAC initiatives has yielded notable effects. Evidence shows that the DAC effort has led to an average reduction of 0.08 in logarithmic CO2 emissions in the transport sector. By accounting for GDP and population, the empirical results indicate that DAC technology reduced CO2 emissions in British Columbia compared to provinces without DAC facilities. DAC initiatives are expected to become increasingly prevalent between the mid-2030s and 2040s. Overall policy implications suggest that there is a need for DAC technologies to collaborate with alternative mitigation technologies, or alternative technologies should collaborate with DAC technologies that are more efficient to achieve the targeted goals in a short time.</description>
-      <author>Emre &#220;nal, Alexander Ryota Keeley, Nezir K&#246;se, Andrew Chapman, Shunsuke Managi</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apenergy.2024.123112</guid>
-    </item>
-    <item>
       <title>Data from: Hurry Up and Wait: Managing the Inherent Mismatches in Timescales in  Natural and Artificial Photosynthetic Systems</title>
       <link>https://doi.org/10.5281/zenodo.7555775</link>
       <description>Frances A. Houle, Junko Yano, Joel W. Ager, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393695782
@@ -1699,16 +1479,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8041455</guid>
     </item>
     <item>
-      <title>Thermal Fracture Simulation in Depleted Gas Field Carbon Capture and Storage: Implications for Injectivity and Flow Assurance</title>
-      <link>https://doi.org/10.2118/215661-pa</link>
-      <description>J. Park, Cas Berentsen, C.J. de Pater, SPE journal (Society of Petroleum Engineers (U.S.). 1996). None(None)] 2024. https://openalex.org/W4393932846
-
-                Summary CO2 injection into depleted gas fields causes long-term cooling of the reservoir. Therefore, even if injection pressure stays below the fracture initiation pressure, the cooled volume still creates an extensive stress disturbance that can induce the propagation of large fractures over time. The enhanced injectivity after the onset of this thermal fracturing might jeopardize injection operations due to the risk of hydrate plugging in the injection well caused by the combination of low pressure and low temperature, and large fractures may also increase the risk of loss of containment. Modeling the fracture evolution provides an estimate of the magnitude and timing of these effects. In this study, commercial compositional reservoir simulation software capable of modeling the physical phenomena associated with CO2 injection into depleted natural gas reservoirs has been used. These encompass CO2 mixing with natural gas, water vaporization, thermal effects, and geomechanics. The finite-element geomechanics module used &#8220;two-way&#8221; coupling, which computes pressure and temperature in the flow simulation module, transmits this information to the geomechanics module to update stress and strain parameters, and uses these parameters to adjust porosity and permeability, thereby enhancing the accuracy and reliability of the overall simulation results. The thermal fracture opening is simulated as increased permeability in the fracture domain by using a fracturing criterion based on the effective stress. The fracture simulations were developed in close relation with flow assurance modeling to determine the operational windows that avoid hydrate formation while maintaining the required injection target. Unlike matrix injection, thermal fracturing shows a substantial reduction in injection bottomhole pressure (BHP), reaching 26 000 kPa (260 bar) in a specific scenario. These findings underscore the crucial consideration of cooling effects and thermal fracturing in carbon capture and storage (CCS) operations, particularly in flow assurance studies where well injectivity significantly influences overall outcomes. Due to the intense cooling-induced stress reduction, thermal fractures may propagate uncontrollably, potentially reaching faults within the reservoir. Temperature distributions along boundary faults may differ markedly from matrix flow conditions, highlighting the need to incorporate these effects into geomechanical studies to mitigate risks associated with fault stability during cooling processes.</description>
-      <author>J. Park, Cas Berentsen, C.J. de Pater</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2118/215661-pa</guid>
-    </item>
-    <item>
       <title>IPBES Invasive Alien Species Assessment, list of literature for Chapter 3</title>
       <link>https://doi.org/10.5281/zenodo.5529309</link>
       <description>Philip E. Hulme, Tsutomu Ikeda, Vigdis Vandvik, Ryan Blanchard, Morelia Camacho&#8208;Cervantes, Ileana Herrera, Asuka Koyama, Carolina Morales, Linus K. Munishi, P. K. T. Nirmalie S. Pallewatta, Aveliina Helm, Jan Pergl, Anthony Ricciardi, Rafael O. Xavier, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393535648
@@ -1719,12 +1489,22 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5529309</guid>
     </item>
     <item>
+      <title>Thermal Fracture Simulation in Depleted Gas Field Carbon Capture and Storage: Implications for Injectivity and Flow Assurance</title>
+      <link>https://doi.org/10.2118/215661-pa</link>
+      <description>J. Park, Cas Berentsen, C.J. de Pater, SPE journal (Society of Petroleum Engineers (U.S.). 1996). None(None)] 2024. https://openalex.org/W4393932846
+
+                Summary CO2 injection into depleted gas fields causes long-term cooling of the reservoir. Therefore, even if injection pressure stays below the fracture initiation pressure, the cooled volume still creates an extensive stress disturbance that can induce the propagation of large fractures over time. The enhanced injectivity after the onset of this thermal fracturing might jeopardize injection operations due to the risk of hydrate plugging in the injection well caused by the combination of low pressure and low temperature, and large fractures may also increase the risk of loss of containment. Modeling the fracture evolution provides an estimate of the magnitude and timing of these effects. In this study, commercial compositional reservoir simulation software capable of modeling the physical phenomena associated with CO2 injection into depleted natural gas reservoirs has been used. These encompass CO2 mixing with natural gas, water vaporization, thermal effects, and geomechanics. The finite-element geomechanics module used &#8220;two-way&#8221; coupling, which computes pressure and temperature in the flow simulation module, transmits this information to the geomechanics module to update stress and strain parameters, and uses these parameters to adjust porosity and permeability, thereby enhancing the accuracy and reliability of the overall simulation results. The thermal fracture opening is simulated as increased permeability in the fracture domain by using a fracturing criterion based on the effective stress. The fracture simulations were developed in close relation with flow assurance modeling to determine the operational windows that avoid hydrate formation while maintaining the required injection target. Unlike matrix injection, thermal fracturing shows a substantial reduction in injection bottomhole pressure (BHP), reaching 26 000 kPa (260 bar) in a specific scenario. These findings underscore the crucial consideration of cooling effects and thermal fracturing in carbon capture and storage (CCS) operations, particularly in flow assurance studies where well injectivity significantly influences overall outcomes. Due to the intense cooling-induced stress reduction, thermal fractures may propagate uncontrollably, potentially reaching faults within the reservoir. Temperature distributions along boundary faults may differ markedly from matrix flow conditions, highlighting the need to incorporate these effects into geomechanical studies to mitigate risks associated with fault stability during cooling processes.</description>
+      <author>J. Park, Cas Berentsen, C.J. de Pater</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2118/215661-pa</guid>
+    </item>
+    <item>
       <title>Chasing Optimization on Multimodal Transportation System: A Strategic Approach to Minimizing Costs and CO2 Emissions</title>
       <link>https://doi.org/10.20944/preprints202404.0036.v1</link>
-      <description>Iv&#225;n D&#233;rpich, Claudia Dur&#225;n, Ra&#250;l Carrasco, Fabricio Moreno, Christian Fern&#225;ndez&#8208;Campusano, Leonardo Espinosa-Leal, No host. None(None)] 2024. https://openalex.org/W4393867544
+      <description>Iv&#225;n D&#233;rpich, Claudia D&#250;ran, Ra&#250;l Carrasco, Fabricio Moreno, Christian Fern&#225;ndez&#8208;Campusano, Leonardo Espinosa-Leal, No host. None(None)] 2024. https://openalex.org/W4393867544
 
                 This study aims to enhance multimodal transportation systems by mitigating CO2 emissions and enhancing operational efficiency. It introduces a novel centralized cargo concentration approach tailored for regions facing geographical challenges. The method proposes for direct transportation of cargo from its loading origin to export ports, bypassing intermediate hubs. The mathematical model determines the most efficient means of transport for each route, factoring in variables like distance, volume, and cargo type. Research results indicate that, in scenarios with a high concentration of cargo, multiple hubs may not be necessary, which could streamline transportation and logistics operations. Modal preferences vary based on regional dynamics and cargo characteristics, with rail and sea transport emerging as preferable options under specific circumstances, surpassing the efficacy of road transport. The proposed model showcases reductions in both logistics costs and CO2 emissions compared to road-centric scenarios. It underscores the strategic integration of diverse transportation modes as pivotal for enhancing efficiency and sustainability. This study furnishes a framework adaptable to optimizing multimodal transportation systems in regions sharing similar geographical and logistical attributes.</description>
-      <author>Iv&#225;n D&#233;rpich, Claudia Dur&#225;n, Ra&#250;l Carrasco, Fabricio Moreno, Christian Fern&#225;ndez&#8208;Campusano, Leonardo Espinosa-Leal</author>
+      <author>Iv&#225;n D&#233;rpich, Claudia D&#250;ran, Ra&#250;l Carrasco, Fabricio Moreno, Christian Fern&#225;ndez&#8208;Campusano, Leonardo Espinosa-Leal</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.20944/preprints202404.0036.v1</guid>
     </item>
@@ -1979,16 +1759,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8089638</guid>
     </item>
     <item>
-      <title>Study on Reducing Water Absorption of Recycled Aggregates (RAs) by Microbial Mineralization</title>
-      <link>https://doi.org/10.3390/ma17071612</link>
-      <description>Minglei Li, Haihe Yi, Yilin Su, Materials (Basel). 17(7)] 2024. https://openalex.org/W4393387549
-
-                Crushing waste concrete and using it directly as RAs has the disadvantages of high porosity and high water absorption. To achieve the reuse of resources, the researchers use microbial mineralization methods to further reinforce RAs. In this paper, the effect of the microbial carbonic anhydrase mineralization method on the water absorption of RAs was investigated, and the macroscopic analysis was performed by determining the indexes of water absorption and apparent density of RAs before and after the modification, and the microscopic analysis of RAs by using the methods of SEM, XRD, DSC, and EDS as well. According to the microscopic analysis, the mineralization products of microorganisms are calcium carbonate crystals, and with the increase in microbial liquid concentration, the water absorption rate of RAs shows a trend of decreasing and then increasing, and it can be found through the microscopic morphology that abundant mineralization products attached to the surface of the aggregate lead to the surface of the aggregate becoming rougher and more porous. The method of soaking the RAs in 3% bacterial solution and 0.1 mol/L calcium acetate solution followed by carbonation with 20% CO2 resulted in a 4.85% reduction in water absorption.</description>
-      <author>Minglei Li, Haihe Yi, Yilin Su</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17071612</guid>
-    </item>
-    <item>
       <title>Asymmetric coordination engineering of active centers in MXene-based single atom catalysts for high-performance ECO2RR</title>
       <link>https://doi.org/10.1016/j.carbon.2024.119094</link>
       <description>Shoufu Cao, Hongyu Chen, Xiaofei Wei, Jiao Li, Chunyu Yang, Zengxuan Chen, Shuxian Wei, Siyuan Liu, Zhaojie Wang, Xiaoqing Lu, Carbon. None(None)] 2024. https://openalex.org/W4393898802
@@ -2017,6 +1787,16 @@
       <author>Somerville Livia, Matthias Stucki, Regula Keller</author>
       <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5769210</guid>
+    </item>
+    <item>
+      <title>Assessing the Effects of the SARS-CoV-2 Pandemic on the Environmental Footprint of a Swiss University of Applied Sciences</title>
+      <link>https://doi.org/10.5281/zenodo.5769211</link>
+      <description>Somerville Livia, Matthias Stucki, Regula Keller, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4393736244
+
+                Using Life Cycle Assessment (LCA) methodology, this study analysed the university's direct and indirect emissions during a regular year of operation (2019) and compared them with those generated during the lockdown periods in 2020. For the activity areas mobility, energy, waste, IT &amp; paper, gastronomy, and water, specific, primary bottom-up inventory data was gathered before and during the pandemic. The data was assessed with 15 environmental impact assessment methods of the environmental footprint framework. The purpose of this study is to evaluate the environmental footprint of a University of Applied Sciences in 2019 and 2020, including the effects of the lockdown periods. The study identifies the main sources of emissions and assesses the pandemic-related effects. The results of a regular year of operation (2019) depict that student and employee commuting, and business travel contributed with 86% largely to the total global warming potential of 2&#8217;572 t CO2-eq. The pandemic-induced changes in commuting and business travel resulted in a 60% reduction leading to a drop to 1&#8217;075 t CO2-eq (2020). In contrast, the environmental footprint due to energy consumption remained almost on the same level, irrespective of the absences on-site in 2020. This study has the potential to shape post-pandemic environmental efforts in Higher Education Institutions and contribute to a much-needed baseline against which mitigation efforts can be compared to. Unlike other studies, this study goes beyond the carbon footprint and expands the discussion to additional environmental and human health impact categories by applying the environmental footprint framework.</description>
+      <author>Somerville Livia, Matthias Stucki, Regula Keller</author>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.5769211</guid>
     </item>
     <item>
       <title>Sperm Incubation in Bww Medium Induces Capacitation- Related Changes in the Lizard &amp;lt;em&amp;gt;Sceloporus torquatus&amp;lt;/em&amp;gt;</title>
@@ -2059,16 +1839,6 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.8355061</guid>
     </item>
     <item>
-      <title>Competitive adsorption of CO2, N2, and CH4 in coal-derived asphaltenes, a computational study</title>
-      <link>https://doi.org/10.1038/s41598-024-58347-6</link>
-      <description>Farshad Mirzaee Valadi, Mohammad Pasandideh-Nadamani, Reza Rezaee, Abdolhalim Torrik, Maryam Mirzaie, Ayoob Torkian, Scientific reports (Nature Publishing Group). 14(1)] 2024. https://openalex.org/W4393378398
-
-                Abstract Greenhouse gases are major contributors to global warming, and their concentration is increasing due to the widespread use of fossil fuels. Coal bed methane (CBM) offers a potential solution to this issue. However, the gas adsorption mechanisms of CBM, particularly in the context of coal-derived asphaltenes, are not fully understood. This study provides a comprehensive theoretical investigation of the competitive adsorption of carbon dioxide (CO $$_2$$    2   ), methane (CH $$_4$$    4   ), and nitrogen (N $$_2$$    2   ) in the processes of CO $$_2$$    2   - and N $$_2$$    2   -enhanced coalbed methane recovery, with a focus on coal-derived asphaltenes functionalized with CH $$_4$$    4   , NH, O, and S groups. Using the Grand Canonical Monte Carlo (GCMC) simulation method and performing Molecular Dynamics (MD) simulations, we studied the adsorption process. To investigate the electronic effects and nature of the interactions, we performed density functional theory (DFT) calculations. The adsorption energy values and non-covalent interactions (NCI) for the adsorption of gases signify the physical adsorption (van der Waals interaction), with CO $$_2$$    2   exhibiting the highest (absolute) adsorption energy. The Monte Carlo results indicated that elevated temperatures led to a reduction in adsorption capacity. Coal-derived asphaltenes demonstrated greater selectivity for CO $$_2$$    2   compared to CH $$_4$$    4   and N $$_2$$    2   in competitive adsorption, especially at elevated temperatures. Our findings highlight the significant potential of our asphaltene model, not only in mitigating CO $$_2$$    2   greenhouse gas emissions but also in recovering CH $$_4$$    4   , which is a valuable resource.</description>
-      <author>Farshad Mirzaee Valadi, Mohammad Pasandideh-Nadamani, Reza Rezaee, Abdolhalim Torrik, Maryam Mirzaie, Ayoob Torkian</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-58347-6</guid>
-    </item>
-    <item>
       <title>Utilization of silica fume for the production of self compacting GGBS based geopolymer concrete</title>
       <link>https://doi.org/10.1063/5.0196041</link>
       <description>K. Arunkumar, A. Suresh Kumar, Meena Murali, B. Gowtham Lohith, B. Jyothi, Y. Veera Manohara Reddy, AIP Conference Proceedings. None(None)] 2024. https://openalex.org/W4393636100
@@ -2077,16 +1847,6 @@
       <author>K. Arunkumar, A. Suresh Kumar, Meena Murali, B. Gowtham Lohith, B. Jyothi, Y. Veera Manohara Reddy</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0196041</guid>
-    </item>
-    <item>
-      <title>Study on the Impact of Population and Economic Activities on Environmental Indicators through Pca</title>
-      <link>https://doi.org/10.62051/9hdkpg63</link>
-      <description>Junchao Zhang, Jun Yan, Xia Li, Transactions on economics, business and management research. 5(None)] 2024. https://openalex.org/W4393392177
-
-                Principal Component Analysis (PCA) is applied in environmental policy planning to effectively identify and assess key factors affecting carbon peaking and emissions reduction. By analysing multidimensional data covering GDP, population, average temperature, oil consumption and price, and CO2 emissions, PCA reveals complex correlations of environmental challenges. Preliminary regression analyses expose complex relationships between variables, with a particular focus on anomalous oil consumption data for 2020, emphasising the importance of precise analytical methods.The PCA highlights the significant impacts of economic activity, population and oil-related factors on environmental indicators by simplifying the high-dimensional data, retaining the key information, and extracting the principal components with the highest variance.The KMO and Bartlett test confirms the applicability of PCA, with variance interpretation and dendrograms guiding principal component selection to ensure adequate retention of data information. This approach enabled precise identification of factors affecting environmental indicators, construction of a weighted composite model to quantitatively analyse environmental impacts on a yearly basis, and strengthened the understanding of the overall role of population and economic activities on the environment. Overall, the application of PCA highlights its key role in refining complex environmental data, clarifying the drivers of carbon emissions and energy consumption, and in the development of targeted environmental policies, enriching the environmental planning toolkit and demonstrating the contribution of statistical techniques to environmental governance.</description>
-      <author>Junchao Zhang, Jun Yan, Xia Li</author>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.62051/9hdkpg63</guid>
     </item>
     <item>
       <title>Cobalt/Iron Bimetallic Biochar Composites for Lead(II) Adsorption: Mechanism and Remediation Performance</title>
@@ -2160,16 +1920,6 @@
     </item>
     <item>
       <title>Global gridded anthropogenic emissions of air pollutants and methane for the period 1990-2050</title>
-      <link>https://doi.org/10.5281/zenodo.10366131</link>
-      <description>Zbigniew Klimont, C. Heyes, Peter Rafaj, L. H&#246;glund-Isaksson, Pallav Purohit, Katrin Kaltenegger, Adriana G&#243;mez-Sanabria, Youn H. Kim, Wilfried Winiwarter, Laura Warnecke, W. Schoepp, Florian Lindl, Gregor Kiesewetter, Robert Sander, Thanh Binh Nguyen, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393746186
-
-                The global anthropogenic emissions of air pollutants including sulfur dioxide (SO2), nitrogen oxides (NOx), ammonia (NH3), particulate matter (distinguishing PM2.5, PM10, BC, OC, OM), non-methane volatile organic compounds (VOC), carbon monoxide (CO), and methane (CH4) were developed at CIAM/IIASA[2]. These emission datasets have been produced with the GAINS model[1] (Amann et al., 2011) within work under UNECE Convention on Long-Range Transboundary Air Pollution (LRTAP) and cover the 1990-2050 period. The respective emission datasets consist of 5-yearly global annual and monthly emissions and include two to three scenarios, depending on the version of the dataset: a baseline that is referred to as current legislation case (LRTAP Baseline), a scenarios exploring technical mitigation potential for all pollutant species (LRTAP MTFR), and a scenario that combines climate policy, behavioral changes, and strong technical mitigation of all pollutants (LRTAP LOW) Brief explanation of assumptions used in these three scenarios. The current legislation scenario (LRTAP Baseline) assumes implementation and effective enforcement of all committed energy and environmental policies affecting emissions of air pollutants and greenhouse gases. CIAM has undertaken a review and update of historical data (up to 2020) driving emissions of all species in the GAINS model, drawing on the statistical information from EUROSTAT, International Energy Agency (IEA), UN Food and Agriculture Organization (FAO), as well as reporting of data and emissions to the Center on Emission Inventories and Projections[3]. For the EU27, the energy and agriculture projections are consistent with the objectives of the European Green Deal and Fit for 55 package making EU carbon neutral by 2050; these are consistent with the projections used in the EU third Clean Air Outlook [4]. For West Balkan, Republic of Moldova, Georgia, and Ukraine, a similar set of modelling tools was used as for the EU developing a new consistent set of projections. For the rest of the world, GAINS model downscales projections from IEA and FAO (Alexandratos and Bruinsma, 2012; IEA, 2018) and updating the air pollution legislation from national and international sources (e.g., DieselNet, n.d.; He et al., 2021; Zhang, 2016; Zheng et al., 2018; Klimont et al., 2017; Rao et al., 2017). Note that the baseline used in this work does not include any recent shock events, i.e., these scenarios were developed before the Ukraine war The maximum technically feasible reduction (LRTAP MTFR) scenario uses the same activity data (energy scenario, agriculture scenario) as the CLE case and explores the potential for further emission mitigation applying technical measures which are characterized with lowest emission factors (as defined in the GAINS model databases), attainable with reduction technologies for which experience exists (Amann et al., 2013). These include highly efficient end of pipe technologies in industry (filters, scrubbers, primary measures), transport sector, residential combustion (clean burning stoves, pellet stoves and boilers), measures in agriculture including: new low emission houses (including cleaning of ventilation air where applicable), covered storage of manures, immediate or efficient application of manures on land, urea use with inhibitors. For the solvent use sector and fossil fuel production and distribution, control of leaks, improved maintenance, incineration as well as substitution or low solvent products are applied. The mitigation scenario (LRTAP LOW) includes several additional policies and assumes implementation of further emission reduction options, exploiting the proven technical mitigation potential as embedded in the GAINS model for air pollutants (Amann et al., 2020, 2013; Rafaj et al., 2018) and methane (Gomez Sanabria et al., 2022; H&#246;glund-Isaksson, 2012; H&#246;glund-Isaksson et al., 2020). While for the EU27 the LOW scenario has the same energy projections as for the CLE (the Green Deal), the rest of the world includes climate policies compatible with Paris Agreement goals and addressing several SDGs, e.g., access to clean energy for cooking and heating. Furthermore, additional assumptions about significant transformation in the agricultural sector leading to strong reduction of livestock numbers, especially cattle and pigs; this brings significant additional reductions of methane. The latter is based on the scenarios from the 'Growing Better report 2019' [5] (The Food and Land Use Coalition, 2019) and other studies considering ambitious improvements in nitrogen use efficiency and addressing healthy dietary requirements (Kanter et al., 2020; The EAT-Lancet Commission, 2019) as used earlier in scenarios for the global air pollution study (Amann et al., 2020). Format of the datasets: The datasets include gridded sectoral emissions provided as netcdf files with monthly resolution for the period 1990-2050 for the Baeline scenario and 2025-2050 for the MTFR and the LOW scenarios. Emissions include international shipping but not international aviation. Open burning of biomass includes only emissions from open burning of agricultural residues but not forest, peat or savannah fires. The sectors for which gridded data are provided (might vary by pollutant, i.e. some layers will be missing) include: Energy sector Residential combustion (cooking and heating) Transportation Industry (combustion and processes) Solvent use Waste management Agriculture (livestock and fertilizer application) Open burning of agricultural residues International shipping Acknowledgments: The development of the emission scenarios and respective spatially explict allocation of emissions has been supported by: UNECE Convention on Long-range Transboundary Air Pollution funding towards the EMEP Center for Integrated Asessment Modelling (CIAM) hosted at IIASA FORCeS (Constrained aerosol forcing for improved climate projections) project funded from the European Union&#8217;s Horizon 2020 research and innovation programme under grant agreement No 821205 (https://forces-project.eu/) [1] https://gains.iiasa.ac.at/models/gains_models4.html [2] Center for Integrated Assessment Modelling (CIAM) hosted by the International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria (https://iiasa.ac.at/policy/applications/centre-for-integrated-assessment-modelling-ciam) [3] www.ceip.at [4] https://environment.ec.europa.eu/topics/air/clean-air-outlook_en [5] https://www.foodandlandusecoalition.org/global-report/ References: Alexandratos, N., Bruinsma, J., 2012. World agriculture towards 2030/2050: the 2012 revision. ESA Working paper Rome, FAO. Amann, M., Bertok, I., Borken-Kleefeld, J., Cofala, J., Heyes, C., H&#246;glund-Isaksson, L., Klimont, Z., Nguyen, B., Posch, M., Rafaj, P., Sandler, R., Sch&#246;pp, W., Wagner, F., Winiwarter, W., 2011. Cost-effective control of air quality and greenhouse gases in Europe: Modeling and policy applications. Environ. Model. Softw. 26, 1489&#8211;1501. https://doi.org/10.1016/j.envsoft.2011.07.012 Amann, M., Kiesewetter, G., Sch&#246;pp, W., Klimont, Z., Winiwarter, W., Cofala, J., Rafaj, P., H&#246;glund-Isaksson, L., Gomez-Sabriana, A., Heyes, C., Purohit, P., Borken-Kleefeld, J., Wagner, F., Sander, R., Fagerli, H., Nyiri, A., Cozzi, L., Pavarini, C., 2020. Reducing global air pollution: the scope for further policy interventions. Philos. Trans. R. Soc. Math. Phys. Eng. Sci. 378, 20190331. https://doi.org/10.1098/rsta.2019.0331 Amann, M., Klimont, Z., Wagner, F., 2013. Regional and Global Emissions of Air Pollutants: Recent Trends and Future Scenarios. Annu. Rev. Environ. Resour. 38, 31&#8211;55. https://doi.org/10.1146/annurev-environ-052912-173303 DieselNet, n.d. DieselNet: Diesel Exhaust Emission Standards [WWW Document]. URL http://www.dieselnet.com/standards/ (accessed 3.15.14). G&#243;mez-Sanabria, A., Kiesewetter, G., Klimont, Z. et al. Potential for future reductions of global GHG and air pollutants from circular waste management systems. Nat Commun 13, 106 (2022). https://doi.org/10.1038/s41467-021-27624-7 He, X., Shen, W., Wallington, T.J., Zhang, S., Wu, X., Bao, Z., Wu, Y., 2021. Asia Pacific road transportation emissions, 1900&#8211;2050. Faraday Discuss. 226. H&#246;glund-Isaksson, L.: Global anthropogenic methane emissions 2005&#8211;2030: technical mitigation potentials and costs, Atmos. Chem. Phys., 12, 9079&#8211;9096, https://doi.org/10.5194/acp-12-9079-2012, 2012. H&#246;glund-Isaksson, L., G&#243;mez-Sanabria, A., Klimont, Z., Rafaj, P., Sch&#246;pp, W., 2020. Technical potentials and costs for reducing global anthropogenic methane emissions in the 2050 timeframe &#8211;results from the GAINS model. Environ. Res. Commun. 2, 025004. https://doi.org/10.1088/2515-7620/ab7457 IEA, 2018. World Energy Outlook 2018. International Energy Agency (IEA), Paris, France. Kanter, D., Winiwarter, W., Bodirsky, B., Bouwman, L., Boyer, K., 2020. Nitrogen futures in the shared socioeconomic pathways. Glob. Environ. Change 13 2003 277&#8211;29361. https://doi.org/DOI:10.1016/j.gloenvcha.2019.102029. Klimont, Z., Kupiainen, K., Heyes, C., Purohit, P., Cofala, J., Rafaj, P., Borken-Kleefeld, J., and Sch&#246;pp, W.: Global anthropogenic emissions of particulate matter including black carbon, Atmos. Chem. Phys., 17, 8681&#8211;8723, https://doi.org/10.5194/acp-17-8681-2017, 2017 Rafaj, P., Kiesewetter, G., G&#252;l, T., Sch&#246;pp, W., Cofala, J., Klimont, Z., Purohit, P., Heyes, C., Amann, M., Borken-Kleefeld, J., Cozzi, L., 2018. Outlook for clean air in the context of sustainable development goals. Glob. Environ. Change 53, 1&#8211;11. https://doi.org/10.1016/j.gloenvcha.2018.08.008 Rao S, Klimont Z, Smith SJ, Van Dingenen R, Dentener F, Bouwman L, Riahi K, Amann M, et al. (2017) Future air pollution in the Shared Socio-economic Pathways. Global Environmental Change 42: 346-358. DOI:10.1016/j.gloenvcha.2016.05.012. The EAT-Lancet Commission, 2019. Healthy Diets From Sustainable Food Systems. London, UK. The Food and Land Use Coalition, 2019. Growing Better: Ten Critical Transitions to Transform Food and Land Use. Zhang, X., 2016. Emission standards and control of PM2.5 from coal power plant (No. CCC/267). IEA Clean Coal Centre, London. Zheng, B., Tong, D., Li, M., Liu, F., Hong, C., Geng, G., Li, H., Li, X., Peng, L., Qi, J., Yan, L., Zhang, Y., Zhao, H., Zheng, Y., He, K., Zhang, Q., 2018. Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions. Atmospheric Chem. Phys. 18, 14095&#8211;14111. https://doi.org/10.5194/acp-2018-374</description>
-      <author>Zbigniew Klimont, C. Heyes, Peter Rafaj, L. H&#246;glund-Isaksson, Pallav Purohit, Katrin Kaltenegger, Adriana G&#243;mez-Sanabria, Youn H. Kim, Wilfried Winiwarter, Laura Warnecke, W. Schoepp, Florian Lindl, Gregor Kiesewetter, Robert Sander, Thanh Binh Nguyen</author>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10366131</guid>
-    </item>
-    <item>
-      <title>Global gridded anthropogenic emissions of air pollutants and methane for the period 1990-2050</title>
       <link>https://doi.org/10.5281/zenodo.10366132</link>
       <description>Zbigniew Klimont, C. Heyes, Peter Rafaj, L. H&#246;glund-Isaksson, Pallav Purohit, Katrin Kaltenegger, Adriana G&#243;mez-Sanabria, Youn H. Kim, Wilfried Winiwarter, Laura Warnecke, W. Schoepp, Florian Lindl, Gregor Kiesewetter, Robert Sander, Thanh Binh Nguyen, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393719642
 
@@ -2179,14 +1929,14 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10366132</guid>
     </item>
     <item>
-      <title>BIM-Based Assessment of the Environmental Effects of Various End-of-Life Scenarios for Buildings</title>
-      <link>https://doi.org/10.3390/su16072980</link>
-      <description>Shuqiang Wang, Qing Wu, Jingjie Yu, Sustainability (Basel). 16(7)] 2024. https://openalex.org/W4393871080
+      <title>Global gridded anthropogenic emissions of air pollutants and methane for the period 1990-2050</title>
+      <link>https://doi.org/10.5281/zenodo.10366131</link>
+      <description>Zbigniew Klimont, C. Heyes, Peter Rafaj, L. H&#246;glund-Isaksson, Pallav Purohit, Katrin Kaltenegger, Adriana G&#243;mez-Sanabria, Youn H. Kim, Wilfried Winiwarter, Laura Warnecke, W. Schoepp, Florian Lindl, Gregor Kiesewetter, Robert Sander, Thanh Binh Nguyen, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393746186
 
-                Accurately and rationally quantifying the environmental impact of construction and demolition waste (CDW) management is paramount, especially the environmental impact of different waste disposals, and more effective policies should be implemented to manage CDW. However, previous research on CDW disposal has typically ignored the potential for energy recovery and focused on a single environmental impact category. Therefore, this study aims to develop a conceptual framework to assess the environmental impacts under different CDW management scenarios (including reuse, recycling, energy recovery, and landfill), quantifying the global warming potential and resource consumption impacts under different scenarios. This framework incorporates Building Information Modeling to accurately collect data for feedback to the Life Cycle Assessment. The results indicate that Scenario 3, which considers the circular economy strategy, efficiently reuses metals, plastics, glass, and wood, generates recycled aggregate from concrete and cement, recycles bricks and tiles, and uses the remaining waste for energy recovery. This CDW management scenario, which prioritizes reuse and recycling, is the most effective in mitigating carbon emissions, resulting in a reduction of 6.641 &#215; 105 kg CO2 eq. Moreover, it significantly conserves resources and prevents the energy consumption of 4.601 &#215; 107 MJ. Among them, metal reuse saves 42.35% of resources, and plastic reuse saves 31.19% of resources. In addition, increasing the reuse rate and recovery rate can directly avoid carbon emissions and cumulative exergy consumption, effectively alleviating environmental issues. This study can provide new ideas for the treatment of CDW, which can provide a basis for the relevant government departments to formulate CDW management policies.</description>
-      <author>Shuqiang Wang, Qing Wu, Jingjie Yu</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16072980</guid>
+                The global anthropogenic emissions of air pollutants including sulfur dioxide (SO2), nitrogen oxides (NOx), ammonia (NH3), particulate matter (distinguishing PM2.5, PM10, BC, OC, OM), non-methane volatile organic compounds (VOC), carbon monoxide (CO), and methane (CH4) were developed at CIAM/IIASA[2]. These emission datasets have been produced with the GAINS model[1] (Amann et al., 2011) within work under UNECE Convention on Long-Range Transboundary Air Pollution (LRTAP) and cover the 1990-2050 period. The respective emission datasets consist of 5-yearly global annual and monthly emissions and include two to three scenarios, depending on the version of the dataset: a baseline that is referred to as current legislation case (LRTAP Baseline), a scenarios exploring technical mitigation potential for all pollutant species (LRTAP MTFR), and a scenario that combines climate policy, behavioral changes, and strong technical mitigation of all pollutants (LRTAP LOW) Brief explanation of assumptions used in these three scenarios. The current legislation scenario (LRTAP Baseline) assumes implementation and effective enforcement of all committed energy and environmental policies affecting emissions of air pollutants and greenhouse gases. CIAM has undertaken a review and update of historical data (up to 2020) driving emissions of all species in the GAINS model, drawing on the statistical information from EUROSTAT, International Energy Agency (IEA), UN Food and Agriculture Organization (FAO), as well as reporting of data and emissions to the Center on Emission Inventories and Projections[3]. For the EU27, the energy and agriculture projections are consistent with the objectives of the European Green Deal and Fit for 55 package making EU carbon neutral by 2050; these are consistent with the projections used in the EU third Clean Air Outlook [4]. For West Balkan, Republic of Moldova, Georgia, and Ukraine, a similar set of modelling tools was used as for the EU developing a new consistent set of projections. For the rest of the world, GAINS model downscales projections from IEA and FAO (Alexandratos and Bruinsma, 2012; IEA, 2018) and updating the air pollution legislation from national and international sources (e.g., DieselNet, n.d.; He et al., 2021; Zhang, 2016; Zheng et al., 2018; Klimont et al., 2017; Rao et al., 2017). Note that the baseline used in this work does not include any recent shock events, i.e., these scenarios were developed before the Ukraine war The maximum technically feasible reduction (LRTAP MTFR) scenario uses the same activity data (energy scenario, agriculture scenario) as the CLE case and explores the potential for further emission mitigation applying technical measures which are characterized with lowest emission factors (as defined in the GAINS model databases), attainable with reduction technologies for which experience exists (Amann et al., 2013). These include highly efficient end of pipe technologies in industry (filters, scrubbers, primary measures), transport sector, residential combustion (clean burning stoves, pellet stoves and boilers), measures in agriculture including: new low emission houses (including cleaning of ventilation air where applicable), covered storage of manures, immediate or efficient application of manures on land, urea use with inhibitors. For the solvent use sector and fossil fuel production and distribution, control of leaks, improved maintenance, incineration as well as substitution or low solvent products are applied. The mitigation scenario (LRTAP LOW) includes several additional policies and assumes implementation of further emission reduction options, exploiting the proven technical mitigation potential as embedded in the GAINS model for air pollutants (Amann et al., 2020, 2013; Rafaj et al., 2018) and methane (Gomez Sanabria et al., 2022; H&#246;glund-Isaksson, 2012; H&#246;glund-Isaksson et al., 2020). While for the EU27 the LOW scenario has the same energy projections as for the CLE (the Green Deal), the rest of the world includes climate policies compatible with Paris Agreement goals and addressing several SDGs, e.g., access to clean energy for cooking and heating. Furthermore, additional assumptions about significant transformation in the agricultural sector leading to strong reduction of livestock numbers, especially cattle and pigs; this brings significant additional reductions of methane. The latter is based on the scenarios from the 'Growing Better report 2019' [5] (The Food and Land Use Coalition, 2019) and other studies considering ambitious improvements in nitrogen use efficiency and addressing healthy dietary requirements (Kanter et al., 2020; The EAT-Lancet Commission, 2019) as used earlier in scenarios for the global air pollution study (Amann et al., 2020). Format of the datasets: The datasets include gridded sectoral emissions provided as netcdf files with monthly resolution for the period 1990-2050 for the Baeline scenario and 2025-2050 for the MTFR and the LOW scenarios. Emissions include international shipping but not international aviation. Open burning of biomass includes only emissions from open burning of agricultural residues but not forest, peat or savannah fires. The sectors for which gridded data are provided (might vary by pollutant, i.e. some layers will be missing) include: Energy sector Residential combustion (cooking and heating) Transportation Industry (combustion and processes) Solvent use Waste management Agriculture (livestock and fertilizer application) Open burning of agricultural residues International shipping Acknowledgments: The development of the emission scenarios and respective spatially explict allocation of emissions has been supported by: UNECE Convention on Long-range Transboundary Air Pollution funding towards the EMEP Center for Integrated Asessment Modelling (CIAM) hosted at IIASA FORCeS (Constrained aerosol forcing for improved climate projections) project funded from the European Union&#8217;s Horizon 2020 research and innovation programme under grant agreement No 821205 (https://forces-project.eu/) [1] https://gains.iiasa.ac.at/models/gains_models4.html [2] Center for Integrated Assessment Modelling (CIAM) hosted by the International Institute for Applied Systems Analysis (IIASA), Laxenburg, Austria (https://iiasa.ac.at/policy/applications/centre-for-integrated-assessment-modelling-ciam) [3] www.ceip.at [4] https://environment.ec.europa.eu/topics/air/clean-air-outlook_en [5] https://www.foodandlandusecoalition.org/global-report/ References: Alexandratos, N., Bruinsma, J., 2012. World agriculture towards 2030/2050: the 2012 revision. ESA Working paper Rome, FAO. Amann, M., Bertok, I., Borken-Kleefeld, J., Cofala, J., Heyes, C., H&#246;glund-Isaksson, L., Klimont, Z., Nguyen, B., Posch, M., Rafaj, P., Sandler, R., Sch&#246;pp, W., Wagner, F., Winiwarter, W., 2011. Cost-effective control of air quality and greenhouse gases in Europe: Modeling and policy applications. Environ. Model. Softw. 26, 1489&#8211;1501. https://doi.org/10.1016/j.envsoft.2011.07.012 Amann, M., Kiesewetter, G., Sch&#246;pp, W., Klimont, Z., Winiwarter, W., Cofala, J., Rafaj, P., H&#246;glund-Isaksson, L., Gomez-Sabriana, A., Heyes, C., Purohit, P., Borken-Kleefeld, J., Wagner, F., Sander, R., Fagerli, H., Nyiri, A., Cozzi, L., Pavarini, C., 2020. Reducing global air pollution: the scope for further policy interventions. Philos. Trans. R. Soc. Math. Phys. Eng. Sci. 378, 20190331. https://doi.org/10.1098/rsta.2019.0331 Amann, M., Klimont, Z., Wagner, F., 2013. Regional and Global Emissions of Air Pollutants: Recent Trends and Future Scenarios. Annu. Rev. Environ. Resour. 38, 31&#8211;55. https://doi.org/10.1146/annurev-environ-052912-173303 DieselNet, n.d. DieselNet: Diesel Exhaust Emission Standards [WWW Document]. URL http://www.dieselnet.com/standards/ (accessed 3.15.14). G&#243;mez-Sanabria, A., Kiesewetter, G., Klimont, Z. et al. Potential for future reductions of global GHG and air pollutants from circular waste management systems. Nat Commun 13, 106 (2022). https://doi.org/10.1038/s41467-021-27624-7 He, X., Shen, W., Wallington, T.J., Zhang, S., Wu, X., Bao, Z., Wu, Y., 2021. Asia Pacific road transportation emissions, 1900&#8211;2050. Faraday Discuss. 226. H&#246;glund-Isaksson, L.: Global anthropogenic methane emissions 2005&#8211;2030: technical mitigation potentials and costs, Atmos. Chem. Phys., 12, 9079&#8211;9096, https://doi.org/10.5194/acp-12-9079-2012, 2012. H&#246;glund-Isaksson, L., G&#243;mez-Sanabria, A., Klimont, Z., Rafaj, P., Sch&#246;pp, W., 2020. Technical potentials and costs for reducing global anthropogenic methane emissions in the 2050 timeframe &#8211;results from the GAINS model. Environ. Res. Commun. 2, 025004. https://doi.org/10.1088/2515-7620/ab7457 IEA, 2018. World Energy Outlook 2018. International Energy Agency (IEA), Paris, France. Kanter, D., Winiwarter, W., Bodirsky, B., Bouwman, L., Boyer, K., 2020. Nitrogen futures in the shared socioeconomic pathways. Glob. Environ. Change 13 2003 277&#8211;29361. https://doi.org/DOI:10.1016/j.gloenvcha.2019.102029. Klimont, Z., Kupiainen, K., Heyes, C., Purohit, P., Cofala, J., Rafaj, P., Borken-Kleefeld, J., and Sch&#246;pp, W.: Global anthropogenic emissions of particulate matter including black carbon, Atmos. Chem. Phys., 17, 8681&#8211;8723, https://doi.org/10.5194/acp-17-8681-2017, 2017 Rafaj, P., Kiesewetter, G., G&#252;l, T., Sch&#246;pp, W., Cofala, J., Klimont, Z., Purohit, P., Heyes, C., Amann, M., Borken-Kleefeld, J., Cozzi, L., 2018. Outlook for clean air in the context of sustainable development goals. Glob. Environ. Change 53, 1&#8211;11. https://doi.org/10.1016/j.gloenvcha.2018.08.008 Rao S, Klimont Z, Smith SJ, Van Dingenen R, Dentener F, Bouwman L, Riahi K, Amann M, et al. (2017) Future air pollution in the Shared Socio-economic Pathways. Global Environmental Change 42: 346-358. DOI:10.1016/j.gloenvcha.2016.05.012. The EAT-Lancet Commission, 2019. Healthy Diets From Sustainable Food Systems. London, UK. The Food and Land Use Coalition, 2019. Growing Better: Ten Critical Transitions to Transform Food and Land Use. Zhang, X., 2016. Emission standards and control of PM2.5 from coal power plant (No. CCC/267). IEA Clean Coal Centre, London. Zheng, B., Tong, D., Li, M., Liu, F., Hong, C., Geng, G., Li, H., Li, X., Peng, L., Qi, J., Yan, L., Zhang, Y., Zhao, H., Zheng, Y., He, K., Zhang, Q., 2018. Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions. Atmospheric Chem. Phys. 18, 14095&#8211;14111. https://doi.org/10.5194/acp-2018-374</description>
+      <author>Zbigniew Klimont, C. Heyes, Peter Rafaj, L. H&#246;glund-Isaksson, Pallav Purohit, Katrin Kaltenegger, Adriana G&#243;mez-Sanabria, Youn H. Kim, Wilfried Winiwarter, Laura Warnecke, W. Schoepp, Florian Lindl, Gregor Kiesewetter, Robert Sander, Thanh Binh Nguyen</author>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10366131</guid>
     </item>
     <item>
       <title>Replication data for: Energy flow analysis of an industrial ammonia refrigeration system</title>
@@ -2199,34 +1949,14 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.6563580</guid>
     </item>
     <item>
-      <title>A value-based framework from Building Stock Model to Retrofit Model</title>
-      <link>https://doi.org/10.21625/essd.v9i1.1044</link>
-      <description>Isolina Flores, Environmental Science and Sustainable Development. None(None)] 2024. https://openalex.org/W4393382286
+      <title>BIM-Based Assessment of the Environmental Effects of Various End-of-Life Scenarios for Buildings</title>
+      <link>https://doi.org/10.3390/su16072980</link>
+      <description>Shuqiang Wang, Qing Wu, Jingjie Yu, Sustainability (Basel). 16(7)] 2024. https://openalex.org/W4393871080
 
-                The study has as its original database the decarbonization process initiated in Mexico by the National Commission for the Efficient Use of Energy (CONUEE) as part of its &#8220;Savings Program of Electric Power in Buildings of the Federal Public Administration&#8221; (PAEIAPF) of 1999. The primary purpose of PAEIAPF was to reduce the levels of electric power consumption in Federal Government buildings. The program has operated for 20 years; however, its scope only reaches operational carbon. Since 90% of existing buildings will be in use by 2050, the Retrofit Models will be the base to determine solutions for a more resilient living environment that fortifies and extends the grid&#8217;s capacity and meets climate change mitigation targets. Secondly, significant socioeconomic and profound environmental impacts are not calculated explicitly in existing tools and are often referred to as &#8220;secondary&#8221; or Non-Energy Benefits (NEB). &#8220;The goal is to give them a measurement value to be considered in the decision-making calculus. It is assumed that soon; such factors will enter the general climate change economy, not unlike carbon in the past decade.&#8221; In this context, the proposed research aims to develop a value-based framework that will support a Building Stock Model and subsequent Retrofit Models, documented in a web-tool platform. The framework has three main steps:A) Building Stock Model: Mapping of selected buildings of the program PAEIAPF in a GIS system. Documentation of the baseline energy consumption and embodied CO2-eq of the existing building.B) Retrofit Models: Involving a Whole Life Cycle Assessment (WLCA) and Non-Energy Benefits (resilience coefficient, health, productivity).C) Web Tool Platform: Application and toolset that allows for consistent documentation, environmental impact evaluation of existing building stock, and solution design in identifying energy reduction concepts.</description>
-      <author>Isolina Flores</author>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21625/essd.v9i1.1044</guid>
-    </item>
-    <item>
-      <title>Valorization of engineered biochar to develop ultra-high-performance fiber-reinforced concrete with low carbon emission</title>
-      <link>https://doi.org/10.1080/21650373.2024.2333270</link>
-      <description>Ahmed M. Yosri, Osama Zaid, M. Hamad, Journal of sustainable cement-based materials (Print). None(None)] 2024. https://openalex.org/W4393382293
-
-                This research introduces an innovative approach to developing carbon-negative Ultra-High-Performance fiber-reinforced Concrete (UHPC) by incorporating substantial quantities of biochar, both as a binder and as an aggregate, replacing up to 25% by weight of Ordinary Portland Cement (OPC) and quartz sand (QS). The study examines the impact of biochar on cement hydration processes, microstructure evolution, and various other performance metrics in the modified UHPC. Samples were formulated with 3% double-hooked steel fibers and biochar quantities ranging from 5 to 25% by weight as substitutes for OPC and QS. The investigation included assessments of changes in rheological properties, strength metrics, long-term shrinkage, resistance to sulfate attacks, freeze-thaw durability, microstructure analysis, and a cost-benefit evaluation. Test results indicated that biochar-incorporated samples exhibited up to a 20% increase in heat evolution by the end of the seventh day and plastic energy at 28 days that rose to 32.14% as compared to control samples in 20% biochar-augmented versions. Shrinkage reduction varied between 58 and 69% at 210 days for samples with 20% biochar. Specifically, the mix containing 20% biochar (G2-M5-BC-20) significantly improved the 90-day compressive and flexural strength by 8.9 and 9.3%, and 30.6 and 36.8%, respectively, while further inclusion of biochar showed no marked enhancement in performance metrics. The G2-M5-BC-20 mix also demonstrated excellent resistance to sulfate attacks and freeze-thaw cycles, exhibiting the least mass loss and highest residual compressive strength. An initial cost-benefit revealed that biochar-enhanced UHPC could offer compelling financial benefits. Given its mechanical behavior, potential for harmful CO2 emissions, and economic viability, the G2-M5-BC-20 mix emerged as the most promising formulation, potentially generating an overall profit of $36 per cubic meter.</description>
-      <author>Ahmed M. Yosri, Osama Zaid, M. Hamad</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1080/21650373.2024.2333270</guid>
-    </item>
-    <item>
-      <title>Supporting model output for article "Relative Impact of Sea Ice and Temperature Changes on Arctic Marine Production"</title>
-      <link>https://doi.org/10.5281/zenodo.3901591</link>
-      <description>Georgina A. Gibson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393631018
-
-                The following is a summary of processed model output data from a series of HiLAT model runs. A description of the model runs and visualization of model output and analysis can be found in the accompanying manuscript. Gibson, G.A., Weijer, W., Jeffery, N. and Wang, S (2020) Relative impact of sea ice and temperature changes on Arctic marine production. Journal of Geophysical Research: Biogeosciences. DOI: 10.1029/2019JG005343 The model outputs and accompanying research was supported by the National Science Foundation 173886 and by DOE | SC |Biological and Environmental Research (BER). There are 4 versions of most output file types, corresponding to the 4 experiments that were conducted. These experiments are: i) the baseline model simulation (Base); ii) a moderate ice reduction experiment (S1); iii) a dramatic ice reduction experiment (S2); and iv) an atmospheric warming scenario (RCP45). Each of the 4 experiments is described in detail in Gibson et al (2020). Many variables in the output files are regional averages where model regions are indicated by a number *note - for aesthetics, the numbering used in the model output files differs slightly from the numbering used in the accompanying manuscript. Bering Sea =1 Chukchi Sea =2 East Siberian Sea =3 Laptev Sea =4 Beaufort Sea =5 Barents Sea =6 Canadian =7 Eurasian Basins =8 Nordic Seas =9 Labrador Sea=10 Kara Sea =11 Grid  gx1v6_polar_mask.10.12.18.nc This file is the original grid file used for all model runs with the addition of Arctic_Region and Antarctic_Polar_Front variables which indicates which grid cells are in the model regions described above. Forcing ncep_RCP45 ncep.t_10.T62.*.nc where * is 1948-2009 These files contain the modified atmospheric forcing used for the RCP45 model experiment. The unmodified NCEP forcing is freely publically available elsewhere to not duplicated here Ice  Ice-Regional-Monthly-177-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file contain the monthly averaged ice variables (ice area, ice algae production) for each model region for the last ten years of the model run. cice-monthly-177-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file are the monthly averaged output filed from the cice model. Variables are averaged over each model analysis region. Ice_snow_depth_region_Avg-137-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file contain the regionally averaged ice and snow depth for each analysis region. IceVol_Base-137-186.nc Contains ice variable file for the baseline model run. Model contains ice variables hi and aice for every grid cell of the model domain. Ice volume was computed as hi * Tarea (from grid file). Annual-SummerAvg-IceArea-177-186_*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average ice area averaged over Summer months (JuneAugust) for last 10 years of model run (200-2009) for each grid cell in the HiLAT model Ocean variables  TempNitrate TEMP_NO-177-186.nc This file contains model estimates of temperature and nitrate for the baseline model run for model years 177-186 (2000-2009, the last en years of the model run) for the upper five model layers (500, 1500, 2500, 3500, 4500 cm). CO2flux  AnnAvgAllCflux*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average CO2 Flux for last 10 years of model run (200-2009) for each grid cell of the HiLAT model. CO2flux_region_avg-177-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average CO2 Flux for last 10 years of model run (2000-2009) for each region of the HiLAT model. Ocean Production  OceanProd_Year-147-156-*.nc OceanProd_Year-157-166-*.nc OceanProd_Year-167-176-*.nc OceanProd_Year-177-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. These file contain the annual average vertically integrated ocean phytoplankton production for each grid cell. Each file contains 10 model years is the sum of diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. Region_production_by_phyto_group-diat_ps-137-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. These file contain the annual average vertically integrated ocean phytoplankton production for each region. Each file contains group specific production for diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. OceanProd_Daily-177-186-BASE.nc This file contains the daily average vertically integrated ocean phytoplankton production for each grid cell. The file contains 10 model years. Production is the sum of all four phytoplankton groups - diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. PAR  PAR-MonthyAvg-177-168-*.nc Photosynthetically Active Radiation in the ocean. Where * indicates model run - Base, S1, S2 or RCP45.</description>
-      <author>Georgina A. Gibson</author>
-      <pubDate>Mon, 22 Jun 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3901591</guid>
+                Accurately and rationally quantifying the environmental impact of construction and demolition waste (CDW) management is paramount, especially the environmental impact of different waste disposals, and more effective policies should be implemented to manage CDW. However, previous research on CDW disposal has typically ignored the potential for energy recovery and focused on a single environmental impact category. Therefore, this study aims to develop a conceptual framework to assess the environmental impacts under different CDW management scenarios (including reuse, recycling, energy recovery, and landfill), quantifying the global warming potential and resource consumption impacts under different scenarios. This framework incorporates Building Information Modeling to accurately collect data for feedback to the Life Cycle Assessment. The results indicate that Scenario 3, which considers the circular economy strategy, efficiently reuses metals, plastics, glass, and wood, generates recycled aggregate from concrete and cement, recycles bricks and tiles, and uses the remaining waste for energy recovery. This CDW management scenario, which prioritizes reuse and recycling, is the most effective in mitigating carbon emissions, resulting in a reduction of 6.641 &#215; 105 kg CO2 eq. Moreover, it significantly conserves resources and prevents the energy consumption of 4.601 &#215; 107 MJ. Among them, metal reuse saves 42.35% of resources, and plastic reuse saves 31.19% of resources. In addition, increasing the reuse rate and recovery rate can directly avoid carbon emissions and cumulative exergy consumption, effectively alleviating environmental issues. This study can provide new ideas for the treatment of CDW, which can provide a basis for the relevant government departments to formulate CDW management policies.</description>
+      <author>Shuqiang Wang, Qing Wu, Jingjie Yu</author>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16072980</guid>
     </item>
     <item>
       <title>Supporting model output for article "Relative Impact of Sea Ice and Temperature Changes on Arctic Marine Production"</title>
@@ -2239,6 +1969,16 @@
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3901590</guid>
     </item>
     <item>
+      <title>Supporting model output for article "Relative Impact of Sea Ice and Temperature Changes on Arctic Marine Production"</title>
+      <link>https://doi.org/10.5281/zenodo.3901591</link>
+      <description>Georgina A. Gibson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2020. https://openalex.org/W4393631018
+
+                The following is a summary of processed model output data from a series of HiLAT model runs. A description of the model runs and visualization of model output and analysis can be found in the accompanying manuscript. Gibson, G.A., Weijer, W., Jeffery, N. and Wang, S (2020) Relative impact of sea ice and temperature changes on Arctic marine production. Journal of Geophysical Research: Biogeosciences. DOI: 10.1029/2019JG005343 The model outputs and accompanying research was supported by the National Science Foundation 173886 and by DOE | SC |Biological and Environmental Research (BER). There are 4 versions of most output file types, corresponding to the 4 experiments that were conducted. These experiments are: i) the baseline model simulation (Base); ii) a moderate ice reduction experiment (S1); iii) a dramatic ice reduction experiment (S2); and iv) an atmospheric warming scenario (RCP45). Each of the 4 experiments is described in detail in Gibson et al (2020). Many variables in the output files are regional averages where model regions are indicated by a number *note - for aesthetics, the numbering used in the model output files differs slightly from the numbering used in the accompanying manuscript. Bering Sea =1 Chukchi Sea =2 East Siberian Sea =3 Laptev Sea =4 Beaufort Sea =5 Barents Sea =6 Canadian =7 Eurasian Basins =8 Nordic Seas =9 Labrador Sea=10 Kara Sea =11 Grid  gx1v6_polar_mask.10.12.18.nc This file is the original grid file used for all model runs with the addition of Arctic_Region and Antarctic_Polar_Front variables which indicates which grid cells are in the model regions described above. Forcing ncep_RCP45 ncep.t_10.T62.*.nc where * is 1948-2009 These files contain the modified atmospheric forcing used for the RCP45 model experiment. The unmodified NCEP forcing is freely publically available elsewhere to not duplicated here Ice  Ice-Regional-Monthly-177-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file contain the monthly averaged ice variables (ice area, ice algae production) for each model region for the last ten years of the model run. cice-monthly-177-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file are the monthly averaged output filed from the cice model. Variables are averaged over each model analysis region. Ice_snow_depth_region_Avg-137-186-*.nc where * indicates model run - Base, S1, S2 or RCP45. These file contain the regionally averaged ice and snow depth for each analysis region. IceVol_Base-137-186.nc Contains ice variable file for the baseline model run. Model contains ice variables hi and aice for every grid cell of the model domain. Ice volume was computed as hi * Tarea (from grid file). Annual-SummerAvg-IceArea-177-186_*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average ice area averaged over Summer months (JuneAugust) for last 10 years of model run (200-2009) for each grid cell in the HiLAT model Ocean variables  TempNitrate TEMP_NO-177-186.nc This file contains model estimates of temperature and nitrate for the baseline model run for model years 177-186 (2000-2009, the last en years of the model run) for the upper five model layers (500, 1500, 2500, 3500, 4500 cm). CO2flux  AnnAvgAllCflux*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average CO2 Flux for last 10 years of model run (200-2009) for each grid cell of the HiLAT model. CO2flux_region_avg-177-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. Each of these files contains the annual average CO2 Flux for last 10 years of model run (2000-2009) for each region of the HiLAT model. Ocean Production  OceanProd_Year-147-156-*.nc OceanProd_Year-157-166-*.nc OceanProd_Year-167-176-*.nc OceanProd_Year-177-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. These file contain the annual average vertically integrated ocean phytoplankton production for each grid cell. Each file contains 10 model years is the sum of diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. Region_production_by_phyto_group-diat_ps-137-186-*.nc Where * indicates model run - Base, S1, S2 or RCP45. These file contain the annual average vertically integrated ocean phytoplankton production for each region. Each file contains group specific production for diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. OceanProd_Daily-177-186-BASE.nc This file contains the daily average vertically integrated ocean phytoplankton production for each grid cell. The file contains 10 model years. Production is the sum of all four phytoplankton groups - diatoms, diazotrophs, phaeocystis, and smaller phytoplankton. PAR  PAR-MonthyAvg-177-168-*.nc Photosynthetically Active Radiation in the ocean. Where * indicates model run - Base, S1, S2 or RCP45.</description>
+      <author>Georgina A. Gibson</author>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.3901591</guid>
+    </item>
+    <item>
       <title>FORMATION OF THE ENERGY BALANCE OF UKRAINE USING RENEWABLE ENERGY SOURCES</title>
       <link>https://doi.org/10.37128/2411-4413-2023-4-8</link>
       <description>Victoriia HUROCHKINA, Sergii Kohut, Ekonom&#236;ka, f&#236;nansi, mened&#382;ment: aktual&#697;n&#236; pitann&#226; nauki &#236; praktiki. None(4(66))] 2024. https://openalex.org/W4393435346
@@ -2247,16 +1987,6 @@
       <author>Victoriia HUROCHKINA, Sergii Kohut</author>
       <pubDate>Mon, 30 Dec 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.37128/2411-4413-2023-4-8</guid>
-    </item>
-    <item>
-      <title>Ameliorating heat stressed conditions in wheat by altering its physiological and phenotypic traits associated with varying nitrogen levels</title>
-      <link>https://doi.org/10.15835/nbha52113471</link>
-      <description>Muhammad Shaukat, Asim Abbasi, Khushnooda Ramzan, Aiman Hina, Saima Memon, Zarish MAQSOOD, Abdel&#8208;Rhman Z. Gaafar, Mohamed S. Hodhod, Sobhi F. Lamlom, Notulae Botanicae Horti Agrobotanici Cluj-napoca. 52(1)] 2024. https://openalex.org/W4393373335
-
-                Currently, more than half of the global nations cultivating wheat crops are facing severe consequences of climate change and its associated heat stress in terms of quantitative and qualitative yield losses. Plants exposed to heat stress need a balanced and adequate amount of mineral nutrients to counter its ill effects. Therefore, the present study was designed to investigate the potential effects of heat stress applied during the vegetative growth period (Zadoks growth scale: ZGS 5-60) on physiological and phenotypic traits of wheat (Triticum aestivum) crop subjected to variable rates of nitrogen (N). In this experiment, wheat plants of cv. &#8216;Punjab-2011&#8217; were exposed to two levels of temperature i.e. heat stress (HS) and control or non-heat stress (NHS), and three N rates (N50 = 50 kg ha-1, N100= 100 kg ha-1 and N150 = 150 kg ha-1). The experiment was executed under controlled conditions in a completely randomized design (CRD) with six replications. One set of eighteen pots containing wheat seedlings was placed in a compartment of the greenhouse under heat-stressed conditions, while another set was placed in another compartment under non-heated conditions. The greenhouse compartments were equipped with a heating and cooling system to maintain desired ecological conditions. Pots in heated chamber were kept for 60 days from emergence (ZGS = 5-60), and then shifted to non-heated chamber till harvesting. The temperature in heat stress treatment was almost 2 &#177; 0.47 &#176;C higher than in non-heated treatment. The results indicated that HS significantly reduced the photosynthetic rate by 42.52%, leaf photosynthetic efficiency by 56.82%, chlorophyll scores by 20.11%, relative water contents (RWC) by 12.81%, tillers by 48.21%, grain weight by 21.47% and grain yield by 68.20% relative to NHS conditions. These reductions were more prominent in plants subjected to a limited N dose rate (50 kg N ha-1). Furthermore, the results also revealed higher transpiration rate, stomatal conductance, and membrane ruptures under HS with N50 treatment. However, N150 treatment compensated for the detrimental effects of HS on wheat plants by improving the photosynthetic rate and efficiencies, higher RWC, more stability of membrane and pigments, more tillers, and higher grain weight, and grain yield of wheat. Additionally, grain yield was negatively correlated with transpiration rate, stomatal conductance, internal CO2 concentration, and membrane leakage. In conclusion, a high dose rate of N under high temperatures during vegetative growth could alleviate the magnitude of penalties to grain yield and enhance the potential of wheat crops to withstand heat-induced detrimental effects.</description>
-      <author>Muhammad Shaukat, Asim Abbasi, Khushnooda Ramzan, Aiman Hina, Saima Memon, Zarish MAQSOOD, Abdel&#8208;Rhman Z. Gaafar, Mohamed S. Hodhod, Sobhi F. Lamlom</author>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.15835/nbha52113471</guid>
     </item>
     <item>
       <title>Generation and emission data for main power plants in Germany (2015 - 2021)</title>
@@ -2270,16 +2000,6 @@
     </item>
     <item>
       <title>Comparative study between Dexmedetomidine with Bupivacaine and Bupivacaine alone in erector spinae plane block for postoperative pain control of posterior lumbosacral spine fixation surgeries: A randomized controlled trial</title>
-      <link>https://doi.org/10.5281/zenodo.10407180</link>
-      <description>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393564940
-
-                2. Materials and Methods 2.1. Participants Patients above 18 years old of either sex submitted for elective posterior lumbosacral spine fixation and fusion surgery were eligible to participate if they were classified as ASA I-III according to the American Society of Anesthesiologists (ASA) classification. The surgery was done on all the patients by the same neurosurgical team and using the same surgical techniques. The exclusion criteria included patient refusal, hypersensitivity to the drugs used in the study, patients with any contraindication to regional anesthesia, such as skin infections at the site of the block, and patients with a history of bleeding disorders or receiving anticoagulant medications. All patients were screened for eligibility criteria. Eligible patients were asked for voluntary informed consent to participate in the trial. 2.2 Study design This double-blind, randomized controlled trial was carried out on 90 patients on October 6 University Hospitals. It was conducted from November 2022 to July 2023. The study was approved by the Clinical Research Ethical Committee of October 6 University Hospitals (approval number PRC-Me-2210035). It was registered online at ClinicalTrials.gov Identifier: NCT05590234. All patients who participated in this study had to sign a detailed, informed, written anesthesia and surgery consent. 2.3. Randomization and allocation Patients were randomly allocated using a random allocation sequence by a web-based program. Participants were randomized to three groups in a 1:1:1 ratio. Each group consisted of 30 patients. Dexmedetomidine Bupivacaine ESPB group (DB group) receive 0.5 ug/kg dexmedetomidine plus 20 mL of bupivacaine 0.25%, Bupivacaine ESPB group (B group) receive 20 mL of bupivacaine 0.25%, and Saline ESPB (S group) which is the Control group receive 20 ml of normal saline 0.9%. The block procedure was done bilaterally in the three groups. Neither patients nor investigators knew the group in which the patients were placed, and the type of intervention received. 2.4. Preoperative management All patients were assessed clinically before surgery, including full history, thorough clinical examination, and laboratory investigations. On arrival at the operating suite, patients were fully monitored (5 leads ECG, noninvasive blood pressure, and pulse oximetry). Basal readings of vital data were recorded. Intravenous access was established. 2.5. Anesthetic management Midazolam 3 mg IV was given for sedation. Induction of anesthesia was performed with IV propofol (2mg/kg), fentanyl (1.5&#8211;2 &#181;g/kg), and rocuronium bromide (0.6 mg/kg). Maintenance of anesthesia was done by isoflurane. The prone position was established immediately after the intubation of anesthesia. Intraoperatively, the data of (peripheral oxygen saturation, heart rate, noninvasive arterial blood pressure, and end-tidal carbon dioxide level) were recorded every five minutes throughout the operation. Any decrease in heart rate below 50 beats per minute was treated with intravenous atropine, according to the response. A reduction in mean blood pressure below 20% of the basal reading or systolic BP below 90 mmHg was treated with 5 mg increments of intravenous ephedrine. After the induction of anesthesia and putting the patients in the prone position, the US-guided ESPB was performed in the three groups. The study was conducted in a double-blind fashion where the attending anesthetist who performed the ESPB and the neurosurgical team were blind entirely to the content of the injected solution composition. The responsible anesthetist in this study was the only one not blind to the injected solution composition but was not involved in the postoperative patient assessment. 2.6. ESPB technique Under strict aseptic technique, the ESPB was done in the prone position for all patients of the three groups. A sterile ultrasound curved probe (Philips ultrasound machine HD7 XE C153160013, Philips and Neusoft Medical Systems Co., Ltd. China.) was used for the technique. The ultrasound probe was placed on the third lumbar vertebral body level in the parasagittal plane. When the spinous process was first seen, the probe was moved laterally from the midline, and then the transverse process of L3 and erector spinae muscle was observed at about 2 to 3 cm from the midline (Figure 1). A 22 gauge/ 8 cm ultrasound-visible needle (Stimuplex, Braun AG, Melsungen, Germany) was used to make a puncture using the in-plane technique. The direction of the needle was craniocaudal, and the proper position of the needle was confirmed by injecting 2 ml of saline solution. After ensuring the position of the needle, 20 ml of 0.25% bupivacaine plus 0.5 ug/kg dexmedetomidine was administered to the DB group. The same ESPB procedure was done on the other side with the same drugs and volume. In total, 40 ml of 0.25% bupivacaine plus 1 ug/kg dexmedetomidine was administered. The same block procedure was done in the B group with only 20 ml of 0.25% bupivacaine on both sides (with a total volume of 40 ml). In the S group (control group), the same block procedure was done with 20 ml of 0.9% normal saline on both sides (40 ml total volume). Figure 1. Ultrasound image of ESPB. At the end of surgery, 1 gm of paracetamol IV and 30 mg of ketorolac IV infusion were given to all the patients of the three groups. The patients were extubated after efficient spontaneous breathing and transported to the post-anesthesia care unit (PACU). Patients were discharged from the PACU to the ward with a modified Aldrete score of 12. 2.7. Postoperative pain management The postoperative analgesic management was done using the classical protocol of our department to all patients of the three groups, which included a PCA (patient-controlled analgesia) device, and an IV of one gm paracetamol was given every eight hours for the first 48 hours postoperatively. The PCA device (Accufuser Plus &#174;REF, manufactured by Woo Young Medical Co., Ltd. Korea) has a silicon balloon infuser with a total volume of 300 ml, basal rate of 5 ml per hour, bolus 1 ml, and lockout interval every 15 minutes. A PCA device with morphine was attached to all the patients. The PCA infusion (300ml) consisted of 60 mg of morphine with 2 mg of granisteron and 180 mg of ketorolac. The concentration of morphine was set to 0.2 mg/ml, the loading dose was 1 mg (5 ml), the lockout interval was 15 min (bolus of 1ml/15 min), and a 1 mg/h (5ml/hr) continuous infusion was maintained for 48 hrs. IV one gm paracetamol was given every eight hours postoperatively. A nurse blind to the study used the visual analog scale (VAS; zero, no pain, ten = the most severe pain) to evaluate and record the pain scores and recorded the opioid consumption of the patients. The nurse recorded passive (at rest) and active (while mobilization) VAS scores at intervals of every two hours in the first 24 hours and every 4 hours in the second 24 hours and total opioid consumption for the first 48 hours postoperatively. Rescue analgesic medication was done using pethidine 50 mg IM when passive VAS pain score &gt; 6. Patients who experienced pruritis, nausea, vomiting, or respiratory depression (opioid-related adverse effects) were recorded. On the first day postoperative, all patients were encouraged to ambulate in the ward after wearing lumbosacral support. The subcutaneous closed suction drainage system was removed after 36 hours. All patients were discharged home after 48 hours. 2.8. Outcome measurements The primary clinical outcome measures were active (while mobilization) and passive (at rest) visual analog scale (VAS) pain score at the first 48 hours, measured every 2 hours in the first 24 hours and every 4 hours in the second 24 hours. Other clinical outcomes included opioid consumption (the number of PCA presses), the need for rescue analgesia, postoperative opioid side effects, and intraoperative dexmedetomidine side effects such as bradycardia and hypotension. 2. 9. Sample size calculation As we have three treatment groups (S, B, DB), we performed a one-way analysis of variance (ANOVA) to assess effect size and the required number of patients per group based on the overall difference of total Fentanyl consumption (&#181;g) means (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908442/). The effect size for ANOVA is typically measured using Cohen's d = M1 - M2 / spooled, where spooled =&#8730; [(s 12+ s 22) / 2] and effect-size r= d / &#8730; (d2 + 4)[https://lbecker.uccs.edu/#means%20and%20standard%20deviations]. Given the following values: &#183; Mean 1: 820 SD1: 102 &#183; Mean2: 641 SD2: 140 &#183; &#945;=0.05 &#183; &#946;=0.05 (implying a power of 0.95) Then, Cohen's d: -1.46 &amp; effect-size r: -0.58 In addition, the required sample size per group is 17 based on the following online tool [https://homepage.univie.ac.at/robin.ristl/samplesize.php?test=anova] for sample size for one-way analysis of variance. 2.10. Statistical analysis Data were analyzed using the statistical package for social sciences, version 20.0 (SPSS Inc., Chicago, Illinois, USA). We conducted the Shapiro-Wilk test to assess whether the numeric data followed a normal distribution or not. Quantitative normal distributed data were expressed as mean&#177; standard deviation (SD). Qualitative data were expressed as frequency and percentage. The following tests were used: A one-way analysis of variance (ANOVA) when comparing between more than two means, Post Hoc test: Least Significant Difference (LSD) was used for multiple comparisons between different variables, and Chi-square (X2) test of significance was used to compare proportions between two qualitative parameters. Furthermore, we performed linear and binary regression analyses to elucidate the relationship between the primary outcomes and the intervention groups (S, D, DB). The confidence interval was set to 95%, and the margin of error accepted was set to 5%. So, the p-value was considered non-significant when the P-value &gt; 0.05, significant if &lt; 0.05, and highly significant if &lt;0.001.</description>
-      <author>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad</author>
-      <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10407180</guid>
-    </item>
-    <item>
-      <title>Comparative study between Dexmedetomidine with Bupivacaine and Bupivacaine alone in erector spinae plane block for postoperative pain control of posterior lumbosacral spine fixation surgeries: A randomized controlled trial</title>
       <link>https://doi.org/10.5281/zenodo.10407181</link>
       <description>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393834005
 
@@ -2287,6 +2007,16 @@
       <author>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad</author>
       <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10407181</guid>
+    </item>
+    <item>
+      <title>Comparative study between Dexmedetomidine with Bupivacaine and Bupivacaine alone in erector spinae plane block for postoperative pain control of posterior lumbosacral spine fixation surgeries: A randomized controlled trial</title>
+      <link>https://doi.org/10.5281/zenodo.10407180</link>
+      <description>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://openalex.org/W4393564940
+
+                2. Materials and Methods 2.1. Participants Patients above 18 years old of either sex submitted for elective posterior lumbosacral spine fixation and fusion surgery were eligible to participate if they were classified as ASA I-III according to the American Society of Anesthesiologists (ASA) classification. The surgery was done on all the patients by the same neurosurgical team and using the same surgical techniques. The exclusion criteria included patient refusal, hypersensitivity to the drugs used in the study, patients with any contraindication to regional anesthesia, such as skin infections at the site of the block, and patients with a history of bleeding disorders or receiving anticoagulant medications. All patients were screened for eligibility criteria. Eligible patients were asked for voluntary informed consent to participate in the trial. 2.2 Study design This double-blind, randomized controlled trial was carried out on 90 patients on October 6 University Hospitals. It was conducted from November 2022 to July 2023. The study was approved by the Clinical Research Ethical Committee of October 6 University Hospitals (approval number PRC-Me-2210035). It was registered online at ClinicalTrials.gov Identifier: NCT05590234. All patients who participated in this study had to sign a detailed, informed, written anesthesia and surgery consent. 2.3. Randomization and allocation Patients were randomly allocated using a random allocation sequence by a web-based program. Participants were randomized to three groups in a 1:1:1 ratio. Each group consisted of 30 patients. Dexmedetomidine Bupivacaine ESPB group (DB group) receive 0.5 ug/kg dexmedetomidine plus 20 mL of bupivacaine 0.25%, Bupivacaine ESPB group (B group) receive 20 mL of bupivacaine 0.25%, and Saline ESPB (S group) which is the Control group receive 20 ml of normal saline 0.9%. The block procedure was done bilaterally in the three groups. Neither patients nor investigators knew the group in which the patients were placed, and the type of intervention received. 2.4. Preoperative management All patients were assessed clinically before surgery, including full history, thorough clinical examination, and laboratory investigations. On arrival at the operating suite, patients were fully monitored (5 leads ECG, noninvasive blood pressure, and pulse oximetry). Basal readings of vital data were recorded. Intravenous access was established. 2.5. Anesthetic management Midazolam 3 mg IV was given for sedation. Induction of anesthesia was performed with IV propofol (2mg/kg), fentanyl (1.5&#8211;2 &#181;g/kg), and rocuronium bromide (0.6 mg/kg). Maintenance of anesthesia was done by isoflurane. The prone position was established immediately after the intubation of anesthesia. Intraoperatively, the data of (peripheral oxygen saturation, heart rate, noninvasive arterial blood pressure, and end-tidal carbon dioxide level) were recorded every five minutes throughout the operation. Any decrease in heart rate below 50 beats per minute was treated with intravenous atropine, according to the response. A reduction in mean blood pressure below 20% of the basal reading or systolic BP below 90 mmHg was treated with 5 mg increments of intravenous ephedrine. After the induction of anesthesia and putting the patients in the prone position, the US-guided ESPB was performed in the three groups. The study was conducted in a double-blind fashion where the attending anesthetist who performed the ESPB and the neurosurgical team were blind entirely to the content of the injected solution composition. The responsible anesthetist in this study was the only one not blind to the injected solution composition but was not involved in the postoperative patient assessment. 2.6. ESPB technique Under strict aseptic technique, the ESPB was done in the prone position for all patients of the three groups. A sterile ultrasound curved probe (Philips ultrasound machine HD7 XE C153160013, Philips and Neusoft Medical Systems Co., Ltd. China.) was used for the technique. The ultrasound probe was placed on the third lumbar vertebral body level in the parasagittal plane. When the spinous process was first seen, the probe was moved laterally from the midline, and then the transverse process of L3 and erector spinae muscle was observed at about 2 to 3 cm from the midline (Figure 1). A 22 gauge/ 8 cm ultrasound-visible needle (Stimuplex, Braun AG, Melsungen, Germany) was used to make a puncture using the in-plane technique. The direction of the needle was craniocaudal, and the proper position of the needle was confirmed by injecting 2 ml of saline solution. After ensuring the position of the needle, 20 ml of 0.25% bupivacaine plus 0.5 ug/kg dexmedetomidine was administered to the DB group. The same ESPB procedure was done on the other side with the same drugs and volume. In total, 40 ml of 0.25% bupivacaine plus 1 ug/kg dexmedetomidine was administered. The same block procedure was done in the B group with only 20 ml of 0.25% bupivacaine on both sides (with a total volume of 40 ml). In the S group (control group), the same block procedure was done with 20 ml of 0.9% normal saline on both sides (40 ml total volume). Figure 1. Ultrasound image of ESPB. At the end of surgery, 1 gm of paracetamol IV and 30 mg of ketorolac IV infusion were given to all the patients of the three groups. The patients were extubated after efficient spontaneous breathing and transported to the post-anesthesia care unit (PACU). Patients were discharged from the PACU to the ward with a modified Aldrete score of 12. 2.7. Postoperative pain management The postoperative analgesic management was done using the classical protocol of our department to all patients of the three groups, which included a PCA (patient-controlled analgesia) device, and an IV of one gm paracetamol was given every eight hours for the first 48 hours postoperatively. The PCA device (Accufuser Plus &#174;REF, manufactured by Woo Young Medical Co., Ltd. Korea) has a silicon balloon infuser with a total volume of 300 ml, basal rate of 5 ml per hour, bolus 1 ml, and lockout interval every 15 minutes. A PCA device with morphine was attached to all the patients. The PCA infusion (300ml) consisted of 60 mg of morphine with 2 mg of granisteron and 180 mg of ketorolac. The concentration of morphine was set to 0.2 mg/ml, the loading dose was 1 mg (5 ml), the lockout interval was 15 min (bolus of 1ml/15 min), and a 1 mg/h (5ml/hr) continuous infusion was maintained for 48 hrs. IV one gm paracetamol was given every eight hours postoperatively. A nurse blind to the study used the visual analog scale (VAS; zero, no pain, ten = the most severe pain) to evaluate and record the pain scores and recorded the opioid consumption of the patients. The nurse recorded passive (at rest) and active (while mobilization) VAS scores at intervals of every two hours in the first 24 hours and every 4 hours in the second 24 hours and total opioid consumption for the first 48 hours postoperatively. Rescue analgesic medication was done using pethidine 50 mg IM when passive VAS pain score &gt; 6. Patients who experienced pruritis, nausea, vomiting, or respiratory depression (opioid-related adverse effects) were recorded. On the first day postoperative, all patients were encouraged to ambulate in the ward after wearing lumbosacral support. The subcutaneous closed suction drainage system was removed after 36 hours. All patients were discharged home after 48 hours. 2.8. Outcome measurements The primary clinical outcome measures were active (while mobilization) and passive (at rest) visual analog scale (VAS) pain score at the first 48 hours, measured every 2 hours in the first 24 hours and every 4 hours in the second 24 hours. Other clinical outcomes included opioid consumption (the number of PCA presses), the need for rescue analgesia, postoperative opioid side effects, and intraoperative dexmedetomidine side effects such as bradycardia and hypotension. 2. 9. Sample size calculation As we have three treatment groups (S, B, DB), we performed a one-way analysis of variance (ANOVA) to assess effect size and the required number of patients per group based on the overall difference of total Fentanyl consumption (&#181;g) means (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8908442/). The effect size for ANOVA is typically measured using Cohen's d = M1 - M2 / spooled, where spooled =&#8730; [(s 12+ s 22) / 2] and effect-size r= d / &#8730; (d2 + 4)[https://lbecker.uccs.edu/#means%20and%20standard%20deviations]. Given the following values: &#183; Mean 1: 820 SD1: 102 &#183; Mean2: 641 SD2: 140 &#183; &#945;=0.05 &#183; &#946;=0.05 (implying a power of 0.95) Then, Cohen's d: -1.46 &amp; effect-size r: -0.58 In addition, the required sample size per group is 17 based on the following online tool [https://homepage.univie.ac.at/robin.ristl/samplesize.php?test=anova] for sample size for one-way analysis of variance. 2.10. Statistical analysis Data were analyzed using the statistical package for social sciences, version 20.0 (SPSS Inc., Chicago, Illinois, USA). We conducted the Shapiro-Wilk test to assess whether the numeric data followed a normal distribution or not. Quantitative normal distributed data were expressed as mean&#177; standard deviation (SD). Qualitative data were expressed as frequency and percentage. The following tests were used: A one-way analysis of variance (ANOVA) when comparing between more than two means, Post Hoc test: Least Significant Difference (LSD) was used for multiple comparisons between different variables, and Chi-square (X2) test of significance was used to compare proportions between two qualitative parameters. Furthermore, we performed linear and binary regression analyses to elucidate the relationship between the primary outcomes and the intervention groups (S, D, DB). The confidence interval was set to 95%, and the margin of error accepted was set to 5%. So, the p-value was considered non-significant when the P-value &gt; 0.05, significant if &lt; 0.05, and highly significant if &lt;0.001.</description>
+      <author>HA Abu El Hassan Sawsan, A. Wahsh Engy, Mohammed Mousa Abdelmaksod, Rafay Ahmed, Sarya Swed, Lotfy Mohammed Emad</author>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10407180</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Tue Apr  9 01:02:28 2024
+Created on Wed Apr 10 01:01:47 2024
 
-Found 10 results from 2024-04-02 to 2024-04-09
+Found 10 results from 2024-04-03 to 2024-04-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -24,27 +24,6 @@ OpenAlex: https://openalex.org/W4393570705 (Open access: True)
 [[https://openalex.org/A5078438269][Anna Chrobok]], [[https://openalex.org/A5034793707][Piotr Latos]], [[https://openalex.org/A5067103578][Alina Brzęczek‐Szafran]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.7701163 
      
 The fifth research task carried out as part of the project concerns the electrochemical characteristics of the obtained liquid metal complexes and the determination of their electrochemical potential. The information relates to study performing for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
-
-    
-
-* : The second research task in the project entitled "Tunable liquid metal complexes as catalysts for the model chemical and electrochemical processes" - NCN project OPUS (grant no. 2020/37/B/ST8/00693).  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4393835285
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes
-:PUBLICATION_DATE: 2023-01-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.7568310")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393835285"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393835285"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393835285"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4393835285 (Open access: False)
-    
-[[https://openalex.org/A5034793707][Piotr Latos]], [[https://openalex.org/A5078438269][Anna Chrobok]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.7568310 
-     
-The second research task carried out under the project concerns the synthesis of metallate ionic liquids and the physical and chemical properties characterization. The information relates to study performed for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
 
     
 
@@ -108,6 +87,27 @@ OpenAlex: https://openalex.org/W4393497894 (Open access: True)
 [[https://openalex.org/A5078438269][Anna Chrobok]], [[https://openalex.org/A5011860893][Justyna Więcławik]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.7701130 
      
 The first research task carried out under the project concerns synthesis of novel solvate ionic liquids and physical and chemical properties characterization of obtained liquid metal complexes. The information relates to study performing for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
+
+    
+
+* : The second research task in the project entitled "Tunable liquid metal complexes as catalysts for the model chemical and electrochemical processes" - NCN project OPUS (grant no. 2020/37/B/ST8/00693).  :liquid_metal:
+:PROPERTIES:
+:UUID: https://openalex.org/W4393835285
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2023-01-25
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.7568310")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4393835285"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4393835285"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4393835285"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4393835285 (Open access: False)
+    
+[[https://openalex.org/A5034793707][Piotr Latos]], [[https://openalex.org/A5078438269][Anna Chrobok]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2023. https://doi.org/10.5281/zenodo.7568310 
+     
+The second research task carried out under the project concerns the synthesis of metallate ionic liquids and the physical and chemical properties characterization. The information relates to study performed for the NCN project OPUS, grant no. 2020/37/B/ST8/00693.    
 
     
 

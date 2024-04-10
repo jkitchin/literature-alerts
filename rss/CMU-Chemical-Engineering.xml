@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 09 Apr 2024 01:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 01:01:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,106 +26,6 @@
       <author>John R. Kitchin, Kirby Broderick</author>
       <pubDate>Sat, 13 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5281/zenodo.10501344</guid>
-    </item>
-    <item>
-      <title>Optimal Design and Operation of Intensified Packed Towers for Solvent Based CO2 Capture</title>
-      <link>https://openalex.org/W4393400076</link>
-      <description>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400076
-
-                No abstract</description>
-      <author>Stephen Summits, Debangsu Bhattacharyya, Grigorios Panagakos, Benjamin Omell, Michael Matuszewski</author>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400076</guid>
-    </item>
-    <item>
-      <title>A Computational Investigation of the Effect of Packing Structural Features on the Performance of Carbon Capture for Solvent-Based Post-Combustion Applications</title>
-      <link>https://openalex.org/W4393400078</link>
-      <description>Grigorios Panagakos, Yash Girish Shah, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400078
-
-                No abstract</description>
-      <author>Grigorios Panagakos, Yash Girish Shah</author>
-      <pubDate>Sun, 05 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400078</guid>
-    </item>
-    <item>
-      <title>Economies of Numbers Formulations for Optimal Process Family Design of Carbon Capture Systems</title>
-      <link>https://openalex.org/W4393400082</link>
-      <description>Georgia Stinchfield, Miguel Zamarripa, Josh Morgan, Carl D. Laird, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400082
-
-                No abstract</description>
-      <author>Georgia Stinchfield, Miguel Zamarripa, Josh Morgan, Carl D. Laird</author>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400082</guid>
-    </item>
-    <item>
-      <title>Trust Region Filter Method for Integrating Treatment into Produced Water Networks</title>
-      <link>https://openalex.org/W4393400083</link>
-      <description>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400083
-
-                No abstract</description>
-      <author>Sakshi Naik, Lorenz T. Biegler, Miguel Zamarripa, Markus Drouven</author>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400083</guid>
-    </item>
-    <item>
-      <title>Optimization of Produced Water Networks for Critical Mineral Recovery Integrated to DOE&#8217;s Produced Water Optimization Framework Pareto</title>
-      <link>https://openalex.org/W4393400086</link>
-      <description>Daniel Ovalle, Joshua L. Pulsipher, Markus Drouven, Carl D. Laird, Ignacio E. Grossmann, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400086
-
-                No abstract</description>
-      <author>Daniel Ovalle, Joshua L. Pulsipher, Markus Drouven, Carl D. Laird, Ignacio E. Grossmann</author>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400086</guid>
-    </item>
-    <item>
-      <title>Numerical Study on the Geometrical Effects of Structured Packing on the Hydrodynamics of Solvent-Based CO2 Capture in Absorption Columns</title>
-      <link>https://openalex.org/W4393400088</link>
-      <description>Yash Girish Shah, Grigorios Panagakos, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400088
-
-                No abstract</description>
-      <author>Yash Girish Shah, Grigorios Panagakos</author>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400088</guid>
-    </item>
-    <item>
-      <title>Recent Advances in PyROS: The Pyomo Solver for Two-Stage Nonconvex Robust Optimization</title>
-      <link>https://openalex.org/W4393400090</link>
-      <description>J.D. Sherman, Natalie M. Isenberg, John Daniel Siirola, Chrysanthos E. Gounaris, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400090
-
-                No abstract</description>
-      <author>J.D. Sherman, Natalie M. Isenberg, John Daniel Siirola, Chrysanthos E. Gounaris</author>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400090</guid>
-    </item>
-    <item>
-      <title>Optimization for Infrastructure Planning of Reliable and Carbon-neutral Power Systems: Application to San Diego County</title>
-      <link>https://openalex.org/W4393400116</link>
-      <description>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann, Benjamin Omell, Christopher McLean, Radhakrishna Gooty, Philip Tominac, Anthony P. Burgard, John Daniel Siirola, John H. Shinn, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400116
-
-                No abstract</description>
-      <author>Seolhee Cho, Javier Tovar-Facio, Ignacio E. Grossmann, Benjamin Omell, Christopher McLean, Radhakrishna Gooty, Philip Tominac, Anthony P. Burgard, John Daniel Siirola, John H. Shinn</author>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400116</guid>
-    </item>
-    <item>
-      <title>Nonconvex Two-Stage Robust Optimization of an Amine-Based CO2 Capture System</title>
-      <link>https://openalex.org/W4393400124</link>
-      <description>J.D. Sherman, Anca Ostace, Douglas E. Allen, Miguel Zamarripa, Andrew Lee, Chrysanthos E. Gounaris, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400124
-
-                No abstract</description>
-      <author>J.D. Sherman, Anca Ostace, Douglas E. Allen, Miguel Zamarripa, Andrew Lee, Chrysanthos E. Gounaris</author>
-      <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400124</guid>
-    </item>
-    <item>
-      <title>Optimal Desalination Technologies for Produced Water Networks</title>
-      <link>https://openalex.org/W4393400133</link>
-      <description>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2023. https://openalex.org/W4393400133
-
-                No abstract</description>
-      <author>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler</author>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://openalex.org/W4393400133</guid>
     </item>
     <item>
       <title>Iodine oxoacids enhance nucleation of sulfuric acid particles in the atmosphere: data resources</title>
