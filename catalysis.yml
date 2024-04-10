@@ -27,3 +27,7 @@ queries:
       - primary_location.source.id:https://openalex.org/S1959426
       # Angewantde Chemie
       - primary_location.source.id:https://openalex.org/S67393510,title-and-abstract.search:(catalysis OR catalyst)
+      # Catalysis Reviews - Science and Engineering
+      - primary_location.source.id:https://openalex.org/S72781473
+      # Topics in Catalysis
+      - primary_location.source.id:https://openalex.org/S176313377
