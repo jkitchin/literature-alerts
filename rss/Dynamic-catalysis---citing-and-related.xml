@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 10 Apr 2024 01:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 01:02:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Dynamic Promotion of the Oxygen Evolution Reaction via Programmable Metal Oxides</title>
+      <link>https://doi.org/10.1021/acsenergylett.4c00365</link>
+      <description>Sallye R. Gathmann, Christopher J. Bartel, Lars C. Grabow, Omar A. Abdelrahman, C. Daniel Frisbie, Paul J. Dauenhauer, ACS energy letters. None(None)] 2024. https://openalex.org/W4394568896
+
+                Hydrogen gas is a promising renewable energy storage medium when produced via water electrolysis, but this process is limited by the sluggish kinetics of the anodic oxygen evolution reaction (OER). Herein, we used a microkinetic model to investigate promoting the OER using programmable oxide catalysts (i.e., forced catalyst dynamics). We found that programmable catalysts could increase current density at a fixed overpotential (100&#8211;600&#215; over static rates) or reduce the overpotential required to reach a fixed current density of 10 mA cm&#8211;2 (45&#8211;140% reduction vs static). In our kinetic parametrization, the key parameters controlling the quality of the catalytic ratchet were the O*-to-OOH* and O*-to-OH* activation barriers. Our findings indicate that programmable catalysts may be a viable strategy for accelerating the OER or enabling lower-overpotential operation, but a more accurate kinetic parametrization is required for precise predictions of performance, ratchet quality, and resulting energy efficiency.</description>
+      <author>Sallye R. Gathmann, Christopher J. Bartel, Lars C. Grabow, Omar A. Abdelrahman, C. Daniel Frisbie, Paul J. Dauenhauer</author>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c00365</guid>
+    </item>
   </channel>
 </rss>

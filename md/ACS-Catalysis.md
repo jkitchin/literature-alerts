@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Apr 10 01:01:48 2024
+Created on Thu Apr 11 01:02:56 2024
 
-Found 16 results from 2024-04-03 to 2024-04-10
+Found 19 results from 2024-04-04 to 2024-04-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Reductive Aminomethylation Using Ammonium Formate and Methanol as N1 and C1 Source: Direct Synthesis of Mono- and Di-Methylated Amines   
-
-OpenAlex: https://openalex.org/W4393409196    
-Open access: False
-    
-[Ishani Borthakur](https://openalex.org/A5016156494), [S. K. Nandi](https://openalex.org/A5073045807), [Yuvraj Bilora](https://openalex.org/A5094305289), [Biswajit Sadhu](https://openalex.org/A5042696274), [Sabuj Kundu](https://openalex.org/A5070370920), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00346.
-    
-No abstract    
-
-    
-
-## Hydrophobic Surface Modification of Cu-Based Catalysts for Enhanced Semihydrogenation of Acetylene in Excess Ethylene   
-
-OpenAlex: https://openalex.org/W4393409197    
-Open access: False
-    
-[Ting Liu](https://openalex.org/A5064968189), [Jinqi Xiong](https://openalex.org/A5005831427), [Qian Luo](https://openalex.org/A5052747544), [Shanjun Mao](https://openalex.org/A5017864467), [Yong Wang](https://openalex.org/A5030325177), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05466.
-    
-No abstract    
-
-    
-
-## Revealing Catalyst Self-Adjustment in C–S Cross-Coupling through Multiscale Liquid-Phase Electron Microscopy   
-
-OpenAlex: https://openalex.org/W4393500093    
-Open access: False
-    
-[Alexey S. Kashin](https://openalex.org/A5047280120), [D. M. Arkhipova](https://openalex.org/A5022848358), [Liliya T. Sahharova](https://openalex.org/A5009374050), [Julia V. Burykina](https://openalex.org/A5030204094), [Valentine P. Ananikov](https://openalex.org/A5053135866), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06258.
-    
-Carbon–carbon and carbon–heteroatom bond formation mediated by transition metals is a powerful and convenient methodology for organic synthesis. To effectively meet the demands of catalyst design, an in-depth understanding of the reaction mechanisms and pathways of active species evolution is essential. Advances in electron microscopy now offer unprecedented multilevel visualization of liquid-phase chemical systems, providing a powerful tool for mechanistic studies. In this work, we found that the use of either nickel- or copper-based catalyst precursors with preinstalled thiolate groups in combination with pyridinium ionic liquid as the reaction medium leads to a positive synergistic effect, resulting in the formation of transition metal species with high catalytic activity in the C–S cross-coupling reaction between aryl halides and thiols or disulfides. Through multiscale in situ and operando electron microscopy in the liquid phase, we elucidated the self-adjustment of the catalytic system and revealed the simultaneous emergence of metallic nanoparticles and corresponding thiolate species, leading to the independent activation of the C- and S-substrates and the subsequent elimination of the product via organic group metathesis. The proposed methodology for the catalytic preparation of aromatic organosulfides was used for the design of synthetic routes to pharmacologically important substances.    
-
-    
-
-## Cu–Sn Bimetallic Activated Carbon–Carbon Coupling for Efficient Furfural Electroreduction   
-
-OpenAlex: https://openalex.org/W4393536047    
-Open access: False
-    
-[Xiaofeng Liu](https://openalex.org/A5026108994), [Yuhan Sun](https://openalex.org/A5058040690), [Hao Ren](https://openalex.org/A5041301033), [Yuan Lin](https://openalex.org/A5041151940), [Mingbo Wu](https://openalex.org/A5063554744), [Zhong-Tao Li](https://openalex.org/A5016932552), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06346.
-    
-Electrochemically driven carbon–carbon coupling utilizing renewable electricity under ambient conditions has emerged as an innovative approach for synthesizing high-value chemicals, which still faces inherent challenges such as low conversion rates and poor selectivity. While electroreducing furfural to hydrofuroin can produce high-quality biofuel, its efficiency need to be promoted. Herein, Cu–Sn bimetallic catalyst has been developed with a conversion rate of furfural of >97% and hydrofuroin selectivity of >67% through equilibrium of the interfacial intermediate *H and *fur-CHOH, which exhibits the greatest state-of-the-art overall performance. Characterization and theoretical calculation reveal that Cu serves as the active site for generating *fur-CHOH, whose electron density can be decreased by introducing Sn, and results in a higher *fur-CHOH coverage and a lower energy barrier of dimerization. Moreover, adding Sn also enables sluggish *H formation to balance interfacial *fur-CHOH and *H, leading to reduced hydrogenation byproducts. The as-developed approach provides valuable insights for optimizing other C–C electrocoupling reactions for the synthesis of high-value chemicals.    
-
-    
-
-## Electrochemical Activation of Surface Oxygen for Efficient Oxidative Dehydrogenation Reaction at Elevated Temperatures   
-
-OpenAlex: https://openalex.org/W4393543441    
-Open access: False
-    
-[Xiang Sun](https://openalex.org/A5046495634), [Heejae Yang](https://openalex.org/A5036055521), [Benchi Chen](https://openalex.org/A5013355878), [Min-Bo Zhou](https://openalex.org/A5063043078), [Yongjian Ye](https://openalex.org/A5039519827), [Xiaobao Li](https://openalex.org/A5032155655), [Hui Zhang](https://openalex.org/A5065795687), [Bo Yu](https://openalex.org/A5026318943), [Yifeng Li](https://openalex.org/A5033510515), [Jeong Woo Han](https://openalex.org/A5086565285), [Yan Chen](https://openalex.org/A5017365002), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04731.
-    
-Oxidative dehydrogenation (ODH) of alkane with CO2 as the oxidant has attracted worldwide attention as a promising approach for simultaneously producing valuable alkenes and greenhouse gas utilization. The selectivity and yield of the produced alkene, nevertheless, require further enhancement for practical applications. In this work, taking Sr2Ti0.8Co0.6Fe0.6O6-δ (STCF) as the electrode material, we demonstrate that a solid oxide electrolysis cell (SOEC) can efficiently catalyze the ODH of ethane to ethylene on the anode and reduce CO2 to CO at the cathode. The optimal yield of ethylene reached 66.3% at 800 °C, which is among the highest values reported in the literature. Such ethane ODH activity is attributed to the activation of surface oxygen on the STCF anode by electrolytic voltage, as revealed experimentally by advanced spectroscopic techniques. The density functional theory calculation further implied that the electrochemically driven formation of active oxygen species on the STCF surface upshifts the O 2p-band center, facilitates electron transfer, and enhances surface adsorption, leading to a strongly promoted dehydrogenation process. The results clarify the critical role of oxygen activity in determining the electrochemical ODH performance and can guide the rational design of catalysts for other electrosynthesis processes.    
-
-    
-
-## In Situ Nitrogen Infiltration into an Ordered Pt3Co Alloy with sp–d Hybridization to Boost Fuel Cell Performance   
-
-OpenAlex: https://openalex.org/W4393715758    
-Open access: False
-    
-[Mengzhao Zhu](https://openalex.org/A5016071139), [Huijuan Zhang](https://openalex.org/A5064487127), [Yanjun Hu](https://openalex.org/A5015285184), [Fangyao Zhou](https://openalex.org/A5009732893), [Xiaoping Gao](https://openalex.org/A5007104709), [Dayin He](https://openalex.org/A5011819769), [Xuyan Zhao](https://openalex.org/A5002050316), [Chao Zhao](https://openalex.org/A5021429869), [Jing Wang](https://openalex.org/A5037677450), [Wenan Tie](https://openalex.org/A5032881562), [Tian Xia](https://openalex.org/A5020470912), [Bo Wang](https://openalex.org/A5024893590), [Takeshi Yao](https://openalex.org/A5073368369), [Huang Zhou](https://openalex.org/A5090113007), [Zhe Wang](https://openalex.org/A5090331942), [Jin Wang](https://openalex.org/A5018244700), [Wenxin Guo](https://openalex.org/A5022002423), [Yuen Wu](https://openalex.org/A5022989538), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06223.
-    
-No abstract    
-
-    
 
 ## Advances in Bridging Homogeneous and Heterogeneous Water Oxidation Catalysis by Insolubilized Polyoxometalate Clusters   
 
@@ -179,5 +113,104 @@ Open access: True
 , ACS catalysis. 14(7)] 2024.https://doi.org/10.1021/csv014i007_1787821 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i007_1787821)).
     
 No abstract    
+
+    
+
+## Assessment of the Reaction Location of Skeletal 1-Butene Isomerization over Ferrierite   
+
+OpenAlex: https://openalex.org/W4394566285    
+Open access: True
+    
+[Pawel A. Chmielniak](https://openalex.org/A5093007599), [Karoline L. Hebisch](https://openalex.org/A5025006045), [Urim Pearl Kim](https://openalex.org/A5035794316), [Jeffrey Kenvin](https://openalex.org/A5069105128), [Carsten Sievers](https://openalex.org/A5088976109), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00786 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00786)).
+    
+No abstract    
+
+    
+
+## Oxidative Redispersion-Derived Single-Site Ru/CeO2 Catalysts with Mobile Ru Complexes Trapped by Surface Hydroxyls Instead of Oxygen Vacancies   
+
+OpenAlex: https://openalex.org/W4394566556    
+Open access: False
+    
+[Peng Fei Liu](https://openalex.org/A5037077755), [Zheng Chen](https://openalex.org/A5000696502), [Wei Liu](https://openalex.org/A5060633377), [Xiaodong Wu](https://openalex.org/A5004299496), [Shuang Liu](https://openalex.org/A5064821504), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01230.
+    
+No abstract    
+
+    
+
+## Fluorinated Biphenyl Phosphine Ligands for Accelerated [Au(I)]-Catalysis   
+
+OpenAlex: https://openalex.org/W4394567969    
+Open access: False
+    
+[Riccardo Pedrazzani](https://openalex.org/A5031838921), [Sofia Kiriakidi](https://openalex.org/A5003292804), [Magda Monari](https://openalex.org/A5083086799), [Irene Lazzarini](https://openalex.org/A5066784317), [Giulio Bertuzzi](https://openalex.org/A5019212035), [Carlos Silva López](https://openalex.org/A5058546077), [Marco Bandini](https://openalex.org/A5077034819), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00593.
+    
+Fluorinated JohnPhos-type ligands are proposed as accelerating tools in homogeneous gold(I) catalysis, with PedroPhosAuCl (Cat1) as the most efficient one. The ligands as well as the corresponding gold complexes were synthesized in high yields and fully characterized also via single-crystal X-ray diffraction. A secondary interaction between the distal phenyl ring of the phosphane ligand and the metal center is identified as key for the fine-tuning of the overall catalytic performance of the complexes. In particular, kinetic as well as computational analysis revealed that by accommodating F atoms on the biphenyl pendant of the ligand, more reactive organo-gold intermediates are realized toward subsequent nucleophilic condensations. The gold-catalyzed indole-hydroarylation of 1,6-enynes and the intramolecular hydroindolynation of alkynes have been adopted as benchmark reactions to exemplify these accelerating effects.    
+
+    
+
+## Electrifying Energy and Chemical Transformations with Single-Atom Alloy Nanoparticle Catalysts   
+
+OpenAlex: https://openalex.org/W4394576674    
+Open access: True
+    
+[Qiang Gao](https://openalex.org/A5035090837), [Xue Han](https://openalex.org/A5038027282), [Yuanqi Liu](https://openalex.org/A5024914236), [Huiyuan Zhu](https://openalex.org/A5087106141), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00365 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00365)).
+    
+Single-atom alloys (SAAs) have attracted considerable attention as promising electrocatalysts in reactions central to energy conversion and chemical transformation. In contrast to monometallic nanocrystals and metal alloys, SAAs possess unique and intriguing physicochemical properties, positioning them as ideal model systems for studying structure–property relationships. However, the field is still in its early stages. In this Perspective, we first review and summarize rational synthesis methods and advanced characterization techniques for SAA nanoparticle catalysts. We then emphasize the extensive applications of SAAs in a range of electrocatalytic reactions, including fuel cell reactions, water splitting, and carbon dioxide and nitrate reductions. Finally, we provide insights into existing challenges and prospects associated with the controlled synthesis, characterization, and design of SAA catalysts.    
+
+    
+
+## Research Progress on Preparation of Metal Oxide Catalysts with Porous Structure and Their Catalytic Purification of Diesel Engine Exhausts Gases   
+
+OpenAlex: https://openalex.org/W4394578929    
+Open access: False
+    
+[Shian Zhou](https://openalex.org/A5008476939), [Lanyi Wang](https://openalex.org/A5016660396), [Siyu Gao](https://openalex.org/A5084746751), [Xinyu Chen](https://openalex.org/A5078226849), [Chunlei Zhang](https://openalex.org/A5088059015), [Di Yu](https://openalex.org/A5038450038), [Xiaoqiang Fan](https://openalex.org/A5067365795), [Xin Yu](https://openalex.org/A5045949335), [Zhao Zhang](https://openalex.org/A5065361552), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00323.
+    
+Because of their special physicochemical properties, pore-structured metal oxide catalysts are widely used in environmental catalysis, energy chemicals, fuel cells, medicine, and other related fields. In recent years, these oxides have also been increasingly studied in the catalytic purification of diesel engine exhaust gases. In this paper, the research progresses of preparation methods of porous metal oxide catalysts and their application in the catalytic purification of diesel engine exhaust were reviewed. The advantages and disadvantages of different methods for the synthesis of porous metal oxide catalysts were elaborated, as well as the mechanism comparison of different types of porous metal oxide catalysts in catalytic purification of diesel engine exhaust pollutants. Finally, the current issues on the preparation of porous metal oxide catalysts and their development trends in application of diesel engine exhaust purification were summarized and discussed. The pore-structured metal oxide catalysts are beneficial for improving the contact efficiency between catalysts and pollutants, which can enhance the catalytic purification efficiency of catalysts. Meanwhile, the intrinsic activity is the most fundamental factor for determining their catalytic activity except for porous structure effects. In addition, this paper can help researchers to deeply understand the important effect of porous metal oxide catalysts in the treatment of diesel engine exhaust pollutants and provide theoretical guidance for the design and development of high-efficiency catalysts.    
+
+    
+
+## An Overview on Dynamic Phase Transformation and Surface Reconstruction of Iron Catalysts for Catalytic Hydrogenation of COx for Hydrocarbons   
+
+OpenAlex: https://openalex.org/W4394579619    
+Open access: False
+    
+[Xiaoxu Ding](https://openalex.org/A5000821238), [Minghui Zhu](https://openalex.org/A5052454489), [Bo Sun](https://openalex.org/A5008837035), [Zixu Yang](https://openalex.org/A5017547546), [Yi‐Fan Han](https://openalex.org/A5057242677), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05854.
+    
+Catalytic hydrogenation of COx (CO and CO2) with renewable H2 represents a feasible practice for carbon capture and utilization and synthesis of chemical commodities, such as olefins, aromatics, and higher alcohols as well as liquid fuels. Direct synthesis via Fischer–Tropsch Synthesis (FTS) is considered as one of the most promising processes. Iron-based catalysts have been recognized as efficient candidates for catalytic hydrogenation of both CO and CO2 to value-added hydrocarbons due to their superior activities for C–O bond dissociative activation, reverse/water gas shift reaction, and C–C chain growth. The structural complexity and dynamic evolution of iron-based catalysts under COx-FTS conditions impose challenges on the understanding of the reaction mechanisms, the dynamic structure of active sites and further improvements of the catalytic performance. In this Review, we discussed the recent developments in characterization techniques for identifying the structural evolution of iron-based catalysts under reaction conditions. We also summarized feasible strategies to manipulate the process of the structural change via promoter interfacing, catalyst pretreating protocols, and application of external physical fields. Finally, we concluded the review by identifying current challenges and opportunities for the next generation of COx catalytic hydrogenation process with an emphasis on the combinatorial contributions from in situ/operando characterizations, chemometrics and machine learning.    
+
+    
+
+## Structural Evolution of Oxide-Derived Nanostructured Silver Electrocatalysts during CO2 Electroreduction   
+
+OpenAlex: https://openalex.org/W4394579662    
+Open access: False
+    
+[Mengying Yang](https://openalex.org/A5067922425), [Jingjing Wu](https://openalex.org/A5059630698), [Yue Li](https://openalex.org/A5050556980), [Haitao Pan](https://openalex.org/A5060188714), [Hongbo Cui](https://openalex.org/A5071407794), [Xianglong Lu](https://openalex.org/A5035794202), [Xiaohong Tang](https://openalex.org/A5002911869), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00217.
+    
+Oxide-derived (OD) metals have been demonstrated as a kind of promising catalyst with superior catalytic activity for carbon dioxide electroreduction. Here we fabricate OD nanoporous silver by a simple, cost-effective electrochemical oxidation–reduction treatment, which enables reducing carbon dioxide to carbon monoxide with a Faradaic efficiency of 87% at −0.8 V vs RHE, significantly higher than that of untreated silver foil under the same conditions. Electron backscattered diffraction analysis reveals that there is a distinct grain refining during the initial CO2 electrochemical reduction from Ag oxide to OD-Ag. Experiment results indicated that the catalytic activity and selectivity are closely linked to the grain boundary and nanoporous structure on the surface, which has also been proven by theoretical calculation. However, after a long catalysis time (12 h), it was found that the surface grain coarsened and the thickness of the nanostructured layer reduced, resulting in the deactivation of the OD-Ag electrode. A dissolution–redeposition mechanism was proposed to govern the degradation of OD-Ag. The catalytic activity can be regenerated again by applying electrochemical oxidation–reduction treatment, which can increase the thickness of the porous layer and electrochemical active surface area significantly.    
+
+    
+
+## Biocatalytic Enantioselective Reduction of Cyclopropenyl Esters and Ketones Using Ene-Reductases   
+
+OpenAlex: https://openalex.org/W4394581090    
+Open access: False
+    
+[Tomohiro Yasukawa](https://openalex.org/A5045482234), [Pierre Gilles](https://openalex.org/A5083465305), [Juliette Martin](https://openalex.org/A5035382136), [Julien Boutet](https://openalex.org/A5069511260), [Janine Cossy](https://openalex.org/A5040685904), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00899.
+    
+Enantioselective reduction of cyclopropenyl esters and ketones to optically active cyclopropanes has been achieved by using whole-cell-overexpressing ene-reductases (EREDs). By using these enzymes, trans-cyclopropanes were isolated in good yield and high enantiomeric excess. A wide range of optically active cyclopropane esters and ketones were obtained, and a variety of substituent patterns on the cyclopropenes were tolerated.    
+
+    
+
+## Ene-Reductase-Catalyzed Enantioselective Desymmetrization of Cyclohexadienones: Straightforward Access to All-Carbon Quaternary Stereocenters   
+
+OpenAlex: https://openalex.org/W4394581211    
+Open access: False
+    
+[Xiaofan Wu](https://openalex.org/A5037955329), [Lin Yang](https://openalex.org/A5069352060), [Zhigang Liu](https://openalex.org/A5045267855), [Ke Zhang](https://openalex.org/A5030064573), [Zedu Huang](https://openalex.org/A5015046053), [Fen‐Er Chen](https://openalex.org/A5001652506), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00239.
+    
+An unprecedented enzyme-catalyzed enantioselective desymmetrization of achiral 2,5-cyclohexadienones has been reported. Using ene-reductases as the biocatalysts, a variety of γ,γ-disubstituted cyclohexadienones were reduced to the respective chiral cyclohexenones bearing an all-carbon quaternary stereocenter in high yields (up to 96%) along with low levels of over-reduction (less than 4% cyclohexanones in most cases) and good enantioselectivities (mostly 99% ee), which are superior to the enantioselectivities obtained with the chemocatalysis. A mutagenesis study indicated residue Q232 was likely important for NCR in providing cyclohexenones selectively over cyclohexanones, and molecular dynamics (MD) simulations were performed to rationalize the good enantioselectivity and low level of over-reduction observed for this enzyme. The deuterium-labeling experiment suggested the hydrogen at the N5 atom of the reduced flavin cofactor added to the face of the substrate 1a that has the bulkier phenyl group facing toward it. The current work expands the substrate scope of ene-reductases, providing an efficient, stereoselective access to valuable chiral γ,γ-disubstituted cyclohexenones, and will stimulate the development of other classes of enzyme-catalyzed enantioselective desymmetrization of cyclohexadienones.    
 
     
