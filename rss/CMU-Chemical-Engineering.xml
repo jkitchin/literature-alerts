@@ -4,9 +4,79 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Apr 2024 01:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:02:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Large-Scale Optimization of Nonconvex MINLP Refinery Scheduling</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2024.108678</link>
+      <description>Robert E. Franzoi, Brenno C. Menezes, Jeffrey D. Kelly, Jorge Andrey Wilhelms Gut, Ignacio E. Grossmann, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4394000444
+
+                Modeling and optimization of large-scale refinery scheduling problems is challenging because of their complexity and size. Herein, we propose a mathematical model to represent such problems more accurately and realistically, and a state-of-the-art optimization framework for its solution. The framework leverages the use of mathematical optimization and algorithmic methods by combining modeling approaches (process design, model decompositions), solving strategies (rescheduling, heuristics), and machine learning regression (surrogate models). An industrial-size refinery scheduling problem (2 blenders, 4 feed tanks, distillation network with 5 towers, processing network with FCC, hydrotreaters, debutanizers, superfractionator, catalytic reformer) is formulated as a hierarchical nonconvex mixed-integer nonlinear programming (MINLP) model and is successfully optimized, providing higher profitability and more efficient scheduling operations considering 12 feedstocks, 10 products and multiple scenarios for time horizon and step. Results highlight the importance of tuning scheduling parameters and employing an enhanced computer-aided framework to enable the solution of industrial refinery scheduling operations.</description>
+      <author>Robert E. Franzoi, Brenno C. Menezes, Jeffrey D. Kelly, Jorge Andrey Wilhelms Gut, Ignacio E. Grossmann</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108678</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4va90010c</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Advances. None(None)] 2024. https://openalex.org/W4394609944
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4va90010c</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4em90011a</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Processes &amp; impacts. None(None)] 2024. https://openalex.org/W4394610056
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4em90011a</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4ew90011a</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Water research &amp; technology. None(None)] 2024. https://openalex.org/W4394626148
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ew90011a</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4en90012j</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Nano. None(None)] 2024. https://openalex.org/W4394626337
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4en90012j</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4ea90013h</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Atmospheres. None(None)] 2024. https://openalex.org/W4394626403
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ea90013h</guid>
+    </item>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v5</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2014. https://openalex.org/W4394266427
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v5</guid>
+    </item>
     <item>
       <title>Estimating ambient particulate organic carbon concentrations and partitioning using thermal optical measurements and the volatility basis set</title>
       <link>https://doi.org/10.6084/m9.figshare.3115603</link>
@@ -39,6 +109,26 @@
     </item>
     <item>
       <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v4</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2013. https://openalex.org/W4394074877
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v4</guid>
+    </item>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v3</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2013. https://openalex.org/W4394281422
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v3</guid>
+    </item>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
       <link>https://doi.org/10.6084/m9.figshare.858919</link>
       <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2013. https://openalex.org/W4394383699
 
@@ -46,6 +136,16 @@
       <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
       <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919</guid>
+    </item>
+    <item>
+      <title>NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data</title>
+      <link>https://doi.org/10.5281/zenodo.7823962</link>
+      <description>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://openalex.org/W4394037240
+
+                Simulated data presented in manuscript with title above, generated with the Met Office Unified Model, together with observations from KORUS-AQ and MODIS that are used in the model evaluation. The Terra/MODIS aerosol datasets were acquired from the Level-1 and Atmosphere Archive &amp; Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland https://ladsweb.nascom.nasa.gov/. All surface and aircraft observation data is freely and publicly available at https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, last access 10 June 2022.</description>
+      <author>Hamish Gordon, K. S. Carslaw, Adrian A. Hill, Paul R. Field, N. L. Abraham, A. J. Beyersdorf, Chelsea Corr&#8208;Limoges, Pratapaditya Ghosh, John Hemmings, Anthony C. Jones, Claudio S&#225;nchez, Xuemei Wang, Jonathan Wilkinson</author>
+      <pubDate>Tue, 11 Oct 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.7823962</guid>
     </item>
     <item>
       <title>Supporting information for "Neural network and ReaxFF comparison for Au properties, Int. J. Quantum Chem., 116(13), 979&#8211;987 (2016)."</title>

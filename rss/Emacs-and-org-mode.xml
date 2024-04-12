@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Emacs-and-org-mode.xml</link>
     <description>Emacs and org-mode</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Apr 2024 01:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:02:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Data Sets For The Simulated Ampi (Sampi) Load Balancing Simulation Workflow And Ondes3D Performance Analysis (Companion To Ccpe  - Euro-Par 2017 Special Issue)</title>
-      <link>https://doi.org/10.5281/zenodo.1068339</link>
-      <description>Rafael Keller Tesser, Lucas Mello Schnorr, Arnaud Legrand, Fabrice Dupros, Philippe O. A. Navaux, Zenodo (CERN European Organization for Nuclear Research). None(None)] 2017. https://openalex.org/W4393894701
-
-                This package contains data sets and scripts (in an Org-mode file) related to our submission to the special Euro-Par 2017 issue of the journal "Concurrency and Computation: Practice and Experience", under the title "Performance Modeling of a Geophysics Application to Accelerate Over-decomposition Parameter Tuning through Simulation".</description>
-      <author>Rafael Keller Tesser, Lucas Mello Schnorr, Arnaud Legrand, Fabrice Dupros, Philippe O. A. Navaux</author>
-      <pubDate>Wed, 29 Nov 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5281/zenodo.1068339</guid>
-    </item>
   </channel>
 </rss>

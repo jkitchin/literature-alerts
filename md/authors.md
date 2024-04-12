@@ -1,10 +1,21 @@
 # authors
 Description: List of authors
-Created on Thu Apr 11 01:02:50 2024
+Created on Fri Apr 12 01:02:46 2024
 
-Found 6 results from 2024-04-04 to 2024-04-11
+Found 9 results from 2024-04-05 to 2024-04-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464)
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
+OpenAlex: https://openalex.org/W4394266427    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2014.https://doi.org/10.6084/m9.figshare.858919.v5.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
+
+    
 
 ## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
 
@@ -25,6 +36,28 @@ Open access: True
 [Jacob R. Boes](https://openalex.org/A5034743236), [John R. Kitchin](https://openalex.org/A5003442464), Figshare. None(None)] 2016.https://doi.org/10.6084/m9.figshare.4272203.v1.
     
 Supporting information for the manuscript "Neural network predictions of segregation on AuPd(111) surfaces." This includes the supporting information file as submitted for publication along with figures and data discussed in that manuscript.    
+
+    
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
+OpenAlex: https://openalex.org/W4394074877    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2013.https://doi.org/10.6084/m9.figshare.858919.v4.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
+
+    
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
+OpenAlex: https://openalex.org/W4394281422    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2013.https://doi.org/10.6084/m9.figshare.858919.v3.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
 
     
 

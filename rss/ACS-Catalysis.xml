@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Apr 2024 01:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:02:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Advances in Bridging Homogeneous and Heterogeneous Water Oxidation Catalysis by Insolubilized Polyoxometalate Clusters</title>
-      <link>https://doi.org/10.1021/acscatal.4c00201</link>
-      <description>Qiyu Hu, Hongshan Zhou, Yong Ding, Thomas W&#229;gberg, Xiuxiu Han, ACS catalysis. None(None)] 2024. https://openalex.org/W4393855529
-
-                No abstract</description>
-      <author>Qiyu Hu, Hongshan Zhou, Yong Ding, Thomas W&#229;gberg, Xiuxiu Han</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00201</guid>
-    </item>
-    <item>
-      <title>Tuning the d-Band Center of Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; via Octahedral and Tetrahedral Codoping for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.3c06256</link>
-      <description>Xiaotian Wu, Zhiyu Shao, Qian Zhu, Xiangyan Hou, Chao Wang, Jianrong Zeng, Keke Huang, Shouhua Feng, ACS catalysis. None(None)] 2024. https://openalex.org/W4393857012
-
-                No abstract</description>
-      <author>Xiaotian Wu, Zhiyu Shao, Qian Zhu, Xiangyan Hou, Chao Wang, Jianrong Zeng, Keke Huang, Shouhua Feng</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06256</guid>
-    </item>
-    <item>
-      <title>Controllable Diverse Construction of &lt;i&gt;gem&lt;/i&gt;-Difluoroallylated Bicyclo[1.1.1]pentanes and Cyclobutanes from [1.1.1]Propellane via Copper Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00281</link>
-      <description>Xiao-Tian Feng, Qiao&#8208;Qiao Min, Xiangfeng Zeng, Hang Zhao, Xingang Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393858800
-
-                No abstract</description>
-      <author>Xiao-Tian Feng, Qiao&#8208;Qiao Min, Xiangfeng Zeng, Hang Zhao, Xingang Zhang</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00281</guid>
-    </item>
-    <item>
-      <title>Regeneration of NAD(P)H and its Analogues by Photocatalysis with Ionized Carbon Nitride</title>
-      <link>https://doi.org/10.1021/acscatal.4c00841</link>
-      <description>Zaixiang Xu, Zhongwei Fan, Hanchi Chen, Jianguo Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4393859085
-
-                The regeneration of NAD(P)H and its analogues is crucial for biocatalytic processes. However, despite the efficiency of enzymatic catalysis in regenerating NAD(P)H, the sustainability of enzymes is often compromised, particularly under extreme catalytic conditions. Moreover, artificial cofactors may present advantages in certain reactions due to their stability and versatility, yet the substrate specificity of enzymes poses significant challenges to their regeneration through the enzymatic method. Therefore, it is imperative to develop a highly stable regeneration method that can be adapted to both natural and artificial cofactors. In this work, employing potassium-ion-doped carbon nitride (ionCN-0.2) as a catalyst not only achieves high-efficiency photocatalytic regeneration of NAD(P)H, comparable to that of glucose dehydrogenase (GDH), but also a remarkable ability to regenerate nicotinamide analogues. This enhanced performance stems from the tunable negative &#950;-potential, which effectively adsorbs the positively charged [Cp*Rh(bpy)H2O]2+ mediator, resulting in enhanced regeneration kinetics of the nicotinamide moiety. The catalyst demonstrates superior performance compared to the reported systems; the optimal regeneration rate reaches 0.55 mmol L&#8211;1 gcat&#8211;1 min&#8211;1 and approaches enzymatic regeneration efficiency. Expanding the reaction conditions to a wider temperature and pH range also confirms the effectiveness and sufficient stability of this photocatalytic system, offering a promising strategy for stable cofactor regeneration in biocatalytic processes.</description>
-      <author>Zaixiang Xu, Zhongwei Fan, Hanchi Chen, Jianguo Wang</author>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00841</guid>
-    </item>
-    <item>
-      <title>Local Electronic Structure Modulation of Interfacial Oxygen Vacancies Promotes the Oxygen Activation Capacity of Pt/Ce&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;M&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&#8722;&#948;&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.3c06234</link>
-      <description>Weiping Yang, Fuyuan Qi, Wei An, Haochen Yu, Shutong Liu, Peipei Ma, Rui Chen, Shuangxi Liu, Lan&#8208;Lan Lou, Kai Yu, ACS catalysis. None(None)] 2024. https://openalex.org/W4393862387
-
-                No abstract</description>
-      <author>Weiping Yang, Fuyuan Qi, Wei An, Haochen Yu, Shutong Liu, Peipei Ma, Rui Chen, Shuangxi Liu, Lan&#8208;Lan Lou, Kai Yu</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06234</guid>
-    </item>
-    <item>
-      <title>Rational Design of Pd-Based Alloys for 1,3-Butadiene Selective Hydrogenation via Equilibrium Models of Nanoparticles</title>
-      <link>https://doi.org/10.1021/acscatal.4c01076</link>
-      <description>Jin Liu, Yihao Zhang, Jiao Wei, Jing Zhu, Haoxiang Xu, Daojian Cheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4393870438
-
-                No abstract</description>
-      <author>Jin Liu, Yihao Zhang, Jiao Wei, Jing Zhu, Haoxiang Xu, Daojian Cheng</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01076</guid>
-    </item>
-    <item>
-      <title>ZnO Nanowire Arrays Decorated with Cu Nanoparticles for High-Efficiency Nitrate to Ammonia Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.3c04398</link>
-      <description>Anlin Feng, Yunxia Hu, Xiaoxuan Yang, Huaijun Lin, Qian Wang, Jie Xu, Anmin Liu, Gang Wu, Qingyang Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4393898872
-
-                The electrocatalytic transformation of waste nitrate into useful ammonia is a "one stone, two birds" strategy, which is commendatory from the viewpoint of the environment. In this vein, developing catalysts with high efficiency, selectivity, and stability is desired to make the attractive technology viable. Herein, we synthesized an economical and scalable electrocatalyst of Cu nanoparticles dispersed onto ZnO nanowire arrays (Cu@ZnO NWA) for nitrate reduction reaction (NO3&#8211;RR). This catalyst constructed on the Cu foam achieved a high ammonia yield of &#8764;6.03 mg cm&#8211;2 h&#8211;1, a Faradaic efficiency of &#8764;89.14%, and good stability for the NO3&#8211;RR in the Ar-saturated 0.1 M KOH electrolyte with the presence of 0.05 M KNO3, superior to most Cu-based catalysts reported in the literature. According to electrochemical measurements and density functional theory calculations, ZnO nanowires offer stable support to accomplish uniform dispersion of Cu nanoparticles and provide a synergy to boost electrocatalytic properties of Cu catalysts. This synergistic effect may originate from the electronic localization at the interface of Cu nanoparticles and ZnO nanowires, resulting in the electron deficiency of the Cu@ZnO NWA surface. Therefore, the promotional mechanisms are associated with enhanced adsorption of the electronegative nitrate ions and boosted charge transfer during the NO3&#8211;RR process. Notably, the Cu@ZnO NWA catalyst can be synthesized on most conductor surfaces through a flexible combination of electrodeposition and hydrothermal techniques, showing good commonality and scalability, thus having a vast industrialization potential for practical application.</description>
-      <author>Anlin Feng, Yunxia Hu, Xiaoxuan Yang, Huaijun Lin, Qian Wang, Jie Xu, Anmin Liu, Gang Wu, Qingyang Li</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04398</guid>
-    </item>
     <item>
       <title>Realizing the 4e&lt;sup&gt;&#8211;&lt;/sup&gt;/2e&lt;sup&gt;&#8211;&lt;/sup&gt; Pathway Transition of O&lt;sub&gt;2&lt;/sub&gt; Reduction on Co&#8211;N&lt;sub&gt;4&lt;/sub&gt;&#8211;C Catalysts by Regulating the Chemical Structures beyond the Second Coordination Shells</title>
       <link>https://doi.org/10.1021/acscatal.4c00781</link>
@@ -86,6 +16,26 @@
       <author>Wang Wang, Yunzi Hu, Peng Li, Yucheng Liu, Shengli Chen</author>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00781</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;Multi-Functionality of Methanol in Sustainable Catalysis: Beyond Methanol Economy&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c01632</link>
+      <description>G. Sivakumar, Rohit Kumar, Vinita Yadav, Virendra K. Gupta, Ekambaram Balaraman, ACS catalysis. None(None)] 2024. https://openalex.org/W4393969748
+
+                No abstract</description>
+      <author>G. Sivakumar, Rohit Kumar, Vinita Yadav, Virendra K. Gupta, Ekambaram Balaraman</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01632</guid>
+    </item>
+    <item>
+      <title>Catalytic Photoredox Carbobromination of Unactivated Alkenes with &#945;-Bromocarbonyls via the Mechanistically Distinct Radical-Addition Radical-Pairing Pathway</title>
+      <link>https://doi.org/10.1021/acscatal.4c00955</link>
+      <description>Himmat Singh, Raj Kumar Tak, Dhruba P. Poudel, Ramesh Giri, ACS catalysis. None(None)] 2024. https://openalex.org/W4393974861
+
+                No abstract</description>
+      <author>Himmat Singh, Raj Kumar Tak, Dhruba P. Poudel, Ramesh Giri</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00955</guid>
     </item>
     <item>
       <title>Issue Editorial Masthead</title>
@@ -108,6 +58,46 @@
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i007_1787821</guid>
     </item>
     <item>
+      <title>Temperature-Dependent Selectivity and Detection of Hidden Carbon Deposition in Methane Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.4c00228</link>
+      <description>Ulrike K&#252;st, Weijia Wang, Changda Wang, Helena E. Hagelin&#8208;Weaver, Johan Gustafson, Andrey Shavorskiy, Jason F. Weaver, Jan Knudsen, ACS catalysis. None(None)] 2024. https://openalex.org/W4393991266
+
+                Reaction products in heterogeneous catalysis can be detected either on the catalyst surface or in the gas phase after desorption. However, if atoms are dissolved in the catalyst bulk, then reaction channels can become hidden. This is the case if the dissolution rate of the deposits is faster than their formation rate. This might lead to the underestimation or even overlooking of reaction channels such as, e.g., carbon deposition during hydrocarbon oxidation reactions, which is problematic as carbon can have a significant influence on the catalytic activity. Here, we demonstrate how such hidden deposition channels can be uncovered by carefully measuring the product formation rates in the local gas phase just above the catalyst surface with time-resolved ambient pressure X-ray photoelectron spectroscopy. As a case study, we investigate methane oxidation on a polycrystalline Pd catalyst in an oxygen-lean environment at a few millibar pressure. By ramping the temperature between 350 and 525 &#176;C, we follow the time evolution of the different reaction pathways. Only in the oxygen mass-transfer limit do we observe CO production, while our data suggests that carbon deposition also happens outside this limit.</description>
+      <author>Ulrike K&#252;st, Weijia Wang, Changda Wang, Helena E. Hagelin&#8208;Weaver, Johan Gustafson, Andrey Shavorskiy, Jason F. Weaver, Jan Knudsen</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00228</guid>
+    </item>
+    <item>
+      <title>Br&#248;nsted Acid-Site Density Controls the Mechanistic Cycle and Product Selectivity in the Methanol-to-Hydrocarbons Reaction in BEA Zeolite</title>
+      <link>https://doi.org/10.1021/acscatal.3c06077</link>
+      <description>Juan Carlos Navarro de Miguel, Sang&#8211;Ho Chung, Alla Dikhtiarenko, Teng Li, Javier Patarroyo, Javier Ruiz&#8208;Mart&#237;nez, ACS catalysis. None(None)] 2024. https://openalex.org/W4393995116
+
+                In this work, we show that the acid-site density controls the dominant cycle during the methanol-to-hydrocarbons reaction on beta zeolite. Our experimental evidence is based on the study of beta zeolites with very similar diffusional pathways and different aluminum content. High selectivity to propylene was observed for samples with low Br&#248;nsted acid-site density, which is a consequence of the promotion of the olefinic cycle. Our results also confirm that the production of ethylene via the olefinic cycle is negligible. In contrast, high ethylene and aromatics are found at a high Br&#248;nsted acid-site density, highlighting the predominancy of the aromatic cycle. Operando UV&#8211;vis data show that monoenylic carbocationic species predominate on the olefinic cycle, whereas the aromatic cycle is dominated by polyalkylated monoaromatics. Analysis of the spectroscopy data also shows a linear correlation of the formation of polyaromatic species with the Br&#248;nsted acid-site density.</description>
+      <author>Juan Carlos Navarro de Miguel, Sang&#8211;Ho Chung, Alla Dikhtiarenko, Teng Li, Javier Patarroyo, Javier Ruiz&#8208;Mart&#237;nez</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06077</guid>
+    </item>
+    <item>
+      <title>Rh(III)-Catalyzed Atroposelective C&#8211;H Selenylation of 1-Aryl Isoquinolines</title>
+      <link>https://doi.org/10.1021/acscatal.4c01082</link>
+      <description>Dong&#8208;Song Zheng, Pei&#8208;Pei Xie, Fangnuo Zhao, Chao Zheng, Qianqun Gu, Shu&#8208;Li You, ACS catalysis. None(None)] 2024. https://openalex.org/W4393998487
+
+                Rhodium(III)-catalyzed atroposelective C&#8211;H selenylation of 1-aryl isoquinolines has been achieved. The direct C&#8211;H selenylation reaction between 1-aryl isoquinolines and 2-(phenylselanyl)isoindoline-1,3-dione in the presence of the chiral SCpRh(III) complex afforded a series of axially chiral 1-aryl isoquinoline selenides in up to 95% yield and 96% ee. The reaction features mild conditions and a broad substrate scope. DFT calculations revealed that the C&#8211;Se bond formation step proceeds through a formal SN2 pathway.</description>
+      <author>Dong&#8208;Song Zheng, Pei&#8208;Pei Xie, Fangnuo Zhao, Chao Zheng, Qianqun Gu, Shu&#8208;Li You</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01082</guid>
+    </item>
+    <item>
+      <title>Regio- and Diastereoselective Synthesis of &lt;i&gt;E&lt;/i&gt;-Allylic Amines through Hydroalkylation of Terminal Alkynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c00853</link>
+      <description>Bofei Wang, Avijit Hazra, Gojko Lali&#263;, ACS catalysis. None(None)] 2024. https://openalex.org/W4394014260
+
+                Allylic amines make up an important class of organic compounds that have inspired the development of numerous methods for their synthesis. One of the most effective transformations involves the coupling of internal alkynes with appropriate nitrogen-containing electrophiles in the presence of a transition metal catalyst. We have developed a method that allows transformation of terminal alkynes into allylic amines through a copper-catalyzed reductive cross coupling with &#945;-chloro phthalimides. The method has a broad substrate scope and results in the highly selective formation of the E-isomer of the anti-Markovnikov hydroamination product. A preliminary mechanistic study supports a mechanism that involves the hydrocupration of the alkyne and the formation of a solvent-caged radical pair.</description>
+      <author>Bofei Wang, Avijit Hazra, Gojko Lali&#263;</author>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00853</guid>
+    </item>
+    <item>
       <title>Assessment of the Reaction Location of Skeletal 1-Butene Isomerization over Ferrierite</title>
       <link>https://doi.org/10.1021/acscatal.4c00786</link>
       <description>Pawel A. Chmielniak, Karoline L. Hebisch, Urim Pearl Kim, Jeffrey Kenvin, Carsten Sievers, ACS catalysis. None(None)] 2024. https://openalex.org/W4394566285
@@ -120,10 +110,10 @@
     <item>
       <title>Oxidative Redispersion-Derived Single-Site Ru/CeO&lt;sub&gt;2&lt;/sub&gt; Catalysts with Mobile Ru Complexes Trapped by Surface Hydroxyls Instead of Oxygen Vacancies</title>
       <link>https://doi.org/10.1021/acscatal.4c01230</link>
-      <description>Peng Fei Liu, Zheng Chen, Wei Liu, Xiaodong Wu, Shuang Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4394566556
+      <description>Pengfei Liu, Zheng Chen, Wei Liu, Xiaodong Wu, Shuang Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4394566556
 
                 No abstract</description>
-      <author>Peng Fei Liu, Zheng Chen, Wei Liu, Xiaodong Wu, Shuang Liu</author>
+      <author>Pengfei Liu, Zheng Chen, Wei Liu, Xiaodong Wu, Shuang Liu</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01230</guid>
     </item>
@@ -196,6 +186,36 @@
       <author>Xiaofan Wu, Lin Yang, Zhigang Liu, Ke Zhang, Zedu Huang, Fen&#8208;Er Chen</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00239</guid>
+    </item>
+    <item>
+      <title>Enzymatic Fluoroethylation by a Fluoroethyl Selenium Analogue of S-Adenosylmethionine</title>
+      <link>https://doi.org/10.1021/acscatal.4c01112</link>
+      <description>Neng-Wei Yu, Huimin Zhao, Wenrui Wang, Min Dong, ACS catalysis. None(None)] 2024. https://openalex.org/W4394603197
+
+                Fluorine is a unique element with important roles in medicinal chemistry, agrochemistry, and materials chemistry. The fluoroethyl group is an important fluoroalkyl functional unit that is widely used in clinical drugs, 19F probes and 18F PET diagnostic drugs. Chemo- and regioselective fluoroethylation is difficult in chemical synthesis. To date, no enzymatic reaction for selective fluoroethylation has been reported. Based on the widespread natural methyl donor S-adenosine-l-methionine (SAM), we designed and synthesized a fluoroethyl SAM analogue (FEt-SAM). A stability study revealed that FEt-SAM was very labile under physiological conditions and gave the fluorine-elimination product vinyl-SAM. We circumvented this problem by replacing the S in FEt-SAM with Se to give fluoroethyl Se-adenosyl-l-selenomethionine (FEt-SeAM). By using halide methyltransferase (HMT) and its mutant for the in situ production of FEt-SeAM, we created cascade reactions of the HMT mutant with methyltransferases and fluoroethylated several O-, N-, S-, and C-nucleophiles. For methyltransferases that did not recognize FEt-SeAM well, such as DnrK and NovO, simple mutagenesis of the conserved hydrophobic residues (Leu and Ile) in the SAM binding pocket to smaller amino acids significantly increased the activities. Therefore, we have provided a useful tool for the late-stage fluoroethylation of natural products and drugs. This method could also be used to enzymatically prepare probes for 19F NMR and 18F PET tests.</description>
+      <author>Neng-Wei Yu, Huimin Zhao, Wenrui Wang, Min Dong</author>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01112</guid>
+    </item>
+    <item>
+      <title>Self-Reconstruction of Core&#8211;Shell Structured Electrocatalysts for Tailoring Reaction Pathways Revealed by Electrochemical Surface-Enhanced Raman Spectroscopy</title>
+      <link>https://doi.org/10.1021/acscatal.4c00269</link>
+      <description>Zhixuan Lu, Yajun Huang, Ningyu Chen, Chuan Liu, Xiang Wang, Bin Ren, ACS catalysis. None(None)] 2024. https://openalex.org/W4394605271
+
+                The electrocatalysts undergo structural reconstruction during electrocatalytic reactions, accompanied by significant variations in the catalytic activity and selectivity. However, it is still challenging to track in situ structural evolution and reaction process simultaneously to further figure out the origin of the surface reconstruction and its correlation to the electrocatalytic performance. By utilizing the species involved in formic acid electrooxidation reaction (FAER) as probe molecules, we employed electrochemical surface-enhanced Raman spectroscopy (EC-SERS) to reveal that the surface reconstruction process occurred on Au core-Pt shell nanoparticles (Au@Pt NPs). Via potential-dependent Raman features, we clearly revealed that the Au atoms from the Au core can migrate to the ultrathin Pt shell during FAER. Importantly, in situ SERS spectra showed that the reconstruction of Au@Pt NPs originated from the CO produced during the electrocatalytic process. We further showed that this structural transformation reduces the CO binding strength on Pt surfaces and tailors the reaction pathways of the FAER, thus facilitating the pathway of direct dehydrogenation of formic acid to CO2 by 2.6 times. This work demonstrates the importance of structural evolution of electrocatalysts during the reaction process to the catalytic performance, providing insight for designing highly efficient and robust electrocatalysts.</description>
+      <author>Zhixuan Lu, Yajun Huang, Ningyu Chen, Chuan Liu, Xiang Wang, Bin Ren</author>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00269</guid>
+    </item>
+    <item>
+      <title>Correction to &#8220;N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Betaines as Organocatalysts for &#946;-Butyrolactone Polymerization: Synthesis of Green PHB Plasticizers with Tailored Molecular Weights&#8221;</title>
+      <link>https://doi.org/10.1021/acscatal.4c01882</link>
+      <description>David S&#225;nchez-Roa, Valentina Sessini, Marta E. G. Mosquera, Juan C&#225;mpora, ACS catalysis. None(None)] 2024. https://openalex.org/W4394620060
+
+                ADVERTISEMENT RETURN TO ARTICLES ASAPPREVAddition/CorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to "N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Betaines as Organocatalysts for &#946;-Butyrolactone Polymerization: Synthesis of Green PHB Plasticizers with Tailored Molecular Weights"David S&#225;nchez-RoaDavid S&#225;nchez-RoaDepartamento de Qu&#237;mica Org&#225;nica y Qu&#237;mica Inorg&#225;nica, Instituto de Investigaci&#243;n en Qu&#237;mica "Andr&#233;s M. del R&#237;o" (IQAR) Universidad de Alcal&#225;, Campus Universitario, Alcal&#225; de Henares, Madrid 28871, SpainMore by David S&#225;nchez-Roa, Valentina SessiniValentina SessiniDepartamento de Qu&#237;mica Org&#225;nica y Qu&#237;mica Inorg&#225;nica, Instituto de Investigaci&#243;n en Qu&#237;mica "Andr&#233;s M. del R&#237;o" (IQAR) Universidad de Alcal&#225;, Campus Universitario, Alcal&#225; de Henares, Madrid 28871, SpainMore by Valentina Sessinihttps://orcid.org/0000-0003-1205-4586, Marta E. G. Mosquera*Marta E. G. MosqueraDepartamento de Qu&#237;mica Org&#225;nica y Qu&#237;mica Inorg&#225;nica, Instituto de Investigaci&#243;n en Qu&#237;mica "Andr&#233;s M. del R&#237;o" (IQAR) Universidad de Alcal&#225;, Campus Universitario, Alcal&#225; de Henares, Madrid 28871, Spain*Email: [email protected]More by Marta E. G. Mosquerahttps://orcid.org/0000-0003-2248-3050, and Juan C&#225;mpora*Juan C&#225;mporaInstituto de Investigaciones Qu&#237;micas, CSIC-Universidad de Sevilla, Sevilla 41092, Spain*Email: [email protected]More by Juan C&#225;mporahttps://orcid.org/0000-0001-7305-1296Cite this: ACS Catal. 2024, 14, XXX, 6203Publication Date (Web):April 9, 2024Publication History Received28 March 2024Published online9 April 2024https://doi.org/10.1021/acscatal.4c01882&#169; 2024 The Authors. Published by American Chemical Society. This publication is licensed under CC-BY 4.0. License Summary*You are free to share (copy and redistribute) this article in any medium or format and to adapt (remix, transform, and build upon) the material for any purpose, even commercially within the parameters below:Creative Commons (CC): This is a Creative Commons license.Attribution (BY): Credit must be given to the creator.View full license*DisclaimerThis summary highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. Carefully review the actual license before using these materials. This publication is Open Access under the license indicated. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (812 KB) Get e-Alertsclose Get e-Alerts</description>
+      <author>David S&#225;nchez-Roa, Valentina Sessini, Marta E. G. Mosquera, Juan C&#225;mpora</author>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01882</guid>
     </item>
   </channel>
 </rss>

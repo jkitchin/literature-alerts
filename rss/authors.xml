@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 11 Apr 2024 01:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:02:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v5</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2014. https://openalex.org/W4394266427
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v5</guid>
+    </item>
     <item>
       <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
       <link>https://doi.org/10.6084/m9.figshare.858919.v6</link>
@@ -26,6 +36,26 @@
       <author>Jacob R. Boes, John R. Kitchin</author>
       <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.4272203.v1</guid>
+    </item>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v4</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2013. https://openalex.org/W4394074877
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v4</guid>
+    </item>
+    <item>
+      <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>
+      <link>https://doi.org/10.6084/m9.figshare.858919.v3</link>
+      <description>Prateek Mehta, John R. Kitchin, Paul A. Salvador, Figshare. None(None)] 2013. https://openalex.org/W4394281422
+
+                Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.</description>
+      <author>Prateek Mehta, John R. Kitchin, Paul A. Salvador</author>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.858919.v3</guid>
     </item>
     <item>
       <title>Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"</title>

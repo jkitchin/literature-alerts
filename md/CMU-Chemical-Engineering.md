@@ -1,10 +1,87 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Apr 11 01:02:57 2024
+Created on Fri Apr 12 01:02:57 2024
 
-Found 7 results from 2024-04-04 to 2024-04-11
+Found 17 results from 2024-04-05 to 2024-04-12
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
+
+## Large-Scale Optimization of Nonconvex MINLP Refinery Scheduling   
+
+OpenAlex: https://openalex.org/W4394000444    
+Open access: False
+    
+[Robert E. Franzoi](https://openalex.org/A5024970939), [Brenno C. Menezes](https://openalex.org/A5082709906), [Jeffrey D. Kelly](https://openalex.org/A5047954769), [Jorge Andrey Wilhelms Gut](https://openalex.org/A5006803541), [Ignacio E. Grossmann](https://openalex.org/A5056017028), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108678.
+    
+Modeling and optimization of large-scale refinery scheduling problems is challenging because of their complexity and size. Herein, we propose a mathematical model to represent such problems more accurately and realistically, and a state-of-the-art optimization framework for its solution. The framework leverages the use of mathematical optimization and algorithmic methods by combining modeling approaches (process design, model decompositions), solving strategies (rescheduling, heuristics), and machine learning regression (surrogate models). An industrial-size refinery scheduling problem (2 blenders, 4 feed tanks, distillation network with 5 towers, processing network with FCC, hydrotreaters, debutanizers, superfractionator, catalytic reformer) is formulated as a hierarchical nonconvex mixed-integer nonlinear programming (MINLP) model and is successfully optimized, providing higher profitability and more efficient scheduling operations considering 12 feedstocks, 10 products and multiple scenarios for time horizon and step. Results highlight the importance of tuning scheduling parameters and employing an enhanced computer-aided framework to enable the solution of industrial refinery scheduling operations.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394609944    
+Open access: True
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Advances. None(None)] 2024.https://doi.org/10.1039/d4va90010c ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/va/d4va90010c)).
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394610056    
+Open access: False
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Processes & impacts. None(None)] 2024.https://doi.org/10.1039/d4em90011a.
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394626148    
+Open access: False
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Water research & technology. None(None)] 2024.https://doi.org/10.1039/d4ew90011a.
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394626337    
+Open access: False
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Nano. None(None)] 2024.https://doi.org/10.1039/d4en90012j.
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394626403    
+Open access: True
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Atmospheres. None(None)] 2024.https://doi.org/10.1039/d4ea90013h ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ea/d4ea90013h)).
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
+OpenAlex: https://openalex.org/W4394266427    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2014.https://doi.org/10.6084/m9.figshare.858919.v5.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
+
+    
 
 ## Estimating ambient particulate organic carbon concentrations and partitioning using thermal optical measurements and the volatility basis set   
 
@@ -41,12 +118,45 @@ Supporting information for the manuscript "Neural network predictions of segrega
 
 ## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
 
+OpenAlex: https://openalex.org/W4394074877    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2013.https://doi.org/10.6084/m9.figshare.858919.v4.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
+
+    
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
+OpenAlex: https://openalex.org/W4394281422    
+Open access: True
+    
+[Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2013.https://doi.org/10.6084/m9.figshare.858919.v3.
+    
+Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. All images from the work have been included in a zipped folder.    
+
+    
+
+## Supporting Information - "Identifying Potential BO2 Oxide Polymorphs for Epitaxial Growth Candidates"   
+
 OpenAlex: https://openalex.org/W4394383699    
 Open access: True
     
 [Prateek Mehta](https://openalex.org/A5006329543), [John R. Kitchin](https://openalex.org/A5003442464), [Paul A. Salvador](https://openalex.org/A5011571372), Figshare. None(None)] 2013.https://doi.org/10.6084/m9.figshare.858919.
     
 Abstract: ======= Transition metal dioxides (BO2) exhibit a number of polymorphic structures with distinct properties, but the isolation of different polymorphs for a given composition is carried out using trial and error experimentation. We present computational studies of the relative stabilities and equations of state for six polymorphs (anatase, brookite, rutile, columbite, pyrite, and fluorite) of five different BO2 dioxides (B = Ti, V, Ru, Ir, and Sn). These properties were computed in a consistent fashion using several exchange correlation functionals within the density functional theory formalism, and the effects of the different functionals are discussed relative to their impact on predictive synthesis. We compare the computational results to prior observations of high-pressure synthesis and epitaxial film growth and then use this discussion to predict new accessible polymorphs in the context of epitaxial stabilization using isostructural substrates. For example, the relative stabilities of the columbite polymorph for VO2 and RuO2 are similar to those of TiO2 and SnO2, the latter two of which have been previously stabilized as epitaxial films. On Figshare ========== Data has been stored as a JSON file and contains information about how every calculation was setup, like the planewave cutoff, exchange correlation functional, k-point grid, etc. It also contains relevant output from the calculation, like total energies, volumes, unit cell parameters, atomic positions, forces, etc. Supporting images are included in a zipped folder. Full Article ======== http://pubs.acs.org/doi/abs/10.1021/am4059149 Documented supporting Info ====================== http://pubs.acs.org/doi/suppl/10.1021/am4059149/suppl_file/am4059149_si_001.pdf    
+
+    
+
+## NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data   
+
+OpenAlex: https://openalex.org/W4394037240    
+Open access: True
+    
+[Hamish Gordon](https://openalex.org/A5086004922), [K. S. Carslaw](https://openalex.org/A5061310552), [Adrian A. Hill](https://openalex.org/A5035347045), [Paul R. Field](https://openalex.org/A5091671093), [N. L. Abraham](https://openalex.org/A5078321071), [A. J. Beyersdorf](https://openalex.org/A5046735614), [Chelsea Corr‐Limoges](https://openalex.org/A5092431134), [Pratapaditya Ghosh](https://openalex.org/A5005781295), [John Hemmings](https://openalex.org/A5042271285), [Anthony C. Jones](https://openalex.org/A5025245146), [Claudio Sánchez](https://openalex.org/A5048082483), [Xuemei Wang](https://openalex.org/A5046135731), [Jonathan Wilkinson](https://openalex.org/A5019832668), Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022.https://doi.org/10.5281/zenodo.7823962.
+    
+Simulated data presented in manuscript with title above, generated with the Met Office Unified Model, together with observations from KORUS-AQ and MODIS that are used in the model evaluation. The Terra/MODIS aerosol datasets were acquired from the Level-1 and Atmosphere Archive & Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland https://ladsweb.nascom.nasa.gov/. All surface and aircraft observation data is freely and publicly available at https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, last access 10 June 2022.    
 
     
 
