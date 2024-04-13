@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Apr 2024 01:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:52:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Realizing the 4e&lt;sup&gt;&#8211;&lt;/sup&gt;/2e&lt;sup&gt;&#8211;&lt;/sup&gt; Pathway Transition of O&lt;sub&gt;2&lt;/sub&gt; Reduction on Co&#8211;N&lt;sub&gt;4&lt;/sub&gt;&#8211;C Catalysts by Regulating the Chemical Structures beyond the Second Coordination Shells</title>
-      <link>https://doi.org/10.1021/acscatal.4c00781</link>
-      <description>Wang Wang, Yunzi Hu, Peng Li, Yucheng Liu, Shengli Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4393940834
-
-                The catalytic performance of single-atom catalysts (SACs) is vitally determined by their coordination environments. So far, the catalytic manipulation of SACs has been mainly focused on the first and second nearest coordination structures of the center atoms. We herein demonstrate that the chemical environments beyond the second coordination shells also significantly influence the catalytic behaviors of SACs. Our findings reveal that the presence of graphitic nitrogen can induce a shift of the O2 reduction pathway on CoN4C sites from an energy-conversion favorite 4e&#8211; pathway to a H2O2-production desirable 2e&#8211; pathway. The remote graphitic N tunes the electronic structure of Co from the lower-spin state to the higher-spin state, as proved by the zero-field cooling (ZFC) temperature-dependent magnetic susceptibility, which weakens the adsorption of O2/*OOH, ultimately enhancing the selectivity toward H2O2. It is further revealed that the catalytic influence of graphitic N may be universally present in other SACs such as FeN4C and MnN4C. Impressively, the graphitic N-doped CoN4C exhibits a high H2O2 Faraday efficiency (82%) in a flow cell, with a remarkable H2O2 yield of 0.096 mmol cm&#8211;2 h&#8211;1 for 200 h at 0.358 V (vs RHE), which is sufficient for many applications such as the electro-Fenton-like degradation of the malachite green and demonstrated the feasibility of H2O2 electrosynthesis.</description>
-      <author>Wang Wang, Yunzi Hu, Peng Li, Yucheng Liu, Shengli Chen</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00781</guid>
-    </item>
     <item>
       <title>Correction to &#8220;Multi-Functionality of Methanol in Sustainable Catalysis: Beyond Methanol Economy&#8221;</title>
       <link>https://doi.org/10.1021/acscatal.4c01632</link>
@@ -216,6 +206,16 @@
       <author>David S&#225;nchez-Roa, Valentina Sessini, Marta E. G. Mosquera, Juan C&#225;mpora</author>
       <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01882</guid>
+    </item>
+    <item>
+      <title>Diastereo- and Enantioselective Dearomative Reductive Aryl-Fluoroalkenylation of Indoles by Nickel Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00560</link>
+      <description>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4394707978
+
+                Herein, we disclose a nickel-catalyzed dearomative reductive aryl-fluoroalkenylation of indoles by defluorinative coupling with gem-difluoroalkenes. The catalytic protocol affords a facile assembly of various monofluoroalkene-containing polycyclic fused indolines bearing two contiguous carbon stereocenters in high diastereo- and enantioselectivities with tolerance of diverse functional groups.</description>
+      <author>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00560</guid>
     </item>
   </channel>
 </rss>

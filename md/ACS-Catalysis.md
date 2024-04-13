@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Apr 12 01:02:56 2024
+Created on Sat Apr 13 00:52:16 2024
 
-Found 21 results from 2024-04-05 to 2024-04-12
+Found 21 results from 2024-04-06 to 2024-04-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Realizing the 4e–/2e– Pathway Transition of O2 Reduction on Co–N4–C Catalysts by Regulating the Chemical Structures beyond the Second Coordination Shells   
-
-OpenAlex: https://openalex.org/W4393940834    
-Open access: False
-    
-[Wang Wang](https://openalex.org/A5091348611), [Yunzi Hu](https://openalex.org/A5038320521), [Peng Li](https://openalex.org/A5001120009), [Yucheng Liu](https://openalex.org/A5039374096), [Shengli Chen](https://openalex.org/A5034911893), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00781.
-    
-The catalytic performance of single-atom catalysts (SACs) is vitally determined by their coordination environments. So far, the catalytic manipulation of SACs has been mainly focused on the first and second nearest coordination structures of the center atoms. We herein demonstrate that the chemical environments beyond the second coordination shells also significantly influence the catalytic behaviors of SACs. Our findings reveal that the presence of graphitic nitrogen can induce a shift of the O2 reduction pathway on CoN4C sites from an energy-conversion favorite 4e– pathway to a H2O2-production desirable 2e– pathway. The remote graphitic N tunes the electronic structure of Co from the lower-spin state to the higher-spin state, as proved by the zero-field cooling (ZFC) temperature-dependent magnetic susceptibility, which weakens the adsorption of O2/*OOH, ultimately enhancing the selectivity toward H2O2. It is further revealed that the catalytic influence of graphitic N may be universally present in other SACs such as FeN4C and MnN4C. Impressively, the graphitic N-doped CoN4C exhibits a high H2O2 Faraday efficiency (82%) in a flow cell, with a remarkable H2O2 yield of 0.096 mmol cm–2 h–1 for 200 h at 0.358 V (vs RHE), which is sufficient for many applications such as the electro-Fenton-like degradation of the malachite green and demonstrated the feasibility of H2O2 electrosynthesis.    
-
-    
 
 ## Correction to “Multi-Functionality of Methanol in Sustainable Catalysis: Beyond Methanol Economy”   
 
@@ -234,5 +223,16 @@ Open access: True
 [David Sánchez-Roa](https://openalex.org/A5046769905), [Valentina Sessini](https://openalex.org/A5044974820), [Marta E. G. Mosquera](https://openalex.org/A5011679409), [Juan Cámpora](https://openalex.org/A5041336405), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01882 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01882)).
     
 ADVERTISEMENT RETURN TO ARTICLES ASAPPREVAddition/CorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to "N-Heterocyclic Carbene-Carbodiimide (NHC-CDI) Betaines as Organocatalysts for β-Butyrolactone Polymerization: Synthesis of Green PHB Plasticizers with Tailored Molecular Weights"David Sánchez-RoaDavid Sánchez-RoaDepartamento de Química Orgánica y Química Inorgánica, Instituto de Investigación en Química "Andrés M. del Río" (IQAR) Universidad de Alcalá, Campus Universitario, Alcalá de Henares, Madrid 28871, SpainMore by David Sánchez-Roa, Valentina SessiniValentina SessiniDepartamento de Química Orgánica y Química Inorgánica, Instituto de Investigación en Química "Andrés M. del Río" (IQAR) Universidad de Alcalá, Campus Universitario, Alcalá de Henares, Madrid 28871, SpainMore by Valentina Sessinihttps://orcid.org/0000-0003-1205-4586, Marta E. G. Mosquera*Marta E. G. MosqueraDepartamento de Química Orgánica y Química Inorgánica, Instituto de Investigación en Química "Andrés M. del Río" (IQAR) Universidad de Alcalá, Campus Universitario, Alcalá de Henares, Madrid 28871, Spain*Email: [email protected]More by Marta E. G. Mosquerahttps://orcid.org/0000-0003-2248-3050, and Juan Cámpora*Juan CámporaInstituto de Investigaciones Químicas, CSIC-Universidad de Sevilla, Sevilla 41092, Spain*Email: [email protected]More by Juan Cámporahttps://orcid.org/0000-0001-7305-1296Cite this: ACS Catal. 2024, 14, XXX, 6203Publication Date (Web):April 9, 2024Publication History Received28 March 2024Published online9 April 2024https://doi.org/10.1021/acscatal.4c01882© 2024 The Authors. Published by American Chemical Society. This publication is licensed under CC-BY 4.0. License Summary*You are free to share (copy and redistribute) this article in any medium or format and to adapt (remix, transform, and build upon) the material for any purpose, even commercially within the parameters below:Creative Commons (CC): This is a Creative Commons license.Attribution (BY): Credit must be given to the creator.View full license*DisclaimerThis summary highlights only some of the key features and terms of the actual license. It is not a license and has no legal value. Carefully review the actual license before using these materials. This publication is Open Access under the license indicated. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (812 KB) Get e-Alertsclose Get e-Alerts    
+
+    
+
+## Diastereo- and Enantioselective Dearomative Reductive Aryl-Fluoroalkenylation of Indoles by Nickel Catalysis   
+
+OpenAlex: https://openalex.org/W4394707978    
+Open access: False
+    
+[Xinmiao Huang](https://openalex.org/A5022420223), [Min Ou](https://openalex.org/A5057465629), [Liu Hong](https://openalex.org/A5052087102), [Wenjie Qin](https://openalex.org/A5040165987), [Yuanhong Ma](https://openalex.org/A5033059956), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00560.
+    
+Herein, we disclose a nickel-catalyzed dearomative reductive aryl-fluoroalkenylation of indoles by defluorinative coupling with gem-difluoroalkenes. The catalytic protocol affords a facile assembly of various monofluoroalkene-containing polycyclic fused indolines bearing two contiguous carbon stereocenters in high diastereo- and enantioselectivities with tolerance of diverse functional groups.    
 
     

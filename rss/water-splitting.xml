@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 12 Apr 2024 01:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 00:52:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>The formation of unsaturated IrOx in SrIrO3 by cobalt-doping for acidic oxygen evolution reaction</title>
-      <link>https://doi.org/10.1038/s41467-024-46801-y</link>
-      <description>Jiawei Zhao, Kaihang Yue, Hong Zhang, Shuyin Wei, Jiawei Zhu, Dongdong Wang, Junze Chen, V. Yu. Fominski, Gao&#8208;Ren Li, Nature communications. 15(1)] 2024. https://openalex.org/W4393928569
-
-                Abstract Electrocatalytic water splitting is a promising route for sustainable hydrogen production. However, the high overpotential of the anodic oxygen evolution reaction poses significant challenge. SrIrO 3 -based perovskite-type catalysts have shown great potential for acidic oxygen evolution reaction, but the origins of their high activity are still unclear. Herein, we develop a Co-doped SrIrO 3 system to enhance oxygen evolution reaction activity and elucidate the origin of catalytic activity. In situ experiments reveal Co activates surface lattice oxygen, rapidly exposing IrO x active sites, while bulk Co doping optimizes the adsorbate binding energy of IrO x . The Co-doped SrIrO 3 demonstrates high oxygen evolution reaction electrocatalytic activity, markedly surpassing the commercial IrO 2 catalysts in both conventional electrolyzer and proton exchange membrane water electrolyzer.</description>
-      <author>Jiawei Zhao, Kaihang Yue, Hong Zhang, Shuyin Wei, Jiawei Zhu, Dongdong Wang, Junze Chen, V. Yu. Fominski, Gao&#8208;Ren Li</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-46801-y</guid>
-    </item>
-    <item>
-      <title>Enhanced oxygen evolution reaction of 2-dimensional Metal-Organic frameworks with tunable nitrogen functionalities by ion beam sputtering</title>
-      <link>https://doi.org/10.1016/j.cej.2024.151004</link>
-      <description>Woo Seok Cheon, Jeewon Bu, Sunghoon Jung, Jun-Young Yang, Sungkyun Choi, Jae Hyun Kim, Ji Hyun Baek, So Hyeon Park, Min Kyung Lee, Sang Eon Jun, Sung Hyuk Park, Hoonkee Park, Sol A Lee, Sung Hwan Cho, Mohammadreza Shokouhimehr, Mamoru Senna, Ho Won Jang, Chemical engineering journal (1996. Print). None(None)] 2024. https://openalex.org/W4393941984
-
-                Modification of metal&#8211;organic frameworks (MOFs) is recently under the spotlight due to their versatile properties and potential applications in electrochemical catalysis. Here, we successfully demonstrate nitrogen doping into the MOF electrocatalyst without noble metals using a facile, tunable ion beam sputtering (IBS) process for the first time and evaluate the role of the incorporated heteroatom. Two-dimensional Ni-naphthalene-2,6-dicarboxylic acid MOF (NiNDC) with large surface area was subjected to nitrogen IBS (NIBS) and exhibited significantly improved performance for oxygen evolution reaction (OER) with a low overpotential of 222 mV at 10 mA cm&#8722;2; a Tafel slope of 88 mV dec-1; and over 120 h of stability at 100 mA cm&#8722;2. The relationship between the nitrogen functionalities and catalytic activity was elucidated by spectroscopic analysis and electrochemical measurements, i.e., (i) pyridinic N as an electron-withdrawing group that directly enhances the reaction kinetics, (ii) pyrrolic N to stabilize the catalyst and (iii) graphitic N to enhance the electrical conductivity. We found that the electrocatalytic performance was affected by the ratio of the three nitrogen species, which was controllable by the accelerating potential (AP) of NIBS. This study provides insights into the influence of the chemical state of MOF surfaces on catalytic reactions and presents a novel method for effective nitrogen doping.</description>
-      <author>Woo Seok Cheon, Jeewon Bu, Sunghoon Jung, Jun-Young Yang, Sungkyun Choi, Jae Hyun Kim, Ji Hyun Baek, So Hyeon Park, Min Kyung Lee, Sang Eon Jun, Sung Hyuk Park, Hoonkee Park, Sol A Lee, Sung Hwan Cho, Mohammadreza Shokouhimehr, Mamoru Senna, Ho Won Jang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151004</guid>
-    </item>
-    <item>
-      <title>Oxygen evolution reaction on IrO2(110) is governed by Walden-type mechanisms</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4101847/v1</link>
-      <description>Kai S. Exner, Muhammad Usama, Samad Razzaq, Christof H&#228;ttig, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393945519
-
-                Abstract Oxygen evolution reaction (OER) is a key process for sustainable energy, although renewable sources require the use of proton exchange membrane electrolyzers, with IrO 2 -based materials being the gold standard due to their high activity and stability under dynamic anodic polarization conditions. However, even for the (110) facet of a single-crystalline IrO 2 model electrode, the reaction mechanism is not settled yet due to contradictory reports in literature. In the present manuscript, we disentangle the conflicting results of previous theoretical studies in the density functional theory approximation. We demonstrate that dissimilar reaction mechanisms and limiting steps for the OER over IrO 2 (110) are obtained for different active surface configurations present on the IrO 2 electrode. In contrast to previous studies, we factor Walden-type mechanisms, in which the formation of the product O 2 and adsorption of the reactant H 2 O occur simultaneously, into the analysis of the elementary steps. Combining free-energy diagrams along the reaction coordinate and Bader charge analysis of the active site under constant potential, we elucidate why mononuclear- or bifunctional-Walden pathways excel the traditional OER mechanisms for the OER over IrO 2 (110). Our computational methodology to identify the reaction mechanism and limiting step of proton-coupled electron transfer steps is universally applicable to electrochemical processes in the field of energy conversion and storage.</description>
-      <author>Kai S. Exner, Muhammad Usama, Samad Razzaq, Christof H&#228;ttig</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4101847/v1</guid>
-    </item>
-    <item>
-      <title>Constructing Ag Single Atoms and Nanoparticles Co&#8208;Decorated CoO(O)H as Highly Active Electrocatalyst for Oxygen Evolution Reaction under Large Current Density</title>
-      <link>https://doi.org/10.1002/adfm.202316539</link>
-      <description>Xiaojun Guo, Huimin Zhang, Wei Xia, Mengyao Ma, Dong Cao, Daojian Cheng, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393946198
-
-                Abstract Developing highly active and stable electrocatalysts is essential for the large&#8208;scale production of hydrogen from alkaline water. In this work, Ag single atoms and nanoparticles co&#8208;decorated Co hydro(oxy)oxide (Ag SAs&amp;NPs@CoO(O)H) is synthesized by a facile one&#8208;step approach. Notably, the overpotential of Ag SAs&amp;NPs@CoO(O)H is 200 mV at current density of 50 mA cm &#8722;2 during oxygen evolution reaction (OER). Meanwhile, it can display the mass activity of 637.47 A g &#8722;1 Ag under 300 mV, which is 212.49 times higher than that of commercial IrO 2 . Moreover, the assembled Pt/C // Ag SAs&amp;NPs@CoO(O)H system only requires 1.9 V to reach an industrial current density of 1000 mA cm &#8722;2 in alkaline water electrolyzer and exhibits excellent stability at large current density of 1000 mA cm &#8722;2 . Furthermore, in situ Raman spectroscopy analysis coupled with theoretical calculations reveals an novel active site switching mechanism is found on Ag SAs&amp;NPs@CoO(O)H. Specifically, the O* preferentially generates on the Ag NPs and then switches toward the Co 3+ site in CoO(O)H to produce OOH* and O 2 . Meanwhile, the Ag SAs in the lattice of CoO(O)H can exert an inhibitory force on the reconstruction process of CoOOH to Co(OH) 2 , resulting in excellent anti&#8208;dissolution stability.</description>
-      <author>Xiaojun Guo, Huimin Zhang, Wei Xia, Mengyao Ma, Dong Cao, Daojian Cheng</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202316539</guid>
-    </item>
     <item>
       <title>Specific roles of Fe in NiFe-MOF nanosheet arrays on oxygen evolution reaction kinetics in alkaline media</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.04.032</link>
@@ -308,6 +268,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.012</guid>
     </item>
     <item>
+      <title>Tailoring Surface Oxygen Vacancies in Rutile Tio2 by Electrochemical Reduction for Enhanced Photoelectrochemical Performance</title>
+      <link>https://doi.org/10.2139/ssrn.4789996</link>
+      <description>Yujie Ding, Chenfeng Jiang, Yongming Sun, Xiaoyan Zhang, Xiaojun Ma, No host. None(None)] 2024. https://openalex.org/W4394707857
+
+                No abstract</description>
+      <author>Yujie Ding, Chenfeng Jiang, Yongming Sun, Xiaoyan Zhang, Xiaojun Ma</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4789996</guid>
+    </item>
+    <item>
       <title>Cooperative Fe Sites on Transition Metal (Oxy)hydroxides for High Oxygen Evolution Activity in Base</title>
       <link>https://doi.org/10.6084/m9.figshare.24197487</link>
       <description>Yingqing Ou, Bipasa Samanta, Lu Liu, Swadesh Ranjan Biswas, Jessica L. Fehrs, Nicole A. Sagu&#236;, Javier Villalobos, Joaqu&#237;n Morales-Santelices, Denis Antipin, Marcel Risch, Maytal Caspary Toroker, Shannon W. Boettcher, Figshare. None(None)] 2023. https://openalex.org/W4394166194
@@ -458,16 +428,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jenvman.2024.120846</guid>
     </item>
     <item>
-      <title>Aluminum-Doped Lithium-Vacant Layered Li&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Cr&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Al&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;: A Potentially Active Electrocatalyst for the Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsaem.3c03160</link>
-      <description>Vaishali Soni, Shraddha Jaiswal, Preetam Singh, Asha Gupta, ACS applied energy materials. None(None)] 2024. https://openalex.org/W4393930288
-
-                No abstract</description>
-      <author>Vaishali Soni, Shraddha Jaiswal, Preetam Singh, Asha Gupta</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.3c03160</guid>
-    </item>
-    <item>
       <title>Directed evolution unlocks oxygen reactivity for a nicotine degrading flavoenzyme</title>
       <link>https://doi.org/10.6084/m9.figshare.23635986</link>
       <description>Mark Dulchavsky, Figshare. None(None)] 2023. https://openalex.org/W4394192751
@@ -498,16 +458,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.23899299</guid>
     </item>
     <item>
-      <title>Dynamic Response and Microstructure Evolution of Oxygen-Free High-Conductivity Copper Liner in Explosively Formed Projectile</title>
-      <link>https://doi.org/10.6084/m9.figshare.5734401</link>
-      <description>Jianfeng Liu, Yuan Long, Chong Ji, Ding Xu, Dong Xiang, Ge Song, Figshare. None(None)] 2017. https://openalex.org/W4394464563
-
-                Abstract The dynamic response and microstructure evolution of oxygen-free high-conductivity copper in a shaped charge liner are investigated through microstructural examination of a soft-recovery EFP. Adiabatic shear bands and voids which is the failure original of copper EFP can be observed in the rear part of the projectile. Numerical simulation results illustrate that the highest plastic strain reaches about 2.9 which can fully accommodate the grains deformation of copper EFP during the formation process at strain rates of the order of 104s&#8722;1. Theoretical calculation results indicate that the highest temperature increase of EFP caused by shock wave and plastic deformation can reach 747K, which is 0.55T m (where T m is the melting temperature of copper). The main body of the EFP undergoes completely dynamic recrystallisation, and the average size of the refined grains significantly decreases to approximately 10&#181;m. A slight increase in grain size occurs mainly away from the center and extends towards the head and rear sections of the EFP. During the DRX process, the dislocation movement is believed to be the controlling mechanism significantly refining the microstructure.</description>
-      <author>Jianfeng Liu, Yuan Long, Chong Ji, Ding Xu, Dong Xiang, Ge Song</author>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.5734401</guid>
-    </item>
-    <item>
       <title>The response mechanism of transversal mixing of dissolved oxygen to the evolution of secondary flow at the confluence</title>
       <link>https://doi.org/10.1016/j.jhydrol.2024.131184</link>
       <description>Xia Shen, Sheng Li, Huanjie Cai, Kai Wang, Xue&#8208;Feng Yuan, Dehong Li, Ping Li, Journal of hydrology. None(None)] 2024. https://openalex.org/W4394014467
@@ -516,6 +466,16 @@
       <author>Xia Shen, Sheng Li, Huanjie Cai, Kai Wang, Xue&#8208;Feng Yuan, Dehong Li, Ping Li</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jhydrol.2024.131184</guid>
+    </item>
+    <item>
+      <title>Dynamic Response and Microstructure Evolution of Oxygen-Free High-Conductivity Copper Liner in Explosively Formed Projectile</title>
+      <link>https://doi.org/10.6084/m9.figshare.5734401</link>
+      <description>Jianfeng Liu, Yuan Long, Chong Ji, Ding Xu, Dong Xiang, Ge Song, Figshare. None(None)] 2017. https://openalex.org/W4394464563
+
+                Abstract The dynamic response and microstructure evolution of oxygen-free high-conductivity copper in a shaped charge liner are investigated through microstructural examination of a soft-recovery EFP. Adiabatic shear bands and voids which is the failure original of copper EFP can be observed in the rear part of the projectile. Numerical simulation results illustrate that the highest plastic strain reaches about 2.9 which can fully accommodate the grains deformation of copper EFP during the formation process at strain rates of the order of 104s&#8722;1. Theoretical calculation results indicate that the highest temperature increase of EFP caused by shock wave and plastic deformation can reach 747K, which is 0.55T m (where T m is the melting temperature of copper). The main body of the EFP undergoes completely dynamic recrystallisation, and the average size of the refined grains significantly decreases to approximately 10&#181;m. A slight increase in grain size occurs mainly away from the center and extends towards the head and rear sections of the EFP. During the DRX process, the dislocation movement is believed to be the controlling mechanism significantly refining the microstructure.</description>
+      <author>Jianfeng Liu, Yuan Long, Chong Ji, Ding Xu, Dong Xiang, Ge Song</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.5734401</guid>
     </item>
     <item>
       <title>Palaeogene climate evolution in the Paris Basin from oxygen stable isotope (&#948;&lt;sup&gt;18&lt;/sup&gt;O) compositions of marine molluscs</title>
@@ -648,16 +608,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/9783527839834.ch6</guid>
     </item>
     <item>
-      <title>AC-electrochemical synthesis of H2O2 by breathing O2 in three-phase interface</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109600</link>
-      <description>Peng Du, Ruyue Wang, Bohan Deng, Wei Zhao, Xinyu Xie, Cheng Yang, Yuanzheng Long, Chong Yan, Xiwen He, Kai Huang, Ru Zhang, Ming Lei, Hui Wu, Nano energy. None(None)] 2024. https://openalex.org/W4394611320
-
-                Conventional electrosynthesis of H2O2 through a two-electron oxygen reduction reaction (2e&#8722; ORR) requires continuous O2 feeding as the reactant, which is produced by oxygen evolution reaction (OER) in water electrolysis. In principle, H2O2 can be directly synthesized from water once the 2e&#8722; ORR is coupled with OER in one electrode. Unfortunately, such effective coupling has not yet been established. Herein, we created a cyclic oxygen exhalation-inhalation for on-demand and on-site H2O2 production by coupling the OER and 2e&#8722; ORR with a facile alternating-current (AC) electrocatalytic process. By ingeniously manipulating the reaction interfaces and operating voltage, we achieved efficient and stable in-situ H2O2 production. The rapid oxygen transfer in the localized three-phase interface favors the sufficient electrochemical reactions. The AC-electrocatalytic system exhibits highest performance including H2O2 production rate of 90.16 mmol h-1 gcat-1. Moreover, such AC-electrocatalysis inspires a new strategy to combine multiple electrocatalytic reactions into one electrode for fundamental study and practical applications.</description>
-      <author>Peng Du, Ruyue Wang, Bohan Deng, Wei Zhao, Xinyu Xie, Cheng Yang, Yuanzheng Long, Chong Yan, Xiwen He, Kai Huang, Ru Zhang, Ming Lei, Hui Wu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109600</guid>
-    </item>
-    <item>
       <title>Marine Phosphate Level During the Archean Constrained by the Global Redox Budget</title>
       <link>https://doi.org/10.1029/2023gl108077</link>
       <description>Yasuto Watanabe, Kazumi Ozaki, Eiichi Tajika, Geophysical research letters. 51(7)] 2024. https://openalex.org/W4394576720
@@ -668,14 +618,14 @@
       <guid isPermaLink="true">https://doi.org/10.1029/2023gl108077</guid>
     </item>
     <item>
-      <title>Paired photoelectrochemical conversion of CO2/H2O and glycerol at high rate</title>
-      <link>https://doi.org/10.1038/s41929-024-01134-3</link>
-      <description>Anna Balog, Egon Kecsenovity, Gergely F. Samu, Jie He, D&#225;vid Fekete, Csaba Jan&#225;ky, Nature Catalysis. None(None)] 2024. https://openalex.org/W4394608914
+      <title>AC-electrochemical synthesis of H2O2 by breathing O2 in three-phase interface</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109600</link>
+      <description>Peng Du, Ruyue Wang, Bohan Deng, Wei Zhao, Xinyu Xie, Cheng Yang, Yuanzheng Long, Chong Yan, Xiwen He, Kai Huang, Ru Zhang, Ming Lei, Hui Wu, Nano energy. None(None)] 2024. https://openalex.org/W4394611320
 
-                Abstract Photoelectrochemistry holds the promise of directly converting sunlight to valuable chemical products. Photoelectrochemical (PEC) methods, however, lag behind their electrochemical counterparts in terms of current density. In this work, we demonstrate that, by using concentrated sunlight, we can achieve current densities similar to electrochemical methods, but with lower energy input. Specifically, we combined the direct PEC oxidation of glycerol with the dark hydrogen evolution or CO 2 reduction in a membrane-separated continuous-flow PEC cell. We achieved over 110 mA cm &#8722;2 photocurrent density, which is at least an order of magnitude larger than those typically reported in the literature. We demonstrated that the product distribution of glycerol oxidation is notably different in PEC and electrochemical scenarios at the same current density, and the parasitic oxygen evolution reaction can be suppressed in the PEC case. This approach raises opportunities to drive complex electrochemical reactions in a more selective manner.</description>
-      <author>Anna Balog, Egon Kecsenovity, Gergely F. Samu, Jie He, D&#225;vid Fekete, Csaba Jan&#225;ky</author>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01134-3</guid>
+                Conventional electrosynthesis of H2O2 through a two-electron oxygen reduction reaction (2e&#8722; ORR) requires continuous O2 feeding as the reactant, which is produced by oxygen evolution reaction (OER) in water electrolysis. In principle, H2O2 can be directly synthesized from water once the 2e&#8722; ORR is coupled with OER in one electrode. Unfortunately, such effective coupling has not yet been established. Herein, we created a cyclic oxygen exhalation-inhalation for on-demand and on-site H2O2 production by coupling the OER and 2e&#8722; ORR with a facile alternating-current (AC) electrocatalytic process. By ingeniously manipulating the reaction interfaces and operating voltage, we achieved efficient and stable in-situ H2O2 production. The rapid oxygen transfer in the localized three-phase interface favors the sufficient electrochemical reactions. The AC-electrocatalytic system exhibits highest performance including H2O2 production rate of 90.16 mmol h-1 gcat-1. Moreover, such AC-electrocatalysis inspires a new strategy to combine multiple electrocatalytic reactions into one electrode for fundamental study and practical applications.</description>
+      <author>Peng Du, Ruyue Wang, Bohan Deng, Wei Zhao, Xinyu Xie, Cheng Yang, Yuanzheng Long, Chong Yan, Xiwen He, Kai Huang, Ru Zhang, Ming Lei, Hui Wu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109600</guid>
     </item>
     <item>
       <title>Amorphous electrocatalysts for urea oxidation reaction</title>
@@ -688,14 +638,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.pnsc.2024.04.001</guid>
     </item>
     <item>
-      <title>Engineering the orbital splitting and electronic reoccupation at alkali-metal-doped perovskites with face-shared IrO6 octahedral dimers</title>
-      <link>https://doi.org/10.1016/j.chemphys.2024.112292</link>
-      <description>Yun Shan, Jiang-Hong Pan, Yi Song, Yuan Zhu, Tinghui Li, Chemical physics. None(None)] 2024. https://openalex.org/W4393997464
+      <title>Paired photoelectrochemical conversion of CO2/H2O and glycerol at high rate</title>
+      <link>https://doi.org/10.1038/s41929-024-01134-3</link>
+      <description>Anna Balog, Egon Kecsenovity, Gergely F. Samu, Jie He, D&#225;vid Fekete, Csaba Jan&#225;ky, Nature Catalysis. None(None)] 2024. https://openalex.org/W4394608914
 
-                The intriguing catalysts with excellent catalytic activity and durable stability in acidic oxygen evolution reaction (OER) are extremely desirable for efficient energy conversion. Herein, engineering the orbital splitting and electronic reoccupation at metal sites of alkali-metal-doped perovskites with face-shared IrO6 octahedral dimers is realized through structural distortion and symmetry breaking in an effort to boost the sluggish reaction kinetics and mitigate the degradation of the Ir-based catalysts in acidic electrolyte as well. Doping Na or K element can increase the oxidation state of Ir at IrO6 octahedral dimers, which not only displaces the Ir d-band centers for higher catalytic activity but also leads to a good stability of Ir centers with higher dissolution potentials. This work provides a new insight into enhancing the reactive activity by doping alkali metals.</description>
-      <author>Yun Shan, Jiang-Hong Pan, Yi Song, Yuan Zhu, Tinghui Li</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112292</guid>
+                Abstract Photoelectrochemistry holds the promise of directly converting sunlight to valuable chemical products. Photoelectrochemical (PEC) methods, however, lag behind their electrochemical counterparts in terms of current density. In this work, we demonstrate that, by using concentrated sunlight, we can achieve current densities similar to electrochemical methods, but with lower energy input. Specifically, we combined the direct PEC oxidation of glycerol with the dark hydrogen evolution or CO 2 reduction in a membrane-separated continuous-flow PEC cell. We achieved over 110 mA cm &#8722;2 photocurrent density, which is at least an order of magnitude larger than those typically reported in the literature. We demonstrated that the product distribution of glycerol oxidation is notably different in PEC and electrochemical scenarios at the same current density, and the parasitic oxygen evolution reaction can be suppressed in the PEC case. This approach raises opportunities to drive complex electrochemical reactions in a more selective manner.</description>
+      <author>Anna Balog, Egon Kecsenovity, Gergely F. Samu, Jie He, D&#225;vid Fekete, Csaba Jan&#225;ky</author>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01134-3</guid>
     </item>
     <item>
       <title>Computational Study Based Prediction of New Photocatalysts for water
@@ -719,6 +669,26 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24324541</guid>
     </item>
     <item>
+      <title>Engineering the orbital splitting and electronic reoccupation at alkali-metal-doped perovskites with face-shared IrO6 octahedral dimers</title>
+      <link>https://doi.org/10.1016/j.chemphys.2024.112292</link>
+      <description>Yun Shan, Jiang-Hong Pan, Yi Song, Yuan Zhu, Tinghui Li, Chemical physics. None(None)] 2024. https://openalex.org/W4393997464
+
+                The intriguing catalysts with excellent catalytic activity and durable stability in acidic oxygen evolution reaction (OER) are extremely desirable for efficient energy conversion. Herein, engineering the orbital splitting and electronic reoccupation at metal sites of alkali-metal-doped perovskites with face-shared IrO6 octahedral dimers is realized through structural distortion and symmetry breaking in an effort to boost the sluggish reaction kinetics and mitigate the degradation of the Ir-based catalysts in acidic electrolyte as well. Doping Na or K element can increase the oxidation state of Ir at IrO6 octahedral dimers, which not only displaces the Ir d-band centers for higher catalytic activity but also leads to a good stability of Ir centers with higher dissolution potentials. This work provides a new insight into enhancing the reactive activity by doping alkali metals.</description>
+      <author>Yun Shan, Jiang-Hong Pan, Yi Song, Yuan Zhu, Tinghui Li</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.chemphys.2024.112292</guid>
+    </item>
+    <item>
+      <title>Mo, N co-doped cobalt hydroxide nanosheets for highly selective Methanol-to-Formate electrocatalytic conversion</title>
+      <link>https://doi.org/10.1016/j.cej.2024.151087</link>
+      <description>Yaoxin Wu, Lili Ban, H. Wang, Qiong Yang, Yaao Li, Ke L&#252;, Yuxiang Li, Peipei Cui, Jinfeng Yang, Dalei Chang, Dezheng Yang, Feng Ye, Zongyuan Wang, Bin Dai, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4394575810
+
+                The development of low-cost electrocatalysts to selectively oxidize methanol to formate to replace the oxygen evolution reaction (OER) will be beneficial to reduce the overpotential of electrocatalytic water splitting. Herein, we propose a one-step low-temperature strategy for anion and cation co-doping to reconstruct ZIF-67 into two-dimensional Mo, N co-doped Co(OH)2 [N-CoMo(OH)x]. The N-CoMo(OH)x only needs 1.36 V to achieve 10 mA cm&#8722;2 for methanol oxidation reaction (MOR). Meanwhile, N-CoMo(OH)x exhibits good stability at 100 mA cm&#8722;2 with Faraday efficiency of 98.1 %. The Mo6+ and N co-doping synergistically enhance the conductivity and dehydrogenation energy barrier of OCH2 intermediate species, leading to good catalytic performance. This work thus provides a strategy for designing anion and cation co-doped catalysts for methanol upgrading.</description>
+      <author>Yaoxin Wu, Lili Ban, H. Wang, Qiong Yang, Yaao Li, Ke L&#252;, Yuxiang Li, Peipei Cui, Jinfeng Yang, Dalei Chang, Dezheng Yang, Feng Ye, Zongyuan Wang, Bin Dai</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151087</guid>
+    </item>
+    <item>
       <title>Single-Atomic Co&#8211;N&lt;sub&gt;4&lt;/sub&gt; Sites with CrCo Nanoparticles for Metal&#8211;Air Battery-Driven Hydrogen Evolution</title>
       <link>https://doi.org/10.1021/acs.inorgchem.3c04443</link>
       <description>Shadab Saifi, Gargi Dey, Renna Shakir, J. Karthikeyan, Ravi Kumar, D. Bhattacharyya, A. Sinha, Arshad Aijaz, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4394622624
@@ -737,16 +707,6 @@
       <author>Yanjie Li, Chaoqun Qu, Siqi Meng, Jianhang Hu, Zhe Gao, Hongxing Xu, Rui Gao, Ming Feng</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.109872</guid>
-    </item>
-    <item>
-      <title>Mo, N co-doped cobalt hydroxide nanosheets for highly selective Methanol-to-Formate electrocatalytic conversion</title>
-      <link>https://doi.org/10.1016/j.cej.2024.151087</link>
-      <description>Yaoxin Wu, Lili Ban, H. Wang, Qiong Yang, Yaao Li, Ke L&#252;, Yuxiang Li, Peipei Cui, Jinfeng Yang, Dalei Chang, Dezheng Yang, Feng Ye, Zongyuan Wang, Bin Dai, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4394575810
-
-                The development of low-cost electrocatalysts to selectively oxidize methanol to formate to replace the oxygen evolution reaction (OER) will be beneficial to reduce the overpotential of electrocatalytic water splitting. Herein, we propose a one-step low-temperature strategy for anion and cation co-doping to reconstruct ZIF-67 into two-dimensional Mo, N co-doped Co(OH)2 [N-CoMo(OH)x]. The N-CoMo(OH)x only needs 1.36 V to achieve 10 mA cm&#8722;2 for methanol oxidation reaction (MOR). Meanwhile, N-CoMo(OH)x exhibits good stability at 100 mA cm&#8722;2 with Faraday efficiency of 98.1 %. The Mo6+ and N co-doping synergistically enhance the conductivity and dehydrogenation energy barrier of OCH2 intermediate species, leading to good catalytic performance. This work thus provides a strategy for designing anion and cation co-doped catalysts for methanol upgrading.</description>
-      <author>Yaoxin Wu, Lili Ban, H. Wang, Qiong Yang, Yaao Li, Ke L&#252;, Yuxiang Li, Peipei Cui, Jinfeng Yang, Dalei Chang, Dezheng Yang, Feng Ye, Zongyuan Wang, Bin Dai</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151087</guid>
     </item>
     <item>
       <title>Non-precious bifunctional high entropy alloy catalyst and layered double hydroxide enhanced gel electrolyte based rechargeable flexible zinc-air batteries</title>
@@ -779,16 +739,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/sstr.202400005</guid>
     </item>
     <item>
-      <title>Source data-NCOMMS-23-34511-B.xlsx</title>
-      <link>https://doi.org/10.6084/m9.figshare.24321157</link>
-      <description>Lingxi Zhou, Yang-Fan Shao, Fang Yin, Jia Li, Feiyu Kang, Ruitao Lv, Figshare. None(None)] 2023. https://openalex.org/W4394238357
-
-                Stabilizing active sites of non-iridium-based oxygen evolution reaction (OER) electrocatalysts is crucial, but remains a big challenge for hydrogen production by acidic water splitting. Here, we report that non-stoichiometric Ti oxides (TiOx) can safeguard the Ru sites through structural-confinement and charge-redistribution, thereby extending the catalyst lifetime in acid by 10 orders of magnitude longer compared to that of the stoichiometric one (Ru/TiO2). By exploiting the redox interaction-engaged strategy, the in situ growth of TiOx on Ti foam and the loading of Ru nanoparticles are realized in one step. The as-synthesized binder-free Ru/TiOx catalyst exhibits low OER overpotentials of 174 and 265 mV at 10 and 500 mA cm-2, respectively. Experimental characterizations and theoretical calculations confirm that TiOx stabilizes the Ru active center, enabling operation at 10 mA cm-2 for over 37 days. This work opens an avenue of using non-stoichiometric compounds as stable and active materials for energy technologies.</description>
-      <author>Lingxi Zhou, Yang-Fan Shao, Fang Yin, Jia Li, Feiyu Kang, Ruitao Lv</author>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24321157</guid>
-    </item>
-    <item>
       <title>Synthesis of bay-substituted perylene diimide as bifunctional photocatalyst for enhanced water oxidation and hydrogen peroxide generation</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114116</link>
       <description>Bo Zhang, Shoufeng Wang, Shihao Min, Kang Li, Longtian Kang, Wenbin Lin, Molecular catalysis. 560(None)] 2024. https://openalex.org/W4394589492
@@ -797,6 +747,16 @@
       <author>Bo Zhang, Shoufeng Wang, Shihao Min, Kang Li, Longtian Kang, Wenbin Lin</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114116</guid>
+    </item>
+    <item>
+      <title>Source data-NCOMMS-23-34511-B.xlsx</title>
+      <link>https://doi.org/10.6084/m9.figshare.24321157</link>
+      <description>Lingxi Zhou, Yang-Fan Shao, Fang Yin, Jia Li, Feiyu Kang, Ruitao Lv, Figshare. None(None)] 2023. https://openalex.org/W4394238357
+
+                Stabilizing active sites of non-iridium-based oxygen evolution reaction (OER) electrocatalysts is crucial, but remains a big challenge for hydrogen production by acidic water splitting. Here, we report that non-stoichiometric Ti oxides (TiOx) can safeguard the Ru sites through structural-confinement and charge-redistribution, thereby extending the catalyst lifetime in acid by 10 orders of magnitude longer compared to that of the stoichiometric one (Ru/TiO2). By exploiting the redox interaction-engaged strategy, the in situ growth of TiOx on Ti foam and the loading of Ru nanoparticles are realized in one step. The as-synthesized binder-free Ru/TiOx catalyst exhibits low OER overpotentials of 174 and 265 mV at 10 and 500 mA cm-2, respectively. Experimental characterizations and theoretical calculations confirm that TiOx stabilizes the Ru active center, enabling operation at 10 mA cm-2 for over 37 days. This work opens an avenue of using non-stoichiometric compounds as stable and active materials for energy technologies.</description>
+      <author>Lingxi Zhou, Yang-Fan Shao, Fang Yin, Jia Li, Feiyu Kang, Ruitao Lv</author>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24321157</guid>
     </item>
     <item>
       <title>Constructing Nickel Phosphate Polymorph Heterojunctions by In Situ Cr-Induced Structural Transition for Enhanced Bifunctional Electrochemical Water Splitting</title>
@@ -829,14 +789,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202400048</guid>
     </item>
     <item>
-      <title>Data Avalability.xlsx</title>
-      <link>https://doi.org/10.6084/m9.figshare.4141929</link>
-      <description>Binghong Han, Figshare. None(None)] 2016. https://openalex.org/W4394461566
+      <title>A silicon photoanode protected with TiO2/stainless steel bilayer stack for solar seawater splitting</title>
+      <link>https://doi.org/10.1038/s41467-024-47389-z</link>
+      <description>Shi-Xuan Zhao, Bin Liu, Kailang Li, Shujie Wang, Gong Zhang, Zhi&#8208;Jian Zhao, Tuo Wang, Jinlong Gong, Nature communications. 15(1)] 2024. https://openalex.org/W4394013116
 
-                Original data of Fig. 1 to Fig. 5 in the Nature Chemistry paper entitled "Activating lattice oxygen redox reactions in metal oxides to catalyze oxygen evolution". Authors are:Alexis GRIMAUD1,&#8225;, Oscar DIAZ-MORALES2, Binghong HAN3, Wesley T. HONG3, Yueh-Lin LEE1,4, Livia GIORDANO4,5, Kelsey A. STOERZINGER 3, Marc T.M. KOPER2, Yang SHAO-HORN*1,3,4  1Department of Mechanical Engineering, 3Department of Materials Science and Engineering, 4Research Laboratory of Electronics, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States 2Leiden Institute of Chemistry, Leiden University, PO Box 9502, 2300 RA, Leiden, The Netherlands 5Dipartimento di Scienza dei Materiali, Universit&#224; di Milano-Bicocca, Milano, Italy &#8225;Current address: FRE 3677 &#8220;Chimie du Solide et Energie,&#8221; Coll&#232;ge de France, 75231 Paris Cedex 05, France. R&#233;seau sur le Stockage Electrochimique de l&#8217;Energie (RS2E), FR CNRS 3459, 80039 Amiens Cedex, France. p.p1 {margin: 0.0px 0.0px 10.0px 0.0px; text-align: center; font: 12.0px 'Times New Roman'} p.p2 {margin: 0.0px 0.0px 10.0px 0.0px; font: 12.0px 'Times New Roman'; min-height: 15.0px} p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; text-align: center; font: 12.0px 'Times New Roman'}</description>
-      <author>Binghong Han</author>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.4141929</guid>
+                Abstract Photoelectrochemical seawater splitting is a promising route for direct utilization of solar energy and abundant seawater resources for H 2 production. However, the complex salinity composition in seawater results in intractable challenges for photoelectrodes. This paper describes the fabrication of a bilayer stack consisting of stainless steel and TiO 2 as a cocatalyst and protective layer for Si photoanode. The chromium-incorporated NiFe (oxy)hydroxide converted from stainless steel film serves as a protective cocatalyst for efficient oxygen evolution and retarding the adsorption of corrosive ions from seawater, while the TiO 2 is capable of avoiding the plasma damage of the surface layer of Si photoanode during the sputtering of stainless steel catalysts. By implementing this approach, the TiO 2 layer effectively shields the vulnerable semiconductor photoelectrode from the harsh plasma sputtering conditions in stainless steel coating, preventing surface damages. Finally, the Si photoanode with the bilayer stack inhibits the adsorption of chloride and realizes 167 h stability in chloride-containing alkaline electrolytes. Furthermore, this photoanode also demonstrates stable performance under alkaline natural seawater for over 50 h with an applied bias photon-to-current efficiency of 2.62%.</description>
+      <author>Shi-Xuan Zhao, Bin Liu, Kailang Li, Shujie Wang, Gong Zhang, Zhi&#8208;Jian Zhao, Tuo Wang, Jinlong Gong</author>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-47389-z</guid>
     </item>
     <item>
       <title>&lt;i&gt;Ab initio&lt;/i&gt; calculations of the chemisorption of atomic H and O on Pt and Ir metal and on bimetallic Pt&lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt;Ir&lt;sub&gt; &lt;i&gt;y&lt;/i&gt; &lt;/sub&gt; surfaces</title>
@@ -849,26 +809,6 @@
       <guid isPermaLink="true">https://doi.org/10.1515/znb-2023-0087</guid>
     </item>
     <item>
-      <title>Polyoxometallate Cluster Induced High-Entropy Oxide Sub-1 nm Nanosheets as Photoelectrocatalysts for Zn&#8211;Air Batteries</title>
-      <link>https://doi.org/10.1021/jacs.4c00652</link>
-      <description>Huaiyun Ge, Lirong Zheng, Guobao Yuan, Wenxiong Shi, Junli Liu, Yu Zhang, Xun Wang, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4393928635
-
-                The lack of highly efficient and inexpensive catalysts severely hinders the large-scale application of Zn&#8211;air batteries (ZABs). High-entropy oxides (HEOs) exhibit unique structures and attractive properties; thus, they are promising to be used in ZABs. However, conventional high-temperature synthesis methods tend to obtain microscale HEOs with a lower exposure rate of active sites. Here, we report a facile solvothermal strategy for preparing two-dimensional (2D) HEO sub-1 nm nanosheets (SNSs) induced by polyoxometalate (POM) clusters. Taking advantage of the special 2D sub-1 nm structure and precise element regulation, these 2D HEOs-POM SNSs exhibit enhanced bifunctional oxygen evolution and oxygen reduction reaction activity under light irradiation. Further applying these 2D HEOs-POM SNSs to ZABs as cathode catalysts, the CoFeNiMnCuZnOx-phosphomolybdic acid SNSs-based ZABs deliver a low charge/discharge voltage gap of 0.25 V at 2 mA cm&#8211;2 under light irradiation. Meanwhile, it could maintain an ultralong-term stability for 1600 h at 2 mA cm&#8211;2 and 930 h at 10 mA cm&#8211;2. The 2D sub-1 nm structure and fine element control in HEOs provide opportunities to solve the problems of low intrinsic activity, limited active sites, and instability of air cathodes in ZABs.</description>
-      <author>Huaiyun Ge, Lirong Zheng, Guobao Yuan, Wenxiong Shi, Junli Liu, Yu Zhang, Xun Wang</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c00652</guid>
-    </item>
-    <item>
-      <title>A silicon photoanode protected with TiO2/stainless steel bilayer stack for solar seawater splitting</title>
-      <link>https://doi.org/10.1038/s41467-024-47389-z</link>
-      <description>Shi-Xuan Zhao, Bin Liu, Kailang Li, Shujie Wang, Gong Zhang, Zhi&#8208;Jian Zhao, Tuo Wang, Jinlong Gong, Nature communications. 15(1)] 2024. https://openalex.org/W4394013116
-
-                Abstract Photoelectrochemical seawater splitting is a promising route for direct utilization of solar energy and abundant seawater resources for H 2 production. However, the complex salinity composition in seawater results in intractable challenges for photoelectrodes. This paper describes the fabrication of a bilayer stack consisting of stainless steel and TiO 2 as a cocatalyst and protective layer for Si photoanode. The chromium-incorporated NiFe (oxy)hydroxide converted from stainless steel film serves as a protective cocatalyst for efficient oxygen evolution and retarding the adsorption of corrosive ions from seawater, while the TiO 2 is capable of avoiding the plasma damage of the surface layer of Si photoanode during the sputtering of stainless steel catalysts. By implementing this approach, the TiO 2 layer effectively shields the vulnerable semiconductor photoelectrode from the harsh plasma sputtering conditions in stainless steel coating, preventing surface damages. Finally, the Si photoanode with the bilayer stack inhibits the adsorption of chloride and realizes 167 h stability in chloride-containing alkaline electrolytes. Furthermore, this photoanode also demonstrates stable performance under alkaline natural seawater for over 50 h with an applied bias photon-to-current efficiency of 2.62%.</description>
-      <author>Shi-Xuan Zhao, Bin Liu, Kailang Li, Shujie Wang, Gong Zhang, Zhi&#8208;Jian Zhao, Tuo Wang, Jinlong Gong</author>
-      <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-47389-z</guid>
-    </item>
-    <item>
       <title>Ni-tethered MoS2: In-situ fast reduction synthesis as an ultra-durable and highly active electrocatalyst for water splitting and urea oxidation</title>
       <link>https://doi.org/10.1016/j.mtsust.2024.100782</link>
       <description>M. Sreenivasulu, Ranjan S. Shetti, Selvam Mathi, Thandavarayan Maiyalagan, Nagaraj P. Shetti, Materials today sustainability. None(None)] 2024. https://openalex.org/W4393972221
@@ -879,16 +819,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtsust.2024.100782</guid>
     </item>
     <item>
-      <title>The CuSCN layer between BiVO4 and NiFeOx for facilitating photogenerated carrier transfer and water oxidation kinetics</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.04.017</link>
-      <description>Jingkun Wang, Jing Sun, Wei Nie, Xun Zhang, Kai Chen, Yupeng Chen, Fangzhou Zhou, Jun Luo, Tianbao Li, Junjie Guo, Bingshe Xu, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4393946715
-
-                Modification of oxygen evolution co-catalyst (OEC) on the surface of bismuth vanadate (BiVO4) can effectively improve the kinetics of water oxidation, but it is still limited by the small hole extraction driving force at the BiVO4/OEC interface. Modulating the BiVO4/OEC interface with a hole transfer layer (HTL) is expected to facilitate hole transport from BiVO4 to the OEC surface. Herein, a copper(I) thiocyanate (CuSCN) HTL is inserted between BiVO4 and NiFeOx OEC to create BiVO4/CuSCN/NiFeOx photoanode, resulting in a significant enhancement of photoelectrochemical (PEC) water splitting performance. From electrochemical analyses and density functional theory (DFT) simulations, the markedly enhanced PEC performance is attributed to the insertion of CuSCN as an HTL, which promotes the extraction of holes from BiVO4 surface and boosts the water oxidation kinetics. The optimal photoanode achieves a photocurrent density of 5.6 mA cm&#8722;2 at 1.23 V versus the reversible hydrogen electrode (vs. RHE) and an impressive charge separation efficiency of 96.2 %. This work offers valuable insights into the development of advanced photoanodes for solar energy conversion and emphasizes the importance of selecting an appropriate HTL to mitigate recombination at the BiVO4/OEC interface.</description>
-      <author>Jingkun Wang, Jing Sun, Wei Nie, Xun Zhang, Kai Chen, Yupeng Chen, Fangzhou Zhou, Jun Luo, Tianbao Li, Junjie Guo, Bingshe Xu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.04.017</guid>
-    </item>
-    <item>
       <title>Deciphering the Role of Nickel in Electrochemical Organic Oxidation Reactions</title>
       <link>https://doi.org/10.1002/aenm.202400696</link>
       <description>Suptish Ghosh, Debabrata Bagchi, Indranil Mondal, Tobias Sontheimer, Rajenahally V. Jagadeesh, Prashanth W. Menezes, Advanced energy materials. None(None)] 2024. https://openalex.org/W4394570714
@@ -897,16 +827,6 @@
       <author>Suptish Ghosh, Debabrata Bagchi, Indranil Mondal, Tobias Sontheimer, Rajenahally V. Jagadeesh, Prashanth W. Menezes</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aenm.202400696</guid>
-    </item>
-    <item>
-      <title>Tuning d&#8211;p Orbital Hybridization of NiMoO&lt;sub&gt;4&lt;/sub&gt;@Mo&lt;sub&gt;15&lt;/sub&gt;Se&lt;sub&gt;19&lt;/sub&gt;/NiSe&lt;sub&gt;2&lt;/sub&gt; Core&#8208;Shell Nanomaterials via Asymmetric Coordination Interaction Enables the Water Oxidation Process</title>
-      <link>https://doi.org/10.1002/aenm.202304546</link>
-      <description>Qiong Zhang, Wen Zhang, Jun Zhu, Xinyuan Zhou, Guangrui Xu, Dehong Chen, Zexing Wu, Lei Wang, Advanced energy materials. None(None)] 2024. https://openalex.org/W4393946291
-
-                Abstract The electrocatalytic performance of MoNi&#8208;based nanomaterials undergo selenization has garnered significant interest due to their modified electronic structure, while still posses certain challenges for obtained bimetallic selenides. Here, a novel MoNi&#8208;based electrocatalyst of NiMoO 4 @Mo 15 Se 19 /NiSe 2 core&#8208;shell nanomaterials is constructed to promote the desorption of OOH * which can facilitate the water oxidation process. NiMoO 4 @Mo 15 Se 19 /NiSe 2 core&#8208;shell nanoarrays show that the &#8220;cores&#8221; are mainly NiMoO 4 nanorods while the &#8220;shells&#8221; are the bimetallic selenides nanoflakes, which are super architectures that can expand more active sites and accelerate the electron transfer. Moreover, the hybridization interaction between Ni 3d, Mo 4d, and Se 4p orbitals leads to an asymmetric distribution of electric clouds, which decreases the adsorption energy and transformation of oxygen&#8208;containing species. Electrochemical data displays that the overpotentials of NiMoO 4 @Mo 15 Se 19 /NiSe 2 core&#8208;shell nanomaterials are only 195 mV, 220 mV, and 224 mV for oxygen evolution reaction (OER) in alkaline freshwater, alkaline simulated seawater, and alkaline natural seawater. The current density decay is negligible after 100 h stability at about 1.46 V with a three&#8208;electrode system in alkaline natural seawater. The low cost and the unique MoNi&#8208;based bimetallic selenides in this work provide a more constructive solution for designing efficient and stable OER catalysts in the future.</description>
-      <author>Qiong Zhang, Wen Zhang, Jun Zhu, Xinyuan Zhou, Guangrui Xu, Dehong Chen, Zexing Wu, Lei Wang</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202304546</guid>
     </item>
     <item>
       <title>Platinum-Modified Cobalt Oxide/Cobalt Nanotubes as Multifunctional Electrocatalysts in Alkaline and Acidic Conditions</title>
@@ -957,16 +877,6 @@
       <author>Longlong Liu, Quanfeng He, Senjie Dong, Minghui Wang, Yuqian Song, Han Diao, Ding Yuan</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.04.024</guid>
-    </item>
-    <item>
-      <title>Effects of Manganese Doping into Nickel Hydroxides for the Electrochemical Conversion of KA Oil</title>
-      <link>https://doi.org/10.1021/acssuschemeng.3c08543</link>
-      <description>Jie Chen, Yi Shen, ACS sustainable chemistry &amp; engineering. None(None)] 2024. https://openalex.org/W4393942591
-
-                Selective oxidative cleavage of C(OH)&#8211;C or C(O)&#8211;C bonds in cyclohexanol and cyclohexanone (KA oil) to produce adipic acid (AA), a monomer for the synthesis of nylon-66, is of significant importance for the petrochemical industry. Herein, we report an electrochemical method to improve the efficiency for upgrading KA oil into AA. Free-standing electrodes consisting of hydroxides (Ni(OH)2 and Mn-doped Ni(OH)2) supported by carbon paper were fabricated via an in situ electrodeposition process and further examined for KA oil conversion. The morphology and structures of the samples were characterized by field emission scanning electron microscopy, transmission electron microscopy, X-ray diffraction, X-ray photoelectron spectroscopy, and Raman spectroscopy. The electrochemical performance of the samples was studied by cyclic voltammetry, linear sweep voltammetry, and electrochemical impedance spectroscopy. The products of KA oil oxidation were analyzed by high-performance liquid chromatography. The introduction of manganese into nickel hydroxides enhanced the catalytic performance in terms of activity and product selectivity. Specifically, the optimal sample exhibited a current density of 50 mA mg&#8211;1 and selectivity of 46.8%, which are superior to those of pure nickel hydroxides. Such enhancement was attributed to the electronic interaction of manganese with nickel hydroxides, thereby modifying the adsorption of the substrates. Interestingly, the introduction of Mn into nickel hydroxides had negligible effects in the oxygen evolution reaction. The effects of critical parameters including substrate composition, reaction temperatures, KOH concentrations, and electrolysis time on the conversion of KA oil were investigated.</description>
-      <author>Jie Chen, Yi Shen</author>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.3c08543</guid>
     </item>
     <item>
       <title>Interface effect of Fe doped NiSe/Ni3Se2 heterojunction as highly efficient electrocatalysts for overall water splitting</title>
@@ -1049,6 +959,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202400568</guid>
     </item>
     <item>
+      <title>Geochemical Model Output for the Late Devonian</title>
+      <link>https://doi.org/10.6084/m9.figshare.23398124</link>
+      <description>Matthew S. Smart, Figshare. None(None)] 2023. https://openalex.org/W4394292409
+
+                Earth system box model output based on the Carbon Oxygen Phosphorus Sulfur Evolution model. Model input was derived from a perviously published phosphorus data set.</description>
+      <author>Matthew S. Smart</author>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.23398124</guid>
+    </item>
+    <item>
       <title>Assessing correlations of perovskite catalytic performance with electronic structure descriptors</title>
       <link>https://doi.org/10.6084/m9.figshare.6942962</link>
       <description>Ryan Jacobs, Dane Morgan, Yang Shao&#8208;Horn, Jonathan Hwang, Figshare. None(None)] 2019. https://openalex.org/W4394357061
@@ -1069,16 +989,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.6882545</guid>
     </item>
     <item>
-      <title>Geochemical Model Output for the Late Devonian</title>
-      <link>https://doi.org/10.6084/m9.figshare.23398124</link>
-      <description>Matthew S. Smart, Figshare. None(None)] 2023. https://openalex.org/W4394292409
-
-                Earth system box model output based on the Carbon Oxygen Phosphorus Sulfur Evolution model. Model input was derived from a perviously published phosphorus data set.</description>
-      <author>Matthew S. Smart</author>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.23398124</guid>
-    </item>
-    <item>
       <title>Oxidative DNA damage is important to the evolution of antibiotic resistance: evidence of mutation bias and its medicinal implications</title>
       <link>https://doi.org/10.6084/m9.figshare.825588</link>
       <description>Min Xiong, Hongyu Zhang, Zhongyi Wang, Liang-Yu Fu, Figshare. None(None)] 2013. https://openalex.org/W4394475811
@@ -1087,6 +997,16 @@
       <author>Min Xiong, Hongyu Zhang, Zhongyi Wang, Liang-Yu Fu</author>
       <pubDate>Tue, 01 Jan 2013 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.825588</guid>
+    </item>
+    <item>
+      <title>Some caveats about the evolution of the N/O abundance and the star formation history</title>
+      <link>https://doi.org/10.48550/arxiv.1004.0754</link>
+      <description>M. Molla, M. Gavilan, arXiv (Cornell University). None(None)] 2010. https://openalex.org/W4394667344
+
+                We carefully analyze how the abundance of Nitrogen over Oxygen evolves when dependent on metallicity stellar yields with a primary component of N proceeding from AGBs stars are used. We show the results obtained with a chemical evolution models grid, calculated with variable star formation efficiencies, which produce different star formation histories. Finally we see how the N/O abundance is related on the evolutionary history.</description>
+      <author>M. Molla, M. Gavilan</author>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.1004.0754</guid>
     </item>
     <item>
       <title>Use of dehydrated peeled fruit of Luffa cyllindrica as support medium in biological trickling filters: analysis of performance regarding the reduction of the organic content and microbiologic considerations</title>
@@ -1099,16 +1019,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7773746</guid>
     </item>
     <item>
-      <title>Use of dehydrated peeled fruit of Luffa cyllindrica as support medium in biological trickling filters: analysis of performance regarding the reduction of the organic content and microbiologic considerations</title>
-      <link>https://doi.org/10.6084/m9.figshare.8092382</link>
-      <description>Marcos Rocha Vianna, Gilberto Caldeira Bandeira de Melo, Figshare. None(None)] 2019. https://openalex.org/W4394239539
-
-                ABSTRACT Domestic sewage treatment experiments were conducted in a pilot installation of biological trickling filters in laboratory, in which the peeled dehydrated fruits of Luffa cyllindrica were used as a support medium for microbiological growth, in order to verify its capacity to remove organic matter, measured in terms of biochemical oxygen demand and chemical oxygen demand. The results obtained, when compared to results from similar pilot plant using stones as supporting medium, indicated that Luffa cyllindrica can substitute, under specific conditions, the traditional support media. Although detailed microbiologic studies were not among the objectives of this study, it was also observed that the biofilm found in Luffa cyllindrica was richer in species and in a higher evolutive stage than the biofilm found in the stones. Further studies are recommended.</description>
-      <author>Marcos Rocha Vianna, Gilberto Caldeira Bandeira de Melo</author>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.8092382</guid>
-    </item>
-    <item>
       <title>ON THE HYDROGEN EVOLUTION MECHANISM DURING CORROSION OF THE 2198-T8 ALLOY IN CHLORIDE SOLUTION: AN ELECTROCHEMICAL APPROACH</title>
       <link>https://doi.org/10.6084/m9.figshare.14278994</link>
       <description>Jo&#227;o Victor de Sousa Araujo, Rejane Maria Pereira da Silva, Mariana Xavier Milagre, Caruline de Souza Carvalho Machado, Isolda Costa, Figshare. None(None)] 2021. https://openalex.org/W4394500160
@@ -1119,6 +1029,16 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.14278994</guid>
     </item>
     <item>
+      <title>Use of dehydrated peeled fruit of Luffa cyllindrica as support medium in biological trickling filters: analysis of performance regarding the reduction of the organic content and microbiologic considerations</title>
+      <link>https://doi.org/10.6084/m9.figshare.8092382</link>
+      <description>Marcos Rocha Vianna, Gilberto Caldeira Bandeira de Melo, Figshare. None(None)] 2019. https://openalex.org/W4394239539
+
+                ABSTRACT Domestic sewage treatment experiments were conducted in a pilot installation of biological trickling filters in laboratory, in which the peeled dehydrated fruits of Luffa cyllindrica were used as a support medium for microbiological growth, in order to verify its capacity to remove organic matter, measured in terms of biochemical oxygen demand and chemical oxygen demand. The results obtained, when compared to results from similar pilot plant using stones as supporting medium, indicated that Luffa cyllindrica can substitute, under specific conditions, the traditional support media. Although detailed microbiologic studies were not among the objectives of this study, it was also observed that the biofilm found in Luffa cyllindrica was richer in species and in a higher evolutive stage than the biofilm found in the stones. Further studies are recommended.</description>
+      <author>Marcos Rocha Vianna, Gilberto Caldeira Bandeira de Melo</author>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.8092382</guid>
+    </item>
+    <item>
       <title>Hemoglobin wonders: a fascinating gas transporter dive into molluscs</title>
       <link>https://doi.org/10.6084/m9.figshare.24960118</link>
       <description>Weifeng Zhang, Yang Zhang, Xizhi Shi, Shi Wang, Yongbo Bao, Figshare. None(None)] 2024. https://openalex.org/W4394492176
@@ -1127,26 +1047,6 @@
       <author>Weifeng Zhang, Yang Zhang, Xizhi Shi, Shi Wang, Yongbo Bao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24960118</guid>
-    </item>
-    <item>
-      <title>Life in the last lane: Star formation and chemical evolution in an extremely gas-rich dwarf</title>
-      <link>https://doi.org/10.48550/arxiv.0711.1588</link>
-      <description>Ayesha Begum, Jayaram N. Chengalur, Robert C. Kennicutt, &#1048;. &#1044;. &#1050;&#1072;&#1088;&#1072;&#1095;&#1077;&#1085;&#1094;&#1077;&#1074;, M. Boquien, arXiv (Cornell University). None(None)] 2007. https://openalex.org/W4394634278
-
-                We present an analysis of HI, H-alpha, and oxygen abundance data for NGC 3741. This galaxy has a very extended gas disk (~8.8 times the Holmberg radius), and a dark to luminous (i.e. stellar) mass ratio of ~149, which makes it one of the ``darkest'' dwarf irregular galaxies known. However its ratio of baryons (i.e. gas + stellar) mass to dark mass is typical of that in galaxies. Our new high-resolution HI images of the galaxy show evidence for a large scale (purely gaseous) spiral arm and central bar. Despite the gaseous spiral feature and the on-going star formation, we find that the global gas density in NGC 3741 is significantly lower than the Toomre instability criterion. We also find that the star formation rate is consistent with that expected from the observed correlations between HI mass and SFR and the global Kennicutt-Schmidt law respectively. We measure the oxygen abundance to be 12+ log(O/H)=7.66$\pm$0.10, which is consistent with that expected from the metallicity-luminosity relation, despite its extreme gas mass ratio. We also examine the issue of chemical evolution of NGC 3741 in the context of closed-box model of chemical evolution. The effective oxygen yield of NGC 3741 is consistent with recent model estimates of closed-box yields, provided one assumes that the gas has been efficiently mixed all the way to edge of the HI disk (i.e. &gt;8 times the optical radius). This seems a priori unlikely. On the other hand, using a sample of galaxies with both interferometric HI maps and chemical abundance measurements, we find that the effective yield is anti-correlated with the total dynamical mass, as expected in leaky box models (slightly abridged).</description>
-      <author>Ayesha Begum, Jayaram N. Chengalur, Robert C. Kennicutt, &#1048;. &#1044;. &#1050;&#1072;&#1088;&#1072;&#1095;&#1077;&#1085;&#1094;&#1077;&#1074;, M. Boquien</author>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.0711.1588</guid>
-    </item>
-    <item>
-      <title>The evolution and desulfurization of sulfur in chemical looping combustion of coal</title>
-      <link>https://doi.org/10.6084/m9.figshare.13655396</link>
-      <description>Ming Luo, Lunzheng Zhou, Chao Wang, Cao Kuang, Figshare. None(None)] 2021. https://openalex.org/W4394511376
-
-                Chemical-looping combustion (CLC) is a new technology that has gained great attention due to its advantages in CO2 capture during combustion. Sulfur in coal maybe harmful to the CLC process. The interactions between sulfur and oxygen carrier may reduce the purity of carbon captured, and affect the characteristics of the oxygen carrier. Therefore, the evolution of sulfur in Xinzhou coal and the desulfurization performance in this process were studied by using iron ore as an oxygen carrier. Experimental results showed that the main sulfur-containing component released was SO2, and the fractions of sulfur during the reduction and oxidation periods reached 64.28 and 3.91%, respectively. The addition of desulfurization agent (CaO) could control the release of sulfur and a higher molar ratio of Ca/S resulted in less emission of sulfur-containing gases. The desulfurization efficiency reached 36.61%, 50.72%, and 55.45% when the Ca/S molar ratio was 1.5, 2.0, and 2.5 respectively. Considering the investment and operation costs, the recommended molar ratio of Ca/S was 2.0. The formation of CaSO4 was confirmed after reaction, but the stability of CaSO4 and its effect on oxygen carrier over a longer period of time still need to be further studied.</description>
-      <author>Ming Luo, Lunzheng Zhou, Chao Wang, Cao Kuang</author>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.13655396</guid>
     </item>
     <item>
       <title>In Situ Sulfur Isotopic and Thermodynamic Constraints on the Magmatic Evolution and Metallogenesis of the Jinchuan Ni&#8211;Cu Sulfide Deposit, China</title>
@@ -1169,6 +1069,16 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1361-6595/ad3c36</guid>
     </item>
     <item>
+      <title>Life in the last lane: Star formation and chemical evolution in an extremely gas-rich dwarf</title>
+      <link>https://doi.org/10.48550/arxiv.0711.1588</link>
+      <description>Ayesha Begum, Jayaram N. Chengalur, Robert C. Kennicutt, &#1048;. &#1044;. &#1050;&#1072;&#1088;&#1072;&#1095;&#1077;&#1085;&#1094;&#1077;&#1074;, M. Boquien, arXiv (Cornell University). None(None)] 2007. https://openalex.org/W4394634278
+
+                We present an analysis of HI, H-alpha, and oxygen abundance data for NGC 3741. This galaxy has a very extended gas disk (~8.8 times the Holmberg radius), and a dark to luminous (i.e. stellar) mass ratio of ~149, which makes it one of the ``darkest'' dwarf irregular galaxies known. However its ratio of baryons (i.e. gas + stellar) mass to dark mass is typical of that in galaxies. Our new high-resolution HI images of the galaxy show evidence for a large scale (purely gaseous) spiral arm and central bar. Despite the gaseous spiral feature and the on-going star formation, we find that the global gas density in NGC 3741 is significantly lower than the Toomre instability criterion. We also find that the star formation rate is consistent with that expected from the observed correlations between HI mass and SFR and the global Kennicutt-Schmidt law respectively. We measure the oxygen abundance to be 12+ log(O/H)=7.66$\pm$0.10, which is consistent with that expected from the metallicity-luminosity relation, despite its extreme gas mass ratio. We also examine the issue of chemical evolution of NGC 3741 in the context of closed-box model of chemical evolution. The effective oxygen yield of NGC 3741 is consistent with recent model estimates of closed-box yields, provided one assumes that the gas has been efficiently mixed all the way to edge of the HI disk (i.e. &gt;8 times the optical radius). This seems a priori unlikely. On the other hand, using a sample of galaxies with both interferometric HI maps and chemical abundance measurements, we find that the effective yield is anti-correlated with the total dynamical mass, as expected in leaky box models (slightly abridged).</description>
+      <author>Ayesha Begum, Jayaram N. Chengalur, Robert C. Kennicutt, &#1048;. &#1044;. &#1050;&#1072;&#1088;&#1072;&#1095;&#1077;&#1085;&#1094;&#1077;&#1074;, M. Boquien</author>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.0711.1588</guid>
+    </item>
+    <item>
       <title>Predictions for self-pollution in globular cluster stars</title>
       <link>https://doi.org/10.48550/arxiv.astro-ph/0103337</link>
       <description>P. Ventura, F. D&#8217;Antona, I. Mazzitelli, R. Gratton, arXiv (Cornell University). None(None)] 2001. https://openalex.org/W4394637193
@@ -1189,6 +1099,16 @@
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.astro-ph/0104222</guid>
     </item>
     <item>
+      <title>HII galaxies in 4D</title>
+      <link>https://doi.org/10.48550/arxiv.1402.3151</link>
+      <description>E. Telles, arXiv (Cornell University). None(None)] 2014. https://openalex.org/W4394643213
+
+                HII galaxies are clumpy and their gas kinematics can be mapped to show the global turbulent motions and the effect of massive star evolution. The distribution of their physical conditions is homogeneous and oxygen abundance is uniform. The presence of nebular HeII 4868 line seems to be higher in a low abundance galaxy, implying a harder ionization power probably due to stars in low metallicity. Innovative methods of data cube analysis, namely PCA tomography (nicknamed 4D), seem promising in revealing additional information not detected with the standard methods. I review some of our own recent work on the 3D spectroscopy of HII galaxies.</description>
+      <author>E. Telles</author>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.1402.3151</guid>
+    </item>
+    <item>
       <title>Additional file 3 of Femoral blood gas analysis, another tool to assess hemorrhage severity following trauma: an exploratory prospective study</title>
       <link>https://doi.org/10.6084/m9.figshare.23550386</link>
       <description>Marie Werner, Benjamin Bergis, Pierre-&#201;tienne Leblanc, Lucille Wildenberg, Jacques Duranteau, Bernard Vigu&#233;, Anatole Harrois, Figshare. None(None)] 2023. https://openalex.org/W4394252846
@@ -1199,16 +1119,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.23550386</guid>
     </item>
     <item>
-      <title>Understanding and Optimizing the Sensitization of AnataseTitanium Dioxide Surface with Hematite Clusters</title>
-      <link>https://doi.org/10.1088/1361-648x/ad3ac0</link>
-      <description>Kati Asikainen, M. Alatalo, Marko Huttula, B. Barbiellini, S. Assa Aravindh, Journal of physics. Condensed matter (Print). None(None)] 2024. https://openalex.org/W4393925120
-
-                Abstract The presence of hematite (Fe2O3) clusters at low coverage on titanium dioxide (TiO2) sur-&amp;#xD;face has been observed to enhance photocatalytic activity, while excess loading of hematite is&amp;#xD;detrimental. We conduct a comprehensive density functional theory study of Fe2O3 clusters&amp;#xD;adsorbed on the anatase TiO2 (101) surface to investigate the effect of Fe2O3 on TiO2. Our&amp;#xD;study shows that TiO2 exhibits improved photocatalytic properties with hematite clusters at&amp;#xD;low coverage, as evidenced by a systematic study conducted by increasing the number of cluster&amp;#xD;adsorbates. The adsorption of the clusters generates impurity states in the band gap improving&amp;#xD;light absorption and consequently affecting the charge transfer dynamics. Furthermore, the&amp;#xD;presence of hematite clusters enhances the activity of TiO2 in the hydrogen evolution reaction.&amp;#xD;The Fe valence mixing present in some clusters leads to a significant increase in H2 evolution rate&amp;#xD;compared with the fixed +3 valence of Fe in hematite. We also investigate the effect of oxygen&amp;#xD;defects and find extensive modifications in the electronic properties and local magnetism of the&amp;#xD;TiO2 -Fe2O3 system, demonstrating the wide-ranging effect of oxygen defects in the combined&amp;#xD;system.</description>
-      <author>Kati Asikainen, M. Alatalo, Marko Huttula, B. Barbiellini, S. Assa Aravindh</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1361-648x/ad3ac0</guid>
-    </item>
-    <item>
       <title>Clinical characteristics and outcomes among Brazilian patients with severe acute respiratory syndrome coronavirus 2 infection: an observational retrospective study</title>
       <link>https://doi.org/10.6084/m9.figshare.14306350</link>
       <description>Israel J&#250;nior Borges do Nascimento, Luiz Ricardo Pinto, Val&#233;ria Alves Fernandes, Israel Molina Romero, Jo&#227;o Ant&#244;nio de Queiroz Oliveira, Milena Soriano Marcolino, Maria de F&#225;tima Leite, Figshare. None(None)] 2021. https://openalex.org/W4394193160
@@ -1217,6 +1127,16 @@
       <author>Israel J&#250;nior Borges do Nascimento, Luiz Ricardo Pinto, Val&#233;ria Alves Fernandes, Israel Molina Romero, Jo&#227;o Ant&#244;nio de Queiroz Oliveira, Milena Soriano Marcolino, Maria de F&#225;tima Leite</author>
       <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.14306350</guid>
+    </item>
+    <item>
+      <title>CHARACTERISTICS AND ELECTROCHEMICAL BEHAVIOR OF OXIDE COATED TITANIUM ANODES</title>
+      <link>https://doi.org/10.3724/j.issn.1000-0518.1993.3.35</link>
+      <description>Lan Wang, Shixiong Jin, Yingyong huaxue. 10(3)] 1993. https://openalex.org/W4394704205
+
+                The effects of some oxide intermediate layers on the electrochemical behavior and characteristics of oxide-coated titanium electrodes Ti/PbO2, Ti/Co3O4 and Ti/CuCO2O4 have been investigated.The results showed that the intermediate layers of Co3O4, PdOx, SnO2 and Sb2O3 could markedly decrease the interface resistance of the electrodes. The electrode Ti/PbO2 with intermediate layer of (Sb2O3+PdOx) and the electrode Ti/Co3O4 with intermediate layer of (SnO2+PdOx) showed nearly the same reaction activity for anodic evolution of Cl2 as the industrial electrode consisting of Ti/RuO2+TiO2, but higher oxygen overpotentials than the latter.</description>
+      <author>Lan Wang, Shixiong Jin</author>
+      <pubDate>Tue, 01 Jun 1993 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3724/j.issn.1000-0518.1993.3.35</guid>
     </item>
     <item>
       <title>Catalase impairs &lt;i&gt;Leishmania mexicana&lt;/i&gt; development and virulence</title>
@@ -1279,16 +1199,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.8848121</guid>
     </item>
     <item>
-      <title>Chemodynamical gas flow cycles and their influence on the chemical evolution of dwarf irregular galaxies</title>
-      <link>https://doi.org/10.48550/arxiv.astro-ph/0302383</link>
-      <description>Andreas Rieschick, G. Hensler, arXiv (Cornell University). None(None)] 2003. https://openalex.org/W4394636222
-
-                Here we investigate an exemplary chemodynamical evolutionary simulation of a dwarf irregular galaxy. By means of this model we demonstrate the existence of three gas mixing cycles: 1) An inner "local cycle" mixing the metals produced in stars locally, and 2) an outer "galactic cycle" on which hot gas is driven out of the galaxy by multiple supernovae type II and mixes on a short timescale with the available cold gas. 3) Only a small fraction of the metals leaves the galactic gravitational field and follows the "global cycle" with the intergalactic matter. The large-scale mixing results in a temporary depletion of supernova ejected metals. We will discuss this "delayed recycling" and its influence on the chemical evolution, especially on the nitrogen over oxygen ratio which is increased temporarily. These results presented her are also relevant for less sophisticated analytical approaches and chemical evolutionary models of galaxies which have to parameterize the metal loss through outflow.</description>
-      <author>Andreas Rieschick, G. Hensler</author>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.astro-ph/0302383</guid>
-    </item>
-    <item>
       <title>Statistical Analysis of Structural Paramters_RSOS_Yeo.xlsx from How keratin cortex thickness affects iridescent feather colours</title>
       <link>https://doi.org/10.6084/m9.figshare.21780304</link>
       <description>Deok&#8208;Jin Jeon, Seungmuk Ji, Eun-Ok Lee, Jihun Kang, Jiyeong Kim, Liliana D&#8217;Alba, Marie Manceau, Matthew D. Shawkey, Jong&#8208;Souk Yeo, Figshare. None(None)] 2022. https://openalex.org/W4394364129
@@ -1297,16 +1207,6 @@
       <author>Deok&#8208;Jin Jeon, Seungmuk Ji, Eun-Ok Lee, Jihun Kang, Jiyeong Kim, Liliana D&#8217;Alba, Marie Manceau, Matthew D. Shawkey, Jong&#8208;Souk Yeo</author>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.21780304</guid>
-    </item>
-    <item>
-      <title>The Hot and the Colorful: Understanding the Metabolism, Genetics and Evolution of Consumer Preferred Metabolic Traits in Pepper and Related Species</title>
-      <link>https://doi.org/10.6084/m9.figshare.10603835</link>
-      <description>Federico Scossa, Federico Roda, Takayuki Tohge, Milen I. Georgiev, Alisdair R. Fernie, Figshare. None(None)] 2019. https://openalex.org/W4394328839
-
-                Recent advances in genomics and metabolomics have made the study of specialized metabolism far more tractable than it was previously. Here we evaluate specialized metabolite pathways of Capsicum spp. (peppers), focusing mainly on carotenoids, flavonoids, and capsaicinoids as examples of classes of secondary metabolites. To place these data in the context of the evolution of metabolic pathways, we compare the extent of genomic and chemical diversity in several species of the nightshades (Solanaceae), the family to which pepper belongs. We further discuss the genetic mechanisms known to underly metabolic diversity prior to carrying out a detailed genomic study of the enzymes active in the pathways influencing fruit color and pungency. Using large-scale comparative analyses across 25 sequenced plant genomes, we identify orthologs of structural metabolic genes and discuss the data in terms of variation of gene family size and its impact on the diversity of secondary metabolites. BCAA: branched-chain amino acid; K-Pg: Cretaceous-Paleogene; ROS: reactive oxygen species; TE: transposable element; WGD: whole genome duplication</description>
-      <author>Federico Scossa, Federico Roda, Takayuki Tohge, Milen I. Georgiev, Alisdair R. Fernie</author>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.10603835</guid>
     </item>
     <item>
       <title>RSOS_Lumerical FDTD.zip from How keratin cortex thickness affects iridescent feather colours</title>
@@ -1319,24 +1219,14 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.21780310</guid>
     </item>
     <item>
-      <title>Contributions to a More Realistic Characterization of Corrosion Processes on Cut Edges of Coated Metals Using Scanning Microelectrochemical Techniques, Illustrated by the Case of ZnAlMg-Galvanized Steel with Different Coating Densities</title>
-      <link>https://doi.org/10.3390/ma17071679</link>
-      <description>M.F. Bolsanello, A Garcia, Luciana Xavier da Cruz Lima, Bruno Kneipel Neto, Jetson Lemos Ferreira, Jesualdo Luiz Rossi, Isolda Costa, Ricardo M. Souto, Javier Izquierdo, Materials. 17(7)] 2024. https://openalex.org/W4394576028
+      <title>Chemodynamical gas flow cycles and their influence on the chemical evolution of dwarf irregular galaxies</title>
+      <link>https://doi.org/10.48550/arxiv.astro-ph/0302383</link>
+      <description>Andreas Rieschick, G. Hensler, arXiv (Cornell University). None(None)] 2003. https://openalex.org/W4394636222
 
-                Corrosion processes at cut edges of galvanized steels proceed as highly localized electrochemical reactions between the exposed bulk steel matrix and the protective thin metallic coating of a more electrochemically active material. Scanning microelectrochemical techniques can thus provide the spatially resolved information needed to assess the corrosion initiation and propagation phenomena, yet most methods scan cut edge sections as embedded in insulating resin to achieve a flat surface for scanning purposes. In this work, the galvanized coatings on both sides of the material were concomitantly exposed to simulated acid rain while characterizing the cut edge response using SECM and SVET techniques, thereby maintaining the coupled effects through the exposure of the whole system as rather realistic operation conditions. The cut edges were shown to strongly promote oxygen consumption and subsequent alkalization to pH 10&#8211;11 over the iron, while diffusion phenomena eventually yielded the complete depletion of oxygen and pH neutralization of the nearby electrolyte. In addition, the cathodic activation of the exposed iron was intensified with a thinner coating despite the lower presence of sacrificial anode, and preferential sites of the attack in the corners revealed highly localized acidification below pH 4, which sustained hydrogen evolution at spots of the steel-coating interface.</description>
-      <author>M.F. Bolsanello, A Garcia, Luciana Xavier da Cruz Lima, Bruno Kneipel Neto, Jetson Lemos Ferreira, Jesualdo Luiz Rossi, Isolda Costa, Ricardo M. Souto, Javier Izquierdo</author>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17071679</guid>
-    </item>
-    <item>
-      <title>Photoinduced and Electrochemical Applications of Carbon-Based Nanoparticles from Spent Coffee Grounds</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c07290</link>
-      <description>Simona Bettini, Michela Ottolini, Mariafrancesca Coccimiglio, Rosanna Pagano, Valent&#237;n Garc&#237;a-Caballero, Manuel Cano, Juan J. Giner&#8208;Casares, Ludovico Valli, Gabriele Giancane, Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4393924777
-
-                The interest of the scientific community toward carbon-based nanostructures is justified by the wide range of applications of such multifaceted structures. In the present work, carbon nanoparticles (CNPs) were synthesized, in mild conditions, by using spent coffee grounds as the carbon source. Green-emitting CNPs of about 40 nm were obtained, and they were characterized by X-ray photoelectron spectroscopy, energy-dispersive X-ray spectroscopy, fluorescence spectroscopy, and Fourier transform infrared spectroscopy, highlighting that they are naturally doped with N, K, Mg, and P. Such intrinsic doping promotes the characteristic green emission; furthermore, the N- and P-doping prompted us to evaluate their ability to photoproduce 1O2 for PDT applications. The presence of heteroatoms in the CNP structure was also used to electrochemically promote the oxygen reduction reaction and hydrogen evolution reaction catalysis.</description>
-      <author>Simona Bettini, Michela Ottolini, Mariafrancesca Coccimiglio, Rosanna Pagano, Valent&#237;n Garc&#237;a-Caballero, Manuel Cano, Juan J. Giner&#8208;Casares, Ludovico Valli, Gabriele Giancane</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07290</guid>
+                Here we investigate an exemplary chemodynamical evolutionary simulation of a dwarf irregular galaxy. By means of this model we demonstrate the existence of three gas mixing cycles: 1) An inner "local cycle" mixing the metals produced in stars locally, and 2) an outer "galactic cycle" on which hot gas is driven out of the galaxy by multiple supernovae type II and mixes on a short timescale with the available cold gas. 3) Only a small fraction of the metals leaves the galactic gravitational field and follows the "global cycle" with the intergalactic matter. The large-scale mixing results in a temporary depletion of supernova ejected metals. We will discuss this "delayed recycling" and its influence on the chemical evolution, especially on the nitrogen over oxygen ratio which is increased temporarily. These results presented her are also relevant for less sophisticated analytical approaches and chemical evolutionary models of galaxies which have to parameterize the metal loss through outflow.</description>
+      <author>Andreas Rieschick, G. Hensler</author>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.astro-ph/0302383</guid>
     </item>
     <item>
       <title>Molecular Evolution of the Glutathione S-transferase family in the Bemisia tabaci species complex - Supplementary Alignments</title>
@@ -1349,14 +1239,24 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.8937992</guid>
     </item>
     <item>
-      <title>Three-electrode surface dielectric barrier discharge driven by repetitive pulses: streamer dynamic evolution and discharge mode transition</title>
-      <link>https://doi.org/10.1088/1361-6595/ad3a9e</link>
-      <description>Bangfa Peng, Nan Jiang, Yifei Zhu, Jie Li, Yan Wu, Plasma sources science &amp; technology (Print). None(None)] 2024. https://openalex.org/W4393925043
+      <title>The Hot and the Colorful: Understanding the Metabolism, Genetics and Evolution of Consumer Preferred Metabolic Traits in Pepper and Related Species</title>
+      <link>https://doi.org/10.6084/m9.figshare.10603835</link>
+      <description>Federico Scossa, Federico Roda, Takayuki Tohge, Milen I. Georgiev, Alisdair R. Fernie, Figshare. None(None)] 2019. https://openalex.org/W4394328839
 
-                Abstract The streamer dynamic evolution and discharge mode transition of three-electrode surface dielectric barrier discharge (SDBD) driven by repetitive pulses are studied experimentally and numerically for better plasma-mode controlling and optimized application. Spatial-temporal plasma morphologic features together with electro-optical behaviors are utilized to analyze the streamer dynamic evolution and streamer-to-spark transition. To have a deep insight into the physical mechanism of the discharge mode transition in repetitive pulses, a 2D fluid model combined with 0D kinetic model is built and studied. A good agreement between experimental measurements and numerical simulation in the propagation dynamics and voltage-current characteristics is achieved. Results show that the surface-streamer discharge in the form of primary and transitional streamers can transform into a surface-spark discharge characterized with the primary streamer, transitional streamer and spark phase in repetitive pulses under the high applied electric field. A high gas temperature will result in a large reduced electric field after the transitional streamer, which exceeds the ionization threshold and thus promotes the discharge mode transition. The most electrons can be released from the negative charges by oxygen atoms during the inter-pulse period, which is favor to the re-ignition and ionization process of the subsequent pulse discharge.</description>
-      <author>Bangfa Peng, Nan Jiang, Yifei Zhu, Jie Li, Yan Wu</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1088/1361-6595/ad3a9e</guid>
+                Recent advances in genomics and metabolomics have made the study of specialized metabolism far more tractable than it was previously. Here we evaluate specialized metabolite pathways of Capsicum spp. (peppers), focusing mainly on carotenoids, flavonoids, and capsaicinoids as examples of classes of secondary metabolites. To place these data in the context of the evolution of metabolic pathways, we compare the extent of genomic and chemical diversity in several species of the nightshades (Solanaceae), the family to which pepper belongs. We further discuss the genetic mechanisms known to underly metabolic diversity prior to carrying out a detailed genomic study of the enzymes active in the pathways influencing fruit color and pungency. Using large-scale comparative analyses across 25 sequenced plant genomes, we identify orthologs of structural metabolic genes and discuss the data in terms of variation of gene family size and its impact on the diversity of secondary metabolites. BCAA: branched-chain amino acid; K-Pg: Cretaceous-Paleogene; ROS: reactive oxygen species; TE: transposable element; WGD: whole genome duplication</description>
+      <author>Federico Scossa, Federico Roda, Takayuki Tohge, Milen I. Georgiev, Alisdair R. Fernie</author>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.10603835</guid>
+    </item>
+    <item>
+      <title>Contributions to a More Realistic Characterization of Corrosion Processes on Cut Edges of Coated Metals Using Scanning Microelectrochemical Techniques, Illustrated by the Case of ZnAlMg-Galvanized Steel with Different Coating Densities</title>
+      <link>https://doi.org/10.3390/ma17071679</link>
+      <description>M.F. Bolsanello, A Garcia, Luciana Xavier da Cruz Lima, Bruno Kneipel Neto, Jetson Lemos Ferreira, Jesualdo Luiz Rossi, Isolda Costa, Ricardo M. Souto, Javier Izquierdo, Materials. 17(7)] 2024. https://openalex.org/W4394576028
+
+                Corrosion processes at cut edges of galvanized steels proceed as highly localized electrochemical reactions between the exposed bulk steel matrix and the protective thin metallic coating of a more electrochemically active material. Scanning microelectrochemical techniques can thus provide the spatially resolved information needed to assess the corrosion initiation and propagation phenomena, yet most methods scan cut edge sections as embedded in insulating resin to achieve a flat surface for scanning purposes. In this work, the galvanized coatings on both sides of the material were concomitantly exposed to simulated acid rain while characterizing the cut edge response using SECM and SVET techniques, thereby maintaining the coupled effects through the exposure of the whole system as rather realistic operation conditions. The cut edges were shown to strongly promote oxygen consumption and subsequent alkalization to pH 10&#8211;11 over the iron, while diffusion phenomena eventually yielded the complete depletion of oxygen and pH neutralization of the nearby electrolyte. In addition, the cathodic activation of the exposed iron was intensified with a thinner coating despite the lower presence of sacrificial anode, and preferential sites of the attack in the corners revealed highly localized acidification below pH 4, which sustained hydrogen evolution at spots of the steel-coating interface.</description>
+      <author>M.F. Bolsanello, A Garcia, Luciana Xavier da Cruz Lima, Bruno Kneipel Neto, Jetson Lemos Ferreira, Jesualdo Luiz Rossi, Isolda Costa, Ricardo M. Souto, Javier Izquierdo</author>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/ma17071679</guid>
     </item>
     <item>
       <title>Geochronology, geochemistry, and petrology of adakitic Pliocene&#8211;Quaternary volcanism in the &#350;ebinkarahisar (Giresun) area, NE Turkey</title>
@@ -1369,14 +1269,14 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.6143054</guid>
     </item>
     <item>
-      <title>Evolutionary genetics of pulmonary anatomical adaptations in deep-diving cetaceans</title>
-      <link>https://doi.org/10.1186/s12864-024-10263-9</link>
-      <description>Bao&#8208;Zhu Guo, Yanxin Sun, Yuehua Wang, Ya Ping Zhang, Yu Zheng, Shixia Xu, Guang Yang, Wenhua Ren, BMC genomics. 25(1)] 2024. https://openalex.org/W4393943381
+      <title>Modelling sulfate concentrations in the global ocean through Phanerozoic time</title>
+      <link>https://doi.org/10.1144/jgs2023-184</link>
+      <description>Alexander J. Krause, Graham Shields, Robert J. Newton, Benjamin J. W. Mills, Journal of the Geological Society. None(None)] 2024. https://openalex.org/W4394577217
 
-                Abstract Background Cetaceans, having experienced prolonged adaptation to aquatic environments, have undergone evolutionary changes in their respiratory systems. This process of evolution has resulted in the emergence of distinctive phenotypic traits, notably the abundance of elastic fibers and thickened alveolar walls in their lungs, which may facilitate alveolar collapse during diving. This structure helps selective exchange of oxygen and carbon dioxide, while minimizing nitrogen exchange, thereby reducing the risk of DCS. Nevertheless, the scientific inquiry into the mechanisms through which these unique phenotypic characteristics govern the diving behavior of marine mammals, including cetaceans, remains unresolved. Results This study entails an evolutionary analysis of 42 genes associated with pulmonary fibrosis across 45 mammalian species. Twenty-one genes in cetaceans exhibited accelerated evolution, featuring specific amino acid substitutions in 14 of them. Primarily linked to the development of the respiratory system and lung morphological construction, these genes play a crucial role. Moreover, among marine mammals, we identified eight genes undergoing positive selection, and the evolutionary rates of three genes significantly correlated with diving depth. Specifically, the SFTPC gene exhibited convergent amino acid substitutions. Through in vitro cellular experiments, we illustrated that convergent amino acid site mutations in SFTPC contribute positively to pulmonary fibrosis in marine mammals, and the presence of this phenotype can induce deep alveolar collapse during diving, thereby reducing the risk of DCS during diving. Conclusions The study unveils pivotal genetic signals in cetaceans and other marine mammals, arising through evolution. These genetic signals may influence lung characteristics in marine mammals and have been linked to a reduced risk of developing DCS. Moreover, the research serves as a valuable reference for delving deeper into human diving physiology.</description>
-      <author>Bao&#8208;Zhu Guo, Yanxin Sun, Yuehua Wang, Ya Ping Zhang, Yu Zheng, Shixia Xu, Guang Yang, Wenhua Ren</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s12864-024-10263-9</guid>
+                Understanding the long-term variance of seawater sulfate concentrations ([SO 4 2- ] sw ) is critical to understanding the dynamic relationship between the sulfur, carbon, calcium, and oxygen cycles, and their influence on Earth's habitability. Here, we explore how [SO 4 2- ] sw has changed throughout the Phanerozoic, and its impact on other elemental cycles. We do this by utilising the biogeochemical box model GEOCARBSULFOR. The model suggests that [SO 4 2- ] sw rose throughout the Paleozoic, declined during the Mesozoic, and then rose once more in the Cenozoic, generally matching geochemical proxies. Atmospheric oxygen mirrors [SO 4 2- ] sw changes during the Paleozoic and Mesozoic, but intriguingly, decouples during the Cenozoic. We further explored controls on [SO 4 2- ] sw by modifying the modelled gypsum fluxes via the incorporation of evaporite data from the geological record. We find that forcing gypsum burial with the observed evaporite deposition data causes the model to better match proxy records at some times, but worsens predictions at others. Finally, we investigate model reliance on a prescribed record of marine calcium concentrations, finding that it is a dominant control on modelled Phanerozoic [SO 4 2- ] sw , and that removing this control seriously degrades model predictions. We conclude that no model can yet simulate a reasonable evolution of both the calcium and sulfur cycles. Thematic collection: This article is part of the Sulfur in the Earth system collection available at: https://www.lyellcollection.org/topic/collections/sulfur-in-the-earth-system Supplementary material: https://doi.org/10.6084/m9.figshare.c.7164928</description>
+      <author>Alexander J. Krause, Graham Shields, Robert J. Newton, Benjamin J. W. Mills</author>
+      <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1144/jgs2023-184</guid>
     </item>
     <item>
       <title>A Subsolar Metallicity on the Ultra-short-period Planet HIP 65Ab</title>
@@ -1389,24 +1289,14 @@
       <guid isPermaLink="true">https://doi.org/10.3847/1538-3881/ad3071</guid>
     </item>
     <item>
-      <title>Modelling sulfate concentrations in the global ocean through Phanerozoic time</title>
-      <link>https://doi.org/10.1144/jgs2023-184</link>
-      <description>Alexander J. Krause, Graham Shields, Robert J. Newton, Benjamin J. W. Mills, Journal of the Geological Society. None(None)] 2024. https://openalex.org/W4394577217
+      <title>Sex in protists: A new perspective on the reproduction mechanisms of trypanosomatids</title>
+      <link>https://doi.org/10.6084/m9.figshare.21310323</link>
+      <description>Ver&#244;nica Santana da Silva, Carlos Renato Machado, Figshare. None(None)] 2022. https://openalex.org/W4394283458
 
-                Understanding the long-term variance of seawater sulfate concentrations ([SO 4 2- ] sw ) is critical to understanding the dynamic relationship between the sulfur, carbon, calcium, and oxygen cycles, and their influence on Earth's habitability. Here, we explore how [SO 4 2- ] sw has changed throughout the Phanerozoic, and its impact on other elemental cycles. We do this by utilising the biogeochemical box model GEOCARBSULFOR. The model suggests that [SO 4 2- ] sw rose throughout the Paleozoic, declined during the Mesozoic, and then rose once more in the Cenozoic, generally matching geochemical proxies. Atmospheric oxygen mirrors [SO 4 2- ] sw changes during the Paleozoic and Mesozoic, but intriguingly, decouples during the Cenozoic. We further explored controls on [SO 4 2- ] sw by modifying the modelled gypsum fluxes via the incorporation of evaporite data from the geological record. We find that forcing gypsum burial with the observed evaporite deposition data causes the model to better match proxy records at some times, but worsens predictions at others. Finally, we investigate model reliance on a prescribed record of marine calcium concentrations, finding that it is a dominant control on modelled Phanerozoic [SO 4 2- ] sw , and that removing this control seriously degrades model predictions. We conclude that no model can yet simulate a reasonable evolution of both the calcium and sulfur cycles. Thematic collection: This article is part of the Sulfur in the Earth system collection available at: https://www.lyellcollection.org/topic/collections/sulfur-in-the-earth-system Supplementary material: https://doi.org/10.6084/m9.figshare.c.7164928</description>
-      <author>Alexander J. Krause, Graham Shields, Robert J. Newton, Benjamin J. W. Mills</author>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1144/jgs2023-184</guid>
-    </item>
-    <item>
-      <title>Beyond Predictions: An Interpretable Machine Learning Approach for Battery Performance Forecasting</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4134415/v1</link>
-      <description>Jieun Kim, Injun Choi, Ju Seong Kim, Ho-Jin Hwang, In-Chul Park, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4393940873
-
-                Abstract Lithium-rich layered oxide (LRLO) hold great promise as cathode materials for lithium-ion batteries, but they face challenges due to their complex electrochemical behavior and structural instability. This study proposes an analysis framework using unsupervised learning via Principal Component Analysis (PCA) to improve the predictability and reliability of these materials. By applying PCA, we have identified key factors affecting their electrochemical performance and degradation mechanisms. This has enabled us to easily separate and elucidate oxygen and manganese redox reactions in the low-voltage range, thereby improving our understanding of how the evolution of these reactions affects the degradation of LRLO materials. The PCA-based approach proves to be highly effective in predicting performance and identifying degradation pathways, making a significant advance in the understanding and optimization of these cathodes. These findings represent a step forward in quantifying the mechanisms of electrode materials, which requires the development of models that integrate domain knowledge with data.</description>
-      <author>Jieun Kim, Injun Choi, Ju Seong Kim, Ho-Jin Hwang, In-Chul Park</author>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4134415/v1</guid>
+                Abstract The Protist kingdom individuals are the most ancestral representatives of eukaryotes. They have inhabited Earth since ancient times and are currently found in the most diverse environments presenting a great heterogeneity of life forms. The unicellular and multicellular algae, photosynthetic and heterotrophic organisms, as well as free-living and pathogenic protozoa represents the protist group. The evolution of sex is directly associated with the origin of eukaryotes being protists the earliest protagonists of sexual reproduction on earth. In eukaryotes, the recombination through genetic exchange is a ubiquitous mechanism that can be stimulated by DNA damage. Scientific evidences support the hypothesis that reactive oxygen species (ROS) induced DNA damage can promote sexual recombination in eukaryotes which might have been a decisive factor for the origin of sex. The fact that some recombination enzymes also participate in meiotic sex in modern eukaryotes reinforces the idea that sexual reproduction emerged as consequence of specific mechanisms to cope with mutations and alterations in genetic material. In this review we will discuss about origin of sex and different strategies of evolve sexual reproduction in some protists such that cause human diseases like malaria, toxoplasmosis, sleeping sickness, Chagas disease, and leishmaniasis.</description>
+      <author>Ver&#244;nica Santana da Silva, Carlos Renato Machado</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.21310323</guid>
     </item>
     <item>
       <title>Marine redox dynamics and biotic response to the mid-Silurian Ireviken Extinction Event in a mid-shelf setting</title>
@@ -1439,46 +1329,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.14278143</guid>
     </item>
     <item>
-      <title>Annealing Effects on the Structural and Optical Properties of ZnO Nanostructures</title>
-      <link>https://doi.org/10.6084/m9.figshare.6273374</link>
-      <description>Louise Patron Etcheverry, Wladimir Hern&#225;ndez Flores, Douglas Langie da Silva, Eduardo Ceretta Moreira, Figshare. None(None)] 2018. https://openalex.org/W4394258008
-
-                ZnO nanostructures were synthesized by a proteic sol-gel method, using zinc nitrate hexahydrate and gelatin as precursors. Size and shape evolution of ZnO nanostructures were achieved by annealing temperature in the range 250-1000 &#186;C. The crystalline structure, morphology and optical properties of the ZnO nanoparticles were characterized by X-Ray Diffraction (XRD), Raman Spectroscopy (RS), Fourier Transform Infrared Spectroscopy (FTIR), Scanning Electron Microscopy (SEM), Transmission Electron Microscopy (TEM), and room temperature Photoluminescence (PL). The result of structural characterization shows the formation of platelets and nanorods in the micro-scale and ZnO nanostructures with high quality hexagonal wurtzite crystal. Sharp peaks in RS after annealing temperature, related to wurtzite structure, were observed corroborating with XRD and TEM measurements. Room temperature PL spectra showed two contribution bands which peaked at ~380 nm, originating from the recombination of free excitons, and ~520 nm corresponding to the impurities and structural defects, like oxygen vacancies and zinc interstitial. The effects of annealing temperature in the structural and optical properties are detailed and the results compared among the experimental techniques. The high quality of the samples obtained by an alternative organic precursor method opens a low-cost route to technological applications of zinc oxide.</description>
-      <author>Louise Patron Etcheverry, Wladimir Hern&#225;ndez Flores, Douglas Langie da Silva, Eduardo Ceretta Moreira</author>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.6273374</guid>
-    </item>
-    <item>
-      <title>Sex in protists: A new perspective on the reproduction mechanisms of trypanosomatids</title>
-      <link>https://doi.org/10.6084/m9.figshare.21310323</link>
-      <description>Ver&#244;nica Santana da Silva, Carlos Renato Machado, Figshare. None(None)] 2022. https://openalex.org/W4394283458
-
-                Abstract The Protist kingdom individuals are the most ancestral representatives of eukaryotes. They have inhabited Earth since ancient times and are currently found in the most diverse environments presenting a great heterogeneity of life forms. The unicellular and multicellular algae, photosynthetic and heterotrophic organisms, as well as free-living and pathogenic protozoa represents the protist group. The evolution of sex is directly associated with the origin of eukaryotes being protists the earliest protagonists of sexual reproduction on earth. In eukaryotes, the recombination through genetic exchange is a ubiquitous mechanism that can be stimulated by DNA damage. Scientific evidences support the hypothesis that reactive oxygen species (ROS) induced DNA damage can promote sexual recombination in eukaryotes which might have been a decisive factor for the origin of sex. The fact that some recombination enzymes also participate in meiotic sex in modern eukaryotes reinforces the idea that sexual reproduction emerged as consequence of specific mechanisms to cope with mutations and alterations in genetic material. In this review we will discuss about origin of sex and different strategies of evolve sexual reproduction in some protists such that cause human diseases like malaria, toxoplasmosis, sleeping sickness, Chagas disease, and leishmaniasis.</description>
-      <author>Ver&#244;nica Santana da Silva, Carlos Renato Machado</author>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.21310323</guid>
-    </item>
-    <item>
-      <title>Sedimentary and drainage evolution of the Condamine Valley Transition Zone (eastern Australia)</title>
-      <link>https://doi.org/10.6084/m9.figshare.7654391</link>
-      <description>P. Manchee, Valeria Bianchi, Uri Shaanan, Joan Esterle, Figshare. None(None)] 2019. https://openalex.org/W4394317971
-
-                The basal succession of the Condamine Valley, which overlays the boundary between the Surat and Clarence-Moreton basins (eastern Australia), contains a clay-rich horizon &#8216;the Transition Zone&#8217; that marks a pronounced unconformity between the Jurassic Walloon Coal Measures and the Quaternary Condamine Alluvium. This paper provides insights into the tectonic and drainage evolution of the Condamine Valley through integrated analysis of U&#8211;Pb ages of detrital zircon from three samples (494 concordant analyses), stable oxygen isotope analysis on eight authigenic clay samples, X-ray fluorescence of primary and trace elements, and hyperspectral mineral analysis from two drill cores (Lone Pine 17 and Daandine 164). The Transition Zone is interpreted to consist of both weathered Jurassic sediments and Cenozoic clay deposits. Two sequential cycles of erosion, deposition and pedogenesis, related to geomorphological and climatic conditions are recognised. Distinctive oxygen isotope signatures of the two weathering fronts demonstrated an initial Early Cretaceous phase (&#948;18O = 11.9&#8211;15.7&#8240; VSMOW) associated with laterisation and possible uplift, followed by Paleogene (&#948;18O = 16.4&#8211;17.3&#8240; VSMOW) silcretisation of reworked Jurassic sediments. Detrital zircon geochronology yielded Jurassic maximum constraints for the age of deposition of three samples that are indistinguishable within error, the oldest of which (163 &#177; 8 Ma from the lateritic profile) corresponds to the age of the underlying Walloon Coal Measures. The two overlaying samples from a silcrete profile and granular alluvium yielded overlapping yet younger ages of 150 &#177; 6 Ma and 156 &#177; 9 Ma, respectively. Vitrinite reflectance used as a proxy for the thermal condition of the coal strata enabled an estimated 2&#8211;3 km of burial and subsequent (likely Early Cretaceous) uplift. Geochemical insights from the Condamine Valley correspond to broad-scale climatic and tectonic conditions, suggesting that &#8216;transition zone equivalents&#8217; and corresponding groundwater dynamics may occur in similar sedimentary settings throughout eastern Australia.</description>
-      <author>P. Manchee, Valeria Bianchi, Uri Shaanan, Joan Esterle</author>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7654391</guid>
-    </item>
-    <item>
-      <title>Evolution of physicochemical species concentration in streams based on heavy rainfall event data obtained for high-frequency monitoring</title>
-      <link>https://doi.org/10.6084/m9.figshare.7507208</link>
-      <description>Rubia Girardi, Ad&#237;lson Pinheiro, &#201;dson Torres, Vander Kaufmann, Luis Hamilton Pospissil Garbossa, Figshare. None(None)] 2018. https://openalex.org/W4394392357
-
-                ABSTRACT Studies carried out over short time intervals assist in understanding the biogeochemical processes occurring relatively fast in natural waters. High frequency monitoring shows a greater variability in the water quality during and immediately after heavy rainfall events. This paper presents an assessment of the surface water quality parameters in the Atlantic Forest biome, caused by heavy rainfall events. The work was developed in two fluviometric sections of the Concordia River watershed, located in the state of Santa Catarina, southern Brazil. The spatial distribution of land use shows the predominance of Atlantic Forest in fluviometric section 1 (FS1) and pasture, forestry, agriculture, and Atlantic Forest in fluviometric section 2 (FS2). In each selected heavy rainfall event, the evolution rainfall height, the water level, and physicochemical parameters of water were analyzed. In all events, the water quality changed due to the heavy rainfall. After the events, an increase in water level and turbidity in both fluviometric sections were detected. In addition, the ammonium ion concentration increased in the river, and the pH value and nitrate concentration decreased. The electrical conductivity presented different behavior in each section. The dissolved oxygen concentration increased in 19 of 27 events. The principal component (PC1) correlated with the turbidity in FS1, and it correlated with level, turbidity, and pH in FS2.</description>
-      <author>Rubia Girardi, Ad&#237;lson Pinheiro, &#201;dson Torres, Vander Kaufmann, Luis Hamilton Pospissil Garbossa</author>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7507208</guid>
-    </item>
-    <item>
       <title>Enhancing the high-temperature corrosion resistance of HVOF-sprayed NiCoCrAlY coating in marine environment by Pt modification and pre-oxidation</title>
       <link>https://doi.org/10.1016/j.jmst.2024.02.079</link>
       <description>Y.Y. Li, Yixiao Jiang, C. Zhang, H.Z. Ji, S. Li, Na Xu, Bao Zhang, Shenglong Zhu, F.H. Wang, Journal of Materials Science and Technology/Journal of materials science &amp; technology. None(None)] 2024. https://openalex.org/W4394616309
@@ -1509,6 +1359,36 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24548497</guid>
     </item>
     <item>
+      <title>Annealing Effects on the Structural and Optical Properties of ZnO Nanostructures</title>
+      <link>https://doi.org/10.6084/m9.figshare.6273374</link>
+      <description>Louise Patron Etcheverry, Wladimir Hern&#225;ndez Flores, Douglas Langie da Silva, Eduardo Ceretta Moreira, Figshare. None(None)] 2018. https://openalex.org/W4394258008
+
+                ZnO nanostructures were synthesized by a proteic sol-gel method, using zinc nitrate hexahydrate and gelatin as precursors. Size and shape evolution of ZnO nanostructures were achieved by annealing temperature in the range 250-1000 &#186;C. The crystalline structure, morphology and optical properties of the ZnO nanoparticles were characterized by X-Ray Diffraction (XRD), Raman Spectroscopy (RS), Fourier Transform Infrared Spectroscopy (FTIR), Scanning Electron Microscopy (SEM), Transmission Electron Microscopy (TEM), and room temperature Photoluminescence (PL). The result of structural characterization shows the formation of platelets and nanorods in the micro-scale and ZnO nanostructures with high quality hexagonal wurtzite crystal. Sharp peaks in RS after annealing temperature, related to wurtzite structure, were observed corroborating with XRD and TEM measurements. Room temperature PL spectra showed two contribution bands which peaked at ~380 nm, originating from the recombination of free excitons, and ~520 nm corresponding to the impurities and structural defects, like oxygen vacancies and zinc interstitial. The effects of annealing temperature in the structural and optical properties are detailed and the results compared among the experimental techniques. The high quality of the samples obtained by an alternative organic precursor method opens a low-cost route to technological applications of zinc oxide.</description>
+      <author>Louise Patron Etcheverry, Wladimir Hern&#225;ndez Flores, Douglas Langie da Silva, Eduardo Ceretta Moreira</author>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.6273374</guid>
+    </item>
+    <item>
+      <title>Evolution of physicochemical species concentration in streams based on heavy rainfall event data obtained for high-frequency monitoring</title>
+      <link>https://doi.org/10.6084/m9.figshare.7507208</link>
+      <description>Rubia Girardi, Ad&#237;lson Pinheiro, &#201;dson Torres, Vander Kaufmann, Luis Hamilton Pospissil Garbossa, Figshare. None(None)] 2018. https://openalex.org/W4394392357
+
+                ABSTRACT Studies carried out over short time intervals assist in understanding the biogeochemical processes occurring relatively fast in natural waters. High frequency monitoring shows a greater variability in the water quality during and immediately after heavy rainfall events. This paper presents an assessment of the surface water quality parameters in the Atlantic Forest biome, caused by heavy rainfall events. The work was developed in two fluviometric sections of the Concordia River watershed, located in the state of Santa Catarina, southern Brazil. The spatial distribution of land use shows the predominance of Atlantic Forest in fluviometric section 1 (FS1) and pasture, forestry, agriculture, and Atlantic Forest in fluviometric section 2 (FS2). In each selected heavy rainfall event, the evolution rainfall height, the water level, and physicochemical parameters of water were analyzed. In all events, the water quality changed due to the heavy rainfall. After the events, an increase in water level and turbidity in both fluviometric sections were detected. In addition, the ammonium ion concentration increased in the river, and the pH value and nitrate concentration decreased. The electrical conductivity presented different behavior in each section. The dissolved oxygen concentration increased in 19 of 27 events. The principal component (PC1) correlated with the turbidity in FS1, and it correlated with level, turbidity, and pH in FS2.</description>
+      <author>Rubia Girardi, Ad&#237;lson Pinheiro, &#201;dson Torres, Vander Kaufmann, Luis Hamilton Pospissil Garbossa</author>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7507208</guid>
+    </item>
+    <item>
+      <title>Sedimentary and drainage evolution of the Condamine Valley Transition Zone (eastern Australia)</title>
+      <link>https://doi.org/10.6084/m9.figshare.7654391</link>
+      <description>P. Manchee, Valeria Bianchi, Uri Shaanan, Joan Esterle, Figshare. None(None)] 2019. https://openalex.org/W4394317971
+
+                The basal succession of the Condamine Valley, which overlays the boundary between the Surat and Clarence-Moreton basins (eastern Australia), contains a clay-rich horizon &#8216;the Transition Zone&#8217; that marks a pronounced unconformity between the Jurassic Walloon Coal Measures and the Quaternary Condamine Alluvium. This paper provides insights into the tectonic and drainage evolution of the Condamine Valley through integrated analysis of U&#8211;Pb ages of detrital zircon from three samples (494 concordant analyses), stable oxygen isotope analysis on eight authigenic clay samples, X-ray fluorescence of primary and trace elements, and hyperspectral mineral analysis from two drill cores (Lone Pine 17 and Daandine 164). The Transition Zone is interpreted to consist of both weathered Jurassic sediments and Cenozoic clay deposits. Two sequential cycles of erosion, deposition and pedogenesis, related to geomorphological and climatic conditions are recognised. Distinctive oxygen isotope signatures of the two weathering fronts demonstrated an initial Early Cretaceous phase (&#948;18O = 11.9&#8211;15.7&#8240; VSMOW) associated with laterisation and possible uplift, followed by Paleogene (&#948;18O = 16.4&#8211;17.3&#8240; VSMOW) silcretisation of reworked Jurassic sediments. Detrital zircon geochronology yielded Jurassic maximum constraints for the age of deposition of three samples that are indistinguishable within error, the oldest of which (163 &#177; 8 Ma from the lateritic profile) corresponds to the age of the underlying Walloon Coal Measures. The two overlaying samples from a silcrete profile and granular alluvium yielded overlapping yet younger ages of 150 &#177; 6 Ma and 156 &#177; 9 Ma, respectively. Vitrinite reflectance used as a proxy for the thermal condition of the coal strata enabled an estimated 2&#8211;3 km of burial and subsequent (likely Early Cretaceous) uplift. Geochemical insights from the Condamine Valley correspond to broad-scale climatic and tectonic conditions, suggesting that &#8216;transition zone equivalents&#8217; and corresponding groundwater dynamics may occur in similar sedimentary settings throughout eastern Australia.</description>
+      <author>P. Manchee, Valeria Bianchi, Uri Shaanan, Joan Esterle</author>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7654391</guid>
+    </item>
+    <item>
       <title>Nanosizing and Al-Mg alloying effects of boron particles on combustion characteristics and energy release of B/JP-10 suspension fuel</title>
       <link>https://doi.org/10.1016/j.applthermaleng.2024.123134</link>
       <description>Xuefeng Huang, Weiping He, Shengji Li, Zaizheng Li, Xiaojian Xu, Dan Luo, Applied thermal engineering. None(None)] 2024. https://openalex.org/W4394014563
@@ -1529,17 +1409,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7509551</guid>
     </item>
     <item>
-      <title>Diagnostics of 3D explosion asymmetries of stripped-envelope supernovae
-  by nebular line profiles</title>
-      <link>https://doi.org/10.48550/arxiv.2404.01763</link>
-      <description>Bart van Baal, A. Jerkstrand, Annop Wongwathanarat, Thomas Janka, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4393929767
-
-                Understanding the explosion mechanism and hydrodynamic evolution of core-collapse supernovae is a long-standing quest in astronomy. The asymmetries caused by the explosion are encoded into the line profiles which appear in the nebular phase of the SN evolution -- with particularly clean imprints in He star explosions. Here, we carry out nine different supernova simulations of He-core progenitors, exploding them in 3D with parametrically varied neutrino luminosities using the $\texttt{Prometheus-HotB}$ code, hydrodynamically evolving the models to the homologeous phase. We then compute nebular phase spectra with the 3D NLTE spectral synthesis code $\texttt{ExTraSS}$ (EXplosive TRAnsient Spectral Simulator). We study how line widths and shifts depend on progenitor mass, explosion energy, and viewing angle. We compare the predicted line profile properties against a large set of Type Ib observations, and discuss the degree to which current neutrino-driven explosions can match observationally inferred asymmetries. With self-consistent 3D modelling -- circumventing the difficulties of representing $^{56}$Ni mixing and clumping accurately in 1D models -- we find that neither low-mass He cores exploding with high energies nor high-mass cores exploding with low energies contribute to the Type Ib SN population. Models which have line profile widths in agreement with this population give sufficiently large centroid shifts for calcium emission lines. Calcium is more strongly affected by explosion asymmetries connected to the neutron star kicks than oxygen and magnesium. Lastly, we turn to the NIR spectra from our models to investigate the potential of using this regime to look for the presence of He in the nebular phase.</description>
-      <author>Bart van Baal, A. Jerkstrand, Annop Wongwathanarat, Thomas Janka</author>
-      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2404.01763</guid>
-    </item>
-    <item>
       <title>Supplementary Material for: Scoping Review: Integration of the Major Mechanisms Underlying the Regulation of Arteriolar Tone</title>
       <link>https://doi.org/10.6084/m9.figshare.24764130</link>
       <description>Halvorson B.D., Mahmoud S. Ahmed, Huang S.J., Frisbee J.C., Figshare. None(None)] 2023. https://openalex.org/W4394418691
@@ -1550,16 +1419,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.24764130</guid>
     </item>
     <item>
-      <title>Metallicity of the intergalactic medium using pixel statistics: IV. Oxygen</title>
-      <link>https://doi.org/10.48550/arxiv.0712.1239</link>
-      <description>Anthony Aguirre, Corey Dow-Hygelund, Joop Schaye, Tom Theuns, arXiv (Cornell University). None(None)] 2007. https://openalex.org/W4394637525
-
-                We have studied the abundance of oxygen in the IGM by analyzing OVI, CIV, SiIV, and HI pixel optical depths derived from a set of high-quality VLT and Keck spectra of 17 QSOs at 2.1 &lt; z &lt; 3.6. Comparing OVI and CIV optical depth ratios to those in realistic, synthetic spectra drawn from a hydrodynamical simulation and comparing to existing constraints on [Si/C] places strong constraints on the ultraviolet background (UVB) model using weak priors on allowed values of [Si/O]: for example, a quasar-only background yields [Si/O] ~ 1.4, highly inconsistent with the [Si/O] ~ 0 expected from nucleosynthetic yields and with observations of metal-poor stars. Assuming a fiducial quasar+galaxy UVB consistent with these constraints yields a primary result that [O/C] = 0.66 +/- 0.06 +/- 0.2; this result pertains to gas with overdensity &gt;~ 0.2. Consistent results are obtained by similarly comparing OVI to HI or OVI to SiIV optical depth ratios to simulation values, and also by directly ionization-correcting OVI optical depths as function of HI optical depths into [O/H] as a function of density. Subdividing the sample reveals no evidence for evolution, but low- and high-density samples are inconsistent, suggesting either density-dependence of [O/C] or -- more likely -- prevalence of collisionally-ionized gas at high density.</description>
-      <author>Anthony Aguirre, Corey Dow-Hygelund, Joop Schaye, Tom Theuns</author>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.0712.1239</guid>
-    </item>
-    <item>
       <title>Thermally Induced Structure and Functionality Evolution of a Pt&#8208;based Lean NOx Trap Catalyst</title>
       <link>https://doi.org/10.1002/cctc.202400023</link>
       <description>Dezhi Ren, Chengxiong Wang, Dan Yang, Yinglong Wu, Feng Feng, Junliang Du, Fangyong Yu, Zhu Jin-hua, Yue Zhao, ChemCatChem. None(None)] 2024. https://openalex.org/W4394570470
@@ -1568,6 +1427,16 @@
       <author>Dezhi Ren, Chengxiong Wang, Dan Yang, Yinglong Wu, Feng Feng, Junliang Du, Fangyong Yu, Zhu Jin-hua, Yue Zhao</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400023</guid>
+    </item>
+    <item>
+      <title>Metallicity of the intergalactic medium using pixel statistics: IV. Oxygen</title>
+      <link>https://doi.org/10.48550/arxiv.0712.1239</link>
+      <description>Anthony Aguirre, Corey Dow-Hygelund, Joop Schaye, Tom Theuns, arXiv (Cornell University). None(None)] 2007. https://openalex.org/W4394637525
+
+                We have studied the abundance of oxygen in the IGM by analyzing OVI, CIV, SiIV, and HI pixel optical depths derived from a set of high-quality VLT and Keck spectra of 17 QSOs at 2.1 &lt; z &lt; 3.6. Comparing OVI and CIV optical depth ratios to those in realistic, synthetic spectra drawn from a hydrodynamical simulation and comparing to existing constraints on [Si/C] places strong constraints on the ultraviolet background (UVB) model using weak priors on allowed values of [Si/O]: for example, a quasar-only background yields [Si/O] ~ 1.4, highly inconsistent with the [Si/O] ~ 0 expected from nucleosynthetic yields and with observations of metal-poor stars. Assuming a fiducial quasar+galaxy UVB consistent with these constraints yields a primary result that [O/C] = 0.66 +/- 0.06 +/- 0.2; this result pertains to gas with overdensity &gt;~ 0.2. Consistent results are obtained by similarly comparing OVI to HI or OVI to SiIV optical depth ratios to simulation values, and also by directly ionization-correcting OVI optical depths as function of HI optical depths into [O/H] as a function of density. Subdividing the sample reveals no evidence for evolution, but low- and high-density samples are inconsistent, suggesting either density-dependence of [O/C] or -- more likely -- prevalence of collisionally-ionized gas at high density.</description>
+      <author>Anthony Aguirre, Corey Dow-Hygelund, Joop Schaye, Tom Theuns</author>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.0712.1239</guid>
     </item>
     <item>
       <title>Review&#8212;Recent Progress of Lithium-Rich Cation Disordered Rocksalt Cathode for High Performance Lithium-Ion Batteries</title>
@@ -1630,16 +1499,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/slct.202304026</guid>
     </item>
     <item>
-      <title>Evolution, characterization, and expression profile of Egl-9 family hypoxia-inducible factor (&lt;i&gt;egln&lt;/i&gt;) in rainbow trout (&lt;i&gt;Oncorhynchus mykiss&lt;/i&gt;) under hypoxia stress</title>
-      <link>https://doi.org/10.6084/m9.figshare.19361887</link>
-      <description>Fang Ma, Yali Zou, Xin Chen, Lanfang Ma, Ruilin Ma, Figshare. None(None)] 2022. https://openalex.org/W4394368239
-
-                Egl-9 family hypoxia-inducible factor (egln), an oxygen-sensing enzyme family, has been thoroughly characterized in mammals and certain fishes, but there is few research on its involvement in reproductive development and hypoxic stress in rainbow trout. In this study, we investigated the gene structure, physicochemical properties, and evolutionary connection of the egln gene family. The expression profile of egln gene family and their regulatory mechanism were explored using bioinformatics analysis and hypoxia treatment experiments. Five egln genes were discovered in the rainbow trout genome in this investigation (egln1, egln2a, egln2b, egln3a, and egln3b). Domain prediction revealed that all egln proteins have p4hc conserved domains, and phylogenetic analysis revealed that rainbow trout egln2 and egln3 were closely related to Atlantic salmon. The results of real-time quantitative PCR (RT-qPCR) showed that egln genes were generally expressed in all detected tissues, and higher in the ovary, testis, and brain in normoxia. Under hypoxia, the expression level of eglns was significantly down-regulated in most tissues except the liver. Our research contributes to future research on the functional properties of egln genes, as well as the evolution of teleosts and the impact of hypoxia on biological immunity.</description>
-      <author>Fang Ma, Yali Zou, Xin Chen, Lanfang Ma, Ruilin Ma</author>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.19361887</guid>
-    </item>
-    <item>
       <title>Clinical and epidemiological characterization of patients receiving home care in the city of Macei&#243;, in the state of Alagoas, Brazil</title>
       <link>https://doi.org/10.6084/m9.figshare.20016712</link>
       <description>Carla Montenegro D&#226;maso Carna&#250;ba, Thaysa Dayse Alves e Silva, Juliana Felizardo Viana, J&#250;lia Badra Nogueira Alves, Nat&#225;lia Lima Andrade, Euclides Maur&#237;cio Trindade Filho, Figshare. None(None)] 2022. https://openalex.org/W4394479402
@@ -1648,6 +1507,16 @@
       <author>Carla Montenegro D&#226;maso Carna&#250;ba, Thaysa Dayse Alves e Silva, Juliana Felizardo Viana, J&#250;lia Badra Nogueira Alves, Nat&#225;lia Lima Andrade, Euclides Maur&#237;cio Trindade Filho</author>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.20016712</guid>
+    </item>
+    <item>
+      <title>Evolution, characterization, and expression profile of Egl-9 family hypoxia-inducible factor (&lt;i&gt;egln&lt;/i&gt;) in rainbow trout (&lt;i&gt;Oncorhynchus mykiss&lt;/i&gt;) under hypoxia stress</title>
+      <link>https://doi.org/10.6084/m9.figshare.19361887</link>
+      <description>Fang Ma, Yali Zou, Xin Chen, Lanfang Ma, Ruilin Ma, Figshare. None(None)] 2022. https://openalex.org/W4394368239
+
+                Egl-9 family hypoxia-inducible factor (egln), an oxygen-sensing enzyme family, has been thoroughly characterized in mammals and certain fishes, but there is few research on its involvement in reproductive development and hypoxic stress in rainbow trout. In this study, we investigated the gene structure, physicochemical properties, and evolutionary connection of the egln gene family. The expression profile of egln gene family and their regulatory mechanism were explored using bioinformatics analysis and hypoxia treatment experiments. Five egln genes were discovered in the rainbow trout genome in this investigation (egln1, egln2a, egln2b, egln3a, and egln3b). Domain prediction revealed that all egln proteins have p4hc conserved domains, and phylogenetic analysis revealed that rainbow trout egln2 and egln3 were closely related to Atlantic salmon. The results of real-time quantitative PCR (RT-qPCR) showed that egln genes were generally expressed in all detected tissues, and higher in the ovary, testis, and brain in normoxia. Under hypoxia, the expression level of eglns was significantly down-regulated in most tissues except the liver. Our research contributes to future research on the functional properties of egln genes, as well as the evolution of teleosts and the impact of hypoxia on biological immunity.</description>
+      <author>Fang Ma, Yali Zou, Xin Chen, Lanfang Ma, Ruilin Ma</author>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.19361887</guid>
     </item>
     <item>
       <title>Serial tissue Doppler imaging in the evaluation of bronchopulmonary dysplasia-associated pulmonary hypertension among extremely preterm infants: a prospective observational study</title>
@@ -1740,16 +1609,6 @@
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7436540.v1</guid>
     </item>
     <item>
-      <title>Photoluminescence and afterglow of Tb3+ doped BaAl2O4</title>
-      <link>https://doi.org/10.1016/j.rinp.2024.107656</link>
-      <description>Yungao Cai, Xiaomin Wang, Yuan Ming Huang, Results in physics. None(None)] 2024. https://openalex.org/W4393924825
-
-                Tb3+ doped BaAl2O4 phosphors (0&#8211;9.0 mol%) were prepared through sol&#8211;gel combustion method. The crystal structure, morphology, chemical composition, photoluminescence (PL), afterglow and thermoluminescence (TL) glow curve of Tb3+ doped BaAl2O4 were investigated by means of X-ray diffraction, scanning electron microscopy, transmission electron microscopy, energy dispersive X-ray spectroscopy, PL spectroscopy, afterglow spectroscopy, and TL dosimetry. Characterizations of the PL and afterglow spectra indicate that both Tb3+ doping species and oxygen vacancies act as the luminescence center of PL whereas only Tb3+ dopant works as the luminescence center of afterglow for Tb3+ doped BaAl2O4. The green afterglow of Tb3+ doped BaAl2O4 lasts for about 214 min at the optimal doping concentration of about 1.0 mol%. The profile of TL glow curve of Tb3+ doped BaAl2O4 heavily depends on the doping concentration, and the evolution of the TL glow curve with doping concentration reveals that doping BaAl2O4 with Tb3+ can significantly modify the distribution of carrier traps in the phosphor. The effects of Tb3+ doping on the PL, afterglow, and TL glow curve of Tb3+ doped BaAl2O4 are discussed in terms of the creation, recombination, and neutralization of defects in BaAl2O4. This work proves that doing with Tb3+ species is a general and robust strategy for endowing BaAl2O4 with highly efficient green afterglow. This "defect engineering" approach enables ultra-long afterglow for Tb3+ doped BaAl2O4 when defect centers in the phosphors are optimized.</description>
-      <author>Yungao Cai, Xiaomin Wang, Yuan Ming Huang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.rinp.2024.107656</guid>
-    </item>
-    <item>
       <title>Island&#8208;in&#8208;Sea Structured Pt&lt;sub&gt;3&lt;/sub&gt;Fe Nanoparticles&#8208;in&#8208;Fe Single Atoms Loaded in Carbon Materials as Superior Electrocatalysts toward Alkaline HER and Acidic ORR</title>
       <link>https://doi.org/10.1002/smll.202400240</link>
       <description>Benteng Sun, Hang Lv, Qi Xu, Peiran Tong, Panzhe Qiao, He Tian, Haibing Xia, Small. None(None)] 2024. https://openalex.org/W4394622730
@@ -1758,6 +1617,16 @@
       <author>Benteng Sun, Hang Lv, Qi Xu, Peiran Tong, Panzhe Qiao, He Tian, Haibing Xia</author>
       <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202400240</guid>
+    </item>
+    <item>
+      <title>Baluk cave (NW China) Holocene speleothem trace element ratios</title>
+      <link>https://doi.org/10.6084/m9.figshare.7987019</link>
+      <description>Xiaokang Liu, Figshare. None(None)] 2020. https://openalex.org/W4394513884
+
+                The interpretation of trace element/calcium ratios of speleothems as indicators of local hydroclimatic variability in the vicinity of caves has led to controversy in reconstructing the evolution of moisture conditions in arid central Asia (ACA) during the Holocene. Here we present records of Mg/Ca, Sr/Ca, Ba/Ca, and U/Ca from precisely dated stalagmites from Baluk cave in Xinjiang (northwest China), spanning the past 9370 years. The co-variations of the trace element ratios, together with the slopes of the regression lines of the corresponding logarithmically transformed data, suggest that they are dominated by prior calcite precipitation (PCP) and thus can be used as reliable proxies of changes in moisture/precipitation. The trace element ratios are relatively high during ~9 to 5 ka and lower from 5 ka to the present, indicating a trend of increasing mid&#8211;late Holocene moisture in ACA. The long-term trend of variation of the trace element ratios is correlative with two other records of speleothem trace element ratios from caves in ACA: Kesang cave (western Xinjiang) and Ton cave (Uzbekistan). This spatial coherency of the trend of inferred moisture conditions from three caves that are separated by hundreds of kilometers demonstrates that speleothem trace element ratios are indicative of large spatial scale rather than local hydroclimatic variability in ACA during the Holocene. However, the long-term trend of variation of the trace element ratios is the inverse of the corresponding oxygen isotope (&#948;18O) records from the same cave sites, which implies that Holocene speleothem &#948;18O records do not represent changes in the precipitation amount in ACA; rather, they most likely reflect moisture sources and related water vapor transport controlled by Northern Hemisphere summer insolation (NHSI). Our findings provide new evidence for a &#8216;westerlies-dominated climatic regime&#8217;, which influenced hydroclimatic changes in ACA during the Holocene.</description>
+      <author>Xiaokang Liu</author>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7987019</guid>
     </item>
     <item>
       <title>RNA-seq transcriptome of Staphylococcus aureus at stationary phase in Tryptic Soy Broth</title>
@@ -1771,13 +1640,13 @@
     </item>
     <item>
       <title>Baluk cave (NW China) Holocene speleothem trace element ratios</title>
-      <link>https://doi.org/10.6084/m9.figshare.7987019</link>
-      <description>Xiaokang Liu, Figshare. None(None)] 2020. https://openalex.org/W4394513884
+      <link>https://doi.org/10.6084/m9.figshare.7987019.v2</link>
+      <description>Xiaokang Liu, Figshare. None(None)] 2020. https://openalex.org/W4394186868
 
                 The interpretation of trace element/calcium ratios of speleothems as indicators of local hydroclimatic variability in the vicinity of caves has led to controversy in reconstructing the evolution of moisture conditions in arid central Asia (ACA) during the Holocene. Here we present records of Mg/Ca, Sr/Ca, Ba/Ca, and U/Ca from precisely dated stalagmites from Baluk cave in Xinjiang (northwest China), spanning the past 9370 years. The co-variations of the trace element ratios, together with the slopes of the regression lines of the corresponding logarithmically transformed data, suggest that they are dominated by prior calcite precipitation (PCP) and thus can be used as reliable proxies of changes in moisture/precipitation. The trace element ratios are relatively high during ~9 to 5 ka and lower from 5 ka to the present, indicating a trend of increasing mid&#8211;late Holocene moisture in ACA. The long-term trend of variation of the trace element ratios is correlative with two other records of speleothem trace element ratios from caves in ACA: Kesang cave (western Xinjiang) and Ton cave (Uzbekistan). This spatial coherency of the trend of inferred moisture conditions from three caves that are separated by hundreds of kilometers demonstrates that speleothem trace element ratios are indicative of large spatial scale rather than local hydroclimatic variability in ACA during the Holocene. However, the long-term trend of variation of the trace element ratios is the inverse of the corresponding oxygen isotope (&#948;18O) records from the same cave sites, which implies that Holocene speleothem &#948;18O records do not represent changes in the precipitation amount in ACA; rather, they most likely reflect moisture sources and related water vapor transport controlled by Northern Hemisphere summer insolation (NHSI). Our findings provide new evidence for a &#8216;westerlies-dominated climatic regime&#8217;, which influenced hydroclimatic changes in ACA during the Holocene.</description>
       <author>Xiaokang Liu</author>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7987019</guid>
+      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7987019.v2</guid>
     </item>
     <item>
       <title>Baluk cave (NW China) Holocene speleothem trace element ratios</title>
@@ -1788,26 +1657,6 @@
       <author>Xiaokang Liu</author>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7987019.v1</guid>
-    </item>
-    <item>
-      <title>Baluk cave (NW China) Holocene speleothem trace element ratios</title>
-      <link>https://doi.org/10.6084/m9.figshare.7987019.v2</link>
-      <description>Xiaokang Liu, Figshare. None(None)] 2020. https://openalex.org/W4394186868
-
-                The interpretation of trace element/calcium ratios of speleothems as indicators of local hydroclimatic variability in the vicinity of caves has led to controversy in reconstructing the evolution of moisture conditions in arid central Asia (ACA) during the Holocene. Here we present records of Mg/Ca, Sr/Ca, Ba/Ca, and U/Ca from precisely dated stalagmites from Baluk cave in Xinjiang (northwest China), spanning the past 9370 years. The co-variations of the trace element ratios, together with the slopes of the regression lines of the corresponding logarithmically transformed data, suggest that they are dominated by prior calcite precipitation (PCP) and thus can be used as reliable proxies of changes in moisture/precipitation. The trace element ratios are relatively high during ~9 to 5 ka and lower from 5 ka to the present, indicating a trend of increasing mid&#8211;late Holocene moisture in ACA. The long-term trend of variation of the trace element ratios is correlative with two other records of speleothem trace element ratios from caves in ACA: Kesang cave (western Xinjiang) and Ton cave (Uzbekistan). This spatial coherency of the trend of inferred moisture conditions from three caves that are separated by hundreds of kilometers demonstrates that speleothem trace element ratios are indicative of large spatial scale rather than local hydroclimatic variability in ACA during the Holocene. However, the long-term trend of variation of the trace element ratios is the inverse of the corresponding oxygen isotope (&#948;18O) records from the same cave sites, which implies that Holocene speleothem &#948;18O records do not represent changes in the precipitation amount in ACA; rather, they most likely reflect moisture sources and related water vapor transport controlled by Northern Hemisphere summer insolation (NHSI). Our findings provide new evidence for a &#8216;westerlies-dominated climatic regime&#8217;, which influenced hydroclimatic changes in ACA during the Holocene.</description>
-      <author>Xiaokang Liu</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.7987019.v2</guid>
-    </item>
-    <item>
-      <title>Reply to three reviewers' comments</title>
-      <link>https://doi.org/10.5194/egusphere-2023-2684-ac1</link>
-      <description>Yele Sun, No host. None(None)] 2024. https://openalex.org/W4394615643
-
-                Abstract. Aerosol particles play crucial roles in both climate dynamics and human health. However, there remains a significant gap in our understanding of aerosol composition and evolution, particularly regarding secondary organic aerosols (SOA), and their interaction with clouds in high-altitude background areas in China. Here we conducted real-time measurements of submicron aerosols (PM1) using aerosol mass spectrometers at a forested mountain site (1128 m a.s.l.) in southeastern China in November 2022. Our results revealed that organic aerosol (OA) constituted a substantial portion of PM1 (41.1 %), with the OA being primarily of secondary origin, as evidenced by a high oxygen-to-carbon (O/C) ratio (0.85&#8211;0.96). Positive matrix factorization resolved two distinct SOA factors: less oxidized oxygenated OA (LO-OOA) and more oxidized OOA (MO-OOA). Interestingly, MO-OOA was scavenged efficiently during cloud events, while cloud evaporation contributed significantly to LO-OOA. The ratio of OA/&#916;CO increased with a decrease in the O/C ratio, suggesting that OA remaining in cloud droplets generally maintained a moderate oxidation state. Furthermore, our results indicated a higher contribution of organic nitrates to total nitrate during cloudy periods (27 %) compared to evaporative periods (3 %). Notably, a substantial contribution of nitrate in PM1 (20.9 %) was observed, particularly during high PM periods, implying that nitrate formed in polluted areas interacted with clouds and significantly impacted the regional background site. Overall, our study underscores the importance of understanding the dynamics of secondary organic aerosols and the impacts of cloud processing in regional mountainous areas in southeastern China.</description>
-      <author>Yele Sun</author>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2023-2684-ac1</guid>
     </item>
     <item>
       <title>Petrogenesis and geochronology of the bronze fox porphyry Cu-Au deposit: Implications for the geodynamic evolution of the Gurvansaykhan Island arc, southern Mongolia</title>
@@ -1828,6 +1677,16 @@
       <author>Silvia Magalhaes Novais, Jan Blecha, Ravindra Naraine, Jana Mike&#353;ov&#225;, Pavel Abaffy, Alena Pecinov&#225;, Mirko Milo&#353;evi&#263;, Romana Bohuslavov&#225;, Jan Proch&#225;zka, Shawez Khan, Eli&#353;ka Novotn&#225;, Radek &#352;indelka, Radek Mach&#225;&#328;, Mieke Dewerchin, Erik Vl&#269;&#225;k, Joanna Kalucka, So&#328;a Hub&#225;&#269;kov&#225;, Ale&#353; Benda, Jermaine Goveia, Tom&#225;&#353; Mr&#225;&#269;ek, Cyril Ba&#345;inka, Peter Carmeliet, Ji&#345;&#305;&#769; Neu&#382;il, Kate&#345;ina Rohlenov&#225;, Jakub Rohlena</author>
       <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.6084/m9.figshare.19323823</guid>
+    </item>
+    <item>
+      <title>Reply to three reviewers' comments</title>
+      <link>https://doi.org/10.5194/egusphere-2023-2684-ac1</link>
+      <description>Yele Sun, No host. None(None)] 2024. https://openalex.org/W4394615643
+
+                Abstract. Aerosol particles play crucial roles in both climate dynamics and human health. However, there remains a significant gap in our understanding of aerosol composition and evolution, particularly regarding secondary organic aerosols (SOA), and their interaction with clouds in high-altitude background areas in China. Here we conducted real-time measurements of submicron aerosols (PM1) using aerosol mass spectrometers at a forested mountain site (1128 m a.s.l.) in southeastern China in November 2022. Our results revealed that organic aerosol (OA) constituted a substantial portion of PM1 (41.1 %), with the OA being primarily of secondary origin, as evidenced by a high oxygen-to-carbon (O/C) ratio (0.85&#8211;0.96). Positive matrix factorization resolved two distinct SOA factors: less oxidized oxygenated OA (LO-OOA) and more oxidized OOA (MO-OOA). Interestingly, MO-OOA was scavenged efficiently during cloud events, while cloud evaporation contributed significantly to LO-OOA. The ratio of OA/&#916;CO increased with a decrease in the O/C ratio, suggesting that OA remaining in cloud droplets generally maintained a moderate oxidation state. Furthermore, our results indicated a higher contribution of organic nitrates to total nitrate during cloudy periods (27 %) compared to evaporative periods (3 %). Notably, a substantial contribution of nitrate in PM1 (20.9 %) was observed, particularly during high PM periods, implying that nitrate formed in polluted areas interacted with clouds and significantly impacted the regional background site. Overall, our study underscores the importance of understanding the dynamics of secondary organic aerosols and the impacts of cloud processing in regional mountainous areas in southeastern China.</description>
+      <author>Yele Sun</author>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2023-2684-ac1</guid>
     </item>
     <item>
       <title>Supplementary Material for: Pulmonary Gas Exchange Improves over the First Year in Preterm Infants with and without Bronchopulmonary Dysplasia</title>
