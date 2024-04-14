@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Apr 13 00:52:16 2024
+Created on Sun Apr 14 01:26:56 2024
 
-Found 21 results from 2024-04-06 to 2024-04-13
+Found 14 results from 2024-04-07 to 2024-04-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Correction to “Multi-Functionality of Methanol in Sustainable Catalysis: Beyond Methanol Economy”   
-
-OpenAlex: https://openalex.org/W4393969748    
-Open access: True
-    
-[G. Sivakumar](https://openalex.org/A5003799146), [Rohit Kumar](https://openalex.org/A5071468998), [Vinita Yadav](https://openalex.org/A5013512043), [Virendra K. Gupta](https://openalex.org/A5037088357), [Ekambaram Balaraman](https://openalex.org/A5025119113), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01632 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01632)).
-    
-No abstract    
-
-    
-
-## Catalytic Photoredox Carbobromination of Unactivated Alkenes with α-Bromocarbonyls via the Mechanistically Distinct Radical-Addition Radical-Pairing Pathway   
-
-OpenAlex: https://openalex.org/W4393974861    
-Open access: False
-    
-[Himmat Singh](https://openalex.org/A5057703848), [Raj Kumar Tak](https://openalex.org/A5046833366), [Dhruba P. Poudel](https://openalex.org/A5014703056), [Ramesh Giri](https://openalex.org/A5086361985), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00955.
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4393982452    
-Open access: True
-    
-, ACS catalysis. 14(7)] 2024.https://doi.org/10.1021/csv014i007_1787822 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i007_1787822)).
-    
-No abstract    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4393990563    
-Open access: True
-    
-, ACS catalysis. 14(7)] 2024.https://doi.org/10.1021/csv014i007_1787821 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i007_1787821)).
-    
-No abstract    
-
-    
-
-## Temperature-Dependent Selectivity and Detection of Hidden Carbon Deposition in Methane Oxidation   
-
-OpenAlex: https://openalex.org/W4393991266    
-Open access: True
-    
-[Ulrike Küst](https://openalex.org/A5095090324), [Weijia Wang](https://openalex.org/A5054780272), [Changda Wang](https://openalex.org/A5034196928), [Helena E. Hagelin‐Weaver](https://openalex.org/A5028247969), [Johan Gustafson](https://openalex.org/A5035963338), [Andrey Shavorskiy](https://openalex.org/A5051598053), [Jason F. Weaver](https://openalex.org/A5010210029), [Jan Knudsen](https://openalex.org/A5028067161), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00228 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00228)).
-    
-Reaction products in heterogeneous catalysis can be detected either on the catalyst surface or in the gas phase after desorption. However, if atoms are dissolved in the catalyst bulk, then reaction channels can become hidden. This is the case if the dissolution rate of the deposits is faster than their formation rate. This might lead to the underestimation or even overlooking of reaction channels such as, e.g., carbon deposition during hydrocarbon oxidation reactions, which is problematic as carbon can have a significant influence on the catalytic activity. Here, we demonstrate how such hidden deposition channels can be uncovered by carefully measuring the product formation rates in the local gas phase just above the catalyst surface with time-resolved ambient pressure X-ray photoelectron spectroscopy. As a case study, we investigate methane oxidation on a polycrystalline Pd catalyst in an oxygen-lean environment at a few millibar pressure. By ramping the temperature between 350 and 525 °C, we follow the time evolution of the different reaction pathways. Only in the oxygen mass-transfer limit do we observe CO production, while our data suggests that carbon deposition also happens outside this limit.    
-
-    
-
-## Brønsted Acid-Site Density Controls the Mechanistic Cycle and Product Selectivity in the Methanol-to-Hydrocarbons Reaction in BEA Zeolite   
-
-OpenAlex: https://openalex.org/W4393995116    
-Open access: True
-    
-[Juan Carlos Navarro de Miguel](https://openalex.org/A5035975994), [Sang–Ho Chung](https://openalex.org/A5023228106), [Alla Dikhtiarenko](https://openalex.org/A5060433554), [Teng Li](https://openalex.org/A5004701231), [Javier Patarroyo](https://openalex.org/A5011483166), [Javier Ruiz‐Martínez](https://openalex.org/A5051034025), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06077 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06077)).
-    
-In this work, we show that the acid-site density controls the dominant cycle during the methanol-to-hydrocarbons reaction on beta zeolite. Our experimental evidence is based on the study of beta zeolites with very similar diffusional pathways and different aluminum content. High selectivity to propylene was observed for samples with low Brønsted acid-site density, which is a consequence of the promotion of the olefinic cycle. Our results also confirm that the production of ethylene via the olefinic cycle is negligible. In contrast, high ethylene and aromatics are found at a high Brønsted acid-site density, highlighting the predominancy of the aromatic cycle. Operando UV–vis data show that monoenylic carbocationic species predominate on the olefinic cycle, whereas the aromatic cycle is dominated by polyalkylated monoaromatics. Analysis of the spectroscopy data also shows a linear correlation of the formation of polyaromatic species with the Brønsted acid-site density.    
-
-    
-
-## Rh(III)-Catalyzed Atroposelective C–H Selenylation of 1-Aryl Isoquinolines   
-
-OpenAlex: https://openalex.org/W4393998487    
-Open access: False
-    
-[Dong‐Song Zheng](https://openalex.org/A5020216890), [Pei‐Pei Xie](https://openalex.org/A5013298161), [Fangnuo Zhao](https://openalex.org/A5065611087), [Chao Zheng](https://openalex.org/A5064536916), [Qianqun Gu](https://openalex.org/A5051425300), [Shu‐Li You](https://openalex.org/A5019588728), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01082.
-    
-Rhodium(III)-catalyzed atroposelective C–H selenylation of 1-aryl isoquinolines has been achieved. The direct C–H selenylation reaction between 1-aryl isoquinolines and 2-(phenylselanyl)isoindoline-1,3-dione in the presence of the chiral SCpRh(III) complex afforded a series of axially chiral 1-aryl isoquinoline selenides in up to 95% yield and 96% ee. The reaction features mild conditions and a broad substrate scope. DFT calculations revealed that the C–Se bond formation step proceeds through a formal SN2 pathway.    
-
-    
 
 ## Regio- and Diastereoselective Synthesis of E-Allylic Amines through Hydroalkylation of Terminal Alkynes   
 

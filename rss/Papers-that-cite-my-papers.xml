@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 13 Apr 2024 00:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 01:27:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Potential-dependent activities in interpreting the reaction mechanism of dual-metal atom catalysts for Li-CO2 batteries</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.04.022</link>
-      <description>Xiaolin Liu, Meng-Jun Zhou, Xiaobin Liao, Yan Zhao, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4393971031
-
-                No abstract</description>
-      <author>Xiaolin Liu, Meng-Jun Zhou, Xiaobin Liao, Yan Zhao</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.04.022</guid>
-    </item>
-    <item>
-      <title>Exploring the potential Ru-based catalysts for commercial-scale polymer electrolyte membrane water electrolysis: A systematic review</title>
-      <link>https://doi.org/10.1016/j.pmatsci.2024.101294</link>
-      <description>Shaoxiong Li, Sheng Zhao, Feng Hu, Linlin Li, Jianwei Ren, Lifang Jiao, Seeram Ramakrishna, Shengjie Peng, Progress in Materials Science/Progress in materials science. None(None)] 2024. https://openalex.org/W4393971265
-
-                No abstract</description>
-      <author>Shaoxiong Li, Sheng Zhao, Feng Hu, Linlin Li, Jianwei Ren, Lifang Jiao, Seeram Ramakrishna, Shengjie Peng</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.pmatsci.2024.101294</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;Ab initio&lt;/i&gt; calculations of the chemisorption of atomic H and O on Pt and Ir metal and on bimetallic Pt&lt;sub&gt; &lt;i&gt;x&lt;/i&gt; &lt;/sub&gt;Ir&lt;sub&gt; &lt;i&gt;y&lt;/i&gt; &lt;/sub&gt; surfaces</title>
-      <link>https://doi.org/10.1515/znb-2023-0087</link>
-      <description>Tobias Wittemann, Halil &#304;brahim S&#246;zen, Mehtap Oezaslan, Thorsten Kl&#252;ner, Zeitschrift f&#252;r Naturforschung B. 79(4)] 2024. https://openalex.org/W4393973736
-
-                Abstract Understanding the chemisorption of atoms on precious metal surfaces is of substantial interest for the rational design of heterogeneous and electrochemical catalysts. In this study, we report density functional theory (DFT) investigations of the chemisorption of atomic H and O on bimetallic Pt x Ir y (111) surfaces for bifunctional anode catalyst materials in polymer electrolyte membrane (PEM) fuel cells. We found that for both adsorbates, the adsorption on the Pt(111) surface is in general less exothermic than on the Ir(111) surface. Our study has revealed that chemisorption on the bimetallic surfaces becomes more stable with increasing number of Ir surface atoms at the adsorption site. While for hydrogen atoms the ONTOP sites yield the most negative adsorption energies, the chemisorption of oxygen atoms appears to be most stable on the FCC sites for both the mono- and bimetallic surfaces. Using the ab initio thermodynamics approach, we calculated phase diagrams for the chemisorption of H and O atoms on these metal surfaces in order to transfer our findings to finite temperature and pressure conditions. Our theoretical results may provide an improved understanding of the hydrogen oxidation reaction (HOR) and oxygen evolution reaction (OER) on intermetallic Pt x Ir y (111) surfaces and may be helpful for the rational design of new bifunctional PEM fuel cell anode catalyst materials.</description>
-      <author>Tobias Wittemann, Halil &#304;brahim S&#246;zen, Mehtap Oezaslan, Thorsten Kl&#252;ner</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1515/znb-2023-0087</guid>
-    </item>
-    <item>
-      <title>Biomolecular dynamics with machine-learned quantum-mechanical force fields trained on diverse chemical fragments</title>
-      <link>https://doi.org/10.1126/sciadv.adn4397</link>
-      <description>Oliver T. Unke, Martin St&#246;hr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maennel, Sergii Kashubin, Daniel Ahlin, Michael Gastegger, Leonardo Medrano Sandonas, Joshua T. Berryman, Alexandre Tkatchenko, Klaus-Robert M&#252;ller, Science advances. 10(14)] 2024. https://openalex.org/W4393973933
-
-                The GEMS method enables molecular dynamics simulations of large heterogeneous systems at ab initio quality.</description>
-      <author>Oliver T. Unke, Martin St&#246;hr, Stefan Ganscha, Thomas Unterthiner, Hartmut Maennel, Sergii Kashubin, Daniel Ahlin, Michael Gastegger, Leonardo Medrano Sandonas, Joshua T. Berryman, Alexandre Tkatchenko, Klaus-Robert M&#252;ller</author>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1126/sciadv.adn4397</guid>
-    </item>
-    <item>
-      <title>Composite Materials with Nanoscale Multilayer Architecture Based on Cathodic-Arc Evaporated WN/NbN Coatings</title>
-      <link>https://doi.org/10.1021/acsomega.3c10242</link>
-      <description>Kateryna Smyrnova, Miroslav Sahul, Mari&#225;n Har&#353;&#225;ni, &#1042;. &#1052;. &#1041;&#1077;&#1088;&#1077;&#1089;&#1085;&#1077;&#1074;, Martin Truchl&#253;, &#317;ubom&#237;r &#268;aplovi&#269;, M&#225;ria &#268;aplovi&#269;ov&#225;, Martin Kus&#253;, A.O. Kozak, Dominik Flock, Alexey Kassymbaev, A.D. Pogrebnjak, ACS omega. None(None)] 2024. https://openalex.org/W4393976383
-
-                Hard nitride coatings are commonly employed to protect components subjected to friction, whereby such coatings should possess excellent tribomechanical properties in order to endure high stresses and temperatures. In this study, WN/NbN coatings are synthesized by using the cathodic-arc evaporation (CA-PVD) technique at various negative bias voltages in the 50&#8211;200 V range. The phase composition, microstructural features, and tribomechanical properties of the multilayers are comprehensively studied. Fabricated coatings have a complex structure of three nanocrystalline phases: &#946;-W2N, &#948;-NbN, and &#949;-NbN. They demonstrate a tendency for (111)-oriented grains to overgrow (200)-oriented grains with increasing coating thickness. All of the data show that a decrease in the fraction of &#949;-NbN phase and formation of the (111)-textured grains positively impact mechanical properties and wear behavior. Investigation of the room-temperature tribological properties reveals that with an increase in bias voltage from &#8722;50 to &#8722;200 V, the wear mechanisms change as follows: oxidative &#8594; fatigue and oxidative &#8594; adhesive and oxidative. Furthermore, WN/NbN coatings demonstrate a high hardness of 33.6&#8211;36.6 GPa and a low specific wear rate of (1.9&#8211;4.1) &#215; 10&#8211;6 mm3/Nm. These results indicate that synthesized multilayers hold promise for tribological applications as wear-resistant coatings.</description>
-      <author>Kateryna Smyrnova, Miroslav Sahul, Mari&#225;n Har&#353;&#225;ni, &#1042;. &#1052;. &#1041;&#1077;&#1088;&#1077;&#1089;&#1085;&#1077;&#1074;, Martin Truchl&#253;, &#317;ubom&#237;r &#268;aplovi&#269;, M&#225;ria &#268;aplovi&#269;ov&#225;, Martin Kus&#253;, A.O. Kozak, Dominik Flock, Alexey Kassymbaev, A.D. Pogrebnjak</author>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c10242</guid>
-    </item>
-    <item>
-      <title>Selective Reduction of Co 2 to Ethanol Over Si/Cu(111) Surface: An Insights from the First-Principles Calculations</title>
-      <link>https://doi.org/10.2139/ssrn.4784997</link>
-      <description>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu, No host. None(None)] 2024. https://openalex.org/W4393979607
-
-                No abstract</description>
-      <author>Chang Liu, Dan Wang, Boting Yang, Song Jiang, Gang Sun, Yong&#8208;Qing Qiu, Chun&#8208;Guang Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4784997</guid>
-    </item>
-    <item>
-      <title>Gradient OH Desorption Facilitating Alkaline Hydrogen Evolution Over Ultrafine Quinary Nanoalloy</title>
-      <link>https://doi.org/10.1002/aenm.202400777</link>
-      <description>Hao Ren, Zhihao Zhang, Zhimin Geng, Zhe Wang, Fengyi Shen, Xinhu Liang, Zengjian Cai, Yufang Wang, Dan Cheng, Yanan Cao, Xiaoxin Yang, Mingzhen Hu, Xia Yao, Kebin Zhou, Advanced energy materials. None(None)] 2024. https://openalex.org/W4393991736
-
-                Abstract Strengthening OH adsorption on electrocatalyst is crucial to promote the rate&#8208;determining water dissociation step of alkaline hydrogen evolution reaction (HER), whereas too&#8208;intensified OH adsorption will poison the active sites instead. This dilemma remains one of the major challenges for improving the electrocatalysts&#8217; alkaline HER activities. Herein, a surprising finding that the strongly adsorbed OH on an ultrafine quinary PtCoCuNiZn nanoalloy can be facilely desorbed via a unique gradient OH desorption pattern is reported, which tremendously boosts its alkaline HER activity. Theoretical simulations unravel that the ultrafine PtCoCuNiZn nanoalloy possesses versatile metal sites for adsorbing OH and the strongly adsorbed OH can be gradiently transferred to desorb from the ultrafine PtCoCuNiZn nanoalloy with moderate energy barriers for each transfer step that is the gradient OH desorption. In the meanwhile, the unique gradient OH desorption mode on the ultrafine PtCoCuNiZn nanoalloy is also experimentally evidenced by the in situ Raman spectroscopy and cyclic voltammetry measurements. This finding offers a fresh opportunity to expedite the alkaline HER without compromising the OH adsorption strength on electrocatalysts, which thus maximally promotes their water dissociation properties and unlocks the full potential of their alkaline HER activities.</description>
-      <author>Hao Ren, Zhihao Zhang, Zhimin Geng, Zhe Wang, Fengyi Shen, Xinhu Liang, Zengjian Cai, Yufang Wang, Dan Cheng, Yanan Cao, Xiaoxin Yang, Mingzhen Hu, Xia Yao, Kebin Zhou</author>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202400777</guid>
-    </item>
-    <item>
-      <title>Recent Progress on Computation&#8208;Guided Catalyst Design for Highly Efficient Nitrogen Reduction Reaction</title>
-      <link>https://doi.org/10.1002/adfm.202400773</link>
-      <description>Tianyi Dai, Tong&#8208;Hui Wang, Zi Wen, Q. Jiang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4393993179
-
-                Abstract Electrochemical nitrogen reduction reaction (NRR) for ammonia synthesis has attracted great interest in recent years, which presents a carbon&#8208;free alternative to the energy&#8208;intensive Haber&#8211;Bosch process. Besides, NRR also provides a promising coverage route of renewable energy since NH 3 is considered the second generation of hydrogen energy while possessing established technologies of liquefaction, storage, and transport. However, there are long&#8208;term challenges in catalyst design for NRR due to its low intrinsic activity and unsatisfied selectivity. Fortunately, by conducting extensive explorations in this field, much progress is achieved in boosting the NRR performance. Herein, from a view of the atomic/electronic level, three promotion effects are summarized for NRR (i.e., electron effect, geometry effect, and ligand effect), which tackle the challenges of activity and selectivity. Representative studies with taking fully advantages of the promotion effects are reviewed, which realized remarkable NRR performance. Finally, the future research directions and prospects are discussed. It is highly expected that this review will enable the advancement of NRR catalysts and promote the further development of electrochemical NRR.</description>
-      <author>Tianyi Dai, Tong&#8208;Hui Wang, Zi Wen, Q. Jiang</author>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202400773</guid>
-    </item>
     <item>
       <title>Ammonolysis&#8208;Driven Exsolution of Ru Nanoparticle Embedded in Conductive Metal Nitride Matrix to Boost Electrocatalyst Activity</title>
       <link>https://doi.org/10.1002/advs.202309819</link>
@@ -172,7 +92,7 @@
       <link>https://doi.org/10.1021/acsami.4c01527</link>
       <description>Kai Zheng, Tejs Vegge, Ivano E. Castelli, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4394566694
 
-                No abstract</description>
+                Nanotubes have established a new paradigm in nanoscience because of their atomically thin geometries and intriguing properties. However, because of their typical metastability compared to their 2D and 3D counterparts, it is still fundamentally challenging to synthesize nanotubes with controlled size. New strategies have been suggested for synthesizing nanotubes with a controlled geometry. One of these is considering Janus 2D layers, which can self-roll to form a nanotube. Herein, we study 412 nanotubes (along the armchair and zigzag directions) based on 36 Janus IV-VI compounds using density functional theory (DFT) calculations. By investigating the energy-radius relationship using structural models and Bayesian predictions, the most stable nanotubes show negative strain energies and radii below 20 &#197;, where curvature effects can play a significant role. The band structures show that the selected nanotubes exhibit sizable band gaps and size-dependent electronic properties. More strikingly, the flexoelectricity along the in-plane directions and radial directions in these nanotubes is significantly larger than that in other nanotubes and their 2D counterparts. This work opens up an avenue of structure-property relationships of Janus IV-VI nanotubes and demonstrates giant flexoelectricity in these nanotubes for future electronic and energy applications.</description>
       <author>Kai Zheng, Tejs Vegge, Ivano E. Castelli</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c01527</guid>
@@ -262,7 +182,7 @@
       <link>https://doi.org/10.1002/advs.202308477</link>
       <description>Zhong Li, Xu Cheng, Zheye Zhang, Shan Xia, Dongsheng Li, Liren Liu, Peng Chen, Xiaochen Dong, Advanced science. None(None)] 2024. https://openalex.org/W4394615348
 
-                Abstract Developing non&#8208;precious&#8208;metal electrocatalysts that can operate with a low overpotential at a high current density for industrial application is challenging. Heterogeneous bimetallic phosphides have attracted much interest. Despite high hydrogen evolution reaction (HER) performance, the ordinary oxygen evolution reaction (OER) performance hinders their practical use. Herein, it is shown that Fe&#8208;doping reverses and enlarges the interfacial electrical field at the heterojunction, turning the H intermediate favorable binding sites for HER into O intermediate favorable sites for OER. Specifically, the self&#8208;supported heterojunction catalysts on nickel foam (CoP@Ni 2 P/NF and Fe&#8208;CoP@Fe&#8208;Ni 2 P/NF) are readily synthesized. They only require the overpotentials of 266 and 274 mV to drive a large current density of 1000 mA cm &#8722;2 ( j 1000 ) for HER and OER, respectively. Furthermore, a water splitting cell equipped with these electrodes only requires a voltage of 1.724 V to drive j 1000 with excellent durability, demonstrating the potential of industrial application. This work offers new insights on interfacial engineering for heterojunction catalysts.</description>
+                Developing non-precious-metal electrocatalysts that can operate with a low overpotential at a high current density for industrial application is challenging. Heterogeneous bimetallic phosphides have attracted much interest. Despite high hydrogen evolution reaction (HER) performance, the ordinary oxygen evolution reaction (OER) performance hinders their practical use. Herein, it is shown that Fe-doping reverses and enlarges the interfacial electrical field at the heterojunction, turning the H intermediate favorable binding sites for HER into O intermediate favorable sites for OER. Specifically, the self-supported heterojunction catalysts on nickel foam (CoP@Ni2P/NF and Fe-CoP@Fe-Ni2P/NF) are readily synthesized. They only require the overpotentials of 266 and 274 mV to drive a large current density of 1000 mA cm-2 (j1000) for HER and OER, respectively. Furthermore, a water splitting cell equipped with these electrodes only requires a voltage of 1.724 V to drive j1000 with excellent durability, demonstrating the potential of industrial application. This work offers new insights on interfacial engineering for heterojunction catalysts.</description>
       <author>Zhong Li, Xu Cheng, Zheye Zhang, Shan Xia, Dongsheng Li, Liren Liu, Peng Chen, Xiaochen Dong</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/advs.202308477</guid>

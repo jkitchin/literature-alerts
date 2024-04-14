@@ -1,8 +1,8 @@
 #+TITLE: Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Sat Apr 13 00:52:19 2024
+Created on Sun Apr 14 01:26:57 2024
 
-Found 1 results from 2024-04-06 to 2024-04-13
+Found 1 results from 2024-04-07 to 2024-04-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595]]
@@ -10,7 +10,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 * Dynamic Promotion of the Oxygen Evolution Reaction via Programmable Metal Oxides  :Dynamic_catalysis___citing_and_related:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394568896
-:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Fuel Cell Membrane Technology
+:TOPICS: Fuel Cell Membrane Technology, Memristive Devices for Neuromorphic Computing, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-04-08
 :END:    
     

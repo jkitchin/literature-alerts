@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sat Apr 13 00:52:24 2024
+Created on Sun Apr 14 01:27:02 2024
 
-Found 29 results from 2024-04-06 to 2024-04-13
+Found 21 results from 2024-04-07 to 2024-04-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
@@ -12,94 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## Potential-dependent activities in interpreting the reaction mechanism of dual-metal atom catalysts for Li-CO2 batteries   
-
-OpenAlex: https://openalex.org/W4393971031    
-Open access: False
-    
-[Xiaolin Liu](https://openalex.org/A5050789305), [Meng-Jun Zhou](https://openalex.org/A5072572830), [Xiaobin Liao](https://openalex.org/A5057915826), [Yan Zhao](https://openalex.org/A5050699488), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.04.022.
-    
-No abstract    
-
-    
-
-## Exploring the potential Ru-based catalysts for commercial-scale polymer electrolyte membrane water electrolysis: A systematic review   
-
-OpenAlex: https://openalex.org/W4393971265    
-Open access: False
-    
-[Shaoxiong Li](https://openalex.org/A5029823651), [Sheng Zhao](https://openalex.org/A5002546727), [Feng Hu](https://openalex.org/A5075628250), [Linlin Li](https://openalex.org/A5000927257), [Jianwei Ren](https://openalex.org/A5069115514), [Lifang Jiao](https://openalex.org/A5014197896), [Seeram Ramakrishna](https://openalex.org/A5077698461), [Shengjie Peng](https://openalex.org/A5011395130), Progress in Materials Science/Progress in materials science. None(None)] 2024.https://doi.org/10.1016/j.pmatsci.2024.101294.
-    
-No abstract    
-
-    
-
-## Ab initio calculations of the chemisorption of atomic H and O on Pt and Ir metal and on bimetallic Pt x Ir y  surfaces   
-
-OpenAlex: https://openalex.org/W4393973736    
-Open access: False
-    
-[Tobias Wittemann](https://openalex.org/A5095085167), [Halil İbrahim Sözen](https://openalex.org/A5026411828), [Mehtap Oezaslan](https://openalex.org/A5019092689), [Thorsten Klüner](https://openalex.org/A5060744075), Zeitschrift für Naturforschung B. 79(4)] 2024.https://doi.org/10.1515/znb-2023-0087.
-    
-Abstract Understanding the chemisorption of atoms on precious metal surfaces is of substantial interest for the rational design of heterogeneous and electrochemical catalysts. In this study, we report density functional theory (DFT) investigations of the chemisorption of atomic H and O on bimetallic Pt x Ir y (111) surfaces for bifunctional anode catalyst materials in polymer electrolyte membrane (PEM) fuel cells. We found that for both adsorbates, the adsorption on the Pt(111) surface is in general less exothermic than on the Ir(111) surface. Our study has revealed that chemisorption on the bimetallic surfaces becomes more stable with increasing number of Ir surface atoms at the adsorption site. While for hydrogen atoms the ONTOP sites yield the most negative adsorption energies, the chemisorption of oxygen atoms appears to be most stable on the FCC sites for both the mono- and bimetallic surfaces. Using the ab initio thermodynamics approach, we calculated phase diagrams for the chemisorption of H and O atoms on these metal surfaces in order to transfer our findings to finite temperature and pressure conditions. Our theoretical results may provide an improved understanding of the hydrogen oxidation reaction (HOR) and oxygen evolution reaction (OER) on intermetallic Pt x Ir y (111) surfaces and may be helpful for the rational design of new bifunctional PEM fuel cell anode catalyst materials.    
-
-    
-
-## Biomolecular dynamics with machine-learned quantum-mechanical force fields trained on diverse chemical fragments   
-
-OpenAlex: https://openalex.org/W4393973933    
-Open access: True
-    
-[Oliver T. Unke](https://openalex.org/A5087792082), [Martin Stöhr](https://openalex.org/A5043625434), [Stefan Ganscha](https://openalex.org/A5037530562), [Thomas Unterthiner](https://openalex.org/A5083016682), [Hartmut Maennel](https://openalex.org/A5051231311), [Sergii Kashubin](https://openalex.org/A5087005099), [Daniel Ahlin](https://openalex.org/A5052218780), [Michael Gastegger](https://openalex.org/A5011992388), [Leonardo Medrano Sandonas](https://openalex.org/A5075028933), [Joshua T. Berryman](https://openalex.org/A5059514265), [Alexandre Tkatchenko](https://openalex.org/A5026929463), [Klaus-Robert Müller](https://openalex.org/A5009868884), Science advances. 10(14)] 2024.https://doi.org/10.1126/sciadv.adn4397 ([pdf](https://www.science.org/doi/pdf/10.1126/sciadv.adn4397?download=true)).
-    
-The GEMS method enables molecular dynamics simulations of large heterogeneous systems at ab initio quality.    
-
-    
-
-## Composite Materials with Nanoscale Multilayer Architecture Based on Cathodic-Arc Evaporated WN/NbN Coatings   
-
-OpenAlex: https://openalex.org/W4393976383    
-Open access: True
-    
-[Kateryna Smyrnova](https://openalex.org/A5054986673), [Miroslav Sahul](https://openalex.org/A5066076070), [Marián Haršáni](https://openalex.org/A5028081502), [В. М. Береснев](https://openalex.org/A5076438899), [Martin Truchlý](https://openalex.org/A5060744360), [Ľubomír Čaplovič](https://openalex.org/A5014938871), [Mária Čaplovičová](https://openalex.org/A5017719711), [Martin Kusý](https://openalex.org/A5047657236), [A.O. Kozak](https://openalex.org/A5040759884), [Dominik Flock](https://openalex.org/A5063297873), [Alexey Kassymbaev](https://openalex.org/A5006176438), [A.D. Pogrebnjak](https://openalex.org/A5032907696), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.3c10242 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.3c10242)).
-    
-Hard nitride coatings are commonly employed to protect components subjected to friction, whereby such coatings should possess excellent tribomechanical properties in order to endure high stresses and temperatures. In this study, WN/NbN coatings are synthesized by using the cathodic-arc evaporation (CA-PVD) technique at various negative bias voltages in the 50–200 V range. The phase composition, microstructural features, and tribomechanical properties of the multilayers are comprehensively studied. Fabricated coatings have a complex structure of three nanocrystalline phases: β-W2N, δ-NbN, and ε-NbN. They demonstrate a tendency for (111)-oriented grains to overgrow (200)-oriented grains with increasing coating thickness. All of the data show that a decrease in the fraction of ε-NbN phase and formation of the (111)-textured grains positively impact mechanical properties and wear behavior. Investigation of the room-temperature tribological properties reveals that with an increase in bias voltage from −50 to −200 V, the wear mechanisms change as follows: oxidative → fatigue and oxidative → adhesive and oxidative. Furthermore, WN/NbN coatings demonstrate a high hardness of 33.6–36.6 GPa and a low specific wear rate of (1.9–4.1) × 10–6 mm3/Nm. These results indicate that synthesized multilayers hold promise for tribological applications as wear-resistant coatings.    
-
-    
-
-## Selective Reduction of Co 2 to Ethanol Over Si/Cu(111) Surface: An Insights from the First-Principles Calculations   
-
-OpenAlex: https://openalex.org/W4393979607    
-Open access: False
-    
-[Chang Liu](https://openalex.org/A5051852456), [Dan Wang](https://openalex.org/A5053014131), [Boting Yang](https://openalex.org/A5049864053), [Song Jiang](https://openalex.org/A5026734950), [Gang Sun](https://openalex.org/A5011476053), [Yong‐Qing Qiu](https://openalex.org/A5003297812), [Chun‐Guang Liu](https://openalex.org/A5017146181), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4784997.
-    
-No abstract    
-
-    
-
-## Gradient OH Desorption Facilitating Alkaline Hydrogen Evolution Over Ultrafine Quinary Nanoalloy   
-
-OpenAlex: https://openalex.org/W4393991736    
-Open access: False
-    
-[Hao Ren](https://openalex.org/A5041301033), [Zhihao Zhang](https://openalex.org/A5040889248), [Zhimin Geng](https://openalex.org/A5027610065), [Zhe Wang](https://openalex.org/A5056053058), [Fengyi Shen](https://openalex.org/A5052009653), [Xinhu Liang](https://openalex.org/A5009239986), [Zengjian Cai](https://openalex.org/A5090662024), [Yufang Wang](https://openalex.org/A5085314218), [Dan Cheng](https://openalex.org/A5059984618), [Yanan Cao](https://openalex.org/A5002260375), [Xiaoxin Yang](https://openalex.org/A5033874532), [Mingzhen Hu](https://openalex.org/A5070461193), [Xia Yao](https://openalex.org/A5021651601), [Kebin Zhou](https://openalex.org/A5066880665), Advanced energy materials. None(None)] 2024.https://doi.org/10.1002/aenm.202400777.
-    
-Abstract Strengthening OH adsorption on electrocatalyst is crucial to promote the rate‐determining water dissociation step of alkaline hydrogen evolution reaction (HER), whereas too‐intensified OH adsorption will poison the active sites instead. This dilemma remains one of the major challenges for improving the electrocatalysts’ alkaline HER activities. Herein, a surprising finding that the strongly adsorbed OH on an ultrafine quinary PtCoCuNiZn nanoalloy can be facilely desorbed via a unique gradient OH desorption pattern is reported, which tremendously boosts its alkaline HER activity. Theoretical simulations unravel that the ultrafine PtCoCuNiZn nanoalloy possesses versatile metal sites for adsorbing OH and the strongly adsorbed OH can be gradiently transferred to desorb from the ultrafine PtCoCuNiZn nanoalloy with moderate energy barriers for each transfer step that is the gradient OH desorption. In the meanwhile, the unique gradient OH desorption mode on the ultrafine PtCoCuNiZn nanoalloy is also experimentally evidenced by the in situ Raman spectroscopy and cyclic voltammetry measurements. This finding offers a fresh opportunity to expedite the alkaline HER without compromising the OH adsorption strength on electrocatalysts, which thus maximally promotes their water dissociation properties and unlocks the full potential of their alkaline HER activities.    
-
-    
-
-## Recent Progress on Computation‐Guided Catalyst Design for Highly Efficient Nitrogen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4393993179    
-Open access: False
-    
-[Tianyi Dai](https://openalex.org/A5083149006), [Tong‐Hui Wang](https://openalex.org/A5062441689), [Zi Wen](https://openalex.org/A5055543764), [Q. Jiang](https://openalex.org/A5020445890), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202400773.
-    
-Abstract Electrochemical nitrogen reduction reaction (NRR) for ammonia synthesis has attracted great interest in recent years, which presents a carbon‐free alternative to the energy‐intensive Haber–Bosch process. Besides, NRR also provides a promising coverage route of renewable energy since NH 3 is considered the second generation of hydrogen energy while possessing established technologies of liquefaction, storage, and transport. However, there are long‐term challenges in catalyst design for NRR due to its low intrinsic activity and unsatisfied selectivity. Fortunately, by conducting extensive explorations in this field, much progress is achieved in boosting the NRR performance. Herein, from a view of the atomic/electronic level, three promotion effects are summarized for NRR (i.e., electron effect, geometry effect, and ligand effect), which tackle the challenges of activity and selectivity. Representative studies with taking fully advantages of the promotion effects are reviewed, which realized remarkable NRR performance. Finally, the future research directions and prospects are discussed. It is highly expected that this review will enable the advancement of NRR catalysts and promote the further development of electrochemical NRR.    
-
-    
 
 ## Ammonolysis‐Driven Exsolution of Ru Nanoparticle Embedded in Conductive Metal Nitride Matrix to Boost Electrocatalyst Activity   
 
@@ -196,7 +108,7 @@ Open access: False
     
 [Kai Zheng](https://openalex.org/A5008348794), [Tejs Vegge](https://openalex.org/A5083050334), [Ivano E. Castelli](https://openalex.org/A5047189415), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c01527.
     
-No abstract    
+Nanotubes have established a new paradigm in nanoscience because of their atomically thin geometries and intriguing properties. However, because of their typical metastability compared to their 2D and 3D counterparts, it is still fundamentally challenging to synthesize nanotubes with controlled size. New strategies have been suggested for synthesizing nanotubes with a controlled geometry. One of these is considering Janus 2D layers, which can self-roll to form a nanotube. Herein, we study 412 nanotubes (along the armchair and zigzag directions) based on 36 Janus IV-VI compounds using density functional theory (DFT) calculations. By investigating the energy-radius relationship using structural models and Bayesian predictions, the most stable nanotubes show negative strain energies and radii below 20 Å, where curvature effects can play a significant role. The band structures show that the selected nanotubes exhibit sizable band gaps and size-dependent electronic properties. More strikingly, the flexoelectricity along the in-plane directions and radial directions in these nanotubes is significantly larger than that in other nanotubes and their 2D counterparts. This work opens up an avenue of structure-property relationships of Janus IV-VI nanotubes and demonstrates giant flexoelectricity in these nanotubes for future electronic and energy applications.    
 
     
 
@@ -295,7 +207,7 @@ Open access: True
     
 [Zhong Li](https://openalex.org/A5068376674), [Xu Cheng](https://openalex.org/A5003639801), [Zheye Zhang](https://openalex.org/A5067066373), [Shan Xia](https://openalex.org/A5045971603), [Dongsheng Li](https://openalex.org/A5076345724), [Liren Liu](https://openalex.org/A5065592252), [Peng Chen](https://openalex.org/A5013652689), [Xiaochen Dong](https://openalex.org/A5087996919), Advanced science. None(None)] 2024.https://doi.org/10.1002/advs.202308477 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202308477)).
     
-Abstract Developing non‐precious‐metal electrocatalysts that can operate with a low overpotential at a high current density for industrial application is challenging. Heterogeneous bimetallic phosphides have attracted much interest. Despite high hydrogen evolution reaction (HER) performance, the ordinary oxygen evolution reaction (OER) performance hinders their practical use. Herein, it is shown that Fe‐doping reverses and enlarges the interfacial electrical field at the heterojunction, turning the H intermediate favorable binding sites for HER into O intermediate favorable sites for OER. Specifically, the self‐supported heterojunction catalysts on nickel foam (CoP@Ni 2 P/NF and Fe‐CoP@Fe‐Ni 2 P/NF) are readily synthesized. They only require the overpotentials of 266 and 274 mV to drive a large current density of 1000 mA cm −2 ( j 1000 ) for HER and OER, respectively. Furthermore, a water splitting cell equipped with these electrodes only requires a voltage of 1.724 V to drive j 1000 with excellent durability, demonstrating the potential of industrial application. This work offers new insights on interfacial engineering for heterojunction catalysts.    
+Developing non-precious-metal electrocatalysts that can operate with a low overpotential at a high current density for industrial application is challenging. Heterogeneous bimetallic phosphides have attracted much interest. Despite high hydrogen evolution reaction (HER) performance, the ordinary oxygen evolution reaction (OER) performance hinders their practical use. Herein, it is shown that Fe-doping reverses and enlarges the interfacial electrical field at the heterojunction, turning the H intermediate favorable binding sites for HER into O intermediate favorable sites for OER. Specifically, the self-supported heterojunction catalysts on nickel foam (CoP@Ni2P/NF and Fe-CoP@Fe-Ni2P/NF) are readily synthesized. They only require the overpotentials of 266 and 274 mV to drive a large current density of 1000 mA cm-2 (j1000) for HER and OER, respectively. Furthermore, a water splitting cell equipped with these electrodes only requires a voltage of 1.724 V to drive j1000 with excellent durability, demonstrating the potential of industrial application. This work offers new insights on interfacial engineering for heterojunction catalysts.    
 
     
 

@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Apr 13 00:52:17 2024
+Created on Sun Apr 14 01:26:56 2024
 
-Found 17 results from 2024-04-06 to 2024-04-13
+Found 16 results from 2024-04-07 to 2024-04-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* Large-Scale Optimization of Nonconvex MINLP Refinery Scheduling  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394000444
-:TOPICS: State-of-the-Art in Process Optimization under Uncertainty, Model Predictive Control in Industrial Processes, Scheduling Problems in Manufacturing Systems
-:PUBLICATION_DATE: 2024-03-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.compchemeng.2024.108678")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394000444"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394000444"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394000444"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394000444 (Open access: False)
-    
-[[https://openalex.org/A5024970939][Robert E. Franzoi]], [[https://openalex.org/A5082709906][Brenno C. Menezes]], [[https://openalex.org/A5047954769][Jeffrey D. Kelly]], [[https://openalex.org/A5006803541][Jorge Andrey Wilhelms Gut]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], Computers & chemical engineering. None(None)] 2024. https://doi.org/10.1016/j.compchemeng.2024.108678 
-     
-Modeling and optimization of large-scale refinery scheduling problems is challenging because of their complexity and size. Herein, we propose a mathematical model to represent such problems more accurately and realistically, and a state-of-the-art optimization framework for its solution. The framework leverages the use of mathematical optimization and algorithmic methods by combining modeling approaches (process design, model decompositions), solving strategies (rescheduling, heuristics), and machine learning regression (surrogate models). An industrial-size refinery scheduling problem (2 blenders, 4 feed tanks, distillation network with 5 towers, processing network with FCC, hydrotreaters, debutanizers, superfractionator, catalytic reformer) is formulated as a hierarchical nonconvex mixed-integer nonlinear programming (MINLP) model and is successfully optimized, providing higher profitability and more efficient scheduling operations considering 12 feedstocks, 10 products and multiple scenarios for time horizon and step. Results highlight the importance of tuning scheduling parameters and employing an enhanced computer-aided framework to enable the solution of industrial refinery scheduling operations.    
-
-    
 
 * 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -51,7 +30,7 @@ The Editors-in-Chief of the Environmental Science journals introduce the Outstan
 * 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394610056
-:TOPICS: Nanomaterials with Enzyme-Like Characteristics
+:TOPICS: Low-Cost Air Quality Monitoring Systems, Nanomaterials with Enzyme-Like Characteristics
 :PUBLICATION_DATE: 2024-01-01
 :END:    
     

@@ -1,8 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Sat Apr 13 00:52:15 2024
+Created on Sun Apr 14 01:26:55 2024
 
-Found 2 results from 2024-04-06 to 2024-04-13
+Found 2 results from 2024-04-07 to 2024-04-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
@@ -30,7 +30,7 @@ Liquid metal dealloying is a promising technique to elaborate porous metallic ma
 * Impact of Catalysis-Relevant Oxidation and Annealing Treatments on Nanostructured GaRh Alloys  :liquid_metal:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394621642
-:TOPICS: Gallium Oxide (Ga2O3) Semiconductor Materials and Devices, Zinc Oxide Nanostructures, Catalytic Nanomaterials
+:TOPICS: Advancements in Density Functional Theory, Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-04-09
 :END:    
     
