@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 14 Apr 2024 01:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:23:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Sallye R. Gathmann, Christopher J. Bartel, Lars C. Grabow, Omar A. Abdelrahman, C. Daniel Frisbie, Paul J. Dauenhauer</author>
       <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsenergylett.4c00365</guid>
+    </item>
+    <item>
+      <title>Tuning Electrocatalytic Oxygen Reduction Reaction with Dynamic Control of Electrochemical Interfaces</title>
+      <link>https://doi.org/10.1021/jacs.3c13694</link>
+      <description>Hyein Lee, Haixia Ren, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4394769135
+
+                Herein, we report the tuning of the activity and selectivity of the oxygen reduction reaction (ORR) through the dynamic regulation of the electrochemical interfaces to surpass the performance of conventional electrocatalysis. This is achieved by applying an oscillating potential between the ORR operating potential and anion adsorbing potential on a gold electrode. Oscillating potential enhances the selectivity for H2O2 by up to 1.35 times compared to the static potential, as confirmed by rotating ring-disk electrode and fluorescence assay measurements. We showed that the enhanced selectivity depends on dynamic adsorption and desorption of anions, and the enhancement occurs in the millisecond time scale or shorter. The transient selectivity to H2O2 can reach &#8764;97% within the first 5 ms after potential switching. Our results suggest that the dynamic interface can create a transient but unique microenvironment for new reactivity that cannot be reproduced under static conditions, which offers a new dimension in controlling electrocatalysis.</description>
+      <author>Hyein Lee, Haixia Ren</author>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c13694</guid>
     </item>
   </channel>
 </rss>

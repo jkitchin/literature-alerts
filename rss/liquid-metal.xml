@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 14 Apr 2024 01:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:23:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Supported Catalytically Active Liquid Metal Solutions: Liquid Metal Catalysis with Ternary Alloys, Enhancing Activity in Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01282</link>
+      <description>Michael J. Moritz, Sven Maisel, Narayanan Raman, Haiko Wittk&#228;mper, Christoph Wichmann, Mathias Grabau, Deniz Kahraman, Julien Steffen, Nicola Taccardi, Andreas G&#246;rling, Marco Haumann, Peter Wasserscheid, Hans&#8208;Peter Steinr&#252;ck, Christian Papp, ACS catalysis. None(None)] 2024. https://openalex.org/W4394728272
+
+                The research and optimization of catalysts are instrumental in revolutionizing chemical processes and making them viable in terms of energy and resources. Supported catalytically active liquid metal solutions (SCALMS) are highly active and stable in the harsh environment of the dehydrogenation reaction of alkanes. This is attributed to their liquid and dynamic nature and their isolated catalytically active single-atom sites. SCALMS consists of a liquid metal matrix (gallium) in which a catalytically active transition metal (platinum, rhodium, palladium, or nickel) is dissolved. Binary SCALMS systems are the subject of extensive research, aiming at a better understanding for achieving optimal performance. This work uses a combined multidisciplinary approach to examine ternary systems of the active transition metal platinum with mixtures of gallium with either tin or indium. Reaction engineering and surface chemical analysis by X-ray photoelectron spectroscopy are combined with density functional theory (DFT) and machine learning force field (ML-FF) simulations. Introducing a third metal into the mixture alters the reactivity, surface composition, and concentration gradient in the liquid metal catalyst. We demonstrate that changes in catalytic reactivity correlate with changes in the surface concentration of the active transition metal platinum and of the position of the d-band center. These findings hold great promise for future research directions as they offer potential starting points for developing SCALMS systems.</description>
+      <author>Michael J. Moritz, Sven Maisel, Narayanan Raman, Haiko Wittk&#228;mper, Christoph Wichmann, Mathias Grabau, Deniz Kahraman, Julien Steffen, Nicola Taccardi, Andreas G&#246;rling, Marco Haumann, Peter Wasserscheid, Hans&#8208;Peter Steinr&#252;ck, Christian Papp</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01282</guid>
+    </item>
     <item>
       <title>A diffusion model for liquid metal dealloying. Application to NiCu precursors dealloyed in liquid Ag</title>
       <link>https://doi.org/10.1016/j.actamat.2024.119908</link>

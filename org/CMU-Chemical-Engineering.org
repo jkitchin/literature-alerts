@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Apr 14 01:26:56 2024
+Created on Mon Apr 15 03:23:18 2024
 
-Found 16 results from 2024-04-07 to 2024-04-14
+Found 17 results from 2024-04-08 to 2024-04-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -108,6 +108,27 @@ OpenAlex: https://openalex.org/W4394626403 (Open access: True)
 [[https://openalex.org/A5038766133][Zongwei Cai]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5050508415][Graham A. Gagnon]], [[https://openalex.org/A5036542477][Kevin C. Jones]], [[https://openalex.org/A5000991624][Célia M. Manaia]], [[https://openalex.org/A5066183566][Elsie M. Sunderland]], [[https://openalex.org/A5075592885][Peter J. Vikesland]], Environmental science. Atmospheres. None(None)] 2024. https://doi.org/10.1039/d4ea90013h  ([[https://pubs.rsc.org/en/content/articlepdf/2024/ea/d4ea90013h][pdf]])
      
 The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
+* Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394757946
+:TOPICS: Chemistry and Applications of Tetrazoles, Mechanisms and Applications of RNA Interference, Chemistry and Applications of Metal-Organic Frameworks
+:PUBLICATION_DATE: 2024-04-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.26434/chemrxiv-2024-mlcss")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394757946"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394757946"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394757946"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394757946 (Open access: True)
+    
+[[https://openalex.org/A5012514972][Harrison Lawson]], [[https://openalex.org/A5001785029][Huy Nguyen]], [[https://openalex.org/A5095379199][Ayesha Tupe]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5046607237][K. Y. Lee]], [[https://openalex.org/A5010444353][Min Lü]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5086903169][Siyang Zheng]], No host. None(None)] 2024. https://doi.org/10.26434/chemrxiv-2024-mlcss  ([[https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/661674c391aefa6ce140c789/original/synthetic-strategy-for-m-rna-encapsulation-and-gene-delivery-with-metal-organic-frameworks.pdf][pdf]])
+     
+Over the last two decades, the utility of metal-organic frameworks (MOFs) has expanded from catalysis and gas storage to biomedical applications such as drug delivery. At first, MOF-based delivery platforms focused on delivering small molecules, with current work focusing on nucleic acids, such as DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). No studies to this date have specifically shown the encapsulation and delivery of mRNA with MOFs, possibly due to the fragile nature of messenger RNA (mRNA). This study explores and identifies suitable synthetic conditions for encapsulating and delivering mRNA with zeolitic imidazole framework-8 (ZIF-8). Initial ZIF-8 encapsulation attempts, although capable of mRNA loading, could not retain mRNA longer than 1 hour in biological media. To address this issue, we added polyethyleneimine (PEI) to the matrix, enabling the retention of mRNA with 4 hours of stability. Polyethyleneimine incorporation resolves the leakage of mRNA from ZIF-8, enabling delivery and resultant protein expression in multiple cell lines comparable to commercial lipid transfection reagents. Furthermore, we report the first application exploring thermally stable mRNA storage with ZIF-8 with successful protein expression achieved after 3 months of room temperature storage. Together, this work expands the catalog of therapeutics MOFs can deliver.    
 
     
 
@@ -258,27 +279,6 @@ Abstract: ======= Transition metal dioxides (BO2) exhibit a number of polymorphi
 
     
 
-* NUMAC: Description of the Nested Unified Model with Aerosols and Chemistry, and evaluation with KORUS-AQ data: supporting data  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394037240
-:TOPICS: Low-Cost Air Quality Monitoring Systems
-:PUBLICATION_DATE: 2022-10-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5281/zenodo.7823962")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394037240"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394037240"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394037240"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394037240 (Open access: True)
-    
-[[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5061310552][K. S. Carslaw]], [[https://openalex.org/A5035347045][Adrian A. Hill]], [[https://openalex.org/A5091671093][Paul R. Field]], [[https://openalex.org/A5078321071][N. L. Abraham]], [[https://openalex.org/A5046735614][A. J. Beyersdorf]], [[https://openalex.org/A5092431134][Chelsea Corr‐Limoges]], [[https://openalex.org/A5005781295][Pratapaditya Ghosh]], [[https://openalex.org/A5042271285][John Hemmings]], [[https://openalex.org/A5025245146][Anthony C. Jones]], [[https://openalex.org/A5048082483][Claudio Sánchez]], [[https://openalex.org/A5046135731][Xuemei Wang]], [[https://openalex.org/A5019832668][Jonathan Wilkinson]], Zenodo (CERN European Organization for Nuclear Research). None(None)] 2022. https://doi.org/10.5281/zenodo.7823962 
-     
-Simulated data presented in manuscript with title above, generated with the Met Office Unified Model, together with observations from KORUS-AQ and MODIS that are used in the model evaluation. The Terra/MODIS aerosol datasets were acquired from the Level-1 and Atmosphere Archive & Distribution System (LAADS) Distributed Active Archive Center (DAAC), located in the Goddard Space Flight Center in Greenbelt, Maryland https://ladsweb.nascom.nasa.gov/. All surface and aircraft observation data is freely and publicly available at https://www-air.larc.nasa.gov/cgi-bin/ArcView/korusaq, last access 10 June 2022.    
-
-    
-
 * Supporting information for "Neural network and ReaxFF comparison for Au properties, Int. J. Quantum Chem., 116(13), 979–987 (2016)."  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394384117
@@ -339,5 +339,26 @@ OpenAlex: https://openalex.org/W4394531894 (Open access: False)
 [[https://openalex.org/A5003442464][John R. Kitchin]], [[https://openalex.org/A5034743236][Jacob R. Boes]], [[https://openalex.org/A5007577939][John A. Keith]], [[https://openalex.org/A5016101965][Mitchell C. Groenenboom]], Figshare. None(None)] 2018. https://doi.org/10.6084/m9.figshare.1603022.v1 
      
 No abstract    
+
+    
+
+* OR-Gym: A Reinforcement Learning Library for Operations Research Problems  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394643743
+:TOPICS: Application of Genetic Programming in Machine Learning, Reinforcement Learning Algorithms, Scheduling Problems in Manufacturing Systems
+:PUBLICATION_DATE: 2020-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.48550/arxiv.2008.06319")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394643743"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394643743"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394643743"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394643743 (Open access: True)
+    
+[[https://openalex.org/A5020227032][Christian D. Hubbs]], [[https://openalex.org/A5023254502][Héctor D. Pérez]], [[https://openalex.org/A5090081420][Owais Sarwar]], [[https://openalex.org/A5031811254][Nikolaos V. Sahinidis]], [[https://openalex.org/A5056017028][Ignacio E. Grossmann]], [[https://openalex.org/A5021784779][John M. Wassick]], arXiv (Cornell University). None(None)] 2020. https://doi.org/10.48550/arxiv.2008.06319 
+     
+Reinforcement learning (RL) has been widely applied to game-playing and surpassed the best human-level performance in many domains, yet there are few use-cases in industrial or commercial settings. We introduce OR-Gym, an open-source library for developing reinforcement learning algorithms to address operations research problems. In this paper, we apply reinforcement learning to the knapsack, multi-dimensional bin packing, multi-echelon supply chain, and multi-period asset allocation model problems, as well as benchmark the RL solutions against MILP and heuristic models. These problems are used in logistics, finance, engineering, and are common in many business operation settings. We develop environments based on prototypical models in the literature and implement various optimization and heuristic models in order to benchmark the RL results. By re-framing a series of classic optimization problems as RL tasks, we seek to provide a new tool for the operations research community, while also opening those in the RL community to many of the problems and challenges in the OR field.    
 
     

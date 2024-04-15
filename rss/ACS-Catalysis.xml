@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 14 Apr 2024 01:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 03:23:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Regio- and Diastereoselective Synthesis of &lt;i&gt;E&lt;/i&gt;-Allylic Amines through Hydroalkylation of Terminal Alkynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00853</link>
-      <description>Bofei Wang, Avijit Hazra, Gojko Lali&#263;, ACS catalysis. None(None)] 2024. https://openalex.org/W4394014260
-
-                Allylic amines make up an important class of organic compounds that have inspired the development of numerous methods for their synthesis. One of the most effective transformations involves the coupling of internal alkynes with appropriate nitrogen-containing electrophiles in the presence of a transition metal catalyst. We have developed a method that allows transformation of terminal alkynes into allylic amines through a copper-catalyzed reductive cross coupling with &#945;-chloro phthalimides. The method has a broad substrate scope and results in the highly selective formation of the E-isomer of the anti-Markovnikov hydroamination product. A preliminary mechanistic study supports a mechanism that involves the hydrocupration of the alkyne and the formation of a solvent-caged radical pair.</description>
-      <author>Bofei Wang, Avijit Hazra, Gojko Lali&#263;</author>
-      <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00853</guid>
-    </item>
     <item>
       <title>Assessment of the Reaction Location of Skeletal 1-Butene Isomerization over Ferrierite</title>
       <link>https://doi.org/10.1021/acscatal.4c00786</link>
@@ -138,6 +128,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01882</guid>
     </item>
     <item>
+      <title>PhotoROMP: The Future Is Bright</title>
+      <link>https://doi.org/10.1021/acscatal.4c00972</link>
+      <description>Andrew J. Greenlee, Raymond A. Weitekamp, Jeffrey C. Foster, Samuel Leguizamon, ACS catalysis. None(None)] 2024. https://openalex.org/W4394680291
+
+                Since the earliest investigations of olefin metathesis catalysis, light has been the choice for controlling the catalyst activity on demand. From the perspective of energy efficiency, temporal and spatial control, and selectivity, photochemistry is not only an attractive alternative to traditional thermal manufacturing techniques but also arguably a superior manifold for advanced applications like additive manufacturing (AM). In the last three decades, pioneering work in the field of ring-opening metathesis polymerization (ROMP) has broadened the scope of material properties achievable through AM, particularly using light as both an activating and deactivating stimulus. In this Perspective, we explore trends in photocontrolled ROMP systems with an emphasis on approaches to photoinduced activation and deactivation of metathesis catalysts. Recent work has yielded a myriad of commercial and synthetically accessible photosensitive catalyst systems, although comparatively little attention has been paid to achieving precise control over polymer morphology using light. Metal-free, photophysical, and living ROMP systems have also been relatively underexplored. To take fuller advantage of both the thermomechanical properties of ROMP polymers and the operational simplicity of photocontrol, clear directions for the field are to improve the reversibility of activation and deactivation strategies as well as to further develop photocontrolled approaches to tuning cross-link density and polymer tacticity.</description>
+      <author>Andrew J. Greenlee, Raymond A. Weitekamp, Jeffrey C. Foster, Samuel Leguizamon</author>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00972</guid>
+    </item>
+    <item>
       <title>Diastereo- and Enantioselective Dearomative Reductive Aryl-Fluoroalkenylation of Indoles by Nickel Catalysis</title>
       <link>https://doi.org/10.1021/acscatal.4c00560</link>
       <description>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4394707978
@@ -146,6 +146,126 @@
       <author>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma</author>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00560</guid>
+    </item>
+    <item>
+      <title>Double Catalytic Activity Unveiled: Synthesis, Characterization, and Catalytic Applications of Iridium Complexes in Transfer Hydrogenation and Photomediated Transformations</title>
+      <link>https://doi.org/10.1021/acscatal.4c00673</link>
+      <description>Laura Blanco, Andrea Uroz, Kevin Guti&#233;rrez, Silvia Cabrera, Alba Collado, Jos&#233; V. Alem&#225;n, ACS catalysis. None(None)] 2024. https://openalex.org/W4394714242
+
+                Iridium complexes have been demonstrated to be highly active catalysts for a wide variety of transformations. Their unique photophysical and photochemical properties render them as one of the most established photocatalysts. Moreover, iridium complexes are widely acknowledged for their efficiency in transfer hydrogenation reactions. However, the development of iridium complexes able to promote both traditional organometallic catalysis and photocatalysis is scarce. Thus, the design of iridium-based catalysts is still an active area of research. In this context, we targeted the synthesis of a family of Ir-Cp* systems to explore their (photo)catalytic applications. Here, we describe the synthesis, structural characterization, and photophysical properties of iridium complexes of formula [IrCp*Cl(N^O)]. These complexes have been applied with a double catalytic function, in transfer hydrogenation for carbonyl reduction and in different photomediated transformations.</description>
+      <author>Laura Blanco, Andrea Uroz, Kevin Guti&#233;rrez, Silvia Cabrera, Alba Collado, Jos&#233; V. Alem&#225;n</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00673</guid>
+    </item>
+    <item>
+      <title>Rhodium(II)-Catalyzed Asymmetric Cyclopropanation and Desymmetrization of [2.2]Paracyclophanes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01292</link>
+      <description>Duc Ly, John Bacsa, Huw M. L. Davies, ACS catalysis. None(None)] 2024. https://openalex.org/W4394714316
+
+                Chiral [2.2]paracyclophane derivatives are of considerable interest because of their potential in asymmetric catalysis and the development of chiral materials. This study describes the scope of rhodium-catalyzed reactions of aryldiazoacetates with [2.2]paracyclophanes. The reaction with the parent [2.2]paracyclophane resulted in cyclopropanation at two positions, the ratio of which is catalyst-controlled. Because of the strain in the system, one of the cyclopropanes exists primarily as the norcaradiene structure, whereas the other preferentially exists as the cycloheptatriene conformer. In contrast, the reaction with [3.3]paracyclophane results in benzylic C&#8211;H functionalization. The reactions with substituted [2.2]paracyclophanes using chiral catalysts can result in either kinetic resolution or desymmetrization. The Rh2(S-p-PhTPCP)]4-catalyzed reaction of monosubstituted paracyclophanes results in kinetic resolution with a selectivity (s) factor of up to 20, whereas reactions on C2v-symmetric disubstituted [2.2]paracyclophanes with Rh2(S-TPPTTL)4 [TPPTTL = 2-(1,3-dioxo-4,5,6,7-tetraphenylisoindolin-2-yl)-3,3-dimethylbutanoate] results in effective desymmetrization to form cycloheptatriene-incorporated paracyclophanes in 78&#8211;98% ee.</description>
+      <author>Duc Ly, John Bacsa, Huw M. L. Davies</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01292</guid>
+    </item>
+    <item>
+      <title>New and Revised Aspects of the Electrochemical Synthesis of Hydrogen Peroxide: From Model Electrocatalytic Systems to Scalable Materials</title>
+      <link>https://doi.org/10.1021/acscatal.4c01011</link>
+      <description>Marco Mazzucato, Alessandro Facchin, Mattia Parnigotto, Christian Durante, ACS catalysis. None(None)] 2024. https://openalex.org/W4394716632
+
+                No abstract</description>
+      <author>Marco Mazzucato, Alessandro Facchin, Mattia Parnigotto, Christian Durante</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01011</guid>
+    </item>
+    <item>
+      <title>Enzymatic Stereodivergent Access to Fluorinated &#946;-Lactam Pharmacophores via Triple-Parameter Engineered Ketoreductases</title>
+      <link>https://doi.org/10.1021/acscatal.4c00945</link>
+      <description>Zelong Mei, Congcong Li, Xu Han, Ye Tian, Shuo-Han Li, Weidong Liu, Ge Qu, Manfred T. Reetz, Zhoutong Sun, Jun&#8208;An Ma, Fa&#8208;Guang Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4394720109
+
+                No abstract</description>
+      <author>Zelong Mei, Congcong Li, Xu Han, Ye Tian, Shuo-Han Li, Weidong Liu, Ge Qu, Manfred T. Reetz, Zhoutong Sun, Jun&#8208;An Ma, Fa&#8208;Guang Zhang</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00945</guid>
+    </item>
+    <item>
+      <title>CN&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2&#8211;&lt;/sup&gt; Vacancies Enhance Ammonia Synthesis over Air-Durable Alkaline Earth Metal Cyanamide-Supported Cobalt Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00830</link>
+      <description>Yihao Jiang, Masayoshi Miyazaki, Kiichi Miyashita, Masato Sasase, Kazuhisa Kishida, Hideo Hosono, Masaaki Kitano, ACS catalysis. None(None)] 2024. https://openalex.org/W4394720578
+
+                No abstract</description>
+      <author>Yihao Jiang, Masayoshi Miyazaki, Kiichi Miyashita, Masato Sasase, Kazuhisa Kishida, Hideo Hosono, Masaaki Kitano</author>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00830</guid>
+    </item>
+    <item>
+      <title>Nickel-Based Catalysts for the Selective Monoarylation of Dichloropyridines: Ligand Effects and Mechanistic Insights</title>
+      <link>https://doi.org/10.1021/acscatal.4c00648</link>
+      <description>Geraldo Duran-Camacho, Douglas C. Bland, Fangzheng Li, Sharon R. Neufeldt, Melanie S. Sanford, ACS catalysis. None(None)] 2024. https://openalex.org/W4394728071
+
+                This report describes a detailed study of Ni phosphine catalysts for the Suzuki&#8211;Miyaura coupling of dichloropyridines with halogen-containing (hetero)aryl boronic acids. With most phosphine ligands, these transformations afford mixtures of mono- and diarylated cross-coupling products as well as competing oligomerization of the boronic acid. However, a ligand screen revealed that PPh2Me and PPh3 afford high yield and selectivity for monoarylation over diarylation as well as minimal competing oligomerization of the boronic acid. Several key observations were made regarding the selectivity of these reactions, including: (1) phosphine ligands that afford high selectivity for monoarylation fall within a narrow range of Tolman cone angles (between 136 and 157&#176;); (2) more electron-rich trialkylphosphines afford predominantly diarylated products, while less electron-rich di- and triarylphosphines favor monoarylation; (3) diarylation proceeds via intramolecular oxidative addition; and (4) the solvent (MeCN) plays a crucial role in achieving high monoarylation selectivity. Experimental and density functional theory studies suggest that all of these data can be explained based on the reactivity of a key intermediate: a Ni0&#8211;&#960; complex of the monoarylated product. With larger, more electron-rich trialkylphosphine ligands, this &#960; complex undergoes intramolecular oxidative addition faster than ligand substitution by the MeCN solvent, leading to selective diarylation. In contrast, with relatively small di- and triarylphosphine ligands, associative ligand substitution by MeCN is competitive with oxidative addition, resulting in the selective formation of monoarylated products. The generality of this method is demonstrated with a variety of dichloropyridines and chloro-substituted aryl boronic acids. Furthermore, the optimal ligand (PPh2Me) and solvent (MeCN) are leveraged to achieve Ni-catalyzed monoarylation of a broader set of dichloroarene substrates.</description>
+      <author>Geraldo Duran-Camacho, Douglas C. Bland, Fangzheng Li, Sharon R. Neufeldt, Melanie S. Sanford</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00648</guid>
+    </item>
+    <item>
+      <title>Supported Catalytically Active Liquid Metal Solutions: Liquid Metal Catalysis with Ternary Alloys, Enhancing Activity in Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01282</link>
+      <description>Michael J. Moritz, Sven Maisel, Narayanan Raman, Haiko Wittk&#228;mper, Christoph Wichmann, Mathias Grabau, Deniz Kahraman, Julien Steffen, Nicola Taccardi, Andreas G&#246;rling, Marco Haumann, Peter Wasserscheid, Hans&#8208;Peter Steinr&#252;ck, Christian Papp, ACS catalysis. None(None)] 2024. https://openalex.org/W4394728272
+
+                The research and optimization of catalysts are instrumental in revolutionizing chemical processes and making them viable in terms of energy and resources. Supported catalytically active liquid metal solutions (SCALMS) are highly active and stable in the harsh environment of the dehydrogenation reaction of alkanes. This is attributed to their liquid and dynamic nature and their isolated catalytically active single-atom sites. SCALMS consists of a liquid metal matrix (gallium) in which a catalytically active transition metal (platinum, rhodium, palladium, or nickel) is dissolved. Binary SCALMS systems are the subject of extensive research, aiming at a better understanding for achieving optimal performance. This work uses a combined multidisciplinary approach to examine ternary systems of the active transition metal platinum with mixtures of gallium with either tin or indium. Reaction engineering and surface chemical analysis by X-ray photoelectron spectroscopy are combined with density functional theory (DFT) and machine learning force field (ML-FF) simulations. Introducing a third metal into the mixture alters the reactivity, surface composition, and concentration gradient in the liquid metal catalyst. We demonstrate that changes in catalytic reactivity correlate with changes in the surface concentration of the active transition metal platinum and of the position of the d-band center. These findings hold great promise for future research directions as they offer potential starting points for developing SCALMS systems.</description>
+      <author>Michael J. Moritz, Sven Maisel, Narayanan Raman, Haiko Wittk&#228;mper, Christoph Wichmann, Mathias Grabau, Deniz Kahraman, Julien Steffen, Nicola Taccardi, Andreas G&#246;rling, Marco Haumann, Peter Wasserscheid, Hans&#8208;Peter Steinr&#252;ck, Christian Papp</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01282</guid>
+    </item>
+    <item>
+      <title>Theoretical Insights into the Reaction Mechanism of Direct Hydrogenation of Maleic Anhydride to Produce 1,4-Butanediol on the Cu&#8211;ZnO Surface</title>
+      <link>https://doi.org/10.1021/acscatal.4c00745</link>
+      <description>Xinyue Guan, Yingzhe Yu, Minhua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4394742732
+
+                No abstract</description>
+      <author>Xinyue Guan, Yingzhe Yu, Minhua Zhang</author>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00745</guid>
+    </item>
+    <item>
+      <title>Nickel-Catalyzed Deoxygenative Disulfuration of Alcohols to Access Unsymmetrical Disulfides</title>
+      <link>https://doi.org/10.1021/acscatal.4c00814</link>
+      <description>X. Chen, Wang Shao, Guo&#8208;Jun Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4394761010
+
+                Given the abundance of alcohol feedstocks and the significance of disulfides, we herein report a nickel-catalyzed direct deoxygenative disulfuration of alcohols with trisulfide dioxides to access a wide range of disulfide molecules without the cumbersome decoration of coupling partners. The use of readily available dicyclohexylcarbodiimide to form transient isoureas provides the activation of the high bond dissociation energy of the C&#8211;O bond, which facilitates the straightforward conversion of nonderivatized alcohols to forge a C&#8211;SS bond. Notably, this method obviates a preactivation multistep procedure and provides a catalytic turnover under exogenous ligand and base-free conditions, featuring a broad substrate scope and functional group compatibility. It thus offers a robust alternative to existing methods for the precise construction of versatile disulfide compounds from more abundant and commercially available substrates. The synthetic utility of the method was further showcased by successful gram-scale experiments and disulfuration of structurally complex pharmaceuticals.</description>
+      <author>X. Chen, Wang Shao, Guo&#8208;Jun Deng</author>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00814</guid>
+    </item>
+    <item>
+      <title>Practical Machine Learning-Assisted Design Protocol for Protein Engineering: Transaminase Engineering for the Conversion of Bulky Substrates</title>
+      <link>https://doi.org/10.1021/acscatal.4c00987</link>
+      <description>Marian J. Menke, Yu&#8208;Fei Ao, Uwe T. Bornscheuer, ACS catalysis. None(None)] 2024. https://openalex.org/W4394766668
+
+                Protein engineering is essential for improving the catalytic performance of enzymes for applications in biocatalysis, in which machine learning provides an emerging approach for variant design. Transaminases are powerful biocatalysts for the stereoselective synthesis of chiral amines but one major challenge is their limited substrate scope. We present a general and practical variant design protocol for protein engineering to combine the advantages of three strategies, including directed evolution, rational design, and machine learning, and demonstrate the application of the protocol in the protein engineering of transaminases with higher activity toward bulky substrates. A high-quality data set was obtained by rational design of selected key positions, which was then applied to create a machine learning model for transaminase activity. This model was applied for the data-assisted design of optimized variants, which showed improved activity (up to 3-fold over parent) for three bulky substrates, maintaining enantioselectivity of the starting enzyme scaffold as well as improving the enantiomeric excess (up to &gt;99%ee).</description>
+      <author>Marian J. Menke, Yu&#8208;Fei Ao, Uwe T. Bornscheuer</author>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00987</guid>
+    </item>
+    <item>
+      <title>Solar Gas-Phase CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation by Multifunctional UiO-66 Photocatalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00266</link>
+      <description>Celia M. Rueda-Navarro, Zahraa Abou Khalil, Arianna Melillo, Bel&#233;n Ferrer, Ra&#250;l Montero, Asier Longarte, Marco Daturi, Ignacio Vay&#225;, Mohamad El&#8208;Roz, Virginia Mart&#237;nez&#8208;Mart&#237;nez, Herme G. Baldov&#237;, Sergio Naval&#243;n, ACS catalysis. None(None)] 2024. https://openalex.org/W4394769808
+
+                Solar-assisted CO2 conversion into fuels and chemical products involves a range of technologies aimed at driving industrial decarbonization methods. In this work, we report on the development of a series of multifunctional metal&#8211;organic frameworks (MOFs) based on nitro- or amino-functionalized UiO-66(M) (M: Zr or Zr/Ti) supported RuOx NPs as photocatalysts, having different energy band level diagrams, for CO2 hydrogenation under simulated concentrated sunlight irradiation. RuOx(1 wt %; 2.2 &#177; 0.9 nm)@UiO-66(Zr/Ti)-NO2 was found to be a reusable photocatalyst, to be selective for CO2 methanation (5.03 mmol g&#8211;1 after 22 h;, apparent quantum yield at 350, 400, and 600 nm of 1.67, 0.25, and 0.01%, respectively), and to show about 3&#8211;6 times activity compared with previous investigations. The photocatalysts were characterized by advanced spectroscopic techniques like femto- and nanosecond transient absorption, spin electron resonance, and photoluminescence spectroscopies together with (photo)electrochemical measurements. The photocatalytic CO2 methanation mechanism was assessed by operando FTIR spectroscopy. The results indicate that the most active photocatalyst operates under a dual photochemical and photothermal mechanism. This investigation shows the potential of multifunctional MOFs as photocatalysts for solar-driven CO2 recycling.</description>
+      <author>Celia M. Rueda-Navarro, Zahraa Abou Khalil, Arianna Melillo, Bel&#233;n Ferrer, Ra&#250;l Montero, Asier Longarte, Marco Daturi, Ignacio Vay&#225;, Mohamad El&#8208;Roz, Virginia Mart&#237;nez&#8208;Mart&#237;nez, Herme G. Baldov&#237;, Sergio Naval&#243;n</author>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00266</guid>
+    </item>
+    <item>
+      <title>Generation of Sulfamoyl Radical for the Modular Synthesis of Sulfonamides</title>
+      <link>https://doi.org/10.1021/acscatal.4c01560</link>
+      <description>Haiping Lv, Xinzhou Chen, Xuemei Zhang, Steven L. Kramer, Zhong Lian, ACS catalysis. None(None)] 2024. https://openalex.org/W4394783336
+
+                Efficient synthesis of sulfonamides has long been pursued by chemists due to their frequent occurrence in pharmaceuticals, especially in anti-inflammatory medicines. The traditional assembly from sulfonyl chlorides and amines, as well as the recently developed one-step synthesis of sulfonamides involving sulfur dioxide, still faces challenges such as poor substrate compatibility and/or stringent reaction conditions. Herein, we present a strategy for the in situ generation of sulfamoyl radicals for the one-step modular synthesis of both alkenyl and alkyl sulfonamides with wide substrate applicability (&gt;100 examples), mild reaction conditions, and easily accessible starting materials. This method is successfully applied to the late-stage modification of drug molecules (23 examples), the one-step synthesis of the drug molecule naratriptan, and the 15N-labeling of sulfonamides.</description>
+      <author>Haiping Lv, Xinzhou Chen, Xuemei Zhang, Steven L. Kramer, Zhong Lian</author>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01560</guid>
     </item>
   </channel>
 </rss>
