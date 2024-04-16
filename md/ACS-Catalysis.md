@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Apr 15 03:23:17 2024
+Created on Tue Apr 16 01:02:14 2024
 
-Found 26 results from 2024-04-08 to 2024-04-15
+Found 27 results from 2024-04-09 to 2024-04-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -289,5 +289,16 @@ Open access: False
 [Haiping Lv](https://openalex.org/A5070217781), [Xinzhou Chen](https://openalex.org/A5027811414), [Xuemei Zhang](https://openalex.org/A5025996303), [Steven L. Kramer](https://openalex.org/A5041087516), [Zhong Lian](https://openalex.org/A5065425419), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01560.
     
 Efficient synthesis of sulfonamides has long been pursued by chemists due to their frequent occurrence in pharmaceuticals, especially in anti-inflammatory medicines. The traditional assembly from sulfonyl chlorides and amines, as well as the recently developed one-step synthesis of sulfonamides involving sulfur dioxide, still faces challenges such as poor substrate compatibility and/or stringent reaction conditions. Herein, we present a strategy for the in situ generation of sulfamoyl radicals for the one-step modular synthesis of both alkenyl and alkyl sulfonamides with wide substrate applicability (>100 examples), mild reaction conditions, and easily accessible starting materials. This method is successfully applied to the late-stage modification of drug molecules (23 examples), the one-step synthesis of the drug molecule naratriptan, and the 15N-labeling of sulfonamides.    
+
+    
+
+## Stable Operation of Paired CO2 Reduction/Glycerol Oxidation at High Current Density   
+
+OpenAlex: https://openalex.org/W4394786891    
+Open access: True
+    
+[Attila Kormányos](https://openalex.org/A5082432235), [Adrienn Szirmai](https://openalex.org/A5043292005), [Balázs Endrődi](https://openalex.org/A5069014536), [Csaba Janáky](https://openalex.org/A5075233752), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05952 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05952)).
+    
+Despite the considerable efforts made by the community, the high operation cell voltage of CO2 electrolyzers is still to be decreased to move toward commercialization. This is mostly due to the high energy need of the oxygen evolution reaction (OER), which is the most often used anodic pair for CO2 reduction. In this study, OER was replaced by the electrocatalytic oxidation of glycerol using carbon-supported Pt nanoparticles as an anode catalyst. In parallel, the reduction of CO2 to CO was performed at the Ag cathode catalyst using a membraneless microfluidic flow electrolyzer cell. Several parameters were optimized, starting from the catalyst layer composition (ionomer quality and quantity), through operating conditions (glycerol concentration, applied electrolyte flow rate, etc.), to the applied electrochemical protocol. By identifying the optimal conditions, a 75–85% Faradaic efficiency (FE) toward glycerol oxidation products (oxalate, glycerate, tartronate, lactate, glycolate, and formate) was achieved at 200 mA cm–2 total current density while the cathodic CO formation proceeded with close to 100% FE. With static protocols (potentio- or galvanostatic), a rapid loss of glycerol oxidation activity was observed during the long-term measurements. The anode catalyst was reactivated by applying a dynamic potential step protocol. This allowed the periodic reduction, hence, refreshing of Pt, ensuring stable, continuous operation for 5 h.    
 
     

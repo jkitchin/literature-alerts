@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Apr 2024 03:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 01:02:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -266,6 +266,16 @@
       <author>Haiping Lv, Xinzhou Chen, Xuemei Zhang, Steven L. Kramer, Zhong Lian</author>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01560</guid>
+    </item>
+    <item>
+      <title>Stable Operation of Paired CO&lt;sub&gt;2&lt;/sub&gt; Reduction/Glycerol Oxidation at High Current Density</title>
+      <link>https://doi.org/10.1021/acscatal.3c05952</link>
+      <description>Attila Korm&#225;nyos, Adrienn Szirmai, Bal&#225;zs Endr&#337;di, Csaba Jan&#225;ky, ACS catalysis. None(None)] 2024. https://openalex.org/W4394786891
+
+                Despite the considerable efforts made by the community, the high operation cell voltage of CO2 electrolyzers is still to be decreased to move toward commercialization. This is mostly due to the high energy need of the oxygen evolution reaction (OER), which is the most often used anodic pair for CO2 reduction. In this study, OER was replaced by the electrocatalytic oxidation of glycerol using carbon-supported Pt nanoparticles as an anode catalyst. In parallel, the reduction of CO2 to CO was performed at the Ag cathode catalyst using a membraneless microfluidic flow electrolyzer cell. Several parameters were optimized, starting from the catalyst layer composition (ionomer quality and quantity), through operating conditions (glycerol concentration, applied electrolyte flow rate, etc.), to the applied electrochemical protocol. By identifying the optimal conditions, a 75&#8211;85% Faradaic efficiency (FE) toward glycerol oxidation products (oxalate, glycerate, tartronate, lactate, glycolate, and formate) was achieved at 200 mA cm&#8211;2 total current density while the cathodic CO formation proceeded with close to 100% FE. With static protocols (potentio- or galvanostatic), a rapid loss of glycerol oxidation activity was observed during the long-term measurements. The anode catalyst was reactivated by applying a dynamic potential step protocol. This allowed the periodic reduction, hence, refreshing of Pt, ensuring stable, continuous operation for 5 h.</description>
+      <author>Attila Korm&#225;nyos, Adrienn Szirmai, Bal&#225;zs Endr&#337;di, Csaba Jan&#225;ky</author>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05952</guid>
     </item>
   </channel>
 </rss>

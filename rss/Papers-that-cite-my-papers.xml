@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 15 Apr 2024 03:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 01:02:24 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical Prediction and Synthesis of Nonmetal-Doped Anatase TiO&lt;sub&gt;2&lt;/sub&gt; (101) for Boosting Photocatalytic Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1021/acsanm.4c01047</link>
-      <description>Nan Yang, Ying Zhao, Tianwei He, Ke Wang, Zhongbao Luo, Hongshun Zheng, Yuandong Shen, Alain R. Puente Santiago, Tong Zhou, Wei Zhan, Jin Zhang, Genlin Zhang, Qingju Liu, ACS Applied Nano Materials. None(None)] 2024. https://openalex.org/W4394063838
-
-                TiO2-based photocatalysts are eco-friendly, cost-effective, and stable but only exert catalytic performance in the ultraviolet region, and the photocatalytic efficiency is very low. In this work, we employ DFT calculations to deeply investigate the effect of nonmetallic C-doped TiO2 (101) on the photocatalytic hydrogen evolution performance. Specifically, the effects of C substitution or interstitial doping at the surface, subsurface, and bulk on the electronic structure, optical properties, and catalytic hydrogen evolution activity were substantially investigated. We discovered that different C atom doping strategies impinge different effects on the catalytic activity. Among them, the CO-bulk4, CTi-surf2, and Cinter-surf systems showed superior catalytic activities with &#916;G of &#8722;0.012, &#8722;0.055, and &#8722;0.024 eV, respectively. The C atom replaces the Ti atom and alters the original coordination environment, which leads to charge redistribution and consequently to the activation of the O sites. Additionally, carbon-self-doped TiO2 photocatalysts were fabricated using an experimental hydrothermal synthesis, and the XPS analyses confirmed that O is replaced by C. In addition, the photocatalytic hydrogen evolution rate is 0.3 mmol g&#8211;1 h&#8211;1, while there is no hydrogen evolution for pure TiO2. Our findings suggest that nonmetallic doped TiO2(101) photocatalysts can improve light absorption, modulate charge distribution, and enhance hydrogen evolution activity.</description>
-      <author>Nan Yang, Ying Zhao, Tianwei He, Ke Wang, Zhongbao Luo, Hongshun Zheng, Yuandong Shen, Alain R. Puente Santiago, Tong Zhou, Wei Zhan, Jin Zhang, Genlin Zhang, Qingju Liu</author>
-      <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c01047</guid>
-    </item>
     <item>
       <title>Exploring the Mechanism of the Electrochemical Polymerization of CO&lt;sub&gt;2&lt;/sub&gt; to Hard Carbon over CeO&lt;sub&gt;2&lt;/sub&gt;(110)</title>
       <link>https://doi.org/10.1021/acs.jpcc.3c08356</link>
@@ -386,6 +376,36 @@
       <author>Dan Meng, Shengnan Ran, Ling Gao, Yue Zhang, Xiaoguang San, Lei Zhang, Ruixiang Li, Quan Jin</author>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s40242-024-4040-6</guid>
+    </item>
+    <item>
+      <title>Ultrafast Shift Current in SnS&lt;sub&gt;2&lt;/sub&gt; Single Crystals: Structure Considerations, Modeling, and THz Emission Spectroscopy</title>
+      <link>https://doi.org/10.1002/adom.202400244</link>
+      <description>Kateryna Kushnir Friedman, Sepideh Khanmohammadi, Erin Morissette, Curtis W. Doiron, Roy Stoflet, Kristie J. Koski, Ronald L. Grimm, Ashwin Ramasubramamiam, Lyubov V. Titova, Advanced optical materials. None(None)] 2024. https://openalex.org/W4394786437
+
+                Abstract Above&#8208;band gap optical excitation of non&#8208;centrosymmetric semiconductors can lead to the spatial shift of the center of electron charge in a process known as shift current. Shift current is investigated in single&#8208;crystal SnS 2 , a layered semiconductor with the band gap of &#8776;2.3 eV, by THz emission spectroscopy and first principles density functional theory (DFT). It is observed that normal incidence excitation with above gap (400 nm; 3.1 eV) pulses results in THz emission from 2H SnS 2 () polytype, where such emission is nominally forbidden by symmetry. It is argued that the underlying symmetry breaking arises due to the presence of stacking faults that are known to be ubiquitous in SnS 2 single crystals and construct a possible structural model of a stacking fault with symmetry properties consistent with the experimental observations. In addition to shift current, it is observed THz emission by optical rectification excited by below band gap (800 nm; 1.55 eV) pulses but it requires excitation fluence more than two orders of magnitude higher to produce same signal amplitude. These results suggest that ultrafast shift current in which can be excited with visible light in blue&#8211;green portion of the spectrum makes SnS 2 a promising source material for THz photonics.</description>
+      <author>Kateryna Kushnir Friedman, Sepideh Khanmohammadi, Erin Morissette, Curtis W. Doiron, Roy Stoflet, Kristie J. Koski, Ronald L. Grimm, Ashwin Ramasubramamiam, Lyubov V. Titova</author>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adom.202400244</guid>
+    </item>
+    <item>
+      <title>The Electrocatalytic Activity of Au Electrodes Changes Significantly in Various Na&lt;sup&gt;+&lt;/sup&gt;/K&lt;sup&gt;+&lt;/sup&gt; Supporting Electrolyte Mixtures</title>
+      <link>https://doi.org/10.1002/smsc.202400042</link>
+      <description>Theophilus Kobina Sarpey, Adrian V. Himmelreich, Kun&#8208;Ting Song, Elena L. Gubanova, Aliaksandr S. Bandarenka, Small science. None(None)] 2024. https://openalex.org/W4394786476
+
+                The potential of maximum entropy (PME) is an indicator of extreme disorder at the electrode/electrolyte interface and can predict changes in catalytic activity within electrolytes of varying compositions. The laser&#8208;induced current transient technique is employed to evaluate the PME for Au polycrystalline (Au pc ) electrodes immersed in Ar&#8208;saturated cation electrolyte mixtures containing potassium and sodium ions at pH = 8. Five cation ratios (0.5 M K 2 SO 4 :0.5 M Na 2 SO 4 = 0:1, 0.25:0.75, 0.5:0.5, 0.75:0.25, and 1:0) are explored, considering earlier studies that unveil cation&#8208;dependent shifts at near&#8208;neutral pH. Moreover, for all electrolyte compositions, electrochemical impedance spectroscopy is utilized to determine the double&#8208;layer capacitance ( C DL ), the minimum of which should be close to the potential of zero charge (PZC). By correlating cation molar ratios with the PMEs and PZCs, the impact on the model oxygen reduction reaction (ORR) activity, assessed via the rotating disk electrode method, is analyzed. The results demonstrate a linear relationship between electrolyte cation mixtures and PME, while ORR activity exhibits an exponential trend. This observation validates the PME&#8211;activity link hypothesis, underscoring electrolyte components&#8217; pivotal role in tailoring interfacial properties for electrocatalytic systems. These findings introduce a new degree of freedom for designing optimal electrocatalytic systems by adjusting various electrolyte components.</description>
+      <author>Theophilus Kobina Sarpey, Adrian V. Himmelreich, Kun&#8208;Ting Song, Elena L. Gubanova, Aliaksandr S. Bandarenka</author>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smsc.202400042</guid>
+    </item>
+    <item>
+      <title>One-step constructing advanced N-doped carbon@metal nitride as ultra-stable electrocatalysts via urea plasma under room temperature</title>
+      <link>https://doi.org/10.1016/j.cclet.2024.109887</link>
+      <description>Tao Tang, Chen Li, Sipu Li, Zhong Qiu, Tianqi Yang, Beirong Ye, San-Qiang Shi, Chunyang Wu, Feng Cao, Xinhui Xia, Minghua Chen, Xinqi Liang, Xinping He, Xin Liu, Yongqi Zhang, Chinese Chemical Letters/Chinese chemical letters. None(None)] 2024. https://openalex.org/W4394787344
+
+                Highly active transition metal nitrides are desirable for electrocatalytic reactions, but their long-term stability is still unsatisfactory and thus limiting commercial applications. Herein, for the first time, we report a unique and universal room-temperature urea plasma method for controllable synthesis of N-doped carbon coated metal (Fe, Co, Ni, etc.) nitrides arrays electrocatalysts. The preformed metal oxides arrays can be successfully converted into metal nitrides arrays with preserved nanostructures and a thin layer of N-doped carbon (N-C) via one-step urea plasma. Typically, as a representative case, N-C@CoN nanowire arrays are illustrated and corresponding formation mechanism by plasma is proposed. Notably, the designed N-C@CoN catalysts deliver excellent electrocatalytic activity and long-term stability both in oxygen evolution reaction (OER) and urea oxidation reaction (UOR). For OER, a low overpotential (264 mV at 10 mA/cm2) and high stability (&gt;50 h at 20 mA/cm2) are acquired. For UOR, a current density of 100 mA/cm2 is achieved at only 1.39 V and maintain over 100 h. Theoretical calculations reveal that the synergetic coupling effect of CoN and N-C can significantly facilitate the charge-transfer process, optimize adsorbed intermediates binding strength and further greatly decrease the energy barrier. This strategy provides a novel method for fabrication of N-C@ metal nitrides as highly active and stable catalysts.</description>
+      <author>Tao Tang, Chen Li, Sipu Li, Zhong Qiu, Tianqi Yang, Beirong Ye, San-Qiang Shi, Chunyang Wu, Feng Cao, Xinhui Xia, Minghua Chen, Xinqi Liang, Xinping He, Xin Liu, Yongqi Zhang</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.109887</guid>
     </item>
     <item>
       <title>Scaling Supercapacitive Swing Adsorption of CO&lt;sub&gt;2&lt;/sub&gt; Using Bipolar Electrode Stacks</title>
