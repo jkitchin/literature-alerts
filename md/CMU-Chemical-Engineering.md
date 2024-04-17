@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Apr 16 01:02:15 2024
+Created on Wed Apr 17 01:02:56 2024
 
-Found 8 results from 2024-04-09 to 2024-04-16
+Found 8 results from 2024-04-10 to 2024-04-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -12,17 +12,6 @@ OpenAlex: https://openalex.org/W4394609944
 Open access: True
     
 [Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Advances. None(None)] 2024.https://doi.org/10.1039/d4va90010c ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/va/d4va90010c)).
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394610056    
-Open access: False
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Processes & impacts. None(None)] 2024.https://doi.org/10.1039/d4em90011a.
     
 The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
 
@@ -69,6 +58,17 @@ Open access: True
 [Harrison Lawson](https://openalex.org/A5012514972), [Huy Nguyen](https://openalex.org/A5001785029), [Ayesha Tupe](https://openalex.org/A5095379199), [Mariah L. Arral](https://openalex.org/A5049474410), [K. Y. Lee](https://openalex.org/A5046607237), [Min Lü](https://openalex.org/A5010444353), [Kathryn A. Whitehead](https://openalex.org/A5010666650), [Siyang Zheng](https://openalex.org/A5086903169), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-mlcss ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/661674c391aefa6ce140c789/original/synthetic-strategy-for-m-rna-encapsulation-and-gene-delivery-with-metal-organic-frameworks.pdf)).
     
 Over the last two decades, the utility of metal-organic frameworks (MOFs) has expanded from catalysis and gas storage to biomedical applications such as drug delivery. At first, MOF-based delivery platforms focused on delivering small molecules, with current work focusing on nucleic acids, such as DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). No studies to this date have specifically shown the encapsulation and delivery of mRNA with MOFs, possibly due to the fragile nature of messenger RNA (mRNA). This study explores and identifies suitable synthetic conditions for encapsulating and delivering mRNA with zeolitic imidazole framework-8 (ZIF-8). Initial ZIF-8 encapsulation attempts, although capable of mRNA loading, could not retain mRNA longer than 1 hour in biological media. To address this issue, we added polyethyleneimine (PEI) to the matrix, enabling the retention of mRNA with 4 hours of stability. Polyethyleneimine incorporation resolves the leakage of mRNA from ZIF-8, enabling delivery and resultant protein expression in multiple cell lines comparable to commercial lipid transfection reagents. Furthermore, we report the first application exploring thermally stable mRNA storage with ZIF-8 with successful protein expression achieved after 3 months of room temperature storage. Together, this work expands the catalog of therapeutics MOFs can deliver.    
+
+    
+
+## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
+
+OpenAlex: https://openalex.org/W4394610056    
+Open access: False
+    
+[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Processes & impacts. None(None)] 2024.https://doi.org/10.1039/d4em90011a.
+    
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
 
     
 

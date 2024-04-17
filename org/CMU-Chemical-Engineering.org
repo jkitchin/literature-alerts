@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue Apr 16 01:02:15 2024
+Created on Wed Apr 17 01:02:56 2024
 
-Found 8 results from 2024-04-09 to 2024-04-16
+Found 8 results from 2024-04-10 to 2024-04-17
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -22,27 +22,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 OpenAlex: https://openalex.org/W4394609944 (Open access: True)
     
 [[https://openalex.org/A5038766133][Zongwei Cai]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5050508415][Graham A. Gagnon]], [[https://openalex.org/A5036542477][Kevin C. Jones]], [[https://openalex.org/A5000991624][Célia M. Manaia]], [[https://openalex.org/A5066183566][Elsie M. Sunderland]], [[https://openalex.org/A5075592885][Peter J. Vikesland]], Environmental science. Advances. None(None)] 2024. https://doi.org/10.1039/d4va90010c  ([[https://pubs.rsc.org/en/content/articlepdf/2024/va/d4va90010c][pdf]])
-     
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
-* 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394610056
-:TOPICS: Low-Cost Air Quality Monitoring Systems, Nanomaterials with Enzyme-Like Characteristics
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4em90011a")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394610056"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394610056"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394610056"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394610056 (Open access: False)
-    
-[[https://openalex.org/A5038766133][Zongwei Cai]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5050508415][Graham A. Gagnon]], [[https://openalex.org/A5036542477][Kevin C. Jones]], [[https://openalex.org/A5000991624][Célia M. Manaia]], [[https://openalex.org/A5066183566][Elsie M. Sunderland]], [[https://openalex.org/A5075592885][Peter J. Vikesland]], Environmental science. Processes & impacts. None(None)] 2024. https://doi.org/10.1039/d4em90011a 
      
 The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
 
@@ -132,10 +111,31 @@ Over the last two decades, the utility of metal-organic frameworks (MOFs) has ex
 
     
 
+* 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394610056
+:TOPICS: Low-Cost Air Quality Monitoring Systems, Nanomaterials with Enzyme-Like Characteristics
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4em90011a")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394610056"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394610056"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394610056"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394610056 (Open access: False)
+    
+[[https://openalex.org/A5038766133][Zongwei Cai]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5050508415][Graham A. Gagnon]], [[https://openalex.org/A5036542477][Kevin C. Jones]], [[https://openalex.org/A5000991624][Célia M. Manaia]], [[https://openalex.org/A5066183566][Elsie M. Sunderland]], [[https://openalex.org/A5075592885][Peter J. Vikesland]], Environmental science. Processes & impacts. None(None)] 2024. https://doi.org/10.1039/d4em90011a 
+     
+The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
+
+    
+
 * A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394788163
-:TOPICS: Distributed Coordination in Online Robotics Research, Design and Control of Warehouse Operations, Vehicle Routing Problem and Variants
+:TOPICS: Distributed Coordination in Online Robotics Research, Numerical Optimization Techniques, Vehicle Routing Problem and Variants
 :PUBLICATION_DATE: 2024-01-01
 :END:    
     

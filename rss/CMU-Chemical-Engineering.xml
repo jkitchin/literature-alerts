@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 16 Apr 2024 01:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 01:02:56 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4va90010c</guid>
-    </item>
-    <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4em90011a</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Processes &amp; impacts. None(None)] 2024. https://openalex.org/W4394610056
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4em90011a</guid>
     </item>
     <item>
       <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
@@ -66,6 +56,16 @@
       <author>Harrison Lawson, Huy Nguyen, Ayesha Tupe, Mariah L. Arral, K. Y. Lee, Min L&#252;, Kathryn A. Whitehead, Siyang Zheng</author>
       <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mlcss</guid>
+    </item>
+    <item>
+      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
+      <link>https://doi.org/10.1039/d4em90011a</link>
+      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Processes &amp; impacts. None(None)] 2024. https://openalex.org/W4394610056
+
+                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
+      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4em90011a</guid>
     </item>
     <item>
       <title>A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing</title>
