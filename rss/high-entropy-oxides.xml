@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Apr 2024 01:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 01:02:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Sulfurization-induced lattice disordering in high-entropy catalyst for promoted bifunctional electro-oxidation behavior</title>
+      <link>https://doi.org/10.1016/j.cej.2024.151234</link>
+      <description>Jing Chen, Kexin Wang, Zimeng Liu, Xin Sun, Xiaodong Zhang, Fengcai Lei, Xiuyan Wan, Junfeng Xie, Bo Tang, Chemical engineering journal. 489(None)] 2024. https://openalex.org/W4394835914
+
+                The electro-oxidation reactions (EORs) are key half reactions to achieve efficient hydrogen production via direct or assisted water electrolysis, and the development of bifunctional EOR catalysts could further broaden the field of utilization and thus realize simultaneous hydrogen production and wastewater treatment. In this work, we proposed a mild sulfurization approach to fabricate a high-entropy septenary NiCrFeCoCuMnZn sulfide catalyst with unique sulfurization-induced lattice disordering. The disordered lattice and high-entropy feature of the pre-oxidation-favorable sulfide catalyst synergistically lead to enriched active sites and improved intrinsic activity towards promoted activity for the oxygen evolution reaction (OER) and hydrazine oxidation reaction (HzOR). Dynamic analyses of the catalyst in EOR operation reveals that the enrichment of high-valence active species, increased surface roughness and the in-situ formed SO42- ions adsorbed on the surface of the activated catalyst could result in promoted catalytic kinetics, and thereby leading to significant enhancement of OER and HzOR activity without degradation during long-term catalysis. The exploration of the high-entropy lattice-disordered catalyst could promote the hydrogen production via direct and hydrazine-assisted water electrolysis, and the optimization strategies with synergy of phase engineering, lattice disordering and entropy modulation could guide the design of advanced catalysts for energy-related applications.</description>
+      <author>Jing Chen, Kexin Wang, Zimeng Liu, Xin Sun, Xiaodong Zhang, Fengcai Lei, Xiuyan Wan, Junfeng Xie, Bo Tang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151234</guid>
+    </item>
   </channel>
 </rss>

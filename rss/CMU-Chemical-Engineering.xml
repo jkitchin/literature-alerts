@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 17 Apr 2024 01:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 01:02:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4va90010c</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Advances. None(None)] 2024. https://openalex.org/W4394609944
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4va90010c</guid>
-    </item>
-    <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4ew90011a</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Water research &amp; technology. None(None)] 2024. https://openalex.org/W4394626148
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ew90011a</guid>
-    </item>
-    <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4en90012j</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Nano. None(None)] 2024. https://openalex.org/W4394626337
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4en90012j</guid>
-    </item>
-    <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4ea90013h</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Atmospheres. None(None)] 2024. https://openalex.org/W4394626403
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ea90013h</guid>
-    </item>
     <item>
       <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks</title>
       <link>https://doi.org/10.26434/chemrxiv-2024-mlcss</link>
@@ -58,16 +18,6 @@
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mlcss</guid>
     </item>
     <item>
-      <title>2023 Outstanding Papers published in the &lt;i&gt;Environmental Science&lt;/i&gt; journals of the Royal Society of Chemistry</title>
-      <link>https://doi.org/10.1039/d4em90011a</link>
-      <description>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland, Environmental science. Processes &amp; impacts. None(None)] 2024. https://openalex.org/W4394610056
-
-                The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.</description>
-      <author>Zongwei Cai, Neil M. Donahue, Graham A. Gagnon, Kevin C. Jones, C&#233;lia M. Manaia, Elsie M. Sunderland, Peter J. Vikesland</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4em90011a</guid>
-    </item>
-    <item>
       <title>A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing</title>
       <link>https://doi.org/10.2139/ssrn.4793503</link>
       <description>Akang Wang, X. Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4394788163
@@ -76,16 +26,6 @@
       <author>Akang Wang, X. Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4793503</guid>
-    </item>
-    <item>
-      <title>OR-Gym: A Reinforcement Learning Library for Operations Research Problems</title>
-      <link>https://doi.org/10.48550/arxiv.2008.06319</link>
-      <description>Christian D. Hubbs, H&#233;ctor D. P&#233;rez, Owais Sarwar, Nikolaos V. Sahinidis, Ignacio E. Grossmann, John M. Wassick, arXiv (Cornell University). None(None)] 2020. https://openalex.org/W4394643743
-
-                Reinforcement learning (RL) has been widely applied to game-playing and surpassed the best human-level performance in many domains, yet there are few use-cases in industrial or commercial settings. We introduce OR-Gym, an open-source library for developing reinforcement learning algorithms to address operations research problems. In this paper, we apply reinforcement learning to the knapsack, multi-dimensional bin packing, multi-echelon supply chain, and multi-period asset allocation model problems, as well as benchmark the RL solutions against MILP and heuristic models. These problems are used in logistics, finance, engineering, and are common in many business operation settings. We develop environments based on prototypical models in the literature and implement various optimization and heuristic models in order to benchmark the RL results. By re-framing a series of classic optimization problems as RL tasks, we seek to provide a new tool for the operations research community, while also opening those in the RL community to many of the problems and challenges in the OR field.</description>
-      <author>Christian D. Hubbs, H&#233;ctor D. P&#233;rez, Owais Sarwar, Nikolaos V. Sahinidis, Ignacio E. Grossmann, John M. Wassick</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2008.06319</guid>
     </item>
   </channel>
 </rss>

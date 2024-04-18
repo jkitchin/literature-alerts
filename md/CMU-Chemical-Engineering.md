@@ -1,54 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed Apr 17 01:02:56 2024
+Created on Thu Apr 18 01:02:14 2024
 
-Found 8 results from 2024-04-10 to 2024-04-17
+Found 2 results from 2024-04-11 to 2024-04-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394609944    
-Open access: True
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Advances. None(None)] 2024.https://doi.org/10.1039/d4va90010c ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/va/d4va90010c)).
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394626148    
-Open access: False
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Water research & technology. None(None)] 2024.https://doi.org/10.1039/d4ew90011a.
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394626337    
-Open access: False
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Nano. None(None)] 2024.https://doi.org/10.1039/d4en90012j.
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394626403    
-Open access: True
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Atmospheres. None(None)] 2024.https://doi.org/10.1039/d4ea90013h ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/ea/d4ea90013h)).
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
 
 ## Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks   
 
@@ -61,17 +17,6 @@ Over the last two decades, the utility of metal-organic frameworks (MOFs) has ex
 
     
 
-## 2023 Outstanding Papers published in the Environmental Science journals of the Royal Society of Chemistry   
-
-OpenAlex: https://openalex.org/W4394610056    
-Open access: False
-    
-[Zongwei Cai](https://openalex.org/A5038766133), [Neil M. Donahue](https://openalex.org/A5041685684), [Graham A. Gagnon](https://openalex.org/A5050508415), [Kevin C. Jones](https://openalex.org/A5036542477), [Célia M. Manaia](https://openalex.org/A5000991624), [Elsie M. Sunderland](https://openalex.org/A5066183566), [Peter J. Vikesland](https://openalex.org/A5075592885), Environmental science. Processes & impacts. None(None)] 2024.https://doi.org/10.1039/d4em90011a.
-    
-The Editors-in-Chief of the Environmental Science journals introduce the Outstanding Papers of 2023.    
-
-    
-
 ## A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing   
 
 OpenAlex: https://openalex.org/W4394788163    
@@ -80,16 +25,5 @@ Open access: False
 [Akang Wang](https://openalex.org/A5048285644), [X. Li](https://openalex.org/A5073137913), [Jeffrey E. Arbogast](https://openalex.org/A5045208880), [Zachary Wilson](https://openalex.org/A5043503583), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4793503.
     
 Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
-
-## OR-Gym: A Reinforcement Learning Library for Operations Research Problems   
-
-OpenAlex: https://openalex.org/W4394643743    
-Open access: True
-    
-[Christian D. Hubbs](https://openalex.org/A5020227032), [Héctor D. Pérez](https://openalex.org/A5023254502), [Owais Sarwar](https://openalex.org/A5090081420), [Nikolaos V. Sahinidis](https://openalex.org/A5031811254), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [John M. Wassick](https://openalex.org/A5021784779), arXiv (Cornell University). None(None)] 2020.https://doi.org/10.48550/arxiv.2008.06319.
-    
-Reinforcement learning (RL) has been widely applied to game-playing and surpassed the best human-level performance in many domains, yet there are few use-cases in industrial or commercial settings. We introduce OR-Gym, an open-source library for developing reinforcement learning algorithms to address operations research problems. In this paper, we apply reinforcement learning to the knapsack, multi-dimensional bin packing, multi-echelon supply chain, and multi-period asset allocation model problems, as well as benchmark the RL solutions against MILP and heuristic models. These problems are used in logistics, finance, engineering, and are common in many business operation settings. We develop environments based on prototypical models in the literature and implement various optimization and heuristic models in order to benchmark the RL results. By re-framing a series of classic optimization problems as RL tasks, we seek to provide a new tool for the operations research community, while also opening those in the RL community to many of the problems and challenges in the OR field.    
 
     
