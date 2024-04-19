@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Apr 2024 01:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 01:02:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Diastereo- and Enantioselective Dearomative Reductive Aryl-Fluoroalkenylation of Indoles by Nickel Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00560</link>
-      <description>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4394707978
-
-                Herein, we disclose a nickel-catalyzed dearomative reductive aryl-fluoroalkenylation of indoles by defluorinative coupling with gem-difluoroalkenes. The catalytic protocol affords a facile assembly of various monofluoroalkene-containing polycyclic fused indolines bearing two contiguous carbon stereocenters in high diastereo- and enantioselectivities with tolerance of diverse functional groups.</description>
-      <author>Xinmiao Huang, Min Ou, Liu Hong, Wenjie Qin, Yuanhong Ma</author>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00560</guid>
-    </item>
     <item>
       <title>Double Catalytic Activity Unveiled: Synthesis, Characterization, and Catalytic Applications of Iridium Complexes in Transfer Hydrogenation and Photomediated Transformations</title>
       <link>https://doi.org/10.1021/acscatal.4c00673</link>
@@ -76,16 +66,6 @@
       <author>Michael J. Moritz, Sven Maisel, Narayanan Raman, Haiko Wittk&#228;mper, Christoph Wichmann, Mathias Grabau, Deniz Kahraman, Julien Steffen, Nicola Taccardi, Andreas G&#246;rling, Marco Haumann, Peter Wasserscheid, Hans&#8208;Peter Steinr&#252;ck, Christian Papp</author>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01282</guid>
-    </item>
-    <item>
-      <title>PhotoROMP: The Future Is Bright</title>
-      <link>https://doi.org/10.1021/acscatal.4c00972</link>
-      <description>Andrew J. Greenlee, Raymond A. Weitekamp, Jeffrey C. Foster, Samuel Leguizamon, ACS catalysis. None(None)] 2024. https://openalex.org/W4394680291
-
-                Since the earliest investigations of olefin metathesis catalysis, light has been the choice for controlling the catalyst activity on demand. From the perspective of energy efficiency, temporal and spatial control, and selectivity, photochemistry is not only an attractive alternative to traditional thermal manufacturing techniques but also arguably a superior manifold for advanced applications like additive manufacturing (AM). In the last three decades, pioneering work in the field of ring-opening metathesis polymerization (ROMP) has broadened the scope of material properties achievable through AM, particularly using light as both an activating and deactivating stimulus. In this Perspective, we explore trends in photocontrolled ROMP systems with an emphasis on approaches to photoinduced activation and deactivation of metathesis catalysts. Recent work has yielded a myriad of commercial and synthetically accessible photosensitive catalyst systems, although comparatively little attention has been paid to achieving precise control over polymer morphology using light. Metal-free, photophysical, and living ROMP systems have also been relatively underexplored. To take fuller advantage of both the thermomechanical properties of ROMP polymers and the operational simplicity of photocontrol, clear directions for the field are to improve the reversibility of activation and deactivation strategies as well as to further develop photocontrolled approaches to tuning cross-link density and polymer tacticity.</description>
-      <author>Andrew J. Greenlee, Raymond A. Weitekamp, Jeffrey C. Foster, Samuel Leguizamon</author>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00972</guid>
     </item>
     <item>
       <title>CN&lt;sub&gt;2&lt;/sub&gt;&lt;sup&gt;2&#8211;&lt;/sup&gt; Vacancies Enhance Ammonia Synthesis over Air-Durable Alkaline Earth Metal Cyanamide-Supported Cobalt Catalysts</title>
@@ -346,6 +326,56 @@
       <author>Krzysztof Bie&#324;kowski, Renata Solarska, Linh Trinh, Justyna Widera-Kalinowska, Basheer Al&#8208;Anesi, Maning Liu, G. Krishnamurthy Grandhi, Paola Vivo, Burcu Oral, Beyza Y&#305;lmaz, Ramazan Y&#305;ld&#305;r&#305;m</author>
       <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06040</guid>
+    </item>
+    <item>
+      <title>Coupling Waste Plastic Upgrading and CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction to High-Value Chemicals by a Binuclear Re&#8211;Ru Heterogeneous Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c00444</link>
+      <description>Mei Li, Shengbo Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4394857095
+
+                Photocatalytically converting waste plastic to high-value chemicals is an energy-efficient and promising approach. Nonetheless, the limited photocatalytic efficiency due to the extremely low water solubility of the plastic and the excessive release of CO2 caused by overoxidation during the reaction seriously restricts its practical application. Herein, we propose a tandem process of waste Poly(ethylene terephthalate) (PET) plastic degradation and CO2 photoreduction on a chelating-ligand-anchored binuclear Re&#8211;Ru molecular heterogeneous catalyst. Specifically, waste PET plastics are depolymerized and photo-oxidized to monomers and formic acid on the molecular Ru sites, while the CO2 gas externally purged and generated in situ is photoreduced to CO with an impressive TON of 115 on the molecular Re sites. Compared with the corresponding homogeneous catalyst, the product selectivity is significantly improved from 65 to 95% in water-containing systems, and the TON is also greatly increased by nearly 19 times. Experiments and density functional theory calculations reveal that the high photocatalytic performance is attributed to the significantly enhanced light-capture capability, efficient photogenerated electron transfer between bimetallic Re&#8211;Ru sites, and substantially enhanced CO2-trapping capacity by finely regulating the chelating-ligand-based organosilica nanotube framework structure. The real-world application in nature seawater indicates that this work will provide a practical and feasible technical route for the disposal of waste plastics and mitigating carbon emissions under environmental conditions.</description>
+      <author>Mei Li, Shengbo Zhang</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00444</guid>
+    </item>
+    <item>
+      <title>Key Role of CO Coverage for Chain Growth in Co-Based Fischer&#8211;Tropsch Synthesis</title>
+      <link>https://doi.org/10.1021/acscatal.3c04844</link>
+      <description>Konstantijn Tom Rommens, G. T. Kasun Kalhara Gunasooriya, Mark Saeys, ACS catalysis. None(None)] 2024. https://openalex.org/W4394857187
+
+                Fischer&#8211;Tropsch synthesis converts CO and H2 to long-chain hydrocarbons. The reaction mechanism, a combination of C&#8211;O scission, C&#8211;C coupling, and hydrogenation steps, and the nature of the active sites remain intensely debated. In this work, we report a comprehensive, dual-site microkinetic model including more than 600 reversible reactions. Our model explicitly accounts for the high CO surface coverage under the reaction conditions by including a CO saturation coverage in the underlying DFT calculations. The model predictions match experimental kinetic observations with a methane selectivity of 18%, a chain growth probability of 0.83, a turnover frequency of 0.084 s&#8211;1, and an activation energy of 107 kJ/mol. A degree of rate control analysis identifies 12 rate-controlling steps, highlighting the challenges in building compact kinetic models based on one or two rate controlling steps. In the dominant reaction mechanism, CO is activated both at B5 step sites and at the terrace sites via H- and hydroxyl-assisted pathways. Chain growth occurs on the crowded terraces predominantly via CH coupling to alkylidine chains. While B5 step sites facilitate CO activation, a small concentration of 5% is sufficient to establish a quasi-equilibrium CH coverage on the terraces and higher concentrations do not notably change the model predictions.</description>
+      <author>Konstantijn Tom Rommens, G. T. Kasun Kalhara Gunasooriya, Mark Saeys</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c04844</guid>
+    </item>
+    <item>
+      <title>Plasma Catalysis for Hydrogen Production: A Bright Future for Decarbonization</title>
+      <link>https://doi.org/10.1021/acscatal.3c05434</link>
+      <description>Ni Wang, Hope O. Otor, Gerardo Rivera-Castro, Jason C. Hicks, ACS catalysis. None(None)] 2024. https://openalex.org/W4394857812
+
+                Thermal approaches have played a dominant role in driving chemical reactions within the chemicals and fuels industries, benefiting from ongoing enhancements in efficiency via heat integration, catalyst development, and process intensification. Nevertheless, these traditional thermal approaches remain heavily reliant on fossil fuels, and there exists an urgent demand for the implementation of renewable energy technologies to synthesize fuels, commodity chemicals, and specialty chemicals. Nonthermal plasmas have gained considerable attention in recent years as a promising solution, and the prospects of combining plasmas with suitable catalysts have become even more appealing. Moreover, the evolution of nonthermal plasma catalysis approaches for the generation of clean hydrogen could be transformative in reducing greenhouse gas emissions. This comprehensive review highlights the influential contributions in plasma catalysis for hydrogen production, discusses recent advancements, and provides future prospects for researchers aiming to advance the production of clean hydrogen.</description>
+      <author>Ni Wang, Hope O. Otor, Gerardo Rivera-Castro, Jason C. Hicks</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05434</guid>
+    </item>
+    <item>
+      <title>Water-Mediated Photocatalytic Coproduction of Diesel Fuel Additives and Hydrogen from Dimethyl Ether</title>
+      <link>https://doi.org/10.1021/acscatal.4c01132</link>
+      <description>Shiyang Liu, Yike Huang, Nengchao Luo, Jian Zhang, Botao Qiao, Feng Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4394869098
+
+                No abstract</description>
+      <author>Shiyang Liu, Yike Huang, Nengchao Luo, Jian Zhang, Botao Qiao, Feng Wang</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01132</guid>
+    </item>
+    <item>
+      <title>Differentiating Plasmon-Enhanced Chemical Reactions on AgPd Hollow Nanoplates through Surface-Enhanced Raman Spectroscopy</title>
+      <link>https://doi.org/10.1021/acscatal.3c06253</link>
+      <description>Sulin Jiao, Kun Dai, Lucas V. Besteiro, Gao H, Chuang Xuan, Weichao Wang, Yuan Zhang, Chuntai Liu, Ignacio P&#233;rez&#8208;Juste, Jorge P&#233;rez&#8208;Juste, Isabel Pastoriza&#8208;Santos, Guangchao Zheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4394890917
+
+                Plasmonic photocatalysis demonstrates great potential for efficiently harnessing light energy. However, the underlying mechanisms remain enigmatic due to the transient nature of the reaction processes. Typically, plasmonic photocatalysis relies on the excitation of surface plasmon resonance (SPR) in plasmonic materials, such as metal nanoparticles, leading to the generation of high-energy or "hot electrons", albeit accompanied by photothermal heating or Joule effect. The ability of hot electrons to participate in chemical reactions is one of the key mechanisms, underlying the enhanced photocatalytic activity observed in plasmonic photocatalysis. Interestingly, surface-enhanced Raman scattering (SERS) spectroscopy allows the analysis of chemical reactions driven by hot electrons, as both SERS and hot electrons stem from the decay of SPR and occur at the hot spots. Herein, we propose a highly efficient SERS substrate based on cellulose paper loaded with either Ag nanoplates (Ag NPs) or AgPd hollow nanoplates (AgPd HNPs) for the in situ monitoring of C&#8211;C homocoupling reactions. The data analysis allowed us to disentangle the impact of hot electrons and the Joule effect on plasmon-enhanced photocatalysis. Computational simulations revealed an increase in the rate of excitation of hot carriers from single/isolated AgPd HNPs to an in-plane with a vertical stacking assembly, suggesting its promise as a photocatalyst under broadband light. In addition, the results suggest that the incorporation of Pd into an alloy with plasmonic properties may enhance its catalytic performance under light irradiation due to the collection of plasmon-excitation-induced hot electrons. This work has demonstrated the performance-oriented synthesis of hybrid nanostructures, providing a unique route to uncover the mechanism of plasmon-enhanced photocatalysis.</description>
+      <author>Sulin Jiao, Kun Dai, Lucas V. Besteiro, Gao H, Chuang Xuan, Weichao Wang, Yuan Zhang, Chuntai Liu, Ignacio P&#233;rez&#8208;Juste, Jorge P&#233;rez&#8208;Juste, Isabel Pastoriza&#8208;Santos, Guangchao Zheng</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06253</guid>
     </item>
   </channel>
 </rss>

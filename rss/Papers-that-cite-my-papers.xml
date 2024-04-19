@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 18 Apr 2024 01:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 01:03:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,46 +46,6 @@
       <author>Yuefei Zhang, Xuefei Liu, Wentao Wang</author>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/celc.202400084</guid>
-    </item>
-    <item>
-      <title>Bimetallic Organic Frameworks via In Situ Solvothermal Sol&#8211;Gel&#8211;Crystal and Sol&#8211;Crystal Transformation as Durable Electrocatalysts for Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1021/acs.inorgchem.4c00190</link>
-      <description>Anindita Goswami, Debanjali Ghosh, A. Garai, Debabrata Pradhan, Kumar Biradha, Inorganic chemistry. None(None)] 2024. https://openalex.org/W4394674747
-
-                The in situ solvothermal conversion of metal&#8211;organic gels (MOGs) to crystalline metal&#8211;organic frameworks (MOFs) represents a versatile and ingenious strategy that has been employed for the synthesis of MOF materials with specific morphologies, high yield, and improved functional properties. Herein, we have adopted an in situ solvothermal conversion of bimetallic MOGs to crystalline bimetallic MOFs with the aim of introducing a redox-active metal heterogeneity into the monometallic counterpart. The formation of bimetallic NiZn-MOF and CoZn-MOF via in situ solvothermal sol&#8211;gel&#8211;crystal and sol&#8211;crystal transformation is found to depend on the solvent systems used. The sol-to-gel-to-crystal transformation of NiZn-MOF via the formation of NiZn-MOG is found to occur through the gradual disruption of gel fibers leading to subsequent formation of microcrystals and single crystals of NiZn-MOF. These bimetallic MOFs and MOGs serve as promising electrocatalysts for oxygen reduction reaction (ORR) with an excellent methanol tolerance property, which can be attributed to the enhanced mass and charge transfer, higher oxygen vacancies, and bimetallic synergistic interactions among the heterometals. This work demonstrates a convenient strategy for producing bimetallic MOGs to MOFs through the introduction of a redox-active metal heterogeneity in the inorganic hybrid functional materials for fundamental and applied research. Our results connect MOGs and MOFs which have been regarded as having opposite physical states, that is, soft vs hard, and provide promising structural correlation between MOGs and MOFs at the molecular level.</description>
-      <author>Anindita Goswami, Debanjali Ghosh, A. Garai, Debabrata Pradhan, Kumar Biradha</author>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.inorgchem.4c00190</guid>
-    </item>
-    <item>
-      <title>Powering the Future by Iron Sulfide Type Material (Fe&lt;i&gt;&lt;sub&gt;x&lt;/sub&gt;&lt;/i&gt;S&lt;i&gt;&lt;sub&gt;y&lt;/sub&gt;&lt;/i&gt;) Based Electrochemical Materials for Water Splitting and Energy Storage Applications: A Review</title>
-      <link>https://doi.org/10.1002/smll.202402015</link>
-      <description>Farhan Ahmad, Wajeeha Qayyum, Urooj Fatima, Shahid Nawaz, Aldona Bal&#269;i&#363;nait&#279;, Tak H. Kim, Varsha Srivastava, John Vakros, Zacharias Frontistis, Grzegorz Boczkaj, Small. None(None)] 2024. https://openalex.org/W4394686918
-
-                Water electrolysis is among the recent alternatives for generating clean fuels (hydrogen). It is an efficient way to produce pure hydrogen at a rapid pace with no unwanted by-products. Effective and cheap water-splitting electrocatalysts with enhanced activity, specificity, and stability are currently widely studied. In this regard, noble metal-free transition metal-based catalysts are of high interest. Iron sulfide (FeS) is one of the essential electrocatalysts for water splitting because of its unique structural and electrochemical features. This article discusses the significance of FeS and its nanocomposites as efficient electrocatalysts for oxygen evolution reaction (OER), hydrogen evolution reaction (HER), oxygen reduction reaction (ORR), and overall water splitting. FeS and its nanocomposites have been studied also for energy storage in the form of electrode materials in supercapacitors and lithium- (LIBs) and sodium-ion batteries (SIBs). The structural and electrochemical characteristics of FeS and its nanocomposites, as well as the synthesis processes, are discussed in this work. This discussion correlates these features with the requirements for electrocatalysts in overall water splitting and its associated reactions. As a result, this study provides a road map for researchers seeking economically viable, environmentally friendly, and efficient electrochemical materials in the fields of green energy production and storage.</description>
-      <author>Farhan Ahmad, Wajeeha Qayyum, Urooj Fatima, Shahid Nawaz, Aldona Bal&#269;i&#363;nait&#279;, Tak H. Kim, Varsha Srivastava, John Vakros, Zacharias Frontistis, Grzegorz Boczkaj</author>
-      <pubDate>Wed, 10 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202402015</guid>
-    </item>
-    <item>
-      <title>A novel two-dimensional Janus TiSiGeN&lt;sub&gt;4&lt;/sub&gt; monolayer with N vacancies for efficient photocatalytic nitrogen reduction</title>
-      <link>https://doi.org/10.1039/d3cp06302j</link>
-      <description>Zhe Sun, Rongfeng Guan, Huimin Li, Shuidong Feng, Lei Ma, Qianqian Shen, Lixia Ling, Husheng Jia, Jinbo Xue, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4394696831
-
-                The photocatalytic nitrogen reduction reaction (pNRR) is a clean technology that converts H2O and N2 into NH3 under environmental conditions using inexhaustible sunlight. Herein, we designed a novel two-dimensional (2D) Janus TiSiGeN4 structure and evaluated the pNRR performance of the structure with the presence of nitrogen vacancies at different positions using density functional theory (DFT) calculations. The intrinsic dipoles in the Janus TiSiGeN4 structure generate a built-in electric field, which promotes the migration of photogenerated electrons and holes towards the (001) and (00-1) surfaces, respectively, to achieve efficient charge separation. For the pNRR, the Si atoms exposed after the formation of top N vacancies can realize the efficient activation of N2 through the "acceptance-donation" mechanism, while the presence of middle N vacancies not only suppresses the hydrogen evolution reaction, a competition reaction, but also lowers the reaction barrier for the protonation of N atoms. The limiting potential of TiSiGeN4 with the coexistence of both top and middle N vacancies (TiSiGeN4-VN-mt) is as low as -0.44 V. In addition, the introduction of N vacancies generates defect levels, narrowing the band gap and improving the light response. This work provides theoretical guidance for the design of efficient pNRR photocatalysts under mild conditions.</description>
-      <author>Zhe Sun, Rongfeng Guan, Huimin Li, Shuidong Feng, Lei Ma, Qianqian Shen, Lixia Ling, Husheng Jia, Jinbo Xue</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cp06302j</guid>
-    </item>
-    <item>
-      <title>Electronic structure and thermodynamic approaches to the prospect of super abundant vacancies in &#948;-Pu</title>
-      <link>https://doi.org/10.1039/d4cp00534a</link>
-      <description>Alexander Mu&#241;oz, Ivana Matanovi&#263;, Brendan J. Gifford, Sven P. Rudin, Troy Holland, Travis E. Jones, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4394698575
-
-                Super abundant vacancies (SAVs) have been suggested to form in the fcc phase of plutonium, &#948;-Pu, under a low-pressure hydrogen environment. Under these conditions, the vacancy concentration is proposed to reach 10-3 at% due to H trapping in vacancies lowering the effective vacancy formation energy. Previous density functional theory (DFT) results suggest that seven H atoms can be trapped in a single vacancy when a collinear special quasirandom magnetic structure is used to stabilize the &#948; phase, suggesting SAVs are a possible source of H stored in plutonium. In this report, we present DFT results for &#948;-Pu in the noncollinear 3Q magnetic state to study the formation of SAVs in mechanically stable &#948;-Pu. Together with these new simulations, we use publicly available computational and experimental data to provide further constraints on the physical conditions needed to thermodynamically stabilize SAVs in &#948;-Pu. Using several thermodynamic models, we estimate the vacancy concentrations in &#948;-Pu and discuss the limits of hydrogen driven formation of vacancies in &#948;-Pu. We find that, when hydrogen in the lattice is equilibrated with gaseous H2, the formation of SAVs in &#948;-Pu is unlikely and any excess vacancy concentration beyond thermal vacancies would need to occur by a different mechanism.</description>
-      <author>Alexander Mu&#241;oz, Ivana Matanovi&#263;, Brendan J. Gifford, Sven P. Rudin, Troy Holland, Travis E. Jones</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cp00534a</guid>
     </item>
     <item>
       <title>Electrospinning-derived transition metal/carbon nanofiber composites as electrocatalysts for Zn-air batteries</title>
@@ -280,10 +240,10 @@
     <item>
       <title>Two-dimensional van der Waals stack heterostructures for flexible thermoelectrics</title>
       <link>https://doi.org/10.1016/j.nanoen.2024.109605</link>
-      <description>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8722;Wook Min, Chuanrui Zhang, Peng-an Zong, Nano energy. 125(None)] 2024. https://openalex.org/W4394799568
+      <description>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8208;Wook Min, Chuanrui Zhang, Peng-an Zong, Nano energy. 125(None)] 2024. https://openalex.org/W4394799568
 
                 The incorporation of disparate materials into heterostructures has arisen as a formidable technique for modulating interfaces and electronic configurations. The introduction of two-dimensional (2D) materials has unveiled unparalleled prospects for generating innovative heterostructures in the guise of van der Waals stacks. Tantalum sulfide (TaS2), a prominent 2D material, has been extensively studied across various domains, faces constraints in thermoelectric conversion attributed to its diminished absolute Seebeck coefficient below 10 &#956;V K&#8722;1. By constructing a two-dimensional van der Waals stack heterostructure, TaS2/organics/TiS2, a significantly enhanced absolute Seebeck coefficient of 38.3 &#956;V K&#8722;1 was obtained, mostly attributed to the induced interfacial effect. The power factor reached 87.6 &#956;W m&#8722;1 K&#8722;2, marking a sevenfold increase compared to the original. The thermoelectric generator demonstrated a maximum power of 86.4 nW at a temperature difference of 40 K. Employing such heterostructure films in tactile and respiration sensors demonstrated encouraging prospects for aiding the visually impaired with language assistance and facilitating real-time monitoring of respiratory rates for health monitoring purposes. This study highlights the expansive potential of two-dimensional van der Waals stack heterostructure technology for use in flexible thermoelectric generators, wearable sensors, and beyond.</description>
-      <author>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8722;Wook Min, Chuanrui Zhang, Peng-an Zong</author>
+      <author>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8208;Wook Min, Chuanrui Zhang, Peng-an Zong</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109605</guid>
     </item>
@@ -458,6 +418,166 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsengineeringau.3c00068</guid>
     </item>
     <item>
+      <title>Density functional theory (DFT) studies in HDAC-based chemotherapeutics: Current findings, case studies and future perspectives</title>
+      <link>https://doi.org/10.1016/j.compbiomed.2024.108468</link>
+      <description>Samima Khatun, R.M. Bhagat, Sk. Abdul Amin, Tarun Jha, Shovanlal Gayen, Computers in biology and medicine. None(None)] 2024. https://openalex.org/W4394860110
+
+                Density Functional Theory (DFT) is a quantum chemical computational method used to predict and analyze the electronic properties of atoms, molecules, and solids based on the density of electrons rather than wavefunctions. It provides insights into the structure, bonding, and behaviour of different molecules, including those involved in the development of chemotherapeutic agents, such as Histone deacetylase inhibitors (HDACis). HDACs are a wide group of metalloenzymes that facilitate the removal of acetyl groups from acetyl-lysine residues situated in the N-terminal tail of histones. Abnormal HDAC recruitment has been linked to several human diseases, especially cancer. Therefore, it has been recognized as a prospective target for accelerating the development of anticancer therapies. Researchers have studied HDACs and its inhibitors extensively using a combination of experimental methods and diverse in-silico approaches such as machine learning and quantitative structure&#8211;activity relationship (QSAR) methods, molecular docking, molecular dynamics, pharmacophore mapping, and more. In this context, DFT studies can make significant contribution by shedding light on the molecular properties, interactions, reaction pathways, transition states, reactivity and mechanisms involved in the development of HDACis. This review attempted to elucidate the scope in which DFT methodologies may be used to enhance our comprehension of the molecular aspects of HDAC inhibitors, aiding in the rational design and optimization of these compounds for therapeutic applications in cancer and other ailments. The insights gained can guide experimental efforts toward developing more potent and selective HDAC inhibitors.</description>
+      <author>Samima Khatun, R.M. Bhagat, Sk. Abdul Amin, Tarun Jha, Shovanlal Gayen</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compbiomed.2024.108468</guid>
+    </item>
+    <item>
+      <title>The Social Space of Analytic Philosophy</title>
+      <link>https://doi.org/10.1007/978-3-031-53200-9_6</link>
+      <description>Eugenio Petrovich, Quantitative methods in the humanities and social sciences. None(None)] 2024. https://openalex.org/W4394863196
+
+                In this chapter, the acknowledgments that appeared in 2,075 articles published between 2005 and 2019 in the "Top Five" analytic philosophy journals are analyzed with both qualitative and quantitative techniques. After framing the acknowledgments as zones of a sui generis communication between authors and readers, which enable analytic philosophers to place themselves in the social space of analytic philosophy, the first part of the chapter focuses on the stylistics of the acknowledgments. Unwritten norms and conventions that shape the acknowledgments as a literary genre are reconstructed and explained in the light of the theory of acknowledgments as positioning signals (Chap. 2 ). Then, in the second part of the chapter, a quantitative approach is used to measure different social dimensions of the acknowledgees population. In this way, the social space of recent analytic philosophy is charted.</description>
+      <author>Eugenio Petrovich</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-53200-9_6</guid>
+    </item>
+    <item>
+      <title>Theoretical insight of pyrite-like bimetallic diselenides for oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114129</link>
+      <description>Ju-Xia Yi, Lei Tao, Yu-Yang Zhang, Shixuan Du, Molecular catalysis. 560(None)] 2024. https://openalex.org/W4394865823
+
+                Transition metal dichalcogenides (TMDs) have been widely considered as one of the promising candidates to replace platinum-based oxygen reduction reaction (ORR) catalysts due to their attractive properties. However, the single active site in such catalysts poses challenges in surpassing the inherent limits of scaling relations between adsorption energy of multi-intermediates in ORR catalytic process. Herein, inspired by the concept of multiple active centers, we design a series of stable pyrite-like bimetallic diselenides (A0.5B0.5Se2, A = Mn, Fe, Co, Ni, B = Cu, Cd, Sn) as catalysts, which aim at enhancing ORR catalytic activity through synergistic effect in dual active sites. Through density functional theory calculations, we find that the ORR activities of most A0.5B0.5Se2 catalysts are comparable to or even better than those of the noble metal Pt, verifying the promotional ORR activities of A0.5B0.5Se2. Among them, Co0.5Sn0.5Se2 has an overpotential of 0.31 V, which shows better catalytic performance than Pt for ORR. Such improvement is attributed to the tandem reaction mechanism and the reduction in the barrier for the rate-determining steps, resulting from the presence of dual active sites within Co0.5Sn0.5Se2. The projected density of states (PDOS) and Bader charge analysis reveal that the excellent catalytic activity is contributed by the strong d-p orbital hybridization between Co and Sn in the Co0.5Sn0.5Se2, which significantly weakens the over-adsorption of the crucial O* intermediates. These findings provide valuable theoretical insights for designing optimum ORR catalysts.</description>
+      <author>Ju-Xia Yi, Lei Tao, Yu-Yang Zhang, Shixuan Du</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114129</guid>
+    </item>
+    <item>
+      <title>Achieving long-lived MWW zeolite catalyst for alkylation of benzene with 1-dodecene: Insights into confinement effect of surface cavities and underlying mechanism</title>
+      <link>https://doi.org/10.1016/j.cej.2024.151109</link>
+      <description>Ben Liang, Meng&#8208;Nan Liu, Ning An, Fang Ren, Qun&#8208;Xing Luo, Huiyong Chen, Jun Hu, Xiaoxun Ma, Qingqing Hao, Chemical engineering journal. 489(None)] 2024. https://openalex.org/W4394865874
+
+                The environmentally benign and long-lived zeolite catalyst is highly desired for Friedel-Crafts (FC) alkylation of benzene with long-chain olefins. Herein, MWW zeolites with different layer arrangements and surface structures are employed as model catalysts to investigate the effects of microscale structure on the catalytic behaviors for the alkylation of benzene with 1-dodecene. It is revealed that two kinds of acid sites located on the external surface and within surface 12-membered ring (12MR) pockets of MWW zeolites are effective for this reaction. Unexpectedly, the turnover frequency (TOF) of the effective acid sites over single-layer MWW (SL-MWW) is significantly lower than that of MCM-22. Kinetic study indicates that apparent activation energy (Ea) is decreased in the order of MCM-36 &gt; MCM-22 &gt; SL-MWW. Combined with DFT calculation, the lowest TOF and Ea over SL-MWW can be reasonably attributed to the higher proportion of acid sites in the 12MR pockets and its higher diffusional limitation for products. Moreover, the highest Ea of MCM-36 and adsorption energy verified the decreased diffusion limitation of 12MR pockets due to the structure defect resulting from the desilication. Finally, the highly efficient and stable MCM-36 catalyst was achieved in the optimal reaction conditions, which is a potential catalyst for industrial application in the field of FC alkylation reactions.</description>
+      <author>Ben Liang, Meng&#8208;Nan Liu, Ning An, Fang Ren, Qun&#8208;Xing Luo, Huiyong Chen, Jun Hu, Xiaoxun Ma, Qingqing Hao</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151109</guid>
+    </item>
+    <item>
+      <title>Electron redistribution and proton transfer induced by atomically fully exposed Cu-O-Fe clusters coupled with single-atom sites for efficient oxygen electrocatalysis</title>
+      <link>https://doi.org/10.1016/j.ensm.2024.103410</link>
+      <description>Enze Zhu, Zheng Tao, Jiali Yu, Chaoyang Shi, Lei Zhou, Huali Jin, Jun Yang, Guang&#8211;Nan Luo, Danyang Wei, Xianfeng Yang, Mingli Xu, Energy storage materials. None(None)] 2024. https://openalex.org/W4394869502
+
+                No abstract</description>
+      <author>Enze Zhu, Zheng Tao, Jiali Yu, Chaoyang Shi, Lei Zhou, Huali Jin, Jun Yang, Guang&#8211;Nan Luo, Danyang Wei, Xianfeng Yang, Mingli Xu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ensm.2024.103410</guid>
+    </item>
+    <item>
+      <title>Use of a high-entropy oxide as an oxygen carrier for chemical looping</title>
+      <link>https://doi.org/10.1016/j.energy.2024.131307</link>
+      <description>I&#241;aki Ad&#225;nez-Rubio, M.T. Izquierdo, Joakim Brorsson, Daofeng Mei, Tobias Mattisson, Juan Ad&#225;nez, Energy. None(None)] 2024. https://openalex.org/W4394870018
+
+                One mixed oxide with 5 cations in equimolar proportions in the sublattice, to fulfil high-entropy oxide (HEO) criteria, has been developed and investigated as oxygen carrier for chemical looping combustion processes. As far as we know, nobody has explored this class of material for chemical looping combustion. Material is prepared by direct mixing of five metal oxides (CuO, Mn2O3, Fe2O3, TiO2, MgO), followed by calcination at 1000, 1100 and 1200 &#176;C for 6h in air. XRD characterization provides strong evidence that the synthesized oxygen carriers possess the hallmark properties of HEO, and SEM-EDX analysis shows an overall homogeneous metal distribution. Materials have one main cubic phase with the empirical formula MnCuMgFeTiO7, dominating under all conditions. One of the key objectives of this study is achieved, reduce chemical stress during redox cycles. Oxygen transfer capability is investigated by thermogravimetric analysis and batch fluidized bed reactor experiments for different fuels and atmospheres. Mass-based oxygen transport capacities for lattice oxygen and oxygen uncoupling are around 5.5wt% and 1.1wt%, respectively. This work opens up a new dimension for the future preparation of oxygen carriers for chemical looping processes, since the vast compositional space of HEO provides opportunities to tune both chemical and physical characteristics.</description>
+      <author>I&#241;aki Ad&#225;nez-Rubio, M.T. Izquierdo, Joakim Brorsson, Daofeng Mei, Tobias Mattisson, Juan Ad&#225;nez</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.131307</guid>
+    </item>
+    <item>
+      <title>Tailoring &lt;scp&gt;Li&lt;sub&gt;2&lt;/sub&gt;CO&lt;sub&gt;3&lt;/sub&gt;&lt;/scp&gt; configuration and orbital structure of &lt;scp&gt;CoS&lt;/scp&gt; to improve catalytic activity and stability for &lt;scp&gt;Li&#8208;CO&lt;sub&gt;2&lt;/sub&gt;&lt;/scp&gt; batteries</title>
+      <link>https://doi.org/10.1002/eom2.12449</link>
+      <description>Rui Mao, Yingqi Liu, Pengfei Shu, Bingyi Lu, Biao Chen, Yanli Chen, Yang Song, Yeyang Jia, Zhong Zheng, Qiong Peng, Guangmin Zhou, EcoMat. None(None)] 2024. https://openalex.org/W4394870765
+
+                Abstract The sluggish reaction kinetics has greatly hampered the development of reversible Li&#8208;CO 2 batteries. Especially during charge, high charge voltage and possible side reactions during Li 2 CO 3 decomposition require both high activity and strong durability of catalysts. Herein, a strategy of introducing rich sulfur vacancies is proposed, which tailors the configuration of Li 2 CO 3 and the orbital structure of CoS to realize the dual enhancement. The calculation results show that charge redistribution by sulfur vacancies on the catalyst stretches the adsorbed Li 2 CO 3 and consequently facilitates its decomposition. Moreover, the induced vacancies lower the S 2p band center, promoting the electrochemical stability of sulfides. Therefore, Li&#8208;CO 2 batteries with sulfur vacancy&#8208;rich CoS exhibit a low overpotential of 1.07 V after 400 h cycling, while batteries with pristine CoS have a short lifespan that the overpotential exceeds 1.75 V after cycling for 200 h. This study not only proposes a strategy to improve both catalytic activity and stability but also paves new avenues for designing advanced catalysts for Li&#8208;CO 2 batteries and beyond. image</description>
+      <author>Rui Mao, Yingqi Liu, Pengfei Shu, Bingyi Lu, Biao Chen, Yanli Chen, Yang Song, Yeyang Jia, Zhong Zheng, Qiong Peng, Guangmin Zhou</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/eom2.12449</guid>
+    </item>
+    <item>
+      <title>Dynamic role of dopant and graphene on BiVO4 photoanode for enhanced photoelectrochemical hydrogen production</title>
+      <link>https://doi.org/10.1016/j.energy.2024.131329</link>
+      <description>Mohaseen S. Tamboli, Santosh S. Patil, Dong Kyu Lee, C. S. Praveen, Asiya M. Tamboli, Uk Sim, Ki-Young Lee, Geun Ho Gu, Chinho Park, Energy. None(None)] 2024. https://openalex.org/W4394876478
+
+                No abstract</description>
+      <author>Mohaseen S. Tamboli, Santosh S. Patil, Dong Kyu Lee, C. S. Praveen, Asiya M. Tamboli, Uk Sim, Ki-Young Lee, Geun Ho Gu, Chinho Park</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.energy.2024.131329</guid>
+    </item>
+    <item>
+      <title>Tailored Two&#8208;Dimensional Transition Metal Dichalcogenides for Water Electrolysis: Doping, Defect, Phase, and Heterostructure</title>
+      <link>https://doi.org/10.1002/celc.202300614</link>
+      <description>Ji Hyeon Lim, K Kim, Jong Hun Kang, Ki Chang Kwon, Ho Won Jang, ChemElectroChem. None(None)] 2024. https://openalex.org/W4394878590
+
+                Abstract The demand for hydrogen production technology to replace fossil fuels and address the global climate crisis has become one of the most urgent tasks in the modern era. Among the promising breakthroughs, electrochemical water splitting using renewable energy sources offers a path to green hydrogen production that is both feasible and economically viable. However, the current state&#8208;of&#8208;the&#8208;art catalysts for the water&#8208;splitting reaction predominantly rely on scarce and costly noble metals, posing a significant challenge to the mass production of green hydrogen. In this context, two&#8208;dimensional transition metal dichalcogenides (2D TMDs) have emerged as compelling candidates to replace noble metals, owing to their impressive reactivity and cost&#8208;effectiveness. These TMD&#8208;based electrocatalysts demonstrate exceptional reactivity at their active edge sites, while the basal planes remain catalytically inert. Several tailored strategies can activate these basal planes by modifying the chemical bonding nature and electronic band structure of the constituent atoms, thus enhancing the overall reactivity of TMDs. This review summarizes recent advancements in the modulation methodologies of 2D TMDs to enhance their water&#8208;splitting reactivity. We highlight various chemical modification strategies, including heteroatom doping, defect&#8208;engineering, and heterostructure formation, and provide insights into future research directions for the development of advanced 2D TMD&#8208;based water&#8208;splitting catalysts.</description>
+      <author>Ji Hyeon Lim, K Kim, Jong Hun Kang, Ki Chang Kwon, Ho Won Jang</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/celc.202300614</guid>
+    </item>
+    <item>
+      <title>Surface Charge Effects for the Hydrogen Evolution Reaction on Pt(111) Using a Modified Grand-Canonical Potential Kinetics Method</title>
+      <link>https://doi.org/10.3390/molecules29081813</link>
+      <description>Shaoyu Kong, Min Ouyang, Yi An, Wei Cao, Xiaobo Chen, Molecules/Molecules online/Molecules annual. 29(8)] 2024. https://openalex.org/W4394880897
+
+                Surface charges of catalysts have important influences on the thermodynamics and kinetics of electrochemical reactions. Herein, we develop a modified version of the grand-canonical potential kinetics (GCP-K) method based on density functional theory (DFT) calculations to explore the effect of surface charges on reaction thermodynamics and kinetics. Using the hydrogen evolution reaction (HER) on the Pt(111) surface as an example, we show how to track the change of surface charge in a reaction and how to analyze its influence on the kinetics. Grand-canonical calculations demonstrate that the optimum hydrogen adsorption energy on Pt under the standard hydrogen electrode condition (SHE) is around &#8722;0.2 eV, rather than 0 eV established under the canonical ensemble, due to the high density of surface negative charges. By separating the surface charges that can freely exchange with the external electron reservoir, we obtain a Tafel barrier that is in good agreement with the experimental result. During the Tafel reaction, the net electron inflow into the catalyst leads to a stabilization of canonical energy and a destabilization of the charge-dependent grand-canonical component. This study provides a practical method for obtaining accurate grand-canonical reaction energetics and analyzing the surface charge induced changes.</description>
+      <author>Shaoyu Kong, Min Ouyang, Yi An, Wei Cao, Xiaobo Chen</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/molecules29081813</guid>
+    </item>
+    <item>
+      <title>First&#8208;Principles Investigations on Effects of B&#8208;Site Substitution (B&#9552;Mn, Fe, and Co) on La&#8208;Based Perovskite Oxides As Bifunctional Electrocatalysts for Rechargeable Metal&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1002/adts.202301235</link>
+      <description>Siriwimol Somdee, Meena Rittiruam, Tinnakorn Saelee, Patcharaporn Khajondetchairit, Annop Ektarawong, Soorathep Kheawhom, Bj&#246;rn Alling, Piyasan Praserthdam, Supareak Praserthdam, Advanced theory and simulations. None(None)] 2024. https://openalex.org/W4394890199
+
+                Abstract The effects of B&#8208;site substitution (B&#9552;Mn, Fe, and Co) in La&#8208;based perovskite oxides (LPOs); LaMnO 3 , LaFeO 3 , LaCoO 3 , as bifunctional electrocatalysts during oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) in metal&#8211;air batteries (MABs) under an alkaline electrolyte (pH = 13) are investigated using density functional theory (DFT). It is found that LaMnO 3 exhibits higher ORR activity than others with ORR overpotential ( &#951; ORR ) of 0.57 V, but its OER activity is poor with OER overpotential ( &#951; OER ) of 1.12 V. The &#951; ORR (0.59 V) and &#951; OER (1.13 V) of LaMn 0.75 Fe 0.25 O 3 closely resemble those of LaMnO 3 , suggesting that Fe substitution does not yield appreciable enhancements in activity. Fe substitution reduces the ORR and OER activity because the adsorption energies of intermediate species on Fe&#8208;substituted LPOs surfaces are too strong to obtain a potential determining step for ORR and OER. According to Sabatier's principle, the LaMn 0.25 Co 0.75 O 3 demonstrates superior OER activity compared to the other composition, while ORR activity approximates that of LaMnO 3 , evidenced by &#951; ORR of 0.65 V and &#951; OER of 0.53 V. The Co&#8208;terminated LaMn 0.25 Co 0.75 O 3 shows bifunctional activity higher than Mn/Co termination, indicating that Co is an active site for OER and Mn is a promoter for improved ORR activity.</description>
+      <author>Siriwimol Somdee, Meena Rittiruam, Tinnakorn Saelee, Patcharaporn Khajondetchairit, Annop Ektarawong, Soorathep Kheawhom, Bj&#246;rn Alling, Piyasan Praserthdam, Supareak Praserthdam</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adts.202301235</guid>
+    </item>
+    <item>
+      <title>Sustainable Ammonia Production via Nitric Oxide Electrochemical Reduction on H-MXenes: A DFT Study</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c07989</link>
+      <description>Yuehong Zhao, Xiangyu Zhang, Lu Liu, Yijing Gao, Xiao&#8208;Shun Zhou, Weidong Zhu, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4394890892
+
+                Ammonia has gained more interest as a promising candidate to produce clean and renewable hydrogen energy in recent years. It is crucial to develop a new and efficient method for improving the performance of NH3 synthesis. Nowadays, electrochemical NH3 synthesis by direct NO reduction has become an alternative to the Haber&#8211;Bosch process. Herein, the performance of a NO reduction reaction (NORR) on 33 different H-functionalized MXenes (H-MXenes) has been investigated by the combination of density functional theory (DFT) calculations with the least absolute shrinkage and selection operator (LASSO) regression. Through surface Pourbaix diagrams and Gibbs free-energy calculations, the reaction mechanism and limiting potential (UL) of the NORR on the H-MXenes are investigated. The DFT calculations demonstrate that the surface H could regulate the strength of NO adsorption, lower the free energy of the elemental step, effectively reduce the limiting potential, and hence improve the NORR performance. Furthermore, the results on the LASSO regression indicate a good fitting between the expression consisting of the combined descriptors from 1D to 4D and the UL values from the DFT calculations. Moreover, |Gv&#8722;ENO|2|GNO| is regarded as human-readable NORR performance descriptors with R2 = 0.83. This work not only provides a deep insight into the important role of H-functionalization in NORR but also profits to understand the originals of the NORR activity for the high-throughput screening of NH3 synthesis catalysts.</description>
+      <author>Yuehong Zhao, Xiangyu Zhang, Lu Liu, Yijing Gao, Xiao&#8208;Shun Zhou, Weidong Zhu</author>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c07989</guid>
+    </item>
+    <item>
+      <title>Confined cobalt single&#8208;atom catalysts with strong electronic metal&#8208;support interactions based on a biomimetic self&#8208;assembly strategy</title>
+      <link>https://doi.org/10.1002/cey2.554</link>
+      <description>Bowen Guo, Zekun Wang, Lei Zheng, Guang Mo, Hongjun Zhou, Dan Luo, Carbon energy. None(None)] 2024. https://openalex.org/W4394891223
+
+                Abstract Designing high&#8208;performance and low&#8208;cost electrocatalysts for oxygen evolution reaction (OER) is critical for the conversion and storage of sustainable energy technologies. Inspired by the biomineralization process, we utilized the phosphorylation sites of collagen molecules to combine with cobalt&#8208;based mononuclear precursors at the molecular level and built a three&#8208;dimensional (3D) porous hierarchical material through a bottom&#8208;up biomimetic self&#8208;assembly strategy to obtain single&#8208;atom catalysts confined on carbonized biomimetic self&#8208;assembled carriers (Co SACs/cBSC) after subsequent high&#8208;temperature annealing. In this strategy, the biomolecule improved the anchoring efficiency of the metal precursor through precise functional groups; meanwhile, the binding&#8208;then&#8208;assembling strategy also effectively suppressed the nonspecific adsorption of metal ions, ultimately preventing atomic agglomeration and achieving strong electronic metal&#8208;support interactions (EMSIs). Experimental characterizations confirm that binding forms between cobalt metal and carbonized self&#8208;assembled substrate (Co&#8211;O 4 &#8211;P). Theoretical calculations disclose that the local environment changes significantly tailored the Co d&#8208;band center, and optimized the binding energy of oxygenated intermediates and the energy barrier of oxygen release. As a result, the obtained Co SACs/cBSC catalyst can achieve remarkable OER activity and 24 h durability in 1 M KOH ( &#951; 10 at 288 mV; Tafel slope of 44 mV dec &#8722;1 ), better than other transition metal&#8208;based catalysts and commercial IrO 2 . Overall, we presented a self&#8208;assembly strategy to prepare transition metal SACs with strong EMSIs, providing a new avenue for the preparation of efficient catalysts with fine atomic structures.</description>
+      <author>Bowen Guo, Zekun Wang, Lei Zheng, Guang Mo, Hongjun Zhou, Dan Luo</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.554</guid>
+    </item>
+    <item>
+      <title>Deactivation mechanism for water splitting: Recent advances</title>
+      <link>https://doi.org/10.1002/cey2.528</link>
+      <description>Yuqing Jia, Y. J. Li, Qiong Zhang, Sohail Yasin, Xinqian Zheng, Kai Ma, Hua Zhong, Jianfeng Shi, Chaohua Gu, Yuhai Dou, Shi Xue Dou, Carbon energy. None(None)] 2024. https://openalex.org/W4394891351
+
+                Abstract Hydrogen (H 2 ) has been regarded as a promising alternative to fossil&#8208;fuel energy. Green H 2 produced via water electrolysis (WE) powered by renewable energy could achieve a zero&#8208;carbon footprint. Considerable attention has been focused on developing highly active catalysts to facilitate the reaction kinetics and improve the energy efficiency of WE. However, the stability of the electrocatalysts hampers the commercial viability of WE. Few studies have elucidated the origin of catalyst degradation. In this review, we first discuss the WE mechanism, including anodic oxygen evolution reaction (OER) and cathodic hydrogen evolution reaction (HER). Then, we provide strategies used to enhance the stability of electrocatalysts. After that, the deactivation mechanisms of the typical commercialized HER and OER catalysts, including Pt, Ni, RuO 2 , and IrO 2 , are summarized. Finally, the influence of fluctuating energy on catalyst degradation is highlighted and in situ characterization methodologies for understanding the dynamic deactivation processes are described.</description>
+      <author>Yuqing Jia, Y. J. Li, Qiong Zhang, Sohail Yasin, Xinqian Zheng, Kai Ma, Hua Zhong, Jianfeng Shi, Chaohua Gu, Yuhai Dou, Shi Xue Dou</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cey2.528</guid>
+    </item>
+    <item>
+      <title>Unveiling synergy of strain and ligand effects in metallic aerogel for electrocatalytic polyethylene terephthalate upcycling</title>
+      <link>https://doi.org/10.1073/pnas.2318853121</link>
+      <description>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang, Proceedings of the National Academy of Sciences of the United States of America. 121(17)] 2024. https://openalex.org/W4394892556
+
+                Recently, there has been a notable surge in interest regarding reclaiming valuable chemicals from waste plastics. However, the energy-intensive conventional thermal catalysis does not align with the concept of sustainable development. Herein, we report a sustainable electrocatalytic approach allowing the selective synthesis of glycolic acid (GA) from waste polyethylene terephthalate (PET) over a Pd 67 Ag 33 alloy catalyst under ambient conditions. Notably, Pd 67 Ag 33 delivers a high mass activity of 9.7 A mg Pd &#8722;1 for ethylene glycol oxidation reaction (EGOR) and GA Faradaic efficiency of 92.7 %, representing the most active catalyst for selective GA synthesis. In situ experiments and computational simulations uncover that ligand effect induced by Ag incorporation enhances the GA selectivity by facilitating carbonyl intermediates desorption, while the lattice mismatch-triggered tensile strain optimizes the adsorption of *OH species to boost reaction kinetics. This work unveils the synergistic of strain and ligand effect in alloy catalyst and provides guidance for the design of future catalysts for PET upcycling. We further investigate the versatility of Pd 67 Ag 33 catalyst on CO 2 reduction reaction (CO 2 RR) and assemble EGOR//CO 2 RR integrated electrolyzer, presenting a pioneering demonstration for reforming waste carbon resource (i.e., PET and CO 2 ) into high-value chemicals.</description>
+      <author>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2318853121</guid>
+    </item>
+    <item>
+      <title>Evaluating electrocatalytic activities of Pt, Pd, Au and Ag-based catalyst on PEMFC performance: A review</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.04.177</link>
+      <description>Zatil Amali Che Ramli, Jagadeesh Pasupuleti, Nik Farah Hanis Nik Zaiman, Tengku Shafazila Tengku Saharuddin, Salma Samidin, Wan Nor Roslam Wan Isahak, A.G.N. Sofiah, Siti Kartom Kamarudin, Sieh Kiong Tiong, International journal of hydrogen energy. None(None)] 2024. https://openalex.org/W4394894659
+
+                This comprehensive review article highlights recent advancements of Pt and Pd-based electrocatalysts, covering Pt and Pd alloys, Pt-M and Pd-M core-shell structures, nanosize/nanostructure effects, addition of support material, doping effects, and post-treatment for the oxygen reduction reaction (ORR) and hydrogen oxidation reaction (HOR) in Proton exchange membrane fuel cell (PEMFC). Additionally, it delves into other precious metals such as Gold (Au) and Silver (Ag) for ORR and HOR in PEMFC. The role and contribution of incorporating other elements or materials such as metal oxides, metal carbides, transition metal oxides, carbon support, and non-carbon support are thoroughly discussed. The most promising methods are also described, with a special emphasis on narrow particle size, nanostructure, and low loading of novel Pt- and Pd-based catalysts. Furthermore, the advantages and shortcomings of these catalysts for electrocatalysis are analyzed, along with the influence of the nanostructure and morphology of the electrocatalyst materials on electrochemical performance.</description>
+      <author>Zatil Amali Che Ramli, Jagadeesh Pasupuleti, Nik Farah Hanis Nik Zaiman, Tengku Shafazila Tengku Saharuddin, Salma Samidin, Wan Nor Roslam Wan Isahak, A.G.N. Sofiah, Siti Kartom Kamarudin, Sieh Kiong Tiong</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.177</guid>
+    </item>
+    <item>
       <title>Scaling Supercapacitive Swing Adsorption of CO&lt;sub&gt;2&lt;/sub&gt; Using Bipolar Electrode Stacks</title>
       <link>https://doi.org/10.1002/smll.202303243</link>
       <description>Jiajie Li, Muhammad Bilal, Kai Landskron, Small. None(None)] 2024. https://openalex.org/W4394725269
@@ -466,6 +586,26 @@
       <author>Jiajie Li, Muhammad Bilal, Kai Landskron</author>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/smll.202303243</guid>
+    </item>
+    <item>
+      <title>Green, cost-effective synthesis of NiMnO3 nanoparticles and their use in supercapacitor and photodegradation applications</title>
+      <link>https://doi.org/10.1016/j.nanoso.2024.101151</link>
+      <description>H.S. Sumantha, B. Suresha, Nano-structures &amp; nano-objects. 38(None)] 2024. https://openalex.org/W4394865897
+
+                Nickel manganese oxide nanoparticles (NiMnO3 NPs) have been synthesized by a solution combustion method, varying the metal-to-fuel ratios. The obtained compounds were characterized by several techniques, including X-ray diffraction, FT-IR, FESEM and HR-TEM. The optical band gap decreased with increasing crystallite size. The BET analysis revealed a decrease in surface area with increasing crystallite size. Crystallite size dependent electrochemical investigations of the NiMnO3 NPs were carried out using a three-electrode system. The NiMnO3 NPs were observed to be a better supercapacitor material with a specific capacitance of 65.45 F/g at 1 A/g. The specific capacitance decreased linearly with the cumulative current densities, which is the characteristic behavior of electrochemical supercapacitors. The degradation of RB increased with the enhancement in the crystallinity of the sample. The proportion of RB dye degradation was found to be 99.89% in two hours. The enhancement of photodegradation and the supercapacitor property of the NiMnO3 NPs are attributed to the reduction in the band gap due to increase in crystallite size.</description>
+      <author>H.S. Sumantha, B. Suresha</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoso.2024.101151</guid>
+    </item>
+    <item>
+      <title>Coverage- and Facet-Dependent Multiscale Modeling of O* and H* Adsorption on Pt Catalytic Nanoparticles</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c08335</link>
+      <description>Ayodeji Omoniyi, Alyssa J. R. Hensley, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4394880245
+
+                No abstract</description>
+      <author>Ayodeji Omoniyi, Alyssa J. R. Hensley</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08335</guid>
     </item>
     <item>
       <title>Material Property Prediction Using Graphs Based on Generically Complete Isometry Invariants</title>
