@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Apr 2024 01:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 01:02:44 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,16 @@
       <author>Akang Wang, X. Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4793503</guid>
+    </item>
+    <item>
+      <title>Carbon nanomaterials&#8208;based electrically conductive scaffolds for tissue engineering applications</title>
+      <link>https://doi.org/10.1002/mba2.76</link>
+      <description>Genevieve Abd, Raquel Sanchez Diaz, Anju Gupta, Tagbo H. R. Niepa, Kunal Mondal, Seeram Ramakrishna, Ashutosh Sharma, Andr&#233;s D&#237;az Lantada, Monsur Islam, MedComm - Biomaterials and applications. 3(2)] 2024. https://openalex.org/W4394927677
+
+                Abstract In tissue engineering, the pivotal role of scaffolds is underscored, serving as key elements to emulate the native extracellular matrix. These scaffolds must provide structural integrity and support and supply electrical, mechanical, and chemical cues for cell and tissue growth. Notably, electrical conductivity plays a crucial role when dealing with tissues like bone, spinal, neural, and cardiac tissues. However, the typical materials used as tissue engineering scaffolds are predominantly polymers, which generally characteristically feature poor electrical conductivity. Therefore, it is often necessary to incorporate conductive materials into the polymeric matrix to yield electrically conductive scaffolds and further enable electrical stimulation. Among different conductive materials, carbon nanomaterials have attracted significant attention in developing conductive tissue engineering scaffolds, demonstrating excellent biocompatibility and bioactivity in both in vitro and in vivo settings. This article aims to comprehensively review the current landscape of carbon&#8208;based conductive scaffolds, with a specific focus on their role in advancing tissue engineering for the regeneration and maturation of functional tissues, emphasizing the application of electrical stimulation. This review highlights the versatility of carbon&#8208;based conductive scaffolds and addresses existing challenges and prospects, shedding light on the trajectory of innovative conductive scaffold development in tissue engineering.</description>
+      <author>Genevieve Abd, Raquel Sanchez Diaz, Anju Gupta, Tagbo H. R. Niepa, Kunal Mondal, Seeram Ramakrishna, Ashutosh Sharma, Andr&#233;s D&#237;az Lantada, Monsur Islam</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/mba2.76</guid>
     </item>
   </channel>
 </rss>

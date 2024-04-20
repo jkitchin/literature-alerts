@@ -1,157 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Apr 19 01:02:47 2024
+Created on Sat Apr 20 01:02:43 2024
 
-Found 37 results from 2024-04-12 to 2024-04-19
+Found 41 results from 2024-04-13 to 2024-04-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Double Catalytic Activity Unveiled: Synthesis, Characterization, and Catalytic Applications of Iridium Complexes in Transfer Hydrogenation and Photomediated Transformations  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394714242
-:TOPICS: Homogeneous Catalysis with Transition Metals, Transition-Metal-Catalyzed C–H Bond Functionalization, Applications of Photoredox Catalysis in Organic Synthesis
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00673")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394714242"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394714242"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394714242"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394714242 (Open access: True)
-    
-[[https://openalex.org/A5049976689][Laura Blanco]], [[https://openalex.org/A5095370245][Andrea Uroz]], [[https://openalex.org/A5062147723][Kevin Gutiérrez]], [[https://openalex.org/A5088630779][Silvia Cabrera]], [[https://openalex.org/A5011696529][Alba Collado]], [[https://openalex.org/A5021511340][José V. Alemán]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00673  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00673][pdf]])
-     
-Iridium complexes have been demonstrated to be highly active catalysts for a wide variety of transformations. Their unique photophysical and photochemical properties render them as one of the most established photocatalysts. Moreover, iridium complexes are widely acknowledged for their efficiency in transfer hydrogenation reactions. However, the development of iridium complexes able to promote both traditional organometallic catalysis and photocatalysis is scarce. Thus, the design of iridium-based catalysts is still an active area of research. In this context, we targeted the synthesis of a family of Ir-Cp* systems to explore their (photo)catalytic applications. Here, we describe the synthesis, structural characterization, and photophysical properties of iridium complexes of formula [IrCp*Cl(N^O)]. These complexes have been applied with a double catalytic function, in transfer hydrogenation for carbonyl reduction and in different photomediated transformations.    
-
-    
-
-* Rhodium(II)-Catalyzed Asymmetric Cyclopropanation and Desymmetrization of [2.2]Paracyclophanes  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394714316
-:TOPICS: Catalytic Carbene Chemistry in Organic Synthesis, Homogeneous Catalysis with Transition Metals, Transition Metal Catalysis
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01292")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394714316"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394714316"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394714316"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394714316 (Open access: True)
-    
-[[https://openalex.org/A5089196988][Duc Ly]], [[https://openalex.org/A5022526517][John Bacsa]], [[https://openalex.org/A5083948798][Huw M. L. Davies]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01292  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01292][pdf]])
-     
-Chiral [2.2]paracyclophane derivatives are of considerable interest because of their potential in asymmetric catalysis and the development of chiral materials. This study describes the scope of rhodium-catalyzed reactions of aryldiazoacetates with [2.2]paracyclophanes. The reaction with the parent [2.2]paracyclophane resulted in cyclopropanation at two positions, the ratio of which is catalyst-controlled. Because of the strain in the system, one of the cyclopropanes exists primarily as the norcaradiene structure, whereas the other preferentially exists as the cycloheptatriene conformer. In contrast, the reaction with [3.3]paracyclophane results in benzylic C–H functionalization. The reactions with substituted [2.2]paracyclophanes using chiral catalysts can result in either kinetic resolution or desymmetrization. The Rh2(S-p-PhTPCP)]4-catalyzed reaction of monosubstituted paracyclophanes results in kinetic resolution with a selectivity (s) factor of up to 20, whereas reactions on C2v-symmetric disubstituted [2.2]paracyclophanes with Rh2(S-TPPTTL)4 [TPPTTL = 2-(1,3-dioxo-4,5,6,7-tetraphenylisoindolin-2-yl)-3,3-dimethylbutanoate] results in effective desymmetrization to form cycloheptatriene-incorporated paracyclophanes in 78–98% ee.    
-
-    
-
-* New and Revised Aspects of the Electrochemical Synthesis of Hydrogen Peroxide: From Model Electrocatalytic Systems to Scalable Materials  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394716632
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01011")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394716632"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394716632"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394716632"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394716632 (Open access: False)
-    
-[[https://openalex.org/A5016970585][Marco Mazzucato]], [[https://openalex.org/A5041917393][Alessandro Facchin]], [[https://openalex.org/A5006373707][Mattia Parnigotto]], [[https://openalex.org/A5071952903][Christian Durante]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01011 
-     
-No abstract    
-
-    
-
-* Enzymatic Stereodivergent Access to Fluorinated β-Lactam Pharmacophores via Triple-Parameter Engineered Ketoreductases  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394720109
-:TOPICS: Synthesis and Applications of ß-Lactams, Catalytic Carbene Chemistry in Organic Synthesis, Catalytic C-H Amination Reactions
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00945")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394720109"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394720109"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394720109"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394720109 (Open access: False)
-    
-[[https://openalex.org/A5002897872][Zelong Mei]], [[https://openalex.org/A5083906120][Congcong Li]], [[https://openalex.org/A5013698242][Xu Han]], [[https://openalex.org/A5054278618][Ye Tian]], [[https://openalex.org/A5019503783][Shuo-Han Li]], [[https://openalex.org/A5010058813][Weidong Liu]], [[https://openalex.org/A5070281910][Ge Qu]], [[https://openalex.org/A5036565267][Manfred T. Reetz]], [[https://openalex.org/A5061586791][Zhoutong Sun]], [[https://openalex.org/A5040829256][Jun‐An Ma]], [[https://openalex.org/A5018857438][Fa‐Guang Zhang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00945 
-     
-No abstract    
-
-    
-
-* Nickel-Based Catalysts for the Selective Monoarylation of Dichloropyridines: Ligand Effects and Mechanistic Insights  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394728071
-:TOPICS: Transition Metal-Catalyzed Cross-Coupling Reactions, Homogeneous Catalysis with Transition Metals, Transition-Metal-Catalyzed C–H Bond Functionalization
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00648")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394728071"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394728071"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394728071"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394728071 (Open access: False)
-    
-[[https://openalex.org/A5057744441][Geraldo Duran-Camacho]], [[https://openalex.org/A5003455653][Douglas C. Bland]], [[https://openalex.org/A5077847382][Fangzheng Li]], [[https://openalex.org/A5087575581][Sharon R. Neufeldt]], [[https://openalex.org/A5028785945][Melanie S. Sanford]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00648 
-     
-This report describes a detailed study of Ni phosphine catalysts for the Suzuki–Miyaura coupling of dichloropyridines with halogen-containing (hetero)aryl boronic acids. With most phosphine ligands, these transformations afford mixtures of mono- and diarylated cross-coupling products as well as competing oligomerization of the boronic acid. However, a ligand screen revealed that PPh2Me and PPh3 afford high yield and selectivity for monoarylation over diarylation as well as minimal competing oligomerization of the boronic acid. Several key observations were made regarding the selectivity of these reactions, including: (1) phosphine ligands that afford high selectivity for monoarylation fall within a narrow range of Tolman cone angles (between 136 and 157°); (2) more electron-rich trialkylphosphines afford predominantly diarylated products, while less electron-rich di- and triarylphosphines favor monoarylation; (3) diarylation proceeds via intramolecular oxidative addition; and (4) the solvent (MeCN) plays a crucial role in achieving high monoarylation selectivity. Experimental and density functional theory studies suggest that all of these data can be explained based on the reactivity of a key intermediate: a Ni0–π complex of the monoarylated product. With larger, more electron-rich trialkylphosphine ligands, this π complex undergoes intramolecular oxidative addition faster than ligand substitution by the MeCN solvent, leading to selective diarylation. In contrast, with relatively small di- and triarylphosphine ligands, associative ligand substitution by MeCN is competitive with oxidative addition, resulting in the selective formation of monoarylated products. The generality of this method is demonstrated with a variety of dichloropyridines and chloro-substituted aryl boronic acids. Furthermore, the optimal ligand (PPh2Me) and solvent (MeCN) are leveraged to achieve Ni-catalyzed monoarylation of a broader set of dichloroarene substrates.    
-
-    
-
-* Supported Catalytically Active Liquid Metal Solutions: Liquid Metal Catalysis with Ternary Alloys, Enhancing Activity in Propane Dehydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394728272
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-04-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01282")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394728272"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394728272"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394728272"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394728272 (Open access: False)
-    
-[[https://openalex.org/A5071253993][Michael J. Moritz]], [[https://openalex.org/A5005267120][Sven Maisel]], [[https://openalex.org/A5019224120][Narayanan Raman]], [[https://openalex.org/A5020096826][Haiko Wittkämper]], [[https://openalex.org/A5055039669][Christoph Wichmann]], [[https://openalex.org/A5069993975][Mathias Grabau]], [[https://openalex.org/A5016293166][Deniz Kahraman]], [[https://openalex.org/A5054255871][Julien Steffen]], [[https://openalex.org/A5001718718][Nicola Taccardi]], [[https://openalex.org/A5067224843][Andreas Görling]], [[https://openalex.org/A5040845269][Marco Haumann]], [[https://openalex.org/A5039726667][Peter Wasserscheid]], [[https://openalex.org/A5035111702][Hans‐Peter Steinrück]], [[https://openalex.org/A5071842639][Christian Papp]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01282 
-     
-The research and optimization of catalysts are instrumental in revolutionizing chemical processes and making them viable in terms of energy and resources. Supported catalytically active liquid metal solutions (SCALMS) are highly active and stable in the harsh environment of the dehydrogenation reaction of alkanes. This is attributed to their liquid and dynamic nature and their isolated catalytically active single-atom sites. SCALMS consists of a liquid metal matrix (gallium) in which a catalytically active transition metal (platinum, rhodium, palladium, or nickel) is dissolved. Binary SCALMS systems are the subject of extensive research, aiming at a better understanding for achieving optimal performance. This work uses a combined multidisciplinary approach to examine ternary systems of the active transition metal platinum with mixtures of gallium with either tin or indium. Reaction engineering and surface chemical analysis by X-ray photoelectron spectroscopy are combined with density functional theory (DFT) and machine learning force field (ML-FF) simulations. Introducing a third metal into the mixture alters the reactivity, surface composition, and concentration gradient in the liquid metal catalyst. We demonstrate that changes in catalytic reactivity correlate with changes in the surface concentration of the active transition metal platinum and of the position of the d-band center. These findings hold great promise for future research directions as they offer potential starting points for developing SCALMS systems.    
-
-    
-
-* CN22– Vacancies Enhance Ammonia Synthesis over Air-Durable Alkaline Earth Metal Cyanamide-Supported Cobalt Catalysts  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394720578
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Materials and Methods for Hydrogen Storage, Content-Centric Networking for Information Delivery
-:PUBLICATION_DATE: 2024-04-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00830")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394720578"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394720578"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394720578"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394720578 (Open access: False)
-    
-[[https://openalex.org/A5025531298][Yihao Jiang]], [[https://openalex.org/A5018578223][Masayoshi Miyazaki]], [[https://openalex.org/A5018885998][Kiichi Miyashita]], [[https://openalex.org/A5008598013][Masato Sasase]], [[https://openalex.org/A5038018666][Kazuhisa Kishida]], [[https://openalex.org/A5007812423][Hideo Hosono]], [[https://openalex.org/A5079050204][Masaaki Kitano]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00830 
-     
-No abstract    
-
-    
 
 * Theoretical Insights into the Reaction Mechanism of Direct Hydrogenation of Maleic Anhydride to Produce 1,4-Butanediol on the Cu–ZnO Surface  :ACS_Catalysis:
 :PROPERTIES:
@@ -198,7 +51,7 @@ Given the abundance of alcohol feedstocks and the significance of disulfides, we
 * Practical Machine Learning-Assisted Design Protocol for Protein Engineering: Transaminase Engineering for the Conversion of Bulky Substrates  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394766668
-:TOPICS: Technologies for Biofuel Production from Biomass, Metabolic Engineering and Synthetic Biology, Enzyme Immobilization Techniques
+:TOPICS: Enzyme Immobilization Techniques, Metabolic Engineering and Synthetic Biology, Peptide Synthesis and Drug Discovery
 :PUBLICATION_DATE: 2024-04-12
 :END:    
     
@@ -261,7 +114,7 @@ Efficient synthesis of sulfonamides has long been pursued by chemists due to the
 * Stable Operation of Paired CO2 Reduction/Glycerol Oxidation at High Current Density  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394786891
-:TOPICS: Catalytic Nanomaterials, Electrocatalysis for Energy Conversion, Electrochemical Reduction of CO2 to Fuels
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-04-13
 :END:    
     
@@ -387,7 +240,7 @@ Nitrobenzene hydrogenation, a critical pathway for synthesizing aniline, typical
 * Nitrogen, Sulfur Co-doped Hollow Carbon-Encapsulated Cu/Co2P for Selective Oxidation Esterification of Furfurals  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394822901
-:TOPICS: Catalytic Nanomaterials, Desulfurization Technologies for Fuels, Catalytic Reduction of Nitro Compounds
+:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Desulfurization Technologies for Fuels, Catalytic Reduction of Nitro Compounds
 :PUBLICATION_DATE: 2024-04-15
 :END:    
     
@@ -429,7 +282,7 @@ Arginine phosphorylation plays numerous roles throughout biology. Arginine kinas
 * Construction of Diazo Compounds via Catalytic [3 + 2] Annulation of Vinyldiazoacetates and Their Synthetic Applications  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394835029
-:TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Homogeneous Catalysis with Transition Metals, Catalytic Carbene Chemistry in Organic Synthesis
+:TOPICS: Catalytic Carbene Chemistry in Organic Synthesis, Gold Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -471,7 +324,7 @@ The steric effects on the oxygen reduction reaction (ORR) have been rarely studi
 * CsPbBr3 Perovskite Polyhedral Nanocrystal Photocatalysts for Decarboxylative Alkylation via Csp3–H Bond Activation of Unactivated Ethers  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394835419
-:TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology
+:TOPICS: Perovskite Solar Cell Technology, Photocatalytic Materials for Solar Energy Conversion, Transition-Metal-Catalyzed Sulfur Chemistry
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -555,7 +408,7 @@ The shuttling of redox-active nicotinamide cofactors between the light and dark 
 * Synergistic Organoboron/Palladium Cocatalyzed Dehydrative Couplings of Azoles with Allylic Alcohols: A Combined Experimental and Computational Mechanistic Investigation  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394840719
-:TOPICS: Transition Metal-Catalyzed Cross-Coupling Reactions, Transition-Metal-Catalyzed C–H Bond Functionalization, Homogeneous Catalysis with Transition Metals
+:TOPICS: Catalytic Carbene Chemistry in Organic Synthesis, Homogeneous Catalysis with Transition Metals, Transition-Metal-Catalyzed C–H Bond Functionalization
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -618,7 +471,7 @@ The asymmetric photoenolization/Diels–Alder reaction provides a straightforwar
 * Sensitized and Self-Sensitized Photocatalytic CO2 Reduction to HCO2– and CO under Visible Light with Ni(II) CNC-Pincer Catalysts  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394843717
-:TOPICS: Carbon Dioxide Utilization for Chemical Synthesis, Photocatalytic Materials for Solar Energy Conversion, Electrochemical Reduction of CO2 to Fuels
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Photocatalytic Materials for Solar Energy Conversion, Carbon Dioxide Utilization for Chemical Synthesis
 :PUBLICATION_DATE: 2024-04-15
 :END:    
     
@@ -632,7 +485,7 @@ OpenAlex: https://openalex.org/W4394843717 (Open access: False)
     
 [[https://openalex.org/A5028441979][Sonya Y. Manafe]], [[https://openalex.org/A5049477917][Nghia Le]], [[https://openalex.org/A5086937532][Ethan C. Lambert]], [[https://openalex.org/A5088330975][Christine Curiac]], [[https://openalex.org/A5031279128][Dinesh Nugegoda]], [[https://openalex.org/A5031715781][Sanjit Das]], [[https://openalex.org/A5090099495][Leigh Anna Hunt]], [[https://openalex.org/A5069899755][Fengrui Qu]], [[https://openalex.org/A5032057054][Logan M. Whitt]], [[https://openalex.org/A5026725542][Igor Fedin]], [[https://openalex.org/A5056058720][Nathan I. Hammer]], [[https://openalex.org/A5022402955][Charles Edwin Webster]], [[https://openalex.org/A5088797545][Jared H. Delcamp]], [[https://openalex.org/A5063607848][Elizabeth T. Papish]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c03787 
      
-No abstract    
+Robust earth-abundant transition metal-based photocatalysts are needed for photocatalytic CO2 reduction. A series of six Ni(II) complexes have been synthesized with a tridentate CNC pincer ligand composed of two imidazole or benzimidazole-derived N-heterocyclic carbene (NHC) rings and a pyridyl ring with different R substituents (R = OMe, Me, H) para to N of the pyridine ring. These complexes have been characterized by using spectroscopic, analytic, and crystallographic methods. The electrochemical properties of all complexes were studied by cyclic voltammetry under N2 and CO2 atmospheres. Photocatalytic reduction of CO2 to CO and HCO2– was analyzed using all of the complexes in the presence and absence of an external photosensitizer (PS). All of these complexes are active as photocatalysts for CO2 reduction with and without the presence of an external PS with appreciable turnover numbers (TONs) for formate (HCO2–) production and typically lower amounts of CO. Notably, all Ni(II) CNC-pincer complexes in this series are also active as self-sensitized photocatalysts. Complex 4Me with a benzimidazole-derived CNC pincer ligand was found to be the most active self-sensitized photocatalyst. Ultrafast transient absorption spectroscopy (TAS) experiments and computational studies were performed to understand the mechanism of these catalysts. Whereas sensitized catalysis involves halide loss to produce more active complexes, self-sensitized catalysis requires some halide to remain coordinated to allow for favorable electron transfer between the excited nickel complex and the sacrificial electron donor. This then allows the nickel complex to undergo CO2 reduction catalysis via NiI or Ni0 catalytic cycles. The two active species (NiI and Ni0) demonstrate distinct reactivity and selectivity which influences the formation of CO vs formate as the product.    
 
     
 
@@ -765,7 +618,7 @@ No abstract
 * Differentiating Plasmon-Enhanced Chemical Reactions on AgPd Hollow Nanoplates through Surface-Enhanced Raman Spectroscopy  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394890917
-:TOPICS: 
+:TOPICS: Plasmonic Nanoparticles: Synthesis, Properties, and Applications, Formation and Properties of Nanocrystals and Nanostructures, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -780,5 +633,236 @@ OpenAlex: https://openalex.org/W4394890917 (Open access: True)
 [[https://openalex.org/A5082771845][Sulin Jiao]], [[https://openalex.org/A5023697086][Kun Dai]], [[https://openalex.org/A5070469692][Lucas V. Besteiro]], [[https://openalex.org/A5038694989][Gao H]], [[https://openalex.org/A5054889888][Chuang Xuan]], [[https://openalex.org/A5004624473][Weichao Wang]], [[https://openalex.org/A5065069775][Yuan Zhang]], [[https://openalex.org/A5047178915][Chuntai Liu]], [[https://openalex.org/A5029068307][Ignacio Pérez‐Juste]], [[https://openalex.org/A5039188733][Jorge Pérez‐Juste]], [[https://openalex.org/A5017320817][Isabel Pastoriza‐Santos]], [[https://openalex.org/A5029572437][Guangchao Zheng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06253  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06253][pdf]])
      
 Plasmonic photocatalysis demonstrates great potential for efficiently harnessing light energy. However, the underlying mechanisms remain enigmatic due to the transient nature of the reaction processes. Typically, plasmonic photocatalysis relies on the excitation of surface plasmon resonance (SPR) in plasmonic materials, such as metal nanoparticles, leading to the generation of high-energy or "hot electrons", albeit accompanied by photothermal heating or Joule effect. The ability of hot electrons to participate in chemical reactions is one of the key mechanisms, underlying the enhanced photocatalytic activity observed in plasmonic photocatalysis. Interestingly, surface-enhanced Raman scattering (SERS) spectroscopy allows the analysis of chemical reactions driven by hot electrons, as both SERS and hot electrons stem from the decay of SPR and occur at the hot spots. Herein, we propose a highly efficient SERS substrate based on cellulose paper loaded with either Ag nanoplates (Ag NPs) or AgPd hollow nanoplates (AgPd HNPs) for the in situ monitoring of C–C homocoupling reactions. The data analysis allowed us to disentangle the impact of hot electrons and the Joule effect on plasmon-enhanced photocatalysis. Computational simulations revealed an increase in the rate of excitation of hot carriers from single/isolated AgPd HNPs to an in-plane with a vertical stacking assembly, suggesting its promise as a photocatalyst under broadband light. In addition, the results suggest that the incorporation of Pd into an alloy with plasmonic properties may enhance its catalytic performance under light irradiation due to the collection of plasmon-excitation-induced hot electrons. This work has demonstrated the performance-oriented synthesis of hybrid nanostructures, providing a unique route to uncover the mechanism of plasmon-enhanced photocatalysis.    
+
+    
+
+* Functional Enhancement of Flavin-Containing Monooxygenase through Machine Learning Methodology  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394907924
+:TOPICS: Electrochemical Biosensor Technology, Enzyme Immobilization Techniques, Advances in Metabolomics Research
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00826")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394907924"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394907924"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394907924"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394907924 (Open access: False)
+    
+[[https://openalex.org/A5007561814][Takuma Matsushita]], [[https://openalex.org/A5059879383][Shinji Kishimoto]], [[https://openalex.org/A5090095604][Kodai Hara]], [[https://openalex.org/A5075427398][Hiroshi Hashimoto]], [[https://openalex.org/A5048937697][Hideki Yamaguchi]], [[https://openalex.org/A5076300103][Yutaka Saitω]], [[https://openalex.org/A5035244813][Kenji Watanabe]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00826 
+     
+Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
+
+    
+
+* Unraveling Two Pathways for Electrocatalytic Acetonitrile Reduction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394908661
+:TOPICS: Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00621")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394908661"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394908661"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394908661"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394908661 (Open access: False)
+    
+[[https://openalex.org/A5083026796][Qi Zhang]], [[https://openalex.org/A5049982483][Zunjian Ke]], [[https://openalex.org/A5052304188][Deyan He]], [[https://openalex.org/A5075777579][Chaoning Huang]], [[https://openalex.org/A5011505911][Huan Dai]], [[https://openalex.org/A5007866518][Chaoliang Tang]], [[https://openalex.org/A5054240369][Boling Liu]], [[https://openalex.org/A5014658419][Xiangheng Xiao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00621 
+     
+Electrocatalytic hydrogenation (ECH) of organics offers a promising route for producing value-added chemicals. However, a deeper understanding of the reaction mechanism limits the efficient design of the catalysts. Herein, the two mechanisms are essentially identified on the Ni-based catalysts for acetonitrile hydrogenation, with a deeper understanding of their characteristics in view of their different performances. On this basis, an insight into the shift of the mechanism is proposed. Meanwhile, the optimization strategy of ECH is discovered, and the construction of Tafel sites (Ni/NiO interfaces) can greatly accelerate the kinetics, in addition to increasing the reactant coverage on the catalysts by modulating the electronic structures. Understanding the underlying mechanisms helps in manipulating the design of more efficient ECH catalysts.    
+
+    
+
+* Improving the Catalytic Efficiency of a GH5 Processive Endoglucanase by a Combinatorial Strategy Using Consensus Mutagenesis and Loop Engineering  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394908851
+:TOPICS: Technologies for Biofuel Production from Biomass, Enzyme Immobilization Techniques, Chemical Glycobiology and Therapeutic Applications
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01083")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394908851"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394908851"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394908851"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394908851 (Open access: False)
+    
+[[https://openalex.org/A5004019691][Kemin Lv]], [[https://openalex.org/A5045787579][Xiaozhou Li]], [[https://openalex.org/A5068259214][Kequan Chen]], [[https://openalex.org/A5050197186][Bin Wu]], [[https://openalex.org/A5015789087][Bingfang He]], [[https://openalex.org/A5026257435][Gerhard Schenk]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01083 
+     
+No abstract    
+
+    
+
+* Interplay between Catalyst Corrosion and Homogeneous Reactive Oxygen Species in Electrochemical Ozone Production  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394909286
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Gas Sensing Technology and Materials
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01317")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394909286"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394909286"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394909286"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394909286 (Open access: False)
+    
+[[https://openalex.org/A5036496872][Rayan Alaufey]], [[https://openalex.org/A5002876419][Lingyan Zhao]], [[https://openalex.org/A5072256821][Andrew Lindsay]], [[https://openalex.org/A5044244066][Tana Siboonruang]], [[https://openalex.org/A5046911338][Qin Wu]], [[https://openalex.org/A5007577939][John A. Keith]], [[https://openalex.org/A5018545425][Ezra C. Wood]], [[https://openalex.org/A5024800819][Maureen H. Tang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01317 
+     
+Electrochemical ozone production (EOP), a six-electron water oxidation reaction, offers promising avenues for creating value-added oxidants and disinfectants. However, progress in this field is slowed by a dearth of understanding of fundamental reaction mechanisms. In this work, we combine experimental electrochemistry, spectroscopic detection of reactive oxygen species (ROS), oxygen-anion chemical ionization mass spectrometry, and computational quantum chemistry calculations to determine a plausible reaction mechanism on nickel- and antimony-doped tin oxide (Ni/Sb–SnO2, NATO), one of the most selective EOP catalysts. Antimony doping is shown to increase the conductivity of the catalyst, leading to improved electrochemical performance. Spectroscopic analysis and electrochemical experiments combined with quantum chemistry predictions reveal that hydrogen peroxide (H2O2) is a critical reaction intermediate. We propose that leached Ni4+ cations catalyze hydrogen peroxide into solution phase hydroperoxyl radicals (•OOH); these radicals are subsequently oxidized to ozone. Isotopic product analysis shows that ozone is generated catalytically from water and corrosively from the catalyst oxide lattice without regeneration of lattice oxygens. Further quantum chemistry calculations and thermodynamic analysis suggest that the electrochemical corrosion of tin oxide itself might generate hydrogen peroxide, which is then catalyzed to ozone. The proposed pathways explain both the roles of dopants in NATO and its lack of stability. Our study interrogates the possibility that instability and electrochemical activity are intrinsically linked through the formation of ROS. In doing so, we provide the first mechanism for EOP that is consistent with computational and experimental results and highlight the central challenge of instability as a target for future research efforts.    
+
+    
+
+* Ce4+/Ce3+ Redox-Promoted Electron Transfer for Efficient Neutral H2O2 Electrosynthesis from Two-Electron Oxygen Reduction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394913837
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00625")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394913837"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394913837"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394913837"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394913837 (Open access: False)
+    
+[[https://openalex.org/A5058355869][Sohee Kim]], [[https://openalex.org/A5087341192][Young Jin]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00625 
+     
+No abstract    
+
+    
+
+* Mapping of the Reaction Trajectory Catalyzed by Class I Ketol-Acid Reductoisomerase  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394924580
+:TOPICS: Nucleotide Metabolism and Enzyme Regulation, Macromolecular Crystallography Techniques, Metabolic Engineering and Synthetic Biology
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00958")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394924580"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394924580"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394924580"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394924580 (Open access: False)
+    
+[[https://openalex.org/A5049585978][Xin Lin]], [[https://openalex.org/A5021336171][Thierry Lonhienne]], [[https://openalex.org/A5069255829][You Lv]], [[https://openalex.org/A5048934664][Julia L. Kurz]], [[https://openalex.org/A5055730964][Ross P. McGeary]], [[https://openalex.org/A5026257435][Gerhard Schenk]], [[https://openalex.org/A5079853523][L.W. Guddat]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00958 
+     
+No abstract    
+
+    
+
+* Substantial Impact of Spin State Evolution in OER/ORR Catalyzed by Fe–N–C  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394925248
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06122")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394925248"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394925248"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394925248"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394925248 (Open access: False)
+    
+[[https://openalex.org/A5019317928][Mingyuan Yu]], [[https://openalex.org/A5022512191][Ang Li]], [[https://openalex.org/A5048140096][Erjun Kan]], [[https://openalex.org/A5086126693][Caimao Zhan]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06122 
+     
+The Fe-embedded N-doped graphene (Fe–N–C) is the most representative single atom catalyst (SAC) that has shown great potentiality in electrocatalysis, such as oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). However, the active moiety of Fe–N–C is still elusive due to contradictory experimental results. Moreover, early simulations mainly focus on the thermodynamic potential of adsorbates, while the effect of spin multiplicity receives little attention. To explore the role of spin multiplicity in electrocatalysis, we employ the constant-potential density functional theory (DFT) to systematically study the structural evolution of the high-spin (HS) and intermediate-spin (IS) FeN4 site (marked by FeN4HS/IS) in OER and ORR processes. With the consideration of spin multiplicity, our simulation shows spontaneous oxidation from Fe(II)N4IS to Fe(III)N4HS at potential U = 0.4 V versus SHE. Further simulation indicates that the FeN4IS site undergoes a sequential adsorption of *OH and *OOH along with U increase, which leads to the spin state transition from IS to HS. According to the constant-potential free energy analysis, the FeN4HS*OOH is confirmed to be the practical active centers of OER, while the FeN4HS*OH and FeN4IS are assigned to the active center of ORR in low and high overpotentials. The predicted ORR activity of FeN4HS*OH agrees with the in situ X-ray absorption near-edge spectroscopy (XANES) and 57Fe Mössbauer spectroscopy measurement by Xiao et al. [Microporous Framework Induced Synthesis of Single-Atom Dispersed Fe-NC Acidic ORR Catalyst and its In Situ Reduced Fe-N4 Active Site Identification Revealed by X-Ray Absorption Spectroscopy. ACS Catal. 2018, 8, 2824–2832]. Based on the geometry and orbital analysis, the bond length of Fe–N and coordination number of Fe center are found to have a significant impact on the d orbital splitting energy and thus induce the turnover of HS/IS stability in the OER/ORR intermediates. Our study brings comprehensive insights into the evolution of coordination and spin state in Fe–N–C, which reveals the significance of spin multiplicity in electrocatalysis and benefits further theoretical design of SACs from the perspective of spin effects.    
+
+    
+
+* Atroposelective Synthesis of N–N Axially Chiral Indoles and Pyrroles via NHC-Catalyzed Diastereoselective (3 + 3) Annulation Strategy  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394933767
+:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Cluster Algebras and Triangulated Categories
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00513")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394933767"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394933767"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394933767"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394933767 (Open access: False)
+    
+[[https://openalex.org/A5092628864][Sowmya Shree Ranganathappa]], [[https://openalex.org/A5095773612][Bhabani Sankar Dehury]], [[https://openalex.org/A5011855581][Girij Pal Singh]], [[https://openalex.org/A5024176628][Sayan Shee]], [[https://openalex.org/A5055710900][Akkattu T. Biju]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00513 
+     
+The synthesis of N–N axially chiral molecules in the enantiopure form has emerged as an interesting research topic primarily due to the significance and intricacy in synthesizing these molecules, especially bearing heterocyclic motifs. Herein, we disclose a method for the introduction of N–N axial chirality along with a point chiral center via the N-heterocyclic carbene (NHC)-catalyzed atroposelective synthesis of dihydropyridinone-containing indoles and pyrroles. The reaction follows a (3 + 3) annulation approach by the interception of indole/pyrrole-derived enamines with α,β-unsaturated aldehydes under oxidative NHC catalysis proceeding via the α,β-unsaturated acylazoliums. The N–N axially chiral indoles/pyrroles were formed under mild conditions in broad scope with high selectivity. In addition, preliminary DFT studies of the N–N rotational barrier of the axially chiral products were performed.    
+
+    
+
+* Catalytic N-Acylation for Access to N–N Atropisomeric N-Aminoindoles: Choice of Acylation Reagents and Mechanistic Insights  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394934073
+:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Asymmetric Catalysis, Chiroptical Spectroscopy in Organic Compound Analysis
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00720")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394934073"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394934073"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394934073"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394934073 (Open access: False)
+    
+[[https://openalex.org/A5071933599][Chaoyang Song]], [[https://openalex.org/A5074082034][Chao Pang]], [[https://openalex.org/A5022369506][Youlin Deng]], [[https://openalex.org/A5085320391][Hongneng Cai]], [[https://openalex.org/A5047164982][Xiuhai Gan]], [[https://openalex.org/A5056403313][Yonggui Robin]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00720 
+     
+The synthesis of N–N axial compounds containing aromatic acyl amides using common acylation reagents remains challenging. We describe a highly atropenantioselective synthesis of N-aminoindoles containing N–N axes. A chiral cyclic isothiourea is used as the sole organic catalyst in the atropenantioselective transformation of the N-acylation reaction. Aroyl chlorides have been used as acylation reagents to construct atropisomeric compounds through N-acylation. The N-aminoindole products, which bear stereogenic N–N axes, were synthesized with high yields and enantioselectivities. Some of the enantiopure N-aminoindole products exhibited promising antibacterial activities against plant pathogens.    
+
+    
+
+* Rational Design of Heteroatom-Doped Fe–N–C Single-Atom Catalysts for Oxygen Reduction Reaction via Simple Descriptor  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394934259
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01377")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394934259"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394934259"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394934259"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394934259 (Open access: False)
+    
+[[https://openalex.org/A5006250732][Jin Liu]], [[https://openalex.org/A5000128804][Jing Zhu]], [[https://openalex.org/A5042206403][Hanhui Xu]], [[https://openalex.org/A5006520119][Daojian Cheng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01377 
+     
+The coordination engineering of Fe–N–C single-atom catalysts (SACs) through introducing heteroatom dopants has attracted widespread attention in the oxygen reduction reaction (ORR). However, the common regularity for tuning the ORR activity by coordinated and environmental heteroatoms has not been sufficiently studied. Herein, we study the ORR activity on 100 Fe–N–C SACs with S, P, and B heteroatoms in diverse coordination shells by density functional theory calculations. Based on the energy level distribution of frontier orbits and molecular orbital theory, it is found that the origin of Fe–N–C ORR activity is the hybridization of molecular orbitals of Fe 3dz2, 3dyz (3dxz), and O2*/OH* intermediates, where hybrid orbitals are adjusted by coordinated and environmental S, P, and B heteroatoms, and then the protonation process of O2* or OH* intermediate is determined. Moreover, we found that the Fe–O bond length, the d-orbital gap of spin states, the d-orbital center, and the valence state of the Fe site can be used as structural descriptors to predict the ORR activity governed by the protonation of O2* or OH* intermediate as potential-determining steps. Our structural descriptors rationalize the superior ORR performance of Fe–N–C with S or B atoms doped in the second coordination shell to those in the first coordination shell, as well as the fact that the P heteroatom is more suitable as a coordinated atom than the environmental atom to enhance the ORR activity of Fe–N–C, in available experimental references. Thanks to structural descriptors, the codoping synergistic effect between P in the first coordination shell and S in the second coordination shell is predicted and confirmed to greatly enhance the ORR activity. This study provides a unified mechanistic understanding on the ORR activity trend among Fe–N–C SACs regulated by coordinated and environmental heteroatoms.    
+
+    
+
+* Exploring the High-Entropy Oxide Composition Space: Insights through Comparing Experimental with Theoretical Models for the Oxygen Evolution Reaction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394934324
+:TOPICS: Electrocatalysis for Energy Conversion, Emergent Phenomena at Oxide Interfaces, Solid Oxide Fuel Cells
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05915")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394934324"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394934324"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394934324"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394934324 (Open access: True)
+    
+[[https://openalex.org/A5040605968][Vladislav A. Mints]], [[https://openalex.org/A5059818244][Katrine L. Svane]], [[https://openalex.org/A5083668074][Jan Rossmeisl]], [[https://openalex.org/A5064384920][Matthias Arenz]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05915  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05915][pdf]])
+     
+The oxygen evolution reaction (OER) is key for the transition to a hydrogen-based energy economy. The observed activity of the OER catalysts arises from the combined effects of surface area, intrinsic activity, and stability. Therefore, alloys provide an effective platform to search for catalysts that balance these factors. In particular, high-entropy oxides provide a vast material composition space that could contain catalysts with optimal OER performance. In this work, the OER performance of the AuIrOsPdPtReRhRu composition space was modeled using an experimentally obtained dataset of 350 nanoparticles. This machine-learned model based on experimental data found the optimal catalyst to be a mixture of AuIrOsPdRu. However, as a "black-box model", it cannot explain the underlying chemistry. Therefore, density functional theory (DFT) calculations were performed to provide a complementary theoretical model with defined assumptions and, hence, a physical interpretation through comparison with the experimental model. The DFT calculations suggest that the majority of the activity originates from Ru and Ir active sites and that the addition of Pd improves the performance of these sites. However, the DFT calculation did not find the experimentally observed beneficial effects of Au and Os. Therefore, we hypothesize that the Os contributed to the performance of the tested catalysts by roughening the surface, whereas Au fulfilled the role of a structural support. Overall, it is demonstrated how machine learning can help accelerate catalyst discovery, and combining machine-learned models obtained from experimental data with models based on DFT calculations can provide important insights into the complex chemistry of OER catalysts.    
 
     
