@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Apr 20 01:02:43 2024
+Created on Sun Apr 21 01:07:44 2024
 
-Found 41 results from 2024-04-13 to 2024-04-20
+Found 41 results from 2024-04-14 to 2024-04-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Theoretical Insights into the Reaction Mechanism of Direct Hydrogenation of Maleic Anhydride to Produce 1,4-Butanediol on the Cu–ZnO Surface   
-
-OpenAlex: https://openalex.org/W4394742732    
-Open access: False
-    
-[Xinyue Guan](https://openalex.org/A5027111894), [Yingzhe Yu](https://openalex.org/A5035684276), [Minhua Zhang](https://openalex.org/A5045872393), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00745.
-    
-1,4-Butanediol is a crucial monomer for the production of biodegradable plastics such as polybutylene succinate (PBS) and polybutyleneadipate-co-terephthalate (PBAT). It is also utilized in the synthesis of derivatives such as γ-butyrolactone and tetrahydrofuran. The technology of direct hydrogenation of maleic anhydride to produce 1,4-butanediol on Cu-based catalysts has gained significant attention due to its short process, mild reaction conditions, cost-effective catalysts, and the ability to cogenerate various products. This makes it a promising avenue for the production of 1,4-butanediol. At present, the reaction mechanism for the direct hydrogenation of maleic anhydride to produce 1,4-butanediol on Cu–ZnO is not well understood, and the types and pathways of byproducts remain unclear. This lack of clarity hinders the modification and application of catalysts for the direct hydrogenation of maleic anhydride to produce 1,4-butanediol. This study systematically investigates the reaction mechanism of direct hydrogenation of maleic anhydride to produce 1,4-butanediol on Cu–ZnO using spin-polarized density functional theory. The adsorption properties of surface species were studied, revealing that key species succinic anhydride, γ-butyrolactone, 1,4-butanediol, tetrahydrofuran, and n-butanol exhibit more stability in adsorption at the Cu211–ZnO interface compared to noninterface regions. The optimal pathway for the main reaction of direct hydrogenation of maleic anhydride on the Cu211 surface is clarified as MA → C4H3O3 → SA → C4H5O3 → C4H4O2 → C4H5O2 → GBL. At the Cu211–ZnO interface, the optimal pathway for the main reaction of direct hydrogenation involves MA → C4H3O3 → SA → C4H4O3 → C4H5O3 → C4H4O2 → C4H5O2 → GBL → C4H6O2 → C4H7O2 → C4H8O2 → C4H9O2 → BDO. The study indicates that the Cu211–ZnO interface is more favorable for the main reaction of direct hydrogenation of maleic anhydride. The most probable pathway for the formation of byproduct butyric acid during the direct hydrogenation on Cu211–ZnO involves MA → C4H2O3 → C4H3O3 → C4H4O3 → C4H5O3 → C4H6O3 → C4H5O2 → C4H6O2 → C4H7O2 → C4H8O2. The optimal path for the production of butanol involves the process starting with butyric acid, i.e., C4H8O2 → C4H9O2 → C4H8O → C4H9O → BuOH. Propionic acid is most likely formed through MA, i.e., MA → C4H2O3 → C4H3O2 → C3H4O2 → C3H5O2 → C3H6O2. Propionic acid and propionaldehyde are more likely byproducts in the system, with propyl alcohol being difficult to generate due to its higher energy barrier. The most probable pathway for CO production involves SA → C4H4O3 → C3H4O2 + CO. In the presence of water, the rate-controlling step for the generation of maleic acid from MA is C4H2O3 + H → C4H3O3. SA is more inclined to generate succinic acid, succinaldehyde, and GBL, rather than γ-hydroxybutyric acid and BDO, with the rate-controlling step being C4H7O2 → C4H6O2 + H. Water is more likely to form through the combination of two OH groups. During the catalyst construction and modification processes, it is advisable to construct as many Cu211–ZnO interfaces as possible within a reasonable range to enhance the production of 1,4-butanediol. Suppressing the open-loop reaction of maleic anhydride can effectively inhibit the generation of byproducts such as butyric acid, butyraldehyde, butanol, propionic acid, propionaldehyde, and maleic acid. Timely removal of water generated in the system is essential to prevent the transformation of maleic anhydride into maleic acid and the conversion of succinic anhydride into succinic acid and succinaldehyde. This helps minimize raw material consumption and reduce the formation of byproducts. The elucidation of the reaction mechanism of direct hydrogenation of maleic anhydride on Cu–ZnO provides valuable insights and guidance for the construction and modification of catalysts, enhancement of 1,4-butanediol yield and purity, and optimization and improvement of the production process. It is hoped that this research can offer some suggestions and assistance for the improvement of the 1,4-butanediol and biodegradable plastics industry.    
-
-    
-
-## Nickel-Catalyzed Deoxygenative Disulfuration of Alcohols to Access Unsymmetrical Disulfides   
-
-OpenAlex: https://openalex.org/W4394761010    
-Open access: False
-    
-[X. Chen](https://openalex.org/A5007760530), [Wang Shao](https://openalex.org/A5040590254), [Guo‐Jun Deng](https://openalex.org/A5088322277), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00814.
-    
-Given the abundance of alcohol feedstocks and the significance of disulfides, we herein report a nickel-catalyzed direct deoxygenative disulfuration of alcohols with trisulfide dioxides to access a wide range of disulfide molecules without the cumbersome decoration of coupling partners. The use of readily available dicyclohexylcarbodiimide to form transient isoureas provides the activation of the high bond dissociation energy of the C–O bond, which facilitates the straightforward conversion of nonderivatized alcohols to forge a C–SS bond. Notably, this method obviates a preactivation multistep procedure and provides a catalytic turnover under exogenous ligand and base-free conditions, featuring a broad substrate scope and functional group compatibility. It thus offers a robust alternative to existing methods for the precise construction of versatile disulfide compounds from more abundant and commercially available substrates. The synthetic utility of the method was further showcased by successful gram-scale experiments and disulfuration of structurally complex pharmaceuticals.    
-
-    
-
-## Practical Machine Learning-Assisted Design Protocol for Protein Engineering: Transaminase Engineering for the Conversion of Bulky Substrates   
-
-OpenAlex: https://openalex.org/W4394766668    
-Open access: False
-    
-[Marian J. Menke](https://openalex.org/A5015362914), [Yu‐Fei Ao](https://openalex.org/A5018895869), [Uwe T. Bornscheuer](https://openalex.org/A5031181844), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00987.
-    
-Protein engineering is essential for improving the catalytic performance of enzymes for applications in biocatalysis, in which machine learning provides an emerging approach for variant design. Transaminases are powerful biocatalysts for the stereoselective synthesis of chiral amines but one major challenge is their limited substrate scope. We present a general and practical variant design protocol for protein engineering to combine the advantages of three strategies, including directed evolution, rational design, and machine learning, and demonstrate the application of the protocol in the protein engineering of transaminases with higher activity toward bulky substrates. A high-quality data set was obtained by rational design of selected key positions, which was then applied to create a machine learning model for transaminase activity. This model was applied for the data-assisted design of optimized variants, which showed improved activity (up to 3-fold over parent) for three bulky substrates, maintaining enantioselectivity of the starting enzyme scaffold as well as improving the enantiomeric excess (up to >99%ee).    
-
-    
-
-## Solar Gas-Phase CO2 Hydrogenation by Multifunctional UiO-66 Photocatalysts   
-
-OpenAlex: https://openalex.org/W4394769808    
-Open access: True
-    
-[Celia M. Rueda-Navarro](https://openalex.org/A5028368933), [Zahraa Abou Khalil](https://openalex.org/A5070783312), [Arianna Melillo](https://openalex.org/A5005075051), [Belén Ferrer](https://openalex.org/A5082289008), [Raúl Montero](https://openalex.org/A5010717182), [Asier Longarte](https://openalex.org/A5045347277), [Marco Daturi](https://openalex.org/A5005985227), [Ignacio Vayá](https://openalex.org/A5027029783), [Mohamad El‐Roz](https://openalex.org/A5081422662), [Virginia Martínez‐Martínez](https://openalex.org/A5008104839), [Herme G. Baldoví](https://openalex.org/A5017828473), [Sergio Navalón](https://openalex.org/A5020689564), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00266 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00266)).
-    
-Solar-assisted CO2 conversion into fuels and chemical products involves a range of technologies aimed at driving industrial decarbonization methods. In this work, we report on the development of a series of multifunctional metal–organic frameworks (MOFs) based on nitro- or amino-functionalized UiO-66(M) (M: Zr or Zr/Ti) supported RuOx NPs as photocatalysts, having different energy band level diagrams, for CO2 hydrogenation under simulated concentrated sunlight irradiation. RuOx(1 wt %; 2.2 ± 0.9 nm)@UiO-66(Zr/Ti)-NO2 was found to be a reusable photocatalyst, to be selective for CO2 methanation (5.03 mmol g–1 after 22 h;, apparent quantum yield at 350, 400, and 600 nm of 1.67, 0.25, and 0.01%, respectively), and to show about 3–6 times activity compared with previous investigations. The photocatalysts were characterized by advanced spectroscopic techniques like femto- and nanosecond transient absorption, spin electron resonance, and photoluminescence spectroscopies together with (photo)electrochemical measurements. The photocatalytic CO2 methanation mechanism was assessed by operando FTIR spectroscopy. The results indicate that the most active photocatalyst operates under a dual photochemical and photothermal mechanism. This investigation shows the potential of multifunctional MOFs as photocatalysts for solar-driven CO2 recycling.    
-
-    
 
 ## Generation of Sulfamoyl Radical for the Modular Synthesis of Sulfonamides   
 
@@ -321,7 +277,7 @@ Open access: False
     
 [Shiyang Liu](https://openalex.org/A5010933182), [Yike Huang](https://openalex.org/A5056836615), [Nengchao Luo](https://openalex.org/A5029421795), [Jian Zhang](https://openalex.org/A5057209439), [Botao Qiao](https://openalex.org/A5050056700), [Feng Wang](https://openalex.org/A5005440152), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01132.
     
-No abstract    
+Dimethyl ether (DME) coupling via prior C–H bond scission affords H2 and long-chain oxygenates that can be used as diesel fuel additives. However, the C–H bond of DME is recalcitrant, requiring activation by oxidants for subsequent C–C bond coupling, and overoxidation to CO2 by nonselective oxidants is inevitable. Here, by establishing a channel for hole transfer from the Pt/TiO2 photocatalyst to DME, the C–H bond of DME is broken, affording H2 and diesel fuel additives consisting of glycol dimethyl ether (GDE) and oligomers. Adsorbed water on Pt/TiO2 fosters hole transfer by forming hydrogen bonds with both Pt/TiO2 surface and DME. Because of the hydrogen bonding, photogenerated holes are extracted from Pt/TiO2 by water and eventually transferred to DME. As a result, the productivities of the diesel fuel and H2 are increased by 8.7 and 12.4 folds, respectively. This work provides a route to produce two kinds of fuels from an abundant feedstock.    
 
     
 
@@ -341,7 +297,7 @@ Plasmonic photocatalysis demonstrates great potential for efficiently harnessing
 OpenAlex: https://openalex.org/W4394907924    
 Open access: False
     
-[Takuma Matsushita](https://openalex.org/A5007561814), [Shinji Kishimoto](https://openalex.org/A5059879383), [Kodai Hara](https://openalex.org/A5090095604), [Hiroshi Hashimoto](https://openalex.org/A5075427398), [Hideki Yamaguchi](https://openalex.org/A5048937697), [Yutaka Saitω](https://openalex.org/A5076300103), [Kenji Watanabe](https://openalex.org/A5035244813), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00826.
+[Takuma Matsushita](https://openalex.org/A5007561814), [Shinji Kishimoto](https://openalex.org/A5059879383), [Kodai Hara](https://openalex.org/A5090095604), [Hiroshi Hashimoto](https://openalex.org/A5075427398), [Hideki Yamaguchi](https://openalex.org/A5048937697), [Yutaka Saitō](https://openalex.org/A5076300103), [Kenji Watanabe](https://openalex.org/A5035244813), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00826.
     
 Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
 
@@ -454,5 +410,49 @@ Open access: True
 [Vladislav A. Mints](https://openalex.org/A5040605968), [Katrine L. Svane](https://openalex.org/A5059818244), [Jan Rossmeisl](https://openalex.org/A5083668074), [Matthias Arenz](https://openalex.org/A5064384920), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05915 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05915)).
     
 The oxygen evolution reaction (OER) is key for the transition to a hydrogen-based energy economy. The observed activity of the OER catalysts arises from the combined effects of surface area, intrinsic activity, and stability. Therefore, alloys provide an effective platform to search for catalysts that balance these factors. In particular, high-entropy oxides provide a vast material composition space that could contain catalysts with optimal OER performance. In this work, the OER performance of the AuIrOsPdPtReRhRu composition space was modeled using an experimentally obtained dataset of 350 nanoparticles. This machine-learned model based on experimental data found the optimal catalyst to be a mixture of AuIrOsPdRu. However, as a "black-box model", it cannot explain the underlying chemistry. Therefore, density functional theory (DFT) calculations were performed to provide a complementary theoretical model with defined assumptions and, hence, a physical interpretation through comparison with the experimental model. The DFT calculations suggest that the majority of the activity originates from Ru and Ir active sites and that the addition of Pd improves the performance of these sites. However, the DFT calculation did not find the experimentally observed beneficial effects of Au and Os. Therefore, we hypothesize that the Os contributed to the performance of the tested catalysts by roughening the surface, whereas Au fulfilled the role of a structural support. Overall, it is demonstrated how machine learning can help accelerate catalyst discovery, and combining machine-learned models obtained from experimental data with models based on DFT calculations can provide important insights into the complex chemistry of OER catalysts.    
+
+    
+
+## Revealing Formaldehyde-Mediated Methanol-to-Aromatics Reactions over Zn-Modified Zeolites by Observing the Oxygenated and Polyunsaturated Intermediates   
+
+OpenAlex: https://openalex.org/W4394945572    
+Open access: False
+    
+[Tianci Xiao](https://openalex.org/A5035010166), [Jinsong Luo](https://openalex.org/A5066043510), [Weixiong Huang](https://openalex.org/A5058440438), [Linfeng Lu](https://openalex.org/A5055105861), [Chengyuan Liu](https://openalex.org/A5031824581), [Yang Pan](https://openalex.org/A5077453562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00020.
+    
+No abstract    
+
+    
+
+## Cyclic(alkyl)(amino)carbene-Stabilized Gold Nanoparticles for Selective CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4394947823    
+Open access: False
+    
+[Moushakhi Ghosh](https://openalex.org/A5066129789), [Paramita Saha](https://openalex.org/A5077916079), [Sumit Roy](https://openalex.org/A5018495199), [Sudip Barman](https://openalex.org/A5008497963), [Pramod P. Pillai](https://openalex.org/A5086614294), [Abhishek Dey](https://openalex.org/A5013392233), [Shabana Khan](https://openalex.org/A5058082364), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05727.
+    
+N-heterocyclic carbenes (NHCs) have recently gained significant attention as capping ligands for gold nanoparticles due to their strong σ-donation properties. It has already been established that the strong σ-donation of NHCs enriches the surface of the gold nanoparticles, which controls the catalytic activity of the metal nanoparticles. Cyclic (alkyl)(amino)carbene (CAAC) is a special class of carbene that offers stronger σ-donation than NHCs. This extremely electron-rich nature of CAAC projects it as a better surface capping ligand upon extrapolation on the Au(0) surface. In this work, we have isolated stable CAAC-stabilized AuNPs via a ligand exchange method and studied their catalytic behavior toward electrochemical CO2 reduction. These newly synthesized CAAC-stabilized AuNPs furnish a remarkable faradaic efficiency (FE) of 94% [at pH 6.3 for 2 h of controlled potential electrolysis at −0.7 V vs NHE (normal hydrogen electrode)] toward selective CO formation. Our work sets the platform for CAAC as a robust main group ligand on the surface of different metal nanoparticles, bridging the gap between main group ligands and surface chemistry.    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4394961569    
+Open access: True
+    
+, ACS catalysis. 14(8)] 2024.https://doi.org/10.1021/csv014i008_1792869 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i008_1792869)).
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4394961663    
+Open access: True
+    
+, ACS catalysis. 14(8)] 2024.https://doi.org/10.1021/csv014i008_1792868 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i008_1792868)).
+    
+No abstract    
 
     

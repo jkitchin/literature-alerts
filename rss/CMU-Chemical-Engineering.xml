@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 20 Apr 2024 01:02:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 01:07:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synthetic Strategy for mRNA Encapsulation and Gene Delivery with Metal-Organic Frameworks</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-mlcss</link>
-      <description>Harrison Lawson, Huy Nguyen, Ayesha Tupe, Mariah L. Arral, K. Y. Lee, Min L&#252;, Kathryn A. Whitehead, Siyang Zheng, No host. None(None)] 2024. https://openalex.org/W4394757946
-
-                Over the last two decades, the utility of metal-organic frameworks (MOFs) has expanded from catalysis and gas storage to biomedical applications such as drug delivery. At first, MOF-based delivery platforms focused on delivering small molecules, with current work focusing on nucleic acids, such as DNA, short guide RNA (sgRNA), and short interfering RNA (siRNA). No studies to this date have specifically shown the encapsulation and delivery of mRNA with MOFs, possibly due to the fragile nature of messenger RNA (mRNA). This study explores and identifies suitable synthetic conditions for encapsulating and delivering mRNA with zeolitic imidazole framework-8 (ZIF-8). Initial ZIF-8 encapsulation attempts, although capable of mRNA loading, could not retain mRNA longer than 1 hour in biological media. To address this issue, we added polyethyleneimine (PEI) to the matrix, enabling the retention of mRNA with 4 hours of stability. Polyethyleneimine incorporation resolves the leakage of mRNA from ZIF-8, enabling delivery and resultant protein expression in multiple cell lines comparable to commercial lipid transfection reagents. Furthermore, we report the first application exploring thermally stable mRNA storage with ZIF-8 with successful protein expression achieved after 3 months of room temperature storage. Together, this work expands the catalog of therapeutics MOFs can deliver.</description>
-      <author>Harrison Lawson, Huy Nguyen, Ayesha Tupe, Mariah L. Arral, K. Y. Lee, Min L&#252;, Kathryn A. Whitehead, Siyang Zheng</author>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-mlcss</guid>
-    </item>
     <item>
       <title>A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing</title>
       <link>https://doi.org/10.2139/ssrn.4793503</link>
