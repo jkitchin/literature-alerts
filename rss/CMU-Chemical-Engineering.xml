@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 21 Apr 2024 01:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 01:05:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing</title>
-      <link>https://doi.org/10.2139/ssrn.4793503</link>
-      <description>Akang Wang, X. Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4394788163
-
-                Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI</description>
-      <author>Akang Wang, X. Li, Jeffrey E. Arbogast, Zachary Wilson, Chrysanthos E. Gounaris</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4793503</guid>
-    </item>
     <item>
       <title>Carbon nanomaterials&#8208;based electrically conductive scaffolds for tissue engineering applications</title>
       <link>https://doi.org/10.1002/mba2.76</link>
@@ -26,6 +16,16 @@
       <author>Genevieve Abd, Raquel Sanchez Diaz, Anju Gupta, Tagbo H. R. Niepa, Kunal Mondal, Seeram Ramakrishna, Ashutosh Sharma, Andr&#233;s D&#237;az Lantada, Monsur Islam</author>
       <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/mba2.76</guid>
+    </item>
+    <item>
+      <title>Lipid Nanoparticle-Associated Inflammation is Triggered by Sensing of Endosomal Damage: Engineering Endosomal Escape without Side Effects</title>
+      <link>https://doi.org/10.1101/2024.04.16.589801</link>
+      <description>Serena Omo&#8208;Lamai, Yufei Wang, Mita Patel, Eno&#8208;Obong Essien, Mengwen Shen, A. K. Majumder, Carolann Espy, Jichuan Wu, Breana Channer, Michael P. Tobin, Shruthi Murali, Tyler E. Papp, Rhea Maheshwari, Liuqian Wang, Lucas G. Chase, Marco Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Peter J. Gaskill, Dennis E. Discher, Hamideh Parhiz, Jacob S. Brenner, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4394960825
+
+                Lipid nanoparticles (LNPs) have emerged as the dominant platform for RNA delivery, based on their success in the COVID-19 vaccines and late-stage clinical studies in other indications. However, we and others have shown that LNPs induce severe inflammation, and massively aggravate pre-existing inflammation. Here, using structure-function screening of lipids and analyses of signaling pathways, we elucidate the mechanisms of LNP-associated inflammation and demonstrate solutions. We show that LNPs' hallmark feature, endosomal escape, which is necessary for RNA expression, also directly triggers inflammation by causing endosomal membrane damage. Large, irreparable, endosomal holes are recognized by cytosolic proteins called galectins, which bind to sugars on the inner endosomal membrane and then regulate downstream inflammation. We find that inhibition of galectins abrogates LNP-associated inflammation, both in vitro and in vivo. We show that rapidly biodegradable ionizable lipids can preferentially create endosomal holes that are smaller in size and reparable by the endosomal sorting complex required for transport (ESCRT) pathway. Ionizable lipids producing such ESCRT-recruiting endosomal holes can produce high expression from cargo mRNA with minimal inflammation. Finally, we show that both routes to non-inflammatory LNPs, either galectin inhibition or ESCRT-recruiting ionizable lipids, are compatible with therapeutic mRNAs that ameliorate inflammation in disease models. LNPs without galectin inhibition or biodegradable ionizable lipids lead to severe exacerbation of inflammation in these models. In summary, endosomal escape induces endosomal membrane damage that can lead to inflammation. However, the inflammation can be controlled by inhibiting galectins (large hole detectors) or by using biodegradable lipids, which create smaller holes that are reparable by the ESCRT pathway. These strategies should lead to generally safer LNPs that can be used to treat inflammatory diseases.</description>
+      <author>Serena Omo&#8208;Lamai, Yufei Wang, Mita Patel, Eno&#8208;Obong Essien, Mengwen Shen, A. K. Majumder, Carolann Espy, Jichuan Wu, Breana Channer, Michael P. Tobin, Shruthi Murali, Tyler E. Papp, Rhea Maheshwari, Liuqian Wang, Lucas G. Chase, Marco Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Peter J. Gaskill, Dennis E. Discher, Hamideh Parhiz, Jacob S. Brenner</author>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1101/2024.04.16.589801</guid>
     </item>
   </channel>
 </rss>

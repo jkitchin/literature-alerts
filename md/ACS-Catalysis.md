@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Apr 21 01:07:44 2024
+Created on Mon Apr 22 01:05:00 2024
 
-Found 41 results from 2024-04-14 to 2024-04-21
+Found 45 results from 2024-04-15 to 2024-04-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Generation of Sulfamoyl Radical for the Modular Synthesis of Sulfonamides   
-
-OpenAlex: https://openalex.org/W4394783336    
-Open access: False
-    
-[Haiping Lv](https://openalex.org/A5070217781), [Xinzhou Chen](https://openalex.org/A5027811414), [Xuemei Zhang](https://openalex.org/A5025996303), [Steven L. Kramer](https://openalex.org/A5041087516), [Zhong Lian](https://openalex.org/A5065425419), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01560.
-    
-Efficient synthesis of sulfonamides has long been pursued by chemists due to their frequent occurrence in pharmaceuticals, especially in anti-inflammatory medicines. The traditional assembly from sulfonyl chlorides and amines, as well as the recently developed one-step synthesis of sulfonamides involving sulfur dioxide, still faces challenges such as poor substrate compatibility and/or stringent reaction conditions. Herein, we present a strategy for the in situ generation of sulfamoyl radicals for the one-step modular synthesis of both alkenyl and alkyl sulfonamides with wide substrate applicability (>100 examples), mild reaction conditions, and easily accessible starting materials. This method is successfully applied to the late-stage modification of drug molecules (23 examples), the one-step synthesis of the drug molecule naratriptan, and the 15N-labeling of sulfonamides.    
-
-    
-
-## Stable Operation of Paired CO2 Reduction/Glycerol Oxidation at High Current Density   
-
-OpenAlex: https://openalex.org/W4394786891    
-Open access: True
-    
-[Attila Kormányos](https://openalex.org/A5082432235), [Adrienn Szirmai](https://openalex.org/A5043292005), [Balázs Endrődi](https://openalex.org/A5069014536), [Csaba Janáky](https://openalex.org/A5075233752), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05952 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05952)).
-    
-Despite the considerable efforts made by the community, the high operation cell voltage of CO2 electrolyzers is still to be decreased to move toward commercialization. This is mostly due to the high energy need of the oxygen evolution reaction (OER), which is the most often used anodic pair for CO2 reduction. In this study, OER was replaced by the electrocatalytic oxidation of glycerol using carbon-supported Pt nanoparticles as an anode catalyst. In parallel, the reduction of CO2 to CO was performed at the Ag cathode catalyst using a membraneless microfluidic flow electrolyzer cell. Several parameters were optimized, starting from the catalyst layer composition (ionomer quality and quantity), through operating conditions (glycerol concentration, applied electrolyte flow rate, etc.), to the applied electrochemical protocol. By identifying the optimal conditions, a 75–85% Faradaic efficiency (FE) toward glycerol oxidation products (oxalate, glycerate, tartronate, lactate, glycolate, and formate) was achieved at 200 mA cm–2 total current density while the cathodic CO formation proceeded with close to 100% FE. With static protocols (potentio- or galvanostatic), a rapid loss of glycerol oxidation activity was observed during the long-term measurements. The anode catalyst was reactivated by applying a dynamic potential step protocol. This allowed the periodic reduction, hence, refreshing of Pt, ensuring stable, continuous operation for 5 h.    
-
-    
 
 ## Hydrogen Peroxide as an Ideal Electron Donor for Long-Lasting Fenton Chemistry: Strong Enhancement of Fe(III) Activity by Heteroatom-Doped Nanocarbons   
 
@@ -435,6 +413,39 @@ N-heterocyclic carbenes (NHCs) have recently gained significant attention as cap
 
     
 
+## Catalytic Bias and Redox-Driven Inactivation of the Group B FeFe Hydrogenase CpIII   
+
+OpenAlex: https://openalex.org/W4394951090    
+Open access: False
+    
+[Andrea Fasano](https://openalex.org/A5056304450), [Aurore Jacq‐Bailly](https://openalex.org/A5007299928), [Jeremy Wozniak](https://openalex.org/A5012477969), [Vincent Fourmond](https://openalex.org/A5064825044), [Christophe Léger](https://openalex.org/A5040444990), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01352.
+    
+No abstract    
+
+    
+
+## Boosting Hydrogen Adsorption via Manipulating the d-Band Center of Ferroferric Oxide for Anion Exchange Membrane-Based Seawater Electrolysis   
+
+OpenAlex: https://openalex.org/W4394953389    
+Open access: False
+    
+[Lihui Song](https://openalex.org/A5071116473), [Lili Guo](https://openalex.org/A5087332040), [Jianfeng Mao](https://openalex.org/A5060974161), [Zhipeng Li](https://openalex.org/A5017709527), [Jiawei Zhu](https://openalex.org/A5071157860), [Jianping Lai](https://openalex.org/A5072157142), [Jing‐Qi Chi](https://openalex.org/A5032135658), [Lei Wang](https://openalex.org/A5010746973), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00267.
+    
+No abstract    
+
+    
+
+## Effect of 6,6′-Substituents on Bipyridine-Ligated Ni Catalysts for Cross-Electrophile Coupling   
+
+OpenAlex: https://openalex.org/W4394953706    
+Open access: False
+    
+[Hanfeng Huang](https://openalex.org/A5078523497), [Jose L. Alvarez-Hernandez](https://openalex.org/A5016764823), [Nilay Hazari](https://openalex.org/A5062709693), [Brandon Q. Mercado](https://openalex.org/A5038732109), [Mycah R. Uehling](https://openalex.org/A5091106686), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00827.
+    
+A family of 4,4′-tBu2-2,2′-bipyridine (tBubpy) ligands with substituents in either the 6-position, 4,4′-tBu2-6-Me-bpy (tBubpyMe), or 6 and 6′-positions, 4,4′-tBu2-6,6′-R2-bpy (tBubpyR2; R = Me, iPr, sBu, Ph, or Mes), was synthesized. These ligands were used to prepare Ni complexes in the 0, I, and II oxidation states. We observed that the substituents in the 6 and 6′-positions of the tBubpy ligand impact the properties of the Ni complexes. For example, bulkier substituents in the 6,6′-positions of tBubpy better stabilized (tBubpyR2)NiICl species and resulted in a cleaner reduction from (tBubpyR2)NiIICl2. However, bulkier substituents hindered or prevented the coordination of tBubpyR2 ligands to Ni0(cod)2. In addition, by using complexes of the type (tBubpyMe)NiCl2 and (tBubpyR2)NiCl2 as precatalysts for different XEC reactions, we demonstrated that the 6 or 6,6′-substituents lead to major differences in the catalytic performance. Specifically, while (tBubpyMe)NiIICl2 is one of the most active catalysts reported to date for XEC and can facilitate XEC reactions at room temperature, lower turnover frequencies were observed for catalysts containing tBubpyR2 ligands. A detailed study on the catalytic intermediates (tBubpy)Ni(Ar)I and (tBubpyMe2)Ni(Ar)I revealed several factors that likely contributed to the differences in the catalytic activity. For example, whereas complexes of the type (tBubpy)Ni(Ar)I are low spin and relatively stable, complexes of the type (tBubpyMe2)Ni(Ar)I are high-spin and less stable. Furthermore, (tBubpyMe2)Ni(Ar)I captures primary and benzylic alkyl radicals more slowly than (tBubpy)Ni(Ar)I, consistent with the lower activity of the former in catalysis. Our findings will assist in the design of tailor-made ligands for Ni-catalyzed transformations.    
+
+    
+
 ## Issue Editorial Masthead   
 
 OpenAlex: https://openalex.org/W4394961569    
@@ -454,5 +465,38 @@ Open access: True
 , ACS catalysis. 14(8)] 2024.https://doi.org/10.1021/csv014i008_1792868 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i008_1792868)).
     
 No abstract    
+
+    
+
+## Christina Li, Serge Ruccolo, and Christo Sevov Selected to Receive the 2024 ACS Catalysis Lectureship for the Advancement of Catalytic Science   
+
+OpenAlex: https://openalex.org/W4394961800    
+Open access: True
+    
+[Cathleen M. Crudden](https://openalex.org/A5048301965), ACS catalysis. 14(8)] 2024.https://doi.org/10.1021/acscatal.4c01956 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01956)).
+    
+ADVERTISEMENT RETURN TO ISSUEEditorialNEXTChristina Li, Serge Ruccolo, and Christo Sevov Selected to Receive the 2024 ACS Catalysis Lectureship for the Advancement of Catalytic ScienceCathleen CruddenCathleen CruddenMore by Cathleen Cruddenhttps://orcid.org/0000-0003-2154-8107Cite this: ACS Catal. 2024, 14, 8, 5987–5988Publication Date (Web):April 19, 2024Publication History Received1 April 2024Published online19 April 2024Published inissue 19 April 2024https://doi.org/10.1021/acscatal.4c01956Copyright © 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (818 KB) Get e-AlertscloseSUBJECTS:Catalysis,Catalysts,Copper,Peptides and proteins,Redox reactions Get e-Alerts    
+
+    
+
+## Multimodal Acridine Photocatalysis Enables Direct Access to Thiols from Carboxylic Acids and Elemental Sulfur   
+
+OpenAlex: https://openalex.org/W4394962813    
+Open access: False
+    
+[Arka Porey](https://openalex.org/A5045502270), [Seth Fremin](https://openalex.org/A5093030788), [Sachchida Nand](https://openalex.org/A5077825028), [Ramon Trevino](https://openalex.org/A5077981619), [William B. Hughes](https://openalex.org/A5036919128), [Shree Krishna Dhakal](https://openalex.org/A5093030789), [Việt Dũng Nguyễn](https://openalex.org/A5072745266), [Samuel G. Greco](https://openalex.org/A5069523960), [Hadi D. Arman](https://openalex.org/A5067988249), [Oleg V. Larionov](https://openalex.org/A5039928327), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01289.
+    
+Development of photocatalytic systems that facilitate mechanistically divergent steps in complex catalytic manifolds by distinct activation modes can enable previously inaccessible synthetic transformations. However, multimodal photocatalytic systems remain understudied, impeding their implementation in catalytic methodology. We report herein a photocatalytic access to thiols that directly merges the structural diversity of carboxylic acids with the ready availability of elemental sulfur without substrate preactivation. The photocatalytic transformation provides a direct radical-mediated segue to one of the most biologically important and synthetically versatile organosulfur functionalities, whose synthetic accessibility remains largely dominated by two-electron-mediated processes based on toxic and uneconomical reagents and precursors. The two-phase radical process is facilitated by a multimodal catalytic reactivity of acridine photocatalysis that enables both singlet excited state PCET-mediated decarboxylative carbon–sulfur bond formation and previously unknown radical reductive disulfur bond cleavage by a photoinduced hydrogen atom transfer process in the silane–triplet acridine system. The study points to a significant potential of multimodal photocatalytic systems in providing unexplored directions to previously inaccessible transformations.    
+
+    
+
+## Pt–Pyrrole Complex-Assisted Synthesis of Carbon-Supported Pt Intermetallics for Oxygen Reduction in Proton Exchange Membrane Fuel Cells   
+
+OpenAlex: https://openalex.org/W4394963378    
+Open access: False
+    
+[Yuting Jiang](https://openalex.org/A5057532203), [Qing Zhang](https://openalex.org/A5025851882), [Jiajia Qian](https://openalex.org/A5011770639), [Yameng Wang](https://openalex.org/A5016112203), [Yongbiao Mu](https://openalex.org/A5008002256), [Zhiyuan Zhang](https://openalex.org/A5053402281), [Zheng Li](https://openalex.org/A5060335470), [Tianshou Zhao](https://openalex.org/A5085086661), [Bilu Liu](https://openalex.org/A5068424935), [Lin Zeng](https://openalex.org/A5022926692), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05471.
+    
+Nanosized intermetallic Pt-transition metal alloys with high catalytic activity and stability are considered as promising catalysts for the oxygen reduction reaction (ORR). However, the preparation of intermetallic Pt alloy nanoparticles remains a dilemma due to their pronounced tendency for sintering at high synthesizing temperatures. Here, we have synthesized several Pt intermetallics with an average size of 4 nm by employing carbon-supported Pt–-pyrrole complex and transition metal (TM = Fe, Co, Ni) salts as precursors. Transmission electron microscope (TEM) results indicate that not only the uniform pregrowth of the Pt–pyrrole complex onto the carbon support but also the subsequently derived N-doped carbon shells (<1 nm) on the nanoparticles during annealing contribute to the formation of the nanosized intermetallics. Additional characterization suggests that the intermetallic alloy structure endows the catalyst (PtCo@Pt/C-6) with a downshifted Pt d-band center, which implies the weakened adsorption of the ORR intermediates on the Pt alloy, thus facilitating the ORR kinetics. The fuel cell with the as-prepared PtCo@Pt/C-6 catalyst displays a rated peak power density of 1.1 W/cm2 at 0.67 V (H2/air) and a mass activity of 0.49 A/mgPt at 0.9 V, exceeding the targets of the US Department of Energy (1.0 W/cm2 and 0.44 A/mgPt, respectively). This method demonstrates great potentials for the scalable synthesis of PtTM/C catalysts with high ORR performance and promoting their applications in PEMFCs.    
 
     

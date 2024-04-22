@@ -1,57 +1,15 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Apr 21 01:07:44 2024
+Created on Mon Apr 22 01:05:00 2024
 
-Found 41 results from 2024-04-14 to 2024-04-21
+Found 45 results from 2024-04-15 to 2024-04-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Generation of Sulfamoyl Radical for the Modular Synthesis of Sulfonamides  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394783336
-:TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Catalytic C-H Amination Reactions, Biological Activities of Phenothiazines and Related Compounds
-:PUBLICATION_DATE: 2024-04-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01560")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394783336"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394783336"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394783336"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394783336 (Open access: False)
-    
-[[https://openalex.org/A5070217781][Haiping Lv]], [[https://openalex.org/A5027811414][Xinzhou Chen]], [[https://openalex.org/A5025996303][Xuemei Zhang]], [[https://openalex.org/A5041087516][Steven L. Kramer]], [[https://openalex.org/A5065425419][Zhong Lian]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01560 
-     
-Efficient synthesis of sulfonamides has long been pursued by chemists due to their frequent occurrence in pharmaceuticals, especially in anti-inflammatory medicines. The traditional assembly from sulfonyl chlorides and amines, as well as the recently developed one-step synthesis of sulfonamides involving sulfur dioxide, still faces challenges such as poor substrate compatibility and/or stringent reaction conditions. Herein, we present a strategy for the in situ generation of sulfamoyl radicals for the one-step modular synthesis of both alkenyl and alkyl sulfonamides with wide substrate applicability (>100 examples), mild reaction conditions, and easily accessible starting materials. This method is successfully applied to the late-stage modification of drug molecules (23 examples), the one-step synthesis of the drug molecule naratriptan, and the 15N-labeling of sulfonamides.    
-
-    
-
-* Stable Operation of Paired CO2 Reduction/Glycerol Oxidation at High Current Density  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394786891
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-04-13
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05952")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394786891"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394786891"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394786891"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394786891 (Open access: True)
-    
-[[https://openalex.org/A5082432235][Attila Kormányos]], [[https://openalex.org/A5043292005][Adrienn Szirmai]], [[https://openalex.org/A5069014536][Balázs Endrődi]], [[https://openalex.org/A5075233752][Csaba Janáky]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05952  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05952][pdf]])
-     
-Despite the considerable efforts made by the community, the high operation cell voltage of CO2 electrolyzers is still to be decreased to move toward commercialization. This is mostly due to the high energy need of the oxygen evolution reaction (OER), which is the most often used anodic pair for CO2 reduction. In this study, OER was replaced by the electrocatalytic oxidation of glycerol using carbon-supported Pt nanoparticles as an anode catalyst. In parallel, the reduction of CO2 to CO was performed at the Ag cathode catalyst using a membraneless microfluidic flow electrolyzer cell. Several parameters were optimized, starting from the catalyst layer composition (ionomer quality and quantity), through operating conditions (glycerol concentration, applied electrolyte flow rate, etc.), to the applied electrochemical protocol. By identifying the optimal conditions, a 75–85% Faradaic efficiency (FE) toward glycerol oxidation products (oxalate, glycerate, tartronate, lactate, glycolate, and formate) was achieved at 200 mA cm–2 total current density while the cathodic CO formation proceeded with close to 100% FE. With static protocols (potentio- or galvanostatic), a rapid loss of glycerol oxidation activity was observed during the long-term measurements. The anode catalyst was reactivated by applying a dynamic potential step protocol. This allowed the periodic reduction, hence, refreshing of Pt, ensuring stable, continuous operation for 5 h.    
-
-    
 
 * Hydrogen Peroxide as an Ideal Electron Donor for Long-Lasting Fenton Chemistry: Strong Enhancement of Fe(III) Activity by Heteroatom-Doped Nanocarbons  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394797401
-:TOPICS: Advanced Oxidation Processes for Water Treatment, Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion
+:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Advanced Oxidation Processes for Water Treatment
 :PUBLICATION_DATE: 2024-04-14
 :END:    
     
@@ -72,7 +30,7 @@ Heteroatom doping has been demonstrated to be an effective strategy to improve t
 * Structural and Functional Analysis of Heparosan Synthase 2 from Pasteurella multocida to Improve the Synthesis of Heparin  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394800995
-:TOPICS: Role of Calpain in Cellular Processes and Diseases, Glycosylation in Health and Disease, Role of Extracellular Matrix in Biological Signaling
+:TOPICS: Role of Extracellular Matrix in Biological Signaling, Glycosylation in Health and Disease, Chemical Glycobiology and Therapeutic Applications
 :PUBLICATION_DATE: 2024-04-15
 :END:    
     
@@ -219,7 +177,7 @@ Highly selective formal [3 + 2]-cycloaddition of vinyldiazoacetates with quinone
 * Steric Effects on the Oxygen Reduction Reaction with Cobalt Porphyrin Atropisomers  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394835036
-:TOPICS: Platinum-Based Cancer Chemotherapy, Dioxygen Activation at Metalloenzyme Active Sites, Role of Porphyrins and Phthalocyanines in Materials Chemistry
+:TOPICS: Dioxygen Activation at Metalloenzyme Active Sites, Role of Porphyrins and Phthalocyanines in Materials Chemistry, Platinum-Based Cancer Chemotherapy
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -261,7 +219,7 @@ Halide perovskite nanocrystals have recently emerged as high-performance light-h
 * Enantioselective Synthesis of Axially Chiral Diaryl Ethers through Chiral Phosphoric Acid-Catalyzed Desymmetric Acylation with Azlactones  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394836288
-:TOPICS: Asymmetric Catalysis, Chiroptical Spectroscopy in Organic Compound Analysis, Atroposelective Synthesis of Axially Chiral Compounds
+:TOPICS: Atroposelective Synthesis of Axially Chiral Compounds, Chiroptical Spectroscopy in Organic Compound Analysis, Pharmacology of Kratom Alkaloids and Related Compounds
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -303,7 +261,7 @@ This study unravels the catalytic effects of adjacent protons in redox catalysis
 * Photocatalytic Regeneration of Reactive Cofactors with InP Quantum Dots for the Continuous Chemical Synthesis  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394839944
-:TOPICS: Formation and Properties of Nanocrystals and Nanostructures, Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology
+:TOPICS: Applications of Quantum Dots in Nanotechnology, Photocatalytic Materials for Solar Energy Conversion, DNA Nanotechnology and Bioanalytical Applications
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -345,7 +303,7 @@ In the presence of Pd(Xantphos) and an electron-deficient arylboronic acid cocat
 * Photoenzymatic Redox-Neutral Radical Hydrosulfonylation Initiated by FMN  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394840950
-:TOPICS: Electrochemical Biosensor Technology, Applications of Photoredox Catalysis in Organic Synthesis, Transition-Metal-Catalyzed Sulfur Chemistry
+:TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Applications of Photoredox Catalysis in Organic Synthesis, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -408,7 +366,7 @@ Robust earth-abundant transition metal-based photocatalysts are needed for photo
 * Coupling Cu+ Species and Zr Single Atoms for Synergetic Catalytic Transfer Hydrodeoxygenation of 5-Hydroxymethylfurfural  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394854514
-:TOPICS: Innovations in Organic Synthesis Reactions, Desulfurization Technologies for Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals
+:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Desulfurization Technologies for Fuels, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -429,7 +387,7 @@ The formation and stabilization of Cu+ species are important to develop efficien
 * Halide Perovskites for Photoelectrochemical Water Splitting and CO2 Reduction: Challenges and Opportunities  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394854758
-:TOPICS: Emergent Phenomena at Oxide Interfaces, Photocatalytic Materials for Solar Energy Conversion, Perovskite Solar Cell Technology
+:TOPICS: Perovskite Solar Cell Technology, Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology
 :PUBLICATION_DATE: 2024-04-15
 :END:    
     
@@ -471,7 +429,7 @@ Photocatalytically converting waste plastic to high-value chemicals is an energy
 * Key Role of CO Coverage for Chain Growth in Co-Based Fischer–Tropsch Synthesis  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394857187
-:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Electrocatalysis for Energy Conversion, Catalytic Carbon Dioxide Hydrogenation
+:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Catalytic Conversion of Biomass to Fuels and Chemicals, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -492,7 +450,7 @@ Fischer–Tropsch synthesis converts CO and H2 to long-chain hydrocarbons. The r
 * Plasma Catalysis for Hydrogen Production: A Bright Future for Decarbonization  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394857812
-:TOPICS: Catalytic Nanomaterials, Ammonia Synthesis and Electrocatalysis, Catalytic Carbon Dioxide Hydrogenation
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Nanomaterials, Applications of Plasma in Medicine and Biology
 :PUBLICATION_DATE: 2024-04-16
 :END:    
     
@@ -825,6 +783,69 @@ N-heterocyclic carbenes (NHCs) have recently gained significant attention as cap
 
     
 
+* Catalytic Bias and Redox-Driven Inactivation of the Group B FeFe Hydrogenase CpIII  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394951090
+:TOPICS: Biological and Synthetic Hydrogenases: Mechanisms and Applications, Electrocatalysis for Energy Conversion, Platinum-Based Cancer Chemotherapy
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01352")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394951090"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394951090"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394951090"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394951090 (Open access: False)
+    
+[[https://openalex.org/A5056304450][Andrea Fasano]], [[https://openalex.org/A5007299928][Aurore Jacq‐Bailly]], [[https://openalex.org/A5012477969][Jeremy Wozniak]], [[https://openalex.org/A5064825044][Vincent Fourmond]], [[https://openalex.org/A5040444990][Christophe Léger]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01352 
+     
+No abstract    
+
+    
+
+* Boosting Hydrogen Adsorption via Manipulating the d-Band Center of Ferroferric Oxide for Anion Exchange Membrane-Based Seawater Electrolysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394953389
+:TOPICS: Fuel Cell Membrane Technology, Science and Technology of Capacitive Deionization for Water Desalination, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00267")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394953389"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394953389"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394953389"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394953389 (Open access: False)
+    
+[[https://openalex.org/A5071116473][Lihui Song]], [[https://openalex.org/A5087332040][Lili Guo]], [[https://openalex.org/A5060974161][Jianfeng Mao]], [[https://openalex.org/A5017709527][Zhipeng Li]], [[https://openalex.org/A5071157860][Jiawei Zhu]], [[https://openalex.org/A5072157142][Jianping Lai]], [[https://openalex.org/A5032135658][Jing‐Qi Chi]], [[https://openalex.org/A5010746973][Lei Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00267 
+     
+No abstract    
+
+    
+
+* Effect of 6,6′-Substituents on Bipyridine-Ligated Ni Catalysts for Cross-Electrophile Coupling  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394953706
+:TOPICS: Transition Metal-Catalyzed Cross-Coupling Reactions, Transition-Metal-Catalyzed Sulfur Chemistry, Transition-Metal-Catalyzed C–H Bond Functionalization
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00827")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394953706"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394953706"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394953706"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394953706 (Open access: False)
+    
+[[https://openalex.org/A5078523497][Hanfeng Huang]], [[https://openalex.org/A5016764823][Jose L. Alvarez-Hernandez]], [[https://openalex.org/A5062709693][Nilay Hazari]], [[https://openalex.org/A5038732109][Brandon Q. Mercado]], [[https://openalex.org/A5091106686][Mycah R. Uehling]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00827 
+     
+A family of 4,4′-tBu2-2,2′-bipyridine (tBubpy) ligands with substituents in either the 6-position, 4,4′-tBu2-6-Me-bpy (tBubpyMe), or 6 and 6′-positions, 4,4′-tBu2-6,6′-R2-bpy (tBubpyR2; R = Me, iPr, sBu, Ph, or Mes), was synthesized. These ligands were used to prepare Ni complexes in the 0, I, and II oxidation states. We observed that the substituents in the 6 and 6′-positions of the tBubpy ligand impact the properties of the Ni complexes. For example, bulkier substituents in the 6,6′-positions of tBubpy better stabilized (tBubpyR2)NiICl species and resulted in a cleaner reduction from (tBubpyR2)NiIICl2. However, bulkier substituents hindered or prevented the coordination of tBubpyR2 ligands to Ni0(cod)2. In addition, by using complexes of the type (tBubpyMe)NiCl2 and (tBubpyR2)NiCl2 as precatalysts for different XEC reactions, we demonstrated that the 6 or 6,6′-substituents lead to major differences in the catalytic performance. Specifically, while (tBubpyMe)NiIICl2 is one of the most active catalysts reported to date for XEC and can facilitate XEC reactions at room temperature, lower turnover frequencies were observed for catalysts containing tBubpyR2 ligands. A detailed study on the catalytic intermediates (tBubpy)Ni(Ar)I and (tBubpyMe2)Ni(Ar)I revealed several factors that likely contributed to the differences in the catalytic activity. For example, whereas complexes of the type (tBubpy)Ni(Ar)I are low spin and relatively stable, complexes of the type (tBubpyMe2)Ni(Ar)I are high-spin and less stable. Furthermore, (tBubpyMe2)Ni(Ar)I captures primary and benzylic alkyl radicals more slowly than (tBubpy)Ni(Ar)I, consistent with the lower activity of the former in catalysis. Our findings will assist in the design of tailor-made ligands for Ni-catalyzed transformations.    
+
+    
+
 * Issue Editorial Masthead  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394961569
@@ -864,5 +885,68 @@ OpenAlex: https://openalex.org/W4394961663 (Open access: True)
 , ACS catalysis. 14(8)] 2024. https://doi.org/10.1021/csv014i008_1792868  ([[https://pubs.acs.org/doi/pdf/10.1021/csv014i008_1792868][pdf]])
      
 No abstract    
+
+    
+
+* Christina Li, Serge Ruccolo, and Christo Sevov Selected to Receive the 2024 ACS Catalysis Lectureship for the Advancement of Catalytic Science  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394961800
+:TOPICS: Enzyme Immobilization Techniques, Chemistry of Actinide and Lanthanide Elements, Role of Porphyrins and Phthalocyanines in Materials Chemistry
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01956")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394961800"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394961800"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394961800"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394961800 (Open access: True)
+    
+[[https://openalex.org/A5048301965][Cathleen M. Crudden]], ACS catalysis. 14(8)] 2024. https://doi.org/10.1021/acscatal.4c01956  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01956][pdf]])
+     
+ADVERTISEMENT RETURN TO ISSUEEditorialNEXTChristina Li, Serge Ruccolo, and Christo Sevov Selected to Receive the 2024 ACS Catalysis Lectureship for the Advancement of Catalytic ScienceCathleen CruddenCathleen CruddenMore by Cathleen Cruddenhttps://orcid.org/0000-0003-2154-8107Cite this: ACS Catal. 2024, 14, 8, 5987–5988Publication Date (Web):April 19, 2024Publication History Received1 April 2024Published online19 April 2024Published inissue 19 April 2024https://doi.org/10.1021/acscatal.4c01956Copyright © 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (818 KB) Get e-AlertscloseSUBJECTS:Catalysis,Catalysts,Copper,Peptides and proteins,Redox reactions Get e-Alerts    
+
+    
+
+* Multimodal Acridine Photocatalysis Enables Direct Access to Thiols from Carboxylic Acids and Elemental Sulfur  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394962813
+:TOPICS: Transition-Metal-Catalyzed Sulfur Chemistry, Innovations in Organic Synthesis Reactions, Applications of Photoredox Catalysis in Organic Synthesis
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01289")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394962813"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394962813"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394962813"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394962813 (Open access: False)
+    
+[[https://openalex.org/A5045502270][Arka Porey]], [[https://openalex.org/A5093030788][Seth Fremin]], [[https://openalex.org/A5077825028][Sachchida Nand]], [[https://openalex.org/A5077981619][Ramon Trevino]], [[https://openalex.org/A5036919128][William B. Hughes]], [[https://openalex.org/A5093030789][Shree Krishna Dhakal]], [[https://openalex.org/A5072745266][Việt Dũng Nguyễn]], [[https://openalex.org/A5069523960][Samuel G. Greco]], [[https://openalex.org/A5067988249][Hadi D. Arman]], [[https://openalex.org/A5039928327][Oleg V. Larionov]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01289 
+     
+Development of photocatalytic systems that facilitate mechanistically divergent steps in complex catalytic manifolds by distinct activation modes can enable previously inaccessible synthetic transformations. However, multimodal photocatalytic systems remain understudied, impeding their implementation in catalytic methodology. We report herein a photocatalytic access to thiols that directly merges the structural diversity of carboxylic acids with the ready availability of elemental sulfur without substrate preactivation. The photocatalytic transformation provides a direct radical-mediated segue to one of the most biologically important and synthetically versatile organosulfur functionalities, whose synthetic accessibility remains largely dominated by two-electron-mediated processes based on toxic and uneconomical reagents and precursors. The two-phase radical process is facilitated by a multimodal catalytic reactivity of acridine photocatalysis that enables both singlet excited state PCET-mediated decarboxylative carbon–sulfur bond formation and previously unknown radical reductive disulfur bond cleavage by a photoinduced hydrogen atom transfer process in the silane–triplet acridine system. The study points to a significant potential of multimodal photocatalytic systems in providing unexplored directions to previously inaccessible transformations.    
+
+    
+
+* Pt–Pyrrole Complex-Assisted Synthesis of Carbon-Supported Pt Intermetallics for Oxygen Reduction in Proton Exchange Membrane Fuel Cells  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394963378
+:TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-04-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05471")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394963378"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394963378"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394963378"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394963378 (Open access: False)
+    
+[[https://openalex.org/A5057532203][Yuting Jiang]], [[https://openalex.org/A5025851882][Qing Zhang]], [[https://openalex.org/A5011770639][Jiajia Qian]], [[https://openalex.org/A5016112203][Yameng Wang]], [[https://openalex.org/A5008002256][Yongbiao Mu]], [[https://openalex.org/A5053402281][Zhiyuan Zhang]], [[https://openalex.org/A5060335470][Zheng Li]], [[https://openalex.org/A5085086661][Tianshou Zhao]], [[https://openalex.org/A5068424935][Bilu Liu]], [[https://openalex.org/A5022926692][Lin Zeng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05471 
+     
+Nanosized intermetallic Pt-transition metal alloys with high catalytic activity and stability are considered as promising catalysts for the oxygen reduction reaction (ORR). However, the preparation of intermetallic Pt alloy nanoparticles remains a dilemma due to their pronounced tendency for sintering at high synthesizing temperatures. Here, we have synthesized several Pt intermetallics with an average size of 4 nm by employing carbon-supported Pt–-pyrrole complex and transition metal (TM = Fe, Co, Ni) salts as precursors. Transmission electron microscope (TEM) results indicate that not only the uniform pregrowth of the Pt–pyrrole complex onto the carbon support but also the subsequently derived N-doped carbon shells (<1 nm) on the nanoparticles during annealing contribute to the formation of the nanosized intermetallics. Additional characterization suggests that the intermetallic alloy structure endows the catalyst (PtCo@Pt/C-6) with a downshifted Pt d-band center, which implies the weakened adsorption of the ORR intermediates on the Pt alloy, thus facilitating the ORR kinetics. The fuel cell with the as-prepared PtCo@Pt/C-6 catalyst displays a rated peak power density of 1.1 W/cm2 at 0.67 V (H2/air) and a mass activity of 0.49 A/mgPt at 0.9 V, exceeding the targets of the US Department of Energy (1.0 W/cm2 and 0.44 A/mgPt, respectively). This method demonstrates great potentials for the scalable synthesis of PtTM/C catalysts with high ORR performance and promoting their applications in PEMFCs.    
 
     

@@ -1,31 +1,10 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun Apr 21 01:07:45 2024
+Created on Mon Apr 22 01:05:01 2024
 
-Found 2 results from 2024-04-14 to 2024-04-21
+Found 2 results from 2024-04-15 to 2024-04-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
-
-* A Novel Mixed-Integer Linear Programming Formulation for Continuous-Time Inventory Routing  :CMU_Chemical_Engineering:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394788163
-:TOPICS: Distributed Coordination in Online Robotics Research, Numerical Optimization Techniques, Vehicle Routing Problem and Variants
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4793503")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394788163"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394788163"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394788163"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394788163 (Open access: False)
-    
-[[https://openalex.org/A5048285644][Akang Wang]], [[https://openalex.org/A5073137913][X. Li]], [[https://openalex.org/A5045208880][Jeffrey E. Arbogast]], [[https://openalex.org/A5043503583][Zachary Wilson]], [[https://openalex.org/A5048485981][Chrysanthos E. Gounaris]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4793503 
-     
-Download This Paper Open PDF in Browser Add Paper to My Library Share: Permalink Using these links will ensure access to this page indefinitely Copy URL Copy DOI    
-
-    
 
 * Carbon nanomaterials‐based electrically conductive scaffolds for tissue engineering applications  :CMU_Chemical_Engineering:
 :PROPERTIES:
@@ -45,5 +24,26 @@ OpenAlex: https://openalex.org/W4394927677 (Open access: True)
 [[https://openalex.org/A5095772138][Genevieve Abd]], [[https://openalex.org/A5003766948][Raquel Sanchez Diaz]], [[https://openalex.org/A5076052042][Anju Gupta]], [[https://openalex.org/A5044695139][Tagbo H. R. Niepa]], [[https://openalex.org/A5041703687][Kunal Mondal]], [[https://openalex.org/A5077698461][Seeram Ramakrishna]], [[https://openalex.org/A5052056626][Ashutosh Sharma]], [[https://openalex.org/A5082691724][Andrés Díaz Lantada]], [[https://openalex.org/A5071469750][Monsur Islam]], MedComm - Biomaterials and applications. 3(2)] 2024. https://doi.org/10.1002/mba2.76  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mba2.76][pdf]])
      
 Abstract In tissue engineering, the pivotal role of scaffolds is underscored, serving as key elements to emulate the native extracellular matrix. These scaffolds must provide structural integrity and support and supply electrical, mechanical, and chemical cues for cell and tissue growth. Notably, electrical conductivity plays a crucial role when dealing with tissues like bone, spinal, neural, and cardiac tissues. However, the typical materials used as tissue engineering scaffolds are predominantly polymers, which generally characteristically feature poor electrical conductivity. Therefore, it is often necessary to incorporate conductive materials into the polymeric matrix to yield electrically conductive scaffolds and further enable electrical stimulation. Among different conductive materials, carbon nanomaterials have attracted significant attention in developing conductive tissue engineering scaffolds, demonstrating excellent biocompatibility and bioactivity in both in vitro and in vivo settings. This article aims to comprehensively review the current landscape of carbon‐based conductive scaffolds, with a specific focus on their role in advancing tissue engineering for the regeneration and maturation of functional tissues, emphasizing the application of electrical stimulation. This review highlights the versatility of carbon‐based conductive scaffolds and addresses existing challenges and prospects, shedding light on the trajectory of innovative conductive scaffold development in tissue engineering.    
+
+    
+
+* Lipid Nanoparticle-Associated Inflammation is Triggered by Sensing of Endosomal Damage: Engineering Endosomal Escape without Side Effects  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394960825
+:TOPICS: Molecular Mechanisms of Inflammasome Activation and Regulation, Immunological Mechanisms in Atherosclerosis Development, Mechanisms of Apoptotic Cell Clearance and Immune Regulation
+:PUBLICATION_DATE: 2024-04-18
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1101/2024.04.16.589801")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394960825"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394960825"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394960825"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394960825 (Open access: True)
+    
+[[https://openalex.org/A5052806309][Serena Omo‐Lamai]], [[https://openalex.org/A5035182164][Yufei Wang]], [[https://openalex.org/A5082931661][Mita Patel]], [[https://openalex.org/A5024678471][Eno‐Obong Essien]], [[https://openalex.org/A5035872050][Mengwen Shen]], [[https://openalex.org/A5037062640][A. K. Majumder]], [[https://openalex.org/A5036716063][Carolann Espy]], [[https://openalex.org/A5090929458][Jichuan Wu]], [[https://openalex.org/A5059058953][Breana Channer]], [[https://openalex.org/A5006205638][Michael P. Tobin]], [[https://openalex.org/A5068425814][Shruthi Murali]], [[https://openalex.org/A5013550272][Tyler E. Papp]], [[https://openalex.org/A5009609190][Rhea Maheshwari]], [[https://openalex.org/A5066751872][Liuqian Wang]], [[https://openalex.org/A5069041138][Lucas G. Chase]], [[https://openalex.org/A5013737314][Marco Zamora]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5074050540][Oscar A. Marcos‐Contreras]], [[https://openalex.org/A5067701831][Jacob W. Myerson]], [[https://openalex.org/A5003951398][Christopher A. Hunter]], [[https://openalex.org/A5027596223][Andrew Tsourkas]], [[https://openalex.org/A5022924802][Vladimir R. Muzykantov]], [[https://openalex.org/A5028965776][Igor E. Brodsky]], [[https://openalex.org/A5059475430][Sunny Shin]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], [[https://openalex.org/A5019253024][Peter J. Gaskill]], [[https://openalex.org/A5041290018][Dennis E. Discher]], [[https://openalex.org/A5073034692][Hamideh Parhiz]], [[https://openalex.org/A5019182775][Jacob S. Brenner]], bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://doi.org/10.1101/2024.04.16.589801  ([[https://www.biorxiv.org/content/biorxiv/early/2024/04/18/2024.04.16.589801.full.pdf][pdf]])
+     
+Lipid nanoparticles (LNPs) have emerged as the dominant platform for RNA delivery, based on their success in the COVID-19 vaccines and late-stage clinical studies in other indications. However, we and others have shown that LNPs induce severe inflammation, and massively aggravate pre-existing inflammation. Here, using structure-function screening of lipids and analyses of signaling pathways, we elucidate the mechanisms of LNP-associated inflammation and demonstrate solutions. We show that LNPs' hallmark feature, endosomal escape, which is necessary for RNA expression, also directly triggers inflammation by causing endosomal membrane damage. Large, irreparable, endosomal holes are recognized by cytosolic proteins called galectins, which bind to sugars on the inner endosomal membrane and then regulate downstream inflammation. We find that inhibition of galectins abrogates LNP-associated inflammation, both in vitro and in vivo. We show that rapidly biodegradable ionizable lipids can preferentially create endosomal holes that are smaller in size and reparable by the endosomal sorting complex required for transport (ESCRT) pathway. Ionizable lipids producing such ESCRT-recruiting endosomal holes can produce high expression from cargo mRNA with minimal inflammation. Finally, we show that both routes to non-inflammatory LNPs, either galectin inhibition or ESCRT-recruiting ionizable lipids, are compatible with therapeutic mRNAs that ameliorate inflammation in disease models. LNPs without galectin inhibition or biodegradable ionizable lipids lead to severe exacerbation of inflammation in these models. In summary, endosomal escape induces endosomal membrane damage that can lead to inflammation. However, the inflammation can be controlled by inhibiting galectins (large hole detectors) or by using biodegradable lipids, which create smaller holes that are reparable by the ESCRT pathway. These strategies should lead to generally safer LNPs that can be used to treat inflammatory diseases.    
 
     
