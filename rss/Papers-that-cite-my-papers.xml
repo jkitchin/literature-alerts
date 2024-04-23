@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Apr 2024 01:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:04:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Origin of &#916;GH* Variation in Electrochemical Hydrogen Evolution in Transition Metal Dichalcogenides</title>
-      <link>https://doi.org/10.1016/j.mtener.2024.101581</link>
-      <description>Sangjin Lee, Sujin Lee, Chaewon Kim, Young&#8208;Kyu Han, Materials today energy. None(None)] 2024. https://openalex.org/W4394794301
-
-                Two-dimensional transition metal (TM)-doped dichalcogenides (TMDs) are among the most promising materials for water-splitting catalysts. Among various methods applied to promote the hydrogen evolution reaction (HER) in TMDs, doping with TM heteroatoms has attracted attention because this strategy allows optimization of hydrogen adsorption and H2 generation reactions. Herein, we conduct in-depth, systematic analyses of the trends in the change in the hydrogen adsorption free energy (&#916;GH*)&#8212;the most well-known descriptor for evaluating HER performance&#8212;for doped TMDs. The total of 150 different doped TMDs are used to conduct an atomic-level analysis of the origin of &#916;GH* changes upon TM heteroatom doping. Moreover, we suggest two key factors that govern hydrogen adsorption over doped TMDs: 1) changes in the charge of chalcogen atoms, where hydrogen atoms are adsorbed onto early-TM-doped structures and 2) structural deformation energies accompanying the introduced dopants of the late-TM-doped structures. Furthermore, we propose a new perspective on how vacancies in TM-doped TMDs can result in the enhanced &#916;GH* for the HER. We suggest that introducing electrostatic and structural controls in early- and late-TM-doped systems, respectively, are effective strategies for achieving thermoneutral &#916;GH* in TMDs and promote the design of new TMD catalysts with superior water-splitting capabilities.</description>
-      <author>Sangjin Lee, Sujin Lee, Chaewon Kim, Young&#8208;Kyu Han</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101581</guid>
-    </item>
-    <item>
-      <title>Are Elastic Properties of Molecular Crystals within Reach of Density Functional Theory? Accuracy, Robustness, and Reproducibility of Current Approaches</title>
-      <link>https://doi.org/10.1021/acs.cgd.4c00026</link>
-      <description>Kristof M. Bal, Alain Collas, Crystal growth &amp; design. None(None)] 2024. https://openalex.org/W4394799183
-
-                Solid form selection and design of crystalline small molecule active pharmaceutical ingredients (APIs) would benefit from computational prediction and rationalization of the mechanical properties. Before such practical applications can be considered, the robustness and reproducibility of the computed properties with respect to the chosen level of theory must be understood. In this work, elastic constants of eight molecular crystals, with an emphasis on APIs, have been calculated using dispersion-corrected density functional theory (DFT). The different DFT methods considered do not, in general, consistently predict the absolute magnitudes of the elastic moduli, which disagree by over 50% for some crystals. Relative properties such as elastic anisotropy are more robust, mostly consistent between models, and in qualitative agreement with experiment. Calculated anisotropies could also be rationalized in terms of the structural features of the crystal. Overall, this work reveals that DFT-computed elastic properties may not offer a ground truth in absolute terms. Future applications of DFT in the context of high-throughput material screening or training of machine learning models will therefore require judicious selection of target properties and evaluation metrics. Only after methodological limitations are properly identified can more in-depth investigations be undertaken to assess the feasibility of applying DFT in pharmaceutical development.</description>
-      <author>Kristof M. Bal, Alain Collas</author>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.4c00026</guid>
-    </item>
-    <item>
-      <title>Two-dimensional van der Waals stack heterostructures for flexible thermoelectrics</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109605</link>
-      <description>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8722;Wook Min, Chuanrui Zhang, Peng-an Zong, Nano energy. 125(None)] 2024. https://openalex.org/W4394799568
-
-                The incorporation of disparate materials into heterostructures has arisen as a formidable technique for modulating interfaces and electronic configurations. The introduction of two-dimensional (2D) materials has unveiled unparalleled prospects for generating innovative heterostructures in the guise of van der Waals stacks. Tantalum sulfide (TaS2), a prominent 2D material, has been extensively studied across various domains, faces constraints in thermoelectric conversion attributed to its diminished absolute Seebeck coefficient below 10 &#956;V K&#8722;1. By constructing a two-dimensional van der Waals stack heterostructure, TaS2/organics/TiS2, a significantly enhanced absolute Seebeck coefficient of 38.3 &#956;V K&#8722;1 was obtained, mostly attributed to the induced interfacial effect. The power factor reached 87.6 &#956;W m&#8722;1 K&#8722;2, marking a sevenfold increase compared to the original. The thermoelectric generator demonstrated a maximum power of 86.4 nW at a temperature difference of 40 K. Employing such heterostructure films in tactile and respiration sensors demonstrated encouraging prospects for aiding the visually impaired with language assistance and facilitating real-time monitoring of respiratory rates for health monitoring purposes. This study highlights the expansive potential of two-dimensional van der Waals stack heterostructure technology for use in flexible thermoelectric generators, wearable sensors, and beyond.</description>
-      <author>Wenhui Li, Xuefei Zhang, Heng Liu, Sung&#8722;Wook Min, Chuanrui Zhang, Peng-an Zong</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109605</guid>
-    </item>
     <item>
       <title>Four Generations of Volcano Plots for the Oxygen Evolution Reaction: Beyond Proton-Coupled Electron Transfer Steps?</title>
       <link>https://doi.org/10.1021/acs.accounts.4c00048</link>
@@ -80,11 +50,11 @@
     <item>
       <title>Preparation of MnO2@MPIA catalysts with a controlled oxygen vacancy for the efficient catalytic oxidation of formaldehyde at room temperature</title>
       <link>https://doi.org/10.1016/j.jece.2024.112813</link>
-      <description>Haiyan Yang, Yahui Zhou, Xiaohua Cheng, Bin Liu, Xin Liu, Bo Deng, Shuai Peng, Zijian Duan, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4394824330
+      <description>Haiyan Yang, Yahui Zhou, Xiaohua Cheng, Bin Liu, Xin Liu, Bo Deng, Shuai Peng, Zijian Duan, Journal of environmental chemical engineering. 12(3)] 2024. https://openalex.org/W4394824330
 
                 &#948;-MnO2 catalysts have attracted much attention because of the abundance of oxygen vacancies (OVs) on the surface to achieve efficient catalytic oxidation of volatile organic compounds (VOCs) such as formaldehyde (HCHO). However, the recycling and regeneration of powdered &#948;-MnO2 nano-catalysts still limits the practical application of the catalysts. Here, the surface of aramid fiber (MPIA) was treated by corona activation to introduce reactive groups, such as -OH, and -COOH. These reactive groups can promote the exposure of more Mn3+ on the surface of loaded &#948;-MnO2 to produce OVs. Meanwhile, the strong interactions between the activated MPAI and &#948;-MnO2 was formed, which helped to improve the stability and cyclic regeneration of the fiber-based &#948;-MnO2 catalysts. The effects of Mn3+ and OVs on the catalytic performance of &#948;-MnO2 were targeted and characterized by SEM, XPS and BET. The pathways of HCHO removal by OVs on the &#948;-MnO2 surface and the relative free energies of the corresponding intermediates were also explored. The results revealed that optimizing the morphology of MPIA surface-loaded &#948;-MnO2 can obtain a higher concentration of oxygen vacancies, with excellent HCHO removal efficiency at room temperature and high catalytic activity even after multiple cycle regeneration.</description>
       <author>Haiyan Yang, Yahui Zhou, Xiaohua Cheng, Bin Liu, Xin Liu, Bo Deng, Shuai Peng, Zijian Duan</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.112813</guid>
     </item>
     <item>
@@ -150,21 +120,21 @@
     <item>
       <title>Boosting photocatalytic overall water splitting performance by dual-metallic single Ni and Pd atoms decoration of MoS2: A DFT study</title>
       <link>https://doi.org/10.1016/j.jallcom.2024.174530</link>
-      <description>Jing Ma, Xin Wang, Hui Li, Decai Yang, Jia Fan, Yingtao Liu, Journal of alloys and compounds. None(None)] 2024. https://openalex.org/W4394842098
+      <description>Jing Ma, Xin Wang, Hui Li, Decai Yang, Jia Fan, Yingtao Liu, Journal of alloys and compounds. 991(None)] 2024. https://openalex.org/W4394842098
 
                 Herein, we propose a novel MoS2 supported single Ni and Pb atoms catalyst (Ni/Pd@MoS2), on which the enhanced efficiency of water splitting is confirmed by quantitative density functional theory (DFT) calculations. The Bader charge, electron density difference (EDD) and projected density of state (PDOS) analysis demonstrates that the moderate electron transfer is reached by the synergy of the Ni atom and the Pd atom. As extra channel for excited carrier migration, the present of defect states obviously prolongs the carrier lifetime (143.45 ps). The unique electronic environment contributes to the electronic synergy and spatially separated of the effective active sites, leading the oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) happen smoothly on the Pd and S site, respectively. Our research presents a novel idea for the development of highly efficient diatomic catalysts towards overall water splitting.</description>
       <author>Jing Ma, Xin Wang, Hui Li, Decai Yang, Jia Fan, Yingtao Liu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jallcom.2024.174530</guid>
     </item>
     <item>
       <title>Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys</title>
       <link>https://doi.org/10.1016/j.matdes.2024.112921</link>
-      <description>Bin Cao, Tianhao Su, Shuting Yu, Tianyuan Li, Tianlong Zhang, Jincang Zhang, Zhong Dong, Tong&#8208;Yi Zhang, Materials &amp; design. None(None)] 2024. https://openalex.org/W4394846536
+      <description>Bin Cao, Tianhao Su, Shuting Yu, Tianyuan Li, Tianlong Zhang, Jincang Zhang, Zhong Dong, Tong&#8208;Yi Zhang, Materials &amp; design. 241(None)] 2024. https://openalex.org/W4394846536
 
                 Developing new materials through traditional trial-and-error is time-consuming and costly due to the vast potential compositions to explore. Moreover, some desirable properties are mutually exclusive, presenting challenges for materials design. Herein, we employed an active learning strategy to address the strength-ductility trade-off in SAC105 lead-free solders. We developed two Gaussian regression models, one for strength and one for elongation representing ductility. The Gaussian Upper Confidence Boundary algorithm, a Bayesian optimization method, was used to balance exploitation and exploration by considering prediction uncertainty. The variance weight was designed to decay with adaptive iterations. The two models were linearly combined and the maximal combined model recommended alloys on the Pareto front for experiments. After just three iterations, a new 91.4Sn-1.0Ag-0.5Cu-1.5Bi-4.4In-0.2Ti low-silver SAC solder was discovered, exhibiting 73.94&#177;5.05 MPa strength and 24.37&#177;5.92% elongation, representing the best comprehensive mechanical properties. Weldability experiments also showed excellent performance. Based on Ab initio molecular dynamics, a precise machine learning potential revealed the alloying mechanism in Sn-In solid solutions with quantum accuracy in systems of over 103 atoms, closely matching experimental X-ray diffraction pattern. To facilitate materials informatics development, all active learning algorithms was made open-source in our designed framework, Bgolearn.</description>
       <author>Bin Cao, Tianhao Su, Shuting Yu, Tianyuan Li, Tianlong Zhang, Jincang Zhang, Zhong Dong, Tong&#8208;Yi Zhang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.matdes.2024.112921</guid>
     </item>
     <item>
@@ -606,6 +576,26 @@
       <author>Let&#237;cia Mara Vieira Ildefonso, Erika Lira Buthers, Br&#225;ulio S. Archanjo, Cristiano Legnani, Welber G. Quirino, Daniel V. P. Massote, Indhira O. Maciel, Benjamin Fragneaud</author>
       <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00511</guid>
+    </item>
+    <item>
+      <title>Surface exsolved NiFeOx nanocatalyst for enhanced alkaline oxygen evolution catalysis</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160134</link>
+      <description>Hyerin Jeong, Hyunwoo Jang, Yo Han Kim, Minwoo Kim, Youngho Kang, Jae&#8208;ha Myung, Applied surface science. None(None)] 2024. https://openalex.org/W4394984906
+
+                No abstract</description>
+      <author>Hyerin Jeong, Hyunwoo Jang, Yo Han Kim, Minwoo Kim, Youngho Kang, Jae&#8208;ha Myung</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160134</guid>
+    </item>
+    <item>
+      <title>Enhancing electrocatalytic hydrogen evolution of MoS2 enabled by electrochemical cation implantation for simultaneous surface-defect and phase engineering</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124037</link>
+      <description>Mun Kyoung Kim, Bipin Lamichhane, Baozhen Song, Sunhyeong Kwon, Benzhi Wang, Shyam Kattel, Ji Hoon Lee, Hyung Mo Jeong, Applied catalysis. B, Environmental. 352(None)] 2024. https://openalex.org/W4394987326
+
+                No abstract</description>
+      <author>Mun Kyoung Kim, Bipin Lamichhane, Baozhen Song, Sunhyeong Kwon, Benzhi Wang, Shyam Kattel, Ji Hoon Lee, Hyung Mo Jeong</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124037</guid>
     </item>
     <item>
       <title>Struktura ionno-molekulyarnykh kompleksov H+(H2O)n dlya n = 2 &#8722; 6 i termodinamicheskie kharakteristiki gidratatsii protonov v gazovoy srede</title>

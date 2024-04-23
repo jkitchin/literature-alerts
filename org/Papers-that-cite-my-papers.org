@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Apr 22 01:05:13 2024
+Created on Tue Apr 23 01:04:31 2024
 
-Found 68 results from 2024-04-15 to 2024-04-22
+Found 67 results from 2024-04-16 to 2024-04-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881]]
@@ -12,69 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023]]
-
-* Origin of ΔGH* Variation in Electrochemical Hydrogen Evolution in Transition Metal Dichalcogenides  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394794301
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion, Two-Dimensional Materials
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mtener.2024.101581")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394794301"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394794301"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394794301"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394794301 (Open access: False)
-    
-[[https://openalex.org/A5059892393][Sangjin Lee]], [[https://openalex.org/A5040708060][Sujin Lee]], [[https://openalex.org/A5062405513][Chaewon Kim]], [[https://openalex.org/A5077558935][Young‐Kyu Han]], Materials today energy. None(None)] 2024. https://doi.org/10.1016/j.mtener.2024.101581 
-     
-Two-dimensional transition metal (TM)-doped dichalcogenides (TMDs) are among the most promising materials for water-splitting catalysts. Among various methods applied to promote the hydrogen evolution reaction (HER) in TMDs, doping with TM heteroatoms has attracted attention because this strategy allows optimization of hydrogen adsorption and H2 generation reactions. Herein, we conduct in-depth, systematic analyses of the trends in the change in the hydrogen adsorption free energy (ΔGH*)—the most well-known descriptor for evaluating HER performance—for doped TMDs. The total of 150 different doped TMDs are used to conduct an atomic-level analysis of the origin of ΔGH* changes upon TM heteroatom doping. Moreover, we suggest two key factors that govern hydrogen adsorption over doped TMDs: 1) changes in the charge of chalcogen atoms, where hydrogen atoms are adsorbed onto early-TM-doped structures and 2) structural deformation energies accompanying the introduced dopants of the late-TM-doped structures. Furthermore, we propose a new perspective on how vacancies in TM-doped TMDs can result in the enhanced ΔGH* for the HER. We suggest that introducing electrostatic and structural controls in early- and late-TM-doped systems, respectively, are effective strategies for achieving thermoneutral ΔGH* in TMDs and promote the design of new TMD catalysts with superior water-splitting capabilities.    
-
-    
-
-* Are Elastic Properties of Molecular Crystals within Reach of Density Functional Theory? Accuracy, Robustness, and Reproducibility of Current Approaches  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394799183
-:TOPICS: Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry, Computational Methods in Drug Discovery, Powder Diffraction Analysis
-:PUBLICATION_DATE: 2024-04-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.cgd.4c00026")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394799183"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394799183"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394799183"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394799183 (Open access: False)
-    
-[[https://openalex.org/A5088848312][Kristof M. Bal]], [[https://openalex.org/A5079808460][Alain Collas]], Crystal growth & design. None(None)] 2024. https://doi.org/10.1021/acs.cgd.4c00026 
-     
-Solid form selection and design of crystalline small molecule active pharmaceutical ingredients (APIs) would benefit from computational prediction and rationalization of the mechanical properties. Before such practical applications can be considered, the robustness and reproducibility of the computed properties with respect to the chosen level of theory must be understood. In this work, elastic constants of eight molecular crystals, with an emphasis on APIs, have been calculated using dispersion-corrected density functional theory (DFT). The different DFT methods considered do not, in general, consistently predict the absolute magnitudes of the elastic moduli, which disagree by over 50% for some crystals. Relative properties such as elastic anisotropy are more robust, mostly consistent between models, and in qualitative agreement with experiment. Calculated anisotropies could also be rationalized in terms of the structural features of the crystal. Overall, this work reveals that DFT-computed elastic properties may not offer a ground truth in absolute terms. Future applications of DFT in the context of high-throughput material screening or training of machine learning models will therefore require judicious selection of target properties and evaluation metrics. Only after methodological limitations are properly identified can more in-depth investigations be undertaken to assess the feasibility of applying DFT in pharmaceutical development.    
-
-    
-
-* Two-dimensional van der Waals stack heterostructures for flexible thermoelectrics  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394799568
-:TOPICS: Thermoelectric Materials, Two-Dimensional Materials, Wearable Nanogenerator Technology
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoen.2024.109605")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394799568"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394799568"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394799568"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394799568 (Open access: False)
-    
-[[https://openalex.org/A5014510012][Wenhui Li]], [[https://openalex.org/A5042387273][Xuefei Zhang]], [[https://openalex.org/A5031879384][Heng Liu]], [[https://openalex.org/A5055261184][Sung−Wook Min]], [[https://openalex.org/A5013243105][Chuanrui Zhang]], [[https://openalex.org/A5072876623][Peng-an Zong]], Nano energy. 125(None)] 2024. https://doi.org/10.1016/j.nanoen.2024.109605 
-     
-The incorporation of disparate materials into heterostructures has arisen as a formidable technique for modulating interfaces and electronic configurations. The introduction of two-dimensional (2D) materials has unveiled unparalleled prospects for generating innovative heterostructures in the guise of van der Waals stacks. Tantalum sulfide (TaS2), a prominent 2D material, has been extensively studied across various domains, faces constraints in thermoelectric conversion attributed to its diminished absolute Seebeck coefficient below 10 μV K−1. By constructing a two-dimensional van der Waals stack heterostructure, TaS2/organics/TiS2, a significantly enhanced absolute Seebeck coefficient of 38.3 μV K−1 was obtained, mostly attributed to the induced interfacial effect. The power factor reached 87.6 μW m−1 K−2, marking a sevenfold increase compared to the original. The thermoelectric generator demonstrated a maximum power of 86.4 nW at a temperature difference of 40 K. Employing such heterostructure films in tactile and respiration sensors demonstrated encouraging prospects for aiding the visually impaired with language assistance and facilitating real-time monitoring of respiratory rates for health monitoring purposes. This study highlights the expansive potential of two-dimensional van der Waals stack heterostructure technology for use in flexible thermoelectric generators, wearable sensors, and beyond.    
-
-    
 
 * Four Generations of Volcano Plots for the Oxygen Evolution Reaction: Beyond Proton-Coupled Electron Transfer Steps?  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -164,7 +101,7 @@ Abstract Seawater electrolysis (SWE) is proposed to be a promising approach to g
 :PROPERTIES:
 :UUID: https://openalex.org/W4394824330
 :TOPICS: Catalytic Nanomaterials, Gas Sensing Technology and Materials, Materials for Electrochemical Supercapacitors
-:PUBLICATION_DATE: 2024-04-01
+:PUBLICATION_DATE: 2024-06-01
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jece.2024.112813")][Get bibtex entry]] 
@@ -175,7 +112,7 @@ Abstract Seawater electrolysis (SWE) is proposed to be a promising approach to g
 
 OpenAlex: https://openalex.org/W4394824330 (Open access: False)
     
-[[https://openalex.org/A5089949087][Haiyan Yang]], [[https://openalex.org/A5014094220][Yahui Zhou]], [[https://openalex.org/A5079640512][Xiaohua Cheng]], [[https://openalex.org/A5088956207][Bin Liu]], [[https://openalex.org/A5021687717][Xin Liu]], [[https://openalex.org/A5023918481][Bo Deng]], [[https://openalex.org/A5018020159][Shuai Peng]], [[https://openalex.org/A5086400574][Zijian Duan]], Journal of environmental chemical engineering. None(None)] 2024. https://doi.org/10.1016/j.jece.2024.112813 
+[[https://openalex.org/A5089949087][Haiyan Yang]], [[https://openalex.org/A5014094220][Yahui Zhou]], [[https://openalex.org/A5079640512][Xiaohua Cheng]], [[https://openalex.org/A5088956207][Bin Liu]], [[https://openalex.org/A5021687717][Xin Liu]], [[https://openalex.org/A5023918481][Bo Deng]], [[https://openalex.org/A5018020159][Shuai Peng]], [[https://openalex.org/A5086400574][Zijian Duan]], Journal of environmental chemical engineering. 12(3)] 2024. https://doi.org/10.1016/j.jece.2024.112813 
      
 δ-MnO2 catalysts have attracted much attention because of the abundance of oxygen vacancies (OVs) on the surface to achieve efficient catalytic oxidation of volatile organic compounds (VOCs) such as formaldehyde (HCHO). However, the recycling and regeneration of powdered δ-MnO2 nano-catalysts still limits the practical application of the catalysts. Here, the surface of aramid fiber (MPIA) was treated by corona activation to introduce reactive groups, such as -OH, and -COOH. These reactive groups can promote the exposure of more Mn3+ on the surface of loaded δ-MnO2 to produce OVs. Meanwhile, the strong interactions between the activated MPAI and δ-MnO2 was formed, which helped to improve the stability and cyclic regeneration of the fiber-based δ-MnO2 catalysts. The effects of Mn3+ and OVs on the catalytic performance of δ-MnO2 were targeted and characterized by SEM, XPS and BET. The pathways of HCHO removal by OVs on the δ-MnO2 surface and the relative free energies of the corresponding intermediates were also explored. The results revealed that optimizing the morphology of MPIA surface-loaded δ-MnO2 can obtain a higher concentration of oxygen vacancies, with excellent HCHO removal efficiency at room temperature and high catalytic activity even after multiple cycle regeneration.    
 
@@ -310,8 +247,8 @@ Electrochemical water splitting is an environmentally friendly technology for pr
 * Boosting photocatalytic overall water splitting performance by dual-metallic single Ni and Pd atoms decoration of MoS2: A DFT study  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394842098
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-04-01
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-07-01
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jallcom.2024.174530")][Get bibtex entry]] 
@@ -322,7 +259,7 @@ Electrochemical water splitting is an environmentally friendly technology for pr
 
 OpenAlex: https://openalex.org/W4394842098 (Open access: False)
     
-[[https://openalex.org/A5020347295][Jing Ma]], [[https://openalex.org/A5030462907][Xin Wang]], [[https://openalex.org/A5065859286][Hui Li]], [[https://openalex.org/A5044023540][Decai Yang]], [[https://openalex.org/A5029634246][Jia Fan]], [[https://openalex.org/A5060697699][Yingtao Liu]], Journal of alloys and compounds. None(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.174530 
+[[https://openalex.org/A5020347295][Jing Ma]], [[https://openalex.org/A5030462907][Xin Wang]], [[https://openalex.org/A5065859286][Hui Li]], [[https://openalex.org/A5044023540][Decai Yang]], [[https://openalex.org/A5029634246][Jia Fan]], [[https://openalex.org/A5060697699][Yingtao Liu]], Journal of alloys and compounds. 991(None)] 2024. https://doi.org/10.1016/j.jallcom.2024.174530 
      
 Herein, we propose a novel MoS2 supported single Ni and Pb atoms catalyst (Ni/Pd@MoS2), on which the enhanced efficiency of water splitting is confirmed by quantitative density functional theory (DFT) calculations. The Bader charge, electron density difference (EDD) and projected density of state (PDOS) analysis demonstrates that the moderate electron transfer is reached by the synergy of the Ni atom and the Pd atom. As extra channel for excited carrier migration, the present of defect states obviously prolongs the carrier lifetime (143.45 ps). The unique electronic environment contributes to the electronic synergy and spatially separated of the effective active sites, leading the oxygen evolution reaction (OER) and hydrogen evolution reaction (HER) happen smoothly on the Pd and S site, respectively. Our research presents a novel idea for the development of highly efficient diatomic catalysts towards overall water splitting.    
 
@@ -331,8 +268,8 @@ Herein, we propose a novel MoS2 supported single Ni and Pb atoms catalyst (Ni/Pd
 * Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4394846536
-:TOPICS: Advances in Lead-free Soldering for Microelectronics, Accelerating Materials Innovation through Informatics, Design and Applications of Intermetallic Alloys
-:PUBLICATION_DATE: 2024-04-01
+:TOPICS: Accelerating Materials Innovation through Informatics, Quantum Size Effects in Metallic Nanostructures, Advances in Lead-free Soldering for Microelectronics
+:PUBLICATION_DATE: 2024-05-01
 :END:    
     
 [[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.matdes.2024.112921")][Get bibtex entry]] 
@@ -343,7 +280,7 @@ Herein, we propose a novel MoS2 supported single Ni and Pb atoms catalyst (Ni/Pd
 
 OpenAlex: https://openalex.org/W4394846536 (Open access: True)
     
-[[https://openalex.org/A5086225546][Bin Cao]], [[https://openalex.org/A5070430982][Tianhao Su]], [[https://openalex.org/A5077832224][Shuting Yu]], [[https://openalex.org/A5070932307][Tianyuan Li]], [[https://openalex.org/A5015881083][Tianlong Zhang]], [[https://openalex.org/A5078608897][Jincang Zhang]], [[https://openalex.org/A5054484509][Zhong Dong]], [[https://openalex.org/A5008718537][Tong‐Yi Zhang]], Materials & design. None(None)] 2024. https://doi.org/10.1016/j.matdes.2024.112921 
+[[https://openalex.org/A5086225546][Bin Cao]], [[https://openalex.org/A5070430982][Tianhao Su]], [[https://openalex.org/A5077832224][Shuting Yu]], [[https://openalex.org/A5070932307][Tianyuan Li]], [[https://openalex.org/A5015881083][Tianlong Zhang]], [[https://openalex.org/A5078608897][Jincang Zhang]], [[https://openalex.org/A5054484509][Zhong Dong]], [[https://openalex.org/A5008718537][Tong‐Yi Zhang]], Materials & design. 241(None)] 2024. https://doi.org/10.1016/j.matdes.2024.112921 
      
 Developing new materials through traditional trial-and-error is time-consuming and costly due to the vast potential compositions to explore. Moreover, some desirable properties are mutually exclusive, presenting challenges for materials design. Herein, we employed an active learning strategy to address the strength-ductility trade-off in SAC105 lead-free solders. We developed two Gaussian regression models, one for strength and one for elongation representing ductility. The Gaussian Upper Confidence Boundary algorithm, a Bayesian optimization method, was used to balance exploitation and exploration by considering prediction uncertainty. The variance weight was designed to decay with adaptive iterations. The two models were linearly combined and the maximal combined model recommended alloys on the Pareto front for experiments. After just three iterations, a new 91.4Sn-1.0Ag-0.5Cu-1.5Bi-4.4In-0.2Ti low-silver SAC solder was discovered, exhibiting 73.94±5.05 MPa strength and 24.37±5.92% elongation, representing the best comprehensive mechanical properties. Weldability experiments also showed excellent performance. Based on Ab initio molecular dynamics, a precise machine learning potential revealed the alloying mechanism in Sn-In solid solutions with quantum accuracy in systems of over 103 atoms, closely matching experimental X-ray diffraction pattern. To facilitate materials informatics development, all active learning algorithms was made open-source in our designed framework, Bgolearn.    
 
@@ -1270,6 +1207,48 @@ OpenAlex: https://openalex.org/W4394963737 (Open access: False)
 [[https://openalex.org/A5095781101][Letícia Mara Vieira Ildefonso]], [[https://openalex.org/A5095781102][Erika Lira Buthers]], [[https://openalex.org/A5057140359][Bráulio S. Archanjo]], [[https://openalex.org/A5056192943][Cristiano Legnani]], [[https://openalex.org/A5045825861][Welber G. Quirino]], [[https://openalex.org/A5027345336][Daniel V. P. Massote]], [[https://openalex.org/A5091591123][Indhira O. Maciel]], [[https://openalex.org/A5021900800][Benjamin Fragneaud]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c00511 
      
 The investigation of defects in transition-metal dichalcogenides (TMDs) are of capital interest for future applications because they strongly change the optical, electronic, or vibrational properties of such materials. In this sense, spectroscopic techniques, such as Raman and photoluminescence, are powerful tools to investigate the optoelectronic properties of crystal defects in two-dimensional TMDs. In this work, we observed that defect-activated Raman modes and bound exciton emissions can be strongly correlated. Specifically, we investigated the impact that sulfur vacancies, produced by focused helium ion beam, have on the electronic and phononic properties of WS2 grown by chemical vapor deposition. The photoluminescence spectra show two new emission peaks related to defects in the crystal structure. The defective nature of these bands were corroborated by density functional theory calculations, which showed new electronic states in the band gap associated with sulfur vacancies. Furthermore, by monitoring the evolution of the Raman spectra as a function of the defect concentration, we observed two new defect activated modes. These bands are explained by a second-order double resonant Raman process, similar to the D band of graphene. Finally, we found out that the defect-related Raman peaks become fully resonant for high defect concentrations. It turns out that degenerate electronic states split in two separated levels for high defect concentrations that are involved in the resonance of the Raman processes.    
+
+    
+
+* Surface exsolved NiFeOx nanocatalyst for enhanced alkaline oxygen evolution catalysis  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394984906
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-04-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.160134")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394984906"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394984906"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394984906"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394984906 (Open access: False)
+    
+[[https://openalex.org/A5071787849][Hyerin Jeong]], [[https://openalex.org/A5015237054][Hyunwoo Jang]], [[https://openalex.org/A5040787356][Yo Han Kim]], [[https://openalex.org/A5015417010][Minwoo Kim]], [[https://openalex.org/A5017460659][Youngho Kang]], [[https://openalex.org/A5042879226][Jae‐ha Myung]], Applied surface science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.160134 
+     
+No abstract    
+
+    
+
+* Enhancing electrocatalytic hydrogen evolution of MoS2 enabled by electrochemical cation implantation for simultaneous surface-defect and phase engineering  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4394987326
+:TOPICS: Electrocatalysis for Energy Conversion, Thin-Film Solar Cell Technology, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-09-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apcatb.2024.124037")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394987326"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394987326"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394987326"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4394987326 (Open access: False)
+    
+[[https://openalex.org/A5072738354][Mun Kyoung Kim]], [[https://openalex.org/A5056583719][Bipin Lamichhane]], [[https://openalex.org/A5072693804][Baozhen Song]], [[https://openalex.org/A5048868759][Sunhyeong Kwon]], [[https://openalex.org/A5053056359][Benzhi Wang]], [[https://openalex.org/A5050750734][Shyam Kattel]], [[https://openalex.org/A5063991905][Ji Hoon Lee]], [[https://openalex.org/A5075662396][Hyung Mo Jeong]], Applied catalysis. B, Environmental. 352(None)] 2024. https://doi.org/10.1016/j.apcatb.2024.124037 
+     
+No abstract    
 
     
 

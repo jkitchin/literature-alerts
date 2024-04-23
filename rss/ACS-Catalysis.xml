@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 Apr 2024 01:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:04:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hydrogen Peroxide as an Ideal Electron Donor for Long-Lasting Fenton Chemistry: Strong Enhancement of Fe(III) Activity by Heteroatom-Doped Nanocarbons</title>
-      <link>https://doi.org/10.1021/acscatal.4c00048</link>
-      <description>Yiming Sun, Peng Zhou, Minglu Sun, Yuchen Zhang, Xiao Wang, Chenying Zhou, Yang Liu, Chuan-Shu He, Bo Lai, ACS catalysis. None(None)] 2024. https://openalex.org/W4394797401
-
-                Heteroatom doping has been demonstrated to be an effective strategy to improve the catalytic activity of carbon materials. Herein, heteroatom-doped nanocarbons were found to be environmental protection cocatalysts for promoting Fenton oxidation. Nitrogen-doped reduced graphene oxide (N-rGO) exhibited better catalytic activity than sulfur-, boron-, and phosphorus-doped rGO for enhancing Fenton oxidation. Unlike classical electron sacrificial agents, H2O2 was employed as an electron donor to enhance Fenton oxidation during the catalysis of N-rGO. Electrochemical analysis and nitrogen molecular model tests indicated the oxidation potential of Fe(III) increased with improvement in the N atom content (R2 = 0.97), revealing that the Fe atoms of FeOH2+ on the N-rGO surface are more likely to abstract electrons from H2O2. In addition, the delocalized &#960; electron is one of the active sites in N-rGO-boosted Fenton oxidation, and N-rGO could facilitate electron transfer from H2O2 to Fe(III) along the C&#8211;C/C&#9552;C structures due to the improvement of the conductivity ability and the oxidation potential of Fe(III). Moreover, density functional theory (DFT) calculations suggest that the pyrrole N species of N-rGO is the best catalytic activity site, resulting from the pyrrole N species with higher adsorption energy stretching the Fe&#8211;O bond of FeOH2+ to increase the activity of Fe(III) species. Therefore, the study findings provide insight into designing stable and efficient metal-free catalysts to enhance Fe(III) reactivity in overcoming the inherent drawbacks of the Fenton system.</description>
-      <author>Yiming Sun, Peng Zhou, Minglu Sun, Yuchen Zhang, Xiao Wang, Chenying Zhou, Yang Liu, Chuan-Shu He, Bo Lai</author>
-      <pubDate>Sun, 14 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00048</guid>
-    </item>
     <item>
       <title>Structural and Functional Analysis of Heparosan Synthase 2 from &lt;i&gt;Pasteurella multocida&lt;/i&gt; to Improve the Synthesis of Heparin</title>
       <link>https://doi.org/10.1021/acscatal.4c00677</link>
@@ -250,10 +240,10 @@
     <item>
       <title>Functional Enhancement of Flavin-Containing Monooxygenase through Machine Learning Methodology</title>
       <link>https://doi.org/10.1021/acscatal.4c00826</link>
-      <description>Takuma Matsushita, Shinji Kishimoto, Kodai Hara, Hiroshi Hashimoto, Hideki Yamaguchi, Yutaka Sait&#333;, Kenji Watanabe, ACS catalysis. None(None)] 2024. https://openalex.org/W4394907924
+      <description>Takuma Matsushita, Shinji Kishimoto, Kodai Hara, Hiroshi Hashimoto, Hideki Yamaguchi, Yutaka Sait&#244;, Kenji Watanabe, ACS catalysis. None(None)] 2024. https://openalex.org/W4394907924
 
                 Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.</description>
-      <author>Takuma Matsushita, Shinji Kishimoto, Kodai Hara, Hiroshi Hashimoto, Hideki Yamaguchi, Yutaka Sait&#333;, Kenji Watanabe</author>
+      <author>Takuma Matsushita, Shinji Kishimoto, Kodai Hara, Hiroshi Hashimoto, Hideki Yamaguchi, Yutaka Sait&#244;, Kenji Watanabe</author>
       <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00826</guid>
     </item>
