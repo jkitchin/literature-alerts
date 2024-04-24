@@ -1,31 +1,10 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue Apr 23 01:04:07 2024
+Created on Wed Apr 24 01:04:09 2024
 
-Found 2 results from 2024-04-16 to 2024-04-23
+Found 1 results from 2024-04-17 to 2024-04-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
-
-* Sulfurization-induced lattice disordering in high-entropy catalyst for promoted bifunctional electro-oxidation behavior  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394835914
-:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.151234")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394835914"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394835914"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394835914"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394835914 (Open access: False)
-    
-[[https://openalex.org/A5048379858][Jing Chen]], [[https://openalex.org/A5049410725][Kexin Wang]], [[https://openalex.org/A5086190765][Zimeng Liu]], [[https://openalex.org/A5071465160][Xin Sun]], [[https://openalex.org/A5038289908][Xiaodong Zhang]], [[https://openalex.org/A5030546694][Fengcai Lei]], [[https://openalex.org/A5041601823][Xiuyan Wan]], [[https://openalex.org/A5053761660][Junfeng Xie]], [[https://openalex.org/A5039028486][Bo Tang]], Chemical engineering journal. 489(None)] 2024. https://doi.org/10.1016/j.cej.2024.151234 
-     
-The electro-oxidation reactions (EORs) are key half reactions to achieve efficient hydrogen production via direct or assisted water electrolysis, and the development of bifunctional EOR catalysts could further broaden the field of utilization and thus realize simultaneous hydrogen production and wastewater treatment. In this work, we proposed a mild sulfurization approach to fabricate a high-entropy septenary NiCrFeCoCuMnZn sulfide catalyst with unique sulfurization-induced lattice disordering. The disordered lattice and high-entropy feature of the pre-oxidation-favorable sulfide catalyst synergistically lead to enriched active sites and improved intrinsic activity towards promoted activity for the oxygen evolution reaction (OER) and hydrazine oxidation reaction (HzOR). Dynamic analyses of the catalyst in EOR operation reveals that the enrichment of high-valence active species, increased surface roughness and the in-situ formed SO42- ions adsorbed on the surface of the activated catalyst could result in promoted catalytic kinetics, and thereby leading to significant enhancement of OER and HzOR activity without degradation during long-term catalysis. The exploration of the high-entropy lattice-disordered catalyst could promote the hydrogen production via direct and hydrazine-assisted water electrolysis, and the optimization strategies with synergy of phase engineering, lattice disordering and entropy modulation could guide the design of advanced catalysts for energy-related applications.    
-
-    
 
 * 2D Nanomaterials Based for Electrocatalytic Application  :high_entropy_oxides:
 :PROPERTIES:

@@ -1,131 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Apr 23 01:04:09 2024
+Created on Wed Apr 24 01:04:10 2024
 
-Found 44 results from 2024-04-16 to 2024-04-23
+Found 38 results from 2024-04-17 to 2024-04-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Structural and Functional Analysis of Heparosan Synthase 2 from Pasteurella multocida to Improve the Synthesis of Heparin   
-
-OpenAlex: https://openalex.org/W4394800995    
-Open access: False
-    
-[Eduardo Stancanelli](https://openalex.org/A5089389648), [J.M. Krahn](https://openalex.org/A5091539133), [Elizabeth Viverette](https://openalex.org/A5020705232), [Robert Dutcher](https://openalex.org/A5019789402), [Vijayakanth Pagadala](https://openalex.org/A5008760115), [Mario J. Borgnia](https://openalex.org/A5038092347), [Jian Liu](https://openalex.org/A5021426830), [Lars C. Pedersen](https://openalex.org/A5008923312), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00677.
-    
-Heparin is a widely used drug to treat thrombotic disorders in hospitals. Heparosan synthase 2 from Pasteurella multocida (PmHS2) is a key enzyme used for the chemoenzymatic synthesis of heparin oligosaccharides. It has both activities: glucosaminyl transferase activity and glucuronyl transferase activity; however, the mechanism to carry out the glyco-oligomerization is unknown. Here, we report crystal structures of PmHS2 constructs with bound uridine diphosphate (UDP) and a cryo-EM structure of PmHS2 in complex with UDP and a heptasaccharide (NS 7-mer) substrate. Using a liquid chromatography–mass spectrometry analytical method, we discovered that the enzyme displays both a two-step concerted oligomerization mode and a distributive oligomerization mode depending on the nonreducing end of the starting oligosaccharide primer. Removal of seven amino acid residues from the C-terminus results in an enzymatically active monomer instead of a dimer and loses the concerted oligomerization mode of activity. In addition, the monomer construct can transfer N-acetyl glucosamine at a substrate concentration that is ∼7-fold higher than a wildtype enzyme. It was also determined that an F529A mutant can transfer an N-sulfoglucosamine (GlcNS) saccharide from a previously inactive UDP-GlcNS donor. Performing the glyco-transfer reaction at a high substrate concentration and the capability of using unnatural donors are desirable to simplifying the chemoenzymatic synthesis to prepare heparin-based therapeutics.    
-
-    
-
-## Catalytic Dinitrogen Reduction to Silylamines by Molybdenum Nitride Complexes Bearing a Diphenolate N-Heterocyclic Carbene Ligand   
-
-OpenAlex: https://openalex.org/W4394804794    
-Open access: False
-    
-[Zhaoxin Li](https://openalex.org/A5060854826), [Chenrui Liu](https://openalex.org/A5004243344), [Jing An](https://openalex.org/A5035297011), [Xi Wu](https://openalex.org/A5013471192), [Shaowei Hu](https://openalex.org/A5088871411), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00307.
-    
-Despite substantial strides in the catalytic silylation of N2 employing phosphine-ligated transition metal complexes, further development has been impeded by the low reaction yields (based on reducing or silylating reagents). Here we present a series of Mo(VI) nitride complexes featuring a robust tridentate diphenolate N-heterocyclic carbene (OCO) ligand that serves as efficient catalysts for the reduction of N2 to silylamines, producing 57.3 equiv of tris(trimethylsilyl)amine with a yield of as high as 86%. Reductive silylation of Mo nitride complexes resulted in the isolation of a molybdenum silylimide intermediate. Our findings showed that the enhanced efficiency of the system could be ascribed to the high activity of catalysts and the suppression of side reactions, indicating that the OCO ligand plays a crucial role in stabilizing the Mo center across in high- and low-oxidation states in catalysis.    
-
-    
-
-## Palladium-Catalyzed Annulations via Sequential C–H Activations of C(sp2)–H/C(sp3)–H or C(sp3)–H/C(sp3)–H Bonds   
-
-OpenAlex: https://openalex.org/W4394809512    
-Open access: True
-    
-[Wan‐Xu Wei](https://openalex.org/A5033493148), [Mateusz Czajkowski](https://openalex.org/A5029770937), [Yangjin Kuang](https://openalex.org/A5043507347), [Tu-Anh V. Nguyen](https://openalex.org/A5011825967), [Bo Qin](https://openalex.org/A5030540576), [Martin Tomanik](https://openalex.org/A5001470938), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01243 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01243)).
-    
-Palladium-catalyzed C–H annulation reactions represent a compelling strategy to construct complex ring systems with high step economy. While there are many approaches to annulate structures by activation of a single C–H bond, transformations that proceed by activation of multiple C–H bonds are less explored. This is especially true for examples where one of the reacting C–H bonds is located at an sp3 center. However, exciting developments in palladium-catalyzed C–H activation continue to expand the scope of these transformations and provide innovative strategies to construct challenging carbon–carbon bonds. From these discoveries, sequential C–H activations have emerged as a powerful tool to access complex ring systems through the activation of C(sp2)–H/C(sp3)–H or C(sp3)–H/C(sp3)–H bonds. In this Perspective, we showcase recent examples that use this strategy in order to highlight the synthetic potential of C–H activation-enabled annulations and inspire future use of these disconnections for diverse scaffold synthesis.    
-
-    
-
-## Site-Selective Bimetallic Heterogeneous Nanostructures for Plasmon-Enhanced Photocatalysis of Nitrobenzene Hydrogenation   
-
-OpenAlex: https://openalex.org/W4394821192    
-Open access: False
-    
-[Yaqin Wang](https://openalex.org/A5029299515), [Jinjin Zheng](https://openalex.org/A5091347153), [Qi Liu](https://openalex.org/A5085028455), [Yuqiang Shi](https://openalex.org/A5009838803), [Huijie Liu](https://openalex.org/A5090613639), [Zheng Huang](https://openalex.org/A5033486450), [Jun Yi](https://openalex.org/A5078789709), [Ye Yang](https://openalex.org/A5006880897), [Qin Kuang](https://openalex.org/A5063820443), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00024.
-    
-Nitrobenzene hydrogenation, a critical pathway for synthesizing aniline, typically requires a high temperature and pressurized hydrogen for effective and selective reduction. It is of great significance to find a catalyst with a favorable reaction rate toward the selective hydrogenation of nitroaromatics. Herein, anisotropic Au–Pd tipped NPs were specially synthesized and found to exhibit efficient plasmon-enhanced hydrogenation of nitrobenzene to aniline. Under light, Au–Pd tipped NPs exhibited a TOF of 166 h–1 with high selectivity (>92%). Simulation results demonstrated that site-selective bimetallic heterogeneous nanostructures maintain a strong electromagnetic field, which further promotes the generation and transfer of energetic hot electrons for photocatalysis. Meanwhile, in situ X-ray photoelectron spectroscopy and quasi-in situ electron paramagnetic resonance revealed that the movement of hot electrons facilitates the enhanced participation of hot holes in the oxidation of the hydrogen donor. Our findings underscore that the rational design of bimetallic structures not only exposes rich active sites for incoming reactants but also prolongs the lifetime of hot carriers for efficient transfer and injection.    
-
-    
-
-## Nitrogen, Sulfur Co-doped Hollow Carbon-Encapsulated Cu/Co2P for Selective Oxidation Esterification of Furfurals   
-
-OpenAlex: https://openalex.org/W4394822901    
-Open access: False
-    
-[Yuanji Dong](https://openalex.org/A5027667185), [Xianhai Zeng](https://openalex.org/A5007294352), [Xiongxiong Zuo](https://openalex.org/A5058785364), [Jiaran Li](https://openalex.org/A5073122482), [Yu Jia](https://openalex.org/A5003350925), [Ge Zhang](https://openalex.org/A5005303316), [Junhua Kuang](https://openalex.org/A5069713206), [Işıl Akpınar](https://openalex.org/A5066467095), [Peng Li](https://openalex.org/A5029242069), [Xing Tang](https://openalex.org/A5083899530), [Jin‐Chao Dong](https://openalex.org/A5039771921), [Lin Liu](https://openalex.org/A5059884717), [Pengbo Lyu](https://openalex.org/A5078907574), [Shuliang Yang](https://openalex.org/A5042323150), [Jian‐Feng Li](https://openalex.org/A5038135164), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01035.
-    
-With the remarkable capability of encapsulating multifunctional active sites inside, carbon-based materials play vital roles in multifarious chemical transformations such as hydrogenation reactions, oxidation reactions, esterification reactions, etc. Herein, we propose an efficient and facile approach to construct a Cu/Co2P@C-NS catalyst, which consists of nitrogen–sulfur co-doped carbon (C-NS) encapsulated cobalt phosphide (Co2P) and copper double active sites. This approach focuses on the design and preparation of core–shell materials, that is, the ZIF-67 core is coated with an adhesive poly(cyclotriphosphazene-co-4,4′-sulfonyldiphenol) (PZS) polymer shell. The ZIF-67 core possesses a highly porous structure, coexistence of carbon and nitrogen elements, and uniform dispersion of Co species, making it an ideal template. The heteroatomic PZS polymer with decent coating ability makes it a promising coating material for creating core–shell structures. Additionally, nitrogen species in the PZS polymer could coordinate with Cu2+ to introduce extra Cu sites into the system. The Cu/Co2P@C-NS catalyst prepared from the pyrolysis of the precursor redistributes the surface charge of Co2P by additionally incorporating Cu, which effectively enhances substrate adsorption. As a result, the Cu/Co2P@C-NS catalyst demonstrates good catalytic performance in the oxidative esterification of furfuryl aldehydes. This study presents a reliable and straightforward method for preparing a non-noble-metal catalyst that exhibits high efficiency and activity in the one-pot oxidation and esterification of furfurals to methyl furoates.    
-
-    
-
-## Arginine Kinase Activates Arginine for Phosphorylation by Pyramidalization and Polarization   
-
-OpenAlex: https://openalex.org/W4394834991    
-Open access: True
-    
-[Fabio Falcioni](https://openalex.org/A5045450767), [Robert W. Molt](https://openalex.org/A5058696234), [Yi Jin](https://openalex.org/A5025936216), [Jonathan P. Waltho](https://openalex.org/A5039216518), [Sam Hay](https://openalex.org/A5059752371), [Nigel G. J. Richards](https://openalex.org/A5033047262), [G. Michael Blackburn](https://openalex.org/A5030862337), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00380 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00380)).
-    
-Arginine phosphorylation plays numerous roles throughout biology. Arginine kinase (AK) catalyzes the delivery of an anionic phosphoryl group (PO3–) from ATP to a planar, trigonal nitrogen in a guanidinium cation. Density functional theory (DFT) calculations have yielded a model of the transition state (TS) for the AK-catalyzed reaction. They reveal a network of over 50 hydrogen bonds that delivers unprecedented pyramidalization and out-of-plane polarization of the arginine guanidinium nitrogen (Nη2) and aligns the electron density on Nη2 with the scissile P–O bond, leading to in-line phosphoryl transfer via an associative mechanism. In the reverse reaction, the hydrogen-bonding network enforces the conformational distortion of a bound phosphoarginine substrate to increase the basicity of Nη2. This enables Nη2 protonation, which triggers PO3– migration to generate ATP. This polarization–pyramidalization of nitrogen in the arginine side chain is likely a general phenomenon that is exploited by many classes of enzymes mediating the post-translational modification of arginine.    
-
-    
-
-## Construction of Diazo Compounds via Catalytic [3 + 2] Annulation of Vinyldiazoacetates and Their Synthetic Applications   
-
-OpenAlex: https://openalex.org/W4394835029    
-Open access: False
-    
-[Ming Bao](https://openalex.org/A5034305271), [Diana Victoria Navarrete Carriola](https://openalex.org/A5028306574), [Daniel J. Wherritt](https://openalex.org/A5009053117), [Michael P. Doyle](https://openalex.org/A5058847615), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01291.
-    
-Highly selective formal [3 + 2]-cycloaddition of vinyldiazoacetates with quinone ketals and quinoneimine ketals has been accomplished at room temperature with catalytic amounts of the Brønsted acid triflimide, leading to highly functionalized diazoacetates in good yields. The vinyldiazonium ion generated by electrophilic addition to the vinylogous position of the reactant vinyldiazo compound is the key intermediate in this selective transformation. Both oximidovinyldiazoacetates and those with other vinyl substituents undergo cycloaddition reactions with quinone ketals whose products, after extended reaction times, undergo substrate-dependent 1,2-migration; catalysis by Rh2(OAc)4, HNTf2, and Sc(OTf)3 effects these 1,2-migrations to the same products. However, the products from HNTf2-catalyzed reactions between quinoneimine and oximidovinyldiazoacetates undergo Rh2(OAc)4-catalyzed 1,3-C–H insertion. 1,3-Difunctionalization products are obtained for electrophilic reactions of Eschenmoser's salt with selected vinyldiazoacetates, but with α-dibenzylaminomethyl ether, 1,6-hydride transfer reactions are observed with oximidovinyldiazoacetates.    
-
-    
-
-## Steric Effects on the Oxygen Reduction Reaction with Cobalt Porphyrin Atropisomers   
-
-OpenAlex: https://openalex.org/W4394835036    
-Open access: False
-    
-[Chang-Jiu Li](https://openalex.org/A5024693945), [Haonan Qin](https://openalex.org/A5032545858), [Yiping Xu](https://openalex.org/A5004269762), [Xinyang Peng](https://openalex.org/A5058975098), [Wei Zhang](https://openalex.org/A5020575254), [Rui Cao](https://openalex.org/A5023594276), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01295.
-    
-The steric effects on the oxygen reduction reaction (ORR) have been rarely studied because O2 is small in size and ORR catalysts with the only difference in steric hindrance are difficult to be designed and synthesized. Herein, we report on homogeneous ORR catalyzed by four Co porphyrin atropisomers in tetrahydrofuran with decamethylferrocene and HClO4 at 298 K. All four atropisomers are active and selective for the 2H+/2e– ORR with an activity order αααα > αααβ > ααββ > αβαβ. Kinetic studies revealed that the four atropisomers have the same ORR mechanism with proton-coupled O2 binding as the rate-determining step.    
-
-    
-
-## CsPbBr3 Perovskite Polyhedral Nanocrystal Photocatalysts for Decarboxylative Alkylation via Csp3–H Bond Activation of Unactivated Ethers   
-
-OpenAlex: https://openalex.org/W4394835419    
-Open access: False
-    
-[Soumya Mondal](https://openalex.org/A5089992231), [Souvik Banerjee](https://openalex.org/A5037269746), [Suman Bera](https://openalex.org/A5004653339), [Subal Mondal](https://openalex.org/A5025306777), [Siba P. Midya](https://openalex.org/A5049819018), [Rajkumar Jana](https://openalex.org/A5050504579), [Rakesh Kumar Behera](https://openalex.org/A5060178234), [Ayan Datta](https://openalex.org/A5068360992), [Narayan Pradhan](https://openalex.org/A5077141160), [Pradyut Ghosh](https://openalex.org/A5040559083), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01643.
-    
-Halide perovskite nanocrystals have recently emerged as high-performance light-harvesting materials. They are also extensively studied for the fabrication of both light-emitting and photovoltaic devices. In comparison, their implementation as photocatalysts to trigger different organic reactions is limited. To add more diversity in catalysis, herein, different shapes and heterostructures of CsPbBr3 perovskite polyhedral nanocrystals are explored for visible-light-mediated room temperature photocatalytic Csp3–H bond-activated alkylation of cyclic ether using feedstock α,β-unsaturated acids as the keto-alkyl source. It started with the decarboxylative coupling of cinnamic acid at the α-position of tetrahydrofuran (THF) and extended to several derivatives. The facets of nanocrystals matter, and hence, differently shaped nanocrystals showed variable rates of catalytic activities. With density functional theory calculation, the surface-adsorption-induced charge carrier transfer mechanism to facilitate such reactions is established. Different semiconductors and noble metal heterostructures that quenched the emission are also compared, and their inactiveness in catalysis was also correlated to the proposed mechanism. Combining all these observations, the roles of light, catalytic surfaces, oxygen, the nature of hosts, and coupling with other material heterostructures are analyzed in detail and reported. Such reactions with Csp3–H bond activation can lead to complex chemical scaffolds, unveiling an underexplored domain of heterogeneous photocatalytic organic reactions for Csp3–Csp3 cross-coupling.    
-
-    
-
-## Enantioselective Synthesis of Axially Chiral Diaryl Ethers through Chiral Phosphoric Acid-Catalyzed Desymmetric Acylation with Azlactones   
-
-OpenAlex: https://openalex.org/W4394836288    
-Open access: False
-    
-[Jiawei Xu](https://openalex.org/A5020281355), [Wei Lin](https://openalex.org/A5022328909), [Hanliang Zheng](https://openalex.org/A5019926319), [Xin Li](https://openalex.org/A5005815311), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01489.
-    
-C–O axially chiral diaryl ethers play important roles in natural products and bioactive molecules, but because of the low rotational barrier and strict steric hindrance requirements, the catalytic asymmetric construction of axially chiral diaryl ethers still remains a challenge. Herein, we devised a strategy employing achiral azlactone for the desymmetrization of prochiral diamines under the catalysis of chiral phosphoric acid. The targeted C–O axially chiral diaryl ethers were obtained in very good yields (up to 98%) and high enantioselectivities (up to >99.5:0.5 er). The synthetic utility was demonstrated through large-scale reaction and transformations of the products. Moreover, DFT calculations were conducted to probe the origins of enantioselectivity.    
-
-    
-
-## Catalytic Consequences of Protons in Methanol Oxidative Dehydrogenation on Molybdenum-Based Polyoxometalate Clusters   
-
-OpenAlex: https://openalex.org/W4394837492    
-Open access: False
-    
-[Gui‐Xin Cai](https://openalex.org/A5087791506), [Ya-Huei Cathy Chin](https://openalex.org/A5039229575), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00440.
-    
-This study unravels the catalytic effects of adjacent protons in redox catalysis of bifunctional Keggin-type phosphomolybdic acid clusters (H3PMo12O40). Isolated redox sites (O*) and Brønsted acid-redox site pairs (OH/O*) catalyze methanol oxidative dehydrogenation (ODH), a redox reaction, via the identical elementary steps and the formation of the kinetically relevant [HOCH2···H···O*]‡ and [OH···HOCH2···H···O*]‡ transition states, but with different kinetic requirements, established from selective site inactivation, product tracking, dynamic pyridine/2,6-di-tert-butylpyridine titrations, and kinetic assessments. The presence of adjacent protons interacts with and stabilizes the methanol precursor in the OH···HOCH2–H···O* adsorbed state through additional H-bonding interactions by 57 kJ mol–1 in adsorption enthalpy and by 144 J mol–1 K–1 in adsorption entropy. These additional interactions, stabilizing the [OH···HOCH2···H···O*]‡ transition state, lead to a decrease in apparent methanol activation enthalpy of 50 kJ mol–1 and in activation entropy of 97 J mol–1 K–1, resulting in an overall increase in methanol ODH turnovers. The kinetic consequences of protons established here enable the rationalization of the redox reactivity on bifunctional POM clusters and display a nontraditional confinement effect to stabilize transition state energies.    
-
-    
 
 ## Photocatalytic Regeneration of Reactive Cofactors with InP Quantum Dots for the Continuous Chemical Synthesis   
 
@@ -256,17 +135,6 @@ Open access: True
 [Sulin Jiao](https://openalex.org/A5082771845), [Kun Dai](https://openalex.org/A5023697086), [Lucas V. Besteiro](https://openalex.org/A5070469692), [Gao H](https://openalex.org/A5038694989), [Chuang Xuan](https://openalex.org/A5054889888), [Weichao Wang](https://openalex.org/A5004624473), [Yuan Zhang](https://openalex.org/A5065069775), [Chuntai Liu](https://openalex.org/A5047178915), [Ignacio Pérez‐Juste](https://openalex.org/A5029068307), [Jorge Pérez‐Juste](https://openalex.org/A5039188733), [Isabel Pastoriza‐Santos](https://openalex.org/A5017320817), [Guangchao Zheng](https://openalex.org/A5029572437), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06253 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06253)).
     
 Plasmonic photocatalysis demonstrates great potential for efficiently harnessing light energy. However, the underlying mechanisms remain enigmatic due to the transient nature of the reaction processes. Typically, plasmonic photocatalysis relies on the excitation of surface plasmon resonance (SPR) in plasmonic materials, such as metal nanoparticles, leading to the generation of high-energy or "hot electrons", albeit accompanied by photothermal heating or Joule effect. The ability of hot electrons to participate in chemical reactions is one of the key mechanisms, underlying the enhanced photocatalytic activity observed in plasmonic photocatalysis. Interestingly, surface-enhanced Raman scattering (SERS) spectroscopy allows the analysis of chemical reactions driven by hot electrons, as both SERS and hot electrons stem from the decay of SPR and occur at the hot spots. Herein, we propose a highly efficient SERS substrate based on cellulose paper loaded with either Ag nanoplates (Ag NPs) or AgPd hollow nanoplates (AgPd HNPs) for the in situ monitoring of C–C homocoupling reactions. The data analysis allowed us to disentangle the impact of hot electrons and the Joule effect on plasmon-enhanced photocatalysis. Computational simulations revealed an increase in the rate of excitation of hot carriers from single/isolated AgPd HNPs to an in-plane with a vertical stacking assembly, suggesting its promise as a photocatalyst under broadband light. In addition, the results suggest that the incorporation of Pd into an alloy with plasmonic properties may enhance its catalytic performance under light irradiation due to the collection of plasmon-excitation-induced hot electrons. This work has demonstrated the performance-oriented synthesis of hybrid nanostructures, providing a unique route to uncover the mechanism of plasmon-enhanced photocatalysis.    
-
-    
-
-## Functional Enhancement of Flavin-Containing Monooxygenase through Machine Learning Methodology   
-
-OpenAlex: https://openalex.org/W4394907924    
-Open access: False
-    
-[Takuma Matsushita](https://openalex.org/A5007561814), [Shinji Kishimoto](https://openalex.org/A5059879383), [Kodai Hara](https://openalex.org/A5090095604), [Hiroshi Hashimoto](https://openalex.org/A5075427398), [Hideki Yamaguchi](https://openalex.org/A5048937697), [Yutaka Saitô](https://openalex.org/A5076300103), [Kenji Watanabe](https://openalex.org/A5035244813), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00826.
-    
-Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
 
     
 
@@ -487,5 +355,71 @@ Open access: False
 [Yuting Jiang](https://openalex.org/A5057532203), [Qing Zhang](https://openalex.org/A5025851882), [Jiajia Qian](https://openalex.org/A5011770639), [Yameng Wang](https://openalex.org/A5016112203), [Yongbiao Mu](https://openalex.org/A5008002256), [Zhiyuan Zhang](https://openalex.org/A5053402281), [Zheng Li](https://openalex.org/A5060335470), [Tianshou Zhao](https://openalex.org/A5085086661), [Bilu Liu](https://openalex.org/A5068424935), [Lin Zeng](https://openalex.org/A5022926692), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05471.
     
 Nanosized intermetallic Pt-transition metal alloys with high catalytic activity and stability are considered as promising catalysts for the oxygen reduction reaction (ORR). However, the preparation of intermetallic Pt alloy nanoparticles remains a dilemma due to their pronounced tendency for sintering at high synthesizing temperatures. Here, we have synthesized several Pt intermetallics with an average size of 4 nm by employing carbon-supported Pt–-pyrrole complex and transition metal (TM = Fe, Co, Ni) salts as precursors. Transmission electron microscope (TEM) results indicate that not only the uniform pregrowth of the Pt–pyrrole complex onto the carbon support but also the subsequently derived N-doped carbon shells (<1 nm) on the nanoparticles during annealing contribute to the formation of the nanosized intermetallics. Additional characterization suggests that the intermetallic alloy structure endows the catalyst (PtCo@Pt/C-6) with a downshifted Pt d-band center, which implies the weakened adsorption of the ORR intermediates on the Pt alloy, thus facilitating the ORR kinetics. The fuel cell with the as-prepared PtCo@Pt/C-6 catalyst displays a rated peak power density of 1.1 W/cm2 at 0.67 V (H2/air) and a mass activity of 0.49 A/mgPt at 0.9 V, exceeding the targets of the US Department of Energy (1.0 W/cm2 and 0.44 A/mgPt, respectively). This method demonstrates great potentials for the scalable synthesis of PtTM/C catalysts with high ORR performance and promoting their applications in PEMFCs.    
+
+    
+
+## Functional Enhancement of Flavin-Containing Monooxygenase through Machine Learning Methodology   
+
+OpenAlex: https://openalex.org/W4394907924    
+Open access: False
+    
+[Takuma Matsushita](https://openalex.org/A5007561814), [Shinji Kishimoto](https://openalex.org/A5059879383), [Kodai Hara](https://openalex.org/A5090095604), [Hiroshi Hashimoto](https://openalex.org/A5075427398), [Hideki Yamaguchi](https://openalex.org/A5048937697), [Yutaka Saitω](https://openalex.org/A5076300103), [Kenji Watanabe](https://openalex.org/A5035244813), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00826.
+    
+Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
+
+    
+
+## Enhancing the Imine Reductase Activity of a Promiscuous Glucose Dehydrogenase for Scalable Manufacturing of a Chiral Neprilysin Inhibitor Precursor   
+
+OpenAlex: https://openalex.org/W4394996413    
+Open access: False
+    
+[Yang Xiang](https://openalex.org/A5034348483), [Florian Kleinbeck](https://openalex.org/A5038342709), [Charlene Ching](https://openalex.org/A5012553136), [Lorita Boghospor](https://openalex.org/A5095829057), [Shaiany Sabrina Lopes Gomes](https://openalex.org/A5051684032), [Oscar Alvizo](https://openalex.org/A5078461356), [Thomas Allmendinger](https://openalex.org/A5047905474), [Jason S. Fell](https://openalex.org/A5005360671), [Nandhitha Subramanian](https://openalex.org/A5050627661), [Michelle Li](https://openalex.org/A5082199987), [Ravi Garcia](https://openalex.org/A5064470458), [James N. Riggins](https://openalex.org/A5091039069), [David A. Entwistle](https://openalex.org/A5080990349), [Yvonne Richter](https://openalex.org/A5078100589), [Daniel A. Gschwend](https://openalex.org/A5029415379), [Liam Lauener](https://openalex.org/A5095829056), [T.S. Peat](https://openalex.org/A5018005926), [Hélène Lebhar](https://openalex.org/A5026207221), [Thierry Schlama](https://openalex.org/A5007682869), [Thomas Ruch](https://openalex.org/A5077097670), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05615.
+    
+Imine reductases (IREDs) have been identified as an important class of biocatalysts to synthesize chiral amines with substantial promise for industrial application. Here, we report the promiscuous imine reductase activity of a glucose dehydrogenase (GDH). Starting from enzyme GDH Rd1bb, a commercial glucose dehydrogenase variant typically used for NAD(P)H regeneration, eight rounds of directed evolution were used to convert this enzyme into a highly active IRED for the chemo- and stereoselective manufacture of a chiral neprilysin inhibitor precursor, improved NADH cofactor specificity, and superior thermal stability. The evolved variant GDH Rd6bb achieved high productivity, with 99% conversion over 3 h at 50 g/L keto substrate concentration and 10% enzyme loading with respect to the keto substrate. Early process development studies at multigram scale provided the product in 94% yield with >99% purity as a single stereoisomer with an er of >99.9:0.1 and a dr of >99.9:0.1.    
+
+    
+
+## Multifunctional Glucose Dehydrogenase Enabled Synthesis of Chiral-Bridged Bicyclic Nitrogen Heterocycles   
+
+OpenAlex: https://openalex.org/W4394997118    
+Open access: False
+    
+[Guangde Jiang](https://openalex.org/A5058112632), [J. Lu](https://openalex.org/A5056183755), [Megan Zhou](https://openalex.org/A5086707099), [Wesley Harrison](https://openalex.org/A5057920936), [Huimin Zhao](https://openalex.org/A5014465828), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00825.
+    
+Herein, we report that enzymatic cascade reactions using a glucose dehydrogenase (GDH) and an ene-reductase (ERED) can be utilized for the synthesis of chiral 3-substituted cyclic alcohols and chiral-bridged bicyclic nitrogen heterocycles. The crucial step in these cascade reactions is a kinetic resolution reaction by the multifunctional GDH mutant BsGDH_Q252K. This reaction selectively reduces the R-enantiomers of racemic ketone substrates, yielding enantiopure alcohols with high enantiomeric excess (ee) values of the remaining S-enantiomers. When the reaction is coupled with an ERED-promoted dehydrocyclization reaction, chiral-bridged bicyclic nitrogen heterocycles with a configuration of (1S, 5R) can be conveniently synthesized in one pot. Meanwhile, the chiral alcohol products generated from the kinetic resolution reactions can be further converted to the R-enantiomers of the racemic ketone substrates through the cyclohexanol dehydrogenase activity of BsGDH_Q252K when coupled with an NAD(P)H oxidase. When the oxidase is replaced by an ERED, chiral-bridged bicyclic nitrogen heterocycles with a configuration of (1R, 5S) can also be efficiently synthesized in one pot. Mechanistic studies revealed key amino acid residues in BsGDH_Q252K for the kinetic resolution reaction. Subsequent rational design of BmGDH, a homolog of BsGDH, yielded can also enable a quintuple mutant capable of performing this reaction, while the wild type BmGDH cannot.    
+
+    
+
+## Overcoming Pd Catalyst Deactivation in the C–H Coupling of Tryptophan Residues in Water Using Air as the Oxidant   
+
+OpenAlex: https://openalex.org/W4394997156    
+Open access: True
+    
+[Igor Beckers](https://openalex.org/A5087931439), [Christophe Vos](https://openalex.org/A5022695991), [Hendrik Van Dessel](https://openalex.org/A5009295415), [A Lauwers](https://openalex.org/A5064330488), [Wouter Stuyck](https://openalex.org/A5030896411), [Oleg A. Usoltsev](https://openalex.org/A5004923425), [Alina A. Skorynina](https://openalex.org/A5038742958), [Aram L. Bugaev](https://openalex.org/A5041768941), [Dirk De Vos](https://openalex.org/A5077238999), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01699 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01699)).
+    
+No abstract    
+
+    
+
+## Influence of Water on the Catalytic Oxidation of Ethane on IrO2(110)   
+
+OpenAlex: https://openalex.org/W4394997366    
+Open access: False
+    
+[Jovenal Jamir](https://openalex.org/A5087317159), [Connor Pope](https://openalex.org/A5006390334), [S. Ramasubramanian](https://openalex.org/A5077547495), [Vikram Mehar](https://openalex.org/A5055611152), [Junjie Shi](https://openalex.org/A5058633059), [Jason F. Weaver](https://openalex.org/A5010210029), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00956.
+    
+No abstract    
+
+    
+
+## Highly Efficient Layered Double Hydroxide-Derived Bimetallic Cu–Co Alloy Catalysts for the Reverse Water–Gas Shift Reaction   
+
+OpenAlex: https://openalex.org/W4395003169    
+Open access: False
+    
+[Kwang Young Kim](https://openalex.org/A5077401920), [Wonsik Jang](https://openalex.org/A5076755615), [Woo‐Jin Byun](https://openalex.org/A5086825154), [Jun-Young Lee](https://openalex.org/A5000627464), [Miri Kim](https://openalex.org/A5040284400), [Ju Hyeong Lee](https://openalex.org/A5030105303), [Geun Bae Rhim](https://openalex.org/A5044574588), [Myung-Joong Youn](https://openalex.org/A5089059117), [Dong Hyun Chun](https://openalex.org/A5059351725), [Seok Ki Kim](https://openalex.org/A5066671677), [Seungho Cho](https://openalex.org/A5004903584), [Jin Ho Lee](https://openalex.org/A5010021409), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01249.
+    
+Bimetallic alloy catalysts with finely controlled composition and atomic mixing of the two active metals are vital for maximizing their synergistic effect in enhancing catalytic performances. Herein, we report the design and synthetic strategy of bimetallic Cu–Co alloy catalysts well dispersed on Al2O3 from a CuCoAl-layered double hydroxide (LDH) for boosting the reverse water–gas shift (RWGS) performance by controlling the composition and textural properties of Cu–Co alloy particles. An optimized Cu9Co1/Al2O3 catalyst exhibits a remarkably high CO2 to CO conversion rate (∼0.247 mol h–1 gcat–1) with ∼99.4% of CO selectivity at a relatively low reaction temperature of 400 °C, which outperforms a monometallic Cu/Al2O3 catalyst and a reference Cu9Co1/Al2O3 catalyst prepared by a conventional impregnation method. A combined experimental and theoretical study reveals that the superior activity of the Cu9Co1/Al2O3 catalyst is attributed to two factors: (i) a modified electronic structure due to the Cu–Co alloy formation that facilitates CO2 activation and CO desorption and (ii) formation of well-dispersed alloy nanoparticles by using LDHs as the catalyst precursors.    
 
     

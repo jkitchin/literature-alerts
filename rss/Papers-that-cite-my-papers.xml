@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 23 Apr 2024 01:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 01:04:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Four Generations of Volcano Plots for the Oxygen Evolution Reaction: Beyond Proton-Coupled Electron Transfer Steps?</title>
-      <link>https://doi.org/10.1021/acs.accounts.4c00048</link>
-      <description>Kai S. Exner, Accounts of chemical research. None(None)] 2024. https://openalex.org/W4394800474
-
-                ConspectusDue to its importance for electrolyzers or metal-air batteries for energy conversion or storage, there is huge interest in the development of high-performance materials for the oxygen evolution reaction (OER). Theoretical investigations have aided the search for active material motifs through the construction of volcano plots for the kinetically sluggish OER, which involves the transfer of four proton-electron pairs to form a single oxygen molecule. The theory-driven volcano approach has gained unprecedented popularity in the catalysis and energy communities, largely due to its simplicity, as adsorption free energies can be used to approximate the electrocatalytic activity by heuristic descriptors.In the last two decades, the binding-energy-based volcano method has witnessed a renaissance with special concepts being developed to incorporate missing factors into the analysis. To this end, this Account summarizes and discusses the different generations of volcano plots for the example of the OER. While first-generation methods relied on the assessment of the thermodynamic information for the OER reaction intermediates by means of scaling relations, the second and third generations developed strategies to include overpotential and kinetic effects into the analysis of activity trends. Finally, the fourth generation of volcano approaches allowed the incorporation of various mechanistic pathways into the volcano methodology, thus paving the path toward data- and mechanistic-driven volcano plots in electrocatalysis.Although the concept of volcano plots has been significantly expanded in recent years, further research activities are discussed by challenging one of the main paradigms of the volcano concept. To date, the evaluation of activity trends relies on the assumption of proton-coupled electron transfer steps (CPET), even though there is experimental evidence of sequential proton-electron transfer (SPET) steps. While the computational assessment of SPET for solid-state electrodes is ambitious, it is strongly suggested to comprehend their importance in energy conversion and storage processes, including the OER. This can be achieved by knowledge transfer from homogeneous to heterogeneous electrocatalysis and by focusing on the material class of single-atom catalysts in which the active center is well defined. The derived concept of how to analyze the importance of SPET for mechanistic pathways in the OER over solid-state electrodes could further shape our understanding of the proton-electron transfer steps at electrified solid/liquid interfaces, which is crucial for further progress toward sustainable energy and climate neutrality.</description>
-      <author>Kai S. Exner</author>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.accounts.4c00048</guid>
-    </item>
-    <item>
-      <title>Unraveling the Molecular Mechanism of H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production on Au&#8211;Pd Nanoalloy Surfaces</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00545</link>
-      <description>Wei Liu, Liliang Tian, Le Shi, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4394819310
-
-                Oxygen reduction reaction (ORR) can proceed along two distinct pathways: the 4-electron pathway and the 2-electron pathway. The 4-electron pathway holds significant value in fuel cell technology, whereas the 2-electron pathway plays a crucial role in the industrial production of H2O2. Accurate prediction of the catalytic selectivity in the ORR stands as a pivotal factor in designing effective catalyst materials. It has been experimentally demonstrated that Au&#8211;Pd nanoalloy exhibit a high selectivity toward electrocatalytic H2O2 production. However, based on the widely employed computational hydrogen electrode method, the production of H2O on the surface of Au&#8211;Pd nanoalloy is more thermodynamically favorable, which shows a discrepancy with experimental results. In this work, we systematically investigate the influence of aqueous environment as well as electrode potential toward the ORR employing state-of-the-art ab initio molecular dynamics and metadynamics simulations. Our work reveals that the water molecules above the Au&#8211;Pd nanoalloy surface can alter the adsorption behavior of O2 and weaken the interaction between metal atom in the catalyst and oxygen atom in O2, therefore contributing to a high selectivity of Au&#8211;Pd nanoalloy toward H2O2 production. With a more negative electrode potential, the stability of H2O2 will decrease, and the corresponding selectivity will be lowered. These discoveries provide a dynamic perspective elucidating efficient H2O2 production on Au&#8211;Pd nanoalloy surfaces. Furthermore, they underscore the paramount significance of both the aqueous environment and electrode potential in shaping the ORR process.</description>
-      <author>Wei Liu, Liliang Tian, Le Shi</author>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00545</guid>
-    </item>
-    <item>
-      <title>From Synthesis Conditions to UiO-66 Properties: Machine Learning Approach</title>
-      <link>https://doi.org/10.1021/acs.chemmater.3c03180</link>
-      <description>Kirill P. Larionov, Vasiliy Yu. Evtushok, Chemistry of materials. None(None)] 2024. https://openalex.org/W4394822516
-
-                This study delves into understanding the relationship between synthesis conditions and the resulting properties of the Zr-based metal&#8211;organic framework (MOF) UiO-66, with an emphasis on machine learning (ML) in making quantitative predictions. Utilizing a comprehensive, manually curated data set, three ML models are trained to predict UiO-66 properties, including specific surface area, defect concentration, and particle size, based on synthesis parameters. A solution to the inverse problem, which involves finding optimal synthesis conditions for given properties using the method of differential evolution, has been implemented in the software. Experimental validation of models through synthesis and detailed characterization of UiO-66 samples and comparison with the predicted properties show a high accuracy, confirming their reliability. Interpretation of the ML models using Shapley additive explanation values and two-dimensional (2D) partial dependence plots reveals both previously known patterns, validating the adequacy of the models, and new, previously unexplored patterns in the relationships between the synthesis conditions and UiO-66 properties. The developed models can be used as a basis for further research on MOF synthesis. This approach can be applied to the rational design of UiO-66 for various applications.</description>
-      <author>Kirill P. Larionov, Vasiliy Yu. Evtushok</author>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.3c03180</guid>
-    </item>
-    <item>
-      <title>Self&#8208;Powered Hydrogen Production From Seawater Enabled by Trifunctional Exfoliated PtTe Nanosheet Catalysts</title>
-      <link>https://doi.org/10.1002/adfm.202403099</link>
-      <description>Zhipeng Yu, Gianluca D&#8217;Olimpio, Haoliang Huang, Chia&#8208;Nung Kuo, Chin Shan Lue, Giuseppe Nicotra, Fang Lin, Danil W. Boukhvalov, Antonio Politano, Lifeng Liu, Advanced functional materials. None(None)] 2024. https://openalex.org/W4394822803
-
-                Abstract Seawater electrolysis (SWE) is proposed to be a promising approach to green hydrogen (H 2 ) production but its large&#8208;scale deployment faces challenges because of the anodic competing chlorine evolution reaction (CER) and high energy consumption. To address these challenges, innovative hybrid SWE systems have recently emerged, able to mitigate the interference of CER and substantially reduce the electrical energy needed. Herein, the preparation of 2D layered PtTe nanosheets (e&#8208;PtTe NSs) using the liquid&#8208;phase exfoliation method is reported, which show outstanding electrocatalytic performance for the hydrogen evolution (HER), hydrazine oxidation (HzOR), and oxygen reduction reactions (ORR) in seawater. Using e&#8208;PtTe NSs as trifunctional catalysts, two hybrid SWE systems are demonstrated: 1) a hydrazine&#8208;assisted acid&#8208;alkaline dual&#8208;electrolyte seawater electrolyzer enabled by a bipolar membrane (BPM&#8208;OHzSWE), which can simultaneously produce H 2 and generate electricity through harvesting the electrochemical neutralization energy and leveraging the advantage of the HzOR over the oxygen evolution reaction (OER) in terms of anodic potentials; 2) a hydrazine&#8208;assisted SWE system powered by a direct hydrazine fuel cell (DHzFC), which can realize self&#8208;powered H 2 production. These novel hybrid SWE systems show substantial promise for energy&#8208;saving and cost&#8208;effective production of H 2 from seawater.</description>
-      <author>Zhipeng Yu, Gianluca D&#8217;Olimpio, Haoliang Huang, Chia&#8208;Nung Kuo, Chin Shan Lue, Giuseppe Nicotra, Fang Lin, Danil W. Boukhvalov, Antonio Politano, Lifeng Liu</author>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202403099</guid>
-    </item>
-    <item>
-      <title>Preparation of MnO2@MPIA catalysts with a controlled oxygen vacancy for the efficient catalytic oxidation of formaldehyde at room temperature</title>
-      <link>https://doi.org/10.1016/j.jece.2024.112813</link>
-      <description>Haiyan Yang, Yahui Zhou, Xiaohua Cheng, Bin Liu, Xin Liu, Bo Deng, Shuai Peng, Zijian Duan, Journal of environmental chemical engineering. 12(3)] 2024. https://openalex.org/W4394824330
-
-                &#948;-MnO2 catalysts have attracted much attention because of the abundance of oxygen vacancies (OVs) on the surface to achieve efficient catalytic oxidation of volatile organic compounds (VOCs) such as formaldehyde (HCHO). However, the recycling and regeneration of powdered &#948;-MnO2 nano-catalysts still limits the practical application of the catalysts. Here, the surface of aramid fiber (MPIA) was treated by corona activation to introduce reactive groups, such as -OH, and -COOH. These reactive groups can promote the exposure of more Mn3+ on the surface of loaded &#948;-MnO2 to produce OVs. Meanwhile, the strong interactions between the activated MPAI and &#948;-MnO2 was formed, which helped to improve the stability and cyclic regeneration of the fiber-based &#948;-MnO2 catalysts. The effects of Mn3+ and OVs on the catalytic performance of &#948;-MnO2 were targeted and characterized by SEM, XPS and BET. The pathways of HCHO removal by OVs on the &#948;-MnO2 surface and the relative free energies of the corresponding intermediates were also explored. The results revealed that optimizing the morphology of MPIA surface-loaded &#948;-MnO2 can obtain a higher concentration of oxygen vacancies, with excellent HCHO removal efficiency at room temperature and high catalytic activity even after multiple cycle regeneration.</description>
-      <author>Haiyan Yang, Yahui Zhou, Xiaohua Cheng, Bin Liu, Xin Liu, Bo Deng, Shuai Peng, Zijian Duan</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.112813</guid>
-    </item>
-    <item>
-      <title>Orbital modulation in platinum-group-metal (PGM) electrocatalysts: An effective approach to boost catalytic performance</title>
-      <link>https://doi.org/10.1016/j.esci.2024.100270</link>
-      <description>Xuan Liu, Gang Wu, Qing Li, eScience. None(None)] 2024. https://openalex.org/W4394824531
-
-                No abstract</description>
-      <author>Xuan Liu, Gang Wu, Qing Li</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.esci.2024.100270</guid>
-    </item>
-    <item>
-      <title>Optimizing hydrogen evolution reaction: Computational screening of single metal atom impurities in 2D MXene Nb4C3O2</title>
-      <link>https://doi.org/10.1007/s11467-024-1392-9</link>
-      <description>&#381;eljko &#352;ljivan&#269;anin, Frontiers of Physics. 19(5)] 2024. https://openalex.org/W4394832342
-
-                No abstract</description>
-      <author>&#381;eljko &#352;ljivan&#269;anin</author>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11467-024-1392-9</guid>
-    </item>
-    <item>
-      <title>Oxygen Electroreduction Reaction on Iron, Nitrogen-doped Nanocarbons: Structure &#8211; Reactivity Relationship</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114123</link>
-      <description>Anton V. Kuzmin, B. &#1040;. Shainyan, Molecular catalysis. 560(None)] 2024. https://openalex.org/W4394835166
-
-                Theoretical calculations at the revPBE0-D3(PCM)/def2-TZVP level were performed to investigate the mechanism of the oxygen reduction reaction (ORR) on the FeN4-doped NCMs (graphene, single-walled (6,6)-armchair and (12,0)-zigzag carbon nanotubes) as catalysts. The effect of the support and relative orientation of FeN4 fragment in the catalyst structure on the ORR activity and stability of the differently adsorbed successive intermediates (O2*, HO2*, O*, HO*, H2O2*, H2O*) is discussed. Special attention is given to the possible poisoning effect of CO. The relative catalytic activity of the metal center and the adjacent C2 site of the carbon support are analyzed depending on the structure of the support. The metal catalytic center on the armchair nanotube and graphene supports is prone to deactivation by poisoning with CO, whereas in the zigzag nanotube supported catalyst the metal center is tolerant to CO. The four-electron mechanism of ORR is shown to be preferable over the two-electron mechanism in both acidic and alkaline media, both on the metal and C2 centers.</description>
-      <author>Anton V. Kuzmin, B. &#1040;. Shainyan</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114123</guid>
-    </item>
-    <item>
-      <title>Review and bibliometric analysis of AI-driven advancements in healthcare</title>
-      <link>https://doi.org/10.35118/apjmbb.2024.032.2.10</link>
-      <description>Yi Jie Wang, Wei Chong Choo, Keng Yap Ng, Asia-Pacific journal of molecular biology and biotechnology/Asia Pacific Journal of Molecular Biology and Biotechnology. None(None)] 2024. https://openalex.org/W4394835750
-
-                Purpose: This research intends to use literature review and bibliometric analysis methods to visually review the development status and important historical milestones of Artificial Intelligence, as well as the basic research, key topics, and future potential research hot spots of AI in the healthcare field. Methodology: Conduct in-depth analysis of AI in healthcare through bibliometrics methods such as publication activity analysis, co-occurrence analysis, and co-authorship analysis. Findings: This study outlines the development time trajectory of AI technology and its application in healthcare. Research shows that "algorithm", "machine learning", "deep learning", "controlled study", "major clinical study" and "healthcare delivery" as well as "decision support systems" are key topics for research. Gender-related research and ethical issues are areas of future focus. Research implications: The practical significance is that it can clarify and optimize the key directions of AI to improve the quality of medical decision-making, improve diagnostic accuracy and guide market investment. The originality is reflected in the comprehensive analysis of the development trajectory of AI in the medical and health field. Through a unique perspective and systematic approach, it provides an important reference for research trends and future directions in the field.</description>
-      <author>Yi Jie Wang, Wei Chong Choo, Keng Yap Ng</author>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.35118/apjmbb.2024.032.2.10</guid>
-    </item>
     <item>
       <title>Ce-Doped NiSe Nanosheets on Carbon Cloth for Electrochemical Water-Splitting</title>
       <link>https://doi.org/10.1021/acsanm.4c01607</link>
@@ -316,16 +226,6 @@
       <author>Yuqing Jia, Y. J. Li, Qiong Zhang, Sohail Yasin, Xinqian Zheng, Kai Ma, Hua Zhong, Jianfeng Shi, Chaohua Gu, Yuhai Dou, Shi Xue Dou</author>
       <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cey2.528</guid>
-    </item>
-    <item>
-      <title>Unveiling synergy of strain and ligand effects in metallic aerogel for electrocatalytic polyethylene terephthalate upcycling</title>
-      <link>https://doi.org/10.1073/pnas.2318853121</link>
-      <description>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang, Proceedings of the National Academy of Sciences of the United States of America. 121(17)] 2024. https://openalex.org/W4394892556
-
-                Recently, there has been a notable surge in interest regarding reclaiming valuable chemicals from waste plastics. However, the energy-intensive conventional thermal catalysis does not align with the concept of sustainable development. Herein, we report a sustainable electrocatalytic approach allowing the selective synthesis of glycolic acid (GA) from waste polyethylene terephthalate (PET) over a Pd 67 Ag 33 alloy catalyst under ambient conditions. Notably, Pd 67 Ag 33 delivers a high mass activity of 9.7 A mg Pd &#8722;1 for ethylene glycol oxidation reaction (EGOR) and GA Faradaic efficiency of 92.7 %, representing the most active catalyst for selective GA synthesis. In situ experiments and computational simulations uncover that ligand effect induced by Ag incorporation enhances the GA selectivity by facilitating carbonyl intermediates desorption, while the lattice mismatch-triggered tensile strain optimizes the adsorption of *OH species to boost reaction kinetics. This work unveils the synergistic of strain and ligand effect in alloy catalyst and provides guidance for the design of future catalysts for PET upcycling. We further investigate the versatility of Pd 67 Ag 33 catalyst on CO 2 reduction reaction (CO 2 RR) and assemble EGOR//CO 2 RR integrated electrolyzer, presenting a pioneering demonstration for reforming waste carbon resource (i.e., PET and CO 2 ) into high-value chemicals.</description>
-      <author>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang</author>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2318853121</guid>
     </item>
     <item>
       <title>Evaluating electrocatalytic activities of Pt, Pd, Au and Ag-based catalyst on PEMFC performance: A review</title>
@@ -548,16 +448,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202402966</guid>
     </item>
     <item>
-      <title>Techno-Economic and Environmental Impact of Biomass Co-Firing with Carbon Capture and Storage in Indonesian Power Plants</title>
-      <link>https://doi.org/10.3390/su16083423</link>
-      <description>Mujammil Asdhiyoga Rahmanta, Almas Aprilana, Ruly Bayu Sitanggang, Nur Cahyo, Tiva Winahyu Dwi Hapsari, Eko Supriyanto, Sustainability. 16(8)] 2024. https://openalex.org/W4394962739
-
-                This research aims to analyze the techno-economic and environmental aspects of retrofitting carbon capture and storage (CCS) technology on the existing 330 MWe pulverized coal (PC) power plant. Modeling simulations on existing PC and retrofitting PC CCS with variations in biomass co-firing (wood pellet) were carried out using the Integrated Environment Control Model (IECM) version 11.5 software. An amine-based post-combustion capture was used in this study. Coal and biomass co-firing at PC CCS reduce the net power output and thermal efficiency. Carbon neutrality occurs at 10% biomass co-firing on PC CCS. There was a 164% increase in the levelized cost of electricity (LCOE), from 0.0487 USD/kWh on PC to 0.1287 USD/kWh on PC CCS. A sensitivity analysis of fuel prices shows that at a fuel price of 25 USD/t, the LCOE of PC CCS is 0.0953 USD/kWh or higher than Indonesia&#8217;s national weighted LCOE of 0.0705 USD/kWh. The LCOE of PC CCS can be lower than the national weighted LCOE when the carbon price is higher than 80 USD/t CO2.</description>
-      <author>Mujammil Asdhiyoga Rahmanta, Almas Aprilana, Ruly Bayu Sitanggang, Nur Cahyo, Tiva Winahyu Dwi Hapsari, Eko Supriyanto</author>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16083423</guid>
-    </item>
-    <item>
       <title>High-performance Bi2S3/ZnO photoanode enabled by interfacial engineering with oxyanion for efficient photoelectrochemical water oxidation</title>
       <link>https://doi.org/10.1007/s12274-024-6653-y</link>
       <description>Ying-Chu Chen, Hsiang-Yu Jui, Yichen Feng, Yong Lu, Yu&#8208;Kuei Hsu, Nano research. None(None)] 2024. https://openalex.org/W4394962932
@@ -566,16 +456,6 @@
       <author>Ying-Chu Chen, Hsiang-Yu Jui, Yichen Feng, Yong Lu, Yu&#8208;Kuei Hsu</author>
       <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6653-y</guid>
-    </item>
-    <item>
-      <title>Study of Punctual Defects in Monolayer WS&lt;sub&gt;2&lt;/sub&gt;: Evidence of Correlations Between Raman and Photoluminescence Spectroscopy</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00511</link>
-      <description>Let&#237;cia Mara Vieira Ildefonso, Erika Lira Buthers, Br&#225;ulio S. Archanjo, Cristiano Legnani, Welber G. Quirino, Daniel V. P. Massote, Indhira O. Maciel, Benjamin Fragneaud, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4394963737
-
-                The investigation of defects in transition-metal dichalcogenides (TMDs) are of capital interest for future applications because they strongly change the optical, electronic, or vibrational properties of such materials. In this sense, spectroscopic techniques, such as Raman and photoluminescence, are powerful tools to investigate the optoelectronic properties of crystal defects in two-dimensional TMDs. In this work, we observed that defect-activated Raman modes and bound exciton emissions can be strongly correlated. Specifically, we investigated the impact that sulfur vacancies, produced by focused helium ion beam, have on the electronic and phononic properties of WS2 grown by chemical vapor deposition. The photoluminescence spectra show two new emission peaks related to defects in the crystal structure. The defective nature of these bands were corroborated by density functional theory calculations, which showed new electronic states in the band gap associated with sulfur vacancies. Furthermore, by monitoring the evolution of the Raman spectra as a function of the defect concentration, we observed two new defect activated modes. These bands are explained by a second-order double resonant Raman process, similar to the D band of graphene. Finally, we found out that the defect-related Raman peaks become fully resonant for high defect concentrations. It turns out that degenerate electronic states split in two separated levels for high defect concentrations that are involved in the resonance of the Raman processes.</description>
-      <author>Let&#237;cia Mara Vieira Ildefonso, Erika Lira Buthers, Br&#225;ulio S. Archanjo, Cristiano Legnani, Welber G. Quirino, Daniel V. P. Massote, Indhira O. Maciel, Benjamin Fragneaud</author>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00511</guid>
     </item>
     <item>
       <title>Surface exsolved NiFeOx nanocatalyst for enhanced alkaline oxygen evolution catalysis</title>
@@ -596,6 +476,96 @@
       <author>Mun Kyoung Kim, Bipin Lamichhane, Baozhen Song, Sunhyeong Kwon, Benzhi Wang, Shyam Kattel, Ji Hoon Lee, Hyung Mo Jeong</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124037</guid>
+    </item>
+    <item>
+      <title>Unveiling synergy of strain and ligand effects in metallic aerogel for electrocatalytic polyethylene terephthalate upcycling</title>
+      <link>https://doi.org/10.1073/pnas.2318853121</link>
+      <description>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang, Proceedings of the National Academy of Sciences of the United States of America. 121(17)] 2024. https://openalex.org/W4394892556
+
+                Recently, there has been a notable surge in interest regarding reclaiming valuable chemicals from waste plastics. However, the energy-intensive conventional thermal catalysis does not align with the concept of sustainable development. Herein, we report a sustainable electrocatalytic approach allowing the selective synthesis of glycolic acid (GA) from waste polyethylene terephthalate (PET) over a Pd 67 Ag 33 alloy catalyst under ambient conditions. Notably, Pd 67 Ag 33 delivers a high mass activity of 9.7 A mg Pd &#8722;1 for ethylene glycol oxidation reaction (EGOR) and GA Faradaic efficiency of 92.7 %, representing the most active catalyst for selective GA synthesis. In situ experiments and computational simulations uncover that ligand effect induced by Ag incorporation enhances the GA selectivity by facilitating carbonyl intermediates desorption, while the lattice mismatch-triggered tensile strain optimizes the adsorption of *OH species to boost reaction kinetics. This work unveils the synergistic of strain and ligand effect in alloy catalyst and provides guidance for the design of future catalysts for PET upcycling. We further investigate the versatility of Pd 67 Ag 33 catalyst on CO 2 reduction reaction (CO 2 RR) and assemble EGOR//CO 2 RR integrated electrolyzer, presenting a pioneering demonstration for reforming waste carbon resource (i.e., PET and CO 2 ) into high-value chemicals.</description>
+      <author>J.T. Chen, Fangzhou Zhang, Min Kuang, Li Wang, Huaping Wang, Wei Li, Jianping Yang</author>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2318853121</guid>
+    </item>
+    <item>
+      <title>Techno-Economic and Environmental Impact of Biomass Co-Firing with Carbon Capture and Storage in Indonesian Power Plants</title>
+      <link>https://doi.org/10.3390/su16083423</link>
+      <description>Mujammil Asdhiyoga Rahmanta, Almas Aprilana, Ruly Bayu Sitanggang, Nur Cahyo, Tiva Winahyu Dwi Hapsari, Eko Supriyanto, Sustainability. 16(8)] 2024. https://openalex.org/W4394962739
+
+                This research aims to analyze the techno-economic and environmental aspects of retrofitting carbon capture and storage (CCS) technology on the existing 330 MWe pulverized coal (PC) power plant. Modeling simulations on existing PC and retrofitting PC CCS with variations in biomass co-firing (wood pellet) were carried out using the Integrated Environment Control Model (IECM) version 11.5 software. An amine-based post-combustion capture was used in this study. Coal and biomass co-firing at PC CCS reduce the net power output and thermal efficiency. Carbon neutrality occurs at 10% biomass co-firing on PC CCS. There was a 164% increase in the levelized cost of electricity (LCOE), from 0.0487 USD/kWh on PC to 0.1287 USD/kWh on PC CCS. A sensitivity analysis of fuel prices shows that at a fuel price of 25 USD/t, the LCOE of PC CCS is 0.0953 USD/kWh or higher than Indonesia&#8217;s national weighted LCOE of 0.0705 USD/kWh. The LCOE of PC CCS can be lower than the national weighted LCOE when the carbon price is higher than 80 USD/t CO2.</description>
+      <author>Mujammil Asdhiyoga Rahmanta, Almas Aprilana, Ruly Bayu Sitanggang, Nur Cahyo, Tiva Winahyu Dwi Hapsari, Eko Supriyanto</author>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16083423</guid>
+    </item>
+    <item>
+      <title>Study of Punctual Defects in Monolayer WS&lt;sub&gt;2&lt;/sub&gt;: Evidence of Correlations Between Raman and Photoluminescence Spectroscopy</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c00511</link>
+      <description>Let&#237;cia Mara Vieira Ildefonso, Erika Lira Buthers, Br&#225;ulio S. Archanjo, Cristiano Legnani, Welber G. Quirino, Daniel V. P. Massote, Indhira O. Maciel, Benjamin Fragneaud, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4394963737
+
+                The investigation of defects in transition-metal dichalcogenides (TMDs) are of capital interest for future applications because they strongly change the optical, electronic, or vibrational properties of such materials. In this sense, spectroscopic techniques, such as Raman and photoluminescence, are powerful tools to investigate the optoelectronic properties of crystal defects in two-dimensional TMDs. In this work, we observed that defect-activated Raman modes and bound exciton emissions can be strongly correlated. Specifically, we investigated the impact that sulfur vacancies, produced by focused helium ion beam, have on the electronic and phononic properties of WS2 grown by chemical vapor deposition. The photoluminescence spectra show two new emission peaks related to defects in the crystal structure. The defective nature of these bands were corroborated by density functional theory calculations, which showed new electronic states in the band gap associated with sulfur vacancies. Furthermore, by monitoring the evolution of the Raman spectra as a function of the defect concentration, we observed two new defect activated modes. These bands are explained by a second-order double resonant Raman process, similar to the D band of graphene. Finally, we found out that the defect-related Raman peaks become fully resonant for high defect concentrations. It turns out that degenerate electronic states split in two separated levels for high defect concentrations that are involved in the resonance of the Raman processes.</description>
+      <author>Let&#237;cia Mara Vieira Ildefonso, Erika Lira Buthers, Br&#225;ulio S. Archanjo, Cristiano Legnani, Welber G. Quirino, Daniel V. P. Massote, Indhira O. Maciel, Benjamin Fragneaud</author>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00511</guid>
+    </item>
+    <item>
+      <title>Photocatalytic H2 generation and CO2 reduction by WB5-x cocatalyst of TiO2 catalyst</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160095</link>
+      <description>Anna Yu. Kurenkova, Aleksandra D. Radina, V. S. Baidyshev, Pavel Povalyaev, Egor E. Aidakov, E. Yu. Gerasimov, Denis D. Mishchenko, Angelina V. Zhurenok, A. Ya. Pak, Ekaterina A. Kozlova, Alexander G. Kvashnin, Applied surface science. 661(None)] 2024. https://openalex.org/W4394992243
+
+                No abstract</description>
+      <author>Anna Yu. Kurenkova, Aleksandra D. Radina, V. S. Baidyshev, Pavel Povalyaev, Egor E. Aidakov, E. Yu. Gerasimov, Denis D. Mishchenko, Angelina V. Zhurenok, A. Ya. Pak, Ekaterina A. Kozlova, Alexander G. Kvashnin</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160095</guid>
+    </item>
+    <item>
+      <title>Towards atom-level understanding of metal oxide catalysts for the oxygen evolution reaction with machine learning</title>
+      <link>https://doi.org/10.1038/s41524-024-01273-y</link>
+      <description>Jaclyn R. Lunger, Jessica Karaguesian, Hoje Chun, Jiayu Peng, Yitong Tseo, Chunhui Shan, Byungchan Han, Yang Shao&#8208;Horn, Rafael G&#243;mez&#8208;Bombarelli, npj computational materials. 10(1)] 2024. https://openalex.org/W4394996236
+
+                Abstract Green hydrogen production is crucial for a sustainable future, but current catalysts for the oxygen evolution reaction (OER) suffer from slow kinetics, despite many efforts to produce optimal designs, particularly through the calculation of descriptors for activity. In this study, we develop a dataset of density functional theory calculations of bulk and surface perovskite oxides, and adsorption energies of OER intermediates, which includes compositions up to quaternary and facets up to (555). We demonstrate that per-site properties of perovskite oxides such as Bader charge or band center can be tuned through element substitution and faceting, and develop a machine learning model that accurately predicts these properties directly from the local chemical environment. We leverage these per-site properties to identify promising perovskites with high theoretical OER activity. The identified design principles and promising materials provide a roadmap for closing the gap between current artificial catalysts and biological enzymes such as photosystem II.</description>
+      <author>Jaclyn R. Lunger, Jessica Karaguesian, Hoje Chun, Jiayu Peng, Yitong Tseo, Chunhui Shan, Byungchan Han, Yang Shao&#8208;Horn, Rafael G&#243;mez&#8208;Bombarelli</author>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01273-y</guid>
+    </item>
+    <item>
+      <title>Efficient OER catalysis on Ir-doped Co3O4: Understanding Double and Quadruple Oxygen Coupling Mechanisms on Bimetallic sites</title>
+      <link>https://doi.org/10.1007/s10562-024-04683-1</link>
+      <description>Zheheng Jiang, Xu Wang, Yaping Li, Xiaoming Sun, Catalysis letters. None(None)] 2024. https://openalex.org/W4394996745
+
+                No abstract</description>
+      <author>Zheheng Jiang, Xu Wang, Yaping Li, Xiaoming Sun</author>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10562-024-04683-1</guid>
+    </item>
+    <item>
+      <title>Sulfur Doping Triggers Charge Redistribution at the Heterointerface of Fe-N-C Supported Ultralow-Pt-loading Electrocatalysts for Efficient Oxygen Reduction</title>
+      <link>https://doi.org/10.1016/j.colsurfa.2024.134055</link>
+      <description>Qian Liu, Chenye Zhang, Ming&#8208;Xun Ren, Jinyi Wang, Li Feng, Yixuan Wang, Chuang Liu, Ningru Xiao, Haiming Zhang, Colloids and surfaces. A, Physicochemical and engineering aspects. None(None)] 2024. https://openalex.org/W4394997719
+
+                No abstract</description>
+      <author>Qian Liu, Chenye Zhang, Ming&#8208;Xun Ren, Jinyi Wang, Li Feng, Yixuan Wang, Chuang Liu, Ningru Xiao, Haiming Zhang</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.colsurfa.2024.134055</guid>
+    </item>
+    <item>
+      <title>Local CO2 reservoir layer promotes rapid and selective electrochemical CO2 reduction</title>
+      <link>https://doi.org/10.1038/s41467-024-47498-9</link>
+      <description>Subhabrata Mukhopadhyay, Muhammad Saad Naeem, G. Shiva Shanker, Arnab Ghatak, Alagar Raja Kottaichamy, Ran Shimoni, Liat Avram, Itamar Liberman, Rotem Balilty, Raya Ifraemov, Illya Rozenberg, Menny Shalom, N&#250;ria L&#243;pez, Idan Hod, Nature communications. 15(1)] 2024. https://openalex.org/W4395001584
+
+                Abstract Electrochemical CO 2 reduction reaction in aqueous electrolytes is a promising route to produce added-value chemicals and decrease carbon emissions. However, even in Gas-Diffusion Electrode devices, low aqueous CO 2 solubility limits catalysis rate and selectivity. Here, we demonstrate that when assembled over a heterogeneous electrocatalyst, a film of nitrile-modified Metal-Organic Framework (MOF) acts as a remarkable CO 2 -solvation layer that increases its local concentration by ~27-fold compared to bulk electrolyte, reaching 0.82 M. When mounted on a Bi catalyst in a Gas Diffusion Electrode, the MOF drastically improves CO 2 -to-HCOOH conversion, reaching above 90% selectivity and partial HCOOH currents of 166 mA/cm 2 (at &#8722;0.9 V vs RHE). The MOF also facilitates catalysis through stabilization of reaction intermediates, as identified by operando infrared spectroscopy and Density Functional Theory. Hence, the presented strategy provides new molecular means to enhance heterogeneous electrochemical CO 2 reduction reaction, leading it closer to the requirements for practical implementation.</description>
+      <author>Subhabrata Mukhopadhyay, Muhammad Saad Naeem, G. Shiva Shanker, Arnab Ghatak, Alagar Raja Kottaichamy, Ran Shimoni, Liat Avram, Itamar Liberman, Rotem Balilty, Raya Ifraemov, Illya Rozenberg, Menny Shalom, N&#250;ria L&#243;pez, Idan Hod</author>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-47498-9</guid>
+    </item>
+    <item>
+      <title>The mechanism of water oxidation using transition metal-based heterogeneous electrocatalysts</title>
+      <link>https://doi.org/10.1039/d3cs01031g</link>
+      <description>Shujiao Yang, Xiaohan Liu, Siqi Li, Wanming Yuan, Luna Yang, Ting Wang, Haoquan Zheng, Rui Cao, Wei Zhang, Chemical Society reviews. None(None)] 2024. https://openalex.org/W4395003921
+
+                The water oxidation reaction, a crucial process for solar energy conversion, has garnered significant research attention. Achieving efficient energy conversion requires the development of cost-effective and durable water oxidation catalysts. To design effective catalysts, it is essential to have a fundamental understanding of the reaction mechanisms. This review presents a comprehensive overview of recent advancements in the understanding of the mechanisms of water oxidation using transition metal-based heterogeneous electrocatalysts, including Mn, Fe, Co, Ni, and Cu-based catalysts. It highlights the catalytic mechanisms of different transition metals and emphasizes the importance of monitoring of key intermediates to explore the reaction pathway. In addition, advanced techniques for physical characterization of water oxidation intermediates are also introduced, for the purpose of providing information for establishing reliable methodologies in water oxidation research. The study of transition metal-based water oxidation electrocatalysts is instrumental in providing novel insights into understanding both natural and artificial energy conversion processes.</description>
+      <author>Shujiao Yang, Xiaohan Liu, Siqi Li, Wanming Yuan, Luna Yang, Ting Wang, Haoquan Zheng, Rui Cao, Wei Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cs01031g</guid>
     </item>
     <item>
       <title>Struktura ionno-molekulyarnykh kompleksov H+(H2O)n dlya n = 2 &#8722; 6 i termodinamicheskie kharakteristiki gidratatsii protonov v gazovoy srede</title>
@@ -636,6 +606,16 @@
       <author>&#1040;. &#1042;. &#1044;&#1086;&#1083;&#1075;&#1072;&#1085;&#1086;&#1074;, &#1051;. &#1040;. &#1050;&#1083;&#1080;&#1084;&#1072;&#1077;&#1074;&#1072;, &#1045;. &#1045;. &#1052;&#1091;&#1088;&#1102;&#1084;&#1080;&#1085;, &#1057;. &#1043;. &#1050;&#1086;&#1089;&#1090;&#1088;&#1102;&#1082;&#1086;&#1074;, &#1040;. &#1064;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;, &#1054;. &#1042;. &#1058;&#1072;&#1088;&#1072;&#1089;&#1086;&#1074;&#1072;, &#1040;. &#1042;. &#1050;&#1085;&#1103;&#1079;&#1077;&#1074;</author>
       <pubDate>Sun, 01 Oct 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.31857/s0044453723100060</guid>
+    </item>
+    <item>
+      <title>EFFECT OF HEAT TREATMENT ON THE STRUCTURE AND FUNCTIONAL CHARACTERISTICS OF A PtCo/C CATALYST</title>
+      <link>https://doi.org/10.31857/s0424857023120083</link>
+      <description>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, N. V. Toporkov, A. Yu. Nikulin, &#200;lektrohimi&#226;. 59(12)] 2023. https://openalex.org/W4395003648
+
+                The PtCo/C electrocatalyst obtained by the method of simultaneous reduction of metal precursors using sodium borohydride was treated at a temperature of 350 &#730;C in an argon atmosphere for 1 hour. The results of X-ray phase analysis and transmission electron microscopy indicate an increase in the average size of crystallites and the formation of nanoparticle agglomerates after heat treatment. The shift in the reflection of Pt (111) after treatment indicates the possible segregation of metal components during the heating of the sample. An increase in the catalyst activity after heat treatment is shown, both mass activity and specific activity. The stability of the sample after heat treatment, according to the results of the stress test in the potential range of 0.6&#8211;1.4 V, showed a higher value than the material in the &#8220;as prepared&#8221; state.</description>
+      <author>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, N. V. Toporkov, A. Yu. Nikulin</author>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31857/s0424857023120083</guid>
     </item>
     <item>
       <title>Green, cost-effective synthesis of NiMnO3 nanoparticles and their use in supercapacitor and photodegradation applications</title>
