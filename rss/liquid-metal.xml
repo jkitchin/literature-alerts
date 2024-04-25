@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Apr 2024 01:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 01:05:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Galvanic Replacement Synthesis of VO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;@EGaIn&#8211;PEG Core&#8211;Shell Nanohybrids for Peroxidase Mimics</title>
-      <link>https://doi.org/10.1021/acsami.4c02213</link>
-      <description>Xiaojian Xu, Yanchun Shen, Rui Xing, Jie Kong, Rongxin Su, Renliang Huang, Wei Qi, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4394856785
-
-                The development of high-performance biosensors is a key focus in the nanozyme field, but the current limitations in biocompatibility and recyclability hinder their broader applications. Herein, we address these challenges by constructing core&#8211;shell nanohybrids with biocompatible poly(ethylene glycol) (PEG) modification using a galvanic replacement reaction between orthovanadate ions and liquid metal (LM) (VOx@EGaIn-PEG). By leveraging the excellent charge transfer properties and the low band gap of the LM surface oxide, the VOx@EGaIn-PEG heterojunction can effectively convert hydrogen peroxide into hydroxyl radicals, demonstrating excellent peroxidase-like activity and stability (Km = 490 &#956;M, vmax = 1.206 &#956;M/s). The unique self-healing characteristics of LM further enable the recovery and regeneration of VOx@EGaIn-PEG nanozymes, thereby significantly reducing the cost of biological detection. Building upon this, we developed a nanozyme colorimetric sensor suitable for biological systems and integrated it with a smartphone to create an efficient quantitative detection platform. This platform allows for the convenient and sensitive detection of glucose in serum samples, exhibiting a good linear relationship in the range of 10&#8211;500 &#956;M and a detection limit of 2.35 &#956;M. The remarkable catalytic potential of LM, combined with its biocompatibility and regenerative properties, offers valuable insights for applications in catalysis and biomedical fields.</description>
-      <author>Xiaojian Xu, Yanchun Shen, Rui Xing, Jie Kong, Rongxin Su, Renliang Huang, Wei Qi</author>
-      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c02213</guid>
-    </item>
   </channel>
 </rss>

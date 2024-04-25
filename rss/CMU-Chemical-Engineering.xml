@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 24 Apr 2024 01:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 01:05:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,6 +26,26 @@
       <author>Serena Omo&#8208;Lamai, Yufei Wang, Mita Patel, Eno&#8208;Obong Essien, Mengwen Shen, A. K. Majumder, Carolann Espy, Jichuan Wu, Breana Channer, Michael P. Tobin, Shruthi Murali, Tyler E. Papp, Rhea Maheshwari, Liuqian Wang, Lucas G. Chase, Marco Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Peter J. Gaskill, Dennis E. Discher, Hamideh Parhiz, Jacob S. Brenner</author>
       <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1101/2024.04.16.589801</guid>
+    </item>
+    <item>
+      <title>Optimization of CO2 capture plants with surrogate model uncertainties</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2024.108709</link>
+      <description>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4395033023
+
+                No abstract</description>
+      <author>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108709</guid>
+    </item>
+    <item>
+      <title>Editorial: Mechanobiology of biofilms and associated host -pathogen interactions</title>
+      <link>https://doi.org/10.3389/fcimb.2024.1416131</link>
+      <description>Tagbo H. R. Niepa, Landon W. Locke, Timothy E. Corcoran, Janet Lee, Frontiers in cellular and infection microbiology. 14(None)] 2024. https://openalex.org/W4395045737
+
+                No abstract</description>
+      <author>Tagbo H. R. Niepa, Landon W. Locke, Timothy E. Corcoran, Janet Lee</author>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fcimb.2024.1416131</guid>
     </item>
   </channel>
 </rss>

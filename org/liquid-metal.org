@@ -1,28 +1,8 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Wed Apr 24 01:04:08 2024
+Created on Thu Apr 25 01:05:38 2024
 
-Found 1 results from 2024-04-17 to 2024-04-24
+Found 0 results from 2024-04-18 to 2024-04-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
 
-* Galvanic Replacement Synthesis of VOx@EGaIn–PEG Core–Shell Nanohybrids for Peroxidase Mimics  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394856785
-:TOPICS: Nanomaterials with Enzyme-Like Characteristics, Electrochemical Biosensor Technology, DNA Nanotechnology and Bioanalytical Applications
-:PUBLICATION_DATE: 2024-04-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c02213")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394856785"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394856785"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394856785"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394856785 (Open access: False)
-    
-[[https://openalex.org/A5067189884][Xiaojian Xu]], [[https://openalex.org/A5089223615][Yanchun Shen]], [[https://openalex.org/A5007510662][Rui Xing]], [[https://openalex.org/A5033568110][Jie Kong]], [[https://openalex.org/A5050124317][Rongxin Su]], [[https://openalex.org/A5059124969][Renliang Huang]], [[https://openalex.org/A5071933793][Wei Qi]], ACS applied materials & interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c02213 
-     
-The development of high-performance biosensors is a key focus in the nanozyme field, but the current limitations in biocompatibility and recyclability hinder their broader applications. Herein, we address these challenges by constructing core–shell nanohybrids with biocompatible poly(ethylene glycol) (PEG) modification using a galvanic replacement reaction between orthovanadate ions and liquid metal (LM) (VOx@EGaIn-PEG). By leveraging the excellent charge transfer properties and the low band gap of the LM surface oxide, the VOx@EGaIn-PEG heterojunction can effectively convert hydrogen peroxide into hydroxyl radicals, demonstrating excellent peroxidase-like activity and stability (Km = 490 μM, vmax = 1.206 μM/s). The unique self-healing characteristics of LM further enable the recovery and regeneration of VOx@EGaIn-PEG nanozymes, thereby significantly reducing the cost of biological detection. Building upon this, we developed a nanozyme colorimetric sensor suitable for biological systems and integrated it with a smartphone to create an efficient quantitative detection platform. This platform allows for the convenient and sensitive detection of glucose in serum samples, exhibiting a good linear relationship in the range of 10–500 μM and a detection limit of 2.35 μM. The remarkable catalytic potential of LM, combined with its biocompatibility and regenerative properties, offers valuable insights for applications in catalysis and biomedical fields.    
-
-    
