@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu Apr 25 01:05:41 2024
+Created on Fri Apr 26 01:03:15 2024
 
-Found 40 results from 2024-04-18 to 2024-04-25
+Found 38 results from 2024-04-19 to 2024-04-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Water-Mediated Photocatalytic Coproduction of Diesel Fuel Additives and Hydrogen from Dimethyl Ether  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394869098
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-04-17
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01132")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394869098"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394869098"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394869098"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394869098 (Open access: False)
-    
-[[https://openalex.org/A5010933182][Shiyang Liu]], [[https://openalex.org/A5056836615][Yike Huang]], [[https://openalex.org/A5029421795][Nengchao Luo]], [[https://openalex.org/A5057209439][Jian Zhang]], [[https://openalex.org/A5050056700][Botao Qiao]], [[https://openalex.org/A5005440152][Feng Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01132 
-     
-Dimethyl ether (DME) coupling via prior C–H bond scission affords H2 and long-chain oxygenates that can be used as diesel fuel additives. However, the C–H bond of DME is recalcitrant, requiring activation by oxidants for subsequent C–C bond coupling, and overoxidation to CO2 by nonselective oxidants is inevitable. Here, by establishing a channel for hole transfer from the Pt/TiO2 photocatalyst to DME, the C–H bond of DME is broken, affording H2 and diesel fuel additives consisting of glycol dimethyl ether (GDE) and oligomers. Adsorbed water on Pt/TiO2 fosters hole transfer by forming hydrogen bonds with both Pt/TiO2 surface and DME. Because of the hydrogen bonding, photogenerated holes are extracted from Pt/TiO2 by water and eventually transferred to DME. As a result, the productivities of the diesel fuel and H2 are increased by 8.7 and 12.4 folds, respectively. This work provides a route to produce two kinds of fuels from an abundant feedstock.    
-
-    
-
-* Differentiating Plasmon-Enhanced Chemical Reactions on AgPd Hollow Nanoplates through Surface-Enhanced Raman Spectroscopy  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394890917
-:TOPICS: Plasmonic Nanoparticles: Synthesis, Properties, and Applications, Formation and Properties of Nanocrystals and Nanostructures, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-04-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06253")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394890917"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394890917"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394890917"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394890917 (Open access: True)
-    
-[[https://openalex.org/A5082771845][Sulin Jiao]], [[https://openalex.org/A5023697086][Kun Dai]], [[https://openalex.org/A5070469692][Lucas V. Besteiro]], [[https://openalex.org/A5038694989][Gao H]], [[https://openalex.org/A5054889888][Chuang Xuan]], [[https://openalex.org/A5004624473][Weichao Wang]], [[https://openalex.org/A5065069775][Yuan Zhang]], [[https://openalex.org/A5047178915][Chuntai Liu]], [[https://openalex.org/A5029068307][Ignacio Pérez‐Juste]], [[https://openalex.org/A5039188733][Jorge Pérez‐Juste]], [[https://openalex.org/A5017320817][Isabel Pastoriza‐Santos]], [[https://openalex.org/A5029572437][Guangchao Zheng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06253  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06253][pdf]])
-     
-Plasmonic photocatalysis demonstrates great potential for efficiently harnessing light energy. However, the underlying mechanisms remain enigmatic due to the transient nature of the reaction processes. Typically, plasmonic photocatalysis relies on the excitation of surface plasmon resonance (SPR) in plasmonic materials, such as metal nanoparticles, leading to the generation of high-energy or "hot electrons", albeit accompanied by photothermal heating or Joule effect. The ability of hot electrons to participate in chemical reactions is one of the key mechanisms, underlying the enhanced photocatalytic activity observed in plasmonic photocatalysis. Interestingly, surface-enhanced Raman scattering (SERS) spectroscopy allows the analysis of chemical reactions driven by hot electrons, as both SERS and hot electrons stem from the decay of SPR and occur at the hot spots. Herein, we propose a highly efficient SERS substrate based on cellulose paper loaded with either Ag nanoplates (Ag NPs) or AgPd hollow nanoplates (AgPd HNPs) for the in situ monitoring of C–C homocoupling reactions. The data analysis allowed us to disentangle the impact of hot electrons and the Joule effect on plasmon-enhanced photocatalysis. Computational simulations revealed an increase in the rate of excitation of hot carriers from single/isolated AgPd HNPs to an in-plane with a vertical stacking assembly, suggesting its promise as a photocatalyst under broadband light. In addition, the results suggest that the incorporation of Pd into an alloy with plasmonic properties may enhance its catalytic performance under light irradiation due to the collection of plasmon-excitation-induced hot electrons. This work has demonstrated the performance-oriented synthesis of hybrid nanostructures, providing a unique route to uncover the mechanism of plasmon-enhanced photocatalysis.    
-
-    
 
 * Unraveling Two Pathways for Electrocatalytic Acetonitrile Reduction  :ACS_Catalysis:
 :PROPERTIES:
@@ -483,7 +441,7 @@ Nanosized intermetallic Pt-transition metal alloys with high catalytic activity 
 
 OpenAlex: https://openalex.org/W4394907924 (Open access: False)
     
-[[https://openalex.org/A5007561814][Takuma Matsushita]], [[https://openalex.org/A5059879383][Shinji Kishimoto]], [[https://openalex.org/A5090095604][Kodai Hara]], [[https://openalex.org/A5075427398][Hiroshi Hashimoto]], [[https://openalex.org/A5048937697][Hideki Yamaguchi]], [[https://openalex.org/A5076300103][Yutaka Saitω]], [[https://openalex.org/A5035244813][Kenji Watanabe]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00826 
+[[https://openalex.org/A5007561814][Takuma Matsushita]], [[https://openalex.org/A5059879383][Shinji Kishimoto]], [[https://openalex.org/A5090095604][Kodai Hara]], [[https://openalex.org/A5075427398][Hiroshi Hashimoto]], [[https://openalex.org/A5048937697][Hideki Yamaguchi]], [[https://openalex.org/A5076300103][Yutaka Saitō]], [[https://openalex.org/A5035244813][Kenji Watanabe]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00826 
      
 Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
 
