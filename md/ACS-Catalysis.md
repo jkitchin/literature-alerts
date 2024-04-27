@@ -1,142 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Apr 26 01:03:15 2024
+Created on Sat Apr 27 01:02:36 2024
 
-Found 38 results from 2024-04-19 to 2024-04-26
+Found 25 results from 2024-04-20 to 2024-04-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Unraveling Two Pathways for Electrocatalytic Acetonitrile Reduction   
-
-OpenAlex: https://openalex.org/W4394908661    
-Open access: False
-    
-[Qi Zhang](https://openalex.org/A5083026796), [Zunjian Ke](https://openalex.org/A5049982483), [Deyan He](https://openalex.org/A5052304188), [Chaoning Huang](https://openalex.org/A5075777579), [Huan Dai](https://openalex.org/A5011505911), [Chaoliang Tang](https://openalex.org/A5007866518), [Boling Liu](https://openalex.org/A5054240369), [Xiangheng Xiao](https://openalex.org/A5014658419), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00621.
-    
-Electrocatalytic hydrogenation (ECH) of organics offers a promising route for producing value-added chemicals. However, a deeper understanding of the reaction mechanism limits the efficient design of the catalysts. Herein, the two mechanisms are essentially identified on the Ni-based catalysts for acetonitrile hydrogenation, with a deeper understanding of their characteristics in view of their different performances. On this basis, an insight into the shift of the mechanism is proposed. Meanwhile, the optimization strategy of ECH is discovered, and the construction of Tafel sites (Ni/NiO interfaces) can greatly accelerate the kinetics, in addition to increasing the reactant coverage on the catalysts by modulating the electronic structures. Understanding the underlying mechanisms helps in manipulating the design of more efficient ECH catalysts.    
-
-    
-
-## Improving the Catalytic Efficiency of a GH5 Processive Endoglucanase by a Combinatorial Strategy Using Consensus Mutagenesis and Loop Engineering   
-
-OpenAlex: https://openalex.org/W4394908851    
-Open access: False
-    
-[Kemin Lv](https://openalex.org/A5004019691), [Xiaozhou Li](https://openalex.org/A5045787579), [Kequan Chen](https://openalex.org/A5068259214), [Bin Wu](https://openalex.org/A5050197186), [Bingfang He](https://openalex.org/A5015789087), [Gerhard Schenk](https://openalex.org/A5026257435), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01083.
-    
-No abstract    
-
-    
-
-## Interplay between Catalyst Corrosion and Homogeneous Reactive Oxygen Species in Electrochemical Ozone Production   
-
-OpenAlex: https://openalex.org/W4394909286    
-Open access: False
-    
-[Rayan Alaufey](https://openalex.org/A5036496872), [Lingyan Zhao](https://openalex.org/A5002876419), [Andrew Lindsay](https://openalex.org/A5072256821), [Tana Siboonruang](https://openalex.org/A5044244066), [Qin Wu](https://openalex.org/A5046911338), [John A. Keith](https://openalex.org/A5007577939), [Ezra C. Wood](https://openalex.org/A5018545425), [Maureen H. Tang](https://openalex.org/A5024800819), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01317.
-    
-Electrochemical ozone production (EOP), a six-electron water oxidation reaction, offers promising avenues for creating value-added oxidants and disinfectants. However, progress in this field is slowed by a dearth of understanding of fundamental reaction mechanisms. In this work, we combine experimental electrochemistry, spectroscopic detection of reactive oxygen species (ROS), oxygen-anion chemical ionization mass spectrometry, and computational quantum chemistry calculations to determine a plausible reaction mechanism on nickel- and antimony-doped tin oxide (Ni/Sb–SnO2, NATO), one of the most selective EOP catalysts. Antimony doping is shown to increase the conductivity of the catalyst, leading to improved electrochemical performance. Spectroscopic analysis and electrochemical experiments combined with quantum chemistry predictions reveal that hydrogen peroxide (H2O2) is a critical reaction intermediate. We propose that leached Ni4+ cations catalyze hydrogen peroxide into solution phase hydroperoxyl radicals (•OOH); these radicals are subsequently oxidized to ozone. Isotopic product analysis shows that ozone is generated catalytically from water and corrosively from the catalyst oxide lattice without regeneration of lattice oxygens. Further quantum chemistry calculations and thermodynamic analysis suggest that the electrochemical corrosion of tin oxide itself might generate hydrogen peroxide, which is then catalyzed to ozone. The proposed pathways explain both the roles of dopants in NATO and its lack of stability. Our study interrogates the possibility that instability and electrochemical activity are intrinsically linked through the formation of ROS. In doing so, we provide the first mechanism for EOP that is consistent with computational and experimental results and highlight the central challenge of instability as a target for future research efforts.    
-
-    
-
-## Ce4+/Ce3+ Redox-Promoted Electron Transfer for Efficient Neutral H2O2 Electrosynthesis from Two-Electron Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4394913837    
-Open access: False
-    
-[Sohee Kim](https://openalex.org/A5058355869), [Young Jin](https://openalex.org/A5087341192), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00625.
-    
-No abstract    
-
-    
-
-## Mapping of the Reaction Trajectory Catalyzed by Class I Ketol-Acid Reductoisomerase   
-
-OpenAlex: https://openalex.org/W4394924580    
-Open access: False
-    
-[Xin Lin](https://openalex.org/A5049585978), [Thierry Lonhienne](https://openalex.org/A5021336171), [You Lv](https://openalex.org/A5069255829), [Julia L. Kurz](https://openalex.org/A5048934664), [Ross P. McGeary](https://openalex.org/A5055730964), [Gerhard Schenk](https://openalex.org/A5026257435), [L.W. Guddat](https://openalex.org/A5079853523), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00958.
-    
-No abstract    
-
-    
-
-## Substantial Impact of Spin State Evolution in OER/ORR Catalyzed by Fe–N–C   
-
-OpenAlex: https://openalex.org/W4394925248    
-Open access: False
-    
-[Mingyuan Yu](https://openalex.org/A5019317928), [Ang Li](https://openalex.org/A5022512191), [Erjun Kan](https://openalex.org/A5048140096), [Caimao Zhan](https://openalex.org/A5086126693), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06122.
-    
-The Fe-embedded N-doped graphene (Fe–N–C) is the most representative single atom catalyst (SAC) that has shown great potentiality in electrocatalysis, such as oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). However, the active moiety of Fe–N–C is still elusive due to contradictory experimental results. Moreover, early simulations mainly focus on the thermodynamic potential of adsorbates, while the effect of spin multiplicity receives little attention. To explore the role of spin multiplicity in electrocatalysis, we employ the constant-potential density functional theory (DFT) to systematically study the structural evolution of the high-spin (HS) and intermediate-spin (IS) FeN4 site (marked by FeN4HS/IS) in OER and ORR processes. With the consideration of spin multiplicity, our simulation shows spontaneous oxidation from Fe(II)N4IS to Fe(III)N4HS at potential U = 0.4 V versus SHE. Further simulation indicates that the FeN4IS site undergoes a sequential adsorption of *OH and *OOH along with U increase, which leads to the spin state transition from IS to HS. According to the constant-potential free energy analysis, the FeN4HS*OOH is confirmed to be the practical active centers of OER, while the FeN4HS*OH and FeN4IS are assigned to the active center of ORR in low and high overpotentials. The predicted ORR activity of FeN4HS*OH agrees with the in situ X-ray absorption near-edge spectroscopy (XANES) and 57Fe Mössbauer spectroscopy measurement by Xiao et al. [Microporous Framework Induced Synthesis of Single-Atom Dispersed Fe-NC Acidic ORR Catalyst and its In Situ Reduced Fe-N4 Active Site Identification Revealed by X-Ray Absorption Spectroscopy. ACS Catal. 2018, 8, 2824–2832]. Based on the geometry and orbital analysis, the bond length of Fe–N and coordination number of Fe center are found to have a significant impact on the d orbital splitting energy and thus induce the turnover of HS/IS stability in the OER/ORR intermediates. Our study brings comprehensive insights into the evolution of coordination and spin state in Fe–N–C, which reveals the significance of spin multiplicity in electrocatalysis and benefits further theoretical design of SACs from the perspective of spin effects.    
-
-    
-
-## Atroposelective Synthesis of N–N Axially Chiral Indoles and Pyrroles via NHC-Catalyzed Diastereoselective (3 + 3) Annulation Strategy   
-
-OpenAlex: https://openalex.org/W4394933767    
-Open access: False
-    
-[Sowmya Shree Ranganathappa](https://openalex.org/A5092628864), [Bhabani Sankar Dehury](https://openalex.org/A5095773612), [Girij Pal Singh](https://openalex.org/A5011855581), [Sayan Shee](https://openalex.org/A5024176628), [Akkattu T. Biju](https://openalex.org/A5055710900), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00513.
-    
-The synthesis of N–N axially chiral molecules in the enantiopure form has emerged as an interesting research topic primarily due to the significance and intricacy in synthesizing these molecules, especially bearing heterocyclic motifs. Herein, we disclose a method for the introduction of N–N axial chirality along with a point chiral center via the N-heterocyclic carbene (NHC)-catalyzed atroposelective synthesis of dihydropyridinone-containing indoles and pyrroles. The reaction follows a (3 + 3) annulation approach by the interception of indole/pyrrole-derived enamines with α,β-unsaturated aldehydes under oxidative NHC catalysis proceeding via the α,β-unsaturated acylazoliums. The N–N axially chiral indoles/pyrroles were formed under mild conditions in broad scope with high selectivity. In addition, preliminary DFT studies of the N–N rotational barrier of the axially chiral products were performed.    
-
-    
-
-## Catalytic N-Acylation for Access to N–N Atropisomeric N-Aminoindoles: Choice of Acylation Reagents and Mechanistic Insights   
-
-OpenAlex: https://openalex.org/W4394934073    
-Open access: False
-    
-[Chaoyang Song](https://openalex.org/A5071933599), [Chao Pang](https://openalex.org/A5074082034), [Youlin Deng](https://openalex.org/A5022369506), [Hongneng Cai](https://openalex.org/A5085320391), [Xiuhai Gan](https://openalex.org/A5047164982), [Yonggui Robin](https://openalex.org/A5056403313), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00720.
-    
-The synthesis of N–N axial compounds containing aromatic acyl amides using common acylation reagents remains challenging. We describe a highly atropenantioselective synthesis of N-aminoindoles containing N–N axes. A chiral cyclic isothiourea is used as the sole organic catalyst in the atropenantioselective transformation of the N-acylation reaction. Aroyl chlorides have been used as acylation reagents to construct atropisomeric compounds through N-acylation. The N-aminoindole products, which bear stereogenic N–N axes, were synthesized with high yields and enantioselectivities. Some of the enantiopure N-aminoindole products exhibited promising antibacterial activities against plant pathogens.    
-
-    
-
-## Rational Design of Heteroatom-Doped Fe–N–C Single-Atom Catalysts for Oxygen Reduction Reaction via Simple Descriptor   
-
-OpenAlex: https://openalex.org/W4394934259    
-Open access: False
-    
-[Jin Liu](https://openalex.org/A5006250732), [Jing Zhu](https://openalex.org/A5000128804), [Hanhui Xu](https://openalex.org/A5042206403), [Daojian Cheng](https://openalex.org/A5006520119), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01377.
-    
-The coordination engineering of Fe–N–C single-atom catalysts (SACs) through introducing heteroatom dopants has attracted widespread attention in the oxygen reduction reaction (ORR). However, the common regularity for tuning the ORR activity by coordinated and environmental heteroatoms has not been sufficiently studied. Herein, we study the ORR activity on 100 Fe–N–C SACs with S, P, and B heteroatoms in diverse coordination shells by density functional theory calculations. Based on the energy level distribution of frontier orbits and molecular orbital theory, it is found that the origin of Fe–N–C ORR activity is the hybridization of molecular orbitals of Fe 3dz2, 3dyz (3dxz), and O2*/OH* intermediates, where hybrid orbitals are adjusted by coordinated and environmental S, P, and B heteroatoms, and then the protonation process of O2* or OH* intermediate is determined. Moreover, we found that the Fe–O bond length, the d-orbital gap of spin states, the d-orbital center, and the valence state of the Fe site can be used as structural descriptors to predict the ORR activity governed by the protonation of O2* or OH* intermediate as potential-determining steps. Our structural descriptors rationalize the superior ORR performance of Fe–N–C with S or B atoms doped in the second coordination shell to those in the first coordination shell, as well as the fact that the P heteroatom is more suitable as a coordinated atom than the environmental atom to enhance the ORR activity of Fe–N–C, in available experimental references. Thanks to structural descriptors, the codoping synergistic effect between P in the first coordination shell and S in the second coordination shell is predicted and confirmed to greatly enhance the ORR activity. This study provides a unified mechanistic understanding on the ORR activity trend among Fe–N–C SACs regulated by coordinated and environmental heteroatoms.    
-
-    
-
-## Exploring the High-Entropy Oxide Composition Space: Insights through Comparing Experimental with Theoretical Models for the Oxygen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4394934324    
-Open access: True
-    
-[Vladislav A. Mints](https://openalex.org/A5040605968), [Katrine L. Svane](https://openalex.org/A5059818244), [Jan Rossmeisl](https://openalex.org/A5083668074), [Matthias Arenz](https://openalex.org/A5064384920), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05915 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05915)).
-    
-The oxygen evolution reaction (OER) is key for the transition to a hydrogen-based energy economy. The observed activity of the OER catalysts arises from the combined effects of surface area, intrinsic activity, and stability. Therefore, alloys provide an effective platform to search for catalysts that balance these factors. In particular, high-entropy oxides provide a vast material composition space that could contain catalysts with optimal OER performance. In this work, the OER performance of the AuIrOsPdPtReRhRu composition space was modeled using an experimentally obtained dataset of 350 nanoparticles. This machine-learned model based on experimental data found the optimal catalyst to be a mixture of AuIrOsPdRu. However, as a "black-box model", it cannot explain the underlying chemistry. Therefore, density functional theory (DFT) calculations were performed to provide a complementary theoretical model with defined assumptions and, hence, a physical interpretation through comparison with the experimental model. The DFT calculations suggest that the majority of the activity originates from Ru and Ir active sites and that the addition of Pd improves the performance of these sites. However, the DFT calculation did not find the experimentally observed beneficial effects of Au and Os. Therefore, we hypothesize that the Os contributed to the performance of the tested catalysts by roughening the surface, whereas Au fulfilled the role of a structural support. Overall, it is demonstrated how machine learning can help accelerate catalyst discovery, and combining machine-learned models obtained from experimental data with models based on DFT calculations can provide important insights into the complex chemistry of OER catalysts.    
-
-    
-
-## Revealing Formaldehyde-Mediated Methanol-to-Aromatics Reactions over Zn-Modified Zeolites by Observing the Oxygenated and Polyunsaturated Intermediates   
-
-OpenAlex: https://openalex.org/W4394945572    
-Open access: False
-    
-[Tianci Xiao](https://openalex.org/A5035010166), [Jinsong Luo](https://openalex.org/A5066043510), [Weixiong Huang](https://openalex.org/A5058440438), [Linfeng Lu](https://openalex.org/A5055105861), [Chengyuan Liu](https://openalex.org/A5031824581), [Yang Pan](https://openalex.org/A5077453562), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00020.
-    
-No abstract    
-
-    
-
-## Cyclic(alkyl)(amino)carbene-Stabilized Gold Nanoparticles for Selective CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4394947823    
-Open access: False
-    
-[Moushakhi Ghosh](https://openalex.org/A5066129789), [Paramita Saha](https://openalex.org/A5077916079), [Sumit Roy](https://openalex.org/A5018495199), [Sudip Barman](https://openalex.org/A5008497963), [Pramod P. Pillai](https://openalex.org/A5086614294), [Abhishek Dey](https://openalex.org/A5013392233), [Shabana Khan](https://openalex.org/A5058082364), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05727.
-    
-N-heterocyclic carbenes (NHCs) have recently gained significant attention as capping ligands for gold nanoparticles due to their strong σ-donation properties. It has already been established that the strong σ-donation of NHCs enriches the surface of the gold nanoparticles, which controls the catalytic activity of the metal nanoparticles. Cyclic (alkyl)(amino)carbene (CAAC) is a special class of carbene that offers stronger σ-donation than NHCs. This extremely electron-rich nature of CAAC projects it as a better surface capping ligand upon extrapolation on the Au(0) surface. In this work, we have isolated stable CAAC-stabilized AuNPs via a ligand exchange method and studied their catalytic behavior toward electrochemical CO2 reduction. These newly synthesized CAAC-stabilized AuNPs furnish a remarkable faradaic efficiency (FE) of 94% [at pH 6.3 for 2 h of controlled potential electrolysis at −0.7 V vs NHE (normal hydrogen electrode)] toward selective CO formation. Our work sets the platform for CAAC as a robust main group ligand on the surface of different metal nanoparticles, bridging the gap between main group ligands and surface chemistry.    
-
-    
 
 ## Catalytic Bias and Redox-Driven Inactivation of the Group B FeFe Hydrogenase CpIII   
 
@@ -223,17 +91,6 @@ Open access: False
 [Yuting Jiang](https://openalex.org/A5057532203), [Qing Zhang](https://openalex.org/A5025851882), [Jiajia Qian](https://openalex.org/A5011770639), [Yameng Wang](https://openalex.org/A5016112203), [Yongbiao Mu](https://openalex.org/A5008002256), [Zhiyuan Zhang](https://openalex.org/A5053402281), [Zheng Li](https://openalex.org/A5060335470), [Tianshou Zhao](https://openalex.org/A5085086661), [Bilu Liu](https://openalex.org/A5068424935), [Lin Zeng](https://openalex.org/A5022926692), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05471.
     
 Nanosized intermetallic Pt-transition metal alloys with high catalytic activity and stability are considered as promising catalysts for the oxygen reduction reaction (ORR). However, the preparation of intermetallic Pt alloy nanoparticles remains a dilemma due to their pronounced tendency for sintering at high synthesizing temperatures. Here, we have synthesized several Pt intermetallics with an average size of 4 nm by employing carbon-supported Pt–-pyrrole complex and transition metal (TM = Fe, Co, Ni) salts as precursors. Transmission electron microscope (TEM) results indicate that not only the uniform pregrowth of the Pt–pyrrole complex onto the carbon support but also the subsequently derived N-doped carbon shells (<1 nm) on the nanoparticles during annealing contribute to the formation of the nanosized intermetallics. Additional characterization suggests that the intermetallic alloy structure endows the catalyst (PtCo@Pt/C-6) with a downshifted Pt d-band center, which implies the weakened adsorption of the ORR intermediates on the Pt alloy, thus facilitating the ORR kinetics. The fuel cell with the as-prepared PtCo@Pt/C-6 catalyst displays a rated peak power density of 1.1 W/cm2 at 0.67 V (H2/air) and a mass activity of 0.49 A/mgPt at 0.9 V, exceeding the targets of the US Department of Energy (1.0 W/cm2 and 0.44 A/mgPt, respectively). This method demonstrates great potentials for the scalable synthesis of PtTM/C catalysts with high ORR performance and promoting their applications in PEMFCs.    
-
-    
-
-## Functional Enhancement of Flavin-Containing Monooxygenase through Machine Learning Methodology   
-
-OpenAlex: https://openalex.org/W4394907924    
-Open access: False
-    
-[Takuma Matsushita](https://openalex.org/A5007561814), [Shinji Kishimoto](https://openalex.org/A5059879383), [Kodai Hara](https://openalex.org/A5090095604), [Hiroshi Hashimoto](https://openalex.org/A5075427398), [Hideki Yamaguchi](https://openalex.org/A5048937697), [Yutaka Saitō](https://openalex.org/A5076300103), [Kenji Watanabe](https://openalex.org/A5035244813), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00826.
-    
-Directed evolution of enzymes often fails to obtain desirable variants because of the difficulty in exploring a huge sequence space. To obtain active variants from a very limited number of variants available at the laboratory scale, machine learning (ML)-guided engineering of enzymes is becoming an attractive methodology. However, as far as we know, there is no example of an ML-guided functional modification of flavin-containing monooxygenase (FMO). FMOs are known to catalyze a variety of oxidative reactions and are involved in the biosynthesis of many natural products (NPs). Therefore, it is expected that the ML-guided functional enhancement of FMO can contribute to the efficient development of NP derivatives. In this research, we focused on p-hydroxybenzoate hydroxylase (PHBH), a model FMO, and altered only four amino acid residues around the substrate binding site. ML models were trained with a small initial library covering only approximately 0.1% of the whole sequence space, and the ML-predicted second library was enriched with active variants. The variant with the highest activity in the second library was PHBH-MWNL (V47M, W185, L199N, and L210), whose activity was more than 100 times that of the wild-type PHBH. For elucidation of the mechanism of the observed activity enhancement, the crystal structure of PHBH-MWNL in complex with 4-hydroxy-3-methyl benzoic acid was determined. In the PHBH-MWNL crystal structure, the missing water molecule WAT2 was observed due to N199 hydrogen-bonding to WAT2, indicating that the L199N mutation contributed to the observed functional improvement by stabilizing the proton relay network proposed to be important in catalysis.    
 
     
 

@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Apr 26 01:03:16 2024
+Created on Sat Apr 27 01:02:37 2024
 
-Found 4 results from 2024-04-19 to 2024-04-26
+Found 3 results from 2024-04-20 to 2024-04-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Carbon nanomaterials‐based electrically conductive scaffolds for tissue engineering applications   
-
-OpenAlex: https://openalex.org/W4394927677    
-Open access: True
-    
-[Genevieve Abd](https://openalex.org/A5095772138), [Raquel Sanchez Diaz](https://openalex.org/A5003766948), [Anju Gupta](https://openalex.org/A5076052042), [Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Kunal Mondal](https://openalex.org/A5041703687), [Seeram Ramakrishna](https://openalex.org/A5077698461), [Ashutosh Sharma](https://openalex.org/A5052056626), [Andrés Díaz Lantada](https://openalex.org/A5082691724), [Monsur Islam](https://openalex.org/A5071469750), MedComm - Biomaterials and applications. 3(2)] 2024.https://doi.org/10.1002/mba2.76 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/mba2.76)).
-    
-Abstract In tissue engineering, the pivotal role of scaffolds is underscored, serving as key elements to emulate the native extracellular matrix. These scaffolds must provide structural integrity and support and supply electrical, mechanical, and chemical cues for cell and tissue growth. Notably, electrical conductivity plays a crucial role when dealing with tissues like bone, spinal, neural, and cardiac tissues. However, the typical materials used as tissue engineering scaffolds are predominantly polymers, which generally characteristically feature poor electrical conductivity. Therefore, it is often necessary to incorporate conductive materials into the polymeric matrix to yield electrically conductive scaffolds and further enable electrical stimulation. Among different conductive materials, carbon nanomaterials have attracted significant attention in developing conductive tissue engineering scaffolds, demonstrating excellent biocompatibility and bioactivity in both in vitro and in vivo settings. This article aims to comprehensively review the current landscape of carbon‐based conductive scaffolds, with a specific focus on their role in advancing tissue engineering for the regeneration and maturation of functional tissues, emphasizing the application of electrical stimulation. This review highlights the versatility of carbon‐based conductive scaffolds and addresses existing challenges and prospects, shedding light on the trajectory of innovative conductive scaffold development in tissue engineering.    
-
-    
 
 ## Lipid Nanoparticle-Associated Inflammation is Triggered by Sensing of Endosomal Damage: Engineering Endosomal Escape without Side Effects   
 
