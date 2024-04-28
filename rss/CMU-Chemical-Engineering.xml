@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Apr 2024 01:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 01:08:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Lipid Nanoparticle-Associated Inflammation is Triggered by Sensing of Endosomal Damage: Engineering Endosomal Escape without Side Effects</title>
-      <link>https://doi.org/10.1101/2024.04.16.589801</link>
-      <description>Serena Omo&#8208;Lamai, Yufei Wang, Mita Patel, Eno&#8208;Obong Essien, Mengwen Shen, A. K. Majumder, Carolann Espy, Jichuan Wu, Breana Channer, Michael P. Tobin, Shruthi Murali, Tyler E. Papp, Rhea Maheshwari, Liuqian Wang, Lucas G. Chase, Marco Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Peter J. Gaskill, Dennis E. Discher, Hamideh Parhiz, Jacob S. Brenner, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4394960825
-
-                Lipid nanoparticles (LNPs) have emerged as the dominant platform for RNA delivery, based on their success in the COVID-19 vaccines and late-stage clinical studies in other indications. However, we and others have shown that LNPs induce severe inflammation, and massively aggravate pre-existing inflammation. Here, using structure-function screening of lipids and analyses of signaling pathways, we elucidate the mechanisms of LNP-associated inflammation and demonstrate solutions. We show that LNPs' hallmark feature, endosomal escape, which is necessary for RNA expression, also directly triggers inflammation by causing endosomal membrane damage. Large, irreparable, endosomal holes are recognized by cytosolic proteins called galectins, which bind to sugars on the inner endosomal membrane and then regulate downstream inflammation. We find that inhibition of galectins abrogates LNP-associated inflammation, both in vitro and in vivo. We show that rapidly biodegradable ionizable lipids can preferentially create endosomal holes that are smaller in size and reparable by the endosomal sorting complex required for transport (ESCRT) pathway. Ionizable lipids producing such ESCRT-recruiting endosomal holes can produce high expression from cargo mRNA with minimal inflammation. Finally, we show that both routes to non-inflammatory LNPs, either galectin inhibition or ESCRT-recruiting ionizable lipids, are compatible with therapeutic mRNAs that ameliorate inflammation in disease models. LNPs without galectin inhibition or biodegradable ionizable lipids lead to severe exacerbation of inflammation in these models. In summary, endosomal escape induces endosomal membrane damage that can lead to inflammation. However, the inflammation can be controlled by inhibiting galectins (large hole detectors) or by using biodegradable lipids, which create smaller holes that are reparable by the ESCRT pathway. These strategies should lead to generally safer LNPs that can be used to treat inflammatory diseases.</description>
-      <author>Serena Omo&#8208;Lamai, Yufei Wang, Mita Patel, Eno&#8208;Obong Essien, Mengwen Shen, A. K. Majumder, Carolann Espy, Jichuan Wu, Breana Channer, Michael P. Tobin, Shruthi Murali, Tyler E. Papp, Rhea Maheshwari, Liuqian Wang, Lucas G. Chase, Marco Zamora, Mariah L. Arral, Oscar A. Marcos&#8208;Contreras, Jacob W. Myerson, Christopher A. Hunter, Andrew Tsourkas, Vladimir R. Muzykantov, Igor E. Brodsky, Sunny Shin, Kathryn A. Whitehead, Peter J. Gaskill, Dennis E. Discher, Hamideh Parhiz, Jacob S. Brenner</author>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2024.04.16.589801</guid>
-    </item>
     <item>
       <title>Optimization of CO2 capture plants with surrogate model uncertainties</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108709</link>
@@ -36,6 +26,36 @@
       <author>Tagbo H. R. Niepa, Landon W. Locke, Timothy E. Corcoran, Janet Lee</author>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fcimb.2024.1416131</guid>
+    </item>
+    <item>
+      <title>Integrated Bayesian parameter estimation with model&#8208;based design of experiments for dynamic processes</title>
+      <link>https://doi.org/10.1002/aic.18418</link>
+      <description>Xinyu Cao, Xi Chen, Xi Chen, Lorenz T. Biegler, AIChE journal. None(None)] 2024. https://openalex.org/W4395087592
+
+                Abstract Integration of Bayesian parameter estimation (BPE) with model&#8208;based design of experiments (MBDoE) aims to estimate process parameters efficiently and systematically. To achieve more efficient use of resources by iteratively selecting informative experiments based on current knowledge about the parameters, an integrated method with BPE and MBDoE is proposed in this article. A built&#8208;in Markov Chain Monte Carlo is also developed to yield not only the distribution profile of the estimated parameters but also aid in the determination of stopping criteria and the estimation of noise. Two applications of dynamic batch reactor systems are presented. Comparative analysis substantiates the superior performance of this approach in terms of parameter accuracy and the efficiency of experimentation.</description>
+      <author>Xinyu Cao, Xi Chen, Xi Chen, Lorenz T. Biegler</author>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18418</guid>
+    </item>
+    <item>
+      <title>A tailored decomposition approach for optimization under uncertainty of carbon removal technologies in the EU power system</title>
+      <link>https://doi.org/10.1016/j.compchemeng.2024.108691</link>
+      <description>Valentina Negri, Daniel V&#225;zquez, Ignacio E. Grossmann, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4395658791
+
+                No abstract</description>
+      <author>Valentina Negri, Daniel V&#225;zquez, Ignacio E. Grossmann, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108691</guid>
+    </item>
+    <item>
+      <title>Iterative MILP algorithm to find alternate solutions in linear programming models</title>
+      <link>https://doi.org/10.1007/s11081-024-09887-3</link>
+      <description>D. Kakkad, Ignacio E. Grossmann, Bianca Springub, Christos Galanopoulos, Leonardo Salsano de Assis, Nga Tran, John M. Wassick, Optimization and engineering. None(None)] 2024. https://openalex.org/W4395671135
+
+                Abstract We address in this paper linear programming (LP) models in which it is desired to find a finite set of alternate optima. An LP may have multiple alternate solutions with the same objective value or with increasing objective values. For many real life applications, it can be interesting to have a pool of solutions to compare what operations should be executed and what is the cost/benefit of doing it. To obtain a specified number of these alternate solutions in the increasing order of objective values, we propose an iterative MILP algorithm in which we successively add integer cuts on inactive constraints. We demonstrate the application and effectiveness of this algorithm on a 2 dimensional LP and on small and large supply chain problems. The proposed iterative MILP algorithm provides an effective approach for finding a specified number of alternate optima in LP models, which provides a useful tool in a variety of applications as for instance in supply chain optimization problems.</description>
+      <author>D. Kakkad, Ignacio E. Grossmann, Bianca Springub, Christos Galanopoulos, Leonardo Salsano de Assis, Nga Tran, John M. Wassick</author>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11081-024-09887-3</guid>
     </item>
   </channel>
 </rss>

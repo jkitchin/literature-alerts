@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 27 Apr 2024 01:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 01:08:07 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Structural Evolution of GaO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Shell and Intermetallic Phases in Ga&#8211;Pt Supported Catalytically Active Liquid Metal Solutions</title>
+      <link>https://doi.org/10.1021/acs.jpclett.3c03494</link>
+      <description>Shaun A. Carl, Johannes Will, Nnamdi Madubuko, Alexander G&#246;tz, Thomas Przybilla, Mingjian Wu, Natarajan Raman, Johannes Wirth, Nicola Taccardi, Benjamin Apeleo Zubiri, Marco Haumann, Marco Haumann, Peter Wasserscheid, Peter Wasserscheid, Erdmann Spiecker, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4395116373
+
+                We present a comprehensive scale-bridging characterization approach for supported catalytically active liquid metal solutions (SCALMS) which combines lab-based X-ray microscopy, nano X-ray computed tomography (nano-CT), and correlative analytical transmission electron microscopy. SCALMS catalysts consist of low-melting alloy particles and have demonstrated high catalytic activity, selectivity, and long-term stability in propane dehydrogenation (PDH). We established an identical-location nano-CT workflow which allows us to reveal site-specific changes of Ga-Pt SCALMS before and after PDH. These observations are complemented by analytical transmission electron microscopy investigations providing information on the structure, chemical composition, and phase distribution of individual SCALMS particles. Key findings of this combined microscopic approach include (i) structural evolution of the SCALMS particles' GaOx shell, (ii) Pt segregation toward the oxide shell leading to the formation of Ga-Pt intermetallic phases, and (iii) cracking of the oxide shell accompanied by the release of liquid Ga-Pt toward the porous support.</description>
+      <author>Shaun A. Carl, Johannes Will, Nnamdi Madubuko, Alexander G&#246;tz, Thomas Przybilla, Mingjian Wu, Natarajan Raman, Johannes Wirth, Nicola Taccardi, Benjamin Apeleo Zubiri, Marco Haumann, Marco Haumann, Peter Wasserscheid, Peter Wasserscheid, Erdmann Spiecker</author>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03494</guid>
+    </item>
   </channel>
 </rss>
