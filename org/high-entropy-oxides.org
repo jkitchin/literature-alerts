@@ -1,10 +1,31 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sun Apr 28 01:08:08 2024
+Created on Mon Apr 29 01:04:53 2024
 
-Found 1 results from 2024-04-21 to 2024-04-28
+Found 2 results from 2024-04-22 to 2024-04-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
+
+* Scalable Synthesis Methods for High‐Entropy Nanoparticles  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395683868
+:TOPICS: High-Entropy Alloys: Novel Designs and Properties, Laser Ablation Synthesis of Nanoparticles, Thin-Film Solar Cell Technology
+:PUBLICATION_DATE: 2024-04-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aesr.202300297")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395683868"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395683868"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395683868"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395683868 (Open access: True)
+    
+[[https://openalex.org/A5011096702][Timothy G. Ritter]], [[https://openalex.org/A5033543881][Samhita Pappu]], [[https://openalex.org/A5065515481][Reza Shahbazian‐Yassar]], Advanced energy and sustainability research. None(None)] 2024. https://doi.org/10.1002/aesr.202300297 
+     
+High‐entropy materials (HEMs) represent a revolutionary class of materials that have garnered significant attention in the field of materials science due to their extraordinary properties in diverse fields of applications such as catalysis and electrochemistry. The past decade has witnessed a substantial increase in the study of these materials, exploring new synthesis routes and compositions. What began as the synthesis of high‐entropy alloys has expanded to encompass several classes of HEMs such as oxides, hydroxides, sulfides, nitrides, and carbides, among others. Several synthesis methods have been developed to produce these materials. This review therefore highlights the fundamental concepts of HEMs, including their core effects, with a major emphasis on their scalable synthesis routes. The advantages and drawbacks of these methods are also discussed. As HEMs transition from the lab to large‐scale production, there is a growing need for cost‐effective and scalable synthesis methods with high material yield suitable for a variety of applications like hydrogen storage, catalysis, batteries, supercapacitors, and fuel cells. Hence, this review serves as an introduction to scalable synthesis routes based on crystal structure, desired elements, synthesis times, and equipment costs.    
+
+    
 
 * Spin‐Regulated Fenton‐Like Catalysis for Nonradical Oxidation over Metal Oxide@Carbon Composites  :high_entropy_oxides:
 :PROPERTIES:

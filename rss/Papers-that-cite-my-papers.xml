@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Apr 2024 01:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 01:05:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Surface exsolved NiFeOx nanocatalyst for enhanced alkaline oxygen evolution catalysis</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160134</link>
-      <description>Hyerin Jeong, Hyunwoo Jang, Yo Han Kim, Minwoo Kim, Youngho Kang, Jae&#8208;ha Myung, Applied surface science. None(None)] 2024. https://openalex.org/W4394984906
-
-                No abstract</description>
-      <author>Hyerin Jeong, Hyunwoo Jang, Yo Han Kim, Minwoo Kim, Youngho Kang, Jae&#8208;ha Myung</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160134</guid>
-    </item>
     <item>
       <title>Enhancing electrocatalytic hydrogen evolution of MoS2 enabled by electrochemical cation implantation for simultaneous surface-defect and phase engineering</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.124037</link>
@@ -542,7 +532,7 @@
       <link>https://doi.org/10.1021/acsnano.4c01113</link>
       <description>Bo Yang, Zhonghua Xiang, ACS nano. None(None)] 2024. https://openalex.org/W4395661603
 
-                The membrane electrode assembly (MEA) is the core component of proton exchange membrane fuel cells (PEMFCs), which is the place where the reaction occurrence, the multiphase material transfer and the energy conversion, and the development of MEA with high activity and long stability are crucial for the practical application of PEMFCs. Currently, efforts are devoted to developing the regulation of MEA nanostructure engineering, which is believed to have advantages in improving catalyst utilization, maximizing three-phase boundaries, enhancing mass transport, and improving operational stability. This work reviews recent research progress on platinum group metal (PGM) and PGM-free catalysts with multidimensional nanostructures, catalyst layers (CLs), and nano-MEAs for PEMFCs, emphasizing the importance of structure&#8211;function relationships, aiming to guide the further development of the performance for PEMFCs. Then the design strategy of the MEA interface is summarized systematically. In addition, the application of in situ and operational characterization techniques to adequately identify current density distributions, hot spots, and water management visualization of MEAs is also discussed. Finally, the limitations of nanostructured MEA research are discussed and future promising research directions are proposed. This paper aims to provide valuable insights into the fundamental science and technical engineering of efficient MEA interfaces for PEMFCs.</description>
+                The membrane electrode assembly (MEA) is the core component of proton exchange membrane fuel cells (PEMFCs), which is the place where the reaction occurrence, the multiphase material transfer and the energy conversion, and the development of MEA with high activity and long stability are crucial for the practical application of PEMFCs. Currently, efforts are devoted to developing the regulation of MEA nanostructure engineering, which is believed to have advantages in improving catalyst utilization, maximizing three-phase boundaries, enhancing mass transport, and improving operational stability. This work reviews recent research progress on platinum group metal (PGM) and PGM-free catalysts with multidimensional nanostructures, catalyst layers (CLs), and nano-MEAs for PEMFCs, emphasizing the importance of structure-function relationships, aiming to guide the further development of the performance for PEMFCs. Then the design strategy of the MEA interface is summarized systematically. In addition, the application of in situ and operational characterization techniques to adequately identify current density distributions, hot spots, and water management visualization of MEAs is also discussed. Finally, the limitations of nanostructured MEA research are discussed and future promising research directions are proposed. This paper aims to provide valuable insights into the fundamental science and technical engineering of efficient MEA interfaces for PEMFCs.</description>
       <author>Bo Yang, Zhonghua Xiang</author>
       <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01113</guid>
@@ -618,6 +608,66 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.228</guid>
     </item>
     <item>
+      <title>Probing the Role of Acid Site Distribution on the Water Structure in Aluminosilicate Zeolites: Insights from Molecular Dynamics</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01087</link>
+      <description>Mingze Zheng, Brandon C. Bukowski, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4395683506
+
+                No abstract</description>
+      <author>Mingze Zheng, Brandon C. Bukowski</author>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01087</guid>
+    </item>
+    <item>
+      <title>Understanding highly active and durable Fe-decorated Co(OH)2 catalysts in alkaline oxygen evolution reaction by in situ XANES studies</title>
+      <link>https://doi.org/10.1016/j.cej.2024.151701</link>
+      <description>Du-Hyeon Kim, Yong&#8208;Kul Lee, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4395683942
+
+                No abstract</description>
+      <author>Du-Hyeon Kim, Yong&#8208;Kul Lee</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151701</guid>
+    </item>
+    <item>
+      <title>Rotational Symmetry Effects on Multibody Lateral Interactions between Co-Adsorbates at Heterogeneous Interfaces</title>
+      <link>https://doi.org/10.1021/acsphyschemau.4c00019</link>
+      <description>Shuqiao Wang, Alyssa J. R. Hensley, ACS Physical Chemistry Au. None(None)] 2024. https://openalex.org/W4395684873
+
+                No abstract</description>
+      <author>Shuqiao Wang, Alyssa J. R. Hensley</author>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsphyschemau.4c00019</guid>
+    </item>
+    <item>
+      <title>Electrochemical reduction of cyanide on conjugated copper-organic framework Cu3(HHTP)2 monolayer: A dispersion-corrected DFT investigation</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.04.265</link>
+      <description>Rongwei Shi, Yang&#8722;Xin Yu, A. N. Chibisov, International journal of hydrogen energy. None(None)] 2024. https://openalex.org/W4395688468
+
+                No abstract</description>
+      <author>Rongwei Shi, Yang&#8722;Xin Yu, A. N. Chibisov</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.265</guid>
+    </item>
+    <item>
+      <title>Key Ingredients for the Screening of Single Atom Catalysts for the Hydrogen Evolution Reaction: The Case of Titanium Nitride</title>
+      <link>https://doi.org/10.1002/smll.202401058</link>
+      <description>Clara Saetta, Ilaria Barlocco, Giovanni Di Liberto, Gianfranco Pacchioni, Small. None(None)] 2024. https://openalex.org/W4395693504
+
+                Abstract A computational screening of Single Atom Catalysts (SACs) bound to titanium nitride (TiN) is presented, for the Hydrogen Evolution Reaction (HER), based on density functional theory. The role of fundamental ingredients is explored to account for a reliable screening of SACs. Namely, the formation of H 2 &#8208;complexes besides the classical H * one impacts the predicted HER activity, in line with previous studies on other SACs. Also, the results indicate that one needs to adopt self&#8208;interaction&#8208;corrected functionals. Finally, predicting an active catalyst is of little help without an assessment of its stability. Thus, it is included in the theoretical framework the analysis of the stability of the SACs in working conditions of pH and voltage. Once unconventional intermediates and stability are considered in a self&#8208;interaction corrected scheme, the number of potential good catalysts for HER is strongly reduced since i) some potentially good catalysts are not stable against dissolution and ii) the formation of unconventional intermediates leads to thermodynamic barriers. This study highlights the importance of including ingredients for the prediction of new systems, such as the formation of unconventional intermediates, estimating the stability of SACs, and the adoption of self&#8208;interaction corrected functionals. Also, this study highlights some interesting candidates deserving of dedicated work.</description>
+      <author>Clara Saetta, Ilaria Barlocco, Giovanni Di Liberto, Gianfranco Pacchioni</author>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202401058</guid>
+    </item>
+    <item>
+      <title>Ameliorating the electronic environment of NiCoP by halogen doping: A strategy for boosting hydrogen evolution performance</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.131780</link>
+      <description>Jian Su, Nan Jiang, Bolong Jiang, Yuanyuan Wang, Xueqin Wang, Zhijun Li, Hua Song, Fuel. 369(None)] 2024. https://openalex.org/W4395699780
+
+                The design of highly efficient and robust non-noble metal water splitting catalysts for hydrogen production is crucial to reduce overpotential and energy consumption. Herein, a strategy for in-situ growth of halogen-doped NiCoP (X-NiCoP/NF, X = F, Cl, and Br) catalysts with special morphology on nickel foam is proposed. Both the experimental results and theoretical calculations reveal that the downshift of the d-band center energy can regulate the charge distribution of NiCoP owing to doping of strong electronegativity halogen, thus optimizing the Gibbs free energy of H* absorption (&#9651;GH*). The F-NiCoP/NF catalyst achieves remarkable HER activity under alkaline conditions, with overpotential at 10 mA cm&#8722;2 (&#951;10) of 59 mV and Tafel slope of 48.9 mV dec&#8722;1 in 1.0 M KOH. Moreover, F-doping significantly increases the electrochemically active surface area (ECSA) and turnover frequency (TOF), suggestive of the F promotes the formation of highly dispersed high intrinsic active sites. The F-NiCoP/NF exhibits excellent stability with a negligible decrease in activity after durability tests. This work sheds light on the facile synthesis of highly active and stable catalysts with strong electronegative atom doping for HER.</description>
+      <author>Jian Su, Nan Jiang, Bolong Jiang, Yuanyuan Wang, Xueqin Wang, Zhijun Li, Hua Song</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131780</guid>
+    </item>
+    <item>
       <title>EFFECT OF HEAT TREATMENT ON THE STRUCTURE AND FUNCTIONAL CHARACTERISTICS OF A PtCo/C CATALYST</title>
       <link>https://doi.org/10.31857/s0424857023120083</link>
       <description>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, N. V. Toporkov, A. Yu. Nikulin, &#200;lektrohimi&#226;. 59(12)] 2023. https://openalex.org/W4395003648
@@ -626,16 +676,6 @@
       <author>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, N. V. Toporkov, A. Yu. Nikulin</author>
       <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.31857/s0424857023120083</guid>
-    </item>
-    <item>
-      <title>Designing Asymmetrical TMN4 Sites via Phosphorus or sulfur Dual Coordination as High-Performance Electrocatalysts for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.04.095</link>
-      <description>Zhe Xue, Rui Tan, Jinzhong Tian, Hua Hou, Xinyu Zhang, Yuhong Zhao, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4394980238
-
-                The development of highly efficient oxygen evolution reaction (OER) catalysts based on more cost-effective and earth-abundant elements is of great significance and still faces a huge challenge. In this work, a series of transition metal (TM) embedding a newly-defined monolayer carbon nitride phase is theoretically profiled and constructed as a catalytic platform for OER studies. Typically, a four-step screening strategy was proposed to rapidly identified high performance candidates and the coordination structure and catalytic performance relationship was thoroughly analyzed. Moreover, the eliminating criterion was established to condenses valid range based on the Gibbs free energy of OH*. Our results reveal that the as-constructed 2FeCN/P exhibits superior activity toward OER with an ultralow overpotential of 0.25 V, at the same time, the established 3FeCN/S configuration performed well as a bifunctional OER/ORR electrocatalysis with extremely low overpotential &#951;OER/&#951;ORR of 0.26/0.48 V. Overall, this work provides an effective framework for screening advanced OER catalysts, which can also be extended to other complex multistep catalytic reactions.</description>
-      <author>Zhe Xue, Rui Tan, Jinzhong Tian, Hua Hou, Xinyu Zhang, Yuhong Zhao</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.04.095</guid>
     </item>
     <item>
       <title>Optimization of CO2 capture plants with surrogate model uncertainties</title>

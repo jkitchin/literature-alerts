@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Apr 28 01:08:09 2024
+Created on Mon Apr 29 01:04:54 2024
 
-Found 35 results from 2024-04-21 to 2024-04-28
+Found 36 results from 2024-04-22 to 2024-04-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -388,5 +388,16 @@ Open access: False
 [Shuyue Wang](https://openalex.org/A5037269917), [Chao Qian](https://openalex.org/A5019725336), [Xinzhi Chen](https://openalex.org/A5063163830), [Shaodong Zhou](https://openalex.org/A5072377314), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01203.
     
 No abstract    
+
+    
+
+## Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD   
+
+OpenAlex: https://openalex.org/W4395695873    
+Open access: False
+    
+[Linyue Chen](https://openalex.org/A5051276818), [Qian Deng](https://openalex.org/A5014459662), [Tingting Ma](https://openalex.org/A5037113319), [Jing Gu](https://openalex.org/A5017165240), [Juan Yang](https://openalex.org/A5028731768), [Xuan Zhang](https://openalex.org/A5016622484), [You‐Quan Zou](https://openalex.org/A5025717283), [Zixin Deng](https://openalex.org/A5050419694), [Li Chen](https://openalex.org/A5042314564), [Changming Zhao](https://openalex.org/A5011648206), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00757.
+    
+PtlD, a multifunctional mononuclear nonheme iron and α-ketoglutarate-dependent (NHFe/α-KG) dioxygenase involved in neopentalenoketolactone biosynthesis, catalyzes hydroxylation, desaturation, and olefin epoxidation reactions. Investigating desaturation reactions of nonactivated carbons mediated by NHFe/α-KG enzymes is intriguing, especially for understanding the fate of the substrate radicals formed after hydrogen atom abstraction by FeIV═O species. Here, we investigate the desaturation reaction mechanism of PtlD using two distinct substrates: neopentalenolactone D (1) features a lone pair-containing oxygen atom adjacent to the olefin-forming carbon atoms, whereas pentalenolactone D (7) harbors a carbonyl group at the corresponding position. For substrate 1, our isotope effect measurement and protein mutagenesis experiments suggest the formation of a carbocation intermediate, which is subsequently deprotonated by a base to generate the desaturation products. Residue K288 serves as the base, while Y113 likely stabilizes the carbocation via a π-cation interaction. For substrate 7, oxygen incorporation patterns indicated that a carbocation intermediate is also formed but is unstable, leading to hydroxylation due to H2O quenching. Notably, substrate 7's desaturation exhibits a temperature-dependent large kinetic isotope effect (KIE) and an inverse solvent isotope effect (SIE), suggesting that hydrogen tunneling contributes to the electron–proton transfer (EPT) process. These findings collectively reveal the cases of NHFe/α-KG enzymes, where distinct desaturation mechanisms switch with different substrates.    
 
     

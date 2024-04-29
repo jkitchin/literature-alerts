@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 Apr 2024 01:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 01:04:53 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Scalable Synthesis Methods for High&#8208;Entropy Nanoparticles</title>
+      <link>https://doi.org/10.1002/aesr.202300297</link>
+      <description>Timothy G. Ritter, Samhita Pappu, Reza Shahbazian&#8208;Yassar, Advanced energy and sustainability research. None(None)] 2024. https://openalex.org/W4395683868
+
+                High&#8208;entropy materials (HEMs) represent a revolutionary class of materials that have garnered significant attention in the field of materials science due to their extraordinary properties in diverse fields of applications such as catalysis and electrochemistry. The past decade has witnessed a substantial increase in the study of these materials, exploring new synthesis routes and compositions. What began as the synthesis of high&#8208;entropy alloys has expanded to encompass several classes of HEMs such as oxides, hydroxides, sulfides, nitrides, and carbides, among others. Several synthesis methods have been developed to produce these materials. This review therefore highlights the fundamental concepts of HEMs, including their core effects, with a major emphasis on their scalable synthesis routes. The advantages and drawbacks of these methods are also discussed. As HEMs transition from the lab to large&#8208;scale production, there is a growing need for cost&#8208;effective and scalable synthesis methods with high material yield suitable for a variety of applications like hydrogen storage, catalysis, batteries, supercapacitors, and fuel cells. Hence, this review serves as an introduction to scalable synthesis routes based on crystal structure, desired elements, synthesis times, and equipment costs.</description>
+      <author>Timothy G. Ritter, Samhita Pappu, Reza Shahbazian&#8208;Yassar</author>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202300297</guid>
+    </item>
     <item>
       <title>Spin&#8208;Regulated Fenton&#8208;Like Catalysis for Nonradical Oxidation over Metal Oxide@Carbon Composites</title>
       <link>https://doi.org/10.1002/adfm.202401397</link>

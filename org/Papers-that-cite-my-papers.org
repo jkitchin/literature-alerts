@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Apr 28 01:08:17 2024
+Created on Mon Apr 29 01:05:04 2024
 
-Found 66 results from 2024-04-21 to 2024-04-28
+Found 70 results from 2024-04-22 to 2024-04-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881]]
@@ -12,27 +12,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023]]
-
-* Surface exsolved NiFeOx nanocatalyst for enhanced alkaline oxygen evolution catalysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394984906
-:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.160134")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394984906"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394984906"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394984906"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394984906 (Open access: False)
-    
-[[https://openalex.org/A5071787849][Hyerin Jeong]], [[https://openalex.org/A5015237054][Hyunwoo Jang]], [[https://openalex.org/A5040787356][Yo Han Kim]], [[https://openalex.org/A5015417010][Minwoo Kim]], [[https://openalex.org/A5017460659][Youngho Kang]], [[https://openalex.org/A5042879226][Jae‐ha Myung]], Applied surface science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.160134 
-     
-No abstract    
-
-    
 
 * Enhancing electrocatalytic hydrogen evolution of MoS2 enabled by electrochemical cation implantation for simultaneous surface-defect and phase engineering  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1143,7 +1122,7 @@ OpenAlex: https://openalex.org/W4395661603 (Open access: False)
     
 [[https://openalex.org/A5059818051][Bo Yang]], [[https://openalex.org/A5011382292][Zhonghua Xiang]], ACS nano. None(None)] 2024. https://doi.org/10.1021/acsnano.4c01113 
      
-The membrane electrode assembly (MEA) is the core component of proton exchange membrane fuel cells (PEMFCs), which is the place where the reaction occurrence, the multiphase material transfer and the energy conversion, and the development of MEA with high activity and long stability are crucial for the practical application of PEMFCs. Currently, efforts are devoted to developing the regulation of MEA nanostructure engineering, which is believed to have advantages in improving catalyst utilization, maximizing three-phase boundaries, enhancing mass transport, and improving operational stability. This work reviews recent research progress on platinum group metal (PGM) and PGM-free catalysts with multidimensional nanostructures, catalyst layers (CLs), and nano-MEAs for PEMFCs, emphasizing the importance of structure–function relationships, aiming to guide the further development of the performance for PEMFCs. Then the design strategy of the MEA interface is summarized systematically. In addition, the application of in situ and operational characterization techniques to adequately identify current density distributions, hot spots, and water management visualization of MEAs is also discussed. Finally, the limitations of nanostructured MEA research are discussed and future promising research directions are proposed. This paper aims to provide valuable insights into the fundamental science and technical engineering of efficient MEA interfaces for PEMFCs.    
+The membrane electrode assembly (MEA) is the core component of proton exchange membrane fuel cells (PEMFCs), which is the place where the reaction occurrence, the multiphase material transfer and the energy conversion, and the development of MEA with high activity and long stability are crucial for the practical application of PEMFCs. Currently, efforts are devoted to developing the regulation of MEA nanostructure engineering, which is believed to have advantages in improving catalyst utilization, maximizing three-phase boundaries, enhancing mass transport, and improving operational stability. This work reviews recent research progress on platinum group metal (PGM) and PGM-free catalysts with multidimensional nanostructures, catalyst layers (CLs), and nano-MEAs for PEMFCs, emphasizing the importance of structure-function relationships, aiming to guide the further development of the performance for PEMFCs. Then the design strategy of the MEA interface is summarized systematically. In addition, the application of in situ and operational characterization techniques to adequately identify current density distributions, hot spots, and water management visualization of MEAs is also discussed. Finally, the limitations of nanostructured MEA research are discussed and future promising research directions are proposed. This paper aims to provide valuable insights into the fundamental science and technical engineering of efficient MEA interfaces for PEMFCs.    
 
     
 
@@ -1294,6 +1273,132 @@ Hydrogen energy plays an important role in achieving green and low-carbon transf
 
     
 
+* Probing the Role of Acid Site Distribution on the Water Structure in Aluminosilicate Zeolites: Insights from Molecular Dynamics  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395683506
+:TOPICS: Zeolite Chemistry and Catalysis, Aqueous Two-Phase Systems in Separation Science, Applications of Clay Nanotubes in Various Fields
+:PUBLICATION_DATE: 2024-04-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c01087")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395683506"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395683506"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395683506"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395683506 (Open access: False)
+    
+[[https://openalex.org/A5065079075][Mingze Zheng]], [[https://openalex.org/A5041107836][Brandon C. Bukowski]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c01087 
+     
+No abstract    
+
+    
+
+* Understanding highly active and durable Fe-decorated Co(OH)2 catalysts in alkaline oxygen evolution reaction by in situ XANES studies  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395683942
+:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-04-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.151701")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395683942"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395683942"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395683942"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395683942 (Open access: False)
+    
+[[https://openalex.org/A5003171150][Du-Hyeon Kim]], [[https://openalex.org/A5067799791][Yong‐Kul Lee]], Chemical engineering journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.151701 
+     
+No abstract    
+
+    
+
+* Rotational Symmetry Effects on Multibody Lateral Interactions between Co-Adsorbates at Heterogeneous Interfaces  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395684873
+:TOPICS: Ice Nucleation and Melting Phenomena, Quantum Effects in Helium Nanodroplets and Solids, Advancements in Density Functional Theory
+:PUBLICATION_DATE: 2024-04-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsphyschemau.4c00019")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395684873"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395684873"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395684873"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395684873 (Open access: True)
+    
+[[https://openalex.org/A5028711597][Shuqiao Wang]], [[https://openalex.org/A5085072209][Alyssa J. R. Hensley]], ACS Physical Chemistry Au. None(None)] 2024. https://doi.org/10.1021/acsphyschemau.4c00019 
+     
+No abstract    
+
+    
+
+* Electrochemical reduction of cyanide on conjugated copper-organic framework Cu3(HHTP)2 monolayer: A dispersion-corrected DFT investigation  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395688468
+:TOPICS: Chemistry and Applications of Metal-Organic Frameworks, Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-04-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.04.265")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395688468"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395688468"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395688468"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395688468 (Open access: False)
+    
+[[https://openalex.org/A5018714901][Rongwei Shi]], [[https://openalex.org/A5066906174][Yang−Xin Yu]], [[https://openalex.org/A5006909818][A. N. Chibisov]], International journal of hydrogen energy. None(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.04.265 
+     
+No abstract    
+
+    
+
+* Key Ingredients for the Screening of Single Atom Catalysts for the Hydrogen Evolution Reaction: The Case of Titanium Nitride  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395693504
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-04-26
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202401058")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395693504"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395693504"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395693504"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395693504 (Open access: False)
+    
+[[https://openalex.org/A5061443346][Clara Saetta]], [[https://openalex.org/A5014039805][Ilaria Barlocco]], [[https://openalex.org/A5087412983][Giovanni Di Liberto]], [[https://openalex.org/A5018929838][Gianfranco Pacchioni]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202401058 
+     
+Abstract A computational screening of Single Atom Catalysts (SACs) bound to titanium nitride (TiN) is presented, for the Hydrogen Evolution Reaction (HER), based on density functional theory. The role of fundamental ingredients is explored to account for a reliable screening of SACs. Namely, the formation of H 2 ‐complexes besides the classical H * one impacts the predicted HER activity, in line with previous studies on other SACs. Also, the results indicate that one needs to adopt self‐interaction‐corrected functionals. Finally, predicting an active catalyst is of little help without an assessment of its stability. Thus, it is included in the theoretical framework the analysis of the stability of the SACs in working conditions of pH and voltage. Once unconventional intermediates and stability are considered in a self‐interaction corrected scheme, the number of potential good catalysts for HER is strongly reduced since i) some potentially good catalysts are not stable against dissolution and ii) the formation of unconventional intermediates leads to thermodynamic barriers. This study highlights the importance of including ingredients for the prediction of new systems, such as the formation of unconventional intermediates, estimating the stability of SACs, and the adoption of self‐interaction corrected functionals. Also, this study highlights some interesting candidates deserving of dedicated work.    
+
+    
+
+* Ameliorating the electronic environment of NiCoP by halogen doping: A strategy for boosting hydrogen evolution performance  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4395699780
+:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Formation and Properties of Nanocrystals and Nanostructures
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.fuel.2024.131780")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395699780"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395699780"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395699780"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4395699780 (Open access: False)
+    
+[[https://openalex.org/A5060011552][Jian Su]], [[https://openalex.org/A5008123775][Nan Jiang]], [[https://openalex.org/A5061815947][Bolong Jiang]], [[https://openalex.org/A5065418938][Yuanyuan Wang]], [[https://openalex.org/A5007989942][Xueqin Wang]], [[https://openalex.org/A5082668462][Zhijun Li]], [[https://openalex.org/A5090046328][Hua Song]], Fuel. 369(None)] 2024. https://doi.org/10.1016/j.fuel.2024.131780 
+     
+The design of highly efficient and robust non-noble metal water splitting catalysts for hydrogen production is crucial to reduce overpotential and energy consumption. Herein, a strategy for in-situ growth of halogen-doped NiCoP (X-NiCoP/NF, X = F, Cl, and Br) catalysts with special morphology on nickel foam is proposed. Both the experimental results and theoretical calculations reveal that the downshift of the d-band center energy can regulate the charge distribution of NiCoP owing to doping of strong electronegativity halogen, thus optimizing the Gibbs free energy of H* absorption (△GH*). The F-NiCoP/NF catalyst achieves remarkable HER activity under alkaline conditions, with overpotential at 10 mA cm−2 (η10) of 59 mV and Tafel slope of 48.9 mV dec−1 in 1.0 M KOH. Moreover, F-doping significantly increases the electrochemically active surface area (ECSA) and turnover frequency (TOF), suggestive of the F promotes the formation of highly dispersed high intrinsic active sites. The F-NiCoP/NF exhibits excellent stability with a negligible decrease in activity after durability tests. This work sheds light on the facile synthesis of highly active and stable catalysts with strong electronegative atom doping for HER.    
+
+    
+
 * EFFECT OF HEAT TREATMENT ON THE STRUCTURE AND FUNCTIONAL CHARACTERISTICS OF A PtCo/C CATALYST  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4395003648
@@ -1312,27 +1417,6 @@ OpenAlex: https://openalex.org/W4395003648 (Open access: False)
 [[https://openalex.org/A5030726285][A. K. Nevelskaya]], [[https://openalex.org/A5017267000][С. В. Беленов]], [[https://openalex.org/A5070099236][N. V. Toporkov]], [[https://openalex.org/A5054714368][A. Yu. Nikulin]], Èlektrohimiâ. 59(12)] 2023. https://doi.org/10.31857/s0424857023120083 
      
 The PtCo/C electrocatalyst obtained by the method of simultaneous reduction of metal precursors using sodium borohydride was treated at a temperature of 350 ˚C in an argon atmosphere for 1 hour. The results of X-ray phase analysis and transmission electron microscopy indicate an increase in the average size of crystallites and the formation of nanoparticle agglomerates after heat treatment. The shift in the reflection of Pt (111) after treatment indicates the possible segregation of metal components during the heating of the sample. An increase in the catalyst activity after heat treatment is shown, both mass activity and specific activity. The stability of the sample after heat treatment, according to the results of the stress test in the potential range of 0.6–1.4 V, showed a higher value than the material in the “as prepared” state.    
-
-    
-
-* Designing Asymmetrical TMN4 Sites via Phosphorus or sulfur Dual Coordination as High-Performance Electrocatalysts for Oxygen Evolution Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4394980238
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.04.095")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4394980238"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4394980238"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4394980238"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4394980238 (Open access: False)
-    
-[[https://openalex.org/A5006290241][Zhe Xue]], [[https://openalex.org/A5004753547][Rui Tan]], [[https://openalex.org/A5068080781][Jinzhong Tian]], [[https://openalex.org/A5065987129][Hua Hou]], [[https://openalex.org/A5046173951][Xinyu Zhang]], [[https://openalex.org/A5054295426][Yuhong Zhao]], Journal of colloid and interface science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.04.095 
-     
-The development of highly efficient oxygen evolution reaction (OER) catalysts based on more cost-effective and earth-abundant elements is of great significance and still faces a huge challenge. In this work, a series of transition metal (TM) embedding a newly-defined monolayer carbon nitride phase is theoretically profiled and constructed as a catalytic platform for OER studies. Typically, a four-step screening strategy was proposed to rapidly identified high performance candidates and the coordination structure and catalytic performance relationship was thoroughly analyzed. Moreover, the eliminating criterion was established to condenses valid range based on the Gibbs free energy of OH*. Our results reveal that the as-constructed 2FeCN/P exhibits superior activity toward OER with an ultralow overpotential of 0.25 V, at the same time, the established 3FeCN/S configuration performed well as a bifunctional OER/ORR electrocatalysis with extremely low overpotential ηOER/ηORR of 0.26/0.48 V. Overall, this work provides an effective framework for screening advanced OER catalysts, which can also be extended to other complex multistep catalytic reactions.    
 
     
 
