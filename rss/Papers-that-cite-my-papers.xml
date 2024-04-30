@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 29 Apr 2024 01:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 01:03:54 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing electrocatalytic hydrogen evolution of MoS2 enabled by electrochemical cation implantation for simultaneous surface-defect and phase engineering</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124037</link>
-      <description>Mun Kyoung Kim, Bipin Lamichhane, Baozhen Song, Sunhyeong Kwon, Benzhi Wang, Shyam Kattel, Ji Hoon Lee, Hyung Mo Jeong, Applied catalysis. B, Environmental. 352(None)] 2024. https://openalex.org/W4394987326
-
-                No abstract</description>
-      <author>Mun Kyoung Kim, Bipin Lamichhane, Baozhen Song, Sunhyeong Kwon, Benzhi Wang, Shyam Kattel, Ji Hoon Lee, Hyung Mo Jeong</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124037</guid>
-    </item>
-    <item>
-      <title>Photocatalytic H2 generation and CO2 reduction by WB5-x cocatalyst of TiO2 catalyst</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160095</link>
-      <description>Anna Yu. Kurenkova, Aleksandra D. Radina, V. S. Baidyshev, Pavel Povalyaev, Egor E. Aidakov, E. Yu. Gerasimov, Denis D. Mishchenko, Angelina V. Zhurenok, A. Ya. Pak, Ekaterina A. Kozlova, Alexander G. Kvashnin, Applied surface science. 661(None)] 2024. https://openalex.org/W4394992243
-
-                No abstract</description>
-      <author>Anna Yu. Kurenkova, Aleksandra D. Radina, V. S. Baidyshev, Pavel Povalyaev, Egor E. Aidakov, E. Yu. Gerasimov, Denis D. Mishchenko, Angelina V. Zhurenok, A. Ya. Pak, Ekaterina A. Kozlova, Alexander G. Kvashnin</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160095</guid>
-    </item>
     <item>
       <title>Towards atom-level understanding of metal oxide catalysts for the oxygen evolution reaction with machine learning</title>
       <link>https://doi.org/10.1038/s41524-024-01273-y</link>
@@ -666,6 +646,46 @@
       <author>Jian Su, Nan Jiang, Bolong Jiang, Yuanyuan Wang, Xueqin Wang, Zhijun Li, Hua Song</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131780</guid>
+    </item>
+    <item>
+      <title>Experimental study on gas separation from the oil&#8211;water-emulsion mixture via hydrate method</title>
+      <link>https://doi.org/10.1016/j.ces.2024.120198</link>
+      <description>Xiaofang Lv, Xiongwei Ni, Yan-Yun Xiao, Yang Liu, Mingguo Peng, Qianli Ma, Chuanshuo Wang, Shidong Zhou, Shangfei Song, Chemical engineering science. None(None)] 2024. https://openalex.org/W4395701062
+
+                No abstract</description>
+      <author>Xiaofang Lv, Xiongwei Ni, Yan-Yun Xiao, Yang Liu, Mingguo Peng, Qianli Ma, Chuanshuo Wang, Shidong Zhou, Shangfei Song</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120198</guid>
+    </item>
+    <item>
+      <title>Potential powered EC-SERS for sensitive detection of acetamiprid</title>
+      <link>https://doi.org/10.1016/j.jfoodeng.2024.112109</link>
+      <description>Ting Wu, Xuemei Tang, Wei Zeng, Yu Han, Sihang Zhang, Jing Wei, Long Wu, Journal of food engineering. None(None)] 2024. https://openalex.org/W4395701347
+
+                No abstract</description>
+      <author>Ting Wu, Xuemei Tang, Wei Zeng, Yu Han, Sihang Zhang, Jing Wei, Long Wu</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jfoodeng.2024.112109</guid>
+    </item>
+    <item>
+      <title>Enhancing oxygen evolution reaction via hydrogen plasma treatment: Unveiling the functionality of CN defects and the role of Fe in NiFe Prussian blue analogs</title>
+      <link>https://doi.org/10.1002/ece2.36</link>
+      <description>Qingdong Ruan, Dan Li, Chien-Huei Wu, Chao Huang, Paul K. Chu, EcoEnergy. None(None)] 2024. https://openalex.org/W4395956193
+
+                Abstract The rational design of electronic and vacancy structures is crucial to regulating and enhancing electrocatalytic water splitting. However, creating novel vacancies and precisely controlling the number of vacancies in existing materials systems pose significant challenges. Herein, a novel approach to optimize the concentration of the CN vacancy (V CN ) in the NiFe Prussian blue analog (PBA) nanocubes is designed by incorporating the H 2 or O 2 plasma treatment. The relationship between the V CN and catalysis is analyzed, and results show that a moderate concentration of V CN (6.5%) can enormously enhance oxygen evolution reaction (OER) activity of NiFe PBA. However, an excessive amount of V CN disrupts the crystal structure and hinders the transportation of charge carriers, consequently leading to inferior OER. Furthermore, the V CN significantly activates the activity of Fe sites, inducing preferential adsorption of OH &#8722; on Fe sites, followed by adsorption on Ni sites, thereby optimizing the reaction pathway and significantly promoting OER performance. In addition, V CN also suppresses Fe leaching, giving the catalyst excellent durability. This study reveals the feasibility of creating unconventional defects in nanomaterials and precisely controlling the number of vacancies for diverse catalytic and energy applications.</description>
+      <author>Qingdong Ruan, Dan Li, Chien-Huei Wu, Chao Huang, Paul K. Chu</author>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ece2.36</guid>
+    </item>
+    <item>
+      <title>Zero-Gap Bipolar Membrane Water Electrolyzers: Principles, Challenges and Practical Insights</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144345</link>
+      <description>Abdulhai H. Faqeeh, Mark D. Symes, Electrochimica acta. None(None)] 2024. https://openalex.org/W4395957045
+
+                Producing hydrogen through the electrolysis of water is an attractive method for storing intermittent, renewably-generated power in the form of a clean-burning fuel. Amongst the various types of electrolyzer that have been proposed, those employing bipolar membranes have the unique advantage of allowing the water splitting half-reactions to proceed under their &#3839;kinetically most favourable conditions, thanks to the ability of these membranes to maintain a pH gradient. Maintaining such a pH gradient enables the oxygen evolution reaction to occur in basic conditions whilst the hydrogen evolution reaction occurs in acidic conditions. However, bipolar membrane electrolysis technology remains at an early stage of development and faces several challenges, including high potential losses and low energy efficiency caused by insufficient water transport across (and ion crossover within) the bipolar membrane. In this review, the strategies and methods employed to address these challenges and to enhance the performance and efficiency of bipolar membrane water electrolysis are discussed. The scope of this review is primarily on zero-gap bipolar membrane/interface water electrolyzers, as this configuration is arguably the most relevant bipolar membrane/interface electrolyzer architecture for scaled-up devices and commercial hydrogen production.</description>
+      <author>Abdulhai H. Faqeeh, Mark D. Symes</author>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144345</guid>
     </item>
     <item>
       <title>EFFECT OF HEAT TREATMENT ON THE STRUCTURE AND FUNCTIONAL CHARACTERISTICS OF A PtCo/C CATALYST</title>
