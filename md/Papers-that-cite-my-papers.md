@@ -1,127 +1,18 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue Apr 30 01:03:54 2024
+Created on Wed May  1 01:08:56 2024
 
-Found 72 results from 2024-04-23 to 2024-04-30
+Found 72 results from 2024-04-24 to 2024-05-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2508686881)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2537005472](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4391338155%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2537005472)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2564739126](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2029904786%7Chttps%3A//openalex.org/W2564739126)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W4210859464](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W2109577840%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W4210859464)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W267007904)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020)
-- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## Towards atom-level understanding of metal oxide catalysts for the oxygen evolution reaction with machine learning   
-
-OpenAlex: https://openalex.org/W4394996236    
-Open access: True
-    
-[Jaclyn R. Lunger](https://openalex.org/A5016649060), [Jessica Karaguesian](https://openalex.org/A5026870248), [Hoje Chun](https://openalex.org/A5034081562), [Jiayu Peng](https://openalex.org/A5042383151), [Yitong Tseo](https://openalex.org/A5044672373), [Chunhui Shan](https://openalex.org/A5032610126), [Byungchan Han](https://openalex.org/A5036749276), [Yang Shao‐Horn](https://openalex.org/A5072645578), [Rafael Gómez‐Bombarelli](https://openalex.org/A5018079613), npj computational materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01273-y ([pdf](https://www.nature.com/articles/s41524-024-01273-y.pdf)).
-    
-Abstract Green hydrogen production is crucial for a sustainable future, but current catalysts for the oxygen evolution reaction (OER) suffer from slow kinetics, despite many efforts to produce optimal designs, particularly through the calculation of descriptors for activity. In this study, we develop a dataset of density functional theory calculations of bulk and surface perovskite oxides, and adsorption energies of OER intermediates, which includes compositions up to quaternary and facets up to (555). We demonstrate that per-site properties of perovskite oxides such as Bader charge or band center can be tuned through element substitution and faceting, and develop a machine learning model that accurately predicts these properties directly from the local chemical environment. We leverage these per-site properties to identify promising perovskites with high theoretical OER activity. The identified design principles and promising materials provide a roadmap for closing the gap between current artificial catalysts and biological enzymes such as photosystem II.    
-
-    
-
-## Efficient OER catalysis on Ir-doped Co3O4: Understanding Double and Quadruple Oxygen Coupling Mechanisms on Bimetallic sites   
-
-OpenAlex: https://openalex.org/W4394996745    
-Open access: False
-    
-[Zheheng Jiang](https://openalex.org/A5009437198), [Xu Wang](https://openalex.org/A5059661008), [Yaping Li](https://openalex.org/A5090991197), [Xiaoming Sun](https://openalex.org/A5043472647), Catalysis letters. None(None)] 2024.https://doi.org/10.1007/s10562-024-04683-1.
-    
-No abstract    
-
-    
-
-## Sulfur Doping Triggers Charge Redistribution at the Heterointerface of Fe-N-C Supported Ultralow-Pt-loading Electrocatalysts for Efficient Oxygen Reduction   
-
-OpenAlex: https://openalex.org/W4394997719    
-Open access: False
-    
-[Qian Liu](https://openalex.org/A5002234773), [Chenye Zhang](https://openalex.org/A5084227580), [Ming‐Xun Ren](https://openalex.org/A5000586349), [Jinyi Wang](https://openalex.org/A5077895438), [Li Feng](https://openalex.org/A5072188008), [Yixuan Wang](https://openalex.org/A5048142533), [Chuang Liu](https://openalex.org/A5005792080), [Ningru Xiao](https://openalex.org/A5002575394), [Haiming Zhang](https://openalex.org/A5000705443), Colloids and surfaces. A, Physicochemical and engineering aspects. None(None)] 2024.https://doi.org/10.1016/j.colsurfa.2024.134055.
-    
-No abstract    
-
-    
-
-## Local CO2 reservoir layer promotes rapid and selective electrochemical CO2 reduction   
-
-OpenAlex: https://openalex.org/W4395001584    
-Open access: True
-    
-[Subhabrata Mukhopadhyay](https://openalex.org/A5014234142), [Muhammad Saad Naeem](https://openalex.org/A5025669967), [G. Shiva Shanker](https://openalex.org/A5075812681), [Arnab Ghatak](https://openalex.org/A5086461939), [Alagar Raja Kottaichamy](https://openalex.org/A5085689365), [Ran Shimoni](https://openalex.org/A5085963150), [Liat Avram](https://openalex.org/A5065666784), [Itamar Liberman](https://openalex.org/A5041755694), [Rotem Balilty](https://openalex.org/A5094278970), [Raya Ifraemov](https://openalex.org/A5051704715), [Illya Rozenberg](https://openalex.org/A5012607163), [Menny Shalom](https://openalex.org/A5047007925), [Núria López](https://openalex.org/A5066694116), [Idan Hod](https://openalex.org/A5014582181), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-47498-9 ([pdf](https://www.nature.com/articles/s41467-024-47498-9.pdf)).
-    
-Abstract Electrochemical CO 2 reduction reaction in aqueous electrolytes is a promising route to produce added-value chemicals and decrease carbon emissions. However, even in Gas-Diffusion Electrode devices, low aqueous CO 2 solubility limits catalysis rate and selectivity. Here, we demonstrate that when assembled over a heterogeneous electrocatalyst, a film of nitrile-modified Metal-Organic Framework (MOF) acts as a remarkable CO 2 -solvation layer that increases its local concentration by ~27-fold compared to bulk electrolyte, reaching 0.82 M. When mounted on a Bi catalyst in a Gas Diffusion Electrode, the MOF drastically improves CO 2 -to-HCOOH conversion, reaching above 90% selectivity and partial HCOOH currents of 166 mA/cm 2 (at −0.9 V vs RHE). The MOF also facilitates catalysis through stabilization of reaction intermediates, as identified by operando infrared spectroscopy and Density Functional Theory. Hence, the presented strategy provides new molecular means to enhance heterogeneous electrochemical CO 2 reduction reaction, leading it closer to the requirements for practical implementation.    
-
-    
-
-## The mechanism of water oxidation using transition metal-based heterogeneous electrocatalysts   
-
-OpenAlex: https://openalex.org/W4395003921    
-Open access: False
-    
-[Shujiao Yang](https://openalex.org/A5000424258), [Xiaohan Liu](https://openalex.org/A5032002333), [Siqi Li](https://openalex.org/A5053350535), [Wanming Yuan](https://openalex.org/A5007083940), [Luna Yang](https://openalex.org/A5014814748), [Ting Wang](https://openalex.org/A5068869881), [Haoquan Zheng](https://openalex.org/A5021383691), [Rui Cao](https://openalex.org/A5023594276), [Wei Zhang](https://openalex.org/A5020575254), Chemical Society reviews. None(None)] 2024.https://doi.org/10.1039/d3cs01031g.
-    
-The water oxidation reaction, a crucial process for solar energy conversion, has garnered significant research attention. Achieving efficient energy conversion requires the development of cost-effective and durable water oxidation catalysts. To design effective catalysts, it is essential to have a fundamental understanding of the reaction mechanisms. This review presents a comprehensive overview of recent advancements in the understanding of the mechanisms of water oxidation using transition metal-based heterogeneous electrocatalysts, including Mn, Fe, Co, Ni, and Cu-based catalysts. It highlights the catalytic mechanisms of different transition metals and emphasizes the importance of monitoring of key intermediates to explore the reaction pathway. In addition, advanced techniques for physical characterization of water oxidation intermediates are also introduced, for the purpose of providing information for establishing reliable methodologies in water oxidation research. The study of transition metal-based water oxidation electrocatalysts is instrumental in providing novel insights into understanding both natural and artificial energy conversion processes.    
-
-    
-
-## Chemically Reversible CO2 Uptake by Dendrimer-Impregnated Metal–Organic Frameworks   
-
-OpenAlex: https://openalex.org/W4395010584    
-Open access: False
-    
-[Rebecca B. Goncalves](https://openalex.org/A5060234737), [Carlos Cuadrado Collados](https://openalex.org/A5078028861), [Christos D. Malliakas](https://openalex.org/A5038077986), [Zhiwei Wang](https://openalex.org/A5082599988), [Matthias Thommes](https://openalex.org/A5052174858), [Randall Q. Snurr](https://openalex.org/A5019016673), [Joseph T. Hupp](https://openalex.org/A5074510664), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c00885.
-    
-Industrialization over the past two centuries has resulted in a continuous rise in global CO2 emissions. These emissions are changing ecosystems and livelihoods. Therefore, methods are needed to capture these emissions from point sources and possibly from our atmosphere. Though the amount of CO2 is rising, it is challenging to capture directly from air because its concentration in air is extremely low, 0.04%. In this study, amines installed inside metal–organic frameworks (MOFs) are investigated for the adsorption of CO2, including at low concentrations. The amines used are polyamidoamine dendrimers that contain many primary amines. Chemically reversible adsorption of CO2 via carbamate formation was observed, as was enhanced uptake of carbon dioxide, likely via dendrimer-amide-based physisorption. Limiting factors in this initial study are comparatively low dendrimer loadings and slow kinetics for carbon dioxide uptake and release, even at 80 °C.    
-
-    
-
-## Chromium‐Induced High Covalent Co–O Bonds for Efficient Anodic Catalysts in PEM Electrolyzer   
-
-OpenAlex: https://openalex.org/W4395011558    
-Open access: True
-    
-[Qisheng Yan](https://openalex.org/A5000327457), [Jie Feng](https://openalex.org/A5007517470), [Wen‐Juan Shi](https://openalex.org/A5007226666), [Weixin Niu](https://openalex.org/A5082543297), [Zhuorong Lu](https://openalex.org/A5090722795), [Kai Sun](https://openalex.org/A5058842255), [Xiao Yang](https://openalex.org/A5073041672), [Liangyao Xue](https://openalex.org/A5051134974), [Yi Liu](https://openalex.org/A5008659449), [Youyong Li](https://openalex.org/A5035944985), [Bo Zhang](https://openalex.org/A5091305118), Advanced science. None(None)] 2024.https://doi.org/10.1002/advs.202402356 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.202402356)).
-    
-Abstract The proton exchange membrane water electrolyzer (PEMWE), crucial for green hydrogen production, is challenged by the scarcity and high cost of iridium‐based materials. Cobalt oxides, as ideal electrocatalysts for oxygen evolution reaction (OER), have not been extensively applied in PEMWE, due to extremely high voltage and poor stability at large current density, caused by complicated structural variations of cobalt compounds during the OER process. Thus, the authors sought to introduce chromium into a cobalt spinel (Co 3 O 4 ) catalyst to regulate the electronic structure of cobalt, exhibiting a higher oxidation state and increased Co–O covalency with a stable structure. In‐depth operando characterizations and theoretical calculations revealed that the activated Co–O covalency and adaptable redox behavior are crucial for facilitating its OER activity. Both turnover frequency and mass activity of Cr‐doped Co 3 O 4 (CoCr) at 1.67 V (vs RHE) increased by over eight times than those of as‐synthesized Co 3 O 4 . The obtained CoCr catalyst achieved 1500 mA cm −2 at 2.17 V and exhibited notable durability over extended operation periods – over 100 h at 500 mA cm −2 and 500 h at 100 mA cm −2 , demonstrating promising application in the PEMWE industry.    
-
-    
-
-## Co-NC Catalyst with Rich Coordinated Nitrogen and Hierarchical Porous Structure for Oxygen Reduction Reaction   
-
-OpenAlex: https://openalex.org/W4395014634    
-Open access: False
-    
-[Ji‐Rui Bai](https://openalex.org/A5053269565), [Kai Zhang](https://openalex.org/A5009512617), [Jia-Yao Gao](https://openalex.org/A5015506353), [Zeng-Yu Han](https://openalex.org/A5073676178), [Yang Zhu](https://openalex.org/A5087372334), [Xiaoqi Yuan](https://openalex.org/A5005954086), [Wenfang Cai](https://openalex.org/A5023830542), [Xiaohe Liu](https://openalex.org/A5053373754), [Qing‐Yun Chen](https://openalex.org/A5016297482), [Yun‐Hai Wang](https://openalex.org/A5068754949), Journal of alloys and compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174599.
-    
-Cobalt nitrogen-doped carbon (Co-NC) catalysts are synthesized for oxygen reduction reaction (ORR) via the pyrolysis of zinc-mediated and SiO2-templated 2,6-diaminopyridine (DAP) composites. The resulting Co-NC(Zn12-SiO2[20])-900 demonstrates exceptional ORR activities, with half-wave and onset potentials of 0.835 V and 0.875 V, respectively, which is similar to Pt/C catalyst. In long-term durability test, the Co-NC(Zn12-SiO2[20])-900 catalyst exhibits a negligible E1/2 shift, and in methanol tolerance tests, it displays significantly better performance than commercial Pt/C catalyst. The superior performance can be attributed to the hierarchical porous structure, dense and highly accessible Co-N4 and graphitic nitrogen (g-N) sites. The high content of Co-N4 and g-N sites enhances 3d-orbital filling and reduces the Co centers' on-site magnetic moment, as calculated by density functional theory. This may lead to a decrease in the energy barrier of the rate-determining step (RDS), which in turn enhances the intrinsic activity of the ORR.    
-
-    
-
-## Advances in understanding the regulation effect of carbon dots on intrinsic activity of metal and metal-free catalysts for electrocatalysis reaction   
-
-OpenAlex: https://openalex.org/W4395014721    
-Open access: False
-    
-[Bo Meng](https://openalex.org/A5078473875), [Zimei Fu](https://openalex.org/A5064151810), [Chunmei Liu](https://openalex.org/A5044042136), [Peipei Zhao](https://openalex.org/A5005560656), [Jiamin Ma](https://openalex.org/A5055003513), [Wenxiang Wang](https://openalex.org/A5024519095), [He Xiao](https://openalex.org/A5009521836), [Junwei Wu](https://openalex.org/A5005014456), [Man Zhao](https://openalex.org/A5019779253), [Jianfeng Jia](https://openalex.org/A5089859351), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.151544.
-    
-Electrochemical energy conversion and storage devices support a promising green, efficient renewable way to solve energy-supply shortages and environmental problems. To promote reaction rates of involved electrochemical reactions, non-metal or noble metal electrocatalysts are elaborately designed. For optimizing the intrinsic structure and decreasing the cost, functional carbon dots (CDs) are chosen to add into these metal or metal-free materials, benefitting from their unique advantages of abundant surface functional groups, excellent electron acceptor/donor properties and high specific surface area. This review aims to support a summary of recent breakthrough in the application of CDs to regulate intrinsic structure of metal or metal-free materials including dispersibility, utilization efficiency, electronic state, partial charge distribution, and coordination environment of active atom-sites. Moreover, electrocatalytic performances (including stability, conductivity and antitoxicity, etc.) are also systematically investigated. Except that, the potential opportunities and challenges for application of CDs-based materials in the future are also discussed to promote the development of this field.    
-
-    
-
-## Transition metal nitride catalysts for selective conversion of oxygen-containing molecules   
-
-OpenAlex: https://openalex.org/W4395016795    
-Open access: True
-    
-[William N. Porter](https://openalex.org/A5060526552), [Kevin K. Turaczy](https://openalex.org/A5093112138), [Marcus Yu](https://openalex.org/A5003597822), [Hansen Mou](https://openalex.org/A5070825868), [Kuan Chang](https://openalex.org/A5026193724), Chemical science. None(None)] 2024.https://doi.org/10.1039/d4sc01314j ([pdf](https://pubs.rsc.org/en/content/articlepdf/2024/sc/d4sc01314j)).
-    
-Transition metal nitrides are promising catalysts for a variety of reactions. This work outlines their use for C 1 molecule upgrading, biomass valorization, and hydrogen evolution, and presents challenges and future opportunities for these catalysts.    
-
-    
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4391338155](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2408080617%7Chttps%3A//openalex.org/W3041419076%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W1989836155%7Chttps%3A//openalex.org/W2016136557%7Chttps%3A//openalex.org/W2076603107%7Chttps%3A//openalex.org/W1754779462%7Chttps%3A//openalex.org/W1989887791%7Chttps%3A//openalex.org/W2043756370%7Chttps%3A//openalex.org/W2075123250%7Chttps%3A//openalex.org/W2326319594%7Chttps%3A//openalex.org/W4205989106%7Chttps%3A//openalex.org/W1983211364%7Chttps%3A//openalex.org/W2107588036%7Chttps%3A//openalex.org/W2321716361%7Chttps%3A//openalex.org/W2622772233%7Chttps%3A//openalex.org/W2537005472%7Chttps%3A//openalex.org/W4390939862%7Chttps%3A//openalex.org/W4391338155)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2029904786](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4393066436%7Chttps%3A//openalex.org/W4393189800%7Chttps%3A//openalex.org/W2008336692%7Chttps%3A//openalex.org/W2004889825%7Chttps%3A//openalex.org/W2321815843%7Chttps%3A//openalex.org/W1999481271%7Chttps%3A//openalex.org/W2782434877%7Chttps%3A//openalex.org/W2319547265%7Chttps%3A//openalex.org/W3040935211%7Chttps%3A//openalex.org/W4378953196%7Chttps%3A//openalex.org/W4387964204%7Chttps%3A//openalex.org/W4393587488%7Chttps%3A//openalex.org/W4393806444%7Chttps%3A//openalex.org/W2949437120%7Chttps%3A//openalex.org/W2024117507%7Chttps%3A//openalex.org/W1992013238%7Chttps%3A//openalex.org/W2081235356%7Chttps%3A//openalex.org/W2036912748%7Chttps%3A//openalex.org/W2288114809%7Chttps%3A//openalex.org/W2029904786)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2564739126%7Chttps%3A//openalex.org/W2794932603%7Chttps%3A//openalex.org/W3149320750%7Chttps%3A//openalex.org/W3216093002%7Chttps%3A//openalex.org/W1991992285%7Chttps%3A//openalex.org/W2038722478%7Chttps%3A//openalex.org/W2346037593%7Chttps%3A//openalex.org/W2018598173%7Chttps%3A//openalex.org/W2583989457%7Chttps%3A//openalex.org/W3209912745%7Chttps%3A//openalex.org/W2084630051%7Chttps%3A//openalex.org/W1976330930%7Chttps%3A//openalex.org/W2176643401%7Chttps%3A//openalex.org/W3216263093%7Chttps%3A//openalex.org/W4290659046%7Chttps%3A//openalex.org/W4362602338%7Chttps%3A//openalex.org/W4385584015%7Chttps%3A//openalex.org/W4387438978%7Chttps%3A//openalex.org/W2047252852%7Chttps%3A//openalex.org/W2109577840)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2045355650%7Chttps%3A//openalex.org/W1884320396%7Chttps%3A//openalex.org/W2345885390%7Chttps%3A//openalex.org/W4210859464%7Chttps%3A//openalex.org/W2145750734%7Chttps%3A//openalex.org/W1955781951%7Chttps%3A//openalex.org/W1862313826%7Chttps%3A//openalex.org/W3021105764%7Chttps%3A//openalex.org/W267007904%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W2938683215%7Chttps%3A//openalex.org/W3197956321%7Chttps%3A//openalex.org/W2416343268%7Chttps%3A//openalex.org/W4353007039%7Chttps%3A//openalex.org/W4366983532%7Chttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943)
+- [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
 
 ## Tuning Electrocatalytic Activities of Dealloyed Nanoporous Catalysts by Macroscopic Strain Engineering   
 
@@ -761,25 +652,113 @@ Producing hydrogen through the electrolysis of water is an attractive method for
 
     
 
-## EFFECT OF HEAT TREATMENT ON THE STRUCTURE AND FUNCTIONAL CHARACTERISTICS OF A PtCo/C CATALYST   
+## Advanced oxidation processes for water and wastewater treatment – guidance for systematic future research   
 
-OpenAlex: https://openalex.org/W4395003648    
-Open access: False
+OpenAlex: https://openalex.org/W4395961526    
+Open access: True
     
-[A. K. Nevelskaya](https://openalex.org/A5030726285), [С. В. Беленов](https://openalex.org/A5017267000), [N. V. Toporkov](https://openalex.org/A5070099236), [A. Yu. Nikulin](https://openalex.org/A5054714368), Èlektrohimiâ. 59(12)] 2023.https://doi.org/10.31857/s0424857023120083.
-    
-The PtCo/C electrocatalyst obtained by the method of simultaneous reduction of metal precursors using sodium borohydride was treated at a temperature of 350 ˚C in an argon atmosphere for 1 hour. The results of X-ray phase analysis and transmission electron microscopy indicate an increase in the average size of crystallites and the formation of nanoparticle agglomerates after heat treatment. The shift in the reflection of Pt (111) after treatment indicates the possible segregation of metal components during the heating of the sample. An increase in the catalyst activity after heat treatment is shown, both mass activity and specific activity. The stability of the sample after heat treatment, according to the results of the stress test in the potential range of 0.6–1.4 V, showed a higher value than the material in the “as prepared” state.    
-
-    
-
-## Optimization of CO2 capture plants with surrogate model uncertainties   
-
-OpenAlex: https://openalex.org/W4395033023    
-Open access: False
-    
-[A. Pedrozo](https://openalex.org/A5010731086), [C. M. Valderrama-Ríos](https://openalex.org/A5092336802), [Miguel Zamarripa](https://openalex.org/A5015881602), [Josh Morgan](https://openalex.org/A5086695747), [Juan-Pablo Osorio-Suárez](https://openalex.org/A5059129157), [Ariel Uribe-Rodríguez](https://openalex.org/A5007868705), [M. Soledad Diaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108709.
+[Uwe Hübner](https://openalex.org/A5009991789), [Stephanie Spahr](https://openalex.org/A5013723533), [Holger V. Lutze](https://openalex.org/A5009202201), [Arne Wieland](https://openalex.org/A5034561179), [Steffen Rüting](https://openalex.org/A5045599911), [Wolfgang Gernjak](https://openalex.org/A5063830588), [Jannis Wenk](https://openalex.org/A5073163291), Heliyon. None(None)] 2024.https://doi.org/10.1016/j.heliyon.2024.e30402.
     
 No abstract    
+
+    
+
+## Development of Novel Cube-Embedded MnO2/ZnO Nanocomposite for OER Activity and Supercapacitor Performance Evaluation   
+
+OpenAlex: https://openalex.org/W4396216669    
+Open access: False
+    
+[Muhammad Suleman Waheed](https://openalex.org/A5014861084), [Sarah A. Alsalhi](https://openalex.org/A5080314583), [Shaimaa A. M. Abdelmohsen](https://openalex.org/A5008098859), [Sher Zaman](https://openalex.org/A5051392796), [Shandar Ahmad](https://openalex.org/A5028328692), [Salma Aman](https://openalex.org/A5083753418), [Zubair Ahmad](https://openalex.org/A5084172156), [A.M.A. Henaish](https://openalex.org/A5051797797), [Abdullah G. Al‐Sehemi](https://openalex.org/A5078102681), [T.A. Taha](https://openalex.org/A5040722052), JOM. None(None)] 2024.https://doi.org/10.1007/s11837-024-06559-6.
+    
+No abstract    
+
+    
+
+## Theoretical Investigation on the Structural Characteristics and Electrocatalytic Co2 Reduction Mechanism of G-C3n4 Supported Ag/Au Single Atom Catalysts   
+
+OpenAlex: https://openalex.org/W4396217729    
+Open access: False
+    
+[Hui‐ling Shui](https://openalex.org/A5081679759), [G. S. Li](https://openalex.org/A5037438524), [Chao Fu](https://openalex.org/A5002675645), [Dong-Heng Li](https://openalex.org/A5089677738), [Xiaoqin Liang](https://openalex.org/A5047708304), [Kai Li](https://openalex.org/A5051363890), [Laicai Li](https://openalex.org/A5024867236), [Yan Zheng](https://openalex.org/A5035956405), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4811081.
+    
+No abstract    
+
+    
+
+## Theoretical Study of p-Block Metal Single-Atom-Loaded Carbon Nitride Catalyst for Photocatalytic Water Splitting   
+
+OpenAlex: https://openalex.org/W4396220936    
+Open access: True
+    
+[Meng-Ning Chen](https://openalex.org/A5018137772), [Yidi Wu](https://openalex.org/A5033535840), [Qiang Wan](https://openalex.org/A5010849294), [Sen Lin](https://openalex.org/A5016546361), Molecules/Molecules online/Molecules annual. 29(9)] 2024.https://doi.org/10.3390/molecules29092030.
+    
+Graphitic carbon nitride (g-C3N4), recognized for its considerable potential as a heterogeneous photocatalyst in water splitting, has attracted extensive research interest. By using density functional theory (DFT) calculations, the regulatory role of p-block metal (PM) single atoms on the photocatalytic activity of g-C3N4 in overall water splitting was systematically explored. The incorporation of PM atoms (Ge, Sn and Pb) led to a reduction in the overpotentials required for both the oxygen evolution reaction (OER) and the hydrogen evolution reaction (HER). Combined with the electronic structures analysis via hybrid functional, it was found that the introduction of Ge, Sn or Pb optimizes the positions of the valence band maximum (VBM) and the conduction band minimum (CBM), providing a robust driving force for HER and ensuring substantial driving force for OER. Meanwhile, the presence of these three PMs induces the spatial separation of VBM and CBM, inhibiting the recombination of carriers. These findings have significant implications for the design and preparation of efficient photocatalysts.    
+
+    
+
+## Revealing Interface Polarization Effects on the Electrical Double Layer with Efficient Open Boundary Simulations under Potential Control   
+
+OpenAlex: https://openalex.org/W4396221327    
+Open access: True
+    
+[Margherita Buraschi](https://openalex.org/A5004893218), [Andrew P. Horsfield](https://openalex.org/A5056981104), [Clotilde S. Cucinotta](https://openalex.org/A5045301145), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.3c03615.
+    
+No abstract    
+
+    
+
+## Selective Orbital Coupling: An Adsorption Mechanism in Single-Atom Catalysis   
+
+OpenAlex: https://openalex.org/W4396222769    
+Open access: False
+    
+[Chen He](https://openalex.org/A5011412020), [Chih‐Heng Lee](https://openalex.org/A5006509779), [Lei Meng](https://openalex.org/A5082813697), [Hsin‐Yi Tiffany Chen](https://openalex.org/A5075896117), [Zhe Li](https://openalex.org/A5036929839), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.3c13119.
+    
+Quantitative understanding of the chemisorption on single-atom catalysts (SACs) by their electronic properties is crucial for the catalyst design. However, the physical mechanism is still under debate. Here, the CO catalytic oxidation on single transition metal (i.e., Sc, Ti, V, Cr, Mn, Fe, Co, Ni) dopants is used as a theoretical model to explore the correlations between the characteristics of electronic structures and the chemisorption on SACs. For these metal dopants, their atomic d orbitals form several nondegenerate and localized electronic states that are found to be selectively coupled with the π* orbital of the adsorbed O2, which we defined as selective orbital coupling. Based on the selective orbital coupling, we find that the alignment between the selected d state and the π* state determines the bond strength, regardless of the electron occupation number of the selected d states; the electron transfer to form M–O bonding can be provided by the support. Such electron transfer can be related with the electronic metal–support interaction. We attribute the origin of the chemisorption mechanism to the coexistence of the localized orbital of the single transition metal and the continuous energy band of the Au support. Finally, we illustrate how this mechanism dominates the variation trend of the reaction barriers. Our results unravel a fundamental adsorption mechanism in SAC systems.    
+
+    
+
+## Structural Effects of FeN4 Active Sites Surrounded by Fourteen-Membered Ring Ligands on Oxygen Reduction Reaction Activity and Durability   
+
+OpenAlex: https://openalex.org/W4396222845    
+Open access: False
+    
+[Zhiqing Feng](https://openalex.org/A5070572571), [Shizuyo Honda](https://openalex.org/A5016997455), [Junya Ohyama](https://openalex.org/A5023127226), [Y. Iwata](https://openalex.org/A5079304908), [Keisuke Awaya](https://openalex.org/A5063143560), [Hiroshi Yoshida](https://openalex.org/A5090747333), [Masato Machida](https://openalex.org/A5013139214), [Kõtarõ Higashi](https://openalex.org/A5083848806), [Tomoya Uruga](https://openalex.org/A5018823705), [N. Kawamura](https://openalex.org/A5086036089), [Ryota Goto](https://openalex.org/A5043156415), [Takeo Ichihara](https://openalex.org/A5076217195), [Ryoichi Kojima](https://openalex.org/A5058060139), [Makoto Moriya](https://openalex.org/A5084453278), [Hideo Notsu](https://openalex.org/A5083768147), [Seiji Nagata](https://openalex.org/A5085533649), [Manabu Miyoshi](https://openalex.org/A5033031749), [Teruaki Hayakawa](https://openalex.org/A5037552153), [Yuta Nabae](https://openalex.org/A5017398992), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01122.
+    
+FeN4 active sites have been studied as non-Pt group metal (non-PGM) catalysts for the oxygen reduction reaction (ORR). The authors recently developed Fe(II) 1,14:7,8-ditethenotetrapyrido-[2,1,6-de:2′,1′6′-gh:2″,1″,6″-na][1,3,5,8,10,12] hexaazacyclotetradecine (Fe-14MR) as an FeN4 complex incorporating a 14-membered ring. This complex exhibited higher ORR activity and greater durability than Fe phthalocyanine, a conventional FeN4 complex having a 16-membered ring. In the present study, the ORR activity and durability of this Fe-14MR complex supported on C (Fe-14MR/C) were enhanced through modification of the active site structure by heating at 600 °C and removing protons on amine groups in the Fe-14MR. Density functional theory calculations indicated that the Fe-14MR/C structure generated by heating resulted in oxygen species absorption energies close to optimal values for the ORR. The improved durability of the heat-treated Fe-14MR/C was attributed to reduced distortion of the FeN4 sites. The results suggest that designing Fe-14MR structures can be a promising approach to developing non-PGM catalysts.    
+
+    
+
+## Single transition-metal atoms anchored on a novel Dirac-dispersive π-π conjugated holey graphitic carbon nitride substrate: computational screening toward efficient bifunctional OER/ORR electrocatalysts   
+
+OpenAlex: https://openalex.org/W4396224837    
+Open access: False
+    
+[Chunyao Fang](https://openalex.org/A5068270980), [Xihang Zhang](https://openalex.org/A5080295184), [Qiang Zhang](https://openalex.org/A5036599698), [Di Liu](https://openalex.org/A5003986323), [Xiaomeng Cui](https://openalex.org/A5063705587), [Jingcheng Xu](https://openalex.org/A5008098636), [Chenglong Shi](https://openalex.org/A5008325964), [Mengyu Yang](https://openalex.org/A5059980933), Rare metals/Rare Metals. None(None)] 2024.https://doi.org/10.1007/s12598-024-02652-6.
+    
+No abstract    
+
+    
+
+## Enhanced CO adsorption and *CO hydrogenation for efficient CO2 deep reduction on MnCu-NC   
+
+OpenAlex: https://openalex.org/W4396231739    
+Open access: False
+    
+[Zhiyun Hu](https://openalex.org/A5025635681), [Huang Liangai](https://openalex.org/A5095932719), [Liu Jianchuan](https://openalex.org/A5095932720), [Zhong Wenwu](https://openalex.org/A5029923065), Surfaces and interfaces. None(None)] 2024.https://doi.org/10.1016/j.surfin.2024.104426.
+    
+In CO2RR, enhancing CO adsorption could suppress desorption and increase *CO concentration for deep reduction. An underlying concern is that strong adsorption might result in high thermodynamic barrier for *CO hydrogenation, however, kinetic barrier firstly dominates the reaction pathway and determines the products selectivity. Directed by above idea, CO2RR performance on Mn, Cu doped nitrogenated carbon (MnCu-NC) is comprehensively studied using density functional theory (DFT). MnCu-NC shows a mild limiting potential of -0.59 V (*CO → *CHO) for CH3OH and CH4 products. CO poisoning is likely to cause catalyst deactivation, while CO modified MnCu-NC shows a slightly increased limiting potential of -0.63 V (*COCO → *COCHO) for CH3OH and CH4, and hydrogen evolution is significantly suppressed. Further comparative studies indicate that kinetic barrier for *CO hydrogenation is crucial for deep reduction, and C−O activation, as well as CO adsorption is enhanced by Π-backbonding. Besides, introduction Cu to dual-atom catalyst (DAC) could help retain more electrons and Mn has strong magnetization for charge transfer, both of which improve the charge densities and Π-backbonding strength, thus boosting the remarkable CO2RR performance toward CH4 and CH3OH on MnCu-NC.    
+
+    
+
+## Can Re cluster complexes be an efficient catalyst for hydrogen evolution reaction? Insights from experiments and computations   
+
+OpenAlex: https://openalex.org/W4396234031    
+Open access: False
+    
+[Mikhail Khrizanforov](https://openalex.org/A5090357376), [Bulat S. Akhmadeev](https://openalex.org/A5090571923), [Polina Milyukova](https://openalex.org/A5095934822), [Asiya R. Mustafina](https://openalex.org/A5082409632), [Almaz L. Zinnatullin](https://openalex.org/A5030552243), [Artur Khannanov](https://openalex.org/A5033080877), [Renat R. Nazmutdinov](https://openalex.org/A5054631944), [Konstantin A. Brylev](https://openalex.org/A5038535352), [Qi Shao](https://openalex.org/A5065985607), [Rustem Zairov](https://openalex.org/A5005873235), Dalton transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00144c.
+    
+This work presents the possibility of using a hexarenium cluster for the hydrogen evolution reaction.    
 
     
 
@@ -789,6 +768,28 @@ OpenAlex: https://openalex.org/W4395069331
 Open access: False
     
 [Taha Y. Ahmed](https://openalex.org/A5013182278), [Darko A. Noori](https://openalex.org/A5064156600), [Khayal K. Ahmed](https://openalex.org/A5042879628), [Shujahadeen B. Aziz](https://openalex.org/A5069207224), Materials science in semiconductor processing. 178(None)] 2024.https://doi.org/10.1016/j.mssp.2024.108459.
+    
+No abstract    
+
+    
+
+## Theoretical study on the Cs/Cs-O adsorbed graphene/semiconductor heterojunction anode for thermionic converters   
+
+OpenAlex: https://openalex.org/W4396217244    
+Open access: False
+    
+[Wei Sun](https://openalex.org/A5083675785), [Haoran Xu](https://openalex.org/A5087809207), [Hao Qiu](https://openalex.org/A5001817648), [Gang Xiao](https://openalex.org/A5018631961), Waste Disposal & Sustainable Energy/Waste disposal & sustainable energy. None(None)] 2024.https://doi.org/10.1007/s42768-024-00191-5.
+    
+No abstract    
+
+    
+
+## Optimization of CO2 capture plants with surrogate model uncertainties   
+
+OpenAlex: https://openalex.org/W4395033023    
+Open access: False
+    
+[A. Pedrozo](https://openalex.org/A5010731086), [C. M. Valderrama-Ríos](https://openalex.org/A5092336802), [Miguel Zamarripa](https://openalex.org/A5015881602), [Josh Morgan](https://openalex.org/A5086695747), [Juan-Pablo Osorio-Suárez](https://openalex.org/A5059129157), [Ariel Uribe-Rodríguez](https://openalex.org/A5007868705), [M. Soledad Diaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108709.
     
 No abstract    
 

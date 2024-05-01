@@ -1,109 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Apr 30 01:03:42 2024
+Created on Wed May  1 01:08:46 2024
 
-Found 36 results from 2024-04-23 to 2024-04-30
+Found 34 results from 2024-04-24 to 2024-05-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Enhancing the Imine Reductase Activity of a Promiscuous Glucose Dehydrogenase for Scalable Manufacturing of a Chiral Neprilysin Inhibitor Precursor   
-
-OpenAlex: https://openalex.org/W4394996413    
-Open access: False
-    
-[Yang Xiang](https://openalex.org/A5034348483), [Florian Kleinbeck](https://openalex.org/A5038342709), [Charlene Ching](https://openalex.org/A5012553136), [Lorita Boghospor](https://openalex.org/A5095829057), [Shaiany Sabrina Lopes Gomes](https://openalex.org/A5051684032), [Oscar Alvizo](https://openalex.org/A5078461356), [Thomas Allmendinger](https://openalex.org/A5047905474), [Jason S. Fell](https://openalex.org/A5005360671), [Nandhitha Subramanian](https://openalex.org/A5050627661), [Michelle Li](https://openalex.org/A5082199987), [Ravi Garcia](https://openalex.org/A5064470458), [James N. Riggins](https://openalex.org/A5091039069), [David A. Entwistle](https://openalex.org/A5080990349), [Yvonne Richter](https://openalex.org/A5078100589), [Daniel A. Gschwend](https://openalex.org/A5029415379), [Liam Lauener](https://openalex.org/A5095829056), [T.S. Peat](https://openalex.org/A5018005926), [Hélène Lebhar](https://openalex.org/A5026207221), [Thierry Schlama](https://openalex.org/A5007682869), [Thomas Ruch](https://openalex.org/A5077097670), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05615.
-    
-Imine reductases (IREDs) have been identified as an important class of biocatalysts to synthesize chiral amines with substantial promise for industrial application. Here, we report the promiscuous imine reductase activity of a glucose dehydrogenase (GDH). Starting from enzyme GDH Rd1bb, a commercial glucose dehydrogenase variant typically used for NAD(P)H regeneration, eight rounds of directed evolution were used to convert this enzyme into a highly active IRED for the chemo- and stereoselective manufacture of a chiral neprilysin inhibitor precursor, improved NADH cofactor specificity, and superior thermal stability. The evolved variant GDH Rd6bb achieved high productivity, with 99% conversion over 3 h at 50 g/L keto substrate concentration and 10% enzyme loading with respect to the keto substrate. Early process development studies at multigram scale provided the product in 94% yield with >99% purity as a single stereoisomer with an er of >99.9:0.1 and a dr of >99.9:0.1.    
-
-    
-
-## Multifunctional Glucose Dehydrogenase Enabled Synthesis of Chiral-Bridged Bicyclic Nitrogen Heterocycles   
-
-OpenAlex: https://openalex.org/W4394997118    
-Open access: False
-    
-[Guangde Jiang](https://openalex.org/A5058112632), [J. Lu](https://openalex.org/A5056183755), [Megan Zhou](https://openalex.org/A5086707099), [Wesley Harrison](https://openalex.org/A5057920936), [Huimin Zhao](https://openalex.org/A5014465828), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00825.
-    
-Herein, we report that enzymatic cascade reactions using a glucose dehydrogenase (GDH) and an ene-reductase (ERED) can be utilized for the synthesis of chiral 3-substituted cyclic alcohols and chiral-bridged bicyclic nitrogen heterocycles. The crucial step in these cascade reactions is a kinetic resolution reaction by the multifunctional GDH mutant BsGDH_Q252K. This reaction selectively reduces the R-enantiomers of racemic ketone substrates, yielding enantiopure alcohols with high enantiomeric excess (ee) values of the remaining S-enantiomers. When the reaction is coupled with an ERED-promoted dehydrocyclization reaction, chiral-bridged bicyclic nitrogen heterocycles with a configuration of (1S, 5R) can be conveniently synthesized in one pot. Meanwhile, the chiral alcohol products generated from the kinetic resolution reactions can be further converted to the R-enantiomers of the racemic ketone substrates through the cyclohexanol dehydrogenase activity of BsGDH_Q252K when coupled with an NAD(P)H oxidase. When the oxidase is replaced by an ERED, chiral-bridged bicyclic nitrogen heterocycles with a configuration of (1R, 5S) can also be efficiently synthesized in one pot. Mechanistic studies revealed key amino acid residues in BsGDH_Q252K for the kinetic resolution reaction. Subsequent rational design of BmGDH, a homolog of BsGDH, yielded can also enable a quintuple mutant capable of performing this reaction, while the wild type BmGDH cannot.    
-
-    
-
-## Overcoming Pd Catalyst Deactivation in the C–H Coupling of Tryptophan Residues in Water Using Air as the Oxidant   
-
-OpenAlex: https://openalex.org/W4394997156    
-Open access: True
-    
-[Igor Beckers](https://openalex.org/A5087931439), [Christophe Vos](https://openalex.org/A5022695991), [Hendrik Van Dessel](https://openalex.org/A5009295415), [A Lauwers](https://openalex.org/A5064330488), [Wouter Stuyck](https://openalex.org/A5030896411), [Oleg A. Usoltsev](https://openalex.org/A5004923425), [Alina A. Skorynina](https://openalex.org/A5038742958), [Aram L. Bugaev](https://openalex.org/A5041768941), [Dirk De Vos](https://openalex.org/A5077238999), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01699 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01699)).
-    
-No abstract    
-
-    
-
-## Influence of Water on the Catalytic Oxidation of Ethane on IrO2(110)   
-
-OpenAlex: https://openalex.org/W4394997366    
-Open access: False
-    
-[Jovenal Jamir](https://openalex.org/A5087317159), [Connor Pope](https://openalex.org/A5006390334), [S. Ramasubramanian](https://openalex.org/A5077547495), [Vikram Mehar](https://openalex.org/A5055611152), [Junjie Shi](https://openalex.org/A5058633059), [Jason F. Weaver](https://openalex.org/A5010210029), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00956.
-    
-No abstract    
-
-    
-
-## Highly Efficient Layered Double Hydroxide-Derived Bimetallic Cu–Co Alloy Catalysts for the Reverse Water–Gas Shift Reaction   
-
-OpenAlex: https://openalex.org/W4395003169    
-Open access: False
-    
-[Kwang Young Kim](https://openalex.org/A5077401920), [Wonsik Jang](https://openalex.org/A5076755615), [Woo‐Jin Byun](https://openalex.org/A5086825154), [Jun-Young Lee](https://openalex.org/A5000627464), [Miri Kim](https://openalex.org/A5040284400), [Ju Hyeong Lee](https://openalex.org/A5030105303), [Geun Bae Rhim](https://openalex.org/A5044574588), [Myung-Joong Youn](https://openalex.org/A5089059117), [Dong Hyun Chun](https://openalex.org/A5059351725), [Seok Ki Kim](https://openalex.org/A5066671677), [Seungho Cho](https://openalex.org/A5004903584), [Jin Ho Lee](https://openalex.org/A5010021409), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01249.
-    
-Bimetallic alloy catalysts with finely controlled composition and atomic mixing of the two active metals are vital for maximizing their synergistic effect in enhancing catalytic performances. Herein, we report the design and synthetic strategy of bimetallic Cu–Co alloy catalysts well dispersed on Al2O3 from a CuCoAl-layered double hydroxide (LDH) for boosting the reverse water–gas shift (RWGS) performance by controlling the composition and textural properties of Cu–Co alloy particles. An optimized Cu9Co1/Al2O3 catalyst exhibits a remarkably high CO2 to CO conversion rate (∼0.247 mol h–1 gcat–1) with ∼99.4% of CO selectivity at a relatively low reaction temperature of 400 °C, which outperforms a monometallic Cu/Al2O3 catalyst and a reference Cu9Co1/Al2O3 catalyst prepared by a conventional impregnation method. A combined experimental and theoretical study reveals that the superior activity of the Cu9Co1/Al2O3 catalyst is attributed to two factors: (i) a modified electronic structure due to the Cu–Co alloy formation that facilitates CO2 activation and CO desorption and (ii) formation of well-dispersed alloy nanoparticles by using LDHs as the catalyst precursors.    
-
-    
-
-## Rhenium in Heterogeneous Catalysis: A Rising Star for Hydrogenation Reactions   
-
-OpenAlex: https://openalex.org/W4395011012    
-Open access: False
-    
-[Jingjie Luo](https://openalex.org/A5037858031), [Changhai Liang](https://openalex.org/A5014316928), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00298.
-    
-Rhenium has a special existence in precious metals. In current catalysis, nanoscale Re(Ox) is appreciated by researchers and used to design effective catalyst systems for a variety of hydrogenation reactions, which are widely applied in the fields of petroleum refining, industrial chemical production, and biomass conversion. Current reports focus on the shining characteristics of Re with changeable chemical valences and high oxophilicity. Re-based catalyst provides an essential electronic environment in bimetallic catalysts or behaves as the main reactive center with efficiency. Regardless, there are still limited research works on rhenium compared to other traditional metal catalysts. Herein, investigations concerning Re catalysis during the past decade are summarized. As a burgeoning star, the essential roles of Re sites as a decorator and even the main centers are interpreted in this Review. The advantages of Re in bimetallic and monometallic catalysts, the available-tuned surface and geometric structure, the factors influencing their catalytic behaviors, and the typical heterogeneous reaction models are expressed thoroughly. This Review may shed light on those researchers who are anxious to find more strategies to conquer a tough task and those who are just stepping into the world of rhenium catalysis.    
-
-    
-
-## Correction to “Reductive Enzyme Cascades for Valorization of Polyethylene Terephthalate Deconstruction Products”   
-
-OpenAlex: https://openalex.org/W4395011899    
-Open access: True
-    
-[Madan R. Gopal](https://openalex.org/A5019144205), [Roman M. Dickey](https://openalex.org/A5042261971), [Neil D. Butler](https://openalex.org/A5076237990), [Michael R. Talley](https://openalex.org/A5026235147), [Daniel T. Nakamura](https://openalex.org/A5071710693), [Ashlesha Mohapatra](https://openalex.org/A5019166614), [Mary P. Watson](https://openalex.org/A5091228545), [Wilfred Chen](https://openalex.org/A5041423708), [Aditya M. Kunjapur](https://openalex.org/A5061341492), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01671 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01671)).
-    
-ADVERTISEMENT RETURN TO ARTICLES ASAPPREVAddition/CorrectionNEXTORIGINAL ARTICLEThis notice is a correctionCorrection to "Reductive Enzyme Cascades for Valorization of Polyethylene Terephthalate Deconstruction Products"Madan R. GopalMadan R. GopalDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Madan R. Gopal, Roman M. DickeyRoman M. DickeyDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Roman M. Dickey, Neil D. ButlerNeil D. ButlerDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesMore by Neil D. Butler, Michael R. TalleyMichael R. TalleyDepartment of Chemistry and Biochemistry, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Michael R. Talley, Daniel T. NakamuraDaniel T. NakamuraCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Daniel T. Nakamura, Ashlesha MohapatraAshlesha MohapatraDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesMore by Ashlesha Mohapatra, Mary P. WatsonMary P. WatsonDepartment of Chemistry and Biochemistry, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Mary P. Watsonhttps://orcid.org/0000-0002-1879-5257, Wilfred ChenWilfred ChenDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Wilfred Chenhttps://orcid.org/0000-0002-6386-6958, and Aditya M. Kunjapur*Aditya M. KunjapurDepartment of Chemical & Biomolecular Engineering, University of Delaware, Newark, Delaware 19716, United StatesCenter for Plastics Innovation, University of Delaware, Newark, Delaware 19716, United StatesMore by Aditya M. Kunjapurhttps://orcid.org/0000-0001-6869-9530Cite this: ACS Catal. 2024, 14, XXX, 7050–7051Publication Date (Web):April 22, 2024Publication History Received18 March 2024Published online22 April 2024https://doi.org/10.1021/acscatal.4c01671© 2024 American Chemical Society. This publication is available under these Terms of Use. Request reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (1 MB) Get e-Alertsclose Get e-Alerts    
-
-    
-
-## Tuning Acid-Metal Synergy in m-Cresol Hydrodeoxygenation over Bifunctional Pt/Aluminosilicate Catalysts   
-
-OpenAlex: https://openalex.org/W4395012109    
-Open access: False
-    
-[James A. Hunns](https://openalex.org/A5010562177), [Lee J. Durndell](https://openalex.org/A5045742486), [Xingguang Zhang](https://openalex.org/A5006549163), [Muxina Konarova](https://openalex.org/A5005589369), [Adam Lee](https://openalex.org/A5060198588), [Karen Wilson](https://openalex.org/A5038843370), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00402.
-    
-Strong synergy between proximate Bro̷nsted acid and metal sites over a Pt/amorphous silica–alumina (ASA) catalyst confers striking activity and selectivity enhancements for m-cresol hydrodeoxygenation to methylcyclohexane, a fuel additive and potential liquid organic hydrogen carrier for storing renewable energy. Molecular shuttling back and forth between cooperative acid and metal sites activates m-cresol for consecutive tautomerization, ring hydrogenation, and dehydration, ensuing eventual hydrogenation to methylcyclohexane with a fourfold yield enhancement compared to a physical mix of solid acid and Pt/SiO2.    
-
-    
-
-## Revealing the Interaction between Cu and MgO in Cu/MgO Catalysts for CO Hydrogenation to CH3OH   
-
-OpenAlex: https://openalex.org/W4395013096    
-Open access: False
-    
-[Wenqi Liu](https://openalex.org/A5070575311), [Shanshan Dang](https://openalex.org/A5065402659), [Sifan Cheng](https://openalex.org/A5079527944), [Zhenzhou Zhang](https://openalex.org/A5087597269), [Xiao Ding](https://openalex.org/A5034924979), [Yanling Shi](https://openalex.org/A5039315799), [Pengfei Ren](https://openalex.org/A5051084267), [Weifeng Tu](https://openalex.org/A5057500762), [Yi‐Fan Han](https://openalex.org/A5057242677), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00077.
-    
-In this work, the structure–performance relationship of Cu/MgO catalysts was established to unravel the role of MgO and the active sites for CO hydrogenation to CH3OH synthesis, by intrinsic kinetics, chemical titration, and a series of in situ (operando) spectroscopic characterizations. The turnover rates of CH3OH formation on Cu/MgO catalysts, especially when the Mg/(Mg + Cu) atomic ratio is 0.67, were significantly higher than that on monometallic Cu particles. We have demonstrated that the rates were insensitive to the particle size of Cu but depended linearly on the quantity of Cu–MgO interfacial sites. The interaction between Cu and MgO particles improved the dispersion of Cu particles and formed more highly active Cu–MgO interfacial sites as identified by precise characterization. Moreover, this study has also unraveled that both the HCO* and HCOO* species are predominantly reactive intermediates, and their sequential hydrogenation occurs concurrently for CH3OH formation over Cu/MgO catalysts during the CO–H2 reaction.    
-
-    
 
 ## Kinetic Insights into a Surface-Designed Au1@Pt8/CeO2 Catalyst in the Base-Free Oxidation of Biomass-Derived Tetrahydrofuran-2,5-dimethanol   
 
@@ -399,5 +300,82 @@ Open access: False
 [Linyue Chen](https://openalex.org/A5051276818), [Qian Deng](https://openalex.org/A5014459662), [Tingting Ma](https://openalex.org/A5037113319), [Jing Gu](https://openalex.org/A5017165240), [Juan Yang](https://openalex.org/A5028731768), [Xuan Zhang](https://openalex.org/A5016622484), [You‐Quan Zou](https://openalex.org/A5025717283), [Zixin Deng](https://openalex.org/A5050419694), [Li Chen](https://openalex.org/A5042314564), [Changming Zhao](https://openalex.org/A5011648206), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00757.
     
 PtlD, a multifunctional mononuclear nonheme iron and α-ketoglutarate-dependent (NHFe/α-KG) dioxygenase involved in neopentalenoketolactone biosynthesis, catalyzes hydroxylation, desaturation, and olefin epoxidation reactions. Investigating desaturation reactions of nonactivated carbons mediated by NHFe/α-KG enzymes is intriguing, especially for understanding the fate of the substrate radicals formed after hydrogen atom abstraction by FeIV═O species. Here, we investigate the desaturation reaction mechanism of PtlD using two distinct substrates: neopentalenolactone D (1) features a lone pair-containing oxygen atom adjacent to the olefin-forming carbon atoms, whereas pentalenolactone D (7) harbors a carbonyl group at the corresponding position. For substrate 1, our isotope effect measurement and protein mutagenesis experiments suggest the formation of a carbocation intermediate, which is subsequently deprotonated by a base to generate the desaturation products. Residue K288 serves as the base, while Y113 likely stabilizes the carbocation via a π-cation interaction. For substrate 7, oxygen incorporation patterns indicated that a carbocation intermediate is also formed but is unstable, leading to hydroxylation due to H2O quenching. Notably, substrate 7's desaturation exhibits a temperature-dependent large kinetic isotope effect (KIE) and an inverse solvent isotope effect (SIE), suggesting that hydrogen tunneling contributes to the electron–proton transfer (EPT) process. These findings collectively reveal the cases of NHFe/α-KG enzymes, where distinct desaturation mechanisms switch with different substrates.    
+
+    
+
+## Size-Dependent Hydrogenation Activity of Cobalt Nanoparticles   
+
+OpenAlex: https://openalex.org/W4395960647    
+Open access: False
+    
+[Yi He](https://openalex.org/A5087380102), [Andreas Goldbach](https://openalex.org/A5021985406), [Jiake Wei](https://openalex.org/A5064766132), [Wenjie Shen](https://openalex.org/A5019146446), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00995.
+    
+No abstract    
+
+    
+
+## Importance of Dynamic Effects in Isobutanol to Linear Butene Conversion Catalyzed by Acid Zeolites Assessed by AIMD   
+
+OpenAlex: https://openalex.org/W4396213937    
+Open access: False
+    
+[Monika Gešvandtnerová](https://openalex.org/A5050240887), [Pascal Raybaud](https://openalex.org/A5025383238), [Céline Chizallet](https://openalex.org/A5014892353), [Tomáš Bučko](https://openalex.org/A5034219138), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00736.
+    
+Dehydration of alcohols into alkenes is a key reaction for the production of fuels and chemicals from biomass. However, the mechanism of these reactions is highly questionable, hindering the rational optimization of efficient catalysts. In the present work, the formation of linear butenes starting from isobutanol catalyzed by proton-exchanged zeolites is unraveled by ab initio molecular dynamics (AIMD). Comparison with static calculations done for a gas phase reaction catalyzed by a proton and for the prototypical chabazite zeolite framework shows that AIMD estimations of the free energy barriers are significantly different from the static ones. Moreover, a common transition state (TS) is found for two competing reactions, namely, the isomerization of isobutanol into butan-2-ol (the dehydration of the latter yielding linear butenes) and the synchronous dehydration and isomerization of isobutanol into products related to linear butenes in a single step. The existence of a post-TS bifurcation prevents a traditional estimation of rates by transition state theory. To circumvent this problem, we quantify relative transmission coefficients using the Bennett–Chandler theory, which shows a clear tendency for decrease of relative frequency for isobutanol isomerization and increase of that for synchronous dehydration and isomerization when switching from 100 to 500 K. This work represents a step forward for the accurate determination of rates for key reactions in alcohol dehydration reactions.    
+
+    
+
+## Structural Changes of Ni and Ni–Pt Methane Steam Reforming Catalysts During Activation, Reaction, and Deactivation Under Dynamic Reaction Conditions   
+
+OpenAlex: https://openalex.org/W4396214752    
+Open access: True
+    
+[Enrico Tusini](https://openalex.org/A5094049338), [Maria Casapu](https://openalex.org/A5031940450), [Anna Zimina](https://openalex.org/A5029588744), [Dmitry E. Doronkin](https://openalex.org/A5057633647), [Heike Störmer](https://openalex.org/A5019720361), [Laurent Barthe](https://openalex.org/A5060346971), [Stéphanie Belin](https://openalex.org/A5033824332), [Jan‐Dierk Grunwaldt](https://openalex.org/A5070286324), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05847.
+    
+No abstract    
+
+    
+
+## Mechanistic Insights on the Challenging Trifluoromethylation of Ni(II)   
+
+OpenAlex: https://openalex.org/W4396219028    
+Open access: False
+    
+[Mathilde Rigoulet](https://openalex.org/A5080257262), [Sebastian Wellig](https://openalex.org/A5047544821), [Franziska Schoenebeck](https://openalex.org/A5047300640), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00907.
+    
+No abstract    
+
+    
+
+## Engineering Peroxygenase Activity into Cytochrome P450 Monooxygenases through Modification of the Oxygen Binding Region   
+
+OpenAlex: https://openalex.org/W4396219751    
+Open access: False
+    
+[Matthew N. Podgorski](https://openalex.org/A5002764123), [Jinia Akter](https://openalex.org/A5077851131), [Luke R. Churchman](https://openalex.org/A5026387564), [John B. Bruning](https://openalex.org/A5063368213), [James J. De Voss](https://openalex.org/A5018549180), [Stephen Bell](https://openalex.org/A5027128497), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01326.
+    
+No abstract    
+
+    
+
+## Volcano-Shaped Correlation Dictated Superior Activity for Ultralow Al-Doped Iron Oxide toward High-Temperature Water–Gas Shift Reaction   
+
+OpenAlex: https://openalex.org/W4396220980    
+Open access: False
+    
+[Binbin Qian](https://openalex.org/A5025532202), [Yan Xue](https://openalex.org/A5019616292), [Sasha Yang](https://openalex.org/A5007992870), [Jianghao Zhang](https://openalex.org/A5084986359), [Cheng Liu](https://openalex.org/A5042026897), [Zongtang Liu](https://openalex.org/A5078602177), [Zhenghao Fei](https://openalex.org/A5072559438), [Baiqian Dai](https://openalex.org/A5003506586), [Jefferson Zhe Liu](https://openalex.org/A5023896908), [Yong Wang](https://openalex.org/A5066102428), [Lian Zhang](https://openalex.org/A5077360657), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01403.
+    
+No abstract    
+
+    
+
+## Structural Effects of FeN4 Active Sites Surrounded by Fourteen-Membered Ring Ligands on Oxygen Reduction Reaction Activity and Durability   
+
+OpenAlex: https://openalex.org/W4396222845    
+Open access: False
+    
+[Zhiqing Feng](https://openalex.org/A5070572571), [Shizuyo Honda](https://openalex.org/A5016997455), [Junya Ohyama](https://openalex.org/A5023127226), [Y. Iwata](https://openalex.org/A5079304908), [Keisuke Awaya](https://openalex.org/A5063143560), [Hiroshi Yoshida](https://openalex.org/A5090747333), [Masato Machida](https://openalex.org/A5013139214), [Kõtarõ Higashi](https://openalex.org/A5083848806), [Tomoya Uruga](https://openalex.org/A5018823705), [N. Kawamura](https://openalex.org/A5086036089), [Ryota Goto](https://openalex.org/A5043156415), [Takeo Ichihara](https://openalex.org/A5076217195), [Ryoichi Kojima](https://openalex.org/A5058060139), [Makoto Moriya](https://openalex.org/A5084453278), [Hideo Notsu](https://openalex.org/A5083768147), [Seiji Nagata](https://openalex.org/A5085533649), [Manabu Miyoshi](https://openalex.org/A5033031749), [Teruaki Hayakawa](https://openalex.org/A5037552153), [Yuta Nabae](https://openalex.org/A5017398992), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01122.
+    
+FeN4 active sites have been studied as non-Pt group metal (non-PGM) catalysts for the oxygen reduction reaction (ORR). The authors recently developed Fe(II) 1,14:7,8-ditethenotetrapyrido-[2,1,6-de:2′,1′6′-gh:2″,1″,6″-na][1,3,5,8,10,12] hexaazacyclotetradecine (Fe-14MR) as an FeN4 complex incorporating a 14-membered ring. This complex exhibited higher ORR activity and greater durability than Fe phthalocyanine, a conventional FeN4 complex having a 16-membered ring. In the present study, the ORR activity and durability of this Fe-14MR complex supported on C (Fe-14MR/C) were enhanced through modification of the active site structure by heating at 600 °C and removing protons on amine groups in the Fe-14MR. Density functional theory calculations indicated that the Fe-14MR/C structure generated by heating resulted in oxygen species absorption energies close to optimal values for the ORR. The improved durability of the heat-treated Fe-14MR/C was attributed to reduced distortion of the FeN4 sites. The results suggest that designing Fe-14MR structures can be a promising approach to developing non-PGM catalysts.    
 
     
