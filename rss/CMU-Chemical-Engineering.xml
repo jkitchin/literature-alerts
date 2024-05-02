@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 May 2024 01:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 01:03:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Optimization of CO2 capture plants with surrogate model uncertainties</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108709</link>
-      <description>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4395033023
-
-                No abstract</description>
-      <author>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108709</guid>
-    </item>
-    <item>
-      <title>Editorial: Mechanobiology of biofilms and associated host -pathogen interactions</title>
-      <link>https://doi.org/10.3389/fcimb.2024.1416131</link>
-      <description>Tagbo H. R. Niepa, Landon W. Locke, Timothy E. Corcoran, Janet Lee, Frontiers in cellular and infection microbiology. 14(None)] 2024. https://openalex.org/W4395045737
-
-                No abstract</description>
-      <author>Tagbo H. R. Niepa, Landon W. Locke, Timothy E. Corcoran, Janet Lee</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fcimb.2024.1416131</guid>
-    </item>
     <item>
       <title>Integrated Bayesian parameter estimation with model&#8208;based design of experiments for dynamic processes</title>
       <link>https://doi.org/10.1002/aic.18418</link>

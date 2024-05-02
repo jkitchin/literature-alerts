@@ -4,129 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 01 May 2024 01:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 01:03:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tuning Electrocatalytic Activities of Dealloyed Nanoporous Catalysts by Macroscopic Strain Engineering</title>
-      <link>https://doi.org/10.1021/acs.nanolett.4c00781</link>
-      <description>Qite Li, Qite Li, Akira Kudo, Jinling Ma, Ryuichi Kawashima, Koji Toyama, Wence Xu, Zhonghui Gao, Yanqin Liang, Hui Jiang, Zhaoyang Li, Zhenduo Cui, Shengli Zhu, Luyang Chen, Luyang Chen, Luyang Chen, Nano letters. None(None)] 2024. https://openalex.org/W4395029045
-
-                It is technically challenging to quantitatively apply strains to tune catalysis because most heterogeneous catalysts are nanoparticles, and lattice strains can only be applied indirectly via core&#8211;shell structures or crystal defects. Herein, we report quantitative relations between macroscopic strains and hydrogen evolution reaction (HER) activities of dealloyed nanoporous gold (NPG) by directly applying macroscopic strains upon bulk NPG. It was found that macroscopic compressive strains lead to a decrease, while macroscopic tensile strains improve the HER activity of NPG, which is in line with the d-band center model. The overpotential and onset potential of HER display approximately a linear relation with applied macroscopic strains, revealing an &#8764;2.9 meV decrease of the binding energy per 0.1% lattice strains from compressive to tensile. The methodology with the high strain sensitivity of electrocatalysis, developed in this study, paves a new way to investigate the insights of strain-dependent electrocatalysis with high precision.</description>
-      <author>Qite Li, Qite Li, Akira Kudo, Jinling Ma, Ryuichi Kawashima, Koji Toyama, Wence Xu, Zhonghui Gao, Yanqin Liang, Hui Jiang, Zhaoyang Li, Zhenduo Cui, Shengli Zhu, Luyang Chen, Luyang Chen, Luyang Chen</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c00781</guid>
-    </item>
-    <item>
-      <title>Highly Stable Mo-NiO@NiFe-Layered Double Hydroxide Heterojunction Anode Catalyst for Alkaline Electrolyzers with Porous Membrane</title>
-      <link>https://doi.org/10.1021/acsami.4c00974</link>
-      <description>Jianwei Ye, Jianwei Ye, Bin Yuan, Bin Yuan, Bin Yuan, Weiliang Peng, Weiliang Peng, Jia Liang, Jia Liang, Han Qin, Han Qin, Renzong Hu, Renzong Hu, Renzong Hu, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4395029639
-
-                Heterostructure catalysts are considered as promising candidates for promoting the oxygen evolution reaction (OER) process due to their strong electron coupling. However, the inevitable dissolution and detachment of the heterostructure catalysts are caused by the severe reconstruction, dramatically limiting their industrial application. Herein, the NiFe-layered double hydroxide (LDH) nanosheets attached on Mo-NiO microrods (Mo-NiO@NiFe LDH) by the preoxidation strategy of the core NiMoN layer are synthesized for ensuring the high catalytic performance and stability. Owing to the enhanced electron coupling and preoxidation process, the obtained Mo-NiO@NiFe LDH exhibits a superlow overpotential of 253 mV to achieve a practically relevant current density of 1000 mA cm&#8211;2 for OER with exceptional stability over 1200 h. Notably, the overall water splitting system based on Mo-NiO@NiFe LDH reveals remarkable stability, maintaining the catalytic activity at a current density of 1000 mA cm&#8211;2 for 140 h under industrial harsh conditions. Furthermore, the Mo-NiO@NiFe LDH demonstrates outstanding activity and long-term durability in a practical alkaline electrolyzer assembly with a porous membrane, even surpassing the performance of IrO2. This work provides a new sight for designing and synthesizing highly stable heterojunction electrocatalysts, further promoting and realizing the industrial electrocatalytic OER.</description>
-      <author>Jianwei Ye, Jianwei Ye, Bin Yuan, Bin Yuan, Bin Yuan, Weiliang Peng, Weiliang Peng, Jia Liang, Jia Liang, Han Qin, Han Qin, Renzong Hu, Renzong Hu, Renzong Hu</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c00974</guid>
-    </item>
-    <item>
-      <title>Theoretical study of transition metal subphthalocyanine molecules (TM@C24H12N6) as highly active electrocatalysts for the nitrogen reduction to ammonia</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141284</link>
-      <description>Daomei Wu, Shuang Sun, Ye Xiang, Chemical physics letters. None(None)] 2024. https://openalex.org/W4395033081
-
-                No abstract</description>
-      <author>Daomei Wu, Shuang Sun, Ye Xiang</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141284</guid>
-    </item>
-    <item>
-      <title>Remote Activation of H&#8211;H Bonds by Platinum in Dilute Alloy Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c00886</link>
-      <description>Tongxin Han, Yuanyuan Li, Tao Wu, D&#233;bora Motta Meira, D&#233;bora Motta Meira, Shuting Xiang, Yueqiang Cao, Yueqiang Cao, Ilkeun Lee, Xinggui Zhou, De&#8208;en Jiang, Anatoly I. Frenkel, Anatoly I. Frenkel, Francisco Zaera, ACS catalysis. None(None)] 2024. https://openalex.org/W4395037408
-
-                With heterogeneous catalysts, chemical promotion takes place at their surfaces. Even in the case of single-atom alloys, where small quantities of a reactive metal are dispersed within the main host, it is assumed that both elements are exposed and available to bond with the reactants. Here, we show, on the basis of in situ X-ray absorption spectroscopy data, that in alloy catalysts made from Pt highly diluted in Cu the Pt atoms are located at the inner interface between the metal nanoparticles and the silica support instead. Kinetic experiments indicated that these catalysts still display better selectivity for the hydrogenation of unsaturated aldehydes to unsaturated alcohols than the pure metals. Density functional theory calculations corroborated the stability of Pt at the metal&#8211;support interface and explained the catalytic performance as being due to a remote lowering of the activation barrier for the dissociation of H2 at Cu sites by the internal Pt atoms.</description>
-      <author>Tongxin Han, Yuanyuan Li, Tao Wu, D&#233;bora Motta Meira, D&#233;bora Motta Meira, Shuting Xiang, Yueqiang Cao, Yueqiang Cao, Ilkeun Lee, Xinggui Zhou, De&#8208;en Jiang, Anatoly I. Frenkel, Anatoly I. Frenkel, Francisco Zaera</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00886</guid>
-    </item>
-    <item>
-      <title>Embracing data science in catalysis research</title>
-      <link>https://doi.org/10.1038/s41929-024-01150-3</link>
-      <description>Manu Suvarna, Javier P&#233;rez&#8208;Ram&#237;rez, Nature Catalysis. None(None)] 2024. https://openalex.org/W4395041397
-
-                No abstract</description>
-      <author>Manu Suvarna, Javier P&#233;rez&#8208;Ram&#237;rez</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01150-3</guid>
-    </item>
-    <item>
-      <title>Phosphor-Doping Modulates the D-Band Center of Fe Atoms in Fe-N4 Catalytic Sites to Boost the Activity of Oxygen Reduction</title>
-      <link>https://doi.org/10.2139/ssrn.4803771</link>
-      <description>Yuan Qin, Chaozhong Guo, Zihao Ou, Yao Liu, Rong Jin, Chuanlan Xu, Haifeng Chen, Yujun Si, HongLin Li, No host. None(None)] 2024. https://openalex.org/W4395046567
-
-                No abstract</description>
-      <author>Yuan Qin, Chaozhong Guo, Zihao Ou, Yao Liu, Rong Jin, Chuanlan Xu, Haifeng Chen, Yujun Si, HongLin Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4803771</guid>
-    </item>
-    <item>
-      <title>Activating Nitrogen for Electrochemical Ammonia Synthesis via an Electrified Transition-Metal Dichalcogenide Catalyst</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c08230</link>
-      <description>Taylor J. Aubry, Jacob M. Clary, Elisa M. Miller, Derek Vigil&#8208;Fowler, Jao van de Lagemaat, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4395048705
-
-                The complex interplay between local chemistry, the solvent microenvironment, and electrified interfaces frequently present in electrocatalytic reactions has motivated the development of quantum chemical methods that can accurately model these effects. Here, we predict the thermodynamics of the nitrogen reduction reaction (NRR) at sulfur vacancies in 1T&#8242;-phase MoS2 and highlight how the realistic treatment of potential within grand canonical density functional theory (GC-DFT) seamlessly captures the multiple competing effects of applied potential on a catalyst interface interacting with solvated molecules. In the canonical approach, the computational hydrogen electrode is widely used and predicts that adsorbed N2 structure properties are potential-independent. In contrast, GC-DFT calculations show that reductive potentials activate N2 toward electroreduction by controlling its back-bonding strength and lengthening the N&#8211;N triple bond while decreasing its bond order. Similar trends are observed for another classic back-bonding ligand in CO, suggesting that this mechanism may be broadly relevant to other electrochemistries involving back-bonded adsorbates. Furthermore, reductive potentials are required to make the subsequent N2 hydrogenation steps favorable but simultaneously destabilizes the N2 adsorbed structure resulting in a trade-off between the favorability of N2 adsorption and the subsequent reaction steps. We show that GC-DFT facilitates modeling all these phenomena and that together they can have important implications in predicting electrocatalyst selectivity for the NRR and potentially other reactions.</description>
-      <author>Taylor J. Aubry, Jacob M. Clary, Elisa M. Miller, Derek Vigil&#8208;Fowler, Jao van de Lagemaat</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08230</guid>
-    </item>
-    <item>
-      <title>Generalized Helmholtz model describes capacitance profiles of ionic liquids and concentrated aqueous electrolytes</title>
-      <link>https://doi.org/10.1063/5.0194360</link>
-      <description>Suehyun Park, Jesse G. McDaniel, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(16)] 2024. https://openalex.org/W4395049125
-
-                In this work, we propose and validate a generalization of the Helmholtz model that can account for both &#8220;bell-shaped&#8221; and &#8220;camel-shaped&#8221; differential capacitance profiles of concentrated electrolytes, the latter being characteristic of ionic liquids. The generalization is based on introducing voltage dependence of both the dielectric constant &#8220;&#1013;r(V)&#8221; and thickness &#8220;L(V)&#8221; of the inner Helmholtz layer, as validated by molecular dynamics (MD) simulations. We utilize MD simulations to study the capacitance profiles of three different electrochemical interfaces: (1) graphite/[BMIm+][BF4&#8722;] ionic liquid interface; (2) Au(100)/[BMIm+][BF4&#8722;] ionic liquid interface; (3) Au(100)/1M [Na+][Cl&#8722;] aqueous interface. We compute the voltage dependence of &#1013;r(V) and L(V) and demonstrate that the generalized Helmholtz model qualitatively describes both camel-shaped and bell-shaped differential capacitance profiles of ionic liquids and concentrated aqueous electrolytes (in lieu of specific ion adsorption). In particular, the camel-shaped capacitance profile that is characteristic of ionic liquid electrolytes arises simply from combination of the voltage-dependent trends of &#1013;r(V) and L(V). Furthermore, explicit analysis of the inner layer charge density for both concentrated aqueous and ionic liquid double layers reveal similarities, with these charge distributions typically exhibiting a dipolar region closest to the electrode followed by a monopolar peak at larger distances. It is appealing that a generalized Helmholtz model can provide a unified description of the inner layer structure and capacitance profile for seemingly disparate aqueous and ionic liquid electrolytes.</description>
-      <author>Suehyun Park, Jesse G. McDaniel</author>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0194360</guid>
-    </item>
-    <item>
-      <title>Near-range modulation of single-atomic Fe sites by simultaneously integrating heteroatom and nanocluster for efficient oxygen reduction</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109668</link>
-      <description>Chunfeng Shao, Chunfeng Shao, Jiahui Hua, Qiang Li, Yongpeng Xia, Lixian Sun, Liming Wang, Baitao Li, Nano energy. None(None)] 2024. https://openalex.org/W4395052370
-
-                Modulation strategies are widely developed to regulate electronic state of single-atom catalysts (SACs) to reinforce the catalytic activity of oxygen reduction reaction (ORR). However, the modulation effect using only single coordination regulation is often insufficient to optimize the electronic and geometric structure of metal active centers. Herein, a general strategy to modify the activity of single-atomic Fe site is achieved by dual decoration of Fe centers with contiguous sulfur atoms and metal nanoclusters via an aggregation-redispersion route. Under near-range engagement, the adjacent S atoms and Fe nanoclusters could break the symmetric electronic interface of Fe-N moiety, and act as the modulators to synergistically tune the electronic configurations of Fe centers, leading to less electron transfer to *OH, and subsequent favorable desorption. In situ spectroscopic characterization and theoretical results reinforces the significant roles of S atoms and metal clusters in tandem by correlating their induced electron redistribution with ORR activity, which ultimately accelerates the adsorption/desorption of oxygenated intermediates for robust catalytic performance. Due to the improvement of graphitization degree, carbon supports possess efficient active sites and exhibit superior anti-corrosion. The resultant FeNC-2M demonstrates outstanding ORR activity with high power density, maintaining remarkable durability in Zn-air batteries and microbial fuel cells. This work provides effective and universal way to modulate microenvironment of single metal sites, facilitating the open up of potential application spaces for various SACs.</description>
-      <author>Chunfeng Shao, Chunfeng Shao, Jiahui Hua, Qiang Li, Yongpeng Xia, Lixian Sun, Liming Wang, Baitao Li</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109668</guid>
-    </item>
-    <item>
-      <title>Process design and adsorbent screening of VSA and exchanger type VTSA for flue gas CO2 capture</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.127641</link>
-      <description>Xu Chen, Jian Wang, Tao Du, Tao Du, Tao Du, Liying Liu, Gang Kevin Li, Separation and purification technology. None(None)] 2024. https://openalex.org/W4395053755
-
-                Carbon capture, as a core technology for mitigating greenhouse gas emissions, the greatest challenge is the balance between separation performance and energy consumption. This study seeks to evaluate and screen the separation performance and energy consumption of four typical adsorbents (13X, Mg-MOF-74, activated carbon, and Lewatit VP OV 1065) in vacuum temperature swing adsorption (VTSA) and vacuum swing adsorption (VSA) through optimization approach, which will support in-depth research and decision-making on adsorption processes. A non-isothermal non-adiabatic numerical model was carried out to describe a novel 4-bed 10-step VTSA cycle developed on an exchange type adsorption unit (ETAU), and the model was validated by binary breakthrough and temperature swing experiments. A 4-bed 10-step VSA cycle was in turn established and investigated. Parametric analysis of the two cycles was performed by varying the operating variables including feed gas flow rate, recycle time, and purge-to-feed ratio. Process optimization of the multiplicative fraction evaluation function, simultaneously considering purity, recovery, and productivity, was achieved using a dual convergence algorithm. Results showed that all four adsorbents could achieve more than 90 % purity and recovery on the VTSA process employing the ETAU for post-combustion carbon capture, and the separation performance was substantially superior to that of the VSA cycle. Mg-MOF-74 obtained a CO2 product with 97.90 % purity, 98.48 % recovery, and 5.48 mol/kgads/hr productivity at a desorption temperature of 383.15 K; it has a specific heat consumption of 1.45 GJth/ton and a specific power consumption of 0.55 GJel/ton. The total energy consumption of 13X was slightly lower than that of amine adsorbents, giving 95.00 % purity, 97.60 % recovery, and 1.91 mol/kgads/hr productivity. Relatively low desorption temperature is expected to introduce ultra-low-grade waste heat for partial heat source substitution, contributing to the energy sustainability of adsorption carbon capture technology.</description>
-      <author>Xu Chen, Jian Wang, Tao Du, Tao Du, Tao Du, Liying Liu, Gang Kevin Li</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.127641</guid>
-    </item>
-    <item>
-      <title>Molecular heterogenous electrocatalysts for CO2 reduction: Science, engineering, challenges and future prospects</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114161</link>
-      <description>Anuj Kumar, Jasvinder Kaur, Mohd Ubaidullah, Ram K. Gupta, Molecular catalysis. 561(None)] 2024. https://openalex.org/W4395061779
-
-                Despite enormous efforts towards development of CO2 reduction reaction (CO2RR) technologies, industrial-scale devices are still visibly unavailable. The development of effective CO2RR catalysts appears to be the most difficult challenge for this technology. Due to the well-defined active site, distinct energy levels, and tunable core structure, porphyry-type molecular catalysts (metal-porphyrins, and metal-phthalocyanines) have gained attention among the various classes of electrocatalysts. But because they are not very stable or long-lasting, getting their benchmark CO2RR performance is still hard. Therefore, to approach their ideal performance, researchers have conducted many experimental and theoretical analyses, altering their electronic and geometric configurations and even transitioning them from homogeneous to heterogeneous phases. The aim of this review is to provide a coherent framework for the existing literature on molecular systems for CO2RR and to make forward-looking suggestions for the development of optimal CO2RR catalysts. We critically reviewed the possible strategies for tuning and controlling the catalytic active sites, emphasizing the bridges between activity and structural features of molecular systems, and proposed logical optimization strategies to improve their performance and selectivity. Insights provided in this article would surely benefit readers to develop novel high-performing CO2RR electrocatalysts in the future.</description>
-      <author>Anuj Kumar, Jasvinder Kaur, Mohd Ubaidullah, Ram K. Gupta</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114161</guid>
-    </item>
-    <item>
-      <title>Enhanced hydrogen adsorption-desorption reversibility found on NiAl alloy: A first-principles study</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.04.183</link>
-      <description>Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Arisa Kaewpratoom, Meena Rittiruam, Meena Rittiruam, Meena Rittiruam, Meena Rittiruam, Tinnakorn Saelee, Tinnakorn Saelee, Tinnakorn Saelee, Tinnakorn Saelee, Pussana Hirunsit, Suwit Suthirakun, Piyasan Praserthdam, Piyasan Praserthdam, Supareak Praserthdam, Supareak Praserthdam, Supareak Praserthdam, International journal of hydrogen energy. 68(None)] 2024. https://openalex.org/W4395063515
-
-                Improving the hydrogen storage performance of carbon-based materials via transition metals incorporation has been proved experimentally, where control over the hydrogen adsorption kinetics and hydrogen surface diffusion is the key. In this work, we proved theoretically via density functional theory (DFT) how such incorporation promotes better hydrogen storage performance in Ni-based materials supported on graphene, in which static and dynamic behavior of the system were modeled by plane-wave DFT and ab initio molecular dynamics (AIMD), respectively. In addition, the hydrogen storage materials Ni10Al3 and Ni13 supported on graphene, denoted as Ni10Al3/GP and Ni13/GP, are modeled to realize the experimental observation on Ni3Al alloy under high hydrogen pressure. It was found that the Ni10Al3/GP alloy system exhibited better properties in twofold: (1) increased hydrogen adsorption capacity through providing an additional site for H2 molecular adsorption, particularly on the Al atoms, and (2) enhanced hydrogen desorption at ambient conditions observed from reversible H2 adsorption at all coverages with barrierless migration energy. Therefore, the proof from the DFT point-of-view provides valuable insight into exploring other metal alloy systems that can provide additional sites for molecular hydrogen adsorption and improve hydrogen adsorbate mobility.</description>
-      <author>Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Patcharaporn Khajondetchairit, Arisa Kaewpratoom, Meena Rittiruam, Meena Rittiruam, Meena Rittiruam, Meena Rittiruam, Tinnakorn Saelee, Tinnakorn Saelee, Tinnakorn Saelee, Tinnakorn Saelee, Pussana Hirunsit, Suwit Suthirakun, Piyasan Praserthdam, Piyasan Praserthdam, Supareak Praserthdam, Supareak Praserthdam, Supareak Praserthdam</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.183</guid>
-    </item>
     <item>
       <title>Catalyst deactivation during water electrolysis: Understanding and mitigation</title>
       <link>https://doi.org/10.1063/5.0191316</link>
@@ -632,7 +512,7 @@
       <link>https://doi.org/10.1021/acs.jpclett.3c03615</link>
       <description>Margherita Buraschi, Andrew P. Horsfield, Clotilde S. Cucinotta, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4396221327
 
-                No abstract</description>
+                A major challenge in modeling interfacial processes in electrochemical (EC) devices is performing simulations at constant potential. This requires an open-boundary description of the electrons, so that they can enter and leave the computational cell. To enable realistic modeling of EC processes under potential control we have interfaced density functional theory with the hairy probe method in the weak coupling limit (Zauchner et al. Phys. Rev. B 2018, 97, 045116). Our implementation was systematically tested using simple parallel-plate capacitor models with pristine surfaces and a single layer of adsorbed water molecules. Remarkably, our code's efficiency is comparable with a standard DFT calculation. We reveal that local field effects at the electrical double layer induced by the change of applied potential can significantly affect the energies of chemical steps in heterogeneous electrocatalysis. Our results demonstrate the importance of an explicit modeling of the applied potential in a simulation and provide an efficient tool to control this critical parameter.</description>
       <author>Margherita Buraschi, Andrew P. Horsfield, Clotilde S. Cucinotta</author>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03615</guid>
@@ -688,6 +568,26 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4dt00144c</guid>
     </item>
     <item>
+      <title>Multiscale biomolecular simulations in the exascale era</title>
+      <link>https://doi.org/10.1016/j.sbi.2024.102821</link>
+      <description>David Carrasco&#8208;Busturia, Emiliano Ippoliti, Simone Meloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen, Current opinion in structural biology. 86(None)] 2024. https://openalex.org/W4396237158
+
+                The complexity of biological systems and processes, spanning molecular to macroscopic scales, necessitates the use of multiscale simulations to get a comprehensive understanding. Quantum mechanics/molecular mechanics (QM/MM) molecular dynamics (MD) simulations are crucial for capturing processes beyond the reach of classical MD simulations. The advent of exascale computing offers unprecedented opportunities for scientific exploration, not least within life sciences, where simulations are essential to unravel intricate molecular mechanisms underlying biological processes. However, leveraging the immense computational power of exascale computing requires innovative algorithms and software designs. In this context, we discuss the current status and future prospects of multiscale biomolecular simulations on exascale supercomputers with a focus on QM/MM MD. We highlight our own efforts in developing a versatile and high-performance multiscale simulation framework with the aim of efficient utilization of state-of-the-art supercomputers. We showcase its application in uncovering complex biological mechanisms and its potential for leveraging exascale computing.</description>
+      <author>David Carrasco&#8208;Busturia, Emiliano Ippoliti, Simone Meloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.sbi.2024.102821</guid>
+    </item>
+    <item>
+      <title>Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials</title>
+      <link>https://doi.org/10.1038/s41524-024-01254-1</link>
+      <description>Viktor Zaverkin, David Holzm&#252;ller, Henrik Christiansen, Federico Errica, Francesco Alesiani, Makoto Takamoto, Mathias Niepert, Johannes K&#228;stner, npj computational materials. 10(1)] 2024. https://openalex.org/W4396239146
+
+                Abstract Efficiently creating a concise but comprehensive data set for training machine-learned interatomic potentials (MLIPs) is an under-explored problem. Active learning, which uses biased or unbiased molecular dynamics (MD) to generate candidate pools, aims to address this objective. Existing biased and unbiased MD-simulation methods, however, are prone to miss either rare events or extrapolative regions&#8212;areas of the configurational space where unreliable predictions are made. This work demonstrates that MD, when biased by the MLIP&#8217;s energy uncertainty, simultaneously captures extrapolative regions and rare events, which is crucial for developing uniformly accurate MLIPs. Furthermore, exploiting automatic differentiation, we enhance bias-forces-driven MD with the concept of bias stress. We employ calibrated gradient-based uncertainties to yield MLIPs with similar or, sometimes, better accuracy than ensemble-based methods at a lower computational cost. Finally, we apply uncertainty-biased MD to alanine dipeptide and MIL-53(Al), generating MLIPs that represent both configurational spaces more accurately than models trained with conventional MD.</description>
+      <author>Viktor Zaverkin, David Holzm&#252;ller, Henrik Christiansen, Federico Errica, Francesco Alesiani, Makoto Takamoto, Mathias Niepert, Johannes K&#228;stner</author>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01254-1</guid>
+    </item>
+    <item>
       <title>The combination of DFT and OghmaNano framework to study the heat stability and minimizing voltage losses in perovskite solar cells</title>
       <link>https://doi.org/10.1016/j.mssp.2024.108459</link>
       <description>Taha Y. Ahmed, Darko A. Noori, Khayal K. Ahmed, Shujahadeen B. Aziz, Materials science in semiconductor processing. 178(None)] 2024. https://openalex.org/W4395069331
@@ -706,16 +606,6 @@
       <author>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao</author>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s42768-024-00191-5</guid>
-    </item>
-    <item>
-      <title>Optimization of CO2 capture plants with surrogate model uncertainties</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108709</link>
-      <description>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4395033023
-
-                No abstract</description>
-      <author>A. Pedrozo, C. M. Valderrama-R&#237;os, Miguel Zamarripa, Josh Morgan, Juan-Pablo Osorio-Su&#225;rez, Ariel Uribe-Rodr&#237;guez, M. Soledad Diaz, Lorenz T. Biegler</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108709</guid>
     </item>
     <item>
       <title>Multimodal learning of heat capacity based on transformers and crystallography pretraining</title>

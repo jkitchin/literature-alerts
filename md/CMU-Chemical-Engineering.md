@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Wed May  1 01:08:47 2024
+Created on Thu May  2 01:03:35 2024
 
-Found 6 results from 2024-04-24 to 2024-05-01
+Found 4 results from 2024-04-25 to 2024-05-02
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Optimization of CO2 capture plants with surrogate model uncertainties   
-
-OpenAlex: https://openalex.org/W4395033023    
-Open access: False
-    
-[A. Pedrozo](https://openalex.org/A5010731086), [C. M. Valderrama-Ríos](https://openalex.org/A5092336802), [Miguel Zamarripa](https://openalex.org/A5015881602), [Josh Morgan](https://openalex.org/A5086695747), [Juan-Pablo Osorio-Suárez](https://openalex.org/A5059129157), [Ariel Uribe-Rodríguez](https://openalex.org/A5007868705), [M. Soledad Diaz](https://openalex.org/A5042182449), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108709.
-    
-No abstract    
-
-    
-
-## Editorial: Mechanobiology of biofilms and associated host -pathogen interactions   
-
-OpenAlex: https://openalex.org/W4395045737    
-Open access: True
-    
-[Tagbo H. R. Niepa](https://openalex.org/A5044695139), [Landon W. Locke](https://openalex.org/A5089280467), [Timothy E. Corcoran](https://openalex.org/A5070818318), [Janet Lee](https://openalex.org/A5079729144), Frontiers in cellular and infection microbiology. 14(None)] 2024.https://doi.org/10.3389/fcimb.2024.1416131 ([pdf](https://www.frontiersin.org/articles/10.3389/fcimb.2024.1416131/pdf?isPublishedV2=False)).
-    
-No abstract    
-
-    
 
 ## Integrated Bayesian parameter estimation with model‐based design of experiments for dynamic processes   
 
