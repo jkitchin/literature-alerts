@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 May 2024 01:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:06:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Biogenic Manganese Oxide Synthesized by a Marine Bacterial Multicopper Oxidase MnxG Reveals Oxygen Evolution Activity</title>
-      <link>https://doi.org/10.1021/acscatal.3c06119</link>
-      <description>W.T. Fu, Forrest P. Hyler, Joel Sanchez, Thomas F. Jaramillo, Jes&#250;s M. Vel&#225;zquez, Lizhi Tao, R. David Britt, ACS catalysis. None(None)] 2024. https://openalex.org/W4395071203
-
-                No abstract</description>
-      <author>W.T. Fu, Forrest P. Hyler, Joel Sanchez, Thomas F. Jaramillo, Jes&#250;s M. Vel&#225;zquez, Lizhi Tao, R. David Britt</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06119</guid>
-    </item>
-    <item>
-      <title>Pd(II)-Catalyzed Enantioselective C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Arylation toward &lt;i&gt;P&lt;/i&gt;-Stereogenic Dialkylphosphinamides</title>
-      <link>https://doi.org/10.1021/acscatal.4c01212</link>
-      <description>Cheng Wang, Tao Zhou, Tao Zhou, Bing&#8208;Feng Shi, Bing&#8208;Feng Shi, ACS catalysis. None(None)] 2024. https://openalex.org/W4395074286
-
-                Transition-metal-catalyzed enantioselective C&#8211;H functionalization has emerged as a promising method for the synthesis of P-stereogenic phosphorus compounds. However, previous reports are limited to the enantioselective functionalization of C(sp2)&#8211;H bonds of aryl phosphine derivatives. Herein, Pd(II)-catalyzed enantioselective arylation of more challenging C(sp3)&#8211;H bonds toward P-stereogenic dialkylphosphinamides is achieved through the desymmetrization of gem-diethyl groups. Various P-stereogenic dialkylphosphinamides are obtained with high enantioselectivities using 3,3&#8242;-CN2-H8-BINOL as the chiral ligand. The synthetic potential of this methodology is highlighted by gram-scale preparation and further derivatizations.</description>
-      <author>Cheng Wang, Tao Zhou, Tao Zhou, Bing&#8208;Feng Shi, Bing&#8208;Feng Shi</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01212</guid>
-    </item>
-    <item>
-      <title>Multistep Quenching of a Rust-Derived Catalyst for Enhanced Volatile Organic Compound Catalytic Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01425</link>
-      <description>Yanan Chong, Tingyu Chen, Biao Zhou, Yifei Li, Wei&#8208;Hsiang Huang, Wei&#8208;Hsiang Huang, Chi-Liang Chen, Chi-Liang Chen, Jiake Wei, Keyou Yan, Yongcai Qiu, Guangxu Chen, Daiqi Ye, ACS catalysis. None(None)] 2024. https://openalex.org/W4395076383
-
-                No abstract</description>
-      <author>Yanan Chong, Tingyu Chen, Biao Zhou, Yifei Li, Wei&#8208;Hsiang Huang, Wei&#8208;Hsiang Huang, Chi-Liang Chen, Chi-Liang Chen, Jiake Wei, Keyou Yan, Yongcai Qiu, Guangxu Chen, Daiqi Ye</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01425</guid>
-    </item>
-    <item>
-      <title>Selective Hydrodeoxygenation of Phenol Driven by Synergistic Effects of Dual-Metal Atoms Over C&lt;sub&gt;2&lt;/sub&gt;N Monolayer</title>
-      <link>https://doi.org/10.1021/acscatal.4c00474</link>
-      <description>Tianchun Li, Tianyang Liu, Liang Hu, Yu Jing, ACS catalysis. None(None)] 2024. https://openalex.org/W4395110142
-
-                No abstract</description>
-      <author>Tianchun Li, Tianyang Liu, Liang Hu, Yu Jing</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00474</guid>
-    </item>
-    <item>
-      <title>Iridium-Catalyzed Regiodivergent Atroposelective C&#8211;H Alkylation of Heterobiaryls with Alkenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00519</link>
-      <description>Maoqian Xiong, Zaoxue Yan, Sicong Chen, Jie Tang, Fan Yang, Dong Xing, ACS catalysis. None(None)] 2024. https://openalex.org/W4395114709
-
-                No abstract</description>
-      <author>Maoqian Xiong, Zaoxue Yan, Sicong Chen, Jie Tang, Fan Yang, Dong Xing</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00519</guid>
-    </item>
     <item>
       <title>Asymmetric Catalytic Site Driving LiOH Chemistry for Li&#8211;O&lt;sub&gt;2&lt;/sub&gt; Batteries Based on Cationic Vacancy-Derived Single-Atom Spinel</title>
       <link>https://doi.org/10.1021/acscatal.4c01127</link>
@@ -256,6 +206,136 @@
       <author>Zhiqing Feng, Shizuyo Honda, Junya Ohyama, Y. Iwata, Keisuke Awaya, Hiroshi Yoshida, Masato Machida, K&#245;tar&#245; Higashi, Tomoya Uruga, N. Kawamura, Ryota Goto, Takeo Ichihara, Ryoichi Kojima, Makoto Moriya, Hideo Notsu, Seiji Nagata, Manabu Miyoshi, Teruaki Hayakawa, Yuta Nabae</author>
       <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01122</guid>
+    </item>
+    <item>
+      <title>Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01353</link>
+      <description>Helena G. Lancaster, Joe C. Goodall, Stephen P. Douglas, Laura J. Ashfield, Simon B. Duckett, Robin N. Perutz, Andrew S. Weller, ACS catalysis. None(None)] 2024. https://openalex.org/W4396495696
+
+                No abstract</description>
+      <author>Helena G. Lancaster, Joe C. Goodall, Stephen P. Douglas, Laura J. Ashfield, Simon B. Duckett, Robin N. Perutz, Andrew S. Weller</author>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01353</guid>
+    </item>
+    <item>
+      <title>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01020</link>
+      <description>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396495893
+
+                No abstract</description>
+      <author>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01020</guid>
+    </item>
+    <item>
+      <title>Catalytic Consequences of Hierarchical Pore Architectures within MFI and FAU Zeolites for Polyethylene Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01213</link>
+      <description>Jun Zhi Tan, M. Ortega, Stephen J. Miller, Cole W. Hullfish, H.G. Kim, Sung M. Kim, Wenda Hu, Jianzhi Hu, Johannes A. Lercher, Bruce E. Koel, Michele L. Sarazen, ACS catalysis. None(None)] 2024. https://openalex.org/W4396499244
+
+                No abstract</description>
+      <author>Jun Zhi Tan, M. Ortega, Stephen J. Miller, Cole W. Hullfish, H.G. Kim, Sung M. Kim, Wenda Hu, Jianzhi Hu, Johannes A. Lercher, Bruce E. Koel, Michele L. Sarazen</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01213</guid>
+    </item>
+    <item>
+      <title>Inducing Microstrain in Electrodeposited Pt through Polymer Addition for Highly Active Oxygen Reduction Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01244</link>
+      <description>Qi Hua, Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi, Yoon Min Lee, Toby J. Woods, Richard T. Haasch, Steven C. Zimmerman, Andrew A. Gewirth, ACS catalysis. None(None)] 2024. https://openalex.org/W4396506273
+
+                We investigate an approach to tune the d-band center and enhance the oxygen reduction reaction (ORR) activity of Pt material without relying on foreign metals or the process of alloying/dealloying. It is known that Pt exhibits suboptimal ORR catalytic activity due to its strong binding to oxygen, therefore requiring a downshift in the d-band center by approximately 0.2 eV to weaken the Pt-O binding energy and boost ORR kinetics. We found that the d-band center can be tuned by inducing microstrain in the Pt electrodeposit, simply achieved by introducing polymer into the electrodeposition bath. Pt electrodes (Pt-P1 and Pt-PLA) prepared with the addition of poly-N-(6-aminohexyl)acrylamide (P1) or poly-l-arginine (PLA) exhibit improved ORR activity compared to Pt electrodeposited without polymer addition (Pt-alone) in both acidic and basic environments, with the order of activity being Pt-P1 &gt; Pt-PLA &gt; Pt-alone. Pt-P1 exhibits a positive shift of E1/2 by 90 mV vs Pt-alone in basic solution, comparable to other reported high-activity ORR catalysts. Scanning electron microscopy shows the presence of agglomerates with diameters between 5 and 20 &#956;m and tip-splitting growth structure due to diffusion-limited aggregation on Pt-P1 and Pt-PLA. Characterization using X-ray photoemission spectroscopy and X-ray diffraction, combined with Rietveld refinement analysis reveal a trend of downshifted d-band center, increased microstrain, and slightly increased compressive strain as the ORR activity increased among the three catalysts. The presence of more defective sites on Pt-P1 and Pt-PLA is the cause of the increased microstrain, which further leads to the downshift of the Pt d-band center and enhancement of ORR activity.</description>
+      <author>Qi Hua, Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi, Yoon Min Lee, Toby J. Woods, Richard T. Haasch, Steven C. Zimmerman, Andrew A. Gewirth</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01244</guid>
+    </item>
+    <item>
+      <title>DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.4c00795</link>
+      <description>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396512258
+
+                No abstract</description>
+      <author>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00795</guid>
+    </item>
+    <item>
+      <title>Boosting Catalytic Performance of Cytochrome &lt;i&gt;c&lt;/i&gt; through Tailored Carboxymethylation in Covalent Organic Frameworks</title>
+      <link>https://doi.org/10.1021/acscatal.4c01456</link>
+      <description>Li-Lan Shi, Xiupeng Chen, Aitao Li, Xiaoling Wu, Xian Kong, Hongming Li, Zhixian Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4396541527
+
+                No abstract</description>
+      <author>Li-Lan Shi, Xiupeng Chen, Aitao Li, Xiaoling Wu, Xian Kong, Hongming Li, Zhixian Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01456</guid>
+    </item>
+    <item>
+      <title>Complete Computational Reaction Mechanism for Foldamer-Catalyzed Aldol Condensation</title>
+      <link>https://doi.org/10.1021/acscatal.4c00937</link>
+      <description>Reilly Osadchey Brown, Darren Demapan, Qiang Cui, ACS catalysis. None(None)] 2024. https://openalex.org/W4396541583
+
+                No abstract</description>
+      <author>Reilly Osadchey Brown, Darren Demapan, Qiang Cui</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00937</guid>
+    </item>
+    <item>
+      <title>Coproduction of Glyceric Acid and Glycolic Acid from Biomass-Based Sugars over a Ru/Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c00782</link>
+      <description>Yancheng Liu, Shiwei Zhou, Xiaoyan Wang, Jingyu Qin, Changwei Hu, Jianmei Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4396545491
+
+                No abstract</description>
+      <author>Yancheng Liu, Shiwei Zhou, Xiaoyan Wang, Jingyu Qin, Changwei Hu, Jianmei Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00782</guid>
+    </item>
+    <item>
+      <title>&#8220;Anion-Switchable&#8221; Pincer-Mn(I) Catalyst for the Reductive &lt;i&gt;N&lt;/i&gt;-Methylation of Amines with Formic Acid and CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c01812</link>
+      <description>Sebasti&#225;n Mart&#237;nez-Vivas, Sergio Gonell, Macarena Poyatos, Eduardo Peris, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547089
+
+                No abstract</description>
+      <author>Sebasti&#225;n Mart&#237;nez-Vivas, Sergio Gonell, Macarena Poyatos, Eduardo Peris</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01812</guid>
+    </item>
+    <item>
+      <title>End-to-End High-Throughput Approach for Data-Driven Internal Donor Development in Heterogeneous Ziegler&#8211;Natta Propylene Polymerization</title>
+      <link>https://doi.org/10.1021/acscatal.4c01601</link>
+      <description>Toshiaki Taniike, Felicia Daniela Cannavacciuolo, Mostafa Khoshsefat, Diego De Canditiis, Giuseppe Antinucci, Patchanee Chammingkwan, Roberta Cipullo, Vincenzo Busico, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547510
+
+                No abstract</description>
+      <author>Toshiaki Taniike, Felicia Daniela Cannavacciuolo, Mostafa Khoshsefat, Diego De Canditiis, Giuseppe Antinucci, Patchanee Chammingkwan, Roberta Cipullo, Vincenzo Busico</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01601</guid>
+    </item>
+    <item>
+      <title>Fourier-Transformed Alternating Current Voltammetry (FTacV) for Analysis of Electrocatalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01526</link>
+      <description>Rifael Z. Snitkoff-Sol, Alan M. Bond, Lior Elbaz, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547671
+
+                Electrocatalysts play a critical role in energy technologies, but the development of active, efficient, and durable catalysts is impeded by the lack of methodologies to deconvolute the complex interplay between various aspects influencing the activity of the catalysts, e.g., the number of active sites, turnover frequency, and the reaction pathways. Fourier-transformed alternating current voltammetry (FTacV) is an emerging tool for the analysis of electroactive species and has been successfully applied to a variety of reactions such as the oxygen reduction reaction, oxygen evolution reaction, carbon dioxide reduction reaction, hydrogen evolution reaction, and hydrogen oxidation reaction. The harmonics generated from FTacV measurements neatly detect underlaying processes not visible by other, more commonly employed techniques for analysis of electrocatalysts, such as the rotating disc electrode and dc voltammetry. The harmonic components enable separating overlapping processes based on differences in kinetics or linearity of response. This paper presents a review of FTacV applied for the analysis of electrocatalysts. It highlights the importance of determining the electrochemically active site density (EASD) to decipher the intrinsic activity of a catalyst and discusses the use of FTacV in dynamic determination of the EASD over the course of a catalyst's working life, as well as the use of FTacV to understand intricate catalytic processes.</description>
+      <author>Rifael Z. Snitkoff-Sol, Alan M. Bond, Lior Elbaz</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01526</guid>
+    </item>
+    <item>
+      <title>Photoinduced Copper-Catalyzed Regio- and Enantioselective Alkynylation of Epoxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c00818</link>
+      <description>Jianye Li, Sijia Li, Guihua Cui, Yuan Kou, Chenwei Wang, Chen Yang, Guozhu Zhang, Rui Guo, ACS catalysis. None(None)] 2024. https://openalex.org/W4396554632
+
+                No abstract</description>
+      <author>Jianye Li, Sijia Li, Guihua Cui, Yuan Kou, Chenwei Wang, Chen Yang, Guozhu Zhang, Rui Guo</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00818</guid>
+    </item>
+    <item>
+      <title>Unraveling the CO Oxidation Mechanism over Highly Dispersed Pt Single Atom on Anatase TiO&lt;sub&gt;2&lt;/sub&gt; (101)</title>
+      <link>https://doi.org/10.1021/acscatal.4c01018</link>
+      <description>Celine Tesvara, Md Raian Yousuf, Malik Albrahim, Diego Troya, Abhijit Shrotri, Eli Stavitski, Ayman M. Karim, Philippe Sautet, ACS catalysis. None(None)] 2024. https://openalex.org/W4396561689
+
+                Catalysts with noble metals deposited as single atoms on metal oxide supports have recently been studied extensively due to their maximized metal utilization and potential for performing difficult chemical conversions owing to their unique electronic properties. Understanding of the reaction mechanisms on supported single-metal atoms is still limited but is highly important for designing more efficient catalysts. In this study, we report the complexity of the CO oxidation reaction mechanism on Pt single atoms supported on anatase TiO2 (PtSA/a-TiO2) by coupling density functional theory (DFT) calculations and microkinetic analysis with kinetic measurements, in situ/operando infrared, and X-ray absorption spectroscopies. Starting from the adsorbed PtSA occupying an O vacancy induced by reductive pretreatment, we show that CO oxidation follows a complex mechanism consisting of initiation steps to reorganize the active site and multibranch reactive cycles, with the PtSA/a-TiO2 catalyst not returning to its initial configuration. The initiation step consists of CO and O2 adsorption healing the O vacancy, followed by CO oxidation using gas-phase CO to form Pt(CO). The reactive cycle alternates O2 adsorption and dissociation to oxidize the catalyst to Pt(O)(O)(CO) and branching pathways of competing Langmuir&#8211;Hinshelwood (LH)- or Eley&#8211;Rideal (ER)-type CO oxidation steps to reduce it again to Pt(CO). In situ/operando infrared experiments, including cryogenic CO adsorption and isotopic CO exchange, confirm the combined involvement of strongly adsorbed CO and gas-phase CO in an Eley&#8211;Rideal step along the reaction cycle. Microkinetic modeling shows that Pt single atoms are present in a mixture of Pt(CO), Pt(CO)(O2), Pt(O)(CO)(O2), and Pt(CO)(CO3) structures as the main intermediates during steady-state CO oxidation, all having the C&#8211;O vibrational stretch close to the experimentally observed value of 2115 cm&#8211;1. Microkinetic modeling also shows that the fractional orders of CO and O2 measured experimentally originate from multiple steps with a high degree of rate control and not from a simple competitive adsorption. The results demonstrate the complex reaction pathways that even CO oxidation on a simple single-atom system can follow, providing mechanistic insights for designing efficient Pt-based single-atom catalysts. We further show that microkinetic modeling results are sensitive to changes in energies of intermediate and transition states within errors of density functional theory, which can ultimately lead to incorrect conclusions regarding the reaction pathways and most abundant reaction intermediates if not accounted for by experiments.</description>
+      <author>Celine Tesvara, Md Raian Yousuf, Malik Albrahim, Diego Troya, Abhijit Shrotri, Eli Stavitski, Ayman M. Karim, Philippe Sautet</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01018</guid>
     </item>
   </channel>
 </rss>

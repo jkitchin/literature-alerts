@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 May 2024 01:03:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:06:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -18,14 +18,14 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta01464b</guid>
     </item>
     <item>
-      <title>Structural Evolution of GaO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Shell and Intermetallic Phases in Ga&#8211;Pt Supported Catalytically Active Liquid Metal Solutions</title>
-      <link>https://doi.org/10.1021/acs.jpclett.3c03494</link>
-      <description>Shaun A. Carl, Johannes Will, Nnamdi Madubuko, Alexander G&#246;tz, Thomas Przybilla, Mingjian Wu, Natarajan Raman, Johannes Wirth, Nicola Taccardi, Benjamin Apeleo Zubiri, Marco Haumann, Marco Haumann, Peter Wasserscheid, Peter Wasserscheid, Erdmann Spiecker, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4395116373
+      <title>&lt;i&gt;Operando&lt;/i&gt; Characterization and Molecular Simulations Reveal the Growth Kinetics of Graphene on Liquid Copper During Chemical Vapor Deposition</title>
+      <link>https://doi.org/10.1021/acsnano.4c02070</link>
+      <description>Valentina Belova, Hao Gao, Hendrik H. Heenen, Wissal Sghaier, Anastasios C. Manikas, Christos Tsakonas, Mehdi Saedi, Johannes T. Margraf, Costas Galiotis, Gilles Renaud, Oleg Konovalov, Irene M. N. Groot, Karsten Reuter, Maciej Jankowski, ACS nano. None(None)] 2024. https://openalex.org/W4396517390
 
-                We present a comprehensive scale-bridging characterization approach for supported catalytically active liquid metal solutions (SCALMS) which combines lab-based X-ray microscopy, nano X-ray computed tomography (nano-CT), and correlative analytical transmission electron microscopy. SCALMS catalysts consist of low-melting alloy particles and have demonstrated high catalytic activity, selectivity, and long-term stability in propane dehydrogenation (PDH). We established an identical-location nano-CT workflow which allows us to reveal site-specific changes of Ga-Pt SCALMS before and after PDH. These observations are complemented by analytical transmission electron microscopy investigations providing information on the structure, chemical composition, and phase distribution of individual SCALMS particles. Key findings of this combined microscopic approach include (i) structural evolution of the SCALMS particles' GaOx shell, (ii) Pt segregation toward the oxide shell leading to the formation of Ga-Pt intermetallic phases, and (iii) cracking of the oxide shell accompanied by the release of liquid Ga-Pt toward the porous support.</description>
-      <author>Shaun A. Carl, Johannes Will, Nnamdi Madubuko, Alexander G&#246;tz, Thomas Przybilla, Mingjian Wu, Natarajan Raman, Johannes Wirth, Nicola Taccardi, Benjamin Apeleo Zubiri, Marco Haumann, Marco Haumann, Peter Wasserscheid, Peter Wasserscheid, Erdmann Spiecker</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03494</guid>
+                In recent years, liquid metal catalysts have emerged as a compelling choice for the controllable, large-scale, and high-quality synthesis of two-dimensional materials. At present, there is little mechanistic understanding of the intricate catalytic process, though, of its governing factors or what renders it superior to growth at the corresponding solid catalysts. Here, we report on a combined experimental and computational study of the kinetics of graphene growth during chemical vapor deposition on a liquid copper catalyst. By monitoring the growing graphene flakes in real time using in situ radiation-mode optical microscopy, we explore the growth morphology and kinetics over a wide range of CH4-to-H2 pressure ratios and deposition temperatures. Constant growth rates of the flakes' radius indicate a growth mode limited by precursor attachment, whereas methane-flux-dependent flake shapes point to limited precursor availability. Large-scale free energy simulations enabled by an efficient machine-learning moment tensor potential trained to density functional theory data provide quantitative barriers for key atomic-scale growth processes. The wealth of experimental and theoretical data can be consistently combined into a microkinetic model that reveals mixed growth kinetics that, in contrast to the situation at solid Cu, is partly controlled by precursor attachment alongside precursor availability. Key mechanistic aspects that directly point toward the improved graphene quality are a largely suppressed carbon dimer attachment due to the facile incorporation of this precursor species into the liquid surface and a low-barrier ring-opening process that self-heals 5-membered rings resulting from remaining dimer attachments.</description>
+      <author>Valentina Belova, Hao Gao, Hendrik H. Heenen, Wissal Sghaier, Anastasios C. Manikas, Christos Tsakonas, Mehdi Saedi, Johannes T. Margraf, Costas Galiotis, Gilles Renaud, Oleg Konovalov, Irene M. N. Groot, Karsten Reuter, Maciej Jankowski</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c02070</guid>
     </item>
   </channel>
 </rss>

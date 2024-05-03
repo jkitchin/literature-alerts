@@ -1,10 +1,21 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu May  2 01:03:34 2024
+Created on Fri May  3 01:06:44 2024
 
-Found 2 results from 2024-04-25 to 2024-05-02
+Found 3 results from 2024-04-26 to 2024-05-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
+
+## High-entropy oxide based biomimetic catalysis system enables robust oxidative desulfurization with an excellent regeneration ability   
+
+OpenAlex: https://openalex.org/W4396508534    
+Open access: False
+    
+[Haoyi Lin](https://openalex.org/A5021686620), [Bo Shen](https://openalex.org/A5015341679), [Lixin Xue](https://openalex.org/A5047098061), [Xueyun Wang](https://openalex.org/A5062410995), [Ting Su](https://openalex.org/A5013955092), [Kaixuan Yang](https://openalex.org/A5052219648), [Hongying Lü](https://openalex.org/A5069349716), [Zhiguo Zhu](https://openalex.org/A5058780747), Separation and purification technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.127729.
+    
+No abstract    
+
+    
 
 ## Scalable Synthesis Methods for High‐Entropy Nanoparticles   
 
@@ -17,13 +28,13 @@ High‐entropy materials (HEMs) represent a revolutionary class of materials tha
 
     
 
-## Spin‐Regulated Fenton‐Like Catalysis for Nonradical Oxidation over Metal Oxide@Carbon Composites   
+## Evolution of Oxygen Vacancy Sites in Ceria-Based High-Entropy Oxides and Their Role in N2 Activation   
 
-OpenAlex: https://openalex.org/W4395082091    
-Open access: False
+OpenAlex: https://openalex.org/W4396215458    
+Open access: True
     
-[Bofeng Li](https://openalex.org/A5007519947), [Liu Ya](https://openalex.org/A5024121358), [Kunsheng Hu](https://openalex.org/A5016690357), [Qing Dai](https://openalex.org/A5012805315), [Chunmao Chen](https://openalex.org/A5007184529), [Xiaoguang Duan](https://openalex.org/A5006059700), [Shaobin Wang](https://openalex.org/A5013288442), [Yuxian Wang](https://openalex.org/A5011740811), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202401397.
+[Omer Elmutasim](https://openalex.org/A5062810492), [Aseel Gamal Suliman Hussien](https://openalex.org/A5000917380), [Abhishek Sharan](https://openalex.org/A5031495778), [Sara AlKhoori](https://openalex.org/A5031015784), [Michalis A. Vasiliades](https://openalex.org/A5014177788), [Inas Taha](https://openalex.org/A5036320221), [Seok‐Jin Kim](https://openalex.org/A5026385956), [Messaoud Harfouche](https://openalex.org/A5073269272), [Abdul‐Hamid Emwas](https://openalex.org/A5046522347), [Dalaver H. Anjum](https://openalex.org/A5037684463), [Angelos M. Efstathiou](https://openalex.org/A5091258830), [Cafer T. Yavuz](https://openalex.org/A5005092754), [Nirpendra Singh](https://openalex.org/A5017583868), [Kyriaki Polychronopoulou](https://openalex.org/A5008059915), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.3c16521.
     
-Abstract The spin state of the transition metal species (TMs) has been recognized as a critical descriptor in Fenton‐like catalysis. The raised spin state of dispersed TMs in carbon will enhance the redox processes with adsorbed peroxides and improve the oxidation performance. Nevertheless, establishing the spin‐activity correlations for the encapsulated TM nanoparticles remains challenging because of the difficulties in fine‐tuning the spin state of TM species and the insufficient understanding of orbital hybridization states upon interaction with peroxides. Here, the advantage of the fast‐temperature heating/quenching of microwave thermal shock is taken to engineer the structure and spin state of encapsulated TMs within the N‐doped graphitic carbons. The reduced TMs particle size and enhanced TMs‐carbon coupling increase surface entropy and regulate e g electron filling of the high‐spin TM‐N coordination, endowing electrons with high mobility and facilitating peroxymonosulfate (PMS) adsorption. The strong interactions further uplift the PMS O 2p band position toward the Fermi level and thus elevate the oxidation potential of surface‐activated PMS (PMS * ) as the dominant nonradical species for pollutant degradation. The deciphered orbital hybridizations of engineered high‐spin TM and PMS enlighten the smart design of spin‐regulated nanocomposites for advanced water purification.    
+In this work, a relatively new class of materials, rare earth (RE) based high entropy oxides (HEO) are discussed in terms of the evolution of the oxygen vacant sites (Ov) content in their structure as the composition changes from binary to HEO using both experimental and computational tools; the composition of HEO under focus is the CeLaPrSmGdO due to the importance of ceria-related (fluorite) materials to catalysis. To unveil key features of quinary HEO structure, ceria-based binary CePrO and CeLaO compositions as well as SiO2, the latter as representative nonreducible oxide, were used and compared as supports for Ru (6 wt % loading). The role of the Ov in the HEO is highlighted for the ammonia production with particular emphasis on the N2 dissociation step (N2(ads) → Nads) over a HEO; the latter step is considered the rate controlling one in the ammonia production. Density functional theory (DFT) calculations and 18O2 transient isotopic experiments were used to probe the energy of formation, the population, and the easiness of formation for the Ov at 650 and 800 °C, whereas Synchrotron EXAFS, Raman, EPR, and XPS probed the Ce-O chemical environment at different length scales. In particular, it was found that the particular HEO composition eases the Ov formation in bulk, in medium (Raman), and in short (localized) order (EPR); more Ov population was found on the surface of the HEO compared to the binary reference oxide (CePrO). Additionally, HEO gives rise to smaller and less sharp faceted Ru particles, yet in stronger interaction with the HEO support and abundance of Ru-O-Ce entities (Raman and XPS). Ammonia production reaction at 400 °C and in the 10-50 bar range was performed over Ru/HEO, Ru/CePrO, Ru/CeLaO, and Ru/SiO2 catalysts; the Ru/HEO had superior performance at 10 bar compared to the rest of catalysts. The best performing Ru/HEO catalyst was activated under different temperatures (650 vs 800 °C) so to adjust the Ov population with the lower temperature maintaining better performance for the catalyst. DFT calculations showed that the HEO active site for N adsorption involves the Ov site adjacent to the adsorption event.    
 
     

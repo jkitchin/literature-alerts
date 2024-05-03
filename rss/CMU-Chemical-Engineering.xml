@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 May 2024 01:03:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:06:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Integrated Bayesian parameter estimation with model&#8208;based design of experiments for dynamic processes</title>
-      <link>https://doi.org/10.1002/aic.18418</link>
-      <description>Xinyu Cao, Xi Chen, Xi Chen, Lorenz T. Biegler, AIChE journal. None(None)] 2024. https://openalex.org/W4395087592
-
-                Abstract Integration of Bayesian parameter estimation (BPE) with model&#8208;based design of experiments (MBDoE) aims to estimate process parameters efficiently and systematically. To achieve more efficient use of resources by iteratively selecting informative experiments based on current knowledge about the parameters, an integrated method with BPE and MBDoE is proposed in this article. A built&#8208;in Markov Chain Monte Carlo is also developed to yield not only the distribution profile of the estimated parameters but also aid in the determination of stopping criteria and the estimation of noise. Two applications of dynamic batch reactor systems are presented. Comparative analysis substantiates the superior performance of this approach in terms of parameter accuracy and the efficiency of experimentation.</description>
-      <author>Xinyu Cao, Xi Chen, Xi Chen, Lorenz T. Biegler</author>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18418</guid>
-    </item>
     <item>
       <title>A tailored decomposition approach for optimization under uncertainty of carbon removal technologies in the EU power system</title>
       <link>https://doi.org/10.1016/j.compchemeng.2024.108691</link>
@@ -46,6 +36,26 @@
       <author>S. M. H. Hashemi Amrei, Edward T. Gilman, Aditya S. Khair</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1140/epje/s10189-024-00421-y</guid>
+    </item>
+    <item>
+      <title>Fostering a Holistic Understanding of the Full Volatility Spectrum of Organic Compounds from Benzene Series Precursors through Mechanistic Modeling</title>
+      <link>https://doi.org/10.1021/acs.est.3c07128</link>
+      <description>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4396543013
+
+                No abstract</description>
+      <author>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.3c07128</guid>
+    </item>
+    <item>
+      <title>Diffusiophoretic Transport of Charged Colloids in Ionic Surfactant Gradients Entirely below versus Entirely above the Critical Micelle Concentration</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c00431</link>
+      <description>Angela Yang, Brian E. McKenzie, Benjamin Pavlat, Eric S. Johnson, Aditya S. Khair, Stephen Garoff, Robert D. Tilton, Langmuir. None(None)] 2024. https://openalex.org/W4396554712
+
+                When placed in an ionic surfactant gradient, charged colloids will undergo diffusiophoresis at a velocity, uDP = MDP&#8711; ln S, where MDP is the diffusiophoretic mobility and S is the surfactant concentration. The diffusiophoretic mobility depends in part on the charges and diffusivities of the surfactants and their counterions. Since micellization decreases surfactant diffusivity and alters charge distributions in a surfactant solution, MDP of charged colloids in ionic surfactant gradients may differ significantly when surfactant concentrations are above or below the critical micelle concentration (CMC). The role of micelles in driving diffusiophoresis is unclear, and a previously published model that accounts for micellization suggests the possibility of a change in the sign of MDP above the CMC [Warren, P. B.; . Soft Matter 2019, 15, 278-288]. In the current study, microfluidic channels were used to measure the transport of negatively charged polystyrene colloids in sodium dodecyl sulfate (SDS) surfactant gradients established at SDS concentrations that are either fully above or fully below the CMC. Interpretation of diffusiophoresis was aided by measurements of the colloid electrophoretic mobility as a function of SDS concentration. A numerical transport model incorporating the prior diffusiophoretic mobility model for ionic surfactant gradients was implemented to elucidate signatures of positive and negative diffusiophoretic mobilities and compare with experiments. The theoretically predicted sign of the diffusiophoretic mobility below the CMC was determined to be particularly sensitive to uncertainty in colloid and surfactant properties, while above the CMC, the mobility was consistently predicted to be positive in the SDS concentration range considered in the experiments conducted here. In contrast, experiments only showed signatures of a negative diffusiophoretic mobility for these negatively charged colloids with no change of sign. Colloid diffusiophoretic transport measured in micellar solutions was more extensive than that below the CMC with the same &#8711; ln S.</description>
+      <author>Angela Yang, Brian E. McKenzie, Benjamin Pavlat, Eric S. Johnson, Aditya S. Khair, Stephen Garoff, Robert D. Tilton</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00431</guid>
     </item>
   </channel>
 </rss>

@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 02 May 2024 01:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 01:06:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalysis for Green(er) Chemistry: Limitations and Opportunities with Traditional and Emerging Characterization Methods for Tangible Societal Impact</title>
-      <link>https://doi.org/10.1002/aesr.202400008</link>
-      <description>Peter C. Sherrell, Peter C. Sherrell, Mairis Iesalnieks, Yemima Ehrnst, Amgad R. Rezk, Andris &#352;utka, Advanced energy and sustainability research. None(None)] 2024. https://openalex.org/W4395109925
-
-                The world is facing grand challenges in energy security, environmental pollution, and sustainable use (and re&#8208;use) of resources. Electrochemical processes, incorporating electrosynthesis, electrochemical catalysis, and electrochemical energy storage devices, provide pathways to address these challenges via green chemistry. However, the applicability of electrochemical processes for these systems is limited by the required energy input, the &#8220;electrons&#8221; in electrochemistry. Electrocatalysis as a subset of electrochemistry is set to underpin many of the United Nations Sustainable Development Goals, including &#8220;Affordable and Clean Energy&#8221; through the production of future fuels and abatement of carbon emissions; &#8220;Responsible Consumption and Production&#8221; through recycling and degradation of waste; and &#8220;Climate Action&#8221; through CO 2 (and other greenhouse gas) remediation. The rise of green photovoltaic power has lowered the carbon cost of these electrons, making electrocatalysis an even more viable, green(er), chemical conversion pathway. This perspective highlights the need for comprehensive understanding of catalyst structure via in situ and operando analysis to complement device design considerations. The challenges faced by the field of electrocatalysis in data reporting, elimination of electrochemical artifacts, catalyst stability, and scaling to industrial relevance, along with opportunities, emerging tools, are discussed with a view to achieve the maximum &#8216;potential&#8217; of electrocatalysis.</description>
-      <author>Peter C. Sherrell, Peter C. Sherrell, Mairis Iesalnieks, Yemima Ehrnst, Amgad R. Rezk, Andris &#352;utka</author>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400008</guid>
-    </item>
   </channel>
 </rss>

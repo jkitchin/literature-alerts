@@ -1,8 +1,8 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Thu May  2 01:03:34 2024
+Created on Fri May  3 01:06:43 2024
 
-Found 2 results from 2024-04-25 to 2024-05-02
+Found 2 results from 2024-04-26 to 2024-05-03
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
 
@@ -17,13 +17,13 @@ Ga based liquid metal is an ideal matrix to dissolve and disperse other metal at
 
     
 
-## Structural Evolution of GaOx-Shell and Intermetallic Phases in Ga–Pt Supported Catalytically Active Liquid Metal Solutions   
+## Operando Characterization and Molecular Simulations Reveal the Growth Kinetics of Graphene on Liquid Copper During Chemical Vapor Deposition   
 
-OpenAlex: https://openalex.org/W4395116373    
+OpenAlex: https://openalex.org/W4396517390    
 Open access: False
     
-[Shaun A. Carl](https://openalex.org/A5083491990), [Johannes Will](https://openalex.org/A5069346417), [Nnamdi Madubuko](https://openalex.org/A5092677750), [Alexander Götz](https://openalex.org/A5016355522), [Thomas Przybilla](https://openalex.org/A5084701861), [Mingjian Wu](https://openalex.org/A5090306088), [Natarajan Raman](https://openalex.org/A5009462940), [Johannes Wirth](https://openalex.org/A5037516157), [Nicola Taccardi](https://openalex.org/A5001718718), [Benjamin Apeleo Zubiri](https://openalex.org/A5046935930), [Marco Haumann](https://openalex.org/A5040845269), [Marco Haumann](https://openalex.org/A5040845269), [Peter Wasserscheid](https://openalex.org/A5039726667), [Peter Wasserscheid](https://openalex.org/A5039726667), [Erdmann Spiecker](https://openalex.org/A5062733366), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.3c03494.
+[Valentina Belova](https://openalex.org/A5006929737), [Hao Gao](https://openalex.org/A5050054944), [Hendrik H. Heenen](https://openalex.org/A5031837222), [Wissal Sghaier](https://openalex.org/A5092061311), [Anastasios C. Manikas](https://openalex.org/A5088137297), [Christos Tsakonas](https://openalex.org/A5033794109), [Mehdi Saedi](https://openalex.org/A5069837152), [Johannes T. Margraf](https://openalex.org/A5044300693), [Costas Galiotis](https://openalex.org/A5071814045), [Gilles Renaud](https://openalex.org/A5077055219), [Oleg Konovalov](https://openalex.org/A5079450836), [Irene M. N. Groot](https://openalex.org/A5021296109), [Karsten Reuter](https://openalex.org/A5024866637), [Maciej Jankowski](https://openalex.org/A5049417640), ACS nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c02070.
     
-We present a comprehensive scale-bridging characterization approach for supported catalytically active liquid metal solutions (SCALMS) which combines lab-based X-ray microscopy, nano X-ray computed tomography (nano-CT), and correlative analytical transmission electron microscopy. SCALMS catalysts consist of low-melting alloy particles and have demonstrated high catalytic activity, selectivity, and long-term stability in propane dehydrogenation (PDH). We established an identical-location nano-CT workflow which allows us to reveal site-specific changes of Ga-Pt SCALMS before and after PDH. These observations are complemented by analytical transmission electron microscopy investigations providing information on the structure, chemical composition, and phase distribution of individual SCALMS particles. Key findings of this combined microscopic approach include (i) structural evolution of the SCALMS particles' GaOx shell, (ii) Pt segregation toward the oxide shell leading to the formation of Ga-Pt intermetallic phases, and (iii) cracking of the oxide shell accompanied by the release of liquid Ga-Pt toward the porous support.    
+In recent years, liquid metal catalysts have emerged as a compelling choice for the controllable, large-scale, and high-quality synthesis of two-dimensional materials. At present, there is little mechanistic understanding of the intricate catalytic process, though, of its governing factors or what renders it superior to growth at the corresponding solid catalysts. Here, we report on a combined experimental and computational study of the kinetics of graphene growth during chemical vapor deposition on a liquid copper catalyst. By monitoring the growing graphene flakes in real time using in situ radiation-mode optical microscopy, we explore the growth morphology and kinetics over a wide range of CH4-to-H2 pressure ratios and deposition temperatures. Constant growth rates of the flakes' radius indicate a growth mode limited by precursor attachment, whereas methane-flux-dependent flake shapes point to limited precursor availability. Large-scale free energy simulations enabled by an efficient machine-learning moment tensor potential trained to density functional theory data provide quantitative barriers for key atomic-scale growth processes. The wealth of experimental and theoretical data can be consistently combined into a microkinetic model that reveals mixed growth kinetics that, in contrast to the situation at solid Cu, is partly controlled by precursor attachment alongside precursor availability. Key mechanistic aspects that directly point toward the improved graphene quality are a largely suppressed carbon dimer attachment due to the facile incorporation of this precursor species into the liquid surface and a low-barrier ring-opening process that self-heals 5-membered rings resulting from remaining dimer attachments.    
 
     
