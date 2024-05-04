@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 May 2024 01:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 01:03:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A tailored decomposition approach for optimization under uncertainty of carbon removal technologies in the EU power system</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108691</link>
-      <description>Valentina Negri, Daniel V&#225;zquez, Ignacio E. Grossmann, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4395658791
-
-                No abstract</description>
-      <author>Valentina Negri, Daniel V&#225;zquez, Ignacio E. Grossmann, Gonzalo Guill&#233;n&#8208;Gos&#225;lbez</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108691</guid>
-    </item>
     <item>
       <title>Iterative MILP algorithm to find alternate solutions in linear programming models</title>
       <link>https://doi.org/10.1007/s11081-024-09887-3</link>

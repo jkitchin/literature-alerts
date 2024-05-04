@@ -1,98 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri May  3 01:06:45 2024
+Created on Sat May  4 01:03:29 2024
 
-Found 33 results from 2024-04-26 to 2024-05-03
+Found 26 results from 2024-04-27 to 2024-05-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Asymmetric Catalytic Site Driving LiOH Chemistry for Li–O2 Batteries Based on Cationic Vacancy-Derived Single-Atom Spinel   
-
-OpenAlex: https://openalex.org/W4395445501    
-Open access: False
-    
-[Shaoze Zhao](https://openalex.org/A5086287677), [Lina Song](https://openalex.org/A5022632473), [Lina Song](https://openalex.org/A5022632473), [Mengran Xie](https://openalex.org/A5073642815), [Youcai Lu](https://openalex.org/A5047308261), [Zhongjun Li](https://openalex.org/A5062631778), [Qingchao Liu](https://openalex.org/A5002629435), [Ji‐Jing Xu](https://openalex.org/A5090414406), [Ji‐Jing Xu](https://openalex.org/A5090414406), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01127.
-    
-The high conductivity and low decomposition potential of LiOH as the discharge product in Li–O2 batteries have garnered significant attention. However, challenges remain in developing LiOH-based Li–O2 batteries and promoting efficient generation/decomposition of LiOH. Here, we propose a strategy to build a binder-free cathode for Li–O2 batteries by embedding atomically dispersed Ru onto the surface of MnCo2O4 (RuSA-MnCo2O4) through defect engineering and adsorption–deposition methods, harnessing the synergistic benefits of spinel and a single atom in terms of catalytic activity and physical structure. The embedding of Ru leads to slight lattice distortion of MnCo2O4 and electron enrichment near Co, breaking the long-range ordered and symmetrical structure of spinel and transforming the symmetrical Mn/Co low-activity centers into asymmetrical Ru–O–Co high-activity centers. Compared to that of MnCo2O4, the d-band center of RuSA-MnCo2O4 is positioned further away from the Fermi level, resulting in an increased occupancy of antibonding orbitals. This leads to more moderate adsorption energies for LiO2* and LiOH*, as well as a reduction in the reaction barrier for LiOH formation, thereby optimizing the kinetics of the redox reactions. Thanks to the catalytic active center regulated by RuSA, the electrochemical performances were greatly improved, which also provides a clever approach for the development of catalysts for LiOH-based Li–O2 batteries.    
-
-    
-
-## Enantioselective [2+2] Cross-Photocycloaddition Enabled by a Chiral Cage Reactor via Multilevel-Selectivity Control   
-
-OpenAlex: https://openalex.org/W4395447658    
-Open access: False
-    
-[Jia Ruan](https://openalex.org/A5067910582), [Zhongshu Li](https://openalex.org/A5078835568), [Changzhen Yin](https://openalex.org/A5086694495), [Yu‐Lin Lu](https://openalex.org/A5083424283), [Zhang‐Wen Wei](https://openalex.org/A5076159048), [Peng Hu](https://openalex.org/A5071598759), [Cheng‐Yong Su](https://openalex.org/A5002170896), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01087.
-    
-In the recently burgeoning field of asymmetric [2 + 2] photocycloaddition, a challenging hurdle lies in achieving a multilevel control of chemo-, regio-, diastereo-, and enantioselectivities in cross-coupling photoreactions, which often result in chaotic outcomes when partners show similar electronic and optical properties. Here, we introduce a biomimetic cage-pocket confined photocatalytic protocol that can effectively realize bimolecular recognition and manipulate excited triplet-state dynamics through stereochemical confinement. This approach allows for highly selective synthesis of heterocoupled [2 + 2] syn-HH (head-to-head) enantiomers from two photoactive α,β-unsaturated carbonyl compounds, which are typically difficult to access via conventional strategies due to competitive pathways. We find that the cooperative heteromolecular binding dynamics plays a critical role in initial chemoselective and successive stereoselective photoreactions. Notably, the open pockets of the cage reactor display tolerable guest–host match but products–host mismatch for a wide scope of substrates, overcoming common limitations associated with enzyme-mimicking cage reactors such as guest specificity and product inhibition against catalytic generality and turnover.    
-
-    
-
-## Hexavalent Metal Cations Doped into Ceria Inducing the Formation of Binuclear Sites Ce3+–O–Ce3+ to Boost the NH3-SCR Reaction   
-
-OpenAlex: https://openalex.org/W4395464352    
-Open access: False
-    
-[Shan Yang](https://openalex.org/A5000180953), [Xiaoyue Zhu](https://openalex.org/A5080532928), [Shurui Chen](https://openalex.org/A5036513765), [Xinhui Zhu](https://openalex.org/A5020891596), [Hao Liu](https://openalex.org/A5045027403), [Jianjun Chen](https://openalex.org/A5026227164), [Dezhan Chen](https://openalex.org/A5001825375), [Chuanzhi Sun](https://openalex.org/A5064575734), [Junhua Li](https://openalex.org/A5044717730), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00043.
-    
-The application of selective catalytic reduction with ammonia (NH3-SCR) technology urgently requires catalysts with good performance to control nitrogen oxide (NOx, x = 1, 2) emissions, and structural analysis of such catalysts is necessary and crucial to elucidate the performance of catalytically active sites. Thus, we prepared molybdenum (Mo)-doped CeO2 catalysts to achieve a substantial leap in catalytic performance. The results revealed that the emergence of Ce3+–O–Ce3+ structural units induced by Mo doping achieved the low-energy barrier activation of the NH3 molecule, which transformed the dominant reaction mechanism in the catalytic reaction and thus led to a much better SCR performance. Furthermore, we designed tungsten (W)-doped CeO2 catalysts with the same doping amount as Mo and found that the catalysts exhibited almost the same activity trend as the Mo-doped CeO2 catalysts, which further confirmed the pivotal role of the Ce3+–O–Ce3+ structural units. This study provides a basic theoretical foundation for the design of ceria-based SCR catalysts with efficient catalytic performance for NOx removal.    
-
-    
-
-## Recycling of Homogeneous Catalysts─Basic Principles, Industrial Practice, and Guidelines for Experiments and Evaluation   
-
-OpenAlex: https://openalex.org/W4395464640    
-Open access: True
-    
-[Thiemo A. Faßbach](https://openalex.org/A5040678279), [Jong Dae Ji](https://openalex.org/A5059931993), [Andreas J. Vorholt](https://openalex.org/A5035847242), [Walter Leitner](https://openalex.org/A5033523008), [Walter Leitner](https://openalex.org/A5033523008), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01006 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01006)).
-    
-Homogeneous catalysts─organometallic complexes but also organocatalysts or nanoparticle catalysts─display attractive features that are of high academic and industrial interest. Various concepts have been established for their integrated recycling in the realization of industrial processes with metal complexes to achieve quasistationary operation. With the constant development of novel synthetic tools and improved catalyst structures, innovative methods for their effective recycling remain an important and thoroughly investigated research objective. However, recycling experiments of homogeneous catalysts on a laboratory scale need to be carried out using reliable and generalized methods to collect valuable data that allow for conclusive comparison of different approaches. In this Perspective, we first analyze and categorize the industrial applied techniques for recycling of organometallic catalysts and then present and evaluate performance indicators of recycling methods on the research stage. As a conclusion, a best practice for planning and conducting experimental studies is suggested to generate and present comparable results across different laboratories and disciplines.    
-
-    
-
-## Outer-Coordination-Sphere Interaction in a Molecular Iron Catalyst Allows Selective Methane Production from Carbon Monoxide   
-
-OpenAlex: https://openalex.org/W4395465456    
-Open access: False
-    
-[Suman Patra](https://openalex.org/A5069451401), [Sarmistha Bhunia](https://openalex.org/A5072096948), [Soumili Ghosh](https://openalex.org/A5035242336), [Abhishek Dey](https://openalex.org/A5013392233), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06112.
-    
-Reduction of oxides of carbon (CO and CO2) to fixed forms of carbon is desirable to achieve sustainable and clean energy. Carbon monoxide (CO), an intermediate product in CO2 reduction, is challenging to reduce, which in turn jeopardizes the direct reduction of CO2 beyond 2e–/2H+ to products like CH3OH and CH4. Iron porphyrins can efficiently reduce CO2 to CO by 2e–/2H+, but further reduction is halted by the rapid dissociation of CO from the reduced iron center. This work shows that CO can indeed be reduced upon inclusion of a pendent pyridine in the second coordination sphere of an iron porphyrin complex efficiently and selectively to CH4 using water or phenol as the proton source. In situ spectro-electrochemistry supported by theoretical calculations indicates that the pendent pyridine moiety imposes a hydrogen bonding interaction between the bound CO and water, which stabilizes two low-valent CO adducts, i.e., Fe(I)–CO and Fe(0)–CO, of iron porphyrins, allowing its complete reduction, via a Fe(II)–CHO species, to CH4. The ability to activate and reduce CO by ne–/nH+ via a second-sphere hydrogen bonding interaction in a mononuclear iron porphyrin opens newer pathways to valorize both CO and CO2 to valuable C1 products.    
-
-    
-
-## Asymmetric Synthesis of Chiral 2-Cyclohexenones with Quaternary Stereocenters via Ene-Reductase Catalyzed Desymmetrization of 2,5-Cyclohexadienones   
-
-OpenAlex: https://openalex.org/W4395478117    
-Open access: True
-    
-[Michael Frieß](https://openalex.org/A5029049506), [Amit Singh](https://openalex.org/A5082174925), [Bianca Kerschbaumer](https://openalex.org/A5068840556), [Silvia Wallner](https://openalex.org/A5044170378), [Ana Torvisco](https://openalex.org/A5025789862), [Roland C. Fischer](https://openalex.org/A5037216414), [Karl Gruber](https://openalex.org/A5027940353), [Karl Gruber](https://openalex.org/A5027940353), [Peter Macheroux](https://openalex.org/A5089695784), [Rolf Breinbauer](https://openalex.org/A5091831756), [Rolf Breinbauer](https://openalex.org/A5091831756), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00276.
-    
-No abstract    
-
-    
-
-## S-Scheme Heterojunction/Single-Atom Dual-Driven Charge Transport for Photocatalytic Hydrogen Production   
-
-OpenAlex: https://openalex.org/W4395479258    
-Open access: False
-    
-[Huaxing Li](https://openalex.org/A5003042730), [Huaxing Li](https://openalex.org/A5003042730), [Rongjie Li](https://openalex.org/A5046828097), [Rongjie Li](https://openalex.org/A5046828097), [Yannan Jing](https://openalex.org/A5016201918), [Bowen Liu](https://openalex.org/A5067855930), [Quanlong Xu](https://openalex.org/A5082548703), [Ting Tan](https://openalex.org/A5085495534), [Gang Liu](https://openalex.org/A5010028188), [Gang Liu](https://openalex.org/A5010028188), [Lirong Zheng](https://openalex.org/A5047244598), [Li‐Zhu Wu](https://openalex.org/A5071014155), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00758.
-    
-No abstract    
-
-    
-
-## Efficient Access to Enantioenriched gem-Difluorinated Heterocycles via Silver-Catalyzed Asymmetric Cycloaddition Reaction   
-
-OpenAlex: https://openalex.org/W4395482410    
-Open access: False
-    
-[Jun Li](https://openalex.org/A5027835055), [Jun Lee](https://openalex.org/A5077437724), [Lijun Xu](https://openalex.org/A5054156645), [Xiaolong Yu](https://openalex.org/A5052886700), [Meijuan Zhou](https://openalex.org/A5078930459), [Hongyu Wang](https://openalex.org/A5037939446), [Gang Zhao](https://openalex.org/A5039181668), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01805.
-    
-No abstract    
-
-    
 
 ## Synthesis of 1H-Isoindole-Containing Scaffolds Enabled by a Nitrile Trifunctionalization   
 
@@ -366,5 +278,16 @@ Open access: False
 [Celine Tesvara](https://openalex.org/A5045270846), [Md Raian Yousuf](https://openalex.org/A5066206219), [Malik Albrahim](https://openalex.org/A5019435286), [Diego Troya](https://openalex.org/A5003028286), [Abhijit Shrotri](https://openalex.org/A5090337296), [Eli Stavitski](https://openalex.org/A5061972581), [Ayman M. Karim](https://openalex.org/A5019554285), [Philippe Sautet](https://openalex.org/A5025258970), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01018.
     
 Catalysts with noble metals deposited as single atoms on metal oxide supports have recently been studied extensively due to their maximized metal utilization and potential for performing difficult chemical conversions owing to their unique electronic properties. Understanding of the reaction mechanisms on supported single-metal atoms is still limited but is highly important for designing more efficient catalysts. In this study, we report the complexity of the CO oxidation reaction mechanism on Pt single atoms supported on anatase TiO2 (PtSA/a-TiO2) by coupling density functional theory (DFT) calculations and microkinetic analysis with kinetic measurements, in situ/operando infrared, and X-ray absorption spectroscopies. Starting from the adsorbed PtSA occupying an O vacancy induced by reductive pretreatment, we show that CO oxidation follows a complex mechanism consisting of initiation steps to reorganize the active site and multibranch reactive cycles, with the PtSA/a-TiO2 catalyst not returning to its initial configuration. The initiation step consists of CO and O2 adsorption healing the O vacancy, followed by CO oxidation using gas-phase CO to form Pt(CO). The reactive cycle alternates O2 adsorption and dissociation to oxidize the catalyst to Pt(O)(O)(CO) and branching pathways of competing Langmuir–Hinshelwood (LH)- or Eley–Rideal (ER)-type CO oxidation steps to reduce it again to Pt(CO). In situ/operando infrared experiments, including cryogenic CO adsorption and isotopic CO exchange, confirm the combined involvement of strongly adsorbed CO and gas-phase CO in an Eley–Rideal step along the reaction cycle. Microkinetic modeling shows that Pt single atoms are present in a mixture of Pt(CO), Pt(CO)(O2), Pt(O)(CO)(O2), and Pt(CO)(CO3) structures as the main intermediates during steady-state CO oxidation, all having the C–O vibrational stretch close to the experimentally observed value of 2115 cm–1. Microkinetic modeling also shows that the fractional orders of CO and O2 measured experimentally originate from multiple steps with a high degree of rate control and not from a simple competitive adsorption. The results demonstrate the complex reaction pathways that even CO oxidation on a simple single-atom system can follow, providing mechanistic insights for designing efficient Pt-based single-atom catalysts. We further show that microkinetic modeling results are sensitive to changes in energies of intermediate and transition states within errors of density functional theory, which can ultimately lead to incorrect conclusions regarding the reaction pathways and most abundant reaction intermediates if not accounted for by experiments.    
+
+    
+
+## Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings   
+
+OpenAlex: https://openalex.org/W4396592409    
+Open access: False
+    
+[Ziyue Hu](https://openalex.org/A5035876826), [Ling-Heng Luo](https://openalex.org/A5069694755), [Cheng Shang](https://openalex.org/A5032659859), [Zhi-Pan Liu](https://openalex.org/A5023502514), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00959.
+    
+Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
 
     

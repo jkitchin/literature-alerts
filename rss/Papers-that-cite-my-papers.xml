@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 03 May 2024 01:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 01:03:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enriching surface-ordered defects on WO &lt;sub&gt;3&lt;/sub&gt; for photocatalytic CO &lt;sub&gt;2&lt;/sub&gt; -to-CH &lt;sub&gt;4&lt;/sub&gt; conversion by water</title>
-      <link>https://doi.org/10.1073/pnas.2319751121</link>
-      <description>Sikang Xue, Sikang Xue, Changgeng Wei, Min Shen, Xiaocong Liang, Jiali Wang, Can Yang, Wandong Xing, Sibo Wang, Wei Lin, Zhiyang Yu, Yidong Hou, Jimmy C. Yu, Jimmy C. Yu, Xinchen Wang, Xinchen Wang, Proceedings of the National Academy of Sciences of the United States of America. 121(18)] 2024. https://openalex.org/W4395449422
-
-                Defect engineering has been widely applied in semiconductors to improve photocatalytic properties by altering the surface structures. This study is about the transformation of inactive WO 3 nanosheets to a highly effective CO 2 -to-CH 4 conversion photocatalyst by introducing surface-ordered defects in abundance. The nonstoichiometric WO 3- x samples were examined by using aberration-corrected electron microscopy. Results unveil abundant surface-ordered terminations derived from the periodic {013} stacking faults with a defect density of 20.2%. The {002} surface-ordered line defects are the active sites for fixation CO 2 , transforming the inactive WO 3 nanosheets into a highly active catalyst (CH 4 : O 2 = 8.2: 16.7 &#956;mol h &#8722;1 ). We believe that the formation of the W-O-C-W-O species is a critical step in the catalytic pathways. This work provides an atomic-level comprehension of the structural defects of catalysts for activating small molecules.</description>
-      <author>Sikang Xue, Sikang Xue, Changgeng Wei, Min Shen, Xiaocong Liang, Jiali Wang, Can Yang, Wandong Xing, Sibo Wang, Wei Lin, Zhiyang Yu, Yidong Hou, Jimmy C. Yu, Jimmy C. Yu, Xinchen Wang, Xinchen Wang</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2319751121</guid>
-    </item>
-    <item>
-      <title>Advancing electrochemical nitrogen reduction: Efficacy of two-dimensional SiP layered structures with single-atom transition metal catalysts</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.04.115</link>
-      <description>Qingyu Li, Weiguo Li, Diwen Liu, Zuju Ma, Yuansong Ye, Yanjie Zhang, Qiang Chen, Zhibing Cheng, Yi-Ting Chen, Rongjian Sa, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4395455777
-
-                Researchers are interested in single-atom catalysts with atomically scattered metals relishing the enhanced electrocatalytic activity for nitrogen reduction and 100 % metal atom utilization. In this paper, we investigated 18 transition metals (TM) spanning 3d to 5d series as efficient nitrogen reduction reaction (NRR) catalysts on defective 2D SiPV layered structures through first-principles calculation. A systematic screening identified Mo@SiPV, Nb@SiPV, Ta@SiPV and W@SiPV as superior, demonstrating enhanced ammonia synthesis with significantly lower limiting potentials (-0.25, -0.45, -0.49 and -0.15 V, respectively), compared to the benchmark -0.87 eV for the defective SiP. In addition, the descriptor &#916;G*N was introduced to establish the relationship between the different NRR intermediates, and the volcano plot of the limiting potentials were determined for their potential-determining steps (PDS). Remarkably, the limiting voltage of the NRR possesses a good linear relationship with the active center TM atom &#400;d, which is a reliable descriptor for predicting the limiting voltage. Furthermore, we verified the stability (using Ab Initio Molecular Dynamics - AIMD) and high selectivity (UL(NRR)-UL(HER) &gt; -0.5 V) of these four catalysts in vacuum and solvent environments. This study systematically demonstrates the strong catalytic potential of 2D TM@SiPV(TM = Mo, Nb, Ta, W) single-atom catalysts for nitrogen reduction electrocatalysis.</description>
-      <author>Qingyu Li, Weiguo Li, Diwen Liu, Zuju Ma, Yuansong Ye, Yanjie Zhang, Qiang Chen, Zhibing Cheng, Yi-Ting Chen, Rongjian Sa</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.04.115</guid>
-    </item>
-    <item>
-      <title>Precious Metal Free Hydrogen Evolution Catalyst Design and Application</title>
-      <link>https://doi.org/10.1021/acs.chemrev.3c00712</link>
-      <description>Anders A. Feidenhans&#8217;l, Yagya N. Regmi, Yagya N. Regmi, Chao Wei, Dong Xia, Dong Xia, Jakob Kibsgaard, Laurie A. King, Laurie A. King, Chemical reviews. None(None)] 2024. https://openalex.org/W4395465040
-
-                The quest to identify precious metal free hydrogen evolution reaction catalysts has received unprecedented attention in the past decade. In this Review, we focus our attention to recent developments in precious metal free hydrogen evolution reactions in acidic and alkaline electrolyte owing to their relevance to commercial and near-commercial low-temperature electrolyzers. We provide a detailed review and critical analysis of catalyst activity and stability performance measurements and metrics commonly deployed in the literature, as well as review best practices for experimental measurements (both in half-cell three-electrode configurations and in two-electrode device testing). In particular, we discuss the transition from laboratory-scale hydrogen evolution reaction (HER) catalyst measurements to those in single cells, which is a critical aspect crucial for scaling up from laboratory to industrial settings but often overlooked. Furthermore, we review the numerous catalyst design strategies deployed across the precious metal free HER literature. Subsequently, we showcase some of the most commonly investigated families of precious metal free HER catalysts; molybdenum disulfide-based, transition metal phosphides, and transition metal carbides for acidic electrolyte; nickel molybdenum and transition metal phosphides for alkaline. This includes a comprehensive analysis comparing the HER activity between several families of materials highlighting the recent stagnation with regards to enhancing the intrinsic activity of precious metal free hydrogen evolution reaction catalysts. Finally, we summarize future directions and provide recommendations for the field in this area of electrocatalysis.</description>
-      <author>Anders A. Feidenhans&#8217;l, Yagya N. Regmi, Yagya N. Regmi, Chao Wei, Dong Xia, Dong Xia, Jakob Kibsgaard, Laurie A. King, Laurie A. King</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.chemrev.3c00712</guid>
-    </item>
-    <item>
-      <title>Rational Design of Cost-Effective Metal-Doped ZrO2 for Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1007/s40820-024-01403-7</link>
-      <description>Yuefeng Zhang, Tianyi Wang, Liang Mei, Ruijie Yang, Weiwei Guo, Hao Li, Zhiyuan Zeng, Nano-micro letters. 16(1)] 2024. https://openalex.org/W4395466117
-
-                The design of cost-effective electrocatalysts is an open challenging for oxygen evolution reaction (OER) due to the "stable-or-active" dilemma. Zirconium dioxide (ZrO2), a versatile and low-cost material that can be stable under OER operating conditions, exhibits inherently poor OER activity from experimental observations. Herein, we doped a series of metal elements to regulate the ZrO2 catalytic activity in OER via spin-polarized density functional theory calculations with van der Waals interactions. Microkinetic modeling as a function of the OER activity descriptor (GO*-GHO*) displays that 16 metal dopants enable to enhance OER activities over a thermodynamically stable ZrO2 surface, among which Fe and Rh (in the form of single-atom dopant) reach the volcano peak (i.e. the optimal activity of OER under the potential of interest), indicating excellent OER performance. Free energy diagram calculations, density of states, and ab initio molecular dynamics simulations further showed that Fe and Rh are the effective dopants for ZrO2, leading to low OER overpotential, high conductivity, and good stability. Considering cost-effectiveness, single-atom Fe doped ZrO2 emerged as the most promising catalyst for OER. This finding offers a valuable perspective and reference for experimental researchers to design cost-effective catalysts for the industrial-scale OER production.</description>
-      <author>Yuefeng Zhang, Tianyi Wang, Liang Mei, Ruijie Yang, Weiwei Guo, Hao Li, Zhiyuan Zeng</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40820-024-01403-7</guid>
-    </item>
-    <item>
-      <title>CO2 Bio-capture by Microalgae and Cyanobacteria Cultures</title>
-      <link>https://doi.org/10.1007/978-3-031-43969-8_2</link>
-      <description>Cigdem Demirkaya, Hector De la Hoz Siegler, Springer eBooks. None(None)] 2024. https://openalex.org/W4395471514
-
-                No abstract</description>
-      <author>Cigdem Demirkaya, Hector De la Hoz Siegler</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-43969-8_2</guid>
-    </item>
     <item>
       <title>Nanostructure Engineering of Cathode Layers in Proton Exchange Membrane Fuel Cells: From Catalysts to Membrane Electrode Assembly</title>
       <link>https://doi.org/10.1021/acsnano.4c01113</link>
@@ -598,6 +548,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.partic.2024.04.010</guid>
     </item>
     <item>
+      <title>Computational Study on Single Atom Anchored on B2c3p Monolayer as Electrocatalysts For Nitrogen Reduction Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4813446</link>
+      <description>Qiang Xu, Peiyi Yu, Zhenhai Liang, Chaozheng He, No host. None(None)] 2024. https://openalex.org/W4396566450
+
+                No abstract</description>
+      <author>Qiang Xu, Peiyi Yu, Zhenhai Liang, Chaozheng He</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4813446</guid>
+    </item>
+    <item>
+      <title>Insights into the Development of Electrocatalysts Based on Information Extracted from Literatures Using Natural Language Processing</title>
+      <link>https://doi.org/10.2139/ssrn.4813130</link>
+      <description>Na Qin, Wei Kuang Lai, Haibiao Chen, No host. None(None)] 2024. https://openalex.org/W4396566466
+
+                No abstract</description>
+      <author>Na Qin, Wei Kuang Lai, Haibiao Chen</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4813130</guid>
+    </item>
+    <item>
+      <title>Support effect in metal&#8211;organic framework-derived copper-based electrocatalysts facilitating the reduction of nitrate to ammonia</title>
+      <link>https://doi.org/10.1016/j.electacta.2024.144348</link>
+      <description>Shih-Ming Yang, Balaganesh Muthiah, Jhe-Wei Chang, Meng&#8208;Dian Tsai, Yi&#8208;Ching Wang, Yi&#8208;Pei Li, Chung&#8208;Wei Kung, Electrochimica acta. None(None)] 2024. https://openalex.org/W4396568607
+
+                No abstract</description>
+      <author>Shih-Ming Yang, Balaganesh Muthiah, Jhe-Wei Chang, Meng&#8208;Dian Tsai, Yi&#8208;Ching Wang, Yi&#8208;Pei Li, Chung&#8208;Wei Kung</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144348</guid>
+    </item>
+    <item>
       <title>Theoretical study on the Cs/Cs-O adsorbed graphene/semiconductor heterojunction anode for thermionic converters</title>
       <link>https://doi.org/10.1007/s42768-024-00191-5</link>
       <description>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao, Waste Disposal &amp; Sustainable Energy/Waste disposal &amp; sustainable energy. None(None)] 2024. https://openalex.org/W4396217244
@@ -616,6 +596,16 @@
       <author>Rubin Huo, Chuanjian Zhou, Boyi Situ, Zihan Yan, Hao Yang, Zhengyang Fei, Quan Jin, Ling Zhao, Z. Zhang, Yusong Tu</author>
       <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.physe.2024.115984</guid>
+    </item>
+    <item>
+      <title>Accelerating material property prediction using generically complete isometry invariants</title>
+      <link>https://doi.org/10.1038/s41598-024-59938-z</link>
+      <description>Jonathan Balasingham, Viktor Zamaraev, Vitaliy Kurlin, Scientific reports. 14(1)] 2024. https://openalex.org/W4396592660
+
+                Abstract Periodic material or crystal property prediction using machine learning has grown popular in recent years as it provides a computationally efficient replacement for classical simulation methods. A crucial first step for any of these algorithms is the representation used for a periodic crystal. While similar objects like molecules and proteins have a finite number of atoms and their representation can be built based upon a finite point cloud interpretation, periodic crystals are unbounded in size, making their representation more challenging. In the present work, we adapt the Pointwise Distance Distribution (PDD), a continuous and generically complete isometry invariant for periodic point sets, as a representation for our learning algorithm. The PDD distinguished all (more than 660 thousand) periodic crystals in the Cambridge Structural Database as purely periodic sets of points without atomic types. We develop a transformer model with a modified self-attention mechanism that combines PDD with compositional information via a spatial encoding method. This model is tested on the crystals of the Materials Project and Jarvis-DFT databases and shown to produce accuracy on par with state-of-the-art methods while being several times faster in both training and prediction time.</description>
+      <author>Jonathan Balasingham, Viktor Zamaraev, Vitaliy Kurlin</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-59938-z</guid>
     </item>
   </channel>
 </rss>
