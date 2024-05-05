@@ -1,94 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat May  4 01:03:29 2024
+Created on Sun May  5 01:08:25 2024
 
-Found 26 results from 2024-04-27 to 2024-05-04
+Found 24 results from 2024-04-28 to 2024-05-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Synthesis of 1H-Isoindole-Containing Scaffolds Enabled by a Nitrile Trifunctionalization  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395659515
-:TOPICS: Chemistry of Pyrrolobenzodiazepines, Catalytic Carbene Chemistry in Organic Synthesis, Olefin Metathesis Chemistry
-:PUBLICATION_DATE: 2024-04-26
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00932")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395659515"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395659515"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395659515"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395659515 (Open access: True)
-    
-[[https://openalex.org/A5020888886][Àlex Díaz-Jiménez]], [[https://openalex.org/A5049357506][Roger Monreal-Corona]], [[https://openalex.org/A5035251076][Miquel Solà]], [[https://openalex.org/A5091859825][Albert Poater]], [[https://openalex.org/A5034693512][Anna Roglans]], [[https://openalex.org/A5048047474][Anna Pla‐Quintana]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00932 
-     
-No abstract    
-
-    
-
-* Hydrogen Spillover Is Regulating Minority Rh1 Active Sites on TiO2 in Room-Temperature Ethylene Hydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395659989
-:TOPICS: Catalytic Nanomaterials, Catalytic Reduction of Nitro Compounds, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-04-26
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00482")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395659989"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395659989"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395659989"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395659989 (Open access: False)
-    
-[[https://openalex.org/A5034161124][Linxiao Chen]], [[https://openalex.org/A5078151020][Débora Motta Meira]], [[https://openalex.org/A5059318117][Libor Kovařík]], [[https://openalex.org/A5076149777][János Szanyi]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00482 
-     
-No abstract    
-
-    
-
-* Unidirectional Electron Transfer on Bismuth-Doped Pt/YMn2O5 for Efficient CO Oxidation as Diesel Oxidation Catalysts  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395661226
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-04-26
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00098")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395661226"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395661226"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395661226"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395661226 (Open access: False)
-    
-[[https://openalex.org/A5062439020][Darong He]], [[https://openalex.org/A5086934108][Yunfeng Chen]], [[https://openalex.org/A5033229269][Shanshan Li]], [[https://openalex.org/A5011307607][Yaxin Liu]], [[https://openalex.org/A5036909733][Hailong Zhang]], [[https://openalex.org/A5069044527][Yi Jiao]], [[https://openalex.org/A5019665291][Ming Zhao]], [[https://openalex.org/A5060119534][Jianli Wang]], [[https://openalex.org/A5045885407][Yaoqiang Chen]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00098 
-     
-No abstract    
-
-    
-
-* Remarkable Synergy Effect of Cu–Nb Oxide Nanorods toward Electrocatalytic Nitrogen Reduction: The Enhanced Mass and Electron Transfer  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395673646
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Reduction of Nitro Compounds, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-04-25
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01203")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395673646"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395673646"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395673646"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395673646 (Open access: False)
-    
-[[https://openalex.org/A5037269917][Shuyue Wang]], [[https://openalex.org/A5019725336][Chao Qian]], [[https://openalex.org/A5063163830][Xinzhi Chen]], [[https://openalex.org/A5072377314][Shaodong Zhou]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01203 
-     
-No abstract    
-
-    
 
 * Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD  :ACS_Catalysis:
 :PROPERTIES:
@@ -549,5 +465,47 @@ OpenAlex: https://openalex.org/W4396592409 (Open access: False)
 [[https://openalex.org/A5035876826][Ziyue Hu]], [[https://openalex.org/A5069694755][Ling-Heng Luo]], [[https://openalex.org/A5032659859][Cheng Shang]], [[https://openalex.org/A5023502514][Zhi-Pan Liu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00959 
      
 Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
+
+    
+
+* Issue Editorial Masthead  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396623784
+:TOPICS: 
+:PUBLICATION_DATE: 2024-05-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i009_1797488")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396623784"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396623784"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396623784"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396623784 (Open access: True)
+    
+, ACS catalysis. 14(9)] 2024. https://doi.org/10.1021/csv014i009_1797488  ([[https://pubs.acs.org/doi/pdf/10.1021/csv014i009_1797488][pdf]])
+     
+No abstract    
+
+    
+
+* Issue Publication Information  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396623887
+:TOPICS: 
+:PUBLICATION_DATE: 2024-05-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i009_1797487")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396623887"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396623887"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396623887"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396623887 (Open access: True)
+    
+, ACS catalysis. 14(9)] 2024. https://doi.org/10.1021/csv014i009_1797487  ([[https://pubs.acs.org/doi/pdf/10.1021/csv014i009_1797487][pdf]])
+     
+No abstract    
 
     

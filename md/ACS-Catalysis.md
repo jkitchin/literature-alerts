@@ -1,54 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat May  4 01:03:29 2024
+Created on Sun May  5 01:08:25 2024
 
-Found 26 results from 2024-04-27 to 2024-05-04
+Found 24 results from 2024-04-28 to 2024-05-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Synthesis of 1H-Isoindole-Containing Scaffolds Enabled by a Nitrile Trifunctionalization   
-
-OpenAlex: https://openalex.org/W4395659515    
-Open access: True
-    
-[Àlex Díaz-Jiménez](https://openalex.org/A5020888886), [Roger Monreal-Corona](https://openalex.org/A5049357506), [Miquel Solà](https://openalex.org/A5035251076), [Albert Poater](https://openalex.org/A5091859825), [Anna Roglans](https://openalex.org/A5034693512), [Anna Pla‐Quintana](https://openalex.org/A5048047474), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00932.
-    
-No abstract    
-
-    
-
-## Hydrogen Spillover Is Regulating Minority Rh1 Active Sites on TiO2 in Room-Temperature Ethylene Hydrogenation   
-
-OpenAlex: https://openalex.org/W4395659989    
-Open access: False
-    
-[Linxiao Chen](https://openalex.org/A5034161124), [Débora Motta Meira](https://openalex.org/A5078151020), [Libor Kovařík](https://openalex.org/A5059318117), [János Szanyi](https://openalex.org/A5076149777), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00482.
-    
-No abstract    
-
-    
-
-## Unidirectional Electron Transfer on Bismuth-Doped Pt/YMn2O5 for Efficient CO Oxidation as Diesel Oxidation Catalysts   
-
-OpenAlex: https://openalex.org/W4395661226    
-Open access: False
-    
-[Darong He](https://openalex.org/A5062439020), [Yunfeng Chen](https://openalex.org/A5086934108), [Shanshan Li](https://openalex.org/A5033229269), [Yaxin Liu](https://openalex.org/A5011307607), [Hailong Zhang](https://openalex.org/A5036909733), [Yi Jiao](https://openalex.org/A5069044527), [Ming Zhao](https://openalex.org/A5019665291), [Jianli Wang](https://openalex.org/A5060119534), [Yaoqiang Chen](https://openalex.org/A5045885407), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00098.
-    
-No abstract    
-
-    
-
-## Remarkable Synergy Effect of Cu–Nb Oxide Nanorods toward Electrocatalytic Nitrogen Reduction: The Enhanced Mass and Electron Transfer   
-
-OpenAlex: https://openalex.org/W4395673646    
-Open access: False
-    
-[Shuyue Wang](https://openalex.org/A5037269917), [Chao Qian](https://openalex.org/A5019725336), [Xinzhi Chen](https://openalex.org/A5063163830), [Shaodong Zhou](https://openalex.org/A5072377314), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01203.
-    
-No abstract    
-
-    
 
 ## Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD   
 
@@ -289,5 +245,27 @@ Open access: False
 [Ziyue Hu](https://openalex.org/A5035876826), [Ling-Heng Luo](https://openalex.org/A5069694755), [Cheng Shang](https://openalex.org/A5032659859), [Zhi-Pan Liu](https://openalex.org/A5023502514), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00959.
     
 Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4396623784    
+Open access: True
+    
+, ACS catalysis. 14(9)] 2024.https://doi.org/10.1021/csv014i009_1797488 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i009_1797488)).
+    
+No abstract    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4396623887    
+Open access: True
+    
+, ACS catalysis. 14(9)] 2024.https://doi.org/10.1021/csv014i009_1797487 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i009_1797487)).
+    
+No abstract    
 
     

@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 May 2024 01:03:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 01:08:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Iterative MILP algorithm to find alternate solutions in linear programming models</title>
-      <link>https://doi.org/10.1007/s11081-024-09887-3</link>
-      <description>D. Kakkad, Ignacio E. Grossmann, Bianca Springub, Christos Galanopoulos, Leonardo Salsano de Assis, Nga Tran, John M. Wassick, Optimization and engineering. None(None)] 2024. https://openalex.org/W4395671135
-
-                Abstract We address in this paper linear programming (LP) models in which it is desired to find a finite set of alternate optima. An LP may have multiple alternate solutions with the same objective value or with increasing objective values. For many real life applications, it can be interesting to have a pool of solutions to compare what operations should be executed and what is the cost/benefit of doing it. To obtain a specified number of these alternate solutions in the increasing order of objective values, we propose an iterative MILP algorithm in which we successively add integer cuts on inactive constraints. We demonstrate the application and effectiveness of this algorithm on a 2 dimensional LP and on small and large supply chain problems. The proposed iterative MILP algorithm provides an effective approach for finding a specified number of alternate optima in LP models, which provides a useful tool in a variety of applications as for instance in supply chain optimization problems.</description>
-      <author>D. Kakkad, Ignacio E. Grossmann, Bianca Springub, Christos Galanopoulos, Leonardo Salsano de Assis, Nga Tran, John M. Wassick</author>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11081-024-09887-3</guid>
-    </item>
     <item>
       <title>A multiple-timing analysis of temporal ratcheting</title>
       <link>https://doi.org/10.1140/epje/s10189-024-00421-y</link>

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 04 May 2024 01:03:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 01:08:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synthesis of 1&lt;i&gt;H&lt;/i&gt;-Isoindole-Containing Scaffolds Enabled by a Nitrile Trifunctionalization</title>
-      <link>https://doi.org/10.1021/acscatal.4c00932</link>
-      <description>&#192;lex D&#237;az-Jim&#233;nez, Roger Monreal-Corona, Miquel Sol&#224;, Albert Poater, Anna Roglans, Anna Pla&#8208;Quintana, ACS catalysis. None(None)] 2024. https://openalex.org/W4395659515
-
-                No abstract</description>
-      <author>&#192;lex D&#237;az-Jim&#233;nez, Roger Monreal-Corona, Miquel Sol&#224;, Albert Poater, Anna Roglans, Anna Pla&#8208;Quintana</author>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00932</guid>
-    </item>
-    <item>
-      <title>Hydrogen Spillover Is Regulating Minority Rh&lt;sub&gt;1&lt;/sub&gt; Active Sites on TiO&lt;sub&gt;2&lt;/sub&gt; in Room-Temperature Ethylene Hydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00482</link>
-      <description>Linxiao Chen, D&#233;bora Motta Meira, Libor Kova&#345;&#237;k, J&#225;nos Szanyi, ACS catalysis. None(None)] 2024. https://openalex.org/W4395659989
-
-                No abstract</description>
-      <author>Linxiao Chen, D&#233;bora Motta Meira, Libor Kova&#345;&#237;k, J&#225;nos Szanyi</author>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00482</guid>
-    </item>
-    <item>
-      <title>Unidirectional Electron Transfer on Bismuth-Doped Pt/YMn&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5&lt;/sub&gt; for Efficient CO Oxidation as Diesel Oxidation Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c00098</link>
-      <description>Darong He, Yunfeng Chen, Shanshan Li, Yaxin Liu, Hailong Zhang, Yi Jiao, Ming Zhao, Jianli Wang, Yaoqiang Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4395661226
-
-                No abstract</description>
-      <author>Darong He, Yunfeng Chen, Shanshan Li, Yaxin Liu, Hailong Zhang, Yi Jiao, Ming Zhao, Jianli Wang, Yaoqiang Chen</author>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00098</guid>
-    </item>
-    <item>
-      <title>Remarkable Synergy Effect of Cu&#8211;Nb Oxide Nanorods toward Electrocatalytic Nitrogen Reduction: The Enhanced Mass and Electron Transfer</title>
-      <link>https://doi.org/10.1021/acscatal.4c01203</link>
-      <description>Shuyue Wang, Chao Qian, Xinzhi Chen, Shaodong Zhou, ACS catalysis. None(None)] 2024. https://openalex.org/W4395673646
-
-                No abstract</description>
-      <author>Shuyue Wang, Chao Qian, Xinzhi Chen, Shaodong Zhou</author>
-      <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01203</guid>
-    </item>
     <item>
       <title>Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD</title>
       <link>https://doi.org/10.1021/acscatal.4c00757</link>
@@ -266,6 +226,26 @@
       <author>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu</author>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00959</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i009_1797488</link>
+      <description>, ACS catalysis. 14(9)] 2024. https://openalex.org/W4396623784
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i009_1797488</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i009_1797487</link>
+      <description>, ACS catalysis. 14(9)] 2024. https://openalex.org/W4396623887
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i009_1797487</guid>
     </item>
   </channel>
 </rss>

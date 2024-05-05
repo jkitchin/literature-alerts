@@ -1,8 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Sat May  4 01:03:28 2024
+Created on Sun May  5 01:08:25 2024
 
-Found 3 results from 2024-04-27 to 2024-05-04
+Found 2 results from 2024-04-28 to 2024-05-05
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
@@ -14,17 +14,6 @@ Open access: False
 [Haoyi Lin](https://openalex.org/A5021686620), [Bo Shen](https://openalex.org/A5015341679), [Lixin Xue](https://openalex.org/A5047098061), [Xueyun Wang](https://openalex.org/A5062410995), [Ting Su](https://openalex.org/A5013955092), [Kaixuan Yang](https://openalex.org/A5052219648), [Hongying Lü](https://openalex.org/A5069349716), [Zhiguo Zhu](https://openalex.org/A5058780747), Separation and purification technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.127729.
     
 No abstract    
-
-    
-
-## Scalable Synthesis Methods for High‐Entropy Nanoparticles   
-
-OpenAlex: https://openalex.org/W4395683868    
-Open access: True
-    
-[Timothy G. Ritter](https://openalex.org/A5011096702), [Samhita Pappu](https://openalex.org/A5033543881), [Reza Shahbazian‐Yassar](https://openalex.org/A5065515481), Advanced energy and sustainability research. None(None)] 2024.https://doi.org/10.1002/aesr.202300297.
-    
-High‐entropy materials (HEMs) represent a revolutionary class of materials that have garnered significant attention in the field of materials science due to their extraordinary properties in diverse fields of applications such as catalysis and electrochemistry. The past decade has witnessed a substantial increase in the study of these materials, exploring new synthesis routes and compositions. What began as the synthesis of high‐entropy alloys has expanded to encompass several classes of HEMs such as oxides, hydroxides, sulfides, nitrides, and carbides, among others. Several synthesis methods have been developed to produce these materials. This review therefore highlights the fundamental concepts of HEMs, including their core effects, with a major emphasis on their scalable synthesis routes. The advantages and drawbacks of these methods are also discussed. As HEMs transition from the lab to large‐scale production, there is a growing need for cost‐effective and scalable synthesis methods with high material yield suitable for a variety of applications like hydrogen storage, catalysis, batteries, supercapacitors, and fuel cells. Hence, this review serves as an introduction to scalable synthesis routes based on crystal structure, desired elements, synthesis times, and equipment costs.    
 
     
 
