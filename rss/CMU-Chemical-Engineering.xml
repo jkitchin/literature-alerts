@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 May 2024 01:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:05:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A multiple-timing analysis of temporal ratcheting</title>
-      <link>https://doi.org/10.1140/epje/s10189-024-00421-y</link>
-      <description>S. M. H. Hashemi Amrei, Edward T. Gilman, Aditya S. Khair, &#152;The &#156;European physical journal. E, Soft matter and biological physics/&#152;The &#156;European physical journal. E, Soft matter. 47(4)] 2024. https://openalex.org/W4395696879
-
-                Abstract We develop a two-timing perturbation analysis to provide quantitative insights on the existence of temporal ratchets in an exemplary system of a particle moving in a tank of fluid in response to an external vibration of the tank. We consider two-mode vibrations with angular frequencies $$\omega $$  &#969;  and $$\alpha \omega $$   &#945; &#969;   , where $$\alpha $$  &#945;  is a rational number. If $$\alpha $$  &#945;  is a ratio of odd and even integers (e.g., $$\tfrac{2}{1},\,\tfrac{3}{2},\,\tfrac{4}{3}$$     2 1   ,    3 2   ,    4 3     ), the system yields a net response: here, a nonzero time-average particle velocity. Our first-order perturbation solution predicts the existence of temporal ratchets for $$\alpha =2$$   &#945; = 2   . Furthermore, we demonstrate, for a reduced model, that the temporal ratcheting effect for $$\alpha =\tfrac{3}{2}$$   &#945; =   3 2     and $$\tfrac{4}{3}$$    4 3    appears at the third-order perturbation solution. More importantly, we find closed-form formulas for the magnitude and direction of the induced net velocities for these $$\alpha $$  &#945;  values. On a broader scale, our methodology offers a new mathematical approach to study the complicated nature of temporal ratchets in physical systems. Graphic abstract</description>
-      <author>S. M. H. Hashemi Amrei, Edward T. Gilman, Aditya S. Khair</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1140/epje/s10189-024-00421-y</guid>
-    </item>
     <item>
       <title>Fostering a Holistic Understanding of the Full Volatility Spectrum of Organic Compounds from Benzene Series Precursors through Mechanistic Modeling</title>
       <link>https://doi.org/10.1021/acs.est.3c07128</link>

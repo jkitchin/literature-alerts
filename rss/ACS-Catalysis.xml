@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 May 2024 01:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:05:33 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD</title>
-      <link>https://doi.org/10.1021/acscatal.4c00757</link>
-      <description>Linyue Chen, Qian Deng, Tingting Ma, Jing Gu, Juan Yang, Xuan Zhang, You&#8208;Quan Zou, Zixin Deng, Li Chen, Changming Zhao, ACS catalysis. None(None)] 2024. https://openalex.org/W4395695873
-
-                PtlD, a multifunctional mononuclear nonheme iron and &#945;-ketoglutarate-dependent (NHFe/&#945;-KG) dioxygenase involved in neopentalenoketolactone biosynthesis, catalyzes hydroxylation, desaturation, and olefin epoxidation reactions. Investigating desaturation reactions of nonactivated carbons mediated by NHFe/&#945;-KG enzymes is intriguing, especially for understanding the fate of the substrate radicals formed after hydrogen atom abstraction by FeIV&#9552;O species. Here, we investigate the desaturation reaction mechanism of PtlD using two distinct substrates: neopentalenolactone D (1) features a lone pair-containing oxygen atom adjacent to the olefin-forming carbon atoms, whereas pentalenolactone D (7) harbors a carbonyl group at the corresponding position. For substrate 1, our isotope effect measurement and protein mutagenesis experiments suggest the formation of a carbocation intermediate, which is subsequently deprotonated by a base to generate the desaturation products. Residue K288 serves as the base, while Y113 likely stabilizes the carbocation via a &#960;-cation interaction. For substrate 7, oxygen incorporation patterns indicated that a carbocation intermediate is also formed but is unstable, leading to hydroxylation due to H2O quenching. Notably, substrate 7's desaturation exhibits a temperature-dependent large kinetic isotope effect (KIE) and an inverse solvent isotope effect (SIE), suggesting that hydrogen tunneling contributes to the electron&#8211;proton transfer (EPT) process. These findings collectively reveal the cases of NHFe/&#945;-KG enzymes, where distinct desaturation mechanisms switch with different substrates.</description>
-      <author>Linyue Chen, Qian Deng, Tingting Ma, Jing Gu, Juan Yang, Xuan Zhang, You&#8208;Quan Zou, Zixin Deng, Li Chen, Changming Zhao</author>
-      <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00757</guid>
-    </item>
     <item>
       <title>Size-Dependent Hydrogenation Activity of Cobalt Nanoparticles</title>
       <link>https://doi.org/10.1021/acscatal.4c00995</link>

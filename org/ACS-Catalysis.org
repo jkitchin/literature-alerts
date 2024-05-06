@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun May  5 01:08:25 2024
+Created on Mon May  6 01:05:33 2024
 
-Found 24 results from 2024-04-28 to 2024-05-05
+Found 23 results from 2024-04-29 to 2024-05-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Substrate-Dependent Mechanism Switch in the Desaturation Reactions of the Mononuclear Nonheme Iron Enzyme PtlD  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395695873
-:TOPICS: Dioxygen Activation at Metalloenzyme Active Sites, Molecular Mechanisms of Heme Biosynthesis and Related Disorders, Hemoglobin Function and Regulation in Vertebrates
-:PUBLICATION_DATE: 2024-04-27
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00757")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395695873"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395695873"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395695873"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395695873 (Open access: False)
-    
-[[https://openalex.org/A5051276818][Linyue Chen]], [[https://openalex.org/A5014459662][Qian Deng]], [[https://openalex.org/A5037113319][Tingting Ma]], [[https://openalex.org/A5017165240][Jing Gu]], [[https://openalex.org/A5028731768][Juan Yang]], [[https://openalex.org/A5016622484][Xuan Zhang]], [[https://openalex.org/A5025717283][You‐Quan Zou]], [[https://openalex.org/A5050419694][Zixin Deng]], [[https://openalex.org/A5042314564][Li Chen]], [[https://openalex.org/A5011648206][Changming Zhao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00757 
-     
-PtlD, a multifunctional mononuclear nonheme iron and α-ketoglutarate-dependent (NHFe/α-KG) dioxygenase involved in neopentalenoketolactone biosynthesis, catalyzes hydroxylation, desaturation, and olefin epoxidation reactions. Investigating desaturation reactions of nonactivated carbons mediated by NHFe/α-KG enzymes is intriguing, especially for understanding the fate of the substrate radicals formed after hydrogen atom abstraction by FeIV═O species. Here, we investigate the desaturation reaction mechanism of PtlD using two distinct substrates: neopentalenolactone D (1) features a lone pair-containing oxygen atom adjacent to the olefin-forming carbon atoms, whereas pentalenolactone D (7) harbors a carbonyl group at the corresponding position. For substrate 1, our isotope effect measurement and protein mutagenesis experiments suggest the formation of a carbocation intermediate, which is subsequently deprotonated by a base to generate the desaturation products. Residue K288 serves as the base, while Y113 likely stabilizes the carbocation via a π-cation interaction. For substrate 7, oxygen incorporation patterns indicated that a carbocation intermediate is also formed but is unstable, leading to hydroxylation due to H2O quenching. Notably, substrate 7's desaturation exhibits a temperature-dependent large kinetic isotope effect (KIE) and an inverse solvent isotope effect (SIE), suggesting that hydrogen tunneling contributes to the electron–proton transfer (EPT) process. These findings collectively reveal the cases of NHFe/α-KG enzymes, where distinct desaturation mechanisms switch with different substrates.    
-
-    
 
 * Size-Dependent Hydrogenation Activity of Cobalt Nanoparticles  :ACS_Catalysis:
 :PROPERTIES:

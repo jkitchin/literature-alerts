@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 05 May 2024 01:08:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 01:05:41 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrochemical reduction of cyanide on conjugated copper-organic framework Cu3(HHTP)2 monolayer: A dispersion-corrected DFT investigation</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.04.265</link>
-      <description>Rongwei Shi, Yang&#8722;Xin Yu, A. N. Chibisov, International journal of hydrogen energy. None(None)] 2024. https://openalex.org/W4395688468
-
-                No abstract</description>
-      <author>Rongwei Shi, Yang&#8722;Xin Yu, A. N. Chibisov</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.265</guid>
-    </item>
-    <item>
-      <title>Key Ingredients for the Screening of Single Atom Catalysts for the Hydrogen Evolution Reaction: The Case of Titanium Nitride</title>
-      <link>https://doi.org/10.1002/smll.202401058</link>
-      <description>Clara Saetta, Ilaria Barlocco, Giovanni Di Liberto, Gianfranco Pacchioni, Small. None(None)] 2024. https://openalex.org/W4395693504
-
-                Abstract A computational screening of Single Atom Catalysts (SACs) bound to titanium nitride (TiN) is presented, for the Hydrogen Evolution Reaction (HER), based on density functional theory. The role of fundamental ingredients is explored to account for a reliable screening of SACs. Namely, the formation of H 2 &#8208;complexes besides the classical H * one impacts the predicted HER activity, in line with previous studies on other SACs. Also, the results indicate that one needs to adopt self&#8208;interaction&#8208;corrected functionals. Finally, predicting an active catalyst is of little help without an assessment of its stability. Thus, it is included in the theoretical framework the analysis of the stability of the SACs in working conditions of pH and voltage. Once unconventional intermediates and stability are considered in a self&#8208;interaction corrected scheme, the number of potential good catalysts for HER is strongly reduced since i) some potentially good catalysts are not stable against dissolution and ii) the formation of unconventional intermediates leads to thermodynamic barriers. This study highlights the importance of including ingredients for the prediction of new systems, such as the formation of unconventional intermediates, estimating the stability of SACs, and the adoption of self&#8208;interaction corrected functionals. Also, this study highlights some interesting candidates deserving of dedicated work.</description>
-      <author>Clara Saetta, Ilaria Barlocco, Giovanni Di Liberto, Gianfranco Pacchioni</author>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202401058</guid>
-    </item>
-    <item>
-      <title>Ameliorating the electronic environment of NiCoP by halogen doping: A strategy for boosting hydrogen evolution performance</title>
-      <link>https://doi.org/10.1016/j.fuel.2024.131780</link>
-      <description>Jian Su, Nan Jiang, Bolong Jiang, Yuanyuan Wang, Xueqin Wang, Zhijun Li, Hua Song, Fuel. 369(None)] 2024. https://openalex.org/W4395699780
-
-                The design of highly efficient and robust non-noble metal water splitting catalysts for hydrogen production is crucial to reduce overpotential and energy consumption. Herein, a strategy for in-situ growth of halogen-doped NiCoP (X-NiCoP/NF, X = F, Cl, and Br) catalysts with special morphology on nickel foam is proposed. Both the experimental results and theoretical calculations reveal that the downshift of the d-band center energy can regulate the charge distribution of NiCoP owing to doping of strong electronegativity halogen, thus optimizing the Gibbs free energy of H* absorption (&#9651;GH*). The F-NiCoP/NF catalyst achieves remarkable HER activity under alkaline conditions, with overpotential at 10 mA cm&#8722;2 (&#951;10) of 59 mV and Tafel slope of 48.9 mV dec&#8722;1 in 1.0 M KOH. Moreover, F-doping significantly increases the electrochemically active surface area (ECSA) and turnover frequency (TOF), suggestive of the F promotes the formation of highly dispersed high intrinsic active sites. The F-NiCoP/NF exhibits excellent stability with a negligible decrease in activity after durability tests. This work sheds light on the facile synthesis of highly active and stable catalysts with strong electronegative atom doping for HER.</description>
-      <author>Jian Su, Nan Jiang, Bolong Jiang, Yuanyuan Wang, Xueqin Wang, Zhijun Li, Hua Song</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.131780</guid>
-    </item>
     <item>
       <title>Experimental study on gas separation from the oil&#8211;water-emulsion mixture via hydrate method</title>
       <link>https://doi.org/10.1016/j.ces.2024.120198</link>
