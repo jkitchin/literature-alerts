@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 06 May 2024 01:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 01:04:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Experimental study on gas separation from the oil&#8211;water-emulsion mixture via hydrate method</title>
-      <link>https://doi.org/10.1016/j.ces.2024.120198</link>
-      <description>Xiaofang Lv, Xiongwei Ni, Yan-Yun Xiao, Yang Liu, Mingguo Peng, Qianli Ma, Chuanshuo Wang, Shidong Zhou, Shangfei Song, Chemical engineering science. None(None)] 2024. https://openalex.org/W4395701062
-
-                No abstract</description>
-      <author>Xiaofang Lv, Xiongwei Ni, Yan-Yun Xiao, Yang Liu, Mingguo Peng, Qianli Ma, Chuanshuo Wang, Shidong Zhou, Shangfei Song</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120198</guid>
-    </item>
-    <item>
-      <title>Potential powered EC-SERS for sensitive detection of acetamiprid</title>
-      <link>https://doi.org/10.1016/j.jfoodeng.2024.112109</link>
-      <description>Ting Wu, Xuemei Tang, Wei Zeng, Yu Han, Sihang Zhang, Jing Wei, Long Wu, Journal of food engineering. None(None)] 2024. https://openalex.org/W4395701347
-
-                No abstract</description>
-      <author>Ting Wu, Xuemei Tang, Wei Zeng, Yu Han, Sihang Zhang, Jing Wei, Long Wu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jfoodeng.2024.112109</guid>
-    </item>
-    <item>
-      <title>Enhancing oxygen evolution reaction via hydrogen plasma treatment: Unveiling the functionality of CN defects and the role of Fe in NiFe Prussian blue analogs</title>
-      <link>https://doi.org/10.1002/ece2.36</link>
-      <description>Qingdong Ruan, Dan Li, Chien-Huei Wu, Chao Huang, Paul K. Chu, EcoEnergy. None(None)] 2024. https://openalex.org/W4395956193
-
-                Abstract The rational design of electronic and vacancy structures is crucial to regulating and enhancing electrocatalytic water splitting. However, creating novel vacancies and precisely controlling the number of vacancies in existing materials systems pose significant challenges. Herein, a novel approach to optimize the concentration of the CN vacancy (V CN ) in the NiFe Prussian blue analog (PBA) nanocubes is designed by incorporating the H 2 or O 2 plasma treatment. The relationship between the V CN and catalysis is analyzed, and results show that a moderate concentration of V CN (6.5%) can enormously enhance oxygen evolution reaction (OER) activity of NiFe PBA. However, an excessive amount of V CN disrupts the crystal structure and hinders the transportation of charge carriers, consequently leading to inferior OER. Furthermore, the V CN significantly activates the activity of Fe sites, inducing preferential adsorption of OH &#8722; on Fe sites, followed by adsorption on Ni sites, thereby optimizing the reaction pathway and significantly promoting OER performance. In addition, V CN also suppresses Fe leaching, giving the catalyst excellent durability. This study reveals the feasibility of creating unconventional defects in nanomaterials and precisely controlling the number of vacancies for diverse catalytic and energy applications.</description>
-      <author>Qingdong Ruan, Dan Li, Chien-Huei Wu, Chao Huang, Paul K. Chu</author>
-      <pubDate>Sat, 27 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ece2.36</guid>
-    </item>
-    <item>
-      <title>Zero-Gap Bipolar Membrane Water Electrolyzers: Principles, Challenges and Practical Insights</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144345</link>
-      <description>Abdulhai H. Faqeeh, Mark D. Symes, Electrochimica acta. None(None)] 2024. https://openalex.org/W4395957045
-
-                Producing hydrogen through the electrolysis of water is an attractive method for storing intermittent, renewably-generated power in the form of a clean-burning fuel. Amongst the various types of electrolyzer that have been proposed, those employing bipolar membranes have the unique advantage of allowing the water splitting half-reactions to proceed under their &#3839;kinetically most favourable conditions, thanks to the ability of these membranes to maintain a pH gradient. Maintaining such a pH gradient enables the oxygen evolution reaction to occur in basic conditions whilst the hydrogen evolution reaction occurs in acidic conditions. However, bipolar membrane electrolysis technology remains at an early stage of development and faces several challenges, including high potential losses and low energy efficiency caused by insufficient water transport across (and ion crossover within) the bipolar membrane. In this review, the strategies and methods employed to address these challenges and to enhance the performance and efficiency of bipolar membrane water electrolysis are discussed. The scope of this review is primarily on zero-gap bipolar membrane/interface water electrolyzers, as this configuration is arguably the most relevant bipolar membrane/interface electrolyzer architecture for scaled-up devices and commercial hydrogen production.</description>
-      <author>Abdulhai H. Faqeeh, Mark D. Symes</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144345</guid>
-    </item>
-    <item>
-      <title>Advanced oxidation processes for water and wastewater treatment &#8211; guidance for systematic future research</title>
-      <link>https://doi.org/10.1016/j.heliyon.2024.e30402</link>
-      <description>Uwe H&#252;bner, Stephanie Spahr, Holger V. Lutze, Arne Wieland, Steffen R&#252;ting, Wolfgang Gernjak, Jannis Wenk, Heliyon. None(None)] 2024. https://openalex.org/W4395961526
-
-                No abstract</description>
-      <author>Uwe H&#252;bner, Stephanie Spahr, Holger V. Lutze, Arne Wieland, Steffen R&#252;ting, Wolfgang Gernjak, Jannis Wenk</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.heliyon.2024.e30402</guid>
-    </item>
     <item>
       <title>Development of Novel Cube-Embedded MnO2/ZnO Nanocomposite for OER Activity and Supercapacitor Performance Evaluation</title>
       <link>https://doi.org/10.1007/s11837-024-06559-6</link>
@@ -438,6 +388,156 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144348</guid>
     </item>
     <item>
+      <title>Fabrication of amorphous subnanometric palladium nanostructures on metallic transition metal dichalcogenides for efficient hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1039/d4qi00622d</link>
+      <description>Liang Mei, Yuefeng Zhang, Zimeng Ye, Ting Han, Honglu Hu, Ruijie Yang, Ting Ying, W. Zheng, Ruixin Yan, Yue Zhang, Zhenbin Wang, Zhiyuan Zeng, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4396581113
+
+                Metallic transition metal dichalcogenide nanosheets decorated with amorphous subnanometric Pd nanoparticles exhibit comparable HER performance to that of commercial Pt&#8211;C.</description>
+      <author>Liang Mei, Yuefeng Zhang, Zimeng Ye, Ting Han, Honglu Hu, Ruijie Yang, Ting Ying, W. Zheng, Ruixin Yan, Yue Zhang, Zhenbin Wang, Zhiyuan Zeng</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4qi00622d</guid>
+    </item>
+    <item>
+      <title>Machine Learning-Accelerated High-Throughput Computational Screening: Unveiling Bimetallic Nanoparticles with Peroxidase-Like Activity</title>
+      <link>https://doi.org/10.1021/acsnano.4c01473</link>
+      <description>Kaiwei Wan, Hui Wang, Xinghua Shi, ACS nano. None(None)] 2024. https://openalex.org/W4396581121
+
+                Bimetallic nanoparticles (NPs) with peroxidase-like (POD-like) activity play a crucial role in biosensing, disease treatment, environmental management, and other fields. However, their development is impeded by a vast range of tunable properties in components and structures, making the establishment of structure&#8211;effect relationships and the discovery of active materials challenging. Addressing this, we established robust scaling relationships by meticulously analyzing the catalytic reaction networks of pure metal NPs, which laid the volcano-shaped correlation between the activity and O* adsorption energy. Utilizing these relationships, we introduced an innovative and versatile descriptor of the NPs, which was then integrated into a machine learning-accelerated high-throughput computational workflow, significantly boosting the predictive accuracy for the POD-like activity of bimetallic NPs. Our methodological approach enabled the successful prediction of activities for 1260 bimetallic NPs, leading to the identification of several highly effective catalysts. Furthermore, we distilled several strategies for designing efficient bimetallic NPs based on our screening results.</description>
+      <author>Kaiwei Wan, Hui Wang, Xinghua Shi</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01473</guid>
+    </item>
+    <item>
+      <title>Artificial synthesis of polyesters at ambient condition via consecutive CO2 electrolysis and fermentation</title>
+      <link>https://doi.org/10.1007/s12274-024-6658-6</link>
+      <description>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang, Nano research. None(None)] 2024. https://openalex.org/W4396585498
+
+                No abstract</description>
+      <author>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6658-6</guid>
+    </item>
+    <item>
+      <title>In situ exploration of oxygen electrocatalysis using core-shell nanostructure-enhanced Raman spectroscopy</title>
+      <link>https://doi.org/10.1016/j.nanoms.2024.03.006</link>
+      <description>Zhengxin Qian, Ji&#8208;Shuang Zeng, Shuang Zhao, Qing-Na Zheng, Jing&#8208;Hua Tian, Qingchi Xu, Hua Zhang, Jian-Feng Li, Nano materials science. None(None)] 2024. https://openalex.org/W4396589595
+
+                Advancements in fuel cells and water electrolyzers have significantly bolstered the utilization of hydrogen energy. Notably, the oxidation and reduction processes of oxygen at the electrode&#8212;termed oxygen evolution reaction (OER) and oxygen reduction reaction (ORR)&#8212;manifest sluggish reaction kinetics, thus requiring noble metals as catalysts, which considerably impedes system efficiency and cost. The imperative for enhancing reaction rates and diminishing overpotential necessitates the development of effective catalysts, which strongly depends on the mechanistic understanding of these reactions at the molecular level. Therefore, this review summarizes our recent efforts in utilizing in situ enhanced Raman spectroscopy, especially the borrowing surface-enhanced Raman spectroscopy (SERS) strategy, shell-isolated nanoparticle-enhanced Raman spectroscopy (SHINERS), and the SHINERS-satellite strategy, to capture oxygen intermediate species as a bridge to investigate the molecular mechanisms of OER and ORR. Combining in situ SERS with other characterization techniques and theoretical simulation, the structural evolution of active sites and intermediates, including &#8727;OOH, &#8727;OH, &#8727;OO, etc., during OER/ORR has been monitored under reaction conditions, and the reaction mechanisms together with structure-activity correlations have been identified at the molecular level. These findings may provide a pivotal scientific foundation towards the discovery of better materials for electrochemical hydrogen energy.</description>
+      <author>Zhengxin Qian, Ji&#8208;Shuang Zeng, Shuang Zhao, Qing-Na Zheng, Jing&#8208;Hua Tian, Qingchi Xu, Hua Zhang, Jian-Feng Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoms.2024.03.006</guid>
+    </item>
+    <item>
+      <title>High-Throughput Computational Screening of Novel Two-Dimensional Covalent Organic Frameworks for Efficient Photocatalytic Overall Water Splitting</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c00818</link>
+      <description>Li Sheng, Weiyi Wang, Jiajun Wang, Wenhua Zhang, Qunxiang Li, Jinlong Yang, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4396596848
+
+                The pursuit of efficient photocatalysts toward photocatalytic water splitting has attracted wide attention. However, the low efficiency of photocatalytic reactions due to the rapid electron-hole recombination and the time-consuming searching process hinder the development of high-performance photocatalysts. Here, we proposed a data-driven screening procedure for covalent organic frameworks (COFs) as overall solar water-splitting photocatalysts. Based on a COF database through assembling different</description>
+      <author>Li Sheng, Weiyi Wang, Jiajun Wang, Wenhua Zhang, Qunxiang Li, Jinlong Yang</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00818</guid>
+    </item>
+    <item>
+      <title>Biphenylene nanoribbon as a promising electrocatalyst for hydrogen evolution</title>
+      <link>https://doi.org/10.1103/physrevapplied.21.054007</link>
+      <description>Radha N Somaiya, Aftab Alam, Zicong Marvin Wong, Teck Leong Tan, Brahmananda Chakraborty, Physical review applied. 21(5)] 2024. https://openalex.org/W4396609366
+
+                No abstract</description>
+      <author>Radha N Somaiya, Aftab Alam, Zicong Marvin Wong, Teck Leong Tan, Brahmananda Chakraborty</author>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevapplied.21.054007</guid>
+    </item>
+    <item>
+      <title>DFT study on Mo-stabilized passive films: Hydroxylation effects on chromium and iron oxide surfaces</title>
+      <link>https://doi.org/10.1016/j.corsci.2024.112105</link>
+      <description>Xintang Huang, Dominique Costa, Boubakar Diawara, Vincent Maurice, Philippe Marcus, Corrosion science. None(None)] 2024. https://openalex.org/W4396609725
+
+                No abstract</description>
+      <author>Xintang Huang, Dominique Costa, Boubakar Diawara, Vincent Maurice, Philippe Marcus</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.corsci.2024.112105</guid>
+    </item>
+    <item>
+      <title>Carbon Corrosion Induced by Surface Defects Accelerates Degradation of Platinum/Graphene Catalysts in Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/smll.202310940</link>
+      <description>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen, Small. None(None)] 2024. https://openalex.org/W4396614089
+
+                Abstract Graphene supported electrocatalysts have demonstrated remarkable catalytic performance for oxygen reduction reaction (ORR). However, their durability and cycling performance are greatly limited by Oswald ripening of platinum (Pt) and graphene support corrosion. Moreover, comprehensive studies on the mechanisms of catalysts degradation under 0.6&#8211;1.6 V versus RHE (Reversible Hydrogen Electrode) is still lacking. Herein, degradation mechanisms triggered by different defects on graphene supports are investigated by two cycling protocols. In the start&#8211;up/shutdown cycling (1.0&#8211;1.6 V vs. RHE), carbon oxidation reaction (COR) leads to shedding or swarm&#8211;like aggregation of Pt nanoparticles (NPs). Theoretical simulation results show that the expansion of vacancy defects promotes reaction kinetics of the decisive step in COR, reducing its reaction overpotential. While under the load cycling (0.6&#8211;1.0 V vs. RHE), oxygen containing defects lead to an elevated content of Pt in its oxidation state which intensifies Oswald ripening of Pt. The presence of vacancy defects can enhance the transfer of electrons from graphene to the Pt surface, reducing the d&#8722;band center of Pt and making it more difficult for the oxidation state of platinum to form in the cycling. This work will provide comprehensive understanding on Pt/Graphene catalysts degradation mechanisms.</description>
+      <author>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen</author>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310940</guid>
+    </item>
+    <item>
+      <title>Tailoring Si12C12 nanocluster with late first-row transition metals: A promising approach during single-atom catalysis toward hydrogen evolution reaction (HER)</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.04.368</link>
+      <description>Naveen Kosar, Saira Rafiq, Khurshid Ayub, Muhammad Imran, Tariq Mahmood, International journal of hydrogen energy. 68(None)] 2024. https://openalex.org/W4396615899
+
+                No abstract</description>
+      <author>Naveen Kosar, Saira Rafiq, Khurshid Ayub, Muhammad Imran, Tariq Mahmood</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.368</guid>
+    </item>
+    <item>
+      <title>Research on carbon dioxide capture materials used for carbon dioxide capture, utilization, and storage technology: a review</title>
+      <link>https://doi.org/10.1007/s11356-024-33370-2</link>
+      <description>Hongtao Dang, Bin Guan, Junyan Chen, Zeren Ma, Yujun Chen, Jinhe Zhang, Zelong Guo, Lei Chen, Jingqiu Hu, Yi Chao, Shunyu Yao, Zhen Huang, Environmental science and pollution research international. None(None)] 2024. https://openalex.org/W4396620328
+
+                No abstract</description>
+      <author>Hongtao Dang, Bin Guan, Junyan Chen, Zeren Ma, Yujun Chen, Jinhe Zhang, Zelong Guo, Lei Chen, Jingqiu Hu, Yi Chao, Shunyu Yao, Zhen Huang</author>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s11356-024-33370-2</guid>
+    </item>
+    <item>
+      <title>Applied electric field induced the change of spin-electron of the Fe3GeTe2 to improve its oxygen evolution reaction performance</title>
+      <link>https://doi.org/10.1016/j.jelechem.2024.118310</link>
+      <description>Liwei Guo, Rui Wang, Qiuhong Li, Jingguo Hu, Jing Pan, Journal of electroanalytical chemistry. None(None)] 2024. https://openalex.org/W4396621839
+
+                Utilizing density functional theory (DFT) calculations, we investigate the influence of the external electric field on the oxygen evolution reaction (OER) performance of monolayer Fe3GeTe2. Monolayer Fe3GeTe2 has ferromagnetic metal properties and displays excellent electrocatalytic activity. The magnetism mainly comes from FeI atoms, owing to the strong Fe-Te orbitals hybridization, and FeI atoms have great effect on the active site Te atoms. The electric field induces the change of spin-electron and promotes charge redistribution in the Fe3GeTe2, resulting in the changes of the magnetic moment and magnetic anisotropic energy (MAE). Simultaneously, the applied electric field shifts the energy band and decreases the work function which facilitates carrier migration to the surface. Therefore, the OER overpotential is reduced and the catalytic performance is improved. These valuable findings can serve as vital references for the design of 2D magnetic electrocatalysts.</description>
+      <author>Liwei Guo, Rui Wang, Qiuhong Li, Jingguo Hu, Jing Pan</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118310</guid>
+    </item>
+    <item>
+      <title>Investigating the Electrocatalytic Oxygen Evolution Reaction of Hydrothermally Synthesized NiFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Nanoparticles</title>
+      <link>https://doi.org/10.1166/sam.2024.4691</link>
+      <description>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi, Science of advanced materials. 16(6)] 2024. https://openalex.org/W4396631293
+
+                In this study, nickel ferrite (NiFe 2 O 4 ) nanoparticles were synthesized using the hydrothermal method at various pH values. The objective was to investigate the influence of pH variation on particle size and electrocatalytic activity. The formation of cubic phase nanoparticles was confirmed through X-ray diffraction (XRD) analysis. To characterize the electrochemical properties, the nickel ferrite nanoparticles were coated onto a stainless steel substrate using the doctor blade technique. The microstructural analysis was conducted using scanning electron microscopy (SEM). The samples were further analyzed using linear sweep voltammetry (LSV) and electrochemical impedance spectroscopy (EIS). The average crystallite size, determined from the XRD pattern, was approximately 40 nm. SEM images revealed a conversion from nanoplates to a granular morphology. The synthesized electrode exhibited an overpotential of 392 mV at 10 mA/cm 2 and demonstrated good stability for 5 hours. These findings highlight the excellent electrocatalytic activity of nickel ferrite nanoparticles for the oxygen evolution reaction (OER).</description>
+      <author>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1166/sam.2024.4691</guid>
+    </item>
+    <item>
+      <title>Intercalated and Surface-Adsorbed Phosphate Anions in NiFe Layered Double-Hydroxide Catalysts Synergistically Enhancing Oxygen Evolution Reaction Activity</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c01200</link>
+      <description>Shiqing Ding, Zheng Bo, Xiao&#8208;Feng Wang, Yue Zhou, Zhongben Pan, Chun&#8208;Hua Yan, Guangxiang Liu, Leiming Lang, Langmuir. None(None)] 2024. https://openalex.org/W4396633214
+
+                The oxygen evolution reaction (OER), a crucial semireaction in water electrolysis and rechargeable metal-air batteries, is vital for carbon neutrality. Hindered by a slow proton-coupled electron transfer, an efficient catalyst activating the formation of an O-H bond is essential. Here, we proposed a straightforward one-step hydrothermal procedure for fabricating PO</description>
+      <author>Shiqing Ding, Zheng Bo, Xiao&#8208;Feng Wang, Yue Zhou, Zhongben Pan, Chun&#8208;Hua Yan, Guangxiang Liu, Leiming Lang</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01200</guid>
+    </item>
+    <item>
+      <title>Boosting oxygen reduction electrocatalytic performance of Cu-Nx by modulating electron structure via construction of Cu-Nx and Cu nanocluster coupling catalyst</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.04.362</link>
+      <description>Kaixin Liang, Yongfeng Liang, Hui Zhang, Feiying Tang, Shun&#8208;Li Shang, Zhe Liu, Yongfeng Liang, International journal of hydrogen energy. 69(None)] 2024. https://openalex.org/W4396637528
+
+                No abstract</description>
+      <author>Kaixin Liang, Yongfeng Liang, Hui Zhang, Feiying Tang, Shun&#8208;Li Shang, Zhe Liu, Yongfeng Liang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.362</guid>
+    </item>
+    <item>
+      <title>Steering benzyl alcohol electrooxidation coupled with hydrogen evolution via hetero&#8208;interface construction</title>
+      <link>https://doi.org/10.1002/aic.18469</link>
+      <description>Xiaohui Du, Wenfu Xie, Yanfei Wang, Hao Li, Jinze Li, Yang Li, Yiheng Song, Zhenhua Li, Jin Yong Lee, Mingfei Shao, AIChE journal. None(None)] 2024. https://openalex.org/W4396639735
+
+                Abstract It is still a challenge to develop electrocatalyst for the efficient adsorption and conversion of organic molecule in aqueous media. Herein, a hetero&#8208;interface structure based on CuO@Ni(OH) 2 is rationally designed to enhance the performance of benzyl alcohol oxidation to benzoic acid. A high Faradaic efficiency of 99% and the yield of 3.09 mmol cm &#8722;2 h &#8722;1 are achieved at 1.70 V versus reversible hydrogen electrode, outperforming the previously reported electrocatalysts. Furthermore, a membrane&#8208;free flow electrolyzer was assembled based on CuO@Ni(OH) 2 hetero&#8208;interface, exhibiting a much high yielding of benzoic acid (6.73 mmol cm &#8722;2 h &#8722;1 ) and hydrogen (0.35 L cm &#8722;2 h &#8722;1 ) with excellent stability. Both experimental data and density functional theory calculations verify that the electron is tend to accumulate at the hetero&#8208;interface, thus accelerating the adsorption of reactant and intermediate and reducing the energy barrier of the conversion of benzyl alcohol to benzoic acid.</description>
+      <author>Xiaohui Du, Wenfu Xie, Yanfei Wang, Hao Li, Jinze Li, Yang Li, Yiheng Song, Zhenhua Li, Jin Yong Lee, Mingfei Shao</author>
+      <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18469</guid>
+    </item>
+    <item>
       <title>Theoretical study on the Cs/Cs-O adsorbed graphene/semiconductor heterojunction anode for thermionic converters</title>
       <link>https://doi.org/10.1007/s42768-024-00191-5</link>
       <description>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao, Waste Disposal &amp; Sustainable Energy/Waste disposal &amp; sustainable energy. None(None)] 2024. https://openalex.org/W4396217244
@@ -446,6 +546,16 @@
       <author>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao</author>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s42768-024-00191-5</guid>
+    </item>
+    <item>
+      <title>Facile Fabrication and Characterization of Amine-Functional Silica Coated Magnetic Iron Oxide Nanoparticles for Aqueous Carbon Dioxide Adsorption</title>
+      <link>https://doi.org/10.1021/acsomega.3c10082</link>
+      <description>Md. Muhyminul Islam, Md. Abdur Rahman, M. A. Alam, Md. Mahbubor Rahman, O. Thompson Mefford, Anwar Ul&#8208;Hamid, Jalil Miah, Hasan Ahmad, ACS omega. None(None)] 2024. https://openalex.org/W4396581384
+
+                No abstract</description>
+      <author>Md. Muhyminul Islam, Md. Abdur Rahman, M. A. Alam, Md. Mahbubor Rahman, O. Thompson Mefford, Anwar Ul&#8208;Hamid, Jalil Miah, Hasan Ahmad</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c10082</guid>
     </item>
     <item>
       <title>Hydroxyl-assisted globally spontaneous dynamic oxygen migration on biphenylene</title>

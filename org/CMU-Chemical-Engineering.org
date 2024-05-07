@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon May  6 01:05:34 2024
+Created on Tue May  7 01:04:42 2024
 
-Found 2 results from 2024-04-29 to 2024-05-06
+Found 2 results from 2024-04-30 to 2024-05-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -23,7 +23,7 @@ OpenAlex: https://openalex.org/W4396543013 (Open access: False)
     
 [[https://openalex.org/A5068064234][Dejia Yin]], [[https://openalex.org/A5008718870][Bin Zhao]], [[https://openalex.org/A5055420452][Yafei Wang]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5086908350][Bo Feng]], [[https://openalex.org/A5060954259][Xing Chang]], [[https://openalex.org/A5067964464][Qi Chen]], [[https://openalex.org/A5077613536][Xi Cheng]], [[https://openalex.org/A5012066171][Tengyu Liu]], [[https://openalex.org/A5068305914][Chak K. Chan]], [[https://openalex.org/A5038957567][Meredith Schervish]], [[https://openalex.org/A5018728258][Zeqi Li]], [[https://openalex.org/A5001416395][Yuhong He]], [[https://openalex.org/A5085119258][Jiming Hao]], Environmental science & technology. None(None)] 2024. https://doi.org/10.1021/acs.est.3c07128 
      
-No abstract    
+A comprehensive understanding of the full volatility spectrum of organic oxidation products from the benzene series precursors is important to quantify the air quality and climate effects of secondary organic aerosol (SOA) and new particle formation (NPF). However, current models fail to capture the full volatility spectrum due to the absence of important reaction pathways. Here, we develop a novel unified model framework, the integrated two-dimensional volatility basis set (I2D-VBS), to simulate the full volatility spectrum of products from benzene series precursors by simultaneously representing first-generational oxidation, multigenerational aging, autoxidation, dimerization, nitrate formation, etc. The model successfully reproduces the volatility and O/C distributions of oxygenated organic molecules (OOMs) as well as the concentrations and the O/C of SOA over wide-ranging experimental conditions. In typical urban environments, autoxidation and multigenerational oxidation are the two main pathways for the formation of OOMs and SOA with similar contributions, but autoxidation contributes more to low-volatility products. NO    
 
     
 

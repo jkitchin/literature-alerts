@@ -1,31 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon May  6 01:05:33 2024
+Created on Tue May  7 01:04:41 2024
 
-Found 23 results from 2024-04-29 to 2024-05-06
+Found 34 results from 2024-04-30 to 2024-05-07
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Size-Dependent Hydrogenation Activity of Cobalt Nanoparticles  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4395960647
-:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-04-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00995")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4395960647"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4395960647"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4395960647"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4395960647 (Open access: False)
-    
-[[https://openalex.org/A5087380102][Yi He]], [[https://openalex.org/A5021985406][Andreas Goldbach]], [[https://openalex.org/A5064766132][Jiake Wei]], [[https://openalex.org/A5019146446][Wenjie Shen]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00995 
-     
-No abstract    
-
-    
 
 * Importance of Dynamic Effects in Isobutanol to Linear Butene Conversion Catalyzed by Acid Zeolites Assessed by AIMD  :ACS_Catalysis:
 :PROPERTIES:
@@ -426,6 +405,132 @@ Catalysts with noble metals deposited as single atoms on metal oxide supports ha
 
     
 
+* Selective Formic Acid Production in Ni and NiFe Layered Hydroxides via Glycerol Electro-Oxidation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396575542
+:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Electrocatalysis for Energy Conversion, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01250")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396575542"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396575542"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396575542"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396575542 (Open access: False)
+    
+[[https://openalex.org/A5066993536][D. K. Kim]], [[https://openalex.org/A5033111994][Cu Dang Van]], [[https://openalex.org/A5077914968][Min Seok Lee]], [[https://openalex.org/A5043580930][Minho Kim]], [[https://openalex.org/A5090584934][Min Hyung Lee]], [[https://openalex.org/A5090271472][Jihun Oh]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01250 
+     
+No abstract    
+
+    
+
+* Unveiling the Mechanism of Plasma-Catalyzed Oxidation of Methane to C2+ Oxygenates over Cu/UiO-66-NH2  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396576901
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00261")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396576901"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396576901"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396576901"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396576901 (Open access: True)
+    
+[[https://openalex.org/A5029042444][Chao Qi]], [[https://openalex.org/A5063881034][Yifu Bi]], [[https://openalex.org/A5002237217][Yaolin Wang]], [[https://openalex.org/A5090624322][Hong Yu]], [[https://openalex.org/A5091295047][Yuanyu Tian]], [[https://openalex.org/A5009908112][Peijie Zong]], [[https://openalex.org/A5052585046][Qinhua Zhang]], [[https://openalex.org/A5051539538][Haonan Zhang]], [[https://openalex.org/A5080772741][Mingqing Wang]], [[https://openalex.org/A5022433710][Tao Xing]], [[https://openalex.org/A5063554744][Mingbo Wu]], [[https://openalex.org/A5029654757][Xin Tu]], [[https://openalex.org/A5080124839][Wenting Wu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00261  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00261][pdf]])
+     
+No abstract    
+
+    
+
+* Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO2, Ammonium, and α-Ketoglutarate  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396577832
+:TOPICS: Biodegradable Polymers as Biomaterials and Packaging, Metabolic Engineering and Synthetic Biology, Enzyme Immobilization Techniques
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00992")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396577832"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396577832"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396577832"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396577832 (Open access: True)
+    
+[[https://openalex.org/A5050203944][Shota Nishikawa]], [[https://openalex.org/A5072678129][Wen‐Yueh Yu]], [[https://openalex.org/A5021192553][Tony Z. Jia]], [[https://openalex.org/A5039279000][Meiling He]], [[https://openalex.org/A5027234941][Anna N. Khusnutdinova]], [[https://openalex.org/A5079399175][Alexander F. Yakunin]], [[https://openalex.org/A5089465670][Yin-Ru Chiang]], [[https://openalex.org/A5084487892][Kosuke Fujishima]], [[https://openalex.org/A5042971510][Po-Hsiang Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00992  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00992][pdf]])
+     
+No abstract    
+
+    
+
+* Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396581872
+:TOPICS: Electrocatalysis for Energy Conversion, Desulfurization Technologies for Fuels, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01078")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396581872"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396581872"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396581872"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396581872 (Open access: False)
+    
+[[https://openalex.org/A5018629269][Peipei Zhu]], [[https://openalex.org/A5031071648][Yongli Shen]], [[https://openalex.org/A5006347862][Zhi‐Ming Zhang]], [[https://openalex.org/A5042841794][Dingsheng Wang]], [[https://openalex.org/A5065207511][Shenglin Xiong]], [[https://openalex.org/A5061326158][Xuguang An]], [[https://openalex.org/A5065207511][Shenglin Xiong]], [[https://openalex.org/A5075190712][Changhua An]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01078 
+     
+Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm–2 with high yield (∼96%), selectivity (∼99%), and Faraday efficiency (∼100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm–2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.    
+
+    
+
+* En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl3  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396585142
+:TOPICS: Applications of Photoredox Catalysis in Organic Synthesis, Transition-Metal-Catalyzed Sulfur Chemistry, Catalytic Oxidation of Alcohols
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01130")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396585142"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396585142"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396585142"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396585142 (Open access: False)
+    
+[[https://openalex.org/A5069553108][Tarun Kumar Dinda]], [[https://openalex.org/A5005278498][Anupam Manna]], [[https://openalex.org/A5026932849][Prasenjit Mal]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01130 
+     
+Our study proposes an approach to semiheterogeneous photocatalysis, focusing on recyclability challenges. We developed a method employing visible light with photoinert anhydrous CeCl3, rendering it into a reusable semiheterogeneous photocatalyst. Despite being photoinert and insoluble in organic solvents, anhydrous CeCl3 formed a transient charge transfer complex in acetonitrile, denoted as CeCl3 - NXS (NBS or NCS), due to the strong oxophilicity of trivalent cerium toward oxygen. This complex facilitated visible-light absorption, leading to the photoexcitation of the Ce(III) complexes and conversion of Ce(III) centers into potent reductants, donating electrons to NXS. As a proof of concept, we demonstrated organic reactions where NXS, upon accepting electrons, generated halide radicals, allowing the synthesis of gem-dihaloketones under sunlight from terminal aromatic alkynes via C–X cross-coupling reactions. Significantly, CeCl3 exhibited recyclability without notable decomposition, demonstrated by its regeneration and isolation through simple filtration postreaction, underscoring its potential for prolonged use.    
+
+    
+
+* Regulating Oxygen Activity of Perovskites to Promote Activity and Selectivity for Methanol Oxidation to Formaldehyde  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396585598
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Solid Oxide Fuel Cells
+:PUBLICATION_DATE: 2024-05-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01222")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396585598"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396585598"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396585598"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396585598 (Open access: False)
+    
+[[https://openalex.org/A5089124607][Karthik Akkiraju]], [[https://openalex.org/A5027366818][Reshma R. Rao]], [[https://openalex.org/A5052065929][Jonathan Hwang]], [[https://openalex.org/A5022371820][Livia Giordano]], [[https://openalex.org/A5036203577][Xiao Renshaw Wang]], [[https://openalex.org/A5055367943][Ethan J. Crumlin]], [[https://openalex.org/A5062347972][David S. Weinberger]], [[https://openalex.org/A5072645578][Yang Shao‐Horn]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01222 
+     
+No abstract    
+
+    
+
 * Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4396592409
@@ -444,6 +549,90 @@ OpenAlex: https://openalex.org/W4396592409 (Open access: False)
 [[https://openalex.org/A5035876826][Ziyue Hu]], [[https://openalex.org/A5069694755][Ling-Heng Luo]], [[https://openalex.org/A5032659859][Cheng Shang]], [[https://openalex.org/A5023502514][Zhi-Pan Liu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00959 
      
 Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
+
+    
+
+* Synergistic Interfacial Reconstruction and Surface Polarization in a Compact ZnIn2S4–CdIn2S4 Heterojunction for Enhanced Photocatalytic H2O2 Production  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396596653
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Zinc Oxide Nanostructures
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00924")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396596653"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396596653"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396596653"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396596653 (Open access: False)
+    
+[[https://openalex.org/A5041488712][Yunxia Liu]], [[https://openalex.org/A5056381213][Yueming Wu]], [[https://openalex.org/A5021563384][Yuhui Liu]], [[https://openalex.org/A5004998372][Yi Wang]], [[https://openalex.org/A5067326635][Xin Sun]], [[https://openalex.org/A5012901518][Peng Chen]], [[https://openalex.org/A5086761727][Shuang‐Feng Yin]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00924 
+     
+No abstract    
+
+    
+
+* Site-Selective C–H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396604944
+:TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Catalytic C-H Amination Reactions, Transition Metal-Catalyzed Cross-Coupling Reactions
+:PUBLICATION_DATE: 2024-05-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00690")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396604944"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396604944"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396604944"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396604944 (Open access: False)
+    
+[[https://openalex.org/A5064560838][Zengguo Sun]], [[https://openalex.org/A5027703889][Zhuhan Jiang]], [[https://openalex.org/A5049511259][Feng He]], [[https://openalex.org/A5021118366][Chenyue Li]], [[https://openalex.org/A5069609913][Hai Xiong]], [[https://openalex.org/A5086328096][Dan Yang]], [[https://openalex.org/A5046616265][Hui Miao]], [[https://openalex.org/A5072645559][Qinglin Li]], [[https://openalex.org/A5006570149][Jinxiang Ye]], [[https://openalex.org/A5043161504][Ching-Yong Wu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00690 
+     
+No abstract    
+
+    
+
+* Enhancing Low-Temperature Syngas Production via Surface Tailoring of Supported Intermetallic Nanocatalysts  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396617198
+:TOPICS: Catalytic Carbon Dioxide Hydrogenation, Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01180")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396617198"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396617198"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396617198"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396617198 (Open access: False)
+    
+[[https://openalex.org/A5052763824][Olusola Johnson]], [[https://openalex.org/A5007901347][Yurong He]], [[https://openalex.org/A5096068262][Isabella St. Pierre-Charles]], [[https://openalex.org/A5038323163][J. Richter]], [[https://openalex.org/A5010369187][Babu Joseph]], [[https://openalex.org/A5066919560][John N. Kuhn]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01180 
+     
+An active and coke-resistant silica-encapsulated intermetallic Ni3Zn nanoparticle catalyst was developed for low-temperature (450 °C) dry reforming of methane (DRM). The catalyst exhibited a remarkable 4-fold increase in activity (4.5 s–1) with over 99% CO selectivity and 3 orders of magnitude less carbonaceous species and demonstrated remarkable stability (70 h) compared to that of a monometallic Ni catalyst. The key is the combined effect of surface ensemble structure and electronic interaction modulation through the surface composition tailoring achieved by off-stoichiometric Ni and Zn loading in controlling surface chemistry for achieving different activities and H2/CO ratios. Characterized by ion spectroscopy, X-ray photoelectron spectroscopy, and the neutron pair distribution function, it was revealed that paired Niδ−–Znδ+ active sites are crucial for DRM. Transient infrared spectroscopy and isotopic analysis uncovered the synergistic effect of Niδ−–Znδ+ sites in activating C–H bonds and dissociating CO2 to prevent coke formation under low-temperature conditions.    
+
+    
+
+* Rational Design of Covalent Organic Frameworks with Redox-Active Catechol Moieties for High-Performance Overall Photosynthesis of Hydrogen Peroxide  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396617229
+:TOPICS: Porous Crystalline Organic Frameworks for Energy and Separation Applications, Photocatalytic Materials for Solar Energy Conversion, Advanced Materials for Smart Windows
+:PUBLICATION_DATE: 2024-05-02
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01411")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396617229"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396617229"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396617229"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396617229 (Open access: False)
+    
+[[https://openalex.org/A5073454066][Shufan Feng]], [[https://openalex.org/A5039051036][Hao Cheng]], [[https://openalex.org/A5058434399][Feng Chen]], [[https://openalex.org/A5053913980][Xinman Liu]], [[https://openalex.org/A5035537928][Zhiqiang Wang]], [[https://openalex.org/A5067487673][Hangxun Xu]], [[https://openalex.org/A5090403591][Jianli Hua]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01411 
+     
+Covalent organic frameworks (COFs) have emerged as promising candidates for solar-driven photosynthesis of hydrogen peroxide (H2O2), yet the development of high-performance COFs tailored for practical applications presents substantial challenges. This research introduces the integration of the redox-active catechol moiety into a series of COFs (TPE-COF-OH, TPB-COF-OH, and TPP-COF-OH), serving as the pivotal active site for photocatalytic oxygen (O2) reduction to H2O2 through a reversible catechol-quinone interconversion mechanism. This process facilitates the transformation of catechol to o-benzoquinone in the presence of molecular O2, while photoexcited electrons are utilized to revert o-benzoquinone to catechol, reducing the energy barrier for H2O2 synthesis. Notably, TPB-COF-OH demonstrates an unparalleled H2O2 production rate of 6608 μmol h–1 g–1, outperforming its molecular counterpart, TPB-COF-OMe, which lacks the redox-active catechol unit. Furthermore, TPB-COF-OH achieves a solar-to-chemical conversion efficiency of 0.84%, marking the highest value among COF-based photocatalysts in solar-driven H2O2 production. This investigation not only underscores the critical role of molecular engineering in enhancing COF performance but also broadens the horizon for solar-to-chemical energy conversion technologies.    
 
     
 
@@ -486,5 +675,47 @@ OpenAlex: https://openalex.org/W4396623887 (Open access: True)
 , ACS catalysis. 14(9)] 2024. https://doi.org/10.1021/csv014i009_1797487  ([[https://pubs.acs.org/doi/pdf/10.1021/csv014i009_1797487][pdf]])
      
 No abstract    
+
+    
+
+* Buffer-Induced Electrocatalytic Nitrite Reduction: Impact on Catalytic Rate and Product Selectivity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396626175
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Novel Methods for Cesium Removal from Wastewater, Materials and Methods for Hydrogen Storage
+:PUBLICATION_DATE: 2024-05-03
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05583")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396626175"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396626175"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396626175"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396626175 (Open access: False)
+    
+[[https://openalex.org/A5003334117][Sheyda Partovi]], [[https://openalex.org/A5032749333][Evan Z. Dalton]], [[https://openalex.org/A5018106788][Jeremy M. Smith]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05583 
+     
+The complex [Co(CR)Br2]+, where CR is the redox-active macrocycle 2,12-dimethyl-3,7,11,17-tetraazabicyclo-[11.3.1]-heptadeca-1(17),2,11,13,15-pentaene, is known as an electrocatalyst for the reduction of aqueous nitrite (NO2–). Here, we report that buffer induces a catalytic wave for NO2– reduction at a significantly more anodic potential than under unbuffered conditions. In addition, buffer increases the rate of electrocatalysis. This enhanced electrocatalytic activity is enabled by a number of buffering agents, with 3-(N-morpholino)propanesulfonic acid showing the largest catalytic current. In addition to the greater catalytic activity, buffering agents influence the selectivity of the reduction products, as well as catalyst longevity.    
+
+    
+
+* Tailoring Catalytic and Oxygen Release Capability in LaFe1–xNixO3 to Intensify Chemical Looping Reactions at Medium Temperatures  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396645619
+:TOPICS: Magnetocaloric Materials Research, Emergent Phenomena at Oxide Interfaces, Solid Oxide Fuel Cells
+:PUBLICATION_DATE: 2024-05-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01386")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396645619"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396645619"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396645619"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396645619 (Open access: False)
+    
+[[https://openalex.org/A5029507882][Rongjiang Zhang]], [[https://openalex.org/A5005616906][Gen Liu]], [[https://openalex.org/A5058806165][Chunyong Huo]], [[https://openalex.org/A5057409480][Lijun Jia]], [[https://openalex.org/A5018371876][Bo Zhang]], [[https://openalex.org/A5079262155][Bolun Yang]], [[https://openalex.org/A5058329611][Xiaoyong Tian]], [[https://openalex.org/A5091909594][Zhiqiang Wu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01386 
+     
+Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
 
     
