@@ -1,31 +1,10 @@
 #+TITLE: liquid-metal
 Description: low temperature liquid metals
-Created on Tue May  7 01:04:39 2024
+Created on Wed May  8 00:53:58 2024
 
-Found 3 results from 2024-04-30 to 2024-05-07
+Found 2 results from 2024-05-01 to 2024-05-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29]]
-
-* Dynamic dual-atom synergetic catalysis boosted by liquid metal for direct seawater electroreduction  :liquid_metal:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396233717
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4ta01464b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396233717"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396233717"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396233717"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396233717 (Open access: False)
-    
-[[https://openalex.org/A5014946491][Haoxuan Li]], [[https://openalex.org/A5041690571][Jinghui Wang]], [[https://openalex.org/A5071490133][Mei Cui]], [[https://openalex.org/A5059124969][Renliang Huang]], [[https://openalex.org/A5071933793][Wei Qi]], [[https://openalex.org/A5050124317][Rongxin Su]], Journal of materials chemistry. A. None(None)] 2024. https://doi.org/10.1039/d4ta01464b 
-     
-Ga based liquid metal is an ideal matrix to dissolve and disperse other metal atoms for catalysis. Seawater electrolysis is a promising alternative technology for hydrogen production in the crisis...    
-
-    
 
 * Let it Flow: Emergence of Liquid Metals  :liquid_metal:
 :PROPERTIES:

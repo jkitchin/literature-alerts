@@ -4,119 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 May 2024 01:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:54:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Development of Novel Cube-Embedded MnO2/ZnO Nanocomposite for OER Activity and Supercapacitor Performance Evaluation</title>
-      <link>https://doi.org/10.1007/s11837-024-06559-6</link>
-      <description>Muhammad Suleman Waheed, Sarah A. Alsalhi, Shaimaa A. M. Abdelmohsen, Sher Zaman, Shandar Ahmad, Salma Aman, Zubair Ahmad, A.M.A. Henaish, Abdullah G. Al&#8208;Sehemi, T.A. Taha, JOM. None(None)] 2024. https://openalex.org/W4396216669
-
-                No abstract</description>
-      <author>Muhammad Suleman Waheed, Sarah A. Alsalhi, Shaimaa A. M. Abdelmohsen, Sher Zaman, Shandar Ahmad, Salma Aman, Zubair Ahmad, A.M.A. Henaish, Abdullah G. Al&#8208;Sehemi, T.A. Taha</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11837-024-06559-6</guid>
-    </item>
-    <item>
-      <title>Theoretical Investigation on the Structural Characteristics and Electrocatalytic Co2 Reduction Mechanism of G-C3n4 Supported Ag/Au Single Atom Catalysts</title>
-      <link>https://doi.org/10.2139/ssrn.4811081</link>
-      <description>Hui&#8208;ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng, No host. None(None)] 2024. https://openalex.org/W4396217729
-
-                No abstract</description>
-      <author>Hui&#8208;ling Shui, G. S. Li, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4811081</guid>
-    </item>
-    <item>
-      <title>Theoretical Study of p-Block Metal Single-Atom-Loaded Carbon Nitride Catalyst for Photocatalytic Water Splitting</title>
-      <link>https://doi.org/10.3390/molecules29092030</link>
-      <description>Meng-Ning Chen, Yidi Wu, Qiang Wan, Sen Lin, Molecules/Molecules online/Molecules annual. 29(9)] 2024. https://openalex.org/W4396220936
-
-                Graphitic carbon nitride (g-C3N4), recognized for its considerable potential as a heterogeneous photocatalyst in water splitting, has attracted extensive research interest. By using density functional theory (DFT) calculations, the regulatory role of p-block metal (PM) single atoms on the photocatalytic activity of g-C3N4 in overall water splitting was systematically explored. The incorporation of PM atoms (Ge, Sn and Pb) led to a reduction in the overpotentials required for both the oxygen evolution reaction (OER) and the hydrogen evolution reaction (HER). Combined with the electronic structures analysis via hybrid functional, it was found that the introduction of Ge, Sn or Pb optimizes the positions of the valence band maximum (VBM) and the conduction band minimum (CBM), providing a robust driving force for HER and ensuring substantial driving force for OER. Meanwhile, the presence of these three PMs induces the spatial separation of VBM and CBM, inhibiting the recombination of carriers. These findings have significant implications for the design and preparation of efficient photocatalysts.</description>
-      <author>Meng-Ning Chen, Yidi Wu, Qiang Wan, Sen Lin</author>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/molecules29092030</guid>
-    </item>
-    <item>
-      <title>Revealing Interface Polarization Effects on the Electrical Double Layer with Efficient Open Boundary Simulations under Potential Control</title>
-      <link>https://doi.org/10.1021/acs.jpclett.3c03615</link>
-      <description>Margherita Buraschi, Andrew P. Horsfield, Clotilde S. Cucinotta, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4396221327
-
-                A major challenge in modeling interfacial processes in electrochemical (EC) devices is performing simulations at constant potential. This requires an open-boundary description of the electrons, so that they can enter and leave the computational cell. To enable realistic modeling of EC processes under potential control we have interfaced density functional theory with the hairy probe method in the weak coupling limit (Zauchner et al. Phys. Rev. B 2018, 97, 045116). Our implementation was systematically tested using simple parallel-plate capacitor models with pristine surfaces and a single layer of adsorbed water molecules. Remarkably, our code's efficiency is comparable with a standard DFT calculation. We reveal that local field effects at the electrical double layer induced by the change of applied potential can significantly affect the energies of chemical steps in heterogeneous electrocatalysis. Our results demonstrate the importance of an explicit modeling of the applied potential in a simulation and provide an efficient tool to control this critical parameter.</description>
-      <author>Margherita Buraschi, Andrew P. Horsfield, Clotilde S. Cucinotta</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.3c03615</guid>
-    </item>
-    <item>
-      <title>Selective Orbital Coupling: An Adsorption Mechanism in Single-Atom Catalysis</title>
-      <link>https://doi.org/10.1021/jacs.3c13119</link>
-      <description>Chen He, Chih&#8208;Heng Lee, Lei Meng, Hsin&#8208;Yi Tiffany Chen, Zhe Li, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4396222769
-
-                Quantitative understanding of the chemisorption on single-atom catalysts (SACs) by their electronic properties is crucial for the catalyst design. However, the physical mechanism is still under debate. Here, the CO catalytic oxidation on single transition metal (i.e., Sc, Ti, V, Cr, Mn, Fe, Co, Ni) dopants is used as a theoretical model to explore the correlations between the characteristics of electronic structures and the chemisorption on SACs. For these metal dopants, their atomic d orbitals form several nondegenerate and localized electronic states that are found to be selectively coupled with the &#960;* orbital of the adsorbed O2, which we defined as selective orbital coupling. Based on the selective orbital coupling, we find that the alignment between the selected d state and the &#960;* state determines the bond strength, regardless of the electron occupation number of the selected d states; the electron transfer to form M&#8211;O bonding can be provided by the support. Such electron transfer can be related with the electronic metal&#8211;support interaction. We attribute the origin of the chemisorption mechanism to the coexistence of the localized orbital of the single transition metal and the continuous energy band of the Au support. Finally, we illustrate how this mechanism dominates the variation trend of the reaction barriers. Our results unravel a fundamental adsorption mechanism in SAC systems.</description>
-      <author>Chen He, Chih&#8208;Heng Lee, Lei Meng, Hsin&#8208;Yi Tiffany Chen, Zhe Li</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.3c13119</guid>
-    </item>
-    <item>
-      <title>Structural Effects of FeN&lt;sub&gt;4&lt;/sub&gt; Active Sites Surrounded by Fourteen-Membered Ring Ligands on Oxygen Reduction Reaction Activity and Durability</title>
-      <link>https://doi.org/10.1021/acscatal.4c01122</link>
-      <description>Zhiqing Feng, Shizuyo Honda, Junya Ohyama, Y. Iwata, Keisuke Awaya, Hiroshi Yoshida, Masato Machida, K&#245;tar&#245; Higashi, Tomoya Uruga, N. Kawamura, Ryota Goto, Takeo Ichihara, Ryoichi Kojima, Makoto Moriya, Hideo Notsu, Seiji Nagata, Manabu Miyoshi, Teruaki Hayakawa, Yuta Nabae, ACS catalysis. None(None)] 2024. https://openalex.org/W4396222845
-
-                FeN4 active sites have been studied as non-Pt group metal (non-PGM) catalysts for the oxygen reduction reaction (ORR). The authors recently developed Fe(II) 1,14:7,8-ditethenotetrapyrido-[2,1,6-de:2&#8242;,1&#8242;6&#8242;-gh:2&#8243;,1&#8243;,6&#8243;-na][1,3,5,8,10,12] hexaazacyclotetradecine (Fe-14MR) as an FeN4 complex incorporating a 14-membered ring. This complex exhibited higher ORR activity and greater durability than Fe phthalocyanine, a conventional FeN4 complex having a 16-membered ring. In the present study, the ORR activity and durability of this Fe-14MR complex supported on C (Fe-14MR/C) were enhanced through modification of the active site structure by heating at 600 &#176;C and removing protons on amine groups in the Fe-14MR. Density functional theory calculations indicated that the Fe-14MR/C structure generated by heating resulted in oxygen species absorption energies close to optimal values for the ORR. The improved durability of the heat-treated Fe-14MR/C was attributed to reduced distortion of the FeN4 sites. The results suggest that designing Fe-14MR structures can be a promising approach to developing non-PGM catalysts.</description>
-      <author>Zhiqing Feng, Shizuyo Honda, Junya Ohyama, Y. Iwata, Keisuke Awaya, Hiroshi Yoshida, Masato Machida, K&#245;tar&#245; Higashi, Tomoya Uruga, N. Kawamura, Ryota Goto, Takeo Ichihara, Ryoichi Kojima, Makoto Moriya, Hideo Notsu, Seiji Nagata, Manabu Miyoshi, Teruaki Hayakawa, Yuta Nabae</author>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01122</guid>
-    </item>
-    <item>
-      <title>Single transition-metal atoms anchored on a novel Dirac-dispersive &#960;-&#960; conjugated holey graphitic carbon nitride substrate: computational screening toward efficient bifunctional OER/ORR electrocatalysts</title>
-      <link>https://doi.org/10.1007/s12598-024-02652-6</link>
-      <description>Chunyao Fang, Xihang Zhang, Qiang Zhang, Di Liu, Xiaomeng Cui, Jingcheng Xu, Chenglong Shi, Mengyu Yang, Rare metals/Rare Metals. None(None)] 2024. https://openalex.org/W4396224837
-
-                No abstract</description>
-      <author>Chunyao Fang, Xihang Zhang, Qiang Zhang, Di Liu, Xiaomeng Cui, Jingcheng Xu, Chenglong Shi, Mengyu Yang</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02652-6</guid>
-    </item>
-    <item>
-      <title>Enhanced CO adsorption and *CO hydrogenation for efficient CO2 deep reduction on MnCu-NC</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104426</link>
-      <description>Zhiyun Hu, Huang Liangai, Liu Jianchuan, Zhong Wenwu, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4396231739
-
-                In CO2RR, enhancing CO adsorption could suppress desorption and increase *CO concentration for deep reduction. An underlying concern is that strong adsorption might result in high thermodynamic barrier for *CO hydrogenation, however, kinetic barrier firstly dominates the reaction pathway and determines the products selectivity. Directed by above idea, CO2RR performance on Mn, Cu doped nitrogenated carbon (MnCu-NC) is comprehensively studied using density functional theory (DFT). MnCu-NC shows a mild limiting potential of -0.59 V (*CO &#8594; *CHO) for CH3OH and CH4 products. CO poisoning is likely to cause catalyst deactivation, while CO modified MnCu-NC shows a slightly increased limiting potential of -0.63 V (*COCO &#8594; *COCHO) for CH3OH and CH4, and hydrogen evolution is significantly suppressed. Further comparative studies indicate that kinetic barrier for *CO hydrogenation is crucial for deep reduction, and C&#8722;O activation, as well as CO adsorption is enhanced by &#928;-backbonding. Besides, introduction Cu to dual-atom catalyst (DAC) could help retain more electrons and Mn has strong magnetization for charge transfer, both of which improve the charge densities and &#928;-backbonding strength, thus boosting the remarkable CO2RR performance toward CH4 and CH3OH on MnCu-NC.</description>
-      <author>Zhiyun Hu, Huang Liangai, Liu Jianchuan, Zhong Wenwu</author>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104426</guid>
-    </item>
-    <item>
-      <title>Can Re cluster complexes be an efficient catalyst for hydrogen evolution reaction? Insights from experiments and computations</title>
-      <link>https://doi.org/10.1039/d4dt00144c</link>
-      <description>Mikhail Khrizanforov, Bulat S. Akhmadeev, Polina Milyukova, Asiya R. Mustafina, Almaz L. Zinnatullin, Artur Khannanov, Renat R. Nazmutdinov, Konstantin A. Brylev, Qi Shao, Rustem Zairov, Dalton transactions. None(None)] 2024. https://openalex.org/W4396234031
-
-                This work presents the possibility of using a hexarenium cluster for the hydrogen evolution reaction.</description>
-      <author>Mikhail Khrizanforov, Bulat S. Akhmadeev, Polina Milyukova, Asiya R. Mustafina, Almaz L. Zinnatullin, Artur Khannanov, Renat R. Nazmutdinov, Konstantin A. Brylev, Qi Shao, Rustem Zairov</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4dt00144c</guid>
-    </item>
-    <item>
-      <title>Multiscale biomolecular simulations in the exascale era</title>
-      <link>https://doi.org/10.1016/j.sbi.2024.102821</link>
-      <description>David Carrasco&#8208;Busturia, Emiliano Ippoliti, Simone Meloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen, Current opinion in structural biology. 86(None)] 2024. https://openalex.org/W4396237158
-
-                The complexity of biological systems and processes, spanning molecular to macroscopic scales, necessitates the use of multiscale simulations to get a comprehensive understanding. Quantum mechanics/molecular mechanics (QM/MM) molecular dynamics (MD) simulations are crucial for capturing processes beyond the reach of classical MD simulations. The advent of exascale computing offers unprecedented opportunities for scientific exploration, not least within life sciences, where simulations are essential to unravel intricate molecular mechanisms underlying biological processes. However, leveraging the immense computational power of exascale computing requires innovative algorithms and software designs. In this context, we discuss the current status and future prospects of multiscale biomolecular simulations on exascale supercomputers with a focus on QM/MM MD. We highlight our own efforts in developing a versatile and high-performance multiscale simulation framework with the aim of efficient utilization of state-of-the-art supercomputers. We showcase its application in uncovering complex biological mechanisms and its potential for leveraging exascale computing.</description>
-      <author>David Carrasco&#8208;Busturia, Emiliano Ippoliti, Simone Meloni, Ursula R&#246;thlisberger, J&#243;gvan Magnus Haugaard Olsen</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.sbi.2024.102821</guid>
-    </item>
-    <item>
-      <title>Uncertainty-biased molecular dynamics for learning uniformly accurate interatomic potentials</title>
-      <link>https://doi.org/10.1038/s41524-024-01254-1</link>
-      <description>Viktor Zaverkin, David Holzm&#252;ller, Henrik Christiansen, Federico Errica, Francesco Alesiani, Makoto Takamoto, Mathias Niepert, Johannes K&#228;stner, npj computational materials. 10(1)] 2024. https://openalex.org/W4396239146
-
-                Abstract Efficiently creating a concise but comprehensive data set for training machine-learned interatomic potentials (MLIPs) is an under-explored problem. Active learning, which uses biased or unbiased molecular dynamics (MD) to generate candidate pools, aims to address this objective. Existing biased and unbiased MD-simulation methods, however, are prone to miss either rare events or extrapolative regions&#8212;areas of the configurational space where unreliable predictions are made. This work demonstrates that MD, when biased by the MLIP&#8217;s energy uncertainty, simultaneously captures extrapolative regions and rare events, which is crucial for developing uniformly accurate MLIPs. Furthermore, exploiting automatic differentiation, we enhance bias-forces-driven MD with the concept of bias stress. We employ calibrated gradient-based uncertainties to yield MLIPs with similar or, sometimes, better accuracy than ensemble-based methods at a lower computational cost. Finally, we apply uncertainty-biased MD to alanine dipeptide and MIL-53(Al), generating MLIPs that represent both configurational spaces more accurately than models trained with conventional MD.</description>
-      <author>Viktor Zaverkin, David Holzm&#252;ller, Henrik Christiansen, Federico Errica, Francesco Alesiani, Makoto Takamoto, Mathias Niepert, Johannes K&#228;stner</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01254-1</guid>
-    </item>
     <item>
       <title>Interoperable workflows by exchanging grid-based data between quantum-chemical program packages</title>
       <link>https://doi.org/10.1063/5.0201701</link>
@@ -206,16 +96,6 @@
       <author>M. B. Sreedhara, Azat Khadiev, Kai Zheng, Simon Hettler, Marco Serra, Ivano E. Castelli, Ra&#250;l Arenal, Dmitri Novikov, R. Tenne</author>
       <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.chemmater.4c00481</guid>
-    </item>
-    <item>
-      <title>DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.4c00795</link>
-      <description>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396512258
-
-                No abstract</description>
-      <author>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00795</guid>
     </item>
     <item>
       <title>Highly selective electrocatalytic CO2 reduction to multi-carbon products at CuPd synergistic sites over OD-Cu based catalysts</title>
@@ -368,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4813446</guid>
     </item>
     <item>
-      <title>Insights into the Development of Electrocatalysts Based on Information Extracted from Literatures Using Natural Language Processing</title>
-      <link>https://doi.org/10.2139/ssrn.4813130</link>
-      <description>Na Qin, Wei Kuang Lai, Haibiao Chen, No host. None(None)] 2024. https://openalex.org/W4396566466
-
-                No abstract</description>
-      <author>Na Qin, Wei Kuang Lai, Haibiao Chen</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4813130</guid>
-    </item>
-    <item>
       <title>Support effect in metal&#8211;organic framework-derived copper-based electrocatalysts facilitating the reduction of nitrate to ammonia</title>
       <link>https://doi.org/10.1016/j.electacta.2024.144348</link>
       <description>Shih-Ming Yang, Balaganesh Muthiah, Jhe-Wei Chang, Meng&#8208;Dian Tsai, Yi&#8208;Ching Wang, Yi&#8208;Pei Li, Chung&#8208;Wei Kung, Electrochimica acta. None(None)] 2024. https://openalex.org/W4396568607
@@ -406,16 +276,6 @@
       <author>Kaiwei Wan, Hui Wang, Xinghua Shi</author>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01473</guid>
-    </item>
-    <item>
-      <title>Artificial synthesis of polyesters at ambient condition via consecutive CO2 electrolysis and fermentation</title>
-      <link>https://doi.org/10.1007/s12274-024-6658-6</link>
-      <description>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang, Nano research. None(None)] 2024. https://openalex.org/W4396585498
-
-                No abstract</description>
-      <author>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6658-6</guid>
     </item>
     <item>
       <title>In situ exploration of oxygen electrocatalysis using core-shell nanostructure-enhanced Raman spectroscopy</title>
@@ -458,16 +318,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.corsci.2024.112105</guid>
     </item>
     <item>
-      <title>Carbon Corrosion Induced by Surface Defects Accelerates Degradation of Platinum/Graphene Catalysts in Oxygen Reduction Reaction</title>
-      <link>https://doi.org/10.1002/smll.202310940</link>
-      <description>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen, Small. None(None)] 2024. https://openalex.org/W4396614089
-
-                Abstract Graphene supported electrocatalysts have demonstrated remarkable catalytic performance for oxygen reduction reaction (ORR). However, their durability and cycling performance are greatly limited by Oswald ripening of platinum (Pt) and graphene support corrosion. Moreover, comprehensive studies on the mechanisms of catalysts degradation under 0.6&#8211;1.6 V versus RHE (Reversible Hydrogen Electrode) is still lacking. Herein, degradation mechanisms triggered by different defects on graphene supports are investigated by two cycling protocols. In the start&#8211;up/shutdown cycling (1.0&#8211;1.6 V vs. RHE), carbon oxidation reaction (COR) leads to shedding or swarm&#8211;like aggregation of Pt nanoparticles (NPs). Theoretical simulation results show that the expansion of vacancy defects promotes reaction kinetics of the decisive step in COR, reducing its reaction overpotential. While under the load cycling (0.6&#8211;1.0 V vs. RHE), oxygen containing defects lead to an elevated content of Pt in its oxidation state which intensifies Oswald ripening of Pt. The presence of vacancy defects can enhance the transfer of electrons from graphene to the Pt surface, reducing the d&#8722;band center of Pt and making it more difficult for the oxidation state of platinum to form in the cycling. This work will provide comprehensive understanding on Pt/Graphene catalysts degradation mechanisms.</description>
-      <author>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen</author>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310940</guid>
-    </item>
-    <item>
       <title>Tailoring Si12C12 nanocluster with late first-row transition metals: A promising approach during single-atom catalysis toward hydrogen evolution reaction (HER)</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.04.368</link>
       <description>Naveen Kosar, Saira Rafiq, Khurshid Ayub, Muhammad Imran, Tariq Mahmood, International journal of hydrogen energy. 68(None)] 2024. https://openalex.org/W4396615899
@@ -496,16 +346,6 @@
       <author>Liwei Guo, Rui Wang, Qiuhong Li, Jingguo Hu, Jing Pan</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118310</guid>
-    </item>
-    <item>
-      <title>Investigating the Electrocatalytic Oxygen Evolution Reaction of Hydrothermally Synthesized NiFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Nanoparticles</title>
-      <link>https://doi.org/10.1166/sam.2024.4691</link>
-      <description>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi, Science of advanced materials. 16(6)] 2024. https://openalex.org/W4396631293
-
-                In this study, nickel ferrite (NiFe 2 O 4 ) nanoparticles were synthesized using the hydrothermal method at various pH values. The objective was to investigate the influence of pH variation on particle size and electrocatalytic activity. The formation of cubic phase nanoparticles was confirmed through X-ray diffraction (XRD) analysis. To characterize the electrochemical properties, the nickel ferrite nanoparticles were coated onto a stainless steel substrate using the doctor blade technique. The microstructural analysis was conducted using scanning electron microscopy (SEM). The samples were further analyzed using linear sweep voltammetry (LSV) and electrochemical impedance spectroscopy (EIS). The average crystallite size, determined from the XRD pattern, was approximately 40 nm. SEM images revealed a conversion from nanoplates to a granular morphology. The synthesized electrode exhibited an overpotential of 392 mV at 10 mA/cm 2 and demonstrated good stability for 5 hours. These findings highlight the excellent electrocatalytic activity of nickel ferrite nanoparticles for the oxygen evolution reaction (OER).</description>
-      <author>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1166/sam.2024.4691</guid>
     </item>
     <item>
       <title>Intercalated and Surface-Adsorbed Phosphate Anions in NiFe Layered Double-Hydroxide Catalysts Synergistically Enhancing Oxygen Evolution Reaction Activity</title>
@@ -538,14 +378,84 @@
       <guid isPermaLink="true">https://doi.org/10.1002/aic.18469</guid>
     </item>
     <item>
-      <title>Theoretical study on the Cs/Cs-O adsorbed graphene/semiconductor heterojunction anode for thermionic converters</title>
-      <link>https://doi.org/10.1007/s42768-024-00191-5</link>
-      <description>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao, Waste Disposal &amp; Sustainable Energy/Waste disposal &amp; sustainable energy. None(None)] 2024. https://openalex.org/W4396217244
+      <title>DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.4c00795</link>
+      <description>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396512258
 
                 No abstract</description>
-      <author>Wei Sun, Haoran Xu, Hao Qiu, Gang Xiao</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s42768-024-00191-5</guid>
+      <author>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00795</guid>
+    </item>
+    <item>
+      <title>Insights into the Development of Electrocatalysts Based on Information Extracted from Literatures Using Natural Language Processing</title>
+      <link>https://doi.org/10.2139/ssrn.4813130</link>
+      <description>Na Qin, Wei Kuang Lai, Haibiao Chen, No host. None(None)] 2024. https://openalex.org/W4396566466
+
+                No abstract</description>
+      <author>Na Qin, Wei Kuang Lai, Haibiao Chen</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4813130</guid>
+    </item>
+    <item>
+      <title>Artificial synthesis of polyesters at ambient condition via consecutive CO2 electrolysis and fermentation</title>
+      <link>https://doi.org/10.1007/s12274-024-6658-6</link>
+      <description>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang, Nano research. None(None)] 2024. https://openalex.org/W4396585498
+
+                No abstract</description>
+      <author>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6658-6</guid>
+    </item>
+    <item>
+      <title>Carbon Corrosion Induced by Surface Defects Accelerates Degradation of Platinum/Graphene Catalysts in Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1002/smll.202310940</link>
+      <description>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen, Small. None(None)] 2024. https://openalex.org/W4396614089
+
+                Abstract Graphene supported electrocatalysts have demonstrated remarkable catalytic performance for oxygen reduction reaction (ORR). However, their durability and cycling performance are greatly limited by Oswald ripening of platinum (Pt) and graphene support corrosion. Moreover, comprehensive studies on the mechanisms of catalysts degradation under 0.6&#8211;1.6 V versus RHE (Reversible Hydrogen Electrode) is still lacking. Herein, degradation mechanisms triggered by different defects on graphene supports are investigated by two cycling protocols. In the start&#8211;up/shutdown cycling (1.0&#8211;1.6 V vs. RHE), carbon oxidation reaction (COR) leads to shedding or swarm&#8211;like aggregation of Pt nanoparticles (NPs). Theoretical simulation results show that the expansion of vacancy defects promotes reaction kinetics of the decisive step in COR, reducing its reaction overpotential. While under the load cycling (0.6&#8211;1.0 V vs. RHE), oxygen containing defects lead to an elevated content of Pt in its oxidation state which intensifies Oswald ripening of Pt. The presence of vacancy defects can enhance the transfer of electrons from graphene to the Pt surface, reducing the d&#8722;band center of Pt and making it more difficult for the oxidation state of platinum to form in the cycling. This work will provide comprehensive understanding on Pt/Graphene catalysts degradation mechanisms.</description>
+      <author>X.L. Li, Fangyuan Su, Lingling Xie, Yan&#8208;Ru Tian, Zonglin Yi, Jie&#8208;Fei Cheng, Cheng&#8208;Meng Chen</author>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202310940</guid>
+    </item>
+    <item>
+      <title>Investigating the Electrocatalytic Oxygen Evolution Reaction of Hydrothermally Synthesized NiFe&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Nanoparticles</title>
+      <link>https://doi.org/10.1166/sam.2024.4691</link>
+      <description>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi, Science of advanced materials. 16(6)] 2024. https://openalex.org/W4396631293
+
+                In this study, nickel ferrite (NiFe 2 O 4 ) nanoparticles were synthesized using the hydrothermal method at various pH values. The objective was to investigate the influence of pH variation on particle size and electrocatalytic activity. The formation of cubic phase nanoparticles was confirmed through X-ray diffraction (XRD) analysis. To characterize the electrochemical properties, the nickel ferrite nanoparticles were coated onto a stainless steel substrate using the doctor blade technique. The microstructural analysis was conducted using scanning electron microscopy (SEM). The samples were further analyzed using linear sweep voltammetry (LSV) and electrochemical impedance spectroscopy (EIS). The average crystallite size, determined from the XRD pattern, was approximately 40 nm. SEM images revealed a conversion from nanoplates to a granular morphology. The synthesized electrode exhibited an overpotential of 392 mV at 10 mA/cm 2 and demonstrated good stability for 5 hours. These findings highlight the excellent electrocatalytic activity of nickel ferrite nanoparticles for the oxygen evolution reaction (OER).</description>
+      <author>S. M. Bodhale, Guruprasad A. Bhinge, Abhijit Gurav, A.D. Teli, N.N. Kengar, A. R. Vedante, Pravin Jadhav, M.M. Abdullah, Hasan B. Albargi, Jari S. Algethami, Preeti Singh, C.M. Kanamadi</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1166/sam.2024.4691</guid>
+    </item>
+    <item>
+      <title>Adsorption model for atoms and molecules on doped semiconducting oxides</title>
+      <link>https://doi.org/10.1103/physrevb.109.195416</link>
+      <description>Abhinav S. Raman, Colin Lehman-Chong, Aleksandra Vojvodi&#263;, Physical review. B./Physical review. B. 109(19)] 2024. https://openalex.org/W4396670358
+
+                No abstract</description>
+      <author>Abhinav S. Raman, Colin Lehman-Chong, Aleksandra Vojvodi&#263;</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.195416</guid>
+    </item>
+    <item>
+      <title>Synergistic role of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mi&gt;p&lt;/mml:mi&gt;&lt;mml:mtext&gt;&#8722;&lt;/mml:mtext&gt;&lt;mml:mi&gt;d&lt;/mml:mi&gt;&lt;/mml:math&gt; hybridization and magnetism in enhanced water splitting on ferromagnetic &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mn&gt;1&lt;/mml:mn&gt;&lt;mml:mi&gt;T&lt;/mml:mi&gt;&lt;/mml:math&gt; transition metal dichalcogenides</title>
+      <link>https://doi.org/10.1103/physrevb.109.195414</link>
+      <description>Y.-C. T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui, Physical review. B./Physical review. B. 109(19)] 2024. https://openalex.org/W4396670694
+
+                No abstract</description>
+      <author>Y.-C. T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.195414</guid>
+    </item>
+    <item>
+      <title>Recent advances in electrocatalysts for efficient hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1007/s12598-024-02649-1</link>
+      <description>Hongbin He, D. John, Kunsong Hu, Hanqing Yu, Zhen-Guo Zhang, Feng Zhao, Xinhua Liu, Rare metals/Rare Metals. None(None)] 2024. https://openalex.org/W4396672638
+
+                No abstract</description>
+      <author>Hongbin He, D. John, Kunsong Hu, Hanqing Yu, Zhen-Guo Zhang, Feng Zhao, Xinhua Liu</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02649-1</guid>
     </item>
     <item>
       <title>Facile Fabrication and Characterization of Amine-Functional Silica Coated Magnetic Iron Oxide Nanoparticles for Aqueous Carbon Dioxide Adsorption</title>

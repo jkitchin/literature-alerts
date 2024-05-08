@@ -1,21 +1,10 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Tue May  7 01:04:39 2024
+Created on Wed May  8 00:53:58 2024
 
-Found 3 results from 2024-04-30 to 2024-05-07
+Found 2 results from 2024-05-01 to 2024-05-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
-
-## Dynamic dual-atom synergetic catalysis boosted by liquid metal for direct seawater electroreduction   
-
-OpenAlex: https://openalex.org/W4396233717    
-Open access: False
-    
-[Haoxuan Li](https://openalex.org/A5014946491), [Jinghui Wang](https://openalex.org/A5041690571), [Mei Cui](https://openalex.org/A5071490133), [Renliang Huang](https://openalex.org/A5059124969), [Wei Qi](https://openalex.org/A5071933793), [Rongxin Su](https://openalex.org/A5050124317), Journal of materials chemistry. A. None(None)] 2024.https://doi.org/10.1039/d4ta01464b.
-    
-Ga based liquid metal is an ideal matrix to dissolve and disperse other metal atoms for catalysis. Seawater electrolysis is a promising alternative technology for hydrogen production in the crisis...    
-
-    
 
 ## Let it Flow: Emergence of Liquid Metals   
 

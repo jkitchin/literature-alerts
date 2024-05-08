@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue May  7 01:04:41 2024
+Created on Wed May  8 00:54:01 2024
 
-Found 34 results from 2024-04-30 to 2024-05-07
+Found 31 results from 2024-05-01 to 2024-05-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Importance of Dynamic Effects in Isobutanol to Linear Butene Conversion Catalyzed by Acid Zeolites Assessed by AIMD   
-
-OpenAlex: https://openalex.org/W4396213937    
-Open access: False
-    
-[Monika Gešvandtnerová](https://openalex.org/A5050240887), [Pascal Raybaud](https://openalex.org/A5025383238), [Céline Chizallet](https://openalex.org/A5014892353), [Tomáš Bučko](https://openalex.org/A5034219138), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00736.
-    
-Dehydration of alcohols into alkenes is a key reaction for the production of fuels and chemicals from biomass. However, the mechanism of these reactions is highly questionable, hindering the rational optimization of efficient catalysts. In the present work, the formation of linear butenes starting from isobutanol catalyzed by proton-exchanged zeolites is unraveled by ab initio molecular dynamics (AIMD). Comparison with static calculations done for a gas phase reaction catalyzed by a proton and for the prototypical chabazite zeolite framework shows that AIMD estimations of the free energy barriers are significantly different from the static ones. Moreover, a common transition state (TS) is found for two competing reactions, namely, the isomerization of isobutanol into butan-2-ol (the dehydration of the latter yielding linear butenes) and the synchronous dehydration and isomerization of isobutanol into products related to linear butenes in a single step. The existence of a post-TS bifurcation prevents a traditional estimation of rates by transition state theory. To circumvent this problem, we quantify relative transmission coefficients using the Bennett–Chandler theory, which shows a clear tendency for decrease of relative frequency for isobutanol isomerization and increase of that for synchronous dehydration and isomerization when switching from 100 to 500 K. This work represents a step forward for the accurate determination of rates for key reactions in alcohol dehydration reactions.    
-
-    
-
-## Structural Changes of Ni and Ni–Pt Methane Steam Reforming Catalysts During Activation, Reaction, and Deactivation Under Dynamic Reaction Conditions   
-
-OpenAlex: https://openalex.org/W4396214752    
-Open access: True
-    
-[Enrico Tusini](https://openalex.org/A5094049338), [Maria Casapu](https://openalex.org/A5031940450), [Anna Zimina](https://openalex.org/A5029588744), [Dmitry E. Doronkin](https://openalex.org/A5057633647), [Heike Störmer](https://openalex.org/A5019720361), [Laurent Barthe](https://openalex.org/A5060346971), [Stéphanie Belin](https://openalex.org/A5033824332), [Jan‐Dierk Grunwaldt](https://openalex.org/A5070286324), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05847.
-    
-No abstract    
-
-    
-
-## Mechanistic Insights on the Challenging Trifluoromethylation of Ni(II)   
-
-OpenAlex: https://openalex.org/W4396219028    
-Open access: False
-    
-[Mathilde Rigoulet](https://openalex.org/A5080257262), [Sebastian Wellig](https://openalex.org/A5047544821), [Franziska Schoenebeck](https://openalex.org/A5047300640), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00907.
-    
-No abstract    
-
-    
-
-## Engineering Peroxygenase Activity into Cytochrome P450 Monooxygenases through Modification of the Oxygen Binding Region   
-
-OpenAlex: https://openalex.org/W4396219751    
-Open access: False
-    
-[Matthew N. Podgorski](https://openalex.org/A5002764123), [Jinia Akter](https://openalex.org/A5077851131), [Luke R. Churchman](https://openalex.org/A5026387564), [John B. Bruning](https://openalex.org/A5063368213), [James J. De Voss](https://openalex.org/A5018549180), [Stephen Bell](https://openalex.org/A5027128497), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01326.
-    
-No abstract    
-
-    
-
-## Volcano-Shaped Correlation Dictated Superior Activity for Ultralow Al-Doped Iron Oxide toward High-Temperature Water–Gas Shift Reaction   
-
-OpenAlex: https://openalex.org/W4396220980    
-Open access: False
-    
-[Binbin Qian](https://openalex.org/A5025532202), [Yan Xue](https://openalex.org/A5019616292), [Sasha Yang](https://openalex.org/A5007992870), [Jianghao Zhang](https://openalex.org/A5084986359), [Cheng Liu](https://openalex.org/A5042026897), [Zongtang Liu](https://openalex.org/A5078602177), [Zhenghao Fei](https://openalex.org/A5072559438), [Baiqian Dai](https://openalex.org/A5003506586), [Jefferson Zhe Liu](https://openalex.org/A5023896908), [Yong Wang](https://openalex.org/A5066102428), [Lian Zhang](https://openalex.org/A5077360657), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01403.
-    
-No abstract    
-
-    
-
-## Structural Effects of FeN4 Active Sites Surrounded by Fourteen-Membered Ring Ligands on Oxygen Reduction Reaction Activity and Durability   
-
-OpenAlex: https://openalex.org/W4396222845    
-Open access: False
-    
-[Zhiqing Feng](https://openalex.org/A5070572571), [Shizuyo Honda](https://openalex.org/A5016997455), [Junya Ohyama](https://openalex.org/A5023127226), [Y. Iwata](https://openalex.org/A5079304908), [Keisuke Awaya](https://openalex.org/A5063143560), [Hiroshi Yoshida](https://openalex.org/A5090747333), [Masato Machida](https://openalex.org/A5013139214), [Kõtarõ Higashi](https://openalex.org/A5083848806), [Tomoya Uruga](https://openalex.org/A5018823705), [N. Kawamura](https://openalex.org/A5086036089), [Ryota Goto](https://openalex.org/A5043156415), [Takeo Ichihara](https://openalex.org/A5076217195), [Ryoichi Kojima](https://openalex.org/A5058060139), [Makoto Moriya](https://openalex.org/A5084453278), [Hideo Notsu](https://openalex.org/A5083768147), [Seiji Nagata](https://openalex.org/A5085533649), [Manabu Miyoshi](https://openalex.org/A5033031749), [Teruaki Hayakawa](https://openalex.org/A5037552153), [Yuta Nabae](https://openalex.org/A5017398992), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01122.
-    
-FeN4 active sites have been studied as non-Pt group metal (non-PGM) catalysts for the oxygen reduction reaction (ORR). The authors recently developed Fe(II) 1,14:7,8-ditethenotetrapyrido-[2,1,6-de:2′,1′6′-gh:2″,1″,6″-na][1,3,5,8,10,12] hexaazacyclotetradecine (Fe-14MR) as an FeN4 complex incorporating a 14-membered ring. This complex exhibited higher ORR activity and greater durability than Fe phthalocyanine, a conventional FeN4 complex having a 16-membered ring. In the present study, the ORR activity and durability of this Fe-14MR complex supported on C (Fe-14MR/C) were enhanced through modification of the active site structure by heating at 600 °C and removing protons on amine groups in the Fe-14MR. Density functional theory calculations indicated that the Fe-14MR/C structure generated by heating resulted in oxygen species absorption energies close to optimal values for the ORR. The improved durability of the heat-treated Fe-14MR/C was attributed to reduced distortion of the FeN4 sites. The results suggest that designing Fe-14MR structures can be a promising approach to developing non-PGM catalysts.    
-
-    
 
 ## Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts   
 
@@ -78,17 +12,6 @@ OpenAlex: https://openalex.org/W4396495696
 Open access: True
     
 [Helena G. Lancaster](https://openalex.org/A5095942412), [Joe C. Goodall](https://openalex.org/A5092450368), [Stephen P. Douglas](https://openalex.org/A5015352080), [Laura J. Ashfield](https://openalex.org/A5011487519), [Simon B. Duckett](https://openalex.org/A5029907890), [Robin N. Perutz](https://openalex.org/A5052437108), [Andrew S. Weller](https://openalex.org/A5031577471), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01353 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01353)).
-    
-No abstract    
-
-    
-
-## Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO2 Conversion   
-
-OpenAlex: https://openalex.org/W4396495893    
-Open access: False
-    
-[Wangzhong Tang](https://openalex.org/A5029286788), [Jie Meng](https://openalex.org/A5085838387), [Tao Ding](https://openalex.org/A5022960964), [Haisen Huang](https://openalex.org/A5086799705), [Chuntian Tan](https://openalex.org/A5012994917), [Qiuzi Zhong](https://openalex.org/A5088840244), [Heng Cao](https://openalex.org/A5079800526), [Qunxiang Li](https://openalex.org/A5080298787), [Xiuli Xu](https://openalex.org/A5076516883), [Jinlong Yang](https://openalex.org/A5059515778), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01020.
     
 No abstract    
 
@@ -113,17 +36,6 @@ Open access: False
 [Qi Hua](https://openalex.org/A5058756311), [Xinyi Chen](https://openalex.org/A5056996131), [Junfeng Chen](https://openalex.org/A5024151119), [Nawal M. Alghoraibi](https://openalex.org/A5068906782), [Yoon Min Lee](https://openalex.org/A5066631469), [Toby J. Woods](https://openalex.org/A5089408235), [Richard T. Haasch](https://openalex.org/A5069497115), [Steven C. Zimmerman](https://openalex.org/A5052747722), [Andrew A. Gewirth](https://openalex.org/A5021345935), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01244.
     
 We investigate an approach to tune the d-band center and enhance the oxygen reduction reaction (ORR) activity of Pt material without relying on foreign metals or the process of alloying/dealloying. It is known that Pt exhibits suboptimal ORR catalytic activity due to its strong binding to oxygen, therefore requiring a downshift in the d-band center by approximately 0.2 eV to weaken the Pt-O binding energy and boost ORR kinetics. We found that the d-band center can be tuned by inducing microstrain in the Pt electrodeposit, simply achieved by introducing polymer into the electrodeposition bath. Pt electrodes (Pt-P1 and Pt-PLA) prepared with the addition of poly-N-(6-aminohexyl)acrylamide (P1) or poly-l-arginine (PLA) exhibit improved ORR activity compared to Pt electrodeposited without polymer addition (Pt-alone) in both acidic and basic environments, with the order of activity being Pt-P1 > Pt-PLA > Pt-alone. Pt-P1 exhibits a positive shift of E1/2 by 90 mV vs Pt-alone in basic solution, comparable to other reported high-activity ORR catalysts. Scanning electron microscopy shows the presence of agglomerates with diameters between 5 and 20 μm and tip-splitting growth structure due to diffusion-limited aggregation on Pt-P1 and Pt-PLA. Characterization using X-ray photoemission spectroscopy and X-ray diffraction, combined with Rietveld refinement analysis reveal a trend of downshifted d-band center, increased microstrain, and slightly increased compressive strain as the ORR activity increased among the three catalysts. The presence of more defective sites on Pt-P1 and Pt-PLA is the cause of the increased microstrain, which further leads to the downshift of the Pt d-band center and enhancement of ORR activity.    
-
-    
-
-## DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells   
-
-OpenAlex: https://openalex.org/W4396512258    
-Open access: False
-    
-[Yi Qin](https://openalex.org/A5058242512), [Cheng‐Hao Chuang](https://openalex.org/A5004281262), [XIA LIU](https://openalex.org/A5027316216), [Xian Liang](https://openalex.org/A5029586830), [Linfeng Xie](https://openalex.org/A5061586663), [Kuan Wang](https://openalex.org/A5052596733), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Yang Liu](https://openalex.org/A5023363049), [Yawei Chen](https://openalex.org/A5018908218), [Zhijun Lei](https://openalex.org/A5017887421), [Pengfei Yan](https://openalex.org/A5086670941), [Liang Wu](https://openalex.org/A5032909422), [Shuhong Jiao](https://openalex.org/A5015840376), [Qing Li](https://openalex.org/A5082989757), [Ruiguo Cao](https://openalex.org/A5047801680), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00795.
-    
-No abstract    
 
     
 
@@ -369,6 +281,17 @@ The complex [Co(CR)Br2]+, where CR is the redox-active macrocycle 2,12-dimethyl-
 
     
 
+## Methane Activation through Single-Electron Transfer from Water Molecules to the Surface States of Semiconductor Photocatalysts   
+
+OpenAlex: https://openalex.org/W4396636838    
+Open access: False
+    
+[Fumiaki Amano](https://openalex.org/A5089839552), [Kosuke Beppu](https://openalex.org/A5001287498), [Yoshihisa Sakata](https://openalex.org/A5014637717), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00984.
+    
+No abstract    
+
+    
+
 ## Tailoring Catalytic and Oxygen Release Capability in LaFe1–xNixO3 to Intensify Chemical Looping Reactions at Medium Temperatures   
 
 OpenAlex: https://openalex.org/W4396645619    
@@ -377,5 +300,49 @@ Open access: False
 [Rongjiang Zhang](https://openalex.org/A5029507882), [Gen Liu](https://openalex.org/A5005616906), [Chunyong Huo](https://openalex.org/A5058806165), [Lijun Jia](https://openalex.org/A5057409480), [Bo Zhang](https://openalex.org/A5018371876), [Bolun Yang](https://openalex.org/A5079262155), [Xiaoyong Tian](https://openalex.org/A5058329611), [Zhiqiang Wu](https://openalex.org/A5091909594), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01386.
     
 Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
+
+    
+
+## Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO2 Conversion   
+
+OpenAlex: https://openalex.org/W4396495893    
+Open access: False
+    
+[Wangzhong Tang](https://openalex.org/A5029286788), [Jie Meng](https://openalex.org/A5085838387), [Tao Ding](https://openalex.org/A5022960964), [Haisen Huang](https://openalex.org/A5086799705), [Chuntian Tan](https://openalex.org/A5012994917), [Qiuzi Zhong](https://openalex.org/A5088840244), [Heng Cao](https://openalex.org/A5079800526), [Qunxiang Li](https://openalex.org/A5080298787), [Xiuli Xu](https://openalex.org/A5076516883), [Jinlong Yang](https://openalex.org/A5059515778), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01020.
+    
+No abstract    
+
+    
+
+## DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells   
+
+OpenAlex: https://openalex.org/W4396512258    
+Open access: False
+    
+[Yi Qin](https://openalex.org/A5058242512), [Cheng‐Hao Chuang](https://openalex.org/A5004281262), [XIA LIU](https://openalex.org/A5027316216), [Xian Liang](https://openalex.org/A5029586830), [Linfeng Xie](https://openalex.org/A5061586663), [Kuan Wang](https://openalex.org/A5052596733), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Yang Liu](https://openalex.org/A5023363049), [Yawei Chen](https://openalex.org/A5018908218), [Zhijun Lei](https://openalex.org/A5017887421), [Pengfei Yan](https://openalex.org/A5086670941), [Liang Wu](https://openalex.org/A5032909422), [Shuhong Jiao](https://openalex.org/A5015840376), [Qing Li](https://openalex.org/A5082989757), [Ruiguo Cao](https://openalex.org/A5047801680), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00795.
+    
+No abstract    
+
+    
+
+## Local Electric Fields Drives the Proton-Coupled Electron Transfer within Cytochrome P450 Reductase   
+
+OpenAlex: https://openalex.org/W4396665466    
+Open access: False
+    
+[Ningning Li](https://openalex.org/A5036427905), [Shengheng Yan](https://openalex.org/A5010404542), [Peng Wu](https://openalex.org/A5001327917), [Junfeng Li](https://openalex.org/A5082789515), [Binju Wang](https://openalex.org/A5091278358), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02215.
+    
+No abstract    
+
+    
+
+## Intermolecular Allene–Alkyne Coupling: A Significantly Useful Synthetic Transformation   
+
+OpenAlex: https://openalex.org/W4396668677    
+Open access: False
+    
+[Tapas R. Pradhan](https://openalex.org/A5039431779), [Jin Kyoon Park](https://openalex.org/A5018404564), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01333.
+    
+No abstract    
 
     

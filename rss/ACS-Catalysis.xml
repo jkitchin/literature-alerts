@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 May 2024 01:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:54:01 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Importance of Dynamic Effects in Isobutanol to Linear Butene Conversion Catalyzed by Acid Zeolites Assessed by AIMD</title>
-      <link>https://doi.org/10.1021/acscatal.4c00736</link>
-      <description>Monika Ge&#353;vandtnerov&#225;, Pascal Raybaud, C&#233;line Chizallet, Tom&#225;&#353; Bu&#269;ko, ACS catalysis. None(None)] 2024. https://openalex.org/W4396213937
-
-                Dehydration of alcohols into alkenes is a key reaction for the production of fuels and chemicals from biomass. However, the mechanism of these reactions is highly questionable, hindering the rational optimization of efficient catalysts. In the present work, the formation of linear butenes starting from isobutanol catalyzed by proton-exchanged zeolites is unraveled by ab initio molecular dynamics (AIMD). Comparison with static calculations done for a gas phase reaction catalyzed by a proton and for the prototypical chabazite zeolite framework shows that AIMD estimations of the free energy barriers are significantly different from the static ones. Moreover, a common transition state (TS) is found for two competing reactions, namely, the isomerization of isobutanol into butan-2-ol (the dehydration of the latter yielding linear butenes) and the synchronous dehydration and isomerization of isobutanol into products related to linear butenes in a single step. The existence of a post-TS bifurcation prevents a traditional estimation of rates by transition state theory. To circumvent this problem, we quantify relative transmission coefficients using the Bennett&#8211;Chandler theory, which shows a clear tendency for decrease of relative frequency for isobutanol isomerization and increase of that for synchronous dehydration and isomerization when switching from 100 to 500 K. This work represents a step forward for the accurate determination of rates for key reactions in alcohol dehydration reactions.</description>
-      <author>Monika Ge&#353;vandtnerov&#225;, Pascal Raybaud, C&#233;line Chizallet, Tom&#225;&#353; Bu&#269;ko</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00736</guid>
-    </item>
-    <item>
-      <title>Structural Changes of Ni and Ni&#8211;Pt Methane Steam Reforming Catalysts During Activation, Reaction, and Deactivation Under Dynamic Reaction Conditions</title>
-      <link>https://doi.org/10.1021/acscatal.3c05847</link>
-      <description>Enrico Tusini, Maria Casapu, Anna Zimina, Dmitry E. Doronkin, Heike St&#246;rmer, Laurent Barthe, St&#233;phanie Belin, Jan&#8208;Dierk Grunwaldt, ACS catalysis. None(None)] 2024. https://openalex.org/W4396214752
-
-                No abstract</description>
-      <author>Enrico Tusini, Maria Casapu, Anna Zimina, Dmitry E. Doronkin, Heike St&#246;rmer, Laurent Barthe, St&#233;phanie Belin, Jan&#8208;Dierk Grunwaldt</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05847</guid>
-    </item>
-    <item>
-      <title>Mechanistic Insights on the Challenging Trifluoromethylation of Ni&lt;sup&gt;(II)&lt;/sup&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00907</link>
-      <description>Mathilde Rigoulet, Sebastian Wellig, Franziska Schoenebeck, ACS catalysis. None(None)] 2024. https://openalex.org/W4396219028
-
-                No abstract</description>
-      <author>Mathilde Rigoulet, Sebastian Wellig, Franziska Schoenebeck</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00907</guid>
-    </item>
-    <item>
-      <title>Engineering Peroxygenase Activity into Cytochrome P450 Monooxygenases through Modification of the Oxygen Binding Region</title>
-      <link>https://doi.org/10.1021/acscatal.4c01326</link>
-      <description>Matthew N. Podgorski, Jinia Akter, Luke R. Churchman, John B. Bruning, James J. De Voss, Stephen Bell, ACS catalysis. None(None)] 2024. https://openalex.org/W4396219751
-
-                No abstract</description>
-      <author>Matthew N. Podgorski, Jinia Akter, Luke R. Churchman, John B. Bruning, James J. De Voss, Stephen Bell</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01326</guid>
-    </item>
-    <item>
-      <title>Volcano-Shaped Correlation Dictated Superior Activity for Ultralow Al-Doped Iron Oxide toward High-Temperature Water&#8211;Gas Shift Reaction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01403</link>
-      <description>Binbin Qian, Yan Xue, Sasha Yang, Jianghao Zhang, Cheng Liu, Zongtang Liu, Zhenghao Fei, Baiqian Dai, Jefferson Zhe Liu, Yong Wang, Lian Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396220980
-
-                No abstract</description>
-      <author>Binbin Qian, Yan Xue, Sasha Yang, Jianghao Zhang, Cheng Liu, Zongtang Liu, Zhenghao Fei, Baiqian Dai, Jefferson Zhe Liu, Yong Wang, Lian Zhang</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01403</guid>
-    </item>
-    <item>
-      <title>Structural Effects of FeN&lt;sub&gt;4&lt;/sub&gt; Active Sites Surrounded by Fourteen-Membered Ring Ligands on Oxygen Reduction Reaction Activity and Durability</title>
-      <link>https://doi.org/10.1021/acscatal.4c01122</link>
-      <description>Zhiqing Feng, Shizuyo Honda, Junya Ohyama, Y. Iwata, Keisuke Awaya, Hiroshi Yoshida, Masato Machida, K&#245;tar&#245; Higashi, Tomoya Uruga, N. Kawamura, Ryota Goto, Takeo Ichihara, Ryoichi Kojima, Makoto Moriya, Hideo Notsu, Seiji Nagata, Manabu Miyoshi, Teruaki Hayakawa, Yuta Nabae, ACS catalysis. None(None)] 2024. https://openalex.org/W4396222845
-
-                FeN4 active sites have been studied as non-Pt group metal (non-PGM) catalysts for the oxygen reduction reaction (ORR). The authors recently developed Fe(II) 1,14:7,8-ditethenotetrapyrido-[2,1,6-de:2&#8242;,1&#8242;6&#8242;-gh:2&#8243;,1&#8243;,6&#8243;-na][1,3,5,8,10,12] hexaazacyclotetradecine (Fe-14MR) as an FeN4 complex incorporating a 14-membered ring. This complex exhibited higher ORR activity and greater durability than Fe phthalocyanine, a conventional FeN4 complex having a 16-membered ring. In the present study, the ORR activity and durability of this Fe-14MR complex supported on C (Fe-14MR/C) were enhanced through modification of the active site structure by heating at 600 &#176;C and removing protons on amine groups in the Fe-14MR. Density functional theory calculations indicated that the Fe-14MR/C structure generated by heating resulted in oxygen species absorption energies close to optimal values for the ORR. The improved durability of the heat-treated Fe-14MR/C was attributed to reduced distortion of the FeN4 sites. The results suggest that designing Fe-14MR structures can be a promising approach to developing non-PGM catalysts.</description>
-      <author>Zhiqing Feng, Shizuyo Honda, Junya Ohyama, Y. Iwata, Keisuke Awaya, Hiroshi Yoshida, Masato Machida, K&#245;tar&#245; Higashi, Tomoya Uruga, N. Kawamura, Ryota Goto, Takeo Ichihara, Ryoichi Kojima, Makoto Moriya, Hideo Notsu, Seiji Nagata, Manabu Miyoshi, Teruaki Hayakawa, Yuta Nabae</author>
-      <pubDate>Sun, 28 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01122</guid>
-    </item>
     <item>
       <title>Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c01353</link>
@@ -76,16 +16,6 @@
       <author>Helena G. Lancaster, Joe C. Goodall, Stephen P. Douglas, Laura J. Ashfield, Simon B. Duckett, Robin N. Perutz, Andrew S. Weller</author>
       <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01353</guid>
-    </item>
-    <item>
-      <title>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.4c01020</link>
-      <description>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396495893
-
-                No abstract</description>
-      <author>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01020</guid>
     </item>
     <item>
       <title>Catalytic Consequences of Hierarchical Pore Architectures within MFI and FAU Zeolites for Polyethylene Conversion</title>
@@ -106,16 +36,6 @@
       <author>Qi Hua, Xinyi Chen, Junfeng Chen, Nawal M. Alghoraibi, Yoon Min Lee, Toby J. Woods, Richard T. Haasch, Steven C. Zimmerman, Andrew A. Gewirth</author>
       <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01244</guid>
-    </item>
-    <item>
-      <title>DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.4c00795</link>
-      <description>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396512258
-
-                No abstract</description>
-      <author>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00795</guid>
     </item>
     <item>
       <title>Boosting Catalytic Performance of Cytochrome &lt;i&gt;c&lt;/i&gt; through Tailored Carboxymethylation in Covalent Organic Frameworks</title>
@@ -338,6 +258,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05583</guid>
     </item>
     <item>
+      <title>Methane Activation through Single-Electron Transfer from Water Molecules to the Surface States of Semiconductor Photocatalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00984</link>
+      <description>Fumiaki Amano, Kosuke Beppu, Yoshihisa Sakata, ACS catalysis. None(None)] 2024. https://openalex.org/W4396636838
+
+                No abstract</description>
+      <author>Fumiaki Amano, Kosuke Beppu, Yoshihisa Sakata</author>
+      <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00984</guid>
+    </item>
+    <item>
       <title>Tailoring Catalytic and Oxygen Release Capability in LaFe&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ni&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; to Intensify Chemical Looping Reactions at Medium Temperatures</title>
       <link>https://doi.org/10.1021/acscatal.4c01386</link>
       <description>Rongjiang Zhang, Gen Liu, Chunyong Huo, Lijun Jia, Bo Zhang, Bolun Yang, Xiaoyong Tian, Zhiqiang Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396645619
@@ -346,6 +276,46 @@
       <author>Rongjiang Zhang, Gen Liu, Chunyong Huo, Lijun Jia, Bo Zhang, Bolun Yang, Xiaoyong Tian, Zhiqiang Wu</author>
       <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01386</guid>
+    </item>
+    <item>
+      <title>Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO&lt;sub&gt;2&lt;/sub&gt; Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01020</link>
+      <description>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396495893
+
+                No abstract</description>
+      <author>Wangzhong Tang, Jie Meng, Tao Ding, Haisen Huang, Chuntian Tan, Qiuzi Zhong, Heng Cao, Qunxiang Li, Xiuli Xu, Jinlong Yang</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01020</guid>
+    </item>
+    <item>
+      <title>DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells</title>
+      <link>https://doi.org/10.1021/acscatal.4c00795</link>
+      <description>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396512258
+
+                No abstract</description>
+      <author>Yi Qin, Cheng&#8208;Hao Chuang, XIA LIU, Xian Liang, Linfeng Xie, Kuan Wang, Chih&#8208;Wen Pao, Ying&#8208;Rui Lu, Yang Liu, Yawei Chen, Zhijun Lei, Pengfei Yan, Liang Wu, Shuhong Jiao, Qing Li, Ruiguo Cao</author>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00795</guid>
+    </item>
+    <item>
+      <title>Local Electric Fields Drives the Proton-Coupled Electron Transfer within Cytochrome P450 Reductase</title>
+      <link>https://doi.org/10.1021/acscatal.4c02215</link>
+      <description>Ningning Li, Shengheng Yan, Peng Wu, Junfeng Li, Binju Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396665466
+
+                No abstract</description>
+      <author>Ningning Li, Shengheng Yan, Peng Wu, Junfeng Li, Binju Wang</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02215</guid>
+    </item>
+    <item>
+      <title>Intermolecular Allene&#8211;Alkyne Coupling: A Significantly Useful Synthetic Transformation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01333</link>
+      <description>Tapas R. Pradhan, Jin Kyoon Park, ACS catalysis. None(None)] 2024. https://openalex.org/W4396668677
+
+                No abstract</description>
+      <author>Tapas R. Pradhan, Jin Kyoon Park</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01333</guid>
     </item>
   </channel>
 </rss>

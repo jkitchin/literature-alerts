@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 07 May 2024 01:04:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 00:54:00 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,16 +26,6 @@
       <author>Junting Li, Xin Yuan, Fuping Tian, Min Wang, Tao Hu, Guang Xiong, Xiang Wang</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcata.2024.119781</guid>
-    </item>
-    <item>
-      <title>Evolution of Oxygen Vacancy Sites in Ceria-Based High-Entropy Oxides and Their Role in N&lt;sub&gt;2&lt;/sub&gt; Activation</title>
-      <link>https://doi.org/10.1021/acsami.3c16521</link>
-      <description>Omer Elmutasim, Aseel Gamal Suliman Hussien, Abhishek Sharan, Sara AlKhoori, Michalis A. Vasiliades, Inas Taha, Seok&#8208;Jin Kim, Messaoud Harfouche, Abdul&#8208;Hamid Emwas, Dalaver H. Anjum, Angelos M. Efstathiou, Cafer T. Yavuz, Nirpendra Singh, Kyriaki Polychronopoulou, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4396215458
-
-                In this work, a relatively new class of materials, rare earth (RE) based high entropy oxides (HEO) are discussed in terms of the evolution of the oxygen vacant sites (Ov) content in their structure as the composition changes from binary to HEO using both experimental and computational tools; the composition of HEO under focus is the CeLaPrSmGdO due to the importance of ceria-related (fluorite) materials to catalysis. To unveil key features of quinary HEO structure, ceria-based binary CePrO and CeLaO compositions as well as SiO2, the latter as representative nonreducible oxide, were used and compared as supports for Ru (6 wt % loading). The role of the Ov in the HEO is highlighted for the ammonia production with particular emphasis on the N2 dissociation step (N2(ads) &#8594; Nads) over a HEO; the latter step is considered the rate controlling one in the ammonia production. Density functional theory (DFT) calculations and 18O2 transient isotopic experiments were used to probe the energy of formation, the population, and the easiness of formation for the Ov at 650 and 800 &#176;C, whereas Synchrotron EXAFS, Raman, EPR, and XPS probed the Ce-O chemical environment at different length scales. In particular, it was found that the particular HEO composition eases the Ov formation in bulk, in medium (Raman), and in short (localized) order (EPR); more Ov population was found on the surface of the HEO compared to the binary reference oxide (CePrO). Additionally, HEO gives rise to smaller and less sharp faceted Ru particles, yet in stronger interaction with the HEO support and abundance of Ru-O-Ce entities (Raman and XPS). Ammonia production reaction at 400 &#176;C and in the 10-50 bar range was performed over Ru/HEO, Ru/CePrO, Ru/CeLaO, and Ru/SiO2 catalysts; the Ru/HEO had superior performance at 10 bar compared to the rest of catalysts. The best performing Ru/HEO catalyst was activated under different temperatures (650 vs 800 &#176;C) so to adjust the Ov population with the lower temperature maintaining better performance for the catalyst. DFT calculations showed that the HEO active site for N adsorption involves the Ov site adjacent to the adsorption event.</description>
-      <author>Omer Elmutasim, Aseel Gamal Suliman Hussien, Abhishek Sharan, Sara AlKhoori, Michalis A. Vasiliades, Inas Taha, Seok&#8208;Jin Kim, Messaoud Harfouche, Abdul&#8208;Hamid Emwas, Dalaver H. Anjum, Angelos M. Efstathiou, Cafer T. Yavuz, Nirpendra Singh, Kyriaki Polychronopoulou</author>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c16521</guid>
     </item>
   </channel>
 </rss>

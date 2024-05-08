@@ -1,8 +1,8 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Tue May  7 01:04:40 2024
+Created on Wed May  8 00:54:00 2024
 
-Found 3 results from 2024-04-30 to 2024-05-07
+Found 2 results from 2024-05-01 to 2024-05-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
@@ -45,26 +45,5 @@ OpenAlex: https://openalex.org/W4396655940 (Open access: False)
 [[https://openalex.org/A5020561814][Junting Li]], [[https://openalex.org/A5087073100][Xin Yuan]], [[https://openalex.org/A5062691210][Fuping Tian]], [[https://openalex.org/A5054627070][Min Wang]], [[https://openalex.org/A5001755416][Tao Hu]], [[https://openalex.org/A5067863644][Guang Xiong]], [[https://openalex.org/A5044936528][Xiang Wang]], Applied catalysis. A, General. None(None)] 2024. https://doi.org/10.1016/j.apcata.2024.119781 
      
 High-entropy oxides (HEOs) have garnered significant attention in catalysis due to their excellent redox properties and superior stability. In this study, we prepared and investigated a high-entropy oxide, Cu1Zn1Al0.5Ce5Zr0.5Ox, to elucidate the impact of oxygen vacancy density on the CO2 hydrogenation reaction. Comparisons were made with binary or ternary solid solutions composed of the same cations present in this HEO, and possessing the same phase structure. The HEO exhibits a higher surface oxygen vacancy density as evidenced by Raman spectroscopy and XPS. The increased number of oxygen vacancies significantly increases the active sites and enhances the strength for CO2 adsorption. Combined with kinetic analysis, it is suggested that the enhanced CO2 adsorption leads to improved CO2 conversion on the HEO. Moreover, the formation of oxygen vacancies facilitates H2 dissociation and supply, which is pivotal for methanol formation on the HEO. The stability of the HEO Cu1Zn1Al0.5Ce5Zr0.5Ox surpasses that of the medium entropy oxide, showing no significant deactivation after 100 hours of reaction.    
-
-    
-
-* Evolution of Oxygen Vacancy Sites in Ceria-Based High-Entropy Oxides and Their Role in N2 Activation  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396215458
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Solid Oxide Fuel Cells
-:PUBLICATION_DATE: 2024-04-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.3c16521")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396215458"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396215458"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396215458"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396215458 (Open access: True)
-    
-[[https://openalex.org/A5062810492][Omer Elmutasim]], [[https://openalex.org/A5000917380][Aseel Gamal Suliman Hussien]], [[https://openalex.org/A5031495778][Abhishek Sharan]], [[https://openalex.org/A5031015784][Sara AlKhoori]], [[https://openalex.org/A5014177788][Michalis A. Vasiliades]], [[https://openalex.org/A5036320221][Inas Taha]], [[https://openalex.org/A5026385956][Seok‐Jin Kim]], [[https://openalex.org/A5073269272][Messaoud Harfouche]], [[https://openalex.org/A5046522347][Abdul‐Hamid Emwas]], [[https://openalex.org/A5037684463][Dalaver H. Anjum]], [[https://openalex.org/A5091258830][Angelos M. Efstathiou]], [[https://openalex.org/A5005092754][Cafer T. Yavuz]], [[https://openalex.org/A5017583868][Nirpendra Singh]], [[https://openalex.org/A5008059915][Kyriaki Polychronopoulou]], ACS applied materials & interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.3c16521 
-     
-In this work, a relatively new class of materials, rare earth (RE) based high entropy oxides (HEO) are discussed in terms of the evolution of the oxygen vacant sites (Ov) content in their structure as the composition changes from binary to HEO using both experimental and computational tools; the composition of HEO under focus is the CeLaPrSmGdO due to the importance of ceria-related (fluorite) materials to catalysis. To unveil key features of quinary HEO structure, ceria-based binary CePrO and CeLaO compositions as well as SiO2, the latter as representative nonreducible oxide, were used and compared as supports for Ru (6 wt % loading). The role of the Ov in the HEO is highlighted for the ammonia production with particular emphasis on the N2 dissociation step (N2(ads) → Nads) over a HEO; the latter step is considered the rate controlling one in the ammonia production. Density functional theory (DFT) calculations and 18O2 transient isotopic experiments were used to probe the energy of formation, the population, and the easiness of formation for the Ov at 650 and 800 °C, whereas Synchrotron EXAFS, Raman, EPR, and XPS probed the Ce-O chemical environment at different length scales. In particular, it was found that the particular HEO composition eases the Ov formation in bulk, in medium (Raman), and in short (localized) order (EPR); more Ov population was found on the surface of the HEO compared to the binary reference oxide (CePrO). Additionally, HEO gives rise to smaller and less sharp faceted Ru particles, yet in stronger interaction with the HEO support and abundance of Ru-O-Ce entities (Raman and XPS). Ammonia production reaction at 400 °C and in the 10-50 bar range was performed over Ru/HEO, Ru/CePrO, Ru/CeLaO, and Ru/SiO2 catalysts; the Ru/HEO had superior performance at 10 bar compared to the rest of catalysts. The best performing Ru/HEO catalyst was activated under different temperatures (650 vs 800 °C) so to adjust the Ov population with the lower temperature maintaining better performance for the catalyst. DFT calculations showed that the HEO active site for N adsorption involves the Ov site adjacent to the adsorption event.    
 
     
