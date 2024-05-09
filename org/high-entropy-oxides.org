@@ -1,31 +1,10 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Wed May  8 00:54:00 2024
+Created on Thu May  9 01:04:32 2024
 
-Found 2 results from 2024-05-01 to 2024-05-08
+Found 1 results from 2024-05-02 to 2024-05-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
-
-* High-entropy oxide based biomimetic catalysis system enables robust oxidative desulfurization with an excellent regeneration ability  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396508534
-:TOPICS: Desulfurization Technologies for Fuels, Catalytic Nanomaterials, Catalytic Reduction of Nitro Compounds
-:PUBLICATION_DATE: 2024-04-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.seppur.2024.127729")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396508534"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396508534"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396508534"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396508534 (Open access: False)
-    
-[[https://openalex.org/A5021686620][Haoyi Lin]], [[https://openalex.org/A5015341679][Bo Shen]], [[https://openalex.org/A5047098061][Lixin Xue]], [[https://openalex.org/A5062410995][Xueyun Wang]], [[https://openalex.org/A5013955092][Ting Su]], [[https://openalex.org/A5052219648][Kaixuan Yang]], [[https://openalex.org/A5069349716][Hongying Lü]], [[https://openalex.org/A5058780747][Zhiguo Zhu]], Separation and purification technology. None(None)] 2024. https://doi.org/10.1016/j.seppur.2024.127729 
-     
-No abstract    
-
-    
 
 * Role of Oxygen Vacancy in High-entropy Cu1Zn1Al0.5Ce5Zr0.5Ox for CO2 Hydrogenation Reaction  :high_entropy_oxides:
 :PROPERTIES:

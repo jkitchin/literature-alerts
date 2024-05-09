@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 May 2024 00:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 01:04:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Liquid Metal-Assisted Acylation of Phenols over Zeolite Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c00104</link>
+      <description>Zhou Yong, Geqian Fang, Deizi V. Peron, Maya Marinova, Vladimir L. Zholobenko, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky, ACS catalysis. None(None)] 2024. https://openalex.org/W4396669250
+
+                No abstract</description>
+      <author>Zhou Yong, Geqian Fang, Deizi V. Peron, Maya Marinova, Vladimir L. Zholobenko, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00104</guid>
+    </item>
     <item>
       <title>Let it Flow: Emergence of Liquid Metals</title>
       <link>https://doi.org/10.1002/adfm.202405143</link>
@@ -16,16 +26,6 @@
       <author>Michael D. Bartlett, Michael D. Dickey, Aaron T. Ohta, Kourosh Kalantar&#8208;Zadeh</author>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202405143</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;Operando&lt;/i&gt; Characterization and Molecular Simulations Reveal the Growth Kinetics of Graphene on Liquid Copper During Chemical Vapor Deposition</title>
-      <link>https://doi.org/10.1021/acsnano.4c02070</link>
-      <description>Valentina Belova, Hao Gao, Hendrik H. Heenen, Wissal Sghaier, Anastasios C. Manikas, Christos Tsakonas, Mehdi Saedi, Johannes T. Margraf, Costas Galiotis, Gilles Renaud, Oleg Konovalov, Irene M. N. Groot, Karsten Reuter, Maciej Jankowski, ACS nano. None(None)] 2024. https://openalex.org/W4396517390
-
-                In recent years, liquid metal catalysts have emerged as a compelling choice for the controllable, large-scale, and high-quality synthesis of two-dimensional materials. At present, there is little mechanistic understanding of the intricate catalytic process, though, of its governing factors or what renders it superior to growth at the corresponding solid catalysts. Here, we report on a combined experimental and computational study of the kinetics of graphene growth during chemical vapor deposition on a liquid copper catalyst. By monitoring the growing graphene flakes in real time using in situ radiation-mode optical microscopy, we explore the growth morphology and kinetics over a wide range of CH4-to-H2 pressure ratios and deposition temperatures. Constant growth rates of the flakes' radius indicate a growth mode limited by precursor attachment, whereas methane-flux-dependent flake shapes point to limited precursor availability. Large-scale free energy simulations enabled by an efficient machine-learning moment tensor potential trained to density functional theory data provide quantitative barriers for key atomic-scale growth processes. The wealth of experimental and theoretical data can be consistently combined into a microkinetic model that reveals mixed growth kinetics that, in contrast to the situation at solid Cu, is partly controlled by precursor attachment alongside precursor availability. Key mechanistic aspects that directly point toward the improved graphene quality are a largely suppressed carbon dimer attachment due to the facile incorporation of this precursor species into the liquid surface and a low-barrier ring-opening process that self-heals 5-membered rings resulting from remaining dimer attachments.</description>
-      <author>Valentina Belova, Hao Gao, Hendrik H. Heenen, Wissal Sghaier, Anastasios C. Manikas, Christos Tsakonas, Mehdi Saedi, Johannes T. Margraf, Costas Galiotis, Gilles Renaud, Oleg Konovalov, Irene M. N. Groot, Karsten Reuter, Maciej Jankowski</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c02070</guid>
     </item>
   </channel>
 </rss>

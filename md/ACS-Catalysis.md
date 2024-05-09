@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed May  8 00:54:01 2024
+Created on Thu May  9 01:04:33 2024
 
-Found 31 results from 2024-05-01 to 2024-05-08
+Found 37 results from 2024-05-02 to 2024-05-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Platinum(II) Phenylpyridyl Schiff Base Complexes as Latent, Photoactivated, Alkene Hydrosilylation Catalysts   
-
-OpenAlex: https://openalex.org/W4396495696    
-Open access: True
-    
-[Helena G. Lancaster](https://openalex.org/A5095942412), [Joe C. Goodall](https://openalex.org/A5092450368), [Stephen P. Douglas](https://openalex.org/A5015352080), [Laura J. Ashfield](https://openalex.org/A5011487519), [Simon B. Duckett](https://openalex.org/A5029907890), [Robin N. Perutz](https://openalex.org/A5052437108), [Andrew S. Weller](https://openalex.org/A5031577471), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01353 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01353)).
-    
-No abstract    
-
-    
-
-## Catalytic Consequences of Hierarchical Pore Architectures within MFI and FAU Zeolites for Polyethylene Conversion   
-
-OpenAlex: https://openalex.org/W4396499244    
-Open access: False
-    
-[Jun Zhi Tan](https://openalex.org/A5039201837), [M. Ortega](https://openalex.org/A5022173512), [Stephen J. Miller](https://openalex.org/A5069872593), [Cole W. Hullfish](https://openalex.org/A5084971190), [H.G. Kim](https://openalex.org/A5062200550), [Sung M. Kim](https://openalex.org/A5085441715), [Wenda Hu](https://openalex.org/A5017356378), [Jianzhi Hu](https://openalex.org/A5061166157), [Johannes A. Lercher](https://openalex.org/A5057378771), [Bruce E. Koel](https://openalex.org/A5083295872), [Michele L. Sarazen](https://openalex.org/A5074568396), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01213.
-    
-No abstract    
-
-    
-
-## Inducing Microstrain in Electrodeposited Pt through Polymer Addition for Highly Active Oxygen Reduction Catalysis   
-
-OpenAlex: https://openalex.org/W4396506273    
-Open access: False
-    
-[Qi Hua](https://openalex.org/A5058756311), [Xinyi Chen](https://openalex.org/A5056996131), [Junfeng Chen](https://openalex.org/A5024151119), [Nawal M. Alghoraibi](https://openalex.org/A5068906782), [Yoon Min Lee](https://openalex.org/A5066631469), [Toby J. Woods](https://openalex.org/A5089408235), [Richard T. Haasch](https://openalex.org/A5069497115), [Steven C. Zimmerman](https://openalex.org/A5052747722), [Andrew A. Gewirth](https://openalex.org/A5021345935), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01244.
-    
-We investigate an approach to tune the d-band center and enhance the oxygen reduction reaction (ORR) activity of Pt material without relying on foreign metals or the process of alloying/dealloying. It is known that Pt exhibits suboptimal ORR catalytic activity due to its strong binding to oxygen, therefore requiring a downshift in the d-band center by approximately 0.2 eV to weaken the Pt-O binding energy and boost ORR kinetics. We found that the d-band center can be tuned by inducing microstrain in the Pt electrodeposit, simply achieved by introducing polymer into the electrodeposition bath. Pt electrodes (Pt-P1 and Pt-PLA) prepared with the addition of poly-N-(6-aminohexyl)acrylamide (P1) or poly-l-arginine (PLA) exhibit improved ORR activity compared to Pt electrodeposited without polymer addition (Pt-alone) in both acidic and basic environments, with the order of activity being Pt-P1 > Pt-PLA > Pt-alone. Pt-P1 exhibits a positive shift of E1/2 by 90 mV vs Pt-alone in basic solution, comparable to other reported high-activity ORR catalysts. Scanning electron microscopy shows the presence of agglomerates with diameters between 5 and 20 μm and tip-splitting growth structure due to diffusion-limited aggregation on Pt-P1 and Pt-PLA. Characterization using X-ray photoemission spectroscopy and X-ray diffraction, combined with Rietveld refinement analysis reveal a trend of downshifted d-band center, increased microstrain, and slightly increased compressive strain as the ORR activity increased among the three catalysts. The presence of more defective sites on Pt-P1 and Pt-PLA is the cause of the increased microstrain, which further leads to the downshift of the Pt d-band center and enhancement of ORR activity.    
-
-    
 
 ## Boosting Catalytic Performance of Cytochrome c through Tailored Carboxymethylation in Covalent Organic Frameworks   
 
@@ -303,25 +270,14 @@ Perovskite oxygen carriers in a methane chemical looping partial oxidation proce
 
     
 
-## Efficient Interfacial Charge Transfer Enables Nearly 100% Selectivity for Solar-Light-Driven CO2 Conversion   
+## Partial Oxidation of Methanol on Gold: How Selectivity Is Steered by Low-Coordinated Sites   
 
-OpenAlex: https://openalex.org/W4396495893    
-Open access: False
+OpenAlex: https://openalex.org/W4396665108    
+Open access: True
     
-[Wangzhong Tang](https://openalex.org/A5029286788), [Jie Meng](https://openalex.org/A5085838387), [Tao Ding](https://openalex.org/A5022960964), [Haisen Huang](https://openalex.org/A5086799705), [Chuntian Tan](https://openalex.org/A5012994917), [Qiuzi Zhong](https://openalex.org/A5088840244), [Heng Cao](https://openalex.org/A5079800526), [Qunxiang Li](https://openalex.org/A5080298787), [Xiuli Xu](https://openalex.org/A5076516883), [Jinlong Yang](https://openalex.org/A5059515778), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01020.
+[Salma Eltayeb](https://openalex.org/A5022105557), [Lenard L Carroll](https://openalex.org/A5012133776), [Lukas Dippel](https://openalex.org/A5096611608), [Mersad Mostaghimi](https://openalex.org/A5014710270), [Wiebke Riedel](https://openalex.org/A5013057370), [Lyudmila V. Moskaleva](https://openalex.org/A5050666730), [Thomas Risse](https://openalex.org/A5038896831), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c04578 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c04578)).
     
-No abstract    
-
-    
-
-## DNA-Anchored Single-Molecule Iron Phthalocyanine As an Efficient Electrocatalyst for Alkaline Fuel Cells   
-
-OpenAlex: https://openalex.org/W4396512258    
-Open access: False
-    
-[Yi Qin](https://openalex.org/A5058242512), [Cheng‐Hao Chuang](https://openalex.org/A5004281262), [XIA LIU](https://openalex.org/A5027316216), [Xian Liang](https://openalex.org/A5029586830), [Linfeng Xie](https://openalex.org/A5061586663), [Kuan Wang](https://openalex.org/A5052596733), [Chih‐Wen Pao](https://openalex.org/A5052311733), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Yang Liu](https://openalex.org/A5023363049), [Yawei Chen](https://openalex.org/A5018908218), [Zhijun Lei](https://openalex.org/A5017887421), [Pengfei Yan](https://openalex.org/A5086670941), [Liang Wu](https://openalex.org/A5032909422), [Shuhong Jiao](https://openalex.org/A5015840376), [Qing Li](https://openalex.org/A5082989757), [Ruiguo Cao](https://openalex.org/A5047801680), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00795.
-    
-No abstract    
+Partial methanol oxidation proceeds with high selectivity to methyl formate (MeFo) on nanoporous gold (npAu) catalysts. As low-coordinated sites on npAu were suggested to affect the selectivity, we experimentally investigated their role in the isothermal selectivity for flat Au(111) and stepped Au(332) model surfaces using a molecular beam approach under well-defined conditions. Direct comparison shows that steps enhance desired MeFo formation and lower undesired overoxidation. DFT calculations reveal differences in oxygen distribution that enhance the barriers to overoxidation at steps. Thus, these results provide an atomic-level understanding of factors controlling the complex reaction network on gold catalysts, such as npAu.    
 
     
 
@@ -336,6 +292,28 @@ No abstract
 
     
 
+## Kinetic Requirements for Selectivity Enhancement During Forced Dynamic Operation of the Oxidative Dehydrogenation of Ethane   
+
+OpenAlex: https://openalex.org/W4396665961    
+Open access: False
+    
+[Austin Morales](https://openalex.org/A5041623036), [Michael P. Harold](https://openalex.org/A5065435785), [Praveen Bollini](https://openalex.org/A5025125447), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06066.
+    
+No abstract    
+
+    
+
+## Piezocatalytic Performances of Conjugated Microporous Polymers with Donor–Acceptor Structures for Overall Water Splitting   
+
+OpenAlex: https://openalex.org/W4396666388    
+Open access: False
+    
+[Jianping Chen](https://openalex.org/A5073861665), [Lu Xie](https://openalex.org/A5035333066), [Wan-Hong Huang](https://openalex.org/A5027851430), [Ling Niu](https://openalex.org/A5077437589), [Qing-Ling Ni](https://openalex.org/A5011987399), [T. Huang](https://openalex.org/A5067838327), [Liu-Cheng Gui](https://openalex.org/A5000182377), [Xiu-Jian Wang](https://openalex.org/A5041608089), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00918.
+    
+No abstract    
+
+    
+
 ## Intermolecular Allene–Alkyne Coupling: A Significantly Useful Synthetic Transformation   
 
 OpenAlex: https://openalex.org/W4396668677    
@@ -344,5 +322,93 @@ Open access: False
 [Tapas R. Pradhan](https://openalex.org/A5039431779), [Jin Kyoon Park](https://openalex.org/A5018404564), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01333.
     
 No abstract    
+
+    
+
+## Liquid Metal-Assisted Acylation of Phenols over Zeolite Catalysts   
+
+OpenAlex: https://openalex.org/W4396669250    
+Open access: False
+    
+[Zhou Yong](https://openalex.org/A5020270438), [Geqian Fang](https://openalex.org/A5055121622), [Deizi V. Peron](https://openalex.org/A5050148828), [Maya Marinova](https://openalex.org/A5012017317), [Vladimir L. Zholobenko](https://openalex.org/A5013783828), [Andreï Y. Khodakov](https://openalex.org/A5047164399), [Vitaly V. Ordomsky](https://openalex.org/A5061148466), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00104.
+    
+No abstract    
+
+    
+
+## CO to Isonitrile Substitution in Iron Cyclopentadienone Complexes: A Class of Active Iron Catalysts for Borrowing Hydrogen Strategies   
+
+OpenAlex: https://openalex.org/W4396671481    
+Open access: False
+    
+[Gaëtan Quintil](https://openalex.org/A5096469020), [Léa Diebold](https://openalex.org/A5096494522), [Gibrael Fadel](https://openalex.org/A5096645035), [Jacques Pécaut](https://openalex.org/A5023111046), [Christian Philouze](https://openalex.org/A5070479979), [Martin Clémancey](https://openalex.org/A5037633972), [Geneviève Blondin](https://openalex.org/A5035631163), [Ragnar Björnsson](https://openalex.org/A5042032517), [Adrien Quintard](https://openalex.org/A5025940143), [Amélie Kochem](https://openalex.org/A5013753582), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01506.
+    
+No abstract    
+
+    
+
+## Thermal Nickel-Catalyzed Carbon–Oxygen Cross-Coupling of (Hetero)aryl Halides with Alcohols Enabled by the Use of a Silane Reductant Approach   
+
+OpenAlex: https://openalex.org/W4396674501    
+Open access: False
+    
+[Liu Yang](https://openalex.org/A5089124041), [Haijun Jiao](https://openalex.org/A5087368338), [Geyang Song](https://openalex.org/A5000485217), [Yanru Huang](https://openalex.org/A5065252156), [Nan Ji](https://openalex.org/A5035149494), [Xue Duan](https://openalex.org/A5067926884), [Wei He](https://openalex.org/A5061624614), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01283.
+    
+Herein, we disclose a highly efficient thermal Ni-catalyzed C–O cross-coupling of aryl halides with primary and secondary alcohols, without the need for photo- or electrocatalysis. The protocol is simple and has a wide substrate scope, particularly for challenging electron-rich aryl halides. Additionally, this methodology has been successfully applied to the late-stage functionalization of drugs and natural products, as well as the synthesis of pharmaceuticals such as pramoxine and the delamanid key intermediate. Preliminary mechanistic studies suggest the in situ generation of active Ni(I) species from inexpensive NiBr2-bipyridine and PhSiH3.    
+
+    
+
+## Construction of Pt Single-Atom and Cluster/FeOOH Synergistic Active Sites for Efficient Electrocatalytic Hydrogen Evolution Reaction   
+
+OpenAlex: https://openalex.org/W4396674745    
+Open access: False
+    
+[Yong‐Chao Zhang](https://openalex.org/A5069423974), [Ming‐Hui Zhao](https://openalex.org/A5008236609), [Jian Wu](https://openalex.org/A5090409764), [Yingnan Wang](https://openalex.org/A5070204057), [Lufan Zheng](https://openalex.org/A5071455491), [Fangwei Gu](https://openalex.org/A5019522197), [Ji‐Jun Zou](https://openalex.org/A5078341960), [Jian Gao](https://openalex.org/A5005460160), [Xiaodong Zhu](https://openalex.org/A5054026141), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01133.
+    
+The design of efficient catalysts that synergistically promote *H2O decomposition, H2 formation, and desorption is critical to accelerate hydrogen evolution reaction (HER) kinetics but remains a significant challenge. Herein, we design an efficient catalyst of Pt/FeOOH@NiFe LDHs with Pt single-atom and cluster distribution induced by amorphous FeOOH. The Pt/FeOOH@NiFe LDHs with a low Pt content of 2 wt % exhibit ultralow HER overpotentials of 20 and 85 mV in alkaline media (5 and 40 mV in acidic media) to achieve the current densities of 10 and 100 mA cm–2. The overpotentials of specific activity normalized by the electrochemically active surfaces (ECSA) are 100 mV@0.2 mA cmECSA–2 and 140 mV@0.4 mA cmECSA–2. The Tafel slope is 51 mV dec–1, and the HER process follows the Volmer-Hyrovsky mechanism. Moreover, the overall water splitting requires only low voltages of 1.46 V@10 mA cm–2 and 1.61 V@100 mA cm–2, which are better than most reported catalysts. Experimental and theoretical studies show that the amorphous FeOOH can induce the formation of Pt single-atom and cluster with electron redistribution, and the formed Pt single-atom and cluster/FeOOH synergistic active sites exhibit superior HER performance. The amorphous FeOOH in Pt/FeOOH@NiFe LDHs facilitates the adsorption and activation of H2O, and the Pt single-atom and cluster play a key role in the formation and desorption of H2, synergistically accelerating the HER kinetics.    
+
+    
+
+## Combined Photocatalysis and Lewis Acid Catalysis Strategy for the Oxa-Pictet–Spengler Reactions of Ethers   
+
+OpenAlex: https://openalex.org/W4396691420    
+Open access: False
+    
+[Nao Tanaka](https://openalex.org/A5006397362), [Sophia R. Mitton-Fry](https://openalex.org/A5096740287), [Mi-Lim Hwang](https://openalex.org/A5078808183), [Joshua Zhu](https://openalex.org/A5038735941), [Karl A. Scheidt](https://openalex.org/A5041041100), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01595.
+    
+No abstract    
+
+    
+
+## Poly(ionic liquid) Ionomers Help Prevent Active Site Aggregation, in Single-Site Oxygen Reduction Catalysts   
+
+OpenAlex: https://openalex.org/W4396693235    
+Open access: True
+    
+[Silvia Favero](https://openalex.org/A5059583865), [Alain Li](https://openalex.org/A5003660872), [Mengnan Wang](https://openalex.org/A5004139767), [Fahim Uddin](https://openalex.org/A5020687663), [Bora Kuzuoglu](https://openalex.org/A5096740903), [Arthur Georgeson](https://openalex.org/A5096740904), [Ifan E. L. Stephens](https://openalex.org/A5039064548), [Davood Nasrabadi](https://openalex.org/A5049341574), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01418 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01418)).
+    
+No abstract    
+
+    
+
+## Ethane Dehydrogenation to Ethylene: Engineering the Surface Structure of Pt-Based Alloy Catalysts to Tune the Catalytic Performance   
+
+OpenAlex: https://openalex.org/W4396697728    
+Open access: False
+    
+[Lulu Ping](https://openalex.org/A5023228424), [Mifeng Xue](https://openalex.org/A5085737387), [Yuan Zhang](https://openalex.org/A5031767581), [Baojun Wang](https://openalex.org/A5022454993), [Maohong Fan](https://openalex.org/A5079808010), [Lixia Ling](https://openalex.org/A5000912155), [Riguang Zhang](https://openalex.org/A5039456852), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06100.
+    
+No abstract    
+
+    
+
+## Achieving Near 100% Faradaic Efficiency of Electrocatalytic Nitrate Reduction to Ammonia on Symmetry-Broken Medium-Entropy-Alloy Metallene   
+
+OpenAlex: https://openalex.org/W4396698133    
+Open access: False
+    
+[Yuanbo Zhou](https://openalex.org/A5065946202), [Lifang Zhang](https://openalex.org/A5018941402), [Mengfan Wang](https://openalex.org/A5013850346), [Zhi‐Jun Zhu](https://openalex.org/A5003053336), [Najun Li](https://openalex.org/A5079101243), [Tao Qian](https://openalex.org/A5009208811), [Chenglin Yan](https://openalex.org/A5056439522), [Jianmei Lu](https://openalex.org/A5084564396), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00879.
+    
+Electrochemical nitrate reduction (NO3RR) offers an ecofriendly way for ammonia production. However, improving the sluggish kinetics of such a multistep reaction still remains challenging. Herein, an asymmetry strategy is proposed to adjust the charge distribution of the active centers on metallene by presenting novel symmetry-broken medium-entropy-alloy (MEA) metallene via heteroatom alloying. Benefiting from the maximized exposure of the well-regulated active sites, proof-of-concept PdCuCo MEA metallene delivers near 100% NH3 Faradaic efficiency in both neutral and alkaline electrolytes, along with a record-high NH3 yield rate over 532.5 mg h–1 mgcat–1. Moreover, it enables 99.7% conversion of nitrate from an industrial wastewater level of 6200 ppm to a drinkable water level. Detailed studies further revealed that charge redistribution is induced by the elemental electronegativity difference on symmetry-broken MEA metallene, which will weaken the N–O bond of *NO, thus reducing the energy barrier of the rate-determining step. Meanwhile, the competitive HER and the formation of NO2– are also hindered. We believe that our strategy proposed in this work will shed light on the design of efficient NO3RR catalysts to a more practical level.    
 
     

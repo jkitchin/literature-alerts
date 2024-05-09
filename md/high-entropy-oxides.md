@@ -1,21 +1,10 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Wed May  8 00:54:00 2024
+Created on Thu May  9 01:04:32 2024
 
-Found 2 results from 2024-05-01 to 2024-05-08
+Found 1 results from 2024-05-02 to 2024-05-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
-
-## High-entropy oxide based biomimetic catalysis system enables robust oxidative desulfurization with an excellent regeneration ability   
-
-OpenAlex: https://openalex.org/W4396508534    
-Open access: False
-    
-[Haoyi Lin](https://openalex.org/A5021686620), [Bo Shen](https://openalex.org/A5015341679), [Lixin Xue](https://openalex.org/A5047098061), [Xueyun Wang](https://openalex.org/A5062410995), [Ting Su](https://openalex.org/A5013955092), [Kaixuan Yang](https://openalex.org/A5052219648), [Hongying Lü](https://openalex.org/A5069349716), [Zhiguo Zhu](https://openalex.org/A5058780747), Separation and purification technology. None(None)] 2024.https://doi.org/10.1016/j.seppur.2024.127729.
-    
-No abstract    
-
-    
 
 ## Role of Oxygen Vacancy in High-entropy Cu1Zn1Al0.5Ce5Zr0.5Ox for CO2 Hydrogenation Reaction   
 

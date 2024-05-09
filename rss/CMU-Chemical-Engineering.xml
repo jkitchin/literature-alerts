@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 08 May 2024 00:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 01:04:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Fostering a Holistic Understanding of the Full Volatility Spectrum of Organic Compounds from Benzene Series Precursors through Mechanistic Modeling</title>
-      <link>https://doi.org/10.1021/acs.est.3c07128</link>
-      <description>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4396543013
-
-                A comprehensive understanding of the full volatility spectrum of organic oxidation products from the benzene series precursors is important to quantify the air quality and climate effects of secondary organic aerosol (SOA) and new particle formation (NPF). However, current models fail to capture the full volatility spectrum due to the absence of important reaction pathways. Here, we develop a novel unified model framework, the integrated two-dimensional volatility basis set (I2D-VBS), to simulate the full volatility spectrum of products from benzene series precursors by simultaneously representing first-generational oxidation, multigenerational aging, autoxidation, dimerization, nitrate formation, etc. The model successfully reproduces the volatility and O/C distributions of oxygenated organic molecules (OOMs) as well as the concentrations and the O/C of SOA over wide-ranging experimental conditions. In typical urban environments, autoxidation and multigenerational oxidation are the two main pathways for the formation of OOMs and SOA with similar contributions, but autoxidation contributes more to low-volatility products. NO</description>
-      <author>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.3c07128</guid>
-    </item>
     <item>
       <title>Diffusiophoretic Transport of Charged Colloids in Ionic Surfactant Gradients Entirely below versus Entirely above the Critical Micelle Concentration</title>
       <link>https://doi.org/10.1021/acs.langmuir.4c00431</link>
@@ -26,6 +16,16 @@
       <author>Angela Yang, Brian E. McKenzie, Benjamin Pavlat, Eric S. Johnson, Aditya S. Khair, Stephen Garoff, Robert D. Tilton</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00431</guid>
+    </item>
+    <item>
+      <title>Fostering a Holistic Understanding of the Full Volatility Spectrum of Organic Compounds from Benzene Series Precursors through Mechanistic Modeling</title>
+      <link>https://doi.org/10.1021/acs.est.3c07128</link>
+      <description>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4396543013
+
+                A comprehensive understanding of the full volatility spectrum of organic oxidation products from the benzene series precursors is important to quantify the air quality and climate effects of secondary organic aerosol (SOA) and new particle formation (NPF). However, current models fail to capture the full volatility spectrum due to the absence of important reaction pathways. Here, we develop a novel unified model framework, the integrated two-dimensional volatility basis set (I2D-VBS), to simulate the full volatility spectrum of products from benzene series precursors by simultaneously representing first-generational oxidation, multigenerational aging, autoxidation, dimerization, nitrate formation, etc. The model successfully reproduces the volatility and O/C distributions of oxygenated organic molecules (OOMs) as well as the concentrations and the O/C of SOA over wide-ranging experimental conditions. In typical urban environments, autoxidation and multigenerational oxidation are the two main pathways for the formation of OOMs and SOA with similar contributions, but autoxidation contributes more to low-volatility products. NO</description>
+      <author>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.3c07128</guid>
     </item>
   </channel>
 </rss>
