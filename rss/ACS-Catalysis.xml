@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 May 2024 01:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 01:04:58 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Boosting Catalytic Performance of Cytochrome &lt;i&gt;c&lt;/i&gt; through Tailored Carboxymethylation in Covalent Organic Frameworks</title>
-      <link>https://doi.org/10.1021/acscatal.4c01456</link>
-      <description>Li-Lan Shi, Xiupeng Chen, Aitao Li, Xiaoling Wu, Xian Kong, Hongming Li, Zhixian Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4396541527
-
-                No abstract</description>
-      <author>Li-Lan Shi, Xiupeng Chen, Aitao Li, Xiaoling Wu, Xian Kong, Hongming Li, Zhixian Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01456</guid>
-    </item>
-    <item>
-      <title>Complete Computational Reaction Mechanism for Foldamer-Catalyzed Aldol Condensation</title>
-      <link>https://doi.org/10.1021/acscatal.4c00937</link>
-      <description>Reilly Osadchey Brown, Darren Demapan, Qiang Cui, ACS catalysis. None(None)] 2024. https://openalex.org/W4396541583
-
-                No abstract</description>
-      <author>Reilly Osadchey Brown, Darren Demapan, Qiang Cui</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00937</guid>
-    </item>
-    <item>
-      <title>Coproduction of Glyceric Acid and Glycolic Acid from Biomass-Based Sugars over a Ru/Co&lt;sub&gt;3&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c00782</link>
-      <description>Yancheng Liu, Shiwei Zhou, Xiaoyan Wang, Jingyu Qin, Changwei Hu, Jianmei Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4396545491
-
-                No abstract</description>
-      <author>Yancheng Liu, Shiwei Zhou, Xiaoyan Wang, Jingyu Qin, Changwei Hu, Jianmei Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00782</guid>
-    </item>
-    <item>
-      <title>&#8220;Anion-Switchable&#8221; Pincer-Mn(I) Catalyst for the Reductive &lt;i&gt;N&lt;/i&gt;-Methylation of Amines with Formic Acid and CO&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c01812</link>
-      <description>Sebasti&#225;n Mart&#237;nez-Vivas, Sergio Gonell, Macarena Poyatos, Eduardo Peris, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547089
-
-                No abstract</description>
-      <author>Sebasti&#225;n Mart&#237;nez-Vivas, Sergio Gonell, Macarena Poyatos, Eduardo Peris</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01812</guid>
-    </item>
-    <item>
-      <title>End-to-End High-Throughput Approach for Data-Driven Internal Donor Development in Heterogeneous Ziegler&#8211;Natta Propylene Polymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c01601</link>
-      <description>Toshiaki Taniike, Felicia Daniela Cannavacciuolo, Mostafa Khoshsefat, Diego De Canditiis, Giuseppe Antinucci, Patchanee Chammingkwan, Roberta Cipullo, Vincenzo Busico, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547510
-
-                No abstract</description>
-      <author>Toshiaki Taniike, Felicia Daniela Cannavacciuolo, Mostafa Khoshsefat, Diego De Canditiis, Giuseppe Antinucci, Patchanee Chammingkwan, Roberta Cipullo, Vincenzo Busico</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01601</guid>
-    </item>
-    <item>
-      <title>Fourier-Transformed Alternating Current Voltammetry (FTacV) for Analysis of Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c01526</link>
-      <description>Rifael Z. Snitkoff-Sol, Alan M. Bond, Lior Elbaz, ACS catalysis. None(None)] 2024. https://openalex.org/W4396547671
-
-                Electrocatalysts play a critical role in energy technologies, but the development of active, efficient, and durable catalysts is impeded by the lack of methodologies to deconvolute the complex interplay between various aspects influencing the activity of the catalysts, e.g., the number of active sites, turnover frequency, and the reaction pathways. Fourier-transformed alternating current voltammetry (FTacV) is an emerging tool for the analysis of electroactive species and has been successfully applied to a variety of reactions such as the oxygen reduction reaction, oxygen evolution reaction, carbon dioxide reduction reaction, hydrogen evolution reaction, and hydrogen oxidation reaction. The harmonics generated from FTacV measurements neatly detect underlaying processes not visible by other, more commonly employed techniques for analysis of electrocatalysts, such as the rotating disc electrode and dc voltammetry. The harmonic components enable separating overlapping processes based on differences in kinetics or linearity of response. This paper presents a review of FTacV applied for the analysis of electrocatalysts. It highlights the importance of determining the electrochemically active site density (EASD) to decipher the intrinsic activity of a catalyst and discusses the use of FTacV in dynamic determination of the EASD over the course of a catalyst's working life, as well as the use of FTacV to understand intricate catalytic processes.</description>
-      <author>Rifael Z. Snitkoff-Sol, Alan M. Bond, Lior Elbaz</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01526</guid>
-    </item>
-    <item>
-      <title>Photoinduced Copper-Catalyzed Regio- and Enantioselective Alkynylation of Epoxides</title>
-      <link>https://doi.org/10.1021/acscatal.4c00818</link>
-      <description>Jianye Li, Sijia Li, Guihua Cui, Yuan Kou, Chenwei Wang, Chen Yang, Guozhu Zhang, Rui Guo, ACS catalysis. None(None)] 2024. https://openalex.org/W4396554632
-
-                No abstract</description>
-      <author>Jianye Li, Sijia Li, Guihua Cui, Yuan Kou, Chenwei Wang, Chen Yang, Guozhu Zhang, Rui Guo</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00818</guid>
-    </item>
-    <item>
-      <title>Unraveling the CO Oxidation Mechanism over Highly Dispersed Pt Single Atom on Anatase TiO&lt;sub&gt;2&lt;/sub&gt; (101)</title>
-      <link>https://doi.org/10.1021/acscatal.4c01018</link>
-      <description>Celine Tesvara, Md Raian Yousuf, Malik Albrahim, Diego Troya, Abhijit Shrotri, Eli Stavitski, Ayman M. Karim, Philippe Sautet, ACS catalysis. None(None)] 2024. https://openalex.org/W4396561689
-
-                Catalysts with noble metals deposited as single atoms on metal oxide supports have recently been studied extensively due to their maximized metal utilization and potential for performing difficult chemical conversions owing to their unique electronic properties. Understanding of the reaction mechanisms on supported single-metal atoms is still limited but is highly important for designing more efficient catalysts. In this study, we report the complexity of the CO oxidation reaction mechanism on Pt single atoms supported on anatase TiO2 (PtSA/a-TiO2) by coupling density functional theory (DFT) calculations and microkinetic analysis with kinetic measurements, in situ/operando infrared, and X-ray absorption spectroscopies. Starting from the adsorbed PtSA occupying an O vacancy induced by reductive pretreatment, we show that CO oxidation follows a complex mechanism consisting of initiation steps to reorganize the active site and multibranch reactive cycles, with the PtSA/a-TiO2 catalyst not returning to its initial configuration. The initiation step consists of CO and O2 adsorption healing the O vacancy, followed by CO oxidation using gas-phase CO to form Pt(CO). The reactive cycle alternates O2 adsorption and dissociation to oxidize the catalyst to Pt(O)(O)(CO) and branching pathways of competing Langmuir&#8211;Hinshelwood (LH)- or Eley&#8211;Rideal (ER)-type CO oxidation steps to reduce it again to Pt(CO). In situ/operando infrared experiments, including cryogenic CO adsorption and isotopic CO exchange, confirm the combined involvement of strongly adsorbed CO and gas-phase CO in an Eley&#8211;Rideal step along the reaction cycle. Microkinetic modeling shows that Pt single atoms are present in a mixture of Pt(CO), Pt(CO)(O2), Pt(O)(CO)(O2), and Pt(CO)(CO3) structures as the main intermediates during steady-state CO oxidation, all having the C&#8211;O vibrational stretch close to the experimentally observed value of 2115 cm&#8211;1. Microkinetic modeling also shows that the fractional orders of CO and O2 measured experimentally originate from multiple steps with a high degree of rate control and not from a simple competitive adsorption. The results demonstrate the complex reaction pathways that even CO oxidation on a simple single-atom system can follow, providing mechanistic insights for designing efficient Pt-based single-atom catalysts. We further show that microkinetic modeling results are sensitive to changes in energies of intermediate and transition states within errors of density functional theory, which can ultimately lead to incorrect conclusions regarding the reaction pathways and most abundant reaction intermediates if not accounted for by experiments.</description>
-      <author>Celine Tesvara, Md Raian Yousuf, Malik Albrahim, Diego Troya, Abhijit Shrotri, Eli Stavitski, Ayman M. Karim, Philippe Sautet</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01018</guid>
-    </item>
     <item>
       <title>Selective Formic Acid Production in Ni and NiFe Layered Hydroxides via Glycerol Electro-Oxidation</title>
       <link>https://doi.org/10.1021/acscatal.4c01250</link>
@@ -108,26 +28,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00261</guid>
     </item>
     <item>
-      <title>Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO&lt;sub&gt;2&lt;/sub&gt;, Ammonium, and &#945;-Ketoglutarate</title>
-      <link>https://doi.org/10.1021/acscatal.4c00992</link>
-      <description>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396577832
-
-                No abstract</description>
-      <author>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00992</guid>
-    </item>
-    <item>
-      <title>Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c01078</link>
-      <description>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An, ACS catalysis. None(None)] 2024. https://openalex.org/W4396581872
-
-                Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm&#8211;2 with high yield (&#8764;96%), selectivity (&#8764;99%), and Faraday efficiency (&#8764;100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm&#8211;2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.</description>
-      <author>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01078</guid>
-    </item>
-    <item>
       <title>En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl&lt;sub&gt;3&lt;/sub&gt;</title>
       <link>https://doi.org/10.1021/acscatal.4c01130</link>
       <description>Tarun Kumar Dinda, Anupam Manna, Prasenjit Mal, ACS catalysis. None(None)] 2024. https://openalex.org/W4396585142
@@ -146,16 +46,6 @@
       <author>Karthik Akkiraju, Reshma R. Rao, Jonathan Hwang, Livia Giordano, Xiao Renshaw Wang, Ethan J. Crumlin, David S. Weinberger, Yang Shao&#8208;Horn</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01222</guid>
-    </item>
-    <item>
-      <title>Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings</title>
-      <link>https://doi.org/10.1021/acscatal.4c00959</link>
-      <description>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396592409
-
-                Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH &#8594; CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt&#8211;water and Pd&#8211;water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude&#9472;Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid&#8211;gas and the solid&#8211;liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.</description>
-      <author>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00959</guid>
     </item>
     <item>
       <title>Synergistic Interfacial Reconstruction and Surface Polarization in a Compact ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;&#8211;CdIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Heterojunction for Enhanced Photocatalytic H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
@@ -246,6 +136,36 @@
       <author>Rongjiang Zhang, Gen Liu, Chunyong Huo, Lijun Jia, Bo Zhang, Bolun Yang, Xiaoyong Tian, Zhiqiang Wu</author>
       <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01386</guid>
+    </item>
+    <item>
+      <title>Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO&lt;sub&gt;2&lt;/sub&gt;, Ammonium, and &#945;-Ketoglutarate</title>
+      <link>https://doi.org/10.1021/acscatal.4c00992</link>
+      <description>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396577832
+
+                No abstract</description>
+      <author>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00992</guid>
+    </item>
+    <item>
+      <title>Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production</title>
+      <link>https://doi.org/10.1021/acscatal.4c01078</link>
+      <description>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An, ACS catalysis. None(None)] 2024. https://openalex.org/W4396581872
+
+                Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm&#8211;2 with high yield (&#8764;96%), selectivity (&#8764;99%), and Faraday efficiency (&#8764;100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm&#8211;2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.</description>
+      <author>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01078</guid>
+    </item>
+    <item>
+      <title>Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings</title>
+      <link>https://doi.org/10.1021/acscatal.4c00959</link>
+      <description>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396592409
+
+                Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH &#8594; CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt&#8211;water and Pd&#8211;water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude&#9472;Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid&#8211;gas and the solid&#8211;liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.</description>
+      <author>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu</author>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00959</guid>
     </item>
     <item>
       <title>Partial Oxidation of Methanol on Gold: How Selectivity Is Steered by Low-Coordinated Sites</title>
@@ -376,6 +296,46 @@
       <author>Yuanbo Zhou, Lifang Zhang, Mengfan Wang, Zhi&#8208;Jun Zhu, Najun Li, Tao Qian, Chenglin Yan, Jianmei Lu</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00879</guid>
+    </item>
+    <item>
+      <title>Beyond Leverage in Activity and Stability toward CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to Formate over a Bismuth Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c01519</link>
+      <description>Wenbin Li, Chang Yu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396720560
+
+                The direct production of formate from CO2 over Bi-based catalysts offers a promising route for producing important chemicals using renewable electricity. Nevertheless, limited by the unstable structure and states of catalysts under electrochemical conditions, electroreduction of CO2 to formate is still facing a trade-off between activity and stability, especially at high current densities. Herein, we reported a metal&#8211;carbon interfacial modulation strategy to synthesize the cross-linked and defective carbon-modified Bi nanoparticle (Bi-DC) catalyst with a stable spatial structure and a unique CO2-philic and hydrophobic interface. As a result, the Bi-DC featured a remarkable ability for CO2 electroreduction to formate in a near neutral electrolyte (1 M KHCO3) and was even comparable to the CO2-to-formate activity in the strongly basic systems, along with a high partial current density and formation rate for formate of &#8722;378 mA cm&#8211;2 and 7 mmol cm&#8211;2 h&#8211;1, respectively. Also, it achieved a stable electrolysis for 120 h at 0.4 A in a membrane electrode assembly reactor and even operated stably at an industrial large current of 5 A. The carbon species promoted the reconstruction and dispersion of active component Bi, together with a spatial confinement effect that facilitated the formation of formate and achieved stable long-term electrolysis.</description>
+      <author>Wenbin Li, Chang Yu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01519</guid>
+    </item>
+    <item>
+      <title>Copper-Catalyzed Formal Dihydrosilylation of Terminal Alkynes: A C(sp)&#8211;H Silylation-Hydrosilylation-Hydrogenation Sequence</title>
+      <link>https://doi.org/10.1021/acscatal.4c01813</link>
+      <description>Jia Li, Siqiang Fang, Shaozhong Ge, ACS catalysis. None(None)] 2024. https://openalex.org/W4396722294
+
+                No abstract</description>
+      <author>Jia Li, Siqiang Fang, Shaozhong Ge</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01813</guid>
+    </item>
+    <item>
+      <title>Data Analytics for Catalysis Predictions: Are We Ready Yet?</title>
+      <link>https://doi.org/10.1021/acscatal.3c05285</link>
+      <description>Difan Zhang, Brett Smith, Haiyi Wu, Manh&#8208;Thuong Nguyen, Roger Rousseau, Vassiliki Alexandra Glezakou, ACS catalysis. None(None)] 2024. https://openalex.org/W4396729186
+
+                No abstract</description>
+      <author>Difan Zhang, Brett Smith, Haiyi Wu, Manh&#8208;Thuong Nguyen, Roger Rousseau, Vassiliki Alexandra Glezakou</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05285</guid>
+    </item>
+    <item>
+      <title>Ambiphilic Alcohol Dehydrogenation by BICAAC Mimicking Metal&#8211;Ligand Cooperativity</title>
+      <link>https://doi.org/10.1021/acscatal.4c01723</link>
+      <description>Shishir Bansal, Ayanangshu Biswas, Abhishek Kundu, Manu Adhikari, Sanjay Singh, Debashis Adhikari, ACS catalysis. None(None)] 2024. https://openalex.org/W4396731701
+
+                In this report, an unusual bond activation strategy has been demonstrated by BICAAC, which essentially emulates the behavior of a transition metal. The ambiphilic nature of this specific carbene has facilitated a simultaneous proton and hydride capture from an alcohol molecule to carry out smooth dehydrogenation under mild conditions. The activation route closely follows the traditional metal&#8211;ligand bifunctional activation of a substrate. The hydrogen molecule extracted from the substrate alcohol becomes stored in the carbene carbon, which has been unambiguously ascertained by the isolation of this intermediate and its X-ray crystallographic characterization. Such an event has further been interrogated in detail by the deuterium-labeling experiment and DFT computations to substantiate the critical role of carbene's ambiphilicity. Additionally, the stored hydrogen in the carbene molecule has been delivered to an in situ-generated olefinic bond to completely mimic a borrowing hydrogen reaction in an organocatalytic fashion. Both dehydrogenation and rehydrogenation reactions have been conducted in a single pot using BICAAC as the catalyst that alkylates fluorene at its 9-position using a series of alcohols as the alkyl source. A thorough mechanistic sketch describes the involvement of a radical for the latter part of the reaction, overall bringing a different outlook to carbene-promoted small-molecule activation reactions.</description>
+      <author>Shishir Bansal, Ayanangshu Biswas, Abhishek Kundu, Manu Adhikari, Sanjay Singh, Debashis Adhikari</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01723</guid>
     </item>
   </channel>
 </rss>

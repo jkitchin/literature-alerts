@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 May 2024 01:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 01:04:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Diffusiophoretic Transport of Charged Colloids in Ionic Surfactant Gradients Entirely below versus Entirely above the Critical Micelle Concentration</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c00431</link>
-      <description>Angela Yang, Brian E. McKenzie, Benjamin Pavlat, Eric S. Johnson, Aditya S. Khair, Stephen Garoff, Robert D. Tilton, Langmuir. None(None)] 2024. https://openalex.org/W4396554712
-
-                When placed in an ionic surfactant gradient, charged colloids will undergo diffusiophoresis at a velocity, uDP = MDP&#8711; ln S, where MDP is the diffusiophoretic mobility and S is the surfactant concentration. The diffusiophoretic mobility depends in part on the charges and diffusivities of the surfactants and their counterions. Since micellization decreases surfactant diffusivity and alters charge distributions in a surfactant solution, MDP of charged colloids in ionic surfactant gradients may differ significantly when surfactant concentrations are above or below the critical micelle concentration (CMC). The role of micelles in driving diffusiophoresis is unclear, and a previously published model that accounts for micellization suggests the possibility of a change in the sign of MDP above the CMC [Warren, P. B.; . Soft Matter 2019, 15, 278-288]. In the current study, microfluidic channels were used to measure the transport of negatively charged polystyrene colloids in sodium dodecyl sulfate (SDS) surfactant gradients established at SDS concentrations that are either fully above or fully below the CMC. Interpretation of diffusiophoresis was aided by measurements of the colloid electrophoretic mobility as a function of SDS concentration. A numerical transport model incorporating the prior diffusiophoretic mobility model for ionic surfactant gradients was implemented to elucidate signatures of positive and negative diffusiophoretic mobilities and compare with experiments. The theoretically predicted sign of the diffusiophoretic mobility below the CMC was determined to be particularly sensitive to uncertainty in colloid and surfactant properties, while above the CMC, the mobility was consistently predicted to be positive in the SDS concentration range considered in the experiments conducted here. In contrast, experiments only showed signatures of a negative diffusiophoretic mobility for these negatively charged colloids with no change of sign. Colloid diffusiophoretic transport measured in micellar solutions was more extensive than that below the CMC with the same &#8711; ln S.</description>
-      <author>Angela Yang, Brian E. McKenzie, Benjamin Pavlat, Eric S. Johnson, Aditya S. Khair, Stephen Garoff, Robert D. Tilton</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00431</guid>
-    </item>
-    <item>
-      <title>Fostering a Holistic Understanding of the Full Volatility Spectrum of Organic Compounds from Benzene Series Precursors through Mechanistic Modeling</title>
-      <link>https://doi.org/10.1021/acs.est.3c07128</link>
-      <description>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao, Environmental science &amp; technology. None(None)] 2024. https://openalex.org/W4396543013
-
-                A comprehensive understanding of the full volatility spectrum of organic oxidation products from the benzene series precursors is important to quantify the air quality and climate effects of secondary organic aerosol (SOA) and new particle formation (NPF). However, current models fail to capture the full volatility spectrum due to the absence of important reaction pathways. Here, we develop a novel unified model framework, the integrated two-dimensional volatility basis set (I2D-VBS), to simulate the full volatility spectrum of products from benzene series precursors by simultaneously representing first-generational oxidation, multigenerational aging, autoxidation, dimerization, nitrate formation, etc. The model successfully reproduces the volatility and O/C distributions of oxygenated organic molecules (OOMs) as well as the concentrations and the O/C of SOA over wide-ranging experimental conditions. In typical urban environments, autoxidation and multigenerational oxidation are the two main pathways for the formation of OOMs and SOA with similar contributions, but autoxidation contributes more to low-volatility products. NO</description>
-      <author>Dejia Yin, Bin Zhao, Yafei Wang, Neil M. Donahue, Bo Feng, Xing Chang, Qi Chen, Xi Cheng, Tengyu Liu, Chak K. Chan, Meredith Schervish, Zeqi Li, Yuhong He, Jiming Hao</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.est.3c07128</guid>
-    </item>
   </channel>
 </rss>

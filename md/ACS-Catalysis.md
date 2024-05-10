@@ -1,98 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu May  9 01:04:33 2024
+Created on Fri May 10 01:04:58 2024
 
-Found 37 results from 2024-05-02 to 2024-05-09
+Found 33 results from 2024-05-03 to 2024-05-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Boosting Catalytic Performance of Cytochrome c through Tailored Carboxymethylation in Covalent Organic Frameworks   
-
-OpenAlex: https://openalex.org/W4396541527    
-Open access: False
-    
-[Li-Lan Shi](https://openalex.org/A5027307945), [Xiupeng Chen](https://openalex.org/A5058315388), [Aitao Li](https://openalex.org/A5087131065), [Xiaoling Wu](https://openalex.org/A5027896781), [Xian Kong](https://openalex.org/A5044375653), [Hongming Li](https://openalex.org/A5032451259), [Zhixian Li](https://openalex.org/A5046652349), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01456.
-    
-No abstract    
-
-    
-
-## Complete Computational Reaction Mechanism for Foldamer-Catalyzed Aldol Condensation   
-
-OpenAlex: https://openalex.org/W4396541583    
-Open access: False
-    
-[Reilly Osadchey Brown](https://openalex.org/A5045380570), [Darren Demapan](https://openalex.org/A5005834777), [Qiang Cui](https://openalex.org/A5036789652), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00937.
-    
-No abstract    
-
-    
-
-## Coproduction of Glyceric Acid and Glycolic Acid from Biomass-Based Sugars over a Ru/Co3O4 Catalyst   
-
-OpenAlex: https://openalex.org/W4396545491    
-Open access: False
-    
-[Yancheng Liu](https://openalex.org/A5016171867), [Shiwei Zhou](https://openalex.org/A5064042512), [Xiaoyan Wang](https://openalex.org/A5009353920), [Jingyu Qin](https://openalex.org/A5012650932), [Changwei Hu](https://openalex.org/A5048671077), [Jianmei Li](https://openalex.org/A5083720055), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00782.
-    
-No abstract    
-
-    
-
-## “Anion-Switchable” Pincer-Mn(I) Catalyst for the Reductive N-Methylation of Amines with Formic Acid and CO2   
-
-OpenAlex: https://openalex.org/W4396547089    
-Open access: True
-    
-[Sebastián Martínez-Vivas](https://openalex.org/A5092223091), [Sergio Gonell](https://openalex.org/A5070291492), [Macarena Poyatos](https://openalex.org/A5064156685), [Eduardo Peris](https://openalex.org/A5013062121), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01812 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01812)).
-    
-No abstract    
-
-    
-
-## End-to-End High-Throughput Approach for Data-Driven Internal Donor Development in Heterogeneous Ziegler–Natta Propylene Polymerization   
-
-OpenAlex: https://openalex.org/W4396547510    
-Open access: False
-    
-[Toshiaki Taniike](https://openalex.org/A5086047381), [Felicia Daniela Cannavacciuolo](https://openalex.org/A5000559777), [Mostafa Khoshsefat](https://openalex.org/A5019006602), [Diego De Canditiis](https://openalex.org/A5094128326), [Giuseppe Antinucci](https://openalex.org/A5002877467), [Patchanee Chammingkwan](https://openalex.org/A5086506896), [Roberta Cipullo](https://openalex.org/A5043091039), [Vincenzo Busico](https://openalex.org/A5015117695), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01601.
-    
-No abstract    
-
-    
-
-## Fourier-Transformed Alternating Current Voltammetry (FTacV) for Analysis of Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4396547671    
-Open access: False
-    
-[Rifael Z. Snitkoff-Sol](https://openalex.org/A5089003807), [Alan M. Bond](https://openalex.org/A5066751558), [Lior Elbaz](https://openalex.org/A5018154686), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01526.
-    
-Electrocatalysts play a critical role in energy technologies, but the development of active, efficient, and durable catalysts is impeded by the lack of methodologies to deconvolute the complex interplay between various aspects influencing the activity of the catalysts, e.g., the number of active sites, turnover frequency, and the reaction pathways. Fourier-transformed alternating current voltammetry (FTacV) is an emerging tool for the analysis of electroactive species and has been successfully applied to a variety of reactions such as the oxygen reduction reaction, oxygen evolution reaction, carbon dioxide reduction reaction, hydrogen evolution reaction, and hydrogen oxidation reaction. The harmonics generated from FTacV measurements neatly detect underlaying processes not visible by other, more commonly employed techniques for analysis of electrocatalysts, such as the rotating disc electrode and dc voltammetry. The harmonic components enable separating overlapping processes based on differences in kinetics or linearity of response. This paper presents a review of FTacV applied for the analysis of electrocatalysts. It highlights the importance of determining the electrochemically active site density (EASD) to decipher the intrinsic activity of a catalyst and discusses the use of FTacV in dynamic determination of the EASD over the course of a catalyst's working life, as well as the use of FTacV to understand intricate catalytic processes.    
-
-    
-
-## Photoinduced Copper-Catalyzed Regio- and Enantioselective Alkynylation of Epoxides   
-
-OpenAlex: https://openalex.org/W4396554632    
-Open access: False
-    
-[Jianye Li](https://openalex.org/A5065672758), [Sijia Li](https://openalex.org/A5047954931), [Guihua Cui](https://openalex.org/A5034683730), [Yuan Kou](https://openalex.org/A5011183860), [Chenwei Wang](https://openalex.org/A5051053420), [Chen Yang](https://openalex.org/A5023719427), [Guozhu Zhang](https://openalex.org/A5005641896), [Rui Guo](https://openalex.org/A5064016159), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00818.
-    
-No abstract    
-
-    
-
-## Unraveling the CO Oxidation Mechanism over Highly Dispersed Pt Single Atom on Anatase TiO2 (101)   
-
-OpenAlex: https://openalex.org/W4396561689    
-Open access: False
-    
-[Celine Tesvara](https://openalex.org/A5045270846), [Md Raian Yousuf](https://openalex.org/A5066206219), [Malik Albrahim](https://openalex.org/A5019435286), [Diego Troya](https://openalex.org/A5003028286), [Abhijit Shrotri](https://openalex.org/A5090337296), [Eli Stavitski](https://openalex.org/A5061972581), [Ayman M. Karim](https://openalex.org/A5019554285), [Philippe Sautet](https://openalex.org/A5025258970), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01018.
-    
-Catalysts with noble metals deposited as single atoms on metal oxide supports have recently been studied extensively due to their maximized metal utilization and potential for performing difficult chemical conversions owing to their unique electronic properties. Understanding of the reaction mechanisms on supported single-metal atoms is still limited but is highly important for designing more efficient catalysts. In this study, we report the complexity of the CO oxidation reaction mechanism on Pt single atoms supported on anatase TiO2 (PtSA/a-TiO2) by coupling density functional theory (DFT) calculations and microkinetic analysis with kinetic measurements, in situ/operando infrared, and X-ray absorption spectroscopies. Starting from the adsorbed PtSA occupying an O vacancy induced by reductive pretreatment, we show that CO oxidation follows a complex mechanism consisting of initiation steps to reorganize the active site and multibranch reactive cycles, with the PtSA/a-TiO2 catalyst not returning to its initial configuration. The initiation step consists of CO and O2 adsorption healing the O vacancy, followed by CO oxidation using gas-phase CO to form Pt(CO). The reactive cycle alternates O2 adsorption and dissociation to oxidize the catalyst to Pt(O)(O)(CO) and branching pathways of competing Langmuir–Hinshelwood (LH)- or Eley–Rideal (ER)-type CO oxidation steps to reduce it again to Pt(CO). In situ/operando infrared experiments, including cryogenic CO adsorption and isotopic CO exchange, confirm the combined involvement of strongly adsorbed CO and gas-phase CO in an Eley–Rideal step along the reaction cycle. Microkinetic modeling shows that Pt single atoms are present in a mixture of Pt(CO), Pt(CO)(O2), Pt(O)(CO)(O2), and Pt(CO)(CO3) structures as the main intermediates during steady-state CO oxidation, all having the C–O vibrational stretch close to the experimentally observed value of 2115 cm–1. Microkinetic modeling also shows that the fractional orders of CO and O2 measured experimentally originate from multiple steps with a high degree of rate control and not from a simple competitive adsorption. The results demonstrate the complex reaction pathways that even CO oxidation on a simple single-atom system can follow, providing mechanistic insights for designing efficient Pt-based single-atom catalysts. We further show that microkinetic modeling results are sensitive to changes in energies of intermediate and transition states within errors of density functional theory, which can ultimately lead to incorrect conclusions regarding the reaction pathways and most abundant reaction intermediates if not accounted for by experiments.    
-
-    
 
 ## Selective Formic Acid Production in Ni and NiFe Layered Hydroxides via Glycerol Electro-Oxidation   
 
@@ -116,28 +28,6 @@ No abstract
 
     
 
-## Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO2, Ammonium, and α-Ketoglutarate   
-
-OpenAlex: https://openalex.org/W4396577832    
-Open access: True
-    
-[Shota Nishikawa](https://openalex.org/A5050203944), [Wen‐Yueh Yu](https://openalex.org/A5072678129), [Tony Z. Jia](https://openalex.org/A5021192553), [Meiling He](https://openalex.org/A5039279000), [Anna N. Khusnutdinova](https://openalex.org/A5027234941), [Alexander F. Yakunin](https://openalex.org/A5079399175), [Yin-Ru Chiang](https://openalex.org/A5089465670), [Kosuke Fujishima](https://openalex.org/A5084487892), [Po-Hsiang Wang](https://openalex.org/A5042971510), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00992 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00992)).
-    
-No abstract    
-
-    
-
-## Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production   
-
-OpenAlex: https://openalex.org/W4396581872    
-Open access: False
-    
-[Peipei Zhu](https://openalex.org/A5018629269), [Yongli Shen](https://openalex.org/A5031071648), [Zhi‐Ming Zhang](https://openalex.org/A5006347862), [Dingsheng Wang](https://openalex.org/A5042841794), [Shenglin Xiong](https://openalex.org/A5065207511), [Xuguang An](https://openalex.org/A5061326158), [Shenglin Xiong](https://openalex.org/A5065207511), [Changhua An](https://openalex.org/A5075190712), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01078.
-    
-Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm–2 with high yield (∼96%), selectivity (∼99%), and Faraday efficiency (∼100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm–2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.    
-
-    
-
 ## En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl3   
 
 OpenAlex: https://openalex.org/W4396585142    
@@ -157,17 +47,6 @@ Open access: False
 [Karthik Akkiraju](https://openalex.org/A5089124607), [Reshma R. Rao](https://openalex.org/A5027366818), [Jonathan Hwang](https://openalex.org/A5052065929), [Livia Giordano](https://openalex.org/A5022371820), [Xiao Renshaw Wang](https://openalex.org/A5036203577), [Ethan J. Crumlin](https://openalex.org/A5055367943), [David S. Weinberger](https://openalex.org/A5062347972), [Yang Shao‐Horn](https://openalex.org/A5072645578), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01222.
     
 No abstract    
-
-    
-
-## Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings   
-
-OpenAlex: https://openalex.org/W4396592409    
-Open access: False
-    
-[Ziyue Hu](https://openalex.org/A5035876826), [Ling-Heng Luo](https://openalex.org/A5069694755), [Cheng Shang](https://openalex.org/A5032659859), [Zhi-Pan Liu](https://openalex.org/A5023502514), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00959.
-    
-Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
 
     
 
@@ -267,6 +146,39 @@ Open access: False
 [Rongjiang Zhang](https://openalex.org/A5029507882), [Gen Liu](https://openalex.org/A5005616906), [Chunyong Huo](https://openalex.org/A5058806165), [Lijun Jia](https://openalex.org/A5057409480), [Bo Zhang](https://openalex.org/A5018371876), [Bolun Yang](https://openalex.org/A5079262155), [Xiaoyong Tian](https://openalex.org/A5058329611), [Zhiqiang Wu](https://openalex.org/A5091909594), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01386.
     
 Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
+
+    
+
+## Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO2, Ammonium, and α-Ketoglutarate   
+
+OpenAlex: https://openalex.org/W4396577832    
+Open access: True
+    
+[Shota Nishikawa](https://openalex.org/A5050203944), [Wen‐Yueh Yu](https://openalex.org/A5072678129), [Tony Z. Jia](https://openalex.org/A5021192553), [Meiling He](https://openalex.org/A5039279000), [Anna N. Khusnutdinova](https://openalex.org/A5027234941), [Alexander F. Yakunin](https://openalex.org/A5079399175), [Yin-Ru Chiang](https://openalex.org/A5089465670), [Kosuke Fujishima](https://openalex.org/A5084487892), [Po-Hsiang Wang](https://openalex.org/A5042971510), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00992 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00992)).
+    
+No abstract    
+
+    
+
+## Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production   
+
+OpenAlex: https://openalex.org/W4396581872    
+Open access: False
+    
+[Peipei Zhu](https://openalex.org/A5018629269), [Yongli Shen](https://openalex.org/A5031071648), [Zhi‐Ming Zhang](https://openalex.org/A5006347862), [Dingsheng Wang](https://openalex.org/A5042841794), [Shenglin Xiong](https://openalex.org/A5065207511), [Xuguang An](https://openalex.org/A5061326158), [Shenglin Xiong](https://openalex.org/A5065207511), [Changhua An](https://openalex.org/A5075190712), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01078.
+    
+Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm–2 with high yield (∼96%), selectivity (∼99%), and Faraday efficiency (∼100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm–2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.    
+
+    
+
+## Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings   
+
+OpenAlex: https://openalex.org/W4396592409    
+Open access: False
+    
+[Ziyue Hu](https://openalex.org/A5035876826), [Ling-Heng Luo](https://openalex.org/A5069694755), [Cheng Shang](https://openalex.org/A5032659859), [Zhi-Pan Liu](https://openalex.org/A5023502514), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00959.
+    
+Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
 
     
 
@@ -410,5 +322,49 @@ Open access: False
 [Yuanbo Zhou](https://openalex.org/A5065946202), [Lifang Zhang](https://openalex.org/A5018941402), [Mengfan Wang](https://openalex.org/A5013850346), [Zhi‐Jun Zhu](https://openalex.org/A5003053336), [Najun Li](https://openalex.org/A5079101243), [Tao Qian](https://openalex.org/A5009208811), [Chenglin Yan](https://openalex.org/A5056439522), [Jianmei Lu](https://openalex.org/A5084564396), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00879.
     
 Electrochemical nitrate reduction (NO3RR) offers an ecofriendly way for ammonia production. However, improving the sluggish kinetics of such a multistep reaction still remains challenging. Herein, an asymmetry strategy is proposed to adjust the charge distribution of the active centers on metallene by presenting novel symmetry-broken medium-entropy-alloy (MEA) metallene via heteroatom alloying. Benefiting from the maximized exposure of the well-regulated active sites, proof-of-concept PdCuCo MEA metallene delivers near 100% NH3 Faradaic efficiency in both neutral and alkaline electrolytes, along with a record-high NH3 yield rate over 532.5 mg h–1 mgcat–1. Moreover, it enables 99.7% conversion of nitrate from an industrial wastewater level of 6200 ppm to a drinkable water level. Detailed studies further revealed that charge redistribution is induced by the elemental electronegativity difference on symmetry-broken MEA metallene, which will weaken the N–O bond of *NO, thus reducing the energy barrier of the rate-determining step. Meanwhile, the competitive HER and the formation of NO2– are also hindered. We believe that our strategy proposed in this work will shed light on the design of efficient NO3RR catalysts to a more practical level.    
+
+    
+
+## Beyond Leverage in Activity and Stability toward CO2 Electroreduction to Formate over a Bismuth Catalyst   
+
+OpenAlex: https://openalex.org/W4396720560    
+Open access: False
+    
+[Wenbin Li](https://openalex.org/A5091798976), [Chang Yu](https://openalex.org/A5056660588), [Xin Tan](https://openalex.org/A5080264739), [Yongwen Ren](https://openalex.org/A5006309785), [Yafang Zhang](https://openalex.org/A5026214343), [Song Chen](https://openalex.org/A5065761001), [Yi Yang](https://openalex.org/A5012769862), [Jieshan Qiu](https://openalex.org/A5052910310), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01519.
+    
+The direct production of formate from CO2 over Bi-based catalysts offers a promising route for producing important chemicals using renewable electricity. Nevertheless, limited by the unstable structure and states of catalysts under electrochemical conditions, electroreduction of CO2 to formate is still facing a trade-off between activity and stability, especially at high current densities. Herein, we reported a metal–carbon interfacial modulation strategy to synthesize the cross-linked and defective carbon-modified Bi nanoparticle (Bi-DC) catalyst with a stable spatial structure and a unique CO2-philic and hydrophobic interface. As a result, the Bi-DC featured a remarkable ability for CO2 electroreduction to formate in a near neutral electrolyte (1 M KHCO3) and was even comparable to the CO2-to-formate activity in the strongly basic systems, along with a high partial current density and formation rate for formate of −378 mA cm–2 and 7 mmol cm–2 h–1, respectively. Also, it achieved a stable electrolysis for 120 h at 0.4 A in a membrane electrode assembly reactor and even operated stably at an industrial large current of 5 A. The carbon species promoted the reconstruction and dispersion of active component Bi, together with a spatial confinement effect that facilitated the formation of formate and achieved stable long-term electrolysis.    
+
+    
+
+## Copper-Catalyzed Formal Dihydrosilylation of Terminal Alkynes: A C(sp)–H Silylation-Hydrosilylation-Hydrogenation Sequence   
+
+OpenAlex: https://openalex.org/W4396722294    
+Open access: False
+    
+[Jia Li](https://openalex.org/A5055115466), [Siqiang Fang](https://openalex.org/A5000045799), [Shaozhong Ge](https://openalex.org/A5030534969), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01813.
+    
+No abstract    
+
+    
+
+## Data Analytics for Catalysis Predictions: Are We Ready Yet?   
+
+OpenAlex: https://openalex.org/W4396729186    
+Open access: False
+    
+[Difan Zhang](https://openalex.org/A5078340612), [Brett Smith](https://openalex.org/A5042357313), [Haiyi Wu](https://openalex.org/A5022107690), [Manh‐Thuong Nguyen](https://openalex.org/A5069905241), [Roger Rousseau](https://openalex.org/A5069947980), [Vassiliki Alexandra Glezakou](https://openalex.org/A5015155509), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05285.
+    
+No abstract    
+
+    
+
+## Ambiphilic Alcohol Dehydrogenation by BICAAC Mimicking Metal–Ligand Cooperativity   
+
+OpenAlex: https://openalex.org/W4396731701    
+Open access: False
+    
+[Shishir Bansal](https://openalex.org/A5055878849), [Ayanangshu Biswas](https://openalex.org/A5044995493), [Abhishek Kundu](https://openalex.org/A5086765861), [Manu Adhikari](https://openalex.org/A5060117721), [Sanjay Singh](https://openalex.org/A5058674399), [Debashis Adhikari](https://openalex.org/A5081346085), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01723.
+    
+In this report, an unusual bond activation strategy has been demonstrated by BICAAC, which essentially emulates the behavior of a transition metal. The ambiphilic nature of this specific carbene has facilitated a simultaneous proton and hydride capture from an alcohol molecule to carry out smooth dehydrogenation under mild conditions. The activation route closely follows the traditional metal–ligand bifunctional activation of a substrate. The hydrogen molecule extracted from the substrate alcohol becomes stored in the carbene carbon, which has been unambiguously ascertained by the isolation of this intermediate and its X-ray crystallographic characterization. Such an event has further been interrogated in detail by the deuterium-labeling experiment and DFT computations to substantiate the critical role of carbene's ambiphilicity. Additionally, the stored hydrogen in the carbene molecule has been delivered to an in situ-generated olefinic bond to completely mimic a borrowing hydrogen reaction in an organocatalytic fashion. Both dehydrogenation and rehydrogenation reactions have been conducted in a single pot using BICAAC as the catalyst that alkylates fluorene at its 9-position using a series of alcohols as the alkyl source. A thorough mechanistic sketch describes the involvement of a radical for the latter part of the reaction, overall bringing a different outlook to carbene-promoted small-molecule activation reactions.    
 
     

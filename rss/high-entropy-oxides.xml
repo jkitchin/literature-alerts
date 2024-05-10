@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 09 May 2024 01:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 01:04:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhancing sulfur resistance of oxides in carbon monoxide oxidation by a high&#8208;entropy&#8208;stabilized strategy</title>
+      <link>https://doi.org/10.1002/aic.18470</link>
+      <description>Shengyu Du, Pengfei Zhang, AIChE journal. None(None)] 2024. https://openalex.org/W4396706305
+
+                Abstract Industrial chemical processes require sulfur&#8208;resistant catalysts, which reduce catalyst replacement costs and simplify process operations. Herein, a high&#8208;entropy&#8208;stabilized strategy was put forward for sulfur&#8208;resistant catalysis. A spinel high entropy (Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 ) was introduced by ball milling process with aluminum isopropoxide as the main precursor. Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 possessed a high surface area of 171.2 m 2 g &#8722;1 , higher than typical high&#8208;entropy oxides (HEOs). The high&#8208;entropy spinel catalyst exhibited better SO 2 &#8208;resistance performance in the oxidation of carbon monoxide, better than the simple oxides. The SO 2 &#8208;resistance of Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 was primarily improved by reinforcing the stability of the oxide using a high&#8208;entropy structure to decrease the absorption of SO 2 on its surface. Any adsorbed SO 2 on the surface of the HEO was then selectively trapped by sacrificial metal ions with stronger electron&#8208;withdrawing ability, protecting the active center (Cu 2+ , Co 2+ ) from poisoning. This work reveals the significance of high&#8208;entropy structures in sulfur resistance.</description>
+      <author>Shengyu Du, Pengfei Zhang</author>
+      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aic.18470</guid>
+    </item>
     <item>
       <title>Role of Oxygen Vacancy in High-entropy Cu1Zn1Al0.5Ce5Zr0.5Ox for CO2 Hydrogenation Reaction</title>
       <link>https://doi.org/10.1016/j.apcata.2024.119781</link>

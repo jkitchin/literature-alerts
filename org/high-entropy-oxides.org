@@ -1,10 +1,31 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Thu May  9 01:04:32 2024
+Created on Fri May 10 01:04:57 2024
 
-Found 1 results from 2024-05-02 to 2024-05-09
+Found 2 results from 2024-05-03 to 2024-05-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
+
+* Enhancing sulfur resistance of oxides in carbon monoxide oxidation by a high‐entropy‐stabilized strategy  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396706305
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-05-07
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aic.18470")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396706305"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396706305"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396706305"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396706305 (Open access: False)
+    
+[[https://openalex.org/A5029370723][Shengyu Du]], [[https://openalex.org/A5005363741][Pengfei Zhang]], AIChE journal. None(None)] 2024. https://doi.org/10.1002/aic.18470 
+     
+Abstract Industrial chemical processes require sulfur‐resistant catalysts, which reduce catalyst replacement costs and simplify process operations. Herein, a high‐entropy‐stabilized strategy was put forward for sulfur‐resistant catalysis. A spinel high entropy (Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 ) was introduced by ball milling process with aluminum isopropoxide as the main precursor. Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 possessed a high surface area of 171.2 m 2 g −1 , higher than typical high‐entropy oxides (HEOs). The high‐entropy spinel catalyst exhibited better SO 2 ‐resistance performance in the oxidation of carbon monoxide, better than the simple oxides. The SO 2 ‐resistance of Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 was primarily improved by reinforcing the stability of the oxide using a high‐entropy structure to decrease the absorption of SO 2 on its surface. Any adsorbed SO 2 on the surface of the HEO was then selectively trapped by sacrificial metal ions with stronger electron‐withdrawing ability, protecting the active center (Cu 2+ , Co 2+ ) from poisoning. This work reveals the significance of high‐entropy structures in sulfur resistance.    
+
+    
 
 * Role of Oxygen Vacancy in High-entropy Cu1Zn1Al0.5Ce5Zr0.5Ox for CO2 Hydrogenation Reaction  :high_entropy_oxides:
 :PROPERTIES:
