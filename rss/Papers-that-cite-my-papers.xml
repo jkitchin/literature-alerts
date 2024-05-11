@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 May 2024 01:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 01:04:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Fabrication of amorphous subnanometric palladium nanostructures on metallic transition metal dichalcogenides for efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1039/d4qi00622d</link>
-      <description>Liang Mei, Yuefeng Zhang, Zimeng Ye, Ting Han, Honglu Hu, Ruijie Yang, Ting Ying, W. Zheng, Ruixin Yan, Yue Zhang, Zhenbin Wang, Zhiyuan Zeng, Inorganic chemistry frontiers. None(None)] 2024. https://openalex.org/W4396581113
-
-                Metallic transition metal dichalcogenide nanosheets decorated with amorphous subnanometric Pd nanoparticles exhibit comparable HER performance to that of commercial Pt&#8211;C.</description>
-      <author>Liang Mei, Yuefeng Zhang, Zimeng Ye, Ting Han, Honglu Hu, Ruijie Yang, Ting Ying, W. Zheng, Ruixin Yan, Yue Zhang, Zhenbin Wang, Zhiyuan Zeng</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4qi00622d</guid>
-    </item>
-    <item>
-      <title>Machine Learning-Accelerated High-Throughput Computational Screening: Unveiling Bimetallic Nanoparticles with Peroxidase-Like Activity</title>
-      <link>https://doi.org/10.1021/acsnano.4c01473</link>
-      <description>Kaiwei Wan, Hui Wang, Xinghua Shi, ACS nano. None(None)] 2024. https://openalex.org/W4396581121
-
-                Bimetallic nanoparticles (NPs) with peroxidase-like (POD-like) activity play a crucial role in biosensing, disease treatment, environmental management, and other fields. However, their development is impeded by a vast range of tunable properties in components and structures, making the establishment of structure&#8211;effect relationships and the discovery of active materials challenging. Addressing this, we established robust scaling relationships by meticulously analyzing the catalytic reaction networks of pure metal NPs, which laid the volcano-shaped correlation between the activity and O* adsorption energy. Utilizing these relationships, we introduced an innovative and versatile descriptor of the NPs, which was then integrated into a machine learning-accelerated high-throughput computational workflow, significantly boosting the predictive accuracy for the POD-like activity of bimetallic NPs. Our methodological approach enabled the successful prediction of activities for 1260 bimetallic NPs, leading to the identification of several highly effective catalysts. Furthermore, we distilled several strategies for designing efficient bimetallic NPs based on our screening results.</description>
-      <author>Kaiwei Wan, Hui Wang, Xinghua Shi</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01473</guid>
-    </item>
     <item>
       <title>Biphenylene nanoribbon as a promising electrocatalyst for hydrogen evolution</title>
       <link>https://doi.org/10.1103/physrevapplied.21.054007</link>
@@ -76,36 +56,6 @@
       <author>Shiqing Ding, Zheng Bo, Xiao&#8208;Feng Wang, Yue Zhou, Zhongben Pan, Chun&#8208;Hua Yan, Guangxiang Liu, Leiming Lang</author>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01200</guid>
-    </item>
-    <item>
-      <title>Artificial synthesis of polyesters at ambient condition via consecutive CO2 electrolysis and fermentation</title>
-      <link>https://doi.org/10.1007/s12274-024-6658-6</link>
-      <description>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang, Nano research. None(None)] 2024. https://openalex.org/W4396585498
-
-                No abstract</description>
-      <author>Guiru Zhang, Jianguo Ning, Seung Chul Lyu, Baoxin Ni, Ping Shen, Ke Yao, Yuting Wang, Xuheng Jiang, Hai Zhang, Xi Ling, Yongcheng Wang, Kun Jiang</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6658-6</guid>
-    </item>
-    <item>
-      <title>In situ exploration of oxygen electrocatalysis using core-shell nanostructure-enhanced Raman spectroscopy</title>
-      <link>https://doi.org/10.1016/j.nanoms.2024.03.006</link>
-      <description>Zhengxin Qian, Ji&#8208;Shuang Zeng, Shuang Zhao, Qing&#8208;Na Zheng, Jing&#8208;Hua Tian, Qingchi Xu, Hua Zhang, Jian-Feng Li, Nano materials science. None(None)] 2024. https://openalex.org/W4396589595
-
-                Advancements in fuel cells and water electrolyzers have significantly bolstered the utilization of hydrogen energy. Notably, the oxidation and reduction processes of oxygen at the electrode&#8212;termed oxygen evolution reaction (OER) and oxygen reduction reaction (ORR)&#8212;manifest sluggish reaction kinetics, thus requiring noble metals as catalysts, which considerably impedes system efficiency and cost. The imperative for enhancing reaction rates and diminishing overpotential necessitates the development of effective catalysts, which strongly depends on the mechanistic understanding of these reactions at the molecular level. Therefore, this review summarizes our recent efforts in utilizing in situ enhanced Raman spectroscopy, especially the borrowing surface-enhanced Raman spectroscopy (SERS) strategy, shell-isolated nanoparticle-enhanced Raman spectroscopy (SHINERS), and the SHINERS-satellite strategy, to capture oxygen intermediate species as a bridge to investigate the molecular mechanisms of OER and ORR. Combining in situ SERS with other characterization techniques and theoretical simulation, the structural evolution of active sites and intermediates, including &#8727;OOH, &#8727;OH, &#8727;OO, etc., during OER/ORR has been monitored under reaction conditions, and the reaction mechanisms together with structure-activity correlations have been identified at the molecular level. These findings may provide a pivotal scientific foundation towards the discovery of better materials for electrochemical hydrogen energy.</description>
-      <author>Zhengxin Qian, Ji&#8208;Shuang Zeng, Shuang Zhao, Qing&#8208;Na Zheng, Jing&#8208;Hua Tian, Qingchi Xu, Hua Zhang, Jian-Feng Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoms.2024.03.006</guid>
-    </item>
-    <item>
-      <title>High-Throughput Computational Screening of Novel Two-Dimensional Covalent Organic Frameworks for Efficient Photocatalytic Overall Water Splitting</title>
-      <link>https://doi.org/10.1021/acs.jpclett.4c00818</link>
-      <description>Li Sheng, Weiyi Wang, Jiajun Wang, Wenhua Zhang, Qunxiang Li, Jinlong Yang, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4396596848
-
-                The pursuit of efficient photocatalysts toward photocatalytic water splitting has attracted wide attention. However, the low efficiency of photocatalytic reactions due to the rapid electron-hole recombination and the time-consuming searching process hinder the development of high-performance photocatalysts. Here, we proposed a data-driven screening procedure for covalent organic frameworks (COFs) as overall solar water-splitting photocatalysts. Based on a COF database through assembling different</description>
-      <author>Li Sheng, Weiyi Wang, Jiajun Wang, Wenhua Zhang, Qunxiang Li, Jinlong Yang</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c00818</guid>
     </item>
     <item>
       <title>Carbon Corrosion Induced by Surface Defects Accelerates Degradation of Platinum/Graphene Catalysts in Oxygen Reduction Reaction</title>
@@ -200,10 +150,10 @@
     <item>
       <title>Synergistic role of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mi&gt;p&lt;/mml:mi&gt;&lt;mml:mtext&gt;&#8722;&lt;/mml:mtext&gt;&lt;mml:mi&gt;d&lt;/mml:mi&gt;&lt;/mml:math&gt; hybridization and magnetism in enhanced water splitting on ferromagnetic &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mn&gt;1&lt;/mml:mn&gt;&lt;mml:mi&gt;T&lt;/mml:mi&gt;&lt;/mml:math&gt; transition metal dichalcogenides</title>
       <link>https://doi.org/10.1103/physrevb.109.195414</link>
-      <description>Y.-C. T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui, Physical review. B./Physical review. B. 109(19)] 2024. https://openalex.org/W4396670694
+      <description>Yuh Chin T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui, Physical review. B./Physical review. B. 109(19)] 2024. https://openalex.org/W4396670694
 
                 No abstract</description>
-      <author>Y.-C. T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui</author>
+      <author>Yuh Chin T. Huang, Shunfang Li, Zhen Yu Zhang, Ping Cui</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.195414</guid>
     </item>
@@ -378,6 +328,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144409</guid>
     </item>
     <item>
+      <title>Derived Trends of the Oxygen Adsorption Energy Using the Simplistic Model of the Thermodynamic Potential for Oxygen Evolution Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4821664</link>
+      <description>Isabela Costinela Man, Ionu&#355; Tranca, No host. None(None)] 2024. https://openalex.org/W4396718825
+
+                No abstract</description>
+      <author>Isabela Costinela Man, Ionu&#355; Tranca</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821664</guid>
+    </item>
+    <item>
       <title>Influence of Polar Bridging Molecules on the Photoelectrocatalytic Hydrogen Production from Perylene Diimide Network Structures</title>
       <link>https://doi.org/10.2139/ssrn.4821599</link>
       <description>Weixing Nie, Mengnan Ruan, Ying Zhang, Yuxin Sun, Ke Ruan, Xiaowei Liu, Zhifeng Liu, No host. None(None)] 2024. https://openalex.org/W4396718887
@@ -398,6 +358,36 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c01412</guid>
     </item>
     <item>
+      <title>Recent developments of single atom alloy catalysts for electrocatalytic hydrogenation reactions</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152072</link>
+      <description>Zehua Jin, Yuting Xu, Manjeet Chhetri, Joseph Wood, Brian Torreon, Fanglin Che, Ming Yang, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4396721231
+
+                This review discusses the recent developments of single-atom alloy (SAA) catalysts toward CO2, CO, N2, and NO3&#8211; hydrogenation reactions in the electrocatalysis context, a natural expansion from the thermal catalysis origin where the concept of SAA was born and validated. Electrocatalytic hydrogenations of CO2, CO, NO3&#8211;, and N2 into value-added chemicals offer an attractive general route to mitigate greenhouse gas emissions using renewable energy without H2 feed stream. These reactions typically involve multiple electron-transfer-coupled elementary reaction steps that are of broad relevance to many electrocatalytic applications, making them well-positioned for translational fundamental studies relevant to other emerging electrochemical reactions. While there has been exciting progress in SAA research for various thermal catalytic reactions in the last decade, the design, application, and characterization of SAA catalysts in electrocatalysis remain nascent with intriguing uncertainties and ample opportunities. We highlight the recent research findings in this growing area, where the SAAs, owing to their unique doped metal properties and atomically precise bimetallic synergies, promote selective reaction pathways by tuning binding energies and distributions of adsorbates/intermediates. We also provide our perspective on this growing research area's potential challenges and opportunities.</description>
+      <author>Zehua Jin, Yuting Xu, Manjeet Chhetri, Joseph Wood, Brian Torreon, Fanglin Che, Ming Yang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152072</guid>
+    </item>
+    <item>
+      <title>FeO&lt;sub&gt;4&lt;/sub&gt;-Type Active Sites Grown on Fe-Doped Ni Core Surfaces during the Initial Oxygen Evolution Reactions: Fe-Doping Effect?</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c08462</link>
+      <description>Sung Soo Lim, Chang Weon Choi, Arumugam Sivanantham, Sangaraju Shanmugam, Yves Lansac, Yun Hee Jang, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4396721754
+
+                No abstract</description>
+      <author>Sung Soo Lim, Chang Weon Choi, Arumugam Sivanantham, Sangaraju Shanmugam, Yves Lansac, Yun Hee Jang</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08462</guid>
+    </item>
+    <item>
+      <title>Boron-incorporated IrO2-Ta2O5 coating as an efficient electrocatalyst for acidic oxygen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152040</link>
+      <description>Qikai Huang, Shaojie Zhuang, Yuexi Zheng, Xuerong Peng, Zhiguo Ye, Duosheng Li, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4396722006
+
+                The Ir-based electrocatalysts for the acidic oxygen evolution reaction (OER) have demonstrated remarkable durability. Enhancing the Ir-based electrocatalytic activity still remains crucial owing to the scarcity of iridium. Here, a high-temperature sintering technique is employed to fabricate a boron (B)-incorporated IrO2-Ta2O5 coating with an almost perfect rutile-type crystal structure on a corrosion-resistant titanium substrate, ensuring exceptional stability for the acidic OER. The B-incorporated IrO2-Ta2O5 electrode fabricated in a mixed solution of 0.6 M H3BO3, exhibits an overpotential of 210 mV at a current density of 10 mA cm&#8722;2 and a lower Tafel slope of 34.2 mV dec&#8722;1 in a 0.5 M H2SO4 solution, which is far lower than the 272 mV overpotential and the 45.3 mV dec&#8722;1 of the IrO2-Ta2O5/Ti electrode. The electrode possesses a minimal potential increase even after undergoing continuous OER for 400 h at a high current density of 100 mA cm&#8722;2 in a 0.5 M H2SO4 solution. The incorporation of B species into IrO2-Ta2O5 effectively fine-tunes the electronic structure of Ir active sites, leading to a substantial enhancement of the intrinsic electrocatalytic activity. This study provides promising prospects for reducing the energy consumption of noble IrO2-based electrocatalysts in the practical application of electrochemical industry for the acidic OER.</description>
+      <author>Qikai Huang, Shaojie Zhuang, Yuexi Zheng, Xuerong Peng, Zhiguo Ye, Duosheng Li</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152040</guid>
+    </item>
+    <item>
       <title>Data Analytics for Catalysis Predictions: Are We Ready Yet?</title>
       <link>https://doi.org/10.1021/acscatal.3c05285</link>
       <description>Difan Zhang, Brett Smith, Haiyi Wu, Manh&#8208;Thuong Nguyen, Roger Rousseau, Vassiliki Alexandra Glezakou, ACS catalysis. None(None)] 2024. https://openalex.org/W4396729186
@@ -408,24 +398,34 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05285</guid>
     </item>
     <item>
-      <title>Facile Fabrication and Characterization of Amine-Functional Silica Coated Magnetic Iron Oxide Nanoparticles for Aqueous Carbon Dioxide Adsorption</title>
-      <link>https://doi.org/10.1021/acsomega.3c10082</link>
-      <description>Md. Muhyminul Islam, Md. Abdur Rahman, M. A. Alam, Md. Mahbubor Rahman, O. Thompson Mefford, Anwar Ul&#8208;Hamid, Jalil Miah, Hasan Ahmad, ACS omega. None(None)] 2024. https://openalex.org/W4396581384
+      <title>Phase-field determination of NaSICON materials in the quaternary system Na2O-P2O5-SiO2-ZrO2: II. Glass-ceramics and the phantom of excessive vacancy formation</title>
+      <link>https://doi.org/10.1016/j.nxener.2024.100130</link>
+      <description>Enkhtsetseg Dashjav, Marie-Theres Gerhards, F. Klein, Daniel Gr&#252;ner, Thomas C. Hansen, Jochen Rohrer, Karsten Albe, Dina Fattakhova&#8208;Rohlfing, Frank Tietz, Next energy. 4(None)] 2024. https://openalex.org/W4396742744
 
                 No abstract</description>
-      <author>Md. Muhyminul Islam, Md. Abdur Rahman, M. A. Alam, Md. Mahbubor Rahman, O. Thompson Mefford, Anwar Ul&#8208;Hamid, Jalil Miah, Hasan Ahmad</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.3c10082</guid>
+      <author>Enkhtsetseg Dashjav, Marie-Theres Gerhards, F. Klein, Daniel Gr&#252;ner, Thomas C. Hansen, Jochen Rohrer, Karsten Albe, Dina Fattakhova&#8208;Rohlfing, Frank Tietz</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nxener.2024.100130</guid>
     </item>
     <item>
-      <title>Accelerating material property prediction using generically complete isometry invariants</title>
-      <link>https://doi.org/10.1038/s41598-024-59938-z</link>
-      <description>Jonathan Balasingham, Viktor Zamaraev, Vitaliy Kurlin, Scientific reports. 14(1)] 2024. https://openalex.org/W4396592660
+      <title>Machine Learning-Assisted Study of REN&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;C&lt;sub&gt;6&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;-Doped Graphene as Potential Electrocatalysts for Oxygen Electrode Reactions</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c00803</link>
+      <description>Qiming Fu, Tongtong Xu, Chao He, Daomiao Wang, Meiling Liu, Chao Liu, Langmuir. None(None)] 2024. https://openalex.org/W4396747083
 
-                Abstract Periodic material or crystal property prediction using machine learning has grown popular in recent years as it provides a computationally efficient replacement for classical simulation methods. A crucial first step for any of these algorithms is the representation used for a periodic crystal. While similar objects like molecules and proteins have a finite number of atoms and their representation can be built based upon a finite point cloud interpretation, periodic crystals are unbounded in size, making their representation more challenging. In the present work, we adapt the Pointwise Distance Distribution (PDD), a continuous and generically complete isometry invariant for periodic point sets, as a representation for our learning algorithm. The PDD distinguished all (more than 660 thousand) periodic crystals in the Cambridge Structural Database as purely periodic sets of points without atomic types. We develop a transformer model with a modified self-attention mechanism that combines PDD with compositional information via a spatial encoding method. This model is tested on the crystals of the Materials Project and Jarvis-DFT databases and shown to produce accuracy on par with state-of-the-art methods while being several times faster in both training and prediction time.</description>
-      <author>Jonathan Balasingham, Viktor Zamaraev, Vitaliy Kurlin</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-59938-z</guid>
+                In the application of renewable energy, the oxidation&#8211;reduction reaction (ORR) and oxygen evolution reaction (OER) are two crucial reactions. Single-atom catalysts (SACs) based on metal-doped graphene have been widely employed due to their high activity and high atom utilization efficiency. However, the catalytic activity is significantly influenced by different metals and local coordination, making it challenging to efficiently screen through either experimental or density functional theory (DFT) calculations. To address this issue, this study employed a combination of DFT calculations and machine learning (DFT-ML) to investigate rare earth-modified carbon-based (RENxC6&#8211;x) electrocatalysts. Based on computational data from 75 catalysts, we trained two ML models to capture the underlying patterns of physical properties and overpotential. Subsequently, the candidate catalysts were screened, leading to the discovery of four ORR catalysts, nine OER catalysts, and five bifunctional electrocatalysts, all of which were thoroughly validated for their stability. Lastly, by integrating the ML models with the SHAP analysis framework, we revealed the influence of atomic radius, Pauling electronegativity, and other features on the catalytic activity. Additionally, we analyzed the physicochemical properties of potential catalysts through DFT calculations. The revolutionary DFT-ML approach provides a crucial driving force for the design and synthesis of potential catalysts in subsequent studies.</description>
+      <author>Qiming Fu, Tongtong Xu, Chao He, Daomiao Wang, Meiling Liu, Chao Liu</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00803</guid>
+    </item>
+    <item>
+      <title>The Bell-Evans-Polanyi relation for hydrogen evolution reaction from first-principles</title>
+      <link>https://doi.org/10.1038/s41524-024-01244-3</link>
+      <description>Timothy Yang, Wissam A. Saidi, npj computational materials. 10(1)] 2024. https://openalex.org/W4396748101
+
+                Abstract The versatile Bell-Evans-Polanyi (BEP) relation stipulates the kinetics of a reaction in terms of thermodynamics. Herein, we establish the BEP relation for the hydrogen evolution reaction (HER) from fundamental electrochemical principles leveraging the Butler-Volmer relation for a one-step, one-electron process and the transition state theory. Based on first-principles investigations of HER mechanisms on fourteen metal electrodes, we firmly justify the BEP relation solely using an easy-to compute hydrogen adsorption free energy and universal electrochemical constants.</description>
+      <author>Timothy Yang, Wissam A. Saidi</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01244-3</guid>
     </item>
     <item>
       <title>An overview of technologies for Capturing, Storing, and utilizing carbon Dioxide: Technology Readiness, large-scale Demonstration, and cost</title>

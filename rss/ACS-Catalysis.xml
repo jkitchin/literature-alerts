@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 10 May 2024 01:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 01:04:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Formic Acid Production in Ni and NiFe Layered Hydroxides via Glycerol Electro-Oxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01250</link>
-      <description>D. K. Kim, Cu Dang Van, Min Seok Lee, Minho Kim, Min Hyung Lee, Jihun Oh, ACS catalysis. None(None)] 2024. https://openalex.org/W4396575542
-
-                No abstract</description>
-      <author>D. K. Kim, Cu Dang Van, Min Seok Lee, Minho Kim, Min Hyung Lee, Jihun Oh</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01250</guid>
-    </item>
-    <item>
-      <title>Unveiling the Mechanism of Plasma-Catalyzed Oxidation of Methane to C&lt;sub&gt;2+&lt;/sub&gt; Oxygenates over Cu/UiO-66-NH&lt;sub&gt;2&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c00261</link>
-      <description>Chao Qi, Yifu Bi, Yaolin Wang, Hong Yu, Yuanyu Tian, Peijie Zong, Qinhua Zhang, Haonan Zhang, Mingqing Wang, Tao Xing, Mingbo Wu, Xin Tu, Wenting Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396576901
-
-                No abstract</description>
-      <author>Chao Qi, Yifu Bi, Yaolin Wang, Hong Yu, Yuanyu Tian, Peijie Zong, Qinhua Zhang, Haonan Zhang, Mingqing Wang, Tao Xing, Mingbo Wu, Xin Tu, Wenting Wu</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00261</guid>
-    </item>
-    <item>
-      <title>En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl&lt;sub&gt;3&lt;/sub&gt;</title>
-      <link>https://doi.org/10.1021/acscatal.4c01130</link>
-      <description>Tarun Kumar Dinda, Anupam Manna, Prasenjit Mal, ACS catalysis. None(None)] 2024. https://openalex.org/W4396585142
-
-                Our study proposes an approach to semiheterogeneous photocatalysis, focusing on recyclability challenges. We developed a method employing visible light with photoinert anhydrous CeCl3, rendering it into a reusable semiheterogeneous photocatalyst. Despite being photoinert and insoluble in organic solvents, anhydrous CeCl3 formed a transient charge transfer complex in acetonitrile, denoted as CeCl3 - NXS (NBS or NCS), due to the strong oxophilicity of trivalent cerium toward oxygen. This complex facilitated visible-light absorption, leading to the photoexcitation of the Ce(III) complexes and conversion of Ce(III) centers into potent reductants, donating electrons to NXS. As a proof of concept, we demonstrated organic reactions where NXS, upon accepting electrons, generated halide radicals, allowing the synthesis of gem-dihaloketones under sunlight from terminal aromatic alkynes via C&#8211;X cross-coupling reactions. Significantly, CeCl3 exhibited recyclability without notable decomposition, demonstrated by its regeneration and isolation through simple filtration postreaction, underscoring its potential for prolonged use.</description>
-      <author>Tarun Kumar Dinda, Anupam Manna, Prasenjit Mal</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01130</guid>
-    </item>
-    <item>
-      <title>Regulating Oxygen Activity of Perovskites to Promote Activity and Selectivity for Methanol Oxidation to Formaldehyde</title>
-      <link>https://doi.org/10.1021/acscatal.4c01222</link>
-      <description>Karthik Akkiraju, Reshma R. Rao, Jonathan Hwang, Livia Giordano, Xiao Renshaw Wang, Ethan J. Crumlin, David S. Weinberger, Yang Shao&#8208;Horn, ACS catalysis. None(None)] 2024. https://openalex.org/W4396585598
-
-                No abstract</description>
-      <author>Karthik Akkiraju, Reshma R. Rao, Jonathan Hwang, Livia Giordano, Xiao Renshaw Wang, Ethan J. Crumlin, David S. Weinberger, Yang Shao&#8208;Horn</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01222</guid>
-    </item>
-    <item>
-      <title>Synergistic Interfacial Reconstruction and Surface Polarization in a Compact ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt;&#8211;CdIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Heterojunction for Enhanced Photocatalytic H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt; Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c00924</link>
-      <description>Yunxia Liu, Yueming Wu, Yuhui Liu, Yi Wang, Xin Sun, Peng Chen, Shuang&#8208;Feng Yin, ACS catalysis. None(None)] 2024. https://openalex.org/W4396596653
-
-                No abstract</description>
-      <author>Yunxia Liu, Yueming Wu, Yuhui Liu, Yi Wang, Xin Sun, Peng Chen, Shuang&#8208;Feng Yin</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00924</guid>
-    </item>
-    <item>
-      <title>Site-Selective C&#8211;H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00690</link>
-      <description>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396604944
-
-                No abstract</description>
-      <author>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu</author>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00690</guid>
-    </item>
     <item>
       <title>Enhancing Low-Temperature Syngas Production via Surface Tailoring of Supported Intermetallic Nanocatalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c01180</link>
@@ -128,6 +68,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00984</guid>
     </item>
     <item>
+      <title>Site-Selective C&#8211;H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00690</link>
+      <description>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396604944
+
+                No abstract</description>
+      <author>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu</author>
+      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00690</guid>
+    </item>
+    <item>
       <title>Tailoring Catalytic and Oxygen Release Capability in LaFe&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ni&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; to Intensify Chemical Looping Reactions at Medium Temperatures</title>
       <link>https://doi.org/10.1021/acscatal.4c01386</link>
       <description>Rongjiang Zhang, Gen Liu, Chunyong Huo, Lijun Jia, Bo Zhang, Bolun Yang, Xiaoyong Tian, Zhiqiang Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396645619
@@ -136,36 +86,6 @@
       <author>Rongjiang Zhang, Gen Liu, Chunyong Huo, Lijun Jia, Bo Zhang, Bolun Yang, Xiaoyong Tian, Zhiqiang Wu</author>
       <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01386</guid>
-    </item>
-    <item>
-      <title>Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO&lt;sub&gt;2&lt;/sub&gt;, Ammonium, and &#945;-Ketoglutarate</title>
-      <link>https://doi.org/10.1021/acscatal.4c00992</link>
-      <description>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396577832
-
-                No abstract</description>
-      <author>Shota Nishikawa, Wen&#8208;Yueh Yu, Tony Z. Jia, Meiling He, Anna N. Khusnutdinova, Alexander F. Yakunin, Yin-Ru Chiang, Kosuke Fujishima, Po-Hsiang Wang</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00992</guid>
-    </item>
-    <item>
-      <title>Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production</title>
-      <link>https://doi.org/10.1021/acscatal.4c01078</link>
-      <description>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An, ACS catalysis. None(None)] 2024. https://openalex.org/W4396581872
-
-                Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm&#8211;2 with high yield (&#8764;96%), selectivity (&#8764;99%), and Faraday efficiency (&#8764;100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm&#8211;2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.</description>
-      <author>Peipei Zhu, Yongli Shen, Zhi&#8208;Ming Zhang, Dingsheng Wang, Shenglin Xiong, Xuguang An, Shenglin Xiong, Changhua An</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01078</guid>
-    </item>
-    <item>
-      <title>Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings</title>
-      <link>https://doi.org/10.1021/acscatal.4c00959</link>
-      <description>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396592409
-
-                Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH &#8594; CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt&#8211;water and Pd&#8211;water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude&#9472;Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid&#8211;gas and the solid&#8211;liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.</description>
-      <author>Ziyue Hu, Ling-Heng Luo, Cheng Shang, Zhi-Pan Liu</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00959</guid>
     </item>
     <item>
       <title>Partial Oxidation of Methanol on Gold: How Selectivity Is Steered by Low-Coordinated Sites</title>
@@ -200,10 +120,10 @@
     <item>
       <title>Piezocatalytic Performances of Conjugated Microporous Polymers with Donor&#8211;Acceptor Structures for Overall Water Splitting</title>
       <link>https://doi.org/10.1021/acscatal.4c00918</link>
-      <description>Jianping Chen, Lu Xie, Wan-Hong Huang, Ling Niu, Qing-Ling Ni, T. Huang, Liu-Cheng Gui, Xiu-Jian Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396666388
+      <description>Jianping Chen, Lu Xie, Wan-Hong Huang, Ling Niu, Qing&#8208;Ling Ni, T. Huang, Liu-Cheng Gui, Xiu&#8208;Jian Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396666388
 
                 No abstract</description>
-      <author>Jianping Chen, Lu Xie, Wan-Hong Huang, Ling Niu, Qing-Ling Ni, T. Huang, Liu-Cheng Gui, Xiu-Jian Wang</author>
+      <author>Jianping Chen, Lu Xie, Wan-Hong Huang, Ling Niu, Qing&#8208;Ling Ni, T. Huang, Liu-Cheng Gui, Xiu&#8208;Jian Wang</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00918</guid>
     </item>
@@ -308,6 +228,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01519</guid>
     </item>
     <item>
+      <title>B(C&lt;sub&gt;6&lt;/sub&gt;F&lt;sub&gt;5&lt;/sub&gt;)&lt;sub&gt;3&lt;/sub&gt;-Catalyzed C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Alkylation of Tertiary Amines with Electron-Deficient Olefins: Determinants of Site Selectivity</title>
+      <link>https://doi.org/10.1021/acscatal.4c01160</link>
+      <description>Xin-Yue Zhou, Yuanhu Shao, Rui Guo, Yalin Zhang, Xiao&#8208;Song Xue, Xiao&#8208;Chen Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396720924
+
+                No abstract</description>
+      <author>Xin-Yue Zhou, Yuanhu Shao, Rui Guo, Yalin Zhang, Xiao&#8208;Song Xue, Xiao&#8208;Chen Wang</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01160</guid>
+    </item>
+    <item>
+      <title>Boosting the Urea Synthesis Rate on Ni Single-Atom Catalysts: The Impact of Acetonitrile Electrolyte in the Tandem CO&lt;sub&gt;2&lt;/sub&gt; Reduction/Nucleophilic Addition Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01557</link>
+      <description>Peize Li, Yan Wang, Xiaoju Yang, Yanbin Zhu, Zhiguo Zhang, Xuan Yang, Yan Shen, Mingkui Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396722222
+
+                No abstract</description>
+      <author>Peize Li, Yan Wang, Xiaoju Yang, Yanbin Zhu, Zhiguo Zhang, Xuan Yang, Yan Shen, Mingkui Wang</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01557</guid>
+    </item>
+    <item>
       <title>Copper-Catalyzed Formal Dihydrosilylation of Terminal Alkynes: A C(sp)&#8211;H Silylation-Hydrosilylation-Hydrogenation Sequence</title>
       <link>https://doi.org/10.1021/acscatal.4c01813</link>
       <description>Jia Li, Siqiang Fang, Shaozhong Ge, ACS catalysis. None(None)] 2024. https://openalex.org/W4396722294
@@ -316,6 +256,16 @@
       <author>Jia Li, Siqiang Fang, Shaozhong Ge</author>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01813</guid>
+    </item>
+    <item>
+      <title>Functional Application of the Single-Module NRPS-like &lt;scp&gt;d&lt;/scp&gt;-Alanyltransferase in Maytansinol Biosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00082</link>
+      <description>Zhongyue Li, Zhangliang Zhu, Guangsen Xu, Wenhan Lin, Jiang Liu, Haoxin Wang, Ching&#8211;Liang Lu, Yaoyao Li, Deyu Zhu, Yuemao Shen, ACS catalysis. None(None)] 2024. https://openalex.org/W4396723233
+
+                No abstract</description>
+      <author>Zhongyue Li, Zhangliang Zhu, Guangsen Xu, Wenhan Lin, Jiang Liu, Haoxin Wang, Ching&#8211;Liang Lu, Yaoyao Li, Deyu Zhu, Yuemao Shen</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00082</guid>
     </item>
     <item>
       <title>Data Analytics for Catalysis Predictions: Are We Ready Yet?</title>
@@ -336,6 +286,26 @@
       <author>Shishir Bansal, Ayanangshu Biswas, Abhishek Kundu, Manu Adhikari, Sanjay Singh, Debashis Adhikari</author>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01723</guid>
+    </item>
+    <item>
+      <title>&#960;&#8211;&#960; Interactions-Driven Ethylene Polymerization Using &#8220;Sandwich&#8221; Bis(imino)pyridyl Iron Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01248</link>
+      <description>Z.-Y. Cheng, Haiyang Gao, Zonglin Qiu, Handou Zheng, Donghui Li, Long Jiang, Haiyang Gao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396746889
+
+                Weak noncovalent interactions are an effective strategy for modulating catalytic olefin polymerization but have never been observed in bis(imino)pyridyl iron catalysts. In this paper, a series of "sandwich" bis(imino)pyridyl iron complexes with substituted 8-(p-R-phenyl)naphthylamine (R = OMe, Me, H, CF3) were designed and synthesized for ethylene polymerization. The &#960;&#8211;&#960; interactions between the capping aryl groups and the pyridyl ring are clearly observed in "sandwich" bis(imino)pyridyl iron complexes by single crystal X-ray diffraction analysis, UV&#8211;vis, and photoluminescence (PL) spectra. The intramolecular &#960;&#8211;&#960; interactions make the naphthyl rings tilt away from the iron center in the horizontal direction, thereby causing a more open horizontal space within iron complexes for ethylene coordination. Ethylene polymerization results show that &#960;&#8211;&#960; interactions are a crucial driving force rather than the electronic effects of ligands. Unprecedentedly, bulky "sandwich" bis(imino)pyridyl iron catalysts produce low-molecular-weight PE with a bimodal distribution, which originates from &#946;-H transfer to monomer modulated by the &#960;&#8211;&#960; interactions. Density functional theory (DFT) calculations mechanistically demonstrate that the coordination of ethylene to the iron center is a crucial step in ethylene polymerization.</description>
+      <author>Z.-Y. Cheng, Haiyang Gao, Zonglin Qiu, Handou Zheng, Donghui Li, Long Jiang, Haiyang Gao</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01248</guid>
+    </item>
+    <item>
+      <title>Bond Dissociation Energy-Controlled Regioselectivity in Hydrofunctionalization</title>
+      <link>https://doi.org/10.1021/acscatal.4c00304</link>
+      <description>Jie Peng, Xiaoqian He, Xiaoling Luo, Kangbao Zhong, Li&#8208;Li Liao, Ruopeng Bai, Yu Lan, ACS catalysis. None(None)] 2024. https://openalex.org/W4396747447
+
+                The bond dissociation energy (BDE) in reactants was found to be critical for determining the tunable pathways of low-valent tungsten-catalyzed chain-walking hydroboration and hydrogermylation of &#946;,&#947;-unsaturated amides, which is considered to be the key factor in the regioselective determination. Computational results revealed that the higher BDE of the H&#8211;B bond hampers the oxidative hydrogen migration, leading to borane reacting with tungsten later than alkenes. Thus, the generation of a &#946;-borylated product was found to be favorable through H&#8211;C&#946; bond oxidative addition, H&#8211;C&#948; bond reductive elimination, H&#8211;B bond oxidative hydrogen migration, and B&#8211;C&#946; bond reductive elimination. As a comparison, the lower BDE of H&#8211;Ge leads to a facile oxidative hydrogen migration of the H&#8211;Ge bond, which finally results in the formation of an &#945;-germylated product after germyl-assisted olefin walking. Further distortion&#8211;interaction analysis confirmed that the weak H&#8211;Ge bond was easier to distort for its reactions.</description>
+      <author>Jie Peng, Xiaoqian He, Xiaoling Luo, Kangbao Zhong, Li&#8208;Li Liao, Ruopeng Bai, Yu Lan</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00304</guid>
     </item>
   </channel>
 </rss>

@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri May 10 01:04:58 2024
+Created on Sat May 11 01:04:29 2024
 
-Found 33 results from 2024-05-03 to 2024-05-10
+Found 30 results from 2024-05-04 to 2024-05-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Formic Acid Production in Ni and NiFe Layered Hydroxides via Glycerol Electro-Oxidation   
-
-OpenAlex: https://openalex.org/W4396575542    
-Open access: False
-    
-[D. K. Kim](https://openalex.org/A5066993536), [Cu Dang Van](https://openalex.org/A5033111994), [Min Seok Lee](https://openalex.org/A5077914968), [Minho Kim](https://openalex.org/A5043580930), [Min Hyung Lee](https://openalex.org/A5090584934), [Jihun Oh](https://openalex.org/A5090271472), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01250.
-    
-No abstract    
-
-    
-
-## Unveiling the Mechanism of Plasma-Catalyzed Oxidation of Methane to C2+ Oxygenates over Cu/UiO-66-NH2   
-
-OpenAlex: https://openalex.org/W4396576901    
-Open access: True
-    
-[Chao Qi](https://openalex.org/A5029042444), [Yifu Bi](https://openalex.org/A5063881034), [Yaolin Wang](https://openalex.org/A5002237217), [Hong Yu](https://openalex.org/A5090624322), [Yuanyu Tian](https://openalex.org/A5091295047), [Peijie Zong](https://openalex.org/A5009908112), [Qinhua Zhang](https://openalex.org/A5052585046), [Haonan Zhang](https://openalex.org/A5051539538), [Mingqing Wang](https://openalex.org/A5080772741), [Tao Xing](https://openalex.org/A5022433710), [Mingbo Wu](https://openalex.org/A5063554744), [Xin Tu](https://openalex.org/A5029654757), [Wenting Wu](https://openalex.org/A5080124839), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00261 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00261)).
-    
-No abstract    
-
-    
-
-## En Route to Recyclable Semi-Heterogeneous Photocatalysis with Photoinert CeCl3   
-
-OpenAlex: https://openalex.org/W4396585142    
-Open access: False
-    
-[Tarun Kumar Dinda](https://openalex.org/A5069553108), [Anupam Manna](https://openalex.org/A5005278498), [Prasenjit Mal](https://openalex.org/A5026932849), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01130.
-    
-Our study proposes an approach to semiheterogeneous photocatalysis, focusing on recyclability challenges. We developed a method employing visible light with photoinert anhydrous CeCl3, rendering it into a reusable semiheterogeneous photocatalyst. Despite being photoinert and insoluble in organic solvents, anhydrous CeCl3 formed a transient charge transfer complex in acetonitrile, denoted as CeCl3 - NXS (NBS or NCS), due to the strong oxophilicity of trivalent cerium toward oxygen. This complex facilitated visible-light absorption, leading to the photoexcitation of the Ce(III) complexes and conversion of Ce(III) centers into potent reductants, donating electrons to NXS. As a proof of concept, we demonstrated organic reactions where NXS, upon accepting electrons, generated halide radicals, allowing the synthesis of gem-dihaloketones under sunlight from terminal aromatic alkynes via C–X cross-coupling reactions. Significantly, CeCl3 exhibited recyclability without notable decomposition, demonstrated by its regeneration and isolation through simple filtration postreaction, underscoring its potential for prolonged use.    
-
-    
-
-## Regulating Oxygen Activity of Perovskites to Promote Activity and Selectivity for Methanol Oxidation to Formaldehyde   
-
-OpenAlex: https://openalex.org/W4396585598    
-Open access: False
-    
-[Karthik Akkiraju](https://openalex.org/A5089124607), [Reshma R. Rao](https://openalex.org/A5027366818), [Jonathan Hwang](https://openalex.org/A5052065929), [Livia Giordano](https://openalex.org/A5022371820), [Xiao Renshaw Wang](https://openalex.org/A5036203577), [Ethan J. Crumlin](https://openalex.org/A5055367943), [David S. Weinberger](https://openalex.org/A5062347972), [Yang Shao‐Horn](https://openalex.org/A5072645578), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01222.
-    
-No abstract    
-
-    
-
-## Synergistic Interfacial Reconstruction and Surface Polarization in a Compact ZnIn2S4–CdIn2S4 Heterojunction for Enhanced Photocatalytic H2O2 Production   
-
-OpenAlex: https://openalex.org/W4396596653    
-Open access: False
-    
-[Yunxia Liu](https://openalex.org/A5041488712), [Yueming Wu](https://openalex.org/A5056381213), [Yuhui Liu](https://openalex.org/A5021563384), [Yi Wang](https://openalex.org/A5004998372), [Xin Sun](https://openalex.org/A5067326635), [Peng Chen](https://openalex.org/A5012901518), [Shuang‐Feng Yin](https://openalex.org/A5086761727), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00924.
-    
-No abstract    
-
-    
-
-## Site-Selective C–H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis   
-
-OpenAlex: https://openalex.org/W4396604944    
-Open access: False
-    
-[Zengguo Sun](https://openalex.org/A5064560838), [Zhuhan Jiang](https://openalex.org/A5027703889), [Feng He](https://openalex.org/A5049511259), [Chenyue Li](https://openalex.org/A5021118366), [Hai Xiong](https://openalex.org/A5069609913), [Dan Yang](https://openalex.org/A5086328096), [Hui Miao](https://openalex.org/A5046616265), [Qinglin Li](https://openalex.org/A5072645559), [Jinxiang Ye](https://openalex.org/A5006570149), [Ching-Yong Wu](https://openalex.org/A5043161504), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00690.
-    
-No abstract    
-
-    
 
 ## Enhancing Low-Temperature Syngas Production via Surface Tailoring of Supported Intermetallic Nanocatalysts   
 
@@ -138,6 +72,17 @@ No abstract
 
     
 
+## Site-Selective C–H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis   
+
+OpenAlex: https://openalex.org/W4396604944    
+Open access: False
+    
+[Zengguo Sun](https://openalex.org/A5064560838), [Zhuhan Jiang](https://openalex.org/A5027703889), [Feng He](https://openalex.org/A5049511259), [Chenyue Li](https://openalex.org/A5021118366), [Hai Xiong](https://openalex.org/A5069609913), [Dan Yang](https://openalex.org/A5086328096), [Hui Miao](https://openalex.org/A5046616265), [Qinglin Li](https://openalex.org/A5072645559), [Jinxiang Ye](https://openalex.org/A5006570149), [Ching-Yong Wu](https://openalex.org/A5043161504), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00690.
+    
+No abstract    
+
+    
+
 ## Tailoring Catalytic and Oxygen Release Capability in LaFe1–xNixO3 to Intensify Chemical Looping Reactions at Medium Temperatures   
 
 OpenAlex: https://openalex.org/W4396645619    
@@ -146,39 +91,6 @@ Open access: False
 [Rongjiang Zhang](https://openalex.org/A5029507882), [Gen Liu](https://openalex.org/A5005616906), [Chunyong Huo](https://openalex.org/A5058806165), [Lijun Jia](https://openalex.org/A5057409480), [Bo Zhang](https://openalex.org/A5018371876), [Bolun Yang](https://openalex.org/A5079262155), [Xiaoyong Tian](https://openalex.org/A5058329611), [Zhiqiang Wu](https://openalex.org/A5091909594), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01386.
     
 Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
-
-    
-
-## Amino Acid Self-Regenerating Cell-Free Protein Synthesis System that Feeds on PLA Plastics, CO2, Ammonium, and α-Ketoglutarate   
-
-OpenAlex: https://openalex.org/W4396577832    
-Open access: True
-    
-[Shota Nishikawa](https://openalex.org/A5050203944), [Wen‐Yueh Yu](https://openalex.org/A5072678129), [Tony Z. Jia](https://openalex.org/A5021192553), [Meiling He](https://openalex.org/A5039279000), [Anna N. Khusnutdinova](https://openalex.org/A5027234941), [Alexander F. Yakunin](https://openalex.org/A5079399175), [Yin-Ru Chiang](https://openalex.org/A5089465670), [Kosuke Fujishima](https://openalex.org/A5084487892), [Po-Hsiang Wang](https://openalex.org/A5042971510), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00992 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00992)).
-    
-No abstract    
-
-    
-
-## Modulating Alcohol Adsorption Modes for Boosting Electrooxidation-Assisted Hydrogen Production   
-
-OpenAlex: https://openalex.org/W4396581872    
-Open access: False
-    
-[Peipei Zhu](https://openalex.org/A5018629269), [Yongli Shen](https://openalex.org/A5031071648), [Zhi‐Ming Zhang](https://openalex.org/A5006347862), [Dingsheng Wang](https://openalex.org/A5042841794), [Shenglin Xiong](https://openalex.org/A5065207511), [Xuguang An](https://openalex.org/A5061326158), [Shenglin Xiong](https://openalex.org/A5065207511), [Changhua An](https://openalex.org/A5075190712), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01078.
-    
-Oxygen evolution reaction (OER) suffers from sluggish kinetics and results in the increasing cost of hydrogen production. The exploration of an appropriate anode organic reaction occurring at low potential represents a feasible strategy to accelerate the implementation of water splitting in practice. Herein, we develop a ligand-confining thermolysis strategy to fabricate a Ru single-atom catalyst (Ru-SA/NSC) on N,S-codoped carbon. The adsorption mode effects of substrate alcohols on the electrocatalytic oxidation of Ru-SA/NSC are unraveled through modulation of substituent groups. The horizontal adsorption through the O atom on Ru-SA/NSC significantly facilitates the benzyl alcohol oxidation, delivering ultralow potential of 0.97 V vs reversible hydrogen electrode (RHE) at 10 mA cm–2 with high yield (∼96%), selectivity (∼99%), and Faraday efficiency (∼100%) to produce aldehydes. The vertical adsorption through the N atom in pyridine methanol over Ru-SA/NSC has no response to the reaction. Furthermore, in the coupling device of alcohol oxidation and hydrogen evolution reaction, hydrogen production with a low potential of 1.21 V at 10 mA cm–2 is achieved, surpassing that of benchmark Pt/C||IrO2 (1.56 V) and the state-of-the-art reports. This study provides insights into the design of nanocatalysts toward the rational conversion of organic molecules to value-added chemicals and concurrently produces clean energy carriers.    
-
-    
-
-## Free Energy Pathway Exploration of Catalytic Formic Acid Decomposition on Pt-Group Metals in Aqueous Surroundings   
-
-OpenAlex: https://openalex.org/W4396592409    
-Open access: False
-    
-[Ziyue Hu](https://openalex.org/A5035876826), [Ling-Heng Luo](https://openalex.org/A5069694755), [Cheng Shang](https://openalex.org/A5032659859), [Zhi-Pan Liu](https://openalex.org/A5023502514), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00959.
-    
-Formic acid is an important platform molecule for hydrogen utilization, where Pt-group metals are the only catalyst candidates to achieve ambient condition formic acid (FA) decomposition (HCOOH → CO2 + H2). However, these catalysts suffer from severe long-term activity loss, the mechanism of which has been highly debated in the past two decades. By combining global structure search with umbrella sampling molecular dynamics based on global neural network potentials, here we quantitatively resolve the whole free energy profile for FA decomposition at the Pt–water and Pd–water interfaces. We show that while the two metals share the same FA decomposition mechanism, their catalytic deactivation rate do differ by more than 2 orders of magnitude─Pt is much more susceptible to CO poisoning due to the kinetics. The physical origin is attributed to the stronger affinity to surface atomic H and the lower adsorption to surface adsorbed bent CO2 (CO2 anion) on Pd, which leads to the slower rate of the secondary CO2 decomposition to the CO molecule, the poisoning species at ambient conditions. After comparing CO generation at the solid–gas and the solid–liquid interface, we propose simple strategies to achieve high activity without CO byproduct formation for FA decomposition.    
 
     
 
@@ -220,7 +132,7 @@ No abstract
 OpenAlex: https://openalex.org/W4396666388    
 Open access: False
     
-[Jianping Chen](https://openalex.org/A5073861665), [Lu Xie](https://openalex.org/A5035333066), [Wan-Hong Huang](https://openalex.org/A5027851430), [Ling Niu](https://openalex.org/A5077437589), [Qing-Ling Ni](https://openalex.org/A5011987399), [T. Huang](https://openalex.org/A5067838327), [Liu-Cheng Gui](https://openalex.org/A5000182377), [Xiu-Jian Wang](https://openalex.org/A5041608089), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00918.
+[Jianping Chen](https://openalex.org/A5073861665), [Lu Xie](https://openalex.org/A5035333066), [Wan-Hong Huang](https://openalex.org/A5027851430), [Ling Niu](https://openalex.org/A5077437589), [Qing‐Ling Ni](https://openalex.org/A5011987399), [T. Huang](https://openalex.org/A5067838327), [Liu-Cheng Gui](https://openalex.org/A5000182377), [Xiu‐Jian Wang](https://openalex.org/A5041608089), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00918.
     
 No abstract    
 
@@ -336,12 +248,45 @@ The direct production of formate from CO2 over Bi-based catalysts offers a promi
 
     
 
+## B(C6F5)3-Catalyzed C(sp3)–H Alkylation of Tertiary Amines with Electron-Deficient Olefins: Determinants of Site Selectivity   
+
+OpenAlex: https://openalex.org/W4396720924    
+Open access: False
+    
+[Xin-Yue Zhou](https://openalex.org/A5057081177), [Yuanhu Shao](https://openalex.org/A5068799381), [Rui Guo](https://openalex.org/A5030380449), [Yalin Zhang](https://openalex.org/A5009826802), [Xiao‐Song Xue](https://openalex.org/A5058629788), [Xiao‐Chen Wang](https://openalex.org/A5011373146), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01160.
+    
+No abstract    
+
+    
+
+## Boosting the Urea Synthesis Rate on Ni Single-Atom Catalysts: The Impact of Acetonitrile Electrolyte in the Tandem CO2 Reduction/Nucleophilic Addition Reaction   
+
+OpenAlex: https://openalex.org/W4396722222    
+Open access: False
+    
+[Peize Li](https://openalex.org/A5014441532), [Yan Wang](https://openalex.org/A5008873234), [Xiaoju Yang](https://openalex.org/A5037498085), [Yanbin Zhu](https://openalex.org/A5005655629), [Zhiguo Zhang](https://openalex.org/A5028625458), [Xuan Yang](https://openalex.org/A5045543861), [Yan Shen](https://openalex.org/A5061163275), [Mingkui Wang](https://openalex.org/A5041280820), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01557.
+    
+No abstract    
+
+    
+
 ## Copper-Catalyzed Formal Dihydrosilylation of Terminal Alkynes: A C(sp)–H Silylation-Hydrosilylation-Hydrogenation Sequence   
 
 OpenAlex: https://openalex.org/W4396722294    
 Open access: False
     
 [Jia Li](https://openalex.org/A5055115466), [Siqiang Fang](https://openalex.org/A5000045799), [Shaozhong Ge](https://openalex.org/A5030534969), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01813.
+    
+No abstract    
+
+    
+
+## Functional Application of the Single-Module NRPS-like d-Alanyltransferase in Maytansinol Biosynthesis   
+
+OpenAlex: https://openalex.org/W4396723233    
+Open access: False
+    
+[Zhongyue Li](https://openalex.org/A5062109942), [Zhangliang Zhu](https://openalex.org/A5081391258), [Guangsen Xu](https://openalex.org/A5057448036), [Wenhan Lin](https://openalex.org/A5007852352), [Jiang Liu](https://openalex.org/A5048235128), [Haoxin Wang](https://openalex.org/A5073205162), [Ching–Liang Lu](https://openalex.org/A5010407536), [Yaoyao Li](https://openalex.org/A5085432903), [Deyu Zhu](https://openalex.org/A5009069326), [Yuemao Shen](https://openalex.org/A5005728746), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00082.
     
 No abstract    
 
@@ -366,5 +311,27 @@ Open access: False
 [Shishir Bansal](https://openalex.org/A5055878849), [Ayanangshu Biswas](https://openalex.org/A5044995493), [Abhishek Kundu](https://openalex.org/A5086765861), [Manu Adhikari](https://openalex.org/A5060117721), [Sanjay Singh](https://openalex.org/A5058674399), [Debashis Adhikari](https://openalex.org/A5081346085), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01723.
     
 In this report, an unusual bond activation strategy has been demonstrated by BICAAC, which essentially emulates the behavior of a transition metal. The ambiphilic nature of this specific carbene has facilitated a simultaneous proton and hydride capture from an alcohol molecule to carry out smooth dehydrogenation under mild conditions. The activation route closely follows the traditional metal–ligand bifunctional activation of a substrate. The hydrogen molecule extracted from the substrate alcohol becomes stored in the carbene carbon, which has been unambiguously ascertained by the isolation of this intermediate and its X-ray crystallographic characterization. Such an event has further been interrogated in detail by the deuterium-labeling experiment and DFT computations to substantiate the critical role of carbene's ambiphilicity. Additionally, the stored hydrogen in the carbene molecule has been delivered to an in situ-generated olefinic bond to completely mimic a borrowing hydrogen reaction in an organocatalytic fashion. Both dehydrogenation and rehydrogenation reactions have been conducted in a single pot using BICAAC as the catalyst that alkylates fluorene at its 9-position using a series of alcohols as the alkyl source. A thorough mechanistic sketch describes the involvement of a radical for the latter part of the reaction, overall bringing a different outlook to carbene-promoted small-molecule activation reactions.    
+
+    
+
+## π–π Interactions-Driven Ethylene Polymerization Using “Sandwich” Bis(imino)pyridyl Iron Catalysts   
+
+OpenAlex: https://openalex.org/W4396746889    
+Open access: False
+    
+[Z.-Y. Cheng](https://openalex.org/A5032930841), [Haiyang Gao](https://openalex.org/A5031675432), [Zonglin Qiu](https://openalex.org/A5053819421), [Handou Zheng](https://openalex.org/A5006242220), [Donghui Li](https://openalex.org/A5012647424), [Long Jiang](https://openalex.org/A5009733897), [Haiyang Gao](https://openalex.org/A5031675432), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01248.
+    
+Weak noncovalent interactions are an effective strategy for modulating catalytic olefin polymerization but have never been observed in bis(imino)pyridyl iron catalysts. In this paper, a series of "sandwich" bis(imino)pyridyl iron complexes with substituted 8-(p-R-phenyl)naphthylamine (R = OMe, Me, H, CF3) were designed and synthesized for ethylene polymerization. The π–π interactions between the capping aryl groups and the pyridyl ring are clearly observed in "sandwich" bis(imino)pyridyl iron complexes by single crystal X-ray diffraction analysis, UV–vis, and photoluminescence (PL) spectra. The intramolecular π–π interactions make the naphthyl rings tilt away from the iron center in the horizontal direction, thereby causing a more open horizontal space within iron complexes for ethylene coordination. Ethylene polymerization results show that π–π interactions are a crucial driving force rather than the electronic effects of ligands. Unprecedentedly, bulky "sandwich" bis(imino)pyridyl iron catalysts produce low-molecular-weight PE with a bimodal distribution, which originates from β-H transfer to monomer modulated by the π–π interactions. Density functional theory (DFT) calculations mechanistically demonstrate that the coordination of ethylene to the iron center is a crucial step in ethylene polymerization.    
+
+    
+
+## Bond Dissociation Energy-Controlled Regioselectivity in Hydrofunctionalization   
+
+OpenAlex: https://openalex.org/W4396747447    
+Open access: False
+    
+[Jie Peng](https://openalex.org/A5078760364), [Xiaoqian He](https://openalex.org/A5091836045), [Xiaoling Luo](https://openalex.org/A5013029526), [Kangbao Zhong](https://openalex.org/A5050860250), [Li‐Li Liao](https://openalex.org/A5028215675), [Ruopeng Bai](https://openalex.org/A5029154310), [Yu Lan](https://openalex.org/A5061000219), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00304.
+    
+The bond dissociation energy (BDE) in reactants was found to be critical for determining the tunable pathways of low-valent tungsten-catalyzed chain-walking hydroboration and hydrogermylation of β,γ-unsaturated amides, which is considered to be the key factor in the regioselective determination. Computational results revealed that the higher BDE of the H–B bond hampers the oxidative hydrogen migration, leading to borane reacting with tungsten later than alkenes. Thus, the generation of a β-borylated product was found to be favorable through H–Cβ bond oxidative addition, H–Cδ bond reductive elimination, H–B bond oxidative hydrogen migration, and B–Cβ bond reductive elimination. As a comparison, the lower BDE of H–Ge leads to a facile oxidative hydrogen migration of the H–Ge bond, which finally results in the formation of an α-germylated product after germyl-assisted olefin walking. Further distortion–interaction analysis confirmed that the weak H–Ge bond was easier to distort for its reactions.    
 
     
