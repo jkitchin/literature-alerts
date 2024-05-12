@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 May 2024 01:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 01:10:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Zhou Yong, Geqian Fang, Deizi V. Peron, Maya Marinova, Vladimir L. Zholobenko, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00104</guid>
+    </item>
+    <item>
+      <title>Liquid Gallium&#8211;Zeolite Nanocomposite Catalysts for Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acs.iecr.4c00411</link>
+      <description>Shuo Zhang, Bofeng Zhang, Mingxia Song, Liming Xia, Guozhu Liu, Industrial &amp; engineering chemistry research. None(None)] 2024. https://openalex.org/W4396779052
+
+                Liquid metal (LM) with outstanding fluidity, excellent electrical and thermal conductivity is emerging in heterogeneous catalysis, such as Ga-based supported catalytically active liquid-metal solutions. However, liquid gallium droplets are prone to migration and aggregation, especially under high-temperature reaction conditions. Herein, we designed a liquid gallium-zeolite nanocomposite catalyst (L-Ga/S-1) by a simple and low-cost physical mixing method. In propane dehydrogenation, the optimized L-1.5-Ga/S-1 exhibited a high formation rate of 1.17 mol C3H6gGa&#8211;1 h&#8211;1, 13 times higher than that of 1.5-Ga-MFI, with a propylene selectivity of up to 95% at 550 &#176;C. It could be ascribed to abundant interface GaOx structure between Ga droplet and nanosized Silicalite-1 zeolite, which provided strong Lewis acidic sites to promote the selective scission of C&#8211;H bonds. Liquid metal&#8211;metal oxide nanocomposites offer an important way for controlling interface precisely in the sphere of heterogeneous catalysis.</description>
+      <author>Shuo Zhang, Bofeng Zhang, Mingxia Song, Liming Xia, Guozhu Liu</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c00411</guid>
     </item>
   </channel>
 </rss>

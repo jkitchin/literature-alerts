@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 11 May 2024 01:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 01:10:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancing Low-Temperature Syngas Production via Surface Tailoring of Supported Intermetallic Nanocatalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c01180</link>
-      <description>Olusola Johnson, Yurong He, Isabella St. Pierre-Charles, J. Richter, Babu Joseph, John N. Kuhn, ACS catalysis. None(None)] 2024. https://openalex.org/W4396617198
-
-                An active and coke-resistant silica-encapsulated intermetallic Ni3Zn nanoparticle catalyst was developed for low-temperature (450 &#176;C) dry reforming of methane (DRM). The catalyst exhibited a remarkable 4-fold increase in activity (4.5 s&#8211;1) with over 99% CO selectivity and 3 orders of magnitude less carbonaceous species and demonstrated remarkable stability (70 h) compared to that of a monometallic Ni catalyst. The key is the combined effect of surface ensemble structure and electronic interaction modulation through the surface composition tailoring achieved by off-stoichiometric Ni and Zn loading in controlling surface chemistry for achieving different activities and H2/CO ratios. Characterized by ion spectroscopy, X-ray photoelectron spectroscopy, and the neutron pair distribution function, it was revealed that paired Ni&#948;&#8722;&#8211;Zn&#948;+ active sites are crucial for DRM. Transient infrared spectroscopy and isotopic analysis uncovered the synergistic effect of Ni&#948;&#8722;&#8211;Zn&#948;+ sites in activating C&#8211;H bonds and dissociating CO2 to prevent coke formation under low-temperature conditions.</description>
-      <author>Olusola Johnson, Yurong He, Isabella St. Pierre-Charles, J. Richter, Babu Joseph, John N. Kuhn</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01180</guid>
-    </item>
-    <item>
-      <title>Rational Design of Covalent Organic Frameworks with Redox-Active Catechol Moieties for High-Performance Overall Photosynthesis of Hydrogen Peroxide</title>
-      <link>https://doi.org/10.1021/acscatal.4c01411</link>
-      <description>Shufan Feng, Hao Cheng, Feng Chen, Xinman Liu, Zhiqiang Wang, Hangxun Xu, Jianli Hua, ACS catalysis. None(None)] 2024. https://openalex.org/W4396617229
-
-                Covalent organic frameworks (COFs) have emerged as promising candidates for solar-driven photosynthesis of hydrogen peroxide (H2O2), yet the development of high-performance COFs tailored for practical applications presents substantial challenges. This research introduces the integration of the redox-active catechol moiety into a series of COFs (TPE-COF-OH, TPB-COF-OH, and TPP-COF-OH), serving as the pivotal active site for photocatalytic oxygen (O2) reduction to H2O2 through a reversible catechol-quinone interconversion mechanism. This process facilitates the transformation of catechol to o-benzoquinone in the presence of molecular O2, while photoexcited electrons are utilized to revert o-benzoquinone to catechol, reducing the energy barrier for H2O2 synthesis. Notably, TPB-COF-OH demonstrates an unparalleled H2O2 production rate of 6608 &#956;mol h&#8211;1 g&#8211;1, outperforming its molecular counterpart, TPB-COF-OMe, which lacks the redox-active catechol unit. Furthermore, TPB-COF-OH achieves a solar-to-chemical conversion efficiency of 0.84%, marking the highest value among COF-based photocatalysts in solar-driven H2O2 production. This investigation not only underscores the critical role of molecular engineering in enhancing COF performance but also broadens the horizon for solar-to-chemical energy conversion technologies.</description>
-      <author>Shufan Feng, Hao Cheng, Feng Chen, Xinman Liu, Zhiqiang Wang, Hangxun Xu, Jianli Hua</author>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01411</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i009_1797488</link>
-      <description>, ACS catalysis. 14(9)] 2024. https://openalex.org/W4396623784
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i009_1797488</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i009_1797487</link>
-      <description>, ACS catalysis. 14(9)] 2024. https://openalex.org/W4396623887
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i009_1797487</guid>
-    </item>
-    <item>
-      <title>Buffer-Induced Electrocatalytic Nitrite Reduction: Impact on Catalytic Rate and Product Selectivity</title>
-      <link>https://doi.org/10.1021/acscatal.3c05583</link>
-      <description>Sheyda Partovi, Evan Z. Dalton, Jeremy M. Smith, ACS catalysis. None(None)] 2024. https://openalex.org/W4396626175
-
-                The complex [Co(CR)Br2]+, where CR is the redox-active macrocycle 2,12-dimethyl-3,7,11,17-tetraazabicyclo-[11.3.1]-heptadeca-1(17),2,11,13,15-pentaene, is known as an electrocatalyst for the reduction of aqueous nitrite (NO2&#8211;). Here, we report that buffer induces a catalytic wave for NO2&#8211; reduction at a significantly more anodic potential than under unbuffered conditions. In addition, buffer increases the rate of electrocatalysis. This enhanced electrocatalytic activity is enabled by a number of buffering agents, with 3-(N-morpholino)propanesulfonic acid showing the largest catalytic current. In addition to the greater catalytic activity, buffering agents influence the selectivity of the reduction products, as well as catalyst longevity.</description>
-      <author>Sheyda Partovi, Evan Z. Dalton, Jeremy M. Smith</author>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05583</guid>
-    </item>
     <item>
       <title>Methane Activation through Single-Electron Transfer from Water Molecules to the Surface States of Semiconductor Photocatalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c00984</link>
@@ -66,16 +16,6 @@
       <author>Fumiaki Amano, Kosuke Beppu, Yoshihisa Sakata</author>
       <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00984</guid>
-    </item>
-    <item>
-      <title>Site-Selective C&#8211;H Arylation of 2-Pyridones via Pd/NBE Cooperative Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c00690</link>
-      <description>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396604944
-
-                No abstract</description>
-      <author>Zengguo Sun, Zhuhan Jiang, Feng He, Chenyue Li, Hai Xiong, Dan Yang, Hui Miao, Qinglin Li, Jinxiang Ye, Ching-Yong Wu</author>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00690</guid>
     </item>
     <item>
       <title>Tailoring Catalytic and Oxygen Release Capability in LaFe&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Ni&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; to Intensify Chemical Looping Reactions at Medium Temperatures</title>
@@ -268,6 +208,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00082</guid>
     </item>
     <item>
+      <title>Barium Alginate Gel Beads: A Homochiral Porous Material from Brown Algae for Heterogeneous Asymmetric Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.3c06036</link>
+      <description>Pietro Pecchini, Daniel Aguilera, Alberto Soccio, Angelina Lombardi, F&#225;tima Sanz Azcona, Nicol&#242; Santarelli, Mariafrancesca Fochi, Pierrick Gaudin, Nathalie Tanchoux, Luca Bernardi, ACS catalysis. None(None)] 2024. https://openalex.org/W4396728497
+
+                Asymmetric metal and organocatalysis typically relies on low-molecular-weight chiral compounds as enantioinducing elements. However, evoking biocatalysis, examples of inherently chiral natural (e.g., ds-DNA) and synthetic (e.g., chiral organic frameworks) macromolecules as enantioselective catalysts are rapidly emerging. In this context, we report barium alginate gel beads as heterogeneous and reusable catalysts for the benchmark addition of indoles to nitroalkenes, affording the corresponding adducts in moderate to good yields and enantioselectivities (up to 93% ee). This rare example of high enantioinduction offered by a polysaccharide in catalysis was realized thanks to the versatility of alginates, a family of biopolymers derived from brown algae. In the presence of multivalent metals, including abundant alkaline earth metal ones, alginates form gels featuring appealing properties for heterogeneous catalysis, such as high surface area and stability in different media.</description>
+      <author>Pietro Pecchini, Daniel Aguilera, Alberto Soccio, Angelina Lombardi, F&#225;tima Sanz Azcona, Nicol&#242; Santarelli, Mariafrancesca Fochi, Pierrick Gaudin, Nathalie Tanchoux, Luca Bernardi</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06036</guid>
+    </item>
+    <item>
       <title>Data Analytics for Catalysis Predictions: Are We Ready Yet?</title>
       <link>https://doi.org/10.1021/acscatal.3c05285</link>
       <description>Difan Zhang, Brett Smith, Haiyi Wu, Manh&#8208;Thuong Nguyen, Roger Rousseau, Vassiliki Alexandra Glezakou, ACS catalysis. None(None)] 2024. https://openalex.org/W4396729186
@@ -298,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01248</guid>
     </item>
     <item>
+      <title>Decoding the Kinetic Complexity of Pt-Catalyzed &lt;i&gt;n&lt;/i&gt;-Butane Dehydrogenation by Machine Learning and Microkinetic Analysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c00864</link>
+      <description>Hu Yong, Cheng Gong, Ming Lei, Meng-Su Yang, De Chen, Xinggui Zhou, Yi&#8208;An Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396746891
+
+                n-Butane dehydrogenation to butene and butadiene has recently gained increasing attention owing to the exploitation and development of shale gas as well as the rapid growth in the demand for synthetic rubber worldwide. In this work, the full n-butane dehydrogenation reaction network involving 568 elementary steps on Pt is established by using a chemical informatics approach to loop over all of the atoms and chemical bonds in n-butane. By combining density functional theory (DFT) calculations, the Morgan molecular fingerprint method, and machine learning techniques, we have identified 208 elementary steps that contribute to the kinetically important reaction network, which presents some general guidelines for the formulation of mechanisms of great complexity. A detailed microkinetic analysis that ensures thermodynamic consistency is then performed, without and with the presence of H2 cofeeding, to assess the n-butane catalytic activity and butene selectivity. It turns out that in the absence of H2, the high coverages of the coke precursors give rise to a low catalytic activity due to the occupancy of a large number of active sites. The turnover frequencies for n-butane consumption and butene production rise rapidly as the H2/n-C4H10 ratio goes up from 0 to 1.33. Meanwhile, the selectivity toward 1-butene increases as well, whereas the selectivities toward 2-butene and 1,3-butadiene are not sensitive to the H2 partial pressure. The flux analysis reveals that the dominant reaction pathways for 1-butene and 2-butene follow the reverse Horiuti&#8211;Polanyi mechanism, and the byproducts are formed primarily by the C&#8211;C bond cleavage in CH3CCHC*. The C&#8211;H bond activation in n-butane is identified by the sensitivity analysis as the rate-limiting step for the overall reaction while the selectivities toward butenes are found to be controlled dominantly by the ease with which n-butane can be activated and how readily butenes can be deeply dehydrogenated.</description>
+      <author>Hu Yong, Cheng Gong, Ming Lei, Meng-Su Yang, De Chen, Xinggui Zhou, Yi&#8208;An Zhu</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00864</guid>
+    </item>
+    <item>
       <title>Bond Dissociation Energy-Controlled Regioselectivity in Hydrofunctionalization</title>
       <link>https://doi.org/10.1021/acscatal.4c00304</link>
       <description>Jie Peng, Xiaoqian He, Xiaoling Luo, Kangbao Zhong, Li&#8208;Li Liao, Ruopeng Bai, Yu Lan, ACS catalysis. None(None)] 2024. https://openalex.org/W4396747447
@@ -306,6 +266,116 @@
       <author>Jie Peng, Xiaoqian He, Xiaoling Luo, Kangbao Zhong, Li&#8208;Li Liao, Ruopeng Bai, Yu Lan</author>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00304</guid>
+    </item>
+    <item>
+      <title>Implementing the Blowers&#8211;Masel Approximation to Scale Activation Energy Based on Reaction Enthalpy in Mean-Field Microkinetic Modeling for Catalytic Methane Partial Oxidation</title>
+      <link>https://doi.org/10.1021/acscatal.3c05436</link>
+      <description>Chao Xu, Emily Mazeau, Richard H. West, ACS catalysis. None(None)] 2024. https://openalex.org/W4396760629
+
+                No abstract</description>
+      <author>Chao Xu, Emily Mazeau, Richard H. West</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05436</guid>
+    </item>
+    <item>
+      <title>&#947;-Amino C(sp&lt;sup&gt;3&lt;/sup&gt;)&#8211;H Functionalization of Aliphatic Amines through a Light-Driven Triple Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c02004</link>
+      <description>Masanari Nakagawa, Kazunori Nagao, Hirohisa Ohmiya, ACS catalysis. None(None)] 2024. https://openalex.org/W4396770266
+
+                No abstract</description>
+      <author>Masanari Nakagawa, Kazunori Nagao, Hirohisa Ohmiya</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02004</guid>
+    </item>
+    <item>
+      <title>Particle Size-Dependent Charge Transfer Dynamics for Boosting CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction over Ag/TiO&lt;sub&gt;2&lt;/sub&gt; Heterojunction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01544</link>
+      <description>Shicheng Liu, Qulan Zhou, Du Wen, Chenhao Wu, Yuqing Pan, Li Xiong, Zhong Huang, Na Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4396773891
+
+                No abstract</description>
+      <author>Shicheng Liu, Qulan Zhou, Du Wen, Chenhao Wu, Yuqing Pan, Li Xiong, Zhong Huang, Na Li</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01544</guid>
+    </item>
+    <item>
+      <title>Enhanced PtIn Catalyst via Ce-Assisted Confinement Effect in Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02517</link>
+      <description>Peng Wang, Huafei Liao, Yang Chen, Xin Tao, Yuyan Gan, Huihui Deng, Yajie Fu, Yu Tang, Lizhi Wu, Li Tan, ACS catalysis. None(None)] 2024. https://openalex.org/W4396779672
+
+                The PtIn nanoalloys with high surface energy are generally in a metastable state during harsh reaction conditions, and the ordered alloy structure is not conducive to exposure of surface Pt active sites. Herein, a strategy for restructuring the unfavorable PtIn alloy structure via heteroatom (Ce) doping is applied to advance an isolated Pt&#948;+ confined by the InCeOx nanoislands supported on SiO2. The as-synthesized catalyst with optimizing PtIn(Ce) ternary components exhibits &#8764;92.2% selectivity toward propylene and a stable propane conversion of &#8764;67.1% at 550 &#176;C (kd of 0.010 h&#8211;1). As demonstrated by the comprehensive characterizations, the introduced proper amount of Ce species leads to the reorganization of the disadvantaged PtIn nanoalloy structure into the robustness of the isolated Pt&#948;+ site confined by the InCeOx nanoislands via inhibiting the In0 species generation. The introduced Ce species modulate the electronic interaction between Pt, In, and carrier, stimulating the capability to activate reactive molecules and at the same time acting as spatial physical barriers to restrict the migration of the isolated Pt&#948;+ species. This work proposed a facile and efficient strategy to promote the capability against sintering and coking of the Pt-based catalyst in propane dehydrogenation.</description>
+      <author>Peng Wang, Huafei Liao, Yang Chen, Xin Tao, Yuyan Gan, Huihui Deng, Yajie Fu, Yu Tang, Lizhi Wu, Li Tan</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02517</guid>
+    </item>
+    <item>
+      <title>Effect of a Physisorbed Tetrabutylammonium Cation Film on Alkaline Hydrogen Evolution Reaction on Pt Single-Crystal Electrodes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01765</link>
+      <description>Julia Fern&#225;ndez-Vidal, Marc T. M. Koper, ACS catalysis. None(None)] 2024. https://openalex.org/W4396780694
+
+                The addition of tetrabutylammonium (TBA+) to alkaline electrolytes enhances the hydrogen evolution reaction (HER) activity on Pt single-crystal electrodes. The concentration of TBA+ significantly influences the HER on Pt(111). Concentrations of &#8804;1 mM yield no significant effect on HER currents or the coverage of adsorbed hydrogen (H*) but exhibit an interaction with the OHads on the surface. Conversely, concentrations of &gt;1 mM result in an apparent site-blocking effect for underpotential-deposited H* caused by the physisorption of the organic cation, which counterintuitively leads to an increase in the HER activity. The physisorption of TBA+ is linked to its accumulation in the diffuse layer, as it can be reversibly removed by the addition of nonadsorbing cations such as sodium. Following the previous literature on the TBA+ interaction with electrode surfaces, we ascribe this effect to the formation of a two-dimensional TBA+ film in the double layer. On stepped Pt single-crystal surfaces, TBA+ enhances HER activity at all concentrations, primarily at step sites. Our findings not only highlight the complexities of TBA+ accumulation on Pt electrodes but also offer important molecular-level insights for optimizing the HER by organic film formation on various atomic-level electrode structures.</description>
+      <author>Julia Fern&#225;ndez-Vidal, Marc T. M. Koper</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01765</guid>
+    </item>
+    <item>
+      <title>Understanding and Controlling the Mizoroki&#8211;Heck Reaction of Cyclic Enones</title>
+      <link>https://doi.org/10.1021/acscatal.4c00854</link>
+      <description>Aishabibi Kassymbek, Francisco Jos&#233; Aguilar Troyano, Victoria Dimakos, Daniel P. Canterbury, S&#233;bastien Monfette, Philipp C. Roosen, Stephen G. Newman, ACS catalysis. None(None)] 2024. https://openalex.org/W4396789234
+
+                No abstract</description>
+      <author>Aishabibi Kassymbek, Francisco Jos&#233; Aguilar Troyano, Victoria Dimakos, Daniel P. Canterbury, S&#233;bastien Monfette, Philipp C. Roosen, Stephen G. Newman</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00854</guid>
+    </item>
+    <item>
+      <title>Single-Site-Level Deciphering of the Complexity of Electrochemical Oxygen Reduction on Fe&#8211;N&#8211;C Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01640</link>
+      <description>Geunsu Bae, Han Chang Kwon, Man Ho Han, Hyung&#8208;Suk Oh, Fr&#233;d&#233;ric Jaouen, Chang Hyuck Choi, ACS catalysis. None(None)] 2024. https://openalex.org/W4396789824
+
+                Fe&#8211;N&#8211;C catalysts are emerging as potential alternatives to platinum in the oxygen reduction reaction (ORR) for fuel cell cathodes. The challenge in optimizing these catalysts lies in their structural complexity and the multiplicity of reaction pathways. Here, we employ a series of model catalysts with varying amounts of Fe&#8211;Nx and Fe nanoparticles (NPs) and estimate their turnover frequency (TOF) for apparent H2O and H2O2 production at different catalyst loadings. This approach highlights the importance of the surface site density (SD) of Fe&#8211;Nx moieties in determining the overall ORR activity, selectivity, and even stability. We uncover that increasing the SD of Fe&#8211;Nx moieties fosters the indirect 4e&#8211; ORR pathway and consequently promotes their TOF toward preferential H2O production. In contrast, Fe NPs, often formed at high Fe contents, behave as anticatalysts (or spectators) in this context. Indeed, an online inductively coupled plasma-mass spectrometry (ICP-MS) study reveals that a higher SD can lead to the faster leaching of Fe&#8211;Nx moieties during operation, resulting in accelerated activity decline. Taken together, the comprehensive understanding of the intricate dependence of catalytic activity and stability on the nature and amount of Fe species provides a basis for design principles of next-generation Fe&#8211;N&#8211;C catalysts.</description>
+      <author>Geunsu Bae, Han Chang Kwon, Man Ho Han, Hyung&#8208;Suk Oh, Fr&#233;d&#233;ric Jaouen, Chang Hyuck Choi</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01640</guid>
+    </item>
+    <item>
+      <title>Axially Chiral Bridged Biaryls by Ni-Catalyzed Kinetic Asymmetric C&#8211;O Bond Cleavage</title>
+      <link>https://doi.org/10.1021/acscatal.4c02092</link>
+      <description>Yijun Fang, Jingjing Hu, Tingting Sun, Yu Zhou, Gen Luo, Zhi&#8208;Chao Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396795922
+
+                No abstract</description>
+      <author>Yijun Fang, Jingjing Hu, Tingting Sun, Yu Zhou, Gen Luo, Zhi&#8208;Chao Cao</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02092</guid>
+    </item>
+    <item>
+      <title>Electrochemical Enantioselective C&#8211;H Annulation by Achiral Rhodium(III)/Chiral Br&#248;nsted Base Domino Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01886</link>
+      <description>Yanjun Li, Jiawei Xu, Jo&#227;o C. A. Oliveira, Alexej Scheremetjew, Lutz Ackermann, ACS catalysis. None(None)] 2024. https://openalex.org/W4396800102
+
+                No abstract</description>
+      <author>Yanjun Li, Jiawei Xu, Jo&#227;o C. A. Oliveira, Alexej Scheremetjew, Lutz Ackermann</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01886</guid>
+    </item>
+    <item>
+      <title>Pyrazino[2,3-&lt;i&gt;f&lt;/i&gt;][1,10]phenanthroline Derivatives as Robust Photocatalysts Enabling ppm-Level Organocatalyzed Photoinduced Electron/Energy Transfer Reversible Addition&#8211;Fragmentation Chain Transfer Polymerization</title>
+      <link>https://doi.org/10.1021/acscatal.4c01286</link>
+      <description>Weiguo Hu, Jing Gao, Bingfeng Shi, Zhinan Xia, Yang Xiao, Yun Geng, Changli L&#252;, ACS catalysis. None(None)] 2024. https://openalex.org/W4396803695
+
+                No abstract</description>
+      <author>Weiguo Hu, Jing Gao, Bingfeng Shi, Zhinan Xia, Yang Xiao, Yun Geng, Changli L&#252;</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01286</guid>
+    </item>
+    <item>
+      <title>Reprogramming the Microenvironment of Cobalt Phthalocyanine by a Targeted Multifunctional &#960;-Conjugated Modulator Enables Concerted CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c00802</link>
+      <description>Z. Wang, Jing Yang, Zichen Song, Meiting Lu, Wenqian Wang, Zhiyu Ren, Zhimin Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4396805297
+
+                No abstract</description>
+      <author>Z. Wang, Jing Yang, Zichen Song, Meiting Lu, Wenqian Wang, Zhiyu Ren, Zhimin Chen</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00802</guid>
     </item>
   </channel>
 </rss>
