@@ -1,33 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Sun May 12 01:10:28 2024
+Created on Mon May 13 01:07:02 2024
 
-Found 171 results from 2024-05-05 to 2024-05-12
+Found 155 results from 2024-05-06 to 2024-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Converting Carbon Dioxide into Carbon Nanotubes by Reacting with Ethane   
-
-OpenAlex: https://openalex.org/W4396646571    
-Open access: False
-    
-[Yong Yuan](https://openalex.org/A5041615964), [Enyu Huang](https://openalex.org/A5085696848), [Sooyeon Hwang](https://openalex.org/A5061315784), [Ping Liu](https://openalex.org/A5077153113), [Jingguang G. Chen](https://openalex.org/A5034358731), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202404047.
-    
-The urgency to mitigate environmental impacts from anthropogenic CO2 emissions has propelled extensive research efforts on CO2 reduction. The current work reports a novel approach involving transforming CO2 and ethane into carbon nanotubes (CNTs) using earth‐abundant metals (Fe, Co, Ni) at 750 °C. This route facilitates long‐term carbon storage via generating high‐value CNTs and produces valuable syngas with adjustable H2/CO ratios as byproducts. Without CO2, direct pyrolysis of ethane undergoes rapid deactivation. The participation of CO2 not only enhances the durability of the catalyst, but also contributes about 30% of the CNTs production, presenting a viable solution to CO2 challenges. The CNT morphology depends on the catalyst used. Co‐ and Ni‐based catalysts produce CNT with a 20 nm diameter and micrometer length, whereas Fe‐based catalysts yield bamboo‐like structures. This work represents a pioneering effort in utilizing CO2 and ethane for CNT production with potential environmental and economic benefits.    
-
-    
-
-## Converting Carbon Dioxide into Carbon Nanotubes by Reacting with Ethane   
-
-OpenAlex: https://openalex.org/W4396646597    
-Open access: False
-    
-[Yong Yuan](https://openalex.org/A5041615964), [Enyu Huang](https://openalex.org/A5085696848), [Sooyeon Hwang](https://openalex.org/A5061315784), [Ping Liu](https://openalex.org/A5077153113), [Jingguang G. Chen](https://openalex.org/A5034358731), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404047.
-    
-The urgency to mitigate environmental impacts from anthropogenic CO2 emissions has propelled extensive research efforts on CO2 reduction. The current work reports a novel approach involving transforming CO2 and ethane into carbon nanotubes (CNTs) using earth‐abundant metals (Fe, Co, Ni) at 750 °C. This route facilitates long‐term carbon storage via generating high‐value CNTs and produces valuable syngas with adjustable H2/CO ratios as byproducts. Without CO2, direct pyrolysis of ethane undergoes rapid deactivation. The participation of CO2 not only enhances the durability of the catalyst, but also contributes about 30% of the CNTs production, presenting a viable solution to CO2 challenges. The CNT morphology depends on the catalyst used. Co‐ and Ni‐based catalysts produce CNT with a 20 nm diameter and micrometer length, whereas Fe‐based catalysts yield bamboo‐like structures. This work represents a pioneering effort in utilizing CO2 and ethane for CNT production with potential environmental and economic benefits.    
-
-    
 
 ## Advanced copper-based electrocatalysts for the electrochemical reduction of carbon dioxide to valuable fuels: Recent advances   
 
@@ -282,17 +260,6 @@ As an effective way to implement net-zero CO2 emissions and storage of intermitt
 
     
 
-## Surface nitrided CuBi2O4 electrocatalysts with excellent selectivity for CO2 reduction to methanol   
-
-OpenAlex: https://openalex.org/W4396634093    
-Open access: False
-    
-[Lei Ma](https://openalex.org/A5091015487), [Huan Liu](https://openalex.org/A5013881064), [Youchao Song](https://openalex.org/A5082365126), [Cheng‐Han Yang](https://openalex.org/A5051602209), [Huijun Yu](https://openalex.org/A5088995369), [Yuming Zhou](https://openalex.org/A5019362780), [Yiwei Zhang](https://openalex.org/A5057269185), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160215.
-    
-No abstract    
-
-    
-
 ## Quantitative Analysis of Formate Production from Plasma-Assisted Electrochemical Reduction of CO2 on Pd-Based Catalysts   
 
 OpenAlex: https://openalex.org/W4396665771    
@@ -458,17 +425,6 @@ An integrated CO2 photoreduction to CO by photo-induced electrons coupled with s
 
     
 
-## Design of atomically dispersed N-Bi(3+x)+--OV sites in ultrathin Bi2O2CO3 nanosheets for efficient and durable visible-light-driven CO2 reduction   
-
-OpenAlex: https://openalex.org/W4396641084    
-Open access: False
-    
-[Ningning Xu](https://openalex.org/A5059304831), [Chenyu Li](https://openalex.org/A5022640003), [Xinyu Lin](https://openalex.org/A5021528853), [Xinhua Lin](https://openalex.org/A5064240182), [Xin Zhao](https://openalex.org/A5079849954), [Jun Nan](https://openalex.org/A5081304185), [Xin Xiao](https://openalex.org/A5020702563), Applied catalysis. A, General. None(None)] 2024.https://doi.org/10.1016/j.apcata.2024.119776.
-    
-The introduction of oxygen vacancies (OVs) into photocatalysts has proven to be a successful tactic to boost CO2 reduction. However, the challenge lies in acquiring OV sites that are stable in the long term, highly dispersed, and tunable in concentration. Herein, an innovative configuration, referred to as N-Bi(3+x)+--OV, was developed for the model semiconductor Bi2O2CO3 via an in situ anion doping approach. The structure enables the synthetic photocatalyst to exhibit superb CO2 photoreduction performance, with approximately 100% CO selectivity and remarkable long-term stability. Experimental studies and density functional theory (DFT) calculations show that replacing O2- with N3- uniformly in the [Bi2O2]2+ structural unit increases the chemical valence of Bi, elongates nearby Bi─O bonds, releases lattice O, improves CO2 absorption, and decreases the energy barrier for the formation of the critical intermediate *COOH. This study offers new insights and potential opportunities for the development of reliable defect-type semiconductors and their catalytic applications.    
-
-    
-
 ## In situ fabrication of 2D Bi/Bi2O2CO3 nanosheets anchored on Bi substrate for highly-efficient photoelectrocatalytic CO2 reduction to formate   
 
 OpenAlex: https://openalex.org/W4396669567    
@@ -502,17 +458,6 @@ No abstract
 
     
 
-## Entropy Drives Accelerated Ion Diffusion upon Carbon Dioxide Expansion of Electrolytes   
-
-OpenAlex: https://openalex.org/W4396646464    
-Open access: False
-    
-[Elizabeth R. Bartlett](https://openalex.org/A5093759489), [Ashley K. Borkowski](https://openalex.org/A5064174013), [Christian K. Nilles](https://openalex.org/A5070434746), [James D. Blakemore](https://openalex.org/A5061752518), [Ward H. Thompson](https://openalex.org/A5050040176), The journal of physical chemistry. B. None(None)] 2024.https://doi.org/10.1021/acs.jpcb.4c00540.
-    
-Carbon dioxide-expanded liquids, organic solvents with high concentrations of soluble carbon dioxide (CO2) at mild pressures, have gained attention as green catalytic media due to their improved properties over traditional solvents. More recently, carbon dioxide-expanded electrolytes (CXEs) have demonstrated improved reaction rates in the electrochemical reduction of CO2, by increasing the rate of delivery of CO2 to the electrode while maintaining facile charge transport. However, recent studies indicate that the limiting behavior of CXEs at higher CO2 pressures is a decline in solution conductivity due to reduced polarity, leading to poorer charge screening and greater ion pairing. In this article, we employ molecular dynamics simulations to investigate the energetic driving forces behind the diffusive properties of an acetonitrile and tetrapropylammonium hexafluorophosphate (TPrAPF6) CXE with increasing CO2 concentration. Our results indicate that entropy drives solvent and electrolyte diffusion with increasing CO2 pressure. The activation energy of ion diffusion increases with higher concentrations of CO2, indicating that increasing the temperature may improve solution conductivity in these systems. This trend in the activation energies is traced to stronger cation–anion Coulombic interactions due to weaker solvent screening at high CO2 concentrations, suggesting that the choice of ion may provide a route to diminish this effect.    
-
-    
-
 ## Aqueous CO2 Sequestration for Low-Carbon Ready-Mix Concrete   
 
 OpenAlex: https://openalex.org/W4396816664    
@@ -543,17 +488,6 @@ Open access: False
 [Sameer Maithel](https://openalex.org/A5079665871), No host. None(None)] 2024.https://doi.org/10.62744/cate.45273.1190-452-461.
     
 The urban residential building footprint is expected to increase four-fold during 2020-2050 in the Indo-Gangetic Plains region of India. The business-as-usual construction technology of RCC frame with solid burnt clay brick as the walling material use large quantities of steel, concrete and solid brick and is highly resource and carbon intensive. The region produces 110-140 billion solid burnt clay bricks per year. Brick production is associated with large energy consumption, carbon dioxide emission, air pollution and degradation of agricultural land. The study presents an innovative new burnt clay product – vertically cored interlocking burnt clay block that is being manufactured by a brick manufacturer in the region. The study presents the results of the life cycle analysis (as per EN 15804) and quantifies reductions in carbon and resource consumption for the product and the building element (wall). The analysis is based on the data collected from the industry. The cradle to gate analysis shows a reduction of 31% in the CO2 emissions (kgCO2/m3 of burnt product) and 58% in soil consumption (m3 of soil/m3 of burnt product) for the vertically cored hollow block. A 150 mm thick wall made of vertically cored hollow block results in 55% reduction in the CO2 emissions (kgCO2/m2 of wall) when compared to a 230 mm thick wall of solid brick. In addition, the cement consumption in mortar reduces by 66% and sand consumption by 62% per m2 of wall area. The study further indicates a significant reduction in concrete and steel consumption by extending the analysis to the building level.    
-
-    
-
-## Development and optimization of general drying models for cod (Gadus spp.) using supercritical carbon dioxide   
-
-OpenAlex: https://openalex.org/W4396640669    
-Open access: False
-    
-[Yago Alves de Aguiar Bernardo](https://openalex.org/A5033408907), [Alessandro Zambon](https://openalex.org/A5043457348), [Marco Cardin](https://openalex.org/A5071005085), [Riccardo Zulli](https://openalex.org/A5001738577), [Pietro Andrigo](https://openalex.org/A5066225847), [Fabio Santi](https://openalex.org/A5022921317), [Sara Spilimbergo](https://openalex.org/A5051328232), [Carlos Adam Conté-Júnior](https://openalex.org/A5045287507), Innovative food science and emerging technologies/Innovative food science & emerging technologies. None(None)] 2024.https://doi.org/10.1016/j.ifset.2024.103688.
-    
-This study aimed to investigate the supercritical carbon dioxide (SC-CO2) drying of cod (Gadus spp.) by developing and optimizing a general mathematical drying model. We applied a central composite rotatable design (CCRD) considering the time (180–360 min), temperature (35–45 °C), and CO2 flow rate (15–25 kg/h) as independent factors, aiming at the reduction of moisture and water activity (aw) of Gadus morhua. Time and flow rate (FR) were the main factors affecting the moisture and aw responses. The mathematical models developed were validated with the accuracy and bias factors and generalized using Gadus chalcogrammus samples, resulting in the acceptable range of 1.003–1.121. The optimal parameter values for drying performance were 312.38 min, 45.38 °C, and 27.4 kg/h (R2 = 0.999). Our results suggest a promising application of SC-CO2 as a fish drying technology, describing a generalist-validated and optimized SC-CO2 drying model for Gadus spp. The present study collaborates with understanding supercritical carbon dioxide (SC-CO2) as an innovative fish drying technology at a laboratory scale. The optimal variables that were effective in reducing cod fillets water content were 312.38 min, 45.38 °C, and 27.4 kg/h, in which 26.4% moisture and 0.815 aw were predicted. Therefore, SC-CO2 is suggested to be a promising non-thermal food drying technology applied to fish products.    
 
     
 
@@ -611,17 +545,6 @@ Open access: False
 [Jingru Wang](https://openalex.org/A5060968807), [Liu Ting-hua](https://openalex.org/A5017499860), [Noshaba Aziz](https://openalex.org/A5042373691), [Hongguang Sui](https://openalex.org/A5064778767), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4818787.
     
 As the world's largest emitter of carbon, China is actively addressing climate change responsibly and aims to achieve the most significant reduction in carbon emission intensity globally within approximately 30 years. With the transition to a new low-carbon environment, Chinese enterprises must take a more proactive role in embracing carbon neutrality as a social responsibility. How to supplement the green transformation funds that have not yet been covered by green finance has become an important issue related to Chinese enterprises achieving sustainable development and promoting high-quality development. This study, leveraging hand-collected data on companies' carbon emissions from 2005 to 2022, using the fixed effects model,provides a systematic investigation of the role of trade credit embedded within the supply chain in propelling the green evolution of Chinese companies and diminishing their carbon dioxide emissions. It reveals that trade credit substantially reduces CO2 emissions for Chinese businesses while also amplifying their intention to greener practices, their investment capacity for green transformation, and the caliber of their green outputs. Heterogeneity analysis shows that the acquisition of trade credit exhibits more suppressive influences on carbon emissions for heavy-polluting enterprises, private enterprises, low-supplier concentration enterprises, and mature enterprises. Similarly, the supply of trade credit notably curtails the carbon emissions for non-heavy polluting enterprises, state-owned enterprises, low-medium customer concentration enterprises, and mature enterprises. The empirical findings of this study contribute to reconciling the substantial dilemma between corporate goals for energy conservation, emissions reduction, and production growth, which offers key insights to support businesses in achieving a gentle transition towards energy efficiency and reduced carbon footprint in line with the overarching trend of sustainable and low-carbon economic progress.    
-
-    
-
-## Sustainable Steel Production: Evaluating the Reduction Kinetics of Iron Ore Self-Reducing Briquettes with Eucalyptus Charcoal   
-
-OpenAlex: https://openalex.org/W4396645970    
-Open access: False
-    
-[Lucio Rosso Neto](https://openalex.org/A5047778396), [Carlos Henrique Borgert](https://openalex.org/A5006820357), [Felipe Fardin Grillo](https://openalex.org/A5016643147), [José Roberto de Oliveira](https://openalex.org/A5062557881), [Jorge Luís Coleti](https://openalex.org/A5062640723), [Tiago Elias Allievi Frizon](https://openalex.org/A5070852717), [Matheus Vinícius Gregory Zimmermann](https://openalex.org/A5087792501), [Eduardo Junca](https://openalex.org/A5000891132), Journal of cleaner production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.142426.
-    
-The steel industry in Brazil is responsible for around 5% of total carbon dioxide emissions, releasing around 1.85 tons of CO2 for every ton of steel produced. The use of charcoal in self-reducing iron ore briquettes can be an alternative to reduce fossil fuel consumption and reduce carbon emissions in the primary steelmaking industry, however, the particle size can affect the reduction process. This study aims to analyze the reduction kinetics of charcoal briquettes in three particle size ranges. To this end, the charcoal was characterized using thermogravimetric analysis to determine the contents of fixed carbon, ash and volatiles, analysis of sulphur in the charcoal by combustion in a tube furnace, determination of particle size by laser granulometer, elemental chemical analysis of the charcoal ash by X-ray fluorescence spectrometry. The briquettes were reduced in a thermogravimetric balance to 1100 °C with heating rates between 10 and 40 °C/min. They were characterized by X-ray diffraction. Finally, a kinetic study was carried out using the Coats-Redfern method. In all the briquettes, the controlling mechanism was diffusion. In the mixture with fines, the activation energy ranged from 31.95 to 33.72 kJ/mol and 120.29 to 137.17 kJ/mol. For the mixture with medium grain size, the activation energy ranged from 58.1 to 89.42 kJ/mol and 107.83 to 153.50 kJ/mol. X-ray diffraction revealed phases of hematite and magnetite at 800 °C, while at 900 °C phases of wustite and faialite and metallic iron were identified.    
 
     
 
@@ -691,17 +614,6 @@ Abstract This review paper explores the diverse applications of polylactide or p
 
     
 
-## Effects of emissions caps on the costs and feasibility of low-carbon hydrogen in the European ammonia industry   
-
-OpenAlex: https://openalex.org/W4396645073    
-Open access: True
-    
-[Stefano Mingolla](https://openalex.org/A5023629391), [Paolo Gabrielli](https://openalex.org/A5087723417), [Alessandro Manzotti](https://openalex.org/A5088211659), [Matthew J. Robson](https://openalex.org/A5074367971), [Kevin H. R. Rouwenhorst](https://openalex.org/A5059981560), [Francesco Ciucci](https://openalex.org/A5029424400), [Giovanni Sansavini](https://openalex.org/A5019949573), [Magdalena Klemun](https://openalex.org/A5051045150), [Zhongming Lu](https://openalex.org/A5004480610), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-48145-z ([pdf](https://www.nature.com/articles/s41467-024-48145-z.pdf)).
-    
-Abstract The European ammonia industry emits 36 million tons of carbon dioxide annually, primarily from steam methane reforming (SMR) hydrogen production. These emissions can be mitigated by producing hydrogen via water electrolysis using dedicated renewables with grid backup. This study investigates the impact of decarbonization targets for hydrogen synthesis on the economic viability and technical feasibility of retrofitting existing European ammonia plants for on-site, semi-islanded electrolytic hydrogen production. Results show that electrolytic hydrogen cuts emissions, on average, by 85% (36%-100% based on grid price and carbon intensity), even without enforcing emission limits. However, an optimal lifespan average well-to-gate emission cap of 1 kg carbon dioxide equivalent (CO 2 e)/kg H 2 leads to a 95% reduction (92%-100%) while maintaining cost-competitiveness with SMR in renewable-rich regions (mean levelized cost of hydrogen (LCOH) of 4.1 euro/kg H 2 ). Conversely, a 100% emissions reduction target dramatically increases costs (mean LCOH: 6.3 euro/kg H 2 ) and land area for renewables installations, likely hindering the transition to electrolytic hydrogen in regions with poor renewables and limited land. Increasing plant flexibility effectively reduces costs, particularly in off-grid plants (mean reduction: 32%). This work guides policymakers in defining cost-effective decarbonization targets and identifying region-based strategies to support an electrolytic hydrogen-fed ammonia industry.    
-
-    
-
 ## Continental-scale Evaluation of Downy Birch Pollen Production: Estimating the Impacts of Global Change   
 
 OpenAlex: https://openalex.org/W4396744119    
@@ -740,7 +652,7 @@ The population increase and the demand for water and energy, accompanied by the 
 OpenAlex: https://openalex.org/W4396671147    
 Open access: False
     
-[A. Idrissi](https://openalex.org/A5056642588), [Salvatore Aurnia](https://openalex.org/A5068626144), [Letizia Antonella Mauro](https://openalex.org/A5049192390), [Sara Pulvirenti](https://openalex.org/A5085471166), [G. Riccobene](https://openalex.org/A5049422884), [D. Diego-Tortosa](https://openalex.org/A5001023452), [S. Viola](https://openalex.org/A5088653499), [Simone Sanfilippo](https://openalex.org/A5030731435), [D. Bonanno](https://openalex.org/A5026033331), [Florian Le Pape](https://openalex.org/A5087543662), [Stéphan Ker](https://openalex.org/A5063490626), [Shane Murphy](https://openalex.org/A5089519218), [Giuseppe Cappelli](https://openalex.org/A5096444263), [Lionel Quétel](https://openalex.org/A5004461986), [Marc‐André Gutscher](https://openalex.org/A5064222993), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-gc12-fibreoptic-85.
+[A. Idrissi](https://openalex.org/A5056642588), [Salvatore Aurnia](https://openalex.org/A5068626144), [Letizia Antonella Mauro](https://openalex.org/A5049192390), [Sara Pulvirenti](https://openalex.org/A5085471166), [G. Riccobene](https://openalex.org/A5049422884), [D. Diego-Tortosa](https://openalex.org/A5001023452), [S. Viola](https://openalex.org/A5088653499), [Simone Sanfilippo](https://openalex.org/A5030731435), [D. Bonanno](https://openalex.org/A5026033331), [Florian Le Pape](https://openalex.org/A5087543662), [Stéphan Ker](https://openalex.org/A5063490626), [Shane Murphy](https://openalex.org/A5089519218), [Giuseppe Cappelli](https://openalex.org/A5096444263), [Lionel Quétél](https://openalex.org/A5004461986), [Marc‐André Gutscher](https://openalex.org/A5064222993), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-gc12-fibreoptic-85.
     
 The IPANEMA project, funded under the ECCSEL-ERIC activity, aims at studying the natural emissions of carbon dioxide in the Mediterranean region via acoustic detection. In the framework of IPANEMA INFN-LNS has designed two underwater stations equipped with hydrophones and CO2 sensors: a shallow water (20 m depth) autonomous and retrievable observatory, deployed offshore the Island of Panarea (Aeolian Islands, Tyrrhenian Sea) and a cabled deep sea observatory, to be deployed in offshore the Coast of Catania at 2000 m depth (Sicily, Western Ionian Sea). Both detectors are capable to monitor the sea soundscape from a few Hz to just under 100 kHz. In this context, INFN is investigating the possibility to use Distributed Optical Fiber sensing (DOFS) to enable the measurement of biological and anthropogenic acoustic signals along the entire length of underwater electro-optical cables. Unlike conventional sensors that measure at specific points, DOFS systems provide distributed measurements along the fiber length with high spatial sampling, allowing for dense monitoring of large structures or environments in real time. In this work, we will focus on the application of DOFS in the monitoring of biological sounds emitted by fin whales, as demonstrated by recent researches in Isfjorden Sea, Norway. During a campaign of measurements between November 9th and 16th, 2023, IFREMER interrogated with an ASN OptoDAS two seafloor electro-optical cables of the INFN-LNS marine infrastructure in Eastern Sicily. The Distributed Acoustic Sensor (DAS) system was first connected to the LNS-INFN electro-optical cable, extending 25 km from the port of Catania to its end at approximately 2100 m water depth. Another set of measurements was carried out at the LNS-INFN Capo Passero site, using a cable extending 100 km to the shore, reaching depths of around 3500 m. In this area a research study conducted by INFN-LNS between 2012 and 2013, using hydrophones on seafloor showed the presence of fin whales. In this work we will present the analysis of DAS signals: custom codes for data reduction, noise filtering and search for the typical fin whale calls (20 Hz intermittent pulses) will be presented and results discussed.    
 
@@ -779,17 +691,6 @@ This research paper presents a comprehensive study on energy management and carb
 
     
 
-## Photothermal tissue reconstruction and the use of phytoestrogens in the treatment of genitourinary menopausal syndrome   
-
-OpenAlex: https://openalex.org/W4396704943    
-Open access: True
-    
-[Kulikov I.A. Kulikov](https://openalex.org/A5060171235), [I. A. Apolikhina](https://openalex.org/A5096745988), [G.A. Gevorkyan](https://openalex.org/A5056095711), Medicinskij sovet. None(4)] 2024.https://doi.org/10.21518/ms2024-155 ([pdf](https://www.med-sovet.pro/jour/article/download/8203/7237)).
-    
-Introduction. Genitourinary syndrome of menopause (GSM) is a complex of symptoms resulting from changes to the vulvovaginal region, urethra and bladder due to estrogen and other sex steroid deficiency. Vulvovaginal atrophy is one of its manifestations, and vaginal dryness, dyspareunia, burning and itching are the most common symptoms. Aim. To analyse 20 clinical cases of the use of innovative laser procedures combined with phytoestrogens in patients with vulvovaginal atrophy as a symptom of GSM vs the standard systemic protocol for menopausal hormone therapy. Materials and methods. A clinical case-control study was conducted among 20 postmenopausal women. The age of the subjects ranged from 50 to 65 years with amenorrhea for at least 1 year, a follicle-stimulating hormone level of >30 IU/L and various presentations of GSM. The women were divided into two groups: group 1 (n = 10) received laser therapy combined with phytoestrogens, group 2 (n = 10) received systemic menopausal hormonal therapy. To evaluate the results, a survey with a specialized international vulvovaginal symptom questionnaire (VSQ) was carried out to determine the vaginal health index scores before and after treatment. Results. After treatment, both groups showed significant improvement in the form of the reduction or disappearance of symptoms of vulvovaginal atrophy. The prescription of phytoestrogens provided an additional positive effect after 3 sessions of carbon dioxide laser treatment. Conclusion. The carbon dioxide laser exposure resulted in the reduction or disappearance of the local symptoms of climacteric syndrome in the form of GSM, and the use of phytoestrogens as part of Mense BAA supplemented the treatment of psychoemotional and neurovegetative changes, which allowed us to make a conclusion about the feasibility, high efficiency and safety of the complex treatment for women, who do not wish to take menopausal hormone therapy and (or) have absolute contraindications. However, further research on the laser technologies and other non-hormonal techniques to treat GSM is required to carry out a more complete and accurate assessment of the effectiveness and safety of these treatments.    
-
-    
-
 ## Reduction of GHG Emissions: Air Quality Improvement in Urban Areas   
 
 OpenAlex: https://openalex.org/W4396679894    
@@ -798,6 +699,17 @@ Open access: True
 [Carlos Armenta-Déu](https://openalex.org/A5086649153), [Cristina Rincón](https://openalex.org/A5042639235), No host. 1(1)] 2024.https://doi.org/10.33140/cresel.01.01.01.
     
 This paper focuses on the impact that urban traffic has on the environment. The study characterizes the global effect of GHG emissions, including the ecologic evaluation and the characterization, normalization, and evaluation factor. The work makes a detailed survey of the different modes of driving and their influence on engine performance as one of the principal causes of gas emissions during the combustion process. The article analyzes six types of vehicles equipped with different engine configurations: diesel and gasoline, GLP and GNC, hybrid electric, and plug-in hybrid electric. Simulation of the driving mode under various operational conditions for every type of engine result in energy consumption, thus, in GHG emissions, carbon dioxide and monoxide, nitrogen oxides, and Sulphur dioxide. The study concludes that a reduction in vehicle speed, thus in the engine revolutions, has positive effects on engine combustion and gasses emissions, which is reduced by 27.5%. The study also concludes that the limitation in driving mode, avoiding sharp and sudden acceleration, may reduce up to 45% of GHG emissions. The changes applied in the driving mode improve the air quality in the urban environment, reducing the content of GHG from 39% to 61%.    
+
+    
+
+## Photothermal tissue reconstruction and the use of phytoestrogens in the treatment of genitourinary menopausal syndrome   
+
+OpenAlex: https://openalex.org/W4396704943    
+Open access: True
+    
+[Kulikov I.A. Kulikov](https://openalex.org/A5060171235), [I. A. Apolikhina](https://openalex.org/A5096745988), [G.A. Gevorkyan](https://openalex.org/A5056095711), Medicinskij sovet. None(4)] 2024.https://doi.org/10.21518/ms2024-155 ([pdf](https://www.med-sovet.pro/jour/article/download/8203/7237)).
+    
+Introduction. Genitourinary syndrome of menopause (GSM) is a complex of symptoms resulting from changes to the vulvovaginal region, urethra and bladder due to estrogen and other sex steroid deficiency. Vulvovaginal atrophy is one of its manifestations, and vaginal dryness, dyspareunia, burning and itching are the most common symptoms. Aim. To analyse 20 clinical cases of the use of innovative laser procedures combined with phytoestrogens in patients with vulvovaginal atrophy as a symptom of GSM vs the standard systemic protocol for menopausal hormone therapy. Materials and methods. A clinical case-control study was conducted among 20 postmenopausal women. The age of the subjects ranged from 50 to 65 years with amenorrhea for at least 1 year, a follicle-stimulating hormone level of >30 IU/L and various presentations of GSM. The women were divided into two groups: group 1 (n = 10) received laser therapy combined with phytoestrogens, group 2 (n = 10) received systemic menopausal hormonal therapy. To evaluate the results, a survey with a specialized international vulvovaginal symptom questionnaire (VSQ) was carried out to determine the vaginal health index scores before and after treatment. Results. After treatment, both groups showed significant improvement in the form of the reduction or disappearance of symptoms of vulvovaginal atrophy. The prescription of phytoestrogens provided an additional positive effect after 3 sessions of carbon dioxide laser treatment. Conclusion. The carbon dioxide laser exposure resulted in the reduction or disappearance of the local symptoms of climacteric syndrome in the form of GSM, and the use of phytoestrogens as part of Mense BAA supplemented the treatment of psychoemotional and neurovegetative changes, which allowed us to make a conclusion about the feasibility, high efficiency and safety of the complex treatment for women, who do not wish to take menopausal hormone therapy and (or) have absolute contraindications. However, further research on the laser technologies and other non-hormonal techniques to treat GSM is required to carry out a more complete and accurate assessment of the effectiveness and safety of these treatments.    
 
     
 
@@ -831,28 +743,6 @@ Open access: True
 [Yan Li](https://openalex.org/A5008074317), [Vandana Verma](https://openalex.org/A5007403629), [Hongli Su](https://openalex.org/A5012515097), [Xiaoran Zhang](https://openalex.org/A5091051117), [Shujie Zhou](https://openalex.org/A5078304259), [Tom Lawson](https://openalex.org/A5000689096), [Jinliang Li](https://openalex.org/A5051044112), [Rose Amal](https://openalex.org/A5050471439), [Bin Yang](https://openalex.org/A5055040301), [Liming Dai](https://openalex.org/A5025689163), Advanced energy materials. None(None)] 2024.https://doi.org/10.1002/aenm.202401341 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/aenm.202401341)).
     
 Abstract The electrochemical C‐N coupling process, facilitating the production of organic nitrogen substances (such as urea, methylamine, formamide, and ethylamine) via the simultaneous reduction of carbon dioxide (CO 2 ) and small nitrogen‐based substances, stands at the forefront of advancing carbon neutrality and the artificial nitrogen cycle. This method has garnered substantial interest due to its potential economic and environmental benefits. Although considerable progress has been achieved in this emerging field, it still faces challenges, including slow reactant adsorption, competing side reactions, and complex multi‐step pathways, resulting in low yields and selectivity. Strategically designing and developing low‐cost and exceptionally performant catalysts is crucial for cost‐effective and precise electrochemical C─N bonding. This article offers an in‐depth review of the electrosynthesis of valuable organic nitrogen compounds at ambient conditions from earth‐abundant resources/wastes, such as CO 2 and small nitrogenous molecules (nitrogen: N 2 , nitrite: NO 2 − , nitrate: NO 3 − , ammonia: NH 3 , etc.), via electrochemical C─N bond formation reactions, especially using carbon‐based catalysts. The relevant electrochemical C─N bond formation mechanisms, the design principles of advanced carbon‐based electrocatalysts, and the impact of different electrolyser designs are discussed, along with the present obstacles and upcoming prospects in this dynamic field.    
-
-    
-
-## Bottom‐up Growth of Convex Sphere with Adjustable Cu(0)/Cu(I) Interfaces for Effective C2 Production from CO2 Electroreduction   
-
-OpenAlex: https://openalex.org/W4396642152    
-Open access: False
-    
-[Huan Liu](https://openalex.org/A5013881064), [Cheng‐Han Yang](https://openalex.org/A5051602209), [Tong Bian](https://openalex.org/A5010197314), [Huijun Yu](https://openalex.org/A5088995369), [Yuming Zhou](https://openalex.org/A5072983334), [Yiwei Zhang](https://openalex.org/A5057269185), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202404123.
-    
-One challenge confronting the Cu2O catalysts in the electrocatalysis of carbon dioxide reduction reaction (CO2RR) is the reduction of active Cu(I) species, resulting in low selectivity and quick deactivation. In this study, we for the first time introduce a bottom‐up growth of convex sphere with adjustable Cu(0)/Cu(I) interfaces (Cux@Cu2O convex spheres). Interestingly, the interfaces are dynamically modulated by varying hydrothermal time, thus regulating the conversion of C1 and C2 products. In particular, the 4 h hydrothermal treatment applied to Cu0.25@Cu2O convex sphere with the favorable Cu(0)/Cu(I) interface results in the highest selectivity for C2 products (90.5%). In situ Fourier‐transform infrared spectroscopy measurements and density functional theory calculations reveal that the Cu(0)/Cu(I) interface lowers the energy barrier for the production of ethylene and ethanol while increasing the coverage of localized *CO adsorbate for increased dimerization. This work establishes a novel approach for transforming the state of valence‐sensitive electrocatalysts into high‐value energy‐related engineering products.    
-
-    
-
-## Bottom‐up Growth of Convex Sphere with Adjustable Cu(0)/Cu(I) Interfaces for Effective C2 Production from CO2 Electroreduction   
-
-OpenAlex: https://openalex.org/W4396642360    
-Open access: False
-    
-[Huan Liu](https://openalex.org/A5013881064), [Cheng‐Han Yang](https://openalex.org/A5051602209), [Tong Bian](https://openalex.org/A5010197314), [Huijun Yu](https://openalex.org/A5088995369), [Yuming Zhou](https://openalex.org/A5072983334), [Yiwei Zhang](https://openalex.org/A5057269185), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404123.
-    
-One challenge confronting the Cu2O catalysts in the electrocatalysis of carbon dioxide reduction reaction (CO2RR) is the reduction of active Cu(I) species, resulting in low selectivity and quick deactivation. In this study, we for the first time introduce a bottom‐up growth of convex sphere with adjustable Cu(0)/Cu(I) interfaces (Cux@Cu2O convex spheres). Interestingly, the interfaces are dynamically modulated by varying hydrothermal time, thus regulating the conversion of C1 and C2 products. In particular, the 4 h hydrothermal treatment applied to Cu0.25@Cu2O convex sphere with the favorable Cu(0)/Cu(I) interface results in the highest selectivity for C2 products (90.5%). In situ Fourier‐transform infrared spectroscopy measurements and density functional theory calculations reveal that the Cu(0)/Cu(I) interface lowers the energy barrier for the production of ethylene and ethanol while increasing the coverage of localized *CO adsorbate for increased dimerization. This work establishes a novel approach for transforming the state of valence‐sensitive electrocatalysts into high‐value energy‐related engineering products.    
 
     
 
@@ -1120,17 +1010,6 @@ Summary CO2 storage in saline aquifers may contribute to a 90% share in preventi
 
     
 
-## Governance Effects of Pollution Reduction and Carbon Mitigation of Carbon Emission Trading Policy in China   
-
-OpenAlex: https://openalex.org/W4396636829    
-Open access: False
-    
-[Xin Cheng](https://openalex.org/A5016408503), [Ziyi Yu](https://openalex.org/A5054774127), [Jiapeng Gao](https://openalex.org/A5061717533), [Yanting Liu](https://openalex.org/A5078546446), [Shiwei Jiang](https://openalex.org/A5042123019), Environmental research. None(None)] 2024.https://doi.org/10.1016/j.envres.2024.119074.
-    
-China's carbon emission trading policy plays a crucial role in achieving both its "3060" dual carbon objectives and the United Nations Sustainable Development Goal 13 (SDG 13) on climate action. The policy's effectiveness in reducing pollution and mitigating carbon emissions holds significant importance. This paper investigated whether China's carbon emission trading policy affects pollution reduction (PM2.5 and SO2) and carbon mitigation (CO2) in pilot regions, using panel data from 30 provinces and municipalities in China from 2005 to 2019 and employing a multi-period difference-in-differences (DID) model. Furthermore, it analyzed the heterogeneity of carbon market mechanisms and regional variations. Finally, it examined the governance pathways for pollution reduction and carbon mitigation from a holistic perspective. The results indicate that: (1) China's carbon emission trading policy has reduced CO2 emissions by 18% and SO2 emissions by 36% in pilot areas, with an immediate impact on the "carbon mitigation" effect, while the "pollution reduction" effect exhibits a time lag. (2) Higher carbon trading prices lead to stronger "carbon mitigation" effects, and larger carbon market scales are associated with greater "pollution reduction" effects on PM2.5. Governance effects on pollution reduction and carbon mitigation vary among pilot regions: Carbon markets of Beijing, Chongqing, Shanghai, and Tianjin show significant governance effects in both "pollution reduction" and "carbon mitigation", whereas Guangdong's carbon market exhibits only a "pollution reduction" effect, and Hubei's carbon market demonstrates only a "carbon mitigation" effect. (3) Currently, China's carbon emission trading policy achieves pollution reduction and carbon mitigation through "process management" and "end-of-pipe treatment". This study could provide empirical insights and policy implications for pollution reduction and carbon mitigation, as well as for the development of China's carbon emission trading market.    
-
-    
-
 ## Synthesis of N‐propanol from CO2 Electroreduction on Bicontinuous Cu2O/Cu Nanodomains   
 
 OpenAlex: https://openalex.org/W4396776083    
@@ -1227,17 +1106,6 @@ Open access: False
 [Song Ding](https://openalex.org/A5045667274), [Xingao Shen](https://openalex.org/A5033649269), [Huahan Zhang](https://openalex.org/A5024707480), [Zhijian Cai](https://openalex.org/A5057065063), [Yi Wang](https://openalex.org/A5019542269), Computers & industrial engineering. None(None)] 2024.https://doi.org/10.1016/j.cie.2024.110195.
     
 This study enhances data support for CO2 emission reduction strategies across the U.S., targeting the commercial, industrial, residential, and electric power sectors. Despite the availability of numerous predictive models for sector-specific CO2 emission forecasts, a gap remains for a versatile model adept at managing time series data with varied characteristics. We introduce a novel, highly generalizable forecasting model that merges Conformable Fractional Accumulation, seasonal dummy variables, and the time power item to address randomness, seasonality, and nonlinearity in predictions. Our model outshines prevailing competitors, including statistical (AR and ARIMA), machine learning (LSTM, BPNN, and GRU), and grey models (SGM (1,1) and GM (1,1)), in comparative tests. It achieves MAPE values below 5% and 10% for training and testing phases, respectively, across all sectors, surpassing the inconsistent results from benchmark models. Furthermore, the stability and reliability of our model are validated through a systematic robustness verification framework. Notably, leveraging this model's superior predictive performance, we forecast future sectoral CO2 emissions. A detailed analysis of sector-specific influencing factors provides actionable insights for crafting targeted decarbonization policies and plans.    
-
-    
-
-## GIS-Based Multi-Criteria Analysis for Solar, Wind, and Biomass Energy Potential: A Case Study of Iraq with Implications for Climate Goals   
-
-OpenAlex: https://openalex.org/W4396640243    
-Open access: True
-    
-[Qusay Hassan](https://openalex.org/A5031224140), [Sameer Algburi](https://openalex.org/A5047483289), [Tariq J‏.‌‎ Al‏-‏Musawi](https://openalex.org/A5004516930), [Patrik Viktor](https://openalex.org/A5087026980), [Marek Jaszczur](https://openalex.org/A5080053542), [M. B. Barakat](https://openalex.org/A5056506517), [Aws Zuhair Sameen](https://openalex.org/A5075705203), [Amiruddin Saleh](https://openalex.org/A5007326037), Results in engineering. None(None)] 2024.https://doi.org/10.1016/j.rineng.2024.102212.
-    
-The study utilizes a GIS-Based Multi-Criteria Analysis to evaluate the viability of solar, wind, and biomass energy in Iraq, focusing on enhancing the nation's energy independence and meeting international climate objectives. Detailed spatial analysis revealed specific zones suited for the efficient installation of energy power plants. Zones with an energy surplus factor of less than 0.2 are deemed not viable for development, whereas regions with factors less than 0.4 are ideal for harnessing solar, wind, and biomass resources. Furthermore, zones with surplus factors greater than 0.6 are highly recommended for energy projects. Notably, the results show that strategic development of these zones can cater to between 45% and 68% of the country total energy demand, potentially reducing the CO2 footprint by 0.5. Moreover, with an increase in the construction threshold, the CO2 reduction potential has shown a decrease to 1.29E+08 tones, particularly evident in areas with rigorous construction standards. A plateau in reduction figures is observed once the construction threshold surpasses 3.5, stabilizing between 2.5E+07 tones. As the threshold exceeds 5, a further stabilization is noted, consistently around 2.17E+07 tones, persisting even when the threshold approaches 8. The outcomes underscores the critical role of strategic zoning in maximizing renewable energy potential, highlighting pathways for the country to achieve energy self-sufficiency and make significant strides in climate goals.    
 
     
 
@@ -1472,17 +1340,6 @@ Ethylene carbonate (EC) and vinylene carbonate (VC) are the archetypical electro
 
     
 
-## Roadmap to a net-zero carbon cement sector: Strategies, innovations and policy imperatives   
-
-OpenAlex: https://openalex.org/W4396636195    
-Open access: True
-    
-[Salim Barbhuiya](https://openalex.org/A5002464039), [Biman Das](https://openalex.org/A5017107994), [Dibyendu Adak](https://openalex.org/A5012609809), Journal of environmental management. 359(None)] 2024.https://doi.org/10.1016/j.jenvman.2024.121052.
-    
-The cement industry plays a significant role in global carbon emissions, underscoring the urgent need for measures to transition it toward a net-zero carbon footprint. This paper presents a detailed plan to this end, examining the current state of the cement sector, its carbon output, and the imperative for emission reduction. It delves into various low-CO2 technologies and emerging innovations such as alkali-activated cements, calcium looping, electrification, and bio-inspired materials. Economic and policy factors, including cost assessments and governmental regulations, are considered alongside challenges and potential solutions. Concluding with future prospects, the paper offers recommendations for policymakers, industry players, and researchers, highlighting the roadmap's critical role in achieving a carbon-neutral cement sector.    
-
-    
-
 ## Regulating Spin Density using TEMPOL Molecules for Enhanced CO2‐to‐Ethylene Conversion by HKUST‐1 Framework Derived Electrocatalysts   
 
 OpenAlex: https://openalex.org/W4396673826    
@@ -1557,17 +1414,6 @@ Open access: True
 [Setia Damayanti](https://openalex.org/A5008756697), [Eka Sudarmaji](https://openalex.org/A5073991003), [Herlan Masrio](https://openalex.org/A5097027706), International journal of energy economics and policy. 14(3)] 2024.https://doi.org/10.32479/ijeep.15059 ([pdf](https://econjournals.com/index.php/ijeep/article/download/15059/7869)).
     
 This research analyzes drivers of CO2 emissions across ASEAN countries from 1971-2017 to inform effective policies for sustainable decarbonized development. The goal is to identify critical factors influencing emissions growth and reductions to guide strategic climate mitigation planning. Data includes 3128 emissions, GDP, population, and energy consumption observations from 9 ASEAN nations. Results using the Kaya Index and Logarithmic Mean Divisia Index decomposition reveal GDP growth and population as primary drivers of increasing emissions, while energy efficiency dampens growth. Indonesia saw the highest emissions growth, driven by population and economic expansion. Thailand's phenomenal GDP growth of 3003.7% led to its emission increases. Singapore and the Philippines achieved notable reductions. Findings suggest integrated policies like clean energy, efficiency gains, infrastructure planning, and low-carbon economic reform are needed. Transitioning towards affordable clean energy systems with proactive leadership can enable ASEAN to sustain growth while mitigating climate risks. Further research should identify optimal policy mixes to maximize socio-economic progress and welfare while meeting urgent emission targets tailored to each nation. This study provides vital insights into key factors influencing ASEAN emissions and highlights pathways towards sustainable decarbonized development. The analysis of historical trends aims to inform strategic policymaking for decarbonization.    
-
-    
-
-## Experimental evaluation of the significance of scheduled turbocharger reconditioning on marine diesel engine efficiency and exhaust gas emissions   
-
-OpenAlex: https://openalex.org/W4396643510    
-Open access: True
-    
-[Antony John Nyongesa](https://openalex.org/A5019586537), [Min‐Ho Park](https://openalex.org/A5046267984), [Chang-Min Lee](https://openalex.org/A5066568057), [Jae-Hyuk Choi](https://openalex.org/A5061142810), [Pham Van Chien](https://openalex.org/A5075509888), [Jae-Jung Hur](https://openalex.org/A5088824607), [Won-Ju Lee](https://openalex.org/A5021551552), Ain Shams Engineering Journal/Ain Shams Engineering Journal . None(None)] 2024.https://doi.org/10.1016/j.asej.2024.102845.
-    
-Poor clearances, misalignments, and carbon deposits in a turbocharger due to high running hours can decrease engine efficiency. This study analyzes the effects of turbocharger reconditioning on the performance and emissions formation of a marine diesel generator engine. The engine test experiments were performed on a university training ship's auxiliary diesel engine with 4309 running hours before and after the TC overhaul. As a result, cylinder peak pressure was increased by a maximum of 3.57 % while fuel saving of 5–8 g/kWh was realized. Lower exhaust gas temperatures and improved charge air pressure by up to 7.7 % were recorded. A significant CO emission reduction of 21.6 % was recorded at idle load whereas NOx and CO2 emissions were reduced to a maximum of 4.86 % and 7.30 % at 50 % engine load. The results indicate that scheduled TC overhaul and maintenance are very useful to improve the engine's fuel economy, and performance and reduce exhaust emissions.    
 
     
 
@@ -1736,17 +1582,6 @@ Abstract The strategic target and path to peak CO2 emissions and carbon neutrali
 
     
 
-## 47 Application of a ‘high’ or ‘low’ energy matrix to a nutrient-reduced diet supplemented with a novel phytase maintained growth performance and conferred production and sustainability benefit   
-
-OpenAlex: https://openalex.org/W4396652141    
-Open access: False
-    
-[Ester Vinyeta](https://openalex.org/A5036921980), [Vanessa Lagos](https://openalex.org/A5033401358), [Francesc Molist](https://openalex.org/A5088969949), [Deepak Velayudhan](https://openalex.org/A5002513434), [Y. Dersjant-Li](https://openalex.org/A5027851899), Journal of animal science/Journal of animal science ... and ASAS reference compendium. 102(Supplement_2)] 2024.https://doi.org/10.1093/jas/skae102.090.
-    
-Abstract This study assessed the capacity of a novel consensus bacterial 6-phytase variant (PhyG) to maintain growth performance of weaned pigs when added to a nutrient-reduced mixed cereal diet with two levels of dietary net energy (NE) reduction applied. A total of 360 newly weaned pigs [Greater York × Norsvin Landrace; initial body weight (BW) 8.4 ± 0.78 kg] were assigned to 60 floor-pens and 5 dietary treatments in a randomized complete block design. There were 2 blocks (weaning group), 6 replicate pens per block, and 6 pigs/pen (3 male, 3 female), in total of 12 replications per treatment. Diets were based on wheat, corn, barley, and soybean meal and were offered to pigs in 2 phases in pelleted form (0–14 and 14–35 d post-weaning). Treatments comprised a nutritionally adequate positive control (PC) and 4 negative control (NC) diets supplemented with PhyG. The NC diets were reduced in digestible P, Ca, Na, and digestible amino acids vs. PC, according to the expected contribution of PhyG added at 1,000 phytase units (FTU)/kg (NC1) or 2,000 FTU/kg (NC2), respectively. Each NC1 and NC2 was formulated at two NE reduction levels, designated ‘low’ and ‘high’ (‘low’: -53 to -65 kcal/kg and ‘high’: -73 to -86 kcal/kg, vs. PC at 1,000 and 2,000 FTU/kg PhyG, respectively). Data were analyzed by ANOVA. Means separation was by Tukey’s HSD test. During both phases and overall (0–35 d), average BW, average daily gain (ADG), average daily feed intake (ADFI), and feed conversion ratio (FCR) in all PhyG-supplemented, nutrient- and NE-reduced treatments, were either not different or were improved compared with the PC. Overall ADG, ADFI, and final BW (d 35) were greater in NC2+PhyG 2,000 FTU/kg ‘low’ vs. PC (466 vs. 424 g, 9.9%, 622 vs. 567 g, 9.7%, and 24.7 vs. 23.1 kg, 6.9%, respectively; P &lt; 0.05). Total feed costs (ingredients price, February 2023) and estimated carbon footprint (CFP; FeedPrint, WUR, The Netherland) per kilogram of BW gain (BWG) were reduced in all PhyG-supplemented, nutrient- and NE-reduced treatments vs. PC. Feed costs saving per kg BWG were greater with ‘high’ than ‘low’ NE reduction applied (-0.013 vs. -0.007 €, respectively, vs. PC) with PhyG at 1,000 FTU/kg, and it was greatest in NC2+PhyG 2,000 FTU/kg with ‘low’ NE reduction (-0.036 € vs. PC). Similarly, the CFP was reduced from 2,068 to 1,840 g CO2 eq/kg BWG (-11 %) by NC2+PhyG 2,000 FTU/kg with ‘low’ NE reduction vs. PC. In conclusion, the application of a full nutrient matrix with ‘high’ or ‘low’ NE reduction combined with supplementation of PhyG maintained growth performance of weaned pigs and reduced the total feed costs and carbon footprint per kg BW gain, lead to production and sustainability benefits.    
-
-    
-
 ## GRE Lined Carbon Steel Tubing Performance in Sweet Corrosion Environments for Wells Equipped with Electrical Submersible Pumps   
 
 OpenAlex: https://openalex.org/W4396703419    
@@ -1821,17 +1656,6 @@ Open access: False
 [Teagan Goforth](https://openalex.org/A5008157834), [Destenie Nock](https://openalex.org/A5045531014), [M. C. Brown](https://openalex.org/A5039995601), [Tapajyoti Ghosh](https://openalex.org/A5083165776), [Patrick Lamers](https://openalex.org/A5077036890), Applied energy. 367(None)] 2024.https://doi.org/10.1016/j.apenergy.2024.123376.
     
 With increasing focus on equitable and just energy transition, it is critical to understand the trade-offs of different decarbonization outcomes across economic, environmental, and social sustainability criteria. In this analysis, we use a multi-criteria decision analysis to quantify sustainability outcomes across 32 decarbonization outcomes in 2050 in the U.S. The economic sustainability criteria we use are system cost, national average retail rate, and electricity system employment. The environmental sustainability criteria we use are life cycle greenhouse gas emissions, life cycle water depletion, life cycle land transformation, and air pollution fatalities. The social sustainability (distributional impacts) criteria we use are retail rate equality across states, electricity employment equality across low-income households, and air pollution disparities across census tracts. We evaluate performance across these criteria under eleven different stakeholder preference scenarios. We find that decarbonization policies with indefinitely extended tax credits have the highest sustainability score under equal criteria weighting, with greater investments in renewable energy technologies, and result in better environmental, system cost, job, and air pollution disparities compared to mid-case scenarios, that only include current policies and CO2 reduction targets. We also see that our multi-criteria decision analysis identifies decarbonization outcomes that would not have been identified as optimal under a single objective, which highlights the importance of trade-off analyses to understand decarbonization outcomes more holistically.    
-
-    
-
-## 51 Application of an energy and nutrient matrix to a mixed cereals-based diet supplemented with a novel phytase and xylanase–β-glucanase achieved a production benefit from wean-to-finish in pigs   
-
-OpenAlex: https://openalex.org/W4396651684    
-Open access: False
-    
-[Deepak Velayudhan](https://openalex.org/A5002513434), [Yueming Dersjant-Li](https://openalex.org/A5024452646), [Saad Gilani](https://openalex.org/A5078736909), [Rachael Hardy](https://openalex.org/A5065052089), [Ester Vinyeta](https://openalex.org/A5036921980), [G. Dusel](https://openalex.org/A5004191867), Journal of animal science/Journal of animal science ... and ASAS reference compendium. 102(Supplement_2)] 2024.https://doi.org/10.1093/jas/skae102.091.
-    
-Abstract The effect of a novel consensus bacterial 6-phytase variant (PhyG) without or with a xylanase–β-glucanase (XB) when added to an energy and nutrient-reduced diet on growth performance and production benefit was evaluated in pigs from wean-to-finish. A total of 192 weaned pigs [DanBred x Pi; initial body weight (BW) 7.18 ± 0.38 kg] were randomized to 4 treatments with 12 (4 piglets/pen) and 24 pens (2 pigs/pen) per treatment (1:1 male to female) for nursery and grow-finish phases, respectively. Diets were wheat-corn-barley-rye-soybean meal-based and fed in 5 phases (pre-starter, 7–11 kg, starter, 11–25 kg, grower I, 25–55 kg, grower II, 55–85 kg and finisher, 85–110 kg BW). Treatments comprised: 1) a nutritionally adequate positive control (PC); 2) a negative control (NC1) without added inorganic phosphate, reduced (based on specific PhyG dose) in net energy (NE), calcium (Ca), digestible amino acids (AA) and sodium (Na) vs. PC, supplemented with PhyG at 1,000, 1000, 750, 500 and 500 FTU/kg during pre-starter, starter, grower I, II and finisher phase, respectively (NC1+PhyG ‘low’); 3) a negative control (NC2) without added inorganic phosphate, supplemented with PhyG at 2,000, 2,000, 1,000, 750 and 750 FTU/kg in each phase with reduction in NE, Ca, dig AA and Na vs. PC based on the specific PhyG dose (NC2+PhyG ‘high’); and 4) a negative control (NC3) that was similar to 2) but supplemented with XB to provide 2,400 U/kg xylanase and 304 U/kg β-glucanase, with additional reduction in NE and dig AA based on the contribution of XB vs NC1 (NC3+PhyG ‘low’+XB). Data were analyzed by ANOVA, and means separation was by Tukey’s HSD test. Growth performance in all enzyme-supplemented diets was maintained or improved compared with PC. The NC3+PhyG ‘low’+XB treatment significantly improved performance vs. PC; average daily gain (ADG) and BW were greater vs. PC in starter (620 g and 28.2 kg vs. 557 g and 26.4 kg) and grower I (859 g and 65.1 kg vs. 777 g and 60.0 kg) respectively; feed conversion ratio (FCR) was reduced in grower II vs. PC (2.10 vs. 2.25; P &lt; 0.05). The final BW was 114.5, 114.8, 115.6 and 116.7 kg in PC, NC1+PhyG ‘low’, NC2+PhyG ‘high’ and NC3+PhyG ‘low’+XB, respectively (P &gt; 0.05). Carcass parameters were unaffected by treatments. Compared with PC, NC1+PhyG ‘low’, NC2+PhyG ‘high’ and NC3+PhyG ‘low’+XB conferred a 3.8 to 5.8% reduction in total feed cost (ingredients price, October 2023)/kg BWG and 4.4 to 6.8% reduction in the total carbon footprint (FeedPrint, WUR, The Netherland, CO2 eq., g)/kg BWG. The results confirm the appropriacy of the applied matrix values with PhyG supplementation, with or without XB, in mixed cereal diets from wean-to-finish and highlight the potential feed cost and sustainability benefit of using the phytase alone or in combination with the carbohydrase enzymes.    
 
     
 

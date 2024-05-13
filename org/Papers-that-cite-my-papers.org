@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Sun May 12 01:10:43 2024
+Created on Mon May 13 01:07:16 2024
 
-Found 57 results from 2024-05-05 to 2024-05-12
+Found 55 results from 2024-05-06 to 2024-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881]]
@@ -13,48 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023]]
-
-* Boosting oxygen reduction electrocatalytic performance of Cu-Nx by modulating electron structure via construction of Cu-Nx and Cu nanocluster coupling catalyst  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396637528
-:TOPICS: Electrocatalysis for Energy Conversion, Memristive Devices for Neuromorphic Computing, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.04.362")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396637528"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396637528"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396637528"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396637528 (Open access: False)
-    
-[[https://openalex.org/A5038157536][Kaixin Liang]], [[https://openalex.org/A5059118962][Yongfeng Liang]], [[https://openalex.org/A5003759585][Hui Zhang]], [[https://openalex.org/A5073026807][Feiying Tang]], [[https://openalex.org/A5076627740][Shun‐Li Shang]], [[https://openalex.org/A5091161457][Zhe Liu]], [[https://openalex.org/A5059118962][Yongfeng Liang]], International journal of hydrogen energy. 69(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.04.362 
-     
-No abstract    
-
-    
-
-* Steering benzyl alcohol electrooxidation coupled with hydrogen evolution via hetero‐interface construction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396639735
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-05-04
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/aic.18469")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396639735"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396639735"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396639735"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396639735 (Open access: False)
-    
-[[https://openalex.org/A5079948316][Xiaohui Du]], [[https://openalex.org/A5002092955][Wenfu Xie]], [[https://openalex.org/A5026340829][Yanfei Wang]], [[https://openalex.org/A5019560977][Hao Li]], [[https://openalex.org/A5063319286][Jinze Li]], [[https://openalex.org/A5064842058][Yang Li]], [[https://openalex.org/A5081813438][Yiheng Song]], [[https://openalex.org/A5007747080][Zhenhua Li]], [[https://openalex.org/A5023311475][Jin Yong Lee]], [[https://openalex.org/A5062633224][Mingfei Shao]], AIChE journal. None(None)] 2024. https://doi.org/10.1002/aic.18469 
-     
-Abstract It is still a challenge to develop electrocatalyst for the efficient adsorption and conversion of organic molecule in aqueous media. Herein, a hetero‐interface structure based on CuO@Ni(OH) 2 is rationally designed to enhance the performance of benzyl alcohol oxidation to benzoic acid. A high Faradaic efficiency of 99% and the yield of 3.09 mmol cm −2 h −1 are achieved at 1.70 V versus reversible hydrogen electrode, outperforming the previously reported electrocatalysts. Furthermore, a membrane‐free flow electrolyzer was assembled based on CuO@Ni(OH) 2 hetero‐interface, exhibiting a much high yielding of benzoic acid (6.73 mmol cm −2 h −1 ) and hydrogen (0.35 L cm −2 h −1 ) with excellent stability. Both experimental data and density functional theory calculations verify that the electron is tend to accumulate at the hetero‐interface, thus accelerating the adsorption of reactant and intermediate and reducing the energy barrier of the conversion of benzyl alcohol to benzoic acid.    
-
-    
 
 * Heterostructured Catalytic Materials as Advanced Electrocatalysts: Classification, Synthesis, Characterization, and Application  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -533,7 +491,7 @@ The electrochemical reduction of CO2 (eCO2R) is a promising approach for convert
 
 OpenAlex: https://openalex.org/W4396718825 (Open access: False)
     
-[[https://openalex.org/A5036814830][Isabela C. Man]], [[https://openalex.org/A5080121607][Ionut Trancă]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4821664 
+[[https://openalex.org/A5036814830][Isabela C. Man]], [[https://openalex.org/A5080121607][Ionuţ Tranca]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4821664 
      
 No abstract    
 

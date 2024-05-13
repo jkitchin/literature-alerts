@@ -1,44 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Sun May 12 01:10:22 2024
+Created on Mon May 13 01:06:57 2024
 
-Found 133 results from 2024-05-05 to 2024-05-12
+Found 116 results from 2024-05-06 to 2024-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Selectivity of Mn rich Ru Mn O phases in parallel oxygen and chlorine evolution   
-
-OpenAlex: https://openalex.org/W4396640999    
-Open access: False
-    
-[Catalina Astudillo](https://openalex.org/A5060341317), [Kateřina Minhová Macounová](https://openalex.org/A5034826864), [Roman Nebel](https://openalex.org/A5042624671), [Jan Plšek](https://openalex.org/A5039919421), [Petr Krtil](https://openalex.org/A5020354378), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144346.
-    
-Single phase Mn rich Mn1-x RuxO2 conforming a highly disordered γ MnO2 with pyrolusite-like blocks dominating in the structure were prepared for low Ru content (0.15 ≥ x ≥ 0.30). All synthesized materials were electrochemically active in oxygen and chlorine evolution reactions in acidic conditions while varying the content of chlorides. The total activity increased with increasing Ru content in the structure as well as increasing concentration of chlorides in the solution. The selectivity towards oxygen evolution reaction was predominant for all chloride concentrations (from 0.02 to 0.3M), and its value was not dependent on the total Ru content in the material structure. The reaction mechanism with respect to chlorine evolution reaction was discussed on the basis of the determined order of reactions, which apparently increased with increasing Ru content.    
-
-    
-
-## Double oxygen evolution co-catalysts modified BiVO4 to boost photoelectrochemical water oxidation performance   
-
-OpenAlex: https://openalex.org/W4396643328    
-Open access: False
-    
-[Yaoguang Hu](https://openalex.org/A5001030257), [Ziyang Tao](https://openalex.org/A5047200044), [Jiawei Yang](https://openalex.org/A5037380501), [Qiang Zhang](https://openalex.org/A5088954771), [Jin‐Ping Li](https://openalex.org/A5052810925), [Guang Liu](https://openalex.org/A5063240362), Journal of alloys and compounds. None(None)] 2024.https://doi.org/10.1016/j.jallcom.2024.174725.
-    
-Improving the kinetics of oxygen evolution is crucial for enhancing the performance of photoelectrochemical (PEC) water splitting. Herein, this study utilizes a chemical self-growth method to grow NiFe tannic acid complex (NFTA) and Co(OH)2 on the surface of BiVO4 photoanode (BiVO4/NFTA/Co). As a result, the synergistic effects of NFTA and Co(OH)2 layers promote the efficiency and stability of BiVO4 photoanode towards PEC water oxidation. The photocurrent density of the obtained BiVO4/NFTA/Co photoanode reaches 4.97 mA cm-2, which is significantly greater than those of BiVO4/NFTA (4.36 mA cm-2), BiVO4/Co (2.51 mA cm-2), BiVO4 (1.34 mA cm-2), respectively. Detailed analysis confirms that NFTA could provide an efficient way to hasten the transfer of photo-generated holes on the photoanode surface and diminish the surface charge transfer resistance. In other hand, Co(OH)2 could be served as a cocatalyst to accelerate charge transfer for efficient oxygen evolution reaction as well as a protective layer to maintain the long-term stability of NFTA on the surface of BiVO4 during water oxidation. Such double oxygen evolution co-catalysts decoration strategy paves an effective pathway to enhance the PEC water oxidation performance of BiVO4 photoanode.    
-
-    
-
-## IrO2 nanoparticles supported on submicrometer-sized TiO2 as an efficient and stable coating for oxygen evolution reaction   
-
-OpenAlex: https://openalex.org/W4396634429    
-Open access: False
-    
-[Bao Liu](https://openalex.org/A5035419929), [G.H. Li](https://openalex.org/A5026636966), [Xing‐Min Cai](https://openalex.org/A5043264392), [Yajun Wang](https://openalex.org/A5085963164), [Yanan Zeng](https://openalex.org/A5054053939), [Qijun Ren](https://openalex.org/A5063010501), [Junguo Li](https://openalex.org/A5029213853), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144392.
-    
-No abstract    
-
-    
 
 ## Anion Structure Regulation of Cobalt Silicate Hydroxide Endowing Boosted Oxygen Evolution Reaction   
 
@@ -766,17 +733,6 @@ Nickel-molybdenum (NiMo) alloy has been widely concerned in the field of electro
 
     
 
-## Achieving Visible Light Triggered Overall Water Splitting over Plasmonic Au/SrTiO3:Al Photocatalyst   
-
-OpenAlex: https://openalex.org/W4396641847    
-Open access: False
-    
-[Bin Zeng](https://openalex.org/A5018269605), [Zhou Qing](https://openalex.org/A5008137260), [Na Ta](https://openalex.org/A5016825655), [Shengyang Wang](https://openalex.org/A5068108681), [Can Li](https://openalex.org/A5011065863), [Rengui Li](https://openalex.org/A5080416058), ChemPhotoChem. None(None)] 2024.https://doi.org/10.1002/cptc.202400107.
-    
-The surface plasmon resonance (SPR) effect has garnered extensive attention in semiconductor photocatalysis for solar energy conversion, thanks to its remarkable optical properties. However, the majority SPR‐induced photocatalytic systems have been limited to achieving hydrogen evolution or oxygen evolution half reactions, and attaining overall water splitting on a SPR‐induced photocatalyst under visible light remains a formidable challenging. In this study, we employed a plasmonic photocatalyst Au/SrTiO3, and further enhanced its performance by doping aluminum (Al) into the SrTiO3 lattice (denoted as Au/SrTiO3:Al). By constructing reduction cocatalyst (RhCrOx) and oxidation cocatalyst (CoOOH), the Au/SrTiO3:Al photocatalyst successfully realizes photocatalytic overall water splitting with a stoichiometric ratio of H2 and O2 under visible light (λ ≥ 440 nm). We revealed that the introduction of Al species effectively modified the electronic structure of SrTiO3, thereby enhancing the hydrogen evolution reaction in Au/SrTiO3:Al. Simultaneously, the RhCrOx and CoOOH cocatalysts synergistically capitalized on the short‐lived hot electrons and holes generated by the plasmonic Au/SrTiO3:Al photocatalyst, enabling to realize photocatalytic overall water splitting. This work offers a promising avenue for the rational design of plasmon‐induced overall water splitting photocatalysts through the integration of suitable cocatalysts and surface/interface engineering strategies.    
-
-    
-
 ## Efficient Bifunctional NiFe-LDH@Co9S8 Nanoflower Electrocatalysts Anchored with Pt Nanocrystal for Flexible Quasi-solid Rechargeable Zinc Air Battery   
 
 OpenAlex: https://openalex.org/W4396750416    
@@ -810,28 +766,6 @@ Abstract Electrocatalytic glycerol oxidation reaction (GOR) stands out as an eco
 
     
 
-## Net O2 exchange rates under dark and light conditions across different stem compartments   
-
-OpenAlex: https://openalex.org/W4396643438    
-Open access: False
-    
-[Sara Natale](https://openalex.org/A5038653001), [Lucas León Peralta Ogorek](https://openalex.org/A5029921792), [Ludovico Caracciolo](https://openalex.org/A5006020158), [Tomas Morosinotto](https://openalex.org/A5080529153), [Herbert van Amerongen](https://openalex.org/A5032435537), [Valentino Casolo](https://openalex.org/A5003811230), [Ole Pedersen](https://openalex.org/A5031250711), [Andrea Nardini](https://openalex.org/A5047523578), New phytologist. None(None)] 2024.https://doi.org/10.1111/nph.19782.
-    
-Summary Woody plants display some photosynthetic activity in stems, but the biological role of stem photosynthesis and the specific contributions of bark and wood to carbon uptake and oxygen evolution remain poorly understood. We aimed to elucidate the functional characteristics of chloroplasts in stems of different ages in Fraxinus ornus . Our investigation employed diverse experimental approaches, including microsensor technology to assess oxygen production rates in whole stem, bark, and wood separately. Additionally, we utilized fluorescence lifetime imaging microscopy (FLIM) to characterize the relative abundance of photosystems I and II (PSI : PSII chlorophyll ratio) in bark and wood. Our findings revealed light‐induced increases in O 2 production in whole stem, bark, and wood. We present the radial profile of O 2 production in F. ornus stems, demonstrating the capability of stem chloroplasts to perform light‐dependent electron transport. Younger stems exhibited higher light‐induced O 2 production and dark respiration rates than older ones. While bark emerged as the primary contributor to net O 2 production under light conditions, our data underscored that wood chloroplasts are also photosynthetically active. The FLIM analysis unveiled a lower PSI abundance in wood than in bark, suggesting stem chloroplasts are not only active but also acclimate to the spectral composition of light reaching inner compartments.    
-
-    
-
-## A photothermal assisted zinc-air battery cathode based on pyroelectric and photocatalytic effect   
-
-OpenAlex: https://openalex.org/W4396634086    
-Open access: False
-    
-[Song Lin Li](https://openalex.org/A5042843099), [Hongsheng Jia](https://openalex.org/A5044131933), [Zhimeng Zhang](https://openalex.org/A5007352532), [Mei Han](https://openalex.org/A5082664098), [E Yuanlong](https://openalex.org/A5009302182), [Chunbo Liu](https://openalex.org/A5049470806), [Qingshuang Wang](https://openalex.org/A5064768700), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.05.013.
-    
-Zinc–air battery as one of the new generations of battery system, its theoretical specific energy is as high as 1086 Wh kg−1, specific capacity up to 820 mAh/g, and zinc has the advantages of environmental friendliness, resource abundance, low cost and good safety, so it has attracted much attention. However, due to its slow reaction kinetic process, zinc–air battery will produce a large charging overpotential usually up to 2 V, it is far beyond the theoretical voltage of 1.65 V, so reducing the overpotential of zinc–air batteries is extremely necessary, and the most common way to solve this problem is to use excellent catalyst cathode to improve the oxygen reduction and oxygen evolution kinetics of zinc–air batteries. So we developed a new photothermal assisted zinc–air battery system with Hollow carbon nanosphere@poly (vinylidene fluoride-trifluoroethylene-chlorofluoroethylene)@CdS (HCN@PVTC@CdS) photocathode, the pyroelectric and photocatalysis effect can effectively promote the reaction kinetics and reduce the reaction overpotential. With the pyroelectric and photocatalysis synergistic effect, the zinc–air has displayed a high discharge potential of 1.33 V and a low charging potential of 1.5 V with good cycle stability. This multi-assist technology with built-in electric and light fields paves the way for the development of high-performance zinc–air batteries and other energy storage systems.    
-
-    
-
 ## Different M-doped Ni3S2/FeS (M=Co, Cr, Cu, Zn) hybrid nanosheet arrays for overall urea splitting and seawater oxidation reaction   
 
 OpenAlex: https://openalex.org/W4396656784    
@@ -851,17 +785,6 @@ Open access: False
 [Zhongtang Gao](https://openalex.org/A5021900148), [Tengfei Zhang](https://openalex.org/A5081079688), [Dianguo Xu](https://openalex.org/A5015741637), [Ping Liu](https://openalex.org/A5077153113), [Huan Liu](https://openalex.org/A5013881064), [Huanhuan Li](https://openalex.org/A5011068248), [Yanyan Liu](https://openalex.org/A5061810022), [Feng Ye](https://openalex.org/A5050311492), [Gang Wang](https://openalex.org/A5064634018), Journal of catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115540.
     
 In situ growth of nanoarrays on conductive substrates is an efficient strategy for designing electrocatalysts. However, preparing array with excellent catalytic activities for hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) remains a challenge. Here, we construct a novel hollow sugar gourd-like Ni-Co-S@NiMoO4·xH2O/NF nanocage array through MOF derivation strategy for stable solar-driven overall water splitting. Due to the hollow core–shell structure and multi-component advantages, the Ni-Co-S@NiMoO4·xH2O/NF presents high density of active sites and fast charge transfer rate. Therefore, Ni-Co-S@NiMoO4·xH2O/NF exhibits attractive electrocatalytic activity in alkaline electrolytes for HER (90 mV@10 mA cm−2) and OER (208 mV@10 mA cm−2, 245 mV@100 mA cm−2). The corresponding two-electrode electrolytic cell demonstrates small cell voltage (1.515 V @ 10 mA cm−2) and shows durability over 50 h at 10 mA cm−2, exhibiting excellent overall water splitting performance. It is worth noting that the solar-assisted electrolysis cell reaches a high solar-to-hydrogen (STH) conversion rate of 19.4 %. The construction of this unique hollow structure gives a fascinating method for improving the HER and OER performance of transition metal sulfide electrocatalysts.    
-
-    
-
-## Work function-tunable graphene/WO3 heterojunctions for high-performance photoelectrochemical cell: UV-treatment effect and defective graphene   
-
-OpenAlex: https://openalex.org/W4396652575    
-Open access: False
-    
-[Ayoung Cho](https://openalex.org/A5025837786), [Jin Hong Kim](https://openalex.org/A5074824488), [Sung R. Choi](https://openalex.org/A5042053688), [Jun-Young Park](https://openalex.org/A5022870510), [Yoon‐Uk Heo](https://openalex.org/A5028568593), [Jung Sang Cho](https://openalex.org/A5042524304), [Taekjib Choi](https://openalex.org/A5075603250), Journal of power sources. 608(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.234650.
-    
-Designing hybrid photoelectrodes with graphene capable of efficient charge-carrier transfer and excellent chemical stability is an effective strategy for developing high-performance photoelectrochemical (PEC) cells. However, it remains unclear how the PEC properties are enhanced and how to control the junction properties in graphene/metal oxide heterojunction-based photoelectrodes. Here, we develop a deterministic junction to enhance PEC performance in graphene/tungsten trioxide (WO3)-based photoelectrodes by tuning the work function of graphene. It reveals that the band structure of graphene/WO3 heterojunctions can be modified by ultraviolet (UV) treatment on WO3 thin films. This modification is supported by the observation that a single-layer graphene/UV-treated WO3 photoelectrode exhibits significantly enhanced PEC activities toward the oxygen evolution reaction (OER) (evidenced by features like a threefold increase in photocurrent, an onset potential shift, and improved stability), whereas the single-layer graphene/untreated WO3 electrode demonstrates improved properties for the hydrogen evolution reaction (HER). Additionally, defects in the graphene layer formed during PEC water splitting contribute to high catalytic activities of the graphene/WO3 photoelectrode due to a decrease in the Gibbs free energy for OER and HER. These results emphasize that band structure engineering via work function tuning in graphene/WO3 heterostructures can provide multiple benefits for high PEC performance and long-term stability.    
 
     
 
@@ -1008,28 +931,6 @@ Facile template-free hydrothermal method was utilized for preparing CuO nanostru
 
     
 
-## Dealloying of Mg-based alloys for production of self-supporting metallic nanostructures   
-
-OpenAlex: https://openalex.org/W4396650185    
-Open access: False
-    
-[Jian‐Bin Lin](https://openalex.org/A5064019950), [Weitao Zheng](https://openalex.org/A5008587352), [Wenxue Ke](https://openalex.org/A5078083722), [Xin He](https://openalex.org/A5078699325), [Pei Liang](https://openalex.org/A5048714447), [Chengkai Zhang](https://openalex.org/A5057252784), Intermetallics. 170(None)] 2024.https://doi.org/10.1016/j.intermet.2024.108308.
-    
-Dealloying is a proficient technique in the fabrication of nanostructured metals, particularly nanoporous materials, with promising potential for diverse applications. However, the development of robust and self-standing nanostructured metal foils through dealloying presents significant challenges. By generating an alloy layer on the surface of the metal foil, nanostructures can be generated on the metal foil surface through subsequent dealloying. This approach utilizes the inherent flexibility and ductility of the metal foil to ensure self-support. It also allows for the tailoring of the structure and composition of the dealloyed nanostructured metal by manipulation of the phase constitution in the surface alloy layer. In this study, we report a strategy for generating alloy layers on metal foil surfaces through the thermal evaporation of magnesium (Mg) followed by annealing. Upon dealloying the surface alloy layer, we successfully obtain self-supported nanostructured metal foils. Employing copper (Cu) as an example, we demonstrate that Mg can form a Mg–Cu alloy layer on the surface of a Cu foil, where the control over the alloy layer's phase composition and thickness is achieved by adjusting the annealing duration. Furthermore, we investigated the feasibility of this method on nickel (Ni) substrates, including Ni foils and Ni foams. Moreover, by further functionalizing the resulting nanostructured Ni foil, we transformed it into Ni(OH)2/Ni foil and explored its performance in the electrocatalytic oxygen evolution reaction (OER). The resulting catalyst achieved a current density of 10 mA cm−2 at a potential of only 349 mV in a 1 M KOH solution, exhibiting a Tafel slope of 84.52 mV dec−1. Following 10 h of stability testing, the catalyst exhibited negligible degradation in performance. This study provides a convenient and versatile pathway for preparing self-supported nanostructured metals.    
-
-    
-
-## Influence of solution pH on the dynamics of oxygen bubbles on the surface of TiO2-NTAs electrodes   
-
-OpenAlex: https://openalex.org/W4396650718    
-Open access: False
-    
-[Qiang Xu](https://openalex.org/A5083646781), [Jiayang Chi](https://openalex.org/A5096229773), [Tengfei Nie](https://openalex.org/A5023457039), [Yonglu She](https://openalex.org/A5089849232), [Xinyi Luo](https://openalex.org/A5046128470), [Liejin Guo](https://openalex.org/A5004810991), International journal of hydrogen energy. 69(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.04.293.
-    
-The rise of concentration resistance caused by bubble growth is a key factor affecting the photoelectrochemical water splitting efficiency. In this research, we employed an electrochemical workstation, a synchronized measuring system, and a CCD camera to investigate the in-situ evolution of oxygen bubbles on the surfaces of TiO2-NTAs and C/TiO2-NTAs electrodes. The connection among the critical nucleation, growth and departure behavior of a single bubble on the photoanode surface and photocurrent curves at different solution pH (1–13) has been investigated. For TiO2-NTAs, it was found that strong alkalinity significantly reduces the voltage required for critical bubble nucleation. The photocurrent rises approximately 1.5 times when the control voltage is 0.10 V (vs. Ag/AgCl) by pH increasing from 1 to 13 and while the bubble evolution cycles decline by approximately 3.2 times. The photocurrent rises by 10.4 times compared with pH = 9 and by 7.3 times compared with pH = 13 when the control voltage is 0.71 V (vs. RHE), respectively. We also found that the oxygen bubble evolution of C/TiO2-NTAs is similar to TiO2-NTAs. When pH = 3–13, the average photocurrent of C/TiO2-NTAs electrode is higher than that of TiO2-NTAs, and the average bubble evolution cycles are lower than those of TiO2-NTAs at the same pH. According to the results, carbon films can rise the absorption capacity of TiO2-NTAs and significantly improve the effectiveness of photogenerated holes and electrons departure. Meanwhile, based on the oxygen bubble force balance model on the photoanode surface, the concentration Marangoni force rises with the increase of pH, which leads to the growth of bubble departure diameter. The outcomes demonstrate that oxygen bubbles on the photoanode surface can be successfully eliminated in strongly alkaline settings.    
-
-    
-
 ## The Implications of Thermal Hydrodynamic Atmospheric Escape on the
   TRAPPIST-1 Planets   
 
@@ -1039,17 +940,6 @@ Open access: True
 [Megan T. Gialluca](https://openalex.org/A5066415755), [R. Barnes](https://openalex.org/A5038918473), [Victoria Meadows](https://openalex.org/A5051034436), [Rodolfo García](https://openalex.org/A5020655518), [Jessica Birky](https://openalex.org/A5027612303), [Eric Agol](https://openalex.org/A5083799931), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.02401 ([pdf](https://arxiv.org/pdf/2405.02401)).
     
 JWST observations of the 7-planet TRAPPIST-1 system will provide an excellent opportunity to test outcomes of stellar-driven evolution of terrestrial planetary atmospheres, including atmospheric escape, ocean loss and abiotic oxygen production. While most previous studies use a single luminosity evolution for the host star, we incorporate observational uncertainties in stellar mass, luminosity evolution, system age, and planetary parameters to statistically explore the plausible range of planetary atmospheric escape outcomes. We present probabilistic distributions of total water loss and oxygen production as a function of initial water content, for planets with initially pure water atmospheres and no interior-atmosphere exchange. We find that the interior planets are desiccated for initial water contents below 50 Earth oceans. For TRAPPIST-1e, f, g, and h, we report maximum water loss ranges of 8.0$^{+1.3}_{-0.9}$, 4.8$^{+0.6}_{-0.4}$, 3.4$^{+0.3}_{-0.3}$, and 0.8$^{+0.2}_{-0.1}$ Earth oceans, respectively, with corresponding maximum oxygen retention of 1290$^{+75}_{-75}$, 800$^{+40}_{-40}$, 560$^{+30}_{-25}$, and 90$^{+10}_{-10}$ bars. We explore statistical constraints on initial water content imposed by current water content, which could inform evolutionary history and planet formation. If TRAPPIST-1b is airless while TRAPPIST-1c possesses a tenuous oxygen atmosphere, as initial JWST observations suggest, then our models predict an initial surface water content of 8.2$^{+1.5}_{-1.0}$ Earth oceans for these worlds, leading to the outer planets retaining $>$1.5 Earth oceans after entering the habitable zone. Even if TRAPPIST-1c is airless, surface water on the outer planets would not be precluded.    
-
-    
-
-## Tailoring Catalytic and Oxygen Release Capability in LaFe1–xNixO3 to Intensify Chemical Looping Reactions at Medium Temperatures   
-
-OpenAlex: https://openalex.org/W4396645619    
-Open access: False
-    
-[Rongjiang Zhang](https://openalex.org/A5029507882), [Gen Liu](https://openalex.org/A5005616906), [Chunyong Huo](https://openalex.org/A5058806165), [Lijun Jia](https://openalex.org/A5057409480), [Bo Zhang](https://openalex.org/A5018371876), [Bolun Yang](https://openalex.org/A5079262155), [Xiaoyong Tian](https://openalex.org/A5058329611), [Zhiqiang Wu](https://openalex.org/A5091909594), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01386.
-    
-Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
 
     
 
@@ -1064,14 +954,14 @@ The chemical reactions and phase transitions at high voltages determine the elec
 
     
 
-## Recent advancements in marine micropaleontological and paleoceanographic research from India   
+## In situ 3D-ED in gas and liquid environments for following structural evolutions during reactions   
 
-OpenAlex: https://openalex.org/W4396652208    
-Open access: False
+OpenAlex: https://openalex.org/W4396818151    
+Open access: True
     
-[Arun D. Singh](https://openalex.org/A5062088249), [Pothuri Divakar Naidu](https://openalex.org/A5036554035), Proceedings of the Indian National Science Academy. Part A, Physical Sciences. None(None)] 2024.https://doi.org/10.1007/s43538-024-00307-9.
+[D. Vandemeulebroucke](https://openalex.org/A5024302874), [Amirhossein Hajizadeh](https://openalex.org/A5038822787), [M. Batuk](https://openalex.org/A5064796307), [J. Hadermann](https://openalex.org/A5027732303), Acta crystallographica. Section A, Foundations and advances. 79(a2)] 2023.https://doi.org/10.1107/s2053273323095840.
     
-The article presents an overview of the research contributions in the field of Marine Micropaleontology and Paleoceanography, made by the Indian scientists during the last five years. Keeping pace with recent development in analytical techniques, significant contributions have been made in diversified research aspects: paleoceanographic proxy development, Asian monsoon variability and dynamics, Neogene-Quaternary evolution of the Indian Ocean in relation to the global climate change, carbonate cycle and ocean acidification, development of oxygen minimum zone and its variability through time. Although, the major emphasis is given to the Indian Ocean paleoceanographic studies, a few Indian research groups are also actively engaged in understanding ocean-climate evolution of the Atlantic and Pacific Oceans, inter-basinal connections and their implications on global ocean deep circulation and climate on tectonic to millennial time scales.    
+Many functional materials are applied in the form of nanosized particles.To follow their structural evolution during reactions, in situ X ray powder diffraction or in situ neutron powder diffraction can miss out on details due to this small particle size.In such cases, in situ 3DED (three dimensional electron diffraction) would allow to gather single crystal type information on the structural changes.However, currently there are still many open questions on how the results from in situ 3DED relate to ex situ results and results from bulk experiments.Using closed cell environmental holders (gas, liquid, electrochemistry), combined with heating and cooling holders, we have studied their structural evolutions during redox reactions during heating in O2 and H2 versus vacuum of a range of perovskite based materials and have systematically related the resulting reduced structures to those obtained by other techniques.For Sr2Fe2O5 (Pcmb), investigated for solid oxide fuel cells, chemical looping and heterogeneous catalysis, in situ XRD and in situ NPD in gas environments only observed transformations between brownmillerite and perovskite type (Pm-3m) structures, while in situ 3DED allowed to also observe an intermediate Cmmm phase known from ex situ and electrochemistry experiments before reaching the perovskite type phase.In situ 3DED also showed the manifestation of nanotwins upon oxidation.After reducing the oxidized phase again in hydrogen at 700°C, the ordering of the tetrahedral chains between planes was lost but the order within planes remained.Cooling instead the oxidized phase in oxygen resulted in an intergrowth of brownmillerite and perovskite.[1] The reduction of the Ruddlesden-Popper structure La0.5Sr1.5MnO4,also a candidate for solid oxide fuel cell cathodes, resulted in the creation of a perovskite layer at the surface which was not noticed before in bulk in situ experiments involving redox reactions in gas.Parallel ex situ reductions showed also faint superstructure reflections in the 3DED datasets pointing towards a surface reconstruction with ordered oxygen vacancies, which could not be detected in the in situ 3DED experiments.Differences in surface layers are important as they are the most active parts in catalytic reactions.Sr2MnO 4 could not be reduced using an in situ reaction with H2 into the supercell with oxygen-vacancy order from literature, while this did succeed during parallel ex situ reduction experiments as well as during in situ heating in vacuum.CaMnO3, a material for chemical looping applications, was successfully reduced using in situ reduction both by heating in hydrogen gas as well as by heating in vacuum, achieving not only the well characterized CaMnO2.5 phase, but also the intermediate CaMnO2.75, which was thus far not solved and had contradicting models in literature.Using the results from the in situ 3DED experiments, the CaMnO2.75 was solved in a Pmmm space group.These results were then compared to in situ 3DED results on the evolution of the Fe and Sr doped compounds which show better chemical looping properties.In situ 3DED in gas environments has thus already given new, complementary information to what was observed with in situ XRD and in situ NPD for each perovskite based material we have studied so far.We therefore believe that in future studies in situ 3DED will unlock a vast amount of new information on functional materials in general.    
 
     
 
@@ -1083,17 +973,6 @@ Open access: True
 [Jiantao Niu](https://openalex.org/A5084974157), [Qi Hu](https://openalex.org/A5028888316), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103988 ([pdf](https://www.mdpi.com/2071-1050/16/10/3988/pdf?version=1715327582)).
     
 Photocatalytic water splitting by semiconductors is considered a promising and cost-effective method for achieving sustainable hydrogen production. In this study, a CF/SrTiO3/In2O3 photocatalytic material with a double-layer core–shell structure was developed. The experimental results indicated that the produced CF/SrTiO3/In2O3 composite fiber displayed superior photocatalytic hydrogen production performance, achieving a hydrogen evolution rate of approximately 320.71 μmol/g·h, which is roughly seven times higher than that of the CF/SrTiO3 fiber alone. The enhanced photocatalytic activity of the CF/SrTiO3/In2O3 fiber can be attributed to the heterojunction structure enriched with oxygen vacancies. It was found that these oxygen vacancies created defective states that served as traps for photogenerated electrons, facilitating their migration to the surface defect states and enabling the reduction of H+ in water to produce hydrogen. Furthermore, the synergy between the heterojunction structure and the conductivity of the carbon fiber promoted the generation and migration of photogenerated electrons, reduced the recombination of photogenerated electron–hole pairs, and ultimately improved photocatalytic hydrogen production. This study presents a new approach for designing efficient photocatalysts with surface oxygen vacancies on carbon fibers, providing new insights into the sustainable application of photocatalysts.    
-
-    
-
-## In situ 3D-ED in gas and liquid environments for following structural evolutions during reactions   
-
-OpenAlex: https://openalex.org/W4396818151    
-Open access: True
-    
-[D. Vandemeulebroucke](https://openalex.org/A5024302874), [Amirhossein Hajizadeh](https://openalex.org/A5038822787), [M. Batuk](https://openalex.org/A5064796307), [J. Hadermann](https://openalex.org/A5027732303), Acta crystallographica. Section A, Foundations and advances. 79(a2)] 2023.https://doi.org/10.1107/s2053273323095840.
-    
-Many functional materials are applied in the form of nanosized particles.To follow their structural evolution during reactions, in situ X ray powder diffraction or in situ neutron powder diffraction can miss out on details due to this small particle size.In such cases, in situ 3DED (three dimensional electron diffraction) would allow to gather single crystal type information on the structural changes.However, currently there are still many open questions on how the results from in situ 3DED relate to ex situ results and results from bulk experiments.Using closed cell environmental holders (gas, liquid, electrochemistry), combined with heating and cooling holders, we have studied their structural evolutions during redox reactions during heating in O2 and H2 versus vacuum of a range of perovskite based materials and have systematically related the resulting reduced structures to those obtained by other techniques.For Sr2Fe2O5 (Pcmb), investigated for solid oxide fuel cells, chemical looping and heterogeneous catalysis, in situ XRD and in situ NPD in gas environments only observed transformations between brownmillerite and perovskite type (Pm-3m) structures, while in situ 3DED allowed to also observe an intermediate Cmmm phase known from ex situ and electrochemistry experiments before reaching the perovskite type phase.In situ 3DED also showed the manifestation of nanotwins upon oxidation.After reducing the oxidized phase again in hydrogen at 700°C, the ordering of the tetrahedral chains between planes was lost but the order within planes remained.Cooling instead the oxidized phase in oxygen resulted in an intergrowth of brownmillerite and perovskite.[1] The reduction of the Ruddlesden-Popper structure La0.5Sr1.5MnO4,also a candidate for solid oxide fuel cell cathodes, resulted in the creation of a perovskite layer at the surface which was not noticed before in bulk in situ experiments involving redox reactions in gas.Parallel ex situ reductions showed also faint superstructure reflections in the 3DED datasets pointing towards a surface reconstruction with ordered oxygen vacancies, which could not be detected in the in situ 3DED experiments.Differences in surface layers are important as they are the most active parts in catalytic reactions.Sr2MnO 4 could not be reduced using an in situ reaction with H2 into the supercell with oxygen-vacancy order from literature, while this did succeed during parallel ex situ reduction experiments as well as during in situ heating in vacuum.CaMnO3, a material for chemical looping applications, was successfully reduced using in situ reduction both by heating in hydrogen gas as well as by heating in vacuum, achieving not only the well characterized CaMnO2.5 phase, but also the intermediate CaMnO2.75, which was thus far not solved and had contradicting models in literature.Using the results from the in situ 3DED experiments, the CaMnO2.75 was solved in a Pmmm space group.These results were then compared to in situ 3DED results on the evolution of the Fe and Sr doped compounds which show better chemical looping properties.In situ 3DED in gas environments has thus already given new, complementary information to what was observed with in situ XRD and in situ NPD for each perovskite based material we have studied so far.We therefore believe that in future studies in situ 3DED will unlock a vast amount of new information on functional materials in general.    
 
     
 
@@ -1152,17 +1031,6 @@ The pursuit of precise and detailed kinetic characteristics continues to drive a
 
     
 
-## Direct Observation of the Interface Reaction Dynamics of the Ndcefeb Phase Via In-Situ Annealing & Quenching Stem   
-
-OpenAlex: https://openalex.org/W4396647807    
-Open access: False
-    
-[Xiangyu Zhu](https://openalex.org/A5016107458), [Qingxiao Wang](https://openalex.org/A5024924577), [Yan Li](https://openalex.org/A5024693945), [Byung Oh Jung](https://openalex.org/A5012151948), [Myungshin Choi](https://openalex.org/A5000799718), [Sunyong Song](https://openalex.org/A5022782852), [Seok Namkung](https://openalex.org/A5028217224), [Nam Lyong Kang](https://openalex.org/A5066383587), [Hyungsoon Shin](https://openalex.org/A5034351813), [Minho Joo](https://openalex.org/A5055711370), [Xianming Dai](https://openalex.org/A5089119948), [Moon Kim](https://openalex.org/A5073613442), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4816937.
-    
-Although the Rare Earth (RE)2Fe14B type magnets were invented in the 1980s and are widely used worldwide. Yet, the phase formation and dissolution mechanisms are still not crystal clear. The reaction dynamics between rare earth elements (REE) and Iron enriched matrix is essential to understand the formation of hard magnetic REE-Fe-B phase or, conversely, phase dissociation and performance degeneration. The development of reaction mechanism is fundamentally important for process engineering and performance manipulation. This work investigates the interface reaction dynamics between REE and Iron enriched matrix via in-situ scanning transmission electron microscopy (STEM). The Focused ion beam (FIB) procedure and in-situ STEM experiments are specifically designed to achieve both oxygen-involved and oxygen-free reaction mechanisms within one specimen. The reaction dynamics at high temperatures are frozen to room temperature (RT) by rapid quenching, preserving the solid-liquid interface dynamics between Fe23B6 and liquid phases. Serial atomic resolution STEM images depict lattice evolution while REE atoms embed into the Fe23B6 lattice. The presented work also demonstrates that combining advanced FIB procedure with in-situ annealing & quenching STEM is a powerful tool for investigating high-temperature reaction mechanisms and interface phenomena of the complex system.    
-
-    
-
 ## Graphite-N reinforced sludge biochar electrode: A experimental and DFT theoretical analysis of efficient evolution and in-situ utilization of H2O2   
 
 OpenAlex: https://openalex.org/W4396745336    
@@ -1204,28 +1072,6 @@ Open access: True
 [Qingquan Hong](https://openalex.org/A5049460203), [Yuehua Cheng](https://openalex.org/A5059361825), [Yegao Qu](https://openalex.org/A5076380313), [Wei Lin](https://openalex.org/A5013919690), [Y. Liu](https://openalex.org/A5054601805), [Jianfeng Gao](https://openalex.org/A5047233371), [Pinghe Cai](https://openalex.org/A5040158034), [Tianyu Chen](https://openalex.org/A5004481705), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-48297-y ([pdf](https://www.nature.com/articles/s41467-024-48297-y.pdf)).
     
 Abstract Rhenium (Re) and uranium (U) are essential proxies in reconstructing past oceanic oxygenation evolution. However, their removal in continental shelf sediments, hotspots of early diagenesis, were previously treated as quantitatively unimportant sinks in the ocean. Here we examine the sedimentary reductive removal of Re and U and their coupling with organic carbon decomposition, utilizing the 224 Ra/ 228 Th disequilibria within the East China Sea shelf. We identified positive correlations between their removal fluxes and the rates of sediment oxygen consumption or organic carbon decomposition. These correlations enable an evaluation of global shelf reductive sinks that are comparable to (for Re) or higher than (~4-fold for U) previously established suboxic/anoxic sinks. These findings suggest potential imbalances in the modern budgets of Re and U, or perhaps a substantial underestimation of their sources. Our study thus highlights shelf sedimentary reductive removal as critical yet overlooked sinks for Re and U in the modern ocean.    
-
-    
-
-## Cross-scale deciphering thermal failure process of Ni-rich layered cathode   
-
-OpenAlex: https://openalex.org/W4396644926    
-Open access: False
-    
-[Ding Yang](https://openalex.org/A5064265355), [Yan Li](https://openalex.org/A5038805449), [Ruoyu Xu](https://openalex.org/A5049433396), [Xiaopeng Han](https://openalex.org/A5025874763), [Kai Huang](https://openalex.org/A5034932294), [Xiaoxing Ke](https://openalex.org/A5076574886), [Bo Wang](https://openalex.org/A5017233409), [Manling Sui](https://openalex.org/A5068617225), [Pengfei Yan](https://openalex.org/A5086670941), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109685.
-    
-Ni-rich LiNixCoyMn1-x-yO2 (NCM) layered oxides are low-cost high-energy density cathode materials, but plagued by its poor thermal stability incurred safety concerns. The thermal failure process of the layered cathode is accompanied by heat generation and oxygen release, which drives the battery into thermal runaway (TR). Aiming to fully understand the TR process and the structure evolution, this work applies diverse characterization techniques onto a polycrystalline Ni-rich layered cathode (LiNi0.83Mn0.05Co0.12O2 (PCN83)) to comprehensively investigate its thermal failure process at multiple scales. From macro level, we validate that it is the cathode thermal failure that drives the battery from the heat accumulation stage into TR in adiabatic conditions. From micro level, transmission electron microscopy (TEM) verifies that the thermal failure of PCN83 starts from 150 °C, which is much lower than the TR temperature measured from macro level tests. We reveal that the PCN83 cathode experiences sequential phase transitions before the TR, where the phase transition mechanism is illustrated from the atomic scale and the pore evolution process is unraveled. In situ heating TEM further reveals that thermal failure is preferentially initiated from grain boundaries and defect regions. These findings provide an in-depth understanding of the whole thermal failure process of NMC-based layered cathode materials and sheds new lights on the rational design of Ni-rich cathode materials with improved thermal safety.    
-
-    
-
-## Corrosion Kinetics of T91 Steel under Low Oxygen Conditions (10-7wt% O) in Lead-Bismuth Eutectic at 500 ºC   
-
-OpenAlex: https://openalex.org/W4396640774    
-Open access: False
-    
-[Shujian Tian](https://openalex.org/A5085992125), [Zhizhong Jiang](https://openalex.org/A5020517480), [Ge Zhu](https://openalex.org/A5015954409), [Lin Luo](https://openalex.org/A5024986258), [Jing Liu](https://openalex.org/A5035282947), Materials today communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.109106.
-    
-Among the advanced reactor designs of the fourth generation, the Lead-cooled Fast Reactor (LFR) stands out as one of six distinct types. The corrosion caused by the liquid Lead-Bismuth Eutectic (LBE) on structural materials is recognized as a significant obstacle hindering the development of LFR. The corrosion kinetics of T91 steel in static LBE with 10-7 wt% oxygen at 500 ºC is analyzed in this study. The formed oxide scale consists of an outer (Fe, Cr)3O4 layer with a Fe-Cr spinel structure and an inner internal oxidation zone (IOZ). The thickness evolution of the oxide layers follows a parabolic rule, with rate constants determined for different layers. The dissolution rate of metals into the LBE decreases over time, indicating diminishing the concentration gradient of Fe across the oxide layer-LBE interface. The observed deviations from expected norms may be attributed to dynamic flow conditions and non-isothermal loop experiments, which accelerate Fe diffusion into LBE.    
 
     
 
@@ -1317,17 +1163,6 @@ Aluminium is one of the most abundant metals in the universe and impacts the evo
 
     
 
-## Novel ultra-low NOx coal combustion technologies based on local microenvironment targeted regulation. Part 1. Selective oxygenation   
-
-OpenAlex: https://openalex.org/W4396650281    
-Open access: False
-    
-[Xiuchao Yang](https://openalex.org/A5083083080), [Jiaxun Liu](https://openalex.org/A5068386540), [Guoqing Chen](https://openalex.org/A5008905405), [Zining Zhou](https://openalex.org/A5051508894), [Xinyu Zhong](https://openalex.org/A5035988522), [Jianguo Liu](https://openalex.org/A5028504471), [Xiumin Jiang](https://openalex.org/A5084606905), Combustion and flame. 265(None)] 2024.https://doi.org/10.1016/j.combustflame.2024.113486.
-    
-Developing a novel high-efficiency coal combustion technology with ultra-low NOx emission is urgently needed to sustain the good ecological environment. Here, the targeted regulation of local microenvironment around fuel-N, such as functional groups, radicals, molecular configurations, and reaction atmosphere, is realized by the selective oxidation. The molecular configurations, including pore networks and microcrystalline structure in coal, are well characterized through synchrotron radiation-induced SAXS (small angle X-ray scattering) and WAXS (wide angle X-ray scattering) simultaneously. Furthermore, by combining density functional theory (DFT) and experiments, the effects of the local microenvironment on the nitrogen transformation and NO evolution during the thermal conversion are focused on. The results indicate that for the PPA oxidation, the H radicals attack the adjacent carbon to pyrrole/pyridine nitrogen, promoting the conversion of fuel-N to HCN. On the other hand, for the H2O2 oxidation, disrupting the π bond electron cloud by the CO and C = O on the ortho carbon of pyrrole/pyridine dominates the NH3 generation. Additionally, the increased La (average graphene layer extent), a3 (average interlayer spacing), σ3 (standard deviation of interlayer spacing) and σ1 (standard deviation of the first-neighbor distribution) induce massive smaller pores, promoting the generation of abundant reaction defects inside the particles. Importantly, the intensified adsorption on abundant active sites lead to the decreased HCN and increased NH3 evolution, which is adverse for the interaction between homogeneous and heterogeneous NO reduction. Interestingly, the PAA selective oxidation can reduce NO emission by 31.72 % - 34.30 % during the air combustion, which is far better than the H2O2 oxidation. Overall, the attack of free radicals on nitrogen-containing heterocycles promotes the conversion of fuel-N to HCN, the adsorption of which on char surfaces can further enhance the heterogeneous reduction in a lean oxygen atmosphere. The work here provides a novel route for developing high-efficiency and low-NOx combustion technologies.    
-
-    
-
 ## Glycogen synthesis prevents metabolic imbalance and disruption of photosynthetic electron transport from photosystem II during transition to photomixotrophy in Synechocystis sp. PCC 6803   
 
 OpenAlex: https://openalex.org/W4396662875    
@@ -1347,17 +1182,6 @@ Open access: False
 [Yan‐Fei Yang](https://openalex.org/A5077013774), [Lijia Xu](https://openalex.org/A5051507377), [Chunxiang Hao](https://openalex.org/A5085556314), [Miaomiao Wan](https://openalex.org/A5091287160), [Yihan Tao](https://openalex.org/A5039139535), [Yan Zhuang](https://openalex.org/A5087113852), [Yanning Su](https://openalex.org/A5029716914), [Lei Li](https://openalex.org/A5001569990), The Plant cell. None(None)] 2024.https://doi.org/10.1093/plcell/koae144.
     
 The conserved microRNA (miRNA) miR408 enhances photosynthesis and compromises stress tolerance in multiple plants, but the cellular mechanism underlying its function remains largely unclear. Here, we show that in Arabidopsis (Arabidopsis thaliana), the transcript encoding the blue copper protein PLANTACYANIN (PCY) is the primary target for miR408 in vegetative tissues. PCY is preferentially expressed in the guard cells, and PCY is associated with the endomembrane surrounding individual chloroplasts. We found that the MIR408 promoter is suppressed by multiple abscisic acid (ABA)-responsive transcription factors, thus allowing PCY to accumulate under stress conditions. Genetic analysis revealed that PCY elevates reactive oxygen species (ROS) levels in the guard cells, promotes stomatal closure, reduces photosynthetic gas exchange, and enhances drought resistance. Moreover, the miR408-PCY module is sufficient to rescue the growth and drought tolerance phenotypes caused by gain- and loss-of-function of MYB44, an established positive regulator of ABA responses, indicating that the miR408-PCY module relays ABA signaling for regulating ROS homeostasis and drought resistance. These results demonstrate that miR408 regulates stomatal movement to balance growth and drought resistance, providing a mechanistic understanding of why miR408 is selected during land plant evolution and insights into the long-pursued quest of breeding drought-tolerant and high-yielding crops.    
-
-    
-
-## Effect of lapped sequence on corrosion behavior and mechanism of pure titanium/galvanized steel joint using cold metal transfer joining technology   
-
-OpenAlex: https://openalex.org/W4396642626    
-Open access: False
-    
-[Jinghuan Chang](https://openalex.org/A5048924925), [Jian‐Feng Wen](https://openalex.org/A5035271147), [Rui Cao](https://openalex.org/A5008242644), [Yingjie Yan](https://openalex.org/A5085375895), [Ran Sui](https://openalex.org/A5003131289), [S.T. Tu](https://openalex.org/A5044350629), International journal of pressure vessels and piping. None(None)] 2024.https://doi.org/10.1016/j.ijpvp.2024.105203.
-    
-Titanium/steel joints are widely used in petrochemical, nuclear and aerospace industries. The lapped sequence of dissimilar metal lapped joints can considerably affect their mechanical and corrosion properties. In the study, the microstructure and corrosion behavior of pure titanium/galvanized steel dissimilar cold metal transfer welding joints with different lapped sequences were investigated using microscopic examination, immersion and electrochemical corrosion tests. Pure titanium/galvanized steel joints can be defined as Ti/steel joint (the Ti sheet on top of the steel sheet) or steel/Ti joint (the steel sheet on top of the Ti sheet). The results showed that the corrosion resistance of the Ti/steel joint was poorer than that of the steel/Ti joint in artificial seawater solution because of the formation of larger intermetallics in the weld metal of the Ti/steel joint. Galvanic corrosion occurred in both the Ti/steel and steel/Ti joints. The interface between the galvanized steel base metal and weld metal was the weakest zone in both joints. Moreover, the corrosion mechanisms of the Ti/steel and steel/Ti joints were similar, the reactions were the reduction of oxygen and the evolution of H2 at the cathode. Anodic reactions included the oxidation of metal ions, the formation of TiO2 oxide film and the oxidation of the intermetallics. These findings could contribute to a better understanding of the corrosion behavior of titanium/steel lapped joints under artificial seawater conditions.    
 
     
 
@@ -1435,18 +1259,6 @@ Open access: False
 [Subhash G. Vasudevan](https://openalex.org/A5065527770), [T. Sachin](https://openalex.org/A5096941702), [V. P. Venkateish](https://openalex.org/A5097138155), [Karan Madan](https://openalex.org/A5004962197), CRC Press eBooks. None(None)] 2024.https://doi.org/10.1201/9781003359388-6.
     
 Zebrafish (Danio rerio) are a species of small freshwater fish native to South Asia belonging to the minnow family, Cyprinidae. Zebrafish are typically used as experimental organism due to its small size, short generation time and the availability of a well-characterized genome. In biomedical research, zebrafish are commonly employed as model organism due to their genetic similarities to humans (sharing 70-80% of their genes) and their rapid development. Zebrafish model have several advantages over other modeling of human diseases such as large-scale genetic mutants, therapeutic compounds screening, live imaging, and tissue specific transgenic animal generation. The zebrafish is an invaluable model for studying development and organogenesis due to external fertilization and the transparency of larvae is best suited for studying early stages of development (Carten et al. 2011, Li and Luo 2013b). The option to generate transgenic and mutant lines makes zebrafish suitable for studying the genetic and molecular basis of physiological processes such as metabolism, excretion and endocrinology. In addition, zebrafish has been used to study the effects of environmental pollutants and to investigate the effects of environmental stress on physiology, such as changes in temperature, pH and oxygen levels. Zebrafish is also a perfect model for studying the effects of natural selection and adaptation, as it is capable of rapid evolution in response to environmental change. Zebrafish larvae can be readily infected with a variety of bacterial, viral and fungal pathogens, making them useful for studying infection biology. In early 1980s, George Streisinger used zebrafish as the first biological model due to its simplicity over mouse models since they were easy to manipulate genetically (Streisinger et al. 1981). Zebrafish models are used to study a wide variety of human diseases, including developmental disorder, metabolic diseases, cardiovascular disorders, inflammation, cancer, ageing, and neurological disorders (Li and Luo 2013b, Rahman Khan and Sulaiman Alhewairini 2019, Fazio et al. 2020, Zanandrea et al. 2020, Choi et al. 2021).    
-
-    
-
-## The NIRVANDELS Survey: the stellar and gas-phase mass-metallicity
-  relations of star-forming galaxies at z = 3.5   
-
-OpenAlex: https://openalex.org/W4396653729    
-Open access: True
-    
-[T. M. Stanton](https://openalex.org/A5074272314), [F. Cullen](https://openalex.org/A5009025230), [R. J. McLure](https://openalex.org/A5061747794), [Alice E. Shapley](https://openalex.org/A5075633773), [K. Z. Arellano-Córdova](https://openalex.org/A5022983189), [R. Begley](https://openalex.org/A5021456948), [R. Amorín](https://openalex.org/A5029879437), [L. Barrufet](https://openalex.org/A5037847746), [A. Calabrò](https://openalex.org/A5082478480), [A. C. Carnall](https://openalex.org/A5005550724), [M. Cirasuolo](https://openalex.org/A5064351896), [J. S. Dunlop](https://openalex.org/A5008264296), [C. T. Donnan](https://openalex.org/A5082326533), [M. L. Hamadouche](https://openalex.org/A5006363864), [Feng-Shan Liu](https://openalex.org/A5020250539), [D. J. McLeod](https://openalex.org/A5073603076), [L. Pentericci](https://openalex.org/A5043254526), [L. Pozzetti](https://openalex.org/A5090420192), [Ryan L. Sanders](https://openalex.org/A5090712914), [D. Scholte](https://openalex.org/A5002665108), [Michael W. Topping](https://openalex.org/A5023923034), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.00774 ([pdf](https://arxiv.org/pdf/2405.00774)).
-    
-We present determinations of the gas-phase and stellar metallicities of a sample of 65 star-forming galaxies at $z \simeq 3.5$ using rest-frame far-ultraviolet (FUV) spectroscopy from the VANDELS survey in combination with follow-up rest-frame optical spectroscopy from VLT/KMOS and Keck/MOSFIRE. We infer gas-phase oxygen abundances ($Z_{\mathrm{g}}$; tracing O/H) via strong optical nebular lines and stellar iron abundances ($Z_{\star}$; tracing Fe/H) from full spectral fitting to the FUV continuum. Our sample spans the stellar mass range $8.5 < \mathrm{log}(M_{\star}/\mathrm{M}_{\odot}) < 10.5$ and shows clear evidence for both a stellar and gas-phase mass-metallicity relation (MZR). We find that our O and Fe abundance estimates both exhibit a similar mass-dependence, such that $\mathrm{Fe/H}\propto M_{\star}^{0.30\pm0.11}$ and $\mathrm{O/H}\propto M_{\star}^{0.32\pm0.09}$. At fixed $M_{\star}$ we find that, relative to their solar values, O abundances are systematically larger than Fe abundances (i.e., $\alpha$-enhancement).We estimate an average enhancement of $\mathrm{(O/Fe)} = 2.65 \pm 0.16 \times \mathrm{(O/Fe)_\odot}$ which appears to be independent of $M_{\star}$. We employ analytic chemical evolution models to place a novel constraint on the strength of galactic-level outflows via the mass-outflow factor ($\eta$). We show that outflow efficiencies that scale as $\eta \propto M_{\star}^{-0.32}$ can simultaneously explain the functional form of of the stellar and gas-phase MZR, as well as the degree of $\alpha$-enhancement at fixed Fe/H. Our results add further evidence to support a picture in which $\alpha$-enhanced abundance ratios are ubiquitous in high-redshift star-forming galaxies, as expected for young systems whose interstellar medium is primarily enriched by core-collapse supernovae.    
 
     
 

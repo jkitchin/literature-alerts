@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun May 12 01:10:31 2024
+Created on Mon May 13 01:07:05 2024
 
-Found 37 results from 2024-05-05 to 2024-05-12
+Found 35 results from 2024-05-06 to 2024-05-13
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Methane Activation through Single-Electron Transfer from Water Molecules to the Surface States of Semiconductor Photocatalysts   
-
-OpenAlex: https://openalex.org/W4396636838    
-Open access: False
-    
-[Fumiaki Amano](https://openalex.org/A5089839552), [Kosuke Beppu](https://openalex.org/A5001287498), [Yoshihisa Sakata](https://openalex.org/A5014637717), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00984.
-    
-No abstract    
-
-    
-
-## Tailoring Catalytic and Oxygen Release Capability in LaFe1–xNixO3 to Intensify Chemical Looping Reactions at Medium Temperatures   
-
-OpenAlex: https://openalex.org/W4396645619    
-Open access: False
-    
-[Rongjiang Zhang](https://openalex.org/A5029507882), [Gen Liu](https://openalex.org/A5005616906), [Chunyong Huo](https://openalex.org/A5058806165), [Lijun Jia](https://openalex.org/A5057409480), [Bo Zhang](https://openalex.org/A5018371876), [Bolun Yang](https://openalex.org/A5079262155), [Xiaoyong Tian](https://openalex.org/A5058329611), [Zhiqiang Wu](https://openalex.org/A5091909594), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01386.
-    
-Perovskite oxygen carriers in a methane chemical looping partial oxidation process enable high reactivity over 850 °C. Lowering the reaction temperature helps to circumvent energy dissipation and couple the above-mentioned process with energy-efficient systems. This paper demonstrates the attractive oxygen-donating capacity of Fe–Ni-based perovskite oxygen carriers for methane partial oxidation. The aforesaid process exhibits more than 70% methane conversion and 6.71 mmol·g–1 unit syngas yield at 700 °C, using LaFe0.5Ni0.5O3. This impressive high reactivity mainly originates from the lowered lattice oxygen bonding strength and the spontaneously constructed active Ni-rich surface of perovskite oxides by Ni doping. In addition to the outward migration of lattice oxygen, active metal elements, such as Ni, continuously segregate to the surface with the reduction of perovskite oxides, promoting methane partial oxidation. We speculate that the chemical looping reaction pathway consists of consecutive competitive reactions based on analysis of the real-time product distribution and the dynamic evolution of oxygen carriers. Highly selective syngas production can be achieved on LaFe0.5Ni0.5O3 by reducing reaction temperatures or increasing space velocity to balance methane dissociation and lattice oxygen release kinetics. Irreversible Ni segregation and phase-separation-induced inert La2O3 on the surface of perovskite oxides during redox cycles are responsible for the cyclic performance degradation of oxygen carriers. This work offers intriguing references to design perovskite oxygen carriers for intensifying the medium-temperature chemical looping partial oxidation process.    
-
-    
 
 ## Partial Oxidation of Methanol on Gold: How Selectivity Is Steered by Low-Coordinated Sites   
 

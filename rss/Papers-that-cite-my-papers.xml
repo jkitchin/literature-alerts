@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 May 2024 01:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 01:07:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Boosting oxygen reduction electrocatalytic performance of Cu-Nx by modulating electron structure via construction of Cu-Nx and Cu nanocluster coupling catalyst</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.04.362</link>
-      <description>Kaixin Liang, Yongfeng Liang, Hui Zhang, Feiying Tang, Shun&#8208;Li Shang, Zhe Liu, Yongfeng Liang, International journal of hydrogen energy. 69(None)] 2024. https://openalex.org/W4396637528
-
-                No abstract</description>
-      <author>Kaixin Liang, Yongfeng Liang, Hui Zhang, Feiying Tang, Shun&#8208;Li Shang, Zhe Liu, Yongfeng Liang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.04.362</guid>
-    </item>
-    <item>
-      <title>Steering benzyl alcohol electrooxidation coupled with hydrogen evolution via hetero&#8208;interface construction</title>
-      <link>https://doi.org/10.1002/aic.18469</link>
-      <description>Xiaohui Du, Wenfu Xie, Yanfei Wang, Hao Li, Jinze Li, Yang Li, Yiheng Song, Zhenhua Li, Jin Yong Lee, Mingfei Shao, AIChE journal. None(None)] 2024. https://openalex.org/W4396639735
-
-                Abstract It is still a challenge to develop electrocatalyst for the efficient adsorption and conversion of organic molecule in aqueous media. Herein, a hetero&#8208;interface structure based on CuO@Ni(OH) 2 is rationally designed to enhance the performance of benzyl alcohol oxidation to benzoic acid. A high Faradaic efficiency of 99% and the yield of 3.09 mmol cm &#8722;2 h &#8722;1 are achieved at 1.70 V versus reversible hydrogen electrode, outperforming the previously reported electrocatalysts. Furthermore, a membrane&#8208;free flow electrolyzer was assembled based on CuO@Ni(OH) 2 hetero&#8208;interface, exhibiting a much high yielding of benzoic acid (6.73 mmol cm &#8722;2 h &#8722;1 ) and hydrogen (0.35 L cm &#8722;2 h &#8722;1 ) with excellent stability. Both experimental data and density functional theory calculations verify that the electron is tend to accumulate at the hetero&#8208;interface, thus accelerating the adsorption of reactant and intermediate and reducing the energy barrier of the conversion of benzyl alcohol to benzoic acid.</description>
-      <author>Xiaohui Du, Wenfu Xie, Yanfei Wang, Hao Li, Jinze Li, Yang Li, Yiheng Song, Zhenhua Li, Jin Yong Lee, Mingfei Shao</author>
-      <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/aic.18469</guid>
-    </item>
     <item>
       <title>Heterostructured Catalytic Materials as Advanced Electrocatalysts: Classification, Synthesis, Characterization, and Application</title>
       <link>https://doi.org/10.1002/adfm.202404535</link>
@@ -250,10 +230,10 @@
     <item>
       <title>Derived Trends of the Oxygen Adsorption Energy Using the Simplistic Model of the Thermodynamic Potential for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4821664</link>
-      <description>Isabela C. Man, Ionut Tranc&#259;, No host. None(None)] 2024. https://openalex.org/W4396718825
+      <description>Isabela C. Man, Ionu&#355; Tranca, No host. None(None)] 2024. https://openalex.org/W4396718825
 
                 No abstract</description>
-      <author>Isabela C. Man, Ionut Tranc&#259;</author>
+      <author>Isabela C. Man, Ionu&#355; Tranca</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821664</guid>
     </item>
