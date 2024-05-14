@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 May 2024 01:07:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 01:05:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,16 +16,6 @@
       <author>Shengyu Du, Pengfei Zhang</author>
       <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/aic.18470</guid>
-    </item>
-    <item>
-      <title>Role of Oxygen Vacancy in High-entropy Cu1Zn1Al0.5Ce5Zr0.5Ox for CO2 Hydrogenation Reaction</title>
-      <link>https://doi.org/10.1016/j.apcata.2024.119781</link>
-      <description>Junting Li, Xin Yuan, Fuping Tian, Min Wang, Tao Hu, Guang Xiong, Xiang Wang, Applied catalysis. A, General. None(None)] 2024. https://openalex.org/W4396655940
-
-                High-entropy oxides (HEOs) have garnered significant attention in catalysis due to their excellent redox properties and superior stability. In this study, we prepared and investigated a high-entropy oxide, Cu1Zn1Al0.5Ce5Zr0.5Ox, to elucidate the impact of oxygen vacancy density on the CO2 hydrogenation reaction. Comparisons were made with binary or ternary solid solutions composed of the same cations present in this HEO, and possessing the same phase structure. The HEO exhibits a higher surface oxygen vacancy density as evidenced by Raman spectroscopy and XPS. The increased number of oxygen vacancies significantly increases the active sites and enhances the strength for CO2 adsorption. Combined with kinetic analysis, it is suggested that the enhanced CO2 adsorption leads to improved CO2 conversion on the HEO. Moreover, the formation of oxygen vacancies facilitates H2 dissociation and supply, which is pivotal for methanol formation on the HEO. The stability of the HEO Cu1Zn1Al0.5Ce5Zr0.5Ox surpasses that of the medium entropy oxide, showing no significant deactivation after 100 hours of reaction.</description>
-      <author>Junting Li, Xin Yuan, Fuping Tian, Min Wang, Tao Hu, Guang Xiong, Xiang Wang</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcata.2024.119781</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon May 13 01:07:06 2024
+Created on Tue May 14 01:05:34 2024
 
-Found 3 results from 2024-05-06 to 2024-05-13
+Found 5 results from 2024-05-07 to 2024-05-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -37,5 +37,28 @@ Open access: True
 [Adeesh Kolluru](https://openalex.org/A5017163658), [John R. Kitchin](https://openalex.org/A5003442464), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.03962 ([pdf](https://arxiv.org/pdf/2405.03962)).
     
 Determining the optimal configuration of adsorbates on a slab (adslab) is pivotal in the exploration of novel catalysts across diverse applications. Traditionally, the quest for the lowest energy adslab configuration involves placing the adsorbate onto the slab followed by an optimization process. Prior methodologies have relied on heuristics, problem-specific intuitions, or brute-force approaches to guide adsorbate placement. In this work, we propose a novel framework for adsorbate placement using denoising diffusion. The model is designed to predict the optimal adsorbate site and orientation corresponding to the lowest energy configuration. Further, we have an end-to-end evaluation framework where diffusion-predicted adslab configuration is optimized with a pretrained machine learning force field and finally evaluated with Density Functional Theory (DFT). Our findings demonstrate an acceleration of up to 5x or 3.5x improvement in accuracy compared to the previous best approach. Given the novelty of this framework and application, we provide insights into the impact of pre-training, model architectures, and conduct extensive experiments to underscore the significance of this approach.    
+
+    
+
+## Logic-Based Discrete-Steepest Descent: A Solution Method for Process
+  Synthesis Generalized Disjunctive Programs   
+
+OpenAlex: https://openalex.org/W4396821927    
+Open access: True
+    
+[Daniel Ovalle](https://openalex.org/A5067396423), [David A. Liñán](https://openalex.org/A5000130135), [Albert Lee](https://openalex.org/A5049888866), [Jorge M. Gómez](https://openalex.org/A5077662305), [Luis Ricardez–Sandoval](https://openalex.org/A5043725286), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [David E. Bernal Neira](https://openalex.org/A5015746295), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.05358 ([pdf](https://arxiv.org/pdf/2405.05358)).
+    
+The optimization of chemical processes is challenging due to the nonlinearities arising from process physics and discrete design decisions. In particular, optimal synthesis and design of chemical processes can be posed as a Generalized Disjunctive Programming (GDP) superstructure problem. Various solution methods are available to address these problems, such as reformulating them as Mixed-Integer Nonlinear Programming (MINLP) problems; nevertheless, algorithms explicitly designed to solve the GDP problem and potentially leverage its structure remain scarce. This paper presents the Logic-based Discrete-Steepest Descent Algorithm (LD-SDA) as a solution method for GDP problems involving ordered Boolean variables. The LD-SDA reformulates these ordered Boolean variables into integer decisions called external variables. The LD-SDA solves the reformulated GDP problem using a two-level decomposition approach where the upper-level subproblem determines external variable configurations. Subsequently, the remaining continuous and discrete variables are solved as a subproblem only involving those constraints relevant to the given external variable arrangement, effectively taking advantage of the structure of the GDP problem. The advantages of LD-SDA are illustrated through a batch processing case study, a reactor superstructure, a distillation column, and a catalytic distillation column, and its open-source implementation is available online. The results show convergence efficiency and solution quality improvements compared to conventional GDP and MINLP solvers.    
+
+    
+
+## Water Network Tool for Resilience (WNTR)   
+
+OpenAlex: https://openalex.org/W4396810412    
+Open access: False
+    
+[NULL AUTHOR_ID](https://openalex.org/A9999999999), [Darren M. Hart](https://openalex.org/A5018784215), [Katherine A. Klise](https://openalex.org/A5010219882), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Arpan Seth](https://openalex.org/A5007996480), OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2019.https://doi.org/10.11578/dc.20171025.1707.
+    
+No abstract    
 
     

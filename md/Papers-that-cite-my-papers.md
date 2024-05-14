@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Mon May 13 01:07:16 2024
+Created on Tue May 14 01:05:45 2024
 
-Found 55 results from 2024-05-06 to 2024-05-13
+Found 58 results from 2024-05-07 to 2024-05-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881)
@@ -19,7 +19,7 @@ OpenAlex URLS (not including from_created_date or the API key)
 OpenAlex: https://openalex.org/W4396659441    
 Open access: False
     
-[Weiqi Xu](https://openalex.org/A5010501998), [Qing Yan](https://openalex.org/A5064860911), [Hao Wang](https://openalex.org/A5080102032), [Dongping Wu](https://openalex.org/A5082203333), [Haijun Zhou](https://openalex.org/A5008074295), [Hui Li](https://openalex.org/A5006969906), [Yang Song](https://openalex.org/A5046824126), [Tianyi Ma](https://openalex.org/A5069632856), [Heng Zhang](https://openalex.org/A5054743377), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202404535.
+[Wenbin Xu](https://openalex.org/A5010501998), [Qing Yan](https://openalex.org/A5064860911), [Hao Wang](https://openalex.org/A5080102032), [Dongping Wu](https://openalex.org/A5082203333), [Haijun Zhou](https://openalex.org/A5008074295), [Hui Li](https://openalex.org/A5006969906), [Yang Song](https://openalex.org/A5046824126), [Tianyi Ma](https://openalex.org/A5069632856), [Heng Zhang](https://openalex.org/A5054743377), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202404535.
     
 Abstract The proactive exploration of electrocatalytic conversion for renewable energy valorization is of tremendous significance in addressing the issues of fossil energy exhaustion, among which the critical challenge of electrocatalysis lies in the rational design of efficient electrocatalysts that are rich in the earth. Among electrocatalysts, the design of heterostructured materials exhibits immense potential for the optimization of noble metals and elaboration of non‐precious metal electrocatalysts with durability. In this review, a systematic overview of modern advances in heterostructured electrocatalysts for a range of energy conversion reactions is described, and special interfacial design brings additional functional effects. Subsequently, various synthesis methods and characterization techniques for heterostructured electrocatalysts are also summarized. The innovative classification of heterostructures in methods of interfacial junction, crystal structure, structural morphology, and properties of the components is presented in this review. Finally, the possible challenges and outlooks of heterostructured electrocatalysts in the future are further discussed, including how to develop more sophisticated synthesis, characterization, and theoretical calculation methods, which will serve as the guiding direction for a more rational interface design. This review aims to set the trajectory for providing meaningful inspiration and references in energy conversion by heterostructured electrocatalysts, advancing the process of carbon neutrality.    
 
@@ -41,7 +41,7 @@ No abstract
 OpenAlex: https://openalex.org/W4396668652    
 Open access: False
     
-[Lingze Wei](https://openalex.org/A5020049320), [Delowar Hossain](https://openalex.org/A5065538704), [Chunfang Gan](https://openalex.org/A5087936968), [Gaurav A. Kamat](https://openalex.org/A5039639617), [Melissa E. Kreider](https://openalex.org/A5081607636), [Junjie Chen](https://openalex.org/A5032135184), [Keping Yan](https://openalex.org/A5007336339), [Zhenan Bao](https://openalex.org/A5042012998), [Michal Bajdich](https://openalex.org/A5067205287), [Michaela Burke Stevens](https://openalex.org/A5016238956), [Thomas F. Jaramillo](https://openalex.org/A5078810774), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c02229.
+[Lingze Wei](https://openalex.org/A5020049320), [Md Delowar Hossain](https://openalex.org/A5065538704), [Chunfang Gan](https://openalex.org/A5087936968), [Gaurav A. Kamat](https://openalex.org/A5039639617), [Melissa E. Kreider](https://openalex.org/A5081607636), [Junjie Chen](https://openalex.org/A5032135184), [Keping Yan](https://openalex.org/A5007336339), [Zhenan Bao](https://openalex.org/A5042012998), [Michal Bajdich](https://openalex.org/A5067205287), [Michaela Burke Stevens](https://openalex.org/A5016238956), [Thomas F. Jaramillo](https://openalex.org/A5078810774), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c02229.
     
 Metal–organic frameworks (MOFs) offer an interesting opportunity for catalysis, particularly for metal–nitrogen–carbon (M–N–C) motifs by providing an organized porous structural pattern and well-defined active sites for the oxygen reduction reaction (ORR), a key need for hydrogen fuel cells and related sustainable energy technologies. In this work, we leverage electrochemical testing with computational models to study the electronic and structural properties in the MOF systems and their relationship to ORR activity and stability based on dual transitional metal centers. The MOFs consist of two M1 metals with amine nodes coordinated to a single M2 metal with a phthalocyanine linker, where M1/M2 = Co, Ni, or Cu. Co-based metal centers, in particular Ni–Co, demonstrate the highest overall activity of all nine tested MOFs. Computationally, we identify the dominance of Co sites, relative higher importance of the M2 site, and the role of layer M1 interactions on the ORR activity. Selectivity measurements indicate that M1 sites of MOFs, particularly Co, exhibit the lowest (<4%), and Ni demonstrates the highest (>46%) two-electron selectivity, in good agreement with computational studies. Direct in situ stability characterization, measuring dissolved metal ions, and calculations, using an alkaline stability metric, confirm that Co is the most stable metal in the MOF, while Cu exhibits notable instability at the M1. Overall, this study reveals how atomistic coupling of electronic and structural properties affects the ORR performance of dual site MOF catalysts and opens new avenues for the tunable design and future development of these systems for practical electrochemical applications.    
 
@@ -206,9 +206,9 @@ Abstract Surface defect-induced photoluminescence blinking is ubiquitous in lead
 OpenAlex: https://openalex.org/W4396702194    
 Open access: False
     
-[Zhiyi Liu](https://openalex.org/A5066590014), [Aling Ma](https://openalex.org/A5009783384), [Zhenzhen Wang](https://openalex.org/A5075444205), [Chenyin Li](https://openalex.org/A5076002398), [Zongpeng Ding](https://openalex.org/A5012102127), [Yan Pang](https://openalex.org/A5082968868), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.05.022.
+[Zhiyi Liu](https://openalex.org/A5066590014), [Aling Ma](https://openalex.org/A5009783384), [Zhenzhen Wang](https://openalex.org/A5075444205), [Chenyin Li](https://openalex.org/A5076002398), [Zongpeng Ding](https://openalex.org/A5012102127), [Yan Pang](https://openalex.org/A5082968868), [Guohong Fan](https://openalex.org/A5038934588), [Hong Xu](https://openalex.org/A5017163237), Journal of colloid and interface science. 669(None)] 2024.https://doi.org/10.1016/j.jcis.2024.05.022.
     
-No abstract    
+Tremendous challenges remain to develop high-efficient catalysts for carbon dioxide reduction reaction (CO    
 
     
 
@@ -261,7 +261,7 @@ The electrochemical reduction of CO2 (eCO2R) is a promising approach for convert
 OpenAlex: https://openalex.org/W4396718825    
 Open access: False
     
-[Isabela C. Man](https://openalex.org/A5036814830), [Ionuţ Tranca](https://openalex.org/A5080121607), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4821664.
+[Isabela C. Man](https://openalex.org/A5036814830), [Ionut Trancă](https://openalex.org/A5080121607), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4821664.
     
 No abstract    
 
@@ -283,7 +283,7 @@ No abstract
 OpenAlex: https://openalex.org/W4396720590    
 Open access: False
     
-[Wenqing Zhu](https://openalex.org/A5040213093), [Xiang Gao](https://openalex.org/A5068424668), [Yiyu Yao](https://openalex.org/A5063696855), [Shikai Hu](https://openalex.org/A5084150315), [Zhixin Li](https://openalex.org/A5053471601), [Yan Teng](https://openalex.org/A5052350843), [Hang Wang](https://openalex.org/A5033805704), [Haimei Gong](https://openalex.org/A5014874306), [Zhaoqi Chen](https://openalex.org/A5084356413), [Yong Yang](https://openalex.org/A5086923308), ACS nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c03435.
+[Wenqing Zhu](https://openalex.org/A5040213093), [Xiang Gao](https://openalex.org/A5068424668), [Yiyu Yao](https://openalex.org/A5063696855), [Shikai Hu](https://openalex.org/A5084150315), [Zhixin Li](https://openalex.org/A5053471601), [Yan Teng](https://openalex.org/A5052350843), [Hang Wang](https://openalex.org/A5033805704), [Hui Gong](https://openalex.org/A5014874306), [Zhaoqi Chen](https://openalex.org/A5084356413), [Yong Yang](https://openalex.org/A5086923308), ACS nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c03435.
     
 Since their introduction in 2004, high entropy alloys (HEAs) have attracted significant attention due to their exceptional mechanical and functional properties. Advances in our understanding of atomic-scale ordering and phase formation in HEAs have facilitated the development of fabrication techniques for synthesizing nanostructured HEAs. These materials hold immense potential for applications in various fields including automobile industries, aerospace engineering, microelectronics, and clean energy, where they serve as either structural or functional materials. In this comprehensive Review, we conduct an in-depth analysis of the mechanical and functional properties of nanostructured HEAs, with a particular emphasis on the roles of different nanostructures in modulating these properties. To begin, we explore the intrinsic and extrinsic factors that influence the formation and stability of nanostructures in HEAs. Subsequently, we delve into an examination of the mechanical and electrocatalytic properties exhibited by bulk or three-dimensional (3D) nanostructured HEAs, as well as nanosized HEAs in the form of zero-dimensional (0D) nanoparticles, one-dimensional (1D) nanowires, or two-dimensional (2D) nanosheets. Finally, we present an outlook on the current research landscape, highlighting the challenges and opportunities associated with nanostructure design and the understanding of structure-property relationships in nanostructured HEAs.    
 
@@ -572,6 +572,39 @@ Open access: False
 [Xianjun Chen](https://openalex.org/A5089562099), [Chao Zhang](https://openalex.org/A5089966579), [X X Li](https://openalex.org/A5062484665), [Tao Feng](https://openalex.org/A5038389392), Computational and theoretical chemistry. None(None)] 2024.https://doi.org/10.1016/j.comptc.2024.114642.
     
 The reaction rate of oxygen reduction reaction (ORR) and oxygen evolution reaction (OER) is an important factor restricting its application. In this work, we have systematic explorated of N, O coordination number on the catalytic performance for ORR and OER. Firstly, a variety of stability analysis methods show that most of the catalysts have excellent stability. Secondly, a series of excellent bifunctional catalysts are screened by volcanic maps, ORR overpotential (ηORR), OER overpotential (ηOER), and bifunctional index (BI), such as, RhN3O1-1 (ηORR = 0.28 V, ηOER = 0.34 V, BI = 0.62 V) and CoN3O1-1 (ηORR = 0.33 V, ηOER = 0.37 V, BI = 0.70 V). In particular, RhN3O1-1 has the smallest BI value, indicating that it has the best bifunctional catalytic activity. This study offers insights into how the coordination environment affects the activity of OER/ORR.    
+
+    
+
+## 海胆状CoTe-CoP异质结构催化剂在全pH范围内高效析氢   
+
+OpenAlex: https://openalex.org/W4396834143    
+Open access: False
+    
+[Shengli Zhu](https://openalex.org/A5014182313), [Minghui Xing](https://openalex.org/A5080166190), [Zhe Lü](https://openalex.org/A5082619738), [Zelong Qiao](https://openalex.org/A5059240369), [Shitao Wang](https://openalex.org/A5035679191), [Qianchuan Zhao](https://openalex.org/A5014109600), [Yu Zhang](https://openalex.org/A5006297542), [Jimmy Yun](https://openalex.org/A5088596691), [Dapeng Cao](https://openalex.org/A5056166029), Science China. Materials. None(None)] 2024.https://doi.org/10.1007/s40843-024-2820-0.
+    
+No abstract    
+
+    
+
+## Exploration of transition metal atom-doped NiSe2 electrocatalysts for efficient alkaline hydrogen precipitation using first principles screening   
+
+OpenAlex: https://openalex.org/W4396834534    
+Open access: False
+    
+[Yangyang Xu](https://openalex.org/A5054887678), [Yiwei Zhao](https://openalex.org/A5044891837), [Yuanjiang Lv](https://openalex.org/A5012528875), [Xinmeng Er](https://openalex.org/A5097633268), [Mingxia Liu](https://openalex.org/A5050560717), [Fei Ma](https://openalex.org/A5053220969), Chemical physics letters. None(None)] 2024.https://doi.org/10.1016/j.cplett.2024.141324.
+    
+Transition metal (TM) doping exhibits great potential in designing high-performance two-dimensional (2D) NiSe2-based catalysts for electrocatalytic hydrogen evolution reaction (HER). 22 TM atom-doped 2D-NiSe2 catalysts are screened, and the effects of TM doping on the thermal stability and HER catalytic activity are investigated by first-principles calculations. Among them, Cu doped 2D-NiSe2 might exhibit remarkable HER properties with the water dissociation energy of 1.03 eV and H adsorption Gibbs free energy of −0.05 eV. Furthermore, we elucidate the reasons behind the different HER activities. These findings suggest new possibilities for the application of Cu doped 2D-NiSe2 for alkaline HER, offering new perspectives for future research.    
+
+    
+
+## A Theoretical Benchmark of the Geometric and Optical Properties for 3d Transition Metal Nanoclusters via Density Functional Theory   
+
+OpenAlex: https://openalex.org/W4396835391    
+Open access: False
+    
+[Shana Havenridge](https://openalex.org/A5001897288), [Cong Liu](https://openalex.org/A5060587255), The journal of physical chemistry. A/The journal of physical chemistry. A.. None(None)] 2024.https://doi.org/10.1021/acs.jpca.4c00408.
+    
+Understanding structure–property relationships in atomically precise metal nanoclusters is vital in finding selective and tunable catalysts. In this study, density functional theory (DFT) was used to benchmark seven exchange correlation functionals at different basis sets for 17 atomically precise nanoclusters against experimentally determined geometries, band gaps, and optical gaps. The set contains both monometallic and bimetallic clusters that possess at least two types of 3d transition metals (specifically, Cu, Ni, Fe, or Co). The benchmark highlights that PBE0 is a good functional to use regardless of the basis set, and Minnesota functionals do well with respect to specific metals. Further, while long-range corrected functionals overestimate band and optical gaps, they model absorption features better than the other considered functionals. The study additionally looks at the photoinduced hydrogen evolution reaction (HER) and the CO2 reduction mechanism on nanoclusters reported from the literature.    
 
     
 

@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 May 2024 01:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 01:05:34 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -37,6 +37,27 @@
       <author>Adeesh Kolluru, John R. Kitchin</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2405.03962</guid>
+    </item>
+    <item>
+      <title>Logic-Based Discrete-Steepest Descent: A Solution Method for Process
+  Synthesis Generalized Disjunctive Programs</title>
+      <link>https://doi.org/10.48550/arxiv.2405.05358</link>
+      <description>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8211;Sandoval, Ignacio E. Grossmann, David E. Bernal Neira, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4396821927
+
+                The optimization of chemical processes is challenging due to the nonlinearities arising from process physics and discrete design decisions. In particular, optimal synthesis and design of chemical processes can be posed as a Generalized Disjunctive Programming (GDP) superstructure problem. Various solution methods are available to address these problems, such as reformulating them as Mixed-Integer Nonlinear Programming (MINLP) problems; nevertheless, algorithms explicitly designed to solve the GDP problem and potentially leverage its structure remain scarce. This paper presents the Logic-based Discrete-Steepest Descent Algorithm (LD-SDA) as a solution method for GDP problems involving ordered Boolean variables. The LD-SDA reformulates these ordered Boolean variables into integer decisions called external variables. The LD-SDA solves the reformulated GDP problem using a two-level decomposition approach where the upper-level subproblem determines external variable configurations. Subsequently, the remaining continuous and discrete variables are solved as a subproblem only involving those constraints relevant to the given external variable arrangement, effectively taking advantage of the structure of the GDP problem. The advantages of LD-SDA are illustrated through a batch processing case study, a reactor superstructure, a distillation column, and a catalytic distillation column, and its open-source implementation is available online. The results show convergence efficiency and solution quality improvements compared to conventional GDP and MINLP solvers.</description>
+      <author>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8211;Sandoval, Ignacio E. Grossmann, David E. Bernal Neira</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2405.05358</guid>
+    </item>
+    <item>
+      <title>Water Network Tool for Resilience (WNTR)</title>
+      <link>https://doi.org/10.11578/dc.20171025.1707</link>
+      <description>NULL AUTHOR_ID, Darren M. Hart, Katherine A. Klise, Michael Bynum, Carl D. Laird, Arpan Seth, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2019. https://openalex.org/W4396810412
+
+                No abstract</description>
+      <author>NULL AUTHOR_ID, Darren M. Hart, Katherine A. Klise, Michael Bynum, Carl D. Laird, Arpan Seth</author>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.11578/dc.20171025.1707</guid>
     </item>
   </channel>
 </rss>

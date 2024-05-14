@@ -4,16 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 13 May 2024 01:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 01:05:45 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
       <title>Heterostructured Catalytic Materials as Advanced Electrocatalysts: Classification, Synthesis, Characterization, and Application</title>
       <link>https://doi.org/10.1002/adfm.202404535</link>
-      <description>Weiqi Xu, Qing Yan, Hao Wang, Dongping Wu, Haijun Zhou, Hui Li, Yang Song, Tianyi Ma, Heng Zhang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4396659441
+      <description>Wenbin Xu, Qing Yan, Hao Wang, Dongping Wu, Haijun Zhou, Hui Li, Yang Song, Tianyi Ma, Heng Zhang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4396659441
 
                 Abstract The proactive exploration of electrocatalytic conversion for renewable energy valorization is of tremendous significance in addressing the issues of fossil energy exhaustion, among which the critical challenge of electrocatalysis lies in the rational design of efficient electrocatalysts that are rich in the earth. Among electrocatalysts, the design of heterostructured materials exhibits immense potential for the optimization of noble metals and elaboration of non&#8208;precious metal electrocatalysts with durability. In this review, a systematic overview of modern advances in heterostructured electrocatalysts for a range of energy conversion reactions is described, and special interfacial design brings additional functional effects. Subsequently, various synthesis methods and characterization techniques for heterostructured electrocatalysts are also summarized. The innovative classification of heterostructures in methods of interfacial junction, crystal structure, structural morphology, and properties of the components is presented in this review. Finally, the possible challenges and outlooks of heterostructured electrocatalysts in the future are further discussed, including how to develop more sophisticated synthesis, characterization, and theoretical calculation methods, which will serve as the guiding direction for a more rational interface design. This review aims to set the trajectory for providing meaningful inspiration and references in energy conversion by heterostructured electrocatalysts, advancing the process of carbon neutrality.</description>
-      <author>Weiqi Xu, Qing Yan, Hao Wang, Dongping Wu, Haijun Zhou, Hui Li, Yang Song, Tianyi Ma, Heng Zhang</author>
+      <author>Wenbin Xu, Qing Yan, Hao Wang, Dongping Wu, Haijun Zhou, Hui Li, Yang Song, Tianyi Ma, Heng Zhang</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202404535</guid>
     </item>
@@ -30,10 +30,10 @@
     <item>
       <title>Tuning Two-Dimensional Phthalocyanine Dual Site Metal&#8211;Organic Framework Catalysts for the Oxygen Reduction Reaction</title>
       <link>https://doi.org/10.1021/jacs.4c02229</link>
-      <description>Lingze Wei, Delowar Hossain, Chunfang Gan, Gaurav A. Kamat, Melissa E. Kreider, Junjie Chen, Keping Yan, Zhenan Bao, Michal Bajdich, Michaela Burke Stevens, Thomas F. Jaramillo, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4396668652
+      <description>Lingze Wei, Md Delowar Hossain, Chunfang Gan, Gaurav A. Kamat, Melissa E. Kreider, Junjie Chen, Keping Yan, Zhenan Bao, Michal Bajdich, Michaela Burke Stevens, Thomas F. Jaramillo, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4396668652
 
                 Metal&#8211;organic frameworks (MOFs) offer an interesting opportunity for catalysis, particularly for metal&#8211;nitrogen&#8211;carbon (M&#8211;N&#8211;C) motifs by providing an organized porous structural pattern and well-defined active sites for the oxygen reduction reaction (ORR), a key need for hydrogen fuel cells and related sustainable energy technologies. In this work, we leverage electrochemical testing with computational models to study the electronic and structural properties in the MOF systems and their relationship to ORR activity and stability based on dual transitional metal centers. The MOFs consist of two M1 metals with amine nodes coordinated to a single M2 metal with a phthalocyanine linker, where M1/M2 = Co, Ni, or Cu. Co-based metal centers, in particular Ni&#8211;Co, demonstrate the highest overall activity of all nine tested MOFs. Computationally, we identify the dominance of Co sites, relative higher importance of the M2 site, and the role of layer M1 interactions on the ORR activity. Selectivity measurements indicate that M1 sites of MOFs, particularly Co, exhibit the lowest (&lt;4%), and Ni demonstrates the highest (&gt;46%) two-electron selectivity, in good agreement with computational studies. Direct in situ stability characterization, measuring dissolved metal ions, and calculations, using an alkaline stability metric, confirm that Co is the most stable metal in the MOF, while Cu exhibits notable instability at the M1. Overall, this study reveals how atomistic coupling of electronic and structural properties affects the ORR performance of dual site MOF catalysts and opens new avenues for the tunable design and future development of these systems for practical electrochemical applications.</description>
-      <author>Lingze Wei, Delowar Hossain, Chunfang Gan, Gaurav A. Kamat, Melissa E. Kreider, Junjie Chen, Keping Yan, Zhenan Bao, Michal Bajdich, Michaela Burke Stevens, Thomas F. Jaramillo</author>
+      <author>Lingze Wei, Md Delowar Hossain, Chunfang Gan, Gaurav A. Kamat, Melissa E. Kreider, Junjie Chen, Keping Yan, Zhenan Bao, Michal Bajdich, Michaela Burke Stevens, Thomas F. Jaramillo</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c02229</guid>
     </item>
@@ -180,11 +180,11 @@
     <item>
       <title>Single-cluster anchored on PC6 monolayer as high-performance electrocatalyst for carbon dioxide reduction reaction: First principles study</title>
       <link>https://doi.org/10.1016/j.jcis.2024.05.022</link>
-      <description>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Chenyin Li, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4396702194
+      <description>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Chenyin Li, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu, Journal of colloid and interface science. 669(None)] 2024. https://openalex.org/W4396702194
 
-                No abstract</description>
+                Tremendous challenges remain to develop high-efficient catalysts for carbon dioxide reduction reaction (CO</description>
       <author>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Chenyin Li, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.05.022</guid>
     </item>
     <item>
@@ -230,10 +230,10 @@
     <item>
       <title>Derived Trends of the Oxygen Adsorption Energy Using the Simplistic Model of the Thermodynamic Potential for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4821664</link>
-      <description>Isabela C. Man, Ionu&#355; Tranca, No host. None(None)] 2024. https://openalex.org/W4396718825
+      <description>Isabela C. Man, Ionut Tranc&#259;, No host. None(None)] 2024. https://openalex.org/W4396718825
 
                 No abstract</description>
-      <author>Isabela C. Man, Ionu&#355; Tranca</author>
+      <author>Isabela C. Man, Ionut Tranc&#259;</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821664</guid>
     </item>
@@ -250,10 +250,10 @@
     <item>
       <title>Nanostructured High Entropy Alloys as Structural and Functional Materials</title>
       <link>https://doi.org/10.1021/acsnano.4c03435</link>
-      <description>Wenqing Zhu, Xiang Gao, Yiyu Yao, Shikai Hu, Zhixin Li, Yan Teng, Hang Wang, Haimei Gong, Zhaoqi Chen, Yong Yang, ACS nano. None(None)] 2024. https://openalex.org/W4396720590
+      <description>Wenqing Zhu, Xiang Gao, Yiyu Yao, Shikai Hu, Zhixin Li, Yan Teng, Hang Wang, Hui Gong, Zhaoqi Chen, Yong Yang, ACS nano. None(None)] 2024. https://openalex.org/W4396720590
 
                 Since their introduction in 2004, high entropy alloys (HEAs) have attracted significant attention due to their exceptional mechanical and functional properties. Advances in our understanding of atomic-scale ordering and phase formation in HEAs have facilitated the development of fabrication techniques for synthesizing nanostructured HEAs. These materials hold immense potential for applications in various fields including automobile industries, aerospace engineering, microelectronics, and clean energy, where they serve as either structural or functional materials. In this comprehensive Review, we conduct an in-depth analysis of the mechanical and functional properties of nanostructured HEAs, with a particular emphasis on the roles of different nanostructures in modulating these properties. To begin, we explore the intrinsic and extrinsic factors that influence the formation and stability of nanostructures in HEAs. Subsequently, we delve into an examination of the mechanical and electrocatalytic properties exhibited by bulk or three-dimensional (3D) nanostructured HEAs, as well as nanosized HEAs in the form of zero-dimensional (0D) nanoparticles, one-dimensional (1D) nanowires, or two-dimensional (2D) nanosheets. Finally, we present an outlook on the current research landscape, highlighting the challenges and opportunities associated with nanostructure design and the understanding of structure-property relationships in nanostructured HEAs.</description>
-      <author>Wenqing Zhu, Xiang Gao, Yiyu Yao, Shikai Hu, Zhixin Li, Yan Teng, Hang Wang, Haimei Gong, Zhaoqi Chen, Yong Yang</author>
+      <author>Wenqing Zhu, Xiang Gao, Yiyu Yao, Shikai Hu, Zhixin Li, Yan Teng, Hang Wang, Hui Gong, Zhaoqi Chen, Yong Yang</author>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c03435</guid>
     </item>
@@ -516,6 +516,36 @@
       <author>Xianjun Chen, Chao Zhang, X X Li, Tao Feng</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114642</guid>
+    </item>
+    <item>
+      <title>&#28023;&#32966;&#29366;CoTe-CoP&#24322;&#36136;&#32467;&#26500;&#20652;&#21270;&#21058;&#22312;&#20840;pH&#33539;&#22260;&#20869;&#39640;&#25928;&#26512;&#27682;</title>
+      <link>https://doi.org/10.1007/s40843-024-2820-0</link>
+      <description>Shengli Zhu, Minghui Xing, Zhe L&#252;, Zelong Qiao, Shitao Wang, Qianchuan Zhao, Yu Zhang, Jimmy Yun, Dapeng Cao, Science China. Materials. None(None)] 2024. https://openalex.org/W4396834143
+
+                No abstract</description>
+      <author>Shengli Zhu, Minghui Xing, Zhe L&#252;, Zelong Qiao, Shitao Wang, Qianchuan Zhao, Yu Zhang, Jimmy Yun, Dapeng Cao</author>
+      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-2820-0</guid>
+    </item>
+    <item>
+      <title>Exploration of transition metal atom-doped NiSe2 electrocatalysts for efficient alkaline hydrogen precipitation using first principles screening</title>
+      <link>https://doi.org/10.1016/j.cplett.2024.141324</link>
+      <description>Yangyang Xu, Yiwei Zhao, Yuanjiang Lv, Xinmeng Er, Mingxia Liu, Fei Ma, Chemical physics letters. None(None)] 2024. https://openalex.org/W4396834534
+
+                Transition metal (TM) doping exhibits great potential in designing high-performance two-dimensional (2D) NiSe2-based catalysts for electrocatalytic hydrogen evolution reaction (HER). 22 TM atom-doped 2D-NiSe2 catalysts are screened, and the effects of TM doping on the thermal stability and HER catalytic activity are investigated by first-principles calculations. Among them, Cu doped 2D-NiSe2 might exhibit remarkable HER properties with the water dissociation energy of 1.03 eV and H adsorption Gibbs free energy of &#8722;0.05 eV. Furthermore, we elucidate the reasons behind the different HER activities. These findings suggest new possibilities for the application of Cu doped 2D-NiSe2 for alkaline HER, offering new perspectives for future research.</description>
+      <author>Yangyang Xu, Yiwei Zhao, Yuanjiang Lv, Xinmeng Er, Mingxia Liu, Fei Ma</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141324</guid>
+    </item>
+    <item>
+      <title>A Theoretical Benchmark of the Geometric and Optical Properties for 3d Transition Metal Nanoclusters via Density Functional Theory</title>
+      <link>https://doi.org/10.1021/acs.jpca.4c00408</link>
+      <description>Shana Havenridge, Cong Liu, &#152;The &#156;journal of physical chemistry. A/&#152;The &#156;journal of physical chemistry. A.. None(None)] 2024. https://openalex.org/W4396835391
+
+                Understanding structure&#8211;property relationships in atomically precise metal nanoclusters is vital in finding selective and tunable catalysts. In this study, density functional theory (DFT) was used to benchmark seven exchange correlation functionals at different basis sets for 17 atomically precise nanoclusters against experimentally determined geometries, band gaps, and optical gaps. The set contains both monometallic and bimetallic clusters that possess at least two types of 3d transition metals (specifically, Cu, Ni, Fe, or Co). The benchmark highlights that PBE0 is a good functional to use regardless of the basis set, and Minnesota functionals do well with respect to specific metals. Further, while long-range corrected functionals overestimate band and optical gaps, they model absorption features better than the other considered functionals. The study additionally looks at the photoinduced hydrogen evolution reaction (HER) and the CO2 reduction mechanism on nanoclusters reported from the literature.</description>
+      <author>Shana Havenridge, Cong Liu</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c00408</guid>
     </item>
     <item>
       <title>Insights into effect of dopant site and dopant concentration on structural, electronic and optical properties of GaNbO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1237" altimg="si56.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;4&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; and its implications on visible light photocatalytic behavior: An ab-initio study</title>
