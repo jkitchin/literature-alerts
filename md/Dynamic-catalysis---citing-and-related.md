@@ -1,22 +1,11 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Tue May 14 01:05:35 2024
+Created on Wed May 15 01:06:08 2024
 
-Found 2 results from 2024-05-07 to 2024-05-14
+Found 1 results from 2024-05-08 to 2024-05-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
-
-## Mechanistic Studies of Stimulus–Response Integrated Catalysis of Single-Atom Alloys under Electric Fields for Electrochemical Nitrogen Reduction   
-
-OpenAlex: https://openalex.org/W4396676736    
-Open access: False
-    
-[Xiang Zhao](https://openalex.org/A5033000067), [Xiang Zhao](https://openalex.org/A5033000067), [Xiang Zhao](https://openalex.org/A5033000067), [Xiang Zhao](https://openalex.org/A5033000067), [Xiang Zhao](https://openalex.org/A5033000067), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c00711.
-    
-The present work introduces a novel catalytic strategy to promote the nitrogen reduction reaction (NRR) by employing a cooperative Cu-based single-atom alloy (SAA) and oriented external electric fields (OEEFs) as catalysts. The field strength (    
-
-    
 
 ## Magnetic cobalt metal organic framework for photocatalytic water splitting hydrogen evolution   
 

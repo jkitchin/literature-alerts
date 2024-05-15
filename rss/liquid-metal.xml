@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 May 2024 01:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 01:06:04 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Liquid Metal-Assisted Acylation of Phenols over Zeolite Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c00104</link>
-      <description>Zhou Yong, Geqian Fang, Deizi V. Peron, Maya Marinova, Vladimir L. Zholobenko, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky, ACS catalysis. None(None)] 2024. https://openalex.org/W4396669250
-
-                No abstract</description>
-      <author>Zhou Yong, Geqian Fang, Deizi V. Peron, Maya Marinova, Vladimir L. Zholobenko, Andre&#239; Y. Khodakov, Vitaly V. Ordomsky</author>
-      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00104</guid>
-    </item>
     <item>
       <title>Liquid Gallium&#8211;Zeolite Nanocomposite Catalysts for Propane Dehydrogenation</title>
       <link>https://doi.org/10.1021/acs.iecr.4c00411</link>

@@ -1,33 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Tue May 14 01:05:29 2024
+Created on Wed May 15 01:06:03 2024
 
-Found 158 results from 2024-05-07 to 2024-05-14
+Found 131 results from 2024-05-08 to 2024-05-15
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Design of Bismuth‐based electrocatalysts for carbon dioxide electroreduction   
-
-OpenAlex: https://openalex.org/W4396664019    
-Open access: True
-    
-[Xin Wang](https://openalex.org/A5006822602), [Muhammad Adib Abdillah Mahbub](https://openalex.org/A5089119997), [Debanjan Das](https://openalex.org/A5007351533), [Wolfgang Schuhmann](https://openalex.org/A5035321019), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202400601 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cctc.202400601)).
-    
-Tuning the activity, selectivity, and stability of electrocata­lysts for the electrochemical CO2 reduction reaction (eCO2RR) is of high interest. Among the multitude of possible eCO2RR products, formic acid/formate is not only of high industrial importance but even more importantly it can be obtained at nearly 100% Faradaic efficien­cy if suitable catalysts are employed for the eCO2RR. Recently, two distinct strategies to modulate the eCO2RR over Bi‐based catalysts, namely phase modulation and functionalization with organic ligands, have come to the fore. This concept paper aims to string them toge­ther to accelerate their exploitation to design sophisticated electro­catalysts for the eCO2RR.    
-
-    
-
-## Hybrid Photocatalyst Constructed Using Polymerized Metal Complexes and Semiconductor Powders for Photocatalytic Carbon Dioxide Reduction   
-
-OpenAlex: https://openalex.org/W4396673811    
-Open access: True
-    
-[Yasuomi Yamazaki](https://openalex.org/A5032752173), [Riku Maruyama](https://openalex.org/A5027178597), [Hiromu Kumagai](https://openalex.org/A5071307251), [Kengo Maeda](https://openalex.org/A5022174211), [Taro Tsubomura](https://openalex.org/A5076431007), Chemistry letters. None(None)] 2024.https://doi.org/10.1093/chemle/upae085 ([pdf](https://academic.oup.com/chemlett/advance-article-pdf/doi/10.1093/chemle/upae085/57419842/upae085.pdf)).
-    
-Abstract Hybrid photocatalysts prepared by the adsorption of metal complexes on semiconductors via anchoring groups are among notable photocatalysts for selective CO2 reduction using abundant electron donors. However, their photocatalytic activities are limited by their low adsorption amounts and strength. In this study, we demonstrate the reductive polymerization of vinyl groups in metal complexes triggered by excited electrons on semiconductors as a new immobilization method. This approach significantly enhanced the adsorption amount and durability, thus increasing the photocatalytic performance.    
-
-    
 
 ## Single-cluster anchored on PC6 monolayer as high-performance electrocatalyst for carbon dioxide reduction reaction: First principles study   
 
@@ -172,17 +150,6 @@ The imperative reduction of carbon dioxide into valuable fuels stands as a cruci
 
     
 
-## Exploring CO2 reduction and crossover in membrane electrode assemblies   
-
-OpenAlex: https://openalex.org/W4396660561    
-Open access: True
-    
-[Eric W. Lees](https://openalex.org/A5021877871), [Justin C. Bui](https://openalex.org/A5025264570), [Oyinkansola Romiluyi](https://openalex.org/A5055972908), [Alexis T. Bell](https://openalex.org/A5087957929), [Adam Z. Weber](https://openalex.org/A5069002307), Nature Chemical Engineering. None(None)] 2024.https://doi.org/10.1038/s44286-024-00062-0 ([pdf](https://www.nature.com/articles/s44286-024-00062-0.pdf)).
-    
-No abstract    
-
-    
-
 ## Reconstruction mechanism of Cu surface in CO2 reduction process   
 
 OpenAlex: https://openalex.org/W4396750255    
@@ -227,17 +194,6 @@ No abstract
 
     
 
-## Composition effects of electrodeposited CuAg nanostructured electrocatalysts for CO2 reduction   
-
-OpenAlex: https://openalex.org/W4396699015    
-Open access: True
-    
-[Elena Plaza‐Mayoral](https://openalex.org/A5001934074), [Valery Okatenko](https://openalex.org/A5018856830), [Kim N. Dalby](https://openalex.org/A5026251278), [Hanne Falsig](https://openalex.org/A5091012326), [Ib Chorkendorff](https://openalex.org/A5090008029), [Paula Sebastián‐Pascual](https://openalex.org/A5079498717), [María Escudero‐Escribano](https://openalex.org/A5011008334), iScience. None(None)] 2024.https://doi.org/10.1016/j.isci.2024.109933.
-    
-No abstract    
-
-    
-
 ## Reduction of an Ilmenite Concentrate by Using a Novel CO2/CH4 Thermal Plasma Torch   
 
 OpenAlex: https://openalex.org/W4396802815    
@@ -249,6 +205,17 @@ Plasma technology has emerged as a very helpful tool in a variety of sectors, no
 
     
 
+## Composition effects of electrodeposited CuAg nanostructured electrocatalysts for CO2 reduction   
+
+OpenAlex: https://openalex.org/W4396699015    
+Open access: True
+    
+[Elena Plaza‐Mayoral](https://openalex.org/A5001934074), [Valery Okatenko](https://openalex.org/A5018856830), [Kim N. Dalby](https://openalex.org/A5026251278), [Hanne Falsig](https://openalex.org/A5091012326), [Ib Chorkendorff](https://openalex.org/A5090008029), [Paula Sebastián‐Pascual](https://openalex.org/A5079498717), [María Escudero‐Escribano](https://openalex.org/A5011008334), iScience. None(None)] 2024.https://doi.org/10.1016/j.isci.2024.109933.
+    
+No abstract    
+
+    
+
 ## Progress in regulating the electrocatalytic CO2 reduction performance through the synergies of Cu-based bimetallics   
 
 OpenAlex: https://openalex.org/W4396692137    
@@ -257,17 +224,6 @@ Open access: False
 [Dandan Ma](https://openalex.org/A5021393201), [Jiantao Chen](https://openalex.org/A5048053569), [Z. Zhang](https://openalex.org/A5076455614), [June Li](https://openalex.org/A5001292694), [Jian‐Wen Shi](https://openalex.org/A5009198853), Journal of materials chemistry. A. None(None)] 2024.https://doi.org/10.1039/d4ta01366b.
     
 As an effective way to implement net-zero CO2 emissions and storage of intermittent renewable energy, the reduction of CO2 into chemical fuels through electrochemical way has attracted tremendous interest. Monometallic...    
-
-    
-
-## Quantitative Analysis of Formate Production from Plasma-Assisted Electrochemical Reduction of CO2 on Pd-Based Catalysts   
-
-OpenAlex: https://openalex.org/W4396665771    
-Open access: True
-    
-[Jianjiang Hu](https://openalex.org/A5004900816), [Fuqiang Liu](https://openalex.org/A5065287919), AppliedChem. 4(2)] 2024.https://doi.org/10.3390/appliedchem4020012 ([pdf](https://www.mdpi.com/2673-9623/4/2/12/pdf?version=1714902022)).
-    
-The escalating levels of atmospheric CO2, primarily attributed to human activities, underscore the urgent need for innovative solutions to mitigate environmental challenges. This study delves into the electrochemical reduction of CO2 as a promising avenue for sustainable carbon capture and utilization. Focused on the formation of formate (HCOO−/HCOOH), a high-value product, the research explores the integration of nonthermal plasma (NTP) with electrochemical processes—an approach rarely studied in existing literature. A comprehensive investigation involves varying parameters such as plasma discharging voltage, carrier gas, discharging mode, electrolysis voltage, polarity, and plasma type. The electrochemical tests employ a 10 wt.% Pd/C catalyst, and formate production is quantitatively analyzed using NMR. Results reveal that NTP significantly enhances CO2 reduction, with key factors influencing formate yield elucidated. The study reveals the complexity of CO2 electrochemical reduction, providing novel insights into the synergistic effects of NTP. These findings contribute to advancing sustainable technologies for CO2 utilization, paving the way for more efficient and environmentally friendly processes in the pursuit of a carbon-neutral future.    
 
     
 
@@ -290,17 +246,6 @@ Open access: False
 [Barbara Bohlen](https://openalex.org/A5055974701), [Barbara Bohlen](https://openalex.org/A5055974701), [Barbara Bohlen](https://openalex.org/A5055974701), [Barbara Bohlen](https://openalex.org/A5055974701), [Barbara Bohlen](https://openalex.org/A5055974701), [Barbara Bohlen](https://openalex.org/A5055974701), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202400437.
     
 Carbon capture and utilization (CCU) are technologies sought to reduce the level of CO2 in the atmosphere. Industrial carbon capture is associated with energetic penalty, thus there is an opportunity to research alternatives. In this work, spectroelectrochemistry was used to analyze the electrochemical CO2 reduction (eCO2R) in CO2 saturated monoethanolamine (MEA)-based capture solutions, in a novel CCU process. The in situ Fourier transform infrared (FTIR) spectroscopy experiments show that at the Bi catalyst, the active species involved in the eCO2R is the dissolved CO2 in solution, and not carbamate. In addition, the products of eCO2R were evaluated under flow, using commercial Bi2O3 NP as catalyst. Formate and acetate were detected, with normalized FE for acetate up to 14.5%, a remarkable result, considering the catalyst used. Acetate is formed either in the presence of cetrimonium bromide (CTAB) as surfactant or at higher current density (> -100 mA cm-2) and the results enabled the proposition of a pathway for its production. This work sheds light on the complex reaction environment of a capture medium electrolyte and is thus relevant for an improved understanding of the conversion of CO2 into value-added products and to evaluate the feasibility of a combined CCU approach.    
-
-    
-
-## Metal-free N–S co-doped electrode for electrochemical CO2 reduction to HCOOH   
-
-OpenAlex: https://openalex.org/W4396665825    
-Open access: False
-    
-[Rukan Suna Karateki̇n](https://openalex.org/A5041223653), [Derya Kaya](https://openalex.org/A5027046161), [Doğan Çirmi](https://openalex.org/A5075637935), Journal of applied electrochemistry. None(None)] 2024.https://doi.org/10.1007/s10800-024-02127-7.
-    
-No abstract    
 
     
 
@@ -414,28 +359,6 @@ An integrated CO2 photoreduction to CO by photo-induced electrons coupled with s
 
     
 
-## In situ fabrication of 2D Bi/Bi2O2CO3 nanosheets anchored on Bi substrate for highly-efficient photoelectrocatalytic CO2 reduction to formate   
-
-OpenAlex: https://openalex.org/W4396669567    
-Open access: False
-    
-[Xin Guo](https://openalex.org/A5083053891), [Xiaokun Wang](https://openalex.org/A5043222517), [Xiushuai Guan](https://openalex.org/A5002509420), [Jiuyang Li](https://openalex.org/A5001318373), [Changming Zhang](https://openalex.org/A5006960343), [Yadong Bai](https://openalex.org/A5018244098), [Xiaochao Zhang](https://openalex.org/A5056249472), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160216.
-    
-No abstract    
-
-    
-
-## A Case Study of a 42-m High GRS Retaining Structure and CO2 Footprint Reduction due to the use of Marginal Backfill Available on site   
-
-OpenAlex: https://openalex.org/W4396675445    
-Open access: False
-    
-[Tonguc Tolga Deger](https://openalex.org/A5047408292), [E.Ç. Güler](https://openalex.org/A5021948411), International journal of geosynthetics and ground engineering. 10(3)] 2024.https://doi.org/10.1007/s40891-024-00553-3.
-    
-No abstract    
-
-    
-
 ## Phase transfer-assisted indium recovery from spent liquid crystal display panels and its extension in preparing indium-based electrocatalysts for CO2 reduction   
 
 OpenAlex: https://openalex.org/W4396790704    
@@ -515,17 +438,6 @@ Gas adsorption on the surface of nanoporous rocks is an important process that o
 
     
 
-## Cold Energy Storage via Hydrates Production with Pure CO2 and CO2/N2 (70/30 and 50/50 vol%) Mixtures: Quantification and Comparison between Energy Stored and Energy Spent   
-
-OpenAlex: https://openalex.org/W4396674122    
-Open access: True
-    
-[Alberto Maria Gambelli](https://openalex.org/A5067947903), [Federico Rossi](https://openalex.org/A5042219026), [Giovanni Gigliotti](https://openalex.org/A5076958447), Energies. 17(9)] 2024.https://doi.org/10.3390/en17092211 ([pdf](https://www.mdpi.com/1996-1073/17/9/2211/pdf?version=1714811679)).
-    
-Gas hydrates represent an attractive opportunity for gas storage. These ice-like structures can be produced both for the final disposal of greenhouse gases such as carbon dioxide in the solid form and for the storage of energy gases, such as methane, propane, and others, with the possibility of reaching energy densities comparable with those of pressurised vessels, but at lower pressures. In addition, gas hydrates can be directly produced for their capability to act as phase change materials at temperatures higher than 0 °C. This research deals with cold energy storage via the production of gas hydrate into a lab-scale apparatus. Hydrates were produced with pure carbon dioxide and with CO2/N2 mixtures (70/30 and 50/50 vol%). For each mixture, the amount of energy spent for hydrates production and cold energy stored were calculated, and the results were compared among each other. The addition of nitrogen to the system allowed us to maximise the energy stored/energy spent ratio, which passed from 78.06% to 109.04%; however, due to its molecular size and the consequent impossibility to stabilise the occupied water cages, nitrogen caused a reduction in the total quantity of hydrates produced, which was obviously proportional to the energy stored. Therefore, the concentration of nitrogen in the mixtures need to be carefully determined in order to optimise the Estored/Espent ratio.    
-
-    
-
 ## Exploring the Role of Trade Credit in Facilitating Low-Carbon Development: Insights from Chinese Enterprises   
 
 OpenAlex: https://openalex.org/W4396711477    
@@ -592,17 +504,6 @@ This study introduces the development of novel, flexible gas sensors operating a
 
     
 
-## Pivotal role of polylactide in carbon emission reduction: A comprehensive review   
-
-OpenAlex: https://openalex.org/W4396664086    
-Open access: False
-    
-[Everlyn Kerubo Mosomi](https://openalex.org/A5096680254), [Oludolapo Akanni Olanrewaju](https://openalex.org/A5044109290), [S. O. Adeosun](https://openalex.org/A5013743255), Engineering reports. None(None)] 2024.https://doi.org/10.1002/eng2.12909.
-    
-Abstract This review paper explores the diverse applications of polylactide or polylactic acid (PLA) and its contributions to environmental sustainability. It delves into the synthesis, properties, and numerous applications of PLA, accompanied by illustrative examples demonstrating its ability to reduce carbon emissions. The environmentally friendly characteristics of PLA, coupled with its versatility, make it a vital player in the ongoing efforts to combat climate change. PLA generally requires lower extrusion temperatures than other 3D printing materials, such as ABS (Acrylonitrile Butadiene Styrene). Lower extrusion temperatures lead to reduced energy consumption during the printing process thus the reduction in carbon dioxide emissions during production. Plants, such as corn and sugarcane, play a crucial role in absorbing carbon dioxide from the atmosphere during their growth cycle. When these plants are utilized to produce PLA, the captured CO 2 remains sequestered within the plastic material. This contributes to offsetting CO 2 emissions from other sources. In conclusion, the usage of PLA has demonstrated positive contributions to the reduction of carbon dioxide emissions through its renewable sourcing, lower extrusion temperatures, lower dependence on fossil fuels, reduced greenhouse gas emissions during production, biodegradability, and participation in a closed carbon cycle.    
-
-    
-
 ## Path to pollution and carbon reduction synergy from the perspective of the digital economy: Fresh evidence from 292 prefecture-level cities in China   
 
 OpenAlex: https://openalex.org/W4396721660    
@@ -636,17 +537,6 @@ With the rapid development of urban economy and the construction of new towns, t
 
     
 
-## Search for fin whale calls and shipping noise in Western Ionian Sea using Distributed Acoustic Sensor   
-
-OpenAlex: https://openalex.org/W4396671147    
-Open access: False
-    
-[A. Idrissi](https://openalex.org/A5056642588), [Salvatore Aurnia](https://openalex.org/A5068626144), [Letizia Antonella Mauro](https://openalex.org/A5049192390), [Sara Pulvirenti](https://openalex.org/A5085471166), [G. Riccobene](https://openalex.org/A5049422884), [D. Diego-Tortosa](https://openalex.org/A5001023452), [S. Viola](https://openalex.org/A5088653499), [Simone Sanfilippo](https://openalex.org/A5030731435), [D. Bonanno](https://openalex.org/A5026033331), [Florian Le Pape](https://openalex.org/A5087543662), [Stéphan Ker](https://openalex.org/A5063490626), [Shane Murphy](https://openalex.org/A5089519218), [Giuseppe Cappelli](https://openalex.org/A5096444263), [Lionel Quétel](https://openalex.org/A5004461986), [Marc‐André Gutscher](https://openalex.org/A5064222993), No host. None(None)] 2024.https://doi.org/10.5194/egusphere-gc12-fibreoptic-85.
-    
-The IPANEMA project, funded under the ECCSEL-ERIC activity, aims at studying the natural emissions of carbon dioxide in the Mediterranean region via acoustic detection. In the framework of IPANEMA INFN-LNS has designed two underwater stations equipped with hydrophones and CO2 sensors: a shallow water (20 m depth) autonomous and retrievable observatory, deployed offshore the Island of Panarea (Aeolian Islands, Tyrrhenian Sea) and a cabled deep sea observatory, to be deployed in offshore the Coast of Catania at 2000 m depth (Sicily, Western Ionian Sea). Both detectors are capable to monitor the sea soundscape from a few Hz to just under 100 kHz. In this context, INFN is investigating the possibility to use Distributed Optical Fiber sensing (DOFS) to enable the measurement of biological and anthropogenic acoustic signals along the entire length of underwater electro-optical cables. Unlike conventional sensors that measure at specific points, DOFS systems provide distributed measurements along the fiber length with high spatial sampling, allowing for dense monitoring of large structures or environments in real time. In this work, we will focus on the application of DOFS in the monitoring of biological sounds emitted by fin whales, as demonstrated by recent researches in Isfjorden Sea, Norway. During a campaign of measurements between November 9th and 16th, 2023, IFREMER interrogated with an ASN OptoDAS two seafloor electro-optical cables of the INFN-LNS marine infrastructure in Eastern Sicily. The Distributed Acoustic Sensor (DAS) system was first connected to the LNS-INFN electro-optical cable, extending 25 km from the port of Catania to its end at approximately 2100 m water depth. Another set of measurements was carried out at the LNS-INFN Capo Passero site, using a cable extending 100 km to the shore, reaching depths of around 3500 m. In this area a research study conducted by INFN-LNS between 2012 and 2013, using hydrophones on seafloor showed the presence of fin whales. In this work we will present the analysis of DAS signals: custom codes for data reduction, noise filtering and search for the typical fin whale calls (20 Hz intermittent pulses) will be presented and results discussed.    
-
-    
-
 ## Chapter 1 Green hydrogen production using biomass   
 
 OpenAlex: https://openalex.org/W4396706903    
@@ -655,17 +545,6 @@ Open access: False
 [Sujeet Kesharvani](https://openalex.org/A5068032207), [Sakshi Sarathe](https://openalex.org/A5090101091), [Anjali Agrawal](https://openalex.org/A5081979419), [Gaurav Dwivedi](https://openalex.org/A5084382021), [Prashant Malik](https://openalex.org/A5048990936), De Gruyter eBooks. None(None)] 2024.https://doi.org/10.1515/9783111246475-001.
     
 Sustainable and green hydrogen (also known as GH2) is a form of hydrogen produced by a renewable energy source or a low-carbon power. The biomass pathway could generate hydrogen for India, which is both practical and effective. The National Green Hydrogen Mission has received government approval to advance the use of GH2 in India. By 2030, the Mission will probably provide the following results: Development of a GH2 production capability of at least 5 MMT (million metric tons) annually, along with an increase of 125 GW in the nation's renewable energy capacity; around Rs. 8 lakh crores have been invested overall, creating more than 6 lakh employment; decrease in fossil fuel imports of more than Rs. 1 trillion cumulatively; and reduction of yearly greenhouse gas emissions by around 50 MMT. India is not a pioneer in using biomass for power generation, while biomass for hydrogen production offers great promise. In today's chemical sector and refineries, hydrogen is a key intermediate. Since it emits no emissions and is made from renewable resources, hydrogen is regarded as a green fuel. Biomasa carbon-neutral feedstock can potentially be one of the promising methods to create this GH2. Because plants absorb the carbon dioxide produced during combustion through photosynthesis, biomass has the potential to be used as a raw material for producing biofuels that are considered to have a balanced carbon footprint, meaning they do not contribute to a net increase in carbon dioxide levels. Thermochemical, biological, and steam reformation of glycerol are three ways biomass can be converted to hydrogen. This chapter deals with the production of GH2 from biomass.    
-
-    
-
-## High‐Energy Facet Engineering for Electrocatalytic Applications   
-
-OpenAlex: https://openalex.org/W4396675515    
-Open access: False
-    
-[Rui Wu](https://openalex.org/A5082159776), [Jong‐Min Lee](https://openalex.org/A5091083678), Small. None(None)] 2024.https://doi.org/10.1002/smll.202401546.
-    
-Abstract The design of high‐energy facets in electrocatalysts has attracted significant attention due to their potential to enhance electrocatalytic activity. In this review, the significance of high‐energy facets in various electrochemical reactions are highlighted, including oxygen reduction reaction (ORR), oxygen evolution reaction (OER), hydrogen evolution reaction (HER), nitrogen reduction reaction (NRR), and carbon dioxide reduction reaction (CRR). Their importance in various electrochemical reactions and present strategies for constructing high‐energy facets are discussed, including alloying, heterostructure formation, selective etching, capping agents, and coupling with substrates. These strategies enable control over crystallographic orientation and surface morphology, fine‐tuning electrocatalytic properties. This study also addresses future directions and challenges, emphasizing the need to better understand fundamental mechanisms. Overall, high‐energy facets offer exciting opportunities for advancing electrocatalysis.    
 
     
 
@@ -691,14 +570,14 @@ Introduction. Genitourinary syndrome of menopause (GSM) is a complex of symptoms
 
     
 
-## Reduction of GHG Emissions: Air Quality Improvement in Urban Areas   
+## Global Polyethylene Terephthalate (PET) Plastic Supply Chain Resource Metabolism Efficiency and Carbon Emissions Co-Reduction Strategies   
 
-OpenAlex: https://openalex.org/W4396679894    
+OpenAlex: https://openalex.org/W4396747385    
 Open access: True
     
-[Carlos Armenta-Déu](https://openalex.org/A5086649153), [Cristina Rincón](https://openalex.org/A5042639235), No host. 1(1)] 2024.https://doi.org/10.33140/cresel.01.01.01.
+[C. Duan](https://openalex.org/A5020573308), [Zhen Wang](https://openalex.org/A5050093981), [Bingzheng Zhou](https://openalex.org/A5025668943), [Xiaolei Yao](https://openalex.org/A5052046224), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103926 ([pdf](https://www.mdpi.com/2071-1050/16/10/3926/pdf?version=1715161497)).
     
-This paper focuses on the impact that urban traffic has on the environment. The study characterizes the global effect of GHG emissions, including the ecologic evaluation and the characterization, normalization, and evaluation factor. The work makes a detailed survey of the different modes of driving and their influence on engine performance as one of the principal causes of gas emissions during the combustion process. The article analyzes six types of vehicles equipped with different engine configurations: diesel and gasoline, GLP and GNC, hybrid electric, and plug-in hybrid electric. Simulation of the driving mode under various operational conditions for every type of engine result in energy consumption, thus, in GHG emissions, carbon dioxide and monoxide, nitrogen oxides, and Sulphur dioxide. The study concludes that a reduction in vehicle speed, thus in the engine revolutions, has positive effects on engine combustion and gasses emissions, which is reduced by 27.5%. The study also concludes that the limitation in driving mode, avoiding sharp and sudden acceleration, may reduce up to 45% of GHG emissions. The changes applied in the driving mode improve the air quality in the urban environment, reducing the content of GHG from 39% to 61%.    
+Polyethylene terephthalate (PET) is widely used as a primary plastic packaging material in the global socio-economic system. However, research on the metabolic characteristics of the PET industry across different countries, particularly regarding the entire life cycle supply chain of PET, remains insufficient, significantly hindering progress in addressing plastic pollution worldwide. This study employs the Life Cycle Assessment-Material Flow Analysis (LCA-MFA) method to comprehensively analyze the environmental impacts of PET plastics, with a focus on the processes from production to disposal in 12 regions (covering 41 countries) in 2020. By constructing 13 scenarios and analyzing the development trajectory of PET plastics from 2020 to 2030, this study provides scientific evidence and specific strategies for waste reduction and emission reduction measures in the PET industry. Overall, in 2020, the 12 regions (41 countries) consumed 7297.7 kilotons (kt) of virgin PET resin and 1189.4 kt of recycled PET resin; 23% of plastic waste was manufactured into recycled PET materials, 42% went to landfills, and 35% was incinerated. In 2020, the entire PET plastic supply chain emitted approximately 534.6 million tons (Mt) of carbon dioxide equivalent per year, with production emissions accounting for 46.1%, manufacturing stage emissions accounting for 44.7%, and waste treatment stage emissions accounting for 9.2%. Research indicates that under a scenario of controlled demand, resource efficiency improvement and emission reduction are the most effective, potentially reducing carbon emissions by up to 40%.    
 
     
 
@@ -710,17 +589,6 @@ Open access: False
 [Jihoon Park](https://openalex.org/A5082410408), [Jisoo Kim](https://openalex.org/A5005102661), [Joonho Seo](https://openalex.org/A5015821559), [Daeik Jang](https://openalex.org/A5054809010), [H.K. Lee](https://openalex.org/A5042933742), No host. None(None)] 2024.https://doi.org/10.1117/12.3012724.
     
 Carbon nanotubes (CNTs) have been widely used in various fields due to their remarkable electrical and mechanical properties. In the construction industry, several studies have been conducted in an attempt to impart conductivity to cement-based composites by incorporating CNTs into the composites. The electrical properties of CNT-incorporated cement-based composites undergo changes due to several factors, allowing one to use these composites as cement-based sensors. Carbonation has been regarded as a significant factor contributing to the deterioration of concrete structures. The reaction between hydrates and dissolved carbon dioxide in concrete leads to the precipitation of calcium carbonate and reduction of pH levels, causing corrosion of reinforcement. Thus, numerous efforts have been dedicated to non-destructively assessing the extent of carbonation of concrete structures. This paper summarizes previous studies on the non-destructive evaluation of the extent of carbonation in concrete. In addition, a preliminary study on the applicability of CNT-incorporated cement-based composites embedded in the concrete structure as sensors for measuring carbonation front will be introduced.    
-
-    
-
-## Global Polyethylene Terephthalate (PET) Plastic Supply Chain Resource Metabolism Efficiency and Carbon Emissions Co-Reduction Strategies   
-
-OpenAlex: https://openalex.org/W4396747385    
-Open access: True
-    
-[C. Duan](https://openalex.org/A5020573308), [Zhen Wang](https://openalex.org/A5050093981), [Bingzheng Zhou](https://openalex.org/A5025668943), [Xiaolei Yao](https://openalex.org/A5052046224), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103926 ([pdf](https://www.mdpi.com/2071-1050/16/10/3926/pdf?version=1715161497)).
-    
-Polyethylene terephthalate (PET) is widely used as a primary plastic packaging material in the global socio-economic system. However, research on the metabolic characteristics of the PET industry across different countries, particularly regarding the entire life cycle supply chain of PET, remains insufficient, significantly hindering progress in addressing plastic pollution worldwide. This study employs the Life Cycle Assessment-Material Flow Analysis (LCA-MFA) method to comprehensively analyze the environmental impacts of PET plastics, with a focus on the processes from production to disposal in 12 regions (covering 41 countries) in 2020. By constructing 13 scenarios and analyzing the development trajectory of PET plastics from 2020 to 2030, this study provides scientific evidence and specific strategies for waste reduction and emission reduction measures in the PET industry. Overall, in 2020, the 12 regions (41 countries) consumed 7297.7 kilotons (kt) of virgin PET resin and 1189.4 kt of recycled PET resin; 23% of plastic waste was manufactured into recycled PET materials, 42% went to landfills, and 35% was incinerated. In 2020, the entire PET plastic supply chain emitted approximately 534.6 million tons (Mt) of carbon dioxide equivalent per year, with production emissions accounting for 46.1%, manufacturing stage emissions accounting for 44.7%, and waste treatment stage emissions accounting for 9.2%. Research indicates that under a scenario of controlled demand, resource efficiency improvement and emission reduction are the most effective, potentially reducing carbon emissions by up to 40%.    
 
     
 
@@ -743,17 +611,6 @@ Open access: False
 [Zilong Wang](https://openalex.org/A5041840821), [Anyao Jiao](https://openalex.org/A5075717636), [Feng Liu](https://openalex.org/A5044278182), [Xiaowei Liao](https://openalex.org/A5060472105), The journal of physical chemistry. A/The journal of physical chemistry. A.. None(None)] 2024.https://doi.org/10.1021/acs.jpca.4c00835.
     
 Due to the cumulative effect of the recycled flue gas in oxy-fuel combustion, the reduction of NO has become the focus of research in which the role of CO2 gasification has a nonnegligible effect. In this article, the heterogeneous gasification mechanisms of CO2 on coal char during oxy-fuel combustion were studied by density functional theory and transition-state theory. The zigzag char model and char(N) model were selected to investigate the CO2 adsorption and gratification reactions at the molecular level. By comparison, the CO2 gasification reaction is preferred to occur on the zigzag char model with a reduction in the energy barrier and an increase in the reaction rate. When considering char nitrogen conversion, the gasification reaction is more prone to releasing NO first, leading to the contraction of the aromatic ring and the generation of CO at high temperatures. Therefore, the study further highlights the promoting role of CO2 gasification on the homogeneous and heterogeneous reduction of NO, which is mainly reflected in the reduction effect of CO. Moreover, it also accelerates the consumption of coal char and NO formation, which is favorable for the reduction reactions to a certain extent.    
-
-    
-
-## Climate policy uncertainty and firm‐level carbon dioxide emissions: Assessing the impact in the U.S. market   
-
-OpenAlex: https://openalex.org/W4396676494    
-Open access: True
-    
-[Djula Borozan](https://openalex.org/A5090092081), [Burak Pirgaip](https://openalex.org/A5054396085), Business strategy and the environment. None(None)] 2024.https://doi.org/10.1002/bse.3784 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bse.3784)).
-    
-Abstract This paper examines the impact of climate policy uncertainty (CPU) on carbon dioxide (CO 2 ) emissions of 1007 listed firms over 2003–2021. As the urgency to combat climate change and implement effective policies may create uncertainty, it focuses on the Unites States, a significant emitter with a complex policy landscape. Using the two‐step system generalized method of moments estimation, the analysis reveals a negative CPU–CO 2 emissions relationship, indicating that increased CPU incentivizes firms to adopt sustainable practices, leading to emissions reductions. Capital expenditures have similar effects on emissions, accompanied by increased corporate sustainability engagement. However, no significant relationship is found between research and development (R&D) expenditure and CO 2 emissions, nor does CPU significantly moderate the R&D–CO 2 emissions nexus. Firms with substantial fixed assets exhibit higher CO 2 emissions, while heavy emitters demonstrate limited CPU responsiveness. These findings provide valuable insights for policymakers encouraging corporate participation in emissions reduction efforts.    
 
     
 
@@ -867,17 +724,6 @@ Developing efficient electrocatalysts for CO2 reduction has gained significant a
 
     
 
-## Worlds apart? Investigating acceptance and usage demands of carbon-based cosmetics and clothing across European countries   
-
-OpenAlex: https://openalex.org/W4396677698    
-Open access: True
-    
-[Wiktoria Wilkowska](https://openalex.org/A5088157668), [Imke Haverkämper](https://openalex.org/A5034271813), [Martina Ziefle](https://openalex.org/A5065952170), Energy, sustainability and society. 14(1)] 2024.https://doi.org/10.1186/s13705-024-00454-3 ([pdf](https://energsustainsoc.biomedcentral.com/counter/pdf/10.1186/s13705-024-00454-3)).
-    
-Abstract Background Global warming and the increasing risk of natural disasters force us all to act. As the reduction of carbon dioxide (CO 2 ) emissions has been proven effective but insufficient on its own, Carbon Capture and Utilization (CCU) technologies emerged to fill the gap. Using CCU technologies, CO 2 is captured and further processed into valuable products instead of being emitted into the atmosphere. Method This study investigates the prevailing public perception of such CCU-based products by the example of clothing and cosmetics. We applied the method of conjoint measurement to experimentally examine context-related factors (= attributes) in different usage settings and explored the consumers’ decision profiles for or against the usage of CCU-based products (cosmetics and clothing). Conjoint measurements were realized as an online experiment, addressing acceptance patterns and preferences in four European countries (Germany, Norway, Spain, and Poland). In addition, we assessed general attitudes and affective assessments of the CCU products. A total of N = 828 participants took part in the study, and the international subsamples were comparable. Results Results revealed that health compatibility is the main adoption-driving factor in the decisions for or against the use of the products. Still, attributes like the environmental impact, product quality, and information flow play an important role as well, even though to a lesser extent. Participants from different countries significantly differ in their cognitive and affective evaluations of acceptance-related attributes. Conclusions The outcome provides insights into differences in Pan-European comparison and helps to understand the public motives and country-specific terms of use for CCU-based products, effectively establishing recommendations for policy and governance.    
-
-    
-
 ## Supercritical CO2 extrusion foaming of highly open-cell poly(lactic acid) foam with superior oil adsorption performance   
 
 OpenAlex: https://openalex.org/W4396705589    
@@ -886,28 +732,6 @@ Open access: False
 [Shijie Cui](https://openalex.org/A5071332999), [Minghui Wu](https://openalex.org/A5076983003), [Minghui Wu](https://openalex.org/A5076983003), [Tongwen Xu](https://openalex.org/A5011788131), [Qian Ren](https://openalex.org/A5034843029), [Long Wang](https://openalex.org/A5053252415), [Wenge Zheng](https://openalex.org/A5014047346), International journal of biological macromolecules. None(None)] 2024.https://doi.org/10.1016/j.ijbiomac.2024.132138.
     
 Addressing marine oil spills and industrial water pollution necessitates the development of eco-efficient oil-absorbing materials. With increasing concern for the environment, there is a consensus to decrease the use of petroleum-based polymers. Herein, lightweight poly(lactic acid) (PLA) blend foams with varying thermoplastic polyurethane (TPU) content were fabricated via a solvent-free, eco-friendly supercritical carbon dioxide (scCO2) extrusion foaming technology. The incorporation of TPU significantly enhanced the crystallization rate of PLA, with the semi-crystallization time of PT30 and PT50 blends at 105 °C exhibiting a reduction of 77.2 % and 47.9 %, respectively, compared to neat PLA. The resulting foams exhibited an open-cell structure with excellent selective oil adsorption capabilities. Notably, the PT30 foam achieved a remarkable maximum expansion ratio of 36.0, while the PT50 foam attained the highest open-cell content of 96.2 %. The PT50 foam demonstrated an outstanding adsorption capacity, spanning from 4.7 to 18.8 g/g for diverse oils and solvents, with rapid adsorption kinetics, reaching 94.9 % of the equilibrium adsorption capacity for CCl4 within just 1 min. Furthermore, the PT50 foam retained 95.2 % of its adsorption capacity for CCl4 over 10 adsorption-desorption cycles. This study presents a scalable and sustainable approach for large-scale production of high-performance, bio-based foams, facilitating efficient oil-water separation.    
-
-    
-
-## Innovative carbon nanotubes-bridging strategy valorizes plastic waste into high-quality H2-rich syngas while suppressing CO2 emissions   
-
-OpenAlex: https://openalex.org/W4396659142    
-Open access: False
-    
-[Xuesong Zhang](https://openalex.org/A5035991681), [Ge Kong](https://openalex.org/A5039198210), [Yuan Jiang](https://openalex.org/A5075056652), [Linling Zhou](https://openalex.org/A5065904741), [Kejie Wang](https://openalex.org/A5044366250), [Xin Zhang](https://openalex.org/A5006651636), [Guanya Ji](https://openalex.org/A5029742948), [Lujia Han](https://openalex.org/A5003568313), One earth. None(None)] 2024.https://doi.org/10.1016/j.oneear.2024.04.005.
-    
-Plastic waste disposal is mounting, with consequences for both environmental and human wellbeing. Addressing the plastic waste challenge through chemically upcycling waste to other products is gaining momentum but can have trade-offs. For example, the conversion of plastic waste into hydrogen rich gas can be achieved via catalytic steam, but this process can release large quantities of CO2 (∼12 kg CO2 per 1 kg H2 production). High-performance bifunctional catalysts, such as carbon nanotubes (CNTs), offer a potential solution, but suppressing CO2 emissions without compromising H2-rich gas yield remains challenging. Here, we synthesize a new CNTs-bridging nanocomposite by integrating Ni nanoparticles with HY zeolite. Employing this bifunctional CNTs-bridging nanocomposite in the catalytic steam reforming of polyethylene can achieve high-quality H2 yields of up to 2,340 mL/gplastic and a 77% reduction in CO2 emissions (1.68 g CO2 per 1 g H2 production). This work introduces an innovative CNTs-bridging strategy to valorize plastic waste into high-quality H2-rich syngas while suppressing CO2 emissions.    
-
-    
-
-## Techno-economic analysis of blue ammonia synthesis using cryogenic CO2 capture Process-A Danish case investigation   
-
-OpenAlex: https://openalex.org/W4396785795    
-Open access: True
-    
-[Hossein Asgharian](https://openalex.org/A5084892424), [Larry Baxter](https://openalex.org/A5033055074), [Florin Iov](https://openalex.org/A5086777531), [Xiaoti Cui](https://openalex.org/A5090586976), [Samuel Simon Araya](https://openalex.org/A5077456206), [Mads Pagh Nielsen](https://openalex.org/A5084668874), [Vincenzo Liso](https://openalex.org/A5035460058), International journal of hydrogen energy. 69(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.05.060.
-    
-Ammonia is a vital chemical with numerous applications. Currently, the primary methods for generating the necessary reactants for ammonia production involve steam methane reforming (SMR) and cryogenic air separation unit (CASU), while the Haber-Bosch process converts these reactants into ammonia. However, the SMR process releases substantial amounts of CO2, making it imperative to employ an efficient and cost-effective CO2 capture technology to mitigate emissions. This investigation focuses on evaluating the cryogenic CO2 capture (CCC) process for blue ammonia production and provides a thorough economic analysis, estimating both the initial investment costs and operational expenses involved in producing blue ammonia. The results indicated that the CCC process can capture 90% of the CO2 content in the flue gas emitted by the SMR, incurring an energy penalty of 0.724 MJe/kgCO2 while capturing CO2 in the liquid phase with purities exceeding 99.9%. In this case, the estimated CO2 capture costs would be 18.05, 45.1, and 16.65 USD/ton in 2021, 2022, and 2023, respectively. This represents a 40% reduction compared to the CO2 capture costs associated with conventional amine-based technology. The results of this study indicate that the annual electricity costs for ammonia production increase by 38.5% and 64.2% when employing the CCC and amine-based processes, respectively. This investigation employed an isothermal reactor for ammonia synthesis, using the heat from the exothermic reaction in a water ammonia absorption refrigeration cycle (ARC) to condense and purify ammonia. The results show that the ARC system can effectively condense ammonia at −6 °C, producing a liquid ammonia stream with 99.3% purity. This leads to a 95% reduction in power consumption compared to a vapor compression refrigeration cycle (VCRC). Consequently, this method has the potential to decrease the annual operational costs for ammonia production by 2.92%, 2.69%, and 3.13% in 2021, 2022, and 2023, respectively. This study indicated that the hydrogen production unit incurs the highest initial investment costs, as well as operating costs, in the blue ammonia production process, followed by CASU and the Haber-Bosch process.    
 
     
 
@@ -922,14 +746,14 @@ Anemia is a condition where there is a lack of healthy red blood cells. Anemia c
 
     
 
-## Feasibility analysis of solar electric vehicles   
+## Techno-economic analysis of blue ammonia synthesis using cryogenic CO2 capture Process-A Danish case investigation   
 
-OpenAlex: https://openalex.org/W4396672620    
+OpenAlex: https://openalex.org/W4396785795    
 Open access: True
     
-[Ziyi Yang](https://openalex.org/A5018104523), Applied and computational engineering. 59(1)] 2024.https://doi.org/10.54254/2755-2721/59/20240813 ([pdf](https://ace.ewapublishing.org/media/283f4045cc8c4889aa8a889fab2ba062.marked.pdf)).
+[Hossein Asgharian](https://openalex.org/A5084892424), [Larry Baxter](https://openalex.org/A5033055074), [Florin Iov](https://openalex.org/A5086777531), [Xiaoti Cui](https://openalex.org/A5090586976), [Samuel Simon Araya](https://openalex.org/A5077456206), [Mads Pagh Nielsen](https://openalex.org/A5084668874), [Vincenzo Liso](https://openalex.org/A5035460058), International journal of hydrogen energy. 69(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.05.060.
     
-Solar-powered cars offer a compelling solution to the challenges of conventional transportation, utilizing solar cells to convert sunlight into clean and renewable energy for propulsion. This paper explores the principles, advantages, and challenges of solar cars while examining their evolving landscape in the automotive industry. Solar cars are celebrated for their environmental benefits, offering true zero carbon dioxide emissions, resource conservation, and minimal maintenance. Moreover, they significantly contribute to noise reduction, offering a quieter driving experience. Despite these advantages, solar cars face challenges that hinder their widespread adoption. Weighty solar panels limit driving range, and energy production often falls short of consumption during operation. Charging infrastructure remains a concern, especially in comparison to the convenience of refueling traditional vehicles. However, innovations such as the Lightyear One prototype demonstrate the potential for long-range solar-powered vehicles, while the feasibility of solar hybrid cars is a subject of ongoing discussion. Continuous advancements in solar cell technology, particularly silicon-based cells, hold promise for improving efficiency and cost-effectiveness. Conclusively, solar-powered cars represent a sustainable and environmentally conscious future for transportation. With research, technological innovation, and global collaboration, solar vehicles have the potential to transition from promising prototypes to practical and accessible alternatives, contributing to a cleaner and greener planet.    
+Ammonia is a vital chemical with numerous applications. Currently, the primary methods for generating the necessary reactants for ammonia production involve steam methane reforming (SMR) and cryogenic air separation unit (CASU), while the Haber-Bosch process converts these reactants into ammonia. However, the SMR process releases substantial amounts of CO2, making it imperative to employ an efficient and cost-effective CO2 capture technology to mitigate emissions. This investigation focuses on evaluating the cryogenic CO2 capture (CCC) process for blue ammonia production and provides a thorough economic analysis, estimating both the initial investment costs and operational expenses involved in producing blue ammonia. The results indicated that the CCC process can capture 90% of the CO2 content in the flue gas emitted by the SMR, incurring an energy penalty of 0.724 MJe/kgCO2 while capturing CO2 in the liquid phase with purities exceeding 99.9%. In this case, the estimated CO2 capture costs would be 18.05, 45.1, and 16.65 USD/ton in 2021, 2022, and 2023, respectively. This represents a 40% reduction compared to the CO2 capture costs associated with conventional amine-based technology. The results of this study indicate that the annual electricity costs for ammonia production increase by 38.5% and 64.2% when employing the CCC and amine-based processes, respectively. This investigation employed an isothermal reactor for ammonia synthesis, using the heat from the exothermic reaction in a water ammonia absorption refrigeration cycle (ARC) to condense and purify ammonia. The results show that the ARC system can effectively condense ammonia at −6 °C, producing a liquid ammonia stream with 99.3% purity. This leads to a 95% reduction in power consumption compared to a vapor compression refrigeration cycle (VCRC). Consequently, this method has the potential to decrease the annual operational costs for ammonia production by 2.92%, 2.69%, and 3.13% in 2021, 2022, and 2023, respectively. This study indicated that the hydrogen production unit incurs the highest initial investment costs, as well as operating costs, in the blue ammonia production process, followed by CASU and the Haber-Bosch process.    
 
     
 
@@ -1120,17 +944,6 @@ This paper investigates the potential benefits of integrating rooftop greenhouse
 
     
 
-## Evaluate the potential of electrification to achieve urbanization and carbon neutrality   
-
-OpenAlex: https://openalex.org/W4396672549    
-Open access: True
-    
-[Zhaohua He](https://openalex.org/A5025946141), Applied and computational engineering. 59(1)] 2024.https://doi.org/10.54254/2755-2721/59/20240763 ([pdf](https://ace.ewapublishing.org/media/e66868009967464ea2e13f7386081ce2.marked.pdf)).
-    
-Electrification applications in transport and energy supply can significantly reduce carbon emissions. The impact of electrification on carbon emissions reduction varies across countries with different development profiles. In developed countries, with the increase of renewable resources usage in electricity production, the per capita CO2 emissions decrease. For example, Germany increased its share of electricity production from renewable sources from 6.2% to 44%, and its per capita CO2 emissions dropped from 11.2 t to 8.1t. While in developing countries, the per capita CO2 emissions are still increasing with the increase of electrification level. For example, India increased its degree of electrification from 58% to 99%, and its per capita CO2 emissions increased from 0.9 t to 1.9 t. This paper first used LCA data to compare the Greenhouse gas (GHG) emissions of electric vehicles and fuel vehicles and GHG emissions of electricity plants from different energy sources. Then, this paper used Linear regression to determine how close between electrification and climate change. This research aims to identify the potential of electrification to achieve urbanization and carbon neutrality, as there are few discussions regarding the combination of these three topics at present. This research can confirm the benefit of electrification in reducing carbon emissions, which can promote the broad application of electrification and its development.    
-
-    
-
 ## The Role of Political Stability in Nine Arab Natural Resource-Abundant Countries (ANRAC) Toward Environmental Sustainability through CO2 Mitigation   
 
 OpenAlex: https://openalex.org/W4396720207    
@@ -1139,50 +952,6 @@ Open access: True
 [Omed Rafiq Fatah](https://openalex.org/A5019642388), [Hatem Hatef Abdulkadhım Altaee](https://openalex.org/A5035762117), International journal of energy economics and policy. 14(3)] 2024.https://doi.org/10.32479/ijeep.15346 ([pdf](https://econjournals.com/index.php/ijeep/article/download/15346/7847)).
     
 This study examines the intricate interplay of political stability, natural resource rent, industrialization, globalization, economic growth, and carbon emissions in nine Arab resource-abundant countries (ANRAC) from 1996 to 2019. Applying advanced statistical approaches, such as the Method of Moment Quantiles Regression (MMQREG) as a baseline estimation approach, along with the inclusion of PCSE, FGLS, and FMOLS, to enhance, to enhance the reliability and stability of the obtained results. The study results suggest that globalization, coupled with the interplay between political stability and economic growth, fosters advancements in environmental conditions and the pursuit of sustainable practices. In contrast, political stability, abundant natural resources, sustained economic expansion, and widespread industrialization are associated with increased CO2 emissions, posing detrimental effects on the environment. Notably, there seems to be a correlation between the concurrent improvement of political stability and economic growth and a reduction in CO2 emissions.    
-
-    
-
-## An innovative data-feature-driven approach for CO2 emission predictive analytics: A perspective from seasonality and nonlinearity characteristics   
-
-OpenAlex: https://openalex.org/W4396673542    
-Open access: False
-    
-[Song Ding](https://openalex.org/A5045667274), [Xingao Shen](https://openalex.org/A5033649269), [Huahan Zhang](https://openalex.org/A5024707480), [Zhijian Cai](https://openalex.org/A5057065063), [Yi Wang](https://openalex.org/A5019542269), Computers & industrial engineering. None(None)] 2024.https://doi.org/10.1016/j.cie.2024.110195.
-    
-This study enhances data support for CO2 emission reduction strategies across the U.S., targeting the commercial, industrial, residential, and electric power sectors. Despite the availability of numerous predictive models for sector-specific CO2 emission forecasts, a gap remains for a versatile model adept at managing time series data with varied characteristics. We introduce a novel, highly generalizable forecasting model that merges Conformable Fractional Accumulation, seasonal dummy variables, and the time power item to address randomness, seasonality, and nonlinearity in predictions. Our model outshines prevailing competitors, including statistical (AR and ARIMA), machine learning (LSTM, BPNN, and GRU), and grey models (SGM (1,1) and GM (1,1)), in comparative tests. It achieves MAPE values below 5% and 10% for training and testing phases, respectively, across all sectors, surpassing the inconsistent results from benchmark models. Furthermore, the stability and reliability of our model are validated through a systematic robustness verification framework. Notably, leveraging this model's superior predictive performance, we forecast future sectoral CO2 emissions. A detailed analysis of sector-specific influencing factors provides actionable insights for crafting targeted decarbonization policies and plans.    
-
-    
-
-## Strategic Deployment of CCUS in China: Aiming for Carbon Neutrality in Key Industries   
-
-OpenAlex: https://openalex.org/W4396703263    
-Open access: False
-    
-[Kai Cheng](https://openalex.org/A5053096325), [Bo Peng](https://openalex.org/A5009362940), [M. Asif Arif](https://openalex.org/A5001336970), [Yupeng Zhang](https://openalex.org/A5071887725), [Leiwang Shang](https://openalex.org/A5021077437), [Zhenghao Zhang](https://openalex.org/A5081568480), No host. None(None)] 2024.https://doi.org/10.2118/219388-ms.
-    
-Abstract This study assesses China's CCUS deployment, pivotal for the nation's carbon neutrality by 2060 and transition to sustainable energy. It explores the social, economic, and industrial impacts, including job creation, product exports, and global CCUS market influence. The paper outlines critical goals for successful CCUS implementation, impacting China's future industrial competitiveness. We employed machine learning to analyze CO2 emissions data from China's power, iron and steel, cement, and oil and gas industries, supplemented by expert consultations. Our findings reveal significant emission characteristics: thermal power dominates the power industry's emissions, contributing over 50% to China's industrial total. The iron and steel sector accounts for over 60% of global emissions in its field, comprising 15-18% of China's emissions. Cement production, with a CO2 emission factor of 0.86, results in approximately 620 kg of CO2 per ton. The oil and gas sector, particularly petrochemicals, represents 9% of national emissions. These insights shape our analysis of the CCUS development pathway in these key sectors. Our analysis of carbon emissions and CCUS development in key Chinese industries, informed by expert consultation, leads to these conclusions: China's CCUS evolution follows three stages. The research, development, and demonstration phase (2020-2025) anticipates CCUS projects scaling to 15 Mt CO2/year. The industrial rollout phase (2025-2035) projects expansion to 50 Mt CO2/year. Full deployment (2035-2050) will see project sizes reaching 1500 Mt CO2/year, with significant milestones of 500 Mt in 2040 and 1500 Mt by 2050. Under an aggressive model, CCUS plays a crucial role in direct emission reductions, targeting 2.5 billion tonnes CO2 by 2050. Regional CCUS strategies align with each province's carbon peak goals, sequestration resources, and industrial structures. Aligned with China's 14th Five-Year Plan, our study underscores the strategic importance of CCUS technology, analyzing its potential and affordability in major sectors like electricity, iron and steel, cement, and oil and gas. We propose a CCUS deployment roadmap for China, detailing strategies for large-scale emission source retrofitting and industry-level source-sink matching. This forms the foundation for the Ministry of Science and Technology's planning of regional CCUS clusters.    
-
-    
-
-## Improved estimation of lake greenhouse gas emissions in China based on nutrients and potential benefits from eutrophication controls   
-
-OpenAlex: https://openalex.org/W4396672603    
-Open access: True
-    
-[Yindong Tong](https://openalex.org/A5020448746), [Qirui Wang](https://openalex.org/A5048484794), [Zhiyong Feng](https://openalex.org/A5001714538), [Haitao Zhao](https://openalex.org/A5030699864), [Wei Zhi](https://openalex.org/A5023983709), [Jiawen Xie](https://openalex.org/A5076249836), [Guangyu Chai](https://openalex.org/A5077870766), [Rongkun Liu](https://openalex.org/A5020442312), [Xiaoyu Cui](https://openalex.org/A5056282612), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4318310/v1 ([pdf](https://www.researchsquare.com/article/rs-4318310/latest.pdf)).
-    
-Abstract Lakes are important natural sources of greenhouse gases (GHGs) to the atmosphere, and their nutrient status is a significant driver affecting GHGs production and emission. Nevertheless, when estimating GHGs emissions at regional or national scales, the variations in emission rates caused by differences in nutrient status are often overlooked or not adequately considered. The potential social benefits of eutrophication control in mitigating climate change damage were rarely quantified, leading to largely underestimated benefits generated from water quality improvement. In this study, we compiled a comprehensive dataset on the emission rates of three typical GHGs (i.e., CO2, CH4, and N2O) from China’s lakes (n=356), and their nutrient concentrations, lake morphologies, and climate information. The fitted models between lake GHG emission rates and their drivers were established to upscale national GHGs emissions from lakes and approximate the changes in GHGs emissions under different nitrogen and phosphorus levels. We found that the current GHGs emissions from China’s lakes were 48.44 (31.60‒73.79) Tg CO2-eq·y-1, with CO2 emissions contributing around 52%. Even with a mere 10% reduction in nitrogen concentration in lakes nationwide over 2020‒2050, the estimated decrease in the GHGs emissions over the 30-year period would be 46.9 Tg CO2-eq, avoided climate change damages values could reach $1.5‒4.9 billion (2020 $US). Lake eutrophication controls can present an excellent chance to simultaneously achieve the Sustainable Development Goals of “clean water and sanitation” and “climate action”, accelerating the global progress toward sustainability.    
-
-    
-
-## Exploring Corn Cob Gasification as a Low-Carbon Technology in the Corn Flour Industry in Mexico   
-
-OpenAlex: https://openalex.org/W4396722025    
-Open access: True
-    
-[Fabio Manzini](https://openalex.org/A5004090484), [Jorge M. Islas-Samperio](https://openalex.org/A5078089767), [Genice K. Grande-Acosta](https://openalex.org/A5079973566), Energies. 17(10)] 2024.https://doi.org/10.3390/en17102256 ([pdf](https://www.mdpi.com/1996-1073/17/10/2256/pdf?version=1715160017)).
-    
-In 2021, Mexico produced approximately 24.2 million tons of white corn, generating 3.6 million tons of corn cob residue. The final disposal of corn cob poses an environmental challenge in certain regions. This study examines the technical–economic feasibility and the greenhouse gas (GHG) mitigation potential of integrating a small-scale cogenerating gasifier fueled by corn cob into a nixtamalized corn flour manufacturing small and medium-sized enterprise (SME). This integration enables the generation of heat and electricity from the produced synthesis gas. Moreover, the process yields residual carbon, which can be used as biochar for soil restoration and removing atmospheric CO2. This option holds significance for the corn flour agroindustry in Mexico, as, in 2021, it consumed approximately 601.9 GWh of electrical energy and 938,279 GJ of thermal energy from LP Gas in its manufacturing processes to produce 2.6 million tons of nixtamalized white corn flour. These processes contributed to a total emission of 410,232 tons of CO2 into the atmosphere. The findings of this study demonstrate a cumulative reduction of 51.7% in CO2 emissions, resulting in economic benefits of USD 85,401 in 2017 for a case study SME that annually produces 1039 tons of corn flour. This study reveals the integration of a gasifier–cogenerator system fueled by corn cob as an economically viable low-carbon technology in the corn flour manufacturing industry.    
 
     
 
@@ -1197,36 +966,25 @@ Nowadays, we have observed the dynamic development of bio-heating plants that us
 
     
 
-## The Intraday Impacts of Wind Energy on Wholesale Electricity Prices and Carbon Emissions in Great Britain   
+## Strategic Deployment of CCUS in China: Aiming for Carbon Neutrality in Key Industries   
 
-OpenAlex: https://openalex.org/W4396712264    
+OpenAlex: https://openalex.org/W4396703263    
 Open access: False
     
-[Huang Xiao](https://openalex.org/A5052109898), [Xiaoyi Mu](https://openalex.org/A5058830871), Social Science Research Network. None(None)] 2024.https://doi.org/10.2139/ssrn.4818469.
+[Kai Cheng](https://openalex.org/A5053096325), [Bo Peng](https://openalex.org/A5009362940), [M. Asif Arif](https://openalex.org/A5001336970), [Yupeng Zhang](https://openalex.org/A5071887725), [Leiwang Shang](https://openalex.org/A5021077437), [Zhenghao Zhang](https://openalex.org/A5081568480), No host. None(None)] 2024.https://doi.org/10.2118/219388-ms.
     
-This paper studies the intra-day impacts of wind power on wholesale electricity prices and conventional generation in the UK. Exploiting the variations by hour across years from 2008 to 2019, we differentiate the long-run impact of wind power that is largely due to capacity increases and the short-run impact that is primarily driven by weather conditions. The result shows that the expansion of wind energy significantly decreases the electricity price in most hours except the early morning ramp-up and late evening ramp-down hours. We also estimate the substitutional effect of wind energy on conventional generation technologies. Wind generation is found to displace coal and CCGT generation during peak hours. Consequently, this leads to significant reductions in CO2 emissions. The increased wind generation contributed to 24.5MtCO2 reduction per year over the sample period.    
+Abstract This study assesses China's CCUS deployment, pivotal for the nation's carbon neutrality by 2060 and transition to sustainable energy. It explores the social, economic, and industrial impacts, including job creation, product exports, and global CCUS market influence. The paper outlines critical goals for successful CCUS implementation, impacting China's future industrial competitiveness. We employed machine learning to analyze CO2 emissions data from China's power, iron and steel, cement, and oil and gas industries, supplemented by expert consultations. Our findings reveal significant emission characteristics: thermal power dominates the power industry's emissions, contributing over 50% to China's industrial total. The iron and steel sector accounts for over 60% of global emissions in its field, comprising 15-18% of China's emissions. Cement production, with a CO2 emission factor of 0.86, results in approximately 620 kg of CO2 per ton. The oil and gas sector, particularly petrochemicals, represents 9% of national emissions. These insights shape our analysis of the CCUS development pathway in these key sectors. Our analysis of carbon emissions and CCUS development in key Chinese industries, informed by expert consultation, leads to these conclusions: China's CCUS evolution follows three stages. The research, development, and demonstration phase (2020-2025) anticipates CCUS projects scaling to 15 Mt CO2/year. The industrial rollout phase (2025-2035) projects expansion to 50 Mt CO2/year. Full deployment (2035-2050) will see project sizes reaching 1500 Mt CO2/year, with significant milestones of 500 Mt in 2040 and 1500 Mt by 2050. Under an aggressive model, CCUS plays a crucial role in direct emission reductions, targeting 2.5 billion tonnes CO2 by 2050. Regional CCUS strategies align with each province's carbon peak goals, sequestration resources, and industrial structures. Aligned with China's 14th Five-Year Plan, our study underscores the strategic importance of CCUS technology, analyzing its potential and affordability in major sectors like electricity, iron and steel, cement, and oil and gas. We propose a CCUS deployment roadmap for China, detailing strategies for large-scale emission source retrofitting and industry-level source-sink matching. This forms the foundation for the Ministry of Science and Technology's planning of regional CCUS clusters.    
 
     
 
-## Thermodynamic, environmental, and exergoeconomic analysis of multi-ejector expansion transcritical CO2 supermarket refrigeration cycles in different climate regions of Türkiye   
+## Exploring Corn Cob Gasification as a Low-Carbon Technology in the Corn Flour Industry in Mexico   
 
-OpenAlex: https://openalex.org/W4396704749    
-Open access: False
+OpenAlex: https://openalex.org/W4396722025    
+Open access: True
     
-[Oguz Caliskan](https://openalex.org/A5078829080), [Nagihan Bilir Sağ](https://openalex.org/A5013607985), [H. Kursad Ersoy](https://openalex.org/A5037156423), International journal of refrigeration. None(None)] 2024.https://doi.org/10.1016/j.ijrefrig.2024.05.006.
+[Fabio Manzini](https://openalex.org/A5004090484), [Jorge M. Islas-Samperio](https://openalex.org/A5078089767), [Genice K. Grande-Acosta](https://openalex.org/A5079973566), Energies. 17(10)] 2024.https://doi.org/10.3390/en17102256 ([pdf](https://www.mdpi.com/1996-1073/17/10/2256/pdf?version=1715160017)).
     
-Restrictions on high-GWP refrigerants have made the use of transcritical CO2 refrigeration systems widespread. Using transcritical booster refrigeration cycle in warm climates is unsatisfactory due to its high energy consumption. This paper presents theoretical analysis and performance comparison of three different transcritical CO2 supermarket refrigeration cycle configurations with ejector expansion in Türkiye, which has different climatic regions. Bin-hour data were derived using hourly dry-bulb temperature values for provinces from 7 different regions in Türkiye. The applicability of multi-ejectors to each modeled cycle was also investigated. Annual energy consumption and environmental impact reductions of up to 17% were obtained using ejector expansion cycle compared to booster cycle. Ejector expansion cycles achieved higher performance than booster cycle up to 46% in terms of exergy efficiency at investigated ambient temperatures. Unit product exergy costs of the ejector cycles were found up to 28% lower than booster cycle.    
-
-    
-
-## Electrochemical and Catalytic Conversion of CO2 into Formic Acid on Cu-InO2 Nano alloy Decorated on Reduced Graphene Oxide (Cu-InO2@rGO)   
-
-OpenAlex: https://openalex.org/W4396678443    
-Open access: False
-    
-[Ajay V. Munde](https://openalex.org/A5057879902), [Balasaheb D. Bankar](https://openalex.org/A5003988190), [Balaji B. Mulik](https://openalex.org/A5066776807), [Sanjio S. Zade](https://openalex.org/A5031519500), [Ankush V. Biradar](https://openalex.org/A5089765698), [Bhaskar R. Sathe](https://openalex.org/A5059671912), Applied catalysis. A, General. None(None)] 2024.https://doi.org/10.1016/j.apcata.2024.119760.
-    
-The catalytic and electrochemical hydrogenation of CO2 offers the option of a carbon-neutral cycle for sustainable energy and synthesis of value-added chemicals. The synthesized noble metal-free Cu-InO2@rGO nanocomposite has been characterized by various techniques such as scanning electron microscopy (SEM) confirming the spherical shape of Cu-InO2 nanoalloy embedded on rGO, the average size calculated by high resolution-transmission electron microscopy (HR-TEM) shows Cu-InO2 (∼ 4 nm) alloy is on rGO surface (∼100 nm). The XRD pattern confirms the Face centered cubic (FCC) crystal structure of Cu-InO2@rGO, and Furrier transform- Infrared (FT-IR) and X-ray photoelectron spectroscopy (XPS) analyses of Cu-In-O exist in the nanomaterials. The linear sweep voltammetry (LSV) demonstrates an ultra-low potential of -0.9 V vs. SCE. The bulk electrolysis on Cu-InO2@rGO electrocatalyst demonstrated at a potential of -1.1 V vs. SCE to reach HCOOH with a Faradic yield of 76.10%. Electrochemical CO2 reduction on Cu-InO2@rGO is responsible for the variation of adsorption of CO2 intermediates due to controlled selectivity and inhibiting the formation of H2 and CO. In catalytic hydrogenation used as the same catalyst was found, an excellent yield towards HCOOH is 5.5 mmol. Current studies have highlighted the enhancement in activity along with selectivity for product formation could be due to having a capable active interface from electrocatalysts for low cost and proficient production of fuels.    
+In 2021, Mexico produced approximately 24.2 million tons of white corn, generating 3.6 million tons of corn cob residue. The final disposal of corn cob poses an environmental challenge in certain regions. This study examines the technical–economic feasibility and the greenhouse gas (GHG) mitigation potential of integrating a small-scale cogenerating gasifier fueled by corn cob into a nixtamalized corn flour manufacturing small and medium-sized enterprise (SME). This integration enables the generation of heat and electricity from the produced synthesis gas. Moreover, the process yields residual carbon, which can be used as biochar for soil restoration and removing atmospheric CO2. This option holds significance for the corn flour agroindustry in Mexico, as, in 2021, it consumed approximately 601.9 GWh of electrical energy and 938,279 GJ of thermal energy from LP Gas in its manufacturing processes to produce 2.6 million tons of nixtamalized white corn flour. These processes contributed to a total emission of 410,232 tons of CO2 into the atmosphere. The findings of this study demonstrate a cumulative reduction of 51.7% in CO2 emissions, resulting in economic benefits of USD 85,401 in 2017 for a case study SME that annually produces 1039 tons of corn flour. This study reveals the integration of a gasifier–cogenerator system fueled by corn cob as an economically viable low-carbon technology in the corn flour manufacturing industry.    
 
     
 
@@ -1238,28 +996,6 @@ Open access: True
 [Lilian Bosch](https://openalex.org/A5021941199), [Shaojun Yang](https://openalex.org/A5037654136), [Dion Hofste](https://openalex.org/A5096774077), [Ian Gibson](https://openalex.org/A5012467454), [Sebastian Thiede](https://openalex.org/A5062998616), Procedia CIRP. 122(None)] 2024.https://doi.org/10.1016/j.procir.2024.02.028.
     
 Nowadays, self-checkouts are becoming increasingly popular in stores and markets. This is simply because they offer customers the convenience of shopping without having to wait in line and provide store owners with an opportunity to increase sales and improve the customer experience. Meanwhile, the sustainability options of the devices have gained more traction, such as reducing the CO2 emissions of the product and production. However, it is initially unknown how to investigate the sustainability of self-service devices due to insufficient research in this area. To address this issue, the different methodologies have been analyzed based on domain-oriented boundaries. The life cycle assessment (LCA) is chosen to assess the sustainability. Then, the inventory analysis is worked out to gather the relevant raw data. Subsequently, the model of the product's life cycle is established in an LCA software tool. The assessment and interpretation is carried out. A case study of self-checkout is conducted in the industrial company and the results shows that recycled material zincor and using solar energy could lead to a reduction of CO2 emissions of up to 41.8%.    
-
-    
-
-## A Continuous Plug-Flow Anaerobic-Multistage Anoxic/Aerobic Process Treating Low-C/N Domestic Sewage: Nutrient Removal, Greenhouse Gas Emissions, and Microbial Community Analysis   
-
-OpenAlex: https://openalex.org/W4396798629    
-Open access: True
-    
-[Yunlong Xie](https://openalex.org/A5030042849), [Wenlong Zhang](https://openalex.org/A5085039487), [Jie Jiang](https://openalex.org/A5035997139), [Yi Li](https://openalex.org/A5086487582), [L. Tong](https://openalex.org/A5052731876), [Guang‐Yu Yang](https://openalex.org/A5006641884), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103993 ([pdf](https://www.mdpi.com/2071-1050/16/10/3993/pdf?version=1715334018)).
-    
-The anaerobic-multistage anoxic/aerobic (A-MAO) process has shown good potential for advanced nitrogen removal in recent years, but its greenhouse gas emissions still need to be fully explored. The effects of the influent distribution and external carbon source sodium acetate on nutrient removal, greenhouse gas emissions, and the microbial community structure in a continuous plug-flow A-MAO reactor fed with real low C/N ratio domestic sewage were investigated. The results showed that altering the allocation of carbon source resulted in average chemical oxygen demand (COD) and total nitrogen (TN) concentration in effluent reduced to 26.10 ± 4.86 and 6.65 ± 1.73 mg/L, respectively. Both operations reduced the emission rate of greenhouse gas. While the addition of external car-bon sources leaded to lower N2O emission rates and higher CO2 and CH4 emission rates. The addition of sodium acetate facilitated nitrification and denitrification processes, thereby leading to a reduction in N2O production. Meanwhile, it spurred the growth of methanogenic bacteria and heterotrophic microorganisms, thus boosting the production of CO2 and CH4. Influent distribution promoted the increase of Bacteroidota, Chloroflexi and Acidobacteriota of the reactor. The enrichment of typical hydrolytic bacteria and glycogen accumulating organisms (GAOs) increased the utilization efficiency of carbon sources in the system after the addition of sodium acetate. The significant increase of typical denitrifying bacteria (DNBs) Azospira reduced the N2O emission during heterotrophic denitrification process, which was considered to be an important functional genus for increasing nitrogen loss in this system. The rational utilization of carbon source makes the difference in metabolism function. The study provides a valuable strategy for comprehensively evaluating the pollutant removal and greenhouse gas emission reduction from the A-MAO process.    
-
-    
-
-## Boosting Electrochemical CO2 Reduction to CO by Regulating the Porous Structure of Carbon Membrane   
-
-OpenAlex: https://openalex.org/W4396673332    
-Open access: False
-    
-[Hongyuan Chuai](https://openalex.org/A5026704171), [Haibei Yang](https://openalex.org/A5020864116), [Sheng Zhang](https://openalex.org/A5000053699), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c04318.
-    
-Ni single-atom-decorated nitrogen-doped carbon materials (Ni–Nx-C) have demonstrated high efficiency in the electrochemical reduction of CO2 (CO2RR) to CO. In this study, Ni–Nx-C active sites were embedded within a carbon membrane via an electrospinning and pyrolysis process. The resulting self-supported carbon membrane hosting Ni–Nx-C sites could be directly utilized as an electrode for the CO2RR. To enhance the CO2RR performance of the carbon membrane, the porous structure of the carbon membrane was fine-tuned by incorporating a pore-forming agent. The optimized porous carbon membrane electrode, K0.66-Ni-NC, achieved an impressive CO faradaic efficiency (FECO) of over 90% within a wide potential range from −0.8 to −1.6 V vs RHE for CO2RR. Additionally, it maintained an FECO of above 90% at −0.8 V vs RHE throughout a 30 h durability test in an H-cell. Further analysis has revealed that the porous structure of the carbon membrane not only facilitates the mass transport of CO2 but also increases the level of exposure of active sites during the CO2RR.    
 
     
 
@@ -1296,6 +1032,50 @@ A company located in South Sulawesi, intends to mitigate emissions from the Powe
 
     
 
+## The Intraday Impacts of Wind Energy on Wholesale Electricity Prices and Carbon Emissions in Great Britain   
+
+OpenAlex: https://openalex.org/W4396712264    
+Open access: False
+    
+[Huang Xiao](https://openalex.org/A5052109898), [Xiaoyi Mu](https://openalex.org/A5058830871), Social Science Research Network. None(None)] 2024.https://doi.org/10.2139/ssrn.4818469.
+    
+This paper studies the intra-day impacts of wind power on wholesale electricity prices and conventional generation in the UK. Exploiting the variations by hour across years from 2008 to 2019, we differentiate the long-run impact of wind power that is largely due to capacity increases and the short-run impact that is primarily driven by weather conditions. The result shows that the expansion of wind energy significantly decreases the electricity price in most hours except the early morning ramp-up and late evening ramp-down hours. We also estimate the substitutional effect of wind energy on conventional generation technologies. Wind generation is found to displace coal and CCGT generation during peak hours. Consequently, this leads to significant reductions in CO2 emissions. The increased wind generation contributed to 24.5MtCO2 reduction per year over the sample period.    
+
+    
+
+## Thermodynamic, environmental, and exergoeconomic analysis of multi-ejector expansion transcritical CO2 supermarket refrigeration cycles in different climate regions of Türkiye   
+
+OpenAlex: https://openalex.org/W4396704749    
+Open access: False
+    
+[Oguz Caliskan](https://openalex.org/A5078829080), [Nagihan Bilir Sağ](https://openalex.org/A5013607985), [H. Kursad Ersoy](https://openalex.org/A5037156423), International journal of refrigeration. None(None)] 2024.https://doi.org/10.1016/j.ijrefrig.2024.05.006.
+    
+Restrictions on high-GWP refrigerants have made the use of transcritical CO2 refrigeration systems widespread. Using transcritical booster refrigeration cycle in warm climates is unsatisfactory due to its high energy consumption. This paper presents theoretical analysis and performance comparison of three different transcritical CO2 supermarket refrigeration cycle configurations with ejector expansion in Türkiye, which has different climatic regions. Bin-hour data were derived using hourly dry-bulb temperature values for provinces from 7 different regions in Türkiye. The applicability of multi-ejectors to each modeled cycle was also investigated. Annual energy consumption and environmental impact reductions of up to 17% were obtained using ejector expansion cycle compared to booster cycle. Ejector expansion cycles achieved higher performance than booster cycle up to 46% in terms of exergy efficiency at investigated ambient temperatures. Unit product exergy costs of the ejector cycles were found up to 28% lower than booster cycle.    
+
+    
+
+## A Continuous Plug-Flow Anaerobic-Multistage Anoxic/Aerobic Process Treating Low-C/N Domestic Sewage: Nutrient Removal, Greenhouse Gas Emissions, and Microbial Community Analysis   
+
+OpenAlex: https://openalex.org/W4396798629    
+Open access: True
+    
+[Yunlong Xie](https://openalex.org/A5030042849), [Wenlong Zhang](https://openalex.org/A5085039487), [Jie Jiang](https://openalex.org/A5035997139), [Yi Li](https://openalex.org/A5086487582), [L. Tong](https://openalex.org/A5052731876), [Guang‐Yu Yang](https://openalex.org/A5006641884), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103993 ([pdf](https://www.mdpi.com/2071-1050/16/10/3993/pdf?version=1715334018)).
+    
+The anaerobic-multistage anoxic/aerobic (A-MAO) process has shown good potential for advanced nitrogen removal in recent years, but its greenhouse gas emissions still need to be fully explored. The effects of the influent distribution and external carbon source sodium acetate on nutrient removal, greenhouse gas emissions, and the microbial community structure in a continuous plug-flow A-MAO reactor fed with real low C/N ratio domestic sewage were investigated. The results showed that altering the allocation of carbon source resulted in average chemical oxygen demand (COD) and total nitrogen (TN) concentration in effluent reduced to 26.10 ± 4.86 and 6.65 ± 1.73 mg/L, respectively. Both operations reduced the emission rate of greenhouse gas. While the addition of external car-bon sources leaded to lower N2O emission rates and higher CO2 and CH4 emission rates. The addition of sodium acetate facilitated nitrification and denitrification processes, thereby leading to a reduction in N2O production. Meanwhile, it spurred the growth of methanogenic bacteria and heterotrophic microorganisms, thus boosting the production of CO2 and CH4. Influent distribution promoted the increase of Bacteroidota, Chloroflexi and Acidobacteriota of the reactor. The enrichment of typical hydrolytic bacteria and glycogen accumulating organisms (GAOs) increased the utilization efficiency of carbon sources in the system after the addition of sodium acetate. The significant increase of typical denitrifying bacteria (DNBs) Azospira reduced the N2O emission during heterotrophic denitrification process, which was considered to be an important functional genus for increasing nitrogen loss in this system. The rational utilization of carbon source makes the difference in metabolism function. The study provides a valuable strategy for comprehensively evaluating the pollutant removal and greenhouse gas emission reduction from the A-MAO process.    
+
+    
+
+## Cascaded *CO‐*COH Intermediates on a Nonmetallic Plasmonic Photocatalyst for CO2‐to‐C2H6 with 90.6% Selectivity   
+
+OpenAlex: https://openalex.org/W4396730937    
+Open access: False
+    
+[Liteng Ren](https://openalex.org/A5005140110), [Xiaonan Yang](https://openalex.org/A5046951690), [Xin Sun](https://openalex.org/A5061416812), [Yuling Wang](https://openalex.org/A5016382104), [Huiquan Li](https://openalex.org/A5051858605), [Yupeng Yuan](https://openalex.org/A5003176702), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202404660.
+    
+Oxygen vacancies (OV) in nonmetallic plasmonic photocatalysts can decrease the energy barrier for CO2 reduction, boosting C1 intermediate production for potential C2 formation. However, their susceptibility to oxidation weakens C1 intermediate adsorption. Herein we proposed a "photoelectron injection" strategy to safeguard OV in W18O49 by creating a W18O49/ZIS (W/Z) plasmonic photocatalyst. Moreover, photoelectrons contribute to the local multi‐electron environment of W18O49, enhancing the intrinsic excitation of its hot electrons with extended lifetimes, as confirmed by in‐situ XPS and femtosecond transient absorption analysis. Density functional theory calculations revealed that W/Z with Ov enhances CO2 adsorption, activating *CO production, while reducing the energy barrier for *COH production (0.054 eV) and subsequent *CO‐COH coupling (0.574 eV). Successive hydrogenation revealed that the free energy for *CH2CH2 hydrogenation (0.108 eV) was lower than that for *CH2CH2 desorption for C2H4 production (0.277 eV), favouring C2H6 production. Consequently, W/Z achieves an efficient C2H6 activity of 653.6 μmol g‐1 h‐1 under visible light, with an exceptionally high selectivity of 90.6%. This work offers a new strategy for the rational design of plasmonic photocatalysts with high selectivity for C2+ products.    
+
+    
+
 ## Cascaded *CO‐*COH Intermediates on a Nonmetallic Plasmonic Photocatalyst for CO2‐to‐C2H6 with 90.6% Selectivity   
 
 OpenAlex: https://openalex.org/W4396743018    
@@ -1318,39 +1098,6 @@ In light of global challenges such as the war in Ukraine and the depletion of fo
 
     
 
-## Towards artificial intelligence empowered performance enhancement of EDM process using nano-graphene mixed bio-dielectric supporting the carbon neutrality and sustainable development   
-
-OpenAlex: https://openalex.org/W4396677362    
-Open access: True
-    
-[Kashif Ishfaq](https://openalex.org/A5035662654), [Mohammed Asad](https://openalex.org/A5069142761), [Waqar Muhammad Ashraf](https://openalex.org/A5085550364), [Muhammad Sana](https://openalex.org/A5072888175), [Saqib Anwar](https://openalex.org/A5074707979), [Wei Zhang](https://openalex.org/A5007506093), [Vivek Dua](https://openalex.org/A5089416884), Journal of cleaner production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.142482.
-    
-The growing population with every passing day sets an alarming situation with respect to the conservation climate protocols. The increasing needs of society also demand a significant enhancement in the manufacturing capacity to augment the situation. However, it's a stringent requirement of the hour to propose sustainable and clean manufacturing processes to realize the goal of carbon neutrality to support a healthy life on the earth. Specifically, the processes that are energy intensive like electric discharge machining (EDM) are of serious concern regarding sustainability viewpoint. The role of the said process cannot be essentially eliminated as advent of new materials of superior characteristics demand the application of EDM for accurate cutting of intricate profiles. Nevertheless, the commonly used oil-based dielectric (kerosene) in EDM releases aerosol, deposit particles, oxides of carbon (CO2 & CO), thus contributing to the environmental contamination. It is pertinent to mention that industries are compelled to tune their processes to achieve the goals of Net-Zero. Therefore, this study thoroughly investigates the potential of nano-graphene mixed rice bran oil to make the EDM process cleaner and sustainable which has never been investigated so far. Moreover, the process has been successfully modeled using artificial neural network (ANN) and optimized by non-dominated sorting genetic algorithm-II (NSGA-II) which is another novel aspect of this study as it eradicates the need of extensive experimentation. Experimentation has been performed via Taguchi's experimental strategy followed by a detailed explanation of the findings based on process physics. In comparison to the traditional dielectric an improvement of 98.8% in material removal rate (MRR) and 93.9% reduction in specific energy consumption (SEC) are realized if the said novel combination is applied without compromising the quality. CO2 emissions determined for both rice bran oil and kerosene oil have revealed that rice bran oil provides 99.96% lesser CO2 emission in comparison to its counterpart.    
-
-    
-
-## On the role of target mass in extreme ultraviolet light generation from CO2-driven tin plasmas for nanolithography   
-
-OpenAlex: https://openalex.org/W4396686537    
-Open access: True
-    
-[J. González](https://openalex.org/A5082787014), [John Sheil](https://openalex.org/A5014834099), Physics of plasmas. 31(5)] 2024.https://doi.org/10.1063/5.0200206 ([pdf](https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0200206/19917606/050701_1_5.0200206.pdf)).
-    
-Target conditioning is a crucial ingredient of high-power extreme ultraviolet (EUV) source operation in state-of-the-art nanolithography. It involves deforming tin microdroplets into tens of nanometer-thin sheets, sheets which are subsequently irradiated by intense CO2 laser radiation to form a hot, EUV-emitting plasma. Recent experiments have found that a substantial fraction of the initial droplet mass is lost in the deformation phase through fragmentation. The goal of the present study is to investigate, using radiation-hydrodynamic modeling, how variations in the sheet mass affect EUV source power and the laser-to-in-band conversion efficiency (CE). It is found that high-mass sheets can “feed” the plasma with sufficient mass to sustain the production of in-band-emitting charge states over the course of laser irradiation. Low-mass sheets, on the contrary, cannot supply enough mass to sustain this production over the pulse, thus leading to a reduction in in-band power and CE. The dependence of CE on laser energy and target thickness is quantified, and a rather weak reduction of CE with increasing laser energy for high-mass sheets is identified.    
-
-    
-
-## Unveiling Reaction Pathways of Ethylene Carbonate and Vinylene Carbonate in Li-Ion Batteries   
-
-OpenAlex: https://openalex.org/W4396779943    
-Open access: True
-    
-[Robin Lundström](https://openalex.org/A5031052722), [Neeha Gogoi](https://openalex.org/A5002477776), [Tim Melin](https://openalex.org/A5048023974), [Erik J. Berg](https://openalex.org/A5012780458), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c00927 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.4c00927)).
-    
-Ethylene carbonate (EC) and vinylene carbonate (VC) are the archetypical electrolyte solvent and additive in Li-ion batteries (LIBs), respectively. However, our understanding of their reaction pathways remains incomplete. Herein, the reaction pathways of EC and VC are explored by using online electrochemical mass spectrometry complemented by nuclear magnetic resonance analysis. For EC, reduction occurs through two distinct pathways <0.8 V vs Li+/Li, one yielding C2H4 and the other yielding CO, depending on the electrode potential and the EC concentration. The CO-releasing pathway does not contribute to the solid electrolyte interphase formation. For VC, reduction commences at <1.9 V, but CO2 gas evolution proceeds through a chemical step via a nucleophilic attack and VC ring opening. Additionally, VC scavenges H2O and reduced protons via hydrolysis and via proton abstraction from the carbon electrode to form EC. Our study uncovers further reaction pathways and underscores the unique properties of EC and VC, both individually and in combination, and elucidates their roles in influencing the formation process in Li-ion batteries.    
-
-    
-
 ## Sustainability analysis for scandium recovery from secondary sources   
 
 OpenAlex: https://openalex.org/W4396754884    
@@ -1362,36 +1109,14 @@ Primary aluminium industry is one of the largest industries associated with high
 
     
 
-## Regulating Spin Density using TEMPOL Molecules for Enhanced CO2‐to‐Ethylene Conversion by HKUST‐1 Framework Derived Electrocatalysts   
+## On the role of target mass in extreme ultraviolet light generation from CO2-driven tin plasmas for nanolithography   
 
-OpenAlex: https://openalex.org/W4396673706    
-Open access: False
+OpenAlex: https://openalex.org/W4396686537    
+Open access: True
     
-[Baipeng Yin](https://openalex.org/A5052266787), [Can Wang](https://openalex.org/A5068325469), [Shijie Xie](https://openalex.org/A5031076543), [Jianmin Gu](https://openalex.org/A5074382483), [Hua Sheng](https://openalex.org/A5083868402), [De‐Xian Wang](https://openalex.org/A5000974279), [Jiannian Yao](https://openalex.org/A5091427756), [Chuang Zhang](https://openalex.org/A5017468827), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202405873.
+[J. González](https://openalex.org/A5082787014), [John Sheil](https://openalex.org/A5014834099), Physics of plasmas. 31(5)] 2024.https://doi.org/10.1063/5.0200206 ([pdf](https://pubs.aip.org/aip/pop/article-pdf/doi/10.1063/5.0200206/19917606/050701_1_5.0200206.pdf)).
     
-The selectivity of multicarbon products in the CO2 reduction reaction (CO2RR) depends on the spin alignment of neighboring active sites, which requires a spin catalyst that facilitates electron transfer with antiparallel spins for enhanced C‐C coupling. Here, we design a radical‐contained spin catalyst (TEMPOL@HKUST‐1) to enhance CO2‐to‐ethylene conversion, in which spin‐disordered (SDO) and spin‐ordered (SO) phases co‐exist to construct an asymmetric spin configuration of neighboring active sites. The replacement of axially coordinated H2O molecules with TEMPOL radicals introduces spin‐spin interactions among the Cu(II) centers to form localized SO phases within the original H2O‐mediated SDO phases. Therefore, TEMPOL@HKUST‐1 derived catalyst exhibited an approximately two‐fold enhancement in ethylene selectivity during the CO2RR at ‐1.8 V versus Ag/AgCl compared to pristine HKUST‐1. In situ ATR‐SEIRAS spectra indicate that the spin configuration at asymmetric SO/SDO sites significantly reduces the kinetic barrier for *CO intermediate dimerization toward the ethylene product. The performance of the spin catalyst is further improved by spin alignment under a magnetic field, resulting in a maximum ethylene selectivity of more than 50%. The exploration of the spin‐polarized kinetics of the CO2RR provides a promising path for the development of novel spin electrocatalysts with superior performance.    
-
-    
-
-## Cascaded *CO‐*COH Intermediates on a Nonmetallic Plasmonic Photocatalyst for CO2‐to‐C2H6 with 90.6% Selectivity   
-
-OpenAlex: https://openalex.org/W4396730937    
-Open access: False
-    
-[Liteng Ren](https://openalex.org/A5005140110), [Xiaonan Yang](https://openalex.org/A5046951690), [Xin Sun](https://openalex.org/A5061416812), [Yuling Wang](https://openalex.org/A5016382104), [Huiquan Li](https://openalex.org/A5051858605), [Yupeng Yuan](https://openalex.org/A5003176702), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202404660.
-    
-Oxygen vacancies (OV) in nonmetallic plasmonic photocatalysts can decrease the energy barrier for CO2 reduction, boosting C1 intermediate production for potential C2 formation. However, their susceptibility to oxidation weakens C1 intermediate adsorption. Herein we proposed a "photoelectron injection" strategy to safeguard OV in W18O49 by creating a W18O49/ZIS (W/Z) plasmonic photocatalyst. Moreover, photoelectrons contribute to the local multi‐electron environment of W18O49, enhancing the intrinsic excitation of its hot electrons with extended lifetimes, as confirmed by in‐situ XPS and femtosecond transient absorption analysis. Density functional theory calculations revealed that W/Z with Ov enhances CO2 adsorption, activating *CO production, while reducing the energy barrier for *COH production (0.054 eV) and subsequent *CO‐COH coupling (0.574 eV). Successive hydrogenation revealed that the free energy for *CH2CH2 hydrogenation (0.108 eV) was lower than that for *CH2CH2 desorption for C2H4 production (0.277 eV), favouring C2H6 production. Consequently, W/Z achieves an efficient C2H6 activity of 653.6 μmol g‐1 h‐1 under visible light, with an exceptionally high selectivity of 90.6%. This work offers a new strategy for the rational design of plasmonic photocatalysts with high selectivity for C2+ products.    
-
-    
-
-## Regulating Spin Density using TEMPOL Molecules for Enhanced CO2‐to‐Ethylene Conversion by HKUST‐1 Framework Derived Electrocatalysts   
-
-OpenAlex: https://openalex.org/W4396673826    
-Open access: False
-    
-[Baipeng Yin](https://openalex.org/A5052266787), [Can Wang](https://openalex.org/A5007121066), [Shijie Xie](https://openalex.org/A5031076543), [Jianmin Gu](https://openalex.org/A5074382483), [Hua Sheng](https://openalex.org/A5083868402), [De‐Xian Wang](https://openalex.org/A5000974279), [Jiannian Yao](https://openalex.org/A5091427756), [Chuang Zhang](https://openalex.org/A5017468827), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202405873.
-    
-The selectivity of multicarbon products in the CO2 reduction reaction (CO2RR) depends on the spin alignment of neighboring active sites, which requires a spin catalyst that facilitates electron transfer with antiparallel spins for enhanced C‐C coupling. Here, we design a radical‐contained spin catalyst (TEMPOL@HKUST‐1) to enhance CO2‐to‐ethylene conversion, in which spin‐disordered (SDO) and spin‐ordered (SO) phases co‐exist to construct an asymmetric spin configuration of neighboring active sites. The replacement of axially coordinated H2O molecules with TEMPOL radicals introduces spin‐spin interactions among the Cu(II) centers to form localized SO phases within the original H2O‐mediated SDO phases. Therefore, TEMPOL@HKUST‐1 derived catalyst exhibited an approximately two‐fold enhancement in ethylene selectivity during the CO2RR at ‐1.8 V versus Ag/AgCl compared to pristine HKUST‐1. In situ ATR‐SEIRAS spectra indicate that the spin configuration at asymmetric SO/SDO sites significantly reduces the kinetic barrier for *CO intermediate dimerization toward the ethylene product. The performance of the spin catalyst is further improved by spin alignment under a magnetic field, resulting in a maximum ethylene selectivity of more than 50%. The exploration of the spin‐polarized kinetics of the CO2RR provides a promising path for the development of novel spin electrocatalysts with superior performance.    
+Target conditioning is a crucial ingredient of high-power extreme ultraviolet (EUV) source operation in state-of-the-art nanolithography. It involves deforming tin microdroplets into tens of nanometer-thin sheets, sheets which are subsequently irradiated by intense CO2 laser radiation to form a hot, EUV-emitting plasma. Recent experiments have found that a substantial fraction of the initial droplet mass is lost in the deformation phase through fragmentation. The goal of the present study is to investigate, using radiation-hydrodynamic modeling, how variations in the sheet mass affect EUV source power and the laser-to-in-band conversion efficiency (CE). It is found that high-mass sheets can “feed” the plasma with sufficient mass to sustain the production of in-band-emitting charge states over the course of laser irradiation. Low-mass sheets, on the contrary, cannot supply enough mass to sustain this production over the pulse, thus leading to a reduction in in-band power and CE. The dependence of CE on laser energy and target thickness is quantified, and a rather weak reduction of CE with increasing laser energy for high-mass sheets is identified.    
 
     
 
@@ -1425,6 +1150,39 @@ Open access: True
 [Amos P. K. Tai](https://openalex.org/A5080814029), [David H. Y. Yung](https://openalex.org/A5012252047), [Timothy Lam](https://openalex.org/A5003770007), Geoscientific model development. 17(9)] 2024.https://doi.org/10.5194/gmd-17-3733-2024.
     
 Abstract. The newly developed offline land ecosystem model Terrestrial Ecosystem Model in R (TEMIR) version 1.0 is described here. This version of the model simulates plant ecophysiological (e.g., photosynthetic and stomatal) responses to varying meteorological conditions and concentrations of CO2 and ground-level ozone (O3) based on prescribed meteorological and atmospheric chemical inputs from various sources. Driven by the same meteorological data used in the GEOS-Chem chemical transport model, this allows asynchronously coupled experiments with GEOS-Chem simulations with unique coherency for investigating biosphere–atmosphere chemical interactions. TEMIR agrees well with FLUXNET site-level gross primary productivity (GPP) in terms of both the diurnal and monthly cycles (correlation coefficients R2>0.85 and R2>0.8, respectively) for most plant functional types (PFTs). Grass and shrub PFTs have larger biases due to generic model representations. The model performs best when driven by local site-level meteorology rather than reanalyzed gridded meteorology. Simulation using gridded meteorology agrees well for annual GPP in seasonality and spatial distribution with a global average of 134 Pg C yr−1. Application of Monin–Obukhov similarity theory to infer canopy conditions from gridded meteorology does not improve model performance, predicting an increase of +7 % in global GPP. Present-day O3 concentrations simulated by GEOS-Chem and an O3 damage scheme at high sensitivity show a 2 % reduction in global GPP with prominent reductions of up to 15 % in eastern China and the eastern USA. Regional correlations are generally unchanged when O3 is present and biases are reduced, especially for regions with high O3 damage. An increase in atmospheric CO2 concentration of 20 ppmv from the level in 2000 to the level in 2010 modestly decreases O3 damage due to reduced stomatal uptake, consistent with ecophysiological understanding. Our work showcases the utility of this version of TEMIR for evaluating biogeophysical responses of vegetation to changes in atmospheric composition and meteorological conditions.    
+
+    
+
+## Integrating geothermal energy in hungary: A case study on sustainable urban heating and emissions mitigation through the district heating infrastructure   
+
+OpenAlex: https://openalex.org/W4396841234    
+Open access: True
+    
+[David Strasszer](https://openalex.org/A5060146250), [George Xydis](https://openalex.org/A5057352472), Tunnelling and underground space technology. 149(None)] 2024.https://doi.org/10.1016/j.tust.2024.105804.
+    
+Hungary boasts exceptional geothermal capabilities, with an Earth's crust thermal gradient nearly double the global average. However, the current utilization of these resources is often one-sided and lacks careful consideration. This comprehensive study offers updated insights into Hungary's geothermal potential and its current energy utilization. By presenting a practical example and employing scenario-based analyses, this study demonstrates how basic calculations can guide investment decisions in geothermal infrastructure. The aim is to address the prevailing issue of cities and towns prioritizing fossil fuel-based energy sources, thereby overshadowing renewable energy alternatives, despite advancing technology. Notably, in the case of Székesfehérvár, it was determined that annual natural gas consumption could be reduced by an impressive 40–50%, leading to a substantial reduction of 5,000–9,200 tons of CO2 emissions, depending on the specific scenarios examined.    
+
+    
+
+## Tapping into fungal potential: Biodegradation of plastic and rubber by potent Fungi   
+
+OpenAlex: https://openalex.org/W4396835288    
+Open access: False
+    
+[S. S. Ibrahim](https://openalex.org/A5034271318), [Danny Ionescu](https://openalex.org/A5013625127), [Hans‐Peter Grossart](https://openalex.org/A5060434829), Science of the total environment. None(None)] 2024.https://doi.org/10.1016/j.scitotenv.2024.173188.
+    
+Plastic polymers are present in most aspects of routine daily life. Their increasing leakage into the environment poses a threat to environmental, animal, and human health. These polymers are often resistant to microbial degradation and are predicted to remain in the environment for tens to hundreds of years. Fungi have been shown to degrade complex polymers and are considered good candidates for bioremediation (biological pollutant reduction) of plastics. Therefore, we screened 18 selected fungal strains for their ability to degrade polyurethane (PU), polyethylene (PE), and tire rubber. As a proxy for plastic polymer mineralization, we quantified O2 consumption and CO2 production in an enclosed biodegradation system providing plastic as the sole carbon source. In contrast to most studies we demonstrated that the tested fungi attach to, and colonize the different plastic polymers without any pretreatment of the plastics and in the absence of sugars, which were suggested essential for priming the degradation process. Functional polymer groups identified by Fourier-transform infrared spectroscopy (FTIR), and changes in fungal morphology as seen in light and scanning electron microscopy (SEM) were used as indicators of fungal adaptation to growth on PU as a substrate. Thereby, SEM analysis revealed new morphological structures and deformation of the cell wall of several fungal strains when colonizing PU and utilizing this plastic polymer for cell growth. Strains of Fusarium, Penicillium, Botryotinia cinerea EN41, and Trichoderma demonstrated a high potential to degrade PU, rubber, and PE. Growing on PU, over 90 % of the O2 was consumed in <14 days with 300–500 ppm of CO2 generated in parallel. Our study highlights a high bioremediation potential of some fungal strains to efficiently degrade plastic polymers, largely dependent on plastic type.    
+
+    
+
+## The Critical Role of Energy Intensity in Decarbonizing ASEAN: Integrating Growth and Emissions Reductions   
+
+OpenAlex: https://openalex.org/W4396730639    
+Open access: True
+    
+[Setia Damayanti](https://openalex.org/A5008756697), [Eka Sudarmaji](https://openalex.org/A5073991003), [Herlan Masrio](https://openalex.org/A5097027706), International journal of energy economics and policy. 14(3)] 2024.https://doi.org/10.32479/ijeep.15059 ([pdf](https://econjournals.com/index.php/ijeep/article/download/15059/7869)).
+    
+This research analyzes drivers of CO2 emissions across ASEAN countries from 1971-2017 to inform effective policies for sustainable decarbonized development. The goal is to identify critical factors influencing emissions growth and reductions to guide strategic climate mitigation planning. Data includes 3128 emissions, GDP, population, and energy consumption observations from 9 ASEAN nations. Results using the Kaya Index and Logarithmic Mean Divisia Index decomposition reveal GDP growth and population as primary drivers of increasing emissions, while energy efficiency dampens growth. Indonesia saw the highest emissions growth, driven by population and economic expansion. Thailand's phenomenal GDP growth of 3003.7% led to its emission increases. Singapore and the Philippines achieved notable reductions. Findings suggest integrated policies like clean energy, efficiency gains, infrastructure planning, and low-carbon economic reform are needed. Transitioning towards affordable clean energy systems with proactive leadership can enable ASEAN to sustain growth while mitigating climate risks. Further research should identify optimal policy mixes to maximize socio-economic progress and welfare while meeting urgent emission targets tailored to each nation. This study provides vital insights into key factors influencing ASEAN emissions and highlights pathways towards sustainable decarbonized development. The analysis of historical trends aims to inform strategic policymaking for decarbonization.    
 
     
 
@@ -1483,17 +1241,6 @@ Understanding structure–property relationships in atomically precise metal nan
 
     
 
-## Integrating geothermal energy in hungary: A case study on sustainable urban heating and emissions mitigation through the district heating infrastructure   
-
-OpenAlex: https://openalex.org/W4396841234    
-Open access: True
-    
-[David Strasszer](https://openalex.org/A5060146250), [George Xydis](https://openalex.org/A5057352472), Tunnelling and underground space technology. 149(None)] 2024.https://doi.org/10.1016/j.tust.2024.105804.
-    
-Hungary boasts exceptional geothermal capabilities, with an Earth's crust thermal gradient nearly double the global average. However, the current utilization of these resources is often one-sided and lacks careful consideration. This comprehensive study offers updated insights into Hungary's geothermal potential and its current energy utilization. By presenting a practical example and employing scenario-based analyses, this study demonstrates how basic calculations can guide investment decisions in geothermal infrastructure. The aim is to address the prevailing issue of cities and towns prioritizing fossil fuel-based energy sources, thereby overshadowing renewable energy alternatives, despite advancing technology. Notably, in the case of Székesfehérvár, it was determined that annual natural gas consumption could be reduced by an impressive 40–50%, leading to a substantial reduction of 5,000–9,200 tons of CO2 emissions, depending on the specific scenarios examined.    
-
-    
-
 ## Preparation of high-performance multiphase heterostructures IT-SOFC cathode materials by Pr-induced in situ assembly   
 
 OpenAlex: https://openalex.org/W4396807055    
@@ -1505,25 +1252,14 @@ Here, in situ assembly in La0.6Sr0.4Co0.2Fe0.8O3-δ and CoFe2O4 composite (LSCFC
 
     
 
-## Tapping into fungal potential: Biodegradation of plastic and rubber by potent Fungi   
+## An Online Randomised Controlled Trial of Price and Non-Price Interventions to Promote Sustainable Food Choices on Food Delivery Platforms   
 
-OpenAlex: https://openalex.org/W4396835288    
+OpenAlex: https://openalex.org/W4396783656    
 Open access: False
     
-[S. S. Ibrahim](https://openalex.org/A5034271318), [Danny Ionescu](https://openalex.org/A5013625127), [Hans‐Peter Grossart](https://openalex.org/A5060434829), Science of the total environment. None(None)] 2024.https://doi.org/10.1016/j.scitotenv.2024.173188.
+[Andreas Kontoleon](https://openalex.org/A5083421851), [Elisabeth Gsottbauer](https://openalex.org/A5027295257), [James Farrington](https://openalex.org/A5083804697), [Sherrie E. Human](https://openalex.org/A5047884603), [Lucia A. Reisch](https://openalex.org/A5010399782), Social Science Research Network. None(None)] 2024.https://doi.org/10.2139/ssrn.4818247.
     
-Plastic polymers are present in most aspects of routine daily life. Their increasing leakage into the environment poses a threat to environmental, animal, and human health. These polymers are often resistant to microbial degradation and are predicted to remain in the environment for tens to hundreds of years. Fungi have been shown to degrade complex polymers and are considered good candidates for bioremediation (biological pollutant reduction) of plastics. Therefore, we screened 18 selected fungal strains for their ability to degrade polyurethane (PU), polyethylene (PE), and tire rubber. As a proxy for plastic polymer mineralization, we quantified O2 consumption and CO2 production in an enclosed biodegradation system providing plastic as the sole carbon source. In contrast to most studies we demonstrated that the tested fungi attach to, and colonize the different plastic polymers without any pretreatment of the plastics and in the absence of sugars, which were suggested essential for priming the degradation process. Functional polymer groups identified by Fourier-transform infrared spectroscopy (FTIR), and changes in fungal morphology as seen in light and scanning electron microscopy (SEM) were used as indicators of fungal adaptation to growth on PU as a substrate. Thereby, SEM analysis revealed new morphological structures and deformation of the cell wall of several fungal strains when colonizing PU and utilizing this plastic polymer for cell growth. Strains of Fusarium, Penicillium, Botryotinia cinerea EN41, and Trichoderma demonstrated a high potential to degrade PU, rubber, and PE. Growing on PU, over 90 % of the O2 was consumed in <14 days with 300–500 ppm of CO2 generated in parallel. Our study highlights a high bioremediation potential of some fungal strains to efficiently degrade plastic polymers, largely dependent on plastic type.    
-
-    
-
-## The Critical Role of Energy Intensity in Decarbonizing ASEAN: Integrating Growth and Emissions Reductions   
-
-OpenAlex: https://openalex.org/W4396730639    
-Open access: True
-    
-[Setia Damayanti](https://openalex.org/A5008756697), [Eka Sudarmaji](https://openalex.org/A5073991003), [Herlan Masrio](https://openalex.org/A5097027706), International journal of energy economics and policy. 14(3)] 2024.https://doi.org/10.32479/ijeep.15059 ([pdf](https://econjournals.com/index.php/ijeep/article/download/15059/7869)).
-    
-This research analyzes drivers of CO2 emissions across ASEAN countries from 1971-2017 to inform effective policies for sustainable decarbonized development. The goal is to identify critical factors influencing emissions growth and reductions to guide strategic climate mitigation planning. Data includes 3128 emissions, GDP, population, and energy consumption observations from 9 ASEAN nations. Results using the Kaya Index and Logarithmic Mean Divisia Index decomposition reveal GDP growth and population as primary drivers of increasing emissions, while energy efficiency dampens growth. Indonesia saw the highest emissions growth, driven by population and economic expansion. Thailand's phenomenal GDP growth of 3003.7% led to its emission increases. Singapore and the Philippines achieved notable reductions. Findings suggest integrated policies like clean energy, efficiency gains, infrastructure planning, and low-carbon economic reform are needed. Transitioning towards affordable clean energy systems with proactive leadership can enable ASEAN to sustain growth while mitigating climate risks. Further research should identify optimal policy mixes to maximize socio-economic progress and welfare while meeting urgent emission targets tailored to each nation. This study provides vital insights into key factors influencing ASEAN emissions and highlights pathways towards sustainable decarbonized development. The analysis of historical trends aims to inform strategic policymaking for decarbonization.    
+Food-delivery platforms provide unique opportunities to design user interfaces that encourage healthy, low-carbon meal choices. We conducted an incentivised online randomised controlled trial with 4,008 participants using a simulated food delivery app to test three potential interventions: a sign-posted meat tax, a carbon-footprint label, and a choice-architecture intervention that changed the order of the menu so that the lowest carbon-impact restaurants and dishes were presented first. Results show that only the choice-architecture nudge significantly reduced the average meal carbon footprint—by 0.3 kg/CO2e per order (12%), driven by a 5.6 percentage point (13%) reduction in high-carbon meal choices. Furthermore, menu repositioning resulted in healthier meal choices, with greater nutritional value and fewer calories, while significantly increasing self-reported satisfaction. Back-of-the-envelope calculations suggest that menu repositioning would be a highly cost-effective policy instrument if implemented at scale, with an expected return on investment in the range of £1.28 to £3.85 per metric ton of avoided CO2 emissions, depending on implementation costs.    
 
     
 
@@ -1560,28 +1296,6 @@ There is a lack of research in the literature on the application of nanoparticle
 
     
 
-## Characteristics and influencing factors of CO<sub>2</sub> flux in subtropical urban lakes and river   
-
-OpenAlex: https://openalex.org/W4396681385    
-Open access: True
-    
-[Jiming Liu](https://openalex.org/A5062375227), [Yinglin Zhao](https://openalex.org/A5000540245), [Qitao Xiao](https://openalex.org/A5007225650), [Qungang Qi](https://openalex.org/A5074873404), [Hu Youxin](https://openalex.org/A5096612366), [Zhengjie Li](https://openalex.org/A5082509340), [Yi Xinyu](https://openalex.org/A5096645552), [Wenjing Lu](https://openalex.org/A5051592561), Hupo kexue. 36(2)] 2024.https://doi.org/10.18307/2024.0227 ([pdf](http://www.jlakes.org/ch/reader/create_pdf.aspx?file_no=20240215&flag=1&year_id=2024&quarter_id=2)).
-    
-湖泊、河流等内陆水体是连接陆地生态系统和海洋的"长程碳环路"的重要节点,也是温室气体二氧化碳(CO2)排放源,在调节陆地、海洋间的碳迁移转换中发挥着重要作用。相对于自然水体,城市水体因面积小、水深浅且受监测方法限制,水-气界面碳通量经常被忽略。为探讨我国亚热带城市水体温室气体排放特征,本研究以湖南省长沙市典型城市水体,包括洋湖、西湖、松雅湖、月湖4个湖泊和湘江长沙段为研究对象,分别于2022年4和10月采用光化学反馈-腔增强吸收光谱法(OF-CEAS)和扩散模型法对水-气界面CO2通量进行对比测定。结果表明,长沙城市湖泊与河流春季为CO2排放源,秋季为吸收汇,河流水-气界面CO2通量呈显著季节差异。河湖之间CO2通量在春季表现为显著差异,秋季差异不显著。CO2通量与水体溶解氧、水体总氮浓度等呈显著正相关。2种方法的CO2通量对比测定在湖泊上显著相关,但对河流而言相关性不显著。研究揭示的城市湖泊与河流CO2气体的排放特征有利于深入探究城市水体碳的迁移转化,可对全面了解全球气候变化过程和河湖湿地温室气体减排和调控提供科学支撑。;Inland water bodies, such as lakes and rivers, are important nodes of the long-range carbon loop connecting terrestrial ecosystems and oceans, as well as sources of greenhouse gas carbon dioxide (CO2) emissions. Inland water bodies also play an important role in regulating carbon migration between land and sea. Compared with natural water bodies, carbon fluxes at the water-air interface are often overlooked in urban water due to their small sizes, shallow depths, and limitations in monitoring methods. In order to explore the greenhouse gas emission characteristics of such water bodies in China, this study took four typical urban water bodies in Changsha, Hunan Province, including Lake Yang, Lake West, Lake Songya and Lake Yue, and Changsha section of Xiangjiang River as research objects. The CO2 fluxes at the water-gas interface were measured by laser-based gas analyzer that used optical feedback-cavity-enhanced absorption spectroscopy (OF-CEAS) and diffusion model in April and October 2022, respectively. Results showed that lakes and rivers in Changsha city were CO2 sources in spring but CO2 sinks in fall, and there was a significant seasonal difference in CO2 fluxes at the river water-air interface. Moreover, the CO2 flux was positively correlated with the content of dissolved oxygen and total nitrogen. The comparative determination of CO2 fluxes between the two methods was significantly correlated on lakes, but not on rivers. The study reveals that the CO2 emission characteristics of urban lakes and rivers are beneficial to the in-depth investigation of carbon transport and transformation, which can provide scientific support for the comprehensive understanding of global climate change processes and the reduction and regulation of greenhouse gas emissions in inland wetlands.    
-
-    
-
-## An Online Randomised Controlled Trial of Price and Non-Price Interventions to Promote Sustainable Food Choices on Food Delivery Platforms   
-
-OpenAlex: https://openalex.org/W4396783656    
-Open access: False
-    
-[Andreas Kontoleon](https://openalex.org/A5083421851), [Elisabeth Gsottbauer](https://openalex.org/A5027295257), [James Farrington](https://openalex.org/A5083804697), [Sherrie E. Human](https://openalex.org/A5047884603), [Lucia A. Reisch](https://openalex.org/A5010399782), Social Science Research Network. None(None)] 2024.https://doi.org/10.2139/ssrn.4818247.
-    
-Food-delivery platforms provide unique opportunities to design user interfaces that encourage healthy, low-carbon meal choices. We conducted an incentivised online randomised controlled trial with 4,008 participants using a simulated food delivery app to test three potential interventions: a sign-posted meat tax, a carbon-footprint label, and a choice-architecture intervention that changed the order of the menu so that the lowest carbon-impact restaurants and dishes were presented first. Results show that only the choice-architecture nudge significantly reduced the average meal carbon footprint—by 0.3 kg/CO2e per order (12%), driven by a 5.6 percentage point (13%) reduction in high-carbon meal choices. Furthermore, menu repositioning resulted in healthier meal choices, with greater nutritional value and fewer calories, while significantly increasing self-reported satisfaction. Back-of-the-envelope calculations suggest that menu repositioning would be a highly cost-effective policy instrument if implemented at scale, with an expected return on investment in the range of £1.28 to £3.85 per metric ton of avoided CO2 emissions, depending on implementation costs.    
-
-    
-
 ## Comparative Life-Cycle Assessment of Steel and GFRP Rebars for Procurement Sustainability in the Construction Industry   
 
 OpenAlex: https://openalex.org/W4396707701    
@@ -1590,17 +1304,6 @@ Open access: True
 [Sarinah Binti Omar](https://openalex.org/A5026378133), [Abdelhakim Abdelhadi](https://openalex.org/A5060247214), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16103899 ([pdf](https://www.mdpi.com/2071-1050/16/10/3899/pdf?version=1715091952)).
     
 This research examines the potential impact on the procurement sustainability of replacing steel rebars with Glass Fiber-Reinforced Polymer (GFRP) rebars in the construction industry, focusing on screed pre-cast hollow core topping in a project in the Kingdom of Saudi Arabia. A comparative life cycle assessment (LCA) is conducted using One Click LCA (Version 0.26.0) software for cradle-to-grave analysis. The assessment covers various stages, including raw material extraction, manufacturing, transportation, usage, and recycling. The comprehensive LCA highlights GFRP rebars as a more sustainable alternative to steel, emitting 17% less CO2 equivalent (2e) per kilogram throughout its life cycle. Additionally, GFRP requires substantially less mass compared to steel, resulting in a dramatic reduction in CO2e emissions ranging from 77.89% to 85.26% across different spacing configurations in real-world construction scenarios, as presented in this research case study. These findings suggest that GFRP rebars offer a promising solution for reducing the environmental impact of construction activities while potentially yielding significant cost savings over the project’s life cycle. Integrating environmental considerations into material selection processes can prioritize sustainability without compromising performance or safety, contributing to a more sustainable future for the construction industry globally.    
-
-    
-
-## The ESG Path to Low-Carbon Footprint: Recommended Practices and Lessons Learnt from Electrifying Recovery of the Giant Shale-Gas Basin in China   
-
-OpenAlex: https://openalex.org/W4396703360    
-Open access: False
-    
-[Zheng Tong](https://openalex.org/A5023673003), [Shaolin Zhang](https://openalex.org/A5080004695), [Shuai Li](https://openalex.org/A5046169117), [Xiaoqi Wang](https://openalex.org/A5052493382), [Zhigang Zhang](https://openalex.org/A5003125617), [Ran Wei](https://openalex.org/A5038956669), [Xinzhong Wang](https://openalex.org/A5009430986), [Qiang Sun](https://openalex.org/A5001628588), [Dingwei Weng](https://openalex.org/A5014084550), No host. None(None)] 2024.https://doi.org/10.2118/219111-ms.
-    
-Abstract The strategic target and path to peak CO2 emissions and carbon neutrality, which have been initiated by several countries over the last decade, considerably affected whole energy industry especially oil and natural gas fields. The recoverable shale-gas reserves of Sichuan Basin in China is beyond 1.0×1012 m3. Environmental pollution and carbon emission issues caused by diesel-powered operations cannot be ignored. The electrification of upstream operations has been concerned and applied only in production, processing and transportation. Electrification work towards shale gas was still faced with poor economy when large-power operations such as drilling and fracturing are performed. Due to unpredictable developing progress and high energy-consuming operation, power supply and load demand forecast is quite challenging. Existing operations using coal-based power generation negatively affects environmental-social-governance (ESG) initiatives without green renewable energy. One ESG path to green production and recommended practices towards electrifying recovery were proposed in this paper. Fully electric-powered equipment (2500HHP to 7000HHP pumping units, blending units, manifold etc.) was widely used with 35kV customized power grids. Due to great hydropower in Sichuan Basin, power generation exhibits seasonal fluctuation and focused on peak electricity consumption for civilian use in summer and winter. The hydropower and energy-storage sharing with data centers was applied to deal with seasonal energy supply and fluctuating load especially fracturing operations with great economic advantages. Electrical load variation and power gap between supply and demand were precisely forecasted through machine-learning algorithms under different conditions of drilling and fracturing. At the end of 2022 shale-gas production in Sichuan Basin has increased to 1.39×1010 m3. Hydropower proportion has accounted for 72% of power consumption for shale-gas development with 19 newly-constructed transformer substations, 1145.7 km of 35kV grids and 1197 MVA of grid capacity. The fully electric-powered operation reached almost 40% of all operating pads. It was estimated that hydrocarbon fuels of 6.1×105 ton were replaced and CO2 emission reduction reached more than 7.7×105 ton so far. The detailed recommended practices and lessons learnt from electrifying shale-gas recovery were guidable for the recovery of other unconventional resources.    
 
     
 
@@ -1615,6 +1318,17 @@ Rice husk ash (RHA) is agricultural waste with high silica content that has had 
 
     
 
+## The ESG Path to Low-Carbon Footprint: Recommended Practices and Lessons Learnt from Electrifying Recovery of the Giant Shale-Gas Basin in China   
+
+OpenAlex: https://openalex.org/W4396703360    
+Open access: False
+    
+[Zheng Tong](https://openalex.org/A5023673003), [Shaolin Zhang](https://openalex.org/A5080004695), [Shuai Li](https://openalex.org/A5046169117), [Xiaoqi Wang](https://openalex.org/A5052493382), [Zhigang Zhang](https://openalex.org/A5003125617), [Ran Wei](https://openalex.org/A5038956669), [Xinzhong Wang](https://openalex.org/A5009430986), [Qiang Sun](https://openalex.org/A5001628588), [Dingwei Weng](https://openalex.org/A5014084550), No host. None(None)] 2024.https://doi.org/10.2118/219111-ms.
+    
+Abstract The strategic target and path to peak CO2 emissions and carbon neutrality, which have been initiated by several countries over the last decade, considerably affected whole energy industry especially oil and natural gas fields. The recoverable shale-gas reserves of Sichuan Basin in China is beyond 1.0×1012 m3. Environmental pollution and carbon emission issues caused by diesel-powered operations cannot be ignored. The electrification of upstream operations has been concerned and applied only in production, processing and transportation. Electrification work towards shale gas was still faced with poor economy when large-power operations such as drilling and fracturing are performed. Due to unpredictable developing progress and high energy-consuming operation, power supply and load demand forecast is quite challenging. Existing operations using coal-based power generation negatively affects environmental-social-governance (ESG) initiatives without green renewable energy. One ESG path to green production and recommended practices towards electrifying recovery were proposed in this paper. Fully electric-powered equipment (2500HHP to 7000HHP pumping units, blending units, manifold etc.) was widely used with 35kV customized power grids. Due to great hydropower in Sichuan Basin, power generation exhibits seasonal fluctuation and focused on peak electricity consumption for civilian use in summer and winter. The hydropower and energy-storage sharing with data centers was applied to deal with seasonal energy supply and fluctuating load especially fracturing operations with great economic advantages. Electrical load variation and power gap between supply and demand were precisely forecasted through machine-learning algorithms under different conditions of drilling and fracturing. At the end of 2022 shale-gas production in Sichuan Basin has increased to 1.39×1010 m3. Hydropower proportion has accounted for 72% of power consumption for shale-gas development with 19 newly-constructed transformer substations, 1145.7 km of 35kV grids and 1197 MVA of grid capacity. The fully electric-powered operation reached almost 40% of all operating pads. It was estimated that hydrocarbon fuels of 6.1×105 ton were replaced and CO2 emission reduction reached more than 7.7×105 ton so far. The detailed recommended practices and lessons learnt from electrifying shale-gas recovery were guidable for the recovery of other unconventional resources.    
+
+    
+
 ## GRE Lined Carbon Steel Tubing Performance in Sweet Corrosion Environments for Wells Equipped with Electrical Submersible Pumps   
 
 OpenAlex: https://openalex.org/W4396703419    
@@ -1623,50 +1337,6 @@ Open access: False
 [Abdullatif Al-Majdli](https://openalex.org/A5079011662), [Badriya Al-Methen](https://openalex.org/A5043236223), [B. W. Al-Hasash](https://openalex.org/A5096745479), [Moute'a Al-Mutairi](https://openalex.org/A5068483733), [V. Rajagopalan](https://openalex.org/A5008583920), [Richard Suryadi](https://openalex.org/A5073227802), [H. Al-Ajeel](https://openalex.org/A5001410179), [Naiyf S. Alharbi](https://openalex.org/A5031956303), No host. None(None)] 2024.https://doi.org/10.2118/219084-ms.
     
 Abstract The majority of oil production at the Kuwait Oil Company (KOC) rely on Electrical Submersible Pumping (ESP) systems. One such reservoir in Kuwait with over than 120 producing well equipped with electrical submersible Pumps are exposed to a harsh production environments including corrosive fluids (sweet corrosion due to presence of Co2). Historical data shows that over 40% of all pulled Electrical Submersible Pumps where dismantle inspection and failure analysis (DIFA) were performed in the past 4 to 5 years within the field have failed due to corrosion within the well completion (mainly corrosion in the tubing) or in Electrical Submersible Pump components. When analyzing existing data (reservoir, design, equipment specifications, operation and DIFA) the majority of failed wells equipped with Electrical Submersible Pump show signs of corrosion in the tubing although they rarely appear on the ESP components. Further analysis shows that 80% of these completion (mainly tubing) failures occur between 4 to 18 months where the tubing used in these cases are all found to be of carbon steel metallurgy. Sweet corrosion is one of the major issues for wells equipped with electrical submersible Pump in one of reservoir located in Kuwait. An increase in water cut percentages in the reservoir has led to increased CO2 corrosion rate in the saline formation water (high chloride level). The collected data shows that more than 40% of all pulled electrical submersible Pumps where DIFA have been performed were due to corrosion in the completion components (mainly corrosion hole in the tubing). As a proactive measure, KOC have been installing Internally Glass Reinforced Epoxy (GRE) lined carbon steel tubing for wells that have corrosion related tubing failures. In additional, KOC decided to enhance the Electrical Submersible Pump components specifications to mitigate the risk related to sweet corrosion. This paper shows a field study for 36 cases where Internally Glass Reinforced Epoxy lined carbon steel tubing were used on existing failed wells due to corrosion to evaluate the effectiveness of using GRE lined tubing when exposed to the same harsh environments (sweet corrosion) and the resulting equipment run life. When compared with conventional carbon steel tubing, a significant increase in run life and reduction of numbers of completion failures are recorded. Over all, the average run life for all cases has improved by over 422 days. This study will help ESP operators facing similar challenges to understand the effectiveness of using Internally Glass Reinforced Epoxy lined carbon steel tubing as a replacement for conventional carbon steel tubing towards mitigating sweet corrosion environments.    
-
-    
-
-## (4e/Sustainability) Analysis of Active Double Slope Solar Still with Internal Sidewall Reflectors, Cuo-Nanoparticle Mixed Pcm, Fins and Thermoelectric Generator   
-
-OpenAlex: https://openalex.org/W4396713853    
-Open access: False
-    
-[Priyankar Singha](https://openalex.org/A5061698415), [Md. Shahriar Mohtasim](https://openalex.org/A5093369205), [Md. Golam Kibria](https://openalex.org/A5089695229), [A B M Arafat Hossain](https://openalex.org/A5036771365), [R. A. Beg](https://openalex.org/A5040499016), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4819957.
-    
-Radiation from the sun, the level of water, insulating material, and the temperature differential across the water and glass all affect the effectiveness of solar still. In this study, the effect of internal sidewall reflector (ISR), simultaneous thermoelectric heating and cooling system (STHCS), hollow circular fins (HCFs), and nano-CuO mixed PCM (NMPCM) in a double slope SS of four cases: case-I includes SS, case-II includes SS along with STCHS and ISR, case-III includes SS along with STCHS, ISR, and HCFs, case-IV includes SS along with STCHS, ISR, HCFs and NMPCM have been investigated. The evaluations were conducted in Rajshahi, Bangladesh, located at latitude 24°22′N and longitude 88°36′E. The design modification in case IV significantly increases production, a figure that is approximately 118.70% more than the case I, with a daily cumulative distillate of 2.10 L/m2. In comparison to cases II and III, exergy efficiency of case IV is 131.33 and 95.92% higher, respectively. Feasibility of modified SS in case IV is observed for having the 74.89% incremental exergo-economic factor. For cases II, III, and IV, respectively, a reduction of 7.22, 7.90, and 8.41 tons of CO2 emissions is possible attained over lifetime and the payback period is reduced 37.31% compared to cases I. After conducting sustainability analysis this made a crystal-clear picture that case IV shows significant improvements than the others.    
-
-    
-
-## The Involvement of Arbuscular Mycorrhizal Fungus in Ameliorating the Impact of Salinity on Photosynthetic Efficiency, Water Relations, and Homeostatic Balance of Pistachio (Pistacia vera) Plants   
-
-OpenAlex: https://openalex.org/W4396677793    
-Open access: True
-    
-[Hanieh Hamzehzadeh](https://openalex.org/A5096612114), [Hossein Abbaspour](https://openalex.org/A5059826395), [Akbar Safipour Afshar](https://openalex.org/A5014995849), [Seyed Mohammad Mahdi Hamdi](https://openalex.org/A5073570272), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4307464/v1 ([pdf](https://www.researchsquare.com/article/rs-4307464/latest.pdf)).
-    
-Abstract High salinity levels pose a significant challenge to agricultural productivity, as it impairs photosynthesis, water and nutrient uptake, and cellular homeostasis in plants. Arbuscular mycorrhizal fungi (AMF) are symbiotic microorganisms that can improve plant tolerance to salinity, but their effects on plant photosynthetic efficiency, especially of Photosystem II, are poorly understood. This study examined the impact of AMF inoculation on the growth, physiology, and biochemistry of pistachio plants exposed to salt stress in a greenhouse experiment. The experimental findings demonstrated that that AMF symbiosis increased the growth and the K, Ca, Mg, P, K/Na, and Ca/Na ratios, and reduced the Na and Cl concentrations, of pistachio plants under salinity. AMF inoculation also decreased the electrolyte leakage, malondialdehyde, and hydrogen peroxide levels, and increased the relative water content, water use efficiency, glycine betaine, soluble sugars, alpha-tocopherol, and carotenoids of pistachio plants under salinity. Furthermore, AMF inoculation mitigated the salinity-induced reduction in chlorophyll content, maximum quantum efficiency of Photosystem II (Fv/Fm), effective quantum efficiency of Photosystem II (Fv’/Fm’), and photochemical quenching (qP), and the salinity-induced increase in non-photochemical quenching (NPQ) and chlorophyll a/b ratio. Additionally, AMF inoculation improved the net photosynthesis rate, stomatal conductance, and transpiration rate, and reduced the intercellular CO2 concentration, of pistachio plants under salinity. These findings indicate that AMF inoculation enhances the photosynthetic capacity, water relations, and ion homeostasis of pistachio plants, and confers salinity tolerance and improved growth and performance.    
-
-    
-
-## Velocity-selective arterial spin labelling bolus duration measurements: Implications for consensus recommendations   
-
-OpenAlex: https://openalex.org/W4396733781    
-Open access: True
-    
-[Ian D. Driver](https://openalex.org/A5016531015), [Harold L. Chandler](https://openalex.org/A5021814533), [Eleonora Patitucci](https://openalex.org/A5011364537), [Elizabeth N. Morgan](https://openalex.org/A5002475050), [Kevin Murphy](https://openalex.org/A5057824637), [Stefano Zappalá](https://openalex.org/A5068186860), [Richard G. Wise](https://openalex.org/A5059929148), [Michael Germuska](https://openalex.org/A5050941263), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.05.04.592549 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/05/07/2024.05.04.592549.full.pdf)).
-    
-Velocity-selective arterial spin labelling (VSASL) MRI is insensitive to arterial transit time. This is an advantage over other perfusion measurements, where long arterial transit times can lead to bias. Therefore, VSASL can be used to study perfusion in the presence of long arterial transit times, such as in the ageing brain, in vascular pathologies, and cancer, or where arterial transit time changes, such as during measurement of cerebrovascular reactivity (CVR). However, when calculating perfusion (cerebral blood flow, CBF, in the brain) from VSASL signal, it is assumed that images are acquired before the trailing edge of the labelled blood has arrived in the imaging slice. The arrival of the trailing edge of the labelled bolus of blood will cause an underestimation of perfusion. Here we measure bolus duration in young, healthy human brains, both at rest and during elevated CBF. Grey matter bolus duration was 1.61 +/- 0.31 s, but there was a large spatial heterogeneity, with bolus duration being lower in anterior brain regions, with some areas having bolus duration < 1.2 s. We place these results in context of recommendations from a recent consensus paper, which recommends imaging 1.4 s after the label, potentially underestimating CBF in anterior regions. Further, we observed a 0.23 +/- 0.12 s reduction in grey matter bolus duration with 5% CO2 inhalation. These results can be used to inform the experimental design of future VSASL studies, to avoid underestimating perfusion by imaging after the arrival of the trailing edge of the labelled bolus.    
-
-    
-
-## Exploring equality and sustainability trade-offs of energy transition outcomes in the United States in 2050   
-
-OpenAlex: https://openalex.org/W4396820968    
-Open access: False
-    
-[Teagan Goforth](https://openalex.org/A5008157834), [Destenie Nock](https://openalex.org/A5045531014), [M. C. Brown](https://openalex.org/A5039995601), [Tapajyoti Ghosh](https://openalex.org/A5083165776), [Patrick Lamers](https://openalex.org/A5077036890), Applied energy. 367(None)] 2024.https://doi.org/10.1016/j.apenergy.2024.123376.
-    
-With increasing focus on equitable and just energy transition, it is critical to understand the trade-offs of different decarbonization outcomes across economic, environmental, and social sustainability criteria. In this analysis, we use a multi-criteria decision analysis to quantify sustainability outcomes across 32 decarbonization outcomes in 2050 in the U.S. The economic sustainability criteria we use are system cost, national average retail rate, and electricity system employment. The environmental sustainability criteria we use are life cycle greenhouse gas emissions, life cycle water depletion, life cycle land transformation, and air pollution fatalities. The social sustainability (distributional impacts) criteria we use are retail rate equality across states, electricity employment equality across low-income households, and air pollution disparities across census tracts. We evaluate performance across these criteria under eleven different stakeholder preference scenarios. We find that decarbonization policies with indefinitely extended tax credits have the highest sustainability score under equal criteria weighting, with greater investments in renewable energy technologies, and result in better environmental, system cost, job, and air pollution disparities compared to mid-case scenarios, that only include current policies and CO2 reduction targets. We also see that our multi-criteria decision analysis identifies decarbonization outcomes that would not have been identified as optimal under a single objective, which highlights the importance of trade-off analyses to understand decarbonization outcomes more holistically.    
 
     
 
@@ -1689,6 +1359,39 @@ Open access: True
 [Peng Wang](https://openalex.org/A5049078993), [Zhanghuang Ye](https://openalex.org/A5028817317), [Xiangping Zong](https://openalex.org/A5047028813), No host. None(None)] 2024.https://doi.org/10.20944/preprints202405.0369.v1.
     
 The Shimensi super-large tungsten polymetallic deposit is located in Late Jurassic- Early Cretaceous Porphyry-Skarn tungsten ore belt in the south Yangtze metallogenic belt. There are 3 types of mineralization: veinlet-disseminated type, thick quartze vein type and hydrothermal crypto-explosive breccia type. Based on geological studies, this paper presents new petrographic, microthermometric, laser Raman spectroscopic and hydrogen and oxygen isotope research of the fluid inclusions from the deposit. The results show that there are five different types of fluid inclusions: liquid-rich inclusions, vapor-rich inclusions, pure liquid inclusions, pure vapor inclusions, and fluid inclusions containing a solid crystal. The homogenization temperatures of the fluid inclusion range from 140℃-270℃, the salinities are 3%-5% NaCleq and the densities of ore-forming fluid range from 0.64 g/cm3 to 0.99 g/cm3. For the analyses of Laser Raman spectroscopic, the ore-forming fluids can be approximated by a Ca2+-Na+-SO42--Cl- fluid system with small amount of CO2, CH4 and N2. Otherwise, the datas of the pressure, pH and Eh show a fluid metallogenic environment of low pressure, weak acid and weak reduction. The values of the homogenization temperature in 3 types of orebodies suggest that the mineralization is characterized by the decrease of the temperature under the condition of the fluid immiscibility. The H-O isotope values are interpreted to indicate that the ore-forming fluids are mainly composed of magmatic water, and also the meteoric water was added with the process of the magma rising.    
+
+    
+
+## (4e/Sustainability) Analysis of Active Double Slope Solar Still with Internal Sidewall Reflectors, Cuo-Nanoparticle Mixed Pcm, Fins and Thermoelectric Generator   
+
+OpenAlex: https://openalex.org/W4396713853    
+Open access: False
+    
+[Priyankar Singha](https://openalex.org/A5061698415), [Md. Shahriar Mohtasim](https://openalex.org/A5093369205), [Md. Golam Kibria](https://openalex.org/A5089695229), [A B M Arafat Hossain](https://openalex.org/A5036771365), [R. A. Beg](https://openalex.org/A5040499016), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4819957.
+    
+Radiation from the sun, the level of water, insulating material, and the temperature differential across the water and glass all affect the effectiveness of solar still. In this study, the effect of internal sidewall reflector (ISR), simultaneous thermoelectric heating and cooling system (STHCS), hollow circular fins (HCFs), and nano-CuO mixed PCM (NMPCM) in a double slope SS of four cases: case-I includes SS, case-II includes SS along with STCHS and ISR, case-III includes SS along with STCHS, ISR, and HCFs, case-IV includes SS along with STCHS, ISR, HCFs and NMPCM have been investigated. The evaluations were conducted in Rajshahi, Bangladesh, located at latitude 24°22′N and longitude 88°36′E. The design modification in case IV significantly increases production, a figure that is approximately 118.70% more than the case I, with a daily cumulative distillate of 2.10 L/m2. In comparison to cases II and III, exergy efficiency of case IV is 131.33 and 95.92% higher, respectively. Feasibility of modified SS in case IV is observed for having the 74.89% incremental exergo-economic factor. For cases II, III, and IV, respectively, a reduction of 7.22, 7.90, and 8.41 tons of CO2 emissions is possible attained over lifetime and the payback period is reduced 37.31% compared to cases I. After conducting sustainability analysis this made a crystal-clear picture that case IV shows significant improvements than the others.    
+
+    
+
+## Velocity-selective arterial spin labelling bolus duration measurements: Implications for consensus recommendations   
+
+OpenAlex: https://openalex.org/W4396733781    
+Open access: True
+    
+[Ian D. Driver](https://openalex.org/A5016531015), [Harold L. Chandler](https://openalex.org/A5021814533), [Eleonora Patitucci](https://openalex.org/A5011364537), [Elizabeth N. Morgan](https://openalex.org/A5002475050), [Kevin Murphy](https://openalex.org/A5057824637), [Stefano Zappalá](https://openalex.org/A5068186860), [Richard G. Wise](https://openalex.org/A5059929148), [Michael Germuska](https://openalex.org/A5050941263), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.05.04.592549 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/05/07/2024.05.04.592549.full.pdf)).
+    
+Velocity-selective arterial spin labelling (VSASL) MRI is insensitive to arterial transit time. This is an advantage over other perfusion measurements, where long arterial transit times can lead to bias. Therefore, VSASL can be used to study perfusion in the presence of long arterial transit times, such as in the ageing brain, in vascular pathologies, and cancer, or where arterial transit time changes, such as during measurement of cerebrovascular reactivity (CVR). However, when calculating perfusion (cerebral blood flow, CBF, in the brain) from VSASL signal, it is assumed that images are acquired before the trailing edge of the labelled blood has arrived in the imaging slice. The arrival of the trailing edge of the labelled bolus of blood will cause an underestimation of perfusion. Here we measure bolus duration in young, healthy human brains, both at rest and during elevated CBF. Grey matter bolus duration was 1.61 +/- 0.31 s, but there was a large spatial heterogeneity, with bolus duration being lower in anterior brain regions, with some areas having bolus duration < 1.2 s. We place these results in context of recommendations from a recent consensus paper, which recommends imaging 1.4 s after the label, potentially underestimating CBF in anterior regions. Further, we observed a 0.23 +/- 0.12 s reduction in grey matter bolus duration with 5% CO2 inhalation. These results can be used to inform the experimental design of future VSASL studies, to avoid underestimating perfusion by imaging after the arrival of the trailing edge of the labelled bolus.    
+
+    
+
+## Exploring equality and sustainability trade-offs of energy transition outcomes in the United States in 2050   
+
+OpenAlex: https://openalex.org/W4396820968    
+Open access: False
+    
+[Teagan Goforth](https://openalex.org/A5008157834), [Destenie Nock](https://openalex.org/A5045531014), [M. C. Brown](https://openalex.org/A5039995601), [Tapajyoti Ghosh](https://openalex.org/A5083165776), [Patrick Lamers](https://openalex.org/A5077036890), Applied energy. 367(None)] 2024.https://doi.org/10.1016/j.apenergy.2024.123376.
+    
+With increasing focus on equitable and just energy transition, it is critical to understand the trade-offs of different decarbonization outcomes across economic, environmental, and social sustainability criteria. In this analysis, we use a multi-criteria decision analysis to quantify sustainability outcomes across 32 decarbonization outcomes in 2050 in the U.S. The economic sustainability criteria we use are system cost, national average retail rate, and electricity system employment. The environmental sustainability criteria we use are life cycle greenhouse gas emissions, life cycle water depletion, life cycle land transformation, and air pollution fatalities. The social sustainability (distributional impacts) criteria we use are retail rate equality across states, electricity employment equality across low-income households, and air pollution disparities across census tracts. We evaluate performance across these criteria under eleven different stakeholder preference scenarios. We find that decarbonization policies with indefinitely extended tax credits have the highest sustainability score under equal criteria weighting, with greater investments in renewable energy technologies, and result in better environmental, system cost, job, and air pollution disparities compared to mid-case scenarios, that only include current policies and CO2 reduction targets. We also see that our multi-criteria decision analysis identifies decarbonization outcomes that would not have been identified as optimal under a single objective, which highlights the importance of trade-off analyses to understand decarbonization outcomes more holistically.    
 
     
 
