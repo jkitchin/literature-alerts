@@ -4,56 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 May 2024 01:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 01:05:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Combined Photocatalysis and Lewis Acid Catalysis Strategy for the Oxa-Pictet&#8211;Spengler Reactions of Ethers</title>
-      <link>https://doi.org/10.1021/acscatal.4c01595</link>
-      <description>Nao Tanaka, Sophia R. Mitton-Fry, Mi-Lim Hwang, Joshua Zhu, Karl A. Scheidt, ACS catalysis. None(None)] 2024. https://openalex.org/W4396691420
-
-                No abstract</description>
-      <author>Nao Tanaka, Sophia R. Mitton-Fry, Mi-Lim Hwang, Joshua Zhu, Karl A. Scheidt</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01595</guid>
-    </item>
-    <item>
-      <title>Poly(ionic liquid) Ionomers Help Prevent Active Site Aggregation, in Single-Site Oxygen Reduction Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c01418</link>
-      <description>Silvia Favero, Alain Li, Mengnan Wang, Fahim Uddin, Bora Kuzuoglu, Arthur Georgeson, Ifan E. L. Stephens, Davood Nasrabadi, ACS catalysis. None(None)] 2024. https://openalex.org/W4396693235
-
-                No abstract</description>
-      <author>Silvia Favero, Alain Li, Mengnan Wang, Fahim Uddin, Bora Kuzuoglu, Arthur Georgeson, Ifan E. L. Stephens, Davood Nasrabadi</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01418</guid>
-    </item>
-    <item>
-      <title>Ethane Dehydrogenation to Ethylene: Engineering the Surface Structure of Pt-Based Alloy Catalysts to Tune the Catalytic Performance</title>
-      <link>https://doi.org/10.1021/acscatal.3c06100</link>
-      <description>Lulu Ping, Mifeng Xue, Yuan Zhang, Baojun Wang, Maohong Fan, Lixia Ling, Riguang Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396697728
-
-                No abstract</description>
-      <author>Lulu Ping, Mifeng Xue, Yuan Zhang, Baojun Wang, Maohong Fan, Lixia Ling, Riguang Zhang</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06100</guid>
-    </item>
-    <item>
-      <title>Achieving Near 100% Faradaic Efficiency of Electrocatalytic Nitrate Reduction to Ammonia on Symmetry-Broken Medium-Entropy-Alloy Metallene</title>
-      <link>https://doi.org/10.1021/acscatal.4c00879</link>
-      <description>Yuanbo Zhou, Lifang Zhang, Mengfan Wang, Zhi&#8208;Jun Zhu, Najun Li, Tao Qian, Chenglin Yan, Jianmei Lu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396698133
-
-                Electrochemical nitrate reduction (NO3RR) offers an ecofriendly way for ammonia production. However, improving the sluggish kinetics of such a multistep reaction still remains challenging. Herein, an asymmetry strategy is proposed to adjust the charge distribution of the active centers on metallene by presenting novel symmetry-broken medium-entropy-alloy (MEA) metallene via heteroatom alloying. Benefiting from the maximized exposure of the well-regulated active sites, proof-of-concept PdCuCo MEA metallene delivers near 100% NH3 Faradaic efficiency in both neutral and alkaline electrolytes, along with a record-high NH3 yield rate over 532.5 mg h&#8211;1 mgcat&#8211;1. Moreover, it enables 99.7% conversion of nitrate from an industrial wastewater level of 6200 ppm to a drinkable water level. Detailed studies further revealed that charge redistribution is induced by the elemental electronegativity difference on symmetry-broken MEA metallene, which will weaken the N&#8211;O bond of *NO, thus reducing the energy barrier of the rate-determining step. Meanwhile, the competitive HER and the formation of NO2&#8211; are also hindered. We believe that our strategy proposed in this work will shed light on the design of efficient NO3RR catalysts to a more practical level.</description>
-      <author>Yuanbo Zhou, Lifang Zhang, Mengfan Wang, Zhi&#8208;Jun Zhu, Najun Li, Tao Qian, Chenglin Yan, Jianmei Lu</author>
-      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00879</guid>
-    </item>
-    <item>
       <title>Beyond Leverage in Activity and Stability toward CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction to Formate over a Bismuth Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.4c01519</link>
-      <description>Wenbin Li, Chang Yu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396720560
+      <description>Wenbin Li, Jieshan Qiu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396720560
 
                 The direct production of formate from CO2 over Bi-based catalysts offers a promising route for producing important chemicals using renewable electricity. Nevertheless, limited by the unstable structure and states of catalysts under electrochemical conditions, electroreduction of CO2 to formate is still facing a trade-off between activity and stability, especially at high current densities. Herein, we reported a metal&#8211;carbon interfacial modulation strategy to synthesize the cross-linked and defective carbon-modified Bi nanoparticle (Bi-DC) catalyst with a stable spatial structure and a unique CO2-philic and hydrophobic interface. As a result, the Bi-DC featured a remarkable ability for CO2 electroreduction to formate in a near neutral electrolyte (1 M KHCO3) and was even comparable to the CO2-to-formate activity in the strongly basic systems, along with a high partial current density and formation rate for formate of &#8722;378 mA cm&#8211;2 and 7 mmol cm&#8211;2 h&#8211;1, respectively. Also, it achieved a stable electrolysis for 120 h at 0.4 A in a membrane electrode assembly reactor and even operated stably at an industrial large current of 5 A. The carbon species promoted the reconstruction and dispersion of active component Bi, together with a spatial confinement effect that facilitated the formation of formate and achieved stable long-term electrolysis.</description>
-      <author>Wenbin Li, Chang Yu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu</author>
+      <author>Wenbin Li, Jieshan Qiu, Xin Tan, Yongwen Ren, Yafang Zhang, Song Chen, Yi Yang, Jieshan Qiu</author>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01519</guid>
     </item>
@@ -162,7 +122,7 @@
       <link>https://doi.org/10.1021/acscatal.3c05436</link>
       <description>Chao Xu, Emily Mazeau, Richard H. West, ACS catalysis. None(None)] 2024. https://openalex.org/W4396760629
 
-                No abstract</description>
+                Mean-field microkinetic modeling is a powerful tool for catalyst design and the simulation of catalytic processes. The reaction enthalpies in a microkinetic model often need to be adjusted when changing species' binding energies to model different catalysts, when performing thermodynamic sensitivity analyses, and when fitting experimental data. When altering reaction enthalpies, the activation energies should also be reasonably altered to ensure realistic reaction rates. The Blowers&#8211;Masel approximation (BMA) relates the reaction barrier to the reaction enthalpy. Unlike the Br&#248;nsted&#8211;Evans&#8211;Polani relationship, the BMA requires less data because only one parameter, the intrinsic activation energy, needs to be determined. We validate this application of BMA relations to model surface reactions by comparing against density functional theory data taken from the literature. By incorporating the BMA rate description into the open-source Cantera software, we enable a new workflow, demonstrated herein, allowing rapid screening of catalysts using linear scaling relationships and BMA kinetics within the process simulation software. For demonstration purposes, a catalyst screening for catalytic methane partial oxidation on 81 hypothetical metals is conducted. We compared the results with and without BMA-corrected rates. The heat maps of various descriptors (e.g., CH4 conversion, syngas yield) show that using BMA rates instead of Arrhenius rates (with constant activation energies) changes which metals are most active. Heat maps of sensitivity analyses can help identify which reactions or species are the most influential in shaping the descriptor map patterns. Our findings indicate that while using BMA-adjusted rates did not markedly affect the most sensitive reactions, it did change the most influential species.</description>
       <author>Chao Xu, Emily Mazeau, Richard H. West</author>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05436</guid>
@@ -200,10 +160,10 @@
     <item>
       <title>Effect of a Physisorbed Tetrabutylammonium Cation Film on Alkaline Hydrogen Evolution Reaction on Pt Single-Crystal Electrodes</title>
       <link>https://doi.org/10.1021/acscatal.4c01765</link>
-      <description>Julia Fern&#225;ndez-Vidal, Marc T. M. Koper, ACS catalysis. None(None)] 2024. https://openalex.org/W4396780694
+      <description>Julia Fern&#225;ndez&#8208;Vidal, Marc T. M. Koper, ACS catalysis. None(None)] 2024. https://openalex.org/W4396780694
 
                 The addition of tetrabutylammonium (TBA+) to alkaline electrolytes enhances the hydrogen evolution reaction (HER) activity on Pt single-crystal electrodes. The concentration of TBA+ significantly influences the HER on Pt(111). Concentrations of &#8804;1 mM yield no significant effect on HER currents or the coverage of adsorbed hydrogen (H*) but exhibit an interaction with the OHads on the surface. Conversely, concentrations of &gt;1 mM result in an apparent site-blocking effect for underpotential-deposited H* caused by the physisorption of the organic cation, which counterintuitively leads to an increase in the HER activity. The physisorption of TBA+ is linked to its accumulation in the diffuse layer, as it can be reversibly removed by the addition of nonadsorbing cations such as sodium. Following the previous literature on the TBA+ interaction with electrode surfaces, we ascribe this effect to the formation of a two-dimensional TBA+ film in the double layer. On stepped Pt single-crystal surfaces, TBA+ enhances HER activity at all concentrations, primarily at step sites. Our findings not only highlight the complexities of TBA+ accumulation on Pt electrodes but also offer important molecular-level insights for optimizing the HER by organic film formation on various atomic-level electrode structures.</description>
-      <author>Julia Fern&#225;ndez-Vidal, Marc T. M. Koper</author>
+      <author>Julia Fern&#225;ndez&#8208;Vidal, Marc T. M. Koper</author>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01765</guid>
     </item>
@@ -266,6 +226,106 @@
       <author>Z. Wang, Jing Yang, Zichen Song, Meiting Lu, Wenqian Wang, Zhiyu Ren, Zhimin Chen</author>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00802</guid>
+    </item>
+    <item>
+      <title>Deactivation and Reductive Regeneration of Sn-Beta for Liquid-Phase Biomass Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01976</link>
+      <description>Juan S. Mart&#237;nez-Esp&#237;n, S&#248;ren Tolborg, Bai Yang, Nicolai Krog Andersen, Anna Katerinopoulou, Lars P. Hansen, Ulla Gro Nielsen, Esben Taarning, ACS catalysis. None(None)] 2024. https://openalex.org/W4396830886
+
+                Catalyst stability and deactivation remain significant hurdles, which hinder the realization of many promising chemical processes. This applies especially for biomass conversion over zeolitic materials, where the commonly applied solvothermal conditions adversely affect the stability of the catalysts. For example, tin-doped zeolite Beta, Sn-Beta, is one of the materials often used for a wide range of biomass reactions in the liquid phase. Herein, we present insights into the deactivation of Sn-Beta catalysts and assess different regeneration procedures. We identify tin and silicon leaching, along with tin restructuring into tin(IV) oxide, SnO2, as the primary deactivation mechanisms during the conversion of biobased-derived glycolaldehyde in methanol/water solvents. Concurrently, the spent catalysts have a range of mesopores over a highly ordered and poorly defective zeolitic framework. Furthermore, we highlight the critical impact of reaction medium compositions affecting the leaching of tin and silicon and provide levers to mitigate it (e.g., higher alcohols, low water concentrations). Through the implementation of an oxidation&#8211;reduction&#8211;oxidation regeneration procedure, the catalyst contains twice as high active site concentrations as the use of conventional thermal oxidation. The oxidation&#8211;reduction&#8211;oxidation procedure reverses some of the ongoing deactivation (tin restructuring into SnO2) with the transformation of the otherwise inactive SnO2 into active sites. Together, the generated understanding of Sn-Beta deactivation and the successful application of a superior regeneration method can bring this family of catalysts closer to industrial applications.</description>
+      <author>Juan S. Mart&#237;nez-Esp&#237;n, S&#248;ren Tolborg, Bai Yang, Nicolai Krog Andersen, Anna Katerinopoulou, Lars P. Hansen, Ulla Gro Nielsen, Esben Taarning</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01976</guid>
+    </item>
+    <item>
+      <title>Molybdenum/ZSM-5 Catalyzes Methane Co-Aromatization with Furan: Unveiling the Mechanism with Solid-State NMR</title>
+      <link>https://doi.org/10.1021/acscatal.4c01827</link>
+      <description>Wei Gao, Guodong Qi, Chao Wang, Qiang Wang, Jiawei Liang, Jun Xu, Feng Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4396835087
+
+                The co-aromatization of methane and organic compounds using metal-modified zeolite catalysts represents a promising approach for the direct conversion of natural gas into valuable aromatics. In this work, we employ solid-state nuclear magnetic resonance (NMR) spectroscopy to systematically examine the reaction mechanism and evaluate the impact of co-feeding furan on methane aromatization over Mo/ZSM-5 zeolite. The results reveal a dual role of furan in promoting methane to aromatics and stabilizing the Mo/ZSM-5 zeolite catalyst in the co-aromatization. It is found that co-feeding a moderate amount of furan enhances methane conversion and boosts the selectivity to benzene, toluene, and xylene (BTX). The 12C/13C isotope switching experiments coupled with 1H and 13C MAS NMR spectroscopy reveal that furan actively participates in the methane aromatization reaction by forming an olefin pool, which promotes methane activation and contributes to the following aromatics formation. Two-dimensional 1H&#8211;95Mo heteronuclear correlation NMR spectroscopy indicates that furan facilitates the activation of Mo oxides into MoOxCy species, which serve as the active sites for methane aromatization. The co-feeding furan also helps to enhance catalyst stability by limiting the agglomeration of Mo and the deposition of coking species.</description>
+      <author>Wei Gao, Guodong Qi, Chao Wang, Qiang Wang, Jiawei Liang, Jun Xu, Feng Deng</author>
+      <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01827</guid>
+    </item>
+    <item>
+      <title>Insights into Dopant-Mediated Tuning of Silica-Supported Mo Metal Centers for Enhanced Olefin Metathesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01700</link>
+      <description>Anoop Uchagawkar, Anand Ramanathan, Hongda Zhu, Linxiao Chen, Yongfeng Hu, Justin T. Douglas, Marco Mais, Takeshi Kobayashi, Bala Subramaniam, ACS catalysis. None(None)] 2024. https://openalex.org/W4396851744
+
+                No abstract</description>
+      <author>Anoop Uchagawkar, Anand Ramanathan, Hongda Zhu, Linxiao Chen, Yongfeng Hu, Justin T. Douglas, Marco Mais, Takeshi Kobayashi, Bala Subramaniam</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01700</guid>
+    </item>
+    <item>
+      <title>Dehydrogenative Coupling of Alcohols with Internal Alkynes under Nickel Catalysis: An Access to &#946;-Deuterated Branched Ketones</title>
+      <link>https://doi.org/10.1021/acscatal.3c06091</link>
+      <description>Murugan Subaramanian, Chandrakant Gouda, Triptesh Kumar Roy, G. Sivakumar, Subhrashis Banerjee, Kumar Vanka, Ekambaram Balaraman, ACS catalysis. None(None)] 2024. https://openalex.org/W4396852580
+
+                No abstract</description>
+      <author>Murugan Subaramanian, Chandrakant Gouda, Triptesh Kumar Roy, G. Sivakumar, Subhrashis Banerjee, Kumar Vanka, Ekambaram Balaraman</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06091</guid>
+    </item>
+    <item>
+      <title>Radical Reactions with N-Heterocyclic Carbene (NHC)-Derived Acyl Azoliums for Access to Multifunctionalized Ketones</title>
+      <link>https://doi.org/10.1021/acscatal.4c01973</link>
+      <description>Hongneng Cai, Xiaoqun Yang, Shi&#8208;Chao Ren, Yonggui Robin, ACS catalysis. None(None)] 2024. https://openalex.org/W4396856492
+
+                No abstract</description>
+      <author>Hongneng Cai, Xiaoqun Yang, Shi&#8208;Chao Ren, Yonggui Robin</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01973</guid>
+    </item>
+    <item>
+      <title>Aerobic Oxidative Coupling of 2-Aminonaphthalenes by Homogenous Nonheme Iron Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01839</link>
+      <description>V. L. Vershinin, Li-noy Feruz, Hagit Forkosh, Lina Kertzman, Anna Libman, Jordi Bur&#233;s, Doron Pappo, ACS catalysis. None(None)] 2024. https://openalex.org/W4396856721
+
+                No abstract</description>
+      <author>V. L. Vershinin, Li-noy Feruz, Hagit Forkosh, Lina Kertzman, Anna Libman, Jordi Bur&#233;s, Doron Pappo</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01839</guid>
+    </item>
+    <item>
+      <title>Accessing Fluorinated Tertiary Homoallylamines via Photocatalytic Defluorinative Aminoalkylation of Fluoroalkyl-Substituted Alkenes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01669</link>
+      <description>Xiong Wang, Guangyu Sun, Meijuan Zhou, Min L&#252;, Ming Joo Koh, Tao Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396860380
+
+                No abstract</description>
+      <author>Xiong Wang, Guangyu Sun, Meijuan Zhou, Min L&#252;, Ming Joo Koh, Tao Yang</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01669</guid>
+    </item>
+    <item>
+      <title>Ru Single Atoms Tailoring the Acidity of Metallic Tungsten Dioxide for a Boosted Alkaline Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01173</link>
+      <description>Shuang Hou, Yishen Xu, Zhigang Chen, Guang Yang, Chunyin Zhu, X.W. Fan, Xuefei Weng, Wei Wang, Lu Wang, Yi Cui, ACS catalysis. None(None)] 2024. https://openalex.org/W4396860498
+
+                No abstract</description>
+      <author>Shuang Hou, Yishen Xu, Zhigang Chen, Guang Yang, Chunyin Zhu, X.W. Fan, Xuefei Weng, Wei Wang, Lu Wang, Yi Cui</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01173</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;Operando&lt;/i&gt; Observation of (Bi)carbonate Precipitation during Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction in Strongly Acidic Electrolytes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01884</link>
+      <description>Francesco Bernasconi, Nukorn Plainpan, Marta Mirolo, Qing Wang, Peng Zeng, Corsin Battaglia, Alessandro Senocrate, ACS catalysis. None(None)] 2024. https://openalex.org/W4396860818
+
+                No abstract</description>
+      <author>Francesco Bernasconi, Nukorn Plainpan, Marta Mirolo, Qing Wang, Peng Zeng, Corsin Battaglia, Alessandro Senocrate</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01884</guid>
+    </item>
+    <item>
+      <title>Dynamic Cu&lt;sup&gt;0&lt;/sup&gt;/Cu&lt;sup&gt;+&lt;/sup&gt; Interface Promotes Acidic CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01516</link>
+      <description>Yunling Jiang, Haobo Li, Chaojie Chen, Yao Zheng, Shi Zhang Qiao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396873077
+
+                Acidic CO2 electroreduction reaction (CO2RR) shows advantages in high carbon utilization efficiency yet encounters great challenges in suppressing undesired hydrogen evolution competition and increasing C2+ product selectivity. Although it is known that Cu0/Cu+ interfaces are conducive to C&#8211;C coupling processes, the oxidation state of copper cannot be well maintained under the strong reductive condition and large current electrolysis operation. Herein, we propose an I2 addition involved strategy to protect the oxidation state of Cu and promote dynamic Cu0/Cu+ interfaces during acidic CO2RR. With the addition of I2 in the electrolyte, a high C2+ product Faraday efficiency of above 70% can be achieved at 0.4&#8211;0.6 A cm&#8211;2 even under a low K+ concentration of 0.3 M, which is comparable to those reported performances with almost ten times higher K+ concentrations (2&#8211;3 M). This low K+ concentration in electrolytes significantly avoids salt crystallization in the CO2 transport channel to enhance the electrolyzer's stability. As proved by the surface Pourbaix diagram and experimental results, adding excessive I2 into the electrolyte boosts the generation of CuI; also, CuI and metallic Cu coexist under electrochemical reduction conditions, demonstrating that a redox loop of Cu &#8594; CuI &#8594; Cu exists. The loop holds the key to constructing the dynamic Cu0/Cu+ interface, which is tightly bound to the adsorption of the *CO reaction intermediate and further promotes the C&#8211;C coupling process.</description>
+      <author>Yunling Jiang, Haobo Li, Chaojie Chen, Yao Zheng, Shi Zhang Qiao</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01516</guid>
     </item>
   </channel>
 </rss>

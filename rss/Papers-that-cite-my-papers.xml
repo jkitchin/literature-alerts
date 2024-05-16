@@ -4,146 +4,16 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 May 2024 01:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 01:05:43 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Boosting electrocatalytic hydrogen generation from water splitting with heterostructured MoS2/NiFe2O4 composite in alkaline media</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.05.042</link>
-      <description>Noureen Amir Khan, Gul Rahman, Sang Youn Chae, Anwar ul Haq Ali Shah, Oh&#8208;Shim Joo, Shabeer Ahmad Mian, Akhtar Hussain, International journal of hydrogen energy. 69(None)] 2024. https://openalex.org/W4396685920
-
-                No abstract</description>
-      <author>Noureen Amir Khan, Gul Rahman, Sang Youn Chae, Anwar ul Haq Ali Shah, Oh&#8208;Shim Joo, Shabeer Ahmad Mian, Akhtar Hussain</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.042</guid>
-    </item>
-    <item>
-      <title>Dopant Induced Hollow Ni2P Nanocrystals Regulate Dehydrogenation Kinetics for Highly Efficient Solar-Driven Hydrazine Assisted H2 Production</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124165</link>
-      <description>Umesh P. Suryawanshi, Uma V. Ghorpade, Priyank V. Kumar, Jun Sung Jang, Mingrui He, Hong Jae Shim, Hyo Rim Jung, Mahesh P. Suryawanshi, Jihun Kim, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4396690843
-
-                No abstract</description>
-      <author>Umesh P. Suryawanshi, Uma V. Ghorpade, Priyank V. Kumar, Jun Sung Jang, Mingrui He, Hong Jae Shim, Hyo Rim Jung, Mahesh P. Suryawanshi, Jihun Kim</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124165</guid>
-    </item>
-    <item>
-      <title>Moir&#233; fractional Chern insulators. I. First-principles calculations and continuum models of twisted bilayer &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:msub&gt;&lt;mml:mi&gt;MoTe&lt;/mml:mi&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt;</title>
-      <link>https://doi.org/10.1103/physrevb.109.205121</link>
-      <description>Yujin Jia, Jong W. Yu, J. D. Liu, Jonah Herzog-Arbeitman, Ziyue Qi, Hanqi Pi, Nicolas Regnault, Hongming Weng, B. Andrei Bernevig, Quansheng Wu, Physical review. B./Physical review. B. 109(20)] 2024. https://openalex.org/W4396692690
-
-                No abstract</description>
-      <author>Yujin Jia, Jong W. Yu, J. D. Liu, Jonah Herzog-Arbeitman, Ziyue Qi, Hanqi Pi, Nicolas Regnault, Hongming Weng, B. Andrei Bernevig, Quansheng Wu</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.205121</guid>
-    </item>
-    <item>
-      <title>Boosting Stable Lithium Deposition Via Li3n-Enriched Inorganic Sei Induced by a Polycationic Polymer Layer</title>
-      <link>https://doi.org/10.2139/ssrn.4819228</link>
-      <description>Wenzhu Cao, Weimin Chen, Zonghe Lai, Hong Chen, Tao Du, Liang Wang, Faquan Yu, No host. None(None)] 2024. https://openalex.org/W4396694075
-
-                No abstract</description>
-      <author>Wenzhu Cao, Weimin Chen, Zonghe Lai, Hong Chen, Tao Du, Liang Wang, Faquan Yu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4819228</guid>
-    </item>
-    <item>
-      <title>Theoretical study of transition metal-doped &#946;&lt;sub&gt;12&lt;/sub&gt; borophene as a new single-atom catalyst for carbon dioxide electroreduction</title>
-      <link>https://doi.org/10.1039/d4cp00601a</link>
-      <description>Hongjie Huang, Ming&#8208;Yao Chen, Rongxin Zhang, Yuxuan Ding, Hong Huang, Zhangfeng Shen, Lingchang Jiang, Ge Zhang, Hongtao Jiang, Minhong Xu, Yangang Wang, Yongyong Cao, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4396694578
-
-                Among the 19 catalysts, Sc@&#946; 12 -BM and Y@&#946; 12 -BM were screened and easily reduced to C 1 products (CH 4 and CH 3 OH) and C 2 products (CH 3 CH 2 OH).</description>
-      <author>Hongjie Huang, Ming&#8208;Yao Chen, Rongxin Zhang, Yuxuan Ding, Hong Huang, Zhangfeng Shen, Lingchang Jiang, Ge Zhang, Hongtao Jiang, Minhong Xu, Yangang Wang, Yongyong Cao</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cp00601a</guid>
-    </item>
-    <item>
-      <title>Entropy Effects on Reactive Processes at Metal-Solvent Interfaces</title>
-      <link>https://doi.org/10.1021/acs.jpcc.3c06816</link>
-      <description>Oskar Cheong, Fabian P. Tipp, Michael Eikerling, Piotr M. Kowalski, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4396697785
-
-                No abstract</description>
-      <author>Oskar Cheong, Fabian P. Tipp, Michael Eikerling, Piotr M. Kowalski</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c06816</guid>
-    </item>
-    <item>
-      <title>Influence of the heat treatment on structural and functional characteristics of the PtCu/C electrocatalysts on various carbon supports</title>
-      <link>https://doi.org/10.1007/s10008-024-05920-8</link>
-      <description>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, Angelina Pavlets, V. S. Menshchikov, Ilya Pankov, A. V. Nikolskiy, A. T. Kozakov, &#1045;. &#1040;. &#1052;&#1086;&#1075;&#1091;&#1095;&#1080;&#1093;, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;, Journal of solid state electrochemistry. None(None)] 2024. https://openalex.org/W4396699496
-
-                No abstract</description>
-      <author>A. K. Nevelskaya, &#1057;. &#1042;. &#1041;&#1077;&#1083;&#1077;&#1085;&#1086;&#1074;, Angelina Pavlets, V. S. Menshchikov, Ilya Pankov, A. V. Nikolskiy, A. T. Kozakov, &#1045;. &#1040;. &#1052;&#1086;&#1075;&#1091;&#1095;&#1080;&#1093;, &#1040;. &#1040;. &#1040;&#1083;&#1077;&#1082;&#1089;&#1077;&#1077;&#1085;&#1082;&#1086;</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10008-024-05920-8</guid>
-    </item>
-    <item>
-      <title>Towards non-blinking perovskite quantum dots</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4214840/v1</link>
-      <description>Yitong Dong, Chenjia Mi, Gavin Gee, Chance Lander, Matthew Atteberry, Novruz G. Akhmedov, Lamia Hidayatova, Jesse DiCenso, Wai Tak Yip, Yihan Shao, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4396699669
-
-                Abstract Surface defect-induced photoluminescence blinking is ubiquitous in lead halide perovskite quantum dots (QDs). Despite efforts to passivate the defects on perovskite QDs by chemically engineering ligand binding moieties, blinking accompanied by photodegradation still poses barriers to studying and implementing quantum-confined perovskite QDs in quantum emitters. We posited that the intermolecular interaction between ligands can affect the QD surface passivation. In the solid state, steric repulsions among bulky ligand tails prevent adequate QD surface ligand coverage. Alternatively, attractive &#960;-&#960; stacking between low-steric phenethylammonium (PEA) ligands promotes the formation of a nearly epitaxial surface ligand layer. Here, we demonstrate that single CsPbBr3 QDs covered by these PEA ligands are nearly non-blinking, with single photon purity reaching 98%. Moreover, these QDs exhibited no spectral shifting and photodegradations, and they remained blinking-free after 12 hours of continuous operation. Free of interferences from blinking and photodegradation, we present size-dependent exciton radiative rates and emission line widths of single CsPbBr3 QDs ranging from strongly to weakly confined regimes.</description>
-      <author>Yitong Dong, Chenjia Mi, Gavin Gee, Chance Lander, Matthew Atteberry, Novruz G. Akhmedov, Lamia Hidayatova, Jesse DiCenso, Wai Tak Yip, Yihan Shao</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4214840/v1</guid>
-    </item>
-    <item>
-      <title>Single-cluster anchored on PC6 monolayer as high-performance electrocatalyst for carbon dioxide reduction reaction: First principles study</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.05.022</link>
-      <description>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Chenyin Li, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu, Journal of colloid and interface science. 669(None)] 2024. https://openalex.org/W4396702194
-
-                Tremendous challenges remain to develop high-efficient catalysts for carbon dioxide reduction reaction (CO</description>
-      <author>Zhiyi Liu, Aling Ma, Zhenzhen Wang, Chenyin Li, Zongpeng Ding, Yan Pang, Guohong Fan, Hong Xu</author>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.05.022</guid>
-    </item>
-    <item>
-      <title>Unveiling the effect of solvent for hydrogen evolution in Pt-doped MXenes and corresponding high-entropy phase</title>
-      <link>https://doi.org/10.1016/j.mtsust.2024.100808</link>
-      <description>Zheng Shu, Zhangsheng Shi, Man&#8208;Fai Ng, Teck Leong Tan, Yongqing Cai, Materials today sustainability. None(None)] 2024. https://openalex.org/W4396703787
-
-                Effect of solvent at the water/solid interface plays a non-negligible role in chemical reactions. Explicit solvation has been proved for its important effect on thermodynamics and kinetics of catalytic reactions. However, systematic studies about this perspective are still absence. In this work, using the model of single platinum atom immobilized on the metal vacancies of a series of MXenes, we systematically investigate the implicit/explicit solvent effect on their catalytic performance of the hydrogen evolution reaction (HER). We find that the solvent effect plays a significant role in affecting the calculation results for some systems. For TiNbC-PtNb, the value of &#916;GH* decreases from -0.121 to -0.511 (-0.583) eV when considering implicit (explicit) correction, implying the decisive role of solvent effect for calculating HER in this system. Bader charge analysis and AIMD simulations reveal that TiNbC-PtNb surface is sensitive to H2O, thus causing this abnormal case. Surprisingly high-entropy phases of MXene overall are less sensitive to solvent compared to the pure phases, which could be due to their alloyed lattice with a strong ability against electronic and lattice fluctuations induced by solvent. Several systems like V2C-PtV, TiMoC-PtMo, and VNbC-PtV are predicted to be excellent electrocatalysts for alkaline HER with the appropriate Gibbs free energy of hydrogen adsorption and kinetic barrier of water. The perspective exemplified in this work highlights that more feasible operando should be considered, e.g., influence of water, to better simulate the reaction process. Our work suggests that Pt-doped MXenes are perfect systems for hosting atomic catalyst as well.</description>
-      <author>Zheng Shu, Zhangsheng Shi, Man&#8208;Fai Ng, Teck Leong Tan, Yongqing Cai</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtsust.2024.100808</guid>
-    </item>
-    <item>
-      <title>Cascading symmetry constraint during machine learning-enabled structural search for sulfur-induced Cu(111)-(43&#215;43) surface reconstruction</title>
-      <link>https://doi.org/10.1063/5.0201421</link>
-      <description>Florian Brix, Mads-Peter V. Christiansen, Bj&#248;rk Hammer, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(17)] 2024. https://openalex.org/W4396709157
-
-                In this work, we investigate how exploiting symmetry when creating and modifying structural models may speed up global atomistic structure optimization. We propose a search strategy in which models start from high symmetry configurations and then gradually evolve into lower symmetry models. The algorithm is named cascading symmetry search and is shown to be highly efficient for a number of known surface reconstructions. We use our method for the sulfur-induced Cu (111) (43&#215;43) surface reconstruction for which we identify a new highly stable structure that conforms with the experimental evidence.</description>
-      <author>Florian Brix, Mads-Peter V. Christiansen, Bj&#248;rk Hammer</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0201421</guid>
-    </item>
-    <item>
-      <title>Electrolysis &#8211; Alkaline electrolyzer with anion-exchange membrane | Alkaline anion exchange membrane electrolysis</title>
-      <link>https://doi.org/10.1016/b978-0-323-96022-9.00241-3</link>
-      <description>S. Ramakrishnan, Mohamed Mamlouk, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4396713567
-
-                This chapter examines alkaline anion exchange membrane (AAEM) electrolysis, exploring both its advantages and challenges. A comprehensive overview of the fundamentals of water electrolyzers is provided. This is followed by a detailed discussion on the advantages and challenges faced by AEM electrolyzers in comparison to alkaline water electrolyzers (AWE) and proton exchange membrane electrolyzers (PEMWE). AEM chemistry and degradation mechanism was reviewed. The hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) electrocatalysis is discussed in terms of the activity descriptors, mechanism, and performance across a wide range of pH levels. Conclusion and recommendation were made on the advancement required in AEM water electrolyzers performance, durability and scale up challenges to enable rapid deployment and competitive green hydrogen production to meet global NetZero hydrogen ambitions.</description>
-      <author>S. Ramakrishnan, Mohamed Mamlouk</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-96022-9.00241-3</guid>
-    </item>
-    <item>
-      <title>A Combined Density Functional Theory and Microkinetics Simulations Study of Electrochemical CO2 Reduction on Cu8/SnO2(110): The Crucial Role of Hydrogen Coverage</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144409</link>
-      <description>Zhaochun Liu, Roos Krosschell, Ivo A. W. Filot, Emiel J. M. Hensen, Electrochimica acta. None(None)] 2024. https://openalex.org/W4396716198
-
-                The electrochemical reduction of CO2 (eCO2R) is a promising approach for converting CO2 into valuable chemicals and fuels using renewable energy sources. We investigated the mechanism of eCO2R for a small Cu8 cluster placed on SnO2 containing O vacancies using density functional theory and predicted current density and selectivity by microkinetics simulations within the computational hydrogen electrode model. Low and high H coverages were modeled by Cu8/SnO2-x and Cu8H6/SnO2-x models, using statistical methods to identify their most stable structures. Different CO2 adsorption modes on Cu8/SnO2-x and Cu8H6/SnO2-x surface models, all containing an O vacancy, resulted in distinct reaction pathways, leading to either HCOOH or CO. The preferred formation of HCOOH occurred upon CO2 adsorption on an O vacancy on the Cu8H6/SnO2-x surface, followed by sequential hydrogenation to HCOO and HCOOH. Adsorption of CO2 on Cu8/SnO2-x opened a facile pathway to CO. Electronic structure analysis revealed that differences in charge donation of Cu to the antibonding orbitals of CO2 can explain the predicted selectivity differences. The preferred adsorption mode of CO2 is bidentate at the Cu-SnO2-x interface. Our findings emphasize the role of H coverage on Cu on the selectivity of eCO2R for Cu/SnOx catalysts.</description>
-      <author>Zhaochun Liu, Roos Krosschell, Ivo A. W. Filot, Emiel J. M. Hensen</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144409</guid>
-    </item>
-    <item>
       <title>Derived Trends of the Oxygen Adsorption Energy Using the Simplistic Model of the Thermodynamic Potential for Oxygen Evolution Reaction</title>
       <link>https://doi.org/10.2139/ssrn.4821664</link>
-      <description>Isabela C. Man, Ionut Tranc&#259;, No host. None(None)] 2024. https://openalex.org/W4396718825
+      <description>Isabela C. Man, Ionu&#355; Tranca, No host. None(None)] 2024. https://openalex.org/W4396718825
 
                 No abstract</description>
-      <author>Isabela C. Man, Ionut Tranc&#259;</author>
+      <author>Isabela C. Man, Ionu&#355; Tranca</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821664</guid>
     </item>
@@ -428,6 +298,36 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.comptc.2024.114642</guid>
     </item>
     <item>
+      <title>Nickel Nanoparticles Supported on P-Doped Tungsten Nitride Nanosheets as Catalysts for Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acsanm.4c01135</link>
+      <description>Shuqin Liang, Pengyuan Wang, Meizan Jing, Huashuai Hu, Shaohong Zhang, Zifan Cang, Youpeng Zhao, H. Gong, Jian Liu, ACS applied nano materials. None(None)] 2024. https://openalex.org/W4396829656
+
+                Electrochemical water decomposition is a promising alternative to hydrogen production (HER), but it is significantly limited by the scarcity of precious metals. Here, we propose a highly efficient yet low-cost phosphorus-modified nickel/tungsten nitride (P-Ni/WN) electrocatalyst, which exhibits excellent HER performance with a low overpotential (45 mV at 10 mA cm&#8211;2) and a high exchange current density (2.02 mA cm&#8211;2). Density functional theory (DFT) calculations and experiments reveal that the introduction of P and Ni attracts electrons from W species, making WN more conducive to the HER reaction. Moreover, the P doping contributes to the dispersion of Ni nanoparticles on the WN support, thereby enhancing the HER performance of the P-Ni/WN catalyst. This work provides a facile approach to improve the electrocatalytic activity of nickel-based catalysts in the context of the HER.</description>
+      <author>Shuqin Liang, Pengyuan Wang, Meizan Jing, Huashuai Hu, Shaohong Zhang, Zifan Cang, Youpeng Zhao, H. Gong, Jian Liu</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c01135</guid>
+    </item>
+    <item>
+      <title>Understanding the pH-Dependent Catalytic Activity for the Layered Li&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;CoO&lt;sub&gt;2&lt;/sub&gt; Oxygen Evolution Catalysts</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c00413</link>
+      <description>Huiyan Zeng, Jiajun Chen, Chao Wang, Jun Qi, Zhongfei Liu, Mengxian Li, Long Gu, Jian Wen Wang, Enna Hong, Yan Zhang, Jin Xu, Chunzhen Yang, ACS materials letters. None(None)] 2024. https://openalex.org/W4396830301
+
+                Many highly active catalysts for the oxygen evolution reaction (OER) demonstrate strong pH-dependent catalytic activities. However, the exact mechanism behind this phenomenon is still a subject of debate. In this study, delithiated Li0.5CoO2 is utilized as a model catalyst due to its tunable chemical states and layered structure that can facilitate reversible intercalation and deintercalation of cations. By increasing the pH to 14 using a 1.0 M CsOH solution, rapid intercalation of Cs+ cations and water molecules induce notable lattice expansion up to 9.9 &#197;, resulting in an order of magnitude higher OER intrinsic activity comparing to that in 0.1 M CsOH. It is hypothesized that lattice water in layered structure facilitates the dynamic intercalation and deintercalation of Cs+ cations, promoting the so-called "electrochemical-chemical" reaction mechanism. These findings provide valuable insights into the intricate nature of surface dynamics and the redox chemistry on the catalyst/electrolyte interface during the OER.</description>
+      <author>Huiyan Zeng, Jiajun Chen, Chao Wang, Jun Qi, Zhongfei Liu, Mengxian Li, Long Gu, Jian Wen Wang, Enna Hong, Yan Zhang, Jin Xu, Chunzhen Yang</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00413</guid>
+    </item>
+    <item>
+      <title>Time&#8208;Resolved Oxidation State Changes Are Key to Elucidating the Bifunctionality of Perovskite Catalysts for Oxygen Evolution and Reduction</title>
+      <link>https://doi.org/10.1002/eem2.12737</link>
+      <description>Casey E. Beall, Emiliana Fabbri, Adam H. Clark, Vivian Meier, Nur Sena Y&#252;zbasi, Benjamin H. Sj&#248;lin, Ivano E. Castelli, Dino Aegerter, Thomas Graule, Thomas Schmidt, Energy &amp; environment materials. None(None)] 2024. https://openalex.org/W4396831905
+
+                In a unified regenerative fuel cell (URFC) or reversible fuel cell, the oxygen bifunctional catalyst must switch reversibly between the oxygen reduction reaction (ORR), fuel cell mode, and the oxygen evolution reaction (OER), electrolyzer mode. However, it is often unclear what effect alternating between ORR and OER has on the electrochemical behavior and physiochemical properties of the catalyst. Herein, operando X&#8208;ray absorption spectroscopy (XAS) is utilized to monitor the continuous and dynamic evolution of the Co, Mn, and Fe oxidation states of perovskite catalysts Ba 0.5 Sr 0.5 Co 0.8 Fe 0.2 O 3&#8208;&#948; (BSCF) and La 0.4 Sr 0.6 MnO 3&#8208;&#948; (LSM), while the potential is oscillated between reducing and oxidizing potentials with cyclic voltammetry. The results reveal the importance of investigating bifunctional catalysts by alternating between fuel cell and electrolyzer operation and highlight the limitations and challenges of bifunctional catalysts. It is shown that the requirements for ORR and OER performance are divergent and that the oxidative potentials of OER are detrimental to ORR activity. These findings are used to give guidelines for future bifunctional catalyst design. Additionally, it is demonstrated how sunlight can be used to reactivate the ORR activity of LSM after rigorous cycling.</description>
+      <author>Casey E. Beall, Emiliana Fabbri, Adam H. Clark, Vivian Meier, Nur Sena Y&#252;zbasi, Benjamin H. Sj&#248;lin, Ivano E. Castelli, Dino Aegerter, Thomas Graule, Thomas Schmidt</author>
+      <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/eem2.12737</guid>
+    </item>
+    <item>
       <title>&#28023;&#32966;&#29366;CoTe-CoP&#24322;&#36136;&#32467;&#26500;&#20652;&#21270;&#21058;&#22312;&#20840;pH&#33539;&#22260;&#20869;&#39640;&#25928;&#26512;&#27682;</title>
       <link>https://doi.org/10.1007/s40843-024-2820-0</link>
       <description>Shengli Zhu, Minghui Xing, Zhe L&#252;, Zelong Qiao, Shitao Wang, Qianchuan Zhao, Yu Zhang, Jimmy Yun, Dapeng Cao, Science China. Materials. None(None)] 2024. https://openalex.org/W4396834143
@@ -436,6 +336,16 @@
       <author>Shengli Zhu, Minghui Xing, Zhe L&#252;, Zelong Qiao, Shitao Wang, Qianchuan Zhao, Yu Zhang, Jimmy Yun, Dapeng Cao</author>
       <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-2820-0</guid>
+    </item>
+    <item>
+      <title>Spontaneous enhanced photocatalytic overall water splitting on AlO/WSi2N4 vdW heterojunction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160247</link>
+      <description>C. H. Li, Liang Xu, Zehua Jin, Qiongchao Wang, Bin Xiao, Zhengquan Li, Lingling Wang, Kun Dong, Tong Chen, Applied surface science. None(None)] 2024. https://openalex.org/W4396834524
+
+                Completely achieving spontaneous water splitting without sacrificing co-catalysts poses a significant challenge, as factors such as electrical, optical, and catalytic activity can limit the conversion efficiency of solar energy to hydrogen. Herein, we propose a type-II van der Waals heterostructure composed of vertically stacked AlO and WSi2N4, and systematically investigate its mechanism and potential for catalyzing water splitting. Photon-induced photocatalytic water splitting takes advantage of the staggered energy bands of the heterojunction, effectively promoting the separation of photogenerated carriers and thus enhancing catalytic efficiency. In neutral water environment, the band edge position of AlO/WSi2N4 aligns with the redox potential required for water decomposition. Thermodynamic analysis of the oxygen and hydrogen evolution reactions indicates that the external potential provided by photogenerated carriers is expected to trigger spontaneous water decomposition. Moreover, with its high electron mobility (4800.62 cm2/Vs) and a solar-to-hydrogen energy conversion efficiency of up to 19.98 %, the AlO/WSi2N4 heterojunction demonstrates substantial potential as a photoelectric catalyst. This research introduces a promising avenue for efficient photocatalytic production of clean energy.</description>
+      <author>C. H. Li, Liang Xu, Zehua Jin, Qiongchao Wang, Bin Xiao, Zhengquan Li, Lingling Wang, Kun Dong, Tong Chen</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160247</guid>
     </item>
     <item>
       <title>Exploration of transition metal atom-doped NiSe2 electrocatalysts for efficient alkaline hydrogen precipitation using first principles screening</title>
@@ -448,6 +358,26 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141324</guid>
     </item>
     <item>
+      <title>Unveiling Hydrogen Passivation Effects in TiC-Based Single-Atom Catalysts for Enhanced Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c00550</link>
+      <description>Seong Chan Cho, Chi Ho Lee, Sang Uck Lee, ACS materials letters. None(None)] 2024. https://openalex.org/W4396834660
+
+                The hydrogen evolution reaction (HER) is crucial for producing hydrogen gas via electrochemical water splitting. Among diverse strategies to activate the HER, single-atom catalysts (SACs) are efficient alternatives to conventional platinum catalysts, focusing on titanium carbide (TiC) as a support material with good redox and electronic stability. Using this, we conducted a comprehensive investigation of various SAC candidates, screening their thermodynamic stabilities and HER activities. These calculations revealed four possible transition metal (TM) (Pt, Pd, Au, and Ag)-embedded TiC candidates (TM@TiC) that are thermodynamically stable and further suggested that they exhibit an intriguing H*-passivated surface state, significantly improving HER activities. Notably, the Pt@TiC demonstrates superior activity, promoting H2 gas generation due to its unique H*-passivated surface, which enables a sustainable HER. Therefore, this work introduces a new SAC paradigm centered around the H*-passivated surface, expanding the conventional focus on a single TM site.</description>
+      <author>Seong Chan Cho, Chi Ho Lee, Sang Uck Lee</author>
+      <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00550</guid>
+    </item>
+    <item>
+      <title>Cooperation between single atom catalyst and support to promote nitrogen electroreduction to ammonia: A theoretical insight</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.05.002</link>
+      <description>Wei Guo, Siyao Wang, Hongxia Wang, Qinghai Cai, Jingxiang Zhao, Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://openalex.org/W4396835133
+
+                The co-catalysis between single atom catalyst (SAC) and its support has recently emerged as a promising strategy to synergistically boost the catalytic activity of some complex electrochemical reactions, encompassing multiple intermediates and pathways. Herein, we utilized defective BC3 monolayer-supported SACs as a prototype to investigate the cooperative effects of SACs and their support on the catalytic performance of the nitrogen reduction reaction (NRR) for ammonia (NH3) production. The results showed that these SACs can be firmly stabilized on these defective BC3 supports with high stability against aggregation. Furthermore, co-activation of the inert N2 reactant was observed in certain embedded SACs and their neighboring B atoms on the certain BC3 sheets due to the noticeable charge transfer and significant N&#8211;N bond elongation. Our high-throughput screening revealed that the Mo/DVCC and W/DVCC exhibit superior NRR catalytic performance, characterized by a low limiting potential of &#8722;0.33 and &#8722;0.43V, respectively, which can be further increased under acid conditions based on the constant potential method. Moreover, varying NRR catalytic activities can be attributed to the differences in the valence state of active sites. Remarkably, further microkinetic modeling analysis displayed that the turnover frequency of N2&#8211;to&#8211;NH3 conversion on Mo/DVCC is as large as 1.20 &#215; 10&#8722;3 s&#8722;1 site&#8722;1 at 700 K and 100 bar, thus guaranteeing its ultra-fast reaction rate. Our results not only suggest promising advanced electrocatalysts for NRR, but also offered an effective avenue to regulate the electrocatalytic performance via the co-catalytic metal&#8211;support interactions.</description>
+      <author>Wei Guo, Siyao Wang, Hongxia Wang, Qinghai Cai, Jingxiang Zhao</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.05.002</guid>
+    </item>
+    <item>
       <title>A Theoretical Benchmark of the Geometric and Optical Properties for 3d Transition Metal Nanoclusters via Density Functional Theory</title>
       <link>https://doi.org/10.1021/acs.jpca.4c00408</link>
       <description>Shana Havenridge, Cong Liu, &#152;The &#156;journal of physical chemistry. A/&#152;The &#156;journal of physical chemistry. A.. None(None)] 2024. https://openalex.org/W4396835391
@@ -456,6 +386,96 @@
       <author>Shana Havenridge, Cong Liu</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c00408</guid>
+    </item>
+    <item>
+      <title>Carbon Capture With Mixed-Matrix Membrane</title>
+      <link>https://doi.org/10.1016/b978-0-323-93940-9.00269-3</link>
+      <description>Hojatollah Vali, Arash Sadeghi, Mohammad Javad Shafiee, M Barzegar, Mohammad Reza Rahimpour, Elsevier eBooks. None(None)] 2024. https://openalex.org/W4396838798
+
+                One promising technology for carbon capture is mixed-matrix membrane (MMM) technology. MMMs are composite materials that combine a polymer matrix with inorganic fillers or nanoparticles to enhance the separation performance of the membrane. These membranes offer several advantages, including high selectivity, tunable permeability, and resistance to harsh operating conditions. The incorporation of inorganic fillers or nanoparticles into the polymer matrix improves the separation properties of the membrane by creating a tortuous path for gas molecules, increasing the surface area, and enhancing the interaction between the membrane and the gas molecules. This results in improved carbon dioxide capture efficiency and selectivity. MMM technology offers potential advantages over other carbon capture technologies. It has the potential for lower energy consumption compared to solvent-based absorption processes and can be easily integrated into existing gas separation systems. MMMs also have the advantage of being scalable and cost-effective, making them suitable for large-scale industrial applications. This chapter will delve deeper into the principles of carbon capture technologies, mixed-matrix membranes (MMMs), the materials used in MMMs, the strategies for improving MMMs, and the challenges associated with them.</description>
+      <author>Hojatollah Vali, Arash Sadeghi, Mohammad Javad Shafiee, M Barzegar, Mohammad Reza Rahimpour</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/b978-0-323-93940-9.00269-3</guid>
+    </item>
+    <item>
+      <title>Single-Atom Electrocatalysts Anchored on Phosphoniobic Acid (M&lt;sub&gt;1&lt;/sub&gt;/PNb&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;40&lt;/sub&gt;) Cluster for Water Splitting (HER/OER) and Metal-Air Batteries (ORR)</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c00349</link>
+      <description>Sajjad Hussain, Shamraiz Hussain Talib, Babar Ali, Sharmarke Mohamed, Ahsanulhaq Qurashi, Jun Li, Zhansheng Lu, ACS materials letters. None(None)] 2024. https://openalex.org/W4396844986
+
+                No abstract</description>
+      <author>Sajjad Hussain, Shamraiz Hussain Talib, Babar Ali, Sharmarke Mohamed, Ahsanulhaq Qurashi, Jun Li, Zhansheng Lu</author>
+      <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00349</guid>
+    </item>
+    <item>
+      <title>Understanding the First Activation Step of Electrochemical CO2 Reduction over Ag and Ni-N-C Active Sites</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109728</link>
+      <description>Yujie Wang, Jungho Kim, Hyun Dong Jung, Jun Liu, Ke Yao, Chuan Xia, Seoin Back, Kun Jiang, Nano energy. None(None)] 2024. https://openalex.org/W4396846502
+
+                No abstract</description>
+      <author>Yujie Wang, Jungho Kim, Hyun Dong Jung, Jun Liu, Ke Yao, Chuan Xia, Seoin Back, Kun Jiang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109728</guid>
+    </item>
+    <item>
+      <title>Catalytic Hydrogenation of Carbon Dioxide as a Method to Produce Valuable Chemicals</title>
+      <link>https://doi.org/10.1134/s2070050424010045</link>
+      <description>I. A. Makaryan, &#1048;. &#1042;. &#1057;&#1077;&#1076;&#1086;&#1074;, &#1042;. &#1048;. &#1057;&#1072;&#1074;&#1095;&#1077;&#1085;&#1082;&#1086;, Catalysis in industry. 16(1)] 2024. https://openalex.org/W4396852768
+
+                No abstract</description>
+      <author>I. A. Makaryan, &#1048;. &#1042;. &#1057;&#1077;&#1076;&#1086;&#1074;, &#1042;. &#1048;. &#1057;&#1072;&#1074;&#1095;&#1077;&#1085;&#1082;&#1086;</author>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s2070050424010045</guid>
+    </item>
+    <item>
+      <title>Peierls-like distortion drives anion ordering in rutile TiOF</title>
+      <link>https://doi.org/10.1103/physrevmaterials.8.054602</link>
+      <description>S. Senthil Nathan, Danilo Puggioni, James M. Rondinelli, Physical review materials. 8(5)] 2024. https://openalex.org/W4396857308
+
+                No abstract</description>
+      <author>S. Senthil Nathan, Danilo Puggioni, James M. Rondinelli</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.054602</guid>
+    </item>
+    <item>
+      <title>Cu Atomic Subnanoclusters on TiO&lt;sub&gt;2&lt;/sub&gt; for Photocatalytic Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acsanm.4c01277</link>
+      <description>Hanjun Zou, Yan Tong, Yajie Feng, Yongfeng Zhou, Jiaxun Xiao, Xia Lu, Anku Guha, B&#225;rbara B. Polesso, Bin Zhang, Juanli Liu, Kaiwen Wang, ACS applied nano materials. None(None)] 2024. https://openalex.org/W4396857555
+
+                No abstract</description>
+      <author>Hanjun Zou, Yan Tong, Yajie Feng, Yongfeng Zhou, Jiaxun Xiao, Xia Lu, Anku Guha, B&#225;rbara B. Polesso, Bin Zhang, Juanli Liu, Kaiwen Wang</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c01277</guid>
+    </item>
+    <item>
+      <title>Dewetting of Pt Nanoparticles Boosts Electrocatalytic Hydrogen Evolution Due to Electronic Metal&#8208;Support Interaction</title>
+      <link>https://doi.org/10.1002/adfm.202403628</link>
+      <description>Shreyas Harsha, Rakesh Kumar Sharma, Martin Dierner, Christoph Baeumer, Igor A. Makhotkin, Guido Mul, Paolo Ghigna, Erdmann Spiecker, Johannes Will, Marco Altomare, Advanced functional materials. None(None)] 2024. https://openalex.org/W4396860609
+
+                Abstract Solid&#8208;state dewetting is the heat&#8208;induced agglomeration of thin metal films into defined nanoparticles (NPs). Dewetted Pt nanoparticles are investigated on F&#8208;doped SnO 2 (FTO) substrates as model binder&#8208;free electrodes for the hydrogen evolution reaction (HER). Dewetting of Pt films into particles exposes the FTO substrate and the metal/support (Pt&#8208;FTO) contact line. Despite the decrease in Pt electrochemical surface area (ECSA) upon dewetting, dewetted NPs show a &gt;3&#8208;fold increase in ECSA&#8208;normalized HER activity compared to as&#8208;deposited nanocrystalline Pt films. Electrodes designed with dewetted Pt NPs of different sizes show that the HER activity does not only correlate with the ECSA but also increases with increasing the Pt&#8208;FTO contact line length. The smaller the NPs, the larger the Pt&#8208;FTO contact line, and the higher the activity. This effect is ascribed to electronic metal&#8208;support interaction (EMSI), due to electron transfer from FTO to Pt. It is proposed that EMSI effects alter the electronic structure of Pt sites near the Pt&#8208;FTO contact line, facilitating the H 2 evolution kinetics. When NPs are a few nm&#8208;sized, a large mass fraction of Pt is affected by EMSI, resulting in a further increase of HER activity compared to NPs &#8805;10 nm despite the lower ECSA.</description>
+      <author>Shreyas Harsha, Rakesh Kumar Sharma, Martin Dierner, Christoph Baeumer, Igor A. Makhotkin, Guido Mul, Paolo Ghigna, Erdmann Spiecker, Johannes Will, Marco Altomare</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202403628</guid>
+    </item>
+    <item>
+      <title>Phase segregation and nanoconfined fluid O2 in a lithium-rich oxide cathode</title>
+      <link>https://doi.org/10.1038/s41563-024-01873-5</link>
+      <description>Kit McColl, Samuel W. Coles, Pezhman Zarabadi&#8211;Poor, Benjamin J. Morgan, M. Sa&#239;ful Islam, Nature materials. None(None)] 2024. https://openalex.org/W4396862249
+
+                Abstract Lithium-rich oxide cathodes lose energy density during cycling due to atomic disordering and nanoscale structural rearrangements, which are both challenging to characterize. Here we resolve the kinetics and thermodynamics of these processes in an exemplar layered Li-rich (Li 1.2&#8211; x Mn 0.8 O 2 ) cathode using a combined approach of ab initio molecular dynamics and cluster expansion-based Monte Carlo simulations. We identify a kinetically accessible and thermodynamically favourable mechanism to form O 2 molecules in the bulk, involving Mn migration and driven by interlayer oxygen dimerization. At the top of charge, the bulk structure locally phase segregates into MnO 2 -rich regions and Mn-deficient nanovoids, which contain O 2 molecules as a nanoconfined fluid. These nanovoids are connected in a percolating network, potentially allowing long-range oxygen transport and linking bulk O 2 formation to surface O 2 loss. These insights highlight the importance of developing strategies to kinetically stabilize the bulk structure of Li-rich O-redox cathodes to maintain their high energy densities.</description>
+      <author>Kit McColl, Samuel W. Coles, Pezhman Zarabadi&#8211;Poor, Benjamin J. Morgan, M. Sa&#239;ful Islam</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41563-024-01873-5</guid>
+    </item>
+    <item>
+      <title>Origin of copper as a unique catalyst for C&#8211;C coupling in electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; reduction</title>
+      <link>https://doi.org/10.1039/d4sc02056a</link>
+      <description>Jie Chen, Benjamin W. J. Chen, Jia Zhang, Wei Chen, Yi&#8208;Yang Sun, Chemical science. None(None)] 2024. https://openalex.org/W4396863962
+
+                Evolution of the molecular orbitals during CO&#8211;CO coupling on the Cu(100) surface and identification of the corresponding frontier molecular orbitals.</description>
+      <author>Jie Chen, Benjamin W. J. Chen, Jia Zhang, Wei Chen, Yi&#8208;Yang Sun</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4sc02056a</guid>
     </item>
     <item>
       <title>Insights into effect of dopant site and dopant concentration on structural, electronic and optical properties of GaNbO&lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e1237" altimg="si56.svg"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mrow&gt;&lt;mml:mn&gt;4&lt;/mml:mn&gt;&lt;/mml:mrow&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; and its implications on visible light photocatalytic behavior: An ab-initio study</title>
@@ -470,22 +490,12 @@
     <item>
       <title>Modeling, Simulation, and Membrane Wetting Estimation in Gas&#8211;Liquid Contacting Processes Including Shell-Side Reaction: Biogas Upgrading Using DEA Solution</title>
       <link>https://doi.org/10.1021/acs.iecr.4c00525</link>
-      <description>G. Pantoleontos, Dimitrios Koutsonikolas, Akrivi Asimakopoulou, &#931;&#959;&#965;&#950;&#940;&#957;&#945; &#923;&#959;&#961;&#941;&#957;&#964;&#950;&#959;&#965;, George Karagiannakis, Industrial &amp; engineering chemistry research. None(None)] 2024. https://openalex.org/W4396771432
+      <description>G. Pantoleontos, D. Koutsonikolas, Akrivi Asimakopoulou, &#931;&#959;&#965;&#950;&#940;&#957;&#945; &#923;&#959;&#961;&#941;&#957;&#964;&#950;&#959;&#965;, George Karagiannakis, Industrial &amp; engineering chemistry research. None(None)] 2024. https://openalex.org/W4396771432
 
                 No abstract</description>
-      <author>G. Pantoleontos, Dimitrios Koutsonikolas, Akrivi Asimakopoulou, &#931;&#959;&#965;&#950;&#940;&#957;&#945; &#923;&#959;&#961;&#941;&#957;&#964;&#950;&#959;&#965;, George Karagiannakis</author>
+      <author>G. Pantoleontos, D. Koutsonikolas, Akrivi Asimakopoulou, &#931;&#959;&#965;&#950;&#940;&#957;&#945; &#923;&#959;&#961;&#941;&#957;&#964;&#950;&#959;&#965;, George Karagiannakis</author>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c00525</guid>
-    </item>
-    <item>
-      <title>An overview of technologies for Capturing, Storing, and utilizing carbon Dioxide: Technology Readiness, large-scale Demonstration, and cost</title>
-      <link>https://doi.org/10.1016/j.cej.2024.151998</link>
-      <description>Divya Baskaran, P. Saravanan, Loganathan Nagarajan, Hun&#8208;Soo Byun, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4396690643
-
-                No abstract</description>
-      <author>Divya Baskaran, P. Saravanan, Loganathan Nagarajan, Hun&#8208;Soo Byun</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.151998</guid>
     </item>
     <item>
       <title>Engineering of polydisperse porous media for enhanced fluid flows through systematic topology tuning via differentiable direct numerical simulation</title>

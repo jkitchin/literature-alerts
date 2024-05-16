@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 May 2024 01:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 01:05:35 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -16,6 +16,16 @@
       <author>Shuo Zhang, Bofeng Zhang, Mingxia Song, Liming Xia, Guozhu Liu</author>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.iecr.4c00411</guid>
+    </item>
+    <item>
+      <title>Structural Evolution of Liquid Metals and Alloys</title>
+      <link>https://doi.org/10.1002/adma.202403885</link>
+      <description>Vaishnavi Krishnamurthi, Ph. Vaillant, Jitendra Mata, Chung Kim Nguyen, Caiden J. Parker, Karma Zuraiqi, Gary Bryant, Kin Seng Chiang, Salvy P. Russo, Andrew J. Christofferson, Aaron Elbourne, Torben Daeneke, Advanced materials. None(None)] 2024. https://openalex.org/W4396856025
+
+                Abstract Low&#8208;melting liquid metals are emerging as a new group of highly functional solvents due to their capability to dissolve and alloy various metals in their elemental state to form solutions as well as colloidal systems. Furthermore, these liquid metals can facilitate and catalyze multiple unique chemical reactions. Despite the intriguing science behind liquid metals and alloys, very little is known about their fundamental structures in the nanometric regime. To bridge this gap, this work employs small angle neutron scattering and molecular dynamics simulations, revealing that the most commonly used liquid metal solvents, EGaIn and Galinstan, are surprisingly structured with the formation of clusters ranging from 157 &#197; to 15.7 &#197;. Conversely, non&#8208;eutectic liquid metal alloys of GaSn or GaIn at low solute concentrations of 1, 2, and 5wt%, as well as pure Ga, do not exhibit these structures. Importantly, the eutectic alloys retain their structure even at elevated temperatures of 60 and 90 &#176;C, highlighting that they are not just simple homogeneous fluids consisting of individual atoms. Understanding the complex soft structure of liquid alloys will assist in comprehending complex phenomena occurring within these fluids and contribute to deriving reaction mechanisms in the realm of synthesis and liquid metal&#8208;based catalysis. This article is protected by copyright. All rights reserved</description>
+      <author>Vaishnavi Krishnamurthi, Ph. Vaillant, Jitendra Mata, Chung Kim Nguyen, Caiden J. Parker, Karma Zuraiqi, Gary Bryant, Kin Seng Chiang, Salvy P. Russo, Andrew J. Christofferson, Aaron Elbourne, Torben Daeneke</author>
+      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202403885</guid>
     </item>
   </channel>
 </rss>

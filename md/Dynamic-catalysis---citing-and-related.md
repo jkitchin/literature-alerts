@@ -1,19 +1,9 @@
 # Dynamic catalysis - citing and related
 Description: papers related to dynamic catalysis
-Created on Wed May 15 01:06:08 2024
+Created on Thu May 16 01:05:37 2024
 
-Found 1 results from 2024-05-08 to 2024-05-15
+Found 0 results from 2024-05-09 to 2024-05-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=related_to%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2945032606%7Chttps%3A//openalex.org/W2969923410%7Chttps%3A//openalex.org/W3010067097%7Chttps%3A//openalex.org/W3041061357%7Chttps%3A//openalex.org/W3093929595)
 
-## Magnetic cobalt metal organic framework for photocatalytic water splitting hydrogen evolution   
-
-OpenAlex: https://openalex.org/W4396708197    
-Open access: True
-    
-[Mohammad Hossein Razeghi](https://openalex.org/A5036274657), [Ozra Gholipour](https://openalex.org/A5092541962), [Jaber Jahanbin Sardroodi](https://openalex.org/A5008853032), [Sajjad Keshipour](https://openalex.org/A5023490152), [Akbar Hassanzadeh](https://openalex.org/A5047122070), Discover Nano. 19(1)] 2024.https://doi.org/10.1186/s11671-024-04019-3 ([pdf](https://link.springer.com/content/pdf/10.1186/s11671-024-04019-3.pdf)).
-    
-Using water as a renewable and safe energy source for hydrogen generation has reduced the need to use toxic fossil fuels. Photocatalytic approaches provide a worthy solution to avoid the high expenditure on complicated electrochemical pathways to promote Hydrogen Evolution Reactions. However, several types of photocatalysts including noble metal-based catalysts have already been in use for this purpose, which are generally considered high-cost as well. The present study aims to use the benefits of metal-organic frameworks (MOFs) with semiconductor-like characteristics, highly porous structures and high design flexibility. These properties of MOFs allow more efficient and effective mass transport as well as exposure to light.in this paper, using MOF technology and benefiting from the characteristics of Fe    
-
-    

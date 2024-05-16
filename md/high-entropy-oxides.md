@@ -1,18 +1,8 @@
 # high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Wed May 15 01:06:05 2024
+Created on Thu May 16 01:05:35 2024
 
-Found 1 results from 2024-05-08 to 2024-05-15
+Found 0 results from 2024-05-09 to 2024-05-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis](https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis)
 
-## Enhancing sulfur resistance of oxides in carbon monoxide oxidation by a high‐entropy‐stabilized strategy   
-
-OpenAlex: https://openalex.org/W4396706305    
-Open access: False
-    
-[Shengyu Du](https://openalex.org/A5029370723), [Pengfei Zhang](https://openalex.org/A5005363741), AIChE journal. None(None)] 2024.https://doi.org/10.1002/aic.18470.
-    
-Abstract Industrial chemical processes require sulfur‐resistant catalysts, which reduce catalyst replacement costs and simplify process operations. Herein, a high‐entropy‐stabilized strategy was put forward for sulfur‐resistant catalysis. A spinel high entropy (Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 ) was introduced by ball milling process with aluminum isopropoxide as the main precursor. Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 possessed a high surface area of 171.2 m 2 g −1 , higher than typical high‐entropy oxides (HEOs). The high‐entropy spinel catalyst exhibited better SO 2 ‐resistance performance in the oxidation of carbon monoxide, better than the simple oxides. The SO 2 ‐resistance of Zn 0.2 Mg 0.2 Cu 0.2 Mn 0.2 Co 0.2 Al 2 O 4 was primarily improved by reinforcing the stability of the oxide using a high‐entropy structure to decrease the absorption of SO 2 on its surface. Any adsorbed SO 2 on the surface of the HEO was then selectively trapped by sacrificial metal ions with stronger electron‐withdrawing ability, protecting the active center (Cu 2+ , Co 2+ ) from poisoning. This work reveals the significance of high‐entropy structures in sulfur resistance.    
-
-    

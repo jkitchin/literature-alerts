@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 15 May 2024 01:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 01:05:37 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Magnetic cobalt metal organic framework for photocatalytic water splitting hydrogen evolution</title>
-      <link>https://doi.org/10.1186/s11671-024-04019-3</link>
-      <description>Mohammad Hossein Razeghi, Ozra Gholipour, Jaber Jahanbin Sardroodi, Sajjad Keshipour, Akbar Hassanzadeh, Discover Nano. 19(1)] 2024. https://openalex.org/W4396708197
-
-                Using water as a renewable and safe energy source for hydrogen generation has reduced the need to use toxic fossil fuels. Photocatalytic approaches provide a worthy solution to avoid the high expenditure on complicated electrochemical pathways to promote Hydrogen Evolution Reactions. However, several types of photocatalysts including noble metal-based catalysts have already been in use for this purpose, which are generally considered high-cost as well. The present study aims to use the benefits of metal-organic frameworks (MOFs) with semiconductor-like characteristics, highly porous structures and high design flexibility. These properties of MOFs allow more efficient and effective mass transport as well as exposure to light.in this paper, using MOF technology and benefiting from the characteristics of Fe</description>
-      <author>Mohammad Hossein Razeghi, Ozra Gholipour, Jaber Jahanbin Sardroodi, Sajjad Keshipour, Akbar Hassanzadeh</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1186/s11671-024-04019-3</guid>
-    </item>
   </channel>
 </rss>
