@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 16 May 2024 01:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 01:06:03 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A review of catalytic reduction of carbon dioxide</title>
-      <link>https://doi.org/10.54254/2755-2721/63/20241001</link>
-      <description>Jiajie Shen, Applied and computational engineering. 63(1)] 2024. https://openalex.org/W4396737676
-
-                Carbon dioxide (CO2) generated from the consumption of fossil fuels is one of the main factors contributing to the greenhouse effect. How to mitigate the greenhouse effect and reduce the extraction and consumption of fossil fuels has become an issue worthy of study. In recent years, a technology for the catalytic reduction of CO2 to fossil fuels and chemicals has attracted a great deal of attention by providing a new way to solve this problem. This paper reviews the basic principles of three fundamental catalytic CO2 reduction, photocatalysis, electrocatalysis and thermocatalysis, and two advanced catalytic modes, thermocatalysis and photoelectrocatalysis, derived from these three modes, as well as their advantages and disadvantages. In addition, the challenges that the catalytic reduction of CO2 is currently facing are also discussed. Although this technology has made significant progress over the decades, it is still in its preliminary stage with some shortcomings and there is a long way to go before it can be applied in reality.</description>
-      <author>Jiajie Shen</author>
-      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54254/2755-2721/63/20241001</guid>
-    </item>
-    <item>
-      <title>Mechanism study on dissociation of hydrogen and carbon dioxide towards carbon dioxide methanation</title>
-      <link>https://doi.org/10.1016/j.cej.2024.152021</link>
-      <description>Baowang Lu, Yuyu Liu, Mitsuhiro Inoue, Eric Rukundo, Takayuki Abe, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4396749524
-
-                The study of carbon dioxide (CO2) methanation mechanisms widely argues on the nature and formation of intermediates. How reactants dissociate is still poorly understood. To gain deeper knowledge on its mechanism, we focused on studying reactants dissociation. After H2 dissociation and diffusion, the spillover H atom was observed, as well as the confirmation of H cluster formation on metal through aggregation by simulation and experiment. This H cluster facilitated C-O bond scission to easily form H ligand cobonded to metal, and thus resulted in high CO2 methanation performance. Four driving forces could dissociate CO2, three of them came from supports and metals, and another one was atomic H on metal as the strongest force. This simple and convenient method has wide adaptability and can be developed as an effective standard method for studying CO2 dissociation. The facile dissociation study of reactants would be very helpful in understanding the CO2 hydrogenation mechanism.</description>
-      <author>Baowang Lu, Yuyu Liu, Mitsuhiro Inoue, Eric Rukundo, Takayuki Abe</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152021</guid>
-    </item>
     <item>
       <title>Stabilizing the oxidation state of catalysts for effective electrochemical carbon dioxide conversion</title>
       <link>https://doi.org/10.1039/d3cs00887h</link>
@@ -88,16 +68,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.coelec.2024.101534</guid>
     </item>
     <item>
-      <title>Evaluating the Particulate Matter and Carbon Dioxide Reduction of Four Broad-leaved Evergreen Plants</title>
-      <link>https://doi.org/10.11628/ksppe.2024.27.2.95</link>
-      <description>Huong-Thi Bui, Moonsun Jeong, Sang Yong Kim, Bong-Ju Park, Journal of people, plants, and environment. 27(2)] 2024. https://openalex.org/W4396747635
-
-                Background and objective: Since people spend 70-80% of their time indoors, the quality of indoor air has become a crucial factor in overall health. Therefore, poor indoor air quality can have significant adverse effects on our well-being. Common indoor air pollutants are particulate matter (PM) and carbon dioxide (CO2). Plants can remove PM and CO2 through the photosynthesis process and leaf surfaces, and regulate the temperature and humidity of the air. By analyzing the PM and CO2 reduction of four broad-leaved evergreen plants, this study aims to provide data for air purification in indoor spaces.Methods: The four different plant species (Neolitsea sericea (Blume) Koidz., Coffea arabica L., Photinia glabra(Thunb.) Franch. and Sav., and Farfugium japonicum (L.) Kitam.) were selected for this study. Mosquito coils and a CO2 cylinder were the primary sources of PM and CO2. These pollutants were injected into a closed acrylic chamber with plants, and the air quality within the chamber was monitored for a duration of five hours. The plants' effectiveness in reducing carbon dioxide was evaluated through the clean air delivery rate (CADR), while their ability to reduce PM was assessed by analyzing the PM reduction rate. Photosynthetic rates and leaf area were also measured to determine the correlation between air pollution removal and these factors.Results: The ability to remove PM and CO2 varied among plants. Plants with higher rates of photosynthesis were more effective in reducing PM and CO2 than those with lower rates. Among the four plant species, C. arabica and P. glabra were more effective in removing PM and CO2 than the other species. The chamber containing plants exhibited higher humidity and lower temperatures compared to the chamber without plants.Conclusion: These findings suggest that plants can play a significant role in improving indoor air quality. Not only do they effectively reduce levels of PM and CO2, but they also contribute to the regulation of indoor temperature and humidity. The implications of these results highlight the potential of integrating plants into indoor spaces as a natural and multifaceted solution for creating healthier and more comfortable environments.</description>
-      <author>Huong-Thi Bui, Moonsun Jeong, Sang Yong Kim, Bong-Ju Park</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.11628/ksppe.2024.27.2.95</guid>
-    </item>
-    <item>
       <title>Studying the Impact of Renewable Energy Management Systems and Nuclear Energy on Carbon Dioxide Emissions Reductions in G20 Countries</title>
       <link>https://doi.org/10.2139/ssrn.4823447</link>
       <description>Amr R. Kamel, Mohamed R. Abonazel, No host. None(None)] 2024. https://openalex.org/W4396816587
@@ -118,16 +88,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152224</guid>
     </item>
     <item>
-      <title>Post&#8208;synthetic Metalation on the Ionic TiO2 Surface to Enhance Metal&#8208;CO2 Interaction During Photochemical CO2 Reduction</title>
-      <link>https://doi.org/10.1002/chem.202400428</link>
-      <description>Laxmikanta Mallick, Krishna Samanta, Biswarup Chakraborty, Chemistry. None(None)] 2024. https://openalex.org/W4396740359
-
-                During the photochemical CO2 reduction reaction, CO2 adsorption on the catalyst&#8217;s surface is a crucial step where the binding mode of the [metal&#8208;CO2] adduct directs the product selectivity and efficiency. Herein, an ionic TiO2 nanostructure stabilized by polyoxometalates (POM), ([POM]x@TiO2), is prepared and the sodium counter ions present on the surface to balance the POMs&#8217; charge are replaced with copper(II) ions, (Cux[POM]@TiO2). The microscopic and spectroscopic studies affirm the copper exchange without altering the TiO2 core and weak coordination of copper (II) ions to the POMs&#8217; surface. Band structure analysis suggests the photo&#8208;harvesting efficiency of the TiO2 core with the conduction band edge higher than the reduction potential of CuII/I and multi&#8208;electron CO2 reduction potentials. Photochemical CO2 reduction with Cux[POM]@TiO2 results in 30 &#181;mol gcat.&#8208;1 CO (79%) and 8 &#181;mol gcat&#8208;1 of CH4 (21%). Quasi&#8208;in&#8208;situ Raman study provides evidence in support of CO2 adsorption on the Cux[POM]@TiO2 surface. 13C and D2O labeling studies validates the {Cu&#8208;[CO2]&#8208;} adduct formation. Despite the photo&#8208;harvesting ability of Nax[POM]@TiO2 itself, the poor CO2 adsorption ability of sodium ions highlights the crucial role of copper ion CO2 photo&#8208;reduction. Characterization of the {M&#8208;[&#951;2&#8208;CO2]&#8208;} species via surface tuning validates the CO2 activation and photochemical reduction pathway proposed earlier.</description>
-      <author>Laxmikanta Mallick, Krishna Samanta, Biswarup Chakraborty</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/chem.202400428</guid>
-    </item>
-    <item>
       <title>Perovskite Oxide Catalysts for Enhanced CO2 Reduction: Embroidering Surface Decoration with Ni and Cu Nanoparticles</title>
       <link>https://doi.org/10.3390/catal14050313</link>
       <description>Andrea Osti, Lorenzo Rizzato, Jonathan Cavazzani, Anna Meneghello, Antonella Glisenti, Catalysts. 14(5)] 2024. https://openalex.org/W4396805639
@@ -136,26 +96,6 @@
       <author>Andrea Osti, Lorenzo Rizzato, Jonathan Cavazzani, Anna Meneghello, Antonella Glisenti</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14050313</guid>
-    </item>
-    <item>
-      <title>Reconstruction mechanism of Cu surface in CO2 reduction process</title>
-      <link>https://doi.org/10.1016/j.cjsc.2024.100328</link>
-      <description>Ding Wang, Tianbao Zhang, Zhenxing Li, Jiegou huaxue/Chinese journal of structural chemistry. None(None)] 2024. https://openalex.org/W4396750255
-
-                No abstract</description>
-      <author>Ding Wang, Tianbao Zhang, Zhenxing Li</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cjsc.2024.100328</guid>
-    </item>
-    <item>
-      <title>Microenvironment effects from first principles multiscale modeling of electrochemical CO2 reduction</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-ff7s8</link>
-      <description>Francesca Lorenzutti, Ranga Rohit Seemakurthi, Evan Johnson, Santiago Morandi, Pavle Nikacevic, N&#250;ria L&#243;pez, Sophia Haussener, No host. None(None)] 2024. https://openalex.org/W4396748070
-
-                Electrochemical CO2 reduction will be a key player in net-zero technologies, yet its industrial implementation is limited. Improvements by fine-tuning the microenvironments, electrolyte environments around the catalytic sites, have been scarce due to the interplay between electrode kinetics and transport. Here, we couple atomistic insights with continuum transport via ab-initio multiscale modeling, explicitly including electrolyte effects at all scales. The model was validated on Ag planar electrodes in several liquid electrolytes and the current dependence with voltage aligns with experimental observations. We show that a balance between CO2 diffusion and cation accumulation needs be achieved to obtain optimal rates. In ionomers, this limitation can be overcome since organic cations-based microenvironments are present at a fixed concentration, but water management becomes critical. Our approach paves the way towards rational microenvironment design in electrochemical CO2 conversion.</description>
-      <author>Francesca Lorenzutti, Ranga Rohit Seemakurthi, Evan Johnson, Santiago Morandi, Pavle Nikacevic, N&#250;ria L&#243;pez, Sophia Haussener</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-ff7s8</guid>
     </item>
     <item>
       <title>meso-Substituent electronic effect of Fe porphyrins on electrocatalytic CO2 reduction reaction</title>
@@ -168,16 +108,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4cc01630k</guid>
     </item>
     <item>
-      <title>Investigations on PbS/SiPY-Based Photocathode for Photoelectrochemical Reduction of CO2</title>
-      <link>https://doi.org/10.1134/s1023193524030054</link>
-      <description>K. Benfadel, L. Talbi, Sabiha Anas Boussaa, A. Boukezzata, Y. Ouadah, D. S. Allam, Sma&#239;n Hocine, L. Allad, A. Ouerk, C. Torki, S. Bouanik, S. Achacha, A. Manseri, F. Kezzoula, A. Keffous, S. Kaci, Russian journal of electrochemistry. 60(3)] 2024. https://openalex.org/W4396731974
-
-                No abstract</description>
-      <author>K. Benfadel, L. Talbi, Sabiha Anas Boussaa, A. Boukezzata, Y. Ouadah, D. S. Allam, Sma&#239;n Hocine, L. Allad, A. Ouerk, C. Torki, S. Bouanik, S. Achacha, A. Manseri, F. Kezzoula, A. Keffous, S. Kaci</author>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1134/s1023193524030054</guid>
-    </item>
-    <item>
       <title>Reduction of an Ilmenite Concentrate by Using a Novel CO2/CH4 Thermal Plasma Torch</title>
       <link>https://doi.org/10.3390/min14050502</link>
       <description>Mohammed El Khalloufi, Gervais Soucy, Jonathan Lapointe, Marcel Paquet, Minerals. 14(5)] 2024. https://openalex.org/W4396802815
@@ -186,16 +116,6 @@
       <author>Mohammed El Khalloufi, Gervais Soucy, Jonathan Lapointe, Marcel Paquet</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/min14050502</guid>
-    </item>
-    <item>
-      <title>Nitrogen-Doped Cellulose-Based Porous Carbon for Electrocatalytic CO2 Reduction to CO</title>
-      <link>https://doi.org/10.1007/s10562-024-04696-w</link>
-      <description>Zhiwei Zhou, Peking Xia, Yifan Tan, Shuning Xiao, Yuhua Xue, Jing Li, Guangzhi Yang, Catalysis letters. None(None)] 2024. https://openalex.org/W4396736041
-
-                No abstract</description>
-      <author>Zhiwei Zhou, Peking Xia, Yifan Tan, Shuning Xiao, Yuhua Xue, Jing Li, Guangzhi Yang</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10562-024-04696-w</guid>
     </item>
     <item>
       <title>Unveiling Dynamic Structure and Bond Evolutions in BiOIO3 Photocatalysts during CO2 Reduction</title>
@@ -258,16 +178,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.088</guid>
     </item>
     <item>
-      <title>Regulating the d-band center of Cu nanoparticles for efficient photo-driven catalytic CO2 reduction</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124167</link>
-      <description>Libo Wang, Shumin Zhang, Yang Michael Yang, Jiaguo Yu, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4396732638
-
-                No abstract</description>
-      <author>Libo Wang, Shumin Zhang, Yang Michael Yang, Jiaguo Yu</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124167</guid>
-    </item>
-    <item>
       <title>Co-utilization of Wastewater Sludge and Heavy Metals for Single-Atom Electrocatalytic Reduction of Gaseous CO2</title>
       <link>https://doi.org/10.1016/j.isci.2024.109956</link>
       <description>Baiqin Zhou, Zhida Li, Xinyue He, Chunyue Zhang, Shanshan Pi, Min Yang, Shiguo Zhang, Guifeng Li, Ziqi Zhang, Lu Lu, iScience. None(None)] 2024. https://openalex.org/W4396789080
@@ -318,16 +228,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141330</guid>
     </item>
     <item>
-      <title>A Linear Correlation of p-Band Center with the Performance of Electrochemical CO2 Reduction Revealed by Sn Single-Atom Catalysts</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124160</link>
-      <description>Jiangyi Guo, Fengshou Yu, Yang You, Jiayu Zhan, Luhua Zhang, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4396732235
-
-                No abstract</description>
-      <author>Jiangyi Guo, Fengshou Yu, Yang You, Jiayu Zhan, Luhua Zhang</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124160</guid>
-    </item>
-    <item>
       <title>A Highly Oxygen Reduction Reaction Active and CO2 Durable High-entropy Cathode for Solid Oxide Fuel Cells</title>
       <link>https://doi.org/10.1016/j.apcatb.2024.124175</link>
       <description>Fan He, Feng Zhu, Kang Xu, Yangsen Xu, Dongliang Li, Guangming Yang, Kotaro Sasaki, YongMan Choi, Yu Chen, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4396794246
@@ -336,16 +236,6 @@
       <author>Fan He, Feng Zhu, Kang Xu, Yangsen Xu, Dongliang Li, Guangming Yang, Kotaro Sasaki, YongMan Choi, Yu Chen</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124175</guid>
-    </item>
-    <item>
-      <title>Metal-Free, Light Assisted Integrated Co2 Reduction Coupled with Selective Oxidation of Alcohols Under Visible Light Irradiation</title>
-      <link>https://doi.org/10.2139/ssrn.4821831</link>
-      <description>Suman L. Jain, Nitish Saini, Anil Malik, B. Moses Abraham, No host. None(None)] 2024. https://openalex.org/W4396754557
-
-                An integrated CO2 photoreduction to CO by photo-induced electrons coupled with selective oxidation of aromatic alcohols to carbonyl compounds by photo-generated holes using metal-free anthraquinone (AQ) as an organo-photocatalyst under visible illumination is described. The maximum conversion of benzyl alcohol to benzaldehyde was 65.4% with a selectivity of 98%, accompanied with the CO yield in gaseous phase 8.67 &#956;mol h-1 g-1. DFT calculations indicate that initial binding of benzyl alcohol with AQ forms an intermediate IM1 that subsequently interacts with CO2 to give CO2 anion with a free energy change of 0.24 eV. Further, the reduction of CO2 to CO coupled with the oxidation of benzyl alcohol to benzaldehyde and the release of a water molecule. This concerted metal-free photocatalytic system efficiently offers the combined use of electron-hole pairs for integrated organic synthesis coupled with the CO2 conversion in a cost-effective and sustainable manner.</description>
-      <author>Suman L. Jain, Nitish Saini, Anil Malik, B. Moses Abraham</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821831</guid>
     </item>
     <item>
       <title>Enhanced electrocatalytic CO2 reduction through constructing chemically homogeneous interfaces via ultrathin carbon encapsulated tin oxide</title>
@@ -418,16 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.62744/cate.45273.1190-452-461</guid>
     </item>
     <item>
-      <title>Nitrided Copper-Iron Composite Oxides Derived from Layered Double Hydroxides for Enhanced Carbon Dioxide Electroreduction to Methane and Formic Acid</title>
-      <link>https://doi.org/10.59400/esc.v2i2.369</link>
-      <description>Dandan Song, Jinqing He, Yiping Wang, Xuhui Zhao, Fazhi Zhang, Xiaodong Lei, Deleted Journal. 2(2)] 2024. https://openalex.org/W4396747748
-
-                The reduction of carbon dioxide to valuable chemical products is a promising solution to address carbon balance and energy issues. Herein, amorphous nitrided copper-iron oxides are prepared by gas-phase nitriding of CuFe-layered double hydroxide precursors with urea as nitrogen source. Amorphous materials are more likely to generate defect vacancies during the reaction process, and these vacancies can function as active sites for catalytic reactions. Therefore, the obtained materials show high activity for CO2 electroreduction to methane and formic acid, achieving a total Faraday efficiency of 74.7% at &#8722;0.7 V vs RHE and exhibiting a continuous 10 h durability in the H-cell. The uniformly distributed Cu+ sites act as active sites by losing electrons to activate CO2. During the CO2 electroreduction, CO2 is converted to *COOH via proton-electron coupling, *COOH combines directly with a proton in solution to produce the HCOOH product, and the other part of *COOH undergoes a protonated dehydration process to form the *CHO intermediate which dehydrates again to form CH4. This study provides a new approach for designing CO2 electroreduction catalysts.</description>
-      <author>Dandan Song, Jinqing He, Yiping Wang, Xuhui Zhao, Fazhi Zhang, Xiaodong Lei</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.59400/esc.v2i2.369</guid>
-    </item>
-    <item>
       <title>Residual emissions and carbon removal towards Japan&#8217;s net-zero goal: A multi-model analysis</title>
       <link>https://doi.org/10.1088/2515-7620/ad4af2</link>
       <description>Masahiro Sugiyama, Shinichiro Fujimori, Kazumi Wada, Etsushi Kato, Yuhji Matsuo, Osamu Nishiura, Ken Oshiro, Tetsuo Otsuki, Environmental research communications. None(None)] 2024. https://openalex.org/W4396873247
@@ -480,16 +360,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.rineng.2024.102228</guid>
     </item>
     <item>
-      <title>Path to pollution and carbon reduction synergy from the perspective of the digital economy: Fresh evidence from 292 prefecture-level cities in China</title>
-      <link>https://doi.org/10.1016/j.envres.2024.119050</link>
-      <description>Liang Chenlu, Xiaolong Chen, Di Qin, Environmental research. 252(None)] 2024. https://openalex.org/W4396721660
-
-                The digital economy is a crucial focus for realizing the transformation of old and new kinetic energy in China. It is widely integrated with various fields of the economy and society, constantly providing a new dynamic mechanism with synergetic control of environmental pollution and carbon emissions (SCEPCE). Based on panel data from 292 prefecture-level cities in China from 2011 to 2021, this study discusses the spatial effects and mechanisms of the digital economy on the coordinated control of pollutants and carbon emissions. The study found that: (1) The digital economy has direct and indirect influences on the coordinated control of pollutants and carbon emissions. The digital economy can drive reductions in pollutants and carbon dioxide emissions by upgrading industrial structures and transforming energy structures. (2) Green innovation plays an active regulatory role in the digital economy and structural optimization, particularly in the context of SCEPCE. This interference helps mitigate the impact of the digital economy on pollution and carbon emissions. (3) The digital economy has a significant spatial spillover effect on the coordinated control of pollutants and carbon emissions. (4) The influence mechanism of the digital economy on pollution reduction and carbon reduction synergy exhibits geographical heterogeneity, resource endowment heterogeneity. To enhance the synergy of pollution reduction and carbon reduction, it is essential to bolster support and optimise the digital economy at various levels. This includes reinforcing regional balance, considering spatial spillover effects, and enhancing the leading role of developed cities in the region.</description>
-      <author>Liang Chenlu, Xiaolong Chen, Di Qin</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.119050</guid>
-    </item>
-    <item>
       <title>The impact of climate change and technological innovation on economic recovery in sub-Saharan Africa: A machine learning perspective</title>
       <link>https://doi.org/10.21203/rs.3.rs-4245184/v1</link>
       <description>Mwoya Byaro, Anicet Rwezaula, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4396867173
@@ -540,16 +410,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.carbon.2024.119233</guid>
     </item>
     <item>
-      <title>Eco-Friendly Energy Efficient Classrooms and Sustainable Campus Strategies: A Case Study on Energy Management and Carbon Footprint Reduction</title>
-      <link>https://doi.org/10.32479/ijeep.15712</link>
-      <description>Ganesh Patil, Satish Suresh Tanavade, International journal of energy economics and policy. 14(3)] 2024. https://openalex.org/W4396747782
-
-                This research paper presents a comprehensive study on energy management and carbon footprint reduction in an educational institutional campus. It focuses on implementing energy-efficient technologies and practices to minimize energy consumption and environmental impact. The study encompasses four cases, each addressing different aspects of energy use in a university setting, including the installation of LED lighting, programmable remote switches, and high-efficiency air conditioning systems. The methodology involves a detailed analysis of energy consumption patterns, using smart energy meters and theoretical calculations. Case I establishes a baseline energy consumption, while subsequent cases implement energy-saving measures. Case II involves replacing traditional tube lights with energy-efficient LED lights, resulting in considerable energy savings. Case III extends these savings further by integrating programmable remote switches mapped with student timetables. Finally, Case IV proposes the replacement of older air conditioning units with 25 SEER models, leading to significant reductions in energy use. The results highlight the effectiveness of these interventions. Case II achieves a 66.67% energy saving, while Case III yields up to 77.78% energy saving in lighting and 33.34% in air conditioning. In Case IV, the adoption of high-efficiency air conditioners can result in a 52% energy saving during teaching weeks. The economic benefits of these measures are substantial, with cost savings per classroom ranging from 7.65% in Case II to 53.46% in Case IV. Moreover, the environmental impact of these energy conservation techniques is substantial. The study reports reductions in carbon emissions from 14.71metric tons of carbon dioxide equivalent (MT CO2e) in base Case I to 6.85 MT CO2e in Case IV. The overall carbon emission reductions for Cases II, III, and IV are 7.61%, 36.37%, and 53.43%, respectively. This study demonstrates the profound impact of integrated energy management strategies in reducing the carbon footprint and energy consumption in educational institutions, offering a model for sustainable and economically viable operations.</description>
-      <author>Ganesh Patil, Satish Suresh Tanavade</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32479/ijeep.15712</guid>
-    </item>
-    <item>
       <title>Indigo as a Low&#8208;Cost Redox&#8208;Active Sorbent for Electrochemically Mediated Carbon Capture</title>
       <link>https://doi.org/10.1002/adfm.202402355</link>
       <description>Krish N. Jayarapu, Anmol Mathur, Xing Li, Andong Liu, Lingyu Zhang, Jaeeun Kim, Hyun-Ah Kim, Su Keun Kuk, Yayuan Liu, Advanced functional materials. None(None)] 2024. https://openalex.org/W4396857371
@@ -558,16 +418,6 @@
       <author>Krish N. Jayarapu, Anmol Mathur, Xing Li, Andong Liu, Lingyu Zhang, Jaeeun Kim, Hyun-Ah Kim, Su Keun Kuk, Yayuan Liu</author>
       <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202402355</guid>
-    </item>
-    <item>
-      <title>Global Polyethylene Terephthalate (PET) Plastic Supply Chain Resource Metabolism Efficiency and Carbon Emissions Co-Reduction Strategies</title>
-      <link>https://doi.org/10.3390/su16103926</link>
-      <description>C. Duan, Zhen Wang, Bingzheng Zhou, Xiaolei Yao, Sustainability. 16(10)] 2024. https://openalex.org/W4396747385
-
-                Polyethylene terephthalate (PET) is widely used as a primary plastic packaging material in the global socio-economic system. However, research on the metabolic characteristics of the PET industry across different countries, particularly regarding the entire life cycle supply chain of PET, remains insufficient, significantly hindering progress in addressing plastic pollution worldwide. This study employs the Life Cycle Assessment-Material Flow Analysis (LCA-MFA) method to comprehensively analyze the environmental impacts of PET plastics, with a focus on the processes from production to disposal in 12 regions (covering 41 countries) in 2020. By constructing 13 scenarios and analyzing the development trajectory of PET plastics from 2020 to 2030, this study provides scientific evidence and specific strategies for waste reduction and emission reduction measures in the PET industry. Overall, in 2020, the 12 regions (41 countries) consumed 7297.7 kilotons (kt) of virgin PET resin and 1189.4 kt of recycled PET resin; 23% of plastic waste was manufactured into recycled PET materials, 42% went to landfills, and 35% was incinerated. In 2020, the entire PET plastic supply chain emitted approximately 534.6 million tons (Mt) of carbon dioxide equivalent per year, with production emissions accounting for 46.1%, manufacturing stage emissions accounting for 44.7%, and waste treatment stage emissions accounting for 9.2%. Research indicates that under a scenario of controlled demand, resource efficiency improvement and emission reduction are the most effective, potentially reducing carbon emissions by up to 40%.</description>
-      <author>C. Duan, Zhen Wang, Bingzheng Zhou, Xiaolei Yao</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16103926</guid>
     </item>
     <item>
       <title>Applicability of carbon nanotube-incorporated cement-based composites as a sensor for measuring the carbonation front: an overview</title>
@@ -580,16 +430,6 @@
       <guid isPermaLink="true">https://doi.org/10.1117/12.3012724</guid>
     </item>
     <item>
-      <title>Reduced erosion and its erosion reducing mechanism of gun propellants by octaphenylsilsesquioxane</title>
-      <link>https://doi.org/10.1016/j.jmst.2024.05.001</link>
-      <description>Taixin Liang, Jiaxin Lu, Fei Xiao, Hongxu Guo, Chunzhi Li, Miao He, Baosheng Liu, Zeinhom M. El&#8208;Bahy, Nawaa Ali H. Alshammari, Xin Liao, Salah M. El&#8208;Bahy, Zhongliang Xiao, Zhanhu Guo, Journal of Materials Science and Technology/Journal of materials science &amp; technology. None(None)] 2024. https://openalex.org/W4396830458
-
-                Low erosion high-energy propellant is one of the research directions to extend the weapon's life and improve the weapon's capability. In this study, energetic propellants containing different corrosion inhibitors were designed and prepared. Close bomb tests and semi-confined bomb experiments were used to investigate the burning and erosion properties of the propellants. The mechanism of erosion-reducing of titanium dioxide (TiO2), talc, and octaphenylsilsesquioxane (OPS) on the propellant was comparatively analyzed. The results show that OPS has the lowest burning rate and the longest burning time, and a minimized loss of fire force, with the best effect of explosion heat reduction. The erosion reduction efficiency of OPS is twice that of TiO2 and talc. The mechanism analysis shows that the decomposition and heat absorption of OPS can effectively reduce the thermal erosion effect and carbon erosion, and the gas produced can reduce the loss of chamber pressure and form a uniformly distributed nano-SiO2 protective layer. This solid-state high-efficiency organosilicon erosion inhibitor is an important guide for designing high-energy low-erosion gun propellants.</description>
-      <author>Taixin Liang, Jiaxin Lu, Fei Xiao, Hongxu Guo, Chunzhi Li, Miao He, Baosheng Liu, Zeinhom M. El&#8208;Bahy, Nawaa Ali H. Alshammari, Xin Liao, Salah M. El&#8208;Bahy, Zhongliang Xiao, Zhanhu Guo</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.05.001</guid>
-    </item>
-    <item>
       <title>Effect of CO&lt;sub&gt;2&lt;/sub&gt; Gasification on Nitrogen Oxide Emission in Oxy-Fuel Combustion</title>
       <link>https://doi.org/10.1021/acs.jpca.4c00835</link>
       <description>Zilong Wang, Anyao Jiao, Feng Liu, Xiaowei Liao, &#152;The &#156;journal of physical chemistry. A/&#152;The &#156;journal of physical chemistry. A.. None(None)] 2024. https://openalex.org/W4396789589
@@ -600,6 +440,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpca.4c00835</guid>
     </item>
     <item>
+      <title>Reduced erosion and its erosion reducing mechanism of gun propellants by octaphenylsilsesquioxane</title>
+      <link>https://doi.org/10.1016/j.jmst.2024.05.001</link>
+      <description>Taixin Liang, Jiaxin Lu, Fei Xiao, Hongxu Guo, Chunzhi Li, Miao He, Baosheng Liu, Zeinhom M. El&#8208;Bahy, Nawaa Ali H. Alshammari, Xin Liao, Salah M. El&#8208;Bahy, Zhongliang Xiao, Zhanhu Guo, Journal of Materials Science and Technology/Journal of materials science &amp; technology. None(None)] 2024. https://openalex.org/W4396830458
+
+                Low erosion high-energy propellant is one of the research directions to extend the weapon's life and improve the weapon's capability. In this study, energetic propellants containing different corrosion inhibitors were designed and prepared. Close bomb tests and semi-confined bomb experiments were used to investigate the burning and erosion properties of the propellants. The mechanism of erosion-reducing of titanium dioxide (TiO2), talc, and octaphenylsilsesquioxane (OPS) on the propellant was comparatively analyzed. The results show that OPS has the lowest burning rate and the longest burning time, and a minimized loss of fire force, with the best effect of explosion heat reduction. The erosion reduction efficiency of OPS is twice that of TiO2 and talc. The mechanism analysis shows that the decomposition and heat absorption of OPS can effectively reduce the thermal erosion effect and carbon erosion, and the gas produced can reduce the loss of chamber pressure and form a uniformly distributed nano-SiO2 protective layer. This solid-state high-efficiency organosilicon erosion inhibitor is an important guide for designing high-energy low-erosion gun propellants.</description>
+      <author>Taixin Liang, Jiaxin Lu, Fei Xiao, Hongxu Guo, Chunzhi Li, Miao He, Baosheng Liu, Zeinhom M. El&#8208;Bahy, Nawaa Ali H. Alshammari, Xin Liao, Salah M. El&#8208;Bahy, Zhongliang Xiao, Zhanhu Guo</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmst.2024.05.001</guid>
+    </item>
+    <item>
       <title>Boosting *CO coverage on Cu octahedra enclosed by Cu(1 1 1) for efficient CO2 electroreduction to C2H5OH</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.160202</link>
       <description>Xin Zhao, Genyan Hao, Qinghong Fang, Xingyou Lang, Dandan Li, Dazhong Zhong, Jinping Li, Qiang Zhao, Applied surface science. None(None)] 2024. https://openalex.org/W4396835466
@@ -608,16 +458,6 @@
       <author>Xin Zhao, Genyan Hao, Qinghong Fang, Xingyou Lang, Dandan Li, Dazhong Zhong, Jinping Li, Qiang Zhao</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160202</guid>
-    </item>
-    <item>
-      <title>Hierarchical design enables sufficient activated CO2 for efficient electrolysis of bicarbonate to CO</title>
-      <link>https://doi.org/10.1016/j.joule.2024.04.006</link>
-      <description>Mengxin Shen, Lianze Ji, Dongfang Cheng, Ziwei Wang, Qingquan Xue, Shijia Feng, Yanhong Luo, Shuying Chen, Jiahao Wang, Hongzhi Zheng, Xiaojun Wang, Philippe Sautet, Jia Zhu, Joule. None(None)] 2024. https://openalex.org/W4396734056
-
-                Bicarbonate electrolyzers (BCEs) offer a promising approach to reducing the energy cost of CO2 reduction by integrating upstream carbon capture and downstream electrochemical utilization. However, the faradaic efficiency of CO2 electrolysis in BCEs has been limited by insufficient activated CO2 on the catalyst surface. We report a hierarchical design strategy combining molecular and system-level innovations to ensure that there is sufficient activated CO2 on the catalyst in BCEs. At the molecular scale, we introduce a single-atom catalyst CoPc@CNT with strong CO2 adsorption to prevent CO2 desorption from the catalyst surface. Systemically, a cathodic electrolyte cross-flow strategy further enhances CO2 mass transfer. This approach achieves a faradaic efficiency exceeding 96.2% for CO at 50&#8211;300 mA cm&#8722;2, with a 36.0% and 35.3% reduction in overall energy cost compared with conventional BCEs and CO2 gas-fed electrolyzers, respectively. This innovative strategy represents a significant advancement in low-energy-consumption exhaust conversion technologies for carbon neutrality.</description>
-      <author>Mengxin Shen, Lianze Ji, Dongfang Cheng, Ziwei Wang, Qingquan Xue, Shijia Feng, Yanhong Luo, Shuying Chen, Jiahao Wang, Hongzhi Zheng, Xiaojun Wang, Philippe Sautet, Jia Zhu</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.04.006</guid>
     </item>
     <item>
       <title>Extension of Japan&#8217;s Prefectural Emission Accounting and Enrichment of Socioeconomic Data from 1990 to 2020</title>
@@ -660,16 +500,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.142555</guid>
     </item>
     <item>
-      <title>Engineering fast Ti electron channels to single-atom Fe for enhanced CO2 photoreduction</title>
-      <link>https://doi.org/10.1039/d4ta01972e</link>
-      <description>Wuyi Feng, Pan Zhu, Shouyuan Li, Jiantao Fu, Hui-Ying Niu, Rongjun Zhao, Shoujie Liu, Lirong Zheng, Dan Zhao, Jiatao Zhang, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4396782422
-
-                Owing to the inertness of CO2 molecules, the development of highly active and selective photocatalysts for CO2 reduction reactions (CO2RR) remains a formidable challenge. The interaction between metal sites and...</description>
-      <author>Wuyi Feng, Pan Zhu, Shouyuan Li, Jiantao Fu, Hui-Ying Niu, Rongjun Zhao, Shoujie Liu, Lirong Zheng, Dan Zhao, Jiatao Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4ta01972e</guid>
-    </item>
-    <item>
       <title>Integration of Co Single Atoms and Ni Clusters on Defect-Rich ZrO&lt;sub&gt;2&lt;/sub&gt; for Strong Photothermal Coupling Boosts Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
       <link>https://doi.org/10.1021/acsnano.4c01637</link>
       <description>Jinghang Chen, Yifei Ren, Yiwei Fu, Yitao Si, Jie Huang, Jiancheng Zhou, Maochang Liu, Lunbo Duan, Naixu Li, ACS nano. None(None)] 2024. https://openalex.org/W4396814826
@@ -678,6 +508,16 @@
       <author>Jinghang Chen, Yifei Ren, Yiwei Fu, Yitao Si, Jie Huang, Jiancheng Zhou, Maochang Liu, Lunbo Duan, Naixu Li</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01637</guid>
+    </item>
+    <item>
+      <title>Engineering fast Ti electron channels to single-atom Fe for enhanced CO2 photoreduction</title>
+      <link>https://doi.org/10.1039/d4ta01972e</link>
+      <description>Wuyi Feng, Pan Zhu, Shouyuan Li, Jiantao Fu, Hui-Ying Niu, Rongjun Zhao, Shoujie Liu, Lirong Zheng, Dan Zhao, Jiatao Zhang, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4396782422
+
+                Owing to the inertness of CO2 molecules, the development of highly active and selective photocatalysts for CO2 reduction reactions (CO2RR) remains a formidable challenge. The interaction between metal sites and...</description>
+      <author>Wuyi Feng, Pan Zhu, Shouyuan Li, Jiantao Fu, Hui-Ying Niu, Rongjun Zhao, Shoujie Liu, Lirong Zheng, Dan Zhao, Jiatao Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta01972e</guid>
     </item>
     <item>
       <title>Study on the Influencing Factors of Injection Blockage during CO2 Sequestration in One-Dimensional Long Reactor</title>
@@ -750,16 +590,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.egyr.2024.04.067</guid>
     </item>
     <item>
-      <title>Highly Efficient Co2 to C1 Conversion Through Long-Lived High-Energy Photoelectrons on Bi/Zno@Znse Array Photocathode</title>
-      <link>https://doi.org/10.2139/ssrn.4821868</link>
-      <description>Guanyi Ma, Haiqiang Mu, Zhenli Lv, Jiaxing Guo, Min Zhu, Yonghong Li, Xiaozhong Wang, Jing Li, Feng Li, No host. None(None)] 2024. https://openalex.org/W4396754565
-
-                The key aspect of the photoelectrochemical CO2 reduction reaction (PEC CO2 RR) lies in designing cathode materials that can generate high-energy photoelectrons, enabling the activation and conversion of CO2 into high-value products. In this study, a coaxially wrapped ZnO@ZnSe array heterostructure was synthesized using a simple anion exchange strategy and metallic Bi nanoparticles (NPs) were subsequently deposited on the surface to construct a Bi/ZnO@ZnSe photocathode with high CO2 conversion capability. This array photocathode possesses a large aspect ratio, which simultaneously satisfies a low charge carrier migration path and a large specific surface area that facilitates mass transfer. Additionally, the barrier formed at the n-n heterojunction interface hinders the transfer of high-energy photoelectrons from ZnSe to lower energy levels, resulting in their rapid capture by Bi while maintaining a relatively long lifetime. These captured electrons act as active sites, efficiently converting CO2 into CO with a Faradaic efficiency above 88.9% at -0.9 V vs. RHE and demonstrating superior stability. This work provides a novel approach for synthesizing high-energy photoelectrode materials with long lifetimes.</description>
-      <author>Guanyi Ma, Haiqiang Mu, Zhenli Lv, Jiaxing Guo, Min Zhu, Yonghong Li, Xiaozhong Wang, Jing Li, Feng Li</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4821868</guid>
-    </item>
-    <item>
       <title>Polycation-functionalized interface enable in situ capturing of CO2 and filtering of proton for efficient C-N coupling toward highly selective urea electrosynthesis</title>
       <link>https://doi.org/10.1016/j.cej.2024.152161</link>
       <description>Zhichao Wang, Mengfan Wang, Qiyang Cheng, Yanzheng He, Yuzhuo Jiang, Sisi Liu, Tao Qian, Jie Xiong, Chengtao Yang, Chenglin Yan, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4396826331
@@ -778,26 +608,6 @@
       <author>Jing Feng, Wenbiao Zhang, Danni Shi, Yingshuai Jia, Yanan Tang, Yuying Meng, Qingsheng Gao</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4sc00967c</guid>
-    </item>
-    <item>
-      <title>The Impact of Green Finance, and Eco-Innovation on CO2 Emissions: The Pool Mean Group Evidence from ASEAN Countries in the Context of SDGs</title>
-      <link>https://doi.org/10.62019/abgmce.v4i1.75</link>
-      <description>Zahid Hussain Khokhar, Muhammad Imran, Rashid Rauf, Najaf Naz, Muhammad Waseem, Deleted Journal. 4(1)] 2024. https://openalex.org/W4396743140
-
-                This study investigates the influence of green finance, green technology, and eco-innovation on CO2 emissions within ASEAN countries, framed within the context of the Sustainable Development Goals (SDGs), particularly SDG 7 (Affordable and Clean Energy), SDG 9 (Industry, Innovation and Infrastructure), and SDG 13 (Climate Action). Utilizing data from 2002 to 2019 and adopting the Pool Mean Group (PMG) methodology, our analysis sheds light on the critical dynamics between sustainable financial practices, technological advancement in green technologies, and eco-innovative approaches towards achieving significant CO2 emissions reduction. Our findings reveal that green finance significantly empowers the deployment of green technologies and eco-innovations, leading to a notable decrease in CO2 emissions across the studied nations. The study highlights the importance of country-specific policy interventions that cater to the unique economic and technological contexts of ASEAN countries to optimize the contribution of green finance and technology to climate action. These insights offer a valuable guide for policymakers, financial institutions, and other stakeholders in harnessing green finance and technology for environmental sustainability, in alignment with the SDGs. This research contributes to the discourse on sustainable development, emphasizing the pivotal role of finance and innovation in environmental stewardship and carbon reduction efforts across ASEAN countries.</description>
-      <author>Zahid Hussain Khokhar, Muhammad Imran, Rashid Rauf, Najaf Naz, Muhammad Waseem</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.62019/abgmce.v4i1.75</guid>
-    </item>
-    <item>
-      <title>DFT Study on Effect of Metal Type and Coordination Environment on CO&lt;sub&gt;2&lt;/sub&gt; ECR to C&lt;sub&gt;1&lt;/sub&gt; Products over M&#8211;N&#8211;C Catalysts</title>
-      <link>https://doi.org/10.1021/acs.langmuir.4c00590</link>
-      <description>Yu Meng, Linbin Ying, Tao Ye, Ma Liang, Baoning Li, Yan Xing, Xiaoyan Liu, Yanhang Ma, Xiaodong Wen, Langmuir. None(None)] 2024. https://openalex.org/W4396748402
-
-                Electrocatalytic reduction (ECR) of CO2 to chemical products is an important carbon emission reduction method. This work uses DFT to study the stability of N-doped graphene-supported four metal single-atom catalysts (M&#8211;N&#8211;C) and the effects of the coordination environment and metal centers on the selectivity of CO2 ECR to C1 products. The results show that Fe, Co, Ni, and Cu have good stability. The coordination environment has a significant modulating effect on product selectivity, and the change of the number of ligand nitrogen atoms will affect the size of the potential-limiting step of each product. When the number of nitrogen ligands is the same, the different metal centers of the M&#8211;N&#8211;C catalyst have a significant effect on the selectivity of different products. In addition, the introduction of nitrogen atom ligands can adjust the electronic structure of the graphene-supported metal center, increase the d-band center of most metals, and improve the reaction activity.</description>
-      <author>Yu Meng, Linbin Ying, Tao Ye, Ma Liang, Baoning Li, Yan Xing, Xiaoyan Liu, Yanhang Ma, Xiaodong Wen</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c00590</guid>
     </item>
     <item>
       <title>Tailoring the catalytic microenvironment of CuO with hydrophobic CuSA2 for selective CO2 electroreduction to C2+ products</title>
@@ -920,16 +730,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.susmat.2024.e00969</guid>
     </item>
     <item>
-      <title>The Role of Political Stability in Nine Arab Natural Resource-Abundant Countries (ANRAC) Toward Environmental Sustainability through CO2 Mitigation</title>
-      <link>https://doi.org/10.32479/ijeep.15346</link>
-      <description>Omed Rafiq Fatah, Hatem Hatef Abdulkadh&#305;m Altaee, International journal of energy economics and policy. 14(3)] 2024. https://openalex.org/W4396720207
-
-                This study examines the intricate interplay of political stability, natural resource rent, industrialization, globalization, economic growth, and carbon emissions in nine Arab resource-abundant countries (ANRAC) from 1996 to 2019. Applying advanced statistical approaches, such as the Method of Moment Quantiles Regression (MMQREG) as a baseline estimation approach, along with the inclusion of PCSE, FGLS, and FMOLS, to enhance, to enhance the reliability and stability of the obtained results. The study results suggest that globalization, coupled with the interplay between political stability and economic growth, fosters advancements in environmental conditions and the pursuit of sustainable practices. In contrast, political stability, abundant natural resources, sustained economic expansion, and widespread industrialization are associated with increased CO2 emissions, posing detrimental effects on the environment. Notably, there seems to be a correlation between the concurrent improvement of political stability and economic growth and a reduction in CO2 emissions.</description>
-      <author>Omed Rafiq Fatah, Hatem Hatef Abdulkadh&#305;m Altaee</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32479/ijeep.15346</guid>
-    </item>
-    <item>
       <title>Evaluating the techno-economic feasibility of hydrogen-fuelled reciprocating engines for renewable base-load power generation</title>
       <link>https://doi.org/10.1016/j.enconman.2024.118515</link>
       <description>Jiayi Li, Zhaoyang Dong, Guanxiong Zhai, Qiyuan Li, Shen Hin Lim, Shiva Abdoli, Sanghoon Kook, Guan Heng Yeoh, Qing Nian Chan, Energy conversion and management. 311(None)] 2024. https://openalex.org/W4396842818
@@ -940,16 +740,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.enconman.2024.118515</guid>
     </item>
     <item>
-      <title>Role of Woody Biomass Ash Material in Immobilization of Cadmium, Lead and Zinc in Soil</title>
-      <link>https://doi.org/10.3390/ma17102206</link>
-      <description>El&#380;bieta Rolka, Miros&#322;aw Wyszkowski, Andrzej Cezary &#379;o&#322;nowski, Anna Skorwider-Namiotko, Materials. 17(10)] 2024. https://openalex.org/W4396733890
-
-                Nowadays, we have observed the dynamic development of bio-heating plants that use wood biomass for heating or energy purposes. The result of this process is a reduction in carbon dioxide emissions as well as in the production of biomass ash (BA). Despite the waste nature of BA, it should be carefully analyzed and assessed for various applications, including environmental ones. Due to the features attributed to BA, including its alkaline reaction, the high capacity of its sorption complex, relatively low salinity, and significant content of macro- and microelements, a hypothesis was put forward in this work undertaken about the positive role of BA as an immobilizing factor for Cd-, Pb-, and Zn-contaminated soils. This research was based on a pot experiment in which four series were considered: (1) BA; (2) BA + Cd; (3) BA + Pb; and (4) BA + Zn. BA was used at doses of 30, 60, and 90 mg pot&#8722;1, and metals at doses of 2 mg Cd, 100 mg Pb, and 300 mg Zn kg&#8722;1 of soil. The test plant was corn grown for green mass. The study took into account the influence of BA on the content of the total forms of heavy metals (Metot) and their available forms (Meav). In the soil without the addition of metals, a significant increase in the content of Cdtot and Cdav, and a decrease in the content of Zntot were observed due to the application of BA. The addition of metals against the background of the BA used resulted in a significant increase in Cdtot, Pbtot, and Zntot, as well as an increase in the available forms of Pbav but a decrease in Znav. However, there was no significant increase in the Cdav content. The obtained results may indicate the potentially immobilizing role of BA only in the case of zinc. They may constitute the basis for further, more detailed research aimed at determining the role of BA in the immobilization of various metals in soil.</description>
-      <author>El&#380;bieta Rolka, Miros&#322;aw Wyszkowski, Andrzej Cezary &#379;o&#322;nowski, Anna Skorwider-Namiotko</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17102206</guid>
-    </item>
-    <item>
       <title>Valorizing inherent resources from waste streams for in-situ CO2 capture and sequestration in the steel industry</title>
       <link>https://doi.org/10.1016/j.jclepro.2024.142486</link>
       <description>Yuan Meng, Xiaohong Zhu, Yuying Zhang, Yilin Su, Fulin Qu, Chi Sun Poon, Jun Yan, Daniel C.W. Tsang, Journal of cleaner production. None(None)] 2024. https://openalex.org/W4396830133
@@ -958,16 +748,6 @@
       <author>Yuan Meng, Xiaohong Zhu, Yuying Zhang, Yilin Su, Fulin Qu, Chi Sun Poon, Jun Yan, Daniel C.W. Tsang</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jclepro.2024.142486</guid>
-    </item>
-    <item>
-      <title>Exploring Corn Cob Gasification as a Low-Carbon Technology in the Corn Flour Industry in Mexico</title>
-      <link>https://doi.org/10.3390/en17102256</link>
-      <description>Fabio Manzini, Jorge M. Islas-Samperio, Genice K. Grande-Acosta, Energies. 17(10)] 2024. https://openalex.org/W4396722025
-
-                In 2021, Mexico produced approximately 24.2 million tons of white corn, generating 3.6 million tons of corn cob residue. The final disposal of corn cob poses an environmental challenge in certain regions. This study examines the technical&#8211;economic feasibility and the greenhouse gas (GHG) mitigation potential of integrating a small-scale cogenerating gasifier fueled by corn cob into a nixtamalized corn flour manufacturing small and medium-sized enterprise (SME). This integration enables the generation of heat and electricity from the produced synthesis gas. Moreover, the process yields residual carbon, which can be used as biochar for soil restoration and removing atmospheric CO2. This option holds significance for the corn flour agroindustry in Mexico, as, in 2021, it consumed approximately 601.9 GWh of electrical energy and 938,279 GJ of thermal energy from LP Gas in its manufacturing processes to produce 2.6 million tons of nixtamalized white corn flour. These processes contributed to a total emission of 410,232 tons of CO2 into the atmosphere. The findings of this study demonstrate a cumulative reduction of 51.7% in CO2 emissions, resulting in economic benefits of USD 85,401 in 2017 for a case study SME that annually produces 1039 tons of corn flour. This study reveals the integration of a gasifier&#8211;cogenerator system fueled by corn cob as an economically viable low-carbon technology in the corn flour manufacturing industry.</description>
-      <author>Fabio Manzini, Jorge M. Islas-Samperio, Genice K. Grande-Acosta</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17102256</guid>
     </item>
     <item>
       <title>Dynamic Cu&lt;sup&gt;0&lt;/sup&gt;/Cu&lt;sup&gt;+&lt;/sup&gt; Interface Promotes Acidic CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
@@ -990,26 +770,6 @@
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1126</guid>
     </item>
     <item>
-      <title>New approach to reduce carbon emissions by hydrogen reduction of boron-bearing iron concentrate in a fluidized bed: Reduction kinetics and microstructure analysis</title>
-      <link>https://doi.org/10.1016/j.mineng.2024.108727</link>
-      <description>Peiyu Li, Jianwen Yu, Yanjun Li, Peng Gao, Yuexin Han, Minerals engineering. 212(None)] 2024. https://openalex.org/W4396757611
-
-                Iron ore reduction using hydrogen instead of coal is a promising technology for minimizing CO2 emissions in the metallurgical industry. In this study, the hydrogen reduction mechanism and kinetics of boron-bearing iron concentrate were investigated in a fluidized bed at 650 &#8764; 850 &#176;C, and the reduction data were quantified with an online gas composition analysis technique. The kinetics parameters were calculated using the model-free method and conventional kinetics model, and the mineral phase composition and micromorphology characteristics of reduced products were analyzed. The results showed that the reduction process of boron-bearing iron concentrate in a fluidized bed can be divided into two periods, with the earlier period was controlled by the spherical shrinking model and the later period was controlled by the three-dimensional diffusion model, and the apparent activation energy was significantly increased from 65.22 kJ/mol to 96.11 kJ/mol. Firstly, the magnetite was rapidly reduced to w&#252;stite and dense metallic iron. With an increase in the thickness of the metallic iron layer, the diffusion of oxygen through the dense iron became the rate-limiting step of the reaction, and the defects within the iron layer played a pivotal role in the following mass transfer process. However, the reduction of ludwigite did not suffer from this restriction since the dense product layer was absent.</description>
-      <author>Peiyu Li, Jianwen Yu, Yanjun Li, Peng Gao, Yuexin Han</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mineng.2024.108727</guid>
-    </item>
-    <item>
-      <title>Floating solar power plant planning based on electricity price fluctuations in Towuti, south Sulawesi</title>
-      <link>https://doi.org/10.30574/wjaets.2024.12.1.0159</link>
-      <description>Joas Kurnianto, Hery Suliantoro, World Journal of Advanced Engineering Technology and Sciences. 12(1)] 2024. https://openalex.org/W4396738288
-
-                A company located in South Sulawesi, intends to mitigate emissions from the Power Plant by constructing an environmentally friendly alternative, namely the Floating Solar Power Plant (FSPP), in Towuti. The development plan involves a feasibility analysis for each configuration of the FSPP, considering technological, economic, and environmental criteria. The selection of the preferred configuration is determined using the Analytical Hierarchy Process (AHP) method, based on input from experts. According to this method, the chosen configuration is the on-grid non-battery Floating Solar Power Plant, with a Net Present Value of Rp. 1,431,159,245,752, an Internal Rate of Return of 9.46%, a Payback Period of 8.916 years, a Profitability Ind ex of 1.299, a system efficiency of 21.56%, a carbon footprint of 35,003 kg CO2, and an emission reduction of 9,136,808,273 kg CO2. Decision analysis, involving open and abandonment scenarios based on fluctuations in industrial electricity prices, was conducted using Monte Carlo simulation, yielding a volatility value of 31.2%. The real options analysis recommends abandonment in the twentieth year, with a decision success potential of 38%, based on the results.</description>
-      <author>Joas Kurnianto, Hery Suliantoro</author>
-      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.30574/wjaets.2024.12.1.0159</guid>
-    </item>
-    <item>
       <title>A Continuous Plug-Flow Anaerobic-Multistage Anoxic/Aerobic Process Treating Low-C/N Domestic Sewage: Nutrient Removal, Greenhouse Gas Emissions, and Microbial Community Analysis</title>
       <link>https://doi.org/10.3390/su16103993</link>
       <description>Yunlong Xie, Wenlong Zhang, Jie Jiang, Yi Li, L. Tong, Guang&#8208;Yu Yang, Sustainability. 16(10)] 2024. https://openalex.org/W4396798629
@@ -1018,36 +778,6 @@
       <author>Yunlong Xie, Wenlong Zhang, Jie Jiang, Yi Li, L. Tong, Guang&#8208;Yu Yang</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/su16103993</guid>
-    </item>
-    <item>
-      <title>Cascaded *CO&#8208;*COH Intermediates on a Nonmetallic Plasmonic Photocatalyst for CO2&#8208;to&#8208;C2H6 with 90.6% Selectivity</title>
-      <link>https://doi.org/10.1002/ange.202404660</link>
-      <description>Liteng Ren, Xiaonan Yang, Xin Sun, Yuling Wang, Huiquan Li, Yupeng Yuan, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4396730937
-
-                Oxygen vacancies (OV) in nonmetallic plasmonic photocatalysts can decrease the energy barrier for CO2 reduction, boosting C1 intermediate production for potential C2 formation. However, their susceptibility to oxidation weakens C1 intermediate adsorption. Herein we proposed a "photoelectron injection" strategy to safeguard OV in W18O49 by creating a W18O49/ZIS (W/Z) plasmonic photocatalyst. Moreover, photoelectrons contribute to the local multi&#8208;electron environment of W18O49, enhancing the intrinsic excitation of its hot electrons with extended lifetimes, as confirmed by in&#8208;situ XPS and femtosecond transient absorption analysis. Density functional theory calculations revealed that W/Z with Ov enhances CO2 adsorption, activating *CO production, while reducing the energy barrier for *COH production (0.054 eV) and subsequent *CO&#8208;COH coupling (0.574 eV). Successive hydrogenation revealed that the free energy for *CH2CH2 hydrogenation (0.108 eV) was lower than that for *CH2CH2 desorption for C2H4 production (0.277 eV), favouring C2H6 production. Consequently, W/Z achieves an efficient C2H6 activity of 653.6 &#956;mol g&#8208;1 h&#8208;1 under visible light, with an exceptionally high selectivity of 90.6%. This work offers a new strategy for the rational design of plasmonic photocatalysts with high selectivity for C2+ products.</description>
-      <author>Liteng Ren, Xiaonan Yang, Xin Sun, Yuling Wang, Huiquan Li, Yupeng Yuan</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/ange.202404660</guid>
-    </item>
-    <item>
-      <title>Cascaded *CO&#8208;*COH Intermediates on a Nonmetallic Plasmonic Photocatalyst for CO2&#8208;to&#8208;C2H6 with 90.6% Selectivity</title>
-      <link>https://doi.org/10.1002/anie.202404660</link>
-      <description>Liteng Ren, Xiaonan Yang, Xin Sun, Yuling Wang, Huiquan Li, Yupeng Yuan, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4396743018
-
-                Oxygen vacancies (OV) in nonmetallic plasmonic photocatalysts can decrease the energy barrier for CO2 reduction, boosting C1 intermediate production for potential C2 formation. However, their susceptibility to oxidation weakens C1 intermediate adsorption. Herein we proposed a "photoelectron injection" strategy to safeguard OV in W18O49 by creating a W18O49/ZIS (W/Z) plasmonic photocatalyst. Moreover, photoelectrons contribute to the local multi&#8208;electron environment of W18O49, enhancing the intrinsic excitation of its hot electrons with extended lifetimes, as confirmed by in&#8208;situ XPS and femtosecond transient absorption analysis. Density functional theory calculations revealed that W/Z with Ov enhances CO2 adsorption, activating *CO production, while reducing the energy barrier for *COH production (0.054 eV) and subsequent *CO&#8208;COH coupling (0.574 eV). Successive hydrogenation revealed that the free energy for *CH2CH2 hydrogenation (0.108 eV) was lower than that for *CH2CH2 desorption for C2H4 production (0.277 eV), favouring C2H6 production. Consequently, W/Z achieves an efficient C2H6 activity of 653.6 &#956;mol g&#8208;1 h&#8208;1 under visible light, with an exceptionally high selectivity of 90.6%. This work offers a new strategy for the rational design of plasmonic photocatalysts with high selectivity for C2+ products.</description>
-      <author>Liteng Ren, Xiaonan Yang, Xin Sun, Yuling Wang, Huiquan Li, Yupeng Yuan</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/anie.202404660</guid>
-    </item>
-    <item>
-      <title>Assessment of the Efficiency of a Hybrid Photovoltaic and Photovoltaic Heating System (PV&#8211;Solar) in the Context of a Warehouse for a Housing Community in Poland</title>
-      <link>https://doi.org/10.3390/en17102264</link>
-      <description>Andrzej Gawlik, Marcin Nowakowski, Marcin Rabe, Dariusz Rajchel, Yuriy Bilan, Agnieszka &#321;opatka, Jurgita Martinkiene, Serhiy Kozmenko, Energies. 17(10)] 2024. https://openalex.org/W4396747011
-
-                In light of global challenges such as the war in Ukraine and the depletion of fossil fuel resources, it is essential to explore sustainable energy solutions. Hybrid energy systems represent a potential solution, offering energy independence to urban housing estates and reducing CO2 emissions. This article aims to explore the feasibility of integrating photovoltaic systems (utilizing vacuum collectors) and combined utilities (system heat and electricity) in a hybrid setup, leveraging existing technical infrastructure with necessary modifications. A key aspect is to perform calculations on the amount of heat and electricity generated from these systems. The study analyzes the demand for heat and electricity among consumers compared to the estimated production from renewable sources. Calculations also include the potential energy savings and CO2 emission reductions achievable through the proposed solutions. The findings indicate that hybrid photovoltaic systems with heat storage could effectively address energy issues in urban housing estates, given adequate support and community involvement. The innovative methodology employed in this study encompasses both analytical and experimental research approaches. The analysis employs advanced statistical techniques and data integration to enhance understanding of the phenomena studied, while the experimental research provides robust results through controlled variable manipulation and precise measurement tools, thereby verifying the study&#8217;s objectives.</description>
-      <author>Andrzej Gawlik, Marcin Nowakowski, Marcin Rabe, Dariusz Rajchel, Yuriy Bilan, Agnieszka &#321;opatka, Jurgita Martinkiene, Serhiy Kozmenko</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/en17102264</guid>
     </item>
     <item>
       <title>Unveiling Reaction Pathways of Ethylene Carbonate and Vinylene Carbonate in Li-Ion Batteries</title>
@@ -1060,16 +790,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00927</guid>
     </item>
     <item>
-      <title>Sustainability analysis for scandium recovery from secondary sources</title>
-      <link>https://doi.org/10.12681/ta.36867</link>
-      <description>Antonis Peppas, Chrysa Politi, Nikolaos Kountouris, Nafsika Angeliki Zafeiri, Sotiris Kottaridis, Technical Annals. 1(4)] 2023. https://openalex.org/W4396754884
-
-                Primary aluminium industry is one of the largest industries associated with high greenhouse gas emissions. It is reported that in 2022, the aluminium production emitted nearly 270 Mt of direct CO2 in the atmosphere. To achieve the European goals of zero emissions by 2050, a reduction of 4% annually is essential. &#932;he industry needs to take a turn towards less impactful production practices, focusing on the valorisation of residues for promoting sustainability. Bauxite residue from alumina production represents a remarkable source of Rare Earth Elements (REEs). This study offers valuable insights into the environmental and economic aspects of processes related to resource Scandium (Sc) extraction and processing in Greece, Romania and Turkey. In this frame, a comparative analysis of the environmental impact of the extraction process of REEs from Bauxite Residues (BR) in the regions mentioned above is presented. The results show that an up to 23% greenhouse gas emissions reduction can be achieved, while the environmental categories of human health risks, aquatic toxicity potential, and terrestrial ecotoxicity potential are improved by applying hydrothermal processes and direct leaching to BR. While the stages of Sc extraction remain consistent, variations in the chemical compositions of BR underscore the influence of local factors. The findings also emphasize the importance of tailoring extraction processes to local conditions and compositions for scandium extraction. These insights can guide industry decisions and contribute to responsible resource management in the future.</description>
-      <author>Antonis Peppas, Chrysa Politi, Nikolaos Kountouris, Nafsika Angeliki Zafeiri, Sotiris Kottaridis</author>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12681/ta.36867</guid>
-    </item>
-    <item>
       <title>The Effect of Standardization on the Future of Sustainable Refurbishment of Existing Buildings</title>
       <link>https://doi.org/10.1007/978-3-031-57800-7_56</link>
       <description>Gerald Leindecker, Lecture notes in civil engineering. None(None)] 2024. https://openalex.org/W4396772772
@@ -1078,16 +798,6 @@
       <author>Gerald Leindecker</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-57800-7_56</guid>
-    </item>
-    <item>
-      <title>Terrestrial Ecosystem Model in R (TEMIR) version 1.0: simulating ecophysiological responses of vegetation to atmospheric chemical and meteorological changes</title>
-      <link>https://doi.org/10.5194/gmd-17-3733-2024</link>
-      <description>Amos P. K. Tai, David H. Y. Yung, Timothy Lam, Geoscientific model development. 17(9)] 2024. https://openalex.org/W4396759146
-
-                Abstract. The newly developed offline land ecosystem model Terrestrial Ecosystem Model in R (TEMIR) version 1.0 is described here. This version of the model simulates plant ecophysiological (e.g., photosynthetic and stomatal) responses to varying meteorological conditions and concentrations of CO2 and ground-level ozone (O3) based on prescribed meteorological and atmospheric chemical inputs from various sources. Driven by the same meteorological data used in the GEOS-Chem chemical transport model, this allows asynchronously coupled experiments with GEOS-Chem simulations with unique coherency for investigating biosphere&#8211;atmosphere chemical interactions. TEMIR agrees well with FLUXNET site-level gross primary productivity (GPP) in terms of both the diurnal and monthly cycles (correlation coefficients R2&gt;0.85 and R2&gt;0.8, respectively) for most plant functional types (PFTs). Grass and shrub PFTs have larger biases due to generic model representations. The model performs best when driven by local site-level meteorology rather than reanalyzed gridded meteorology. Simulation using gridded meteorology agrees well for annual GPP in seasonality and spatial distribution with a global average of 134 Pg C yr&#8722;1. Application of Monin&#8211;Obukhov similarity theory to infer canopy conditions from gridded meteorology does not improve model performance, predicting an increase of +7 % in global GPP. Present-day O3 concentrations simulated by GEOS-Chem and an O3 damage scheme at high sensitivity show a 2 % reduction in global GPP with prominent reductions of up to 15 % in eastern China and the eastern USA. Regional correlations are generally unchanged when O3 is present and biases are reduced, especially for regions with high O3 damage. An increase in atmospheric CO2 concentration of 20 ppmv from the level in 2000 to the level in 2010 modestly decreases O3 damage due to reduced stomatal uptake, consistent with ecophysiological understanding. Our work showcases the utility of this version of TEMIR for evaluating biogeophysical responses of vegetation to changes in atmospheric composition and meteorological conditions.</description>
-      <author>Amos P. K. Tai, David H. Y. Yung, Timothy Lam</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/gmd-17-3733-2024</guid>
     </item>
     <item>
       <title>Integrating geothermal energy in hungary: A case study on sustainable urban heating and emissions mitigation through the district heating infrastructure</title>
@@ -1110,16 +820,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.scitotenv.2024.173188</guid>
     </item>
     <item>
-      <title>The Critical Role of Energy Intensity in Decarbonizing ASEAN: Integrating Growth and Emissions Reductions</title>
-      <link>https://doi.org/10.32479/ijeep.15059</link>
-      <description>Setia Damayanti, Eka Sudarmaji, Herlan Masrio, International journal of energy economics and policy. 14(3)] 2024. https://openalex.org/W4396730639
-
-                This research analyzes drivers of CO2 emissions across ASEAN countries from 1971-2017 to inform effective policies for sustainable decarbonized development. The goal is to identify critical factors influencing emissions growth and reductions to guide strategic climate mitigation planning. Data includes 3128 emissions, GDP, population, and energy consumption observations from 9 ASEAN nations. Results using the Kaya Index and Logarithmic Mean Divisia Index decomposition reveal GDP growth and population as primary drivers of increasing emissions, while energy efficiency dampens growth. Indonesia saw the highest emissions growth, driven by population and economic expansion. Thailand's phenomenal GDP growth of 3003.7% led to its emission increases. Singapore and the Philippines achieved notable reductions. Findings suggest integrated policies like clean energy, efficiency gains, infrastructure planning, and low-carbon economic reform are needed. Transitioning towards affordable clean energy systems with proactive leadership can enable ASEAN to sustain growth while mitigating climate risks. Further research should identify optimal policy mixes to maximize socio-economic progress and welfare while meeting urgent emission targets tailored to each nation. This study provides vital insights into key factors influencing ASEAN emissions and highlights pathways towards sustainable decarbonized development. The analysis of historical trends aims to inform strategic policymaking for decarbonization.</description>
-      <author>Setia Damayanti, Eka Sudarmaji, Herlan Masrio</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.32479/ijeep.15059</guid>
-    </item>
-    <item>
       <title>The regulatory role of cysteine in active phase construction of polyoxometalate-based hydrodesulfurization catalysts: Reduction, chelation, and dispersion</title>
       <link>https://doi.org/10.1016/j.ces.2024.120234</link>
       <description>Cong Zhang, Wenjing Bao, Changle Yue, Fengyue Sun, Yiyuan Xu, Daofeng Sun, Yukun Lu, Chemical engineering science. None(None)] 2024. https://openalex.org/W4396780816
@@ -1128,26 +828,6 @@
       <author>Cong Zhang, Wenjing Bao, Changle Yue, Fengyue Sun, Yiyuan Xu, Daofeng Sun, Yukun Lu</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120234</guid>
-    </item>
-    <item>
-      <title>Enhancing the Performance of Hemihydrate Phosphogypsum by the Collaborative Effects of Calcium Hydroxide and Carbonation</title>
-      <link>https://doi.org/10.3390/ma17102204</link>
-      <description>J.C. Huang, Zanqun Liu, Wei Xiang-song, Xiangyu Ding, Jiahui Zhu, Yilin Zhao, Babar Iqbal, Shulai Guo, Materials. 17(10)] 2024. https://openalex.org/W4396721811
-
-                Normally, the acidic impurities in hemihydrate phosphogypsum (HPG) must be neutralized when HPG is utilized, and a little amount of calcium hydroxide (CH) is the best choice. In this paper, the effects of excessive CH (5 wt.%, 10 wt.%, 15 wt.% and 20 wt.% of HPG) for carbonation curing on the performance of hardened HPG paste were studied. According to the results of macro tests and microanalyses of XRD, TG, SEM-EDS, MIP and N2 physisorption, it could be verified that CaF2, Ca3(PO4)2 and a large amount of nanoscale CaCO3 crystals were produced as a result of neutralization and carbonation, and the compressive strength and the water resistance of carbonated HPG + CH paste were significantly improved due to the effects of nanoscale CaCO3 crystals on pore refinement and the coverage on the surfaces of gypsum crystals of the hardened paste. Therefore, this study suggests a feasible and green method for recycling HPG/PG, with the collaborative effects of neutralization, performance enhancement and reductions in CO2 emissions.</description>
-      <author>J.C. Huang, Zanqun Liu, Wei Xiang-song, Xiangyu Ding, Jiahui Zhu, Yilin Zhao, Babar Iqbal, Shulai Guo</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/ma17102204</guid>
-    </item>
-    <item>
-      <title>Efficient Energy Conversion using Tri-nuclear M-Ru(II)-M[M= Pt(II), Re(I)] Catalysts</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-8w0sg</link>
-      <description>Shafquat Ullah Khan, Sujoy Biswas, Bishnu Das, Sakira Tabassum Borah, Deep Lahan, Parna Gupta, No host. None(None)] 2024. https://openalex.org/W4396744413
-
-                The tri-nuclear Pt(II)-Ru(II)-Pt(II)(RuPt2) and Re(I)-Ru(II)-Re(II)(RuRe2) complexes, synthesized from mononuclear Ru(II) complex were explored for efficient energy conversion through water splitting and CO2 reduction. The catalysts show excellent activity, serving as promising platforms for sustainable energy applications. The study focuses on designing, stepwise synthesis of the catalysts with insights into the multiple components&#8217; contribution to enhanced catalytic performance. Photophysical and electrochemical analyses highlight the role of the complexes as photocatalysts, where the Ru(II)-polypyridyl unit acts as photosensitizer and the Pt(II)/ Re(I)-polypyridyl units as catalytic sites. Synergistic effects among the components lead to stability, improved performance and emphasizes the significance of multi-nuclear M-Ru(II)-M[M= Pt(II), Re(I)] catalysts in promoting cleaner and more sustainable energy sources.</description>
-      <author>Shafquat Ullah Khan, Sujoy Biswas, Bishnu Das, Sakira Tabassum Borah, Deep Lahan, Parna Gupta</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-8w0sg</guid>
     </item>
     <item>
       <title>A Theoretical Benchmark of the Geometric and Optical Properties for 3d Transition Metal Nanoclusters via Density Functional Theory</title>
@@ -1200,16 +880,6 @@
       <guid isPermaLink="true">https://doi.org/10.33540/2361</guid>
     </item>
     <item>
-      <title>Microorganisms in subarctic soils are depleted of ribosomes under short-, medium-, and long-term warming</title>
-      <link>https://doi.org/10.1093/ismejo/wrae081</link>
-      <description>Andrea S&#246;llinger, Laureen S Ahlers, Mathilde Borg Dahl, P&#225;ll Sigur&#240;sson, Coline Le Noir de Carlan, Biplabi Bhattarai, Christoph Gall, Victoria Martin, Cornelia Rottensteiner, Liabo L. Motleleng, Eva Marie Breines, Erik Verbruggen, Ivika Ostonen, Bjarni D. Sigur&#240;sson, Andreas Richter, Alexander T&#248;sdal Tveit, &#152;The &#156;ISME journal. None(None)] 2024. https://openalex.org/W4396779674
-
-                Physiological responses of soil microorganisms to global warming are important for soil ecosystem function and the terrestrial carbon cycle. Here, we investigate the effects of weeks, years, and decades of soil warming across seasons and time on the microbial protein biosynthesis machineries (i.e. ribosomes), the most abundant cellular macromolecular complexes, using RNA:DNA and RNA:MBC (microbial biomass carbon) ratios as proxies for cellular ribosome contents. We compared warmed soils and non-warmed controls of 15 replicated subarctic grassland and forest soil temperature gradients subject to natural geothermal warming. RNA:DNA ratios tended to be lower in the warmed soils during summer and autumn, independent of warming duration (6 weeks, 8-14 years, &gt; 50 years), warming intensity (+3&#176;C, +6&#176;C, +9&#176;C), and ecosystem type. With increasing temperatures RNA:MBC ratios were also decreasing. Additionally, seasonal RNA:DNA ratios of the consecutively sampled forest showed the same temperature-driven pattern. This suggests that subarctic soil microorganisms are depleted of ribosomes under warm conditions and the lack of consistent relationships with other physicochemical parameters besides temperature further suggests temperature as key driver. Furthermore, in incubation experiments, we measured significantly higher CO2 emission rates per unit of RNA from short- and long-term warmed soils compared to non-warmed controls. In conclusion, ribosome reduction may represent a widespread microbial physiological response to warming that offers a selective advantage at higher temperatures, as energy and matter can be reallocated from ribosome synthesis to other processes including substrate uptake and turnover. This way, ribosome reduction could have a substantial effect on soil carbon dynamics.</description>
-      <author>Andrea S&#246;llinger, Laureen S Ahlers, Mathilde Borg Dahl, P&#225;ll Sigur&#240;sson, Coline Le Noir de Carlan, Biplabi Bhattarai, Christoph Gall, Victoria Martin, Cornelia Rottensteiner, Liabo L. Motleleng, Eva Marie Breines, Erik Verbruggen, Ivika Ostonen, Bjarni D. Sigur&#240;sson, Andreas Richter, Alexander T&#248;sdal Tveit</author>
-      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/ismejo/wrae081</guid>
-    </item>
-    <item>
       <title>An Online Randomised Controlled Trial of Price and Non-Price Interventions to Promote Sustainable Food Choices on Food Delivery Platforms</title>
       <link>https://doi.org/10.2139/ssrn.4818247</link>
       <description>Andreas Kontoleon, Elisabeth Gsottbauer, James Farrington, Sherrie E. Human, Lucia A. Reisch, Social Science Research Network. None(None)] 2024. https://openalex.org/W4396783656
@@ -1228,6 +898,16 @@
       <author>Lewis McAllister, Haibin Wang</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/en17102303</guid>
+    </item>
+    <item>
+      <title>Microorganisms in subarctic soils are depleted of ribosomes under short-, medium-, and long-term warming</title>
+      <link>https://doi.org/10.1093/ismejo/wrae081</link>
+      <description>Andrea S&#246;llinger, Laureen S Ahlers, Mathilde Borg Dahl, P&#225;ll Sigur&#240;sson, Coline Le Noir de Carlan, Biplabi Bhattarai, Christoph Gall, Victoria Martin, Cornelia Rottensteiner, Liabo L. Motleleng, Eva Marie Breines, Erik Verbruggen, Ivika Ostonen, Bjarni D. Sigur&#240;sson, Andreas Richter, Alexander T&#248;sdal Tveit, &#152;The &#156;ISME journal. None(None)] 2024. https://openalex.org/W4396779674
+
+                Physiological responses of soil microorganisms to global warming are important for soil ecosystem function and the terrestrial carbon cycle. Here, we investigate the effects of weeks, years, and decades of soil warming across seasons and time on the microbial protein biosynthesis machineries (i.e. ribosomes), the most abundant cellular macromolecular complexes, using RNA:DNA and RNA:MBC (microbial biomass carbon) ratios as proxies for cellular ribosome contents. We compared warmed soils and non-warmed controls of 15 replicated subarctic grassland and forest soil temperature gradients subject to natural geothermal warming. RNA:DNA ratios tended to be lower in the warmed soils during summer and autumn, independent of warming duration (6 weeks, 8-14 years, &gt; 50 years), warming intensity (+3&#176;C, +6&#176;C, +9&#176;C), and ecosystem type. With increasing temperatures RNA:MBC ratios were also decreasing. Additionally, seasonal RNA:DNA ratios of the consecutively sampled forest showed the same temperature-driven pattern. This suggests that subarctic soil microorganisms are depleted of ribosomes under warm conditions and the lack of consistent relationships with other physicochemical parameters besides temperature further suggests temperature as key driver. Furthermore, in incubation experiments, we measured significantly higher CO2 emission rates per unit of RNA from short- and long-term warmed soils compared to non-warmed controls. In conclusion, ribosome reduction may represent a widespread microbial physiological response to warming that offers a selective advantage at higher temperatures, as energy and matter can be reallocated from ribosome synthesis to other processes including substrate uptake and turnover. This way, ribosome reduction could have a substantial effect on soil carbon dynamics.</description>
+      <author>Andrea S&#246;llinger, Laureen S Ahlers, Mathilde Borg Dahl, P&#225;ll Sigur&#240;sson, Coline Le Noir de Carlan, Biplabi Bhattarai, Christoph Gall, Victoria Martin, Cornelia Rottensteiner, Liabo L. Motleleng, Eva Marie Breines, Erik Verbruggen, Ivika Ostonen, Bjarni D. Sigur&#240;sson, Andreas Richter, Alexander T&#248;sdal Tveit</author>
+      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/ismejo/wrae081</guid>
     </item>
     <item>
       <title>Effect of a Hybrid Pumice&#8211;Portland Cement Extract on Corrosion Activity of Stainless Steel SS304 and Carbon Mild Steel A36</title>
@@ -1310,26 +990,6 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4348078/v1</guid>
     </item>
     <item>
-      <title>Improving the calculation module for estimating pollutant emission from conventional and hybrid regional aircraft</title>
-      <link>https://doi.org/10.15587/1729-4061.2024.302793</link>
-      <description>Kateryna Synylo, Vitalii Makarenko, Andrii Krupko, Vadim Tokarev, Eastern-European journal of enterprise technologies. 2(10 (128))] 2024. https://openalex.org/W4396734426
-
-                For the aviation sector, it is extremely important to devise revolutionary solutions in the field of technology to restrain the potential impact of civil aviation on the environment to the level of the established strategic goals of ACARE (FlightPath2050). The introduction of innovative technologies (improvement of the combustion chamber, the introduction of electric hybrid power plants on airplanes, and the use of alternative aviation fuel) will ensure the sustainable growth of air transportation. To assess the effectiveness of advanced technologies, it is extremely important to have a model for calculating global/local emissions that takes into account the parameters of the flight path of conventional and hybrid aircraft, operational characteristics of the aircraft engine and hybrid powerplant, and the features of sustainable fuel. The improved module for calculating emission indices by combining the module for calculating the parameters of the flight path and the results of calculating the thermogas-dynamic calculation of the aircraft engine makes it possible to detect the influence of fuel consumption (engine thrust) on the values of the emission indices. This feature is representative for evaluating the efficiency of hybrid powerplants because the electrification of the aircraft fleet is primarily aimed at reducing fuel consumption. The analysis of simulation results reveals that the fuel consumption and EINOx are significantly reduced (for the climb stage &#8211; 25 %; for the descent stage &#8211; 30 %) for the hybrid AN26 compared to the conventional AN26. The specified operational measure, in the part of the low-pitch descend, significantly reduces EICO for the hybrid AN26 by an average of 50 % compared to the descend stage for the conventional trajectory. The results of calculations for the entire flight path demonstrate that the use of a hybrid power plant for An26 contributes to an average reduction of fuel consumption by 10 %, NOx emissions by 25 %, water vapor emissions by 10 %, and CO2 by 10 %.</description>
-      <author>Kateryna Synylo, Vitalii Makarenko, Andrii Krupko, Vadim Tokarev</author>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.15587/1729-4061.2024.302793</guid>
-    </item>
-    <item>
-      <title>Velocity-selective arterial spin labelling bolus duration measurements: Implications for consensus recommendations</title>
-      <link>https://doi.org/10.1101/2024.05.04.592549</link>
-      <description>Ian D. Driver, Harold L. Chandler, Eleonora Patitucci, Elizabeth N. Morgan, Kevin Murphy, Stefano Zappal&#224;, Richard G. Wise, Michael Germuska, bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024. https://openalex.org/W4396733781
-
-                Velocity-selective arterial spin labelling (VSASL) MRI is insensitive to arterial transit time. This is an advantage over other perfusion measurements, where long arterial transit times can lead to bias. Therefore, VSASL can be used to study perfusion in the presence of long arterial transit times, such as in the ageing brain, in vascular pathologies, and cancer, or where arterial transit time changes, such as during measurement of cerebrovascular reactivity (CVR). However, when calculating perfusion (cerebral blood flow, CBF, in the brain) from VSASL signal, it is assumed that images are acquired before the trailing edge of the labelled blood has arrived in the imaging slice. The arrival of the trailing edge of the labelled bolus of blood will cause an underestimation of perfusion. Here we measure bolus duration in young, healthy human brains, both at rest and during elevated CBF. Grey matter bolus duration was 1.61 +/- 0.31 s, but there was a large spatial heterogeneity, with bolus duration being lower in anterior brain regions, with some areas having bolus duration &lt; 1.2 s. We place these results in context of recommendations from a recent consensus paper, which recommends imaging 1.4 s after the label, potentially underestimating CBF in anterior regions. Further, we observed a 0.23 +/- 0.12 s reduction in grey matter bolus duration with 5% CO2 inhalation. These results can be used to inform the experimental design of future VSASL studies, to avoid underestimating perfusion by imaging after the arrival of the trailing edge of the labelled bolus.</description>
-      <author>Ian D. Driver, Harold L. Chandler, Eleonora Patitucci, Elizabeth N. Morgan, Kevin Murphy, Stefano Zappal&#224;, Richard G. Wise, Michael Germuska</author>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1101/2024.05.04.592549</guid>
-    </item>
-    <item>
       <title>Exploring equality and sustainability trade-offs of energy transition outcomes in the United States in 2050</title>
       <link>https://doi.org/10.1016/j.apenergy.2024.123376</link>
       <description>Teagan Goforth, Destenie Nock, M. C. Brown, Tapajyoti Ghosh, Patrick Lamers, Applied energy. 367(None)] 2024. https://openalex.org/W4396820968
@@ -1360,16 +1020,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jobe.2024.109586</guid>
     </item>
     <item>
-      <title>Anoxic photolysis as a Route to Primary Metabolites on Early Earth</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-w7svp</link>
-      <description>Olga Taran, Baris Unal, No host. None(None)] 2024. https://openalex.org/W4396759470
-
-                Despite many years of research, results from prebiotic chemistry experiments&#8212;where biologically relevant compounds are formed from simple monomers such as cyanate, CO2, or formaldehyde&#8212; still yield complex mixtures with only trace amounts of the molecules of interest. The prevailing idea that life originated from a sequence of chemical reactions, starting from very simple active molecules and evolving into progressively more complex systems, might be incorrect for two reasons: First, after 70 years of experiments, we still lack robust experimental demonstration of such networks; second, small reactive molecules typically do not exist in high concentrations and readily react to form tars and other complex mixtures. Here I adopt an alternative approach, demonstrating that numerous primary metabolites can be derived from tar-like mixtures through the Advanced Reduction Process (ARP). Tars are formed by polycyclic aromatic hydrocarbons (PAHs), which are widespread in the Universe and likely were the main source of organic carbon on early Earth. Under conditions thought to exist on the prebiotic Earth&#8212;characterized by sunlight, an anoxic sulfur-rich atmosphere, and iron-rich dust - PAH suspensions in water are decomposed to succinic, lactic, malonic, and glycolic acids, all known as primary metabolites in all living systems and main components of ubiquitous citric acid cycle. The sum of reaction yields for these biologically important metabolites reaches up to 40%, with individual product yields ranging from 1-15%. The simplicity of this reaction and the ubiquity of PAHs on prebiotic Earth make this process particularly appealing, suggesting it could have occurred on a vast scale on sunlit planetary surfaces. These findings may reveal an overlooked initial step in the origin of life on Earth, and potentially elsewhere in the Universe.</description>
-      <author>Olga Taran, Baris Unal</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-w7svp</guid>
-    </item>
-    <item>
       <title>Second-Life Electric Vehicle Batteries for Home Photovoltaic Systems: Transforming Energy Storage and Sustainability</title>
       <link>https://doi.org/10.3390/en17102345</link>
       <description>Md. Tanjil Sarker, Mohammed Hussein Saleh Mohammed Haram, Siow Jat Shern, Gobbi Ramasamy, Fahmid Al Farid, Energies. 17(10)] 2024. https://openalex.org/W4396872441
@@ -1388,16 +1038,6 @@
       <author>Dexun Qiu, Anita Antoninka, Bo Xiao</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ecolind.2024.112129</guid>
-    </item>
-    <item>
-      <title>Indicators of Global Climate Change 2023: annual update of key indicators of the state of the climate system and human influence</title>
-      <link>https://doi.org/10.5194/essd-2024-149</link>
-      <description>Piers M. Forster, Christopher J. Smith, Tristram Walsh, William F. Lamb, Robin Lamboll, B. D. Hall, Mathias Hauser, Aur&#233;lien Ribes, Debbie Rosen, Nathan P. Gillett, Matthew D. Palmer, Joeri Rogelj, Karina von Schuckmann, Blair Trewin, Myles Allen, Robbie M. Andrew, Richard Betts, Tim Boyer, Carlo Buontempo, Samantha Burgess, Chiara Cagnazzo, Lijing Cheng, Pierre Friedlingstein, Andrew Gettelman, Johannes G&#252;tschow, Masayoshi Ishii, Stuart Jenkins, Lan X, Colin Morice, Jens M&#252;hle, Christopher Kadow, John Kennedy, Rachel Killick, P. B. Krummel, Jan C. Minx, Gunnar Myhre, Vaishali Na&#239;k, Glen P. Peters, Anna Pirani, Julia Pongratz, Carl&#8208;Friedrich Schleussner, Sonia I. Seneviratne, Sophie Szopa, Peter Thorne, Mahesh Kovilakam, Elisa Majam&#228;ki, Jukka-Pekka Jalkanen, Margreet van Marle, Rachel Hoesly, R. A. Rohde, Dominik L. Schumacher, Guido R. van der Werf, Russell S. Vose, Kirsten Zickfeld, Xuebin Zhang, Val&#233;rie Masson&#8208;Delmotte, Panmao Zhai, No host. None(None)] 2024. https://openalex.org/W4396720861
-
-                Abstract. Intergovernmental Panel on Climate Change (IPCC) assessments are the trusted source of scientific evidence for climate negotiations taking place under the United Nations Framework Convention on Climate Change (UNFCCC). Evidence-based decision-making needs to be informed by up-to-date and timely information on key indicators of the state of the climate system and of the human influence on the global climate system. However, successive IPCC reports are published at intervals of 5&#8211;10 years, creating potential for an information gap between report cycles. We follow methods as close as possible to those used in the IPCC Sixth Assessment Report (AR6) Working Group One (WGI) report. We compile monitoring datasets to produce estimates for key climate indicators related to forcing of the climate system: emissions of greenhouse gases and short-lived climate forcers, greenhouse gas concentrations, radiative forcing, the Earth's energy imbalance, surface temperature changes, warming attributed to human activities, the remaining carbon budget, and estimates of global temperature extremes. The purpose of this effort, grounded in an open data, open science approach, is to make annually updated reliable global climate indicators available in the public domain (https://doi.org/10.5281/zenodo.11064126, Smith et al., 2024a). As they are traceable to IPCC report methods, they can be trusted by all parties involved in UNFCCC negotiations and help convey wider understanding of the latest knowledge of the climate system and its direction of travel. The indicators show that, for the 2014&#8211;2023 decade average, observed warming was 1.19 [1.06 to 1.30] &#176;C, of which 1.19 [1.0 to 1.4] &#176;C was human-induced. For the single year average, human-induced warming reached 1.31 [1.1 to 1.7] &#176;C in 2023 relative to 1850&#8211;1900. This is below the 2023 observed record of 1.43 [1.32 to 1.53] &#176;C, indicating a substantial contribution of internal variability in the 2023 record. Human-induced warming has been increasing at rate that is unprecedented in the instrumental record, reaching 0.26 [0.2&#8211;0.4] &#176;C per decade over 2014&#8211;2023. This high rate of warming is caused by a combination of greenhouse gas emissions being at an all-time high of 54 &#177; 5.4 GtCO2e per year over the last decade, as well as reductions in the strength of aerosol cooling. Despite this, there is evidence that the rate of increase in CO2 emissions over the last decade has slowed compared to the 2000s, and depending on societal choices, a continued series of these annual updates over the critical 2020s decade could track a change of direction for some of the indicators presented here.</description>
-      <author>Piers M. Forster, Christopher J. Smith, Tristram Walsh, William F. Lamb, Robin Lamboll, B. D. Hall, Mathias Hauser, Aur&#233;lien Ribes, Debbie Rosen, Nathan P. Gillett, Matthew D. Palmer, Joeri Rogelj, Karina von Schuckmann, Blair Trewin, Myles Allen, Robbie M. Andrew, Richard Betts, Tim Boyer, Carlo Buontempo, Samantha Burgess, Chiara Cagnazzo, Lijing Cheng, Pierre Friedlingstein, Andrew Gettelman, Johannes G&#252;tschow, Masayoshi Ishii, Stuart Jenkins, Lan X, Colin Morice, Jens M&#252;hle, Christopher Kadow, John Kennedy, Rachel Killick, P. B. Krummel, Jan C. Minx, Gunnar Myhre, Vaishali Na&#239;k, Glen P. Peters, Anna Pirani, Julia Pongratz, Carl&#8208;Friedrich Schleussner, Sonia I. Seneviratne, Sophie Szopa, Peter Thorne, Mahesh Kovilakam, Elisa Majam&#228;ki, Jukka-Pekka Jalkanen, Margreet van Marle, Rachel Hoesly, R. A. Rohde, Dominik L. Schumacher, Guido R. van der Werf, Russell S. Vose, Kirsten Zickfeld, Xuebin Zhang, Val&#233;rie Masson&#8208;Delmotte, Panmao Zhai</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/essd-2024-149</guid>
     </item>
     <item>
       <title>Kinetic Characteristics and Product Distribution of Tar-Rich Coal In-Situ Underground Pyrolysis: Influence of Heterogeneous Seam</title>
