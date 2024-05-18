@@ -1,22 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri May 17 01:06:06 2024
+Created on Sat May 18 01:04:37 2024
 
-Found 5 results from 2024-05-10 to 2024-05-17
+Found 6 results from 2024-05-11 to 2024-05-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## CatTSunami: Accelerating Transition State Energy Calculations with
-  Pre-trained Graph Neural Networks   
-
-OpenAlex: https://openalex.org/W4396781988    
-Open access: True
-    
-[Brook Wander](https://openalex.org/A5029824000), [Muhammed Shuaibi](https://openalex.org/A5004640526), [John R. Kitchin](https://openalex.org/A5003442464), [Zachary W. Ulissi](https://openalex.org/A5024574386), [C. Lawrence Zitnick](https://openalex.org/A5058450549), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.02078 ([pdf](https://arxiv.org/pdf/2405.02078)).
-    
-Direct access to transition state energies at low computational cost unlocks the possibility of accelerating catalyst discovery. We show that the top performing graph neural network potential trained on the OC20 dataset, a related but different task, is able to find transition states energetically similar (within 0.1 eV) to density functional theory (DFT) 91% of the time with a 28x speedup. This speaks to the generalizability of the models, having never been explicitly trained on reactions, the machine learned potential approximates the potential energy surface well enough to be performant for this auxiliary task. We introduce the Open Catalyst 2020 Nudged Elastic Band (OC20NEB) dataset, which is made of 932 DFT nudged elastic band calculations, to benchmark machine learned model performance on transition state energies. To demonstrate the efficacy of this approach, we replicated a well-known, large reaction network with 61 intermediates and 174 dissociation reactions at DFT resolution (40 meV). In this case of dense NEB enumeration, we realize even more computational cost savings and used just 12 GPU days of compute, where DFT would have taken 52 GPU years, a 1500x speedup. Similar searches for complete reaction networks could become routine using the approach presented here. Finally, we replicated an ammonia synthesis activity volcano and systematically found lower energy configurations of the transition states and intermediates on six stepped unary surfaces. This scalable approach offers a more complete treatment of configurational space to improve and accelerate catalyst discovery.    
-
-    
 
 ## Decomposition methods for multi-horizon stochastic programming   
 
@@ -49,6 +37,28 @@ Open access: True
 [Daniel Ovalle](https://openalex.org/A5067396423), [David A. Liñán](https://openalex.org/A5000130135), [Albert Lee](https://openalex.org/A5049888866), [Jorge M. Gómez](https://openalex.org/A5077662305), [Luis Ricardez–Sandoval](https://openalex.org/A5043725286), [Ignacio E. Grossmann](https://openalex.org/A5056017028), [David E. Bernal Neira](https://openalex.org/A5015746295), arXiv (Cornell University). None(None)] 2024.https://doi.org/10.48550/arxiv.2405.05358 ([pdf](https://arxiv.org/pdf/2405.05358)).
     
 The optimization of chemical processes is challenging due to the nonlinearities arising from process physics and discrete design decisions. In particular, optimal synthesis and design of chemical processes can be posed as a Generalized Disjunctive Programming (GDP) superstructure problem. Various solution methods are available to address these problems, such as reformulating them as Mixed-Integer Nonlinear Programming (MINLP) problems; nevertheless, algorithms explicitly designed to solve the GDP problem and potentially leverage its structure remain scarce. This paper presents the Logic-based Discrete-Steepest Descent Algorithm (LD-SDA) as a solution method for GDP problems involving ordered Boolean variables. The LD-SDA reformulates these ordered Boolean variables into integer decisions called external variables. The LD-SDA solves the reformulated GDP problem using a two-level decomposition approach where the upper-level subproblem determines external variable configurations. Subsequently, the remaining continuous and discrete variables are solved as a subproblem only involving those constraints relevant to the given external variable arrangement, effectively taking advantage of the structure of the GDP problem. The advantages of LD-SDA are illustrated through a batch processing case study, a reactor superstructure, a distillation column, and a catalytic distillation column, and its open-source implementation is available online. The results show convergence efficiency and solution quality improvements compared to conventional GDP and MINLP solvers.    
+
+    
+
+## Experimental and Theoretical Evaluation of Feed Flow Collar Design for Shell Fed Hollow Fiber Membrane Modules   
+
+OpenAlex: https://openalex.org/W4396974300    
+Open access: False
+    
+[Thien Tran](https://openalex.org/A5037749425), [Maya Schuchert](https://openalex.org/A5098667099), [Victor A. Kusuma](https://openalex.org/A5041659494), [Lili Sun](https://openalex.org/A5034596712), [Comfort Oluleke](https://openalex.org/A5093456232), [Nathan Diemler](https://openalex.org/A5032502544), [Lingxiang Zhu](https://openalex.org/A5002137675), [Grigorios Panagakos](https://openalex.org/A5028498558), [G. Glenn Lipscomb](https://openalex.org/A5063620462), [David Hui‐Kang](https://openalex.org/A5083623112), No host. None(None)] 2024.https://doi.org/10.2172/2348930.
+    
+An experimental and theoretical study of module collar design is presented here. Hollow fiber membranes are prepared by dip coating a poly(vinylidene) (PVDF) support with a polydimethylsiloxane (PDMS) gutter layer and a Pebax 2533 selective layer. Fiber bundles with a well-defined fiber packing are prepared using a 3D printed module. A parallel fiber bundle consisting of 4-9 uniformly spaced fibers is created with printed tabs that align the fibers and create a tubesheet. The tabs are sealed within a printed case that possesses a series of external ports for gas introduction and removal. Uniquely, both port location and the use of a collar to assist fluid distribution in the shell can be varied for the same fiber bundle. Experimental measurements are compared to computational fluid dynamics (CFD) simulations. The experimental module design allows high-fidelity representation of the fiber bundle and module case in the simulations. Comparisons between experiment and simulation are in good agreement over a broad range of experimental conditions. The detrimental effect of having ports located too close, leading to stagnation regions, is captured as well as the beneficial effects of using a collar for shell-side fluid distribution around the fiber bundle. Such results help validate the use of CFD to develop high-performance module designs.    
+
+    
+
+## Optimization strategies for produced water networks with integrated desalination facilities   
+
+OpenAlex: https://openalex.org/W4396978966    
+Open access: False
+    
+[Sakshi Naik](https://openalex.org/A5054628015), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108738.
+    
+Optimal management and desalination of produced water is a major challenge for U.S. oil and gas development. Integrating rigorous desalination models into multi-period produced water network optimization problems presents several hurdles, which need to be tackled using advanced optimization strategies. In this work, a novel multi-period produced water network formulation with separate solid and liquid flows is introduced to avoid singularities at zero flows. Rigorous steady state desalination models based on mechanical vapor recompression are embedded at the desalination sites in the network model. An integrated optimization formulation is developed to co-optimize the design of desalination units along with the operation of the network. Furthermore, a more robust approach based on the trust region filter method is developed to efficiently integrate complex desalination models into the multi-period planning problem. Both optimization approaches are demonstrated on a produced water network from the PARETO library (Drouven et al., 2022) using thermal desalination units. Our results show that while the TRF and integrated approaches have comparable solve times, the TRF approach has better performance reliability in terms of solver convergence. Furthermore, the optimal solution obtained by embedding rigorous models into the network is significantly different than when desalination costs are approximated using simple cost models, which motivates further research in this field.    
 
     
 

@@ -1,115 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri May 17 01:06:05 2024
+Created on Sat May 18 01:04:35 2024
 
-Found 21 results from 2024-05-10 to 2024-05-17
+Found 33 results from 2024-05-11 to 2024-05-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Implementing the Blowers–Masel Approximation to Scale Activation Energy Based on Reaction Enthalpy in Mean-Field Microkinetic Modeling for Catalytic Methane Partial Oxidation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396760629
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Ice Nucleation and Melting Phenomena
-:PUBLICATION_DATE: 2024-05-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c05436")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396760629"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396760629"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396760629"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396760629 (Open access: True)
-    
-[[https://openalex.org/A5067493958][Chao Xu]], [[https://openalex.org/A5057054603][Emily Mazeau]], [[https://openalex.org/A5045093343][Richard H. West]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c05436  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c05436][pdf]])
-     
-Mean-field microkinetic modeling is a powerful tool for catalyst design and the simulation of catalytic processes. The reaction enthalpies in a microkinetic model often need to be adjusted when changing species' binding energies to model different catalysts, when performing thermodynamic sensitivity analyses, and when fitting experimental data. When altering reaction enthalpies, the activation energies should also be reasonably altered to ensure realistic reaction rates. The Blowers–Masel approximation (BMA) relates the reaction barrier to the reaction enthalpy. Unlike the Brønsted–Evans–Polani relationship, the BMA requires less data because only one parameter, the intrinsic activation energy, needs to be determined. We validate this application of BMA relations to model surface reactions by comparing against density functional theory data taken from the literature. By incorporating the BMA rate description into the open-source Cantera software, we enable a new workflow, demonstrated herein, allowing rapid screening of catalysts using linear scaling relationships and BMA kinetics within the process simulation software. For demonstration purposes, a catalyst screening for catalytic methane partial oxidation on 81 hypothetical metals is conducted. We compared the results with and without BMA-corrected rates. The heat maps of various descriptors (e.g., CH4 conversion, syngas yield) show that using BMA rates instead of Arrhenius rates (with constant activation energies) changes which metals are most active. Heat maps of sensitivity analyses can help identify which reactions or species are the most influential in shaping the descriptor map patterns. Our findings indicate that while using BMA-adjusted rates did not markedly affect the most sensitive reactions, it did change the most influential species.    
-
-    
-
-* γ-Amino C(sp3)–H Functionalization of Aliphatic Amines through a Light-Driven Triple Catalysis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396770266
-:TOPICS: Transition-Metal-Catalyzed C–H Bond Functionalization, Catalytic C-H Amination Reactions, Applications of Photoredox Catalysis in Organic Synthesis
-:PUBLICATION_DATE: 2024-05-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02004")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396770266"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396770266"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396770266"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396770266 (Open access: False)
-    
-[[https://openalex.org/A5090805443][Masanari Nakagawa]], [[https://openalex.org/A5007767469][Kazunori Nagao]], [[https://openalex.org/A5014129306][Hirohisa Ohmiya]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02004 
-     
-No abstract    
-
-    
-
-* Particle Size-Dependent Charge Transfer Dynamics for Boosting CO2 Photoreduction over Ag/TiO2 Heterojunction  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396773891
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Emergent Phenomena at Oxide Interfaces
-:PUBLICATION_DATE: 2024-05-08
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01544")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396773891"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396773891"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396773891"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396773891 (Open access: False)
-    
-[[https://openalex.org/A5018640318][Shicheng Liu]], [[https://openalex.org/A5029636832][Qulan Zhou]], [[https://openalex.org/A5089152428][Du Wen]], [[https://openalex.org/A5021968236][Chenhao Wu]], [[https://openalex.org/A5050455895][Yuqing Pan]], [[https://openalex.org/A5033350250][Li Xiong]], [[https://openalex.org/A5015564508][Zhong Huang]], [[https://openalex.org/A5029533063][Na Li]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01544 
-     
-No abstract    
-
-    
-
-* Enhanced PtIn Catalyst via Ce-Assisted Confinement Effect in Propane Dehydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396779672
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-05-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02517")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396779672"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396779672"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396779672"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396779672 (Open access: False)
-    
-[[https://openalex.org/A5060239553][Peng Wang]], [[https://openalex.org/A5031257732][Huafei Liao]], [[https://openalex.org/A5033549268][Yang Chen]], [[https://openalex.org/A5047100994][Xin Tao]], [[https://openalex.org/A5003446706][Yuyan Gan]], [[https://openalex.org/A5062303578][Huihui Deng]], [[https://openalex.org/A5062217682][Yajie Fu]], [[https://openalex.org/A5004494343][Yu Tang]], [[https://openalex.org/A5021518013][Lizhi Wu]], [[https://openalex.org/A5089757687][Li Tan]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02517 
-     
-The PtIn nanoalloys with high surface energy are generally in a metastable state during harsh reaction conditions, and the ordered alloy structure is not conducive to exposure of surface Pt active sites. Herein, a strategy for restructuring the unfavorable PtIn alloy structure via heteroatom (Ce) doping is applied to advance an isolated Ptδ+ confined by the InCeOx nanoislands supported on SiO2. The as-synthesized catalyst with optimizing PtIn(Ce) ternary components exhibits ∼92.2% selectivity toward propylene and a stable propane conversion of ∼67.1% at 550 °C (kd of 0.010 h–1). As demonstrated by the comprehensive characterizations, the introduced proper amount of Ce species leads to the reorganization of the disadvantaged PtIn nanoalloy structure into the robustness of the isolated Ptδ+ site confined by the InCeOx nanoislands via inhibiting the In0 species generation. The introduced Ce species modulate the electronic interaction between Pt, In, and carrier, stimulating the capability to activate reactive molecules and at the same time acting as spatial physical barriers to restrict the migration of the isolated Ptδ+ species. This work proposed a facile and efficient strategy to promote the capability against sintering and coking of the Pt-based catalyst in propane dehydrogenation.    
-
-    
-
-* Effect of a Physisorbed Tetrabutylammonium Cation Film on Alkaline Hydrogen Evolution Reaction on Pt Single-Crystal Electrodes  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396780694
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-05-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01765")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396780694"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396780694"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396780694"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396780694 (Open access: True)
-    
-[[https://openalex.org/A5012508034][Julia Fernández‐Vidal]], [[https://openalex.org/A5028485156][Marc T. M. Koper]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01765  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01765][pdf]])
-     
-The addition of tetrabutylammonium (TBA+) to alkaline electrolytes enhances the hydrogen evolution reaction (HER) activity on Pt single-crystal electrodes. The concentration of TBA+ significantly influences the HER on Pt(111). Concentrations of ≤1 mM yield no significant effect on HER currents or the coverage of adsorbed hydrogen (H*) but exhibit an interaction with the OHads on the surface. Conversely, concentrations of >1 mM result in an apparent site-blocking effect for underpotential-deposited H* caused by the physisorption of the organic cation, which counterintuitively leads to an increase in the HER activity. The physisorption of TBA+ is linked to its accumulation in the diffuse layer, as it can be reversibly removed by the addition of nonadsorbing cations such as sodium. Following the previous literature on the TBA+ interaction with electrode surfaces, we ascribe this effect to the formation of a two-dimensional TBA+ film in the double layer. On stepped Pt single-crystal surfaces, TBA+ enhances HER activity at all concentrations, primarily at step sites. Our findings not only highlight the complexities of TBA+ accumulation on Pt electrodes but also offer important molecular-level insights for optimizing the HER by organic film formation on various atomic-level electrode structures.    
-
-    
 
 * Understanding and Controlling the Mizoroki–Heck Reaction of Cyclic Enones  :ACS_Catalysis:
 :PROPERTIES:
@@ -252,7 +147,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4396830886 (Open access: False)
     
-[[https://openalex.org/A5048302550][Juan S. Martínez-Espín]], [[https://openalex.org/A5083542758][Søren Tolborg]], [[https://openalex.org/A5033796137][Bai Yang]], [[https://openalex.org/A5050132760][Nicolai Krog Andersen]], [[https://openalex.org/A5057658913][Anna Katerinopoulou]], [[https://openalex.org/A5048452947][Lars P. Hansen]], [[https://openalex.org/A5037743615][Ulla Gro Nielsen]], [[https://openalex.org/A5044885794][Esben Taarning]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01976 
+[[https://openalex.org/A5048302550][Juan S. Martínez-Espín]], [[https://openalex.org/A5083542758][Søren Tolborg]], [[https://openalex.org/A5033796137][Bai Yang]], [[https://openalex.org/A5050132760][Nicolai K. Andersen]], [[https://openalex.org/A5057658913][Anna Katerinopoulou]], [[https://openalex.org/A5048452947][Lars P. Hansen]], [[https://openalex.org/A5037743615][Ulla Gro Nielsen]], [[https://openalex.org/A5044885794][Esben Taarning]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01976 
      
 Catalyst stability and deactivation remain significant hurdles, which hinder the realization of many promising chemical processes. This applies especially for biomass conversion over zeolitic materials, where the commonly applied solvothermal conditions adversely affect the stability of the catalysts. For example, tin-doped zeolite Beta, Sn-Beta, is one of the materials often used for a wide range of biomass reactions in the liquid phase. Herein, we present insights into the deactivation of Sn-Beta catalysts and assess different regeneration procedures. We identify tin and silicon leaching, along with tin restructuring into tin(IV) oxide, SnO2, as the primary deactivation mechanisms during the conversion of biobased-derived glycolaldehyde in methanol/water solvents. Concurrently, the spent catalysts have a range of mesopores over a highly ordered and poorly defective zeolitic framework. Furthermore, we highlight the critical impact of reaction medium compositions affecting the leaching of tin and silicon and provide levers to mitigate it (e.g., higher alcohols, low water concentrations). Through the implementation of an oxidation–reduction–oxidation regeneration procedure, the catalyst contains twice as high active site concentrations as the use of conventional thermal oxidation. The oxidation–reduction–oxidation procedure reverses some of the ongoing deactivation (tin restructuring into SnO2) with the transformation of the otherwise inactive SnO2 into active sites. Together, the generated understanding of Sn-Beta deactivation and the successful application of a superior regeneration method can bring this family of catalysts closer to industrial applications.    
 
@@ -444,5 +339,362 @@ OpenAlex: https://openalex.org/W4396873077 (Open access: False)
 [[https://openalex.org/A5007497108][Yunling Jiang]], [[https://openalex.org/A5074804270][Haobo Li]], [[https://openalex.org/A5074738328][Chaojie Chen]], [[https://openalex.org/A5028236459][Yao Zheng]], [[https://openalex.org/A5032628543][Shi Zhang Qiao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01516 
      
 Acidic CO2 electroreduction reaction (CO2RR) shows advantages in high carbon utilization efficiency yet encounters great challenges in suppressing undesired hydrogen evolution competition and increasing C2+ product selectivity. Although it is known that Cu0/Cu+ interfaces are conducive to C–C coupling processes, the oxidation state of copper cannot be well maintained under the strong reductive condition and large current electrolysis operation. Herein, we propose an I2 addition involved strategy to protect the oxidation state of Cu and promote dynamic Cu0/Cu+ interfaces during acidic CO2RR. With the addition of I2 in the electrolyte, a high C2+ product Faraday efficiency of above 70% can be achieved at 0.4–0.6 A cm–2 even under a low K+ concentration of 0.3 M, which is comparable to those reported performances with almost ten times higher K+ concentrations (2–3 M). This low K+ concentration in electrolytes significantly avoids salt crystallization in the CO2 transport channel to enhance the electrolyzer's stability. As proved by the surface Pourbaix diagram and experimental results, adding excessive I2 into the electrolyte boosts the generation of CuI; also, CuI and metallic Cu coexist under electrochemical reduction conditions, demonstrating that a redox loop of Cu → CuI → Cu exists. The loop holds the key to constructing the dynamic Cu0/Cu+ interface, which is tightly bound to the adsorption of the *CO reaction intermediate and further promotes the C–C coupling process.    
+
+    
+
+* Homo- and Cross-Coupling of Phenylacetylenes and α-Hydroxyacetylenes Catalyzed by a Square-Planar Rhodium Monohydride  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396884480
+:TOPICS: Homogeneous Catalysis with Transition Metals, Gold Catalysis in Organic Synthesis, Peptide Synthesis and Drug Discovery
+:PUBLICATION_DATE: 2024-05-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00264")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396884480"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396884480"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396884480"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396884480 (Open access: False)
+    
+[[https://openalex.org/A5030971673][Laura A. de las Heras]], [[https://openalex.org/A5090236062][Miguel A. Esteruelas]], [[https://openalex.org/A5079497892][Montserrat Oliván]], [[https://openalex.org/A5067242867][Enrique Oñate]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00264 
+     
+The C–C triple bond of phenylacetylene undergoes the anti-Markovnikov addition of the Rh–H bond of RhH{κ3-P,O,P-[xant(PiPr2)2]} (1; xant(PiPr2)2 = 9,9-dimethyl-4,5-bis(diisopropylphosphino)xanthene) to give Rh{(E)–CH═CHPh}{κ3-P,O,P-[xant(PiPr2)2]} (2), which reacts with a second alkyne molecule to produce Rh(C≡CPh){κ3-P,O,P-[xant(PiPr2)2]} (3) and styrene before the transformation from 1 to 2 is complete. The metal center of 3 undergoes the oxidative addition of the C(sp)–H bond of another alkyne molecule to produce RhH(C≡CPh)2{κ3-P,O,P-[xant(PiPr2)2]} (4), which also reacts with more phenylacetylene before completing the transformation from 3 to 4. The reaction leads to Rh{(E)–CH═CHPh}(C≡CPh)2{κ3-P,O,P-[xant(PiPr2)2]} (5), which reductively eliminates (E)-1,4-diphenyl-1-buten-3-yne to regenerate 3. Complexes 3, 4, and 5 constitute a cycle for head-to-head dimerization of phenylacetylene. Consequently, complex 1 promotes the catalytic homocoupling of terminal alkynes to (E)-enynes, including the dimerization of α-hydroxyacetylenes to (E)-enyne-diols. The rate-determining step of the couplings depends on the nature of the alkyne, being the insertion of the C–C triple bond into the Rh–H bond of a bis(acetylide)-rhodium(III)-hydride intermediate for phenylacetylenes and the reductive elimination of the product (E)-enyne-diol for α-hydroxyacetylenes. In support of the latter, complex Rh{(E)–CH═CHC(OH)Ph2}{C≡CC(OH)Ph2}2{κ3-P,O,P-[xant(PiPr2)2]} (6) has been isolated and characterized by X-ray diffraction analysis. Complex 1 also effectively promotes the formation of compounds of the type (E)-5-phenyl-2-penten-4-yn-1-ol, by cross-coupling between phenylacetylenes and α-hydroxyacetylenes. These reactions take place through two cycles similar to the cycle that produces the homocouplings, the rate-determining step being the reductive elimination of (E)-enyn-ol for both. The catalytic performance of 1 provides good efficiency in homocoupling and cross-coupling reactions involving progestin-type compounds such as ethisterone.    
+
+    
+
+* Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu–Zeolite-Catalyzed NOx Reduction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396885835
+:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Gas Sensing Technology and Materials
+:PUBLICATION_DATE: 2024-05-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01856")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396885835"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396885835"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396885835"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396885835 (Open access: False)
+    
+[[https://openalex.org/A5079824478][Anshuman Goswami]], [[https://openalex.org/A5020190887][Siddarth H. Krishna]], [[https://openalex.org/A5072511676][Rajamani Gounder]], [[https://openalex.org/A5062009633][William F. Schneider]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01856 
+     
+Copper-exchanged chabazite (Cu-CHA) zeolites are the preferred catalysts for the selective catalytic reduction of NOx with NH3. The low temperature (473 K) SCR mechanism proceeds through a redox cycle between mobile and ammonia-solvated Cu(I) and Cu(II) complexes, as demonstrated by multiple experimental and computational investigations. The oxidation step requires two Cu(I) to migrate into the same cha cage to activate O2 and form a binuclear Cu(II)-di-oxo complex. Prior steady state and transient kinetic experiments find that the apparent rate constants for oxidation (per Cu ion) are sensitive to catalyst composition and follow nonmean-field kinetics. We develop a nonmean-field kinetic model for NOx SCR that incorporates a composition-dependent Cu(I) volumetric footprint centered at anionic [AlO4]− tetrahedral sites on the CHA lattice. We use Bayesian optimization to parameterize a kinetic Monte Carlo model against available experimental composition-dependent SCR rates and in situ Cu(II) fractions. We find that both rates and Cu(II) fractions of a majority of catalyst compositions can be captured by single oxidation and reduction rate constants combined with a composition-dependent Cu(I) cation footprint, highlighting the contributions of both Cu and Al densities to steady-state SCR performance of Cu-CHA. The work illustrates a pathway for extracting robust molecular insights from the kinetics of a dynamic catalytic system.    
+
+    
+
+* Insights into Electrochemical CO2 Reduction on Metallic and Oxidized Tin Using Grand-Canonical DFT and In Situ ATR-SEIRA Spectroscopy  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396889493
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-05-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01290")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396889493"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396889493"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396889493"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396889493 (Open access: True)
+    
+[[https://openalex.org/A5018476423][Todd N. Whittaker]], [[https://openalex.org/A5032718016][Yuval Fishler]], [[https://openalex.org/A5085997779][Jacob M. Clary]], [[https://openalex.org/A5044507772][Paige Brimley]], [[https://openalex.org/A5060348241][Adam Holewinski]], [[https://openalex.org/A5030433764][Charles B. Musgrave]], [[https://openalex.org/A5050276234][Carrie A. Farberow]], [[https://openalex.org/A5033181239][Wilson A. Smith]], [[https://openalex.org/A5076653865][Derek Vigil‐Fowler]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01290  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01290][pdf]])
+     
+Electrochemical CO2 reduction (CO2R) to formate is an attractive carbon emissions mitigation strategy due to the existing market and attractive price for formic acid. Tin is an effective electrocatalyst for CO2R to formate, but the underlying reaction mechanism and whether the active phase of tin is metallic or oxidized during reduction is openly debated. In this report, we used grand-canonical density functional theory and attenuated total reflection surface-enhanced infrared absorption spectroscopy to identify differences in the vibrational signatures of surface species during CO2R on fully metallic and oxidized tin surfaces. Our results show that CO2R is feasible on both metallic and oxidized tin. We propose that the key difference between each surface termination is that CO2R catalyzed by metallic tin surfaces is limited by the electrochemical activation of CO2, whereas CO2R catalyzed by oxidized tin surfaces is limited by the slow reductive desorption of formate. While the exact degree of oxidation of tin surfaces during CO2R is unlikely to be either fully metallic or fully oxidized, this study highlights the limiting behavior of these two surfaces and lays out the key features of each that our results predict will promote rapid CO2R catalysis. Additionally, we highlight the power of integrating high-fidelity quantum mechanical modeling and spectroscopic measurements to elucidate intricate electrocatalytic reaction pathways.    
+
+    
+
+* Visible-Light-Driven Highly Selective 5-Hydroxymethylfurfural Upgrading and H2 Generation via Atomically Dispersed Ni Sites on ZnIn2S4 Nanosheets  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396889512
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Reduction of Nitro Compounds
+:PUBLICATION_DATE: 2024-05-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00123")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396889512"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396889512"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396889512"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396889512 (Open access: False)
+    
+[[https://openalex.org/A5035966131][Shenghe Si]], [[https://openalex.org/A5052228368][Piyu Gong]], [[https://openalex.org/A5043423601][Xiaolei Bao]], [[https://openalex.org/A5053743719][Xinying Tan]], [[https://openalex.org/A5090099599][Yuyin Mao]], [[https://openalex.org/A5013688157][Honggang Zhang]], [[https://openalex.org/A5034701176][Difei Xiao]], [[https://openalex.org/A5005078126][Kepeng Song]], [[https://openalex.org/A5071494860][Zeyan Wang]], [[https://openalex.org/A5073772846][Peng Wang]], [[https://openalex.org/A5064686033][Yuanyuan Liu]], [[https://openalex.org/A5005994132][Zhaoke Zheng]], [[https://openalex.org/A5071337833][Ying Dai]], [[https://openalex.org/A5026904646][Baibiao Huang]], [[https://openalex.org/A5055777639][Hefeng Cheng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00123 
+     
+No abstract    
+
+    
+
+* Structural Basis for the Acylation Reaction of Alphacoronavirus 3C-like Protease  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396895886
+:TOPICS: Gastrointestinal Viral Infections and Vaccines Development, Viral Diseases in Livestock and Poultry, Gene Therapy Techniques and Applications
+:PUBLICATION_DATE: 2024-05-13
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01159")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396895886"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396895886"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396895886"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396895886 (Open access: False)
+    
+[[https://openalex.org/A5056536101][Junwei Zhou]], [[https://openalex.org/A5022023267][Jiyao Chen]], [[https://openalex.org/A5066625018][Peng Sun]], [[https://openalex.org/A5026480199][Gang Ye]], [[https://openalex.org/A5051333876][Y. X. Wang]], [[https://openalex.org/A5021328100][Runhui Qiu]], [[https://openalex.org/A5090055676][Zhihui Yang]], [[https://openalex.org/A5035101978][Dengguo Wei]], [[https://openalex.org/A5065459950][Guiqing Peng]], [[https://openalex.org/A5053496877][Liurong Fang]], [[https://openalex.org/A5066099820][Shaobo Xiao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01159 
+     
+Coronavirus 3C-like proteases (3CLpro) are critical for viral replication and provide targets for antiviral drugs. Using the enteropathogenic alphacoronavirus porcine epidemic diarrhea virus (PEDV) as a model, we determined the crystal structure of an inactive PEDV 3CLpro variant (C144A) in complex with a peptide of NF-κB essential modulator (NEMO227–233). Structural characterization showed that the conformational change to PEDV 3CLpro S1′ pocket conferred tolerance for nonconventional P1′-Val from a NEMO peptide substrate, indicating strong substrate accommodation. Using a combination of classical and quantum mechanics/molecular mechanics simulations, we explored the free-energy landscapes associated with the acylation step of PEDV 3CLpro with regard to various substrates. The P1′ site plays a key role in the thermodynamics and kinetics of proteolysis, and the S1′ pocket might affect the free-energy cost of the acylation reaction. Our study provides structural insight into coronavirus 3CLpro-mediated cleavage and will inform the development of anti-coronavirus drugs.    
+
+    
+
+* Cu/LaF3 Interfaces Boost Electrocatalytic CO-to-Acetate Conversion  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396905140
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-05-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06014")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396905140"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396905140"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396905140"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396905140 (Open access: False)
+    
+[[https://openalex.org/A5001880744][Yilin Zhao]], [[https://openalex.org/A5047548850][Yuke Li]], [[https://openalex.org/A5054450992][Jingyi Chen]], [[https://openalex.org/A5014725709][Bin Sun]], [[https://openalex.org/A5022239454][Lei Fan]], [[https://openalex.org/A5030734396][Junmei Chen]], [[https://openalex.org/A5023257092][Yukun Xiao]], [[https://openalex.org/A5007921737][Haozhou Yang]], [[https://openalex.org/A5052304130][Di Wang]], [[https://openalex.org/A5004726461][Jiayi Chen]], [[https://openalex.org/A5025874763][Xiaopeng Han]], [[https://openalex.org/A5041674434][Shibo Xi]], [[https://openalex.org/A5083219041][Jia Zhang]], [[https://openalex.org/A5061600997][Lei Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06014 
+     
+The electrochemical reduction of carbon monoxide (COR) holds significant promise as an ecofriendly approach for producing valuable chemicals, such as acetate. However, the current unsatisfactory activity and selectivity of this process hinder its future implementation. In this study, we develop and study a catalyst composite comprising lanthanum fluoride (LaF3) crystal support and copper (Cu) as the active phase. Under typical COR conditions, the LaF3–Cu electrocatalyst demonstrates remarkable selectivity, exceeding 40% at −0.95 V vs. RHE, with a partial current density of over 280 mA cm–2 for acetate production. In contrast, the pristine Cu catalyst achieves only 56 mA cm–2 at −1.12 V vs. RHE with a low selectivity of <10%. Through detailed kinetic and computational studies, we attribute this remarkable enhancement in both selectivity and activity toward acetate formation to the stabilization of the ethenone intermediate at the LaF3/Cu interface during COR. Inspired by this finding, we extended this substrate effect to a bimetallic copper–silver catalyst, which led to a notable increase in acetate selectivity (>66%) under the same conditions. Overall, our findings introduce a universal strategy based on substrate effects for the development of selective and active COR catalysts.    
+
+    
+
+* Edge-Site Co–Nx Model Single-Atom Catalysts for CO2 Electroreduction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396916929
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Molecular Electronic Devices and Systems
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02079")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396916929"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396916929"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396916929"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396916929 (Open access: False)
+    
+[[https://openalex.org/A5040114437][Yao‐Ti Cheng]], [[https://openalex.org/A5084177862][Jianzhao Peng]], [[https://openalex.org/A5015798300][Guozhong Lai]], [[https://openalex.org/A5076162876][Xian Yue]], [[https://openalex.org/A5015547238][Fuzhi Li]], [[https://openalex.org/A5072315367][Qing Wang]], [[https://openalex.org/A5003910460][Lina Chen]], [[https://openalex.org/A5047021453][Junjie Gu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02079 
+     
+No abstract    
+
+    
+
+* Ethanol Upgrading with N,N,N-Pincer-Based Ru Catalysts: Delineating Key Factors Governing Catalyst Evolution and Stability  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396917420
+:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Homogeneous Catalysis with Transition Metals, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01361")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396917420"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396917420"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396917420"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396917420 (Open access: False)
+    
+[[https://openalex.org/A5090229707][Benjamin M. Farris]], [[https://openalex.org/A5024907657][Alex M. Davies]], [[https://openalex.org/A5036992723][Corey R. J. Stephenson]], [[https://openalex.org/A5009251963][Nathaniel K. Szymczak]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01361 
+     
+No abstract    
+
+    
+
+* Rate-Determining Step for Electrochemical Reduction of Carbon Dioxide into Carbon Monoxide at Silver Electrodes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396917646
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00192")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396917646"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396917646"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396917646"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396917646 (Open access: True)
+    
+[[https://openalex.org/A5073128014][Etienne Boutin]], [[https://openalex.org/A5041466191][Sophia Haussener]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00192  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00192][pdf]])
+     
+Silver is one of the most studied electrode materials for the electrochemical reduction of carbon dioxide into carbon monoxide, a product with many industrial applications. There is a growing number of reports in which silver is implemented in gas diffusion electrodes as part of a large-scale device to develop commercially relevant technology. Electrochemical models are expected to guide the design and operation toward cost-efficient devices. Despite decades of investigations, there are still uncertainties in the way this reaction should be modeled due to the absence of scientific consensus regarding the reaction mechanism and the nature of the rate-determining step. We review previously reported studies to draw converging conclusions on the value of the Tafel slope and existing species at the electrode surface. We also list conflicting experimental observations and provide leads to tackling these remaining questions.    
+
+    
+
+* Constructing Heteronuclear Bridging Atoms toward Bifunctional Electrocatalysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396920380
+:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01705")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396920380"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396920380"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396920380"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396920380 (Open access: False)
+    
+[[https://openalex.org/A5012710067][Minkai Qin]], [[https://openalex.org/A5082391052][Jiadong Chen]], [[https://openalex.org/A5091275109][Menghui Qi]], [[https://openalex.org/A5016829733][H. H. Wang]], [[https://openalex.org/A5017864467][Shanjun Mao]], [[https://openalex.org/A5026863594][Lingling Xi]], [[https://openalex.org/A5030325177][Yong Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01705 
+     
+No abstract    
+
+    
+
+* Ligand Relay Cobalt Catalysis for Vicinal Si,O-Alkanes from Terminal Alkynes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396921464
+:TOPICS: Transition Metal-Catalyzed Cross-Coupling Reactions, Gold Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02438")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396921464"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396921464"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396921464"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396921464 (Open access: False)
+    
+[[https://openalex.org/A5051539737][Yuhan Sun]], [[https://openalex.org/A5044174487][Binghe Wang]], [[https://openalex.org/A5043030267][Linhong Long]], [[https://openalex.org/A5017067065][Jingan Lou]], [[https://openalex.org/A5071043055][Hui Chen]], [[https://openalex.org/A5070489845][Zhan Lu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02438 
+     
+No abstract    
+
+    
+
+* Modulating Activity and Selectivity of CO2 Electroreductions at Au–Water Interfaces via Engineering Local Cation Condition  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396937858
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00639")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396937858"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396937858"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396937858"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396937858 (Open access: True)
+    
+[[https://openalex.org/A5053758631][Xueping Qin]], [[https://openalex.org/A5083050334][Tejs Vegge]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00639  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00639][pdf]])
+     
+The mechanistic understanding of the CO2 reduction reaction (CO2RR) under electrochemical conditions is crucial for optimizing the overall catalytic performance. While electrolyte ions have received considerable attention, it remains unclear how the condition of interfacial cations modulates the CO2RR and the competitive hydrogen evolution reaction (HER) at the electrode–electrolyte interfaces. Herein, we explore the CO2 activation and Volmer step representing the critical first electron transfer during the CO2RR and HER, respectively. This investigation involves manipulating the cation identity (K+, Li+, and H+) and concentration at Au–water interfaces, which is carried out via the slow-growth sampling approach integrated with ab initio molecular dynamics simulations. Our results demonstrate that the high local alkali metal cation (AM+) concentration facilitates the CO2RR following the order of 2K+ > 1K+ > 2Li+ > 1Li+ > 0AM+, and the highly promoted CO2 activation kinetics originate from the short-range coordination between alkali metal cations and reaction intermediates. However, the interfacial HER behaves very differently with the kinetic order of 1Li+ > 0AM+ > 1K+ > 2Li+ > 2K+, closely related to the interfacial water structures, which are affected by both cation identity and local concentrations. Overall, the activity and selectivity of the CO2RR at the Au–water interface can be enhanced by increasing the local cation concentration (K+ > Li+). These findings highlight the critical roles of alkali metal cations and reaction microenvironments in modulating interfacial reaction kinetics.    
+
+    
+
+* Controlling the Selectivity of Chlorine Evolution Reaction by IrTaOx/TiO2 Heterojunction Anodes: Mechanism and Real Wastewater Treatment  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396939013
+:TOPICS: Electrochemical Detection of Heavy Metal Ions, Photocatalysis and Solar Energy Conversion, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06174")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396939013"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396939013"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396939013"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396939013 (Open access: False)
+    
+[[https://openalex.org/A5004568324][Evandi Rahman]], [[https://openalex.org/A5044676126][Jae Sun Shin]], [[https://openalex.org/A5039715599][Sukhwa Hong]], [[https://openalex.org/A5036965622][Sunmi Im]], [[https://openalex.org/A5072751301][Jiseon Kim]], [[https://openalex.org/A5037782178][Chan‐Moon Chung]], [[https://openalex.org/A5020632530][Seok Won Hong]], [[https://openalex.org/A5078307783][Michael R. Hoffmann]], [[https://openalex.org/A5033596181][Kangwoo Cho]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06174 
+     
+This study investigated the effects of varied loadings of TiO2 overlayers in heterojunction with conventional Ir0.7Ta0.3Ox (IrTaOx) anodes on chlorine evolution reaction (ClER) and real (waste)water treatment at circum-neutral pH. With an optimized design of IrTaOx/TiO2, elevated ClER selectivity was attained by more facile chemisorption of chloride ions to a thin TiO2 layer on IrTaOx. The current efficiency (CE) of ClER in galvanostatic electrolysis of 50 mM NaCl solutions (at 30 mA cm–2) was maximized to ∼80% by a heterojunction architecture with ∼605 μg cm–2 of IrTaOx and ∼265 μg cm–2 of TiO2 after specific rounds of drop casting. Further increases in loading resulted in escalated film-pore resistance or deterioration of ClER selectivity. The observed CE values were correlated with experimental descriptors, such as potential of zero charge and flat band potential, demonstrating that the weaker metal–oxygen bond strength on TiO2 could enhance the ClER selectivity compared to bare IrTaOx. We concluded that ClER primarily occurs on TiO2 near the junction owing to the nanoporous nature of the TiO2 layer, while IrTaOx serves as ohmic contact. The optimized IrTaOx/TiO2 anodes effectively improved the treatment of reverse osmosis concentrate, but phosphate ions in livestock wastewater caused adverse effects due to complexation on TiO2. The heterojunction architecture effectively tunes the surface charge density for selective generation of oxidants, which can facilitate electrochemical water treatment with reduced use of the precious metals.    
+
+    
+
+* Tafel Analysis Predicts Cooperative Redox Enhancement Effects in Thermocatalytic Alcohol Dehydrogenation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396952692
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Dehydrogenation of Light Alkanes, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-05-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06103")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396952692"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396952692"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396952692"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396952692 (Open access: True)
+    
+[[https://openalex.org/A5083516753][Bohyeon Kim]], [[https://openalex.org/A5089330812][Isaac H Daniel]], [[https://openalex.org/A5028475580][Mark Douthwaite]], [[https://openalex.org/A5004665220][Samuel Pattisson]], [[https://openalex.org/A5020068159][Graham J. Hutchings]], [[https://openalex.org/A5072550183][Steven McIntosh]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06103  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.3c06103][pdf]])
+     
+No abstract    
+
+    
+
+* Mixed Potential Driven Self-Cleaning Strategy in Direct Isopropanol Fuel Cells  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396964603
+:TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-05-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01939")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396964603"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396964603"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396964603"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396964603 (Open access: False)
+    
+[[https://openalex.org/A5056591946][Hanjoo Kim]], [[https://openalex.org/A5042130024][Do-Hoon Kim]], [[https://openalex.org/A5077642532][Ji‐Won Son]], [[https://openalex.org/A5090096815][Segeun Jang]], [[https://openalex.org/A5055851063][Dong Young Chung]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01939 
+     
+No abstract    
+
+    
+
+* Antiover-Reduction of Ni/In2O3 Nanocatalysts by Atomic Layer Deposition of Al2O3 Films for Durable CO2 Hydrogenation to Methanol  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396964972
+:TOPICS: Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-05-15
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02168")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396964972"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396964972"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396964972"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396964972 (Open access: False)
+    
+[[https://openalex.org/A5014412226][Yanmei Cai]], [[https://openalex.org/A5022787977][Cun‐biao Lin]], [[https://openalex.org/A5031403502][Xingwen Cha]], [[https://openalex.org/A5046474017][Yi-Chien Wu]], [[https://openalex.org/A5020301182][Xiaoping Rao]], [[https://openalex.org/A5033936621][Kok Bing Tan]], [[https://openalex.org/A5036032193][Dongren Cai]], [[https://openalex.org/A5034742697][Guilin Zhuang]], [[https://openalex.org/A5007715508][Guowu Zhan]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02168 
+     
+No abstract    
+
+    
+
+* Carbon Support Corrosion in PEMFCs Followed by Identical Location Electron Microscopy  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4396978035
+:TOPICS: Fuel Cell Membrane Technology, Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics
+:PUBLICATION_DATE: 2024-05-16
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00417")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396978035"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396978035"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396978035"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4396978035 (Open access: True)
+    
+[[https://openalex.org/A5019882034][Linnéa Strandberg]], [[https://openalex.org/A5088693530][Victor Shokhen]], [[https://openalex.org/A5078392737][Magnus Skoglundh]], [[https://openalex.org/A5034924108][Björn Wickman]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00417  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00417][pdf]])
+     
+Identical location scanning electron microscopy (IL-SEM) and transmission electron microscopy (IL-TEM) are used to follow the degradation of the cathodic catalytic Pt/C electrode layer in a real proton-exchange membrane fuel cell under operation. During an accelerated stress test, mimicking start-up/shutdown conditions, the IL-SEM analysis reveals the formation and growth of cracks in the electrode layer, which expose the underlying membrane, leading to the creation of isolated islands of the electrode layer that tend to delaminate from the membrane. This is found to correlate with a 2- to 4-fold increase of the cell resistance. Nanoscale IL-TEM imaging shows that the diameter of the primary particles of the carbon support shrinks by on average 20%. Consequently, the Pt particles on the support agglomerate and grow by 63% contributing to an observed 65% loss in the electrochemically active surface area. The corrosion of the structural weak points of the carbon support leads to structural collapse. This collapse of the porous structure and weakening of connective points within the cathodic catalyst layers coincide with increased cell and mass transport resistance, resulting in large performance losses. While similar effects have been indicated before, the IL microscopy analysis provides a deeper understanding of the underlying mechanisms and the connection between morphological changes and fuel cell performance losses.    
 
     

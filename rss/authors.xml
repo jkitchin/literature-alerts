@@ -4,20 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 17 May 2024 01:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 01:04:29 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CatTSunami: Accelerating Transition State Energy Calculations with
-  Pre-trained Graph Neural Networks</title>
-      <link>https://doi.org/10.48550/arxiv.2405.02078</link>
-      <description>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4396781988
-
-                Direct access to transition state energies at low computational cost unlocks the possibility of accelerating catalyst discovery. We show that the top performing graph neural network potential trained on the OC20 dataset, a related but different task, is able to find transition states energetically similar (within 0.1 eV) to density functional theory (DFT) 91% of the time with a 28x speedup. This speaks to the generalizability of the models, having never been explicitly trained on reactions, the machine learned potential approximates the potential energy surface well enough to be performant for this auxiliary task. We introduce the Open Catalyst 2020 Nudged Elastic Band (OC20NEB) dataset, which is made of 932 DFT nudged elastic band calculations, to benchmark machine learned model performance on transition state energies. To demonstrate the efficacy of this approach, we replicated a well-known, large reaction network with 61 intermediates and 174 dissociation reactions at DFT resolution (40 meV). In this case of dense NEB enumeration, we realize even more computational cost savings and used just 12 GPU days of compute, where DFT would have taken 52 GPU years, a 1500x speedup. Similar searches for complete reaction networks could become routine using the approach presented here. Finally, we replicated an ammonia synthesis activity volcano and systematically found lower energy configurations of the transition states and intermediates on six stepped unary surfaces. This scalable approach offers a more complete treatment of configurational space to improve and accelerate catalyst discovery.</description>
-      <author>Brook Wander, Muhammed Shuaibi, John R. Kitchin, Zachary W. Ulissi, C. Lawrence Zitnick</author>
-      <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2405.02078</guid>
-    </item>
     <item>
       <title>AdsorbDiff: Adsorbate Placement via Conditional Denoising Diffusion</title>
       <link>https://doi.org/10.48550/arxiv.2405.03962</link>
