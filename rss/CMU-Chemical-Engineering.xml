@@ -4,40 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 May 2024 01:04:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 01:10:18 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Decomposition methods for multi-horizon stochastic programming</title>
-      <link>https://doi.org/10.1007/s10287-024-00509-y</link>
-      <description>Hongyu Zhang, Ignacio E. Grossmann, Asgeir Tomasg&#229;rd, Computational management science. 21(1)] 2024. https://openalex.org/W4396813443
-
-                Abstract Multi-horizon stochastic programming includes short-term and long-term uncertainty in investment planning problems more efficiently than traditional multi-stage stochastic programming. In this paper, we exploit the block separable structure of multi-horizon stochastic linear programming, and establish that it can be decomposed by Benders decomposition and Lagrangean decomposition. In addition, we propose parallel Lagrangean decomposition with primal reduction that, (1) solves the scenario subproblems in parallel, (2) reduces the primal problem by keeping one copy for each scenario group at each stage, and (3) solves the reduced primal problem in parallel. We apply the parallel Lagrangean decomposition with primal reduction, Lagrangean decomposition and Benders decomposition to solve a stochastic energy system investment planning problem. The computational results show that: (a) the Lagrangean type decomposition algorithms have better convergence at the first iterations to Benders decomposition, and (b) parallel Lagrangean decomposition with primal reduction is very efficient for solving multi-horizon stochastic programming problems. Based on the computational results, the choice of algorithms for multi-horizon stochastic programming is discussed.</description>
-      <author>Hongyu Zhang, Ignacio E. Grossmann, Asgeir Tomasg&#229;rd</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s10287-024-00509-y</guid>
-    </item>
-    <item>
-      <title>AdsorbDiff: Adsorbate Placement via Conditional Denoising Diffusion</title>
-      <link>https://doi.org/10.48550/arxiv.2405.03962</link>
-      <description>Adeesh Kolluru, John R. Kitchin, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4396813915
-
-                Determining the optimal configuration of adsorbates on a slab (adslab) is pivotal in the exploration of novel catalysts across diverse applications. Traditionally, the quest for the lowest energy adslab configuration involves placing the adsorbate onto the slab followed by an optimization process. Prior methodologies have relied on heuristics, problem-specific intuitions, or brute-force approaches to guide adsorbate placement. In this work, we propose a novel framework for adsorbate placement using denoising diffusion. The model is designed to predict the optimal adsorbate site and orientation corresponding to the lowest energy configuration. Further, we have an end-to-end evaluation framework where diffusion-predicted adslab configuration is optimized with a pretrained machine learning force field and finally evaluated with Density Functional Theory (DFT). Our findings demonstrate an acceleration of up to 5x or 3.5x improvement in accuracy compared to the previous best approach. Given the novelty of this framework and application, we provide insights into the impact of pre-training, model architectures, and conduct extensive experiments to underscore the significance of this approach.</description>
-      <author>Adeesh Kolluru, John R. Kitchin</author>
-      <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2405.03962</guid>
-    </item>
-    <item>
-      <title>Logic-Based Discrete-Steepest Descent: A Solution Method for Process
-  Synthesis Generalized Disjunctive Programs</title>
-      <link>https://doi.org/10.48550/arxiv.2405.05358</link>
-      <description>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8211;Sandoval, Ignacio E. Grossmann, David E. Bernal Neira, arXiv (Cornell University). None(None)] 2024. https://openalex.org/W4396821927
-
-                The optimization of chemical processes is challenging due to the nonlinearities arising from process physics and discrete design decisions. In particular, optimal synthesis and design of chemical processes can be posed as a Generalized Disjunctive Programming (GDP) superstructure problem. Various solution methods are available to address these problems, such as reformulating them as Mixed-Integer Nonlinear Programming (MINLP) problems; nevertheless, algorithms explicitly designed to solve the GDP problem and potentially leverage its structure remain scarce. This paper presents the Logic-based Discrete-Steepest Descent Algorithm (LD-SDA) as a solution method for GDP problems involving ordered Boolean variables. The LD-SDA reformulates these ordered Boolean variables into integer decisions called external variables. The LD-SDA solves the reformulated GDP problem using a two-level decomposition approach where the upper-level subproblem determines external variable configurations. Subsequently, the remaining continuous and discrete variables are solved as a subproblem only involving those constraints relevant to the given external variable arrangement, effectively taking advantage of the structure of the GDP problem. The advantages of LD-SDA are illustrated through a batch processing case study, a reactor superstructure, a distillation column, and a catalytic distillation column, and its open-source implementation is available online. The results show convergence efficiency and solution quality improvements compared to conventional GDP and MINLP solvers.</description>
-      <author>Daniel Ovalle, David A. Li&#241;&#225;n, Albert Lee, Jorge M. G&#243;mez, Luis Ricardez&#8211;Sandoval, Ignacio E. Grossmann, David E. Bernal Neira</author>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.48550/arxiv.2405.05358</guid>
-    </item>
     <item>
       <title>Experimental and Theoretical Evaluation of Feed Flow Collar Design for Shell Fed Hollow Fiber Membrane Modules</title>
       <link>https://doi.org/10.2172/2348930</link>
@@ -59,14 +28,24 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108738</guid>
     </item>
     <item>
-      <title>Water Network Tool for Resilience (WNTR)</title>
-      <link>https://doi.org/10.11578/dc.20171025.1707</link>
-      <description>NULL AUTHOR_ID, Darren M. Hart, Katherine A. Klise, Michael Bynum, Carl D. Laird, Arpan Seth, OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information). None(None)] 2019. https://openalex.org/W4396810412
+      <title>Self-organized Patterns in Predator-Prey Droplet Systems</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-15zsd</link>
+      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, No host. None(None)] 2024. https://openalex.org/W4397010234
 
-                No abstract</description>
-      <author>NULL AUTHOR_ID, Darren M. Hart, Katherine A. Klise, Michael Bynum, Carl D. Laird, Arpan Seth</author>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.11578/dc.20171025.1707</guid>
+                Non-equilibrium patterns are widespread in nature and often arise from the self-organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil-in-water droplet mixtures with predator-prey interactions can result in a variety of self-organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self-organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
+      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-15zsd</guid>
+    </item>
+    <item>
+      <title>Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills</title>
+      <link>https://doi.org/10.2172/2349470</link>
+      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4397020614
+
+                This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.</description>
+      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2349470</guid>
     </item>
   </channel>
 </rss>

@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 18 May 2024 01:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 01:10:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Understanding and Controlling the Mizoroki&#8211;Heck Reaction of Cyclic Enones</title>
-      <link>https://doi.org/10.1021/acscatal.4c00854</link>
-      <description>Aishabibi Kassymbek, Francisco Jos&#233; Aguilar Troyano, Victoria Dimakos, Daniel P. Canterbury, S&#233;bastien Monfette, Philipp C. Roosen, Stephen G. Newman, ACS catalysis. None(None)] 2024. https://openalex.org/W4396789234
-
-                No abstract</description>
-      <author>Aishabibi Kassymbek, Francisco Jos&#233; Aguilar Troyano, Victoria Dimakos, Daniel P. Canterbury, S&#233;bastien Monfette, Philipp C. Roosen, Stephen G. Newman</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00854</guid>
-    </item>
-    <item>
-      <title>Single-Site-Level Deciphering of the Complexity of Electrochemical Oxygen Reduction on Fe&#8211;N&#8211;C Catalysts</title>
-      <link>https://doi.org/10.1021/acscatal.4c01640</link>
-      <description>Geunsu Bae, Han Chang Kwon, Man Ho Han, Hyung&#8208;Suk Oh, Fr&#233;d&#233;ric Jaouen, Chang Hyuck Choi, ACS catalysis. None(None)] 2024. https://openalex.org/W4396789824
-
-                Fe&#8211;N&#8211;C catalysts are emerging as potential alternatives to platinum in the oxygen reduction reaction (ORR) for fuel cell cathodes. The challenge in optimizing these catalysts lies in their structural complexity and the multiplicity of reaction pathways. Here, we employ a series of model catalysts with varying amounts of Fe&#8211;Nx and Fe nanoparticles (NPs) and estimate their turnover frequency (TOF) for apparent H2O and H2O2 production at different catalyst loadings. This approach highlights the importance of the surface site density (SD) of Fe&#8211;Nx moieties in determining the overall ORR activity, selectivity, and even stability. We uncover that increasing the SD of Fe&#8211;Nx moieties fosters the indirect 4e&#8211; ORR pathway and consequently promotes their TOF toward preferential H2O production. In contrast, Fe NPs, often formed at high Fe contents, behave as anticatalysts (or spectators) in this context. Indeed, an online inductively coupled plasma-mass spectrometry (ICP-MS) study reveals that a higher SD can lead to the faster leaching of Fe&#8211;Nx moieties during operation, resulting in accelerated activity decline. Taken together, the comprehensive understanding of the intricate dependence of catalytic activity and stability on the nature and amount of Fe species provides a basis for design principles of next-generation Fe&#8211;N&#8211;C catalysts.</description>
-      <author>Geunsu Bae, Han Chang Kwon, Man Ho Han, Hyung&#8208;Suk Oh, Fr&#233;d&#233;ric Jaouen, Chang Hyuck Choi</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01640</guid>
-    </item>
-    <item>
-      <title>Axially Chiral Bridged Biaryls by Ni-Catalyzed Kinetic Asymmetric C&#8211;O Bond Cleavage</title>
-      <link>https://doi.org/10.1021/acscatal.4c02092</link>
-      <description>Yijun Fang, Jingjing Hu, Tingting Sun, Yu Zhou, Gen Luo, Zhi&#8208;Chao Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396795922
-
-                No abstract</description>
-      <author>Yijun Fang, Jingjing Hu, Tingting Sun, Yu Zhou, Gen Luo, Zhi&#8208;Chao Cao</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02092</guid>
-    </item>
-    <item>
-      <title>Electrochemical Enantioselective C&#8211;H Annulation by Achiral Rhodium(III)/Chiral Br&#248;nsted Base Domino Catalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c01886</link>
-      <description>Yanjun Li, Jiawei Xu, Jo&#227;o C. A. Oliveira, Alexej Scheremetjew, Lutz Ackermann, ACS catalysis. None(None)] 2024. https://openalex.org/W4396800102
-
-                No abstract</description>
-      <author>Yanjun Li, Jiawei Xu, Jo&#227;o C. A. Oliveira, Alexej Scheremetjew, Lutz Ackermann</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01886</guid>
-    </item>
-    <item>
-      <title>Pyrazino[2,3-&lt;i&gt;f&lt;/i&gt;][1,10]phenanthroline Derivatives as Robust Photocatalysts Enabling ppm-Level Organocatalyzed Photoinduced Electron/Energy Transfer Reversible Addition&#8211;Fragmentation Chain Transfer Polymerization</title>
-      <link>https://doi.org/10.1021/acscatal.4c01286</link>
-      <description>Weiguo Hu, Jing Gao, Bingfeng Shi, Zhinan Xia, Yang Xiao, Yun Geng, Changli L&#252;, ACS catalysis. None(None)] 2024. https://openalex.org/W4396803695
-
-                No abstract</description>
-      <author>Weiguo Hu, Jing Gao, Bingfeng Shi, Zhinan Xia, Yang Xiao, Yun Geng, Changli L&#252;</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01286</guid>
-    </item>
-    <item>
-      <title>Reprogramming the Microenvironment of Cobalt Phthalocyanine by a Targeted Multifunctional &#960;-Conjugated Modulator Enables Concerted CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c00802</link>
-      <description>Z. Wang, Jing Yang, Zichen Song, Meiting Lu, Wenqian Wang, Zhiyu Ren, Zhimin Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4396805297
-
-                No abstract</description>
-      <author>Z. Wang, Jing Yang, Zichen Song, Meiting Lu, Wenqian Wang, Zhiyu Ren, Zhimin Chen</author>
-      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00802</guid>
-    </item>
     <item>
       <title>Deactivation and Reductive Regeneration of Sn-Beta for Liquid-Phase Biomass Conversion</title>
       <link>https://doi.org/10.1021/acscatal.4c01976</link>
@@ -336,6 +276,96 @@
       <author>Linn&#233;a Strandberg, Victor Shokhen, Magnus Skoglundh, Bj&#246;rn Wickman</author>
       <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00417</guid>
+    </item>
+    <item>
+      <title>Catalytic Cycle of Type II 4&#8242;-Phosphopantetheinyl Transferases</title>
+      <link>https://doi.org/10.1021/acscatal.3c06249</link>
+      <description>Sabine Gavalda, Alexandre Faille, Simone Fioccola, Minh Nguyen, Coralie Carivenc, Karine Rottier, Yann Rufin, St&#233;phane Saitta, Georges Czaplicki, Christophe Guilhot, Christian Chalut, Mihaela Brut, Lionel Mourey, J.D. P&#233;delacq, ACS catalysis. None(None)] 2024. https://openalex.org/W4397001924
+
+                No abstract</description>
+      <author>Sabine Gavalda, Alexandre Faille, Simone Fioccola, Minh Nguyen, Coralie Carivenc, Karine Rottier, Yann Rufin, St&#233;phane Saitta, Georges Czaplicki, Christophe Guilhot, Christian Chalut, Mihaela Brut, Lionel Mourey, J.D. P&#233;delacq</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06249</guid>
+    </item>
+    <item>
+      <title>Impact of Carbon Corrosion and Denitrogenation on the Deactivation of Fe&#8211;N&#8211;C Catalysts in Alkaline Media</title>
+      <link>https://doi.org/10.1021/acscatal.4c01219</link>
+      <description>Yu-Ping Ku, Kavita Kumar, Andreas Hutzler, Christian G&#246;tz, Mykhailo Vorokhta, Moulay Tahar Sougrati, Vicent Lloret, Konrad Ehelebe, Karl J. J. Mayrhofer, Simon Thiele, Ivan Khalakhan, Thomas B&#246;hm, Fr&#233;d&#233;ric Jaouen, Ivan Khalakhan, ACS catalysis. None(None)] 2024. https://openalex.org/W4397002376
+
+                No abstract</description>
+      <author>Yu-Ping Ku, Kavita Kumar, Andreas Hutzler, Christian G&#246;tz, Mykhailo Vorokhta, Moulay Tahar Sougrati, Vicent Lloret, Konrad Ehelebe, Karl J. J. Mayrhofer, Simon Thiele, Ivan Khalakhan, Thomas B&#246;hm, Fr&#233;d&#233;ric Jaouen, Ivan Khalakhan</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01219</guid>
+    </item>
+    <item>
+      <title>Revisiting Factors Controlling the Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction to CO and HCOOH on Transition Metals with Grand Canonical Density Functional Theory Calculations</title>
+      <link>https://doi.org/10.1021/acscatal.4c00347</link>
+      <description>Wanghui Zhao, Tao Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4397007370
+
+                No abstract</description>
+      <author>Wanghui Zhao, Tao Wang</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00347</guid>
+    </item>
+    <item>
+      <title>High Selectivity Reactive Carbon Dioxide Capture over Zeolite Dual-Functional Materials</title>
+      <link>https://doi.org/10.1021/acscatal.4c01340</link>
+      <description>James M. Crawford, Mathew J. Rasmussen, W. Wilson McNeary, Sawyer Halingstad, Steven C. Hayden, Nikita S. Dutta, Simon H. Pang, Matthew M. Yung, ACS catalysis. None(None)] 2024. https://openalex.org/W4397007386
+
+                No abstract</description>
+      <author>James M. Crawford, Mathew J. Rasmussen, W. Wilson McNeary, Sawyer Halingstad, Steven C. Hayden, Nikita S. Dutta, Simon H. Pang, Matthew M. Yung</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01340</guid>
+    </item>
+    <item>
+      <title>Issue Publication Information</title>
+      <link>https://doi.org/10.1021/csv014i010_1802932</link>
+      <description>, ACS catalysis. 14(10)] 2024. https://openalex.org/W4397009151
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i010_1802932</guid>
+    </item>
+    <item>
+      <title>Issue Editorial Masthead</title>
+      <link>https://doi.org/10.1021/csv014i010_1802933</link>
+      <description>, ACS catalysis. 14(10)] 2024. https://openalex.org/W4397009268
+
+                No abstract</description>
+      <author/>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/csv014i010_1802933</guid>
+    </item>
+    <item>
+      <title>A Bulky Imidodiphosphorimidate Br&#248;nsted Acid Enables Highly Enantioselective Prins-semipinacol Rearrangements</title>
+      <link>https://doi.org/10.1021/acscatal.4c01494</link>
+      <description>Junshan Lai, Jolene P. Reid, ACS catalysis. None(None)] 2024. https://openalex.org/W4397012225
+
+                No abstract</description>
+      <author>Junshan Lai, Jolene P. Reid</author>
+      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01494</guid>
+    </item>
+    <item>
+      <title>Ligand-Controlled Regioreversed 1,2-Aryl-Aminoalkylation of Alkenes Enabled by Photoredox/Nickel Catalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01312</link>
+      <description>Ye Fu, Songlin Zheng, Yixin Luo, Xiaotian Qi, Weiming Yuan, ACS catalysis. None(None)] 2024. https://openalex.org/W4397021977
+
+                A ligand-controlled regioreversed 1,2-arylalkylation of alkenes via photoredox/nickel dual catalysis is reported. In contrast with previous reports on photoredox/nickel-catalyzed 1,2-alkylarylation reactions that initiate from the Giese addition of an alkyl radical to alkene, this three-component conjugate coupling process occurs through nickel-catalyzed aryl radical addition to alkene, thereby leading to a complementary regioselectivity to conventional 1,2-alkylarylation. An ortho-substituted bipyridyl ligand is the key to tune the regioselectivity, which was found to be dictated by the reactivity of alkene-coordinated LnNi(0) complexes that trigger the formation of aryl radicals via halogen-atom transfer (XAT). This regioreversed transformation allows a concise entry to structurally abundant &#946;-amino acid derivatives, including ORL1-receptor antagonists.</description>
+      <author>Ye Fu, Songlin Zheng, Yixin Luo, Xiaotian Qi, Weiming Yuan</author>
+      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01312</guid>
+    </item>
+    <item>
+      <title>Molecular Insights into the One-Carbon Loss Oxidation of Indole-3-acetic Acid</title>
+      <link>https://doi.org/10.1021/acscatal.4c02178</link>
+      <description>Jing Cheng, Nanxi Wang, Liang Yu, Yu Luo, Ao Liu, Shuo Tang, Jin Xu, Yi Shuang Wang, Jiapeng Zhu, &#1040;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Changlin Tian, Ren Xiang Tan, ACS catalysis. None(None)] 2024. https://openalex.org/W4397022232
+
+                Dye-decolorizing peroxidases (DyPs) represent a unique family of heme peroxidases that exhibit significant biotechnological promise. DyPs resemble classical peroxidases and operate through the peroxidative cycle, but they differ in structure and function and are ubiquitous in bacterial genomes, particularly in gut-associated species. Nonetheless, the metabolic capabilities and physiological roles of DyPs within the intestine remain unexplored. Here, we report the discovery of a Lactobacillus fermentum-derived DyP (LfDyP) with the unexpected property of directly converting indole-3-acetic acid (IAA) into indole-3-aldehyde (IAld) and indole-3-carbinol (I3C). To elucidate the underlying mechanism, protein crystallography, site-directed mutagenesis, electron paramagnetic resonance (EPR), and density functional theory (DFT) calculations were conducted. LfDyP was found to catalyze the one-electron oxidative decarboxylation of IAA to the skatole radical and its resonance via a long-range electron transfer (LRET) mechanism in the presence of O2. This catalysis initiates the IAA catabolic network, which is further formed through the formation of peroxyl radicals, dimerization, and tetraoxide decomposition. In summary, this study demonstrates the (bio)chemical basis for the catabolism of IAA by the intestinal microbiota into multiple indole-based signaling molecules.</description>
+      <author>Jing Cheng, Nanxi Wang, Liang Yu, Yu Luo, Ao Liu, Shuo Tang, Jin Xu, Yi Shuang Wang, Jiapeng Zhu, &#1040;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Changlin Tian, Ren Xiang Tan</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02178</guid>
     </item>
   </channel>
 </rss>
