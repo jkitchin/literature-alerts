@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 19 May 2024 01:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 01:06:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Deactivation and Reductive Regeneration of Sn-Beta for Liquid-Phase Biomass Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.4c01976</link>
-      <description>Juan S. Mart&#237;nez-Esp&#237;n, S&#248;ren Tolborg, Bai Yang, Nicolai K. Andersen, Anna Katerinopoulou, Lars P. Hansen, Ulla Gro Nielsen, Esben Taarning, ACS catalysis. None(None)] 2024. https://openalex.org/W4396830886
-
-                Catalyst stability and deactivation remain significant hurdles, which hinder the realization of many promising chemical processes. This applies especially for biomass conversion over zeolitic materials, where the commonly applied solvothermal conditions adversely affect the stability of the catalysts. For example, tin-doped zeolite Beta, Sn-Beta, is one of the materials often used for a wide range of biomass reactions in the liquid phase. Herein, we present insights into the deactivation of Sn-Beta catalysts and assess different regeneration procedures. We identify tin and silicon leaching, along with tin restructuring into tin(IV) oxide, SnO2, as the primary deactivation mechanisms during the conversion of biobased-derived glycolaldehyde in methanol/water solvents. Concurrently, the spent catalysts have a range of mesopores over a highly ordered and poorly defective zeolitic framework. Furthermore, we highlight the critical impact of reaction medium compositions affecting the leaching of tin and silicon and provide levers to mitigate it (e.g., higher alcohols, low water concentrations). Through the implementation of an oxidation&#8211;reduction&#8211;oxidation regeneration procedure, the catalyst contains twice as high active site concentrations as the use of conventional thermal oxidation. The oxidation&#8211;reduction&#8211;oxidation procedure reverses some of the ongoing deactivation (tin restructuring into SnO2) with the transformation of the otherwise inactive SnO2 into active sites. Together, the generated understanding of Sn-Beta deactivation and the successful application of a superior regeneration method can bring this family of catalysts closer to industrial applications.</description>
-      <author>Juan S. Mart&#237;nez-Esp&#237;n, S&#248;ren Tolborg, Bai Yang, Nicolai K. Andersen, Anna Katerinopoulou, Lars P. Hansen, Ulla Gro Nielsen, Esben Taarning</author>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01976</guid>
-    </item>
-    <item>
-      <title>Molybdenum/ZSM-5 Catalyzes Methane Co-Aromatization with Furan: Unveiling the Mechanism with Solid-State NMR</title>
-      <link>https://doi.org/10.1021/acscatal.4c01827</link>
-      <description>Wei Gao, Guodong Qi, Chao Wang, Qiang Wang, Jiawei Liang, Jun Xu, Feng Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4396835087
-
-                The co-aromatization of methane and organic compounds using metal-modified zeolite catalysts represents a promising approach for the direct conversion of natural gas into valuable aromatics. In this work, we employ solid-state nuclear magnetic resonance (NMR) spectroscopy to systematically examine the reaction mechanism and evaluate the impact of co-feeding furan on methane aromatization over Mo/ZSM-5 zeolite. The results reveal a dual role of furan in promoting methane to aromatics and stabilizing the Mo/ZSM-5 zeolite catalyst in the co-aromatization. It is found that co-feeding a moderate amount of furan enhances methane conversion and boosts the selectivity to benzene, toluene, and xylene (BTX). The 12C/13C isotope switching experiments coupled with 1H and 13C MAS NMR spectroscopy reveal that furan actively participates in the methane aromatization reaction by forming an olefin pool, which promotes methane activation and contributes to the following aromatics formation. Two-dimensional 1H&#8211;95Mo heteronuclear correlation NMR spectroscopy indicates that furan facilitates the activation of Mo oxides into MoOxCy species, which serve as the active sites for methane aromatization. The co-feeding furan also helps to enhance catalyst stability by limiting the agglomeration of Mo and the deposition of coking species.</description>
-      <author>Wei Gao, Guodong Qi, Chao Wang, Qiang Wang, Jiawei Liang, Jun Xu, Feng Deng</author>
-      <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01827</guid>
-    </item>
     <item>
       <title>Insights into Dopant-Mediated Tuning of Silica-Supported Mo Metal Centers for Enhanced Olefin Metathesis</title>
       <link>https://doi.org/10.1021/acscatal.4c01700</link>
@@ -366,6 +346,16 @@
       <author>Jing Cheng, Nanxi Wang, Liang Yu, Yu Luo, Ao Liu, Shuo Tang, Jin Xu, Yi Shuang Wang, Jiapeng Zhu, &#1040;. &#1040;. &#1051;&#1077;&#1073;&#1077;&#1076;&#1077;&#1074;, Changlin Tian, Ren Xiang Tan</author>
       <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02178</guid>
+    </item>
+    <item>
+      <title>Phosphorization-Induced &#8220;Fence Effect&#8221; on the Active Hydrogen Species Migration Enables Tunable CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Selectivity</title>
+      <link>https://doi.org/10.1021/acscatal.4c00742</link>
+      <description>Chunpeng Wu, Jiahui Shen, Xingda An, Zhiyi Wu, Shuairen Qian, Shumin Zhang, Zhiqiang Wang, Bin Song, Yi Cheng, Binhang Yan, Tsun&#8208;Kong Sham, Shun Zhang, Chaoran Li, Kai Feng, Le He, ACS catalysis. None(None)] 2024. https://openalex.org/W4397030606
+
+                No abstract</description>
+      <author>Chunpeng Wu, Jiahui Shen, Xingda An, Zhiyi Wu, Shuairen Qian, Shumin Zhang, Zhiqiang Wang, Bin Song, Yi Cheng, Binhang Yan, Tsun&#8208;Kong Sham, Shun Zhang, Chaoran Li, Kai Feng, Le He</author>
+      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00742</guid>
     </item>
   </channel>
 </rss>

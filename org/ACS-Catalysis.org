@@ -1,52 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun May 19 01:10:17 2024
+Created on Mon May 20 01:06:15 2024
 
-Found 36 results from 2024-05-12 to 2024-05-19
+Found 35 results from 2024-05-13 to 2024-05-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Deactivation and Reductive Regeneration of Sn-Beta for Liquid-Phase Biomass Conversion  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396830886
-:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Desulfurization Technologies for Fuels, Technologies for Biofuel Production from Biomass
-:PUBLICATION_DATE: 2024-05-10
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01976")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396830886"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396830886"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396830886"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396830886 (Open access: False)
-    
-[[https://openalex.org/A5048302550][Juan S. Martínez-Espín]], [[https://openalex.org/A5083542758][Søren Tolborg]], [[https://openalex.org/A5033796137][Bai Yang]], [[https://openalex.org/A5050132760][Nicolai K. Andersen]], [[https://openalex.org/A5057658913][Anna Katerinopoulou]], [[https://openalex.org/A5048452947][Lars P. Hansen]], [[https://openalex.org/A5037743615][Ulla Gro Nielsen]], [[https://openalex.org/A5044885794][Esben Taarning]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01976 
-     
-Catalyst stability and deactivation remain significant hurdles, which hinder the realization of many promising chemical processes. This applies especially for biomass conversion over zeolitic materials, where the commonly applied solvothermal conditions adversely affect the stability of the catalysts. For example, tin-doped zeolite Beta, Sn-Beta, is one of the materials often used for a wide range of biomass reactions in the liquid phase. Herein, we present insights into the deactivation of Sn-Beta catalysts and assess different regeneration procedures. We identify tin and silicon leaching, along with tin restructuring into tin(IV) oxide, SnO2, as the primary deactivation mechanisms during the conversion of biobased-derived glycolaldehyde in methanol/water solvents. Concurrently, the spent catalysts have a range of mesopores over a highly ordered and poorly defective zeolitic framework. Furthermore, we highlight the critical impact of reaction medium compositions affecting the leaching of tin and silicon and provide levers to mitigate it (e.g., higher alcohols, low water concentrations). Through the implementation of an oxidation–reduction–oxidation regeneration procedure, the catalyst contains twice as high active site concentrations as the use of conventional thermal oxidation. The oxidation–reduction–oxidation procedure reverses some of the ongoing deactivation (tin restructuring into SnO2) with the transformation of the otherwise inactive SnO2 into active sites. Together, the generated understanding of Sn-Beta deactivation and the successful application of a superior regeneration method can bring this family of catalysts closer to industrial applications.    
-
-    
-
-* Molybdenum/ZSM-5 Catalyzes Methane Co-Aromatization with Furan: Unveiling the Mechanism with Solid-State NMR  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396835087
-:TOPICS: Zeolite Chemistry and Catalysis, Catalytic Conversion of Biomass to Fuels and Chemicals, Mesoporous Materials
-:PUBLICATION_DATE: 2024-05-11
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01827")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396835087"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396835087"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396835087"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396835087 (Open access: False)
-    
-[[https://openalex.org/A5076648784][Wei Gao]], [[https://openalex.org/A5062222692][Guodong Qi]], [[https://openalex.org/A5055838753][Chao Wang]], [[https://openalex.org/A5030863883][Qiang Wang]], [[https://openalex.org/A5004005455][Jiawei Liang]], [[https://openalex.org/A5016344450][Jun Xu]], [[https://openalex.org/A5055850550][Feng Deng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01827 
-     
-The co-aromatization of methane and organic compounds using metal-modified zeolite catalysts represents a promising approach for the direct conversion of natural gas into valuable aromatics. In this work, we employ solid-state nuclear magnetic resonance (NMR) spectroscopy to systematically examine the reaction mechanism and evaluate the impact of co-feeding furan on methane aromatization over Mo/ZSM-5 zeolite. The results reveal a dual role of furan in promoting methane to aromatics and stabilizing the Mo/ZSM-5 zeolite catalyst in the co-aromatization. It is found that co-feeding a moderate amount of furan enhances methane conversion and boosts the selectivity to benzene, toluene, and xylene (BTX). The 12C/13C isotope switching experiments coupled with 1H and 13C MAS NMR spectroscopy reveal that furan actively participates in the methane aromatization reaction by forming an olefin pool, which promotes methane activation and contributes to the following aromatics formation. Two-dimensional 1H–95Mo heteronuclear correlation NMR spectroscopy indicates that furan facilitates the activation of Mo oxides into MoOxCy species, which serve as the active sites for methane aromatization. The co-feeding furan also helps to enhance catalyst stability by limiting the agglomeration of Mo and the deposition of coking species.    
-
-    
 
 * Insights into Dopant-Mediated Tuning of Silica-Supported Mo Metal Centers for Enhanced Olefin Metathesis  :ACS_Catalysis:
 :PROPERTIES:
@@ -759,5 +717,26 @@ OpenAlex: https://openalex.org/W4397022232 (Open access: False)
 [[https://openalex.org/A5078397516][Jing Cheng]], [[https://openalex.org/A5078600953][Nanxi Wang]], [[https://openalex.org/A5040547872][Liang Yu]], [[https://openalex.org/A5017609294][Yu Luo]], [[https://openalex.org/A5018557213][Ao Liu]], [[https://openalex.org/A5042471205][Shuo Tang]], [[https://openalex.org/A5016952077][Jin Xu]], [[https://openalex.org/A5006839839][Yi Shuang Wang]], [[https://openalex.org/A5050731485][Jiapeng Zhu]], [[https://openalex.org/A5028801665][А. А. Лебедев]], [[https://openalex.org/A5006239480][Changlin Tian]], [[https://openalex.org/A5052763946][Ren Xiang Tan]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02178 
      
 Dye-decolorizing peroxidases (DyPs) represent a unique family of heme peroxidases that exhibit significant biotechnological promise. DyPs resemble classical peroxidases and operate through the peroxidative cycle, but they differ in structure and function and are ubiquitous in bacterial genomes, particularly in gut-associated species. Nonetheless, the metabolic capabilities and physiological roles of DyPs within the intestine remain unexplored. Here, we report the discovery of a Lactobacillus fermentum-derived DyP (LfDyP) with the unexpected property of directly converting indole-3-acetic acid (IAA) into indole-3-aldehyde (IAld) and indole-3-carbinol (I3C). To elucidate the underlying mechanism, protein crystallography, site-directed mutagenesis, electron paramagnetic resonance (EPR), and density functional theory (DFT) calculations were conducted. LfDyP was found to catalyze the one-electron oxidative decarboxylation of IAA to the skatole radical and its resonance via a long-range electron transfer (LRET) mechanism in the presence of O2. This catalysis initiates the IAA catabolic network, which is further formed through the formation of peroxyl radicals, dimerization, and tetraoxide decomposition. In summary, this study demonstrates the (bio)chemical basis for the catabolism of IAA by the intestinal microbiota into multiple indole-based signaling molecules.    
+
+    
+
+* Phosphorization-Induced “Fence Effect” on the Active Hydrogen Species Migration Enables Tunable CO2 Hydrogenation Selectivity  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397030606
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Materials and Methods for Hydrogen Storage, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-05-17
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00742")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397030606"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397030606"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397030606"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397030606 (Open access: False)
+    
+[[https://openalex.org/A5048629905][Chunpeng Wu]], [[https://openalex.org/A5056408850][Jiahui Shen]], [[https://openalex.org/A5038244618][Xingda An]], [[https://openalex.org/A5004342383][Zhiyi Wu]], [[https://openalex.org/A5043570145][Shuairen Qian]], [[https://openalex.org/A5040303259][Shumin Zhang]], [[https://openalex.org/A5022938018][Zhiqiang Wang]], [[https://openalex.org/A5070736389][Bin Song]], [[https://openalex.org/A5057638808][Yi Cheng]], [[https://openalex.org/A5047133857][Binhang Yan]], [[https://openalex.org/A5036700518][Tsun‐Kong Sham]], [[https://openalex.org/A5060613485][Shun Zhang]], [[https://openalex.org/A5075446655][Chaoran Li]], [[https://openalex.org/A5033303258][Kai Feng]], [[https://openalex.org/A5057537114][Le He]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00742 
+     
+No abstract    
 
     
