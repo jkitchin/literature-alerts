@@ -30,7 +30,9 @@ def get_org_item(topic, result):
     topics = ', '.join([topic['display_name'] for topic
                         in result['topics']])
 
+    # remove line breaks
     title = result['title'].replace(r'\n', ' ')
+    title = title.replace(r'\r', ' ')
     return f'''* {html_to_text(title)}  :{tags}:
 :PROPERTIES:
 :UUID: {result['id']}
