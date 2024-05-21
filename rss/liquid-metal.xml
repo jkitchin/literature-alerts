@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2024 01:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 18:27:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -26,16 +26,6 @@
       <author>Aaron T. Ohta, Michael D. Bartlett, Michael D. Dickey, Kourosh Kalantar&#8208;Zadeh</author>
       <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/admt.202400500</guid>
-    </item>
-    <item>
-      <title>Surface&#8208;Enriched Room&#8208;Temperature Liquid Bismuth for Catalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1002/smll.202401777</link>
-      <description>Jing&#8208;Dong Guo, Zhi Xing, Dingqi Wang, Longbing Qu, Ali Zavabeti, Qining Fan, Yuecheng Zhang, Joshua D. Butson, Jianing Yang, Chao Wu, Jefferson Zhe Liu, Masood S. Alivand, Xiaolei Fan, Gang Kevin Li, Small. None(None)] 2024. https://openalex.org/W4396932166
-
-                Abstract Bismuth&#8208;based electrocatalysts are effective for carbon dioxide (CO 2 ) reduction to formate. However, at room temperature, these materials are only available in solid state, which inevitably suffers from surface deactivation, declining current densities, and Faradaic efficiencies. Here, the formation of a liquid bismuth catalyst on the liquid gallium surface at ambient conditions is shown as its exceptional performance in the electrochemical reduction of CO 2 (i.e., CO 2 RR). By doping a trace amount of bismuth (740 ppm atomic) in gallium liquid metal, a surface enrichment of bismuth by over 400 times (30 at%) in liquid state is obtained without atomic aggregation, achieving 98% Faradic efficiency for CO 2 conversion to formate over 80 h. Ab initio molecular simulations and density functional theory calculations reveal that bismuth atoms in the liquid state are the most energetically favorable sites for the CO 2 RR intermediates, superior to solid Bi&#8208;sites, as well as joint GaBi&#8208;sites. This study opens an avenue for fabricating high&#8208;performing liquid&#8208;state metallic catalysts that cannot be reached by elementary metals under electrocatalytic conditions.</description>
-      <author>Jing&#8208;Dong Guo, Zhi Xing, Dingqi Wang, Longbing Qu, Ali Zavabeti, Qining Fan, Yuecheng Zhang, Joshua D. Butson, Jianing Yang, Chao Wu, Jefferson Zhe Liu, Masood S. Alivand, Xiaolei Fan, Gang Kevin Li</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202401777</guid>
     </item>
     <item>
       <title>Mechanical Integrity and Reinforcement Efficiency of Graphene Grown on Liquid Copper by Chemical Vapor Deposition</title>

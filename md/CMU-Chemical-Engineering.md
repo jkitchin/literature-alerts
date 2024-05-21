@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue May 21 01:05:41 2024
+Created on Tue May 21 18:28:04 2024
 
-Found 14 results from 2024-05-14 to 2024-05-21
+Found 24 results from 2024-05-14 to 2024-05-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -105,6 +105,17 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
     
 
+## CCDC 1498362: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397414928    
+Open access: True
+    
+[Ellen E. Berry](https://openalex.org/A5061983079), [Gabriel Gomes](https://openalex.org/A5048633127), [Alex MacLean](https://openalex.org/A5075333383), [Justin R. Martin](https://openalex.org/A5091335804), [Paul A. Wiget](https://openalex.org/A5035076738), The Cambridge Structural Database. None(None)] 2016.https://doi.org/10.5517/ccdc.csd.cc1m958c.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
 ## CCDC 1498591: Experimental Crystal Structure Determination   
 
 OpenAlex: https://openalex.org/W4397438581    
@@ -138,6 +149,50 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
     
 
+## CCDC 1499579: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397439923    
+Open access: True
+    
+[Gabriel Gomes](https://openalex.org/A5048633127), [Ivan A. Yaremenko](https://openalex.org/A5051601607), [Peter S. Radulov](https://openalex.org/A5082572698), [Роман А. Новиков](https://openalex.org/A5038826613), [Владимир В. Чернышев](https://openalex.org/A5038619446), [Alexander A. Korlyukov](https://openalex.org/A5056067121), [G. I. Nikishin](https://openalex.org/A5029681803), [Igor V. Alabugin](https://openalex.org/A5041763415), [Alexander O. Terent’ev](https://openalex.org/A5011872408), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1mbfjx.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1561092: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397494117    
+Open access: True
+    
+[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Suliman Ayad](https://openalex.org/A5046826098), [Ronald J. Clark](https://openalex.org/A5018225281), [Vladislav V. Lobodin](https://openalex.org/A5077211524), [Megan Tuscan](https://openalex.org/A5035682200), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1pdftb.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1561088: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397510025    
+Open access: True
+    
+[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Suliman Ayad](https://openalex.org/A5046826098), [Ronald J. Clark](https://openalex.org/A5018225281), [Vladislav V. Lobodin](https://openalex.org/A5077211524), [Megan Tuscan](https://openalex.org/A5035682200), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1pdfp6.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1561089: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397538196    
+Open access: True
+    
+[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Suliman Ayad](https://openalex.org/A5046826098), [Ronald J. Clark](https://openalex.org/A5018225281), [Vladislav V. Lobodin](https://openalex.org/A5077211524), [Megan Tuscan](https://openalex.org/A5035682200), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1pdfq7.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
 ## CCDC 1586928: Experimental Crystal Structure Determination   
 
 OpenAlex: https://openalex.org/W4397309570    
@@ -157,5 +212,60 @@ Open access: True
 [Nikolay P. Tsvetkov](https://openalex.org/A5032901261), [Edgar González-Rodríguez](https://openalex.org/A5035197686), [Audrey Hughes](https://openalex.org/A5046372591), [Gabriel Gomes](https://openalex.org/A5048633127), [Frankie D. White](https://openalex.org/A5072638711), [Febin Kuriakose](https://openalex.org/A5065409241), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1qbwqn.
     
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1815296: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397338147    
+Open access: True
+    
+[Ivan A. Yaremenko](https://openalex.org/A5051601607), [Gabriel Gomes](https://openalex.org/A5048633127), [Peter S. Radulov](https://openalex.org/A5082572698), [Yulia Yu. Belyakova](https://openalex.org/A5013092004), [Anatoliy E. Vilikotskiy](https://openalex.org/A5070538942), [Vera A. Vil’](https://openalex.org/A5019098305), [Alexander A. Korlyukov](https://openalex.org/A5056067121), [G. I. Nikishin](https://openalex.org/A5029681803), [Igor V. Alabugin](https://openalex.org/A5041763415), [Alexander O. Terent’ev](https://openalex.org/A5071254649), The Cambridge Structural Database. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1yxyyr.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1586927: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397478300    
+Open access: True
+    
+[Vera A. Vil’](https://openalex.org/A5019098305), [Gabriel Gomes](https://openalex.org/A5048633127), [Oleg V. Bityukov](https://openalex.org/A5054516792), [Konstantin А. Lyssenko](https://openalex.org/A5012756209), [G. I. Nikishin](https://openalex.org/A5029681803), [Igor V. Alabugin](https://openalex.org/A5041763415), [Alexander O. Terent’ev](https://openalex.org/A5071254649), The Cambridge Structural Database. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1q8b6j.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1589391: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397491972    
+Open access: True
+    
+[Nikolay P. Tsvetkov](https://openalex.org/A5032901261), [Edgar González-Rodríguez](https://openalex.org/A5035197686), [Audrey Hughes](https://openalex.org/A5046372591), [Gabriel Gomes](https://openalex.org/A5048633127), [Frankie D. White](https://openalex.org/A5072638711), [Febin Kuriakose](https://openalex.org/A5065409241), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1qbwpm.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1589393: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397526044    
+Open access: True
+    
+[Nikolay P. Tsvetkov](https://openalex.org/A5032901261), [Edgar González-Rodríguez](https://openalex.org/A5035197686), [Audrey Hughes](https://openalex.org/A5046372591), [Gabriel Gomes](https://openalex.org/A5048633127), [Frankie D. White](https://openalex.org/A5072638711), [Febin Kuriakose](https://openalex.org/A5065409241), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1qbwrp.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1906780: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397827307    
+Open access: True
+    
+[Robert E. Lee](https://openalex.org/A5024276528), [Bryan S. Bashrum](https://openalex.org/A5052935428), [Ethan C. Cagle](https://openalex.org/A5083837065), [Jillian Walters](https://openalex.org/A5045293392), [Jake Massey](https://openalex.org/A5066464537), [Monica Zanghi](https://openalex.org/A5038824830), [Carolyn Birchfield](https://openalex.org/A5069655595), [David N. French](https://openalex.org/A5060819177), [Jessica Joy](https://openalex.org/A5066141462), [Gabriel Gomes](https://openalex.org/A5048633127), [Paul A. Wiget](https://openalex.org/A5035076738), The Cambridge Structural Database. None(None)] 2019.https://doi.org/10.5517/ccdc.csd.cc22051b.
+    
+No abstract    
 
     

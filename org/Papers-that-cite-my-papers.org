@@ -1,6 +1,6 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Tue May 21 01:05:49 2024
+Created on Tue May 21 18:28:15 2024
 
 Found 57 results from 2024-05-14 to 2024-05-21
 OpenAlex URLS (not including from_created_date or the API key)
@@ -101,7 +101,7 @@ Abstract Solid‐state dewetting is the heat‐induced agglomeration of thin met
 * Phase segregation and nanoconfined fluid O2 in a lithium-rich oxide cathode  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4396862249
-:TOPICS: Lithium-ion Battery Technology, Advanced Materials for Smart Windows, Lithium-ion Battery Management in Electric Vehicles
+:TOPICS: Lithium-ion Battery Technology, Lithium Battery Technologies, Materials for Electrochemical Supercapacitors
 :PUBLICATION_DATE: 2024-05-13
 :END:    
     
@@ -164,7 +164,7 @@ Abstract Evaporation‐driven electricity generators have been proposed to gener
 * Atomically dispersed asymmetric cobalt electrocatalyst for efficient hydrogen peroxide production in neutral media  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4396887199
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Photocatalytic Materials for Solar Energy Conversion
 :PUBLICATION_DATE: 2024-05-14
 :END:    
     
@@ -367,7 +367,7 @@ OpenAlex: https://openalex.org/W4396914550 (Open access: True)
     
 [[https://openalex.org/A5077693331][Tigany Zarrouk]], [[https://openalex.org/A5001374682][R. I. Ibragimova]], [[https://openalex.org/A5071518647][Albert P. Bartók]], [[https://openalex.org/A5044182171][A. Miguel]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c01897  ([[https://pubs.acs.org/doi/pdf/10.1021/jacs.4c01897][pdf]])
      
-No abstract    
+An important yet challenging aspect of atomistic materials modeling is reconciling experimental and computational results. Conventional approaches involve generating numerous configurations through molecular dynamics or Monte Carlo structure optimization and selecting the one with the closest match to experiment. However, this inefficient process is not guaranteed to succeed. We introduce a general method to combine atomistic machine learning (ML) with experimental observables that produces atomistic structures compatible with experiment by design. We use this approach in combination with grand-canonical Monte Carlo within a modified Hamiltonian formalism, to generate configurations that agree with experimental data and are chemically sound (low in energy). We apply our approach to understand the atomistic structure of oxygenated amorphous carbon (a-COx), an intriguing carbon-based material, to answer the question of how much oxygen can be added to carbon before it fully decomposes into CO and CO2. Utilizing an ML-based X-ray photoelectron spectroscopy (XPS) model trained from GW and density functional theory (DFT) data, in conjunction with an ML interatomic potential, we identify a-COx structures compliant with experimental XPS predictions that are also energetically favorable with respect to DFT. Employing a network analysis, we accurately deconvolve the XPS spectrum into motif contributions, both revealing the inaccuracies inherent to experimental XPS interpretation and granting us atomistic insight into the structure of a-COx. This method generalizes to multiple experimental observables and allows for the elucidation of the atomistic structure of materials directly from experimental data, thereby enabling experiment-driven materials modeling with a degree of realism previously out of reach.    
 
     
 
@@ -577,7 +577,7 @@ OpenAlex: https://openalex.org/W4396932166 (Open access: True)
     
 [[https://openalex.org/A5034491292][Jing‐Dong Guo]], [[https://openalex.org/A5090095249][Zhi Xing]], [[https://openalex.org/A5069697642][Dingqi Wang]], [[https://openalex.org/A5034125202][Longbing Qu]], [[https://openalex.org/A5048975250][Ali Zavabeti]], [[https://openalex.org/A5016509595][Qining Fan]], [[https://openalex.org/A5004500886][Yuecheng Zhang]], [[https://openalex.org/A5047793151][Joshua D. Butson]], [[https://openalex.org/A5000705290][Jianing Yang]], [[https://openalex.org/A5025243010][Chao Wu]], [[https://openalex.org/A5023896908][Jefferson Zhe Liu]], [[https://openalex.org/A5010731144][Masood S. Alivand]], [[https://openalex.org/A5063556653][Xiaolei Fan]], [[https://openalex.org/A5055340435][Gang Kevin Li]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202401777  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202401777][pdf]])
      
-Abstract Bismuth‐based electrocatalysts are effective for carbon dioxide (CO 2 ) reduction to formate. However, at room temperature, these materials are only available in solid state, which inevitably suffers from surface deactivation, declining current densities, and Faradaic efficiencies. Here, the formation of a liquid bismuth catalyst on the liquid gallium surface at ambient conditions is shown as its exceptional performance in the electrochemical reduction of CO 2 (i.e., CO 2 RR). By doping a trace amount of bismuth (740 ppm atomic) in gallium liquid metal, a surface enrichment of bismuth by over 400 times (30 at%) in liquid state is obtained without atomic aggregation, achieving 98% Faradic efficiency for CO 2 conversion to formate over 80 h. Ab initio molecular simulations and density functional theory calculations reveal that bismuth atoms in the liquid state are the most energetically favorable sites for the CO 2 RR intermediates, superior to solid Bi‐sites, as well as joint GaBi‐sites. This study opens an avenue for fabricating high‐performing liquid‐state metallic catalysts that cannot be reached by elementary metals under electrocatalytic conditions.    
+Bismuth-based electrocatalysts are effective for carbon dioxide (CO    
 
     
 
@@ -661,7 +661,7 @@ OpenAlex: https://openalex.org/W4396944351 (Open access: True)
     
 [[https://openalex.org/A5030463916][Yongli Luo]], [[https://openalex.org/A5005681875][Yulong Zhang]], [[https://openalex.org/A5035954725][Jiayi Zhu]], [[https://openalex.org/A5069623467][Tian Xia]], [[https://openalex.org/A5032435085][Gang Liu]], [[https://openalex.org/A5041069643][Zhiming Feng]], [[https://openalex.org/A5086432807][Liwen Pan]], [[https://openalex.org/A5071054959][Xinhua Liu]], [[https://openalex.org/A5075943848][Ning Han]], [[https://openalex.org/A5001895562][Ruiqin Tan]], Small methods. None(None)] 2024. https://doi.org/10.1002/smtd.202400158 
      
-Abstract Water electrolysis, a key enabler of hydrogen energy production, presents significant potential as a strategy for achieving net‐zero emissions. However, the widespread deployment of water electrolysis is currently limited by the high‐cost and scarce noble metal electrocatalysts in hydrogen evolution reaction (HER). Given this challenge, design and synthesis of cost‐effective and high‐performance alternative catalysts have become a research focus, which necessitates insightful understandings of HER fundamentals and material engineering strategies. Distinct from typical reviews that concentrate only on the summary of recent catalyst materials, this review article shifts focus to material engineering strategies for developing efficient HER catalysts. In‐depth analysis of key material design approaches for HER catalysts, such as doping, vacancy defect creation, phase engineering, and metal‐support engineering, are illustrated along with typical research cases. A special emphasis is placed on designing noble metal‐free catalysts with a brief discussion on recent advancements in electrocatalytic water‐splitting technology. The article also delves into important descriptors, reliable evaluation parameters and characterization techniques, aiming to link the fundamental mechanisms of HER with its catalytic performance. In conclusion, it explores future trends in HER catalysts by integrating theoretical, experimental and industrial perspectives, while acknowledging the challenges that remain.    
+Water electrolysis, a key enabler of hydrogen energy production, presents significant potential as a strategy for achieving net-zero emissions. However, the widespread deployment of water electrolysis is currently limited by the high-cost and scarce noble metal electrocatalysts in hydrogen evolution reaction (HER). Given this challenge, design and synthesis of cost-effective and high-performance alternative catalysts have become a research focus, which necessitates insightful understandings of HER fundamentals and material engineering strategies. Distinct from typical reviews that concentrate only on the summary of recent catalyst materials, this review article shifts focus to material engineering strategies for developing efficient HER catalysts. In-depth analysis of key material design approaches for HER catalysts, such as doping, vacancy defect creation, phase engineering, and metal-support engineering, are illustrated along with typical research cases. A special emphasis is placed on designing noble metal-free catalysts with a brief discussion on recent advancements in electrocatalytic water-splitting technology. The article also delves into important descriptors, reliable evaluation parameters and characterization techniques, aiming to link the fundamental mechanisms of HER with its catalytic performance. In conclusion, it explores future trends in HER catalysts by integrating theoretical, experimental and industrial perspectives, while acknowledging the challenges that remain.    
 
     
 
@@ -752,7 +752,7 @@ Abstract The low‐energy electrochemical production of hydrogen peroxide (H 2 O
 * Leveraging Limited Experimental Data with Machine Learning: Differentiating a Methyl from an Ethyl Group in the Corey–Bakshi–Shibata Reduction  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4396976914
-:TOPICS: Chiroptical Spectroscopy in Organic Compound Analysis, Applications of Photoredox Catalysis in Organic Synthesis, Atroposelective Synthesis of Axially Chiral Compounds
+:TOPICS: Accelerating Materials Innovation through Informatics, Homogeneous Catalysis with Transition Metals, Engineering of Surface Nanostructures
 :PUBLICATION_DATE: 2024-05-16
 :END:    
     
@@ -836,7 +836,7 @@ The surfaces of colloidal nanocrystals are frequently passivated with carboxylat
 * A reactive neural network framework for water-loaded acidic zeolites  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4396999021
-:TOPICS: Zeolite Chemistry and Catalysis, Accelerating Materials Innovation through Informatics, Desulfurization Technologies for Fuels
+:TOPICS: Accelerating Materials Innovation through Informatics, Zeolite Chemistry and Catalysis, Electrocatalysis for Energy Conversion
 :PUBLICATION_DATE: 2024-05-17
 :END:    
     
@@ -932,7 +932,7 @@ No abstract
 
 OpenAlex: https://openalex.org/W4397007621 (Open access: True)
     
-[[https://openalex.org/A5097027430][Pham D. Trung]], [[https://openalex.org/A5014591962][Hien D. Tong]], RSC advances. 14(23)] 2024. https://doi.org/10.1039/d4ra00949e 
+[[https://openalex.org/A5097027430][Pham D. Trung]], [[https://openalex.org/A5014591962][Hien D. Tong]], RSC advances. 14(23)] 2024. https://doi.org/10.1039/d4ra00949e  ([[https://pubs.rsc.org/en/content/articlepdf/2024/ra/d4ra00949e][pdf]])
      
 The GaGeSe 3 monolayer: a promising 2D material for photocatalysts and electronics with high solar-to-hydrogen conversion efficiency and electron mobility.    
 
@@ -983,7 +983,7 @@ Abstract As a sustainable energy technology, electrocatalytic energy conversion 
 * Eggshell‐Like Carbon Microspheres with Curvature Scheme: Distorted Energy Band and Atomic Charge Waves‐Driven High Performance for Zinc–Air Battery  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397013926
-:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Materials for Electrochemical Supercapacitors
+:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Lithium-ion Battery Technology
 :PUBLICATION_DATE: 2024-05-16
 :END:    
     
@@ -1109,7 +1109,7 @@ No abstract
 * Atomically dispersed Iridium on Mo2C as an efficient and stable alkaline hydrogen oxidation reaction catalyst  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397033739
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Ammonia Synthesis and Electrocatalysis
+:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes)
 :PUBLICATION_DATE: 2024-05-18
 :END:    
     
