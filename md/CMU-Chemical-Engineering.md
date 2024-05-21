@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Mon May 20 01:06:16 2024
+Created on Tue May 21 01:05:41 2024
 
-Found 4 results from 2024-05-13 to 2024-05-20
+Found 14 results from 2024-05-14 to 2024-05-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -47,5 +47,115 @@ Open access: False
 [Lingxiang Zhu](https://openalex.org/A5002137675), [Thien Tran](https://openalex.org/A5037749425), [Fangming Xiang](https://openalex.org/A5076767088), [Victor A. Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor A. Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2349470.
     
 This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.    
+
+    
+
+## CCDC 1015545: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397063541    
+Open access: True
+    
+[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc132rjg.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1013214: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397105919    
+Open access: True
+    
+[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130bbs.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1013212: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397108799    
+Open access: True
+    
+[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130b8q.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1059113: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397182666    
+Open access: True
+    
+[Kamalkishore Pati](https://openalex.org/A5008678455), [Christopher Michas](https://openalex.org/A5016011694), [David Allenger](https://openalex.org/A5013398806), [Ilya Piskun](https://openalex.org/A5078568778), [Peter S. Coutros](https://openalex.org/A5055733181), [Gabriel Gomes](https://openalex.org/A5048633127), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc14k2yq.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1013215: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397214700    
+Open access: True
+    
+[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130bct.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1498591: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397438581    
+Open access: True
+    
+[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Ronald J. Clark](https://openalex.org/A5018225281), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2016.https://doi.org/10.5517/ccdc.csd.cc1m9dnz.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1503346: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397308426    
+Open access: True
+    
+[Satoshi Umezu](https://openalex.org/A5013057900), [Gabriel Gomes](https://openalex.org/A5048633127), [Tatsuro Yoshinaga](https://openalex.org/A5036825839), [Mikei Sakae](https://openalex.org/A5043506371), [Kenji Matsumoto](https://openalex.org/A5031604859), [Takayuki Iwata](https://openalex.org/A5026759155), [Igor V. Alabugin](https://openalex.org/A5041763415), [Mitsuru Shindo](https://openalex.org/A5030998923), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1mgc1h.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1561093: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397334097    
+Open access: True
+    
+[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Suliman Ayad](https://openalex.org/A5046826098), [Ronald J. Clark](https://openalex.org/A5018225281), [Vladislav V. Lobodin](https://openalex.org/A5077211524), [Megan Tuscan](https://openalex.org/A5035682200), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1pdfvc.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1586928: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397309570    
+Open access: True
+    
+[Vera A. Vil’](https://openalex.org/A5019098305), [Gabriel Gomes](https://openalex.org/A5048633127), [Oleg V. Bityukov](https://openalex.org/A5054516792), [Konstantin А. Lyssenko](https://openalex.org/A5012756209), [G. I. Nikishin](https://openalex.org/A5029681803), [Igor V. Alabugin](https://openalex.org/A5041763415), [Alexander O. Terent’ev](https://openalex.org/A5071254649), No host. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1q8b7k.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+## CCDC 1589392: Experimental Crystal Structure Determination   
+
+OpenAlex: https://openalex.org/W4397328850    
+Open access: True
+    
+[Nikolay P. Tsvetkov](https://openalex.org/A5032901261), [Edgar González-Rodríguez](https://openalex.org/A5035197686), [Audrey Hughes](https://openalex.org/A5046372591), [Gabriel Gomes](https://openalex.org/A5048633127), [Frankie D. White](https://openalex.org/A5072638711), [Febin Kuriakose](https://openalex.org/A5065409241), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1qbwqn.
+    
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
     

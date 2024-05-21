@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon May 20 01:06:12 2024
+Created on Tue May 21 01:05:38 2024
 
-Found 166 results from 2024-05-13 to 2024-05-20
+Found 166 results from 2024-05-14 to 2024-05-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -70,6 +70,17 @@ Open access: True
 [Jianfang Zhang](https://openalex.org/A5030687054), [Shuai Xia](https://openalex.org/A5071443629), [Wei Yan](https://openalex.org/A5002874989), [Jingjie Wu](https://openalex.org/A5071139658), [Yucheng Wu](https://openalex.org/A5000234334), iScience. None(None)] 2024.https://doi.org/10.1016/j.isci.2024.110005.
     
 No abstract    
+
+    
+
+## Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study   
+
+OpenAlex: https://openalex.org/W4397289374    
+Open access: False
+    
+[Wenjing Zhou](https://openalex.org/A5006879069), [Xuxin Kang](https://openalex.org/A5054752343), [Shan Gao](https://openalex.org/A5040133039), [Xiangmei Duan](https://openalex.org/A5000121893), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160299.
+    
+Single-cluster catalysts (SCCs) have emerged as highly efficient catalysts for the CO2 reduction reaction (CO2RR), providing a promising avenue to solve the carbon dilemma. Based on density functional theory calculations, we systematically investigated the capability of 12 tetra-atom transitional-metal clusters anchored on g-CN (TM4@g-CN) for CO2RR and found that all clusters have good stability on the substrate. Notably, the charge variation of the top metal atom (TM4) of six SCCs is close to zero which makes them readily donate electrons to the adsorbate CO2 and subsequent reaction intermediates. Our results demonstrate that CO2 can be efficiently reduced to HCOOH on Ni4, Cu4, and Au4@g-CN with low limiting potentials of −0.21, −0.22, and −0.19 V, respectively, outperforming the corresponding single-atom counterparts. Both ΔG(∗CO2) and ΔG(∗OCHO/∗COOH) exhibit a volcano relationship with the reaction activity, and the TM4 serves as electron reservoirs throughout the entire reaction process. This work offers valuable insights for the advancement of cost-effective supported single cluster catalysts.    
 
     
 
@@ -183,6 +194,17 @@ No abstract
 
     
 
+## Pre-Reduction of Nchwaning Manganese Ore in Co/Co2, H2/H2o, and H2 Atmospheres   
+
+OpenAlex: https://openalex.org/W4397294283    
+Open access: False
+    
+[M. Ernst](https://openalex.org/A5066807971), [Merete Tangstad](https://openalex.org/A5086748509), [S.P. du Preez](https://openalex.org/A5071118055), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4833309.
+    
+Hydrogen (H2), a relatively underexplored reductant in ferromanganese (FeMn) production, offers an attractive avenue for mitigating gaseous carbon (C) emissions. The reduction behaviour of South African Nchwaning manganese (Mn) ore using gaseous CO/CO2, H2/H2O, and H2 atmospheres was investigated experimentally in the temperature variation of 700, 800, and 900 °C. The effect of different gas compositions and temperatures was studied using a vertical thermogravimetric (TG) tube furnace. During pre-reduction, two parallel reactions occurred, namely the reduction of higher Mn- and iron (Fe) -oxides, and the decomposition of carbonates. After each test, decrepitation, chemical composition, phase transformation, and porosity were characterised. Using the rate of mass loss, a kinetic model was obtained to predict kinetic constants. The oxidation state of the higher Mn- and Fe-oxides was lowered during CO/CO2 and H2/H2O pre-reduction. Only during pure H2 pre-reduction was Fe2+ reduced to its metallic state, Fe0. The majority of carbonates decomposed in the presence of the CO/CO2 atmosphere at 900 °C, whereas in the presence of H2 in the reducing atmosphere carbonates decomposed at a higher rate and at lower temperatures. Additionally, the extent and rate of mass loss were expedited by increasing the temperature, employing H2-containing atmospheres, and lowering the oxygen partial pressure (pO2) of the H2-containing atmospheres. No significant trends were observed in ore decrepitation and porosity across various atmospheres and temperatures, except for decrepitation in the water vapour-containing atmosphere. The utilisation of a pure H2 atmosphere has a significant ability for pre-reducing manganese ores with carbonate content by expediting carbonate decomposition and promoting Fe-oxide metallisation, thereby enhancing the efficiency of ore treatment in metallurgical applications.    
+
+    
+
 ## Operational Strategies of Pulsed Electrolysis to Enhance Multi-Carbon Product Formation in Electrocatalytic CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4396955696    
@@ -210,7 +232,7 @@ Photobiocatalytic CO2 reduction represents an attractive approach for conversion
 OpenAlex: https://openalex.org/W4396904917    
 Open access: False
     
-[Jakob Ruickoldt](https://openalex.org/A5065210893), [Jae‐Hun Jeoung](https://openalex.org/A5090642820), [Maik Alexander Rudolph](https://openalex.org/A5000522970), [Frank Lennartz](https://openalex.org/A5004944124), [Julian Kreibich](https://openalex.org/A5098163072), [Reinhard Schomäcker](https://openalex.org/A5065804335), [Holger Dobbek](https://openalex.org/A5065788847), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202405120.
+[Jakob Ruickoldt](https://openalex.org/A5065210893), [Jae‐Hun Jeoung](https://openalex.org/A5090642820), [Maik Alexander Rudolph](https://openalex.org/A5000522970), [Frank Lennartz](https://openalex.org/A5004944124), [Julian Kreibich](https://openalex.org/A5098163072), [Reinhard Schömacker](https://openalex.org/A5065804335), [Holger Dobbek](https://openalex.org/A5065788847), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202405120.
     
 The bifunctional CO‐dehydrogenase/acetyl‐CoA synthase (CODH/ACS) complex couples the reduction of CO2 to the condensation of CO with a methyl‐moiety and CoA to acetyl‐CoA. Catalysis occurs at two sites connected by a tunnel transporting the CO. Here, we investigated how the bifunctional complex and its tunnel support catalysis using the CODH/ACS from Carboxydothermus hydrogenoformans as a model. Although CODH/ACS adapted to form a stable bifunctional complex with a secluded substrate tunnel, catalysis and CO transport is even more efficient when two monofunctional enzymes are coupled. Efficient CO channeling appears to be ensured by hydrophobic binding sites for CO, which act in a bucket‐brigade fashion rather than as a simple tube. Tunnel remodeling showed that opening the tunnel increased activity but impaired directed transport of CO. Constricting the tunnel impaired activity and CO transport, suggesting that the tunnel evolved to sequester CO rather than to maximize turnover.    
 
@@ -221,7 +243,7 @@ The bifunctional CO‐dehydrogenase/acetyl‐CoA synthase (CODH/ACS) complex cou
 OpenAlex: https://openalex.org/W4396905033    
 Open access: False
     
-[Jakob Ruickoldt](https://openalex.org/A5065210893), [Jae‐Hun Jeoung](https://openalex.org/A5090642820), [Maik Alexander Rudolph](https://openalex.org/A5000522970), [Frank Lennartz](https://openalex.org/A5004944124), [Julian Kreibich](https://openalex.org/A5098163072), [Reinhard Schomäcker](https://openalex.org/A5065804335), [Holger Dobbek](https://openalex.org/A5065788847), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202405120.
+[Jakob Ruickoldt](https://openalex.org/A5065210893), [Jae‐Hun Jeoung](https://openalex.org/A5090642820), [Maik Alexander Rudolph](https://openalex.org/A5000522970), [Frank Lennartz](https://openalex.org/A5004944124), [Julian Kreibich](https://openalex.org/A5098163072), [Reinhard Schömacker](https://openalex.org/A5065804335), [Holger Dobbek](https://openalex.org/A5065788847), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202405120.
     
 The bifunctional CO‐dehydrogenase/acetyl‐CoA synthase (CODH/ACS) complex couples the reduction of CO2 to the condensation of CO with a methyl‐moiety and CoA to acetyl‐CoA. Catalysis occurs at two sites connected by a tunnel transporting the CO. Here, we investigated how the bifunctional complex and its tunnel support catalysis using the CODH/ACS from Carboxydothermus hydrogenoformans as a model. Although CODH/ACS adapted to form a stable bifunctional complex with a secluded substrate tunnel, catalysis and CO transport is even more efficient when two monofunctional enzymes are coupled. Efficient CO channeling appears to be ensured by hydrophobic binding sites for CO, which act in a bucket‐brigade fashion rather than as a simple tube. Tunnel remodeling showed that opening the tunnel increased activity but impaired directed transport of CO. Constricting the tunnel impaired activity and CO transport, suggesting that the tunnel evolved to sequester CO rather than to maximize turnover.    
 
@@ -309,20 +331,9 @@ The rational design of copper (Cu)-based catalysts with different oxidation stat
 OpenAlex: https://openalex.org/W4396906365    
 Open access: False
     
-[Shuai Wu](https://openalex.org/A5029824329), [Feng-xia Shen](https://openalex.org/A5048438287), [Pengchong Zhao](https://openalex.org/A5036258236), [Jiangtao Shi](https://openalex.org/A5089046028), [Tianyou Chen](https://openalex.org/A5039595875), Journal of membrane science. None(None)] 2024.https://doi.org/10.1016/j.memsci.2024.122882.
+[Shuai Wu](https://openalex.org/A5029824329), [Feng-xia Shen](https://openalex.org/A5048438287), [Pengchong Zhao](https://openalex.org/A5036258236), [Jin Shi](https://openalex.org/A5089046028), [Tianyou Chen](https://openalex.org/A5039595875), Journal of membrane science. None(None)] 2024.https://doi.org/10.1016/j.memsci.2024.122882.
     
 Bipolar membranes (BPM) are a special class of ion-exchange membranes constituted by a cation- and an anion-exchange layer, allowing the generation of protons and hydroxide ions via water dissociation. This unique feature makes them useful in a wide range of application. In this work, we have fabricated a novel BPM, with SnO2 hollow spheres used as water dissociation catalyst. Such fabricated BPM has been served as a diaphragm to construct a three-chamber electrolyzer for CO2 electro-reduction to CO in organic electrolyte. During the long-term electrolysis process, the cathodic current density has reached to ∼96.5 mA·cm-2, with the Faraday efficiency of CO stabled at ∼92.6%. Compared with widely used commercial BPM, as-prepared BPM exhibited many advantages, such as lower hydrolysis over-potential, high catalytic efficiency and low total resistance. This technology extends the prospect of BPM application in the field of CO2 reduction.    
-
-    
-
-## Promotional effects of In(PO3)3 on the high catalytic activity of CuOIn(PO3)3/C for CO2 reduction reaction   
-
-OpenAlex: https://openalex.org/W4396857540    
-Open access: False
-    
-[Chao Ruan](https://openalex.org/A5060368936), [Zhongwei Zhao](https://openalex.org/A5030770637), [Hui Wang](https://openalex.org/A5026861437), [Jiaqian Liu](https://openalex.org/A5048647451), [Yifeng Shi](https://openalex.org/A5048872057), [Zeng Ling](https://openalex.org/A5033371631), [Zhongshui Li](https://openalex.org/A5071078898), Dalton transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00645c.
-    
-The construction of Cu-In bi-component catalysts is an effective strategy to enhance the electrocatalytic properties towards CO2 reduction reaction (CO2RR). However, realizing the co-promotion of In and heteroatom P on...    
 
     
 
@@ -345,6 +356,17 @@ Open access: False
 [Arindam Mandal](https://openalex.org/A5059342552), [Guruprasad Bhattacharya](https://openalex.org/A5017733794), [Kajari Kargupta](https://openalex.org/A5022973938), Journal of materials research/Pratt's guide to venture capital sources. None(None)] 2024.https://doi.org/10.1557/s43578-024-01352-2.
     
 No abstract    
+
+    
+
+## Promotional effects of In(PO3)3 on the high catalytic activity of CuOIn(PO3)3/C for CO2 reduction reaction   
+
+OpenAlex: https://openalex.org/W4396857540    
+Open access: False
+    
+[Chao Ruan](https://openalex.org/A5060368936), [Zhongwei Zhao](https://openalex.org/A5030770637), [Hui Wang](https://openalex.org/A5026861437), [Jiaqian Liu](https://openalex.org/A5048647451), [Yifeng Shi](https://openalex.org/A5048872057), [Ling Zeng](https://openalex.org/A5033371631), [Zhongshui Li](https://openalex.org/A5071078898), Dalton transactions. None(None)] 2024.https://doi.org/10.1039/d4dt00645c.
+    
+The construction of Cu-In bi-component catalysts is an effective strategy to enhance the electrocatalytic properties towards CO2 reduction reaction (CO2RR). However, realizing the co-promotion of In and heteroatom P on...    
 
     
 
@@ -425,17 +447,6 @@ No abstract
 
     
 
-## Understanding the First Activation Step of Electrochemical CO2 Reduction over Ag and Ni-N-C Active Sites   
-
-OpenAlex: https://openalex.org/W4396846502    
-Open access: False
-    
-[Yujie Wang](https://openalex.org/A5035542752), [Jungho Kim](https://openalex.org/A5076147859), [Hyun Dong Jung](https://openalex.org/A5024496166), [Jun Liu](https://openalex.org/A5007474800), [Ke Yao](https://openalex.org/A5086258053), [Chuan Xia](https://openalex.org/A5014622289), [Seoin Back](https://openalex.org/A5058710447), [Kun Jiang](https://openalex.org/A5002267722), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109728.
-    
-No abstract    
-
-    
-
 ## Measurement of interfacial charge transfer rate during visible light CO2 reduction under bias voltage conditions   
 
 OpenAlex: https://openalex.org/W4396856765    
@@ -469,14 +480,14 @@ No abstract
 
     
 
-## Enhanced electrocatalytic CO2 reduction through constructing chemically homogeneous interfaces via ultrathin carbon encapsulated tin oxide   
+## Biological S0 reduction at neutral (pH 6.9) and acidic (pH 3.8) conditions: Performance and microbial community shifts in a H2/CO2-fed bioreactor   
 
-OpenAlex: https://openalex.org/W4396845478    
-Open access: False
+OpenAlex: https://openalex.org/W4396868401    
+Open access: True
     
-[Zongdeng Wu](https://openalex.org/A5091230914), [Di Yao](https://openalex.org/A5085057606), [Peng Zhao](https://openalex.org/A5000419166), [Haiyan Jing](https://openalex.org/A5057452181), [Keren Lu](https://openalex.org/A5070529453), [Boyuan Liu](https://openalex.org/A5021583927), [Xifeng Xia](https://openalex.org/A5073207522), [Wu Lei](https://openalex.org/A5003275051), [Qingli Hao](https://openalex.org/A5081580055), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109729.
+[Adrian Hidalgo-Ulloa](https://openalex.org/A5027676809), [Charlotte van der Graaf](https://openalex.org/A5097983908), [Jan Weijma](https://openalex.org/A5067796892), [Irene Sánchez‐Andrea](https://openalex.org/A5072890315), [Cees J.N. Buisman](https://openalex.org/A5015586783), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.05.11.592705 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/05/12/2024.05.11.592705.full.pdf)).
     
-No abstract    
+Sulfidogenesis is a promising technology for the selective recovery of chalcophile bulk metals (e.g. Cu, Zn, and Co) from metal-contaminated waters such as acid mine drainage (AMD) and metallurgy waste streams. The use of elemental sulfur (S0) instead of sulfate (SO42-) as electron acceptor reduces electron donor requirements four-fold, lowering process costs, and expands the range of operating conditions to more acidic pH. We previously reported autotrophic S0 reduction using an industrial mesophilic granular sludge as inoculum under thermoacidophilic conditions. Here, we examined the effect of pH on the S0 reduction performance of the same inoculum, in a continuously fed gas-lift reactor run at 30 C under neutral (pH 6.9) and acidic (pH 3.8) conditions. Steady-state volumetric sulfide production rates (VSPR) dropped 2.3-fold upon transition to acidic pH, from 1.79 g L-1 d-1 S2- to 0.71 g L-1 d-1 S2- Microbial community analysis via 16S rRNA gene amplicon sequencing showed that at pH 6.9, the S0-reducing genera Sulfurospirillum, Sulfurovum, Desulfurella, and Desulfovibrio were present at the highest relative abundance, while at pH 3.9 Desulfurella dominated the sequenced reads. The detection of acetic acid and the relative abundance of Acetobacterium at pH 6.9 pointed towards acetogenesis, explaining the dominance of the heterotrophic genus Sulfurospirillum in this H2 and CO2-fed bioreactor.    
 
     
 
@@ -488,17 +499,6 @@ Open access: False
 [Fuhua Li](https://openalex.org/A5048943499), [Qing Tang](https://openalex.org/A5035720671), ChemCatChem. None(None)] 2024.https://doi.org/10.1002/cctc.202400591.
     
 Pd based catalysts are rare metal‐based catalyst to yield tunable CO/H2 ratios for Fischer‐Tropsch synthesis. How to achieve the co‐production of CO and H2 with as little Pd as possible is extremely meaningful for Cn industry. Recent experiment revealed single Pd atom anchored on graphene exhibits high activity for CO2 electroreduction to syngas, yet the origin of activity and controllable CO/H2 ratios, especially the exact Pd coordination structure, remains elusive. Here we employ grand‐canonical density functional theory to show that Pd‐N1, rather than the commonly accepted Pd‐N4, serves as the active center, and the charge‐carrying capability is an effective descriptor. The site with more Pd‑C coordination can better submerge in graphene's delocalized π electrons for higher charge‐carrying capacity to carry excess charges that occupy Pd 4dz2 orbital and promote electron injection. Importantly, the tunable CO/H2 ratio can be explained with difference in charge‐carrying capability of transition state for *COOH and *H2 formation. This work solves the puzzle of coordinating structure of Pd active site and demonstrates the important role of charge‐carrying capability in electrochemical process, which shall provide a reference for further exploration of efficient electrocatalysts.    
-
-    
-
-## Biological S0 reduction at neutral (pH 6.9) and acidic (pH 3.8) conditions: Performance and microbial community shifts in a H2/CO2-fed bioreactor   
-
-OpenAlex: https://openalex.org/W4396868401    
-Open access: True
-    
-[Adrian Hidalgo-Ulloa](https://openalex.org/A5027676809), [Charlotte van der Graaf](https://openalex.org/A5097983908), [Jan Weijma](https://openalex.org/A5067796892), [Irene Sánchez‐Andrea](https://openalex.org/A5072890315), [Cees J.N. Buisman](https://openalex.org/A5015586783), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.05.11.592705 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/05/12/2024.05.11.592705.full.pdf)).
-    
-Sulfidogenesis is a promising technology for the selective recovery of chalcophile bulk metals (e.g. Cu, Zn, and Co) from metal-contaminated waters such as acid mine drainage (AMD) and metallurgy waste streams. The use of elemental sulfur (S0) instead of sulfate (SO42-) as electron acceptor reduces electron donor requirements four-fold, lowering process costs, and expands the range of operating conditions to more acidic pH. We previously reported autotrophic S0 reduction using an industrial mesophilic granular sludge as inoculum under thermoacidophilic conditions. Here, we examined the effect of pH on the S0 reduction performance of the same inoculum, in a continuously fed gas-lift reactor run at 30 C under neutral (pH 6.9) and acidic (pH 3.8) conditions. Steady-state volumetric sulfide production rates (VSPR) dropped 2.3-fold upon transition to acidic pH, from 1.79 g L-1 d-1 S2- to 0.71 g L-1 d-1 S2- Microbial community analysis via 16S rRNA gene amplicon sequencing showed that at pH 6.9, the S0-reducing genera Sulfurospirillum, Sulfurovum, Desulfurella, and Desulfovibrio were present at the highest relative abundance, while at pH 3.9 Desulfurella dominated the sequenced reads. The detection of acetic acid and the relative abundance of Acetobacterium at pH 6.9 pointed towards acetogenesis, explaining the dominance of the heterotrophic genus Sulfurospirillum in this H2 and CO2-fed bioreactor.    
 
     
 
@@ -854,6 +854,17 @@ Electrochemical reactions are those that occur on the surface of a charged catal
 
     
 
+## Study on carbon emissions towards flange connection joints of assembled steel structures   
+
+OpenAlex: https://openalex.org/W4397293942    
+Open access: True
+    
+[Jianpeng Guo](https://openalex.org/A5038048526), [Yanxia Zhang](https://openalex.org/A5055287971), [Ming-zhao Zheng](https://openalex.org/A5051337582), [Xi Zhao](https://openalex.org/A5032158808), [Bobo Wu](https://openalex.org/A5085261336), Low-carbon materials and green construction. 2(1)] 2024.https://doi.org/10.1007/s44242-024-00036-8 ([pdf](https://link.springer.com/content/pdf/10.1007/s44242-024-00036-8.pdf)).
+    
+Abstract In order to comply with the trend of global climate change, countries are gradually promoting energy conservation and emission reduction, and prefabricated buildings have become one of the main paths for the construction industry to develop towards carbon peaking and carbon neutrality goals. This paper takes the box-shaped column flange connection achieved by plug welding-core sleeve in the dormitory building of Tongzhou Campus of the Affiliated High School of Capital Normal University in China as the research object. Based on the consumption quota of prefabricated construction projects and the actual project quantity, the carbon emissions of steel structure column connection joints at different phases are calculated by the emission factor method, and it is proposed that the production consumption of building materials plays a key role in energy conservation and emission reduction. This paper concludes that the box-shaped column flange connection achieved by plug welding-core sleeve in the construction phase of an assembled steel building emits 49.5% less carbon dioxide than a conventional full fusion-welded joint. And the reason for the high carbon emissions of the latter is mainly from the amount of materials and machinery required for full penetration welding. It further affirms the green and environmental protection effect of the assembled steel structure plug welding-core sleeve flange connection joint in actual projects, and provides a reference for related research.    
+
+    
+
 ## Surface Facets Reconstruction in Copper‐Based Materials for Enhanced Electrochemical CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4396967884    
@@ -876,17 +887,6 @@ The integration of artificial intelligence (AI)–machine learning (ML) in the f
 
     
 
-## From carrot to stick – the impact of a changing landscape of CCS policy and funding in Australia since 1999   
-
-OpenAlex: https://openalex.org/W4396974706    
-Open access: False
-    
-[Rebecca Johnstone](https://openalex.org/A5037964413), No host. 64(2)] 2024.https://doi.org/10.1071/ep23167.
-    
-Since 1999 successive Australian Commonwealth governments have provided direct funding for carbon capture, utilisation and storage (CCUS) projects, notably the carbon capture and storage (CCS) Flagships Fund (Rudd government, 2009). The most recent CCUS Hubs and Technologies Fund (Morrison government, 2022) was later revoked (Albanese government, 2022) marking a shift from direct funding (‘carrot’) to emission reduction through a strengthening of the Safeguard Mechanism, the introduction of a 43% emissions reduction target by 2030, and the establishment of the Net Zero Authority (‘stick’). Reports such as the ‘Net Zero Mobilisation Report’, have delineated the need for, and size of, the role of CCUS in Australia, especially for hard-to-abate sectors and the report states ‘private investment in a CCUS industry requires targeted government support’ i.e. funding. As government focus moves from direct funding support for CCS to CCU and direct air capture (DAC), the development of underground geological storage of carbon dioxide will be largely left to fossil fuel emitters, especially large liquefied natural gas (LNG) companies, reflected in current Western Australian government policy (Cook government, 2023) to develop CCS strategy as part of the LNG Jobs Taskforce. The only current exception is CarbonNet, operated by the Victorian government and one of the early CCS Flagship funded projects.    
-
-    
-
 ## ETE-SRSP: An Enhanced Optimization of Tramp Ship Routing and Scheduling   
 
 OpenAlex: https://openalex.org/W4396929827    
@@ -895,6 +895,17 @@ Open access: True
 [Xiaohu Huang](https://openalex.org/A5069716690), [Yuhan Liu](https://openalex.org/A5020919165), [Mei Sha](https://openalex.org/A5035840900), [Bing Han](https://openalex.org/A5072238277), [Dezhi Han](https://openalex.org/A5013487631), [Han Liu](https://openalex.org/A5055221638), Journal of marine science and engineering. 12(5)] 2024.https://doi.org/10.3390/jmse12050817 ([pdf](https://www.mdpi.com/2077-1312/12/5/817/pdf?version=1715692337)).
     
 In the contemporary tramp shipping industry, route optimization and scheduling are directly linked to enhancements in operations, economics, and the environment, making them key factors for the effective management of maritime transportation. To enhance effective ship-to-cargo matching and the refinement of maritime transportation itineraries, this paper introduces a time efficiency and carbon dioxide emission multi-objective optimization algorithm named ETE-SRSP (efficiency–time–emission multi-optimization algorithm). ETE-SRSP incorporates several factors, including the initial positions of ships, time windows for loading and unloading operations, and varying sailing speeds. Within the ETE-SRSP framework, pioneering an approach that integrates ballast and laden sailing velocities as decisional parameters, it employs a multi-objective optimization technique to investigate the intricate interplay between temporal efficiency and carbon dioxide emissions. Additionally, the model’s proficiency in mitigating emissions and managing costs is clearly demonstrated through the optimization of these objectives, thereby offering a robust framework for decision support. The experimental results show that the optimal sailing speeds derived from the ETE-SRSP, under typical time-weight scenarios, can achieve an optimal balance between emission reduction and cost control. In summary, this study underscores the optimization strategy’s potential to effectively address the maritime sector’s need for economic growth and ecological conservation, showcasing its practical value in the industry.    
+
+    
+
+## From carrot to stick – the impact of a changing landscape of CCS policy and funding in Australia since 1999   
+
+OpenAlex: https://openalex.org/W4396974706    
+Open access: False
+    
+[Rebecca Johnstone](https://openalex.org/A5037964413), No host. 64(2)] 2024.https://doi.org/10.1071/ep23167.
+    
+Since 1999 successive Australian Commonwealth governments have provided direct funding for carbon capture, utilisation and storage (CCUS) projects, notably the carbon capture and storage (CCS) Flagships Fund (Rudd government, 2009). The most recent CCUS Hubs and Technologies Fund (Morrison government, 2022) was later revoked (Albanese government, 2022) marking a shift from direct funding (‘carrot’) to emission reduction through a strengthening of the Safeguard Mechanism, the introduction of a 43% emissions reduction target by 2030, and the establishment of the Net Zero Authority (‘stick’). Reports such as the ‘Net Zero Mobilisation Report’, have delineated the need for, and size of, the role of CCUS in Australia, especially for hard-to-abate sectors and the report states ‘private investment in a CCUS industry requires targeted government support’ i.e. funding. As government focus moves from direct funding support for CCS to CCU and direct air capture (DAC), the development of underground geological storage of carbon dioxide will be largely left to fossil fuel emitters, especially large liquefied natural gas (LNG) companies, reflected in current Western Australian government policy (Cook government, 2023) to develop CCS strategy as part of the LNG Jobs Taskforce. The only current exception is CarbonNet, operated by the Victorian government and one of the early CCS Flagship funded projects.    
 
     
 
@@ -986,17 +997,6 @@ In today’s climate-conscious world, companies across the globe continue to pus
 
     
 
-## Direct Cation Stabilization Effects of CO Dimerization for Boosting C2 Pathways of CO2 Reduction on Noble Metal Surfaces   
-
-OpenAlex: https://openalex.org/W4396844999    
-Open access: False
-    
-[Hon Ho Wong](https://openalex.org/A5025808471), [Ming Sun](https://openalex.org/A5085883750), [Tong Wu](https://openalex.org/A5062964597), [Lu Lu](https://openalex.org/A5030429211), [Qimiao Lu](https://openalex.org/A5055992117), [Baian Chen](https://openalex.org/A5007117732), [Cheuk Hei Chan](https://openalex.org/A5061934492), [Bolong Huang](https://openalex.org/A5022350148), Advanced energy and sustainability research. None(None)] 2024.https://doi.org/10.1002/aesr.202400110.
-    
-The carbon dioxide reduction reaction (CO 2 RR) is one of the most promising solutions for realizing carbon neutralization via converting the emitted CO 2 into value‐added chemicals. The CC coupling step for CO dimerization is the rate‐determining step for C 2 pathways, which have not been thoroughly investigated. Herein, the direct cation stabilization effects on CO dimerization for *OCCO formation on the representative Cu(100) and Pt(100) surfaces are investigated. Density functional theory calculations show that the presence of alkali metal ions plays a vital role in promoting the coupling of *CO monomers on both metal surfaces, where Cu shows a stronger stabilization effect. More importantly, a strong linear correlation ( R 2 ≈ 0.9) between the dimer stabilization energy and the reaction energy is revealed for the first time, which is a promising indicator for the selectivity of C 2 pathways. Further investigations on electronic structures reveal that the promoting effect on *OCCO formation is strongly related to the negative charges of the molecules, in which the negative charge accumulation is favored by the directional electron transfer due to the chemisorption of *OCCO on Cu(100) surface. This work offers insights into the understanding of CC coupling reactions for CO 2 RR mechanisms.    
-
-    
-
 ## Second Coordination Sphere Effects in an Earth-Abundant Monometallic Complex as Catalyst Dictate Highly Selective Photochemical Conversion of CO2 to HCOOH   
 
 OpenAlex: https://openalex.org/W4396914965    
@@ -1085,6 +1085,17 @@ ABSTRACT This paper examines the influence of shading devices in non-residential
 
     
 
+## Oxidative Stress: The Particulate Linkage   
+
+OpenAlex: https://openalex.org/W4396941233    
+Open access: False
+    
+[Suryasikha Samal](https://openalex.org/A5047330352), [Chinmoy Mishra](https://openalex.org/A5019084962), No host. None(None)] 2024.https://doi.org/10.1007/978-981-97-1363-9_13.
+    
+Growing trend of air pollution has become one of the familiar environmental hazards for the society. It is a mixture of toxic compounds emerging from both natural and anthropogenic sources. Depending on the source and rate of emission the components of air pollution change dramatically. The primary human-made sources of air pollution may include vehicle emissions, natural gas to heat homes, fuel oils, and by-products of manufacturing and power generation and fumes from chemical production. In addition to that, various hazardous substances such as methane and other gases are released by decomposing organic matter in soils, and other gases include ash and smoke from volcanic eruptions, which are frequently caused by humans. Various reports around the world have consistently demonstrated that air pollution is a significant adaptable risk factor for enhanced mortality. Air pollutants can harm the health of humans, animals, plants, and buildings. The pollutants are in the form of gases, solid particles, or liquid droplets. Ozone (O3), nitric oxide (NO), carbon monoxide (CO), nitrogen dioxide (NO2), and sulphur dioxide (SO2) are some of the gaseous pollutants that contribute to air pollution. The pollution is now the leading environmental cause of premature death. Cardiovascular events such as acute ischemic account for the majority of the additional mortality caused by air pollution. Aside from increased mortality, air contamination is linked to significant reductions in worker productivity. Exposure to air pollution has a wide range of negative consequences on people's health. The effects of air pollution can be divided into short-term and long-term effects. The discomfort, such as irritation to the nose, eyes, throat or skin, as well as infections like bronchitis are short-term symptoms that are transient. It can also cause headaches, nausea and dizziness. The long-term effects of pollution can last for years and cause various respiratory diseases. Long-term damage to people's nerves, brains, kidneys, liver, and other organs, birth defects are the consequences of air pollution (Brook et al. 2004; Newby et al. 2015; Zivin and Neidell 2018; Hamanaka and Mutlu 2018).    
+
+    
+
 ## Hydroformylation of Olefins with CO2/H2 and Hydrosilane by Copper/Cobalt Tandem Catalysis   
 
 OpenAlex: https://openalex.org/W4396929009    
@@ -1093,17 +1104,6 @@ Open access: False
 [An‐Guo Wu](https://openalex.org/A5031181895), [Jie Ding](https://openalex.org/A5034897256), [Liancheng Zhao](https://openalex.org/A5076658761), [Hongru Li](https://openalex.org/A5001454737), [Liang‐Nian He](https://openalex.org/A5003309450), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202400608.
     
 A Cu/Co tandem catalysis protocol was developed to conduct the hydroformylation of olefins using CO2/H2 and PMHS (polymethylhydrosiloxane) as a readily available and environmentally friendly hydride source. This methodology was performed via a two‐step approach consisting of the copper‐catalyzed reduction of CO2 by hydrosilane and subsequent cobalt‐promoted hydroformylation with H2 and the in situ formed CO. The optimized triphos oxide ligand, which presumably facilitates the migratory insertion of CO gives moderate to excellent yields for both terminal and internal alkenes. This earth‐abundant metal catalysis provides a reliable and efficient way to afford useful aldehydes in industry using silicon by‐product PMHS as hydrogen source and renewable CO2 as carbonyl source.    
-
-    
-
-## Extracting critical paths for synergistic control of carbon emissions and air pollution: Case of Henan Province   
-
-OpenAlex: https://openalex.org/W4396893168    
-Open access: False
-    
-[Ningwei Wang](https://openalex.org/A5049245470), [Shanshan Wang](https://openalex.org/A5055299862), [Y. Li](https://openalex.org/A5051963578), [Yingying Zhao](https://openalex.org/A5028701739), [Tiantian Chun](https://openalex.org/A5002112339), [Ruiqin Zhang](https://openalex.org/A5013591889), Journal of Environmental Sciences/Journal of environmental sciences. None(None)] 2024.https://doi.org/10.1016/j.jes.2024.05.011.
-    
-Synergistic reduction of carbon emissions and air pollution is the core means to address the two major strategic tasks of fundamentally improving the ecological environment and the 'Dual-carbon target'. The issue of synergistic reduction at the provincial level needs to be addressed as a matter of urgency. Taking Henan Province, the largest economy in central China, as an example, this study uses environmentally extended input-output analysis and structural path analysis to identify the key sectors that contribute to CO2, SO2, and total particulate matter (TPM) emissions, and to sort out key emission pathways (e.g., Final Demand → Sector…). The results indicate that S2 (Mining of Fossil Energy), S10 (Nonmetal Mineral Products), S11 (Metal Smelting), S13 (Power and Heat) and S17 (Transportation) are mainly responsible for CO2, SO2, and TPM direct emissions on the production side, while S16 (Construction), S12 (Equipment) and S18 (Services) account for more than 45 % of CO2, SO2, and TPM embodied emissions on the consumption side. 32 shared emission pathways are extracted from the top 100 pathways for CO2, SO2, and TPM emissions, which account for 27 %-51 % of total emissions in Henan Province. P9 (Export → Nonmetal Mineral Products), P10 (Export → Metal Smelting) and P21 (Gross Capital Formation → Construction → Nonmetal Mineral Products) are the leading paths responsible for embodied emissions. The research results provide the foundation and guidance for well-designed mitigation policies, as well as a reference for better synergistic control in provinces facing similar situations.    
 
     
 
@@ -1118,14 +1118,14 @@ Electrochemical CO2 reduction holds promise for achieving carbon cycling and ene
 
     
 
-## Oxidative Stress: The Particulate Linkage   
+## Extracting critical paths for synergistic control of carbon emissions and air pollution: Case of Henan Province   
 
-OpenAlex: https://openalex.org/W4396941233    
+OpenAlex: https://openalex.org/W4396893168    
 Open access: False
     
-[Suryasikha Samal](https://openalex.org/A5047330352), [Chinmoy Mishra](https://openalex.org/A5019084962), No host. None(None)] 2024.https://doi.org/10.1007/978-981-97-1363-9_13.
+[Ningwei Wang](https://openalex.org/A5049245470), [Shanshan Wang](https://openalex.org/A5055299862), [Y. Li](https://openalex.org/A5051963578), [Yingying Zhao](https://openalex.org/A5028701739), [Tiantian Chun](https://openalex.org/A5002112339), [Ruiqin Zhang](https://openalex.org/A5013591889), Journal of Environmental Sciences/Journal of environmental sciences. None(None)] 2024.https://doi.org/10.1016/j.jes.2024.05.011.
     
-Growing trend of air pollution has become one of the familiar environmental hazards for the society. It is a mixture of toxic compounds emerging from both natural and anthropogenic sources. Depending on the source and rate of emission the components of air pollution change dramatically. The primary human-made sources of air pollution may include vehicle emissions, natural gas to heat homes, fuel oils, and by-products of manufacturing and power generation and fumes from chemical production. In addition to that, various hazardous substances such as methane and other gases are released by decomposing organic matter in soils, and other gases include ash and smoke from volcanic eruptions, which are frequently caused by humans. Various reports around the world have consistently demonstrated that air pollution is a significant adaptable risk factor for enhanced mortality. Air pollutants can harm the health of humans, animals, plants, and buildings. The pollutants are in the form of gases, solid particles, or liquid droplets. Ozone (O3), nitric oxide (NO), carbon monoxide (CO), nitrogen dioxide (NO2), and sulphur dioxide (SO2) are some of the gaseous pollutants that contribute to air pollution. The pollution is now the leading environmental cause of premature death. Cardiovascular events such as acute ischemic account for the majority of the additional mortality caused by air pollution. Aside from increased mortality, air contamination is linked to significant reductions in worker productivity. Exposure to air pollution has a wide range of negative consequences on people's health. The effects of air pollution can be divided into short-term and long-term effects. The discomfort, such as irritation to the nose, eyes, throat or skin, as well as infections like bronchitis are short-term symptoms that are transient. It can also cause headaches, nausea and dizziness. The long-term effects of pollution can last for years and cause various respiratory diseases. Long-term damage to people's nerves, brains, kidneys, liver, and other organs, birth defects are the consequences of air pollution (Brook et al. 2004; Newby et al. 2015; Zivin and Neidell 2018; Hamanaka and Mutlu 2018).    
+Synergistic reduction of carbon emissions and air pollution is the core means to address the two major strategic tasks of fundamentally improving the ecological environment and the 'Dual-carbon target'. The issue of synergistic reduction at the provincial level needs to be addressed as a matter of urgency. Taking Henan Province, the largest economy in central China, as an example, this study uses environmentally extended input-output analysis and structural path analysis to identify the key sectors that contribute to CO2, SO2, and total particulate matter (TPM) emissions, and to sort out key emission pathways (e.g., Final Demand → Sector…). The results indicate that S2 (Mining of Fossil Energy), S10 (Nonmetal Mineral Products), S11 (Metal Smelting), S13 (Power and Heat) and S17 (Transportation) are mainly responsible for CO2, SO2, and TPM direct emissions on the production side, while S16 (Construction), S12 (Equipment) and S18 (Services) account for more than 45 % of CO2, SO2, and TPM embodied emissions on the consumption side. 32 shared emission pathways are extracted from the top 100 pathways for CO2, SO2, and TPM emissions, which account for 27 %-51 % of total emissions in Henan Province. P9 (Export → Nonmetal Mineral Products), P10 (Export → Metal Smelting) and P21 (Gross Capital Formation → Construction → Nonmetal Mineral Products) are the leading paths responsible for embodied emissions. The research results provide the foundation and guidance for well-designed mitigation policies, as well as a reference for better synergistic control in provinces facing similar situations.    
 
     
 
@@ -1206,14 +1206,14 @@ Electrochemical CO2 reduction (CO2R) to formate is an attractive carbon emission
 
     
 
-## CO2 photoreduction integrated with oxidative coupling of amines over WO3/Cu(BTC) nanocomposite   
+## Wastewater-grown microalgae biomass as a source of sustainable aviation fuel: Life cycle assessment comparing hydrothermal routes   
 
-OpenAlex: https://openalex.org/W4396912074    
+OpenAlex: https://openalex.org/W4397289846    
 Open access: False
     
-[Anil Malik](https://openalex.org/A5005758628), [Nitish Saini](https://openalex.org/A5066697720), [Arun Kumar](https://openalex.org/A5086149265), [Pankaj Kumar Prajapati](https://openalex.org/A5091490876), [Dulal Krishna Tripathi](https://openalex.org/A5013858656), [Suman L. Jain](https://openalex.org/A5073357482), Molecular catalysis. 562(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114222.
+[Bianca Barros Marangon](https://openalex.org/A5002386637), [Jackeline de Siqueira Castro](https://openalex.org/A5021333558), [Paula Peixoto Assemany](https://openalex.org/A5043206861), [Nítalo André Farias Machado](https://openalex.org/A5062413260), [Maria Lúcia Calijuri](https://openalex.org/A5065489895), Journal of environmental management. 360(None)] 2024.https://doi.org/10.1016/j.jenvman.2024.121164.
     
-Here, we report an efficient integrated CO2 photoreduction to methanol accompanied with the simultaneous oxidation of benzyl amines to corresponding imines using quadrangular WO3 nanoplates grafted with Cu(BTC) as a photocatalyst under visible light, enabling to provide efficient use of the photogenerated electrons and holes. Under the optimized reaction conditions, the maximum yield of methanol and N-(4-methoxybenzyl)-1-(4-methoxyphenyl)methanimine was found to be 642 μmol-g − 1 and 98 %, respectively. The developed integrated dual functional system comprising CO2 reduction coupled with the oxidative organic synthesis opens a new window for value chain up gradation at both ends using sustainable solar energy.    
+The present paper compared, through life cycle assessment (LCA), the production of aviation biofuel from two hydrothermal routes of microalgae cultivated in wastewater. Hydrothermal liquefaction (HTL) and gasification followed by Fischer-Tropsch synthesis (G + FT) were compared. Both routes included biomass production, hydrotreatment for biofuel upgrading, and product fractionation. Secondary data obtained from the literature were used for the cradle-to-gate LCA. G + FT had a higher impact than HTL in the 18 impact categories assessed, with human carcinogenic toxicity exerting the most harmful pressure on the environment. The catalysts were the inputs that caused the most adverse emissions. The solvent used for bio-oil separation also stood out in terms of impacts. In HTL, emissions for global warming were −51.6 g CO2 eq/MJ, while in G + FT, they were 250 g CO2 eq/MJ. At the Endpoint level, HTL resulted in benefits to human health and ecosystems, while G + FT caused environmental damage in these two categories, as well as in the resources category. In the improvement scenarios, besides considering solid, aqueous, and gaseous products as co-products rather than just as waste/emissions, a 20% reduction in catalyst consumption and 90% recovery were applied. Thus, in HTL, 39.47 kg CO2 eq was avoided, compared to 35.44 kg CO2 eq in the base scenario. In G + FT, emissions decreased from 147.55 kg CO2 eq to the capture of 8.60 kg CO2 eq.    
 
     
 
@@ -1228,14 +1228,14 @@ This research paper aims to optimize electrical system modeling to minimize CO2 
 
     
 
-## Research on Pore-Fracture Structure Alteration and Gas Emission Homogenization in an Outburst Coal Seam Induced by CO2 Gas Fracturing   
+## CO2 photoreduction integrated with oxidative coupling of amines over WO3/Cu(BTC) nanocomposite   
 
-OpenAlex: https://openalex.org/W4397028903    
-Open access: True
+OpenAlex: https://openalex.org/W4396912074    
+Open access: False
     
-[Baige Yang](https://openalex.org/A5098684238), [Yongzhi Cao](https://openalex.org/A5040695351), [Xinsheng Zhang](https://openalex.org/A5017895484), [Junsheng Zhang](https://openalex.org/A5073823650), [Shuaifang Guo](https://openalex.org/A5015423715), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c01784 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c01784)).
+[Anil Malik](https://openalex.org/A5005758628), [Nitish Saini](https://openalex.org/A5066697720), [Arun Kumar](https://openalex.org/A5086149265), [Pankaj Kumar Prajapati](https://openalex.org/A5091490876), [Dulal Krishna Tripathi](https://openalex.org/A5013858656), [Suman L. Jain](https://openalex.org/A5073357482), Molecular catalysis. 562(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114222.
     
-Considering the alarming frequency of coal mine gas disasters globally, there is an urgent need to develop efficient gas control technologies to ensure mining safety. This study focuses on the problem of high peak gas emission restriction in the process of coal roadway tunneling in outburst coal seams, taking the No. 15 outburst coal seam of the Pingshu Coal Mine as the research object. Based on coal sample testing analysis and the application of CO2 gas fracturing (CO2-Frac) in coal mines, a comprehensive evaluation was conducted on pore-fracture structure alteration and homogenization gas emission effect induced by CO2-Frac, providing technical solutions for coal mine safety production. The results are as follows: (1) CO2-Frac induces fracture propagation and the development of three types of fracture structures: Tri-Wing Fracture, Damage Markers, and Coal Matrix Fragmentation. (2) Following CO2-Frac at 150 MPa, the pore volume and average diameter of pores in the 100–10,000 nm range increased by 128% and 61%, respectively, compared to the pre-CO2-Frac state. (3) During the excavation period, continuous monitoring of the airflow for 3 days showed a significant homogenization of gas emission, with a maximum value of 0.450% and a variance value of 0.0031, indicating a reduction of 31% and 68%, respectively. These results reveal several key findings: The pore-fracture structure alteration enhances gas diffusion and permeation, providing high-speed pathways for gas migration, resulting in a substantial increase in gas extraction efficiency. During coal cutting, the modified coal exhibits homogenized gas emission, eliminating the high peak phenomenon and achieving safe and efficient mining. These findings demonstrate that CO2-Frac has broad potential in gas emission homogenization for widespread application in coal mines with similar gas geological conditions.    
+Here, we report an efficient integrated CO2 photoreduction to methanol accompanied with the simultaneous oxidation of benzyl amines to corresponding imines using quadrangular WO3 nanoplates grafted with Cu(BTC) as a photocatalyst under visible light, enabling to provide efficient use of the photogenerated electrons and holes. Under the optimized reaction conditions, the maximum yield of methanol and N-(4-methoxybenzyl)-1-(4-methoxyphenyl)methanimine was found to be 642 μmol-g − 1 and 98 %, respectively. The developed integrated dual functional system comprising CO2 reduction coupled with the oxidative organic synthesis opens a new window for value chain up gradation at both ends using sustainable solar energy.    
 
     
 
@@ -1247,6 +1247,17 @@ Open access: False
 [He Zhang](https://openalex.org/A5028210658), [Ye Liu](https://openalex.org/A5018742393), [Zhuo Li](https://openalex.org/A5084778794), [Shuai Xu](https://openalex.org/A5049173260), [Zhijun Li](https://openalex.org/A5053799119), [Ji Bian](https://openalex.org/A5036498849), [Liqiang Jing](https://openalex.org/A5040204376), Applied catalysis. B, Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124207.
     
 Here, a Z-scheme heterojunction photocatalyst by integration of copper phthalocyanine with carboxyl grafting (CuTcPc) and BiVO4 nanosheets (BVO) via the hydroxyl induced assembly strategy has been developed for selective CO2 photoreduction. The optimal CuTcPc/BVO catalyst delivers a 21-fold increments in CO yields compared with pristine BVO and 91 % selectivity towards CO2 reduction, coupled with nearly stoichiometric O2 in pure water. As unraveled by experimental results and theoretical simulations, the remarkably improved photoactivity is attributed to the complementary light absorption of BVO and CuTcPc, the enhanced charge transfer and separation due to the formation of Z-scheme heterojunction and most importantly the preferable CO2 adsorption and activation brought by the adjusted local coordination and electronic environment of central Cu-N4 sites by electron-withdrawing substituents. This study provides a feasible avenue to manipulate the active sites from the perspective of functional substitute tailoring on metal phthalocyanine over novel BiVO4-based Z-scheme heterojunctions for artificial photosynthesis.    
+
+    
+
+## Research on Pore-Fracture Structure Alteration and Gas Emission Homogenization in an Outburst Coal Seam Induced by CO2 Gas Fracturing   
+
+OpenAlex: https://openalex.org/W4397028903    
+Open access: True
+    
+[Baige Yang](https://openalex.org/A5098684238), [Yongzhi Cao](https://openalex.org/A5040695351), [Xinsheng Zhang](https://openalex.org/A5017895484), [Junsheng Zhang](https://openalex.org/A5073823650), [Shuaifang Guo](https://openalex.org/A5015423715), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.4c01784 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.4c01784)).
+    
+Considering the alarming frequency of coal mine gas disasters globally, there is an urgent need to develop efficient gas control technologies to ensure mining safety. This study focuses on the problem of high peak gas emission restriction in the process of coal roadway tunneling in outburst coal seams, taking the No. 15 outburst coal seam of the Pingshu Coal Mine as the research object. Based on coal sample testing analysis and the application of CO2 gas fracturing (CO2-Frac) in coal mines, a comprehensive evaluation was conducted on pore-fracture structure alteration and homogenization gas emission effect induced by CO2-Frac, providing technical solutions for coal mine safety production. The results are as follows: (1) CO2-Frac induces fracture propagation and the development of three types of fracture structures: Tri-Wing Fracture, Damage Markers, and Coal Matrix Fragmentation. (2) Following CO2-Frac at 150 MPa, the pore volume and average diameter of pores in the 100–10,000 nm range increased by 128% and 61%, respectively, compared to the pre-CO2-Frac state. (3) During the excavation period, continuous monitoring of the airflow for 3 days showed a significant homogenization of gas emission, with a maximum value of 0.450% and a variance value of 0.0031, indicating a reduction of 31% and 68%, respectively. These results reveal several key findings: The pore-fracture structure alteration enhances gas diffusion and permeation, providing high-speed pathways for gas migration, resulting in a substantial increase in gas extraction efficiency. During coal cutting, the modified coal exhibits homogenized gas emission, eliminating the high peak phenomenon and achieving safe and efficient mining. These findings demonstrate that CO2-Frac has broad potential in gas emission homogenization for widespread application in coal mines with similar gas geological conditions.    
 
     
 
@@ -1277,7 +1288,7 @@ The electrochemical CO2 reduction reaction (CO2RR) has been widely studied as a 
 OpenAlex: https://openalex.org/W4396980143    
 Open access: False
     
-[Corentin Chaumont](https://openalex.org/A5078690704), [Alireza Oraii](https://openalex.org/A5052851241), [Fermin C. García](https://openalex.org/A5025871025), [Gregory E. Supple](https://openalex.org/A5049138453), [Pasquale Santangeli](https://openalex.org/A5052446138), [Ramanan Kumareswaran](https://openalex.org/A5027508020), [Sanjay Dixit](https://openalex.org/A5063300821), [Timothy M. Markman](https://openalex.org/A5091288502), [Robert D. Schaller](https://openalex.org/A5005084346), [Erica S. Zado](https://openalex.org/A5003321939), [Gustavo S. Guandalini](https://openalex.org/A5062747634), [David Lin](https://openalex.org/A5015825548), [Michael P. Riley](https://openalex.org/A5091080594), [Poojita Shivamurthy](https://openalex.org/A5068400885), [Andrés Enríquez](https://openalex.org/A5078037958), [Andrew E. Epstein](https://openalex.org/A5086111395), [Rajat Deo](https://openalex.org/A5059631475), [Saman Nazarian](https://openalex.org/A5075752624), [David J. Callans](https://openalex.org/A5009363935), [David S. Frankel](https://openalex.org/A5004538532), [Frédéric Anselme](https://openalex.org/A5043036813), [Francis E. Marchlinski](https://openalex.org/A5040400286), [Matthew C. Hyman](https://openalex.org/A5033365578), JACC. Clinical electrophysiology. None(None)] 2024.https://doi.org/10.1016/j.jacep.2024.05.004.
+[Corentin Chaumont](https://openalex.org/A5078690704), [Alireza Oraii](https://openalex.org/A5052851241), [Fermín C. García](https://openalex.org/A5025871025), [Gregory E. Supple](https://openalex.org/A5049138453), [Pasquale Santangeli](https://openalex.org/A5052446138), [Ramanan Kumareswaran](https://openalex.org/A5027508020), [Sanjay Dixit](https://openalex.org/A5063300821), [Timothy M. Markman](https://openalex.org/A5091288502), [Robert D. Schaller](https://openalex.org/A5005084346), [Erica S. Zado](https://openalex.org/A5003321939), [Gustavo S. Guandalini](https://openalex.org/A5062747634), [David Lin](https://openalex.org/A5015825548), [Michael P. Riley](https://openalex.org/A5091080594), [Poojita Shivamurthy](https://openalex.org/A5068400885), [Andrés Enríquez](https://openalex.org/A5078037958), [Andrew E. Epstein](https://openalex.org/A5086111395), [Rajat Deo](https://openalex.org/A5059631475), [Saman Nazarian](https://openalex.org/A5075752624), [David J. Callans](https://openalex.org/A5009363935), [David S. Frankel](https://openalex.org/A5004538532), [Frédéric Anselme](https://openalex.org/A5043036813), [Francis E. Marchlinski](https://openalex.org/A5040400286), [Matthew C. Hyman](https://openalex.org/A5033365578), JACC. Clinical electrophysiology. None(None)] 2024.https://doi.org/10.1016/j.jacep.2024.05.004.
     
 Epicardial (Epi) access is commonly required during ventricular tachycardia (VT) ablation. Conventional Epi (ConvEpi) access targets a "dry" pericardial space presenting technical challenges and risk of complications. Recently, intentional puncture of coronary venous (CV) branches with Epi carbon dioxide insufflation (EpiCO2) has been described as a technique to improve Epi access. The safety of this technique relative to conventional methods remains unproven. To compare the feasibility and safety of EpiCO2 to ConvEpi access. All patients at a high-volume center undergoing Epi access between 1/2021 and 12/2023 were included and grouped according to ConvEpi or EpiCO2 approaches. Access technique was according to the discretion of the operator. Epi access was attempted in 153 cases by 17 different operators (80 ConvEpi vs 73 EpiCO2). There was no difference in success rate whether ConvEpi or EpiCO2 approach was used (76 [95%] vs 67 [91.8%], p=0.4). Total Epi access time was shorter in the ConvEpi group compared to the EpiCO2 group (16.3±11.6min vs 26.9±12.7min, p<0.001), though total procedure duration was similar. Major Epi-access related complications occurred in only the ConvEpi group (6 [7.5%] ConvEpi vs 0 [0%] EpiCo2, p=0.02). Bleeding ≥ 80 mL was more frequently observed following ConvEpi access (14 [17.5%] vs 4 [5.5%], p=0.02). After adjusting for age, repeat Epi access and antithrombotic therapy, EpiCO2 was associated with a reduction in bleeding ≥ 80 mL (OR=0.27, 95%CI 0.08 – 0.89, p=0.03). EpiCO2 access is associated with lower rates of major complication and bleeding when compared to ConvEpi access.    
 
@@ -1291,6 +1302,17 @@ Open access: True
 [Teresa Mendiara](https://openalex.org/A5039958459), [Alberto Navajas](https://openalex.org/A5034223586), [Alberto Abad](https://openalex.org/A5032930708), [Tobias Pröll](https://openalex.org/A5039903320), [Mikel Munárriz](https://openalex.org/A5030102029), [Luis M. Gandía](https://openalex.org/A5022296000), [Francisco Garcı́a-Labiano](https://openalex.org/A5015623450), [Luis F. de Diego](https://openalex.org/A5060359594), Sustainability. 16(10)] 2024.https://doi.org/10.3390/su16104013 ([pdf](https://www.mdpi.com/2071-1050/16/10/4013/pdf?version=1715674485)).
     
 Among the approaches to facilitating negative CO2 emissions is biochar production. Biochar is generated in the pyrolysis of certain biomasses. In the pyrolysis process, carbon in the biomass is turned into a solid, porous, carbon-rich, and stable material that can be captured from the soil after a period of from a few decades to several centuries. In addition to this long-term carbon sequestration role, biochar is also beneficial for soil performance as it helps to restore soil fertility and improves the retention and diffusion of water and nutrients. This work presents a Life Cycle Assessment of different pyrolysis approaches for biochar production. Biomass pyrolysis is performed in a fixed-bed reactor, which operates at a mild temperature (550 °C). Biochar is obtained as solid product of the pyrolysis, but there are also liquid (bio-oil) and gaseous products (syngas). The pyrolysis gas is partly used to fulfil the energy demand of the pyrolysis process, which is highly endothermic. In the conventional approach, CO2 is produced during the combustion of syngas and emitted to the atmosphere. Another approach to facilitate CO2 capture and thus obtain more negative CO2 emissions in the pyrolysis process is burning syngas and bio-oil in a Chemical Looping Combustion unit. Life Cycle Assessment was performed of these approaches toward biomass pyrolysis to evaluate their environmental impact. The Chemical Looping Combustion approach significantly reduced the values of 7 of the 16 environmental impact indicators studied, along with the Global Warming Potential among them, it slightly increased the value of one indicator related to the use of fossil resources, and it maintained the values of the remaining 8 indicators. Environmental impact reduction occurs due to the avoidance of CO2 and NOx emissions with Chemical Looping Combustion. The CO2 balances of the different pyrolysis approaches with Chemical Looping Combustion configurations were compared with a base case, which constituted the direct combustion of wheat straw to obtain thermal energy. Direct biomass combustion for the production of 17.1 MJ of thermal energy had CO2 positive emissions of 0.165 kg. If the gaseous fraction was burned by Chemical Looping Combustion, CO2 was captured and the emissions became increasingly negative, until a value of −3.30 kg/17.1 MJ was generated. If bio-oil was also burned by this technology, the negative trend of CO2 emissions continued, until they reached a value of −3.66 kg.    
+
+    
+
+## Experimental study of the dynamics and mass transfer of single CO2 bubble accompanied by reactions in Hele-Shaw cell   
+
+OpenAlex: https://openalex.org/W4396957918    
+Open access: True
+    
+[Yudong Ding](https://openalex.org/A5001767707), [Ching-Ta Lu](https://openalex.org/A5002621384), [Hong Wang](https://openalex.org/A5033678375), [Min Cheng](https://openalex.org/A5041969609), [Xun Zhu](https://openalex.org/A5056532764), [Qiang Liu](https://openalex.org/A5057055806), Physics of fluids. 36(5)] 2024.https://doi.org/10.1063/5.0207587 ([pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0207587/19956592/052113_1_5.0207587.pdf)).
+    
+The reduction of carbon emissions has become a critical global issue, and the use of monoethanolamine (MEA) solution for CO2 absorption is prevalent in industry. To elucidate the mass transfer mechanisms in reactive multiphase flow, we employed high-speed photography and digital image processing to examine the dynamics and mass transfer behavior of CO2 bubbles in a Hele-Shaw cell. The results indicate that as the MEA solution concentration increases, oscillations during bubble ascent diminish, and the terminal velocity decreases. Based on changes in the mass transfer coefficient, the reaction process can be segmented into a phase of intensified mass transfer, marked by a rapid decrease in bubble equivalent diameter, and a phase of deteriorating mass transfer, where the diameter stabilizes. Additionally, we introduced a dimensionless mathematical model for the Sherwood number based on experimental findings, and its reliability was confirmed.    
 
     
 
@@ -1313,17 +1335,6 @@ Open access: True
 [Carlos Arnaiz del Pozo](https://openalex.org/A5057648753), [Susana Sánchez Orgaz](https://openalex.org/A5040639984), [Alberto Navarro-Calvo](https://openalex.org/A5097928467), [Ángel Jiménez Álvaro](https://openalex.org/A5003984633), [Schalk Cloete](https://openalex.org/A5006111296), Energies. 17(10)] 2024.https://doi.org/10.3390/en17102334 ([pdf](https://www.mdpi.com/1996-1073/17/10/2334/pdf?version=1715506059)).
     
 : Effective decarbonization of the power generation sector requires a multi-pronged approach, including the implementation of CO2 capture and storage (CCS) technologies. The Graz cycle features oxy-combustion CO2 capture in a power production scheme which can result in higher thermal efficiencies than that of a combined cycle. However, the auxiliary consumption required by the air separation unit to provide pure O2 results in a significant energy penalty relative to an unabated plant. In order to mitigate this penalty, the present study explores the possibility of chemical looping combustion (CLC) as an alternative means to supply oxygen for conversion of the fuel. For a midscale power plant, despite reducing the levelized cost of electricity (LCOE) by approximately 12.6% at a CO2 tax of EUR 100/ton and a natural gas price of EUR 6.5/GJ and eliminating the energy penalty of CCS relative to an unabated combined cycle, the cost reductions of CLC in the Graz cycle were not compelling relative to commercially available post-combustion CO2 capture with amines. Although the central assumptions yielded a 3% lower cost for the Graz-CLC cycle, an uncertainty quantification study revealed an 85.3% overlap in the interquartile LCOE range with that of the amine benchmark, indicating that the potential economic benefit is small compared to the uncertainty of the assessment. Thus, this study indicates that the potential of CLC in gas-fired power production is limited, even when considering highly efficient advanced configurations like the Graz cycle.    
-
-    
-
-## Experimental study of the dynamics and mass transfer of single CO2 bubble accompanied by reactions in Hele-Shaw cell   
-
-OpenAlex: https://openalex.org/W4396957918    
-Open access: True
-    
-[Yudong Ding](https://openalex.org/A5001767707), [Ching-Ta Lu](https://openalex.org/A5002621384), [Hong Wang](https://openalex.org/A5033678375), [Min Cheng](https://openalex.org/A5041969609), [Xun Zhu](https://openalex.org/A5056532764), [Qiang Liu](https://openalex.org/A5057055806), Physics of fluids. 36(5)] 2024.https://doi.org/10.1063/5.0207587 ([pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0207587/19956592/052113_1_5.0207587.pdf)).
-    
-The reduction of carbon emissions has become a critical global issue, and the use of monoethanolamine (MEA) solution for CO2 absorption is prevalent in industry. To elucidate the mass transfer mechanisms in reactive multiphase flow, we employed high-speed photography and digital image processing to examine the dynamics and mass transfer behavior of CO2 bubbles in a Hele-Shaw cell. The results indicate that as the MEA solution concentration increases, oscillations during bubble ascent diminish, and the terminal velocity decreases. Based on changes in the mass transfer coefficient, the reaction process can be segmented into a phase of intensified mass transfer, marked by a rapid decrease in bubble equivalent diameter, and a phase of deteriorating mass transfer, where the diameter stabilizes. Additionally, we introduced a dimensionless mathematical model for the Sherwood number based on experimental findings, and its reliability was confirmed.    
 
     
 
@@ -1415,12 +1426,23 @@ Abstract. The Greenland Ice Sheet (GrIS) stores freshwater equal to more than se
 
     
 
+## 土留壁方式・同時挿入工法による地中熱交換器の採熱特性   
+
+OpenAlex: https://openalex.org/W4397292246    
+Open access: True
+    
+[Fumiaki CHIBA](https://openalex.org/A5098695099), [Hirotake Akata](https://openalex.org/A5002932500), [Makoto Tago](https://openalex.org/A5067725570), [Yoshimi Komatsu](https://openalex.org/A5023847390), [Takashi Ishikami](https://openalex.org/A5034719305), [Satoko Taniguchi](https://openalex.org/A5087707285), [Kenichirou JIN](https://openalex.org/A5098695100), [Toshio Igarashi](https://openalex.org/A5089886884), Nihon Kikai Gakkai ronbunshu. None(None)] 2024.https://doi.org/10.1299/transjsme.24-00031 ([pdf](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_24-00031/_pdf)).
+    
+Ground heat is a renewable energy source that is less affected by atmospheric temperature and maintains a nearly constant temperature throughout the year. Therefore, it can serve as a heat source for hot water and air conditioning systems, resulting in a significant reduction in carbon dioxide emissions compared to conventional systems. In Japan, the recognition of the use of ground heat is still low, and the prices of ground heat exchangers and geothermal heat pumps tend to be high. In addition, the excavation cost is very high, so it is very important to reduce the construction cost. One cost-saving method is to install a ground heat exchanger in the core material of the earth retaining wall, which has been shown to reduce construction costs by more than 50%. In this study, a numerical program was developed to clarify the performance and characteristics of a ground heat exchanger attached to an H-beam in a "Pre-installation method using the earth retaining wall". Then, the factors influencing the heat extraction performance of two U-Tube heat exchangers connected in series, four U-Tube heat exchangers connected in series and two W-Tube heat exchangers connected in series were investigated. Firstly, the validity of the calculation program was confirmed by comparing the numerical results with the experimental thermal response results. Secondly, numerical simulations were performed using the calculation program, and the following results were obtained. Under the conditions defined in this study, we found that the rate of heat extraction increases as the flow rate of the heat extraction medium increases in all ground heat exchangers. However, it becomes difficult to increase the heat extraction when the flow of the heat extraction medium reaches a turbulent area. All three models confirmed that the H-beam expanded the area where the formation temperature changes and increased the temperature of the heat extraction medium. This led to an enhanced heat extraction performance of the ground heat exchanger. Finally, we compared the heat extraction performance of several ground heat exchangers using the 'coefficient of heat extraction or rejection'. The results showed that the four U-Tube model had the highest performance, followed by the two W-Tube model, and the two U-Tube model had the lowest performance, although the differences were small.    
+
+    
+
 ## ENERGY MANAGEMENT SYSTEM (EMS) AS A TOOL IN LIMITING THE COAL TRACE IN INDUSTRY   
 
 OpenAlex: https://openalex.org/W4396952007    
 Open access: True
     
-[Marcin Piekarski](https://openalex.org/A5098661331), [Klaudiusz Grübel](https://openalex.org/A5006594611), Zeszyty Naukowe SGSP. 2(89)] 2024.https://doi.org/10.5604/01.3001.0054.5176.
+[Marcin Piekarski](https://openalex.org/A5098661331), [Klaudiusz Grűbel](https://openalex.org/A5006594611), Zeszyty Naukowe SGSP. 2(89)] 2024.https://doi.org/10.5604/01.3001.0054.5176.
     
 Increasing energy efficiency will be crucial to achieving the climate goals laid out in European Uniondirectives. This is particularly true for industries whose share of heat and energy consumption,with Poland as an example, is about one-third of the total. This challenge entails implicationsboth for the reduction of greenhouse gas emissions, especially CO2, and for maintaining thecompetitiveness of EU industry on the global market. This article presents the basic principlesand application of an Energy Management System – EMS – in industrial processes, together withthe monitoring of Key Energy Performance Indicators – KPIs – as a tool for making informedinvestment decisions to improve the energy efficiency of companies and industrial processes. Anattempt is made to present the situation in Poland in terms of the energy situation, with a focus onthe automotive industry as an example.    
 
@@ -1503,6 +1525,17 @@ Methanol is considered as an essential base chemical, which is widely known for 
 
     
 
+## Effects of steam feeding on microwave heating of cellulose with magnetite used as susceptor   
+
+OpenAlex: https://openalex.org/W4397290004    
+Open access: False
+    
+[Hiroyuki Tamiya](https://openalex.org/A5019903441), [Shuichi Takayama](https://openalex.org/A5003210434), [Keisuke Mukai](https://openalex.org/A5058113313), [Juro Yagi](https://openalex.org/A5031183969), International journal of hydrogen energy. 71(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.05.261.
+    
+Microwave heating (MWH) of lignocellulosic biomass with susceptors has attracted attention for H2 production. In this study, H2 is produced from cellulose via MWH at 800 °C in a steam atmosphere with magnetite used as the susceptor. The effects of steam feeding and MWH on the product yields are experimentally investigated in comparison with conventional heating (CH). The H2 and CO2 yields are increased by steam feeding for both MWH and CH because the water–gas shift reaction occurs. Without steam feeding, MWH enhances H2 and CO production, thereby increasing the maximum energy efficiency. With steam feeding, the steam gasification of C is more predominant for CH than for MWH as the reduction in the C content in the char of CH is higher than that of MWH. MWH reduces the formation of secondary char, and it is therefore expected to overcome issues such as the clogging or blockage of gas lines.    
+
+    
+
 ## NbRe thin film by magnetron sputtering for selective H2, C1 and C3 chemicals synthesis from H2O and CO2   
 
 OpenAlex: https://openalex.org/W4396912236    
@@ -1555,17 +1588,6 @@ Open access: False
 [Kexin Zhang](https://openalex.org/A5089032744), [Tian Xia](https://openalex.org/A5029459610), [Jingping Wang](https://openalex.org/A5055332524), [Qiang Li](https://openalex.org/A5055719442), [Lianpeng Sun](https://openalex.org/A5085600773), [Lili Huo](https://openalex.org/A5025859603), [Hui Zhao](https://openalex.org/A5030028142), Materials today energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101601.
     
 Herein we propose a Ba-site Gd doping protocol in layered perovskites, demonstrating highly active bifunctional PrBa1-xGdxCo2O5+δ electrocatalysts toward oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Benefiting from enhanced oxygen surface exchange and chemical diffusion kinetics, resultant PrBa0.95Gd0.05Co2O5+δ (PBG0.05CO) exhibits an area-specific resistance (ASR) of 0.038 Ω cm2 at 700 oC, reduced by ∼46.5% relative to undoped PrBaCo2O5+δ (PBCO). When evaluated as the air electrode, the as-fabricated single coin fuel cell delivers a peak power density (PPD) of 1230 mW cm-2 at 700 oC. For the CO2-electrolysis at 750 oC, the large current density (J) of 2630 mA cm-2 is achieved in the PBG0.05CO anode-based electrolysis cell at a voltage (V) of 1.8 V. Furthermore, exceptional operating stability is realized in both ORR and OER manners. Our findings highlight an effective strategy to optimize the electrocatalytic properties of layered perovskites, endowing potential applications in energy storage and conversion aspects.    
-
-    
-
-## Effect on combustion performance and emission behavior of diesel engine fueled with hybrid biodiesel produced from a novel ternary oil mixture incorporated with nano additive   
-
-OpenAlex: https://openalex.org/W4396847390    
-Open access: False
-    
-[Brihaspati Singh](https://openalex.org/A5011150341), [Avinash K. Srivastava](https://openalex.org/A5047304927), [Om Prakash](https://openalex.org/A5031761488), Energy sources. Part A, Recovery, utilization, and environmental effects. 46(1)] 2024.https://doi.org/10.1080/15567036.2024.2351149.
-    
-Global energy demand has been above 80% fossil fuels for decades, creating a greater and more complicated energy crisis. Biodiesel is a great alternate energy source for future energy demand. Producing biodiesel from a mixture of waste and non-edible oils may be a practical solution to address the growing global need of biodiesel. In this study, hybrid biodiesel is produced from a ternary oil mixture of Waste cooking oil, Ricinus communis oil, and Melia azedarach oil. The hybrid biodiesel blends are prepared by 10% blending (HB10), 20% blending (HB20) and 30% blending (HB30) and 30ppm multiwall carbon nanotube has been added in the blended fuel through sonicating process. At steady 1500rmp and variable load (0–100%), the engine behavior has been examined. The results show that the hybrid biodiesel blend (HB10) with 30ppm MWCNT has shown highest cylinder pressure of 70.9 bar, maximum mean gas temperature 1467.56°C. The engine shows 34.08% rise in net heat release and 9.13% rise in exhaust gas temperature as compare to diesel. The maximum rise in break thermal efficiency of 19.74% and minimum reduction in break specific fuel consumption of 13.79% is noticed in comparison to B00. The highest reduction of HC emission is found as 20.83% for HB20MWCNT30 and 19.34% for HB30MWCNT30 as compare to B00. The inclusion of multiwall carbon nanotube in hybrid biodiesel reduces the HC, CO, NOx and smoke emission and increases CO2 emission as compare to respective hybrid biodiesel blend and diesel. The hybrid biodiesel-diesel blend, with multiwall carbon nanotube can be utilized efficiently in diesel engine with improved overall engine behavior.    
 
     
 
@@ -1635,28 +1657,6 @@ This study redefines resource efficiency in the renewable energy sector by repur
 
     
 
-## Engineering Ultrathin CuxS Layer on Planar Sb2S3 Photocathode to Enhance Photoelectrochemical Transformation   
-
-OpenAlex: https://openalex.org/W4396956749    
-Open access: False
-    
-[Shuai Zhou](https://openalex.org/A5064078598), [Lijun Zhang](https://openalex.org/A5081589298), [Jian Li](https://openalex.org/A5018867778), [Chen‐Ho Tung](https://openalex.org/A5031380067), [Li‐Zhu Wu](https://openalex.org/A5071014155), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202407836.
-    
-Sb2S3 has been extensively used as light absorber for photoelectrochemical cell. However, its p‐type nature may result in the formation of Schottky junction with substrates, thus hindering the collection of photogenerated holes. Herein, an ultrathin CuxS layer is successfully engineered as the bottom junction for Sb2S3 for the first time. Capitalizing on its impressive electrical properties and superior optical properties, the CuxS layer exhibits a high work function of 4.90 eV, which causes the upward band bending of p‐type Sb2S3, forming a hole‐transparent structure with ohmic contact. The transparency of the ultrathin CuxS layer enables back‐illumination of the Sb2S3/CuxS platform, facilitating the integration of intricate catalyst layers for photoelectrochemical transformation. When modified with Pt nanoparticles, the photocurrent density reaches −5.38 mA cm−2 at 0 V vs. RHE, marking a fourfold increase compared to the photocathode without CuxS layer. When introducing a molecular hybrid TC‐CoPc@carbon black, a remarkable average photocurrent density of −0.44 mA cm−2 at the overpotential of 0 V is obtained for CO2 reduction reaction, while the photocurrent density is less than −0.03 mA cm−2 without CuxS.    
-
-    
-
-## Engineering Ultrathin CuxS Layer on Planar Sb2S3 Photocathode to Enhance Photoelectrochemical Transformation   
-
-OpenAlex: https://openalex.org/W4396976387    
-Open access: False
-    
-[Shuai Zhou](https://openalex.org/A5064078598), [Lijun Zhang](https://openalex.org/A5081589298), [Jian Li](https://openalex.org/A5018867778), [Chen‐Ho Tung](https://openalex.org/A5031380067), [Li‐Zhu Wu](https://openalex.org/A5071014155), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202407836.
-    
-Sb2S3 has been extensively used as light absorber for photoelectrochemical cell. However, its p‐type nature may result in the formation of Schottky junction with substrates, thus hindering the collection of photogenerated holes. Herein, an ultrathin CuxS layer is successfully engineered as the bottom junction for Sb2S3 for the first time. Capitalizing on its impressive electrical properties and superior optical properties, the CuxS layer exhibits a high work function of 4.90 eV, which causes the upward band bending of p‐type Sb2S3, forming a hole‐transparent structure with ohmic contact. The transparency of the ultrathin CuxS layer enables back‐illumination of the Sb2S3/CuxS platform, facilitating the integration of intricate catalyst layers for photoelectrochemical transformation. When modified with Pt nanoparticles, the photocurrent density reaches −5.38 mA cm−2 at 0 V vs. RHE, marking a fourfold increase compared to the photocathode without CuxS layer. When introducing a molecular hybrid TC‐CoPc@carbon black, a remarkable average photocurrent density of −0.44 mA cm−2 at the overpotential of 0 V is obtained for CO2 reduction reaction, while the photocurrent density is less than −0.03 mA cm−2 without CuxS.    
-
-    
-
 ## An Evaluation of the Radioactive Content of Ashes Obtained from the Use of Fuels from Recycled Materials by Co-Processing in the Cement Industry   
 
 OpenAlex: https://openalex.org/W4396857909    
@@ -1723,6 +1723,17 @@ The closed-loop wastewater source heat exchanger (WSHE) has advantages such as b
 
     
 
+## TECHNO-ECONOMIC VIABILITY AND ENVIRONMENTAL ASSESS- MENT STUDY OF SMALL-SCALE GRID-TIED ROOFTOP PV PLANT UNDER CHANGING WEATHER CONDITION   
+
+OpenAlex: https://openalex.org/W4396897235    
+Open access: True
+    
+[Ratan Mandal](https://openalex.org/A5078560783), [Kunal Chowdhury](https://openalex.org/A5039894075), No host. None(None)] 2022.https://doi.org/10.26480/icpesd.03.2022.261.268.
+    
+Land is a big issue in population dense country like India to implement large scale PV plant, whereas Grid-tied PV system is more economic than off- grid system in long run. The solar energy mission of the country will be success- ful if more and more small-scale rooftop plant will be developed. To address this issue and to find out different aspects of small-scale rooftop grid-tied PV plants, a 1kWp rooftop grid-tied PV plant is developed and different aspects of the plant on changed climate condition are studied. The study on the plant performance revealed that panel efficiency, inverter efficiency and overall system efficiency are 12.55%, 94.94% and 11.86% respectively. Array Yield, Reference Yield and final Yield of the plant are found to be 4.74,5.002 and 4.45 respectively. Also, authors analyzed capture loss, system loss and performance ratio are found to be 0.262,0.29 and 0.89 respectively. Reduction of the overall plant efficiency due to dust accumulation over the panels with changed climate condition is 0.6% for lower radiation levels and 1.6% for higher radiation levels after 4 consecutive non-cleaning days in Kolkata. Overall efficiency drops to 6.45% from 12.545% for continuous 60 non- cleaning days. From the environmental point of view the plant generates around 1149.75 kWh of electricity and fed to the grid which in turn reduces around 0.9 tons of CO2 to mix with the atmosphere annually. Apart from that the system has been compared with the simulation study in PV sol soft- ware and the production forecast, panel temperature and performance ratio has been carried out for annual basis. The payback period of the plant is evaluated as 11 years which is far less than the total life span of the plant which is 25 years. So, the results from the study sound positive for small scale grid-tied rooftop plants.    
+
+    
+
 ## Numerical-experimental investigation of a wind tower-room sustainable system: A parametric analysis of the mixed convection with humidification.   
 
 OpenAlex: https://openalex.org/W4396887360    
@@ -1742,17 +1753,6 @@ Open access: False
 [Laura Donahue](https://openalex.org/A5012297221), [Hayley J. Petit](https://openalex.org/A5071302405), [Cassandra L. Thiel](https://openalex.org/A5045594121), [Gwyneth A. Sullivan](https://openalex.org/A5044400431), [Brian C. Gulack](https://openalex.org/A5060253784), [Ami N. Shah](https://openalex.org/A5021771263), The Journal of surgical research/Journal of surgical research. 299(None)] 2024.https://doi.org/10.1016/j.jss.2024.04.007.
     
 Introduction Surgical cap attire plays an important role in creating a safe and sterile environment in procedural suites, thus the choice of reusable versus disposable caps has become an issue of much debate. Given the lack of evidence for differences in surgical site infection (SSI) risk between the two, selecting the cap option with a lower carbon footprint may reduce the environmental impact of surgical procedures. However, many institutions continue to recommend the use of disposable bouffant caps. Methods ISO-14044 guidelines were used to complete a process-based life cycle assessment to compare the environmental impact of disposable bouffant caps and reusable cotton caps, specifically focusing on CO2 equivalent (CO2e) emissions, water use and health impacts. Results Reusable cotton caps reduced CO2e emissions by 79% when compared to disposable bouffant caps (10 kg versus 49 kg CO2e) under the base model scenario with a similar reduction seen in disability-adjusted life years. However, cotton caps were found to be more water intensive than bouffant caps (67.56 L versus 12.66 L) with the majority of water use secondary to production or manufacturing. Conclusions Reusable cotton caps have lower total lifetime CO2e emissions compared to disposable bouffant caps across multiple use scenarios. Given the lack of evidence suggesting a superior choice for surgical site infection prevention, guidelines should recommend reusable cotton caps to reduce the environmental impact of surgical procedures.    
-
-    
-
-## TECHNO-ECONOMIC VIABILITY AND ENVIRONMENTAL ASSESS- MENT STUDY OF SMALL-SCALE GRID-TIED ROOFTOP PV PLANT UNDER CHANGING WEATHER CONDITION   
-
-OpenAlex: https://openalex.org/W4396897235    
-Open access: True
-    
-[Ratan Mandal](https://openalex.org/A5078560783), [Kunal Chowdhury](https://openalex.org/A5039894075), No host. None(None)] 2022.https://doi.org/10.26480/icpesd.03.2022.261.268.
-    
-Land is a big issue in population dense country like India to implement large scale PV plant, whereas Grid-tied PV system is more economic than off- grid system in long run. The solar energy mission of the country will be success- ful if more and more small-scale rooftop plant will be developed. To address this issue and to find out different aspects of small-scale rooftop grid-tied PV plants, a 1kWp rooftop grid-tied PV plant is developed and different aspects of the plant on changed climate condition are studied. The study on the plant performance revealed that panel efficiency, inverter efficiency and overall system efficiency are 12.55%, 94.94% and 11.86% respectively. Array Yield, Reference Yield and final Yield of the plant are found to be 4.74,5.002 and 4.45 respectively. Also, authors analyzed capture loss, system loss and performance ratio are found to be 0.262,0.29 and 0.89 respectively. Reduction of the overall plant efficiency due to dust accumulation over the panels with changed climate condition is 0.6% for lower radiation levels and 1.6% for higher radiation levels after 4 consecutive non-cleaning days in Kolkata. Overall efficiency drops to 6.45% from 12.545% for continuous 60 non- cleaning days. From the environmental point of view the plant generates around 1149.75 kWh of electricity and fed to the grid which in turn reduces around 0.9 tons of CO2 to mix with the atmosphere annually. Apart from that the system has been compared with the simulation study in PV sol soft- ware and the production forecast, panel temperature and performance ratio has been carried out for annual basis. The payback period of the plant is evaluated as 11 years which is far less than the total life span of the plant which is 25 years. So, the results from the study sound positive for small scale grid-tied rooftop plants.    
 
     
 
@@ -1827,7 +1827,7 @@ In Sub-Saharan Africa (SSA), the capacity to generate energy faces significant h
 OpenAlex: https://openalex.org/W4396978316    
 Open access: False
     
-[Billal Maydika Aslam](https://openalex.org/A5015738141), [Bicheng Yan](https://openalex.org/A5081032657), [Knut–Andreas Lie](https://openalex.org/A5040515504), [Stein Krogstad](https://openalex.org/A5003792251), [Olav Møyner](https://openalex.org/A5066325589), [Xupeng He](https://openalex.org/A5009325358), No host. None(None)] 2024.https://doi.org/10.2118/219110-ms.
+[Billal Maydika Aslam](https://openalex.org/A5015738141), [Bicheng Yan](https://openalex.org/A5081032657), [Knut‐Andreas Lie](https://openalex.org/A5040515504), [Stein Krogstad](https://openalex.org/A5003792251), [Olav Møyner](https://openalex.org/A5066325589), [Xupeng He](https://openalex.org/A5009325358), No host. None(None)] 2024.https://doi.org/10.2118/219110-ms.
     
 Abstract Fractured reservoir simulation is important and applicable to understand many processes related to subsurface geo-energy recovery and storage, such as shale gas/oil, enhanced geothermal systems, and CO2 sequestration in basaltic rocks. However, such simulations are often computationally expensive to capture the high contrast of permeability and pore volume between matrix and fracture. Therefore, a reduced order model (ROM) can be extremely beneficial for fractured reservoir simulation to reduce computational costs for iterative history-matching and reservoir optimization workflows. In this study, we propose a novel ROM that flexibly honors fracture representations, namely DiagNet. In DiagNet, we generate the coarse matrix nodes based on the reservoir outlines, and add extra diagonal connections between non-neighboring matrix nodes if intersecting fractures traverse them, which avoids the inclusion of additional fracture nodes. Since dimensionality reduction methods, such as Principal Component Analysis (PCA) can facilitate the model parameterization, we adopt PCA to generate quality priors for sampling of the matrix transmissibility and pore volume arrays. Further, the DiagNet models are then calibrated to the well observation data (such as well flow rates and bottom-hole pressures), and a gradient-based optimization method is implemented in a general automatic-differentiable simulator framework to tune the model parameters (e.g., matrix/fracture transmissibilities, pore volumes, and well indices). Our results show that we can perform robust calibration of DiagNet based on the synthetic well observation data from a fine-scale reference simulation model. We have found that it is necessary to incorporate the dominant flow physics (i.e., water breakthrough) from the observation data to improve the training convergence and the prediction accuracy for DiagNet. Further, PCA for parameterization improves the convergence rate of model calibration, as compared to random initialization. Interpretation of the calibrated transmissibility field from DiagNet aligns with high connectivity regions from the fine-scale reference model. As a result, the new DiagNet is interpretable in terms of reservoir connectivity or geology and thus can be used for reservoir history-matching using observation data from the field and the further optimization.    
 

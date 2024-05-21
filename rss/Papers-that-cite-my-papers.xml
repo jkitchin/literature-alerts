@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 May 2024 01:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 01:05:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Single-Atom Electrocatalysts Anchored on Phosphoniobic Acid (M&lt;sub&gt;1&lt;/sub&gt;/PNb&lt;sub&gt;12&lt;/sub&gt;O&lt;sub&gt;40&lt;/sub&gt;) Cluster for Water Splitting (HER/OER) and Metal-Air Batteries (ORR)</title>
-      <link>https://doi.org/10.1021/acsmaterialslett.4c00349</link>
-      <description>Sajjad Hussain, Shamraiz Hussain Talib, Babar Ali, Sharmarke Mohamed, Ahsanulhaq Qurashi, Jun Li, Zhansheng Lu, ACS materials letters. None(None)] 2024. https://openalex.org/W4396844986
-
-                No abstract</description>
-      <author>Sajjad Hussain, Shamraiz Hussain Talib, Babar Ali, Sharmarke Mohamed, Ahsanulhaq Qurashi, Jun Li, Zhansheng Lu</author>
-      <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00349</guid>
-    </item>
-    <item>
-      <title>Understanding the First Activation Step of Electrochemical CO2 Reduction over Ag and Ni-N-C Active Sites</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109728</link>
-      <description>Yujie Wang, Jungho Kim, Hyun Dong Jung, Jun Liu, Ke Yao, Chuan Xia, Seoin Back, Kun Jiang, Nano energy. None(None)] 2024. https://openalex.org/W4396846502
-
-                No abstract</description>
-      <author>Yujie Wang, Jungho Kim, Hyun Dong Jung, Jun Liu, Ke Yao, Chuan Xia, Seoin Back, Kun Jiang</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109728</guid>
-    </item>
     <item>
       <title>Catalytic Hydrogenation of Carbon Dioxide as a Method to Produce Valuable Chemicals</title>
       <link>https://doi.org/10.1134/s2070050424010045</link>
@@ -556,6 +536,26 @@
       <author>Jinjie Fang, Haiyong Wang, Dianwei Qian, Hao Wang, Xingdong Wang, Jiajing Pei, Zhiyuan Xu, Chengjin Chen, Wei Zhu, Hui Li, Yushan Yan, Zhongbin Zhuang</author>
       <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-48672-9</guid>
+    </item>
+    <item>
+      <title>Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160299</link>
+      <description>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan, Applied surface science. None(None)] 2024. https://openalex.org/W4397289374
+
+                Single-cluster catalysts (SCCs) have emerged as highly efficient catalysts for the CO2 reduction reaction (CO2RR), providing a promising avenue to solve the carbon dilemma. Based on density functional theory calculations, we systematically investigated the capability of 12 tetra-atom transitional-metal clusters anchored on g-CN (TM4@g-CN) for CO2RR and found that all clusters have good stability on the substrate. Notably, the charge variation of the top metal atom (TM4) of six SCCs is close to zero which makes them readily donate electrons to the adsorbate CO2 and subsequent reaction intermediates. Our results demonstrate that CO2 can be efficiently reduced to HCOOH on Ni4, Cu4, and Au4@g-CN with low limiting potentials of &#8722;0.21, &#8722;0.22, and &#8722;0.19 V, respectively, outperforming the corresponding single-atom counterparts. Both &#916;G(&#8727;CO2) and &#916;G(&#8727;OCHO/&#8727;COOH) exhibit a volcano relationship with the reaction activity, and the TM4 serves as electron reservoirs throughout the entire reaction process. This work offers valuable insights for the advancement of cost-effective supported single cluster catalysts.</description>
+      <author>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160299</guid>
+    </item>
+    <item>
+      <title>Single atom catalysts with anion center toward oxygen electrocatalysis based on the conductive 1T-HfTe2</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115548</link>
+      <description>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang, Journal of catalysis. None(None)] 2024. https://openalex.org/W4397292015
+
+                Advancing efficient catalysts for oxygen reduction reaction (ORR) or oxygen evolution reaction (OER) is imperative for commercializing emerging energy devices. Using density functional theory (DFT) calculations, we propose doping different transition metal (TM) atoms to regulate the electronic structures of the two-dimensional 1T-HfTe2 monolayer to achieve bifunctional catalysis for the ORR/OER. Due to the small electronegativity of the Hf atom, we found the doped TMs can generally form anion centers by accepting abundant charges from the Hf interlayer. At the same time, the highly conductive 1T-HfTe2 contributes to the charge transfer between the active center and the reaction intermediates, rendering the designed SACs the tunable activity for the reactions. By comparing the theoretical overpotentials of ORR and OER on 15 single-atom catalysts (SACs), Pt-doped system exhibits excellent catalytic activity for both ORR and OER, outperforming the traditional Pt(1 1 1) and RuO2(1 1 0) catalysts. Based on the charge transfer mechanism, we clarified that the doped TM atoms act as a 'bridge' to transfer the electrons from the substrate to the reaction intermediates, thereby effectively contributing to the improvement of catalytic activity. In summary, our study shows that, by doping appropriate TM atoms, the intrinsic inert HfTe2 can be activated toward efficient ORR/OER. This could provide some guidance for the design of new two-dimensional ORR/OER bifunctional catalyst materials.</description>
+      <author>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115548</guid>
     </item>
     <item>
       <title>Amine-functionalized macroporous resin for direct air capture with high CO2 capacity in real atmospheric conditions: Effects of moisture and oxygen</title>

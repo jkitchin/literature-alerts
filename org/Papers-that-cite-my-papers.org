@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon May 20 01:06:24 2024
+Created on Tue May 21 01:05:49 2024
 
-Found 57 results from 2024-05-13 to 2024-05-20
+Found 57 results from 2024-05-14 to 2024-05-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881]]
@@ -13,48 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023]]
-
-* Single-Atom Electrocatalysts Anchored on Phosphoniobic Acid (M1/PNb12O40) Cluster for Water Splitting (HER/OER) and Metal-Air Batteries (ORR)  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396844986
-:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Ammonia Synthesis and Electrocatalysis
-:PUBLICATION_DATE: 2024-05-12
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.4c00349")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396844986"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396844986"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396844986"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396844986 (Open access: False)
-    
-[[https://openalex.org/A5027906141][Sajjad Hussain]], [[https://openalex.org/A5046716176][Shamraiz Hussain Talib]], [[https://openalex.org/A5001710460][Babar Ali]], [[https://openalex.org/A5011585410][Sharmarke Mohamed]], [[https://openalex.org/A5023827413][Ahsanulhaq Qurashi]], [[https://openalex.org/A5059858234][Jun Li]], [[https://openalex.org/A5064490904][Zhansheng Lu]], ACS materials letters. None(None)] 2024. https://doi.org/10.1021/acsmaterialslett.4c00349 
-     
-No abstract    
-
-    
-
-* Understanding the First Activation Step of Electrochemical CO2 Reduction over Ag and Ni-N-C Active Sites  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396846502
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.nanoen.2024.109728")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396846502"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396846502"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396846502"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396846502 (Open access: False)
-    
-[[https://openalex.org/A5035542752][Yujie Wang]], [[https://openalex.org/A5076147859][Jungho Kim]], [[https://openalex.org/A5024496166][Hyun Dong Jung]], [[https://openalex.org/A5007474800][Jun Liu]], [[https://openalex.org/A5086258053][Ke Yao]], [[https://openalex.org/A5014622289][Chuan Xia]], [[https://openalex.org/A5058710447][Seoin Back]], [[https://openalex.org/A5002267722][Kun Jiang]], Nano energy. None(None)] 2024. https://doi.org/10.1016/j.nanoen.2024.109728 
-     
-No abstract    
-
-    
 
 * Catalytic Hydrogenation of Carbon Dioxide as a Method to Produce Valuable Chemicals  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -1166,6 +1124,48 @@ OpenAlex: https://openalex.org/W4397033739 (Open access: True)
 [[https://openalex.org/A5058504115][Jinjie Fang]], [[https://openalex.org/A5032470217][Haiyong Wang]], [[https://openalex.org/A5043490720][Dianwei Qian]], [[https://openalex.org/A5031013674][Hao Wang]], [[https://openalex.org/A5000910994][Xingdong Wang]], [[https://openalex.org/A5023582351][Jiajing Pei]], [[https://openalex.org/A5059433529][Zhiyuan Xu]], [[https://openalex.org/A5093881243][Chengjin Chen]], [[https://openalex.org/A5068308955][Wei Zhu]], [[https://openalex.org/A5006969906][Hui Li]], [[https://openalex.org/A5029624856][Yushan Yan]], [[https://openalex.org/A5076411026][Zhongbin Zhuang]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-48672-9  ([[https://www.nature.com/articles/s41467-024-48672-9.pdf][pdf]])
      
 Abstract Hydroxide exchange membrane fuel cells (HEMFCs) have the advantages of using cost-effective materials, but hindered by the sluggish anodic hydrogen oxidation reaction (HOR) kinetics. Here, we report an atomically dispersed Ir on Mo 2 C nanoparticles supported on carbon (Ir SA -Mo 2 C/C) as highly active and stable HOR catalysts. The specific exchange current density of Ir SA -Mo 2 C/C is 4.1 mA cm −2 ECSA , which is 10 times that of Ir/C. Negligible decay is observed after 30,000-cycle accelerated stability test. Theoretical calculations suggest the high HOR activity is attributed to the unique Mo 2 C substrate, which makes the Ir sites with optimized H binding and also provides enhanced OH binding sites. By using a low loading (0.05 mg Ir cm −2 ) of Ir SA -Mo 2 C/C as anode, the fabricated HEMFC can deliver a high peak power density of 1.64 W cm −2 . This work illustrates that atomically dispersed precious metal on carbides may be a promising strategy for high performance HEMFCs.    
+
+    
+
+* Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397289374
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-05-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.apsusc.2024.160299")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397289374"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397289374"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397289374"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397289374 (Open access: False)
+    
+[[https://openalex.org/A5006879069][Wenjing Zhou]], [[https://openalex.org/A5054752343][Xuxin Kang]], [[https://openalex.org/A5040133039][Shan Gao]], [[https://openalex.org/A5000121893][Xiangmei Duan]], Applied surface science. None(None)] 2024. https://doi.org/10.1016/j.apsusc.2024.160299 
+     
+Single-cluster catalysts (SCCs) have emerged as highly efficient catalysts for the CO2 reduction reaction (CO2RR), providing a promising avenue to solve the carbon dilemma. Based on density functional theory calculations, we systematically investigated the capability of 12 tetra-atom transitional-metal clusters anchored on g-CN (TM4@g-CN) for CO2RR and found that all clusters have good stability on the substrate. Notably, the charge variation of the top metal atom (TM4) of six SCCs is close to zero which makes them readily donate electrons to the adsorbate CO2 and subsequent reaction intermediates. Our results demonstrate that CO2 can be efficiently reduced to HCOOH on Ni4, Cu4, and Au4@g-CN with low limiting potentials of −0.21, −0.22, and −0.19 V, respectively, outperforming the corresponding single-atom counterparts. Both ΔG(∗CO2) and ΔG(∗OCHO/∗COOH) exhibit a volcano relationship with the reaction activity, and the TM4 serves as electron reservoirs throughout the entire reaction process. This work offers valuable insights for the advancement of cost-effective supported single cluster catalysts.    
+
+    
+
+* Single atom catalysts with anion center toward oxygen electrocatalysis based on the conductive 1T-HfTe2  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397292015
+:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-05-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcat.2024.115548")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397292015"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397292015"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397292015"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397292015 (Open access: True)
+    
+[[https://openalex.org/A5033266172][Xinyu Yang]], [[https://openalex.org/A5000994147][Long Lin]], [[https://openalex.org/A5082750032][Xiangyu Guo]], [[https://openalex.org/A5041384147][Shengli Zhang]], Journal of catalysis. None(None)] 2024. https://doi.org/10.1016/j.jcat.2024.115548 
+     
+Advancing efficient catalysts for oxygen reduction reaction (ORR) or oxygen evolution reaction (OER) is imperative for commercializing emerging energy devices. Using density functional theory (DFT) calculations, we propose doping different transition metal (TM) atoms to regulate the electronic structures of the two-dimensional 1T-HfTe2 monolayer to achieve bifunctional catalysis for the ORR/OER. Due to the small electronegativity of the Hf atom, we found the doped TMs can generally form anion centers by accepting abundant charges from the Hf interlayer. At the same time, the highly conductive 1T-HfTe2 contributes to the charge transfer between the active center and the reaction intermediates, rendering the designed SACs the tunable activity for the reactions. By comparing the theoretical overpotentials of ORR and OER on 15 single-atom catalysts (SACs), Pt-doped system exhibits excellent catalytic activity for both ORR and OER, outperforming the traditional Pt(1 1 1) and RuO2(1 1 0) catalysts. Based on the charge transfer mechanism, we clarified that the doped TM atoms act as a 'bridge' to transfer the electrons from the substrate to the reaction intermediates, thereby effectively contributing to the improvement of catalytic activity. In summary, our study shows that, by doping appropriate TM atoms, the intrinsic inert HfTe2 can be activated toward efficient ORR/OER. This could provide some guidance for the design of new two-dimensional ORR/OER bifunctional catalyst materials.    
 
     
 
