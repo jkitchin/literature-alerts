@@ -1,21 +1,10 @@
 # liquid-metal
 Description: low temperature liquid metals
-Created on Tue May 21 18:27:59 2024
+Created on Wed May 22 01:06:11 2024
 
-Found 3 results from 2024-05-14 to 2024-05-21
+Found 2 results from 2024-05-15 to 2024-05-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%22liquid%20metal%22%20AND%20%28catalyst%20OR%20catalysis%29)
-
-## Structural Evolution of Liquid Metals and Alloys   
-
-OpenAlex: https://openalex.org/W4396856025    
-Open access: False
-    
-[Vaishnavi Krishnamurthi](https://openalex.org/A5046145312), [Ph. Vaillant](https://openalex.org/A5019680286), [Jitendra Mata](https://openalex.org/A5080396231), [Chung Kim Nguyen](https://openalex.org/A5045506863), [Caiden J. Parker](https://openalex.org/A5074271382), [Karma Zuraiqi](https://openalex.org/A5049005415), [Gary Bryant](https://openalex.org/A5038505644), [Kin Seng Chiang](https://openalex.org/A5062642046), [Salvy P. Russo](https://openalex.org/A5005167263), [Andrew J. Christofferson](https://openalex.org/A5073206123), [Aaron Elbourne](https://openalex.org/A5031027699), [Torben Daeneke](https://openalex.org/A5091422934), Advanced materials. None(None)] 2024.https://doi.org/10.1002/adma.202403885.
-    
-Abstract Low‐melting liquid metals are emerging as a new group of highly functional solvents due to their capability to dissolve and alloy various metals in their elemental state to form solutions as well as colloidal systems. Furthermore, these liquid metals can facilitate and catalyze multiple unique chemical reactions. Despite the intriguing science behind liquid metals and alloys, very little is known about their fundamental structures in the nanometric regime. To bridge this gap, this work employs small angle neutron scattering and molecular dynamics simulations, revealing that the most commonly used liquid metal solvents, EGaIn and Galinstan, are surprisingly structured with the formation of clusters ranging from 157 Å to 15.7 Å. Conversely, non‐eutectic liquid metal alloys of GaSn or GaIn at low solute concentrations of 1, 2, and 5wt%, as well as pure Ga, do not exhibit these structures. Importantly, the eutectic alloys retain their structure even at elevated temperatures of 60 and 90 °C, highlighting that they are not just simple homogeneous fluids consisting of individual atoms. Understanding the complex soft structure of liquid alloys will assist in comprehending complex phenomena occurring within these fluids and contribute to deriving reaction mechanisms in the realm of synthesis and liquid metal‐based catalysis. This article is protected by copyright. All rights reserved    
-
-    
 
 ## Applications of Liquid Metals   
 

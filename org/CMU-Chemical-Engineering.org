@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue May 21 18:28:04 2024
+Created on Wed May 22 01:06:14 2024
 
-Found 24 results from 2024-05-14 to 2024-05-21
+Found 29 results from 2024-05-15 to 2024-05-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -93,7 +93,7 @@ This presentation will report the rational design and fabrication of NETL's high
 * CCDC 1015545: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397063541
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2015-01-01
 :END:    
     
@@ -105,7 +105,7 @@ This presentation will report the rational design and fabrication of NETL's high
 
 OpenAlex: https://openalex.org/W4397063541 (Open access: True)
     
-[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2015. https://doi.org/10.5517/cc132rjg 
+[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2015. https://doi.org/10.5517/cc132rjg 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -114,7 +114,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 * CCDC 1013214: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397105919
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2015-01-01
 :END:    
     
@@ -126,7 +126,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397105919 (Open access: True)
     
-[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2015. https://doi.org/10.5517/cc130bbs 
+[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2015. https://doi.org/10.5517/cc130bbs 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -135,7 +135,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 * CCDC 1013212: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397108799
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2015-01-01
 :END:    
     
@@ -147,7 +147,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397108799 (Open access: True)
     
-[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2015. https://doi.org/10.5517/cc130b8q 
+[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2015. https://doi.org/10.5517/cc130b8q 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -168,7 +168,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397182666 (Open access: True)
     
-[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5016011694][Christopher Michas]], [[https://openalex.org/A5013398806][David Allenger]], [[https://openalex.org/A5078568778][Ilya Piskun]], [[https://openalex.org/A5055733181][Peter S. Coutros]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2015. https://doi.org/10.5517/cc14k2yq 
+[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5016011694][Christopher Michas]], [[https://openalex.org/A5013398806][David Allenger]], [[https://openalex.org/A5078568778][Ilya Piskun]], [[https://openalex.org/A5055733181][Peter S. Coutros]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2015. https://doi.org/10.5517/cc14k2yq 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -177,7 +177,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 * CCDC 1013215: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397214700
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2015-01-01
 :END:    
     
@@ -189,7 +189,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397214700 (Open access: True)
     
-[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2015. https://doi.org/10.5517/cc130bct 
+[[https://openalex.org/A5008678455][Kamalkishore Pati]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5034915017][Trevor Harris]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5042549842][Hoa Phan]], [[https://openalex.org/A5067485457][Tanmay Banerjee]], [[https://openalex.org/A5010923945][Kenneth Hanson]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2015. https://doi.org/10.5517/cc130bct 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -300,6 +300,27 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
     
 
+* CCDC 984432: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397493097
+:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2017-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5517/ccdc.csd.cc121cwc")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397493097"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397493097"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397493097"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397493097 (Open access: True)
+    
+[[https://openalex.org/A5086391621][Kseniya N. Sedenkova]], [[https://openalex.org/A5065380877][Elena B. Averina]], [[https://openalex.org/A5063399033][Yuri K. Grishin]], [[https://openalex.org/A5049203714][Julia V. Kolodyazhnaya]], [[https://openalex.org/A5087087375][Victor B. Rybakov]], [[https://openalex.org/A5068178730][Т. S. Kuznetsova]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5035371460][Н. С. Зефиров]], The Cambridge Structural Database. None(None)] 2017. https://doi.org/10.5517/ccdc.csd.cc121cwc 
+     
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
 * CCDC 1561092: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397494117
@@ -366,7 +387,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 * CCDC 1586928: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397309570
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2018-01-01
 :END:    
     
@@ -378,7 +399,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397309570 (Open access: True)
     
-[[https://openalex.org/A5019098305][Vera A. Vil’]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5054516792][Oleg V. Bityukov]], [[https://openalex.org/A5012756209][Konstantin А. Lyssenko]], [[https://openalex.org/A5029681803][G. I. Nikishin]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5071254649][Alexander O. Terent’ev]], No host. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1q8b7k 
+[[https://openalex.org/A5019098305][Vera A. Vil’]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5054516792][Oleg V. Bityukov]], [[https://openalex.org/A5012756209][Konstantin А. Lyssenko]], [[https://openalex.org/A5029681803][G. I. Nikishin]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5071254649][Alexander O. Terent’ev]], The Cambridge Structural Database. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1q8b7k 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -387,7 +408,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 * CCDC 1589392: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397328850
-:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:TOPICS: Powder Diffraction Analysis, Crystallization Processes and Control, Noncovalent Interactions in Molecular Crystals and Supramolecular Chemistry
 :PUBLICATION_DATE: 2018-01-01
 :END:    
     
@@ -399,7 +420,7 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
 OpenAlex: https://openalex.org/W4397328850 (Open access: True)
     
-[[https://openalex.org/A5032901261][Nikolay P. Tsvetkov]], [[https://openalex.org/A5035197686][Edgar González-Rodríguez]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5072638711][Frankie D. White]], [[https://openalex.org/A5065409241][Febin Kuriakose]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], No host. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1qbwqn 
+[[https://openalex.org/A5032901261][Nikolay P. Tsvetkov]], [[https://openalex.org/A5035197686][Edgar González-Rodríguez]], [[https://openalex.org/A5046372591][Audrey Hughes]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5072638711][Frankie D. White]], [[https://openalex.org/A5065409241][Febin Kuriakose]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], The Cambridge Structural Database. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1qbwqn 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -421,6 +442,27 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 OpenAlex: https://openalex.org/W4397338147 (Open access: True)
     
 [[https://openalex.org/A5051601607][Ivan A. Yaremenko]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5082572698][Peter S. Radulov]], [[https://openalex.org/A5013092004][Yulia Yu. Belyakova]], [[https://openalex.org/A5070538942][Anatoliy E. Vilikotskiy]], [[https://openalex.org/A5019098305][Vera A. Vil’]], [[https://openalex.org/A5056067121][Alexander A. Korlyukov]], [[https://openalex.org/A5029681803][G. I. Nikishin]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5071254649][Alexander O. Terent’ev]], The Cambridge Structural Database. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1yxyyr 
+     
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+* CCDC 1586930: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397409836
+:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2018-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5517/ccdc.csd.cc1q8b9m")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397409836"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397409836"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397409836"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397409836 (Open access: True)
+    
+[[https://openalex.org/A5019098305][Vera A. Vil’]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5038777467][Maria V. Ekimova]], [[https://openalex.org/A5012756209][Konstantin А. Lyssenko]], [[https://openalex.org/A5079921048][Mikhail A. Syroeshkin]], [[https://openalex.org/A5029681803][G. I. Nikishin]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5071254649][Alexander O. Terent’ev]], The Cambridge Structural Database. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1q8b9m 
      
 An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
 
@@ -489,6 +531,48 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 
     
 
+* CCDC 1815295: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397547921
+:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2018-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5517/ccdc.csd.cc1yxyxq")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397547921"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397547921"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397547921"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397547921 (Open access: True)
+    
+[[https://openalex.org/A5051601607][Ivan A. Yaremenko]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5082572698][Peter S. Radulov]], [[https://openalex.org/A5013092004][Yulia Yu. Belyakova]], [[https://openalex.org/A5070538942][Anatoliy E. Vilikotskiy]], [[https://openalex.org/A5019098305][Vera A. Vil’]], [[https://openalex.org/A5056067121][Alexander A. Korlyukov]], [[https://openalex.org/A5029681803][G. I. Nikishin]], [[https://openalex.org/A5041763415][Igor V. Alabugin]], [[https://openalex.org/A5071254649][Alexander O. Terent’ev]], The Cambridge Structural Database. None(None)] 2018. https://doi.org/10.5517/ccdc.csd.cc1yxyxq 
+     
+An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+
+    
+
+* CCDC 1906779: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4397609971
+:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2019-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5517/ccdc.csd.cc220509")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4397609971"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4397609971"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4397609971"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4397609971 (Open access: True)
+    
+[[https://openalex.org/A5024276528][Robert E. Lee]], [[https://openalex.org/A5052935428][Bryan S. Bashrum]], [[https://openalex.org/A5083837065][Ethan C. Cagle]], [[https://openalex.org/A5045293392][Jillian Walters]], [[https://openalex.org/A5066464537][Jake Massey]], [[https://openalex.org/A5038824830][Monica Zanghi]], [[https://openalex.org/A5069655595][Carolyn Birchfield]], [[https://openalex.org/A5002556770][David French]], [[https://openalex.org/A5066141462][Jessica Joy]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5035076738][Paul A. Wiget]], The Cambridge Structural Database. None(None)] 2019. https://doi.org/10.5517/ccdc.csd.cc220509 
+     
+No abstract    
+
+    
+
 * CCDC 1906780: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
 :PROPERTIES:
 :UUID: https://openalex.org/W4397827307
@@ -505,6 +589,27 @@ An entry from the Cambridge Structural Database, the world’s repository for sm
 OpenAlex: https://openalex.org/W4397827307 (Open access: True)
     
 [[https://openalex.org/A5024276528][Robert E. Lee]], [[https://openalex.org/A5052935428][Bryan S. Bashrum]], [[https://openalex.org/A5083837065][Ethan C. Cagle]], [[https://openalex.org/A5045293392][Jillian Walters]], [[https://openalex.org/A5066464537][Jake Massey]], [[https://openalex.org/A5038824830][Monica Zanghi]], [[https://openalex.org/A5069655595][Carolyn Birchfield]], [[https://openalex.org/A5060819177][David N. French]], [[https://openalex.org/A5066141462][Jessica Joy]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5035076738][Paul A. Wiget]], The Cambridge Structural Database. None(None)] 2019. https://doi.org/10.5517/ccdc.csd.cc22051b 
+     
+No abstract    
+
+    
+
+* CCDC 1956031: Experimental Crystal Structure Determination  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4398031232
+:TOPICS: Crystallization Processes and Control, Powder Diffraction Analysis
+:PUBLICATION_DATE: 2020-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.5517/ccdc.csd.cc23ndsz")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4398031232"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4398031232"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4398031232"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4398031232 (Open access: True)
+    
+[[https://openalex.org/A5041538362][Diego B. Diaz]], [[https://openalex.org/A5014838330][Solomon D. Appavoo]], [[https://openalex.org/A5087096972][Anastasia F. Bogdanchikova]], [[https://openalex.org/A5007633401][Yury Lebedev]], [[https://openalex.org/A5071218647][Timothy J. McTiernan]], [[https://openalex.org/A5048633127][Gabriel Gomes]], [[https://openalex.org/A5081408580][Andrei K. Yudin]], The Cambridge Structural Database. None(None)] 2020. https://doi.org/10.5517/ccdc.csd.cc23ndsz 
      
 No abstract    
 
