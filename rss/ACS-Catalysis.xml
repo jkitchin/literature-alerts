@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 May 2024 01:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 01:05:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Homo- and Cross-Coupling of Phenylacetylenes and &#945;-Hydroxyacetylenes Catalyzed by a Square-Planar Rhodium Monohydride</title>
-      <link>https://doi.org/10.1021/acscatal.4c00264</link>
-      <description>Laura A. de las Heras, Miguel A. Esteruelas, Montserrat Oliv&#225;n, Enrique O&#241;ate, ACS catalysis. None(None)] 2024. https://openalex.org/W4396884480
-
-                The C&#8211;C triple bond of phenylacetylene undergoes the anti-Markovnikov addition of the Rh&#8211;H bond of RhH{&#954;3-P,O,P-[xant(PiPr2)2]} (1; xant(PiPr2)2 = 9,9-dimethyl-4,5-bis(diisopropylphosphino)xanthene) to give Rh{(E)&#8211;CH&#9552;CHPh}{&#954;3-P,O,P-[xant(PiPr2)2]} (2), which reacts with a second alkyne molecule to produce Rh(C&#8801;CPh){&#954;3-P,O,P-[xant(PiPr2)2]} (3) and styrene before the transformation from 1 to 2 is complete. The metal center of 3 undergoes the oxidative addition of the C(sp)&#8211;H bond of another alkyne molecule to produce RhH(C&#8801;CPh)2{&#954;3-P,O,P-[xant(PiPr2)2]} (4), which also reacts with more phenylacetylene before completing the transformation from 3 to 4. The reaction leads to Rh{(E)&#8211;CH&#9552;CHPh}(C&#8801;CPh)2{&#954;3-P,O,P-[xant(PiPr2)2]} (5), which reductively eliminates (E)-1,4-diphenyl-1-buten-3-yne to regenerate 3. Complexes 3, 4, and 5 constitute a cycle for head-to-head dimerization of phenylacetylene. Consequently, complex 1 promotes the catalytic homocoupling of terminal alkynes to (E)-enynes, including the dimerization of &#945;-hydroxyacetylenes to (E)-enyne-diols. The rate-determining step of the couplings depends on the nature of the alkyne, being the insertion of the C&#8211;C triple bond into the Rh&#8211;H bond of a bis(acetylide)-rhodium(III)-hydride intermediate for phenylacetylenes and the reductive elimination of the product (E)-enyne-diol for &#945;-hydroxyacetylenes. In support of the latter, complex Rh{(E)&#8211;CH&#9552;CHC(OH)Ph2}{C&#8801;CC(OH)Ph2}2{&#954;3-P,O,P-[xant(PiPr2)2]} (6) has been isolated and characterized by X-ray diffraction analysis. Complex 1 also effectively promotes the formation of compounds of the type (E)-5-phenyl-2-penten-4-yn-1-ol, by cross-coupling between phenylacetylenes and &#945;-hydroxyacetylenes. These reactions take place through two cycles similar to the cycle that produces the homocouplings, the rate-determining step being the reductive elimination of (E)-enyn-ol for both. The catalytic performance of 1 provides good efficiency in homocoupling and cross-coupling reactions involving progestin-type compounds such as ethisterone.</description>
-      <author>Laura A. de las Heras, Miguel A. Esteruelas, Montserrat Oliv&#225;n, Enrique O&#241;ate</author>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00264</guid>
-    </item>
-    <item>
-      <title>Kinetic Monte Carlo Analysis Reveals Non-mean-field Active Site Dynamics in Cu&#8211;Zeolite-Catalyzed NO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01856</link>
-      <description>Anshuman Goswami, Siddarth H. Krishna, Rajamani Gounder, William F. Schneider, ACS catalysis. None(None)] 2024. https://openalex.org/W4396885835
-
-                Copper-exchanged chabazite (Cu-CHA) zeolites are the preferred catalysts for the selective catalytic reduction of NOx with NH3. The low temperature (473 K) SCR mechanism proceeds through a redox cycle between mobile and ammonia-solvated Cu(I) and Cu(II) complexes, as demonstrated by multiple experimental and computational investigations. The oxidation step requires two Cu(I) to migrate into the same cha cage to activate O2 and form a binuclear Cu(II)-di-oxo complex. Prior steady state and transient kinetic experiments find that the apparent rate constants for oxidation (per Cu ion) are sensitive to catalyst composition and follow nonmean-field kinetics. We develop a nonmean-field kinetic model for NOx SCR that incorporates a composition-dependent Cu(I) volumetric footprint centered at anionic [AlO4]&#8722; tetrahedral sites on the CHA lattice. We use Bayesian optimization to parameterize a kinetic Monte Carlo model against available experimental composition-dependent SCR rates and in situ Cu(II) fractions. We find that both rates and Cu(II) fractions of a majority of catalyst compositions can be captured by single oxidation and reduction rate constants combined with a composition-dependent Cu(I) cation footprint, highlighting the contributions of both Cu and Al densities to steady-state SCR performance of Cu-CHA. The work illustrates a pathway for extracting robust molecular insights from the kinetics of a dynamic catalytic system.</description>
-      <author>Anshuman Goswami, Siddarth H. Krishna, Rajamani Gounder, William F. Schneider</author>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01856</guid>
-    </item>
-    <item>
-      <title>Insights into Electrochemical CO&lt;sub&gt;2&lt;/sub&gt; Reduction on Metallic and Oxidized Tin Using Grand-Canonical DFT and In Situ ATR-SEIRA Spectroscopy</title>
-      <link>https://doi.org/10.1021/acscatal.4c01290</link>
-      <description>Todd N. Whittaker, Yuval Fishler, Jacob M. Clary, Paige Brimley, Adam Holewinski, Charles B. Musgrave, Carrie A. Farberow, Wilson A. Smith, Derek Vigil&#8208;Fowler, ACS catalysis. None(None)] 2024. https://openalex.org/W4396889493
-
-                Electrochemical CO2 reduction (CO2R) to formate is an attractive carbon emissions mitigation strategy due to the existing market and attractive price for formic acid. Tin is an effective electrocatalyst for CO2R to formate, but the underlying reaction mechanism and whether the active phase of tin is metallic or oxidized during reduction is openly debated. In this report, we used grand-canonical density functional theory and attenuated total reflection surface-enhanced infrared absorption spectroscopy to identify differences in the vibrational signatures of surface species during CO2R on fully metallic and oxidized tin surfaces. Our results show that CO2R is feasible on both metallic and oxidized tin. We propose that the key difference between each surface termination is that CO2R catalyzed by metallic tin surfaces is limited by the electrochemical activation of CO2, whereas CO2R catalyzed by oxidized tin surfaces is limited by the slow reductive desorption of formate. While the exact degree of oxidation of tin surfaces during CO2R is unlikely to be either fully metallic or fully oxidized, this study highlights the limiting behavior of these two surfaces and lays out the key features of each that our results predict will promote rapid CO2R catalysis. Additionally, we highlight the power of integrating high-fidelity quantum mechanical modeling and spectroscopic measurements to elucidate intricate electrocatalytic reaction pathways.</description>
-      <author>Todd N. Whittaker, Yuval Fishler, Jacob M. Clary, Paige Brimley, Adam Holewinski, Charles B. Musgrave, Carrie A. Farberow, Wilson A. Smith, Derek Vigil&#8208;Fowler</author>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01290</guid>
-    </item>
-    <item>
-      <title>Visible-Light-Driven Highly Selective 5-Hydroxymethylfurfural Upgrading and H&lt;sub&gt;2&lt;/sub&gt; Generation via Atomically Dispersed Ni Sites on ZnIn&lt;sub&gt;2&lt;/sub&gt;S&lt;sub&gt;4&lt;/sub&gt; Nanosheets</title>
-      <link>https://doi.org/10.1021/acscatal.4c00123</link>
-      <description>Shenghe Si, Piyu Gong, Xiaolei Bao, Xinying Tan, Yuyin Mao, Honggang Zhang, Difei Xiao, Kepeng Song, Zeyan Wang, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Ying Dai, Baibiao Huang, Hefeng Cheng, ACS catalysis. None(None)] 2024. https://openalex.org/W4396889512
-
-                No abstract</description>
-      <author>Shenghe Si, Piyu Gong, Xiaolei Bao, Xinying Tan, Yuyin Mao, Honggang Zhang, Difei Xiao, Kepeng Song, Zeyan Wang, Peng Wang, Yuanyuan Liu, Zhaoke Zheng, Ying Dai, Baibiao Huang, Hefeng Cheng</author>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00123</guid>
-    </item>
-    <item>
-      <title>Structural Basis for the Acylation Reaction of Alphacoronavirus 3C-like Protease</title>
-      <link>https://doi.org/10.1021/acscatal.4c01159</link>
-      <description>Junwei Zhou, Jiyao Chen, Peng Sun, Gang Ye, Y. X. Wang, Runhui Qiu, Zhihui Yang, Dengguo Wei, Guiqing Peng, Liurong Fang, Shaobo Xiao, ACS catalysis. None(None)] 2024. https://openalex.org/W4396895886
-
-                Coronavirus 3C-like proteases (3CLpro) are critical for viral replication and provide targets for antiviral drugs. Using the enteropathogenic alphacoronavirus porcine epidemic diarrhea virus (PEDV) as a model, we determined the crystal structure of an inactive PEDV 3CLpro variant (C144A) in complex with a peptide of NF-&#954;B essential modulator (NEMO227&#8211;233). Structural characterization showed that the conformational change to PEDV 3CLpro S1&#8242; pocket conferred tolerance for nonconventional P1&#8242;-Val from a NEMO peptide substrate, indicating strong substrate accommodation. Using a combination of classical and quantum mechanics/molecular mechanics simulations, we explored the free-energy landscapes associated with the acylation step of PEDV 3CLpro with regard to various substrates. The P1&#8242; site plays a key role in the thermodynamics and kinetics of proteolysis, and the S1&#8242; pocket might affect the free-energy cost of the acylation reaction. Our study provides structural insight into coronavirus 3CLpro-mediated cleavage and will inform the development of anti-coronavirus drugs.</description>
-      <author>Junwei Zhou, Jiyao Chen, Peng Sun, Gang Ye, Y. X. Wang, Runhui Qiu, Zhihui Yang, Dengguo Wei, Guiqing Peng, Liurong Fang, Shaobo Xiao</author>
-      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01159</guid>
-    </item>
-    <item>
-      <title>Cu/LaF&lt;sub&gt;3&lt;/sub&gt; Interfaces Boost Electrocatalytic CO-to-Acetate Conversion</title>
-      <link>https://doi.org/10.1021/acscatal.3c06014</link>
-      <description>Yilin Zhao, Yuke Li, Jingyi Chen, Bin Sun, Lei Fan, Junmei Chen, Yukun Xiao, Haozhou Yang, Di Wang, Jiayi Chen, Xiaopeng Han, Shibo Xi, Jia Zhang, Lei Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396905140
-
-                The electrochemical reduction of carbon monoxide (COR) holds significant promise as an ecofriendly approach for producing valuable chemicals, such as acetate. However, the current unsatisfactory activity and selectivity of this process hinder its future implementation. In this study, we develop and study a catalyst composite comprising lanthanum fluoride (LaF3) crystal support and copper (Cu) as the active phase. Under typical COR conditions, the LaF3&#8211;Cu electrocatalyst demonstrates remarkable selectivity, exceeding 40% at &#8722;0.95 V vs. RHE, with a partial current density of over 280 mA cm&#8211;2 for acetate production. In contrast, the pristine Cu catalyst achieves only 56 mA cm&#8211;2 at &#8722;1.12 V vs. RHE with a low selectivity of &lt;10%. Through detailed kinetic and computational studies, we attribute this remarkable enhancement in both selectivity and activity toward acetate formation to the stabilization of the ethenone intermediate at the LaF3/Cu interface during COR. Inspired by this finding, we extended this substrate effect to a bimetallic copper&#8211;silver catalyst, which led to a notable increase in acetate selectivity (&gt;66%) under the same conditions. Overall, our findings introduce a universal strategy based on substrate effects for the development of selective and active COR catalysts.</description>
-      <author>Yilin Zhao, Yuke Li, Jingyi Chen, Bin Sun, Lei Fan, Junmei Chen, Yukun Xiao, Haozhou Yang, Di Wang, Jiayi Chen, Xiaopeng Han, Shibo Xi, Jia Zhang, Lei Wang</author>
-      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06014</guid>
-    </item>
     <item>
       <title>Edge-Site Co&#8211;N&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Model Single-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
       <link>https://doi.org/10.1021/acscatal.4c02079</link>
@@ -318,6 +258,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02348</guid>
     </item>
     <item>
+      <title>Supported Organochromium Ethylene Oligomerization Enabled by Surface Lithiation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01672</link>
+      <description>Uddhav Kanbur, Jacklyn N. Hall, Yu Lim Kim, Jens Niklas, Oleg G. Poluektov, Cong Liu, A. Jeremy Kropf, Massimiliano Delferro, David M. Kaphan, ACS catalysis. None(None)] 2024. https://openalex.org/W4398142351
+
+                In this work, supported organochromium ethylene polymerization catalysts have been tuned to mediate ethylene oligomerization via surface lithiation, which provides a generalizable protocol to control stereoelectronics and redox states of surface organometallic active sites. The homoleptic chromium(IV) alkyl complex Cr(CH2SiMe3)4 was grafted on high-surface-area anatase titania (TiO2) nanoparticles as well as on silica to produce Cr/TiO2 and Cr/SiO2, respectively. Treatment of these materials with excess n-butyllithium led to the reduced chromium complexes Cr/LixTiO2 and Cr/Li/SiO2, each of which still retains one hydrocarbyl ligand on chromium. A set of heterogeneous complexes were studied by electron paramagnetic resonance and X-ray absorption spectroscopy, which indicate a reduction in the oxidation state of the major chromium species to CrII upon lithiation. Cr/LixTiO2 converts ethylene to hexenes with a high selectivity (&gt;80%), which was persistent over 10 days at 80 &#176;C, achieving &gt;950 turnovers. The exclusive formation of C4 and C6 olefins, preferring the trimerization product, without a statistical (Flory&#8211;Schulz) distribution is characteristic of the oxidative cyclization oligomerization mechanism rather than the traditional Cossee&#8211;Arlman mechanism, whereas Cr/Li/SiO2 produced a mixture of trimerization and polymerization products, suggesting site heterogeneity in the silica-based material. On the other hand, the unreduced chromium(IV) materials as well as low lithium-containing Cr/LixTiO2 (x &lt; 0.16) exclusively produced ultrahigh molecular weight polyethylene, determined by differential scanning calorimetry and gel permeation chromatography analysis, likely formed via a linear-insertion mechanism, with a crossover from the polymerization to oligomerization regime observed at &#8764;16% Li intercalation.</description>
+      <author>Uddhav Kanbur, Jacklyn N. Hall, Yu Lim Kim, Jens Niklas, Oleg G. Poluektov, Cong Liu, A. Jeremy Kropf, Massimiliano Delferro, David M. Kaphan</author>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01672</guid>
+    </item>
+    <item>
       <title>Photocatalyzed H&lt;sub&gt;2&lt;/sub&gt;-Acceptorless Dehydrogenative Borylation by Using Amine Borane</title>
       <link>https://doi.org/10.1021/acscatal.4c00401</link>
       <description>Haowen Jiang, Wancong Yu, Dong Wang, Peng&#8208;Fei Xu, ACS catalysis. None(None)] 2024. https://openalex.org/W4398142757
@@ -328,6 +278,26 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00401</guid>
     </item>
     <item>
+      <title>Photocatalysis toward Microplastics Conversion: A Critical Review</title>
+      <link>https://doi.org/10.1021/acscatal.4c01449</link>
+      <description>Ganghua Zhou, Hui Xu, Hao Song, Jianjian Yi, Xiaozhi Wang, Zupeng Chen, Xingwang Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4398143102
+
+                Microplastics (MPs, particle size &lt; 5 mm) have become increasingly ubiquitous on Earth due to the cleavage and degradation of the heavy use of plastics. MPs have recently been reported to be detected in human blood, alveoli, breast milk, embryos, and other organs, raising concerns about their environmental risks. Photocatalysis has been identified as a potential means for MPs conversion, which utilizes solar energy to stimulate a semiconductor photocatalyst. However, the study of photocatalytic conversion of MPs is still in the incubation period. This review overviews the current state-of-the-art technologies for MPs conversion. Then, the fundamental principles, challenges, analytical techniques, and evaluation indexes of photocatalytic MPs reforming are highlighted. We have systematically summarized the recent advances in the photocatalytic conversion of MPs and identified the key factors influencing photocatalytic performance. Finally, we propose some perspectives for developing efficient photocatalytic systems for reforming MPs. This review will provide a guideline for developing and applying photocatalytic technology for reforming MPs, which will significantly contribute to developing this emerging research field.</description>
+      <author>Ganghua Zhou, Hui Xu, Hao Song, Jianjian Yi, Xiaozhi Wang, Zupeng Chen, Xingwang Zhu</author>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01449</guid>
+    </item>
+    <item>
+      <title>Measuring Adsorbate Profiles in Heterogeneous Catalytic Reactors by Iso-Potential Operando DRIFTS Applied to CO&lt;sub&gt;2&lt;/sub&gt; Methanation on Ni</title>
+      <link>https://doi.org/10.1021/acscatal.4c00536</link>
+      <description>Sebastian Sichert, Sarah-Franziska Stahl, Oliver Korup, Raimund Horn, ACS catalysis. None(None)] 2024. https://openalex.org/W4398143495
+
+                The development and improvement of catalytic processes require a detailed understanding of catalyst dynamics, reaction mechanisms, and structure&#8211;activity relationships inside catalytic reactors, from the laboratory to production scale. This paper presents the methodology of iso-potential operando DRIFTS for measuring the profiles of surface adsorbates inside catalytic reactors. Iso-potential operando spectroscopy (IPOS) in general and iso-potential operando DRIFTS in particular separate the functionality "catalytic reactor" and "spectroscopic cell" from each other. The catalytic reactor is equipped with a mechanism of spatial sampling and spatial temperature measurement. A small fraction of the reaction mixture is sampled locally in the reactor and transferred continuously into a spectroscopic cell containing a very small amount of the same catalyst as in the reactor. The temperature is set to the same value as is locally measured in the reactor. In this way, the catalyst in the spectroscopic cell is exposed to the same chemical potential as that locally in the catalytic reactor. It is hypothesized that it takes on the same structure, the same surface adsorbates, and shows the same reactivity. IPO DRIFTS is applied to CO2 methanation on Ni/&#947;-Al2O3 catalysts. Two surface adsorbate species, adsorbed carbonyl (*COads) and adsorbed formate (*HCOOads), are detected. The band intensity of *HCOOads decreases along the catalyst bed with the CO2 concentration in the gas phase, identifying surface formate as a kinetically relevant intermediate. This finding is in line with an associative mechanism where CO2 adsorbs on &#947;-Al2O3 forming carbonate or bicarbonate, being rapidly hydrogenated to formate. Formate reduction is the rate-determining step, with all subsequent hydrogenation steps to CH4 being fast. The band intensity of *COads does not change, irrespective of position in the catalyst bed. This invariance of *COads can be interpreted in two ways. *COads could be a spectator species that is present at the catalyst surface but not involved in any kinetically relevant reaction channel. Alternatively, *COads could be formed by rapid dissociative adsorption of CO2 at the surface of the Ni nanoparticles with a high adsorption equilibrium constant, leading to an almost constant *COads coverage within the investigated CO2 conversion range. If the rate-determining step in the reaction sequence to CH4 would then occur after the formation of *COads, e.g., *COads &#8594; *Cads + *Oads or *COads + *Hads &#8594; *HCOads, an almost constant *COads signal would result as well.</description>
+      <author>Sebastian Sichert, Sarah-Franziska Stahl, Oliver Korup, Raimund Horn</author>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00536</guid>
+    </item>
+    <item>
       <title>Spin Crossover and Exchange Effects on Oxygen Evolution Reaction Catalyzed by Bimetallic Metal Organic Frameworks</title>
       <link>https://doi.org/10.1021/acscatal.4c01091</link>
       <description>Guangsheng Liu, Fajun Xie, Xu Cai, Jingyun Ye, ACS catalysis. None(None)] 2024. https://openalex.org/W4398145641
@@ -336,6 +306,66 @@
       <author>Guangsheng Liu, Fajun Xie, Xu Cai, Jingyun Ye</author>
       <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01091</guid>
+    </item>
+    <item>
+      <title>Selective Electrosynthesis of Ethanol via Asymmetric C&#8211;C Coupling in Tandem CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01579</link>
+      <description>Peng Luan, Xue Dong, Linqi Liu, Jianping Xiao, Pengfei Zhang, Jie Zhang, Haibo Chi, Qingnan Wang, Chunmei Ding, Rengui Li, Fengyuan Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4398159967
+
+                Selective electroreduction of CO2 to ethanol has economic value and environmental significance. However, the activity and selectivity of CO2 reduction toward ethanol are still low due to the sluggish kinetics of C&#8211;C coupling and the intense competition of hydrocarbon production. Herein, we report a layered tandem catalyst consisting of Cu nanosheets with a Cu(111)-oriented surface and Ag nanoparticles, which can effectively shift the selectivity from hydrocarbons to ethanol. The Faradaic efficiency of ethanol was improved from less than 30% on bare Cu(111) to 56.5 &#177; 2.6% on the layered Cu/Ag tandem catalysts, with a partial current density of 356.7 &#177; 9.5 mA cm&#8211;2. In situ Raman spectroscopy results and density functional theory calculations suggest that the high selectivity toward ethanol can be attributed to the asymmetric *CH2&#8211;CO coupling mechanism, which is facilitated by the selective generation of *CH2 species on (111)-facet-exposed Cu nanosheets and the high local CO concentration supplied by the Ag catalyst.</description>
+      <author>Peng Luan, Xue Dong, Linqi Liu, Jianping Xiao, Pengfei Zhang, Jie Zhang, Haibo Chi, Qingnan Wang, Chunmei Ding, Rengui Li, Fengyuan Liu</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01579</guid>
+    </item>
+    <item>
+      <title>Atmosphere-Dependent Strong Metal&#8211;Support Interactions in Au/ZnO Catalysts and Their Overlayer Permeability</title>
+      <link>https://doi.org/10.1021/acscatal.4c02124</link>
+      <description>Guandong Wu, Yiwei Jiang, Yiming Niu, Bingsen Zhang, Lin Li, Guoji Liu, Yufei He, Junhu Wang, Dianqing Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4398162683
+
+                The oxidative strong metal&#8211;support interaction (O-SMSI) emerges as a pioneering approach for promoting the formation of overlayers, which has garnered significant interest in the exploration of the synthesis of O-SMSI materials. However, the manipulation of the overlayer is rarely discussed and presents a challenge due to its trace presence on the nanoparticle (NP) surface, which impedes the development and utilization of the O-SMSI. In this work, we demonstrate a strong correlation between the treatment atmosphere and the state of the permeable overlayer in the Au/ZnO catalyst. The ZnO overlayer can be formed in both oxidative and inert atmospheres, but the permeability of the overlayer occurs under an oxidative atmosphere. The difference in the permeabilities of the overlayer, at similar particle sizes, leads to a reaction rate difference of approximately 1.4 times. While the permeability of the ZnO overlayer is improved by an oxidative atmosphere treatment, it is also accompanied by an increase in the geometric strain in the ZnO matrix. The permeable ZnO formation is related to the process of gold species insertion into the ZnO matrix, as indicated by density functional theory calculations. This study is the first to describe the role of O2 in manipulating the O-SMSI and suboxide overlayers, offering a potential method for surface engineering.</description>
+      <author>Guandong Wu, Yiwei Jiang, Yiming Niu, Bingsen Zhang, Lin Li, Guoji Liu, Yufei He, Junhu Wang, Dianqing Li</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02124</guid>
+    </item>
+    <item>
+      <title>Chemosphere-Inspired Irradiation Reallocation Strategy Based on Mie Theory for Stable CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction over Cu&lt;sub&gt;2&lt;/sub&gt;O</title>
+      <link>https://doi.org/10.1021/acscatal.3c05802</link>
+      <description>Tongyu Wang, Kuan Deng, Hailing Huo, Chelsea X. Huang, Yiqin Du, Ming-Yuan Yu, Jingjing Ma, Erjun Kan, Ang Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4398164278
+
+                No abstract</description>
+      <author>Tongyu Wang, Kuan Deng, Hailing Huo, Chelsea X. Huang, Yiqin Du, Ming-Yuan Yu, Jingjing Ma, Erjun Kan, Ang Li</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05802</guid>
+    </item>
+    <item>
+      <title>Mechanistic and Kinetic Insights into Intermolecular [2+2] Photocycloadditions</title>
+      <link>https://doi.org/10.1021/acscatal.4c01678</link>
+      <description>Gina Quach, Hasti Iranmanesh, Ena T. Luis, Jason B. Harper, Jonathon E. Beves, Evan G. Moore, ACS catalysis. None(None)] 2024. https://openalex.org/W4398164282
+
+                No abstract</description>
+      <author>Gina Quach, Hasti Iranmanesh, Ena T. Luis, Jason B. Harper, Jonathon E. Beves, Evan G. Moore</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01678</guid>
+    </item>
+    <item>
+      <title>Enantioselective Synthesis of Cyclopropanes via CuH-Catalyzed Intramolecular Hydroalkylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02119</link>
+      <description>Giovanni Lonardi, Santiago Franco, Mattia Sartorello, Carla De Faveri, Mariano Stivanello, Giulia Licini, Manuel Orlandi, ACS catalysis. None(None)] 2024. https://openalex.org/W4398172089
+
+                No abstract</description>
+      <author>Giovanni Lonardi, Santiago Franco, Mattia Sartorello, Carla De Faveri, Mariano Stivanello, Giulia Licini, Manuel Orlandi</author>
+      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02119</guid>
+    </item>
+    <item>
+      <title>Synthesis of Chiral Polycyclic Indoles via Pd(II)-Catalyzed Sequential Cyclization and Carbonylation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01325</link>
+      <description>Long Chen, Hongyou Zhou, Yuan Xue, Lingyu Kong, Yi Wang, Xuyao Han, Hequan Yao, Aijun Lin, ACS catalysis. None(None)] 2024. https://openalex.org/W4398176145
+
+                No abstract</description>
+      <author>Long Chen, Hongyou Zhou, Yuan Xue, Lingyu Kong, Yi Wang, Xuyao Han, Hequan Yao, Aijun Lin</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01325</guid>
     </item>
   </channel>
 </rss>

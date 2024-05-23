@@ -1,8 +1,8 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Wed May 22 01:06:12 2024
+Created on Thu May 23 01:05:39 2024
 
-Found 1 results from 2024-05-15 to 2024-05-22
+Found 2 results from 2024-05-16 to 2024-05-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
 
@@ -24,5 +24,26 @@ OpenAlex: https://openalex.org/W4396946516 (Open access: True)
 [[https://openalex.org/A5029370723][Shengyu Du]], [[https://openalex.org/A5005363741][Pengfei Zhang]], Authorea (Authorea). None(None)] 2024. https://doi.org/10.22541/au.171589904.44646274/v1  ([[https://www.authorea.com/doi/pdf/10.22541/au.171589904.44646274/v1][pdf]])
      
 Industrial chemical processes require sulfur-resistant catalysts, which reduce catalyst replacement costs and simplify process operations. Herein, a high-entropy-stabilized strategy was put forward for sulfur-resistant catalysis. A high entropy (ZnMgCuMnCoAlO) showed stable performance in CO oxidation with SO, while unitary oxide and binary spinel oxide were all deactivated. The mechanism study showed that the adsorption of SO onto ZnMgCuMnCoAlO was challenging. Moreover, ZnMgCuMnCoAlO has a high degree of disorder, with five metal elements co-temporarily living in one cell location as cations. Thermodynamic equilibrium allows the sacrificial cations to capture the trace SO anchor on the ZnMgCuMnCoAlO surface in time to protect the catalytically active cation. This work reveals the significance of high-entropy structures in sulfur resistance and offers a novel design strategy for sulfur-resistant catalysts.    
+
+    
+
+* Upgraded and Light-Up Biosensing Platform: Entropy-Driven Catalysis Circuit Manipulates the Configuration Transformation of Novel DNA Silver Nanoclusters on the Graphene Oxide Surface  :high_entropy_oxides:
+:PROPERTIES:
+:UUID: https://openalex.org/W4398179731
+:TOPICS: DNA Nanotechnology and Bioanalytical Applications, Structural and Functional Study of Noble Metal Nanoclusters, Plasmonic Nanoparticles: Synthesis, Properties, and Applications
+:PUBLICATION_DATE: 2024-05-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.analchem.4c01338")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4398179731"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4398179731"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4398179731"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4398179731 (Open access: False)
+    
+[[https://openalex.org/A5062820596][Jing Li]], [[https://openalex.org/A5007208327][Minhui Chen]], [[https://openalex.org/A5063828593][Qinglin Jiang]], [[https://openalex.org/A5076699095][Wei Zhang]], [[https://openalex.org/A5065682724][Yu-Pin Lan]], [[https://openalex.org/A5052522480][Maruf Ahmed]], [[https://openalex.org/A5074002905][Cuiping Ma]], [[https://openalex.org/A5045031489][Jin Huang]], [[https://openalex.org/A5021391070][Qing Xu]], Analytical chemistry. None(None)] 2024. https://doi.org/10.1021/acs.analchem.4c01338 
+     
+To tackle the predicament of the traditional turn-off mechanism, exploring an activated turn-on system remains an intriguing and crucial objective in biosensing fields. Herein, a dark DNA Ag nanocluster (NC) with hairpin-structured DNA containing a six-base cytosine loop (6C loop) as a template is atypically synthesized. Intriguingly, the dark DNA Ag NCs can be lit to display strong red-emission nanoclusters. Building upon these exciting findings, an unprecedented and upgraded turn-on biosensing system [entropy-driven catalysis circuit (EDCC)-Ag NCs/graphene oxide (GO)] has been created, which employs an EDCC to precisely manipulate the conformational transition of DNA Ag NCs on the GO surface from adsorption to desorption. Benefiting from the effective quenching of GO and signal amplification capability of the EDCC, the newly developed EDCC-Ag NCs/GO biosensing system displays a high signal-to-background (S/B) ratio (26-fold) and sensitivity (limit of detection as low as 0.4 pM). Meanwhile, it has good specificity, excellent stability, and reliability in both buffer and biological samples. To the best of our knowledge, it is the first example that adopts an EDCC to precisely modulate the configuration transformation of DNA Ag NCs on the GO surface to obtain a biosensor with low background, strong fluorescence, high contrast, and sensitivity. This exciting finding may provide a new route to fabricate a novel turn-on biosensor based on hairpin-templated DNA Ag NCs in the optical imaging and bioanalytical fields.    
 
     

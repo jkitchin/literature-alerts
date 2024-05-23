@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 22 May 2024 01:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 01:05:42 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -46,6 +46,26 @@
       <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
       <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2172/2349470</guid>
+    </item>
+    <item>
+      <title>Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01543</link>
+      <description>Consiglia Tedesco, John R. Kitchin, Carl D. Laird, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4398161548
+
+                Dynamic catalysis is a novel and promising approach that aims to improve the catalyst performance by modulating the binding energies of adsorbates to favor different reaction steps periodically. In this work, we investigate a unimolecular dynamic catalytic system, with a focus on methods for simulating the transient behavior and identifying the optimal wave parameters for the modulations. Employing the modeling language Pyomo and the solver IPOPT, we formulate a Boundary Value Problem with limit cycle conditions to obtain results with orders-of-magnitude improvements in computational efficiency when compared to forward integration methods. Leveraging this flexible approach, mathematical optimization was applied to the parameters of piecewise and continuous forcing functions to identify the maximum time-averaged turnover frequency (avTOF). We relate the results to the Extended Sabatier Volcano graphical representation, which provides insight into the behavior and optimal parameters of the target systems. Our results further support the notion that periodic shifts in rate-controlling elementary steps lead to a rate of reaction enhancement beyond the Sabatier limit.</description>
+      <author>Consiglia Tedesco, John R. Kitchin, Carl D. Laird</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01543</guid>
+    </item>
+    <item>
+      <title>Systematic conceptual design strategies for the recovery of metals from E-waste</title>
+      <link>https://doi.org/10.3389/fceng.2024.1388456</link>
+      <description>Samarth D. Palav, Ana I. Torres, Lorenz T. Biegler, Frontiers in chemical engineering. 6(None)] 2024. https://openalex.org/W4398174165
+
+                As the consumption of electronics increases worldwide, significant strain is posed on both the availability of mineral resources and the accumulation of waste due to their disposal. Recovering valuable minerals from e-waste can potentially alleviate both. This paper discusses the systematic design of processes for the recycling of waste printed circuit boards (WPCB). After reviewing the relevant processing steps, the generation of processing superstructures is explained. Next, a formulation of the optimization problem is presented to identify the best processing pathway, and the use of process simulators to specify optimization-relevant parameters. These ideas are described in detail via a WPCB to metals case study.</description>
+      <author>Samarth D. Palav, Ana I. Torres, Lorenz T. Biegler</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fceng.2024.1388456</guid>
     </item>
     <item>
       <title>CCDC 1015545: Experimental Crystal Structure Determination</title>
@@ -148,6 +168,26 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1mbfjx</guid>
     </item>
     <item>
+      <title>CCDC 1561091: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1pdfs9</link>
+      <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397461882
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfs9</guid>
+    </item>
+    <item>
+      <title>CCDC 1561090: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1pdfr8</link>
+      <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397490385
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfr8</guid>
+    </item>
+    <item>
       <title>CCDC 984432: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc121cwc</link>
       <description>Kseniya N. Sedenkova, Elena B. Averina, Yuri K. Grishin, Julia V. Kolodyazhnaya, Victor B. Rybakov, &#1058;. S. Kuznetsova, Audrey Hughes, Gabriel Gomes, Igor V. Alabugin, &#1053;. &#1057;. &#1047;&#1077;&#1092;&#1080;&#1088;&#1086;&#1074;, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397493097
@@ -168,6 +208,16 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdftb</guid>
     </item>
     <item>
+      <title>CCDC 1547617: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1nyf45</link>
+      <description>Christopher J. Evoniuk, Gabriel Gomes, Michelle Ly, Frankie D. White, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397500415
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Christopher J. Evoniuk, Gabriel Gomes, Michelle Ly, Frankie D. White, Igor V. Alabugin</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1nyf45</guid>
+    </item>
+    <item>
       <title>CCDC 1561088: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc1pdfp6</link>
       <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397510025
@@ -178,6 +228,16 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfp6</guid>
     </item>
     <item>
+      <title>CCDC 1499580: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1mbfky</link>
+      <description>Gabriel Gomes, Ivan A. Yaremenko, Peter S. Radulov, &#1056;&#1086;&#1084;&#1072;&#1085; &#1040;. &#1053;&#1086;&#1074;&#1080;&#1082;&#1086;&#1074;, &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088; &#1042;. &#1063;&#1077;&#1088;&#1085;&#1099;&#1096;&#1077;&#1074;, &#1040;.&#1040;. Korlyukov, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397531596
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Gabriel Gomes, Ivan A. Yaremenko, Peter S. Radulov, &#1056;&#1086;&#1084;&#1072;&#1085; &#1040;. &#1053;&#1086;&#1074;&#1080;&#1082;&#1086;&#1074;, &#1042;&#1083;&#1072;&#1076;&#1080;&#1084;&#1080;&#1088; &#1042;. &#1063;&#1077;&#1088;&#1085;&#1099;&#1096;&#1077;&#1074;, &#1040;.&#1040;. Korlyukov, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1mbfky</guid>
+    </item>
+    <item>
       <title>CCDC 1561089: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc1pdfq7</link>
       <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397538196
@@ -186,6 +246,26 @@
       <author>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin</author>
       <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfq7</guid>
+    </item>
+    <item>
+      <title>CCDC 1503345: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1mgc0g</link>
+      <description>Satoshi Umezu, Gabriel Gomes, Tatsuro Yoshinaga, Mikei Sakae, Kenji Matsumoto, Takayuki Iwata, Igor V. Alabugin, Mitsuru Shindo, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397547844
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Satoshi Umezu, Gabriel Gomes, Tatsuro Yoshinaga, Mikei Sakae, Kenji Matsumoto, Takayuki Iwata, Igor V. Alabugin, Mitsuru Shindo</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1mgc0g</guid>
+    </item>
+    <item>
+      <title>CCDC 1561087: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1pdfn5</link>
+      <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397551989
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin</author>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfn5</guid>
     </item>
     <item>
       <title>CCDC 1586928: Experimental Crystal Structure Determination</title>
@@ -228,6 +308,26 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1q8b9m</guid>
     </item>
     <item>
+      <title>CCDC 1589390: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1qbwnl</link>
+      <description>Nikolay P. Tsvetkov, Edgar Gonz&#225;lez-Rodr&#237;guez, Audrey Hughes, Gabriel Gomes, Frankie D. White, Febin Kuriakose, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2018. https://openalex.org/W4397436749
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Nikolay P. Tsvetkov, Edgar Gonz&#225;lez-Rodr&#237;guez, Audrey Hughes, Gabriel Gomes, Frankie D. White, Febin Kuriakose, Igor V. Alabugin</author>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1qbwnl</guid>
+    </item>
+    <item>
+      <title>CCDC 1586929: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1q8b8l</link>
+      <description>Vera A. Vil&#8217;, Gabriel Gomes, Oleg V. Bityukov, Konstantin &#1040;. Lyssenko, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev, The Cambridge Structural Database. None(None)] 2018. https://openalex.org/W4397477457
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Vera A. Vil&#8217;, Gabriel Gomes, Oleg V. Bityukov, Konstantin &#1040;. Lyssenko, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev</author>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1q8b8l</guid>
+    </item>
+    <item>
       <title>CCDC 1586927: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc1q8b6j</link>
       <description>Vera A. Vil&#8217;, Gabriel Gomes, Oleg V. Bityukov, Konstantin &#1040;. Lyssenko, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev, The Cambridge Structural Database. None(None)] 2018. https://openalex.org/W4397478300
@@ -268,6 +368,16 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1yxyxq</guid>
     </item>
     <item>
+      <title>CCDC 1499596: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc1mbg2h</link>
+      <description>Ivan A. Yaremenko, Gabriel Gomes, Peter S. Radulov, Yulia Yu. Belyakova, Anatoliy E. Vilikotskiy, Vera A. Vil&#8217;, Alexander A. Korlyukov, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev, The Cambridge Structural Database. None(None)] 2018. https://openalex.org/W4397552783
+
+                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
+      <author>Ivan A. Yaremenko, Gabriel Gomes, Peter S. Radulov, Yulia Yu. Belyakova, Anatoliy E. Vilikotskiy, Vera A. Vil&#8217;, Alexander A. Korlyukov, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev</author>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1mbg2h</guid>
+    </item>
+    <item>
       <title>CCDC 1906779: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc220509</link>
       <description>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David French, Jessica Joy, Gabriel Gomes, Paul A. Wiget, The Cambridge Structural Database. None(None)] 2019. https://openalex.org/W4397609971
@@ -276,6 +386,16 @@
       <author>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David French, Jessica Joy, Gabriel Gomes, Paul A. Wiget</author>
       <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc220509</guid>
+    </item>
+    <item>
+      <title>CCDC 1906782: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc22053d</link>
+      <description>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David N. French, Jessica Joy, Gabriel Gomes, Paul A. Wiget, The Cambridge Structural Database. None(None)] 2019. https://openalex.org/W4397742268
+
+                No abstract</description>
+      <author>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David N. French, Jessica Joy, Gabriel Gomes, Paul A. Wiget</author>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc22053d</guid>
     </item>
     <item>
       <title>CCDC 1906780: Experimental Crystal Structure Determination</title>
@@ -288,6 +408,26 @@
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc22051b</guid>
     </item>
     <item>
+      <title>CCDC 1956038: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc23nf07</link>
+      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4397797382
+
+                No abstract</description>
+      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23nf07</guid>
+    </item>
+    <item>
+      <title>CCDC 1956029: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc23ndqx</link>
+      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398007050
+
+                No abstract</description>
+      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndqx</guid>
+    </item>
+    <item>
       <title>CCDC 1956031: Experimental Crystal Structure Determination</title>
       <link>https://doi.org/10.5517/ccdc.csd.cc23ndsz</link>
       <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398031232
@@ -296,6 +436,16 @@
       <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndsz</guid>
+    </item>
+    <item>
+      <title>CCDC 1956027: Experimental Crystal Structure Determination</title>
+      <link>https://doi.org/10.5517/ccdc.csd.cc23ndnv</link>
+      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398037003
+
+                No abstract</description>
+      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndnv</guid>
     </item>
   </channel>
 </rss>
