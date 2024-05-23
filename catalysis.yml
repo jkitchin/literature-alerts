@@ -31,3 +31,5 @@ queries:
       - primary_location.source.id:https://openalex.org/S72781473
       # Topics in Catalysis
       - primary_location.source.id:https://openalex.org/S176313377
+      # Journal of Physical Chemistry C
+      - primary_location.source.id:https://openalex.org/S95739953,title-and-abstract.search:(catalysis OR catalyst)
