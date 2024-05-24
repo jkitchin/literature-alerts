@@ -1,157 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu May 23 01:05:40 2024
+Created on Fri May 24 01:06:11 2024
 
-Found 36 results from 2024-05-16 to 2024-05-23
+Found 32 results from 2024-05-17 to 2024-05-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Edge-Site Co–Nx Model Single-Atom Catalysts for CO2 Electroreduction  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396916929
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrocatalysis for Energy Conversion, Molecular Electronic Devices and Systems
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02079")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396916929"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396916929"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396916929"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396916929 (Open access: False)
-    
-[[https://openalex.org/A5040114437][Yao‐Ti Cheng]], [[https://openalex.org/A5084177862][Jianzhao Peng]], [[https://openalex.org/A5015798300][Guozhong Lai]], [[https://openalex.org/A5076162876][Xian Yue]], [[https://openalex.org/A5015547238][Fuzhi Li]], [[https://openalex.org/A5072315367][Qing Wang]], [[https://openalex.org/A5003910460][Lina Chen]], [[https://openalex.org/A5047021453][Junjie Gu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02079 
-     
-No abstract    
-
-    
-
-* Ethanol Upgrading with N,N,N-Pincer-Based Ru Catalysts: Delineating Key Factors Governing Catalyst Evolution and Stability  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396917420
-:TOPICS: Catalytic Conversion of Biomass to Fuels and Chemicals, Homogeneous Catalysis with Transition Metals, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01361")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396917420"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396917420"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396917420"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396917420 (Open access: False)
-    
-[[https://openalex.org/A5090229707][Benjamin M. Farris]], [[https://openalex.org/A5024907657][Alex M. Davies]], [[https://openalex.org/A5036992723][Corey R. J. Stephenson]], [[https://openalex.org/A5009251963][Nathaniel K. Szymczak]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01361 
-     
-No abstract    
-
-    
-
-* Rate-Determining Step for Electrochemical Reduction of Carbon Dioxide into Carbon Monoxide at Silver Electrodes  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396917646
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00192")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396917646"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396917646"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396917646"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396917646 (Open access: True)
-    
-[[https://openalex.org/A5073128014][Etienne Boutin]], [[https://openalex.org/A5041466191][Sophia Haussener]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00192  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00192][pdf]])
-     
-Silver is one of the most studied electrode materials for the electrochemical reduction of carbon dioxide into carbon monoxide, a product with many industrial applications. There is a growing number of reports in which silver is implemented in gas diffusion electrodes as part of a large-scale device to develop commercially relevant technology. Electrochemical models are expected to guide the design and operation toward cost-efficient devices. Despite decades of investigations, there are still uncertainties in the way this reaction should be modeled due to the absence of scientific consensus regarding the reaction mechanism and the nature of the rate-determining step. We review previously reported studies to draw converging conclusions on the value of the Tafel slope and existing species at the electrode surface. We also list conflicting experimental observations and provide leads to tackling these remaining questions.    
-
-    
-
-* Constructing Heteronuclear Bridging Atoms toward Bifunctional Electrocatalysis  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396920380
-:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Electrochemical Reduction of CO2 to Fuels
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01705")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396920380"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396920380"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396920380"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396920380 (Open access: False)
-    
-[[https://openalex.org/A5012710067][Minkai Qin]], [[https://openalex.org/A5082391052][Jiadong Chen]], [[https://openalex.org/A5091275109][Menghui Qi]], [[https://openalex.org/A5016829733][H. H. Wang]], [[https://openalex.org/A5017864467][Shanjun Mao]], [[https://openalex.org/A5026863594][Lingling Xi]], [[https://openalex.org/A5030325177][Yong Wang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01705 
-     
-No abstract    
-
-    
-
-* Ligand Relay Cobalt Catalysis for Vicinal Si,O-Alkanes from Terminal Alkynes  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396921464
-:TOPICS: Transition Metal-Catalyzed Cross-Coupling Reactions, Gold Catalysis in Organic Synthesis, Transition-Metal-Catalyzed C–H Bond Functionalization
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02438")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396921464"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396921464"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396921464"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396921464 (Open access: False)
-    
-[[https://openalex.org/A5051539737][Yuhan Sun]], [[https://openalex.org/A5044174487][Binghe Wang]], [[https://openalex.org/A5043030267][Linhong Long]], [[https://openalex.org/A5017067065][Jingan Lou]], [[https://openalex.org/A5071043055][Hui Chen]], [[https://openalex.org/A5070489845][Zhan Lu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02438 
-     
-No abstract    
-
-    
-
-* Modulating Activity and Selectivity of CO2 Electroreductions at Au–Water Interfaces via Engineering Local Cation Condition  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396937858
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00639")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396937858"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396937858"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396937858"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396937858 (Open access: True)
-    
-[[https://openalex.org/A5053758631][Xueping Qin]], [[https://openalex.org/A5083050334][Tejs Vegge]], [[https://openalex.org/A5015539284][Heine Anton Hansen]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00639  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00639][pdf]])
-     
-The mechanistic understanding of the CO2 reduction reaction (CO2RR) under electrochemical conditions is crucial for optimizing the overall catalytic performance. While electrolyte ions have received considerable attention, it remains unclear how the condition of interfacial cations modulates the CO2RR and the competitive hydrogen evolution reaction (HER) at the electrode–electrolyte interfaces. Herein, we explore the CO2 activation and Volmer step representing the critical first electron transfer during the CO2RR and HER, respectively. This investigation involves manipulating the cation identity (K+, Li+, and H+) and concentration at Au–water interfaces, which is carried out via the slow-growth sampling approach integrated with ab initio molecular dynamics simulations. Our results demonstrate that the high local alkali metal cation (AM+) concentration facilitates the CO2RR following the order of 2K+ > 1K+ > 2Li+ > 1Li+ > 0AM+, and the highly promoted CO2 activation kinetics originate from the short-range coordination between alkali metal cations and reaction intermediates. However, the interfacial HER behaves very differently with the kinetic order of 1Li+ > 0AM+ > 1K+ > 2Li+ > 2K+, closely related to the interfacial water structures, which are affected by both cation identity and local concentrations. Overall, the activity and selectivity of the CO2RR at the Au–water interface can be enhanced by increasing the local cation concentration (K+ > Li+). These findings highlight the critical roles of alkali metal cations and reaction microenvironments in modulating interfacial reaction kinetics.    
-
-    
-
-* Controlling the Selectivity of Chlorine Evolution Reaction by IrTaOx/TiO2 Heterojunction Anodes: Mechanism and Real Wastewater Treatment  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396939013
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Photocatalysis and Solar Energy Conversion, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-05-15
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.3c06174")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396939013"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396939013"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396939013"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396939013 (Open access: False)
-    
-[[https://openalex.org/A5004568324][Evandi Rahman]], [[https://openalex.org/A5044676126][Jae Sun Shin]], [[https://openalex.org/A5039715599][Sukhwa Hong]], [[https://openalex.org/A5036965622][Sunmi Im]], [[https://openalex.org/A5072751301][Jiseon Kim]], [[https://openalex.org/A5037782178][Chan‐Moon Chung]], [[https://openalex.org/A5020632530][Seok Won Hong]], [[https://openalex.org/A5078307783][Michael R. Hoffmann]], [[https://openalex.org/A5033596181][Kangwoo Cho]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.3c06174 
-     
-This study investigated the effects of varied loadings of TiO2 overlayers in heterojunction with conventional Ir0.7Ta0.3Ox (IrTaOx) anodes on chlorine evolution reaction (ClER) and real (waste)water treatment at circum-neutral pH. With an optimized design of IrTaOx/TiO2, elevated ClER selectivity was attained by more facile chemisorption of chloride ions to a thin TiO2 layer on IrTaOx. The current efficiency (CE) of ClER in galvanostatic electrolysis of 50 mM NaCl solutions (at 30 mA cm–2) was maximized to ∼80% by a heterojunction architecture with ∼605 μg cm–2 of IrTaOx and ∼265 μg cm–2 of TiO2 after specific rounds of drop casting. Further increases in loading resulted in escalated film-pore resistance or deterioration of ClER selectivity. The observed CE values were correlated with experimental descriptors, such as potential of zero charge and flat band potential, demonstrating that the weaker metal–oxygen bond strength on TiO2 could enhance the ClER selectivity compared to bare IrTaOx. We concluded that ClER primarily occurs on TiO2 near the junction owing to the nanoporous nature of the TiO2 layer, while IrTaOx serves as ohmic contact. The optimized IrTaOx/TiO2 anodes effectively improved the treatment of reverse osmosis concentrate, but phosphate ions in livestock wastewater caused adverse effects due to complexation on TiO2. The heterojunction architecture effectively tunes the surface charge density for selective generation of oxidants, which can facilitate electrochemical water treatment with reduced use of the precious metals.    
-
-    
 
 * Tafel Analysis Predicts Cooperative Redox Enhancement Effects in Thermocatalytic Alcohol Dehydrogenation  :ACS_Catalysis:
 :PROPERTIES:
@@ -759,5 +612,68 @@ OpenAlex: https://openalex.org/W4398176145 (Open access: False)
 [[https://openalex.org/A5012324763][Long Chen]], [[https://openalex.org/A5040332516][Hongyou Zhou]], [[https://openalex.org/A5000876494][Yuan Xue]], [[https://openalex.org/A5075372754][Lingyu Kong]], [[https://openalex.org/A5029667848][Yi Wang]], [[https://openalex.org/A5014475523][Xuyao Han]], [[https://openalex.org/A5052874928][Hequan Yao]], [[https://openalex.org/A5011404596][Aijun Lin]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01325 
      
 No abstract    
+
+    
+
+* Secondary Alcohol-Driven α-Olefination and α-Alkylation of Nitriles: Introducing a Heterogeneous Ru–Fe Bimetallic Catalyst  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4398210898
+:TOPICS: Homogeneous Catalysis with Transition Metals, Carbon Dioxide Utilization for Chemical Synthesis, Desulfurization Technologies for Fuels
+:PUBLICATION_DATE: 2024-05-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01383")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4398210898"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4398210898"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4398210898"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4398210898 (Open access: False)
+    
+[[https://openalex.org/A5073242162][Tianyu Li]], [[https://openalex.org/A5098756034][Yue-Yi Da]], [[https://openalex.org/A5029393445][Jing Chen]], [[https://openalex.org/A5055640837][Zongyan Ma]], [[https://openalex.org/A5016514981][Yu Jin]], [[https://openalex.org/A5075279956][Jiantai Ma]], [[https://openalex.org/A5059149996][Rong Li]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01383 
+     
+No abstract    
+
+    
+
+* Synergistic Excited State Photocatalysis: Divergent Energy Transfer vs Lewis Acid Mediated Phototransformations  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4398211034
+:TOPICS: Applications of Photoredox Catalysis in Organic Synthesis, Transition-Metal-Catalyzed Sulfur Chemistry, Catalytic Oxidation of Alcohols
+:PUBLICATION_DATE: 2024-05-22
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01185")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4398211034"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4398211034"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4398211034"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4398211034 (Open access: False)
+    
+[[https://openalex.org/A5018185474][Jayachandran Parthiban]], [[https://openalex.org/A5077614006][Dipti Garg]], [[https://openalex.org/A5030892205][Sapna Ahuja]], [[https://openalex.org/A5024642648][Steffen Jockusch]], [[https://openalex.org/A5069274449][Angel Ugrinov]], [[https://openalex.org/A5065746943][Jayaraman Sivaguru]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01185 
+     
+No abstract    
+
+    
+
+* Chemoenzymatic Sequential Catalysis with Carbonic Anhydrase for the Synthesis of Chiral Alcohols from Alkanes, Alkenes, and Alkynes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4398222184
+:TOPICS: Enzyme Immobilization Techniques, Droplet Microfluidics Technology, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-05-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02481")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4398222184"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4398222184"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4398222184"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4398222184 (Open access: False)
+    
+[[https://openalex.org/A5012982494][Zhenzhong Li]], [[https://openalex.org/A5047464957][Zhonghui Wan]], [[https://openalex.org/A5062755510][Wei Wang]], [[https://openalex.org/A5061568119][Lihong Chen]], [[https://openalex.org/A5001300155][Pengfei Ji]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02481 
+     
+Chiral alcohols are important intermediates for various fine chemicals and pharmaceuticals. Integrating chemical catalysis and efficient enzyme catalysis in sequential systems for the synthesis of chiral alcohols is considered an ecofriendly and promising approach. Herein, employing a highly selective carbonic anhydrase II and different chemical catalysts, we constructed three general chemoenzymatic sequential systems for chiral alcohol compound synthesis from alkanes, alkenes, and alkynes, respectively. Compared to classical approaches, the combination of chemical catalysis and promiscuous carbonic anhydrase catalysis is simple and efficient since it requires only mild reaction conditions and avoids expensive chiral ligands and cumbersome operation steps. In this integrated approach, a wide variety of readily available aryl alkanes, alkenes, and alkynes are transformed into valuable chiral alcohols with excellent enantioselectivity of up to 99% (nearly all above 90%). This unified strategy of combining enzymatic and chemical catalyses advances the general chemoenzymatic process for powerful and important chemical transformations.    
 
     

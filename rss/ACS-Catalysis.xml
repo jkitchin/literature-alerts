@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 May 2024 01:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 01:06:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Edge-Site Co&#8211;N&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Model Single-Atom Catalysts for CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02079</link>
-      <description>Yao&#8208;Ti Cheng, Jianzhao Peng, Guozhong Lai, Xian Yue, Fuzhi Li, Qing Wang, Lina Chen, Junjie Gu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396916929
-
-                No abstract</description>
-      <author>Yao&#8208;Ti Cheng, Jianzhao Peng, Guozhong Lai, Xian Yue, Fuzhi Li, Qing Wang, Lina Chen, Junjie Gu</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02079</guid>
-    </item>
-    <item>
-      <title>Ethanol Upgrading with &lt;i&gt;N,N,N&lt;/i&gt;-Pincer-Based Ru Catalysts: Delineating Key Factors Governing Catalyst Evolution and Stability</title>
-      <link>https://doi.org/10.1021/acscatal.4c01361</link>
-      <description>Benjamin M. Farris, Alex M. Davies, Corey R. J. Stephenson, Nathaniel K. Szymczak, ACS catalysis. None(None)] 2024. https://openalex.org/W4396917420
-
-                No abstract</description>
-      <author>Benjamin M. Farris, Alex M. Davies, Corey R. J. Stephenson, Nathaniel K. Szymczak</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01361</guid>
-    </item>
-    <item>
-      <title>Rate-Determining Step for Electrochemical Reduction of Carbon Dioxide into Carbon Monoxide at Silver Electrodes</title>
-      <link>https://doi.org/10.1021/acscatal.4c00192</link>
-      <description>Etienne Boutin, Sophia Haussener, ACS catalysis. None(None)] 2024. https://openalex.org/W4396917646
-
-                Silver is one of the most studied electrode materials for the electrochemical reduction of carbon dioxide into carbon monoxide, a product with many industrial applications. There is a growing number of reports in which silver is implemented in gas diffusion electrodes as part of a large-scale device to develop commercially relevant technology. Electrochemical models are expected to guide the design and operation toward cost-efficient devices. Despite decades of investigations, there are still uncertainties in the way this reaction should be modeled due to the absence of scientific consensus regarding the reaction mechanism and the nature of the rate-determining step. We review previously reported studies to draw converging conclusions on the value of the Tafel slope and existing species at the electrode surface. We also list conflicting experimental observations and provide leads to tackling these remaining questions.</description>
-      <author>Etienne Boutin, Sophia Haussener</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00192</guid>
-    </item>
-    <item>
-      <title>Constructing Heteronuclear Bridging Atoms toward Bifunctional Electrocatalysis</title>
-      <link>https://doi.org/10.1021/acscatal.4c01705</link>
-      <description>Minkai Qin, Jiadong Chen, Menghui Qi, H. H. Wang, Shanjun Mao, Lingling Xi, Yong Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4396920380
-
-                No abstract</description>
-      <author>Minkai Qin, Jiadong Chen, Menghui Qi, H. H. Wang, Shanjun Mao, Lingling Xi, Yong Wang</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01705</guid>
-    </item>
-    <item>
-      <title>Ligand Relay Cobalt Catalysis for Vicinal Si,O-Alkanes from Terminal Alkynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c02438</link>
-      <description>Yuhan Sun, Binghe Wang, Linhong Long, Jingan Lou, Hui Chen, Zhan Lu, ACS catalysis. None(None)] 2024. https://openalex.org/W4396921464
-
-                No abstract</description>
-      <author>Yuhan Sun, Binghe Wang, Linhong Long, Jingan Lou, Hui Chen, Zhan Lu</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02438</guid>
-    </item>
-    <item>
-      <title>Modulating Activity and Selectivity of CO&lt;sub&gt;2&lt;/sub&gt; Electroreductions at Au&#8211;Water Interfaces via Engineering Local Cation Condition</title>
-      <link>https://doi.org/10.1021/acscatal.4c00639</link>
-      <description>Xueping Qin, Tejs Vegge, Heine Anton Hansen, ACS catalysis. None(None)] 2024. https://openalex.org/W4396937858
-
-                The mechanistic understanding of the CO2 reduction reaction (CO2RR) under electrochemical conditions is crucial for optimizing the overall catalytic performance. While electrolyte ions have received considerable attention, it remains unclear how the condition of interfacial cations modulates the CO2RR and the competitive hydrogen evolution reaction (HER) at the electrode&#8211;electrolyte interfaces. Herein, we explore the CO2 activation and Volmer step representing the critical first electron transfer during the CO2RR and HER, respectively. This investigation involves manipulating the cation identity (K+, Li+, and H+) and concentration at Au&#8211;water interfaces, which is carried out via the slow-growth sampling approach integrated with ab initio molecular dynamics simulations. Our results demonstrate that the high local alkali metal cation (AM+) concentration facilitates the CO2RR following the order of 2K+ &gt; 1K+ &gt; 2Li+ &gt; 1Li+ &gt; 0AM+, and the highly promoted CO2 activation kinetics originate from the short-range coordination between alkali metal cations and reaction intermediates. However, the interfacial HER behaves very differently with the kinetic order of 1Li+ &gt; 0AM+ &gt; 1K+ &gt; 2Li+ &gt; 2K+, closely related to the interfacial water structures, which are affected by both cation identity and local concentrations. Overall, the activity and selectivity of the CO2RR at the Au&#8211;water interface can be enhanced by increasing the local cation concentration (K+ &gt; Li+). These findings highlight the critical roles of alkali metal cations and reaction microenvironments in modulating interfacial reaction kinetics.</description>
-      <author>Xueping Qin, Tejs Vegge, Heine Anton Hansen</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00639</guid>
-    </item>
-    <item>
-      <title>Controlling the Selectivity of Chlorine Evolution Reaction by IrTaO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; Heterojunction Anodes: Mechanism and Real Wastewater Treatment</title>
-      <link>https://doi.org/10.1021/acscatal.3c06174</link>
-      <description>Evandi Rahman, Jae Sun Shin, Sukhwa Hong, Sunmi Im, Jiseon Kim, Chan&#8208;Moon Chung, Seok Won Hong, Michael R. Hoffmann, Kangwoo Cho, ACS catalysis. None(None)] 2024. https://openalex.org/W4396939013
-
-                This study investigated the effects of varied loadings of TiO2 overlayers in heterojunction with conventional Ir0.7Ta0.3Ox (IrTaOx) anodes on chlorine evolution reaction (ClER) and real (waste)water treatment at circum-neutral pH. With an optimized design of IrTaOx/TiO2, elevated ClER selectivity was attained by more facile chemisorption of chloride ions to a thin TiO2 layer on IrTaOx. The current efficiency (CE) of ClER in galvanostatic electrolysis of 50 mM NaCl solutions (at 30 mA cm&#8211;2) was maximized to &#8764;80% by a heterojunction architecture with &#8764;605 &#956;g cm&#8211;2 of IrTaOx and &#8764;265 &#956;g cm&#8211;2 of TiO2 after specific rounds of drop casting. Further increases in loading resulted in escalated film-pore resistance or deterioration of ClER selectivity. The observed CE values were correlated with experimental descriptors, such as potential of zero charge and flat band potential, demonstrating that the weaker metal&#8211;oxygen bond strength on TiO2 could enhance the ClER selectivity compared to bare IrTaOx. We concluded that ClER primarily occurs on TiO2 near the junction owing to the nanoporous nature of the TiO2 layer, while IrTaOx serves as ohmic contact. The optimized IrTaOx/TiO2 anodes effectively improved the treatment of reverse osmosis concentrate, but phosphate ions in livestock wastewater caused adverse effects due to complexation on TiO2. The heterojunction architecture effectively tunes the surface charge density for selective generation of oxidants, which can facilitate electrochemical water treatment with reduced use of the precious metals.</description>
-      <author>Evandi Rahman, Jae Sun Shin, Sukhwa Hong, Sunmi Im, Jiseon Kim, Chan&#8208;Moon Chung, Seok Won Hong, Michael R. Hoffmann, Kangwoo Cho</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06174</guid>
-    </item>
     <item>
       <title>Tafel Analysis Predicts Cooperative Redox Enhancement Effects in Thermocatalytic Alcohol Dehydrogenation</title>
       <link>https://doi.org/10.1021/acscatal.3c06103</link>
@@ -366,6 +296,36 @@
       <author>Long Chen, Hongyou Zhou, Yuan Xue, Lingyu Kong, Yi Wang, Xuyao Han, Hequan Yao, Aijun Lin</author>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01325</guid>
+    </item>
+    <item>
+      <title>Secondary Alcohol-Driven &#945;-Olefination and &#945;-Alkylation of Nitriles: Introducing a Heterogeneous Ru&#8211;Fe Bimetallic Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c01383</link>
+      <description>Tianyu Li, Yue-Yi Da, Jing Chen, Zongyan Ma, Yu Jin, Jiantai Ma, Rong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4398210898
+
+                No abstract</description>
+      <author>Tianyu Li, Yue-Yi Da, Jing Chen, Zongyan Ma, Yu Jin, Jiantai Ma, Rong Li</author>
+      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01383</guid>
+    </item>
+    <item>
+      <title>Synergistic Excited State Photocatalysis: Divergent Energy Transfer vs Lewis Acid Mediated Phototransformations</title>
+      <link>https://doi.org/10.1021/acscatal.4c01185</link>
+      <description>Jayachandran Parthiban, Dipti Garg, Sapna Ahuja, Steffen Jockusch, Angel Ugrinov, Jayaraman Sivaguru, ACS catalysis. None(None)] 2024. https://openalex.org/W4398211034
+
+                No abstract</description>
+      <author>Jayachandran Parthiban, Dipti Garg, Sapna Ahuja, Steffen Jockusch, Angel Ugrinov, Jayaraman Sivaguru</author>
+      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01185</guid>
+    </item>
+    <item>
+      <title>Chemoenzymatic Sequential Catalysis with Carbonic Anhydrase for the Synthesis of Chiral Alcohols from Alkanes, Alkenes, and Alkynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c02481</link>
+      <description>Zhenzhong Li, Zhonghui Wan, Wei Wang, Lihong Chen, Pengfei Ji, ACS catalysis. None(None)] 2024. https://openalex.org/W4398222184
+
+                Chiral alcohols are important intermediates for various fine chemicals and pharmaceuticals. Integrating chemical catalysis and efficient enzyme catalysis in sequential systems for the synthesis of chiral alcohols is considered an ecofriendly and promising approach. Herein, employing a highly selective carbonic anhydrase II and different chemical catalysts, we constructed three general chemoenzymatic sequential systems for chiral alcohol compound synthesis from alkanes, alkenes, and alkynes, respectively. Compared to classical approaches, the combination of chemical catalysis and promiscuous carbonic anhydrase catalysis is simple and efficient since it requires only mild reaction conditions and avoids expensive chiral ligands and cumbersome operation steps. In this integrated approach, a wide variety of readily available aryl alkanes, alkenes, and alkynes are transformed into valuable chiral alcohols with excellent enantioselectivity of up to 99% (nearly all above 90%). This unified strategy of combining enzymatic and chemical catalyses advances the general chemoenzymatic process for powerful and important chemical transformations.</description>
+      <author>Zhenzhong Li, Zhonghui Wan, Wei Wang, Lihong Chen, Pengfei Ji</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02481</guid>
     </item>
   </channel>
 </rss>
