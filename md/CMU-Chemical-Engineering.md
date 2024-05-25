@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri May 24 01:06:12 2024
+Created on Sat May 25 01:04:47 2024
 
-Found 44 results from 2024-05-17 to 2024-05-24
+Found 43 results from 2024-05-18 to 2024-05-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Experimental and Theoretical Evaluation of Feed Flow Collar Design for Shell Fed Hollow Fiber Membrane Modules   
-
-OpenAlex: https://openalex.org/W4396974300    
-Open access: False
-    
-[Thien Tran](https://openalex.org/A5037749425), [Maya Schuchert](https://openalex.org/A5098667099), [Victor A. Kusuma](https://openalex.org/A5041659494), [Lili Sun](https://openalex.org/A5034596712), [Comfort Oluleke](https://openalex.org/A5093456232), [Nathan Diemler](https://openalex.org/A5032502544), [Lingxiang Zhu](https://openalex.org/A5002137675), [Grigorios Panagakos](https://openalex.org/A5028498558), [G. Glenn Lipscomb](https://openalex.org/A5063620462), [David Hui‐Kang](https://openalex.org/A5083623112), No host. None(None)] 2024.https://doi.org/10.2172/2348930.
-    
-An experimental and theoretical study of module collar design is presented here. Hollow fiber membranes are prepared by dip coating a poly(vinylidene) (PVDF) support with a polydimethylsiloxane (PDMS) gutter layer and a Pebax 2533 selective layer. Fiber bundles with a well-defined fiber packing are prepared using a 3D printed module. A parallel fiber bundle consisting of 4-9 uniformly spaced fibers is created with printed tabs that align the fibers and create a tubesheet. The tabs are sealed within a printed case that possesses a series of external ports for gas introduction and removal. Uniquely, both port location and the use of a collar to assist fluid distribution in the shell can be varied for the same fiber bundle. Experimental measurements are compared to computational fluid dynamics (CFD) simulations. The experimental module design allows high-fidelity representation of the fiber bundle and module case in the simulations. Comparisons between experiment and simulation are in good agreement over a broad range of experimental conditions. The detrimental effect of having ports located too close, leading to stagnation regions, is captured as well as the beneficial effects of using a collar for shell-side fluid distribution around the fiber bundle. Such results help validate the use of CFD to develop high-performance module designs.    
-
-    
-
-## Optimization strategies for produced water networks with integrated desalination facilities   
-
-OpenAlex: https://openalex.org/W4396978966    
-Open access: False
-    
-[Sakshi Naik](https://openalex.org/A5054628015), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108738.
-    
-Optimal management and desalination of produced water is a major challenge for U.S. oil and gas development. Integrating rigorous desalination models into multi-period produced water network optimization problems presents several hurdles, which need to be tackled using advanced optimization strategies. In this work, a novel multi-period produced water network formulation with separate solid and liquid flows is introduced to avoid singularities at zero flows. Rigorous steady state desalination models based on mechanical vapor recompression are embedded at the desalination sites in the network model. An integrated optimization formulation is developed to co-optimize the design of desalination units along with the operation of the network. Furthermore, a more robust approach based on the trust region filter method is developed to efficiently integrate complex desalination models into the multi-period planning problem. Both optimization approaches are demonstrated on a produced water network from the PARETO library (Drouven et al., 2022) using thermal desalination units. Our results show that while the TRF and integrated approaches have comparable solve times, the TRF approach has better performance reliability in terms of solver convergence. Furthermore, the optimal solution obtained by embedding rigorous models into the network is significantly different than when desalination costs are approximated using simple cost models, which motivates further research in this field.    
-
-    
 
 ## Self-organized Patterns in Predator-Prey Droplet Systems   
 
@@ -69,6 +47,17 @@ Open access: True
 [Samarth D. Palav](https://openalex.org/A5098733509), [Ana I. Torres](https://openalex.org/A5027983186), [Lorenz T. Biegler](https://openalex.org/A5052825722), Frontiers in chemical engineering. 6(None)] 2024.https://doi.org/10.3389/fceng.2024.1388456 ([pdf](https://www.frontiersin.org/articles/10.3389/fceng.2024.1388456/pdf?isPublishedV2=False)).
     
 As the consumption of electronics increases worldwide, significant strain is posed on both the availability of mineral resources and the accumulation of waste due to their disposal. Recovering valuable minerals from e-waste can potentially alleviate both. This paper discusses the systematic design of processes for the recycling of waste printed circuit boards (WPCB). After reviewing the relevant processing steps, the generation of processing superstructures is explained. Next, a formulation of the optimization problem is presented to identify the best processing pathway, and the use of process simulators to specify optimization-relevant parameters. These ideas are described in detail via a WPCB to metals case study.    
+
+    
+
+## Erratum for “Optimal Sampling Locations to Reduce Uncertainty in Contamination Extent in Water Distribution Systems”   
+
+OpenAlex: https://openalex.org/W4398251677    
+Open access: False
+    
+[Jose S. Rodriguez](https://openalex.org/A5083976166), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Darren M. Hart](https://openalex.org/A5018784215), [Katherine A. Klise](https://openalex.org/A5010219882), [Jonathan B. Burkhardt](https://openalex.org/A5047752237), [Terranna Haxton](https://openalex.org/A5074586401), Journal of infrastructure systems. 30(3)] 2024.https://doi.org/10.1061/jitse4.iseng-2481.
+    
+No abstract    
 
     
 

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 May 2024 01:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 01:04:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tafel Analysis Predicts Cooperative Redox Enhancement Effects in Thermocatalytic Alcohol Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.3c06103</link>
-      <description>Bohyeon Kim, Isaac H Daniel, Mark Douthwaite, Samuel Pattisson, Graham J. Hutchings, Steven McIntosh, ACS catalysis. None(None)] 2024. https://openalex.org/W4396952692
-
-                No abstract</description>
-      <author>Bohyeon Kim, Isaac H Daniel, Mark Douthwaite, Samuel Pattisson, Graham J. Hutchings, Steven McIntosh</author>
-      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c06103</guid>
-    </item>
-    <item>
-      <title>Mixed Potential Driven Self-Cleaning Strategy in Direct Isopropanol Fuel Cells</title>
-      <link>https://doi.org/10.1021/acscatal.4c01939</link>
-      <description>Hanjoo Kim, Do-Hoon Kim, Ji&#8208;Won Son, Segeun Jang, Dong Young Chung, ACS catalysis. None(None)] 2024. https://openalex.org/W4396964603
-
-                No abstract</description>
-      <author>Hanjoo Kim, Do-Hoon Kim, Ji&#8208;Won Son, Segeun Jang, Dong Young Chung</author>
-      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01939</guid>
-    </item>
-    <item>
-      <title>Antiover-Reduction of Ni/In&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Nanocatalysts by Atomic Layer Deposition of Al&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3&lt;/sub&gt; Films for Durable CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation to Methanol</title>
-      <link>https://doi.org/10.1021/acscatal.4c02168</link>
-      <description>Yanmei Cai, Cun&#8208;biao Lin, Xingwen Cha, Yi-Chien Wu, Xiaoping Rao, Kok Bing Tan, Dongren Cai, Gui&#8722;Lin Zhuang, Guowu Zhan, ACS catalysis. None(None)] 2024. https://openalex.org/W4396964972
-
-                No abstract</description>
-      <author>Yanmei Cai, Cun&#8208;biao Lin, Xingwen Cha, Yi-Chien Wu, Xiaoping Rao, Kok Bing Tan, Dongren Cai, Gui&#8722;Lin Zhuang, Guowu Zhan</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02168</guid>
-    </item>
-    <item>
-      <title>Carbon Support Corrosion in PEMFCs Followed by Identical Location Electron Microscopy</title>
-      <link>https://doi.org/10.1021/acscatal.4c00417</link>
-      <description>Linn&#233;a Strandberg, Victor Shokhen, Magnus Skoglundh, Bj&#246;rn Wickman, ACS catalysis. None(None)] 2024. https://openalex.org/W4396978035
-
-                Identical location scanning electron microscopy (IL-SEM) and transmission electron microscopy (IL-TEM) are used to follow the degradation of the cathodic catalytic Pt/C electrode layer in a real proton-exchange membrane fuel cell under operation. During an accelerated stress test, mimicking start-up/shutdown conditions, the IL-SEM analysis reveals the formation and growth of cracks in the electrode layer, which expose the underlying membrane, leading to the creation of isolated islands of the electrode layer that tend to delaminate from the membrane. This is found to correlate with a 2- to 4-fold increase of the cell resistance. Nanoscale IL-TEM imaging shows that the diameter of the primary particles of the carbon support shrinks by on average 20%. Consequently, the Pt particles on the support agglomerate and grow by 63% contributing to an observed 65% loss in the electrochemically active surface area. The corrosion of the structural weak points of the carbon support leads to structural collapse. This collapse of the porous structure and weakening of connective points within the cathodic catalyst layers coincide with increased cell and mass transport resistance, resulting in large performance losses. While similar effects have been indicated before, the IL microscopy analysis provides a deeper understanding of the underlying mechanisms and the connection between morphological changes and fuel cell performance losses.</description>
-      <author>Linn&#233;a Strandberg, Victor Shokhen, Magnus Skoglundh, Bj&#246;rn Wickman</author>
-      <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00417</guid>
-    </item>
     <item>
       <title>Catalytic Cycle of Type II 4&#8242;-Phosphopantetheinyl Transferases</title>
       <link>https://doi.org/10.1021/acscatal.3c06249</link>
@@ -326,6 +286,56 @@
       <author>Zhenzhong Li, Zhonghui Wan, Wei Wang, Lihong Chen, Pengfei Ji</author>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02481</guid>
+    </item>
+    <item>
+      <title>&#946;-Silicon Effect Enables Metal-Free Site-Selective Intermolecular Allylic C&#8211;H Amination</title>
+      <link>https://doi.org/10.1021/acscatal.4c02393</link>
+      <description>Shuang Lin, Yuan Liu, Gao Kun-yu, Zhihao Chen, Jiasheng Qian, Xiaobin Liu, Qingjiang Li, Honggen Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4398248046
+
+                No abstract</description>
+      <author>Shuang Lin, Yuan Liu, Gao Kun-yu, Zhihao Chen, Jiasheng Qian, Xiaobin Liu, Qingjiang Li, Honggen Wang</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02393</guid>
+    </item>
+    <item>
+      <title>Atomically Precise Control of Silver Species Encaged in Zeolite Catalysts with Minimal Loading for Maximal Performance</title>
+      <link>https://doi.org/10.1021/acscatal.4c01972</link>
+      <description>Mengxi Han, Yi He, Tongwen Yu, Pai Peng, Jiangwei Shi, Hongxia Liu, Lei Liu, Chenliang Ye, Qiang Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4398249717
+
+                No abstract</description>
+      <author>Mengxi Han, Yi He, Tongwen Yu, Pai Peng, Jiangwei Shi, Hongxia Liu, Lei Liu, Chenliang Ye, Qiang Chen</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01972</guid>
+    </item>
+    <item>
+      <title>Cation Effects on the Adsorbed Intermediates of CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Are Systematic and Predictable</title>
+      <link>https://doi.org/10.1021/acscatal.4c00727</link>
+      <description>Elizabeth Sargeant, Paramaconi Rodr&#237;guez, Federico Calle&#8208;Vallejo, ACS catalysis. None(None)] 2024. https://openalex.org/W4398251204
+
+                No abstract</description>
+      <author>Elizabeth Sargeant, Paramaconi Rodr&#237;guez, Federico Calle&#8208;Vallejo</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00727</guid>
+    </item>
+    <item>
+      <title>Mechanistic Understanding of Anthracene Hydrocracking over HY Zeolite Encapsulated Single-Atom Pt Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01706</link>
+      <description>Wenru Zhao, Hui Yu, Shaozhong Peng, Wei Liu, Weiwei Zhang, Donghai Mei, ACS catalysis. None(None)] 2024. https://openalex.org/W4398251226
+
+                No abstract</description>
+      <author>Wenru Zhao, Hui Yu, Shaozhong Peng, Wei Liu, Weiwei Zhang, Donghai Mei</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01706</guid>
+    </item>
+    <item>
+      <title>Low-Temperature Thermocatalytic Coupling of CH&lt;sub&gt;4&lt;/sub&gt; and CO&lt;sub&gt;2&lt;/sub&gt; to Ethanol over Zn&#8211;Ce/ZSM-5 by a Stepwise Technique</title>
+      <link>https://doi.org/10.1021/acscatal.4c00863</link>
+      <description>Yongjun Liu, Chaoyu Zhang, Ruijia Wang, Yixiao Wu, Xueyu Zan, Tao Shen, Wei Huang, ACS catalysis. None(None)] 2024. https://openalex.org/W4398251514
+
+                No abstract</description>
+      <author>Yongjun Liu, Chaoyu Zhang, Ruijia Wang, Yixiao Wu, Xueyu Zan, Tao Shen, Wei Huang</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00863</guid>
     </item>
   </channel>
 </rss>

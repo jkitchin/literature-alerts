@@ -1,31 +1,10 @@
 #+TITLE: high-entropy-oxides
 Description: high entropy oxides in catalysis
-Created on Fri May 24 01:06:10 2024
+Created on Sat May 25 01:04:46 2024
 
-Found 2 results from 2024-05-17 to 2024-05-24
+Found 1 results from 2024-05-18 to 2024-05-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Ahigh%20entropy%20oxide%20catalysis]]
-
-* Enhancing Sulfur Resistance of Oxides in Catalytic Oxidation by a High Entropy-Stabilized Strategy  :high_entropy_oxides:
-:PROPERTIES:
-:UUID: https://openalex.org/W4396946516
-:TOPICS: Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-05-16
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.22541/au.171589904.44646274/v1")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4396946516"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4396946516"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4396946516"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4396946516 (Open access: True)
-    
-[[https://openalex.org/A5029370723][Shengyu Du]], [[https://openalex.org/A5005363741][Pengfei Zhang]], Authorea (Authorea). None(None)] 2024. https://doi.org/10.22541/au.171589904.44646274/v1  ([[https://www.authorea.com/doi/pdf/10.22541/au.171589904.44646274/v1][pdf]])
-     
-Industrial chemical processes require sulfur-resistant catalysts, which reduce catalyst replacement costs and simplify process operations. Herein, a high-entropy-stabilized strategy was put forward for sulfur-resistant catalysis. A high entropy (ZnMgCuMnCoAlO) showed stable performance in CO oxidation with SO, while unitary oxide and binary spinel oxide were all deactivated. The mechanism study showed that the adsorption of SO onto ZnMgCuMnCoAlO was challenging. Moreover, ZnMgCuMnCoAlO has a high degree of disorder, with five metal elements co-temporarily living in one cell location as cations. Thermodynamic equilibrium allows the sacrificial cations to capture the trace SO anchor on the ZnMgCuMnCoAlO surface in time to protect the catalytically active cation. This work reveals the significance of high-entropy structures in sulfur resistance and offers a novel design strategy for sulfur-resistant catalysts.    
-
-    
 
 * Upgraded and Light-Up Biosensing Platform: Entropy-Driven Catalysis Circuit Manipulates the Configuration Transformation of Novel DNA Silver Nanoclusters on the Graphene Oxide Surface  :high_entropy_oxides:
 :PROPERTIES:
