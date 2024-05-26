@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 25 May 2024 01:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 01:11:12 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Self-organized Patterns in Predator-Prey Droplet Systems</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-15zsd</link>
-      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, No host. None(None)] 2024. https://openalex.org/W4397010234
-
-                Non-equilibrium patterns are widespread in nature and often arise from the self-organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil-in-water droplet mixtures with predator-prey interactions can result in a variety of self-organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self-organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
-      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
-      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-15zsd</guid>
-    </item>
-    <item>
-      <title>Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills</title>
-      <link>https://doi.org/10.2172/2349470</link>
-      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4397020614
-
-                This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.</description>
-      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2349470</guid>
-    </item>
     <item>
       <title>Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c01543</link>
@@ -56,6 +36,56 @@
       <author>Jose S. Rodriguez, Michael Bynum, Carl D. Laird, Darren M. Hart, Katherine A. Klise, Jonathan B. Burkhardt, Terranna Haxton</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1061/jitse4.iseng-2481</guid>
+    </item>
+    <item>
+      <title>A TRIVIALIDADE E O MAU USO DOS ANTIBI&#211;TICOS: DESENVOLVIMENTO DE SUPERBACT&#201;RIAS E OUTRAS REPERCUSS&#213;ES</title>
+      <link>https://doi.org/10.56083/rcv4n5-155</link>
+      <description>Gabrielle Pereira Damasceno, Ana Carolyne Moribe, Marcos Gontijo da Silva, A. B. Silva, Carmen Santana, Daniela Cintia de Azevedo Dantas Vasconcelos, Evilyn Rachel Teixeira Barreto Dos Anjos, Gabriel Gomes, GICELE SANTOS DA SILVA, Itamar Medeiros Paiva Souza Filho, Jonce de Oliveira, Kallianna Dantas Ara&#250;jo, Leandro Bernardo Guimar&#227;es, L. SILVA, Maria Caroline Alexandre da Silva, Marcos Sobral, Maria S. Santos, Margarida Albuquerque, Ricardo Nascimento Abreu, Yohana de Siqueira Queiroz, Contempor&#226;nea. 4(5)] 2024. https://openalex.org/W4398771463
+
+                Bact&#233;rias resistentes a antibi&#243;ticos, tamb&#233;m conhecidas como superbact&#233;rias, representam atualmente uma das principais amea&#231;as &#224; sa&#250;de p&#250;blica mundial. Infec&#231;&#245;es por essas bact&#233;rias est&#227;o se tornando cada vez mais comuns e algumas delas s&#227;o resistentes a praticamente todos os antibi&#243;ticos existentes. O objetivo deste trabalho &#233; discutir a banaliza&#231;&#227;o do uso de antibi&#243;ticos com o surgimento de bact&#233;rias multirresistentes a antibi&#243;ticos. Foi feita uma busca em portais cient&#237;ficos usando o termo de busca &#8220;superbact&#233;rias&#8221; e "bact&#233;rias multirresistentes&#8221;. Os artigos encontrados foram discutidos de forma narrativa. Conclus&#227;o: A velocidade com que os cientistas descobrem novos antibi&#243;ticos vem sendo cada vez mais lenta. Nesse cen&#225;rio, a Organiza&#231;&#227;o Mundial de Sa&#250;de estima que, se nada for feito para controlar essas superbact&#233;rias, a m&#233;dio e longo prazo, estas ser&#227;o respons&#225;veis por milh&#245;es de mortes por ano no mundo, tornando-se mais letais que o c&#226;ncer.</description>
+      <author>Gabrielle Pereira Damasceno, Ana Carolyne Moribe, Marcos Gontijo da Silva, A. B. Silva, Carmen Santana, Daniela Cintia de Azevedo Dantas Vasconcelos, Evilyn Rachel Teixeira Barreto Dos Anjos, Gabriel Gomes, GICELE SANTOS DA SILVA, Itamar Medeiros Paiva Souza Filho, Jonce de Oliveira, Kallianna Dantas Ara&#250;jo, Leandro Bernardo Guimar&#227;es, L. SILVA, Maria Caroline Alexandre da Silva, Marcos Sobral, Maria S. Santos, Margarida Albuquerque, Ricardo Nascimento Abreu, Yohana de Siqueira Queiroz</author>
+      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.56083/rcv4n5-155</guid>
+    </item>
+    <item>
+      <title>CFD Modeling of High-Flux Plate-and-Frame Membrane modules for industrial carbon capture</title>
+      <link>https://doi.org/10.2172/2352462</link>
+      <description>Cheick Dosso, H&#233;ctor A. Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4398774513
+
+                No abstract</description>
+      <author>Cheick Dosso, H&#233;ctor A. Pedrozo, Thien Tran, Lingxiang Zhu, Victor A. Kusuma, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2352462</guid>
+    </item>
+    <item>
+      <title>CFD and systems engineering to minimize membrane-based carbon capture costs</title>
+      <link>https://doi.org/10.2172/2352466</link>
+      <description>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4398774799
+
+                In this study, we propose a superstructure for membrane-based carbon capture, addressing these challenges through the formulation of an optimization problem. The case study considers a flue gas with a flowrate of 1000 mol/s and a 30 % CO2 (molar basis), which is representative of steel plants. Reduced models, derived from rigorous CFD simulations of membrane modules, are utilized to enhance the efficiency of the optimization process. The reduced model includes specific input variables such as inlet flow rate, retentate and permeate pressures, and inlet CO2 concentration; while the CO2 recovery and purity in the permeate side are considered as output variables. In this way, we exploit the information from the CFD simulations in the superstructure, aiding in the selection of the optimal configuration for the multi-stage membrane process. The results underscore the efficiency of a multi-stage membrane design, showing capture costs around 45 $/t-CO2.</description>
+      <author>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2352466</guid>
+    </item>
+    <item>
+      <title>Carbon Capture through Membranes - Leveraging Multiphysics Modeling, Dimensional Analysis and Machine Learning to Scale up and Optimize Devices and Processes for Decarbonization</title>
+      <link>https://doi.org/10.2172/2352465</link>
+      <description>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4398780627
+
+                We study the separation performance using membrane modules through dimensional analysis (DA). We formulate the main process equations to identify relevant dimensionless numbers inherent in the physics. In particular, we identify that the critical step in the separation process is mass transfer through the selective layer. Remarkably, the dimensionless feed flow (DFfeed) emerges as a crucial factor in describing this process. Not only does DFfeed directly appear in the governing equations, but it also holds a physical significance associated with the time scales for the mass transfer across the feed side and through the selective layer. Regarding the output performance variables, we consider the recovery, stage cut, productivity and purity. In this context, we profit from experimental data and CFD simulations to evaluate the separation performance of the modules when varying the input flowrate, the scale of the module, and the CO2 permeance. These datasets enable us to establish correlations between performance metrics and the dimensionless feed flow (DFfeed). Using simple power functions of DFfeed, we obtain R2 coefficients exceeding 0.99, indicating the accuracy of the correlations built in the present work. In the future, we wish to use DA to understand key transport mechanisms, predict and control module performance, and challenge the universality of these findings by testing various gas separations across different membrane modules beyond our case study.</description>
+      <author>H&#233;ctor A. Pedrozo, Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2352465</guid>
+    </item>
+    <item>
+      <title>CFD modeling of high-flux plate-and-frame membrane modules for industrial carbon capture</title>
+      <link>https://doi.org/10.2172/2352463</link>
+      <description>Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, H&#233;ctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos, No host. None(None)] 2024. https://openalex.org/W4398780693
+
+                In this work, we explore the use of CO2-selective flat sheet membranes for capturing CO2 from point sources. We employ Computational Fluid Dynamics (CFD) models to design high-flux plate-and-frame membrane modules to achieve uniform flow distribution among membrane elements, minimize dead-end zones, and ease the common concentration polarization issue for gas separation membranes. The goal is to drive membrane technology improvements by providing better module designs for given membrane properties and operating conditions.</description>
+      <author>Cheick Dosso, Lingxiang Zhu, Victor A. Kusuma, Thien Tran, David Hui&#8208;Kang, H&#233;ctor A. Pedrozo, Lorenz T. Biegler, Grigorios Panagakos</author>
+      <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2352463</guid>
     </item>
     <item>
       <title>CCDC 1015545: Experimental Crystal Structure Determination</title>

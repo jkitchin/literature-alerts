@@ -1,109 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat May 25 01:04:46 2024
+Created on Sun May 26 01:11:10 2024
 
-Found 33 results from 2024-05-18 to 2024-05-25
+Found 27 results from 2024-05-19 to 2024-05-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Catalytic Cycle of Type II 4′-Phosphopantetheinyl Transferases   
-
-OpenAlex: https://openalex.org/W4397001924    
-Open access: False
-    
-[Sabine Gavalda](https://openalex.org/A5063207020), [Alexandre Faille](https://openalex.org/A5056859995), [Simone Fioccola](https://openalex.org/A5098675590), [Minh Nguyen](https://openalex.org/A5036917649), [Coralie Carivenc](https://openalex.org/A5029547202), [Karine Rottier](https://openalex.org/A5088900876), [Yann Rufin](https://openalex.org/A5098675591), [Stéphane Saitta](https://openalex.org/A5066654323), [Georges Czaplicki](https://openalex.org/A5050011825), [Christophe Guilhot](https://openalex.org/A5064626955), [Christian Chalut](https://openalex.org/A5024629125), [Mihaela Brut](https://openalex.org/A5040690121), [Lionel Mourey](https://openalex.org/A5069188437), [J.D. Pédelacq](https://openalex.org/A5060559234), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c06249.
-    
-No abstract    
-
-    
-
-## Impact of Carbon Corrosion and Denitrogenation on the Deactivation of Fe–N–C Catalysts in Alkaline Media   
-
-OpenAlex: https://openalex.org/W4397002376    
-Open access: True
-    
-[Yu-Ping Ku](https://openalex.org/A5085147145), [Kavita Kumar](https://openalex.org/A5046771382), [Andreas Hutzler](https://openalex.org/A5019937016), [Christian Götz](https://openalex.org/A5064302325), [Mykhailo Vorokhta](https://openalex.org/A5043951136), [Moulay Tahar Sougrati](https://openalex.org/A5089413121), [Vicent Lloret](https://openalex.org/A5020677451), [Konrad Ehelebe](https://openalex.org/A5088338724), [Karl J. J. Mayrhofer](https://openalex.org/A5053735446), [Simon Thiele](https://openalex.org/A5030090315), [Ivan Khalakhan](https://openalex.org/A5093082010), [Thomas Böhm](https://openalex.org/A5010518851), [Frédéric Jaouen](https://openalex.org/A5015338172), [Ivan Khalakhan](https://openalex.org/A5039409285), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01219 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01219)).
-    
-No abstract    
-
-    
-
-## Revisiting Factors Controlling the Electrochemical CO2 Reduction to CO and HCOOH on Transition Metals with Grand Canonical Density Functional Theory Calculations   
-
-OpenAlex: https://openalex.org/W4397007370    
-Open access: False
-    
-[Wanghui Zhao](https://openalex.org/A5008734353), [Tao Wang](https://openalex.org/A5062351268), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00347.
-    
-No abstract    
-
-    
-
-## High Selectivity Reactive Carbon Dioxide Capture over Zeolite Dual-Functional Materials   
-
-OpenAlex: https://openalex.org/W4397007386    
-Open access: False
-    
-[James M. Crawford](https://openalex.org/A5082248197), [Mathew J. Rasmussen](https://openalex.org/A5021879653), [W. Wilson McNeary](https://openalex.org/A5064741675), [Sawyer Halingstad](https://openalex.org/A5092088100), [Steven C. Hayden](https://openalex.org/A5075313987), [Nikita S. Dutta](https://openalex.org/A5077547804), [Simon H. Pang](https://openalex.org/A5037709742), [Matthew M. Yung](https://openalex.org/A5009505579), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01340.
-    
-No abstract    
-
-    
-
-## Issue Publication Information   
-
-OpenAlex: https://openalex.org/W4397009151    
-Open access: False
-    
-, ACS catalysis. 14(10)] 2024.https://doi.org/10.1021/csv014i010_1802932.
-    
-No abstract    
-
-    
-
-## Issue Editorial Masthead   
-
-OpenAlex: https://openalex.org/W4397009268    
-Open access: False
-    
-, ACS catalysis. 14(10)] 2024.https://doi.org/10.1021/csv014i010_1802933.
-    
-No abstract    
-
-    
-
-## A Bulky Imidodiphosphorimidate Brønsted Acid Enables Highly Enantioselective Prins-semipinacol Rearrangements   
-
-OpenAlex: https://openalex.org/W4397012225    
-Open access: False
-    
-[Junshan Lai](https://openalex.org/A5078265381), [Jolene P. Reid](https://openalex.org/A5034853042), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01494.
-    
-No abstract    
-
-    
-
-## Ligand-Controlled Regioreversed 1,2-Aryl-Aminoalkylation of Alkenes Enabled by Photoredox/Nickel Catalysis   
-
-OpenAlex: https://openalex.org/W4397021977    
-Open access: False
-    
-[Ye Fu](https://openalex.org/A5043225850), [Songlin Zheng](https://openalex.org/A5021408521), [Yixin Luo](https://openalex.org/A5082580932), [Xiaotian Qi](https://openalex.org/A5005068784), [Weiming Yuan](https://openalex.org/A5014969687), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01312.
-    
-A ligand-controlled regioreversed 1,2-arylalkylation of alkenes via photoredox/nickel dual catalysis is reported. In contrast with previous reports on photoredox/nickel-catalyzed 1,2-alkylarylation reactions that initiate from the Giese addition of an alkyl radical to alkene, this three-component conjugate coupling process occurs through nickel-catalyzed aryl radical addition to alkene, thereby leading to a complementary regioselectivity to conventional 1,2-alkylarylation. An ortho-substituted bipyridyl ligand is the key to tune the regioselectivity, which was found to be dictated by the reactivity of alkene-coordinated LnNi(0) complexes that trigger the formation of aryl radicals via halogen-atom transfer (XAT). This regioreversed transformation allows a concise entry to structurally abundant β-amino acid derivatives, including ORL1-receptor antagonists.    
-
-    
-
-## Molecular Insights into the One-Carbon Loss Oxidation of Indole-3-acetic Acid   
-
-OpenAlex: https://openalex.org/W4397022232    
-Open access: False
-    
-[Jing Cheng](https://openalex.org/A5078397516), [Nanxi Wang](https://openalex.org/A5078600953), [Liang Yu](https://openalex.org/A5040547872), [Yu Luo](https://openalex.org/A5017609294), [Ao Liu](https://openalex.org/A5018557213), [Shuo Tang](https://openalex.org/A5042471205), [Jin Xu](https://openalex.org/A5016952077), [Yi Shuang Wang](https://openalex.org/A5006839839), [Jiapeng Zhu](https://openalex.org/A5050731485), [А. А. Лебедев](https://openalex.org/A5028801665), [Changlin Tian](https://openalex.org/A5006239480), [Ren Xiang Tan](https://openalex.org/A5052763946), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02178.
-    
-Dye-decolorizing peroxidases (DyPs) represent a unique family of heme peroxidases that exhibit significant biotechnological promise. DyPs resemble classical peroxidases and operate through the peroxidative cycle, but they differ in structure and function and are ubiquitous in bacterial genomes, particularly in gut-associated species. Nonetheless, the metabolic capabilities and physiological roles of DyPs within the intestine remain unexplored. Here, we report the discovery of a Lactobacillus fermentum-derived DyP (LfDyP) with the unexpected property of directly converting indole-3-acetic acid (IAA) into indole-3-aldehyde (IAld) and indole-3-carbinol (I3C). To elucidate the underlying mechanism, protein crystallography, site-directed mutagenesis, electron paramagnetic resonance (EPR), and density functional theory (DFT) calculations were conducted. LfDyP was found to catalyze the one-electron oxidative decarboxylation of IAA to the skatole radical and its resonance via a long-range electron transfer (LRET) mechanism in the presence of O2. This catalysis initiates the IAA catabolic network, which is further formed through the formation of peroxyl radicals, dimerization, and tetraoxide decomposition. In summary, this study demonstrates the (bio)chemical basis for the catabolism of IAA by the intestinal microbiota into multiple indole-based signaling molecules.    
-
-    
 
 ## Phosphorization-Induced “Fence Effect” on the Active Hydrogen Species Migration Enables Tunable CO2 Hydrogenation Selectivity   
 
@@ -366,5 +267,38 @@ Open access: False
 [Yongjun Liu](https://openalex.org/A5011802940), [Chaoyu Zhang](https://openalex.org/A5073906099), [Ruijia Wang](https://openalex.org/A5060609860), [Yixiao Wu](https://openalex.org/A5064146459), [Xueyu Zan](https://openalex.org/A5004400094), [Tao Shen](https://openalex.org/A5009019093), [Wei Huang](https://openalex.org/A5021718138), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00863.
     
 No abstract    
+
+    
+
+## Enhancement of Electrochemical Nitrogen Reduction Activity and Suppression of Hydrogen Evolution Reaction for Transition Metal Oxide Catalysts: The Role of Proton Intercalation and Heteroatom Doping   
+
+OpenAlex: https://openalex.org/W4398764852    
+Open access: False
+    
+[Qingdong Li](https://openalex.org/A5091619107), [Oguz Kaan Kucukosman](https://openalex.org/A5052939050), [Qingquan Ma](https://openalex.org/A5069676941), [Junjie Ouyang](https://openalex.org/A5079225445), [Pavel Kucheryavy](https://openalex.org/A5079204061), [Hengfei Gu](https://openalex.org/A5066076827), [Conor Long](https://openalex.org/A5025704358), [Z. Y. Zhang](https://openalex.org/A5034344571), [Joshua Young](https://openalex.org/A5035667249), [Jenny V. Lockard](https://openalex.org/A5084487002), [Eric Garfunkel](https://openalex.org/A5044534355), [Jianan Gao](https://openalex.org/A5047994766), [Zhang Wen](https://openalex.org/A5073547367), [Huixin He](https://openalex.org/A5041355919), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00223.
+    
+During the electrochemical nitrogen reduction reaction (eNRR) and hydrogen evolution reaction (HER), interstitial proton intercalation readily occurs in some transition metal oxide (TMO) catalysts and changes their d-band electronic structure. This work fabricated phosphorus (P)-doped tungsten oxide (WO3) with enriched oxygen vacancies (OVs) to study the impact of proton intercalation and heteroatom doping on eNRR and HER. Our results demonstrated that the electronic structure of the P-OV-WO3 catalyst was altered by in situ proton intercalation as indicated by the greater negative onset potential of eNRR at −0.05 V compared to the proton intercalation potential of 0.3 V versus reversible hydrogen electrode (RHE). Compared to the non-P-doped WO3, the introduction of P doping in WO3 (e.g., 4.8 at. %) led to a reduction of more than 36% in proton intercalation. As a result, the HER activity of the P-OV-WO3 was significantly suppressed, as demonstrated by a considerably negative shift of the onset HER potential from −0.06 to −0.15 V and a slower HER kinetics with the Tafel slope increased from 129.0 to 343.1 mV/dec. Density functional theory calculations revealed the synergy of the proton intercalation, substitutional P doping, and the associated OVs in the improvement of N2 activation and hydrogenation in eNRR. The increased eNRR and the suppressed HER led to a high Faradaic efficiency (FE) of 64.1% and the NH3 yield of 24.5 μg·mg cat–1 h–1 at −0.15 V versus RHE in H2SO4 (pH = 2) as the electrolyte. The specific NH3 yield is more than 20 times higher than that of C-WO3 (1.1 μg·mg cat–1 h–1 with a FE of 20%). The results exceed most of the reported eNRR performances for TMO-based catalysts. Thus, the synergistic proton intercalation and P doping could lead to newer designs and applications of TMO-based catalysts for improved eNRR while suppressing the competing HER.    
+
+    
+
+## Single Transition Metal Atom Catalyst for a High-Performance Li–S Battery with a Graphdiyne–Graphene Heterostructure Host: A DFT Investigation + ML Predictions   
+
+OpenAlex: https://openalex.org/W4398778565    
+Open access: False
+    
+[V G Abhijitha](https://openalex.org/A5072535948), [Rohit Batra](https://openalex.org/A5003850818), [B. R. K. Nanda](https://openalex.org/A5000182570), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02066.
+    
+Shuttling of lithium polysulfides (LiPSs) and slow kinetics of the sulfur reduction reaction (SRR) are considered as the major roadblocks for achieving high-performance lithium–sulfur batteries (LSBs). The solution lies in optimizing the binding strength of LiPSs and catalyzing the SRR. In this work, with the aid of density functional theory calculations, ab initio molecular dynamics simulation, and machine learning (ML), we show that a heterostructure made out of graphene (Gra) and transition metal (TM) atom-anchored graphdiyne (GDY) effectively addresses both these issues. Our results show that the large triangular pores of GDY allow easy penetration of Li+ ions into the sulfur-intercalated TM-GDY/Gra heterostructures and result in LiPSs. The sparsely distributed TM atoms on the GDY surface tune the binding strength of LiPSs and act as catalysts for SRR. Based on the binding strength of LiPSs, TM atom catalysts are categorized into strong, moderate, and weak. Gibbs's free-energy calculations reveal that heterostructures with moderate binding strength are best suited for SRR catalytic activity with barriers smaller than ∼0.4 eV. Furthermore, a Li2S decomposition barrier for the charging process is 3 times lower in the moderate class compared to pristine Gra. Feature importance analysis based on a gradient boosting regression ML model shows that the binding strength of LiPSs in the heterostructures is closely related to intrinsic electronic properties of TM and sulfur atoms, i.e., valence electronic configuration of the TM atom, electronegativity ratio of S to TM atom, and ionic radii of TM and S atoms. Furthermore, it also reveals that the energy barriers for the elementary steps of the SRR are related to the difference in the binding strength of LiPSs corresponding to the conversion step. This study elucidates the suitability of moderate binding heterostructures for LSBs; Fe, Co, Mn, and Rh are preferred single-atom catalysts to serve the purpose.    
+
+    
+
+## Regulating Adsorption of Intermediates via the Sulfur Modulating Dual-Atomic Sites for Boosting CO2RR   
+
+OpenAlex: https://openalex.org/W4398783341    
+Open access: False
+    
+[Kai Huang](https://openalex.org/A5025611870), [Ru Li](https://openalex.org/A5047778449), [Qi Hu](https://openalex.org/A5011881849), [Shuai Yang](https://openalex.org/A5090717104), [Shuhao An](https://openalex.org/A5047486213), [Cheng Lian](https://openalex.org/A5023414498), [Qing Xu](https://openalex.org/A5069765087), [Honglai Liu](https://openalex.org/A5067332215), [Jun Hu](https://openalex.org/A5054789376), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02098.
+    
+The formation of dual-atom catalysts or heteroatom ligand modulation is the most promising strategy for optimizing single–atom catalysts (SACs) for the more efficient conversion of CO2 to valuable chemicals. However, heteroatom ligands introduced into the dual-atomic sites are expected but still under-explored. In this study, a dual-atom Fe–Ni pair electrocatalyst with N– and S–coordination in porous carbon nanosheets was conceptually predicted for electrocatalytic CO2 reduction to CO (CO2RR). In contrast to SACs and traditional diatomic catalysts (DACs), joined S–coordination can balance the cooperative activities of Fe and Ni sites, making the CO2 adsorption configuration bidentate at both Fe–Ni sites. This regulation leads to a substantial change in CO* adsorption from Fe to Ni sites, facilitating CO desorption and boosting the electrocatalytic CO2RR. Experimental results demonstrate that the obtained FeNi–NSC catalyst achieves high selectivity with the Faradaic efficiencies for CO of 96.1%, and a remarkable activity with the turnover frequency of 6526.9 h–1 at −1.0 V, which were over 4.5 and 2.5 times of those from the single Fe or Ni sites. This work gives us insight into designing highly effective catalysts guided by theoretical calculation.    
 
     

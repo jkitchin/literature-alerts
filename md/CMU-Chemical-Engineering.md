@@ -1,32 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat May 25 01:04:47 2024
+Created on Sun May 26 01:11:12 2024
 
-Found 43 results from 2024-05-18 to 2024-05-25
+Found 46 results from 2024-05-19 to 2024-05-26
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Self-organized Patterns in Predator-Prey Droplet Systems   
-
-OpenAlex: https://openalex.org/W4397010234    
-Open access: True
-    
-[Yutong Liu](https://openalex.org/A5047262526), [R. Kailasham](https://openalex.org/A5034160371), [Pepijn G. Moerman](https://openalex.org/A5011172184), [Aditya S. Khair](https://openalex.org/A5018420940), [Lauren D. Zarzar](https://openalex.org/A5022036259), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-15zsd ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6646831b21291e5d1d76a5e1/original/self-organized-patterns-in-predator-prey-droplet-systems.pdf)).
-    
-Non-equilibrium patterns are widespread in nature and often arise from the self-organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil-in-water droplet mixtures with predator-prey interactions can result in a variety of self-organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self-organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.    
-
-    
-
-## Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills   
-
-OpenAlex: https://openalex.org/W4397020614    
-Open access: False
-    
-[Lingxiang Zhu](https://openalex.org/A5002137675), [Thien Tran](https://openalex.org/A5037749425), [Fangming Xiang](https://openalex.org/A5076767088), [Victor A. Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor A. Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2349470.
-    
-This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.    
-
-    
 
 ## Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis   
 
@@ -58,6 +36,61 @@ Open access: False
 [Jose S. Rodriguez](https://openalex.org/A5083976166), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Darren M. Hart](https://openalex.org/A5018784215), [Katherine A. Klise](https://openalex.org/A5010219882), [Jonathan B. Burkhardt](https://openalex.org/A5047752237), [Terranna Haxton](https://openalex.org/A5074586401), Journal of infrastructure systems. 30(3)] 2024.https://doi.org/10.1061/jitse4.iseng-2481.
     
 No abstract    
+
+    
+
+## A TRIVIALIDADE E O MAU USO DOS ANTIBIÓTICOS: DESENVOLVIMENTO DE SUPERBACTÉRIAS E OUTRAS REPERCUSSÕES   
+
+OpenAlex: https://openalex.org/W4398771463    
+Open access: True
+    
+[Gabrielle Pereira Damasceno](https://openalex.org/A5025814770), [Ana Carolyne Moribe](https://openalex.org/A5079994155), [Marcos Gontijo da Silva](https://openalex.org/A5036349909), [A. B. Silva](https://openalex.org/A5072007497), [Carmen Santana](https://openalex.org/A5022463139), [Daniela Cintia de Azevedo Dantas Vasconcelos](https://openalex.org/A5032020960), [Evilyn Rachel Teixeira Barreto Dos Anjos](https://openalex.org/A5091945628), [Gabriel Gomes](https://openalex.org/A5048633127), [GICELE SANTOS DA SILVA](https://openalex.org/A5022363638), [Itamar Medeiros Paiva Souza Filho](https://openalex.org/A5098811746), [Jonce de Oliveira](https://openalex.org/A5072397144), [Kallianna Dantas Araújo](https://openalex.org/A5088972019), [Leandro Bernardo Guimarães](https://openalex.org/A5001406942), [L. SILVA](https://openalex.org/A5071775437), [Maria Caroline Alexandre da Silva](https://openalex.org/A5088906851), [Marcos Sobral](https://openalex.org/A5012558479), [Maria S. Santos](https://openalex.org/A5026086117), [Margarida Albuquerque](https://openalex.org/A5027164298), [Ricardo Nascimento Abreu](https://openalex.org/A5068256343), [Yohana de Siqueira Queiroz](https://openalex.org/A5098811747), Contemporânea. 4(5)] 2024.https://doi.org/10.56083/rcv4n5-155 ([pdf](https://ojs.revistacontemporanea.com/ojs/index.php/home/article/download/4413/3370)).
+    
+Bactérias resistentes a antibióticos, também conhecidas como superbactérias, representam atualmente uma das principais ameaças à saúde pública mundial. Infecções por essas bactérias estão se tornando cada vez mais comuns e algumas delas são resistentes a praticamente todos os antibióticos existentes. O objetivo deste trabalho é discutir a banalização do uso de antibióticos com o surgimento de bactérias multirresistentes a antibióticos. Foi feita uma busca em portais científicos usando o termo de busca “superbactérias” e "bactérias multirresistentes”. Os artigos encontrados foram discutidos de forma narrativa. Conclusão: A velocidade com que os cientistas descobrem novos antibióticos vem sendo cada vez mais lenta. Nesse cenário, a Organização Mundial de Saúde estima que, se nada for feito para controlar essas superbactérias, a médio e longo prazo, estas serão responsáveis por milhões de mortes por ano no mundo, tornando-se mais letais que o câncer.    
+
+    
+
+## CFD Modeling of High-Flux Plate-and-Frame Membrane modules for industrial carbon capture   
+
+OpenAlex: https://openalex.org/W4398774513    
+Open access: False
+    
+[Cheick Dosso](https://openalex.org/A5093713938), [Héctor A. Pedrozo](https://openalex.org/A5079899169), [Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [David Hui‐Kang](https://openalex.org/A5083623112), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2352462.
+    
+No abstract    
+
+    
+
+## CFD and systems engineering to minimize membrane-based carbon capture costs   
+
+OpenAlex: https://openalex.org/W4398774799    
+Open access: False
+    
+[Héctor A. Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [Thien Tran](https://openalex.org/A5037749425), [David Hui‐Kang](https://openalex.org/A5083623112), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2352466.
+    
+In this study, we propose a superstructure for membrane-based carbon capture, addressing these challenges through the formulation of an optimization problem. The case study considers a flue gas with a flowrate of 1000 mol/s and a 30 % CO2 (molar basis), which is representative of steel plants. Reduced models, derived from rigorous CFD simulations of membrane modules, are utilized to enhance the efficiency of the optimization process. The reduced model includes specific input variables such as inlet flow rate, retentate and permeate pressures, and inlet CO2 concentration; while the CO2 recovery and purity in the permeate side are considered as output variables. In this way, we exploit the information from the CFD simulations in the superstructure, aiding in the selection of the optimal configuration for the multi-stage membrane process. The results underscore the efficiency of a multi-stage membrane design, showing capture costs around 45 $/t-CO2.    
+
+    
+
+## Carbon Capture through Membranes - Leveraging Multiphysics Modeling, Dimensional Analysis and Machine Learning to Scale up and Optimize Devices and Processes for Decarbonization   
+
+OpenAlex: https://openalex.org/W4398780627    
+Open access: False
+    
+[Héctor A. Pedrozo](https://openalex.org/A5079899169), [Cheick Dosso](https://openalex.org/A5093713938), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [Thien Tran](https://openalex.org/A5037749425), [David Hui‐Kang](https://openalex.org/A5083623112), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2352465.
+    
+We study the separation performance using membrane modules through dimensional analysis (DA). We formulate the main process equations to identify relevant dimensionless numbers inherent in the physics. In particular, we identify that the critical step in the separation process is mass transfer through the selective layer. Remarkably, the dimensionless feed flow (DFfeed) emerges as a crucial factor in describing this process. Not only does DFfeed directly appear in the governing equations, but it also holds a physical significance associated with the time scales for the mass transfer across the feed side and through the selective layer. Regarding the output performance variables, we consider the recovery, stage cut, productivity and purity. In this context, we profit from experimental data and CFD simulations to evaluate the separation performance of the modules when varying the input flowrate, the scale of the module, and the CO2 permeance. These datasets enable us to establish correlations between performance metrics and the dimensionless feed flow (DFfeed). Using simple power functions of DFfeed, we obtain R2 coefficients exceeding 0.99, indicating the accuracy of the correlations built in the present work. In the future, we wish to use DA to understand key transport mechanisms, predict and control module performance, and challenge the universality of these findings by testing various gas separations across different membrane modules beyond our case study.    
+
+    
+
+## CFD modeling of high-flux plate-and-frame membrane modules for industrial carbon capture   
+
+OpenAlex: https://openalex.org/W4398780693    
+Open access: False
+    
+[Cheick Dosso](https://openalex.org/A5093713938), [Lingxiang Zhu](https://openalex.org/A5002137675), [Victor A. Kusuma](https://openalex.org/A5041659494), [Thien Tran](https://openalex.org/A5037749425), [David Hui‐Kang](https://openalex.org/A5083623112), [Héctor A. Pedrozo](https://openalex.org/A5079899169), [Lorenz T. Biegler](https://openalex.org/A5052825722), [Grigorios Panagakos](https://openalex.org/A5028498558), No host. None(None)] 2024.https://doi.org/10.2172/2352463.
+    
+In this work, we explore the use of CO2-selective flat sheet membranes for capturing CO2 from point sources. We employ Computational Fluid Dynamics (CFD) models to design high-flux plate-and-frame membrane modules to achieve uniform flow distribution among membrane elements, minimize dead-end zones, and ease the common concentration polarization issue for gas separation membranes. The goal is to drive membrane technology improvements by providing better module designs for given membrane properties and operating conditions.    
 
     
 
