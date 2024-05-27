@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun May 26 01:11:10 2024
+Created on Mon May 27 01:07:30 2024
 
-Found 27 results from 2024-05-19 to 2024-05-26
+Found 27 results from 2024-05-20 to 2024-05-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Phosphorization-Induced “Fence Effect” on the Active Hydrogen Species Migration Enables Tunable CO2 Hydrogenation Selectivity   
-
-OpenAlex: https://openalex.org/W4397030606    
-Open access: False
-    
-[Chunpeng Wu](https://openalex.org/A5048629905), [Jiahui Shen](https://openalex.org/A5056408850), [Xingda An](https://openalex.org/A5038244618), [Zhiyi Wu](https://openalex.org/A5004342383), [Shuairen Qian](https://openalex.org/A5043570145), [Shumin Zhang](https://openalex.org/A5040303259), [Zhiqiang Wang](https://openalex.org/A5022938018), [Bin Song](https://openalex.org/A5070736389), [Yi Cheng](https://openalex.org/A5057638808), [Binhang Yan](https://openalex.org/A5047133857), [Tsun‐Kong Sham](https://openalex.org/A5036700518), [Shun Zhang](https://openalex.org/A5060613485), [Chaoran Li](https://openalex.org/A5075446655), [Kai Feng](https://openalex.org/A5033303258), [Le He](https://openalex.org/A5057537114), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00742.
-    
-No abstract    
-
-    
 
 ## Optimizing Selectivity in VOx/TiO2 Catalysts for Ammoxidation: Insights from Structure–Performance Relationships   
 
@@ -300,5 +289,16 @@ Open access: False
 [Kai Huang](https://openalex.org/A5025611870), [Ru Li](https://openalex.org/A5047778449), [Qi Hu](https://openalex.org/A5011881849), [Shuai Yang](https://openalex.org/A5090717104), [Shuhao An](https://openalex.org/A5047486213), [Cheng Lian](https://openalex.org/A5023414498), [Qing Xu](https://openalex.org/A5069765087), [Honglai Liu](https://openalex.org/A5067332215), [Jun Hu](https://openalex.org/A5054789376), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02098.
     
 The formation of dual-atom catalysts or heteroatom ligand modulation is the most promising strategy for optimizing single–atom catalysts (SACs) for the more efficient conversion of CO2 to valuable chemicals. However, heteroatom ligands introduced into the dual-atomic sites are expected but still under-explored. In this study, a dual-atom Fe–Ni pair electrocatalyst with N– and S–coordination in porous carbon nanosheets was conceptually predicted for electrocatalytic CO2 reduction to CO (CO2RR). In contrast to SACs and traditional diatomic catalysts (DACs), joined S–coordination can balance the cooperative activities of Fe and Ni sites, making the CO2 adsorption configuration bidentate at both Fe–Ni sites. This regulation leads to a substantial change in CO* adsorption from Fe to Ni sites, facilitating CO desorption and boosting the electrocatalytic CO2RR. Experimental results demonstrate that the obtained FeNi–NSC catalyst achieves high selectivity with the Faradaic efficiencies for CO of 96.1%, and a remarkable activity with the turnover frequency of 6526.9 h–1 at −1.0 V, which were over 4.5 and 2.5 times of those from the single Fe or Ni sites. This work gives us insight into designing highly effective catalysts guided by theoretical calculation.    
+
+    
+
+## Biocatalytic Heteroaromatic Amide Formation in Water Enabled by a Catalytic Tetrad and Two Access Tunnels   
+
+OpenAlex: https://openalex.org/W4399010432    
+Open access: True
+    
+[E. Zukic](https://openalex.org/A5085249086), [Daniel Mokos](https://openalex.org/A5093970075), [Minéia Weber](https://openalex.org/A5020247247), [Niklas Stix](https://openalex.org/A5010345470), [Klaus Ditrich](https://openalex.org/A5077268915), [Virgilio F. Ferrario](https://openalex.org/A5051013236), [Henrik Müller](https://openalex.org/A5059212484), [Christian Willrodt](https://openalex.org/A5034558449), [Karl Gruber](https://openalex.org/A5027940353), [Bastian Daniel](https://openalex.org/A5066897001), [Wolfgang Kroutil](https://openalex.org/A5009412615), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01268 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01268)).
+    
+No abstract    
 
     

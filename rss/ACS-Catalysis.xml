@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 May 2024 01:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 01:07:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Phosphorization-Induced &#8220;Fence Effect&#8221; on the Active Hydrogen Species Migration Enables Tunable CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation Selectivity</title>
-      <link>https://doi.org/10.1021/acscatal.4c00742</link>
-      <description>Chunpeng Wu, Jiahui Shen, Xingda An, Zhiyi Wu, Shuairen Qian, Shumin Zhang, Zhiqiang Wang, Bin Song, Yi Cheng, Binhang Yan, Tsun&#8208;Kong Sham, Shun Zhang, Chaoran Li, Kai Feng, Le He, ACS catalysis. None(None)] 2024. https://openalex.org/W4397030606
-
-                No abstract</description>
-      <author>Chunpeng Wu, Jiahui Shen, Xingda An, Zhiyi Wu, Shuairen Qian, Shumin Zhang, Zhiqiang Wang, Bin Song, Yi Cheng, Binhang Yan, Tsun&#8208;Kong Sham, Shun Zhang, Chaoran Li, Kai Feng, Le He</author>
-      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00742</guid>
-    </item>
     <item>
       <title>Optimizing Selectivity in VO&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;/TiO&lt;sub&gt;2&lt;/sub&gt; Catalysts for Ammoxidation: Insights from Structure&#8211;Performance Relationships</title>
       <link>https://doi.org/10.1021/acscatal.4c02141</link>
@@ -276,6 +266,16 @@
       <author>Kai Huang, Ru Li, Qi Hu, Shuai Yang, Shuhao An, Cheng Lian, Qing Xu, Honglai Liu, Jun Hu</author>
       <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02098</guid>
+    </item>
+    <item>
+      <title>Biocatalytic Heteroaromatic Amide Formation in Water Enabled by a Catalytic Tetrad and Two Access Tunnels</title>
+      <link>https://doi.org/10.1021/acscatal.4c01268</link>
+      <description>E. Zukic, Daniel Mokos, Min&#233;ia Weber, Niklas Stix, Klaus Ditrich, Virgilio F. Ferrario, Henrik M&#252;ller, Christian Willrodt, Karl Gruber, Bastian Daniel, Wolfgang Kroutil, ACS catalysis. None(None)] 2024. https://openalex.org/W4399010432
+
+                No abstract</description>
+      <author>E. Zukic, Daniel Mokos, Min&#233;ia Weber, Niklas Stix, Klaus Ditrich, Virgilio F. Ferrario, Henrik M&#252;ller, Christian Willrodt, Karl Gruber, Bastian Daniel, Wolfgang Kroutil</author>
+      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01268</guid>
     </item>
   </channel>
 </rss>

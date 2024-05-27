@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sun May 26 01:11:12 2024
+Created on Mon May 27 01:07:31 2024
 
-Found 46 results from 2024-05-19 to 2024-05-26
+Found 44 results from 2024-05-20 to 2024-05-27
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -94,58 +94,36 @@ In this work, we explore the use of CO2-selective flat sheet membranes for captu
 
     
 
-## CCDC 1015545: Experimental Crystal Structure Determination   
+## Oxidative corrosion resistance of a Cr Fe Ni1-- composition spread alloy film (CSAF) in dry air   
 
-OpenAlex: https://openalex.org/W4397063541    
+OpenAlex: https://openalex.org/W4399010088    
+Open access: False
+    
+[Camille Ferris](https://openalex.org/A5098829468), [Nicholas Golio](https://openalex.org/A5032276550), [Hervé Martínez](https://openalex.org/A5012154645), [Andrew J. Gellman](https://openalex.org/A5040842816), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160391.
+    
+No abstract    
+
+    
+
+## Unraveling the Mechanism of the Holes in the Blanket of Fog Over the Indo‐Gangetic Plains: Are They Driven by Urban Heat Islands or Aerosol?   
+
+OpenAlex: https://openalex.org/W4399011192    
 Open access: True
     
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2015.https://doi.org/10.5517/cc132rjg.
+[Anurose Theethai Jacob](https://openalex.org/A5002623282), [A. Jayakumar](https://openalex.org/A5031219711), [M. Sandhya](https://openalex.org/A5064440448), [Hamish Gordon](https://openalex.org/A5086004922), [S. Aryasree](https://openalex.org/A5031225939), [Saji Mohandas](https://openalex.org/A5002232943), [Shweta Bhati](https://openalex.org/A5029184991), [V. S. Prasad](https://openalex.org/A5002826424), Geophysical research letters. 51(10)] 2024.https://doi.org/10.1029/2023gl107252 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2023GL107252)).
     
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+Abstract Fog holes were reported over cities of the Indo‐Gangetic plains of India, which were attributed to the urban heat island (UHI) effect. The present study reports the observational evidence of fog holes over rural area using satellite and ground observations. Delayed onset and early dissipation of fog is observed over the holes. Numerical simulations demonstrate that aerosol‐radiation interaction (ARI) leads to fog holes over both urban and rural regions. The anthropogenic aerosols and associated ARI dominate the UHI effect over the urban fog holes, while the aerosol absorption due to ARI mainly controls the rural fog holes. Turning off aerosol absorption causes ∼ 2 hours delay in the fog dissipation over urban area, whereas it yields persistent fog over rural area under saturated environment. An enhancement of soluble Aitken black carbon over the fog holes indicates the importance of aging process during fog dissipation.    
 
     
 
-## CCDC 1013214: Experimental Crystal Structure Determination   
+## Efficient bounds tightening based on SOCP relaxations for AC optimal power flow   
 
-OpenAlex: https://openalex.org/W4397105919    
-Open access: True
+OpenAlex: https://openalex.org/W4399016103    
+Open access: False
     
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2015.https://doi.org/10.5517/cc130bbs.
+[Yuanxun Shao](https://openalex.org/A5067408554), [Dillard Robertson](https://openalex.org/A5090883506), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Anya Castillo](https://openalex.org/A5007259749), [Joseph K. Scott](https://openalex.org/A5091115429), Optimization and engineering. None(None)] 2024.https://doi.org/10.1007/s11081-024-09891-7.
     
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1013212: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397108799    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2015.https://doi.org/10.5517/cc130b8q.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1059113: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397182666    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Christopher Michas](https://openalex.org/A5016011694), [David Allenger](https://openalex.org/A5013398806), [Ilya Piskun](https://openalex.org/A5078568778), [Peter S. Coutros](https://openalex.org/A5055733181), [Gabriel Gomes](https://openalex.org/A5048633127), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2015.https://doi.org/10.5517/cc14k2yq.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1013215: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397214700    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2015.https://doi.org/10.5517/cc130bct.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+No abstract    
 
     
 

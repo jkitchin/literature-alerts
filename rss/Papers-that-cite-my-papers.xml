@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 26 May 2024 01:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 01:07:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Selective Activation of Methane on Hydroxyapatite Surfaces: Insights from Machine Learning and Density Functional Theory</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109762</link>
-      <description>Jing Wang, Xiaoyu Yan, Xin Wang, Mingli Yang, Dingguo Xu, Nano energy. None(None)] 2024. https://openalex.org/W4397031046
-
-                No abstract</description>
-      <author>Jing Wang, Xiaoyu Yan, Xin Wang, Mingli Yang, Dingguo Xu</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109762</guid>
-    </item>
-    <item>
-      <title>Transition Metal Single-Atom Supported on W2n3 as Efficient Electrocatalysts for the Nitrogen Reduction Reaction: A Dft Study</title>
-      <link>https://doi.org/10.2139/ssrn.4832791</link>
-      <description>Shengjie Xia, Jiyi Yang, Yue Meng, Zhiling Huang, Bo Xie, Ni Zhang, No host. None(None)] 2024. https://openalex.org/W4397031139
-
-                No abstract</description>
-      <author>Shengjie Xia, Jiyi Yang, Yue Meng, Zhiling Huang, Bo Xie, Ni Zhang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4832791</guid>
-    </item>
-    <item>
-      <title>Atomically dispersed Iridium on Mo2C as an efficient and stable alkaline hydrogen oxidation reaction catalyst</title>
-      <link>https://doi.org/10.1038/s41467-024-48672-9</link>
-      <description>Jinjie Fang, Haiyong Wang, Dianwei Qian, Hao Wang, Xingdong Wang, Jiajing Pei, Zhiyuan Xu, Chengjin Chen, Wei Zhu, Hui Li, Yushan Yan, Zhongbin Zhuang, Nature communications. 15(1)] 2024. https://openalex.org/W4397033739
-
-                Abstract Hydroxide exchange membrane fuel cells (HEMFCs) have the advantages of using cost-effective materials, but hindered by the sluggish anodic hydrogen oxidation reaction (HOR) kinetics. Here, we report an atomically dispersed Ir on Mo 2 C nanoparticles supported on carbon (Ir SA -Mo 2 C/C) as highly active and stable HOR catalysts. The specific exchange current density of Ir SA -Mo 2 C/C is 4.1 mA cm &#8722;2 ECSA , which is 10 times that of Ir/C. Negligible decay is observed after 30,000-cycle accelerated stability test. Theoretical calculations suggest the high HOR activity is attributed to the unique Mo 2 C substrate, which makes the Ir sites with optimized H binding and also provides enhanced OH binding sites. By using a low loading (0.05 mg Ir cm &#8722;2 ) of Ir SA -Mo 2 C/C as anode, the fabricated HEMFC can deliver a high peak power density of 1.64 W cm &#8722;2 . This work illustrates that atomically dispersed precious metal on carbides may be a promising strategy for high performance HEMFCs.</description>
-      <author>Jinjie Fang, Haiyong Wang, Dianwei Qian, Hao Wang, Xingdong Wang, Jiajing Pei, Zhiyuan Xu, Chengjin Chen, Wei Zhu, Hui Li, Yushan Yan, Zhongbin Zhuang</author>
-      <pubDate>Sat, 18 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-48672-9</guid>
-    </item>
     <item>
       <title>Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study</title>
       <link>https://doi.org/10.1016/j.apsusc.2024.160299</link>
@@ -170,11 +140,11 @@
     <item>
       <title>Synergistic modulation of the d-band center in Ni3S2 by selenium and iron for enhanced oxygen evolution reaction (OER) and urea oxidation reaction (UOR)</title>
       <link>https://doi.org/10.1016/j.jcis.2024.05.155</link>
-      <description>Xu Song, Dongxu Jiao, Xiaowen Ruan, Zhaoyong Jin, Yu Qiu, Jinchang Fan, Lei Zhang, Weitao Zheng, Xiaoqiang Cui, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4398164983
+      <description>Xu Song, Dongxu Jiao, Xiaowen Ruan, Zhaoyong Jin, Yu Qiu, Jinchang Fan, Lei Zhang, Weitao Zheng, Xiaoqiang Cui, Journal of colloid and interface science. 671(None)] 2024. https://openalex.org/W4398164983
 
-                No abstract</description>
+                Efficient production of green hydrogen energy is crucial in addressing the energy crisis and environmental concerns. The oxygen evolution reaction (OER) poses a challenge in conventional overall water electrolysis due to its slow thermodynamically process. Urea oxidation reaction (UOR) offers an alternative anodic oxidation method that is highly efficient and cost-effective, with favorable thermodynamics and sustainability. Recently, there has been limited research on bifunctional catalysts that exhibit excellent activity for both OER and UOR reactions. In this study, we developed a selenium and iron co-doped nickel sulfide (SeFe-Ni3S2) catalyst that demonstrated excellent Tafel slopes of 53.9 mV dec&#8722;1 and 16.4 mV dec&#8722;1 for OER and UOR, respectively. Density Functional Theory (DFT) calculations revealed that the introduction of metal (iron) and nonmetallic elements (selenium) was found to coordinate the d-band center, resulting in improved adsorption/desorption energies of the catalysts and reduced the overpotentials and limiting potentials for OER and UOR, respectively. This activity enhancement can be attributed to the altered electronic coordination structure after the introduction of selenium (Se) and iron (Fe), leading to an increase in the intrinsic activity of the catalyst. This work offers a new strategy for bifunctional catalysts for OER and UOR, presenting new possibilities for the future development of hydrogen production and novel energy conversion technologies It contributes towards the urgent search for technologies that efficiently produce green hydrogen energy, providing potential solutions to mitigate the energy crisis and protect the environment.</description>
       <author>Xu Song, Dongxu Jiao, Xiaowen Ruan, Zhaoyong Jin, Yu Qiu, Jinchang Fan, Lei Zhang, Weitao Zheng, Xiaoqiang Cui</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.05.155</guid>
     </item>
     <item>
@@ -628,14 +598,114 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4sc00628c</guid>
     </item>
     <item>
-      <title>Amine-functionalized macroporous resin for direct air capture with high CO2 capacity in real atmospheric conditions: Effects of moisture and oxygen</title>
-      <link>https://doi.org/10.1016/j.seppur.2024.127999</link>
-      <description>Zhao Shu, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yijun Wang, Zhen Huang, Hong Lin, Separation and purification technology. None(None)] 2024. https://openalex.org/W4397043380
+      <title>On the Capabilities of Transition Metal Carbides for Carbon Capture and Utilization Technologies</title>
+      <link>https://doi.org/10.1021/acsami.4c03735</link>
+      <description>H&#232;ctor Prats, Arturo Pajares, Francesc Vi&#241;es, Pilar Ram&#305;&#769;rez de la Piscina, R. Say&#243;s, Narc&#305;&#769;s Homs, Francesc Illas, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4398794360
+
+                The search for cheap and active materials for the capture and activation of CO</description>
+      <author>H&#232;ctor Prats, Arturo Pajares, Francesc Vi&#241;es, Pilar Ram&#305;&#769;rez de la Piscina, R. Say&#243;s, Narc&#305;&#769;s Homs, Francesc Illas</author>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c03735</guid>
+    </item>
+    <item>
+      <title>Optimization and prediction of catalysts for precise synthesis of methyl glycolate from dimethyl oxalate using machine learning coupled with particle swarm optimization algorithm</title>
+      <link>https://doi.org/10.1016/j.ces.2024.120295</link>
+      <description>Qingchun Yang, Jianhui Zhou, Renlie Bao, Dai Rong, Lei Zhao, Dawei Zhang, Chemical engineering science. None(None)] 2024. https://openalex.org/W4398794749
+
+                To optimize and predict the catalyst for precise synthesis of methyl glycolate (MG) from dimethyl oxalate, this study proposed a six-step machine learning framework coupled with a particle swarm optimization algorithm. The random forest (RF) model has the highest prediction accuracy after optimizing its hyperparameters. This preferred model has been rigorously validated using experimental data, showcasing a remarkable level of consistency with the observed trends. Then the catalytic performance of the dimethyl oxalate to methyl glycolate (DtMG) process is evaluated by the feature importance analysis and partial dependence plot approaches. It is recommended to operate at lower temperatures and pressures, higher space velocities, and hydrogen-to-ester ratio for MG production. Finally, the RF model coupled with the particle swarm optimization algorithm is employed to predict the optimal catalyst for maximizing MG yield and minimizing cost of the DtMG process, which successfully predicts seven new catalysts with higher yields and lower costs.</description>
+      <author>Qingchun Yang, Jianhui Zhou, Renlie Bao, Dai Rong, Lei Zhao, Dawei Zhang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ces.2024.120295</guid>
+    </item>
+    <item>
+      <title>Ce-doped copper oxide and copper vanadate Cu3VO4 hybrid for boosting nitrate electroreduction to ammonia</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.05.189</link>
+      <description>Meng Zhang, Yang Liu, Ying Duan, Xu Liu, Yanqin Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4398794763
+
+                The electrocatalytic nitrate reduction to ammonia reaction (ENO3RR) holds great potential as a cost-effective method for synthesizing ammonia. This work designed a cerium (Ce) doped Cu2+1O/Cu3VO4 catalyst. The coupling of vanadium-based oxides with Cu2+1O effectively adjusts the catalyst's electronic structure, addressing the inherent issues of limited activity and low conductivity in typical copper-based oxides; moreover, Ce doping generates oxygen vacancies (Ov), providing more active sites and thereby enhancing the ENO3RR performance. The catalyst exhibits superior NH3 Faradaic efficiency (93.7 %) with a NH3 yield of 18.905 mg h&#8722;1 cm&#8722;2 at &#8722;0.5 V vs. RHE under alkaline conditions. This study provides guidance for the design of highly efficient catalysts for ENO3RR.</description>
+      <author>Meng Zhang, Yang Liu, Ying Duan, Xu Liu, Yanqin Wang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.05.189</guid>
+    </item>
+    <item>
+      <title>Heterojunction catalysts of ultra-thin carbon layer activated Platinum nanoparticles for bifunctional pH-universal hydrogen evolution reaction and oxygen reduction reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.05.265</link>
+      <description>Hao Yu, Dongfang Chen, Guangxin Yang, Yuan Yuan, Huiyu Song, Shanwen Wang, Pucheng Pei, Xiao&#8211;Ming Xu, International journal of hydrogen energy. 71(None)] 2024. https://openalex.org/W4399007201
 
                 No abstract</description>
-      <author>Zhao Shu, Yiran Zhang, Linjia Li, Jiaqi Feng, Qiuping Wei, Yijun Wang, Zhen Huang, Hong Lin</author>
+      <author>Hao Yu, Dongfang Chen, Guangxin Yang, Yuan Yuan, Huiyu Song, Shanwen Wang, Pucheng Pei, Xiao&#8211;Ming Xu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.265</guid>
+    </item>
+    <item>
+      <title>Liquid metal-assisted solid-flame combustion synthesis of transition metal carbide nanocrystals for enhanced hydrogen evaluation reaction</title>
+      <link>https://doi.org/10.1016/j.ceramint.2024.05.409</link>
+      <description>Hayk H. Nersisyan, Jin-Young Jeong, Kwangsik Jeong, Hoyoung Suh, Sang-Kwon Lee, Ceramics international. None(None)] 2024. https://openalex.org/W4399007434
+
+                No abstract</description>
+      <author>Hayk H. Nersisyan, Jin-Young Jeong, Kwangsik Jeong, Hoyoung Suh, Sang-Kwon Lee</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.127999</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ceramint.2024.05.409</guid>
+    </item>
+    <item>
+      <title>High-calorific biohydrogen production under high pressure: Ca2+ addition, theoretical prediction, and continuous operation</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152538</link>
+      <description>Om Prakash, Masoud Makian, Young-Chae Song, Seoktae Kang, Dong&#8208;Hoon Kim, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399010032
+
+                No abstract</description>
+      <author>Om Prakash, Masoud Makian, Young-Chae Song, Seoktae Kang, Dong&#8208;Hoon Kim</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152538</guid>
+    </item>
+    <item>
+      <title>Efficient synthesis strategy and synergistic effect of Ni-Fe-Ru electrode for boosting alkaline water electrolysis</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152547</link>
+      <description>Junyu Zhang, Menglu Yang, Teng Huang, Jing Sun, Weiwei Hu, Yangyang Li, Fuyuan Yang, Minggao Ouyang, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399010152
+
+                No abstract</description>
+      <author>Junyu Zhang, Menglu Yang, Teng Huang, Jing Sun, Weiwei Hu, Yangyang Li, Fuyuan Yang, Minggao Ouyang</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152547</guid>
+    </item>
+    <item>
+      <title>Ru&lt;sub&gt;2&lt;/sub&gt;P/Ir&lt;sub&gt;2&lt;/sub&gt;P Heterostructure Promotes Hydrogen Spillover for Efficient Alkaline Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1002/aenm.202401426</link>
+      <description>Yong-Ju Hong, Sangyeon Jeong, Jae Hun Seol, Taekyung Kim, Seong Chan Cho, Tae Kyung Lee, Chuang Yang, Hionsuck Baik, Hyun S. Park, Eunsoo Lee, Sung Jong Yoo, Sang Uck Lee, Kwangyeol Lee, Advanced energy materials. None(None)] 2024. https://openalex.org/W4399011205
+
+                Abstract Efficient and durable electrocatalysts toward alkaline hydrogen evolution reaction (HER) are of great significance for the widespread application of anion&#8208;exchange membrane water electrolyzer (AEMWE). Numerous single&#8208;phase catalysts, such as Ru 2 P, have been explored as efficient HER catalysts; however, many have failed to overcome the inherent sluggish kinetics of the two separate steps involved in the alkaline HER: water dissociation and hydrogen production. In this study, density functional theory calculations are conducted to identify promising combinations of Ir 2 P and Ru 2 P materials that promote fast cascade water dissociation and H 2 production via kinetically favorable hydrogen spillover from the Ru 2 P surface to the adjacent Ir 2 P. An unprecedented construction of Ir 2 P cluster&#8208;decorated Ru 2 P hollow nanotubes ( c &#8208;RP/IP HNTs), which feature a cooperative heterostructural synergy are developed. This configuration shows greater performance than commercial Pt/C, achieving an overpotential of 23.2 mV at 10 mA cm &#8722; 2 and maintaining long&#8208;term stability for 55 h in half&#8208;cell tests. Furthermore, the practical AEMWE test, incorporating c &#8208;RP/IP HNTs, demonstrated a remarkable single&#8208;cell performance of 12.23 A cm &#8722;2 at 2.0 V and operated stably under 1.0 A cm &#8722;2 for over 250 h. This surpasses that of the state&#8208;of&#8208;the&#8208;art proton&#8208;exchange membrane WE.</description>
+      <author>Yong-Ju Hong, Sangyeon Jeong, Jae Hun Seol, Taekyung Kim, Seong Chan Cho, Tae Kyung Lee, Chuang Yang, Hionsuck Baik, Hyun S. Park, Eunsoo Lee, Sung Jong Yoo, Sang Uck Lee, Kwangyeol Lee</author>
+      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202401426</guid>
+    </item>
+    <item>
+      <title>Synthesis of 2D Gallium Sulfide with Ultraviolet Emission by MOCVD</title>
+      <link>https://doi.org/10.1002/smll.202402155</link>
+      <description>Oliver Ma&#223;meyer, Robin G&#252;nkel, Johannes Glowatzki, Philip Klement, Badrosadat Ojaghi Dogahe, Stefan R. Kachel, Felix Gruber, Marius J. M&#252;ller, Melanie Fey, J&#246;rg Sch&#246;rmann, J&#252;rgen Belz, Andreas Beyer, J. Michael Gottfried, Sangam Chatterjee, Kerstin Volz, Small. None(None)] 2024. https://openalex.org/W4399012942
+
+                Abstract Two&#8208;dimensional (2D) materials exhibit the potential to transform semiconductor technology. Their rich compositional and stacking varieties allow tailoring materials&#8217; properties toward device applications. Monolayer to multilayer gallium sulfide (GaS) with its ultraviolet band gap, which can be tuned by varying the layer number, holds promise for solar&#8208;blind photodiodes and light&#8208;emitting diodes as applications. However, achieving commercial viability requires wafer&#8208;scale integration, contrasting with established, limited methods such as mechanical exfoliation. Here the one&#8208;step synthesis of 2D GaS is introduced via metal&#8211;organic chemical vapor deposition on sapphire substrates. The pulsed&#8208;mode deposition of industry&#8208;standard precursors promotes 2D growth by inhibiting the vapor phase and on&#8208;surface pre&#8208;reactions. The interface chemistry with the growth of a Ga adlayer that results in an epitaxial relationship is revealed. Probing structure and composition validate thin&#8208;film quality and 2D nature with the possibility to control the thickness by the number of GaS pulses. The results highlight the adaptability of established growth facilities for producing atomically thin to multilayered 2D semiconductor materials, paving the way for practical applications.</description>
+      <author>Oliver Ma&#223;meyer, Robin G&#252;nkel, Johannes Glowatzki, Philip Klement, Badrosadat Ojaghi Dogahe, Stefan R. Kachel, Felix Gruber, Marius J. M&#252;ller, Melanie Fey, J&#246;rg Sch&#246;rmann, J&#252;rgen Belz, Andreas Beyer, J. Michael Gottfried, Sangam Chatterjee, Kerstin Volz</author>
+      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202402155</guid>
+    </item>
+    <item>
+      <title>Low-cost composite electrodes by active Fe3O4 (111) of fly ash magnetic-sphere for efficient electrochemical overall water splitting</title>
+      <link>https://doi.org/10.1007/s13762-024-05744-z</link>
+      <description>Ting Cheng, Chen Chen, Wen Ma, Feng Pan, Xiang Zhang, Hongjuan Ma, Baorong Hou, Xia Xin, International journal of environmental science and technology. None(None)] 2024. https://openalex.org/W4399027219
+
+                No abstract</description>
+      <author>Ting Cheng, Chen Chen, Wen Ma, Feng Pan, Xiang Zhang, Hongjuan Ma, Baorong Hou, Xia Xin</author>
+      <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s13762-024-05744-z</guid>
+    </item>
+    <item>
+      <title>Selective Oxidation of sp-Bonded Carbon in Graphdiyne/Carbon Nanotubes Heterostructures to Form Dominant Epoxy Groups for Two-Electron Oxygen Reduction</title>
+      <link>https://doi.org/10.1021/acsnano.4c01698</link>
+      <description>Tao L&#252;, Mingzi Sun, Fengmei Wang, Shan Chen, Youzeng Li, Jialei Chen, Xuelong Liao, Xiaoting Sun, Ying Liu, Fei Wang, Bolong Huang, Huan Wang, ACS nano. None(None)] 2024. https://openalex.org/W4399027908
+
+                No abstract</description>
+      <author>Tao L&#252;, Mingzi Sun, Fengmei Wang, Shan Chen, Youzeng Li, Jialei Chen, Xuelong Liao, Xiaoting Sun, Ying Liu, Fei Wang, Bolong Huang, Huan Wang</author>
+      <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01698</guid>
     </item>
     <item>
       <title>Unraveling the Correlation between the Interface Structures and Tunable Magnetic Properties of La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;CoO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt;/La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MnO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt; Bilayers Using Deep Learning Models</title>
@@ -650,10 +720,10 @@
     <item>
       <title>An overview about neural networks potentials in molecular dynamics simulation</title>
       <link>https://doi.org/10.1002/qua.27389</link>
-      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
+      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
 
                 Abstract Ab&#8208;initio molecular dynamics (AIMD) is a key method for realistic simulation of complex atomistic systems and processes in nanoscale. In AIMD, finite&#8208;temperature dynamical trajectories are generated by using forces computed from electronic structure calculations. In systems with high numbers of components a typical AIMD run is computationally demanding. On the other hand, machine learning (ML) is a subfield of the artificial intelligence that consist in a set of algorithms that show learning by experience with the use of input and output data where algorithms are capable of analysing and predicting the future. At present, the main application of ML techniques in atomic simulations is the development of new interatomic potentials to correctly describe the potential energy surfaces (PES). This technique is in constant progress since its inception around 30 years ago. The ML potentials combine the advantages of classical and Ab&#8208;initio methods, that is, the efficiency of a simple functional form and the accuracy of first principles calculations. In this article we review the evolution of four generations of machine learning potentials and some of their most notable applications. This review focuses on MLPs based on neural networks. Also, we present a state of art of this topic and future trends. Finally, we report the results of a scientometric study (covering the period 1995&#8211;2023) about the impact of ML techniques applied to atomistic simulations, distribution of publications by geographical regions and hot topics investigated in the literature.</description>
-      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez</author>
+      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez</author>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/qua.27389</guid>
     </item>
