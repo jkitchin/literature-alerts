@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 27 May 2024 01:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 01:06:32 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160299</link>
-      <description>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan, Applied surface science. None(None)] 2024. https://openalex.org/W4397289374
-
-                Single-cluster catalysts (SCCs) have emerged as highly efficient catalysts for the CO2 reduction reaction (CO2RR), providing a promising avenue to solve the carbon dilemma. Based on density functional theory calculations, we systematically investigated the capability of 12 tetra-atom transitional-metal clusters anchored on g-CN (TM4@g-CN) for CO2RR and found that all clusters have good stability on the substrate. Notably, the charge variation of the top metal atom (TM4) of six SCCs is close to zero which makes them readily donate electrons to the adsorbate CO2 and subsequent reaction intermediates. Our results demonstrate that CO2 can be efficiently reduced to HCOOH on Ni4, Cu4, and Au4@g-CN with low limiting potentials of &#8722;0.21, &#8722;0.22, and &#8722;0.19 V, respectively, outperforming the corresponding single-atom counterparts. Both &#916;G(&#8727;CO2) and &#916;G(&#8727;OCHO/&#8727;COOH) exhibit a volcano relationship with the reaction activity, and the TM4 serves as electron reservoirs throughout the entire reaction process. This work offers valuable insights for the advancement of cost-effective supported single cluster catalysts.</description>
-      <author>Wenjing Zhou, Xuxin Kang, Shan Gao, Xiangmei Duan</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160299</guid>
-    </item>
-    <item>
-      <title>Single atom catalysts with anion center toward oxygen electrocatalysis based on the conductive 1T-HfTe2</title>
-      <link>https://doi.org/10.1016/j.jcat.2024.115548</link>
-      <description>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang, Journal of catalysis. None(None)] 2024. https://openalex.org/W4397292015
-
-                Advancing efficient catalysts for oxygen reduction reaction (ORR) or oxygen evolution reaction (OER) is imperative for commercializing emerging energy devices. Using density functional theory (DFT) calculations, we propose doping different transition metal (TM) atoms to regulate the electronic structures of the two-dimensional 1T-HfTe2 monolayer to achieve bifunctional catalysis for the ORR/OER. Due to the small electronegativity of the Hf atom, we found the doped TMs can generally form anion centers by accepting abundant charges from the Hf interlayer. At the same time, the highly conductive 1T-HfTe2 contributes to the charge transfer between the active center and the reaction intermediates, rendering the designed SACs the tunable activity for the reactions. By comparing the theoretical overpotentials of ORR and OER on 15 single-atom catalysts (SACs), Pt-doped system exhibits excellent catalytic activity for both ORR and OER, outperforming the traditional Pt(1 1 1) and RuO2(1 1 0) catalysts. Based on the charge transfer mechanism, we clarified that the doped TM atoms act as a 'bridge' to transfer the electrons from the substrate to the reaction intermediates, thereby effectively contributing to the improvement of catalytic activity. In summary, our study shows that, by doping appropriate TM atoms, the intrinsic inert HfTe2 can be activated toward efficient ORR/OER. This could provide some guidance for the design of new two-dimensional ORR/OER bifunctional catalyst materials.</description>
-      <author>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115548</guid>
-    </item>
     <item>
       <title>Proton relay in hydrogen-bond networks promotes alkaline hydrogen evolution electrocatalysis</title>
       <link>https://doi.org/10.21203/rs.3.rs-4375967/v1</link>
@@ -720,10 +700,10 @@
     <item>
       <title>An overview about neural networks potentials in molecular dynamics simulation</title>
       <link>https://doi.org/10.1002/qua.27389</link>
-      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
+      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
 
                 Abstract Ab&#8208;initio molecular dynamics (AIMD) is a key method for realistic simulation of complex atomistic systems and processes in nanoscale. In AIMD, finite&#8208;temperature dynamical trajectories are generated by using forces computed from electronic structure calculations. In systems with high numbers of components a typical AIMD run is computationally demanding. On the other hand, machine learning (ML) is a subfield of the artificial intelligence that consist in a set of algorithms that show learning by experience with the use of input and output data where algorithms are capable of analysing and predicting the future. At present, the main application of ML techniques in atomic simulations is the development of new interatomic potentials to correctly describe the potential energy surfaces (PES). This technique is in constant progress since its inception around 30 years ago. The ML potentials combine the advantages of classical and Ab&#8208;initio methods, that is, the efficiency of a simple functional form and the accuracy of first principles calculations. In this article we review the evolution of four generations of machine learning potentials and some of their most notable applications. This review focuses on MLPs based on neural networks. Also, we present a state of art of this topic and future trends. Finally, we report the results of a scientometric study (covering the period 1995&#8211;2023) about the impact of ML techniques applied to atomistic simulations, distribution of publications by geographical regions and hot topics investigated in the literature.</description>
-      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez</author>
+      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez</author>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/qua.27389</guid>
     </item>

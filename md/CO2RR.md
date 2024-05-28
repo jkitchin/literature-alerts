@@ -1,22 +1,11 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon May 27 01:07:28 2024
+Created on Tue May 28 01:06:22 2024
 
-Found 197 results from 2024-05-20 to 2024-05-27
+Found 193 results from 2024-05-21 to 2024-05-28
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
-
-## Supported tetra-atom clusters on g-CN as catalysts for electrochemical reduction of carbon dioxide to formate: A computational study   
-
-OpenAlex: https://openalex.org/W4397289374    
-Open access: False
-    
-[Wenjing Zhou](https://openalex.org/A5006879069), [Xuxin Kang](https://openalex.org/A5054752343), [Shan Gao](https://openalex.org/A5040133039), [Xiangmei Duan](https://openalex.org/A5000121893), Applied surface science. None(None)] 2024.https://doi.org/10.1016/j.apsusc.2024.160299.
-    
-Single-cluster catalysts (SCCs) have emerged as highly efficient catalysts for the CO2 reduction reaction (CO2RR), providing a promising avenue to solve the carbon dilemma. Based on density functional theory calculations, we systematically investigated the capability of 12 tetra-atom transitional-metal clusters anchored on g-CN (TM4@g-CN) for CO2RR and found that all clusters have good stability on the substrate. Notably, the charge variation of the top metal atom (TM4) of six SCCs is close to zero which makes them readily donate electrons to the adsorbate CO2 and subsequent reaction intermediates. Our results demonstrate that CO2 can be efficiently reduced to HCOOH on Ni4, Cu4, and Au4@g-CN with low limiting potentials of −0.21, −0.22, and −0.19 V, respectively, outperforming the corresponding single-atom counterparts. Both ΔG(∗CO2) and ΔG(∗OCHO/∗COOH) exhibit a volcano relationship with the reaction activity, and the TM4 serves as electron reservoirs throughout the entire reaction process. This work offers valuable insights for the advancement of cost-effective supported single cluster catalysts.    
-
-    
 
 ## Atomic Design of Copper Active Sites in Pristine Metal–Organic Coordination Compounds for Electrocatalytic Carbon Dioxide Reduction   
 
@@ -249,17 +238,6 @@ No abstract
 
     
 
-## Pre-Reduction of Nchwaning Manganese Ore in Co/Co2, H2/H2o, and H2 Atmospheres   
-
-OpenAlex: https://openalex.org/W4397294283    
-Open access: False
-    
-[M. Ernst](https://openalex.org/A5066807971), [Merete Tangstad](https://openalex.org/A5086748509), [S.P. du Preez](https://openalex.org/A5071118055), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4833309.
-    
-Hydrogen (H2), a relatively underexplored reductant in ferromanganese (FeMn) production, offers an attractive avenue for mitigating gaseous carbon (C) emissions. The reduction behaviour of South African Nchwaning manganese (Mn) ore using gaseous CO/CO2, H2/H2O, and H2 atmospheres was investigated experimentally in the temperature variation of 700, 800, and 900 °C. The effect of different gas compositions and temperatures was studied using a vertical thermogravimetric (TG) tube furnace. During pre-reduction, two parallel reactions occurred, namely the reduction of higher Mn- and iron (Fe) -oxides, and the decomposition of carbonates. After each test, decrepitation, chemical composition, phase transformation, and porosity were characterised. Using the rate of mass loss, a kinetic model was obtained to predict kinetic constants. The oxidation state of the higher Mn- and Fe-oxides was lowered during CO/CO2 and H2/H2O pre-reduction. Only during pure H2 pre-reduction was Fe2+ reduced to its metallic state, Fe0. The majority of carbonates decomposed in the presence of the CO/CO2 atmosphere at 900 °C, whereas in the presence of H2 in the reducing atmosphere carbonates decomposed at a higher rate and at lower temperatures. Additionally, the extent and rate of mass loss were expedited by increasing the temperature, employing H2-containing atmospheres, and lowering the oxygen partial pressure (pO2) of the H2-containing atmospheres. No significant trends were observed in ore decrepitation and porosity across various atmospheres and temperatures, except for decrepitation in the water vapour-containing atmosphere. The utilisation of a pure H2 atmosphere has a significant ability for pre-reducing manganese ores with carbonate content by expediting carbonate decomposition and promoting Fe-oxide metallisation, thereby enhancing the efficiency of ore treatment in metallurgical applications.    
-
-    
-
 ## Anion Modulation of Ag‐Imidazole Cuboctahedral Cage Microenvironments for Efficient Electrocatalytic CO2 Reduction   
 
 OpenAlex: https://openalex.org/W4398139734    
@@ -304,6 +282,17 @@ The extensive utilization of fossil fuel energy has caused severe degradation to
 
     
 
+## Photoelectrochemical CO2 reduction in Tandem Photoelectrode Cells: Interpretation of Apparent Photocurrents   
+
+OpenAlex: https://openalex.org/W4399034792    
+Open access: False
+    
+[Michele Del Moro](https://openalex.org/A5026222021), [Radu‐George Ciocarlan](https://openalex.org/A5086897194), [Beatriz De la Fuente](https://openalex.org/A5098854228), [Daniel Choukroun](https://openalex.org/A5057673021), [Pegie Cool](https://openalex.org/A5014043312), [Annick Hubin](https://openalex.org/A5060715968), [Tom Hauffman](https://openalex.org/A5071202928), [Tom Breugelmans](https://openalex.org/A5060948708), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144493.
+    
+No abstract    
+
+    
+
 ## Efficient electrocatalytic reduction of CO2 to CO enhanced by synergistic effect of N, P on carbon aerogel   
 
 OpenAlex: https://openalex.org/W4398775510    
@@ -326,17 +315,6 @@ Due to the industrial revolution the emission of CO2 in the air reached to a not
 
     
 
-## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface All product analysis.opj   
-
-OpenAlex: https://openalex.org/W4398474904    
-Open access: True
-    
-[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/t6cm2g.
-    
-For figures containing product and faradaic efficiency quantification    
-
-    
-
 ## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Figure S17.png   
 
 OpenAlex: https://openalex.org/W4398398898    
@@ -348,14 +326,14 @@ Open access: True
 
     
 
-## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Gas chromatography data.tab   
+## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface All product analysis.opj   
 
-OpenAlex: https://openalex.org/W4398268849    
+OpenAlex: https://openalex.org/W4398474904    
 Open access: True
     
-[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/w739hv.
+[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/t6cm2g.
     
-:unav    
+For figures containing product and faradaic efficiency quantification    
 
     
 
@@ -365,6 +343,17 @@ OpenAlex: https://openalex.org/W4398323960
 Open access: True
     
 [David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/zvqzy4.
+    
+:unav    
+
+    
+
+## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Gas chromatography data.tab   
+
+OpenAlex: https://openalex.org/W4398268849    
+Open access: True
+    
+[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/w739hv.
     
 :unav    
 
@@ -403,6 +392,17 @@ No abstract
 
     
 
+## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Figure 2k 02a-1.5M.jpg   
+
+OpenAlex: https://openalex.org/W4398464426    
+Open access: True
+    
+[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/oq0xsj.
+    
+:unav    
+
+    
+
 ## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Figure 2c 03b-1.5M.jpg   
 
 OpenAlex: https://openalex.org/W4398556535    
@@ -420,17 +420,6 @@ OpenAlex: https://openalex.org/W4398286777
 Open access: True
     
 [David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/inotr9.
-    
-:unav    
-
-    
-
-## Dataset for: Bio-inspired hydrophobicity promotes CO2 reduction on a Cu surface Figure 2k 02a-1.5M.jpg   
-
-OpenAlex: https://openalex.org/W4398464426    
-Open access: True
-    
-[David Wakerley](https://openalex.org/A5011758590), [Sarah Lamaison](https://openalex.org/A5025359691), [François Ozanam](https://openalex.org/A5077202582), [Nicolas Menguy](https://openalex.org/A5000475841), [Dimitri Mercier](https://openalex.org/A5002203341), [Philippe Marcus](https://openalex.org/A5085329915), [Marc Fontecave](https://openalex.org/A5062221634), [Victor Mougel](https://openalex.org/A5017673806), Harvard Dataverse. None(None)] 2019.https://doi.org/10.7910/dvn/dspzhe/oq0xsj.
     
 :unav    
 
@@ -540,7 +529,7 @@ Photocatalytic reduction of CO2 to formic acid (HCOOH) was investigated in eithe
 OpenAlex: https://openalex.org/W4398247962    
 Open access: False
     
-[Rodrigo Andrés Espinosa Flores](https://openalex.org/A5083839406), [M. Trejo-Valdéz](https://openalex.org/A5013441661), [Maria Elena Manríquez-Ramírez](https://openalex.org/A5023749877), [Francisco Javier Tzompantzi-Morales](https://openalex.org/A5088541319), [Hugo Martínez‐Gutiérrez](https://openalex.org/A5064900846), [Arturo Susarrey Arce](https://openalex.org/A5042388863), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4839642.
+[Rodrigo Andrés Espinosa Flores](https://openalex.org/A5083839406), [M. Trejo-Valdéz](https://openalex.org/A5013441661), [María Elena Manríquez-Ramírez](https://openalex.org/A5023749877), [Francisco Javier Tzompantzi-Morales](https://openalex.org/A5088541319), [Hugo Martínez‐Gutiérrez](https://openalex.org/A5064900846), [Arturo Susarrey Arce](https://openalex.org/A5042388863), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4839642.
     
 No abstract    
 
@@ -777,17 +766,6 @@ Abstract The accelerating climate warming requires fast methods to reduce atmosp
 
     
 
-## Poly(amidoamine) Dendrimer Modified with Terminal Hydroxyl Functional Group as an Efficient Alternative for CO2 Capture   
-
-OpenAlex: https://openalex.org/W4398205794    
-Open access: False
-    
-[Thiago M. Rossi](https://openalex.org/A5016520695), [M. S. M. Almeida](https://openalex.org/A5089649408), [Moisés Barbosa de Souza](https://openalex.org/A5008801364), [Elizabete F. Lucas](https://openalex.org/A5035666353), [Bluma Soares](https://openalex.org/A5048173457), Journal of the Brazilian Chemical Society. None(None)] 2025.https://doi.org/10.21577/0103-5053.20240083.
-    
-Poly(amidoamine)-type dendrimers (PAMAM) were synthesized by divergent routes, and generations (G0.5, G1.0, G1.5, G2.0 and G2.5) along with hydroxylated half-generation polymers (G0.5-OH, G1.5-OH and G2.5-OH) were characterized by Fourier-transform infrared spectroscopy, thermogravimetric analysis and differential scanning calorimetry. Carbon dioxide (CO2) capture tests were performed using thermogravimetric analysis. Among the absorption temperatures tested, 60 °C was the most promising: 0.77, 1.08, and 1.14 mol CO2 L-1 for G0.5-OH, G1.5-OH and G2.5-OH, respectively, of CO2 and partial pressure of 45 kPa. This showed that dendrimers with larger molecular structures have more hydroxyl groups and consequently capture more CO2. However, at low partial pressures (< 2 kPa), CO2 solubility in PAMAM increased with temperature reduction, confirmed by Henry’s solubility constant (398.4 mol m-3 kPa-1, in G2.5-OH at 40 °C). According to the thermodynamic properties of CO2 solubilization, the process was spontaneous (∆Gsol < 0) and exothermic (∆Hsol < 0).    
-
-    
-
 ## Application of hydrogen operated burners in the electric arc furnace   
 
 OpenAlex: https://openalex.org/W4398202397    
@@ -796,6 +774,17 @@ Open access: True
 [L Schüttensack](https://openalex.org/A5098753276), [A Reinicke](https://openalex.org/A5098753277), [Thomas Echterhof](https://openalex.org/A5028823281), IOP conference series. Materials science and engineering. 1309(1)] 2024.https://doi.org/10.1088/1757-899x/1309/1/012011.
     
 Abstract The steel making industry has one of the highest carbon dioxide emissions worldwide. The recycling route with the electric arc furnace (EAF) as the central aggregate emits less carbon dioxide in comparison to the blast furnace. Still, the EAF offers high potential for a reduction of the carbon dioxide emissions. One possibility is the substitution of natural gas by hydrogen in the auxiliary burners of the EAF. This substitution is investigated and analysed using a dynamic EAF process model. The model is able to simulate the combustion of natural gas as well as hydrogen. The differences in the operating conditions and properties by the hydrogen operated burners can be analysed in the results of the EAF process model.    
+
+    
+
+## Poly(amidoamine) Dendrimer Modified with Terminal Hydroxyl Functional Group as an Efficient Alternative for CO2 Capture   
+
+OpenAlex: https://openalex.org/W4398205794    
+Open access: False
+    
+[Thiago M. Rossi](https://openalex.org/A5016520695), [M. S. M. Almeida](https://openalex.org/A5089649408), [Moisés Barbosa de Souza](https://openalex.org/A5008801364), [Elizabete F. Lucas](https://openalex.org/A5035666353), [Bluma Soares](https://openalex.org/A5048173457), Journal of the Brazilian Chemical Society. None(None)] 2025.https://doi.org/10.21577/0103-5053.20240083.
+    
+Poly(amidoamine)-type dendrimers (PAMAM) were synthesized by divergent routes, and generations (G0.5, G1.0, G1.5, G2.0 and G2.5) along with hydroxylated half-generation polymers (G0.5-OH, G1.5-OH and G2.5-OH) were characterized by Fourier-transform infrared spectroscopy, thermogravimetric analysis and differential scanning calorimetry. Carbon dioxide (CO2) capture tests were performed using thermogravimetric analysis. Among the absorption temperatures tested, 60 °C was the most promising: 0.77, 1.08, and 1.14 mol CO2 L-1 for G0.5-OH, G1.5-OH and G2.5-OH, respectively, of CO2 and partial pressure of 45 kPa. This showed that dendrimers with larger molecular structures have more hydroxyl groups and consequently capture more CO2. However, at low partial pressures (< 2 kPa), CO2 solubility in PAMAM increased with temperature reduction, confirmed by Henry’s solubility constant (398.4 mol m-3 kPa-1, in G2.5-OH at 40 °C). According to the thermodynamic properties of CO2 solubilization, the process was spontaneous (∆Gsol < 0) and exothermic (∆Hsol < 0).    
 
     
 
@@ -887,17 +876,6 @@ The Chinese government has implemented environmental regulations to address the 
 
     
 
-## Study on carbon emissions towards flange connection joints of assembled steel structures   
-
-OpenAlex: https://openalex.org/W4397293942    
-Open access: True
-    
-[Jianpeng Guo](https://openalex.org/A5038048526), [Yanxia Zhang](https://openalex.org/A5055287971), [Ming-zhao Zheng](https://openalex.org/A5051337582), [Xi Zhao](https://openalex.org/A5032158808), [Bobo Wu](https://openalex.org/A5085261336), Low-carbon materials and green construction. 2(1)] 2024.https://doi.org/10.1007/s44242-024-00036-8 ([pdf](https://link.springer.com/content/pdf/10.1007/s44242-024-00036-8.pdf)).
-    
-Abstract In order to comply with the trend of global climate change, countries are gradually promoting energy conservation and emission reduction, and prefabricated buildings have become one of the main paths for the construction industry to develop towards carbon peaking and carbon neutrality goals. This paper takes the box-shaped column flange connection achieved by plug welding-core sleeve in the dormitory building of Tongzhou Campus of the Affiliated High School of Capital Normal University in China as the research object. Based on the consumption quota of prefabricated construction projects and the actual project quantity, the carbon emissions of steel structure column connection joints at different phases are calculated by the emission factor method, and it is proposed that the production consumption of building materials plays a key role in energy conservation and emission reduction. This paper concludes that the box-shaped column flange connection achieved by plug welding-core sleeve in the construction phase of an assembled steel building emits 49.5% less carbon dioxide than a conventional full fusion-welded joint. And the reason for the high carbon emissions of the latter is mainly from the amount of materials and machinery required for full penetration welding. It further affirms the green and environmental protection effect of the assembled steel structure plug welding-core sleeve flange connection joint in actual projects, and provides a reference for related research.    
-
-    
-
 ## Optimization of the Co-Production between the Rice Husk and the Pulp of the Cashew Apple Produced in the Natural Region of Casamance   
 
 OpenAlex: https://openalex.org/W4398183270    
@@ -942,17 +920,6 @@ Abstract One of the major challenges in the civil engineering sector is the dura
 
     
 
-## Perspective Study of Bio-CNG In India   
-
-OpenAlex: https://openalex.org/W4398393067    
-Open access: True
-    
-[M L Pavan](https://openalex.org/A5066495022), Harvard Dataverse. None(None)] 2021.https://doi.org/10.7910/dvn/n6qhlz.
-    
-It takes several of years for dead organisms to get converted into fuels. Continues usage of these fuels is the major concern of depletion of it. BioCNG is a purified form of biogas, in which all unwanted gases (> 95%) of pure methane gas are removed. BioCNG is exactly the same as the natural gas. In India, we have inadequency in fuel sources, so we depend on oil-rich countries. Today there is a burning need for alternative fuels because fossil fuels are getting vanished. It is therefore necessary to find another source of energy.A replacement to those exhausting resources can be made by using Bio CNG. Bio-CNG is a good automotive fuel and has lower emissions and makes it more environmentally friendly than biogas and other fuels.. Bio-CNG is much cheaper than other competitive fuels. The biogas produced from anaerobic digestion are further processed and hydrogen sulphide and carbon dioxide are removed so that the final product contains 90% - 95% methane to be used as BioCNG. IIf the Government of India focuses on Bio CNG, then there will be a reduction in imports of petroleum products, thus saving a significant amount of foreign exchange every year.    
-
-    
-
 ## Does Pricing Carbon Mitigate Climate Change? Firm-Level Evidence from the European Union Emissions Trading System   
 
 OpenAlex: https://openalex.org/W4398764704    
@@ -961,6 +928,17 @@ Open access: True
 [Jonathan Colmer](https://openalex.org/A5071170836), [Ralf Martin](https://openalex.org/A5014870225), [Mirabelle Muûls](https://openalex.org/A5083434532), [Ulrich J. Wagner](https://openalex.org/A5055239264), Review of economic studies/The review of economic studies. None(None)] 2024.https://doi.org/10.1093/restud/rdae055 ([pdf](https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae055/57885562/rdae055.pdf)).
     
 Abstract In theory, market-based regulatory instruments correct market failures at least cost. However, evidence on their efficacy remains scarce. Using administrative data, we estimate that, on average, the EU ETS – the world's first and largest market-based climate policy – induced regulated manufacturing firms to reduce carbon dioxide emissions by 14-16% with no detectable contractions in economic activity. We find no evidence of outsourcing to unregulated firms or markets; instead, firms made targeted investments, reducing the emissions intensity of production. These results indicate that the EU ETS induced global emissions reductions, a necessary and sufficient condition for mitigating climate change. We show that the absence of any negative economic effects can be rationalized in a model where pricing the externality induces firms to make fixed-cost investments in energy-saving capital that reduce marginal variable costs.    
+
+    
+
+## Perspective Study of Bio-CNG In India   
+
+OpenAlex: https://openalex.org/W4398393067    
+Open access: True
+    
+[M L Pavan](https://openalex.org/A5066495022), Harvard Dataverse. None(None)] 2021.https://doi.org/10.7910/dvn/n6qhlz.
+    
+It takes several of years for dead organisms to get converted into fuels. Continues usage of these fuels is the major concern of depletion of it. BioCNG is a purified form of biogas, in which all unwanted gases (> 95%) of pure methane gas are removed. BioCNG is exactly the same as the natural gas. In India, we have inadequency in fuel sources, so we depend on oil-rich countries. Today there is a burning need for alternative fuels because fossil fuels are getting vanished. It is therefore necessary to find another source of energy.A replacement to those exhausting resources can be made by using Bio CNG. Bio-CNG is a good automotive fuel and has lower emissions and makes it more environmentally friendly than biogas and other fuels.. Bio-CNG is much cheaper than other competitive fuels. The biogas produced from anaerobic digestion are further processed and hydrogen sulphide and carbon dioxide are removed so that the final product contains 90% - 95% methane to be used as BioCNG. IIf the Government of India focuses on Bio CNG, then there will be a reduction in imports of petroleum products, thus saving a significant amount of foreign exchange every year.    
 
     
 
@@ -1030,17 +1008,6 @@ Phase Change Materials (PCMs) in building envelopes have the potential to reduce
 
     
 
-## Influence of Supercritical CO2 Fracturing Fluid on the Permeability of Shale Reservoir and Mechanism Analysis   
-
-OpenAlex: https://openalex.org/W4398144722    
-Open access: True
-    
-[Qingbin Guo](https://openalex.org/A5078245072), [Ze Li](https://openalex.org/A5066222509), [Xin Zeng](https://openalex.org/A5016052087), [Dan Li](https://openalex.org/A5016142983), [Hongyu An](https://openalex.org/A5052040538), [Li Min Zhao](https://openalex.org/A5059661815), [Liang Tao](https://openalex.org/A5045622740), [Qiang Li](https://openalex.org/A5069771802), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.3c09728 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.3c09728)).
-    
-Reduction of the reservoir permeability during supercritical CO2 fracturing caused significant reservoir damage, which directly affects the crude oil recovery rate. This investigation explored a novel thickener for supercritical CO2 fracturing fluid, this CO2 thickener not only effectively improves the viscosity and rheological properties of CO2 fracturing fluid but also contributes to reduce reservoir damage and improve permeability. The research results indicated that the synthesized CO2 thickener (3 wt %) can increase the apparent viscosity of supercritical CO2 fracturing fluid to 7 mPa·s, and a 9% matrix permeability damage rate and a 0.5 mD permeability decrease value are shown in a 3% CO2 fracturing fluid. However, 3 wt % of commercial CO2 thickener only increases the apparent viscosity of supercritical CO2 fracturing fluid to 3 mPa·s, while the reservoir damage rate increases to 13%. Two thickeners exhibit completely different damage capabilities to the reservoir, and the synthesized CO2 thickener shows excellent characteristics of reducing reservoir permeability and is also conducive to protecting shale reservoirs. Furthermore, supercritical CO2 fracturing fluid containing synthetic thickeners has better temperature and shear resistance compared with commercial thickeners. This may be because the synthesized thickener and the micro grid formed by supercritical CO2 reduce the adsorption in shale crevices, but a large amount of commercial thickeners can adsorb on the surface of shale.    
-
-    
-
 ## Quantifying air quality co-benefits to industrial decarbonization: the local Air Emissions Tracking Atlas   
 
 OpenAlex: https://openalex.org/W4398781732    
@@ -1052,14 +1019,14 @@ Introduction Many decarbonization technologies have the added co-benefit of redu
 
     
 
-## Mesomorphology of clathrate hydrates from molecular ordering   
+## Influence of Supercritical CO2 Fracturing Fluid on the Permeability of Shale Reservoir and Mechanism Analysis   
 
-OpenAlex: https://openalex.org/W4398132031    
+OpenAlex: https://openalex.org/W4398144722    
 Open access: True
     
-[Carlos L. Bassani](https://openalex.org/A5020466206), [Michael Engel](https://openalex.org/A5053968423), [Amadeu K. Sum](https://openalex.org/A5007040952), Journal of chemical physics online/The Journal of chemical physics/Journal of chemical physics. 160(19)] 2024.https://doi.org/10.1063/5.0200516 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0200516/19960555/190901_1_5.0200516.pdf)).
+[Qingbin Guo](https://openalex.org/A5078245072), [Ze Li](https://openalex.org/A5066222509), [Xin Zeng](https://openalex.org/A5016052087), [Dan Li](https://openalex.org/A5016142983), [Hongyu An](https://openalex.org/A5052040538), [Li Min Zhao](https://openalex.org/A5059661815), [Liang Tao](https://openalex.org/A5045622740), [Qiang Li](https://openalex.org/A5069771802), ACS omega. None(None)] 2024.https://doi.org/10.1021/acsomega.3c09728 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsomega.3c09728)).
     
-Clathrate hydrates are crystals formed by guest molecules that stabilize cages of hydrogen-bonded water molecules. Whereas thermodynamic equilibrium is well described via the van der Waals and Platteeuw approach, the increasing concerns with global warming and energy transition require extending the knowledge to non-equilibrium conditions in multiphase, sheared systems, in a multiscale framework. Potential macro-applications concern the storage of carbon dioxide in the form of clathrates, and the reduction of hydrate inhibition additives currently required in hydrocarbon production. We evidence porous mesomorphologies as key to bridging the molecular scales to macro-applications of low solubility guests. We discuss the coupling of molecular ordering with the mesoscales, including (i) the emergence of porous patterns as a combined factor from the walk over the free energy landscape and 3D competitive nucleation and growth and (ii) the role of molecular attachment rates in crystallization–diffusion models that allow predicting the timescale of pore sealing. This is a perspective study that discusses the use of discrete models (molecular dynamics) to build continuum models (phase field models, crystallization laws, and transport phenomena) to predict multiscale manifestations at a feasible computational cost. Several advances in correlated fields (ice, polymers, alloys, and nanoparticles) are discussed in the scenario of clathrate hydrates, as well as the challenges and necessary developments to push the field forward.    
+Reduction of the reservoir permeability during supercritical CO2 fracturing caused significant reservoir damage, which directly affects the crude oil recovery rate. This investigation explored a novel thickener for supercritical CO2 fracturing fluid, this CO2 thickener not only effectively improves the viscosity and rheological properties of CO2 fracturing fluid but also contributes to reduce reservoir damage and improve permeability. The research results indicated that the synthesized CO2 thickener (3 wt %) can increase the apparent viscosity of supercritical CO2 fracturing fluid to 7 mPa·s, and a 9% matrix permeability damage rate and a 0.5 mD permeability decrease value are shown in a 3% CO2 fracturing fluid. However, 3 wt % of commercial CO2 thickener only increases the apparent viscosity of supercritical CO2 fracturing fluid to 3 mPa·s, while the reservoir damage rate increases to 13%. Two thickeners exhibit completely different damage capabilities to the reservoir, and the synthesized CO2 thickener shows excellent characteristics of reducing reservoir permeability and is also conducive to protecting shale reservoirs. Furthermore, supercritical CO2 fracturing fluid containing synthetic thickeners has better temperature and shear resistance compared with commercial thickeners. This may be because the synthesized thickener and the micro grid formed by supercritical CO2 reduce the adsorption in shale crevices, but a large amount of commercial thickeners can adsorb on the surface of shale.    
 
     
 
@@ -1071,6 +1038,17 @@ Open access: True
 [Alena Novikova](https://openalex.org/A5072316219), [M. G. Poltavskaya](https://openalex.org/A5021358756), [Maria Pavlova](https://openalex.org/A5026515048), [П. Ш. Чомахидзе](https://openalex.org/A5027131654), [А. А. Быкова](https://openalex.org/A5041159692), [Nadezhda A. Potemkina](https://openalex.org/A5045188702), [Maria Chashkina](https://openalex.org/A5091726384), [Z. Z.A. Fashafsha](https://openalex.org/A5020567008), [D. F. Mesitskaya](https://openalex.org/A5087211020), [Н. А. Гогиберидзе](https://openalex.org/A5087180869), [Anna Levshina](https://openalex.org/A5031236551), [Ilya Giverts](https://openalex.org/A5082970378), [Dmitry Shchekochikhin](https://openalex.org/A5083704479), [Д. А. Андреев](https://openalex.org/A5020168860), Journal of clinical medicine. 13(11)] 2024.https://doi.org/10.3390/jcm13113045 ([pdf](https://www.mdpi.com/2077-0383/13/11/3045/pdf?version=1716387879)).
     
 State-of-the-art therapy improves the five-year survival rate of patients under the age of 20 with cranial and craniospinal tumors by up to 74%. The urgency of dealing effectively with late treatment-associated cardiovascular complications is rising. Objective: We aimed to assess echocardiographic parameters and exercise performance in subjects with a history of complex treatment for cranial and craniospinal tumors in childhood. Methods: the study of 48 subjects who underwent cranial and craniospinal irradiation for CNS tumors in childhood and 20 healthy age- and sex-matched volunteers was conducted. The examination included hormone studies, cardiopulmonary exercise testing, and, in the main group, echocardiography (ECHO). Results: In five (10.4%) patients, ECHO changes were detected after complex anti-cancer treatment: thickening and calcification of the aortic valve leaflets (2%), and reduction in the systolic LV and RV function (8% and 6%, respectively). Irradiation of various areas was a significant predictor for reduced exercise tolerance, hyperventilation at rest and upon exertion, and an increased ventilatory equivalent for carbon dioxide. Low exercise tolerance was associated with a younger age at the time of treatment initiation. Significant differences were noted between the control group and the childhood cancer survivors with endocrine disorders. Conclusions: The obtained data confirm the importance of regular cardiovascular and endocrine monitoring of this group of cancer survivors.    
+
+    
+
+## Mesomorphology of clathrate hydrates from molecular ordering   
+
+OpenAlex: https://openalex.org/W4398132031    
+Open access: True
+    
+[Carlos L. Bassani](https://openalex.org/A5020466206), [Michael Engel](https://openalex.org/A5053968423), [Amadeu K. Sum](https://openalex.org/A5007040952), Journal of chemical physics online/The Journal of chemical physics/Journal of chemical physics. 160(19)] 2024.https://doi.org/10.1063/5.0200516 ([pdf](https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0200516/19960555/190901_1_5.0200516.pdf)).
+    
+Clathrate hydrates are crystals formed by guest molecules that stabilize cages of hydrogen-bonded water molecules. Whereas thermodynamic equilibrium is well described via the van der Waals and Platteeuw approach, the increasing concerns with global warming and energy transition require extending the knowledge to non-equilibrium conditions in multiphase, sheared systems, in a multiscale framework. Potential macro-applications concern the storage of carbon dioxide in the form of clathrates, and the reduction of hydrate inhibition additives currently required in hydrocarbon production. We evidence porous mesomorphologies as key to bridging the molecular scales to macro-applications of low solubility guests. We discuss the coupling of molecular ordering with the mesoscales, including (i) the emergence of porous patterns as a combined factor from the walk over the free energy landscape and 3D competitive nucleation and growth and (ii) the role of molecular attachment rates in crystallization–diffusion models that allow predicting the timescale of pore sealing. This is a perspective study that discusses the use of discrete models (molecular dynamics) to build continuum models (phase field models, crystallization laws, and transport phenomena) to predict multiscale manifestations at a feasible computational cost. Several advances in correlated fields (ice, polymers, alloys, and nanoparticles) are discussed in the scenario of clathrate hydrates, as well as the challenges and necessary developments to push the field forward.    
 
     
 
@@ -1151,17 +1129,6 @@ CO2 pre-injection fracturing is a promising technology for shale reservoirs deve
 
     
 
-## Life Cycle Cost and Environmental Impacts of Portland Limestone Cement and Calcium Sulfoaluminate Cement as Alternative Binders in Concrete   
-
-OpenAlex: https://openalex.org/W4398786927    
-Open access: False
-    
-[Iyanuoluwa Filani](https://openalex.org/A5098812714), [Ali Azhar Butt](https://openalex.org/A5028877217), [John Harvey](https://openalex.org/A5016101667), Rilem bookseries. None(None)] 2024.https://doi.org/10.1007/978-3-031-61585-6_7.
-    
-Use of portland limestone cement (PLC) instead of ordinary portland cement (OPC) Type I/II in conventional concrete pavement and calcium sulfoaluminate (CSA) cement instead of OPC Type III in rapid strength concrete (RSC) are commonly proposed strategies that could reduce greenhouse gas (GHG) emissions for the Caltrans highway network and meet the state's climate change mitigation goals. This study aims to quantify the potential global warming abatement cost of PLC and CSA cement use in California at the project and network level using life cycle cost analysis and life cycle assessment and to determine the benefits and disbenefits of the two proposed cement types. Results from the analysis showed that the abatement cost for replacing PLC with OPC Type I/II is $180/tonne of CO2-eq reduction, while the cost for replacing OPC Type III cement with CSA in RSC is $1,422/tonne of CO2-eq reduction.    
-
-    
-
 ## Photocatalytic CO2 reduction with iron porphyrin catalysts and anthraquinone dyes   
 
 OpenAlex: https://openalex.org/W4398775832    
@@ -1173,14 +1140,14 @@ Herein we studied visible-light-driven CO2 reduction using a series of tetra-phe
 
     
 
-## Financing and Management Strategies for Expanding Green Development Projects: A Case Study of Energy Corporation in China’s Renewable Energy Sector Using Machine Learning (ML) Modeling   
+## Life Cycle Cost and Environmental Impacts of Portland Limestone Cement and Calcium Sulfoaluminate Cement as Alternative Binders in Concrete   
 
-OpenAlex: https://openalex.org/W4398222943    
-Open access: True
+OpenAlex: https://openalex.org/W4398786927    
+Open access: False
     
-[Chenyu Han](https://openalex.org/A5080202977), [Ling Yang](https://openalex.org/A5056883376), Sustainability. 16(11)] 2024.https://doi.org/10.3390/su16114338 ([pdf](https://www.mdpi.com/2071-1050/16/11/4338/pdf?version=1716300070)).
+[Iyanuoluwa Filani](https://openalex.org/A5098812714), [Ali Azhar Butt](https://openalex.org/A5028877217), [John Harvey](https://openalex.org/A5016101667), Rilem bookseries. None(None)] 2024.https://doi.org/10.1007/978-3-031-61585-6_7.
     
-This study investigates potential financing and management strategies that the Energy Corporation, a Chinese renewable energy company, could adopt in order to expand its green development projects. While China has made significant advancements in renewable energy, its heavy reliance on fossil fuels necessitates a shift towards a more sustainable energy system. To analyze the factors driving and impeding sustainability, this article provides an overview of China’s energy sector and policies. Through case studies of the Energy Corporation and other prominent renewable energy companies, the study showcases a range of demonstration projects, financing models, and management technologies that have the potential to accelerate the growth of sustainable initiatives. Recommendations from expert interviews are also provided, covering areas such as optimizing investment, monitoring distributed assets, and balancing social and environmental impacts. The results show that the Energy Corporation can effectively develop wind, solar, and energy efficiency projects nationwide by leveraging partnerships, utilizing green bonds, employing big data platforms, and engaging stakeholders, while also setting sustainability benchmarks. With a strategic approach, Energy Corporation aims to invest USD 1 billion over the next five years, targeting a renewable energy capacity of 5000 MW and a 20% reduction in CO2 emissions. Achieving these goals would position Chinese companies as global leaders in the transition to renewable energy. The study also utilized an artificial neural network (ANN) to analyze the impact of increasing green jobs and renewable energy capacities on CO2 emission reduction and economic growth. The results indicate that green jobs have a more significant effect on reducing CO2 emissions compared to renewable energy capacities. When green jobs increased while energy capacities remained constant, substantial CO2 reductions were observed, but the economic growth was only 1%. However, when there was a moderate increase in jobs alongside a four-fold increase in renewable energy capacities, economic growth reached 4%. The neural network’s prediction errors were deemed acceptable based on linear regression analysis and experimental results.    
+Use of portland limestone cement (PLC) instead of ordinary portland cement (OPC) Type I/II in conventional concrete pavement and calcium sulfoaluminate (CSA) cement instead of OPC Type III in rapid strength concrete (RSC) are commonly proposed strategies that could reduce greenhouse gas (GHG) emissions for the Caltrans highway network and meet the state's climate change mitigation goals. This study aims to quantify the potential global warming abatement cost of PLC and CSA cement use in California at the project and network level using life cycle cost analysis and life cycle assessment and to determine the benefits and disbenefits of the two proposed cement types. Results from the analysis showed that the abatement cost for replacing PLC with OPC Type I/II is $180/tonne of CO2-eq reduction, while the cost for replacing OPC Type III cement with CSA in RSC is $1,422/tonne of CO2-eq reduction.    
 
     
 
@@ -1192,6 +1159,17 @@ Open access: True
 [Mauro Morichetti](https://openalex.org/A5044434090), [Elia Vangi](https://openalex.org/A5069869083), [Alessio Collalti](https://openalex.org/A5031523852), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.05.20.594964 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/05/21/2024.05.20.594964.full.pdf)).
     
 Through photosynthesis, forests absorb annually massive amounts of atmospheric CO2. However, they also release CO2 back through respiration. The net ecosystem exchange (NEE) determines how much carbon forests store or release. The mean seasonal cycle (MSC) is an interesting metric that associate phenology and carbon (C) partitioning-allocation within forest stands. Here we applied the 3D-CMCC-FEM model and analyzed its capability to represent the main C-fluxes, by validating the model against observed data, questioning if the sink/source mean seasonality is influenced under two scenarios of climate change, in five European forest sites. We found the model showing under current climate conditions robust predictive abilities in estimating NEE. The analysis also reveals a consistent reduction of the forest's capabilities to act as a C-sink under climate change and stand-ageing at all sites. Such a reduction is modelled despite the number of annual days of C-sink in evergreen increasing over the years, indicating a consistent downward trend. Similarly, deciduous forests, despite maintaining a relatively stable number of C-sink days throughout the year and over the century, show a reduction in the overall annual C-sink capacity. Overall both types of forests at all sites show a consistent reduction in their future mitigating potential.    
+
+    
+
+## Financing and Management Strategies for Expanding Green Development Projects: A Case Study of Energy Corporation in China’s Renewable Energy Sector Using Machine Learning (ML) Modeling   
+
+OpenAlex: https://openalex.org/W4398222943    
+Open access: True
+    
+[Chenyu Han](https://openalex.org/A5080202977), [Ling Yang](https://openalex.org/A5056883376), Sustainability. 16(11)] 2024.https://doi.org/10.3390/su16114338 ([pdf](https://www.mdpi.com/2071-1050/16/11/4338/pdf?version=1716300070)).
+    
+This study investigates potential financing and management strategies that the Energy Corporation, a Chinese renewable energy company, could adopt in order to expand its green development projects. While China has made significant advancements in renewable energy, its heavy reliance on fossil fuels necessitates a shift towards a more sustainable energy system. To analyze the factors driving and impeding sustainability, this article provides an overview of China’s energy sector and policies. Through case studies of the Energy Corporation and other prominent renewable energy companies, the study showcases a range of demonstration projects, financing models, and management technologies that have the potential to accelerate the growth of sustainable initiatives. Recommendations from expert interviews are also provided, covering areas such as optimizing investment, monitoring distributed assets, and balancing social and environmental impacts. The results show that the Energy Corporation can effectively develop wind, solar, and energy efficiency projects nationwide by leveraging partnerships, utilizing green bonds, employing big data platforms, and engaging stakeholders, while also setting sustainability benchmarks. With a strategic approach, Energy Corporation aims to invest USD 1 billion over the next five years, targeting a renewable energy capacity of 5000 MW and a 20% reduction in CO2 emissions. Achieving these goals would position Chinese companies as global leaders in the transition to renewable energy. The study also utilized an artificial neural network (ANN) to analyze the impact of increasing green jobs and renewable energy capacities on CO2 emission reduction and economic growth. The results indicate that green jobs have a more significant effect on reducing CO2 emissions compared to renewable energy capacities. When green jobs increased while energy capacities remained constant, substantial CO2 reductions were observed, but the economic growth was only 1%. However, when there was a moderate increase in jobs alongside a four-fold increase in renewable energy capacities, economic growth reached 4%. The neural network’s prediction errors were deemed acceptable based on linear regression analysis and experimental results.    
 
     
 
@@ -1371,17 +1349,6 @@ The formation of dual-atom catalysts or heteroatom ligand modulation is the most
 
     
 
-## Comparing Environmental Impacts of Single-Junction Silicon and Silicon/Perovskite Tandem Photovoltaics–A Prospective Life Cycle Assessment   
-
-OpenAlex: https://openalex.org/W4398776117    
-Open access: True
-    
-[Mitchell K. van der Hulst](https://openalex.org/A5079657424), [Dorottya Magoss](https://openalex.org/A5098813040), [Yiri Massop](https://openalex.org/A5098813041), [Sjoerd Veenstra](https://openalex.org/A5032443297), [Niels van Loon](https://openalex.org/A5098240830), [İlker Doğan](https://openalex.org/A5003325498), [Gianluca Coletti](https://openalex.org/A5003045854), [Mirjam Theelen](https://openalex.org/A5085367855), [Selwyn Hoeks](https://openalex.org/A5073248920), [Mark A. J. Huijbregts](https://openalex.org/A5080182359), [Rosalie van Zelm](https://openalex.org/A5012796306), [Mara Hauck](https://openalex.org/A5064635494), ACS sustainable chemistry & engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.4c01952 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acssuschemeng.4c01952)).
-    
-Tandem photovoltaics applying perovskite on silicon are considered to be a possible route to sustaining continuous efficiency improvements and price reductions. A meaningful market share for such tandems is, however, at least a decade away. Herein, a comprehensive prospective life cycle assessment was conducted, comparing the full life cycle of monofacial and bifacial silicon/perovskite tandem panels with single-junction silicon panels produced up to 2050. The end-of-life included the recovery of silicon and silver. Climate change impacts per kilowatt hour were projected to decrease by two-thirds over time. Tandem panels are expected to reach impacts of 8–10 g CO2-eq/kWh in 2050, while single-junction panels may reach 11–13 g CO2-eq/kWh in 2050. Other midpoint impact categories with substantial contributions to damaging human health and ecosystem quality were toxicity, particulate matter formation, and acidification, with tandems having lower impacts in each category. Reductions in impacts over time are mainly the result of grid mix decarbonization and panel efficiency improvements. Balance-of-system and recycling were found to contribute substantially to these impact categories. To ensure that tandem panels provide environmental benefits, annual degradation rates should not exceed 1% for monofacial or 3% for bifacial tandems, and refurbishment of panels with advanced degradation is crucial.    
-
-    
-
 ## Utilization of Charcoal Obtained from Woody Biomass in Metallurgical Processes Based on Solid–Gas Reactions   
 
 OpenAlex: https://openalex.org/W4398145575    
@@ -1393,14 +1360,14 @@ The high demand for carbon-based products within pyrometallurgy is placing the i
 
     
 
-## محددات استخدام الطاقة الشمسية كأحد مصادر الطاقة المتجددة في مصر Determinants of the use of solar energy as one of renewable energy sources in Egypt   
+## Comparing Environmental Impacts of Single-Junction Silicon and Silicon/Perovskite Tandem Photovoltaics–A Prospective Life Cycle Assessment   
 
-OpenAlex: https://openalex.org/W4399024995    
+OpenAlex: https://openalex.org/W4398776117    
 Open access: True
     
-[سهام عقل عبد الله عاشور](https://openalex.org/A5098834945), No host. 61(61)] 2017.https://doi.org/10.21608/skjaz.2017.355887 ([pdf](https://skjaz.journals.ekb.eg/article_355887_93a1ca4bd972285ec26ec98f6b9afcaf.pdf)).
+[Mitchell K. van der Hulst](https://openalex.org/A5079657424), [Dorottya Magoss](https://openalex.org/A5098813040), [Yiri Massop](https://openalex.org/A5098813041), [Sjoerd Veenstra](https://openalex.org/A5032443297), [Niels van Loon](https://openalex.org/A5098240830), [İlker Doğan](https://openalex.org/A5003325498), [Gianluca Coletti](https://openalex.org/A5003045854), [Mirjam Theelen](https://openalex.org/A5085367855), [Selwyn Hoeks](https://openalex.org/A5073248920), [Mark A. J. Huijbregts](https://openalex.org/A5080182359), [Rosalie van Zelm](https://openalex.org/A5012796306), [Mara Hauck](https://openalex.org/A5064635494), ACS sustainable chemistry & engineering. None(None)] 2024.https://doi.org/10.1021/acssuschemeng.4c01952 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acssuschemeng.4c01952)).
     
-ملخص : لقد تزايد الطلب على المصادر المتجددة للطاقة ، ويرجع ذلك إلى المزايا العديدة التي توفرها هذه المصادر وعلى رأسها الحد من إنبعاثات الغازات السامة والضارة بصحة الإنسان. وتلعب الطاقة الشمسية على وجه الخصوص ـــ كمصدر من مصادر الطاقة المتجددة ـــ دوراً واعداً في كل من الدول النامية والمتقدمة على حد السواء. فهي من ناحية مصدر نظيف للطاقة وصديق للبيئة لأنه يمكن استخدامها في توليد الكهرباء دون أن يصاحب ذلك انبعاث للغازات الدفيئة أو الغازات السامة مثل ثاني أكسيد الكربون وأكسيد النيتروجين وغيرها، ومن ناحية أخرى فإنه من السهولة بمكان تركيب الخلايا الشمسية على أسطح المنازل وبالتالي يمكن أن تكون وسيلة لإنتاج كهرباء نظيفة في المناطق الريفية. وعلى الرغم من المزايا التي توفرها الطاقة الشمسية إلا أن استخدامها في توليد الكهرباء في مصر مازال محدوداً للغاية ولا يتناسب على الإطلاق مع الإمكانات المتوفرة في مصر من هذا المصدر من مصادر الطاقة المتجددة. Abstract The demand for renewable sources of energy is increasing due to the many advantages provided by these sources, mainly the reduction of toxic and harmful emissions of human health. Solar energy in particular - as a source of renewable energy - plays a promising role in both developing and developed countries. It is a clean source of energy and environmentally friendly because it can be used to generate electricity without accompanying emissions of greenhouse gases or toxic gases such as carbon dioxide, nitrogen oxides and others. On the other hand, it is easy to install solar cells on rooftops and thus can be a means to produce clean electricity in rural areas. Despite the advantages offered by solar energy, its use in generating electricity in Egypt is still very limited and is in no way commensurate with the potential available in Egypt from this source of renewable energy sources.    
+Tandem photovoltaics applying perovskite on silicon are considered to be a possible route to sustaining continuous efficiency improvements and price reductions. A meaningful market share for such tandems is, however, at least a decade away. Herein, a comprehensive prospective life cycle assessment was conducted, comparing the full life cycle of monofacial and bifacial silicon/perovskite tandem panels with single-junction silicon panels produced up to 2050. The end-of-life included the recovery of silicon and silver. Climate change impacts per kilowatt hour were projected to decrease by two-thirds over time. Tandem panels are expected to reach impacts of 8–10 g CO2-eq/kWh in 2050, while single-junction panels may reach 11–13 g CO2-eq/kWh in 2050. Other midpoint impact categories with substantial contributions to damaging human health and ecosystem quality were toxicity, particulate matter formation, and acidification, with tandems having lower impacts in each category. Reductions in impacts over time are mainly the result of grid mix decarbonization and panel efficiency improvements. Balance-of-system and recycling were found to contribute substantially to these impact categories. To ensure that tandem panels provide environmental benefits, annual degradation rates should not exceed 1% for monofacial or 3% for bifacial tandems, and refurbishment of panels with advanced degradation is crucial.    
 
     
 
@@ -1412,6 +1379,17 @@ Open access: True
 [Xiaoke Liu](https://openalex.org/A5031627202), [Shuang Jin](https://openalex.org/A5004269829), [Jiaxin Yang](https://openalex.org/A5018740261), [Yuhui Zhou](https://openalex.org/A5053146953), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4383360/v1 ([pdf](https://www.researchsquare.com/article/rs-4383360/latest.pdf)).
     
 Abstract Lightweight and multifunctional polymer foams reveal a promising prospect, in terms of reducing energy consumption, and saving materials and resources. Herein, carbon dioxide (CO2) was captured through three amines, such as ethylenediamine (EDA), 1,3-propylenediamine (PDA) and 1,2-cyclohexanediamine (TRK). CO2 then released under heat, used as a foaming agent in the preparation of polyethylene (PE) foams. Cyclodextrin nanosponge (NS) was used as a heterogeneous nucleating agent and a carrier for complex of captured CO2. Evaluation system was developed to control the conditions of combine process, such as thermal and crystallization properties. Results showed that TRK was the proper CO2 capture candidate, with mass ratio of 1:4 for NS and TRK (NS:TRK-CO2(1:4)), and the release temperature of CO2 was 137 ℃. Foamed PE composite was prepared by molding process with NS:TRK-CO2(1:4). The optimum cell morphology was obtained with 5 wt% NS:TRK-CO2(1:4), the cell diameter was 116 µm, and the cell density was 7.9×104 cell/cm3. The best fabricated microcellular PE/NS:TRK-CO2(1:4) composite presented excellent mechanical, thermal and sound insulating performance. The maximum tensile strength of the PE composite was 25.48 MPa, and the maximum bending strength was 11.27 MPa. The impact strength was 5.77 KJ•m-2, more than 1.5 times higher than pure PE. The thermal conductivity was as low as 0.076 W/m•k, the sound absorption coefficient was 0.737 at 1500 Hz, and the noise reduction coefficient was 0.459.    
+
+    
+
+## محددات استخدام الطاقة الشمسية كأحد مصادر الطاقة المتجددة في مصر Determinants of the use of solar energy as one of renewable energy sources in Egypt   
+
+OpenAlex: https://openalex.org/W4399024995    
+Open access: True
+    
+[سهام عقل عبد الله عاشور](https://openalex.org/A5098834945), No host. 61(61)] 2017.https://doi.org/10.21608/skjaz.2017.355887 ([pdf](https://skjaz.journals.ekb.eg/article_355887_93a1ca4bd972285ec26ec98f6b9afcaf.pdf)).
+    
+ملخص : لقد تزايد الطلب على المصادر المتجددة للطاقة ، ويرجع ذلك إلى المزايا العديدة التي توفرها هذه المصادر وعلى رأسها الحد من إنبعاثات الغازات السامة والضارة بصحة الإنسان. وتلعب الطاقة الشمسية على وجه الخصوص ـــ كمصدر من مصادر الطاقة المتجددة ـــ دوراً واعداً في كل من الدول النامية والمتقدمة على حد السواء. فهي من ناحية مصدر نظيف للطاقة وصديق للبيئة لأنه يمكن استخدامها في توليد الكهرباء دون أن يصاحب ذلك انبعاث للغازات الدفيئة أو الغازات السامة مثل ثاني أكسيد الكربون وأكسيد النيتروجين وغيرها، ومن ناحية أخرى فإنه من السهولة بمكان تركيب الخلايا الشمسية على أسطح المنازل وبالتالي يمكن أن تكون وسيلة لإنتاج كهرباء نظيفة في المناطق الريفية. وعلى الرغم من المزايا التي توفرها الطاقة الشمسية إلا أن استخدامها في توليد الكهرباء في مصر مازال محدوداً للغاية ولا يتناسب على الإطلاق مع الإمكانات المتوفرة في مصر من هذا المصدر من مصادر الطاقة المتجددة. Abstract The demand for renewable sources of energy is increasing due to the many advantages provided by these sources, mainly the reduction of toxic and harmful emissions of human health. Solar energy in particular - as a source of renewable energy - plays a promising role in both developing and developed countries. It is a clean source of energy and environmentally friendly because it can be used to generate electricity without accompanying emissions of greenhouse gases or toxic gases such as carbon dioxide, nitrogen oxides and others. On the other hand, it is easy to install solar cells on rooftops and thus can be a means to produce clean electricity in rural areas. Despite the advantages offered by solar energy, its use in generating electricity in Egypt is still very limited and is in no way commensurate with the potential available in Egypt from this source of renewable energy sources.    
 
     
 
@@ -1580,17 +1558,6 @@ Portland cement is widely used in the construction industry. Its production cont
 
     
 
-## 土留壁方式・同時挿入工法による地中熱交換器の採熱特性   
-
-OpenAlex: https://openalex.org/W4397292246    
-Open access: True
-    
-[Fumiaki CHIBA](https://openalex.org/A5098695099), [Hirotake Akata](https://openalex.org/A5002932500), [Makoto Tago](https://openalex.org/A5067725570), [Yoshimi Komatsu](https://openalex.org/A5023847390), [Takashi Ishikami](https://openalex.org/A5034719305), [Satoko Taniguchi](https://openalex.org/A5087707285), [Kenichirou JIN](https://openalex.org/A5098695100), [Toshio Igarashi](https://openalex.org/A5089886884), Nihon Kikai Gakkai ronbunshu. None(None)] 2024.https://doi.org/10.1299/transjsme.24-00031 ([pdf](https://www.jstage.jst.go.jp/article/transjsme/advpub/0/advpub_24-00031/_pdf)).
-    
-Ground heat is a renewable energy source that is less affected by atmospheric temperature and maintains a nearly constant temperature throughout the year. Therefore, it can serve as a heat source for hot water and air conditioning systems, resulting in a significant reduction in carbon dioxide emissions compared to conventional systems. In Japan, the recognition of the use of ground heat is still low, and the prices of ground heat exchangers and geothermal heat pumps tend to be high. In addition, the excavation cost is very high, so it is very important to reduce the construction cost. One cost-saving method is to install a ground heat exchanger in the core material of the earth retaining wall, which has been shown to reduce construction costs by more than 50%. In this study, a numerical program was developed to clarify the performance and characteristics of a ground heat exchanger attached to an H-beam in a "Pre-installation method using the earth retaining wall". Then, the factors influencing the heat extraction performance of two U-Tube heat exchangers connected in series, four U-Tube heat exchangers connected in series and two W-Tube heat exchangers connected in series were investigated. Firstly, the validity of the calculation program was confirmed by comparing the numerical results with the experimental thermal response results. Secondly, numerical simulations were performed using the calculation program, and the following results were obtained. Under the conditions defined in this study, we found that the rate of heat extraction increases as the flow rate of the heat extraction medium increases in all ground heat exchangers. However, it becomes difficult to increase the heat extraction when the flow of the heat extraction medium reaches a turbulent area. All three models confirmed that the H-beam expanded the area where the formation temperature changes and increased the temperature of the heat extraction medium. This led to an enhanced heat extraction performance of the ground heat exchanger. Finally, we compared the heat extraction performance of several ground heat exchangers using the 'coefficient of heat extraction or rejection'. The results showed that the four U-Tube model had the highest performance, followed by the two W-Tube model, and the two U-Tube model had the lowest performance, although the differences were small.    
-
-    
-
 ## H 2 -enriched gaseous fuel production via steam-gasification of biomass by using lime-based sorbents   
 
 OpenAlex: https://openalex.org/W4398137984    
@@ -1654,17 +1621,6 @@ Open access: True
 [Jan Klobása](https://openalex.org/A5098732586), [Rudolf Hela](https://openalex.org/A5067925357), Acta Polytechnica CTU Proceedings. 47(None)] 2024.https://doi.org/10.14311/app.2024.47.0066 ([pdf](https://ojs.cvut.cz/ojs/index.php/APP/article/download/9855/7143)).
     
 Currently, great importance is attached to the reduction of emissions in industrial production, especially in the production of cement, when it is indicated that during production 1 ton of cement produces approximately 0.6 ton of CO2. Reducing emissions is possible thanks to secondary raw materials, which are produced in large quantities in the Czech Republic volumes for which a suitable use is sought. Some secondary raw materials are suitable for use in concrete mixes, which are used to improve the rheology of the fresh concrete mixture as well as the properties hardened concrete. Currently, there is an effort to eliminate the production of cement, to which its partial replacement by admixtures could also contribute. Therefore it is necessary determine the optimal admixture that could be used to replace part of the cement in concrete mix. A large consumer of concrete mixes are transport structures, where it is possible for some of the cement used to be replaced by an admixture.    
-
-    
-
-## Effects of steam feeding on microwave heating of cellulose with magnetite used as susceptor   
-
-OpenAlex: https://openalex.org/W4397290004    
-Open access: False
-    
-[Hiroyuki Tamiya](https://openalex.org/A5019903441), [Shuichi Takayama](https://openalex.org/A5003210434), [Keisuke Mukai](https://openalex.org/A5058113313), [Juro Yagi](https://openalex.org/A5031183969), International journal of hydrogen energy. 71(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.05.261.
-    
-Microwave heating (MWH) of lignocellulosic biomass with susceptors has attracted attention for H2 production. In this study, H2 is produced from cellulose via MWH at 800 °C in a steam atmosphere with magnetite used as the susceptor. The effects of steam feeding and MWH on the product yields are experimentally investigated in comparison with conventional heating (CH). The H2 and CO2 yields are increased by steam feeding for both MWH and CH because the water–gas shift reaction occurs. Without steam feeding, MWH enhances H2 and CO production, thereby increasing the maximum energy efficiency. With steam feeding, the steam gasification of C is more predominant for CH than for MWH as the reduction in the C content in the char of CH is higher than that of MWH. MWH reduces the formation of secondary char, and it is therefore expected to overcome issues such as the clogging or blockage of gas lines.    
 
     
 
@@ -1734,17 +1690,6 @@ The importance and breadth of applications of the family of quaternary chalcogen
 
     
 
-## Self-Consolidating Paste Systems using Ground Granulated Blast Furnace Slag and Limestone Powder mineral admixtures   
-
-OpenAlex: https://openalex.org/W4398147837    
-Open access: True
-    
-[Muhammad Naveed Aslam Metla](https://openalex.org/A5098723170), [Muhammad Amin](https://openalex.org/A5053593782), [Syed Rizwan](https://openalex.org/A5060386189), [Kaffayatullah Khan](https://openalex.org/A5086696750), Case studies in construction materials. None(None)] 2024.https://doi.org/10.1016/j.cscm.2024.e03316.
-    
-This study aims to investigate the blends of supplementary cementitious ground granulated blast furnace slag (GGBFS) with limestone powder (LSP) as mineral admixtures to partially replace cement (up to 30%) in self-consolidating paste (SCP) systems made at respective water demands. Besides the control formulation (100% cement), the first set of SCP systems includes GGBFS alone as a partial substitute of cement (5%, 10%, 15%, and 20%), whereas the second set contains blends of 10% GGBFS with 10% and 20% LSP. For all the seven formulations (1 control, 4 binary and 2 ternary), tests were performed to determine their water demand, setting times and flow behavior, hydration kinetics, mechanical strengths and microstructural properties. Results showed that the fresh and hardened state properties of SCP systems incorporating GGBFS and LSP led to an increase in strength, hydration kinetics were slightly improved and hence enhancement of strength and microstructure of SCP systems. Reduction in initial and final setting times recorded with increased LSP from 10% to 20% in ternary SCP formulations. Early compressive strength due to LSP increased in ternary SCP systems as compared to binary formulations, which reflected synergy between GGBFS and LSP in SCP systems. Moreover, environmental assessment results indicate a significant reduction in CO2 emissions by substituting cement with GGBFS and LSP. These findings indicate that both GGBFS and LSP can be successfully used in developing high performance and environment friendly self-compacting concrete (SCC).    
-
-    
-
 ## Fire Behaviour of Biochar-based Cementitious Composites   
 
 OpenAlex: https://openalex.org/W4398146950    
@@ -1764,6 +1709,17 @@ Open access: False
 [Xin Peng](https://openalex.org/A5026338777), [Yanyan Ding](https://openalex.org/A5030669064), [Kebin He](https://openalex.org/A5032308036), [Yue Wen](https://openalex.org/A5053580028), [Zhaochu Luo](https://openalex.org/A5067778251), [Ilias Laroussi](https://openalex.org/A5054642668), [Huan Liu](https://openalex.org/A5023277730), Journal of cleaner production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.142632.
     
 To investigate the decoupling relationship between inland ship emissions and regional socioeconomic development in the Yangtze River Basin, this study constructed an emissions inventory for inland ships from 2007 to 2022, based on inland shipping freight statistics and ship carbon pollution emission intensity. Additionally, the Petri-Tapio decoupling model was employed to analyze the relationship between ship carbon pollution emissions and per capita GDP. The study concluded that CO2 emissions from inland ships in the Yangtze River Basin increased from 2.418 million tons in 2007 to 10.801 million tons in 2022. In 2021, the emissions of NOx and SOx from inland ships in the Yangtze River Basin accounted for 2.27% and 0.0021%, respectively, of China's anthropogenic emissions. Despite a year-on-year increasing trend in ship emissions within the basin, significant reductions in PM and SO2 emissions were observed post-2018 due to the implementation of emission reduction policies. Furthermore, we found that economically developed areas such as Shanghai, Jiangsu, and Zhejiang had higher emissions compared to other regions, with regional ship emissions positively correlating with the level of economic activity. Decoupling analysis results indicated that most provinces in the Yangtze River Basin have not effectively decoupled ship carbon pollution emissions from GDP growth. The findings of this study provide support for the Chinese government to formulate stricter ship emission control policies while promoting the growth of the Yangtze River shipping economy.    
+
+    
+
+## Self-Consolidating Paste Systems using Ground Granulated Blast Furnace Slag and Limestone Powder mineral admixtures   
+
+OpenAlex: https://openalex.org/W4398147837    
+Open access: True
+    
+[Muhammad Naveed Aslam Metla](https://openalex.org/A5098723170), [Muhammad Amin](https://openalex.org/A5053593782), [Syed Rizwan](https://openalex.org/A5060386189), [Kaffayatullah Khan](https://openalex.org/A5086696750), Case studies in construction materials. None(None)] 2024.https://doi.org/10.1016/j.cscm.2024.e03316.
+    
+This study aims to investigate the blends of supplementary cementitious ground granulated blast furnace slag (GGBFS) with limestone powder (LSP) as mineral admixtures to partially replace cement (up to 30%) in self-consolidating paste (SCP) systems made at respective water demands. Besides the control formulation (100% cement), the first set of SCP systems includes GGBFS alone as a partial substitute of cement (5%, 10%, 15%, and 20%), whereas the second set contains blends of 10% GGBFS with 10% and 20% LSP. For all the seven formulations (1 control, 4 binary and 2 ternary), tests were performed to determine their water demand, setting times and flow behavior, hydration kinetics, mechanical strengths and microstructural properties. Results showed that the fresh and hardened state properties of SCP systems incorporating GGBFS and LSP led to an increase in strength, hydration kinetics were slightly improved and hence enhancement of strength and microstructure of SCP systems. Reduction in initial and final setting times recorded with increased LSP from 10% to 20% in ternary SCP formulations. Early compressive strength due to LSP increased in ternary SCP systems as compared to binary formulations, which reflected synergy between GGBFS and LSP in SCP systems. Moreover, environmental assessment results indicate a significant reduction in CO2 emissions by substituting cement with GGBFS and LSP. These findings indicate that both GGBFS and LSP can be successfully used in developing high performance and environment friendly self-compacting concrete (SCC).    
 
     
 
@@ -1893,7 +1849,7 @@ Sustainable design and building information modeling have introduced challenges 
 OpenAlex: https://openalex.org/W4398223037    
 Open access: True
     
-[G. D. Mocanu](https://openalex.org/A5059985703), [Cristian Iosifescu](https://openalex.org/A5058749861), [Ion V. Ion](https://openalex.org/A5023727772), [Florin Popescu](https://openalex.org/A5087908544), [Michael Frătița](https://openalex.org/A5048740028), [Robert Mădălin Chivu](https://openalex.org/A5010896350), Energies. 17(11)] 2024.https://doi.org/10.3390/en17112494 ([pdf](https://www.mdpi.com/1996-1073/17/11/2494/pdf?version=1716386833)).
+[G. D. Mocanu](https://openalex.org/A5059985703), [Cristian Iosifescu](https://openalex.org/A5058749861), [Ion V. Ion](https://openalex.org/A5023727772), [Florin Popescu](https://openalex.org/A5087908544), [Michael Frătiţa](https://openalex.org/A5048740028), [Robert Mădălin Chivu](https://openalex.org/A5010896350), Energies. 17(11)] 2024.https://doi.org/10.3390/en17112494 ([pdf](https://www.mdpi.com/1996-1073/17/11/2494/pdf?version=1716386833)).
     
 Waste heat recovery from exhaust gas is one of the most convenient methods to save energy in internal combustion engine-driven vehicles. This paper aims to investigate a reduction in waste heat from the exhaust gas of an internal combustion engine of a serial Diesel–electric hybrid bus by recovering part of the heat and converting it into useful power with the help of a split-flow supercritical CO2 (sCO2) recompression Brayton cycle. It can recover 17.01 kW of the total 33.47 kW of waste heat contained in exhaust gas from a 151 kW internal combustion engine. The thermal efficiency of the cycle is 38.51%, and the net power of the cycle is 6.55 kW. The variation in the sCO2 temperature at the shutdown of the internal combustion engine is analyzed, and a slow drop followed by a sudden and then a slow drop is observed. After 80 s from stopping the engine, the temperature drops by (23–33)% depending on the tube thickness of the recovery heat exchanger. The performances (net power, thermal efficiency, and waste heat recovery efficiency) of the split-flow sCO2 recompression Brayton cycle are clearly superior to those of the steam Rankine cycle and the organic Rankine cycle (ORC) with cyclopentane as a working fluid.    
 
@@ -1940,6 +1896,17 @@ Open access: True
 [Jingjiao Ma](https://openalex.org/A5078196619), [Tianyang Liu](https://openalex.org/A5013915732), [Shuya Hao](https://openalex.org/A5056106145), [Sun Yan](https://openalex.org/A5047702431), [Zikai Xu](https://openalex.org/A5062048292), [Songtao Yang](https://openalex.org/A5043962399), [Haifeng Shen](https://openalex.org/A5075533679), [Yu Jing](https://openalex.org/A5014006417), [Peng Chen](https://openalex.org/A5002277662), ChemSusChem. None(None)] 2024.https://doi.org/10.1002/cssc.202400683 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cssc.202400683)).
     
 The efficient acetate conversion from CO electroreduction is challenging due to the poor selectivity at high reaction rate, which requires the competition with H2 and other C2+ (i.e., ethylene, ethanol, n-propanol) reduction products. Electrolyte engineering is one of the efficient strategies to regulate the reaction microenvironment. In this work, the adding of sulfite (SO32-) with high nucleophilicity in KOH electrolytes was demonstrated to enable improving the CO-to-acetate conversion via generating a S-O chemical bond between SO32- and oxygenated *C2 intermediates (i.e., *CO-CO, *CO-COH) compared with that in pure KOH system on both synthesized Cu(200)- and normal commercial Cu(111)-facets-exposed metallic Cu catalysts. As a result, the prepared Cu(200)-facets-exposed metallic Cu catalyst with surface ions modification showed an superior Faradaic efficiency of 63.6% at -0.6 A·cm-2, and extraordinary absolute value of peak partial current density as high as 1.52 A·cm-2 with adding SO32- in KOH electrolytes, compared to the best reported values in both CO and CO2 electroreduction. Our work suggests an attractive strategy to introduce the oxyanion with high nucleophilicity in electrolytes to regulate the microenvironment for industrial-current-density electrosynthesis of acetate from CO electroreduction.    
+
+    
+
+## Recycling and 3D-Printing Biodegradable Membranes for Gas Separation─toward a Membrane Circular Economy   
+
+OpenAlex: https://openalex.org/W4398222185    
+Open access: True
+    
+[S. Al-Kandari](https://openalex.org/A5091096525), [M.-J. Tsang Mui Ching](https://openalex.org/A5012764888), [Jasmine C. Lightfoot](https://openalex.org/A5022733595), [Nael Berri](https://openalex.org/A5065881430), [Hannah S. Leese](https://openalex.org/A5022446468), [Bernardo Castro-Dominguez](https://openalex.org/A5056219462), ACS applied engineering materials. None(None)] 2024.https://doi.org/10.1021/acsaenm.4c00060 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsaenm.4c00060)).
+    
+Polymer membranes employed in gas separation play a pivotal role in advancing environmental sustainability, energy production, and gas purification technologies. Despite their significance, the current design and manufacturing of these membranes lack cradle-to-cradle approaches, contributing to plastic waste pollution. This study explores emerging solutions, including the use of biodegradable biopolymers such as polyhydroxybutyrate (PHB) and membrane recycling, with a focus on the specific impact of mechanical recycling on the performance of biodegradable gas separation membranes. This research represents the first systematic exploration of recycling biodegradable membranes for gas separation. Demonstrating that PHB membranes can be recycled and remanufactured without solvents using hot-melt extrusion and 3D printing, the research highlights PHB's promising performance in developing more sustainable CO2 separations, despite an increase in gas permeability with successive recycling steps due to reduced polymer molecular weight. The study emphasizes the excellent thermal, chemical, and mechanical stability of PHB membranes, albeit with a marginal reduction in gas selectivity upon recycling. However, limitations in PHB's molecular weight affecting extrudability and processability restrict the recycling to three cycles. Anticipating that this study will serve as a foundational exploration, we foresee more sophisticated recycling studies for gas separation membranes, paving the way for a circular economy in future membrane technologies.    
 
     
 
@@ -2138,17 +2105,6 @@ Open access: False
 [Thomas Hannappel](https://openalex.org/A5031126542), [Harry A. Atwater](https://openalex.org/A5082887836), [Sahar Shekarabi](https://openalex.org/A5052733382), [Agnieszka Paszuk](https://openalex.org/A5087887061), [David Ostheimer](https://openalex.org/A5040834817), [Mohammad Amin Zare Pour](https://openalex.org/A5024299888), [Wood-Hi Cheng](https://openalex.org/A5089773899), [O. Romanyuk](https://openalex.org/A5024915056), [Erich Runge](https://openalex.org/A5007470362), [Frank Dimroth](https://openalex.org/A5007511992), [Wolfram Jaegermann](https://openalex.org/A5047404708), Proceedings of the International Conference on Hybrid and Organic Photovoltaics. None(None)] 2024.https://doi.org/10.29363/nanoge.hopv.2024.150.
     
 Tandem cells for efficient photoelectrochemical solar fuels productionThomas Hannappel a, M. A. Zare Pour a, S. Shekarabi a, A. Paszuk a, D. Ostheimer a, W. Jaegermann a, W.-H. Cheng b, c, O. Romanyuk d, E. Runge a, F. Dimroth e, H. A. Atwater ca Ilmenau University of Technology, Institute of Physics, Germanyb Dep. of Materials Science and Technology, National Cheng Kung University, Taiwanc California Institute of Technology, Dep. of Applied Physics and Material Science, USAd Institute of Physics of the Czech Academy of Sciences, Czech Republice Fraunhofer Institute for Solar Energy Systems, Freiburg, GermanyInternational Conference on Hybrid and Organic PhotovoltaicsProceedings of International Conference on Hybrid and Organic Photovoltaics (HOPV24)València, Spain, 2024 May 12th - 15thOrganizer: Bruno EhrlerInvited Speaker Session, Thomas Hannappel, presentation 150DOI: https://doi.org/10.29363/nanoge.hopv.2024.150Publication date: 6th February 2024Epitaxial semiconductors involving III-V compounds and silicon promise the highest performance levels in PV applications such as in solar cells and photoelectrochemical cells [1-3]. However, highest performance in solar energy conversion can only be achieved, when using optimum absorber layers and advanced contact formation for electronic and chemical passivation, i.e. for the protection of the solid-liquid interface against corrosion as well as impeding interfacial non-radiative recombination. In order to address the surface and interface properties of III-V semiconductor layer structures in relation to their performance, we present the synthesis, theoretical modelling and properties of critical and well-defined interfaces such as GaInP/AlInP [4] or GaInP/GaN [5]. Here, lattice matched n-type GaN or AlInP(100) charge selective contacts are prepared on n-p GaInP(100) top absorbers in highest-efficiency III–V multijunction solar or photoelectrochemical cells, where the cell performance can be greatly limited by missing electron selectivity and detrimental valance band offsets. Hence, understanding of the atomic and electronic properties of the heterointerfaces, for instance, is crucial for the reduction of photocurrent losses in III–V multijunction devices. We discuss the essential considerations on the properties of critical interfaces in relation to photoelectrochemical cells from a conceptual and from a theoretical modeling point of view assuming mostly idealized surface conditions. We also address latest progress on the important III-V/Si interface, modifications by fine-tuning of the preparation and describe experimental model experiments on the surface reactivity of III-phosphide surfaces to H2O exposure. These different surface science approaches are then related to photoelectrochemical cells for H2 evolution and CO2 reduction using different III-V based tandem cells and providing highest conversion yields. References:[1] May, M. M.; Lewerenz, H.-J.; Lackner, D.; Dimroth, F.; Hannappel, T. Efficient direct solar-to-hydrogen conversion by in situ interface transformation of a tandem structure, Nature Communications 6 (2015) 8286[2] Cheng, W.-H.; Richter, M.H.; May, M. M.; Ohlmann, J.; Lackner, D.; Dimroth, F.; Hannappel, T.; Atwater, H.A.; Lewerenz, H.-J. Monolithic Photoelectrochemical Device for Direct Water Splitting with 19% Efficiency, ACS Energy Letters 3 (2018) 1795[3] Cheng, W.H.; Richter, M.H.; Müller, R.; Kelzenberg, M.; Yalamanchili, S.; Jahelka, P.R.; Perry, A.N.; Wu, P.C. Saive, R.; Dimroth, F.; Brunschwig, B.S.; Hannappel, T.; Atwater, H.A. Integrated Solar-Driven Device with Front Surface Semitransparent Catalysts for Unassisted CO2 Reduction, Advanced Energy Materials 12 (36) (2022) 2201062[4] Zare Pour, M.A.; Romanyuk, O.; Moritz, D.C.; Paszuk, A.; Maheu, C.; Shekarabi, S.; Hanke, K.D.; Ostheimer, D.; Mayer, T.; Hofmann, J.P.; Jaegermann, W.; Hannappel, T. Band energy diagrams of n-GaInP/n-AlInP(100) surfaces and heterointerfaces studied by X-ray photoelectron spectroscopy, Surfaces and Interfaces 34 (2022) 102384[5] Shekarabi, S.; Zare Pour, M. A.; Su, H.; Zhang, W.; He, C.; Romanyuk, O.; Paszuk, A.; Hu, S.; Hannappel, T. Photoemission study and band alignment of GaN passivation layers on GaInP heterointerfaces, arXiv:2310.15212v1 [physics.app-ph]Acknowledgements:We express our gratitude for the financial assistance provided by the National Science Foundation and the German Research Foundation (NSF-DFG project no. HA 3096/19-1) and German Federal Ministry of Education and Research (DEPECOR project no. 033RC021A and H2Demo project no. 03SF0619I). © FUNDACIO DE LA COMUNITAT VALENCIANA SCITOnanoGe is a prestigious brand of successful science conferences that are developed along the year in different areas of the world since 2009. Our worldwide conferences cover cutting-edge materials topics like perovskite solar cells, photovoltaics, optoelectronics, solar fuel conversion, surface science, catalysis and two-dimensional materials, among many others.MATSUSPreviously nanoGe Spring Meeting (NSM) and nanoGe Fall Meeting (NFM), MATSUS is a multiple symposia conference focused on a broad set of topics of advanced materials preparation, their fundamental properties, and their applications, in fields such as renewable energy, photovoltaics, lighting, semiconductor quantum dots, 2-D materials synthesis, charge carriers dynamics, microscopy and spectroscopy semiconductors fundamentals, etc.International Conference on Hybrid and Organic PhotovoltaicsInternational Conference on Hybrid and Organic Photovoltaics (HOPV) is celebrated yearly in May. The main topics are the development, function and modeling of materials and devices for hybrid and organic solar cells. The field is now dominated by perovskite solar cells but also other hybrid technologies, as organic solar cells, quantum dot solar cells, and dye-sensitized solar cells and their integration into devices for photoelectrochemical solar fuel production.Asia-Pacific International Conference on Perovskite, Organic Photovoltaics and OptoelectronicsThe main topics of the Asia-Pacific International Conference on Perovskite, Organic Photovoltaics and Optoelectronics (IPEROP) are discussed every year in Asia-Pacific for gathering the recent advances in the fields of material preparation, modeling and fabrication of perovskite and hybrid and organic materials. Photovoltaic devices are analyzed from fundamental physics and materials properties to a broad set of applications. The conference also covers the developments of perovskite optoelectronics, including light-emitting diodes, lasers, optical devices, nanophotonics, nonlinear optical properties, colloidal nanostructures, photophysics and light-matter coupling.International Conference on Perovskite Thin Film Photovoltaics Perovskite Photonics and OptoelectronicsThe International Conference on Perovskite Thin Film Photovoltaics Perovskite Photonics and Optoelectronics (NIPHO) is the best place to hear the latest developments in perovskite solar cells as well as on recent advances in the fields of perovskite light-emitting diodes, lasers, optical devices, nanophotonics, nonlinear optical properties, colloidal nanostructures, photophysics and light-matter coupling.    
-
-    
-
-## MASH‐Ocean 1.0: Interactive platform for investigating microbial diversity, function, and biogeography with marine metagenomic data   
-
-OpenAlex: https://openalex.org/W4397555449    
-Open access: True
-    
-[Yinzhao Wang](https://openalex.org/A5008249437), [Liuyang Li](https://openalex.org/A5019195025), [Qiang Li](https://openalex.org/A5069771802), [Yaoxun Hu](https://openalex.org/A5087143396), [Wen Jie Li](https://openalex.org/A5032374037), [Z.-G Wu](https://openalex.org/A5072733381), [Hungchia Huang](https://openalex.org/A5073343969), [Zhenbo Lv](https://openalex.org/A5086494605), [Lei Wan](https://openalex.org/A5045721425), [Ruifang Cao](https://openalex.org/A5085598180), [Guoping Zhao](https://openalex.org/A5027739698), [Fengping Wang](https://openalex.org/A5003284623), [Guoqing Zhang](https://openalex.org/A5085600100), iMeta. None(None)] 2024.https://doi.org/10.1002/imt2.201 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.201)).
-    
-A large number of oceanic metagenomic data and environmental metadata have been published. However, most studies focused on limited ecosystems using different analysis tools, making it challenging to integrate these data into robust results and comprehensive global understanding of marine microbiome. Here, we constructed a systematic and quantitative analysis platform, the Microbiome Atlas/Sino-Hydrosphere for Ocean Ecosystem (MASH-Ocean: https://www.biosino.org/mash-ocean/), by integrating global marine metagenomic data and a unified data processing flow. MASH-Ocean 1.0 comprises 2147 metagenomic samples with five analysis modules: sample view, diversity, function, biogeography, and interaction network. This platform provides convenient and stable support for researchers in microbiology, environmental science, and biogeochemistry, to ensure the integration of omics data generated from hydrosphere ecosystems, to bridge the gap between elusive omics data and biological, ecological, and geological discovery, ultimately to foster the formation of a comprehensive atlas for aquatic environments. Oceans account for approximately 71% of the total surface area of Earth, making them the largest habitats for life on this planet. They contribute to over 90% of the total volume of the biosphere and are responsible for nearly half of the global total primary productivity [1]. It has been estimated that marine ecosystems host a remarkable number of over 1029 bacterial and archaeal cells [2]. These microbes exhibit vast diversity and are ubiquitously distributed across various oceanic environments, including both sea water and subsurface from intertidal zone, euphotic layer, and deep sea. Moreover, they thrive in special geological areas such as hydrothermal vents, cold seep regions, subduction zones, and oceanic crust. Active biogeochemical cycling mediated by these microorganisms through their carbon, nitrogen, and sulfur metabolisms can directly influence the Earth's climate [3]. Therefore, it is critical to understand the diversity, function, and biogeography of marine microbiome. With the ongoing advancements in oceanic sampling technologies and high-throughput sequencing platforms in recent years, scientists have discovered a wide variety of microorganisms with different ecological and geological functions in various marine habitats [4]. Microorganisms inhabiting distinct ecological niches may specifically play key roles in driving certain geochemical cycles and mediating the fluxes of carbon, nitrogen, and sulfur among sediment, sea water, and atmosphere [3]. Currently, an increasing number of metagenomic studies focusing on various types of oceanic environments have been reported [5]. For example, in sea water, archaea, bacteria, protist, and virus have been found to play significant roles in influencing the release of organic matter, mineralization, and fixation of carbon dioxide [6]. In sediments, the abundance and diversity of microorganisms is much higher than that in marine water bodies and primarily facilitates the anaerobic degradation of organic matter, sulfate reduction, methane production, and oxidation [7]. In summary, the analyses of multiple omics data have revealed a significant presence of microorganisms in oceanic environments that actively participate in the cycling of carbon, nitrogen, and sulfur elements. Although high-throughput metagenomic sequencing technology has greatly promoted microbiological research, each individual study has employed different analytical processes. These analysis results often show substantial heterogeneity when compared with each other. Only by accumulating and analyzing metagenomic data in a standard way, scientists would be able to reach robust conclusions and generate comparable results. Several platforms, such as Integrated Microbial Genomes and Microbiomes (IMG/M) [8] and Marine Metagenomics Portal (MMP) [9], support preliminary analysis of metagenomic or genomic data. Recent developments of online microbiome analysis platforms, for example, Wekemo Bioincloud [10] and MicrobiomeAnalyst [11], have also facilitated researchers in exploring the biological significance of metagenomic samples by providing multiple analysis tools and interactive visualization capabilities. Nevertheless, a gap still exists between elusive omics data and biological, ecological, and geological discovery. Here, we have established an online microbiome platform called the Microbiome Atlas/Sino-Hydrosphere for Ocean Ecosystems (MASH-Ocean, https://www.biosino.org/mash-ocean/), aiming to bridge this gap and achieve standardized, interactive analyses of massive metagenomic data, and to explore the knowledge atlas related to microbial mediated oceanic carbon, nitrogen, and sulfur cycling. MASH-Ocean is a website-based platform (Figure 1A). This platform collects public metagenome data related to global marine environments and assembles and annotates these data with a uniform standard bioinformatic workflow. The current database contains annotations of microbial taxonomic features derived from metagenomic reads and metabolic functional features from assembled metagenomic contigs. These results can be visualized by online users without the well-established knowledge of bioinformatics and omics. Three major advantages of the MASH-Ocean platform are microbial diversity analysis, metabolic feature reconstruction and comparison using selectable metagenomic datasets globally, as well as interactive visualization of global distribution of the selected functional genes or microbial species (Movie S1). All data within MASH-Ocean 1.0 was collected from the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) (https://www.ncbi.nlm.nih.gov/sra) and the National Omics Data Encyclopedia (NODE) databases (https://www.biosino.org/node/) by September 2020 with a total of 75 keywords (Table S1). Metagenomes were also filtered out manually by their size (below 200 MB), descriptions such as "enriched," "metatranscriptome," and "amplicon," as well as the restricted datasets from DOE Joint Genome Institute (JGI). In total, 2147 samples from different marine environments were selected for further analyses to build a basic knowledge pool for MASH-Ocean 1.0 (Figure 1B). Additionally, MASH-Ocean keeps downloading and filtering public oceanic metagenomic data to maintain and update this platform. The second batch of data (September 2023) has been downloaded and is under the analyzing process. The MASH-Ocean 1.0 workflow encompasses both reads-level and contigs-level analyses (Figure 1C,D). Specifically, the platform currently hosts two primary data categories: "clean reads" consisting of 210 billion sequences (totaling 44.2 trillion base pairs) and "contigs" comprising 257 million sequences (totaling 555.3 billion base pairs). For microbial taxonomy analysis, trimmed metagenomic reads were annotated by Kraken2 v2.1.3 [12], and the abundance was estimated by Bracken v2.6.1 [13]. For metabolic feature analysis, the trimmed reads were assembled by MEGAHIT v1.2.9 [14]. The contigs coverage was calculated by mapping the trimmed reads to each contig using BBMap v38.18 [15]. All contigs were subjected to open reading frame (ORF) prediction with Prodigal v2.6.3 [16]. The predicted ORFs were annotated by eggNOG database [17]. On this platform, all samples can be found in "Sample view" section on the website. The table here shows 10 key information of samples. Users can locate specific samples or narrow down the sample pool by providing key information in the navigation panel (Figure 1B). For the fields of Run/Project/Sample ID, we provide a field matching search mode, allowing users to match all complete fields and help them select the appropriate item by typing in part of the string. For the fields of Habitat source, Env Zone, Env Medium, Fraction, and Location, we provide a composite selection method that combines field matching with a drop-down box to provide users with a convenient operation experience. Flexible selections are also supported by providing a drag bar with information of longitude, latitude, and water depth. The selected samples can be displayed on a global topographic map by clicking on the "Display Map" button, located at the top right of the sample table, to easily obtain a panoramic view of sample distribution. MASH-Ocean also provides a comprehensive diversity analysis using taxonomic information produced through the annotation of metagenomic reads. Users can either generate microbial diversity profiles at different taxonomic levels or statistically compare the diversity among different samples by setting up distinct groups. In general, this platform allows users to establish five groups in total to carry out the diversity comparison, with at least three selected samples in each group. The diversity statistical comparison results can be divided into different taxonomic levels, that is, archaea, bacteria, eukaryota, and viruses, each of which contains six ranks including Phylum, Class, Order, Family, Genus, and Species. In total, four types of comparisons are included in the platform (Figure 2A). The first diagram is the taxonomic composition of the selected samples calculated by Kraken2 and Bracken programs. The second analysis is the ranking of taxonomically distinctive members between different groups, which is calculated by linear discriminant analysis (LDA) effect size (LEfSe). The third analysis is the heatmap of beta-diversity distances using Jaccard or Bray-Curtis matrix, and a principal coordinates analysis of all selected samples will also be calculated and displayed by using the beta-diversity distances. The function analysis is designed for the visualization of the presence and abundance of key genes and modules from the major carbon, nitrogen, and sulfur metabolic functional pathways of selected samples. These pathways are critical for global biogeochemical cycling and may therefore influence the Earth's climate. The function analysis module allows users to integrate their own data set with the MASH-Ocean database through three options. One can upload a file with the Kyoto Encyclopedia of Genes and Genomes (KEGG) Orthology (KO) list with the sequencing depth corresponding to those KOs. Users can also upload a file with the predicted ORFs ID and annotated KOs, as well as a sequencing depth file together. The final result will be displayed as a KEGG map, and the relative abundance of metabolic functional genes are shown in red gradient color (Figure 2B). If the number of uploaded or selected samples exceeds three, the relative abundance of metabolic functional genes and further distilled KEGG modules will be displayed in a heatmap for better exhibition. MASH-Ocean contains the function of interactive biogeography visualization and analysis. It supports global distribution display for both microbial species and metabolic functional genes. For microbial species analysis, users can either enter a species name or upload a genome to check their global distribution pattern in all or selected metagenomic data set in MASH-Ocean (Figure 2C). MASH-Ocean also allows users to upload their genomes and will be classified using GTDB-Tk version 2.3.2 [18] for taxonomic assignment. Similarly, for metabolic functional genes, one can select the gene name provided within the website or enter a KO entry and then it will be displayed on the global map on our website. MASH-Ocean also contains the function of interactive network visualization. Six pre-established global microbial co-occurrence networks on the species, genus, family, order, class, and phylum levels were integrated. If users focus on the interaction of one or several specific microbes in the global oceanic microbial network, they can enter the name or taxonomic ranks of the microbe. Then this microbe will be highlighted in the entire network and users can either download the complete network or the network of their focused microbe (Figure 2D). The co-occurrence networks were generated using FastSpar v1.0.0 [19] and iDIRECT [20], and parameters are listed in Table S2. MASH-Ocean takes approximately 10–50 min to process the diversity analysis module (Figure 2E), depending on the scale of analysis (ranging from 6 to 150 samples). For the function analysis and biogeography module, the time requirements vary due to the time-consuming sequence preprocessing steps. For instance, when annotating metabolic functions in the function analysis module, MASH-Ocean requires around 1 h for one file with size ~50 MB. In contrast, other modes complete this task in less than 5 min. For the biogeography module, MASH-Ocean processes one genome file in approximately 35 min, and a protein sequence file in about 10 min, while other modes complete tasks with similar sample scales in less than 20 s. As the initiative platform for the MASH project in China, MASH-Ocean offers a convenient and stable service to ensure the integration of omics data generated from hydrosphere ecosystems. In comparison to existing omics online servers, such as IMG/M [8], which focused mainly on storage of metagenomic data with limited capabilities in systematic comparison and visualization, while Wekemo Bioincloud [10] or MicrobiomeAnalyst [11] that specifically provided online analysis tools for meta-omics, MASH-Ocean is designed to provide exploratory insights from a big data perspective for researchers through a one-station service. In the future, besides ocean ecosystems, MASH will include other hydrosphere ecosystems such as wetlands, lakes, rivers, and so on. For the MASH-Ocean platform, there are three aspects that will be upgraded in the coming years. First, the data collection process will continue to accommodate more publicly available resources. Second, except for metagenome, we will include published metatranscriptome data in the future version. Third, we also aim to include microbial genomic data to enhance the integrity of MASH-Ocean. Last but not the least, we will further closely cooperate with other databases and online analysis platforms such as the integrated microbiome analysis cloud platform, an eLibrary of Microbial Systematics and Genomics, NODE databases to enlarge and diversify the content of the MASH-Ocean platform. Additional suggestions and comments are also welcome from our readers and users. Yinzhao Wang conceived and designed the platform. Liuyang Li, Qiang Li, Yaoxun Hu, Wenjie Li, and Zhile Wu developed the scripts and web server. Yinzhao Wang and Liuyang Li wrote the manuscript. Guoping Zhao, Fengping Wang, and Guoqing Zhang supervised this project and revised the manuscript. All authors have tested the web server, suggested amendments, read the final manuscript, and approved it for publication. We thank all our alpha users for providing constructive suggestions for this platform. We also thank Dr. Ahmad Tariq for language modification, and Dr. Lewen Liang and Dr. Jialin Hou for useful discussion. We are grateful to the researchers who shared their sequence data on NCBI (https://www.ncbi.nlm.nih.gov/), NODE (https://www.biosino.org/node/), eLMSG (https://www.biosino.org/elmsg/), and to the US Department of Energy Joint Genome Institute (http://www.jgi.doe.gov/), as well as scientists who generated these data for sharing. This work is also supported by the MASH-Ocean consortium. Part of our computations were run on the Siyuan-1 cluster supported by the Center for High Performance Computing at Shanghai Jiao Tong University (SJTU HPC). We are also thankful to Prof. Xinhua Lin, Chen Li, Wu Guo, Xingze Wang and Yujue Wang from SJTU HPC for useful discussion. We are also thankful to Dr. Qingwei Xu from Ezhou Industrial Technology Research Institute, Huazhong University of Science and Technology for effective software project management. This work is supported by the National Natural Science Foundation of China (NSFC grant No. 92251307, 92351304, 91951209, 42272354, 92051116). The authors declare no conflict of interest. No animals or humans were involved in this study. Data sharing is not applicable to this article as no datasets were generated or analyzed during the current study. This manuscript does not generate any code or data. Supplementary materials (tables, graphical abstract, slides, videos, Chinese translated version, and update materials) can be found in the online DOI or iMeta Science http://www.imeta.science/. Table S1. Preset keywords to collect metagenomes from different types of marine habitats. Table S2. Parameters to generate co-occurrence networks. Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.    
 
     
 
