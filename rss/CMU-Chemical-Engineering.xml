@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 May 2024 01:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 01:09:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -116,56 +116,6 @@
       <author>Yuanxun Shao, Dillard Robertson, Michael Bynum, Carl D. Laird, Anya Castillo, Joseph K. Scott</author>
       <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s11081-024-09891-7</guid>
-    </item>
-    <item>
-      <title>CCDC 1906780: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc22051b</link>
-      <description>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David N. French, Jessica Joy, Gabriel Gomes, Paul A. Wiget, The Cambridge Structural Database. None(None)] 2019. https://openalex.org/W4397827307
-
-                No abstract</description>
-      <author>Robert E. Lee, Bryan S. Bashrum, Ethan C. Cagle, Jillian Walters, Jake Massey, Monica Zanghi, Carolyn Birchfield, David N. French, Jessica Joy, Gabriel Gomes, Paul A. Wiget</author>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc22051b</guid>
-    </item>
-    <item>
-      <title>CCDC 1956038: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc23nf07</link>
-      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4397797382
-
-                No abstract</description>
-      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23nf07</guid>
-    </item>
-    <item>
-      <title>CCDC 1956029: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc23ndqx</link>
-      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398007050
-
-                No abstract</description>
-      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndqx</guid>
-    </item>
-    <item>
-      <title>CCDC 1956031: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc23ndsz</link>
-      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398031232
-
-                No abstract</description>
-      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndsz</guid>
-    </item>
-    <item>
-      <title>CCDC 1956027: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc23ndnv</link>
-      <description>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin, The Cambridge Structural Database. None(None)] 2020. https://openalex.org/W4398037003
-
-                No abstract</description>
-      <author>Diego B. Diaz, Solomon D. Appavoo, Anastasia F. Bogdanchikova, Yury Lebedev, Timothy J. McTiernan, Gabriel Gomes, Andrei K. Yudin</author>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc23ndnv</guid>
     </item>
   </channel>
 </rss>

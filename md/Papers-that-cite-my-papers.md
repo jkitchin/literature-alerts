@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Tue May 28 01:06:32 2024
+Created on Wed May 29 01:10:08 2024
 
-Found 71 results from 2024-05-21 to 2024-05-28
+Found 69 results from 2024-05-22 to 2024-05-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W2582607092%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4391573070%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2508686881)
@@ -13,105 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W2257333152%7Chttps%3A//openalex.org/W4322759324%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4220985611%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483%7Chttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023)
-
-## Proton relay in hydrogen-bond networks promotes alkaline hydrogen evolution electrocatalysis   
-
-OpenAlex: https://openalex.org/W4398132625    
-Open access: True
-    
-[Jiayuan Li](https://openalex.org/A5072817423), [Yuefei Li](https://openalex.org/A5065858858), [Shishi Zhang](https://openalex.org/A5014320453), [Boyang Li](https://openalex.org/A5065154024), [Yaqiong Su](https://openalex.org/A5013121247), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4375967/v1 ([pdf](https://www.researchsquare.com/article/rs-4375967/latest.pdf)).
-    
-Abstract Common O-/H-down orientation of H2O molecules on electrocatalysts brings favorable OH/H delivery however adverse H/OH delivery in their dissociation process, hampering H2O dissociation kinetics of alkaline hydrogen evolution reaction (HER). To overcome this challenge, we raised a synergetic H2O dissociation concept of metal-supported electrocatalysts involving efficient OH delivery from O-down H2O to the metal, timely proton relay from O-down H2O on the metal to H-down H2O on the support through the hydrogen-bond network, and prompt H delivery from H-down H2O to the support. After theoretically profiling that a high work function difference between metal and support (ΔΦ) induces a strong electric field at the metal-support interface that increases hydrogen-bond connectivity to promote proton relay, we examined this concept over cobalt phosphide-supported ruthenium (Ru/CoP) catalysts with a high ΔΦ = 0.4 eV, reaching record high HER performance with a Ru utilization activity of 66.1 A mgRu-1 at a 100 mV overpotential.    
-
-    
-
-## Database mining and first-principles assessment of organic proton-transfer ferroelectrics   
-
-OpenAlex: https://openalex.org/W4398142116    
-Open access: False
-    
-[Seyedmojtaba Seyedraoufi](https://openalex.org/A5063471426), [Elin Dypvik Sødahl](https://openalex.org/A5070971121), [Carl Henrik Görbitz](https://openalex.org/A5068212466), [Kristian Berland](https://openalex.org/A5022944587), Physical review materials. 8(5)] 2024.https://doi.org/10.1103/physrevmaterials.8.054413.
-    
-In organic proton-transfer ferroelectrics (OPTFe), molecules are linked to form hydrogen-bonded networks, and proton transfer (PT) between molecules is the dominant mechanism of ferroelectric switching. The fast-switching frequencies of OPTFes make them attractive alternatives to conventional ceramic ferroelectrics, which contain rare and/or toxic elements and require high processing temperatures. In this study, we mined the Cambridge Structural Database (CSD) for potential OPTFes, uncovering most of the previously reported ones, both tautomeric compounds and acid-base salts, in addition to 12 new compounds, nine of which were tautomeric salts. The identification of PT tautomeric salts highlights a potential new avenue for engineering novel OPTFes. The CSD mining was based on identifying polar crystal structures with pseudoinversion symmetry and viable PT paths. The spontaneous polarization ${\mathbit{P}}_{\mathrm{s}}$ and the PT barriers ${U}_{\mathrm{PT}}$ were calculated for a selection of the compounds using density-functional theory.    
-
-    
-
-## Multi-Variable Multi-Metric Optimization of Self-Assembled Photocatalytic CO2 Reduction Performance Using Machine Learning Algorithms   
-
-OpenAlex: https://openalex.org/W4398142708    
-Open access: True
-    
-[Shannon A. Bonke](https://openalex.org/A5073316327), [Giovanni Trezza](https://openalex.org/A5008644832), [Luca Bergamasco](https://openalex.org/A5024464247), [Hongwei Song](https://openalex.org/A5074021241), [Santiago Rodríguez‐Jiménez](https://openalex.org/A5090942275), [Leif Hammarström](https://openalex.org/A5052221113), [Eliodoro Chiavazzo](https://openalex.org/A5071497805), [Erwin Reisner](https://openalex.org/A5026491082), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c01305 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/jacs.4c01305)).
-    
-The sunlight-driven reduction of CO2 into fuels and platform chemicals is a promising approach to enable a circular economy. However, established optimization approaches are poorly suited to multivariable multimetric photocatalytic systems because they aim to optimize one performance metric while sacrificing the others and thereby limit overall system performance. Herein, we address this multimetric challenge by defining a metric for holistic system performance that takes multiple figures of merit into account, and employ a machine learning algorithm to efficiently guide our experiments through the large parameter matrix to make holistic optimization accessible for human experimentalists. As a test platform, we employ a five-component system that self-assembles into photocatalytic micelles for CO2-to-CO reduction, which we experimentally optimized to simultaneously improve yield, quantum yield, turnover number, and frequency while maintaining high selectivity. Leveraging the data set with machine learning algorithms allows quantification of each parameter's effect on overall system performance. The buffer concentration is unexpectedly revealed as the dominating parameter for optimal photocatalytic activity, and is nearly four times more important than the catalyst concentration. The expanded use and standardization of this methodology to define and optimize holistic performance will accelerate progress in different areas of catalysis by providing unprecedented insights into performance bottlenecks, enhancing comparability, and taking results beyond comparison of subjective figures of merit.    
-
-    
-
-## Machine learning-aided first-principles calculations of redox potentials   
-
-OpenAlex: https://openalex.org/W4398143044    
-Open access: True
-    
-[Ryosuke Jinnouchi](https://openalex.org/A5014137404), [Ferenc Karsai](https://openalex.org/A5007340269), [Georg Kresse](https://openalex.org/A5019751186), npj computational materials. 10(1)] 2024.https://doi.org/10.1038/s41524-024-01295-6 ([pdf](https://www.nature.com/articles/s41524-024-01295-6.pdf)).
-    
-Abstract We present a method combining first-principles calculations and machine learning to predict the redox potentials of half-cell reactions on the absolute scale. By applying machine learning force fields for thermodynamic integration from the oxidized to the reduced state, we achieve efficient statistical sampling over a broad phase space. Furthermore, through thermodynamic integration from machine learning force fields to potentials of semi-local functionals, and from semi-local functionals to hybrid functionals using Δ-machine learning, we refine the free energy with high precision step-by-step. Utilizing a hybrid functional that includes 25% exact exchange (PBE0), this method predicts the redox potentials of the three redox couples, Fe 3+ /Fe 2+ , Cu 2+ /Cu + , and Ag 2+ /Ag + , to be 0.92, 0.26, and 1.99 V, respectively. These predictions are in good agreement with the best experimental estimates (0.77, 0.15, 1.98 V). This work demonstrates that machine-learned surrogate models provide a flexible framework for refining the accuracy of free energy from coarse approximation methods to precise electronic structure calculations, while also facilitating sufficient statistical sampling.    
-
-    
-
-## In Operando X-ray Spectroscopic and DFT Studies Revealing Improved H2 Evolution by the Synergistic Ni–Co Electron Effect in the Alkaline Condition   
-
-OpenAlex: https://openalex.org/W4398145067    
-Open access: True
-    
-[Lian‐Ming Lyu](https://openalex.org/A5044722400), [Han-Jung Li](https://openalex.org/A5076828237), [R. Tsai](https://openalex.org/A5000260106), [Ching-Feng Chen](https://openalex.org/A5081835877), [Ya‐Hsuan Chang](https://openalex.org/A5079033269), [Y.C. Chuang](https://openalex.org/A5057168533), [Cheng-Shiuan Li](https://openalex.org/A5018524701), [Jeng-Lung Chen](https://openalex.org/A5064103813), [Te‐Wei Chiu](https://openalex.org/A5038395172), [Chun Hong Kuo](https://openalex.org/A5007429501), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c02613 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acsami.4c02613)).
-    
-The different electrolyte conditions, e.g., pH value, for driving efficient HER and OER are one of the major issues hindering the aim for electrocatalytic water splitting in a high efficiency. In this regard, seeking durable and active HER electrocatalysts to align the alkaline conditions of the OER is a promising solution. However, the success in this strategy will depend on a fundamental understanding about the HER mechanism at the atomic scale. In this work, we have provided thorough understanding for the electrochemical HER mechanisms in KOH over Ni- and Co-based hollow pyrite microspheres by in operando X-ray spectroscopies and DFT calculations, including NiS    
-
-    
-
-## Structure and ionic conduction enhancement mechanisms at CeO2/SrTiO3 heterointerfaces   
-
-OpenAlex: https://openalex.org/W4398146412    
-Open access: True
-    
-[Bonan Zhu](https://openalex.org/A5056105240), [Georg Schusteritsch](https://openalex.org/A5034457868), [Weiwei Li](https://openalex.org/A5071032422), [Wandong Xing](https://openalex.org/A5004058686), [Rong Yu](https://openalex.org/A5051498051), [Chris J. Pickard](https://openalex.org/A5013004499), [Judith L. MacManus‐Driscoll](https://openalex.org/A5035101864), Applied physics reviews. 11(2)] 2024.https://doi.org/10.1063/5.0185746 ([pdf](https://pubs.aip.org/aip/apr/article-pdf/doi/10.1063/5.0185746/19960354/021420_1_5.0185746.pdf)).
-    
-Fluorite-perovskite heterointerfaces garner great interest for enhanced ionic conductivity for application in electronic and energy devices. However, the origin of observed enhanced ionic conductivity as well as the details of the atomic structure at these interfaces remain elusive. Here, systematic, multi-stoichiometry computational searches and experimental investigations are performed to obtain stable and exact atomic structures of interfaces between CeO2 and SrTiO3—two archetypes of the corresponding structural families. Local reconstructions take place at the interface because of mismatched lattices. TiO2 terminated SrTiO3 causes a buckled rock salt CeO interface layer to emerge. In contrast, SrO terminated SrTiO3 maintains the fluorite structure at the interface compensated by a partially occupied anion lattice. Moderate enhancement in oxygen diffusion is found along the interface by simulations, yet evidence to support further significant enhancement is lacking. Our findings demonstrate the control of interface termination as an effective pathway to achieve desired device performance.    
-
-    
-
-## Catalysts for Electrocatalytic Water Splitting   
-
-OpenAlex: https://openalex.org/W4398151349    
-Open access: False
-    
-[Umesh P. Suryawanshi](https://openalex.org/A5010175599), [Mayur A. Gaikwad](https://openalex.org/A5034827445), [Uma V. Ghorpade](https://openalex.org/A5044910327), [Jihun Kim](https://openalex.org/A5079554524), [Mahesh P. Suryawanshi](https://openalex.org/A5045121125), Energy, environment, and sustainability. None(None)] 2024.https://doi.org/10.1007/978-981-97-1339-4_12.
-    
-Water electrolysis or electrochemical water splitting is considered a promising technology for delivering a portable and sustainable energy source through hydrogen fuel. The crucial aspect for advancing toward industrial implementation rests in the utilization of cost-effective electrocatalysts with high efficiency. This book chapter provides a comprehensive overview of catalysts for electrochemical water splitting, emphasizing their importance, state-of-the-art advancements, challenges, and opportunities. Since catalysts play a critical role in facilitating efficient hydrogen production by improving reaction kinetics and selectivity, various catalyst types and their performance and stability evaluation are also explored. It highlights recent advancements in catalyst design, including nanostructuring and surface engineering. Challenges such as degradation, cost, and material availability are discussed, along with opportunities for innovation in earth-abundant catalysts and improved durability. This chapter aims to foster progress in catalyst design and development and inspire future research in electrolysis and electrochemical water splitting for sustainable hydrogen production.    
-
-    
-
-## Fundamentals and Roles of Nanoelectrocatalysis for Sustainable Energy and Water   
-
-OpenAlex: https://openalex.org/W4398151733    
-Open access: False
-    
-[Juhan Lee](https://openalex.org/A5087911207), [Rafael L. Zornitta](https://openalex.org/A5081033102), [Katlego Makgopa](https://openalex.org/A5052140107), [J.G. Gamaethiralalage](https://openalex.org/A5008769412), [Modibane Desmond Kwena](https://openalex.org/A5098727919), [Kumar Raju](https://openalex.org/A5017922735), Environmental chemistry for a sustainable world. None(None)] 2024.https://doi.org/10.1007/978-3-031-55329-5_1.
-    
-Electrocatalysis is a pivotal scientific discipline and a crucial part of industrial processes for the sustainable future for mankind. It is closely related to energy efficiency and the general processing rate of various electrochemical applications. Thus, a sound understanding of electrocatalysis provides versatile new functions and innovative solutions to numerous challenges we face in conventional and advanced technologies. Particularly, the challenges regarding the need for sustainable energy and water use arise with growing demands for more environmentally friendly, safer, and energy-efficient materials, which are less dependent on limited resources. In terms of resolving these challenging demands, the emergence of nanomaterials has brought a significant advance in technologies and enabled an in-depth and comprehensive understanding of electrocatalysis. In this book chapter, we explore various electrochemical applications of both conventional and advanced technologies by categorizing them into five functioning groups: harvest, removal, consumption, storage, and analytics. For these applications with a particular aspect of sustainable energy and water, we discuss the roles and fundamentals of electrocatalysis, including technical parts such as cell configuration and its core elements, as well as the theories of thermodynamics and kinetics. Furthermore, we discuss how nanomaterials development and research activities have contributed to the deep understanding of nanoelectrocatalysis by reviewing some of the recent progress of various technologies. Finally, we explore the roles and the trend of these advanced nanomaterials in electrocatalysis with a focus on the properties and the design of materials.    
-
-    
-
-## Porous TiN-based ceramic electrode with N-modified Co-based Nanorods/TiN heterointerfaces for efficient overall water splitting   
-
-OpenAlex: https://openalex.org/W4398154955    
-Open access: False
-    
-[Chuntian Tan](https://openalex.org/A5012994917), [Haisen Huang](https://openalex.org/A5086799705), [Feihong Wang](https://openalex.org/A5082361220), [Nianwang Ke](https://openalex.org/A5002765566), [Anding Huang](https://openalex.org/A5071876065), [Wangzhong Tang](https://openalex.org/A5029286788), [Luyuan Hao](https://openalex.org/A5089910617), [Liangjun Yin](https://openalex.org/A5004307311), [Xin Xu](https://openalex.org/A5063758192), [Yuxi Xian](https://openalex.org/A5023209804), [Simeon Agathopoulos](https://openalex.org/A5036636128), Journal of power sources. 610(None)] 2024.https://doi.org/10.1016/j.jpowsour.2024.234722.
-    
-The development of high-performance electrocatalytic electrodes for overall water splitting is a crucial issue to realize renewable hydrogen production. This paper presents the in situ growth of N-modified Co-based nanorods on porous TiN ceramic membranes using the hydrothermal method and thermal NH3 treatment, resulting in a novel self-supported electrocatalytic electrode with abundant heterointerfaces, denoted as NCTN-x-y (x: nitridation temperature; y: nitridation time). In the alkaline medium (1 M KOH), the NCTN-350-2 electrode displays the best hydrogen evolution reaction (HER) activity (ƞ10 = 66 mV), and the NCTN-250-3 electrode manifests the best oxygen evolution reaction (OER) performance (ƞ10 = 270 mV). Accordingly, these two electrodes comprise an electrolyzer, which features a current density of 10 mA cm−2 at a low cell voltage of 1.63 V. The good electrocatalytic performance can be attributed to the abundant heterointerfaces formed between the porous TiN ceramic membrane and the N-modified Co-based nanorods, in conjunction with the hierarchical pore structure of the TiN ceramic membrane. Theoretical calculations identify that the construction of heterointerfaces modulates the electronic structure of active sites, thereby promoting the dissociation of H2O, optimizing the H* adsorption energy (ΔGH*), and accelerating the reaction kinetics, which ultimately improve the electrocatalytic activity of electrode.    
-
-    
 
 ## Co2 Electroreduction on Single Atom Catalysts: Role of the Local Coordination   
 
@@ -758,7 +659,84 @@ Open access: False
     
 [Tao Lü](https://openalex.org/A5084388409), [Mingzi Sun](https://openalex.org/A5077976121), [Fengmei Wang](https://openalex.org/A5035659468), [Shan Chen](https://openalex.org/A5088886347), [Youzeng Li](https://openalex.org/A5046407434), [Jialei Chen](https://openalex.org/A5019051563), [Xuelong Liao](https://openalex.org/A5034509756), [Xiaoting Sun](https://openalex.org/A5048026130), [Ying Liu](https://openalex.org/A5021636762), [Fei Wang](https://openalex.org/A5061427481), [Bolong Huang](https://openalex.org/A5022350148), [Huan Wang](https://openalex.org/A5071969004), ACS nano. None(None)] 2024.https://doi.org/10.1021/acsnano.4c01698.
     
+Two-electron oxygen reduction reaction (2e    
+
+    
+
+## Modeling Heterogeneous Catalysis and Electrocatalysis   
+
+OpenAlex: https://openalex.org/W4399039549    
+Open access: True
+    
+[Shaama Mallikarjun Sharada](https://openalex.org/A5026033464), [Joseph A. Gauthier](https://openalex.org/A5088579134), ChemPhysChem. None(None)] 2024.https://doi.org/10.1002/cphc.202400507 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cphc.202400507)).
+    
+With this special collection of articles with contributions from friends, former colleagues, collaborators, students, and postdocs, we celebrate Jens K. Nørskov′s belated 70 th birthday. The studies reported here highlight just a small portion of the breadth and depth of Jens Nørskov's 40 years of influence in modeling heterogeneous catalysis and electrocatalysis. Many challenges remain in enabling in silico catalyst design, and the contributions in this special collection highlight the growing importance of machine learning approaches towards solving these challenges.    
+
+    
+
+## Influence of polar bridging molecules on the photoelectrocatalytic hydrogen production from perylene diimide network structures   
+
+OpenAlex: https://openalex.org/W4399040937    
+Open access: False
+    
+[Weixing Nie](https://openalex.org/A5027180731), [Mengnan Ruan](https://openalex.org/A5003645741), [Ying Zhang](https://openalex.org/A5042973046), [Yuxin Sun](https://openalex.org/A5020889241), [Ke Ruan](https://openalex.org/A5027796176), [Xiaowei Liu](https://openalex.org/A5046174386), [Zhifeng Liu](https://openalex.org/A5047208415), Applied catalysis. B, Environmental. None(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124242.
+    
 No abstract    
+
+    
+
+## Dissociative Adsorption of O2 on Ag3Au(111) Surface: A Density Functional Theory Study   
+
+OpenAlex: https://openalex.org/W4399043021    
+Open access: True
+    
+[Yanlin Yu](https://openalex.org/A5032589681), [Ming-An Fu](https://openalex.org/A5055607778), [Huaizhang Gu](https://openalex.org/A5037262034), [Lei Wang](https://openalex.org/A5055471364), [W. Q. Liu](https://openalex.org/A5034344961), [Qianqian Xie](https://openalex.org/A5068684086), [Guojiang Wu](https://openalex.org/A5061689594), Crystals. 14(6)] 2024.https://doi.org/10.3390/cryst14060504.
+    
+The catalytic efficiency of oxygen reduction catalysts is notably influenced by the dissociative adsorption of O2. We conducted a systematic investigation into the dissociative adsorption of O2 on the Ag3Au(111) surface using ab initio density functional theory (DFT) calculations. Our computational findings indicate that adsorption the configuration designated t-b-t exhibits favorable energetics on the Ag3Au(111) surface. Regarding the dissociation of O2, we identified a reasonable dissociation pathway, which proceeds from the initial t-b-t state to the creation of two oxygen atoms that occupy a set of neighboring fcc sites. Furthermore, our analysis indicates that the adsorption of O2 on the Ag3Au(111) surface is less favored thermodynamically and more difficult to dissociate than that on the Ag(111) surface. This study furnishes a theoretical framework elucidating the prospective utilization of Ag-Au alloy in the capacity of oxygen reduction catalysts.    
+
+    
+
+## Synergistic antibacterial and anticancer activity in gadolinium–chitosan nanocomposite films: A novel approach for biomedical applications   
+
+OpenAlex: https://openalex.org/W4399051200    
+Open access: False
+    
+[Khaled D. Khalil](https://openalex.org/A5047425265), [Ali H. Bashal](https://openalex.org/A5084194255), [Talaat H. Habeeb](https://openalex.org/A5046828845), [Ahmed M. Abu‐Dief](https://openalex.org/A5061884382), Applied organometallic chemistry. None(None)] 2024.https://doi.org/10.1002/aoc.7531.
+    
+Driven by the continuous search for materials with antibacterial and anticancer applications, this study focuses on the fabrication of nanocomposite films using chitosan as the basis material, with the addition of gadolinium oxide nanoparticles at varying weight percentages (5 and 10 wt.% Gd 2 O 3 /CS). The films were made using the coprecipitation‐solution cast approach. The structural characteristics of the Gd 2 O 3 /CS films that were formed were investigated and confirmed using a range of analytical techniques, including Fourier transform infrared, X‐ray diffraction, and scanning electron microscopy–energy‐dispersive X‐ray spectroscopy. The X‐ray diffraction study provided unambiguous evidence of an increased degree of crystallinity in chitosan with the inclusion of gadolinia. The particle size was determined using the Debye–Scherrer formula, resulting in an estimated value of 36 nm. Following this, a thorough examination was undertaken to evaluate the antibacterial effectiveness against one strain of Gram‐positive bacteria and two strains of Gram‐negative bacteria. Our research has revealed that the efficacy of the inspected Gd 2 O 3 /CS as bactericides is superior to that of CS alone. Furthermore, the MCF‐7, HCT‐116, and HepG‐2 cell lines exhibited anticancer activity when exposed to the Gd 2 O 3 /CS nanocomposites. In addition, nanocomposites exhibit significant antioxidant activity in comparison with the conventional vitamin C. These findings provide evidence for the viability of our nanocomposites in combating breast cancer.    
+
+    
+
+## Interplay between alloying and tramp element effects on temper embrittlement in bcc iron: DFT and thermodynamic insights   
+
+OpenAlex: https://openalex.org/W4399051276    
+Open access: False
+    
+[Amin Sakic](https://openalex.org/A5027633750), [Ronald Schnitzer](https://openalex.org/A5056652458), [David Holec](https://openalex.org/A5088298980), Acta materialia. None(None)] 2024.https://doi.org/10.1016/j.actamat.2024.120044.
+    
+No abstract    
+
+    
+
+## MXene-Based Catalysts: a Review   
+
+OpenAlex: https://openalex.org/W4399051757    
+Open access: True
+    
+[Ali Hamzehlouy](https://openalex.org/A5098884211), [Masoud Soroush](https://openalex.org/A5077418513), Materials today catalysis. None(None)] 2024.https://doi.org/10.1016/j.mtcata.2024.100054.
+    
+No abstract    
+
+    
+
+## Coverage, repulsion, and reactivity of hydrogen on High-Entropy alloys   
+
+OpenAlex: https://openalex.org/W4399056816    
+Open access: True
+    
+[Frederik C. Østergaard](https://openalex.org/A5063987730), [Frank Abild‐Pedersen](https://openalex.org/A5014248031), [Jan Rossmeisl](https://openalex.org/A5083668074), Journal of catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115570.
+    
+Modeling hydrogen evolution reaction (HER) activity probability on IrPdPtRhRu(1 1 1) high-entropy alloys. Determining hydrogen coverages based on ligand effects and generalized hydrogen–hydrogen repulsion. The rate of H2 formation is highly impacted by the level of hydrogen coverage on the catalyst surface. In search of optimal catalytic properties high-entropy alloys (HEA) are promising candidates that utilize the compositional space of multiple elements. Based on simulations of HEA model (1 1 1) surfaces with a range of hydrogen coverages, distributions of binding energies are used to construct a framework that approximates the probability that adsorbed hydrogen may lead to the formation of H2 as a function of applied potential. By optimizing the alloy compositions for the highest activity probability at given potentials the best and most efficient catalyst candidates for HER can be identified. Treating hydrogen–hydrogen repulsion effects and binding energy separately, we find that the repulsion is larger for HEAs than for pure metals. Differing isotherm slopes in the mean adsorption and desorption energies demonstrate a possible hysteresis for hydrogen adsorption on HEAs.    
 
     
 
@@ -778,7 +756,7 @@ Perovskite oxides are gaining significant attention for use in next-generation m
 OpenAlex: https://openalex.org/W4398217329    
 Open access: False
     
-[Raidel Martin‐Barrios](https://openalex.org/A5027825100), [Edisel Navas‐Conyedo](https://openalex.org/A5030894072), [Xuyi Zhang](https://openalex.org/A5089831983), [Yunwei Chen](https://openalex.org/A5047864669), [Jorge Gulín‐González](https://openalex.org/A5011146093), International journal of quantum chemistry. 124(11)] 2024.https://doi.org/10.1002/qua.27389.
+[Raidel Martin‐Barrios](https://openalex.org/A5027825100), [Edisel Navas‐Conyedo](https://openalex.org/A5030894072), [Xuyi Zhang](https://openalex.org/A5089831983), [Yunwei Chen](https://openalex.org/A5047864669), [Jorge Gulı́n-González](https://openalex.org/A5011146093), International journal of quantum chemistry. 124(11)] 2024.https://doi.org/10.1002/qua.27389.
     
 Abstract Ab‐initio molecular dynamics (AIMD) is a key method for realistic simulation of complex atomistic systems and processes in nanoscale. In AIMD, finite‐temperature dynamical trajectories are generated by using forces computed from electronic structure calculations. In systems with high numbers of components a typical AIMD run is computationally demanding. On the other hand, machine learning (ML) is a subfield of the artificial intelligence that consist in a set of algorithms that show learning by experience with the use of input and output data where algorithms are capable of analysing and predicting the future. At present, the main application of ML techniques in atomic simulations is the development of new interatomic potentials to correctly describe the potential energy surfaces (PES). This technique is in constant progress since its inception around 30 years ago. The ML potentials combine the advantages of classical and Ab‐initio methods, that is, the efficiency of a simple functional form and the accuracy of first principles calculations. In this article we review the evolution of four generations of machine learning potentials and some of their most notable applications. This review focuses on MLPs based on neural networks. Also, we present a state of art of this topic and future trends. Finally, we report the results of a scientometric study (covering the period 1995–2023) about the impact of ML techniques applied to atomistic simulations, distribution of publications by geographical regions and hot topics investigated in the literature.    
 

@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue May 28 01:06:24 2024
+Created on Wed May 29 01:09:57 2024
 
-Found 16 results from 2024-05-21 to 2024-05-28
+Found 11 results from 2024-05-22 to 2024-05-29
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -122,61 +122,6 @@ OpenAlex: https://openalex.org/W4399016103
 Open access: False
     
 [Yuanxun Shao](https://openalex.org/A5067408554), [Dillard Robertson](https://openalex.org/A5090883506), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Anya Castillo](https://openalex.org/A5007259749), [Joseph K. Scott](https://openalex.org/A5091115429), Optimization and engineering. None(None)] 2024.https://doi.org/10.1007/s11081-024-09891-7.
-    
-No abstract    
-
-    
-
-## CCDC 1906780: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397827307    
-Open access: True
-    
-[Robert E. Lee](https://openalex.org/A5024276528), [Bryan S. Bashrum](https://openalex.org/A5052935428), [Ethan C. Cagle](https://openalex.org/A5083837065), [Jillian Walters](https://openalex.org/A5045293392), [Jake Massey](https://openalex.org/A5066464537), [Monica Zanghi](https://openalex.org/A5038824830), [Carolyn Birchfield](https://openalex.org/A5069655595), [David N. French](https://openalex.org/A5060819177), [Jessica Joy](https://openalex.org/A5066141462), [Gabriel Gomes](https://openalex.org/A5048633127), [Paul A. Wiget](https://openalex.org/A5035076738), The Cambridge Structural Database. None(None)] 2019.https://doi.org/10.5517/ccdc.csd.cc22051b.
-    
-No abstract    
-
-    
-
-## CCDC 1956038: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397797382    
-Open access: True
-    
-[Diego B. Diaz](https://openalex.org/A5041538362), [Solomon D. Appavoo](https://openalex.org/A5014838330), [Anastasia F. Bogdanchikova](https://openalex.org/A5087096972), [Yury Lebedev](https://openalex.org/A5007633401), [Timothy J. McTiernan](https://openalex.org/A5071218647), [Gabriel Gomes](https://openalex.org/A5048633127), [Andrei K. Yudin](https://openalex.org/A5081408580), The Cambridge Structural Database. None(None)] 2020.https://doi.org/10.5517/ccdc.csd.cc23nf07.
-    
-No abstract    
-
-    
-
-## CCDC 1956029: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4398007050    
-Open access: True
-    
-[Diego B. Diaz](https://openalex.org/A5041538362), [Solomon D. Appavoo](https://openalex.org/A5014838330), [Anastasia F. Bogdanchikova](https://openalex.org/A5087096972), [Yury Lebedev](https://openalex.org/A5007633401), [Timothy J. McTiernan](https://openalex.org/A5071218647), [Gabriel Gomes](https://openalex.org/A5048633127), [Andrei K. Yudin](https://openalex.org/A5081408580), The Cambridge Structural Database. None(None)] 2020.https://doi.org/10.5517/ccdc.csd.cc23ndqx.
-    
-No abstract    
-
-    
-
-## CCDC 1956031: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4398031232    
-Open access: True
-    
-[Diego B. Diaz](https://openalex.org/A5041538362), [Solomon D. Appavoo](https://openalex.org/A5014838330), [Anastasia F. Bogdanchikova](https://openalex.org/A5087096972), [Yury Lebedev](https://openalex.org/A5007633401), [Timothy J. McTiernan](https://openalex.org/A5071218647), [Gabriel Gomes](https://openalex.org/A5048633127), [Andrei K. Yudin](https://openalex.org/A5081408580), The Cambridge Structural Database. None(None)] 2020.https://doi.org/10.5517/ccdc.csd.cc23ndsz.
-    
-No abstract    
-
-    
-
-## CCDC 1956027: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4398037003    
-Open access: True
-    
-[Diego B. Diaz](https://openalex.org/A5041538362), [Solomon D. Appavoo](https://openalex.org/A5014838330), [Anastasia F. Bogdanchikova](https://openalex.org/A5087096972), [Yury Lebedev](https://openalex.org/A5007633401), [Timothy J. McTiernan](https://openalex.org/A5071218647), [Gabriel Gomes](https://openalex.org/A5048633127), [Andrei K. Yudin](https://openalex.org/A5081408580), The Cambridge Structural Database. None(None)] 2020.https://doi.org/10.5517/ccdc.csd.cc23ndnv.
     
 No abstract    
 

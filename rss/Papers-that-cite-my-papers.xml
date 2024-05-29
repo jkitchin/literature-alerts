@@ -4,99 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 28 May 2024 01:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 01:10:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Proton relay in hydrogen-bond networks promotes alkaline hydrogen evolution electrocatalysis</title>
-      <link>https://doi.org/10.21203/rs.3.rs-4375967/v1</link>
-      <description>Jiayuan Li, Yuefei Li, Shishi Zhang, Boyang Li, Yaqiong Su, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4398132625
-
-                Abstract Common O-/H-down orientation of H2O molecules on electrocatalysts brings favorable OH/H delivery however adverse H/OH delivery in their dissociation process, hampering H2O dissociation kinetics of alkaline hydrogen evolution reaction (HER). To overcome this challenge, we raised a synergetic H2O dissociation concept of metal-supported electrocatalysts involving efficient OH delivery from O-down H2O to the metal, timely proton relay from O-down H2O on the metal to H-down H2O on the support through the hydrogen-bond network, and prompt H delivery from H-down H2O to the support. After theoretically profiling that a high work function difference between metal and support (&#916;&#934;) induces a strong electric field at the metal-support interface that increases hydrogen-bond connectivity to promote proton relay, we examined this concept over cobalt phosphide-supported ruthenium (Ru/CoP) catalysts with a high &#916;&#934; = 0.4 eV, reaching record high HER performance with a Ru utilization activity of 66.1 A mgRu-1 at a 100 mV overpotential.</description>
-      <author>Jiayuan Li, Yuefei Li, Shishi Zhang, Boyang Li, Yaqiong Su</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4375967/v1</guid>
-    </item>
-    <item>
-      <title>Database mining and first-principles assessment of organic proton-transfer ferroelectrics</title>
-      <link>https://doi.org/10.1103/physrevmaterials.8.054413</link>
-      <description>Seyedmojtaba Seyedraoufi, Elin Dypvik S&#248;dahl, Carl Henrik G&#246;rbitz, Kristian Berland, Physical review materials. 8(5)] 2024. https://openalex.org/W4398142116
-
-                In organic proton-transfer ferroelectrics (OPTFe), molecules are linked to form hydrogen-bonded networks, and proton transfer (PT) between molecules is the dominant mechanism of ferroelectric switching. The fast-switching frequencies of OPTFes make them attractive alternatives to conventional ceramic ferroelectrics, which contain rare and/or toxic elements and require high processing temperatures. In this study, we mined the Cambridge Structural Database (CSD) for potential OPTFes, uncovering most of the previously reported ones, both tautomeric compounds and acid-base salts, in addition to 12 new compounds, nine of which were tautomeric salts. The identification of PT tautomeric salts highlights a potential new avenue for engineering novel OPTFes. The CSD mining was based on identifying polar crystal structures with pseudoinversion symmetry and viable PT paths. The spontaneous polarization ${\mathbit{P}}_{\mathrm{s}}$ and the PT barriers ${U}_{\mathrm{PT}}$ were calculated for a selection of the compounds using density-functional theory.</description>
-      <author>Seyedmojtaba Seyedraoufi, Elin Dypvik S&#248;dahl, Carl Henrik G&#246;rbitz, Kristian Berland</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.054413</guid>
-    </item>
-    <item>
-      <title>Multi-Variable Multi-Metric Optimization of Self-Assembled Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction Performance Using Machine Learning Algorithms</title>
-      <link>https://doi.org/10.1021/jacs.4c01305</link>
-      <description>Shannon A. Bonke, Giovanni Trezza, Luca Bergamasco, Hongwei Song, Santiago Rodr&#237;guez&#8208;Jim&#233;nez, Leif Hammarstr&#246;m, Eliodoro Chiavazzo, Erwin Reisner, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4398142708
-
-                The sunlight-driven reduction of CO2 into fuels and platform chemicals is a promising approach to enable a circular economy. However, established optimization approaches are poorly suited to multivariable multimetric photocatalytic systems because they aim to optimize one performance metric while sacrificing the others and thereby limit overall system performance. Herein, we address this multimetric challenge by defining a metric for holistic system performance that takes multiple figures of merit into account, and employ a machine learning algorithm to efficiently guide our experiments through the large parameter matrix to make holistic optimization accessible for human experimentalists. As a test platform, we employ a five-component system that self-assembles into photocatalytic micelles for CO2-to-CO reduction, which we experimentally optimized to simultaneously improve yield, quantum yield, turnover number, and frequency while maintaining high selectivity. Leveraging the data set with machine learning algorithms allows quantification of each parameter's effect on overall system performance. The buffer concentration is unexpectedly revealed as the dominating parameter for optimal photocatalytic activity, and is nearly four times more important than the catalyst concentration. The expanded use and standardization of this methodology to define and optimize holistic performance will accelerate progress in different areas of catalysis by providing unprecedented insights into performance bottlenecks, enhancing comparability, and taking results beyond comparison of subjective figures of merit.</description>
-      <author>Shannon A. Bonke, Giovanni Trezza, Luca Bergamasco, Hongwei Song, Santiago Rodr&#237;guez&#8208;Jim&#233;nez, Leif Hammarstr&#246;m, Eliodoro Chiavazzo, Erwin Reisner</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01305</guid>
-    </item>
-    <item>
-      <title>Machine learning-aided first-principles calculations of redox potentials</title>
-      <link>https://doi.org/10.1038/s41524-024-01295-6</link>
-      <description>Ryosuke Jinnouchi, Ferenc Karsai, Georg Kresse, npj computational materials. 10(1)] 2024. https://openalex.org/W4398143044
-
-                Abstract We present a method combining first-principles calculations and machine learning to predict the redox potentials of half-cell reactions on the absolute scale. By applying machine learning force fields for thermodynamic integration from the oxidized to the reduced state, we achieve efficient statistical sampling over a broad phase space. Furthermore, through thermodynamic integration from machine learning force fields to potentials of semi-local functionals, and from semi-local functionals to hybrid functionals using &#916;-machine learning, we refine the free energy with high precision step-by-step. Utilizing a hybrid functional that includes 25% exact exchange (PBE0), this method predicts the redox potentials of the three redox couples, Fe 3+ /Fe 2+ , Cu 2+ /Cu + , and Ag 2+ /Ag + , to be 0.92, 0.26, and 1.99 V, respectively. These predictions are in good agreement with the best experimental estimates (0.77, 0.15, 1.98 V). This work demonstrates that machine-learned surrogate models provide a flexible framework for refining the accuracy of free energy from coarse approximation methods to precise electronic structure calculations, while also facilitating sufficient statistical sampling.</description>
-      <author>Ryosuke Jinnouchi, Ferenc Karsai, Georg Kresse</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01295-6</guid>
-    </item>
-    <item>
-      <title>In Operando X-ray Spectroscopic and DFT Studies Revealing Improved H&lt;sub&gt;2&lt;/sub&gt; Evolution by the Synergistic Ni&#8211;Co Electron Effect in the Alkaline Condition</title>
-      <link>https://doi.org/10.1021/acsami.4c02613</link>
-      <description>Lian&#8208;Ming Lyu, Han-Jung Li, R. Tsai, Ching-Feng Chen, Ya&#8208;Hsuan Chang, Y.C. Chuang, Cheng-Shiuan Li, Jeng-Lung Chen, Te&#8208;Wei Chiu, Chun Hong Kuo, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4398145067
-
-                The different electrolyte conditions, e.g., pH value, for driving efficient HER and OER are one of the major issues hindering the aim for electrocatalytic water splitting in a high efficiency. In this regard, seeking durable and active HER electrocatalysts to align the alkaline conditions of the OER is a promising solution. However, the success in this strategy will depend on a fundamental understanding about the HER mechanism at the atomic scale. In this work, we have provided thorough understanding for the electrochemical HER mechanisms in KOH over Ni- and Co-based hollow pyrite microspheres by in operando X-ray spectroscopies and DFT calculations, including NiS</description>
-      <author>Lian&#8208;Ming Lyu, Han-Jung Li, R. Tsai, Ching-Feng Chen, Ya&#8208;Hsuan Chang, Y.C. Chuang, Cheng-Shiuan Li, Jeng-Lung Chen, Te&#8208;Wei Chiu, Chun Hong Kuo</author>
-      <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c02613</guid>
-    </item>
-    <item>
-      <title>Structure and ionic conduction enhancement mechanisms at CeO2/SrTiO3 heterointerfaces</title>
-      <link>https://doi.org/10.1063/5.0185746</link>
-      <description>Bonan Zhu, Georg Schusteritsch, Weiwei Li, Wandong Xing, Rong Yu, Chris J. Pickard, Judith L. MacManus&#8208;Driscoll, Applied physics reviews. 11(2)] 2024. https://openalex.org/W4398146412
-
-                Fluorite-perovskite heterointerfaces garner great interest for enhanced ionic conductivity for application in electronic and energy devices. However, the origin of observed enhanced ionic conductivity as well as the details of the atomic structure at these interfaces remain elusive. Here, systematic, multi-stoichiometry computational searches and experimental investigations are performed to obtain stable and exact atomic structures of interfaces between CeO2 and SrTiO3&#8212;two archetypes of the corresponding structural families. Local reconstructions take place at the interface because of mismatched lattices. TiO2 terminated SrTiO3 causes a buckled rock salt CeO interface layer to emerge. In contrast, SrO terminated SrTiO3 maintains the fluorite structure at the interface compensated by a partially occupied anion lattice. Moderate enhancement in oxygen diffusion is found along the interface by simulations, yet evidence to support further significant enhancement is lacking. Our findings demonstrate the control of interface termination as an effective pathway to achieve desired device performance.</description>
-      <author>Bonan Zhu, Georg Schusteritsch, Weiwei Li, Wandong Xing, Rong Yu, Chris J. Pickard, Judith L. MacManus&#8208;Driscoll</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0185746</guid>
-    </item>
-    <item>
-      <title>Catalysts for Electrocatalytic Water Splitting</title>
-      <link>https://doi.org/10.1007/978-981-97-1339-4_12</link>
-      <description>Umesh P. Suryawanshi, Mayur A. Gaikwad, Uma V. Ghorpade, Jihun Kim, Mahesh P. Suryawanshi, Energy, environment, and sustainability. None(None)] 2024. https://openalex.org/W4398151349
-
-                Water electrolysis or electrochemical water splitting is considered a promising technology for delivering a portable and sustainable energy source through hydrogen fuel. The crucial aspect for advancing toward industrial implementation rests in the utilization of cost-effective electrocatalysts with high efficiency. This book chapter provides a comprehensive overview of catalysts for electrochemical water splitting, emphasizing their importance, state-of-the-art advancements, challenges, and opportunities. Since catalysts play a critical role in facilitating efficient hydrogen production by improving reaction kinetics and selectivity, various catalyst types and their performance and stability evaluation are also explored. It highlights recent advancements in catalyst design, including nanostructuring and surface engineering. Challenges such as degradation, cost, and material availability are discussed, along with opportunities for innovation in earth-abundant catalysts and improved durability. This chapter aims to foster progress in catalyst design and development and inspire future research in electrolysis and electrochemical water splitting for sustainable hydrogen production.</description>
-      <author>Umesh P. Suryawanshi, Mayur A. Gaikwad, Uma V. Ghorpade, Jihun Kim, Mahesh P. Suryawanshi</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-981-97-1339-4_12</guid>
-    </item>
-    <item>
-      <title>Fundamentals and Roles of Nanoelectrocatalysis for Sustainable Energy and Water</title>
-      <link>https://doi.org/10.1007/978-3-031-55329-5_1</link>
-      <description>Juhan Lee, Rafael L. Zornitta, Katlego Makgopa, J.G. Gamaethiralalage, Modibane Desmond Kwena, Kumar Raju, Environmental chemistry for a sustainable world. None(None)] 2024. https://openalex.org/W4398151733
-
-                Electrocatalysis is a pivotal scientific discipline and a crucial part of industrial processes for the sustainable future for mankind. It is closely related to energy efficiency and the general processing rate of various electrochemical applications. Thus, a sound understanding of electrocatalysis provides versatile new functions and innovative solutions to numerous challenges we face in conventional and advanced technologies. Particularly, the challenges regarding the need for sustainable energy and water use arise with growing demands for more environmentally friendly, safer, and energy-efficient materials, which are less dependent on limited resources. In terms of resolving these challenging demands, the emergence of nanomaterials has brought a significant advance in technologies and enabled an in-depth and comprehensive understanding of electrocatalysis. In this book chapter, we explore various electrochemical applications of both conventional and advanced technologies by categorizing them into five functioning groups: harvest, removal, consumption, storage, and analytics. For these applications with a particular aspect of sustainable energy and water, we discuss the roles and fundamentals of electrocatalysis, including technical parts such as cell configuration and its core elements, as well as the theories of thermodynamics and kinetics. Furthermore, we discuss how nanomaterials development and research activities have contributed to the deep understanding of nanoelectrocatalysis by reviewing some of the recent progress of various technologies. Finally, we explore the roles and the trend of these advanced nanomaterials in electrocatalysis with a focus on the properties and the design of materials.</description>
-      <author>Juhan Lee, Rafael L. Zornitta, Katlego Makgopa, J.G. Gamaethiralalage, Modibane Desmond Kwena, Kumar Raju</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-55329-5_1</guid>
-    </item>
-    <item>
-      <title>Porous TiN-based ceramic electrode with N-modified Co-based Nanorods/TiN heterointerfaces for efficient overall water splitting</title>
-      <link>https://doi.org/10.1016/j.jpowsour.2024.234722</link>
-      <description>Chuntian Tan, Haisen Huang, Feihong Wang, Nianwang Ke, Anding Huang, Wangzhong Tang, Luyuan Hao, Liangjun Yin, Xin Xu, Yuxi Xian, Simeon Agathopoulos, Journal of power sources. 610(None)] 2024. https://openalex.org/W4398154955
-
-                The development of high-performance electrocatalytic electrodes for overall water splitting is a crucial issue to realize renewable hydrogen production. This paper presents the in situ growth of N-modified Co-based nanorods on porous TiN ceramic membranes using the hydrothermal method and thermal NH3 treatment, resulting in a novel self-supported electrocatalytic electrode with abundant heterointerfaces, denoted as NCTN-x-y (x: nitridation temperature; y: nitridation time). In the alkaline medium (1 M KOH), the NCTN-350-2 electrode displays the best hydrogen evolution reaction (HER) activity (&#414;10 = 66 mV), and the NCTN-250-3 electrode manifests the best oxygen evolution reaction (OER) performance (&#414;10 = 270 mV). Accordingly, these two electrodes comprise an electrolyzer, which features a current density of 10 mA cm&#8722;2 at a low cell voltage of 1.63 V. The good electrocatalytic performance can be attributed to the abundant heterointerfaces formed between the porous TiN ceramic membrane and the N-modified Co-based nanorods, in conjunction with the hierarchical pore structure of the TiN ceramic membrane. Theoretical calculations identify that the construction of heterointerfaces modulates the electronic structure of active sites, thereby promoting the dissociation of H2O, optimizing the H* adsorption energy (&#916;GH*), and accelerating the reaction kinetics, which ultimately improve the electrocatalytic activity of electrode.</description>
-      <author>Chuntian Tan, Haisen Huang, Feihong Wang, Nianwang Ke, Anding Huang, Wangzhong Tang, Luyuan Hao, Liangjun Yin, Xin Xu, Yuxi Xian, Simeon Agathopoulos</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234722</guid>
-    </item>
     <item>
       <title>Co2 Electroreduction on Single Atom Catalysts: Role of the Local Coordination</title>
       <link>https://doi.org/10.2139/ssrn.4836660</link>
@@ -682,10 +592,80 @@
       <link>https://doi.org/10.1021/acsnano.4c01698</link>
       <description>Tao L&#252;, Mingzi Sun, Fengmei Wang, Shan Chen, Youzeng Li, Jialei Chen, Xuelong Liao, Xiaoting Sun, Ying Liu, Fei Wang, Bolong Huang, Huan Wang, ACS nano. None(None)] 2024. https://openalex.org/W4399027908
 
-                No abstract</description>
+                Two-electron oxygen reduction reaction (2e</description>
       <author>Tao L&#252;, Mingzi Sun, Fengmei Wang, Shan Chen, Youzeng Li, Jialei Chen, Xuelong Liao, Xiaoting Sun, Ying Liu, Fei Wang, Bolong Huang, Huan Wang</author>
       <pubDate>Sun, 26 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsnano.4c01698</guid>
+    </item>
+    <item>
+      <title>Modeling Heterogeneous Catalysis and Electrocatalysis</title>
+      <link>https://doi.org/10.1002/cphc.202400507</link>
+      <description>Shaama Mallikarjun Sharada, Joseph A. Gauthier, ChemPhysChem. None(None)] 2024. https://openalex.org/W4399039549
+
+                With this special collection of articles with contributions from friends, former colleagues, collaborators, students, and postdocs, we celebrate Jens K. N&#248;rskov&#8242;s belated 70 th birthday. The studies reported here highlight just a small portion of the breadth and depth of Jens N&#248;rskov's 40 years of influence in modeling heterogeneous catalysis and electrocatalysis. Many challenges remain in enabling in silico catalyst design, and the contributions in this special collection highlight the growing importance of machine learning approaches towards solving these challenges.</description>
+      <author>Shaama Mallikarjun Sharada, Joseph A. Gauthier</author>
+      <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cphc.202400507</guid>
+    </item>
+    <item>
+      <title>Influence of polar bridging molecules on the photoelectrocatalytic hydrogen production from perylene diimide network structures</title>
+      <link>https://doi.org/10.1016/j.apcatb.2024.124242</link>
+      <description>Weixing Nie, Mengnan Ruan, Ying Zhang, Yuxin Sun, Ke Ruan, Xiaowei Liu, Zhifeng Liu, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399040937
+
+                No abstract</description>
+      <author>Weixing Nie, Mengnan Ruan, Ying Zhang, Yuxin Sun, Ke Ruan, Xiaowei Liu, Zhifeng Liu</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124242</guid>
+    </item>
+    <item>
+      <title>Dissociative Adsorption of O2 on Ag3Au(111) Surface: A Density Functional Theory Study</title>
+      <link>https://doi.org/10.3390/cryst14060504</link>
+      <description>Yanlin Yu, Ming-An Fu, Huaizhang Gu, Lei Wang, W. Q. Liu, Qianqian Xie, Guojiang Wu, Crystals. 14(6)] 2024. https://openalex.org/W4399043021
+
+                The catalytic efficiency of oxygen reduction catalysts is notably influenced by the dissociative adsorption of O2. We conducted a systematic investigation into the dissociative adsorption of O2 on the Ag3Au(111) surface using ab initio density functional theory (DFT) calculations. Our computational findings indicate that adsorption the configuration designated t-b-t exhibits favorable energetics on the Ag3Au(111) surface. Regarding the dissociation of O2, we identified a reasonable dissociation pathway, which proceeds from the initial t-b-t state to the creation of two oxygen atoms that occupy a set of neighboring fcc sites. Furthermore, our analysis indicates that the adsorption of O2 on the Ag3Au(111) surface is less favored thermodynamically and more difficult to dissociate than that on the Ag(111) surface. This study furnishes a theoretical framework elucidating the prospective utilization of Ag-Au alloy in the capacity of oxygen reduction catalysts.</description>
+      <author>Yanlin Yu, Ming-An Fu, Huaizhang Gu, Lei Wang, W. Q. Liu, Qianqian Xie, Guojiang Wu</author>
+      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/cryst14060504</guid>
+    </item>
+    <item>
+      <title>Synergistic antibacterial and anticancer activity in gadolinium&#8211;chitosan nanocomposite films: A novel approach for biomedical applications</title>
+      <link>https://doi.org/10.1002/aoc.7531</link>
+      <description>Khaled D. Khalil, Ali H. Bashal, Talaat H. Habeeb, Ahmed M. Abu&#8208;Dief, Applied organometallic chemistry. None(None)] 2024. https://openalex.org/W4399051200
+
+                Driven by the continuous search for materials with antibacterial and anticancer applications, this study focuses on the fabrication of nanocomposite films using chitosan as the basis material, with the addition of gadolinium oxide nanoparticles at varying weight percentages (5 and 10 wt.% Gd 2 O 3 /CS). The films were made using the coprecipitation&#8208;solution cast approach. The structural characteristics of the Gd 2 O 3 /CS films that were formed were investigated and confirmed using a range of analytical techniques, including Fourier transform infrared, X&#8208;ray diffraction, and scanning electron microscopy&#8211;energy&#8208;dispersive X&#8208;ray spectroscopy. The X&#8208;ray diffraction study provided unambiguous evidence of an increased degree of crystallinity in chitosan with the inclusion of gadolinia. The particle size was determined using the Debye&#8211;Scherrer formula, resulting in an estimated value of 36 nm. Following this, a thorough examination was undertaken to evaluate the antibacterial effectiveness against one strain of Gram&#8208;positive bacteria and two strains of Gram&#8208;negative bacteria. Our research has revealed that the efficacy of the inspected Gd 2 O 3 /CS as bactericides is superior to that of CS alone. Furthermore, the MCF&#8208;7, HCT&#8208;116, and HepG&#8208;2 cell lines exhibited anticancer activity when exposed to the Gd 2 O 3 /CS nanocomposites. In addition, nanocomposites exhibit significant antioxidant activity in comparison with the conventional vitamin C. These findings provide evidence for the viability of our nanocomposites in combating breast cancer.</description>
+      <author>Khaled D. Khalil, Ali H. Bashal, Talaat H. Habeeb, Ahmed M. Abu&#8208;Dief</author>
+      <pubDate>Mon, 27 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aoc.7531</guid>
+    </item>
+    <item>
+      <title>Interplay between alloying and tramp element effects on temper embrittlement in bcc iron: DFT and thermodynamic insights</title>
+      <link>https://doi.org/10.1016/j.actamat.2024.120044</link>
+      <description>Amin Sakic, Ronald Schnitzer, David Holec, Acta materialia. None(None)] 2024. https://openalex.org/W4399051276
+
+                No abstract</description>
+      <author>Amin Sakic, Ronald Schnitzer, David Holec</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.actamat.2024.120044</guid>
+    </item>
+    <item>
+      <title>MXene-Based Catalysts: a Review</title>
+      <link>https://doi.org/10.1016/j.mtcata.2024.100054</link>
+      <description>Ali Hamzehlouy, Masoud Soroush, Materials today catalysis. None(None)] 2024. https://openalex.org/W4399051757
+
+                No abstract</description>
+      <author>Ali Hamzehlouy, Masoud Soroush</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcata.2024.100054</guid>
+    </item>
+    <item>
+      <title>Coverage, repulsion, and reactivity of hydrogen on High-Entropy alloys</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115570</link>
+      <description>Frederik C. &#216;stergaard, Frank Abild&#8208;Pedersen, Jan Rossmeisl, Journal of catalysis. None(None)] 2024. https://openalex.org/W4399056816
+
+                Modeling hydrogen evolution reaction (HER) activity probability on IrPdPtRhRu(1 1 1) high-entropy alloys. Determining hydrogen coverages based on ligand effects and generalized hydrogen&#8211;hydrogen repulsion. The rate of H2 formation is highly impacted by the level of hydrogen coverage on the catalyst surface. In search of optimal catalytic properties high-entropy alloys (HEA) are promising candidates that utilize the compositional space of multiple elements. Based on simulations of HEA model (1 1 1) surfaces with a range of hydrogen coverages, distributions of binding energies are used to construct a framework that approximates the probability that adsorbed hydrogen may lead to the formation of H2 as a function of applied potential. By optimizing the alloy compositions for the highest activity probability at given potentials the best and most efficient catalyst candidates for HER can be identified. Treating hydrogen&#8211;hydrogen repulsion effects and binding energy separately, we find that the repulsion is larger for HEAs than for pure metals. Differing isotherm slopes in the mean adsorption and desorption energies demonstrate a possible hysteresis for hydrogen adsorption on HEAs.</description>
+      <author>Frederik C. &#216;stergaard, Frank Abild&#8208;Pedersen, Jan Rossmeisl</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115570</guid>
     </item>
     <item>
       <title>Unraveling the Correlation between the Interface Structures and Tunable Magnetic Properties of La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;CoO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt;/La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MnO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt; Bilayers Using Deep Learning Models</title>
@@ -700,10 +680,10 @@
     <item>
       <title>An overview about neural networks potentials in molecular dynamics simulation</title>
       <link>https://doi.org/10.1002/qua.27389</link>
-      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
+      <description>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez, International journal of quantum chemistry. 124(11)] 2024. https://openalex.org/W4398217329
 
                 Abstract Ab&#8208;initio molecular dynamics (AIMD) is a key method for realistic simulation of complex atomistic systems and processes in nanoscale. In AIMD, finite&#8208;temperature dynamical trajectories are generated by using forces computed from electronic structure calculations. In systems with high numbers of components a typical AIMD run is computationally demanding. On the other hand, machine learning (ML) is a subfield of the artificial intelligence that consist in a set of algorithms that show learning by experience with the use of input and output data where algorithms are capable of analysing and predicting the future. At present, the main application of ML techniques in atomic simulations is the development of new interatomic potentials to correctly describe the potential energy surfaces (PES). This technique is in constant progress since its inception around 30 years ago. The ML potentials combine the advantages of classical and Ab&#8208;initio methods, that is, the efficiency of a simple functional form and the accuracy of first principles calculations. In this article we review the evolution of four generations of machine learning potentials and some of their most notable applications. This review focuses on MLPs based on neural networks. Also, we present a state of art of this topic and future trends. Finally, we report the results of a scientometric study (covering the period 1995&#8211;2023) about the impact of ML techniques applied to atomistic simulations, distribution of publications by geographical regions and hot topics investigated in the literature.</description>
-      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#237;n&#8208;Gonz&#225;lez</author>
+      <author>Raidel Martin&#8208;Barrios, Edisel Navas&#8208;Conyedo, Xuyi Zhang, Yunwei Chen, Jorge Gul&#305;&#769;n-Gonz&#225;lez</author>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/qua.27389</guid>
     </item>
