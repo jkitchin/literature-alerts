@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 May 2024 01:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 01:07:13 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01543</link>
-      <description>Consiglia Tedesco, John R. Kitchin, Carl D. Laird, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4398161548
-
-                Dynamic catalysis is a novel and promising approach that aims to improve the catalyst performance by modulating the binding energies of adsorbates to favor different reaction steps periodically. In this work, we investigate a unimolecular dynamic catalytic system, with a focus on methods for simulating the transient behavior and identifying the optimal wave parameters for the modulations. Employing the modeling language Pyomo and the solver IPOPT, we formulate a Boundary Value Problem with limit cycle conditions to obtain results with orders-of-magnitude improvements in computational efficiency when compared to forward integration methods. Leveraging this flexible approach, mathematical optimization was applied to the parameters of piecewise and continuous forcing functions to identify the maximum time-averaged turnover frequency (avTOF). We relate the results to the Extended Sabatier Volcano graphical representation, which provides insight into the behavior and optimal parameters of the target systems. Our results further support the notion that periodic shifts in rate-controlling elementary steps lead to a rate of reaction enhancement beyond the Sabatier limit.</description>
-      <author>Consiglia Tedesco, John R. Kitchin, Carl D. Laird</author>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01543</guid>
-    </item>
-    <item>
-      <title>Systematic conceptual design strategies for the recovery of metals from E-waste</title>
-      <link>https://doi.org/10.3389/fceng.2024.1388456</link>
-      <description>Samarth D. Palav, Ana I. Torres, Lorenz T. Biegler, Frontiers in chemical engineering. 6(None)] 2024. https://openalex.org/W4398174165
-
-                As the consumption of electronics increases worldwide, significant strain is posed on both the availability of mineral resources and the accumulation of waste due to their disposal. Recovering valuable minerals from e-waste can potentially alleviate both. This paper discusses the systematic design of processes for the recycling of waste printed circuit boards (WPCB). After reviewing the relevant processing steps, the generation of processing superstructures is explained. Next, a formulation of the optimization problem is presented to identify the best processing pathway, and the use of process simulators to specify optimization-relevant parameters. These ideas are described in detail via a WPCB to metals case study.</description>
-      <author>Samarth D. Palav, Ana I. Torres, Lorenz T. Biegler</author>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fceng.2024.1388456</guid>
-    </item>
     <item>
       <title>Erratum for &#8220;Optimal Sampling Locations to Reduce Uncertainty in Contamination Extent in Water Distribution Systems&#8221;</title>
       <link>https://doi.org/10.1061/jitse4.iseng-2481</link>

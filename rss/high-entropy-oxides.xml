@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/high-entropy-oxides.xml</link>
     <description>high entropy oxides in catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 May 2024 01:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 01:07:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Upgraded and Light-Up Biosensing Platform: Entropy-Driven Catalysis Circuit Manipulates the Configuration Transformation of Novel DNA Silver Nanoclusters on the Graphene Oxide Surface</title>
-      <link>https://doi.org/10.1021/acs.analchem.4c01338</link>
-      <description>Jing Li, Minhui Chen, Qinglin Jiang, Wei Zhang, Yu-Pin Lan, Maruf Ahmed, Cuiping Ma, Jin Huang, Qing Xu, Analytical chemistry. None(None)] 2024. https://openalex.org/W4398179731
-
-                To tackle the predicament of the traditional turn-off mechanism, exploring an activated turn-on system remains an intriguing and crucial objective in biosensing fields. Herein, a dark DNA Ag nanocluster (NC) with hairpin-structured DNA containing a six-base cytosine loop (6C loop) as a template is atypically synthesized. Intriguingly, the dark DNA Ag NCs can be lit to display strong red-emission nanoclusters. Building upon these exciting findings, an unprecedented and upgraded turn-on biosensing system [entropy-driven catalysis circuit (EDCC)-Ag NCs/graphene oxide (GO)] has been created, which employs an EDCC to precisely manipulate the conformational transition of DNA Ag NCs on the GO surface from adsorption to desorption. Benefiting from the effective quenching of GO and signal amplification capability of the EDCC, the newly developed EDCC-Ag NCs/GO biosensing system displays a high signal-to-background (S/B) ratio (26-fold) and sensitivity (limit of detection as low as 0.4 pM). Meanwhile, it has good specificity, excellent stability, and reliability in both buffer and biological samples. To the best of our knowledge, it is the first example that adopts an EDCC to precisely modulate the configuration transformation of DNA Ag NCs on the GO surface to obtain a biosensor with low background, strong fluorescence, high contrast, and sensitivity. This exciting finding may provide a new route to fabricate a novel turn-on biosensor based on hairpin-templated DNA Ag NCs in the optical imaging and bioanalytical fields.</description>
-      <author>Jing Li, Minhui Chen, Qinglin Jiang, Wei Zhang, Yu-Pin Lan, Maruf Ahmed, Cuiping Ma, Jin Huang, Qing Xu</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.analchem.4c01338</guid>
-    </item>
   </channel>
 </rss>

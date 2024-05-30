@@ -1,76 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed May 29 01:09:56 2024
+Created on Thu May 30 01:07:12 2024
 
-Found 19 results from 2024-05-22 to 2024-05-29
+Found 20 results from 2024-05-23 to 2024-05-30
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Selective Electrosynthesis of Ethanol via Asymmetric C–C Coupling in Tandem CO2 Reduction   
-
-OpenAlex: https://openalex.org/W4398159967    
-Open access: False
-    
-[Peng Luan](https://openalex.org/A5074562260), [Xue Dong](https://openalex.org/A5002524555), [Linqi Liu](https://openalex.org/A5025734756), [Jianping Xiao](https://openalex.org/A5004947752), [Pengfei Zhang](https://openalex.org/A5066863522), [Jie Zhang](https://openalex.org/A5000201876), [Haibo Chi](https://openalex.org/A5058298755), [Qingnan Wang](https://openalex.org/A5053863846), [Chunmei Ding](https://openalex.org/A5014014148), [Rengui Li](https://openalex.org/A5080416058), [Fengyuan Liu](https://openalex.org/A5085201914), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01579.
-    
-Selective electroreduction of CO2 to ethanol has economic value and environmental significance. However, the activity and selectivity of CO2 reduction toward ethanol are still low due to the sluggish kinetics of C–C coupling and the intense competition of hydrocarbon production. Herein, we report a layered tandem catalyst consisting of Cu nanosheets with a Cu(111)-oriented surface and Ag nanoparticles, which can effectively shift the selectivity from hydrocarbons to ethanol. The Faradaic efficiency of ethanol was improved from less than 30% on bare Cu(111) to 56.5 ± 2.6% on the layered Cu/Ag tandem catalysts, with a partial current density of 356.7 ± 9.5 mA cm–2. In situ Raman spectroscopy results and density functional theory calculations suggest that the high selectivity toward ethanol can be attributed to the asymmetric *CH2–CO coupling mechanism, which is facilitated by the selective generation of *CH2 species on (111)-facet-exposed Cu nanosheets and the high local CO concentration supplied by the Ag catalyst.    
-
-    
-
-## Atmosphere-Dependent Strong Metal–Support Interactions in Au/ZnO Catalysts and Their Overlayer Permeability   
-
-OpenAlex: https://openalex.org/W4398162683    
-Open access: False
-    
-[Guandong Wu](https://openalex.org/A5009089098), [Yiwei Jiang](https://openalex.org/A5077702921), [Yiming Niu](https://openalex.org/A5014923511), [Bingsen Zhang](https://openalex.org/A5088842976), [Lin Li](https://openalex.org/A5089015352), [Guoji Liu](https://openalex.org/A5077140649), [Yufei He](https://openalex.org/A5052932306), [Junhu Wang](https://openalex.org/A5055663516), [Dianqing Li](https://openalex.org/A5066904777), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02124.
-    
-The oxidative strong metal–support interaction (O-SMSI) emerges as a pioneering approach for promoting the formation of overlayers, which has garnered significant interest in the exploration of the synthesis of O-SMSI materials. However, the manipulation of the overlayer is rarely discussed and presents a challenge due to its trace presence on the nanoparticle (NP) surface, which impedes the development and utilization of the O-SMSI. In this work, we demonstrate a strong correlation between the treatment atmosphere and the state of the permeable overlayer in the Au/ZnO catalyst. The ZnO overlayer can be formed in both oxidative and inert atmospheres, but the permeability of the overlayer occurs under an oxidative atmosphere. The difference in the permeabilities of the overlayer, at similar particle sizes, leads to a reaction rate difference of approximately 1.4 times. While the permeability of the ZnO overlayer is improved by an oxidative atmosphere treatment, it is also accompanied by an increase in the geometric strain in the ZnO matrix. The permeable ZnO formation is related to the process of gold species insertion into the ZnO matrix, as indicated by density functional theory calculations. This study is the first to describe the role of O2 in manipulating the O-SMSI and suboxide overlayers, offering a potential method for surface engineering.    
-
-    
-
-## Chemosphere-Inspired Irradiation Reallocation Strategy Based on Mie Theory for Stable CO2 Photoreduction over Cu2O   
-
-OpenAlex: https://openalex.org/W4398164278    
-Open access: False
-    
-[Tongyu Wang](https://openalex.org/A5031675164), [Kuan Deng](https://openalex.org/A5089306036), [Hailing Huo](https://openalex.org/A5005264493), [Chelsea X. Huang](https://openalex.org/A5057441318), [Yiqin Du](https://openalex.org/A5091838363), [Ming-Yuan Yu](https://openalex.org/A5022631289), [Jingjing Ma](https://openalex.org/A5042228449), [Erjun Kan](https://openalex.org/A5048140096), [Ang Li](https://openalex.org/A5022512191), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05802.
-    
-No abstract    
-
-    
-
-## Mechanistic and Kinetic Insights into Intermolecular [2+2] Photocycloadditions   
-
-OpenAlex: https://openalex.org/W4398164282    
-Open access: False
-    
-[Gina Quach](https://openalex.org/A5061326292), [Hasti Iranmanesh](https://openalex.org/A5019894293), [Ena T. Luis](https://openalex.org/A5063410577), [Jason B. Harper](https://openalex.org/A5048562511), [Jonathon E. Beves](https://openalex.org/A5069934510), [Evan G. Moore](https://openalex.org/A5057877864), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01678.
-    
-No abstract    
-
-    
-
-## Enantioselective Synthesis of Cyclopropanes via CuH-Catalyzed Intramolecular Hydroalkylation   
-
-OpenAlex: https://openalex.org/W4398172089    
-Open access: False
-    
-[Giovanni Lonardi](https://openalex.org/A5014423647), [Santiago Franco](https://openalex.org/A5066181785), [Mattia Sartorello](https://openalex.org/A5098732689), [Carla De Faveri](https://openalex.org/A5035489826), [Mariano Stivanello](https://openalex.org/A5089734852), [Giulia Licini](https://openalex.org/A5069328269), [Manuel Orlandi](https://openalex.org/A5078857322), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02119.
-    
-No abstract    
-
-    
-
-## Synthesis of Chiral Polycyclic Indoles via Pd(II)-Catalyzed Sequential Cyclization and Carbonylation   
-
-OpenAlex: https://openalex.org/W4398176145    
-Open access: False
-    
-[Long Chen](https://openalex.org/A5012324763), [Hongyou Zhou](https://openalex.org/A5040332516), [Yuan Xue](https://openalex.org/A5000876494), [Lingyu Kong](https://openalex.org/A5075372754), [Yi Wang](https://openalex.org/A5029667848), [Xuyao Han](https://openalex.org/A5014475523), [Hequan Yao](https://openalex.org/A5052874928), [Aijun Lin](https://openalex.org/A5011404596), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01325.
-    
-No abstract    
-
-    
 
 ## Secondary Alcohol-Driven α-Olefination and α-Alkylation of Nitriles: Introducing a Heterogeneous Ru–Fe Bimetallic Catalyst   
 
@@ -212,5 +146,82 @@ Open access: False
 [Yuka Furutani](https://openalex.org/A5048412759), [Yoshihisa Shimizu](https://openalex.org/A5078518239), [Juri Harada](https://openalex.org/A5038048411), [Yusuke Muto](https://openalex.org/A5036690910), [Akizumi Yonezawa](https://openalex.org/A5015628080), [Shoji Iguchi](https://openalex.org/A5065749505), [Naoki Shida](https://openalex.org/A5081496201), [Mahito Atobe](https://openalex.org/A5022581631), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01097.
     
 No abstract    
+
+    
+
+## Unraveling the Oxidation Mechanism of Formic Acid on Pd(111) Electrode: Implication from pH Effect and H/D Kinetic Isotope Effect   
+
+OpenAlex: https://openalex.org/W4399076856    
+Open access: True
+    
+[Zhen Wei](https://openalex.org/A5027895884), [Mengke Zhang](https://openalex.org/A5045647029), [Yan-Hao Yu](https://openalex.org/A5003321212), [Jun Cai](https://openalex.org/A5041017754), [Yan‐Xia Chen](https://openalex.org/A5052320092), [Juan M. Feliu](https://openalex.org/A5029352707), [Enrique Herrero](https://openalex.org/A5005047028), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02040 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02040)).
+    
+No abstract    
+
+    
+
+## Surface Self-Cleaning Effect of Bifunctional Catalyst To Boost the High Yield Production of Aromatics Directly from Syngas   
+
+OpenAlex: https://openalex.org/W4399085851    
+Open access: False
+    
+[Lin Zhang](https://openalex.org/A5021541475), [Junjie Su](https://openalex.org/A5030322536), [Chang Liu](https://openalex.org/A5022256556), [Su Liu](https://openalex.org/A5036622608), [Haibo Zhou](https://openalex.org/A5076688202), [Wenqian Jiao](https://openalex.org/A5023635125), [Yongfeng Hu](https://openalex.org/A5024517164), [Xin Feng](https://openalex.org/A5060758058), [Yiqing Lu](https://openalex.org/A5032922367), [Yingchun Ye](https://openalex.org/A5090307804), [Xusheng Zheng](https://openalex.org/A5036055317), [Yida Zhang](https://openalex.org/A5024459672), [Yang-Dong Wang](https://openalex.org/A5021965317), [Heyong He](https://openalex.org/A5073668210), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01110.
+    
+No abstract    
+
+    
+
+## Selective α-Hydroxyketone Formation and Subsequent C–C Bond Cleavage by Cytochrome P450 Monooxygenase Enzymes   
+
+OpenAlex: https://openalex.org/W4399086392    
+Open access: False
+    
+[Joel H. Z. Lee](https://openalex.org/A5006039210), [Tom Coleman](https://openalex.org/A5018514154), [Mark A. McLean](https://openalex.org/A5067273795), [Matthew N. Podgorski](https://openalex.org/A5002764123), [Eva F. Hayball](https://openalex.org/A5092759749), [Isobella S. J. Stone](https://openalex.org/A5029495439), [John B. Bruning](https://openalex.org/A5063368213), [Fiona Whelan](https://openalex.org/A5049108590), [James J. De Voss](https://openalex.org/A5018549180), [Stephen G. Sligar](https://openalex.org/A5081446055), [Stephen Bell](https://openalex.org/A5027128497), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01766.
+    
+The heme enzymes of the cytochrome P450 superfamily (CYPs) catalyze oxidation reactions with a high level of selectivity. Here, the CYP199A4 enzyme from the bacterium Rhodopseudomonas palustris HaA2 is used to catalyze the hydroxylation of carbonyl-containing compounds to generate α-hydroxyketones. Both 4-propionyl- and 4-(2-oxopropyl)-benzoic acids were regioselectively hydroxylated by this enzyme to generate α-hydroxyketone metabolites, 4-(2-hydroxypropanoyl)benzoic acid and 4-(1-hydroxy-2-oxopropyl)benzoic acid, respectively, with high stereoselectivity. Co-crystallization of CYP199A4 with each substrate allowed high-resolution X-ray crystal structures of the enzyme bound with both to be determined. These provide a rationale for biochemical observations related to substrate binding and activity. As these versatile enzymes have a demonstrated ability to support carbon–carbon (C–C) bond cleavage (lyase) reactions on α-hydroxyketones, we assessed if this activity would be catalyzed by wild-type (WT) CYP199A4. Molecular dynamics (MD) simulations predicted the regioselective hydroxylation of each substrate but indicated that the WT enzyme would not be a good catalyst for lyase activity, in agreement with the experimental observations. The MD simulations also suggested the F182L mutant of CYP199A4 would permit closer approach of the substrate to the ferric-peroxo intermediate, enabling the formation of the lyase transition state. Indeed, this variant was observed to catalyze the cleavage reaction. Furthermore, the F182A variant of CYP199A4 was used to catalyze both the hydroxylation and C–C bond cleavage reactions with both 4-propionyl- and 4-(2-oxopropyl)-benzoic acids using hydrogen peroxide as the oxidant. This dual CYP activity is analogous to that supported by the mammalian CYP17A1 enzyme in steroid biosynthesis.    
+
+    
+
+## Catalytic Enantioselective (3+2) Annulations of Nucleophilic Thioacyl Rh(I)-Carbenes with Achmatowicz Rearrangement Products   
+
+OpenAlex: https://openalex.org/W4399090267    
+Open access: False
+    
+[Cunzhi Chen](https://openalex.org/A5057462470), [Kang Lv](https://openalex.org/A5068638485), [You‐Wei Chen](https://openalex.org/A5036101212), [Hongguang Du](https://openalex.org/A5053974832), [Jiaxi Xu](https://openalex.org/A5090999047), [Tao Liu](https://openalex.org/A5006729322), [Zhanhui Yang](https://openalex.org/A5042917844), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02814.
+    
+No abstract    
+
+    
+
+## Exclusively Ligand-Redox-Promoted C–H Tertiary Alkylation of Heteroarenes   
+
+OpenAlex: https://openalex.org/W4399091786    
+Open access: False
+    
+[Vikramjeet Singh](https://openalex.org/A5071302238), [Abhishek Kundu](https://openalex.org/A5086765861), [Kilian Weißer](https://openalex.org/A5080129084), [Arijit Singha Hazari](https://openalex.org/A5082807868), [Debashis Adhikari](https://openalex.org/A5081346085), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01388.
+    
+No abstract    
+
+    
+
+## Nickel(II)-Catalyzed Asymmetric Inverse-Electron-Demand Diels–Alder Reaction of 2-Pyrones with Styrenes and Indenes   
+
+OpenAlex: https://openalex.org/W4399091788    
+Open access: False
+    
+[Hong‐Jie Yu](https://openalex.org/A5013331380), [Yang-Guang Chen](https://openalex.org/A5069293461), [Tian Yin](https://openalex.org/A5009374812), [Ming‐Sheng Xie](https://openalex.org/A5081137661), [Hai‐Ming Guo](https://openalex.org/A5089663065), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02072.
+    
+No abstract    
+
+    
+
+## Chemo- and Regioselective Nickel-Catalyzed Reductive 1,4-Alkylarylation of 1,3-Enynes through an L2NiAr Intermediate   
+
+OpenAlex: https://openalex.org/W4399103846    
+Open access: False
+    
+[Ji Hwan Jeon](https://openalex.org/A5056195109), [Gun Ha Kim](https://openalex.org/A5029598165), [Ho Seung Lee](https://openalex.org/A5055741741), [Da Hye Kim](https://openalex.org/A5042090068), [Soochan Lee](https://openalex.org/A5013584794), [Wonyoung Choe](https://openalex.org/A5044210377), [Byunghyuck Jung](https://openalex.org/A5063361478), [Jan‐Uwe Rohde](https://openalex.org/A5025861594), [Sung You Hong](https://openalex.org/A5066992242), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01189.
+    
+Three-component reductive dicarbofunctionalization reactions of 1,3-enynes have been rarely reported because of the intricate control of chemo- and regioselectivity required, coupled with a limited understanding of radical and catalytic species involved. Herein, we report a nickel-catalyzed reductive 1,4-alkylarylation method for 1,3-enynes to yield tri- and tetrasubstituted allenes using readily accessible alkyl and aryl iodides, featuring a simple operational protocol and mild reaction conditions. In our mechanistic studies, the formation of a propargyl/allenyl radical was substantiated by the isolation of a propargyl dimer, the detection of the corresponding TEMPO–radical adduct, and radical probe experiments. Two reduced L2NiAr complexes, expected to act as catalytic intermediates, were generated and characterized by EPR spectroscopy as NiI complexes. The stoichiometric reaction of L2Ni(p-NCC6H4) with 1,3-enyne and alkyl iodide showed conversion into the corresponding propargyl dimer and allene, suggesting that the reaction encompasses the same key mechanistic steps as the catalytic reaction, i.e., activation of alkyl iodide, generation of a propargyl/allenyl radical, and selective coupling of this radical with the aryl component.    
 
     

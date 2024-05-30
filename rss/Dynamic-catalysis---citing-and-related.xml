@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 29 May 2024 01:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 01:07:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Cyclic Steady-State Simulation and Waveform Design for Dynamic/Programmable Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01543</link>
-      <description>Consiglia Tedesco, John R. Kitchin, Carl D. Laird, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4398161548
-
-                Dynamic catalysis is a novel and promising approach that aims to improve the catalyst performance by modulating the binding energies of adsorbates to favor different reaction steps periodically. In this work, we investigate a unimolecular dynamic catalytic system, with a focus on methods for simulating the transient behavior and identifying the optimal wave parameters for the modulations. Employing the modeling language Pyomo and the solver IPOPT, we formulate a Boundary Value Problem with limit cycle conditions to obtain results with orders-of-magnitude improvements in computational efficiency when compared to forward integration methods. Leveraging this flexible approach, mathematical optimization was applied to the parameters of piecewise and continuous forcing functions to identify the maximum time-averaged turnover frequency (avTOF). We relate the results to the Extended Sabatier Volcano graphical representation, which provides insight into the behavior and optimal parameters of the target systems. Our results further support the notion that periodic shifts in rate-controlling elementary steps lead to a rate of reaction enhancement beyond the Sabatier limit.</description>
-      <author>Consiglia Tedesco, John R. Kitchin, Carl D. Laird</author>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01543</guid>
-    </item>
     <item>
       <title>Theoretical Understanding of Dynamic Catalysis</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c02713</link>
