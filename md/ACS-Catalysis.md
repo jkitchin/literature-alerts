@@ -1,43 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Thu May 30 01:07:12 2024
+Created on Fri May 31 01:07:38 2024
 
-Found 20 results from 2024-05-23 to 2024-05-30
+Found 22 results from 2024-05-24 to 2024-05-31
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Secondary Alcohol-Driven α-Olefination and α-Alkylation of Nitriles: Introducing a Heterogeneous Ru–Fe Bimetallic Catalyst   
-
-OpenAlex: https://openalex.org/W4398210898    
-Open access: False
-    
-[Tianyu Li](https://openalex.org/A5073242162), [Yue-Yi Da](https://openalex.org/A5098756034), [Jing Chen](https://openalex.org/A5029393445), [Zongyan Ma](https://openalex.org/A5055640837), [Yu Jin](https://openalex.org/A5016514981), [Jiantai Ma](https://openalex.org/A5075279956), [Rong Li](https://openalex.org/A5059149996), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01383.
-    
-No abstract    
-
-    
-
-## Synergistic Excited State Photocatalysis: Divergent Energy Transfer vs Lewis Acid Mediated Phototransformations   
-
-OpenAlex: https://openalex.org/W4398211034    
-Open access: False
-    
-[Jayachandran Parthiban](https://openalex.org/A5018185474), [Dipti Garg](https://openalex.org/A5077614006), [Sapna Ahuja](https://openalex.org/A5030892205), [Steffen Jockusch](https://openalex.org/A5024642648), [Angel Ugrinov](https://openalex.org/A5069274449), [Jayaraman Sivaguru](https://openalex.org/A5065746943), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01185.
-    
-No abstract    
-
-    
-
-## Chemoenzymatic Sequential Catalysis with Carbonic Anhydrase for the Synthesis of Chiral Alcohols from Alkanes, Alkenes, and Alkynes   
-
-OpenAlex: https://openalex.org/W4398222184    
-Open access: False
-    
-[Zhenzhong Li](https://openalex.org/A5012982494), [Zhonghui Wan](https://openalex.org/A5047464957), [Wei Wang](https://openalex.org/A5062755510), [Lihong Chen](https://openalex.org/A5061568119), [Pengfei Ji](https://openalex.org/A5001300155), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02481.
-    
-Chiral alcohols are important intermediates for various fine chemicals and pharmaceuticals. Integrating chemical catalysis and efficient enzyme catalysis in sequential systems for the synthesis of chiral alcohols is considered an ecofriendly and promising approach. Herein, employing a highly selective carbonic anhydrase II and different chemical catalysts, we constructed three general chemoenzymatic sequential systems for chiral alcohol compound synthesis from alkanes, alkenes, and alkynes, respectively. Compared to classical approaches, the combination of chemical catalysis and promiscuous carbonic anhydrase catalysis is simple and efficient since it requires only mild reaction conditions and avoids expensive chiral ligands and cumbersome operation steps. In this integrated approach, a wide variety of readily available aryl alkanes, alkenes, and alkynes are transformed into valuable chiral alcohols with excellent enantioselectivity of up to 99% (nearly all above 90%). This unified strategy of combining enzymatic and chemical catalyses advances the general chemoenzymatic process for powerful and important chemical transformations.    
-
-    
 
 ## β-Silicon Effect Enables Metal-Free Site-Selective Intermolecular Allylic C–H Amination   
 
@@ -223,5 +190,60 @@ Open access: False
 [Ji Hwan Jeon](https://openalex.org/A5056195109), [Gun Ha Kim](https://openalex.org/A5029598165), [Ho Seung Lee](https://openalex.org/A5055741741), [Da Hye Kim](https://openalex.org/A5042090068), [Soochan Lee](https://openalex.org/A5013584794), [Wonyoung Choe](https://openalex.org/A5044210377), [Byunghyuck Jung](https://openalex.org/A5063361478), [Jan‐Uwe Rohde](https://openalex.org/A5025861594), [Sung You Hong](https://openalex.org/A5066992242), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01189.
     
 Three-component reductive dicarbofunctionalization reactions of 1,3-enynes have been rarely reported because of the intricate control of chemo- and regioselectivity required, coupled with a limited understanding of radical and catalytic species involved. Herein, we report a nickel-catalyzed reductive 1,4-alkylarylation method for 1,3-enynes to yield tri- and tetrasubstituted allenes using readily accessible alkyl and aryl iodides, featuring a simple operational protocol and mild reaction conditions. In our mechanistic studies, the formation of a propargyl/allenyl radical was substantiated by the isolation of a propargyl dimer, the detection of the corresponding TEMPO–radical adduct, and radical probe experiments. Two reduced L2NiAr complexes, expected to act as catalytic intermediates, were generated and characterized by EPR spectroscopy as NiI complexes. The stoichiometric reaction of L2Ni(p-NCC6H4) with 1,3-enyne and alkyl iodide showed conversion into the corresponding propargyl dimer and allene, suggesting that the reaction encompasses the same key mechanistic steps as the catalytic reaction, i.e., activation of alkyl iodide, generation of a propargyl/allenyl radical, and selective coupling of this radical with the aryl component.    
+
+    
+
+## Enhanced Solar-to-Hydrogen Conversion and Hydrogen Isotope Separation through Interfacial Hydrogen-Bond Engineering and Homolytic O–H Cleavage on Multianionic Sulfides in Large-Scale Floating Nanocomposites   
+
+OpenAlex: https://openalex.org/W4399117417    
+Open access: False
+    
+[Xuefan Feng](https://openalex.org/A5068878126), [Qisheng Zang](https://openalex.org/A5058781301), [Xuezhen Feng](https://openalex.org/A5049104797), [Bo Lv](https://openalex.org/A5037712945), [Hao Yu](https://openalex.org/A5021970872), [Tingting Sun](https://openalex.org/A5015632170), [Zhenyu Yuan](https://openalex.org/A5004352512), [Junliang Liu](https://openalex.org/A5003542013), [Yu Yang](https://openalex.org/A5018550805), [Fuqin Zhang](https://openalex.org/A5036765687), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00903.
+    
+Hydrogen-atom transfer (HAT) is crucial for selective photocatalytic water splitting. We report a class of metal chalcogenide catalysts (CdxZn1–xS(OH)-SH) that feature mercapto groups (acid sites) and lattice oxygens/hydroxyls (base sites) to form acid–base pairs. Based on this structural design, we demonstrate lattice oxygen/hydroxyl activation and an HAT process under light irradiation and identify a rapid hydrogen-transfer pathway governed by the Grotthuss mechanism. The photocatalyst Cd0.5Zn0.5S(OH)-SH exhibited a rate of 205.8 mmol·g–1·h–1 under full-spectrum illumination and an apparent quantum efficiency of 12.4% at 420 nm without any cocatalyst. Based on the HAT process, this novel catalyst achieves a proton–deuteron separation factor of approximately 11. The energy consumption is projected to be orders of magnitude lower than that of existing technologies. The fabricated large-scale nanocomposites of these photocatalysts are expected to enable large-scale separation of substantial volumes of diluted tritium wastewater.    
+
+    
+
+## Linking Bulk and Surface Structures in Complex Mixed Oxides   
+
+OpenAlex: https://openalex.org/W4399123593    
+Open access: True
+    
+[Liudmyla Masliuk](https://openalex.org/A5086479973), [Kye Chun Nam](https://openalex.org/A5037354117), [Maxwell W. Terban](https://openalex.org/A5079725757), [Yonghyuk Lee](https://openalex.org/A5032708417), [Pierre Kube](https://openalex.org/A5066673680), [Daniel Delgado](https://openalex.org/A5059987477), [Frank Girgsdies](https://openalex.org/A5068604731), [Karsten Reuter](https://openalex.org/A5024866637), [Robert Schlögl](https://openalex.org/A5002594652), [Annette Trunschke](https://openalex.org/A5010271376), [Christoph Scheurer](https://openalex.org/A5004695040), [Mirijam Zobel](https://openalex.org/A5079797982), [Thomas Lunkenbein](https://openalex.org/A5031421689), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.3c05230.
+    
+The interface between a solid catalyst and the reacting medium plays a crucial role in the function of the material in catalysis. In the present work, we show that the surface termination of isostructural molybdenum–vanadium oxides is strongly linked to the real structure of the bulk. This conclusion is based on comparing (scanning) transmission electron microscopy images with pair distribution function (PDF) data obtained for (Mo,V)Ox and (Mo,V,Te,Nb)Ox. Distance-dependent analyses of the PDF results demonstrate that (Mo,V,Te,Nb)Ox exhibits stronger deviations from the averaged orthorhombic crystal structure than (Mo,V)Ox in the short and intermediate regimes. These deviations are explained by higher structural diversity, which is facilitated by the increased chemical complexity of the quinary oxide and in particular by the presence of Nb. This structural diversity is seemingly important to form intrinsic bulk-like surface terminations that are highly selective in alkane oxidation. More rigid (Mo,V)Ox is characterized by defective surfaces that are more active but less selective for the same reactions. In line with machine learning interatomic potential (MLIP) calculations, we highlight that the surface termination of (Mo,V,Te,Nb)Ox is characterized by a reconfiguration of the pentagonal building blocks, causing a preferential exposure of Nb sites. The presented results foster hypotheses that chemical complexity is superior for the performance of multifunctional catalysts. The underlying principle is not the presence of multiple chemically different surface centers but instead the ability of structural diversity to optimally align and distribute the elements at the surface and, thus, to shape the structural environment around the active sites. This study experimentally evidences the origin of the structure-directing impact of the real structure of the bulk on functional interfaces and encourages the development of efficient surface engineering strategies toward improved high-performance selective oxidation catalysts.    
+
+    
+
+## Systematic Exploration of a Multi-Promoter Catalyst Composition Space with Limited Experiments: Non-Oxidative Propane Dehydrogenation to Propylene   
+
+OpenAlex: https://openalex.org/W4399126277    
+Open access: True
+    
+[Christian Künkel](https://openalex.org/A5033163474), [Frederik Rüther](https://openalex.org/A5019247103), [Frederic Felsen](https://openalex.org/A5029876781), [Charles W. P. Pare](https://openalex.org/A5093549655), [Arseniia TERZI](https://openalex.org/A5092596105), [Robert Baumgarten](https://openalex.org/A5078293191), [Esteban Gioria](https://openalex.org/A5054371064), [Raoul Naumann d’Alnoncourt](https://openalex.org/A5021426343), [Christoph Scheurer](https://openalex.org/A5004695040), [Frank Rosowski](https://openalex.org/A5061251166), [Karsten Reuter](https://openalex.org/A5024866637), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01740 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01740)).
+    
+No abstract    
+
+    
+
+## Revealing the Reaction Network for Dimethyl Maleate Hydrogenation on the Active Sites of Cu/ZnO Catalysts Combining DFT with kMC Analysis   
+
+OpenAlex: https://openalex.org/W4399140883    
+Open access: False
+    
+[Changdong Li](https://openalex.org/A5061405945), [Weiwei Zhang](https://openalex.org/A5080308075), [Haipeng Yu](https://openalex.org/A5070002871), [Yingzhe Yu](https://openalex.org/A5035684276), [Minhua Zhang](https://openalex.org/A5045872393), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01057.
+    
+The Cu/zinc oxide (ZnO)/Al2O3 catalyst is highly favored in the hydrogenation of dimethyl maleate (HDMM) to coproduction of 1,4-butanediol (BDO), γ-butyrolactone (GBL), and tetrahydrofuran, and an in-depth study on its catalytic principle has a long-standing interest in the current study. Herein, by combining density functional theory and kinetic Monte Carlo simulations, we revealed the dominant pathways and reaction network of the HDMM process on the ZnO/Cu(111) surface. The effect of Cu–ZnO synergy is reflected in promoting the anchoring of ester carbonyls and decreasing the difficulty of hydroxyl group formation, which was clarified by mechanisms, density of states, and Bader charge analyses. From the perspective of constructive modification of active sites, a strategy was proposed to improve the GBL formation rate by decreasing the barrier of methanol removal based on the concepts of degree of rate control, and the BDO selectivity could be improved by increasing the barrier of the out-of-ring C–O bond cleavage in GBL hydrogenation. From the perspective of the external environment, the optimal reaction conditions of different target products were determined by manipulating the temperature and pressure. This study provides a guide for modifying active sites in Cu/ZnO/Al2O3 catalysts and potential possibilities for studying the complex reaction systems involving C4+ substances by multiscale simulation.    
+
+    
+
+## Mechanisms of Photoredox Catalysis Featuring Nickel–Bipyridine Complexes   
+
+OpenAlex: https://openalex.org/W4399141343    
+Open access: True
+    
+[David A. Cagan](https://openalex.org/A5076892358), [Daniel Bím](https://openalex.org/A5020419269), [Nathanael P. Kazmierczak](https://openalex.org/A5052506324), [Ryan G. Hadt](https://openalex.org/A5071708486), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02036 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02036)).
+    
+Metallaphotoredox catalysis can unlock useful pathways for transforming organic reactants into desirable products, largely due to the conversion of photon energy into chemical potential to drive redox and bond transformation processes. Despite the importance of these processes for cross-coupling reactions and other transformations, their mechanistic details are only superficially understood. In this review, we have provided a detailed summary of various photoredox mechanisms that have been proposed to date for Ni–bipyridine (bpy) complexes, focusing separately on photosensitized and direct excitation reaction processes. By highlighting multiple bond transformation pathways and key findings, we depict how photoredox reaction mechanisms, which ultimately define substrate scope, are themselves defined by the ground- and excited-state geometric and electronic structures of key Ni-based intermediates. We further identify knowledge gaps to motivate future mechanistic studies and the development of synergistic research approaches spanning the physical, organic, and inorganic chemistry communities.    
 
     

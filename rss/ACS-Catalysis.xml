@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 30 May 2024 01:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 01:07:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Secondary Alcohol-Driven &#945;-Olefination and &#945;-Alkylation of Nitriles: Introducing a Heterogeneous Ru&#8211;Fe Bimetallic Catalyst</title>
-      <link>https://doi.org/10.1021/acscatal.4c01383</link>
-      <description>Tianyu Li, Yue-Yi Da, Jing Chen, Zongyan Ma, Yu Jin, Jiantai Ma, Rong Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4398210898
-
-                No abstract</description>
-      <author>Tianyu Li, Yue-Yi Da, Jing Chen, Zongyan Ma, Yu Jin, Jiantai Ma, Rong Li</author>
-      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01383</guid>
-    </item>
-    <item>
-      <title>Synergistic Excited State Photocatalysis: Divergent Energy Transfer vs Lewis Acid Mediated Phototransformations</title>
-      <link>https://doi.org/10.1021/acscatal.4c01185</link>
-      <description>Jayachandran Parthiban, Dipti Garg, Sapna Ahuja, Steffen Jockusch, Angel Ugrinov, Jayaraman Sivaguru, ACS catalysis. None(None)] 2024. https://openalex.org/W4398211034
-
-                No abstract</description>
-      <author>Jayachandran Parthiban, Dipti Garg, Sapna Ahuja, Steffen Jockusch, Angel Ugrinov, Jayaraman Sivaguru</author>
-      <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01185</guid>
-    </item>
-    <item>
-      <title>Chemoenzymatic Sequential Catalysis with Carbonic Anhydrase for the Synthesis of Chiral Alcohols from Alkanes, Alkenes, and Alkynes</title>
-      <link>https://doi.org/10.1021/acscatal.4c02481</link>
-      <description>Zhenzhong Li, Zhonghui Wan, Wei Wang, Lihong Chen, Pengfei Ji, ACS catalysis. None(None)] 2024. https://openalex.org/W4398222184
-
-                Chiral alcohols are important intermediates for various fine chemicals and pharmaceuticals. Integrating chemical catalysis and efficient enzyme catalysis in sequential systems for the synthesis of chiral alcohols is considered an ecofriendly and promising approach. Herein, employing a highly selective carbonic anhydrase II and different chemical catalysts, we constructed three general chemoenzymatic sequential systems for chiral alcohol compound synthesis from alkanes, alkenes, and alkynes, respectively. Compared to classical approaches, the combination of chemical catalysis and promiscuous carbonic anhydrase catalysis is simple and efficient since it requires only mild reaction conditions and avoids expensive chiral ligands and cumbersome operation steps. In this integrated approach, a wide variety of readily available aryl alkanes, alkenes, and alkynes are transformed into valuable chiral alcohols with excellent enantioselectivity of up to 99% (nearly all above 90%). This unified strategy of combining enzymatic and chemical catalyses advances the general chemoenzymatic process for powerful and important chemical transformations.</description>
-      <author>Zhenzhong Li, Zhonghui Wan, Wei Wang, Lihong Chen, Pengfei Ji</author>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02481</guid>
-    </item>
     <item>
       <title>&#946;-Silicon Effect Enables Metal-Free Site-Selective Intermolecular Allylic C&#8211;H Amination</title>
       <link>https://doi.org/10.1021/acscatal.4c02393</link>
@@ -206,6 +176,56 @@
       <author>Ji Hwan Jeon, Gun Ha Kim, Ho Seung Lee, Da Hye Kim, Soochan Lee, Wonyoung Choe, Byunghyuck Jung, Jan&#8208;Uwe Rohde, Sung You Hong</author>
       <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01189</guid>
+    </item>
+    <item>
+      <title>Enhanced Solar-to-Hydrogen Conversion and Hydrogen Isotope Separation through Interfacial Hydrogen-Bond Engineering and Homolytic O&#8211;H Cleavage on Multianionic Sulfides in Large-Scale Floating Nanocomposites</title>
+      <link>https://doi.org/10.1021/acscatal.4c00903</link>
+      <description>Xuefan Feng, Qisheng Zang, Xuezhen Feng, Bo Lv, Hao Yu, Tingting Sun, Zhenyu Yuan, Junliang Liu, Yu Yang, Fuqin Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399117417
+
+                Hydrogen-atom transfer (HAT) is crucial for selective photocatalytic water splitting. We report a class of metal chalcogenide catalysts (CdxZn1&#8211;xS(OH)-SH) that feature mercapto groups (acid sites) and lattice oxygens/hydroxyls (base sites) to form acid&#8211;base pairs. Based on this structural design, we demonstrate lattice oxygen/hydroxyl activation and an HAT process under light irradiation and identify a rapid hydrogen-transfer pathway governed by the Grotthuss mechanism. The photocatalyst Cd0.5Zn0.5S(OH)-SH exhibited a rate of 205.8 mmol&#183;g&#8211;1&#183;h&#8211;1 under full-spectrum illumination and an apparent quantum efficiency of 12.4% at 420 nm without any cocatalyst. Based on the HAT process, this novel catalyst achieves a proton&#8211;deuteron separation factor of approximately 11. The energy consumption is projected to be orders of magnitude lower than that of existing technologies. The fabricated large-scale nanocomposites of these photocatalysts are expected to enable large-scale separation of substantial volumes of diluted tritium wastewater.</description>
+      <author>Xuefan Feng, Qisheng Zang, Xuezhen Feng, Bo Lv, Hao Yu, Tingting Sun, Zhenyu Yuan, Junliang Liu, Yu Yang, Fuqin Zhang</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00903</guid>
+    </item>
+    <item>
+      <title>Linking Bulk and Surface Structures in Complex Mixed Oxides</title>
+      <link>https://doi.org/10.1021/acscatal.3c05230</link>
+      <description>Liudmyla Masliuk, Kye Chun Nam, Maxwell W. Terban, Yonghyuk Lee, Pierre Kube, Daniel Delgado, Frank Girgsdies, Karsten Reuter, Robert Schl&#246;gl, Annette Trunschke, Christoph Scheurer, Mirijam Zobel, Thomas Lunkenbein, ACS catalysis. None(None)] 2024. https://openalex.org/W4399123593
+
+                The interface between a solid catalyst and the reacting medium plays a crucial role in the function of the material in catalysis. In the present work, we show that the surface termination of isostructural molybdenum&#8211;vanadium oxides is strongly linked to the real structure of the bulk. This conclusion is based on comparing (scanning) transmission electron microscopy images with pair distribution function (PDF) data obtained for (Mo,V)Ox and (Mo,V,Te,Nb)Ox. Distance-dependent analyses of the PDF results demonstrate that (Mo,V,Te,Nb)Ox exhibits stronger deviations from the averaged orthorhombic crystal structure than (Mo,V)Ox in the short and intermediate regimes. These deviations are explained by higher structural diversity, which is facilitated by the increased chemical complexity of the quinary oxide and in particular by the presence of Nb. This structural diversity is seemingly important to form intrinsic bulk-like surface terminations that are highly selective in alkane oxidation. More rigid (Mo,V)Ox is characterized by defective surfaces that are more active but less selective for the same reactions. In line with machine learning interatomic potential (MLIP) calculations, we highlight that the surface termination of (Mo,V,Te,Nb)Ox is characterized by a reconfiguration of the pentagonal building blocks, causing a preferential exposure of Nb sites. The presented results foster hypotheses that chemical complexity is superior for the performance of multifunctional catalysts. The underlying principle is not the presence of multiple chemically different surface centers but instead the ability of structural diversity to optimally align and distribute the elements at the surface and, thus, to shape the structural environment around the active sites. This study experimentally evidences the origin of the structure-directing impact of the real structure of the bulk on functional interfaces and encourages the development of efficient surface engineering strategies toward improved high-performance selective oxidation catalysts.</description>
+      <author>Liudmyla Masliuk, Kye Chun Nam, Maxwell W. Terban, Yonghyuk Lee, Pierre Kube, Daniel Delgado, Frank Girgsdies, Karsten Reuter, Robert Schl&#246;gl, Annette Trunschke, Christoph Scheurer, Mirijam Zobel, Thomas Lunkenbein</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05230</guid>
+    </item>
+    <item>
+      <title>Systematic Exploration of a Multi-Promoter Catalyst Composition Space with Limited Experiments: Non-Oxidative Propane Dehydrogenation to Propylene</title>
+      <link>https://doi.org/10.1021/acscatal.4c01740</link>
+      <description>Christian K&#252;nkel, Frederik R&#252;ther, Frederic Felsen, Charles W. P. Pare, Arseniia TERZI, Robert Baumgarten, Esteban Gioria, Raoul Naumann d&#8217;Alnoncourt, Christoph Scheurer, Frank Rosowski, Karsten Reuter, ACS catalysis. None(None)] 2024. https://openalex.org/W4399126277
+
+                No abstract</description>
+      <author>Christian K&#252;nkel, Frederik R&#252;ther, Frederic Felsen, Charles W. P. Pare, Arseniia TERZI, Robert Baumgarten, Esteban Gioria, Raoul Naumann d&#8217;Alnoncourt, Christoph Scheurer, Frank Rosowski, Karsten Reuter</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01740</guid>
+    </item>
+    <item>
+      <title>Revealing the Reaction Network for Dimethyl Maleate Hydrogenation on the Active Sites of Cu/ZnO Catalysts Combining DFT with kMC Analysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01057</link>
+      <description>Changdong Li, Weiwei Zhang, Haipeng Yu, Yingzhe Yu, Minhua Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399140883
+
+                The Cu/zinc oxide (ZnO)/Al2O3 catalyst is highly favored in the hydrogenation of dimethyl maleate (HDMM) to coproduction of 1,4-butanediol (BDO), &#947;-butyrolactone (GBL), and tetrahydrofuran, and an in-depth study on its catalytic principle has a long-standing interest in the current study. Herein, by combining density functional theory and kinetic Monte Carlo simulations, we revealed the dominant pathways and reaction network of the HDMM process on the ZnO/Cu(111) surface. The effect of Cu&#8211;ZnO synergy is reflected in promoting the anchoring of ester carbonyls and decreasing the difficulty of hydroxyl group formation, which was clarified by mechanisms, density of states, and Bader charge analyses. From the perspective of constructive modification of active sites, a strategy was proposed to improve the GBL formation rate by decreasing the barrier of methanol removal based on the concepts of degree of rate control, and the BDO selectivity could be improved by increasing the barrier of the out-of-ring C&#8211;O bond cleavage in GBL hydrogenation. From the perspective of the external environment, the optimal reaction conditions of different target products were determined by manipulating the temperature and pressure. This study provides a guide for modifying active sites in Cu/ZnO/Al2O3 catalysts and potential possibilities for studying the complex reaction systems involving C4+ substances by multiscale simulation.</description>
+      <author>Changdong Li, Weiwei Zhang, Haipeng Yu, Yingzhe Yu, Minhua Zhang</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01057</guid>
+    </item>
+    <item>
+      <title>Mechanisms of Photoredox Catalysis Featuring Nickel&#8211;Bipyridine Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c02036</link>
+      <description>David A. Cagan, Daniel B&#237;m, Nathanael P. Kazmierczak, Ryan G. Hadt, ACS catalysis. None(None)] 2024. https://openalex.org/W4399141343
+
+                Metallaphotoredox catalysis can unlock useful pathways for transforming organic reactants into desirable products, largely due to the conversion of photon energy into chemical potential to drive redox and bond transformation processes. Despite the importance of these processes for cross-coupling reactions and other transformations, their mechanistic details are only superficially understood. In this review, we have provided a detailed summary of various photoredox mechanisms that have been proposed to date for Ni&#8211;bipyridine (bpy) complexes, focusing separately on photosensitized and direct excitation reaction processes. By highlighting multiple bond transformation pathways and key findings, we depict how photoredox reaction mechanisms, which ultimately define substrate scope, are themselves defined by the ground- and excited-state geometric and electronic structures of key Ni-based intermediates. We further identify knowledge gaps to motivate future mechanistic studies and the development of synergistic research approaches spanning the physical, organic, and inorganic chemistry communities.</description>
+      <author>David A. Cagan, Daniel B&#237;m, Nathanael P. Kazmierczak, Ryan G. Hadt</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02036</guid>
     </item>
   </channel>
 </rss>
