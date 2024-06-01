@@ -4,18 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Dynamic-catalysis---citing-and-related.xml</link>
     <description>papers related to dynamic catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 31 May 2024 01:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 01:11:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Theoretical Understanding of Dynamic Catalysis</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02713</link>
-      <description>Pankaj Jangid, Srabanti Chaudhury, Anatoly B. Kolomeisky, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4398238244
-
-                No abstract</description>
-      <author>Pankaj Jangid, Srabanti Chaudhury, Anatoly B. Kolomeisky</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02713</guid>
-    </item>
   </channel>
 </rss>

@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri May 31 01:07:38 2024
+Created on Sat Jun  1 01:11:01 2024
 
-Found 22 results from 2024-05-24 to 2024-05-31
+Found 23 results from 2024-05-25 to 2024-06-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## β-Silicon Effect Enables Metal-Free Site-Selective Intermolecular Allylic C–H Amination   
-
-OpenAlex: https://openalex.org/W4398248046    
-Open access: False
-    
-[Shuang Lin](https://openalex.org/A5069073778), [Yuan Liu](https://openalex.org/A5046214153), [Gao Kun-yu](https://openalex.org/A5076357697), [Zhihao Chen](https://openalex.org/A5015399496), [Jiasheng Qian](https://openalex.org/A5005256858), [Xiaobin Liu](https://openalex.org/A5081417229), [Qingjiang Li](https://openalex.org/A5003413443), [Honggen Wang](https://openalex.org/A5081906849), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02393.
-    
-No abstract    
-
-    
-
-## Atomically Precise Control of Silver Species Encaged in Zeolite Catalysts with Minimal Loading for Maximal Performance   
-
-OpenAlex: https://openalex.org/W4398249717    
-Open access: False
-    
-[Mengxi Han](https://openalex.org/A5033719592), [Yi He](https://openalex.org/A5087380102), [Tongwen Yu](https://openalex.org/A5002101897), [Pai Peng](https://openalex.org/A5024412052), [Jiangwei Shi](https://openalex.org/A5060375527), [Hongxia Liu](https://openalex.org/A5071985886), [Lei Liu](https://openalex.org/A5008050723), [Chenliang Ye](https://openalex.org/A5032351385), [Qiang Chen](https://openalex.org/A5084185268), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01972.
-    
-No abstract    
-
-    
-
-## Cation Effects on the Adsorbed Intermediates of CO2 Electroreduction Are Systematic and Predictable   
-
-OpenAlex: https://openalex.org/W4398251204    
-Open access: True
-    
-[Elizabeth Sargeant](https://openalex.org/A5049396523), [Paramaconi Rodríguez](https://openalex.org/A5033853790), [Federico Calle‐Vallejo](https://openalex.org/A5020956698), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00727 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c00727)).
-    
-No abstract    
-
-    
-
-## Mechanistic Understanding of Anthracene Hydrocracking over HY Zeolite Encapsulated Single-Atom Pt Catalysts   
-
-OpenAlex: https://openalex.org/W4398251226    
-Open access: False
-    
-[Wenru Zhao](https://openalex.org/A5014344328), [Hui Yu](https://openalex.org/A5039371818), [Shaozhong Peng](https://openalex.org/A5067039132), [Wei Liu](https://openalex.org/A5055173491), [Weiwei Zhang](https://openalex.org/A5035752959), [Donghai Mei](https://openalex.org/A5051658453), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01706.
-    
-No abstract    
-
-    
-
-## Low-Temperature Thermocatalytic Coupling of CH4 and CO2 to Ethanol over Zn–Ce/ZSM-5 by a Stepwise Technique   
-
-OpenAlex: https://openalex.org/W4398251514    
-Open access: False
-    
-[Yongjun Liu](https://openalex.org/A5011802940), [Chaoyu Zhang](https://openalex.org/A5073906099), [Ruijia Wang](https://openalex.org/A5060609860), [Yixiao Wu](https://openalex.org/A5064146459), [Xueyu Zan](https://openalex.org/A5004400094), [Tao Shen](https://openalex.org/A5009019093), [Wei Huang](https://openalex.org/A5021718138), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c00863.
-    
-No abstract    
-
-    
 
 ## Enhancement of Electrochemical Nitrogen Reduction Activity and Suppression of Hydrogen Evolution Reaction for Transition Metal Oxide Catalysts: The Role of Proton Intercalation and Heteroatom Doping   
 
@@ -245,5 +190,71 @@ Open access: True
 [David A. Cagan](https://openalex.org/A5076892358), [Daniel Bím](https://openalex.org/A5020419269), [Nathanael P. Kazmierczak](https://openalex.org/A5052506324), [Ryan G. Hadt](https://openalex.org/A5071708486), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02036 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02036)).
     
 Metallaphotoredox catalysis can unlock useful pathways for transforming organic reactants into desirable products, largely due to the conversion of photon energy into chemical potential to drive redox and bond transformation processes. Despite the importance of these processes for cross-coupling reactions and other transformations, their mechanistic details are only superficially understood. In this review, we have provided a detailed summary of various photoredox mechanisms that have been proposed to date for Ni–bipyridine (bpy) complexes, focusing separately on photosensitized and direct excitation reaction processes. By highlighting multiple bond transformation pathways and key findings, we depict how photoredox reaction mechanisms, which ultimately define substrate scope, are themselves defined by the ground- and excited-state geometric and electronic structures of key Ni-based intermediates. We further identify knowledge gaps to motivate future mechanistic studies and the development of synergistic research approaches spanning the physical, organic, and inorganic chemistry communities.    
+
+    
+
+## Unnatural Thiamine Radical Enzymes for Photobiocatalytic Asymmetric Alkylation of Benzaldehydes and α-Ketoacids   
+
+OpenAlex: https://openalex.org/W4399155612    
+Open access: False
+    
+[Xin Liu](https://openalex.org/A5009942771), [Shuai Xu](https://openalex.org/A5049173260), [Heyu Chen](https://openalex.org/A5090854989), [Yang Yang](https://openalex.org/A5052355014), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02752.
+    
+No abstract    
+
+    
+
+## Pd/Cu Cooperative Catalysis for Heteroarylation of Vinyl C–H Bond-Forming Polyaryl Ethylenes via C–O/Dual C–H Cleavage   
+
+OpenAlex: https://openalex.org/W4399167230    
+Open access: False
+    
+[Qihang Tan](https://openalex.org/A5065058251), [Chenglong Li](https://openalex.org/A5018870111), [Lei Yang](https://openalex.org/A5066173652), [Zirun Wang](https://openalex.org/A5062105833), [Yuxuan Huang](https://openalex.org/A5089296942), [C. Wang](https://openalex.org/A5019784268), [Long Liu](https://openalex.org/A5058491122), [Wenhao Chen](https://openalex.org/A5044114670), [Tieqiao Chen](https://openalex.org/A5069906798), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02195.
+    
+No abstract    
+
+    
+
+## Direct Methanol Fuel Cell with Porous Carbon-Supported PtRu Single-Atom Catalysts for Coproduction of Electricity and Value-Added Formate   
+
+OpenAlex: https://openalex.org/W4399172793    
+Open access: False
+    
+[Munir Ahmad](https://openalex.org/A5043492055), [Muhammad Bilal Hussain](https://openalex.org/A5052857412), [Jiahui Chen](https://openalex.org/A5007986894), [Yang� Yang](https://openalex.org/A5049692788), [Xuexian Wu](https://openalex.org/A5031040347), [Hao Chen](https://openalex.org/A5022499603), [Shahzad Afzal](https://openalex.org/A5076689734), [Waseem Raza](https://openalex.org/A5074068513), [Zhaowei Zeng](https://openalex.org/A5034830978), [Fei Ye](https://openalex.org/A5069911081), [Xueyang Zhao](https://openalex.org/A5050667570), [Jiujun Zhang](https://openalex.org/A5029969051), [Renfei Feng](https://openalex.org/A5046905403), [Shuhui Yu](https://openalex.org/A5083866862), [Jing‐Li Luo](https://openalex.org/A5015800353), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02016.
+    
+No abstract    
+
+    
+
+## Improved Selectivity and Stability in Methane Dry Reforming by Atomic Layer Deposition on Ni-CeO2–ZrO2/Al2O3 Catalysts   
+
+OpenAlex: https://openalex.org/W4399173289    
+Open access: True
+    
+[Jonathan Lucas](https://openalex.org/A5035713974), [N. Raghavendra Naveen](https://openalex.org/A5069803002), [Michael J. Janik](https://openalex.org/A5031735060), [Konstantinos Alexopoulos](https://openalex.org/A5054794009), [Gina Noh](https://openalex.org/A5025321095), [Divakar R. Aireddy](https://openalex.org/A5056412989), [Keqiang Ding](https://openalex.org/A5065333564), [James Dorman](https://openalex.org/A5027257623), [Kerry M. Dooley](https://openalex.org/A5059232884), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02019.
+    
+No abstract    
+
+    
+
+## Interstitial Zinc Defects Enriched ZnO Tuning O2 Adsorption and Conversion Pathway for Superior Photocatalytic CH4 Oxygenation   
+
+OpenAlex: https://openalex.org/W4399177807    
+Open access: False
+    
+[Zhen Xiao](https://openalex.org/A5017715316), [Zhongping Wan](https://openalex.org/A5013429167), [Jiangjie Zhang](https://openalex.org/A5065195802), [Jianing Jiang](https://openalex.org/A5037231935), [Dongmiao Li](https://openalex.org/A5041519507), [Jinni Shen](https://openalex.org/A5082881286), [Wenxin Dai](https://openalex.org/A5048886876), [Yi Li](https://openalex.org/A5075329954), [Xuxu Wang](https://openalex.org/A5041955281), [Zizhong Zhang](https://openalex.org/A5066639664), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01758.
+    
+No abstract    
+
+    
+
+## Ethylene Polymerization over Metal–Organic Framework-Supported Zirconocene Complexes   
+
+OpenAlex: https://openalex.org/W4399180685    
+Open access: True
+    
+[Yaqi Wu](https://openalex.org/A5063941639), [Joren M. Dorresteijn](https://openalex.org/A5019844256), [Bert M. Weckhuysen](https://openalex.org/A5053188243), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01061.
+    
+No abstract    
 
     

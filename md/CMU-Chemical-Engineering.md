@@ -1,21 +1,10 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri May 31 01:07:39 2024
+Created on Sat Jun  1 01:11:01 2024
 
-Found 9 results from 2024-05-24 to 2024-05-31
+Found 8 results from 2024-05-25 to 2024-06-01
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
-
-## Erratum for “Optimal Sampling Locations to Reduce Uncertainty in Contamination Extent in Water Distribution Systems”   
-
-OpenAlex: https://openalex.org/W4398251677    
-Open access: False
-    
-[Jose S. Rodriguez](https://openalex.org/A5083976166), [Michael Bynum](https://openalex.org/A5031357535), [Carl D. Laird](https://openalex.org/A5030631754), [Darren M. Hart](https://openalex.org/A5018784215), [Katherine A. Klise](https://openalex.org/A5010219882), [Jonathan B. Burkhardt](https://openalex.org/A5047752237), [Terranna Haxton](https://openalex.org/A5074586401), Journal of infrastructure systems. 30(3)] 2024.https://doi.org/10.1061/jitse4.iseng-2481.
-    
-No abstract    
-
-    
 
 ## A TRIVIALIDADE E O MAU USO DOS ANTIBIÓTICOS: DESENVOLVIMENTO DE SUPERBACTÉRIAS E OUTRAS REPERCUSSÕES   
 

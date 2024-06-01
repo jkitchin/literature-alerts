@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 31 May 2024 01:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 01:11:08 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>CALPHAD-based modeling of pressure-dependent Al, Cu and Li unary systems</title>
-      <link>https://doi.org/10.1016/j.calphad.2024.102692</link>
-      <description>Elizabeth Mathew, Rupesh Chafle, Benjamin Klusemann, Calphad. 85(None)] 2024. https://openalex.org/W4398231459
-
-                No abstract</description>
-      <author>Elizabeth Mathew, Rupesh Chafle, Benjamin Klusemann</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.calphad.2024.102692</guid>
-    </item>
-    <item>
-      <title>Transition metal polyoxometalates with reduced graphene oxide for high-performance air-electrode of metal-air batteries</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.05.229</link>
-      <description>Filipe M. B. Gusm&#227;o, Teodora &#272;uri&#263;, Jadranka Miliki&#263;, Kristina Radinovi&#263;, Diogo M.F. Santos, Dalibor M. Stankovi&#263;, Biljana &#352;ljuki&#263;, International journal of hydrogen energy. 71(None)] 2024. https://openalex.org/W4398231572
-
-                No abstract</description>
-      <author>Filipe M. B. Gusm&#227;o, Teodora &#272;uri&#263;, Jadranka Miliki&#263;, Kristina Radinovi&#263;, Diogo M.F. Santos, Dalibor M. Stankovi&#263;, Biljana &#352;ljuki&#263;</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.229</guid>
-    </item>
-    <item>
-      <title>New Platinum Bimetallic Surfaces, M/Pt(111) and Pt/M/Pt(111) (M = Mo, Zn, and Co), for Furfural Adsorption</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c00467</link>
-      <description>Fahime Khouini, Morteza Vahedpour, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4398234785
-
-                No abstract</description>
-      <author>Fahime Khouini, Morteza Vahedpour</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c00467</guid>
-    </item>
-    <item>
-      <title>Cation Effects on the Adsorbed Intermediates of CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction Are Systematic and Predictable</title>
-      <link>https://doi.org/10.1021/acscatal.4c00727</link>
-      <description>Elizabeth Sargeant, Paramaconi Rodr&#237;guez, Federico Calle&#8208;Vallejo, ACS catalysis. None(None)] 2024. https://openalex.org/W4398251204
-
-                No abstract</description>
-      <author>Elizabeth Sargeant, Paramaconi Rodr&#237;guez, Federico Calle&#8208;Vallejo</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00727</guid>
-    </item>
-    <item>
-      <title>Achieving Negatively Charged Pt Single Atoms on Amorphous Ni(OH)2 Nanosheets with Promoted Hydrogen Absorption in Hydrogen Evolution</title>
-      <link>https://doi.org/10.1007/s40820-024-01420-6</link>
-      <description>Y. Liu, Gui Liu, Xiangyu Chen, Cun Xue, Mingxuan Sun, Yifei Liu, Jian Kang, Xiujuan Sun, Xiaotian Wang, Nano-micro letters. 16(1)] 2024. https://openalex.org/W4398251721
-
-                Abstract Single-atom (SA) catalysts with nearly 100% atom utilization have been widely employed in electrolysis for decades, due to the outperforming catalytic activity and selectivity. However, most of the reported SA catalysts are fixed through the strong bonding between the dispersed single metallic atoms with nonmetallic atoms of the substrates, which greatly limits the controllable regulation of electrocatalytic activity of SA catalysts. In this work, Pt&#8211;Ni bonded Pt SA catalyst with adjustable electronic states was successfully constructed through a controllable electrochemical reduction on the coordination unsaturated amorphous Ni(OH) 2 nanosheet arrays. Based on the X-ray absorption fine structure analysis and first-principles calculations, Pt SA was bonded with Ni sites of amorphous Ni(OH) 2 , rather than conventional O sites, resulting in negatively charged Pt &#948; &#8722; . In situ Raman spectroscopy revealed that the changed configuration and electronic states greatly enhanced absorbability for activated hydrogen atoms, which were the essential intermediate for alkaline hydrogen evolution reaction. The hydrogen spillover process was revealed from amorphous Ni(OH) 2 that effectively cleave the H&#8211;O&#8211;H bond of H 2 O and produce H atom to the Pt SA sites, leading to a low overpotential of 48 mV in alkaline electrolyte at &#8722;1000 mA cm &#8722;2 mg &#8722;1 Pt , evidently better than commercial Pt/C catalysts. This work provided new strategy for the controllable modulation of the local structure of SA catalysts and the systematic regulation of the electronic states.</description>
-      <author>Y. Liu, Gui Liu, Xiangyu Chen, Cun Xue, Mingxuan Sun, Yifei Liu, Jian Kang, Xiujuan Sun, Xiaotian Wang</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40820-024-01420-6</guid>
-    </item>
-    <item>
-      <title>Recent progress and perspective on electrocatalysis in neutral media: Mechanisms, materials, and advanced characterizations</title>
-      <link>https://doi.org/10.1002/idm2.12172</link>
-      <description>Fu-Shun Lai, Haochuan Shang, Yuechao Jiao, Xinyi Chen, Tianran Zhang, Xiangfeng Liu, Interdisciplinary materials. None(None)] 2024. https://openalex.org/W4398252762
-
-                Abstract Electrocatalysis, which involves oxidation and reduction reactions with direct electron transfer, is essential for a variety of clean energy conversion devices. Currently, the vast majority of studies regarding electrocatalysis reactions focus on strong acidic or alkaline media because of the higher catalytic activity. Nevertheless, some inherent drawbacks, including the corrosive environment, expensive proton exchange membranes, and side effects, are still hard to break through. A sustainably promising way to overcome these shortcomings is to deploy neutral/near&#8208;neutral electrolytes for electrocatalysis reactions. Unfortunately, insufficient research in this area due to the lack of attention to related issues has slowed down the development process. In this review, we systematically review the catalytic reaction mechanisms, neutral electrolytes, electrocatalysts, and modification strategies carried out in neutral media on the three most common electrocatalytic reactions, that is, hydrogen evolution reaction, oxygen reduction reaction, and oxygen evolution reaction. Furthermore, the advanced characterization tools for guiding catalyst synthesis and mechanistic studies are also summarized. Eventually, we propose some challenges and perspectives on electrocatalysis reactions in neutral media and hope it will attract more research interest and provide guidance in neutral electrocatalysis.</description>
-      <author>Fu-Shun Lai, Haochuan Shang, Yuechao Jiao, Xinyi Chen, Tianran Zhang, Xiangfeng Liu</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/idm2.12172</guid>
-    </item>
-    <item>
-      <title>High-entropy nanostructured electrocatalysts for water and carbon dioxide electrolysis</title>
-      <link>https://doi.org/10.1007/s40843-024-2967-2</link>
-      <description>Genxiang Wang, Junxiang Chen, Zhenhai Wen, Shanpeng Li, Science China. Materials. None(None)] 2024. https://openalex.org/W4398253444
-
-                No abstract</description>
-      <author>Genxiang Wang, Junxiang Chen, Zhenhai Wen, Shanpeng Li</author>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s40843-024-2967-2</guid>
-    </item>
-    <item>
-      <title>Comparative Analysis of Chemical Descriptors by Machine Learning Reveals Atomistic Insights into Solute&#8211;Lipid Interactions</title>
-      <link>https://doi.org/10.1021/acs.molpharmaceut.4c00080</link>
-      <description>Johan F. Lange, Andrea Anelli, Jochem Alsenz, Martin Kuentz, P. J. O&#8217;Dwyer, Wiebke Saal, Nicole Wyttenbach, Brendan T. Griffin, Molecular pharmaceutics. None(None)] 2024. https://openalex.org/W4398465851
-
-                This study explores the research area of drug solubility in lipid excipients, an area persistently complex despite recent advancements in understanding and predicting solubility based on molecular structure. To this end, this research investigated novel descriptor sets, employing machine learning techniques to understand the determinants governing interactions between solutes and medium-chain triglycerides (MCTs). Quantitative structure-property relationships (QSPR) were constructed on an extended solubility data set comprising 182 experimental values of structurally diverse drug molecules, including both development and marketed drugs to extract meaningful property relationships. Four classes of molecular descriptors, ranging from traditional representations to complex geometrical descriptions, were assessed and compared in terms of their predictive accuracy and interpretability. These include two-dimensional (2D) and three-dimensional (3D) descriptors, Abraham solvation parameters, extended connectivity fingerprints (ECFPs), and the smooth overlap of atomic position (SOAP) descriptor. Through testing three distinct regularized regression algorithms alongside various preprocessing schemes, the SOAP descriptor enabled the construction of a superior performing model in terms of interpretability and accuracy. Its atom-centered characteristics allowed contributions to be estimated at the atomic level, thereby enabling the ranking of prevalent molecular motifs and their influence on drug solubility in MCTs. The performance on a separate test set demonstrated high predictive accuracy (RMSE = 0.50) for 2D and 3D, SOAP, and Abraham Solvation descriptors. The model trained on ECFP4 descriptors resulted in inferior predictive accuracy. Lastly, uncertainty estimations for each model were introduced to assess their applicability domains and provide information on where the models may extrapolate in chemical space and, thus, where more data may be necessary to refine a data-driven approach to predict solubility in MCTs. Overall, the presented approaches further enable computationally informed formulation development by introducing a novel in silico approach for rational drug development and prediction of dose loading in lipids.</description>
-      <author>Johan F. Lange, Andrea Anelli, Jochem Alsenz, Martin Kuentz, P. J. O&#8217;Dwyer, Wiebke Saal, Nicole Wyttenbach, Brendan T. Griffin</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.molpharmaceut.4c00080</guid>
-    </item>
     <item>
       <title>Monolayer Ta2Se: A low-cost catalyst with enhanced stability and high basal plane activity for oxygen reduction reaction</title>
       <link>https://doi.org/10.1016/j.mtsust.2024.100851</link>
@@ -200,11 +120,11 @@
     <item>
       <title>Ce-doped copper oxide and copper vanadate Cu3VO4 hybrid for boosting nitrate electroreduction to ammonia</title>
       <link>https://doi.org/10.1016/j.jcis.2024.05.189</link>
-      <description>Meng Zhang, Yang Liu, Ying Duan, Xu Liu, Yanqin Wang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4398794763
+      <description>Meng Zhang, Yang Liu, Ying Duan, Xu Liu, Yanqin Wang, Journal of colloid and interface science. 671(None)] 2024. https://openalex.org/W4398794763
 
                 The electrocatalytic nitrate reduction to ammonia reaction (ENO3RR) holds great potential as a cost-effective method for synthesizing ammonia. This work designed a cerium (Ce) doped Cu2+1O/Cu3VO4 catalyst. The coupling of vanadium-based oxides with Cu2+1O effectively adjusts the catalyst's electronic structure, addressing the inherent issues of limited activity and low conductivity in typical copper-based oxides; moreover, Ce doping generates oxygen vacancies (Ov), providing more active sites and thereby enhancing the ENO3RR performance. The catalyst exhibits superior NH3 Faradaic efficiency (93.7 %) with a NH3 yield of 18.905 mg h&#8722;1 cm&#8722;2 at &#8722;0.5 V vs. RHE under alkaline conditions. This study provides guidance for the design of highly efficient catalysts for ENO3RR.</description>
       <author>Meng Zhang, Yang Liu, Ying Duan, Xu Liu, Yanqin Wang</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.05.189</guid>
     </item>
     <item>
@@ -370,10 +290,10 @@
     <item>
       <title>Influence of the Atomic Local Environment on the ORR Activity of Single-Atom Catalysts in N-Doped Graphene</title>
       <link>https://doi.org/10.1021/acsaem.4c00518</link>
-      <description>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. Per&#233;z&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi, ACS applied energy materials. None(None)] 2024. https://openalex.org/W4399085331
+      <description>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. P&#233;rez&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi, ACS applied energy materials. None(None)] 2024. https://openalex.org/W4399085331
 
                 No abstract</description>
-      <author>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. Per&#233;z&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi</author>
+      <author>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. P&#233;rez&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi</author>
       <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00518</guid>
     </item>
@@ -478,24 +398,184 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.215961</guid>
     </item>
     <item>
-      <title>Unraveling the Correlation between the Interface Structures and Tunable Magnetic Properties of La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;CoO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt;/La&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Sr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;MnO&lt;sub&gt;3&#8722;&#948;&lt;/sub&gt; Bilayers Using Deep Learning Models</title>
-      <link>https://doi.org/10.1021/acsami.3c18773</link>
-      <description>Hong Sun, Vincenzo Lordi, Yayoi Takamura, Amit Samanta, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4398395216
+      <title>Computational Exploration of Subnano Zn and Cu Species on Cu/ZrO&lt;sub&gt;2&lt;/sub&gt;: Implications for Methanol Synthesis</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01300</link>
+      <description>Aku Lempelto, Minttu M. Kauppinen, Karoliina Honkala, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399155399
 
-                Perovskite oxides are gaining significant attention for use in next-generation magnetic and ferroelectric devices due to their exceptional charge transport properties and the opportunity to tune the charge, spin, lattice, and orbital degrees of freedom. Interfaces between perovskite oxides, exemplified by La1&#8211;xSrxCoO3&#8722;&#948;/La1&#8211;xSrxMnO3&#8722;&#948; (LSCO/LSMO) bilayers, exhibit unconventional magnetic exchange switching behavior, offering a pathway for innovative designs in perovskite oxide-based devices. However, the precise atomic-level stoichiometric compositions and chemophysical properties of these interfaces remain elusive, hindering the establishment of surrogate design principles. We leverage first-principles simulations, evolutionary algorithms, and neural network searches with on-the-fly uncertainty quantification to design deep learning model ensembles to investigate over 50,000 LSCO/LSMO bilayer structures as a function of oxygen deficiency (&#948;) and strontium concentration (x). Structural analysis of the low-energy interface structures reveals that preferential segregation of oxygen vacancies toward the interfacial La0.7Sr0.3CoO3&#8722;&#948; layers causes distortion of the CoOx polyhedra and the emergence of magnetically active Co2+ ions. At the same time, an increase in the Sr concentration and a decrease in oxygen vacancies in the La0.7Sr0.3MnO3&#8722;&#948; layers tend to retain MnO6 octahedra and promote the formation of Mn4+ ions. Electronic structure analysis reveals that the nonuniform distributions of Sr ions and oxygen vacancies on both sides of the interface can alter the local magnetization at the interface, showing a transition from ferromagnetic (FM) to local antiferromagnetic (AFM) or ferrimagnetic regions. Therefore, the exotic properties of La1&#8211;xSrxCoO3&#8722;&#948;/La1&#8211;xSrxMnO3&#8722;&#948; are strongly coupled to the presence of hard/soft magnetic layers, as well as the FM to AFM transition at the interface, and can be tuned by changing the Sr concentration and oxygen partial pressure during growth. These insights provide valuable guidance for the precise design of perovskite oxide multilayers, enabling tailoring of their functional properties to meet specific requirements for various device applications.</description>
-      <author>Hong Sun, Vincenzo Lordi, Yayoi Takamura, Amit Samanta</author>
-      <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsami.3c18773</guid>
+                No abstract</description>
+      <author>Aku Lempelto, Minttu M. Kauppinen, Karoliina Honkala</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01300</guid>
     </item>
     <item>
-      <title>A systematic &lt;scp&gt;DFT&lt;/scp&gt; study of structure and electronic properties of titanium dioxide</title>
-      <link>https://doi.org/10.1002/jcc.27376</link>
-      <description>Asma Marzouk, Konstantinos D. Papavasileiou, Loukas D. Peristeras, G. Leendert Bezemer, Alexander P. van Bavel, Prathamesh M. Shenai, Ioannis G. Economou, Journal of computational chemistry. None(None)] 2024. https://openalex.org/W4398768314
+      <title>Sub-volt conversion of activated biochar and water for H2 production near equilibrium via biochar-assisted water electrolysis</title>
+      <link>https://doi.org/10.1016/j.xcrp.2024.102013</link>
+      <description>Nishithan C. Kani, Rohit Chauhan, Samuel Olusegun, Ishwar Sharan, Amit Katiyar, David House, Sang-Won Lee, Alena Jairamsingh, Rajan Bhawnani, Dongjin Choi, Adam C. Nielander, Thomas F. Jaramillo, Hae&#8208;Seok Lee, Anil R. Oroskar, Vimal Chandra Srivastava, Shishir Sinha, Joseph A. Gauthier, Meenesh R. Singh, Cell reports physical science. None(None)] 2024. https://openalex.org/W4399155404
 
-                Abstract DFT functionals are of paramount importance for an accurate electronic and structural description of transition metal systems. In this work, a systematic analysis using some well&#8208;known and commonly used DFT functionals is performed. A comparison of the structural and energetic parameters calculated with the available experimental data is made in order to find the adequate functional for an accurate description of the TiO 2 bulk and surface of both anatase and rutile structures. In the absence of experimental data on the surface energy, the theoretical predictions obtained using the high&#8208;accuracy HSE06 functional were used as a reference to compare against the surface energy values calculated with the other DFT functionals. A clear improvement in the electronic description of both anatase and rutile was observed by introducing the Hubbard U correction term to PBE, PW91, and OptPBE functionals. The OptPBE&#8208; U 4 functional was found to offer a good compromise between accurately describing the structural and electronic properties of titania.</description>
-      <author>Asma Marzouk, Konstantinos D. Papavasileiou, Loukas D. Peristeras, G. Leendert Bezemer, Alexander P. van Bavel, Prathamesh M. Shenai, Ioannis G. Economou</author>
-      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27376</guid>
+                No abstract</description>
+      <author>Nishithan C. Kani, Rohit Chauhan, Samuel Olusegun, Ishwar Sharan, Amit Katiyar, David House, Sang-Won Lee, Alena Jairamsingh, Rajan Bhawnani, Dongjin Choi, Adam C. Nielander, Thomas F. Jaramillo, Hae&#8208;Seok Lee, Anil R. Oroskar, Vimal Chandra Srivastava, Shishir Sinha, Joseph A. Gauthier, Meenesh R. Singh</author>
+      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.102013</guid>
+    </item>
+    <item>
+      <title>Ultrathin Porous Pd Metallene with Amorphous/Crystalline Phase Coexitence as Electrocatalysts for the Oxygen Reduction Reaction</title>
+      <link>https://doi.org/10.1021/acsanm.4c01808</link>
+      <description>Hua Cui, Hongpeng Chen, Xixi Wang, Yiquan Jiang, Yimin Zhang, Danfeng Sun, Zanyu Chen, Ying Li, Junwei Sha, Biao Chen, Chunsheng Shi, Jin&#8208;Kyu Kang, Enzuo Liu, Liying Ma, ACS applied nano materials. None(None)] 2024. https://openalex.org/W4399155700
+
+                No abstract</description>
+      <author>Hua Cui, Hongpeng Chen, Xixi Wang, Yiquan Jiang, Yimin Zhang, Danfeng Sun, Zanyu Chen, Ying Li, Junwei Sha, Biao Chen, Chunsheng Shi, Jin&#8208;Kyu Kang, Enzuo Liu, Liying Ma</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsanm.4c01808</guid>
+    </item>
+    <item>
+      <title>Nitrogen reduction reaction enhanced by single-atom transition metal catalysts on functionalized graphene: A first-principles study</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.05.408</link>
+      <description>Thillai Govindaraja Senthamaraikannan, Dong&#8208;Hee Lim, International journal of hydrogen energy. 72(None)] 2024. https://openalex.org/W4399158115
+
+                No abstract</description>
+      <author>Thillai Govindaraja Senthamaraikannan, Dong&#8208;Hee Lim</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.408</guid>
+    </item>
+    <item>
+      <title>Exploring the mathematic equations behind the materials science data using interpretable symbolic regression</title>
+      <link>https://doi.org/10.1002/idm2.12180</link>
+      <description>Guanjie Wang, Erpeng Wang, Zefeng Li, Jian Zhou, Zhimei Sun, Interdisciplinary materials. None(None)] 2024. https://openalex.org/W4399161945
+
+                Abstract Symbolic regression (SR), exploring mathematical expressions from a given data set to construct an interpretable model, emerges as a powerful computational technique with the potential to transform the &#8220;black box&#8221; machining learning methods into physical and chemistry interpretable expressions in material science research. In this review, the current advancements in SR are investigated, focusing on the underlying theories, fundamental flowcharts, various techniques, implemented codes, and application fields. More predominantly, the challenging issues and future opportunities in SR that should be overcome to unlock the full potential of SR in material design and research, including graphics processing unit acceleration and transfer learning algorithms, the trade&#8208;off between expression accuracy and complexity, physical or chemistry interpretable SR with generative large language models, and multimodal SR methods, are discussed.</description>
+      <author>Guanjie Wang, Erpeng Wang, Zefeng Li, Jian Zhou, Zhimei Sun</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/idm2.12180</guid>
+    </item>
+    <item>
+      <title>Implementation of machine learning techniques for the analysis of wave energy conversion systems: a comprehensive review</title>
+      <link>https://doi.org/10.1007/s40722-024-00330-4</link>
+      <description>Masoud Masoumi, Bahareh Estejab, Florence Henry, Journal of ocean engineering and marine energy. None(None)] 2024. https://openalex.org/W4399165142
+
+                No abstract</description>
+      <author>Masoud Masoumi, Bahareh Estejab, Florence Henry</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40722-024-00330-4</guid>
+    </item>
+    <item>
+      <title>High-Performance Pd&lt;sub&gt;2&lt;/sub&gt;Cu&lt;sub&gt;2&lt;/sub&gt; Cluster Supported on CeO&lt;sub&gt;2&lt;/sub&gt;(110) for the Electroreduction of CO&lt;sub&gt;2&lt;/sub&gt;</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01686</link>
+      <description>Ping Liu, Haoguo Zhu, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399167912
+
+                No abstract</description>
+      <author>Ping Liu, Haoguo Zhu, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01686</guid>
+    </item>
+    <item>
+      <title>Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation</title>
+      <link>https://doi.org/10.2196/52655</link>
+      <description>Francesco Invernici, Francesco Invernici, Francesco Invernici, JMIR. Journal of medical internet research/Journal of medical internet research. 26(None)] 2024. https://openalex.org/W4399173448
+
+                Since the beginning of the COVID-19 pandemic, &gt;1 million studies have been collected within the COVID-19 Open Research Dataset, a corpus of manuscripts created to accelerate research against the disease. Their related abstracts hold a wealth of information that remains largely unexplored and difficult to search due to its unstructured nature. Keyword-based search is the standard approach, which allows users to retrieve the documents of a corpus that contain (all or some of) the words in a target list. This type of search, however, does not provide visual support to the task and is not suited to expressing complex queries or compensating for missing specifications.</description>
+      <author>Francesco Invernici, Francesco Invernici, Francesco Invernici</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2196/52655</guid>
+    </item>
+    <item>
+      <title>Sulfur Recovery Assisted Electrochemical Water Splitting for H&lt;sub&gt;2&lt;/sub&gt; Production Using CoMo-Based Nanorod Arrays Catalysts</title>
+      <link>https://doi.org/10.1021/acsmaterialslett.4c00695</link>
+      <description>Jichuan Huo, Qing Liu, Xiaofang Liu, Xue&#8208;Feng Cheng, Dongyun Chen, Najun Li, Kin Liao, Qingfeng Xu, Jianmei Lu, ACS materials letters. None(None)] 2024. https://openalex.org/W4399175366
+
+                No abstract</description>
+      <author>Jichuan Huo, Qing Liu, Xiaofang Liu, Xue&#8208;Feng Cheng, Dongyun Chen, Najun Li, Kin Liao, Qingfeng Xu, Jianmei Lu</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00695</guid>
+    </item>
+    <item>
+      <title>Active learning of ternary alloy structures and energies</title>
+      <link>https://doi.org/10.1038/s41524-024-01256-z</link>
+      <description>Gaurav Deshmukh, Noah J. Wichrowski, Nikolaos Evangelou, Pushkar Ghanekar, Siddharth Deshpande, Ioannis G. Kevrekidis, Jeffrey Greeley, npj computational materials. 10(1)] 2024. https://openalex.org/W4399176479
+
+                Abstract Machine learning models with uncertainty quantification have recently emerged as attractive tools to accelerate the navigation of catalyst design spaces in a data-efficient manner. Here, we combine active learning with a dropout graph convolutional network (dGCN) as a surrogate model to explore the complex materials space of high-entropy alloys (HEAs). We train the dGCN on the formation energies of disordered binary alloy structures in the Pd-Pt-Sn ternary alloy system and improve predictions on ternary structures by performing reduced optimization of the formation free energy, the target property that determines HEA stability, over ensembles of ternary structures constructed based on two coordinate systems: (a) a physics-informed ternary composition space, and (b) data-driven coordinates discovered by the Diffusion Maps manifold learning scheme. Both reduced optimization techniques improve predictions of the formation free energy in the ternary alloy space with a significantly reduced number of DFT calculations compared to a high-fidelity model. The physics-based scheme converges to the target property in a manner akin to a depth-first strategy, whereas the data-driven scheme appears more akin to a breadth-first approach. Both sampling schemes, coupled with our acquisition function, successfully exploit a database of DFT-calculated binary alloy structures and energies, augmented with a relatively small number of ternary alloy calculations, to identify stable ternary HEA compositions and structures. This generalized framework can be extended to incorporate more complex bulk and surface structural motifs, and the results demonstrate that significant dimensionality reduction is possible in thermodynamic sampling problems when suitable active learning schemes are employed.</description>
+      <author>Gaurav Deshmukh, Noah J. Wichrowski, Nikolaos Evangelou, Pushkar Ghanekar, Siddharth Deshpande, Ioannis G. Kevrekidis, Jeffrey Greeley</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01256-z</guid>
+    </item>
+    <item>
+      <title>Distribution Tendencies of Noble Metals on Fe(100) Using Lattice Gas Cluster Expansions</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01402</link>
+      <description>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399176575
+
+                No abstract</description>
+      <author>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01402</guid>
+    </item>
+    <item>
+      <title>Noble metal-free CZTS electrocatalysis: synergetic characteristics and emerging applications towards water splitting reactions</title>
+      <link>https://doi.org/10.3389/fchem.2024.1394191</link>
+      <description>Somnath C. Dhawale, Renuka V. Digraskar, Anil V. Ghule, Bhaskar R. Sathe, Frontiers in chemistry. 12(None)] 2024. https://openalex.org/W4399177549
+
+                This review provides a comprehensive overview of the production and modification of CZTS nanoparticles (NPs) and their application in electrocatalysis for water splitting. Various aspects, including surface modification, heterostructure design with carbon nanostructured materials, and tunable electrocatalytic studies, are discussed. A key focus is the synthesis of small CZTS nanoparticles with tunable reactivity, emphasizing the sonochemical method&#8217;s role in their formation. Despite CZTS&#8217;s affordability, it often exhibits poor hydrogen evolution reaction (HER) behavior. Carbon materials like graphene, carbon nanotubes, and C 60 are highlighted for their ability to enhance electrocatalytic activity due to their unique properties. The review also discusses the amine functionalization of graphene oxide/CZTS composites, which enhances overall water splitting performance. Doping with non-noble metals such as Fe, Co., and Ni is presented as an effective strategy to improve catalytic activity. Additionally, the synthesis of heterostructures consisting of CZTS nanoparticles attached to MoS 2 -reduced graphene oxide (rGO) hybrids is explored, showing enhanced HER activity compared to pure CZTS and MoS 2 . The growing demand for energy and the need for efficient renewable energy sources, particularly hydrogen generation, are driving research in this field. The review aims to demonstrate the potential of CZTS-based electrocatalysts for high-performance and cost-effective hydrogen generation with low environmental impact. Vacuum-based and non-vacuum-based methods for fabricating CZTS are discussed, with a focus on simplicity and efficiency. Future developments in CZTS-based electrocatalysts include enhancing activity and stability, improving charge transfer mechanisms, ensuring cost-effectiveness and scalability, increasing durability, integrating with renewable energy sources, and gaining deeper insight into reaction processes. Overall, CZTS-based electrocatalysts show great promise for sustainable hydrogen generation, with ongoing research focused on improving performance and advancing their practical applications.</description>
+      <author>Somnath C. Dhawale, Renuka V. Digraskar, Anil V. Ghule, Bhaskar R. Sathe</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1394191</guid>
+    </item>
+    <item>
+      <title>Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations</title>
+      <link>https://doi.org/10.1021/acs.jctc.4c00190</link>
+      <description>Yutack Park, Jaesun Kim, Seungwoo Hwang, Seungwu Han, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4399178686
+
+                Message-passing graph neural network interatomic potentials (GNN-IPs), particularly those with equivariant representations such as NequIP, are attracting significant attention due to their data efficiency and high accuracy. However, parallelizing GNN-IPs poses challenges because multiple message-passing layers complicate data communication within the spatial decomposition method, which is preferred by many molecular dynamics (MD) packages. In this article, we propose an efficient parallelization scheme compatible with GNN-IPs and develop a package, SevenNet (Scalable EquiVariance-Enabled Neural NETwork), based on the NequIP architecture. For MD simulations, SevenNet interfaces with the LAMMPS package. Through benchmark tests on a 32-GPU cluster with examples of SiO</description>
+      <author>Yutack Park, Jaesun Kim, Seungwoo Hwang, Seungwu Han</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00190</guid>
+    </item>
+    <item>
+      <title>Photoinduced dynamics during electronic transfer from narrow to wide bandgap layers in one-dimensional heterostructured materials</title>
+      <link>https://doi.org/10.1038/s41467-024-48880-3</link>
+      <description>Yuri Saida, Thomas Gauthier, Hiroo Suzuki, Satoshi Ohmura, Ryo Shikata, Y. Iwasaki, Godai Noyama, Misaki Kishibuchi, Yuichiro Tanaka, Wataru Yajima, Nicolas Godin, Ga&#235;l Privault, Tomoharu Tokunaga, Shota Ono, Shin&#8208;ya Koshihara, Kenji Tsuruta, Y&#251;ji Hayashi, Roman Bertoni, Masaki Hada, Nature communications. 15(1)] 2024. https://openalex.org/W4399179133
+
+                Abstract Electron transfer is a fundamental energy conversion process widely present in synthetic, industrial, and natural systems. Understanding the electron transfer process is important to exploit the uniqueness of the low-dimensional van der Waals (vdW) heterostructures because interlayer electron transfer produces the function of this class of material. Here, we show the occurrence of an electron transfer process in one-dimensional layer-stacking of carbon nanotubes (CNTs) and boron nitride nanotubes (BNNTs). This observation makes use of femtosecond broadband optical spectroscopy, ultrafast time-resolved electron diffraction, and first-principles theoretical calculations. These results reveal that near-ultraviolet photoexcitation induces an electron transfer from the conduction bands of CNT to BNNT layers via electronic decay channels. This physical process subsequently generates radial phonons in the one-dimensional vdW heterostructure material. The gathered insights unveil the fundamentals physics of interfacial interactions in low dimensional vdW heterostructures and their photoinduced dynamics, pushing their limits for photoactive multifunctional applications.</description>
+      <author>Yuri Saida, Thomas Gauthier, Hiroo Suzuki, Satoshi Ohmura, Ryo Shikata, Y. Iwasaki, Godai Noyama, Misaki Kishibuchi, Yuichiro Tanaka, Wataru Yajima, Nicolas Godin, Ga&#235;l Privault, Tomoharu Tokunaga, Shota Ono, Shin&#8208;ya Koshihara, Kenji Tsuruta, Y&#251;ji Hayashi, Roman Bertoni, Masaki Hada</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-48880-3</guid>
+    </item>
+    <item>
+      <title>S-Scheme Boron Phosphide/MoS&lt;sub&gt;2&lt;/sub&gt; Heterostructure with Excellent Light Conversion Ability for Solar Cells and Water Splitting Photocatalysts</title>
+      <link>https://doi.org/10.1021/acsami.4c03567</link>
+      <description>Yuncai Jiang, Shuangying Lei, Mingyuan Wang, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4399180955
+
+                Monolayer molybdenum disulfide (MoS</description>
+      <author>Yuncai Jiang, Shuangying Lei, Mingyuan Wang</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c03567</guid>
+    </item>
+    <item>
+      <title>Electric Double Layer Effect on the Outer-Sphere Benzyl Halides Electro-Reduction Mechanism</title>
+      <link>https://doi.org/10.1021/acs.jpcc.3c08224</link>
+      <description>Aleksandr S. Kramarenko, Ivan Yu. Chernyshov, Evgeny A. Pidko, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399181814
+
+                No abstract</description>
+      <author>Aleksandr S. Kramarenko, Ivan Yu. Chernyshov, Evgeny A. Pidko</author>
+      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.3c08224</guid>
+    </item>
+    <item>
+      <title>Small amount but big impact: Trace oxygen interstitially inserted PtCu alloys by microalloying for efficient oxygen reduction catalysis</title>
+      <link>https://doi.org/10.1007/s12274-024-6730-2</link>
+      <description>Qiheng Wang, Zhiguo Chen, Jingyan Zhang, Jingjun Liu, Nano research. None(None)] 2024. https://openalex.org/W4399194593
+
+                No abstract</description>
+      <author>Qiheng Wang, Zhiguo Chen, Jingyan Zhang, Jingjun Liu</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12274-024-6730-2</guid>
+    </item>
+    <item>
+      <title>Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)</title>
+      <link>https://doi.org/10.2196/preprints.52655</link>
+      <description>Francesco Invernici, Anna Bernasconi, Stefano Ceri, No host. None(None)] 2023. https://openalex.org/W4399173353
+
+                 BACKGROUND Since the beginning of the COVID-19 pandemic, &amp;gt;1 million studies have been collected within the COVID-19 Open Research Dataset, a corpus of manuscripts created to accelerate research against the disease. Their related abstracts hold a wealth of information that remains largely unexplored and difficult to search due to its unstructured nature. Keyword-based search is the standard approach, which allows users to retrieve the documents of a corpus that contain (all or some of) the words in a target list. This type of search, however, does not provide visual support to the task and is not suited to expressing complex queries or compensating for missing specifications.   OBJECTIVE This study aims to consider small graphs of concepts and exploit them for expressing graph searches over existing COVID-19&#8211;related literature, leveraging the increasing use of graphs to represent and query scientific knowledge and providing a user-friendly search and exploration experience.   METHODS We considered the COVID-19 Open Research Dataset corpus and summarized its content by annotating the publications&#8217; abstracts using terms selected from the Unified Medical Language System and the Ontology of Coronavirus Infectious Disease. Then, we built a co-occurrence network that includes all relevant concepts mentioned in the corpus, establishing connections when their mutual information is relevant. A sophisticated graph query engine was built to allow the identification of the best matches of graph queries on the network. It also supports partial matches and suggests potential query completions using shortest paths.   RESULTS We built a large co-occurrence network, consisting of 128,249 entities and 47,198,965 relationships; the GRAPH-SEARCH interface allows users to explore the network by formulating or adapting graph queries; it produces a bibliography of publications, which are globally ranked; and each publication is further associated with the specific parts of the query that it explains, thereby allowing the user to understand each aspect of the matching.   CONCLUSIONS Our approach supports the process of query formulation and evidence search upon a large text corpus; it can be reapplied to any scientific domain where documents corpora and curated ontologies are made available. </description>
+      <author>Francesco Invernici, Anna Bernasconi, Stefano Ceri</author>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2196/preprints.52655</guid>
     </item>
     <item>
       <title>Ultrathin 2D Alloyed Cu&#8722;Ga&#8722;Zn&#8722;S Curved Nanobelts for Boosting Visible&#8208;Light Photocatalytic Hydrogen Evolution</title>
@@ -506,6 +586,16 @@
       <author>Yu Liu, Mengmeng Ma, Yi Ding, Qi Zhou, Jie Chen, Yangyang Bian, Wentao Niu, Chunhe Yang, Zhe Yin, Zhijie Wang, Aiwei Tang</author>
       <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202407271</guid>
+    </item>
+    <item>
+      <title>A systematic &lt;scp&gt;DFT&lt;/scp&gt; study of structure and electronic properties of titanium dioxide</title>
+      <link>https://doi.org/10.1002/jcc.27376</link>
+      <description>Asma Marzouk, Konstantinos D. Papavasileiou, Loukas D. Peristeras, G. Leendert Bezemer, Alexander P. van Bavel, Prathamesh M. Shenai, Ioannis G. Economou, Journal of computational chemistry. None(None)] 2024. https://openalex.org/W4398768314
+
+                Abstract DFT functionals are of paramount importance for an accurate electronic and structural description of transition metal systems. In this work, a systematic analysis using some well&#8208;known and commonly used DFT functionals is performed. A comparison of the structural and energetic parameters calculated with the available experimental data is made in order to find the adequate functional for an accurate description of the TiO 2 bulk and surface of both anatase and rutile structures. In the absence of experimental data on the surface energy, the theoretical predictions obtained using the high&#8208;accuracy HSE06 functional were used as a reference to compare against the surface energy values calculated with the other DFT functionals. A clear improvement in the electronic description of both anatase and rutile was observed by introducing the Hubbard U correction term to PBE, PW91, and OptPBE functionals. The OptPBE&#8208; U 4 functional was found to offer a good compromise between accurately describing the structural and electronic properties of titania.</description>
+      <author>Asma Marzouk, Konstantinos D. Papavasileiou, Loukas D. Peristeras, G. Leendert Bezemer, Alexander P. van Bavel, Prathamesh M. Shenai, Ioannis G. Economou</author>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/jcc.27376</guid>
     </item>
     <item>
       <title>Computational exploration of two-dimensional vacancy-free boridene sheet and its derivatives: high stabilities and the promise for hydrogen evolution reaction</title>
