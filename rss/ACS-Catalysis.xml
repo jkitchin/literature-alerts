@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 01 Jun 2024 01:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 01:11:36 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhancement of Electrochemical Nitrogen Reduction Activity and Suppression of Hydrogen Evolution Reaction for Transition Metal Oxide Catalysts: The Role of Proton Intercalation and Heteroatom Doping</title>
-      <link>https://doi.org/10.1021/acscatal.4c00223</link>
-      <description>Qingdong Li, Oguz Kaan Kucukosman, Qingquan Ma, Junjie Ouyang, Pavel Kucheryavy, Hengfei Gu, Conor Long, Z. Y. Zhang, Joshua Young, Jenny V. Lockard, Eric Garfunkel, Jianan Gao, Zhang Wen, Huixin He, ACS catalysis. None(None)] 2024. https://openalex.org/W4398764852
-
-                During the electrochemical nitrogen reduction reaction (eNRR) and hydrogen evolution reaction (HER), interstitial proton intercalation readily occurs in some transition metal oxide (TMO) catalysts and changes their d-band electronic structure. This work fabricated phosphorus (P)-doped tungsten oxide (WO3) with enriched oxygen vacancies (OVs) to study the impact of proton intercalation and heteroatom doping on eNRR and HER. Our results demonstrated that the electronic structure of the P-OV-WO3 catalyst was altered by in situ proton intercalation as indicated by the greater negative onset potential of eNRR at &#8722;0.05 V compared to the proton intercalation potential of 0.3 V versus reversible hydrogen electrode (RHE). Compared to the non-P-doped WO3, the introduction of P doping in WO3 (e.g., 4.8 at. %) led to a reduction of more than 36% in proton intercalation. As a result, the HER activity of the P-OV-WO3 was significantly suppressed, as demonstrated by a considerably negative shift of the onset HER potential from &#8722;0.06 to &#8722;0.15 V and a slower HER kinetics with the Tafel slope increased from 129.0 to 343.1 mV/dec. Density functional theory calculations revealed the synergy of the proton intercalation, substitutional P doping, and the associated OVs in the improvement of N2 activation and hydrogenation in eNRR. The increased eNRR and the suppressed HER led to a high Faradaic efficiency (FE) of 64.1% and the NH3 yield of 24.5 &#956;g&#183;mg cat&#8211;1 h&#8211;1 at &#8722;0.15 V versus RHE in H2SO4 (pH = 2) as the electrolyte. The specific NH3 yield is more than 20 times higher than that of C-WO3 (1.1 &#956;g&#183;mg cat&#8211;1 h&#8211;1 with a FE of 20%). The results exceed most of the reported eNRR performances for TMO-based catalysts. Thus, the synergistic proton intercalation and P doping could lead to newer designs and applications of TMO-based catalysts for improved eNRR while suppressing the competing HER.</description>
-      <author>Qingdong Li, Oguz Kaan Kucukosman, Qingquan Ma, Junjie Ouyang, Pavel Kucheryavy, Hengfei Gu, Conor Long, Z. Y. Zhang, Joshua Young, Jenny V. Lockard, Eric Garfunkel, Jianan Gao, Zhang Wen, Huixin He</author>
-      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00223</guid>
-    </item>
-    <item>
-      <title>Single Transition Metal Atom Catalyst for a High-Performance Li&#8211;S Battery with a Graphdiyne&#8211;Graphene Heterostructure Host: A DFT Investigation + ML Predictions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02066</link>
-      <description>V G Abhijitha, Rohit Batra, B. R. K. Nanda, ACS catalysis. None(None)] 2024. https://openalex.org/W4398778565
-
-                Shuttling of lithium polysulfides (LiPSs) and slow kinetics of the sulfur reduction reaction (SRR) are considered as the major roadblocks for achieving high-performance lithium&#8211;sulfur batteries (LSBs). The solution lies in optimizing the binding strength of LiPSs and catalyzing the SRR. In this work, with the aid of density functional theory calculations, ab initio molecular dynamics simulation, and machine learning (ML), we show that a heterostructure made out of graphene (Gra) and transition metal (TM) atom-anchored graphdiyne (GDY) effectively addresses both these issues. Our results show that the large triangular pores of GDY allow easy penetration of Li+ ions into the sulfur-intercalated TM-GDY/Gra heterostructures and result in LiPSs. The sparsely distributed TM atoms on the GDY surface tune the binding strength of LiPSs and act as catalysts for SRR. Based on the binding strength of LiPSs, TM atom catalysts are categorized into strong, moderate, and weak. Gibbs's free-energy calculations reveal that heterostructures with moderate binding strength are best suited for SRR catalytic activity with barriers smaller than &#8764;0.4 eV. Furthermore, a Li2S decomposition barrier for the charging process is 3 times lower in the moderate class compared to pristine Gra. Feature importance analysis based on a gradient boosting regression ML model shows that the binding strength of LiPSs in the heterostructures is closely related to intrinsic electronic properties of TM and sulfur atoms, i.e., valence electronic configuration of the TM atom, electronegativity ratio of S to TM atom, and ionic radii of TM and S atoms. Furthermore, it also reveals that the energy barriers for the elementary steps of the SRR are related to the difference in the binding strength of LiPSs corresponding to the conversion step. This study elucidates the suitability of moderate binding heterostructures for LSBs; Fe, Co, Mn, and Rh are preferred single-atom catalysts to serve the purpose.</description>
-      <author>V G Abhijitha, Rohit Batra, B. R. K. Nanda</author>
-      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02066</guid>
-    </item>
-    <item>
-      <title>Regulating Adsorption of Intermediates via the Sulfur Modulating Dual-Atomic Sites for Boosting CO&lt;sub&gt;2&lt;/sub&gt;RR</title>
-      <link>https://doi.org/10.1021/acscatal.4c02098</link>
-      <description>Kai Huang, Ru Li, Qi Hu, Shuai Yang, Shuhao An, Cheng Lian, Qing Xu, Honglai Liu, Jun Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4398783341
-
-                The formation of dual-atom catalysts or heteroatom ligand modulation is the most promising strategy for optimizing single&#8211;atom catalysts (SACs) for the more efficient conversion of CO2 to valuable chemicals. However, heteroatom ligands introduced into the dual-atomic sites are expected but still under-explored. In this study, a dual-atom Fe&#8211;Ni pair electrocatalyst with N&#8211; and S&#8211;coordination in porous carbon nanosheets was conceptually predicted for electrocatalytic CO2 reduction to CO (CO2RR). In contrast to SACs and traditional diatomic catalysts (DACs), joined S&#8211;coordination can balance the cooperative activities of Fe and Ni sites, making the CO2 adsorption configuration bidentate at both Fe&#8211;Ni sites. This regulation leads to a substantial change in CO* adsorption from Fe to Ni sites, facilitating CO desorption and boosting the electrocatalytic CO2RR. Experimental results demonstrate that the obtained FeNi&#8211;NSC catalyst achieves high selectivity with the Faradaic efficiencies for CO of 96.1%, and a remarkable activity with the turnover frequency of 6526.9 h&#8211;1 at &#8722;1.0 V, which were over 4.5 and 2.5 times of those from the single Fe or Ni sites. This work gives us insight into designing highly effective catalysts guided by theoretical calculation.</description>
-      <author>Kai Huang, Ru Li, Qi Hu, Shuai Yang, Shuhao An, Cheng Lian, Qing Xu, Honglai Liu, Jun Hu</author>
-      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02098</guid>
-    </item>
     <item>
       <title>Biocatalytic Heteroaromatic Amide Formation in Water Enabled by a Catalytic Tetrad and Two Access Tunnels</title>
       <link>https://doi.org/10.1021/acscatal.4c01268</link>
@@ -236,6 +206,36 @@
       <author>Yaqi Wu, Joren M. Dorresteijn, Bert M. Weckhuysen</author>
       <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01061</guid>
+    </item>
+    <item>
+      <title>K and Na Promotion Enables High-Pressure Low-Temperature Reverse Water Gas Shift over Copper-Based Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c02293</link>
+      <description>L Barberis, Christiaan I. Versteeg, Johannes D. Meeldijk, Joseph A. Stewart, Bart D. Vandegehuchte, Petra E. de Jongh, ACS catalysis. None(None)] 2024. https://openalex.org/W4399210748
+
+                No abstract</description>
+      <author>L Barberis, Christiaan I. Versteeg, Johannes D. Meeldijk, Joseph A. Stewart, Bart D. Vandegehuchte, Petra E. de Jongh</author>
+      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02293</guid>
+    </item>
+    <item>
+      <title>Mapping Degradation of Iron&#8211;Nitrogen&#8211;Carbon Heterogeneous Molecular Catalysts with Electron-Donating/Withdrawing Substituents</title>
+      <link>https://doi.org/10.1021/acscatal.4c01752</link>
+      <description>Fangzhou Liu, Di Zhang, Fangxin She, Zixun Yu, Leo Lai, Hao Li, Wei Li, Yuan Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4399213497
+
+                No abstract</description>
+      <author>Fangzhou Liu, Di Zhang, Fangxin She, Zixun Yu, Leo Lai, Hao Li, Wei Li, Yuan Chen</author>
+      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01752</guid>
+    </item>
+    <item>
+      <title>Boundary Conditions for Promotion versus Poisoning in Copper&#8211;Gallium-Based CO&lt;sub&gt;2&lt;/sub&gt;-to-Methanol Hydrogenation Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01985</link>
+      <description>Jan L. Alfke, Mar&#237;a Tejeda&#8211;Serrano, Sujay Phadke, Andrei A. Tereshchenko, Terry Z. H. Gani, Lukas Rochlitz, Seraphine B. X. Y. Zhang, Lin Lin, Christophe Cop&#233;ret, &#1054;lga V. Safonova, ACS catalysis. None(None)] 2024. https://openalex.org/W4399219589
+
+                No abstract</description>
+      <author>Jan L. Alfke, Mar&#237;a Tejeda&#8211;Serrano, Sujay Phadke, Andrei A. Tereshchenko, Terry Z. H. Gani, Lukas Rochlitz, Seraphine B. X. Y. Zhang, Lin Lin, Christophe Cop&#233;ret, &#1054;lga V. Safonova</author>
+      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01985</guid>
     </item>
   </channel>
 </rss>
