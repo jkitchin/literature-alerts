@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Jun 2024 01:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 01:08:30 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Biocatalytic Heteroaromatic Amide Formation in Water Enabled by a Catalytic Tetrad and Two Access Tunnels</title>
-      <link>https://doi.org/10.1021/acscatal.4c01268</link>
-      <description>E. Zukic, Daniel Mokos, Min&#233;ia Weber, Niklas Stix, Klaus Ditrich, Virgilio F. Ferrario, Henrik M&#252;ller, Christian Willrodt, Karl Gruber, Bastian Daniel, Wolfgang Kroutil, ACS catalysis. None(None)] 2024. https://openalex.org/W4399010432
-
-                No abstract</description>
-      <author>E. Zukic, Daniel Mokos, Min&#233;ia Weber, Niklas Stix, Klaus Ditrich, Virgilio F. Ferrario, Henrik M&#252;ller, Christian Willrodt, Karl Gruber, Bastian Daniel, Wolfgang Kroutil</author>
-      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01268</guid>
-    </item>
     <item>
       <title>Electrocatalytic Oxidation of Primary Alcohols at the Triple-Phase Boundary in an Anion-Exchange Membrane Reactor with Nickel, Cobalt, and Iron Catalysts</title>
       <link>https://doi.org/10.1021/acscatal.4c01097</link>
@@ -152,7 +142,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02752</link>
       <description>Xin Liu, Shuai Xu, Heyu Chen, Yang Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399155612
 
-                No abstract</description>
+                Despite substantial progress made toward elucidating the natural radical enzymology with thiamine pyrophosphate (TPP)-dependent pyruvate:ferredoxin oxidoreductases (PFORs) and pyruvate oxidases (POXs), repurposing naturally occurring two-electron TPP-dependent enzymes to catalyze single-electron transformations with significant synthetic value remains a daunting task. Enabled by the synergistic use of visible-light photocatalyst fluorescein and a set of engineered TPP-dependent enzymes derived from benzoylformate decarboxylase (BFD) and benzaldehyde lyase (BAL), we developed an asymmetric photobiocatalytic decarboxylative alkylation of benzaldehydes and &#945;-keto acids to produce highly enantioenriched &#945;-branched ketones. Mechanistically, we propose that this dual catalytic radical alkylation involves single-electron oxidation of the enzyme-bound Breslow intermediate and subsequent interception of the photoredox-generated transient alkyl radical. In conjunction with visible light photoredox catalysis, thiamine radical biocatalysis represents an emerging platform to discover and optimize asymmetric radical transformations that are unknown to biological systems and not amenable to small-molecule catalysis.</description>
       <author>Xin Liu, Shuai Xu, Heyu Chen, Yang Yang</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02752</guid>
@@ -162,7 +152,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02195</link>
       <description>Qihang Tan, Chenglong Li, Lei Yang, Zirun Wang, Yuxuan Huang, C. Wang, Long Liu, Wenhao Chen, Tieqiao Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4399167230
 
-                No abstract</description>
+                Polyaryl ethylenes find wide applications in synthetic, medicinal, and material fields; however, their stereo-selective synthesis is very challenging. In this paper, we describe a highly efficient bimetallic cooperative catalysis consisting of a palladium catalyst and a copper catalyst. This catalytic system enables the stereo-selective installation of a heteroaryl group onto the double bond of ortho-vinyl phenoxides via C&#8211;O cleavage and dual C&#8211;H activation. Extensive mechanistic studies show that copper-catalyzed C&#8211;H cleavage of heteroarenes is the rate-determining step. It can facilitate the formation of the key intermediate palladium cycle along with the ionic properties of arylpalladium species generated through oxidative addition, thus promoting the shift of Pd from the aryl to the vinyl group and ensuring the success of this reaction. This reaction overcomes the substrate limitation of previous aryl halide-based palladium shift systems well and provides an efficient method for preparing polyaryl ethylenes with high stereo-selectivity and a wide substrate scope. cis-Diaryl ethylenes, trans-diaryl ethylenes, triaryl ethylenes, and tetraaryl ethylenes all can be produced stereo-selectively. Considering the unique chemical and physical properties of poly-substituted ethylenes, especially the strong AIE effect, we anticipate that this powerful synthetic strategy will find wide applications in synthetic and material communities.</description>
       <author>Qihang Tan, Chenglong Li, Lei Yang, Zirun Wang, Yuxuan Huang, C. Wang, Long Liu, Wenhao Chen, Tieqiao Chen</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02195</guid>
@@ -172,7 +162,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02016</link>
       <description>Munir Ahmad, Muhammad Bilal Hussain, Jiahui Chen, Yang&#65533; Yang, Xuexian Wu, Hao Chen, Shahzad Afzal, Waseem Raza, Zhaowei Zeng, Fei Ye, Xueyang Zhao, Jiujun Zhang, Renfei Feng, Shuhui Yu, Jing&#8208;Li Luo, ACS catalysis. None(None)] 2024. https://openalex.org/W4399172793
 
-                No abstract</description>
+                Bottlenecks in direct methanol fuel cells (DMFCs) with conventional noble metals as anode catalysts involve the formation of valueless byproducts and carbon dioxide (CO2) emissions. Carbon-supported Pt single atoms have demonstrated high performance in DMFCs. However, the adsorbed intermediates (COads) strongly bind to Pt single-atom sites, resulting in complete methanol oxidation to CO2 and low power densities. Herein, we have developed a DMFC for CO2-emission-free coproduction of electricity and valuable formate using metal organic framework (MOF)-derived N-doped porous carbon-supported PtRu single-atom (referred to as PtRuSA/NPC) catalysts. The DMFC produces current and power densities of 657 mA cm&#8211;2 and 97.4 mW cm&#8211;2, respectively, at a potential of 0.65 V with a 98.4% Faraday efficiency for formate at 80 &#176;C. Density functional theory (DFT) calculations show that CH3OH molecules preferentially adsorb onto the PtRu single atoms, but their oxidation to CO2 molecules on PtRuSA/NPC is kinetically unfavorable due to the large energy barrier. This study offers a pathway to developing high-performance and CO2-emission-free electrocatalysts for DMFCs.</description>
       <author>Munir Ahmad, Muhammad Bilal Hussain, Jiahui Chen, Yang&#65533; Yang, Xuexian Wu, Hao Chen, Shahzad Afzal, Waseem Raza, Zhaowei Zeng, Fei Ye, Xueyang Zhao, Jiujun Zhang, Renfei Feng, Shuhui Yu, Jing&#8208;Li Luo</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02016</guid>
@@ -182,7 +172,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02019</link>
       <description>Jonathan Lucas, N. Raghavendra Naveen, Michael J. Janik, Konstantinos Alexopoulos, Gina Noh, Divakar R. Aireddy, Keqiang Ding, James Dorman, Kerry M. Dooley, ACS catalysis. None(None)] 2024. https://openalex.org/W4399173289
 
-                No abstract</description>
+                Ni can be used as a catalyst for dry reforming of methane (DRM), replacing more expensive and less abundant noble metal catalysts (Pt, Pd, and Rh) with little sacrifice in activity. Ni catalysts deactivate quickly under realistic DRM conditions. Rare earth oxides such as CeO2, or as CeO2&#8211;ZrO2&#8211;Al2O3 (CZA), are supports that improve both the activity and stability of Ni DRM systems due to their redox activity. However, redox-active supports can also enhance the undesired reverse water gas shift (RWGS) reaction, reducing the hydrogen selectivity. In this work, Ni on CZA was coated with an ultrathin Al2O3 overlayer using atomic layer deposition (ALD) to study the effects of the overlayer on catalyst activity, stability, and H2/CO ratio. A low-conversion screening method revealed improved DRM activity and lower coking rate upon the addition of the Al2O3 ALD overcoat, and improvements were subsequently confirmed in a high-conversion reactor at long times onstream. The overcoated samples gave an H2/CO ratio of &#8764;1 at high conversion, much greater than uncoated catalysts, and no evidence of deactivation. Characterization of used (but still active) catalysts using several techniques suggests that active Ni is in formal oxidation state &gt;0, Ni&#8211;Ce&#8211;Al is most likely present as a mixed oxide at the surface, and a nominal thickness of 0.5 nm for the Al2O3 overcoat is optimal.</description>
       <author>Jonathan Lucas, N. Raghavendra Naveen, Michael J. Janik, Konstantinos Alexopoulos, Gina Noh, Divakar R. Aireddy, Keqiang Ding, James Dorman, Kerry M. Dooley</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02019</guid>
@@ -192,7 +182,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01758</link>
       <description>Zhen Xiao, Zhongping Wan, Jiangjie Zhang, Jianing Jiang, Dongmiao Li, Jinni Shen, Wenxin Dai, Yi Li, Xuxu Wang, Zizhong Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399177807
 
-                No abstract</description>
+                Photocatalytic methane conversion into liquid oxygenates using O2 oxidants provides a promising approach for high-value chemicals. The generation of reactive oxygen species and their reaction pathway are key to determine the oxygenate selectivity. Here, an interstitial Zni defect ZnO (ZnO(Zni)) is developed through thermal decomposition of the ZnO2 precursor. Zni favors the O2 adsorption at a terminal adsorption configuration and induces effectively the conversion O2 into the desired &#8226;OOH instead of &#8226;OH for improving the yield and selectivity of oxygenates. For comparison, O2 adsorbed in a lateral configuration tends to be converted into excessive &#8226;OH on the typical Au/ZnO. As a result, ZnO(Zni) shows the liquid oxygenates yield of 6080 &#956;mol g&#8211;1 with 98.6% selectivity, which leads to 10 times lower than Au/ZnO for CO2 release of overoxidation. This work provides a pathway for O2 adsorption and activation to regulate the photocatalytic CH4 oxidation conversion into liquid oxygenates.</description>
       <author>Zhen Xiao, Zhongping Wan, Jiangjie Zhang, Jianing Jiang, Dongmiao Li, Jinni Shen, Wenxin Dai, Yi Li, Xuxu Wang, Zizhong Zhang</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01758</guid>
@@ -202,7 +192,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01061</link>
       <description>Yaqi Wu, Joren M. Dorresteijn, Bert M. Weckhuysen, ACS catalysis. None(None)] 2024. https://openalex.org/W4399180685
 
-                No abstract</description>
+                Metallocene immobilization onto a solid support helps to overcome the drawbacks of homogeneous metallocene complexes in the catalytic olefin polymerization. In this study, valuable insights have been obtained into the effects of pore size, linker composition, and surface groups of metal&#8211;organic frameworks (MOFs) on their role as support materials for metallocene-based ethylene polymerization catalysis. Three distinct Zn-based metal&#8211;organic frameworks (MOFs), namely, MOF-5, IRMOF-3, and ZIF-8, with different linkers have been activated with methylaluminoxane (MAO) and zirconocene complexes, followed by materials characterization and testing for ethylene polymerization. Characterization has been performed by multiple analytical tools, including X-ray diffraction (XRD), scanning electron microscopy (SEM), gel permeation chromatography (GPC), differential scanning calorimetry (DSC), and CO Fourier transform infrared (FT-IR) spectroscopy. It was found that the interactions between MOFs, MAO, and the zirconocene complex not only lead to both catalyst activation and deactivation but also result in the creation of multiple active sites. By alteration of the MOF support, it is possible to obtain polyethylene with different properties. Notably, ultrahigh molecular weight polyethylene (UHMWPE, MW = 5.34 &#215; 106) was obtained using IRMOF-3 as support. This study reveals the potential of MOF materials as tunable porous supports for metallocene catalysts active in ethylene polymerization.</description>
       <author>Yaqi Wu, Joren M. Dorresteijn, Bert M. Weckhuysen</author>
       <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01061</guid>
@@ -236,6 +226,16 @@
       <author>Jan L. Alfke, Mar&#237;a Tejeda&#8211;Serrano, Sujay Phadke, Andrei A. Tereshchenko, Terry Z. H. Gani, Lukas Rochlitz, Seraphine B. X. Y. Zhang, Lin Lin, Christophe Cop&#233;ret, &#1054;lga V. Safonova</author>
       <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01985</guid>
+    </item>
+    <item>
+      <title>Cyclopropenium Sulfide as Lewis Base Catalyst for Chemoselective and Regioselective Electrophilic Selenylation of Phenols</title>
+      <link>https://doi.org/10.1021/acscatal.4c01660</link>
+      <description>Rui Chen, Tianyu Zheng, Xiaojian Jiang, Ying&#8208;Yeung Yeung, ACS catalysis. None(None)] 2024. https://openalex.org/W4399258939
+
+                No abstract</description>
+      <author>Rui Chen, Tianyu Zheng, Xiaojian Jiang, Ying&#8208;Yeung Yeung</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01660</guid>
     </item>
   </channel>
 </rss>

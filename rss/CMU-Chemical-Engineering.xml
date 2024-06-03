@@ -4,38 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Jun 2024 01:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 01:08:31 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Oxidative corrosion resistance of a Cr Fe Ni1-- composition spread alloy film (CSAF) in dry air</title>
-      <link>https://doi.org/10.1016/j.apsusc.2024.160391</link>
-      <description>Camille Ferris, Nicholas Golio, Herv&#233; Mart&#237;nez, Andrew J. Gellman, Applied surface science. None(None)] 2024. https://openalex.org/W4399010088
-
-                No abstract</description>
-      <author>Camille Ferris, Nicholas Golio, Herv&#233; Mart&#237;nez, Andrew J. Gellman</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160391</guid>
-    </item>
-    <item>
-      <title>Unraveling the Mechanism of the Holes in the Blanket of Fog Over the Indo&#8208;Gangetic Plains: Are They Driven by Urban Heat Islands or Aerosol?</title>
-      <link>https://doi.org/10.1029/2023gl107252</link>
-      <description>Anurose Theethai Jacob, A. Jayakumar, M. Sandhya, Hamish Gordon, S. Aryasree, Saji Mohandas, Shweta Bhati, V. S. Prasad, Geophysical research letters. 51(10)] 2024. https://openalex.org/W4399011192
-
-                Abstract Fog holes were reported over cities of the Indo&#8208;Gangetic plains of India, which were attributed to the urban heat island (UHI) effect. The present study reports the observational evidence of fog holes over rural area using satellite and ground observations. Delayed onset and early dissipation of fog is observed over the holes. Numerical simulations demonstrate that aerosol&#8208;radiation interaction (ARI) leads to fog holes over both urban and rural regions. The anthropogenic aerosols and associated ARI dominate the UHI effect over the urban fog holes, while the aerosol absorption due to ARI mainly controls the rural fog holes. Turning off aerosol absorption causes &#8764; 2 hours delay in the fog dissipation over urban area, whereas it yields persistent fog over rural area under saturated environment. An enhancement of soluble Aitken black carbon over the fog holes indicates the importance of aging process during fog dissipation.</description>
-      <author>Anurose Theethai Jacob, A. Jayakumar, M. Sandhya, Hamish Gordon, S. Aryasree, Saji Mohandas, Shweta Bhati, V. S. Prasad</author>
-      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1029/2023gl107252</guid>
-    </item>
-    <item>
-      <title>Efficient bounds tightening based on SOCP relaxations for AC optimal power flow</title>
-      <link>https://doi.org/10.1007/s11081-024-09891-7</link>
-      <description>Yuanxun Shao, Dillard Robertson, Michael Bynum, Carl D. Laird, Anya Castillo, Joseph K. Scott, Optimization and engineering. None(None)] 2024. https://openalex.org/W4399016103
-
-                No abstract</description>
-      <author>Yuanxun Shao, Dillard Robertson, Michael Bynum, Carl D. Laird, Anya Castillo, Joseph K. Scott</author>
-      <pubDate>Sat, 25 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s11081-024-09891-7</guid>
-    </item>
   </channel>
 </rss>
