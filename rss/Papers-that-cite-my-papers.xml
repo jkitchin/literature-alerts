@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Jun 2024 01:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 01:08:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -212,7 +212,7 @@
       <link>https://doi.org/10.1016/j.xcrp.2024.102013</link>
       <description>Nishithan C. Kani, Rohit Chauhan, Samuel Olusegun, Ishwar Sharan, Amit Katiyar, David House, Sang-Won Lee, Alena Jairamsingh, Rajan Bhawnani, Dongjin Choi, Adam C. Nielander, Thomas F. Jaramillo, Hae&#8208;Seok Lee, Anil R. Oroskar, Vimal Chandra Srivastava, Shishir Sinha, Joseph A. Gauthier, Meenesh R. Singh, Cell reports physical science. None(None)] 2024. https://openalex.org/W4399155404
 
-                No abstract</description>
+                Sluggish water oxidation reactions limit water electrolysis for H2 production, which can be alleviated by the use of carbon-based materials like agricultural wastes as reducing agents. Biochar from such biomass can reduce equilibrium cell potentials at standard conditions from 1.23 V to 0.21 V by avoiding direct water splitting at the anode. However, some challenges hinder biochar oxidation, including poor biochar binding, electrode caking, and surface passivation. We find that enhanced C/O ratio, crystallinity, and negative zeta potential improve biochar oxidation kinetics at moderate temperatures. Smaller particle sizes and better mixing prevent electrode caking, enhancing biochar stability. Here, we report sub-volt biochar-coupled H2 production, often referred to as a biochar-assisted water electrolysis (BAWE), yielding &#8764;250 mA/gcat H2 current at 100% Faradaic efficiency. Over 1 mA current was observed at a near-equilibrium cell potential of 0.2 V cell potential. Using a single-junction solar cell-powered BAWE, &#8764;15 mA H2 is generated at 1 Sun, resulting in &#8764;4.8% solar-to-hydrogen efficiency, equivalent to &#8764;35% when the energy of H2 relative to H2O (without biochar) is assumed.</description>
       <author>Nishithan C. Kani, Rohit Chauhan, Samuel Olusegun, Ishwar Sharan, Amit Katiyar, David House, Sang-Won Lee, Alena Jairamsingh, Rajan Bhawnani, Dongjin Choi, Adam C. Nielander, Thomas F. Jaramillo, Hae&#8208;Seok Lee, Anil R. Oroskar, Vimal Chandra Srivastava, Shishir Sinha, Joseph A. Gauthier, Meenesh R. Singh</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.xcrp.2024.102013</guid>
@@ -372,7 +372,7 @@
       <link>https://doi.org/10.1016/j.apcatb.2024.124260</link>
       <description>Hongyu Chen, Linghui Wang, Deng Long, Yibo Zeng, Shigui Jiang, Weijia Chen, Caiyuan Zhao, Chu Cheng, Yan&#8208;Xin Chen, Miao L&#252;, Shuang Li, X. Y. Chen, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399209149
 
-                No abstract</description>
+                The photocatalytic carbon dioxide (CO2) reduction is a very promising approach for harvesting solar energy and recycling carbon resources. However, the native defects induced competition among different pathways for photocarriers is inevitable and negatively affects the selectivity. This work studies the competition between the vacancy induced pathway and the normal in a molybdenum sulfide selenide during photocatalytic CO2 reduction. It has been revealed that the high concentration of chalcogen vacancies can open up the carbene pathway by lowering the free energy and adjusting the adsorptions for the critical intermediates of *CH2 to attract the neighboring *CO for the C-C coupling in the ethanol production, and therefore improve the ethanol production obviously. We propose that in the design of photocatalysts for C2+ production, construction of variant active sites for the coupling of matching intermediates should be fully considered when choosing the basic materials, dopants and native defects.</description>
       <author>Hongyu Chen, Linghui Wang, Deng Long, Yibo Zeng, Shigui Jiang, Weijia Chen, Caiyuan Zhao, Chu Cheng, Yan&#8208;Xin Chen, Miao L&#252;, Shuang Li, X. Y. Chen</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124260</guid>
@@ -422,7 +422,7 @@
       <link>https://doi.org/10.1016/j.enchem.2024.100128</link>
       <description>Mohammad Etesami, Shiva Rezaei Motlagh, Ramin Khezri, Mohan Gopalakrishnan, Jayaraman Theerthagiri, Myong Yong Choi, Kasidit Nootong, Anongnat Somwangthanaroj, Soorathep Kheawhom, EnergyChem. None(None)] 2024. https://openalex.org/W4399239615
 
-                No abstract</description>
+                This review explores the potential of metal-organic frameworks (MOFs) to drive sustainable clean energy solutions and their crucial role in transitioning towards a decarbonized global economy. The paper underscores the remarkable versatility and modifiability of MOFs. Central to this discourse is the conversion of MOFs into layered double hydroxides (LDHs), with a detailed exposition of the synthesis methodologies and their consequential effects on catalytic efficacy. A meticulous evaluation of MOF-derived LDHs is presented, particularly in the context of the oxygen evolution reaction (OER), encapsulating cutting-edge progress and probing the feasibility of integrating these materials into next-generation energy technologies. Diverging from existing literature, this research provides an in-depth exploration of MOF-to-LDH conversion, a promising area in OER catalysis. In addition, structural engineering techniques to optimize the performance of MOF-derived LDHs in electrochemical devices are explored, highlighting the potential of MOFs as future electrocatalysts and guiding future research directions.</description>
       <author>Mohammad Etesami, Shiva Rezaei Motlagh, Ramin Khezri, Mohan Gopalakrishnan, Jayaraman Theerthagiri, Myong Yong Choi, Kasidit Nootong, Anongnat Somwangthanaroj, Soorathep Kheawhom</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.enchem.2024.100128</guid>
@@ -432,7 +432,7 @@
       <link>https://doi.org/10.1016/j.electacta.2024.144524</link>
       <description>Da Zhou, Dan Zhao, Yao Yao, Yan&#8208;Xia Chen, Shen Ye, Electrochimica acta. None(None)] 2024. https://openalex.org/W4399242942
 
-                No abstract</description>
+                The Rh(111) electrode shows superior oxygen reduction reaction (ORR) activity to Ir(111), contradicting the predicted trend based on the Volcano plot. To unveil the origin for this, we investigate the interfacial structures of Rh(111) single crystalline electrode in 0.1 M HClO4 and 0.5 M H2SO4 solutions using cyclic voltammetry and potential step chronoamperometry under a hanging meniscus rotating disk electrode configuration. Our results reveal that i) in N2 saturated solution even at a potential below 0.20 V, oxygen-containing species adsorbates can be formed on the Rh(111) surface probably generated by oxidation of water; ii) Even under mild conditions, multiple cycles and current transients in O2 saturated solution at potentials where ORR taking place can cause significant surface disordering; iii) The disordering of the Rh(111) electrode induced by ORR exhibits similar base cyclic voltammograms to those of vicinal Rh(hkl) such as Rh(553) and Rh(332) etc., depending on the potentials applied during ORR, which, in turn, enhances the ORR activity in both 0.1 M HClO4 and 0.5 M H2SO4. These new findings provide valuable insights into the structure-performance relationship of ORR.</description>
       <author>Da Zhou, Dan Zhao, Yao Yao, Yan&#8208;Xia Chen, Shen Ye</author>
       <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144524</guid>
@@ -488,6 +488,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114243</guid>
     </item>
     <item>
+      <title>Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152757</link>
+      <description>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399274810
+
+                The urgency of tackling climate change is driving a global shift towards renewable sources of energy, with a growing contribution from alternative energy sources such as solar, wind and hydroelectric power. With the global push for the sustainable energy, the demand for effective catalysts for sustainable chemical production and energy storage has been rapidly increasing. Computational simulations have contributed to the rational design of catalysts by allowing profound analysis of catalyst properties. Machine learning potential (MLP) has emerged as a potential tool to bridge the gap between quantum mechanical accuracy and computational efficiency, overcoming the computational cost limitations of quantum chemistry-based simulations. This review discusses the development and application of MLP in multiscale simulations of heterogeneous catalysis. It covers the basic concepts of computational catalysis, the construction of MLP focusing on efficient datasets, atomic structure representations, and the process of training and evaluating of ML models. Furthermore, the potential applications of MLP are discussed in addressing computational challenges within the field, as MLP has potential to overcome limitations in simulation time and length scale. Lastly, the prospects for MLP are presented, taking advantage of the rapid advancements in artificial intelligence architectures. It is expected that the integration of MLP will accelerate progress within the catalyst research community and will bridge the gap between theoretical and experimental approaches in catalytic research.</description>
+      <author>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
+    </item>
+    <item>
       <title>Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)</title>
       <link>https://doi.org/10.2196/preprints.52655</link>
       <description>Francesco Invernici, Anna Bernasconi, Stefano Ceri, No host. None(None)] 2023. https://openalex.org/W4399173353
@@ -496,6 +506,16 @@
       <author>Francesco Invernici, Anna Bernasconi, Stefano Ceri</author>
       <pubDate>Sun, 26 Nov 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2196/preprints.52655</guid>
+    </item>
+    <item>
+      <title>Functionalized Porous Carbon Fiber Electrodes for Applications in Electrochemical Flow Cells</title>
+      <link>https://doi.org/10.3384/9789180751407</link>
+      <description>Arman Molaei, Link&#246;ping studies in science and technology. Dissertations. None(None)] 2023. https://openalex.org/W4399201539
+
+                Xavier Crispin, my main supervisor who is a great person and a great scientist, for giving me the opportunity to work in the Laboratory of Organic Electronics (LOE), for the great support and inspiration during these years, especially during difficult times, encouraged me and motivated me by showing the positive sides.Magnus Berggren, head of LOE for creating an astonishing division with full of excellent scientists and a wonderful working environment and for supporting me during my Ph.D. studies when I really need help.Zia Ullah for being a nice neighbor and for all the help during my Ph.D. studies.Ziyauddin and Ujwala for being my great colleagues and co-authors.I have not had a cosupervisor after the first two years of my Ph.D. duration, but of</description>
+      <author>Arman Molaei</author>
+      <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3384/9789180751407</guid>
     </item>
     <item>
       <title>Ultrathin 2D Alloyed Cu&#8722;Ga&#8722;Zn&#8722;S Curved Nanobelts for Boosting Visible&#8208;Light Photocatalytic Hydrogen Evolution</title>
@@ -522,10 +542,20 @@
       <link>https://doi.org/10.1021/acs.jctc.4c00434</link>
       <description>Guobin Zhao, Yongchul G. Chung, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4399259267
 
-                No abstract</description>
+                We report a fast and easy method (PACMAN) to assign partial atomic charges on metal-organic framework (MOF) and covalent-organic framework (COF) crystal structures based on graph convolution networks (GCNs) trained on &gt;1.8 million high-fidelity partial atomic charge data obtained from the Quantum Metal-Organic Framework (QMOF) database. The developed model shows outstanding performance, achieving a mean absolute error (MAE) of 0.0055 e (test set performance) while maintaining consistency with DDEC6, Bader, and CM5 charges across diverse chemistry and topologies of MOFs and COFs. We find that the new method accurately assigns partial atomic charges for ion-containing nanoporous materials, which has not been possible in previous machine learning (ML) models. Grand canonical Monte Carlo (GCMC) simulation results for CO</description>
       <author>Guobin Zhao, Yongchul G. Chung</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00434</guid>
+    </item>
+    <item>
+      <title>Prediction of Electronic Density of States in Guanine-TiO2 Adsorption Model based on Machine Learning</title>
+      <link>https://doi.org/10.1016/j.csbr.2024.100008</link>
+      <description>Yark&#305;n A. &#199;etin, Benjam&#237; Martorell, Francesc Serratosa, Deleted Journal. None(None)] 2024. https://openalex.org/W4399274321
+
+                The electronic density of states is a property of the material that is extensively used in quantum systems in condensed matter physics. It refers to the energy level of the electrons in a solid crystal. One of the most current ways to compute it is by Density Functional Tight Binding (DFTB), given the geometry of the material. Nevertheless, this computation could be very computationally demanding, although applied to some materials with a very reduced number of atoms. This paper presents a method to deduce the electronic density of states, which is based on a neural network, thus, almost linear with respect to the number of atoms in the material. Specifically, we have applied our method to a metal oxide structure interacting with a nucleic base guanine. We have focused on stoichiometric and O-defective anatase TiO2 (101) surfaces. The data set of the electronic density of states needed to train the neural network has been obtained by a DFTB+ numerical solver given an initial molecular geometry model, which computed a track of time-dependent geometry and their associated electronic density of states. We validated that the predicted electronic density of states deduced by our method and by DFTB tends to be very similar, thus, opening the door to other computations such that introducing our method in the process of generating the time-dependent geometry analysis.</description>
+      <author>Yark&#305;n A. &#199;etin, Benjam&#237; Martorell, Francesc Serratosa</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.csbr.2024.100008</guid>
     </item>
   </channel>
 </rss>

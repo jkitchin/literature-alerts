@@ -1,8 +1,8 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Mon Jun  3 01:08:30 2024
+Created on Tue Jun  4 01:07:51 2024
 
-Found 23 results from 2024-05-27 to 2024-06-03
+Found 23 results from 2024-05-28 to 2024-06-04
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
 
@@ -242,7 +242,7 @@ No abstract
 OpenAlex: https://openalex.org/W4399219589    
 Open access: False
     
-[Jan L. Alfke](https://openalex.org/A5057839936), [María Tejeda–Serrano](https://openalex.org/A5058285715), [Sujay Phadke](https://openalex.org/A5004069091), [Andrei A. Tereshchenko](https://openalex.org/A5071574900), [Terry Z. H. Gani](https://openalex.org/A5031165208), [Lukas Rochlitz](https://openalex.org/A5032874181), [Seraphine B. X. Y. Zhang](https://openalex.org/A5051794191), [Lin Lin](https://openalex.org/A5015860750), [Christophe Copéret](https://openalex.org/A5019537622), [Оlga V. Safonova](https://openalex.org/A5050871990), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01985.
+[Jan L. Alfke](https://openalex.org/A5057839936), [María Tejeda‐Serrano](https://openalex.org/A5058285715), [Sujay Phadke](https://openalex.org/A5004069091), [Andrei A. Tereshchenko](https://openalex.org/A5071574900), [Terry Z. H. Gani](https://openalex.org/A5031165208), [Lukas Rochlitz](https://openalex.org/A5032874181), [Seraphine B. X. Y. Zhang](https://openalex.org/A5051794191), [Lin Lin](https://openalex.org/A5015860750), [Christophe Copéret](https://openalex.org/A5019537622), [Оlga V. Safonova](https://openalex.org/A5050871990), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01985.
     
 No abstract    
 
