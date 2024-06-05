@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 04 Jun 2024 01:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 01:07:16 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution</title>
+      <link>https://doi.org/10.1021/jacs.4c01353</link>
+      <description>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399305702
+
+                The demand for green hydrogen has raised concerns over the availability of iridium used in oxygen evolution reaction catalysts. We identify catalysts with the aid of a machine learning-aided computational pipeline trained on more than 36,000 mixed metal oxides. The pipeline accurately predicts Pourbaix decomposition energy (Gpbx) from unrelaxed structures with a mean absolute error of 77 meV per atom, enabling us to screen 2070 new metallic oxides with respect to their prospective stability under acidic conditions. The search identifies Ru0.6Cr0.2Ti0.2O2 as a candidate having the promise of increased durability: experimentally, we find that it provides an overpotential of 267 mV at 100 mA cm&#8211;2 and that it operates at this current density for over 200 h and exhibits a rate of overpotential increase of 25 &#956;V h&#8211;1. Surface density functional theory calculations reveal that Ti increases metal&#8211;oxygen covalency, a potential route to increased stability, while Cr lowers the energy barrier of the HOO* formation rate-determining step, increasing activity compared to RuO2 and reducing overpotential by 40 mV at 100 mA cm&#8211;2 while maintaining stability. In situ X-ray absorption spectroscopy and ex situ ptychography-scanning transmission X-ray microscopy show the evolution of a metastable structure during the reaction, slowing Ru mass dissolution by 20&#215; and suppressing lattice oxygen participation by &gt;60% compared to RuO2.</description>
+      <author>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent</author>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01353</guid>
+    </item>
   </channel>
 </rss>
