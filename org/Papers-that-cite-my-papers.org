@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Wed Jun  5 01:07:32 2024
+Created on Thu Jun  6 01:07:25 2024
 
-Found 57 results from 2024-05-29 to 2024-06-05
+Found 54 results from 2024-05-30 to 2024-06-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092]]
@@ -13,69 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121]]
-
-* Spontaneous‐Spin‐Polarized 2D π‐d Conjugated Frameworks Towards Enhanced Oxygen Evolution Kinetics  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399070034
-:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-05-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202401987")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399070034"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399070034"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399070034"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399070034 (Open access: True)
-    
-[[https://openalex.org/A5029889356][Won Seok Lee]], [[https://openalex.org/A5026224138][Hiroaki Maeda]], [[https://openalex.org/A5079583259][Yen‐Ting Kuo]], [[https://openalex.org/A5027185260][Koki Muraoka]], [[https://openalex.org/A5018787061][Naoya Fukui]], [[https://openalex.org/A5064621747][Kenji Takada]], [[https://openalex.org/A5013923782][Sono Sasaki]], [[https://openalex.org/A5089786787][Hiroshi Nishihara]], [[https://openalex.org/A5076818771][Akira Nakayama]], [[https://openalex.org/A5040900066][Hong‐Kang Tian]], [[https://openalex.org/A5089786787][Hiroshi Nishihara]], [[https://openalex.org/A5051138648][Ken Sakaushi]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202401987  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/smll.202401987][pdf]])
-     
-Abstract Alternative strategies to design sustainable‐element‐based electrocatalysts enhancing oxygen evolution reaction (OER) kinetics are demanded to develop affordable yet high‐performance water‐electrolyzers for green hydrogen production. Here, it is demonstrated that the spontaneous‐spin‐polarized 2D π‐d conjugated framework comprising abundant elements of nickel and iron with a ratio of Ni:Fe = 1:4 with benzenehexathiol linker (BHT) can improve OER kinetics by its unique electronic property. Among the bimetallic NiFe x:y ‐BHTs with various ratios with Ni:Fe = x:y, the NiFe 1:4 ‐BHT exhibits the highest OER activity. The NiFe 1:4 ‐BHT shows a specific current density of 140 A g −1 at the overpotential of 350 mV. This performance is one of the best activities among state‐of‐the‐art non‐precious OER electrocatalysts and even comparable to that of the platinum‐group‐metals of RuO 2 and IrO 2 . The density functional theory calculations uncover that introducing Ni into the homometallic Fe‐BHT (e.g., Ni:Fe = 0:1) can emerge a spontaneous‐spin‐polarized state. Thus, this material can achieve improved OER kinetics with spin‐polarization which previously required external magnetic fields. This work shows that a rational design of 2D π‐d conjugated frameworks can be a powerful strategy to synthesize promising electrocatalysts with abundant elements for a wide spectrum of next‐generation energy devices.    
-
-    
-
-* emle-engine: A Flexible Electrostatic Machine Learning Embedding Package for Multiscale Molecular Dynamics Simulations  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399091017
-:TOPICS: Accelerating Materials Innovation through Informatics, Protein Structure Prediction and Analysis, Computational Methods in Drug Discovery
-:PUBLICATION_DATE: 2024-05-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jctc.4c00248")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399091017"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399091017"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399091017"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399091017 (Open access: True)
-    
-[[https://openalex.org/A5039401197][Kirill Zinovjev]], [[https://openalex.org/A5009409259][Lester O. Hedges]], [[https://openalex.org/A5046865356][Rubén Montagud Andreu]], [[https://openalex.org/A5034343670][Christopher Woods]], [[https://openalex.org/A5082079166][Iñaki Tuñón]], [[https://openalex.org/A5021710523][Marc W. van der Kamp]], Journal of chemical theory and computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00248  ([[https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00248][pdf]])
-     
-We present in this work the emle-engine package (https://github.com/chemle/emle-engine)─the implementation of a new machine learning embedding scheme for hybrid machine learning potential/molecular-mechanics (ML/MM) dynamics simulations. The package is based on an embedding scheme that uses a physics-based model of the electronic density and induction with a handful of tunable parameters derived from in vacuo properties of the subsystem to be embedded. This scheme is completely independent of the in vacuo potential and requires only the positions of the atoms of the machine learning subsystem and the positions and partial charges of the molecular mechanics environment. These characteristics allow emle-engine to be employed in existing QM/MM software. We demonstrate that the implemented electrostatic machine learning embedding scheme (named EMLE) is stable in enhanced sampling molecular dynamics simulations. Through the calculation of free energy surfaces of alanine dipeptide in water with two different ML options for the in vacuo potential and three embedding models, we test the performance of EMLE. When compared to the reference DFT/MM surface, the EMLE embedding is clearly superior to the MM one based on fixed partial charges. The configurational dependence of the electronic density and the inclusion of the induction energy introduced by the EMLE model leads to a systematic reduction in the average error of the free energy surface when compared to MM embedding. By enabling the usage of EMLE embedding in practical ML/MM simulations, emle-engine will make it possible to accurately model systems and processes that feature significant variations in the charge distribution of the ML subsystem and/or the interacting environment.    
-
-    
-
-* Facile Synthesis of Tunable Ultra-Thin Anodes for Long-Lasting and High-Energy-Density Lithium Metal Batteries  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399097595
-:TOPICS: Lithium-ion Battery Technology, Lithium Battery Technologies, Synthesis and Properties of Inorganic Cluster Compounds
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4844308")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399097595"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399097595"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399097595"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399097595 (Open access: False)
-    
-[[https://openalex.org/A5057480817][Tao Du]], [[https://openalex.org/A5077291181][Weimin Chen]], [[https://openalex.org/A5090011683][Yue Shen]], [[https://openalex.org/A5088276337][Wenzhu Cao]], [[https://openalex.org/A5064074348][Wenwen Miao]], [[https://openalex.org/A5035766233][Zonghe Lai]], [[https://openalex.org/A5064530138][Hong Chen]], [[https://openalex.org/A5054963574][Shanshan Yang]], [[https://openalex.org/A5013427664][Liang Wang]], [[https://openalex.org/A5080606995][Faquan Yu]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4844308 
-     
-No abstract    
-
-    
 
 * Tunable layered Mn oxides for oxygen electrocatalysis  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -728,27 +665,6 @@ No abstract
 
     
 
-* Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399262784
-:TOPICS: Electrocatalysis for Energy Conversion, Applications of Quantum Dots in Nanotechnology, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mcat.2024.114243")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399262784"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399262784"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399262784"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399262784 (Open access: False)
-    
-[[https://openalex.org/A5097081565][Raluca-Ioana Jalbă]], [[https://openalex.org/A5018537218][Dragoș Lucian Isac]], [[https://openalex.org/A5065931978][Ștefan Gabriel Soriga]], [[https://openalex.org/A5036814830][Isabela C. Man]], Molecular catalysis. 563(None)] 2024. https://doi.org/10.1016/j.mcat.2024.114243 
-     
-No abstract    
-
-    
-
 * Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399274810
@@ -767,27 +683,6 @@ OpenAlex: https://openalex.org/W4399274810 (Open access: False)
 [[https://openalex.org/A5032610530][Seokhyun Choung]], [[https://openalex.org/A5006370255][Won Il Park]], [[https://openalex.org/A5030900005][Jeong Hyun Moon]], [[https://openalex.org/A5086565285][Jeong Woo Han]], Chemical engineering journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.152757 
      
 The urgency of tackling climate change is driving a global shift towards renewable sources of energy, with a growing contribution from alternative energy sources such as solar, wind and hydroelectric power. With the global push for the sustainable energy, the demand for effective catalysts for sustainable chemical production and energy storage has been rapidly increasing. Computational simulations have contributed to the rational design of catalysts by allowing profound analysis of catalyst properties. Machine learning potential (MLP) has emerged as a potential tool to bridge the gap between quantum mechanical accuracy and computational efficiency, overcoming the computational cost limitations of quantum chemistry-based simulations. This review discusses the development and application of MLP in multiscale simulations of heterogeneous catalysis. It covers the basic concepts of computational catalysis, the construction of MLP focusing on efficient datasets, atomic structure representations, and the process of training and evaluating of ML models. Furthermore, the potential applications of MLP are discussed in addressing computational challenges within the field, as MLP has potential to overcome limitations in simulation time and length scale. Lastly, the prospects for MLP are presented, taking advantage of the rapid advancements in artificial intelligence architectures. It is expected that the integration of MLP will accelerate progress within the catalyst research community and will bridge the gap between theoretical and experimental approaches in catalytic research.    
-
-    
-
-* Influence of the Atomic Local Environment on the ORR Activity of Single-Atom Catalysts in N-Doped Graphene  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399085331
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Lithium-ion Battery Technology
-:PUBLICATION_DATE: 2024-05-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsaem.4c00518")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399085331"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399085331"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399085331"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399085331 (Open access: False)
-    
-[[https://openalex.org/A5075146866][L.A. Alvarado-Leal]], [[https://openalex.org/A5087469490][J.I. Paez-Ornelas]], [[https://openalex.org/A5022530640][H. N. Fernández-Escamilla]], [[https://openalex.org/A5009045468][E. Pérez‐Tijerina]], [[https://openalex.org/A5011173370][J. Guerrero-Sánchez]], [[https://openalex.org/A5061581191][J. M. Romo-Herrera]], [[https://openalex.org/A5011552496][Noboru Takeuchi]], ACS applied energy materials. None(None)] 2024. https://doi.org/10.1021/acsaem.4c00518 
-     
-No abstract    
 
     
 
@@ -891,6 +786,27 @@ Abstract Strain engineering has been widely used to optimize platinum‐based ox
 OpenAlex: https://openalex.org/W4399255455 (Open access: False)
     
 [[https://openalex.org/A5020871218][Saravana Pandi Sivaji]], [[https://openalex.org/A5039136667][Subramaniyan Pulikkutty]], [[https://openalex.org/A5002027079][Shen‐Ming Chen]], [[https://openalex.org/A5002027079][Shen‐Ming Chen]], [[https://openalex.org/A5041444490][Wedad A. Al-onazi]], [[https://openalex.org/A5057338255][Tahani Saad Algarni]], [[https://openalex.org/A5077639126][Mohamed S. Elshikh]], Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research & design. None(None)] 2024. https://doi.org/10.1016/j.psep.2024.06.001 
+     
+No abstract    
+
+    
+
+* Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399262784
+:TOPICS: Electrocatalysis for Energy Conversion, Applications of Quantum Dots in Nanotechnology, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-06-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mcat.2024.114243")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399262784"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399262784"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399262784"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399262784 (Open access: False)
+    
+[[https://openalex.org/A5097081565][Raluca-Ioana Jalbă]], [[https://openalex.org/A5018537218][Dragoş Lucian Isac]], [[https://openalex.org/A5065931978][Ștefan Gabriel Soriga]], [[https://openalex.org/A5036814830][Isabela C. Man]], Molecular catalysis. 563(None)] 2024. https://doi.org/10.1016/j.mcat.2024.114243 
      
 No abstract    
 
@@ -1043,6 +959,69 @@ We report a comprehensive set of density functional theory calculations on the f
 
     
 
+* Catalytic battle of activated carbon supported transition metal atom towards adsorption and dissociation of molecular hydrogen: Progress towards quantum chemical application on renewable energy resource  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399318217
+:TOPICS: Materials and Methods for Hydrogen Storage, Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-06-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jmgm.2024.108804")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399318217"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399318217"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399318217"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399318217 (Open access: False)
+    
+[[https://openalex.org/A5078364841][Abhijit Dutta]], [[https://openalex.org/A5023445911][Amit Kumar Pradhan]], [[https://openalex.org/A5075335085][Paritosh Mondal]], Journal of molecular graphics & modelling/Journal of molecular graphics and modelling. None(None)] 2024. https://doi.org/10.1016/j.jmgm.2024.108804 
+     
+No abstract    
+
+    
+
+* Constant potential energetics of metallic and semiconducting electrodes: A benchmark study on 2D materials  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399320804
+:TOPICS: Two-Dimensional Materials, Thermoelectric Materials, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-06-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0202849")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399320804"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399320804"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399320804"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399320804 (Open access: True)
+    
+[[https://openalex.org/A5054660302][Hedda Oschinski]], [[https://openalex.org/A5058877196][Nicolas G. Hörmann]], [[https://openalex.org/A5024866637][Karsten Reuter]], Journal of chemical physics online/The Journal of chemical physics/Journal of chemical physics. 160(21)] 2024. https://doi.org/10.1063/5.0202849  ([[https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0202849/19975267/214706_1_5.0202849.pdf][pdf]])
+     
+Grand-canonical (GC) constant-potential methods within an implicit solvent environment provide a general approach to compute the potential-dependent energetics at electrified solid–liquid interfaces with first-principles density-functional theory. Here, we use a mindfully chosen set of 27 isostructural 2D metal halides MX2 to analyze the variation of this energetics when the electronic structure changes from metallic to semiconducting and insulating state. Apart from expectable changes due to the opening up of the electronic bandgap, the calculations also show an increasing sensitivity to the numerical Brillouin zone integration and electronic smearing, which imposes computational burdens in practice. We rationalize these findings within the picture of the total interfacial capacitance arising from a series connection of the electrochemical double-layer capacitance and the so-called quantum capacitance resulting from the filling of electronic states inside the electrode. For metals, the electrochemical double-layer capacitance dominates at all potentials, and the entire potential drop takes place in the electrolyte. For semiconductors, the potential drop occurs instead fully or partially inside the electrode at potentials within or just outside the bandgap. For 2D semiconductors, the increased sensitivity to numerical parameters then results from the concomitantly increased contribution of the quantum capacitance that is harder to converge. Fortunately, this understanding motivates a simple extension of the CHE + DL approximation for metals, which provides the approximate GC energetics of 2D semiconductors using only quantities that can be obtained from computationally undemanding calculations at the point of zero charge and a generic double-layer capacitance.    
+
+    
+
+* Plugin-based interoperability and ecosystem management for the MolSSI Driver Interface Project  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399321824
+:TOPICS: Distributed Storage Systems and Network Coding, Management and Reproducibility of Scientific Workflows, Droplet Microfluidics Technology
+:PUBLICATION_DATE: 2024-06-04
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1063/5.0214279")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399321824"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399321824"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399321824"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399321824 (Open access: False)
+    
+[[https://openalex.org/A5008965700][Taylor Barnes]], [[https://openalex.org/A5041667472][Sara Ellis]], [[https://openalex.org/A5040054228][J. Chen]], [[https://openalex.org/A5068520992][Steven J. Plimpton]], [[https://openalex.org/A5015951697][Jessica A. Nash]], Journal of chemical physics online/The Journal of chemical physics/Journal of chemical physics. 160(21)] 2024. https://doi.org/10.1063/5.0214279 
+     
+The MolSSI Driver Interface (MDI) Project is an effort to simplify and standardize the process of enabling tight interoperability between independently developed code bases and is supported by numerous software packages across the domain of chemical physics. It enables a wide variety of use cases, including quantum mechanics/molecular mechanics, advanced sampling, path integral molecular dynamics, machine learning, ab initio molecular dynamics, etc. We describe two major developments within the MDI Project that provide novel solutions to key interoperability challenges. The first of these is the development of the MDI Plugin System, which allows MDI-supporting libraries to be used as highly modular plugins, with MDI enforcing a standardized application programming interface across plugins. Codes can use these plugins without linking against them during their build process, and end-users can select which plugin(s) they wish to use at runtime. The MDI Plugin System features a sophisticated callback system that allows codes to interact with plugins on a highly granular level and represents a significant advancement toward increased modularity among scientific codes. The second major development is MDI Mechanic, an ecosystem management tool that utilizes Docker containerization to simplify the process of developing, validating, maintaining, and deploying MDI-supporting codes. Additionally, MDI Mechanic provides a framework for launching MDI simulations in which each interoperating code is executed within a separate computational environment. This eliminates the need to compile multiple production codes within a single computational environment, reducing opportunities for dependency conflicts and lowering the barrier to entry for users of MDI-enabled codes.    
+
+    
+
 * Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399173353
@@ -1085,52 +1064,10 @@ Xavier Crispin, my main supervisor who is a great person and a great scientist, 
 
     
 
-* Ultrathin 2D Alloyed Cu−Ga−Zn−S Curved Nanobelts for Boosting Visible‐Light Photocatalytic Hydrogen Evolution  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399079659
-:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Applications of Quantum Dots in Nanotechnology, Formation and Properties of Nanocrystals and Nanostructures
-:PUBLICATION_DATE: 2024-05-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adfm.202407271")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399079659"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399079659"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399079659"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399079659 (Open access: False)
-    
-[[https://openalex.org/A5018073672][Yu Liu]], [[https://openalex.org/A5079254836][Mengmeng Ma]], [[https://openalex.org/A5005325306][Yi Ding]], [[https://openalex.org/A5039725026][Qi Zhou]], [[https://openalex.org/A5010479652][Jie Chen]], [[https://openalex.org/A5035458616][Yangyang Bian]], [[https://openalex.org/A5048827697][Wentao Niu]], [[https://openalex.org/A5032131689][Chunhe Yang]], [[https://openalex.org/A5058631686][Zhe Yin]], [[https://openalex.org/A5028846372][Zhijie Wang]], [[https://openalex.org/A5080291795][Aiwei Tang]], Advanced functional materials. None(None)] 2024. https://doi.org/10.1002/adfm.202407271 
-     
-Abstract 2D semiconductor nanomaterials have received significant attention as photocatalysts for solar‐to‐hydrogen conversion due to their robust light absorption capacity, large specific surface area, and superior electron transport characteristics. Nevertheless, it is challenging to develop 2D quaternary copper‐based sulfides (QCSs) with functional integration of conducive structural features for photocatalysis from multiple elements and intricate control conditions. Herein, ultrathin 2D alloyed Cu−Ga−Zn−S (CGZS) curved nanobelts (NBs) are fabricated by using a facile one‐pot colloidal method. Subsequently, the derived Cu 31 S 16 ‐CGZS Janus heterostructures are designed by increasing Cu concentrations. The formation mechanism of 2D curved alloys and Janus heterostructures is systematically investigated. Without cocatalysts, curved alloyed CGZS NBs demonstrated superior photocatalytic activities of 1264.2 µmol g −1 h −1 compared to Janus heterostructured Cu 31 S 16 −CGZS (463.1 µmol g −1 h −1 ) under visible light (> 400 nm). Experimental and theoretical results unveiled that the improved photocatalytic activities of curved CGZS NBs can be attributed to enhanced charge–carrier separation efficiency resulting from high crystallinity and ultrathin 2D structure, abundant active sites from curved structure, high‐active (0001) crystal facet with the lowest reaction Gibbs energy, work function, and metal‐like properties. This work offers new insights into functional integration into ultrathin 2D QCSs with enhanced visible‐light photocatalytic performance.    
-
-    
-
-* Computational exploration of two-dimensional vacancy-free boridene sheet and its derivatives: high stabilities and the promise for hydrogen evolution reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399090575
-:TOPICS: Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Synthesis and Properties of Boron-based Materials, Synthesis and Properties of Inorganic Cluster Compounds
-:PUBLICATION_DATE: 2024-05-28
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.20517/microstructures.2023.80")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399090575"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399090575"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399090575"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399090575 (Open access: True)
-    
-[[https://openalex.org/A5031895402][Yixin Zhao]], [[https://openalex.org/A5076668388][Jincan Zhang]], [[https://openalex.org/A5091039676][Fengxian Ma]], [[https://openalex.org/A5017791365][Hongbo Wu]], [[https://openalex.org/A5054871400][Weizhen Meng]], [[https://openalex.org/A5087622816][Ying Liu]], [[https://openalex.org/A5076182505][Yalong Jiao]], [[https://openalex.org/A5082839443][Aijun Du]], Microstructures. 4(3)] 2024. https://doi.org/10.20517/microstructures.2023.80  ([[https://f.oaes.cc/xmlpdf/79e5e5e3-723f-41e3-b484-8c8baf206550/microstructures3080.pdf][pdf]])
-     
-The recent synthesis of a two-dimensional (2D) MBene sheet, referred to as the boridene sheet (Mo4B6Tz), has ignited considerable interest in exploring 2D transition metal borides. Boridene has an ordered arrangement of metal vacancies, which are pivotal to its stability. Employing first-principles calculations, we explored the stable phases, electronic properties and catalytic abilities of boridene with different vacancy concentrations (Vm). Our results demonstrate that Vm significantly influences the cohesive energies of boridene sheets. Phonon spectrum and ab initio molecular dynamics simulations reveal the high stability of the vacancy-free boridene Mo6B6T6 (T = O, -OH), underscoring their potential for experimental realization. Substituting Mo atoms with Nb, Ta, or W enhances the structural stability of boridene sheets, leading to the identification of four stable variants: Nb6B6F6, Ta6B6F6, Ta6B6O6, and W6B6O6. These boridene sheets exhibit metallic behavior, with five structures displaying near-zero Gibbs free energy for hydrogen atom adsorption, indicating their potential as catalysts for the hydrogen evolution reaction. The uncovering of vacancy-free boridenes and their 2D derivatives greatly broadens the scope of the MBene family.    
-
-    
-
 * ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399290669
-:TOPICS: Accelerating Materials Innovation through Informatics, Chemistry and Applications of Metal-Organic Frameworks, Zeolite Chemistry and Catalysis
+:TOPICS: Accelerating Materials Innovation through Informatics, Chemistry and Applications of Metal-Organic Frameworks, Powder Diffraction Analysis
 :PUBLICATION_DATE: 2024-06-03
 :END:    
     
@@ -1151,7 +1088,7 @@ Abstract ChatMOF is an artificial intelligence (AI) system that is built to pred
 * Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399305702
-:TOPICS: Accelerating Materials Innovation through Informatics, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
+:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-06-03
 :END:    
     

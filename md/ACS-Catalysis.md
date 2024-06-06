@@ -1,87 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Wed Jun  5 01:07:23 2024
+Created on Thu Jun  6 01:07:17 2024
 
-Found 28 results from 2024-05-29 to 2024-06-05
+Found 23 results from 2024-05-30 to 2024-06-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Unraveling the Oxidation Mechanism of Formic Acid on Pd(111) Electrode: Implication from pH Effect and H/D Kinetic Isotope Effect   
-
-OpenAlex: https://openalex.org/W4399076856    
-Open access: True
-    
-[Zhen Wei](https://openalex.org/A5027895884), [Mengke Zhang](https://openalex.org/A5045647029), [Yan-Hao Yu](https://openalex.org/A5003321212), [Jun Cai](https://openalex.org/A5041017754), [Yan‐Xia Chen](https://openalex.org/A5052320092), [Juan M. Feliu](https://openalex.org/A5029352707), [Enrique Herrero](https://openalex.org/A5005047028), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02040 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02040)).
-    
-No abstract    
-
-    
-
-## Surface Self-Cleaning Effect of Bifunctional Catalyst To Boost the High Yield Production of Aromatics Directly from Syngas   
-
-OpenAlex: https://openalex.org/W4399085851    
-Open access: False
-    
-[Lin Zhang](https://openalex.org/A5021541475), [Junjie Su](https://openalex.org/A5030322536), [Chang Liu](https://openalex.org/A5022256556), [Su Liu](https://openalex.org/A5036622608), [Haibo Zhou](https://openalex.org/A5076688202), [Wenqian Jiao](https://openalex.org/A5023635125), [Yongfeng Hu](https://openalex.org/A5024517164), [Xin Feng](https://openalex.org/A5060758058), [Yiqing Lu](https://openalex.org/A5032922367), [Yingchun Ye](https://openalex.org/A5090307804), [Xusheng Zheng](https://openalex.org/A5036055317), [Yida Zhang](https://openalex.org/A5024459672), [Yang-Dong Wang](https://openalex.org/A5021965317), [Heyong He](https://openalex.org/A5073668210), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01110.
-    
-No abstract    
-
-    
-
-## Selective α-Hydroxyketone Formation and Subsequent C–C Bond Cleavage by Cytochrome P450 Monooxygenase Enzymes   
-
-OpenAlex: https://openalex.org/W4399086392    
-Open access: False
-    
-[Joel H. Z. Lee](https://openalex.org/A5006039210), [Tom Coleman](https://openalex.org/A5018514154), [Mark A. McLean](https://openalex.org/A5067273795), [Matthew N. Podgorski](https://openalex.org/A5002764123), [Eva F. Hayball](https://openalex.org/A5092759749), [Isobella S. J. Stone](https://openalex.org/A5029495439), [John B. Bruning](https://openalex.org/A5063368213), [Fiona Whelan](https://openalex.org/A5049108590), [James J. De Voss](https://openalex.org/A5018549180), [Stephen G. Sligar](https://openalex.org/A5081446055), [Stephen Bell](https://openalex.org/A5027128497), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01766.
-    
-The heme enzymes of the cytochrome P450 superfamily (CYPs) catalyze oxidation reactions with a high level of selectivity. Here, the CYP199A4 enzyme from the bacterium Rhodopseudomonas palustris HaA2 is used to catalyze the hydroxylation of carbonyl-containing compounds to generate α-hydroxyketones. Both 4-propionyl- and 4-(2-oxopropyl)-benzoic acids were regioselectively hydroxylated by this enzyme to generate α-hydroxyketone metabolites, 4-(2-hydroxypropanoyl)benzoic acid and 4-(1-hydroxy-2-oxopropyl)benzoic acid, respectively, with high stereoselectivity. Co-crystallization of CYP199A4 with each substrate allowed high-resolution X-ray crystal structures of the enzyme bound with both to be determined. These provide a rationale for biochemical observations related to substrate binding and activity. As these versatile enzymes have a demonstrated ability to support carbon–carbon (C–C) bond cleavage (lyase) reactions on α-hydroxyketones, we assessed if this activity would be catalyzed by wild-type (WT) CYP199A4. Molecular dynamics (MD) simulations predicted the regioselective hydroxylation of each substrate but indicated that the WT enzyme would not be a good catalyst for lyase activity, in agreement with the experimental observations. The MD simulations also suggested the F182L mutant of CYP199A4 would permit closer approach of the substrate to the ferric-peroxo intermediate, enabling the formation of the lyase transition state. Indeed, this variant was observed to catalyze the cleavage reaction. Furthermore, the F182A variant of CYP199A4 was used to catalyze both the hydroxylation and C–C bond cleavage reactions with both 4-propionyl- and 4-(2-oxopropyl)-benzoic acids using hydrogen peroxide as the oxidant. This dual CYP activity is analogous to that supported by the mammalian CYP17A1 enzyme in steroid biosynthesis.    
-
-    
-
-## Catalytic Enantioselective (3+2) Annulations of Nucleophilic Thioacyl Rh(I)-Carbenes with Achmatowicz Rearrangement Products   
-
-OpenAlex: https://openalex.org/W4399090267    
-Open access: False
-    
-[Cunzhi Chen](https://openalex.org/A5057462470), [Kang Lv](https://openalex.org/A5068638485), [You‐Wei Chen](https://openalex.org/A5036101212), [Hongguang Du](https://openalex.org/A5053974832), [Jiaxi Xu](https://openalex.org/A5090999047), [Tao Liu](https://openalex.org/A5006729322), [Zhanhui Yang](https://openalex.org/A5042917844), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02814.
-    
-No abstract    
-
-    
-
-## Exclusively Ligand-Redox-Promoted C–H Tertiary Alkylation of Heteroarenes   
-
-OpenAlex: https://openalex.org/W4399091786    
-Open access: False
-    
-[Vikramjeet Singh](https://openalex.org/A5071302238), [Abhishek Kundu](https://openalex.org/A5086765861), [Kilian Weißer](https://openalex.org/A5080129084), [Arijit Singha Hazari](https://openalex.org/A5082807868), [Debashis Adhikari](https://openalex.org/A5081346085), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01388.
-    
-No abstract    
-
-    
-
-## Nickel(II)-Catalyzed Asymmetric Inverse-Electron-Demand Diels–Alder Reaction of 2-Pyrones with Styrenes and Indenes   
-
-OpenAlex: https://openalex.org/W4399091788    
-Open access: False
-    
-[Hong‐Jie Yu](https://openalex.org/A5013331380), [Yang-Guang Chen](https://openalex.org/A5069293461), [Tian Yin](https://openalex.org/A5009374812), [Ming‐Sheng Xie](https://openalex.org/A5081137661), [Hai‐Ming Guo](https://openalex.org/A5089663065), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02072.
-    
-No abstract    
-
-    
-
-## Chemo- and Regioselective Nickel-Catalyzed Reductive 1,4-Alkylarylation of 1,3-Enynes through an L2NiAr Intermediate   
-
-OpenAlex: https://openalex.org/W4399103846    
-Open access: False
-    
-[Ji Hwan Jeon](https://openalex.org/A5056195109), [Gun Ha Kim](https://openalex.org/A5029598165), [Ho Seung Lee](https://openalex.org/A5055741741), [Da Hye Kim](https://openalex.org/A5042090068), [Soochan Lee](https://openalex.org/A5013584794), [Wonyoung Choe](https://openalex.org/A5044210377), [Byunghyuck Jung](https://openalex.org/A5063361478), [Jan‐Uwe Rohde](https://openalex.org/A5025861594), [Sung You Hong](https://openalex.org/A5066992242), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01189.
-    
-Three-component reductive dicarbofunctionalization reactions of 1,3-enynes have been rarely reported because of the intricate control of chemo- and regioselectivity required, coupled with a limited understanding of radical and catalytic species involved. Herein, we report a nickel-catalyzed reductive 1,4-alkylarylation method for 1,3-enynes to yield tri- and tetrasubstituted allenes using readily accessible alkyl and aryl iodides, featuring a simple operational protocol and mild reaction conditions. In our mechanistic studies, the formation of a propargyl/allenyl radical was substantiated by the isolation of a propargyl dimer, the detection of the corresponding TEMPO–radical adduct, and radical probe experiments. Two reduced L2NiAr complexes, expected to act as catalytic intermediates, were generated and characterized by EPR spectroscopy as NiI complexes. The stoichiometric reaction of L2Ni(p-NCC6H4) with 1,3-enyne and alkyl iodide showed conversion into the corresponding propargyl dimer and allene, suggesting that the reaction encompasses the same key mechanistic steps as the catalytic reaction, i.e., activation of alkyl iodide, generation of a propargyl/allenyl radical, and selective coupling of this radical with the aryl component.    
-
-    
 
 ## Enhanced Solar-to-Hydrogen Conversion and Hydrogen Isotope Separation through Interfacial Hydrogen-Bond Engineering and Homolytic O–H Cleavage on Multianionic Sulfides in Large-Scale Floating Nanocomposites   
 
@@ -311,5 +234,27 @@ Open access: True
 [Umber Sajjad](https://openalex.org/A5099000586), [Ave Sarapuu](https://openalex.org/A5026470864), [John C. Douglin](https://openalex.org/A5085539538), [Arvo Kikas](https://openalex.org/A5055185943), [Alexey Treshchalov](https://openalex.org/A5087819640), [Maike Käärik](https://openalex.org/A5084057330), [Jekaterina Kozlova](https://openalex.org/A5038126887), [Jaan Aruväli](https://openalex.org/A5057664163), [Jaan Leis](https://openalex.org/A5002964612), [Vambola Kisand](https://openalex.org/A5050547923), [Kaupo Kukli](https://openalex.org/A5034289485), [Dario R. Dekel](https://openalex.org/A5065902234), [Kaido Tammeveski](https://openalex.org/A5059851555), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02136 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02136)).
     
 A facile method for the preparation of precious metal-free catalysts for the oxygen reduction reaction (ORR) from lignin, dicyandiamide, and transition metal salts is presented. Magnesium acetate was employed as a precursor for a sacrificial template, enhancing the porous structure of the catalysts. Iron content in the catalyst materials was optimized and a bimetallic catalyst containing Fe and Co was also prepared. The physicochemical analysis revealed uniform dispersion of various nitrogen moieties and transition metal centers on sheet-like carbon structures, along with some carbon-encapsulated metal-rich nanoparticles. Rotating disc electrode tests in an alkaline solution demonstrated the dependence of the ORR performance of the catalysts on their iron content and confirmed the high stability of both iron and bimetallic catalysts over 10,000 potential cycles. Anion-exchange membrane fuel cell (AEMFC) studies revealed that the bimetallic catalyst outperforms the Fe-containing material, achieving a very promising peak power density of 675 mW cm–2 at 60 °C and 833 mW cm–2 at 80 °C.    
+
+    
+
+## Lattice Oxygen Activation Triggered by Ultrasonic Shock Significantly Improves NO Selective Catalytic Reduction   
+
+OpenAlex: https://openalex.org/W4399320398    
+Open access: False
+    
+[Wei Wang](https://openalex.org/A5062755510), [Baoli Zhu](https://openalex.org/A5048705700), [Songil Sin](https://openalex.org/A5007189808), [Zhiqiang Zhang](https://openalex.org/A5009232540), [Chong Tan](https://openalex.org/A5019998681), [Zhiwen Gu](https://openalex.org/A5081365566), [Song Wang](https://openalex.org/A5008346918), [Chunkai Huang](https://openalex.org/A5025583524), [Min Tao](https://openalex.org/A5077934134), [Chenghua Zhang](https://openalex.org/A5051618631), [Changjin Tang](https://openalex.org/A5065664936), [Lin Dong](https://openalex.org/A5073123246), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02400.
+    
+The precise regulation of lattice oxygen is crucial for many redox reactions, but it still remains a formidable challenge. Herein, we reported a facile strategy to induce generation of bulk phase defects in hematite (α-Fe2O3) by ultrasonic treatment, thus achieving exclusive lattice oxygen activation without additional alternation of surface adsorbed oxygen species. This kind of unique lattice oxygen activation afforded negligible disturbance of NH3 adsorption but significant influence on NO2 generation via accelerated oxygen diffusion, resulting in enhanced activity contribution from the Fast-SCR reaction pathway. Particularly, the generation of bulk-phase defects was also found to be conducive to create thermally instable and chemically reactive surface nitrate species, which played a decisive role in activating NO reactant. Accordingly, a triple increment in the deNOx performance of the α-Fe2O3 catalyst for the reaction of selective catalytic reduction of NO with NH3 (NH3–SCR) was achieved.    
+
+    
+
+## Photocatalytic Reductive Functionalization of Aryl Alkynes via Alkyne Radical Anions   
+
+OpenAlex: https://openalex.org/W4399322479    
+Open access: False
+    
+[Xiaogang Tong](https://openalex.org/A5064380782), [Zugen Wu](https://openalex.org/A5052777600), [Hwee Ting Ang](https://openalex.org/A5078764952), [Yinxing Miao](https://openalex.org/A5010126241), [Yixin Lü](https://openalex.org/A5066554626), [Jie Wu](https://openalex.org/A5038927058), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02638.
+    
+The direct reductive functionalization of alkynes under mild conditions presents a promising yet challenging avenue for accessing value-added molecules. Alkyne radical anions represent a distinct class of reactive intermediates characterized by both a charge and an unpaired electron, thus holding great potential for facilitating diverse bond formations, particularly in alkyne reductive functionalization. However, the synthetic utility of alkyne radical anions is limited, primarily due to the difficulty in their generation and the formation of highly unstable vinyl radical intermediates. In this study, we accomplished the direct generation of alkyne radical anions from aryl alkyne feedstocks via single electron transfer (SET) reduction with photogenerated CO2 radical anion (CO2•–), enabling reductive hydroalkylation, arylalkenylation, and hydrocarboxylation of aryl alkynes. Our photocatalytic strategy features metal-free catalysis, mild reaction conditions, employment of a traceless reductant, good functional group compatibility, step- and atom-economy, and high regioselectivity. This study not only paves the way for leveraging the underexplored alkyne radical anions but also catalyzes the ongoing exploration of the bifunctional CO2•– species in synthetic chemistry.    
 
     

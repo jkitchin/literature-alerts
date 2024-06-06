@@ -4,39 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2024 01:07:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 01:07:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Spontaneous&#8208;Spin&#8208;Polarized 2D &#960;&#8208;d Conjugated Frameworks Towards Enhanced Oxygen Evolution Kinetics</title>
-      <link>https://doi.org/10.1002/smll.202401987</link>
-      <description>Won Seok Lee, Hiroaki Maeda, Yen&#8208;Ting Kuo, Koki Muraoka, Naoya Fukui, Kenji Takada, Sono Sasaki, Hiroshi Nishihara, Akira Nakayama, Hong&#8208;Kang Tian, Hiroshi Nishihara, Ken Sakaushi, Small. None(None)] 2024. https://openalex.org/W4399070034
-
-                Abstract Alternative strategies to design sustainable&#8208;element&#8208;based electrocatalysts enhancing oxygen evolution reaction (OER) kinetics are demanded to develop affordable yet high&#8208;performance water&#8208;electrolyzers for green hydrogen production. Here, it is demonstrated that the spontaneous&#8208;spin&#8208;polarized 2D &#960;&#8208;d conjugated framework comprising abundant elements of nickel and iron with a ratio of Ni:Fe = 1:4 with benzenehexathiol linker (BHT) can improve OER kinetics by its unique electronic property. Among the bimetallic NiFe x:y &#8208;BHTs with various ratios with Ni:Fe = x:y, the NiFe 1:4 &#8208;BHT exhibits the highest OER activity. The NiFe 1:4 &#8208;BHT shows a specific current density of 140 A g &#8722;1 at the overpotential of 350 mV. This performance is one of the best activities among state&#8208;of&#8208;the&#8208;art non&#8208;precious OER electrocatalysts and even comparable to that of the platinum&#8208;group&#8208;metals of RuO 2 and IrO 2 . The density functional theory calculations uncover that introducing Ni into the homometallic Fe&#8208;BHT (e.g., Ni:Fe = 0:1) can emerge a spontaneous&#8208;spin&#8208;polarized state. Thus, this material can achieve improved OER kinetics with spin&#8208;polarization which previously required external magnetic fields. This work shows that a rational design of 2D &#960;&#8208;d conjugated frameworks can be a powerful strategy to synthesize promising electrocatalysts with abundant elements for a wide spectrum of next&#8208;generation energy devices.</description>
-      <author>Won Seok Lee, Hiroaki Maeda, Yen&#8208;Ting Kuo, Koki Muraoka, Naoya Fukui, Kenji Takada, Sono Sasaki, Hiroshi Nishihara, Akira Nakayama, Hong&#8208;Kang Tian, Hiroshi Nishihara, Ken Sakaushi</author>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202401987</guid>
-    </item>
-    <item>
-      <title>&lt;i&gt;emle-engine&lt;/i&gt;: A Flexible Electrostatic Machine Learning Embedding Package for Multiscale Molecular Dynamics Simulations</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00248</link>
-      <description>Kirill Zinovjev, Lester O. Hedges, Rub&#233;n Montagud Andreu, Christopher Woods, I&#241;aki Tu&#241;&#243;n, Marc W. van der Kamp, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4399091017
-
-                We present in this work the emle-engine package (https://github.com/chemle/emle-engine)&#9472;the implementation of a new machine learning embedding scheme for hybrid machine learning potential/molecular-mechanics (ML/MM) dynamics simulations. The package is based on an embedding scheme that uses a physics-based model of the electronic density and induction with a handful of tunable parameters derived from in vacuo properties of the subsystem to be embedded. This scheme is completely independent of the in vacuo potential and requires only the positions of the atoms of the machine learning subsystem and the positions and partial charges of the molecular mechanics environment. These characteristics allow emle-engine to be employed in existing QM/MM software. We demonstrate that the implemented electrostatic machine learning embedding scheme (named EMLE) is stable in enhanced sampling molecular dynamics simulations. Through the calculation of free energy surfaces of alanine dipeptide in water with two different ML options for the in vacuo potential and three embedding models, we test the performance of EMLE. When compared to the reference DFT/MM surface, the EMLE embedding is clearly superior to the MM one based on fixed partial charges. The configurational dependence of the electronic density and the inclusion of the induction energy introduced by the EMLE model leads to a systematic reduction in the average error of the free energy surface when compared to MM embedding. By enabling the usage of EMLE embedding in practical ML/MM simulations, emle-engine will make it possible to accurately model systems and processes that feature significant variations in the charge distribution of the ML subsystem and/or the interacting environment.</description>
-      <author>Kirill Zinovjev, Lester O. Hedges, Rub&#233;n Montagud Andreu, Christopher Woods, I&#241;aki Tu&#241;&#243;n, Marc W. van der Kamp</author>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00248</guid>
-    </item>
-    <item>
-      <title>Facile Synthesis of Tunable Ultra-Thin Anodes for Long-Lasting and High-Energy-Density Lithium Metal Batteries</title>
-      <link>https://doi.org/10.2139/ssrn.4844308</link>
-      <description>Tao Du, Weimin Chen, Yue Shen, Wenzhu Cao, Wenwen Miao, Zonghe Lai, Hong Chen, Shanshan Yang, Liang Wang, Faquan Yu, No host. None(None)] 2024. https://openalex.org/W4399097595
-
-                No abstract</description>
-      <author>Tao Du, Weimin Chen, Yue Shen, Wenzhu Cao, Wenwen Miao, Zonghe Lai, Hong Chen, Shanshan Yang, Liang Wang, Faquan Yu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4844308</guid>
-    </item>
     <item>
       <title>Tunable layered Mn oxides for oxygen electrocatalysis</title>
       <link>https://doi.org/10.1038/s41929-024-01144-1</link>
@@ -348,16 +318,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtadv.2024.100504</guid>
     </item>
     <item>
-      <title>Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114243</link>
-      <description>Raluca-Ioana Jalb&#259;, Drago&#537; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man, Molecular catalysis. 563(None)] 2024. https://openalex.org/W4399262784
-
-                No abstract</description>
-      <author>Raluca-Ioana Jalb&#259;, Drago&#537; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114243</guid>
-    </item>
-    <item>
       <title>Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects</title>
       <link>https://doi.org/10.1016/j.cej.2024.152757</link>
       <description>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399274810
@@ -366,16 +326,6 @@
       <author>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
-    </item>
-    <item>
-      <title>Influence of the Atomic Local Environment on the ORR Activity of Single-Atom Catalysts in N-Doped Graphene</title>
-      <link>https://doi.org/10.1021/acsaem.4c00518</link>
-      <description>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. P&#233;rez&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi, ACS applied energy materials. None(None)] 2024. https://openalex.org/W4399085331
-
-                No abstract</description>
-      <author>L.A. Alvarado-Leal, J.I. Paez-Ornelas, H. N. Fern&#225;ndez-Escamilla, E. P&#233;rez&#8208;Tijerina, J. Guerrero-S&#225;nchez, J. M. Romo-Herrera, Noboru Takeuchi</author>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsaem.4c00518</guid>
     </item>
     <item>
       <title>Do we achieve &#8220;1 + 1 &amp;gt; 2&#8221; in dual-atom or dual-single-atom catalysts?</title>
@@ -426,6 +376,16 @@
       <author>Saravana Pandi Sivaji, Subramaniyan Pulikkutty, Shen&#8208;Ming Chen, Shen&#8208;Ming Chen, Wedad A. Al-onazi, Tahani Saad Algarni, Mohamed S. Elshikh</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.psep.2024.06.001</guid>
+    </item>
+    <item>
+      <title>Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114243</link>
+      <description>Raluca-Ioana Jalb&#259;, Drago&#351; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man, Molecular catalysis. 563(None)] 2024. https://openalex.org/W4399262784
+
+                No abstract</description>
+      <author>Raluca-Ioana Jalb&#259;, Drago&#351; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114243</guid>
     </item>
     <item>
       <title>Reduced graphene oxide encapsulated octahedral NiSe2 nanocrystals with dominant {111} crystal facets for efficient hydrogen evolution reaction</title>
@@ -498,6 +458,36 @@
       <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.214404</guid>
     </item>
     <item>
+      <title>Catalytic battle of activated carbon supported transition metal atom towards adsorption and dissociation of molecular hydrogen: Progress towards quantum chemical application on renewable energy resource</title>
+      <link>https://doi.org/10.1016/j.jmgm.2024.108804</link>
+      <description>Abhijit Dutta, Amit Kumar Pradhan, Paritosh Mondal, Journal of molecular graphics &amp; modelling/Journal of molecular graphics and modelling. None(None)] 2024. https://openalex.org/W4399318217
+
+                No abstract</description>
+      <author>Abhijit Dutta, Amit Kumar Pradhan, Paritosh Mondal</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jmgm.2024.108804</guid>
+    </item>
+    <item>
+      <title>Constant potential energetics of metallic and semiconducting electrodes: A benchmark study on 2D materials</title>
+      <link>https://doi.org/10.1063/5.0202849</link>
+      <description>Hedda Oschinski, Nicolas G. H&#246;rmann, Karsten Reuter, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(21)] 2024. https://openalex.org/W4399320804
+
+                Grand-canonical (GC) constant-potential methods within an implicit solvent environment provide a general approach to compute the potential-dependent energetics at electrified solid&#8211;liquid interfaces with first-principles density-functional theory. Here, we use a mindfully chosen set of 27 isostructural 2D metal halides MX2 to analyze the variation of this energetics when the electronic structure changes from metallic to semiconducting and insulating state. Apart from expectable changes due to the opening up of the electronic bandgap, the calculations also show an increasing sensitivity to the numerical Brillouin zone integration and electronic smearing, which imposes computational burdens in practice. We rationalize these findings within the picture of the total interfacial capacitance arising from a series connection of the electrochemical double-layer capacitance and the so-called quantum capacitance resulting from the filling of electronic states inside the electrode. For metals, the electrochemical double-layer capacitance dominates at all potentials, and the entire potential drop takes place in the electrolyte. For semiconductors, the potential drop occurs instead fully or partially inside the electrode at potentials within or just outside the bandgap. For 2D semiconductors, the increased sensitivity to numerical parameters then results from the concomitantly increased contribution of the quantum capacitance that is harder to converge. Fortunately, this understanding motivates a simple extension of the CHE + DL approximation for metals, which provides the approximate GC energetics of 2D semiconductors using only quantities that can be obtained from computationally undemanding calculations at the point of zero charge and a generic double-layer capacitance.</description>
+      <author>Hedda Oschinski, Nicolas G. H&#246;rmann, Karsten Reuter</author>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0202849</guid>
+    </item>
+    <item>
+      <title>Plugin-based interoperability and ecosystem management for the MolSSI Driver Interface Project</title>
+      <link>https://doi.org/10.1063/5.0214279</link>
+      <description>Taylor Barnes, Sara Ellis, J. Chen, Steven J. Plimpton, Jessica A. Nash, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(21)] 2024. https://openalex.org/W4399321824
+
+                The MolSSI Driver Interface (MDI) Project is an effort to simplify and standardize the process of enabling tight interoperability between independently developed code bases and is supported by numerous software packages across the domain of chemical physics. It enables a wide variety of use cases, including quantum mechanics/molecular mechanics, advanced sampling, path integral molecular dynamics, machine learning, ab initio molecular dynamics, etc. We describe two major developments within the MDI Project that provide novel solutions to key interoperability challenges. The first of these is the development of the MDI Plugin System, which allows MDI-supporting libraries to be used as highly modular plugins, with MDI enforcing a standardized application programming interface across plugins. Codes can use these plugins without linking against them during their build process, and end-users can select which plugin(s) they wish to use at runtime. The MDI Plugin System features a sophisticated callback system that allows codes to interact with plugins on a highly granular level and represents a significant advancement toward increased modularity among scientific codes. The second major development is MDI Mechanic, an ecosystem management tool that utilizes Docker containerization to simplify the process of developing, validating, maintaining, and deploying MDI-supporting codes. Additionally, MDI Mechanic provides a framework for launching MDI simulations in which each interoperating code is executed within a separate computational environment. This eliminates the need to compile multiple production codes within a single computational environment, reducing opportunities for dependency conflicts and lowering the barrier to entry for users of MDI-enabled codes.</description>
+      <author>Taylor Barnes, Sara Ellis, J. Chen, Steven J. Plimpton, Jessica A. Nash</author>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0214279</guid>
+    </item>
+    <item>
       <title>Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)</title>
       <link>https://doi.org/10.2196/preprints.52655</link>
       <description>Francesco Invernici, Anna Bernasconi, Stefano Ceri, No host. None(None)] 2023. https://openalex.org/W4399173353
@@ -516,26 +506,6 @@
       <author>Arman Molaei</author>
       <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3384/9789180751407</guid>
-    </item>
-    <item>
-      <title>Ultrathin 2D Alloyed Cu&#8722;Ga&#8722;Zn&#8722;S Curved Nanobelts for Boosting Visible&#8208;Light Photocatalytic Hydrogen Evolution</title>
-      <link>https://doi.org/10.1002/adfm.202407271</link>
-      <description>Yu Liu, Mengmeng Ma, Yi Ding, Qi Zhou, Jie Chen, Yangyang Bian, Wentao Niu, Chunhe Yang, Zhe Yin, Zhijie Wang, Aiwei Tang, Advanced functional materials. None(None)] 2024. https://openalex.org/W4399079659
-
-                Abstract 2D semiconductor nanomaterials have received significant attention as photocatalysts for solar&#8208;to&#8208;hydrogen conversion due to their robust light absorption capacity, large specific surface area, and superior electron transport characteristics. Nevertheless, it is challenging to develop 2D quaternary copper&#8208;based sulfides (QCSs) with functional integration of conducive structural features for photocatalysis from multiple elements and intricate control conditions. Herein, ultrathin 2D alloyed Cu&#8722;Ga&#8722;Zn&#8722;S (CGZS) curved nanobelts (NBs) are fabricated by using a facile one&#8208;pot colloidal method. Subsequently, the derived Cu 31 S 16 &#8208;CGZS Janus heterostructures are designed by increasing Cu concentrations. The formation mechanism of 2D curved alloys and Janus heterostructures is systematically investigated. Without cocatalysts, curved alloyed CGZS NBs demonstrated superior photocatalytic activities of 1264.2 &#181;mol g &#8722;1 h &#8722;1 compared to Janus heterostructured Cu 31 S 16 &#8722;CGZS (463.1 &#181;mol g &#8722;1 h &#8722;1 ) under visible light (&gt; 400 nm). Experimental and theoretical results unveiled that the improved photocatalytic activities of curved CGZS NBs can be attributed to enhanced charge&#8211;carrier separation efficiency resulting from high crystallinity and ultrathin 2D structure, abundant active sites from curved structure, high&#8208;active (0001) crystal facet with the lowest reaction Gibbs energy, work function, and metal&#8208;like properties. This work offers new insights into functional integration into ultrathin 2D QCSs with enhanced visible&#8208;light photocatalytic performance.</description>
-      <author>Yu Liu, Mengmeng Ma, Yi Ding, Qi Zhou, Jie Chen, Yangyang Bian, Wentao Niu, Chunhe Yang, Zhe Yin, Zhijie Wang, Aiwei Tang</author>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202407271</guid>
-    </item>
-    <item>
-      <title>Computational exploration of two-dimensional vacancy-free boridene sheet and its derivatives: high stabilities and the promise for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.20517/microstructures.2023.80</link>
-      <description>Yixin Zhao, Jincan Zhang, Fengxian Ma, Hongbo Wu, Weizhen Meng, Ying Liu, Yalong Jiao, Aijun Du, Microstructures. 4(3)] 2024. https://openalex.org/W4399090575
-
-                The recent synthesis of a two-dimensional (2D) MBene sheet, referred to as the boridene sheet (Mo4B6Tz), has ignited considerable interest in exploring 2D transition metal borides. Boridene has an ordered arrangement of metal vacancies, which are pivotal to its stability. Employing first-principles calculations, we explored the stable phases, electronic properties and catalytic abilities of boridene with different vacancy concentrations (Vm). Our results demonstrate that Vm significantly influences the cohesive energies of boridene sheets. Phonon spectrum and ab initio molecular dynamics simulations reveal the high stability of the vacancy-free boridene Mo6B6T6 (T = O, -OH), underscoring their potential for experimental realization. Substituting Mo atoms with Nb, Ta, or W enhances the structural stability of boridene sheets, leading to the identification of four stable variants: Nb6B6F6, Ta6B6F6, Ta6B6O6, and W6B6O6. These boridene sheets exhibit metallic behavior, with five structures displaying near-zero Gibbs free energy for hydrogen atom adsorption, indicating their potential as catalysts for the hydrogen evolution reaction. The uncovering of vacancy-free boridenes and their 2D derivatives greatly broadens the scope of the MBene family.</description>
-      <author>Yixin Zhao, Jincan Zhang, Fengxian Ma, Hongbo Wu, Weizhen Meng, Ying Liu, Yalong Jiao, Aijun Du</author>
-      <pubDate>Tue, 28 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.20517/microstructures.2023.80</guid>
     </item>
     <item>
       <title>ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models</title>

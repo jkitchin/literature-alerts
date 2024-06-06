@@ -1,15 +1,15 @@
 #+TITLE: authors
 Description: List of authors
-Created on Wed Jun  5 01:07:16 2024
+Created on Thu Jun  6 01:07:11 2024
 
-Found 1 results from 2024-05-29 to 2024-06-05
+Found 1 results from 2024-05-30 to 2024-06-06
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5003442464]]
 
 * Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution  :authors:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399305702
-:TOPICS: Accelerating Materials Innovation through Informatics, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
+:TOPICS: Electrocatalysis for Energy Conversion, Accelerating Materials Innovation through Informatics, Catalytic Nanomaterials
 :PUBLICATION_DATE: 2024-06-03
 :END:    
     
