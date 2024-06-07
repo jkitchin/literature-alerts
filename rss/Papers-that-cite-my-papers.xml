@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 06 Jun 2024 01:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 01:10:05 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Tunable layered Mn oxides for oxygen electrocatalysis</title>
-      <link>https://doi.org/10.1038/s41929-024-01144-1</link>
-      <description>E Liu, Drew Higgins, Nature Catalysis. 7(5)] 2024. https://openalex.org/W4399121605
-
-                No abstract</description>
-      <author>E Liu, Drew Higgins</author>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01144-1</guid>
-    </item>
-    <item>
-      <title>Predictive Synthesis of Transition Metal Carbide via Thermochemical Oxocarbon Equilibrium</title>
-      <link>https://doi.org/10.1021/jacs.4c03820</link>
-      <description>Seo Jin Oh, Dohun Kim, Ji-Yong Kim, Geosan Kang, Junho Jeon, Miyoung Kim, Young&#8208;Chang Joo, Dae&#8208;Hyun Nam, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399123083
-
-                Fabricating nanoscale metal carbides is a great challenge due to them having higher Gibbs free energy of formation (&#916;G&#176;) values than other metal compounds; additionally, these carbides have harsh calcination conditions, in which metal oxidation is preferred in the atmosphere. Herein, we report oxocarbon-mediated calcination for the predictive synthesis of nanoscale metal carbides. The thermochemical oxocarbon equilibrium of CO&#8211;CO2 reactions was utilized to control the selective redox reactions in multiatomic systems of Mo&#8211;C&#8211;O, contributing to the phase-forming and structuring of Mo compounds. By harnessing the thermodynamically predicted processing window, we controlled a wide range of Mo phases (MoO2, &#945;-MoC1&#8211;x, and &#946;-Mo2C) and nanostructures (nanoparticle, spike, stain, and core/shell) in the Mo compounds/C nanofibers. By inducing simultaneous reactions of C&#8211;O (selective C combustion) and Mo&#8211;C (Mo carbide formation) in the nanofibers, Mo diffusion was controlled in C nanofibers, acting as a template for the nucleation and growth of Mo carbides and resulting in precise control of the phases and structures of Mo compounds. The formation mechanism of nanostructured Mo carbides was elucidated according to the CO fractions of CO&#8211;CO2 calcination. Moreover, tungsten (W) and niobium (Nb) carbides/C nanofibers have been successfully synthesized by CO&#8211;CO2 calcination. We constructed the thermodynamic map for the predictive synthesis of transition metal carbides to provide universal guideline via thermochemical oxocarbon equilibrium. We revealed that our thermochemical oxocarbon-mediated gas&#8211;solid reaction enabled the structure and phase control of nanoscale transition metal compounds to optimize the material&#8211;property relationship accordingly.</description>
-      <author>Seo Jin Oh, Dohun Kim, Ji-Yong Kim, Geosan Kang, Junho Jeon, Miyoung Kim, Young&#8208;Chang Joo, Dae&#8208;Hyun Nam</author>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03820</guid>
-    </item>
-    <item>
-      <title>The NOMAD mini-apps: A suite of kernels from ab initio electronic structure codes enabling co-design in high-performance computing</title>
-      <link>https://doi.org/10.12688/openreseurope.16920.2</link>
-      <description>Isidre Mas Magre, Rogeli Grima Torres, Jos&#233; Mar&#237;a, Jos&#233; Julio Guti&#233;rrez Moreno, Open research Europe. 4(None)] 2024. https://openalex.org/W4399124316
-
-                This article introduces a suite of mini-applications (mini-apps) designed to optimise computational kernels in ab initio electronic structure codes. The suite is developed from flagship applications participating in the NOMAD Center of Excellence, such as the ELPA eigensolver library and the GW implementations of the exciting, Abinit, and FHI-aims codes. The mini-apps were identified by targeting functions that significantly contribute to the total execution time in the parent applications. This strategic selection allows for concentrated optimisation efforts. The suite is designed for easy deployment on various High-Performance Computing (HPC) systems, supported by an integrated CMake build system for straightforward compilation and execution. The aim is to harness the capabilities of emerging (post)exascale systems, which necessitate concurrent hardware and software development &#8212; a concept known as co-design. The mini-app suite serves as a tool for profiling and benchmarking, providing insights that can guide both software optimisation and hardware design. Ultimately, these developments will enable more accurate and efficient simulations of novel materials, leveraging the full potential of exascale computing in material science research.</description>
-      <author>Isidre Mas Magre, Rogeli Grima Torres, Jos&#233; Mar&#237;a, Jos&#233; Julio Guti&#233;rrez Moreno</author>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.12688/openreseurope.16920.2</guid>
-    </item>
-    <item>
-      <title>Ultrafast Heating-Induced Suppression of &lt;i&gt;d&lt;/i&gt;-Band Dominance in the Electronic Excitation Spectrum of Cuprum</title>
-      <link>https://doi.org/10.1021/acsomega.4c02920</link>
-      <description>Zhandos A. Moldabekov, Thomas Gawne, Sebastian Schwalbe, Thomas R. Preston, Jan Vorberger, Tobias Dornheim, ACS omega. None(None)] 2024. https://openalex.org/W4399129821
-
-                No abstract</description>
-      <author>Zhandos A. Moldabekov, Thomas Gawne, Sebastian Schwalbe, Thomas R. Preston, Jan Vorberger, Tobias Dornheim</author>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsomega.4c02920</guid>
-    </item>
-    <item>
-      <title>Design of Multifunctional Electrocatalysts for ORR/OER/HER/HOR: Janus Makes Difference</title>
-      <link>https://doi.org/10.1002/smll.202404000</link>
-      <description>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang, Small. None(None)] 2024. https://openalex.org/W4399140360
-
-                Abstract Multifunctional electrocatalysts for hydrogen evolution reaction (HER), hydrogen oxidation reaction (HOR), oxygen evolution reaction (OER), and oxygen reduction reaction (ORR) have broad application prospects; However, realization of such kinds of materials remain difficulties because it requires the materials to have not only unique electronic properties, but multiple active centers to deal with different reactions. Here, employing density functional theory (DFT) computations, it is demonstrated that by decorating the Janus&#8208;type 2D transition metal dichalcogenide (TMD) of TaSSe with the single atoms, the materials can achieve multifunctionality to catalyze the ORR/OER/HER/HOR. Out of sixteen catalytic systems, Pt&#8208;V S (i.e., Pt atom embedded in the sulfur vacancy), Pd&#8208;V Se , and Pt&#8208;V Se @TaSSe are promising multifunctional catalysts with superior stability. Among them, the Pt&#8208;V S @TaSSe catalyst exhibits the highest activity with theoretical overpotentials &#951; ORR = 0.40 V, &#951; OER = 0.39 V, and &#951; HER/HOR = 0.07 V, respectively, better than the traditional Pt (111), IrO 2 (110). The interplays between the catalyst and the reaction intermediate over the course of the reaction are then systematically investigated. Generally, this study presents a viable approach for the design and development of advanced multifunctional electrocatalysts. It enriches the application of Janus, a new 2D material, in electrochemical energy storage and conversion technology.</description>
-      <author>Xinyu Yang, Long Lin, Xiangyu Guo, Shengli Zhang</author>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202404000</guid>
-    </item>
-    <item>
-      <title>There is no escape: How insertion of a single Fe, Co, Ni or Cu atom into lattice of &#946;-molybdenum carbide affects its fundamental properties and catalytic activity</title>
-      <link>https://doi.org/10.1016/j.surfin.2024.104533</link>
-      <description>Andrey A. Koverga, Elizabeth Fl&#243;rez, Edson A. Ticianelli, Surfaces and interfaces. None(None)] 2024. https://openalex.org/W4399142810
-
-                Impact of insertion of a single Fe, Co, Ni or Cu atom into crystalline lattice of orthorhombic Mo2C(001) surface on fundamental properties of the surface atoms has been investigated by means of density functional theory. Polar C- and Mo-terminated surfaces were used as model systems and two modes of the foreign atom insertion were considered: into the topmost Mo layer of the surface and into metal layer deeper in the structure of the host system. Calculations revealed that TM-modified Mo2C compounds were less stable than the pristine carbide with no significant changes in work function of the carbide surface, regardless of its termination, foreign atom nature, and its position in the host system. Furthermore, presence of either Fe, Co, Ni or Cu atom in subsurface or in the topmost metal layer of the terminations did not impact noticeably electronic structure of either C or Mo atoms closest to the modification site as evidenced from analysis of their density of states. Consequentially, insertion of foreign atoms into the lattice of molybdenum carbide results in atomic hydrogen stability close to that on the corresponding unmodified polar termination of the Mo2C(001) surface. In the context of experimentally observed changes in catalytic activity of molybdenum carbide toward hydrogen evolution reaction upon doping it with transition metals, the obtained data evidence that the major effect comes from the foreign atoms being adsorbed on molybdenum carbide surface, while insertion into the lattice bears no significant impact. This suggests that coating Mo2C surface with transition metals can be promising strategy to modify and tailor its catalytic properties for hydrogen production.</description>
-      <author>Andrey A. Koverga, Elizabeth Fl&#243;rez, Edson A. Ticianelli</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.surfin.2024.104533</guid>
-    </item>
-    <item>
-      <title>Experimental and theoretical studies of WO3/Vulcan XC-72 electrocatalyst enhanced H2O2 yield ORR performed in acid and alkaline medium</title>
-      <link>https://doi.org/10.1016/j.jece.2024.113182</link>
-      <description>Jo&#227;o Paulo Moura, Lanna E.B. Luchetti, Caio Machado Fernandes, Aline B. Trench, Camila Neves Lange, Bruno Lemos Batista, J. Almeida, Mauro C. Santos, Journal of environmental chemical engineering. None(None)] 2024. https://openalex.org/W4399142859
-
-                The oxygen reduction reaction (ORR) plays a pivotal role in clean energy generation and sustainable chemical production, particularly in the synthesis of hydrogen peroxide (H2O2). In this study, WO3/Vulcan-XC72 electrocatalysts have been synthesized and characterized for ORR applications. We assessed the ratio of WO3 to Vulcan-XC72 and investigated the impact of electrolytes pH (covering acidic and alkaline media) on the ORR process. The results revealed that WO3 with a monoclinic crystalline phase and nanoflower-like morphology was successfully synthesized, and confirmed an improvement in surface properties, with an increase in hydrophilicity and superficial oxygenated species. Electrochemical studies showed that WO3/C was the most selective for H2O2 electrogeneration, compared to pure Vulcan-XC72, in both acidic and alkaline media. These results indicate that the ORR on the WO3/C electrocatalyst surface has a pH-dependent mechanism. Using WO3/C GDEs, an accumulation of 862 mg L-1 of H2O2 was achieved after 120 min of electrolysis at 100 mA cm-2. The higher selectivity of WO3/C could be related to the presence of more oxygen functional acid species on the catalyst surface and increased hydrophilicity compared to pure Vulcan, as well as a synergistic effect of the WO3 nanoflowers in ORR, confirmed by theoretical calculations. The results reveal that WO3/Vulcan is a promising catalyst for H2O2 electrogeneration via the ORR.</description>
-      <author>Jo&#227;o Paulo Moura, Lanna E.B. Luchetti, Caio Machado Fernandes, Aline B. Trench, Camila Neves Lange, Bruno Lemos Batista, J. Almeida, Mauro C. Santos</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jece.2024.113182</guid>
-    </item>
     <item>
       <title>Computational Exploration of Subnano Zn and Cu Species on Cu/ZrO&lt;sub&gt;2&lt;/sub&gt;: Implications for Methanol Synthesis</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c01300</link>
@@ -156,16 +86,6 @@
       <author>Jichuan Huo, Qing Liu, Xiaofang Liu, Xue&#8208;Feng Cheng, Dongyun Chen, Najun Li, Kin Liao, Qingfeng Xu, Jianmei Lu</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00695</guid>
-    </item>
-    <item>
-      <title>Distribution Tendencies of Noble Metals on Fe(100) Using Lattice Gas Cluster Expansions</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c01402</link>
-      <description>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399176575
-
-                Fe-based catalysts are highly selective for the hydrodeoxygenation of biomass-derived oxygenates but are prone to oxidative deactivation. Promotion with a noble metal has been shown to improve oxidative resistance. The chemical properties of such bimetallic systems depend critically on the surface geometry and spatial configuration of surface atoms in addition to their coverage (i.e., noble metal loading), so these aspects must be taken into account in order to develop reliable models for such complex systems. This requires sampling a vast configurational space, which is rather impractical using density functional theory (DFT) calculations alone. Moreover, "DFT-based" models are limited to length scales that are often too small for experimental relevance. Here, we circumvent this challenge by constructing DFT-parametrized lattice gas cluster expansions (LG CEs), which can describe these types of systems at significantly larger length scales. Here, we apply this strategy to Fe(100) promoted with four technologically relevant precious metals: Pd, Pt, Rh, and Ru. The resultant LG CEs have remarkable predictive accuracy, with predictive errors below 10 meV/site over a coverage range of 0 to 2 monolayers. The ground state configurations for each noble metal were identified, and the analysis of the cluster energies reveals a significant disparity in their dispersion tendency.</description>
-      <author>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen</author>
-      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01402</guid>
     </item>
     <item>
       <title>Noble metal-free CZTS electrocatalysis: synergetic characteristics and emerging applications towards water splitting reactions</title>
@@ -328,16 +248,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
     </item>
     <item>
-      <title>Do we achieve &#8220;1 + 1 &amp;gt; 2&#8221; in dual-atom or dual-single-atom catalysts?</title>
-      <link>https://doi.org/10.1016/j.ccr.2024.215961</link>
-      <description>Yifeng Xue, Li&#8208;Li Xu, Yuxin Li, Coordination chemistry reviews. 516(None)] 2024. https://openalex.org/W4399150954
-
-                In recent years, the study of high utilization rates of metals in multiphase catalysis has sparked interest in various atomically dispersed catalysts. Compared to single-atom catalysts, diatomic catalysts not only retain advantages such as high active sites, unsaturated coordination environments, and unique electronic structures, but also incorporate multiple interactive mechanisms. This integration enables them to surpass the limits of single-atom catalysts in catalytic performance, demonstrating a unique ability of "1 + 1 &gt; 2". Consequently, diatomic catalysts turn out to be a hot topic in the field of catalytic reactions driven by coupling processes. Currently, catalysts that are loaded on material surfaces with two different single-atom-level metal coordination environments are commonly referred to as diatomic catalysts. Reviews reported to date mainly categorize and study the differences and advantages of homonuclear and heteronuclear bimetallic active centers in diatomic catalysts. However, this conceptual distinction has obscured the impact of spatial configuration differences on catalytic mechanisms. For diatomic catalysts, the differences in coordination environments between the two atoms lead to changes in spatial configuration, which in turn produce specific synergistic effects, greatly influencing the activity, selectivity, and stability of the catalytic reactions. With this in mind, this paper, for the first time, clarifies the definition of diatomic catalysts based on different spatial configurations, resolving long-standing confusion. Catalysts with two types of atoms dispersed in isolation without any connection are defined as dual-single-atom catalysts; those with two atoms connected either through a heteroatom bridge or direct bonding are defined as dual-atom catalysts. Additionally, this paper summarizes the latest research progress in the synthesis methods and technical characterization of these two types of catalysts. Furthermore, it explores the mechanisms of dual-core synergy and primary-secondary synergy in dual-single-atom catalysts, as well as the electron effects caused by distance effects and unique functional environments in dual-atom catalysts that contribute to enhancing the catalytic performance of dual-atom catalysts. These are key to achieving the "1 + 1 &gt; 2" catalytic performance in various catalytic fields for both dual-single-atom catalysts and dual-atom catalysts. Further, in the field of electrocatalysis, this paper reviews the structure&#8211;activity relationships of diatomic catalysts for various reactions and focuses on how in situ characterization techniques and first-principles calculations can reveal these relationships in depth. Finally, it explores the challenges faced by dual-atom catalysts and dual-single-atom catalysts in practical applications, offering new perspectives for the rational design and thorough research of efficient dual-atom catalysts and dual-single-atom catalysts in heterogeneous catalysis.</description>
-      <author>Yifeng Xue, Li&#8208;Li Xu, Yuxin Li</author>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ccr.2024.215961</guid>
-    </item>
-    <item>
       <title>Nitrogen reduction reaction enhanced by single-atom transition metal catalysts on functionalized graphene: A first-principles study</title>
       <link>https://doi.org/10.1016/j.ijhydene.2024.05.408</link>
       <description>Thillai Govindaraja Senthamaraikannan, Dong&#8208;Hee Lim, International journal of hydrogen energy. 72(None)] 2024. https://openalex.org/W4399158115
@@ -356,6 +266,16 @@
       <author>Gaurav Deshmukh, Noah J. Wichrowski, Nikolaos Evangelou, Pushkar Ghanekar, Siddharth Deshpande, Ioannis G. Kevrekidis, Jeffrey Greeley</author>
       <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41524-024-01256-z</guid>
+    </item>
+    <item>
+      <title>Distribution Tendencies of Noble Metals on Fe(100) Using Lattice Gas Cluster Expansions</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01402</link>
+      <description>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399176575
+
+                Fe-based catalysts are highly selective for the hydrodeoxygenation of biomass-derived oxygenates but are prone to oxidative deactivation. Promotion with a noble metal has been shown to improve oxidative resistance. The chemical properties of such bimetallic systems depend critically on the surface geometry and spatial configuration of surface atoms in addition to their coverage (i.e., noble metal loading), so these aspects must be taken into account in order to develop reliable models for such complex systems. This requires sampling a vast configurational space, which is rather impractical using density functional theory (DFT) calculations alone. Moreover, "DFT-based" models are limited to length scales that are often too small for experimental relevance. Here, we circumvent this challenge by constructing DFT-parametrized lattice gas cluster expansions (LG CEs), which can describe these types of systems at significantly larger length scales. Here, we apply this strategy to Fe(100) promoted with four technologically relevant precious metals: Pd, Pt, Rh, and Ru. The resultant LG CEs have remarkable predictive accuracy, with predictive errors below 10 meV/site over a coverage range of 0 to 2 monolayers. The ground state configurations for each noble metal were identified, and the analysis of the cluster energies reveals a significant disparity in their dispersion tendency.</description>
+      <author>Isaac G. Onyango, Greg Collinge, Yong Wang, Jean&#8208;Sabin McEwen</author>
+      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01402</guid>
     </item>
     <item>
       <title>Entropy&#8208;Driven Ostwald Ripening Reversal Promotes the Formation of Low&#8208;Platinum Intermetallic Fuel Cell Catalysts</title>
@@ -486,6 +406,16 @@
       <author>Taylor Barnes, Sara Ellis, J. Chen, Steven J. Plimpton, Jessica A. Nash</author>
       <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0214279</guid>
+    </item>
+    <item>
+      <title>Theoretical study of adsorption properties and CO oxidation reaction on surfaces of higher tungsten boride</title>
+      <link>https://doi.org/10.1038/s41598-024-63676-7</link>
+      <description>Aleksandra D. Radina, Viktor S. Baidyshev, Ilya V. Chepkasov, Nikita Matsokin, Tariq Altalhi, Boris I. Yakobson, Alexander G. Kvashnin, Scientific reports. 14(1)] 2024. https://openalex.org/W4399339614
+
+                Abstract Most modern catalysts are based on precious metals and rear-earth elements, making some of organic synthesis reactions economically insolvent. Density functional theory calculations are used here to describe several differently oriented surfaces of the higher tungsten boride WB 5-x , together with their catalytic activity for the CO oxidation reaction. Based on our findings, WB 5-x appears to be an efficient alternative catalyst for CO oxidation. Calculated surface energies allow the use of the Wulff construction to determine the equilibrium shape of WB 5-x particles. It is found that the (010) and (101) facets terminated by boron and tungsten, respectively, are the most exposed surfaces for which the adsorption of different gaseous agents (CO, CO 2 , H 2 , N 2 , O 2 , NO, NO 2 , H 2 O, NH 3 , SO 2 ) is evaluated to reveal promising prospects for applications. CO oxidation on B-rich (010) and W-rich (101) surfaces is further investigated by analyzing the charge redistribution during the adsorption of CO and O 2 molecules. It is found that CO oxidation has relatively low energy barriers. The implications of the present results, the effects of WB 5-x on CO oxidation and potential application in the automotive, chemical, and mining industries are discussed.</description>
+      <author>Aleksandra D. Radina, Viktor S. Baidyshev, Ilya V. Chepkasov, Nikita Matsokin, Tariq Altalhi, Boris I. Yakobson, Alexander G. Kvashnin</author>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41598-024-63676-7</guid>
     </item>
     <item>
       <title>Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)</title>
