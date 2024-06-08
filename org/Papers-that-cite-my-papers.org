@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jun  7 01:10:05 2024
+Created on Sat Jun  8 01:07:42 2024
 
-Found 47 results from 2024-05-31 to 2024-06-07
+Found 31 results from 2024-06-01 to 2024-06-08
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092]]
@@ -13,300 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121]]
-
-* Computational Exploration of Subnano Zn and Cu Species on Cu/ZrO2: Implications for Methanol Synthesis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399155399
-:TOPICS: Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation, Desulfurization Technologies for Fuels
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c01300")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399155399"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399155399"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399155399"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399155399 (Open access: False)
-    
-[[https://openalex.org/A5086173932][Aku Lempelto]], [[https://openalex.org/A5034228302][Minttu M. Kauppinen]], [[https://openalex.org/A5022884606][Karoliina Honkala]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c01300 
-     
-Ternary Cu/Zn/ZrO2 catalysts prepared recently using atomic layer deposition (ALD) have shown increased performance toward methanol synthesis. In the present computational study, we have investigated the structure, composition, and stability of various zinc- and copper-containing subnano size species on a zirconia support. Density functional theory calculations with minima hopping were used to sample the positioning and geometry of supported ZnxCuyOz structures up to 8 metal atoms in total. ZnO monomeric species were found to be energetically more favorable than small clusters, which could suggest a resistance to initial stage agglomeration. Ab-initio thermodynamics revealed that under typical methanol synthesis conditions, the complete reduction of ZnO and mixed ZnO/Cu clusters is unfavorable. The investigated ZnO monomers and clusters are able to provide CO2 activation sites, with the Cu/ZnO/ZrO2 triple interface offering the best stabilization for the adsorbed CO2. All in all, the findings suggest that small ZnO species generated by ALD could be stabilized by the zirconia component, while contact with copper species at the interface benefits CO2 activation.    
-
-    
-
-* Sub-volt conversion of activated biochar and water for H2 production near equilibrium via biochar-assisted water electrolysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399155404
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Content-Centric Networking for Information Delivery, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-05-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.xcrp.2024.102013")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399155404"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399155404"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399155404"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399155404 (Open access: True)
-    
-[[https://openalex.org/A5030247905][Nishithan C. Kani]], [[https://openalex.org/A5068445431][Rohit Chauhan]], [[https://openalex.org/A5087253043][Samuel Olusegun]], [[https://openalex.org/A5098939286][Ishwar Sharan]], [[https://openalex.org/A5036687220][Amit Katiyar]], [[https://openalex.org/A5026346376][David House]], [[https://openalex.org/A5027490039][Sang-Won Lee]], [[https://openalex.org/A5098939287][Alena Jairamsingh]], [[https://openalex.org/A5024092825][Rajan Bhawnani]], [[https://openalex.org/A5088153941][Dongjin Choi]], [[https://openalex.org/A5051904251][Adam C. Nielander]], [[https://openalex.org/A5078810774][Thomas F. Jaramillo]], [[https://openalex.org/A5049422501][Hae‐Seok Lee]], [[https://openalex.org/A5072746397][Anil R. Oroskar]], [[https://openalex.org/A5007984158][Vimal Chandra Srivastava]], [[https://openalex.org/A5075926189][Shishir Sinha]], [[https://openalex.org/A5088579134][Joseph A. Gauthier]], [[https://openalex.org/A5003372467][Meenesh R. Singh]], Cell reports physical science. None(None)] 2024. https://doi.org/10.1016/j.xcrp.2024.102013  ([[http://www.cell.com/article/S2666386424002819/pdf][pdf]])
-     
-Sluggish water oxidation reactions limit water electrolysis for H2 production, which can be alleviated by the use of carbon-based materials like agricultural wastes as reducing agents. Biochar from such biomass can reduce equilibrium cell potentials at standard conditions from 1.23 V to 0.21 V by avoiding direct water splitting at the anode. However, some challenges hinder biochar oxidation, including poor biochar binding, electrode caking, and surface passivation. We find that enhanced C/O ratio, crystallinity, and negative zeta potential improve biochar oxidation kinetics at moderate temperatures. Smaller particle sizes and better mixing prevent electrode caking, enhancing biochar stability. Here, we report sub-volt biochar-coupled H2 production, often referred to as a biochar-assisted water electrolysis (BAWE), yielding ∼250 mA/gcat H2 current at 100% Faradaic efficiency. Over 1 mA current was observed at a near-equilibrium cell potential of 0.2 V cell potential. Using a single-junction solar cell-powered BAWE, ∼15 mA H2 is generated at 1 Sun, resulting in ∼4.8% solar-to-hydrogen efficiency, equivalent to ∼35% when the energy of H2 relative to H2O (without biochar) is assumed.    
-
-    
-
-* Ultrathin Porous Pd Metallene with Amorphous/Crystalline Phase Coexitence as Electrocatalysts for the Oxygen Reduction Reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399155700
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Reduction of Nitro Compounds, Materials for Electrochemical Supercapacitors
-:PUBLICATION_DATE: 2024-05-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsanm.4c01808")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399155700"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399155700"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399155700"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399155700 (Open access: False)
-    
-[[https://openalex.org/A5068084215][Hua Cui]], [[https://openalex.org/A5036214597][Hongpeng Chen]], [[https://openalex.org/A5080063403][Xixi Wang]], [[https://openalex.org/A5011890019][Yiquan Jiang]], [[https://openalex.org/A5046507515][Yimin Zhang]], [[https://openalex.org/A5081655860][Danfeng Sun]], [[https://openalex.org/A5042590223][Zanyu Chen]], [[https://openalex.org/A5060002817][Ying Li]], [[https://openalex.org/A5046671426][Junwei Sha]], [[https://openalex.org/A5088198922][Biao Chen]], [[https://openalex.org/A5065046734][Chunsheng Shi]], [[https://openalex.org/A5030360164][Jin‐Kyu Kang]], [[https://openalex.org/A5044321397][Enzuo Liu]], [[https://openalex.org/A5060352654][Liying Ma]], ACS applied nano materials. None(None)] 2024. https://doi.org/10.1021/acsanm.4c01808 
-     
-The development of efficient nonplatinum electrocatalysts with enhanced oxygen reduction reaction (ORR) activity and stability is of crucial importance for the commercial application of fuel cells and metal–air batteries. Metallenes exhibit excellent performance in energy and catalysis due to their unique physicochemical and electronic properties. In particular, the ultrahigh proportion of under-coordinated metal atomic sites in metallenes enhances the atom utilization and intrinsic activity, which endows them with considerable potential for catalytic applications. Herein, the synthesized two-dimensional (2D) ultrathin porous Pd metallene with amorphous/crystalline phase coexistence exhibits enhanced alkaline oxygen reduction properties, as evidenced by four-electron selectivity, lower overpotential (E1/2 = 0.944 V), high mass activity (MA = 1.44 mA/μgPd), and solid stability (only loss of 7 mV in half-wave potential after 10,000 potential cycles). Such high performance of Pd metallene is attributed to amorphous/crystalline heterophases, 2D morphology, and porous structure. DFT calculations demonstrate that the ORR catalytic performance can be effectively promoted by the amorphous structure with a modulated electronic structure. The amorphous/crystalline coexisting porous Pd metallene with excellent catalytic performance can provide the reference for metallene materials design in various fields. This study presents a scientific basis to understand the mechanism of 2D amorphous phase nanostructures for boosting the electrocatalytic performance.    
-
-    
-
-* Exploring the mathematic equations behind the materials science data using interpretable symbolic regression  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399161945
-:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Application of Genetic Programming in Machine Learning
-:PUBLICATION_DATE: 2024-05-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/idm2.12180")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399161945"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399161945"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399161945"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399161945 (Open access: True)
-    
-[[https://openalex.org/A5013097344][Guanjie Wang]], [[https://openalex.org/A5047622787][Erpeng Wang]], [[https://openalex.org/A5000678293][Zefeng Li]], [[https://openalex.org/A5057226383][Jian Zhou]], [[https://openalex.org/A5059875221][Zhimei Sun]], Interdisciplinary materials. None(None)] 2024. https://doi.org/10.1002/idm2.12180  ([[https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/idm2.12180][pdf]])
-     
-Abstract Symbolic regression (SR), exploring mathematical expressions from a given data set to construct an interpretable model, emerges as a powerful computational technique with the potential to transform the “black box” machining learning methods into physical and chemistry interpretable expressions in material science research. In this review, the current advancements in SR are investigated, focusing on the underlying theories, fundamental flowcharts, various techniques, implemented codes, and application fields. More predominantly, the challenging issues and future opportunities in SR that should be overcome to unlock the full potential of SR in material design and research, including graphics processing unit acceleration and transfer learning algorithms, the trade‐off between expression accuracy and complexity, physical or chemistry interpretable SR with generative large language models, and multimodal SR methods, are discussed.    
-
-    
-
-* Implementation of machine learning techniques for the analysis of wave energy conversion systems: a comprehensive review  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399165142
-:TOPICS: Wave Energy Conversion Technologies and Resource Assessment, Coastal Dynamics and Climate Change Impacts, Wind Energy Technology and Aerodynamics
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s40722-024-00330-4")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399165142"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399165142"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399165142"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399165142 (Open access: False)
-    
-[[https://openalex.org/A5056855880][Masoud Masoumi]], [[https://openalex.org/A5082617092][Bahareh Estejab]], [[https://openalex.org/A5019918440][Florence Henry]], Journal of ocean engineering and marine energy. None(None)] 2024. https://doi.org/10.1007/s40722-024-00330-4 
-     
-No abstract    
-
-    
-
-* High-Performance Pd2Cu2 Cluster Supported on CeO2(110) for the Electroreduction of CO2  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399167912
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Catalytic Nanomaterials, Applications of Ionic Liquids
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c01686")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399167912"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399167912"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399167912"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399167912 (Open access: False)
-    
-[[https://openalex.org/A5077153113][Ping Liu]], [[https://openalex.org/A5069267167][Haoguo Zhu]], [[https://openalex.org/A5088073450][Baiyue Li]], [[https://openalex.org/A5072254497][Chen Wu]], [[https://openalex.org/A5050065678][Jia Shi]], [[https://openalex.org/A5008133679][Bingbing Suo]], [[https://openalex.org/A5086719383][Wenli Zou]], [[https://openalex.org/A5074586310][Yawei Li]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c01686 
-     
-Copper and palladium exhibit excellent catalytic performance for the electrochemical reduction of CO2 (CO2RR). Here, a PdxCu4–x (x = 2, 3) cluster was supported on CeO2 with different sites to form three kinds of novel nanocatalysts, namely, Pd2Cu2/CeO2, Pd3Cu/CeO2 (Pd–Pd), and Pd3Cu/CeO2 (Pd–Cu). Based on density functional theory, the catalytic performance and selective mechanisms were studied systematically. During the process of CO2RR, *CO was hydrogenated to produce deeply reduced products such as CH4 or CH3OH due to its strong adsorption energies on all three catalysts (Pd3Cu/CeO2(Pd–Pd) for 0.95 eV, Pd3Cu/CeO2(Pd–Cu) for 0.89 eV, and Pd2Cu2/CeO2 for 1.22 eV). The overpotential to form the CH4 or CH3OH product can be changed by varying the atomic ratio or anchoring sites of PdxCu4–x clusters on CeO2. In particular, the CO2RR on Pd2Cu2/CeO2 showed the lowest overpotentiontial (−0.60 eV) compared to the other two Pd3Cu/CeO2 catalysts. This study extends the family of CO2RR catalysts and the application scenarios of bimetallic catalysts, which provides new insights into the design and preparation of composite nanocatalysts.    
-
-    
-
-* Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399173448
-:TOPICS: Biomedical Ontologies and Text Mining, Analysis of Gene Interaction Networks, Machine Learning in Healthcare and Medicine
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2196/52655")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399173448"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399173448"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399173448"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399173448 (Open access: True)
-    
-[[https://openalex.org/A5092006341][Francesco Invernici]], [[https://openalex.org/A5092006341][Francesco Invernici]], [[https://openalex.org/A5092006341][Francesco Invernici]], JMIR. Journal of medical internet research/Journal of medical internet research. 26(None)] 2024. https://doi.org/10.2196/52655 
-     
-Since the beginning of the COVID-19 pandemic, >1 million studies have been collected within the COVID-19 Open Research Dataset, a corpus of manuscripts created to accelerate research against the disease. Their related abstracts hold a wealth of information that remains largely unexplored and difficult to search due to its unstructured nature. Keyword-based search is the standard approach, which allows users to retrieve the documents of a corpus that contain (all or some of) the words in a target list. This type of search, however, does not provide visual support to the task and is not suited to expressing complex queries or compensating for missing specifications.    
-
-    
-
-* Sulfur Recovery Assisted Electrochemical Water Splitting for H2 Production Using CoMo-Based Nanorod Arrays Catalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399175366
-:TOPICS: Electrocatalysis for Energy Conversion, Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsmaterialslett.4c00695")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399175366"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399175366"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399175366"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399175366 (Open access: False)
-    
-[[https://openalex.org/A5014207391][Jichuan Huo]], [[https://openalex.org/A5003397450][Qing Liu]], [[https://openalex.org/A5043894450][Xiaofang Liu]], [[https://openalex.org/A5039592777][Xue‐Feng Cheng]], [[https://openalex.org/A5030816045][Dongyun Chen]], [[https://openalex.org/A5079101243][Najun Li]], [[https://openalex.org/A5046484962][Kin Liao]], [[https://openalex.org/A5060889765][Qingfeng Xu]], [[https://openalex.org/A5084564396][Jianmei Lu]], ACS materials letters. None(None)] 2024. https://doi.org/10.1021/acsmaterialslett.4c00695 
-     
-Swapping the sluggish oxygen evolution reaction (OER) for the thermodynamically advantageous sulfur ion oxidation reaction (SOR) makes it possible to produce low-energy hydrogen. We report here on an electrocatalytic SOR-coupled HER system that allows for the joint production of sulfur and hydrogen. We prepare a CoMoO4 nanoarray on nickel foam (NF) for anodic SOR and N-doped CoMoO4/NF, CoMoN/NF, for cathodic HER. The current density of 100 mA cm–2 was obtained at 0.29 V (vs RHE) in the SOR process. After nitridation, the electrode can achieve a current density of 10 mA cm–2 in HER at a voltage of only 32 mV (vs RHE). The coupling system (SOR//HER) can run steadily for 150 h. Detailed exploration and discussion were conducted on the pathways of SOR. This work develops an energy-efficient mixed water electrolysis system for H2, providing a viable option for toxic waste treatment.    
-
-    
-
-* Noble metal-free CZTS electrocatalysis: synergetic characteristics and emerging applications towards water splitting reactions  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399177549
-:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Aqueous Zinc-Ion Battery Technology
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fchem.2024.1394191")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399177549"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399177549"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399177549"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399177549 (Open access: True)
-    
-[[https://openalex.org/A5042635019][Somnath C. Dhawale]], [[https://openalex.org/A5044696328][Renuka V. Digraskar]], [[https://openalex.org/A5050006779][Anil V. Ghule]], [[https://openalex.org/A5059671912][Bhaskar R. Sathe]], Frontiers in chemistry. 12(None)] 2024. https://doi.org/10.3389/fchem.2024.1394191  ([[https://www.frontiersin.org/articles/10.3389/fchem.2024.1394191/pdf?isPublishedV2=False][pdf]])
-     
-This review provides a comprehensive overview of the production and modification of CZTS nanoparticles (NPs) and their application in electrocatalysis for water splitting. Various aspects, including surface modification, heterostructure design with carbon nanostructured materials, and tunable electrocatalytic studies, are discussed. A key focus is the synthesis of small CZTS nanoparticles with tunable reactivity, emphasizing the sonochemical method’s role in their formation. Despite CZTS’s affordability, it often exhibits poor hydrogen evolution reaction (HER) behavior. Carbon materials like graphene, carbon nanotubes, and C 60 are highlighted for their ability to enhance electrocatalytic activity due to their unique properties. The review also discusses the amine functionalization of graphene oxide/CZTS composites, which enhances overall water splitting performance. Doping with non-noble metals such as Fe, Co., and Ni is presented as an effective strategy to improve catalytic activity. Additionally, the synthesis of heterostructures consisting of CZTS nanoparticles attached to MoS 2 -reduced graphene oxide (rGO) hybrids is explored, showing enhanced HER activity compared to pure CZTS and MoS 2 . The growing demand for energy and the need for efficient renewable energy sources, particularly hydrogen generation, are driving research in this field. The review aims to demonstrate the potential of CZTS-based electrocatalysts for high-performance and cost-effective hydrogen generation with low environmental impact. Vacuum-based and non-vacuum-based methods for fabricating CZTS are discussed, with a focus on simplicity and efficiency. Future developments in CZTS-based electrocatalysts include enhancing activity and stability, improving charge transfer mechanisms, ensuring cost-effectiveness and scalability, increasing durability, integrating with renewable energy sources, and gaining deeper insight into reaction processes. Overall, CZTS-based electrocatalysts show great promise for sustainable hydrogen generation, with ongoing research focused on improving performance and advancing their practical applications.    
-
-    
-
-* Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399178686
-:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Protein Structure Prediction and Analysis
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jctc.4c00190")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399178686"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399178686"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399178686"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399178686 (Open access: False)
-    
-[[https://openalex.org/A5005025002][Yutack Park]], [[https://openalex.org/A5052059871][Jaesun Kim]], [[https://openalex.org/A5035762390][Seungwoo Hwang]], [[https://openalex.org/A5010950048][Seungwu Han]], Journal of chemical theory and computation. None(None)] 2024. https://doi.org/10.1021/acs.jctc.4c00190 
-     
-Message-passing graph neural network interatomic potentials (GNN-IPs), particularly those with equivariant representations such as NequIP, are attracting significant attention due to their data efficiency and high accuracy. However, parallelizing GNN-IPs poses challenges because multiple message-passing layers complicate data communication within the spatial decomposition method, which is preferred by many molecular dynamics (MD) packages. In this article, we propose an efficient parallelization scheme compatible with GNN-IPs and develop a package, SevenNet (Scalable EquiVariance-Enabled Neural NETwork), based on the NequIP architecture. For MD simulations, SevenNet interfaces with the LAMMPS package. Through benchmark tests on a 32-GPU cluster with examples of SiO2, SevenNet achieves over 80% parallel efficiency in weak-scaling scenarios and exhibits nearly ideal strong-scaling performance as long as GPUs are fully utilized. However, the strong-scaling performance significantly declines with suboptimal GPU utilization, particularly affecting parallel efficiency in cases involving lightweight models or simulations with small numbers of atoms. We also pretrain SevenNet with a vast data set from the Materials Project (dubbed "SevenNet-0") and assess its performance on generating amorphous Si3N4 containing more than 100,000 atoms. By developing scalable GNN-IPs, this work aims to bridge the gap between advanced machine-learning models and large-scale MD simulations, offering researchers a powerful tool to explore complex material systems with high accuracy and efficiency.    
-
-    
-
-* Photoinduced dynamics during electronic transfer from narrow to wide bandgap layers in one-dimensional heterostructured materials  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399179133
-:TOPICS: Two-Dimensional Materials, Advanced Materials for Smart Windows, Graphene: Properties, Synthesis, and Applications
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-48880-3")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399179133"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399179133"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399179133"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399179133 (Open access: True)
-    
-[[https://openalex.org/A5011773433][Yuri Saida]], [[https://openalex.org/A5063874884][Thomas Gauthier]], [[https://openalex.org/A5027563334][Hiroo Suzuki]], [[https://openalex.org/A5024396549][Satoshi Ohmura]], [[https://openalex.org/A5048446206][Ryo Shikata]], [[https://openalex.org/A5089818516][Y. Iwasaki]], [[https://openalex.org/A5096909885][Godai Noyama]], [[https://openalex.org/A5034423674][Misaki Kishibuchi]], [[https://openalex.org/A5071471877][Yuichiro Tanaka]], [[https://openalex.org/A5043468751][Wataru Yajima]], [[https://openalex.org/A5073049729][Nicolas Godin]], [[https://openalex.org/A5069475412][Gaël Privault]], [[https://openalex.org/A5024166630][Tomoharu Tokunaga]], [[https://openalex.org/A5059950251][Shota Ono]], [[https://openalex.org/A5074641872][Shin‐ya Koshihara]], [[https://openalex.org/A5056700160][Kenji Tsuruta]], [[https://openalex.org/A5069627264][Yûji Hayashi]], [[https://openalex.org/A5016544457][Roman Bertoni]], [[https://openalex.org/A5036348327][Masaki Hada]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-48880-3  ([[https://www.nature.com/articles/s41467-024-48880-3.pdf][pdf]])
-     
-Abstract Electron transfer is a fundamental energy conversion process widely present in synthetic, industrial, and natural systems. Understanding the electron transfer process is important to exploit the uniqueness of the low-dimensional van der Waals (vdW) heterostructures because interlayer electron transfer produces the function of this class of material. Here, we show the occurrence of an electron transfer process in one-dimensional layer-stacking of carbon nanotubes (CNTs) and boron nitride nanotubes (BNNTs). This observation makes use of femtosecond broadband optical spectroscopy, ultrafast time-resolved electron diffraction, and first-principles theoretical calculations. These results reveal that near-ultraviolet photoexcitation induces an electron transfer from the conduction bands of CNT to BNNT layers via electronic decay channels. This physical process subsequently generates radial phonons in the one-dimensional vdW heterostructure material. The gathered insights unveil the fundamentals physics of interfacial interactions in low dimensional vdW heterostructures and their photoinduced dynamics, pushing their limits for photoactive multifunctional applications.    
-
-    
-
-* S-Scheme Boron Phosphide/MoS2 Heterostructure with Excellent Light Conversion Ability for Solar Cells and Water Splitting Photocatalysts  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399180955
-:TOPICS: Two-Dimensional Materials, Photocatalytic Materials for Solar Energy Conversion, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes)
-:PUBLICATION_DATE: 2024-05-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acsami.4c03567")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399180955"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399180955"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399180955"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399180955 (Open access: False)
-    
-[[https://openalex.org/A5041009191][Yuncai Jiang]], [[https://openalex.org/A5055562824][Shuangying Lei]], [[https://openalex.org/A5072196012][Mingyuan Wang]], ACS applied materials & interfaces. None(None)] 2024. https://doi.org/10.1021/acsami.4c03567 
-     
-Monolayer molybdenum disulfide (MoS2) with a suitable direct band gap and strong optical absorption is very attractive for utilization in solar cells and photocatalytic water splitting. Nevertheless, the broader utilization of MoS2 is impeded by its low carrier mobility and limited responsiveness to infrared light. To overcome these challenges, we constructed a variety of stackings for the boron phosphide (BP)/MoS2 van der Waals heterostructure (vdWH), all of which display S-scheme band alignments except for the AC′ stacking. The constituent BP monolayer has superior carrier mobility and strong infrared and visible light response, which makes up for the shortcomings of MoS2. The study revealed that the AB stacking exhibits a remarkable power conversion efficiency of 22.27%, indicating its significant application prospect in solar cells. Additionally, the AB stacking also exhibits a promising application prospect in photocatalytic water splitting due to its suitable band structure, S-scheme band alignment, strong optical adsorption characteristic, high solar-to-hydrogen efficiency, and robust built-in electric field. Meanwhile, applying uniaxial tensile strains along the x-axis direction is more beneficial for photocatalytic water splitting. Hence, the AB-stacked BP/MoS2 vdWH shows significant potential for use in both solar cells and photocatalytic water splitting. This work paves the way for exploring the application of S-scheme heterostructures in solar energy conversion systems.    
-
-    
-
-* Electric Double Layer Effect on the Outer-Sphere Benzyl Halides Electro-Reduction Mechanism  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399181814
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Applications of Ionic Liquids, Breath Analysis Technology
-:PUBLICATION_DATE: 2024-05-29
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.3c08224")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399181814"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399181814"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399181814"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399181814 (Open access: True)
-    
-[[https://openalex.org/A5098948196][Aleksandr S. Kramarenko]], [[https://openalex.org/A5027085629][Ivan Yu. Chernyshov]], [[https://openalex.org/A5074252826][Evgeny A. Pidko]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.3c08224  ([[https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.3c08224][pdf]])
-     
-Electrocatalytic reduction of organic halides and subsequent carboxylation are promising methods for the valorization of CO2 as a C1 source in synthetic organic chemistry. The reaction mechanism underlying the selectivity and reduction mechanism of benzyl halides is highly dependent on the nature of the electrode material as well as the processes, composition, and structure of the liquid phase at the electrode–solution interface. Herein, we present a computational study on the influence of the electric double layer (EDL) on the activation of benzyl halides at different applied potentials over the Au (111) cathode. Using a multiscale modeling approach, we demonstrate that, under realistic electrocatalytic conditions, the formation of a dense EDL over the cathode hampers the diffusion of benzyl halides toward the electrode surface. A combination of classical molecular dynamics simulations and density functional theory calculations reveals the most favorable benzyl halide electro-carboxylation pathway over the EDL that does not require direct substrate adsorption to the cathode surface. The dense EDL promotes the dissociative reduction of the benzyl halides via the outer-sphere electron transfer from the cathode surface to the electrolyte. Such a reduction mechanism results in a benzyl radical intermediate, which is then converted to benzyl anions in the EDL via an additional electron transfer step.    
-
-    
-
-* Small amount but big impact: Trace oxygen interstitially inserted PtCu alloys by microalloying for efficient oxygen reduction catalysis  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399194593
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Memristive Devices for Neuromorphic Computing
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1007/s12274-024-6730-2")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399194593"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399194593"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399194593"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399194593 (Open access: False)
-    
-[[https://openalex.org/A5052253948][Qiheng Wang]], [[https://openalex.org/A5070141658][Zhiguo Chen]], [[https://openalex.org/A5018172362][Jingyan Zhang]], [[https://openalex.org/A5011453447][Jingjun Liu]], Nano research. None(None)] 2024. https://doi.org/10.1007/s12274-024-6730-2 
-     
-No abstract    
-
-    
 
 * Advancing the ethanol pathway during the competitive photocatalytic CO2 reduction in a defective transition metal dichalcogenide  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -515,69 +221,6 @@ OpenAlex: https://openalex.org/W4399274810 (Open access: False)
 [[https://openalex.org/A5032610530][Seokhyun Choung]], [[https://openalex.org/A5006370255][Won Il Park]], [[https://openalex.org/A5030900005][Jeong Hyun Moon]], [[https://openalex.org/A5086565285][Jeong Woo Han]], Chemical engineering journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.152757 
      
 The urgency of tackling climate change is driving a global shift towards renewable sources of energy, with a growing contribution from alternative energy sources such as solar, wind and hydroelectric power. With the global push for the sustainable energy, the demand for effective catalysts for sustainable chemical production and energy storage has been rapidly increasing. Computational simulations have contributed to the rational design of catalysts by allowing profound analysis of catalyst properties. Machine learning potential (MLP) has emerged as a potential tool to bridge the gap between quantum mechanical accuracy and computational efficiency, overcoming the computational cost limitations of quantum chemistry-based simulations. This review discusses the development and application of MLP in multiscale simulations of heterogeneous catalysis. It covers the basic concepts of computational catalysis, the construction of MLP focusing on efficient datasets, atomic structure representations, and the process of training and evaluating of ML models. Furthermore, the potential applications of MLP are discussed in addressing computational challenges within the field, as MLP has potential to overcome limitations in simulation time and length scale. Lastly, the prospects for MLP are presented, taking advantage of the rapid advancements in artificial intelligence architectures. It is expected that the integration of MLP will accelerate progress within the catalyst research community and will bridge the gap between theoretical and experimental approaches in catalytic research.    
-
-    
-
-* Nitrogen reduction reaction enhanced by single-atom transition metal catalysts on functionalized graphene: A first-principles study  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399158115
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.05.408")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399158115"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399158115"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399158115"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399158115 (Open access: False)
-    
-[[https://openalex.org/A5010964752][Thillai Govindaraja Senthamaraikannan]], [[https://openalex.org/A5071522439][Dong‐Hee Lim]], International journal of hydrogen energy. 72(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.05.408 
-     
-Ammonia production seeks alternatives to the conventional Haber-Bosch process, with nitrogen reduction reaction (NRR) emerging promising. Addressing the challenge of efficient catalysts, the functionalized graphene-based single atom catalysts (SACs) stand out. While prior studies have favored heteroatom-doped catalysts, the coordination of metal centers with nitrogen atoms remains underexplored. This work investigates transition metal (TM) SACs on nitrogen-doped graphene (N3G) using density functional theory (DFT) for electro-catalytic NRR. Results highlight the stability of V@N3G, Mo@N3G, W@N3G, with binding energies of −7.77, −5.43, and −3.89 eV, respectively. Insights into work function, d-band center, N–N bond, and IR stretching's role in N2 activation are gained through this study. Bader charge analysis reveals electron redistribution between the support and adsorbed N2. Employing Computational Hydrogen Electrode (CHE) method, comparative free energy diagrams for TM@N3G (V, Mo, W) via., enzymatic, consecutive, alternating, and distal pathways outline potential rate determining step (PDS) with and without the Implicit solvation method. Remarkably, W@N3G catalyst exhibits the lowest PDS in the presence of solvation energy, surpassing other catalysts. The multi-adsorption of N2 on W@N3G enhances NRR process, stabilizing intermediates for efficient ammonia production. This computational study sheds light on metal center SACs on functionalized graphene support as a potential electro-catalyst for efficient and stable NRR.    
-
-    
-
-* Active learning of ternary alloy structures and energies  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399176479
-:TOPICS: Accelerating Materials Innovation through Informatics, Computational Methods in Drug Discovery, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41524-024-01256-z")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399176479"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399176479"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399176479"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399176479 (Open access: True)
-    
-[[https://openalex.org/A5044919755][Gaurav Deshmukh]], [[https://openalex.org/A5012172610][Noah J. Wichrowski]], [[https://openalex.org/A5033868257][Nikolaos Evangelou]], [[https://openalex.org/A5068144091][Pushkar Ghanekar]], [[https://openalex.org/A5027078622][Siddharth Deshpande]], [[https://openalex.org/A5036566464][Ioannis G. Kevrekidis]], [[https://openalex.org/A5062626839][Jeffrey Greeley]], npj computational materials. 10(1)] 2024. https://doi.org/10.1038/s41524-024-01256-z  ([[https://www.nature.com/articles/s41524-024-01256-z.pdf][pdf]])
-     
-Abstract Machine learning models with uncertainty quantification have recently emerged as attractive tools to accelerate the navigation of catalyst design spaces in a data-efficient manner. Here, we combine active learning with a dropout graph convolutional network (dGCN) as a surrogate model to explore the complex materials space of high-entropy alloys (HEAs). We train the dGCN on the formation energies of disordered binary alloy structures in the Pd-Pt-Sn ternary alloy system and improve predictions on ternary structures by performing reduced optimization of the formation free energy, the target property that determines HEA stability, over ensembles of ternary structures constructed based on two coordinate systems: (a) a physics-informed ternary composition space, and (b) data-driven coordinates discovered by the Diffusion Maps manifold learning scheme. Both reduced optimization techniques improve predictions of the formation free energy in the ternary alloy space with a significantly reduced number of DFT calculations compared to a high-fidelity model. The physics-based scheme converges to the target property in a manner akin to a depth-first strategy, whereas the data-driven scheme appears more akin to a breadth-first approach. Both sampling schemes, coupled with our acquisition function, successfully exploit a database of DFT-calculated binary alloy structures and energies, augmented with a relatively small number of ternary alloy calculations, to identify stable ternary HEA compositions and structures. This generalized framework can be extended to incorporate more complex bulk and surface structural motifs, and the results demonstrate that significant dimensionality reduction is possible in thermodynamic sampling problems when suitable active learning schemes are employed.    
-
-    
-
-* Distribution Tendencies of Noble Metals on Fe(100) Using Lattice Gas Cluster Expansions  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399176575
-:TOPICS: Catalytic Nanomaterials, Catalytic Dehydrogenation of Light Alkanes, Accelerating Materials Innovation through Informatics
-:PUBLICATION_DATE: 2024-05-30
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acs.jpcc.4c01402")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399176575"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399176575"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399176575"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399176575 (Open access: False)
-    
-[[https://openalex.org/A5029212864][Isaac G. Onyango]], [[https://openalex.org/A5047580035][Greg Collinge]], [[https://openalex.org/A5015886040][Yong Wang]], [[https://openalex.org/A5074645932][Jean‐Sabin McEwen]], Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://doi.org/10.1021/acs.jpcc.4c01402 
-     
-Fe-based catalysts are highly selective for the hydrodeoxygenation of biomass-derived oxygenates but are prone to oxidative deactivation. Promotion with a noble metal has been shown to improve oxidative resistance. The chemical properties of such bimetallic systems depend critically on the surface geometry and spatial configuration of surface atoms in addition to their coverage (i.e., noble metal loading), so these aspects must be taken into account in order to develop reliable models for such complex systems. This requires sampling a vast configurational space, which is rather impractical using density functional theory (DFT) calculations alone. Moreover, "DFT-based" models are limited to length scales that are often too small for experimental relevance. Here, we circumvent this challenge by constructing DFT-parametrized lattice gas cluster expansions (LG CEs), which can describe these types of systems at significantly larger length scales. Here, we apply this strategy to Fe(100) promoted with four technologically relevant precious metals: Pd, Pt, Rh, and Ru. The resultant LG CEs have remarkable predictive accuracy, with predictive errors below 10 meV/site over a coverage range of 0 to 2 monolayers. The ground state configurations for each noble metal were identified, and the analysis of the cluster energies reveals a significant disparity in their dispersion tendency.    
 
     
 
@@ -854,6 +497,27 @@ The MolSSI Driver Interface (MDI) Project is an effort to simplify and standardi
 
     
 
+* Metal–insulator–semiconductor photoelectrodes for enhanced photoelectrochemical water splitting  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399326921
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d3cs00820g")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399326921"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399326921"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399326921"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399326921 (Open access: False)
+    
+[[https://openalex.org/A5067983666][Shice Wei]], [[https://openalex.org/A5089793312][Xuewen Xia]], [[https://openalex.org/A5091674157][Bi Shi]], [[https://openalex.org/A5052427362][Huolin Shen]], [[https://openalex.org/A5000457396][Xuefeng Wu]], [[https://openalex.org/A5034134051][Hsien‐Yi Hsu]], [[https://openalex.org/A5052749342][Xingli Zou]], [[https://openalex.org/A5058808484][Kai Huang]], [[https://openalex.org/A5028690179][David W. Zhang]], [[https://openalex.org/A5006331053][Qianyi Sun]], [[https://openalex.org/A5005657217][Allen J. Bard]], [[https://openalex.org/A5020117870][E. T. Yu]], [[https://openalex.org/A5064803348][Ji Li]], Chemical Society reviews. None(None)] 2024. https://doi.org/10.1039/d3cs00820g 
+     
+Photoelectrochemical (PEC) water splitting provides a scalable and integrated platform to harness renewable solar energy for green hydrogen production. The practical implementation of PEC systems hinges on addressing three critical challenges: enhancing energy conversion efficiency, ensuring long-term stability, and achieving economic viability. Metal-insulator-semiconductor (MIS) heterojunction photoelectrodes have gained significant attention over the last decade for their ability to efficiently segregate photogenerated carriers and mitigate corrosion-induced semiconductor degradation. This review discusses the structural composition and interfacial intricacies of MIS photoelectrodes tailored for PEC water splitting. The application of MIS heterostructures across various semiconductor light-absorbing layers, including traditional photovoltaic-grade semiconductors, metal oxides, and emerging materials, is presented first. Subsequently, this review elucidates the reaction mechanisms and respective merits of vacuum and non-vacuum deposition techniques in the fabrication of the insulator layers. In the context of the metal layers, this review extends beyond the conventional scope, not only by introducing metal-based cocatalysts, but also by exploring the latest advancements in molecular and single-atom catalysts integrated within MIS photoelectrodes. Furthermore, a systematic summary of carrier transfer mechanisms and interface design principles of MIS photoelectrodes is presented, which are pivotal for optimizing energy band alignment and enhancing solar-to-chemical conversion efficiency within the PEC system. Finally, this review explores innovative derivative configurations of MIS photoelectrodes, including back-illuminated MIS photoelectrodes, inverted MIS photoelectrodes, tandem MIS photoelectrodes, and monolithically integrated wireless MIS photoelectrodes. These novel architectures address the limitations of traditional MIS structures by effectively coupling different functional modules, minimizing optical and ohmic losses, and mitigating recombination losses.    
+
+    
+
 * Theoretical study of adsorption properties and CO oxidation reaction on surfaces of higher tungsten boride  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399339614
@@ -875,24 +539,24 @@ Abstract Most modern catalysts are based on precious metals and rear-earth eleme
 
     
 
-* Searching COVID-19 Clinical Research Using Graph Queries: Algorithm Development and Validation (Preprint)  :Papers_that_cite_my_papers:
+* Local Charge Transfer Unveils Antideactivation of Ru at High Potentials for the Alkaline Hydrogen Oxidation Reaction  :Papers_that_cite_my_papers:
 :PROPERTIES:
-:UUID: https://openalex.org/W4399173353
-:TOPICS: Biomedical Ontologies and Text Mining, Analysis of Gene Interaction Networks, Semantic Web and Ontology Development
-:PUBLICATION_DATE: 2023-11-26
+:UUID: https://openalex.org/W4399368506
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Fuel Cell Membrane Technology
+:PUBLICATION_DATE: 2024-06-05
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2196/preprints.52655")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/jacs.4c03622")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399173353"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399173353"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399173353"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399368506"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399368506"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399368506"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4399173353 (Open access: False)
+OpenAlex: https://openalex.org/W4399368506 (Open access: False)
     
-[[https://openalex.org/A5092006341][Francesco Invernici]], [[https://openalex.org/A5078800193][Anna Bernasconi]], [[https://openalex.org/A5048332811][Stefano Ceri]], No host. None(None)] 2023. https://doi.org/10.2196/preprints.52655 
+[[https://openalex.org/A5085137622][H. C. Shi]], [[https://openalex.org/A5050709202][Yang Yang]], [[https://openalex.org/A5033040300][Pin Meng]], [[https://openalex.org/A5078105147][Jiahe Yang]], [[https://openalex.org/A5043800415][Wei Zheng]], [[https://openalex.org/A5044971912][Pengcheng Wang]], [[https://openalex.org/A5057377195][Yunlong Zhang]], [[https://openalex.org/A5048512268][Xingyan Chen]], [[https://openalex.org/A5031779825][Zhiyu Cheng]], [[https://openalex.org/A5082524202][Cichang Zong]], [[https://openalex.org/A5052077971][Dongdong Wang]], [[https://openalex.org/A5014087781][Qianwang Chen]], Journal of the American Chemical Society. None(None)] 2024. https://doi.org/10.1021/jacs.4c03622 
      
- BACKGROUND Since the beginning of the COVID-19 pandemic, &gt;1 million studies have been collected within the COVID-19 Open Research Dataset, a corpus of manuscripts created to accelerate research against the disease. Their related abstracts hold a wealth of information that remains largely unexplored and difficult to search due to its unstructured nature. Keyword-based search is the standard approach, which allows users to retrieve the documents of a corpus that contain (all or some of) the words in a target list. This type of search, however, does not provide visual support to the task and is not suited to expressing complex queries or compensating for missing specifications.   OBJECTIVE This study aims to consider small graphs of concepts and exploit them for expressing graph searches over existing COVID-19–related literature, leveraging the increasing use of graphs to represent and query scientific knowledge and providing a user-friendly search and exploration experience.   METHODS We considered the COVID-19 Open Research Dataset corpus and summarized its content by annotating the publications’ abstracts using terms selected from the Unified Medical Language System and the Ontology of Coronavirus Infectious Disease. Then, we built a co-occurrence network that includes all relevant concepts mentioned in the corpus, establishing connections when their mutual information is relevant. A sophisticated graph query engine was built to allow the identification of the best matches of graph queries on the network. It also supports partial matches and suggests potential query completions using shortest paths.   RESULTS We built a large co-occurrence network, consisting of 128,249 entities and 47,198,965 relationships; the GRAPH-SEARCH interface allows users to explore the network by formulating or adapting graph queries; it produces a bibliography of publications, which are globally ranked; and each publication is further associated with the specific parts of the query that it explains, thereby allowing the user to understand each aspect of the matching.   CONCLUSIONS Our approach supports the process of query formulation and evidence search upon a large text corpus; it can be reapplied to any scientific domain where documents corpora and curated ontologies are made available.     
+The activity of Ru-based alkaline hydrogen oxidation reaction (HOR) electrocatalysts usually decreases rapidly at potentials higher than 0.1 V (vs a reversible hydrogen electrode (RHE)), which significantly limits the lifetime of fuel cells. It is found that this phenomenon is caused by the overadsorption of the O species due to the overcharging of Ru nanoparticles at high potentials. Here, Mn1Ox(OH)y clusters-modified Ru nanoparticles (Mn1Ox(OH)y@Ru/C) were prepared to promote charge transfer from overcharged Ru nanoparticles to Mn1Ox(OH)y clusters. Mn1Ox(OH)y@Ru/C exhibits high HOR activity and stability over a wide potential range of 0–1.0 V. Moreover, a hydroxide exchange membrane fuel cell with a Mn1Ox(OH)y@Ru/C anode delivers a high peak power density of 1.731 W cm–2, much superior to that of a Pt/C anode. In situ X-ray absorption fine structure (XAFS) analysis and density functional theory (DFT) calculations reveal that Mn in Mn1Ox(OH)y clusters could receive more electrons from overcharged Ru at higher potentials and significantly decrease the overadsorption of the O species on Ru, thus permitting the HOR on Ru to proceed at high potentials. This study provides guidance for the design of alkaline HOR catalysts without activity decay at high potentials.    
 
     
 
