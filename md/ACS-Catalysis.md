@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jun  8 01:07:35 2024
+Created on Sun Jun  9 01:13:39 2024
 
-Found 12 results from 2024-06-01 to 2024-06-08
+Found 11 results from 2024-06-02 to 2024-06-09
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## K and Na Promotion Enables High-Pressure Low-Temperature Reverse Water Gas Shift over Copper-Based Catalysts   
-
-OpenAlex: https://openalex.org/W4399210748    
-Open access: True
-    
-[L Barberis](https://openalex.org/A5035165920), [Christiaan I. Versteeg](https://openalex.org/A5098958589), [Johannes D. Meeldijk](https://openalex.org/A5037932134), [Joseph A. Stewart](https://openalex.org/A5023180917), [Bart D. Vandegehuchte](https://openalex.org/A5014755874), [Petra E. de Jongh](https://openalex.org/A5040096948), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02293.
-    
-No abstract    
-
-    
-
-## Mapping Degradation of Iron–Nitrogen–Carbon Heterogeneous Molecular Catalysts with Electron-Donating/Withdrawing Substituents   
-
-OpenAlex: https://openalex.org/W4399213497    
-Open access: False
-    
-[Fangzhou Liu](https://openalex.org/A5000616630), [Di Zhang](https://openalex.org/A5023996090), [Fangxin She](https://openalex.org/A5025067670), [Zixun Yu](https://openalex.org/A5063873435), [Leo Lai](https://openalex.org/A5010211310), [Hao Li](https://openalex.org/A5080057012), [Wei Li](https://openalex.org/A5085624118), [Yuan Chen](https://openalex.org/A5019065325), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01752.
-    
-No abstract    
-
-    
 
 ## Cyclopropenium Sulfide as Lewis Base Catalyst for Chemoselective and Regioselective Electrophilic Selenylation of Phenols   
 
@@ -34,17 +12,6 @@ OpenAlex: https://openalex.org/W4399258939
 Open access: True
     
 [Rui Chen](https://openalex.org/A5053453125), [Tianyu Zheng](https://openalex.org/A5043981136), [Xiaojian Jiang](https://openalex.org/A5048861402), [Ying‐Yeung Yeung](https://openalex.org/A5016128867), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01660.
-    
-No abstract    
-
-    
-
-## Boundary Conditions for Promotion versus Poisoning in Copper–Gallium-Based CO2-to-Methanol Hydrogenation Catalysts   
-
-OpenAlex: https://openalex.org/W4399219589    
-Open access: False
-    
-[Jan L. Alfke](https://openalex.org/A5057839936), [María Tejeda‐Serrano](https://openalex.org/A5058285715), [Sujay Phadke](https://openalex.org/A5004069091), [Andrei A. Tereshchenko](https://openalex.org/A5071574900), [Terry Z. H. Gani](https://openalex.org/A5031165208), [Lukas Rochlitz](https://openalex.org/A5032874181), [Seraphine B. X. Y. Zhang](https://openalex.org/A5051794191), [Lin Lin](https://openalex.org/A5015860750), [Christophe Copéret](https://openalex.org/A5019537622), [Оlga V. Safonova](https://openalex.org/A5050871990), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01985.
     
 No abstract    
 
@@ -135,5 +102,27 @@ Open access: False
 [Xiaogang Tong](https://openalex.org/A5064380782), [Zugen Wu](https://openalex.org/A5052777600), [Hwee Ting Ang](https://openalex.org/A5078764952), [Yinxing Miao](https://openalex.org/A5010126241), [Yixin Lü](https://openalex.org/A5066554626), [Jie Wu](https://openalex.org/A5038927058), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02638.
     
 The direct reductive functionalization of alkynes under mild conditions presents a promising yet challenging avenue for accessing value-added molecules. Alkyne radical anions represent a distinct class of reactive intermediates characterized by both a charge and an unpaired electron, thus holding great potential for facilitating diverse bond formations, particularly in alkyne reductive functionalization. However, the synthetic utility of alkyne radical anions is limited, primarily due to the difficulty in their generation and the formation of highly unstable vinyl radical intermediates. In this study, we accomplished the direct generation of alkyne radical anions from aryl alkyne feedstocks via single electron transfer (SET) reduction with photogenerated CO2 radical anion (CO2•–), enabling reductive hydroalkylation, arylalkenylation, and hydrocarboxylation of aryl alkynes. Our photocatalytic strategy features metal-free catalysis, mild reaction conditions, employment of a traceless reductant, good functional group compatibility, step- and atom-economy, and high regioselectivity. This study not only paves the way for leveraging the underexplored alkyne radical anions but also catalyzes the ongoing exploration of the bifunctional CO2•– species in synthetic chemistry.    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4399440714    
+Open access: False
+    
+, ACS catalysis. 14(11)] 2024.https://doi.org/10.1021/csv014i011_1809724.
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4399440731    
+Open access: False
+    
+, ACS catalysis. 14(11)] 2024.https://doi.org/10.1021/csv014i011_1809725.
+    
+No abstract    
 
     

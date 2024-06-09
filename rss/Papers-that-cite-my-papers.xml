@@ -4,79 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 08 Jun 2024 01:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 01:13:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Advancing the ethanol pathway during the competitive photocatalytic CO2 reduction in a defective transition metal dichalcogenide</title>
-      <link>https://doi.org/10.1016/j.apcatb.2024.124260</link>
-      <description>Hongyu Chen, Linghui Wang, Deng Long, Yibo Zeng, Shigui Jiang, Weijia Chen, Caiyuan Zhao, Chu Cheng, Yan&#8208;Xin Chen, Miao L&#252;, Shuang Li, X. Y. Chen, Applied catalysis. B, Environmental. None(None)] 2024. https://openalex.org/W4399209149
-
-                The photocatalytic carbon dioxide (CO2) reduction is a very promising approach for harvesting solar energy and recycling carbon resources. However, the native defects induced competition among different pathways for photocarriers is inevitable and negatively affects the selectivity. This work studies the competition between the vacancy induced pathway and the normal in a molybdenum sulfide selenide during photocatalytic CO2 reduction. It has been revealed that the high concentration of chalcogen vacancies can open up the carbene pathway by lowering the free energy and adjusting the adsorptions for the critical intermediates of *CH2 to attract the neighboring *CO for the C-C coupling in the ethanol production, and therefore improve the ethanol production obviously. We propose that in the design of photocatalysts for C2+ production, construction of variant active sites for the coupling of matching intermediates should be fully considered when choosing the basic materials, dopants and native defects.</description>
-      <author>Hongyu Chen, Linghui Wang, Deng Long, Yibo Zeng, Shigui Jiang, Weijia Chen, Caiyuan Zhao, Chu Cheng, Yan&#8208;Xin Chen, Miao L&#252;, Shuang Li, X. Y. Chen</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.apcatb.2024.124260</guid>
-    </item>
-    <item>
-      <title>Development of Ni-doped Co3O4 oxygen evolution catalysts for anion exchange membrane water electrolysis</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.05.365</link>
-      <description>Ramesh Aravind Murugesan, N. Krishna Chandar, Nisha Devi, Hai Lin, Cheng-Che Huang, Xin-Yu Jiang, Yuan-Yao Li, G. Arthanareeswaran, Ramesh Aravind Murugesan, Neeraj K. Jaiswal, Yong&#8208;Song Chen, International journal of hydrogen energy. 72(None)] 2024. https://openalex.org/W4399212076
-
-                No abstract</description>
-      <author>Ramesh Aravind Murugesan, N. Krishna Chandar, Nisha Devi, Hai Lin, Cheng-Che Huang, Xin-Yu Jiang, Yuan-Yao Li, G. Arthanareeswaran, Ramesh Aravind Murugesan, Neeraj K. Jaiswal, Yong&#8208;Song Chen</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.365</guid>
-    </item>
-    <item>
-      <title>Excitation signatures of isochorically heated electrons in solids at finite wave number explored from first principles</title>
-      <link>https://doi.org/10.1103/physrevresearch.6.023219</link>
-      <description>Zhandos A. Moldabekov, Thomas Gawne, Sebastian Schwalbe, Thomas R. Preston, Jan Vorberger, Tobias Dornheim, Physical review research. 6(2)] 2024. https://openalex.org/W4399212971
-
-                Ultrafast heating of solids with modern x-ray free electron lasers (XFELs) leads to a unique set of conditions characterized by the simultaneous presence of heated electrons in a cold ionic lattice. In this work, we analyze the effect of electronic heating on the dynamic structure factor (DSF) in bulk aluminum (Al) with a face-centered cubic lattice and in silicon (Si) with a crystal diamond structure using first-principles linear-response time-dependent density functional theory simulations. We find a thermally induced red shift of the collective plasmon excitation in both materials. In addition, we show that the heating of the electrons in Al can lead to the formation of a double-plasmon peak due to the extension of the Landau damping region to smaller wave numbers. Finally, we demonstrate that thermal effects generate a measurable and distinct signature (peak-valley structure) in the DSF of Si at small frequencies. Our simulations indicate a variety of new features in the spectrum of x-ray-driven solids, specifically at finite momentum transfer, which can be probed in upcoming x-ray Thomson scattering experiments at various XFEL facilities. Published by the American Physical Society 2024</description>
-      <author>Zhandos A. Moldabekov, Thomas Gawne, Sebastian Schwalbe, Thomas R. Preston, Jan Vorberger, Tobias Dornheim</author>
-      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevresearch.6.023219</guid>
-    </item>
-    <item>
-      <title>Mapping Degradation of Iron&#8211;Nitrogen&#8211;Carbon Heterogeneous Molecular Catalysts with Electron-Donating/Withdrawing Substituents</title>
-      <link>https://doi.org/10.1021/acscatal.4c01752</link>
-      <description>Fangzhou Liu, Di Zhang, Fangxin She, Zixun Yu, Leo Lai, Hao Li, Wei Li, Yuan Chen, ACS catalysis. None(None)] 2024. https://openalex.org/W4399213497
-
-                No abstract</description>
-      <author>Fangzhou Liu, Di Zhang, Fangxin She, Zixun Yu, Leo Lai, Hao Li, Wei Li, Yuan Chen</author>
-      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01752</guid>
-    </item>
-    <item>
-      <title>Stable Pentagonal Layered Palladium Diselenide Enables Rapid Electrosynthesis of Hydrogen Peroxide</title>
-      <link>https://doi.org/10.1021/jacs.4c00875</link>
-      <description>R. Dominic Ross, Kwanpyung Lee, Gerardo J. Quintana Cintr&#243;n, Kaylin Xu, Hongyuan Sheng, J. R. Schmidt, Song Jin, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399229319
-
-                Electrosynthesis of hydrogen peroxide (H</description>
-      <author>R. Dominic Ross, Kwanpyung Lee, Gerardo J. Quintana Cintr&#243;n, Kaylin Xu, Hongyuan Sheng, J. R. Schmidt, Song Jin</author>
-      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c00875</guid>
-    </item>
-    <item>
-      <title>MOF-Derived LDHs: Unveiling Their Potential in Oxygen Evolution Reaction</title>
-      <link>https://doi.org/10.1016/j.enchem.2024.100128</link>
-      <description>Mohammad Etesami, Shiva Rezaei Motlagh, Ramin Khezri, Mohan Gopalakrishnan, Jayaraman Theerthagiri, Myong Yong Choi, Kasidit Nootong, Anongnat Somwangthanaroj, Soorathep Kheawhom, EnergyChem. None(None)] 2024. https://openalex.org/W4399239615
-
-                This review explores the potential of metal-organic frameworks (MOFs) to drive sustainable clean energy solutions and their crucial role in transitioning towards a decarbonized global economy. The paper underscores the remarkable versatility and modifiability of MOFs. Central to this discourse is the conversion of MOFs into layered double hydroxides (LDHs), with a detailed exposition of the synthesis methodologies and their consequential effects on catalytic efficacy. A meticulous evaluation of MOF-derived LDHs is presented, particularly in the context of the oxygen evolution reaction (OER), encapsulating cutting-edge progress and probing the feasibility of integrating these materials into next-generation energy technologies. Diverging from existing literature, this research provides an in-depth exploration of MOF-to-LDH conversion, a promising area in OER catalysis. In addition, structural engineering techniques to optimize the performance of MOF-derived LDHs in electrochemical devices are explored, highlighting the potential of MOFs as future electrocatalysts and guiding future research directions.</description>
-      <author>Mohammad Etesami, Shiva Rezaei Motlagh, Ramin Khezri, Mohan Gopalakrishnan, Jayaraman Theerthagiri, Myong Yong Choi, Kasidit Nootong, Anongnat Somwangthanaroj, Soorathep Kheawhom</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.enchem.2024.100128</guid>
-    </item>
-    <item>
-      <title>Disordering of Rh(111) Single Crystalline Electrode Surface in O2 Saturated Acid</title>
-      <link>https://doi.org/10.1016/j.electacta.2024.144524</link>
-      <description>Da Zhou, Dan Zhao, Yao Yao, Yan&#8208;Xia Chen, Shen Ye, Electrochimica acta. None(None)] 2024. https://openalex.org/W4399242942
-
-                The Rh(111) electrode shows superior oxygen reduction reaction (ORR) activity to Ir(111), contradicting the predicted trend based on the Volcano plot. To unveil the origin for this, we investigate the interfacial structures of Rh(111) single crystalline electrode in 0.1 M HClO4 and 0.5 M H2SO4 solutions using cyclic voltammetry and potential step chronoamperometry under a hanging meniscus rotating disk electrode configuration. Our results reveal that i) in N2 saturated solution even at a potential below 0.20 V, oxygen-containing species adsorbates can be formed on the Rh(111) surface probably generated by oxidation of water; ii) Even under mild conditions, multiple cycles and current transients in O2 saturated solution at potentials where ORR taking place can cause significant surface disordering; iii) The disordering of the Rh(111) electrode induced by ORR exhibits similar base cyclic voltammograms to those of vicinal Rh(hkl) such as Rh(553) and Rh(332) etc., depending on the potentials applied during ORR, which, in turn, enhances the ORR activity in both 0.1 M HClO4 and 0.5 M H2SO4. These new findings provide valuable insights into the structure-performance relationship of ORR.</description>
-      <author>Da Zhou, Dan Zhao, Yao Yao, Yan&#8208;Xia Chen, Shen Ye</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.electacta.2024.144524</guid>
-    </item>
     <item>
       <title>Hydrogen Atom Binding Energy of Structurally Well-Defined Cerium Oxide Nodes at the Metal&#8211;Organic Framework&#8211;Liquid Interfaces</title>
       <link>https://doi.org/10.1021/acs.jpcc.4c02409</link>
@@ -106,16 +36,6 @@
       <author>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
-    </item>
-    <item>
-      <title>Entropy&#8208;Driven Ostwald Ripening Reversal Promotes the Formation of Low&#8208;Platinum Intermetallic Fuel Cell Catalysts</title>
-      <link>https://doi.org/10.1002/smll.202401134</link>
-      <description>S. F. Li, Peng Yin, Cong Xu, Kun&#8208;Ze Xue, Yuan Kong, Ming J. Zuo, Wan&#8208;Qun Zhang, Hai&#8208;Wei Liang, Small. None(None)] 2024. https://openalex.org/W4399247819
-
-                Abstract Strain engineering has been widely used to optimize platinum&#8208;based oxygen reduction reaction (ORR) catalysts for proton exchange membrane fuel cells (PEMFCs). PtM 3 (M is base metals), a well&#8208;known high&#8208;compressive&#8208;strain intermetallic alloy, shows promise as a low platinum ORR catalyst due to high intrinsic activity. However, during the alloying of Pt with a threefold amount of M, a notable phase separation between Pt and M may occur, with M particles rapidly sintering while Pt particles grow slowly, posing a challenge in achieving a well&#8208;defined PtM 3 intermetallic alloy. Here, an entropy&#8208;driven Ostwald ripening reversal phenomenon is discovered that enables the synthesis of small&#8208;sized Pt(FeCoNiCu) 3 intermetallic ORR catalysts. High entropy promotes the thermodynamic driving force for the alloying Pt with M, which triggers the Ostwald ripening reversal of sintered FeCoNiCu particles and facilitates the formation of uniform Pt(FeCoNiCu) 3 intermetallic catalysts. The prepared Pt(FeCoNiCu) 3 catalysts exhibit a high specific activity of 3.82 mA cm &#8722;2 , along with a power density of &#8776;1.3 W cm &#8722;2 at 0.67 V and 94 &#176;C with a cathode Pt loading of 0.1 mg cm &#8722;2 in H 2 &#8211;air fuel cell.</description>
-      <author>S. F. Li, Peng Yin, Cong Xu, Kun&#8208;Ze Xue, Yuan Kong, Ming J. Zuo, Wan&#8208;Qun Zhang, Hai&#8208;Wei Liang</author>
-      <pubDate>Thu, 30 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/smll.202401134</guid>
     </item>
     <item>
       <title>Highly active Mn2O3-Fe3O4 catalyst with abundant metal-oxygen bonds for real time sensing of carbendazim in environmental samples</title>
@@ -268,14 +188,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03622</guid>
     </item>
     <item>
-      <title>Functionalized Porous Carbon Fiber Electrodes for Applications in Electrochemical Flow Cells</title>
-      <link>https://doi.org/10.3384/9789180751407</link>
-      <description>Arman Molaei, Link&#246;ping studies in science and technology. Dissertations. None(None)] 2023. https://openalex.org/W4399201539
+      <title>Pt Single Atoms on TiO&lt;sub&gt;2&lt;/sub&gt; Can Catalyze Water Oxidation in Photoelectrochemical Experiments</title>
+      <link>https://doi.org/10.1021/jacs.4c03319</link>
+      <description>Shi Wu, Wu Lu, Nikita Denisov, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Xiaoyu Yang, Patrik Schmuki, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399380646
 
-                Xavier Crispin, my main supervisor who is a great person and a great scientist, for giving me the opportunity to work in the Laboratory of Organic Electronics (LOE), for the great support and inspiration during these years, especially during difficult times, encouraged me and motivated me by showing the positive sides.Magnus Berggren, head of LOE for creating an astonishing division with full of excellent scientists and a wonderful working environment and for supporting me during my Ph.D. studies when I really need help.Zia Ullah for being a nice neighbor and for all the help during my Ph.D. studies.Ziyauddin and Ujwala for being my great colleagues and co-authors.I have not had a cosupervisor after the first two years of my Ph.D. duration, but of</description>
-      <author>Arman Molaei</author>
-      <pubDate>Fri, 12 May 2023 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3384/9789180751407</guid>
+                Photoelectrochemical water splitting on n-type semiconductors is highly dependent on catalysis of the rate-determining reaction of O2 evolution. Conventionally, in electrochemistry and photoelectrochemistry O2 evolution is catalyzed by metal oxide catalysts like IrO2 and RuO2, whereas noble metals such as Pt are considered unsuitable for this purpose. However, our study finds that Pt, in its single-atom form, exhibits exceptional cocatalytic properties for photoelectrochemical water oxidation on a TiO2 photoanode, in contrast to Pt in a nanoparticle form. The decoration of Pt single atoms onto TiO2 yields a remarkable current density of 5.89 mA cm&#8211;2 at 1.23 VRHE, surpassing bare TiO2 (or Pt nanoparticle decorated TiO2) by 2.52 times. Notably, this enhancement remains consistent over a wide pH range. By accompanying theoretical work, we assign this significant enhancement to an improved charge transfer and separation efficiency along with accelerated kinetics in the oxygen evolution reaction facilitated by the presence of Pt single atoms on the TiO2 surface.</description>
+      <author>Shi Wu, Wu Lu, Nikita Denisov, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Xiaoyu Yang, Patrik Schmuki</author>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03319</guid>
+    </item>
+    <item>
+      <title>Reconstruction of High Entropy Alloys on a Metal&#8211;Organic Framework Approaching Active Oxygen Reduction Electrocatalysts</title>
+      <link>https://doi.org/10.1021/acs.nanolett.4c01278</link>
+      <description>Jing Liang, Yanling Ma, Yanjie Li, Wencong Zhang, Hao Hu, Jie Su, Zhenpeng Yao, Wenpei Gao, Wen Shang, Tao Deng, Jianbo Wu, Nano letters. None(None)] 2024. https://openalex.org/W4399380880
+
+                High-entropy alloys (HEAs) have garnered considerable attention as promising nanocatalysts for effectively utilizing Pt in catalysis toward oxygen reduction reactions due to their unique properties. Nonetheless, there is a relative dearth of attention regarding the structural evolution of HEAs in response to electrochemical conditions. In this work, we propose a thermal reduction method to synthesize high entropy nanoparticles by leveraging the confinement effect and abundant nitrogen-anchored sites provided by pyrolyzed metal&#8211;organic frameworks (MOFs). Notably, the prepared catalysts exhibit enhanced activity accompanied by structural reconstruction during electrochemical activation, approaching 1 order of magnitude higher mass activity compared to Pt/C in oxygen reduction. Atomic-scale structural characterization reveals that abundant defects and single atoms are formed during the activation process, contributing to a significant boost in the catalytic performance for oxygen reduction reactions. This study provides deep insights into surface reconstruction engineering during electrochemical operations, with practical implications for fuel cell applications.</description>
+      <author>Jing Liang, Yanling Ma, Yanjie Li, Wencong Zhang, Hao Hu, Jie Su, Zhenpeng Yao, Wenpei Gao, Wen Shang, Tao Deng, Jianbo Wu</author>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c01278</guid>
     </item>
     <item>
       <title>ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models</title>
