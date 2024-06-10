@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Sun Jun  9 01:13:46 2024
+Created on Mon Jun 10 01:10:15 2024
 
-Found 24 results from 2024-06-02 to 2024-06-09
+Found 19 results from 2024-06-03 to 2024-06-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -14,28 +14,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
 
-## Hydrogen Atom Binding Energy of Structurally Well-Defined Cerium Oxide Nodes at the Metal–Organic Framework–Liquid Interfaces   
-
-OpenAlex: https://openalex.org/W4399256990    
-Open access: False
-    
-[Zachary Ingram](https://openalex.org/A5084672777), [Chance Lander](https://openalex.org/A5053415105), [Madeleine C. Oliver](https://openalex.org/A5073059275), [Nazmiye Gökçe Altınçekiç](https://openalex.org/A5095377863), [Liangliang Huang](https://openalex.org/A5053218750), [Yihan Shao](https://openalex.org/A5004651618), [Hyunho Noh](https://openalex.org/A5036609079), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c02409.
-    
-No abstract    
-
-    
-
-## Quantification of alloy atomic composition sites in 2D ternary MoS2(1-x)Se2x and their role in persistent photoconductivity, enhanced photoresponse and photo-electrocatalysis   
-
-OpenAlex: https://openalex.org/W4399257409    
-Open access: True
-    
-[Ravi K. Biroju](https://openalex.org/A5018703123), [Dipak Maity](https://openalex.org/A5057229581), [Viliam Vretenár](https://openalex.org/A5071675625), [Ľubomír Vančo](https://openalex.org/A5076480184), [Rahul Sharma](https://openalex.org/A5015226233), [Madhusmita Sahoo](https://openalex.org/A5055696346), [Jitendra Kumar](https://openalex.org/A5069520636), [G. Gayathri](https://openalex.org/A5063894967), [Tharangattu N. Narayanan](https://openalex.org/A5045208884), [Saroj K. Nayak](https://openalex.org/A5008046108), Materials today advances. 22(None)] 2024.https://doi.org/10.1016/j.mtadv.2024.100504.
-    
-No abstract    
-
-    
-
 ## Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects   
 
 OpenAlex: https://openalex.org/W4399274810    
@@ -44,28 +22,6 @@ Open access: False
 [Seokhyun Choung](https://openalex.org/A5032610530), [Won Il Park](https://openalex.org/A5006370255), [Jeong Hyun Moon](https://openalex.org/A5030900005), [Jeong Woo Han](https://openalex.org/A5086565285), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.152757.
     
 The urgency of tackling climate change is driving a global shift towards renewable sources of energy, with a growing contribution from alternative energy sources such as solar, wind and hydroelectric power. With the global push for the sustainable energy, the demand for effective catalysts for sustainable chemical production and energy storage has been rapidly increasing. Computational simulations have contributed to the rational design of catalysts by allowing profound analysis of catalyst properties. Machine learning potential (MLP) has emerged as a potential tool to bridge the gap between quantum mechanical accuracy and computational efficiency, overcoming the computational cost limitations of quantum chemistry-based simulations. This review discusses the development and application of MLP in multiscale simulations of heterogeneous catalysis. It covers the basic concepts of computational catalysis, the construction of MLP focusing on efficient datasets, atomic structure representations, and the process of training and evaluating of ML models. Furthermore, the potential applications of MLP are discussed in addressing computational challenges within the field, as MLP has potential to overcome limitations in simulation time and length scale. Lastly, the prospects for MLP are presented, taking advantage of the rapid advancements in artificial intelligence architectures. It is expected that the integration of MLP will accelerate progress within the catalyst research community and will bridge the gap between theoretical and experimental approaches in catalytic research.    
-
-    
-
-## Highly active Mn2O3-Fe3O4 catalyst with abundant metal-oxygen bonds for real time sensing of carbendazim in environmental samples   
-
-OpenAlex: https://openalex.org/W4399255455    
-Open access: False
-    
-[Saravana Pandi Sivaji](https://openalex.org/A5020871218), [Subramaniyan Pulikkutty](https://openalex.org/A5039136667), [Shen‐Ming Chen](https://openalex.org/A5002027079), [Shen‐Ming Chen](https://openalex.org/A5002027079), [Wedad A. Al-onazi](https://openalex.org/A5041444490), [Tahani Saad Algarni](https://openalex.org/A5057338255), [Mohamed S. Elshikh](https://openalex.org/A5077639126), Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research & design. None(None)] 2024.https://doi.org/10.1016/j.psep.2024.06.001.
-    
-No abstract    
-
-    
-
-## Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations   
-
-OpenAlex: https://openalex.org/W4399262784    
-Open access: False
-    
-[Raluca-Ioana Jalbă](https://openalex.org/A5097081565), [Dragoş Lucian Isac](https://openalex.org/A5018537218), [Ștefan Gabriel Soriga](https://openalex.org/A5065931978), [Isabela C. Man](https://openalex.org/A5036814830), Molecular catalysis. 563(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114243.
-    
-No abstract    
 
     
 
@@ -253,17 +209,6 @@ Open access: False
 [Jehad Abed](https://openalex.org/A5049493917), [Javier Heras‐Domingo](https://openalex.org/A5062528507), [Rohan Yuri Sanspeur](https://openalex.org/A5071284998), [Ming Ronnier Luo](https://openalex.org/A5076838400), [Wajdi Alnoush](https://openalex.org/A5048076397), [Débora Motta Meira](https://openalex.org/A5036126810), [Hsiao‐Tsu Wang](https://openalex.org/A5037413243), [Jian Wang](https://openalex.org/A5048097208), [Jigang Zhou](https://openalex.org/A5033120840), [Daojin Zhou](https://openalex.org/A5052565332), [Khalid Fatih](https://openalex.org/A5015913191), [John R. Kitchin](https://openalex.org/A5003442464), [Drew Higgins](https://openalex.org/A5044827415), [Zachary W. Ulissi](https://openalex.org/A5024574386), [Edward H. Sargent](https://openalex.org/A5054680242), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c01353.
     
 The demand for green hydrogen has raised concerns over the availability of iridium used in oxygen evolution reaction catalysts. We identify catalysts with the aid of a machine learning-aided computational pipeline trained on more than 36,000 mixed metal oxides. The pipeline accurately predicts Pourbaix decomposition energy (Gpbx) from unrelaxed structures with a mean absolute error of 77 meV per atom, enabling us to screen 2070 new metallic oxides with respect to their prospective stability under acidic conditions. The search identifies Ru0.6Cr0.2Ti0.2O2 as a candidate having the promise of increased durability: experimentally, we find that it provides an overpotential of 267 mV at 100 mA cm–2 and that it operates at this current density for over 200 h and exhibits a rate of overpotential increase of 25 μV h–1. Surface density functional theory calculations reveal that Ti increases metal–oxygen covalency, a potential route to increased stability, while Cr lowers the energy barrier of the HOO* formation rate-determining step, increasing activity compared to RuO2 and reducing overpotential by 40 mV at 100 mA cm–2 while maintaining stability. In situ X-ray absorption spectroscopy and ex situ ptychography-scanning transmission X-ray microscopy show the evolution of a metastable structure during the reaction, slowing Ru mass dissolution by 20× and suppressing lattice oxygen participation by >60% compared to RuO2.    
-
-    
-
-## PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks   
-
-OpenAlex: https://openalex.org/W4399259267    
-Open access: False
-    
-[Guobin Zhao](https://openalex.org/A5074545617), [Yongchul G. Chung](https://openalex.org/A5059483379), Journal of chemical theory and computation. None(None)] 2024.https://doi.org/10.1021/acs.jctc.4c00434.
-    
-We report a fast and easy method (PACMAN) to assign partial atomic charges on metal-organic framework (MOF) and covalent-organic framework (COF) crystal structures based on graph convolution networks (GCNs) trained on >1.8 million high-fidelity partial atomic charge data obtained from the Quantum Metal-Organic Framework (QMOF) database. The developed model shows outstanding performance, achieving a mean absolute error (MAE) of 0.0055 e (test set performance) while maintaining consistency with DDEC6, Bader, and CM5 charges across diverse chemistry and topologies of MOFs and COFs. We find that the new method accurately assigns partial atomic charges for ion-containing nanoporous materials, which has not been possible in previous machine learning (ML) models. Grand canonical Monte Carlo (GCMC) simulation results for CO    
 
     
 

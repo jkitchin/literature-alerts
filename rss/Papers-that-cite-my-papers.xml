@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 09 Jun 2024 01:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 01:10:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Hydrogen Atom Binding Energy of Structurally Well-Defined Cerium Oxide Nodes at the Metal&#8211;Organic Framework&#8211;Liquid Interfaces</title>
-      <link>https://doi.org/10.1021/acs.jpcc.4c02409</link>
-      <description>Zachary Ingram, Chance Lander, Madeleine C. Oliver, Nazmiye G&#246;k&#231;e Alt&#305;n&#231;eki&#231;, Liangliang Huang, Yihan Shao, Hyunho Noh, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399256990
-
-                No abstract</description>
-      <author>Zachary Ingram, Chance Lander, Madeleine C. Oliver, Nazmiye G&#246;k&#231;e Alt&#305;n&#231;eki&#231;, Liangliang Huang, Yihan Shao, Hyunho Noh</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c02409</guid>
-    </item>
-    <item>
-      <title>Quantification of alloy atomic composition sites in 2D ternary MoS2(1-x)Se2x and their role in persistent photoconductivity, enhanced photoresponse and photo-electrocatalysis</title>
-      <link>https://doi.org/10.1016/j.mtadv.2024.100504</link>
-      <description>Ravi K. Biroju, Dipak Maity, Viliam Vreten&#225;r, &#317;ubom&#237;r Van&#269;o, Rahul Sharma, Madhusmita Sahoo, Jitendra Kumar, G. Gayathri, Tharangattu N. Narayanan, Saroj K. Nayak, Materials today advances. 22(None)] 2024. https://openalex.org/W4399257409
-
-                No abstract</description>
-      <author>Ravi K. Biroju, Dipak Maity, Viliam Vreten&#225;r, &#317;ubom&#237;r Van&#269;o, Rahul Sharma, Madhusmita Sahoo, Jitendra Kumar, G. Gayathri, Tharangattu N. Narayanan, Saroj K. Nayak</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtadv.2024.100504</guid>
-    </item>
     <item>
       <title>Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects</title>
       <link>https://doi.org/10.1016/j.cej.2024.152757</link>
@@ -36,26 +16,6 @@
       <author>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
-    </item>
-    <item>
-      <title>Highly active Mn2O3-Fe3O4 catalyst with abundant metal-oxygen bonds for real time sensing of carbendazim in environmental samples</title>
-      <link>https://doi.org/10.1016/j.psep.2024.06.001</link>
-      <description>Saravana Pandi Sivaji, Subramaniyan Pulikkutty, Shen&#8208;Ming Chen, Shen&#8208;Ming Chen, Wedad A. Al-onazi, Tahani Saad Algarni, Mohamed S. Elshikh, Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research &amp; design. None(None)] 2024. https://openalex.org/W4399255455
-
-                No abstract</description>
-      <author>Saravana Pandi Sivaji, Subramaniyan Pulikkutty, Shen&#8208;Ming Chen, Shen&#8208;Ming Chen, Wedad A. Al-onazi, Tahani Saad Algarni, Mohamed S. Elshikh</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.psep.2024.06.001</guid>
-    </item>
-    <item>
-      <title>Theoretical insights into the activity of the N doped graphene quantum dots for oxygen reduction reaction as a function of the shape and edge terminations</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114243</link>
-      <description>Raluca-Ioana Jalb&#259;, Drago&#351; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man, Molecular catalysis. 563(None)] 2024. https://openalex.org/W4399262784
-
-                No abstract</description>
-      <author>Raluca-Ioana Jalb&#259;, Drago&#351; Lucian Isac, &#536;tefan Gabriel Soriga, Isabela C. Man</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114243</guid>
     </item>
     <item>
       <title>Reduced graphene oxide encapsulated octahedral NiSe2 nanocrystals with dominant {111} crystal facets for efficient hydrogen evolution reaction</title>
@@ -226,16 +186,6 @@
       <author>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent</author>
       <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01353</guid>
-    </item>
-    <item>
-      <title>PACMAN: A Robust Partial Atomic Charge Predicter for Nanoporous Materials Based on Crystal Graph Convolution Networks</title>
-      <link>https://doi.org/10.1021/acs.jctc.4c00434</link>
-      <description>Guobin Zhao, Yongchul G. Chung, Journal of chemical theory and computation. None(None)] 2024. https://openalex.org/W4399259267
-
-                We report a fast and easy method (PACMAN) to assign partial atomic charges on metal-organic framework (MOF) and covalent-organic framework (COF) crystal structures based on graph convolution networks (GCNs) trained on &gt;1.8 million high-fidelity partial atomic charge data obtained from the Quantum Metal-Organic Framework (QMOF) database. The developed model shows outstanding performance, achieving a mean absolute error (MAE) of 0.0055 e (test set performance) while maintaining consistency with DDEC6, Bader, and CM5 charges across diverse chemistry and topologies of MOFs and COFs. We find that the new method accurately assigns partial atomic charges for ion-containing nanoporous materials, which has not been possible in previous machine learning (ML) models. Grand canonical Monte Carlo (GCMC) simulation results for CO</description>
-      <author>Guobin Zhao, Yongchul G. Chung</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.jctc.4c00434</guid>
     </item>
     <item>
       <title>Prediction of Electronic Density of States in Guanine-TiO2 Adsorption Model based on Machine Learning</title>

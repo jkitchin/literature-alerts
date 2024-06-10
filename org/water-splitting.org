@@ -1,8 +1,8 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Sun Jun  9 01:13:34 2024
+Created on Mon Jun 10 01:10:03 2024
 
-Found 72 results from 2024-06-02 to 2024-06-09
+Found 66 results from 2024-06-03 to 2024-06-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
@@ -25,90 +25,6 @@ OpenAlex: https://openalex.org/W4399347332 (Open access: False)
 , No host. None(None)] 2025. https://doi.org/10.3030/101150584 
      
 No abstract    
-
-    
-
-* Integrated iron phosphides and cobalt oxide electrocatalyst for enhanced hydrogen and oxygen evolution reactions: A study on activity and stability factors  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399256266
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.05.449")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399256266"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399256266"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399256266"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399256266 (Open access: True)
-    
-[[https://openalex.org/A5028053376][Asma A. Alothman]], [[https://openalex.org/A5051155813][Jafar Hussain Shah]], [[https://openalex.org/A5062239342][Mehar Un Nisa]], [[https://openalex.org/A5062023379][S. Noor Mohammad]], [[https://openalex.org/A5052155429][Abdul Ghafoor Abid]], [[https://openalex.org/A5069570638][Muhammad Usman]], [[https://openalex.org/A5070114016][Muhammad Adnan]], International journal of hydrogen energy. None(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.05.449 
-     
-No abstract    
-
-    
-
-* Recent advances on defect modulated electrocatalysts for oxygen evolution reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399259171
-:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4nr01805b")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399259171"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399259171"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399259171"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399259171 (Open access: False)
-    
-[[https://openalex.org/A5031666320][Qianyun He]], [[https://openalex.org/A5078255752][Lei Han]], [[https://openalex.org/A5050920074][Chao Lin]], [[https://openalex.org/A5043454452][Kai Tao]], Nanoscale. None(None)] 2024. https://doi.org/10.1039/d4nr01805b 
-     
-The oxygen evolution reaction (OER) is crucial for applications such as water splitting and rechargeable metal-air batteries. Recent research has focused on improving the activity and stability of OER electrocatalysts...    
-
-    
-
-* Augmented Electrochemical Oxygen Evolution by d‐p Orbital Electron Coupling  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399259276
-:TOPICS: Electrochemical Detection of Heavy Metal Ions, Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/adma.202404772")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399259276"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399259276"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399259276"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399259276 (Open access: False)
-    
-[[https://openalex.org/A5041345011][Ning Sun]], [[https://openalex.org/A5029133715][Zhichuan Zheng]], [[https://openalex.org/A5056352115][Zhuangzhuang Lai]], [[https://openalex.org/A5048989648][Junjie Wang]], [[https://openalex.org/A5014097935][Peng Du]], [[https://openalex.org/A5005813017][Tianping Ying]], [[https://openalex.org/A5010652291][Hai Feng Wang]], [[https://openalex.org/A5009572609][Jianchun Xu]], [[https://openalex.org/A5003318665][Runze Yu]], [[https://openalex.org/A5055985121][Kaiming Bi]], [[https://openalex.org/A5068442915][Ming Lei]], [[https://openalex.org/A5027397787][Kuo-Si Huang]], Advanced materials. None(None)] 2024. https://doi.org/10.1002/adma.202404772 
-     
-While high-entropy alloys (HEAs), high-entropy oxides (HEOs), and high-entropy hydroxides (HEHs), have been advanced as a novel frontier in electrocatalytic oxygen evolution, their inherent activity deficiency poses a major challenge. To achieve the unlimited goal to tailor the structure-activity relationship in multicomponent systems, entropy-driven composition engineering presents substantial potential, by fabricating high-entropy anion-regulated transition metal compounds as sophisticated oxygen evolution reaction (OER) electrocatalysts. Herein, we developed a versatile two-dimensional high-entropy metal phosphorus trisulfides (HEPS    
-
-    
-
-* Sustainable Microalgae-Membrane Photobioreactor System for Onboard Oxygen Production in an Aircraft  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399266140
-:TOPICS: Microalgae as a Source for Biofuels Production
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.4271/2024-26-0402")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399266140"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399266140"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399266140"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399266140 (Open access: False)
-    
-[[https://openalex.org/A5082819127][S. Chalathadka Subrahmanya]], [[https://openalex.org/A5076222058][Naveen Kumar]], [[https://openalex.org/A5031773105][J.K. Ranjan]], [[https://openalex.org/A5005974115][Shivaprasad Kotnadh]], SAE technical papers on CD-ROM/SAE technical paper series. None(None)] 2024. https://doi.org/10.4271/2024-26-0402 
-     
-<div class="section abstract"><div class="htmlview paragraph">The purpose of the Air Generation System is to provide a constant supply of conditioned fresh air to meet the necessary oxygen availability and to prevent CO2 concentrations for the occupants in an aircraft. The engine bleed energy or electrical load energy consumed towards this circumstance accounts to be approximately 5% of total fuel burn and in turn, contributes to the global emissions of greenhouse gases.</div><div class="htmlview paragraph">This paper studies the improvement areas of the present conventional system such as fuel burn consumption associated with an aircraft ECS depending on the amount of bleed, ram air usage and electric power consumption. Improved systems for sustainability and hybridization in environmental control systems are desirable in aircraft.</div><div class="htmlview paragraph">This paper explains how a new design of the sustainable hybrid module assists the conventional system, by using a proposed modular MPBR. The MPBR system generates oxygen-enriched air, which is mixed with the traditional fresh air generated from conventional air generation systems.</div><div class="htmlview paragraph">MPBR system revitalizes the existing air and establishes more air recirculation when compared to a conventional system. It will reduce the demand for fresh air from the engine bleed in case of engine bleed aircraft or reduce the electrical load in case of more electric aircraft, which hereby improves engine efficiency.</div><div class="htmlview paragraph">The proposed system can also be used for redundant life support purposes during an emergency.</div><div class="htmlview paragraph">VOCs related to fuel consumption, maintenance, and global emissions of greenhouse gases can be addressed with the proposed solution. It applies to most of the aircraft variants and enhances sustainability, hybridization, reliability, and cost-effective features which would be of value and interest in a business case for the Suppliers, Manufacturers, and Customers side.</div></div>    
 
     
 
@@ -742,6 +658,27 @@ High-entropy alloys (HEAs) have garnered considerable attention as promising nan
 
     
 
+* Fabrication of N and S co-doped lignin-based porous carbon aerogels loaded with FeCo alloys and their application to oxygen evolution and reduction reactions in Zn-air batteries  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399382547
+:TOPICS: Electrocatalysis for Energy Conversion, Materials for Electrochemical Supercapacitors, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-06-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijbiomac.2024.132961")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399382547"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399382547"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399382547"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399382547 (Open access: False)
+    
+[[https://openalex.org/A5058132261][Ying Han]], [[https://openalex.org/A5040599204][Zihao Ma]], [[https://openalex.org/A5045021562][Xing Wang]], [[https://openalex.org/A5069180245][Guangwei Sun]], International journal of biological macromolecules. None(None)] 2024. https://doi.org/10.1016/j.ijbiomac.2024.132961 
+     
+Zn-air batteries are a highly promising clean energy sustainable conversion technology, and the design of dual-function electrocatalysts with excellent activity and stability is crucial for their development. In this work, FeCo alloy loaded biomass-based N and S co-doped carbon aerogels (FeCo@NS-LCA) were fabricated from chitosan and lignosulfonate-metal chelates via liquid nitrogen pre-frozen synergistic high-temperature carbonization with application in electrocatalytic reactions. The abundant oxygen-containing functional groups on lignosulfonates have a chelating effect on metal ions, which can avoid the aggregation of metal nanoparticles during carbonation and catalysis, facilitating the construction of a nanoconfinement catalytic system with biomass carbon as the domain-limiting body and FeCo nanoparticles as the active sites. FeCo@NS-LCA exhibited catalytic activity (E1/2 = 0.87 V, JL = 5.7 mA cm−2) comparable to the commercial Pt/C in the oxygen reduction reaction (ORR), excellent resistance to methanol toxicity and stability. Meanwhile, the overpotential of oxygen evolution reaction (OER) was 324 mV, close to that of commercial RuO2 catalysts (351 mV). This study utilizes the coordination action of lignosulfonate to provide a novel and environmentally friendly method for the preparation of confined nano-catalysts and provides a new perspective for the high-value utilization of biomass resources.    
+
+    
+
 * Engineering Internal and External Low-Coordination Atoms in Nickel–Organic Framework Nanoarrays to Promote the Electrochemical Oxygen Evolution Reaction  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399393923
@@ -973,27 +910,6 @@ The hydrogen (H2) evolution rates of photocatalysts suffer from weak oxidation a
 
     
 
-* Amorphous cobalt-nickel borides boost electrocatalytic ethanol oxidation coupled with energy-saving hydrogen production  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399265708
-:TOPICS: Electrocatalysis for Energy Conversion, Fuel Cell Membrane Technology, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-01-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1039/d4cy00277f")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399265708"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399265708"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399265708"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399265708 (Open access: False)
-    
-[[https://openalex.org/A5037602578][Anqi Hong]], [[https://openalex.org/A5069126794][Xiangbowen Du]], [[https://openalex.org/A5070634988][Kun Qian]], [[https://openalex.org/A5089351331][Fang Zheng]], [[https://openalex.org/A5030102575][Dongli Yu]], [[https://openalex.org/A5003304196][Jing Sui]], [[https://openalex.org/A5005936713][Wei Tong]], [[https://openalex.org/A5033577055][Renhong Li]], Catalysis science & technology. None(None)] 2024. https://doi.org/10.1039/d4cy00277f 
-     
-The thermodynamically more advantageous ethanol oxidation (EOR) can replace anodic oxygen evolution (OER) in electrolysis, offering a practical way to produce energy-efficient hydrogen and simultaneously upgrade biomass. Here, we design...    
-
-    
-
 * Recent Advances in Non-Precious Metal-Based Electrodes for Alkaline Water Electrolysis  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399301694
@@ -1120,27 +1036,6 @@ Electrochemical water splitting and CO2 reduction are important processes to pro
 
     
 
-* Modulation in work function of CoTe as bifunctional electrocatalyst for rechargeable zinc air battery  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399258693
-:TOPICS: Aqueous Zinc-Ion Battery Technology, Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.05.232")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399258693"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399258693"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399258693"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399258693 (Open access: False)
-    
-[[https://openalex.org/A5053104875][Tiantian Xiong]], [[https://openalex.org/A5021963362][Xianwei Li]], [[https://openalex.org/A5011646306][Zeyu Ma]], [[https://openalex.org/A5025445074][Kaiyi Liu]], [[https://openalex.org/A5023342765][Yalong Li]], [[https://openalex.org/A5092147363][Chen Li]], [[https://openalex.org/A5031175451][Fang Luo]], [[https://openalex.org/A5004582989][Zehui Yang]], Journal of colloid and interface science. None(None)] 2024. https://doi.org/10.1016/j.jcis.2024.05.232 
-     
-The sluggish kinetics and inferior stability of oxygen electrocatalyst in rechargeable zinc air battery (ZAB) hamper its industrialization. In this work, we activate cobalt telluride (CoTe) by introduction of metallic cobalt (Co) to modulate the work function to facilitate the electron transfer from Co to CoTe during oxygen catalysis; additionally, the three-dimensional porous carbon nanosheets (3DPC) are invited to reduce the resistance towards electrolyte/oxygen diffusion. Thereby, Co-CoTe@3DPC only demands 280 mV overpotential to reach 10 mA cm−2 under alkaline oxygen evolution reaction (OER) condition, relatively lower than commercial iridium oxides (IrO2); besides the operando electrochemical impedance spectroscopy (EIS) indicates a better resistance towards surface reconstruction than Co@3DPC leading to a superior stability. A Pt-like oxygen reduction reaction (ORR) performance, half-wave potential associated with kinetic current density, is achieved for Co-CoTe@3DPC. A maximum power density of 203 mW cm−2 is achieved and sustains for 800 h. Furthermore, the all-solid-state ZAB offers 97 mW cm−2. Theoretical calculation suggests that the incorporation of metallic Co to CoTe maintains the superb ORR activity and promotes the OER catalysis.    
-
-    
-
 * Addressing the Challenge of Electrochemical Ionomer Oxidation in Future Anion Exchange Membrane Water Electrolyzers  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399299301
@@ -1222,48 +1117,6 @@ OpenAlex: https://openalex.org/W4399303052 (Open access: False)
 [[https://openalex.org/A5081367643][Xinli Jing]], [[https://openalex.org/A5006158541][Changwu Lv]], [[https://openalex.org/A5084570258][Hongmei Zhang]], [[https://openalex.org/A5026704864][Chu Chen]], [[https://openalex.org/A5016110780][Zhaofeng Wu]], Colloids and surfaces. A, Physicochemical and engineering aspects. None(None)] 2024. https://doi.org/10.1016/j.colsurfa.2024.134411 
      
 The one-step green preparation of heterojunction-structured bifunctional high-efficiency electrocatalysts provides a simple method for the green, low-cost, convenient and efficient application of hydrogen energy, meanwhile it is still challenging to achieve. In the present work, the phosphorus-doped two-phase heterojunction P-Co5.47N/Co9S8@NPC nanorods was synthesized on carbon cloth (CC) as a high-quality bifunctional electrode through simple one-step chemical vapor deposition (CVD) method. Saccharomycetes cerevisiae were used for the non-toxic phosphorus doping and formation of a carbon nanolayer wrapping Co5.47N/Co9S8 nanorods. Compared with the single-phase electrocatalyst Co9S8@NPC NSs/CC, P-Co5.47N/Co9S8@NPC NSs/CC exhibited more excellent electrocatalytic performance which required overpotentials of 69 mV for hydrogen evolution reaction (HER), 182.5 mV for oxygen evolution reaction (OER), 1.45 V for over water splitting (OWS) at 10 mA cm-2 in KOH solution. The designed P-Co5.47N/Co9S8@NPC NSs/CC presented multiple advantages of nanorod structure, doped structure, abundant heterointerfaces, as well as dual-phase synergy, which triggered outstanding electrocatalytic performance.    
-
-    
-
-* A dual spin-controlled chiral two-/three-dimensional perovskite artificial leaf for efficient overall photoelectrochemical water splitting  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399263634
-:TOPICS: Perovskite Solar Cell Technology, Photocatalytic Materials for Solar Energy Conversion, Electrocatalysis for Energy Conversion
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-49216-x")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399263634"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399263634"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399263634"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399263634 (Open access: True)
-    
-[[https://openalex.org/A5089337701][Hyungsoo Lee]], [[https://openalex.org/A5020514926][Chan Uk Lee]], [[https://openalex.org/A5071908368][Juwon Yun]], [[https://openalex.org/A5087136291][Chang-Seop Jeong]], [[https://openalex.org/A5041231105][Wooyong Jeong]], [[https://openalex.org/A5000495352][Jaehyun Son]], [[https://openalex.org/A5059721907][Young Sun Park]], [[https://openalex.org/A5013464336][Subin Moon]], [[https://openalex.org/A5015323591][Soobin Lee]], [[https://openalex.org/A5038925341][Junhwan Kim]], [[https://openalex.org/A5011832423][Jooho Moon]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-49216-x  ([[https://www.nature.com/articles/s41467-024-49216-x.pdf][pdf]])
-     
-The oxygen evolution reaction, which involves high overpotential and slow charge-transport kinetics, plays a critical role in determining the efficiency of solar-driven water splitting. The chiral-induced spin selectivity phenomenon has been utilized to reduce by-product production and hinder charge recombination. To fully exploit the spin polarization effect, we herein propose a dual spin-controlled perovskite photoelectrode. The three-dimensional (3D) perovskite serves as a light absorber while the two-dimensional (2D) chiral perovskite functions as a spin polarizer to align the spin states of charge carriers. Compared to other investigated chiral organic cations, R-/S-naphthyl ethylamine enable strong spin-orbital coupling due to strengthened π-π stacking interactions. The resulting naphthyl ethylamine-based chiral 2D/3D perovskite photoelectrodes achieved a high spin polarizability of 75%. Moreover, spin relaxation was prevented by employing a chiral spin-selective L-NiFeOOH catalyst, which enables the secondary spin alignment to promote the generation of triplet oxygen. This dual spin-controlled 2D/3D perovskite photoanode achieves a 13.17% of applied-bias photon-to-current efficiency. Here, after connecting the perovskite photocathode with L-NiFeOOH/S-naphthyl ethylamine 2D/3D photoanode in series, the resulting co-planar water-splitting device exhibited a solar-to-hydrogen efficiency of 12.55%.    
-
-    
-
-* Reconstruction of Lower Eyelid in Basal Cell Carcinoma Case with Adjunctive Hyperbaric Oxygen Therapy: A Case Report  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399265467
-:TOPICS: Epidemiology and Management of Skin Cancer, Craniofacial Reconstruction Techniques, Microsurgical Reconstruction Techniques
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.35790/msj.v7i1.54895")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399265467"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399265467"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399265467"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399265467 (Open access: True)
-    
-[[https://openalex.org/A5098976541][Yulius A. M. Chietra]], [[https://openalex.org/A5078698094][Mendy Hatibie]], [[https://openalex.org/A5098976542][Ramli Dali]], Medical Scope Journal (MSJ). 7(1)] 2024. https://doi.org/10.35790/msj.v7i1.54895  ([[https://ejournal.unsrat.ac.id/v3/index.php/msj/article/download/54895/46329][pdf]])
-     
-Abstract: Basal cell carcinomas (BCCs) are the most common cancers in humans, caused by exposure to ultraviolet light and are associated with PTCH1 gene mutation. Its incidence rate significantly increases per year especially in elderly people. Several modalities are available for BCC treatment but surgery is still considered as the gold standard. Oxygen is mandatory for almost all wound healing processes, and oxygen substitution can be delivered in the form of hyperbaric oxygen (HBO) therapy. We presented a 70 years old woman with a major complaint of a tumor located in the left infrapalpebral region, below the left lower lash line with 5 years of evolution. Patient had clinical presentation of solid nodular basal cell carcinoma which was the most common clinical subtype. Patient was diagnosed as having BCC based on history taking, clinical findings, and histopathological examination. Surgical wide excision, skin flap, and HBO as the adjunctive therapy were performed on this patient. With these techniques, healing time was reduced, complications rates were low, and cosmetic outcome was much better. In conclusion, closing defects of BCC case with surgical wide excision and flap yields a remarkable outcome and an adjunctive HBO therapy after surgery optimizes the oxygenation, thus, the healing potential of tissue prior to surgery, and accelerates wound healing post operatively. A good result with short healing duration was observed. Keywords: basal cell carcinoma; hyperbaric oxygen therapy; flap; wound healing    
 
     
 
@@ -1432,6 +1285,27 @@ OpenAlex: https://openalex.org/W4399281694 (Open access: True)
 [[https://openalex.org/A5058403371][Zhineng Hao]], [[https://openalex.org/A5062163096][Guoquan Liu]], [[https://openalex.org/A5051125527][Pengfei Wang]], [[https://openalex.org/A5031958075][Weiyu Zhang]], [[https://openalex.org/A5084731235][Wenming Sun]], [[https://openalex.org/A5024591419][Lirong Zheng]], [[https://openalex.org/A5069379580][Shaojun Guo]], [[https://openalex.org/A5059413717][Sihui Zhan]], Proceedings of the National Academy of Sciences of the United States of America. 121(24)] 2024. https://doi.org/10.1073/pnas.2311180121 
      
 As a sustainable and promising approach of removing of nitrogen oxides (NO x ), catalytic reduction of NO x with H 2 is highly desirable with a precise understanding to the structure–activity relationship of supported catalysts. In particular, the dynamic evolution of support at microscopic scale may play a critical role in heterogeneous catalysis, however, identifying the in situ structural change of support under working condition with atomic precision and revealing its role in catalysis is still a grand challenge. Herein, we visually capture the surface lattice expansion of WO 3−x support in Pt–WO 3−x catalyst induced by NO in the exemplified reduction of NO with H 2 using in situ transmission electron microscopy and first reveal its important role in enhancing catalysis. We find that NO can adsorb on the oxygen vacancy sites of WO 3−x and favorably induce the reversible stretching of W–O–W bonds during the reaction, which can reduce the adsorption energy of NO on Pt 4 centers and the energy barrier of the rate-determining step. The comprehensive studies reveal that lattice expansion of WO 3−x support can tune the catalytic performance of Pt–WO 3−x catalyst, leading to 20% catalytic activity enhancement for the exemplified reduction of NO with H 2 . This work reveals that the lattice expansion of defective support can tune and optimize the catalytic performance at the atomic scale.    
+
+    
+
+* Electrochemically regulating COD/TN ratio of aged landfill leachate via rapid chlorine-mediated ammonia oxidation with RuO2-IrO2/Ti anode  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399327555
+:TOPICS: Occurrence and Health Effects of Drinking Water Disinfection By-Products, Advanced Oxidation Processes for Water Treatment, Microbial Nitrogen Cycling in Wastewater Treatment Systems
+:PUBLICATION_DATE: 2024-08-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jece.2024.113255")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399327555"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399327555"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399327555"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399327555 (Open access: False)
+    
+[[https://openalex.org/A5017712129][Haoran Sun]], [[https://openalex.org/A5013038112][Chen Wang]], [[https://openalex.org/A5012645891][Hongtao Liu]], [[https://openalex.org/A5020423899][Yucheng Liu]], [[https://openalex.org/A5052600259][Yufan Chen]], [[https://openalex.org/A5067279934][Lizhang Wang]], Journal of environmental chemical engineering. 12(4)] 2024. https://doi.org/10.1016/j.jece.2024.113255 
+     
+Electrochemical oxidation process was employed to regulate the ratio of chemical oxygen demand to total nitrogen (COD/TN ratio) of aged landfill leachate, aiming to meet the requirement of biological treatment. The results indicate that the ammonia nitrogen can be rapidly removed through electrogenerated chlorine radicals over a typical chlorine evolution RuO2-IrO2/Ti anode. The increased input current and decreased flow rate are beneficial to COD/TN ratio improvement, and COD/TN ratio can be increased to more than 16 at 1000 mA (input current) and 0.3 L/h (flow rate). According to the obtained experimental data, we present a strategy for COD/TN ratio increase: (i) determining the COD/TN ratio balance coefficient (B) of aged landfill leachate, and selecting the anode with COD/TN ratio adjustment coefficient (TN) > B, where TN represents the ability to regulate COD/TN ratio, and B represents the specific TN to keep the same COD/TN ratio; (ii) performing the wastewater treatment experiments at different control parameters during electrochemical process; (iii) calculating the k of control parameter sensitivity curves to achieve different tolerance abilities, and further preferentially regulating the reaction process to high average current efficiency (ACE) of ammonia nitrogen and low ACE of COD. This work validates that the electrochemical process can increase the COD/TN ratio together with enhancing the biodegradability of such refractory wastewater, and also provides an effective tool for regulation of the COD/TN ratio via complete ammonia oxidation.    
 
     
 

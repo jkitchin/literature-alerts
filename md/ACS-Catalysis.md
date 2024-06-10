@@ -1,21 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jun  9 01:13:39 2024
+Created on Mon Jun 10 01:10:07 2024
 
-Found 11 results from 2024-06-02 to 2024-06-09
+Found 10 results from 2024-06-03 to 2024-06-10
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Cyclopropenium Sulfide as Lewis Base Catalyst for Chemoselective and Regioselective Electrophilic Selenylation of Phenols   
-
-OpenAlex: https://openalex.org/W4399258939    
-Open access: True
-    
-[Rui Chen](https://openalex.org/A5053453125), [Tianyu Zheng](https://openalex.org/A5043981136), [Xiaojian Jiang](https://openalex.org/A5048861402), [Ying‐Yeung Yeung](https://openalex.org/A5016128867), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01660.
-    
-No abstract    
-
-    
 
 ## Enantioselective Copper-Catalyzed Dearomative Spiroannulation of β-Naphthols or Indoles with Yne-Allylic Esters   
 
