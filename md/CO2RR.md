@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jun 10 01:10:06 2024
+Created on Tue Jun 11 01:08:40 2024
 
-Found 75 results from 2024-06-03 to 2024-06-10
+Found 68 results from 2024-06-04 to 2024-06-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -106,28 +106,6 @@ Electrochemical CO2 reduction reaction (eCO2RR) driven by renewable electricity 
 
     
 
-## Breaking the Intrinsic Activity Barriers of Bilayer Metal Oxides for Catalytic Co2 Reduction   
-
-OpenAlex: https://openalex.org/W4399277272    
-Open access: False
-    
-[Hui Xu](https://openalex.org/A5037489490), [Hao Song](https://openalex.org/A5048706086), [Chen Bi](https://openalex.org/A5091531922), [Ganghua Zhou](https://openalex.org/A5013790248), [Lan Xiang](https://openalex.org/A5069426822), [Kang Zhong](https://openalex.org/A5087088572), [Weiyi Jiang](https://openalex.org/A5053296586), [Jinman Yang](https://openalex.org/A5056015431), [Wenlong Shen](https://openalex.org/A5012789395), [Naiying Hao](https://openalex.org/A5066300112), [Xianglin Zhu](https://openalex.org/A5065447194), [Xingwang Zhu](https://openalex.org/A5007599540), [Xiaozhi Wang](https://openalex.org/A5086657866), [Hui Xu](https://openalex.org/A5051089032), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4851392.
-    
-The photocatalytic CO2 reduction reaction is severely limited by sluggish charge kinetics. To address this issue, a strategy utilizing non-metal-doped layered double hydroxide (LDH) has been developed to control the electronic structure of spindle-shaped nanoflowers, resulting in efficient photocatalytic CO2 reduction. The results demonstrate that the designed catalyst yields 263.16 μmol g−1 h−1 for the photoreduction of CO2 to CO. Furthermore, the in situ FT-IR analysis demonstrate that the specific S-ligand (S-bridge) facilitates CO2 activation, ensuring the continuous production of *COOH. The hydrothermal-assisted ionic liquid method proposed in this study offers guidance for modifying catalysts.    
-
-    
-
-## The comparative performance study of the EF7 downsized engines; fuel economy besides CO2 reduction   
-
-OpenAlex: https://openalex.org/W4399278756    
-Open access: True
-    
-[Mohammad Mostafa Namar](https://openalex.org/A5033124275), [Omid Jahanian](https://openalex.org/A5069747213), [Kamyar Nikzadfar](https://openalex.org/A5004857016), [Rouzbeh Shafaghat](https://openalex.org/A5056432040), Future technology. 3(3)] 2024.https://doi.org/10.55670/fpll.futech.3.3.4 ([pdf](https://fupubco.com/futech/article/download/179/118/692)).
-    
-Engine downsizing is considered a strategic idea in fuel economy enhancement as well as reduction. It is defined in the literature as the decrease in engine geometrical dimensions besides its performance being fixed. In this research, the Iranian gasoline-fueled national engine, EF7, has been investigated for 25% downsizing. After introducing the gasoline-fueled and CNG-fueled versions of downsized engines, their performance, besides release rates are studied in detail. A one-dimensional engine simulator coupled with a 3D-CFD model is developed to carry out such an investigation, an experimental test setup is provided to evaluate the accuracy of the provided numerical model, as well. The first version of presented downsized engines, called EF7, is a 3-cylinder engine with the same geometrical characteristics as the base engine, which is equipped with a turbo-charger and dual CVVT technologies. The EF7 is then introduced by fuel shifting to CNG as the second version of downsized engines, and finally, increasing the compression ratio, the EF7 is presented as the third version of studied-downsized engines. The results show almost the same rate of BSFC besides a 3.4% reduction in concentration for EF7, 20.6% fuel economy enhancement, besides 20.8% reduction in the specific release rate for EF7, and 28.8% fuel economy enhancement, besides 25.3% reduction in the specific release rate for EF7 in comparison with the base engine.    
-
-    
-
 ## Single Atoms Immobilization on MXene-Metal-Organic Polyhedra Assemblies for Selective Reduction of CO2 to Formic Acid   
 
 OpenAlex: https://openalex.org/W4399350957    
@@ -136,17 +114,6 @@ Open access: False
 , No host. None(None)] 2024.https://doi.org/10.3030/101151123.
     
 No abstract    
-
-    
-
-## Porous two-dimensional CuSe@BiOI isotype heterojunction with highly exposed (1 0 2) facets for efficient photoelectrocatalytic CO2 reduction and photodetection   
-
-OpenAlex: https://openalex.org/W4399273856    
-Open access: False
-    
-[X. G. Gong](https://openalex.org/A5062523981), [Shuai Fan](https://openalex.org/A5029372972), [Qu Yang](https://openalex.org/A5034439588), [Jingliang Yang](https://openalex.org/A5011645914), [Y Chen](https://openalex.org/A5017414489), [Xiaosi Qi](https://openalex.org/A5065577097), [Hui Shen](https://openalex.org/A5074707402), [Dan Ren](https://openalex.org/A5060362295), [Mingkui Wang](https://openalex.org/A5041280820), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.152773.
-    
-Using photoelectrochemical technology to construct efficient photoelectric materials has aroused extensive research interest. In this study, we propose a two-dimensional porous CuSe@BiOI isotype heterojunction photocathode for CO2 reduction to formic acid. The heterojunction was constructed by the epitaxial growth of high-quality oriented BiOI nanosheets onto the porous CuSe framework. The CuSe framework as a template to ensure the formation of the (1 0 2) facets of BiOI and the isotropic charge transport characteristics of the (1 0 2) surface greatly improve the efficiency of charge separation and transfer. This CuSe@BiOI isotype heterojunction electrode can efficiently reduce CO2 to formic acid with a selectivity of up to 80.5 % in 0.5 M potassium bicarbonate aqueous solution. Meanwhile, the performance of the photodetector based on CuSe@BiOI heterostructure is 6.97 × 1011 Jones and a response rate of 87.13 mA W−1. This finding provides a new approach to designing stable heterojunction photoelectrocatalysts with isotropy    
 
     
 
@@ -249,17 +216,6 @@ Ethanol as a renewable fuel has been applied in fuel vehicles (FVs), and it is p
 
     
 
-## Predicted C–N Coupling Performance of Lateral Heterostructure Interfaces between Two Types of Layered Materials for Electrochemical Synthesis of Acetamide and Ammonia Via Coreduction of Co2 and N2   
-
-OpenAlex: https://openalex.org/W4399277334    
-Open access: False
-    
-[Yi Xiao](https://openalex.org/A5058971724), [Tianhang Zhou](https://openalex.org/A5055021587), [Chen Shen](https://openalex.org/A5038349950), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4851398.
-    
-Currently, carbon dioxide reduction (CO2RR) can convert CO2 into many high-value hydrocarbon chemicals via electrochemical processes, contributing to achieving energy conservation and emission reduction. Importantly, this method also guides the electrocatalytic synthesis of organonitrogen chemicals via C–C and C–N coupling, such as acetamide synthesis during the coelectroreduction of CO2 and N2. Herein, we utilized density functional theory calculations to predict the C–N coupling performance of *CCO and NH3 for acetamide synthesis on lateral heterostructure (LHS) interfaces of two types of layered materials: Type-A includes NbS2/MoS2, NbS2/TaS2, NbS2/WS2, MoS2/TaS2, and TaS2/WS2; Type-B contains LHS NbS2/AlN, NbS2/GaN, NbS2/ZnO, MoS2/AlN, MoS2/GaN, MoS2/ZnO, TaS2/AlN, TaS2/GaN, TaS2/ZnO, and WS2/AlN, WS2/GaN, WS2/ZnO. However, achieving simultaneous C–C coupling and C–N coupling remains a great challenge in designing catalysts. To address this, we systemically investigated these LHS catalysts, evaluating factors such as adsorption stability, electroconductivity, catalytic activity, selectivity, and electronic properties. Our findings suggest that MoS2/WS2 and NbS2/ZnO may be potential catalysts, facilitating acetamide synthesis from CO2 and N2 reduction with low limiting potentials of −1.11 and −0.97 V, respectively. The reaction pathway of CO2RR involves the formation of CO, C–C coupling via keto−enol tautomerism to form ketene (*CCO), N2 reduction, and C–N coupling between NH3 and *CCO to produce *CC(OH)NH2, finally resulting in acetamide production. Most of these LHS junction catalysts exhibit metallic and semiconductor electronic states, except for MoS2/GaN, which possesses a large band gap of up to 3.73 eV. Furthermore, our analysis indicates that NbS2/AlN, NbS2/GaN, TaS2/ZnO, WS2/AlN, and WS2/ZnO effectively suppress competing byproducts, ensuring the formation of *CCO and promoting nucleophilic reactions leading to *CC(OH)NH2 during *CC(OH)NH2. This strategic approach enables the synthesis of organonitrogen chemicals via C–N coupling in the coreduction of CO2 and NOx, expanding the scope of hydrocarbon products derived from CO2RR. The LHS catalysts identified in this study may be employed to form amide chemicals.    
-
-    
-
 ## Development of a novel sustainable concrete from waste coconut shell with alccofine supplements   
 
 OpenAlex: https://openalex.org/W4399291746    
@@ -293,17 +249,6 @@ Abstract Emissions reduction and greenhouse gas removal from the atmosphere are 
 
     
 
-## Exploring Spatial Pattern Optimization Path of Urban Building Carbon Emission based on Low-Carbon Cities Analytical Framework: A Case Study of Xi'an, China   
-
-OpenAlex: https://openalex.org/W4399274907    
-Open access: False
-    
-[Liang Chen](https://openalex.org/A5070156482), [Huan Huang](https://openalex.org/A5070269890), [Haonan Yang](https://openalex.org/A5039779053), [Yi Xiao](https://openalex.org/A5055929000), [Panyu Tang](https://openalex.org/A5014602416), [Shiyu Liu](https://openalex.org/A5023038428), [Ming Chang](https://openalex.org/A5086634763), Sustainable cities and society. None(None)] 2024.https://doi.org/10.1016/j.scs.2024.105551.
-    
-Reducing carbon dioxide emissions has become a prominent issue in city construction. Here, with the objective of spatial pattern optimization, we propose a comprehensive evaluation framework for low-carbon cities. To shed further light on the mechanism by which green finance facilitates the low-carbon transformation of the economy, we chose Xi'an as a study area, used the system dynamics model, simulated the relationship between different factors in the development of low-carbon cities, and provided guidance for spatial planning of low-carbon cities. Through systematic analysis of results, we found that with the progress of urbanization and the improvement of people's living standards, the carbon emissions from urban buildings in Xi'an will increase annually and reach 2.47 million tons by 2030. In scenario 1, the faster pace of urbanization raises carbon emissions from urban buildings by 3%, to 2.5543 million tons from the base. In contrast, in Scenario 2, the reduction in urbanization rate results in a decrease in urban building carbon emissions to 2.4243 million tons, a reduction of 2.26% compared to the baseline scenario. Thus it can be seen that diverse modifications of parameters exert distinct effects on the ultimate carbon emissions from urban buildings.    
-
-    
-
 ## Experimentally assessing the uncertainty of forecasts of geological carbon storage   
 
 OpenAlex: https://openalex.org/W4399303982    
@@ -334,17 +279,6 @@ Open access: False
 [Huimin Wang](https://openalex.org/A5002001826), [Lei Yu](https://openalex.org/A5085349645), [Yu Liu](https://openalex.org/A5018073672), [Yanan Wang](https://openalex.org/A5016373252), [Kailei Xu](https://openalex.org/A5064520287), [Xingcheng Wang](https://openalex.org/A5008871834), No host. None(None)] 2024.https://doi.org/10.1117/12.3032121.
     
 Due to the unclear distribution of near-surface atmospheric carbon dioxide (CO2) in small areas, by choosing Yulin City and Xi'an City as the research areas and applying Unmanned Aerial Vehicle (UAV) to carry out atmospheric CO2 concentration monitoring at multiple carbon monitoring points, this study explores the impact of ground object type, height and time on atmospheric CO2 concentration. Regarding the temporal variation, the atmospheric CO2 concentration of the vegetation-covered area in the afternoon is lower than that in the morning in summer, and only the evergreen vegetation-covered area in winter has similar characteristics as that in summer. The near-surface atmospheric CO2 concentration in the vegetated area changes greatly in summer and winter. For the characteristics of vertical distribution of CO2, the CO2 concentration gradually decreases with increasing altitude. In summer, the CO2 concentration in areas affected by human activities decreases rapidly from 0 to 50 meters and decreases slowly from 50 to 150 meters. The CO2 concentration in vegetation-covered areas decreases slightly from 0 to 150 meters. In winter, the areas affected by human activities and the vegetation-covered areas both decrease rapidly from 0–20 meters and relatively slowly from 20 meters to 100 meters. The experimental results indicate that using UAVs can accurately monitor the atmospheric CO2 concentration near the surface of typical land features in small areas. UAVs can form air-space-ground carbon monitoring networks with satellites and ground observation points, which is of great significance for quantitative analysis of carbon reduction paths to achieve peak carbon dioxide emission and carbon neutralization.    
-
-    
-
-## How Have Land Use Carbon Emissions Changed in the Past and Future Under Multiple Scenarios? -Based on Carbon Emissions Fair Model and Plus Model   
-
-OpenAlex: https://openalex.org/W4399277193    
-Open access: False
-    
-[Tianqi Rong](https://openalex.org/A5054704356), [Mingzhou Qin](https://openalex.org/A5085355879), [Pengyan Zhang](https://openalex.org/A5014336493), [Yinghui Chang](https://openalex.org/A5084454863), [Zhenyue Liu](https://openalex.org/A5053907293), [Z.J. Zhang](https://openalex.org/A5068687164), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4851326.
-    
-With the increase of carbon dioxide concentration, global warming has become increasingly serious, and has posed a serious threat to human survival and the ecological environment. The land use carbon emissions (LUCE) are only second to those caused by fossil fuel combustion. The affected area of the lower Yellow River (ALYR) is an essential grain producing area in China. Studying its LUCE and future development has practical significance for the low-carbon development and food security of the basin. We analyzed the characteristics and drivers of LUCE in the ALYR from 2000 − 2018 and simulated the LUCE under different scenarios in 2030. The LUCE in the ALYR were in a continuous growth trend, with a growth rate of 27.94%, and the economic efficiency and ecological carrying capacity remained stable. The built-up land area and the proportion of secondary industry in GDP can promote the LUCE, while the per capita GDP has a suppressive effect. The LUCE will decrease in 2030, with the least LUCE under the cultivated land protection scenario. The results show that it is necessary to control the built-up land and increase the area of ecological land in order to achieve carbon emission reduction. This study analyzed the LUCE in the ALYR from the different periods, providing a theoretical reference for promoting sustainable development of the basin and scientific land use management.    
 
     
 
@@ -436,17 +370,6 @@ Paris's policy adjustment in February, 2024, aimed at curbing the influx of larg
 
     
 
-## Microscopic Seepage Mechanism of Nanofluids Assistant Co2 Aerosol Foam System Flooding after Water Flooding   
-
-OpenAlex: https://openalex.org/W4399311111    
-Open access: False
-    
-[Xiangyu Wang](https://openalex.org/A5031036829), [Chenwei Liu](https://openalex.org/A5047681529), [Jiacheng Nie](https://openalex.org/A5024750934), [Chenru Zhou](https://openalex.org/A5019324123), [Chuixiu Huang](https://openalex.org/A5070849482), [Линг Лонг](https://openalex.org/A5037138972), [Mingzhong Li](https://openalex.org/A5025694711), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4852409.
-    
-CO2 foam (CF) flooding is an effective method for enhancing oil recovery (EOR) in late-stage water drive reservoirs. However, inadequate mixing of CO2 and foaming agent solution during the injection process leads to the formation of uneven and unstable foam, thereby limited the efficient development of water drive reservoirs. Herein, we report a novel CO2 aerosol foam system (CAFS) generated by a custom-built aerosol foam generator. The CAFS development performance was systematically analyzed after water flooding and investigate the affecting factors about gas-liquid ratio, pre-injection volume, and solution concentration using flooding experiments. Evaluation parameters such as recovery, water cut, differential pressure, and resistance coefficient are employed. Additionally, we examine the microscopic EOR mechanism of CAFS through visualized microscopic flooding experiments. The results reveal that CAFS exhibits better development performance compared to conventional CF flooding. This improvement is attributed to enhanced rock wettability by hydrophobic nanoparticles and the high resistance coefficient of aerosol foam, both of which contribute significantly to the superior oil production performance of CAFS. Microscopic experiments demonstrate that CO2 aerosol generates more uniform foam and effectively expands the sweep area through trapping effects, superimposed Jamin effects, and squeezing occupation in pore throats. Moreover, the emulsification capability of nanofluid-SDS solution and viscosity reduction of oil due to dissolved CO2 after foam breakdown in the matrix further facilitate oil recovery, where the remained oil is recovered as foamy oil driven by the subsequently injected fluid.    
-
-    
-
 ## Investigation of Analyzable Solutions for Left-Turn-Centered Congestion Problems in Urban Grid Networks   
 
 OpenAlex: https://openalex.org/W4399321298    
@@ -455,6 +378,17 @@ Open access: True
 [Taraneh Ardalan](https://openalex.org/A5039441960), [Denis Sarazhinsky](https://openalex.org/A5028455981), [Nemanja Dobrota](https://openalex.org/A5085120740), [Aleksandar Stevanovic](https://openalex.org/A5034415480), Sustainability. 16(11)] 2024.https://doi.org/10.3390/su16114777 ([pdf](https://www.mdpi.com/2071-1050/16/11/4777/pdf?version=1717550331)).
     
 Traffic congestion caused by left-turning vehicles in a coordinated corridor is a multifaceted problem requiring tailored solutions. This study explores the impact of shared left-turn lanes within one-way couplets, particularly during peak hours, where high left-turn volumes, limited side street storage, and the overlapped green time between pedestrians and left-turners contribute to queue spillbacks, coordination interruption, and network congestion. The focus of this paper is on the solutions that can be easily analyzed by practitioners, here called “analyzable solutions”. This approach stands in contrast to solutions derived from “non-transparent” optimization tools, which do not allow for a clear assessment of the solution’s adequacy or the ability to predict its impact in real-world applications. This paper investigates the effects of employing two analyzable signal timing strategies: Lagging Pedestrian (LagPed) phasing and Left-Turn Progression (LTP) offsets. Using high-fidelity microsimulation, the authors evaluated different scenarios, assessing pedestrian delays, queue lengths, travel time index, area average travel time index, and environmental impacts such as Fuel Consumption (FC) and CO2 emissions. The effectiveness of the proposed strategies was comprehensively evaluated against the base case scenario, demonstrating considerable improvements in various performance measures, including approximately a 5% reduction in FC and CO2 emissions. Implementation of the LTP strategy alone yields substantial reductions in delays, the number of stops, the queue length for left-turning vehicles, travel times for all road users, and ultimately FC and CO2 emissions. This study offers innovative approach to addressing the complex and multifaceted problem of left-turn-centered congestion in urban grid networks using efficient and down-to-earth analyzable solutions.    
+
+    
+
+## Microscopic Seepage Mechanism of Nanofluids Assistant Co2 Aerosol Foam System Flooding after Water Flooding   
+
+OpenAlex: https://openalex.org/W4399311111    
+Open access: False
+    
+[Xiangyu Wang](https://openalex.org/A5031036829), [Chenwei Liu](https://openalex.org/A5047681529), [Jiacheng Nie](https://openalex.org/A5024750934), [Chenru Zhou](https://openalex.org/A5019324123), [Chuixiu Huang](https://openalex.org/A5070849482), [Линг Лонг](https://openalex.org/A5037138972), [Mingzhong Li](https://openalex.org/A5025694711), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4852409.
+    
+CO2 foam (CF) flooding is an effective method for enhancing oil recovery (EOR) in late-stage water drive reservoirs. However, inadequate mixing of CO2 and foaming agent solution during the injection process leads to the formation of uneven and unstable foam, thereby limited the efficient development of water drive reservoirs. Herein, we report a novel CO2 aerosol foam system (CAFS) generated by a custom-built aerosol foam generator. The CAFS development performance was systematically analyzed after water flooding and investigate the affecting factors about gas-liquid ratio, pre-injection volume, and solution concentration using flooding experiments. Evaluation parameters such as recovery, water cut, differential pressure, and resistance coefficient are employed. Additionally, we examine the microscopic EOR mechanism of CAFS through visualized microscopic flooding experiments. The results reveal that CAFS exhibits better development performance compared to conventional CF flooding. This improvement is attributed to enhanced rock wettability by hydrophobic nanoparticles and the high resistance coefficient of aerosol foam, both of which contribute significantly to the superior oil production performance of CAFS. Microscopic experiments demonstrate that CO2 aerosol generates more uniform foam and effectively expands the sweep area through trapping effects, superimposed Jamin effects, and squeezing occupation in pore throats. Moreover, the emulsification capability of nanofluid-SDS solution and viscosity reduction of oil due to dissolved CO2 after foam breakdown in the matrix further facilitate oil recovery, where the remained oil is recovered as foamy oil driven by the subsequently injected fluid.    
 
     
 
@@ -513,17 +447,6 @@ Although manifold empirical studies have identified the mechanical properties of
 
     
 
-## Cobalt Promotion and Ni+Co Loading Effects of γ-Al2O3-Supported Ni–Co Catalysts for the Flue Gas Reforming of Methane   
-
-OpenAlex: https://openalex.org/W4399299595    
-Open access: False
-    
-[Satyam Gupta](https://openalex.org/A5003782071), [Saumya Tiwari](https://openalex.org/A5020820383), [Vaibhav K. Arghode](https://openalex.org/A5041703917), [Goutam Deo](https://openalex.org/A5001287386), Energy & fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c01317.
-    
-In this study, we synthesize a series of active Ni3Co–Al2O3 catalysts, calcined at 850 °C for 5 h, to examine the effects of (i) substituting Ni with Co on the catalytic performance of the Ni–Al2O3 catalyst and (ii) the total metal amount on the catalytic activity of Ni3Co–Al for the flue gas reforming of methane (FGRM) reaction at 600 °C. We maintain high calcination temperatures to ensure strong alloy–support interactions. We also synthesize a Co–Al2O3 catalyst and use the data of a previously synthesized Ni–Al2O3 catalyst to analyze the effect of cobalt promotion. In the Ni3Co–Al catalysts, we maintain the Ni/Co ratio to be 3 and increase the Ni+Co amount from 5 to 25 wt % to examine the effect of total metal loading. The H2-reduction profiles reveal that the temperature where the consumption of H2 was maximum, Tmax temperature, is a function of the total metal loading. Comparison of the catalytic activities appears to suggest that in situ reduction of the catalyst at Tmax was better than the reduction at higher temperatures, since a larger number of surface active sites are available. The CH4 and CO2 conversions and H2 and CO yields increase when nickel is substituted with cobalt due to Ni–Co nanoalloy formation. However, the dispersion of the nanoalloy varies with the metal loading, and the optimum dispersion is when Ni+Co = 10 wt %. This 10Ni3Co–Al catalyst exhibits optimum CH4 (89%) and CO2 (30%) conversions and H2 (79%) and CO (46%) yields for the FGRM reaction at 600 °C for a GHSV of 120,000 mL g–1 h–1. The conversions, yields, and particle size of the alloy of this 10Ni3Co–Al catalyst do not change significantly, and an insignificant amount of carbon is formed during 24 h of operation. Thus, after using a promoter, it is necessary to optimize the loading of the active phase to obtain the best catalyst for FGRM.    
-
-    
-
 ## Estimating the Energy Demand and Carbon Emission Reduction Potential of Singapore’s Future Road Transport Sector   
 
 OpenAlex: https://openalex.org/W4399290302    
@@ -535,14 +458,14 @@ About 20% of the world’s CO2 emissions originate from transport. Many countrie
 
     
 
-## Unveiling the Enhanced Electrochemical Co2 Conversion: The Role of 3d Porous Biocl with Defects and Ctab-Mediated Nanosheets   
+## Cobalt Promotion and Ni+Co Loading Effects of γ-Al2O3-Supported Ni–Co Catalysts for the Flue Gas Reforming of Methane   
 
-OpenAlex: https://openalex.org/W4399311475    
+OpenAlex: https://openalex.org/W4399299595    
 Open access: False
     
-[Natarajan Thiyagarajan](https://openalex.org/A5056043856), [Sankar Arumugam](https://openalex.org/A5007639687), [Yi‐Fang Tsai](https://openalex.org/A5001423365), [Steve S.‐F. Yu](https://openalex.org/A5054050719), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4852638.
+[Satyam Gupta](https://openalex.org/A5003782071), [Saumya Tiwari](https://openalex.org/A5020820383), [Vaibhav K. Arghode](https://openalex.org/A5041703917), [Goutam Deo](https://openalex.org/A5001287386), Energy & fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c01317.
     
-A 3D flower-like structure composed of porous bismuth oxychloride (p-BiOCl) nanosheets was synthesized through a hydrothermal process utilizing Bi(NO3)2, cetyltrimethylammonium bromide (CTAB) and LiCl. Powder X-ray diffraction (PXRD) studies confirmed the successful formation of the p-BiOCl. Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) were exploited to identify the nanosheet structure. The catalyst appeared as reduced Bi0 nanosheets at an applied cathodic potential of - 0.92 V (vs. RHE (reversible hydrogen electrode)). The maintenance of Bi nanosheet structures, controlled by the cationic surfactant of CTAB, resulted in enhanced electrochemical activity with a favorable Tafel slope and lower charge resistance. Defects of under-coordinated Bi sites and oxygen vacancy with interconnected 3D structures possess abundant active sites that further assist the activity. In 1.0 and 2.0 M KHCO3 electrolytes, the catalyst achieved a maximum current density of - 80 and 100 mA/cm2, respectively, at - 0.92 V (vs. RHE) with Faradaic efficiency > 99% for converting CO2 to formate in H-cell electrolyzers. The substantial H/D kinetic isotope effect revealed from H2O versus D2O electrolytes, and the feature of bicarbonate concentration-dependent performance provided the mechanistic insights that bicarbonate intermediates are in equilibrium with CO2, activated by water, in the aqueous environment, together with the effects of electrode surface modulated by CTAB, are essential for the efficient electrochemical CO2 reduction reaction to formate.    
+In this study, we synthesize a series of active Ni3Co–Al2O3 catalysts, calcined at 850 °C for 5 h, to examine the effects of (i) substituting Ni with Co on the catalytic performance of the Ni–Al2O3 catalyst and (ii) the total metal amount on the catalytic activity of Ni3Co–Al for the flue gas reforming of methane (FGRM) reaction at 600 °C. We maintain high calcination temperatures to ensure strong alloy–support interactions. We also synthesize a Co–Al2O3 catalyst and use the data of a previously synthesized Ni–Al2O3 catalyst to analyze the effect of cobalt promotion. In the Ni3Co–Al catalysts, we maintain the Ni/Co ratio to be 3 and increase the Ni+Co amount from 5 to 25 wt % to examine the effect of total metal loading. The H2-reduction profiles reveal that the temperature where the consumption of H2 was maximum, Tmax temperature, is a function of the total metal loading. Comparison of the catalytic activities appears to suggest that in situ reduction of the catalyst at Tmax was better than the reduction at higher temperatures, since a larger number of surface active sites are available. The CH4 and CO2 conversions and H2 and CO yields increase when nickel is substituted with cobalt due to Ni–Co nanoalloy formation. However, the dispersion of the nanoalloy varies with the metal loading, and the optimum dispersion is when Ni+Co = 10 wt %. This 10Ni3Co–Al catalyst exhibits optimum CH4 (89%) and CO2 (30%) conversions and H2 (79%) and CO (46%) yields for the FGRM reaction at 600 °C for a GHSV of 120,000 mL g–1 h–1. The conversions, yields, and particle size of the alloy of this 10Ni3Co–Al catalyst do not change significantly, and an insignificant amount of carbon is formed during 24 h of operation. Thus, after using a promoter, it is necessary to optimize the loading of the active phase to obtain the best catalyst for FGRM.    
 
     
 
@@ -554,6 +477,17 @@ Open access: True
 [Hamid Balali](https://openalex.org/A5062983887), [Mohammad Reza Farzanegan](https://openalex.org/A5042231194), [Omid Zamani](https://openalex.org/A5066649635), [Mostafa Baniasadi](https://openalex.org/A5035648226), Policy studies. None(None)] 2024.https://doi.org/10.1080/01442872.2024.2358842 ([pdf](https://www.tandfonline.com/doi/pdf/10.1080/01442872.2024.2358842?needAccess=true)).
     
 Economic sanctions have the potential to affect environmental factors through various channels, including income reduction and constraints on accessing finance and environmentally friendly technologies. This study aims to simulate the energy and environmental consequences resulting from international sanctions in Iran. To achieve this, we develop a System Dynamics model integrating a spectrum of variables spanning economic, social, and environmental dimensions, for the period from 2008 to 2028. Our simulation outcomes indicate that by 2028, sanctions are anticipated to precipitate a notable upsurge in CO2 emissions, ranging from 12.5% to 30% compared to the baseline scenario. The magnitude of this escalation hinges on a variety of factors, including energy intensity and scenarios related to economic growth. According to our findings, prolonging international sanctions could be a major barrier to improving energy intensity and lowering CO2 emissions. Given the potential environmental consequences of sanctions, international communities, particularly sanctioning countries, should consider the environmental impacts of sanctions in their policy-making decisions in order to reduce emissions damage.    
+
+    
+
+## Unveiling the Enhanced Electrochemical Co2 Conversion: The Role of 3d Porous Biocl with Defects and Ctab-Mediated Nanosheets   
+
+OpenAlex: https://openalex.org/W4399311475    
+Open access: False
+    
+[Natarajan Thiyagarajan](https://openalex.org/A5056043856), [Sankar Arumugam](https://openalex.org/A5007639687), [Yi‐Fang Tsai](https://openalex.org/A5001423365), [Steve S.‐F. Yu](https://openalex.org/A5054050719), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4852638.
+    
+A 3D flower-like structure composed of porous bismuth oxychloride (p-BiOCl) nanosheets was synthesized through a hydrothermal process utilizing Bi(NO3)2, cetyltrimethylammonium bromide (CTAB) and LiCl. Powder X-ray diffraction (PXRD) studies confirmed the successful formation of the p-BiOCl. Scanning electron microscopy (SEM) and transmission electron microscopy (TEM) were exploited to identify the nanosheet structure. The catalyst appeared as reduced Bi0 nanosheets at an applied cathodic potential of - 0.92 V (vs. RHE (reversible hydrogen electrode)). The maintenance of Bi nanosheet structures, controlled by the cationic surfactant of CTAB, resulted in enhanced electrochemical activity with a favorable Tafel slope and lower charge resistance. Defects of under-coordinated Bi sites and oxygen vacancy with interconnected 3D structures possess abundant active sites that further assist the activity. In 1.0 and 2.0 M KHCO3 electrolytes, the catalyst achieved a maximum current density of - 80 and 100 mA/cm2, respectively, at - 0.92 V (vs. RHE) with Faradaic efficiency > 99% for converting CO2 to formate in H-cell electrolyzers. The substantial H/D kinetic isotope effect revealed from H2O versus D2O electrolytes, and the feature of bicarbonate concentration-dependent performance provided the mechanistic insights that bicarbonate intermediates are in equilibrium with CO2, activated by water, in the aqueous environment, together with the effects of electrode surface modulated by CTAB, are essential for the efficient electrochemical CO2 reduction reaction to formate.    
 
     
 
@@ -587,17 +521,6 @@ Open access: False
 [Román Cantú Rodríguez](https://openalex.org/A5044454685), [Brida V. Mbuwir](https://openalex.org/A5057621400), [Carlo Manna](https://openalex.org/A5018961360), [Geert Deconinck](https://openalex.org/A5024462942), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4852110.
     
 Steam networks offer a practical solution to increase flexibility in energy-intensive industries, thanks to their potential for electrification and integration of various energy sources. However, effectively using this flexibility requires models that accurately represent system constraints and dynamics for control. While first-principle models provide accuracy, their complexity can hinder practical control applications. This paper proposes a data-driven model using generic buffers to model the intrinsic flexibility and dynamics of a steam network in order to efficiently leverage the available flexibility through model predictive control. Our simulations show significant weekly reductions in CO2 emissions (between 3120 and 7990 tCO2) with an emissions-oriented controller, and in costs (between 0.448 and 1.419 million EUR) with a cost-oriented controller, compared to a pressure-regulating PI controller.    
-
-    
-
-## Shedding Light on Solar Olefin Synthesis: Advances and Perspectives   
-
-OpenAlex: https://openalex.org/W4399275451    
-Open access: True
-    
-[Zhe Lu](https://openalex.org/A5069814609), [Lu Wang](https://openalex.org/A5006330205), Energy & fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c01608 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acs.energyfuels.4c01608)).
-    
-Light olefins, crucial feedstocks in the chemical industry, are projected to reach a market size of USD 475.8 million by 2027. Traditional methods for producing light olefins, such as cracking and the Fischer–Tropsch process, are energy-intensive and heavily reliant on fossil fuels. These production methods contribute significantly to environmental issues, emitting approximately 400 million tons of CO2 annually. Integrating solar energy into the olefin synthesis process presents a promising avenue for enhancing sustainability and efficiency. Recent research reveals the potential of utilizing solar energy to activate light-alkanes and COx, enabling solar olefin production via dehydrogenation, hydrogenation, and reduction reactions. This review overviews recent advancements and evaluates the prospects of solar energy utilization in olefin synthesis, emphasizing innovative approaches and their potential implications.    
 
     
 
@@ -656,6 +579,17 @@ Abstract: This review article describes the development of the use of aluminum c
 
     
 
+## Physiological and growth responses of lettuce plants submitted of 2,4-D simulated drift   
+
+OpenAlex: https://openalex.org/W4399297521    
+Open access: True
+    
+[Roberta Bianchin Rebesquini](https://openalex.org/A5098999484), [Natália Teixeira Schwab](https://openalex.org/A5015059873), [Camila Peligrinotti Tarouco](https://openalex.org/A5043739885), [Jaíne Rubert](https://openalex.org/A5007512192), [Paola Ana Buffon](https://openalex.org/A5002330037), [Aline Sielo Holkem](https://openalex.org/A5063989197), [André da Rosa Ulguim](https://openalex.org/A5065465412), Comunicata Scientiae. 15(None)] 2024.https://doi.org/10.14295/cs.v15.4083 ([pdf](https://www.comunicatascientiae.com.br/comunicata/article/download/4083/1285)).
+    
+Pesticide drift is due to the transport of the active ingredient to areas not targeted by spraying, causing negative effects on the sensitive crops’ development. The aim of this study was to evaluate lettuce response to simulated 2,4-D drift. Experiments were conducted in the greenhouse, in a randomized complete block design with four replications. The treatments consisted of nine different doses of the 2,4-D herbicide, which are: 0; 1.56; 3.125; 6.20; 12.5; 25; 50; 75; and 100% from the recommended dose (670 g a.a. ha-1). The application occurred when the lettuce plants had four to six true leaves. The analyzed variables were visual injury (phytotoxicity), development parameter (phyllochron), growth (rosette diameter and dry mass of the aerial part), and photosynthetic parameters (gas exchange). The lettuce crop showed high sensitivity to the 2,4-D herbicide, with the lowest dose resulting in significant phytotoxic damage to plants, and from 12.5% of the recommended 2,4-D dose, visual injuries were greater than 90%. The plants´ development and growth were negatively affected by the increased drift doses, culminating in enhanced phyllochron and reduction in rosette diameter and dry mass of the aerial part. The gas exchange of the crop was affected from 6.20% of the recommended dose, causing a reduction in the CO2 assimilation rate, stomatal conductance, transpiration rate and rubisco carboxylation efficiency.    
+
+    
+
 ## Aluminum in Frustrated Lewis Pair Chemistry   
 
 OpenAlex: https://openalex.org/W4399294126    
@@ -675,17 +609,6 @@ Open access: False
 [Zhiguo Cao](https://openalex.org/A5036358447), [Muhammad Shahidul Islam](https://openalex.org/A5036364728), [Jared Sisler](https://openalex.org/A5077946906), [Kam Chiu Tam](https://openalex.org/A5011853852), ACS food science & technology. None(None)] 2024.https://doi.org/10.1021/acsfoodscitech.4c00079.
     
 The increasing occurrence of antimicrobial resistance in recent years has spurred research to produce new antimicrobial compounds. However, there is currently a lack of a rapid, simple, and quantitative assay to determine the antimicrobial characteristics of new antimicrobial compounds. In this study, we demonstrated that a simple water displacement apparatus can be used to determine the effects of various metal ions on the cell viability of a model organism Saccharomyces cerevisiae (S. cerevisiae) by monitoring the volume of CO2 (VCO2) released. Analysis on the effect of different metal ions on S. cerevisiae demonstrated a linear relationship between VCO2 and the reduction potentials and a linear–logarithmic relationship between VCO2 and the metal/ligand binding constant indicating this measurement's accuracy and quantitative nature. Due to its speed, simplicity, and accuracy, this water displacement method has the potential to be used as a pre-screening method to facilitate the rapid quantification and development of more effective antimicrobial agents for various applications including antimicrobial food preservation and packaging.    
-
-    
-
-## Physiological and growth responses of lettuce plants submitted of 2,4-D simulated drift   
-
-OpenAlex: https://openalex.org/W4399297521    
-Open access: True
-    
-[Roberta Bianchin Rebesquini](https://openalex.org/A5098999484), [Natália Teixeira Schwab](https://openalex.org/A5015059873), [Camila Peligrinotti Tarouco](https://openalex.org/A5043739885), [Jaíne Rubert](https://openalex.org/A5007512192), [Paola Ana Buffon](https://openalex.org/A5002330037), [Aline Sielo Holkem](https://openalex.org/A5063989197), [André da Rosa Ulguim](https://openalex.org/A5065465412), Comunicata Scientiae. 15(None)] 2024.https://doi.org/10.14295/cs.v15.4083 ([pdf](https://www.comunicatascientiae.com.br/comunicata/article/download/4083/1285)).
-    
-Pesticide drift is due to the transport of the active ingredient to areas not targeted by spraying, causing negative effects on the sensitive crops’ development. The aim of this study was to evaluate lettuce response to simulated 2,4-D drift. Experiments were conducted in the greenhouse, in a randomized complete block design with four replications. The treatments consisted of nine different doses of the 2,4-D herbicide, which are: 0; 1.56; 3.125; 6.20; 12.5; 25; 50; 75; and 100% from the recommended dose (670 g a.a. ha-1). The application occurred when the lettuce plants had four to six true leaves. The analyzed variables were visual injury (phytotoxicity), development parameter (phyllochron), growth (rosette diameter and dry mass of the aerial part), and photosynthetic parameters (gas exchange). The lettuce crop showed high sensitivity to the 2,4-D herbicide, with the lowest dose resulting in significant phytotoxic damage to plants, and from 12.5% of the recommended 2,4-D dose, visual injuries were greater than 90%. The plants´ development and growth were negatively affected by the increased drift doses, culminating in enhanced phyllochron and reduction in rosette diameter and dry mass of the aerial part. The gas exchange of the crop was affected from 6.20% of the recommended dose, causing a reduction in the CO2 assimilation rate, stomatal conductance, transpiration rate and rubisco carboxylation efficiency.    
 
     
 

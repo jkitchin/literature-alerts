@@ -1,8 +1,8 @@
 #+TITLE: water splitting
 Description: water splitting papers
-Created on Mon Jun 10 01:10:03 2024
+Created on Tue Jun 11 01:08:36 2024
 
-Found 66 results from 2024-06-03 to 2024-06-10
+Found 66 results from 2024-06-04 to 2024-06-11
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution]]
@@ -25,27 +25,6 @@ OpenAlex: https://openalex.org/W4399347332 (Open access: False)
 , No host. None(None)] 2025. https://doi.org/10.3030/101150584 
      
 No abstract    
-
-    
-
-* In situ semi-etching of bimetallic LDH nanosheet arrays into FeNi-LDH/MOF to boost oxygen evolution reaction  :water_splitting:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399275113
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, Memristive Devices for Neuromorphic Computing
-:PUBLICATION_DATE: 2024-06-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.152721")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399275113"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399275113"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399275113"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399275113 (Open access: False)
-    
-[[https://openalex.org/A5091755572][Hanli Qin]], [[https://openalex.org/A5038704820][Chenglong Jia]], [[https://openalex.org/A5073422926][Quanfa Zhou]], [[https://openalex.org/A5032281523][Zhenyuan Ji]], [[https://openalex.org/A5071428253][Hanyong Peng]], [[https://openalex.org/A5017707608][Xiaoping Shen]], [[https://openalex.org/A5076538075][Hu Zhou]], [[https://openalex.org/A5087023195][Guoxing Zhu]], [[https://openalex.org/A5020713789][Juan Yang]], Chemical engineering journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.152721 
-     
-The inherent sluggish kinetics of water oxidation is the core issue for electrochemical hydrogen production from water splitting. Metal organic frameworks (MOFs) with tunable porous structures, abundant coordination metal centers and large specific surface area are expected as efficient electrocatalysts. In this paper, FeNi-LDH/MOF composite nanostructures were successfully constructed on carbon cloth (CC) through partially converting iron-nickel layered double hydroxide (FeNi-LDH) into FeNi-MOF (NiFe(CN)5NO) by an in-situ semi-etching method. The MOF nanocrystals in this material are in-situ decorated on the surface of FeNi-LDH nanosheets, providing abundant open active sites and mass transfer channels for electrocatalysis. Thanks to the synergistic effect of the LDH and MOF, as well as the exceptional hierarchical architecture, the FeNi-LDH/MOF/CC as a self-supported electrode exhibits distinguished electrocatalytic OER performance, with a low overpotential of 263 mV@100 mA cm−2 and a small Tafel slope of 50.2 mV dec-1 in 1.0 M KOH. In addition, the catalyst exhibits good durability with almost constant current density during 24 h OER test. This work provides an effective way to design high-performance MOFs-based composite electrocatalytic materials.    
 
     
 
@@ -511,6 +490,27 @@ Abstract Electrochemical biomass oxidation coupled with hydrogen evolution offer
 
     
 
+* Engineering antibonding orbital occupancy of NiMoO4-supported Ru nanoparticles for enhanced chlorine evolution reaction  :water_splitting:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399357409
+:TOPICS: Electrocatalysis for Energy Conversion, Electrochemical Detection of Heavy Metal Ions, Aqueous Zinc-Ion Battery Technology
+:PUBLICATION_DATE: 2024-10-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jcis.2024.06.023")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399357409"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399357409"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399357409"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399357409 (Open access: False)
+    
+[[https://openalex.org/A5074676938][D. W. Zhang]], [[https://openalex.org/A5001141405][Haiming Gong]], [[https://openalex.org/A5013297039][Tao Liu]], [[https://openalex.org/A5065418938][Yuanyuan Wang]], [[https://openalex.org/A5081369869][Panyong Kuang]], Journal of colloid and interface science. 672(None)] 2024. https://doi.org/10.1016/j.jcis.2024.06.023 
+     
+Chlorine evolution reaction (CER) is crucial for industrial-scale production of high-purity Cl2. Despite the development of classical dimensionally stable anodes to enhance CER efficiency, the competitive oxygen evolution reaction (OER) remains a barrier to achieving high Cl2 selectivity. Herein, a binder-free electrode, Ru nanoparticles (NPs)-decorated NiMoO4 nanorod arrays (NRAs) supported on Ti foam (Ru-NiMoO4/Ti), was designed for active CER in saturated NaCl solution (pH = 2). The Ru-NiMoO4/Ti electrode exhibits a low overpotential of 20 mV at 10 mA cm−2 current density, a high Cl2 selectivity exceeding 90 %, and robust durability for 90 h operation. The marked difference in Tafel slopes between CER and OER indicates the high Cl2 selectivity and superior reaction kinetics of Ru-NiMoO4/Ti electrode. Further studies reveal a strong metal-support interaction (SMSI) between Ru and NiMoO4, facilitating electron transfer through the Ru–O bridge bond and increasing the Ru 3d–Cl 2p antibonding orbital occupancy, which eventually results in weakened Ru–Cl bonding, promoted Cl desorption, and enhanced Cl2 evolution. Our findings provide new insights into developing electrodes with enhanced CER performance through antibonding orbital occupancy engineering.    
+
+    
+
 * Prediction of Feasibility of Polaronic OER on the (110) Surface of Rutile TiO2  :water_splitting:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399359402
@@ -805,24 +805,24 @@ No abstract
 
     
 
-* Metal vacancies and self-reconstruction of high entropy metal borates to boost the oxygen evolution reaction  :water_splitting:
+* Unraveling the Oxidation Kinetics Through Electronic Structure Regulation of MnCo2O4.5@Ni3S2 p–n Junction for Urea‐Assisted Electrocatalytic Activity  :water_splitting:
 :PROPERTIES:
-:UUID: https://openalex.org/W4399275414
-:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Nanomaterials, High-Entropy Alloys: Novel Designs and Properties
-:PUBLICATION_DATE: 2024-06-01
+:UUID: https://openalex.org/W4399462204
+:TOPICS: Electrocatalysis for Energy Conversion, Aqueous Zinc-Ion Battery Technology, Electrochemical Detection of Heavy Metal Ions
+:PUBLICATION_DATE: 2024-06-08
 :END:    
     
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.152758")][Get bibtex entry]] 
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/smll.202311548")][Get bibtex entry]] 
 
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399275414"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399275414"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399275414"))][Get cited by]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399462204"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399462204"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399462204"))][Get cited by]]
 
-OpenAlex: https://openalex.org/W4399275414 (Open access: False)
+OpenAlex: https://openalex.org/W4399462204 (Open access: False)
     
-[[https://openalex.org/A5081085876][Mengyuan Zhang]], [[https://openalex.org/A5084711013][Kai Luo]], [[https://openalex.org/A5023895169][Yaning Fan]], [[https://openalex.org/A5001453501][Xiaoyan Lü]], [[https://openalex.org/A5032700450][Jian Ye]], [[https://openalex.org/A5071339229][Ning Liu]], [[https://openalex.org/A5070412038][Jie Dong]], [[https://openalex.org/A5007368179][Qiang Niu]], [[https://openalex.org/A5056157778][Junjun Zhang]], [[https://openalex.org/A5005363741][Pengfei Zhang]], [[https://openalex.org/A5018814519][Sheng Dai]], Chemical engineering journal. None(None)] 2024. https://doi.org/10.1016/j.cej.2024.152758 
+[[https://openalex.org/A5017136680][Sangeeta Adhikari]], [[https://openalex.org/A5043194301][Stephan N. Steinmann]], [[https://openalex.org/A5066078135][Maheswari Arunachalam]], [[https://openalex.org/A5074976953][Soon Hyung Kang]], [[https://openalex.org/A5018707438][Do‐Heyoung Kim]], Small. None(None)] 2024. https://doi.org/10.1002/smll.202311548 
      
-Exploring highly efficient oxygen evolution reaction (OER) electrocatalysts is important for industrial water electrolysis. Herein, a new high entropy material was reported, i.e., an amorphous high entropy metal borate (CrMnCoNiFe)0.2BOx was synthesized by a new simple solvothermal method. The key of this new synthesis method was to obtain (CrMnCoNiFe)0.2BOx with a high specific surface area (446 m2/g) and porous structure, being expected to promote OER reaction. (CrMnCoNiFe)0.2BOx provided a low overpotential of 236 mV at 10 mA cm−2, a reduced Tafel slope of 64 mV dec–1, and good stability. The outstanding OER performance of (CrMnCoNiFe)0.2BOx was attributed to the high entropy structure, generation of metal vacancies, and self-reconstruction during OER. The Cr vacancies generated during the OER process have been demonstrated by Cr 2P XPS and EPR experiments. Various in situ and Ex-situ analyses such as In situ Raman, XPS, and TEM were used to investigate the self-reconstruction of the (CrMnCoNiFe)0.2BOx during the OER. The resulting metal (oxy)hydroxide was believed to be the true active center for OER. The DFT calculation showed the high entropy structure can reduce the adsorption and conversion energy barriers of oxygen-containing intermediates, matching well with the catalytic performance results. This study provided a new simple strategy to construct high entropy metal borate (CrMnCoNiFe)0.2BOx and would inspire the design of high-performance OER catalysts.    
+Abstract A promising strategy to boost electrocatalytic performance is via assembly of hetero‐nanostructured electrocatalysts that delivers the essential specific surface area and also active sites by lowering the reaction barrier. However, the challenges associated with the intricate designs and mechanisms remain underexplored. Therefore, the present study constructs a p–n junction in a free‐standing MnCo 2 O 4.5 @Ni 3 S 2 on Ni‐Foam. The space‐charge region's electrical characteristics is dramatically altered by the formed p–n junction, which enhances the electron transfer process for urea‐assisted electrocatalytic water splitting (UOR). The optimal MnCo 2 O 4.5 @Ni 3 S 2 electrocatalyst results in greater oxygen evolution reactivity (OER) than pure systems, delivering an overpotential of only 240 mV. Remarkably, upon employing as UOR electrode the required potential decreases to 30 mV. The impressive performance of the designed catalyst is attributed to the enhanced electrical conductivity, greater number of electrochemical active sites, and improved redox activity due to the junction interface formed between p‐MnCo 2 O 4.5 and n‐Ni 3 S 2 . There are strong indications that the in situ formed extreme‐surface NiOOH, starting from Ni 3 S 2, boosts the electrocatalytic activity, i.e., the electrochemical surface reconstruction generates the active species. In conclusion, this work presents a high‐performance p–n junction design for broad use, together with a viable and affordable UOR electrocatalyst.    
 
     
 

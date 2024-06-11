@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 10 Jun 2024 01:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 01:08:50 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects</title>
-      <link>https://doi.org/10.1016/j.cej.2024.152757</link>
-      <description>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399274810
-
-                The urgency of tackling climate change is driving a global shift towards renewable sources of energy, with a growing contribution from alternative energy sources such as solar, wind and hydroelectric power. With the global push for the sustainable energy, the demand for effective catalysts for sustainable chemical production and energy storage has been rapidly increasing. Computational simulations have contributed to the rational design of catalysts by allowing profound analysis of catalyst properties. Machine learning potential (MLP) has emerged as a potential tool to bridge the gap between quantum mechanical accuracy and computational efficiency, overcoming the computational cost limitations of quantum chemistry-based simulations. This review discusses the development and application of MLP in multiscale simulations of heterogeneous catalysis. It covers the basic concepts of computational catalysis, the construction of MLP focusing on efficient datasets, atomic structure representations, and the process of training and evaluating of ML models. Furthermore, the potential applications of MLP are discussed in addressing computational challenges within the field, as MLP has potential to overcome limitations in simulation time and length scale. Lastly, the prospects for MLP are presented, taking advantage of the rapid advancements in artificial intelligence architectures. It is expected that the integration of MLP will accelerate progress within the catalyst research community and will bridge the gap between theoretical and experimental approaches in catalytic research.</description>
-      <author>Seokhyun Choung, Won Il Park, Jeong Hyun Moon, Jeong Woo Han</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152757</guid>
-    </item>
     <item>
       <title>Reduced graphene oxide encapsulated octahedral NiSe2 nanocrystals with dominant {111} crystal facets for efficient hydrogen evolution reaction</title>
       <link>https://doi.org/10.1016/j.mcat.2024.114286</link>
@@ -186,16 +176,6 @@
       <author>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent</author>
       <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01353</guid>
-    </item>
-    <item>
-      <title>Prediction of Electronic Density of States in Guanine-TiO2 Adsorption Model based on Machine Learning</title>
-      <link>https://doi.org/10.1016/j.csbr.2024.100008</link>
-      <description>Yark&#305;n A. &#199;etin, Benjam&#237; Martorell, Francesc Serratosa, Deleted Journal. None(None)] 2024. https://openalex.org/W4399274321
-
-                The electronic density of states is a property of the material that is extensively used in quantum systems in condensed matter physics. It refers to the energy level of the electrons in a solid crystal. One of the most current ways to compute it is by Density Functional Tight Binding (DFTB), given the geometry of the material. Nevertheless, this computation could be very computationally demanding, although applied to some materials with a very reduced number of atoms. This paper presents a method to deduce the electronic density of states, which is based on a neural network, thus, almost linear with respect to the number of atoms in the material. Specifically, we have applied our method to a metal oxide structure interacting with a nucleic base guanine. We have focused on stoichiometric and O-defective anatase TiO2 (101) surfaces. The data set of the electronic density of states needed to train the neural network has been obtained by a DFTB+ numerical solver given an initial molecular geometry model, which computed a track of time-dependent geometry and their associated electronic density of states. We validated that the predicted electronic density of states deduced by our method and by DFTB tends to be very similar, thus, opening the door to other computations such that introducing our method in the process of generating the time-dependent geometry analysis.</description>
-      <author>Yark&#305;n A. &#199;etin, Benjam&#237; Martorell, Francesc Serratosa</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.csbr.2024.100008</guid>
     </item>
   </channel>
 </rss>
