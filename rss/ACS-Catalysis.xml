@@ -4,69 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Jun 2024 01:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 01:08:48 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enantioselective Copper-Catalyzed Dearomative Spiroannulation of &#946;-Naphthols or Indoles with Yne-Allylic Esters</title>
-      <link>https://doi.org/10.1021/acscatal.4c01756</link>
-      <description>Ruinan Zhao, Shuang Deng, Rongkang Huang, Han&#8208;Han Kong, Yuepeng Lu, Tingrui Yin, Jiaqiang Wang, Ying Li, Cancan Zhu, Fangfang Pan, Xiaotian Qi, Hao Xu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399282118
-
-                No abstract</description>
-      <author>Ruinan Zhao, Shuang Deng, Rongkang Huang, Han&#8208;Han Kong, Yuepeng Lu, Tingrui Yin, Jiaqiang Wang, Ying Li, Cancan Zhu, Fangfang Pan, Xiaotian Qi, Hao Xu</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01756</guid>
-    </item>
-    <item>
-      <title>Asymmetric Dearomatization of Nonfunctionalized 1-Naphthols via Copper-Catalyzed Enantioselective [4 + 1] Spiroannulation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01563</link>
-      <description>Xingguang Li, Jiaxing Guo, J. Q. Zhang, Qingjun Chen, Yayi He, Feng Sha, Huijing Xiang, Peiyuan Yu, Pei Nian Liu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399282154
-
-                No abstract</description>
-      <author>Xingguang Li, Jiaxing Guo, J. Q. Zhang, Qingjun Chen, Yayi He, Feng Sha, Huijing Xiang, Peiyuan Yu, Pei Nian Liu</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01563</guid>
-    </item>
-    <item>
-      <title>Active Site Isolation and Enhanced Electron Transfer Facilitate Photocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction by A Multifunctional Metal&#8211;Organic Framework</title>
-      <link>https://doi.org/10.1021/acscatal.4c02326</link>
-      <description>Zitong Wang, Pierce Yeary, Yingjie Fan, Chao Deng, Wenbin Lin, ACS catalysis. None(None)] 2024. https://openalex.org/W4399291898
-
-                No abstract</description>
-      <author>Zitong Wang, Pierce Yeary, Yingjie Fan, Chao Deng, Wenbin Lin</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02326</guid>
-    </item>
-    <item>
-      <title>Organocatalytic Highly Enantioselective Formal [1,3] Sigmatropic Rearrangement of Indole Alkyl Ethers and Mechanistic Insight</title>
-      <link>https://doi.org/10.1021/acscatal.4c01584</link>
-      <description>Haifeng Yu, Lingfei Hu, Junhao Zhang, Qingxing Yang, Gang L&#252;, Tao Xu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399292465
-
-                Highly enantioselective [1,3] sigmatropic rearrangement represents a grand challenge in asymmetric organocatalysis. Herein, we disclose a chiral phosphoramide (R)-NPA-Cy mediated [1,3] sigmatropic rearrangement of 2-alkoxy indoles to access a diverse array of highly enantio-enriched oxindoles. The catalyst displayed good to high chiral control (89&#8211;99% ee) while maintaining a high efficiency (up to 99% yield). More than 60 examples were demonstrated. Mechanistic and computational studies revealed that the C&#8211;O bond cleavage of indole ether substrates can generate contact ion pairs stabilized by (R)-NPA-Cy via noncovalent interactions. Different catalyst&#8211;substrate noncovalent interactions were observed in the competing transition states leading to enantiomeric oxindoles, serving as the major factor determining enantioselectivity. In addition, this reaction was applied to the total syntheses of both enantiomers of (&#8722;)- and (+)-fusaspoid A in only five steps and reassigned their rotation values, correcting the original misassignments.</description>
-      <author>Haifeng Yu, Lingfei Hu, Junhao Zhang, Qingxing Yang, Gang L&#252;, Tao Xu</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01584</guid>
-    </item>
-    <item>
-      <title>CuNi Aerogels with Suppressed Water Activation for Efficient Nucleophilic Methanol Electrooxidation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01596</link>
-      <description>Qie Fang, S. Ye, Lirong Zheng, Hengjia Wang, Lili Hu, Wenling Gu, Lijin Wang, Le Shi, Chengzhou Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399301299
-
-                Suppressing the competitive oxygen evolution reaction (OER) is the critical prerequisite for efficient nucleophile oxidation in electrochemical biomass upgrading coupled with hydrogen production. Herein, Cu91Ni9 aerogels with atomically dispersed Ni are designed as effective nucleophile electrooxidation catalysts with significantly suppressed water activation performance, exhibiting a remarkable 99.3% Faradaic efficiency in the conversion of methanol to formic acid. Experimental and theoretical investigations reveal that the Cu support promotes the formation of Ni&#8211;O&#8211;Cu active pockets, where Ni3+ behaves as the main adsorbed sites and electrophilic lattice oxygen in Ni&#8211;O&#8211;Cu serves as a hydrogen acceptor, thus accelerating the electrochemical catalyst dehydrogenation reaction and the spontaneous nucleophilic dehydrogenation reaction. Furthermore, Cu integration exhibits weaker OER competition by inactivating the deprotonation capacity of OH* to O*, promoting the Faradaic efficiency of formic acid. This work paves the way for the development of advanced catalysts to achieve highly efficient biomass upgrading by modulating the OER activity.</description>
-      <author>Qie Fang, S. Ye, Lirong Zheng, Hengjia Wang, Lili Hu, Wenling Gu, Lijin Wang, Le Shi, Chengzhou Zhu</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01596</guid>
-    </item>
-    <item>
-      <title>Lignin-Derived Precious Metal-Free Electrocatalysts for Anion-Exchange Membrane Fuel Cell Application</title>
-      <link>https://doi.org/10.1021/acscatal.4c02136</link>
-      <description>Umber Sajjad, Ave Sarapuu, John C. Douglin, Arvo Kikas, Alexey Treshchalov, Maike K&#228;&#228;rik, Jekaterina Kozlova, Jaan Aruv&#228;li, Jaan Leis, Vambola Kisand, Kaupo Kukli, Dario R. Dekel, Kaido Tammeveski, ACS catalysis. None(None)] 2024. https://openalex.org/W4399301334
-
-                A facile method for the preparation of precious metal-free catalysts for the oxygen reduction reaction (ORR) from lignin, dicyandiamide, and transition metal salts is presented. Magnesium acetate was employed as a precursor for a sacrificial template, enhancing the porous structure of the catalysts. Iron content in the catalyst materials was optimized and a bimetallic catalyst containing Fe and Co was also prepared. The physicochemical analysis revealed uniform dispersion of various nitrogen moieties and transition metal centers on sheet-like carbon structures, along with some carbon-encapsulated metal-rich nanoparticles. Rotating disc electrode tests in an alkaline solution demonstrated the dependence of the ORR performance of the catalysts on their iron content and confirmed the high stability of both iron and bimetallic catalysts over 10,000 potential cycles. Anion-exchange membrane fuel cell (AEMFC) studies revealed that the bimetallic catalyst outperforms the Fe-containing material, achieving a very promising peak power density of 675 mW cm&#8211;2 at 60 &#176;C and 833 mW cm&#8211;2 at 80 &#176;C.</description>
-      <author>Umber Sajjad, Ave Sarapuu, John C. Douglin, Arvo Kikas, Alexey Treshchalov, Maike K&#228;&#228;rik, Jekaterina Kozlova, Jaan Aruv&#228;li, Jaan Leis, Vambola Kisand, Kaupo Kukli, Dario R. Dekel, Kaido Tammeveski</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02136</guid>
-    </item>
     <item>
       <title>Lattice Oxygen Activation Triggered by Ultrasonic Shock Significantly Improves NO Selective Catalytic Reduction</title>
       <link>https://doi.org/10.1021/acscatal.4c02400</link>

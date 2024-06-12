@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Jun 2024 01:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 01:08:55 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Reduced graphene oxide encapsulated octahedral NiSe2 nanocrystals with dominant {111} crystal facets for efficient hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.mcat.2024.114286</link>
-      <description>Yan Liang, Nana Wan, Xiaojian Zhao, Lu Tang, Zongqing Ma, Lin Gu, Yunqian Long, Ting Yu, Yong Yang, Molecular catalysis. 563(None)] 2024. https://openalex.org/W4399280768
-
-                No abstract</description>
-      <author>Yan Liang, Nana Wan, Xiaojian Zhao, Lu Tang, Zongqing Ma, Lin Gu, Yunqian Long, Ting Yu, Yong Yang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114286</guid>
-    </item>
-    <item>
-      <title>Time-dependent Kohn&#8722;Sham electron dynamics coupled with nonequilibrium plasmonic response via atomistic electromagnetic model</title>
-      <link>https://doi.org/10.1063/5.0205845</link>
-      <description>Xunkun Huang, Wenshu Zhang, WanZhen Liang, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(21)] 2024. https://openalex.org/W4399293012
-
-                Computational modeling of plasmon-mediated molecular photophysical and photochemical behaviors can help us better understand and tune the bound molecular properties and reactivity and make better decisions to design and control nanostructures. However, computational investigations of coupled plasmon&#8211;molecule systems are challenging due to the lack of accurate and efficient protocols to simulate these systems. Here, we present a hybrid scheme by combining the real-time time-dependent density functional theory (RT-TDDFT) approach with the time-domain frequency dependent fluctuating charge (TD-&#969;FQ) model. At first, we transform &#969;FQ in the frequency-domain, an atomistic electromagnetic model for the plasmonic response of plasmonic metal nanoparticles (PMNPs), into the time-domain and derive its equation-of-motion formulation. The TD-&#969;FQ introduces the nonequilibrium plasmonic response of PMNPs and atomistic interactions to the electronic excitation of the quantum mechanical (QM) region. Then, we combine TD-&#969;FQ with RT-TDDFT. The derived RT-TDDFT/TD-&#969;FQ scheme allows us to effectively simulate the plasmon-mediated &#8220;real-time&#8221; electronic dynamics and even the coupled electron&#8211;nuclear dynamics by combining them with the nuclear dynamics approaches. As a first application of the RT-TDDFT/TD-&#969;FQ method, we study the nonradiative decay rate and plasmon-enhanced absorption spectra of two small molecules in the proximity of sodium MNPs. Thanks to the atomistic nature of the &#969;FQ model, the edge effect of MNP on absorption enhancement has also been investigated and unveiled.</description>
-      <author>Xunkun Huang, Wenshu Zhang, WanZhen Liang</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0205845</guid>
-    </item>
-    <item>
-      <title>Structure&#8211;spectrum relationship in the calculated Raman spectra of silicates</title>
-      <link>https://doi.org/10.1002/jrs.6686</link>
-      <description>Mohammad Bagheri, Hannu&#8208;Pekka Komsa, Journal of Raman spectroscopy. None(None)] 2024. https://openalex.org/W4399294188
-
-                Abstract Silicate minerals have a rich structural variety consisting of silicon oxide clusters or networks of any dimensionality interdispersed with different types of elements, which is reflected in marked changes in the Raman spectra. Understanding how the changes in the Raman spectra are correlated with the atomic structure would be highly desirable for fast material identification and analysis. Extracting such trends from experimental spectra can be difficult owing to the uncertainties in the structural details of the samples and in ensuring consistency between measurements from different sources. Simulated spectra, however, avoid these problems, making them a good candidate for systematic studies. Here, we study the correlation between the structure and Raman spectral features of 179 silicates derived from a database of Raman spectra simulated using first&#8208;principles calculations. We investigate the spectral similarities with a specific emphasis on materials containing isolated 0D clusters in nesosilicate (SiO 4 ), sorosilicate (Si 2 O 7 ), and cyclosilicate (Si 3 O 9 and Si 4 O 12 ) configurations. While trends identified in the previous reports can be confirmed, we find that the variations within each group of similar structural motifs tend to be larger than the changes across groups, and therefore, developing a reliable automated classification algorithm is likely to be challenging.</description>
-      <author>Mohammad Bagheri, Hannu&#8208;Pekka Komsa</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/jrs.6686</guid>
-    </item>
-    <item>
-      <title>Unraveling the Harmonious Coexistence of Ruthenium States on a Self&#8208;Standing Electrode for Enhanced Hydrogen Evolution Reaction</title>
-      <link>https://doi.org/10.1002/eem2.12766</link>
-      <description>Joonhee Ma, Jin Hyuk Cho, Chaehyeon Lee, Moon Sung Kang, Sungkyun Choi, Ho Won Jang, Sanghyun Ahn, Seoin Back, Soo Young Kim, Energy &amp; environment materials. None(None)] 2024. https://openalex.org/W4399296416
-
-                The development of cost&#8208;effective, highly efficient, and durable electrocatalysts has been a paramount pursuit for advancing the hydrogen evolution reaction (HER). Herein, a simplified synthesis protocol was designed to achieve a self&#8208;standing electrode, composed of activated carbon paper embedded with Ru single&#8208;atom catalysts and Ru nanoclusters (ACP/Ru SAC+C ) via acid activation, immersion, and high&#8208;temperature pyrolysis. Ab initio molecular dynamics (AIMD) calculations are employed to gain a more profound understanding of the impact of acid activation on carbon paper. Furthermore, the coexistence states of the Ru atoms are confirmed via aberration&#8208;corrected scanning transmission electron microscopy (AC&#8208;STEM), X&#8208;ray photoelectron spectroscopy (XPS), and X&#8208;ray absorption spectroscopy (XAS). Experimental measurements and theoretical calculations reveal that introducing a Ru single&#8208;atom site adjacent to the Ru nanoclusters induces a synergistic effect, tuning the electronic structure and thereby significantly enhancing their catalytic performance. Notably, the ACP/Ru SAC+C exhibits a remarkable turnover frequency (TOF) of 18 s &#8722;1 and an exceptional mass activity (MA) of 2.2 A mg &#8722;1 , surpassing the performance of conventional Pt electrodes. The self&#8208;standing electrode, featuring harmoniously coexisting Ru states, stands out as a prospective choice for advancing HER catalysts, enhancing energy efficiency, productivity, and selectivity.</description>
-      <author>Joonhee Ma, Jin Hyuk Cho, Chaehyeon Lee, Moon Sung Kang, Sungkyun Choi, Ho Won Jang, Sanghyun Ahn, Seoin Back, Soo Young Kim</author>
-      <pubDate>Sun, 02 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/eem2.12766</guid>
-    </item>
-    <item>
-      <title>Metal Organic Frameworks for Sustainable Hydrogen Production: Reaction Mechanisms, Performance and Future Aspects in Electrochemical Water Splitting</title>
-      <link>https://doi.org/10.1016/j.matchemphys.2024.129553</link>
-      <description>Shahid Alam, M. Imran Jamil, Muhammad Zahir Iqbal, Muhammad Waqas Khan, Asma Khizar, Ahmed M. Fouda, Hosameldin Helmy Hegazyd, Faiz Alam, Zubair Ahmad, Materials chemistry and physics. None(None)] 2024. https://openalex.org/W4399297402
-
-                Water splitting research has drawn a lot of attention recently due to the exhaustion of fossil fuels reserves and the urgent need for sustainable energy options. A potential method for producing clean, effective hydrogen that can be used as a renewable energy source is water splitting. Metal organic framework-based electrocatalysts have become a potential class of materials in this area because of their distinctive characteristics and tunability in terms of metal ion selection, ligand design, and porosity. This article offers a comprehensive review of the enhancements in MOF-based electrocatalysts, divided into monometallic, multimetallic, their composite and derivative categories and their potential applications in water splitting. It explores the unique qualities of these MOFs, highlighting their catalytic power and potential to improve water splitting processes. Harnessing the extraordinary electrocatalytic attributes of MOFs is a pivotal strategy in accelerating the progression towards a future predominantly powered by renewable energy sources.</description>
-      <author>Shahid Alam, M. Imran Jamil, Muhammad Zahir Iqbal, Muhammad Waqas Khan, Asma Khizar, Ahmed M. Fouda, Hosameldin Helmy Hegazyd, Faiz Alam, Zubair Ahmad</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.matchemphys.2024.129553</guid>
-    </item>
-    <item>
-      <title>Gas-balancing adsorption strategy towards noble-metal-based nanowire electrocatalysts</title>
-      <link>https://doi.org/10.1038/s41929-024-01167-8</link>
-      <description>Jiashun Liang, Shenzhou Li, Xuan Li, Yazhou Wan, Yu Xia, Sue Hao, Siyang Zhang, Hsing&#8208;Lin Wang, Gang Lu, Gang Wu, Yunhui Huang, Qing Li, Nature Catalysis. None(None)] 2024. https://openalex.org/W4399299966
-
-                No abstract</description>
-      <author>Jiashun Liang, Shenzhou Li, Xuan Li, Yazhou Wan, Yu Xia, Sue Hao, Siyang Zhang, Hsing&#8208;Lin Wang, Gang Lu, Gang Wu, Yunhui Huang, Qing Li</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41929-024-01167-8</guid>
-    </item>
-    <item>
-      <title>Linear magnetoelectricity in the Zintl phase pnictides (Ba, Ca, Sr) &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:msub&gt;&lt;mml:mi mathvariant="normal"&gt;Mn&lt;/mml:mi&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; (P, As, Sb) &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:msub&gt;&lt;mml:mrow/&gt;&lt;mml:mn&gt;2&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;/mml:math&gt; from first-principles calculations</title>
-      <link>https://doi.org/10.1103/physrevb.109.214404</link>
-      <description>John Mangeri, Martin Ovesen, Thomas Olsen, Physical review. B./Physical review. B. 109(21)] 2024. https://openalex.org/W4399302394
-
-                We report a comprehensive set of density functional theory calculations on the family of layered antiferromagnetic manganese pnictides $(\mathrm{Ba},\mathrm{Ca},\mathrm{Sr}){\mathrm{Mn}}_{2}{(\mathrm{P},\mathrm{As},\mathrm{Sb})}_{2}$. We characterize all components to the linear magnetoelectric (ME) tensor $\ensuremath{\alpha}$, which are parsed into their contributions from spin and orbital moments for both lattice-mediated and their clamped-ion electronic analogs. Our main results show that the orbital magnetization components cannot be neglected in these systems. The ME response is dominated by electronic effects with total $\ensuremath{\alpha}$ values exceeding those of the prototypical ${\mathrm{Cr}}_{2}{\mathrm{O}}_{3}$ (i.e., $\ensuremath{\alpha}\ensuremath{\simeq}6.79$ ps/m in ${\mathrm{BaMn}}_{2}{\mathrm{As}}_{2}$). We also identify a strong correlation with the computed ME susceptibility on pnictogen substitution in the trigonal subfamily albeit with weaker amplitudes ($\ensuremath{\alpha}\ensuremath{\approx}0.2$--1.7 ps/m). Additionally, we provide the dependence of these predictions on the Hubbard $+U$ correction, at the level of the local density approximation, which shows large variations on the calculated ME coefficients in the tetragonal compounds highlighting the role of strong correlation in these compounds.</description>
-      <author>John Mangeri, Martin Ovesen, Thomas Olsen</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.214404</guid>
-    </item>
-    <item>
-      <title>Catalytic battle of activated carbon supported transition metal atom towards adsorption and dissociation of molecular hydrogen: Progress towards quantum chemical application on renewable energy resource</title>
-      <link>https://doi.org/10.1016/j.jmgm.2024.108804</link>
-      <description>Abhijit Dutta, Amit Kumar Pradhan, Paritosh Mondal, Journal of molecular graphics &amp; modelling/Journal of molecular graphics and modelling. None(None)] 2024. https://openalex.org/W4399318217
-
-                No abstract</description>
-      <author>Abhijit Dutta, Amit Kumar Pradhan, Paritosh Mondal</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jmgm.2024.108804</guid>
-    </item>
     <item>
       <title>Constant potential energetics of metallic and semiconducting electrodes: A benchmark study on 2D materials</title>
       <link>https://doi.org/10.1063/5.0202849</link>
@@ -158,24 +78,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c01278</guid>
     </item>
     <item>
-      <title>ChatMOF: an artificial intelligence system for predicting and generating metal-organic frameworks using large language models</title>
-      <link>https://doi.org/10.1038/s41467-024-48998-4</link>
-      <description>Yeonghun Kang, Jihan Kim, Nature communications. 15(1)] 2024. https://openalex.org/W4399290669
+      <title>Metal-support spin orders: Crucial effect on electrocatalytic oxygen reduction</title>
+      <link>https://doi.org/10.1063/5.0207891</link>
+      <description>Yi-jie Chen, Jun Wen, Zhenlin Luo, Fu-li Sun, Wenxian Chen, Gui&#8722;Lin Zhuang, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(22)] 2024. https://openalex.org/W4399494915
 
-                Abstract ChatMOF is an artificial intelligence (AI) system that is built to predict and generate metal-organic frameworks (MOFs). By leveraging a large-scale language model (GPT-4, GPT-3.5-turbo, and GPT-3.5-turbo-16k), ChatMOF extracts key details from textual inputs and delivers appropriate responses, thus eliminating the necessity for rigid and formal structured queries. The system is comprised of three core components (i.e., an agent, a toolkit, and an evaluator) and it forms a robust pipeline that manages a variety of tasks, including data retrieval, property prediction, and structure generations. ChatMOF shows high accuracy rates of 96.9% for searching, 95.7% for predicting, and 87.5% for generating tasks with GPT-4. Additionally, it successfully creates materials with user-desired properties from natural language. The study further explores the merits and constraints of utilizing large language models (LLMs) in combination with database and machine learning in material sciences and showcases its transformative potential for future advancements.</description>
-      <author>Yeonghun Kang, Jihan Kim</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-48998-4</guid>
+                Magnetic property (e.g. spin order) of support is of great importance in the rational design of heterogeneous catalysts. Herein, we have taken the Ni-supported ferromagnetic (FM) CrBr3 support (Nix/CrBr3) to thoroughly investigate the effect of spin-order on electrocatalytic oxygen reduction reaction (ORR) via spin-polarized density functional theory calculations. Specifically, Ni loading induces anti-FM coupling in Ni-Cr, leading to a transition from FM-to-ferrimagnetic (FIM) properties, while Ni-Ni metallic bonds create a robust FM direct exchange, benefiting the improvement of the phase transition temperature. Interestingly, with the increase in Ni loading, the easy magnetic axis changes from out-of-plane (2D-Heisenberg) to in-plane (2D-XY). The adsorption properties of Nix/CrBr3, involving O2 adsorption energy and configuration, are not governed by the d-band center but strongly correlate with magnetic anisotropy. It is noteworthy that the applied potential and electrolyte acidity triggers spin-order transition phenomena during the ORR and induces the catalytic pathway change from 4e- ORR to 2e- ORR with the excellent onset potential of 0.93 V/reversible hydrogen electrode, comparable to the existing most excellent noble-metal catalysts. Generally, these findings offer new avenues to understand and design heterogeneous catalysts with magnetic support.</description>
+      <author>Yi-jie Chen, Jun Wen, Zhenlin Luo, Fu-li Sun, Wenxian Chen, Gui&#8722;Lin Zhuang</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0207891</guid>
     </item>
     <item>
-      <title>Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution</title>
-      <link>https://doi.org/10.1021/jacs.4c01353</link>
-      <description>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399305702
+      <title>Seawater electrolysis for fuels and chemicals production: fundamentals, achievements, and perspectives</title>
+      <link>https://doi.org/10.1039/d3cs00822c</link>
+      <description>Changjian Lin, Chang Yu, Junting Dong, Yingnan Han, Hongling Huang, Wenbin Li, Yafang Zhang, Xin Tan, Jieshan Qiu, Chemical Society reviews. None(None)] 2024. https://openalex.org/W4399500181
 
-                The demand for green hydrogen has raised concerns over the availability of iridium used in oxygen evolution reaction catalysts. We identify catalysts with the aid of a machine learning-aided computational pipeline trained on more than 36,000 mixed metal oxides. The pipeline accurately predicts Pourbaix decomposition energy (Gpbx) from unrelaxed structures with a mean absolute error of 77 meV per atom, enabling us to screen 2070 new metallic oxides with respect to their prospective stability under acidic conditions. The search identifies Ru0.6Cr0.2Ti0.2O2 as a candidate having the promise of increased durability: experimentally, we find that it provides an overpotential of 267 mV at 100 mA cm&#8211;2 and that it operates at this current density for over 200 h and exhibits a rate of overpotential increase of 25 &#956;V h&#8211;1. Surface density functional theory calculations reveal that Ti increases metal&#8211;oxygen covalency, a potential route to increased stability, while Cr lowers the energy barrier of the HOO* formation rate-determining step, increasing activity compared to RuO2 and reducing overpotential by 40 mV at 100 mA cm&#8211;2 while maintaining stability. In situ X-ray absorption spectroscopy and ex situ ptychography-scanning transmission X-ray microscopy show the evolution of a metastable structure during the reaction, slowing Ru mass dissolution by 20&#215; and suppressing lattice oxygen participation by &gt;60% compared to RuO2.</description>
-      <author>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01353</guid>
+                The production of value-added fuels and chemicals via seawater electrolysis is a promising step or support towards sustainable energy development and carbon neutrality.</description>
+      <author>Changjian Lin, Chang Yu, Junting Dong, Yingnan Han, Hongling Huang, Wenbin Li, Yafang Zhang, Xin Tan, Jieshan Qiu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cs00822c</guid>
     </item>
   </channel>
 </rss>

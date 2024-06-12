@@ -4,28 +4,8 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 11 Jun 2024 01:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 01:08:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Angel Irabien Festschrift: Honoring His Impact on the Profession</title>
-      <link>https://doi.org/10.1021/acssuschemeng.4c04308</link>
-      <description>Ignacio E. Grossmann, Richard Darton, Bhavik R. Bakshi, ACS sustainable chemistry &amp; engineering. None(None)] 2024. https://openalex.org/W4399291559
-
-                ADVERTISEMENT RETURN TO ARTICLES ASAPPREVEditorialNEXTAngel Irabien Festschrift: Honoring His Impact on the ProfessionIgnacio GrossmannIgnacio GrossmannMore by Ignacio Grossmannhttps://orcid.org/0000-0002-7210-084X, Richard DartonRichard DartonMore by Richard Darton, and Bhavik BakshiBhavik BakshiMore by Bhavik Bakshihttps://orcid.org/0000-0002-6604-8408Cite this: ACS Sustainable Chem. Eng. 2024, XXXX, XXX, XXX-XXXPublication Date (Web):June 3, 2024Publication History Received25 May 2024Published online3 June 2024https://pubs.acs.org/doi/10.1021/acssuschemeng.4c04308https://doi.org/10.1021/acssuschemeng.4c04308editorialACS PublicationsPublished 2024 by American Chemical Society. This publication is available under these Terms of Use. Request reuse permissions This publication is free to access through this site. Learn MoreArticle Views-Altmetric-Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail PDF (625 KB) Get e-AlertscloseSUBJECTS:Ammonia,Membranes,Physical and chemical processes,Reaction engineering,Sustainability Get e-Alerts</description>
-      <author>Ignacio E. Grossmann, Richard Darton, Bhavik R. Bakshi</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c04308</guid>
-    </item>
-    <item>
-      <title>Pourbaix Machine Learning Framework Identifies Acidic Water Oxidation Catalysts Exhibiting Suppressed Ruthenium Dissolution</title>
-      <link>https://doi.org/10.1021/jacs.4c01353</link>
-      <description>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399305702
-
-                The demand for green hydrogen has raised concerns over the availability of iridium used in oxygen evolution reaction catalysts. We identify catalysts with the aid of a machine learning-aided computational pipeline trained on more than 36,000 mixed metal oxides. The pipeline accurately predicts Pourbaix decomposition energy (Gpbx) from unrelaxed structures with a mean absolute error of 77 meV per atom, enabling us to screen 2070 new metallic oxides with respect to their prospective stability under acidic conditions. The search identifies Ru0.6Cr0.2Ti0.2O2 as a candidate having the promise of increased durability: experimentally, we find that it provides an overpotential of 267 mV at 100 mA cm&#8211;2 and that it operates at this current density for over 200 h and exhibits a rate of overpotential increase of 25 &#956;V h&#8211;1. Surface density functional theory calculations reveal that Ti increases metal&#8211;oxygen covalency, a potential route to increased stability, while Cr lowers the energy barrier of the HOO* formation rate-determining step, increasing activity compared to RuO2 and reducing overpotential by 40 mV at 100 mA cm&#8211;2 while maintaining stability. In situ X-ray absorption spectroscopy and ex situ ptychography-scanning transmission X-ray microscopy show the evolution of a metastable structure during the reaction, slowing Ru mass dissolution by 20&#215; and suppressing lattice oxygen participation by &gt;60% compared to RuO2.</description>
-      <author>Jehad Abed, Javier Heras&#8208;Domingo, Rohan Yuri Sanspeur, Ming Ronnier Luo, Wajdi Alnoush, D&#233;bora Motta Meira, Hsiao&#8208;Tsu Wang, Jian Wang, Jigang Zhou, Daojin Zhou, Khalid Fatih, John R. Kitchin, Drew Higgins, Zachary W. Ulissi, Edward H. Sargent</author>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c01353</guid>
-    </item>
   </channel>
 </rss>
