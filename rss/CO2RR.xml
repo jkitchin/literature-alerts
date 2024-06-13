@@ -4,48 +4,108 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Jun 2024 01:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:08:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Nanostructured Mnmoo4 as a Trifunctional Electrocatalyst for Overall Water Splitting and Co2 Reduction</title>
-      <link>https://doi.org/10.2139/ssrn.4853666</link>
-      <description>Neda Sadat Barekati, Eshagh Irandoost, Hossein Farsi, Elahe Dana, Safiye Kolangikhah, Shokufeh Moghiminia, Alireza Farrokhi, No host. None(None)] 2024. https://openalex.org/W4399337243
+      <title>Universal Formation of Single Atoms from Molten Salt for Facilitating Selective CO&lt;sub&gt;2&lt;/sub&gt; Reduction</title>
+      <link>https://doi.org/10.1002/adma.202406380</link>
+      <description>Hao Qi, Cheng Zhang, Tao Qi, Jiazhi Wang, Peiyu Ma, Jialing Wu, Tianyang Wang, Dongxue Liu, Linxuan Xie, Xiao Liu, Minghong Gu, Michael R. Hoffmann, Gang Yu, Kai Liu, Jun L&#252;, Advanced materials. None(None)] 2024. https://openalex.org/W4399476800
 
-                Electrochemical water splitting and CO2 reduction are important processes to produce hydrogen and low&#8211;carbon fuels as renewable energy sources. Here, nanostructured MnMoO4, prepared by the reflux precipitation method, was investigated as a trifunctional electrocatalyst for overall water splitting and CO2 reduction reactions. Using a combination of diffuse reflectance spectroscopy and electrochemical impedance spectroscopy results, a direct band gap of 3.05 eV was obtained experimentally for the prepared MnMoO4. An overpotential of 0.36 V at a current density of 5 mA cm-2 and a Tafel slope of 58 mV dec-1 were obtained for the oxygen evolution reaction. At a current density of 3 mA cm-2, overpotentials of 0.39 V and 0.58 V were achieved in the absence and presence of CO2 bubbling into a 0.1 M KOH solution, respectively, emphasizing the poisoning effect of CO2 reduction intermediates for the hydrogen evolution reaction. Based on the obtained results, MnMoO4 could be a promising electrocatalyst for water splitting and CO2 reduction reactions.</description>
-      <author>Neda Sadat Barekati, Eshagh Irandoost, Hossein Farsi, Elahe Dana, Safiye Kolangikhah, Shokufeh Moghiminia, Alireza Farrokhi</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4853666</guid>
+                Abstract Clarifying the formation mechanism of single&#8208;atom sites guides the design of emerging single&#8208;atom catalysts (SACs) and facilitates the identification of the active sites at atomic scale. Herein, we develop a molten&#8208;salt atomization strategy for synthesizing zinc (Zn) SACs with temperature universality from 400 to 1000/1100 &#176;C and an evolved coordination from Zn&#8208;N 2 Cl 2 to Zn&#8208;N 4 . The electrochemical tests and in&#8208;situ attenuated total reflectance&#8208;surface&#8208;enhanced infrared absorption spectroscopy confirm that the Zn&#8208;N 4 atomic sites are active for electrochemical carbon dioxide (CO 2 ) conversion to carbon monoxide (CO). In a strongly acidic medium (0.2 M K 2 SO 4 , pH&#176;=&#176;1), the Zn SAC formed at 1000 &#176;C (Zn 1 NC) containing Zn&#8208;N 4 sites enables highly selective CO 2 electroreduction to CO, with nearly 100% selectivity toward CO product in a wide current density range of 100 to 600 mA cm &#8722;2 . During a 50&#8208;h continuous electrolysis at the industrial current density of 200 mA cm &#8722;2 , Zn 1 NC achieves Faradaic efficiencies greater than 95% for CO product. Our work presents a temperature&#8208;universal formation of single&#8208;atom sites, which provides a novel platform for unraveling the active sites in Zn SACs for CO 2 electroreduction and extends the synthesis of SACs with controllable coordination sites. This article is protected by copyright. All rights reserved</description>
+      <author>Hao Qi, Cheng Zhang, Tao Qi, Jiazhi Wang, Peiyu Ma, Jialing Wu, Tianyang Wang, Dongxue Liu, Linxuan Xie, Xiao Liu, Minghong Gu, Michael R. Hoffmann, Gang Yu, Kai Liu, Jun L&#252;</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202406380</guid>
     </item>
     <item>
-      <title>Bioinspired bimetallic catalysts for CO2 reduction beyond C1 products</title>
-      <link>https://doi.org/10.3030/101148692</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4399349336
+      <title>Visible-Light-Driven Carbon Dioxide Reduction Catalyzed by Iron Schiff-Base Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01639</link>
+      <description>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
 
                 No abstract</description>
-      <author/>
-      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3030/101148692</guid>
+      <author>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01639</guid>
     </item>
     <item>
-      <title>Computational Screening of Defective BC3-Supported Single-Atom Catalysts for Electrochemical CO2 Reduction</title>
-      <link>https://doi.org/10.1039/d4cp01217h</link>
-      <description>Renyi Li, Caimu Wang, Yaozhong Liu, C. Suo, Danyang Zhang, Zaibin Jiao, Wei Guo, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4399349369
+      <title>Study of Ni-Co-ZrO2/Al2O3 Catalysts for Carbon Dioxide Reforming of Methane at Low CO2</title>
+      <link>https://doi.org/10.48048/tis.2024.7788</link>
+      <description>Tanakorn Ratana, Lucksamon Thongdee, Sittichart Sawansombut, Wassachol Sumarasingha, Threeraphat Chutimaskul, Monrudee Phongaksorn, Trends in Sciences. 21(7)] 2024. https://openalex.org/W4399551383
 
-                Electrochemical CO2 reduction reaction (eCO2RR) driven by renewable electricity offers a green and sustainable technology for synthesizing chemicals and managing global carbon balance. However, developing electrocatalysts with high activity and...</description>
-      <author>Renyi Li, Caimu Wang, Yaozhong Liu, C. Suo, Danyang Zhang, Zaibin Jiao, Wei Guo</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d4cp01217h</guid>
+                This work studied the composition of Ni-Co-ZrO2/Al2O3 catalyst on properties and efficiency of catalysts for carbon dioxide reforming of methane (CMR) when CO2 was fed as the limiting reagent and CH4 as the excess reactant. 9wt%Ni-1wt%ZrO2/Al2O3, 4.5wt%Ni-4.5%wtCo-1wt%ZrO2/Al2O3, 9wt%Co-1wt%ZrO2/Al2O3 and 7wt%Co-3wt%ZrO2/Al2O3 catalysts were prepared by wet impregnation method. The physicochemical properties of present catalysts were characterized by XRD, N2 adsorption-desorption H2-TPR and CO2-TPD. The CRM performance was determined in a tubular fixed-bed reactor at 600 &#176;C for 6 h with limiting of carbon dioxide. The carbon deposition on spent catalysts were examined by TGA. The results showed that Co-ZrO2 catalysts provided greater activities, selectivity toward H2 and stability than Ni-ZrO2 and Ni-Co-ZrO2 catalysts. 9wt%Co-1wt%ZrO2/Al2O3 provided higher reactant conversions and H2/CO ratio than 7wt%Co-3wt%ZrO2/Al2O3 while the minimum coke formation was observed on spent 7wt%Co-3wt%ZrO2/Al2O3. It is because oxophilic properties and oxygen vacancy sites in Co-ZrO2 increase CO2 dissociative adsorption as well as oxygen transport on the catalyst surface. HIGHLIGHTS This work developed Ni-Co-ZrO2/Al2O3 catalysts for carbon dioxide reforming of methane (CMR) when CO2 is fed as the limiting reagent demonstrated petroleum refinery application. Remarkable points of this work are revealed below. Co-ZrO2 catalysts provided greater reactant activities, selectivity toward H2 and stability than Ni-ZrO2 and Ni-Co-ZrO2 The oxophilic property accompanied with oxygen vacancy sites in Co-ZrO2 increase CO2 dissociative absorption and oxygen transport on the catalyst surface. 9wt%Co-1wt%ZrO2/Al2O3 provided relative highest reactant conversions and highest H2/CO ratio. 7wt%Co-3wt%ZrO2/Al2O3 presented the minimum coke formation. GRAPHICAL ABSTRACT</description>
+      <author>Tanakorn Ratana, Lucksamon Thongdee, Sittichart Sawansombut, Wassachol Sumarasingha, Threeraphat Chutimaskul, Monrudee Phongaksorn</author>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48048/tis.2024.7788</guid>
     </item>
     <item>
-      <title>Single Atoms Immobilization on MXene-Metal-Organic Polyhedra Assemblies for Selective Reduction of CO2 to Formic Acid</title>
-      <link>https://doi.org/10.3030/101151123</link>
-      <description>, No host. None(None)] 2024. https://openalex.org/W4399350957
+      <title>Novel pyrochlore type europium stannate &#8211; tungsten disulfide heterostructure for light driven carbon dioxide reduction and nitrogen fixation</title>
+      <link>https://doi.org/10.1016/j.envres.2024.119372</link>
+      <description>K. Yogesh Kumar, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, L. Parashuram, Environmental research. 257(None)] 2024. https://openalex.org/W4399509439
 
-                No abstract</description>
-      <author/>
+                The reduction of carbon dioxide (CO</description>
+      <author>K. Yogesh Kumar, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, Fahd Alharethy, L. Parashuram</author>
       <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3030/101151123</guid>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.119372</guid>
+    </item>
+    <item>
+      <title>Automated Load and Dump Detection for CO2 Reduction</title>
+      <link>https://doi.org/10.5617/nmi.10535</link>
+      <description>Eleonora Piersanti, Naeeme Danesh Moghaddam, Nordic machine intelligence. 3(3)] 2024. https://openalex.org/W4399543743
+
+                In this paper, we detail our methodology for addressing the challenge of reducing CO2 emissions in road construction from construction machines in a Norwegian construction site. In particular, we focus on the automatic detection of load and dump locations from various data sources</description>
+      <author>Eleonora Piersanti, Naeeme Danesh Moghaddam</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5617/nmi.10535</guid>
+    </item>
+    <item>
+      <title>Efficient Photoelectrocatalytic Co2 Reduction to Formate by Bivo4/Zif-8 Heterojunction</title>
+      <link>https://doi.org/10.2139/ssrn.4860624</link>
+      <description>Zhi Yang, Huimin Yang, Fanfan Gao, Nan Cheng, Rui Chen, Yi Zhang, Jiaqi Yang, Xuemei Gao, Yue Yuan, Yuanjing Yang, Yibo Jia, No host. None(None)] 2024. https://openalex.org/W4399552328
+
+                No abstract</description>
+      <author>Zhi Yang, Huimin Yang, Fanfan Gao, Nan Cheng, Rui Chen, Yi Zhang, Jiaqi Yang, Xuemei Gao, Yue Yuan, Yuanjing Yang, Yibo Jia</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4860624</guid>
+    </item>
+    <item>
+      <title>Chromium Complexes with Benzanellated N&#8208;heterocyclic Phosphenium Ligands &#8211; Synthesis, Reactivity and Application in Catalytic CO2 Reduction</title>
+      <link>https://doi.org/10.1002/chem.202401714</link>
+      <description>Nicholas Birchall, Fridolin Hennh&#246;fer, Martin Nieger, Dietrich Gudat, Chemistry. None(None)] 2024. https://openalex.org/W4399525034
+
+                A chromium complex carrying two benzanellated N&#8208;heterocyclic phosphenium (bzNHP) ligands was prepared by a salt metathesis approach. Spectroscopic studies suggest that the anellation enhances the &#960;&#8208;acceptor ability of the NHP&#8208;units, which is confirmed by the facile electrochemical reduction of the complex to a spectroscopically characterized radical anion. Co&#8208;photolysis with H2 allowed extensive conversion into a &#963;&#8208;H2&#8208;complex, which shows a diverse reactivity towards donors and isomerizes under H&#8211;H bond fission and shift of a hydride to a P&#8208;ligand. The product carrying phosphenium, phosphine and hydride ligands was also synthesized independently and reacts reversibly with CO and MeCN to yield bis&#8208;phosphine complexes under concomitant Cr&#8208;to&#8208;P&#8208;shift of a hydride. In contrast, CO2 was not only bound but reduced to give an isolable formato complex, which reacted with ammonia borane under partial recovery of the metal hydride and production of formate. Further elaboration of the reactions of the chromium complexes with CO2 and NH3BH3 allowed to demonstrate the feasibility of a Cr&#8208;catalyzed transfer hydrogenation of CO2 to methanol. The various complexes described were characterized spectroscopically and in several cases by XRD studies. Further insights in reactivity patterns were provided through (spectro)electrochemical studies and DFT calculations.</description>
+      <author>Nicholas Birchall, Fridolin Hennh&#246;fer, Martin Nieger, Dietrich Gudat</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202401714</guid>
+    </item>
+    <item>
+      <title>Electro-reductive carboxylation of C Cl bonds in unactivated alkyl chlorides and polyvinyl chloride with CO2</title>
+      <link>https://doi.org/10.1016/j.cclet.2024.110104</link>
+      <description>Li Li, Zhang Yan, Chuan&#8208;Kun Ran, Yi Liu, Shuo Zhang, Ting Gao, Long&#8208;Fei Dai, Li&#8208;Li Liao, Jian&#8208;Heng Ye, Da&#8208;Gang Yu, Chinese Chemical Letters/Chinese chemical letters. None(None)] 2024. https://openalex.org/W4399458567
+
+                No abstract</description>
+      <author>Li Li, Zhang Yan, Chuan&#8208;Kun Ran, Yi Liu, Shuo Zhang, Ting Gao, Long&#8208;Fei Dai, Li&#8208;Li Liao, Jian&#8208;Heng Ye, Da&#8208;Gang Yu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110104</guid>
+    </item>
+    <item>
+      <title>Efficient reduction of CO2 and inhibition of hydrogen precipitation by polymetallic oxalate photocatalysts modified with the metal Mn</title>
+      <link>https://doi.org/10.1039/d4nr00097h</link>
+      <description>Guifeng Li, Yuan Gu, Rui Ren, Sitan Li, Huiping Zhu, Dongmei Xue, Xiangyi Kong, Zhaoqiang Zheng, Nuo Liu, Bei Li, Jiangwei Zhang, Nanoscale. None(None)] 2024. https://openalex.org/W4399533032
+
+                Photocatalytic reduction of CO2 to chemical fuels is attractive for solving both the greenhouse effect and the energy crisis, but the key challenge is to design and synthesize photocatalysts with...</description>
+      <author>Guifeng Li, Yuan Gu, Rui Ren, Sitan Li, Huiping Zhu, Dongmei Xue, Xiangyi Kong, Zhaoqiang Zheng, Nuo Liu, Bei Li, Jiangwei Zhang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4nr00097h</guid>
+    </item>
+    <item>
+      <title>Deciphering the role of aromatic cations in electrochemical CO2 reduction: interfacial ion assembly governs reaction pathways</title>
+      <link>https://doi.org/10.1039/d4ta02903h</link>
+      <description>Wenxiao Guo, Beichen Liu, S. Anderson, S. Johnstone, Matthew A. Gebbie, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4399529132
+
+                The accumulation of ions at electrochemical interfaces governs the local chemical environment, which in turn determines the reaction pathways and rates of electrocatalytic processes, including electrochemical CO 2 reduction. Imidazolium cations...</description>
+      <author>Wenxiao Guo, Beichen Liu, S. Anderson, S. Johnstone, Matthew A. Gebbie</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta02903h</guid>
     </item>
     <item>
       <title>Comparative Carbon Footprint Assessment of Wood Flooring and Potential Pathways of Co2 Emissions Reduction -Six Cases from China</title>
@@ -78,6 +138,16 @@
       <guid isPermaLink="true">https://doi.org/10.3030/101153662</guid>
     </item>
     <item>
+      <title>Preparation, activity and mechanism of metallic Cu/TiO2 nanotube arrays catalyst by fast solar drying method for photothermal CO2 reduction under concentrating light</title>
+      <link>https://doi.org/10.1039/d4cy00175c</link>
+      <description>Zekai Zhang, Wei Yan, Ying Wang, Guokai Cui, Hanfeng Lu, Catalysis science &amp; technology. None(None)] 2024. https://openalex.org/W4399517295
+
+                Photocatalytic reduction of CO2 with solar energy can realize carbon cycle and ultimately solve the CO2 emission problem, while it suffers a low energy conversion efficiency. In this paper, metallic...</description>
+      <author>Zekai Zhang, Wei Yan, Ying Wang, Guokai Cui, Hanfeng Lu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cy00175c</guid>
+    </item>
+    <item>
       <title>Recycling Electronic Waste to Catalyse H2 Production and CO2 Reduction Using Recovered Metals: A Step towards Circular Economy</title>
       <link>https://doi.org/10.3030/101152892</link>
       <description>, No host. None(None)] 2025. https://openalex.org/W4399406096
@@ -88,24 +158,24 @@
       <guid isPermaLink="true">https://doi.org/10.3030/101152892</guid>
     </item>
     <item>
-      <title>Development of Technology and a Convert&#1077;r for Neutralizing Greenhouse Gases Emitted from Automobiles</title>
-      <link>https://doi.org/10.54338/27382656-2024.6-001</link>
-      <description>Yeghiazar Vardanyan, V. M. Harutyunyan, Karapet Mosikyan, Vladimir Sahidovich Koichev, Journal of architectural and engineering research. 6(None)] 2024. https://openalex.org/W4399325246
+      <title>Oxygen&#8208;tolerant CO2 Electrocatalysis</title>
+      <link>https://doi.org/10.1002/cctc.202400659</link>
+      <description>Hongfei Zhu, Hui Guo, Rong Cao, Yuan&#8211;Biao Huang, ChemCatChem. None(None)] 2024. https://openalex.org/W4399465290
 
-                The article touches upon the issues of global warming associated with carbon dioxide (CO2) emissions into the atmosphere from vehicle internal combustion engines (ICE). To neutralize existing greenhouse gases emitted by ICE, in particular CO2, the interaction of the latter with various chemicals has been studied. The dynamics of exhaust gas emissions from ICE cylinders were observed. The experimental research was conducted to develop a greenhouse gas neutralization technology. Carbon dioxide neutralization converter with three neutralization batteries and a homogenization device is presented. This converter can guarantee CO2 neutralization of up to 92%. The formation of CO2 in the cylinders of modern petrol engines is due to the final combustion of the air-petrol fuel mixture. The combustion of the latter in the cylinder can be heterogeneous and diffusive. In addition, CO2 is generated in large quantities during diffusion combustion. The most effective method of diffusive combustion was chosen by the constructors of modern ICE, which is the formation of an artificial turbulent gas-dynamic condition for the fuel mixture due to the increase in the temperature of the air adsorbed in the cylinder, which ensures the engine's thermal energy efficiency coefficient of up to 35%. The CO2 volume in the exhaust gases of such engines reaches up to 16%. Thus, considering the perfection of modern ICE design for providing a high-efficiency reaction for the hydrocarbon oxidation in the fuel mixture in the combustion chamber, it becomes apparent that the presence of about 16% CO2 in the fractional composition of emitted dissolved gases is a serious problem in terms of increasing the volume of greenhouse gases in the atmosphere. Therefore, the goal of this article is to develop a reduction technology.</description>
-      <author>Yeghiazar Vardanyan, V. M. Harutyunyan, Karapet Mosikyan, Vladimir Sahidovich Koichev</author>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.54338/27382656-2024.6-001</guid>
+                The electrochemical carbon dioxide reduction reaction (CO2RR) to generate high&#8208;value products is considered to be a promising approach to reduce the atmospheric concentration of CO2. However, the pure CO2 gas is generally required in the most of the reported CO2RR system, which brings tedious capture and separation procedures and high cost. The utilization of realistic CO2 emission directly such as flue gas for the CO2RR is highly desirable. However, the gas impurities in the real CO2 sources such as oxygen could seriously affect the activity and selectivity of the CO2RR. This concept summarizes the recently reported works about CO2RR studies in the presence of O2 and highlights the physical and chemical strategies to boost CO2 electroreduction performance. We further discuss the implications of these strategies for future progress in this emerging field.</description>
+      <author>Hongfei Zhu, Hui Guo, Rong Cao, Yuan&#8211;Biao Huang</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400659</guid>
     </item>
     <item>
-      <title>Construction of a Highly Stable Methane Reforming Catalyst Via Lattice Metal Ion Reduction Accompanying Support Phase Transition</title>
-      <link>https://doi.org/10.2139/ssrn.4854274</link>
-      <description>Libo Han, Hui Yang, Xiaolei Fu, Ruijue Hu, Haiquan Su, Lili Wan, Yiyi Su, No host. None(None)] 2024. https://openalex.org/W4399338171
+      <title>Facet-switching of rate-determining step on copper in CO &lt;sub&gt;2&lt;/sub&gt; -to-ethylene electroreduction</title>
+      <link>https://doi.org/10.1073/pnas.2400546121</link>
+      <description>Yu-Cai Zhang, Xiaolong Zhang, Zhi-Zheng Wu, Zhuang&#8208;Zhuang Niu, Li&#8208;Ping Chi, Fei&#8208;Yue Gao, Peng&#8208;Peng Yang, Ye-Hua Wang, Peiping Yu, Jing-Wen DuanMu, Shuping Sun, Min&#8208;Rui Gao, Proceedings of the National Academy of Sciences of the United States of America. 121(25)] 2024. https://openalex.org/W4399480959
 
-                Dry reforming of methane (DRM) is one of the most important technologies for converting carbon dioxide and methane into syngas. ZrO2-supported Ni catalysts have shown promising potential for DRM. However, their catalytic stability remains a challenge due to sintering and coking. In this work, a feasible strategy for the preparation of a highly stable ZrO2-supported Ni catalyst, Ni/ZrO2-Mt, was reported. The key points for the preparation of Ni/ZrO2-Mt were the replacement of Zr4+ in the metastable tetragonal ZrO2 with lattice Ni2+, followed by the reduction of lattice Ni2+ into metallic Ni and the phase transformation of ZrO2 support from the metastable tetragonal phase to the monoclinic phase. Compared with the catalyst Ni/ZrO2-Mn (no phase transition and lattice Ni2+ reduction), Ni/ZrO2-Mt could run stably for 800 h without deactivation, with both CO2 and CH4 conversions maintaining 96%. Corresponding to its high stability, the Ni/ZrO2-Mt displayed excellent resistance to sintering and coking, which was attributed to the enhanced metal-support interaction arising from the reduction of lattice Ni2+ and the transformation of the support phase. The proposed catalyst synthetic strategy provided an optional method for preparing highly stable catalysts.</description>
-      <author>Libo Han, Hui Yang, Xiaolei Fu, Ruijue Hu, Haiquan Su, Lili Wan, Yiyi Su</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4854274</guid>
+                Reduction of carbon dioxide (CO</description>
+      <author>Yu-Cai Zhang, Xiaolong Zhang, Zhi-Zheng Wu, Zhuang&#8208;Zhuang Niu, Li&#8208;Ping Chi, Fei&#8208;Yue Gao, Peng&#8208;Peng Yang, Ye-Hua Wang, Peiping Yu, Jing-Wen DuanMu, Shuping Sun, Min&#8208;Rui Gao</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1073/pnas.2400546121</guid>
     </item>
     <item>
       <title>Capturing carbon dioxide from air with charged-sorbents</title>
@@ -118,6 +188,16 @@
       <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-07449-2</guid>
     </item>
     <item>
+      <title>Ethylene Electrosynthesis via Selective CO&lt;sub&gt;2&lt;/sub&gt; Reduction: Fundamental Considerations, Strategies, and Challenges</title>
+      <link>https://doi.org/10.1002/aenm.202401558</link>
+      <description>Thomas O' Carroll, Xiaoxuan Yang, Kenneth J. Gordon, Ling Fei, Gang Wu, Advanced energy materials. None(None)] 2024. https://openalex.org/W4399533802
+
+                Abstract The electrochemical carbon dioxide reduction reaction (CO 2 RR) is a promising approach for reducing atmospheric carbon dioxide (CO 2 ) emissions, allowing harmful CO 2 to be converted into more valuable carbon&#8208;based products. On one hand, single carbon (C 1 ) products have been obtained with high efficiency and show great promise for industrial CO 2 capture. However, multi&#8208;carbon (C 2+ ) products possess high market value and have demonstrated significant promise as potential products for CO 2 RR. Due to CO 2 RR's multiple pathways with similar equilibrium potentials, the extended reaction mechanisms necessary to form C 2+ products continue to reduce the overall selectivity of CO 2 &#8208;to&#8208;C 2+ electroconversion. Meanwhile, CO 2 RR as a whole faces many challenges relating to system optimization, owing to an intolerance for low surface pH, systemic stability and utilization issues, and a competing side reaction in the form of the H 2 evolution reaction (HER). Ethylene (C 2 H 4 ) remains incredibly valuable within the chemical industry; however, the current established method for producing ethylene (steam cracking) contributes to the emission of CO 2 into the atmosphere. Thus, strategies to significantly increase the efficiency of this technology are essential. This review will discuss the vital factors influencing CO 2 RR in forming C 2 H 4 products and summarize the recent advancements in ethylene electrosynthesis.</description>
+      <author>Thomas O' Carroll, Xiaoxuan Yang, Kenneth J. Gordon, Ling Fei, Gang Wu</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202401558</guid>
+    </item>
+    <item>
       <title>Scanning Bubble Electrochemical Microscopy: Mapping of Electrocatalytic Activity with Low-Solubility Reactants</title>
       <link>https://doi.org/10.1021/acs.analchem.4c00917</link>
       <description>J.F. Monteiro, Kim McKelvey, Analytical chemistry. None(None)] 2024. https://openalex.org/W4399359847
@@ -126,6 +206,16 @@
       <author>J.F. Monteiro, Kim McKelvey</author>
       <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acs.analchem.4c00917</guid>
+    </item>
+    <item>
+      <title>Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China</title>
+      <link>https://doi.org/10.3389/fenvs.2024.1342321</link>
+      <description>Liyang Xiong, Yiyi Shu, Xuefeng Li, Frontiers in environmental science. 12(None)] 2024. https://openalex.org/W4399524116
+
+                The accountability audit of natural resources (AANR) is a major institutional arrangement for advancing the construction of an ecological civilization in China. Based on the panel data of 271 cities in China from 2005 to 2017, this paper investigates the relationship between the AANR and carbon dioxide (CO 2 ) emissions using a multi-period difference-in-differences (DID) model. The results show that AANR significantly increases the CO 2 emission reduction rate by 0.009 units at the 5% significance level. The results still hold after a series of robustness tests. Given all else being equal, this significant effect is 0.001. Further analyses show that AANR improves pilot cities&#8217; CO 2 emission reduction rates mainly by enhancing their green innovation capability. The mediating effect of cities&#8217; green technology innovation capability accounts for 96.00%, while the AANR&#8217;s direct effect only accounts for 4.00%. The AANR has significantly positive effects of 0.017% and 0.029% for western cities and cities with high fiscal pressure at the 5% and 1% significance levels, respectively. Therefore, strengthening AANR implementation by enhancing the mediating efficiency of cities&#8217; green technology innovations and implementing dynamically differentiated AANR policies in Chinese meso-cities will contribute to the achievement of China&#8217;s carbon peaking and carbon neutrality targets.</description>
+      <author>Liyang Xiong, Yiyi Shu, Xuefeng Li</author>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1342321</guid>
     </item>
     <item>
       <title>The structure of carbon dioxide at the air&#8208;water interface and its chemical implications.</title>
@@ -138,14 +228,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202400825</guid>
     </item>
     <item>
-      <title>Assessing the environmental and downstream human health impacts of decentralizing cancer care.</title>
-      <link>https://doi.org/10.1200/jco.2024.42.16_suppl.1522</link>
-      <description>Andrew Hantel, Colin Cernik, Thomas Walsh, Hajime Uno, Dalia Larios, Jonathan E. Slutzman, Gregory A. Abel, Journal of clinical oncology. 42(16_suppl)] 2024. https://openalex.org/W4399324775
+      <title>Life time of Reinforced Concrete floors of industrial buildings, connected with the use of chlorine</title>
+      <link>https://doi.org/10.1051/e3sconf/202453501012</link>
+      <description>Ashot Tamrazyan, E3S web of conferences. 535(None)] 2024. https://openalex.org/W4399548396
 
-                1522 Background: Greenhouse gas emissions from healthcare are substantial and harm persons with cancer. Emissions from outpatient cancer care visits are not well described, nor are the downstream reduction in human harms that could be obtained through visit &#8220;decentralization&#8221; (telemedicine and local care when possible). Methods: This life-cycle assessment (LCA)-based study evaluated changes in emissions and downstream health harms associated with (1) telemedicine visits using retrospective observational analysis and (2) fully decentralized visits using counterfactual modeling. The retrospective observational cohort included persons receiving cancer care at Dana-Farber Cancer Institute (DFCI) and 20 affiliated facilities between 5/2015-12/2020. The main outcome was the adjusted per visit-day difference in emissions (in kilograms carbon dioxide equivalents: kgCO 2 e) between two periods: an in-person care period (5/2015-2/2020; &#8220;Pre&#8221;) and a telemedicine period (3/2020-12/2020; &#8220;Post&#8221;). Mixed effects log-linear model assessed emissions changes adjusted for age, sex, race, ethnicity, and cancer type, with random effects on person. The counterfactual model assessed emissions changes between actual in-person visits during the Pre period and a counterfactual with maximal decentralization. Visit-day eligibility for decentralization was obtained by categorizing appointments (e.g., clinician visit, infusion) as DFCI required, local care possible, or telemedicine possible. This cohort was matched to a national population diagnosed with cancer over the same period (Cancer in North America [CiNA] dataset) using mixed-effects linear modeling, through which annual changes in disability-adjusted life-years (DALY) from clinician visit decentralization were estimated using Eckelman&#8217;s mortality cost of carbon conversion. Results: There were123,890 unique patients in the DFCI cohort seen over 1.6 million visit-days (Pre N=110,180, Post N=61,691) at a median of 6 visit-days per patient (IQR 2, 15). An estimated 72,554,006 kgCO 2 e were within scope of the LCA emitted during the study period. In mixed-effects log-linear regression, the adjusted mean absolute reduction in per visit-day emissions between Pre and Post periods was 36.4 kgCO 2 e (95%CI 36.2,36.6), or a reduction of 81.3% (95%CI 80.8,81.7) compared to the baseline model. In the counterfactual decentralized care model of the Pre period, there was a relative emissions reduction of 33.1% (95%CI 32.9,33.3). When demographically matched to 10.3 million persons in the CiNA dataset, decentralized care would have reduced national emissions by 75.3 million kgCO 2 e annually; this corresponds to an estimated annual reduction of 15.0-47.7 DALYs. Conclusions: Employing decentralization through telemedicine and local care can substantially reduce emissions during cancer care delivery; this corresponds to a small reduction in human mortality.</description>
-      <author>Andrew Hantel, Colin Cernik, Thomas Walsh, Hajime Uno, Dalia Larios, Jonathan E. Slutzman, Gregory A. Abel</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1200/jco.2024.42.16_suppl.1522</guid>
+                The article deals with the issues of durability (Life time) of floors of industrial buildings associated with the presence of chlorine. It is shown that, together with carbon dioxide, chlorine forms well-soluble hygroscopic layers in the form of calcium chloride. The movement of chlorine salts causes corrosion of the reinforcement and penetrates deep into the concrete. Therefore, the service life of reinforced concrete elements when exposed to an external aggressive environment is reduced due to corrosion of reinforcement and concrete. Experimental data and analytical dependences of the advance of the front of chloride concentrations dangerous for reinforcement and destruction of concrete under the action of the considered aggressive environment are presented. A formula is derived for the design service life of reinforced concrete structures by the factor of the passivating action of the protective layer of concrete. An empirical dependence of the service life of the structure on the depth of corrosion (diameter reduction) of the reinforcement was also obtained. The coefficient of corrosive wear of reinforcement for rectangular and tee sections bending reinforced concrete elements is calculated.</description>
+      <author>Ashot Tamrazyan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453501012</guid>
     </item>
     <item>
       <title>In&#8211;Situ Characterization Techniques for Mechanism Studies of CO2 Hydrogenation</title>
@@ -158,6 +248,16 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cplu.202300511</guid>
     </item>
     <item>
+      <title>LNG VERSUS CONVENTIONAL FUEL POWERED VESSELS: ENVIRONMENTAL IMPACT OF ROPAX SHIPS</title>
+      <link>https://doi.org/10.5821/mt.13202</link>
+      <description>Alvaro Herrero Martinez, Carlos Gonz&#225;lez-Guti&#233;rrez, Andr&#233;s Ortega-Piris, Emma D&#237;az Ruiz de Navamuel, Miguel A. Guitierrez, Alfonso-Isidro L&#243;pez-Diaz, No host. None(None)] 2024. https://openalex.org/W4399515293
+
+                Decarbonization and environmental respect have become pillars of European government policies. As a result of this direction and given that 80% of global freight transportation is carried out by ships, maritime transport emerges as one of the target sectors for these eco measures. Numerous initiatives, projects, and new technologies focused on this field exist. This paper examines the potential reduction of CO2 emissions by using LNG as a fuel either in combination with or instead of conventional fuel on RO-Pax ships. Taking advantage of the fact that we are facing a 'mature' technology already being applied in many ships. Emissions from a fleet of about 30 ships have been studied during the years 2019, 2020, 2021,2022 and 2023 where progressively adding LNG powered vessels from 4 up to 11 during 2023. Based on their annual consumptions&#8217; reports (HFO, MGO and LNG) total tons of polluted CO2 have been quantified together with the ratio tons of CO2 per sailed mile. On the other hand, known daily burned marine fuels of one of those vessels sailing Balearic Islands-Mainland Spain route and due to high increase of gas prices during 2021 and beginning of 2022 (about 350%) a study was conducted: consuming LNG for 265 days whenever possible and avoiding this fuel for 143 days. Therefore, based on the same ship/route, a particular comparison of CO2 emissions per nautical mile is obtained. Finally, using above results, hypothetical study is carried out in which emissions are estimated based on the sailed miles during years 2017 to 2021: Potential emissions in case of LNG versus conventional fuel powered. The 5-year result shows about 17.08% potential reduction. Approximately 32700 tons of CO2 only for 1 vessel highlighting the huge importance of the LNG powered vessels to reduce the environmental impact and the great importance of the investments on Research, Development and Innovation.</description>
+      <author>Alvaro Herrero Martinez, Carlos Gonz&#225;lez-Guti&#233;rrez, Andr&#233;s Ortega-Piris, Emma D&#237;az Ruiz de Navamuel, Miguel A. Guitierrez, Alfonso-Isidro L&#243;pez-Diaz</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5821/mt.13202</guid>
+    </item>
+    <item>
       <title>Paris's parking policy for healthier cities</title>
       <link>https://doi.org/10.1016/s2542-5196(24)00089-5</link>
       <description>Zaheer Allam, Mark Nieuwenhuijsen, Zarrin Allam, &#152;The &#156;Lancet. Planetary health. 8(6)] 2024. https://openalex.org/W4399369837
@@ -168,24 +268,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/s2542-5196(24)00089-5</guid>
     </item>
     <item>
-      <title>Investigation of Analyzable Solutions for Left-Turn-Centered Congestion Problems in Urban Grid Networks</title>
-      <link>https://doi.org/10.3390/su16114777</link>
-      <description>Taraneh Ardalan, Denis Sarazhinsky, Nemanja Dobrota, Aleksandar Stevanovic, Sustainability. 16(11)] 2024. https://openalex.org/W4399321298
+      <title>Lasers for the treatment of nail psoriasis: a systematic review</title>
+      <link>https://doi.org/10.1111/ijd.17304</link>
+      <description>Dana Jaalouk, Yanci A. Algarin, Anika Pulumati, Jasmine Humeda, Keyvan Nouri, International Journal of Dermatology. None(None)] 2024. https://openalex.org/W4399516376
 
-                Traffic congestion caused by left-turning vehicles in a coordinated corridor is a multifaceted problem requiring tailored solutions. This study explores the impact of shared left-turn lanes within one-way couplets, particularly during peak hours, where high left-turn volumes, limited side street storage, and the overlapped green time between pedestrians and left-turners contribute to queue spillbacks, coordination interruption, and network congestion. The focus of this paper is on the solutions that can be easily analyzed by practitioners, here called &#8220;analyzable solutions&#8221;. This approach stands in contrast to solutions derived from &#8220;non-transparent&#8221; optimization tools, which do not allow for a clear assessment of the solution&#8217;s adequacy or the ability to predict its impact in real-world applications. This paper investigates the effects of employing two analyzable signal timing strategies: Lagging Pedestrian (LagPed) phasing and Left-Turn Progression (LTP) offsets. Using high-fidelity microsimulation, the authors evaluated different scenarios, assessing pedestrian delays, queue lengths, travel time index, area average travel time index, and environmental impacts such as Fuel Consumption (FC) and CO2 emissions. The effectiveness of the proposed strategies was comprehensively evaluated against the base case scenario, demonstrating considerable improvements in various performance measures, including approximately a 5% reduction in FC and CO2 emissions. Implementation of the LTP strategy alone yields substantial reductions in delays, the number of stops, the queue length for left-turning vehicles, travel times for all road users, and ultimately FC and CO2 emissions. This study offers innovative approach to addressing the complex and multifaceted problem of left-turn-centered congestion in urban grid networks using efficient and down-to-earth analyzable solutions.</description>
-      <author>Taraneh Ardalan, Denis Sarazhinsky, Nemanja Dobrota, Aleksandar Stevanovic</author>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3390/su16114777</guid>
-    </item>
-    <item>
-      <title>Investigation of microstructure evolution and redox behavior of Ni-GDC cermet by cyclic re-oxidation in CO2</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.05.478</link>
-      <description>Yang Sun, Yanan Hou, Xiaofeng Guo, Huiying Qi, Ding Rong Ou, Peng Qiu, Tonghuan Zhang, Di Liu, Shuna Han, Baofeng Tu, International journal of hydrogen energy. 72(None)] 2024. https://openalex.org/W4399321601
-
-                The microstructure and reactivity of Ni-GDC cermet under cyclic oxidation in CO2 conditions were investigated using temperature-programmed reduction (TPR), X-ray diffraction (XRD), and scanning electron microscopy (SEM). The XRD results revealed that NiO was formed during the re-oxidation process in CO2. SEM and TPR results demonstrated that nanostructured NiO aggregates were formed on the surface of the sample after being re-oxidized at 400 &#176;C for 1200 min, resulting in an &#945; peak with high reduction activity and a conversion of only 16% from Ni to NiO. In contrast, the samples re-oxidized at 600 &#176;C for 600 min and 800 &#176;C for 240 min were completely oxidized, resulting in reconstructed and sintered NiO with larger particle size, and a &#946; peak with lower reactivity and a conversion of 100%. Redox cycling was further conducted on completely oxidized samples, which showed a decrease in &#946; peak temperature from the first to seventh cycle. The migration and redistribution of sintered NiO towards the exterior were confirmed by comparing SEM images after the first and fourth cycles, which favored an increase in the reactive area. Therefore, this study reveals that lower re-oxidation temperatures (&#8804;400 &#176;C) and an appropriate increase in redox cycles are beneficial for forming surficial nanostructures while hindering the formation of large sintered NiO particles.</description>
-      <author>Yang Sun, Yanan Hou, Xiaofeng Guo, Huiying Qi, Ding Rong Ou, Peng Qiu, Tonghuan Zhang, Di Liu, Shuna Han, Baofeng Tu</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.478</guid>
+                Abstract This systematic review assesses the evidence concerning laser treatments for nail psoriasis (NP), a prevalent condition among individuals with cutaneous psoriasis that notably affects their quality of life. Traditional treatments have limitations in terms of drug delivery and poor patient adherence, leading to interest in laser therapies for their targeted approach, extended treatment intervals, and the potential to enhance topical medication effectiveness. The MEDLINE, Embase, Web of Science, and Cochrane Library databases were searched. English&#8208;language randomized and non&#8208;randomized controlled trials with full&#8208;text availability were included. Data on the laser type, treatment protocol, Nail Psoriasis Severity Index (NAPSI) outcomes, and adverse events were extracted, and nail bed and matrix features and patient satisfaction were assessed. The primary effect measure was a percentage reduction in NAPSI scores from baseline. Nineteen studies involving the pulse dye laser (PDL), long&#8208;pulsed neodymium:yttrium aluminum garnet (Nd:YAG) laser and fractional carbon dioxide laser (FCL) were identified. Lasers, particularly those used in conjunction with topical agents, have shown favorable results. PDL effectively lowered NAPSI scores, and the Nd:YAG laser had comparable effectiveness but more discomfort. FCL also shows promise, particularly for topical drug delivery. PDL and Nd:YAG laser treatment were more effective at reducing nail bed features, whereas FCL was effective at reducing both nail bed and matrix features. Overall, lasers are promising treatment alternatives for NP, with similar NAPSI outcomes to topical therapies and intralesional injections.</description>
+      <author>Dana Jaalouk, Yanci A. Algarin, Anika Pulumati, Jasmine Humeda, Keyvan Nouri</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1111/ijd.17304</guid>
     </item>
     <item>
       <title>Steering Geometric Reconstruction of Bismuth with Accelerated Dynamics for CO2 Electroreduction</title>
@@ -198,24 +288,24 @@
       <guid isPermaLink="true">https://doi.org/10.1002/anie.202407665</guid>
     </item>
     <item>
-      <title>Novel Experimental Method to Simulate Reduction Behavior of Burden in Blast Furnace Shaft</title>
-      <link>https://doi.org/10.2139/ssrn.4854358</link>
-      <description>Wang Guang, Weiwei Xu, Qianyu Yi, Bin-bin Lyu, Qingguo Xue, Jingsong Wang, No host. None(None)] 2024. https://openalex.org/W4399344749
+      <title>Ocean Acidification trends and Carbonate System dynamics in the North Atlantic Subpolar Gyre during 2009&#8211;2019</title>
+      <link>https://doi.org/10.5194/egusphere-2024-1388</link>
+      <description>David Curbelo-Hern&#225;ndez, F&#237;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano, No host. None(None)] 2024. https://openalex.org/W4399533413
 
-                In order to evaluate the effects of CO and H2 for the gas-solid reaction behavior of the ferrous burden and coke in blast furnace shaft, a near-steady-state simulation test method of the blast furnace shaft was designed. The reduction behavior of the ferrous burden, carbon solution loss reaction under different temperatures and atmospheres, and the effect of hydrogen enrichment on the CO gas utilization ratio were investigated. The results show that above 830&#176;C, the reduction degrees of different ferrous burden structures under H2 atmosphere are higher than that under CO atmosphere. Better reduction degradation behavior could be obtained under the hydrogen-rich atmosphere. The H2O generated under H2 atmosphere could promote the carbon solution loss reaction. The solution loss ratio reaching the maximum at 950&#176;C. Under hydrogen-rich atmosphere, CO gas utilization ratio increased with the increased of H2 concentration due to the effects of the products H2O and CO2.</description>
-      <author>Wang Guang, Weiwei Xu, Qianyu Yi, Bin-bin Lyu, Qingguo Xue, Jingsong Wang</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4854358</guid>
+                Abstract. The CO2-carbonate system dynamics in the North Atlantic Subpolar Gyre (NASPG) were evaluated between 2009 and 2019. Data was collected aboard eight summer cruises through the CLIVAR 59.5&#186; N section. The Ocean Acidification (OA) patterns and the reduction in the saturation state of calcite (&#937;Ca) and aragonite (&#937;Arag) in response to the increasing anthropogenic CO2 (Cant) were assessed within the Irminger, Iceland and Rockall basins during a poorly-assessed decade in which the physical patterns reversed in comparison with previous well-known periods. The observed cooling, freshening and enhanced ventilation increased the interannual rate of accumulation of Cant in the interior ocean by 50&#8211;86 % and the OA rates by close to 10 %. The OA trends were 0.0013&#8211;0.0032 units yr-1 in the Irminger and Iceland basin and 0.0006&#8211;0.0024 units yr-1 in the Rockall Trough, causing a decline in &#937;Ca and &#937;Arag of 0.004&#8211;0.021 and 0.003&#8211;0.0013 units yr-1, respectively. The Cant-driven rise in total inorganic carbon (CT) was the main driver of the OA (contributed by 53&#8211;68 % in upper layers and &gt;82 % toward the interior ocean) and the reduction in &#937;Ca and &#937;Arag (&gt;64 %). The transient decrease in temperature, salinity and AT collectively counteracts the CT-driven acidification by 45&#8211;85 % in the upper layers and in the shallow Rockall Trough and by &lt;10 % in the interior ocean. The present investigation reports the acceleration of the OA within the NASPG and expands knowledge about the future state of the ocean.</description>
+      <author>David Curbelo-Hern&#225;ndez, F&#237;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1388</guid>
     </item>
     <item>
-      <title>Electronic Toll Collection (Etc) Deployment on Highways: Global Patterns, Estimated Gains from the Case of Vietnam, and Policy Discussion</title>
-      <link>https://doi.org/10.2139/ssrn.4853522</link>
-      <description>Vu Ming M. Khuong, No host. None(None)] 2024. https://openalex.org/W4399337342
+      <title>Long-Term Forecast of Energy Demand towards a Sustainable Future in Renewable Energies Focused on Geothermal Energy in Peru (2020&#8211;2050): A LEAP Model Application</title>
+      <link>https://doi.org/10.3390/su16124964</link>
+      <description>D. Torres, Luis Felipe Mazadiego, David Bolonio, Ram&#243;n Rodr&#237;guez Pons-Esparver, Sustainability. 16(12)] 2024. https://openalex.org/W4399549406
 
-                This paper examines the transformative shift towards Electronic Toll Collection (ETC) systems in highway management, focusing on their patterns and realized gains. By analyzing the global landscape of ETC deployment and delving deeply into the case of Vietnam, it provides practical policy insights for developing countries in this strategically urgent transition.A distinctive feature of this paper is its detailed examination of Vietnam's transition from manual toll collection (MTC) to ETC, highlighting substantial gains in emissions reduction, efficiency improvement, and savings in time and costs. In 2023, the first year of Vietnam's full ETC implementation, the estimated gains included a reduction in the consumption of 60,816 tons of gasoline and diesel, 192 tons of CO2-equivalent emissions, and 37.3 million hours in manpower time, with the total monetary equivalent value in cost savings amounting to $442 million. For the next seven years, 2024-2030, as Vietnam continues to rapidly expand highway networks, these respective figures are projected to amount to 597,862 tons of gasoline and diesel, 1,886,106 tons of CO2-equivalent emissions, 917.1 million hours, and $4.352 billion.Through policy discussion, the paper emphasizes the importance of ETC in boosting productivity and sustainable development, reducing pollution, and fostering advancement towards a smart economy and society. It underscores the critical role of government leadership and private sector engagement in successful ETC deployment.Additionally, the estimation results highlight the critical urgency and enormous benefits of making major investments and leveraging digital transformation in toll facilities such as metros, tunnels, and skyways to reduce heavy traffic congestion in megacities and inter-city roads, where millions of people and vehicles could save hours of waiting time in travel.</description>
-      <author>Vu Ming M. Khuong</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4853522</guid>
+                The present study aims to describe the potential sources of energy in Peru with the purpose of implementing them to achieve a sustainable system, taking advantage of the natural resources in the Peruvian land. To achieve this, three alternative scenarios have been defined and analyzed using the LEAP (Long-range Energy Alternatives Planning) software [Software Version: 2020.1.112]. The scenarios are as follows: the first one, the Business-as-Usual scenario, is based on normal trends according to historical data and referencing projections made by Peruvian state entities; the second one is focused on Energy Efficiency, the highlighted characteristic is taking into consideration the efficient conditions in transmission and distribution of electric energy; and the third one, centered on Geothermal Energy, focused on the development of this type of energy source and prioritizing it. The primary purpose of this analysis is to identify the advantages and disadvantages inherent in each scenario in order to obtain the best out of each one. In this way, the intention is to propose solutions based on Peru&#8217;s national reality or possible uses of the country&#8217;s energy potential to supply its energy demand. Currently, Peru&#8217;s energy demand relies on fossil fuels, hydraulic, and thermal energy. However, there is the possibility of transforming this system into a sustainable one by strengthening existing and growing energy sources such as solar and wind energy and new technologies for hydraulic and thermal energy, in addition to considering geothermal energy as the main energy source in the third scenario. The new system mentioned satisfactorily indicates that the CO2 equivalent emissions decrease significantly in the third scenario, with a 15.8% reduction compared to the first scenario and a 9.7% reduction in comparison to the second. On the other hand, the second scenario shows a 5.6% decrease in CO2 emissions compared to the first, resulting from improvements in technology and energy efficiency without requiring significant modifications or considerable investments, as in the third scenario.</description>
+      <author>D. Torres, Luis Felipe Mazadiego, David Bolonio, Ram&#243;n Rodr&#237;guez Pons-Esparver</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16124964</guid>
     </item>
     <item>
       <title>Greenhouse Gas Emissions and Mitigation Strategies across the Life Cycle of Municipal Solid Waste Incineration Plants in China</title>
@@ -228,54 +318,24 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acssuschemeng.4c02324</guid>
     </item>
     <item>
-      <title>RESEARCH PATTERNS AND TRENDS OF CARBON EMISSION FROM INLAND WATERS AT A GLOBAL SCALE</title>
-      <link>https://doi.org/10.30638/eemj.2024.065</link>
-      <description>Yifei Zhao, Jie Yuan, Environmental Engineering and Management Journal. 23(4)] 2024. https://openalex.org/W4399350219
+      <title>Reduced A&#8211;B super exchange interaction in zirconium doped cobalt ferrite due to laser irradiation</title>
+      <link>https://doi.org/10.1088/1402-4896/ad56db</link>
+      <description>Ebtesam E. Ateia, Nahla Fangary, Dalia N. Ghafar, Physica scripta. None(None)] 2024. https://openalex.org/W4399518339
 
-                This paper presents a bibliometric analysis of the publications on carbon emission from inland waters (CEW) in the past 10 years (2011)(2012)(2013)(2014)(2015)(2016)(2017)(2018)(2019)(2020).The study in this paper utilizes the Scopus database, which enables the retrieval of 6303 related documents.The findings of the study showed that the amount of CEW research has consistently increased over the years, and is expected to grow rapidly in the future.China and USA are the top publishing sources on CEW worldwide, with the Chinese Academy of Sciences being the top leading institution.The research in this field has focused on the CO2 source identification, the impact of environmental factors on CEW, the reduction of carbon emissions, as well as the energy usage performance and efficiency.This comprehensive study not only enhances the understanding of current CEW research among scholars and managers but also provides a historical reference for future research.</description>
-      <author>Yifei Zhao, Jie Yuan</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.30638/eemj.2024.065</guid>
+                Abstract The impact of Nd:YAG laser irradiation and the addition of zirconium ions (Zr4+) on the physical properties of CoFe2O4 spinel nano-ferrites has been studied. The co-precipitation method was used to synthesize the samples. Xray diffraction (XRD) and high-resolution transmission electron microscopy (HRTEM) were employed to examine the structure and morphology. The decrease in the Curie temperature Tc is due to the laser irradiation and the increase in the Zr content of the sample. The difference in the Tc between the non irradiated and the irradiated samples is about 7%, 43% and 34% for CoFe2O4, Co1.1Zr0.1Fe1.8O4, and Co1.3Zr0.3Fe1.4O4, respectively. The decrease in the Tc is due to an increase in the canting of the spins, resulting in a decreased thermal energy required to compensate for the spin alignment. The decrease in the coercivity of the laser irradiated sample is due to a reduction in the magnetic anisotropy and an altered distribution of the cations (Co2+, Fe3+, Zr4+). The observed trend indicates that laser irradiation, and Zr substitution, can be used to modify the magnetic hardness of the samples. The low coercivity of irradiated Co1.1Zr0.1Fe1.8O4 makes it suitable for a range of applications. The high-frequency response of the Co1+xZrxFe2-2xO4 NPs shows that they can operate within the frequency range of 7.5 GHz&#8211;11.56 GHz.&amp;#xD;</description>
+      <author>Ebtesam E. Ateia, Nahla Fangary, Dalia N. Ghafar</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1088/1402-4896/ad56db</guid>
     </item>
     <item>
-      <title>The First Emission Map of China's National Parks: Emissions from National Parks Have Significantly Different Patterns and Require Attention</title>
-      <link>https://doi.org/10.2139/ssrn.4854205</link>
-      <description>Shan Yang, Huan Xu, Zhicong Zhao, Fangyi Wang, Qibo Sun, Jiale Tang, Jia He, Zhong Liu, No host. None(None)] 2024. https://openalex.org/W4399345351
+      <title>Apolipoproteins and Its Association with Dengue Virus Serotype 2 (DENV-2) Infectivity in Human Hepatoma Cell Line (Huh7)</title>
+      <link>https://doi.org/10.48048/tis.2024.7674</link>
+      <description>Rohani Ahmad, Fadzilah Mohd Nor, Seok Mui Wang, Aletza Mohd Ismail, Julina@Azimah Md Noor, Thuhairah Hasrah Abdul Rahman, Trends in Sciences. 21(7)] 2024. https://openalex.org/W4399546028
 
-                National parks act as significant carbon reserves and sinks, yet their ability to offset carbon emissions is under threat, underscoring the need for stringent greenhouse gas emission control and reduction measures. Previous research has lacked detailed spatial inventories of greenhouse gas emissions from all national park sources at a national level, impeding the development of precise carbon management strategies. In this study, we conducted a uniform analysis of greenhouse gas emissions across all five national parks in China for the year 2020 at a national scale. It quantitatively assesses the spatial distribution and characteristics of emission sources, revealing that in 2020, China's national parks released a total of 6.79 million tonnes of greenhouse gas, predominantly CO2. The majority of emissions stemmed from residential and animal husbandry activities, with emission levels demonstrating spatial coherence&#8212;areas with high emissions were clustered together, and similarly for low-emission areas. Although the emissions per unit area in most national parks were significantly lower than the national average, emission hotspots in the Three-River-Source National Park were 1.78 times above the national average. The study emphasizes the importance of employing emission maps for devising effective greenhouse gas control and reduction strategies, aiming to enhance the carbon-neutral potential of national parks.</description>
-      <author>Shan Yang, Huan Xu, Zhicong Zhao, Fangyi Wang, Qibo Sun, Jiale Tang, Jia He, Zhong Liu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4854205</guid>
-    </item>
-    <item>
-      <title>Antimicrobial Assay of Metal Ions Using Yeast and Its Relevance to Food Preservation</title>
-      <link>https://doi.org/10.1021/acsfoodscitech.4c00079</link>
-      <description>Zhiguo Cao, Muhammad Shahidul Islam, Jared Sisler, Kam Chiu Tam, ACS food science &amp; technology. None(None)] 2024. https://openalex.org/W4399320958
-
-                The increasing occurrence of antimicrobial resistance in recent years has spurred research to produce new antimicrobial compounds. However, there is currently a lack of a rapid, simple, and quantitative assay to determine the antimicrobial characteristics of new antimicrobial compounds. In this study, we demonstrated that a simple water displacement apparatus can be used to determine the effects of various metal ions on the cell viability of a model organism Saccharomyces cerevisiae (S. cerevisiae) by monitoring the volume of CO2 (VCO2) released. Analysis on the effect of different metal ions on S. cerevisiae demonstrated a linear relationship between VCO2 and the reduction potentials and a linear&#8211;logarithmic relationship between VCO2 and the metal/ligand binding constant indicating this measurement's accuracy and quantitative nature. Due to its speed, simplicity, and accuracy, this water displacement method has the potential to be used as a pre-screening method to facilitate the rapid quantification and development of more effective antimicrobial agents for various applications including antimicrobial food preservation and packaging.</description>
-      <author>Zhiguo Cao, Muhammad Shahidul Islam, Jared Sisler, Kam Chiu Tam</author>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acsfoodscitech.4c00079</guid>
-    </item>
-    <item>
-      <title>Unveiling the Reactive Sites for Electrocatalytic Conversion of Nitrate to High Value-Added Chemicals</title>
-      <link>https://doi.org/10.2139/ssrn.4854058</link>
-      <description>Yan Yu-feng, Pengfei Guo, Xin Xu, Zhongyan Zhang, Huan Lou, Fanfei Sun, Meiqin Shi, No host. None(None)] 2024. https://openalex.org/W4399342907
-
-                CuZn catalysts with various structures were synthesized for electrocatalyzing NO3- and CO2. Among them, CuZn supported on nitrogen-doped carbon exhibited the capability for directly producing urea, while after treated at higher temperature it presents the highest yield of ammonia. XAFS analysis revealed in the optimized sample, Zn existed as the single atom and Cu contained Cu-O(N) and Cu-Cu coordination structures. The Cu-O(N) species promoted the C-N coupling, while the Cu-Cu component played a crucial role in the reduction of nitrate to ammonia. Cu&#948;+ (1&lt;&#948;&lt;2) in the catalyst contributed to the C-N coupling. In addition, in-situ XAFS data indicated that under the optimal potential of -0.89 V, the valence state of Cu&#948;+ decreased slightly but remained within the range of 1&lt;&#948;&lt;2. After 8-hour stability test, the catalyst maintained a stable coordination structure. This study reveals that the Cu coordination environment is a crucial parameter for selectively producing ammonia or urea.</description>
-      <author>Yan Yu-feng, Pengfei Guo, Xin Xu, Zhongyan Zhang, Huan Lou, Fanfei Sun, Meiqin Shi</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4854058</guid>
-    </item>
-    <item>
-      <title>Intrinsically reactive hyperbranched interface governs graphene oxide dispersion and crosslinking in epoxy for enhanced flame retardancy</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.06.005</link>
-      <description>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399393303
-
-                Enhancing the flame retardancy of epoxy (EP) resins typically entailed a trade-off with other physical properties. Herein, hyperbranched poly(amidoamine) (HPAA) and phytic acid (PA) were used to functionalize graphene oxide (GO) via electrostatic self-assembly in water to prepare a phosphorus-nitrogen functionalized graphene oxide nanosheet (PN-GOs), which could be utilized as high efficient flame-retardant additive of epoxy resin without sacrificing other properties. The PN-GOs demonstrated improved dispersion and compatibility within the EP matrix, which resulted in significant concurrent enhancements in both the mechanical performance and flame-retardant properties of the PN-GOs/EP nanocomposites over virgin EP. Notably, the incorporation of just 1.0 wt% PN-GOs yielded a 20.4, 6.4 and 42.7 % increases in flexural strength, flexural modulus and impact strength for the PN-GOs/EP nanocomposites, respectively. Furthermore, simultaneous reductions were achieved in the peak heat release rate (pHRR) by 60.0 %, total smoke production (TSP) by 43.0 %, peak CO production rate (pCOP) by 57.9 %, and peak CO2 production rate (pCO2P) by 63.9 %. This study presented a facile method for the design of GO-based nano flame retardants, expanding their application potential in polymer-matrix composites.</description>
-      <author>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.005</guid>
+                Introduction: Previous studies have shown that lipid components are involved in the internalization of Dengue virus (DENV), however, this mechanism has been hypothesized mostly through clinical studies correlating between dengue severity and lipid levels. This study aimed to determine DENV-2 internalization in the presence of apolipoprotein A1 (apoA1), B (apoB) or E (apoE) in human hepatoma cell line (Huh7). Materials and methods: Tetrazolium reduction assays were used to assess the cytotoxicity of apolipoproteins on Huh7. DENV-2 at MOI of 1 with 2 &#181;g/mL apoA1, apoB and apoE, respectively were introduced into the confluent Huh7 cells and incubated for an hour (internalization) and 72 h (replication) at 37 &#176;C, 5 % CO2. The replication experiments were repeated after SR-B1 siRNA treatment. Samples collected were subjected to qPCR for viral load determination. Differences between groups were assessed by ANOVA and independent T-Test. Results and discussion: Treatment with apoA1 and apoB demonstrated significant increment in DENV-2 internalization and replication compared to apoE (internalization: p = 0.022 and p = 0.323 vs p = 0.878, respectively; replication: p = 0.004 and p = 0.016 vs p = 0.897, respectively). A significant reduction of DENV2 infectivity was seen in apoA1 treated cells with SR-B1 down-regulation/silencing (35.2 % reduction, p = 0.013). Conclusions: apoA1 and apoB, enhanced initial attachment of DENV-2 to cell surface, suggesting their role in DENV internalization and infectivity. HIGHLIGHTS This research determined the effects of apolipoproteins on dengue virus serotype 2 (DENV-2) internalization in vitro using the human hepatoma cell line (Huh7) apoA1 and apoB enhance the initial attachment of DENV-2 to the cell surface Knockdown of SR-B1 receptors reduces apoA1-treated DENV-2 internalization, suggesting the role of SR-B1 as a route of entry for DENV-2 Knockdown of SR-B1 receptors had no effect on apoB-treated DENV-2 internalization, suggesting it uses another entry pathway GRAPHICAL ABSTRACT</description>
+      <author>Rohani Ahmad, Fadzilah Mohd Nor, Seok Mui Wang, Aletza Mohd Ismail, Julina@Azimah Md Noor, Thuhairah Hasrah Abdul Rahman</author>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.48048/tis.2024.7674</guid>
     </item>
     <item>
       <title>Microplastics increase the microbial functional potential of greenhouse gas emissions and water pollution in a freshwater lake: a metagenomic study</title>
@@ -288,14 +348,24 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.119250</guid>
     </item>
     <item>
-      <title>Indicators of Global Climate Change 2023: annual update of key indicators of the state of the climate system and human influence</title>
-      <link>https://doi.org/10.5194/essd-16-2625-2024</link>
-      <description>Piers M. Forster, Chris Smith, Tristram Walsh, William F. Lamb, Robin Lamboll, B. D. Hall, Mathias Hauser, Aur&#233;lien Ribes, Debbie Rosen, Nathan P. Gillett, Matthew D. Palmer, Joeri Rogelj, Karina von Schuckmann, Blair Trewin, Myles Allen, Robbie M. Andrew, Richard Betts, Alex Borger, Tim Boyer, Jiddu A. Broersma, Carlo Buontempo, Samantha Burgess, Chiara Cagnazzo, Lijing Cheng, Pierre Friedlingstein, Andrew Gettelman, Johannes G&#252;tschow, Masayoshi Ishii, Stuart Jenkins, Lan X, Colin Morice, Jens M&#252;hle, Christopher Kadow, John Kennedy, Rachel Killick, P. B. Krummel, Jan C. Minx, Gunnar Myhre, Vaishali Na&#239;k, Glen P. Peters, Anna Pirani, Julia Pongratz, Carl&#8208;Friedrich Schleussner, Sonia I. Seneviratne, Sophie Szopa, Peter Thorne, Mahesh Kovilakam, Elisa Majam&#228;ki, Jukka-Pekka Jalkanen, Margreet van Marle, Rachel Hoesly, Robert Rohde, Dominik L. Schumacher, Guido R. van der Werf, Russell S. Vose, Kirsten Zickfeld, Xuebin Zhang, Val&#233;rie Masson&#8208;Delmotte, Panmao Zhai, Earth system science data. 16(6)] 2024. https://openalex.org/W4399318659
+      <title>Intrinsically reactive hyperbranched interface governs graphene oxide dispersion and crosslinking in epoxy for enhanced flame retardancy</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.06.005</link>
+      <description>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399393303
 
-                Abstract. Intergovernmental Panel on Climate Change (IPCC) assessments are the trusted source of scientific evidence for climate negotiations taking place under the United Nations Framework Convention on Climate Change (UNFCCC). Evidence-based decision-making needs to be informed by up-to-date and timely information on key indicators of the state of the climate system and of the human influence on the global climate system. However, successive IPCC reports are published at intervals of 5&#8211;10 years, creating potential for an information gap between report cycles. We follow methods as close as possible to those used in the IPCC Sixth Assessment Report (AR6) Working Group One (WGI) report. We compile monitoring datasets to produce estimates for key climate indicators related to forcing of the climate system: emissions of greenhouse gases and short-lived climate forcers, greenhouse gas concentrations, radiative forcing, the Earth's energy imbalance, surface temperature changes, warming attributed to human activities, the remaining carbon budget, and estimates of global temperature extremes. The purpose of this effort, grounded in an open-data, open-science approach, is to make annually updated reliable global climate indicators available in the public domain (https://doi.org/10.5281/zenodo.11388387, Smith et al., 2024a). As they are traceable to IPCC report methods, they can be trusted by all parties involved in UNFCCC negotiations and help convey wider understanding of the latest knowledge of the climate system and its direction of travel. The indicators show that, for the 2014&#8211;2023 decade average, observed warming was 1.19 [1.06 to 1.30] &#176;C, of which 1.19 [1.0 to 1.4] &#176;C was human-induced. For the single-year average, human-induced warming reached 1.31 [1.1 to 1.7] &#176;C in 2023 relative to 1850&#8211;1900. The best estimate is below the 2023-observed warming record of 1.43 [1.32 to 1.53] &#176;C, indicating a substantial contribution of internal variability in the 2023 record. Human-induced warming has been increasing at a rate that is unprecedented in the instrumental record, reaching 0.26 [0.2&#8211;0.4] &#176;C per decade over 2014&#8211;2023. This high rate of warming is caused by a combination of net greenhouse gas emissions being at a persistent high of 53&#177;5.4 Gt CO2e yr&#8722;1 over the last decade, as well as reductions in the strength of aerosol cooling. Despite this, there is evidence that the rate of increase in CO2 emissions over the last decade has slowed compared to the 2000s, and depending on societal choices, a continued series of these annual updates over the critical 2020s decade could track a change of direction for some of the indicators presented here.</description>
-      <author>Piers M. Forster, Chris Smith, Tristram Walsh, William F. Lamb, Robin Lamboll, B. D. Hall, Mathias Hauser, Aur&#233;lien Ribes, Debbie Rosen, Nathan P. Gillett, Matthew D. Palmer, Joeri Rogelj, Karina von Schuckmann, Blair Trewin, Myles Allen, Robbie M. Andrew, Richard Betts, Alex Borger, Tim Boyer, Jiddu A. Broersma, Carlo Buontempo, Samantha Burgess, Chiara Cagnazzo, Lijing Cheng, Pierre Friedlingstein, Andrew Gettelman, Johannes G&#252;tschow, Masayoshi Ishii, Stuart Jenkins, Lan X, Colin Morice, Jens M&#252;hle, Christopher Kadow, John Kennedy, Rachel Killick, P. B. Krummel, Jan C. Minx, Gunnar Myhre, Vaishali Na&#239;k, Glen P. Peters, Anna Pirani, Julia Pongratz, Carl&#8208;Friedrich Schleussner, Sonia I. Seneviratne, Sophie Szopa, Peter Thorne, Mahesh Kovilakam, Elisa Majam&#228;ki, Jukka-Pekka Jalkanen, Margreet van Marle, Rachel Hoesly, Robert Rohde, Dominik L. Schumacher, Guido R. van der Werf, Russell S. Vose, Kirsten Zickfeld, Xuebin Zhang, Val&#233;rie Masson&#8208;Delmotte, Panmao Zhai</author>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5194/essd-16-2625-2024</guid>
+                Enhancing the flame retardancy of epoxy (EP) resins typically entailed a trade-off with other physical properties. Herein, hyperbranched poly(amidoamine) (HPAA) and phytic acid (PA) were used to functionalize graphene oxide (GO) via electrostatic self-assembly in water to prepare a phosphorus-nitrogen functionalized graphene oxide nanosheet (PN-GOs), which could be utilized as high efficient flame-retardant additive of epoxy resin without sacrificing other properties. The PN-GOs demonstrated improved dispersion and compatibility within the EP matrix, which resulted in significant concurrent enhancements in both the mechanical performance and flame-retardant properties of the PN-GOs/EP nanocomposites over virgin EP. Notably, the incorporation of just 1.0 wt% PN-GOs yielded a 20.4, 6.4 and 42.7 % increases in flexural strength, flexural modulus and impact strength for the PN-GOs/EP nanocomposites, respectively. Furthermore, simultaneous reductions were achieved in the peak heat release rate (pHRR) by 60.0 %, total smoke production (TSP) by 43.0 %, peak CO production rate (pCOP) by 57.9 %, and peak CO2 production rate (pCO2P) by 63.9 %. This study presented a facile method for the design of GO-based nano flame retardants, expanding their application potential in polymer-matrix composites.</description>
+      <author>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.005</guid>
+    </item>
+    <item>
+      <title>Telemonitoring with wearables and artificial intelligence for sustainable healthcare</title>
+      <link>https://doi.org/10.1097/dm-2024-00004</link>
+      <description>C&#233;sar Morcillo Serra, Araceli Jim&#233;nez Fuertes, Efra&#237;n L&#243;pez Caicedo, Luciano Leandro Garc&#237;a Fern&#225;ndez, Jos&#233; Francisco Tom&#225;s Mart&#237;nez, Digital medicine. 10(2)] 2024. https://openalex.org/W4399368374
+
+                There is overwhelming evidence that virtual consultations can reduce health care carbon emissions, largely by reducing travel related to in-person appointments.[1] Due to the incredibly important nature of this topic,[2] it is crucial not only to advance scientific discourse but also to highlight other ways in which telemedicine can be made more sustainable, such as the use of wearables[3] and, above all, smartwatches and artificial intelligence (AI) solutions on mobile phones, especially when they are integrated into a telemonitoring platform, with a clinical advisory service that manages alerts via digital consultation. Drawing from our experience with a patient telemonitoring program for different health conditions,[4] which involved 16,200 patients over three years (2020&#8211;2023), 864,209 wearable measurements were obtained. The majority (97%) were from smartwatches (34% from Apple, 23% from Garmin, 20% from Google Fit, 8% from Fitbit, 4% from Samsung, 3% from Strava, 3% from Polar, and 2% from Withings). However, 3% of patients, depending on the profile, also used connected health devices such as electrocardiograms, spirometers, pulse oximeters, scales, and blood pressure devices. The remote monitoring platform allows the measurement and visualization of the evolution of vital signs captured by devices connected to a health application (Figure 1). The intelligent system analyses these measurements and allows the detection of anomalies. The clinical team manages alerts, periodically reviews the information received and proactively contacts patients via digital consultation, prioritizing based on the information received. The mobile application also allows patients to contact the clinical team via digital consultation 24/7 (Figure 2).Figure 1.: Screenshots of the telemonitoring mobile application that integrates facial transdermal optical imaging with AI and wearables connected with a clinical advisory service that manages alerts via digital consultation.Figure 2.: Features of the telemonitoring platform. Patients' utilization of regular smartwatches, which already incorporate health measurement capabilities, eliminates the need to purchase specific devices for disease control. In doing so, smartwatches not only reduce costs for patients but also minimize electronic waste and resource consumption associated with dedicated medical devices. Furthermore, simple measurements of physiological and activity parameters captured by wearables often serve as indicators of disease decompensation, enabling timely interventions and improved patient outcomes.[5,6] By using AI and facial transdermal optical imaging on mobile devices, 382,943 measurements were also obtained. These measurements are integrated into our mobile health application, which uses NuraLogix's cloud-based software to determine measurements based on facial blood flow information. The application allows the measurement of heart rate, respiratory rate, and blood pressure, among other variables.[7] This technology allows blood pressure to be measured with an average overall accuracy of 95% in the following ranges: systolic: 100&#8211;139 mmHg; diastolic: 60&#8211;89 mmHg. Blood pressure prediction models predict blood pressure with a measurement bias &#177; standard deviation of 0.39 &#177; 7.30 mmHg for systolic blood pressure and -0.20 &#177; 6.00 mmHg for diastolic blood pressure. For heart rate, the application has a good correlation with electrocardiogram measurements, with an average overall accuracy of 95% and with a result within 3 beats of the true value in the heart rate range between 30 bpm and 200 bpm. In compliance with United States Health Insurance Portability and Accountability Act and European Union General Data Protection Regulation regulations and to protect privacy, certain personal data collected, such as facial images and video recordings, are not stored. This technology eliminates the need for additional specific devices, reducing the production and utilization of specialized medical equipment. To maintain consistency in the data collected between different devices, all data are stored in the same database, and the origin is classified based on the type of measurement device. This information is available to both the patient and health care personnel at all times, who can differentiate the origin of the measurements (Figure 3).Figure 3.: The back office of the medical team, showing the telemonitoring program with the data from the patient's different devices; the medical team is able to differentiate the source of each data point (whether it comes from a wearable or AI facial analysis). Our telemonitoring program has successfully facilitated 39,098 digital consultations for medical advice and for managing alerts generated by wearable and mobile devices. Communication channels for consultations were predominantly chat (67%), video consultations (24%), and phone calls (9%). We think that it is essential that wearable health data be remotely monitored by a medical team to avoid trips to the hospital to resolve concerns over possible deviations. We calculated the net carbon savings of performing a visit online by summing the carbon savings derived from the avoided patient travel for a face-to-face appointment and subtracting the videoconferencing and phone call emissions. To calculate the net CO2 emission data avoided owing to patients' switch to digital processes, we worked with the Carbon Trust, a global climate change and sustainability consultancy. We reviewed statistical data on the average distances travelled by Sanitas customers to go from their homes to a doctor's surgery; with these data, we calculated the average distance covered nationally (approximately 13 km for a round trip). The methodology included a review of the different modes of travel used by the population, according to national statistics registers of Spain and the UK.[8] Different means of transport were analysed (walking, cycling, bus, train, car) with the following considerations. In large provinces (Madrid, Barcelona and Valencia), 50% of the clients travelled by car, 21% by bus, 26% by train or metro and 3% by a non-polluting method of transport (walking, cycling). In the remaining provinces, 80% of the respondents travelled by car, 9% by bus, 8.0% by train and 3% by a non-polluting method of transport. In its methodology, the Carbon Trust included in its equation the CO2 emissions generated by using digital tools for video appointments (energy consumption of equipment and data transmission) or to download and save a digital medical report. Emissions related to videoconferencing were subtracted from the total avoided emissions to establish a "net" quota of avoided CO2. To calculate the emissions generated during a video consultation, the energy consumption of a videoconference was estimated to last an average of 9.5 minutes and was calculated based on the energy intensity of data centres, data transmission and the use of devices, in line with the reports of the International Energy Agenda. The emission factor of the Spanish electricity mix was used. The calculation above yielded an average of 3.057 kg of net CO2 emissions avoided per digital appointment.[9] Assuming that chat consultations have a similar impact and by multiplying the calculated average savings of 3057 kg of CO2 per appointment by the 39,098 digital consultations that were made through the telemonitoring program, we achieved a net reduction of 119.5 tons of CO2 emissions over the three-year period. Nowhere are the effects of climate change manifesting more clearly than on human health. The modern health care sector contributes to this serious phenomenon and is simultaneously affected by it. Although transportation for health reasons represents only 1.5% of the total number of trips,[9] ameliorating the environmental impacts of the health care sector and reducing greenhouse gas emissions can not only improve health for everyone but also reduce the costs of care.[10] In conclusion, our experience with the integration of wearables and facial transdermal optical imaging with AI on mobile devices into a medical telemonitoring platform holds immense potential for improving patient care while minimizing environmental impact by reducing CO2 emissions through digital management.</description>
+      <author>C&#233;sar Morcillo Serra, Araceli Jim&#233;nez Fuertes, Efra&#237;n L&#243;pez Caicedo, Luciano Leandro Garc&#237;a Fern&#225;ndez, Jos&#233; Francisco Tom&#225;s Mart&#237;nez</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1097/dm-2024-00004</guid>
     </item>
     <item>
       <title>Interventions for postburn pruritus</title>

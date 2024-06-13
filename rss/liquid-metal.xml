@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/liquid-metal.xml</link>
     <description>low temperature liquid metals</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Jun 2024 01:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:08:22 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>High&#8208;Entropy Alloy Array via Liquid Metal Nanoreactor</title>
+      <link>https://doi.org/10.1002/adma.202403865</link>
+      <description>Jingjing Liang, S. H. Chen, Erli Ni, Jiao Tang, Guanghui Cao, Huiliu Wang, Zhongyang Li, Mengqi Zeng, Lei Fu, Advanced materials. None(None)] 2024. https://openalex.org/W4399477201
+
+                Abstract High&#8208;entropy alloy (HEA) nanostructures arranged into well&#8208;defined configurations hold great potential for accelerating the development of electronics, photonics, catalysis, and device integration. However, the random nucleation induced by the disparity in physicochemical properties of multiple elements makes it challenging to achieve single&#8208;particle synthesis at the patterned preset sites in the high&#8208;entropy scenario. Herein, we proposed the liquid metal nanoreactor strategy to realize the construction of HEA arrays. The coalescence of the liquid metal driven by the tendency to decrease surface energy provides a restricted environment for the nucleation and growth to form single HEA particles at the preset locations, which could be regarded as a self&#8208;confinement reaction. Liquid metal endowing a low diffusion barrier on the substrate and a high diffusivity of the alloy system could dynamically promote the aggregation process. As a result, the HEA array was prepared with elements up to eleven and possessed uniform periodicity, which exhibited excellent holography response in a broad spectrum. Our work injects new vitality into the construction of HEA nanopatterns and provides an excellent platform for propelling their fundamental research and applications. This article is protected by copyright. All rights reserved</description>
+      <author>Jingjing Liang, S. H. Chen, Erli Ni, Jiao Tang, Guanghui Cao, Huiliu Wang, Zhongyang Li, Mengqi Zeng, Lei Fu</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adma.202403865</guid>
+    </item>
   </channel>
 </rss>

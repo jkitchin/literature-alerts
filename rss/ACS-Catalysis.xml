@@ -4,28 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Jun 2024 01:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 01:08:23 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Lattice Oxygen Activation Triggered by Ultrasonic Shock Significantly Improves NO Selective Catalytic Reduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c02400</link>
-      <description>Wei Wang, Baoli Zhu, Songil Sin, Zhiqiang Zhang, Chong Tan, Zhiwen Gu, Song Wang, Chunkai Huang, Min Tao, Chenghua Zhang, Changjin Tang, Lin Dong, ACS catalysis. None(None)] 2024. https://openalex.org/W4399320398
+      <title>Single Pt Coordinated with Framework Fe in MWW-Type Ferrisilicate toward Efficient Propane Dehydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c02091</link>
+      <description>Longkang Zhang, Xinyu Chen, Xiaodong Wu, Shaojia Song, Hengyong Xu, Yejun Guan, Weiyu Song, Jiangwei Zhang, Peng Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399439021
 
-                The precise regulation of lattice oxygen is crucial for many redox reactions, but it still remains a formidable challenge. Herein, we reported a facile strategy to induce generation of bulk phase defects in hematite (&#945;-Fe2O3) by ultrasonic treatment, thus achieving exclusive lattice oxygen activation without additional alternation of surface adsorbed oxygen species. This kind of unique lattice oxygen activation afforded negligible disturbance of NH3 adsorption but significant influence on NO2 generation via accelerated oxygen diffusion, resulting in enhanced activity contribution from the Fast-SCR reaction pathway. Particularly, the generation of bulk-phase defects was also found to be conducive to create thermally instable and chemically reactive surface nitrate species, which played a decisive role in activating NO reactant. Accordingly, a triple increment in the deNOx performance of the &#945;-Fe2O3 catalyst for the reaction of selective catalytic reduction of NO with NH3 (NH3&#8211;SCR) was achieved.</description>
-      <author>Wei Wang, Baoli Zhu, Songil Sin, Zhiqiang Zhang, Chong Tan, Zhiwen Gu, Song Wang, Chunkai Huang, Min Tao, Chenghua Zhang, Changjin Tang, Lin Dong</author>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02400</guid>
-    </item>
-    <item>
-      <title>Photocatalytic Reductive Functionalization of Aryl Alkynes via Alkyne Radical Anions</title>
-      <link>https://doi.org/10.1021/acscatal.4c02638</link>
-      <description>Xiaogang Tong, Zugen Wu, Hwee Ting Ang, Yinxing Miao, Yixin L&#252;, Jie Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399322479
-
-                The direct reductive functionalization of alkynes under mild conditions presents a promising yet challenging avenue for accessing value-added molecules. Alkyne radical anions represent a distinct class of reactive intermediates characterized by both a charge and an unpaired electron, thus holding great potential for facilitating diverse bond formations, particularly in alkyne reductive functionalization. However, the synthetic utility of alkyne radical anions is limited, primarily due to the difficulty in their generation and the formation of highly unstable vinyl radical intermediates. In this study, we accomplished the direct generation of alkyne radical anions from aryl alkyne feedstocks via single electron transfer (SET) reduction with photogenerated CO2 radical anion (CO2&#8226;&#8211;), enabling reductive hydroalkylation, arylalkenylation, and hydrocarboxylation of aryl alkynes. Our photocatalytic strategy features metal-free catalysis, mild reaction conditions, employment of a traceless reductant, good functional group compatibility, step- and atom-economy, and high regioselectivity. This study not only paves the way for leveraging the underexplored alkyne radical anions but also catalyzes the ongoing exploration of the bifunctional CO2&#8226;&#8211; species in synthetic chemistry.</description>
-      <author>Xiaogang Tong, Zugen Wu, Hwee Ting Ang, Yinxing Miao, Yixin L&#252;, Jie Wu</author>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02638</guid>
+                No abstract</description>
+      <author>Longkang Zhang, Xinyu Chen, Xiaodong Wu, Shaojia Song, Hengyong Xu, Yejun Guan, Weiyu Song, Jiangwei Zhang, Peng Wu</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02091</guid>
     </item>
     <item>
       <title>Issue Publication Information</title>
@@ -46,6 +36,66 @@
       <author/>
       <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i011_1809725</guid>
+    </item>
+    <item>
+      <title>Potential Dependence and Substituent Effect in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction on a Cobalt Phthalocyanine Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.3c05089</link>
+      <description>Yin&#8208;Long Li, Xiangqian Jiang, Hao Cao, Zhao Hong-yan, Jun Li, Yang&#8208;Gang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399513636
+
+                No abstract</description>
+      <author>Yin&#8208;Long Li, Xiangqian Jiang, Hao Cao, Zhao Hong-yan, Jun Li, Yang&#8208;Gang Wang</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.3c05089</guid>
+    </item>
+    <item>
+      <title>Identification of Stable Species Formed Under CO Adsorption and Oxidation on Alumina-Supported Single Pt Atoms: Why Nanoparticles Are More Active</title>
+      <link>https://doi.org/10.1021/acscatal.4c02184</link>
+      <description>F. Morfin, Caroline Dessal, Alexis Sangnier, C&#233;line Chizallet, L. Piccolo, ACS catalysis. None(None)] 2024. https://openalex.org/W4399523147
+
+                No abstract</description>
+      <author>F. Morfin, Caroline Dessal, Alexis Sangnier, C&#233;line Chizallet, L. Piccolo</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02184</guid>
+    </item>
+    <item>
+      <title>Visible-Light-Driven Carbon Dioxide Reduction Catalyzed by Iron Schiff-Base Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c01639</link>
+      <description>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
+
+                No abstract</description>
+      <author>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01639</guid>
+    </item>
+    <item>
+      <title>Novel Asymmetric Aggregation Strategy to Boost Charge Separation in Carbon Nitride Polymers for High-Performance Hydrogen Photosynthesis</title>
+      <link>https://doi.org/10.1021/acscatal.4c02387</link>
+      <description>Ruxue Yang, Hu Shi, Jianghong Zhao, Hongxia Zhang, Min Zhong, Pengju Yang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524118
+
+                No abstract</description>
+      <author>Ruxue Yang, Hu Shi, Jianghong Zhao, Hongxia Zhang, Min Zhong, Pengju Yang</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02387</guid>
+    </item>
+    <item>
+      <title>Unraveling Transfer Hydrogenation Mechanisms by Ammonia Borane to Alkenes over Self-Healing Copper Nanoparticles: The Complementary Role of N&#8211;H Bond, Surface, and Solvent</title>
+      <link>https://doi.org/10.1021/acscatal.4c02556</link>
+      <description>Angelo Maspero, Fabrizio Bardelli, Konstantis F. Konidaris, Matteo Uboldi, Carlo Lucarelli, Nicola Schiaroli, Jenny G. Vitillo, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524184
+
+                No abstract</description>
+      <author>Angelo Maspero, Fabrizio Bardelli, Konstantis F. Konidaris, Matteo Uboldi, Carlo Lucarelli, Nicola Schiaroli, Jenny G. Vitillo</author>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02556</guid>
+    </item>
+    <item>
+      <title>Intermolecular Aza-Wacker Coupling of Alkenes with Azoles by Photo-Aerobic Selenium-&#960;-Acid Multicatalysis</title>
+      <link>https://doi.org/10.1021/acscatal.4c01327</link>
+      <description>Tao Lei, Theresa Appleson, Alexander Breder, ACS catalysis. None(None)] 2024. https://openalex.org/W4399546627
+
+                No abstract</description>
+      <author>Tao Lei, Theresa Appleson, Alexander Breder</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01327</guid>
     </item>
   </channel>
 </rss>
