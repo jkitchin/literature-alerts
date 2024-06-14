@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Jun 2024 01:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 01:08:15 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Enhanced Activity from Coordinatively Unsaturated and Dynamic Zeolite-Bound Organoscandium Species</title>
+      <link>https://doi.org/10.1021/acscatal.4c00678</link>
+      <description>Scott A. Southern, Yuting Li, Da&#8208;Jiang Liu, Aaron D. Sadow, Long Qi, Fr&#233;d&#233;ric A. Perras, ACS catalysis. None(None)] 2024. https://openalex.org/W4399435891
+
+                No abstract</description>
+      <author>Scott A. Southern, Yuting Li, Da&#8208;Jiang Liu, Aaron D. Sadow, Long Qi, Fr&#233;d&#233;ric A. Perras</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00678</guid>
+    </item>
     <item>
       <title>Single Pt Coordinated with Framework Fe in MWW-Type Ferrisilicate toward Efficient Propane Dehydrogenation</title>
       <link>https://doi.org/10.1021/acscatal.4c02091</link>
@@ -38,6 +48,16 @@
       <guid isPermaLink="true">https://doi.org/10.1021/csv014i011_1809725</guid>
     </item>
     <item>
+      <title>Integrating Atomically Dispersed Sites with Versatile Oxide Supports to Construct Efficient Thermocatalysts: Toward Comprehensive Treatment of Flue Gas Pollutants</title>
+      <link>https://doi.org/10.1021/acscatal.4c01488</link>
+      <description>Qi Yu, Jun Xiang, Tao Liu, Kai Xu, Jun Xu, Long Jiang, Yi Wang, Caiting Li, Song Hu, Jun Xiang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399490594
+
+                No abstract</description>
+      <author>Qi Yu, Jun Xiang, Tao Liu, Kai Xu, Jun Xu, Long Jiang, Yi Wang, Caiting Li, Song Hu, Jun Xiang</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01488</guid>
+    </item>
+    <item>
       <title>Potential Dependence and Substituent Effect in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction on a Cobalt Phthalocyanine Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.3c05089</link>
       <description>Yin&#8208;Long Li, Xiangqian Jiang, Hao Cao, Zhao Hong-yan, Jun Li, Yang&#8208;Gang Wang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399513636
@@ -60,10 +80,10 @@
     <item>
       <title>Visible-Light-Driven Carbon Dioxide Reduction Catalyzed by Iron Schiff-Base Complexes</title>
       <link>https://doi.org/10.1021/acscatal.4c01639</link>
-      <description>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
+      <description>Iulia Cocosila, Albert Sol&#233;-Daur&#225;, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
 
                 No abstract</description>
-      <author>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
+      <author>Iulia Cocosila, Albert Sol&#233;-Daur&#225;, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
       <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01639</guid>
     </item>
@@ -96,6 +116,36 @@
       <author>Tao Lei, Theresa Appleson, Alexander Breder</author>
       <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01327</guid>
+    </item>
+    <item>
+      <title>Merging Photoredox and Nickel Catalysis: A Ligand-Free Cross-Coupling of Vinyl Halides and &#945;-Silylamines toward Tertiary Allylic Alkylamines</title>
+      <link>https://doi.org/10.1021/acscatal.4c02602</link>
+      <description>Ye Fu, Shuo Tong, Weiming Yuan, ACS catalysis. None(None)] 2024. https://openalex.org/W4399567902
+
+                No abstract</description>
+      <author>Ye Fu, Shuo Tong, Weiming Yuan</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02602</guid>
+    </item>
+    <item>
+      <title>Photoelectrochemical Heterodifunctionalization of Olefins: Carboamidation Using Unactivated Hydrocarbons</title>
+      <link>https://doi.org/10.1021/acscatal.4c02320</link>
+      <description>Steven M. Schmid, Shangze Wu, Indrasish Dey, Micha&#322; Doma&#324;ski, Xianhai Tian, Joshua P. Barham, ACS catalysis. None(None)] 2024. https://openalex.org/W4399578456
+
+                No abstract</description>
+      <author>Steven M. Schmid, Shangze Wu, Indrasish Dey, Micha&#322; Doma&#324;ski, Xianhai Tian, Joshua P. Barham</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02320</guid>
+    </item>
+    <item>
+      <title>Directed Aromatic Deuteration and Tritiation of Pharmaceuticals by Heavy Alkali Metal Amide Catalysts</title>
+      <link>https://doi.org/10.1021/acscatal.4c01807</link>
+      <description>Hui Du, Jingwei Li, Stella Christodoulou, Si&#8208;Yuan Li, Yunshu Cui, Junliang Wu, Sumei Ren, Laurent Maron, Zhang&#8208;Jie Shi, Bing&#8208;Tao Guan, ACS catalysis. None(None)] 2024. https://openalex.org/W4399583631
+
+                No abstract</description>
+      <author>Hui Du, Jingwei Li, Stella Christodoulou, Si&#8208;Yuan Li, Yunshu Cui, Junliang Wu, Sumei Ren, Laurent Maron, Zhang&#8208;Jie Shi, Bing&#8208;Tao Guan</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01807</guid>
     </item>
   </channel>
 </rss>

@@ -1,8 +1,28 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Thu Jun 13 01:08:24 2024
+Created on Fri Jun 14 01:08:16 2024
 
-Found 0 results from 2024-06-06 to 2024-06-13
+Found 1 results from 2024-06-07 to 2024-06-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
+* Global variability in atmospheric new particle formation mechanisms  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399567254
+:TOPICS: Atmospheric Aerosols and their Impacts, Aerosols' Impact on Climate and Hydrological Cycle, Stratospheric Chemistry and Climate Change Impacts
+:PUBLICATION_DATE: 2024-06-12
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41586-024-07547-1")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399567254"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399567254"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399567254"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399567254 (Open access: True)
+    
+[[https://openalex.org/A5008718870][Bin Zhao]], [[https://openalex.org/A5041685684][Neil M. Donahue]], [[https://openalex.org/A5034943806][Kai Zhang]], [[https://openalex.org/A5002048309][L.Y. Mao]], [[https://openalex.org/A5029609817][Manish Shrivastava]], [[https://openalex.org/A5075609761][Po‐Lun Ma]], [[https://openalex.org/A5007008607][Jin Shen]], [[https://openalex.org/A5055420452][Yafei Wang]], [[https://openalex.org/A5072761304][Jian Sun]], [[https://openalex.org/A5086004922][Hamish Gordon]], [[https://openalex.org/A5040131275][Shuaiqi Tang]], [[https://openalex.org/A5056263999][Jerome D. Fast]], [[https://openalex.org/A5083213632][Mingyi Wang]], [[https://openalex.org/A5055912616][Yang Gao]], [[https://openalex.org/A5008144731][Chao Yan]], [[https://openalex.org/A5055570611][Balwinder Singh]], [[https://openalex.org/A5018728258][Zeqi Li]], [[https://openalex.org/A5016210548][Lyuyin Huang]], [[https://openalex.org/A5005432331][Sijia Lou]], [[https://openalex.org/A5004420736][Guang Lin]], [[https://openalex.org/A5065736522][Hailong Wang]], [[https://openalex.org/A5004977348][Jingkun Jiang]], [[https://openalex.org/A5089839220][Aijun Ding]], [[https://openalex.org/A5067110169][Wei Nie]], [[https://openalex.org/A5064018818][Ximeng Qi]], [[https://openalex.org/A5003349024][Xiao-Hua Chi]], [[https://openalex.org/A5026980986][Lin Wang]], Nature. None(None)] 2024. https://doi.org/10.1038/s41586-024-07547-1 
+     
+Abstract A key challenge in aerosol pollution studies and climate change assessment is to understand how atmospheric aerosol particles are initially formed 1,2 . Although new particle formation (NPF) mechanisms have been described at specific sites 3–6 , in most regions, such mechanisms remain uncertain to a large extent because of the limited ability of atmospheric models to simulate critical NPF processes 1,7 . Here we synthesize molecular-level experiments to develop comprehensive representations of 11 NPF mechanisms and the complex chemical transformation of precursor gases in a fully coupled global climate model. Combined simulations and observations show that the dominant NPF mechanisms are distinct worldwide and vary with region and altitude. Previously neglected or underrepresented mechanisms involving organics, amines, iodine oxoacids and HNO 3 probably dominate NPF in most regions with high concentrations of aerosols or large aerosol radiative forcing; such regions include oceanic and human-polluted continental boundary layers, as well as the upper troposphere over rainforests and Asian monsoon regions. These underrepresented mechanisms also play notable roles in other areas, such as the upper troposphere of the Pacific and Atlantic oceans. Accordingly, NPF accounts for different fractions (10–80%) of the nuclei on which cloud forms at 0.5% supersaturation over various regions in the lower troposphere. The comprehensive simulation of global NPF mechanisms can help improve estimation and source attribution of the climate effects of aerosols.    
+
+    

@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Thu Jun 13 01:08:31 2024
+Created on Fri Jun 14 01:08:26 2024
 
-Found 25 results from 2024-06-06 to 2024-06-13
+Found 46 results from 2024-06-07 to 2024-06-14
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -13,17 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
-
-## Local Charge Transfer Unveils Antideactivation of Ru at High Potentials for the Alkaline Hydrogen Oxidation Reaction   
-
-OpenAlex: https://openalex.org/W4399368506    
-Open access: False
-    
-[H. C. Shi](https://openalex.org/A5085137622), [Yang Yang](https://openalex.org/A5050709202), [Pin Meng](https://openalex.org/A5033040300), [Jiahe Yang](https://openalex.org/A5078105147), [Wei Zheng](https://openalex.org/A5043800415), [Pengcheng Wang](https://openalex.org/A5044971912), [Yunlong Zhang](https://openalex.org/A5057377195), [Xingyan Chen](https://openalex.org/A5048512268), [Zhiyu Cheng](https://openalex.org/A5031779825), [Cichang Zong](https://openalex.org/A5082524202), [Dongdong Wang](https://openalex.org/A5052077971), [Qianwang Chen](https://openalex.org/A5014087781), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c03622.
-    
-The activity of Ru-based alkaline hydrogen oxidation reaction (HOR) electrocatalysts usually decreases rapidly at potentials higher than 0.1 V (vs a reversible hydrogen electrode (RHE)), which significantly limits the lifetime of fuel cells. It is found that this phenomenon is caused by the overadsorption of the O species due to the overcharging of Ru nanoparticles at high potentials. Here, Mn1Ox(OH)y clusters-modified Ru nanoparticles (Mn1Ox(OH)y@Ru/C) were prepared to promote charge transfer from overcharged Ru nanoparticles to Mn1Ox(OH)y clusters. Mn1Ox(OH)y@Ru/C exhibits high HOR activity and stability over a wide potential range of 0–1.0 V. Moreover, a hydroxide exchange membrane fuel cell with a Mn1Ox(OH)y@Ru/C anode delivers a high peak power density of 1.731 W cm–2, much superior to that of a Pt/C anode. In situ X-ray absorption fine structure (XAFS) analysis and density functional theory (DFT) calculations reveal that Mn in Mn1Ox(OH)y clusters could receive more electrons from overcharged Ru at higher potentials and significantly decrease the overadsorption of the O species on Ru, thus permitting the HOR on Ru to proceed at high potentials. This study provides guidance for the design of alkaline HOR catalysts without activity decay at high potentials.    
-
-    
 
 ## Pt Single Atoms on TiO2 Can Catalyze Water Oxidation in Photoelectrochemical Experiments   
 
@@ -58,6 +47,61 @@ Abstract The path to searching for sustainable energy has never stopped since th
 
     
 
+## Water structure and local potential distribution at Pt surface in alkaline cation mediated hydrogen evolution regulable by electric field   
+
+OpenAlex: https://openalex.org/W4399442130    
+Open access: False
+    
+[Junguang Tao](https://openalex.org/A5021646494), [Ding Pan](https://openalex.org/A5038169912), [Dan Xing](https://openalex.org/A5054362663), [Chang Pu](https://openalex.org/A5044300307), [Lixiu Guan](https://openalex.org/A5020906798), [Shuo Zhang](https://openalex.org/A5082924617), [Zhuoao Li](https://openalex.org/A5001150621), [Yunfei Zhang](https://openalex.org/A5006919426), [Mengying Jia](https://openalex.org/A5041638737), Research Square (Research Square). None(None)] 2024.https://doi.org/10.21203/rs.3.rs-4507558/v1.
+    
+Abstract The impact of alkaline media on hydrogen evolution reaction (HER) rate and selectivity is crucial for advancement of water electrolysis technology. Herein, we revealed the mechanism through which alkali metal cations (AM+) influence HER performance of Pt electrodes. We quantified the interfacial potential drops, which are regulatable by E-field and found that the local surface concentration of AM+ is 5.0 ~ 8.6 times higher than in the bulk solution. Decreasing AM+ concentration through reverse E-field disrupts adsorbate-surface interactions and boosts HER activity without affecting hydrogen binding energetics and kinetics. Complexes of OHδ−-(H2O)x-AM+ are formed near the interface, impacting intermediate product detachment. The presence of AM+ also plays a role in restructuring interfacial water and improving proton transfer efficiency. For Li+, the reorientation of O-H bonds towards Pt surface facilitates the HER process. These findings shed light on potential avenues for enhancing the efficiency of HER processes.    
+
+    
+
+## Adsorption and solar light activity of noble metal adatoms (Au and Zn) on Fe(111) surface: a first-principles study   
+
+OpenAlex: https://openalex.org/W4399442509    
+Open access: False
+    
+[Qaiser Rafiq](https://openalex.org/A5051570957), [Muhammad Tahir Khan](https://openalex.org/A5023075792), [Sardar Sikandar Hayat](https://openalex.org/A5002460454), [Sikander Azam](https://openalex.org/A5011852635), [Amin Ur Rahman](https://openalex.org/A5032852750), [Hosam O. Elansary](https://openalex.org/A5055979034), [Muhammad Shan](https://openalex.org/A5058004365), Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024.https://doi.org/10.1039/d3cp04504h.
+    
+Noble metals such as gold (Au), zinc (Zn), and iron (Fe) are highly significant in both fundamental and technological contexts owing to their applications in optoelectronics, light-emitting devices, photovoltaics, nanotechnology, batteries, and thermal barrier coatings.    
+
+    
+
+## Efficient tuning of the selectivity of Cu-based interface for electrocatalytic CO2 reduction by ligand modification   
+
+OpenAlex: https://openalex.org/W4399446319    
+Open access: False
+    
+[Yonggao Yan](https://openalex.org/A5046851457), [Tongxian Li](https://openalex.org/A5047188725), [Manuel Oliva‐Ramírez](https://openalex.org/A5087410333), [Yuguo Zhao](https://openalex.org/A5053753860), [Shuo Wang](https://openalex.org/A5051434566), [Xin Chen](https://openalex.org/A5032165940), [Dong Wang](https://openalex.org/A5072946558), [Peter Schaaf](https://openalex.org/A5019559196), [Xiayan Wang](https://openalex.org/A5017550339), [Xiayan Wang](https://openalex.org/A5017550339), Materials today energy. None(None)] 2024.https://doi.org/10.1016/j.mtener.2024.101620.
+    
+No abstract    
+
+    
+
+## Efficient Urea Synthesis via One-Step N−C−N Coupling: Strong Metal-Support Interaction-Driven Planar Cu Clusters on Two-Dimensional Mo2C MXene   
+
+OpenAlex: https://openalex.org/W4399451390    
+Open access: False
+    
+[Yue Zhang](https://openalex.org/A5010776860), [Linguo Lu](https://openalex.org/A5017365853), [Tiantian Zhao](https://openalex.org/A5070760631), [Jingxiang Zhao](https://openalex.org/A5011941921), [Qinghai Cai](https://openalex.org/A5062066243), [Zhongfang Chen](https://openalex.org/A5069346232), Journal of materials chemistry. A. None(None)] 2024.https://doi.org/10.1039/d4ta02393e.
+    
+The anchoring of the Cu cluster on Mo 2 C substrate can achieve a planar configuration, effectively boosting urea synthesis via a one-step mechanism.    
+
+    
+
+## Electrocatalytic reduction of CO2 to C2H4 by monometallic Cu4 cluster supported on CeO2(110) surface   
+
+OpenAlex: https://openalex.org/W4399466754    
+Open access: False
+    
+[Ping Liu](https://openalex.org/A5077153113), [Zhu Hai-yan](https://openalex.org/A5018580893), [Baiyue Li](https://openalex.org/A5088073450), [Chen Wu](https://openalex.org/A5072254497), [Jia Shi](https://openalex.org/A5050065678), [Bingbing Suo](https://openalex.org/A5008133679), [Wenli Zou](https://openalex.org/A5086719383), [Yawei Li](https://openalex.org/A5036891682), International journal of hydrogen energy. 73(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.06.060.
+    
+No abstract    
+
+    
+
 ## Computational screening of single-atom catalysts supported on Al12N12 nanocage for nitrogen reduction reaction   
 
 OpenAlex: https://openalex.org/W4399487964    
@@ -66,6 +110,17 @@ Open access: False
 [Xinlin Tang](https://openalex.org/A5063350276), [H. Liao](https://openalex.org/A5087003508), [Wenhong Zeng](https://openalex.org/A5002422033), [Wei Guo](https://openalex.org/A5018892257), [Xin Lian](https://openalex.org/A5082601942), Materials today communications. None(None)] 2024.https://doi.org/10.1016/j.mtcomm.2024.109509.
     
 No abstract    
+
+    
+
+## Compressively Strained and Interconnected Platinum Cones with Greatly Enhanced Activity and Durability toward Oxygen Reduction   
+
+OpenAlex: https://openalex.org/W4399490867    
+Open access: False
+    
+[Mingkai Liu](https://openalex.org/A5045653991), [Siyu Zhou](https://openalex.org/A5086900313), [Marc Figueras‐Valls](https://openalex.org/A5037899854), [Y. Ding](https://openalex.org/A5026394509), [Zhiheng Lyu](https://openalex.org/A5036322362), [Manos Mavrikakis](https://openalex.org/A5031683423), [Younan Xia](https://openalex.org/A5041556229), Advanced functional materials. None(None)] 2024.https://doi.org/10.1002/adfm.202404677.
+    
+Abstract The synthesis of cone‐shaped Pt nanoparticles featuring compressively‐strained {111} facets by depositing Pt atoms on the vertices of Pd icosahedral nanocrystals, followed by selective removal of the Pd template via wet etching, is reported. By controlling the lateral dimensions down to ca. 3 nm, together with a thickness of ca. 2 nm, the Pt cones show greatly enhanced specific and mass activities toward oxygen reduction, with values being 2.8 and 6.4 times those of commercial Pt/C, respectively. Both the strain field and the observed activity trend are rationalized using density functional theory calculations. With the formation of ultrathin linkers among the Pt cones derived from the same Pd icosahedral seed, the interconnected Pt cones acquire stronger interactions with the carbon support, preventing them from detachment and aggregation during the catalytic reaction. Even after 20 000 cycles of accelerated durability test, the Pt cones still show a mass activity 5.3 times higher than the initial value of the Pt/C.    
 
     
 
@@ -286,5 +341,181 @@ Open access: False
 [Chunmei Liu](https://openalex.org/A5044042136), [Jiamin Ma](https://openalex.org/A5071911528), [Zimei Fu](https://openalex.org/A5064151810), [Peipei Zhao](https://openalex.org/A5005560656), [Bo Meng](https://openalex.org/A5078473875), [Yinyi Gao](https://openalex.org/A5016695309), [Man Zhao](https://openalex.org/A5019779253), [Yingluo He](https://openalex.org/A5028463150), [He Xiao](https://openalex.org/A5009521836), [Jianfeng Jia](https://openalex.org/A5089859351), International journal of hydrogen energy. 73(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.06.073.
     
 No abstract    
+
+    
+
+## Design of reaction-driven active configuration for enhanced CO2 electroreduction   
+
+OpenAlex: https://openalex.org/W4399555339    
+Open access: False
+    
+[Shanyong Chen](https://openalex.org/A5015612070), [Tao Luo](https://openalex.org/A5034211225), [Xiaoqing Li](https://openalex.org/A5009451011), [Kejun Chen](https://openalex.org/A5085671327), [Qiyou Wang](https://openalex.org/A5088905499), [Junwei Fu](https://openalex.org/A5071694629), [Kang Liu](https://openalex.org/A5045570568), [Chao Ma](https://openalex.org/A5025545087), [Ying‐Rui Lu](https://openalex.org/A5080261450), [Hongmei Li](https://openalex.org/A5069972503), [Kishan S. Menghrajani](https://openalex.org/A5071455344), [Changxu Liu](https://openalex.org/A5003441845), [Stefan A. Maier](https://openalex.org/A5009223920), [Ting‐Shan Chan](https://openalex.org/A5076885525), [Junwei Fu](https://openalex.org/A5013848651), Nano energy. None(None)] 2024.https://doi.org/10.1016/j.nanoen.2024.109873.
+    
+No abstract    
+
+    
+
+## The MTO and DTO processes as greener alternatives to produce olefins: A review of kinetic models and reactor design   
+
+OpenAlex: https://openalex.org/W4399556348    
+Open access: False
+    
+[Tomás Cordero‐Lanzac](https://openalex.org/A5025833855), [Ana G. Gayubo](https://openalex.org/A5075819192), [Andrés T. Aguayo](https://openalex.org/A5077547473), [Javier Bilbao](https://openalex.org/A5090443870), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.152906.
+    
+No abstract    
+
+    
+
+## Conformal surface intensive doping of low-valence Bi on Cu2O for highly efficient electrochemical nitrate reduction to ammonia production   
+
+OpenAlex: https://openalex.org/W4399556499    
+Open access: False
+    
+[Thi Kim Cuong Phu](https://openalex.org/A5016008264), [Won Tae Hong](https://openalex.org/A5026287233), [Hyungu Han](https://openalex.org/A5021249781), [Young In Song](https://openalex.org/A5042021248), [Jong Hun Kim](https://openalex.org/A5072249558), [Seung Hun Roh](https://openalex.org/A5090220694), [Min‐Cheol Kim](https://openalex.org/A5071614860), [Jai Hyun Koh](https://openalex.org/A5039177219), [Byung‐Keun Oh](https://openalex.org/A5061583107), [Jun Young Kim](https://openalex.org/A5027816460), [Chan–Hwa Chung](https://openalex.org/A5069541977), [Dong Hoon Lee](https://openalex.org/A5073284312), [Jung Kyu Kim](https://openalex.org/A5052472508), Materials today. None(None)] 2024.https://doi.org/10.1016/j.mattod.2024.05.007.
+    
+No abstract    
+
+    
+
+## Screening WS2−based single−atom catalysts for electrocatalytic nitrate reduction to ammonia   
+
+OpenAlex: https://openalex.org/W4399558931    
+Open access: False
+    
+[Mamutjan Tursun](https://openalex.org/A5024612840), [Abdukader Abdukayum](https://openalex.org/A5068816309), [Chao Wu](https://openalex.org/A5062302560), [Caihong Wang](https://openalex.org/A5047810076), International journal of hydrogen energy. 73(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.06.038.
+    
+No abstract    
+
+    
+
+## Patterned graphene: An effective platform for adsorption, immobilization, and destruction of SARS-CoV-2 Mpro   
+
+OpenAlex: https://openalex.org/W4399563048    
+Open access: False
+    
+[Jiawen Wang](https://openalex.org/A5045058519), [Huilong Dong](https://openalex.org/A5033039685), [Yujin Ji](https://openalex.org/A5071601763), [Youyong Li](https://openalex.org/A5035944985), [Shuit‐Tong Lee](https://openalex.org/A5001550119), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.06.072.
+    
+No abstract    
+
+    
+
+## Ultrahigh resolution x-ray Thomson scattering measurements at the European X-ray Free Electron Laser   
+
+OpenAlex: https://openalex.org/W4399566144    
+Open access: True
+    
+[Thomas Gawne](https://openalex.org/A5084117865), [Zhandos A. Moldabekov](https://openalex.org/A5082224651), [Oliver Humphries](https://openalex.org/A5058198267), [Karen Appel](https://openalex.org/A5040325423), [Carsten Baehtz](https://openalex.org/A5054268741), [V. Bouffetier](https://openalex.org/A5071727655), [E. Brambrink](https://openalex.org/A5072963951), [Attila Cangi](https://openalex.org/A5043256783), [S. Göde](https://openalex.org/A5087653558), [Zuzana Konôpková](https://openalex.org/A5020719460), [Mikako Makita](https://openalex.org/A5035672216), [Mikhail Mishchenko](https://openalex.org/A5056855113), [M. Nakatsutsumi](https://openalex.org/A5029782020), [Kushal Ramakrishna](https://openalex.org/A5048882561), [Lisa Randolph](https://openalex.org/A5046424304), [Sebastian Schwalbe](https://openalex.org/A5000808870), [Jan Vorberger](https://openalex.org/A5015865543), [Lennart Wollenweber](https://openalex.org/A5072606758), [U. Zastrau](https://openalex.org/A5078132702), [Tobias Dornheim](https://openalex.org/A5019440366), [Thomas R. Preston](https://openalex.org/A5040134454), Physical review. B./Physical review. B. 109(24)] 2024.https://doi.org/10.1103/physrevb.109.l241112.
+    
+Using an ultrahigh resolution (ΔE∼0.1eV) setup to measure electronic features in x-ray Thomson scattering (XRTS) experiments at the European XFEL in Germany, we have studied the collective plasmon excitation in aluminium at ambient conditions, which we can measure very accurately even at low momentum transfers. As a result, we can resolve previously reported discrepancies between time-dependent density functional theory simulations and experimental observations. The demonstrated capability for high-resolution XRTS measurements will be a game changer for the diagnosis of experiments with matter under extreme densities, temperatures, and pressures, and unlock the full potential of state-of-the-art x-ray free electron laser (XFEL) facilities to study planetary interior conditions, to understand inertial confinement fusion applications, and for material science and discovery. Published by the American Physical Society 2024    
+
+    
+
+## Tuneable bimetallic PdxCu100-x catalysts for selective butadiene hydrogenation   
+
+OpenAlex: https://openalex.org/W4399566446    
+Open access: True
+    
+[Oscar E. Brandt Corstius](https://openalex.org/A5081062743), [Hidde L. Nolten](https://openalex.org/A5095765603), [George F. Tierney](https://openalex.org/A5045744393), [Zhuoran Xu](https://openalex.org/A5052567080), [Eric J. Doskocil](https://openalex.org/A5032645207), [Jessi E. S. van der Hoeven](https://openalex.org/A5063299926), [Petra E. de Jongh](https://openalex.org/A5040096948), Catalysis today. 441(None)] 2024.https://doi.org/10.1016/j.cattod.2024.114877.
+    
+No abstract    
+
+    
+
+## Modification of Metals and Ligands in Two-Dimensional Conjugated Metal-Organic Frameworks for Co2 Electroreduction: A Combined Dft and Machine Learning Study   
+
+OpenAlex: https://openalex.org/W4399570693    
+Open access: False
+    
+[Guanru Xing](https://openalex.org/A5023014154), [Shize Liu](https://openalex.org/A5084675881), [Guang‐Yan Sun](https://openalex.org/A5051482789), [Jing-yao Liu](https://openalex.org/A5013853310), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4863114.
+    
+No abstract    
+
+    
+
+## Codebase release r1.0 for amcheck   
+
+OpenAlex: https://openalex.org/W4399573734    
+Open access: True
+    
+[Andriy Smolyanyuk](https://openalex.org/A5090246911), [Libor Šmejkal](https://openalex.org/A5042841356), [I. I. Mazin](https://openalex.org/A5037463950), SciPost physics codebases. None(None)] 2024.https://doi.org/10.21468/scipostphyscodeb.30-r1.0.
+    
+Altermagnets (AM) is a recently discovered class of collinear magnets that share some properties (anomalous transport, etc) with ferromagnets, some (zero net magnetization) with antiferromagnets, while also exhibiting unique properties (spin-splitting of electronic bands and resulting spin-splitter current). Since the moment compensation in AM is driven by symmetry, it must be possible to identify them by analyzing the crystal structure directly, without computing the electronic structure. Given the significant potential of AM for spintronics, it is very useful to have a tool for such an analysis. This work presents an open-access code implementing such a direct check.    
+
+    
+
+## NH3 Synthesis via Electrocatalytic N2 Reduction Reaction on the Defective Surfaces of Nb2Mo2C3Tx MXenes: Theoretical and Experimental Studies   
+
+OpenAlex: https://openalex.org/W4399574786    
+Open access: False
+    
+[Feng Ren](https://openalex.org/A5085724915), [Hanqing Yin](https://openalex.org/A5070839693), [Lei Tian](https://openalex.org/A5091755916), [Hui Zhang](https://openalex.org/A5003759585), [Fengwei Tian](https://openalex.org/A5069260620), [Jingquan Liu](https://openalex.org/A5030947813), [Aijun Du](https://openalex.org/A5082839443), [Wenrong Yang](https://openalex.org/A5060532105), [Zhen Liu](https://openalex.org/A5042909948), Energy & fuels. None(None)] 2024.https://doi.org/10.1021/acs.energyfuels.4c00802.
+    
+No abstract    
+
+    
+
+## Thermal conductivity of Li3PS4 solid electrolytes with ab initio accuracy   
+
+OpenAlex: https://openalex.org/W4399580171    
+Open access: False
+    
+[Davide Tisi](https://openalex.org/A5070688184), [Federico Grasselli](https://openalex.org/A5031150435), [Lorenzo Gigli](https://openalex.org/A5081043578), [Michele Ceriotti](https://openalex.org/A5021241296), Physical review materials. 8(6)] 2024.https://doi.org/10.1103/physrevmaterials.8.065403.
+    
+No abstract    
+
+    
+
+## Insightful Understanding of Synergistic Oxygen Reduction on PtCo3(111) Toward Zinc‐Air Batteries   
+
+OpenAlex: https://openalex.org/W4399581991    
+Open access: False
+    
+[Xiangxiong Chen](https://openalex.org/A5082640049), [Jiangnan Guo](https://openalex.org/A5033749324), [Dong Qian](https://openalex.org/A5013791293), [Jie Wu](https://openalex.org/A5038927058), [Weixiong Liao](https://openalex.org/A5018738763), [Geoffrey I.N. Waterhouse](https://openalex.org/A5067054835), [Jinlong Liu](https://openalex.org/A5013972114), Small. None(None)] 2024.https://doi.org/10.1002/smll.202403894.
+    
+Abstract Theory‐guided materials design is an effective strategy for designing catalysts with high intrinsic activity whilst minimizing the usage of expensive metals like platinum. As proof‐of‐concept, herein it demonstrates that using density functional theory (DFT) calculations and experimental validation that intermetallic PtCo 3 alloy nanoparticles offer enhanced electrocatatalytic performance for the oxygen reduction reaction (ORR) compared to Pt nanoparticles. DFT calculations established that PtCo 3 (111) surfaces possess better intrinsic ORR activity compared to Pt(111) surfaces, owing to the synergistic action of adjacent Pt and Co active sites which optimizes the binding strength of ORR intermediates to boost overall ORR kinetics. With this understanding, a PtCo 3 /NC catalyst, comprising PtCo 3 nanoparticles exposing predominantly (111) facets dispersed on an N‐doped carbon support, is successfully fabricated. PtCo 3 /NC demonstrates a high specific activity (3.4 mA cm −2 mg Pt −1 ), mass activity (0.67 A mg Pt −1 ), and cycling stability for the ORR in 0.1 M KOH, significantly outperforming a commercial 20 wt.% Pt/C catalyst. Moreover, a zinc‐air battery (ZAB) assembled with PtCo 3 /NC as the air‐electrode catalyst delivered an open‐circuit voltage of 1.47 V, a specific capacity of 775.1 mAh g Zn −1 and excellent operation durability after 200 discharge/charge cycles, vastly superior performance to a ZAB built using commercial Pt/C+IrO 2 as the air‐electrode catalyst.    
+
+    
+
+## A tool to check whether a symmetry-compensated collinear magnetic material is antiferro- or altermagnetic   
+
+OpenAlex: https://openalex.org/W4399582224    
+Open access: True
+    
+[Andriy Smolyanyuk](https://openalex.org/A5090246911), [Libor Šmejkal](https://openalex.org/A5042841356), [I. I. Mazin](https://openalex.org/A5037463950), SciPost physics codebases. None(None)] 2024.https://doi.org/10.21468/scipostphyscodeb.30.
+    
+Altermagnets (AM) is a recently discovered class of collinear magnets that share some properties (anomalous transport, etc) with ferromagnets, some (zero net magnetization) with antiferromagnets, while also exhibiting unique properties (spin-splitting of electronic bands and resulting spin-splitter current). Since the moment compensation in AM is driven by symmetry, it must be possible to identify them by analyzing the crystal structure directly, without computing the electronic structure. Given the significant potential of AM for spintronics, it is very useful to have a tool for such an analysis. This work presents an open-access code implementing such a direct check.    
+
+    
+
+## Temperature and structure measurements of heavy-ion-heated diamond using in situ X-ray diagnostics   
+
+OpenAlex: https://openalex.org/W4399583691    
+Open access: True
+    
+[J. Lütgert](https://openalex.org/A5011704655), [P. Hesselbach](https://openalex.org/A5093839058), [Maximilian Schörner](https://openalex.org/A5012072862), [V. Bagnoud](https://openalex.org/A5034570885), [R.P. Belikov](https://openalex.org/A5008850608), [P. Drechsel](https://openalex.org/A5023473117), [Benedikt Heuser](https://openalex.org/A5037998057), [Oliver Humphries](https://openalex.org/A5058198267), [Peter Katrík](https://openalex.org/A5055647653), [Bjørn Lindqvist](https://openalex.org/A5073744119), [Chongbing Qu](https://openalex.org/A5091523525), [R. Redmer](https://openalex.org/A5039228894), [D. Riley](https://openalex.org/A5006518173), [G. Schaumann](https://openalex.org/A5065766283), [S. Schumacher](https://openalex.org/A5046732029), [A. Tauschwitz](https://openalex.org/A5073852961), [D. Varentsov](https://openalex.org/A5045459549), [K. Weyrich](https://openalex.org/A5036591032), [Xiaomei Yu](https://openalex.org/A5041624206), [B. Zielbauer](https://openalex.org/A5067014046), [Zs. Major](https://openalex.org/A5060387878), [P. Neumayer](https://openalex.org/A5038610936), [D. Kraus](https://openalex.org/A5063046560), Matter and radiation at extremes. 9(4)] 2024.https://doi.org/10.1063/5.0203005.
+    
+We present in situ measurements of spectrally resolved X-ray scattering and X-ray diffraction from monocrystalline diamond samples heated with an intense pulse of heavy ions. In this way, we determine the samples’ heating dynamics and their microscopic and macroscopic structural integrity over a timespan of several microseconds. Connecting the ratio of elastic to inelastic scattering with state-of-the-art density functional theory molecular dynamics simulations allows the inference of average temperatures around 1300 K, in agreement with predictions from stopping power calculations. The simultaneous diffraction measurements show no hints of any volumetric graphitization of the material, but do indicate the onset of fracture in the diamond sample. Our experiments pave the way for future studies at the Facility for Antiproton and Ion Research, where a substantially increased intensity of the heavy ion beam will be available.    
+
+    
+
+## Approaches to Construct High-Performance Mg–Air Batteries   
+
+OpenAlex: https://openalex.org/W4399586187    
+Open access: False
+    
+[Hao Liang](https://openalex.org/A5009196094), [Wenhui Yao](https://openalex.org/A5007556931), [Wenbo Du](https://openalex.org/A5036743148), [Hao Liang](https://openalex.org/A5009196094), No host. None(None)] 2024.https://doi.org/10.1007/978-3-031-57012-4_20.
+    
+No abstract    
+
+    
+
+## Influence of anionic species on the low temperature pyrolysis performance of heated tobacco sheets catalyzed by sodium salts   
+
+OpenAlex: https://openalex.org/W4399594316    
+Open access: True
+    
+[Xuebin Zhao](https://openalex.org/A5004568713), [Qiuling Wang](https://openalex.org/A5050946660), [Dan Ai](https://openalex.org/A5080835871), [Haiying Tian](https://openalex.org/A5058743472), [Zhan Zhang](https://openalex.org/A5047305591), [Ke Cao](https://openalex.org/A5078839160), [Yixuan Wang](https://openalex.org/A5048142533), [Wei Qi](https://openalex.org/A5071933793), [Bo Li](https://openalex.org/A5055622419), [Yapeng Niu](https://openalex.org/A5002168786), [Lingchuang Meng](https://openalex.org/A5062486871), [Beibei Gao](https://openalex.org/A5082947829), [Bin Li](https://openalex.org/A5083918639), Frontiers in chemistry. 12(None)] 2024.https://doi.org/10.3389/fchem.2024.1425244.
+    
+Development of low temperature catalytic pyrolysis technology for heated tobacco sheets is expected to increase the aroma of heated tobacco products and improve their overall smoking quality. In this study, the low temperature pyrolysis performances of heated tobacco sheets catalyzed by various anionic sodium salts were investigated using TG-DTG, Py-GC-MS technology and smoke routine chemical composition analysis. The results showed that the total weight loss between 100°C and 300°C increased by 7.8%–13.15% after adding various anionic sodium salts, among which, sodium acetate and sodium tartrate showed a relatively higher weight loss. The relative content of free hydroxyacetone, furfuryl alcohol, butyrolactone and megastigmatrienone in the pyrolysis gas increased, while the relative content of free nicotine decreased. With the change of anionic species, the catalytic decomposition ability of cellulose, lignin, and other substances may change, resulting in the distribution alteration of compounds in the pyrolysis gas. After adding sodium acetate and sodium citrate, the release of total particulate matter (TPM), glycerol, and nicotine in flue gas increased. Overall, the addition of sodium acetate and sodium citrate showed a higher low temperature pyrolysis performance of heated tobacco sheets. The research results in this paper provide data support for changing the low temperature catalytic pyrolysis performance of heated tobacco sheets by adjusting the type of anions in sodium salts.    
 
     

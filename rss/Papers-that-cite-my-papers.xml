@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Jun 2024 01:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 01:08:26 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Local Charge Transfer Unveils Antideactivation of Ru at High Potentials for the Alkaline Hydrogen Oxidation Reaction</title>
-      <link>https://doi.org/10.1021/jacs.4c03622</link>
-      <description>H. C. Shi, Yang Yang, Pin Meng, Jiahe Yang, Wei Zheng, Pengcheng Wang, Yunlong Zhang, Xingyan Chen, Zhiyu Cheng, Cichang Zong, Dongdong Wang, Qianwang Chen, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399368506
-
-                The activity of Ru-based alkaline hydrogen oxidation reaction (HOR) electrocatalysts usually decreases rapidly at potentials higher than 0.1 V (vs a reversible hydrogen electrode (RHE)), which significantly limits the lifetime of fuel cells. It is found that this phenomenon is caused by the overadsorption of the O species due to the overcharging of Ru nanoparticles at high potentials. Here, Mn1Ox(OH)y clusters-modified Ru nanoparticles (Mn1Ox(OH)y@Ru/C) were prepared to promote charge transfer from overcharged Ru nanoparticles to Mn1Ox(OH)y clusters. Mn1Ox(OH)y@Ru/C exhibits high HOR activity and stability over a wide potential range of 0&#8211;1.0 V. Moreover, a hydroxide exchange membrane fuel cell with a Mn1Ox(OH)y@Ru/C anode delivers a high peak power density of 1.731 W cm&#8211;2, much superior to that of a Pt/C anode. In situ X-ray absorption fine structure (XAFS) analysis and density functional theory (DFT) calculations reveal that Mn in Mn1Ox(OH)y clusters could receive more electrons from overcharged Ru at higher potentials and significantly decrease the overadsorption of the O species on Ru, thus permitting the HOR on Ru to proceed at high potentials. This study provides guidance for the design of alkaline HOR catalysts without activity decay at high potentials.</description>
-      <author>H. C. Shi, Yang Yang, Pin Meng, Jiahe Yang, Wei Zheng, Pengcheng Wang, Yunlong Zhang, Xingyan Chen, Zhiyu Cheng, Cichang Zong, Dongdong Wang, Qianwang Chen</author>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03622</guid>
-    </item>
     <item>
       <title>Pt Single Atoms on TiO&lt;sub&gt;2&lt;/sub&gt; Can Catalyze Water Oxidation in Photoelectrochemical Experiments</title>
       <link>https://doi.org/10.1021/jacs.4c03319</link>
@@ -48,6 +38,56 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cey2.555</guid>
     </item>
     <item>
+      <title>Water structure and local potential distribution at Pt surface in alkaline cation mediated hydrogen evolution regulable by electric field</title>
+      <link>https://doi.org/10.21203/rs.3.rs-4507558/v1</link>
+      <description>Junguang Tao, Ding Pan, Dan Xing, Chang Pu, Lixiu Guan, Shuo Zhang, Zhuoao Li, Yunfei Zhang, Mengying Jia, Research Square (Research Square). None(None)] 2024. https://openalex.org/W4399442130
+
+                Abstract The impact of alkaline media on hydrogen evolution reaction (HER) rate and selectivity is crucial for advancement of water electrolysis technology. Herein, we revealed the mechanism through which alkali metal cations (AM+) influence HER performance of Pt electrodes. We quantified the interfacial potential drops, which are regulatable by E-field and found that the local surface concentration of AM+ is 5.0 ~ 8.6 times higher than in the bulk solution. Decreasing AM+ concentration through reverse E-field disrupts adsorbate-surface interactions and boosts HER activity without affecting hydrogen binding energetics and kinetics. Complexes of OH&#948;&#8722;-(H2O)x-AM+ are formed near the interface, impacting intermediate product detachment. The presence of AM+ also plays a role in restructuring interfacial water and improving proton transfer efficiency. For Li+, the reorientation of O-H bonds towards Pt surface facilitates the HER process. These findings shed light on potential avenues for enhancing the efficiency of HER processes.</description>
+      <author>Junguang Tao, Ding Pan, Dan Xing, Chang Pu, Lixiu Guan, Shuo Zhang, Zhuoao Li, Yunfei Zhang, Mengying Jia</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4507558/v1</guid>
+    </item>
+    <item>
+      <title>Adsorption and solar light activity of noble metal adatoms (Au and Zn) on Fe(111) surface: a first-principles study</title>
+      <link>https://doi.org/10.1039/d3cp04504h</link>
+      <description>Qaiser Rafiq, Muhammad Tahir Khan, Sardar Sikandar Hayat, Sikander Azam, Amin Ur Rahman, Hosam O. Elansary, Muhammad Shan, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4399442509
+
+                Noble metals such as gold (Au), zinc (Zn), and iron (Fe) are highly significant in both fundamental and technological contexts owing to their applications in optoelectronics, light-emitting devices, photovoltaics, nanotechnology, batteries, and thermal barrier coatings.</description>
+      <author>Qaiser Rafiq, Muhammad Tahir Khan, Sardar Sikandar Hayat, Sikander Azam, Amin Ur Rahman, Hosam O. Elansary, Muhammad Shan</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d3cp04504h</guid>
+    </item>
+    <item>
+      <title>Efficient tuning of the selectivity of Cu-based interface for electrocatalytic CO2 reduction by ligand modification</title>
+      <link>https://doi.org/10.1016/j.mtener.2024.101620</link>
+      <description>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang, Xiayan Wang, Materials today energy. None(None)] 2024. https://openalex.org/W4399446319
+
+                No abstract</description>
+      <author>Yonggao Yan, Tongxian Li, Manuel Oliva&#8208;Ram&#237;rez, Yuguo Zhao, Shuo Wang, Xin Chen, Dong Wang, Peter Schaaf, Xiayan Wang, Xiayan Wang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mtener.2024.101620</guid>
+    </item>
+    <item>
+      <title>Efficient Urea Synthesis via One-Step N&#8722;C&#8722;N Coupling: Strong Metal-Support Interaction-Driven Planar Cu Clusters on Two-Dimensional Mo2C MXene</title>
+      <link>https://doi.org/10.1039/d4ta02393e</link>
+      <description>Yue Zhang, Linguo Lu, Tiantian Zhao, Jingxiang Zhao, Qinghai Cai, Zhongfang Chen, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4399451390
+
+                The anchoring of the Cu cluster on Mo 2 C substrate can achieve a planar configuration, effectively boosting urea synthesis via a one-step mechanism.</description>
+      <author>Yue Zhang, Linguo Lu, Tiantian Zhao, Jingxiang Zhao, Qinghai Cai, Zhongfang Chen</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta02393e</guid>
+    </item>
+    <item>
+      <title>Electrocatalytic reduction of CO2 to C2H4 by monometallic Cu4 cluster supported on CeO2(110) surface</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.06.060</link>
+      <description>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li, International journal of hydrogen energy. 73(None)] 2024. https://openalex.org/W4399466754
+
+                No abstract</description>
+      <author>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.060</guid>
+    </item>
+    <item>
       <title>Computational screening of single-atom catalysts supported on Al12N12 nanocage for nitrogen reduction reaction</title>
       <link>https://doi.org/10.1016/j.mtcomm.2024.109509</link>
       <description>Xinlin Tang, H. Liao, Wenhong Zeng, Wei Guo, Xin Lian, Materials today communications. None(None)] 2024. https://openalex.org/W4399487964
@@ -56,6 +96,16 @@
       <author>Xinlin Tang, H. Liao, Wenhong Zeng, Wei Guo, Xin Lian</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.109509</guid>
+    </item>
+    <item>
+      <title>Compressively Strained and Interconnected Platinum Cones with Greatly Enhanced Activity and Durability toward Oxygen Reduction</title>
+      <link>https://doi.org/10.1002/adfm.202404677</link>
+      <description>Mingkai Liu, Siyu Zhou, Marc Figueras&#8208;Valls, Y. Ding, Zhiheng Lyu, Manos Mavrikakis, Younan Xia, Advanced functional materials. None(None)] 2024. https://openalex.org/W4399490867
+
+                Abstract The synthesis of cone&#8208;shaped Pt nanoparticles featuring compressively&#8208;strained {111} facets by depositing Pt atoms on the vertices of Pd icosahedral nanocrystals, followed by selective removal of the Pd template via wet etching, is reported. By controlling the lateral dimensions down to ca. 3 nm, together with a thickness of ca. 2 nm, the Pt cones show greatly enhanced specific and mass activities toward oxygen reduction, with values being 2.8 and 6.4 times those of commercial Pt/C, respectively. Both the strain field and the observed activity trend are rationalized using density functional theory calculations. With the formation of ultrathin linkers among the Pt cones derived from the same Pd icosahedral seed, the interconnected Pt cones acquire stronger interactions with the carbon support, preventing them from detachment and aggregation during the catalytic reaction. Even after 20 000 cycles of accelerated durability test, the Pt cones still show a mass activity 5.3 times higher than the initial value of the Pt/C.</description>
+      <author>Mingkai Liu, Siyu Zhou, Marc Figueras&#8208;Valls, Y. Ding, Zhiheng Lyu, Manos Mavrikakis, Younan Xia</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202404677</guid>
     </item>
     <item>
       <title>Metal-support spin orders: Crucial effect on electrocatalytic oxygen reduction</title>
@@ -256,6 +306,166 @@
       <author>Chunmei Liu, Jiamin Ma, Zimei Fu, Peipei Zhao, Bo Meng, Yinyi Gao, Man Zhao, Yingluo He, He Xiao, Jianfeng Jia</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.073</guid>
+    </item>
+    <item>
+      <title>Design of reaction-driven active configuration for enhanced CO2 electroreduction</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109873</link>
+      <description>Shanyong Chen, Tao Luo, Xiaoqing Li, Kejun Chen, Qiyou Wang, Junwei Fu, Kang Liu, Chao Ma, Ying&#8208;Rui Lu, Hongmei Li, Kishan S. Menghrajani, Changxu Liu, Stefan A. Maier, Ting&#8208;Shan Chan, Junwei Fu, Nano energy. None(None)] 2024. https://openalex.org/W4399555339
+
+                No abstract</description>
+      <author>Shanyong Chen, Tao Luo, Xiaoqing Li, Kejun Chen, Qiyou Wang, Junwei Fu, Kang Liu, Chao Ma, Ying&#8208;Rui Lu, Hongmei Li, Kishan S. Menghrajani, Changxu Liu, Stefan A. Maier, Ting&#8208;Shan Chan, Junwei Fu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109873</guid>
+    </item>
+    <item>
+      <title>The MTO and DTO processes as greener alternatives to produce olefins: A review of kinetic models and reactor design</title>
+      <link>https://doi.org/10.1016/j.cej.2024.152906</link>
+      <description>Tom&#225;s Cordero&#8208;Lanzac, Ana G. Gayubo, Andr&#233;s T. Aguayo, Javier Bilbao, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399556348
+
+                No abstract</description>
+      <author>Tom&#225;s Cordero&#8208;Lanzac, Ana G. Gayubo, Andr&#233;s T. Aguayo, Javier Bilbao</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.152906</guid>
+    </item>
+    <item>
+      <title>Conformal surface intensive doping of low-valence Bi on Cu2O for highly efficient electrochemical nitrate reduction to ammonia production</title>
+      <link>https://doi.org/10.1016/j.mattod.2024.05.007</link>
+      <description>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8211;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim, Materials today. None(None)] 2024. https://openalex.org/W4399556499
+
+                No abstract</description>
+      <author>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8211;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2024.05.007</guid>
+    </item>
+    <item>
+      <title>Screening WS2&#8722;based single&#8722;atom catalysts for electrocatalytic nitrate reduction to ammonia</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.06.038</link>
+      <description>Mamutjan Tursun, Abdukader Abdukayum, Chao Wu, Caihong Wang, International journal of hydrogen energy. 73(None)] 2024. https://openalex.org/W4399558931
+
+                No abstract</description>
+      <author>Mamutjan Tursun, Abdukader Abdukayum, Chao Wu, Caihong Wang</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.038</guid>
+    </item>
+    <item>
+      <title>Patterned graphene: An effective platform for adsorption, immobilization, and destruction of SARS-CoV-2 Mpro</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.06.072</link>
+      <description>Jiawen Wang, Huilong Dong, Yujin Ji, Youyong Li, Shuit&#8208;Tong Lee, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399563048
+
+                No abstract</description>
+      <author>Jiawen Wang, Huilong Dong, Yujin Ji, Youyong Li, Shuit&#8208;Tong Lee</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.072</guid>
+    </item>
+    <item>
+      <title>Ultrahigh resolution x-ray Thomson scattering measurements at the European X-ray Free Electron Laser</title>
+      <link>https://doi.org/10.1103/physrevb.109.l241112</link>
+      <description>Thomas Gawne, Zhandos A. Moldabekov, Oliver Humphries, Karen Appel, Carsten Baehtz, V. Bouffetier, E. Brambrink, Attila Cangi, S. G&#246;de, Zuzana Kon&#244;pkov&#225;, Mikako Makita, Mikhail Mishchenko, M. Nakatsutsumi, Kushal Ramakrishna, Lisa Randolph, Sebastian Schwalbe, Jan Vorberger, Lennart Wollenweber, U. Zastrau, Tobias Dornheim, Thomas R. Preston, Physical review. B./Physical review. B. 109(24)] 2024. https://openalex.org/W4399566144
+
+                Using an ultrahigh resolution (&#916;E&#8764;0.1eV) setup to measure electronic features in x-ray Thomson scattering (XRTS) experiments at the European XFEL in Germany, we have studied the collective plasmon excitation in aluminium at ambient conditions, which we can measure very accurately even at low momentum transfers. As a result, we can resolve previously reported discrepancies between time-dependent density functional theory simulations and experimental observations. The demonstrated capability for high-resolution XRTS measurements will be a game changer for the diagnosis of experiments with matter under extreme densities, temperatures, and pressures, and unlock the full potential of state-of-the-art x-ray free electron laser (XFEL) facilities to study planetary interior conditions, to understand inertial confinement fusion applications, and for material science and discovery. Published by the American Physical Society 2024</description>
+      <author>Thomas Gawne, Zhandos A. Moldabekov, Oliver Humphries, Karen Appel, Carsten Baehtz, V. Bouffetier, E. Brambrink, Attila Cangi, S. G&#246;de, Zuzana Kon&#244;pkov&#225;, Mikako Makita, Mikhail Mishchenko, M. Nakatsutsumi, Kushal Ramakrishna, Lisa Randolph, Sebastian Schwalbe, Jan Vorberger, Lennart Wollenweber, U. Zastrau, Tobias Dornheim, Thomas R. Preston</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevb.109.l241112</guid>
+    </item>
+    <item>
+      <title>Tuneable bimetallic PdxCu100-x catalysts for selective butadiene hydrogenation</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.114877</link>
+      <description>Oscar E. Brandt Corstius, Hidde L. Nolten, George F. Tierney, Zhuoran Xu, Eric J. Doskocil, Jessi E. S. van der Hoeven, Petra E. de Jongh, Catalysis today. 441(None)] 2024. https://openalex.org/W4399566446
+
+                No abstract</description>
+      <author>Oscar E. Brandt Corstius, Hidde L. Nolten, George F. Tierney, Zhuoran Xu, Eric J. Doskocil, Jessi E. S. van der Hoeven, Petra E. de Jongh</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114877</guid>
+    </item>
+    <item>
+      <title>Modification of Metals and Ligands in Two-Dimensional Conjugated Metal-Organic Frameworks for Co2 Electroreduction: A Combined Dft and Machine Learning Study</title>
+      <link>https://doi.org/10.2139/ssrn.4863114</link>
+      <description>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu, No host. None(None)] 2024. https://openalex.org/W4399570693
+
+                No abstract</description>
+      <author>Guanru Xing, Shize Liu, Guang&#8208;Yan Sun, Jing-yao Liu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4863114</guid>
+    </item>
+    <item>
+      <title>Codebase release r1.0 for amcheck</title>
+      <link>https://doi.org/10.21468/scipostphyscodeb.30-r1.0</link>
+      <description>Andriy Smolyanyuk, Libor &#352;mejkal, I. I. Mazin, SciPost physics codebases. None(None)] 2024. https://openalex.org/W4399573734
+
+                Altermagnets (AM) is a recently discovered class of collinear magnets that share some properties (anomalous transport, etc) with ferromagnets, some (zero net magnetization) with antiferromagnets, while also exhibiting unique properties (spin-splitting of electronic bands and resulting spin-splitter current). Since the moment compensation in AM is driven by symmetry, it must be possible to identify them by analyzing the crystal structure directly, without computing the electronic structure. Given the significant potential of AM for spintronics, it is very useful to have a tool for such an analysis. This work presents an open-access code implementing such a direct check.</description>
+      <author>Andriy Smolyanyuk, Libor &#352;mejkal, I. I. Mazin</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21468/scipostphyscodeb.30-r1.0</guid>
+    </item>
+    <item>
+      <title>NH&lt;sub&gt;3&lt;/sub&gt; Synthesis via Electrocatalytic N&lt;sub&gt;2&lt;/sub&gt; Reduction Reaction on the Defective Surfaces of Nb&lt;sub&gt;2&lt;/sub&gt;Mo&lt;sub&gt;2&lt;/sub&gt;C&lt;sub&gt;3&lt;/sub&gt;T&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; MXenes: Theoretical and Experimental Studies</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.4c00802</link>
+      <description>Feng Ren, Hanqing Yin, Lei Tian, Hui Zhang, Fengwei Tian, Jingquan Liu, Aijun Du, Wenrong Yang, Zhen Liu, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4399574786
+
+                No abstract</description>
+      <author>Feng Ren, Hanqing Yin, Lei Tian, Hui Zhang, Fengwei Tian, Jingquan Liu, Aijun Du, Wenrong Yang, Zhen Liu</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c00802</guid>
+    </item>
+    <item>
+      <title>Thermal conductivity of &lt;mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;&lt;mml:mrow&gt;&lt;mml:msub&gt;&lt;mml:mi&gt;Li&lt;/mml:mi&gt;&lt;mml:mn&gt;3&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;mml:msub&gt;&lt;mml:mi&gt;PS&lt;/mml:mi&gt;&lt;mml:mn&gt;4&lt;/mml:mn&gt;&lt;/mml:msub&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt; solid electrolytes with &lt;i&gt;ab initio&lt;/i&gt; accuracy</title>
+      <link>https://doi.org/10.1103/physrevmaterials.8.065403</link>
+      <description>Davide Tisi, Federico Grasselli, Lorenzo Gigli, Michele Ceriotti, Physical review materials. 8(6)] 2024. https://openalex.org/W4399580171
+
+                No abstract</description>
+      <author>Davide Tisi, Federico Grasselli, Lorenzo Gigli, Michele Ceriotti</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1103/physrevmaterials.8.065403</guid>
+    </item>
+    <item>
+      <title>Insightful Understanding of Synergistic Oxygen Reduction on PtCo&lt;sub&gt;3&lt;/sub&gt;(111) Toward Zinc&#8208;Air Batteries</title>
+      <link>https://doi.org/10.1002/smll.202403894</link>
+      <description>Xiangxiong Chen, Jiangnan Guo, Dong Qian, Jie Wu, Weixiong Liao, Geoffrey I.N. Waterhouse, Jinlong Liu, Small. None(None)] 2024. https://openalex.org/W4399581991
+
+                Abstract Theory&#8208;guided materials design is an effective strategy for designing catalysts with high intrinsic activity whilst minimizing the usage of expensive metals like platinum. As proof&#8208;of&#8208;concept, herein it demonstrates that using density functional theory (DFT) calculations and experimental validation that intermetallic PtCo 3 alloy nanoparticles offer enhanced electrocatatalytic performance for the oxygen reduction reaction (ORR) compared to Pt nanoparticles. DFT calculations established that PtCo 3 (111) surfaces possess better intrinsic ORR activity compared to Pt(111) surfaces, owing to the synergistic action of adjacent Pt and Co active sites which optimizes the binding strength of ORR intermediates to boost overall ORR kinetics. With this understanding, a PtCo 3 /NC catalyst, comprising PtCo 3 nanoparticles exposing predominantly (111) facets dispersed on an N&#8208;doped carbon support, is successfully fabricated. PtCo 3 /NC demonstrates a high specific activity (3.4 mA cm &#8722;2 mg Pt &#8722;1 ), mass activity (0.67 A mg Pt &#8722;1 ), and cycling stability for the ORR in 0.1 M KOH, significantly outperforming a commercial 20 wt.% Pt/C catalyst. Moreover, a zinc&#8208;air battery (ZAB) assembled with PtCo 3 /NC as the air&#8208;electrode catalyst delivered an open&#8208;circuit voltage of 1.47 V, a specific capacity of 775.1 mAh g Zn &#8722;1 and excellent operation durability after 200 discharge/charge cycles, vastly superior performance to a ZAB built using commercial Pt/C+IrO 2 as the air&#8208;electrode catalyst.</description>
+      <author>Xiangxiong Chen, Jiangnan Guo, Dong Qian, Jie Wu, Weixiong Liao, Geoffrey I.N. Waterhouse, Jinlong Liu</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/smll.202403894</guid>
+    </item>
+    <item>
+      <title>A tool to check whether a symmetry-compensated collinear magnetic material is antiferro- or altermagnetic</title>
+      <link>https://doi.org/10.21468/scipostphyscodeb.30</link>
+      <description>Andriy Smolyanyuk, Libor &#352;mejkal, I. I. Mazin, SciPost physics codebases. None(None)] 2024. https://openalex.org/W4399582224
+
+                Altermagnets (AM) is a recently discovered class of collinear magnets that share some properties (anomalous transport, etc) with ferromagnets, some (zero net magnetization) with antiferromagnets, while also exhibiting unique properties (spin-splitting of electronic bands and resulting spin-splitter current). Since the moment compensation in AM is driven by symmetry, it must be possible to identify them by analyzing the crystal structure directly, without computing the electronic structure. Given the significant potential of AM for spintronics, it is very useful to have a tool for such an analysis. This work presents an open-access code implementing such a direct check.</description>
+      <author>Andriy Smolyanyuk, Libor &#352;mejkal, I. I. Mazin</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.21468/scipostphyscodeb.30</guid>
+    </item>
+    <item>
+      <title>Temperature and structure measurements of heavy-ion-heated diamond using &lt;i&gt;in situ&lt;/i&gt; X-ray diagnostics</title>
+      <link>https://doi.org/10.1063/5.0203005</link>
+      <description>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#248;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus, Matter and radiation at extremes. 9(4)] 2024. https://openalex.org/W4399583691
+
+                We present in situ measurements of spectrally resolved X-ray scattering and X-ray diffraction from monocrystalline diamond samples heated with an intense pulse of heavy ions. In this way, we determine the samples&#8217; heating dynamics and their microscopic and macroscopic structural integrity over a timespan of several microseconds. Connecting the ratio of elastic to inelastic scattering with state-of-the-art density functional theory molecular dynamics simulations allows the inference of average temperatures around 1300 K, in agreement with predictions from stopping power calculations. The simultaneous diffraction measurements show no hints of any volumetric graphitization of the material, but do indicate the onset of fracture in the diamond sample. Our experiments pave the way for future studies at the Facility for Antiproton and Ion Research, where a substantially increased intensity of the heavy ion beam will be available.</description>
+      <author>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#248;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0203005</guid>
+    </item>
+    <item>
+      <title>Approaches to Construct High-Performance Mg&#8211;Air Batteries</title>
+      <link>https://doi.org/10.1007/978-3-031-57012-4_20</link>
+      <description>Hao Liang, Wenhui Yao, Wenbo Du, Hao Liang, No host. None(None)] 2024. https://openalex.org/W4399586187
+
+                No abstract</description>
+      <author>Hao Liang, Wenhui Yao, Wenbo Du, Hao Liang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/978-3-031-57012-4_20</guid>
+    </item>
+    <item>
+      <title>Influence of anionic species on the low temperature pyrolysis performance of heated tobacco sheets catalyzed by sodium salts</title>
+      <link>https://doi.org/10.3389/fchem.2024.1425244</link>
+      <description>Xuebin Zhao, Qiuling Wang, Dan Ai, Haiying Tian, Zhan Zhang, Ke Cao, Yixuan Wang, Wei Qi, Bo Li, Yapeng Niu, Lingchuang Meng, Beibei Gao, Bin Li, Frontiers in chemistry. 12(None)] 2024. https://openalex.org/W4399594316
+
+                Development of low temperature catalytic pyrolysis technology for heated tobacco sheets is expected to increase the aroma of heated tobacco products and improve their overall smoking quality. In this study, the low temperature pyrolysis performances of heated tobacco sheets catalyzed by various anionic sodium salts were investigated using TG-DTG, Py-GC-MS technology and smoke routine chemical composition analysis. The results showed that the total weight loss between 100&#176;C and 300&#176;C increased by 7.8%&#8211;13.15% after adding various anionic sodium salts, among which, sodium acetate and sodium tartrate showed a relatively higher weight loss. The relative content of free hydroxyacetone, furfuryl alcohol, butyrolactone and megastigmatrienone in the pyrolysis gas increased, while the relative content of free nicotine decreased. With the change of anionic species, the catalytic decomposition ability of cellulose, lignin, and other substances may change, resulting in the distribution alteration of compounds in the pyrolysis gas. After adding sodium acetate and sodium citrate, the release of total particulate matter (TPM), glycerol, and nicotine in flue gas increased. Overall, the addition of sodium acetate and sodium citrate showed a higher low temperature pyrolysis performance of heated tobacco sheets. The research results in this paper provide data support for changing the low temperature catalytic pyrolysis performance of heated tobacco sheets by adjusting the type of anions in sodium salts.</description>
+      <author>Xuebin Zhao, Qiuling Wang, Dan Ai, Haiying Tian, Zhan Zhang, Ke Cao, Yixuan Wang, Wei Qi, Bo Li, Yapeng Niu, Lingchuang Meng, Beibei Gao, Bin Li</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1425244</guid>
     </item>
   </channel>
 </rss>
