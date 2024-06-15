@@ -4,28 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Jun 2024 01:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 01:08:20 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Pt Single Atoms on TiO&lt;sub&gt;2&lt;/sub&gt; Can Catalyze Water Oxidation in Photoelectrochemical Experiments</title>
-      <link>https://doi.org/10.1021/jacs.4c03319</link>
-      <description>Shi Wu, Wu Lu, Nikita Denisov, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Xiaoyu Yang, Patrik Schmuki, Journal of the American Chemical Society. None(None)] 2024. https://openalex.org/W4399380646
+      <title>Charge engineering in black phosphorene with tunable electronic structures as efficient oxygen evolution electrocatalyst</title>
+      <link>https://doi.org/10.1016/j.physe.2024.116013</link>
+      <description>Huating Liu, Zongyu Huang, Hui Qiao, Xiang Qi, Physica. E, Low-dimensional systems and nanostructures. None(None)] 2024. https://openalex.org/W4399424024
 
-                Photoelectrochemical water splitting on n-type semiconductors is highly dependent on catalysis of the rate-determining reaction of O2 evolution. Conventionally, in electrochemistry and photoelectrochemistry O2 evolution is catalyzed by metal oxide catalysts like IrO2 and RuO2, whereas noble metals such as Pt are considered unsuitable for this purpose. However, our study finds that Pt, in its single-atom form, exhibits exceptional cocatalytic properties for photoelectrochemical water oxidation on a TiO2 photoanode, in contrast to Pt in a nanoparticle form. The decoration of Pt single atoms onto TiO2 yields a remarkable current density of 5.89 mA cm&#8211;2 at 1.23 VRHE, surpassing bare TiO2 (or Pt nanoparticle decorated TiO2) by 2.52 times. Notably, this enhancement remains consistent over a wide pH range. By accompanying theoretical work, we assign this significant enhancement to an improved charge transfer and separation efficiency along with accelerated kinetics in the oxygen evolution reaction facilitated by the presence of Pt single atoms on the TiO2 surface.</description>
-      <author>Shi Wu, Wu Lu, Nikita Denisov, Zde&#328;&#283;k Ba&#271;ura, Giorgio Zoppellaro, Xiaoyu Yang, Patrik Schmuki</author>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/jacs.4c03319</guid>
-    </item>
-    <item>
-      <title>Reconstruction of High Entropy Alloys on a Metal&#8211;Organic Framework Approaching Active Oxygen Reduction Electrocatalysts</title>
-      <link>https://doi.org/10.1021/acs.nanolett.4c01278</link>
-      <description>Jing Liang, Yanling Ma, Yanjie Li, Wencong Zhang, Hao Hu, Jie Su, Zhenpeng Yao, Wenpei Gao, Wen Shang, Tao Deng, Jianbo Wu, Nano letters. None(None)] 2024. https://openalex.org/W4399380880
-
-                High-entropy alloys (HEAs) have garnered considerable attention as promising nanocatalysts for effectively utilizing Pt in catalysis toward oxygen reduction reactions due to their unique properties. Nonetheless, there is a relative dearth of attention regarding the structural evolution of HEAs in response to electrochemical conditions. In this work, we propose a thermal reduction method to synthesize high entropy nanoparticles by leveraging the confinement effect and abundant nitrogen-anchored sites provided by pyrolyzed metal&#8211;organic frameworks (MOFs). Notably, the prepared catalysts exhibit enhanced activity accompanied by structural reconstruction during electrochemical activation, approaching 1 order of magnitude higher mass activity compared to Pt/C in oxygen reduction. Atomic-scale structural characterization reveals that abundant defects and single atoms are formed during the activation process, contributing to a significant boost in the catalytic performance for oxygen reduction reactions. This study provides deep insights into surface reconstruction engineering during electrochemical operations, with practical implications for fuel cell applications.</description>
-      <author>Jing Liang, Yanling Ma, Yanjie Li, Wencong Zhang, Hao Hu, Jie Su, Zhenpeng Yao, Wenpei Gao, Wen Shang, Tao Deng, Jianbo Wu</author>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.nanolett.4c01278</guid>
+                No abstract</description>
+      <author>Huating Liu, Zongyu Huang, Hui Qiao, Xiang Qi</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.physe.2024.116013</guid>
     </item>
     <item>
       <title>Design of pH&#8208;universal electrocatalysts for hydrogen evolution reaction</title>
@@ -86,6 +76,16 @@
       <author>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li</author>
       <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.060</guid>
+    </item>
+    <item>
+      <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
+      <link>https://doi.org/10.1021/acscatal.4c01407</link>
+      <description>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4399487629
+
+                No abstract</description>
+      <author>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao</author>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01407</guid>
     </item>
     <item>
       <title>Computational screening of single-atom catalysts supported on Al12N12 nanocage for nitrogen reduction reaction</title>
@@ -190,10 +190,10 @@
     <item>
       <title>Techno-economic analysis of AMP/PZ solvent for CO2 capture in a biomass CHP plant: towards net negative emissions</title>
       <link>https://doi.org/10.3389/fenrg.2024.1325212</link>
-      <description>Muhammad Salman, Brieuc Beguin, Thomas Nyssen, Gr&#233;goire L&#233;onard, Frontiers in energy research. 12(None)] 2024. https://openalex.org/W4399524686
+      <description>Muhammad Salman, Brieuc Beguin, Thomas Nyssen, Gr&#233;goire Leonard, Frontiers in energy research. 12(None)] 2024. https://openalex.org/W4399524686
 
                 Compared to conventional monoethanolamine (MEA), alternative solvents are expected to substantially contribute to reduce the energy demand of post-combustion CO 2 capture from flue gases. This study presents a comprehensive techno-economic analysis of a 27 wt% 2-amino-2-methyl-1-propanol (AMP) + 13 wt% piperazine (PZ) aqueous solution for CO 2 capture, compared to a 30 wt% MEA solution. The study addresses the retrofit of a carbon capture unit to a biomass-fired combined heat and power (CHP) plant, effectively making it a bioenergy with a carbon capture and storage (BECCS) system. The treated flue gas has a flow rate of 23 tons/hour (t/h) with 11.54 vol% CO 2 and a 90% capture rate is aimed for. Aspen Plus V14 was employed for process simulations. Initially, binary interaction parameters for AMP/PZ, AMP/H 2 O, and PZ/H 2 O are regressed using vapor-liquid equilibrium (VLE) data, which were retrieved from literature along with reaction kinetics. Validation of parameters from available experimental literature yields an average absolute relative deviation (AARD) of only 5.9%. Afterwards, a process simulation model is developed and validated against experimental data from a reference pilot plant, using a similar AMP/PZ blend, resulting in 5% AARD. Next, a sensitivity analysis optimizes operating conditions, including solvent rate, absorber/stripper packing heights, and stripper pressure, based on regeneration energy impact. Optimized results, compared to MEA, reveal that AMP/PZ reduces the energy consumption from 3.61 to 2.86 GJ/tCO 2 . The retrofitting of the capture unit onto the selected CHP plant is examined through the development of a dedicated model. Two control strategies are compared to address energy unavailability for supplying the capture unit. The analysis spans 4 months, selected to account for seasonal variations. At nominal capacity, CO 2 emissions, rendered negative by biomass combustion and CO 2 capture, reach a maximum of &#8722;3.4 tCO 2 /h compared to 0.36 tCO 2 /h before retrofitting. Depending on the control strategy and CHP plant operating point, the Specific Primary Energy Consumption for CO 2 Avoided (SPECCA) ranges from 4.91 MJ/kgCO 2 to 1.76 MJ/kgCO 2 . Finally, an economic comparison based on systematic methodology reveals a 7.87% reduction in capture cost favoring the AMP/PZ blend. Together, these findings highlight AMP/PZ as a highly favorable alternative solvent.</description>
-      <author>Muhammad Salman, Brieuc Beguin, Thomas Nyssen, Gr&#233;goire L&#233;onard</author>
+      <author>Muhammad Salman, Brieuc Beguin, Thomas Nyssen, Gr&#233;goire Leonard</author>
       <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fenrg.2024.1325212</guid>
     </item>
@@ -260,10 +260,10 @@
     <item>
       <title>Zinc-indium-sulfide favors efficient C &#8722; H bond activation by concerted proton-coupled electron transfer</title>
       <link>https://doi.org/10.1038/s41467-024-49265-2</link>
-      <description>Xuejiao Wu, Xue-Ting Fan, Shunji Xie, Ivan Scodeller, Xiaojian Wen, Dario Vangestel, Jun Cheng, Bert F. Sels, Nature communications. 15(1)] 2024. https://openalex.org/W4399542916
+      <description>Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Nature communications. 15(1)] 2024. https://openalex.org/W4399542916
 
                 Abstract C &#8722; H bond activation is a ubiquitous reaction that remains a major challenge in chemistry. Although semiconductor-based photocatalysis is promising, the C &#8722; H bond activation mechanism remains elusive. Herein, we report value-added coupling products from a wide variety of biomass and fossil-derived reagents, formed via C &#8722; H bond activation over zinc-indium-sulfides (Zn-In-S). Contrary to the commonly accepted stepwise electron-proton transfer pathway (PE-ET) for semiconductors, our experimental and theoretical studies evidence a concerted proton-coupled electron transfer (CPET) pathway. A pioneering microkinetic study, considering the relevant elementary steps of the surface chemistry, reveals a faster C &#8722; H activation with Zn-In-S because of circumventing formation of a charged radical, as it happens in PE-ET where it retards the catalysis due to strong site adsorption. For CPET over Zn-In-S, H abstraction, forming a neutral radical, is rate-limiting, but having lower energy barriers than that of PE-ET. The rate expressions derived from the microkinetics provide guidelines to rationally design semiconductor catalysis, e.g., for C &#8722; H activation, that is based on the CPET mechanism.</description>
-      <author>Xuejiao Wu, Xue-Ting Fan, Shunji Xie, Ivan Scodeller, Xiaojian Wen, Dario Vangestel, Jun Cheng, Bert F. Sels</author>
+      <author>Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu, Xuejiao Wu</author>
       <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-49265-2</guid>
     </item>
@@ -330,10 +330,10 @@
     <item>
       <title>Conformal surface intensive doping of low-valence Bi on Cu2O for highly efficient electrochemical nitrate reduction to ammonia production</title>
       <link>https://doi.org/10.1016/j.mattod.2024.05.007</link>
-      <description>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8211;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim, Materials today. None(None)] 2024. https://openalex.org/W4399556499
+      <description>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8208;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim, Materials today. None(None)] 2024. https://openalex.org/W4399556499
 
                 No abstract</description>
-      <author>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8211;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim</author>
+      <author>Thi Kim Cuong Phu, Won Tae Hong, Hyungu Han, Young In Song, Jong Hun Kim, Seung Hun Roh, Min&#8208;Cheol Kim, Jai Hyun Koh, Byung&#8208;Keun Oh, Jun Young Kim, Chan&#8208;Hwa Chung, Dong Hoon Lee, Jung Kyu Kim</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.mattod.2024.05.007</guid>
     </item>
@@ -440,10 +440,10 @@
     <item>
       <title>Temperature and structure measurements of heavy-ion-heated diamond using &lt;i&gt;in situ&lt;/i&gt; X-ray diagnostics</title>
       <link>https://doi.org/10.1063/5.0203005</link>
-      <description>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#248;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus, Matter and radiation at extremes. 9(4)] 2024. https://openalex.org/W4399583691
+      <description>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#246;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus, Matter and radiation at extremes. 9(4)] 2024. https://openalex.org/W4399583691
 
                 We present in situ measurements of spectrally resolved X-ray scattering and X-ray diffraction from monocrystalline diamond samples heated with an intense pulse of heavy ions. In this way, we determine the samples&#8217; heating dynamics and their microscopic and macroscopic structural integrity over a timespan of several microseconds. Connecting the ratio of elastic to inelastic scattering with state-of-the-art density functional theory molecular dynamics simulations allows the inference of average temperatures around 1300 K, in agreement with predictions from stopping power calculations. The simultaneous diffraction measurements show no hints of any volumetric graphitization of the material, but do indicate the onset of fracture in the diamond sample. Our experiments pave the way for future studies at the Facility for Antiproton and Ion Research, where a substantially increased intensity of the heavy ion beam will be available.</description>
-      <author>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#248;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus</author>
+      <author>J. L&#252;tgert, P. Hesselbach, Maximilian Sch&#246;rner, V. Bagnoud, R.P. Belikov, P. Drechsel, Benedikt Heuser, Oliver Humphries, Peter Katr&#237;k, Bj&#246;rn Lindqvist, Chongbing Qu, R. Redmer, D. Riley, G. Schaumann, S. Schumacher, A. Tauschwitz, D. Varentsov, K. Weyrich, Xiaomei Yu, B. Zielbauer, Zs. Major, P. Neumayer, D. Kraus</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1063/5.0203005</guid>
     </item>
@@ -466,6 +466,136 @@
       <author>Xuebin Zhao, Qiuling Wang, Dan Ai, Haiying Tian, Zhan Zhang, Ke Cao, Yixuan Wang, Wei Qi, Bo Li, Yapeng Niu, Lingchuang Meng, Beibei Gao, Bin Li</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3389/fchem.2024.1425244</guid>
+    </item>
+    <item>
+      <title>Solar-Driven Arsenic(V) Transformation, Speciation, and Adsorption on the Chalcopyrite Surface</title>
+      <link>https://doi.org/10.1021/acsestwater.4c00059</link>
+      <description>Qingjie Ge, Renji Zheng, Yangyang Liu, Yangzi Shangguan, Xuezhen Feng, Dazhong Yang, Wenfei Wei, Ranhao Wang, Yongfei Ji, Lele Duan, Jia Lin, Liwu Zhang, Hong Chen, ACS ES &amp; T water. None(None)] 2024. https://openalex.org/W4399601046
+
+                No abstract</description>
+      <author>Qingjie Ge, Renji Zheng, Yangyang Liu, Yangzi Shangguan, Xuezhen Feng, Dazhong Yang, Wenfei Wei, Ranhao Wang, Yongfei Ji, Lele Duan, Jia Lin, Liwu Zhang, Hong Chen</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsestwater.4c00059</guid>
+    </item>
+    <item>
+      <title>Cobalt Nanoparticle-Decorated RuSe&lt;sub&gt;2&lt;/sub&gt; Nanorods: A Chemical Vapor Deposition Approach for Efficient Electrolytic Hydrogen Evolution</title>
+      <link>https://doi.org/10.1021/acs.cgd.4c00451</link>
+      <description>Daba Deme Megersa, Gutema Teshome Gudena, Young&#8208;Ho Kim, Hak Ki Yu, Crystal growth &amp; design. None(None)] 2024. https://openalex.org/W4399612559
+
+                No abstract</description>
+      <author>Daba Deme Megersa, Gutema Teshome Gudena, Young&#8208;Ho Kim, Hak Ki Yu</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.cgd.4c00451</guid>
+    </item>
+    <item>
+      <title>Ultrathin Ni&#8211;Fe MOF Nanosheets: Efficient and Durable Water Oxidation at High Current Densities</title>
+      <link>https://doi.org/10.1021/acs.langmuir.4c01065</link>
+      <description>Xin Zhao, Yang Yang, Yuanshuai Liu, Jiale Shi, Qiaoxia Li, Qing Xu, Wen&#8208;Feng Lin, Langmuir. None(None)] 2024. https://openalex.org/W4399617140
+
+                No abstract</description>
+      <author>Xin Zhao, Yang Yang, Yuanshuai Liu, Jiale Shi, Qiaoxia Li, Qing Xu, Wen&#8208;Feng Lin</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.langmuir.4c01065</guid>
+    </item>
+    <item>
+      <title>Evaluation of carbon fixation during carbonization of municipal solid waste</title>
+      <link>https://doi.org/10.1007/s10163-024-01988-6</link>
+      <description>Takeshi Shinohara, Sylwia Oleszek, Masaya Shimizu, Naoto Yokoro, Kenji Shiota, Kazuyuki Oshita, Toshio Kusakabe, Masaki Takaoka, Journal of material cycles and waste management. None(None)] 2024. https://openalex.org/W4399628370
+
+                No abstract</description>
+      <author>Takeshi Shinohara, Sylwia Oleszek, Masaya Shimizu, Naoto Yokoro, Kenji Shiota, Kazuyuki Oshita, Toshio Kusakabe, Masaki Takaoka</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10163-024-01988-6</guid>
+    </item>
+    <item>
+      <title>COVID-19 Fake News: A Systematic Literature Review using &#8220;SmartLitReview&#8221;</title>
+      <link>https://doi.org/10.1145/3630744.3663606</link>
+      <description>Siam Sadman, No host. None(None)] 2024. https://openalex.org/W4399629361
+
+                No abstract</description>
+      <author>Siam Sadman</author>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1145/3630744.3663606</guid>
+    </item>
+    <item>
+      <title>Data-Driven Materials Informatics for Novel Piezoelectric Janus-Type Nanomaterials Discovery</title>
+      <link>https://doi.org/10.1021/acs.jpclett.4c01444</link>
+      <description>Woohyun Hwang, Seung&#8208;Hyun Victor Oh, Jungho Shin, Aloysius Soon, Su&#8208;Hyun Yoo, Woosun Jang, &#152;The &#156;journal of physical chemistry letters. None(None)] 2024. https://openalex.org/W4399635165
+
+                In the recent era of green and sustainable energy, the demand for effective and efficient energy harvesting has dramatically increased. Piezoelectric energy harvesting, which converts mechanical energy into electrical energy, is considered a viable strategy to achieve this goal. Janus-type nanomaterial, a noncentrosymmetric material with different elemental species in the upper and lower atomic layers, has gained interest due to its exotic properties compared to conventional bulk and symmetric materials. In this work, we systematically design and investigate a new class of Janus nanomaterials with enhanced intrinsic polarization via the successive ionic exchange method. Multiple layers of stability standards, including both thermodynamic and dynamic stabilities, are employed in the high-throughput screening procedure of novel Janus-type nanomaterials. The newly proposed Janus-type nanomaterials exhibit more than 10 times higher piezoelectric response compared to that of reported low-dimensional materials and even comparable to that of bulk materials.</description>
+      <author>Woohyun Hwang, Seung&#8208;Hyun Victor Oh, Jungho Shin, Aloysius Soon, Su&#8208;Hyun Yoo, Woosun Jang</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpclett.4c01444</guid>
+    </item>
+    <item>
+      <title>Characterization of changes in the electronic structure of platinum sub-nanoclusters supported on graphene induced by oxygen adsorption</title>
+      <link>https://doi.org/10.1039/d4cp00555d</link>
+      <description>Hinoki Hirase, Kazuhiro Iida, Jun&#8208;ya Hasegawa, Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024. https://openalex.org/W4399638118
+
+                The characteristics of changes in the electronic structure of a platinum sub-nanocluster caused by oxygen adsorption is elucidated by analyzing the integrated local density of states.</description>
+      <author>Hinoki Hirase, Kazuhiro Iida, Jun&#8208;ya Hasegawa</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4cp00555d</guid>
+    </item>
+    <item>
+      <title>Scaling Relations on High-Entropy Alloy Catalyst Surfaces</title>
+      <link>https://doi.org/10.1021/acs.jpcc.4c01292</link>
+      <description>Ana-Iulia Hutu, Emmanouil Pervolarakis, Ioannis N. Remediakis, Henrik H. Kristoffersen, Jan Rossmeisl, Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024. https://openalex.org/W4399646832
+
+                No abstract</description>
+      <author>Ana-Iulia Hutu, Emmanouil Pervolarakis, Ioannis N. Remediakis, Henrik H. Kristoffersen, Jan Rossmeisl</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.jpcc.4c01292</guid>
+    </item>
+    <item>
+      <title>Mof-Derived Molybdenum Carbide-Copper as an Electrocatalyst for the Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.2139/ssrn.4863676</link>
+      <description>W.Y. Chen, Yu&#8208;Min Shen, Sheng&#8208;Chang Wang, Sanjaya Brahma, D.R. Sahu, Jow&#8208;Lay Huang, No host. None(None)] 2024. https://openalex.org/W4399651778
+
+                No abstract</description>
+      <author>W.Y. Chen, Yu&#8208;Min Shen, Sheng&#8208;Chang Wang, Sanjaya Brahma, D.R. Sahu, Jow&#8208;Lay Huang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4863676</guid>
+    </item>
+    <item>
+      <title>Iron carbide anchored on N-doped hierarchically porous carbon core/shell architecture for highly efficient OER water splitting</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.05.463</link>
+      <description>Nagaraj Murugan, Sadhasivam Thangarasu, Shanmugasundaram Kamalakannan, Nimisha Baby, Tae Hwan Oh, Hyung Chul Ham, Yang Zhang, Yoong Ahm Kim, International journal of hydrogen energy. None(None)] 2024. https://openalex.org/W4399653736
+
+                No abstract</description>
+      <author>Nagaraj Murugan, Sadhasivam Thangarasu, Shanmugasundaram Kamalakannan, Nimisha Baby, Tae Hwan Oh, Hyung Chul Ham, Yang Zhang, Yoong Ahm Kim</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.05.463</guid>
+    </item>
+    <item>
+      <title>Lateral spin filter realized by monolayer Fe3GaTe2 and Fe3GaTe2/Graphene van der Waals heterostructures</title>
+      <link>https://doi.org/10.1016/j.ssc.2024.115584</link>
+      <description>N. J. Zheng, Jingzhe Chen, Solid state communications. None(None)] 2024. https://openalex.org/W4399653743
+
+                No abstract</description>
+      <author>N. J. Zheng, Jingzhe Chen</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ssc.2024.115584</guid>
+    </item>
+    <item>
+      <title>Computational Design of 2D Phosphorus Nanostructures for Renewable Energy Applications: A Review</title>
+      <link>https://doi.org/10.1002/aelm.202300869</link>
+      <description>Chen&#8208;Chen Er, Cheng&#8208;May Fung, Wei&#8208;Kean Chong, Yong Jieh Lee, Lling&#8208;Lling Tan, Yee Sin Ang, Nikhil V. Medhekar, Siang&#8208;Piao Chai, Advanced electronic materials. None(None)] 2024. https://openalex.org/W4399615055
+
+                Abstract Elemental phosphorus in its various allotropes has received tremendous research attention recently due to its intriguing electronic and structural properties. Notably, the application of nanostructured materials to overcome the inherent flaws in bulk materials is promising. However, many challenges need to be addressed before its widespread implementation. Thus, a specific tenet to design novel and robust nanomaterials is a decisive factor in the desired outcome, and the most daunting task before realizing this is solving the Schr&#246;dinger equation. First principle density functional theory (DFT) calculations have emerged as an insightful and accurate design tool to investigate the structural, electronic, and possible synthesis scenarios of yet undiscovered materials at atomic levels. In this review, the basic principles and the importance of DFT are discussed, followed by a summary of recent advances in the first principle study of elemental phosphorus&#8208;based nanomaterials. Elemental phosphorus&#8208;based nanomaterials and their allotropes have attracted growing interest in the renewable energy community due to their modulable product selectivity. However, the understanding of the physical phenomena of allotropic modification is still lacking. Therefore, the aim is to motivate experimental researchers to conduct DFT studies and experiments to comprehend relevant engineered nanomaterials better. Finally, the challenges and potential future research directions for further theoretical and computational development of phosphorus&#8208;based nanomaterials are outlined.</description>
+      <author>Chen&#8208;Chen Er, Cheng&#8208;May Fung, Wei&#8208;Kean Chong, Yong Jieh Lee, Lling&#8208;Lling Tan, Yee Sin Ang, Nikhil V. Medhekar, Siang&#8208;Piao Chai</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aelm.202300869</guid>
+    </item>
+    <item>
+      <title>Beyond the Canopy: Social Play Behavior in Wild Spider Monkeys (Ateles geoffroyi)</title>
+      <link>https://doi.org/10.1007/s10764-024-00442-6</link>
+      <description>S Rodr&#237;guez, Eva Corral, Miquel Llorente, Katja Liebal, Federica Amici, International journal of primatology. None(None)] 2024. https://openalex.org/W4399437642
+
+                Abstract Play is a multifunctional behavior that may confer different advantages depending on the context, the species, sex, and age of the players. Despite numerous studies of social play in primates, we know little about this behavior in platyrrhines. This study was designed to provide a systematic description of social play in a wild group of Geoffroy&#8217;s spider monkeys ( Ateles geoffroyi ). We conducted behavioral observations of acrobatic social play, object social play, cuddling play, and rough-and-tumble play in a large group of spider monkeys (N = 54) in Yucatan, Mexico. Over 5 months, we recorded and analyzed 104 play sessions. The probability of engaging in social play was higher for infants and juveniles than for subadults and adults, and it did not differ between sexes. Moreover, the probability of engaging in different types of social play did not vary across individuals based on their sex and age, nor on the frequency of play faces. Play sessions lasted longer when both players were younger and with a higher number of players, but there was no significant variation in session length associated with the frequency of play faces or players&#8217; sex. Overall, our study revealed patterns of play behavior that suggest substantial flexibility in play in this species, in line with the high levels of tolerance that characterize spider monkeys.</description>
+      <author>S Rodr&#237;guez, Eva Corral, Miquel Llorente, Katja Liebal, Federica Amici</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s10764-024-00442-6</guid>
     </item>
   </channel>
 </rss>

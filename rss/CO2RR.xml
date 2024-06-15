@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 14 Jun 2024 01:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 01:08:09 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -20,10 +20,10 @@
     <item>
       <title>Visible-Light-Driven Carbon Dioxide Reduction Catalyzed by Iron Schiff-Base Complexes</title>
       <link>https://doi.org/10.1021/acscatal.4c01639</link>
-      <description>Iulia Cocosila, Albert Sol&#233;-Daur&#225;, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
+      <description>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave, ACS catalysis. None(None)] 2024. https://openalex.org/W4399524109
 
                 No abstract</description>
-      <author>Iulia Cocosila, Albert Sol&#233;-Daur&#225;, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
+      <author>Iulia Cocosila, Albert Sol&#233;&#8208;Daura, Philipp Gotico, J&#233;r&#233;my Fort&#233;, Yun Li, Marc Fontecave</author>
       <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01639</guid>
     </item>
@@ -36,6 +36,26 @@
       <author>Tanakorn Ratana, Lucksamon Thongdee, Sittichart Sawansombut, Wassachol Sumarasingha, Threeraphat Chutimaskul, Monrudee Phongaksorn</author>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.48048/tis.2024.7788</guid>
+    </item>
+    <item>
+      <title>Research of Carbon Dioxide Reduction in New Energy Applications</title>
+      <link>https://doi.org/10.54097/21b5jn25</link>
+      <description>Yuzhou Zhao, Highlights in science, engineering and technology. 83(None)] 2024. https://openalex.org/W4399615969
+
+                Carbon dioxide is a significant byproduct from the usage of fossil fuels. Due to the rapid development of industry and the swift growth of urban populations, carbon dioxide has been accumulating in large quantities over the past decades. In terms of new energy research, carbon dioxide reduction has been given significant attention due to its non-toxic nature and the high utility of the products from its reduction. Electrochemical reduction, in particularly, has been highlighted for its notable benefits. This paper introduces the mechanism of electrochemical carbon dioxide reduction, its current shortcomings, and methods of improvement, summarizing the recent deficiencies and advancements in electrochemical carbon dioxide reduction. The current belief is that refining the electrolytes like ionic liquids and using catalysts such as graphene and its derivatives can enhance the electrochemical reduction of carbon dioxide. This paper looks forward to research findings that will discover better electrolytes and catalysts to address the current deficiencies in carbon dioxide reduction and hopes to promote the full potential of electrochemical carbon dioxide reduction in future new energy applications.</description>
+      <author>Yuzhou Zhao</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/21b5jn25</guid>
+    </item>
+    <item>
+      <title>Research Progress in Photo functional Materials for Catalytic Carbon Dioxide Reduction Reactions</title>
+      <link>https://doi.org/10.54097/q9zcxs49</link>
+      <description>Zhixiang Chang, Highlights in science, engineering and technology. 83(None)] 2024. https://openalex.org/W4399655076
+
+                Since the turn of the twenty-first century, the need to find new energy sources to create a low-carbon society has grown urgently due to the ongoing rise in greenhouse gas emissions, which are mostly caused by CO2. The technique that uses solar energy to convert CO2 into hydrocarbon fuels can produce high-value hydrocarbon fuels like methane, methanol, formic acid, or C2+. This is a promising method of achieving global carbon balance. One of the key elements influencing the process of photocatalytic CO2 reduction is the presence of materials having photocatalytic properties. Therefore, exploring and developing efficient photocatalytic functional materials is the main direction of research today. This article first introduces the development history of photo-functional materials and analyzes their mechanisms in photocatalytic reactions. Then, different types of optical functional materials were classified and introduced in detail. Finally, the development trend of photo-functional materials in the catalytic reduction of CO2 was emphasized.</description>
+      <author>Zhixiang Chang</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/q9zcxs49</guid>
     </item>
     <item>
       <title>Novel pyrochlore type europium stannate &#8211; tungsten disulfide heterostructure for light driven carbon dioxide reduction and nitrogen fixation</title>
@@ -76,6 +96,46 @@
       <author>Mingli Li, Canfei He, Yi Zhao, Shunli Li, Jiabo Wang, Kai Ge, Yongfang Yang</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14060374</guid>
+    </item>
+    <item>
+      <title>Regulating CO2 adsorption and mass transfer in electrochemical bicarbonate reduction</title>
+      <link>https://doi.org/10.1016/j.joule.2024.05.015</link>
+      <description>Tengfei Li, Joule. None(None)] 2024. https://openalex.org/W4399626057
+
+                No abstract</description>
+      <author>Tengfei Li</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.joule.2024.05.015</guid>
+    </item>
+    <item>
+      <title>Structure&#8208;Activity Relationships of the Structural Analogs Au8Cu1 and Au8Ag1 in the Electrocatalytic CO2 Reduction Reaction</title>
+      <link>https://doi.org/10.1002/ange.202404629</link>
+      <description>Shangyu Su, Yanting Zhou, Lin Xiong, Shan Jin, Yuanxin Du, Manzhou Zhu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4399439469
+
+                Owing to the significant attention directed toward alloy metal nanoclusters, it is crucial to explore the relationship between their structures and their performance during the electrocatalytic CO2 reduction reaction (eCO2RR) and discover potential synergistic effects for the design of novel functional nanoclusters. However, a lack of suitable analogs makes this investigation challenging. In this study, we synthesized and characterized a pair of structural analogs, [Au8Cu1(SAdm)4(Dppm)3Cl]2+ and [Au8Ag1(SAdm)4(Dppm)3Cl]2+ (Au8Cu1 and Au8Ag1, respectively). Single&#8208;crystal X&#8208;ray diffraction analysis revealed that Au8M1 consists of a tetrahedral Au3M1 core capped by three (Dppm)Au staples, one Au2(SR)3 staple, one lone SR ligand, and a terminal Cl ligand. Ag and Cu were doped at the same site . Au8Cu1 exhibited a significantly higher CO Faradaic efficiency (FECO; ~82.2%) during eCO2RR than that of Au8Ag1 (FECO; ~33.1%). DFT demonstrated that *COOH is the key intermediate in the reduction of CO2 to CO. The formation of *COOH on Au8Cu1 is more thermodynamically stable than on Au8Ag1, and Au8Cu1 shows a smaller *CO formation energy than that on Au8Ag1, which promotes the reduction of CO2. We believe that the structural analogs Au8Cu1 and Au8Ag1 offer a suitable template for the in&#8208;depth investigation of structure&#8208;property correlations at the atomic level.</description>
+      <author>Shangyu Su, Yanting Zhou, Lin Xiong, Shan Jin, Yuanxin Du, Manzhou Zhu</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/ange.202404629</guid>
+    </item>
+    <item>
+      <title>Structure&#8208;Activity Relationships of the Structural Analogs Au8Cu1 and Au8Ag1 in the Electrocatalytic CO2 Reduction Reaction</title>
+      <link>https://doi.org/10.1002/anie.202404629</link>
+      <description>Shangyu Su, Yanting Zhou, Lin Xiong, Shan Jin, Yuanxin Du, Manzhou Zhu, Angewandte Chemie. None(None)] 2024. https://openalex.org/W4399439864
+
+                Owing to the significant attention directed toward alloy metal nanoclusters, it is crucial to explore the relationship between their structures and their performance during the electrocatalytic CO2 reduction reaction (eCO2RR) and discover potential synergistic effects for the design of novel functional nanoclusters. However, a lack of suitable analogs makes this investigation challenging. In this study, we synthesized and characterized a pair of structural analogs, [Au8Cu1(SAdm)4(Dppm)3Cl]2+ and [Au8Ag1(SAdm)4(Dppm)3Cl]2+ (Au8Cu1 and Au8Ag1, respectively). Single&#8208;crystal X&#8208;ray diffraction analysis revealed that Au8M1 consists of a tetrahedral Au3M1 core capped by three (Dppm)Au staples, one Au2(SR)3 staple, one lone SR ligand, and a terminal Cl ligand. Ag and Cu were doped at the same site . Au8Cu1 exhibited a significantly higher CO Faradaic efficiency (FECO; ~82.2%) during eCO2RR than that of Au8Ag1 (FECO; ~33.1%). DFT demonstrated that *COOH is the key intermediate in the reduction of CO2 to CO. The formation of *COOH on Au8Cu1 is more thermodynamically stable than on Au8Ag1, and Au8Cu1 shows a smaller *CO formation energy than that on Au8Ag1, which promotes the reduction of CO2. We believe that the structural analogs Au8Cu1 and Au8Ag1 offer a suitable template for the in&#8208;depth investigation of structure&#8208;property correlations at the atomic level.</description>
+      <author>Shangyu Su, Yanting Zhou, Lin Xiong, Shan Jin, Yuanxin Du, Manzhou Zhu</author>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/anie.202404629</guid>
+    </item>
+    <item>
+      <title>Progress and Perspective of Single-atom Catalysts for the Electrochemical CO2 Reduction Reaction for Fuels and Chemicals</title>
+      <link>https://doi.org/10.54097/qxv1jb25</link>
+      <description>Bin Liu, Highlights in science, engineering and technology. 83(None)] 2024. https://openalex.org/W4399654489
+
+                Electrochemical CO2 Reduction Reaction (CO2RR) presents a transformative approach for the sustainable synthesis of fuels and chemicals to address pressing environmental challenges. The efficiency and selectivity of the CO2RR largely depend on the catalyst. Among which, Single-Atom Catalysts (SACs) have surfaced as a prominent design for this reaction, offering exceptional activity and selectivity. This paper delves into the progress and perspectives of SACs in CO2RR, tracing their historical evolution, unique advantages, and underlying mechanisms. The superior atomic utilization, distinct electronic configurations, and enhanced product specificity of SACs over traditional catalysts have opened novel pathways for more efficient conversion of CO2 to potent resources. However, challenges particularly concerning the stability, scalability, and product diversity of these catalysts constitutes as major impediments. Recent innovations, from advanced characterization techniques to novel synthesis methods, are spotlighted, showcasing the strides the scientific community has made. Looking forward, this paper underscores the potential of SACs in bridging sustainable energy sources with green chemical production and discuss prospective strategies to overcome existing limitations.</description>
+      <author>Bin Liu</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/qxv1jb25</guid>
     </item>
     <item>
       <title>Efficient Photoelectrocatalytic Co2 Reduction to Formate by Bivo4/Zif-8 Heterojunction</title>
@@ -148,16 +208,6 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta02903h</guid>
     </item>
     <item>
-      <title>Photoelectrochemical CO2 Reduction with Surface Immobilized Mn-NHC Complexes</title>
-      <link>https://doi.org/10.3030/101152972</link>
-      <description>, No host. None(None)] 2025. https://openalex.org/W4399404585
-
-                No abstract</description>
-      <author/>
-      <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3030/101152972</guid>
-    </item>
-    <item>
       <title>Creation of intrinsic defects on ZIF-8 particles to facilitate electrochemical reduction of CO2 over Fe single-atom catalyst</title>
       <link>https://doi.org/10.1016/j.cej.2024.153073</link>
       <description>Lianzhong Shen, Wei Lin, Yan Yu, Zhuowei Li, Qizhou Dai, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399556108
@@ -166,6 +216,16 @@
       <author>Lianzhong Shen, Wei Lin, Yan Yu, Zhuowei Li, Qizhou Dai</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153073</guid>
+    </item>
+    <item>
+      <title>Coupling regulation of boron doping and morphology in nano-floral CuO using one pot method for electrocatalytic CO2 reduction</title>
+      <link>https://doi.org/10.1016/j.seppur.2024.128326</link>
+      <description>Zhixiu Yang, Xianghong Guo, Yong Chen, Lijing Gao, Ruiping Wei, Guomin Xiao, Separation and purification technology. None(None)] 2024. https://openalex.org/W4399629089
+
+                No abstract</description>
+      <author>Zhixiu Yang, Xianghong Guo, Yong Chen, Lijing Gao, Ruiping Wei, Guomin Xiao</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.seppur.2024.128326</guid>
     </item>
     <item>
       <title>Comparative Carbon Footprint Assessment of Wood Flooring and Potential Pathways of Co2 Emissions Reduction -Six Cases from China</title>
@@ -188,14 +248,14 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.050</guid>
     </item>
     <item>
-      <title>Novel bipolar Membrane-Electrode Assembly designs for Simultaneous CO2 Capture and Reduction</title>
-      <link>https://doi.org/10.3030/101153662</link>
-      <description>, No host. None(None)] 2025. https://openalex.org/W4399412451
+      <title>Novel iodide-modified bismuth molybdate quantum dot/monolayer graphene (0D/2D) heterojunction for efficient photothermal catalytic reduction of CO2</title>
+      <link>https://doi.org/10.1016/j.jgsce.2024.205383</link>
+      <description>Mingnv Guo, Jiahao Liu, Jiaqi Qiu, Ziqi Wang, Zhongqing Yang, Gas science and engineering. None(None)] 2024. https://openalex.org/W4399627216
 
                 No abstract</description>
-      <author/>
-      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3030/101153662</guid>
+      <author>Mingnv Guo, Jiahao Liu, Jiaqi Qiu, Ziqi Wang, Zhongqing Yang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jgsce.2024.205383</guid>
     </item>
     <item>
       <title>Preparation, activity and mechanism of metallic Cu/TiO2 nanotube arrays catalyst by fast solar drying method for photothermal CO2 reduction under concentrating light</title>
@@ -208,6 +268,16 @@
       <guid isPermaLink="true">https://doi.org/10.1039/d4cy00175c</guid>
     </item>
     <item>
+      <title>Novel bipolar Membrane-Electrode Assembly designs for Simultaneous CO2 Capture and Reduction</title>
+      <link>https://doi.org/10.3030/101153662</link>
+      <description>, No host. None(None)] 2025. https://openalex.org/W4399412451
+
+                No abstract</description>
+      <author/>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3030/101153662</guid>
+    </item>
+    <item>
       <title>Recycling Electronic Waste to Catalyse H2 Production and CO2 Reduction Using Recovered Metals: A Step towards Circular Economy</title>
       <link>https://doi.org/10.3030/101152892</link>
       <description>, No host. None(None)] 2025. https://openalex.org/W4399406096
@@ -216,6 +286,36 @@
       <author/>
       <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3030/101152892</guid>
+    </item>
+    <item>
+      <title>Research Progress in Electrochemical Technology for Reducing Carbon Dioxide</title>
+      <link>https://doi.org/10.54097/cepkpn24</link>
+      <description>Jiaxuan Li, Highlights in science, engineering and technology. 83(None)] 2024. https://openalex.org/W4399654420
+
+                With the elevated carbon dioxide (CO2) emissions and the need for green and sustainable development, the need for electrochemical CO2 reduction technology is becoming more and more urgent. However, the electrochemical reduction technology still has difficulties and has not yet met the high requirements for large-scale industrialized production. In this paper, the field of electrochemical reduction of carbon dioxide is deeply explored from the perspectives of technological features and applications, and the progress in this field is discussed in terms of cathode materials, anode materials, and electrolytes, and the application of electrochemical technology in the field of carbon dioxide reduction is investigated concerning the differences in the generating material and loading voltage. Electrochemical carbon dioxide reduction technology can reduce carbon dioxide into utilizable industrial products by loading load voltage, and can selectively generate products such as formic acid, methanol, and methane by choosing different electrode materials and electrolytes, the selection of electrode materials and electrolytes and the selection of suitable load voltage are also the technical difficulties and the key points to realize industrial production. The electrochemical reduction of carbon dioxide technology has a wide range of applications in industrial production and energy saving and emission reduction, and this paper provides ideas for the understanding and further development of electrochemical reduction of carbon dioxide technolog.</description>
+      <author>Jiaxuan Li</author>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.54097/cepkpn24</guid>
+    </item>
+    <item>
+      <title>Bioinspired Molecule Functionalized Cu with Strengthened CO Adsorption for Efficient CO Electroreduction to Acetate</title>
+      <link>https://doi.org/10.1039/d4dt01293c</link>
+      <description>Xueliang Lu, Baozhen Yuan, Wenjuan Wang, Lixia Liu, Jun&#8208;Jie Zhu, Dalton transactions. None(None)] 2024. https://openalex.org/W4399432442
+
+                Electrochemical reduction of carbon dioxide (CO2) or carbon monoxide (CO) to valuable multi-carbon (C2+) products, like acetate is a promising approach for a sustainable energy economy. However, it is still...</description>
+      <author>Xueliang Lu, Baozhen Yuan, Wenjuan Wang, Lixia Liu, Jun&#8208;Jie Zhu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4dt01293c</guid>
+    </item>
+    <item>
+      <title>Carbon Dioxide Gasification of Biochar: A Sustainable Way of Utilizing Captured CO2 to Mitigate Greenhouse Gas Emission</title>
+      <link>https://doi.org/10.3390/su16125044</link>
+      <description>Nnamdi Ofuani, Prakash Bhoi, Sustainability. 16(12)] 2024. https://openalex.org/W4399626239
+
+                This study proposes CO2 gasification of biochar as a potential carbon utilization pathway for greenhouse gas emission reduction. It aims to evaluate the effects of CO2 concentration on carbon and CO2 conversion and output CO yield. It also performs kinetic analysis, using the volume reaction model, to determine the activation energy and pre-exponential factor. The operating conditions utilized include gasification temperatures of 700, 800, and 900 &#176;C; inlet CO2 concentrations of 15%, 30%, 45%, and 60% by volume (N2 balance); and a CO2 flow rate of 5 L/min. Carbon dioxide gasification of biochar was performed in a fixed bed batch reactor, and the composition of the output gases was analyzed. Increases in the temperature and inlet CO2 concentration both resulted in an increase in carbon conversion, with the maximum carbon conversion of 57.1% occurring at 900 &#176;C and a 60% inlet CO2 concentration. The results also showed that CO2 conversion increased against temperature but decreased with an increasing inlet CO2 concentration. The maximum CO2 conversion of 76% was observed at 900 &#176;C and a 15% inlet CO2 concentration. An activation energy in the range of 109 to 117 kJ/mol and a pre-exponential factor in the range of 63 to 253 s&#8722;1 were determined in this study.</description>
+      <author>Nnamdi Ofuani, Prakash Bhoi</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/su16125044</guid>
     </item>
     <item>
       <title>Oxygen&#8208;tolerant CO2 Electrocatalysis</title>
@@ -268,6 +368,16 @@
       <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1342321</guid>
     </item>
     <item>
+      <title>Innovative Biomaterials in Green Construction: Economic Benefits and Challenges</title>
+      <link>https://doi.org/10.1051/e3sconf/202453706011</link>
+      <description>&#1045;. &#1040;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;&#1072;, Alena Pavlovna Demidova, Lyalya Edilsultanova, E3S web of conferences. 537(None)] 2024. https://openalex.org/W4399647469
+
+                The integration of biotechnology in green building represents a cutting-edge approach that harnesses biological processes to enhance sustainability and efficiency in construction practices. This abstract explores modern strategies and provides examples of how biotechnology is revolutionizing green building. Biotechnology offers innovative solutions to traditional challenges in green building, leveraging biological systems to optimize resource utilization, energy efficiency, and waste reduction. By integrating living organisms, biomaterials, and biological processes into building design and construction, biotechnology enables the development of structures that are not only environmentally friendly but also adaptive and resilient.One modern approach involves incorporating living organisms such as algae, bacteria, and fungi into building materials to enhance their performance. For example, algae can be used in bio-facades to capture carbon dioxide and produce oxygen, contributing to improved indoor air quality and reducing the building's carbon footprint. Similarly, bacteria can be embedded in concrete to repair cracks autonomously, increasing the durability and lifespan of structures while minimizing maintenance needs.</description>
+      <author>&#1045;. &#1040;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;&#1072;, Alena Pavlovna Demidova, Lyalya Edilsultanova</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453706011</guid>
+    </item>
+    <item>
       <title>Life time of Reinforced Concrete floors of industrial buildings, connected with the use of chlorine</title>
       <link>https://doi.org/10.1051/e3sconf/202453501012</link>
       <description>Ashot Tamrazyan, E3S web of conferences. 535(None)] 2024. https://openalex.org/W4399548396
@@ -276,6 +386,16 @@
       <author>Ashot Tamrazyan</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453501012</guid>
+    </item>
+    <item>
+      <title>Under&#8208;Ice Oxygen Depletion and Greenhouse Gas Supersaturation in North Temperate Urban Ponds</title>
+      <link>https://doi.org/10.1029/2024jg008120</link>
+      <description>Adrianna L. Gorsky, Hilary A. Dugan, Grace M. Wilkinson, Emily H. Stanley, Journal of geophysical research. Biogeosciences. 129(6)] 2024. https://openalex.org/W4399645223
+
+                Abstract Stormwater ponds are common features in urbanized landscapes because they enhance flood reduction and nutrient retention. With shallow depths and high inputs of organic matter, these systems can be highly productive with rapid oxygen depletion when thermally stratified or ice&#8208;covered. However, most of our understanding of the biogeochemistry of stormwater ponds comes from the open water period. We explored under&#8208;ice oxygen dynamics in 20 stormwater ponds in Madison, WI (USA) that were ice covered from late December to early March to investigate the drivers of bottom water oxygen saturation and the impact on the accumulation of carbon dioxide (CO 2 ) and methane (CH 4 ). Winter anoxia was driven by ice transmissivity, winter nutrient concentrations, and precedent summer productivity. Oxygen depletion led to overall higher concentrations of greenhouse gases in pond surface waters. This research enhances our understanding of winter pond biogeochemistry and its links to summer productivity.</description>
+      <author>Adrianna L. Gorsky, Hilary A. Dugan, Grace M. Wilkinson, Emily H. Stanley</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1029/2024jg008120</guid>
     </item>
     <item>
       <title>The Role and Application of Redox Potential in Wine Technology</title>
@@ -298,6 +418,16 @@
       <guid isPermaLink="true">https://doi.org/10.58532/v3bgbt2p1ch7</guid>
     </item>
     <item>
+      <title>Novel Nanocomposite Electrolytes for Sustainable Fuel Cells</title>
+      <link>https://doi.org/10.1051/e3sconf/202453707013</link>
+      <description>Soosan Chhabra, Ankita Joshi, Suyash Mishra, Amanveer Singh, B. Sankara Babu, Shivani Kampani, Kaushal Kumar, E3S web of conferences. 537(None)] 2024. https://openalex.org/W4399646883
+
+                An investigation has been conducted to determine whether or not novel nanocomposite electrolytes have the potential to improve the efficiency and longevity of fuel cell technology. In this investigation, nanocomposite electrolytes were manufactured by using a methodical methodology. The nanoparticles were included into polymer matrices in order to enhance the ion conductivity and mechanical strength of the electrolytes developed. The composition of nanocomposite electrolytes was improved by altering the amount of nanoparticles and polymers that were present. When compared to traditional electrolytes, the introduction of nanoparticles resulted in considerable improvements in the characteristics of the material. These enhancements included a 15% increase in ion conductivity and a 10% increase in mechanical strength. Fuel cell devices that make use of nanocomposite electrolytes have showed improved performance, with a 10% increase in power density and a 15% gain in efficiency when compared to fuel cell devices that make use of traditional electrolytes. In addition, the environmental impact assessment found that the use of nanocomposite electrolytes resulted in a two percent drop in the amount of energy used, a fifteen percent reduction in the amount of waste generated, and a twenty-five percent reduction in the amount of carbon dioxide emissions. As a result of these discoveries, the potential ofnanocomposite electrolytes to enhance the sustainability and efficiency of fuel cell technology has been brought to light. This opens the door for the creation of next-generation fuel cells that have increased performance and decreased their effect on the environment.</description>
+      <author>Soosan Chhabra, Ankita Joshi, Suyash Mishra, Amanveer Singh, B. Sankara Babu, Shivani Kampani, Kaushal Kumar</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453707013</guid>
+    </item>
+    <item>
       <title>In&#8211;Situ Characterization Techniques for Mechanism Studies of CO2 Hydrogenation</title>
       <link>https://doi.org/10.1002/cplu.202300511</link>
       <description>Rasmeet Singh, Lizhuo Wang, Jun Huang, ChemPlusChem. None(None)] 2024. https://openalex.org/W4399475691
@@ -308,14 +438,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/cplu.202300511</guid>
     </item>
     <item>
-      <title>Effect of CO&lt;sub&gt;2&lt;/sub&gt; injection on Coalbed Permeability Based on a Thermal&#8211;Hydraulic&#8211;Mechanical Coupling Model</title>
-      <link>https://doi.org/10.1021/acs.energyfuels.4c01755</link>
-      <description>Erlei Su, Jiaqi Wei, Haidong Chen, Xiangjun Chen, Yunpei Liang, Quanle Zou, Xinyu Zhu, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4399387482
+      <title>The Thermodynamic Change Laws of CO2-Coupled ractured Rock</title>
+      <link>https://doi.org/10.3390/app14125122</link>
+      <description>Yu Fei, Deng Guang-zhe, Applied sciences. 14(12)] 2024. https://openalex.org/W4399634168
 
-                The permeability of coal seam is an important parameter that affects the production of coalbed methane and the storage of CO2. Therefore, it is of great significance to elucidate the evolution of permeability under different injection parameter conditions during enhanced coalbed methane recovery with CO2 sequestration (CO2-ECBM). In this study, a fully coupled mathematical model of thermal&#8211;hydraulic&#8211;mechanical (THM) in the CO2-ECBM process was established first. Moreover, the validity of the THM model developed in this paper was verified. Finally, the mechanism of influence of different CO2 injection conditions on the permeability of coal reservoirs and the implications of this study for the improvement of CO2-ECBM engineering were described. The results show that the higher the injection pressure, the lower the permeability, and the greater the range of permeability reduction caused by CO2 injection. Near the injection well, the higher the injection temperature, the lower the permeability. When the distance from the injection well is greater than 4 m, the higher the injection temperature, the higher the permeability. This may be related to the initial temperature of coal reservoir. This study not only provides theoretical support for improving the existing problems of lower injectivity and less than expected injectivity in the current CO2-ECBM field engineering but also promotes the realization of the global "carbon neutrality" goal.</description>
-      <author>Erlei Su, Jiaqi Wei, Haidong Chen, Xiangjun Chen, Yunpei Liang, Quanle Zou, Xinyu Zhu</author>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c01755</guid>
+                Under the background of the &#8220;dual carbon&#8221; target, exploring the pathway of efficient geological storage and high energy utilization of CO2 is a hot issue in CO2 emission reduction research. Under the coupling effect of high geopathic stress in deep rock layers and thermal stress generated during the geological sequestration of CO2, CO2 infiltration into coal rock changes the ambient temperature around the rock, while thermal diffusion effects cause damage to the rock and influence fracture expansion. In the present study, CO2-water&#8211;rock coupling test system and characterization of fissure surface roughness were conducted to analyze the rock&#8217;s mechanical properties, damage, and fracture evolution. Modeling of the equivalent fissure was employed to reveal the heat transfer mechanism between the rock matrix and CO2. The results obtained illustrate that the rock samples coupled with CO2 exhibited remarkable changes in mechanical properties. These changes include an increase in the number of pores, enhanced inter-pore connectivity, and a planar type of surface roughness in the fissures, ultimately resulting in an increase in conductivity. Conversely, the remaining rock samples displayed poor mechanical properties and surface fracture connectivity. As pressure decreased, the heat transfer coefficient decreased from 86.9 W/m2&#183;K to 57.5 W/m2&#183;K, accompanied by a temperature drop from 33.6 &#176;C to 30.6 &#176;C, demonstrating a proportional relationship between pressure and the heat transfer coefficient. Furthermore, the flow rate gradually increased with the rise in CO2 pressure, indicating denser flow lines with faster flow rates. At 15 MPa, CO2 exhibits enhanced mobility.</description>
+      <author>Yu Fei, Deng Guang-zhe</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/app14125122</guid>
     </item>
     <item>
       <title>LNG VERSUS CONVENTIONAL FUEL POWERED VESSELS: ENVIRONMENTAL IMPACT OF ROPAX SHIPS</title>
@@ -338,6 +468,16 @@
       <guid isPermaLink="true">https://doi.org/10.1111/ijd.17304</guid>
     </item>
     <item>
+      <title>Best practices and innovations in carbon capture and storage (CCS) for effective CO2 storage</title>
+      <link>https://doi.org/10.51594/ijarss.v6i6.1212</link>
+      <description>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe, International journal of applied research in social sciences. 6(6)] 2024. https://openalex.org/W4399652834
+
+                Carbon capture and storage (CCS) has emerged as a critical technology in the fight against climate change, offering a viable pathway to mitigate CO2 emissions from industrial processes and power generation. This review explores the best practices and innovations in CCS for effective CO2 storage, highlighting key strategies and advancements that optimize storage capacity, enhance storage security, and minimize environmental risks. The review begins by delineating the importance of CCS in reducing greenhouse gas emissions and meeting global climate targets. It underscores the urgency of deploying CCS technologies at scale to address the dual challenge of decarbonizing energy systems and ensuring energy security. Drawing upon recent research and industry developments, the review elucidates best practices in CO2 capture, transport, and storage, emphasizing the importance of integrated and holistic approaches. It discusses advancements in CO2 capture technologies, including post-combustion capture, pre-combustion capture, and oxy-fuel combustion, highlighting efficiency improvements and cost reduction strategies. Furthermore, the review delves into innovations in CO2 storage techniques, such as geological storage, ocean storage, and mineralization, evaluating their respective advantages, challenges, and scalability. It explores best practices for site selection, characterization, and monitoring, emphasizing the need for robust risk assessment frameworks and regulatory oversight to ensure the safety and integrity of storage sites. Moreover, the review examines emerging trends and innovations in CCS, including enhanced oil recovery (EOR) using CO2, direct air capture (DAC) technologies, and carbon utilization and storage (CCUS) initiatives. It discusses the potential synergies between CCS and renewable energy technologies, highlighting integrated solutions that leverage CCS to enable the decarbonization of hard-to-abate sectors such as heavy industry and aviation. The review underscores the pivotal role of CCS in achieving deep decarbonization and transitioning to a low-carbon economy. It calls for continued research, investment, and collaboration to unlock the full potential of CCS technologies and accelerate their deployment at scale. By embracing best practices and fostering innovation, stakeholders can pave the way for effective CO2 storage and contribute to global efforts to combat climate change. Keywords: Best Practices, Innovation, Carbon, Capture, Storage, CO2.</description>
+      <author>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.51594/ijarss.v6i6.1212</guid>
+    </item>
+    <item>
       <title>Prioritizing Target Motorcycle Owners to Promote Electric Vehicles Among Motorcycle Taxi Drivers in Bangkok</title>
       <link>https://doi.org/10.54028/nj202423409</link>
       <description>Ornicha Anuchitchanchai, Saksith Chalermpong, Nakhara : Journal of Environmental Design and Planning. 23(2)] 2024. https://openalex.org/W4399571013
@@ -346,6 +486,16 @@
       <author>Ornicha Anuchitchanchai, Saksith Chalermpong</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54028/nj202423409</guid>
+    </item>
+    <item>
+      <title>The Electrochemical Peroxydisulfate-Oxalate Autocatalytic Reaction</title>
+      <link>https://doi.org/10.26434/chemrxiv-2024-3149c</link>
+      <description>Jordyn Janusz, Joshua A. Beeler, Seyyedamirhossein Hosseini, Mayank Tanwar, Rui Zeng, Hongsen Wang, H&#233;ctor D. Abru&#241;a, Matthew Neurock, Henry White, No host. None(None)] 2024. https://openalex.org/W4399632679
+
+                Aqueous solutions containing both the strong oxidant, peroxydisulfate (S2O82&#8210;), and the strong reductant, oxalate (C2O42&#8210;), are thermodynamically unstable due to the highly exothermic homogeneous redox reaction: S2O82&#8210; + C2O42&#8210; &#174; 2 SO42&#8210; + 2 CO2 (DG0 = &#8722;490 kJ/mol). However, at room temperature, this reaction does not occur to a significant extent over the timescale of a day due to its inherently slow kinetics. We demonstrate that the S2O82&#8210;/C2O42&#8210; redox reaction occurs rapidly, once initiated by the Ru(NH3)62+-mediated 1e&#8211; reduction of S2O82&#8210; to form S2O83&#8226;&#8210; at a glassy carbon electrode. Theoretically, the mediated electrochemical generation of a single molecule of S2O83&#8226;&#8210; is capable of initiating an autocatalytic cycle that consumes both S2O82&#8210; and C2O42&#8210; in bulk solution. Several experimental demonstrations of S2O82&#8210;/C2O42&#8210; autocatalysis are presented. Differential electrochemical mass spectrometry measurements demonstrate that CO2 is generated in solution for at least 10 minutes following a 30-s initiation step during which S2O83&#8226;&#8210; is generated. Quantitative bulk electrolysis of S2O82&#8210; in solutions containing excess C2O42&#8210; is initiated by electrogeneration of immeasurably small quantities of S2O83&#8226;&#8210;. Capture of CO2 as BaCO3 during electrolysis additionally confirms the autocatalytic generation of CO2. First- principles density functional theory calculations, ab initio molecular dynamics simulations, and finite difference simulations of cyclic voltammetric responses are presented that support and provide additional insights into the initiation and mechanism of the S2O82&#8210;/C2O42&#8210; autocatalytic reaction. Preliminary evidence indicates that autocatalysis also results in a chemical traveling reaction front that propagates into the solution normal to the planar electrode surface.</description>
+      <author>Jordyn Janusz, Joshua A. Beeler, Seyyedamirhossein Hosseini, Mayank Tanwar, Rui Zeng, Hongsen Wang, H&#233;ctor D. Abru&#241;a, Matthew Neurock, Henry White</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-3149c</guid>
     </item>
     <item>
       <title>Comparison of Performance and Efficiency of Different Refrigerants at High Load Conditions and their Impact on CO2eq Emissions</title>
@@ -360,10 +510,10 @@
     <item>
       <title>Ocean Acidification trends and Carbonate System dynamics in the North Atlantic Subpolar Gyre during 2009&#8211;2019</title>
       <link>https://doi.org/10.5194/egusphere-2024-1388</link>
-      <description>David Curbelo-Hern&#225;ndez, F&#237;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano, No host. None(None)] 2024. https://openalex.org/W4399533413
+      <description>David Curbelo-Hern&#225;ndez, Fiz F. P&#233;r&#232;z, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano, No host. None(None)] 2024. https://openalex.org/W4399533413
 
                 Abstract. The CO2-carbonate system dynamics in the North Atlantic Subpolar Gyre (NASPG) were evaluated between 2009 and 2019. Data was collected aboard eight summer cruises through the CLIVAR 59.5&#186; N section. The Ocean Acidification (OA) patterns and the reduction in the saturation state of calcite (&#937;Ca) and aragonite (&#937;Arag) in response to the increasing anthropogenic CO2 (Cant) were assessed within the Irminger, Iceland and Rockall basins during a poorly-assessed decade in which the physical patterns reversed in comparison with previous well-known periods. The observed cooling, freshening and enhanced ventilation increased the interannual rate of accumulation of Cant in the interior ocean by 50&#8211;86 % and the OA rates by close to 10 %. The OA trends were 0.0013&#8211;0.0032 units yr-1 in the Irminger and Iceland basin and 0.0006&#8211;0.0024 units yr-1 in the Rockall Trough, causing a decline in &#937;Ca and &#937;Arag of 0.004&#8211;0.021 and 0.003&#8211;0.0013 units yr-1, respectively. The Cant-driven rise in total inorganic carbon (CT) was the main driver of the OA (contributed by 53&#8211;68 % in upper layers and &gt;82 % toward the interior ocean) and the reduction in &#937;Ca and &#937;Arag (&gt;64 %). The transient decrease in temperature, salinity and AT collectively counteracts the CT-driven acidification by 45&#8211;85 % in the upper layers and in the shallow Rockall Trough and by &lt;10 % in the interior ocean. The present investigation reports the acceleration of the OA within the NASPG and expands knowledge about the future state of the ocean.</description>
-      <author>David Curbelo-Hern&#225;ndez, F&#237;z F. P&#233;rez, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano</author>
+      <author>David Curbelo-Hern&#225;ndez, Fiz F. P&#233;r&#232;z, Melchor Gonz&#225;lez&#8208;D&#225;vila, &#1057;. &#1042;. &#1043;&#1083;&#1072;&#1076;&#1099;&#1096;&#1077;&#1074;, Aridane G. Gonz&#225;lez, David Gonz&#225;lez-Santana, A. Velo, Alexey Sokov, J. Magdalena Santana-Casiano</author>
       <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.5194/egusphere-2024-1388</guid>
     </item>
@@ -408,6 +558,16 @@
       <guid isPermaLink="true">https://doi.org/10.3390/jmse12060976</guid>
     </item>
     <item>
+      <title>The Reusage of Different Wastes by Using the Multiple&#8217;s Effect Technique for Sustainable Gasoline Production</title>
+      <link>https://doi.org/10.17344/acsi.2024.8714</link>
+      <description>Anita Kova&#269; Kralj, Acta chimica slovenica. 71(2)] 2024. https://openalex.org/W4399623909
+
+                The unused garbage which is accumulating the landfills, such as raw materials, could be reused for synthetic gasoline production. This study presents the multiple&#8217;s effect technique, which is based on the reusage of different non, party and sorted municipal solid wastes (MSW), or biogas for syngas, converted into synthetic gasoline. The novelties of this technique include a basic multiple&#8217;s effect parameter (MUW), which present a level of waste sorting, an effect of oxygen inhibition into different wastes, a simplified mathematical model and simulation with an Aspen Plus&#174; simulator using the retrofitted methanol plan converted into the synthetic gasoline production. This technique includes a circular economy by using a circulated purified flue gas as raw material, co-products of hydrogen and water. This technique was tested on an existing methanol process, replacing natural gas with different alternatives of wastes or biogas for the synthetic gasoline production. The best alternative was the sorted MSW, which could generate an additional profit of 4.8 MEUR/a, including the garbage and CO2 emission reductions of 0.106&#903;106 t/a and of 0.084 &#903;106 t/a.</description>
+      <author>Anita Kova&#269; Kralj</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.17344/acsi.2024.8714</guid>
+    </item>
+    <item>
       <title>Reduced A&#8211;B super exchange interaction in zirconium doped cobalt ferrite due to laser irradiation</title>
       <link>https://doi.org/10.1088/1402-4896/ad56db</link>
       <description>Ebtesam E. Ateia, Nahla Fangary, Dalia N. Ghafar, Physica scripta. None(None)] 2024. https://openalex.org/W4399518339
@@ -438,14 +598,14 @@
       <guid isPermaLink="true">https://doi.org/10.4271/2024-37-0025</guid>
     </item>
     <item>
-      <title>Intrinsically reactive hyperbranched interface governs graphene oxide dispersion and crosslinking in epoxy for enhanced flame retardancy</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.06.005</link>
-      <description>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399393303
+      <title>Interannual Evolution Characteristics of the Carbon and Nitrogen Footprints of Maize Production in Inner Mongolia</title>
+      <link>https://doi.org/10.3390/agronomy14061273</link>
+      <description>Hongwei Liang, Zhipeng Cheng, Ran Zhao, Fugui Wang, Haibo Shi, Y.H. Li, Zhen Wang, Lanfang Bai, Yongqiang Wang, Jing Zhang, Xiaoling Jin, Zhigang Wang, Agronomy. 14(6)] 2024. https://openalex.org/W4399644943
 
-                Enhancing the flame retardancy of epoxy (EP) resins typically entailed a trade-off with other physical properties. Herein, hyperbranched poly(amidoamine) (HPAA) and phytic acid (PA) were used to functionalize graphene oxide (GO) via electrostatic self-assembly in water to prepare a phosphorus-nitrogen functionalized graphene oxide nanosheet (PN-GOs), which could be utilized as high efficient flame-retardant additive of epoxy resin without sacrificing other properties. The PN-GOs demonstrated improved dispersion and compatibility within the EP matrix, which resulted in significant concurrent enhancements in both the mechanical performance and flame-retardant properties of the PN-GOs/EP nanocomposites over virgin EP. Notably, the incorporation of just 1.0 wt% PN-GOs yielded a 20.4, 6.4 and 42.7 % increases in flexural strength, flexural modulus and impact strength for the PN-GOs/EP nanocomposites, respectively. Furthermore, simultaneous reductions were achieved in the peak heat release rate (pHRR) by 60.0 %, total smoke production (TSP) by 43.0 %, peak CO production rate (pCOP) by 57.9 %, and peak CO2 production rate (pCO2P) by 63.9 %. This study presented a facile method for the design of GO-based nano flame retardants, expanding their application potential in polymer-matrix composites.</description>
-      <author>Hefeng Li, Cong Liu, Jie Zhu, Xianhua Huan, Kun Xu, Hongbo Geng, Xiaopeng Chen, Tianming Li, Da Deng, Ding Wen-hui, Lei Zu, Ge Liu, Xiaolong Jia, Xiaoping Yang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.005</guid>
+                As the third-largest maize-producing province in China and a typical arid and semi-arid region, quantitatively evaluating the carbon and nitrogen footprints of maize production and their dominant factors is of great significance in guiding the high-yield, low-carbon, and sustainable development of maize production in the Inner Mongolia Autonomous Region. This study quantitatively evaluated the interannual evolution characteristics of the carbon and nitrogen footprints in maize production and their dominant factors in Inner Mongolia from 2003 to 2022 based on statistical yearbook data and emission parameter models. The results showed that from 2003 to 2022, the maize planting area, yield, and total yield in Inner Mongolia all increased, with an average annual increase of 97 kg ha&#8722;1 in yield and 1.23 &#215; 106 Mg in total yield. The carbon and nitrogen footprints of Inner Mongolia maize production over the past 20 years had overall decreasing trends, while the nitrogen fertilizer bias productivity, net ecosystem carbon balance, and sustainability index had increasing trends. Carbon footprint reduced by an average of 5.2 kg CO2 eq Mg&#8722;1 per year, and nitrogen footprint reduced by an average of 0.21 g N eq kg&#8722;1 per year. Currently, the transportation and production of fertilizer and field application of N fertilizer are the main controlling factors of GHG emissions from maize production. NO3&#8722;-N, NH4+-N leaching, and NH3 volatilization from field application of N fertilizer are the main sources of reactive N losses. The application of simplified processes, such as phased regulation of nitrogen and controlled-release fertilizers, as well as conservation tillage, have broad prospects for emission reduction in maize production in Inner Mongolia.</description>
+      <author>Hongwei Liang, Zhipeng Cheng, Ran Zhao, Fugui Wang, Haibo Shi, Y.H. Li, Zhen Wang, Lanfang Bai, Yongqiang Wang, Jing Zhang, Xiaoling Jin, Zhigang Wang</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3390/agronomy14061273</guid>
     </item>
   </channel>
 </rss>
