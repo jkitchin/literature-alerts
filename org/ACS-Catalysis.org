@@ -1,94 +1,10 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jun 15 01:08:11 2024
+Created on Sun Jun 16 01:13:49 2024
 
-Found 20 results from 2024-06-08 to 2024-06-15
+Found 21 results from 2024-06-09 to 2024-06-16
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
-
-* Enhanced Activity from Coordinatively Unsaturated and Dynamic Zeolite-Bound Organoscandium Species  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399435891
-:TOPICS: Novel Methods for Cesium Removal from Wastewater, NMR Spectroscopy Techniques, Zeolite Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-06-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00678")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399435891"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399435891"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399435891"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399435891 (Open access: False)
-    
-[[https://openalex.org/A5063875477][Scott A. Southern]], [[https://openalex.org/A5051037648][Yuting Li]], [[https://openalex.org/A5073390599][Da‐Jiang Liu]], [[https://openalex.org/A5015422195][Aaron D. Sadow]], [[https://openalex.org/A5017579988][Long Qi]], [[https://openalex.org/A5050679087][Frédéric A. Perras]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00678 
-     
-No abstract    
-
-    
-
-* Single Pt Coordinated with Framework Fe in MWW-Type Ferrisilicate toward Efficient Propane Dehydrogenation  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399439021
-:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Catalytic Nanomaterials, Zeolite Chemistry and Catalysis
-:PUBLICATION_DATE: 2024-06-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02091")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399439021"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399439021"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399439021"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399439021 (Open access: False)
-    
-[[https://openalex.org/A5038416644][Longkang Zhang]], [[https://openalex.org/A5078226849][Xinyu Chen]], [[https://openalex.org/A5004299496][Xiaodong Wu]], [[https://openalex.org/A5017869622][Shaojia Song]], [[https://openalex.org/A5042987873][Hengyong Xu]], [[https://openalex.org/A5062999948][Yejun Guan]], [[https://openalex.org/A5020457916][Weiyu Song]], [[https://openalex.org/A5084434322][Jiangwei Zhang]], [[https://openalex.org/A5018681961][Peng Wu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02091 
-     
-No abstract    
-
-    
-
-* Issue Publication Information  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399440714
-:TOPICS: 
-:PUBLICATION_DATE: 2024-06-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i011_1809724")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399440714"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399440714"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399440714"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399440714 (Open access: False)
-    
-, ACS catalysis. 14(11)] 2024. https://doi.org/10.1021/csv014i011_1809724 
-     
-No abstract    
-
-    
-
-* Issue Editorial Masthead  :ACS_Catalysis:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399440731
-:TOPICS: 
-:PUBLICATION_DATE: 2024-06-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/csv014i011_1809725")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399440731"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399440731"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399440731"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399440731 (Open access: False)
-    
-, ACS catalysis. 14(11)] 2024. https://doi.org/10.1021/csv014i011_1809725 
-     
-No abstract    
-
-    
 
 * On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides  :ACS_Catalysis:
 :PROPERTIES:
@@ -421,6 +337,111 @@ No abstract
 OpenAlex: https://openalex.org/W4399646842 (Open access: True)
     
 [[https://openalex.org/A5051476157][Oliver J. Newton]], [[https://openalex.org/A5092558582][Matthew J. Takle]], [[https://openalex.org/A5081725515][Jeffery Richardson]], [[https://openalex.org/A5023116561][Klaus Hellgardt]], [[https://openalex.org/A5019713145][King Kuok Hii]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02028 
+     
+No abstract    
+
+    
+
+* Solvent-Modulated Multiple Active Hydrogen Species in Furfural Hydrogenation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399663719
+:TOPICS: Desulfurization Technologies for Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01364")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399663719"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399663719"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399663719"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399663719 (Open access: False)
+    
+[[https://openalex.org/A5073267812][Min Dong]], [[https://openalex.org/A5020646881][Sen Luan]], [[https://openalex.org/A5032819201][Yuxuan Wu]], [[https://openalex.org/A5088324347][Bin Zhang]], [[https://openalex.org/A5013035066][Ye Liu]], [[https://openalex.org/A5046040180][Huizhen Liu]], [[https://openalex.org/A5047044498][Buxing Han]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01364 
+     
+No abstract    
+
+    
+
+* Engineering Escherichia coli Pyruvate Metabolism to Generate Noncanonical Reducing Power  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399670296
+:TOPICS: Metabolic Engineering and Synthetic Biology, Protein Structure Prediction and Analysis, Bacterial Physiology and Genetics
+:PUBLICATION_DATE: 2024-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02131")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399670296"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399670296"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399670296"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399670296 (Open access: False)
+    
+[[https://openalex.org/A5041733718][Derek Aspacio]], [[https://openalex.org/A5001893316][Emma Luu]], [[https://openalex.org/A5040263032][Suphanida Worakaensai]], [[https://openalex.org/A5022953852][Youtian Cui]], [[https://openalex.org/A5034082839][Sarah Maxel]], [[https://openalex.org/A5007342740][Edward J. King]], [[https://openalex.org/A5099128536][Raine Hagerty]], [[https://openalex.org/A5058618539][Alexander L. Chu]], [[https://openalex.org/A5099128537][Derek Minn]], [[https://openalex.org/A5076521371][Justin B. Siegel]], [[https://openalex.org/A5005490470][Han Li]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02131 
+     
+No abstract    
+
+    
+
+* Electrocatalysts for Inorganic and Organic Waste Nitrogen Conversion  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399670819
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Materials and Methods for Hydrogen Storage, Photocatalytic Materials for Solar Energy Conversion
+:PUBLICATION_DATE: 2024-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01398")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399670819"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399670819"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399670819"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399670819 (Open access: True)
+    
+[[https://openalex.org/A5056482560][Danae A. Chipoco Haro]], [[https://openalex.org/A5073039652][Luisa Barrera]], [[https://openalex.org/A5011968024][Haldrian Iriawan]], [[https://openalex.org/A5055020562][Antonia Herzog]], [[https://openalex.org/A5087917712][Nianhan Tian]], [[https://openalex.org/A5036197373][Andrew J. Medford]], [[https://openalex.org/A5072645578][Yang Shao‐Horn]], [[https://openalex.org/A5020859438][Faisal M. Alamgir]], [[https://openalex.org/A5014967427][Marta C. Hatzell]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01398 
+     
+No abstract    
+
+    
+
+* Chemodivergent Tandem Hydroalkylation and Hydroalkenoxylation of Conjugated Enynes  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399672490
+:TOPICS: Homogeneous Catalysis with Transition Metals, Asymmetric Catalysis, Olefin Metathesis Chemistry
+:PUBLICATION_DATE: 2024-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02377")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399672490"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399672490"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399672490"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399672490 (Open access: False)
+    
+[[https://openalex.org/A5085804362][Bowei Xie]], [[https://openalex.org/A5042616865][Zhi‐Tao He]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02377 
+     
+No abstract    
+
+    
+
+* Defect-Mediated Cu–S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO2 Photoreduction with H2O  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399677145
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Formation and Properties of Nanocrystals and Nanostructures, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-06-14
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02857")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399677145"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399677145"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399677145"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399677145 (Open access: False)
+    
+[[https://openalex.org/A5079800526][Heng Cao]], [[https://openalex.org/A5038541786][Xiaodi Zhu]], [[https://openalex.org/A5001720256][Jiawei Xue]], [[https://openalex.org/A5033862876][Ruyang Wang]], [[https://openalex.org/A5035134262][Jiusi Shang]], [[https://openalex.org/A5063955135][Peiyu Ma]], [[https://openalex.org/A5031824581][Chengyuan Liu]], [[https://openalex.org/A5086265105][Jun Bao]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02857 
      
 No abstract    
 

@@ -4,49 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 15 Jun 2024 01:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 01:13:49 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Enhanced Activity from Coordinatively Unsaturated and Dynamic Zeolite-Bound Organoscandium Species</title>
-      <link>https://doi.org/10.1021/acscatal.4c00678</link>
-      <description>Scott A. Southern, Yuting Li, Da&#8208;Jiang Liu, Aaron D. Sadow, Long Qi, Fr&#233;d&#233;ric A. Perras, ACS catalysis. None(None)] 2024. https://openalex.org/W4399435891
-
-                No abstract</description>
-      <author>Scott A. Southern, Yuting Li, Da&#8208;Jiang Liu, Aaron D. Sadow, Long Qi, Fr&#233;d&#233;ric A. Perras</author>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00678</guid>
-    </item>
-    <item>
-      <title>Single Pt Coordinated with Framework Fe in MWW-Type Ferrisilicate toward Efficient Propane Dehydrogenation</title>
-      <link>https://doi.org/10.1021/acscatal.4c02091</link>
-      <description>Longkang Zhang, Xinyu Chen, Xiaodong Wu, Shaojia Song, Hengyong Xu, Yejun Guan, Weiyu Song, Jiangwei Zhang, Peng Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399439021
-
-                No abstract</description>
-      <author>Longkang Zhang, Xinyu Chen, Xiaodong Wu, Shaojia Song, Hengyong Xu, Yejun Guan, Weiyu Song, Jiangwei Zhang, Peng Wu</author>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02091</guid>
-    </item>
-    <item>
-      <title>Issue Publication Information</title>
-      <link>https://doi.org/10.1021/csv014i011_1809724</link>
-      <description>, ACS catalysis. 14(11)] 2024. https://openalex.org/W4399440714
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i011_1809724</guid>
-    </item>
-    <item>
-      <title>Issue Editorial Masthead</title>
-      <link>https://doi.org/10.1021/csv014i011_1809725</link>
-      <description>, ACS catalysis. 14(11)] 2024. https://openalex.org/W4399440731
-
-                No abstract</description>
-      <author/>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/csv014i011_1809725</guid>
-    </item>
     <item>
       <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
       <link>https://doi.org/10.1021/acscatal.4c01407</link>
@@ -206,6 +166,56 @@
       <author>Oliver J. Newton, Matthew J. Takle, Jeffery Richardson, Klaus Hellgardt, King Kuok Hii</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02028</guid>
+    </item>
+    <item>
+      <title>Solvent-Modulated Multiple Active Hydrogen Species in Furfural Hydrogenation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01364</link>
+      <description>Min Dong, Sen Luan, Yuxuan Wu, Bin Zhang, Ye Liu, Huizhen Liu, Buxing Han, ACS catalysis. None(None)] 2024. https://openalex.org/W4399663719
+
+                No abstract</description>
+      <author>Min Dong, Sen Luan, Yuxuan Wu, Bin Zhang, Ye Liu, Huizhen Liu, Buxing Han</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01364</guid>
+    </item>
+    <item>
+      <title>Engineering &lt;i&gt;Escherichia coli&lt;/i&gt; Pyruvate Metabolism to Generate Noncanonical Reducing Power</title>
+      <link>https://doi.org/10.1021/acscatal.4c02131</link>
+      <description>Derek Aspacio, Emma Luu, Suphanida Worakaensai, Youtian Cui, Sarah Maxel, Edward J. King, Raine Hagerty, Alexander L. Chu, Derek Minn, Justin B. Siegel, Han Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4399670296
+
+                No abstract</description>
+      <author>Derek Aspacio, Emma Luu, Suphanida Worakaensai, Youtian Cui, Sarah Maxel, Edward J. King, Raine Hagerty, Alexander L. Chu, Derek Minn, Justin B. Siegel, Han Li</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02131</guid>
+    </item>
+    <item>
+      <title>Electrocatalysts for Inorganic and Organic Waste Nitrogen Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01398</link>
+      <description>Danae A. Chipoco Haro, Luisa Barrera, Haldrian Iriawan, Antonia Herzog, Nianhan Tian, Andrew J. Medford, Yang Shao&#8208;Horn, Faisal M. Alamgir, Marta C. Hatzell, ACS catalysis. None(None)] 2024. https://openalex.org/W4399670819
+
+                No abstract</description>
+      <author>Danae A. Chipoco Haro, Luisa Barrera, Haldrian Iriawan, Antonia Herzog, Nianhan Tian, Andrew J. Medford, Yang Shao&#8208;Horn, Faisal M. Alamgir, Marta C. Hatzell</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01398</guid>
+    </item>
+    <item>
+      <title>Chemodivergent Tandem Hydroalkylation and Hydroalkenoxylation of Conjugated Enynes</title>
+      <link>https://doi.org/10.1021/acscatal.4c02377</link>
+      <description>Bowei Xie, Zhi&#8208;Tao He, ACS catalysis. None(None)] 2024. https://openalex.org/W4399672490
+
+                No abstract</description>
+      <author>Bowei Xie, Zhi&#8208;Tao He</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02377</guid>
+    </item>
+    <item>
+      <title>Defect-Mediated Cu&#8211;S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction with H&lt;sub&gt;2&lt;/sub&gt;O</title>
+      <link>https://doi.org/10.1021/acscatal.4c02857</link>
+      <description>Heng Cao, Xiaodi Zhu, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao, ACS catalysis. None(None)] 2024. https://openalex.org/W4399677145
+
+                No abstract</description>
+      <author>Heng Cao, Xiaodi Zhu, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02857</guid>
     </item>
   </channel>
 </rss>
