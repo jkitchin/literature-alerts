@@ -4,18 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Jun 2024 01:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:10:51 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Global variability in atmospheric new particle formation mechanisms</title>
-      <link>https://doi.org/10.1038/s41586-024-07547-1</link>
-      <description>Bin Zhao, Neil M. Donahue, Kai Zhang, L.Y. Mao, Manish Shrivastava, Po&#8208;Lun Ma, Jin Shen, Yafei Wang, Jian Sun, Hamish Gordon, Shuaiqi Tang, Jerome D. Fast, Mingyi Wang, Yang Gao, Chao Yan, Balwinder Singh, Zeqi Li, Lyuyin Huang, Sijia Lou, Guang Lin, Hailong Wang, Jingkun Jiang, Aijun Ding, Wei Nie, Ximeng Qi, Xiao-Hua Chi, Lin Wang, Nature. None(None)] 2024. https://openalex.org/W4399567254
+      <title>Membrane Development for CO2 Capture from Steel Manufacturing</title>
+      <link>https://doi.org/10.2172/2371810</link>
+      <description>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4399709804
 
-                Abstract A key challenge in aerosol pollution studies and climate change assessment is to understand how atmospheric aerosol particles are initially formed 1,2 . Although new particle formation (NPF) mechanisms have been described at specific sites 3&#8211;6 , in most regions, such mechanisms remain uncertain to a large extent because of the limited ability of atmospheric models to simulate critical NPF processes 1,7 . Here we synthesize molecular-level experiments to develop comprehensive representations of 11 NPF mechanisms and the complex chemical transformation of precursor gases in a fully coupled global climate model. Combined simulations and observations show that the dominant NPF mechanisms are distinct worldwide and vary with region and altitude. Previously neglected or underrepresented mechanisms involving organics, amines, iodine oxoacids and HNO 3 probably dominate NPF in most regions with high concentrations of aerosols or large aerosol radiative forcing; such regions include oceanic and human-polluted continental boundary layers, as well as the upper troposphere over rainforests and Asian monsoon regions. These underrepresented mechanisms also play notable roles in other areas, such as the upper troposphere of the Pacific and Atlantic oceans. Accordingly, NPF accounts for different fractions (10&#8211;80%) of the nuclei on which cloud forms at 0.5% supersaturation over various regions in the lower troposphere. The comprehensive simulation of global NPF mechanisms can help improve estimation and source attribution of the climate effects of aerosols.</description>
-      <author>Bin Zhao, Neil M. Donahue, Kai Zhang, L.Y. Mao, Manish Shrivastava, Po&#8208;Lun Ma, Jin Shen, Yafei Wang, Jian Sun, Hamish Gordon, Shuaiqi Tang, Jerome D. Fast, Mingyi Wang, Yang Gao, Chao Yan, Balwinder Singh, Zeqi Li, Lyuyin Huang, Sijia Lou, Guang Lin, Hailong Wang, Jingkun Jiang, Aijun Ding, Wei Nie, Ximeng Qi, Xiao-Hua Chi, Lin Wang</author>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41586-024-07547-1</guid>
+                No abstract</description>
+      <author>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2371810</guid>
     </item>
   </channel>
 </rss>

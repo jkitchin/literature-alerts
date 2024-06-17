@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Jun 2024 01:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:10:59 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Electrocatalytic reduction of CO2 to C2H4 by monometallic Cu4 cluster supported on CeO2(110) surface</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.06.060</link>
-      <description>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li, International journal of hydrogen energy. 73(None)] 2024. https://openalex.org/W4399466754
-
-                No abstract</description>
-      <author>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.060</guid>
-    </item>
     <item>
       <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
       <link>https://doi.org/10.1021/acscatal.4c01407</link>
@@ -66,6 +56,16 @@
       <author>Changjian Lin, Chang Yu, Junting Dong, Yingnan Han, Hongling Huang, Wenbin Li, Yafang Zhang, Xin Tan, Jieshan Qiu</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d3cs00822c</guid>
+    </item>
+    <item>
+      <title>Atomic rare earths activate direct O-O coupling in manganese oxide towards electrocatalytic oxygen evolution</title>
+      <link>https://doi.org/10.1016/j.nanoen.2024.109868</link>
+      <description>Meng Li, Xuan Wang, Di Zhang, Yu-Jie Huang, Yanjun Shen, Fei Pan, Jiaqi Lin, Yan Wang, Dongmei Sun, Kai Huang, Yawen Tang, Jongmin Lee, Hao Li, Gengtao Fu, Nano energy. None(None)] 2024. https://openalex.org/W4399507103
+
+                No abstract</description>
+      <author>Meng Li, Xuan Wang, Di Zhang, Yu-Jie Huang, Yanjun Shen, Fei Pan, Jiaqi Lin, Yan Wang, Dongmei Sun, Kai Huang, Yawen Tang, Jongmin Lee, Hao Li, Gengtao Fu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109868</guid>
     </item>
     <item>
       <title>CrN supported by carbon nanosheets as efficient catalysts toward oxygen reduction reaction and Zn-air batteries</title>
@@ -636,6 +636,96 @@
       <author>Meiyan Chen, Qingyu Li, Xinyue Xu, Diwen Liu, Zuju Ma, Yanxia Li, Yanjie Zhang, De&#8208;Jing Li, Qiang Chen, Rongjian Sa</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153133</guid>
+    </item>
+    <item>
+      <title>Density functional theory study of transition metal dual-atom anchored phthalocyanine as high-performance electrocatalysts for carbon dioxide reduction reaction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160532</link>
+      <description>Zhenzhen Wang, Aling Ma, Zhiyi Liu, Zongpeng Ding, Yushan Pang, Guohong Fan, Hong Xu, Applied surface science. None(None)] 2024. https://openalex.org/W4399697037
+
+                No abstract</description>
+      <author>Zhenzhen Wang, Aling Ma, Zhiyi Liu, Zongpeng Ding, Yushan Pang, Guohong Fan, Hong Xu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160532</guid>
+    </item>
+    <item>
+      <title>A review on fundamentals for designing hydrogen evolution electrocatalyst</title>
+      <link>https://doi.org/10.1016/j.jpowsour.2024.234856</link>
+      <description>M. A. Qadeer, Xiaoxue Zhang, Muhammad Asim Farid, Muhammad Tanveer, Yue Yan, Shangfeng Du, Zhen&#8208;Feng Huang, M.N. Tahir, Ji&#8208;Jun Zou, Journal of power sources. 613(None)] 2024. https://openalex.org/W4399699147
+
+                No abstract</description>
+      <author>M. A. Qadeer, Xiaoxue Zhang, Muhammad Asim Farid, Muhammad Tanveer, Yue Yan, Shangfeng Du, Zhen&#8208;Feng Huang, M.N. Tahir, Ji&#8208;Jun Zou</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jpowsour.2024.234856</guid>
+    </item>
+    <item>
+      <title>Impact of Nickel on Iridium&#8211;Ruthenium Structure and Activity for the Oxygen Evolution Reaction under Acidic Conditions</title>
+      <link>https://doi.org/10.1021/acsmaterialsau.4c00025</link>
+      <description>Erlend Bertheussen, Simon Pitscheider, Susan R. Cooper, Rebecca Pittkowski, Katrine L. Svane, Aline Bornet, Erik Wisaeus, Kirsten M. &#216;. Jensen, Jan Rossmeisl, Matthias Arenz, Christian Kalles&#248;e, Christoffer M&#248;lleskov Pedersen, ACS Materials Au. None(None)] 2024. https://openalex.org/W4399699268
+
+                No abstract</description>
+      <author>Erlend Bertheussen, Simon Pitscheider, Susan R. Cooper, Rebecca Pittkowski, Katrine L. Svane, Aline Bornet, Erik Wisaeus, Kirsten M. &#216;. Jensen, Jan Rossmeisl, Matthias Arenz, Christian Kalles&#248;e, Christoffer M&#248;lleskov Pedersen</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialsau.4c00025</guid>
+    </item>
+    <item>
+      <title>DFT study of the electrochemical CO2 reduction by Sc to Ni single atom catalysts implanted on the pristine and N-doped-H4,4,4-graphyne</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.132225</link>
+      <description>Azadeh Masiha, Adel Reisi&#8208;Vanani, Fuel. 372(None)] 2024. https://openalex.org/W4399702713
+
+                No abstract</description>
+      <author>Azadeh Masiha, Adel Reisi&#8208;Vanani</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132225</guid>
+    </item>
+    <item>
+      <title>Nanotubes and other nanostructures of VS2, WS2, and MoS2: Structural effects on the hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.apmt.2024.102288</link>
+      <description>Sunil R. Kadam, K. Manjunath, Saptarshi Ghosh, M. B. Sreedhara, Alevtina Neyman, Alexander Upcher, E. Roth, Lothar Houben, Alla Zak, Andrey N. Enyashin, Ronen Bar&#8208;Ziv, Maya Bar&#8208;Sadan, Applied materials today. 39(None)] 2024. https://openalex.org/W4399703633
+
+                No abstract</description>
+      <author>Sunil R. Kadam, K. Manjunath, Saptarshi Ghosh, M. B. Sreedhara, Alevtina Neyman, Alexander Upcher, E. Roth, Lothar Houben, Alla Zak, Andrey N. Enyashin, Ronen Bar&#8208;Ziv, Maya Bar&#8208;Sadan</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apmt.2024.102288</guid>
+    </item>
+    <item>
+      <title>Theoretical insights into efficient oxygen evolution reaction using non-noble metal single-atom catalysts on W2CO2 MXene</title>
+      <link>https://doi.org/10.1007/s12598-024-02838-y</link>
+      <description>Jing Zhou, Zhen Han, Shu Zhao, Tao Yang, De-Zhen Yan, Haijun Yu, Rare metals/Rare Metals. None(None)] 2024. https://openalex.org/W4399707735
+
+                No abstract</description>
+      <author>Jing Zhou, Zhen Han, Shu Zhao, Tao Yang, De-Zhen Yan, Haijun Yu</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02838-y</guid>
+    </item>
+    <item>
+      <title>Customized Electronic Modulations of Transition Metal Chalcogenide Electrodes Via Heterointerfacing/High&#8208;Valence Doping Toward High&#8208;Performance Water Electrolysis with Ampere&#8208;Level Current Density</title>
+      <link>https://doi.org/10.1002/adfm.202405262</link>
+      <description>Xinyu Qin, Bingyi Yan, Tianyu Chen, Zixuan Teng, Deok Ki Cho, Andi Haryanto, Heon Kil Lim, Chan Woo Lee, Yuanzhe Piao, Lin Xu, Jin Young Kim, Advanced functional materials. None(None)] 2024. https://openalex.org/W4399708438
+
+                Abstract Electrochemical water splitting offers an advancing approach to producing highly pure hydrogen and oxygen, motivated by the prevalence of a low&#8208;carbon economy and the goal of a sustainable future. The customized modulation of electronic structures enables the electrocatalyst to directionally promote hydrogen evolution reaction (HER) and oxygen evolution reaction (OER), which is a promising shortcut to overall water splitting (OWS). Herein, 3D homologous WSeS/CoSeS heterojunction nanoarrays (WSeS/CoSeS NAs) and W&#8208;doped CoSeS nanoarrays (W&#8208;CoSeS NAs) are investigated. Abundant heterointerfaces within WSeS/CoSeS NAs facilitate HER kinetics, boosting mass diffusivity, and increasing carrier separation and transfer process. High&#8208;valence W 6+ doping into CoSeS prevents phase separation and stabilizes Co sites by charge offset effect, leading to enhanced OER. Consequently, the WSeS/CoSeS NAs and W&#8208;CoSeS NAs reach 10 mA cm &#8722;2 at an overpotential of 43.8 and 233.3 mV in 1.0 m KOH electrolyte for HER and OER, respectively. Moreover, when asymmetrically engaged as an electrolyzer, this configuration exhibits extraordinary electrocatalytic performances (cell voltage of 1.51 V at 10 mA cm &#8722;2 ) with satisfying stability and mechanical robustness (over 1000 h at 1000 mA cm &#8722;2 ). The modulation and manufacture of reaction&#8208;property&#8208;oriented materials are experimentally and theoretically validated potential, illuminating the light of inspiration for multiple applications.</description>
+      <author>Xinyu Qin, Bingyi Yan, Tianyu Chen, Zixuan Teng, Deok Ki Cho, Andi Haryanto, Heon Kil Lim, Chan Woo Lee, Yuanzhe Piao, Lin Xu, Jin Young Kim</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202405262</guid>
+    </item>
+    <item>
+      <title>Homogeneous In&#8208;Plane Lattice Strain Enabling d&#8208;Band Center Modulation and Efficient d&#8211;&#960; Interaction for an Ag&lt;sub&gt;2&lt;/sub&gt;Mo&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;7&lt;/sub&gt; Cathode Catalyst With Ultralong Cycle Life in Li&#8208;O&lt;sub&gt;2&lt;/sub&gt; Batteries</title>
+      <link>https://doi.org/10.1002/aenm.202401509</link>
+      <description>Han Yu, Guoliang Zhang, Dongmei Zhang, Ruonan Yang, Xia Li, Xiuqi Zhang, Gang Lian, Hua Hou, Zhanhu Guo, Chuanxin Hou, Xiaoyang Yang, Feng Dang, Advanced energy materials. None(None)] 2024. https://openalex.org/W4399708604
+
+                Abstract Although lithium&#8211;oxygen batteries (LOBs) hold great promise as future energy storage systems, they are impeded by insulated discharge product Li 2 O 2 and sluggish oxygen reduction reaction/oxygen evolution revolution (ORR/OER) kinetics. The application of a highly efficient cathode catalyst determines the LOBs performance. The d&#8208;band modulation and catalytic kinetics promotion are important concept guidelines for the performance enhancement of cathode catalysts. In this work, the homogeneous in&#8208;plane distortion&#8208;derived synergistic catalytic capability of an Ag 2 Mo 2 O 7 catalyst with modulated d&#8208;band centers and promoted ORR/OER kinetics is demontrated. The uniform elongation of Ag&#9472;O bonds and compression of Mo&#9472;O bonds in (020) plane leads to d&#8208;band splitting and d&#8208;band center optimization and delivers improved adsorption behavior for high ORR/OER capability. Furthermore, the spatial and energy overlap of Ag d xz and O 2 anti&#8208;bonding &#960; * orbitals facilitate electron injection during ORR process and reduce the energy barrier for charge transfer and O 2 desorption during OER process, accelerating the ORR/OER kinetics. As a result, the (020) plane&#8208;exposed Ag 2 Mo 2 O 7 cathode exhibits ultralong cycle stability of 817 cycles at 500 mA g &#8722;1 and large specific discharge/charge capacities of 15898/15180 mAh g &#8722;1 . This work provides facile concept guidance for optimizing catalytic capability through controlled lattice distortion in cathode catalysts for LOBs.</description>
+      <author>Han Yu, Guoliang Zhang, Dongmei Zhang, Ruonan Yang, Xia Li, Xiuqi Zhang, Gang Lian, Hua Hou, Zhanhu Guo, Chuanxin Hou, Xiaoyang Yang, Feng Dang</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aenm.202401509</guid>
+    </item>
+    <item>
+      <title>Highly efficient photocatalytic performance of Z-scheme BTe/HfS2 heterostructure for H2O splitting</title>
+      <link>https://doi.org/10.1016/j.jcat.2024.115606</link>
+      <description>Lan He, Xing Long, Liyan Wang, Cheng Mi, Chaopeng Zhang, Keping Ma, Liang She, Ming Yu, Journal of catalysis. None(None)] 2024. https://openalex.org/W4399710354
+
+                No abstract</description>
+      <author>Lan He, Xing Long, Liyan Wang, Cheng Mi, Chaopeng Zhang, Keping Ma, Liang She, Ming Yu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115606</guid>
     </item>
     <item>
       <title>Computational Design of 2D Phosphorus Nanostructures for Renewable Energy Applications: A Review</title>

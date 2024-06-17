@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 Jun 2024 01:13:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 01:10:46 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -56,6 +56,16 @@
       <author>Zhixiang Chang</author>
       <pubDate>Tue, 27 Feb 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54097/q9zcxs49</guid>
+    </item>
+    <item>
+      <title>Density functional theory study of transition metal dual-atom anchored phthalocyanine as high-performance electrocatalysts for carbon dioxide reduction reaction</title>
+      <link>https://doi.org/10.1016/j.apsusc.2024.160532</link>
+      <description>Zhenzhen Wang, Aling Ma, Zhiyi Liu, Zongpeng Ding, Yushan Pang, Guohong Fan, Hong Xu, Applied surface science. None(None)] 2024. https://openalex.org/W4399697037
+
+                No abstract</description>
+      <author>Zhenzhen Wang, Aling Ma, Zhiyi Liu, Zongpeng Ding, Yushan Pang, Guohong Fan, Hong Xu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.apsusc.2024.160532</guid>
     </item>
     <item>
       <title>Novel pyrochlore type europium stannate &#8211; tungsten disulfide heterostructure for light driven carbon dioxide reduction and nitrogen fixation</title>
@@ -148,14 +158,14 @@
       <guid isPermaLink="true">https://doi.org/10.1002/chem.202401714</guid>
     </item>
     <item>
-      <title>Electrocatalytic reduction of CO2 to C2H4 by monometallic Cu4 cluster supported on CeO2(110) surface</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.06.060</link>
-      <description>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li, International journal of hydrogen energy. 73(None)] 2024. https://openalex.org/W4399466754
+      <title>Polyacrylate modified Cu electrode for selective electrochemical CO2 reduction towards multicarbon products</title>
+      <link>https://doi.org/10.1016/j.scib.2024.06.014</link>
+      <description>Yujun Shi, Kaini Zhang, Chung&#8208;Li Dong, Ta Thi Thuy Nga, Miao Wang, Dequan Wei, Jialin Wang, Yiqing Wang, Shaohua Shen, Science Bulletin. None(None)] 2024. https://openalex.org/W4399698002
 
                 No abstract</description>
-      <author>Ping Liu, Zhu Hai-yan, Baiyue Li, Chen Wu, Jia Shi, Bingbing Suo, Wenli Zou, Yawei Li</author>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.060</guid>
+      <author>Yujun Shi, Kaini Zhang, Chung&#8208;Li Dong, Ta Thi Thuy Nga, Miao Wang, Dequan Wei, Jialin Wang, Yiqing Wang, Shaohua Shen</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.scib.2024.06.014</guid>
     </item>
     <item>
       <title>Electrochemical reduction of CO2: A roadmap to formic and acetic acid synthesis for efficient hydrogen storage</title>
@@ -166,16 +176,6 @@
       <author>M. Orli&#263;, Christoph Hochenauer, Rajesh Nagpal, Vanja Suboti&#263;</author>
       <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.enconman.2024.118601</guid>
-    </item>
-    <item>
-      <title>Electro-reductive carboxylation of C Cl bonds in unactivated alkyl chlorides and polyvinyl chloride with CO2</title>
-      <link>https://doi.org/10.1016/j.cclet.2024.110104</link>
-      <description>Li Li, Zhang Yan, Chuan&#8208;Kun Ran, Yi Liu, Shuo Zhang, Ting Gao, Long&#8208;Fei Dai, Li&#8208;Li Liao, Jian&#8208;Heng Ye, Da&#8208;Gang Yu, Chinese Chemical Letters/Chinese chemical letters. None(None)] 2024. https://openalex.org/W4399458567
-
-                No abstract</description>
-      <author>Li Li, Zhang Yan, Chuan&#8208;Kun Ran, Yi Liu, Shuo Zhang, Ting Gao, Long&#8208;Fei Dai, Li&#8208;Li Liao, Jian&#8208;Heng Ye, Da&#8208;Gang Yu</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cclet.2024.110104</guid>
     </item>
     <item>
       <title>Efficient reduction of CO2 and inhibition of hydrogen precipitation by polymetallic oxalate photocatalysts modified with the metal Mn</title>
@@ -196,6 +196,16 @@
       <author>Wenxiao Guo, Beichen Liu, S. Anderson, S. Johnstone, Matthew A. Gebbie</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta02903h</guid>
+    </item>
+    <item>
+      <title>Stabilizing Cu0/Cu2+ interface by hydroxy-rich amorphous SiO2 for enhanced electrocatalytic CO2 reduction to ethylene</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153189</link>
+      <description>Jing Zhu, Sifan Wang, Jiaji Zhang, Zhecheng Fang, Wen-Juan Ji, Gaobo Lin, Linna Guo, Bolong Li, Jianghao Wang, Jie Fu, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399697066
+
+                No abstract</description>
+      <author>Jing Zhu, Sifan Wang, Jiaji Zhang, Zhecheng Fang, Wen-Juan Ji, Gaobo Lin, Linna Guo, Bolong Li, Jianghao Wang, Jie Fu</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153189</guid>
     </item>
     <item>
       <title>Creation of intrinsic defects on ZIF-8 particles to facilitate electrochemical reduction of CO2 over Fe single-atom catalyst</title>
@@ -236,6 +246,16 @@
       <author>Hui-Ling Shui, Xin Wei, Chao Fu, Dong-Heng Li, Xiaoqin Liang, Kai Li, Laicai Li, Yan Zheng</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4865428</guid>
+    </item>
+    <item>
+      <title>DFT study of the electrochemical CO2 reduction by Sc to Ni single atom catalysts implanted on the pristine and N-doped-H4,4,4-graphyne</title>
+      <link>https://doi.org/10.1016/j.fuel.2024.132225</link>
+      <description>Azadeh Masiha, Adel Reisi&#8208;Vanani, Fuel. 372(None)] 2024. https://openalex.org/W4399702713
+
+                No abstract</description>
+      <author>Azadeh Masiha, Adel Reisi&#8208;Vanani</author>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.fuel.2024.132225</guid>
     </item>
     <item>
       <title>Novel iodide-modified bismuth molybdate quantum dot/monolayer graphene (0D/2D) heterojunction for efficient photothermal catalytic reduction of CO2</title>
@@ -288,16 +308,6 @@
       <guid isPermaLink="true">https://doi.org/10.3390/su16125044</guid>
     </item>
     <item>
-      <title>Oxygen&#8208;tolerant CO2 Electrocatalysis</title>
-      <link>https://doi.org/10.1002/cctc.202400659</link>
-      <description>Hongfei Zhu, Hui Guo, Rong Cao, Yuan&#8211;Biao Huang, ChemCatChem. None(None)] 2024. https://openalex.org/W4399465290
-
-                The electrochemical carbon dioxide reduction reaction (CO2RR) to generate high&#8208;value products is considered to be a promising approach to reduce the atmospheric concentration of CO2. However, the pure CO2 gas is generally required in the most of the reported CO2RR system, which brings tedious capture and separation procedures and high cost. The utilization of realistic CO2 emission directly such as flue gas for the CO2RR is highly desirable. However, the gas impurities in the real CO2 sources such as oxygen could seriously affect the activity and selectivity of the CO2RR. This concept summarizes the recently reported works about CO2RR studies in the presence of O2 and highlights the physical and chemical strategies to boost CO2 electroreduction performance. We further discuss the implications of these strategies for future progress in this emerging field.</description>
-      <author>Hongfei Zhu, Hui Guo, Rong Cao, Yuan&#8211;Biao Huang</author>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400659</guid>
-    </item>
-    <item>
       <title>Facet-switching of rate-determining step on copper in CO &lt;sub&gt;2&lt;/sub&gt; -to-ethylene electroreduction</title>
       <link>https://doi.org/10.1073/pnas.2400546121</link>
       <description>Yu-Cai Zhang, Xiaolong Zhang, Zhi-Zheng Wu, Zhuang&#8208;Zhuang Niu, Li&#8208;Ping Chi, Fei&#8208;Yue Gao, Peng&#8208;Peng Yang, Ye-Hua Wang, Peiping Yu, Jing-Wen DuanMu, Shuping Sun, Min&#8208;Rui Gao, Proceedings of the National Academy of Sciences of the United States of America. 121(25)] 2024. https://openalex.org/W4399480959
@@ -348,6 +358,16 @@
       <guid isPermaLink="true">https://doi.org/10.5194/cp-20-1327-2024</guid>
     </item>
     <item>
+      <title>Pathway to Decarbonization Through Industrial Energy Efficiency: Micro and Macro Perspectives from Compressed Air Usage</title>
+      <link>https://doi.org/10.1007/s40684-024-00638-4</link>
+      <description>M.J. McNelly, Jun&#8208;Ki Choi, International journal of precision engineering and manufacturing. Green engineering/International journal of precision engineering and manufacturing green technology. None(None)] 2024. https://openalex.org/W4399698466
+
+                Abstract Energy audits directly provided the industrial sector with reduced energy costs and avoided emissions. Still, they also lead to far-reaching indirect and induced local, regional, and national benefits. This paper aims to present the techno-economic-environmental analysis to achieve decarbonization through implementing industrial energy efficiency at micro and macro levels. An integrated techno-economic-environmental methodology is developed. Case studies of micro-level carbon reduction efforts through industrial energy efficiency technologies are presented. The broader macroeconomic and environmental effects of technology on society are analyzed using data from 206 energy audits of industrial compressed air systems conducted over 13 years. The impacts show that energy-efficient improvements lead to direct cost savings for manufacturers, boost economic activity across sectors, and affect carbon dioxide emissions both short-term and long-term in the region. Given their extensive benefits, energy audits significantly influence policymaking. We devised a methodology to link micro-level energy audit data with macroeconomic and environmental analyses to quantify these cascading benefits. The economic scenario analysis shows that $228 M has been saved from direct industrial energy savings from implementing all compressed air recommendations in the studied periods and the region. In addition, the investment made through manufacturers would create 2,025 jobs and $383 M annually, cascading regional economic impacts. The environmental analysis shows that the regional manufacturers have directly avoided about 2.8 M metric tons of carbon dioxide emissions.</description>
+      <author>M.J. McNelly, Jun&#8208;Ki Choi</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1007/s40684-024-00638-4</guid>
+    </item>
+    <item>
       <title>Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China</title>
       <link>https://doi.org/10.3389/fenvs.2024.1342321</link>
       <description>Liyang Xiong, Yiyi Shu, Xuefeng Li, Frontiers in environmental science. 12(None)] 2024. https://openalex.org/W4399524116
@@ -366,6 +386,26 @@
       <author>&#1045;. &#1040;. &#1050;&#1086;&#1079;&#1083;&#1086;&#1074;&#1072;, Alena Pavlovna Demidova, Lyalya Edilsultanova</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453706011</guid>
+    </item>
+    <item>
+      <title>Sufficiency as relations of enoughness</title>
+      <link>https://doi.org/10.1002/sd.3090</link>
+      <description>Eric Hartmann, Sustainable development. None(None)] 2024. https://openalex.org/W4399704098
+
+                Abstract An expanding body of literature discusses the importance of sufficiency for sustainable development. However, conceptual vagueness stands in the way of the practical application of sufficiency as a sustainability strategy. The main contribution of this paper is the introduction of the concept of relations of enoughness , building on the general notion of &#8216;enough&#8217;, which is prevalent in sufficiency literature. Relations of enoughness will be explained based on the widespread use of sufficiency advocating for changes and reductions of individual consumption with the goal to reduce environmental impacts such as carbon dioxide emissions. Diverse uses and understandings of sufficiency can be united in a shared structure of &#8216;enough/too much/too little of X regarding Y&#8217;. Relations of enoughness can be connected to sustainability by expanding them into chains of enoughness , which serve as a conceptual foundation for the sustainable consumption corridor approach. Finally, the premises of sufficiency and potential for further research are discussed.</description>
+      <author>Eric Hartmann</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/sd.3090</guid>
+    </item>
+    <item>
+      <title>An optimised cell for in situ XAS of gas diffusion electrocatalyst electrodes</title>
+      <link>https://doi.org/10.1002/cctc.202400221</link>
+      <description>Connor Sherwin, Ver&#243;nica Celorrio, Ur&#353;a Podbev&#353;ek, Katie Rigg, Toby Hodges, Armando Ibraliu, Abbey Telfer, Lucy K. McLeod, Alessandro Difilippo, E.C. Corbos, Christopher Mark Zalitis, Andrea E. Russell, ChemCatChem. None(None)] 2024. https://openalex.org/W4399697399
+
+                The quality of in situ XAS of electrochemical systems is highly sensitive to electrode disturbances, such as gas evolution and gas consumption at an electrolyte / catalyst interface. A novel in situ spectro&#8208;electrochemical X&#8208;ray absorption spectroscopy cell is presented as a new tool for the characterisation of gas evolving and consuming electrocatalysts at high overpotentials. By utilising a thin, porous membrane with efficient electrolyte and gas circulating loops, an improved three phase interface that enabled efficient gas supply and minimised the interference from bubble formation. X&#8208;ray absorption spectroscopy measurements were conducted in fluorescence mode with three experiments selected to demonstrate the cell&#8217;s performance. The first two reactions; an in&#8208;situ study of a highly active amorphous iridium oxide catalyst during the oxygen evolution reaction and an in&#8208;situ study of copper oxide during the carbon dioxide reduction reaction are used to exemplify the XAS data quality achieved under operational conditions. Thirdly, a detailed XAS investigation of a highly dispersed platinum catalyst during the oxygen reduction reaction is presented, along with comparative data in nitrogen. These measurements show the retention of oxygen on the surface of the platinum metal particles down to 0.48 V (vs. RHE), well below the platinum oxide reduction peak.</description>
+      <author>Connor Sherwin, Ver&#243;nica Celorrio, Ur&#353;a Podbev&#353;ek, Katie Rigg, Toby Hodges, Armando Ibraliu, Abbey Telfer, Lucy K. McLeod, Alessandro Difilippo, E.C. Corbos, Christopher Mark Zalitis, Andrea E. Russell</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/cctc.202400221</guid>
     </item>
     <item>
       <title>Life time of Reinforced Concrete floors of industrial buildings, connected with the use of chlorine</title>
@@ -418,6 +458,16 @@
       <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453707013</guid>
     </item>
     <item>
+      <title>Advancements and Challenges in the Synthesis of Oxymethylene Ethers (OMEs) as Sustainable Transportation Fuels</title>
+      <link>https://doi.org/10.1002/chem.202401570</link>
+      <description>Robert Geitner, Timo Schuett, Stefan Zechel, Ulrich S. Schubert, Chemistry. None(None)] 2024. https://openalex.org/W4399709131
+
+                The urgent need for sustainable alternatives to fossil fuels in the transportation sector is driving research into novel energy carriers that can meet the high energy density requirements of heavy&#8208;duty vehicles without exacerbating the climate change. This concept article examines the synthesis, mechanisms, and challenges associated with oxymethylene ethers (OMEs), a promising class of synthetic fuels potentially derived from carbon dioxide and hydrogen. We highlight the importance of OMEs in the transition towards non&#8208;fossil energy sources due to their compatibility with the existing Diesel infrastructure and their cleaner combustion profile. The synthesis mechanisms, including the Schulz&#8208;Flory distribution and its implications for OME chain length specificity, and the role of various catalysts and starting materials are discussed in depth. Despite advancements in the field, significant challenges remain, such as overcoming the Schulz&#8208;Flory distribution, efficiently managing water byproducts, and improving the overall energy efficiency of the OME synthesis. Addressing these challenges is crucial for OMEs to become a viable alternative fuel, contributing to the reduction of greenhouse gas emissions and the transition to a sustainable energy future in the transportation sector.</description>
+      <author>Robert Geitner, Timo Schuett, Stefan Zechel, Ulrich S. Schubert</author>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/chem.202401570</guid>
+    </item>
+    <item>
       <title>Feasibility and Techno-Economic Assessment of a 128kWp Grid-Tied SPV System using HOMER Pro</title>
       <link>https://doi.org/10.1088/1742-6596/2777/1/012008</link>
       <description>Akhlaque Ahmad Khan, Ahmad Faiz Minai, Mohammad Atif Siddiqui, Journal of physics. Conference series. 2777(1)] 2024. https://openalex.org/W4399681222
@@ -436,6 +486,16 @@
       <author>Rasmeet Singh, Lizhuo Wang, Jun Huang</author>
       <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/cplu.202300511</guid>
+    </item>
+    <item>
+      <title>A CASE STUDY ON MAN-MADE HAZARDS IN THE INDIAN CONTEXT: ENVIRONMENTAL IMPACT AND THEIR MITIGATION MEASURES</title>
+      <link>https://doi.org/10.58532/v3bice4p6ch2</link>
+      <description>Awanish Kumar, Yash R. Pawar, Om Rastogi, Kamlesh Kumar Gupta, N. K. Garg, No host. None(None)] 2024. https://openalex.org/W4399706757
+
+                This paper examines the environmental consequences of man-made hazards in India and proposes strategies to mitigate their effects and prevent future disasters. While the country is no stranger to natural calamities, man-made incidents such as nuclear power plant accidents, industrial pollution, and environmental degradation due to deforestation have become increasingly prevalent. As per the WHO (World Health Organization) annual report of 2020, over seven million people die annually from air pollution caused by hazardous chemicals, while another one million perish due to waterborne diseases, primarily in developing countries with high population density. Global warming fueled by excessive fossil fuel consumption and deforestation, contributes to climate change and weather-related disasters such as droughts and floods. To address this issue the paper advocates for a reduction in fossil fuel dependency and transmission to renewable energy sources such as solar and wind power. The paper also highlights how we can mitigate the effect of such hazards and what measures must be taken to avoid this kind of disaster. The paper highlights the benefit of large-scale afforestation efforts, particularly in tropical rain forests, to increase Earth&#8217;s green cover and counteract the rise in atmospheric carbon dioxide concentrations. By implementing these mitigation measures, India can move towards a more sustainable and environmentally resilient future.</description>
+      <author>Awanish Kumar, Yash R. Pawar, Om Rastogi, Kamlesh Kumar Gupta, N. K. Garg</author>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.58532/v3bice4p6ch2</guid>
     </item>
     <item>
       <title>A Synergic investigation of Experimental and Computational Dual Atom Electrocatalysis for CO2 Conversion to C1 and C2+ products</title>
@@ -488,16 +548,6 @@
       <guid isPermaLink="true">https://doi.org/10.1111/ijd.17304</guid>
     </item>
     <item>
-      <title>Best practices and innovations in carbon capture and storage (CCS) for effective CO2 storage</title>
-      <link>https://doi.org/10.51594/ijarss.v6i6.1212</link>
-      <description>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe, International journal of applied research in social sciences. 6(6)] 2024. https://openalex.org/W4399652834
-
-                Carbon capture and storage (CCS) has emerged as a critical technology in the fight against climate change, offering a viable pathway to mitigate CO2 emissions from industrial processes and power generation. This review explores the best practices and innovations in CCS for effective CO2 storage, highlighting key strategies and advancements that optimize storage capacity, enhance storage security, and minimize environmental risks. The review begins by delineating the importance of CCS in reducing greenhouse gas emissions and meeting global climate targets. It underscores the urgency of deploying CCS technologies at scale to address the dual challenge of decarbonizing energy systems and ensuring energy security. Drawing upon recent research and industry developments, the review elucidates best practices in CO2 capture, transport, and storage, emphasizing the importance of integrated and holistic approaches. It discusses advancements in CO2 capture technologies, including post-combustion capture, pre-combustion capture, and oxy-fuel combustion, highlighting efficiency improvements and cost reduction strategies. Furthermore, the review delves into innovations in CO2 storage techniques, such as geological storage, ocean storage, and mineralization, evaluating their respective advantages, challenges, and scalability. It explores best practices for site selection, characterization, and monitoring, emphasizing the need for robust risk assessment frameworks and regulatory oversight to ensure the safety and integrity of storage sites. Moreover, the review examines emerging trends and innovations in CCS, including enhanced oil recovery (EOR) using CO2, direct air capture (DAC) technologies, and carbon utilization and storage (CCUS) initiatives. It discusses the potential synergies between CCS and renewable energy technologies, highlighting integrated solutions that leverage CCS to enable the decarbonization of hard-to-abate sectors such as heavy industry and aviation. The review underscores the pivotal role of CCS in achieving deep decarbonization and transitioning to a low-carbon economy. It calls for continued research, investment, and collaboration to unlock the full potential of CCS technologies and accelerate their deployment at scale. By embracing best practices and fostering innovation, stakeholders can pave the way for effective CO2 storage and contribute to global efforts to combat climate change. Keywords: Best Practices, Innovation, Carbon, Capture, Storage, CO2.</description>
-      <author>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe</author>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.51594/ijarss.v6i6.1212</guid>
-    </item>
-    <item>
       <title>How much methane removal is required to avoid overshooting 1.5&#176;C?</title>
       <link>https://doi.org/10.1088/1748-9326/ad5853</link>
       <description>Christopher J. Smith, Camilla Mathison, Environmental research letters. None(None)] 2024. https://openalex.org/W4399659359
@@ -508,6 +558,16 @@
       <guid isPermaLink="true">https://doi.org/10.1088/1748-9326/ad5853</guid>
     </item>
     <item>
+      <title>Best practices and innovations in carbon capture and storage (CCS) for effective CO2 storage</title>
+      <link>https://doi.org/10.51594/ijarss.v6i6.1212</link>
+      <description>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe, International journal of applied research in social sciences. 6(6)] 2024. https://openalex.org/W4399652834
+
+                Carbon capture and storage (CCS) has emerged as a critical technology in the fight against climate change, offering a viable pathway to mitigate CO2 emissions from industrial processes and power generation. This review explores the best practices and innovations in CCS for effective CO2 storage, highlighting key strategies and advancements that optimize storage capacity, enhance storage security, and minimize environmental risks. The review begins by delineating the importance of CCS in reducing greenhouse gas emissions and meeting global climate targets. It underscores the urgency of deploying CCS technologies at scale to address the dual challenge of decarbonizing energy systems and ensuring energy security. Drawing upon recent research and industry developments, the review elucidates best practices in CO2 capture, transport, and storage, emphasizing the importance of integrated and holistic approaches. It discusses advancements in CO2 capture technologies, including post-combustion capture, pre-combustion capture, and oxy-fuel combustion, highlighting efficiency improvements and cost reduction strategies. Furthermore, the review delves into innovations in CO2 storage techniques, such as geological storage, ocean storage, and mineralization, evaluating their respective advantages, challenges, and scalability. It explores best practices for site selection, characterization, and monitoring, emphasizing the need for robust risk assessment frameworks and regulatory oversight to ensure the safety and integrity of storage sites. Moreover, the review examines emerging trends and innovations in CCS, including enhanced oil recovery (EOR) using CO2, direct air capture (DAC) technologies, and carbon utilization and storage (CCUS) initiatives. It discusses the potential synergies between CCS and renewable energy technologies, highlighting integrated solutions that leverage CCS to enable the decarbonization of hard-to-abate sectors such as heavy industry and aviation. The review underscores the pivotal role of CCS in achieving deep decarbonization and transitioning to a low-carbon economy. It calls for continued research, investment, and collaboration to unlock the full potential of CCS technologies and accelerate their deployment at scale. By embracing best practices and fostering innovation, stakeholders can pave the way for effective CO2 storage and contribute to global efforts to combat climate change. Keywords: Best Practices, Innovation, Carbon, Capture, Storage, CO2.</description>
+      <author>Andrew Emuobosa Esiri, Dazok Donald Jambol, Chinwe Ozowe</author>
+      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.51594/ijarss.v6i6.1212</guid>
+    </item>
+    <item>
       <title>Prioritizing Target Motorcycle Owners to Promote Electric Vehicles Among Motorcycle Taxi Drivers in Bangkok</title>
       <link>https://doi.org/10.54028/nj202423409</link>
       <description>Ornicha Anuchitchanchai, Saksith Chalermpong, Nakhara : Journal of Environmental Design and Planning. 23(2)] 2024. https://openalex.org/W4399571013
@@ -516,16 +576,6 @@
       <author>Ornicha Anuchitchanchai, Saksith Chalermpong</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.54028/nj202423409</guid>
-    </item>
-    <item>
-      <title>Vehicle greenhouse gas emission factors based on multi-dimensional Bin interval mode</title>
-      <link>https://doi.org/10.1051/e3sconf/202453601009</link>
-      <description>Rui Wu, Hao Zhang, Di Yang, Yu Liu, Hanzhengnan Yu, X. Zhang, Xueyin An, Kunqi Ma, Yongkai Liang, Hang Xu, E3S web of conferences. 536(None)] 2024. https://openalex.org/W4399503982
-
-                The emission factors of greenhouse gases from motor vehicles are of significant importance for low-carbon and environmentally friendly initiatives. This paper focuses on greenhouse gas emission factors of heavy-duty vehicles. The multi-dimensional Bin interval mode are proposed, which considers multiple parameters such as vehicle speed, acceleration, torque, and rotational speed. Based on this, the emission characteristics of greenhouse gases from heavy-duty vehicles. are investigated under different parameter conditions. The results indicate that as the VSPA value or the engine torque increases, the CO2 emission factor also increases accordingly. The CO2 emission factor is lower at medium to high rotational speeds, while it tends to increase at low rotational speeds. The research findings provide support for monitoring and evaluating greenhouse gas emissions and offer scientific guidance for formulating specific carbon reduction policies, emission targets, and plans.</description>
-      <author>Rui Wu, Hao Zhang, Di Yang, Yu Liu, Hanzhengnan Yu, X. Zhang, Xueyin An, Kunqi Ma, Yongkai Liang, Hang Xu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453601009</guid>
     </item>
     <item>
       <title>Electrochemistry in Action: Iron and Steel Manufacturing</title>
@@ -546,6 +596,16 @@
       <author>Jordyn Janusz, Joshua A. Beeler, Seyyedamirhossein Hosseini, Mayank Tanwar, Rui Zeng, Hongsen Wang, H&#233;ctor D. Abru&#241;a, Matthew Neurock, Henry White</author>
       <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-3149c</guid>
+    </item>
+    <item>
+      <title>Vehicle greenhouse gas emission factors based on multi-dimensional Bin interval mode</title>
+      <link>https://doi.org/10.1051/e3sconf/202453601009</link>
+      <description>Rui Wu, Hao Zhang, Di Yang, Yu Liu, Hanzhengnan Yu, X. Zhang, Xueyin An, Kunqi Ma, Yongkai Liang, Hang Xu, E3S web of conferences. 536(None)] 2024. https://openalex.org/W4399503982
+
+                The emission factors of greenhouse gases from motor vehicles are of significant importance for low-carbon and environmentally friendly initiatives. This paper focuses on greenhouse gas emission factors of heavy-duty vehicles. The multi-dimensional Bin interval mode are proposed, which considers multiple parameters such as vehicle speed, acceleration, torque, and rotational speed. Based on this, the emission characteristics of greenhouse gases from heavy-duty vehicles. are investigated under different parameter conditions. The results indicate that as the VSPA value or the engine torque increases, the CO2 emission factor also increases accordingly. The CO2 emission factor is lower at medium to high rotational speeds, while it tends to increase at low rotational speeds. The research findings provide support for monitoring and evaluating greenhouse gas emissions and offer scientific guidance for formulating specific carbon reduction policies, emission targets, and plans.</description>
+      <author>Rui Wu, Hao Zhang, Di Yang, Yu Liu, Hanzhengnan Yu, X. Zhang, Xueyin An, Kunqi Ma, Yongkai Liang, Hang Xu</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1051/e3sconf/202453601009</guid>
     </item>
     <item>
       <title>The Electrochemical Peroxydisulfate-Oxalate Autocatalytic Reaction</title>
@@ -726,6 +786,16 @@
       <author>Xizhong Shen, Wook Song, Yang Cao, Xiuxiang Jiao, Youwen Zhu, Cholsoon Jang, Qin Yang</author>
       <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.2337/db24-1512-p</guid>
+    </item>
+    <item>
+      <title>The Impact Measurement and Application of Conservation System (IMACS): A Review of a Framework for Impact Measurement, Application of Conservation and a Return to Sustainable Conditions</title>
+      <link>https://doi.org/10.31223/x5dd6j</link>
+      <description>Vincent Dert, No host. None(None)] 2024. https://openalex.org/W4399701908
+
+                The Impact Measurement and Application of Conservation System (IMACS) was recently described in ten preprint papers. IMACS represents the first &#8220;first principals&#8221; based system for measurement of damaging and conserving impacts and the calculation of sustainabilities for products, services and individuals. IMACS distinguishes &#8220;participating&#8221; and &#8220;non-participating&#8221; individuals, organizations and their products and services. IMACS automatically assigns damaging impacts to individuals, products and services. Under IMACS, each generator of impacts &#8220;owns&#8221; their impacts, while impacts are transferred with products sold or distributed. For the fully implemented and participating world, all impacts will be determined accurately using a combination of (mostly) remote sensing and (increasingly less) ground/sea level-based verification and straightforward calculations. For the initial application, all impacts will be estimated using a statistical approach, where products, services and individuals with higher impact uncertainty are assigned higher impacts. Participating organizations can select lower cost estimation methods leading to higher estimated impacts and vice versa. Under IMACS, each event creating additional impacts, represents an additional supply chain step. This makes it easy to follow each product throughout the supply chain until it&#8217;s purchase by the end-user consumer. Due to the level of automation used, the impact estimation/determination can be done at very low costs, much lower than using life cycle assessment (LCA) or input-output analysis methods. Resource using, damaging, protecting and restoring impacts are distributed over eleven impact groups. Conservation is made available by for-profit and non-profit organizations and distributed by IMACS licensed organizations as &#8220;Title-to-Conservation&#8221; (TTC). Neutralizing amounts of conservation are applied to participating products and services purchased by participating consumers. Due to the shortage of conservation as TTC, initially none to very little TTC can be applied, leading to initially very low retailer or supply chain costs expressed as percentage of sales. However, the sale of TTC at market prices will allow the exponential growth of the conservation industry and create strong incentives for reduction of resource using and elimination of damaging impacts throughout the supply chain. Increasing consumer demand for products &#8220;free of impacts&#8221; (after impact neutralization through application of TTC) will force supply chain participation, creating a &#8220;new normal&#8221; where the supply chain pays for the costs of conservation. Using this approach and a twenty-year transition period to full societal participation, return to pre-industrial atmospheric conditions can be achieved in 40 &#8211; 60 years, greatly limiting damage from climate change, while saving costs. The same applies to all impact groups, greatly limiting environmental damage, biodiversity loss and reducing human suffering and premature deaths. A review of marketing studies indicates that the model assumptions used for societal participation are conservative. The use of certified and licensed for profit businesses for most tasks within IMACS allows a rapid global roll-out and scale-up of IMACS functionality. The system has the potential to create very large amounts of funding for conservation, and potentially allows a relative fast return to pre-industrial environmental conditions, while improving human conditions and saving costs. By participating in IMACS, individuals and organizations can eliminate current CO2 emissions, neutralize historic CO2 emissions, provide adequate fresh water for ecosystems, protect wildlife areas and their biodiversity, save money and improve their competitive position. IMACS, by assigning the costs of conservation (protection and restoration) to individuals and organizations responsible for the damage done, can effectively address and solve the classic &#8220;tragedy of the commons&#8221;.</description>
+      <author>Vincent Dert</author>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.31223/x5dd6j</guid>
     </item>
   </channel>
 </rss>
