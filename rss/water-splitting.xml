@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/water-splitting.xml</link>
     <description>water splitting papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jun 2024 01:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 01:08:57 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Ru nanocrystals modified porous FeOOH nanostructures with open 3D interconnected architecture supported on NiFe foam as high&#8208;performance electrocatalyst for oxygen evolution reaction and electrocatalytic urea oxidation</title>
-      <link>https://doi.org/10.1016/j.jcis.2024.06.056</link>
-      <description>Peng Zhao, Qiancheng Liu, Xulin Yang, Sudong Yang, Chen Lin, Jing Zhu, Qian Zhang, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399470562
-
-                No abstract</description>
-      <author>Peng Zhao, Qiancheng Liu, Xulin Yang, Sudong Yang, Chen Lin, Jing Zhu, Qian Zhang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.056</guid>
-    </item>
     <item>
       <title>Waste tobacco-derived N, P dual-doped porous carbon loaded with heterostructured CoFe/CoFe2O4 nanoparticles for efficient oxygen electrocatalysis and Zn-air batteries</title>
       <link>https://doi.org/10.1016/j.materresbull.2024.112945</link>
@@ -588,6 +578,16 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.jelechem.2024.118445</guid>
     </item>
     <item>
+      <title>Advances in the design of highly stable NiFe-LDH electrocatalysts for oxygen evolution in seawater</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153187</link>
+      <description>Xue-Jun Zhai, Qian&#8208;Xi Lv, Jingyi Xie, Jintao Zhang, Yong&#8208;Ming Chai, Bin Dong, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399717722
+
+                No abstract</description>
+      <author>Xue-Jun Zhai, Qian&#8208;Xi Lv, Jingyi Xie, Jintao Zhang, Yong&#8208;Ming Chai, Bin Dong</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153187</guid>
+    </item>
+    <item>
       <title>High Entropy Materials for Oxygen Evolution Reactions</title>
       <link>https://doi.org/10.1201/9781003391388-11</link>
       <description>Bhagyashri B. Kamble, Arun Karmakar, Subrata Kundu, CRC Press eBooks. None(None)] 2024. https://openalex.org/W4399537582
@@ -636,6 +636,16 @@
       <author>Qianyun Bai, Da Li, Xiaoxiao Yan, Peifang Guo, Xingyu Ding, Kang Xiang, Xin Tu, Y. P. Guo, Renbing Wu</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsmaterialslett.4c00716</guid>
+    </item>
+    <item>
+      <title>Site Specific Descriptor for Oxygen Evolution Reaction Activity on Single Atom Catalysts Using QMML</title>
+      <link>https://doi.org/10.1039/d4ta02610a</link>
+      <description>E. S. Erakulan, Satadal Ghosh, Ranjit Thapa, Journal of materials chemistry. A. None(None)] 2024. https://openalex.org/W4399718058
+
+                Descriptors are properties or parameters of a material that is used to explain any catalytic activity both computationally and experimentally. Such descriptors aid in designing the material&#8217;s property to obtain...</description>
+      <author>E. S. Erakulan, Satadal Ghosh, Ranjit Thapa</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1039/d4ta02610a</guid>
     </item>
     <item>
       <title>Petaloid Nife-Spinel Oxides with Nitrogen-Doped Carbon Quantum Dots for Enhanced Oxygen Evolution Activity</title>
@@ -786,6 +796,16 @@
       <author>Daniel Kobina Sam, Yan Cao</author>
       <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c06141</guid>
+    </item>
+    <item>
+      <title>N-regulated three-dimensional turf-like carbon nanosheet loaded with FeCoNi nanoalloys as bifunctional electrocatalysts for durable zinc-air batteries</title>
+      <link>https://doi.org/10.1016/j.jcis.2024.06.066</link>
+      <description>Wenju Xie, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Journal of colloid and interface science. 673(None)] 2024. https://openalex.org/W4399556166
+
+                N-regulated three-dimensional (3D) turf-like carbon material loaded with FeCoNi nanoalloys (F-CNS-CNT), composed of carbon nanotubes (CNT) grown in situ on carbon nanosheets(CNS), was synthesized using a low-temperature solution combustion method and organic compounds rich in pyridinic-N. This distinct structure significantly expands the effective electrochemical surface area, revealing an abundance of active sites and enhancing the mass transfer capability for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Both experimental observations and theoretical calculations corroborate that the synergy between the FeCoNi nanoalloy and the highly pyridinic N-doped carbon substrate optimizes the adsorption and desorption-free energy of oxygen intermediates, resulting in a remarkable improvement of intrinsic ORR/OER activity. Therefore, the derived F-CNS-CNT electrocatalyst can present a favorable half-wave potential of 0.85 V (ORR) and a lower overpotential of 260 mV (corresponding to a current density of 10 mA cm</description>
+      <author>Wenju Xie, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian, Tingfang Tian</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.066</guid>
     </item>
     <item>
       <title>An optimised cell for in situ XAS of gas diffusion electrocatalyst electrodes</title>
@@ -1038,6 +1058,16 @@
       <author>Zhijie Kong, Jianghua Wu, Zhijuan Liu, Dafeng Yan, Zhi Wu, Chuan&#8208;Jian Zhong</author>
       <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/exp.20230052</guid>
+    </item>
+    <item>
+      <title>Simultaneous retrieval of orbital phase resolved &lt;i&gt;JWST&lt;/i&gt;/MIRI emission spectra of the hot Jupiter WASP-43b: Evidence of water, ammonia and carbon monoxide</title>
+      <link>https://doi.org/10.1093/mnras/stae1427</link>
+      <description>Jingxuan Yang, Mark Hammond, Anjali A. A. Piette, Jasmina Blecic, Taylor Bell, Patrick Irwin, Vivien Parmentier, Shang-Min Tsai, J. K. Barstow, Nicolas Crouzet, Laura Kreidberg, Jo&#227;o M. Mendon&#231;a, Jake Taylor, Robin Baeyens, Kazumasa Ohno, Lucas Teinturier, Matthew C. Nixon, Monthly Notices of the Royal Astronomical Society. None(None)] 2024. https://openalex.org/W4399711451
+
+                Abstract Spectroscopic phase curves of hot Jupiters measure their emission spectra at multiple orbital phases, thus enabling detailed characterisation of their atmospheres. Precise constraints on the atmospheric composition of these exoplanets offer insights into their formation and evolution. We analyse four phase-resolved emission spectra of the hot Jupiter WASP-43b, generated from a phase curve observed with the MIRI/LRS onboard the JWST, to retrieve its atmospheric properties. Using a parametric 2D temperature model and assuming a chemically homogeneous atmosphere within the observed pressure region, we simultaneously fit the four spectra to constrain the abundances of atmospheric constituents, thereby yielding more precise constraints than previous work that analysed each spectrum independently. Our analysis reveals statistically significant evidence of NH3 (4&#963;) in a hot Jupiter&#8217;s emission spectra for the first time, along with evidence of H2O (6.5&#963;), CO (3.1&#963;), and a non-detection of CH4. With our abundance constraints, we tentatively estimate the metallicity of WASP-43b at 0.6&#8722;6.5 &#215; solar and its C/O ratio at 0.6&#8722;0.9. Our findings offer vital insights into the atmospheric conditions and formation history of WASP-43b by simultaneously constraining the abundances of carbon, oxygen, and nitrogen-bearing species.</description>
+      <author>Jingxuan Yang, Mark Hammond, Anjali A. A. Piette, Jasmina Blecic, Taylor Bell, Patrick Irwin, Vivien Parmentier, Shang-Min Tsai, J. K. Barstow, Nicolas Crouzet, Laura Kreidberg, Jo&#227;o M. Mendon&#231;a, Jake Taylor, Robin Baeyens, Kazumasa Ohno, Lucas Teinturier, Matthew C. Nixon</author>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1093/mnras/stae1427</guid>
     </item>
     <item>
       <title>A Schottky/Z&#8208;Scheme Hybrid for Augmented Photocatalytic H2 and H2O2 Production</title>

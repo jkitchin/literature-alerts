@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CO2RR.xml</link>
     <description>Electrochemical reduction of carbon dioxide</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jun 2024 01:10:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 01:09:02 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -78,16 +78,6 @@
       <guid isPermaLink="true">https://doi.org/10.1016/j.envres.2024.119372</guid>
     </item>
     <item>
-      <title>Local-strain-induced CO2 adsorption geometries and electrochemical reduction pathway shift</title>
-      <link>https://doi.org/10.1093/nsr/nwae191</link>
-      <description>Chuhao Liu, Yue Bu, Yifei Xu, Azhar Mahmood, Jisheng Xie, Yuan Fu, Hengling Wei, Pengfei Cheng, Yongbo Wu, Xiao Liang, Ruilong Zong, Wan&#8208;Lu Li, Jihan Zhou, Bingjun Xu, Li Niu, Mufan Li, National Science Review/National science review. None(None)] 2024. https://openalex.org/W4399476049
-
-                Abstract Unravelling the influence of strain and geometric effects on the electrochemical reduction of carbon dioxide (CO2RR) on Cu-based (or Pd-based) alloys remains challenging due to complex local microenvironment variables. Herein, we employ two PdCu alloys (nanoparticles and nanodendrites) to demonstrate how CO2RR selectivity can shift from CO to HCOO&#8722;. Despite sharing consistent phases, exposed crystal facets, and overall oxidative states, these alloys exhibit different local strain profiles due to their distinct geometries. By integrating experimental data, in-situ spectroscopy, and density functional theory calculations, we revealed that CO2 prefers adsorption on tensile-strained areas with carbon-side geometry, following a *COOH-to-CO pathway. Conversely, on some compressive-strained regions induced by the dendrites-like morphology, CO2 adopts an oxygen-side geometry, favouring an *OCHO-to-HCOO pathway due to the downshift of the d-band centre. Notably, our findings elucidate a dominant *OCHO-to-HCOO&#8722; pathway in catalysts when featuring both adsorption geometries. This research provides a comprehensive model for local environment of bimetallic alloys, and establishes a clear relationship between the CO2RR pathway shift and variation in local strain environments of PdCu alloys.</description>
-      <author>Chuhao Liu, Yue Bu, Yifei Xu, Azhar Mahmood, Jisheng Xie, Yuan Fu, Hengling Wei, Pengfei Cheng, Yongbo Wu, Xiao Liang, Ruilong Zong, Wan&#8208;Lu Li, Jihan Zhou, Bingjun Xu, Li Niu, Mufan Li</author>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1093/nsr/nwae191</guid>
-    </item>
-    <item>
       <title>Automated Load and Dump Detection for CO2 Reduction</title>
       <link>https://doi.org/10.5617/nmi.10535</link>
       <description>Eleonora Piersanti, Naeeme Danesh Moghaddam, Nordic machine intelligence. 3(3)] 2024. https://openalex.org/W4399543743
@@ -106,6 +96,16 @@
       <author>Mingli Li, Canfei He, Yi Zhao, Shunli Li, Jiabo Wang, Kai Ge, Yongfang Yang</author>
       <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.3390/catal14060374</guid>
+    </item>
+    <item>
+      <title>Electrodeposition of CuxBi1-x-MOF for electrochemical reduction of CO2</title>
+      <link>https://doi.org/10.1016/j.jssc.2024.124804</link>
+      <description>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Dan Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen, Journal of solid state chemistry. None(None)] 2024. https://openalex.org/W4399712329
+
+                No abstract</description>
+      <author>Xinlei Cheng, Min Wu, Yan Xu, Shiying Wang, Dan Wang, Wenchang Wang, Naotoshi Mitsuzaki, Zhidong Chen</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jssc.2024.124804</guid>
     </item>
     <item>
       <title>Regulating CO2 adsorption and mass transfer in electrochemical bicarbonate reduction</title>
@@ -196,6 +196,16 @@
       <author>Wenxiao Guo, Beichen Liu, S. Anderson, S. Johnstone, Matthew A. Gebbie</author>
       <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1039/d4ta02903h</guid>
+    </item>
+    <item>
+      <title>Mechanistic insight into electrochemical CO2 reduction on Mo single-atom catalyst and its hydrate: A computational study</title>
+      <link>https://doi.org/10.1016/j.mcat.2024.114315</link>
+      <description>Chunying Chen, Hsin&#8208;Tsung Chen, Molecular catalysis. 564(None)] 2024. https://openalex.org/W4399713150
+
+                No abstract</description>
+      <author>Chunying Chen, Hsin&#8208;Tsung Chen</author>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.mcat.2024.114315</guid>
     </item>
     <item>
       <title>Stabilizing Cu0/Cu2+ interface by hydroxy-rich amorphous SiO2 for enhanced electrocatalytic CO2 reduction to ethylene</title>
@@ -348,6 +358,16 @@
       <guid isPermaLink="true">https://doi.org/10.21203/rs.3.rs-4513461/v1</guid>
     </item>
     <item>
+      <title>Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China</title>
+      <link>https://doi.org/10.3389/fenvs.2024.1342321</link>
+      <description>Liyang Xiong, Yiyi Shu, Xuefeng Li, Frontiers in environmental science. 12(None)] 2024. https://openalex.org/W4399524116
+
+                The accountability audit of natural resources (AANR) is a major institutional arrangement for advancing the construction of an ecological civilization in China. Based on the panel data of 271 cities in China from 2005 to 2017, this paper investigates the relationship between the AANR and carbon dioxide (CO 2 ) emissions using a multi-period difference-in-differences (DID) model. The results show that AANR significantly increases the CO 2 emission reduction rate by 0.009 units at the 5% significance level. The results still hold after a series of robustness tests. Given all else being equal, this significant effect is 0.001. Further analyses show that AANR improves pilot cities&#8217; CO 2 emission reduction rates mainly by enhancing their green innovation capability. The mediating effect of cities&#8217; green technology innovation capability accounts for 96.00%, while the AANR&#8217;s direct effect only accounts for 4.00%. The AANR has significantly positive effects of 0.017% and 0.029% for western cities and cities with high fiscal pressure at the 5% and 1% significance levels, respectively. Therefore, strengthening AANR implementation by enhancing the mediating efficiency of cities&#8217; green technology innovations and implementing dynamically differentiated AANR policies in Chinese meso-cities will contribute to the achievement of China&#8217;s carbon peaking and carbon neutrality targets.</description>
+      <author>Liyang Xiong, Yiyi Shu, Xuefeng Li</author>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1342321</guid>
+    </item>
+    <item>
       <title>Late Eocene to early Oligocene productivity events in the proto-Southern Ocean and correlation to climate change</title>
       <link>https://doi.org/10.5194/cp-20-1327-2024</link>
       <description>Gabrielle Rodrigues de Faria, David Lazarus, Johan Renaudie, Jessica A. Stammeier, Volkan &#214;zen, Ulrich Struck, Climate of the past. 20(6)] 2024. https://openalex.org/W4399686581
@@ -366,16 +386,6 @@
       <author>M.J. McNelly, Jun&#8208;Ki Choi</author>
       <pubDate>Sat, 15 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1007/s40684-024-00638-4</guid>
-    </item>
-    <item>
-      <title>Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China</title>
-      <link>https://doi.org/10.3389/fenvs.2024.1342321</link>
-      <description>Liyang Xiong, Yiyi Shu, Xuefeng Li, Frontiers in environmental science. 12(None)] 2024. https://openalex.org/W4399524116
-
-                The accountability audit of natural resources (AANR) is a major institutional arrangement for advancing the construction of an ecological civilization in China. Based on the panel data of 271 cities in China from 2005 to 2017, this paper investigates the relationship between the AANR and carbon dioxide (CO 2 ) emissions using a multi-period difference-in-differences (DID) model. The results show that AANR significantly increases the CO 2 emission reduction rate by 0.009 units at the 5% significance level. The results still hold after a series of robustness tests. Given all else being equal, this significant effect is 0.001. Further analyses show that AANR improves pilot cities&#8217; CO 2 emission reduction rates mainly by enhancing their green innovation capability. The mediating effect of cities&#8217; green technology innovation capability accounts for 96.00%, while the AANR&#8217;s direct effect only accounts for 4.00%. The AANR has significantly positive effects of 0.017% and 0.029% for western cities and cities with high fiscal pressure at the 5% and 1% significance levels, respectively. Therefore, strengthening AANR implementation by enhancing the mediating efficiency of cities&#8217; green technology innovations and implementing dynamically differentiated AANR policies in Chinese meso-cities will contribute to the achievement of China&#8217;s carbon peaking and carbon neutrality targets.</description>
-      <author>Liyang Xiong, Yiyi Shu, Xuefeng Li</author>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.3389/fenvs.2024.1342321</guid>
     </item>
     <item>
       <title>Innovative Biomaterials in Green Construction: Economic Benefits and Challenges</title>
@@ -476,16 +486,6 @@
       <author>Akhlaque Ahmad Khan, Ahmad Faiz Minai, Mohammad Atif Siddiqui</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1088/1742-6596/2777/1/012008</guid>
-    </item>
-    <item>
-      <title>In&#8211;Situ Characterization Techniques for Mechanism Studies of CO2 Hydrogenation</title>
-      <link>https://doi.org/10.1002/cplu.202300511</link>
-      <description>Rasmeet Singh, Lizhuo Wang, Jun Huang, ChemPlusChem. None(None)] 2024. https://openalex.org/W4399475691
-
-                The paramount concerns of global warming, fossil fuel depletion, and energy crises have prompted the need of hydrocarbons productions via CO2 conversion. In order to achieve global carbon neutrality, much attention needs to be diverted towards CO2 management. Catalytic hydrogenation of CO2 is an exciting opportunity to curb the increasing CO2 and produce value-added products. However, the comprehensive understanding of CO2 hydrogenation is still a matter of discussion due to its complex reaction mechanism and involvement of various species. This review comprehensively discusses three processes: reverse water gas shift (RWGS) reaction, modified Fischer Tropsch synthesis (MFTS), and methanol-mediated route (MeOH) for CO2 hydrogenation to hydrocarbons. It is also very important to understand the real-time evolvement of catalytic process and reaction intermediates by employing in-situ characterization techniques. Subsequently, in second part of this review, we provided a systematic analysis of advancements in in-situ techniques aimed to monitor the evolution of catalysts during CO2 reduction process. The section also highlights the key components of in-situ cells, their working principles, and applications in identifying reaction mechanisms for CO2 hydrogenation. Finally, by reviewing respective achievements in the field, we identify key gaps and present some future directions for CO2 hydrogenation and in-situ studies.</description>
-      <author>Rasmeet Singh, Lizhuo Wang, Jun Huang</author>
-      <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/cplu.202300511</guid>
     </item>
     <item>
       <title>A CASE STUDY ON MAN-MADE HAZARDS IN THE INDIAN CONTEXT: ENVIRONMENTAL IMPACT AND THEIR MITIGATION MEASURES</title>

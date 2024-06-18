@@ -1,22 +1,11 @@
 # water splitting
 Description: water splitting papers
-Created on Mon Jun 17 01:10:42 2024
+Created on Tue Jun 18 01:08:57 2024
 
-Found 109 results from 2024-06-10 to 2024-06-17
+Found 112 results from 2024-06-11 to 2024-06-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C135473242)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution](https://api.openalex.org/works?filter=title-and-abstract.search%3Aoxygen%20evolution)
-
-## Ru nanocrystals modified porous FeOOH nanostructures with open 3D interconnected architecture supported on NiFe foam as high‐performance electrocatalyst for oxygen evolution reaction and electrocatalytic urea oxidation   
-
-OpenAlex: https://openalex.org/W4399470562    
-Open access: False
-    
-[Peng Zhao](https://openalex.org/A5061523947), [Qiancheng Liu](https://openalex.org/A5029142691), [Xulin Yang](https://openalex.org/A5077024465), [Sudong Yang](https://openalex.org/A5048979833), [Chen Lin](https://openalex.org/A5024459791), [Jing Zhu](https://openalex.org/A5006165246), [Qian Zhang](https://openalex.org/A5052441498), Journal of colloid and interface science. None(None)] 2024.https://doi.org/10.1016/j.jcis.2024.06.056.
-    
-No abstract    
-
-    
 
 ## Waste tobacco-derived N, P dual-doped porous carbon loaded with heterostructured CoFe/CoFe2O4 nanoparticles for efficient oxygen electrocatalysis and Zn-air batteries   
 
@@ -645,6 +634,17 @@ No abstract
 
     
 
+## Advances in the design of highly stable NiFe-LDH electrocatalysts for oxygen evolution in seawater   
+
+OpenAlex: https://openalex.org/W4399717722    
+Open access: False
+    
+[Xue-Jun Zhai](https://openalex.org/A5044697608), [Qian‐Xi Lv](https://openalex.org/A5003666476), [Jingyi Xie](https://openalex.org/A5064335791), [Jintao Zhang](https://openalex.org/A5058932447), [Yong‐Ming Chai](https://openalex.org/A5062331341), [Bin Dong](https://openalex.org/A5072072030), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.153187.
+    
+No abstract    
+
+    
+
 ## High Entropy Materials for Oxygen Evolution Reactions   
 
 OpenAlex: https://openalex.org/W4399537582    
@@ -697,6 +697,17 @@ Open access: False
 [Qianyun Bai](https://openalex.org/A5002617620), [Da Li](https://openalex.org/A5042170464), [Xiaoxiao Yan](https://openalex.org/A5026813507), [Peifang Guo](https://openalex.org/A5091204409), [Xingyu Ding](https://openalex.org/A5016129165), [Kang Xiang](https://openalex.org/A5025617594), [Xin Tu](https://openalex.org/A5029654757), [Y. P. Guo](https://openalex.org/A5040076425), [Renbing Wu](https://openalex.org/A5000351527), ACS materials letters. None(None)] 2024.https://doi.org/10.1021/acsmaterialslett.4c00716.
     
 No abstract    
+
+    
+
+## Site Specific Descriptor for Oxygen Evolution Reaction Activity on Single Atom Catalysts Using QMML   
+
+OpenAlex: https://openalex.org/W4399718058    
+Open access: False
+    
+[E. S. Erakulan](https://openalex.org/A5083620102), [Satadal Ghosh](https://openalex.org/A5056304289), [Ranjit Thapa](https://openalex.org/A5028088995), Journal of materials chemistry. A. None(None)] 2024.https://doi.org/10.1039/d4ta02610a.
+    
+Descriptors are properties or parameters of a material that is used to explain any catalytic activity both computationally and experimentally. Such descriptors aid in designing the material’s property to obtain...    
 
     
 
@@ -862,6 +873,17 @@ Open access: False
 [Daniel Kobina Sam](https://openalex.org/A5085051711), [Yan Cao](https://openalex.org/A5009634207), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c06141.
     
 Given their intriguing properties, porous carbons have surfaced as promising electrocatalysts for various energy conversion reactions. This study presents a unique approach where iron-cobalt (FeCo) is confined in a boron, nitrogen-doped chitosan-derived porous carbon aerogel (BNPC-FeCo) to serve as an electrocatalyst for the hydrogen evolution and oxygen evolution reactions (HER and OER). The BNPC-FeCo-900 electrocatalyst demonstrates excellent catalyst activity, with very low overpotentials of 186 and 320 mV at 10 mA cm    
+
+    
+
+## N-regulated three-dimensional turf-like carbon nanosheet loaded with FeCoNi nanoalloys as bifunctional electrocatalysts for durable zinc-air batteries   
+
+OpenAlex: https://openalex.org/W4399556166    
+Open access: False
+    
+[Wenju Xie](https://openalex.org/A5072300967), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), [Tingfang Tian](https://openalex.org/A5038598464), Journal of colloid and interface science. 673(None)] 2024.https://doi.org/10.1016/j.jcis.2024.06.066.
+    
+N-regulated three-dimensional (3D) turf-like carbon material loaded with FeCoNi nanoalloys (F-CNS-CNT), composed of carbon nanotubes (CNT) grown in situ on carbon nanosheets(CNS), was synthesized using a low-temperature solution combustion method and organic compounds rich in pyridinic-N. This distinct structure significantly expands the effective electrochemical surface area, revealing an abundance of active sites and enhancing the mass transfer capability for oxygen reduction reaction (ORR) and oxygen evolution reaction (OER). Both experimental observations and theoretical calculations corroborate that the synergy between the FeCoNi nanoalloy and the highly pyridinic N-doped carbon substrate optimizes the adsorption and desorption-free energy of oxygen intermediates, resulting in a remarkable improvement of intrinsic ORR/OER activity. Therefore, the derived F-CNS-CNT electrocatalyst can present a favorable half-wave potential of 0.85 V (ORR) and a lower overpotential of 260 mV (corresponding to a current density of 10 mA cm    
 
     
 
@@ -1139,6 +1161,17 @@ Open access: True
 [Zhijie Kong](https://openalex.org/A5040312379), [Jianghua Wu](https://openalex.org/A5001044012), [Zhijuan Liu](https://openalex.org/A5034970777), [Dafeng Yan](https://openalex.org/A5026864143), [Zhi Wu](https://openalex.org/A5037531970), [Chuan‐Jian Zhong](https://openalex.org/A5026877218), Exploration. None(None)] 2024.https://doi.org/10.1002/exp.20230052.
     
 Abstract Proton exchange‐membrane fuel cell (PEMFC) is a clean and efficient type of energy storage device. However, the sluggish reaction rate of the cathode oxygen reduction reaction (ORR) has been a significant problem in its development. This review reports the recent progress of advanced electrocatalysts focusing on the interface/surface electronic structure and exploring the synergistic relationship of precious‐based and non‐precious metal‐based catalysts and support materials. The support materials contain non‐metal (C/N/Si, etc.) and metal‐based structures, which have demonstrated a crucial role in the synergistic enhancement of electrocatalytic properties, especially for high‐temperature fuel cell systems. To improve the strong interaction, some exciting synergistic strategies by doping and coating heterogeneous elements or connecting polymeric ligands containing carbon and nitrogen were also shown herein. Besides the typical role of the crystal surface, phase structure, lattice strain, etc., the evolution of structure‐performance relations was also highlighted in real‐time tests. The advanced in situ characterization techniques were also reviewed to emphasize the accurate structure‐performance relations. Finally, the challenge and prospect for developing the ORR electrocatalysts were concluded for commercial applications in low‐ and high‐temperature fuel cell systems.    
+
+    
+
+## Simultaneous retrieval of orbital phase resolved JWST/MIRI emission spectra of the hot Jupiter WASP-43b: Evidence of water, ammonia and carbon monoxide   
+
+OpenAlex: https://openalex.org/W4399711451    
+Open access: False
+    
+[Jingxuan Yang](https://openalex.org/A5004277059), [Mark Hammond](https://openalex.org/A5008818178), [Anjali A. A. Piette](https://openalex.org/A5081412389), [Jasmina Blecic](https://openalex.org/A5020238682), [Taylor Bell](https://openalex.org/A5061490701), [Patrick Irwin](https://openalex.org/A5042720670), [Vivien Parmentier](https://openalex.org/A5078231783), [Shang-Min Tsai](https://openalex.org/A5062468961), [J. K. Barstow](https://openalex.org/A5056404243), [Nicolas Crouzet](https://openalex.org/A5084620439), [Laura Kreidberg](https://openalex.org/A5030303577), [João M. Mendonça](https://openalex.org/A5005701508), [Jake Taylor](https://openalex.org/A5040642536), [Robin Baeyens](https://openalex.org/A5063628363), [Kazumasa Ohno](https://openalex.org/A5031658133), [Lucas Teinturier](https://openalex.org/A5055551867), [Matthew C. Nixon](https://openalex.org/A5071706680), Monthly Notices of the Royal Astronomical Society. None(None)] 2024.https://doi.org/10.1093/mnras/stae1427.
+    
+Abstract Spectroscopic phase curves of hot Jupiters measure their emission spectra at multiple orbital phases, thus enabling detailed characterisation of their atmospheres. Precise constraints on the atmospheric composition of these exoplanets offer insights into their formation and evolution. We analyse four phase-resolved emission spectra of the hot Jupiter WASP-43b, generated from a phase curve observed with the MIRI/LRS onboard the JWST, to retrieve its atmospheric properties. Using a parametric 2D temperature model and assuming a chemically homogeneous atmosphere within the observed pressure region, we simultaneously fit the four spectra to constrain the abundances of atmospheric constituents, thereby yielding more precise constraints than previous work that analysed each spectrum independently. Our analysis reveals statistically significant evidence of NH3 (4σ) in a hot Jupiter’s emission spectra for the first time, along with evidence of H2O (6.5σ), CO (3.1σ), and a non-detection of CH4. With our abundance constraints, we tentatively estimate the metallicity of WASP-43b at 0.6−6.5 × solar and its C/O ratio at 0.6−0.9. Our findings offer vital insights into the atmospheric conditions and formation history of WASP-43b by simultaneously constraining the abundances of carbon, oxygen, and nitrogen-bearing species.    
 
     
 

@@ -4,9 +4,19 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jun 2024 01:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 01:09:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>A first-principles study of the oxygen reduction reaction activity of Pt with TM-N-C support</title>
+      <link>https://doi.org/10.1016/j.cplett.2024.141414</link>
+      <description>Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Haining Wang, Shanfu Lu, Yan Xiang, Chemical physics letters. None(None)] 2024. https://openalex.org/W4399477325
+
+                No abstract</description>
+      <author>Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Haining Wang, Shanfu Lu, Yan Xiang</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141414</guid>
+    </item>
     <item>
       <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
       <link>https://doi.org/10.1021/acscatal.4c01407</link>
@@ -290,11 +300,11 @@
     <item>
       <title>Patterned graphene: An effective platform for adsorption, immobilization, and destruction of SARS-CoV-2 Mpro</title>
       <link>https://doi.org/10.1016/j.jcis.2024.06.072</link>
-      <description>Jiawen Wang, Huilong Dong, Yujin Ji, Youyong Li, Shuit&#8208;Tong Lee, Journal of colloid and interface science. None(None)] 2024. https://openalex.org/W4399563048
+      <description>Jiawen Wang, Huilong Dong, Huilong Dong, Huilong Dong, Huilong Dong, Journal of colloid and interface science. 673(None)] 2024. https://openalex.org/W4399563048
 
-                No abstract</description>
-      <author>Jiawen Wang, Huilong Dong, Yujin Ji, Youyong Li, Shuit&#8208;Tong Lee</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+                To address the ongoing challenges posed by the SARS-CoV-2 and potentially stronger viruses in the future, the development of effective methods to fabricate patterned graphene (PG) and other precisely functional products has become a new research frontier. Herein, we modeled the "checkerboard" graphene (CG) and stripped graphene (SG) as representatives of PG, and studied their interaction mechanism with the target protein (M</description>
+      <author>Jiawen Wang, Huilong Dong, Huilong Dong, Huilong Dong, Huilong Dong</author>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcis.2024.06.072</guid>
     </item>
     <item>
@@ -726,6 +736,26 @@
       <author>Lan He, Xing Long, Liyan Wang, Cheng Mi, Chaopeng Zhang, Keping Ma, Liang She, Ming Yu</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jcat.2024.115606</guid>
+    </item>
+    <item>
+      <title>Rapid photothermal reduction-derived Pt1.6Ni nanoalloys embedded in laser-induced graphene for hydrogen evolution reaction</title>
+      <link>https://doi.org/10.1016/j.ijhydene.2024.06.063</link>
+      <description>Seung Geun Jo, Yoo-Kyum Shin, Min&#8208;Ho Seo, Jung Woo Lee, International journal of hydrogen energy. 77(None)] 2024. https://openalex.org/W4399712029
+
+                No abstract</description>
+      <author>Seung Geun Jo, Yoo-Kyum Shin, Min&#8208;Ho Seo, Jung Woo Lee</author>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.063</guid>
+    </item>
+    <item>
+      <title>Structure evolution of Cu3Pd single-particles under CO2 hydrogenation</title>
+      <link>https://doi.org/10.1016/j.cej.2024.153208</link>
+      <description>Changcheng Xu, Shaobo Han, Qiao Zhao, Shuang Liu, Wei Liu, Yong Li, Wenjie Shen, Chemical engineering journal. None(None)] 2024. https://openalex.org/W4399715717
+
+                No abstract</description>
+      <author>Changcheng Xu, Shaobo Han, Qiao Zhao, Shuang Liu, Wei Liu, Yong Li, Wenjie Shen</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153208</guid>
     </item>
     <item>
       <title>Computational Design of 2D Phosphorus Nanostructures for Renewable Energy Applications: A Review</title>

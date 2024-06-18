@@ -1,8 +1,8 @@
 #+TITLE: CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jun 17 01:10:46 2024
+Created on Tue Jun 18 01:09:02 2024
 
-Found 79 results from 2024-06-10 to 2024-06-17
+Found 79 results from 2024-06-11 to 2024-06-18
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552]]
 - [[https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29]]
@@ -154,27 +154,6 @@ The reduction of carbon dioxide (CO
 
     
 
-* Local-strain-induced CO2 adsorption geometries and electrochemical reduction pathway shift  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399476049
-:TOPICS: Electrochemical Reduction of CO2 to Fuels, Thermoelectric Materials, Solid Oxide Fuel Cells
-:PUBLICATION_DATE: 2024-06-07
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1093/nsr/nwae191")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399476049"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399476049"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399476049"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399476049 (Open access: True)
-    
-[[https://openalex.org/A5078952009][Chuhao Liu]], [[https://openalex.org/A5070181057][Yue Bu]], [[https://openalex.org/A5048798891][Yifei Xu]], [[https://openalex.org/A5070768020][Azhar Mahmood]], [[https://openalex.org/A5062343194][Jisheng Xie]], [[https://openalex.org/A5069515960][Yuan Fu]], [[https://openalex.org/A5042136634][Hengling Wei]], [[https://openalex.org/A5078198855][Pengfei Cheng]], [[https://openalex.org/A5082308749][Yongbo Wu]], [[https://openalex.org/A5075169323][Xiao Liang]], [[https://openalex.org/A5052216921][Ruilong Zong]], [[https://openalex.org/A5020721427][Wan‐Lu Li]], [[https://openalex.org/A5066474434][Jihan Zhou]], [[https://openalex.org/A5073687384][Bingjun Xu]], [[https://openalex.org/A5054584536][Li Niu]], [[https://openalex.org/A5001303987][Mufan Li]], National Science Review/National science review. None(None)] 2024. https://doi.org/10.1093/nsr/nwae191 
-     
-Abstract Unravelling the influence of strain and geometric effects on the electrochemical reduction of carbon dioxide (CO2RR) on Cu-based (or Pd-based) alloys remains challenging due to complex local microenvironment variables. Herein, we employ two PdCu alloys (nanoparticles and nanodendrites) to demonstrate how CO2RR selectivity can shift from CO to HCOO−. Despite sharing consistent phases, exposed crystal facets, and overall oxidative states, these alloys exhibit different local strain profiles due to their distinct geometries. By integrating experimental data, in-situ spectroscopy, and density functional theory calculations, we revealed that CO2 prefers adsorption on tensile-strained areas with carbon-side geometry, following a *COOH-to-CO pathway. Conversely, on some compressive-strained regions induced by the dendrites-like morphology, CO2 adopts an oxygen-side geometry, favouring an *OCHO-to-HCOO pathway due to the downshift of the d-band centre. Notably, our findings elucidate a dominant *OCHO-to-HCOO− pathway in catalysts when featuring both adsorption geometries. This research provides a comprehensive model for local environment of bimetallic alloys, and establishes a clear relationship between the CO2RR pathway shift and variation in local strain environments of PdCu alloys.    
-
-    
-
 * Automated Load and Dump Detection for CO2 Reduction  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399543743
@@ -214,6 +193,27 @@ OpenAlex: https://openalex.org/W4399572221 (Open access: True)
 [[https://openalex.org/A5024467762][Mingli Li]], [[https://openalex.org/A5069013809][Canfei He]], [[https://openalex.org/A5034128349][Yi Zhao]], [[https://openalex.org/A5077731514][Shunli Li]], [[https://openalex.org/A5032579515][Jiabo Wang]], [[https://openalex.org/A5091228890][Kai Ge]], [[https://openalex.org/A5066825255][Yongfang Yang]], Catalysts. 14(6)] 2024. https://doi.org/10.3390/catal14060374 
      
 Photocatalytic technology, which is regarded as a green route to transform solar energy into chemical fuels, plays an important role in the fields of energy and environmental protection. An emerging S-scheme heterojunction with the tightly coupled interface, whose photocatalytic efficiency exceeds those of conventional type II and Z-scheme photocatalysts, has received much attention due to its rapid charge carrier separation and strong redox capacity. This review provides a systematic description of S-scheme heterojunction in the photocatalysis, including its development, reaction mechanisms, preparation, and characterization methods. In addition, S-scheme photocatalysts for CO2 reduction are described in detail by categorizing them as 0D/1D, 0D/2D, 0D/3D, 2D/2D, and 2D/3D. Finally, some defects of S-scheme heterojunctions are pointed out, and the future development of S-scheme heterojunctions is proposed.    
+
+    
+
+* Electrodeposition of CuxBi1-x-MOF for electrochemical reduction of CO2  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399712329
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Applications of Ionic Liquids, Carbon Dioxide Utilization for Chemical Synthesis
+:PUBLICATION_DATE: 2024-06-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.jssc.2024.124804")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399712329"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399712329"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399712329"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399712329 (Open access: False)
+    
+[[https://openalex.org/A5054852894][Xinlei Cheng]], [[https://openalex.org/A5082899866][Min Wu]], [[https://openalex.org/A5021488560][Yan Xu]], [[https://openalex.org/A5074811994][Shiying Wang]], [[https://openalex.org/A5054045121][Dan Wang]], [[https://openalex.org/A5034220138][Wenchang Wang]], [[https://openalex.org/A5014014810][Naotoshi Mitsuzaki]], [[https://openalex.org/A5089061216][Zhidong Chen]], Journal of solid state chemistry. None(None)] 2024. https://doi.org/10.1016/j.jssc.2024.124804 
+     
+No abstract    
 
     
 
@@ -403,6 +403,27 @@ OpenAlex: https://openalex.org/W4399529132 (Open access: False)
 [[https://openalex.org/A5023801260][Wenxiao Guo]], [[https://openalex.org/A5053624693][Beichen Liu]], [[https://openalex.org/A5084561647][S. Anderson]], [[https://openalex.org/A5050957143][S. Johnstone]], [[https://openalex.org/A5063200082][Matthew A. Gebbie]], Journal of materials chemistry. A. None(None)] 2024. https://doi.org/10.1039/d4ta02903h 
      
 The accumulation of ions at electrochemical interfaces governs the local chemical environment, which in turn determines the reaction pathways and rates of electrocatalytic processes, including electrochemical CO 2 reduction. Imidazolium cations...    
+
+    
+
+* Mechanistic insight into electrochemical CO2 reduction on Mo single-atom catalyst and its hydrate: A computational study  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399713150
+:TOPICS: Electrochemical Reduction of CO2 to Fuels, Ammonia Synthesis and Electrocatalysis, Catalytic Carbon Dioxide Hydrogenation
+:PUBLICATION_DATE: 2024-07-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.mcat.2024.114315")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399713150"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399713150"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399713150"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399713150 (Open access: False)
+    
+[[https://openalex.org/A5073108451][Chunying Chen]], [[https://openalex.org/A5012707510][Hsin‐Tsung Chen]], Molecular catalysis. 564(None)] 2024. https://doi.org/10.1016/j.mcat.2024.114315 
+     
+No abstract    
 
     
 
@@ -721,6 +742,27 @@ Abstract Under the "dual carbon" goal, the new productive forces in the industri
 
     
 
+* Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China  :CO2RR:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399524116
+:TOPICS: Energy Efficiency in Manufacturing and Industry Sector, Economic Implications of Climate Change Policies, Life Cycle Assessment and Environmental Impact Analysis
+:PUBLICATION_DATE: 2024-06-06
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fenvs.2024.1342321")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399524116"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399524116"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399524116"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399524116 (Open access: True)
+    
+[[https://openalex.org/A5024560174][Liyang Xiong]], [[https://openalex.org/A5085925098][Yiyi Shu]], [[https://openalex.org/A5051862250][Xuefeng Li]], Frontiers in environmental science. 12(None)] 2024. https://doi.org/10.3389/fenvs.2024.1342321 
+     
+The accountability audit of natural resources (AANR) is a major institutional arrangement for advancing the construction of an ecological civilization in China. Based on the panel data of 271 cities in China from 2005 to 2017, this paper investigates the relationship between the AANR and carbon dioxide (CO 2 ) emissions using a multi-period difference-in-differences (DID) model. The results show that AANR significantly increases the CO 2 emission reduction rate by 0.009 units at the 5% significance level. The results still hold after a series of robustness tests. Given all else being equal, this significant effect is 0.001. Further analyses show that AANR improves pilot cities’ CO 2 emission reduction rates mainly by enhancing their green innovation capability. The mediating effect of cities’ green technology innovation capability accounts for 96.00%, while the AANR’s direct effect only accounts for 4.00%. The AANR has significantly positive effects of 0.017% and 0.029% for western cities and cities with high fiscal pressure at the 5% and 1% significance levels, respectively. Therefore, strengthening AANR implementation by enhancing the mediating efficiency of cities’ green technology innovations and implementing dynamically differentiated AANR policies in Chinese meso-cities will contribute to the achievement of China’s carbon peaking and carbon neutrality targets.    
+
+    
+
 * Late Eocene to early Oligocene productivity events in the proto-Southern Ocean and correlation to climate change  :CO2RR:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399686581
@@ -760,27 +802,6 @@ OpenAlex: https://openalex.org/W4399698466 (Open access: True)
 [[https://openalex.org/A5034299985][M.J. McNelly]], [[https://openalex.org/A5005007831][Jun‐Ki Choi]], International journal of precision engineering and manufacturing. Green engineering/International journal of precision engineering and manufacturing green technology. None(None)] 2024. https://doi.org/10.1007/s40684-024-00638-4 
      
 Abstract Energy audits directly provided the industrial sector with reduced energy costs and avoided emissions. Still, they also lead to far-reaching indirect and induced local, regional, and national benefits. This paper aims to present the techno-economic-environmental analysis to achieve decarbonization through implementing industrial energy efficiency at micro and macro levels. An integrated techno-economic-environmental methodology is developed. Case studies of micro-level carbon reduction efforts through industrial energy efficiency technologies are presented. The broader macroeconomic and environmental effects of technology on society are analyzed using data from 206 energy audits of industrial compressed air systems conducted over 13 years. The impacts show that energy-efficient improvements lead to direct cost savings for manufacturers, boost economic activity across sectors, and affect carbon dioxide emissions both short-term and long-term in the region. Given their extensive benefits, energy audits significantly influence policymaking. We devised a methodology to link micro-level energy audit data with macroeconomic and environmental analyses to quantify these cascading benefits. The economic scenario analysis shows that $228 M has been saved from direct industrial energy savings from implementing all compressed air recommendations in the studied periods and the region. In addition, the investment made through manufacturers would create 2,025 jobs and $383 M annually, cascading regional economic impacts. The environmental analysis shows that the regional manufacturers have directly avoided about 2.8 M metric tons of carbon dioxide emissions.    
-
-    
-
-* Evaluating the effect of the accountability audit of natural resources on carbon emissions reduction in China  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399524116
-:TOPICS: Energy Efficiency in Manufacturing and Industry Sector, Economic Implications of Climate Change Policies, Life Cycle Assessment and Environmental Impact Analysis
-:PUBLICATION_DATE: 2024-06-06
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.3389/fenvs.2024.1342321")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399524116"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399524116"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399524116"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399524116 (Open access: True)
-    
-[[https://openalex.org/A5024560174][Liyang Xiong]], [[https://openalex.org/A5085925098][Yiyi Shu]], [[https://openalex.org/A5051862250][Xuefeng Li]], Frontiers in environmental science. 12(None)] 2024. https://doi.org/10.3389/fenvs.2024.1342321 
-     
-The accountability audit of natural resources (AANR) is a major institutional arrangement for advancing the construction of an ecological civilization in China. Based on the panel data of 271 cities in China from 2005 to 2017, this paper investigates the relationship between the AANR and carbon dioxide (CO 2 ) emissions using a multi-period difference-in-differences (DID) model. The results show that AANR significantly increases the CO 2 emission reduction rate by 0.009 units at the 5% significance level. The results still hold after a series of robustness tests. Given all else being equal, this significant effect is 0.001. Further analyses show that AANR improves pilot cities’ CO 2 emission reduction rates mainly by enhancing their green innovation capability. The mediating effect of cities’ green technology innovation capability accounts for 96.00%, while the AANR’s direct effect only accounts for 4.00%. The AANR has significantly positive effects of 0.017% and 0.029% for western cities and cities with high fiscal pressure at the 5% and 1% significance levels, respectively. Therefore, strengthening AANR implementation by enhancing the mediating efficiency of cities’ green technology innovations and implementing dynamically differentiated AANR policies in Chinese meso-cities will contribute to the achievement of China’s carbon peaking and carbon neutrality targets.    
 
     
 
@@ -991,27 +1012,6 @@ OpenAlex: https://openalex.org/W4399681222 (Open access: True)
 [[https://openalex.org/A5056993195][Akhlaque Ahmad Khan]], [[https://openalex.org/A5047740133][Ahmad Faiz Minai]], [[https://openalex.org/A5072439690][Mohammad Atif Siddiqui]], Journal of physics. Conference series. 2777(1)] 2024. https://doi.org/10.1088/1742-6596/2777/1/012008 
      
 Abstract A substantial amount of the world’s annual CO 2 emissions are attributable to the continued consumption of electricity from the grid that is generated from burning fossil fuels. Renewable energy sources could strengthen grid reliability and lessen their effect on the environment, especially in high-demand regions prone to power failures. Investigating the viability of erecting solar power plants in a subtropical area to provide the necessary electricity for an educational building that operates mainly during daylight hours is the main intent of the present study. The purpose of this investigation is to demonstrate and validate a model for enormous-scale commercial HRES applications (such as an educational institution) utilising the HOMER programme to figure out the optimal size. Minimising emissions of carbon dioxide, the main greenhouse gas responsible for accelerating global warming, is also of the utmost importance. Based on the simulation findings, the optimal system configuration consisted of a 120 kW converter and 400 PV arrays (each with 320 Wp = 128 kWp). For regional power generation, the most cost-effective choice is still a combination of solar panels and the grid. Findings show that a HRES can be economically feasible for installation in educational institutions at an initial capital cost of USD $0.068 million with annual operating expenses of USD $0.0447 million—a reduction of 44.11% compared to the existing system. The expected payback for this endeavour is five years. Other locations with identical climates could benefit from these results when considering the deployment of comparable technology. In order to help achieve a zero-carbon target, financial rewards could encourage governments to adopt similar schemes.    
-
-    
-
-* In–Situ Characterization Techniques for Mechanism Studies of CO2 Hydrogenation  :CO2RR:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399475691
-:TOPICS: Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation, Carbon Dioxide Capture and Storage Technologies
-:PUBLICATION_DATE: 2024-06-09
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1002/cplu.202300511")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399475691"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399475691"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399475691"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399475691 (Open access: False)
-    
-[[https://openalex.org/A5005210320][Rasmeet Singh]], [[https://openalex.org/A5048681505][Lizhuo Wang]], [[https://openalex.org/A5015226338][Jun Huang]], ChemPlusChem. None(None)] 2024. https://doi.org/10.1002/cplu.202300511 
-     
-The paramount concerns of global warming, fossil fuel depletion, and energy crises have prompted the need of hydrocarbons productions via CO2 conversion. In order to achieve global carbon neutrality, much attention needs to be diverted towards CO2 management. Catalytic hydrogenation of CO2 is an exciting opportunity to curb the increasing CO2 and produce value-added products. However, the comprehensive understanding of CO2 hydrogenation is still a matter of discussion due to its complex reaction mechanism and involvement of various species. This review comprehensively discusses three processes: reverse water gas shift (RWGS) reaction, modified Fischer Tropsch synthesis (MFTS), and methanol-mediated route (MeOH) for CO2 hydrogenation to hydrocarbons. It is also very important to understand the real-time evolvement of catalytic process and reaction intermediates by employing in-situ characterization techniques. Subsequently, in second part of this review, we provided a systematic analysis of advancements in in-situ techniques aimed to monitor the evolution of catalysts during CO2 reduction process. The section also highlights the key components of in-situ cells, their working principles, and applications in identifying reaction mechanisms for CO2 hydrogenation. Finally, by reviewing respective achievements in the field, we identify key gaps and present some future directions for CO2 hydrogenation and in-situ studies.    
 
     
 
