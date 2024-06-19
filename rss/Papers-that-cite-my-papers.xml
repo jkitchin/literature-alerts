@@ -4,89 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Jun 2024 01:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 01:09:19 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>A first-principles study of the oxygen reduction reaction activity of Pt with TM-N-C support</title>
-      <link>https://doi.org/10.1016/j.cplett.2024.141414</link>
-      <description>Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Haining Wang, Shanfu Lu, Yan Xiang, Chemical physics letters. None(None)] 2024. https://openalex.org/W4399477325
-
-                No abstract</description>
-      <author>Jiashuo Fu, Liting Cui, Sian Chen, Wen Lei, Xinrui Liu, Jin Zhang, Haining Wang, Shanfu Lu, Yan Xiang</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cplett.2024.141414</guid>
-    </item>
-    <item>
-      <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
-      <link>https://doi.org/10.1021/acscatal.4c01407</link>
-      <description>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4399487629
-
-                No abstract</description>
-      <author>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01407</guid>
-    </item>
-    <item>
-      <title>Computational screening of single-atom catalysts supported on Al12N12 nanocage for nitrogen reduction reaction</title>
-      <link>https://doi.org/10.1016/j.mtcomm.2024.109509</link>
-      <description>Xinlin Tang, H. Liao, Wenhong Zeng, Wei Guo, Xin Lian, Materials today communications. None(None)] 2024. https://openalex.org/W4399487964
-
-                No abstract</description>
-      <author>Xinlin Tang, H. Liao, Wenhong Zeng, Wei Guo, Xin Lian</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.mtcomm.2024.109509</guid>
-    </item>
-    <item>
-      <title>Compressively Strained and Interconnected Platinum Cones with Greatly Enhanced Activity and Durability toward Oxygen Reduction</title>
-      <link>https://doi.org/10.1002/adfm.202404677</link>
-      <description>Mingkai Liu, Siyu Zhou, Marc Figueras&#8208;Valls, Y. Ding, Zhiheng Lyu, Manos Mavrikakis, Younan Xia, Advanced functional materials. None(None)] 2024. https://openalex.org/W4399490867
-
-                Abstract The synthesis of cone&#8208;shaped Pt nanoparticles featuring compressively&#8208;strained {111} facets by depositing Pt atoms on the vertices of Pd icosahedral nanocrystals, followed by selective removal of the Pd template via wet etching, is reported. By controlling the lateral dimensions down to ca. 3 nm, together with a thickness of ca. 2 nm, the Pt cones show greatly enhanced specific and mass activities toward oxygen reduction, with values being 2.8 and 6.4 times those of commercial Pt/C, respectively. Both the strain field and the observed activity trend are rationalized using density functional theory calculations. With the formation of ultrathin linkers among the Pt cones derived from the same Pd icosahedral seed, the interconnected Pt cones acquire stronger interactions with the carbon support, preventing them from detachment and aggregation during the catalytic reaction. Even after 20 000 cycles of accelerated durability test, the Pt cones still show a mass activity 5.3 times higher than the initial value of the Pt/C.</description>
-      <author>Mingkai Liu, Siyu Zhou, Marc Figueras&#8208;Valls, Y. Ding, Zhiheng Lyu, Manos Mavrikakis, Younan Xia</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1002/adfm.202404677</guid>
-    </item>
-    <item>
-      <title>Metal-support spin orders: Crucial effect on electrocatalytic oxygen reduction</title>
-      <link>https://doi.org/10.1063/5.0207891</link>
-      <description>Yi-jie Chen, Jun Wen, Zhenlin Luo, Fu-li Sun, Wenxian Chen, Gui&#8722;Lin Zhuang, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(22)] 2024. https://openalex.org/W4399494915
-
-                Magnetic property (e.g. spin order) of support is of great importance in the rational design of heterogeneous catalysts. Herein, we have taken the Ni-supported ferromagnetic (FM) CrBr3 support (Nix/CrBr3) to thoroughly investigate the effect of spin-order on electrocatalytic oxygen reduction reaction (ORR) via spin-polarized density functional theory calculations. Specifically, Ni loading induces anti-FM coupling in Ni-Cr, leading to a transition from FM-to-ferrimagnetic (FIM) properties, while Ni-Ni metallic bonds create a robust FM direct exchange, benefiting the improvement of the phase transition temperature. Interestingly, with the increase in Ni loading, the easy magnetic axis changes from out-of-plane (2D-Heisenberg) to in-plane (2D-XY). The adsorption properties of Nix/CrBr3, involving O2 adsorption energy and configuration, are not governed by the d-band center but strongly correlate with magnetic anisotropy. It is noteworthy that the applied potential and electrolyte acidity triggers spin-order transition phenomena during the ORR and induces the catalytic pathway change from 4e- ORR to 2e- ORR with the excellent onset potential of 0.93 V/reversible hydrogen electrode, comparable to the existing most excellent noble-metal catalysts. Generally, these findings offer new avenues to understand and design heterogeneous catalysts with magnetic support.</description>
-      <author>Yi-jie Chen, Jun Wen, Zhenlin Luo, Fu-li Sun, Wenxian Chen, Gui&#8722;Lin Zhuang</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1063/5.0207891</guid>
-    </item>
-    <item>
-      <title>Seawater electrolysis for fuels and chemicals production: fundamentals, achievements, and perspectives</title>
-      <link>https://doi.org/10.1039/d3cs00822c</link>
-      <description>Changjian Lin, Chang Yu, Junting Dong, Yingnan Han, Hongling Huang, Wenbin Li, Yafang Zhang, Xin Tan, Jieshan Qiu, Chemical Society reviews. None(None)] 2024. https://openalex.org/W4399500181
-
-                The production of value-added fuels and chemicals via seawater electrolysis is a promising step or support towards sustainable energy development and carbon neutrality.</description>
-      <author>Changjian Lin, Chang Yu, Junting Dong, Yingnan Han, Hongling Huang, Wenbin Li, Yafang Zhang, Xin Tan, Jieshan Qiu</author>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1039/d3cs00822c</guid>
-    </item>
-    <item>
-      <title>Atomic rare earths activate direct O-O coupling in manganese oxide towards electrocatalytic oxygen evolution</title>
-      <link>https://doi.org/10.1016/j.nanoen.2024.109868</link>
-      <description>Meng Li, Xuan Wang, Di Zhang, Yu-Jie Huang, Yanjun Shen, Fei Pan, Jiaqi Lin, Yan Wang, Dongmei Sun, Kai Huang, Yawen Tang, Jongmin Lee, Hao Li, Gengtao Fu, Nano energy. None(None)] 2024. https://openalex.org/W4399507103
-
-                No abstract</description>
-      <author>Meng Li, Xuan Wang, Di Zhang, Yu-Jie Huang, Yanjun Shen, Fei Pan, Jiaqi Lin, Yan Wang, Dongmei Sun, Kai Huang, Yawen Tang, Jongmin Lee, Hao Li, Gengtao Fu</author>
-      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.nanoen.2024.109868</guid>
-    </item>
-    <item>
-      <title>CrN supported by carbon nanosheets as efficient catalysts toward oxygen reduction reaction and Zn-air batteries</title>
-      <link>https://doi.org/10.1007/s12598-024-02855-x</link>
-      <description>Yating Zhang, Fan Zhang, Zhe L&#252;, Junming Luo, Suyang Feng, Zhihui Wang, Hui Chen, Haoming Wu, Zhengpei Miao, Bin Chi, Neng Yu, Chen You, Jing Li, Xinlong Tian, Rare metals/Rare Metals. None(None)] 2024. https://openalex.org/W4399508774
-
-                No abstract</description>
-      <author>Yating Zhang, Fan Zhang, Zhe L&#252;, Junming Luo, Suyang Feng, Zhihui Wang, Hui Chen, Haoming Wu, Zhengpei Miao, Bin Chi, Neng Yu, Chen You, Jing Li, Xinlong Tian</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1007/s12598-024-02855-x</guid>
-    </item>
     <item>
       <title>Potential Dependence and Substituent Effect in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction on a Cobalt Phthalocyanine Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.3c05089</link>
@@ -756,6 +676,96 @@
       <author>Changcheng Xu, Shaobo Han, Qiao Zhao, Shuang Liu, Wei Liu, Yong Li, Wenjie Shen</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153208</guid>
+    </item>
+    <item>
+      <title>Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions</title>
+      <link>https://doi.org/10.1021/acscatal.4c01175</link>
+      <description>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf, ACS catalysis. None(None)] 2024. https://openalex.org/W4399722609
+
+                No abstract</description>
+      <author>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01175</guid>
+    </item>
+    <item>
+      <title>Efficient Electrocatalytic Urea Formation from Gas Pollutants on Heteronuclear Dual-Metal Atom Anchored N-Doped Graphene</title>
+      <link>https://doi.org/10.1021/acs.energyfuels.4c01378</link>
+      <description>Lu Song, Jiadi Ying, Tiancun Liu, Xu Jian, Qianqian Wang, Min Guo, Qi Shen, Yong Wu, Yafei Zhao, Zhixin Yu, Energy &amp; fuels. None(None)] 2024. https://openalex.org/W4399725574
+
+                No abstract</description>
+      <author>Lu Song, Jiadi Ying, Tiancun Liu, Xu Jian, Qianqian Wang, Min Guo, Qi Shen, Yong Wu, Yafei Zhao, Zhixin Yu</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acs.energyfuels.4c01378</guid>
+    </item>
+    <item>
+      <title>Conjugated Microporous Polymer Derived Hierarchically Porous N-Rich Nanocarbon as a Durable Electrocatalyst for Oxygen Reduction Reaction in Zn-Air Battery</title>
+      <link>https://doi.org/10.2139/ssrn.4868072</link>
+      <description>Lunjie Liu, Zian Xu, Yu Xia, Mei&#8208;Yan Gao, Qiong&#8208;Hua Jin, Baobing Zheng, Chongxuan Liu, Shaoqing Chen, Z. Zhang, Hsing&#8208;Lin Wang, No host. None(None)] 2024. https://openalex.org/W4399729859
+
+                No abstract</description>
+      <author>Lunjie Liu, Zian Xu, Yu Xia, Mei&#8208;Yan Gao, Qiong&#8208;Hua Jin, Baobing Zheng, Chongxuan Liu, Shaoqing Chen, Z. Zhang, Hsing&#8208;Lin Wang</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4868072</guid>
+    </item>
+    <item>
+      <title>Cu-based materials for electrocatalytic CO2 to alcohols: Reaction mechanism, catalyst categories, and regulation strategies</title>
+      <link>https://doi.org/10.1016/j.jechem.2024.06.008</link>
+      <description>Yaru Lei, Yue Niu, Xiaolong Tang, Xiangtao Yu, Xiubing Huang, Xiaoxi Lin, Honghong Yi, Shunzheng Zhao, Jingjing Jiang, Jiyue Zhang, Feifei Gao, Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://openalex.org/W4399730927
+
+                No abstract</description>
+      <author>Yaru Lei, Yue Niu, Xiaolong Tang, Xiangtao Yu, Xiubing Huang, Xiaoxi Lin, Honghong Yi, Shunzheng Zhao, Jingjing Jiang, Jiyue Zhang, Feifei Gao</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.06.008</guid>
+    </item>
+    <item>
+      <title>First Principles Energetic Span Analysis of the Activity of Transition Metal Catalysts for N2O Decomposition: The Reversal of Descriptor Roles in the Presence of NO</title>
+      <link>https://doi.org/10.1016/j.cattod.2024.114892</link>
+      <description>Gunjana Yadav, Abhishek Khetan, Catalysis today. None(None)] 2024. https://openalex.org/W4399732840
+
+                No abstract</description>
+      <author>Gunjana Yadav, Abhishek Khetan</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1016/j.cattod.2024.114892</guid>
+    </item>
+    <item>
+      <title>A Supported Metal Dual-Atom Site Catalyst for Oxygen Reduction: A First-Principles Study</title>
+      <link>https://doi.org/10.1134/s1023193524700022</link>
+      <description>Xianjun Chen, C. F. Xu, Feng He, Minggang Huang, Hua Ji, Russian journal of electrochemistry. 60(6)] 2024. https://openalex.org/W4399739457
+
+                No abstract</description>
+      <author>Xianjun Chen, C. F. Xu, Feng He, Minggang Huang, Hua Ji</author>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1134/s1023193524700022</guid>
+    </item>
+    <item>
+      <title>&lt;i&gt;p&lt;/i&gt;-block germanenes as a promising electrocatalysts for the oxygen reduction reaction</title>
+      <link>https://doi.org/10.1063/5.0211907</link>
+      <description>Pengju Wang, Weiyi Xia, Nanshu Liu, Wei Pei, Si Zhou, Yusong Tu, Jijun Zhao, Journal of chemical physics online/&#152;The &#156;Journal of chemical physics/Journal of chemical physics. 160(23)] 2024. https://openalex.org/W4399740280
+
+                The oxygen reduction reaction (ORR), a pivotal process in hydrogen fuel cells crucial for enhancing fuel cell performance through suitable catalysts, remains a challenging aspect of development. This study explores the catalytic potential of germanene on Al (111), taking advantage of the successful preparation of stable reconstructed germanene layers on Al (111) and the excellent catalytic performance exhibited by germanium-based nanomaterials. Through first-principles calculations, we demonstrate that the O2 molecule can be effectively activated on both freestanding and supported germanene nanosheets, featuring kinetic barriers of 0.40 and 0.04 eV, respectively. The presence of the Al substrate not only significantly enhances the stability of the reconstructed germanene but also preserves its exceptional ORR catalytic performance. These theoretical findings offer crucial insights into the substrate-mediated modulation of germanene stability and catalytic efficiency, paving the way for the design of stable and efficient ORR catalysts for future applications.</description>
+      <author>Pengju Wang, Weiyi Xia, Nanshu Liu, Wei Pei, Si Zhou, Yusong Tu, Jijun Zhao</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1063/5.0211907</guid>
+    </item>
+    <item>
+      <title>MXenes as Electrocatalysts for Energy Conversion Applications: Advances and Prospects</title>
+      <link>https://doi.org/10.1002/aesr.202400033</link>
+      <description>Mohamed El Ouardi, Omar Ait Layachi, Badr&#8208;Eddine Channab, Ayoub El Idrissi, Amal BaQais, Madjid Arab, Mohamed Zbair, Mohamed Saadi, Hassan Ait Ahsaine, Advanced energy and sustainability research. None(None)] 2024. https://openalex.org/W4399756246
+
+                Hydrogen as a potential future energy source provides a number of benefits in terms of sustainability, high energy density, and zero emissions. The production of hydrogen via water splitting is regarded as the cleanest and sustainable process. In contrast, fossil fuel combustion causes significant environmental problems through the production and release of secondary gases such as NO x , SO 2 , and CO 2 . It is vital to focus on reducing these harmful gases. CO 2 , a major pollutant produced by the combustion of fossil fuels and various human activities, plays a central role in the greenhouse effect and contributes to global warming. It is therefore imperative to actively eliminate and mitigate CO 2 levels to preserve the global environment. MXenes and MXene&#8208;based catalysts exhibit both outstanding hydrogen evolution reaction (HER) performance and CO 2 reduction. In this review, recent progress is systematically examined and discussed in the preparation and utilization of MXenes as catalysts for HER and carbon dioxide reduction reaction (CO 2 RR). The discussion begins with a concise overview of the fabrication and characteristics of MXenes, followed by a comprehensive exploration of their efficacy as catalysts for HER and CO 2 RR.</description>
+      <author>Mohamed El Ouardi, Omar Ait Layachi, Badr&#8208;Eddine Channab, Ayoub El Idrissi, Amal BaQais, Madjid Arab, Mohamed Zbair, Mohamed Saadi, Hassan Ait Ahsaine</author>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/aesr.202400033</guid>
+    </item>
+    <item>
+      <title>Optimizing Amorphous Molybdenum Sulfide Thin Film Electrocatalysts: Trade-Off between Specific Activity and Microscopic Porosity</title>
+      <link>https://doi.org/10.1021/acsami.4c06308</link>
+      <description>Thom R. Harris-Lee, Tom Turvey, Gunani Jayamaha, Myunghee Kang, Frank Marken, Andrew L. Johnson, Jie Zhang, Cameron L. Bentley, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4399758517
+
+                No abstract</description>
+      <author>Thom R. Harris-Lee, Tom Turvey, Gunani Jayamaha, Myunghee Kang, Frank Marken, Andrew L. Johnson, Jie Zhang, Cameron L. Bentley</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acsami.4c06308</guid>
     </item>
     <item>
       <title>Computational Design of 2D Phosphorus Nanostructures for Renewable Energy Applications: A Review</title>

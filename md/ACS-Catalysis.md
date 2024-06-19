@@ -1,32 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Tue Jun 18 01:09:04 2024
+Created on Wed Jun 19 01:09:11 2024
 
-Found 21 results from 2024-06-11 to 2024-06-18
+Found 22 results from 2024-06-12 to 2024-06-19
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides   
-
-OpenAlex: https://openalex.org/W4399487629    
-Open access: False
-    
-[Hongwei Zhang](https://openalex.org/A5021835538), [Qin Yang](https://openalex.org/A5080579784), [Shuting Luo](https://openalex.org/A5040283380), [Zhichen Liu](https://openalex.org/A5087554849), [Jinming Huang](https://openalex.org/A5010874636), [Yun Zheng](https://openalex.org/A5076858687), [Cejun Hu](https://openalex.org/A5043850612), [Jiujun Zhang](https://openalex.org/A5015613410), [Xiaojun Bao](https://openalex.org/A5052807800), [Pei Yuan](https://openalex.org/A5012688685), [Xiangdong Yao](https://openalex.org/A5022148039), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01407.
-    
-No abstract    
-
-    
-
-## Integrating Atomically Dispersed Sites with Versatile Oxide Supports to Construct Efficient Thermocatalysts: Toward Comprehensive Treatment of Flue Gas Pollutants   
-
-OpenAlex: https://openalex.org/W4399490594    
-Open access: False
-    
-[Qi Yu](https://openalex.org/A5061653097), [Jun Xiang](https://openalex.org/A5019447258), [Tao Liu](https://openalex.org/A5013297039), [Kai Xu](https://openalex.org/A5016075064), [Jun Xu](https://openalex.org/A5023647213), [Long Jiang](https://openalex.org/A5007323251), [Yi Wang](https://openalex.org/A5083340338), [Caiting Li](https://openalex.org/A5055550573), [Song Hu](https://openalex.org/A5030482940), [Jun Xiang](https://openalex.org/A5002009991), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01488.
-    
-No abstract    
-
-    
 
 ## Potential Dependence and Substituent Effect in CO2 Electroreduction on a Cobalt Phthalocyanine Catalyst   
 
@@ -232,6 +210,39 @@ OpenAlex: https://openalex.org/W4399677145
 Open access: False
     
 [Heng Cao](https://openalex.org/A5079800526), [Xiaodi Zhu](https://openalex.org/A5038541786), [Jiawei Xue](https://openalex.org/A5001720256), [Ruyang Wang](https://openalex.org/A5033862876), [Jiusi Shang](https://openalex.org/A5035134262), [Peiyu Ma](https://openalex.org/A5063955135), [Chengyuan Liu](https://openalex.org/A5031824581), [Jun Bao](https://openalex.org/A5086265105), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02857.
+    
+No abstract    
+
+    
+
+## Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions   
+
+OpenAlex: https://openalex.org/W4399722609    
+Open access: True
+    
+[Thanapat Worakul](https://openalex.org/A5033499565), [Rubén Laplaza](https://openalex.org/A5047408024), [Shubhajit Das](https://openalex.org/A5091094440), [Matthew D. Wodrich](https://openalex.org/A5076317766), [Clémence Corminbœuf](https://openalex.org/A5007563039), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01175.
+    
+No abstract    
+
+    
+
+## Rational Design of Catalysts with Spinel Nanostructures for Thermal-Driven C1 Conversion   
+
+OpenAlex: https://openalex.org/W4399730295    
+Open access: False
+    
+[Xiaoxue Han](https://openalex.org/A5091368247), [Dan Guo](https://openalex.org/A5068233553), [Yong Wang](https://openalex.org/A5038325575), [Shouying Huang](https://openalex.org/A5075318509), [Mei‐Yan Wang](https://openalex.org/A5041578170), [Yue Wang](https://openalex.org/A5065841119), [Maoshuai Li](https://openalex.org/A5025279081), [Shengping Wang](https://openalex.org/A5026063784), [Xinbin Ma](https://openalex.org/A5043956105), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01138.
+    
+No abstract    
+
+    
+
+## Atomically Dispersed Metal–Nitrogen–Carbon Catalysts for Electrochemical Nitrogen Transformations to Ammonia and Beyond   
+
+OpenAlex: https://openalex.org/W4399730682    
+Open access: False
+    
+[Eamonn Murphy](https://openalex.org/A5021919589), [Yuanchao Liu](https://openalex.org/A5053518193), [Baiyu Sun](https://openalex.org/A5010504692), [Yuhan Chen](https://openalex.org/A5025163492), [Shengyuan Guo](https://openalex.org/A5035028180), [Plamen Atanassov](https://openalex.org/A5080704605), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02717.
     
 No abstract    
 

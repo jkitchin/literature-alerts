@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 18 Jun 2024 01:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 01:09:11 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>On the Activity and Selectivity of 5-Hydroxymethylfurfural Electrocatalytic Oxidation over Cation-Defective Nickel Hydroxides</title>
-      <link>https://doi.org/10.1021/acscatal.4c01407</link>
-      <description>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao, ACS catalysis. None(None)] 2024. https://openalex.org/W4399487629
-
-                No abstract</description>
-      <author>Hongwei Zhang, Qin Yang, Shuting Luo, Zhichen Liu, Jinming Huang, Yun Zheng, Cejun Hu, Jiujun Zhang, Xiaojun Bao, Pei Yuan, Xiangdong Yao</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01407</guid>
-    </item>
-    <item>
-      <title>Integrating Atomically Dispersed Sites with Versatile Oxide Supports to Construct Efficient Thermocatalysts: Toward Comprehensive Treatment of Flue Gas Pollutants</title>
-      <link>https://doi.org/10.1021/acscatal.4c01488</link>
-      <description>Qi Yu, Jun Xiang, Tao Liu, Kai Xu, Jun Xu, Long Jiang, Yi Wang, Caiting Li, Song Hu, Jun Xiang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399490594
-
-                No abstract</description>
-      <author>Qi Yu, Jun Xiang, Tao Liu, Kai Xu, Jun Xu, Long Jiang, Yi Wang, Caiting Li, Song Hu, Jun Xiang</author>
-      <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01488</guid>
-    </item>
     <item>
       <title>Potential Dependence and Substituent Effect in CO&lt;sub&gt;2&lt;/sub&gt; Electroreduction on a Cobalt Phthalocyanine Catalyst</title>
       <link>https://doi.org/10.1021/acscatal.3c05089</link>
@@ -216,6 +196,36 @@
       <author>Heng Cao, Xiaodi Zhu, Jiawei Xue, Ruyang Wang, Jiusi Shang, Peiyu Ma, Chengyuan Liu, Jun Bao</author>
       <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02857</guid>
+    </item>
+    <item>
+      <title>Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions</title>
+      <link>https://doi.org/10.1021/acscatal.4c01175</link>
+      <description>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf, ACS catalysis. None(None)] 2024. https://openalex.org/W4399722609
+
+                No abstract</description>
+      <author>Thanapat Worakul, Rub&#233;n Laplaza, Shubhajit Das, Matthew D. Wodrich, Cl&#233;mence Corminb&#339;uf</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01175</guid>
+    </item>
+    <item>
+      <title>Rational Design of Catalysts with Spinel Nanostructures for Thermal-Driven C1 Conversion</title>
+      <link>https://doi.org/10.1021/acscatal.4c01138</link>
+      <description>Xiaoxue Han, Dan Guo, Yong Wang, Shouying Huang, Mei&#8208;Yan Wang, Yue Wang, Maoshuai Li, Shengping Wang, Xinbin Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4399730295
+
+                No abstract</description>
+      <author>Xiaoxue Han, Dan Guo, Yong Wang, Shouying Huang, Mei&#8208;Yan Wang, Yue Wang, Maoshuai Li, Shengping Wang, Xinbin Ma</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01138</guid>
+    </item>
+    <item>
+      <title>Atomically Dispersed Metal&#8211;Nitrogen&#8211;Carbon Catalysts for Electrochemical Nitrogen Transformations to Ammonia and Beyond</title>
+      <link>https://doi.org/10.1021/acscatal.4c02717</link>
+      <description>Eamonn Murphy, Yuanchao Liu, Baiyu Sun, Yuhan Chen, Shengyuan Guo, Plamen Atanassov, ACS catalysis. None(None)] 2024. https://openalex.org/W4399730682
+
+                No abstract</description>
+      <author>Eamonn Murphy, Yuanchao Liu, Baiyu Sun, Yuhan Chen, Shengyuan Guo, Plamen Atanassov</author>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02717</guid>
     </item>
   </channel>
 </rss>
