@@ -4,8 +4,18 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/authors.xml</link>
     <description>List of authors</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2024 01:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 01:07:10 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+    <item>
+      <title>Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach</title>
+      <link>https://doi.org/10.1371/journal.pone.0304505</link>
+      <description>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne, PloS one. 19(6)] 2024. https://openalex.org/W4399769525
+
+                The role of macrophages in regulating the tumor microenvironment has spurned the exponential generation of nanoparticle targeting technologies. With the large amount of literature and the speed at which it is generated it is difficult to remain current with the most up-to-date literature. In this study we performed a topic modeling analysis of 854 abstracts of peer-reviewed literature for the most common usages of nanoparticle targeting of tumor associated macrophages (TAMs) in solid tumors. The data spans 20 years of literature, providing a broad perspective of the nanoparticle strategies. Our topic model found 6 distinct topics: Immune and TAMs, Nanoparticles, Imaging, Gene Delivery and Exosomes, Vaccines, and Multi-modal Therapies. We also found distinct nanoparticle usage, tumor types, and therapeutic trends across these topics. Moreover, we established that the topic model could be used to assign new papers into the existing topics, thereby creating a Living Review. This type of &#8220;birds-eye-view&#8221; analysis provides a useful assessment tool for exploring new and emerging themes within a large field.</description>
+      <author>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0304505</guid>
+    </item>
   </channel>
 </rss>

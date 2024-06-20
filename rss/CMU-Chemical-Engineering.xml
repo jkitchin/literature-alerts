@@ -4,148 +4,38 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2024 01:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 01:07:17 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
-      <title>Experimental and Theoretical Evaluation of Feed Flow Collar Design for Shell Fed Hollow Fiber Membrane Modules</title>
-      <link>https://doi.org/10.2172/2348930</link>
-      <description>Thien Tran, Maya Schuchert, Victor A. Kusuma, Lili Sun, Comfort Oluleke, Nathan Diemler, Lingxiang Zhu, Grigorios Panagakos, G. Glenn Lipscomb, David Hui&#8208;Kang, No host. None(None)] 2024. https://openalex.org/W4396974300
+      <title>Membrane Development for CO2 Capture from Steel Manufacturing</title>
+      <link>https://doi.org/10.2172/2371810</link>
+      <description>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4399709804
 
-                An experimental and theoretical study of module collar design is presented here. Hollow fiber membranes are prepared by dip coating a poly(vinylidene) (PVDF) support with a polydimethylsiloxane (PDMS) gutter layer and a Pebax 2533 selective layer. Fiber bundles with a well-defined fiber packing are prepared using a 3D printed module. A parallel fiber bundle consisting of 4-9 uniformly spaced fibers is created with printed tabs that align the fibers and create a tubesheet. The tabs are sealed within a printed case that possesses a series of external ports for gas introduction and removal. Uniquely, both port location and the use of a collar to assist fluid distribution in the shell can be varied for the same fiber bundle. Experimental measurements are compared to computational fluid dynamics (CFD) simulations. The experimental module design allows high-fidelity representation of the fiber bundle and module case in the simulations. Comparisons between experiment and simulation are in good agreement over a broad range of experimental conditions. The detrimental effect of having ports located too close, leading to stagnation regions, is captured as well as the beneficial effects of using a collar for shell-side fluid distribution around the fiber bundle. Such results help validate the use of CFD to develop high-performance module designs.</description>
-      <author>Thien Tran, Maya Schuchert, Victor A. Kusuma, Lili Sun, Comfort Oluleke, Nathan Diemler, Lingxiang Zhu, Grigorios Panagakos, G. Glenn Lipscomb, David Hui&#8208;Kang</author>
-      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2348930</guid>
+                No abstract</description>
+      <author>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2172/2371810</guid>
     </item>
     <item>
-      <title>Optimization strategies for produced water networks with integrated desalination facilities</title>
-      <link>https://doi.org/10.1016/j.compchemeng.2024.108738</link>
-      <description>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler, Computers &amp; chemical engineering. None(None)] 2024. https://openalex.org/W4396978966
+      <title>Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach</title>
+      <link>https://doi.org/10.1371/journal.pone.0304505</link>
+      <description>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne, PloS one. 19(6)] 2024. https://openalex.org/W4399769525
 
-                Optimal management and desalination of produced water is a major challenge for U.S. oil and gas development. Integrating rigorous desalination models into multi-period produced water network optimization problems presents several hurdles, which need to be tackled using advanced optimization strategies. In this work, a novel multi-period produced water network formulation with separate solid and liquid flows is introduced to avoid singularities at zero flows. Rigorous steady state desalination models based on mechanical vapor recompression are embedded at the desalination sites in the network model. An integrated optimization formulation is developed to co-optimize the design of desalination units along with the operation of the network. Furthermore, a more robust approach based on the trust region filter method is developed to efficiently integrate complex desalination models into the multi-period planning problem. Both optimization approaches are demonstrated on a produced water network from the PARETO library (Drouven et al., 2022) using thermal desalination units. Our results show that while the TRF and integrated approaches have comparable solve times, the TRF approach has better performance reliability in terms of solver convergence. Furthermore, the optimal solution obtained by embedding rigorous models into the network is significantly different than when desalination costs are approximated using simple cost models, which motivates further research in this field.</description>
-      <author>Sakshi Naik, Miguel Zamarripa, Markus Drouven, Lorenz T. Biegler</author>
-      <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.compchemeng.2024.108738</guid>
+                The role of macrophages in regulating the tumor microenvironment has spurned the exponential generation of nanoparticle targeting technologies. With the large amount of literature and the speed at which it is generated it is difficult to remain current with the most up-to-date literature. In this study we performed a topic modeling analysis of 854 abstracts of peer-reviewed literature for the most common usages of nanoparticle targeting of tumor associated macrophages (TAMs) in solid tumors. The data spans 20 years of literature, providing a broad perspective of the nanoparticle strategies. Our topic model found 6 distinct topics: Immune and TAMs, Nanoparticles, Imaging, Gene Delivery and Exosomes, Vaccines, and Multi-modal Therapies. We also found distinct nanoparticle usage, tumor types, and therapeutic trends across these topics. Moreover, we established that the topic model could be used to assign new papers into the existing topics, thereby creating a Living Review. This type of &#8220;birds-eye-view&#8221; analysis provides a useful assessment tool for exploring new and emerging themes within a large field.</description>
+      <author>Chloe Brown, Colette Bilynsky, Melanie Gainey, Sarah Young, John R. Kitchin, Elizabeth Wayne</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1371/journal.pone.0304505</guid>
     </item>
     <item>
-      <title>Self-organized Patterns in Predator-Prey Droplet Systems</title>
-      <link>https://doi.org/10.26434/chemrxiv-2024-15zsd</link>
-      <description>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar, No host. None(None)] 2024. https://openalex.org/W4397010234
+      <title>Branched&#8208;Tail Lipid Nanoparticles for Intravenous mRNA Delivery to Lung Immune, Endothelial, and Alveolar Cells in Mice</title>
+      <link>https://doi.org/10.1002/adhm.202400225</link>
+      <description>Daria M. Strelkova Petersen, Ryan M. Weiss, Khalid A. Hajj, Sai Gopal Krishna Yerneni, Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Kathryn A. Whitehead, Advanced healthcare materials/Advanced Healthcare Materials. None(None)] 2024. https://openalex.org/W4399772948
 
-                Non-equilibrium patterns are widespread in nature and often arise from the self-organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil-in-water droplet mixtures with predator-prey interactions can result in a variety of self-organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self-organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.</description>
-      <author>Yutong Liu, R. Kailasham, Pepijn G. Moerman, Aditya S. Khair, Lauren D. Zarzar</author>
-      <pubDate>Fri, 17 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.26434/chemrxiv-2024-15zsd</guid>
-    </item>
-    <item>
-      <title>Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills</title>
-      <link>https://doi.org/10.2172/2349470</link>
-      <description>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4397020614
-
-                This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.</description>
-      <author>Lingxiang Zhu, Thien Tran, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor A. Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
-      <pubDate>Wed, 15 May 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2349470</guid>
-    </item>
-    <item>
-      <title>CCDC 1015545: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/cc132rjg</link>
-      <description>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin, No host. None(None)] 2015. https://openalex.org/W4397063541
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin</author>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/cc132rjg</guid>
-    </item>
-    <item>
-      <title>CCDC 1013214: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/cc130bbs</link>
-      <description>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin, No host. None(None)] 2015. https://openalex.org/W4397105919
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin</author>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/cc130bbs</guid>
-    </item>
-    <item>
-      <title>CCDC 1013212: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/cc130b8q</link>
-      <description>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin, No host. None(None)] 2015. https://openalex.org/W4397108799
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin</author>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/cc130b8q</guid>
-    </item>
-    <item>
-      <title>CCDC 1059113: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/cc14k2yq</link>
-      <description>Kamalkishore Pati, Christopher Michas, David Allenger, Ilya Piskun, Peter S. Coutros, Gabriel Gomes, Igor V. Alabugin, No host. None(None)] 2015. https://openalex.org/W4397182666
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Kamalkishore Pati, Christopher Michas, David Allenger, Ilya Piskun, Peter S. Coutros, Gabriel Gomes, Igor V. Alabugin</author>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/cc14k2yq</guid>
-    </item>
-    <item>
-      <title>CCDC 1013215: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/cc130bct</link>
-      <description>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin, No host. None(None)] 2015. https://openalex.org/W4397214700
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Kamalkishore Pati, Gabriel Gomes, Trevor Harris, Audrey Hughes, Hoa Phan, Tanmay Banerjee, Kenneth Hanson, Igor V. Alabugin</author>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/cc130bct</guid>
-    </item>
-    <item>
-      <title>CCDC 1498591: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc1m9dnz</link>
-      <description>Trevor Harris, Gabriel Gomes, Ronald J. Clark, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2016. https://openalex.org/W4397438581
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Trevor Harris, Gabriel Gomes, Ronald J. Clark, Igor V. Alabugin</author>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1m9dnz</guid>
-    </item>
-    <item>
-      <title>CCDC 1503346: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc1mgc1h</link>
-      <description>Satoshi Umezu, Gabriel Gomes, Tatsuro Yoshinaga, Mikei Sakae, Kenji Matsumoto, Takayuki Iwata, Igor V. Alabugin, Mitsuru Shindo, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397308426
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Satoshi Umezu, Gabriel Gomes, Tatsuro Yoshinaga, Mikei Sakae, Kenji Matsumoto, Takayuki Iwata, Igor V. Alabugin, Mitsuru Shindo</author>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1mgc1h</guid>
-    </item>
-    <item>
-      <title>CCDC 1561093: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc1pdfvc</link>
-      <description>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin, The Cambridge Structural Database. None(None)] 2017. https://openalex.org/W4397334097
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Trevor Harris, Gabriel Gomes, Suliman Ayad, Ronald J. Clark, Vladislav V. Lobodin, Megan Tuscan, Kenneth Hanson, Igor V. Alabugin</author>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1pdfvc</guid>
-    </item>
-    <item>
-      <title>CCDC 1586928: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc1q8b7k</link>
-      <description>Vera A. Vil&#8217;, Gabriel Gomes, Oleg V. Bityukov, Konstantin &#1040;. Lyssenko, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev, No host. None(None)] 2018. https://openalex.org/W4397309570
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Vera A. Vil&#8217;, Gabriel Gomes, Oleg V. Bityukov, Konstantin &#1040;. Lyssenko, G. I. Nikishin, Igor V. Alabugin, Alexander O. Terent&#8217;ev</author>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1q8b7k</guid>
-    </item>
-    <item>
-      <title>CCDC 1589392: Experimental Crystal Structure Determination</title>
-      <link>https://doi.org/10.5517/ccdc.csd.cc1qbwqn</link>
-      <description>Nikolay P. Tsvetkov, Edgar Gonz&#225;lez-Rodr&#237;guez, Audrey Hughes, Gabriel Gomes, Frankie D. White, Febin Kuriakose, Igor V. Alabugin, No host. None(None)] 2018. https://openalex.org/W4397328850
-
-                An entry from the Cambridge Structural Database, the world&#8217;s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.</description>
-      <author>Nikolay P. Tsvetkov, Edgar Gonz&#225;lez-Rodr&#237;guez, Audrey Hughes, Gabriel Gomes, Frankie D. White, Febin Kuriakose, Igor V. Alabugin</author>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.5517/ccdc.csd.cc1qbwqn</guid>
+                Abstract Lipid nanoparticles (LNPs) are proven as safe and effective delivery systems on a global scale. However, their efficacy has been limited primarily to liver and immune cells targets. To extend the potential applicability of mRNA drugs, we have synthesized and examined a library of 580 ionizable lipidoids for delivery to extrahepatocellular targets following intravenous administration. Of these lipidoids, over 40 enabled protein expression in mice, with the majority transfecting the liver. Beyond the liver, several LNPs containing new, branched&#8208;tail ionizable lipidoids potently delivered mRNA to the lungs, with cell&#8208;level specificity depending on helper lipid chemistry. Incorporation of the neutral helper lipid DOPE at 16 mol% enabled highly specific delivery to natural killer and dendritic cells within the lung. Although inclusion of the cationic helper lipid, DOTAP, improved lung tropism, it did so at the expense of cell specificity, resulting in equal transfection of endothelial and lymphoid cells. DOTAP formulations were also less favorable than DOPE formulations in that they elevated liver enzyme level and the overall cytokine response. Together, these data identify a new branched&#8208;tailed LNP formulation with a unique ability to selectively transfect lung immune cell populations without the use of toxicity&#8208;prone cationic helper lipids. This novel vehicle may unlock RNA therapies for lung diseases associated with immune cell dysregulation, including cancer, viral infections, and autoimmune disorders. This article is protected by copyright. All rights reserved</description>
+      <author>Daria M. Strelkova Petersen, Ryan M. Weiss, Khalid A. Hajj, Sai Gopal Krishna Yerneni, Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Kathryn A. Whitehead</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1002/adhm.202400225</guid>
     </item>
   </channel>
 </rss>

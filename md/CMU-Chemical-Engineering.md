@@ -1,161 +1,40 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Tue May 21 01:05:41 2024
+Created on Thu Jun 20 01:07:17 2024
 
-Found 14 results from 2024-05-14 to 2024-05-21
+Found 3 results from 2024-06-13 to 2024-06-20
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
-## Experimental and Theoretical Evaluation of Feed Flow Collar Design for Shell Fed Hollow Fiber Membrane Modules   
+## Membrane Development for CO2 Capture from Steel Manufacturing   
 
-OpenAlex: https://openalex.org/W4396974300    
+OpenAlex: https://openalex.org/W4399709804    
 Open access: False
     
-[Thien Tran](https://openalex.org/A5037749425), [Maya Schuchert](https://openalex.org/A5098667099), [Victor A. Kusuma](https://openalex.org/A5041659494), [Lili Sun](https://openalex.org/A5034596712), [Comfort Oluleke](https://openalex.org/A5093456232), [Nathan Diemler](https://openalex.org/A5032502544), [Lingxiang Zhu](https://openalex.org/A5002137675), [Grigorios Panagakos](https://openalex.org/A5028498558), [G. Glenn Lipscomb](https://openalex.org/A5063620462), [David Hui‐Kang](https://openalex.org/A5083623112), No host. None(None)] 2024.https://doi.org/10.2172/2348930.
+[Thien Tran](https://openalex.org/A5037749425), [Lingxiang Zhu](https://openalex.org/A5002137675), [Fangming Xiang](https://openalex.org/A5076767088), [Victor A. Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2371810.
     
-An experimental and theoretical study of module collar design is presented here. Hollow fiber membranes are prepared by dip coating a poly(vinylidene) (PVDF) support with a polydimethylsiloxane (PDMS) gutter layer and a Pebax 2533 selective layer. Fiber bundles with a well-defined fiber packing are prepared using a 3D printed module. A parallel fiber bundle consisting of 4-9 uniformly spaced fibers is created with printed tabs that align the fibers and create a tubesheet. The tabs are sealed within a printed case that possesses a series of external ports for gas introduction and removal. Uniquely, both port location and the use of a collar to assist fluid distribution in the shell can be varied for the same fiber bundle. Experimental measurements are compared to computational fluid dynamics (CFD) simulations. The experimental module design allows high-fidelity representation of the fiber bundle and module case in the simulations. Comparisons between experiment and simulation are in good agreement over a broad range of experimental conditions. The detrimental effect of having ports located too close, leading to stagnation regions, is captured as well as the beneficial effects of using a collar for shell-side fluid distribution around the fiber bundle. Such results help validate the use of CFD to develop high-performance module designs.    
-
-    
-
-## Optimization strategies for produced water networks with integrated desalination facilities   
-
-OpenAlex: https://openalex.org/W4396978966    
-Open access: False
-    
-[Sakshi Naik](https://openalex.org/A5054628015), [Miguel Zamarripa](https://openalex.org/A5015881602), [Markus Drouven](https://openalex.org/A5048411560), [Lorenz T. Biegler](https://openalex.org/A5052825722), Computers & chemical engineering. None(None)] 2024.https://doi.org/10.1016/j.compchemeng.2024.108738.
-    
-Optimal management and desalination of produced water is a major challenge for U.S. oil and gas development. Integrating rigorous desalination models into multi-period produced water network optimization problems presents several hurdles, which need to be tackled using advanced optimization strategies. In this work, a novel multi-period produced water network formulation with separate solid and liquid flows is introduced to avoid singularities at zero flows. Rigorous steady state desalination models based on mechanical vapor recompression are embedded at the desalination sites in the network model. An integrated optimization formulation is developed to co-optimize the design of desalination units along with the operation of the network. Furthermore, a more robust approach based on the trust region filter method is developed to efficiently integrate complex desalination models into the multi-period planning problem. Both optimization approaches are demonstrated on a produced water network from the PARETO library (Drouven et al., 2022) using thermal desalination units. Our results show that while the TRF and integrated approaches have comparable solve times, the TRF approach has better performance reliability in terms of solver convergence. Furthermore, the optimal solution obtained by embedding rigorous models into the network is significantly different than when desalination costs are approximated using simple cost models, which motivates further research in this field.    
+No abstract    
 
     
 
-## Self-organized Patterns in Predator-Prey Droplet Systems   
+## Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach   
 
-OpenAlex: https://openalex.org/W4397010234    
+OpenAlex: https://openalex.org/W4399769525    
 Open access: True
     
-[Yutong Liu](https://openalex.org/A5047262526), [R. Kailasham](https://openalex.org/A5034160371), [Pepijn G. Moerman](https://openalex.org/A5011172184), [Aditya S. Khair](https://openalex.org/A5018420940), [Lauren D. Zarzar](https://openalex.org/A5022036259), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-15zsd ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6646831b21291e5d1d76a5e1/original/self-organized-patterns-in-predator-prey-droplet-systems.pdf)).
+[Chloe Brown](https://openalex.org/A5091373951), [Colette Bilynsky](https://openalex.org/A5088916982), [Melanie Gainey](https://openalex.org/A5075051633), [Sarah Young](https://openalex.org/A5077592017), [John R. Kitchin](https://openalex.org/A5003442464), [Elizabeth Wayne](https://openalex.org/A5074066993), PloS one. 19(6)] 2024.https://doi.org/10.1371/journal.pone.0304505.
     
-Non-equilibrium patterns are widespread in nature and often arise from the self-organization of constituents through nonreciprocal chemotactic interactions. In this study, we demonstrate how active oil-in-water droplet mixtures with predator-prey interactions can result in a variety of self-organized patterns. By manipulating physical parameters, the droplet diameter ratio and number ratio, we identify distinct classes of patterns within a binary droplet system, rationalize the pattern formation, and quantify motilities. Experimental results are recapitulated in numerical simulations using a minimal computational model that solely incorporates chemotactic interactions and steric repulsion among the constituents. The time evolution of the patterns is investigated and chemically explained. We also investigate how patterns vary with differing interaction strength by altering surfactant composition. Leveraging insights from the binary droplet system, the framework is extended to a ternary droplet mixture composed of multiple chasing droplet pairs to create chemically directed hierarchical organization. Our findings demonstrate how rationalizable, self-organized patterns can be programmed in a chemically minimal system and provide the basis for exploration of emergent organization and higher order complexity in active colloids.    
-
-    
-
-## Highly Permeable Rubbery Thin Film Composite Membranes for CO2 Capture from Steel Mills   
-
-OpenAlex: https://openalex.org/W4397020614    
-Open access: False
-    
-[Lingxiang Zhu](https://openalex.org/A5002137675), [Thien Tran](https://openalex.org/A5037749425), [Fangming Xiang](https://openalex.org/A5076767088), [Victor A. Kusuma](https://openalex.org/A5041659494), [Cheick Dosso](https://openalex.org/A5093713938), [Héctor A. Pedrozo](https://openalex.org/A5079899169), [Grigorios Panagakos](https://openalex.org/A5028498558), [Neil Pergar](https://openalex.org/A5098681635), [Brenda Petrilena](https://openalex.org/A5098681636), [David Hopkinson](https://openalex.org/A5021768097), No host. None(None)] 2024.https://doi.org/10.2172/2349470.
-    
-This presentation will report the rational design and fabrication of NETL's highly permeable non-aging thin film composite (TFC) membranes for CO2 capture from various industrial point sources. This talk will also cover the design, computational fluid dynamic simulation, 3D printing, and permeation testing of plate-and-frame membrane modules for an upcoming field demonstration at U. S. Steel's Edgar Thomson Plant in Braddock, PA. The field test will demonstrate membrane-based CO2 capture from a blast furnace for decarbonization of steel manufacturing for the first time in the U.S. A mobile gas permeation test unit is currently under design and construction for the field test, which is scheduled to take place in 2025.    
+The role of macrophages in regulating the tumor microenvironment has spurned the exponential generation of nanoparticle targeting technologies. With the large amount of literature and the speed at which it is generated it is difficult to remain current with the most up-to-date literature. In this study we performed a topic modeling analysis of 854 abstracts of peer-reviewed literature for the most common usages of nanoparticle targeting of tumor associated macrophages (TAMs) in solid tumors. The data spans 20 years of literature, providing a broad perspective of the nanoparticle strategies. Our topic model found 6 distinct topics: Immune and TAMs, Nanoparticles, Imaging, Gene Delivery and Exosomes, Vaccines, and Multi-modal Therapies. We also found distinct nanoparticle usage, tumor types, and therapeutic trends across these topics. Moreover, we established that the topic model could be used to assign new papers into the existing topics, thereby creating a Living Review. This type of “birds-eye-view” analysis provides a useful assessment tool for exploring new and emerging themes within a large field.    
 
     
 
-## CCDC 1015545: Experimental Crystal Structure Determination   
+## Branched‐Tail Lipid Nanoparticles for Intravenous mRNA Delivery to Lung Immune, Endothelial, and Alveolar Cells in Mice   
 
-OpenAlex: https://openalex.org/W4397063541    
+OpenAlex: https://openalex.org/W4399772948    
 Open access: True
     
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc132rjg.
+[Daria M. Strelkova Petersen](https://openalex.org/A5082946273), [Ryan M. Weiss](https://openalex.org/A5060936104), [Khalid A. Hajj](https://openalex.org/A5057246628), [Sai Gopal Krishna Yerneni](https://openalex.org/A5015320215), [Namit Chaudhary](https://openalex.org/A5073121497), [Alexandra N. Newby](https://openalex.org/A5080909957), [Mariah L. Arral](https://openalex.org/A5049474410), [Kathryn A. Whitehead](https://openalex.org/A5010666650), Advanced healthcare materials/Advanced Healthcare Materials. None(None)] 2024.https://doi.org/10.1002/adhm.202400225.
     
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1013214: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397105919    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130bbs.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1013212: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397108799    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130b8q.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1059113: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397182666    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Christopher Michas](https://openalex.org/A5016011694), [David Allenger](https://openalex.org/A5013398806), [Ilya Piskun](https://openalex.org/A5078568778), [Peter S. Coutros](https://openalex.org/A5055733181), [Gabriel Gomes](https://openalex.org/A5048633127), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc14k2yq.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1013215: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397214700    
-Open access: True
-    
-[Kamalkishore Pati](https://openalex.org/A5008678455), [Gabriel Gomes](https://openalex.org/A5048633127), [Trevor Harris](https://openalex.org/A5034915017), [Audrey Hughes](https://openalex.org/A5046372591), [Hoa Phan](https://openalex.org/A5042549842), [Tanmay Banerjee](https://openalex.org/A5067485457), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2015.https://doi.org/10.5517/cc130bct.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1498591: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397438581    
-Open access: True
-    
-[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Ronald J. Clark](https://openalex.org/A5018225281), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2016.https://doi.org/10.5517/ccdc.csd.cc1m9dnz.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1503346: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397308426    
-Open access: True
-    
-[Satoshi Umezu](https://openalex.org/A5013057900), [Gabriel Gomes](https://openalex.org/A5048633127), [Tatsuro Yoshinaga](https://openalex.org/A5036825839), [Mikei Sakae](https://openalex.org/A5043506371), [Kenji Matsumoto](https://openalex.org/A5031604859), [Takayuki Iwata](https://openalex.org/A5026759155), [Igor V. Alabugin](https://openalex.org/A5041763415), [Mitsuru Shindo](https://openalex.org/A5030998923), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1mgc1h.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1561093: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397334097    
-Open access: True
-    
-[Trevor Harris](https://openalex.org/A5034915017), [Gabriel Gomes](https://openalex.org/A5048633127), [Suliman Ayad](https://openalex.org/A5046826098), [Ronald J. Clark](https://openalex.org/A5018225281), [Vladislav V. Lobodin](https://openalex.org/A5077211524), [Megan Tuscan](https://openalex.org/A5035682200), [Kenneth Hanson](https://openalex.org/A5010923945), [Igor V. Alabugin](https://openalex.org/A5041763415), The Cambridge Structural Database. None(None)] 2017.https://doi.org/10.5517/ccdc.csd.cc1pdfvc.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1586928: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397309570    
-Open access: True
-    
-[Vera A. Vil’](https://openalex.org/A5019098305), [Gabriel Gomes](https://openalex.org/A5048633127), [Oleg V. Bityukov](https://openalex.org/A5054516792), [Konstantin А. Lyssenko](https://openalex.org/A5012756209), [G. I. Nikishin](https://openalex.org/A5029681803), [Igor V. Alabugin](https://openalex.org/A5041763415), [Alexander O. Terent’ev](https://openalex.org/A5071254649), No host. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1q8b7k.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
-
-    
-
-## CCDC 1589392: Experimental Crystal Structure Determination   
-
-OpenAlex: https://openalex.org/W4397328850    
-Open access: True
-    
-[Nikolay P. Tsvetkov](https://openalex.org/A5032901261), [Edgar González-Rodríguez](https://openalex.org/A5035197686), [Audrey Hughes](https://openalex.org/A5046372591), [Gabriel Gomes](https://openalex.org/A5048633127), [Frankie D. White](https://openalex.org/A5072638711), [Febin Kuriakose](https://openalex.org/A5065409241), [Igor V. Alabugin](https://openalex.org/A5041763415), No host. None(None)] 2018.https://doi.org/10.5517/ccdc.csd.cc1qbwqn.
-    
-An entry from the Cambridge Structural Database, the world’s repository for small molecule crystal structures. The entry contains experimental data from a crystal diffraction study. The deposited dataset for this entry is freely available from the CCDC and typically includes 3D coordinates, cell parameters, space group, experimental conditions and quality measures.    
+Abstract Lipid nanoparticles (LNPs) are proven as safe and effective delivery systems on a global scale. However, their efficacy has been limited primarily to liver and immune cells targets. To extend the potential applicability of mRNA drugs, we have synthesized and examined a library of 580 ionizable lipidoids for delivery to extrahepatocellular targets following intravenous administration. Of these lipidoids, over 40 enabled protein expression in mice, with the majority transfecting the liver. Beyond the liver, several LNPs containing new, branched‐tail ionizable lipidoids potently delivered mRNA to the lungs, with cell‐level specificity depending on helper lipid chemistry. Incorporation of the neutral helper lipid DOPE at 16 mol% enabled highly specific delivery to natural killer and dendritic cells within the lung. Although inclusion of the cationic helper lipid, DOTAP, improved lung tropism, it did so at the expense of cell specificity, resulting in equal transfection of endothelial and lymphoid cells. DOTAP formulations were also less favorable than DOPE formulations in that they elevated liver enzyme level and the overall cytokine response. Together, these data identify a new branched‐tailed LNP formulation with a unique ability to selectively transfect lung immune cell populations without the use of toxicity‐prone cationic helper lipids. This novel vehicle may unlock RNA therapies for lung diseases associated with immune cell dysregulation, including cancer, viral infections, and autoimmune disorders. This article is protected by copyright. All rights reserved    
 
     
