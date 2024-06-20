@@ -166,7 +166,7 @@ First highlight the region, then run the function below. That will copy the nece
 : oa-generate-cites-filter
 
 
-** Integration with Zotero
+** Open Alex Integration with Zotero
 
 You can integrate this with Zotero. A proof of concept script is located at [[./src/litalerts/zotero.py]] and a corresponding yaml file at [[./cmu.yml]]. The only difference in this yaml file is the inclusion of a Zotero id for the user/group to act as, and a tag to add to the created Zotero items. 
 

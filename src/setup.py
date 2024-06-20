@@ -18,7 +18,8 @@ setup(
     entry_points={
         'console_scripts': [
             'litalerts = litalerts.cli:cli',
-            'lazotero = litalerts.zotero:update_zotero'
+            'lazotero = litalerts.zotero:update_zotero',
+            'oa-zotero = litalerts.zotero:oa_zotero'
         ],
     },
     
