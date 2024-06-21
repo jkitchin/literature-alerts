@@ -150,7 +150,7 @@ def update_zotero(fname, since):
         zot = zotero.Zotero(zotero_id, 'group', ZOTERO_API_KEY)
 
         tags = ['unread']
-        if tag in topic:
+        if 'tag' in topic:
             tags += [topic['tag']]
         write_zotero_results(zot, results, today, tags)
 
