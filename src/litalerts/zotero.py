@@ -147,7 +147,7 @@ def update_zotero(fname, since):
 
         ZOTERO_API_KEY = os.environ['ZOTERO_API_KEY']
         zytype, zotero_id = topic['zotero_id'].split('/')
-        zot = zotero.Zotero(zotero_id, 'group', ZOTERO_API_KEY)
+        zot = zotero.Zotero(zotero_id, zytype, ZOTERO_API_KEY)
 
         tags = ['unread']
         if 'tag' in topic:

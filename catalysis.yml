@@ -8,7 +8,7 @@
 queries:
   - label: Catalysis
     tag: catalysis
-    zotero_id: 5483891
+    zotero_id: group/5483891
     description: Catalysis journals
     filter:
       # Nature Catalysis
