@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jun 21 01:08:02 2024
+Created on Fri Jun 21 14:12:47 2024
 
-Found 63 results from 2024-06-14 to 2024-06-21
+Found 70 results from 2024-06-14 to 2024-06-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -693,6 +693,83 @@ Open access: True
 [Meng He](https://openalex.org/A5083060814), [Rui Li](https://openalex.org/A5081675173), [Chuanqi Cheng](https://openalex.org/A5069312764), [Cuibo Liu](https://openalex.org/A5034535602), [Bin Zhang](https://openalex.org/A5033408053), Nature communications. 15(1)] 2024.https://doi.org/10.1038/s41467-024-49544-y ([pdf](https://www.nature.com/articles/s41467-024-49544-y.pdf)).
     
 Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at −100 mA cm −2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at −100 mA cm −2 rationalizes the design concept.    
+
+    
+
+## Ab Initio Studies of Electrocatalytic CO2 Reduction for Small Cu Cluster Supported on Polar Substrates   
+
+OpenAlex: https://openalex.org/W4399847413    
+Open access: False
+    
+[Huiru Yang](https://openalex.org/A5040441311), [Wenli Zou](https://openalex.org/A5086719383), [Chunmei Zhang](https://openalex.org/A5053490772), [Aijun Du](https://openalex.org/A5082839443), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c07445.
+    
+No abstract    
+
+    
+
+## Water-hydroxide trapping in cobalt tungstate for proton exchange membrane water electrolysis   
+
+OpenAlex: https://openalex.org/W4399848834    
+Open access: False
+    
+[R.A. Mohan Ram](https://openalex.org/A5057264101), [Lu Xia](https://openalex.org/A5044147248), [H. Benzidi](https://openalex.org/A5044251743), [Anku Guha](https://openalex.org/A5033159909), [Viktoria Golovanova](https://openalex.org/A5056309530), [Alba Garzón Manjón](https://openalex.org/A5034636961), [David Llorens Rauret](https://openalex.org/A5093357666), [Pol Sanz Berman](https://openalex.org/A5099291685), [Marinos Dimitropoulos](https://openalex.org/A5020698484), [Bernat Mundet](https://openalex.org/A5026928493), [Ernest Pastor](https://openalex.org/A5006946366), [Verónica Celorrio](https://openalex.org/A5020884368), [Camilo A. Mesa](https://openalex.org/A5027965963), [Anita Das](https://openalex.org/A5089036530), [Adrián Pinilla-Sánchez](https://openalex.org/A5053074865), [Sixto Giménez](https://openalex.org/A5053858976), [Jordi Arbiol](https://openalex.org/A5012137737), [Núria Lopéz](https://openalex.org/A5066694116), [F. Pelayo Garcı́a de Arquer](https://openalex.org/A5075242279), Science. 384(6702)] 2024.https://doi.org/10.1126/science.adk9849.
+    
+The oxygen evolution reaction is the bottleneck to energy-efficient water-based electrolysis for the production of hydrogen and other solar fuels. In proton exchange membrane water electrolysis (PEMWE), precious metals have generally been necessary for the stable catalysis of this reaction. In this work, we report that delamination of cobalt tungstate enables high activity and durability through the stabilization of oxide and water-hydroxide networks of the lattice defects in acid. The resulting catalysts achieve lower overpotentials, a current density of 1.8 amperes per square centimeter at 2 volts, and stable operation up to 1 ampere per square centimeter in a PEMWE system at industrial conditions (80°C) at 1.77 volts; a threefold improvement in activity; and stable operation at 1 ampere per square centimeter over the course of 600 hours.    
+
+    
+
+## Computational Insight into Transition Metal Atoms Anchored on B2c3p As Single-Atom Electrocatalysts for Nitrogen Reduction Reaction   
+
+OpenAlex: https://openalex.org/W4399854237    
+Open access: False
+    
+[Pengfei Ma](https://openalex.org/A5026489210), [Fu Zhe](https://openalex.org/A5043196876), [Chaozheng He](https://openalex.org/A5033915569), [Wei Song](https://openalex.org/A5029949822), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4871205.
+    
+No abstract    
+
+    
+
+## Building adaptive active sites in doped-RuO2 to boost acidic water oxidation performance   
+
+OpenAlex: https://openalex.org/W4399855134    
+Open access: False
+    
+[Susanta Bera](https://openalex.org/A5066645403), Chem catalysis. 4(6)] 2024.https://doi.org/10.1016/j.checat.2024.101035.
+    
+No abstract    
+
+    
+
+## Efficient ethylene electrosynthesis through C–O cleavage promoted by water dissociation   
+
+OpenAlex: https://openalex.org/W4399860902    
+Open access: False
+    
+[Yongxiang Liang](https://openalex.org/A5058791170), [Anna Klinkova](https://openalex.org/A5012826947), [Rui Kai Miao](https://openalex.org/A5030406224), [Sunpei Hu](https://openalex.org/A5043801418), [Weiyan Ni](https://openalex.org/A5036691395), [Shuzhen Zhang](https://openalex.org/A5036161593), [Yanjiang Liu](https://openalex.org/A5048101683), [Yang Bai](https://openalex.org/A5025505349), [Haoyue Wan](https://openalex.org/A5078661016), [Pengfei Ou](https://openalex.org/A5023196725), [Xiao-Yan Li](https://openalex.org/A5052826851), [Ning Wang](https://openalex.org/A5043839950), [Sungjin Park](https://openalex.org/A5003798955), [Fengwang Li](https://openalex.org/A5089706752), [Jie Zeng](https://openalex.org/A5075571728), [David Sinton](https://openalex.org/A5077667729), [Edward H. Sargent](https://openalex.org/A5054680242), Nature synthesis. None(None)] 2024.https://doi.org/10.1038/s44160-024-00568-8.
+    
+No abstract    
+
+    
+
+## Alkali-assisted polymeric carbon nitride effectively improves the visible-light-driven intrinsic reactivity for photocatalytic hydrogen evolution: A first-principles analysis   
+
+OpenAlex: https://openalex.org/W4399861792    
+Open access: False
+    
+[Huimin Gao](https://openalex.org/A5052655828), [Anqi Shi](https://openalex.org/A5048714219), [Ruilin Guan](https://openalex.org/A5016145553), [Zhang Xin](https://openalex.org/A5042284127), [Xiuyun Zhang](https://openalex.org/A5086086953), [Wang Bing](https://openalex.org/A5034703725), [Yong Pu](https://openalex.org/A5061899231), [Xianghong Niu](https://openalex.org/A5045012383), Applied physics letters. 124(25)] 2024.https://doi.org/10.1063/5.0214552.
+    
+Two-dimensional (2D) polymeric carbon nitride (PCN) materials have drawn broad attention as promising candidates for photocatalytic hydrogen evolution. However, it remains a significant challenge to simultaneously improve the visible light absorption, separation of photogenerated carriers, and activity. Herein, alkali metals doping PCN (e.g., C6N6 and C2N) are systematically investigated based on density functional theory. Different from the conventional notion of doping atoms as active sites, the actual active site is the intrinsic pyridine nitrogen surrounding the alkali metal. Compared to the change of Gibbs free energy value of −0.45 eV (−0.60 eV) for pristine C6N6 (C2N), Li or Cs doped PCN decreases to −0.03 eV (−0.10 eV) or 0.06 eV (−0.11 eV), respectively, benefitting from the adjustment of the 3p electronic state occupation for N atoms by charges transfer from alkali metal. Meanwhile, Li or Cs doping not only broadens the absorption of visible light by narrowing the band edge position but also promotes the separation of photogenerated electrons and holes by regulating their spatial separation, which is further confirmed by significant photocurrents for Li or Cs doped PCN based on nonequilibrium Green's function simulation. Our work could provide interesting insights into the mechanistic understanding and the highly efficient design of PCN materials in photocatalysis.    
+
+    
+
+## Theoretical investigation of electrocatalytic activity of Pt-free dual atom-doped graphene for O2 reduction in an alkaline solution   
+
+OpenAlex: https://openalex.org/W4399862452    
+Open access: True
+    
+[Tahereh Jangjooye Shaldehi](https://openalex.org/A5045546851), [Soosan Rowshanzamir](https://openalex.org/A5081292717), Scientific reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-61223-y ([pdf](https://www.nature.com/articles/s41598-024-61223-y.pdf)).
+    
+Abstract Non-precious electrocatalysts as the alternative to Pt have become a hot research area in the last decade due to the suitable catalytic activity in Oxygen reduction reaction (ORR) in electrochemical systems. In this work, the density functional theory calculations were investigated to explore the activity of Fe, Cu, and Fe-Cu atoms supported by N-doped graphene as the ORR electrocatalyst for Oxygen-depolarized cathodes (ODCs). To this end, the ORR mechanism was surveyed in detail in the gas and solvent phases. The results show that the solvent phase leads to a higher overpotential and thermodynamic limiting potential. According to the density of states curves, there are strong interactions between metal atom and substrate that can effectively tune the electronics of catalysts. Bader's analysis confirms that, in addition to the single metal atoms, nitrogen atoms have also played a critical role in charge transfer between substrates and oxygen molecules in ORR. It is also predicted that Fe-Cu@NC SAC exhibits the highest catalytic activity which is consistent with thermodynamic limiting potential and theoretical overpotential of − 0.26 and 0.66 (V vs. SHE), respectively, indicating that this type of catalyst may be a suitable candidate instead of precious metals in oxygen-depolarized cathodes in electrochemical devices.    
 
     
 

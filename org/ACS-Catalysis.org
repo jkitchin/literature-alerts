@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Fri Jun 21 01:07:54 2024
+Created on Fri Jun 21 14:12:39 2024
 
-Found 29 results from 2024-06-14 to 2024-06-21
+Found 38 results from 2024-06-14 to 2024-06-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -72,7 +72,7 @@ No abstract
 * Manipulating Activity and Chemoselectivity of a Benzaldehyde Lyase for Efficient Synthesis of α-Hydroxymethyl Ketones and One-Pot Enantio-Complementary Conversion to 1,2-Diols  :ACS_Catalysis:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399631113
-:TOPICS: Chemical Glycobiology and Therapeutic Applications, Peptide Synthesis and Drug Discovery, Asymmetric Catalysis
+:TOPICS: Role of Lipoic Acid in Metabolism and Health, Metabolic Engineering and Synthetic Biology, Macromolecular Crystallography Techniques
 :PUBLICATION_DATE: 2024-06-13
 :END:    
     
@@ -612,5 +612,194 @@ OpenAlex: https://openalex.org/W4399830090 (Open access: False)
 [[https://openalex.org/A5035085609][Yongsheng Zhang]], [[https://openalex.org/A5046186974][Hongxia Xue]], [[https://openalex.org/A5084492372][Mengqing Cheng]], [[https://openalex.org/A5005227650][Xiaomeng Yang]], [[https://openalex.org/A5084228359][Zhen Zhang]], [[https://openalex.org/A5047835492][Xinbao Zhao]], [[https://openalex.org/A5031187213][Armin Rezayan]], [[https://openalex.org/A5018271860][Dandan Han]], [[https://openalex.org/A5090936368][Dan Wu]], [[https://openalex.org/A5024699864][Chunbao Xu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01266 
      
 Selective hydrogenolysis of C–O bonds in biomass-derived oxygenated molecules is of great significance for the conversion of biomass to chemicals and fuels, especially for the inert C–O–C bonds in tetrahydrofuran rings. However, the lack of precise active sites results in the low activity of this reaction. In this work, the metal–support interfacial structure of the Ni–La2O3 catalyst was well-controlled by reducing LaNiO3 perovskite at different temperatures. During the reduction, the exsolution and segregation of Ni in the LaNiO3 perovskite led to the formation of metallic Ni nanoparticles and interfacial oxygen-vacant Ni2+-Ov-La3+ sites. Hydrogen spillover from Ni nanoparticles to the interface promoted the in situ generation of La–OH species under reaction conditions. At the same time, the oxygen vacancies at the interfacial Ni2+-Ov-La3+ sites can accommodate the spilled H, inducing the formation of the La–H species. The hydroxyl group in tetrahydrofurfuryl alcohol (THFA) interacted with La–OH through a metal alkoxide intermediate, which was subsequently hydrogenolyzed by the La–H to produce 1,5-pentanediol (1,5-PeD). The intimate La–H and La–OH bifunctional sites on the metal–support interface have a strong synergistic effect, endowing the Ni–La2O3 catalyst with a high THFA hydrogenolysis activity. The proposed interfacial La–H assisted C–O bond hydrogenolysis provides an idea for the design of efficient hydrodeoxygenation catalysts for biomass upgrading.    
+
+    
+
+* Synthesis of Highly Active GaN:ZnO Photocatalysts Applicable to Z-Scheme Overall Water Splitting Systems  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399848526
+:TOPICS: Photocatalytic Materials for Solar Energy Conversion, Gallium Oxide (Ga2O3) Semiconductor Materials and Devices, Zinc Oxide Nanostructures
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02172")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399848526"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399848526"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399848526"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399848526 (Open access: False)
+    
+[[https://openalex.org/A5012469540][Kaiwei Liu]], [[https://openalex.org/A5038087166][Boyang Zhang]], [[https://openalex.org/A5085186808][Jiaming Zhang]], [[https://openalex.org/A5077084592][Yao Xu]], [[https://openalex.org/A5072552402][Jifang Zhang]], [[https://openalex.org/A5053815236][Zihao Zhang]], [[https://openalex.org/A5073697986][Shaoyong Ke]], [[https://openalex.org/A5068560635][Ningning Wang]], [[https://openalex.org/A5014485852][Shanshan Chen]], [[https://openalex.org/A5007957054][Guijun Ma]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02172 
+     
+No abstract    
+
+    
+
+* Machine Learning Accelerated First-Principles Study of the Hydrodeoxygenation of Propanoic Acid  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399848574
+:TOPICS: Desulfurization Technologies for Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Dehydrogenation of Light Alkanes
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01419")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399848574"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399848574"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399848574"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399848574 (Open access: False)
+    
+[[https://openalex.org/A5029181893][Wen‐Bin Yang]], [[https://openalex.org/A5064355644][Kareem Abdelfatah]], [[https://openalex.org/A5087840955][Shrishnu Kumar Kundu]], [[https://openalex.org/A5020788235][Biplab Rajbanshi]], [[https://openalex.org/A5012528456][Gabriel Terejanu]], [[https://openalex.org/A5063674208][Andreas Heyden]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01419 
+     
+No abstract    
+
+    
+
+* Mechanistic Insights into the Electrochemical Oxidation of 5-Hydroxymethylfurfural on a Thin-Film Ni Anode  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399853867
+:TOPICS: Electrocatalysis for Energy Conversion, Catalytic Conversion of Biomass to Fuels and Chemicals, Catalytic Oxidation of Alcohols
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01448")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399853867"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399853867"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399853867"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399853867 (Open access: False)
+    
+[[https://openalex.org/A5049586249][Aditya Prajapati]], [[https://openalex.org/A5023895763][Nitish Govindarajan]], [[https://openalex.org/A5028727210][Wenyu Sun]], [[https://openalex.org/A5075996643][Jiayi Huang]], [[https://openalex.org/A5045214290][Hossein Bemana]], [[https://openalex.org/A5068592301][Jeremy T. Feaster]], [[https://openalex.org/A5042139840][Sneha A. Akhade]], [[https://openalex.org/A5018580006][Nikolay Kornienko]], [[https://openalex.org/A5051674745][Christopher Hahn]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01448 
+     
+No abstract    
+
+    
+
+* Accelerating Semihydrogenation of Cinnamaldehyde by Water over a Au/α-MoC Catalyst  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399854204
+:TOPICS: Catalytic Nanomaterials, Desulfurization Technologies for Fuels, Catalytic Conversion of Biomass to Fuels and Chemicals
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02448")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399854204"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399854204"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399854204"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399854204 (Open access: False)
+    
+[[https://openalex.org/A5075135602][Y. P. Lu]], [[https://openalex.org/A5062983920][Qiao Chen]], [[https://openalex.org/A5057377195][Yunlong Zhang]], [[https://openalex.org/A5088892322][Wei Yan]], [[https://openalex.org/A5036673165][Xiaohui Hou]], [[https://openalex.org/A5004055137][Rui Huang]], [[https://openalex.org/A5022049240][Dehui Deng]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02448 
+     
+No abstract    
+
+    
+
+* MOR-Type Titanosilicate with Specific Ti Location in Defective T3 Sites for Efficient Cyclohexanone Ammoximation  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399855782
+:TOPICS: Zeolite Chemistry and Catalysis, Mesoporous Materials, Novel Methods for Cesium Removal from Wastewater
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01914")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399855782"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399855782"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399855782"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399855782 (Open access: False)
+    
+[[https://openalex.org/A5067296919][Zhipeng Wan]], [[https://openalex.org/A5085851044][Jing-Yi Tan]], [[https://openalex.org/A5053686959][Wei Chen]], [[https://openalex.org/A5038416644][Longkang Zhang]], [[https://openalex.org/A5075201929][Xianchen Gong]], [[https://openalex.org/A5036574856][Chengwei Zhai]], [[https://openalex.org/A5042987873][Hengyong Xu]], [[https://openalex.org/A5084204775][Anming Zheng]], [[https://openalex.org/A5018681961][Peng Wu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01914 
+     
+No abstract    
+
+    
+
+* Structural Aspects of MoSx Prepared by Atomic Layer Deposition for Hydrogen Evolution Reaction  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399858629
+:TOPICS: Electrocatalysis for Energy Conversion, Two-Dimensional Transition Metal Carbides and Nitrides (MXenes), Two-Dimensional Materials
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01445")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399858629"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399858629"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399858629"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399858629 (Open access: True)
+    
+[[https://openalex.org/A5038649954][Miika Mattinen]], [[https://openalex.org/A5017541508][Wei Chen]], [[https://openalex.org/A5070451493][Rebecca A. Dawley]], [[https://openalex.org/A5048719407][Marcel A. Verheijen]], [[https://openalex.org/A5084285140][Emiel J. M. Hensen]], [[https://openalex.org/A5018346857][W. M. M. Kessels]], [[https://openalex.org/A5079178929][Ageeth A. Bol]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01445  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01445][pdf]])
+     
+No abstract    
+
+    
+
+* Beyond the Chemical Step: The Role of Substrate Access in Acyltransferase from Mycobacterium smegmatis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399860420
+:TOPICS: Macromolecular Crystallography Techniques, Nucleotide Metabolism and Enzyme Regulation, Glycosylation in Health and Disease
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c00812")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399860420"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399860420"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399860420"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399860420 (Open access: False)
+    
+[[https://openalex.org/A5007722925][Henrique F. Carvalho]], [[https://openalex.org/A5084338770][Luuk Mestrom]], [[https://openalex.org/A5035234231][Ulf Hanefeld]], [[https://openalex.org/A5067406221][Jürgen Pleiss]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c00812 
+     
+No abstract    
+
+    
+
+* Electroreductive C–C Coupling of Furfural to Jet Fuel Precursors in Neutral Media via Synergistic Catalysis of the Polyoxotungstate and Cu Complex  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399864928
+:TOPICS: Polyoxometalate Clusters and Materials, Catalytic Oxidation of Alcohols, Electrocatalysis for Energy Conversion
+:PUBLICATION_DATE: 2024-06-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02524")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399864928"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399864928"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399864928"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399864928 (Open access: False)
+    
+[[https://openalex.org/A5086424066][Weijie Geng]], [[https://openalex.org/A5030611214][Di Zhang]], [[https://openalex.org/A5037930437][Ni Zhen]], [[https://openalex.org/A5079931590][Jianshi Du]], [[https://openalex.org/A5018854741][Jing Dong]], [[https://openalex.org/A5022584534][Chengpeng Liu]], [[https://openalex.org/A5083328254][Shi‐Lu Chen]], [[https://openalex.org/A5022773758][Yingnan Chi]], [[https://openalex.org/A5034018070][Changwen Hu]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02524 
+     
+The electrochemical coupling of biomass platform molecules to biofuels provides a promising method for addressing energy crises and environmental issues. However, achieving high yields of C–C coupling products under ambient conditions remains a challenge. Herein, we present a highly efficient electrocatalyst, [Cu(pz)]3[PW12O40] (Cu-PW12), fabricated by combining a Cu-pz complex (pz = pyrazine), a redox catalytic center, with Keggin-type PW12O40, and an electron sponge. Cu-PW12 exhibits remarkable catalytic activity for the electroreductive C–C coupling of furfural (FF), a bulk and low-cost biomass platform chemical, to produce a jet fuel precursor, hydrofuroin (HDF). Under neutral and ambient conditions, over 99% of FF is converted and the selectivity of HDF reaches 91.2%. Furthermore, experimental and theoretical studies, including control experiments, kinetic isotope studies, electrochemical and spectral analyses, and DFT calculations, reveal a synergistic catalysis effect between Cu center and PW12. The introduction of PW12 not only facilitates electron transfer, improving FF conversion, but also changes the rate-determining step, favoring the formation of HDF. Under turnover conditions, the Cu-PW12 catalyst is initially reduced and then FF is reduced by the Cu center to ketyl radical after protonation on the electrode surface. Finally, the self-coupling of two ketyl radicals in solution leads to the generation of HDF.    
+
+    
+
+* Tuning Selectivity of CO2 Hydrogenation via Support Composition Modification Adjusted the Activity Reduction of H Species over Ce1–xPrxO2−δ-Supported Metal (Ru, Rh) Nanoclusters  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399871818
+:TOPICS: Catalytic Nanomaterials, Catalytic Carbon Dioxide Hydrogenation, Electrochemical Reduction of CO2 to Fuels
+:PUBLICATION_DATE: 2024-06-20
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c01201")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399871818"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399871818"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399871818"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399871818 (Open access: False)
+    
+[[https://openalex.org/A5044266671][De‐Jiu Wang]], [[https://openalex.org/A5034651849][Xiaochen Sun]], [[https://openalex.org/A5066996921][Hai‐Jing Yin]], [[https://openalex.org/A5050592208][Hao Dong]], [[https://openalex.org/A5089739373][Haichao Liu]], [[https://openalex.org/A5045398749][Yawen Zhang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01201 
+     
+Selectivity control of supported metal catalysts, which are most widely utilized in the field of heterogeneous catalysis, is of great scientific significance to obtaining the desired chemical product in a multipath reaction but has remained a grand challenging issue. In this work, we demonstrate that the selectivity of CO2 hydrogenation from CH4 to CO can be tuned by a robust and unique support doping strategy by changing the reduction activity of H species over M/Ce1–xPrxO2−δ (M = Ru, Rh) in which metal (M) nanoclusters showed the same existence form on differently doped ceria nanorod supports. The CH4 selectivity of the catalyst decreased with an increase in the Pr content in the support. The selectivity of CH4 on Ru/CeO2 was higher than 90%, while on Ru/Ce0.2Pr0.8O2−δ, the selectivity of CO reached 80%. A variety of techniques, including steady-state isotope transient kinetic analysis (SSITKA) type in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS)–mass spectrum (MS), temperature-programmed desorption (TPD) and temperature-programmed surface reaction (TPSR), had been applied in this work to analyze the structure–activity relationship between the doping of Pr and the selectivity of the CO2 hydrogenation reaction. Ru sites were not directly involved in the hydrogenation of carbon-containing intermediate species (including bicarbonate and formate) during the CO2 hydrogenation reaction. The active H species on the support sites, which are incorporated in RE3+–OH, directly contacted and reacted with the carbon-containing intermediate species. The introduction of Pr in the support weakened the reducing ability of the support, thus decreasing the reducing ability of H species on the surface of the catalyst, which further hindered the conversion of formate into CH4, resulting in the declined CH4 selectivity. Our study clearly revealed the important role of support in the CO2 hydrogenation reaction and proposed a strategy to modulate the reaction selectivity via support doping. By changing the redox performance of the support, the activity of H species on the support can be adjusted. Thus, the conversion of important reaction intermediates (such as formate) can be affected, so as to achieve precise regulation of the reaction products. We have provided a broader perspective for the selective catalyst design of heterogeneous catalysis and the reaction mechanism study of supported metal catalysts.    
 
     

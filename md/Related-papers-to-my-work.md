@@ -1,6 +1,6 @@
 # Related papers to my work
 Description: Related papers to my papers
-Created on Fri Jun 21 01:08:15 2024
+Created on Fri Jun 21 14:12:58 2024
 
 Found 0 results from 2024-06-14 to 2024-06-21
 OpenAlex URLS (not including from_created_date or the API key)

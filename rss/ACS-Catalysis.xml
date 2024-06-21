@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Jun 2024 01:07:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 14:12:39 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -296,6 +296,96 @@
       <author>Yongsheng Zhang, Hongxia Xue, Mengqing Cheng, Xiaomeng Yang, Zhen Zhang, Xinbao Zhao, Armin Rezayan, Dandan Han, Dan Wu, Chunbao Xu</author>
       <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01266</guid>
+    </item>
+    <item>
+      <title>Synthesis of Highly Active GaN:ZnO Photocatalysts Applicable to Z-Scheme Overall Water Splitting Systems</title>
+      <link>https://doi.org/10.1021/acscatal.4c02172</link>
+      <description>Kaiwei Liu, Boyang Zhang, Jiaming Zhang, Yao Xu, Jifang Zhang, Zihao Zhang, Shaoyong Ke, Ningning Wang, Shanshan Chen, Guijun Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4399848526
+
+                No abstract</description>
+      <author>Kaiwei Liu, Boyang Zhang, Jiaming Zhang, Yao Xu, Jifang Zhang, Zihao Zhang, Shaoyong Ke, Ningning Wang, Shanshan Chen, Guijun Ma</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02172</guid>
+    </item>
+    <item>
+      <title>Machine Learning Accelerated First-Principles Study of the Hydrodeoxygenation of Propanoic Acid</title>
+      <link>https://doi.org/10.1021/acscatal.4c01419</link>
+      <description>Wen&#8208;Bin Yang, Kareem Abdelfatah, Shrishnu Kumar Kundu, Biplab Rajbanshi, Gabriel Terejanu, Andreas Heyden, ACS catalysis. None(None)] 2024. https://openalex.org/W4399848574
+
+                No abstract</description>
+      <author>Wen&#8208;Bin Yang, Kareem Abdelfatah, Shrishnu Kumar Kundu, Biplab Rajbanshi, Gabriel Terejanu, Andreas Heyden</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01419</guid>
+    </item>
+    <item>
+      <title>Mechanistic Insights into the Electrochemical Oxidation of 5-Hydroxymethylfurfural on a Thin-Film Ni Anode</title>
+      <link>https://doi.org/10.1021/acscatal.4c01448</link>
+      <description>Aditya Prajapati, Nitish Govindarajan, Wenyu Sun, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn, ACS catalysis. None(None)] 2024. https://openalex.org/W4399853867
+
+                No abstract</description>
+      <author>Aditya Prajapati, Nitish Govindarajan, Wenyu Sun, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01448</guid>
+    </item>
+    <item>
+      <title>Accelerating Semihydrogenation of Cinnamaldehyde by Water over a Au/&#945;-MoC Catalyst</title>
+      <link>https://doi.org/10.1021/acscatal.4c02448</link>
+      <description>Y. P. Lu, Qiao Chen, Yunlong Zhang, Wei Yan, Xiaohui Hou, Rui Huang, Dehui Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4399854204
+
+                No abstract</description>
+      <author>Y. P. Lu, Qiao Chen, Yunlong Zhang, Wei Yan, Xiaohui Hou, Rui Huang, Dehui Deng</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02448</guid>
+    </item>
+    <item>
+      <title>MOR-Type Titanosilicate with Specific Ti Location in Defective T3 Sites for Efficient Cyclohexanone Ammoximation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01914</link>
+      <description>Zhipeng Wan, Jing-Yi Tan, Wei Chen, Longkang Zhang, Xianchen Gong, Chengwei Zhai, Hengyong Xu, Anming Zheng, Peng Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399855782
+
+                No abstract</description>
+      <author>Zhipeng Wan, Jing-Yi Tan, Wei Chen, Longkang Zhang, Xianchen Gong, Chengwei Zhai, Hengyong Xu, Anming Zheng, Peng Wu</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01914</guid>
+    </item>
+    <item>
+      <title>Structural Aspects of MoS&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt; Prepared by Atomic Layer Deposition for Hydrogen Evolution Reaction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01445</link>
+      <description>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol, ACS catalysis. None(None)] 2024. https://openalex.org/W4399858629
+
+                No abstract</description>
+      <author>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01445</guid>
+    </item>
+    <item>
+      <title>Beyond the Chemical Step: The Role of Substrate Access in Acyltransferase from &lt;i&gt;Mycobacterium smegmatis&lt;/i&gt;</title>
+      <link>https://doi.org/10.1021/acscatal.4c00812</link>
+      <description>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss, ACS catalysis. None(None)] 2024. https://openalex.org/W4399860420
+
+                No abstract</description>
+      <author>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00812</guid>
+    </item>
+    <item>
+      <title>Electroreductive C&#8211;C Coupling of Furfural to Jet Fuel Precursors in Neutral Media via Synergistic Catalysis of the Polyoxotungstate and Cu Complex</title>
+      <link>https://doi.org/10.1021/acscatal.4c02524</link>
+      <description>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399864928
+
+                The electrochemical coupling of biomass platform molecules to biofuels provides a promising method for addressing energy crises and environmental issues. However, achieving high yields of C&#8211;C coupling products under ambient conditions remains a challenge. Herein, we present a highly efficient electrocatalyst, [Cu(pz)]3[PW12O40] (Cu-PW12), fabricated by combining a Cu-pz complex (pz = pyrazine), a redox catalytic center, with Keggin-type PW12O40, and an electron sponge. Cu-PW12 exhibits remarkable catalytic activity for the electroreductive C&#8211;C coupling of furfural (FF), a bulk and low-cost biomass platform chemical, to produce a jet fuel precursor, hydrofuroin (HDF). Under neutral and ambient conditions, over 99% of FF is converted and the selectivity of HDF reaches 91.2%. Furthermore, experimental and theoretical studies, including control experiments, kinetic isotope studies, electrochemical and spectral analyses, and DFT calculations, reveal a synergistic catalysis effect between Cu center and PW12. The introduction of PW12 not only facilitates electron transfer, improving FF conversion, but also changes the rate-determining step, favoring the formation of HDF. Under turnover conditions, the Cu-PW12 catalyst is initially reduced and then FF is reduced by the Cu center to ketyl radical after protonation on the electrode surface. Finally, the self-coupling of two ketyl radicals in solution leads to the generation of HDF.</description>
+      <author>Weijie Geng, Di Zhang, Ni Zhen, Jianshi Du, Jing Dong, Chengpeng Liu, Shi&#8208;Lu Chen, Yingnan Chi, Changwen Hu</author>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02524</guid>
+    </item>
+    <item>
+      <title>Tuning Selectivity of CO&lt;sub&gt;2&lt;/sub&gt; Hydrogenation via Support Composition Modification Adjusted the Activity Reduction of H Species over Ce&lt;sub&gt;1&#8211;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;Pr&lt;sub&gt;&lt;i&gt;x&lt;/i&gt;&lt;/sub&gt;O&lt;sub&gt;2&#8722;&#948;&lt;/sub&gt;-Supported Metal (Ru, Rh) Nanoclusters</title>
+      <link>https://doi.org/10.1021/acscatal.4c01201</link>
+      <description>De&#8208;Jiu Wang, Xiaochen Sun, Hai&#8208;Jing Yin, Hao Dong, Haichao Liu, Yawen Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399871818
+
+                Selectivity control of supported metal catalysts, which are most widely utilized in the field of heterogeneous catalysis, is of great scientific significance to obtaining the desired chemical product in a multipath reaction but has remained a grand challenging issue. In this work, we demonstrate that the selectivity of CO2 hydrogenation from CH4 to CO can be tuned by a robust and unique support doping strategy by changing the reduction activity of H species over M/Ce1&#8211;xPrxO2&#8722;&#948; (M = Ru, Rh) in which metal (M) nanoclusters showed the same existence form on differently doped ceria nanorod supports. The CH4 selectivity of the catalyst decreased with an increase in the Pr content in the support. The selectivity of CH4 on Ru/CeO2 was higher than 90%, while on Ru/Ce0.2Pr0.8O2&#8722;&#948;, the selectivity of CO reached 80%. A variety of techniques, including steady-state isotope transient kinetic analysis (SSITKA) type in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS)&#8211;mass spectrum (MS), temperature-programmed desorption (TPD) and temperature-programmed surface reaction (TPSR), had been applied in this work to analyze the structure&#8211;activity relationship between the doping of Pr and the selectivity of the CO2 hydrogenation reaction. Ru sites were not directly involved in the hydrogenation of carbon-containing intermediate species (including bicarbonate and formate) during the CO2 hydrogenation reaction. The active H species on the support sites, which are incorporated in RE3+&#8211;OH, directly contacted and reacted with the carbon-containing intermediate species. The introduction of Pr in the support weakened the reducing ability of the support, thus decreasing the reducing ability of H species on the surface of the catalyst, which further hindered the conversion of formate into CH4, resulting in the declined CH4 selectivity. Our study clearly revealed the important role of support in the CO2 hydrogenation reaction and proposed a strategy to modulate the reaction selectivity via support doping. By changing the redox performance of the support, the activity of H species on the support can be adjusted. Thus, the conversion of important reaction intermediates (such as formate) can be affected, so as to achieve precise regulation of the reaction products. We have provided a broader perspective for the selective catalyst design of heterogeneous catalysis and the reaction mechanism study of supported metal catalysts.</description>
+      <author>De&#8208;Jiu Wang, Xiaochen Sun, Hai&#8208;Jing Yin, Hao Dong, Haichao Liu, Yawen Zhang</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01201</guid>
     </item>
   </channel>
 </rss>

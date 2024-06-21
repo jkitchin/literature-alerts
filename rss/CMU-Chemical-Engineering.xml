@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Jun 2024 01:07:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 14:12:40 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -36,6 +36,16 @@
       <author>Daria M. Strelkova Petersen, Ryan M. Weiss, Khalid A. Hajj, Sai Gopal Krishna Yerneni, Namit Chaudhary, Alexandra N. Newby, Mariah L. Arral, Kathryn A. Whitehead</author>
       <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1002/adhm.202400225</guid>
+    </item>
+    <item>
+      <title>Matheuristic Approaches for Multi-Product 3-Dimensional Container Loading Problem</title>
+      <link>https://doi.org/10.2139/ssrn.4871843</link>
+      <description>Riddhesh Kumtakar, Nitish Umang, Gary Kocis, Dean Face, Chrysanthos E. Gounaris, No host. None(None)] 2024. https://openalex.org/W4399849795
+
+                No abstract</description>
+      <author>Riddhesh Kumtakar, Nitish Umang, Gary Kocis, Dean Face, Chrysanthos E. Gounaris</author>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.2139/ssrn.4871843</guid>
     </item>
   </channel>
 </rss>

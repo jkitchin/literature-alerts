@@ -1,8 +1,8 @@
 #+TITLE: CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Fri Jun 21 01:07:55 2024
+Created on Fri Jun 21 14:12:40 2024
 
-Found 3 results from 2024-06-14 to 2024-06-21
+Found 4 results from 2024-06-14 to 2024-06-21
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650]]
 
@@ -66,5 +66,26 @@ OpenAlex: https://openalex.org/W4399772948 (Open access: True)
 [[https://openalex.org/A5082946273][Daria M. Strelkova Petersen]], [[https://openalex.org/A5060936104][Ryan M. Weiss]], [[https://openalex.org/A5057246628][Khalid A. Hajj]], [[https://openalex.org/A5015320215][Sai Gopal Krishna Yerneni]], [[https://openalex.org/A5073121497][Namit Chaudhary]], [[https://openalex.org/A5080909957][Alexandra N. Newby]], [[https://openalex.org/A5049474410][Mariah L. Arral]], [[https://openalex.org/A5010666650][Kathryn A. Whitehead]], Advanced healthcare materials/Advanced Healthcare Materials. None(None)] 2024. https://doi.org/10.1002/adhm.202400225 
      
 Abstract Lipid nanoparticles (LNPs) are proven as safe and effective delivery systems on a global scale. However, their efficacy has been limited primarily to liver and immune cells targets. To extend the potential applicability of mRNA drugs, we have synthesized and examined a library of 580 ionizable lipidoids for delivery to extrahepatocellular targets following intravenous administration. Of these lipidoids, over 40 enabled protein expression in mice, with the majority transfecting the liver. Beyond the liver, several LNPs containing new, branched‐tail ionizable lipidoids potently delivered mRNA to the lungs, with cell‐level specificity depending on helper lipid chemistry. Incorporation of the neutral helper lipid DOPE at 16 mol% enabled highly specific delivery to natural killer and dendritic cells within the lung. Although inclusion of the cationic helper lipid, DOTAP, improved lung tropism, it did so at the expense of cell specificity, resulting in equal transfection of endothelial and lymphoid cells. DOTAP formulations were also less favorable than DOPE formulations in that they elevated liver enzyme level and the overall cytokine response. Together, these data identify a new branched‐tailed LNP formulation with a unique ability to selectively transfect lung immune cell populations without the use of toxicity‐prone cationic helper lipids. This novel vehicle may unlock RNA therapies for lung diseases associated with immune cell dysregulation, including cancer, viral infections, and autoimmune disorders. This article is protected by copyright. All rights reserved    
+
+    
+
+* Matheuristic Approaches for Multi-Product 3-Dimensional Container Loading Problem  :CMU_Chemical_Engineering:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399849795
+:TOPICS: Optimization of Cutting and Packing Problems, Design and Control of Warehouse Operations, Mesh Generation Algorithms
+:PUBLICATION_DATE: 2024-01-01
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.2139/ssrn.4871843")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399849795"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399849795"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399849795"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399849795 (Open access: False)
+    
+[[https://openalex.org/A5099291898][Riddhesh Kumtakar]], [[https://openalex.org/A5071784695][Nitish Umang]], [[https://openalex.org/A5099291899][Gary Kocis]], [[https://openalex.org/A5099291900][Dean Face]], [[https://openalex.org/A5048485981][Chrysanthos E. Gounaris]], No host. None(None)] 2024. https://doi.org/10.2139/ssrn.4871843 
+     
+No abstract    
 
     
