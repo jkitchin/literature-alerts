@@ -1,8 +1,8 @@
 # Papers that cite my papers
 Description: Citations to my papers
-Created on Fri Jun 21 14:12:47 2024
+Created on Sat Jun 22 01:07:35 2024
 
-Found 70 results from 2024-06-14 to 2024-06-21
+Found 59 results from 2024-06-15 to 2024-06-22
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092)
@@ -13,127 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483)
 - [https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121](https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121)
-
-## Solar-Driven Arsenic(V) Transformation, Speciation, and Adsorption on the Chalcopyrite Surface   
-
-OpenAlex: https://openalex.org/W4399601046    
-Open access: False
-    
-[Qingjie Ge](https://openalex.org/A5029687574), [Renji Zheng](https://openalex.org/A5027922091), [Yangyang Liu](https://openalex.org/A5047187328), [Yangzi Shangguan](https://openalex.org/A5087239492), [Xuezhen Feng](https://openalex.org/A5049104797), [Dazhong Yang](https://openalex.org/A5000736696), [Wenfei Wei](https://openalex.org/A5047017899), [Ranhao Wang](https://openalex.org/A5026880339), [Yongfei Ji](https://openalex.org/A5072753033), [Lele Duan](https://openalex.org/A5047901288), [Jia Lin](https://openalex.org/A5056999899), [Liwu Zhang](https://openalex.org/A5058374613), [Hong Chen](https://openalex.org/A5033549028), ACS ES & T water. None(None)] 2024.https://doi.org/10.1021/acsestwater.4c00059.
-    
-No abstract    
-
-    
-
-## Cobalt Nanoparticle-Decorated RuSe2 Nanorods: A Chemical Vapor Deposition Approach for Efficient Electrolytic Hydrogen Evolution   
-
-OpenAlex: https://openalex.org/W4399612559    
-Open access: False
-    
-[Daba Deme Megersa](https://openalex.org/A5049864980), [Gutema Teshome Gudena](https://openalex.org/A5082661496), [Young‐Ho Kim](https://openalex.org/A5047504790), [Hak Ki Yu](https://openalex.org/A5021235230), Crystal growth & design. None(None)] 2024.https://doi.org/10.1021/acs.cgd.4c00451.
-    
-No abstract    
-
-    
-
-## Ultrathin Ni–Fe MOF Nanosheets: Efficient and Durable Water Oxidation at High Current Densities   
-
-OpenAlex: https://openalex.org/W4399617140    
-Open access: False
-    
-[Xin Zhao](https://openalex.org/A5053758056), [Yang Yang](https://openalex.org/A5055767106), [Yuanshuai Liu](https://openalex.org/A5084733892), [Jiale Shi](https://openalex.org/A5052476870), [Qiaoxia Li](https://openalex.org/A5071599644), [Qing Xu](https://openalex.org/A5033109301), [Wen‐Feng Lin](https://openalex.org/A5033650971), Langmuir. None(None)] 2024.https://doi.org/10.1021/acs.langmuir.4c01065.
-    
-Efficient, durable, and economical electrocatalysts are crucial for advancing energy technology by facilitating the oxygen evolution reaction (OER). Here, ultrathin Ni-Fe metal-organic skeleton (MOF) nanosheets were created in situ on nickel foam (NiFe-UMNs/NF). The catalyst exhibited excellent OER catalytical abilities, with only 269 mV overpotentials at 250 mA cm    
-
-    
-
-## Evaluation of carbon fixation during carbonization of municipal solid waste   
-
-OpenAlex: https://openalex.org/W4399628370    
-Open access: False
-    
-[Takeshi Shinohara](https://openalex.org/A5082223036), [Sylwia Oleszek](https://openalex.org/A5068249811), [Masaya Shimizu](https://openalex.org/A5012313725), [Naoto Yokoro](https://openalex.org/A5099116995), [Kenji Shiota](https://openalex.org/A5020773047), [Kazuyuki Oshita](https://openalex.org/A5074561650), [Toshio Kusakabe](https://openalex.org/A5038410678), [Masaki Takaoka](https://openalex.org/A5052253494), Journal of material cycles and waste management. None(None)] 2024.https://doi.org/10.1007/s10163-024-01988-6.
-    
-No abstract    
-
-    
-
-## COVID-19 Fake News: A Systematic Literature Review using “SmartLitReview”   
-
-OpenAlex: https://openalex.org/W4399629361    
-Open access: False
-    
-[Siam Sadman](https://openalex.org/A5099117159), No host. None(None)] 2024.https://doi.org/10.1145/3630744.3663606.
-    
-No abstract    
-
-    
-
-## Data-Driven Materials Informatics for Novel Piezoelectric Janus-Type Nanomaterials Discovery   
-
-OpenAlex: https://openalex.org/W4399635165    
-Open access: False
-    
-[Woohyun Hwang](https://openalex.org/A5029677633), [Seung‐Hyun Victor Oh](https://openalex.org/A5060576108), [Jungho Shin](https://openalex.org/A5055984568), [Aloysius Soon](https://openalex.org/A5003625501), [Su‐Hyun Yoo](https://openalex.org/A5009108662), [Woosun Jang](https://openalex.org/A5025434478), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c01444.
-    
-In the recent era of green and sustainable energy, the demand for effective and efficient energy harvesting has dramatically increased. Piezoelectric energy harvesting, which converts mechanical energy into electrical energy, is considered a viable strategy to achieve this goal. Janus-type nanomaterial, a noncentrosymmetric material with different elemental species in the upper and lower atomic layers, has gained interest due to its exotic properties compared to conventional bulk and symmetric materials. In this work, we systematically design and investigate a new class of Janus nanomaterials with enhanced intrinsic polarization via the successive ionic exchange method. Multiple layers of stability standards, including both thermodynamic and dynamic stabilities, are employed in the high-throughput screening procedure of novel Janus-type nanomaterials. The newly proposed Janus-type nanomaterials exhibit more than 10 times higher piezoelectric response compared to that of reported low-dimensional materials and even comparable to that of bulk materials.    
-
-    
-
-## Characterization of changes in the electronic structure of platinum sub-nanoclusters supported on graphene induced by oxygen adsorption   
-
-OpenAlex: https://openalex.org/W4399638118    
-Open access: False
-    
-[Hinoki Hirase](https://openalex.org/A5047221858), [Kazuhiro Iida](https://openalex.org/A5021520217), [Jun‐ya Hasegawa](https://openalex.org/A5002853251), Physical chemistry chemical physics/PCCP. Physical chemistry chemical physics. None(None)] 2024.https://doi.org/10.1039/d4cp00555d.
-    
-The characteristics of changes in the electronic structure of a platinum sub-nanocluster caused by oxygen adsorption is elucidated by analyzing the integrated local density of states.    
-
-    
-
-## Scaling Relations on High-Entropy Alloy Catalyst Surfaces   
-
-OpenAlex: https://openalex.org/W4399646832    
-Open access: False
-    
-[Ana-Iulia Hutu](https://openalex.org/A5093698180), [Emmanouil Pervolarakis](https://openalex.org/A5002472359), [Ioannis N. Remediakis](https://openalex.org/A5058562035), [Henrik H. Kristoffersen](https://openalex.org/A5028337707), [Jan Rossmeisl](https://openalex.org/A5083668074), Journal of physical chemistry. C./Journal of physical chemistry. C. None(None)] 2024.https://doi.org/10.1021/acs.jpcc.4c01292.
-    
-Scaling and Brønsted–Evans–Polanyi (BEP) relations have proven immensely powerful in catalysis theory. The relations provide an understanding of the Sabatier principle in a quantitative fashion, such that we can calculate the adsorption energy that most optimally compromises between a low reaction barrier and a not too strong adsorption. Scaling and BEP relations are usually mapped out for pure metal surfaces, and it is not directly clear how they translate to complex alloy surfaces, e.g., high-entropy alloys (HEAs). The scaling relation between *OH and *OOH is one of the most studied and best understood. Generally, both *OH and *OOH adsorb on a single surface atom, so HEAs do not change the established scaling relation but rather widen the distribution of available adsorption energies. The situation can be different for reactions at multiatom surface sites. In the reaction between O* and *CO to form CO2, the species interact with more surface atoms at the initial state compared to the transition state, so for a given reaction energy, HEAs allow for lower activation energies than pure metals. The reason is that HEA surfaces can make the transition state more similar to the initial state without the need of steps or other geometric features.    
-
-    
-
-## Mof-Derived Molybdenum Carbide-Copper as an Electrocatalyst for the Hydrogen Evolution Reaction   
-
-OpenAlex: https://openalex.org/W4399651778    
-Open access: False
-    
-[W.Y. Chen](https://openalex.org/A5070900653), [Yu‐Min Shen](https://openalex.org/A5045731853), [Sheng‐Chang Wang](https://openalex.org/A5021107184), [Sanjaya Brahma](https://openalex.org/A5039581487), [D.R. Sahu](https://openalex.org/A5015783767), [Jow‐Lay Huang](https://openalex.org/A5041190600), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4863676.
-    
-No abstract    
-
-    
-
-## Iron carbide anchored on N-doped hierarchically porous carbon core/shell architecture for highly efficient OER water splitting   
-
-OpenAlex: https://openalex.org/W4399653736    
-Open access: False
-    
-[Nagaraj Murugan](https://openalex.org/A5033073844), [Sadhasivam Thangarasu](https://openalex.org/A5051943320), [Shanmugasundaram Kamalakannan](https://openalex.org/A5062534462), [Nimisha Baby](https://openalex.org/A5093105301), [Tae Hwan Oh](https://openalex.org/A5029047892), [Hyung Chul Ham](https://openalex.org/A5066805209), [Yang Zhang](https://openalex.org/A5022802322), [Yoong Ahm Kim](https://openalex.org/A5005760245), International journal of hydrogen energy. None(None)] 2024.https://doi.org/10.1016/j.ijhydene.2024.05.463.
-    
-No abstract    
-
-    
-
-## Lateral spin filter realized by monolayer Fe3GaTe2 and Fe3GaTe2/Graphene van der Waals heterostructures   
-
-OpenAlex: https://openalex.org/W4399653743    
-Open access: False
-    
-[N. J. Zheng](https://openalex.org/A5090912172), [Jingzhe Chen](https://openalex.org/A5062140426), Solid state communications. None(None)] 2024.https://doi.org/10.1016/j.ssc.2024.115584.
-    
-No abstract    
-
-    
 
 ## Theoretical Investigation on the Structural Characteristics and Electrocatalytic Co2 Reduction Mechanism of G-C3n4 Supported Ag/Au Single Atom Catalysts   
 
@@ -703,7 +582,7 @@ Open access: False
     
 [Huiru Yang](https://openalex.org/A5040441311), [Wenli Zou](https://openalex.org/A5086719383), [Chunmei Zhang](https://openalex.org/A5053490772), [Aijun Du](https://openalex.org/A5082839443), ACS applied materials & interfaces. None(None)] 2024.https://doi.org/10.1021/acsami.4c07445.
     
-No abstract    
+Small Cu clusters are excellent candidates for the electrocatalytic reduction of carbon dioxide (CO2RR), and their catalytic performance is expected to be significantly influenced by the interaction between the substrate and cluster. In this study, we systematically investigate the CO2RR for a Cu3 cluster anchored on Janus MoSX (X = Se, Te) substrates using density functional theory calculations. These substrates feature a broken vertical mirror symmetry, which generates spontaneous out-of-plane polarization and offers two distinct polar surfaces to support the Cu3 cluster. Our findings reveal that the CO2RR performance on the Cu3 cluster is strongly influenced by the polarization direction and strength of the MoSX (X = Se, Te) substrates. Notably, the Cu3 cluster supported on the S-terminated MoSTe surface (Cu3(S)@MoSTe) demonstrates the highest CO2RR activity, producing methane. These results underscore the pivotal role of substrate polarization in modulating the binding strength of reactants and reaction intermediates, thereby enhancing the CO2RR efficiency.    
 
     
 
@@ -712,7 +591,7 @@ No abstract
 OpenAlex: https://openalex.org/W4399848834    
 Open access: False
     
-[R.A. Mohan Ram](https://openalex.org/A5057264101), [Lu Xia](https://openalex.org/A5044147248), [H. Benzidi](https://openalex.org/A5044251743), [Anku Guha](https://openalex.org/A5033159909), [Viktoria Golovanova](https://openalex.org/A5056309530), [Alba Garzón Manjón](https://openalex.org/A5034636961), [David Llorens Rauret](https://openalex.org/A5093357666), [Pol Sanz Berman](https://openalex.org/A5099291685), [Marinos Dimitropoulos](https://openalex.org/A5020698484), [Bernat Mundet](https://openalex.org/A5026928493), [Ernest Pastor](https://openalex.org/A5006946366), [Verónica Celorrio](https://openalex.org/A5020884368), [Camilo A. Mesa](https://openalex.org/A5027965963), [Anita Das](https://openalex.org/A5089036530), [Adrián Pinilla-Sánchez](https://openalex.org/A5053074865), [Sixto Giménez](https://openalex.org/A5053858976), [Jordi Arbiol](https://openalex.org/A5012137737), [Núria Lopéz](https://openalex.org/A5066694116), [F. Pelayo Garcı́a de Arquer](https://openalex.org/A5075242279), Science. 384(6702)] 2024.https://doi.org/10.1126/science.adk9849.
+[R.A. Mohan Ram](https://openalex.org/A5057264101), [Lu Xia](https://openalex.org/A5044147248), [H. Benzidi](https://openalex.org/A5044251743), [Anku Guha](https://openalex.org/A5033159909), [Viktoria Golovanova](https://openalex.org/A5056309530), [Alba Garzón Manjón](https://openalex.org/A5034636961), [David Llorens Rauret](https://openalex.org/A5093357666), [Pol Sanz Berman](https://openalex.org/A5099291685), [Marinos Dimitropoulos](https://openalex.org/A5020698484), [Bernat Mundet](https://openalex.org/A5026928493), [Ernest Pastor](https://openalex.org/A5006946366), [Verónica Celorrio](https://openalex.org/A5020884368), [Camilo A. Mesa](https://openalex.org/A5027965963), [Anita Das](https://openalex.org/A5089036530), [Adrián Pinilla-Sánchez](https://openalex.org/A5053074865), [Sixto Giménez](https://openalex.org/A5053858976), [Jordi Arbiol](https://openalex.org/A5012137737), [Núria López](https://openalex.org/A5066694116), [F. Pelayo Garcı́a de Arquer](https://openalex.org/A5075242279), Science. 384(6702)] 2024.https://doi.org/10.1126/science.adk9849.
     
 The oxygen evolution reaction is the bottleneck to energy-efficient water-based electrolysis for the production of hydrogen and other solar fuels. In proton exchange membrane water electrolysis (PEMWE), precious metals have generally been necessary for the stable catalysis of this reaction. In this work, we report that delamination of cobalt tungstate enables high activity and durability through the stabilization of oxide and water-hydroxide networks of the lattice defects in acid. The resulting catalysts achieve lower overpotentials, a current density of 1.8 amperes per square centimeter at 2 volts, and stable operation up to 1 ampere per square centimeter in a PEMWE system at industrial conditions (80°C) at 1.77 volts; a threefold improvement in activity; and stable operation at 1 ampere per square centimeter over the course of 600 hours.    
 
@@ -773,13 +652,13 @@ Abstract Non-precious electrocatalysts as the alternative to Pt have become a ho
 
     
 
-## Computational Design of 2D Phosphorus Nanostructures for Renewable Energy Applications: A Review   
+## Mno2 Nanozyme@Persistent Luminescent Nanoparticles for Dual-Modality Glucose Detection   
 
-OpenAlex: https://openalex.org/W4399615055    
-Open access: True
+OpenAlex: https://openalex.org/W4399875215    
+Open access: False
     
-[Chen‐Chen Er](https://openalex.org/A5046190835), [Cheng‐May Fung](https://openalex.org/A5058061972), [Wei‐Kean Chong](https://openalex.org/A5090211503), [Yong Jieh Lee](https://openalex.org/A5011405732), [Lling‐Lling Tan](https://openalex.org/A5014285647), [Yee Sin Ang](https://openalex.org/A5085473650), [Nikhil V. Medhekar](https://openalex.org/A5070138113), [Siang‐Piao Chai](https://openalex.org/A5000154274), Advanced electronic materials. None(None)] 2024.https://doi.org/10.1002/aelm.202300869.
+[Yue Zhang](https://openalex.org/A5010776860), [Renagul Abdurahman](https://openalex.org/A5043631210), [Yugui Han](https://openalex.org/A5000724215), [Shiji Liu](https://openalex.org/A5001785841), [Rui Zhang](https://openalex.org/A5028272208), [Xue‐Bo Yin](https://openalex.org/A5032656306), [Jie Gao](https://openalex.org/A5021434066), [Shuqi Wu](https://openalex.org/A5068299250), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4856887.
     
-Abstract Elemental phosphorus in its various allotropes has received tremendous research attention recently due to its intriguing electronic and structural properties. Notably, the application of nanostructured materials to overcome the inherent flaws in bulk materials is promising. However, many challenges need to be addressed before its widespread implementation. Thus, a specific tenet to design novel and robust nanomaterials is a decisive factor in the desired outcome, and the most daunting task before realizing this is solving the Schrödinger equation. First principle density functional theory (DFT) calculations have emerged as an insightful and accurate design tool to investigate the structural, electronic, and possible synthesis scenarios of yet undiscovered materials at atomic levels. In this review, the basic principles and the importance of DFT are discussed, followed by a summary of recent advances in the first principle study of elemental phosphorus‐based nanomaterials. Elemental phosphorus‐based nanomaterials and their allotropes have attracted growing interest in the renewable energy community due to their modulable product selectivity. However, the understanding of the physical phenomena of allotropic modification is still lacking. Therefore, the aim is to motivate experimental researchers to conduct DFT studies and experiments to comprehend relevant engineered nanomaterials better. Finally, the challenges and potential future research directions for further theoretical and computational development of phosphorus‐based nanomaterials are outlined.    
+No abstract    
 
     

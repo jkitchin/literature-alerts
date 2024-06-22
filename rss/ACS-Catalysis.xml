@@ -4,59 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Jun 2024 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 01:07:25 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Synergistic Catalytic Asymmetric Decarboxylative Mannich Reaction of &#946;-Ketoacids with Acyclic &#945;-Arylenamides</title>
-      <link>https://doi.org/10.1021/acscatal.4c02238</link>
-      <description>Xiaodong Tang, Yongjiang Hou, Xing-Fa Tan, Jing Nie, Chi Wai Cheung, Jun&#8208;An Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4399605336
-
-                No abstract</description>
-      <author>Xiaodong Tang, Yongjiang Hou, Xing-Fa Tan, Jing Nie, Chi Wai Cheung, Jun&#8208;An Ma</author>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02238</guid>
-    </item>
-    <item>
-      <title>Diversification of Pharmaceutical Manufacturing Processes: Taking the Plunge into the Non-PGM Catalyst Pool</title>
-      <link>https://doi.org/10.1021/acscatal.4c01809</link>
-      <description>Hui Zhao, Anne K. Ravn, Michael C. Haibach, Keary M. Engle, Carin C. C. Johansson Seechurn, ACS catalysis. None(None)] 2024. https://openalex.org/W4399609048
-
-                No abstract</description>
-      <author>Hui Zhao, Anne K. Ravn, Michael C. Haibach, Keary M. Engle, Carin C. C. Johansson Seechurn</author>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01809</guid>
-    </item>
-    <item>
-      <title>CO&lt;sub&gt;2&lt;/sub&gt;-Assisted Dehydrogenation of Propane by Atomically Dispersed Pt on MXenes</title>
-      <link>https://doi.org/10.1021/acscatal.4c01473</link>
-      <description>Chih&#8208;Peng Chu, Baoyu Chen, Yan He, Guiyuan Jiang, Xingying Lan, Shenggang Li, Changning Wu, Daofan Cao, ACS catalysis. None(None)] 2024. https://openalex.org/W4399610150
-
-                No abstract</description>
-      <author>Chih&#8208;Peng Chu, Baoyu Chen, Yan He, Guiyuan Jiang, Xingying Lan, Shenggang Li, Changning Wu, Daofan Cao</author>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01473</guid>
-    </item>
-    <item>
-      <title>Manipulating Activity and Chemoselectivity of a Benzaldehyde Lyase for Efficient Synthesis of &#945;-Hydroxymethyl Ketones and One-Pot Enantio-Complementary Conversion to 1,2-Diols</title>
-      <link>https://doi.org/10.1021/acscatal.4c01804</link>
-      <description>Yifan Zhang, Liang Yu, Yangyang Chen, Weidong Liu, Qi Zhao, Jinhui Feng, Peiyuan Yao, Qingping Wu, Dunming Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399631113
-
-                The &#945;-hydroxymethyl ketone motif has been widely found in many pharmaceutically important molecules and used as a key intermediate in the synthesis of various fine chemicals and natural products. Hydroxymethylation of aldehydes with formaldehyde catalyzed by thiamine diphosphate (ThDP)-dependent enzymes is considered a highly valuable approach in terms of atom economics and sustainability, while low activity and chemoselectivity restricted its widespread application. In this study, a benzaldehyde lyase (BAL) with high activity and catalytic efficiency was acquired by enzyme screening and engineering, which catalyzed the hydroxymethylation of furfural at the concentration of 700 mM. Crystal structural analysis and molecular dynamics studies revealed that the activity and chemoselectivity of BAL were improved by reshaping the conformation of the substrate entrance tunnel. Furthermore, a one-pot concurrent enzymatic process involving BAL-catalyzed hydroxymethylation of aldehydes and subsequent asymmetric reduction with carbonyl reductase was developed, offering a highly efficient way to produce chiral 1,2-diols from simple aldehydes, with high ee values (97&#8211;99%) in good yields (52&#8211;97%). The significantly improved activity and chemoselectivity demonstrated the potential of the engineered BAL in the industrial production of &#945;-hydroxymethyl ketones, which could readily enable the synthesis of other high-value-added chemicals from simple aldehydes and formaldehyde.</description>
-      <author>Yifan Zhang, Liang Yu, Yangyang Chen, Weidong Liu, Qi Zhao, Jinhui Feng, Peiyuan Yao, Qingping Wu, Dunming Zhu</author>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01804</guid>
-    </item>
-    <item>
-      <title>Deconvoluting Substrates, Support, and Temperature Effects on Leaching and Deactivation of Pd Catalysts: An In Situ Study in Flow</title>
-      <link>https://doi.org/10.1021/acscatal.4c02028</link>
-      <description>Oliver J. Newton, Matthew J. Takle, Jeffery Richardson, Klaus Hellgardt, King Kuok Hii, ACS catalysis. None(None)] 2024. https://openalex.org/W4399646842
-
-                Leaching behavior of three different Pd heterogeneous catalysts (PdEnCat 30, FibreCat FC1001, and Pd/Al2O3) during the Heck reaction of iodobenzene and methyl acrylate, in the presence of triethylamine, was compared using a tandem flow reactor. While leaching was observed in all three cases, Pd/Al2O3 appeared to be the most robust, showing little/no leaching at ambient temperature. The leached Pd species also appear to display different catalytic activities. With a slight modification of the reactor, the leaching caused by individual components of the reaction mixture can be assessed separately. For the polymer-supported catalysts, triethylamine caused the largest amount of leaching, even at 30 &#176;C. In contrast, the leaching from Pd/Al2O3 was observed only in the presence of iodobenzene at 90 &#176;C. Variations in leaching behavior were ascribed to differences in Pd species and immobilization methods.</description>
-      <author>Oliver J. Newton, Matthew J. Takle, Jeffery Richardson, Klaus Hellgardt, King Kuok Hii</author>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02028</guid>
-    </item>
     <item>
       <title>Solvent-Modulated Multiple Active Hydrogen Species in Furfural Hydrogenation</title>
       <link>https://doi.org/10.1021/acscatal.4c01364</link>
@@ -302,7 +252,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02172</link>
       <description>Kaiwei Liu, Boyang Zhang, Jiaming Zhang, Yao Xu, Jifang Zhang, Zihao Zhang, Shaoyong Ke, Ningning Wang, Shanshan Chen, Guijun Ma, ACS catalysis. None(None)] 2024. https://openalex.org/W4399848526
 
-                No abstract</description>
+                The Z-scheme system, integrating an oxygen evolution photocatalyst (OEP) with a hydrogen evolution photocatalyst (HEP), is an ideal strategy for photocatalytic overall water splitting (OWS), in which the development of an efficient OEP remains a challenge. Herein, the GaN:ZnO photocatalyst was synthesized by an ammonium halide-based process to perform a recorded apparent quantum yield of 30% at 420 nm for oxygen evolution from water. It made the GaN:ZnO a remarkable OEP for the construction of three distinct Z-scheme OWS systems, including an unbiased-photoelectrochemical sheet, direct collision, and redox-ion-mediated electron shuttle. The features and parameters of each Z-scheme system were discussed in relation to water splitting, and the most efficient one was established by employing [Fe(CN)6]3&#8211;/[Fe(CN)6]4&#8211; as an electron shuttle and SrTiO3:Rh as an HEP. This work not only provides a methodology for synthesizing an efficient GaN:ZnO photocatalyst but also highlights its great potential as an OEP applicable to constructing various Z-scheme OWS systems.</description>
       <author>Kaiwei Liu, Boyang Zhang, Jiaming Zhang, Yao Xu, Jifang Zhang, Zihao Zhang, Shaoyong Ke, Ningning Wang, Shanshan Chen, Guijun Ma</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02172</guid>
@@ -312,7 +262,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01419</link>
       <description>Wen&#8208;Bin Yang, Kareem Abdelfatah, Shrishnu Kumar Kundu, Biplab Rajbanshi, Gabriel Terejanu, Andreas Heyden, ACS catalysis. None(None)] 2024. https://openalex.org/W4399848574
 
-                No abstract</description>
+                The complex reaction network of catalytic biomass conversions often involves hundreds of surface intermediates and thousands of reaction steps, greatly hindering the rational design of metal catalysts for these conversions. Here, we present a framework of machine learning (ML)-accelerated first-principles studies for the hydrodeoxygenation (HDO) of propanoic acid over transition metal surfaces. The microkinetic model (MKM) is initially parametrized by ML-predicted energies and iteratively improved by identifying the rate-determining species and steps (RDS), computing their energies by density functional theory (DFT), and reparameterizing the MKM until all the RDS are computed by DFT. The Gaussian process (GP) model performs significantly better than the linear ridge regression model for predicting both the adsorption free energies and transition state free energies. Parameterized with energies from the GP model, only 5&#8211;20% of the full reaction network has to be computed by DFT for the MKM to possess DFT-level accuracy for the TOF and dominant reaction pathway. While the linear ridge regression model performs worse than the GP model, its performance is greatly improved when only transition states are predicted by the regression model and adsorption energies are computed by DFT. Overall, we find that a high accuracy in adsorption free energies is more important for a reliable MKM than a high accuracy in TS free energies. Finally, based on the GP model with GOH and GCHCHCO as catalyst descriptors, we build two-dimensional volcano plots in activity and selectivity that can help design promising alloy catalysts for HDO reactions of organic acids.</description>
       <author>Wen&#8208;Bin Yang, Kareem Abdelfatah, Shrishnu Kumar Kundu, Biplab Rajbanshi, Gabriel Terejanu, Andreas Heyden</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01419</guid>
@@ -322,7 +272,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01448</link>
       <description>Aditya Prajapati, Nitish Govindarajan, Wenyu Sun, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn, ACS catalysis. None(None)] 2024. https://openalex.org/W4399853867
 
-                No abstract</description>
+                The electrochemical oxidation of alcohols is being explored as a favorable substitute for the oxygen evolution reaction owing to its capability to generate high-value products and lower overpotentials. Herein, we present a systematic investigation into the electrochemical oxidation of 5-hydroxymethylfurfural (HMF), a model biomass platform chemical, on a thin-film nickel catalyst, aiming to investigate the underlying reaction mechanism and shed light on the role of the catalyst's microenvironment and phase on activity and product selectivity. Utilizing a combined experimental and computational approach, we demonstrate that NiOOH is the active phase for HMF oxidation. Additionally, we find a substantial impact of the electrochemical environment, particularly the electrolyte pH, on the reaction. Under highly alkaline conditions (pH = 13), higher activity for HMF oxidation is observed, accompanied by an increased selectivity toward 2,5-furandicarboxylic acid (FDCA) production. Conversely, a less alkaline environment (pH = 11) results in diminished HMF oxidation activity and a higher preference for the partial oxidation product 2,5-diformylfuran (DFF). Mechanistic insights from DFT studies reveal that geminal diols that are present under highly alkaline conditions undergo hydride transfer via HMFCA, while a shift to an alkoxide route occurs at a lower pH, favoring the DFF pathway. Hydride transfer energetics are also strongly affected by the surface Ni oxidation state. This integrated approach, bridging experimental and computational insights, provides a general framework for investigating the electrochemical oxidation of aldehydes and alcohols, thereby advancing rational design strategies in electrocatalysts for alcohol electro-oxidation reactions.</description>
       <author>Aditya Prajapati, Nitish Govindarajan, Wenyu Sun, Jiayi Huang, Hossein Bemana, Jeremy T. Feaster, Sneha A. Akhade, Nikolay Kornienko, Christopher Hahn</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01448</guid>
@@ -332,7 +282,7 @@
       <link>https://doi.org/10.1021/acscatal.4c02448</link>
       <description>Y. P. Lu, Qiao Chen, Yunlong Zhang, Wei Yan, Xiaohui Hou, Rui Huang, Dehui Deng, ACS catalysis. None(None)] 2024. https://openalex.org/W4399854204
 
-                No abstract</description>
+                Replacing H2 with H2O as the hydrogen source for the water-involved selective hydrogenation of cinnamaldehyde to cinnamyl alcohol (WSHCC) is very attractive yet is underdeveloped by a much lower H2O conversion rate than H2. Here, we report the realization of a high-efficiency WSHCC process by a synergy of CO adsorption and H2O dissociation over a Au/&#945;-MoC1&#8211;x boundary. It shows a specific molar rate of 60.86 mol molAu&#8211;1 h&#8211;1 to cinnamyl alcohol at 96 &#176;C, which is nearly 12-fold that reported earlier, and maintains a high conversion of over 99% and a high selectivity of 77%. Mechanistic studies indicate that the Au/&#945;-MoC1&#8211;x boundary accommodates atomically dispersed Au&#948;+ sites for adsorbing CO, vacating oxygen-covered &#945;-MoC1&#8211;x and thereby creating isolated Mo sites for the preferred adsorption and hydrogenation of C&#9552;O bonds over that of C&#9552;C bonds. This provides a catalyst design strategy for high-efficiency C&#9552;O hydrogenation by water.</description>
       <author>Y. P. Lu, Qiao Chen, Yunlong Zhang, Wei Yan, Xiaohui Hou, Rui Huang, Dehui Deng</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02448</guid>
@@ -342,7 +292,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01914</link>
       <description>Zhipeng Wan, Jing-Yi Tan, Wei Chen, Longkang Zhang, Xianchen Gong, Chengwei Zhai, Hengyong Xu, Anming Zheng, Peng Wu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399855782
 
-                No abstract</description>
+                Controlling the location and microenvironment of active centers in the zeolite framework is critical for understanding the in-depth structure&#8211;performance relationships of catalytic systems and constructing highly efficient catalysts. Herein, we have developed an MOR-type titanosilicate (denoted as 6M-Ti-M360) with an extremely low framework Ti content (Si/Ti = 300), exhibiting not only ultrahigh catalyst weight-based conversion (81%) but also a record-breaking turnover number (TON = 5845) per Ti site in batchwise ammoximation of cyclohexanone. Its highly isolated and active Ti species took the specific position of defective T3 sites within the eight-member ring side pockets of the MOR topology, evidenced by molecular dimension-dependent shape-selective experiments and theoretical evaluation of the catalytic activation ability of the different crystallographic Ti sites at the molecular level. Despite an extremely low Ti content but with the most active Ti on the defective T3 sites, the 6M-Ti-M360 catalyst maintained the cyclohexanone conversion and cyclohexanone oxime selectivity both as high as 99% for a long lifetime (314 h) in a continuous slurry bed reactor, capable of producing 1100 kg of oxime per gram of Ti. The clarification of the location and local microenvironment of Ti active sites may provide new insights into the exploration and construction of highly active sites in zeolitic catalysts.</description>
       <author>Zhipeng Wan, Jing-Yi Tan, Wei Chen, Longkang Zhang, Xianchen Gong, Chengwei Zhai, Hengyong Xu, Anming Zheng, Peng Wu</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01914</guid>
@@ -352,7 +302,7 @@
       <link>https://doi.org/10.1021/acscatal.4c01445</link>
       <description>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol, ACS catalysis. None(None)] 2024. https://openalex.org/W4399858629
 
-                No abstract</description>
+                Molybdenum sulfides (MoSx) in both crystalline and amorphous forms are promising earth-abundant electrocatalysts for hydrogen evolution reaction (HER) in acid. Plasma-enhanced atomic layer deposition was used to prepare thin films of both amorphous MoSx with adjustable S/Mo ratio (2.8&#8211;4.7) and crystalline MoS2 with tailored crystallinity, morphology, and electrical properties. All the amorphous MoSx films transform into highly HER-active amorphous MoS2 (overpotential 210&#8211;250 mV at 10 mA/cm2 in 0.5 M H2SO4) after electrochemical activation at approximately &#8722;0.3 V vs reversible hydrogen electrode. However, the initial film stoichiometry affects the structure and consequently the HER activity and stability. The material changes occurring during activation are studied using ex situ and quasi in situ X-ray photoelectron spectroscopy. Possible structures of as-deposited and activated catalysts are proposed. In contrast to amorphous MoSx, no changes in the structure of crystalline MoS2 catalysts are observed. The overpotentials of the crystalline films range from 300 to 520 mV at 10 mA/cm2, being the lowest for the most defective catalysts. This work provides a practical method for deposition of tailored MoSx HER electrocatalysts as well as new insights into their activity and structure.</description>
       <author>Miika Mattinen, Wei Chen, Rebecca A. Dawley, Marcel A. Verheijen, Emiel J. M. Hensen, W. M. M. Kessels, Ageeth A. Bol</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01445</guid>
@@ -362,7 +312,7 @@
       <link>https://doi.org/10.1021/acscatal.4c00812</link>
       <description>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss, ACS catalysis. None(None)] 2024. https://openalex.org/W4399860420
 
-                No abstract</description>
+                Acyltransferase from Mycobacterium smegmatis is a versatile enzyme, which catalyzes the transesterification of esters in aqueous media due to a kinetic preference of the synthesis reaction over the thermodynamically favored hydrolysis reaction. In the active octamer, the active site is deeply buried and connected to the protein surface by long and hydrophobic substrate access channels. The role of the access channel in controlling catalytic activity and substrate specificity was investigated by molecular dynamics simulations and Markov-state models, and the thermodynamics and kinetics of binding of acyl donors, acceptors, and water were compared. Despite the hydrophobic nature of the substrate access channel, water is present in the channel and competes with the acyl acceptors for access to the active site. The binding free energy profiles in the access channel and the flux of butyl and benzyl alcohol and vinyl acetate were analyzed in the concentration range between 10 and 500 mM and compared to water. The flux showed a maximum at an alcohol concentration of 50&#8211;100 mM, in agreement with experimental observations. At the maximum, the flux of alcohol approaches 50% of the flux of water, which explains the high transesterification rate as compared to hydrolysis. The molecular origin of this effect is due to the accumulation of alcohol molecules along the access channel. Extensive molecular dynamics simulations and analysis of trajectories by a Markov-state model provided insights into the role of the access channel in activity and specificity by controlling access and binding of competing substrates.</description>
       <author>Henrique F. Carvalho, Luuk Mestrom, Ulf Hanefeld, J&#252;rgen Pleiss</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c00812</guid>
@@ -386,6 +336,16 @@
       <author>De&#8208;Jiu Wang, Xiaochen Sun, Hai&#8208;Jing Yin, Hao Dong, Haichao Liu, Yawen Zhang</author>
       <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01201</guid>
+    </item>
+    <item>
+      <title>Photochemical Reductive Carboxylation of &lt;i&gt;N&lt;/i&gt;-Benzoyl Imines with Oxalate Accelerated by Formation of EDA Complexes</title>
+      <link>https://doi.org/10.1021/acscatal.4c02007</link>
+      <description>Wen Liu, Pei Xu, H. Jiang, Menglei Li, Tian-Zi Hao, Yiqin Liu, Shaolin Zhu, Kun-Xiao Zhang, Xu Zhu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399871819
+
+                No abstract</description>
+      <author>Wen Liu, Pei Xu, H. Jiang, Menglei Li, Tian-Zi Hao, Yiqin Liu, Shaolin Zhu, Kun-Xiao Zhang, Xu Zhu</author>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02007</guid>
     </item>
   </channel>
 </rss>
