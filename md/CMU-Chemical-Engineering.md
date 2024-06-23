@@ -1,8 +1,8 @@
 # CMU Chemical Engineering
 Description: Papers by people in the Department of Chemical Engineering at CMU
-Created on Sat Jun 22 01:07:26 2024
+Created on Sun Jun 23 01:12:55 2024
 
-Found 4 results from 2024-06-15 to 2024-06-22
+Found 5 results from 2024-06-16 to 2024-06-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650](https://api.openalex.org/works?filter=author.id%3Ahttps%3A//openalex.org/A5063320716%7Chttps%3A//openalex.org/A5052825722%7Chttps%3A//openalex.org/A5010387303%7Chttps%3A//openalex.org/A5041685684%7Chttps%3A//openalex.org/A5040842816%7Chttps%3A//openalex.org/A5048633127%7Chttps%3A//openalex.org/A5048485981%7Chttps%3A//openalex.org/A5086004922%7Chttps%3A//openalex.org/A5056017028%7Chttps%3A//openalex.org/A5018420940%7Chttps%3A//openalex.org/A5003442464%7Chttps%3A//openalex.org/A5055700187%7Chttps%3A//openalex.org/A5030631754%7Chttps%3A//openalex.org/A5044695139%7Chttps%3A//openalex.org/A5028498558%7Chttps%3A//openalex.org/A5053252662%7Chttps%3A//openalex.org/A5028147543%7Chttps%3A//openalex.org/A5037506064%7Chttps%3A//openalex.org/A5027983186%7Chttps%3A//openalex.org/A5010666650)
 
@@ -45,6 +45,17 @@ OpenAlex: https://openalex.org/W4399849795
 Open access: False
     
 [Riddhesh Kumtakar](https://openalex.org/A5099291898), [Nitish Umang](https://openalex.org/A5071784695), [Gary Kocis](https://openalex.org/A5099291899), [Dean Face](https://openalex.org/A5099291900), [Chrysanthos E. Gounaris](https://openalex.org/A5048485981), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4871843.
+    
+No abstract    
+
+    
+
+## Intense formation of secondary ultrafine particles from Amazonian vegetation fires and their invigoration of deep clouds and precipitation   
+
+OpenAlex: https://openalex.org/W4399887232    
+Open access: True
+    
+[Manish Shrivastava](https://openalex.org/A5029609817), [Jiwen Fan](https://openalex.org/A5029189683), [Yuwei Zhang](https://openalex.org/A5029222642), [Quazi Z. Rasool](https://openalex.org/A5044465853), [Bin Zhao](https://openalex.org/A5008718870), [Jianjian Shen](https://openalex.org/A5037611710), [Jeffrey R. Pierce](https://openalex.org/A5055116926), [Shantanu H. Jathar](https://openalex.org/A5073859430), [Ali Akherati](https://openalex.org/A5006368017), [Jie Zhang](https://openalex.org/A5055664027), [Rahul A. Zaveri](https://openalex.org/A5074206807), [Brian Gaudet](https://openalex.org/A5082593441), [Ying Liu](https://openalex.org/A5072663357), [Meinrat O. Andreae](https://openalex.org/A5082416286), [Mira L. Pöhlker](https://openalex.org/A5024073664), [Neil M. Donahue](https://openalex.org/A5041685684), [Yuan Wang](https://openalex.org/A5054409245), [John H. Seinfeld](https://openalex.org/A5001370428), One earth. 7(6)] 2024.https://doi.org/10.1016/j.oneear.2024.05.015.
     
 No abstract    
 

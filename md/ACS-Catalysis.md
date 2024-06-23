@@ -1,65 +1,10 @@
 # ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sat Jun 22 01:07:25 2024
+Created on Sun Jun 23 01:12:54 2024
 
-Found 34 results from 2024-06-15 to 2024-06-22
+Found 40 results from 2024-06-16 to 2024-06-23
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459](https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459)
-
-## Solvent-Modulated Multiple Active Hydrogen Species in Furfural Hydrogenation   
-
-OpenAlex: https://openalex.org/W4399663719    
-Open access: False
-    
-[Min Dong](https://openalex.org/A5073267812), [Sen Luan](https://openalex.org/A5020646881), [Yuxuan Wu](https://openalex.org/A5032819201), [Bin Zhang](https://openalex.org/A5088324347), [Ye Liu](https://openalex.org/A5013035066), [Huizhen Liu](https://openalex.org/A5046040180), [Buxing Han](https://openalex.org/A5047044498), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01364.
-    
-Unveiling the mechanism behind catalyst-dependent solvent effects for hydrogenation reactions is critically important yet presents significant challenges. In this work, focusing on furfural hydrogenation over Pd-based catalysts, we observe that distinct active hydrogen species present on Pd/MgO and Pd/TiO2 exhibit different responses to solvation environments, consequently influencing the selectivity in diverse solvents. Product distribution over Pd/MgO remains unaffected by the solvents used that tetrahydrofurfural (THFAL) emerged as the primary product in both organic solvents and water. Conversely, product distribution over Pd/TiO2 highly depends on the solvents; THFAL dominates in organic solvents, whereas furfural alcohol (FOL) becomes the primary product in water. The disparate selectivity upon alteration of supports and solvents is demonstrated by neural network-enhanced molecular dynamics simulations and microkinetic modeling. The active hydrogen species on the support are stabilized in water by water-mediated charge reconstructions, facilitating the hydrogenation of C═O to produce FOL. A spillover pathway where hydrogen species transfer to supports directly without involving hydrogen bond networks is dynamically preferred in both water and organic solvents.    
-
-    
-
-## Engineering Escherichia coli Pyruvate Metabolism to Generate Noncanonical Reducing Power   
-
-OpenAlex: https://openalex.org/W4399670296    
-Open access: False
-    
-[Derek Aspacio](https://openalex.org/A5041733718), [Emma Luu](https://openalex.org/A5001893316), [Suphanida Worakaensai](https://openalex.org/A5040263032), [Youtian Cui](https://openalex.org/A5022953852), [Sarah Maxel](https://openalex.org/A5034082839), [Edward J. King](https://openalex.org/A5007342740), [Raine Hagerty](https://openalex.org/A5099128536), [Alexander L. Chu](https://openalex.org/A5058618539), [Derek Minn](https://openalex.org/A5099128537), [Justin B. Siegel](https://openalex.org/A5076521371), [Han Li](https://openalex.org/A5005490470), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02131.
-    
-The future of biomanufacturing is dependent on rewiring biological systems to establish an alternative approach to our current chemical industries. However, a key limitation in biomanufacturing is that desired processes must rely on the same two redox cofactors as natural metabolism, nicotinamide adenine dinucleotide (phosphate) NAD(P)+, to shuttle electrons energy. Thus, competition of resources with natural reactions within host cells is nearly unavoidable. One strategy to overcome redox cofactor resource competition is the implementation of a third, noncanonical redox cofactor, such as nicotinamide mononucleotide (NMN+), which supports specific electron delivery to desired reactions. Here, we redesign the Escherichia coli pyruvate dehydrogenase multienzyme complex (PDHc) to specially utilize NMN+ by engineering its E3 subunit (Lpd). Through rational design, we discover a cofactor promiscuous variant Lpd Penta (G182R-I186T-M206E-E205W-I271L) with an ∼2500-fold improvement in NMN+ apparent turnover number. We tailor the enzyme to exclusively use NMN+ through computational design and construct Lpd Ortho (Penta-R292E-Q317L) with a 2.4 × 105-fold cofactor specificity improvement toward NMN+ compared to the wild type. Molecular simulation allowed tracking of the cofactor's alternative binding poses that emerge as the enzyme evolves, which was crucial to precisely guide engineering. We demonstrate that the engineered NMN+-specific PDHc functions in E. coli cells to sustain the life-essential pyruvate metabolism, in an NMN+-dependent manner. These results expand the available NMN+ toolkit to include the high flux and nearly irreversible reaction of PDHc as an insulated electron source.    
-
-    
-
-## Electrocatalysts for Inorganic and Organic Waste Nitrogen Conversion   
-
-OpenAlex: https://openalex.org/W4399670819    
-Open access: True
-    
-[Danae A. Chipoco Haro](https://openalex.org/A5056482560), [Luisa Barrera](https://openalex.org/A5073039652), [Haldrian Iriawan](https://openalex.org/A5011968024), [Antonia Herzog](https://openalex.org/A5055020562), [Nianhan Tian](https://openalex.org/A5087917712), [Andrew J. Medford](https://openalex.org/A5036197373), [Yang Shao‐Horn](https://openalex.org/A5072645578), [Faisal M. Alamgir](https://openalex.org/A5020859438), [Marta C. Hatzell](https://openalex.org/A5014967427), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01398 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01398)).
-    
-Anthropogenic activities have disrupted the natural nitrogen cycle, increasing the level of nitrogen contaminants in water. Nitrogen contaminants are harmful to humans and the environment. This motivates research on advanced and decarbonized treatment technologies that are capable of removing or valorizing nitrogen waste found in water. In this context, the electrocatalytic conversion of inorganic- and organic-based nitrogen compounds has emerged as an important approach that is capable of upconverting waste nitrogen into valuable compounds. This approach differs from state-of-the-art wastewater treatment, which primarily converts inorganic nitrogen to dinitrogen, and organic nitrogen is sent to landfills. Here, we review recent efforts related to electrocatalytic conversion of inorganic- and organic-based nitrogen waste. Specifically, we detail the role that electrocatalyst design (alloys, defects, morphology, and faceting) plays in the promotion of high-activity and high-selectivity electrocatalysts. We also discuss the impact of wastewater constituents. Finally, we discuss the critical product analyses required to ensure that the reported performance is accurate.    
-
-    
-
-## Chemodivergent Tandem Hydroalkylation and Hydroalkenoxylation of Conjugated Enynes   
-
-OpenAlex: https://openalex.org/W4399672490    
-Open access: False
-    
-[Bowei Xie](https://openalex.org/A5085804362), [Zhi‐Tao He](https://openalex.org/A5042616865), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02377.
-    
-Due to the instability and weak O-nucleophilicity of enol, carbonyl compounds prefer to function as C-nucleophiles instead of O-nucleophiles in the extensively studied transition metal-catalyzed hydrofunctionalizations of unsaturated bonds. The corresponding hydroalkenoxylation reaction has thus long been unexplored. Here, we describe a chemodivergent protocol for the challenging hydroalkenoxylation reactions. Dictated by the Pd catalyst bearing different ligands, both 5-exo-trig and 6-endo-trig hydroalkenoxylation processes are demonstrated to be feasible between the reaction of 1,3-enynes and ketoesters, and polysubstituted hydrofurans and hydropyrans are achieved in good yields and excellent chemoselectivities. In addition, the enantioselective hydroalkenoxylation reaction is also explored under an Rh catalyst in moderate efficiency but with high stereoselectivities. Mechanistic studies corroborate the designed tandem hydroalkylation and hydroalkenoxylation processes and uncover that a ligand-to-ligand hydrogen transfer process might be involved as the turnover-limiting step in the 5-exo-trig hydroalkenoxylation.    
-
-    
-
-## Defect-Mediated Cu–S Pair Active Sites Modulating Proton Supply to Facilitate Overall CO2 Photoreduction with H2O   
-
-OpenAlex: https://openalex.org/W4399677145    
-Open access: False
-    
-[Heng Cao](https://openalex.org/A5079800526), [Xiaodi Zhu](https://openalex.org/A5038541786), [Jiawei Xue](https://openalex.org/A5001720256), [Ruyang Wang](https://openalex.org/A5033862876), [Jiusi Shang](https://openalex.org/A5035134262), [Peiyu Ma](https://openalex.org/A5063955135), [Chengyuan Liu](https://openalex.org/A5031824581), [Jun Bao](https://openalex.org/A5086265105), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02857.
-    
-Precise design of photocatalysts with the demanded active surface structure for highly efficient and selective CO2 photoreduction is crucial but challenging. Here, by taking CdS as a prototype, single-atom Cu is successfully constructed on Cd-deficient CdS (Cd1–xS) to improve the performance of CO2 photoreduction with H2O as proton donor. The optimal Cu/Cd1–xS with Cd vacancies (VCd)-mediated single-atom Cu exhibits nearly 100% selective CO production and a more than three-fold higher CO evolution rate compared to that of Cd1–xS. Both experimental identification and DFT theoretical simulation unveil that the VCd-mediated single-atom Cu render Cu–S pair sites to function as more catalytically active sites for dissociating H2O and promoting the corresponding proton supply, which favors the subsequent protonation of the adsorbed CO2 at the adjacent Cd sites via the two-proton coupled two-electron transfer pathway. This work demonstrates the importance of modulating proton supply from the oxidation half-reaction for facilitating the overall CO2 photoreduction, advocating an overall-reaction perspective for the design and development of highly efficient and selective CO2 conversion photocatalysts.    
-
-    
 
 ## Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions   
 
@@ -377,5 +322,126 @@ Open access: False
 [Wen Liu](https://openalex.org/A5065971725), [Pei Xu](https://openalex.org/A5088737849), [H. Jiang](https://openalex.org/A5023430107), [Menglei Li](https://openalex.org/A5019513406), [Tian-Zi Hao](https://openalex.org/A5027464022), [Yiqin Liu](https://openalex.org/A5017969411), [Shaolin Zhu](https://openalex.org/A5016727969), [Kun-Xiao Zhang](https://openalex.org/A5020447705), [Xu Zhu](https://openalex.org/A5012627436), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02007.
     
 No abstract    
+
+    
+
+## Copper-Catalyzed Dearomative trans-1,2-Carboamination   
+
+OpenAlex: https://openalex.org/W4399872712    
+Open access: False
+    
+[Charles W. Davis](https://openalex.org/A5086701434), [Yanrong Li](https://openalex.org/A5071149622), [Yu Zhang](https://openalex.org/A5071773009), [Zohaib Siddiqi](https://openalex.org/A5028711961), [Peng Liu](https://openalex.org/A5021833788), [David Šarlah](https://openalex.org/A5058389691), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02656.
+    
+We have achieved the arenophile-mediated, copper-catalyzed dearomative trans-1,2-carboamination of nonactivated arenes with alkyl organometallic nucleophiles. This simple and practical procedure was used to prepare diverse, stereochemically rich alkylated cyclohexadienes from readily available arenes. Synthetic utility was demonstrated through the rapid preparation of complex small molecules difficult to access by conventional routes. Finally, we conducted DFT studies to explore the catalytic process, including a study of the reaction pathway and an examination of the divergent regioselectivity observed with substituted arenes.    
+
+    
+
+## An Enzyme Catalyzing the Oxidative Maturation of Reduced Prenylated-FMN to Form the Active Coenzyme   
+
+OpenAlex: https://openalex.org/W4399879371    
+Open access: False
+    
+[Daniel A. DiRocco](https://openalex.org/A5058094440), [Pronay Roy](https://openalex.org/A5075100011), [Anushree Mondal](https://openalex.org/A5031037227), [Prathamesh M. Datar](https://openalex.org/A5089860875), [E. Neil G. Marsh](https://openalex.org/A5057584218), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02747.
+    
+No abstract    
+
+    
+
+## Formal Decarbonylation of 1,2-Diketones Enabled by Synergistic Catalysis of Lewis Acid–Base Pairs and Redox Properties in CeO2   
+
+OpenAlex: https://openalex.org/W4399885909    
+Open access: False
+    
+[Takehiro Matsuyama](https://openalex.org/A5090814416), [Takafumi Yatabe](https://openalex.org/A5013371769), [Kazuya Yamaguchi](https://openalex.org/A5006226044), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c02493.
+    
+Various decarbonylation reactions via oxidative addition of carbonyl compounds to metal catalysts can be applied to late-stage modification and have been actively studied to date; however, several inherent problems derived from the oxidative addition are difficult to solve, such as toxic CO production, deactivation of catalysts by CO adsorption, intolerance of some functional groups, or air-sensitivity of catalysts. In this context, formal decarbonylation, which eliminates CO as other compounds without involving oxidative addition, is attractive but hardly reported, especially using heterogeneous catalysts. Herein, formal decarbonylation of diaryl 1,2-diketones to afford monoketones using CeO2 as a reusable heterogeneous catalyst and O2 in the air as the terminal oxidant was developed, generating CO2 as the only byproduct. The results revealed that the reaction was enabled by the synergistic catalytic effect of the Lewis acid–base pairs and redox properties in CeO2.    
+
+    
+
+## Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized π Electron Clouds for Efficient CO2 Photoreduction   
+
+OpenAlex: https://openalex.org/W4399891463    
+Open access: False
+    
+[Lei Li](https://openalex.org/A5014114077), [Huanhuan Lu](https://openalex.org/A5004966861), [Cungui Cheng](https://openalex.org/A5049567901), [Xinyan Dai](https://openalex.org/A5008609658), [Fang Chen](https://openalex.org/A5065710684), [Jiqiang Ning](https://openalex.org/A5089866628), [Wentao Wang](https://openalex.org/A5088025824), [Yong Hu](https://openalex.org/A5004880276), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01636.
+    
+Precisely engineering point defects holds promise for the development of state-of-the-art photocatalysts for CO2 conversion. This study demonstrates the controllable creation of nitrogen vacancies (VNs) in the centers of heptazine rings of graphitic carbon nitrides (g-C3N4) via a photochemical-assisted nitrogen etching strategy. Spectroscopic analyses and theoretical simulations elucidate the photochemical process to hydrogenate the nitrogen situated at the center of the g-C3N4 heptazine ring and then release an ammonia molecule, accompanied by the photooxidation of the sacrificial agents. The catalyst with an optimal VNs concentration achieves a CO generation rate of 35.2 μmol g–1 h–1 with nearly 100% selectivity, comparable to the performance of the reported g-C3N4 materials. The remarkably improved photoactivity is due to the adjustments of the electronic structures and the midgap states of g-C3N4 by the delocalized π electron cloud created in the 12-membered ring surrounding the VN, which maximizes the light-harvesting efficiencies and suppresses the recombination of photogenerated electrons and holes. The VNs also activates the neighboring catalytic carbon centers to reduce the energy barrier for CO2 reduction. This work provides a good design concept to regulate catalytic activity by engineering point defects.    
+
+    
+
+## Efficient H2 Production from Biomass-Based HCO2H by Cooperation of Quantum Dots Photocatalysts with Weak HCHO Adsorption and In Situ Generated Ni0   
+
+OpenAlex: https://openalex.org/W4399896204    
+Open access: False
+    
+[Wenxin Niu](https://openalex.org/A5022391449), [Wanghui Zhao](https://openalex.org/A5008734353), [Kaiwen Feng](https://openalex.org/A5049187274), [Fu-Jia Tang](https://openalex.org/A5054449606), [Tao Wang](https://openalex.org/A5062351268), [Kaixuan Wang](https://openalex.org/A5009902978), [Shaohua Shen](https://openalex.org/A5002470838), [Yang Li](https://openalex.org/A5014927466), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01708.
+    
+Efficient hydrogen (H2) production from renewable resources, such as biomass, one of the largest renewable resources on the earth, instead of fossil resources, is highly desirable. Making it via HCO2H as an intermediate for H2 production from biomass both facilitates efficient H2 production and can avoid the issues of H2 storage. Herein, we report efficient H2 production from raw biomass-based formic acid (HCO2H) by a noble-metal-free catalysis system under mild conditions, enabled by cooperation of CdS/ZnS-S2– quantum dots photocatalysts with weak formaldehyde (HCHO) adsorption and in situ generated Ni0, resulting in H2 with a 94% yield in 3.5 h, with a 99.7% selectivity and a 537 ± 14 mol mg–1 h–1 average rate at 50 °C under visible-light irradiation. This study should promote the exploration of catalytic systems for streamlined H2 production from renewable biomass for practical application.    
+
+    
+
+## Amino Acid Synthesis through C–N Coupling between α-Ketoacids and Hydroxylamine from Nitrate Reduction   
+
+OpenAlex: https://openalex.org/W4399896383    
+Open access: False
+    
+[Yiyang Zhou](https://openalex.org/A5041344732), [Ruizhi Duan](https://openalex.org/A5083764797), [Qinge Huang](https://openalex.org/A5043532509), [Chunmei Ding](https://openalex.org/A5014014148), [Can Li](https://openalex.org/A5011065863), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01793.
+    
+The artificial synthesis of amino acids is an important yet challenging subject. Electrocatalytic C–N coupling from organic acids and nitrogen sources provides an opportunity for this target but with the difficulty of C–N bond formation toward the production of amino acids. Herein, we report the synthesis of amino acids (alanine, glutamic acid, glycine, leucine, valine) from nitrate and α-ketoacids with a hybrid catalyst, cobalt phthalocyanine immobilized on carbon nanotubes (CoPc/CNT). The Faradaic efficiency for alanine production with CoPc/CNT is as high as 61%. The CoPc catalyst integrated with CNTs can catalyze nitrate reduction to hydroxylamine, which is switched from a thermodynamically uphill to a downhill process. The hydroxylamine intermediate attacks the α-carbon of an α-ketoacid to form an oxime. Amino acids are produced by the reduction of oximes catalyzed by CNTs. The bifunctionality of CoPc/CNT steers the tandem catalytic reaction toward the efficient production of amino acids in one pot. This work identifies that enhancing the reduction of nitrate to hydroxylamine is the key to C–N bond formation in amino acid synthesis.    
+
+    
+
+## CuOx Nanopatches Positioned at Lewis Acidic Sites of TiO2 for Propylene Epoxidation Using Molecular Oxygen   
+
+OpenAlex: https://openalex.org/W4399896664    
+Open access: False
+    
+[Zun-Ren Lv](https://openalex.org/A5022537013), [Leilei Kang](https://openalex.org/A5060000312), [Xiaoli Pan](https://openalex.org/A5014023117), [Yang Su](https://openalex.org/A5020530505), [Hua Wang](https://openalex.org/A5054863233), [Lin Li](https://openalex.org/A5089015352), [Xiao Yan Liu](https://openalex.org/A5055302562), [Aiqin Wang](https://openalex.org/A5053108670), [Tao Zhang](https://openalex.org/A5040895512), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01749.
+    
+Controlling the precise placement of active metals on supports is highly desirable yet challenging, which governs both the reaction pathway and the ultimate outcomes of catalytic reactions. Herein, the Cu species are positioned to the Lewis acidic sites created by the ultrahigh-temperature calcination of TiO2, where the atomic structures of the Lewis acids are identified as five-coordinated Ti4+ cations bound to three-coordinated O2– anions (Lβ sites) by in situ characterizations. Owing to the robust chemical affinity, CuOx manifests itself as a nanopatch. The Cu/TiO2 catalyst without any modifications exhibits a propylene oxide (PO) formation rate of 44 mmol gCu–1 h–1 for direct epoxidation of propylene using molecular oxygen (DEP). The PO yield on Cu/TiO2 can be efficiently correlated with the quantity of the decreased Lewis acids, which demonstrates that the intimated interaction between the Cu species and Lewis acids should be responsible for PO production. Furthermore, density functional theory calculations suggest that Cu+ in the Ti–O–Cu interface formed at the Lβ sites is the active site of the DEP reaction, with the aid of the adjacent Cu atom. This study provides a Cu-based catalyst for the DEP reaction.    
+
+    
+
+## Synergizing Amino Tethering and Carbon Shell Confinement Enables Confinement Synthesis of PtCo Intermetallic Catalysts for Highly Durable Fuel Cells   
+
+OpenAlex: https://openalex.org/W4399896671    
+Open access: False
+    
+[Kechuang Wan](https://openalex.org/A5049785358), [Chuanqi Luo](https://openalex.org/A5023433080), [Jue Wang](https://openalex.org/A5039422700), [Haitao Chen](https://openalex.org/A5067653842), [Jingjing Zhang](https://openalex.org/A5032122445), [Bing Li](https://openalex.org/A5024831032), [Maorong Chai](https://openalex.org/A5087120666), [Pingwen Ming](https://openalex.org/A5088011909), [Cunman Zhang](https://openalex.org/A5078891674), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01202.
+    
+Intermetallic compounds possess superior catalytic performance over their disordered alloy counterparts, while their synthesis usually requires high-temperature treatment, which causes the sintering of catalysts. This work demonstrates the high-temperature confinement synthesis (HTCS) of PtCo intermetallic compounds for oxygen reduction reaction (ORR) by integrating ultrathin nitrogen-doped carbon shell (NCS) confined PtCo alloy into −NH2 functionalized black pearls 2000 carbon architectures (PtCo@NCS/BP-NH2). Benefiting from amino tethering and carbon shell confinement, high-temperature sintering behavior is effectively inhibited. PtCo@NCS/BP-NH2 possesses outstanding ORR performance, and the assembled single cell exhibits a small peak power density loss rate of 4% after the accelerated durability test (ADT), outperforming PtCo/BP (12.5%) and commercial Pt/C (18.9%). Theoretical calculations along with experiments reveal that PtCo and NCS synergically optimize the electronic structure, weaken the Pt–O dipole effect, and lower the reaction barrier for ORR. The study provides insight into the HTCS of catalysts and unveils intrinsic electronic interaction for ORR.    
+
+    
+
+## Issue Publication Information   
+
+OpenAlex: https://openalex.org/W4399897740    
+Open access: True
+    
+, ACS catalysis. 14(12)] 2024.https://doi.org/10.1021/csv014i012_1814477 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i012_1814477)).
+    
+No abstract    
+
+    
+
+## Issue Editorial Masthead   
+
+OpenAlex: https://openalex.org/W4399897753    
+Open access: True
+    
+, ACS catalysis. 14(12)] 2024.https://doi.org/10.1021/csv014i012_1814478 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/csv014i012_1814478)).
+    
+No abstract    
+
+    
+
+## Structure and Reactivity of Active Oxygen Species on Silver Surfaces for Ethylene Epoxidation   
+
+OpenAlex: https://openalex.org/W4399908109    
+Open access: True
+    
+[Minjie Guo](https://openalex.org/A5000351917), [Nanchen Dongfang](https://openalex.org/A5034695775), [Marcella Iannuzzi](https://openalex.org/A5037289525), [Jeroen A. van Bokhoven](https://openalex.org/A5054120563), [Luca Artiglia](https://openalex.org/A5014379900), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01566 ([pdf](https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01566)).
+    
+The epoxidation of ethylene stands as one of the most important industrial catalytic reactions, and silver-based catalysts show superior activity and selectivity. Oxygen is activated on the surface of silver during the reaction and exerts a substantial impact on product selectivity. Notably, the oxygen species residing in the topmost atomic layers profoundly influence the reactivity of a catalyst. However, their characterization under in situ reaction conditions remains a huge challenge, and specific structures have not been identified yet. In this study, we employ in situ X-ray photoelectron spectroscopy and density functional theory calculations to determine the oxygen species formed at the topmost atomic layers of a silver foil and to assign them a structure. Three different groups of oxygen species activated on silver are identified: (i) surface lattice oxygen and two oxygen species originating from associatively adsorbed dioxygen and (ii) top and (iii) subsurface oxygen. Transient in situ photoelectron spectroscopy experiments are carried out to reveal the dynamic evolution and thus reactivity of the different oxygen species under ethylene epoxidation reaction environments. The top oxygen atom from the adsorbed associated dioxygen is the most active. Meanwhile, a frequency-selective data analysis method, developed to process time-resolved data, provides insights into the evolving trends of peak intensities for different oxygen species. The versatility of this method suggests its potential application in future time-resolved characterization studies.    
 
     
