@@ -4,19 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/CMU-Chemical-Engineering.xml</link>
     <description>Papers by people in the Department of Chemical Engineering at CMU</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 23 Jun 2024 01:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 01:10:14 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Membrane Development for CO2 Capture from Steel Manufacturing</title>
-      <link>https://doi.org/10.2172/2371810</link>
-      <description>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson, No host. None(None)] 2024. https://openalex.org/W4399709804
-
-                No abstract</description>
-      <author>Thien Tran, Lingxiang Zhu, Fangming Xiang, Victor A. Kusuma, Cheick Dosso, H&#233;ctor Pedrozo, Grigorios Panagakos, Neil Pergar, Brenda Petrilena, David Hopkinson</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.2172/2371810</guid>
-    </item>
     <item>
       <title>Exploratory mapping of tumor associated macrophage nanoparticle article abstracts using an eLDA topic modeling machine learning approach</title>
       <link>https://doi.org/10.1371/journal.pone.0304505</link>

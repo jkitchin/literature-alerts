@@ -1,8 +1,8 @@
 #+TITLE: ACS Catalysis
 Description: Articles from ACS Catalysis
-Created on Sun Jun 23 01:12:54 2024
+Created on Mon Jun 24 01:10:13 2024
 
-Found 40 results from 2024-06-16 to 2024-06-23
+Found 42 results from 2024-06-17 to 2024-06-24
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=primary_location.source.id%3Ahttps%3A//openalex.org/S37391459]]
 
@@ -843,5 +843,47 @@ OpenAlex: https://openalex.org/W4399908109 (Open access: True)
 [[https://openalex.org/A5000351917][Minjie Guo]], [[https://openalex.org/A5034695775][Nanchen Dongfang]], [[https://openalex.org/A5037289525][Marcella Iannuzzi]], [[https://openalex.org/A5054120563][Jeroen A. van Bokhoven]], [[https://openalex.org/A5014379900][Luca Artiglia]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c01566  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c01566][pdf]])
      
 The epoxidation of ethylene stands as one of the most important industrial catalytic reactions, and silver-based catalysts show superior activity and selectivity. Oxygen is activated on the surface of silver during the reaction and exerts a substantial impact on product selectivity. Notably, the oxygen species residing in the topmost atomic layers profoundly influence the reactivity of a catalyst. However, their characterization under in situ reaction conditions remains a huge challenge, and specific structures have not been identified yet. In this study, we employ in situ X-ray photoelectron spectroscopy and density functional theory calculations to determine the oxygen species formed at the topmost atomic layers of a silver foil and to assign them a structure. Three different groups of oxygen species activated on silver are identified: (i) surface lattice oxygen and two oxygen species originating from associatively adsorbed dioxygen and (ii) top and (iii) subsurface oxygen. Transient in situ photoelectron spectroscopy experiments are carried out to reveal the dynamic evolution and thus reactivity of the different oxygen species under ethylene epoxidation reaction environments. The top oxygen atom from the adsorbed associated dioxygen is the most active. Meanwhile, a frequency-selective data analysis method, developed to process time-resolved data, provides insights into the evolving trends of peak intensities for different oxygen species. The versatility of this method suggests its potential application in future time-resolved characterization studies.    
+
+    
+
+* Asymmetric Oxygen Vacancy-Promoted Synthesis of Aminoarenes from Nitroarenes Using Waste H2S as a “Hydrogen Donor”  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399916695
+:TOPICS: Catalytic Reduction of Nitro Compounds, Homogeneous Catalysis with Transition Metals, Ammonia Synthesis and Electrocatalysis
+:PUBLICATION_DATE: 2024-06-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02478")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399916695"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399916695"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399916695"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399916695 (Open access: False)
+    
+[[https://openalex.org/A5085266092][Xiaohai Zheng]], [[https://openalex.org/A5084615025][Bang Li]], [[https://openalex.org/A5003637819][Rui Huang]], [[https://openalex.org/A5019208828][Weiping Jiang]], [[https://openalex.org/A5040990019][Lijuan Shen]], [[https://openalex.org/A5053199253][Ganchang Lei]], [[https://openalex.org/A5014506962][Shiping Wang]], [[https://openalex.org/A5076466524][Shiping Wang]], [[https://openalex.org/A5053219554][Lilong Jiang]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02478 
+     
+The conversion of H2S to high-value-added products is appealing for alleviating environmental pollution and realizing resource utilization. Herein, we report the reduction of nitrobenzene to aniline using waste H2S as a "hydrogen donor" over the catalyst of FeCeO2−δ with abundant oxygen vacancies (Ov), especially an asymmetric oxygen vacancy (ASOv). The electron-rich nature of the ASOv sites facilitates electron transfer to the electron-deficient nitro group, promoting the adsorption and activation of Ph–NO2 through the elongation and cleavage of the N–O bond. Benefiting from the formation of abundant ASOv sites, the resulting FeCeO2−δ achieves an impressive 85.6% Ph–NO2 conversion and 81.9% Ph–NH2 selectivity at 1.5 MPa and 90 °C, which surpasses that of pure CeO2 with flower and rod morphologies. In situ FT-IR measurements combined with density functional theory calculations have elucidated a plausible reaction mechanism and a rate-limiting step in the hydrogenation of Ph–NO2 by H2S.    
+
+    
+
+* The Conundrum of “Pair Sites” in Langmuir–Hinshelwood Reaction Kinetics in Heterogeneous Catalysis  :ACS_Catalysis:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399916760
+:TOPICS: Catalytic Dehydrogenation of Light Alkanes, Desulfurization Technologies for Fuels, Catalytic Nanomaterials
+:PUBLICATION_DATE: 2024-06-21
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1021/acscatal.4c02813")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399916760"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399916760"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399916760"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399916760 (Open access: True)
+    
+[[https://openalex.org/A5028323119][Daniyal Kiani]], [[https://openalex.org/A5066491588][Israel E. Wachs]], ACS catalysis. None(None)] 2024. https://doi.org/10.1021/acscatal.4c02813  ([[https://pubs.acs.org/doi/pdf/10.1021/acscatal.4c02813][pdf]])
+     
+No abstract    
 
     
