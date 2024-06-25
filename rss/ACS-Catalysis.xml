@@ -4,7 +4,7 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/ACS-Catalysis.xml</link>
     <description>Articles from ACS Catalysis</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Jun 2024 01:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 01:08:38 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
     <item>
@@ -168,16 +168,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02696</guid>
     </item>
     <item>
-      <title>Palladium-Catalyzed Allylic Alkylation Reactions of Nucleophilic Allenones: Asymmetric Allylic Alkylation, &lt;i&gt;Z/E&lt;/i&gt; Divergent Allylic Alkylation, and [5 + 2] Annulation</title>
-      <link>https://doi.org/10.1021/acscatal.4c01460</link>
-      <description>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812307
-
-                Metal-catalyzed allenylic substitution reactions where allenes serve as electrophilic precursors have been recognized as a rapid way for novel allene construction. On the contrary, the chemistry in which allenes act as nucleophiles has been far less investigated, especially in a powerful platform such as metal-catalyzed allylic alkylation reactions. We herein describe two unprecedented palladium-catalyzed allylic alkylation reactions of an allene nucleophile. In the first reaction, using vinyloxazolidinones as the allyl precursor, the palladium-catalyzed asymmetric allylation of trisubstituted allenones worked well to prepare an array of axially chiral tetrasubstituted allenes. Mechanistic studies and density functional theory (DFT) calculations indicated that weak hydrogen-bonding interaction between the acidic C(sp2)&#8211;H of allenone and the nitrogen anion of chiral &#960;-azaallyl-Pd species is key to the success of stereocontrol. This reaction revealed the intriguing reactivity of nucleophilic allenones in a metal-catalyzed asymmetric allylation reaction for the first time. In the second reaction, with the use of allenylethylene carbonates as &#960;-oxyallyl-Pd precursors, the palladium-catalyzed allylic alkylation reaction of allenone presented unique reactivity under different reaction conditions to provide divergent synthetic access to (E)- and (Z)-allenyl diene products. Interestingly, the subsequent sequential intramolecular cyclization/isomerization reaction of the (Z)-product delivered dihydrooxepine derivatives as [5 + 2] annulation products.</description>
-      <author>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi</author>
-      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01460</guid>
-    </item>
-    <item>
       <title>Fast Photocatalytic Hydrogen Peroxide Generation by Singlet Oxygen-Engaged Sequential Excitation Energy and Electron-Transfer Process</title>
       <link>https://doi.org/10.1021/acscatal.4c01591</link>
       <description>Xiangkang Zeng, Tianyi Wang, Zhuyuan Wang, Mike Tebyetekerwa, Yue Liu, Zhuoyue Liu, Gen Wang, Ary Anggara Wibowo, Gregory K. Pierens, Qinfen Gu, Xiwang Zhang, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812367
@@ -328,16 +318,6 @@
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02493</guid>
     </item>
     <item>
-      <title>Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized &#960; Electron Clouds for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
-      <link>https://doi.org/10.1021/acscatal.4c01636</link>
-      <description>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399891463
-
-                Precisely engineering point defects holds promise for the development of state-of-the-art photocatalysts for CO2 conversion. This study demonstrates the controllable creation of nitrogen vacancies (VNs) in the centers of heptazine rings of graphitic carbon nitrides (g-C3N4) via a photochemical-assisted nitrogen etching strategy. Spectroscopic analyses and theoretical simulations elucidate the photochemical process to hydrogenate the nitrogen situated at the center of the g-C3N4 heptazine ring and then release an ammonia molecule, accompanied by the photooxidation of the sacrificial agents. The catalyst with an optimal VNs concentration achieves a CO generation rate of 35.2 &#956;mol g&#8211;1 h&#8211;1 with nearly 100% selectivity, comparable to the performance of the reported g-C3N4 materials. The remarkably improved photoactivity is due to the adjustments of the electronic structures and the midgap states of g-C3N4 by the delocalized &#960; electron cloud created in the 12-membered ring surrounding the VN, which maximizes the light-harvesting efficiencies and suppresses the recombination of photogenerated electrons and holes. The VNs also activates the neighboring catalytic carbon centers to reduce the energy barrier for CO2 reduction. This work provides a good design concept to regulate catalytic activity by engineering point defects.</description>
-      <author>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu</author>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01636</guid>
-    </item>
-    <item>
       <title>Efficient H&lt;sub&gt;2&lt;/sub&gt; Production from Biomass-Based HCO&lt;sub&gt;2&lt;/sub&gt;H by Cooperation of Quantum Dots Photocatalysts with Weak HCHO Adsorption and In Situ Generated Ni&lt;sup&gt;0&lt;/sup&gt;</title>
       <link>https://doi.org/10.1021/acscatal.4c01708</link>
       <description>Wenxin Niu, Wanghui Zhao, Kaiwen Feng, Fu-Jia Tang, Tao Wang, Kaixuan Wang, Shaohua Shen, Yang Li, ACS catalysis. None(None)] 2024. https://openalex.org/W4399896204
@@ -426,6 +406,26 @@
       <author>Daniyal Kiani, Israel E. Wachs</author>
       <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c02813</guid>
+    </item>
+    <item>
+      <title>Palladium-Catalyzed Allylic Alkylation Reactions of Nucleophilic Allenones: Asymmetric Allylic Alkylation, &lt;i&gt;Z/E&lt;/i&gt; Divergent Allylic Alkylation, and [5 + 2] Annulation</title>
+      <link>https://doi.org/10.1021/acscatal.4c01460</link>
+      <description>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi, ACS catalysis. None(None)] 2024. https://openalex.org/W4399812307
+
+                Metal-catalyzed allenylic substitution reactions where allenes serve as electrophilic precursors have been recognized as a rapid way for novel allene construction. On the contrary, the chemistry in which allenes act as nucleophiles has been far less investigated, especially in a powerful platform such as metal-catalyzed allylic alkylation reactions. We herein describe two unprecedented palladium-catalyzed allylic alkylation reactions of an allene nucleophile. In the first reaction, using vinyloxazolidinones as the allyl precursor, the palladium-catalyzed asymmetric allylation of trisubstituted allenones worked well to prepare an array of axially chiral tetrasubstituted allenes. Mechanistic studies and density functional theory (DFT) calculations indicated that weak hydrogen-bonding interaction between the acidic C(sp2)&#8211;H of allenone and the nitrogen anion of chiral &#960;-azaallyl-Pd species is key to the success of stereocontrol. This reaction revealed the intriguing reactivity of nucleophilic allenones in a metal-catalyzed asymmetric allylation reaction for the first time. In the second reaction, with the use of allenylethylene carbonates as &#960;-oxyallyl-Pd precursors, the palladium-catalyzed allylic alkylation reaction of allenone presented unique reactivity under different reaction conditions to provide divergent synthetic access to (E)- and (Z)-allenyl diene products. Interestingly, the subsequent sequential intramolecular cyclization/isomerization reaction of the (Z)-product delivered dihydrooxepine derivatives as [5 + 2] annulation products.</description>
+      <author>Wang Wang, Yimin Hu, Kuan Li, Jiajia Xu, Cheng Zhang, Leijie Zhou, Lihan Zhu, Wangyu Shi</author>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01460</guid>
+    </item>
+    <item>
+      <title>Photochemical Tuning of Tricoordinated Nitrogen Deficiency in Carbon Nitride to Create Delocalized &#960; Electron Clouds for Efficient CO&lt;sub&gt;2&lt;/sub&gt; Photoreduction</title>
+      <link>https://doi.org/10.1021/acscatal.4c01636</link>
+      <description>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu, ACS catalysis. None(None)] 2024. https://openalex.org/W4399891463
+
+                Precisely engineering point defects holds promise for the development of state-of-the-art photocatalysts for CO2 conversion. This study demonstrates the controllable creation of nitrogen vacancies (VNs) in the centers of heptazine rings of graphitic carbon nitrides (g-C3N4) via a photochemical-assisted nitrogen etching strategy. Spectroscopic analyses and theoretical simulations elucidate the photochemical process to hydrogenate the nitrogen situated at the center of the g-C3N4 heptazine ring and then release an ammonia molecule, accompanied by the photooxidation of the sacrificial agents. The catalyst with an optimal VNs concentration achieves a CO generation rate of 35.2 &#956;mol g&#8211;1 h&#8211;1 with nearly 100% selectivity, comparable to the performance of the reported g-C3N4 materials. The remarkably improved photoactivity is due to the adjustments of the electronic structures and the midgap states of g-C3N4 by the delocalized &#960; electron cloud created in the 12-membered ring surrounding the VN, which maximizes the light-harvesting efficiencies and suppresses the recombination of photogenerated electrons and holes. The VNs also activates the neighboring catalytic carbon centers to reduce the energy barrier for CO2 reduction. This work provides a good design concept to regulate catalytic activity by engineering point defects.</description>
+      <author>Lei Li, Huanhuan Lu, Cungui Cheng, Xinyan Dai, Fang Chen, Jiqiang Ning, Wentao Wang, Yong Hu</author>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1021/acscatal.4c01636</guid>
     </item>
   </channel>
 </rss>

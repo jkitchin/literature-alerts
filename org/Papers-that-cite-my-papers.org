@@ -1,8 +1,8 @@
 #+TITLE: Papers that cite my papers
 Description: Citations to my papers
-Created on Mon Jun 24 01:10:24 2024
+Created on Tue Jun 25 01:08:47 2024
 
-Found 54 results from 2024-06-17 to 2024-06-24
+Found 52 results from 2024-06-18 to 2024-06-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2167035995%7Chttps%3A//openalex.org/W2022714449%7Chttps%3A//openalex.org/W2133406747%7Chttps%3A//openalex.org/W2601081289%7Chttps%3A//openalex.org/W1989389325%7Chttps%3A//openalex.org/W2069988560%7Chttps%3A//openalex.org/W2060064889%7Chttps%3A//openalex.org/W1999912925%7Chttps%3A//openalex.org/W2797402103%7Chttps%3A//openalex.org/W1971294721%7Chttps%3A//openalex.org/W2084834275%7Chttps%3A//openalex.org/W2307947977%7Chttps%3A//openalex.org/W2954057334%7Chttps%3A//openalex.org/W1987036699%7Chttps%3A//openalex.org/W2034249671%7Chttps%3A//openalex.org/W2784356185%7Chttps%3A//openalex.org/W2324647124%7Chttps%3A//openalex.org/W2333048302%7Chttps%3A//openalex.org/W2010104613%7Chttps%3A//openalex.org/W2330420711]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W2477507435%7Chttps%3A//openalex.org/W2291925970%7Chttps%3A//openalex.org/W2112767720%7Chttps%3A//openalex.org/W2008361594%7Chttps%3A//openalex.org/W2050461974%7Chttps%3A//openalex.org/W2322629080%7Chttps%3A//openalex.org/W2461328805%7Chttps%3A//openalex.org/W902952202%7Chttps%3A//openalex.org/W1985477584%7Chttps%3A//openalex.org/W2584994763%7Chttps%3A//openalex.org/W2759635967%7Chttps%3A//openalex.org/W3010395573%7Chttps%3A//openalex.org/W3168269570%7Chttps%3A//openalex.org/W4283809948%7Chttps%3A//openalex.org/W4296545211%7Chttps%3A//openalex.org/W2040082802%7Chttps%3A//openalex.org/W2037319405%7Chttps%3A//openalex.org/W2073944544%7Chttps%3A//openalex.org/W2005633502%7Chttps%3A//openalex.org/W2582607092]]
@@ -13,48 +13,6 @@ OpenAlex URLS (not including from_created_date or the API key)
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4382651985%7Chttps%3A//openalex.org/W4386602600%7Chttps%3A//openalex.org/W4386694215%7Chttps%3A//openalex.org/W4388444792%7Chttps%3A//openalex.org/W4388537947%7Chttps%3A//openalex.org/W4389040448%7Chttps%3A//openalex.org/W4389340622%7Chttps%3A//openalex.org/W4393572051%7Chttps%3A//openalex.org/W4393743107%7Chttps%3A//openalex.org/W4394406137%7Chttps%3A//openalex.org/W4200512871%7Chttps%3A//openalex.org/W2490924609%7Chttps%3A//openalex.org/W3040748958%7Chttps%3A//openalex.org/W4394521036%7Chttps%3A//openalex.org/W2258702664%7Chttps%3A//openalex.org/W2284265603%7Chttps%3A//openalex.org/W2526245028%7Chttps%3A//openalex.org/W2908875959%7Chttps%3A//openalex.org/W2909439080%7Chttps%3A//openalex.org/W2910395843]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4394266427%7Chttps%3A//openalex.org/W4394440837%7Chttps%3A//openalex.org/W1661299042%7Chttps%3A//openalex.org/W2050074768%7Chttps%3A//openalex.org/W2287679227%7Chttps%3A//openalex.org/W2579856121%7Chttps%3A//openalex.org/W2593159564%7Chttps%3A//openalex.org/W2616197370%7Chttps%3A//openalex.org/W2736400892%7Chttps%3A//openalex.org/W2737400761%7Chttps%3A//openalex.org/W4242085932%7Chttps%3A//openalex.org/W4394074877%7Chttps%3A//openalex.org/W4394281422%7Chttps%3A//openalex.org/W4394383699%7Chttps%3A//openalex.org/W2005197721%7Chttps%3A//openalex.org/W2514424001%7Chttps%3A//openalex.org/W338058020%7Chttps%3A//openalex.org/W4237590291%7Chttps%3A//openalex.org/W4281680351%7Chttps%3A//openalex.org/W4283023483]]
 - [[https://api.openalex.org/works?filter=cites%3Ahttps%3A//openalex.org/W4285900276%7Chttps%3A//openalex.org/W4394384117%7Chttps%3A//openalex.org/W4394531894%7Chttps%3A//openalex.org/W2795250219%7Chttps%3A//openalex.org/W3080131370%7Chttps%3A//openalex.org/W4244843289%7Chttps%3A//openalex.org/W4246990943%7Chttps%3A//openalex.org/W4247545658%7Chttps%3A//openalex.org/W4253478322%7Chttps%3A//openalex.org/W1931953664%7Chttps%3A//openalex.org/W4205946618%7Chttps%3A//openalex.org/W4239600023%7Chttps%3A//openalex.org/W4393659833%7Chttps%3A//openalex.org/W4393699121]]
-
-* Rapid photothermal reduction-derived Pt1.6Ni nanoalloys embedded in laser-induced graphene for hydrogen evolution reaction  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399712029
-:TOPICS: Electrocatalysis for Energy Conversion, Photocatalytic Materials for Solar Energy Conversion, Catalytic Nanomaterials
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.ijhydene.2024.06.063")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399712029"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399712029"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399712029"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399712029 (Open access: False)
-    
-[[https://openalex.org/A5035663775][Seung Geun Jo]], [[https://openalex.org/A5018971064][Yoo-Kyum Shin]], [[https://openalex.org/A5003698127][Min‐Ho Seo]], [[https://openalex.org/A5024595365][Jung Woo Lee]], International journal of hydrogen energy. 77(None)] 2024. https://doi.org/10.1016/j.ijhydene.2024.06.063 
-     
-No abstract    
-
-    
-
-* Structure evolution of Cu3Pd single-particles under CO2 hydrogenation  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399715717
-:TOPICS: Catalytic Nanomaterials, Ice Nucleation and Melting Phenomena, Formation and Properties of Nanocrystals and Nanostructures
-:PUBLICATION_DATE: 2024-08-01
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1016/j.cej.2024.153208")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399715717"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399715717"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399715717"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399715717 (Open access: False)
-    
-[[https://openalex.org/A5062894154][Changcheng Xu]], [[https://openalex.org/A5002143245][Shaobo Han]], [[https://openalex.org/A5070736386][Qiao Zhao]], [[https://openalex.org/A5023892017][Shuang Liu]], [[https://openalex.org/A5013434268][Wei Liu]], [[https://openalex.org/A5023247377][Yong Li]], [[https://openalex.org/A5019146446][Wenjie Shen]], Chemical engineering journal. 494(None)] 2024. https://doi.org/10.1016/j.cej.2024.153208 
-     
-No abstract    
-
-    
 
 * Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions  :Papers_that_cite_my_papers:
 :PROPERTIES:
@@ -136,7 +94,7 @@ OpenAlex: https://openalex.org/W4399730927 (Open access: False)
     
 [[https://openalex.org/A5045486276][Yaru Lei]], [[https://openalex.org/A5055217976][Yue Niu]], [[https://openalex.org/A5011290823][Xiaolong Tang]], [[https://openalex.org/A5001457573][Xiangtao Yu]], [[https://openalex.org/A5030123581][Xiubing Huang]], [[https://openalex.org/A5039658158][Xiaoxi Lin]], [[https://openalex.org/A5083424574][Honghong Yi]], [[https://openalex.org/A5034850431][Shunzheng Zhao]], [[https://openalex.org/A5067934887][Jingjing Jiang]], [[https://openalex.org/A5024689471][Jiyue Zhang]], [[https://openalex.org/A5050402661][Feifei Gao]], Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://doi.org/10.1016/j.jechem.2024.06.008 
      
-No abstract    
+Electrocatalytic CO2 reduction reaction (CO2RR) technology, which enables carbon capture storage and resource utilization by reducing CO2 to valuable chemicals or fuels, has become a global research hotspot in recent decades. Among the many products of CO2RR (carbon monoxide, acids, aldehydes and alcohols, olefins, etc.), alcohols (methanol, ethanol, propanol, etc.) have a higher market value and energy density, but it is also more difficult to produce. Copper is known to be effective in catalyzing CO2 to high value-added alcohols, but with poor selectivity. The progress of Cu-based catalysts for the selective generation of alcohols, including copper oxides, bimetals, single atoms and composites is reviewed. Meanwhile, to improve Cu-based catalyst activity and modulate product selectivity, the modulation strategies are straighten out, including morphological regulation, crystalline surface, oxidation state, as well as elemental doping and defect engineering. Based on the research progress of electrocatalytic CO2 reduction for alcohol production on Cu-based materials, the reaction pathways and the key intermediates of the electrocatalytic CO2RR to methanol, ethanol and propanol are summarized. Finally, the problems of traditional electrocatalytic CO2RR are introduced, and the future applications of machine learning and theoretical calculations are prospected. An in-depth discussion and a comprehensive review of the reaction mechanism, catalyst types and regulation strategies were carried out with a view to promoting the development of electrocatalytic CO2RR to alcohols.    
 
     
 
@@ -623,27 +581,6 @@ Abstract A machine‐learning‐assisted approach is employed to search for supe
 
     
 
-* Microenvironment regulation breaks the Faradaic efficiency-current density trade-off for electrocatalytic deuteration using D2O  :Papers_that_cite_my_papers:
-:PROPERTIES:
-:UUID: https://openalex.org/W4399814416
-:TOPICS: Ammonia Synthesis and Electrocatalysis, Deuterium Incorporation in Pharmaceutical Research, Homogeneous Catalysis with Transition Metals
-:PUBLICATION_DATE: 2024-06-19
-:END:    
-    
-[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-49544-y")][Get bibtex entry]] 
-
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399814416"))][Get references]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399814416"))][Get related work]]
-- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399814416"))][Get cited by]]
-
-OpenAlex: https://openalex.org/W4399814416 (Open access: True)
-    
-[[https://openalex.org/A5083060814][Meng He]], [[https://openalex.org/A5081675173][Rui Li]], [[https://openalex.org/A5069312764][Chuanqi Cheng]], [[https://openalex.org/A5034535602][Cuibo Liu]], [[https://openalex.org/A5033408053][Bin Zhang]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-49544-y  ([[https://www.nature.com/articles/s41467-024-49544-y.pdf][pdf]])
-     
-Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at −100 mA cm −2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at −100 mA cm −2 rationalizes the design concept.    
-
-    
-
 * Ab Initio Studies of Electrocatalytic CO2 Reduction for Small Cu Cluster Supported on Polar Substrates  :Papers_that_cite_my_papers:
 :PROPERTIES:
 :UUID: https://openalex.org/W4399847413
@@ -724,7 +661,7 @@ OpenAlex: https://openalex.org/W4399855134 (Open access: False)
     
 [[https://openalex.org/A5066645403][Susanta Bera]], Chem catalysis. 4(6)] 2024. https://doi.org/10.1016/j.checat.2024.101035 
      
-No abstract    
+In this issue of Chem Catalysis, Zhu, Luo, and coworkers report Ce-doped RuO2 (Ce-RuO2-x) in which a synergistic effect between the Ce-O-Ru local structure and existing oxygen vacancies can allow the boosting of the acidic water oxidation activity and stability through an adsorption evolution mechanism. In this issue of Chem Catalysis, Zhu, Luo, and coworkers report Ce-doped RuO2 (Ce-RuO2-x) in which a synergistic effect between the Ce-O-Ru local structure and existing oxygen vacancies can allow the boosting of the acidic water oxidation activity and stability through an adsorption evolution mechanism. Manipulating reaction pathway of ruthenium oxide with enhanced performance and stability toward acidic water oxidationWu et al.Chem CatalysisMay 20, 2024In BriefA Ce-doped RuO2 catalyst with the existence of oxygen vacancies is developed toward highly efficient and stable oxygen evolution electrocatalysis under acidic media. The Ce-O-Ru local environment and oxygen vacancies can not only contribute to stabilizing the OOH∗ intermediate and lead to manipulating the reaction pathway from LOM to AEM but also suppress surface Ru demetallation and lattice oxygen loss. Full-Text PDF    
 
     
 
@@ -1103,6 +1040,27 @@ OpenAlex: https://openalex.org/W4399924670 (Open access: True)
 [[https://openalex.org/A5011950896][Soraya Learte‐Aymamí]], [[https://openalex.org/A5076506465][Laura Martínez-Castro]], [[https://openalex.org/A5000659347][Cristian González-González]], [[https://openalex.org/A5068759118][Miriam Condeminas]], [[https://openalex.org/A5086243338][Pau Martín-Malpartida]], [[https://openalex.org/A5038145200][María Tomás‐Gamasa]], [[https://openalex.org/A5074597218][Sandra Baúlde]], [[https://openalex.org/A5069362675][José R. Couceiro]], [[https://openalex.org/A5076914476][Jean‐Didier Maréchal]], [[https://openalex.org/A5002830581][María José Carrasco Macías]], [[https://openalex.org/A5061612775][José L. Mascareñas]], [[https://openalex.org/A5044760397][M. Eugenio Vázquez]], JACS Au. None(None)] 2024. https://doi.org/10.1021/jacsau.4c00379  ([[https://pubs.acs.org/doi/pdf/10.1021/jacsau.4c00379][pdf]])
      
 The development of transition metal-based catalytic platforms that promote bioorthogonal reactions inside living cells remains a major challenge in chemical biology. This is particularly true for palladium-based catalysts, which are very powerful in organic synthesis but perform poorly in the cellular environment, mainly due to their rapid deactivation. We now demonstrate that grafting Pd(II) complexes into engineered β-sheets of a model WW domain results in cell-compatible palladominiproteins that effectively catalyze depropargylation reactions inside HeLa cells. The concave shape of the WW domain β-sheet proved particularly suitable for accommodating the metal center and protecting it from rapid deactivation in the cellular environment. A thorough NMR and computational study confirmed the formation of the metal-stapled peptides and allowed us to propose a three-dimensional structure for this novel metalloprotein motif.    
+
+    
+
+* Microenvironment regulation breaks the Faradaic efficiency-current density trade-off for electrocatalytic deuteration using D2O  :Papers_that_cite_my_papers:
+:PROPERTIES:
+:UUID: https://openalex.org/W4399814416
+:TOPICS: Ammonia Synthesis and Electrocatalysis, Deuterium Incorporation in Pharmaceutical Research, Homogeneous Catalysis with Transition Metals
+:PUBLICATION_DATE: 2024-06-19
+:END:    
+    
+[[elisp:(doi-add-bibtex-entry "https://doi.org/10.1038/s41467-024-49544-y")][Get bibtex entry]] 
+
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--referenced-works "https://openalex.org/W4399814416"))][Get references]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--related-works "https://openalex.org/W4399814416"))][Get related work]]
+- [[elisp:(progn (xref--push-markers (current-buffer) (point)) (oa--cited-by-works "https://openalex.org/W4399814416"))][Get cited by]]
+
+OpenAlex: https://openalex.org/W4399814416 (Open access: True)
+    
+[[https://openalex.org/A5083060814][Meng He]], [[https://openalex.org/A5081675173][Rui Li]], [[https://openalex.org/A5069312764][Chuanqi Cheng]], [[https://openalex.org/A5034535602][Cuibo Liu]], [[https://openalex.org/A5033408053][Bin Zhang]], Nature communications. 15(1)] 2024. https://doi.org/10.1038/s41467-024-49544-y  ([[https://www.nature.com/articles/s41467-024-49544-y.pdf][pdf]])
+     
+Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at −100 mA cm −2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at −100 mA cm −2 rationalizes the design concept.    
 
     
 

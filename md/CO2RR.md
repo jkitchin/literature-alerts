@@ -1,8 +1,8 @@
 # CO2RR
 Description: Electrochemical reduction of carbon dioxide
-Created on Mon Jun 24 01:10:10 2024
+Created on Tue Jun 25 01:08:36 2024
 
-Found 144 results from 2024-06-17 to 2024-06-24
+Found 164 results from 2024-06-18 to 2024-06-25
 OpenAlex URLS (not including from_created_date or the API key)
 - [https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552](https://api.openalex.org/works?filter=concepts.id%3Ahttps%3A//openalex.org/C24596552)
 - [https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29](https://api.openalex.org/works?filter=title-and-abstract.search%3A%28%28carbon%20dioxide%20reduction%29%20OR%20%28co2%20reduction%29%29%20NOT%20%28photocatalysis%20OR%20photocatalytic%29)
@@ -183,23 +183,34 @@ The technology of carbon dioxide reduction has become a focus of research in the
 
     
 
+## The Reduction of CO2 With the Help of Vegetation to Improve the Air Quality of Workrooms   
+
+OpenAlex: https://openalex.org/W4399775169    
+Open access: True
+    
+[Ana Paula Magalhães Jeffe](https://openalex.org/A5099179864), [Beatriz Costa Bergler](https://openalex.org/A5099179865), [Bruna De Carli Borba](https://openalex.org/A5099179866), [Fernanda Werlich dos Passos](https://openalex.org/A5029726550), [Carlos Eduardo Verzola Vaz](https://openalex.org/A5023937152), Blucher Design Proceedings. None(None)] 2024.https://doi.org/10.5151/sigradi2023-331 ([pdf](https://pdf.blucher.com.br/designproceedings/sigradi2023/331.pdf)).
+    
+This article presents a study that addresses the importance of indoor air quality.The research aimed to understand how the use of specific plants can enhance air quality in work environments.The methodology involves a prototype with two sensors to measure CO2 concentration in a space without natural and mechanical ventilation, considering the use of plants for air purification.The results demonstrate the variation in CO2 levels with and without the presence of plants and occupants.While a reduction in CO2 levels was observed with the use of plants, under high occupancy, the vegetation wasn't sufficient to maintain recommended levels.The conclusion emphasizes the need for sensor calibration, as well as the proportional relationship between CO2 accumulation in the environment and the quantity of plants required to uphold air quality.    
+
+    
+
+## The temperature dependence of electrochemical CO2 reduction on Ag and CuAg alloys   
+
+OpenAlex: https://openalex.org/W4399787113    
+Open access: True
+    
+[Rafaël E. Vos](https://openalex.org/A5088127644), [Jeroen P. Smaak](https://openalex.org/A5099184142), [Marc T. M. Koper](https://openalex.org/A5028485156), Journal of catalysis. 436(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115613.
+    
+Ag is often studied as catalyst for electrochemical CO2 reduction as it shows high selectivity towards CO and is easily alloyed with Cu to enhance performance using CuAg catalysts. In this study, we investigated the effect of temperature on Ag and CuAg catalysts and compare these with previous results on Au and Cu catalysts. We show that the temperature effect is complicated as it shows an interplay with CO2 concentration, potential and mass transport. It is therefore crucial to deconvolute these parameters and study the effect of temperature under different conditions. Moreover, we show that alloying Ag with Cu can inhibit some of the deactivation effects observed at high temperatures on pure Cu. CuAg alloys can prevent the dominance of hydrogen evolution at elevated temperatures, although an optimum of C2+ products with temperature is still observed.    
+
+    
+
 ## Fingering Inhibition Triggered by Co2 Dissolution and Viscosity Reduction in Water-Alternating-Co2 Injection   
 
 OpenAlex: https://openalex.org/W4399723638    
 Open access: False
     
 [Long He](https://openalex.org/A5049021201), [Fengyu Zhao](https://openalex.org/A5091831787), [Wei He](https://openalex.org/A5083111185), [Shengxiang Ren](https://openalex.org/A5016049048), [Rui Lou](https://openalex.org/A5016436182), [Bin Song](https://openalex.org/A5077957037), No host. None(None)] 2024.https://doi.org/10.2139/ssrn.4867936.
-    
-No abstract    
-
-    
-
-## Electrodeposition of CuxBi1-x-MOF for electrochemical reduction of CO2   
-
-OpenAlex: https://openalex.org/W4399712329    
-Open access: False
-    
-[Xinlei Cheng](https://openalex.org/A5054852894), [Min Wu](https://openalex.org/A5082899866), [Yan Xu](https://openalex.org/A5021488560), [Shiying Wang](https://openalex.org/A5074811994), [Dan Wang](https://openalex.org/A5054045121), [Wenchang Wang](https://openalex.org/A5034220138), [Naotoshi Mitsuzaki](https://openalex.org/A5014014810), [Zhidong Chen](https://openalex.org/A5089061216), Journal of solid state chemistry. None(None)] 2024.https://doi.org/10.1016/j.jssc.2024.124804.
     
 No abstract    
 
@@ -213,28 +224,6 @@ Open access: False
 [Rosalynn Nankya](https://openalex.org/A5029609061), [Yuting Xu](https://openalex.org/A5079572594), [Ahmad Elgazzar](https://openalex.org/A5096494000), [Peng Zhu](https://openalex.org/A5025853223), [Tae‐Ung Wi](https://openalex.org/A5081089785), [Chao Qiu](https://openalex.org/A5007510770), [Yuge Feng](https://openalex.org/A5018640985), [Fanglin Che](https://openalex.org/A5072657571), [Haotian Wang](https://openalex.org/A5041663670), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202403671.
     
 Electrochemical carbon dioxide (CO2) reduction reaction (CO2RR) to valuable liquid fuels, such as formic acid/formate (HCOOH/HCOO−) is a promising strategy for carbon neutrality. Enhancing CO­2RR activity while retaining high selectivity is critical for commercialization. To address this, we developed metal‐doped bismuth (Bi) nanosheets via a facile hydrolysis method. These doped nanosheets efficiently generated high‐purity HCOOH using a porous solid electrolyte (PSE) layer. Among the evaluated metal‐doped Bi catalysts, Co‐doped Bi demonstrated improved CO2RR performance compared to pristine Bi, achieving ~90% HCOO− selectivity and boosted activity with a low overpotential of ~1.0 V at a current density of 200 mA cm‐2. In a solid electrolyte reactor, Co‐doped Bi maintained HCOOH Faradaic efficiency of ~72% after a 100‐hour operation under a current density of 100 mA cm‐2, generating 0.1 M HCOOH at 3.2 V. Density functional theory (DFT) results revealed that Co‐doped Bi required a lower applied potential for HCOOH generation from CO2, due to stronger binding energy to the key intermediates OCHO* compared to pure Bi. This study shows that metal doping in Bi nanosheets modifies the chemical composition, element distribution, and morphology, improving CO2RR catalytic activity performance by tuning surface adsorption affinity and reactivity.    
-
-    
-
-## The temperature dependence of electrochemical CO2 reduction on Ag and CuAg alloys   
-
-OpenAlex: https://openalex.org/W4399787113    
-Open access: True
-    
-[Rafaël E. Vos](https://openalex.org/A5088127644), [Jeroen P. Smaak](https://openalex.org/A5099184142), [Marc T. M. Koper](https://openalex.org/A5028485156), Journal of catalysis. None(None)] 2024.https://doi.org/10.1016/j.jcat.2024.115613.
-    
-No abstract    
-
-    
-
-## The Reduction of CO2 With the Help of Vegetation to Improve the Air Quality of Workrooms   
-
-OpenAlex: https://openalex.org/W4399775169    
-Open access: False
-    
-[Ana Paula Magalhães Jeffe](https://openalex.org/A5099179864), [Beatriz Costa Bergler](https://openalex.org/A5099179865), [Bruna De Carli Borba](https://openalex.org/A5099179866), [Fernanda Werlich dos Passos](https://openalex.org/A5029726550), [Carlos Eduardo Verzola Vaz](https://openalex.org/A5023937152), Blucher Design Proceedings. None(None)] 2024.https://doi.org/10.5151/sigradi2023-331.
-    
-No abstract    
 
     
 
@@ -282,6 +271,17 @@ Establishing a suitable electrode microenvironment is important to achieving hig
 
     
 
+## Mesh GDEs: An alternative to carbon-based electrodes for CO2 reduction at higher current densities   
+
+OpenAlex: https://openalex.org/W4399765290    
+Open access: False
+    
+[Alisson H. M. da Silva](https://openalex.org/A5041262813), [Stefan J. Raaijman](https://openalex.org/A5015974347), [Paul J. Corbett](https://openalex.org/A5017184507), Chemical engineering journal. 494(None)] 2024.https://doi.org/10.1016/j.cej.2024.153266.
+    
+Scaling up the electrolysis of CO2 to multi-carbon products remains a challenge due to the instability of conventional carbon-based gas diffusion materials at higher current densities. In this study, we investigate the use of a CuMesh-Polytetrafluoroethylene (PTFE) sandwich electrode, which is both scalable and can conduct large amounts of current on account of its metallic structure. Although we showcase CO2RR activity up to –500 mA cm−2, the trends we observe indicate this value can be pushed beyond –1 A cm−2. We find that we can achieve a higher ethylene (C2H4) partial current density by increasing mesh sizes (i.e., smaller pores). Furthermore, 100 h durability tests revealed that both morphological changes and reaction-driven electrolyte contamination are critical for steady C2H4 performance even if flooding is mitigated. Thus, substantial room for optimization exists for future works. To conclude, the mesh based GDE we propose herein opens up possibilities for achieving robust industrial-scale CO2 and CO reduction.    
+
+    
+
 ## Lightweight Solutions for CO2 Reduction — Optimized Combination of Material, Surface and Technology   
 
 OpenAlex: https://openalex.org/W4399734438    
@@ -312,17 +312,6 @@ Open access: True
 [Shixiang Zuo](https://openalex.org/A5065369315), [Shan Qin](https://openalex.org/A5017042522), [Bing Xue](https://openalex.org/A5032398551), [Rong Xu](https://openalex.org/A5028662394), [Huiting Shi](https://openalex.org/A5009170623), [Xiaowang Lu](https://openalex.org/A5066393885), [Chao Yao](https://openalex.org/A5044150538), [Haoguan Gui](https://openalex.org/A5053829687), [Xiazhang Li](https://openalex.org/A5072938656), Molecules/Molecules online/Molecules annual. 29(12)] 2024.https://doi.org/10.3390/molecules29122865 ([pdf](https://www.mdpi.com/1420-3049/29/12/2865/pdf?version=1718529566)).
     
 The rapid development of the battery industry has brought about a large amount of waste battery pollution. How to realize the high-value utilization of waste batteries is an urgent problem to be solved. Herein, cobalt and titanium compounds (LTCO) were firstly recovered from spent lithium-ion batteries (LIBs) using the carbon thermal reduction approach, and plasmonic attapulgite/Co(Ti)Ox (H-ATP/Co(Ti)Ox) nanocomposites were prepared by the microwave hydrothermal technique. H-ATP had a large specific surface area and enough active sites to capture CO2 molecules. The biochar not only reduced the spinel phase of waste LIBs into metal oxides including Co3O4 and TiO2 but also increased the separation and transmission of the carriers, thereby accelerating the adsorption and reduction of CO2. In addition, H-ATP/Co(Ti)Ox exhibited a localized surface plasmon resonance effect (LSPR) in the visible to near-infrared region and released high-energy hot electrons, enhancing the surface temperature of the catalyst and further improving the catalytic reduction of CO2 with a high CO yield of 14.7 μmol·g−1·h−1. The current work demonstrates the potential for CO2 reduction by taking advantage of natural mineral and spent batteries.    
-
-    
-
-## Mesh GDEs: An alternative to carbon-based electrodes for CO2 reduction at higher current densities   
-
-OpenAlex: https://openalex.org/W4399765290    
-Open access: False
-    
-[Alisson H. M. da Silva](https://openalex.org/A5041262813), [Stefan J. Raaijman](https://openalex.org/A5015974347), [Paul J. Corbett](https://openalex.org/A5017184507), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.153266.
-    
-No abstract    
 
     
 
@@ -370,6 +359,17 @@ The increase in greenhouse gas emissions and the subsequent global warming effec
 
     
 
+## Heterogeneous technology-induced global CO2 emission reduction and emission forecasting since the Kyoto era   
+
+OpenAlex: https://openalex.org/W4399926140    
+Open access: False
+    
+[Chong Xu](https://openalex.org/A5040166379), [Zengqiang Qin](https://openalex.org/A5084475129), [Jiandong Chen](https://openalex.org/A5050418753), [Jiangxue Zhang](https://openalex.org/A5072888795), Applied energy. 371(None)] 2024.https://doi.org/10.1016/j.apenergy.2024.123678.
+    
+No abstract    
+
+    
+
 ## Quantitative Analysis and Manipulation of Alkali Metal Cations at the Cathode Surface in Membrane Electrode Assembly Electrolyzers for CO2 Reduction Reactions   
 
 OpenAlex: https://openalex.org/W4399862340    
@@ -392,17 +392,6 @@ No abstract
 
     
 
-## Mechanistic insight into electrochemical CO2 reduction on Mo single-atom catalyst and its hydrate: A computational study   
-
-OpenAlex: https://openalex.org/W4399713150    
-Open access: False
-    
-[Chunying Chen](https://openalex.org/A5073108451), [Hsin‐Tsung Chen](https://openalex.org/A5012707510), Molecular catalysis. 564(None)] 2024.https://doi.org/10.1016/j.mcat.2024.114315.
-    
-No abstract    
-
-    
-
 ## A Robust Fe-Based Heterogeneous Photocatalyst for the Visible-Light-Mediated Selective Reduction of impure CO2 Stream   
 
 OpenAlex: https://openalex.org/W4399834872    
@@ -411,6 +400,28 @@ Open access: True
 [Topi Ghosh](https://openalex.org/A5020617947), [Peng Ren](https://openalex.org/A5014752324), [Philippe Franck](https://openalex.org/A5042192541), [Mengqi Tang](https://openalex.org/A5056892907), [Aleksander Jaworski](https://openalex.org/A5073710520), [Giovanni Barcaro](https://openalex.org/A5057370083), [Susanna Monti](https://openalex.org/A5067355470), [Lata Chouhan](https://openalex.org/A5033460795), [Jabor Rabeah](https://openalex.org/A5028596546), [Alina A. Skorynina](https://openalex.org/A5038742958), [Joaquín Silvestre-Albero](https://openalex.org/A5069318022), [Laura Simonelli](https://openalex.org/A5018172983), [Anna Rokicińska](https://openalex.org/A5078185062), [Elke Debroye](https://openalex.org/A5066461826), [Piotr Kuśtrowski](https://openalex.org/A5027955235), [Sara Bals](https://openalex.org/A5013888065), [Shoubhik Das](https://openalex.org/A5034997401), Chemical science. None(None)] 2024.https://doi.org/10.1039/d4sc02773f.
     
 The transformation of CO2 into value-added products from an impure CO2 stream, such as flue gas or exhaust gas, directly contributes to the principle of carbon capture and utilization (CCU)....    
+
+    
+
+## Design of a Rotating Disk Electrode setup operating under high pressure and temperature: application to CO2 reduction on gold   
+
+OpenAlex: https://openalex.org/W4399926425    
+Open access: True
+    
+[Alisson H. M. da Silva](https://openalex.org/A5041262813), [Rafaël E. Vos](https://openalex.org/A5088127644), [Robin J.C. Schrama](https://openalex.org/A5099400685), [Marc T. M. Koper](https://openalex.org/A5028485156), Electrochimica acta. None(None)] 2024.https://doi.org/10.1016/j.electacta.2024.144612.
+    
+No abstract    
+
+    
+
+## Review for "A Robust Fe-Based Heterogeneous Photocatalyst for the Visible-Light-Mediated Selective Reduction of impure CO2 Stream"   
+
+OpenAlex: https://openalex.org/W4399845950    
+Open access: False
+    
+, No host. None(None)] 2024.https://doi.org/10.1039/d4sc02773f/v2/review2.
+    
+No abstract    
 
     
 
@@ -431,17 +442,6 @@ OpenAlex: https://openalex.org/W4399845793
 Open access: False
     
 , No host. None(None)] 2024.https://doi.org/10.1039/d4sc02773f/v2/review1.
-    
-No abstract    
-
-    
-
-## Review for "A Robust Fe-Based Heterogeneous Photocatalyst for the Visible-Light-Mediated Selective Reduction of impure CO2 Stream"   
-
-OpenAlex: https://openalex.org/W4399845950    
-Open access: False
-    
-, No host. None(None)] 2024.https://doi.org/10.1039/d4sc02773f/v2/review2.
     
 No abstract    
 
@@ -553,7 +553,7 @@ Open access: False
     
 [Nimel Sworna Ross](https://openalex.org/A5001047262), [Peter Madindwa Mashinini](https://openalex.org/A5025156848), [B. M.](https://openalex.org/A5009985186), [N. Srinivasan](https://openalex.org/A5057636307), [Munish Kumar Gupta](https://openalex.org/A5064888903), [Mehmet Erdi Korkmaz](https://openalex.org/A5023833755), Tribology international. None(None)] 2024.https://doi.org/10.1016/j.triboint.2024.109906.
     
-No abstract    
+Additive manufacturing (AM) is chosen for its ability to streamline production processes and design freedom. This reduces material waste, enables rapid prototyping, and facilitates intricate geometries, ultimately offering cost-effective and customizable solutions for manufacturing complex components in diverse industries. Overlapping melting trajectories result in a low-quality surface (Ra=~13.34 μm) in the laser metal deposition (LMD) of the Ti64 alloy. Therefore, post-processing is often essential for AMed parts for engineering applications. Milling trials were conducted on AMed specimens under four environmental conditions: dry, flood, minimum quantity lubrication (MQL), and cryogenic medium. The machinability was evaluated in terms of the cutting temperature, machined surface roughness, tool wear, chip morphology, and microhardness. The flank wear under cryogenic CO2 condition is 52.78-54.29% lower than dry condition, 33.86–36.24% lower than flood cutting, and 23.64–26.86% lower than MQL. The outcomes show that cryogenic cooling augments the tool life and the surface integrity of milling LMD parts. Moreover, the hardness under cryogenic CO2 was higher, indicating dimensional stability and maintenance of shape integrity under applied loads.    
 
     
 
@@ -565,6 +565,17 @@ Open access: False
 [S.S. Li](https://openalex.org/A5083157348), [Yonggang Leng](https://openalex.org/A5082844917), [Tirumala Uday Kumar Nutakki](https://openalex.org/A5079119333), [Sherzod Abdullaev](https://openalex.org/A5026491539), [Yasser Fouad](https://openalex.org/A5059077428), [Merwa Alhadrawi](https://openalex.org/A5094068033), Process safety and environmental protection/Transactions of the Institution of Chemical Engineers. Part B, Process safety and environmental protection/Chemical engineering research and design/Chemical engineering research & design. None(None)] 2024.https://doi.org/10.1016/j.psep.2024.06.062.
     
 No abstract    
+
+    
+
+## Research progress of nanoparticles enhanced carbon dioxide foam stability and assisted carbon dioxide storage: A review   
+
+OpenAlex: https://openalex.org/W4399795937    
+Open access: False
+    
+[Yuanxiu Sun](https://openalex.org/A5000885769), [Zhengyang Jia](https://openalex.org/A5035151636), [Faquan Yu](https://openalex.org/A5080606995), [Wei Zhang](https://openalex.org/A5089993282), [Liping Zhang](https://openalex.org/A5067028141), [Ping Chen](https://openalex.org/A5005612152), [Lu Xu](https://openalex.org/A5048819168), Chemical engineering journal. None(None)] 2024.https://doi.org/10.1016/j.cej.2024.153177.
+    
+With the urgent need for energy and reduction of carbon emissions around the world, the use of carbon dioxide foam flooding in enhanced oil recovery and CO2 storage in underground geological structures have received extensive attention. However, as a thermodynamically unstable system, the stability of foam restricts its application in enhancing oil and gas recovery. Nanoparticles can be used as foam stabilizers to enhance the foam stability because of its special properties, thereby improving the effect of oil displacement and storage. Therefore, the use of nanoparticles to stabilize carbon dioxide foam has become a hot topic of current research. In this paper, the mechanism of nanoparticles in enhancing foam stability is reviewed. The effects of nanoparticle type, concentration, size and surface wettability, as well as the environmental factors such as temperature and pressure on stable foams is systematically analyzed. The mechanism of nanoparticles in enhancing carbon dioxide storage is clarified. Finally, the challenges and perspective of nanoparticles to enhance the stability of carbon dioxide foam and assist carbon dioxide storage are proposed, and the future research work is made clear.    
 
     
 
@@ -587,6 +598,17 @@ Open access: True
 [Thananya Janhuaton](https://openalex.org/A5000362709), [Vatanavongs Ratanavaraha](https://openalex.org/A5086123620), [Sajjakaj Jomnonkwao](https://openalex.org/A5087370081), Forecasting. 6(2)] 2024.https://doi.org/10.3390/forecast6020026 ([pdf](https://www.mdpi.com/2571-9394/6/2/26/pdf?version=1718874019)).
     
 Transportation significantly influences greenhouse gas emissions—particularly carbon dioxide (CO2)—thereby affecting climate, health, and various socioeconomic aspects. Therefore, in developing and implementing targeted and effective policies to mitigate the environmental impacts of transportation-related carbon dioxide emissions, governments and decision-makers have focused on identifying methods for the accurate and reliable forecasting of carbon emissions in the transportation sector. This study evaluates these policies’ impacts on CO2 emissions using three forecasting models: ANN, SVR, and ARIMAX. Data spanning the years 1993–2022, including those on population, GDP, and vehicle kilometers, were analyzed. The results indicate the superior performance of the ANN model, which yielded the lowest mean absolute percentage error (MAPE = 6.395). Moreover, the results highlight the limitations of the ARIMAX model; particularly its susceptibility to disruptions, such as the COVID-19 pandemic, due to its reliance on historical data. Leveraging the ANN model, a scenario analysis of trends under the “30@30” policy revealed a reduction in CO2 emissions from fuel combustion in the transportation sector to 14,996.888 kTons in 2030. These findings provide valuable insights for policymakers in the fields of strategic planning and sustainable transportation development.    
+
+    
+
+## On the chances of staying below the 1.5°C warming target   
+
+OpenAlex: https://openalex.org/W4399872570    
+Open access: True
+    
+[Thomas Bossy](https://openalex.org/A5028355696), [Thomas Gasser](https://openalex.org/A5062044999), [Katsumasa Tanaka](https://openalex.org/A5033739527), [Philippe Ciais](https://openalex.org/A5070378593), Cell reports sustainability. None(None)] 2024.https://doi.org/10.1016/j.crsus.2024.100127 ([pdf](http://www.cell.com/article/S2949790624002027/pdf)).
+    
+Pledges at recent climate summits fall short for 1.5°C warming. Here, we calculate the CO2 emissions reduction required to stay below 1.5°C, considering available data on current emissions up to 2022, extending the time horizon to 2300, and using an approach different from the carbon budget to offer another perspective on what is required to stay below 1.5°C. For a 50% chance of staying below 1.5°C during this century, fossil fuel and industry CO2 emissions need to decrease linearly by about 5% per year, in line with other recent studies. However, extending the time horizon to 2300 leads to chances dropping to 30% for the same decarbonization scenario without sustained carbon dioxide removal beyond levels needed for offsetting residual CO2 emissions. We further show that the chances of staying below 1.5°C of global warming critically hinge on the assumed future land-use CO2 emissions and mitigation of non-CO2 forcers.    
 
     
 
@@ -667,17 +689,6 @@ Urban areas contribute to over 80% of carbon dioxide emissions, and considerable
 
     
 
-## Comparative Analysis of CO2 Emissions, Fuel Consumption, and Fuel Costs of Diesel and Hybrid Dredger Ship Engines   
-
-OpenAlex: https://openalex.org/W4399728644    
-Open access: True
-    
-[Ivica Skoko](https://openalex.org/A5081478392), [Tatjana Stanivuk](https://openalex.org/A5060342943), [Branko Franić](https://openalex.org/A5028754490), [Diana Božić](https://openalex.org/A5090556517), Journal of marine science and engineering. 12(6)] 2024.https://doi.org/10.3390/jmse12060999 ([pdf](https://www.mdpi.com/2077-1312/12/6/999/pdf?version=1718444438)).
-    
-There is a consensus on the need to reduce the emissions of carbon compounds. The increase in global greenhouse gas (GHG) emissions in the maritime industry poses a serious challenge to environmental sustainability, climate change, and the operating costs of ships. This article shows how hybrid versus diesel propulsion technology for ships can help reduce carbon dioxide (CO2) emissions and fuel consumption, and how these changes can be achieved. The need to reduce exhaust emissions and the increasing need for the shipping industry to seek alternative fuels means that existing regulations for marine engines and engine emissions are being updated almost constantly and new regulations are being formulated. The cost implications of the new regulations may lead to an increase in emissions as engines with lower fuel consumption are chosen, i.e., larger marine engines. Alternative approaches are needed to reduce CO2 emissions and fuel consumption, which could ultimately lead to hybrid propulsion for ships. This paper examines the current state of greenhouse gas emissions in shipping by analyzing the CO2 emissions and operating costs of two ships of the same type with similar technical and technological characteristics and different propulsion systems to gain insight into the problem. This paper compares the reductions in CO2 emissions, fuel consumption, and fuel costs for two suction hopper dredgers with standard diesel and hybrid propulsion. The technical characteristics, CO2 emissions, fuel consumption, and price of the two ships were analyzed to determine the advantages and disadvantages of each propulsion system. The novelty of this study is that two suction hopper dredgers from the same company with similar technical–technological characteristics but different propulsion systems were used for the case study and a mathematical procedure for calculating CO2 and other greenhouse gasses was presented in comparison, all to determine to what extent and in what way the hybrid propulsion system of a ship can contribute to reductions in CO2 emissions and fuel costs at the ship and company levels compared to a standard diesel propulsion system. This comparative analysis shows how much lower CO2 emissions, fuel consumption, and fuel cost savings can be expected when using a hybrid propulsion system compared to a standard diesel propulsion system. Finally, a conclusion is drawn on the efficiency and environmental compatibility of the two systems.    
-
-    
-
 ## Decomposition Analysis of CO2 Emissions in Greece from 1996 to 2020   
 
 OpenAlex: https://openalex.org/W4399792983    
@@ -686,6 +697,17 @@ Open access: False
 [Eleni Tsepi](https://openalex.org/A5099186259), [Ioannis Sebos](https://openalex.org/A5010860977), [Grigorios L. Kyriakopoulos](https://openalex.org/A5009997692), Strategic planning for energy and the environment. None(None)] 2024.https://doi.org/10.13052/spee1048-5236.4332.
     
 To meet Greece’s commitments under the Kyoto Protocol (KP) and the UN Framework Convention on Climate Change (UNFCCC), it’s crucial to dissect the primary influencers of its greenhouse gas emissions. This study utilized the logarithmic mean Divisia index method in its additive form to delve into the main drivers behind carbon dioxide emissions in Greece from 1996 to 2020. The analysis revealed that the primary catalyst for the rise in CO2 emissions was the growth in GDP. Conversely, advancements in energy efficiency, as indicated by a decrease in energy intensity, played a significant role in reducing CO2 emissions. While population growth contributed to an increase in emissions, a decline in emissions intensity showcased a reduction in emissions per unit of output or consumption. The period from 1996 to 2020 witnessed a 38% change in emissions, demonstrating the effectiveness of Greece’s environmental policies. These findings highlight the pressing need for a sustained focus on enhancing renewable energy sources (RES) penetration and ensuring comprehensive attention across all sectors to further reduce emissions.    
+
+    
+
+## Comparative Analysis of CO2 Emissions, Fuel Consumption, and Fuel Costs of Diesel and Hybrid Dredger Ship Engines   
+
+OpenAlex: https://openalex.org/W4399728644    
+Open access: True
+    
+[Ivica Skoko](https://openalex.org/A5081478392), [Tatjana Stanivuk](https://openalex.org/A5060342943), [Branko Franić](https://openalex.org/A5028754490), [Diana Božić](https://openalex.org/A5090556517), Journal of marine science and engineering. 12(6)] 2024.https://doi.org/10.3390/jmse12060999 ([pdf](https://www.mdpi.com/2077-1312/12/6/999/pdf?version=1718444438)).
+    
+There is a consensus on the need to reduce the emissions of carbon compounds. The increase in global greenhouse gas (GHG) emissions in the maritime industry poses a serious challenge to environmental sustainability, climate change, and the operating costs of ships. This article shows how hybrid versus diesel propulsion technology for ships can help reduce carbon dioxide (CO2) emissions and fuel consumption, and how these changes can be achieved. The need to reduce exhaust emissions and the increasing need for the shipping industry to seek alternative fuels means that existing regulations for marine engines and engine emissions are being updated almost constantly and new regulations are being formulated. The cost implications of the new regulations may lead to an increase in emissions as engines with lower fuel consumption are chosen, i.e., larger marine engines. Alternative approaches are needed to reduce CO2 emissions and fuel consumption, which could ultimately lead to hybrid propulsion for ships. This paper examines the current state of greenhouse gas emissions in shipping by analyzing the CO2 emissions and operating costs of two ships of the same type with similar technical and technological characteristics and different propulsion systems to gain insight into the problem. This paper compares the reductions in CO2 emissions, fuel consumption, and fuel costs for two suction hopper dredgers with standard diesel and hybrid propulsion. The technical characteristics, CO2 emissions, fuel consumption, and price of the two ships were analyzed to determine the advantages and disadvantages of each propulsion system. The novelty of this study is that two suction hopper dredgers from the same company with similar technical–technological characteristics but different propulsion systems were used for the case study and a mathematical procedure for calculating CO2 and other greenhouse gasses was presented in comparison, all to determine to what extent and in what way the hybrid propulsion system of a ship can contribute to reductions in CO2 emissions and fuel costs at the ship and company levels compared to a standard diesel propulsion system. This comparative analysis shows how much lower CO2 emissions, fuel consumption, and fuel cost savings can be expected when using a hybrid propulsion system compared to a standard diesel propulsion system. Finally, a conclusion is drawn on the efficiency and environmental compatibility of the two systems.    
 
     
 
@@ -733,17 +755,6 @@ Open access: False
 
     
 
-## Optimizing the integration of renewable energy sources, energy efficiency, and flexibility solutions in a multi-network pharmaceutical industry   
-
-OpenAlex: https://openalex.org/W4399805274    
-Open access: True
-    
-[Francesco Ghionda](https://openalex.org/A5092559201), [Alberto Sartori](https://openalex.org/A5008502127), [Z. Liu](https://openalex.org/A5060844521), [Md. Shahriar Mahbub](https://openalex.org/A5074663168), [Francesco Pilati](https://openalex.org/A5079095675), [Matteo Brunelli](https://openalex.org/A5087575449), [Diego Viesi](https://openalex.org/A5020167623), International journal of sustainable energy planning and management. 41(None)] 2024.https://doi.org/10.54337/ijsepm.8167 ([pdf](https://journals.aau.dk/index.php/sepm/article/download/8167/6841)).
-    
-In the contemporary landscape, roughly one-fourth of worldwide carbon dioxide emissions stem from industrial energy usage. In the industrial sector, improving the efficient and flexible coupling among different energy demands (electricity, heating, and cooling) and exploiting the integration of Renewable Energy Sources (RESs) and waste heat can lead to a drastic reduction in CO2 emissions, these are also the goals of the EU founded Horizon Europe FLEXIndustries project. This study aims to establish a cost-optimized decarbonization strategy for an energy-intensive industry, focusing on an Italian pharmaceutical company. It delves into the exploration of potential pathways and diverse energy mix configurations. The approach undertaken involves coupling a customized energy system simulation framework, specifically designed for the industrial site, with a Multi-Objective Evolutionary Algorithm (MOEA). The study, conducted with a focus on the year 2024, involves a comparative analysis of three distinct scenarios. Within the intricate and challenging constraints of the industrial demo site, 13 technologies were investigated. The outcomes of each scenario identify a set of 500 Pareto optimal solutions, obtained through 40,000 simulations. These results shed light on the compelling potential of hybrid solutions, showcasing the feasibility of achieving substantial decarbonization with only moderate increases in costs. The availability of land for RES technologies, along with the existence of a biomass supply chain in the region, emerge as pivotal determinants.    
-
-    
-
 ## Molecular dynamics simulation of carbon dioxide flow in kaolinite pores   
 
 OpenAlex: https://openalex.org/W4399755892    
@@ -755,14 +766,25 @@ In order to estimate the effective storage capacity of carbon dioxide in geologi
 
     
 
-## Dual-circulation: influence mechanism of ETS's carbon reduction and its spatiotemporal characteristics based on intensity modified SDID model   
+## Optimizing the integration of renewable energy sources, energy efficiency, and flexibility solutions in a multi-network pharmaceutical industry   
 
-OpenAlex: https://openalex.org/W4399755940    
+OpenAlex: https://openalex.org/W4399805274    
 Open access: True
     
-[Xinmeng Tang](https://openalex.org/A5015820965), [Tao Qin](https://openalex.org/A5020025718), [Xin He](https://openalex.org/A5073792148), [Moustafa Mohamed Nazief Haggag Kotb Kholaif](https://openalex.org/A5059112212), Scientific reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-64250-x ([pdf](https://www.nature.com/articles/s41598-024-64250-x.pdf)).
+[Francesco Ghionda](https://openalex.org/A5092559201), [Alberto Sartori](https://openalex.org/A5008502127), [Z. Liu](https://openalex.org/A5060844521), [Md. Shahriar Mahbub](https://openalex.org/A5074663168), [Francesco Pilati](https://openalex.org/A5079095675), [Matteo Brunelli](https://openalex.org/A5087575449), [Diego Viesi](https://openalex.org/A5020167623), International journal of sustainable energy planning and management. 41(None)] 2024.https://doi.org/10.54337/ijsepm.8167 ([pdf](https://journals.aau.dk/index.php/sepm/article/download/8167/6841)).
     
-Abstract Traditional DID models overlook variations in policy intensity, causing estimation deviations from the actual situation and a limited understanding of the influence mechanism. In response, the Intensity Modified SDID Model is built to examine the influence mechanism of ETS's carbon reductions. Moreover, through model extensions, the study explores the spatiotemporal characteristics and heterogeneities of ETS’s effects. Results show that: (1) "Dual-circulation" influence mechanism is confirmed, where ETS directly contributes to carbon reductions (2.70% to 10.0% impact) through external pathways, and internal pathways continuously strengthen reduction effects, comprehensive mechanisms are thereby formed and enhanced based on interaction among internal and external pathways. (2) Reasonable ETS levels are estimated and proposed to achieve "Dual Carbon Target", constraining nationwide carbon quotas by 20 billion tons/year, increasing carbon trading volumes by 80 thousand tons/year, and elevating the carbon trading prices by 100 RMB (14 USD) per ton. (3) ETS's carbon reduction effects are identified with temporal and spatial characteristics, temporally, effects peak in the 4th period ( Event + 4 ) but diminish in the 5th period ( Event + 5 ), spatially, effects peak in areas distancing around 1000 km but disappear beyond 1500 km. (4) ETS also has synergistic effects with atmospheric pollution reduction, including industrial emissions of sulfur dioxide and smoke (dust), but are insignificant to industrial emissions of wastewater and solid waste.    
+In the contemporary landscape, roughly one-fourth of worldwide carbon dioxide emissions stem from industrial energy usage. In the industrial sector, improving the efficient and flexible coupling among different energy demands (electricity, heating, and cooling) and exploiting the integration of Renewable Energy Sources (RESs) and waste heat can lead to a drastic reduction in CO2 emissions, these are also the goals of the EU founded Horizon Europe FLEXIndustries project. This study aims to establish a cost-optimized decarbonization strategy for an energy-intensive industry, focusing on an Italian pharmaceutical company. It delves into the exploration of potential pathways and diverse energy mix configurations. The approach undertaken involves coupling a customized energy system simulation framework, specifically designed for the industrial site, with a Multi-Objective Evolutionary Algorithm (MOEA). The study, conducted with a focus on the year 2024, involves a comparative analysis of three distinct scenarios. Within the intricate and challenging constraints of the industrial demo site, 13 technologies were investigated. The outcomes of each scenario identify a set of 500 Pareto optimal solutions, obtained through 40,000 simulations. These results shed light on the compelling potential of hybrid solutions, showcasing the feasibility of achieving substantial decarbonization with only moderate increases in costs. The availability of land for RES technologies, along with the existence of a biomass supply chain in the region, emerge as pivotal determinants.    
+
+    
+
+## Big Data Simulation Analysis of the Impact of China’s Carbon Tax Levy on Carbon Emission Behavior under the Background of “Dual Carbon”   
+
+OpenAlex: https://openalex.org/W4399927384    
+Open access: True
+    
+[Guojian Lin](https://openalex.org/A5036128698), Applied mathematics and nonlinear sciences. 9(1)] 2024.https://doi.org/10.2478/amns-2024-1821.
+    
+Abstract This study focuses on the impact of China’s carbon tax on carbon emission behavior under the background of “double carbon”, using big data simulation analysis. The study utilizes the DICE model, combined with general equilibrium theory, to conduct in-depth theoretical analysis and numerical simulation of the carbon tax policy. It is found that the optimal carbon tax rate should be flexibly adjusted in combination with social and economic development and technological progress, and the optimal tax rate gradually rises from RMB 2.83/tonne of carbon dioxide to RMB 17.62/tonne from 1997 to 2023. Simulation results show that increasing the carbon tax rate can effectively promote the low-carbon emission reduction behavior of enterprises and thus achieve the emission reduction target. Under the fixed carbon tax policy, a 50% tax rate can significantly improve environmental quality and economic output. In contrast, steady-state values of output and carbon emissions decrease with the increase of tax rates. At the same time, the combination of carbon trading and carbon tax can more effectively incentivize enterprises to reduce carbon emissions. The results of the study show that a flexible and reasonable carbon tax policy can significantly affect carbon emission behavior, which is of great significance for realizing China’s “double carbon” goal.    
 
     
 
@@ -777,14 +799,36 @@ This review paper addresses the growing challenges and developments in frequency
 
     
 
+## Dual-circulation: influence mechanism of ETS's carbon reduction and its spatiotemporal characteristics based on intensity modified SDID model   
+
+OpenAlex: https://openalex.org/W4399755940    
+Open access: True
+    
+[Xinmeng Tang](https://openalex.org/A5015820965), [Tao Qin](https://openalex.org/A5020025718), [Xin He](https://openalex.org/A5073792148), [Moustafa Mohamed Nazief Haggag Kotb Kholaif](https://openalex.org/A5059112212), Scientific reports. 14(1)] 2024.https://doi.org/10.1038/s41598-024-64250-x ([pdf](https://www.nature.com/articles/s41598-024-64250-x.pdf)).
+    
+Abstract Traditional DID models overlook variations in policy intensity, causing estimation deviations from the actual situation and a limited understanding of the influence mechanism. In response, the Intensity Modified SDID Model is built to examine the influence mechanism of ETS's carbon reductions. Moreover, through model extensions, the study explores the spatiotemporal characteristics and heterogeneities of ETS’s effects. Results show that: (1) "Dual-circulation" influence mechanism is confirmed, where ETS directly contributes to carbon reductions (2.70% to 10.0% impact) through external pathways, and internal pathways continuously strengthen reduction effects, comprehensive mechanisms are thereby formed and enhanced based on interaction among internal and external pathways. (2) Reasonable ETS levels are estimated and proposed to achieve "Dual Carbon Target", constraining nationwide carbon quotas by 20 billion tons/year, increasing carbon trading volumes by 80 thousand tons/year, and elevating the carbon trading prices by 100 RMB (14 USD) per ton. (3) ETS's carbon reduction effects are identified with temporal and spatial characteristics, temporally, effects peak in the 4th period ( Event + 4 ) but diminish in the 5th period ( Event + 5 ), spatially, effects peak in areas distancing around 1000 km but disappear beyond 1500 km. (4) ETS also has synergistic effects with atmospheric pollution reduction, including industrial emissions of sulfur dioxide and smoke (dust), but are insignificant to industrial emissions of wastewater and solid waste.    
+
+    
+
 ## Can the Establishment of Free Trade Zones Promote Carbon Emission Reduction? ----Based on Multi-period Double Difference Model   
 
 OpenAlex: https://openalex.org/W4399768443    
-Open access: False
+Open access: True
     
-[Shengzhen Wu](https://openalex.org/A5026193316), [Yining Chen](https://openalex.org/A5066483084), Highlights in business, economics and management. 33(None)] 2024.https://doi.org/10.54097/5vjkhn12.
+[Shengzhen Wu](https://openalex.org/A5026193316), [Yining Chen](https://openalex.org/A5066483084), Highlights in business, economics and management. 33(None)] 2024.https://doi.org/10.54097/5vjkhn12 ([pdf](https://drpress.org/ojs/index.php/HBEM/article/download/21072/20630)).
     
 As the Shanghai Free Trade Zone (FTZ) celebrates its 10th anniversary, it is crucial to examine the impact of the FTZ's construction on regional carbon emissions under the dual carbon targets of carbon neutrality and carbon peaking. Based on panel data from 282 prefecture-level cities between 2006 and 2021, this article aims to provide insight into the impact of the Free Trade Zone (FTZ) pilot policy on urban carbon dioxide emissions levels. By constructing a difference-in-differences (DID) model, this study aims to investigate the effects of the Free Trade Zone (FTZ) policy on carbon emission reduction. In order to perform a mechanism test, two more mechanistic variables—namely, technical advancement and upgrading of the industrial structure—are incorporated. According to the findings from experiments, the policy of free trade zones can effectively reduce carbon emissions from urban areas. This is primarily achieved by optimizing the industrial structure and scientific and technological mechanisms.    
+
+    
+
+## Considerations in Designing a Low Carbon Substation   
+
+OpenAlex: https://openalex.org/W4399801949    
+Open access: False
+    
+[Aaditya Patel](https://openalex.org/A5099243880), [Nicholas Ebbs](https://openalex.org/A5099243881), [Arielle Kadoch](https://openalex.org/A5099243882), [Richard Guerin](https://openalex.org/A5099243883), No host. None(None)] 2024.https://doi.org/10.1109/td47997.2024.10556131.
+    
+This paper aims to present the considerations and the approach to designing a low carbon substation. The analysis involves performing a 60-year Lifecycle Assessment (LCA) to assess the embodied carbon from the substation power equipment, control building and yard elements, and operational carbon analysis to assess the operational carbon from the substation losses. The overall lifecycle emissions from substation construction, maintenance, and operation over 60-years amounts to approximately 27,565 tonnes of carbon dioxide equivalent (CO 2 e). Operational emissions account for 82% of all lifecycle emissions while embodied carbon emissions account for 18% of the lifecycle emissions. Although contributing only 18% of the lifecycle emissions, most of the embodied carbon emissions occur prior to the substation being operational, thus requiring a careful consideration during the design and procurement process to reduce them. This paper will particularly focus on embodied carbon emissions associated with various substation elements and their reduction strategies.    
 
     
 
@@ -876,17 +920,6 @@ Small Cu clusters are excellent candidates for the electrocatalytic reduction of
 
     
 
-## Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy   
-
-OpenAlex: https://openalex.org/W4399889019    
-Open access: True
-    
-[E. R. Maki](https://openalex.org/A5070794111), [Christiane Hennig](https://openalex.org/A5045674888), [Daniela Thrän](https://openalex.org/A5012569758), [Nora Lange](https://openalex.org/A5069305133), [Tilman J. Schildhauer](https://openalex.org/A5057998068), [Fabian Schipfer](https://openalex.org/A5066240681), Biofuels, bioproducts & biorefining. None(None)] 2024.https://doi.org/10.1002/bbb.2649 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bbb.2649)).
-    
-Abstract The global energy system is in transition. It is attempting to reach net‐zero greenhouse gas emissions by 2050. The systemic changes mean that the role of bioenergy will change. The potential of bioenergy to make a flexible contribution to the energy system is key for the achievement of global emission reduction ambitions and the functioning of the low‐carbon energy system and economy. As the volume of sustainably available biomass resources is limited, defining the contributions from bioenergy to a low‐carbon energy system and finding balances – and ideally synergies – between the different possible energy and climate system services that biomass can provide will be very important. The recognized system services include, among others, the flexible operation of bioenergy plants to integrate variable renewable energy sources and to provide negative carbon dioxide (CO 2 ) emissions. Interest in flexible operation of bioenergy value chains, bioenergy with carbon capture and utilization as well as synergies with renewable hydrogen‐based value chains has increased recently. The objective of this paper is to present a holistic definition of flexible bioenergy as a system service based on the work conducted in International Energy Agency (IEA) Bioenergy Technology Collaboration Programme's Task 44 Flexible Bioenergy and System Integration, and to provide some practical examples. The paper also presents the different bioenergy system services and considers their definitions and interactions, as this is important in energy system design. The definition of flexible bioenergy shows that the flexibility provision from bioenergy goes far beyond the traditional definition of providing short‐term flexibility in the power sector. Indicators to demonstrate the value of services as well as further quantitative assessment of synergies and trade‐offs are needed to valorize the different services from bioenergy and create viable business cases.    
-
-    
-
 ## Nickel-Catalyzed Hydrocarboxylation of Terminal Unactivated Alkenes: Formation of Branched Carboxylic Acids and Competing Catalyst Deactivation from CO2 Reduction to CO   
 
 OpenAlex: https://openalex.org/W4399765241    
@@ -898,17 +931,6 @@ The reductive coupling of CO2 and alkenes represents a compelling strategy for t
 
     
 
-## Trilayer Polymer Electrolytes Enable Carbon‐efficient CO2 to Multicarbon Product Conversion in Alkaline Electrolyzers   
-
-OpenAlex: https://openalex.org/W4399888568    
-Open access: False
-    
-[Jundong Wang](https://openalex.org/A5077000248), [Yuesheng Zhang](https://openalex.org/A5050503238), [Hao Bai](https://openalex.org/A5053074957), [Huihua Deng](https://openalex.org/A5030347659), [Binbin Pan](https://openalex.org/A5030312735), [Yanguang Li](https://openalex.org/A5070610406), [Yuhang Wang](https://openalex.org/A5082322039), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404110.
-    
-The electrochemical CO2 reduction reaction (CO2RR) is an appealing method for carbon utilization. Alkaline CO2 electrolyzers exhibit high CO2RR activity, low full‐cell voltages, and cost‐effectiveness. However, the issue of CO2 loss caused by (bi)carbonate formation leads to excessive energy consumption, rendering the process economically impractical. In this study, we propose a trilayer polymer electrolyte (TPE) comprising a perforated anion exchange membrane (PAEM) and a bipolar membrane (BPM) to facilitate alkaline CO2RR. This TPE enables the coexistence of high alkalinity near the catalyst surface and the H+ flux at the interface between the PAEM and the cation exchange layer (CEL) of the BPM, conditions favoring both CO2 reduction to multicarbon products and (bi)carbonate removal in KOH‐fed membrane electrode assembly (MEA) reactors. As a results, we achieve a Faradaic efficiency (FE) of approximately 46% for C2H4, corresponding to a C2+ FE of 64% at 260 mA cm‐2, with a CO2‐to‐C2H4 single‐pass conversion (SPC) of approximately 32% at 140 mA cm‐2 — nearly 1.3 times the limiting SPC in conventional AEM‐MEA electrolyzers. Furthermore, coupling CO2 reduction with formaldehyde oxidation reaction (FOR) in the TPE‐MEA electrolyzer reduces the full‐cell voltage to 2.3 V at 100 mA cm‐2 without compromising the C2H4 FE.    
-
-    
-
 ## A review of measurement for quantification of carbon dioxide removal by enhanced weathering in soil   
 
 OpenAlex: https://openalex.org/W4399807978    
@@ -917,6 +939,28 @@ Open access: True
 [Matthew O Clarkson](https://openalex.org/A5068057865), [Christina Larkin](https://openalex.org/A5074798724), [Philipp Swoboda](https://openalex.org/A5038674571), [Tom Reershemius](https://openalex.org/A5008768478), [Tim Jesper Suhrhoff](https://openalex.org/A5081686744), [Cara Nichole Maesano](https://openalex.org/A5016028954), [James Campbell](https://openalex.org/A5089134622), Frontiers in climate. 6(None)] 2024.https://doi.org/10.3389/fclim.2024.1345224 ([pdf](https://www.frontiersin.org/articles/10.3389/fclim.2024.1345224/pdf?isPublishedV2=False)).
     
 All pathways which limit global temperature rise to &lt;2°C above pre-industrial temperatures now require carbon dioxide removal (CDR) in addition to rapid greenhouse gas emissions reductions. Novel and durable CDR strategies need to rapidly scale over the next few decades in order to reach Paris Agreement Targets. Terrestrial enhanced weathering (EW) involves the acceleration of natural weathering processes via the deployment of crushed rock feedstocks, typically Ca- and Mg-rich silicates, in soils. While models predict this has the potential to remove multiple gigatonnes of CO 2 annually, as an open-system pathway, the measurement (monitoring), reporting, and verification (MRV) of carbon removal and storage is challenging. Here we provide a review of the current literature showing the state-of-play of different methods for monitoring EW. We focus on geochemical characterization of weathering processes at the weathering site itself, acknowledging that the final storage of carbon is largely in the oceans, with potential losses occurring during transfer. There are two main approaches for measuring EW, one focused on solid phase measurements, including exchangeable phases, and the other on the aqueous phase. Additionally, gas phase measurements have been employed to understand CO 2 fluxes, but can be dominated by short-term organic carbon cycling. The approaches we review are grounded in established literature from the natural environment, but implementing these approaches for EW CDR quantification has strengths and limitations. The complexity inherent in open-system CDR pathways is navigable through surplus measurement strategies and well-designed experiments, which we highlight are critical in the early stage of the EW CDR industry.    
+
+    
+
+## Defining bioenergy system services to accelerate the integration of bioenergy into a low‐carbon economy   
+
+OpenAlex: https://openalex.org/W4399889019    
+Open access: True
+    
+[E. R. Maki](https://openalex.org/A5070794111), [Christiane Hennig](https://openalex.org/A5045674888), [Daniela Thrän](https://openalex.org/A5012569758), [Nora Lange](https://openalex.org/A5069305133), [Tilman J. Schildhauer](https://openalex.org/A5057998068), [Fabian Schipfer](https://openalex.org/A5066240681), Biofuels, bioproducts & biorefining. None(None)] 2024.https://doi.org/10.1002/bbb.2649 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bbb.2649)).
+    
+Abstract The global energy system is in transition. It is attempting to reach net‐zero greenhouse gas emissions by 2050. The systemic changes mean that the role of bioenergy will change. The potential of bioenergy to make a flexible contribution to the energy system is key for the achievement of global emission reduction ambitions and the functioning of the low‐carbon energy system and economy. As the volume of sustainably available biomass resources is limited, defining the contributions from bioenergy to a low‐carbon energy system and finding balances – and ideally synergies – between the different possible energy and climate system services that biomass can provide will be very important. The recognized system services include, among others, the flexible operation of bioenergy plants to integrate variable renewable energy sources and to provide negative carbon dioxide (CO 2 ) emissions. Interest in flexible operation of bioenergy value chains, bioenergy with carbon capture and utilization as well as synergies with renewable hydrogen‐based value chains has increased recently. The objective of this paper is to present a holistic definition of flexible bioenergy as a system service based on the work conducted in International Energy Agency (IEA) Bioenergy Technology Collaboration Programme's Task 44 Flexible Bioenergy and System Integration, and to provide some practical examples. The paper also presents the different bioenergy system services and considers their definitions and interactions, as this is important in energy system design. The definition of flexible bioenergy shows that the flexibility provision from bioenergy goes far beyond the traditional definition of providing short‐term flexibility in the power sector. Indicators to demonstrate the value of services as well as further quantitative assessment of synergies and trade‐offs are needed to valorize the different services from bioenergy and create viable business cases.    
+
+    
+
+## Trilayer Polymer Electrolytes Enable Carbon‐efficient CO2 to Multicarbon Product Conversion in Alkaline Electrolyzers   
+
+OpenAlex: https://openalex.org/W4399888568    
+Open access: False
+    
+[Jundong Wang](https://openalex.org/A5077000248), [Yuesheng Zhang](https://openalex.org/A5050503238), [Hao Bai](https://openalex.org/A5053074957), [Huihua Deng](https://openalex.org/A5030347659), [Binbin Pan](https://openalex.org/A5030312735), [Yanguang Li](https://openalex.org/A5070610406), [Yuhang Wang](https://openalex.org/A5082322039), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404110.
+    
+The electrochemical CO2 reduction reaction (CO2RR) is an appealing method for carbon utilization. Alkaline CO2 electrolyzers exhibit high CO2RR activity, low full‐cell voltages, and cost‐effectiveness. However, the issue of CO2 loss caused by (bi)carbonate formation leads to excessive energy consumption, rendering the process economically impractical. In this study, we propose a trilayer polymer electrolyte (TPE) comprising a perforated anion exchange membrane (PAEM) and a bipolar membrane (BPM) to facilitate alkaline CO2RR. This TPE enables the coexistence of high alkalinity near the catalyst surface and the H+ flux at the interface between the PAEM and the cation exchange layer (CEL) of the BPM, conditions favoring both CO2 reduction to multicarbon products and (bi)carbonate removal in KOH‐fed membrane electrode assembly (MEA) reactors. As a results, we achieve a Faradaic efficiency (FE) of approximately 46% for C2H4, corresponding to a C2+ FE of 64% at 260 mA cm‐2, with a CO2‐to‐C2H4 single‐pass conversion (SPC) of approximately 32% at 140 mA cm‐2 — nearly 1.3 times the limiting SPC in conventional AEM‐MEA electrolyzers. Furthermore, coupling CO2 reduction with formaldehyde oxidation reaction (FOR) in the TPE‐MEA electrolyzer reduces the full‐cell voltage to 2.3 V at 100 mA cm‐2 without compromising the C2H4 FE.    
 
     
 
@@ -964,17 +1008,6 @@ The electrochemical reduction of carbon dioxide (CO2ER) to valuable C2+ chemical
 
     
 
-## Synthesis of B<sub>4</sub>C–TiB<sub>2</sub> composition powder mixtures by carbidobor reduction using nanofibrous carbon for ceramic fabrication   
-
-OpenAlex: https://openalex.org/W4399749952    
-Open access: False
-    
-[Т. С. Гудыма](https://openalex.org/A5002870192), [Yu. L. Krutskii](https://openalex.org/A5059150973), [Е. А. Максимовский](https://openalex.org/A5027280897), [N. Yu. Cherkasova](https://openalex.org/A5083760076), [Nikita I. Lapekin](https://openalex.org/A5022605464), [T. V. Larina](https://openalex.org/A5067942684), Izvestiâ vuzov. Poroškovaâ metallurgiâ i funkcionalʹnye pokrytiâ. 17(2)] 2023.https://doi.org/10.17073/1997-308x-2023-2-35-45.
-    
-The results of the researching process of obtaining composition powder material B 4 C–TiB 2 by carbide reduction of titanium dioxide, using carbon reducing agent – carbon nanofibers, are presented. Furthermore, the results of studying of some properties of ceramics made using the synthesized powder are presented. The synthesis of composite materials was carried out in an induction crucible furnace for 20 min in the temperature range of 1200–1900 °C in an argon atmosphere. It has been established that the optimum temperature of the synthesis is 1650 °C, irrespective of the batch composition. The characteristics of the composite powders containing 10–30 mol. % of the TiB 2 phase have been studied. X -ray electron microscopy has revealed that the particles of the powder are predominantly aggregated. There are two peaks in the particle size distribution histograms. The part of the histogram with a smaller particle size mainly characterizes the B 4 C phase. The part of the histogram with a larger particle size characterizes the TiB 2 phase. The average particle size of the B 4 C phase is in the range of 5.3–5.5 µm, and that of the TiB 2 phase is in the range of 33.6–41.9 µm. The average size of 50 % of composite powder’s particles for these contents does not exceed 13.4 μm. The surface area of the samples does not exceed 5 m 2 /g. The oxidation of the composite powder materials by atmospheric oxygen begins at a temperature of approximately 500 °C. At the same time, when the temperature reaches 1000 °C, no more than 45 wt. % of the studied powders is oxidized. Ceramics made with the synthesized powder mixture B 4 C + 30 mol. % TiB 2 by hot pressing has shown rather high values of relative density (99.0±1.1 %) and fracture toughness (5.0±0.2 MPa∙m 0.5 ).    
-
-    
-
 ## Assessing Hydrogen Embrittlement in Pipeline Steels for Natural Gas-Hydrogen Blends: Implications for Existing Infrastructure   
 
 OpenAlex: https://openalex.org/W4399749217    
@@ -983,6 +1016,17 @@ Open access: True
 [Hesamedin Ghadiani](https://openalex.org/A5093969719), [Zoheir Farhat](https://openalex.org/A5026407706), [Tahrim Alam](https://openalex.org/A5078094498), [Md. Aminul Islam](https://openalex.org/A5039240704), No host. None(None)] 2024.https://doi.org/10.20944/preprints202406.1098.v1.
     
 Governments worldwide are actively committed to achieving their carbon emission reduction targets, and one avenue under exploration is harnessing the potential of hydrogen. Blending hydrogen with natural gas is emerging as a promising strategy to reduce carbon emissions, as it burns cleanly without emitting carbon dioxide. This blending could significantly contribute to emissions reduction in both residential and commercial settings. However, a critical challenge associated with this approach is the potential for Hydrogen Embrittlement (HE), a phenomenon wherein the mechanical properties of pipe steels degrade due to the infiltration of hydrogen atoms into the metal lattice structure. This can result in sudden and sever failures when the steel is subjected to mechanical stress. To effectively implement hydrogen-natural gas blending, it is imperative to gain a comprehensive understanding of how hydrogen affects the integrity of pipe steel. This necessitates the development of robust experimental methodologies capable of monitoring the presence and impact of hydrogen within the microstructures of steel. Key techniques employed for this assessment include microscopic observation, hydrogen permeation tests, and tensile and fatigue testing. In this study, samples from two distinct types of pipeline steels used in the natural gas distribution network underwent rigorous examination. To induce hydrogen absorption, an electrochemical charging process is employed in a solution rich in H+ ions. This charging process, accomplished by a potentiostat applying a constant current, prompts the hydrogen evolution reaction at the steel specimen, acting as the cathode of the charging cell. Immediate tensile and fatigue testing following the charging process enables the evaluation of mechanical properties in comparison to non-charged samples. Different charging current densities are employed to simulate various hydrogen blend scenarios. The findings from this research indicate that charged samples exhibit a discernible decline in fatigue and tensile properties. This deterioration is attributed to embrittlement and reduced ductility stemming from the infiltration of hydrogen into the steel matrix. The extent of degradation in fatigue properties is correlated not only to the hydrogen content but also to the hydrogen permeability and diffusion rate influenced by steel&rsquo;s microstructural features, with higher charging current densities indicating a more significant presence of hydrogen in the natural gas pipeline blend.    
+
+    
+
+## Synthesis of B<sub>4</sub>C–TiB<sub>2</sub> composition powder mixtures by carbidobor reduction using nanofibrous carbon for ceramic fabrication   
+
+OpenAlex: https://openalex.org/W4399749952    
+Open access: False
+    
+[Т. С. Гудыма](https://openalex.org/A5002870192), [Yu. L. Krutskii](https://openalex.org/A5059150973), [Е. А. Максимовский](https://openalex.org/A5027280897), [N. Yu. Cherkasova](https://openalex.org/A5083760076), [Nikita I. Lapekin](https://openalex.org/A5022605464), [T. V. Larina](https://openalex.org/A5067942684), Izvestiâ vuzov. Poroškovaâ metallurgiâ i funkcionalʹnye pokrytiâ. 17(2)] 2023.https://doi.org/10.17073/1997-308x-2023-2-35-45.
+    
+The results of the researching process of obtaining composition powder material B 4 C–TiB 2 by carbide reduction of titanium dioxide, using carbon reducing agent – carbon nanofibers, are presented. Furthermore, the results of studying of some properties of ceramics made using the synthesized powder are presented. The synthesis of composite materials was carried out in an induction crucible furnace for 20 min in the temperature range of 1200–1900 °C in an argon atmosphere. It has been established that the optimum temperature of the synthesis is 1650 °C, irrespective of the batch composition. The characteristics of the composite powders containing 10–30 mol. % of the TiB 2 phase have been studied. X -ray electron microscopy has revealed that the particles of the powder are predominantly aggregated. There are two peaks in the particle size distribution histograms. The part of the histogram with a smaller particle size mainly characterizes the B 4 C phase. The part of the histogram with a larger particle size characterizes the TiB 2 phase. The average particle size of the B 4 C phase is in the range of 5.3–5.5 µm, and that of the TiB 2 phase is in the range of 33.6–41.9 µm. The average size of 50 % of composite powder’s particles for these contents does not exceed 13.4 μm. The surface area of the samples does not exceed 5 m 2 /g. The oxidation of the composite powder materials by atmospheric oxygen begins at a temperature of approximately 500 °C. At the same time, when the temperature reaches 1000 °C, no more than 45 wt. % of the studied powders is oxidized. Ceramics made with the synthesized powder mixture B 4 C + 30 mol. % TiB 2 by hot pressing has shown rather high values of relative density (99.0±1.1 %) and fracture toughness (5.0±0.2 MPa∙m 0.5 ).    
 
     
 
@@ -1008,6 +1052,17 @@ Mitigating global CO2 concentrations from anthropogenic sources through electroc
 
     
 
+## Copper Oxide Thin Films as Components for Heterojunction Formation with TiO2 for Photocatalytic CO2 Reduction   
+
+OpenAlex: https://openalex.org/W4399803645    
+Open access: False
+    
+[Krystian Mróz](https://openalex.org/A5031813525), [Przemysław Łabuz](https://openalex.org/A5066908505), [Marcin Kobielusz](https://openalex.org/A5085381424), [Michał Pacia](https://openalex.org/A5017675259), [Kamila Kollbek](https://openalex.org/A5067072932), [Piotr Jabłoński](https://openalex.org/A5069937035), [Krystian Sokołowski](https://openalex.org/A5081043615), [M. Przybylski](https://openalex.org/A5086170852), [Wojciech Macyk](https://openalex.org/A5025731429), [Taymaz Tabari](https://openalex.org/A5056237789), Catalysis today. None(None)] 2024.https://doi.org/10.1016/j.cattod.2024.114890.
+    
+The activity of copper oxide under irradiation is majorly attributed to the shape and purity of the synthesized materials. To achieve these characteristics, magnetron sputtering was introduced as an efficient technique; however, the stability of these materials is low in photoelectrochemical water splitting. These materials can be reasonably stable in CO2 reduction; however, their activity is low due to the high charge recombination rate. Designing heterojunction architectures can be an efficient approach to achieving high activity in CO2 reduction by increasing the lifetime of photogenerated excitons and decreasing the charge recombination rate. This study presents CuxO photocatalysts as promising candidates for creating the heterojunction structure with TiO2. The copper oxide thin films were obtained with magnetron sputtering and successive ionic layer adsorption and reaction (SILAR) methods. The pristine and heterojunction bilayer films were profoundly investigated. The oxidation states of copper, crystalline form, and morphology of copper oxide and their heterojunction films were studied thoroughly. Furthermore, the photogenerated charges' fate and direction in the heterojunction bilayer films were studied with the measured surface photovoltage (SPV), employing a Kelvin probe. The SPV and ToF-SIMS analysis confirmed the creation of a junction between copper oxide and titanium dioxide. The photo(electro)catalytic activity of the synthesized materials was studied in solar water splitting and CO2 reduction. Herein, we additionally report the generation of oxygen during the CO2 reduction. Moreover, the materials obtained using the SILAR method showed considerably higher activity than those obtained using magnetron sputtering.    
+
+    
+
 ## Electrified CO2 conversion : integrating experimental, computational, and process simulation methods for sustainable chemical synthesis   
 
 OpenAlex: https://openalex.org/W4399863112    
@@ -1016,6 +1071,17 @@ Open access: False
 [Federica De Luca](https://openalex.org/A5018739297), No host. None(None)] 2024.https://doi.org/10.63028/10067/2052620151162165141.
     
 Nowadays, the burning of fossil fuels, particularly petroleum, natural gas, and coal, meets the rising need for power and fuels for automobiles and industries.This has given rise to ecological and climate challenges.This thesis explores these issues from three distinct perspectives: (i) experimental, (ii) computational, and (iii) process simulation, with a focus on studying CO2 as an alternative and economically viable raw material.Firstly, the experimental study is focused on the synthesis, characterization, and testing of novel catalysts for electroreduction of CO2 and oxalic acid, an intermediate product of CO2.Electrocatalysts based on Cu supported by citrus (orange and lemon) peel biomass are prepared.These catalysts exhibit activity in the electrochemical reduction of CO2, emphasizing the effectiveness of biomasses, particularly orange peels, as environmentally friendly precursors for sustainable and efficient electrocatalysts.In addition, graphitic carbon nitrides/TiO2 nanotubes (g-C3N4/TiNT) composites are prepared for the electrocatalytic reduction of oxalic acid to glycolic acid, revealing superior electrocatalytic properties compared to pristine TiNT.Characterization by X-ray diffraction, X-ray photoelectron spectroscopy, and scanning electronic microscopy were performed for all the prepared electrocatalysts.Delving into the reduction of CO2 on Cu catalysts, a computational study about the synthesis of methanol on Cu(111) surface is performed by using the Vienna Ab initio Simulation Package.A systematic study is carried out to define the activation energies of the elementary reactions by using mGGA DF.Consequently, it is shown that the rate-controlling step is CH3O* hydrogenation and the formate pathway on Cu(111) proceeds through the HCOOH* intermediate.Finally, the process simulation, performed by using the software Aspen Plus 11 from AspenTech Inc., is based on the comparison of a catalytic (oxidation of ethylene glycol) and an electrocatalytic process (CO2 electroreduction chain) to synthesize glycolic acid.An economic analysis of the operational and investment costs reveals that the catalytic process is more cost-effective due to the current instability of electrocatalysts and proton exchange membranes, resulting in increased maintenance costs and, consequently, higher prices for the product.    
+
+    
+
+## Cu-based materials for electrocatalytic CO2 to alcohols: Reaction mechanism, catalyst categories, and regulation strategies   
+
+OpenAlex: https://openalex.org/W4399730927    
+Open access: False
+    
+[Yaru Lei](https://openalex.org/A5045486276), [Yue Niu](https://openalex.org/A5055217976), [Xiaolong Tang](https://openalex.org/A5011290823), [Xiangtao Yu](https://openalex.org/A5001457573), [Xiubing Huang](https://openalex.org/A5030123581), [Xiaoxi Lin](https://openalex.org/A5039658158), [Honghong Yi](https://openalex.org/A5083424574), [Shunzheng Zhao](https://openalex.org/A5034850431), [Jingjing Jiang](https://openalex.org/A5067934887), [Jiyue Zhang](https://openalex.org/A5024689471), [Feifei Gao](https://openalex.org/A5050402661), Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024.https://doi.org/10.1016/j.jechem.2024.06.008.
+    
+Electrocatalytic CO2 reduction reaction (CO2RR) technology, which enables carbon capture storage and resource utilization by reducing CO2 to valuable chemicals or fuels, has become a global research hotspot in recent decades. Among the many products of CO2RR (carbon monoxide, acids, aldehydes and alcohols, olefins, etc.), alcohols (methanol, ethanol, propanol, etc.) have a higher market value and energy density, but it is also more difficult to produce. Copper is known to be effective in catalyzing CO2 to high value-added alcohols, but with poor selectivity. The progress of Cu-based catalysts for the selective generation of alcohols, including copper oxides, bimetals, single atoms and composites is reviewed. Meanwhile, to improve Cu-based catalyst activity and modulate product selectivity, the modulation strategies are straighten out, including morphological regulation, crystalline surface, oxidation state, as well as elemental doping and defect engineering. Based on the research progress of electrocatalytic CO2 reduction for alcohol production on Cu-based materials, the reaction pathways and the key intermediates of the electrocatalytic CO2RR to methanol, ethanol and propanol are summarized. Finally, the problems of traditional electrocatalytic CO2RR are introduced, and the future applications of machine learning and theoretical calculations are prospected. An in-depth discussion and a comprehensive review of the reaction mechanism, catalyst types and regulation strategies were carried out with a view to promoting the development of electrocatalytic CO2RR to alcohols.    
 
     
 
@@ -1052,14 +1118,36 @@ Formic acid (HCOOH) is a highly energy‐efficient product of electrochemical CO
 
     
 
-## CO2 levels, technical breakage and quality of maize grains stored under different conditions   
+## Development of a Large-scale Thermogravimetry and Gas Analyzer for Determining Carbon in Concrete   
 
-OpenAlex: https://openalex.org/W4399745960    
+OpenAlex: https://openalex.org/W4399927230    
+Open access: True
+    
+[Ippei Maruyama](https://openalex.org/A5025611189), [Koji Noritake](https://openalex.org/A5011709497), [Yuzo Hosoi](https://openalex.org/A5021525426), [Haruka Takahashi](https://openalex.org/A5005865114), Journal of advanced concrete technology. 22(6)] 2024.https://doi.org/10.3151/jact.22.383 ([pdf](https://www.jstage.jst.go.jp/article/jact/22/6/22_383/_pdf)).
+    
+One carbon neutralization measure applied in the concrete sector is the use of artificial carbonate in concrete for immobilization. This CO2 reduction technology corresponds to the CO2 emitted during concrete production. When considering the marketability of these technologies, especially for newly developed products in the carbon market, it is essential to quantify the amount of CO2 fixed as inorganic carbonate. Additionally, as a representative test specimen for concrete containing aggregate, a φ100 × 200 mm cylinder specimen is conventionally used for physical property evaluation. To evaluate the amount of CO2 fixed in one batch of concrete, a mass far from that of the conventional chemical analysis sample may need to be analyzed. Therefore, in this study, we investigated a pulverization process for concrete analytical materials. We also propose a new analytical apparatus that can be used to measure large cylinder specimens. Experimental results showed that the newly developed analyzer, equipped with a mass balance and CO2 and H2O gas analyzer for large cylinders, exhibited excellent analytical variability and measurement speed performance. It was also inferred that the homogenization process is necessary to grind the entire cylindrical concrete specimen into a fine powder and homogenize it to improve the representativeness of the concrete.    
+
+    
+
+## OPTIMAL MULTI-PERIOD SOURCE-SINK MATCHING IN CARBON CAPTURE, UTILIZATION, AND STORAGE (CCUS) SYSTEMS UNDER NEUTROSOPHIC ENVIRONMENT   
+
+OpenAlex: https://openalex.org/W4399848447    
 Open access: False
     
-[Diene Gonçalves Souza](https://openalex.org/A5058745123), [Osvaldo Resende](https://openalex.org/A5068851982), [Jacson Zuchi](https://openalex.org/A5030245288), [Geraldo Acácio Mabasso](https://openalex.org/A5027254178), Revista Brasileira de Engenharia Agrícola e Ambiental. 28(8)] 2024.https://doi.org/10.1590/1807-1929/agriambi.v28n8e279894.
+[John Frederick D. Tapia](https://openalex.org/A5085782060), Journal of cleaner production. None(None)] 2024.https://doi.org/10.1016/j.jclepro.2024.142967.
     
-ABSTRACT The use of CO2 sensors has been reported as an effective tool in the early detection of signs of deterioration, allowing good accuracy in decision-making about the quality of stored grains. The objective of this study was to quantify the CO2 levels produced by maize grains stored at ambient temperature in a prototype silo, with initial moisture contents of 14, 16 and 18% w.b., and to evaluate the quality of the product over time and the technical breakage. Analyses of moisture content, ash, proteins, lipids, Hue Angle (color), germination and electrical conductivity were performed. Inside the silos, the amount of CO2, relative air humidity and temperature were monitored every hour. Grain quality evaluations were carried out at four storage times (0, 30, 60 and 90 days). A completely randomized design in a 3 × 4 factorial scheme with six replicates was used. Grains with higher moisture contents showed higher technical breakage and losses associated with CO2 emissions. Moisture content, protein, lipids, germination, bulk density, lightness and chroma decreased over time, while the electrical conductivity increased, resulting in greater damage to membranes and loss of quality of maize grains. Monitoring of CO2 in the grain mass is a good tool to assess the quality of grain, and higher initial moisture content caused greater level of CO2 emission and reduction in quality of maize grains.    
+Carbon capture, utilization, and storage (CCUS) is an important technology for mitigating the effect of climate change. It involves the capture of CO2 from a point source, transport it through pipelines and store it in geological reservoirs for permanent storage. CCUS enables the use of fossil fuel-based power plant sources that produce a steady amount of energy and the reduction of CO2 emissions from these sources simultaneously. While CO2 sources are easy to characterize, the storage parameters of geological reservoirs are more difficult to measure, thus, estimates are provided and used for planning large-scale CCUS systems. CO2 utilization can provide a means to delay CO2 emissions by converting it highly valuable products, however, its sequestration potential is highly uncertain. A systematic mathematical approach is needed to effectively plan CCUS systems considering the risks associated with the estimates in the characteristics of the geological reservoir and the sequestration benefits from CO2 utilization. In this study, an optimization model is developed for planning multi-period CCUS systems under neutrosophic environment. The model considers managing storage risk by maximizing satisfaction from minimizing risks, minimizing dissatisfaction from consequences brought by these risks, and minimizing indeterminacy from inaccuracy of storage characteristics estimates. For utilization, the model considers the satisfaction for CO2 utilization benefits, dissatisfaction for opportunity losses, and indeterminacy in sequestration potential. Two case studies are used to illustrate the model where a sensitivity analysis is performed to illustrate the effect of the different risk appetite on the optimal solution. These cases studies reveal important insights on scheduling operations between CO2 sources and sinks and the allocation of captured CO2 for storage and utilization. The model can be used to develop policies for considering the risks associated with these uncertainties and how it will be managed.    
+
+    
+
+## Selectivity control by modifying pressure, temperature, and ionomer decoration for CO2 electroreduction using gas-diffusion Cu electrodes   
+
+OpenAlex: https://openalex.org/W4399735967    
+Open access: True
+    
+[Xiaofei Lü](https://openalex.org/A5029876130), [Tengisbold Gankhuyag](https://openalex.org/A5099163488), [Keisuke Obata](https://openalex.org/A5001701683), [Yuhang Yu](https://openalex.org/A5039451346), [Kazuhiro Takanabe](https://openalex.org/A5077913046), Chem catalysis. None(None)] 2024.https://doi.org/10.1016/j.checat.2024.101030 ([pdf](http://www.cell.com/article/S266710932400188X/pdf)).
+    
+"Beyond catalyst" factors influencing the performance of Cu-based CO2 electroreduction were investigated based on rigorous microkinetic analysis under industrially relevant conditions. Our experimental results indicated that the activity and selectivity of Cu-based CO2 electroreduction were not unaffected by electrolyte pH changes but were significantly influenced by operating conditions including pressure and temperature. Analyzing the kinetic data concerning CO2 partial pressure (PCO2) and operating temperature revealed that higher PCO2 (≥25 kPa) or higher reaction temperature (≤333 K) favored CO formation, coinciding with a reduction of the C2+ and formate pathways. Product distribution control at 333 K was achieved by engineering the structure of the Cu gas-diffusion electrode (GDE), where CO was exclusively produced on bare Cu, and the faradic efficiency of C2+ was enhanced by introducing an optimized Nafion ionomer content in the catalyst layer, likely ascribable to the modulation of diffusion coefficients of reactants (e.g., CO2 and H2O) and key intermediates (e.g., CO).    
 
     
 
@@ -1071,6 +1159,28 @@ Open access: False
 [Long Pang](https://openalex.org/A5003475897), [Zhiwei Zhao](https://openalex.org/A5082138899), [Tian‐Fu Liu](https://openalex.org/A5066503958), [Guoxiong Wang](https://openalex.org/A5020450516), [Shaojun Dong](https://openalex.org/A5035360447), [Zhangquan Peng](https://openalex.org/A5034722101), Journal of the American Chemical Society. None(None)] 2024.https://doi.org/10.1021/jacs.4c03742.
     
 The CO2 reduction reaction (CO2RR) pathway significantly dictates the reversibility and overpotential of aprotic Li-CO2 batteries; however, it has remained incompletely understood due to the lack of direct in situ spectroscopic evidence. Herein, the Li-CO2RR pathways at the model Au | dimethyl sulfoxide (DMSO) interface are interrogated using a combination of in situ isotope-labeled spectroscopy techniques and theoretical calculations. This obtained direct spectroscopic evidence presents that the primary CO2RR proceeds through the CO2-to-CO pathway (i.e., 2Li+ + 2CO2 + 2e– → CO + Li2CO3) initiated at a low overpotential (ca. 2.1 V vs Li/Li+), and the CO2-to-Li2C2O4 pathway (i.e., 2Li+ + 2CO2 + 2e– → Li2C2O4) initiated at a high overpotential (ca. 1.7 V vs Li/Li+), where the potential-dependent pathways critically depend on the coverage of LiCO2 intermediates. Simultaneously, the entire Li-CO2RR process is also accompanied by parasitic reactions to form gaseous C2H4 with COOH* as the crucial intermediate, which is induced by the H+-abstraction reaction between the reactive LiCO2 intermediate and the DMSO solvent. These fundamental insights enable us to establish a molecular picture for Li-CO2RR pathways in aprotic media and will serve as a crucial guideline for reversible Li-CO2 electrochemistry.    
+
+    
+
+## CO2 levels, technical breakage and quality of maize grains stored under different conditions   
+
+OpenAlex: https://openalex.org/W4399745960    
+Open access: False
+    
+[Diene Gonçalves Souza](https://openalex.org/A5058745123), [Osvaldo Resende](https://openalex.org/A5068851982), [Jacson Zuchi](https://openalex.org/A5030245288), [Geraldo Acácio Mabasso](https://openalex.org/A5027254178), Revista Brasileira de Engenharia Agrícola e Ambiental. 28(8)] 2024.https://doi.org/10.1590/1807-1929/agriambi.v28n8e279894.
+    
+ABSTRACT The use of CO2 sensors has been reported as an effective tool in the early detection of signs of deterioration, allowing good accuracy in decision-making about the quality of stored grains. The objective of this study was to quantify the CO2 levels produced by maize grains stored at ambient temperature in a prototype silo, with initial moisture contents of 14, 16 and 18% w.b., and to evaluate the quality of the product over time and the technical breakage. Analyses of moisture content, ash, proteins, lipids, Hue Angle (color), germination and electrical conductivity were performed. Inside the silos, the amount of CO2, relative air humidity and temperature were monitored every hour. Grain quality evaluations were carried out at four storage times (0, 30, 60 and 90 days). A completely randomized design in a 3 × 4 factorial scheme with six replicates was used. Grains with higher moisture contents showed higher technical breakage and losses associated with CO2 emissions. Moisture content, protein, lipids, germination, bulk density, lightness and chroma decreased over time, while the electrical conductivity increased, resulting in greater damage to membranes and loss of quality of maize grains. Monitoring of CO2 in the grain mass is a good tool to assess the quality of grain, and higher initial moisture content caused greater level of CO2 emission and reduction in quality of maize grains.    
+
+    
+
+## Direct Microenvironment Modulation of CO2 Electroreduction: Negatively Charged Ag Sites Going beyond Catalytic Surface Reactions   
+
+OpenAlex: https://openalex.org/W4399930503    
+Open access: False
+    
+[Ruoyun Dai](https://openalex.org/A5072082610), [Kaian Sun](https://openalex.org/A5028017378), [Rongan Shen](https://openalex.org/A5054443614), [Jinjie Fang](https://openalex.org/A5058504115), [Weng-Chon Cheong](https://openalex.org/A5062840369), [Zewen Zhuang](https://openalex.org/A5089567081), [Zhongbin Zhuang](https://openalex.org/A5076411026), [Chao Zhang](https://openalex.org/A5073788953), [Chen Chen](https://openalex.org/A5063253432), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202408580.
+    
+Electrochemical reduction of CO2 is an important way to achieve carbon neutrality, and much effort has been devoted to the design of active sites. Apart from elevating intrinsic activity, expanding the functionality of active site may also boost catalytic performance. Here we have designed “negatively charged Ag (nc‐Ag)” active sites featuring both the intrinsic activity and the capability of regulating microenvironment, through modifying Ag nanoparticles with atomically dispersed Sn species. Different from conventional active sites (which only govern surface process by bonding with the intermediates), the nc‐Ag sites could manipulate environmental species. Therefore, the sites could not only activate CO2, but also regulate interfacial H2O and CO2, as confirmed by operando spectroscopies. The catalyst delivers a high current density with CO faradaic efficiency of 97%. Our work here opens up new opportunities for the design of multifunctional electrocatalytic active sites.    
 
     
 
@@ -1162,17 +1272,6 @@ Ecopetrol, based on the results obtained in the study "The Effect of Diesel Prop
 
     
 
-## Pregnancy outcomes as related to in utero exposure to air pollution and greenness: The Life-GAP Project   
-
-OpenAlex: https://openalex.org/W4399907189    
-Open access: True
-    
-[Robin Mzati Sinsamala](https://openalex.org/A5075299720), [Ane Johannessen](https://openalex.org/A5015652017), [Randi J. Bertelsen](https://openalex.org/A5054512428), [Simone Accordini](https://openalex.org/A5065610041), [Jørgen Brandt](https://openalex.org/A5065899366), [Lise M. Frohn](https://openalex.org/A5041945544), [Camilla Geels](https://openalex.org/A5082581740), [Þórarinn Gíslason](https://openalex.org/A5000191223), [Mathias Holm](https://openalex.org/A5079364142), [Christer Janson](https://openalex.org/A5046972409), [Iana Markevych](https://openalex.org/A5060187217), [Hans Orru](https://openalex.org/A5069782238), [Francisco Gómez Real](https://openalex.org/A5033710516), [Torben Sigsgaard](https://openalex.org/A5081671392), [Svein Magne Skulstad](https://openalex.org/A5047711796), [Cecilie Svanes](https://openalex.org/A5004587009), [Alessandro Marcon](https://openalex.org/A5069995593), Environmental epidemiology. 8(4)] 2024.https://doi.org/10.1097/ee9.0000000000000318.
-    
-Background: Lower birth weight and preterm birth may increase the risk of adverse health outcomes later in life. We examined whether maternal exposure to air pollution and greenness during pregnancy is associated with offspring birth weight and preterm birth. Methods: We analyzed data on 4286 singleton births from 2358 mothers from Respiratory Health in Northern Europe, a prospective questionnaire-based cohort study (1990–2010). Mixed-effects regression models with random intercepts for mothers and centers were used to estimate the association of exposures to particulate matter (PM 2.5 and PM 10 ), nitrogen dioxide (NO 2 ), ozone (O 3 ), black carbon (BC), and greenness (Normalized Difference Vegetation Index in 300m-buffers [NDVI 300m ]) with birth outcomes, adjusting for potential confounders. Results: Median (interquartile range [IQR]) exposures to PM 2.5 , PM 10 , NO 2 , O 3 , BC, and NDVI 300m during pregnancy were 8.4(5.0) µg/m 3 , 14.4(8.3) µg/m 3 , 14.0(11.0) µg/m 3 , 54.7(10.2) µg/m 3 , 0.47(0.41) µg/m 3 , and 0.31(0.20), respectively. IQR increases in air pollution exposures during pregnancy were associated with decreased birth weight and the strongest association was seen for PM 2.5 (−49g; 95% confidence interval [CI] = −83, −16). However, O 3 showed an opposite association. IQR increase in NDVI 300m was associated with an increase in birth weight of 25 g (95% CI = 7, 44). Preterm birth was not associated with the exposures. Conclusion: Increased greenness and decreased air pollution may contribute to healthier pregnancies and improve overall health in the next generation. This emphasizes the need to adopt policies that target the reduction of air pollution emissions and exposure of the population.    
-
-    
-
 ## Dynamics of the Boundary Layer in Pulsed CO2 Electrolysis   
 
 OpenAlex: https://openalex.org/W4399742751    
@@ -1192,6 +1291,17 @@ Open access: True
 [Matthias Heßelmann](https://openalex.org/A5057158418), [Daniel Felder](https://openalex.org/A5056129689), [Wenzel Plischka](https://openalex.org/A5099164110), [Shazman Nabi](https://openalex.org/A5045763221), [John Linkhorst](https://openalex.org/A5020337417), [Matthias Wessling](https://openalex.org/A5072376417), [Robert Keller](https://openalex.org/A5012226789), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202406924 ([pdf](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/anie.202406924)).
     
 Electrochemical reduction of CO2 poses a vast potential to contribute to a defossilized industry. Despite tremendous developments within the ﬁeld, mass transport limitations, carbonate salt formation, and electrode degradation mechanisms still hamper the process performance. One promising approach to tweak CO2 electrolysis beyond today's limitations is pulsed electrolysis with potential cycling between an operating and a regeneration mode. Here, we rigorously model the boundary layer at a silver electrode in pulsed operation to get profound insights into the dynamic reorganization of the electrode microenvironment. In our simulation, pulsed electrolysis leads to a significant improvement of up to six times higher CO current density and 20 times higher cathodic energy eﬃciency when pulsing between -1.85 and -1.05 V vs SHE compared to constant potential operation. We found that elevated reactant availability in pulsed electrolysis originates from alternating replenishment of CO2 by diﬀusion and not from pH-induced carbonate and bicarbonate conversion. Moreover, pulsed electrolysis substantially promotes carbonate removal from the electrode by up to 83 % compared to constant potential operation, thus reducing the risk of salt formation. Therefore, this model lays the groundwork for an accurate simulation of the dynamic boundary layer modulation, which can provide insights into manifold electrochemical conversions.    
+
+    
+
+## Pregnancy outcomes as related to in utero exposure to air pollution and greenness: The Life-GAP Project   
+
+OpenAlex: https://openalex.org/W4399907189    
+Open access: True
+    
+[Robin Mzati Sinsamala](https://openalex.org/A5075299720), [Ane Johannessen](https://openalex.org/A5015652017), [Randi J. Bertelsen](https://openalex.org/A5054512428), [Simone Accordini](https://openalex.org/A5065610041), [Jørgen Brandt](https://openalex.org/A5065899366), [Lise M. Frohn](https://openalex.org/A5041945544), [Camilla Geels](https://openalex.org/A5082581740), [Þórarinn Gíslason](https://openalex.org/A5000191223), [Mathias Holm](https://openalex.org/A5079364142), [Christer Janson](https://openalex.org/A5046972409), [Iana Markevych](https://openalex.org/A5060187217), [Hans Orru](https://openalex.org/A5069782238), [Francisco Gómez Real](https://openalex.org/A5033710516), [Torben Sigsgaard](https://openalex.org/A5081671392), [Svein Magne Skulstad](https://openalex.org/A5047711796), [Cecilie Svanes](https://openalex.org/A5004587009), [Alessandro Marcon](https://openalex.org/A5069995593), Environmental epidemiology. 8(4)] 2024.https://doi.org/10.1097/ee9.0000000000000318.
+    
+Background: Lower birth weight and preterm birth may increase the risk of adverse health outcomes later in life. We examined whether maternal exposure to air pollution and greenness during pregnancy is associated with offspring birth weight and preterm birth. Methods: We analyzed data on 4286 singleton births from 2358 mothers from Respiratory Health in Northern Europe, a prospective questionnaire-based cohort study (1990–2010). Mixed-effects regression models with random intercepts for mothers and centers were used to estimate the association of exposures to particulate matter (PM 2.5 and PM 10 ), nitrogen dioxide (NO 2 ), ozone (O 3 ), black carbon (BC), and greenness (Normalized Difference Vegetation Index in 300m-buffers [NDVI 300m ]) with birth outcomes, adjusting for potential confounders. Results: Median (interquartile range [IQR]) exposures to PM 2.5 , PM 10 , NO 2 , O 3 , BC, and NDVI 300m during pregnancy were 8.4(5.0) µg/m 3 , 14.4(8.3) µg/m 3 , 14.0(11.0) µg/m 3 , 54.7(10.2) µg/m 3 , 0.47(0.41) µg/m 3 , and 0.31(0.20), respectively. IQR increases in air pollution exposures during pregnancy were associated with decreased birth weight and the strongest association was seen for PM 2.5 (−49g; 95% confidence interval [CI] = −83, −16). However, O 3 showed an opposite association. IQR increase in NDVI 300m was associated with an increase in birth weight of 25 g (95% CI = 7, 44). Preterm birth was not associated with the exposures. Conclusion: Increased greenness and decreased air pollution may contribute to healthier pregnancies and improve overall health in the next generation. This emphasizes the need to adopt policies that target the reduction of air pollution emissions and exposure of the population.    
 
     
 
@@ -1228,6 +1338,17 @@ The synthesis, physicochemical, and functional properties of composite solids re
 
     
 
+## In situ Mössbauer spectroscopy study of the activation and reducibility of chromium- and aluminium-doped iron oxide based water-gas shift catalysts under industrially relevant conditions   
+
+OpenAlex: https://openalex.org/W4399786899    
+Open access: True
+    
+[M.I. Ariëns](https://openalex.org/A5010703221), [E. Brück](https://openalex.org/A5011930348), [Leon G. A. van de Water](https://openalex.org/A5055321878), [Emiel J. M. Hensen](https://openalex.org/A5065080571), [A. Iulian Dugulan](https://openalex.org/A5041244256), Applied catalysis. B, Environmental. 357(None)] 2024.https://doi.org/10.1016/j.apcatb.2024.124316.
+    
+The influence of chromium and aluminium doping on the over-reduction during activation of iron-oxide-based water-gas shift catalysts was investigated using Mössbauer spectroscopy for the first time. In situ Mössbauer spectra of catalysts exposed to industrially relevant gas compositions were recorded with increasingly reducing R factors R = [CO]*[H2]/[CO2]*[H2O]. Whereas α-Fe and cementite formed during exposure of a non-doped iron-oxide catalyst to process conditions with an R factor of 2.09, such phases were only observed at R = 4.60 for a chromium-doped catalyst, showing that chromium stabilizes the catalyst. Over-reduction was enhanced to R = 2.88 in a chromium-copper co-doped catalyst. α-Fe was already observed at R = 1.64 in an aluminium-doped catalyst, while cementite formation occurred at R = 2.09, showing that over-reduction was enhanced, the presence of aluminium delaying carburization. Co-doping copper in the aluminium-doped catalyst showed cementite formation at R = 2.09, the same as a non-doped catalyst.    
+
+    
+
 ## 7 Microbial electrotechnology – Intensification of bioprocesses through the combination of electrochemistry and biotechnology   
 
 OpenAlex: https://openalex.org/W4399772752    
@@ -1236,6 +1357,17 @@ Open access: False
 [Markus Stöckl](https://openalex.org/A5020571010), [André Gemünde](https://openalex.org/A5015502773), [Dirk Holtmann](https://openalex.org/A5051575088), De Gruyter eBooks. None(None)] 2024.https://doi.org/10.1515/9783110760330-007.
     
 Both biotechnological and electrochemical processes have economic and environmental significance. In particular, biotechnological processes are very specific and stable, while electrochemical processes are generally very atom-and energy-efficient. A combination of these processes is therefore a potentially important approach to intensify biotechnological processes. In this paper, the relevant options for process integration are presented, key performance indicators for quantitative evaluation are given, and an evaluation based on performance indicators is carried out using the example of the electrochemical reduction of CO2 to formate and the subsequent biotechnological conversion to the biopolymer polyhydroxybutyrate.    
+
+    
+
+## Soil respiration response to reductions in maize plant density and increased row spacing (Southeast pampas, Argentina)   
+
+OpenAlex: https://openalex.org/W4399903474    
+Open access: False
+    
+[Nuria Lewczuk](https://openalex.org/A5004365786), [Liliana I. Picone](https://openalex.org/A5012739839), [Marı́a Mercedes Echarte](https://openalex.org/A5033382078), [C. Alfonso](https://openalex.org/A5083283368), [Roberto H. Rizzalli](https://openalex.org/A5034704739), [Laura Echarte](https://openalex.org/A5035854740), Geoderma regional. None(None)] 2024.https://doi.org/10.1016/j.geodrs.2024.e00828.
+    
+Previous studies have recognized the influence of crop cover and agricultural management on variables (soil temperature, soil moisture, and root biomass) that influence soil respiration. However, despite the influence of plant density and row spacing on these variables in the maize crop (Zea mays L.), their impact on soil respiration has received little attention. Thus, the aims of this study were (i) to investigate whether reducing plant density and row spacing influences soil respiration, and (ii) to identify the controlling variables (soil temperature and soil moisture) underlying this response. We conducted field experiments in Balcarce, Argentina, over two seasons. Treatments included (i) maize crops at high plant density (≈8 plants m−2) and narrow rows (0.52 cm, HDN), and (ii) maize crops at low plant density (≈6.5 plants m−2) and wide row spacing (0.70 cm; LDW). Leaf area index (LAI), soil CO2 fluxes, soil superficial temperature, and moisture (characterized by the water-filled pore space, WFPS) were assessed throughout the growing season. Grain yield and cumulative soil CO2 emissions were determined at the final harvest. Major findings relevant to understanding the influence of reducing plant density and wider row spacing on instant CO2 fluxes include: (i) LAI reductions were related to higher superficial soil moisture, which was consistent at LAI ≥ 3; suggesting higher decreases in water uptake than increases in soil evaporation, and in turn (ii) increments in soil moisture were associated with higher CO2 fluxes. While lower plant density and wider row spacing had notable short-term effects on WFPS and soil respiration fluxes, they did not significantly affect cumulative soil respiration throughout the growing season. However, the combination of this practice with low-yield potential genotypes that exhibit low stability to changes in resource availability can increase CO2 emissions per unit of grain yield. These findings contribute to a better understanding of the impacts of management practices on soil respiration and, consequently, on carbon cycling within agricultural ecosystems.    
 
     
 
@@ -1305,17 +1437,6 @@ Simply expressed, the circular economy implies that the people living on Earth s
 
     
 
-## Altering the CO2 electroreduction pathways towards C1 or C2+ products via engineering the strength of interfacial Cu‐O bond   
-
-OpenAlex: https://openalex.org/W4399755917    
-Open access: False
-    
-[Zu-Guo Yu](https://openalex.org/A5026047510), [Yicheng Li](https://openalex.org/A5028956096), [Nana Gao](https://openalex.org/A5001822170), [Ernest Pahuyo Delmo](https://openalex.org/A5078369945), [Guofu Hou](https://openalex.org/A5023512437), [A-Li Luo](https://openalex.org/A5006467926), [Dongyang Wang](https://openalex.org/A5016806564), [Ke Chen](https://openalex.org/A5070243838), [Markus Antonietti](https://openalex.org/A5075963769), [Tianxi Liu](https://openalex.org/A5088949593), [Zhihong Tian](https://openalex.org/A5049647814), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404676.
-    
-Copper (Cu)-based catalysts have established their unique capability for yielding wide value-added products from CO2. Herein, we demonstrate that the pathways of the electrocatalytic CO2 reduction reaction (CO2RR) can be rationally altered toward C1 or C2+ products by simply optimizing the coordination of Cu with O-containing organic species (squarate (C4O4) and cyclohexanhexanone (C6O6)). It is revealed that the strength of Cu-O bonds can significantly affect the morphologies and electronic structures of derived Cu catalysts, resulting in the distinct behaviors during CO2RR. Specifically, the C6O6-Cu catalysts made up from organized nanodomains shows a dominant C1 pathway with a total Faradaic efficiency (FE) of 63.7% at -1.0 V (versus reversible hydrogen electrode, RHE). In comparison, the C4O4-Cu with an about perfect crystalline structure results in uniformly dispersed Cu-atoms, showing a notable FE of 65.8% for C2+ products with enhanced capability of C-C coupling. The latter system also shows stable operation over at least 10 h with a high current density of 205.1 mA cm-2 at -1.0 VRHE, i.e. is already at the boarder of practical relevance. This study sheds light on the rational design of Cu-based catalysts for directing the CO2RR reaction pathway.    
-
-    
-
 ## Decomposing Carbon Intensity Trends in China’s Civil Aviation: A Comprehensive Analysis from 1998 to 2019   
 
 OpenAlex: https://openalex.org/W4399730697    
@@ -1327,14 +1448,14 @@ Carbon emission intensity is an important index reflecting an entity’s low-car
 
     
 
-## Tuning Selectivity of CO2 Hydrogenation via Support Composition Modification Adjusted the Activity Reduction of H Species over Ce1–xPrxO2−δ-Supported Metal (Ru, Rh) Nanoclusters   
+## Altering the CO2 electroreduction pathways towards C1 or C2+ products via engineering the strength of interfacial Cu‐O bond   
 
-OpenAlex: https://openalex.org/W4399871818    
+OpenAlex: https://openalex.org/W4399755917    
 Open access: False
     
-[De‐Jiu Wang](https://openalex.org/A5044266671), [Xiaochen Sun](https://openalex.org/A5034651849), [Hai‐Jing Yin](https://openalex.org/A5066996921), [Hao Dong](https://openalex.org/A5050592208), [Haichao Liu](https://openalex.org/A5089739373), [Yawen Zhang](https://openalex.org/A5045398749), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01201.
+[Zu-Guo Yu](https://openalex.org/A5026047510), [Yicheng Li](https://openalex.org/A5028956096), [Nana Gao](https://openalex.org/A5001822170), [Ernest Pahuyo Delmo](https://openalex.org/A5078369945), [Guofu Hou](https://openalex.org/A5023512437), [A-Li Luo](https://openalex.org/A5006467926), [Dongyang Wang](https://openalex.org/A5016806564), [Ke Chen](https://openalex.org/A5070243838), [Markus Antonietti](https://openalex.org/A5075963769), [Tianxi Liu](https://openalex.org/A5088949593), [Zhihong Tian](https://openalex.org/A5049647814), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/anie.202404676.
     
-Selectivity control of supported metal catalysts, which are most widely utilized in the field of heterogeneous catalysis, is of great scientific significance to obtaining the desired chemical product in a multipath reaction but has remained a grand challenging issue. In this work, we demonstrate that the selectivity of CO2 hydrogenation from CH4 to CO can be tuned by a robust and unique support doping strategy by changing the reduction activity of H species over M/Ce1–xPrxO2−δ (M = Ru, Rh) in which metal (M) nanoclusters showed the same existence form on differently doped ceria nanorod supports. The CH4 selectivity of the catalyst decreased with an increase in the Pr content in the support. The selectivity of CH4 on Ru/CeO2 was higher than 90%, while on Ru/Ce0.2Pr0.8O2−δ, the selectivity of CO reached 80%. A variety of techniques, including steady-state isotope transient kinetic analysis (SSITKA) type in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS)–mass spectrum (MS), temperature-programmed desorption (TPD) and temperature-programmed surface reaction (TPSR), had been applied in this work to analyze the structure–activity relationship between the doping of Pr and the selectivity of the CO2 hydrogenation reaction. Ru sites were not directly involved in the hydrogenation of carbon-containing intermediate species (including bicarbonate and formate) during the CO2 hydrogenation reaction. The active H species on the support sites, which are incorporated in RE3+–OH, directly contacted and reacted with the carbon-containing intermediate species. The introduction of Pr in the support weakened the reducing ability of the support, thus decreasing the reducing ability of H species on the surface of the catalyst, which further hindered the conversion of formate into CH4, resulting in the declined CH4 selectivity. Our study clearly revealed the important role of support in the CO2 hydrogenation reaction and proposed a strategy to modulate the reaction selectivity via support doping. By changing the redox performance of the support, the activity of H species on the support can be adjusted. Thus, the conversion of important reaction intermediates (such as formate) can be affected, so as to achieve precise regulation of the reaction products. We have provided a broader perspective for the selective catalyst design of heterogeneous catalysis and the reaction mechanism study of supported metal catalysts.    
+Copper (Cu)-based catalysts have established their unique capability for yielding wide value-added products from CO2. Herein, we demonstrate that the pathways of the electrocatalytic CO2 reduction reaction (CO2RR) can be rationally altered toward C1 or C2+ products by simply optimizing the coordination of Cu with O-containing organic species (squarate (C4O4) and cyclohexanhexanone (C6O6)). It is revealed that the strength of Cu-O bonds can significantly affect the morphologies and electronic structures of derived Cu catalysts, resulting in the distinct behaviors during CO2RR. Specifically, the C6O6-Cu catalysts made up from organized nanodomains shows a dominant C1 pathway with a total Faradaic efficiency (FE) of 63.7% at -1.0 V (versus reversible hydrogen electrode, RHE). In comparison, the C4O4-Cu with an about perfect crystalline structure results in uniformly dispersed Cu-atoms, showing a notable FE of 65.8% for C2+ products with enhanced capability of C-C coupling. The latter system also shows stable operation over at least 10 h with a high current density of 205.1 mA cm-2 at -1.0 VRHE, i.e. is already at the boarder of practical relevance. This study sheds light on the rational design of Cu-based catalysts for directing the CO2RR reaction pathway.    
 
     
 
@@ -1346,6 +1467,17 @@ Open access: False
 [Zu-Guo Yu](https://openalex.org/A5026047510), [Yicheng Li](https://openalex.org/A5028956096), [Nana Gao](https://openalex.org/A5001822170), [Ernest Pahuyo Delmo](https://openalex.org/A5078369945), [Guofu Hou](https://openalex.org/A5023512437), [A-Li Luo](https://openalex.org/A5006467926), [Dongyang Wang](https://openalex.org/A5016806564), [Ke Chen](https://openalex.org/A5070243838), [Markus Antonietti](https://openalex.org/A5075963769), [Tianxi Liu](https://openalex.org/A5088949593), [Zhihong Tian](https://openalex.org/A5049647814), Angewandte Chemie. None(None)] 2024.https://doi.org/10.1002/ange.202404676.
     
 Copper (Cu)‐based catalysts have established their unique capability for yielding wide value‐added products from CO2. Herein, we demonstrate that the pathways of the electrocatalytic CO2 reduction reaction (CO2RR) can be rationally altered toward C1 or C2+ products by simply optimizing the coordination of Cu with O‐containing organic species (squarate (C4O4) and cyclohexanhexanone (C6O6)). It is revealed that the strength of Cu‐O bonds can significantly affect the morphologies and electronic structures of derived Cu catalysts, resulting in the distinct behaviors during CO2RR. Specifically, the C6O6‐Cu catalysts made up from organized nanodomains shows a dominant C1 pathway with a total Faradaic efficiency (FE) of 63.7% at ‐1.0 V (versus reversible hydrogen electrode, RHE). In comparison, the C4O4‐Cu with an about perfect crystalline structure results in uniformly dispersed Cu‐atoms, showing a notable FE of 65.8% for C2+ products with enhanced capability of C‐C coupling. The latter system also shows stable operation over at least 10 h with a high current density of 205.1 mA cm‐2 at ‐1.0 VRHE, i.e. is already at the boarder of practical relevance. This study sheds light on the rational design of Cu‐based catalysts for directing the CO2RR reaction pathway.    
+
+    
+
+## Tuning Selectivity of CO2 Hydrogenation via Support Composition Modification Adjusted the Activity Reduction of H Species over Ce1–xPrxO2−δ-Supported Metal (Ru, Rh) Nanoclusters   
+
+OpenAlex: https://openalex.org/W4399871818    
+Open access: False
+    
+[De‐Jiu Wang](https://openalex.org/A5044266671), [Xiaochen Sun](https://openalex.org/A5034651849), [Hai‐Jing Yin](https://openalex.org/A5066996921), [Hao Dong](https://openalex.org/A5050592208), [Haichao Liu](https://openalex.org/A5089739373), [Yawen Zhang](https://openalex.org/A5045398749), ACS catalysis. None(None)] 2024.https://doi.org/10.1021/acscatal.4c01201.
+    
+Selectivity control of supported metal catalysts, which are most widely utilized in the field of heterogeneous catalysis, is of great scientific significance to obtaining the desired chemical product in a multipath reaction but has remained a grand challenging issue. In this work, we demonstrate that the selectivity of CO2 hydrogenation from CH4 to CO can be tuned by a robust and unique support doping strategy by changing the reduction activity of H species over M/Ce1–xPrxO2−δ (M = Ru, Rh) in which metal (M) nanoclusters showed the same existence form on differently doped ceria nanorod supports. The CH4 selectivity of the catalyst decreased with an increase in the Pr content in the support. The selectivity of CH4 on Ru/CeO2 was higher than 90%, while on Ru/Ce0.2Pr0.8O2−δ, the selectivity of CO reached 80%. A variety of techniques, including steady-state isotope transient kinetic analysis (SSITKA) type in situ diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS)–mass spectrum (MS), temperature-programmed desorption (TPD) and temperature-programmed surface reaction (TPSR), had been applied in this work to analyze the structure–activity relationship between the doping of Pr and the selectivity of the CO2 hydrogenation reaction. Ru sites were not directly involved in the hydrogenation of carbon-containing intermediate species (including bicarbonate and formate) during the CO2 hydrogenation reaction. The active H species on the support sites, which are incorporated in RE3+–OH, directly contacted and reacted with the carbon-containing intermediate species. The introduction of Pr in the support weakened the reducing ability of the support, thus decreasing the reducing ability of H species on the surface of the catalyst, which further hindered the conversion of formate into CH4, resulting in the declined CH4 selectivity. Our study clearly revealed the important role of support in the CO2 hydrogenation reaction and proposed a strategy to modulate the reaction selectivity via support doping. By changing the redox performance of the support, the activity of H species on the support can be adjusted. Thus, the conversion of important reaction intermediates (such as formate) can be affected, so as to achieve precise regulation of the reaction products. We have provided a broader perspective for the selective catalyst design of heterogeneous catalysis and the reaction mechanism study of supported metal catalysts.    
 
     
 
@@ -1382,17 +1514,6 @@ One of the urgent problems today is the increased energy consumption in the indu
 
     
 
-## Molecular principles of redox-coupled sodium pumping of the ancient Rnf machinery   
-
-OpenAlex: https://openalex.org/W4399922283    
-Open access: True
-    
-[Anuj Kumar](https://openalex.org/A5022114916), [Jennifer Roth](https://openalex.org/A5087171832), [Hyun Ho Kim](https://openalex.org/A5004821252), [Patricia Saura](https://openalex.org/A5007543839), [Stefan Bohn](https://openalex.org/A5034051746), [Tristan Reif-Trauttmansdorff](https://openalex.org/A5052538021), [Anja Schubert](https://openalex.org/A5091745685), [Ville R. I. Kaila](https://openalex.org/A5063740635), [Jan M. Schuller](https://openalex.org/A5081245410), [Volkmar Mueller](https://openalex.org/A5022606829), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.06.21.599731 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/06/21/2024.06.21.599731.full.pdf)).
-    
-The Rnf complex is the primary respiratory enzyme of several anaerobic prokaryotes that transfers electrons from ferredoxin to NAD+ and pumps sodium ions (Na+) across a membrane, powering ATP synthesis. Rnf is widespread in primordial organisms and the evolutionary predecessor of the Na+-pumping NADH-quinone oxidoreductase (Nqr)1. By running in reverse, Rnf reduces ferredoxin with NADH as reductant at the expense of the transmembrane electrochemical ion gradient and provides low potential electrons for nitrogenases as well as CO2 reductases. Yet, the molecular principles that couple the long-range electron transfer to the Na+ translocation across the membrane remain elusive. Here we resolve key functional states along the electron transfer pathway using redox-controlled cryo-electron microscopy (cryo-EM) that, in combination with biochemical functional assays and atomistic molecular simulations, provide key insight into the redox-driven Na+ pumping mechanism. We show that the reduction of the unique membrane-embedded [2Fe2S] cluster in the vestibule between the RnfA/E subunits electrostatically attracts the sodium ions, and in turn, triggers an inward/outward transition with alternating membrane access driving the Na+ pump and the reduction of NAD+. Our study unveils an ancient mechanism for redox-driven ion pumping, and provides key understanding of the fundamental principles governing energy conversion in biological systems.    
-
-    
-
 ## Theoretical Investigation of the Potential-Dependent CO Adsorption on Copper Electrodes   
 
 OpenAlex: https://openalex.org/W4399729877    
@@ -1404,14 +1525,25 @@ Despite the importance of CO adsorption in many electrocatalytic reaction mechan
 
     
 
-## The Selectivity Origins in Ag-Catalyzed CO2 Electroreduction   
+## Molecular principles of redox-coupled sodium pumping of the ancient Rnf machinery   
 
-OpenAlex: https://openalex.org/W4399778380    
-Open access: False
+OpenAlex: https://openalex.org/W4399922283    
+Open access: True
     
-[Shenyu Shen](https://openalex.org/A5049092706), [Wei Zhao](https://openalex.org/A5046754513), [Mei Xiang](https://openalex.org/A5043376291), [Tiantian Wu](https://openalex.org/A5002848694), [Shujiang Ding](https://openalex.org/A5065434610), [Yaqiong Su](https://openalex.org/A5013121247), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c00831.
+[Anuj Kumar](https://openalex.org/A5022114916), [Jennifer Roth](https://openalex.org/A5087171832), [Hyun Ho Kim](https://openalex.org/A5004821252), [Patricia Saura](https://openalex.org/A5007543839), [Stefan Bohn](https://openalex.org/A5034051746), [Tristan Reif-Trauttmansdorff](https://openalex.org/A5052538021), [Anja Schubert](https://openalex.org/A5091745685), [Ville R. I. Kaila](https://openalex.org/A5063740635), [Jan M. Schuller](https://openalex.org/A5081245410), [Volkmar Mueller](https://openalex.org/A5022606829), bioRxiv (Cold Spring Harbor Laboratory). None(None)] 2024.https://doi.org/10.1101/2024.06.21.599731 ([pdf](https://www.biorxiv.org/content/biorxiv/early/2024/06/21/2024.06.21.599731.full.pdf)).
     
-Ag exhibits high selectivity of electrochemical CO2 reduction (CO2R) toward C1 products, while the hydrogenation involving the concerted proton–electron transfer (CPET) or sequential electron–proton transfer (SEPT) mechanism is still in debate. Toward a better understanding of the Ag-catalyzed electrochemical CO2R, we employed a microkinetic model based on the Marcus electron transfer theory to thoroughly investigate the selectivity of C1 products of electrochemical CO2R over the Ag(111) surface. We found that at an acidic condition of pH = 1.94, formate is the main product when U < −0.94 V via the CPET mechanism, whereas CO becomes the primary product when U > −0.94 V via the SEPT mechanism. Conversely, at an alkaline condition of pH = 13.95, formate is the main product following the SEPT mechanism. Our findings provide novel insights into the influence of external factors (applied potential and pH) on the product selectivity and hydrogenation mechanism of electrochemical CO2R.    
+The Rnf complex is the primary respiratory enzyme of several anaerobic prokaryotes that transfers electrons from ferredoxin to NAD+ and pumps sodium ions (Na+) across a membrane, powering ATP synthesis. Rnf is widespread in primordial organisms and the evolutionary predecessor of the Na+-pumping NADH-quinone oxidoreductase (Nqr)1. By running in reverse, Rnf reduces ferredoxin with NADH as reductant at the expense of the transmembrane electrochemical ion gradient and provides low potential electrons for nitrogenases as well as CO2 reductases. Yet, the molecular principles that couple the long-range electron transfer to the Na+ translocation across the membrane remain elusive. Here we resolve key functional states along the electron transfer pathway using redox-controlled cryo-electron microscopy (cryo-EM) that, in combination with biochemical functional assays and atomistic molecular simulations, provide key insight into the redox-driven Na+ pumping mechanism. We show that the reduction of the unique membrane-embedded [2Fe2S] cluster in the vestibule between the RnfA/E subunits electrostatically attracts the sodium ions, and in turn, triggers an inward/outward transition with alternating membrane access driving the Na+ pump and the reduction of NAD+. Our study unveils an ancient mechanism for redox-driven ion pumping, and provides key understanding of the fundamental principles governing energy conversion in biological systems.    
+
+    
+
+## Optimization of above-ground environmental factors in greenhouses using a multi-objective adaptive annealing genetic algorithm   
+
+OpenAlex: https://openalex.org/W4399843804    
+Open access: True
+    
+[N. Zhang](https://openalex.org/A5018165196), [Qinyue Tan](https://openalex.org/A5040034862), [Wenfeng Song](https://openalex.org/A5016074700), [Qiuying Li](https://openalex.org/A5039204982), Heliyon. 10(12)] 2024.https://doi.org/10.1016/j.heliyon.2024.e33036 ([pdf](http://www.cell.com/article/S2405844024090674/pdf)).
+    
+The greenhouse environment represents a dynamic, nonlinear system characterized by hysteresis and is influenced by a myriad of interacting environmental parameters, posing a complex multi-variable optimization challenge. This study proposes a multi-objective adaptive annealing genetic algorithm to optimize above-ground environmental factors in greenhouses, addressing the challenges of variable environmental conditions and extensive heating and humidity infrastructure. Initially, after analyzing the multi-objective model of greenhouse above-ground environmental factors, including temperature, relative humidity, and CO2 concentration, a comprehensive multi-objective, multi-constraint model was developed to encapsulate these factors in greenhouse environments. Subsequently, the model optimization incorporated multi-parameter coding of decision variables, a fitness function, and an annealing dynamic penalty factor. Validation conducted at Yangling Agricultural Demonstration Park revealed that the application of multi-objective adaptive annealing genetic algorithms (schemes 1 and 2) significantly outperformed the single-objective genetic algorithm (scheme 3) and the traditional genetic algorithm (scheme 4). Specifically, the improvements included a reduction in average temperature rise by 2.64 °C and 5.29 °C for schemes 1 and 2, respectively, equating to 20 % and 34 % decreases. Additionally, average humidification reductions of 2.39 % and 3.9 % were observed, alongside decreases in the total lengths of heating and humidification pipes by up to 2.99 km and 0.443 km, respectively, with a maximum reduction of 14 % in heating pipes. The integration of an annealing dynamic penalty factor enhanced the adaptive climbing ability of schemes 1 and 2, improving static stability and robustness. Furthermore, the number of iterations required to achieve convergence was reduced by approximately 170–240 times compared to schemes 3 and 4. This reduction in iterations also resulted in a significant decrease in running time by 5–13 min, corresponding to time savings of 31 %–56 %, thereby achieving further optimization.    
 
     
 
@@ -1423,6 +1555,28 @@ Open access: False
 [Avishek Banerjee](https://openalex.org/A5007889081), [C. Patrick Yue](https://openalex.org/A5004527275), [Jounghwan Choi](https://openalex.org/A5025242476), [Carlos G. Morales‐Guio](https://openalex.org/A5074179289), Authorea (Authorea). None(None)] 2024.https://doi.org/10.22541/au.171874542.23196309/v1.
     
 This work explores technical challenges and potential methodologies for understanding electrochemical Reactive CO2 Capture (RCC) mechanisms. RCC offers potential energy cost advantages by directly converting captured CO into fuels and chemicals, unlike traditional carbon capture and utilization (CCU) processes that require sequential capture, concentration, and compression. However, direct conversion of captured CO introduces complexity due to additional equilibrium buffer reactions, making it challenging to identify active species for reduction in electrochemical studies. This work discusses methods to integrate transport, thermodynamics, and kinetics concepts to identify active carbon sources in RCC. Vapor-Liquid Equilibrium (VLE) and transport models are validated against experimental results obtained in a gastight rotating cylinder electrode reactor and are shown as useful tools for studying RCC in heterogeneous electrocatalysts across different capture agents, solvents, and temperatures. This work establishes an experimental framework for advancing research in electrochemical RCC.    
+
+    
+
+## Enhancing Urban Traffic Management in Taipei: A Reinforcement Learning Approach   
+
+OpenAlex: https://openalex.org/W4399729519    
+Open access: False
+    
+[Ivander William](https://openalex.org/A5099161887), [Sergei Kozhevnikov](https://openalex.org/A5037587415), [Moritz Sontheimer](https://openalex.org/A5034466150), [Shou-Yan Chou](https://openalex.org/A5042371391), No host. None(None)] 2024.https://doi.org/10.1109/scsp61506.2024.10552687.
+    
+the study explores the application of reinforcement learning (RL) algorithms and capabilities of the Simulation of Urban Mobility (SUMO) solution to enhance urban traffic management in Taipei. Focusing on two major intersections this research employs Q-learning, a model-free RL algorithm, to optimize traffic signal timings based on real-time transport conditions. The methodology encompasses the vehicles real data collection, as well as traffic light phases, and simulation within the SUMO framework to model urban traffic scenarios. The findings reveal significant improvements in traffic throughput and reductions in trip durations during both peak and non-peak hours, demonstrating the potential of RL algorithms to enhance traffic flow efficiency. The study highlights the algorithm's effectiveness in reducing CO2 emissions, contributing to environmental sustainability goals. The results of the project underscore the importance of adopting advanced computational models in urban traffic management, offering insights into the development of smarter and more sustainable transportation systems.    
+
+    
+
+## The Selectivity Origins in Ag-Catalyzed CO2 Electroreduction   
+
+OpenAlex: https://openalex.org/W4399778380    
+Open access: False
+    
+[Shenyu Shen](https://openalex.org/A5049092706), [Wei Zhao](https://openalex.org/A5046754513), [Mei Xiang](https://openalex.org/A5043376291), [Tiantian Wu](https://openalex.org/A5002848694), [Shujiang Ding](https://openalex.org/A5065434610), [Yaqiong Su](https://openalex.org/A5013121247), The journal of physical chemistry letters. None(None)] 2024.https://doi.org/10.1021/acs.jpclett.4c00831.
+    
+Ag exhibits high selectivity of electrochemical CO2 reduction (CO2R) toward C1 products, while the hydrogenation involving the concerted proton–electron transfer (CPET) or sequential electron–proton transfer (SEPT) mechanism is still in debate. Toward a better understanding of the Ag-catalyzed electrochemical CO2R, we employed a microkinetic model based on the Marcus electron transfer theory to thoroughly investigate the selectivity of C1 products of electrochemical CO2R over the Ag(111) surface. We found that at an acidic condition of pH = 1.94, formate is the main product when U < −0.94 V via the CPET mechanism, whereas CO becomes the primary product when U > −0.94 V via the SEPT mechanism. Conversely, at an alkaline condition of pH = 13.95, formate is the main product following the SEPT mechanism. Our findings provide novel insights into the influence of external factors (applied potential and pH) on the product selectivity and hydrogenation mechanism of electrochemical CO2R.    
 
     
 
@@ -1459,6 +1613,28 @@ Deploying renewable generation to replace conventional fossil-fuel-based energy 
 
     
 
+## LED streetlamps alter tree architecture, downregulate the photosynthetic process and alter the sugar metabolism of Populus alba L.   
+
+OpenAlex: https://openalex.org/W4399904080    
+Open access: True
+    
+[Ermes Lo Piccolo](https://openalex.org/A5062547551), [Sara Torre](https://openalex.org/A5076880215), [Giulia Lauria](https://openalex.org/A5045874592), [Concetta De Quattro](https://openalex.org/A5083508346), [Federico Sebastiani](https://openalex.org/A5013065259), [Lucia Guidi](https://openalex.org/A5040031044), [Damiano Remorini](https://openalex.org/A5046492055), [Rossano Massai](https://openalex.org/A5075187062), [Susanna Pecchia](https://openalex.org/A5027553060), Environmental and experimental botany. None(None)] 2024.https://doi.org/10.1016/j.envexpbot.2024.105861.
+    
+The escalating issue of light pollution in urban environments poses multifaceted challenges, affecting not only the nocturnal sky but also exerting intricate influences on plant physiology. This study delves into the physiological responses of an urban ornamental tree, Populus alba L. clone DI-1, to varying intensities of streetlamp LED night lighting (NL), a shift from traditional High-Pressure Sodium lamps. The investigation "sheds light" on the molecular pathways underlying observed physiological regulations, aiming to offer a comprehensive understanding of the manifold effects of NL on this tree species. NL altered tree architecture, i.e. increased branch length and diameters, underscoring the dynamic response of trees to nocturnal artificial lighting conditions. Regarding tree physiology, the NL-triggered net CO2 assimilation (Pn) during the night resulted in limitations in stomatal conductance during daylight hours. This led to a reduction in Pn, particularly during dawn, hindering the quantum yield for the reduction of end acceptors of PSI. Changes in chlorophyll a-to-b proportion and overall concentration, electron transport chain, and gene expression further highlight the intricate interplay between NL and plant metabolic regulation. Notably, the increased gene expression of sugar transporters in both NL trees suggested a responsive shift in sugar and starch metabolism. This was reflected in the absence of a starch accumulation during daylight hours in NL leaves. The study emphasizes the need for a holistic approach to urban lighting, considering its profound impact on photosynthesizing citizens. These findings highlight the pressing need for the development of innovative lighting spectra with reduced impact on plant physio-chemistry while ensuring visibility for citizen safety.    
+
+    
+
+## A viable supplier selection with order allocation by considering robustness, risk-averse and blockchain technology   
+
+OpenAlex: https://openalex.org/W4399796004    
+Open access: False
+    
+[Reza Lotfi](https://openalex.org/A5029686732), [Amirhossein Khanbaba](https://openalex.org/A5076344352), [Hamzah Ali Alkhazaleh](https://openalex.org/A5047932140), [Mark A. Changizi](https://openalex.org/A5040385367), [Marta Kadłubek](https://openalex.org/A5036242614), [Sina Aghakhani](https://openalex.org/A5004969959), [Sadia SamarAli](https://openalex.org/A5099241764), Computers & industrial engineering. None(None)] 2024.https://doi.org/10.1016/j.cie.2024.110319.
+    
+The research introduces a novel approach called Viable Supplier Selection with Order Allocation considering Robustness and Risk-Aversion (VSSOARR), incorporating Blockchain Technology (BCT). The model utilizes a Robust Stochastic Optimization (RSO) technique with Weighted Value at Risk (WVaR) in the cost function. The objective function of this model combines the expected value and WVaR cost. The BCT platform is recommended to enhance agility in the face of disruptions. The research proposes sustainable requirements such as minimizing CO2 emissions and energy consumption management, ensuring minimum demand satisfaction, and incorporating facility capacity based on specific scenarios to enhance resiliency. The study involves various stakeholders, including suppliers and manufacturers. The main purpose of utilizing BCT is to facilitate swift transactions between components and support risk-averse decision-making. Integrating BCT as an agility instrument resulted in a 16.93% cost reduction for VSSOARR compared to scenarios where BCT was not considered. The research suggests incorporating viability with BCT positively impacts the supply chain's overall performance. A sensitivity analysis was conducted on the conservatism coefficient, confidence level, agility rate, demand variation, and problem size.    
+
+    
+
 ## Electronic Tunability of Ruthenium Formyl and Hydroxymethyl Intermediates Relevant to Sustainable CO-to-Methanol Conversion   
 
 OpenAlex: https://openalex.org/W4399808244    
@@ -1467,6 +1643,17 @@ Open access: True
 [Jared Z. Litman](https://openalex.org/A5093897529), [Rida Farhat](https://openalex.org/A5076557813), [Kaitlin Branch](https://openalex.org/A5050016578), [Sasha Cryan](https://openalex.org/A5099246916), [Kaeden Teindl](https://openalex.org/A5065725990), [Brian O. Patrick](https://openalex.org/A5081446249), [Eva M. Nichols](https://openalex.org/A5072771784), No host. None(None)] 2024.https://doi.org/10.26434/chemrxiv-2024-qp40w ([pdf](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6671dd8801103d79c585a7fb/original/electronic-tunability-of-ruthenium-formyl-and-hydroxymethyl-intermediates-relevant-to-sustainable-co-to-methanol-conversion.pdf)).
     
 Metal formyl and hydroxymethyl complexes are implicated as key intermediates in the (photo)electrochemical reduction of carbon oxides (CO2 or CO) to liquid fuels such as methanol. Formyl complexes—and to a lesser extent hydroxymethyl complexes—have been previously synthesized and characterized; nevertheless, the influence of electronic modifications to ligands supporting these reactive carbon fragments is not well understood. Herein, we report the synthesis of a family of ruthenium polypyridyl carbonyl complexes of the form [Ru(4,4’-R,R-bpy)(tpy)(CO)] 2+ bearing different substituents on the bipyridyl (bpy) ligand (R = OMe, H, CF3). Treatment with NaBH4 as a chemical reductant results in formation of the formyl and subsequently the hydroxymethyl and methyl complexes; each are characterized by comprehensive NMR spectroscopy, mass spectrometry, and isotopic labeling studies. An electron-donating modification (R = OMe) to the bpy ligand is shown to significantly increase the lifetime of the formyl intermediate and the yield of released methanol. We observe a clear linear dependence of thermodynamic parameters on bpy electronics, however the stability of the formyl complex and the reactivity of the resulting hydroxymethyl complex do not depend linearly on ligand electronics. We anticipate that these results may be extended to future development of (photo)electrocatalytic systems for CO-to-methanol conversion.    
+
+    
+
+## Experimental study on ammonia-diesel co-combustion in a dual-fuel compression ignition engine   
+
+OpenAlex: https://openalex.org/W4399799167    
+Open access: False
+    
+[Arkadiusz Jamrozik](https://openalex.org/A5015371918), [Wojciech Tutak](https://openalex.org/A5045290347), [Michał Pyrc](https://openalex.org/A5019975062), [Karol Grab-Rogaliński](https://openalex.org/A5036016756), Journal of the Energy Institute. 115(None)] 2024.https://doi.org/10.1016/j.joei.2024.101711.
+    
+Ammonia, as a carbon-free renewable fuel and a potential hydrogen carrier, is gaining increasing interest in addressing greenhouse gas emissions in industrial applications and transportation. This paper presents experimental studies on the co-combustion of ammonia with diesel fuel in a single-cylinder industrial compression ignition engine operating in dual-fuel mode. The energy share of ammonia ranged from 0 to 60%. Increasing the proportion of ammonia compared to diesel fuel in the compression ignition engine leads to a change in the combustion process character, increasing the kinetic combustion phase at the expense of diffusive combustion. However, it does not result in an increase in the peak pressure rise (PPR) beyond the permissible value of 1 MPa/deg for piston engines. It increases ignition delay and shortens the combustion duration, while also increasing thermal efficiency and decreasing specific energy consumption. An increase in the NH3 share results in a decrease in combustion efficiency, a reduction in unit emissions of NO, CO2, and soot, and an increase in CO emissions. Beyond 42% ammonia share, it reduces unit THC emissions. At a 42% ammonia share, the dual-fuel engine achieves the highest indicated thermal efficiency (ITE), lowest specific energy consumption (SEC), shortest combustion duration, and lowest unit soot emissions.    
 
     
 
@@ -1481,6 +1668,17 @@ The investigation of fundamental properties of low-valent molybdenum complexes b
 
     
 
+## Coordinated operation for a resilient and green energy-water supply system: A co-optimization approach with flexible strategies   
+
+OpenAlex: https://openalex.org/W4399770648    
+Open access: False
+    
+[Abdulrahman H. Ba-Alawi](https://openalex.org/A5059863686), [Hai-Tra Nguyen](https://openalex.org/A5081310341), [ChangKyoo Yoo](https://openalex.org/A5076131656), Energy. 304(None)] 2024.https://doi.org/10.1016/j.energy.2024.132138.
+    
+Sustainable operation of green renewable energy (RE)-powered reverse osmosis (RO) desalination (RE-RO) systems requires co-optimization and smart strategies to reduce costs, losses and enhance system flexibility. This study proposes a decentralized distribution system (DDS) that includes a coordinated multi-objective optimization model with smart strategies for efficient operation and planning of the RE-RO system. The DDS optimizes operation by incorporating demand-side water management (DSWM) and bidirectional regulation (BDR) in the distribution network to minimize operation and emission costs, maximize system resilience, and meet the required demand. Then, sustainable planning strategies are suggested to prioritize relevant technical factors and subfactors for improving the future operation of the DDS based on multi-criteria assessment. With proposed DDS integration, the RE-RO system achieved a 17.4 % reduction in operational costs, a 46.79 % decrease in CO2 emissions, and a 70.96 % improvement in overall system resilience through effective management of water and energy surpluses and deficits. Among the operational planning strategies, the most critical criterion was DSWM-BDR based scheduling, representing 72.09 % of the strategic focus. Thus, the implementation of the proposed coordinated operating and planning strategies can significantly contribute to the development of a sustainable energy-water system, alleviate water scarcity, and facilitate climate change adaptation.    
+
+    
+
 ## Referentna vrijednost za novu drvenu zgradu s gotovo nultom potrošnjom energije u Europi   
 
 OpenAlex: https://openalex.org/W4399740500    
@@ -1489,6 +1687,17 @@ Open access: True
 [Erwin M. Schau](https://openalex.org/A5053053475), [Eva Prelovšek Niemelä](https://openalex.org/A5044801556), Drvna industrija. 75(2)] 2024.https://doi.org/10.5552/drvind.2024.0121 ([pdf](https://hrcak.srce.hr/file/459360)).
     
 To mitigate dangerous climate change, a drastic reduction of CO2 emissions is needed by 2030. Buildings contribute significantly to emissions, with the use phase of existing buildings being responsible for the majority of energy consumption. In addition, environmental problems associated with the production of raw materials, construction, and the end of life of buildings are serious concerns that require urgent solutions. Life cycle assessment (LCA) and the EU-recommended Environmental Footprint (EF) are widely accepted tools to measure environmental impacts throughout a product life cycle. However, assessing the environmental performance of wooden buildings remains a challenge. This study presents a benchmark for an average new European wooden building fulfilling the European nearly Zero Energy Building (nZEB) requirement. The benchmark utilizes the recommended EU EF impact categories with normalization and weighting, allowing for easy and quick comparisons. The results communicate the average environmental impact per square meter of floor area over one year. This benchmark is a suitable comparison point for new wooden building designs and is used as an effective tool for architects and designers during the initial planning stages of wooden buildings. By using this benchmark, the environmental performance of the building can be improved, and the communication and interpretation of LCA results can be facilitated for customers and other relevant stakeholders.    
+
+    
+
+## Development of a Comprehensive Environmental Guidance and Sustainability Assessment for Different Organic Fraction of Municipal Solid Waste-to-Biofuel Scenarios based on Life Cycle Analysis   
+
+OpenAlex: https://openalex.org/W4399721900    
+Open access: False
+    
+[Haitao Lin](https://openalex.org/A5031949232), [Jianmin Zhao](https://openalex.org/A5060630635), [Abdulkareem Abdulwahab](https://openalex.org/A5048997349), [Abir Mouldi](https://openalex.org/A5033351317), [Hassen Loukil](https://openalex.org/A5029627007), [Zhang Lin](https://openalex.org/A5064313694), [İbrahim Mahariq](https://openalex.org/A5035759479), Energy. None(None)] 2024.https://doi.org/10.1016/j.energy.2024.132073.
+    
+The environmental impact assessment of organic fraction of municipal solid waste (OF/MSW)-to-biofuel structures is essential prior to scaling them up to identify worrisome impacts on ecosystems, resources, human health, and climate. The current article aims to address a sustainable and comprehensive guide for analyzing the environmental impacts (based on the life cycle analysis (LCA)) of different OF/MSW-to-biofuel structures. To analyze different structures, three pre-treatment procedures (namely, hot water/acetone organosolv/ acid), two different hydrolysis treatment ways (acidic/enzymatic), and different fermentation alternative methods (ethanolic/acetone-ethanol-butanol fermentations) were considered. The findings of the research indicated that scenarios based on acetone-ethanol-butanol fermentation cannot address a favorable environmental performance (due to the insufficiency of the avoided effects of the output products to compensate the environmental burdens caused by acetone pre-treatment). In contrast, scenarios based on ethanolic fermentation integrated with hot water or acid-based pre-treatment process can address superior environmental performances compared to scenarios based on acetone-ethanol-butanol fermentation and ethanolic (with acetone pre-treatment). Comprehensively, Scenario S-4 (as most eco-friendly Scenario) yielded the greatest net environmental savings with reductions of -857.16 potentially disappeared fraction/m2 per year, -214.3 kg CO2 equivalent per ton of OF/MSW, and -3.33 GJ per ton of OF/MSW processed.    
 
     
 
@@ -1514,6 +1723,17 @@ The wide metabolic diversity of microalgae, their fast growth rates, and cost-ef
 
     
 
+## Deciphering the dynamic structural evolution of oxygen vacancies enriched SrFe12O19 for efficient reverse water gas shift reaction   
+
+OpenAlex: https://openalex.org/W4399771486    
+Open access: False
+    
+[Gaje Singh](https://openalex.org/A5015845615), [Jyotishman Kaishyop](https://openalex.org/A5049997771), [Md Jahiruddin Gazi](https://openalex.org/A5038938962), [Vivek Kumar Shrivastaw](https://openalex.org/A5074731165), [Mumtaj Shah](https://openalex.org/A5045406613), [Indrajit Ghosh](https://openalex.org/A5036980241), [Tuhin S. Khan](https://openalex.org/A5004425746), [Ankur Bordoloi](https://openalex.org/A5061831854), Chemical engineering journal. 494(None)] 2024.https://doi.org/10.1016/j.cej.2024.153205.
+    
+The Reverse Water-Gas Shift (rWGS) reaction is recognized as a potentially promising pathway to serve the dual purpose, possible shifting of CO2 from a linear economy to a circular and positive economic impact in the current industrial process. This study is engaged to develop a series of oxygen vacancies enriched M−type strontium hexaferrite (SrFe12O19) catalysts via doping of transition metals like Cu, Zn, Co, and Ni for the rWGS reaction. Cu-doped SrFe12O19 exhibited 100 % CO selectivity and a CO production rate of 2850 mmol h−1 gcat-1, at a comparatively lower temperature (500 °C), outpacing the performance of almost all non-precious metal-based catalytic systems. Moreover, the catalyst was active without the requirement of the H2 pre-reduction procedure and displayed remarkable stability tested up to 200 h without any significant deactivation, making it more industrially relevant. The characterization of as-prepared catalysts indicates the enrichment of oxygen vacancies and reducibility after the involvement of the dopant in the SrFe12O19 system. The formation of various iron species (Fe3O4, Fe3C, and Fe5C2) was revealed by the in-situ studies and post-reaction characterizations of the catalyst system, and their relative amounts were significantly affected by the nature of doping elements, which subsequently influenced the CO selectivity. The dynamic structural evolution and surface-adsorbed species were identified using in-situ Raman and DRIFTS studies. Finally, the structure–activity relationship was rationalized through not only several ex-situ/in-situ characterization techniques but also an in-detailed Density functional theory (DFT) study.    
+
+    
+
 ## Assessing the levels of soil water availability that minimize the damage of heatwaves to potted grapevines   
 
 OpenAlex: https://openalex.org/W4399741115    
@@ -1522,6 +1742,17 @@ Open access: True
 [Walaa Shtai](https://openalex.org/A5033242151), [Dolores Asensio](https://openalex.org/A5013959624), [Georg Wohlfahrt](https://openalex.org/A5068858662), [Massimo Tagliavini](https://openalex.org/A5034500086), Italus hortus. 31(1)] 2024.https://doi.org/10.26353/j.itahort/2024.1.95109.
     
 The adverse effects of heatwaves on viticulture could be, at least partly, mitigated by generous soil water availability. As climate change will also likely reduce irrigation water, knowing to which extent soil water availability could be decreased under the heatwaves without compromising plant performances would be important. In this pot experiment, we differentiated soil water availability by compensating 100% (T100), 70% (T70), 40% (T40) and 10% (T10) of vine transpiration. Grapevines (cv. Sauvignon) were then subjected to a 11-day heatwave (Tmax 40 °C) and to a post-heat stress recovery phase. Soil water potential between -0.05 to -0.2 MPa, respectively, in T100 and T70 enabled the plants to maintain high net CO2 assimilation (Pn), stomatal conductance (gs), and leaf transpiration (Eleaf) which kept the leaf temperature (Tleaf) below the ambient temperature and promoted the plant growth. During the heatwave, T100 and T70 vines decreased their photochemical yield and dissipated the excess energy via regulated non-photochemical heat dissipation, and resumed their photochemical activities upon removing the heat stress. Further reduction in soil water potential to -0.4 and and -1.2 MPa in T40 and T10, respectively, decreased Pn and gs and restrained Eleaf, causing a significant increase in Tleaf during the heatwave, and limited the plant recovery after the heat stress. Nonetheless, the maximum efficiency of PSII (Fv/Fm) showed quite high resistance to heat stress in all treatments. These findings suggest that decreasing soil water availability to reach soil water potential levels close to -0.2 MPa implies higher efficiency in using water resources during a heat wave without limiting plant growth.    
+
+    
+
+## Comprehensive study of alkali lignin pyrolysis catalyzed by composite metal-modified molecular sieves for the preparation of hydrocarbon liquid fuels   
+
+OpenAlex: https://openalex.org/W4399884126    
+Open access: False
+    
+[Huan Liu](https://openalex.org/A5013881064), [Huili Liu](https://openalex.org/A5091194552), [Jianhang Hu](https://openalex.org/A5076279539), [Wei Zhong](https://openalex.org/A5075646544), [Zhikai Hu](https://openalex.org/A5025645532), [Hua Wang](https://openalex.org/A5064462756), Journal of analytical and applied pyrolysis. None(None)] 2024.https://doi.org/10.1016/j.jaap.2024.106608.
+    
+Catalytic lignin pyrolysis for hydrocarbon liquid fuel production offers a viable alternative to fossil fuels. This study investigated the effects of transition metal (Fe, Co, Ni, Cu) modified composite molecular sieve catalysts on the pyrolysis product distribution and behavior of alkali lignin (AL). AL pyrolysis achieved the highest liquid product yield of 24.50% at 600 °C, with high temperatures favoring hydrocarbon product formation. Volatile gaseous products from AL pyrolysis included H2, CO, CO2, phenolic compounds, heteroatomic compounds, and hydrocarbons. Molecular sieve catalyst additions were all favorable to the increase in hydrocarbon content. Compared with ZSM-5 and SBA-15, catalysts processed through acid etching and metal modification exhibited optimized pore structure, acid site distribution, and catalytic performance. Metal-modified composite molecular sieve catalysts (FeZS, CoZS, NiZS, and CuZS) generated more liquid products and promoted hydrocarbon formation. Notably, Cu-modified ZS catalysts exhibited superior acid site distribution and specific surface area, considerably reducing oxygenated compounds in the products. A higher catalyst-to-feedstock ratio increased the number of catalytically active sites, facilitating the cracking and deoxygenation of oxygenated components and generating more hydrocarbon products. The highest hydrocarbon yield for AL with a catalyst-to-biomass ratio of 10:1 under CuZS was 92.25%, with 66.07% being monocyclic aromatic hydrocarbons (MAHs) and 61.72% benzene, toluene, ethylbenzene, and xylenes (BTEX). Additionally, kinetic and thermodynamic analyses revealed a substantial decrease in the average activation energy (Eα) of AL and a reduction in entropy value with the CuZS catalyst, indicating enhanced pyrolytic reactivity of AL. Therefore, the proposed method is highly effective for producing highly selective hydrocarbons through catalytic pyrolysis of AL.    
 
     
 
@@ -1566,17 +1797,6 @@ Open access: False
 [Thivani Senathiraja](https://openalex.org/A5077812556), No host. None(None)] 2024.https://doi.org/10.31274/td-20240617-147.
     
 Tuning the interactions of solid multi-block polymer electrolytes is a cost-effective approach to target and advance specific properties for sustainable ion-conducting applications such as fuel cells, polymer actuators, gas separation, vanadium flow batteries, water desalination using electrodialysis, and water electrolysis to produce H2 and O2. The accelerated research interest in tailoring the properties of multi-block ionomers is fueled by their ability to assemble into various heterogeneous nanoscale structures. These structures' spatial arrangement and connectivity define film strength, durability, and molecule transport. Systematically designing the spatial arrangement is a key to understanding the structure and property relationships of proton-exchange membranes (PEM)/ionomers. Such a design may solve global challenges and contribute to renewable technologies like water and energy. In this dissertation, the morphological transitions of a multi-block ionomer known as a pentablock copolymer (PBC) are investigated to advance the basic science related to the design of functional materials and the development of morphology-composition-property-transport relationships related to random and multi-block ionomers. The intermolecular interactions of PBC were altered by manipulating their free energy, thermodynamics and equilibrium via polymer blending, systematic incorporation of metal salt, thermal annealing and impregnation of inorganic SiO2/TiO2 sols. A synergistic polymer blend consisting of PBC with ion-exchange capacities (IECs) of 1.0 and 2.0, and poly(2,6-dimethyl-1,4-phenylene oxide) (PPO) revealed that PBC(2.0) exhibited greater clustering of ion groups and phase separation compared to PBC(2.0)/PPO blends, as evidenced by an increase in domain spacing from 33.1 nm to 37.0 nm. Notably, the PBC(2.0)/PPO (90/10) blend membrane showed potential in hydrogen fuel cells as they exhibited comparable proton conductivity (110ms/cm) to Nafion even when the water uptake (WU) was reduced by 58 wt%. Moreover, the PBC(1.0)/PPO blend demonstrated an H2 permeability ranging from 36.7 to 43.3 Barrers and an O2 permeability of 6.84 to 7.10 Barrers, with an ideal H2/O2 selectivity of 5.81 to 6.60, representing a hydrogen fuel cell crossover improvement over unmodified PBC(1.0). Tailoring the structure and function of PBC(1.5) with monovalent lithium and trivalent aluminum cations via both in situ and ex situ methods demonstrated that film properties were impacted by their Lewis acid strength, cation size, and interaction energy between the metal ion and sulfonated group. The Li+ formed the most stable pair with sulfonic acid groups in PBC(1.5) due to their comparable Lewis acid strength (LAS) with a Lewis base strength of 0.25 to 0.29. Lower interaction energies of 22.7 to 45.5 J/mol were exhibited by Al3+ as compared to Li+, indicating incomplete neutralization with sulfonic acid groups. At a metal salt concentration of 0.01 M, PBC(1.5)-Li-[0.01] and PBC(1.5)-Al[0.01] exhibited either 43.4% higher conductivity or similar conductivity to PBC(1.5)-H+ at all hydration levels (10% RH, 50% RH, 90% RH, and 100% wet). The results showed that metal cations incorporated via the in situ method in the PBC matrix allowed systematic tunability of these membranes for CO2/CH4 separations, elevating CO2 selectivity by 303%. Additionally, the PBC membranes with IEC 1.0 and 2.0 were blended to investigate the interplay between the simultaneous increase in the polymer backbone and sulfonic acid groups. Proton conductivity results demonstrated higher conductivity (164-224 mS/cm) in blend membranes compared to Nafion, even at 90% relative humidity (RH), with PBC(1.0)/PBC(2.0) (20/80) and (10/90) blends exhibiting superior performance. Under wet saturated conditions, PBC(1.5) showed excellent proton conductivity at 52% lower water uptake (WU) compared to PBC(2.0). Gas transport studies indicated higher selectivity for αH2/O2 (10.2-13.2) and αCO2/CH4 (4.32-36.2) in blend membranes with IECs between 1.6-1.7 mmol/g, making them potential candidates for preventing hydrogen fuel cell crossover and applications in natural gas separation. Further, the effects of manipulating the distribution of SiO2/TiO2 inorganic sols within a PBC(1.0) matrix through thermal annealing and incorporation in different physical states (solid/liquid) showed that the degree of crystallinity varied from 1.10-10.34%, with increased crystallinity correlating with decreased water uptake (WU%). Surface energy analysis revealed the enhancement of proton conductivity through the rearrangement of sulfonate domains at the surface of PBC(1.0) membranes, facilitating a more efficient path for ion conduction and varied from 17.8-30.5 mJ/m2. Notably, PBC(1.0) exchanged with liquid TiO2 sols outperformed control and benchmark Nafion membranes, exhibiting superior proton conductivity and dimensional stability, achieving 138 mS/cm conductivity even with a 12.6% reduction in WU and a 61% increase in crystallinity. Overall, this dissertation delves into the crucial role of optimizing the intermolecular interactions of PBC in achieving targeted properties. The findings hold tremendous promise for the development of sustainable ion-conducting applications, such as hydrogen fuel cells, as they enable high proton conductivity without sacrificing dimensional stability. Furthermore, these PBC membranes exhibited the potential to enhance membrane-based H2/O2 and CO2/CH4, gas separations.    
-
-    
-
-## An easy-to-use anesthetic strategy for mitigating postoperative complications following laparoscopic colorectal surgery   
-
-OpenAlex: https://openalex.org/W4399716444    
-Open access: True
-    
-[Huixian Li](https://openalex.org/A5016815290), [Yuan Li](https://openalex.org/A5087545381), [Yulin Sun](https://openalex.org/A5014478427), [Dazhuang Ge](https://openalex.org/A5066329409), [Zhaoxu Zheng](https://openalex.org/A5050138506), [Wei Tang](https://openalex.org/A5028873497), [Hui Zheng](https://openalex.org/A5006165634), [Tao Yan](https://openalex.org/A5089744573), Chinese medical journal/Chinese Medical Journal. None(None)] 2024.https://doi.org/10.1097/cm9.0000000000003163.
-    
-To the Editor: The abdominal surgical procedures are linked to a high incidence of postoperative pulmonary complications (PPCs) and may be mitigated by administration of lung-protective mechanical ventilation during anesthesia.[1,2] To date, no relevant studies have focused on protective lung ventilation strategies specifically for laparoscopic colorectal cancer (CRC). Herein, we propose an innovative easy-to-use lung-protective strategy with lower tidal volume (VT), pneumoperitoneum pressure (PnP) and deep neuromuscular blockade (NMB) and assess whether it is superior to conventional lung protection strategies in reducing PPCs. A single-center, randomized trial was conducted in patients who underwent laparoscopic colorectal surgery and followed up until 30 postoperative days (PODs). A total of 120 patients were enrolled and randomly assigned at a ratio of 1:1 to either the test group (protective lung ventilation with lower VT (6 mL/kg of predicted body weight [PBW] + low PnP [10 mmHg] + deep NMB) or the control group (conventional pulmonary ventilation [8 mL/kg of PBW for VT] + standard PnP [15 mmHg] + moderate NMB). The institutional Ethics Committee approved the study protocol (Approval No. NCC2018W-006) and the registry was completed at ClinicalTrials.gov (ChiCTR1900021989). The written informed consent were signed by each patient before enrollment. The patient follow-ups were performed throughout the hospital stay once daily or by telephone and outpatient records when patients were discharged at Day 30 after operation [Supplementary Figure 1, https://links.lww.com/CM9/C26]. In all the groups, mechanical ventilation during anesthesia consisted of volume-controlled modes of VT according to the group and PBW,[1,2] positive end expiratory pressure (PEEP) of 5 cm H2O, and alveolar recruitment maneuvers (ARMs) at 30-minute intervals. The respiratory rate was adjusted as necessary to maintain an end-tidal carbon dioxide (EtCO2) between 35 mmHg and 45 mmHg, with an inspiratory-to-expiratory ratio (I:E) of 1:2. The fraction of inspired oxygen (FiO2) was maintained at 40–60% throughout the anesthesia treatment. A portable neuromuscular monitor was applied to the ulnar nerve to confirm the depth of the NMB. The indications of NMB depth were defined as train-of-four count (TOFC) = 0 and posttetanic count (PTC) ≥1 for deep NMB and TOFC = 1–3 for moderate NMB.[3] The primary endpoint of the PPCs was systematically assessed via the operational definition of Kroenke et al[4] with the grades ranging from 1 to 4 [Supplementary Table 1, https://links.lww.com/CM9/C26]. For those suspected to have PPCs, low-dose chest computed tomography (CT) was routinely performed for confirmation. The secondary endpoints comprise postoperative analgesia and serological inflammatory factor expression. All the statistical analyses were performed by using SPSS 25.0 (IBM SPSS, Inc., NY, USA). The Kaplan–Meier (K–M) method combined with log-rank analysis was used to compare the incidence of PPCs between the two groups. Quantitative data are presented as the medians (interquartile ranges) and were compared using Student's t-test or the Mann–Whitney rank test. Categorical variables were analyzed using the chi-square or the Fisher exact test. The two-tailed P values <0.05 were considered as statistically significant. The sample size was calculated according to the results of our preliminary experiment. With a significance level of 0.05 and a power of 80%, a minimum of 55 patients were included in each group. Considering a 10% drop-out rate during the follow-up, 60 patients were enrolled in each group. In this study, 152 patients who underwent laparoscopic colorectal surgery were initially included, and a total of 120 patients were ultimately enrolled. The patients in the two groups had comparable baseline characteristics [Supplementary Table 2, https://links.lww.com/CM9/C26]. The K–M analysis revealed a significant difference in the incidence of PPCs within 30 days after surgery between the test group (9 of 60, 15.0%) and the control group (19 of 60, 31.7%) (P = 0.031; Table 1, Supplementary Figure 2, https://links.lww.com/CM9/C26). Of these, patients of grade 1 (primarily microatelectasis) account for the largest proportion of PPCs (test group vs. control group; 77.8% [7 of 9] vs. 68.4% [13 of 19]). For subgroup analysis, the test group exhibited superior analgesic outcomes and fewer related postoperative inflammatory responses than did the control group for individuals with a standard or overweight body mass index (BMI) <27.9 kg/m2, who were younger than 62 years, or who had an anesthesia duration of 3 hours or less [Supplementary Figure 3, https://links.lww.com/CM9/C26]. Atelectasis formation, a shift in the ventilation-to-perfusion ratio by reduced pulmonary compliance and increased chest pressure facilitates PPCs even in patients with healthy lungs. This pathophysiological alteration will be exacerbated during laparoscopic colorectal surgery. Pulmonary atelectasis is the main cause of PPCs progression and is mainly attributed to compression of the lung parenchyma, absorption of alveolar gases, and impaired extra-alveolar function. The use of higher FiO2 (>80%) can also lead to absorptive lung atelectasis and exacerbate inflammatory lung injury.[2] PPCs can also cause lung injury, lung infection, or barotrauma in turn. Tidal volumes in the range of 6–8 mL/kg of PBW are widely accepted for non-injured lungs.[2] Single low-tidal volume ventilation plays the most important role in protective ventilation,[1,2,5] which may lead to decreased compliance and atelectasis formation. Therefore, in comparison to the control group, which had a concentration of 8 mL/kg, 6 mL/kg was adopted for the test group. The ideal level of PEEP to resist atelectasis remains in dispute, with low-risk patients receiving PEEP of less than 5 cm H2O but high-risk patients requiring higher levels of PEEP.[5] Once atelectasis has occurred, ARMs are required to recruit alveoli. Additionally, it has been proven that a lower PnP involves reduced peak inspiratory pressure and facilitates respiratory compliance, especially in the Trendelenburg position. Some evidence has shown that postoperative lung function is equivalent in patients receiving the same PnP, regardless of whether deep or moderate NMB is used, thus demonstrating a close correlation between PnP and postoperative PPCs.[6] Postoperative pain is another critical factor in the formation of PPCs, pain-induced restriction of abdominal breathing initiates the microatelectasis and subsequent atelectasis formation. Despite using the same standardized analgesic protocol in both groups, our results indicate that the lung-protective strategy was associated with lower short-term postoperative VAS scores (P = 0.016 for postoperative 1 h, P = 0.071 for POD 1 [Table 1]) and decreased serum interleukin-6 (IL-6) expression on POD 3 (P = 0.017). Of note, the subgroup results reveal a superior advantage in analgesia and systemic inflammation suppression in the test group, especially in those with BMI <27.9 kg/m2, age <62 years, or anesthesia duration ≤3 hours [Supplementary Figure 3, https://links.lww.com/CM9/C26]. One potential mechanism through which analgesia is achieved could be the reduction in tension exerted on the abdominal wall facilitated by deep NMB, thereby reducing postoperative incisional pain.[7] Additionally, low PnP can relieve visceral and shoulder pain by lowering the partial pressure of carbon dioxide in the blood and reducing inflammatory cytokines/oxygen-free radicals arising from visceral ischemia–reperfusion injury. Given that inflammation is implicated in the progression of pain, lung injury, and PPCs,[1] the causal relationship remains undetermined. Table 1 - Clinical outcomes between the test and control groups. Indexes Control group (N = 60) Test group (N = 60) P value Incidence of PPCs within 30 days 19 (31.7) 9 (15.0) 0.031 Grade 1 13 (21.7) 7 (11.7) 0.143 Grade 2 5 (8.3) 2 (1.3) 0.213 Grade 3 1 (1.7) 0 0.608 Systemic inflammatory index IL-1β (pg/mL) Preoperation 3.0 (2.5–3.3) 2.7 (2.4–3.0) 0.583 POD 1 4.0 (3.2–6.0) 3.6 (2.9–4.5) 0.245 POD 3 3.3 (2.9–3.8) 2.9 (2.5–3.4) 0.673 IL-6 (pg/mL) Preoperation 2.2 (2.0–2.3) 2.1 (1.5–2.3) 0.125 POD 1 2.6 (2.2–3.7) 2.5 (2.2–3.3) 0.172 POD 3 2.3 (2.1–2.5) 2.1 (1.5–2.3) 0.017 Postoperative analgesia, VAS 1 h 2 (1–4) 1 (1–2) 0.016 POD 1 2 (2–3) 2 (1–2) 0.071 POD 2 2 (1–2) 2 (1–2) 0.283 POD 3 1 (1–2) 1 (1–2) 0.520 POD 5 1 (0–1) 1 (0–1) 0.735 The data are shown as n (%) or medians (Q1–Q3). P values were calculated by Kaplan–Meier analysis, or the Mann–Whitney rank test. IL-1β: Interleukin-1β; IL-6: Interleukin-6; POD: Postoperative day; PPCs: Postoperative pulmonary complications; VAS: Visual analog scale. As a single-center study, only one study site cannot be representative of the clinical practices in a larger patient population. Chronic postsurgical pain and more detailed pain categories should be further explored. Furthermore, mechanistic studies in the outcome after novel treatment strategies need to be investigated. In conclusion, the holistic anesthetic strategy of protective lung ventilation combined with deep NMB and low PnP can reduce the PPCs in patients undergoing laparoscopic colorectal surgery. Further studies are needed to test the efficacy and heterogeneity of the clinical application of this easy-to-use anesthetic strategy. Funding This work was supported by grants from the CAMS Innovation Fund for Medical Sciences (Nos. CIFMS, 2022-I2M-C&T-B-061, 2021-I2M-1-066), the Beijing Hope Run Special Fund of Cancer Foundation of China (Nos. LC2021A18, LC2022B06), and the National Natural Science Foundation of China (No. 82073327). Conflicts of interest None.    
 
     
 

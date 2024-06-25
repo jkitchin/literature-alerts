@@ -4,29 +4,9 @@
     <link>https://raw.githubusercontent.com/jkitchin/literature-alerts/main/rss/rss/Papers-that-cite-my-papers.xml</link>
     <description>Citations to my papers</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Jun 2024 01:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 01:08:47 GMT</lastBuildDate>
     <generator>rfeed v1.1.1</generator>
     <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-    <item>
-      <title>Rapid photothermal reduction-derived Pt1.6Ni nanoalloys embedded in laser-induced graphene for hydrogen evolution reaction</title>
-      <link>https://doi.org/10.1016/j.ijhydene.2024.06.063</link>
-      <description>Seung Geun Jo, Yoo-Kyum Shin, Min&#8208;Ho Seo, Jung Woo Lee, International journal of hydrogen energy. 77(None)] 2024. https://openalex.org/W4399712029
-
-                No abstract</description>
-      <author>Seung Geun Jo, Yoo-Kyum Shin, Min&#8208;Ho Seo, Jung Woo Lee</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.ijhydene.2024.06.063</guid>
-    </item>
-    <item>
-      <title>Structure evolution of Cu3Pd single-particles under CO2 hydrogenation</title>
-      <link>https://doi.org/10.1016/j.cej.2024.153208</link>
-      <description>Changcheng Xu, Shaobo Han, Qiao Zhao, Shuang Liu, Wei Liu, Yong Li, Wenjie Shen, Chemical engineering journal. 494(None)] 2024. https://openalex.org/W4399715717
-
-                No abstract</description>
-      <author>Changcheng Xu, Shaobo Han, Qiao Zhao, Shuang Liu, Wei Liu, Yong Li, Wenjie Shen</author>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1016/j.cej.2024.153208</guid>
-    </item>
     <item>
       <title>Microkinetic Molecular Volcano Plots for Enhanced Catalyst Selectivity and Activity Predictions</title>
       <link>https://doi.org/10.1021/acscatal.4c01175</link>
@@ -62,7 +42,7 @@
       <link>https://doi.org/10.1016/j.jechem.2024.06.008</link>
       <description>Yaru Lei, Yue Niu, Xiaolong Tang, Xiangtao Yu, Xiubing Huang, Xiaoxi Lin, Honghong Yi, Shunzheng Zhao, Jingjing Jiang, Jiyue Zhang, Feifei Gao, Journal of Energy Chemistry/Journal of energy chemistry. None(None)] 2024. https://openalex.org/W4399730927
 
-                No abstract</description>
+                Electrocatalytic CO2 reduction reaction (CO2RR) technology, which enables carbon capture storage and resource utilization by reducing CO2 to valuable chemicals or fuels, has become a global research hotspot in recent decades. Among the many products of CO2RR (carbon monoxide, acids, aldehydes and alcohols, olefins, etc.), alcohols (methanol, ethanol, propanol, etc.) have a higher market value and energy density, but it is also more difficult to produce. Copper is known to be effective in catalyzing CO2 to high value-added alcohols, but with poor selectivity. The progress of Cu-based catalysts for the selective generation of alcohols, including copper oxides, bimetals, single atoms and composites is reviewed. Meanwhile, to improve Cu-based catalyst activity and modulate product selectivity, the modulation strategies are straighten out, including morphological regulation, crystalline surface, oxidation state, as well as elemental doping and defect engineering. Based on the research progress of electrocatalytic CO2 reduction for alcohol production on Cu-based materials, the reaction pathways and the key intermediates of the electrocatalytic CO2RR to methanol, ethanol and propanol are summarized. Finally, the problems of traditional electrocatalytic CO2RR are introduced, and the future applications of machine learning and theoretical calculations are prospected. An in-depth discussion and a comprehensive review of the reaction mechanism, catalyst types and regulation strategies were carried out with a view to promoting the development of electrocatalytic CO2RR to alcohols.</description>
       <author>Yaru Lei, Yue Niu, Xiaolong Tang, Xiangtao Yu, Xiubing Huang, Xiaoxi Lin, Honghong Yi, Shunzheng Zhao, Jingjing Jiang, Jiyue Zhang, Feifei Gao</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.jechem.2024.06.008</guid>
@@ -298,16 +278,6 @@
       <guid isPermaLink="true">https://doi.org/10.1002/adfm.202404043</guid>
     </item>
     <item>
-      <title>Microenvironment regulation breaks the Faradaic efficiency-current density trade-off for electrocatalytic deuteration using D2O</title>
-      <link>https://doi.org/10.1038/s41467-024-49544-y</link>
-      <description>Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu, Bin Zhang, Nature communications. 15(1)] 2024. https://openalex.org/W4399814416
-
-                Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at &#8722;100 mA cm &#8722;2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at &#8722;100 mA cm &#8722;2 rationalizes the design concept.</description>
-      <author>Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu, Bin Zhang</author>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-49544-y</guid>
-    </item>
-    <item>
       <title>&lt;i&gt;Ab Initio&lt;/i&gt; Studies of Electrocatalytic CO&lt;sub&gt;2&lt;/sub&gt; Reduction for Small Cu Cluster Supported on Polar Substrates</title>
       <link>https://doi.org/10.1021/acsami.4c07445</link>
       <description>Huiru Yang, Wenli Zou, Chunmei Zhang, Aijun Du, ACS applied materials &amp; interfaces. None(None)] 2024. https://openalex.org/W4399847413
@@ -342,7 +312,7 @@
       <link>https://doi.org/10.1016/j.checat.2024.101035</link>
       <description>Susanta Bera, Chem catalysis. 4(6)] 2024. https://openalex.org/W4399855134
 
-                No abstract</description>
+                In this issue of Chem Catalysis, Zhu, Luo, and coworkers report Ce-doped RuO2 (Ce-RuO2-x) in which a synergistic effect between the Ce-O-Ru local structure and existing oxygen vacancies can allow the boosting of the acidic water oxidation activity and stability through an adsorption evolution mechanism. In this issue of Chem Catalysis, Zhu, Luo, and coworkers report Ce-doped RuO2 (Ce-RuO2-x) in which a synergistic effect between the Ce-O-Ru local structure and existing oxygen vacancies can allow the boosting of the acidic water oxidation activity and stability through an adsorption evolution mechanism. Manipulating reaction pathway of ruthenium oxide with enhanced performance and stability toward acidic water oxidationWu et al.Chem CatalysisMay 20, 2024In BriefA Ce-doped RuO2 catalyst with the existence of oxygen vacancies is developed toward highly efficient and stable oxygen evolution electrocatalysis under acidic media. The Ce-O-Ru local environment and oxygen vacancies can not only contribute to stabilizing the OOH&#8727; intermediate and lead to manipulating the reaction pathway from LOM to AEM but also suppress surface Ru demetallation and lattice oxygen loss. Full-Text PDF</description>
       <author>Susanta Bera</author>
       <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1016/j.checat.2024.101035</guid>
@@ -526,6 +496,16 @@
       <author>Soraya Learte&#8208;Aymam&#237;, Laura Mart&#237;nez-Castro, Cristian Gonz&#225;lez-Gonz&#225;lez, Miriam Condeminas, Pau Mart&#237;n-Malpartida, Mar&#237;a Tom&#225;s&#8208;Gamasa, Sandra Ba&#250;lde, Jos&#233; R. Couceiro, Jean&#8208;Didier Mar&#233;chal, Mar&#237;a Jos&#233; Carrasco Mac&#237;as, Jos&#233; L. Mascare&#241;as, M. Eugenio V&#225;zquez</author>
       <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
       <guid isPermaLink="true">https://doi.org/10.1021/jacsau.4c00379</guid>
+    </item>
+    <item>
+      <title>Microenvironment regulation breaks the Faradaic efficiency-current density trade-off for electrocatalytic deuteration using D2O</title>
+      <link>https://doi.org/10.1038/s41467-024-49544-y</link>
+      <description>Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu, Bin Zhang, Nature communications. 15(1)] 2024. https://openalex.org/W4399814416
+
+                Abstract The high Faradaic efficiency (FE) of the electrocatalytic deuteration of organics with D 2 O at a large current density is significant for deuterated electrosynthesis. However, the FE and current density are the two ends of a seesaw because of the severe D 2 evolution side reaction at nearly industrial current densities. Herein, we report a combined scenario of a nanotip-enhanced electric field and surfactant-modified interface microenvironment to enable the electrocatalytic deuteration of arylacetonitrile in D 2 O with an 80% FE at &#8722;100 mA cm &#8722;2 . The increased concentration with low activation energy of arylacetonitrile due to the large electric field along the tips and the accelerated arylacetonitrile transfer and suppressed D 2 evolution by the surfactant-created deuterophobic microenvironment contribute to breaking the trade-off between a high FE and large current density. Furthermore, the application of our strategy in other deuteration reactions with improved Faradaic efficiencies at &#8722;100 mA cm &#8722;2 rationalizes the design concept.</description>
+      <author>Meng He, Rui Li, Chuanqi Cheng, Cuibo Liu, Bin Zhang</author>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://doi.org/10.1038/s41467-024-49544-y</guid>
     </item>
     <item>
       <title>Low-energy electrochemical CO2-amine desorption driven by the proton-coupled electron transfer reaction (PCET)</title>
